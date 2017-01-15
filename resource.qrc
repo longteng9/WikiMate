@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>static/add-line_horizontal.png</file>
+        <file>static/add-line_vertical.png</file>
+        <file>static/array_down.png</file>
+        <file>static/black.css</file>
+        <file>static/blue.css</file>
+        <file>static/checkbox_checked.png</file>
+        <file>static/checkbox_unchecked.png</file>
+        <file>static/error.png</file>
+        <file>static/fontawesome-webfont.ttf</file>
+        <file>static/gray.css</file>
+        <file>static/info.png</file>
+        <file>static/navy.css</file>
+        <file>static/question.png</file>
+        <file>static/radio_normal.png</file>
+        <file>static/radio_selected.png</file>
+        <file>static/sub-line_horizontal.png</file>
+        <file>static/sub-line_vertical.png</file>
+        <file>static/app_icon_256.ico</file>
+    </qresource>
+</RCC>
