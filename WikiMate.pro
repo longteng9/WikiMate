@@ -27,12 +27,14 @@ SOURCES += main.cpp\
         MainWindow.cpp \
     FileTableModel.cpp \
     FileTableView.cpp \
-    FileItemDelegate.cpp
+    FileItemDelegate.cpp \
+    Helper.cpp
 
 HEADERS  += MainWindow.h \
     FileTableModel.h \
     FileTableView.h \
-    FileItemDelegate.h
+    FileItemDelegate.h \
+    Helper.h
 
 FORMS    += MainWindow.ui
 

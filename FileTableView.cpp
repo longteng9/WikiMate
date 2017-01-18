@@ -4,6 +4,7 @@
 #include <QHeaderView>
 #include <QMenu>
 #include <QDebug>
+#include <QDir>
 
 FileTableView::FileTableView(QWidget *parent) :
     QTableView(parent),
@@ -12,6 +13,7 @@ FileTableView::FileTableView(QWidget *parent) :
     initUI();
     initData();
     connect(this, &FileTableView::customContextMenuRequested, this, &FileTableView::onCreateContextMenu);
+    connect(this, &QTableView::doubleClicked, this, &FileTableView::onDoubleClicked);
 }
 
 FileTableView::~FileTableView()
@@ -36,17 +38,8 @@ void FileTableView::initData()
     mModel = new FileTableModel();
     this->setModel(mModel);
     QStringList headers;
-    headers << "" << "Filename" << "Words" << "Size" << "State" << "Progress" << "Tag" << "Start Time";
+    headers << "" << "Filename" << "Words" << "Size" << "State" << "Completion Rate" << "Tag" << "Start Time";
     mModel->setHorizontalHeader(headers);
-
-
-    QVector<QStringList> data;
-    data.append(QStringList() << ":/static/question.png" << "filename1" << "123" << "872KB" << "Translating" << "50" << "" << "2017-02-01");
-    data.append(QStringList() << ":/static/question.png" << "filename2" << "123" << "872KB" << "Translating" << "50"  << "" << "2017-02-01");
-    data.append(QStringList() << ":/static/questions.png" << "filename3" << "123" << "872KB" << "Translating" << "50"  << "" << "2017-02-01");
-    data.append(QStringList() << ":/static/question.png" << "filename4" << "123" << "872KB" << "Translating" << "50" << "" << "2017-02-01");
-    data.append(QStringList() << ":/static/questions.png" << "filename5" << "123" << "872KB" << "Translating" << "50"  << "" << "2017-02-01");
-    mModel->setData(data);
 
     mItemDelegate = new FileItemDelegate(this);
     this->setItemDelegate(mItemDelegate);
@@ -58,6 +51,11 @@ void FileTableView::initData()
     this->setColumnWidth(4, 75);
     this->setColumnWidth(5, 180);
     this->setColumnWidth(6, 70);
+}
+
+void FileTableView::updateData(const QVector<QStringList> &data){
+    mModel->setData(data);
+    emit mModel->layoutChanged();
 }
 
 void FileTableView::onCreateContextMenu(const QPoint &point){
@@ -73,13 +71,27 @@ void FileTableView::onCreateContextMenu(const QPoint &point){
     QAction *act_addFiles = mContextMenu->addAction("Add Files");
     QAction *act_delFile = mContextMenu->addAction("Delete File");
     QAction *act_openFolder = mContextMenu->addAction("Open Folder");
+    QAction *act_refreshList = mContextMenu->addAction("Refresh List");
     connect(act_trans, &QAction::triggered, this, &FileTableView::act_openAndTrans);
     connect(act_finalize, &QAction::triggered, this, &FileTableView::act_closeAndFinalize);
     connect(act_addFiles, &QAction::triggered, this, &FileTableView::act_addFiles);
     connect(act_delFile, &QAction::triggered, this, &FileTableView::act_deleteFile);
     connect(act_openFolder, &QAction::triggered, this, &FileTableView::act_openFolder);
+    connect(act_refreshList, &QAction::triggered, this, &FileTableView::act_refreshList);
 
     mContextMenu->exec(QCursor::pos());
+}
+
+void FileTableView::onDoubleClicked(const QModelIndex &index){
+    QString path = QDir::currentPath();
+    QString fileName = mModel->index(index.row(), 1).data().toString();
+    if(path.endsWith(QDir::separator())){
+        path.append(fileName);
+    }else{
+        path.append(QDir::separator());
+        path.append(fileName);
+    }
+    emit startTransEditing(path);
 }
 
 void FileTableView::act_openAndTrans(){
@@ -104,6 +116,10 @@ void FileTableView::act_deleteFile(){
 
 void FileTableView::act_openFolder(){
     int row = this->currentIndex().row();
+
+}
+
+void FileTableView::act_refreshList(){
 
 }
 

@@ -82,6 +82,41 @@
            <number>0</number>
           </property>
           <item>
+           <widget class="QPushButton" name="btnWorkingDir">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">QPushButton{
+font: 11pt &quot;微软雅黑&quot;;
+border-style: none;
+border: 0px;
+color: #F0F0F0;
+padding: 5px;	
+min-height: 20px;
+border-radius:0px;
+background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3); }
+QPushButton:hover{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #50A3F0, stop:1 #489CEA);
+}
+
+QPushButton:pressed{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3);
+}</string>
+            </property>
+            <property name="text">
+             <string>Set Working
+Directory</string>
+            </property>
+            <property name="flat">
+             <bool>true</bool>
+            </property>
+           </widget>
+          </item>
+          <item>
            <layout class="QVBoxLayout" name="verticalLayout_7">
             <property name="spacing">
              <number>2</number>
@@ -222,7 +257,7 @@ QPushButton:pressed{
 }</string>
               </property>
               <property name="text">
-               <string>Delete Files</string>
+               <string>Delete File</string>
               </property>
               <property name="flat">
                <bool>true</bool>
@@ -230,40 +265,6 @@ QPushButton:pressed{
              </widget>
             </item>
            </layout>
-          </item>
-          <item>
-           <widget class="QPushButton" name="btnOpenFolder">
-            <property name="sizePolicy">
-             <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
-              <horstretch>0</horstretch>
-              <verstretch>0</verstretch>
-             </sizepolicy>
-            </property>
-            <property name="styleSheet">
-             <string notr="true">QPushButton{
-font: 11pt &quot;微软雅黑&quot;;
-border-style: none;
-border: 0px;
-color: #F0F0F0;
-padding: 5px;	
-min-height: 20px;
-border-radius:0px;
-background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3); }
-QPushButton:hover{ 
-	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #50A3F0, stop:1 #489CEA);
-}
-
-QPushButton:pressed{ 
-	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3);
-}</string>
-            </property>
-            <property name="text">
-             <string>Open Folder</string>
-            </property>
-            <property name="flat">
-             <bool>true</bool>
-            </property>
-           </widget>
           </item>
           <item>
            <spacer name="horizontalSpacer">
@@ -348,11 +349,34 @@ QPushButton:pressed{
               </property>
               <item>
                <widget class="QListWidget" name="lstFileOptions">
+                <property name="focusPolicy">
+                 <enum>Qt::NoFocus</enum>
+                </property>
                 <property name="styleSheet">
-                 <string notr="true">font: 75 11pt &quot;微软雅黑&quot;;
-background-color: rgb(240, 240, 240);
-border-color: rgba(255, 255, 255, 0);
-selection-background-color:rgb(37, 156, 247);</string>
+                 <string notr="true">QListView{
+	font: 75 11pt &quot;微软雅黑&quot;;
+	background-color: rgb(240, 240, 240);
+	border-color: rgba(255, 255, 255, 0);
+	selection-background-color:rgb(37, 156, 247);
+	border: 1px solid #50A3F0; 
+	selection-background-color: #0F7DBE;
+	selection-color: #F0F0F0;
+}
+
+QListView::item:selected {
+	color: #F0F0F0;
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3); 
+}
+
+QListView::item:hover {
+	color: #F0F0F0;
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #50A3F0, stop:1 #489CEA); 
+}
+
+QListView::item {
+	padding: 5px; 
+	margin: 0px; 
+}</string>
                 </property>
                 <property name="selectionRectVisible">
                  <bool>false</bool>
@@ -413,10 +437,33 @@ selection-background-color:rgb(37, 156, 247);</string>
               </property>
               <item>
                <widget class="QListWidget" name="lstMenu">
+                <property name="focusPolicy">
+                 <enum>Qt::NoFocus</enum>
+                </property>
                 <property name="styleSheet">
-                 <string notr="true">background-color: rgb(240, 240, 240);
-font: 75 12pt &quot;微软雅黑&quot;;
-selection-background-color:rgb(37, 156, 247);</string>
+                 <string notr="true">QListView{
+	font: 75 12pt &quot;微软雅黑&quot;;
+	background-color: rgb(240, 240, 240);
+	selection-background-color:rgb(37, 156, 247);
+	border: 1px solid #50A3F0; 
+	selection-background-color: #0F7DBE;
+	selection-color: #F0F0F0;
+}
+
+QListView::item:selected {
+	color: #F0F0F0;
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3); 
+}
+
+QListView::item:hover {
+	color: #F0F0F0;
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #50A3F0, stop:1 #489CEA); 
+}
+
+QListView::item {
+	padding: 5px; 
+	margin: 0px; 
+}</string>
                 </property>
                 <property name="lineWidth">
                  <number>0</number>

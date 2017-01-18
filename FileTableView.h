@@ -11,7 +11,10 @@ class FileTableView : public QTableView
     Q_OBJECT
 public:
     explicit FileTableView(QWidget *parent = 0);
-    FileTableModel* tableModel() {return mModel;}
+    FileTableModel* tableModel() {
+        return mModel;
+    }
+    void updateData(const QVector<QStringList> &data);
     ~FileTableView();
 
 private:
@@ -19,6 +22,7 @@ private:
     void initData();
 
 signals:
+    void startTransEditing(const QString &);
 
 public slots:
     void act_openAndTrans();
@@ -26,9 +30,11 @@ public slots:
     void act_addFiles();
     void act_deleteFile();
     void act_openFolder();
+    void act_refreshList();
 
 private slots:
     void onCreateContextMenu(const QPoint &point);
+    void onDoubleClicked(const QModelIndex &index);
 
 private:
     FileTableModel *mModel;

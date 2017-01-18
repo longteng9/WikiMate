@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 #include <QListWidgetItem>
+#include <QMap>
 
 namespace Ui {
 class MainWindow;
@@ -17,15 +18,23 @@ public:
     ~MainWindow();
 
 public slots:
-    void on_update_fileList(const QList<QMap<QString, QString> > & data);
+    void on_startTransEditing(const QString &path);
 
 private slots:
     void on_lstMenu_currentItemChanged(QListWidgetItem *current, QListWidgetItem *previous);
 
     void on_lstFileOptions_currentItemChanged(QListWidgetItem *current, QListWidgetItem *previous);
 
+    void on_btnWorkingDir_clicked();
+
+    void on_lstMenu_clicked(const QModelIndex &index);
+
 private:
     void initUI();
+    void updateFileList(const QVector<QStringList> &data);
+    void restoreHistory();
+    void saveHistory();
+
 
 private:
     Ui::MainWindow *ui;

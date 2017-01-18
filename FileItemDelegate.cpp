@@ -29,6 +29,10 @@ void FileItemDelegate::paint(QPainter *painter,
         painter->drawPixmap(x, y, pic);
         painter->restore();
     } else if (index.column() == 5) {
+        QString check = index.model()->data(index).toString();
+        if (check.contains(' ')){
+            return QItemDelegate::paint(painter, option, index);
+        }
         int value = index.model()->data(index).toInt();
         QStyleOptionProgressBarV2 progressBarOption;
         progressBarOption.rect = option.rect.adjusted(4, 4, -4, -4);
