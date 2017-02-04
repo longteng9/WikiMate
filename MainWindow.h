@@ -18,7 +18,10 @@ public:
     ~MainWindow();
 
 public slots:
-    void on_startTransEditing(const QString &path);
+    void on_btnRefreshTasks_clicked();
+    void on_btnExportTask_clicked();
+    void on_btnAddTasks_clicked();
+    void on_btnRemoveTasks_clicked();
 
 private slots:
     void on_lstMenu_currentItemChanged(QListWidgetItem *current, QListWidgetItem *previous);
@@ -29,14 +32,24 @@ private slots:
 
     void on_lstMenu_clicked(const QModelIndex &index);
 
+    void on_lstTaskFilter_currentTextChanged(const QString &currentText);
+
+    void on_btnStartTask_clicked();
+
+    void on_txtOriginal_cursorPositionChanged();
+
+    void on_txtOriginal_selectionChanged();
+
 private:
     void initUI();
     void updateFileList(const QVector<QStringList> &data);
+    void filterFileList(const QString& keyword);
     void restoreHistory();
     void saveHistory();
 
 
 private:
+
     Ui::MainWindow *ui;
 };
 

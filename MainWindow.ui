@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1001</width>
-    <height>642</height>
+    <width>1135</width>
+    <height>700</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -58,6 +58,9 @@
         <property name="styleSheet">
          <string notr="true">border-color: rgba(255, 255, 255, 0);</string>
         </property>
+        <property name="currentIndex">
+         <number>1</number>
+        </property>
         <property name="tabBarAutoHide">
          <bool>true</bool>
         </property>
@@ -91,7 +94,7 @@
             </property>
             <property name="styleSheet">
              <string notr="true">QPushButton{
-font: 11pt &quot;微软雅黑&quot;;
+font: 10pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -108,7 +111,7 @@ QPushButton:pressed{
 }</string>
             </property>
             <property name="text">
-             <string>Set Working
+             <string>Change Working
 Directory</string>
             </property>
             <property name="flat">
@@ -122,7 +125,7 @@ Directory</string>
              <number>2</number>
             </property>
             <item>
-             <widget class="QPushButton" name="btnTrans">
+             <widget class="QPushButton" name="btnStartTask">
               <property name="sizePolicy">
                <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
                 <horstretch>0</horstretch>
@@ -131,7 +134,7 @@ Directory</string>
               </property>
               <property name="styleSheet">
                <string notr="true">QPushButton{
-font: 11pt &quot;微软雅黑&quot;;
+font: 10pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -148,7 +151,7 @@ QPushButton:pressed{
 }</string>
               </property>
               <property name="text">
-               <string>Open and Trans</string>
+               <string>Start Task</string>
               </property>
               <property name="flat">
                <bool>true</bool>
@@ -156,7 +159,7 @@ QPushButton:pressed{
              </widget>
             </item>
             <item>
-             <widget class="QPushButton" name="btnFinalize">
+             <widget class="QPushButton" name="btnExportTask">
               <property name="sizePolicy">
                <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
                 <horstretch>0</horstretch>
@@ -165,7 +168,7 @@ QPushButton:pressed{
               </property>
               <property name="styleSheet">
                <string notr="true">QPushButton{
-font: 11pt &quot;微软雅黑&quot;;
+font: 10pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -182,7 +185,7 @@ QPushButton:pressed{
 }</string>
               </property>
               <property name="text">
-               <string>Close and Finalize</string>
+               <string>Export Task</string>
               </property>
               <property name="flat">
                <bool>true</bool>
@@ -197,7 +200,7 @@ QPushButton:pressed{
              <number>2</number>
             </property>
             <item>
-             <widget class="QPushButton" name="btnAddFiles">
+             <widget class="QPushButton" name="btnAddTasks">
               <property name="sizePolicy">
                <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
                 <horstretch>0</horstretch>
@@ -206,7 +209,7 @@ QPushButton:pressed{
               </property>
               <property name="styleSheet">
                <string notr="true">QPushButton{
-font: 11pt &quot;微软雅黑&quot;;
+font: 10pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -223,7 +226,7 @@ QPushButton:pressed{
 }</string>
               </property>
               <property name="text">
-               <string>Add Files</string>
+               <string>Add New Task</string>
               </property>
               <property name="flat">
                <bool>true</bool>
@@ -231,7 +234,7 @@ QPushButton:pressed{
              </widget>
             </item>
             <item>
-             <widget class="QPushButton" name="btnDeleteFiles">
+             <widget class="QPushButton" name="btnRemoveTasks">
               <property name="sizePolicy">
                <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
                 <horstretch>0</horstretch>
@@ -240,7 +243,7 @@ QPushButton:pressed{
               </property>
               <property name="styleSheet">
                <string notr="true">QPushButton{
-font: 11pt &quot;微软雅黑&quot;;
+font: 10pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -257,7 +260,7 @@ QPushButton:pressed{
 }</string>
               </property>
               <property name="text">
-               <string>Delete File</string>
+               <string>Remove Task</string>
               </property>
               <property name="flat">
                <bool>true</bool>
@@ -279,9 +282,43 @@ QPushButton:pressed{
             </property>
            </spacer>
           </item>
+          <item>
+           <widget class="QPushButton" name="btnRefreshTasks">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">QPushButton{
+font: 10pt &quot;Verdana&quot;;
+border-style: none;
+border: 0px;
+color: #F0F0F0;
+padding: 5px;	
+min-height: 20px;
+border-radius:0px;
+background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3); }
+QPushButton:hover{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #50A3F0, stop:1 #489CEA);
+}
+
+QPushButton:pressed{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3);
+}</string>
+            </property>
+            <property name="text">
+             <string>Refresh</string>
+            </property>
+            <property name="flat">
+             <bool>true</bool>
+            </property>
+           </widget>
+          </item>
          </layout>
         </widget>
-        <widget class="QWidget" name="tab_2">
+        <widget class="QWidget" name="tab_editor_actions">
          <attribute name="title">
           <string>Tab 2</string>
          </attribute>
@@ -319,10 +356,10 @@ QPushButton:pressed{
              </size>
             </property>
             <property name="styleSheet">
-             <string notr="true"/>
+             <string notr="true">border: 1px solid #50A3F0; </string>
             </property>
             <property name="currentIndex">
-             <number>0</number>
+             <number>1</number>
             </property>
             <property name="tabBarAutoHide">
              <bool>true</bool>
@@ -348,13 +385,13 @@ QPushButton:pressed{
                <number>0</number>
               </property>
               <item>
-               <widget class="QListWidget" name="lstFileOptions">
+               <widget class="QListWidget" name="lstTaskFilter">
                 <property name="focusPolicy">
                  <enum>Qt::NoFocus</enum>
                 </property>
                 <property name="styleSheet">
                  <string notr="true">QListView{
-	font: 75 11pt &quot;微软雅黑&quot;;
+	font: 75 10pt &quot;Verdana&quot;;
 	background-color: rgb(240, 240, 240);
 	border-color: rgba(255, 255, 255, 0);
 	selection-background-color:rgb(37, 156, 247);
@@ -385,10 +422,58 @@ QListView::item {
               </item>
              </layout>
             </widget>
-            <widget class="QWidget" name="tab_4">
+            <widget class="QWidget" name="tab_index">
              <attribute name="title">
               <string>Tab 2</string>
              </attribute>
+             <layout class="QVBoxLayout" name="verticalLayout_9">
+              <property name="spacing">
+               <number>0</number>
+              </property>
+              <property name="leftMargin">
+               <number>0</number>
+              </property>
+              <property name="topMargin">
+               <number>0</number>
+              </property>
+              <property name="rightMargin">
+               <number>0</number>
+              </property>
+              <property name="bottomMargin">
+               <number>0</number>
+              </property>
+              <item>
+               <widget class="QLineEdit" name="editKeyword">
+                <property name="minimumSize">
+                 <size>
+                  <width>0</width>
+                  <height>40</height>
+                 </size>
+                </property>
+                <property name="styleSheet">
+                 <string notr="true">QLineEdit{
+font: 10pt &quot;Verdana&quot;;
+border-style: none;
+border: 0px;
+color: #F0F0F0;
+padding: 5px;	
+min-height: 30px;
+border-radius:0px;
+background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #3FADEE, stop:1 #45B2EE); }</string>
+                </property>
+                <property name="placeholderText">
+                 <string>Keyword to search...</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QListWidget" name="lstIndex">
+                <property name="styleSheet">
+                 <string notr="true">font: 10pt &quot;Verdana&quot;;</string>
+                </property>
+               </widget>
+              </item>
+             </layout>
             </widget>
            </widget>
           </item>
@@ -442,7 +527,7 @@ QListView::item {
                 </property>
                 <property name="styleSheet">
                  <string notr="true">QListView{
-	font: 75 12pt &quot;微软雅黑&quot;;
+	font: 75 11pt &quot;Verdana&quot;;
 	background-color: rgb(240, 240, 240);
 	selection-background-color:rgb(37, 156, 247);
 	border: 1px solid #50A3F0; 
@@ -495,6 +580,9 @@ QListView::item {
           <property name="styleSheet">
            <string notr="true">border-color: rgba(255, 255, 255, 0);</string>
           </property>
+          <property name="currentIndex">
+           <number>1</number>
+          </property>
           <property name="tabBarAutoHide">
            <bool>true</bool>
           </property>
@@ -521,7 +609,7 @@ QListView::item {
             <item>
              <widget class="FileTableView" name="tbvFiles">
               <property name="styleSheet">
-               <string notr="true">font: 10pt &quot;微软雅黑&quot;;
+               <string notr="true">font: 10pt &quot;Verdana&quot;;
 selection-background-color:rgb(37, 156, 247);
 </string>
               </property>
@@ -541,10 +629,91 @@ selection-background-color:rgb(37, 156, 247);
             </item>
            </layout>
           </widget>
-          <widget class="QWidget" name="tab_6">
+          <widget class="QWidget" name="tab_editing_group">
            <attribute name="title">
             <string>Tab 2</string>
            </attribute>
+           <layout class="QVBoxLayout" name="verticalLayout_10">
+            <property name="spacing">
+             <number>0</number>
+            </property>
+            <property name="leftMargin">
+             <number>0</number>
+            </property>
+            <property name="topMargin">
+             <number>0</number>
+            </property>
+            <property name="rightMargin">
+             <number>0</number>
+            </property>
+            <property name="bottomMargin">
+             <number>0</number>
+            </property>
+            <item>
+             <widget class="QTabWidget" name="tabWidget">
+              <property name="styleSheet">
+               <string notr="true">font: 10pt &quot;Verdana&quot;;</string>
+              </property>
+              <property name="currentIndex">
+               <number>0</number>
+              </property>
+              <widget class="QWidget" name="tab_editor">
+               <attribute name="title">
+                <string>Editor</string>
+               </attribute>
+               <layout class="QVBoxLayout" name="verticalLayout_11">
+                <property name="spacing">
+                 <number>0</number>
+                </property>
+                <property name="leftMargin">
+                 <number>0</number>
+                </property>
+                <property name="topMargin">
+                 <number>0</number>
+                </property>
+                <property name="rightMargin">
+                 <number>0</number>
+                </property>
+                <property name="bottomMargin">
+                 <number>0</number>
+                </property>
+                <item>
+                 <layout class="QHBoxLayout" name="horizontalLayout_3">
+                  <property name="spacing">
+                   <number>0</number>
+                  </property>
+                  <item>
+                   <widget class="QTextEdit" name="txtOriginal">
+                    <property name="styleSheet">
+                     <string notr="true">font: 10pt &quot;Microsoft YaHei&quot;;</string>
+                    </property>
+                    <property name="readOnly">
+                     <bool>true</bool>
+                    </property>
+                   </widget>
+                  </item>
+                  <item>
+                   <widget class="QTextEdit" name="txtTrans">
+                    <property name="styleSheet">
+                     <string notr="true">font: 10pt &quot;Microsoft YaHei&quot;;</string>
+                    </property>
+                    <property name="readOnly">
+                     <bool>false</bool>
+                    </property>
+                   </widget>
+                  </item>
+                 </layout>
+                </item>
+               </layout>
+              </widget>
+              <widget class="QWidget" name="tab_more_info">
+               <attribute name="title">
+                <string>More Info</string>
+               </attribute>
+              </widget>
+             </widget>
+            </item>
+           </layout>
           </widget>
          </widget>
         </item>

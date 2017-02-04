@@ -3,6 +3,8 @@
 
 #include <QObject>
 #include <QMap>
+#include <QVariantMap>
+#include <QVector>
 
 class Helper : public QObject
 {
@@ -10,10 +12,16 @@ class Helper : public QObject
 public:
     static Helper* instance();
     void scanFolder(const QString& path, QStringList *result, bool recur = true);
-    QVector<QStringList> getWorkingFiles(const QString& path);
+    QVector<QStringList> getWorkingFiles(const QString& dirPath);
     QString pathJoin(QString part1, QString part2);
+    void refreshWorkingDir(QString dirPath);
+    QString sciSize(int64_t size);
+    void addNewTasks(QWidget* parent);
+    bool copyFile(const QString& absPath, const QString& newPath, bool overwrite = false);
+    QStringList readForSentences(const QString& path);
 
 signals:
+    void refreshTaskList();
 
 public slots:
 
@@ -26,6 +34,9 @@ private:
 public:
     QMap<QString, QString> mWorkingHistory;
     QString mCurrenttDirectory;
+    QVector<QStringList> mTaskListBackup;
+    QString mCurrentTaskPath;
+    QVector<QStringList> mCurrentTaskBlockFragments;
 
 private:
     static Helper *mInstance;

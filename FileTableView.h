@@ -22,13 +22,17 @@ private:
     void initData();
 
 signals:
-    void startTransEditing(const QString &);
+    void startTransEditing();
+    void startExportTask();
+    void startAddNewTasks();
+    void startRemoveTasks();
+    void refreshTaskList();
 
 public slots:
-    void act_openAndTrans();
-    void act_closeAndFinalize();
-    void act_addFiles();
-    void act_deleteFile();
+    void act_startTask();
+    void act_exportTask();
+    void act_addTasks();
+    void act_removeTasks();
     void act_openFolder();
     void act_refreshList();
 

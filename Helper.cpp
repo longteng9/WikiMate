@@ -4,6 +4,12 @@
 #include <QStringList>
 #include <QDebug>
 #include <QFile>
+#include <QJsonObject>
+#include <QJsonArray>
+#include <QJsonDocument>
+#include <QDateTime>
+#include <QFileDialog>
+#include <QRegExp>
 
 Helper *Helper::mInstance = NULL;
 
@@ -50,35 +56,157 @@ void Helper::scanFolder(const QString& path, QStringList *result, bool recur){
     }
 }
 
-QVector<QStringList> Helper::getWorkingFiles(const QString& path){
-    QVector<QStringList> result;
-    QStringList list;
-    instance()->scanFolder(path, &list, false);
-    for(auto iter = list.begin(); iter != list.end(); iter++){
-        QFileInfo file(*iter);
-        QStringList data;
-        if(file.isDir()){
-            data.append(":/static/question.png");
-            data.append((*iter).mid(path.length() + 1));
-            data.append("");
-            data.append("");
-            data.append("folder");
-            data.append(" ");
-            data.append("");
-            data.append("1206-2-02");
-        }else{
-            data.append(":/static/question.png");
-            data.append(file.fileName());
-            data.append("123");
-            data.append(QString::number(file.size()));
-            data.append("translating");
-            data.append("89");
-            data.append("");
-            data.append("1206-2-02");
+/*
+Project file JSON format:
+{
+    "tasks":[
+        {
+            "filename": "something",
+            "words": 123,
+            "size": 123,
+            "status": "doing",
+            "progress": 50,
+            "tags": ""
+            "date": "2017-01-25"
         }
-        result.append(data);
+    ]
+}
+*/
+QVector<QStringList> Helper::getWorkingFiles(const QString& dirPath){
+    QVector<QStringList> result;
+    QString projFilename = Helper::instance()->pathJoin(dirPath, "project.meta");
+    QFile file(projFilename);
+    if(!file.open(QIODevice::ReadOnly)){
+        qDebug() << "Failed to open file: " << projFilename;
+        return result;
+    }
+    QJsonParseError error;
+    QByteArray data = file.readAll();
+    if(data.isEmpty()){
+        qDebug() << "Empty project file: " << projFilename;
+        return result;
+    }
+
+    QJsonDocument jsonDocument = QJsonDocument::fromJson(data, &error);
+    if (jsonDocument.isObject()) {
+        QJsonObject root = jsonDocument.object();
+        if (root.contains("tasks")){
+            QJsonArray tasks = root.take("tasks").toArray();
+            int size = tasks.size();
+            QStringList data;
+            for (int i = 0; i < size; i++) {
+                data.clear();
+                data.append(":/static/question.png");
+                QJsonObject item = tasks.at(i).toObject();
+                data.append(item.take("filename").toString());
+                data.append(QString::number(item.take("words").toInt()));
+                data.append(item.take("size").toString());
+                data.append(item.take("status").toString());
+                data.append(QString::number(item.take("progress").toInt()));
+                data.append(item.take("tags").toString());
+                data.append(item.take("date").toString());
+                result.append(data);
+            }
+        }
+    } else {
+        qDebug() << "failed to parse JSON:" << error.errorString().toUtf8().constData();
     }
     return result;
+}
+
+void Helper::refreshWorkingDir(QString dirPath){
+    // find project file in working directory, if doesn't exist, create one
+    QString projFilename = Helper::instance()->pathJoin(dirPath, "project.meta");
+    QFileInfo projFile = QFileInfo(projFilename);
+    if (!projFile.exists()){
+        QFile file(projFilename);
+        file.open(QIODevice::WriteOnly);
+        file.close();
+    }
+
+    QFile file(projFilename);
+    if(!file.open(QIODevice::ReadOnly)){
+        qDebug() << "Failed to open file: " << projFilename;
+        return;
+    }
+    QJsonParseError error;
+    QByteArray data = file.readAll();
+    file.close();
+    if(data.isEmpty()){
+        data = QString("{\"tasks\": []}").toUtf8();
+    }
+
+    QJsonDocument jsonDocument = QJsonDocument::fromJson(data, &error);
+    QJsonObject root;
+    if (jsonDocument.isObject()) {
+        root = jsonDocument.object();
+        QStringList existing_list;
+        if (root.contains("tasks")){
+            QJsonArray tasks = root.take("tasks").toArray();
+            int size = tasks.size();
+            for (int i = 0; i < size; ) {
+                QJsonObject item = tasks.at(i).toObject();
+                QString filename = item.take("filename").toString();
+                QFile tmp(Helper::instance()->pathJoin(dirPath, filename));
+                if (!tmp.exists()){
+                    tasks.removeAt(i);
+                    size--;
+                }else{
+                    i++;
+                    existing_list.append(filename);
+                }
+            }
+
+            QStringList list;
+            instance()->scanFolder(dirPath, &list, false);
+
+            for(auto iter = list.begin(); iter != list.end(); iter++){
+                QFileInfo info(*iter);
+                if (info.fileName() == "project.meta"){
+                    continue;
+                }
+                bool existing = false;
+                for(auto iter = existing_list.begin(); iter != existing_list.end(); iter++){
+                    if(info.fileName() == *iter){
+                        existing = true;
+                        break;
+                    }
+                }
+                if(existing){
+                    continue;
+                }
+
+                if (!info.isDir()){
+
+                    QJsonObject item;
+                    item.insert("filename", info.fileName());
+                    item.insert("words", -1);
+                    item.insert("size", Helper::instance()->sciSize(info.size()));
+                    item.insert("status", "DOING");
+                    item.insert("progress", 0);
+                    item.insert("tags", "");
+                    item.insert("date", QDateTime::currentDateTime().toString("yyyy-MM-dd hh:mm:ss"));
+                    tasks.push_back(item);
+                }
+            }
+
+            root["tasks"] = tasks;
+        }
+    } else {
+        qDebug() << "failed to parse JSON:" << error.errorString().toUtf8().constData();
+        return;
+    }
+
+    QFile file2(projFilename);
+    if(!file2.open(QIODevice::WriteOnly)){
+        qDebug() << "Failed to open file: " << projFilename;
+        return;
+    }
+
+    jsonDocument.setObject(root);
+    QByteArray bytes = jsonDocument.toJson(QJsonDocument::Indented);
+    file2.write(bytes);
+    file2.close();
 }
 
 QString Helper::pathJoin(QString part1, QString part2){
@@ -100,3 +228,75 @@ QString Helper::pathJoin(QString part1, QString part2){
     return part1 + part2;
 }
 
+QString Helper::sciSize(int64_t size){
+    int64_t _1k = 1024;
+    int64_t _1m = 1024 * _1k;
+    int64_t _1g = 1024 * _1m;
+    int64_t _1t = 1024 * _1g;
+
+    if (size >= _1k && size < _1m){
+       return QString::number(size / _1k, 'f', 2) + "K";
+    }
+    if (size >= _1m && size < _1g){
+        return QString::number(size / _1m, 'f', 2) + "M";
+    }
+    if(size >= _1g && size < _1t){
+        return QString::number(size / _1g, 'f', 2) + "G";
+    }
+    if(size >= _1t){
+        return QString::number(size / _1t, 'f', 2) + "T";
+    }
+    return QString::number(size) + "B";
+}
+
+void Helper::addNewTasks(QWidget *parent){
+    QStringList files = QFileDialog::getOpenFileNames(parent, "Add New Tasks", "./");
+    if(!files.isEmpty()){
+        for(QString name : files){
+            Helper::instance()->copyFile(name, Helper::instance()->mCurrenttDirectory, false);
+        }
+        emit refreshTaskList();
+    }
+}
+
+bool Helper::copyFile(const QString& absPath, const QString& newPath, bool overwrite){
+    QFileInfo info(absPath);
+    if(!info.exists()){
+        return false;
+    }
+    QString newAbsPath = Helper::instance()->pathJoin(newPath, info.fileName());
+    QFileInfo info2(newAbsPath);
+    if(info2.exists() && overwrite){
+        QFile::remove(newAbsPath);
+    }
+    return QFile::copy(absPath, newAbsPath);
+}
+
+QStringList Helper::readForSentences(const QString& path){
+    QStringList res;
+    QFile file(path);
+    if (!file.open(QIODevice::ReadOnly | QIODevice::Text)){
+        return res;
+    }
+
+    QString content(file.readAll());
+    file.close();
+
+    int pre = 0;
+    int pos = content.indexOf(QRegExp("\u3002|\uff01|\uff1f"), pre);
+
+    while (pos >= 0){
+        res.append(content.mid(pre, pos - pre + 1).trimmed());
+        pre = pos + 1;
+        pos = content.indexOf(QRegExp("\u3002|\uff01|\uff1f"), pre);
+    }
+    if(!content.endsWith("。") && !content.endsWith("！") && !content.endsWith("？")){
+        res.append(content.mid(pre));
+    }
+
+    //build fragments
+    for(QString sen: res){
+
+    }
+    return res;
+}
