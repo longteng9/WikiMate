@@ -10,6 +10,7 @@
 #include <QDateTime>
 #include <QFileDialog>
 #include <QRegExp>
+#include "FragmentManager.h"
 
 Helper *Helper::mInstance = NULL;
 
@@ -272,6 +273,7 @@ bool Helper::copyFile(const QString& absPath, const QString& newPath, bool overw
     return QFile::copy(absPath, newAbsPath);
 }
 
+
 QStringList Helper::readForSentences(const QString& path){
     QStringList res;
     QFile file(path);
@@ -294,9 +296,6 @@ QStringList Helper::readForSentences(const QString& path){
         res.append(content.mid(pre));
     }
 
-    //build fragments
-    for(QString sen: res){
-
-    }
+    FragmentManager::instance()->buildFragments(res);
     return res;
 }

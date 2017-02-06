@@ -12,6 +12,7 @@
 #include <QDateTime>
 #include <QTextBlock>
 #include <QModelIndex>
+#include "FragmentManager.h"
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
@@ -326,6 +327,7 @@ void MainWindow::on_txtOriginal_cursorPositionChanged()
     int blockNum = cursor.blockNumber();
     int blockPos = cursor.positionInBlock();
 
+    qDebug() << FragmentManager::instance()->retrieveFragment(blockNum, blockPos);
 }
 
 void MainWindow::on_txtOriginal_selectionChanged()
