@@ -26,11 +26,9 @@ public slots:
 private slots:
     void on_lstMenu_currentItemChanged(QListWidgetItem *current, QListWidgetItem *previous);
 
-    void on_lstFileOptions_currentItemChanged(QListWidgetItem *current, QListWidgetItem *previous);
+    void on_lstTaskFilter_currentItemChanged(QListWidgetItem *current, QListWidgetItem *previous);
 
     void on_btnWorkingDir_clicked();
-
-    void on_lstMenu_clicked(const QModelIndex &index);
 
     void on_lstTaskFilter_currentTextChanged(const QString &currentText);
 
@@ -48,8 +46,10 @@ private:
     void saveHistory();
 
 
-private:
+public:
+    static QWidget *widgetRef;
 
+private:
     Ui::MainWindow *ui;
 };
 

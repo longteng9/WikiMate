@@ -14,11 +14,14 @@
 #include <QModelIndex>
 #include "FragmentManager.h"
 
+QWidget* MainWindow::widgetRef = NULL;
+
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    MainWindow::widgetRef = this;
     restoreHistory();
     initUI();
     if(Helper::instance()->mWorkingHistory.contains("projectDirectory")){
@@ -127,7 +130,7 @@ void MainWindow::on_lstMenu_currentItemChanged(QListWidgetItem *current, QListWi
     }
 }
 
-void MainWindow::on_lstFileOptions_currentItemChanged(QListWidgetItem *current, QListWidgetItem *previous)
+void MainWindow::on_lstTaskFilter_currentItemChanged(QListWidgetItem *current, QListWidgetItem *previous)
 {
     if(previous){
         previous->setBackground(Qt::white);
@@ -234,23 +237,6 @@ void MainWindow::saveHistory(){
     }
 }
 
-void MainWindow::on_lstMenu_clicked(const QModelIndex &index)
-{
-    if(index.data().toString() == "Files"){
-        ui->tabCenter->setCurrentIndex(0);
-    } else if(index.data().toString() == "Editor"){
-        ui->tabCenter->setCurrentIndex(1);
-        QModelIndex fileIndex = ui->tbvFiles->currentIndex();
-        if(fileIndex.row() >= 0){
-            QString path = Helper::instance()->pathJoin(Helper::instance()->mCurrenttDirectory,
-                                                        fileIndex.model()->index(fileIndex.row(), 1).data().toString());
-            //todo editor ui
-        }
-    } else if(index.data().toString() == "Trans-Mem"){
-        ui->tabCenter->setCurrentIndex(2);
-    }
-}
-
 void MainWindow::on_lstTaskFilter_currentTextChanged(const QString &currentText)
 {
     if(currentText == "All Tasks"){
@@ -261,6 +247,7 @@ void MainWindow::on_lstTaskFilter_currentTextChanged(const QString &currentText)
         filterFileList("DONE");
     }
 }
+
 
 void MainWindow::on_btnRefreshTasks_clicked()
 {
@@ -276,9 +263,7 @@ void MainWindow::on_btnStartTask_clicked()
         QString fileName = ui->tbvFiles->tableModel()->index(ui->tbvFiles->currentIndex().row(), 1).data().toString();
         QString path = Helper::instance()->pathJoin(Helper::instance()->mCurrenttDirectory, fileName);
         qDebug() << path;
-        ui->tabCenter->setCurrentIndex(1);
-        ui->tabLeftSide->setCurrentIndex(1);
-        ui->tabTopTools->setCurrentIndex(1);
+        ui->lstMenu->setCurrentRow(1);
 
         if(Helper::instance()->mCurrentTaskPath != path){
             QStringList sentences = Helper::instance()->readForSentences(path);
@@ -332,5 +317,7 @@ void MainWindow::on_txtOriginal_cursorPositionChanged()
 
 void MainWindow::on_txtOriginal_selectionChanged()
 {
-
+    QString selected = ui->txtOriginal->textCursor().selectedText();
+    qDebug() << "select:" << selected;
+    qDebug() << FragmentManager::instance()->retrieveWord(selected);
 }
