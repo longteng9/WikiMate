@@ -5,6 +5,8 @@
 #include <QMenu>
 #include <QDebug>
 #include <QDir>
+#include <QMessageBox>
+#include "MainWindow.h"
 #include "Helper.h"
 
 FileTableView::FileTableView(QWidget *parent) :
@@ -39,7 +41,7 @@ void FileTableView::initData()
     mModel = new FileTableModel();
     this->setModel(mModel);
     QStringList headers;
-    headers << "" << "Filename" << "Words" << "Size" << "State" << "Completion Rate" << "Tag" << "Start Time";
+    headers << "" << "Filename" << "Words" << "Size" << "State" << "Completion Rate" << "Encoding" << "Start Time";
     mModel->setHorizontalHeader(headers);
 
     mItemDelegate = new FileItemDelegate(this);
@@ -84,8 +86,17 @@ void FileTableView::onCreateContextMenu(const QPoint &point){
 }
 
 void FileTableView::onDoubleClicked(const QModelIndex &index){
-    // QString fileName = mModel->index(index.row(), 1).data().toString();
-    // QString path = Helper::instance()->pathJoin(Helper::instance()->mCurrenttDirectory, fileName);
+    QString format = mModel->index(index.row(), 6).data().toString();
+    if(format != "UTF-8"){
+        int result = QMessageBox::warning(MainWindow::widgetRef,
+                             "Warning",
+                             "This file isn't encoded in UTF-8,\nthere might be a problem to decode this file as UTF-8,\ndo you wanna try?",
+                             QMessageBox::Yes,
+                             QMessageBox::No);
+        if(result == QMessageBox::No){
+            return;
+        }
+    }
     emit startTransEditing();
 }
 

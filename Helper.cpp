@@ -10,6 +10,7 @@
 #include <QDateTime>
 #include <QFileDialog>
 #include <QRegExp>
+#include <QDataStream>
 #include "FragmentManager.h"
 
 Helper *Helper::mInstance = NULL;
@@ -181,11 +182,11 @@ void Helper::refreshWorkingDir(QString dirPath){
 
                     QJsonObject item;
                     item.insert("filename", info.fileName());
-                    item.insert("words", -1);
+                    item.insert("words", info.size() / 2);
                     item.insert("size", Helper::instance()->sciSize(info.size()));
                     item.insert("status", "DOING");
                     item.insert("progress", 0);
-                    item.insert("tags", "");
+                    item.insert("tags", isUTF8File(info.absoluteFilePath()) ? "UTF-8" : "ANSI");
                     item.insert("date", QDateTime::currentDateTime().toString("yyyy-MM-dd hh:mm:ss"));
                     tasks.push_back(item);
                 }
@@ -281,7 +282,9 @@ QStringList Helper::readForSentences(const QString& path){
         return res;
     }
 
-    QString content(file.readAll());
+    QTextStream in(&file);
+    in.setCodec("UTF-8");
+    QString content = in.readAll();
     file.close();
 
     int pre = 0;
@@ -299,3 +302,63 @@ QStringList Helper::readForSentences(const QString& path){
     FragmentManager::instance()->buildFragments(res);
     return res;
 }
+
+bool Helper::isUTF8File(const QString& path){
+    QFile file(path);
+    if(!file.open(QIODevice::ReadOnly)){
+        qDebug() << "failed to open file: " << file.errorString();
+        return false;
+    }
+    QDataStream dataStream(&file);
+    char* tmp = new char[1024];
+    int length = dataStream.readRawData(tmp, 1024);
+    file.close();
+    unsigned char* data = (unsigned char*)tmp;
+    unsigned char* end = data + length;
+
+    bool isUTF8 = true;
+
+    while(data){
+        if(*data < 0x80){// (10000000): 值小于0x80的为ASCII字符
+            data++;
+        }else if(*data < 0xc0){// (11000000): 值介于0x80与0xC0之间的为无效UTF-8字符
+            isUTF8 = false;
+            break;
+        }else if(*data < 0xe0){// (11100000): 此范围内为2字节UTF-8字符
+            if(data >= end - 1){
+                break;
+            }
+            if((data[1] & 0xc0) != 0x80){
+                isUTF8 = false;
+                break;
+            }
+            data += 2;
+        }else if(*data < 0xf0){// (11110000): 此范围内为3字节UTF-8字符
+            if(data >= end - 2){
+                break;
+            }
+            if((data[1] & 0xc0) != 0x80 || (data[2] & 0xc0) != 0x80){
+                isUTF8 = false;
+                break;
+            }
+            data += 3;
+        }else if(*data < 0xf8){// (11111000): 此范围内为4字节UTF-8字符
+            if(data >= end - 3){
+                break;
+            }
+            if((data[1] & 0xc0) != 0x80 || (data[2] & 0xc0) != 0x80 || (data[3] & 0xc0) != 0x80){
+                isUTF8 = false;
+                break;
+            }
+            data += 4;
+        }else{
+            isUTF8 = false;
+            break;
+        }
+    }
+    if(tmp > 0){
+        delete[] tmp;
+    }
+    return isUTF8;
+}
+

@@ -19,6 +19,7 @@ public:
     void addNewTasks(QWidget* parent);
     bool copyFile(const QString& absPath, const QString& newPath, bool overwrite = false);
     QStringList readForSentences(const QString& path);
+    bool isUTF8File(const QString& path);
 
 signals:
     void refreshTaskList();

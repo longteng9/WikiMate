@@ -5,6 +5,7 @@
 #include <QVector>
 #include <QThread>
 #include <QMessageBox>
+#include <QProcess>
 
 class FragmentManager : public QObject
 {
@@ -12,7 +13,7 @@ class FragmentManager : public QObject
 public:
     static FragmentManager* instance();
     QVector<QStringList> buildFragments(const QStringList &sentences);
-    QString retrieveFragment(int block, int pos);
+    QString retrieveFragment(int block, int pos, int *word_begin, int *word_len);
     bool retrieveWord(QString word);
 
 signals:
@@ -26,7 +27,8 @@ private:
     FragmentManager& operator=(const FragmentManager&) = default;
 
 public:
-    QVector<QStringList> mCurrentTaskBlocksFragments;
+    QVector<QStringList> mBlocksFragments;
+    QStringList mOriginalBlocks;
 
 private:
     static FragmentManager *mInstance;
@@ -34,13 +36,13 @@ private:
 
 class PythonThread : public QThread{
     Q_OBJECT
-  protected:
+protected:
     void run();
 
 public:
-    QString mCmdIn = "python mandarin.py";
     QString mStdout = "";
     QString mStderr = "";
+    int code = 0;
 };
 
 

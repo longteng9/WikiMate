@@ -267,10 +267,16 @@ void MainWindow::on_btnStartTask_clicked()
 
         if(Helper::instance()->mCurrentTaskPath != path){
             QStringList sentences = Helper::instance()->readForSentences(path);
+            if(sentences.isEmpty()){
+                return;
+            }
+            FragmentManager::instance()->mOriginalBlocks = sentences;
+
             QString content = "";
             for(QString sen: sentences){
                content += sen + "\n\n";
             }
+
             ui->txtOriginal->setText(content);
             Helper::instance()->mCurrentTaskPath = path;
         }
@@ -311,13 +317,27 @@ void MainWindow::on_txtOriginal_cursorPositionChanged()
     QTextCursor cursor = ui->txtOriginal->textCursor();
     int blockNum = cursor.blockNumber();
     int blockPos = cursor.positionInBlock();
+    int word_begin = 0;
+    int word_len = 0;
+    if(blockNum == 0 && blockPos == 0){
+        return;
+    }
 
-    qDebug() << FragmentManager::instance()->retrieveFragment(blockNum, blockPos);
+    QString word = FragmentManager::instance()->retrieveFragment(blockNum, blockPos, &word_begin, &word_len);
+    if(word.isEmpty()){
+        return;
+    }
+
+    qDebug() << word;
 }
 
 void MainWindow::on_txtOriginal_selectionChanged()
 {
     QString selected = ui->txtOriginal->textCursor().selectedText();
+    if(selected.isEmpty()){
+        return;
+    }
+
     qDebug() << "select:" << selected;
     qDebug() << FragmentManager::instance()->retrieveWord(selected);
 }
