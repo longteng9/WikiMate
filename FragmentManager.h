@@ -12,9 +12,9 @@ class FragmentManager : public QObject
     Q_OBJECT
 public:
     static FragmentManager* instance();
-    QVector<QStringList> buildFragments(const QStringList &sentences);
-    QString retrieveFragment(int block, int pos, int *word_begin, int *word_len);
+    void buildFragments(const QString &path);
     bool retrieveWord(QString word);
+    QStringList currentBlockFragments();
 
 signals:
 
@@ -27,8 +27,10 @@ private:
     FragmentManager& operator=(const FragmentManager&) = default;
 
 public:
-    QVector<QStringList> mBlocksFragments;
-    QStringList mOriginalBlocks;
+    QVector<QStringList> mFragmentWordList;
+    QStringList mFragmentList;
+    QStringList mFragmentTransList;
+    int mCurrentIndex = 0;
 
 private:
     static FragmentManager *mInstance;

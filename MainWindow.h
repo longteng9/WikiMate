@@ -44,6 +44,7 @@ private:
     void filterFileList(const QString& keyword);
     void restoreHistory();
     void saveHistory();
+    void setCurrentFragment(int index);
 
 
 public:

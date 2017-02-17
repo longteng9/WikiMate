@@ -275,34 +275,6 @@ bool Helper::copyFile(const QString& absPath, const QString& newPath, bool overw
 }
 
 
-QStringList Helper::readForSentences(const QString& path){
-    QStringList res;
-    QFile file(path);
-    if (!file.open(QIODevice::ReadOnly | QIODevice::Text)){
-        return res;
-    }
-
-    QTextStream in(&file);
-    in.setCodec("UTF-8");
-    QString content = in.readAll();
-    file.close();
-
-    int pre = 0;
-    int pos = content.indexOf(QRegExp("\u3002|\uff01|\uff1f"), pre);
-
-    while (pos >= 0){
-        res.append(content.mid(pre, pos - pre + 1).trimmed());
-        pre = pos + 1;
-        pos = content.indexOf(QRegExp("\u3002|\uff01|\uff1f"), pre);
-    }
-    if(!content.endsWith("。") && !content.endsWith("！") && !content.endsWith("？")){
-        res.append(content.mid(pre));
-    }
-
-    FragmentManager::instance()->buildFragments(res);
-    return res;
-}
-
 bool Helper::isUTF8File(const QString& path){
     QFile file(path);
     if(!file.open(QIODevice::ReadOnly)){
@@ -362,3 +334,30 @@ bool Helper::isUTF8File(const QString& path){
     return isUTF8;
 }
 
+QString Helper::formatContent(const QStringList& fragments, int index){
+    QString result = "";
+    for(int i = 0; i < fragments.size(); i++){
+        if(i == index){
+            result += "<strong style=\"color:red; background:white\">[Frag:" + QString::number(index) + "]</strong><span style=\"background:#4FBDFE\">";
+            result += fragments[i];
+            result += "</span><br><br>";
+            continue;
+        }
+        result += fragments[i];
+        result += "<br><br>";
+    }
+    return result;
+}
+
+QMap<QString, QStringList> Helper::searchTrans(QStringList words){
+    QMap<QString, QStringList> result;
+    QStringList entries;
+
+    for(QString word : words){
+        entries.clear();
+        entries << "Trans 1" << "Trans 2" << "Trans 3 This is a message" << "Trans 4" << "Trans 5";
+        result.insert(word, entries);
+    }
+
+    return result;
+}

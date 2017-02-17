@@ -59,7 +59,7 @@
          <string notr="true">border-color: rgba(255, 255, 255, 0);</string>
         </property>
         <property name="currentIndex">
-         <number>0</number>
+         <number>1</number>
         </property>
         <property name="tabBarAutoHide">
          <bool>true</bool>
@@ -322,6 +322,111 @@ QPushButton:pressed{
          <attribute name="title">
           <string>Tab 2</string>
          </attribute>
+         <layout class="QHBoxLayout" name="horizontalLayout_4">
+          <property name="spacing">
+           <number>2</number>
+          </property>
+          <property name="leftMargin">
+           <number>0</number>
+          </property>
+          <property name="topMargin">
+           <number>0</number>
+          </property>
+          <property name="rightMargin">
+           <number>0</number>
+          </property>
+          <property name="bottomMargin">
+           <number>0</number>
+          </property>
+          <item>
+           <layout class="QVBoxLayout" name="verticalLayout_13">
+            <property name="spacing">
+             <number>2</number>
+            </property>
+            <item>
+             <widget class="QPushButton" name="btnSave">
+              <property name="sizePolicy">
+               <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
+                <horstretch>0</horstretch>
+                <verstretch>0</verstretch>
+               </sizepolicy>
+              </property>
+              <property name="styleSheet">
+               <string notr="true">QPushButton{
+font: 10pt &quot;Verdana&quot;;
+border-style: none;
+border: 0px;
+color: #F0F0F0;
+padding: 5px;	
+min-height: 20px;
+border-radius:0px;
+background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3); }
+QPushButton:hover{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #50A3F0, stop:1 #489CEA);
+}
+
+QPushButton:pressed{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3);
+}</string>
+              </property>
+              <property name="text">
+               <string>Save All</string>
+              </property>
+              <property name="flat">
+               <bool>true</bool>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QPushButton" name="btnExport">
+              <property name="sizePolicy">
+               <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
+                <horstretch>0</horstretch>
+                <verstretch>0</verstretch>
+               </sizepolicy>
+              </property>
+              <property name="styleSheet">
+               <string notr="true">QPushButton{
+font: 10pt &quot;Verdana&quot;;
+border-style: none;
+border: 0px;
+color: #F0F0F0;
+padding: 5px;	
+min-height: 20px;
+border-radius:0px;
+background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3); }
+QPushButton:hover{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #50A3F0, stop:1 #489CEA);
+}
+
+QPushButton:pressed{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3);
+}</string>
+              </property>
+              <property name="text">
+               <string>Export</string>
+              </property>
+              <property name="flat">
+               <bool>true</bool>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </item>
+          <item>
+           <spacer name="horizontalSpacer_3">
+            <property name="orientation">
+             <enum>Qt::Horizontal</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>40</width>
+              <height>20</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
+         </layout>
         </widget>
        </widget>
       </item>
@@ -661,7 +766,7 @@ selection-background-color:rgb(37, 156, 247);
                <attribute name="title">
                 <string>Editor</string>
                </attribute>
-               <layout class="QVBoxLayout" name="verticalLayout_11">
+               <layout class="QVBoxLayout" name="verticalLayout_12">
                 <property name="spacing">
                  <number>0</number>
                 </property>
@@ -678,31 +783,204 @@ selection-background-color:rgb(37, 156, 247);
                  <number>0</number>
                 </property>
                 <item>
-                 <layout class="QHBoxLayout" name="horizontalLayout_3">
-                  <property name="spacing">
-                   <number>0</number>
+                 <widget class="QSplitter" name="splitter_horizon">
+                  <property name="styleSheet">
+                   <string notr="true">QSplitter::handle { background-color: #0F7DBE }</string>
                   </property>
-                  <item>
-                   <widget class="QTextEdit" name="txtOriginal">
+                  <property name="orientation">
+                   <enum>Qt::Horizontal</enum>
+                  </property>
+                  <widget class="QTextEdit" name="txtOriginal">
+                   <property name="styleSheet">
+                    <string notr="true">font: 10pt &quot;Microsoft YaHei&quot;;</string>
+                   </property>
+                   <property name="readOnly">
+                    <bool>true</bool>
+                   </property>
+                  </widget>
+                  <widget class="QSplitter" name="splitter_vertical">
+                   <property name="orientation">
+                    <enum>Qt::Vertical</enum>
+                   </property>
+                   <widget class="QTableWidget" name="tableWords">
                     <property name="styleSheet">
                      <string notr="true">font: 10pt &quot;Microsoft YaHei&quot;;</string>
                     </property>
-                    <property name="readOnly">
+                    <property name="editTriggers">
+                     <set>QAbstractItemView::NoEditTriggers</set>
+                    </property>
+                    <property name="showGrid">
                      <bool>true</bool>
                     </property>
-                   </widget>
-                  </item>
-                  <item>
-                   <widget class="QTextEdit" name="txtTrans">
-                    <property name="styleSheet">
-                     <string notr="true">font: 10pt &quot;Microsoft YaHei&quot;;</string>
+                    <property name="wordWrap">
+                     <bool>true</bool>
                     </property>
-                    <property name="readOnly">
-                     <bool>false</bool>
+                    <property name="rowCount">
+                     <number>10</number>
                     </property>
+                    <property name="columnCount">
+                     <number>10</number>
+                    </property>
+                    <row/>
+                    <row/>
+                    <row/>
+                    <row/>
+                    <row/>
+                    <row/>
+                    <row/>
+                    <row/>
+                    <row/>
+                    <row/>
+                    <column/>
+                    <column/>
+                    <column/>
+                    <column/>
+                    <column/>
+                    <column/>
+                    <column/>
+                    <column/>
+                    <column/>
+                    <column/>
                    </widget>
-                  </item>
-                 </layout>
+                   <widget class="QWidget" name="layoutWidget">
+                    <layout class="QVBoxLayout" name="verticalLayout_11">
+                     <property name="spacing">
+                      <number>0</number>
+                     </property>
+                     <item>
+                      <widget class="QWidget" name="widget" native="true">
+                       <property name="minimumSize">
+                        <size>
+                         <width>0</width>
+                         <height>31</height>
+                        </size>
+                       </property>
+                       <layout class="QHBoxLayout" name="horizontalLayout_3">
+                        <property name="spacing">
+                         <number>2</number>
+                        </property>
+                        <property name="leftMargin">
+                         <number>0</number>
+                        </property>
+                        <property name="topMargin">
+                         <number>0</number>
+                        </property>
+                        <property name="rightMargin">
+                         <number>0</number>
+                        </property>
+                        <property name="bottomMargin">
+                         <number>0</number>
+                        </property>
+                        <item>
+                         <widget class="QPushButton" name="btnNextFrag">
+                          <property name="sizePolicy">
+                           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+                            <horstretch>0</horstretch>
+                            <verstretch>0</verstretch>
+                           </sizepolicy>
+                          </property>
+                          <property name="maximumSize">
+                           <size>
+                            <width>16777215</width>
+                            <height>40</height>
+                           </size>
+                          </property>
+                          <property name="styleSheet">
+                           <string notr="true">QPushButton{
+font: 10pt &quot;Verdana&quot;;
+border-style: none;
+border: 0px;
+color: #F0F0F0;
+padding: 5px;	
+min-height: 20px;
+border-radius:0px;
+background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3); }
+QPushButton:hover{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #50A3F0, stop:1 #489CEA);
+}
+
+QPushButton:pressed{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3);
+}</string>
+                          </property>
+                          <property name="text">
+                           <string>Next Frag</string>
+                          </property>
+                          <property name="flat">
+                           <bool>true</bool>
+                          </property>
+                         </widget>
+                        </item>
+                        <item>
+                         <widget class="QPushButton" name="btnSaveTransMem">
+                          <property name="sizePolicy">
+                           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+                            <horstretch>0</horstretch>
+                            <verstretch>0</verstretch>
+                           </sizepolicy>
+                          </property>
+                          <property name="maximumSize">
+                           <size>
+                            <width>16777215</width>
+                            <height>40</height>
+                           </size>
+                          </property>
+                          <property name="styleSheet">
+                           <string notr="true">QPushButton{
+font: 10pt &quot;Verdana&quot;;
+border-style: none;
+border: 0px;
+color: #F0F0F0;
+padding: 5px;	
+min-height: 20px;
+border-radius:0px;
+background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3); }
+QPushButton:hover{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #50A3F0, stop:1 #489CEA);
+}
+
+QPushButton:pressed{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3);
+}</string>
+                          </property>
+                          <property name="text">
+                           <string>Save Trans-Mem</string>
+                          </property>
+                          <property name="flat">
+                           <bool>true</bool>
+                          </property>
+                         </widget>
+                        </item>
+                        <item>
+                         <spacer name="horizontalSpacer_2">
+                          <property name="orientation">
+                           <enum>Qt::Horizontal</enum>
+                          </property>
+                          <property name="sizeHint" stdset="0">
+                           <size>
+                            <width>40</width>
+                            <height>20</height>
+                           </size>
+                          </property>
+                         </spacer>
+                        </item>
+                       </layout>
+                      </widget>
+                     </item>
+                     <item>
+                      <widget class="QTextEdit" name="txtTrans">
+                       <property name="styleSheet">
+                        <string notr="true">font: 10pt &quot;Microsoft YaHei&quot;;</string>
+                       </property>
+                       <property name="readOnly">
+                        <bool>false</bool>
+                       </property>
+                      </widget>
+                     </item>
+                    </layout>
+                   </widget>
+                  </widget>
+                 </widget>
                 </item>
                </layout>
               </widget>

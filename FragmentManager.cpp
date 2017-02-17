@@ -25,7 +25,7 @@ jieba
 */
 void PythonThread::run(){
     QProcess process;
-    process.start("C:/Python36/python.exe mandarin.py");
+    process.start("python.exe D:\\build-WikiMate-Desktop_Qt_5_8_0_MinGW_32bit-Debug\\debug\\mandarin.py");
     if(!process.waitForStarted()){
         code = -1;
         return;
@@ -41,8 +41,31 @@ void PythonThread::run(){
 }
 
 
-QVector<QStringList> FragmentManager::buildFragments(const QStringList &sentences){
-    QVector<QStringList> res;
+void FragmentManager::buildFragments(const QString &path){
+    QStringList sentences;
+    QFile file(path);
+    if (!file.open(QIODevice::ReadOnly | QIODevice::Text)){
+        return ;
+    }
+
+    QTextStream in(&file);
+    in.setCodec("UTF-8");
+    QString content = in.readAll();
+    file.close();
+
+    int pre = 0;
+    int pos = content.indexOf(QRegExp("\u3002|\uff01|\uff1f"), pre);
+
+    while (pos >= 0){
+        sentences.append(content.mid(pre, pos - pre + 1).trimmed());
+        pre = pos + 1;
+        pos = content.indexOf(QRegExp("\u3002|\uff01|\uff1f"), pre);
+    }
+    if(!content.endsWith("。") && !content.endsWith("！") && !content.endsWith("？")){
+        sentences.append(content.mid(pre));
+    }
+
+    mFragmentList = sentences;
     QFile text_in("mandarin_parse_in.txt");
     text_in.open(QIODevice::ReadWrite);
     for(QString sentence: sentences){
@@ -57,31 +80,28 @@ QVector<QStringList> FragmentManager::buildFragments(const QStringList &sentence
     if(pythonThread.code < 0){
         qDebug() << "failed to start subprocess: code(" << pythonThread.code << ")";
         QMessageBox::warning(MainWindow::widgetRef, "Warning [" + QString::number(pythonThread.code) + "]", "Can't find python interpreter in PATH,\nensure you add it into system PATH", QMessageBox::NoButton, QMessageBox::Yes);
-        return res;
+        return;
     }
+
+    mFragmentList = sentences;
 
     QFile text_out("mandarin_parse_out.txt");
     if(text_out.open(QIODevice::ReadOnly)){
         QTextStream in(&text_out);
         in.setCodec("UTF-8");
-        mBlocksFragments.clear();
-        QStringList lst;
+        mFragmentWordList.clear();
         while(!in.atEnd()) {
             QString line = in.readLine();
-            lst.clear();
-            lst = line.split("/#/", QString::SkipEmptyParts);
-            mBlocksFragments.append(lst);
+            mFragmentWordList.append(line.split("/#/", QString::SkipEmptyParts));
         }
         text_out.close();
     }else{
         qDebug() << "failed to open mandarin_parse_out.txt";
     }
-
-    return res;
 }
 
 bool FragmentManager::retrieveWord(QString word){
-    for(QStringList lst : mBlocksFragments){
+    for(QStringList lst : mFragmentWordList){
         for(QString item : lst){
             if(item == word){
                 return true;
@@ -91,23 +111,6 @@ bool FragmentManager::retrieveWord(QString word){
     return false;
 }
 
-QString FragmentManager::retrieveFragment(int block, int pos, int* word_begin, int* word_len){
-    if(mBlocksFragments.isEmpty() || mBlocksFragments.size() <= block){
-        return "";
-    }
-
-
-    QStringList frags = mBlocksFragments[block];
-    int count = 0;
-    for(QString word : frags){
-        count += word.size();
-        if(count > pos){
-            *word_len = word.size();
-            *word_begin = count - *word_len;
-            return word;
-        }
-    }
-    *word_begin = 0;
-    *word_len = 0;
-    return "";
+QStringList FragmentManager::currentBlockFragments(){
+    return mFragmentWordList[mCurrentIndex];
 }

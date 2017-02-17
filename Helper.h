@@ -5,6 +5,7 @@
 #include <QMap>
 #include <QVariantMap>
 #include <QVector>
+#include <QMap>
 
 class Helper : public QObject
 {
@@ -18,8 +19,9 @@ public:
     QString sciSize(int64_t size);
     void addNewTasks(QWidget* parent);
     bool copyFile(const QString& absPath, const QString& newPath, bool overwrite = false);
-    QStringList readForSentences(const QString& path);
     bool isUTF8File(const QString& path);
+    QString formatContent(const QStringList& fragments, int index);
+    QMap<QString, QStringList> searchTrans(QStringList words);
 
 signals:
     void refreshTaskList();
@@ -37,7 +39,6 @@ public:
     QString mCurrenttDirectory;
     QVector<QStringList> mTaskListBackup;
     QString mCurrentTaskPath;
-    QVector<QStringList> mCurrentTaskBlockFragments;
 
 private:
     static Helper *mInstance;

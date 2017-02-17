@@ -26,7 +26,7 @@ MainWindow::MainWindow(QWidget *parent) :
     initUI();
     if(Helper::instance()->mWorkingHistory.contains("projectDirectory")){
         Helper::instance()->mCurrenttDirectory = Helper::instance()->mWorkingHistory["projectDirectory"];
-        this->setWindowTitle("WikiMate => " + Helper::instance()->mCurrenttDirectory);
+        this->setWindowTitle("WikiMate @ " + Helper::instance()->mCurrenttDirectory);
         Helper::instance()->refreshWorkingDir(Helper::instance()->mWorkingHistory["projectDirectory"]);
         QVector<QStringList> files = Helper::instance()->getWorkingFiles(Helper::instance()->mWorkingHistory["projectDirectory"]);
         updateFileList(files);
@@ -51,6 +51,10 @@ void MainWindow::initUI(){
     ui->tabLeftSide->tabBar()->hide();
     ui->tabLeftMenu->tabBar()->hide();
     ui->tabTopTools->tabBar()->hide();
+    ui->splitter_horizon->setStretchFactor(0, 1);
+    ui->splitter_horizon->setStretchFactor(1, 1);
+    ui->splitter_vertical->setStretchFactor(0, 3);
+    ui->splitter_vertical->setStretchFactor(1, 2);
 
     QListWidgetItem *item = new QListWidgetItem;
     item->setIcon(QIcon(":/static/question.png"));
@@ -266,19 +270,42 @@ void MainWindow::on_btnStartTask_clicked()
         ui->lstMenu->setCurrentRow(1);
 
         if(Helper::instance()->mCurrentTaskPath != path){
-            QStringList sentences = Helper::instance()->readForSentences(path);
-            if(sentences.isEmpty()){
-                return;
-            }
-            FragmentManager::instance()->mOriginalBlocks = sentences;
+            FragmentManager::instance()->buildFragments(path);
 
-            QString content = "";
-            for(QString sen: sentences){
-               content += sen + "\n\n";
-            }
-
-            ui->txtOriginal->setText(content);
             Helper::instance()->mCurrentTaskPath = path;
+            setCurrentFragment(0);
+        }
+    }
+}
+
+void MainWindow::setCurrentFragment(int index){
+    if(FragmentManager::instance()->mFragmentList.isEmpty()){
+        return;
+    }
+    ui->txtOriginal->setHtml(Helper::instance()->formatContent(FragmentManager::instance()->mFragmentList, index));
+
+    QStringList header;
+    for(QString word : FragmentManager::instance()->currentBlockFragments()){
+        header << word;
+    }
+
+    QMap<QString, QStringList> transMap = Helper::instance()->searchTrans(header);
+    int maxLen = 0;
+    for(QString key : transMap.keys()){
+        if(transMap[key].length() > maxLen){
+            maxLen = transMap[key].length();
+        }
+    }
+
+    ui->tableWords->clear();
+    ui->tableWords->setColumnCount(header.size());
+    ui->tableWords->setRowCount(maxLen);
+
+    ui->tableWords->setHorizontalHeaderLabels(header);
+    for(int i = 0; i < header.size(); i++){
+        QStringList entries = transMap[header.at(i)];
+        for(int j = 0; j < entries.size(); j++){
+            ui->tableWords->setItem(j, i, new QTableWidgetItem(entries[j]));
         }
     }
 }
@@ -314,6 +341,7 @@ void MainWindow::on_btnRemoveTasks_clicked()
 
 void MainWindow::on_txtOriginal_cursorPositionChanged()
 {
+    /*
     QTextCursor cursor = ui->txtOriginal->textCursor();
     int blockNum = cursor.blockNumber();
     int blockPos = cursor.positionInBlock();
@@ -322,13 +350,7 @@ void MainWindow::on_txtOriginal_cursorPositionChanged()
     if(blockNum == 0 && blockPos == 0){
         return;
     }
-
-    QString word = FragmentManager::instance()->retrieveFragment(blockNum, blockPos, &word_begin, &word_len);
-    if(word.isEmpty()){
-        return;
-    }
-
-    qDebug() << word;
+    */
 }
 
 void MainWindow::on_txtOriginal_selectionChanged()
