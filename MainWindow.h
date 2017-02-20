@@ -4,10 +4,18 @@
 #include <QMainWindow>
 #include <QListWidgetItem>
 #include <QMap>
+#include <QRunnable>
+#include <QThread>
 
 namespace Ui {
 class MainWindow;
 }
+
+class AsyncBuildFragment : public QThread{
+    Q_OBJECT
+private:
+    void run();
+};
 
 class MainWindow : public QMainWindow
 {
@@ -15,6 +23,9 @@ class MainWindow : public QMainWindow
 public:
     explicit MainWindow(QWidget *parent = 0);
     ~MainWindow();
+
+signals:
+
 
 public slots:
     void on_btnRefreshTasks_clicked();
@@ -25,6 +36,7 @@ public slots:
     void on_btnNextFrag_clicked();
     void on_btnPrevFrag_clicked();
     void on_btnSaveFrag_clicked();
+    void on_fragmentDataReady();
 
 private slots:
     void on_lstMenu_currentItemChanged(QListWidgetItem *current, QListWidgetItem *previous);
@@ -41,6 +53,10 @@ private slots:
 
     void on_txtOriginal_selectionChanged();
 
+    void on_btnCommitTMs_clicked();
+
+    void on_txtOriginal_customContextMenuRequested(const QPoint &pos);
+
 private:
     void initUI();
     void initFilter();
@@ -48,12 +64,16 @@ private:
     void filterFileList(const QString& keyword);
     void restoreHistory();
     void saveHistory();
+    void showEntriesTable(const QStringList &header);
     void setCurrentFragment(int index);
 
 
 public:
     static MainWindow *windowRef;
     Ui::MainWindow *ui;
+
+private:
+    AsyncBuildFragment mAsyncBuildFragment;
 };
 
 class EntryTableKeyFilter : public QObject{
@@ -69,5 +89,6 @@ public:
     FragmentEditorKeyFilter(QObject *parent = 0){}
     bool eventFilter(QObject *watched, QEvent *event);
 };
+
 
 #endif // MAINWINDOW_H

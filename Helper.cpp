@@ -14,6 +14,7 @@
 #include "FragmentManager.h"
 
 Helper *Helper::mInstance = NULL;
+Helper::GC Helper::gc;
 
 Helper::Helper(QObject *parent) : QObject(parent)
 {
@@ -335,18 +336,17 @@ bool Helper::isUTF8File(const QString& path){
     return isUTF8;
 }
 
-
-QMap<QString, QStringList> Helper::searchTrans(QStringList words){
-    QMap<QString, QStringList> result;
-    QStringList entries;
-
-    for(QString word : words){
-        entries.clear();
-        entries << "Trans 1" << "Trans 2" << "Trans 3 This is a message" << "Trans 4" << "Trans 5";
-        result.insert(word, entries);
+bool Helper::equalStringList(const QStringList& list1, const QStringList& list2){
+    if(list1.length() != list2.length()){
+        return false;
     }
 
-    return result;
+    for(int i = 0; i < list1.length(); i++){
+        if(list1[i] != list2[i]){
+            return false;
+        }
+    }
+    return true;
 }
 
 
@@ -361,8 +361,8 @@ void Helper::updateProjectFile(const QString& taskname, const QString& attr, con
     }
 
     QFile file(projFilename);
-    if(!file.open(QIODevice::ReadWrite)){
-        qDebug() << "Failed to open file: " << projFilename;
+    if(!file.open(QIODevice::ReadOnly | QIODevice::Text)){
+        qDebug() << "failed to open file: " << projFilename;
         return;
     }
     QJsonParseError error;
@@ -397,7 +397,7 @@ void Helper::updateProjectFile(const QString& taskname, const QString& attr, con
     }
 
     QFile file2(projFilename);
-    if(!file2.open(QIODevice::WriteOnly)){
+    if(!file2.open(QIODevice::WriteOnly | QIODevice::Text)){
         qDebug() << "Failed to open file: " << projFilename;
         return;
     }

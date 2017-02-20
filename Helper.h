@@ -10,6 +10,15 @@
 class Helper : public QObject
 {
     Q_OBJECT
+    class GC{
+    public:
+        ~GC(){
+            if(mInstance != NULL){
+                delete mInstance;
+                mInstance = NULL;
+            }
+        }
+    };
 public:
     static Helper* instance();
     void scanFolder(const QString& path, QStringList *result, bool recur = true);
@@ -21,7 +30,7 @@ public:
     bool copyFile(const QString& absPath, const QString& newPath, bool overwrite = false);
     bool isUTF8File(const QString& path);
     void updateProjectFile(const QString& taskname, const QString& attr, const QString& value);
-    QMap<QString, QStringList> searchTrans(QStringList words);
+    bool equalStringList(const QStringList& list1, const QStringList& list2);
 
 signals:
     void refreshTaskList();
@@ -37,10 +46,12 @@ private:
 public:
     QMap<QString, QString> mWorkingStatusQuo;
     QString mProjectDirectory;
+    QString mExecutableDirectory;
     QVector<QStringList> mTaskListBackup;
 
 private:
     static Helper *mInstance;
+    static GC gc;
 };
 
 #endif // HELPER_H

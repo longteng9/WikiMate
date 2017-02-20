@@ -25,6 +25,8 @@ DEFINES += QT_DEPRECATED_WARNINGS
 # INCLUDEPATH += include/
 # LIBS += D:/WikiMate/libs/python36.lib
 
+INCLUDEPATH += include
+
 SOURCES += main.cpp\
         MainWindow.cpp \
     FileTableModel.cpp \
@@ -32,7 +34,10 @@ SOURCES += main.cpp\
     FileItemDelegate.cpp \
     Helper.cpp \
     FragmentManager.cpp \
-    SocketComm.cpp
+    SocketComm.cpp \
+    TransMemory.cpp \
+    DictEngine.cpp \
+    AsyncWorker.cpp
 
 HEADERS  += MainWindow.h \
     FileTableModel.h \
@@ -40,7 +45,10 @@ HEADERS  += MainWindow.h \
     FileItemDelegate.h \
     Helper.h \
     FragmentManager.h \
-    SocketComm.h
+    SocketComm.h \
+    TransMemory.h \
+    DictEngine.h \
+    AsyncWorker.h
 
 FORMS    += MainWindow.ui
 

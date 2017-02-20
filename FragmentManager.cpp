@@ -9,12 +9,32 @@
 #include <QDomDocument>
 #include "MainWindow.h"
 #include "Helper.h"
+#include "cppjieba/Jieba.hpp"
+#include <vector>
+#include <string>
+
+const char* JiebaPaths::jieba_dict = "dict/jieba.dict.utf8";
+const char* JiebaPaths::user_dict = "dict/user.dict.utf8";
+const char* JiebaPaths::hmm_model = "dict/hmm_model.utf8";
+const char* JiebaPaths::idf = "dict/idf.utf8";
+const char* JiebaPaths::stop_words = "dict/stop_words.utf8";
 
 FragmentManager *FragmentManager::mInstance = NULL;
+FragmentManager::GC FragmentManager::gc;
 
-FragmentManager::FragmentManager(QObject *parent) : QObject(parent)
-{
+FragmentManager::FragmentManager(QObject *parent) : QObject(parent){
+    mJieba = new cppjieba::Jieba(JiebaPaths::jieba_dict,
+                                 JiebaPaths::hmm_model,
+                                 JiebaPaths::user_dict,
+                                 JiebaPaths::idf,
+                                 JiebaPaths::stop_words);
+}
 
+FragmentManager::~FragmentManager(){
+    if(mJieba != NULL){
+        delete mJieba;
+        mJieba = NULL;
+    }
 }
 
 FragmentManager* FragmentManager::instance(){
@@ -23,28 +43,6 @@ FragmentManager* FragmentManager::instance(){
     }
     return mInstance;
 }
-
-/*
-Python modules needed:
-jieba
-*/
-void PythonThread::run(){
-    QProcess process;
-    process.start("python.exe mandarin.py");
-    if(!process.waitForStarted()){
-        code = -1;
-        return;
-    }
-    process.closeWriteChannel();
-    process.waitForFinished();
-    mStdout = process.readAllStandardOutput();
-    mStderr = process.readAllStandardError();
-
-    qDebug() << "code: " << code;
-    qDebug() << "python stderr: " <<mStderr;
-    qDebug() << "python stdout: " <<mStdout;
-}
-
 
 void FragmentManager::buildOrLoadFragments(const QString &path){
     QString name = path.mid(path.lastIndexOf("/")+1);
@@ -60,7 +58,9 @@ void FragmentManager::buildOrLoadFragments(const QString &path){
 }
 
 void FragmentManager::buildFragments(const QString &path){
-    QStringList sentences;
+    mFragmentList.clear();
+    mFragmentTransList.clear();
+    mFragmentWordList.clear();
     QFile file(path);
     if (!file.open(QIODevice::ReadOnly | QIODevice::Text)){
         return ;
@@ -75,57 +75,29 @@ void FragmentManager::buildFragments(const QString &path){
     int pre = 0;
     int pos = content.indexOf(QRegExp("\u3002|\uff01|\uff1f"), pre);
 
+    // 构建mFragmentList
     while (pos >= 0){
         QString frag = content.mid(pre, pos - pre + 1).trimmed();
-        frag = frag.replace("\n", "");
-        sentences.append(frag);
+        // frag = frag.replace("\n", "");
+        mFragmentList.append(frag);
         pre = pos + 1;
         pos = content.indexOf(QRegExp("\u3002|\uff01|\uff1f"), pre);
     }
     if(!content.endsWith("。")
             && !content.endsWith("！")
             && !content.endsWith("？")){
-        sentences.append(content.mid(pre));
+        mFragmentList.append(content.mid(pre));
     }
 
-    mFragmentList = sentences;
-    mFragmentTransList.clear();
-    for(int i = 0; i < sentences.length(); i++){
+    // 构建mFragmentTransList
+    for(int i = 0; i < mFragmentList.length(); i++){
         mFragmentTransList.append("");
     }
 
-    QFile text_in("mandarin_parse_in.txt");
-    text_in.open(QIODevice::WriteOnly);
-    for(QString sentence: sentences){
-        text_in.write(sentence.toUtf8() + "\n");
-    }
-    text_in.close();
 
-    PythonThread pythonThread;
-    pythonThread.start();
-    pythonThread.wait();
-
-    if(pythonThread.code < 0){
-        qDebug() << "failed to start subprocess: code(" << pythonThread.code << ")";
-        QMessageBox::warning(MainWindow::windowRef, "Warning [" + QString::number(pythonThread.code) + "]", "Can't find python interpreter in PATH,\nensure you add it into system PATH", QMessageBox::NoButton, QMessageBox::Yes);
-        return;
-    }
-
-    QFile text_out("mandarin_parse_out.txt");
-    if(text_out.open(QIODevice::ReadOnly)){
-        QTextStream in(&text_out);
-        in.setCodec("UTF-8");
-        mFragmentWordList.clear();
-        while(!in.atEnd()) {
-            QString line = in.readLine();
-            if(line.isEmpty() || line == "/#/"){
-                continue;
-            }
-            mFragmentWordList.append(line.split("/#/", QString::SkipEmptyParts));
-        }
-        text_out.close();
-    }else{
-        qDebug() << "failed to open mandarin_parse_out.txt";
+    // 构建mFragmentWordList
+    for(int i = 0; i < mFragmentList.length(); i++){
+        mFragmentWordList.append(cutWords(mFragmentList.at(i)));
     }
 }
 
@@ -171,9 +143,16 @@ void FragmentManager::updateFragmentTrans(const QString& trans){
     }
     mFragmentTransList[mCurrentIndex] = trans;
     flushRecords();
+
+    int translatedCount = 0;
+    for(int i = 0; i < mFragmentTransList.length(); i++){
+        if(!mFragmentTransList[i].isEmpty()){
+            translatedCount++;
+        }
+    }
     Helper::instance()->updateProjectFile(mSourceFilePath.mid(mSourceFilePath.lastIndexOf("/")+1),
                                           "progress",
-                                          QString::number(qCeil((double)(mCurrentIndex + 1) / mFragmentList.length() * 100)));
+                                          QString::number(qCeil((double)(translatedCount) / mFragmentList.length() * 100)));
 }
 
 void FragmentManager::loadRecords(const QString &path){
@@ -279,4 +258,45 @@ QString FragmentManager::conjFragmentWords(int index){
         result += mFragmentWordList[index][len - 1];
     }
     return result;
+}
+
+QStringList FragmentManager::cutWords(const QString& content){
+    if(mJieba == NULL){
+        mJieba = new cppjieba::Jieba(JiebaPaths::jieba_dict,
+                                    JiebaPaths::hmm_model,
+                                    JiebaPaths::user_dict,
+                                    JiebaPaths::idf,
+                                    JiebaPaths::stop_words);
+    }
+
+    std::vector<std::string> words;
+    std::string text = content.toStdString();
+
+    mJieba->Cut(text, words, true);
+
+    QStringList result;
+    for(int i = 0; i < words.size(); i++){
+        QString word = QString::fromStdString(words[i]);
+        if(!word.isEmpty()){
+            result.append(word);
+        }
+    }
+    return result;
+}
+
+void FragmentManager::reloadJiebaDict(){
+    if(mJieba != NULL){
+        delete mJieba;
+        mJieba = NULL;
+    }
+    mJieba = new cppjieba::Jieba(JiebaPaths::jieba_dict,
+                                 JiebaPaths::hmm_model,
+                                 JiebaPaths::user_dict,
+                                 JiebaPaths::idf,
+                                 JiebaPaths::stop_words);
+}
+
+void FragmentManager::rebuildCurrentFragment(){
+    mFragmentWordList[mCurrentIndex] = cutWords(mFragmentList[mCurrentIndex]);
+    flushRecords();
 }

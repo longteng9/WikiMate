@@ -15,6 +15,9 @@
 #include <QModelIndex>
 #include "FragmentManager.h"
 #include <QEvent>
+#include "TransMemory.h"
+#include "DictEngine.h"
+#include <QThreadPool>
 
 MainWindow* MainWindow::windowRef = NULL;
 
@@ -24,12 +27,12 @@ bool EntryTableKeyFilter::eventFilter(QObject *watched, QEvent *event){
         case QEvent::KeyPress:
             key = (static_cast<QKeyEvent *>(event))->key();
             if (key == Qt::Key_I)  {
-                QTableWidget* entryTable = MainWindow::windowRef->ui->tableWords;
+                QTableWidget* entryTable = MainWindow::windowRef->ui->tableEntries;
                 entryTable->editItem(entryTable->item(entryTable->currentRow(), entryTable->currentColumn()));
                 return true;
             }else if(key == Qt::Key_Enter
                      || key == Qt::Key_Return){
-                QTableWidget* entryTable = MainWindow::windowRef->ui->tableWords;
+                QTableWidget* entryTable = MainWindow::windowRef->ui->tableEntries;
                 if(!entryTable->item(entryTable->currentRow(), entryTable->currentColumn())){
                     return false;
                 }
@@ -61,7 +64,7 @@ bool FragmentEditorKeyFilter::eventFilter(QObject *watched, QEvent *event){
             key = (static_cast<QKeyEvent *>(event))->key();
             if(key == Qt::Key_Up
                      && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::AltModifier)){
-                MainWindow::windowRef->ui->tableWords->setFocus();
+                MainWindow::windowRef->ui->tableEntries->setFocus();
                 return true;
             }else if(key == Qt::Key_Up
                      && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::ControlModifier)){
@@ -88,6 +91,7 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     ui->setupUi(this);
     MainWindow::windowRef = this;
+
     restoreHistory();
     initUI();
     initFilter();
@@ -100,6 +104,7 @@ MainWindow::MainWindow(QWidget *parent) :
         updateFileList(files);
     }
 
+    connect(&mAsyncBuildFragment, &AsyncBuildFragment::finished, this, &MainWindow::on_fragmentDataReady);
     connect(ui->tbvFiles, &FileTableView::startTransEditing, this, &MainWindow::on_btnStartTask_clicked);
     connect(ui->tbvFiles, &FileTableView::startExportTask, this, &MainWindow::on_btnExportTask_clicked);
     connect(ui->tbvFiles, &FileTableView::refreshTaskList, this, &MainWindow::on_btnRefreshTasks_clicked);
@@ -117,7 +122,7 @@ MainWindow::~MainWindow()
 void MainWindow::initFilter(){
     EntryTableKeyFilter* entryTableKeyFilter = new EntryTableKeyFilter;
     FragmentEditorKeyFilter* fragmentEditorKeyFilter = new FragmentEditorKeyFilter;
-    ui->tableWords->installEventFilter(entryTableKeyFilter);
+    ui->tableEntries->installEventFilter(entryTableKeyFilter);
     ui->txtTrans->installEventFilter(fragmentEditorKeyFilter);
 }
 
@@ -344,20 +349,33 @@ void MainWindow::on_btnRefreshTasks_clicked()
     updateFileList(files);
 }
 
+void AsyncBuildFragment::run(){
+    FragmentManager::instance()->buildOrLoadFragments(FragmentManager::instance()->mSourceFilePath);
+}
+
 void MainWindow::on_btnStartTask_clicked()
 {
     if(ui->tbvFiles->currentIndex().row() >= 0){
+        ui->statusLabel->setText("Building fragment map, please wait...");
         QString fileName = ui->tbvFiles->tableModel()->index(ui->tbvFiles->currentIndex().row(), 1).data().toString();
         QString path = Helper::instance()->pathJoin(Helper::instance()->mProjectDirectory, fileName);
-        qDebug() << path;
+        qDebug() << "start task:" << path;
         ui->lstMenu->setCurrentRow(1);
 
         if(FragmentManager::instance()->mSourceFilePath != path){
             FragmentManager::instance()->mSourceFilePath = path;
-            FragmentManager::instance()->buildOrLoadFragments(path);
-            setCurrentFragment(0);
+            mAsyncBuildFragment.start();
+            // FragmentManager::instance()->buildOrLoadFragments(path);
+            // setCurrentFragment(0);
         }
     }
+}
+
+void MainWindow::on_fragmentDataReady(){
+    ui->statusLabel->setText("Working on <strong>" +
+                             FragmentManager::instance()->mSourceFilePath.mid(
+                                 FragmentManager::instance()->mSourceFilePath.lastIndexOf("/")+1) + "</strong>");
+    setCurrentFragment(0);
 }
 
 void MainWindow::setCurrentFragment(int index){
@@ -374,32 +392,8 @@ void MainWindow::setCurrentFragment(int index){
     // ui->txtOriginal->setHtml(Helper::instance()->formatContent(FragmentManager::instance()->mFragmentList, index));
     ui->txtOriginal->setHtml(FragmentManager::instance()->getFormatContent());
 
-    // 设置表头及获取词条数据
-    QStringList header;
-    for(QString word : FragmentManager::instance()->currentFragmentWords()){
-        header << word;
-    }
-
-    QMap<QString, QStringList> transMap = Helper::instance()->searchTrans(header);
-    int maxLen = 0;
-    for(QString key : transMap.keys()){
-        if(transMap[key].length() > maxLen){
-            maxLen = transMap[key].length();
-        }
-    }
-
     // 设置词条数据
-    ui->tableWords->clear();
-    ui->tableWords->setColumnCount(header.size());
-    ui->tableWords->setRowCount(maxLen);
-
-    ui->tableWords->setHorizontalHeaderLabels(header);
-    for(int i = 0; i < header.size(); i++){
-        QStringList entries = transMap[header.at(i)];
-        for(int j = 0; j < entries.size(); j++){
-            ui->tableWords->setItem(j, i, new QTableWidgetItem(entries[j]));
-        }
-    }
+    showEntriesTable(FragmentManager::instance()->currentFragmentWords());
 
     // 加载已有的翻译
     ui->txtTrans->clear();
@@ -409,8 +403,8 @@ void MainWindow::setCurrentFragment(int index){
     }
 
 
-    ui->tableWords->itemAt(0, 0)->setSelected(true);
-    ui->tableWords->setFocus(Qt::MouseFocusReason);
+    ui->tableEntries->itemAt(0, 0)->setSelected(true);
+    ui->tableEntries->setFocus(Qt::MouseFocusReason);
 }
 
 void MainWindow::on_btnExportTask_clicked()
@@ -470,7 +464,31 @@ void MainWindow::on_txtOriginal_selectionChanged()
 
 void MainWindow::on_btnSaveTransMem_clicked()
 {
+    QStringList headers;
+    QStringList rows;
+    QStringList prev_list;
 
+    for(int i = 0; i < ui->tableEntries->columnCount(); i++){
+        headers.append(ui->tableEntries->horizontalHeaderItem(i)->text());
+    }
+
+    for(int i = 0; i < ui->tableEntries->columnCount(); i++){
+        prev_list = DictEngine::mCurrentEntriesTable[headers[i]];
+        rows.clear();
+        for(int j = 0; j < ui->tableEntries->rowCount(); j++){
+            rows.append(ui->tableEntries->item(j, i)->text());
+        }
+
+        if(!Helper::instance()->equalStringList(rows, prev_list)){
+            QString value = "";
+            for(int j = 0; j < ui->tableEntries->rowCount(); j++){
+                if(!ui->tableEntries->item(j, i)->text().isEmpty()){
+                    value += ui->tableEntries->item(j, i)->text() + "/#/";
+                }
+            }
+            TransMemory::instance()->updateEntry(headers[i], value);
+        }
+    }
 }
 
 void MainWindow::on_btnNextFrag_clicked()
@@ -494,4 +512,39 @@ void MainWindow::on_btnPrevFrag_clicked()
 void MainWindow::on_btnSaveFrag_clicked()
 {
     FragmentManager::instance()->updateFragmentTrans(ui->txtTrans->toPlainText());
+}
+
+void MainWindow::on_btnCommitTMs_clicked()
+{
+    FragmentManager::instance()->reloadJiebaDict();
+    FragmentManager::instance()->rebuildCurrentFragment();
+    showEntriesTable(FragmentManager::instance()->currentFragmentWords());
+}
+
+void MainWindow::showEntriesTable(const QStringList &header){
+    DictEngine::mCurrentEntriesTable = DictEngine::instance()->searchTrans(header);
+
+    int maxLen = 0;
+    for(QString key : DictEngine::mCurrentEntriesTable.keys()){
+        if(DictEngine::mCurrentEntriesTable[key].length() > maxLen){
+            maxLen = DictEngine::mCurrentEntriesTable[key].length();
+        }
+    }
+
+    ui->tableEntries->clear();
+    ui->tableEntries->setColumnCount(header.size());
+    ui->tableEntries->setRowCount(maxLen);
+
+    ui->tableEntries->setHorizontalHeaderLabels(header);
+    for(int i = 0; i < header.size(); i++){
+        QStringList entries = DictEngine::mCurrentEntriesTable[header.at(i)];
+        for(int j = 0; j < entries.size(); j++){
+            ui->tableEntries->setItem(j, i, new QTableWidgetItem(entries[j]));
+        }
+    }
+}
+
+void MainWindow::on_txtOriginal_customContextMenuRequested(const QPoint &pos)
+{
+
 }

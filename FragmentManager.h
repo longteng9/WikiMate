@@ -22,9 +22,31 @@
     </fragment>
 </file>
 */
+
+namespace cppjieba{
+    class Jieba;
+}
+
+struct JiebaPaths{
+    static const char* jieba_dict;
+    static const char* user_dict;
+    static const char* hmm_model;
+    static const char* idf;
+    static const char* stop_words;
+};
+
 class FragmentManager : public QObject
 {
     Q_OBJECT
+    class GC{
+    public:
+        ~GC(){
+            if(mInstance != NULL){
+                delete mInstance;
+                mInstance = NULL;
+            }
+        }
+    };
 public:
     static FragmentManager* instance();
     void flushRecords();
@@ -35,6 +57,8 @@ public:
     QStringList currentFragmentWords();
     QString getFormatContent();
     void updateFragmentTrans(const QString& trans);
+    void reloadJiebaDict();
+    void rebuildCurrentFragment();
 
 signals:
 
@@ -43,9 +67,11 @@ public slots:
 private:
     explicit FragmentManager(QObject *parent = 0);
     FragmentManager(const FragmentManager&) = default;
-    ~FragmentManager() = default;
+    virtual ~FragmentManager();
     FragmentManager& operator=(const FragmentManager&) = default;
+
     QString conjFragmentWords(int index);
+    QStringList cutWords(const QString& content);
 
 public:
     QVector<QStringList> mFragmentWordList;
@@ -56,17 +82,8 @@ public:
 
 private:
     static FragmentManager *mInstance;
-};
-
-class PythonThread : public QThread{
-    Q_OBJECT
-protected:
-    void run();
-
-public:
-    QString mStdout = "";
-    QString mStderr = "";
-    int code = 0;
+    static GC gc;
+    cppjieba::Jieba *mJieba = NULL;
 };
 
 

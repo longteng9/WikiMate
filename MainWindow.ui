@@ -339,20 +339,15 @@ QPushButton:pressed{
            <number>0</number>
           </property>
           <item>
-           <layout class="QVBoxLayout" name="verticalLayout_13">
-            <property name="spacing">
-             <number>2</number>
+           <widget class="QPushButton" name="btnExport">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
             </property>
-            <item>
-             <widget class="QPushButton" name="btnExport">
-              <property name="sizePolicy">
-               <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
-                <horstretch>0</horstretch>
-                <verstretch>0</verstretch>
-               </sizepolicy>
-              </property>
-              <property name="styleSheet">
-               <string notr="true">QPushButton{
+            <property name="styleSheet">
+             <string notr="true">QPushButton{
 font: 10pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
@@ -368,16 +363,14 @@ QPushButton:hover{
 QPushButton:pressed{ 
 	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3);
 }</string>
-              </property>
-              <property name="text">
-               <string>Export</string>
-              </property>
-              <property name="flat">
-               <bool>true</bool>
-              </property>
-             </widget>
-            </item>
-           </layout>
+            </property>
+            <property name="text">
+             <string>Export</string>
+            </property>
+            <property name="flat">
+             <bool>true</bool>
+            </property>
+           </widget>
           </item>
           <item>
            <spacer name="horizontalSpacer_3">
@@ -391,6 +384,40 @@ QPushButton:pressed{
              </size>
             </property>
            </spacer>
+          </item>
+          <item>
+           <widget class="QPushButton" name="btnCommitTMs">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="styleSheet">
+             <string notr="true">QPushButton{
+font: 10pt &quot;Verdana&quot;;
+border-style: none;
+border: 0px;
+color: #F0F0F0;
+padding: 5px;	
+min-height: 20px;
+border-radius:0px;
+background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3); }
+QPushButton:hover{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #50A3F0, stop:1 #489CEA);
+}
+
+QPushButton:pressed{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3);
+}</string>
+            </property>
+            <property name="text">
+             <string>Commit TMs</string>
+            </property>
+            <property name="flat">
+             <bool>true</bool>
+            </property>
+           </widget>
           </item>
          </layout>
         </widget>
@@ -768,7 +795,7 @@ selection-background-color:rgb(37, 156, 247);
                    <property name="orientation">
                     <enum>Qt::Vertical</enum>
                    </property>
-                   <widget class="QTableWidget" name="tableWords">
+                   <widget class="QTableWidget" name="tableEntries">
                     <property name="styleSheet">
                      <string notr="true">font: 10pt &quot;Microsoft YaHei&quot;;</string>
                     </property>
@@ -990,7 +1017,7 @@ QPushButton:pressed{
 }</string>
                           </property>
                           <property name="text">
-                           <string>Save Trans-Mem</string>
+                           <string>Save TMs</string>
                           </property>
                           <property name="flat">
                            <bool>true</bool>
@@ -1044,6 +1071,56 @@ QPushButton:pressed{
        </layout>
       </item>
      </layout>
+    </item>
+    <item>
+     <widget class="QWidget" name="statusBar" native="true">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>0</width>
+        <height>25</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>16777215</width>
+        <height>25</height>
+       </size>
+      </property>
+      <layout class="QHBoxLayout" name="horizontalLayout_5">
+       <property name="spacing">
+        <number>0</number>
+       </property>
+       <property name="leftMargin">
+        <number>0</number>
+       </property>
+       <property name="topMargin">
+        <number>0</number>
+       </property>
+       <property name="rightMargin">
+        <number>0</number>
+       </property>
+       <property name="bottomMargin">
+        <number>0</number>
+       </property>
+       <item>
+        <widget class="QLabel" name="statusLabel">
+         <property name="styleSheet">
+          <string notr="true">font: 11pt &quot;Microsoft YaHei&quot;;
+border-color: rgba(255, 255, 255, 0);</string>
+         </property>
+         <property name="text">
+          <string>Status bar</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </widget>
     </item>
    </layout>
   </widget>
