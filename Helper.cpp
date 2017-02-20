@@ -101,10 +101,10 @@ QVector<QStringList> Helper::getWorkingFiles(const QString& dirPath){
                 data.append(":/static/question.png");
                 QJsonObject item = tasks.at(i).toObject();
                 data.append(item.take("filename").toString());
-                data.append(QString::number(item.take("words").toInt()));
+                data.append(item.take("words").toString());
                 data.append(item.take("size").toString());
                 data.append(item.take("status").toString());
-                data.append(QString::number(item.take("progress").toInt()));
+                data.append(item.take("progress").toString());
                 data.append(item.take("tags").toString());
                 data.append(item.take("date").toString());
                 result.append(data);
@@ -164,7 +164,8 @@ void Helper::refreshWorkingDir(QString dirPath){
 
             for(auto iter = list.begin(); iter != list.end(); iter++){
                 QFileInfo info(*iter);
-                if (info.fileName() == "project.meta"){
+                if (info.fileName() == "project.meta"
+                        || info.fileName().endsWith(".wmtmp")){
                     continue;
                 }
                 bool existing = false;
@@ -182,10 +183,10 @@ void Helper::refreshWorkingDir(QString dirPath){
 
                     QJsonObject item;
                     item.insert("filename", info.fileName());
-                    item.insert("words", info.size() / 2);
+                    item.insert("words", QString::number(info.size() / 2));
                     item.insert("size", Helper::instance()->sciSize(info.size()));
                     item.insert("status", "DOING");
-                    item.insert("progress", 0);
+                    item.insert("progress", "0");
                     item.insert("tags", isUTF8File(info.absoluteFilePath()) ? "UTF-8" : "ANSI");
                     item.insert("date", QDateTime::currentDateTime().toString("yyyy-MM-dd hh:mm:ss"));
                     tasks.push_back(item);
@@ -255,7 +256,7 @@ void Helper::addNewTasks(QWidget *parent){
     QStringList files = QFileDialog::getOpenFileNames(parent, "Add New Tasks", "./");
     if(!files.isEmpty()){
         for(QString name : files){
-            Helper::instance()->copyFile(name, Helper::instance()->mCurrenttDirectory, false);
+            Helper::instance()->copyFile(name, Helper::instance()->mProjectDirectory, false);
         }
         emit refreshTaskList();
     }
@@ -328,26 +329,12 @@ bool Helper::isUTF8File(const QString& path){
             break;
         }
     }
-    if(tmp > 0){
+    if(tmp){
         delete[] tmp;
     }
     return isUTF8;
 }
 
-QString Helper::formatContent(const QStringList& fragments, int index){
-    QString result = "";
-    for(int i = 0; i < fragments.size(); i++){
-        if(i == index){
-            result += "<strong style=\"color:red; background:white\">[Frag:" + QString::number(index) + "]</strong><span style=\"background:#4FBDFE\">";
-            result += fragments[i];
-            result += "</span><br><br>";
-            continue;
-        }
-        result += fragments[i];
-        result += "<br><br>";
-    }
-    return result;
-}
 
 QMap<QString, QStringList> Helper::searchTrans(QStringList words){
     QMap<QString, QStringList> result;
@@ -360,4 +347,63 @@ QMap<QString, QStringList> Helper::searchTrans(QStringList words){
     }
 
     return result;
+}
+
+
+void Helper::updateProjectFile(const QString& taskname, const QString& attr, const QString& value){
+    QString sourceFilePath = FragmentManager::instance()->mSourceFilePath;
+    QString projFilename = Helper::instance()->pathJoin(
+                sourceFilePath.mid(0, sourceFilePath.lastIndexOf("/")),
+                "project.meta");
+    QFileInfo projFile = QFileInfo(projFilename);
+    if (!projFile.exists()){
+        return;
+    }
+
+    QFile file(projFilename);
+    if(!file.open(QIODevice::ReadWrite)){
+        qDebug() << "Failed to open file: " << projFilename;
+        return;
+    }
+    QJsonParseError error;
+    QByteArray data = file.readAll();
+    file.close();
+    if(data.isEmpty()){
+        return;
+    }
+
+    QJsonDocument jsonDocument = QJsonDocument::fromJson(data, &error);
+    QJsonObject root;
+    if (jsonDocument.isObject()) {
+        root = jsonDocument.object();
+        if (root.contains("tasks")){
+            QJsonArray tasks = root.take("tasks").toArray();
+            int size = tasks.size();
+            for (int i = 0; i < size; i++) {
+                QJsonObject item = tasks.at(i).toObject();
+                QString filename = item.value("filename").toString();
+                if(filename == taskname){
+                    tasks.removeAt(i);
+                    item[attr] = value;
+                    tasks.append(item);
+                    break;
+                }
+            }
+            root["tasks"] = tasks;
+        }
+    } else {
+        qDebug() << "failed to parse JSON:" << error.errorString().toUtf8().constData();
+        return;
+    }
+
+    QFile file2(projFilename);
+    if(!file2.open(QIODevice::WriteOnly)){
+        qDebug() << "Failed to open file: " << projFilename;
+        return;
+    }
+
+    jsonDocument.setObject(root);
+    QByteArray bytes = jsonDocument.toJson(QJsonDocument::Indented);
+    file2.write(bytes);
+    file2.close();
 }

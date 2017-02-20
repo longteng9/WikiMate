@@ -20,7 +20,7 @@ public:
     void addNewTasks(QWidget* parent);
     bool copyFile(const QString& absPath, const QString& newPath, bool overwrite = false);
     bool isUTF8File(const QString& path);
-    QString formatContent(const QStringList& fragments, int index);
+    void updateProjectFile(const QString& taskname, const QString& attr, const QString& value);
     QMap<QString, QStringList> searchTrans(QStringList words);
 
 signals:
@@ -35,10 +35,9 @@ private:
     Helper& operator=(const Helper&) = default;
 
 public:
-    QMap<QString, QString> mWorkingHistory;
-    QString mCurrenttDirectory;
+    QMap<QString, QString> mWorkingStatusQuo;
+    QString mProjectDirectory;
     QVector<QStringList> mTaskListBackup;
-    QString mCurrentTaskPath;
 
 private:
     static Helper *mInstance;

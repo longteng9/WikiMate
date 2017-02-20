@@ -7,28 +7,96 @@
 #include "FileTableModel.h"
 #include "Helper.h"
 #include <QFileDialog>
+#include <QScrollBar>
 #include <QJsonObject>
 #include <QJsonDocument>
 #include <QDateTime>
 #include <QTextBlock>
 #include <QModelIndex>
 #include "FragmentManager.h"
+#include <QEvent>
 
-QWidget* MainWindow::widgetRef = NULL;
+MainWindow* MainWindow::windowRef = NULL;
+
+bool EntryTableKeyFilter::eventFilter(QObject *watched, QEvent *event){
+    int key;
+    switch(event->type())  {
+        case QEvent::KeyPress:
+            key = (static_cast<QKeyEvent *>(event))->key();
+            if (key == Qt::Key_I)  {
+                QTableWidget* entryTable = MainWindow::windowRef->ui->tableWords;
+                entryTable->editItem(entryTable->item(entryTable->currentRow(), entryTable->currentColumn()));
+                return true;
+            }else if(key == Qt::Key_Enter
+                     || key == Qt::Key_Return){
+                QTableWidget* entryTable = MainWindow::windowRef->ui->tableWords;
+                if(!entryTable->item(entryTable->currentRow(), entryTable->currentColumn())){
+                    return false;
+                }
+                QString entry = entryTable->item(entryTable->currentRow(), entryTable->currentColumn())->text();
+                MainWindow::windowRef->ui->txtTrans->setText(MainWindow::windowRef->ui->txtTrans->toPlainText() + entry + " ");
+                return true;
+            }else if(key == Qt::Key_Down
+                     && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::AltModifier)){
+                MainWindow::windowRef->ui->txtTrans->setFocus();
+                QTextCursor cursor = MainWindow::windowRef->ui->txtTrans->textCursor();
+                cursor.movePosition(QTextCursor::MoveOperation::EndOfBlock);
+                MainWindow::windowRef->ui->txtTrans->setTextCursor(cursor);
+                return true;
+            }else if(key == Qt::Key_S
+                     && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::ControlModifier)){
+                MainWindow::windowRef->on_btnSaveTransMem_clicked();
+                return true;
+            }
+        default:
+            return false;
+    }
+    return false;
+}
+
+bool FragmentEditorKeyFilter::eventFilter(QObject *watched, QEvent *event){
+    int key;
+    switch(event->type())  {
+        case QEvent::KeyPress:
+            key = (static_cast<QKeyEvent *>(event))->key();
+            if(key == Qt::Key_Up
+                     && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::AltModifier)){
+                MainWindow::windowRef->ui->tableWords->setFocus();
+                return true;
+            }else if(key == Qt::Key_Up
+                     && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::ControlModifier)){
+                MainWindow::windowRef->on_btnPrevFrag_clicked();
+                return true;
+            }else if(key == Qt::Key_Down
+                     && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::ControlModifier)){
+                MainWindow::windowRef->on_btnNextFrag_clicked();
+                return true;
+            }else if(key == Qt::Key_S
+                     && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::ControlModifier)){
+                MainWindow::windowRef->on_btnSaveFrag_clicked();
+                return true;
+            }
+        default:
+            return false;
+    }
+    return false;
+}
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
-    MainWindow::widgetRef = this;
+    MainWindow::windowRef = this;
     restoreHistory();
     initUI();
-    if(Helper::instance()->mWorkingHistory.contains("projectDirectory")){
-        Helper::instance()->mCurrenttDirectory = Helper::instance()->mWorkingHistory["projectDirectory"];
-        this->setWindowTitle("WikiMate @ " + Helper::instance()->mCurrenttDirectory);
-        Helper::instance()->refreshWorkingDir(Helper::instance()->mWorkingHistory["projectDirectory"]);
-        QVector<QStringList> files = Helper::instance()->getWorkingFiles(Helper::instance()->mWorkingHistory["projectDirectory"]);
+    initFilter();
+
+    if(Helper::instance()->mWorkingStatusQuo.contains("projectDirectory")){
+        Helper::instance()->mProjectDirectory = Helper::instance()->mWorkingStatusQuo["projectDirectory"];
+        this->setWindowTitle("WikiMate @ " + Helper::instance()->mProjectDirectory);
+        Helper::instance()->refreshWorkingDir(Helper::instance()->mWorkingStatusQuo["projectDirectory"]);
+        QVector<QStringList> files = Helper::instance()->getWorkingFiles(Helper::instance()->mWorkingStatusQuo["projectDirectory"]);
         updateFileList(files);
     }
 
@@ -46,6 +114,13 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
+void MainWindow::initFilter(){
+    EntryTableKeyFilter* entryTableKeyFilter = new EntryTableKeyFilter;
+    FragmentEditorKeyFilter* fragmentEditorKeyFilter = new FragmentEditorKeyFilter;
+    ui->tableWords->installEventFilter(entryTableKeyFilter);
+    ui->txtTrans->installEventFilter(fragmentEditorKeyFilter);
+}
+
 void MainWindow::initUI(){
     ui->tabCenter->tabBar()->hide();
     ui->tabLeftSide->tabBar()->hide();
@@ -55,6 +130,14 @@ void MainWindow::initUI(){
     ui->splitter_horizon->setStretchFactor(1, 1);
     ui->splitter_vertical->setStretchFactor(0, 3);
     ui->splitter_vertical->setStretchFactor(1, 2);
+
+    QString scrollBarStyle = "QScrollBar{background:transparent; width: 10px;}"
+                             "QScrollBar::handle{background:lightgray; border:2px solid transparent; border-radius:5px;}"
+                             "QScrollBar::handle:hover{background:gray;}"
+                             "QScrollBar::sub-line{background:transparent;}"
+                             "QScrollBar::add-line{background:transparent;}";
+    ui->txtOriginal->verticalScrollBar()->setStyleSheet(scrollBarStyle);
+    ui->txtOriginal->horizontalScrollBar()->setStyleSheet(scrollBarStyle);
 
     QListWidgetItem *item = new QListWidgetItem;
     item->setIcon(QIcon(":/static/question.png"));
@@ -177,7 +260,7 @@ void MainWindow::on_btnWorkingDir_clicked()
 {
     QString dirPath = QFileDialog::getExistingDirectory(this, "Choose Working Directory", "./");
     if(!dirPath.isEmpty()){
-        Helper::instance()->mWorkingHistory["projectDirectory"] = dirPath;
+        Helper::instance()->mWorkingStatusQuo["projectDirectory"] = dirPath;
         Helper::instance()->refreshWorkingDir(dirPath);
         QVector<QStringList> files = Helper::instance()->getWorkingFiles(dirPath);
         updateFileList(files);
@@ -205,7 +288,7 @@ void MainWindow::restoreHistory(){
             if (jsonDocument.isObject()) {
                 QVariantMap result = jsonDocument.toVariant().toMap();
                 for(auto iter = result.begin(); iter != result.end(); iter++){
-                    Helper::instance()->mWorkingHistory[iter.key()] = iter.value().toString();
+                    Helper::instance()->mWorkingStatusQuo[iter.key()] = iter.value().toString();
                 }
             }
         } else {
@@ -218,7 +301,7 @@ void MainWindow::restoreHistory(){
 void MainWindow::saveHistory(){
     QJsonParseError error;
     QVariantMap variantMap;
-    for(auto iter = Helper::instance()->mWorkingHistory.begin(); iter != Helper::instance()->mWorkingHistory.end(); iter++){
+    for(auto iter = Helper::instance()->mWorkingStatusQuo.begin(); iter != Helper::instance()->mWorkingStatusQuo.end(); iter++){
         variantMap[iter.key()] = iter.value();
     }
     QJsonObject obj = QJsonObject::fromVariantMap(variantMap);
@@ -256,8 +339,8 @@ void MainWindow::on_lstTaskFilter_currentTextChanged(const QString &currentText)
 void MainWindow::on_btnRefreshTasks_clicked()
 {
     qDebug() << "refreshing list";
-    Helper::instance()->refreshWorkingDir(Helper::instance()->mWorkingHistory["projectDirectory"]);
-    QVector<QStringList> files = Helper::instance()->getWorkingFiles(Helper::instance()->mWorkingHistory["projectDirectory"]);
+    Helper::instance()->refreshWorkingDir(Helper::instance()->mWorkingStatusQuo["projectDirectory"]);
+    QVector<QStringList> files = Helper::instance()->getWorkingFiles(Helper::instance()->mWorkingStatusQuo["projectDirectory"]);
     updateFileList(files);
 }
 
@@ -265,14 +348,13 @@ void MainWindow::on_btnStartTask_clicked()
 {
     if(ui->tbvFiles->currentIndex().row() >= 0){
         QString fileName = ui->tbvFiles->tableModel()->index(ui->tbvFiles->currentIndex().row(), 1).data().toString();
-        QString path = Helper::instance()->pathJoin(Helper::instance()->mCurrenttDirectory, fileName);
+        QString path = Helper::instance()->pathJoin(Helper::instance()->mProjectDirectory, fileName);
         qDebug() << path;
         ui->lstMenu->setCurrentRow(1);
 
-        if(Helper::instance()->mCurrentTaskPath != path){
-            FragmentManager::instance()->buildFragments(path);
-
-            Helper::instance()->mCurrentTaskPath = path;
+        if(FragmentManager::instance()->mSourceFilePath != path){
+            FragmentManager::instance()->mSourceFilePath = path;
+            FragmentManager::instance()->buildOrLoadFragments(path);
             setCurrentFragment(0);
         }
     }
@@ -282,10 +364,19 @@ void MainWindow::setCurrentFragment(int index){
     if(FragmentManager::instance()->mFragmentList.isEmpty()){
         return;
     }
-    ui->txtOriginal->setHtml(Helper::instance()->formatContent(FragmentManager::instance()->mFragmentList, index));
+    if(index >= FragmentManager::instance()->mFragmentList.length()
+            || index < 0){
+        return;
+    }
+    FragmentManager::instance()->mCurrentIndex = index;
 
+    // 设置源文件的HTML格式
+    // ui->txtOriginal->setHtml(Helper::instance()->formatContent(FragmentManager::instance()->mFragmentList, index));
+    ui->txtOriginal->setHtml(FragmentManager::instance()->getFormatContent());
+
+    // 设置表头及获取词条数据
     QStringList header;
-    for(QString word : FragmentManager::instance()->currentBlockFragments()){
+    for(QString word : FragmentManager::instance()->currentFragmentWords()){
         header << word;
     }
 
@@ -297,6 +388,7 @@ void MainWindow::setCurrentFragment(int index){
         }
     }
 
+    // 设置词条数据
     ui->tableWords->clear();
     ui->tableWords->setColumnCount(header.size());
     ui->tableWords->setRowCount(maxLen);
@@ -308,13 +400,24 @@ void MainWindow::setCurrentFragment(int index){
             ui->tableWords->setItem(j, i, new QTableWidgetItem(entries[j]));
         }
     }
+
+    // 加载已有的翻译
+    ui->txtTrans->clear();
+    QString trans = FragmentManager::instance()->mFragmentTransList[FragmentManager::instance()->mCurrentIndex];
+    if(trans != ""){
+        ui->txtTrans->setText(trans);
+    }
+
+
+    ui->tableWords->itemAt(0, 0)->setSelected(true);
+    ui->tableWords->setFocus(Qt::MouseFocusReason);
 }
 
 void MainWindow::on_btnExportTask_clicked()
 {
     if(ui->tbvFiles->currentIndex().row() >= 0){
         QString fileName = ui->tbvFiles->tableModel()->index(ui->tbvFiles->currentIndex().row(), 1).data().toString();
-        QString path = Helper::instance()->pathJoin(Helper::instance()->mCurrenttDirectory, fileName);
+        QString path = Helper::instance()->pathJoin(Helper::instance()->mProjectDirectory, fileName);
         qDebug() << path;
     }
 }
@@ -322,8 +425,8 @@ void MainWindow::on_btnExportTask_clicked()
 void MainWindow::on_btnAddTasks_clicked()
 {
     Helper::instance()->addNewTasks(this);
-    Helper::instance()->refreshWorkingDir(Helper::instance()->mWorkingHistory["projectDirectory"]);
-    QVector<QStringList> files = Helper::instance()->getWorkingFiles(Helper::instance()->mWorkingHistory["projectDirectory"]);
+    Helper::instance()->refreshWorkingDir(Helper::instance()->mWorkingStatusQuo["projectDirectory"]);
+    QVector<QStringList> files = Helper::instance()->getWorkingFiles(Helper::instance()->mWorkingStatusQuo["projectDirectory"]);
     updateFileList(files);
 }
 
@@ -331,10 +434,10 @@ void MainWindow::on_btnRemoveTasks_clicked()
 {
     if(ui->tbvFiles->currentIndex().row() >= 0){
         QString fileName = ui->tbvFiles->tableModel()->index(ui->tbvFiles->currentIndex().row(), 1).data().toString();
-        QString path = Helper::instance()->pathJoin(Helper::instance()->mCurrenttDirectory, fileName);
+        QString path = Helper::instance()->pathJoin(Helper::instance()->mProjectDirectory, fileName);
         QFile::remove(path);
-        Helper::instance()->refreshWorkingDir(Helper::instance()->mWorkingHistory["projectDirectory"]);
-        QVector<QStringList> files = Helper::instance()->getWorkingFiles(Helper::instance()->mWorkingHistory["projectDirectory"]);
+        Helper::instance()->refreshWorkingDir(Helper::instance()->mWorkingStatusQuo["projectDirectory"]);
+        QVector<QStringList> files = Helper::instance()->getWorkingFiles(Helper::instance()->mWorkingStatusQuo["projectDirectory"]);
         updateFileList(files);
     }
 }
@@ -362,4 +465,33 @@ void MainWindow::on_txtOriginal_selectionChanged()
 
     qDebug() << "select:" << selected;
     qDebug() << FragmentManager::instance()->retrieveWord(selected);
+}
+
+
+void MainWindow::on_btnSaveTransMem_clicked()
+{
+
+}
+
+void MainWindow::on_btnNextFrag_clicked()
+{
+    QString trans = ui->txtTrans->toPlainText();
+    if(trans != ""){
+        FragmentManager::instance()->updateFragmentTrans(ui->txtTrans->toPlainText());
+    }
+    setCurrentFragment(FragmentManager::instance()->mCurrentIndex + 1);
+}
+
+void MainWindow::on_btnPrevFrag_clicked()
+{
+    QString trans = ui->txtTrans->toPlainText();
+    if(trans != ""){
+        FragmentManager::instance()->updateFragmentTrans(ui->txtTrans->toPlainText());
+    }
+    setCurrentFragment(FragmentManager::instance()->mCurrentIndex - 1);
+}
+
+void MainWindow::on_btnSaveFrag_clicked()
+{
+    FragmentManager::instance()->updateFragmentTrans(ui->txtTrans->toPlainText());
 }

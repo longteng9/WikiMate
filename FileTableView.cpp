@@ -88,7 +88,7 @@ void FileTableView::onCreateContextMenu(const QPoint &point){
 void FileTableView::onDoubleClicked(const QModelIndex &index){
     QString format = mModel->index(index.row(), 6).data().toString();
     if(format != "UTF-8"){
-        int result = QMessageBox::warning(MainWindow::widgetRef,
+        int result = QMessageBox::warning(MainWindow::windowRef,
                              "Warning",
                              "This file isn't encoded in UTF-8,\nthere might be a problem to decode this file as UTF-8,\ndo you wanna try?",
                              QMessageBox::Yes,

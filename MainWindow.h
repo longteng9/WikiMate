@@ -12,7 +12,6 @@ class MainWindow;
 class MainWindow : public QMainWindow
 {
     Q_OBJECT
-
 public:
     explicit MainWindow(QWidget *parent = 0);
     ~MainWindow();
@@ -22,6 +21,10 @@ public slots:
     void on_btnExportTask_clicked();
     void on_btnAddTasks_clicked();
     void on_btnRemoveTasks_clicked();
+    void on_btnSaveTransMem_clicked();
+    void on_btnNextFrag_clicked();
+    void on_btnPrevFrag_clicked();
+    void on_btnSaveFrag_clicked();
 
 private slots:
     void on_lstMenu_currentItemChanged(QListWidgetItem *current, QListWidgetItem *previous);
@@ -40,6 +43,7 @@ private slots:
 
 private:
     void initUI();
+    void initFilter();
     void updateFileList(const QVector<QStringList> &data);
     void filterFileList(const QString& keyword);
     void restoreHistory();
@@ -48,10 +52,22 @@ private:
 
 
 public:
-    static QWidget *widgetRef;
-
-private:
+    static MainWindow *windowRef;
     Ui::MainWindow *ui;
+};
+
+class EntryTableKeyFilter : public QObject{
+    Q_OBJECT
+public:
+    EntryTableKeyFilter(QObject *parent = 0){}
+    bool eventFilter(QObject *watched, QEvent *event);
+};
+
+class FragmentEditorKeyFilter : public QObject{
+    Q_OBJECT
+public:
+    FragmentEditorKeyFilter(QObject *parent = 0){}
+    bool eventFilter(QObject *watched, QEvent *event);
 };
 
 #endif // MAINWINDOW_H

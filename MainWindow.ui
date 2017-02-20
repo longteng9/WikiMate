@@ -344,40 +344,6 @@ QPushButton:pressed{
              <number>2</number>
             </property>
             <item>
-             <widget class="QPushButton" name="btnSave">
-              <property name="sizePolicy">
-               <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
-                <horstretch>0</horstretch>
-                <verstretch>0</verstretch>
-               </sizepolicy>
-              </property>
-              <property name="styleSheet">
-               <string notr="true">QPushButton{
-font: 10pt &quot;Verdana&quot;;
-border-style: none;
-border: 0px;
-color: #F0F0F0;
-padding: 5px;	
-min-height: 20px;
-border-radius:0px;
-background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3); }
-QPushButton:hover{ 
-	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #50A3F0, stop:1 #489CEA);
-}
-
-QPushButton:pressed{ 
-	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3);
-}</string>
-              </property>
-              <property name="text">
-               <string>Save All</string>
-              </property>
-              <property name="flat">
-               <bool>true</bool>
-              </property>
-             </widget>
-            </item>
-            <item>
              <widget class="QPushButton" name="btnExport">
               <property name="sizePolicy">
                <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
@@ -792,7 +758,7 @@ selection-background-color:rgb(37, 156, 247);
                   </property>
                   <widget class="QTextEdit" name="txtOriginal">
                    <property name="styleSheet">
-                    <string notr="true">font: 10pt &quot;Microsoft YaHei&quot;;</string>
+                    <string notr="true">font: 11pt &quot;Microsoft YaHei&quot;;</string>
                    </property>
                    <property name="readOnly">
                     <bool>true</bool>
@@ -807,7 +773,7 @@ selection-background-color:rgb(37, 156, 247);
                      <string notr="true">font: 10pt &quot;Microsoft YaHei&quot;;</string>
                     </property>
                     <property name="editTriggers">
-                     <set>QAbstractItemView::NoEditTriggers</set>
+                     <set>QAbstractItemView::DoubleClicked|QAbstractItemView::EditKeyPressed</set>
                     </property>
                     <property name="showGrid">
                      <bool>true</bool>
@@ -872,6 +838,46 @@ selection-background-color:rgb(37, 156, 247);
                          <number>0</number>
                         </property>
                         <item>
+                         <widget class="QPushButton" name="btnPrevFrag">
+                          <property name="sizePolicy">
+                           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+                            <horstretch>0</horstretch>
+                            <verstretch>0</verstretch>
+                           </sizepolicy>
+                          </property>
+                          <property name="maximumSize">
+                           <size>
+                            <width>16777215</width>
+                            <height>40</height>
+                           </size>
+                          </property>
+                          <property name="styleSheet">
+                           <string notr="true">QPushButton{
+font: 10pt &quot;Verdana&quot;;
+border-style: none;
+border: 0px;
+color: #F0F0F0;
+padding: 5px;	
+min-height: 20px;
+border-radius:0px;
+background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3); }
+QPushButton:hover{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #50A3F0, stop:1 #489CEA);
+}
+
+QPushButton:pressed{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3);
+}</string>
+                          </property>
+                          <property name="text">
+                           <string>Prev Frag</string>
+                          </property>
+                          <property name="flat">
+                           <bool>true</bool>
+                          </property>
+                         </widget>
+                        </item>
+                        <item>
                          <widget class="QPushButton" name="btnNextFrag">
                           <property name="sizePolicy">
                            <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
@@ -905,6 +911,46 @@ QPushButton:pressed{
                           </property>
                           <property name="text">
                            <string>Next Frag</string>
+                          </property>
+                          <property name="flat">
+                           <bool>true</bool>
+                          </property>
+                         </widget>
+                        </item>
+                        <item>
+                         <widget class="QPushButton" name="btnSaveFrag">
+                          <property name="sizePolicy">
+                           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+                            <horstretch>0</horstretch>
+                            <verstretch>0</verstretch>
+                           </sizepolicy>
+                          </property>
+                          <property name="maximumSize">
+                           <size>
+                            <width>16777215</width>
+                            <height>40</height>
+                           </size>
+                          </property>
+                          <property name="styleSheet">
+                           <string notr="true">QPushButton{
+font: 10pt &quot;Verdana&quot;;
+border-style: none;
+border: 0px;
+color: #F0F0F0;
+padding: 5px;	
+min-height: 20px;
+border-radius:0px;
+background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3); }
+QPushButton:hover{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #50A3F0, stop:1 #489CEA);
+}
+
+QPushButton:pressed{ 
+	background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #0F7DBE, stop:1 #1582C3);
+}</string>
+                          </property>
+                          <property name="text">
+                           <string>Save Fragment</string>
                           </property>
                           <property name="flat">
                            <bool>true</bool>
@@ -970,7 +1016,7 @@ QPushButton:pressed{
                      <item>
                       <widget class="QTextEdit" name="txtTrans">
                        <property name="styleSheet">
-                        <string notr="true">font: 10pt &quot;Microsoft YaHei&quot;;</string>
+                        <string notr="true">font: 11pt &quot;Microsoft YaHei&quot;;</string>
                        </property>
                        <property name="readOnly">
                         <bool>false</bool>
