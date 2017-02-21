@@ -780,8 +780,14 @@ selection-background-color:rgb(37, 156, 247);
                   <property name="styleSheet">
                    <string notr="true">QSplitter::handle { background-color: #0F7DBE }</string>
                   </property>
+                  <property name="lineWidth">
+                   <number>0</number>
+                  </property>
                   <property name="orientation">
                    <enum>Qt::Horizontal</enum>
+                  </property>
+                  <property name="childrenCollapsible">
+                   <bool>false</bool>
                   </property>
                   <widget class="QTextEdit" name="txtOriginal">
                    <property name="styleSheet">
@@ -792,8 +798,14 @@ selection-background-color:rgb(37, 156, 247);
                    </property>
                   </widget>
                   <widget class="QSplitter" name="splitter_vertical">
+                   <property name="lineWidth">
+                    <number>0</number>
+                   </property>
                    <property name="orientation">
                     <enum>Qt::Vertical</enum>
+                   </property>
+                   <property name="childrenCollapsible">
+                    <bool>false</bool>
                    </property>
                    <widget class="QTableWidget" name="tableEntries">
                     <property name="styleSheet">

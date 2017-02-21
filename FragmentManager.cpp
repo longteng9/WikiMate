@@ -63,6 +63,7 @@ void FragmentManager::buildFragments(const QString &path){
     mFragmentWordList.clear();
     QFile file(path);
     if (!file.open(QIODevice::ReadOnly | QIODevice::Text)){
+        qDebug() << "failed to open source file for building fragments";
         return ;
     }
     mSourceFilePath = path;

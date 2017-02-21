@@ -266,7 +266,9 @@ void MainWindow::on_btnWorkingDir_clicked()
     QString dirPath = QFileDialog::getExistingDirectory(this, "Choose Working Directory", "./");
     if(!dirPath.isEmpty()){
         Helper::instance()->mWorkingStatusQuo["projectDirectory"] = dirPath;
+        Helper::instance()->mProjectDirectory = dirPath;
         Helper::instance()->refreshWorkingDir(dirPath);
+        this->setWindowTitle("WikiMate @ " + Helper::instance()->mProjectDirectory);
         QVector<QStringList> files = Helper::instance()->getWorkingFiles(dirPath);
         updateFileList(files);
     }

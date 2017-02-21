@@ -27,6 +27,8 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 INCLUDEPATH += include
 
+LIBS += -lws2_32
+
 SOURCES += main.cpp\
         MainWindow.cpp \
     FileTableModel.cpp \
@@ -34,10 +36,10 @@ SOURCES += main.cpp\
     FileItemDelegate.cpp \
     Helper.cpp \
     FragmentManager.cpp \
-    SocketComm.cpp \
     TransMemory.cpp \
     DictEngine.cpp \
-    AsyncWorker.cpp
+    AsyncWorker.cpp \
+    Request.cpp
 
 HEADERS  += MainWindow.h \
     FileTableModel.h \
@@ -45,10 +47,10 @@ HEADERS  += MainWindow.h \
     FileItemDelegate.h \
     Helper.h \
     FragmentManager.h \
-    SocketComm.h \
     TransMemory.h \
     DictEngine.h \
-    AsyncWorker.h
+    AsyncWorker.h \
+    Request.h
 
 FORMS    += MainWindow.ui
 
