@@ -38,8 +38,7 @@ SOURCES += main.cpp\
     FragmentManager.cpp \
     TransMemory.cpp \
     DictEngine.cpp \
-    AsyncWorker.cpp \
-    Request.cpp
+    AsyncWorker.cpp
 
 HEADERS  += MainWindow.h \
     FileTableModel.h \
@@ -49,8 +48,7 @@ HEADERS  += MainWindow.h \
     FragmentManager.h \
     TransMemory.h \
     DictEngine.h \
-    AsyncWorker.h \
-    Request.h
+    AsyncWorker.h
 
 FORMS    += MainWindow.ui
 
