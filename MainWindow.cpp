@@ -104,6 +104,7 @@ MainWindow::MainWindow(QWidget *parent) :
         updateFileList(files);
     }
 
+    connect(DictEngine::instance(), &DictEngine::receivedEntryResponse, this, &MainWindow::on_receivedEntryResponse);
     connect(&mAsyncBuildFragment, &AsyncBuildFragment::finished, this, &MainWindow::on_fragmentDataReady);
     connect(ui->tbvFiles, &FileTableView::startTransEditing, this, &MainWindow::on_btnStartTask_clicked);
     connect(ui->tbvFiles, &FileTableView::startExportTask, this, &MainWindow::on_btnExportTask_clicked);
@@ -362,7 +363,6 @@ void MainWindow::on_btnStartTask_clicked()
         QString fileName = ui->tbvFiles->tableModel()->index(ui->tbvFiles->currentIndex().row(), 1).data().toString();
         QString path = Helper::instance()->pathJoin(Helper::instance()->mProjectDirectory, fileName);
         qDebug() << "start task:" << path;
-        ui->lstMenu->setCurrentRow(1);
 
         if(FragmentManager::instance()->mSourceFilePath != path){
             FragmentManager::instance()->mSourceFilePath = path;
@@ -374,6 +374,7 @@ void MainWindow::on_btnStartTask_clicked()
 }
 
 void MainWindow::on_fragmentDataReady(){
+    ui->lstMenu->setCurrentRow(1);
     ui->statusLabel->setText("Working on <strong>" +
                              FragmentManager::instance()->mSourceFilePath.mid(
                                  FragmentManager::instance()->mSourceFilePath.lastIndexOf("/")+1) + "</strong>");
@@ -470,27 +471,6 @@ void MainWindow::on_btnSaveTransMem_clicked()
     QStringList rows;
     QStringList prev_list;
 
-    for(int i = 0; i < ui->tableEntries->columnCount(); i++){
-        headers.append(ui->tableEntries->horizontalHeaderItem(i)->text());
-    }
-
-    for(int i = 0; i < ui->tableEntries->columnCount(); i++){
-        prev_list = DictEngine::mCurrentEntriesTable[headers[i]];
-        rows.clear();
-        for(int j = 0; j < ui->tableEntries->rowCount(); j++){
-            rows.append(ui->tableEntries->item(j, i)->text());
-        }
-
-        if(!Helper::instance()->equalStringList(rows, prev_list)){
-            QString value = "";
-            for(int j = 0; j < ui->tableEntries->rowCount(); j++){
-                if(!ui->tableEntries->item(j, i)->text().isEmpty()){
-                    value += ui->tableEntries->item(j, i)->text() + "/#/";
-                }
-            }
-            TransMemory::instance()->updateEntry(headers[i], value);
-        }
-    }
 }
 
 void MainWindow::on_btnNextFrag_clicked()
@@ -524,29 +504,64 @@ void MainWindow::on_btnCommitTMs_clicked()
 }
 
 void MainWindow::showEntriesTable(const QStringList &header){
-    DictEngine::mCurrentEntriesTable = DictEngine::instance()->searchTrans(header);
+    QMap<QString, QStringList> entries;
+    for(QString word : header){
+        entries.insert(word, DictEngine::instance()->fetchEntry(word, "zh", "en"));
+    }
 
     int maxLen = 0;
-    for(QString key : DictEngine::mCurrentEntriesTable.keys()){
-        if(DictEngine::mCurrentEntriesTable[key].length() > maxLen){
-            maxLen = DictEngine::mCurrentEntriesTable[key].length();
+    for(QString key : entries.keys()){
+        if(entries[key].length() > maxLen){
+            maxLen = entries[key].length();
         }
     }
 
     ui->tableEntries->clear();
     ui->tableEntries->setColumnCount(header.size());
     ui->tableEntries->setRowCount(maxLen);
-
     ui->tableEntries->setHorizontalHeaderLabels(header);
+
     for(int i = 0; i < header.size(); i++){
-        QStringList entries = DictEngine::mCurrentEntriesTable[header.at(i)];
-        for(int j = 0; j < entries.size(); j++){
-            ui->tableEntries->setItem(j, i, new QTableWidgetItem(entries[j]));
+        QStringList trans = entries[header.at(i)];
+        for(int j = 0; j < trans.size(); j++){
+            ui->tableEntries->setItem(j, i, new QTableWidgetItem(trans[j]));
+        }
+    }
+}
+
+void MainWindow::showEntriesTableAsync(const QStringList &header){
+    ui->tableEntries->clear();
+    ui->tableEntries->setRowCount(1);
+    ui->tableEntries->setColumnCount(header.size());
+    ui->tableEntries->setHorizontalHeaderLabels(header);
+
+    for(QString word : header){
+        DictEngine::instance()->fetchEntryAsync(word, "zh", "en");
+    }
+}
+
+void MainWindow::on_receivedEntryResponse(QString word, QStringList trans){
+    if(word.isEmpty()){
+        return;
+    }
+    for(int i = 0; i < ui->tableEntries->columnCount(); i++){
+        if(word == ui->tableEntries->horizontalHeaderItem(i)->text()){
+            while(trans.length() > ui->tableEntries->rowCount()){
+                ui->tableEntries->insertRow(ui->tableEntries->rowCount());
+            }
+            for(int j = 0; j < trans.length(); j++){
+                ui->tableEntries->setItem(j, i, new QTableWidgetItem(trans[j]));
+            }
         }
     }
 }
 
 void MainWindow::on_txtOriginal_customContextMenuRequested(const QPoint &pos)
+{
+
+}
+
+void MainWindow::on_tableEntries_itemChanged(QTableWidgetItem *item)
 {
 
 }

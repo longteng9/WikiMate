@@ -3,12 +3,12 @@
 #include <QDebug>
 #include "Helper.h"
 #include "DictEngine.h"
+#include <QCryptographicHash>
 
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
     Helper::instance()->mExecutableDirectory = QCoreApplication::applicationDirPath();
-    DictEngine::instance();
 
     MainWindow w;
     w.setWindowIcon(QIcon(":/static/app_icon_256.ico"));

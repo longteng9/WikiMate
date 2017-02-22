@@ -6,6 +6,7 @@
 #include <QMap>
 #include <QRunnable>
 #include <QThread>
+#include <QTableWidgetItem>
 
 namespace Ui {
 class MainWindow;
@@ -37,6 +38,7 @@ public slots:
     void on_btnPrevFrag_clicked();
     void on_btnSaveFrag_clicked();
     void on_fragmentDataReady();
+    void on_receivedEntryResponse(QString word, QStringList trans);
 
 private slots:
     void on_lstMenu_currentItemChanged(QListWidgetItem *current, QListWidgetItem *previous);
@@ -57,6 +59,8 @@ private slots:
 
     void on_txtOriginal_customContextMenuRequested(const QPoint &pos);
 
+    void on_tableEntries_itemChanged(QTableWidgetItem *item);
+
 private:
     void initUI();
     void initFilter();
@@ -65,6 +69,7 @@ private:
     void restoreHistory();
     void saveHistory();
     void showEntriesTable(const QStringList &header);
+    void showEntriesTableAsync(const QStringList &header);
     void setCurrentFragment(int index);
 
 

@@ -17,7 +17,7 @@ DEFINES += QT_DEPRECATED_WARNINGS    # emit warnings if you use any deprecated f
 
 INCLUDEPATH += $$PWD/include
 DEPENDPATH += $$INCLUDEPATH
-message($$DEPENDPATH)
+# message($$DEPENDPATH)
 
 CONFIG += debug_and_release
 CONFIG(debug, debug|release){
@@ -42,9 +42,7 @@ SOURCES += main.cpp\
     Helper.cpp \
     FragmentManager.cpp \
     TransMemory.cpp \
-    DictEngine.cpp \
-    AsyncWorker.cpp \
-    Request.cpp \
+    DictEngine.cpp
 
 
 HEADERS  += MainWindow.h \
@@ -54,12 +52,16 @@ HEADERS  += MainWindow.h \
     Helper.h \
     FragmentManager.h \
     TransMemory.h \
-    DictEngine.h \
-    AsyncWorker.h \
-    Request.h \
+    DictEngine.h
 
 
 FORMS    += MainWindow.ui
 
 RESOURCES += \
     resource.qrc
+
+win32:{
+    # DEFINES += HELLO=\\\"ABCD\\\"
+}
+unix:{
+}
