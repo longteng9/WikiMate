@@ -1,11 +1,19 @@
 #include "DictEngine.h"
 #include <QDebug>
+#include "Request.h"
 
 QMap<QString, QStringList> DictEngine::mCurrentEntriesTable;
 DictEngine *DictEngine::mInstance = NULL;
 DictEngine::GC DictEngine::gc;
 
 DictEngine::DictEngine(QObject *parent) : QObject(parent){
+    Request req;
+    QString s = req.httpGET("www.baidu.com").c_str();
+    if(s.isEmpty()){
+        qDebug() << req.errorMessage.c_str();
+    }else{
+        qDebug() << s;
+    }
 }
 
 DictEngine::~DictEngine(){

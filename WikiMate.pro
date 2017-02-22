@@ -4,30 +4,35 @@
 #
 #-------------------------------------------------
 
-QT       += core gui xml
+QT       += core gui xml network
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 TARGET = WikiMate
 TEMPLATE = app
 
-# The following define makes your compiler emit warnings if you use
-# any feature of Qt which as been marked as deprecated (the exact warnings
-# depend on your compiler). Please consult the documentation of the
-# deprecated API in order to know how to port your code away from it.
-DEFINES += QT_DEPRECATED_WARNINGS
-
-# You can also make your code fail to compile if you use deprecated APIs.
-# In order to do so, uncomment the following line.
-# You can also select to disable deprecated APIs only up to a certain version of Qt.
+DEFINES += QT_DEPRECATED_WARNINGS    # emit warnings if you use any deprecated feature
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
-# INCLUDEPATH += include/
-# LIBS += D:/WikiMate/libs/python36.lib
 
-INCLUDEPATH += include
+INCLUDEPATH += $$PWD/include
+DEPENDPATH += $$INCLUDEPATH
+message($$DEPENDPATH)
 
-LIBS += -lws2_32
+CONFIG += debug_and_release
+CONFIG(debug, debug|release){
+    DESTDIR = debug
+    UI_DIR = tmp/debug_ui
+    MOC_DIR = tmp/debug_moc
+    RCC_DIR = tmp/debug_rcc
+    OBJECTS_DIR = tmp/debug_obj
+}else{
+    DESTDIR = release
+    UI_DIR = tmp/release_ui
+    MOC_DIR = tmp/release_moc
+    RCC_DIR = tmp/release_rcc
+    OBJECTS_DIR = tmp/release_obj
+}
 
 SOURCES += main.cpp\
         MainWindow.cpp \
@@ -38,7 +43,9 @@ SOURCES += main.cpp\
     FragmentManager.cpp \
     TransMemory.cpp \
     DictEngine.cpp \
-    AsyncWorker.cpp
+    AsyncWorker.cpp \
+    Request.cpp \
+
 
 HEADERS  += MainWindow.h \
     FileTableModel.h \
@@ -48,7 +55,9 @@ HEADERS  += MainWindow.h \
     FragmentManager.h \
     TransMemory.h \
     DictEngine.h \
-    AsyncWorker.h
+    AsyncWorker.h \
+    Request.h \
+
 
 FORMS    += MainWindow.ui
 

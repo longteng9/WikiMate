@@ -47,14 +47,14 @@ class Util_API Timer: protected Poco::Runnable
 	/// the java.util.Timer class from Java 1.3.
 {
 public:
-	Timer();
+        Timer();
 		/// Creates the Timer.
 	
-	explicit Timer(Poco::Thread::Priority priority);
+        explicit Timer(Poco::Thread::Priority priority);
 		/// Creates the Timer, using a timer thread with
 		/// the given priority.
 	
-	~Timer();
+        ~Timer();
 		/// Destroys the Timer, cancelling all pending tasks.
 		
 	void cancel(bool wait = false);
@@ -157,8 +157,8 @@ protected:
 	static void validateTask(const TimerTask::Ptr& pTask);
 	
 private:
-	Timer(const Timer&);
-	Timer& operator = (const Timer&);
+        Timer(const Timer&);
+        Timer& operator = (const Timer&);
 	
 	Poco::TimedNotificationQueue _queue;
 	Poco::Thread _thread;
