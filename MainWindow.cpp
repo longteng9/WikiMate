@@ -366,7 +366,9 @@ void MainWindow::on_btnStartTask_clicked()
 
         if(FragmentManager::instance()->mSourceFilePath != path){
             FragmentManager::instance()->mSourceFilePath = path;
+            qDebug() << "start async build fragments";
             mAsyncBuildFragment.start();
+
             // FragmentManager::instance()->buildOrLoadFragments(path);
             // setCurrentFragment(0);
         }
@@ -374,6 +376,7 @@ void MainWindow::on_btnStartTask_clicked()
 }
 
 void MainWindow::on_fragmentDataReady(){
+    qDebug() << "fragments data are ready";
     ui->lstMenu->setCurrentRow(1);
     ui->statusLabel->setText("Working on <strong>" +
                              FragmentManager::instance()->mSourceFilePath.mid(
@@ -382,6 +385,7 @@ void MainWindow::on_fragmentDataReady(){
 }
 
 void MainWindow::setCurrentFragment(int index){
+    qDebug() << "shift to editor page";
     if(FragmentManager::instance()->mFragmentList.isEmpty()){
         return;
     }
@@ -396,6 +400,7 @@ void MainWindow::setCurrentFragment(int index){
     ui->txtOriginal->setHtml(FragmentManager::instance()->getFormatContent());
 
     // 设置词条数据
+    // showEntriesTableAsync(FragmentManager::instance()->currentFragmentWords());
     showEntriesTable(FragmentManager::instance()->currentFragmentWords());
 
     // 加载已有的翻译
@@ -404,7 +409,6 @@ void MainWindow::setCurrentFragment(int index){
     if(trans != ""){
         ui->txtTrans->setText(trans);
     }
-
 
     ui->tableEntries->itemAt(0, 0)->setSelected(true);
     ui->tableEntries->setFocus(Qt::MouseFocusReason);
@@ -504,6 +508,7 @@ void MainWindow::on_btnCommitTMs_clicked()
 }
 
 void MainWindow::showEntriesTable(const QStringList &header){
+    qDebug() << "show entries table";
     QMap<QString, QStringList> entries;
     for(QString word : header){
         entries.insert(word, DictEngine::instance()->fetchEntry(word, "zh", "en"));
@@ -530,14 +535,19 @@ void MainWindow::showEntriesTable(const QStringList &header){
 }
 
 void MainWindow::showEntriesTableAsync(const QStringList &header){
+    qDebug() << "async-show entries table";
     ui->tableEntries->clear();
     ui->tableEntries->setRowCount(1);
     ui->tableEntries->setColumnCount(header.size());
     ui->tableEntries->setHorizontalHeaderLabels(header);
 
-    for(QString word : header){
+    /*for(QString word : header){
         DictEngine::instance()->fetchEntryAsync(word, "zh", "en");
-    }
+    }*/
+     DictEngine::instance()->fetchEntryAsync("这个是", "zh", "en");
+     //DictEngine::instance()->fetchEntryAsync("朱万利", "zh", "en");
+     //DictEngine::instance()->fetchEntryAsync("爱新觉罗", "zh", "en");
+     //DictEngine::instance()->fetchEntryAsync("释迦摩尼", "zh", "en");
 }
 
 void MainWindow::on_receivedEntryResponse(QString word, QStringList trans){

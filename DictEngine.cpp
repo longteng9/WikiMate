@@ -6,6 +6,7 @@
 #include <QTime>
 #include <QApplication>
 #include <QJsonDocument>
+#include <QtConcurrent/QtConcurrent>
 
 #define TIMEOUT (30 * 1000)
 
@@ -17,12 +18,15 @@ static QString baiduSecretKey = "koAkqialgJjn8SP6bLn7";
 DictEngine *DictEngine::mInstance = NULL;
 DictEngine::GC DictEngine::gc;
 
-DictEngine::DictEngine(QObject *parent) : QObject(parent){
-    connect(&networkAccessMgr2, &QNetworkAccessManager::finished, this, &DictEngine::on_requestFinished);
+DictEngine::DictEngine(QObject *parent)
+    : QObject(parent){
 }
 
 DictEngine::~DictEngine(){
-
+    if(networkAccessMgr != NULL){
+        networkAccessMgr->deleteLater();
+        delete networkAccessMgr;
+    }
 }
 
 DictEngine* DictEngine::instance(){
@@ -42,7 +46,7 @@ QStringList DictEngine::fetchEntry(const QString &word,
     sslConfig.setPeerVerifyMode(QSslSocket::VerifyNone);
     request.setSslConfiguration(sslConfig);
 
-    QNetworkReply *reply = networkAccessMgr1.get(request);
+    QNetworkReply *reply = networkAccessMgr->get(request);
     reply->ignoreSslErrors();
 
     QTime time;
@@ -73,22 +77,14 @@ QStringList DictEngine::fetchEntry(const QString &word,
 void DictEngine::fetchEntryAsync(const QString &word,
                        const QString &from,
                        const QString &to){
-    QNetworkRequest request;
-    request.setUrl(QUrl(buildURL(word, from, to)));
-    networkAccessMgr2.get(request);
+    connect(networkAccessMgr, &QNetworkAccessManager::finished, this, &DictEngine::on_requestFinished);
+    networkAccessMgr->get(QNetworkRequest(QUrl("http://www.baidu.com")));
 }
 
 void DictEngine::on_requestFinished(QNetworkReply *reply){
-    int code = reply->attribute(QNetworkRequest::HttpStatusCodeAttribute).toInt();
-    QString message = (reply->error() == QNetworkReply::NoError) ? reply->readAll() : QString("network error, http status code[%1]").arg(code);
-
-    QString word;
-    QStringList trans;
-    parseResponseMessage(message, &word, &trans);
-    emit receivedEntryResponse(word, trans);
-
-    reply->deleteLater();
+    qDebug() << "status code:" << reply->attribute(QNetworkRequest::HttpStatusCodeAttribute).toInt();
 }
+
 
 QString DictEngine::buildURL(const QString &word, const QString &from, const QString &to){
     QString salt = "35224047";

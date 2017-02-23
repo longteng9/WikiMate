@@ -34,6 +34,12 @@ CONFIG(debug, debug|release){
     OBJECTS_DIR = tmp/release_obj
 }
 
+win32:{
+
+}
+unix:{
+}
+
 SOURCES += main.cpp\
         MainWindow.cpp \
     FileTableModel.cpp \
@@ -60,8 +66,4 @@ FORMS    += MainWindow.ui
 RESOURCES += \
     resource.qrc
 
-win32:{
-    # DEFINES += HELLO=\\\"ABCD\\\"
-}
-unix:{
-}
+

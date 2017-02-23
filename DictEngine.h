@@ -48,11 +48,12 @@ private:
                      const QString &to);
     void parseResponseMessage(const QString &message, QString* word, QStringList *trans);
 
+
 private:
     static DictEngine *mInstance;
     static GC gc;
-    QNetworkAccessManager networkAccessMgr1;
-    QNetworkAccessManager networkAccessMgr2;
+    QNetworkAccessManager* networkAccessMgr;
+    QList<QNetworkRequest> pendingRequests;
 };
 
 #endif // DICTENGINE_H
