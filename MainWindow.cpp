@@ -30,6 +30,8 @@ MainWindow::MainWindow(QWidget *parent) :
     ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    mLauncher = new Launcher;
+    mMessageForm = new MessageForm;
 
     qDebug() << "ui thread:" << QThread::currentThreadId();
     restoreHistory();
@@ -59,6 +61,12 @@ MainWindow::~MainWindow()
 {
     saveHistory();
     delete ui;
+    if(mLauncher!=NULL){
+        delete mLauncher;
+    }
+    if(mMessageForm != NULL){
+        delete mMessageForm;
+    }
 }
 
 bool MainWindow::eventFilter(QObject *watched, QEvent *event){
@@ -349,6 +357,7 @@ void MainWindow::on_btnStartTask_clicked()
 {
     if(ui->tbvFiles->currentIndex().row() >= 0){
         ui->statusLabel->setText("Building fragment map, please wait...");
+        this->mMessageForm->show();
         QString fileName = ui->tbvFiles->tableModel()->index(ui->tbvFiles->currentIndex().row(), 1).data().toString();
         QString path = Helper::instance()->pathJoin(Helper::instance()->mProjectDirectory, fileName);
         qDebug() << "start task:" << path;
@@ -365,17 +374,16 @@ void MainWindow::on_btnStartTask_clicked()
             AsyncBuildFragment *worker = new AsyncBuildFragment;
             connect(worker, &AsyncBuildFragment::finished, worker, &AsyncBuildFragment::deleteLater, Qt::QueuedConnection);
             connect(worker, &AsyncBuildFragment::finished, this, &MainWindow::on_buildFragmentFinished, Qt::QueuedConnection);
-            mLauncher.prepare(worker);
-            QMetaObject::invokeMethod(worker, "start", Qt::QueuedConnection);
-            mMessageForm.setText("Processing source file, just a moment... ");
-            mMessageForm.show();
+            mLauncher->asyncRun(worker, "start");
+            mMessageForm->setText("Processing source file, just a moment... ");
+            mMessageForm->show();
         }
     }
 }
 
 void MainWindow::on_buildFragmentFinished(){
     setCurrentFragment(0);
-    this->mMessageForm.hide();
+    this->mMessageForm->hide();
 }
 
 void MainWindow::setCurrentFragment(int index){
@@ -401,8 +409,10 @@ void MainWindow::setCurrentFragment(int index){
         ui->txtTrans->setText(trans);
     }
 
-    ui->tableEntries->itemAt(0, 0)->setSelected(true);
-    ui->tableEntries->setFocus(Qt::MouseFocusReason);
+    if(ui->tableEntries->itemAt(0, 0) != NULL){
+        ui->tableEntries->itemAt(0, 0)->setSelected(true);
+        ui->tableEntries->setFocus(Qt::MouseFocusReason);
+    }
 }
 
 void MainWindow::on_btnExportTask_clicked()
@@ -500,16 +510,13 @@ void MainWindow::on_btnCommitTMs_clicked()
 
 
 void MainWindow::showEntriesTableAsync(const QStringList &header){
-    qDebug() << "async-show entries table";
+    qDebug() << "show entries table asynchronously";
     ui->tableEntries->clear();
     ui->tableEntries->setRowCount(1);
     ui->tableEntries->setColumnCount(header.size());
     ui->tableEntries->setHorizontalHeaderLabels(header);
 
-    //DictEngine::instance()->fetchEntryPatchAsync(header, "zh", "en");
-    for(QString word : header){
-        on_receivedEntryResponse(word, DictEngine::instance()->fetchEntry(word, "zh", "en"));
-    }
+    DictEngine::instance()->fetchEntryPatchAsync(header, "zh", "en");
 }
 
 void MainWindow::on_receivedEntryResponse(QString word, QStringList trans){

@@ -17,14 +17,13 @@ DictEngine *DictEngine::mInstance = NULL;
 DictEngine::GC DictEngine::gc;
 
 void FetchEntryPatchAsync::start(){
-    /*
     if(obj){
         QStringList trans_list;
         for(int i = 0; i < words.length(); i++){
             trans_list = ((DictEngine*)obj)->fetchEntry(words[i], from, to);
             emit finishOne(words[i], trans_list);
         }
-    }*/
+    }
     QThread::currentThread()->quit();
 }
 
@@ -46,7 +45,7 @@ QStringList DictEngine::fetchEntry(QString word,
                                    QString from,
                                    QString to){
     QStringList trans_list;
-    Request request;
+    static Request request;
     Response response = request.get(buildURL(word, from, to).toStdString());
     if(response.errorCode() == 0 && response.statusCode() == 200){
         parseResponseMessage(QString::fromStdString(response.content()), NULL, &trans_list);
@@ -66,9 +65,8 @@ void DictEngine::fetchEntryPatchAsync(QStringList words,
     worker->words = words;
     worker->from = from;
     worker->to = to;
-    mLauncher.prepare(worker);
     connect(worker, &FetchEntryPatchAsync::finishOne, this, &DictEngine::on_requestFinished, Qt::QueuedConnection);
-    QMetaObject::invokeMethod(worker, "start", Qt::QueuedConnection);
+    mLauncher.asyncRun(worker, "start");
 }
 
 void DictEngine::on_requestFinished(QString word, QStringList trans_list){

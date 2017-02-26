@@ -67,7 +67,8 @@ HEADERS  += MainWindow.h \
     DictEngine.h \
     Request.h \
     MessageForm.h \
-    Launcher.h
+    Launcher.h \
+    TaskPool.h
 
 
 FORMS    += MainWindow.ui \
