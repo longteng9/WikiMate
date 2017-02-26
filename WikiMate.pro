@@ -19,7 +19,11 @@ INCLUDEPATH += $$PWD/include
 DEPENDPATH += $$INCLUDEPATH
 # message($$DEPENDPATH)
 
-CONFIG += debug_and_release
+CONFIG += debug_and_release \
+    c++11
+
+DEFINES += ASIO_STANDALONE
+
 CONFIG(debug, debug|release){
     DESTDIR = debug
     UI_DIR = tmp/debug_ui
@@ -35,7 +39,7 @@ CONFIG(debug, debug|release){
 }
 
 win32:{
-
+    LIBS += -lws2_32
 }
 unix:{
 }
@@ -48,8 +52,10 @@ SOURCES += main.cpp\
     Helper.cpp \
     FragmentManager.cpp \
     TransMemory.cpp \
-    DictEngine.cpp
-
+    DictEngine.cpp \
+    Request.cpp \
+    MessageForm.cpp \
+    Launcher.cpp
 
 HEADERS  += MainWindow.h \
     FileTableModel.h \
@@ -58,10 +64,14 @@ HEADERS  += MainWindow.h \
     Helper.h \
     FragmentManager.h \
     TransMemory.h \
-    DictEngine.h
+    DictEngine.h \
+    Request.h \
+    MessageForm.h \
+    Launcher.h
 
 
-FORMS    += MainWindow.ui
+FORMS    += MainWindow.ui \
+    MessageForm.ui
 
 RESOURCES += \
     resource.qrc

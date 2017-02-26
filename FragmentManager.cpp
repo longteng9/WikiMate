@@ -84,9 +84,9 @@ void FragmentManager::buildFragments(const QString &path){
         pre = pos + 1;
         pos = content.indexOf(QRegExp("\u3002|\uff01|\uff1f"), pre);
     }
-    if(!content.endsWith("。")
-            && !content.endsWith("！")
-            && !content.endsWith("？")){
+    if(!content.endsWith("\u3002") // 。
+            && !content.endsWith("\uff01") //！
+            && !content.endsWith("\uff1f")){ // ？
         mFragmentList.append(content.mid(pre));
     }
 

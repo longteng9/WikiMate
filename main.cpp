@@ -5,7 +5,6 @@
 #include "DictEngine.h"
 #include <QCryptographicHash>
 
-
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);

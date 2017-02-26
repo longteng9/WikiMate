@@ -17,72 +17,12 @@
 #include <QEvent>
 #include "TransMemory.h"
 #include "DictEngine.h"
-#include <QThreadPool>
 
-MainWindow* MainWindow::windowRef = NULL;
-
-bool EntryTableKeyFilter::eventFilter(QObject *watched, QEvent *event){
-    int key;
-    switch(event->type())  {
-        case QEvent::KeyPress:
-            key = (static_cast<QKeyEvent *>(event))->key();
-            if (key == Qt::Key_I)  {
-                QTableWidget* entryTable = MainWindow::windowRef->ui->tableEntries;
-                entryTable->editItem(entryTable->item(entryTable->currentRow(), entryTable->currentColumn()));
-                return true;
-            }else if(key == Qt::Key_Enter
-                     || key == Qt::Key_Return){
-                QTableWidget* entryTable = MainWindow::windowRef->ui->tableEntries;
-                if(!entryTable->item(entryTable->currentRow(), entryTable->currentColumn())){
-                    return false;
-                }
-                QString entry = entryTable->item(entryTable->currentRow(), entryTable->currentColumn())->text();
-                MainWindow::windowRef->ui->txtTrans->setText(MainWindow::windowRef->ui->txtTrans->toPlainText() + entry + " ");
-                return true;
-            }else if(key == Qt::Key_Down
-                     && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::AltModifier)){
-                MainWindow::windowRef->ui->txtTrans->setFocus();
-                QTextCursor cursor = MainWindow::windowRef->ui->txtTrans->textCursor();
-                cursor.movePosition(QTextCursor::MoveOperation::EndOfBlock);
-                MainWindow::windowRef->ui->txtTrans->setTextCursor(cursor);
-                return true;
-            }else if(key == Qt::Key_S
-                     && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::ControlModifier)){
-                MainWindow::windowRef->on_btnSaveTransMem_clicked();
-                return true;
-            }
-        default:
-            return false;
-    }
-    return false;
-}
-
-bool FragmentEditorKeyFilter::eventFilter(QObject *watched, QEvent *event){
-    int key;
-    switch(event->type())  {
-        case QEvent::KeyPress:
-            key = (static_cast<QKeyEvent *>(event))->key();
-            if(key == Qt::Key_Up
-                     && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::AltModifier)){
-                MainWindow::windowRef->ui->tableEntries->setFocus();
-                return true;
-            }else if(key == Qt::Key_Up
-                     && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::ControlModifier)){
-                MainWindow::windowRef->on_btnPrevFrag_clicked();
-                return true;
-            }else if(key == Qt::Key_Down
-                     && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::ControlModifier)){
-                MainWindow::windowRef->on_btnNextFrag_clicked();
-                return true;
-            }else if(key == Qt::Key_S
-                     && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::ControlModifier)){
-                MainWindow::windowRef->on_btnSaveFrag_clicked();
-                return true;
-            }
-        default:
-            return false;
-    }
-    return false;
+void AsyncBuildFragment::start(){
+    qDebug() << "building fragment thread:" << QThread::currentThreadId();
+    FragmentManager::instance()->buildOrLoadFragments(FragmentManager::instance()->mSourceFilePath);
+    emit finished();
+    QThread::currentThread()->quit();
 }
 
 MainWindow::MainWindow(QWidget *parent) :
@@ -90,11 +30,10 @@ MainWindow::MainWindow(QWidget *parent) :
     ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
-    MainWindow::windowRef = this;
 
+    qDebug() << "ui thread:" << QThread::currentThreadId();
     restoreHistory();
     initUI();
-    initFilter();
 
     if(Helper::instance()->mWorkingStatusQuo.contains("projectDirectory")){
         Helper::instance()->mProjectDirectory = Helper::instance()->mWorkingStatusQuo["projectDirectory"];
@@ -104,8 +43,10 @@ MainWindow::MainWindow(QWidget *parent) :
         updateFileList(files);
     }
 
+    ui->tableEntries->installEventFilter(this);
+    ui->txtTrans->installEventFilter(this);
+
     connect(DictEngine::instance(), &DictEngine::receivedEntryResponse, this, &MainWindow::on_receivedEntryResponse);
-    connect(&mAsyncBuildFragment, &AsyncBuildFragment::finished, this, &MainWindow::on_fragmentDataReady);
     connect(ui->tbvFiles, &FileTableView::startTransEditing, this, &MainWindow::on_btnStartTask_clicked);
     connect(ui->tbvFiles, &FileTableView::startExportTask, this, &MainWindow::on_btnExportTask_clicked);
     connect(ui->tbvFiles, &FileTableView::refreshTaskList, this, &MainWindow::on_btnRefreshTasks_clicked);
@@ -120,11 +61,66 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
-void MainWindow::initFilter(){
-    EntryTableKeyFilter* entryTableKeyFilter = new EntryTableKeyFilter;
-    FragmentEditorKeyFilter* fragmentEditorKeyFilter = new FragmentEditorKeyFilter;
-    ui->tableEntries->installEventFilter(entryTableKeyFilter);
-    ui->txtTrans->installEventFilter(fragmentEditorKeyFilter);
+bool MainWindow::eventFilter(QObject *watched, QEvent *event){
+    int key;
+    if(watched == ui->tableEntries){
+        switch(event->type())  {
+            case QEvent::KeyPress:
+                key = (static_cast<QKeyEvent *>(event))->key();
+                if (key == Qt::Key_I)  {
+                    ui->tableEntries->editItem(ui->tableEntries->item(ui->tableEntries->currentRow(), ui->tableEntries->currentColumn()));
+                    return true;
+                }else if(key == Qt::Key_Enter
+                         || key == Qt::Key_Return){
+                    if(!ui->tableEntries->item(ui->tableEntries->currentRow(), ui->tableEntries->currentColumn())){
+                        return false;
+                    }
+                    QString entry = ui->tableEntries->item(ui->tableEntries->currentRow(), ui->tableEntries->currentColumn())->text();
+                    ui->txtTrans->setText(ui->txtTrans->toPlainText() + entry + " ");
+                    return true;
+                }else if(key == Qt::Key_Down
+                         && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::AltModifier)){
+                    ui->txtTrans->setFocus();
+                    QTextCursor cursor = ui->txtTrans->textCursor();
+                    cursor.movePosition(QTextCursor::MoveOperation::EndOfBlock);
+                    ui->txtTrans->setTextCursor(cursor);
+                    return true;
+                }else if(key == Qt::Key_S
+                         && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::ControlModifier)){
+                    on_btnSaveTransMem_clicked();
+                    return true;
+                }
+            default:
+                return false;
+        }
+        return false;
+    }else if(watched == ui->txtTrans){
+        switch(event->type())  {
+            case QEvent::KeyPress:
+                key = (static_cast<QKeyEvent *>(event))->key();
+                if(key == Qt::Key_Up
+                         && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::AltModifier)){
+                    ui->tableEntries->setFocus();
+                    return true;
+                }else if(key == Qt::Key_Up
+                         && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::ControlModifier)){
+                    on_btnPrevFrag_clicked();
+                    return true;
+                }else if(key == Qt::Key_Down
+                         && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::ControlModifier)){
+                    on_btnNextFrag_clicked();
+                    return true;
+                }else if(key == Qt::Key_S
+                         && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::ControlModifier)){
+                    on_btnSaveFrag_clicked();
+                    return true;
+                }
+            default:
+                return false;
+        }
+        return false;
+    }
+    return false;
 }
 
 void MainWindow::initUI(){
@@ -275,8 +271,6 @@ void MainWindow::on_btnWorkingDir_clicked()
     }
 }
 
-
-
 void MainWindow::restoreHistory(){
     QString path = "";
     if(QDir::currentPath().endsWith(QDir::separator())){
@@ -343,17 +337,12 @@ void MainWindow::on_lstTaskFilter_currentTextChanged(const QString &currentText)
     }
 }
 
-
 void MainWindow::on_btnRefreshTasks_clicked()
 {
     qDebug() << "refreshing list";
     Helper::instance()->refreshWorkingDir(Helper::instance()->mWorkingStatusQuo["projectDirectory"]);
     QVector<QStringList> files = Helper::instance()->getWorkingFiles(Helper::instance()->mWorkingStatusQuo["projectDirectory"]);
     updateFileList(files);
-}
-
-void AsyncBuildFragment::run(){
-    FragmentManager::instance()->buildOrLoadFragments(FragmentManager::instance()->mSourceFilePath);
 }
 
 void MainWindow::on_btnStartTask_clicked()
@@ -367,25 +356,29 @@ void MainWindow::on_btnStartTask_clicked()
         if(FragmentManager::instance()->mSourceFilePath != path){
             FragmentManager::instance()->mSourceFilePath = path;
             qDebug() << "start async build fragments";
-            mAsyncBuildFragment.start();
+            ui->lstMenu->setCurrentRow(1);
+            ui->statusLabel->setText("Working on <strong>" +
+                                     FragmentManager::instance()->mSourceFilePath.mid(
+                                         FragmentManager::instance()->mSourceFilePath.lastIndexOf("/")+1) + "</strong>");
 
-            // FragmentManager::instance()->buildOrLoadFragments(path);
-            // setCurrentFragment(0);
+
+            AsyncBuildFragment *worker = new AsyncBuildFragment;
+            connect(worker, &AsyncBuildFragment::finished, worker, &AsyncBuildFragment::deleteLater, Qt::QueuedConnection);
+            connect(worker, &AsyncBuildFragment::finished, this, &MainWindow::on_buildFragmentFinished, Qt::QueuedConnection);
+            mLauncher.prepare(worker);
+            QMetaObject::invokeMethod(worker, "start", Qt::QueuedConnection);
+            mMessageForm.setText("Processing source file, just a moment... ");
+            mMessageForm.show();
         }
     }
 }
 
-void MainWindow::on_fragmentDataReady(){
-    qDebug() << "fragments data are ready";
-    ui->lstMenu->setCurrentRow(1);
-    ui->statusLabel->setText("Working on <strong>" +
-                             FragmentManager::instance()->mSourceFilePath.mid(
-                                 FragmentManager::instance()->mSourceFilePath.lastIndexOf("/")+1) + "</strong>");
+void MainWindow::on_buildFragmentFinished(){
     setCurrentFragment(0);
+    this->mMessageForm.hide();
 }
 
 void MainWindow::setCurrentFragment(int index){
-    qDebug() << "shift to editor page";
     if(FragmentManager::instance()->mFragmentList.isEmpty()){
         return;
     }
@@ -396,12 +389,10 @@ void MainWindow::setCurrentFragment(int index){
     FragmentManager::instance()->mCurrentIndex = index;
 
     // 设置源文件的HTML格式
-    // ui->txtOriginal->setHtml(Helper::instance()->formatContent(FragmentManager::instance()->mFragmentList, index));
     ui->txtOriginal->setHtml(FragmentManager::instance()->getFormatContent());
 
     // 设置词条数据
-    // showEntriesTableAsync(FragmentManager::instance()->currentFragmentWords());
-    showEntriesTable(FragmentManager::instance()->currentFragmentWords());
+    showEntriesTableAsync(FragmentManager::instance()->currentFragmentWords());
 
     // 加载已有的翻译
     ui->txtTrans->clear();
@@ -504,35 +495,9 @@ void MainWindow::on_btnCommitTMs_clicked()
 {
     FragmentManager::instance()->reloadJiebaDict();
     FragmentManager::instance()->rebuildCurrentFragment();
-    showEntriesTable(FragmentManager::instance()->currentFragmentWords());
+    showEntriesTableAsync(FragmentManager::instance()->currentFragmentWords());
 }
 
-void MainWindow::showEntriesTable(const QStringList &header){
-    qDebug() << "show entries table";
-    QMap<QString, QStringList> entries;
-    for(QString word : header){
-        entries.insert(word, DictEngine::instance()->fetchEntry(word, "zh", "en"));
-    }
-
-    int maxLen = 0;
-    for(QString key : entries.keys()){
-        if(entries[key].length() > maxLen){
-            maxLen = entries[key].length();
-        }
-    }
-
-    ui->tableEntries->clear();
-    ui->tableEntries->setColumnCount(header.size());
-    ui->tableEntries->setRowCount(maxLen);
-    ui->tableEntries->setHorizontalHeaderLabels(header);
-
-    for(int i = 0; i < header.size(); i++){
-        QStringList trans = entries[header.at(i)];
-        for(int j = 0; j < trans.size(); j++){
-            ui->tableEntries->setItem(j, i, new QTableWidgetItem(trans[j]));
-        }
-    }
-}
 
 void MainWindow::showEntriesTableAsync(const QStringList &header){
     qDebug() << "async-show entries table";
@@ -541,13 +506,10 @@ void MainWindow::showEntriesTableAsync(const QStringList &header){
     ui->tableEntries->setColumnCount(header.size());
     ui->tableEntries->setHorizontalHeaderLabels(header);
 
-    /*for(QString word : header){
-        DictEngine::instance()->fetchEntryAsync(word, "zh", "en");
-    }*/
-     DictEngine::instance()->fetchEntryAsync("这个是", "zh", "en");
-     //DictEngine::instance()->fetchEntryAsync("朱万利", "zh", "en");
-     //DictEngine::instance()->fetchEntryAsync("爱新觉罗", "zh", "en");
-     //DictEngine::instance()->fetchEntryAsync("释迦摩尼", "zh", "en");
+    //DictEngine::instance()->fetchEntryPatchAsync(header, "zh", "en");
+    for(QString word : header){
+        on_receivedEntryResponse(word, DictEngine::instance()->fetchEntry(word, "zh", "en"));
+    }
 }
 
 void MainWindow::on_receivedEntryResponse(QString word, QStringList trans){
@@ -556,11 +518,16 @@ void MainWindow::on_receivedEntryResponse(QString word, QStringList trans){
     }
     for(int i = 0; i < ui->tableEntries->columnCount(); i++){
         if(word == ui->tableEntries->horizontalHeaderItem(i)->text()){
+            // 如果当前行数不够，则增加
             while(trans.length() > ui->tableEntries->rowCount()){
                 ui->tableEntries->insertRow(ui->tableEntries->rowCount());
             }
-            for(int j = 0; j < trans.length(); j++){
-                ui->tableEntries->setItem(j, i, new QTableWidgetItem(trans[j]));
+            for(int j = 0; j < ui->tableEntries->rowCount(); j++){
+                if(j < trans.length()){
+                    ui->tableEntries->setItem(j, i, new QTableWidgetItem(trans[j]));
+                }else{ // 清除旧数据
+                    ui->tableEntries->setItem(j, i, new QTableWidgetItem(""));
+                }
             }
         }
     }

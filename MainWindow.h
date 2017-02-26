@@ -7,15 +7,20 @@
 #include <QRunnable>
 #include <QThread>
 #include <QTableWidgetItem>
+#include "Launcher.h"
+#include "MessageForm.h"
 
 namespace Ui {
 class MainWindow;
 }
 
-class AsyncBuildFragment : public QThread{
+class AsyncBuildFragment : public QObject{
     Q_OBJECT
-private:
-    void run();
+signals:
+    void finished();
+
+public slots:
+    void start();
 };
 
 class MainWindow : public QMainWindow
@@ -24,6 +29,7 @@ class MainWindow : public QMainWindow
 public:
     explicit MainWindow(QWidget *parent = 0);
     ~MainWindow();
+    bool eventFilter(QObject *watched, QEvent *event);
 
 signals:
 
@@ -37,8 +43,8 @@ public slots:
     void on_btnNextFrag_clicked();
     void on_btnPrevFrag_clicked();
     void on_btnSaveFrag_clicked();
-    void on_fragmentDataReady();
     void on_receivedEntryResponse(QString word, QStringList trans);
+    void on_buildFragmentFinished();
 
 private slots:
     void on_lstMenu_currentItemChanged(QListWidgetItem *current, QListWidgetItem *previous);
@@ -63,37 +69,17 @@ private slots:
 
 private:
     void initUI();
-    void initFilter();
     void updateFileList(const QVector<QStringList> &data);
     void filterFileList(const QString& keyword);
     void restoreHistory();
     void saveHistory();
-    void showEntriesTable(const QStringList &header);
     void showEntriesTableAsync(const QStringList &header);
-    void setCurrentFragment(int index);
-
-
-public:
-    static MainWindow *windowRef;
-    Ui::MainWindow *ui;
+    void setCurrentFragment(int index = 0);
 
 private:
-    AsyncBuildFragment mAsyncBuildFragment;
+    Ui::MainWindow *ui;
+    Launcher mLauncher;
+    MessageForm mMessageForm;
 };
-
-class EntryTableKeyFilter : public QObject{
-    Q_OBJECT
-public:
-    EntryTableKeyFilter(QObject *parent = 0){}
-    bool eventFilter(QObject *watched, QEvent *event);
-};
-
-class FragmentEditorKeyFilter : public QObject{
-    Q_OBJECT
-public:
-    FragmentEditorKeyFilter(QObject *parent = 0){}
-    bool eventFilter(QObject *watched, QEvent *event);
-};
-
 
 #endif // MAINWINDOW_H
