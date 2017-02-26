@@ -55,7 +55,11 @@ SOURCES += main.cpp\
     DictEngine.cpp \
     Request.cpp \
     MessageForm.cpp \
-    Launcher.cpp
+    Launcher.cpp \
+    MainWindow_logic_func.cpp \
+    MainWindow_logic_slots.cpp \
+    MainWindow_ui_func.cpp \
+    MainWindow_ui_slots.cpp
 
 HEADERS  += MainWindow.h \
     FileTableModel.h \
