@@ -13,11 +13,11 @@
 #include <vector>
 #include <string>
 
-const char* JiebaPaths::jieba_dict = "dict/jieba.dict.utf8";
-const char* JiebaPaths::user_dict = "dict/user.dict.utf8";
-const char* JiebaPaths::hmm_model = "dict/hmm_model.utf8";
-const char* JiebaPaths::idf = "dict/idf.utf8";
-const char* JiebaPaths::stop_words = "dict/stop_words.utf8";
+const char* JiebaPaths::jieba_dict = "dict/jieba/jieba.dict.utf8";
+const char* JiebaPaths::user_dict = "dict/jieba/user.dict.utf8";
+const char* JiebaPaths::hmm_model = "dict/jieba/hmm_model.utf8";
+const char* JiebaPaths::idf = "dict/jieba/idf.utf8";
+const char* JiebaPaths::stop_words = "dict/jieba/stop_words.utf8";
 
 FragmentManager *FragmentManager::mInstance = NULL;
 FragmentManager::GC FragmentManager::gc;
