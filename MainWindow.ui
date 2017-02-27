@@ -753,7 +753,7 @@ selection-background-color:rgb(37, 156, 247);
                <string notr="true">font: 10pt &quot;Verdana&quot;;</string>
               </property>
               <property name="currentIndex">
-               <number>0</number>
+               <number>1</number>
               </property>
               <widget class="QWidget" name="tab_editor">
                <attribute name="title">

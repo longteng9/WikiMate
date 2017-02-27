@@ -6,9 +6,7 @@
 #include <QTime>
 #include <QApplication>
 #include <QJsonDocument>
-#include <QtConcurrent/QtConcurrent>
 
-#define TIMEOUT (30 * 1000)
 
 static QString wiktionaryUrl = "https://en.wiktionary.org/wiki/";
 static QString baiduDictUrl = "http://api.fanyi.baidu.com/api/trans/vip/translate";
@@ -18,15 +16,22 @@ static QString baiduSecretKey = "koAkqialgJjn8SP6bLn7";
 DictEngine *DictEngine::mInstance = NULL;
 DictEngine::GC DictEngine::gc;
 
+void FetchEntryPatchAsync::start(){
+    if(obj){
+        QStringList trans_list;
+        for(int i = 0; i < words.length(); i++){
+            trans_list = ((DictEngine*)obj)->fetchEntry(words[i], from, to);
+            emit finishOne(words[i], trans_list);
+        }
+    }
+    QThread::currentThread()->quit();
+}
+
 DictEngine::DictEngine(QObject *parent)
     : QObject(parent){
 }
 
 DictEngine::~DictEngine(){
-    if(networkAccessMgr != NULL){
-        networkAccessMgr->deleteLater();
-        delete networkAccessMgr;
-    }
 }
 
 DictEngine* DictEngine::instance(){
@@ -36,55 +41,37 @@ DictEngine* DictEngine::instance(){
     return mInstance;
 }
 
-QStringList DictEngine::fetchEntry(const QString &word,
-                                   const QString &from,
-                                   const QString &to){
-
-    QNetworkRequest request;
-    request.setUrl(QUrl(buildURL(word, from, to)));
-    QSslConfiguration sslConfig = request.sslConfiguration();
-    sslConfig.setPeerVerifyMode(QSslSocket::VerifyNone);
-    request.setSslConfiguration(sslConfig);
-
-    QNetworkReply *reply = networkAccessMgr->get(request);
-    reply->ignoreSslErrors();
-
-    QTime time;
-    time.start();
-
-    bool isTimeout = false;
-
-    while (!reply->isFinished()) {
-        QApplication::processEvents();
-        if (time.elapsed() >= TIMEOUT) {
-            isTimeout = true;
-            break;
-        }
-    }
-
-    QString message;
-    if (!isTimeout && reply->error() == QNetworkReply::NoError) {
-        message = reply->readAll();
-    }
-
-    reply->deleteLater();
-
+QStringList DictEngine::fetchEntry(QString word,
+                                   QString from,
+                                   QString to){
     QStringList trans_list;
-    parseResponseMessage(message, NULL, &trans_list);
+    static Request request;
+    Response response = request.get(buildURL(word, from, to).toStdString());
+    if(response.errorCode() == 0 && response.statusCode() == 200){
+        parseResponseMessage(QString::fromStdString(response.content()), NULL, &trans_list);
+    }else{
+        qDebug() << "failed to fetch for word:" << word;
+        qDebug() << "\terror code:" << response.errorCode() <<" : error msg:" << response.errorMsg().c_str();
+        qDebug() << "\tstatus code:" << response.statusCode();
+    }
     return trans_list;
 }
 
-void DictEngine::fetchEntryAsync(const QString &word,
-                       const QString &from,
-                       const QString &to){
-    connect(networkAccessMgr, &QNetworkAccessManager::finished, this, &DictEngine::on_requestFinished);
-    networkAccessMgr->get(QNetworkRequest(QUrl("http://www.baidu.com")));
+void DictEngine::fetchEntryPatchAsync(QStringList words,
+                     QString from,
+                     QString to){
+    FetchEntryPatchAsync *worker = new FetchEntryPatchAsync;
+    worker->obj = this;
+    worker->words = words;
+    worker->from = from;
+    worker->to = to;
+    connect(worker, &FetchEntryPatchAsync::finishOne, this, &DictEngine::on_requestFinished, Qt::QueuedConnection);
+    mLauncher.asyncRun(worker, "start");
 }
 
-void DictEngine::on_requestFinished(QNetworkReply *reply){
-    qDebug() << "status code:" << reply->attribute(QNetworkRequest::HttpStatusCodeAttribute).toInt();
+void DictEngine::on_requestFinished(QString word, QStringList trans_list){
+    emit receivedEntryResponse(word, trans_list);
 }
-
 
 QString DictEngine::buildURL(const QString &word, const QString &from, const QString &to){
     QString salt = "35224047";

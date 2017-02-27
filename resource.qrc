@@ -18,5 +18,13 @@
         <file>static/sub-line_horizontal.png</file>
         <file>static/sub-line_vertical.png</file>
         <file>static/app_icon_256.ico</file>
+        <file>static/loading_cube.gif</file>
+        <file>static/loading_cat.gif</file>
+        <file>static/loading_circle.gif</file>
+        <file>static/loading_circle_dot.gif</file>
+        <file>static/loading_line.gif</file>
+        <file>static/loading_steps.gif</file>
+        <file>static/reload.gif</file>
+        <file>static/loading_squares.gif</file>
     </qresource>
 </RCC>
