@@ -8,6 +8,7 @@
 #include "FragmentManager.h"
 #include "FileTableModel.h"
 #include "FileTableView.h"
+#include "DictEngine.h"
 
 void MainWindow::on_lstMenu_currentItemChanged(QListWidgetItem *current, QListWidgetItem *previous)
 {
@@ -25,9 +26,7 @@ void MainWindow::on_lstMenu_currentItemChanged(QListWidgetItem *current, QListWi
         ui->tabTopTools->setCurrentIndex(1);
         ui->tabWidget->setCurrentIndex(0);
     }else if(current->text() == "Trans-Mem"){
-        ui->tabCenter->setCurrentIndex(2);
-        ui->tabLeftSide->setCurrentIndex(2);
-        ui->tabTopTools->setCurrentIndex(2);
+        showTransMemTable();
     }
 }
 
@@ -93,7 +92,7 @@ void MainWindow::on_btnStartTask_clicked()
             connect(worker, &AsyncBuildFragment::finished, worker, &AsyncBuildFragment::deleteLater, Qt::QueuedConnection);
             connect(worker, &AsyncBuildFragment::finished, this, &MainWindow::on_buildFragmentFinished, Qt::QueuedConnection);
             mLauncher->asyncRun(worker, "start");
-            mMessageForm->setText("Processing source file, just a moment... ");
+            mMessageForm->setTitle("Processing source file, just a moment... ");
             mMessageForm->show();
         }
     }
@@ -134,26 +133,18 @@ void MainWindow::on_txtOriginal_cursorPositionChanged()
 
 void MainWindow::on_txtOriginal_selectionChanged()
 {
-    QString selected = ui->txtOriginal->textCursor().selectedText();
-    if(selected.isEmpty()){
-        return;
-    }
-
-    qDebug() << "select:" << selected;
-    qDebug() << FragmentManager::instance()->retrieveWord(selected);
-}
-
-
-void MainWindow::on_btnSaveTransMem_clicked()
-{
-    QStringList headers;
-    QStringList rows;
-    QStringList prev_list;
-
+    mOriginSelection = ui->txtOriginal->textCursor().selectedText();
 }
 
 void MainWindow::on_btnNextFrag_clicked()
 {
+    if(!ui->btnNextFrag->isEnabled()){
+        qDebug() << "please wait until entry table initialized";
+        ui->statusLabel->setText("Please wait until the entry table is initialized.");
+        return;
+    }
+    ui->btnNextFrag->setEnabled(false);
+    DictEngine::instance()->stopQueryAndFetch();
     QString trans = ui->txtTrans->toPlainText();
     if(trans != ""){
         FragmentManager::instance()->updateFragmentTrans(ui->txtTrans->toPlainText());
@@ -175,6 +166,16 @@ void MainWindow::on_btnSaveFrag_clicked()
     FragmentManager::instance()->updateFragmentTrans(ui->txtTrans->toPlainText());
 }
 
+void MainWindow::on_btnToggleOD_clicked()
+{
+    mEnableOnlineDict = !mEnableOnlineDict;
+    if(mEnableOnlineDict){
+        ui->btnToggleOD->setText("Disable OD");
+    }else{
+        ui->btnToggleOD->setText("Enable OD");
+    }
+}
+
 void MainWindow::on_btnCommitTMs_clicked()
 {
     FragmentManager::instance()->reloadJiebaDict();
@@ -182,18 +183,48 @@ void MainWindow::on_btnCommitTMs_clicked()
     showEntriesTableAsync(FragmentManager::instance()->currentFragmentWords());
 }
 
-void MainWindow::on_txtOriginal_customContextMenuRequested(const QPoint &pos)
-{
-    QMenu* menu = ui->txtOriginal->createStandardContextMenu();
-    menu->addAction("Add Trans-Mem");
-    menu->exec(pos);
-    connect(menu, &QMenu::triggered, [this](QAction* action){
-        qDebug() << "clicked on:" << action->text();
-    });
-}
-
 void MainWindow::on_tableEntries_itemChanged(QTableWidgetItem *item)
 {
-
+    if(ui->btnNextFrag->isEnabled()){
+        QString word = ui->tableEntries->horizontalHeaderItem(item->column())->text();
+        qDebug() << word<< ": "<< item->text();
+        DictEngine::instance()->insertTransMem(word, item->text());
+    }
 }
 
+void MainWindow::on_editKeyword_returnPressed()
+{
+    QMap<QString, QString> result = DictEngine::instance()->queryWikiDumpEntry(ui->editKeyword->text());
+    if(result.isEmpty()){
+        ui->lstIndex->insertItem(0, "No Wiki Entry");
+        return;
+    }
+    QListWidgetItem * item = new QListWidgetItem;
+    item->setSizeHint(QSize(60, 28));  //每次改变Item的高度
+    item->setText(ui->editKeyword->text() + "/" + result["page_id"]);
+    ui->lstIndex->addItem(item);
+    ui->lstIndex->setFocus();
+}
+
+void MainWindow::on_lstIndex_itemPressed(QListWidgetItem *item)
+{
+    QStringList tmp = item->text().split("/", QString::KeepEmptyParts);
+    if(tmp.size() > 1){
+        QString page_id = tmp[tmp.size()-1];
+        QString wikiPage = DictEngine::instance()->queryWikiPageById(page_id);
+        if(wikiPage != ""){
+            ui->txtWikiPage->setText(wikiPage);
+            ui->tabWidget->setCurrentIndex(1);
+        }
+    }
+}
+
+void MainWindow::on_lstIndex_itemClicked(QListWidgetItem *item)
+{
+    on_lstIndex_itemPressed(item);
+}
+
+void MainWindow::on_btnExport_clicked()
+{
+    FragmentManager::instance()->exportTrans();
+}

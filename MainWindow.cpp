@@ -47,9 +47,15 @@ MainWindow::MainWindow(QWidget *parent) :
 
     ui->tableEntries->installEventFilter(this);
     ui->txtTrans->installEventFilter(this);
+    ui->txtOriginal->installEventFilter(this);
 
     connect(DictEngine::instance(), &DictEngine::receivedEntryResponse, this, &MainWindow::on_receivedEntryResponse);
     connect(DictEngine::instance(), &DictEngine::queryDumpEntryFinished, this, &MainWindow::on_receivedEntryResponse);
+    connect(DictEngine::instance(), &DictEngine::noPendingQueryOrRequest, [this](){
+        this->ui->btnNextFrag->setEnabled(true);
+        this->ui->statusLabel->setText("succeed to fill entry table");
+        qDebug() << "entry table initialized";
+    });
     connect(ui->tbvFiles, &FileTableView::startTransEditing, this, &MainWindow::on_btnStartTask_clicked);
     connect(ui->tbvFiles, &FileTableView::startExportTask, this, &MainWindow::on_btnExportTask_clicked);
     connect(ui->tbvFiles, &FileTableView::refreshTaskList, this, &MainWindow::on_btnRefreshTasks_clicked);
@@ -97,7 +103,7 @@ bool MainWindow::eventFilter(QObject *watched, QEvent *event){
                     return true;
                 }else if(key == Qt::Key_S
                          && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::ControlModifier)){
-                    on_btnSaveTransMem_clicked();
+
                     return true;
                 }
             default:
@@ -127,6 +133,21 @@ bool MainWindow::eventFilter(QObject *watched, QEvent *event){
                 }
             default:
                 return false;
+        }
+        return false;
+    }else if(watched == ui->txtOriginal){
+        switch(event->type()){
+        case QEvent::KeyPress:
+            key = (static_cast<QKeyEvent *>(event))->key();
+            if(key == Qt::Key_A){
+                if(mOriginSelection != ""){
+                    qDebug() << "show form";
+                    mMessageForm->showAs(MessageForm::Role::AddTransMem, mOriginSelection);
+                }
+                return true;
+            }
+        default:
+            return false;
         }
         return false;
     }
@@ -206,7 +227,11 @@ void MainWindow::initUI(){
     item->setBackground(Qt::white);
     item->setSizeHint(QSize(25, 25));
     ui->lstTaskFilter->addItem(item);
+
+    this->ui->btnNextFrag->setToolTip("Wait until querying process finished");
+    this->ui->btnToggleOD->setToolTip("Only using Wiktionary dump while OD disabled");
 }
+
 
 
 

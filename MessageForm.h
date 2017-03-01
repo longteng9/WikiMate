@@ -60,14 +60,27 @@ class MessageForm : public QWidget
 {
     Q_OBJECT
 public:
+    enum class Role{
+        LoadingForm,
+        AddTransMem
+    };
     explicit MessageForm(QWidget *parent = 0);
-    void setText(const QString &text);
+    void setTitle(const QString &text);
+    void showAs(Role role, const QString &word);
+
+    bool eventFilter(QObject *watched, QEvent *event);
+
 signals:
 
 public slots:
 
 protected:
     void initWaitingForm();
+
+private slots:
+    void on_btnExport_clicked();
+
+    void on_btnClose_clicked();
 
 private:
     Ui::MessageForm *ui;

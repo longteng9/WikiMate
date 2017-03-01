@@ -6,6 +6,19 @@ Launcher::Launcher(QObject *parent)
 
 }
 
+Launcher::~Launcher(){
+    if(isRunning()){
+        stopTasks();
+    }
+}
+
+void Launcher::stopTasks(){
+    mManualStop = true;
+    mQuenedTasks.clear();
+    terminate();
+    wait();
+}
+
 void Launcher::asyncRun(QObject* worker, const char* funcName,
                      QGenericArgument val0,
                      QGenericArgument val1,
@@ -18,6 +31,7 @@ void Launcher::asyncRun(QObject* worker, const char* funcName,
                      QGenericArgument val8,
                      QGenericArgument val9){
     QMutexLocker locker(&mMutex);
+    mManualStop = false;
     if(this->isRunning()){
         Task task;
         task.worker = worker;
@@ -46,6 +60,9 @@ void Launcher::asyncRun(QObject* worker, const char* funcName,
 void Launcher::on_finished(){
     QMutexLocker locker(&mMutex);
     if(mQuenedTasks.isEmpty()){
+        if(!mManualStop){
+            emit noPendingTask();
+        }
         return;
     }
 

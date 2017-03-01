@@ -26,6 +26,8 @@ class Launcher : public QThread{
     };
 public:
     Launcher(QObject *parent = 0);
+    virtual ~Launcher();
+    void stopTasks();
     void asyncRun(QObject* worker, const char* funcName,
                          QGenericArgument val0 = QGenericArgument(Q_NULLPTR),
                          QGenericArgument val1 = QGenericArgument(),
@@ -37,6 +39,8 @@ public:
                          QGenericArgument val7 = QGenericArgument(),
                          QGenericArgument val8 = QGenericArgument(),
                          QGenericArgument val9 = QGenericArgument());
+signals:
+    void noPendingTask();
 
 protected:
     void run(){
@@ -48,5 +52,6 @@ protected:
 private:
     QVector<Task> mQuenedTasks;
     QMutex mMutex;
+    bool mManualStop = false;
 };
 #endif // LAUNCHER_H

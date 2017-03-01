@@ -166,7 +166,8 @@ void Helper::refreshWorkingDir(QString dirPath){
             for(auto iter = list.begin(); iter != list.end(); iter++){
                 QFileInfo info(*iter);
                 if (info.fileName() == "project.meta"
-                        || info.fileName().endsWith(".wmtmp")){
+                        || info.fileName().endsWith(".wmtmp")
+                        || info.fileName().startsWith("[EN]")){
                     continue;
                 }
                 bool existing = false;

@@ -72,6 +72,11 @@ public:
                          QString to);
     QMap<QString, QString> queryWikiDumpEntry(QString word);
     QString fetchWikiPage(QString word);
+    QString queryWikiPageById(QString pageId);
+
+    void insertTransMem(const QString& word, const QString& define);
+    QMap<QString, QStringList> getAllTransMem();
+    void stopQueryAndFetch();
 
 public slots:
     void on_requestFinished(QString word, QStringList trans_list);
@@ -80,6 +85,7 @@ public slots:
 signals:
     void receivedEntryResponse(QString word, QStringList trans);
     void queryDumpEntryFinished(QString word, QStringList trans);
+    void noPendingQueryOrRequest();
 
 private:
     explicit DictEngine(QObject *parent = 0);

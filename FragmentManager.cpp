@@ -12,6 +12,7 @@
 #include "cppjieba/Jieba.hpp"
 #include <vector>
 #include <string>
+#include <QDir>
 
 const char* JiebaPaths::jieba_dict = "dict/jieba/jieba.dict.utf8";
 const char* JiebaPaths::user_dict = "dict/jieba/user.dict.utf8";
@@ -300,4 +301,40 @@ void FragmentManager::reloadJiebaDict(){
 void FragmentManager::rebuildCurrentFragment(){
     mFragmentWordList[mCurrentIndex] = cutWords(mFragmentList[mCurrentIndex]);
     flushRecords();
+}
+
+void FragmentManager::exportTrans(){
+    QStringList tmp = mSourceFilePath.replace("\\", "/").split("/");
+    tmp[tmp.length() - 1] = "[EN]" + tmp[tmp.length()-1];
+    //QString resultDir = "";
+    QString newPath = "";
+    for(int i = 0; i < tmp.size(); i++){
+        newPath += tmp[i] + "/";
+        /*if(i < tmp.size() - 1){
+            resultDir += tmp[i] + "/";
+        }*/
+    }
+    /*QDir dir(resultDir);
+    if(!dir.exists()){
+        if(!dir.mkpath(resultDir)){
+            qDebug() << "failed to create directory: "<<resultDir;
+            return;
+        }
+    }*/
+
+    newPath = newPath.mid(0, newPath.length() - 1);
+    QString content = "";
+    for(QString line : mFragmentTransList){
+        content += line + "\n";
+    }
+
+    QFile file(newPath);
+    if(!file.open(QIODevice::WriteOnly | QIODevice::Text)){
+        qDebug() << "failed to open file: " << newPath;
+        return;
+    }
+    file.write(content.toUtf8());
+    file.close();
+    qDebug() << "exported task: " << mSourceFilePath;
+    qDebug() << "to dest path: " << newPath;
 }

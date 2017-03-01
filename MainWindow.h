@@ -39,7 +39,6 @@ public slots:
     void on_btnExportTask_clicked();
     void on_btnAddTasks_clicked();
     void on_btnRemoveTasks_clicked();
-    void on_btnSaveTransMem_clicked();
     void on_btnNextFrag_clicked();
     void on_btnPrevFrag_clicked();
     void on_btnSaveFrag_clicked();
@@ -63,9 +62,17 @@ private slots:
 
     void on_btnCommitTMs_clicked();
 
-    void on_txtOriginal_customContextMenuRequested(const QPoint &pos);
-
     void on_tableEntries_itemChanged(QTableWidgetItem *item);
+
+    void on_editKeyword_returnPressed();
+
+    void on_lstIndex_itemPressed(QListWidgetItem *item);
+
+    void on_lstIndex_itemClicked(QListWidgetItem *item);
+
+    void on_btnExport_clicked();
+
+    void on_btnToggleOD_clicked();
 
 private:
     void initUI();
@@ -75,11 +82,14 @@ private:
     void saveHistory();
     void showEntriesTableAsync(const QStringList &header);
     void setCurrentFragment(int index = 0);
+    void showTransMemTable();
 
 private:
+    QString mOriginSelection = "";
     Ui::MainWindow *ui;
     Launcher *mLauncher;
     MessageForm *mMessageForm;
+    bool mEnableOnlineDict = true;
 };
 
 #endif // MAINWINDOW_H
