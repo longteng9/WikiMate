@@ -1,0 +1,104 @@
+{{character info/new}}
+{{also|鲤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=07|sn=18|four=26314|canj=NFWG}}
+
+# [[carp]]
+
+====References====
+* {{Han ref|kx=1471.170|dkj=46182|dj=2003.340|hdz=74691.090|uh=9BC9|ud=39881|bh=C355|bd=50005}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鲤}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǐ
+|c=lei5
+|h=pfs=
+|md=
+|mn=lí
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚07}}
+
+====Readings====
+* {{ja-readings|goon=[[り]] (ri)|kanon=[[り]] (ri)|kun=[[こい]] (koi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|養鯉|ようり}}: [[carp]] [[farming]]
+{{der-bottom}}
+
+====Usage notes====
+See [[koi]].
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|こい|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|こい|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|こい|hhira=こひ}}
+
+# [[carp]], specifically [[common carp]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|錦鯉|にしきごい}}: [[coloured]] [[carp]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Cyprinids|こい]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[리]]>[[이]]|eumhun=|rv=ri>i|mr=ri>i|y=li>i}}
+
+# {{defn|lang=ko|sort=魚07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|lí|rs=魚07}}
+
+# {{defn|lang=vi|sort=魚07}}
+
+[[cs:鯉]]
+[[fr:鯉]]
+[[hu:鯉]]
+[[ja:鯉]]
+[[pl:鯉]]
+[[sv:鯉]]
+[[th:鯉]]
+[[tr:鯉]]
+[[zh:鯉]]

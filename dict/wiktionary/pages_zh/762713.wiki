@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gāngē
+|c=gon1 gwo1
+|h=pfs=kôn-khô
+|mn=kan-ko
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# the [[weapons]] of [[war]]; [[arms]]
+# {{lb|zh|figurative}} the [[chaos]] of [[war]]; [[battle]]
+
+====Derived terms====
+{{zh-der|化干戈為玉帛/化干戈为玉帛}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|かん|か}}
+
+===Etymology===
+{{IPAchar|/kankwa/}} → {{IPAchar|/kanka/}}
+
+From {{etyl|ltc|ja|sort=かんか}} compound {{m|zh|干戈|tr=kan kwa|lit=shield + polearm, spear}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|かんか|acc=1|acc_ref=DJR,SMK5}}
+
+===Noun===
+{{ja-noun|かんか|hhira=かんくわ}}
+
+# literally “[[shield]]s and [[spear]]s”: a [[metaphor]] for [[weaponry]] or [[military]] [[force]]
+# [[conflict]]
+
+====Idioms====
+{{der-top|Idioms}}
+* {{lang|ja|干戈に}}{{l|ja|訴える}} ({{lang|ja|かんかに}}{{l|ja|うったえる}}, ''kanka ni uttaeru''): a [[call to arms]]
+* {{lang|ja|干戈を}}{{l|ja|動かす}} ({{lang|ja|かんかを}}{{l|ja|うごかす}}, ''kanka o ugokasu''): [[mobilize]] for [[war]]
+* {{lang|ja|干戈を}}{{l|ja|収める}} ({{lang|ja|かんかを}}{{l|ja|おさめる}}, ''kanka o osameru'') / {{lang|ja|干戈を}}{{l|ja|箱}}{{lang|ja|に}}{{l|ja|入れる|入れ}}{{l|ja|弓}}{{lang|ja|を}}{{l|ja|袋}}{{lang|ja|に}}{{l|ja|入る}} ({{lang|ja|かんかを}}{{l|ja|はこ}}{{lang|ja|に}}{{l|ja|いれる|いれ}}{{l|ja|ゆみ}}{{lang|ja|を}}{{l|ja|ふくろ}}{{lang|ja|に}}{{l|ja|入る|いる}}, ''kanka o hako ni ire yumi o fukuro ni iru''): [[disarm]], [[demobilize]], return to [[peace]]
+* {{lang|ja|干戈を}}{{l|ja|交える}} ({{lang|ja|かんかを}}{{l|ja|まじえる}}, ''kanka o majieru''): [[cross swords]], [[exchange]] [[hostilities]], [[fight]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[ko:干戈]]
+[[hu:干戈]]
+[[ja:干戈]]
+[[zh:干戈]]

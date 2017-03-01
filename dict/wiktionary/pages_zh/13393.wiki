@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|墙|牆}}
+==Translingual==
+
+===Etymology===
+{{Han compound|土|嗇|c1=s|c2=p|t1=soil|ls=psc}}
+
+===Han character===
+{{Han char|rn=32|rad=土|as=13|sn=16|four=44161|canj=GGOW|ids=⿰土嗇}}
+
+# [[wall]]
+
+====References====
+* {{Han ref|kx=0239.300|dkj=05505|dj=0479.190|hdz=10490.140|uh=58BB|ud=22715}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=[[coeng4]]|y=cheung4}}
+
+# {{defn|lang=yue|sort=土13}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土13}}
+
+# {{defn|lang=ja|sort=土13}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[かき]] (kaki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=장|rv=jang|mr=chang}}
+
+# {{defn|lang=ko|sort=土13}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|sim=墙|pin=[[qiáng]] ([[qiang2]]), [[bēi]] ([[bei1]]), [[bì]] ([[bi4]]), [[pì]] ([[pi4]])|wg=ch'iang<sup>2</sup>, pei<sup>1</sup>, pi<sup>4</sup>, p'i<sup>4</sup>}}
+
+# {{defn|lang=cmn|sort=土13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''墻''' ([[tường]])
+
+# {{defn|vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:墻]]
+[[ko:墻]]
+[[li:墻]]
+[[hu:墻]]
+[[mg:墻]]
+[[ja:墻]]
+[[pl:墻]]
+[[th:墻]]
+[[zh:墻]]

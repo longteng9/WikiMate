@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=09|sn=15|four=58161|canj=LITCW}}
+
+# {{lb|mul|obsolete}} the larva of an Asian long-horned beetle (''Anoplophora glabripennis'')
+# the chrysalis of a kind of beetle
+# an ephemera
+# a mayfly
+
+====References====
+* {{Han ref|kx=1090.100|dkj=33293|dj=1556.070|hdz=42873.070|uh=8764|ud=34660|bh=E7A3|bd=59299}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiú
+|c=zau1,jau4,cau4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|蝤蛑|蝤蠐|領如蝤蠐}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫09}}
+
+# {{defn|lang=ja|sort=虫09}}
+
+====Readings====
+* {{ja-readings|on=[[しゅう]] (shū), [[じゅ]] (ju), [[よう]] (yō), [[よ]] (yo)|kun=[[きくいむし]] (kikuimushi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=유|eumhun=|rv=yu|mr=yu|y=yu}}
+
+# {{defn|lang=ko|sort=虫09}}
+
+[[fr:蝤]]
+[[ko:蝤]]
+[[hu:蝤]]
+[[mg:蝤]]
+[[pl:蝤]]
+[[th:蝤]]
+[[zh:蝤]]

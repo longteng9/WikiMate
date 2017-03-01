@@ -1,0 +1,79 @@
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|gloss=-}}
+{{bor|zh|pal|tʾcyk'|tr=Tāčīk, Tāzīg}}.
+
+====Pronunciation====
+{{zh-pron
+|m=Dàshí
+|c=daai6 sik6
+|mc=1,2
+|cat=pn
+}}
+
+====Proper noun====
+{{zh-noun}}
+
+# {{lb|zh|archaic|Tang dynasty}} the [[empire]] of the [[Arab]]s
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation 1====
+{{zh-pron
+|m=dàshí
+|c=daai6 sik6
+|h=pfs=thai-sṳ̍t
+|md=duâi-siăh*siĕh
+|mn=tōa-chia̍h
+|mc=1,2
+|cat=a,mn:n
+}}
+
+=====Adjective=====
+{{zh-adj}}
+
+# {{lb|zh|literary|or|Cantonese|Hakka|Min}} having a [[large]] [[appetite]]; being a [[big eater]]
+#: {{zh-x|我 細個 嗰陣時 好 大食 㗎，一 餐 起碼 要 有 三 碗 飯 落肚。|I used to be a big eater when I was small. I had to have at least three bowls of rice each meal.|C}}
+# {{lb|zh|Zhangzhou|&|Taiwan Min Nan|of a tool|e.g. a knife}} [[penetrate|penetrating]] [[deeper]] or more [[frequently]]
+
+======Synonyms======
+* {{qualifier|Cantonese}} {{zh-l|為食|gluttonous; greedy}}
+
+======Antonyms======
+* {{qualifier|Cantonese|Min Nan}} {{zh-l|細食}}
+* {{qualifier|Min Nan}} {{zh-l|小食|sió-chia̍h}}, {{zh-l|小口|sió-kháu}}
+
+======Derived terms======
+{{zh-der|大食懶}}
+
+=====Noun=====
+{{zh-noun}}
+
+# {{lb|zh|Taiwan Min Nan|thieves' slang}} [[gunny sack]]
+
+====Pronunciation 2====
+{{zh-pron
+|c=daai6 sik6
+|md=duâi-siăh*{s}iĕh
+|cat=v
+}}
+
+=====Verb=====
+{{zh-verb}}
+
+# {{lb|zh|Cantonese|Min Dong}} to [[gorge]] oneself; to [[pig out]]
+
+======Derived terms======
+{{zh-der|大食會|大使大食}}
+
+===Descendants===
+{{CJKV||たいしょく|대식}}
+
+===References===
+* Cantodict
+* {{R:nan:tdj|64030|v=2|p=430}}
+
+[[mg:大食]]
+[[zh:大食]]

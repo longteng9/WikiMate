@@ -1,0 +1,35 @@
+{{also|相关}}
+==Chinese==
+{{zh-forms|s=相关}}
+
+===Etymology===
+{{zh-compound|相|關|as in [[互相]]|as in [[關聯]]}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiāngguān
+|c=soeng1 gwaan1
+|mn=qz,tw,xm:siong-koan/twvk,zz:siang-koan
+|cat=a,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[interrelated]]; [[related]]; [[connected]]; [[relevant]]
+# [[correlated]]; [[dependent]]
+
+===Noun===
+{{zh-noun}}
+
+# [[correlation]]; [[dependence]]
+# {{lb|zh|mathematics}} [[correlation]]
+
+====Derived terms====
+{{zh-der|相關性|息息相關}}
+
+[[zh-min-nan:相關]]
+[[ko:相關]]
+[[hu:相關]]
+[[mg:相關]]
+[[ja:相關]]

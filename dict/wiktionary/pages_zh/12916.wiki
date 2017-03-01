@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=31|rad=囗|as=05|sn=8|four=60307|canj=WOII|ids=⿴囗令}}
+
+# [[prison]], [[enclosure]]
+
+====References====
+* {{Han ref|kx=0218.020|dkj=04744|dj=0445.220|hdz=10717.110|uh=56F9|ud=22265|bh=CBF1|bd=52209}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=líng
+|c=ling4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=囗05}}
+
+# {{defn|lang=ja|sort=囗05}}
+
+====Readings====
+* {{ja-readings|on=[[れい]] (rei)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=령|rv=ryeong|mr=ryŏng}}
+
+# {{defn|lang=ko|sort=囗05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lãnh]]|rs=囗05}}
+
+# {{defn|lang=vi|sort=囗05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=56f9 Nom Foundation]
+
+[[fr:囹]]
+[[ko:囹]]
+[[li:囹]]
+[[hu:囹]]
+[[mg:囹]]
+[[ja:囹]]
+[[pl:囹]]
+[[ru:囹]]
+[[th:囹]]
+[[zh:囹]]

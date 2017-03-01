@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|搨}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=10|sn=13|four=54061|canj=QTOR|ids=⿰扌荅}}
+
+====Related terms====
+* {{l|mul|拾}}
+
+====References====
+* {{Han ref|kx=0448.040|dkj=12508|dj=0798.220|hdz=31912.030|uh=642D|ud=25645|bh=B766|bd=46950}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|alt1=扌|t1=hand|荅|ls=psc|c1=s|c2=p}} – to join with hands.
+
+===Pronunciation===
+{{zh-pron
+|m=dā |ma=Zh-da.ogg
+|c=daap3
+|h=pfs=tap
+|md=
+|mn=tah
+|w=4taq
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[lay]], [[pile up]]
+# [[join]] [[together]], [[attach]] to
+# [[add]] to
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=手10}}
+
+# {{defn|lang=ja|sort=手10}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō)|kun=[[のせる]] (noseru), [[のる]] (noru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=탑}}
+
+# {{defn|lang=ko|sort=手10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đắp]], [[đáp]], [[ráp]], [[tháp]], [[thắp]]|rs=手10}}
+
+# {{defn|lang=vi|sort=手10}}
+
+[[zh-min-nan:搭]]
+[[fr:搭]]
+[[ko:搭]]
+[[hu:搭]]
+[[mg:搭]]
+[[ja:搭]]
+[[no:搭]]
+[[pl:搭]]
+[[th:搭]]
+[[zh:搭]]

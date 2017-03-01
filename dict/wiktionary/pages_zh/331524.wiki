@@ -1,0 +1,36 @@
+==Chinese==
+
+===Pronunciation===
+{{zh-pron
+|m=Xuělí
+|c=syut3 lei4
+|mn=Soat-lê
+|cat=n,pn
+}}
+
+===Etymology 1===
+{{zh-forms|gloss=-}}
+{{bor|zh|en|Sydney}}, via {{etyl|yue|zh}}.
+
+====Proper noun====
+{{zh-proper noun}}
+
+# {{lb|zh|chiefly|Taiwan|dated|_|in|_|Hong Kong}} [[Sydney]], [[Australia]]
+#: {{zh-x|雪梨 是 澳洲 上{siōng}-大 的 城市。|'''Sydney''' is Australia's largest city.|TW}}
+
+=====Synonyms=====
+* {{qualifier|Mainland China|Hong Kong}} {{zh-l|悉尼}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Noun====
+{{zh-noun}}
+
+# [[snow pear]] {{gloss|{{taxlink|Pyrus nivalis|species|noshow=1}}}}
+
+{{zh-cat|Cities in Australia|Pear cultivars}}
+
+[[cs:雪梨]]
+[[ko:雪梨]]
+[[zh:雪梨]]

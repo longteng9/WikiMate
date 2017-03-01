@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms|s=民国}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=mínguó
+|c=man4 gwok3
+|h=pfs=mìn-koet
+|md=mìng-guók
+|mn=bîn-kok
+|w=3min koq
+|cat=n,pn
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[republic]]
+
+====Synonyms====
+* {{zh-l|共和國}}
+
+====Derived terms====
+{{zh-der|中華民國}}
+
+===Proper noun===
+{{zh-noun}}
+
+# {{abbreviation of|中華民國||Republic of China|lang=zh}}
+# [[Republic of China]] (1912-1949)
+# Republic of China [[era]]
+#: {{zh-x|^民國 @105 年|105th year of the '''Republic era'''}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{wikipedia|민국|民國|lang=ko}}
+{{ko-noun|hj|rv=min-guk|hangeul=민국}}
+
+# {{hanja form of|민국|republic}}
+
+[[zh-min-nan:民國]]
+[[fr:民國]]
+[[ko:民國]]
+[[hu:民國]]
+[[mg:民國]]
+[[pl:民國]]
+[[zh:民國]]

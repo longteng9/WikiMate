@@ -1,0 +1,36 @@
+{{also|家裡|家裏}}
+==Chinese==
+{{zh-see|家裡}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{ja-kanjitab|yomi=on|か|り}}
+From {{etyl|ltc|ja|sort=かり}} compound {{m|zh|家裡|tr=kae li<sup>X</sup>|lit=home + inside}}. Compare the reading of modern {{etyl|yue|-}} {{m|zh|家裡|tr=gaa<sup>1</sup> leoi<sup>5</sup>}}, or the meaning of Japanese synonyms {{m|ja|家内|tr=kanai|lit=home + inside||wife}}, {{m|ja|奥様|tr=okusama|lit=inside + honorable||wife}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|かり}}
+
+===Noun===
+{{ja-noun|かり}}
+
+# {{lb|ja|sort=かり|obsolete|rare}} one's [[hometown]], one's [[native]] [[village]]
+# {{lb|ja|sort=かり|obsolete|rare}} one's [[wife]]
+
+====Usage notes====
+Does not appear to be used in modern Japanese.
+
+====Synonyms====
+* {{sense|hometown}} {{ja-r|故郷|ふるさと}}, {{ja-r|故郷|こきょう}}, {{ja-r|郷里|きょうり}}
+* {{sense|wife}} {{ja-r|妻|つま}}, {{ja-r|本妻|ほんさい}}, {{ja-r|家内|かない}}, {{ja-r|奥様|おくさま}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[fr:家里]]
+[[mg:家里]]
+[[vi:家里]]
+[[zh:家里]]

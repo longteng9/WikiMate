@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tòumíng
+|c=tau3 ming4
+|mn=thàu-bêng
+|ma=Zh-tòumíng.ogg
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[transparent]] {{gloss|allowing light to pass through}}
+# transparent {{gloss|open to public scrutiny}}
+
+====Derived terms====
+{{zh-der|透明度|半透明|不透明|頸後透明帶掃瞄|透明體|透明性}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|めい|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|とうめい|y=o|acc=0|acc_ref=NHK}}
+
+===Adjectival noun===
+{{ja-adj|decl=na|とうめい}}
+
+# [[transparent]]
+# [[invisible]]
+#: ''(example)'': '''透明'''人間 ('''invisible''' man)
+
+====Inflection====
+{{ja-na|とうめい}}
+
+===Noun===
+{{ja-noun|とうめい}}
+
+# the quality of being [[transparent]]
+# [[invisibility]]
+
+====Compounds====
+* [[透明性]]
+* [[不透明]]
+
+===References===
+<references/>
+
+[[zh-min-nan:透明]]
+[[ko:透明]]
+[[lo:透明]]
+[[hu:透明]]
+[[mg:透明]]
+[[ms:透明]]
+[[ja:透明]]
+[[sv:透明]]
+[[chr:透明]]
+[[zh:透明]]

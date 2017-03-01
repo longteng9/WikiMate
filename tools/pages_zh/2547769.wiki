@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|い|じょう|yomi=on}}
+
+===Alternative forms===
+* {{l|ja|委譲}}
+
+===Noun===
+{{ja-noun|いじょう}}
+# [[handover]]
+#: {{ja-usex|政府はアフガンの治安権限'''移譲'''プランを発表した。|せいふ は アフガン の ちあん けんげん '''いじょう''' プラン を はっぴょう した。|The government announced the Afghan security '''handover''' plan.}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|いじょう}}
+
+# [[transfer]], [[hand over]]
+
+====Conjugation====
+{{ja-suru|いじょう}}
+
+[[mg:移譲]]

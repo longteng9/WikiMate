@@ -1,0 +1,74 @@
+{{also|中东}}
+
+==Chinese==
+{{zh-forms|s=中东}}
+{{wikipedia|lang=zh|中东}}
+{{wikipedia|lang=yue}}
+
+===Etymology===
+{{cal|zh|en|Middle East}}.{{rfv-etymology|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=Zhōngdōng
+|c=zung1 dung1
+|mn=Tiong-tang
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-propn}}
+
+# [[Middle East]] {{gl|region comprising southwest Asia and northeast Africa}}
+
+===See also===
+* {{zh-l|遠東}}
+
+{{zh-cat|Asia|Africa}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Middle East}}
+[[File:Middle_east.jpg|thumb|250px|{{lang|ja|中東}} (''Chūtō''): the '''{{l|en|Middle East}}'''.]]
+</div>
+{{ja-kanjitab|ちゅう|とう|yomi=o}}
+
+===Etymology===
+{{calque|ja|etyl lang=en|etyl term=Middle East|sort=ちゅうとう}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+===Pronunciation===
+{{ja-pron|ちゅうとう|yomi=kanon|acc=0|acc_ref=SMK5,NHK}}
+* {{hmp|lang=ja|sort=ちゅうとう|中等|中闘|仲冬|柱棟|柱頭|偸盗|中唐}}
+
+===Proper noun===
+{{ja-pos|proper|ちゅうとう}}
+
+# the {{l|en|Middle East}} {{gl|region comprising southwest Asia and northeast Africa}}
+
+===See also===
+* {{ja-r|極%東|^きょく%とう}}: the {{l|en|Far East}}
+
+===References===
+<references/>
+
+{{C|ja|Asia|Africa|sort=ちゅうとう}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Proper noun===
+{{ko-propn|hangeul=중동|mr=Chungdong|y=Cwungtong}}
+
+# {{hanja form of|중동|[[Middle East]]}}
+
+[[ko:中東]]
+[[lo:中東]]
+[[lt:中東]]
+[[hu:中東]]
+[[km:中東]]
+[[fi:中東]]

@@ -1,0 +1,69 @@
+==Chinese==
+{{zh-forms|alt=瑜珈}}
+{{wikipedia|lang=zh}}
+{{wikipedia|lang=yue}}
+
+===Etymology===
+{{bor|zh|sa|योग}} {{defdate|7th century}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yújiā
+|c=jyu4 gaa1
+|h=pfs=yì-kâ
+|mn-t=ru5 gia1
+|w=3hhy jia
+|mc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[yoga]] {{gloss|physical, mental, and spiritual practice or discipline}}
+#: {{zh-x|練 瑜伽{jiā}|to practise '''yoga'''}}
+
+====Derived terms====
+{{zh-der|瑜伽宗|瑜伽師地論|瑜伽派|瑜伽行派}}
+
+====Descendants====
+{{CJKV||ゆが|유가|du già}}
+
+{{zh-cat|Yoga}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ゆ|が|yomi=o}}
+
+===Etymology===
+From {{der|ja|ltc|瑜伽|tr=jɨo ɡɨɑ}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|ゆが|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ゆが}}
+
+# [[yoga]]
+
+====Synonyms====
+* {{ja-r|ヨーガ}}
+
+====Derived terms====
+* {{ja-r|三密瑜伽|さんみつゆが}}
+* {{ja-r|瑜伽教|ゆがきょう}}
+* {{ja-r|瑜伽三密|ゆがさんみつ}}
+* {{ja-r|瑜伽師地論|ゆがしじろん}}
+* {{ja-r|瑜伽宗|ゆがしゅう}}
+* {{ja-r|瑜伽上乗|ゆがじょうじょう}}
+* {{ja-r|瑜伽振鈴|ゆがしんれい}}
+* {{ja-r|瑜伽論|ゆがろん}}
+
+===References===
+<references/>
+
+[[Category:ja:Yoga|ゆが]]
+
+[[ru:瑜伽]]
+[[zh:瑜伽]]

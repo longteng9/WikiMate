@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|昽}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=16|sn=20|four=61011|canj=AYBP|ids=⿰日龍}}
+
+# [[vague]], [[dim]]
+# [[twilight]]
+
+====References====
+* {{Han ref|kx=0501.350|dkj=14255|dj=0872.080|hdz=21541.200|uh=66E8|ud=26344|bh=F450|bd=62544}}
+
+----
+
+==Chinese==
+{{zh-forms|s=昽}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lóng
+|c=lung4
+|mc=y
+|oc=y
+|ma=
+|cat=a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日16}}
+
+# {{defn|lang=ja|sort=日16}}
+
+====Readings====
+* {{ja-readings|on=[[ろう]] (rō), [[る]] (ru)|kun=[[おぼろ]] (oboro)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[롱]]>[[농]]|eumhun=|rv=rong>nong|mr=rong>nong|y=long>nong}}
+
+# {{defn|lang=ko|sort=日16}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=日16|hanviet=lung}}
+
+# {{defn|lang=vi|sort=日16}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=66e8 Nom Foundation]
+
+[[fr:曨]]
+[[ko:曨]]
+[[hu:曨]]
+[[pl:曨]]
+[[th:曨]]
+[[zh:曨]]

@@ -1,0 +1,131 @@
+==Chinese==
+{{zh-forms|lit=northern capital}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+Chosen by {{w|Yongle Emperor}} to distinguish the city from {{zh-l|南京|[[Nanjing]]}}, the southern of the two capitals of the Ming Dynasty.
+
+===Pronunciation===
+{{zh-pron
+|m=Běijīng
+|c=bak1 ging1
+|h=pfs=Pet-kîn
+|md=Báe̤k-gĭng
+|mn=Pak-kiaⁿ
+|mn-t=bag4 gian1
+|w=4poq jin
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{zh-div|市}} [[Beijing]]
+#: {{zh-x|中國 的 首都{dū} 是 '''^北京'''。|The capital of '''China''' is Beijing.}}
+
+===Descendants===
+* Dutch: {{l|nl|Peking}}
+* English: {{l|en|Beijing}}, {{l|en|Peking}}
+* French: {{l|fr|Pékin}}
+* German: {{l|de|Peking}}, {{l|de|Pekingen}}
+* Italian: {{l|it|Pechino}}
+* Japanese: {{ja-r|北%京|^ペ%キン}}
+* Korean: {{ko-l|^베이징}}, {{ko-l|^북경}}
+* Latin: {{l|la|Pechinum}}
+* Portuguese: {{l|pt|Pequim}}
+* Russian: {{l|ru|Пекин}}
+* Spanish: {{l|es|Pekín}}, {{l|es|Pequín}}
+* Vietnamese: {{vi-l|Bắc Kinh}}
+
+===See also===
+* {{zh-l|北平}} {{qual|historical name}}
+
+{{zh-cat|Capital cities|Municipalities of China|Cities in China}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|sort=へきん''|ぺ|きん}}
+From [[dialectal]] {{der|ja|zh|北京|lit=[[northern]] [[capital]]}}
+
+====Pronunciation====
+{{rfap|lang=ja}}
+
+====Proper noun====
+{{ja-pos|proper|ペキン}}
+
+# [[Beijing]]; [[Peking]]
+
+=====Derived terms=====
+* {{ja-r|北%京%語|^ペ%キン%-ご}}
+* {{ja-r|北%京%人|^ペ%キン%-じん}}
+
+====See also====
+* {{ja-r|南%京|^なん%きん}}
+
+{{C|ja|Capital cities|Municipalities of China|Cities in China|sort=へきん''}}
+
+===Etymology 2===
+{{ja-kanjitab|ほく|k1=ほっ|きょう|yomi=o}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|y=go|ほっきょう|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ほっきょう|hhira=ほくきやう}}
+
+# {{lb|ja|literal}} a [[northern]] [[capital]]
+
+===References===
+<references/>
+
+{{cln|ja|words with multiple readings}}
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Proper noun===
+{{ko-propn|hangeul=북경}}
+
+# {{hanja form of|북경|[[Beijing]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab|北|京}}
+
+===Proper noun===
+{{vi-hantu}}
+
+# {{han tu form of|Bắc Kinh|[[Beijing]]}}
+
+[[zh-min-nan:北京]]
+[[cs:北京]]
+[[da:北京]]
+[[de:北京]]
+[[et:北京]]
+[[el:北京]]
+[[fr:北京]]
+[[ko:北京]]
+[[it:北京]]
+[[lt:北京]]
+[[li:北京]]
+[[hu:北京]]
+[[nl:北京]]
+[[ja:北京]]
+[[pl:北京]]
+[[pt:北京]]
+[[ro:北京]]
+[[ru:北京]]
+[[fi:北京]]
+[[sv:北京]]
+[[th:北京]]
+[[tr:北京]]
+[[uk:北京]]
+[[vi:北京]]
+[[zh:北京]]

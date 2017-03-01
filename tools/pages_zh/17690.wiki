@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=08|sn=12|four=48927|canj=DOMB|ids=⿰木侖}}
+
+====References====
+* {{Han ref|kx=0531.210|dkj=14916|dj=0920.060|hdz=21235.030|uh=68C6|ud=26822|bh=D9C3|bd=55747}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|侖|c1=s|c2=p|t1=wood|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lún
+|c=leon4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[camphor]] [[tree]]
+# a [[kind]] of camphor
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 128]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木08}}
+
+# {{defn|lang=ja|sort=木08}}
+
+====Readings====
+* {{ja-readings|on=[[りん]] (rin)|kun=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木08|hanviet=suôn}}
+
+# {{defn|lang=vi|sort=木08}}
+
+[[fr:棆]]
+[[li:棆]]
+[[hu:棆]]
+[[ja:棆]]
+[[pl:棆]]
+[[th:棆]]
+[[zh:棆]]

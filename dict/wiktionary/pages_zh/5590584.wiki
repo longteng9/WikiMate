@@ -1,0 +1,27 @@
+==Japanese==
+{{DEFAULTSORT:かくかっこ}}
+{{ja-kanjitab|yomi=o|かく|かつ|k2=がっ|r=y|こ}}
+{{ja-kanjitab|yomi=o|かく|かつ|k2=かっ|こ}}
+{{wikipedia|lang=ja|括弧#角括弧［］|括弧#	種類#角括弧［］}}
+
+===Etymology===
+{{compound|ja|角|括弧|tr1=kaku|t1=[[corner]]|tr2=kakko|t2=[[bracket]]}}
+
+===Pronunciation===
+{{ja-pron|acc=3|y=ko|かくがっこ}}
+
+===Noun===
+{{ja-noun|かくかっこ|hhira=かくくわつこ}}<br>{{ja-altread|hira=かくがっこ|hhira=かくぐわつこ}}
+
+# a [[square bracket]]
+
+====Synonyms====
+* {{ja-r|ブラケット}}
+
+===See also===
+* {{unsupported|[}}{{unsupported|]}}
+* {{ja-l|［}}{{ja-l|］}}
+
+{{topics|ja|Punctuation marks}}
+
+[[mg:角括弧]]

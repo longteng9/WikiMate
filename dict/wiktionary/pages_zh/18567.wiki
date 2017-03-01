@@ -1,0 +1,52 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=84|rad=气|as=01|sn=5|four=80217|canj=ONL|ids=⿹气丿}}
+
+====Related terms====
+* {{l|mul|氘}}
+* {{l|mul|氚}}
+
+====References====
+* {{Han ref|kx=0599.031|hdz=32010.020|uh=6C15|ud=27669|bh=C97E|bd=51582}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|气|t1=gas|丿|t2=one|ls=ic}}. Also a {{liushu|psc|nocap=y}}, where {{zh-l|丿}} acts as the phonetic component. Compare {{zh-l|*氘|deuterium}} and {{zh-l|*氚|tritium}}.
+
+===Etymology===
+From {{zh-l|丿|left falling stroke}} from the glyph, possibly influenced by {{cog|NL.|protium}}. In Mandarin, it is pronounced in the first tone by analogy with {{zh-l|氘|deuterium}} and {{zh-l|氚|tritium}}.
+
+===Pronunciation===
+{{zh-pron
+|m=piē
+|c=pit3
+|h=pfs=
+|md=
+|mn=
+|w=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[protium]]
+
+===See also===
+* {{zh-l|氘|deuterium}}
+* {{zh-l|氚|tritium}}
+* {{zh-l|氫|hydrogen}}
+
+[[fr:氕]]
+[[ko:氕]]
+[[mg:氕]]
+[[pl:氕]]
+[[th:氕]]
+[[zh:氕]]

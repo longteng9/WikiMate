@@ -1,0 +1,92 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|どう|し|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|どうし|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|どうし}}
+
+# [[comrade]]
+
+=====Derived terms=====
+* {{ja-r|同士討ち|どうしうち}}, {{ja-r|同士打ち|どうしうち}}
+* {{ja-r|隣同士|となりどうし}}
+* {{ja-r|仲間同士|なかまどうし}}
+
+===Etymology 2===
+{{ja-kanjitab|sort=とし'|yomi=irr}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|どし|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|どし}}
+
+# [[comrade]]
+
+=====Derived terms=====
+* {{ja-r|同士軍|どし.いくさ}}
+
+===References===
+<references/>
+
+----
+
+==Kunigami==
+
+===Etymology===
+Cognate with mainland {{cog|ja|同士|tr=dōshi}}.
+
+===Noun===
+{{head|xug|noun|hiragana|どぅし|romaji|dushi}}
+
+# [[friend]]
+
+----
+
+==Okinawan==
+
+===Etymology===
+Cognate with mainland {{cog|ja|同士|tr=dōshi}}.
+
+===Noun===
+{{head|ryu|noun|hiragana|どぅし|romaji|dushi}}
+
+# [[friend]]
+
+====Derived terms====
+* {{l|ryu|同士子|tr=[[どぅしぐぁー]], ''[[dushigwā]]''||(''familiar'') [[friend]]}}
+* {{l|ryu|首切り同士|tr=[[くびちりどぅし]], ''[[kubichiridushi]]''||a [[friend]] with whom one would trust his life}}
+
+----
+
+==Toku-No-Shima==
+
+===Etymology===
+Cognate with mainland {{cog|ja|同士|tr=dōshi}}.
+
+===Noun===
+{{head|tkn|noun|hiragana|どぅし|romaji|dushi}}
+
+# [[friend]]
+
+----
+
+==Yonaguni==
+
+===Etymology===
+Cognate with mainland {{cog|ja|同士|tr=dōshi}}.
+
+===Noun===
+{{head|yoi|noun|hiragana|どぅち|romaji|duchi}}
+
+# [[friend]]
+
+[[ko:同士]]
+[[lo:同士]]
+[[hu:同士]]
+[[mg:同士]]
+[[zh:同士]]

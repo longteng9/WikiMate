@@ -1,0 +1,135 @@
+{{character info/new}}
+{{also|木|末|禾|耒}}
+==Translingual==
+{{stroke order|strokes=5}}
+
+===Han character===
+{{Han char|rn=75|rad=木|as=01|sn=5|four=50900|canj=JD}}
+
+====Derived characters====
+* [[味]] [[妹]] [[昧]] [[魅]]
+
+====References====
+* {{Han ref|kx=0509.050|dkj=14419|dj=0890.030|hdz=21150.010|uh=672A|ud=26410|bh=A5BC|bd=42428}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{liushu|p}} – the tip of a tree ({{zh-l|*木}}), still immature. Contrast {{zh-l|*末}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wèi
+|c=mei6
+|h=pfs=vi
+|md=muôi/ê
+|md_note=muôi - vernacular; ê - literary
+|mn=xm,tp,yl,mg:bē/qz,sx,km,hc:bēr/zz,yl,tn,kh,tc:bōe/lk:běr/bī
+|mn_note=bē/bēr/bōe - vernacular; bī - literary
+|w=3mi,3vi
+|w_note=3mi - vernacular; 3vi - literary
+|mc=y
+|oc=y
+|cat=adv,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[have]] [[not]]; [[not yet]]
+#: {{zh-x|未來|future [lit. have not come]}}
+# [[not]]
+# {{lb|zh|Cantonese|Min}} {{n-g|used at the end of questions to ask if one has done something yet}}
+#: {{zh-x|食飽 未？|Are you full '''yet'''?|C}}
+#* {{zh-x|你 買 咗 未 先？|[[first off|First off]], have you even bought it yet?|C}}
+# [[eighth]] of [[twelve]] [[earthly branch]]es: [[goat]] ({{zh-l|*羊}}) of [[W:Chinese zodiac|Chinese zodiac]]
+
+===Compounds===
+{{zh-der|未必|未必然|未便|未卜|未卜先知|未曾|未嘗|未成年|未敢苟同|未婚|未婚夫|未婚妻|未及|未幾|未盡|未竟|未決|未可厚非|未來|未來學|未老先衰|未了|未免|未能|未能免俗|未然|未始|未遂|未妥|未亡人|未為不可|未暇|未詳|未雨綢繆|未知|未知數|未置可否|從未|前所未聞|力有未逮|並未|妾身未明|寶刀未老|乳臭未乾|屍骨未寒|意猶未足|意猶未盡|得未嘗有|前所未有|口血未乾|含苞未放|亙古未有|尚未|坑灰未冷|始料未及|天真未鑿|夜未央|前所未見|也未可知|得未曾有|存亡未卜|千古未聞|壯志未酬|吉凶未卜|前途未卜|未風先雨|未嘗不可|未萌|未偶|未就|未了公案|抔土未乾|未料|滴水未沾|未改|未形之患|未足輕重|未婚媽媽|未完|未遂犯|未知可否|未知萬一|未決犯|未知所措|未央宮|懵然未覺|目所未睹|未成一簣|猶豫未決|未來派|未知元|未焚徙薪|未省|未明求衣|未熟兒|方興未艾|未定之天|空前未有|未定|未時|曠古未聞|未敢|未艾|懸而未決|未見|未若|未了因|未開|未竟之志|東方未明|未過門|未了情|狐疑未決|未察|未艾方興|未入流|未可限量|未央|未成年人|死生未卜|未傅|未足為道|未識一丁|未滿|未晚|未易才|未必盡然|未冠|未來主義|曠古未有|未達一間|未遑|未辨東西|雲英未嫁|童心未泯|陵土未乾|羽毛未豐|骨肉未寒|迄未成功|遲疑未決|良心未泯|銳未可當|韞櫝未酤|驚神未定|雌雄未決|見所未見|長樂未央|駒齒未落|防範未然|防患未然|聞所未聞|躊躇未決|還未}}
+
+===Descendants===
+{{CJKV||み|j2=び|미|vị|v2=Vị}}
+''Others'':
+* Vietnamese: {{l|vi|Mùi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=木01}}
+
+====Readings====
+* {{ja-readings|goon=[[み]] (mi)|kanon=[[び]] (bi)|kun=[[いまだ]] (imada), [[ひつじ]] (hitsuji)}}
+
+====Compounds====
+{{top2}}
+* [[未開]]
+* [[未完]]
+* [[未婚]]
+* [[未熟]]
+* [[未遂]]
+* [[未成年]]
+* [[未然]]
+* [[未然形]]
+* [[未曾有]]
+* [[未知]]
+{{mid2}}
+* [[未知数]]
+* [[未定]]
+* [[未踏]]
+* [[未納]]
+* [[未必の故意]]
+* [[未亡人]]
+* [[未満]]
+* [[未来]]
+* [[未了]]
+{{bottom}}
+
+===Noun===
+{{ja-noun|ひつじ}}
+
+# {{lb|ja|astrology|sort=ひつじ}} eighth sign of the Chinese [[zodiac]], the [[goat]]
+
+===Prefix===
+{{ja-pos|prefix|み}}
+
+# [[un-]], not yet
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=미|eumhun=|rv=mi|mr=mi|y=mi}}
+
+# {{defn|lang=ko|sort=木01}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木01| hanviet = mùi, vị}}
+
+# {{defn|lang=vi|sort=木01}}
+
+[[ast:未]]
+[[zh-min-nan:未]]
+[[fr:未]]
+[[ko:未]]
+[[hu:未]]
+[[mg:未]]
+[[ms:未]]
+[[nl:未]]
+[[ja:未]]
+[[no:未]]
+[[pl:未]]
+[[ru:未]]
+[[sv:未]]
+[[th:未]]
+[[zh:未]]

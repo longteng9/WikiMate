@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=05|sn=8|four=33100|canj=EPH|ids=⿰氵必}}
+
+# to [[seep]] out, [[excrete]]
+
+====References====
+* {{Han ref|kx=0615.180|dkj=17279|dj=1009.140|hdz=31595.040|uh=6CCC|ud=27852|bh=AA63|bd=43619}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mì
+|c=bei3,bai3,bat1,bat6
+|mn=pì
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|內分泌|內分泌腺|分泌|分泌系統|外分泌腺|泌丘|泌乳|泌尿|泌尿器|泌尿外科|泌尿管|泌水|泌水孔|泌水樂飢|泌瀄|溢泌|腸泌素}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水05}}
+
+# {{defn|lang=ja|sort=水05}}
+
+====Readings====
+* {{ja-readings|on=[[ひつ]] (hitsu), [[ひ]] (hi)|kun=[[ながれる]] (nagareru), [[にじむ]] (nijimu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[필]], [[비]]|eumhun=|rv=pil, bi|mr=p'il, pi|y=phil, pi}}
+
+# {{defn|lang=ko|sort=水05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tiết]], [[tất]]|rs=水05}}
+
+# {{defn|lang=vi|sort=水05}}
+
+[[fr:泌]]
+[[ko:泌]]
+[[hu:泌]]
+[[mg:泌]]
+[[ja:泌]]
+[[no:泌]]
+[[pl:泌]]
+[[th:泌]]
+[[zh:泌]]

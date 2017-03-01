@@ -1,0 +1,42 @@
+==Japanese==
+{{ja-kanjitab|に|ころ|ふな|k2=ごろ|k3=ぶな|yomi=k|r=y}}
+[[File:Carassius_auratus_grandoculis_by_OpenCage.jpg|thumb|250px|{{lang|ja|ニゴロブナ}}]]
+
+===Etymology===
+Originally a compound of {{compound|lang=ja|sort=にごろぶな|似る|alt1=似|tr1=ni|t1=resembles|源五郎鮒|alt2=五郎鮒|tr2=gorōbuna}}, short for {{l|ja|源五郎鮒}}.
+
+Variously spelled in kanji as {{l|ja|煮頃鮒}} or {{l|ja|似五郎鮒}}. The {{lang|ja|煮頃}} spelling for ''nigoro'' is likely [[ateji]]. Meanwhile, the {{lang|ja|似五郎鮒}} spelling points to the likely derivation: this spelling parses out to "resembling (gen)gorō-buna", and as the ''nigorobuna'' grows to sizes of 30cm or longer, it begins to resemble the {{l|ja|源五郎鮒}} ({{l|ja|ゲンゴロウブナ}}, ''gengorōbuna''), a closely related species also endemic to the lake.
+
+Like many [[biology]] terms, this word is often spelled in katakana, as {{l|ja|ニゴロブナ}}. When written in [[kanji]], the {{lang|ja|煮頃鮒}} spelling is more common.
+
+===Pronunciation===
+* {{ja-pron|yomi=k|にごろぶな|acc=4|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|にごろぶな|ニゴロブナ}}
+
+# [[nigorobuna]] (''[[Carassius auratus grandoculis]]''), a type of {{m|ja|鮒|tr=funa||[[crucian carp]]}}, an [[edible]] freshwater ray-finned fish related to [[carp]] and [[goldfish]], endemic to [[Lake Biwa]] in Japan
+
+===References===
+<references/>
+:* {{quote-book
+|last=Hitomi, d. 1701
+|first=Hitsudai
+|editor=Hatsuko Yoshii & Shimada Isao
+|title={{lang|ja|本朝食鑑}} (Honchō Shokkan)
+|vol=5
+|publisher=Heibonsha
+|year=1981
+|url=http://books.google.co.jp/books?id=Z5pIAAAAMAAJ
+|format=snippet
+|pages=267
+|passage=又此魚ノ大ナルモノ、一尺二三寸位ナルモノハ源五郎鮒二似タリテ、故ニ似五郎ト呼ブト云フ説ヲ優レリトス
+|language=Japanese
+|asin=B000J80JPO
+}}
+
+===External links===
+* {{pedia|lang=ja}}
+* {{pedia|Carassius auratus grandoculis}}
+
+[[Category:ja:Cyprinids|にごろぶな]]

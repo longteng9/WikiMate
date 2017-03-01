@@ -1,0 +1,154 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=08|sn=12|four=60906|canj=AYRF|ids=⿱日京}}
+
+====Derived characters====
+* [[影]]
+
+====References====
+* {{Han ref|kx=0496.300|dkj=13983|dj=0862.130|hdz=21520.030|uh=666F|ud=26223|bh=B4BA|bd=46266}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|日|京|ls=psc|c1=s|c2=p|t1=sun}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jǐng
+|c=ging2
+|h=pfs=kín
+|md=gīng
+|mn=kéng
+|w=2jin
+|mc=y
+|oc=y
+|cat=n,v,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[scenery]]; [[view]]
+# [[conditions]]; [[situation]]
+# [[scene]]; [[setting]]; [[scenario]]
+# to [[admire]]; to [[appreciate]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|景點|景觀|景況|景慕|景片|景頗族|景氣|景區|景色|景深|景勝|景泰藍|景天|景物|景象|景仰|景緻|景洪|一景兒|不景氣|中景|中近景|人文景觀|何景明|佳景|侯景|侯景之亂|係風捕景|倒景|光景|內景|全景|全景電影|出外景|出景|前景|勝景|即景|即景會心|即景生情|反景|取景|和景|地理景觀|場景|外景|夜景|大殺風景|大煞風景|大遠景|奇景|好景|好景不常|好景不長|媚景|家景|實景|寫景|對景|對景傷情|布景|年景|幻景|形景|後景|急景|急景凋年|急景流年|情景|情景交融|應景|戢景|拍外景|搭景|文景之治|春和景明|春景|晚景|景光|景命|景員|景山|景岳全書|景差|景從|景從雲合|景從雲集|景德鎮|景教|景星|景星勛章|景星慶雲|景氣循環|景氣變動|景泰|景福|景致|景行|景迂生集|景遇|景運|景陽宮井|景陽崗|景雲|景風|暇景|暮景|暮景桑榆|暮景殘光|桑榆晚景|桑榆暮景|桑榆末景|殺風景|比景|流景|淑景|滅景|漢景帝|瀟湘八景|煙景|煞風景|生情見景|異景|盆景|看景生情|睹景傷情|秋景|絕景|繫風捕景|美景|美景良辰|老景|背景|背景輻射|背景音樂|自然景觀|良宵美景|良時美景|良辰媚景|良辰美景|莫景|蜃景|行景|補景|襯景|西洋景|見景生情|觸景傷情|觸景傷懷|觸景生情|觸景生懷|許景澄|躡景|躡景追飛|近景|返景|迷你盆景|過景|遠景|郭景純|配景|長繩繫景|陶弘景|陽景|霽景|靈景|風景|風景區|風景畫|高山景行|點景}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=日08}}
+
+# {{defn|lang=ja|sort=日08}}
+
+====Readings====
+* {{ja-readings|goon=[[きょう]] (kyō) {{non-joyo-reading}}, [[よう]] (yō) {{non-joyo-reading}}|kanon=[[えい]] (ei) {{non-joyo-reading}}, [[けい]] (kei)|kun=[[けしき]] (keshiki), [[かげ]] (kage)}}
+
+====Compounds====
+{{der-top3|Compounds for 景}}
+Common
+* {{m|ja|景品|tr=keihin}}
+* {{m|ja|景観|tr=keikan}}
+* {{m|ja|景気|tr=keiki}}
+* {{m|ja|景色|tr=keshiki}}
+* {{m|ja|景勝|tr=keishō}}
+* {{m|ja|風景|tr=fūkei}}
+* {{m|ja|背景|tr=haikei}}
+* {{m|ja|情景|tr=jōkei}}
+* {{m|ja|光景|tr=kōkei}}
+* {{m|ja|夜景|tr=yakei}}
+
+Uncommon
+* {{m|ja|景物|tr=keibutsu}}
+* {{m|ja|景況|tr=keikyō}}
+* {{m|ja|美景|tr=bikei}}
+* {{m|ja|盆景|tr=bonkei}}
+* {{m|ja|遠景|tr=enkei}}
+
+{{der-mid3}}
+Uncommon (continued)
+* {{m|ja|八景|tr=hakkei}}
+* {{m|ja|百景|tr=hyakkei}}
+* {{m|ja|実景|tr=jikkei}}
+* {{m|ja|叙景|tr=jokei}}
+* {{m|ja|海景|tr=kaikei}}
+* {{m|ja|近景|tr=kinkei}}
+* {{m|ja|後景|tr=kōkei}}
+* {{m|ja|三景|tr=sankei}}
+* {{m|ja|借景|tr=shakkei}}
+* {{m|ja|小景|tr=shōkei}}
+* {{m|ja|点景|tr=tenkei}}
+* {{m|ja|添景|tr=tenkei}}
+* {{m|ja|夕景|tr=yūkei}}
+* {{m|ja|絶景|tr=zekkei}}
+* {{m|ja|前景|tr=zenkei}}
+* {{m|ja|全景|tr=zenkei}}
+
+{{der-mid3}}
+Uncommon (continued)
+* {{m|ja|天下の景|tr=tenka no kei}}
+
+Rare / Archaic
+* {{m|ja|景仰|tr=keikō/keigyō}}
+* {{m|ja|景教|tr=keikyō}}
+* {{m|ja|景趣|tr=keishu}}
+* {{m|ja|景雲|tr=keiun}}
+* {{m|ja|晩景|tr=bankei}}
+* {{m|ja|中景|tr=chūkei}}
+* {{m|ja|佳景|tr=kakei}}
+* {{m|ja|雪景|tr=sekkei}}
+* {{m|ja|勝景|tr=shōkei}}
+* {{m|ja|庭景|tr=teikei}}
+* {{m|ja|雲景|tr=unkei}}
+* {{m|ja|幽景|tr=yūkei}}
+* {{m|ja|淑景舎|tr=shigeisa/shigeisha}}
+{{der-bottom}}
+
+===Noun===
+{{ja-noun|けい}}
+
+# [[vista]], [[view]], [[scene]]
+# counter for scenes (in a play)
+
+{{ja-noun|かげ}}
+# {{alternative form of|影|lang=ja}}
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[경]], [[영]]|eumhun=|rv=gyeong, yeong|mr=kyŏng, yŏng|y=kyeng, yeng}}
+
+# {{defn|lang=ko|sort=日08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cảnh]], [[ảnh]], [[khảnh]], [[kiểng]], [[ngoảnh]], [[kẻng]], [[ngảnh]]|rs=日08}}
+
+# {{defn|lang=vi|sort=日08}}
+
+[[fr:景]]
+[[ko:景]]
+[[hu:景]]
+[[mg:景]]
+[[ja:景]]
+[[no:景]]
+[[pl:景]]
+[[th:景]]
+[[uk:景]]
+[[zh:景]]

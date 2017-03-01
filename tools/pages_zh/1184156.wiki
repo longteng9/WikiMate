@@ -1,0 +1,32 @@
+==Japanese==
+{{ja-kanjitab|にゅう|しょく|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|にゅうしょく|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|にゅうしょく}}
+
+# [[settlement]]
+#* {{RQ:Obama enzetsu}}
+#*: {{ja-usex|イスラエルの'''入植'''活動は続いている。|イスラエル の '''にゅうしょく''' かつどう は つづいて いる。|Israeli settlement activity continues.}}
+# [[immigration]]
+
+====Compounds====
+* {{l/ja|入植者}}
+
+===Verb===
+{{ja-verb-suru|にゅうしょく}}
+
+# [[settle]]
+# [[immigrate]]
+
+====Conjugation====
+{{ja-suru|にゅうしょく}}
+
+===References===
+<references/>
+
+[[mg:入植]]
+[[chr:入植]]
+[[zh:入植]]

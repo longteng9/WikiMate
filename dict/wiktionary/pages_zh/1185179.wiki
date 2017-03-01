@@ -1,0 +1,68 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|にゅう|せん}}
+Probably from {{etyl|ltc|ja|sort=にゅうせん}} compound {{m|ltc|入船|tr=nyip zywen|lit=entering ship}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|にゅうせん|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|にゅうせん}}
+
+# the [[arrival]] in [[port]] or [[harbor]] of a [[boat]] or [[ship]]
+# a [[boat]] or [[ship]] that is coming into [[port]] or [[harbor]]
+
+=====Antonyms=====
+* {{ja-r|出船|しゅっせん}}: the [[departure]] from [[port]] or [[harbor]] of a [[boat]] or [[ship]]; a boat or ship departing port or harbor
+
+====Verb====
+{{ja-verb-suru|にゅうせん}}
+
+# {{qualifier|said of a boat or ship}} to [[arrive]] at a [[port]] or [[harbor]]
+
+=====Conjugation=====
+{{ja-suru|にゅうせん}}
+
+=====Antonyms=====
+* {{ja-r|出船|しゅっせん}}: {{qualifier|said of a boat or ship}} to [[leave]] a [[port]] or [[harbor]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|いり|ふね}}
+Compound of {{compound|lang=ja|sort=いりふね|入り|tr1=iri|t1=entry, entering|pos1=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{ja-l|入る}} ''hairu'' “to enter”|船|tr2=fune|t2=boat or ship}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=kun|いりふね|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|いりふね}}
+
+# the [[arrival]] in [[port]] or [[harbor]] of a [[boat]] or [[ship]]
+# a [[boat]] or [[ship]] that is coming into [[port]] or [[harbor]]
+# {{lb|ja|sort=いりふね|slang|archaic}} the act of [[going]] to [[have fun]] in a [[red-light district]]
+
+=====Antonyms=====
+* {{ja-r|出船|でふね}}: the [[departure]] [[boat]] or [[ship]]; a boat or ship departing port or harbor
+
+====Proper noun====
+{{ja-pos|proper|いりふね}}
+
+# {{surname|lang=ja|sort=いりふね}}
+
+====Verb====
+{{ja-verb-suru|いりふね}}
+
+# {{qualifier|said of a boat or ship}} to [[arrive]] at a [[port]] or [[harbor]]
+# {{lb|ja|sort=いりふね|slang|archaic}} to [[go]] to [[have fun]] in a [[red-light district]]
+
+=====Conjugation=====
+{{ja-suru|いりふね}}
+
+=====Antonyms=====
+* {{ja-r|出船|でふね}}: {{qualifier|said of a boat or ship}} to [[leave]] a [[port]] or [[harbor]]
+
+===References===
+<references/>
+
+[[mg:入船]]
+[[zh:入船]]

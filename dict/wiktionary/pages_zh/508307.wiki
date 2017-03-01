@@ -1,0 +1,34 @@
+==Japanese==
+{{ja-kanjitab|さい|じょう|きゅう|yomi=on}}
+
+===Etymology===
+{{prefix|最|上級|lang=ja|t1=most|t2=upper class|sort=しょうきゅう'}}
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[sa̠.i.d͡ʑɯᵝː.kjɯᵝː]}}
+* {{ja-accent-common|n|サ|イジョ|ーキュー}}<ref>{{R:NHK Hatsuon}}</ref>
+
+===Noun===
+{{ja-noun|さいじょうきゅう}}
+
+# [[luxury]]
+# {{lb|ja|grammar}} [[superlative]]
+
+====Derived terms====
+* {{ja-r|最上級生|さいじょうきゅうせい}} senior (at school)
+
+====See also====
+* {{ja-r|比較級|ひかくきゅう}}: {{qualifier|grammar}} [[comparative]]
+
+===References===
+<references/>
+
+[[Category:ja:Grammar|さいじょうきゅう]]
+
+[[ko:最上級]]
+[[it:最上級]]
+[[lt:最上級]]
+[[hu:最上級]]
+[[mg:最上級]]
+[[ja:最上級]]

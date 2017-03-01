@@ -1,0 +1,76 @@
+{{also|通过}}
+==Chinese==
+{{zh-forms|s=通过}}
+
+===Pronunciation===
+{{zh-pron
+|m=tōngguò
+|c=tung1 gwo3
+|h=pfs=thûng-ko
+|mn=qz:thong-kèr/tp,xm:thong-kè/kh,zz:thong-kòe
+|cat=prep,v
+}}
+
+===Preposition===
+{{zh-prep}}
+
+# [[via]]; by means of
+
+===Verb===
+{{zh-verb}}
+
+# to pass (a measure or bill in parliament)
+# to pass by; to pass through
+# to pass (a test)
+#: {{zh-x|通過 測驗|to pass a test}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|つう|か|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|つうか|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|つうか}}
+
+# [[passage]] through an object
+# passage of a [[test]] in school
+# passage of a [[bill]]
+# passage through a [[screening]]
+
+====Synonyms====
+* {{sense|passage through}} {{ja-r|通行|つうこう}}, {{ja-r|通る|とおる}}
+* {{sense|passage of a test}} {{ja-r|合格|ごうかく}}, {{ja-r|通る|とおる}}
+* {{sense|passage of a bill}} {{ja-r|可決|かけつ}}, {{ja-r|通る|とおる}}
+* {{sense|passage through a screening}} {{ja-r|通る|とおる}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|つうか}}
+
+# [[pass]] through something
+# pass a test
+# pass a bill
+# pass a screening
+
+====Conjugation====
+{{ja-suru|つうか}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=통과}}
+
+# {{hanja form of|통과|[[passage]]}}
+
+[[ko:通過]]
+[[hu:通過]]
+[[mg:通過]]
+[[chr:通過]]
+[[zh:通過]]

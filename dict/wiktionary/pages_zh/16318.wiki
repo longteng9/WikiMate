@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|撅}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=08|sn=11|four=57072|canj=QSUU|ids=⿰扌屈}}
+
+# [[dig]], [[excavate]]
+# excavate a [[cave]]
+
+====References====
+* {{Han ref|kx=0438.020|dkj=12264|dj=0787.100|hdz=31909.020|uh=6398|ud=25496|bh=B1B8|bd=45496}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jué
+|c=gwat6
+|h=pfs=
+|md=
+|mn=ku̍t
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=手08}}
+
+# {{defn|lang=ja|sort=手08}}
+
+====Readings====
+* {{ja-readings|goon=[[ごち]] (gochi)|kanon=[[くつ]] (kutsu), [[けつ]] (ketsu)|kun=[[ほる]] (horu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[굴]], [[궐]]|eumhun=|rv=gul, gwol|mr=kul, kwŏl|y=kwul, kwel}}
+
+# {{defn|lang=ko|sort=手08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quật]], [[oặt]], [[quặt]], [[quất]], [[quịt]], [[quát]], [[quạt]]|rs=手08}}
+
+# {{defn|lang=vi|sort=手08}}
+
+[[zh-min-nan:掘]]
+[[fr:掘]]
+[[ko:掘]]
+[[hu:掘]]
+[[mg:掘]]
+[[ja:掘]]
+[[no:掘]]
+[[pl:掘]]
+[[th:掘]]
+[[chr:掘]]
+[[zh:掘]]

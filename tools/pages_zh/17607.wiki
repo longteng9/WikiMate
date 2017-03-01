@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=07|sn=11|four=42947|canj=DBND|ids=⿰木孚}}
+
+====References====
+* {{Han ref|kx=0527.060|dkj=14807|dj=0915.250|hdz=21217.080|uh=6874|ud=26740|bh=D5BE|bd=54718}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fú
+|c=fu1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[raft]]
+# [[drum stick]]
+# [[ridgepole]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木07}}
+
+# {{defn|lang=ja|sort=木07}}
+
+====Readings====
+* {{ja-readings|on=[[ふ]] (fu)|kun=[[ばち]] (bachi), [[いかだ]] (ikada)}}
+
+===Noun===
+{{ja-noun|ばち}}
+
+# A [[drum stick]].
+## A [[drum stick]] purposed for playing [[taiko]] [[drum|drums]].
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=부|eumhun=|rv=bu|mr=pu|y=pu}}
+
+# {{defn|lang=ko|sort=木07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木07|hanviet=phù}}
+
+# {{defn|lang=vi|sort=木07}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6874 Nom Foundation]
+
+[[fr:桴]]
+[[ko:桴]]
+[[hu:桴]]
+[[mg:桴]]
+[[ja:桴]]
+[[pl:桴]]
+[[th:桴]]
+[[zh:桴]]

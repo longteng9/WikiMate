@@ -1,0 +1,60 @@
+{{also|报偿}}
+==Chinese==
+{{zh-forms|s=报偿}}
+
+===Pronunciation===
+{{zh-pron
+|m=bàocháng
+|mn=pò-siông
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[compensation]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[repay]]; to [[recompense]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほう|しょう|yomi=on}}
+
+===Pronunciation===
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|/ho.o.sjo.o/|[ho̞ːɕʲo̞ː]}}
+
+===Noun===
+{{ja-noun|ほうしょう}}
+
+# [[compensation]] or [[reparation]] for [[harm]] or [[loss]]
+#: {{ja-usex|戦争の損害に対して'''報償'''を支払う|せんそう の そんがい に たいして '''ほうしょう''' を しはらう|to pay '''reparations''' for losses due to war}}
+# [[compensation]], [[remuneration]], or [[recompense]] in [[return]] for something
+#: {{ja-usex|苦労に対して'''報償'''を行う|くろう に たいして '''ほうしょう''' を おこなう|to give '''recompense''' for hard work}}
+
+====Synonyms====
+* {{sense|reparations}} {{ja-r|賠償|ばいしょう}}
+
+===Verb===
+{{ja-verb-suru|ほうしょう}}
+
+# to [[compensate]], to [[pay]] [[reparation]]s for [[harm]] or [[loss]]
+# to [[compensate]], to [[remunerate]], to [[recompense]] in [[return]] for something
+
+====Conjugation====
+{{ja-suru|ほうしょう}}
+
+====Synonyms====
+* {{sense|to make reparations}} {{ja-r|賠償|ばいしょう}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:報償]]
+[[mg:報償]]
+[[ja:報償]]
+[[zh:報償]]

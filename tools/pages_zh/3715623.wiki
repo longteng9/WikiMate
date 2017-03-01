@@ -1,0 +1,34 @@
+==Japanese==
+{{ja-kanjitab|ふつ|ま|yomi=o}}
+
+===Etymology===
+{{unk.|lang=ja|sort=ふつま}}. Probably coined in Japan of {{cog|zhx}} elements, as a compound of {{compound|lang=ja|sort=ふつま|祓|tr1=futsu|t1=cleanse, remove evil|魔|tr2=ma|t2=devil, demon}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[ɸɯᵝt͡sɯᵝma̠]}}
+
+===Noun===
+{{ja-noun|ふつま}}
+
+# {{lb|ja|sort=ふつま|Christianity|rare}} [[exorcism]]
+
+====Derived terms====
+* {{ja-l|祓魔師|ふつまし|futsumashi}}: an [[exorcist]]
+* {{ja-l|祓魔術|ふつまじゅつ|futusmajutsu}}: [[exorcism]] {{qualifier|the technique}}
+
+====Synonyms====
+* {{ja-l|エクソシスム||ekusoshisumu}}
+* {{ja-l|悪魔払い}}, {{ja-l|悪魔祓い|あくまばらい|akumabarai}} {{qualifier|not limited to Christianity}}
+
+===Verb===
+{{ja-verb-suru|ふつま}}
+
+# {{lb|ja|sort=ふつま|Christianity|rare}} to [[exorcise]]
+
+====Conjugation====
+{{ja-suru|ふつま}}
+
+====Synonyms====
+* {{ja-l|エクソシスム||ekusoshisumu}}
+* {{ja-l|悪魔払い}}, {{ja-l|悪魔祓い|あくまばらい|akumabarai}} {{qualifier|not limited to Christianity}}

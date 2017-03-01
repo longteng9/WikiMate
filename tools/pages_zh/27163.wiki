@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|谑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=10|sn=17|four=01614|canj=YRYPM}}
+
+# [[jeer]]
+
+====References====
+* {{Han ref|kx=1175.090|dkj=35810|dj=1639.260|hdz=63996.130|uh=8B14|ud=35604|bh=EBA6|bd=60326}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谑}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=謔
+|c=joek6
+|h=pfs=
+|md=
+|mn=gio̍h
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言10}}
+
+# {{defn|lang=ja|sort=言10}}
+
+====Readings====
+* {{ja-readings|goon=[[かく]] (kaku)|kanon=[[きゃく]] (kyaku)|kanyoon=[[ぎゃく]] (gyaku)|kun=[[たわむれる]] (tawamureru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=학|eumhun=|rv=hak|mr=hak|y=hak}}
+
+# {{defn|lang=ko|sort=言10}}
+
+[[fr:謔]]
+[[hu:謔]]
+[[ja:謔]]
+[[pl:謔]]
+[[th:謔]]
+[[zh:謔]]

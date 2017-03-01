@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|宜}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=14|rad=冖|as=05|sn=7|four=|canj=BBM,XBBM|ids=⿱冖且}}
+
+# [[suitable]], [[right]], [[fitting]], [[proper]]
+
+====Derived characters====
+* [[疊]] ([[畳]], [[叠]])
+
+====References====
+* {{Han ref|kx=0130.191|dj=0292.230|hdz=10303.120|uh=519D|ud=20893}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yí
+|c=ji4
+|mc=
+|oc=
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 69]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=冖05}}
+
+# {{defn|lang=ja|sort=冖05}}
+
+====Readings====
+* {{ja-readings|on=[[ぎ]] (gi)|kun=[[よろしい]] (yoroshii)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=의|rv=ui|mr=ŭi|y=uy}}
+
+# {{defn|lang=ko|sort=冖05}}
+
+[[fr:冝]]
+[[ko:冝]]
+[[hu:冝]]
+[[pl:冝]]
+[[th:冝]]
+[[zh:冝]]

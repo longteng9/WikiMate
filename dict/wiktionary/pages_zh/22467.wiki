@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=10|sn=15|four=23932|canj=HDJMO|ids=⿰禾家}}
+
+# sow grain
+# sheaves of grain
+
+====References====
+* {{Han ref|kx=0857.300|dkj=25217|dj=1283.100|hdz=42626.080|uh=7A3C|ud=31292|bh=BD5B|bd=48475}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jià
+|c=gaa3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不稼不穡|禾稼|秋莊稼|種莊稼|稼穡|稼穡艱難|稼軒|耕稼|莊稼|莊稼人|莊稼地|莊稼活兒|莊稼漢|躬稼}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=禾10}}
+
+# {{defn|lang=ja|sort=禾10}}
+
+====Readings====
+* {{ja-readings|goon=[[け]] (ke)|kanon=[[か]] (ka)|kun=[[みのり]] (minori), [[うえる]] (ueru), [[かせぐ]] (kasegu)|nanori=}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|稼業|かぎょう}}
+{{mid3}}
+* {{ja-r|稼動|かどう}}
+{{mid3}}
+* {{ja-r|稼働|かどう}}
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=가|eumhun=|rv=ga|mr=ka|y=ka}}
+
+# {{defn|lang=ko|sort=禾10}}
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[giá]], [[cấy]]|rs=禾10}}
+
+# {{defn|lang=vi}}
+
+[[fr:稼]]
+[[ko:稼]]
+[[hu:稼]]
+[[mg:稼]]
+[[ja:稼]]
+[[no:稼]]
+[[pl:稼]]
+[[th:稼]]
+[[zh:稼]]

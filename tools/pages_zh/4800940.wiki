@@ -1,0 +1,38 @@
+{{also|过敏症}}
+==Chinese==
+{{zh-forms|s=过敏症|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=guòmǐnzhèng
+|c=gwo3 man5 zing1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[hypersensitivity]]
+
+{{zh-cat|Pathology}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|か|びん|しょう|yomi=o}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=かびんしょう|過敏|tr1=kabin|t1=hypersensitive|症|tr2=shō|t2=disorder, illness}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|かびんしょう|acc=0|acc_ref=DJR|acc2=2|acc2_ref=DJR}}
+
+===Noun===
+{{ja-noun|かびんしょう}}
+
+# [[hypersensitivity]], an [[allergy]]
+
+===References===
+<references/>
+
+[[ko:過敏症]]

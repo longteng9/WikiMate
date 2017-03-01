@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|库|厙}}
+==Translingual==
+{{zh-forms|s=库}}
+
+===Han character===
+{{Han char|rn=53|rad=广|as=07|sn=10|four=00256|canj=IJWJ|ids=⿸广車}}
+
+# [[armory]], [[treasury]], [[storehouse]]
+
+====References====
+* {{Han ref|kx=0346.140|dkj=09330|dj=0656.110|hdz=20884.100|uh=5EAB|ud=24235|bh=AE77|bd=44663}}
+
+----
+
+==Chinese==
+{{zh-forms|s=库}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kù
+|c=fu3
+|h=pfs=
+|md=
+|mn=khò͘
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[warehouse]], [[storehouse]], (file) [[library]]
+
+====Compounds====
+{{zh-der|庫車|公庫|冷藏庫|國庫券|土庫|入庫|冷庫|寺庫|四行倉庫|庫平|庫大使|倉庫|庫緞|庫穆塔格|國庫|人才庫|思想庫|備安庫|庫券|庫銀|庫里爾臺|庫房|庫吏|庫司|庫勒山|庫兵|庫倫|庫侖定律|府庫|庫部|巴庫|庫侖|哈拉庫圖|寶庫|土庫曼|庫頁島|庫狄|庫藏|冷藏倉庫|庫存|庫爾河|合作金庫|四庫全書|四庫|吉爾庫克|內庫|德基水庫|油庫|盤庫|正庫|書庫|水庫|燒箱庫|文庫|皮解庫|曾文水庫|石門水庫|眼庫|白河水庫|火藥庫|武庫|樓庫|管庫|質庫|解典庫|零庫存|車庫|行庫|題庫|血庫|銀庫|資料庫|雅庫次克|長生庫|金庫|語料庫|達見水庫|軍火庫|解庫|翡翠水庫|藩庫|腦庫}}
+
+====Descendants====
+* Mongolian {{l|mn|хүү}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=广07}}
+
+# warehouse
+
+====Readings====
+* {{ja-readings|goon=[[く]] (ku)|kanon=[[こ]] (ko)|kanyoon=[[く]] (ku)|kun=[[くら]] (kura)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|rv=go|mr=ko}}
+
+# {{defn|lang=ko|sort=广07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khố]], [[kho]], [[khó]]|rs=广07}}
+
+# {{defn|lang=vi|sort=广07}}
+
+[[fr:庫]]
+[[ko:庫]]
+[[hu:庫]]
+[[mg:庫]]
+[[ja:庫]]
+[[pl:庫]]
+[[ru:庫]]
+[[th:庫]]
+[[chr:庫]]
+[[zh:庫]]

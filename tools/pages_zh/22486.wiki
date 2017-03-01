@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|稣}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=11|sn=16|four=22394|canj=NFHD|ids=⿰魚禾}}
+
+# [[revive]], to [[rise]] [[again]]
+# [[collect]]
+
+====References====
+* {{Han ref|kx=0859.210|dkj=25263|dj=1285.030|hdz=42629.060|uh=7A4C|ud=31308|bh=BF71|bd=49009}}
+
+----
+
+==Chinese==
+{{zh-forms|s=稣}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|魚|禾}}.
+
+===Pronunciation===
+{{zh-pron
+|m=sū
+|c=sou1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|耶穌|耶穌教|耶穌基督|耶穌會}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=禾11}}
+
+# {{defn|lang=ja|sort=禾11}}
+
+====Readings====
+* {{ja-readings|on=[[そ]] (so)|kun=[[かきあつめる]] (kakiatsumeru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=소|eumhun=|rv=so|mr=so|y=so}}
+
+# {{defn|lang=ko|sort=禾11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=禾11| hanviet = [[tô]], [[to]]}}
+
+# {{defn|lang=vi|sort=禾11}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=7a4c Nom Foundation]
+
+[[fr:穌]]
+[[hu:穌]]
+[[pl:穌]]
+[[th:穌]]
+[[zh:穌]]

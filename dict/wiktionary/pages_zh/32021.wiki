@@ -1,0 +1,111 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=194|rad=鬼|as=05|sn=15|four=26613|canj=HAHUI|ids=⿰白鬼}}
+
+====References====
+* {{Han ref|kx=1461.280|dkj=45810|dj=1995.220|hdz=74431.090|uh=9B44|ud=39748|bh=BE7A|bd=48762}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+{{zh-wp|zh:魂魄|yue:魂魄|en:Hun and po}}
+
+===Pronunciation===
+{{zh-pron
+|m=pò
+|c=bok3,paak3,tok3
+|mn=qz:phiak/tw,xm,zz:phek
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|religion|folklore}} {{w|Hun and po|po}}, the [[soul]] which does not leave the [[body]] after [[death]], compared to [[魂|hun]] which does.
+# [[soul]]; [[spirit]]
+# [[vigor]]
+# [[body]]
+# [[dark]] [[part]] of the [[moon]]
+
+====See also====
+* {{zh-l|魂}}
+
+===Compounds===
+{{zh-der|復魄|奪魄|形魄|哉生魄|七魄|喪魂落魄|動魄|冰魂雪魄|剩魄殘魂|天奪之魄|怵魄動心|動人心魄|失魂落魄|失神落魄|七魄三魂|兔魄|少魂失魄|亡魂失魄|三魂七魄|始生魄|失魂喪魄|亡魂喪魄|丹魄|勾魂攝魄|動魄驚心|氣魄|窮途落魄|攝魄鉤魂|皓魄|瑩魄|懾人心魄|桂魄|旁魄|欺魄|既死魄|既生魄|旁死魄|朏魄|月魄|魄力|魂飄魄散|魂魄|褫魄|魄散魂飛|迷魂奪魄|追魂攝魄|落魄不羈|魄散九霄|魄動|魂飛魄喪|落魄|非凡氣魄|雨魄雲魂|魂銷魄散|銷魂奪魄|蟾魄|驚心動魄|陰魄|魂飛魄散|體魄}}
+
+{{zh-cat|Death}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鬼05}}
+
+# a [[soul]]
+
+====Readings====
+* {{ja-readings|kanon=[[はく]] (haku), [[たく]] (taku)|goon=[[ひゃく]] (hyaku), [[たく]] (taku)|on=[[ばく]] (baku)|kun=[[たましい]] (tamashii)}}
+
+===Etymology 1===
+{{ja-kanjitab|たま|yomi=k}}
+Perhaps from {{m|ja|玉|tr=tama||[[jewel]]}}
+
+====Noun====
+{{ja-noun|たま}}
+
+# {{alternative spelling of|魂|lang=ja}}
+
+===Etymology 2===
+{{ja-kanjitab|はく|yomi=o}}
+{{wikipedia|lang=ja|魂魄}}
+From {{der|ja|sort=はく|ltc|魄|tr=phæk}}
+
+====Pronunciation====
+{{ja-pron|acc=a|y=ko|はく}}
+
+====Noun====
+{{ja-noun|はく}}
+
+# {{lb|ja|religion|folklore|sort=はく}} {{w|Hun and po|po}} (haku), the [[soul]] which does not leave the [[body]] after [[death]], compared to [[魂|hun]] (kon) which does.
+#* {{quote-book|genre=fiction||{{w|Rumiko Takahashi}}|{{w|犬夜叉|{{ruby|{{lang|ja|[犬](いぬ)[夜](や)[叉](しゃ)}}}}|lang=ja}}|trans-title={{w|InuYasha}}|location=Tokyo|publisher=Shogakukan|date=June 15 2004|isbn=4-09-126665-7|volume=35|chapter={{ruby|{{lang|ja|[試](し)[作](さく)}}}}|trans-chapter=Prototypes|language=Japanese||8|{{ja-usex|魂は心…つまり魂だ。そして'''魄'''は体を動かす力…|^こん は こころ… ^つまり たましい だ。^そして '''はく''' は からだ を うごかす ちから…|Kon is the heart… in other words, the soul. And '''haku''' is the force that moves the body…}}{{ja-usex|'''魄'''ってやつがあれば、魂のない死%骸でも動くんだな。|'''はく'''って やつ が あれ ば、たましい の ない し%がい でも うごくんだ な。|As long as it has this '''haku''' thing, even a soulless corpse can move.}}
+}}
+
+=====Derived terms=====
+* {{ja-r|魂魄|こんぱく}}
+
+[[Category:ja:Death|はく]]
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=백|rv=baek|mr=paek|y=payk}}
+
+# {{defn|lang=ko|sort=鬼05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=鬼05| hanviet = phách}}
+
+# {{defn|lang=vi|sort=鬼05}}
+
+[[zh-min-nan:魄]]
+[[es:魄]]
+[[fr:魄]]
+[[ko:魄]]
+[[hu:魄]]
+[[mg:魄]]
+[[ja:魄]]
+[[no:魄]]
+[[pl:魄]]
+[[th:魄]]
+[[vi:魄]]
+[[zh:魄]]

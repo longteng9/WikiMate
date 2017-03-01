@@ -1,0 +1,85 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=13|sn=21|four=81132|canj=CYPO}}
+
+# [[drumstick]]
+
+====References====
+* {{Han ref|kx=1324.120|dkj=40957|dj=1825.110|hdz=64262.160|uh=943B|ud=37947|bh=F65F|bd=63071}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=jù
+|c=geoi3
+|mc=
+|oc=
+|cat=
+}}
+{{attention|zh|distribute mc/oc}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=
+|c=keoi4
+|mc=
+|oc=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Etymology 3===
+{{zh-see|虡|v}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金13}}
+
+# {{defn|lang=ja|sort=金13}}
+
+====Readings====
+* {{ja-readings|on=[[きょ]] (kyo), [[ご]] (go), [[こ]] (ko)|kun=[[かねかけ]] (kanekake)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|gánh cứa|rs=金13}}
+
+# {{defn|lang=vi|sort=金13}}
+
+[[fr:鐻]]
+[[hu:鐻]]
+[[mg:鐻]]
+[[pl:鐻]]
+[[th:鐻]]
+[[zh:鐻]]

@@ -1,0 +1,93 @@
+{{character info/new}}
+{{also|伪|僞}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=09|sn=11|four=22227|canj=OIKF|ids=⿰亻為}}
+
+====References====
+* {{Han ref|kx=0112.071|dkj=00927|hdz=10195.040|uh=507D|ud=20605|bh=B0B0|bd=45232}}
+
+----
+
+==Chinese==
+{{zh-forms|s=伪|t2=僞}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|亻|為|t1=man|t2=to make|ls=psc|c1=s|c2=p}}, originally “artificial”.
+
+===Pronunciation===
+{{zh-pron
+|m=偽
+|c=ngai6
+|h=pfs=ngúi
+|mn=gūi/qz:ûi/xm,zz:ūi
+|mn_note=gūi - literary; ûi/ūi - vernacular (俗)
+|w=3hhue
+|mc=y
+|oc=y
+|cat=a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[false]]; [[counterfeit]]; [[bogus]]; [[fake]]
+#: {{zh-x|虛偽|hypocritical; hypocrisy}}
+#: {{zh-x|偽造|to forge; to counterfeit}}
+#: {{zh-x|偽鈔|counterfeit banknote}}
+#: {{zh-x|偽政權|puppet government}}
+# [[falsehood]]; [[untruthfulness]]
+# [[illegal]]; [[illegitimate]]
+# [[pseudo-]]
+#:{{zh-x|偽麻黃鹼|pseudoephedrine}}
+
+===Compounds===
+{{zh-der|偽鈔|偽軍|偽君子|偽劣|偽麻黃鹼|偽善|偽飾|偽書|偽託|偽造|偽證|偽政府|偽譔|偽裝|偽足|偽作|虛偽|乘偽行詐|作偽|偽品|偽國|偽幣|偽政權|偽本|偽滿洲國|偽組織|偽經|偽藥|偽裝滲透|偽造文書|別裁偽體|去偽存真|情偽|真偽|真偽莫辨|矯言偽行|矯飾偽行|詐偽|邪偽|飾偽}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=人09|style=s|kyu=僞}}
+
+# {{defn|lang=ja|sort=人09}}
+
+====Readings====
+{{ja-readings|goon=[[が]] (ga), [[ぎ]] (gi)|kanon=[[が]] (ga), [[ぎ]] (gi)|kanyoon=[[か]] (ka)|kun=[[いつわる]] (itsuwaru), [[にせ]] (nise), [[いつわり]] (itsuwari)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|偽薬|ぎやく}}: [[placebo]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=위|mr=wi}}
+
+# {{defn|lang=ko|sort=人09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nguỵ]]|rs=人09}}
+
+# {{defn|lang=vi|sort=人09}}
+
+[[fr:偽]]
+[[ko:偽]]
+[[hu:偽]]
+[[mg:偽]]
+[[ja:偽]]
+[[pl:偽]]
+[[sv:偽]]
+[[th:偽]]
+[[chr:偽]]
+[[zh:偽]]

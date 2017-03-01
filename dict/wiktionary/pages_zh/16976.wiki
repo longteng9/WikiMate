@@ -1,0 +1,96 @@
+{{character info/new}}
+{{also|咋}}
+==Translingual==
+{{stroke order|strokes=9}}
+
+===Han character===
+{{Han char|rn=72|rad=日|as=05|sn=9|four=68011|canj=AOS|ids=⿰日乍}}
+
+====References====
+* {{Han ref|kx=0493.140|dkj=13847|dj=0857.020|hdz=21502.020|uh=6628|ud=26152|bh=AC51|bd=44113}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuó
+|c=zok3,zok6
+|md=sŏ̤h
+|mn=qz,xm,zz:cho̍k/qz,tw,xm,zz:cho̍h/qz:chǎ/tw,xm,zz:chā
+|mn_note=cho̍k - literary; cho̍h/chǎ/chā - vernacular
+|w=5zoq,3zo
+|mc=y
+|oc=y
+|ma=
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[yesterday]]
+# in [[former]] [[time]]s, [[past]]
+
+===Compounds===
+{{zh-der|昨暝|昨昏|一昨|今是昨非|昨來|昨兒|昨前|昨夜|昨天|昨日|昨晚|昨非今是}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=日05}}
+
+# [[yesterday]]; last, past (day, week, month, year, etc.)
+
+====Readings====
+* {{ja-readings
+|goon=[[ざく]] (zaku) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[さく]] (saku)
+|kun=[[きのう]] (kinō)}}
+
+====Compounds====
+* [[昨日]] ([[きのう]], [[kinō]]): [[yesterday]]
+* [[昨週]] ([[さくしゅう]], [[sakushū]]): [[last week]]
+* [[昨月]] ([[さくげつ]], [[sakugetsu]]): [[last month]]
+* [[昨年]] ([[さくねん]], [[sakunen]]): [[last year]]
+* [[昨春]] ([[さくしゅん]], [[sakushun]]): [[last spring]]
+* [[昨夏]] ([[さくなつ]], [[sakunatsu]]): [[last summer]]
+* [[昨秋]] ([[さくしゅう]], [[sakushū]]): [[last autumn]]
+* [[昨冬]] ([[さくとう]], [[sakutō]]): [[last winter]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=작|eumhun=|rv=jak|mr=chak|y=cak}}
+
+# {{defn|lang=ko|sort=日05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|tạc|rs=日05}}
+
+# {{defn|lang=vi|sort=日05}}
+
+[[el:昨]]
+[[fr:昨]]
+[[ko:昨]]
+[[hu:昨]]
+[[mg:昨]]
+[[ja:昨]]
+[[no:昨]]
+[[pl:昨]]
+[[ru:昨]]
+[[th:昨]]
+[[zh:昨]]

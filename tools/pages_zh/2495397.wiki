@@ -1,0 +1,85 @@
+{{also|金刚}}
+==Chinese==
+{{zh-forms|s=金刚}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīngāng
+|c=gam1 gong1
+|h=pfs=kîm-kông
+|mn=kim-kong
+|cat=n,pn
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[diamond]]
+# {{lb|zh|figuratively}} an object that is extremely [[hard]] and [[strong]]
+# {{lb|zh|Buddhism}} [[vajra]]
+
+====Synonyms====
+* {{sense|diamond}} {{zh-l|金剛石}}, {{zh-l|鑽石}}
+
+====Derived terms====
+{{zh-der|金剛鸚鵡:[[macaw]]|丈二金剛|四大金剛|密跡金剛|沒那金剛鑽兒，也不攬那磁器傢伙|立地金剛|變形金剛|金剛不壞之身|金剛努目|金剛怒目|金剛猩猩|金剛界|金剛石|金剛砂|金剛經|金剛鑽|金剛鑽婚|金剛頂經}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# [[King Kong]] {{gloss|a fictional giant ape}}
+
+----
+
+==Japanese==
+{{rfc|lang=ja|General cleanup and formatting needed; see alsos needs pruning.}}
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Vajra}}
+[[Image:Vajra.jpg|thumb|240px|[[Sanskrit]]: {{m|sa|वज्र}}, [[Japanese]]: {{l|ja|金剛}} ({{l|ja|こんごう}}, ''kongō'')]]
+</div>
+{{ja-kanjitab|こん|ごう|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=こんごう}} compound {{m|zh|金剛|tr=kim kang|lit=metal + strong, hard}}. Compare modern {{etyl|yue|-}} reading ''gam<sup>1</sup> gong<sup>1</sup>''.
+
+===Pronunciation===
+{{ja-pron|yomi=on|acc=1|acc_ref=DJR|こんごう}}
+
+===Noun===
+{{ja-noun|こんごう|hhira=こんがう}}
+
+# [[Buddhist]] term of '''''[[vajra|Vajra]]''''', literally meaning both "'''''[[diamond|Diamond]]'''''" & "'''''[[thunderbolt|Thunderbolt]]'''''," referring to the symbolic nature of both that of a diamond, (in that it can cut any substance, but can not, itself, be cut,) and that of the thunderbolt, (an irresistible force)
+# the [[firmness]] of one's own [[spirit]], and the strength of one's own [[spiritual]] power
+# {{lb|ja|sort=こんごう|Buddhism}} short for {{ja-r|金剛杵|こんごうしょ}}: a [[vajra]], a [[dorje]]: a kind of double-headed [[scepter]] used in [[esoteric]] [[Buddhism]]
+# {{lb|ja|sort=こんごう|figuratively|literally}} something extremely hard, of extreme strength
+# short for {{ja-r|金剛石|こんごうせき}}: [[diamond]] as a [[mineral]] or [[gemstone]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|金剛鸚哥|こんごう いんこ}}: [[macaw]], specifically [[scarlet macaw]]
+* {{ja-r|金剛杵|こんごうしょ}}: a [[vajra]], a [[dorje]]: a kind of double-headed [[scepter]] used in [[esoteric]] [[Buddhism]]
+* {{ja-r|金剛石|こんごうせき}}: [[diamond]] {{qualifier|the mineral or gemstone}}
+* {{ja-r|金剛力|こんごうりき}}: [[adamantine]] [[strength]]
+{{der-bottom}}
+
+====See also====
+{{der-top|See also}}
+* {{ja-r|玉|たま}}: [[gemstone]], [[jewel]]
+* {{ja-r|宝石|ほうせき}}: [[gemstone]], [[precious]] [[stone]]
+* {{ja-r|晶|しょう}}: [[crystal]]
+* {{ja-r|水晶|すいしょう}}: crystal ([[quartz]])
+* {{ja-r|落雷|らくらい}}: a [[thunderbolt]], a [[lightning]] [[strike]]
+* {{ja-r|稲妻|いなずま}}: a [[lightning bolt]]
+* {{ja-r|雷電|らいでん}}: thunder and lightning
+* {{ja-r|雷鳴|らいめい}}: [[thunder]],
+* {{ja-r|雷神|らいじん}}: [[thunder]] [[god]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[ko:金剛]]
+[[ja:金剛]]
+[[zh:金剛]]

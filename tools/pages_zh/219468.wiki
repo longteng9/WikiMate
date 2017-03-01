@@ -1,0 +1,58 @@
+{{also|迁移}}
+==Chinese==
+{{zh-forms|s=迁移}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiānyí
+|c=cin1 ji4
+|mn=chhian-î
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[move]]; to [[migrate]] {{gloss|of people and animals}}
+
+===Noun===
+{{zh-noun}}
+
+# move; [[migration]] {{gloss|of people and animals}}
+
+====Synonyms====
+* {{zh-l|徒動}}
+* {{zh-l|遷徙}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せん|い|yomi=on}}
+
+===Noun===
+{{ja-noun|せんい}}
+
+# a [[transition]]
+
+====Compounds====
+* [[遷移元素]]
+* [[遷移金属]]
+* [[遷移エネルギー]]
+* [[遷移状態]]
+* [[画面遷移]]
+
+===Verb===
+{{ja-verb-suru|せんい}}
+
+# {{lb|ja|physics|chemistry|sort=せんい}} [[transit]], undergo [[transition]], such as phase transition
+
+====Conjugation====
+{{ja-suru|せんい}}
+
+===References===
+* {{R:Kojien}}
+
+[[ko:遷移]]
+[[hu:遷移]]
+[[mg:遷移]]
+[[zh:遷移]]

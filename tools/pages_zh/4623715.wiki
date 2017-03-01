@@ -1,0 +1,36 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǚshǔ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[lemming]] {{gloss|rodent}}
+
+{{zh-cat|Rodents}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|たび|ねずみ|yomi=k}}
+
+===Etymology===
+{{compound|ja|旅|鼠|tr1=tabi|t1=[[trip]]; [[travel]]|tr2=nezumi|t2=[[rat]]; [[mouse]]}}
+
+===Pronunciation===
+{{ja-pron|acc=3|y=k|たびねずみ}}
+
+===Noun===
+{{ja-noun|たびねずみ|タビネズミ}}
+
+# {{synonym of|lang=ja|レミング}}
+
+{{C|ja|Rodents}}
+[[ro:旅鼠]]
+[[zh:旅鼠]]

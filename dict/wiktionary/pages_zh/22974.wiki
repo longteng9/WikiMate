@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=12|sn=18|four=88406|canj=HMWJ}}
+
+# bamboo mat
+
+====References====
+* {{Han ref|kx=0899.020|dkj=26510|dj=1324.420|hdz=53014.010|uh=7C1F|ud=31775|bh=F065|bd=61541}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=diàn
+|c=dim3,tim5
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|冰簟|簟子}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹12}}
+
+# {{defn|lang=ja|sort=竹12}}
+
+====Readings====
+* {{ja-readings|on=[[てん]] (ten)|kun=[[たかむしろ]] (takamushiro)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=점|eumhun=|rv=jeom|mr=chŏm|y=cem}}
+
+# {{defn|lang=ko|sort=竹12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[điệm]]|rs=竹12}}
+
+# {{defn|lang=vi|sort=竹12}}
+
+[[fr:簟]]
+[[hu:簟]]
+[[mg:簟]]
+[[ja:簟]]
+[[pl:簟]]
+[[th:簟]]
+[[zh:簟]]

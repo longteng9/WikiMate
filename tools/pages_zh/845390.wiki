@@ -1,0 +1,44 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{bor|zh|ja|-}} {{ja-r|公立|こうりつ}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gōnglì
+|c=gung1 laap6
+|mn=kong-li̍p
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[public]], established and maintained by the government
+
+====Antonyms====
+* {{zh-l|私立}}
+
+====Derived terms====
+{{zh-der|公立學校}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|りつ|yomi=on}}
+
+===Noun===
+{{ja-noun|こうりつ}}
+
+# [[public]] (e.g. [[institution]])
+
+====Antonyms====
+* {{ja-r|私立|しりつ}}: private
+
+[[zh-min-nan:公立]]
+[[ko:公立]]
+[[hu:公立]]
+[[mg:公立]]
+[[pl:公立]]
+[[zh:公立]]

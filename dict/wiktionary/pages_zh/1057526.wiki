@@ -1,0 +1,78 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fúyīn
+|c=fuk1 jam1
+|h=pfs=fuk-yîm
+|md=hók-ĭng
+|mn=hok-im
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[good]] [[news]]
+# {{lb|zh|Christianity}} [[gospel]]
+
+====Derived terms====
+{{zh-der|福音書}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふく|いん|yomi=o}}
+
+===Etymology===
+Probably from {{etyl|ltc|ja|sort=ふくいん}} compound {{m|zh|福音|tr=pjuwk ʔim|lit=happiness + sound}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|ふくいん|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ふくいん}}
+
+# [[gospel]], [[good]] [[news]]
+#: {{ja-usex|まだ生きていると言うのは正に'''福音'''だったのよ。|^まだ いきて いる と いう の は まさ に '''ふくいん''' だった の よ。|It was truly '''good news''' to hear that she's still alive.}}
+# {{lb|ja|sort=ふくいん|religion|Christianity}} the [[Gospel]], {{l|en|good news|id=the message of Jesus concerning the salvation of the faithful}} {{gloss|the message of Jesus concerning the salvation of the faithful}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|福音教会|ふくいん きょうかい}}: the [[Evangelical]] [[Church]]
+* {{ja-r|福音主義|ふくいんしゅぎ}}: [[evangelism]]
+* {{ja-r|福音書|ふくいんしょ}}: [[evangel]], the [[Gospels]] of the [[New Testament]]
+{{der-bottom}}
+
+====See also====
+* {{ja-r|伝道師|でんどうし}}: [[missionary]], [[evangelist]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=복음}}
+
+# {{hanja form of|복음|[[gospel]], [[good]] [[news]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|phúc âm|[[gospel]], [[good]] [[news]]}}
+
+[[zh-min-nan:福音]]
+[[mg:福音]]
+[[ja:福音]]
+[[chr:福音]]
+[[zh:福音]]

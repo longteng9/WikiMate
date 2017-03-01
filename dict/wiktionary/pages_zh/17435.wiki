@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|漆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=34904|canj=EPD,XEPD|ids=⿱氵⿰七木}}
+
+====References====
+* {{Han ref|kx=0519.030|dkj=14620|dj=0907.020|hdz=21188.060|uh=67D2|ud=26578|bh=AC6D|bd=44141}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qī
+|c=cat1
+|mn=chhit/qz:chhiak
+|mn_note=chhit - literary; chhiak - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=num
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[seven]] (used normally in official documents or checks to avoid forgery)
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木05}}
+
+# [[seven]]
+
+====Readings====
+{{ja-readings
+|goon=[[しち]] (shichi)
+|kanon=[[しつ]] (shitsu)
+|kun=[[うるし]] (urushi)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=칠|eumhun=|rv=chil|mr=ch'il|y=chil}}
+
+# {{defn|lang=ko|sort=木05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thất]]|rs=木05}}
+
+# {{defn|lang=vi|sort=木05}}
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+[[fr:柒]]
+[[ko:柒]]
+[[li:柒]]
+[[hu:柒]]
+[[mg:柒]]
+[[ja:柒]]
+[[no:柒]]
+[[pl:柒]]
+[[th:柒]]
+[[chr:柒]]
+[[uk:柒]]
+[[vi:柒]]
+[[zh:柒]]

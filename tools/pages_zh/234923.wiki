@@ -1,0 +1,29 @@
+==Japanese==
+{{ja-kanjitab|さ|o1=し|ず|yomi=ko}}
+
+===Noun===
+{{ja-noun|さしず}}
+
+# [[order]]s, [[instruction]]s, [[direction]]s
+#: {{ja-usex|医者の'''指図'''|いしゃ の '''さしず'''|doctor's '''orders'''}}
+
+====Derived terms====
+* {{l|ja|指図人払い}}
+* {{l|ja|渡指図書}}
+
+===Verb===
+{{ja-verb-suru|さしず}}
+
+# to [[direct]], [[instruct]] (''someone to do something'')
+
+====Conjugation====
+{{ja-suru|さしず}}
+
+===References===
+* {{R:OxfordJapanese}}
+
+[[ko:指図]]
+[[mg:指図]]
+[[ja:指図]]
+[[fi:指図]]
+[[chr:指図]]

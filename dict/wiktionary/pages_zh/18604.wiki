@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|尿}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=02|sn=6|four=|canj=OE,XXOE|ids=⿱𠆢水}}
+
+# to [[float]]
+# to [[deep-fry]]
+
+====References====
+* {{Han ref|kx=0603.130|dkj=17100|dj=0997.080|hdz=31547.030|uh=6C3D|ud=27709}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=𣵞}}
+
+===Pronunciation===
+{{zh-pron
+|m=tǔn
+|c=tan2
+|mc=
+|oc=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|dialectal}} to [[float]]
+# {{lb|zh|Cantonese}} to [[turn]] [[inside out]] {{attention|zh|a brief Google search does not immediately prove the existence of this definition}}
+
+====Compounds====
+{{zh-der|氽湯|氽燙}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水02}}
+
+# {{defn|lang=ja|sort=水02}}
+
+====Readings====
+* {{ja-readings|on=[[とん]] (ton)|kun=[[うかべる]] (ukaberu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=탄|eumhun=|rv=tan|mr=t'an|y=than}}
+
+# {{defn|lang=ko|sort=水02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水02| hanviet = [[thộn]], [[thoản]]}}
+
+# {{defn|lang=vi|sort=水02}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:氽]]
+[[hu:氽]]
+[[mg:氽]]
+[[pl:氽]]
+[[th:氽]]
+[[zh:氽]]

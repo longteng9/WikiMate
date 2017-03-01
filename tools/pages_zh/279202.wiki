@@ -1,0 +1,83 @@
+==Chinese==
+{{zh-forms}}
+[[Image:Audubon-castor 1854.jpg|250px|thumb|right|海狸]]
+
+===Pronunciation===
+{{zh-pron
+|m=hǎilí
+|c=hoi2 lei4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[beaver]]
+
+====Synonyms====
+* {{l|zh|河狸}}
+
+[[Category:zh:Mammals|水07海狸]]
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|ビーバー|ビーバー (''Bībā'')}}
+{{wikipedia|Beaver}}
+[[File:American_Beaver.jpg|thumb|250px|{{lang|ja|海狸}} (''kairi'', ''umidanuki''): a '''beaver'''.]]
+</div>
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|かい|り}}
+Probably coined in Japan of {{etyl|ltc|-}}-derived elements.
+
+The [[beaver]] is not native to Asia, so this word would have been coined (or repurposed) relatively recently.
+
+====Pronunciation====
+{{ja-pron|yomi=on|かいり|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|かいり}}
+
+# {{lb|ja|sort=かいり|rare}} alternate term for {{l|ja|ビーバー|tr=''[[bībā]]''}}: a [[beaver]]
+
+=====Usage notes=====
+The term {{ja-r|ビーバー}} is used more commonly.
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|うみ|たぬき|k2=だぬき}}
+Compound of {{compound|lang=ja|sort=うみだぬき|海|tr1=umi|t1=sea, ocean|狸|tr2=tanuki|t2=[[tanuki]] or [[raccoon dog]]}}. {{rendaku2|sort=うみだぬき|tanuki|danuki}}<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=kun|うみだぬき|acc=3|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|うみだぬき}}
+
+# {{lb|ja|sort=うみだぬき|rare}} alternate term for {{l|ja|ビーバー|tr=''[[bībā]]''}}: a [[beaver]]
+
+=====Usage notes=====
+The term {{ja-r|ビーバー}} is used more commonly.
+
+===References===
+<references/>
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu|pos=noun}}
+
+# {{han tu form of|hải ly|beaver}}
+
+[[fr:海狸]]
+[[ko:海狸]]
+[[lt:海狸]]
+[[ja:海狸]]
+[[ro:海狸]]
+[[ru:海狸]]
+[[chr:海狸]]
+[[zh:海狸]]

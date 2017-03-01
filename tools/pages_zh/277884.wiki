@@ -1,0 +1,95 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=nánxìng
+|c=naam4 sing3
+|h=pfs=nàm-sin
+|mn=lâm-sèng
+|w=3noe xin
+|cat=a,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[male]]
+
+===Noun===
+{{zh-noun}}
+
+# [[man]]
+
+===Antonyms===
+* {{zh-l|女性}}
+
+===Derived terms===
+{{zh-der|男性病}}
+
+===Descendants===
+{{CJKV|男性|だんせい|남성|nam tính}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|だん|せい|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|だんせい|y=o|acc=0|acc_ref=NHK}}
+* {{homophones|lang=ja|男声|弾性}}
+
+===Noun===
+{{ja-noun|だんせい}}
+
+# [[man]], [[boy]], [[male]] person
+# {{lb|ja|grammar}} [[masculine]] [[gender]]
+
+====Synonyms====
+* {{ja-r|男の人|おとこ の ひと}}: man
+
+====Antonyms====
+* {{ja-r|女の人|おんな の ひと}}: woman
+* {{ja-r|女性|じょせい}}: female
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|男性軍|だんせいぐん}}: the [[guys]] team, as in a guys-vs.-girls competition
+* {{ja-r|男性的|だんせいてき}}: [[man-like]], [[manly]]
+{{der-mid}}
+* {{ja-r|男性美|だんせいび}}: masculine [[beauty]]
+* {{ja-r|男性用|だんせいよう}}: "for men", as on a restroom door or clothing label
+{{der-bottom}}
+
+====Related terms====
+* {{ja-r|男子|だんし}}
+
+===References===
+* {{R:Shogakukan}}
+<references/>
+
+[[Category:ja:Grammar|たんせい']]
+[[Category:ja:Human|たんせい']]
+
+[[az:男性]]
+[[zh-min-nan:男性]]
+[[bs:男性]]
+[[el:男性]]
+[[fr:男性]]
+[[ko:男性]]
+[[it:男性]]
+[[lo:男性]]
+[[lt:男性]]
+[[li:男性]]
+[[hu:男性]]
+[[mg:男性]]
+[[ja:男性]]
+[[pl:男性]]
+[[sh:男性]]
+[[fi:男性]]
+[[sv:男性]]
+[[chr:男性]]
+[[uk:男性]]
+[[zh:男性]]

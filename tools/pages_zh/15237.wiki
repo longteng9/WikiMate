@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=59|rad=彡|as=09|sn=12|four=42122|canj=GTHHH|ids=⿰壴彡}}
+
+# name of [[ancient]] [[country]]
+# used as a [[surname]]
+
+====Descendants====
+* [[澎]], [[𥛱]]
+
+====References====
+* {{Han ref|kx=0364.050|dkj=10003|dj=0683.110|hdz=20855.060|uh=5F6D|ud=24429|bh=B45E|bd=46174}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|壴|彡|c1=s|c2=p|ls=psc}}, [[rataplan]]
+
+===Pronunciation===
+{{zh-pron
+|m=péng
+|m-s=pen2
+|c=paang4,pang4
+|mn=qz,xm,zz:phêng/qz,tp,xm:phîⁿ/kh,zz:phêⁿ
+|mc=y
+|oc=y
+|ma=
+|cat=pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=彡09}}
+
+# {{defn|lang=ja|sort=彡09}}
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō)|kun=[[ゆく]] (yuku), [[みち]] (michi), [[さかん]] (sakan)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[팽]], [[방]]|eumhun=|rv=paeng, bang|mr=p'aeng, pang|y=phayng, pang}}
+
+# {{defn|lang=ko|sort=彡09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bành]]|rs=彡09}}
+
+# {{defn|lang=vi|sort=彡09}}
+
+[[zh-min-nan:彭]]
+[[fr:彭]]
+[[ko:彭]]
+[[hu:彭]]
+[[mg:彭]]
+[[ja:彭]]
+[[no:彭]]
+[[pl:彭]]
+[[th:彭]]
+[[zh:彭]]

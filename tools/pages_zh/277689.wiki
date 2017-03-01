@@ -1,0 +1,92 @@
+{{also|物质}}
+==Chinese==
+{{zh-forms|s=物质}}
+
+===Etymology===
+Re{{borrowing|zh|ja|-|nocap=1}} {{ja-r|物質|ぶっしつ}}
+
+===Pronunciation===
+{{zh-pron
+|m=wù質,tl=y
+|c=mat6 zat1
+|h=pfs=vu̍t-chṳt
+|md=ŭk-cék
+|mn=bu̍t-chit
+|w=5veq tseq
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[matter]]; [[material]]; [[substance]]
+
+====Derived terms====
+{{zh-der|暗物質|反物質|化學物質|物質條件|物質文明|物質主義|致癌物質}}
+
+====See also====
+* {{zh-l|物體}}
+
+===Descendants===
+{{CJKV||ぶっしつ|물질|vật chất}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぶつ|しつ|k1=ぶっ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|ぶっしつ|acc=0|dev=3|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|ぶっしつ}}
+
+# [[material]], [[substance]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|制癌物質|せいがんぶっしつ}}
+* {{ja-r|発癌物質|はつがんぶっしつ}}: [[carcinogen]]
+* {{ja-r|反物質|はんぶっしつ}}: [[antimatter]]
+* {{ja-r|物質界|ぶっしつかい}}: the material world
+* {{ja-r|物質主義|ぶっしつしゅぎ}}: materialism
+{{der-bottom}}
+
+===References===
+<references/>
+:* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=물질}}
+
+# {{hanja form of|물질|a [[substance]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-noun|sc=Hani}}
+
+# {{han tu form of|vật chất|[[matter]]}}
+
+[[zh-min-nan:物質]]
+[[ko:物質]]
+[[hr:物質]]
+[[id:物質]]
+[[hu:物質]]
+[[mg:物質]]
+[[nl:物質]]
+[[ja:物質]]
+[[ru:物質]]
+[[fi:物質]]
+[[chr:物質]]
+[[zh:物質]]

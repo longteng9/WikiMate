@@ -1,0 +1,35 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=血shuān
+|c=hyut3 saan1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|pathology}} [[thrombus]]
+
+====Derived terms====
+{{zh-der|靜脈血栓症}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|けつ|k1=けっ|せん|yomi=on}}
+
+===Noun===
+{{ja-noun|けっせん}}
+
+# [[thrombus]]
+
+====Derived terms====
+* {{ja-r|血栓症|けっせんしょう}}
+
+[[hu:血栓]]
+[[nl:血栓]]
+[[zh:血栓]]

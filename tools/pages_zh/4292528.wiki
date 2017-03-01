@@ -1,0 +1,30 @@
+{{also|文献}}
+==Chinese==
+{{zh-forms|s=文献}}
+
+===Pronunciation===
+{{zh-pron
+|m=wénxiàn
+|c=man4 hin3
+|h=pfs=vùn-hien
+|mn=bûn-hiàn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[literature]] {{gloss|of an academic or historical nature}}; [[research]] [[material]]; [[document]]; [[data]]
+#: {{zh-x|歷史 文獻|historical '''document'''}}
+#: {{zh-x|古代 文獻|ancient '''document'''}}
+#: {{zh-x|出土 文獻|excavated '''text'''}}
+
+====Derived terms====
+{{zh-der|參考文獻|文獻檢索|文獻片|文獻學|文獻綜述}}
+
+{{zh-cat|Advanced}}
+
+[[zh-min-nan:文獻]]
+[[ko:文獻]]
+[[hu:文獻]]
+[[ja:文獻]]

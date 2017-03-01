@@ -1,0 +1,37 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|ジェレヌク|麒麟羚羊}}
+{{wikipedia|Gerenuk}}
+[[File:Lightmatter_gerenuk.jpg|thumb|250px|{{lang|ja|麒麟羚羊}} (''kirin reiyō''): a '''[[gerenuk]]''', a '''{{vern|Waller's gazelle}}'''.]]
+</div>
+{{ja-kanjitab|き|りん|れい|よう|yomi=o}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=きりんれいよう|麒麟|tr1=kirin|t1=giraffe|羚羊|tr2=reiyō|t2=gazelle}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|きりん れいよう|acc=4}}
+
+===Noun===
+{{ja-noun|きりん れいよう|キリン レイヨウ}}
+
+# {{taxlink|Litocranius walleri|species|noshow=1}}: a [[gerenuk]], a {{vern|Waller's gazelle}}
+
+====Usage notes====
+{{U:ja:biology|キリンレイヨウ}}
+
+====Synonyms====
+* {{ja-r|ジェレヌク}}
+* {{ja-r|ゲレヌク}}
+
+[[Category:ja:Antelopes|きりんれいよう]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=기린영양}}
+
+# {{hanja form of|기린영양|[[gerenuk]]}}

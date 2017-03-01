@@ -1,0 +1,92 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=164|rad=酉|as=09|sn=16|four=16614|canj=MWAHM}}
+
+# wake up
+# sober up
+# [[startle]]
+
+====References====
+* {{Han ref|kx=1285.200|dkj=39936|dj=1785.220|hdz=63590.010|uh=9192|ud=37266|bh=BFF4|bd=49140}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xǐng
+|ma=
+|c=seng2,sing2,sing1
+|c_note=seng2 - vernacular ("to awaken"); sing2 - "clever" or literary ("to awaken"); sing1 - literary
+|h=pfs=siáng
+|md=
+|mn=qz,tw,xm,zz:séng/qz,tp,xm:chhíⁿ/kh,zz:chhéⁿ
+|mn_note=séng - literary; chhíⁿ/chhéⁿ - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=v,c:a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[awaken]]; to [[wake up]]
+# to be [[awake]]
+# to [[decant]] (wine, etc.)
+# {{lb|zh|Cantonese}} [[clever]]; [[intelligent]]; [[sharp]]
+#: {{zh-l|醒目}}
+
+====Synonyms====
+{{zh-dial|聰明}}
+
+====Compounds====
+{{zh-der|醒來|不醒|不醒人事|久夢初醒|半睡半醒|叫醒|叫醒服務|喚醒|大夢初醒|大覺醒|如夢初醒|如夢方醒|如醉初醒|如醉方醒|定醒|復醒|提醒|昏迷不醒|清醒|猛醒|獨醒|甦醒|眾醉獨醒|蘇醒|覺醒|警醒|醒世|醒世恆言|醒悟|醒木|醒狂|醒目|醒眼|醒睡|醒脾|醒覺|醒豁|醒酒|醒酒石|驚醒|點醒}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=酉09}}
+
+# to [[wake up]]
+# to become [[sober]], to be [[disillusioned]]
+
+====Readings====
+* {{ja-readings|on=[[せい]] (sei)|kun=[[さめる]] (sameru), [[さます]] (samasu)|nanori=}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{l|ja|覚醒}} ({{l|ja|かくせい}}, ''kakusei'')
+* {{l|ja|覚醒剤}} ({{l|ja|かくせいざい}}, ''kakuseizai')
+* {{l|ja|警醒}} ({{l|ja|けいせい}}, ''keisei'')
+{{der-bottom}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tỉnh]]|rs=酉09}}
+
+# {{defn|lang=vi|sort=酉09}}
+
+[[zh-min-nan:醒]]
+[[fr:醒]]
+[[hu:醒]]
+[[mg:醒]]
+[[ja:醒]]
+[[no:醒]]
+[[pl:醒]]
+[[th:醒]]
+[[chr:醒]]
+[[uk:醒]]
+[[zh:醒]]

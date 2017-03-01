@@ -1,0 +1,63 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=duànluò,tl=y
+|c=dyun6 lok6
+|h=pfs=thon-lo̍k
+|mn=tōaⁿ-lo̍h
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[paragraph]]
+#: {{zh-x|這 篇 作文 由 三 個 '''段落''' 組成。|This composition consists of three '''paragraphs'''.}}
+# [[phase]]; [[interval]]; [[stage]]
+# the [[end]] of such a phase
+
+----
+
+==Japanese==
+{{ja-kanjitab|段|落}}
+
+===Etymology 1===
+
+====Noun====
+{{ja-noun|だんらく}}
+
+# a [[paragraph]]
+#: {{ja-usex|この作文は３段落から構成されている。|この さくぶん は さん'''だんらく''' から こうせい されている。|This composition consists of three paragraphs.}}
+# a [[stop]] in work
+#: {{ja-usex|仕事に一段落付ける|しごと に いち'''だんらく''' つける|settle a work for the time being}}
+
+=====Derived terms=====
+* {{ja-r|一段落|いちだんらく}}
+
+===Etymology 2===
+
+====Noun====
+{{ja-noun|だんおち}}
+
+# a [[thing]] that has [[lower]]ed its own [[value]] [[badly]]
+
+====Verb====
+{{ja-verb-suru|だんおち}}
+
+# to [[drop]] in [[value]] [[badly]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=단락}}
+
+# {{ko-hanja form of|단락|paragraph}}
+
+[[ko:段落]]
+[[hu:段落]]
+[[zh:段落]]

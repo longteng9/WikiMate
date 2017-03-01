@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|ぎゃく|かん|すう|yomi=on}}
+
+===Alternative forms===
+* {{l|ja|逆函数}} (''rare'')
+
+===Etymology===
+[[逆]] ([[inverse]]) + [[関数]] ([[function]])
+
+===Noun===
+{{ja-noun|ぎゃくかんすう}}
+
+# {{lb|ja|mathematics}} [[inverse function]]
+
+===References===
+* {{R:Kojien}}
+
+[[Category:ja:Mathematics|きやくかんすう']]
+
+[[zh:逆関数]]

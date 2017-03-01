@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=kǎochá
+|ma=Zh-kaochá.ogg
+|c=haau2 caat3
+|h=pfs=kháu-chhat
+|mn=qz:khóⁿ-chhat/tw,xm,zz:khó-chhat
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[investigate]]; to [[observe]]; to [[study]]
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|さつ|yomi=o}}
+
+===Noun===
+{{ja-noun|こうさつ}}
+
+# [[consideration]]
+# [[discussion]]
+# [[speculation]]
+
+===Verb===
+{{ja-verb-suru|こうさつ}}
+
+# to [[consider]]
+# to [[discuss]]
+# to [[speculate]]
+
+====Conjugation====
+{{ja-suru|こうさつ}}
+
+[[zh-min-nan:考察]]
+[[ko:考察]]
+[[hu:考察]]
+[[ja:考察]]
+[[zh:考察]]

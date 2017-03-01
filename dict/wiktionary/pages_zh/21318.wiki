@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=08|sn=13|four=00148|canj=KYOJ}}
+
+# [[feel]] [[tired]], [[be]] [[weary]], [[be]] [[worn]] [[out]]
+
+====References====
+* {{Han ref|kx=0776.020|dkj=22294|dj=1186.210|hdz=42682.050|uh=7601|ud=30209|bh=B7F1|bd=47089}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cuì
+|c=seoi6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|心力交瘁|勞瘁|心身俱瘁|殄瘁|瘁瘁|神勞形瘁|盡瘁鞠躬|盡瘁|身心交瘁|鞠躬盡瘁}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒08}}
+
+# {{defn|lang=ja|sort=疒08}}
+
+====Readings====
+* {{ja-readings|on=[[すい]] (sui)|kun=[[つかれる]] (tsukareru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=취|eumhun=|rv=chwi|mr=ch'wi|y=chwi}}
+
+# {{defn|lang=ko|sort=疒08}}
+
+[[fr:瘁]]
+[[hu:瘁]]
+[[mg:瘁]]
+[[ja:瘁]]
+[[pl:瘁]]
+[[th:瘁]]
+[[zh:瘁]]

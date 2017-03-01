@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|讽}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=09|sn=16|four=07610|canj=YRHNI|ids=⿰訁風}}
+
+====References====
+* {{Han ref|kx=1172.020|dkj=35741|dj=1636.250|hdz=64000.100|uh=8AF7|ud=35575|bh=BFD8|bd=49112}}
+
+----
+
+==Chinese==
+{{zh-forms|s=讽}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|風|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=讽
+|m-s=fong3
+|c=fung3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[satirize]]
+# to [[recite]], to [[incant]]
+
+===Compounds===
+{{zh-der|仿諷|借古諷今|傳諷|冷嘲熱諷|勸百諷一|反諷|嘲諷|嘲諷漫罵|悲劇反諷|規諷|託諷|諷一勸百|諷刺|諷刺劇|諷刺文字|諷刺畫|諷味|諷經|諷詞|諷誦|諷諫|諷諭|諷諭詩|諷讀|譏諷|降格仿諷}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言09}}
+
+# {{defn|lang=ja|sort=言09}}
+
+====Readings====
+* {{ja-readings|on=[[ふう]] (fū)|kun=[[そらんじる]] (soranjiru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=풍|eumhun=|rv=pung|mr=p'ung|y=phung}}
+
+# {{defn|lang=ko|sort=言09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phúng]]|rs=言09}}
+
+# {{defn|lang=vi|sort=言09}}
+
+[[fr:諷]]
+[[hu:諷]]
+[[ja:諷]]
+[[pl:諷]]
+[[th:諷]]
+[[zh:諷]]

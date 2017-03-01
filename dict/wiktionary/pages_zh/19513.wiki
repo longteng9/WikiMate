@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=12|sn=15|four=32169|canj=EHDW|ids=⿰氵番}}
+
+====References====
+* {{Han ref|kx=0649.050|dkj=18236|dj=1058.260|hdz=31745.100|uh=6F58|ud=28504|bh=BCEF|bd=48367}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=pān
+|c=pun1
+|h=
+|md=
+|mn=phun/phoaⁿ/phoan
+|mn_note=phun, phoaⁿ - vernacular, phoan - literary
+|w=
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{surname|lang=zh}}
+# [[water]] in which [[rice]] has been [[rinse]]d
+# a [[river]] that flows into the Han{{attention|zh|"Han" what?}}
+
+====References====
+*{{qualifier|Min Nan}} {{thcwd|11192}}
+
+====Descendants====
+* {{qualifier|Hokkien dialect}} Tagalog: {{l|tl|Pua}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水12}}
+
+# {{defn|lang=ja|sort=水12}}
+
+====Readings====
+* {{ja-readings|on=[[はん]] (han)|kun=[[しろみず]] (shiromizu), [[うずまき]] (uzumaki), [[あふれる]] (afureru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[반]], [[번]]|eumhun=|rv=ban, beon|mr=pan, pŏn|y=pan, pen}}
+
+# {{defn|lang=ko|sort=水12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phan]]|rs=水12}}
+
+# {{defn|lang=vi|sort=水12}}
+
+[[zh-min-nan:潘]]
+[[fr:潘]]
+[[ko:潘]]
+[[hu:潘]]
+[[mg:潘]]
+[[ja:潘]]
+[[no:潘]]
+[[pl:潘]]
+[[th:潘]]
+[[zh:潘]]

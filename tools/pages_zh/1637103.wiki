@@ -1,0 +1,57 @@
+{{also|车道}}
+==Chinese==
+{{zh-forms|s=车道}}
+
+===Pronunciation===
+{{zh-pron
+|m=chēdào
+|c=ce1 dou6
+|mn=chhia-tō
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[traffic]] [[lane]]
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+</div>
+{{ja-kanjitab|しゃ|どう|yomi=o}}
+
+===Etymology===
+{{IPAchar|/ɕadau/}} → {{IPAchar|/ɕadɔː/}} → {{IPAchar|/ɕadoː/}}
+
+From {{etyl|ltc|ja|sort=しゃどう}} compound {{m|zh|車道|tr=tsyhæ daw<sup>X</sup>|lit=carriage + way}}.  Compare modern {{etyl|yue|-}} {{zh-l|車道|tr=''ce<sup>1</sup> dou<sup>6</sup>''|traffic lane}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|しゃどう|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|しゃどう|hhira=しやだう}}
+
+# a [[road]], a [[roadway]], a [[carriageway]]
+# {{qualifier|more specifically|legal}} a [[traffic]] [[lane]]: that portion of a [[road]] that is marked for use by [[automobile]]s {{qualifier|and not for bicycles or pedestrians}}
+
+====Usage notes====
+The ''traffic lane'' sense is the main sense in [[legal]] contexts, as defined by the {{m|ja|道路交通法|tr=Tsūro Kōtsū Hō||Road Traffic Act}}.
+
+====See also====
+* {{ja-r|自転車道|じてんしゃどう}}: a [[bicycle lane]]
+* {{ja-r|歩道|ほどう}}: a [[sidewalk]], a [[pedestrian]] [[walkway]]
+
+===References===
+<references/>
+
+[[zh-min-nan:車道]]
+[[ko:車道]]
+[[hu:車道]]
+[[mg:車道]]
+[[ja:車道]]
+[[sv:車道]]
+[[chr:車道]]
+[[zh:車道]]

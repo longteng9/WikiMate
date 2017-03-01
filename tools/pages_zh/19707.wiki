@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|浏}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=15|sn=18|four=32100|canj=EHCN}}
+
+# [[clear]]
+# [[bright]]
+# [[whistling]]
+
+====References====
+* {{Han ref|kx=0659.110|dkj=18607|dj=1069.070|hdz=31780.040|uh=700F|ud=28687|bh=C273|bd=49779}}
+
+----
+
+==Chinese==
+{{zh-forms|s=浏}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=liú
+|c=lau4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|瀏亮|瀏海|瀏瀏|瀏覽|瀏覽器}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水15}}
+
+# {{defn|lang=ja|sort=水15}}
+
+====Readings====
+* {{ja-readings|on=[[りゅう]] (ryū)|kun=[[きよい]] (kiyoi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[류]]>[[유]]|eumhun=|rv=ryu>yu|mr=ryu>yu|y=lyu>yu}}
+
+# {{defn|lang=ko|sort=水15}}
+
+[[fr:瀏]]
+[[hu:瀏]]
+[[ja:瀏]]
+[[pl:瀏]]
+[[th:瀏]]
+[[zh:瀏]]

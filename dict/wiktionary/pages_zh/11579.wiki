@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=04|sn=6|four=72200|canj=BLN|ids=⿰月刂}}
+
+# [[cutting off]] [[feet]] as [[form]] of [[punishment]]
+
+====Derived characters====
+* [[𠈛]] [[前]] [[𦮯]] [[𪠰]]
+
+====References====
+* {{Han ref|kx=0137.250|dkj=01900|dj=0309.120|hdz=10327.070|uh=5216|ud=21014|bh=A647|bd=42567}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuè
+|c=jyut6
+|mn=goa̍t
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|刖刑|刖趾適屨|刖足適屨|刖足}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=9|rs=刀04}}
+
+# {{defn|lang=ja|sort=刀04}}
+
+====Readings====
+* {{ja-readings|on=[[げつ]] (getsu), [[ぐち]] (guchi), [[ごつ]] (gotsu), [[ごち]] (gochi), [[かつ]] (katsu)|kun=[[きる]] (kiru), [[あやふい]] (ayafui)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=월|rv=wol|mr=wŏl}}
+
+# {{defn|lang=ko|sort=刀04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=刀04| hanviet = nguyệt}}
+
+# {{defn|lang=vi|sort=刀04}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=5216 Nom Foundation]
+
+[[fr:刖]]
+[[ko:刖]]
+[[hu:刖]]
+[[mg:刖]]
+[[pl:刖]]
+[[th:刖]]
+[[zh:刖]]

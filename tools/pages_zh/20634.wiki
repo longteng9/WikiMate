@@ -1,0 +1,115 @@
+{{character info/new}}
+{{also|獭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=16|sn=19|four=47286|canj=KHDLC}}
+
+# [[otter]]
+
+====References====
+* {{Han ref|kx=0721.080|dkj=20782|dj=1133.050|hdz=21377.040|uh=737A|ud=29562|bh=C3A1|bd=50081}}
+
+----
+
+==Chinese==
+{{zh-forms|s=獭}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=獺
+|c=caat3,taat3
+|mn=thoah
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|旱獺|水獺|海獺|猵獺|獺祭|獺祭魚}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=犬16}}
+
+# [[otter]]
+
+====Readings====
+* {{ja-readings|kanyoon=[[だつ]] (datsu)|goon=[[たち]] (tachi)|kanon=[[たつ]] (tatsu)|kun=[[うそ]] (uso), [[おそ]] (oso), [[かわうそ]] (kawauso), [[かわおそ]] (kawaoso)}}
+
+===Etymology 1===
+{{ja-kanjitab|おそ|yomi=k}}
+{{ja-kanjitab|うそ|yomi=k}}
+{{rfe|ja}}
+
+====Pronunciation====
+{{ja-pron|acc=a|y=k|うそ}}
+* {{homophone|lang=ja|嘘|鷽|sort=うそ}}
+
+====Noun====
+{{ja-noun|うそ}} {{ja-altread|hira=おそ|hhira=をそ}}
+
+# an [[otter]]
+
+[[Category:ja:Mustelids|うそ]]
+
+===Etymology 2===
+{{ja-kanjitab|かわおそ|yomi=k}}
+{{ja-kanjitab|かわうそ|yomi=k}}
+{{compound|ja|川|獺|tr1=kawa|t1=[[river]]|tr2=uso|t2=[[otter]]|sort=かわうそ}}
+
+====Pronunciation====
+{{ja-pron|acc=h|y=k|かわうそ}}
+
+====Noun====
+{{ja-noun|かわうそ|カワウソ|hhira=かはうそ}}<br>{{ja-altread|hira=かわおそ|kata=カワオソ|hhira=かはをそ}}
+
+# {{alternative spelling of|川獺|lang=ja||[[otter]]}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[달]], [[찰]]|eumhun=|rv=dal, chal|mr=tal, ch'al|y=tal, chal}}
+
+# ([[수달]] 달, ''sudal-''): [[otter]]
+
+====Compounds====
+* [[水獺]] ([[수달]], sudal) [[otter]]
+* [[山獺]] ([[산달]], sandal) [[raccoon dog]]
+
+[[Category:Hanja readings|달]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thát]], [[rái]]|rs=犬16}}
+
+# {{defn|lang=vi|sort=犬16}}
+
+[[fr:獺]]
+[[ko:獺]]
+[[lt:獺]]
+[[li:獺]]
+[[hu:獺]]
+[[ja:獺]]
+[[pl:獺]]
+[[ro:獺]]
+[[sv:獺]]
+[[th:獺]]
+[[chr:獺]]
+[[zh:獺]]

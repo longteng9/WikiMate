@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=04|sn=9|four=17620|canj=MRPSH}}
+
+# stone steps, brick walk
+
+====References====
+* {{Han ref|kx=0828.160|dkj=24062|dj=1242.140|hdz=42419.110|uh=780C|ud=30732|bh=ACE4|bd=44260}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qì
+|c=cai3
+|h=pfs=
+|md=
+|mn=qz,xm,zz:chhè/tw,xm,zz:kih/xm,zz:gih
+|mn_note=chhè - literary; kih/gih - vernacular (俗)
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=石04}}
+
+# {{defn|lang=ja|sort=石04}}
+
+====Readings====
+* {{ja-readings|on=[[せい]] (sei), [[さい]] (sai)|kun=[[みぎり]] (migiri)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=체|eumhun=|rv=che|mr=ch'e|y=chey}}
+
+# {{defn|lang=ko|sort=石04}}
+
+[[fr:砌]]
+[[hu:砌]]
+[[mg:砌]]
+[[ja:砌]]
+[[no:砌]]
+[[pl:砌]]
+[[th:砌]]
+[[zh:砌]]

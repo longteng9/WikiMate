@@ -1,0 +1,60 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=10|sn=13|four=68057|canj=REOY|ids=⿰口海}}
+
+====References====
+* {{Han ref|kx=0204.111|dkj=04137|hdz=10671.030|uh=55E8|ud=21992|bh=B6D9|bd=46809}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=hāi
+|c=hoi1
+|mn=hài
+|w=0he
+|cat=intj
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|colloquial}} [[hey]], [[hi]]
+
+====Derived terms====
+* {{zh-l|嗨喲}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口10}}
+
+# {{defn|lang=ja|sort=口10}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai)|kun=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hải]]|rs=口10}}
+
+# {{defn|lang=vi|sort=口10}}
+
+[[fr:嗨]]
+[[hu:嗨]]
+[[mg:嗨]]
+[[ja:嗨]]
+[[pl:嗨]]
+[[th:嗨]]
+[[uk:嗨]]
+[[zh:嗨]]

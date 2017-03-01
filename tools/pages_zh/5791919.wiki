@@ -1,0 +1,17 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|き|しゅ|い|ぞん|もん|k5=も|じ}}
+
+===Etymology===
+From {{compound|ja|機種|依存|文字|tr1=kishu|tr2=izon|tr3=moji|t1=type of device|t2=dependent|t3=character}}.
+
+===Pronunciation===
+{{ja-pron|きしゅ いぞん もじ}}
+
+===Noun===
+{{ja-noun|きしゅ いぞん もじ}}
+
+# {{lb|ja|computing}} [[character]] whose [[appearance]] may [[depend]] on a [[user]]'s [[environment]]
+
+====Synonyms====
+* {{ja-r|環境依存文字|きしゅ いぞん もじ}}

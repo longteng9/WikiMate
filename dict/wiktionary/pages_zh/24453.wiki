@@ -1,0 +1,61 @@
+{{character info/new}}
+{{also|脶}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=09|sn=13|four=77227|canj=BBBR}}
+
+# [[lines]]
+
+====References====
+* {{Han ref|kx=0988.100|dkj=29671|dj=1440.230|hdz=32088.060|uh=8161|ud=33121|bh=DFA2|bd=57250}}
+
+----
+
+==Chinese==
+{{zh-forms|s=脶}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|肉|咼|c1=s|c2=p|t1=body|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=luō
+|c=lo4,gwaa1
+|mn=lê
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|腡肌}}
+
+===References===
+* {{R:twedu|C11004}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉09}}
+
+# {{defn|lang=ja|sort=肉09}}
+
+====Readings====
+* {{ja-readings|on=[[ら]] (ra), [[か]] (ka), [[け]] (ke), [[かい]] (kai)|kun=|nanori=}}
+
+[[zh-min-nan:腡]]
+[[fr:腡]]
+[[hu:腡]]
+[[pl:腡]]
+[[th:腡]]
+[[zh:腡]]

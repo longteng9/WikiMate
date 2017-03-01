@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|嘱}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=21|sn=24|four=67027|canj=RSEI|ids=⿰口屬}}
+
+# [[order]], [[tell]], [[instruct]], [[leave word]]
+
+====References====
+* {{Han ref|kx=0215.290|dkj=04654|dj=0438.360|hdz=10709.150|uh=56D1|ud=22225|bh=C5F1|bd=50673}}
+
+----
+
+==Chinese==
+{{zh-forms|s=嘱}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǔ
+|c=zuk1
+|mn=chiok
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|代筆遺囑|公證遺囑|切囑|千叮萬囑|叮囑|囑付|囑咐|囑託|密封遺囑|敦囑|買囑|遺囑|醫囑|雅囑}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口21|style=ky|shin=嘱}}
+
+# {{defn|lang=ja|sort=口21}}
+
+====Readings====
+* {{ja-readings|on=[[しょく]] (shoku)|kun=[[たのむ]] (tanomu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[촉]]|rv=chok|mr=ch'ok}}
+
+# {{defn|lang=ko|sort=口21}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chúc]]|rs=口21}}
+
+# {{defn|lang=vi|sort=口21}}
+
+[[fr:囑]]
+[[li:囑]]
+[[hu:囑]]
+[[ja:囑]]
+[[pl:囑]]
+[[ru:囑]]
+[[th:囑]]
+[[vi:囑]]
+[[zh:囑]]

@@ -1,0 +1,59 @@
+{{also|黃砂}}
+==Chinese==
+{{zh-see|黃砂}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Asian Dust}}
+[[File:China_dust_storms.jpg|thumb|250px|{{lang|ja|黄砂}}: Kyōto, spring 2010, with the skies full of yellow sand (Asian Dust).]]
+[[File:Taklamakan_lrg.jpg|thumb|250px|The [[w:Taklamakan Desert|Taklamakan Desert]], source of the Asian Dust.]]
+</div>
+{{ja-kanjitab|こう|さ|yomi=on}}
+From {{etyl|ltc|ja|sort=こうさ}} compound {{m|ltc|黃砂|tr=hwang *shra||yellow sand}}. Compare modern simplified {{cog|zh|黄砂}}.
+
+{{l|ja|sc=Latn|漢音|''Kan'on''}} reading of both characters, suggesting a later borrowing.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|a|こ|うさ}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[ko̞ːsa̠]}}
+
+====Alternative forms====
+* {{ja-l|黄沙}}
+
+====Noun====
+{{ja-noun|こうさ|kyu=黃砂|hhira=くわうさ}}
+
+# [[yellow]] [[sand]]
+# [[loess]]
+# {{qualifier|figurative}} a [[desert]]
+# [[w:Asian Dust|Asian Dust]]
+# {{qualifier|figurative}} a [[gaol]] {{qualifier|UK}}, [[jail]] {{qualifier|US}}, [[prison]]
+
+=====Synonyms=====
+* {{sense|desert}} {{ja-l|砂漠|さばく|sabaku}}
+* {{sense|prison, jail, gaol}} {{ja-l|牢獄|ろうごく|rōgoku}}
+
+===Etymology 2===
+{{ja-kanjitab|おう|さ|yomi=on}}
+From {{etyl|ltc|ja|sort=こうさ}}. {{l|ja|sc=Latn|呉音|''Goon''}} reading of first character, {{l|ja|sc=Latn|漢音|''kan'on''}} reading of second, suggesting an alteration in Japan after the initial borrowing.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[o̞ːsa̠]}}
+
+====Noun====
+{{ja-noun|おうさ|kyu=黃砂|hhira=わうさ}} {{lb|ja|sort=おうさ|rare}}
+
+# {{qualifier|see ''kōsa'' reading above}}
+
+===References===
+<references/>
+
+[[hu:黄砂]]
+[[zh:黄砂]]

@@ -1,0 +1,40 @@
+{{character info/new}}
+{{also|才|孑}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+Left radical form of [[手]]; note that the top stroke of 手 (bent over middle finger) is absent.
+
+===Han character===
+{{Han char|rn=64|rad=手|as=00|sn=3|var=1|four=|canj=DM,XXXDM}}
+
+# [[hand]]
+# radical number 64
+
+====References====
+* {{Han ref|kx=0416.291|dkj=11770|dj=0763.020|hdz=31824.011|uh=624C|ud=25164}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手00}}
+
+# {{defn|lang=ja|sort=手00}}
+
+====Readings====
+* {{ja-readings|on=[[しゅ]] (shu)|kun=[[てへん]] (tehen)}}
+
+[[Category:Japanese-only CJKV Characters|手+00]]
+[[Category:CJKV radicals| ]]
+
+[[fr:扌]]
+[[ko:扌]]
+[[li:扌]]
+[[hu:扌]]
+[[ms:扌]]
+[[pl:扌]]
+[[th:扌]]
+[[zh:扌]]

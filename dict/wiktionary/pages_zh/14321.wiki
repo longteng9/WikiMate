@@ -1,0 +1,120 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+{{stroke order|strokes=12}}
+
+===Han character===
+{{Han char|rn=43|rad=尢|as=09|sn=12|four=03914|canj=YFIKU|ids=⿰京尤}}
+
+====References====
+* {{Han ref|kx=0299.050|dkj=07599|dj=0594.200|hdz=10555.110|uh=5C31|ud=23601|bh=B44E|bd=46158}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiù
+|ma=y
+|c=zau6
+|h=pfs=chhiu
+|mn=chiū
+|w=3xxieu,3jjieu
+|mc=y
+|oc=y
+|cat=v,adv,prep
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[approach]]; to [[move]] [[towards]]
+# to [[undertake]]; to [[engage]] in
+#* {{zh-x|就業|to get a job; employment}}
+# to [[succeed]]; to [[complete]]
+# to [[comply]]; to [[follow]]; to [[accept]]
+# to [[suffer]]; to be [[subjected]] to
+# {{lb|zh|of food}} to [[go]] with
+# with regard to; [[concerning]]
+# [[even if]]; [[even though]]
+# [[at once]]; [[right away]]
+#: {{zh-x|我 馬上 就 來。|I'll come '''right away'''.}}
+# {{lb|zh|used for emphasis}} [[exactly]]; [[precisely]]; [[just]]
+#: {{zh-x|這 就 對 了！|That's right!}}
+#* {{zh-x|他 就 住 在 街 對面。|He lives '''just''' across the street.}}
+# [[only]]; [[merely]]; [[just]]
+#* {{zh-x|我 就 認識 一 個 中國 人。|I '''only''' know one Chinese person.}}
+#* {{zh-x|房間 裡 就 一 張 床，一 張 桌子。|There's only one bed and one table in the room.}}
+# [[then]]
+#* {{zh-x|我 做完 就 會 告訴 你。|I will tell you when I have finished.}}
+#* {{zh-x|沒有 共產黨 就 沒有 新 中國。|[[w:en:Without the Communist Party, There Would Be No New China|[If] there was no Community Party, ['''then'''] there would be no new China]]}}
+# {{lb|zh|used to express earliness}} as early as; [[as soon as]]
+#* {{zh-x|我 一大早 就 起床。|I'm up with the sun.}}
+# as [[many]] as; as [[much]] as
+# {{n-g|Used between two identical word to express indifference or resignation.}}
+#* {{zh-x|去 就 去，反正 在 家 也 沒 事。|If you want to go, then go. Besides, there's nothing happening at home.}}
+
+===Compounds===
+{{zh-der|一就|一就手兒|一揮而就|一蹴而就|不堪造就|不就|不明就裡|不知就裡|便就|俯就|俯首就縛|倒頭就睡|偎乾就濕|充分就業|刪繁就簡|刪蕪就簡|削足就履|功就名成|功成名就|半推半就|去危就安|去就|去就之分|去本就末|可就|因陋就簡|圓就|完全就業|家成業就|將就|將機就機|將機就計|將計就計|將錯就錯|就世|就中|就事|就事論事|就令|就任|就位|就使|就便|就勢|就和|就地|就地取材|就地正法|就坐|就學|就寢|就就的|就座|就得|就戮|就手|就擒|就教|就日瞻雲|就是|就木|就枕|就棍打腿|就業|就業市場|就業服務|就業輔導|就正|就此|就此打住|就此罷手|就湯下麵|就禮|就算|就範|就緒|就義|就職|就虛避實|就衰|就裡|就裡人|就要|就親|就診|就讀|就近|就逮|就道|就醫|就食|就養|就餐|就館|屈就|引頸就戮|從俗就簡|從容就義|急就|急就篇|急就章|成就|成就感|成就測驗|打就|拔腿就跑|按部就班|捨安就危|捨己就人|推就|援筆立就|援筆而就|撋就|擬就|日就月將|早就|明知就裡|未就|束手就擒|束手就縛|束身就縛|棄大就小|棄文就武|欲就還推|歸就|死就|沒去就|煨乾就濕|牽就|甄煩就簡|生就|移東就西|移樽就教|管就|練就|羽翮已就|脫網就淵|芟繁就簡|行將就木|見好就收|見縫就鑽|說做就做|透風就過|造就|違害就利|遷就|避凶就吉|避實就虛|避就|避禍就福|避重就輕|避難就易|那就|鑽頭就鎖|陳力就列|隨方就圓|隨行就市|隨高就低|非理就終|駕輕就熟|高就}}
+
+===See also===
+* {{zh-l|只是}}
+* {{zh-l|單單}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=尢09}}
+
+# {{defn|lang=ja|sort=尢09}}
+
+====Readings====
+{{ja-readings|goon=[[じゅ]] (ju)|kanon=[[しゅう]] (shū)|kun=[[つく]] (tsuku)}}
+
+====Compounds====
+* {{ja-r|就塒|しゅうじ|[[roost]]ing}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=취|rv=chwi|mr=ch'wi}}
+
+# {{defn|lang=ko|sort=尢09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tựu]]|rs=尢09}}
+
+# {{defn|lang=vi|sort=尢09}}
+
+[[zh-min-nan:就]]
+[[da:就]]
+[[fr:就]]
+[[ko:就]]
+[[li:就]]
+[[hu:就]]
+[[mg:就]]
+[[nl:就]]
+[[ja:就]]
+[[no:就]]
+[[pl:就]]
+[[ta:就]]
+[[th:就]]
+[[chr:就]]
+[[uk:就]]
+[[vi:就]]
+[[zh:就]]

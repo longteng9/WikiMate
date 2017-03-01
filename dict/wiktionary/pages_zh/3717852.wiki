@@ -1,0 +1,47 @@
+{{also|接种}}
+==Chinese==
+{{zh-forms|s=接种}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiēzhòng
+|c=zip3 zung3
+|mn=chiap-chèng
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[vaccinate]]
+#: {{zh-x|接種{zhòng} 疫苗|vaccination}}
+
+===Noun===
+{{zh-noun}}
+
+# [[vaccination]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|せつ|k1=せっ|しゅ|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|せっしゅ|y=on}}
+
+===Noun===
+{{ja-noun|せっしゅ}}
+
+# [[vaccination]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|せっしゅ}}
+
+# [[vaccinate]]
+
+====Conjugation====
+{{ja-suru|せっしゅ}}
+
+[[ja:接種]]
+[[zh:接種]]

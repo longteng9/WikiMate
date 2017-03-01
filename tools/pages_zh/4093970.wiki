@@ -1,0 +1,42 @@
+{{also|种别}}
+==Chinese==
+{{zh-forms|s=种别}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǒngbié
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[classify]]
+
+===Noun===
+{{zh-noun}}
+
+# [[classification]]; [[difference]]; [[kind]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅ|べつ|yomi=on}}
+
+===Noun===
+{{ja-noun|しゅべつ}}
+
+# [[classification]], [[kind]]
+
+===Verb===
+{{ja-verb-suru|しゅべつ}}
+
+# [[classify]]
+
+====Conjugation====
+{{ja-suru|しゅべつ}}
+
+[[ko:種別]]
+[[lt:種別]]
+[[chr:種別]]
+[[zh:種別]]

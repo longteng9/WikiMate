@@ -1,0 +1,61 @@
+{{also|统制}}
+==Chinese==
+{{zh-forms|s=统制}}
+
+===Pronunciation===
+{{zh-pron
+|m=tǒngzhì
+|c=tung2 zai3
+|mn=thóng-chè
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[control]], [[regulation]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[control]], to [[regulate]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|せい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|とうせい|y=o|acc=h|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうせい}}
+
+# [[control]], [[regulation]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|とうせい}}
+
+# to [[control]], to [[regulate]]
+
+====Conjugation====
+{{ja-suru|とうせい}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=통제}}
+
+# {{hanja form of|통제|[[control]], [[regulation]]}}
+
+[[ko:統制]]
+[[hu:統制]]
+[[mg:統制]]
+[[ja:統制]]
+[[zh:統制]]

@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chūtǔ
+|c=ceot1 tou2
+|mn=chhut-thó͘
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to come up out of the ground
+# to [[excavate]]; to [[unearth]]; to [[dig up]]
+#: {{zh-x|出土 文獻|'''''excavated''' text(s)''}}
+
+===Noun===
+{{zh-noun}}
+
+# [[excavation]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅつ|ど|sort=しゅつど|yomi=on}}
+
+===Noun===
+{{ja-noun|しゅつど}}
+
+# archeological [[excavation]]
+
+===Verb===
+{{ja-verb-suru|しゅつど}}
+
+# [[excavate]]
+
+====Conjugation====
+{{ja-suru|しゅつど}}
+
+[[hu:出土]]
+[[zh:出土]]

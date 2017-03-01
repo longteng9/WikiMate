@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|届}}
+
+==Translingual==
+
+===Han character===
+{{Han char|rn=44|rad=尸|as=05|sn=8|four=77272|canj=SUG|ids=⿸尸凷}}
+
+# [[numerary]] [[adjunct]] for [[time]], [[term]]
+
+====References====
+* {{Han ref|kx=0301.030|dkj=07666|dj=0597.110|hdz=20968.010|uh=5C46|ud=23622|bh=A9A1|bd=43425}}
+
+----
+
+==Chinese==
+{{zh-forms|s=届}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiè
+|m-s=jiai4
+|c=gaai3
+|mn=kài
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|屆時|屆期|屆滿|屆臨|年屆不惑|應屆|歷屆|無遠弗屆}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=尸05}}
+
+# {{defn|lang=ja|sort=尸05}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai)|kun=[[とどける]] (todokeru), [[とどく]] (todoku), [[とどけ]] (todoke)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=계|rv=gye|mr=kye}}
+
+# {{defn|lang=ko|sort=尸05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''屆''' ([[giới]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:屆]]
+[[fr:屆]]
+[[ko:屆]]
+[[li:屆]]
+[[hu:屆]]
+[[ja:屆]]
+[[pl:屆]]
+[[th:屆]]
+[[zh:屆]]

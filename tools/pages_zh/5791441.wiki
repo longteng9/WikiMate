@@ -1,0 +1,33 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=xìlièhuà
+|c=hai6 lit6 faa3
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[serialize]]
+
+----
+==Japanese==
+{{ja-kanjitab|けい|れつ|か|yomi=on}}
+
+===Noun===
+{{ja-noun|けいれつか}}
+
+# The formation of a {{ja-r|系列|けいれつ}}, a kind of [[corporate]] [[conglomerate]].
+
+===Verb===
+{{ja-verb-suru|けいれつか}}
+
+# Organize or establish as a {{ja-r|系列|けいれつ}}.
+
+====Conjugation====
+{{ja-suru|けいれつか}}
+
+[[ko:系列化]]

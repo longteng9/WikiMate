@@ -1,0 +1,32 @@
+==Japanese==
+{{ja-kanjitab|ごう|り|てき|yomi=o}}
+
+===Etymology===
+{{suffix|合理|的|lang=ja|t1=rational|t2=-like|sort=こうりてきな'}}
+
+===Pronunciation===
+{{ja-pron|ごうりてき|y=o}}
+
+===Adjective===
+{{ja-adj|ごうりてき|infl=na}}
+
+# [[rational]], [[reasonable]], [[logical]]
+#: {{ja-usex|君は'''合理的'''な考え方ができないのか。|きみ は '''ごうりてき''' な かんがえかた が できない の か。|Can't you think rationally?}}
+
+====Inflection====
+{{ja-na|ごうりてき}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=합리적}}
+
+# {{hanja form of|합리적|[[rational]], [[reasonable]], [[logical]]}}
+
+[[ko:合理的]]
+[[mg:合理的]]
+[[ja:合理的]]
+[[zh:合理的]]

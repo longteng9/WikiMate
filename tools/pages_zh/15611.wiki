@@ -1,0 +1,51 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=08|sn=11|four=90061|canj=PIYR|ids=⿰忄店}}
+
+# [[think]] of, [[remember]], [[miss]]
+
+====References====
+* {{Han ref|kx=0392.181|dkj=10847|hdz=42318.050|uh=60E6|ud=24806|bh=B17D|bd=45437}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=diàn
+|c=dim3
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|惦念|惦記}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心08|hanviet=điếm}}
+
+# {{defn|lang=vi|sort=心08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=60e6 Nom Foundation]
+
+[[fr:惦]]
+[[li:惦]]
+[[hu:惦]]
+[[mg:惦]]
+[[no:惦]]
+[[pl:惦]]
+[[th:惦]]
+[[zh:惦]]

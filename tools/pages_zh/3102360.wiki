@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|てん|へん|ち|い|k2=ぺん|yomi=o}}
+
+===Etymology===
+Compound of {{compound|lang=ja|天変|tr1=tenpen|t1=a change or [[abnormality]] in the [[heavens]]|地異|tr2=chii|t2=a bad change in or on the earth}}.<ref>{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+* {{ja-pron|てんぺんちい|y=o|acc=5|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|てんぺんち.い|kyu=天變地異}}
+
+# {{lb|ja|idiomatic|sort=てんぺんちい}} an [[extraordinary]] [[natural]] [[occurrence]]: a [[catastrophe]], a [[calamity]]
+#: {{ja-usex|'''天変地異'''が起きた。|'''てんぺんちい''' が おきた。|An earth-shattering incident occurred.}}
+
+===References===
+<references/>
+
+[[lo:天変地異]]
+[[sv:天変地異]]

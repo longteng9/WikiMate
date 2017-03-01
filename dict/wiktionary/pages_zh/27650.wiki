@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|二|贰}}
+==Translingual==
+{{ja-forms|[[弐]]|[[贰]]|貳}}
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=05|sn=12|four=43800|canj=IPMMC}}
+
+# [[number]] [[two]]
+
+====Descendants====
+* [[膩]], [[樲]], [[𢴧]]
+
+====References====
+* {{Han ref|kx=1206.140|dkj=36703|dj=1669.040|hdz=63629.020|uh=8CB3|ud=36019|bh=B64C|bd=46668}}
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Chinese==
+{{zh-forms|s=贰|alt=𢎐}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|貝|弍|t2=two|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=èr
+|c=ji6
+|h=pfs=ngi
+|mn=jī/lī/gī
+|mc=y
+|oc=y
+|ma=y
+|cat=num
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=貝05}}
+
+# [[two]]
+
+====Readings====
+{{ja-readings
+|goon=[[に]] (ni)
+|kanon=[[じ]] (ji)
+|kun=[[ふたつ]] ([[貳つ]], futatsu), [[そえ]] (soe)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=이|eumhun=|rv=i|mr=i|y=i}}
+
+# {{defn|lang=ko|sort=貝05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhị]], [[nhì]], [[nhẹ]]|rs=貝05}}
+
+# {{defn|lang=vi|sort=貝05}}
+
+[[fr:貳]]
+[[ko:貳]]
+[[hr:貳]]
+[[li:貳]]
+[[hu:貳]]
+[[ja:貳]]
+[[pl:貳]]
+[[th:貳]]
+[[zh:貳]]

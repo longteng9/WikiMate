@@ -1,0 +1,69 @@
+{{character info/new}}
+{{also|徑|迳|径}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=07|sn=11|four=31301|canj=YMVM}}
+
+# pass by, approach
+# [[direct]]
+
+====References====
+* {{Han ref|kx=1257.210|dkj=38883|dj=1743.100|hdz=63840.010|uh=9015|ud=36885|bh=B377|bd=45943}}
+
+----
+
+==Chinese==
+{{zh-forms|s=迳}}
+{{attention|zh|apparently PRC's preferred simplified form is 径 unless as a proper noun?}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìng
+|c=ging3,gaang3
+|h=pfs=kang
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一逕|井逕|大有逕庭|大相逕庭|畦逕|逕入|逕到|逕取|逕庭|逕啟者|逕流|逕自|逕行|逕路兒}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辵07}}
+
+# {{defn|lang=ja|sort=辵07}}
+
+====Readings====
+* {{ja-readings|goon=[[きょう]] (kyō)|kanon=[[けい]] (kei)|kun=[[こみち]] (komichi), [[ちかい]] (chikai), [[すぐ]] (sugu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|eumhun=|rv=gyeong|mr=kyŏng|y=kyeng}}
+
+# {{defn|lang=ko|sort=辵07}}
+
+[[fr:逕]]
+[[ko:逕]]
+[[hu:逕]]
+[[mg:逕]]
+[[ja:逕]]
+[[pl:逕]]
+[[th:逕]]
+[[zh:逕]]

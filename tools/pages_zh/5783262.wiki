@@ -1,0 +1,44 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=kǒngshuǐbìng
+|c=hung2 seoi2 beng6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|diseases}} {{zh-alt-name|狂犬病|[[rabies]]}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きょう|すい|びょう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|きょうすいびょう|y=o|acc=0}}
+
+===Noun===
+{{ja-noun|きょうすいびょう|hhira=きようすいびやう}}
+
+# {{lb|ja|disease|sort=きょうすいびょう}} [[hydrophobia]]
+
+====Synonyms====
+* {{ja-r|狂%犬%病|きょう%けん%びょう}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=공수병|mr=kongsubyŏng|y=kōngswupyeng}}
+
+# {{hanja form of|공수병|[[hydrophobia]]}}
+
+[[ko:恐水病]]
+[[ja:恐水病]]
+[[zh:恐水病]]

@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|浔}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=12|sn=15|four=37146|canj=ESMI}}
+
+# steep bank by stream
+# [[Jiujiang]] (in Jiangxi, China)<!--needs to be verified-->
+
+====References====
+* {{Han ref|kx=0650.220|dkj=18280|dj=1061.030|hdz=31748.010|uh=6F6F|ud=28527|bh=BCF1|bd=48369}}
+
+----
+
+==Chinese==
+{{zh-forms|s=浔}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xún
+|c=cam4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|江潯|江潯海裔|潯江|潯陽三隱}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水12}}
+
+# {{defn|lang=ja|sort=水12}}
+
+====Readings====
+* {{ja-readings|on=[[じん]] (jin)|kun=[[ふち]] (fuchi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=심|eumhun=|rv=sim|mr=sim|y=sim}}
+
+# {{defn|lang=ko|sort=水12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tầm]]|rs=水12}}
+
+# {{defn|lang=vi|sort=水12}}
+
+[[fr:潯]]
+[[hu:潯]]
+[[ja:潯]]
+[[pl:潯]]
+[[th:潯]]
+[[zh:潯]]

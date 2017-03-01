@@ -1,0 +1,33 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=10|sn=21|canj=|four=|ids=⿰魚酒}}
+
+# a kind of clam
+
+====Usage notes====
+The codepoint U+4CA4 once both represented ⿰魚酒 (traditional) and ⿰鱼酒 (simplified). Later, it is disunified for compatibility. Now ⿰魚酒 (traditional) belongs to U+9FD0.
+
+====References====
+* {{Han ref|kx=|dkj=|dj=|hdz=|uh=9FD0}}
+* [https://blogs.adobe.com/CCJKType/2014/06/9fcd-thru-9fe9.html Adobe's blog about this character]
+
+----
+
+==Chinese==
+{{zh-forms|s=䲤}}
+
+===Pronunciation===
+{{zh-pron
+|c=zau2
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+[[th:鿐]]
+[[zh:鿐]]

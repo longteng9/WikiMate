@@ -1,0 +1,60 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=一zhì
+|c=jat1 zi3
+|h=pfs=yit-chṳ
+|mn=it-tì
+|cat=a,adv,v,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# in [[agreement]]; [[identical]]; in [[unanimity]]; in [[chorus]]; [[consistent]]
+
+===Adverb===
+{{zh-adv}}
+
+# [[unanimously]]; without exception; [[consistently]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[agree]] with; to be consistent with
+
+===Noun===
+{{zh-noun}}
+
+# [[agreement]]; [[coincidence]]; [[unanimity]]; [[consistency]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|いつ|k1=いっ|ち|yomi=o}}
+
+===Noun===
+{{ja-noun|いっち}}
+
+# [[agreement]], [[harmony]], [[unity]]
+#: {{ja-usex|完全に一致|かんぜん に いっち|perfectly matching}}
+# [[cooperation]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|いっち}}
+
+# to [[agree]], to be in [[unison]]
+# to [[cooperate]]
+
+====Conjugation====
+{{ja-suru|いっち}}
+
+[[ko:一致]]
+[[it:一致]]
+[[hu:一致]]
+[[mg:一致]]
+[[ja:一致]]
+[[chr:一致]]
+[[zh:一致]]

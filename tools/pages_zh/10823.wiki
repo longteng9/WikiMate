@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=21217|canj=OSS|ids=⿰亻巨}}
+
+====References====
+* {{Han ref|kx=0100.021|dkj=00538|hdz=10120.050|uh=4F62|ud=20322|bh=CA5C|bd=51804}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=渠,𠍲,伊-S. Sixian Hakka:yì}}
+
+===Etymology===
+From the initial ''*k''-series of Old Chinese third-person pronouns, cognate with {{och-l|其}}.
+
+In standard Cantonese, the tone has assimilated with the other personal pronouns: {{zh-l|我|tr=ngo<sup>5</sup>}}, {{zh-l|你|tr=nei<sup>5</sup>}}.
+
+===Pronunciation===
+{{zh-pron
+|m=qú
+|c=keoi5,heoi5
+|c_note=heoi5 - nonstandard, chiefly Hong Kong
+|c-t=kui1
+|g=qie2
+|h=pfs=kì/s:yì;gd=gi2
+|cat=pron
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese|Hakka|Gan|vernacular}} [[he]], [[him]]; [[she]], [[her]]; [[it]] {{gloss|third person singular pronoun}}
+#: {{zh-x|佢 個 鼻 好 大。|'''His''' nose is very big.|C-GZ}}
+
+====Synonyms====
+{{zh-dial|他}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人05}}
+
+# {{defn|lang=ja|sort=人05}}
+
+====Readings====
+* {{ja-readings|on=[[きょ]] (kyo)|kun=[[かれ]] (kare)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cừ]]|rs=人05}}
+
+# {{defn|vi}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f62 Nom Foundation]
+
+[[fr:佢]]
+[[ko:佢]]
+[[lt:佢]]
+[[hu:佢]]
+[[mg:佢]]
+[[pl:佢]]
+[[th:佢]]
+[[zh:佢]]

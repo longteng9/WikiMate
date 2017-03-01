@@ -1,0 +1,64 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=tíngbó
+|c=ting4 bok6
+|mn=qz,xm,zz:thêng-po̍k
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[berth]]; to [[anchor]]; to [[moor]]
+
+===Etymology 2===
+From {{zh-l|停|tr=-|to stop}} + {{zh-l|泊}} (from {{der|zh|en|park}})
+
+====Pronunciation====
+{{zh-pron
+|c=ting4 paak3
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|Cantonese}} to [[park]] (a vehicle)
+
+=====Synonyms=====
+* {{zh-l|停車}}
+* {{zh-l|泊車}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てい|はく|yomi=on}}
+
+===Alternative forms===
+* {{l|ja|碇泊}}
+
+===Noun===
+{{ja-noun|ていはく}}
+
+# [[anchorage]]
+
+===Verb===
+{{ja-verb-suru|ていはく}}
+
+# to [[anchor]]
+
+====Conjugation====
+{{ja-suru|ていはく}}
+
+[[fr:停泊]]
+[[hu:停泊]]
+[[mg:停泊]]
+[[ja:停泊]]
+[[zh:停泊]]

@@ -1,0 +1,54 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=sānzhèn
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|baseball}} to [[strike out]]
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|baseball}} a [[strikeout]]
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|strikeout}}
+[[Image:Swinging strikeout.jpg|right|thumb|250px|{{lang|ja|三振}} (''sanshin''): {{w|Cincinnati Reds}} outfielder {{w|Adam Dunn}} '''[[strike out|strikes out]]''' swinging.]]
+</div>
+{{ja-kanjitab|さん|しん|yomi=o}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=さんしん|三|tr1=san|t1=three|振|tr2=shin|t2=swing|pos2=in baseball, specifically a swing without a hit}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=o|さんしん|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|さんしん}}
+
+# {{lb|ja|sort=さんしん|baseball}} a [[strikeout]]
+
+===Verb===
+{{ja-verb-suru|さんしん}}
+
+# to [[strike out]]
+
+====Conjugation====
+{{ja-suru|さんしん}}
+
+===References===
+<references/>
+
+[[ko:三振]]
+[[ja:三振]]
+[[zh:三振]]

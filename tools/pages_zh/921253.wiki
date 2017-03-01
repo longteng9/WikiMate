@@ -1,0 +1,12 @@
+==Japanese==
+{{ja-kanjitab|び|せき|ぶん|がく|yomi=o}}
+
+===Noun===
+{{ja-noun|びせきぶんがく}}
+
+# {{lb|ja|mathematics|sort=ひせきぶんがく'}} [[calculus]], [[infinitesimal calculus]]
+
+====Synonyms====
+* {{qualifier|colloquial}} {{ja-r|微積|びせき}}
+
+[[Category:ja:Calculus]]

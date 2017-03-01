@@ -1,0 +1,37 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Yamato kotoba}}
+</div>
+{{ja-kanjitab|||こと|は|k4=ば|yomi=k|r=y}}
+
+===Etymology===
+Originally a compound of {{compound|lang=ja|sort=やまとことば|倭|tr1=Yamato|t1=ancient Japan|pos1=more commonly spelled as {{m|ja|大和}} in modern Japanese|言葉|tr2=kotoba|t2=word, language}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+The ''yamato'' reading for {{lang|ja|大和}} is irregular.
+
+===Pronunciation===
+{{ja-pron|yomi=k|やまと ことば|acc=4|acc_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|大和詞}}
+
+===Noun===
+{{ja-noun|やまと ことば}}
+
+# a Japanese word of ancient Japanese origin {{qualifier|as opposed to a word borrowed from Chinese, or composed in Japan from Chinese-derived roots}}
+
+====Synonyms====
+* {{l|ja|和語}}
+
+===References===
+<references/>
+
+[[Category:ja:Grammar|やまとことば]]
+
+[[fr:大和言葉]]
+[[ko:大和言葉]]
+[[it:大和言葉]]
+[[li:大和言葉]]
+[[mg:大和言葉]]
+[[zh:大和言葉]]

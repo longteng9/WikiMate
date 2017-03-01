@@ -1,0 +1,43 @@
+{{also|间歇泉}}
+==Chinese==
+{{zh-forms|s=间歇泉|type=21}}
+
+===Etymology===
+{{borrowing|zh|ja|間欠泉|tr=kanketsusen}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jiànxiēquán
+|mn=kàiⁿ-hioh-chôaⁿ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|planetology|geology|volcanology}} [[geyser]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|けつ|せん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|かんけつせん|acc=4|acc2=3|acc3=h|y=ko|dev=4}}
+
+===Noun===
+{{ja-noun|かんけつせん}}
+
+# {{rare spelling of|間欠泉|lang=ja|sort=かんけつせん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=간헐천|mr=kanhŏlch'ŏn|y=kān.helchel}}
+
+# {{hanja form of|간헐천|[[geyser]]}}
+
+[[hu:間歇泉]]

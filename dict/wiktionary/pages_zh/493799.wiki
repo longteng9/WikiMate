@@ -1,0 +1,86 @@
+{{also|几何}}
+==Chinese==
+{{zh-forms|s=几何}}
+
+===Pronunciation===
+{{zh-pron
+|m=jǐhé,er=y
+|m_note=Erhua-ed pronunciation is only used for the geometry sense
+|c=gei2 ho4
+|mn=xm,zz,tw:kí-hô/xm,zz:ki-hô/qz:ki-hô͘
+|cat=adv,n
+}}
+
+===Adverb===
+{{zh-adv}}
+
+# {{lb|zh|literary}} [[how much]]; [[how many]]
+# {{lb|zh|literary}} [[how]] [[old]]
+
+====Derived terms====
+{{zh-der|有幾何:jau5 gei2 ho4-2|無幾何|冇幾何:mou5 gei2 ho4-2|春秋幾何|曾幾何時|相去幾何|俟河之清，人壽幾何}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|mathematics}} [[geometry]]
+
+====Derived terms====
+{{zh-der|幾何級數|幾何圖形|平面幾何|解析幾何|立體幾何}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|幾|何}}
+
+===Etymology===
+From {{compound|幾|何|tr1=ki|tr2=ka|t1=how much|t2=what|lang=ja}}.
+
+===Pronunciation===
+* {{homophones|lang=ja|気化|帰化}}
+
+===Noun===
+{{ja-noun|きか}}
+
+# {{alternative form of|lang=ja|幾何学||geometry}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|リーマン幾何|リーマンきか}}: [[Riemann geometry]], [[Riemannian geometry]]
+* {{ja-r|代数幾何|だいすうきか}}: [[algebraic geometry]]
+* {{ja-r|位相幾何|いそうきか}}: [[topology]]
+* {{ja-r|幾何学|きかがく}}: [[geometry]]
+{{der-mid}}
+* {{ja-r|幾何学的|きかがくてき}}: geometrical
+* {{ja-r|幾何級数|きかきゅうすう}}: [[geometric series]], [[geometric progression]]
+* {{ja-r|微分幾何|びぶんきか}}: [[differential geometry]]
+{{der-bottom}}
+
+===Adverb===
+{{ja-pos|いくばく|adverb}}
+
+# [[how many]], [[how much]]
+
+====Alternative forms====
+* {{ja-r|幾許|いくばく}}
+
+====Usage notes====
+* In modern Japanese, the spellings [[いくばく]], [[幾許]] and [[幾ばく]] are preferred over [[幾何]] when used as an adverb.
+
+[[Category:ja:Mathematics|きか]]
+
+[[zh-min-nan:幾何]]
+[[cs:幾何]]
+[[fr:幾何]]
+[[ko:幾何]]
+[[it:幾何]]
+[[lo:幾何]]
+[[li:幾何]]
+[[hu:幾何]]
+[[mg:幾何]]
+[[ja:幾何]]
+[[ru:幾何]]
+[[chr:幾何]]
+[[zh:幾何]]

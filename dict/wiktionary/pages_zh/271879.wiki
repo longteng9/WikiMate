@@ -1,0 +1,91 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tóngbāo
+|ma=Zh-tóngbao.ogg
+|c=tung4 baau1
+|h=pfs=thùng-pâu
+|mn=tông-pau
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[offspring]] [[born]] from the same [[parent]]s; [[siblings]]
+# [[fellow]] [[countryman]]; [[compatriot]]
+
+====Derived terms====
+{{zh-der|同胞兄弟}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=irr|sort=はらから}}
+
+===Pronunciation===
+* {{ja-pron|どうほう|acc=0|acc_ref=NHK}}
+* {{ja-pron|はらから|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はらから}}
+
+# siblings by the same mother
+#* 10th century: [[w:Ise Monogatari|Ise Monogatari]] (chapter 1, page 79)
+#*: その里に、いとなまめいたる女'''はらから'''住みけり。
+# [[fellow]] [[countryman]], [[compatriot]]
+
+{{ja-kanjitab|どう|ほう|yomi=on}}
+
+===Noun===
+{{ja-noun|どうほう|hhira=どうはう}}
+
+# siblings by the same mother
+# [[fellow]] [[countryman]], [[compatriot]]
+
+====See also====
+* {{ja-r|兄弟|きょうだい}}: [[brother]]
+
+===References===
+<references/>
+* {{cite-book
+|last=Horiuchi
+|first=Hideaki
+|coauthors=Ken Akiyama
+|title=[[w:Taketori Monogatari|Taketori Monogatari]] , [[w:Ise Monogatari|Ise Monogatari]]
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|date=1997
+|location=Tōkyō
+|isbn=4-00-240017-4
+}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=동포}}
+
+# {{hanja form of|동포|[[compatriot]], [[countryman]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|đồng bào|[[compatriot]], [[countryman]]}}
+
+[[zh-min-nan:同胞]]
+[[ko:同胞]]
+[[hu:同胞]]
+[[mg:同胞]]
+[[ja:同胞]]
+[[tl:同胞]]
+[[chr:同胞]]
+[[zh:同胞]]

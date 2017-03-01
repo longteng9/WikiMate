@@ -1,0 +1,94 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=13|sn=16|four=|canj=PTWV|ids=⿰忄農}}
+
+====References====
+* {{Han ref|kx=0404.420|dkj=11304|dj=0745.060|hdz=42361.010|uh=61B9|ud=25017}}
+* [http://yedict.com/htm/61/61B9.htm yedict.com (叶典)]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=náo
+|c=nou4,lou4
+|mc=y
+|oc=y
+|ma=
+|cat=a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[anxious]], [[agitated]]
+# [[remorse]], [[repentance]]
+
+===Pronunciation===
+{{zh-pron
+|m=nǎo
+|c=nou5,lou5
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# (archaic variant of [[惱]] [[恼]]) [[angry]]
+# [[angered]]
+
+===Pronunciation===
+{{zh-pron
+|m=náng
+|c=nung4,lung4
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# in a [[confused]] [[state of mind]], [[discomposure]]
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 110]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心13}}
+
+# {{defn|lang=ja|sort=心13}}
+
+====Readings====
+* {{ja-readings|on=[[どう]] (dō), [[ぬ]] (nu), [[にょう]] (nyō), [[のう]] (nō)|kun=[[こころみだれる]] (kokoromidareru), [[なやむ]] (nayamu)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心13|hanviet=[[lùng]], [[não]], [[nùng]]}}
+
+# {{defn|lang=vi|sort=心13}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=61b9 Nom Foundation]
+
+[[fr:憹]]
+[[hu:憹]]
+[[uz:憹]]
+[[pl:憹]]
+[[th:憹]]
+[[zh:憹]]

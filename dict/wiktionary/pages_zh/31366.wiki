@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|饱}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=184|rad=食|as=05|sn=14|four=87712|canj=OIPRU|ids=⿰飠包}}
+
+====References====
+* {{Han ref|kx=1418.380|dkj=44109|dj=1942.420|hdz=74448.120|uh=98FD|ud=39165|bh=B9A1|bd=47521}}
+
+----
+
+==Chinese==
+{{zh-forms|s=饱}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|食|包|c1=s|c2=p|t1=food|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bǎo
+|c=baau2
+|h=pfs=páu
+|mn=pá/páu
+|mn_note=pá - vernacular, páu - literary
+|w=2pau
+|ma=y
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# (to be) [[full]] (after meal), [[satisfied]]
+#: {{zh-x|吃飽|to eat one's fill}}
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|10320}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=食05}}
+
+# {{defn|lang=ja|sort=食05}}
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō)|kun=[[あきる]] (akiru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=포|eumhun=|mr=p'o|y=pho}}
+
+# {{defn|lang=ko|sort=食05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bão]]|rs=食05}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:飽]]
+[[fr:飽]]
+[[ko:飽]]
+[[hu:飽]]
+[[mg:飽]]
+[[ja:飽]]
+[[pl:飽]]
+[[th:飽]]
+[[chr:飽]]
+[[zh:飽]]

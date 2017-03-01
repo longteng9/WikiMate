@@ -1,0 +1,60 @@
+{{character info/new}}
+{{also|國|国}}
+==Translingual==
+
+===Etymology===
+A {{w|variant Chinese character|variant form}} of {{m|mul|国}} used by the {{w|Taiping Heavenly Kingdom}} during the {{w|Qing Dynasty}}.
+
+===Han character===
+{{Han char|rn=31|rad=囗|as=04|sn=7|four=|canj=WMG|ids=⿴囗王}}
+
+====References====
+* {{Han ref|kx=0217.190|dkj=04716|dj=0445.020|hdz=10713.100|uh=56EF}}
+
+----
+
+==Chinese==
+{{zh-see|國|o}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=囗04}}
+
+# {{lb|ja|uncommon}} {{alternative form of|国|lang=ja}}
+
+====Readings====
+{{ja-readings
+|goon=[[こく]] (koku)
+|kanon=[[こく]] (koku)
+|kun=[[くに]] (kuni)
+}}
+
+----
+
+==Khitan==
+
+===Noun===
+{{head|zkt|noun}}
+
+# country, kingdom
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quốc]]|rs=囗04}}
+
+# {{defn|lang=vi|sort=囗04}}
+
+[[fr:囯]]
+[[li:囯]]
+[[hu:囯]]
+[[mg:囯]]
+[[ja:囯]]
+[[pl:囯]]
+[[th:囯]]
+[[zh:囯]]

@@ -1,0 +1,93 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǐyòng,tl=y
+|ma=y
+|c=si2 jung6,sai2 jung6
+|c_note=si2 jung6 - literary, verb only; sai2 jung6 - vernacular
+|h=pfs=sṳ́-yung
+|mn=qz:sír-iōng/tw,xm,zz:sú-iōng/twv:sái-iōng/twv:sái-ēng
+|w=2sr hhion
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[use]]; to [[utilize]]; to [[employ]], to [[apply]]
+#: {{zh-x|容易 使用|to be easy '''to use'''}}
+
+====Derived terms====
+{{zh-der|使用者}}
+
+===Noun===
+{{zh-noun}}
+
+# [[expense]]; [[expenditure]]
+#: {{zh-x|今次 旅行 使用 咁 大，以後 都 係 要 慳 啲 使 喇。|The '''expenditure''' for the trip this time was so big. From now on, we have to spend less.|C}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|よう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|しよう|y=o|acc=0}}
+
+===Noun===
+{{ja-noun|しよう}}
+
+# [[use]], [[usage]]
+
+====Synonyms====
+* {{ja-r|利用|りよう}}, {{ja-r|活用|かつよう}}
+
+===Verb===
+{{ja-verb-suru|しよう}}
+
+# use, [[utilize]]
+
+====Conjugation====
+{{ja-suru|しよう}}
+
+====Synonyms====
+* {{ja-r|使う|つかう}}, {{ja-r|用いる|もち.いる}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=사용}}
+
+# {{hanja form of|사용|[[use]], [[usage]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Interjection===
+{{vi-hantu|pos=verb}}
+
+# {{han tu form of|sử dụng|to [[use]]; to [[utilize]]; to [[employ]]}}
+
+[[zh-min-nan:使用]]
+[[el:使用]]
+[[ko:使用]]
+[[hu:使用]]
+[[mg:使用]]
+[[fj:使用]]
+[[ja:使用]]
+[[ta:使用]]
+[[chr:使用]]
+[[uk:使用]]
+[[zh:使用]]

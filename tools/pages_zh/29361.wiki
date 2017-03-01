@@ -1,0 +1,94 @@
+{{character info/new}}
+{{also|缽|钵}}
+==Translingual==
+{{Han simplified forms|缽|鉢|钵}}
+
+===Etymology===
+Japanese shinjitai {{Han simp|缽|f=缶|t=金}}.
+
+In current form, {{Han compound|金|本}}.
+
+===Han character===
+{{Han char|rn=167|rad=金|as=05|sn=13|four=|canj=CDM}}
+
+# [[earthenware]] [[basin]]
+# [[alms]] [[bowl]] (Sanskrit {{l|sa|पात्र|tr=pātra}})
+
+====References====
+* {{Han ref|kx=1302.060|dkj=40317|dj=1804.010|hdz=64183.050|uh=9262|ud=37474}}
+
+----
+
+==Chinese==
+{{zh-see|缽|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=金05}}
+
+# {{defn|lang=ja|sort=金05}}
+
+====Readings====
+{{ja-readings|goon=[[はち]] (hachi)|kanon=[[はつ]] (hatsu)}}
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|はち|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=goon|はち|acc=2|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|はち}}
+
+# [[bowl]], [[pot]]
+
+====Derived terms====
+* {{ja-r|植木鉢|うえきばち}}: [[flowerpot]]
+* {{ja-r|金魚鉢|きんぎょばち}}: [[goldfish bowl]]
+* {{ja-r|擂鉢|すりばち}}: [[mortar]] {{qualifier|bowl}}
+* {{ja-r|鉢植え|はちうえ}}: [[potted plant]]
+* {{ja-r|火鉢|ひばち}}: A [[charcoal]]-powered heating [[brazier]]
+
+===References===
+<references/>
+
+[[Category:ja:Containers|はち]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=발|eumhun=|rv=bal|mr=pal|y=pal}}
+
+# ([[바리때]] 발, ''barittae-''): [[bowl]] (perhaps originally, Buddhist [[alms]] bowl)
+
+====Compounds====
+* [[沙鉢]] ([[사발]], ''sabal'') [[porcelain]] [[bowl]]
+* [[周鉢]] ([[주발]], ''jubal'') [[brass]] [[bowl]]
+
+[[Category:Hanja readings|발]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bát]]|rs=金05}}
+
+# {{defn|lang=vi|sort=金05}}
+
+[[fr:鉢]]
+[[ko:鉢]]
+[[lo:鉢]]
+[[li:鉢]]
+[[hu:鉢]]
+[[mg:鉢]]
+[[ja:鉢]]
+[[pl:鉢]]
+[[th:鉢]]
+[[chr:鉢]]
+[[zh:鉢]]

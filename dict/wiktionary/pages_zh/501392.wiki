@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yòngshì
+|c=jung6 si6
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[hold]] [[power]]
+# {{lb|zh|literary}} to use [[classical]] [[allusion]]s in [[poetry]] and [[literature]]
+# to [[manage]] [[affair]]s; to get things done
+
+----
+
+==Japanese==
+{{ja-kanjitab|よう|じ|yomi=on}}
+
+===Noun===
+{{ja-noun|ようじ}}
+
+# [[errand]]; [[business]]
+#: {{ja-usex|'''用事'''があって出席できません。|'''ようじ''' が あって しゅっせき できません。|I have a previous appointment and can not attend the meeting.}}
+#: {{ja-usex|あしたちょっと'''用事'''があるんです。|^あした ちょっと '''ようじ''' が ある ん です。|I have other things to do tomorrow.}}
+
+====Synonyms====
+* {{ja-r|用|よう}}
+* {{ja-r|要件|ようけん}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[hu:用事]]
+[[sv:用事]]
+[[uk:用事]]
+[[zh:用事]]

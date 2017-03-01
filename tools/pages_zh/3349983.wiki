@@ -1,0 +1,53 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=sǐqù
+|c=sei2 heoi3
+|mn=sí--khì/sí--khù
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[die]]; to [[pass away]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|きょ|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|しきょ|yomi=o}}
+
+===Noun===
+{{ja-noun|しきょ}}
+
+# [[death]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|しきょ}}
+
+# to [[die]]
+
+====Conjugation====
+{{ja-suru|しきょ}}
+
+[[Category:ja:Death|しきょ]]
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=사거}}
+
+# {{hanja form of|사거|[[death]]}}
+
+[[zh-min-nan:死去]]
+[[hu:死去]]
+[[mg:死去]]
+[[ja:死去]]
+[[pt:死去]]
+[[zh:死去]]

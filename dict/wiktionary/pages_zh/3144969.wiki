@@ -1,0 +1,44 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǎoyǒu
+|c=bou2 jau5
+|h=pfs=pó-yû
+|mn=pó-iú
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[hold]], to [[possess]], to [[have]], to [[own]]
+
+====Synonyms====
+* {{zh-l|擁有}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほ|ゆう|yomi=on}}
+
+===Noun===
+{{ja-noun|ほゆう}}
+
+# [[retention]], [[possession]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|ほゆう}}
+
+# [[hold]], [[possess]]
+#: {{ja-usex|世界遺産を保有していない国|せかい いさん を ほゆう していない くに|countries without World Heritage Sites}}
+
+====Conjugation====
+{{ja-suru|ほゆう}}
+
+[[ko:保有]]
+[[hu:保有]]
+[[mg:保有]]
+[[ja:保有]]
+[[zh:保有]]

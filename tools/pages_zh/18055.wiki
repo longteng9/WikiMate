@@ -1,0 +1,63 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=11|sn=15|four=41917|canj=DYPM|ids=⿰木虘}}
+
+# a [[kind]] of [[hawthorn]]
+
+====References====
+* {{Han ref|kx=0550.190|dkj=15449|dj=0938.110|hdz=21278.110|uh=6A1D|ud=27165|bh=E5D7|bd=58839}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhā
+|c=zaa1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木11}}
+
+# {{defn|lang=ja|sort=木11}}
+
+====Readings====
+* {{ja-readings|on=[[さ]] (sa), [[しゃ]] (sha)|kun=[[こぼけ]] (koboke)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木11| hanviet = tra}}
+
+# {{defn|lang=vi|sort=木11}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6a1d Nom Foundation]
+
+[[fr:樝]]
+[[hu:樝]]
+[[pl:樝]]
+[[th:樝]]
+[[zh:樝]]

@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiǎoxióngzuò
+|mn=Sió-hîm-chō
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[Ursa Minor]]
+
+====Synonyms====
+* {{zh-l|小熊星座}}
+* {{zh-l|熊仔座}}
+
+===See also===
+* {{zh-l|大熊座}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こ|くま|ざ|k2=ぐま|r=y|yomi=y}}
+
+===Etymology===
+{{prefix|lang=ja|小|tr1=ko-|t1=small|熊|tr2=kuma|tr=bear|sort=こぐまざ}}{{suffix|lang=ja||座|tr2=-za|t2=constellation|sort=こぐまざ}}
+
+===Proper noun===
+{{ja-pos|proper|こぐまざ}}
+
+# {{lb|ja|constellation|sort=こぐまざ}} [[Ursa Minor]]
+
+[[hu:小熊座]]
+[[ja:小熊座]]
+[[zh:小熊座]]

@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=76|rad=欠|as=07|sn=11|four=57982|canj=DLNO|ids=⿰束欠}}
+
+====References====
+* {{Han ref|kx=0568.030|dkj=16086|dj=0956.160|hdz=32139.100|uh=6B36|ud=27446|bh=D5D6|bd=54742}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shuò
+|c=sok3
+|mn=suh
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[suck]] in
+# [[inhale]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=欠07}}
+
+# to [[suck]], to [[inhale]]
+
+====Readings====
+{{ja-readings
+|on=[[さく]] (saku), [[しゅく]] (shuku), [[すく]] (suku)
+|kun=[[すう]] (suu)
+}}
+
+====Usage notes====
+This character does not appear to be used in modern Japanese.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=삭|eumhun=|rv=sak|mr=sak|y=sak}}
+
+# {{defn|lang=ko|sort=欠07}}
+
+[[zh-min-nan:欶]]
+[[fr:欶]]
+[[hu:欶]]
+[[pl:欶]]
+[[th:欶]]
+[[zh:欶]]

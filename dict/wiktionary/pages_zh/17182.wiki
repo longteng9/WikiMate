@@ -1,0 +1,96 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=14|sn=18|four=66064|canj=AWLA|ids=⿰日署}}
+
+# [[daybreak]], [[dawn]], [[light]] of the [[rising]] [[sun]]
+
+====References====
+* {{Han ref|kx=0501.040|dkj=14220|dj=0871.130|hdz=21538.090|uh=66D9|ud=26329|bh=C0C6|bd=49350}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǔ
+|c=cyu5,syu5,syu6
+|mn=qz:sìr/qz,tw,xm:sú/zz:sí/qz:sír
+|mn_note=sìr/sú/zz:sí - literary; sú/sír - vernacular (俗)
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一線曙光|曙光|曙光乍現|曙後星孤|曙色}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日14}}
+
+# {{defn|lang=ja|sort=日14}}
+
+====Readings====
+* {{ja-readings|on=[[しょ]] (sho)|kun=[[あけぼの]] (akebono)}}
+
+===Etymology===
+{{ja-kanjitab|あけぼの|yomi=k}}
+Compound of {{compound|明け|tr1=ake|t1=brighten|仄|tr2=hono|t2=faint|lang=ja}}
+
+====Noun====
+{{ja-noun|あけぼの}}
+
+# the time when night fades and the morning faintly brightens; [[dawn]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=서|eumhun=|rv=seo|mr=sŏ|y=se}}
+
+# {{defn|lang=ko|sort=日14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=日14|hanviet=thự}}
+
+# {{defn|lang=vi|sort=日14}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=66d9 Nom Foundation]
+
+[[fr:曙]]
+[[ko:曙]]
+[[hi:曙]]
+[[it:曙]]
+[[lo:曙]]
+[[hu:曙]]
+[[mg:曙]]
+[[ja:曙]]
+[[no:曙]]
+[[pl:曙]]
+[[th:曙]]
+[[chr:曙]]
+[[zh:曙]]

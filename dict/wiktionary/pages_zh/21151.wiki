@@ -1,0 +1,133 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=102|rad=田|as=05|sn=10|four=00603|canj=YVIW|ids=⿱玄田}}
+
+====Derived characters====
+* [[蓄]]
+
+====References====
+* {{Han ref|kx=0761.120|dkj=21814|dj=1171.050|hdz=42538.040|uh=755C|ud=30044|bh=AF62|bd=44898}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=嘼,𠬀,𤛅,𤠕,𤲸,蓄,𠾧}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|玄|田|ls=p|t1=rope tying the bag of feed|t2=bag of feed}} – a bag of feed, hence livestock.
+
+Alternatively, {{Han compound|玄|[[田]] or [[囿]]|t1=rope|t2=pen; fold; enclosure}} – tying animals and raising them in the enclosure.
+
+===Etymology===
+“To raise; to rear (an animal)” (''*–k'') > “domesticated animal; livestock” (''*–k–s'', [[exopassive]]: “what has been raised”). The various pronunciations in Old and Middle Chinese have been confused or merged in many extant dialects.
+
+Etymology {{unk.|nocap=1|lang=zh}}. Probably from {{inh|zh|sit-pro|*hu||to be born; birth; to rear}}, and thus may be related to {{och-l|好|good; to like}} ({{zh-ref|Matisoff}}). Alternatively, from {{inh|zh|sit-pro|*kruŋ||to live; alive; to be born; to give birth; green; sprout}}, whence {{cog|bo|འཁྲུང||to be born; to arise; to sprout}} ({{zh-ref|Schuessler, 2007}}).
+
+[http://blog.sina.com.cn/s/blog_4b41fa860102vbaf.html Zhengzhang (2015)] relates {{cog|bo|ལུག||sheep}} to this word; this would be parallel to {{och-l|羊|sheep}} ?~ {{och-l|養|to rear}} ({{zh-ref|Sagart, 1999}}). In {{zh-ref|Sagart (1999)}}, {{lang|zh|畜}} is related to {{och-l|育|to nourish}} and {{och-l|鞠|to rear}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=xù
+|c=cuk1
+|h=pfs=hiuk
+|md=hé̤ṳk
+|mn=hiok/xm,qz:thiok
+|w=4xioq
+|mc=3
+|oc=4+2,3
+|cat=v,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[nourish]]; to [[raise]]; to [[rear]]
+# to [[bring up]]; to [[nurture]]; to [[foster]]; to [[cultivate]]
+# {{†}} to [[submit]]; to [[obey]]; to [[comply]]
+# {{†}} to [[tolerate]]; to [[allow]]
+# {{†}} to [[keep]]; to [[house]]; to [[collect]]
+# {{†}} {{zh-alt-form|蓄|to [[store up]]; to [[accumulate]]}}
+# {{†}} {{zh-alt-form|慉|to [[like]]}}
+# {{lb|zh|dialectal|of a smell}} to [[irritate]] one's [[respiratory]] [[organ]]s
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|fold=1|小畜|事畜|儋石之畜|仰事俯畜|畜牧業|畜牧學|畜養|牧畜|畜牧|豕交獸畜|畜產|畜積|畜牧場}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=chù
+|c=cuk1
+|h=pfs=chhuk/hiuk
+|md=hé̤ṳk
+|mn=xm,qz,tw:thiok/zz:hiok/xm,tw:thek/qz:thiak
+|mn_note=thiok/hiok - literary; thek/thiak - vernacular
+|w=4tshoq
+|mc=1+2+4
+|oc=1+3,1+2
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[livestock]]; [[domesticated]] [[animal]]; [[farm]] animal
+#: {{zh-x|家畜{chù}|domesticated animal}}
+# [[creature]]; [[beast]]
+#: {{zh-x|畜{chù}生|beast, brute}}
+
+====Compounds====
+{{zh-der|fold=1|五畜|力畜|孽畜|六畜|公畜|役畜|六畜不安|家畜|扁毛畜生|畜牲|畜生|牲畜|畜疫|畜產|畜力|牧養納畜|畜肥|業畜|種畜|老畜生|耕畜|造畜稠棧|畜圈|畜欄|觸群}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=田05}}
+
+# {{defn|lang=ja|sort=田05}}
+
+====Readings====
+* {{ja-readings|goon=[[ちく]] (chiku), [[きく]] (kiku)|kanon=[[ちく]] (chiku), [[きく]] (kiku)|kun=[[たくわえる]] (takuwaeru), [[やしなう]] (yashinau), [[かう]] (kau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[축]], [[휵]]|eumhun=|rv=chuk, hyuk|mr=ch'uk, hyuk|y=chwuk, hyuk}}
+
+# {{defn|lang=ko|sort=田05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[súc]], [[húc]], [[sục]]|rs=田05}}
+
+* lục súc 六畜
+# {{defn|lang=vi|sort=田05}}
+
+====Readings====
+* Nôm: súc
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville, 1999
+
+[[fr:畜]]
+[[ko:畜]]
+[[hu:畜]]
+[[mg:畜]]
+[[ja:畜]]
+[[no:畜]]
+[[pl:畜]]
+[[th:畜]]
+[[vi:畜]]
+[[zh:畜]]

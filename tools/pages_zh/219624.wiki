@@ -1,0 +1,40 @@
+{{also|证明|證明}}
+==Chinese==
+{{zh-see|證明|v}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|めい|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|しょうめい|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|しょうめい|kyu=證明}}
+
+# [[proof]]; [[evidence]]; [[verification]]
+# {{lb|ja|mathematics|sort=しょうめい}} [[proof]]
+
+====Compounds====
+* {{l/ja|証明書}}
+
+===Verb===
+{{ja-verb-suru|しょうめい|kyu=證明}}
+
+# to [[prove]]; to [[confirm]]
+# {{lb|ja|mathematics|sort=しょうめい}} to [[prove]]
+
+====Conjugation====
+{{ja-suru|しょうめい}}
+
+===References===
+* {{R:Shogakukan}}
+<references/>
+
+[[fr:証明]]
+[[hu:証明]]
+[[mg:証明]]
+[[ja:証明]]
+[[sv:証明]]
+[[zh:証明]]

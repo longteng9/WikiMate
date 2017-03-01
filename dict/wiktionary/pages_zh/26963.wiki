@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|诅}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=05|sn=12|four=07610|canj=YRBM|ids=⿰言且}}
+
+====References====
+* {{Han ref|kx=1156.030|dkj=35390|dj=1621.070|hdz=63953.080|uh=8A5B|ud=35419|bh=B641|bd=46657}}
+
+----
+
+==Chinese==
+{{zh-forms|s=诅}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zǔ
+|c=zo3
+|mn=qz,xm,zz:chó͘
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[curse]]
+# to curse
+# to [[swear]], [[pledge]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言05}}
+
+# [[curse]]
+
+====Readings====
+{{ja-readings
+|goon=[[そ]] (so)
+|kanon=[[しょ]] (sho)
+|kun=[[のろう|のろ.う]] ([[詛う]], norou)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=저|eumhun=|rv=jeo|mr=chŏ|y=ce}}
+
+# {{defn|lang=ko|sort=言05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''詛''' ([[trớ]], [[chú]], [[thư]], [[trù]])
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:詛]]
+[[ko:詛]]
+[[hu:詛]]
+[[mg:詛]]
+[[ja:詛]]
+[[pl:詛]]
+[[th:詛]]
+[[zh:詛]]

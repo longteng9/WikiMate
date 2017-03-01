@@ -1,0 +1,94 @@
+{{character info/new}}
+{{also|覧|覽|贤}}
+
+==Translingual==
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=08|sn=15|four=77806|canj=SEBUC|ids=⿱臤貝}}
+
+====References====
+* {{Han ref|kx=1209.280|dkj=36822|dj=1674.170|hdz=63646.060|uh=8CE2|ud=36066|bh=BDE5|bd=48613}}
+
+----
+
+==Chinese==
+{{zh-forms|s=贤}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|臤|貝|t2=money|ls=psc|c1=p|c2=s}} – worthy, valuable (like money)
+
+===Pronunciation===
+{{zh-pron
+|m=xián
+|c=jin4
+|h=
+|mn=hiân
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[virtuous]], [[good]], [[clever]], [[wise]], [[worthy]]
+# [[able]], [[capable]]
+
+===Compounds===
+* (''Min Nan'') [[賢慧]] (hiân-huē)
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=貝08}}
+
+# [[intelligence]]
+# [[clever]]
+# [[quick-witted]]
+# [[sagacious]]
+
+====Readings====
+* {{ja-readings|goon=[[げん]] (gen)|kanon=[[けん]] (ken)|kun=[[かしこい]] (kashikoi), [[さかしい]] (sakashii), [[まさる]] (masaru)}}
+
+===Proper noun===
+{{ja-pos|さとる|proper}}
+
+# {{given name|male|lang=ja|sort=さとる}}
+
+{{ja-pos|まさる|proper}}
+
+# {{given name|male|lang=ja|sort=まさる}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=현|eumhun=|rv=hyeon|mr=hyŏn|y=hyen}}
+
+# {{defn|lang=ko|sort=貝08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hiền]], [[hèn]]|rs=貝08}}
+
+# {{defn|lang=vi|sort=貝08}}
+
+[[zh-min-nan:賢]]
+[[fr:賢]]
+[[ko:賢]]
+[[li:賢]]
+[[hu:賢]]
+[[mg:賢]]
+[[ja:賢]]
+[[pl:賢]]
+[[th:賢]]
+[[zh:賢]]

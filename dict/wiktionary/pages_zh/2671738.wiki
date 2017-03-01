@@ -1,0 +1,27 @@
+{{also|開會|开会}}
+==Japanese==
+{{ja-kanjitab|かい|かい|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|かいかい|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|かいかい}}
+
+# [[opening]] of a [[meeting]]
+
+===Verb===
+{{ja-verb-suru|tr=both|かいかい}}
+
+# to [[start]] a [[meeting]]
+#: {{ja-usex|これから'''開会'''します。|これ から '''かいかい''' します。|Let's start the meeting.}}
+# for a meeting to begin
+
+====Conjugation====
+{{ja-suru|かいかい}}
+
+===References===
+<references/>
+
+[[hu:開会]]
+[[zh:開会]]

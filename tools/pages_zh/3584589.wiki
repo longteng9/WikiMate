@@ -1,0 +1,75 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yāozhé,yǎozhé,2nb=literary
+|c=jiu2 zit3,jiu1 zit3
+|c_note=jiu1 zit3 - common variant
+|h=pfs=yêu-chat
+|mn=qz,xm,zz:iau-chiat/tw:iáu-chiat
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[premature]] [[death]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[die]] [[prematurely]], to die while still [[young]]
+
+====Synonyms====
+* {{zh-l|夭逝}}
+
+{{zh-cat|Death}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|よう|せつ|yomi=on}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=ようせつ}} {{m|zh|sc=Hani|夭折}}.
+
+===Pronunciation===
+{{ja-pron|ようせつ|acc=h|y=on|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ようせつ}}
+
+# a [[premature]] [[death]], [[dying]] while still [[young]]
+
+====Synonyms====
+* {{ja-r|夭逝|ようせい}}
+
+===Verb===
+{{ja-verb-suru|ようせつ}}
+
+# to [[die]] [[prematurely]], to die while still [[young]]
+
+====Conjugation====
+{{ja-suru|ようせつ}}
+
+===References===
+<references/>
+
+[[Category:ja:Death|ようせつ]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=요절}}
+
+# {{hanja form of|요절|[[premature]] [[death]]}}
+
+[[zh-min-nan:夭折]]
+[[ko:夭折]]
+[[hu:夭折]]
+[[ja:夭折]]
+[[zh:夭折]]

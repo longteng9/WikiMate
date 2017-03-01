@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|匱|餽|櫃|馈}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=184|rad=食|as=12|sn=21|four=85786|canj=OILMC|ids=⿰飠貴}}
+
+# [[offer]] [[food]] to a [[superior]]
+# [[send]] [[gift]]
+
+====References====
+* {{Han ref|kx=1425.190|dkj=44382|dj=1950.470|hdz=74474.080|uh=994B|ud=39243|bh=F558|bd=62808}}
+
+----
+
+==Chinese==
+{{zh-forms|s=馈}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kuì
+|c=gwai6,gwai3
+|mn=kūi
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一饋十起|中饋|中饋乏人|中饋猶虛|反饋|回饋|回饋作用|回饋控制|婦主中饋|迴饋作用|餉饋|饋人|饋奠|饋糧|饋線|饋貧糧|饋贈|饋路|饋遺|饋食|饋饌}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=食12}}
+
+# {{defn|lang=ja|sort=食12}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki), [[ぎ]] (gi)|kun=[[おくる]] (okuru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=궤|eumhun=|rv=gwe|mr=kwe|y=kwey}}
+
+# {{defn|lang=ko|sort=食12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=食12| hanviet = quỹ}}
+
+# {{defn|lang=vi|sort=食12}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=994b Nom Foundation]
+
+[[fr:饋]]
+[[ko:饋]]
+[[hu:饋]]
+[[mg:饋]]
+[[ja:饋]]
+[[pl:饋]]
+[[th:饋]]
+[[zh:饋]]

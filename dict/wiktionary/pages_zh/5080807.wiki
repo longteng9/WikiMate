@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=不máo
+|c=bat1 mou4
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive|of land}} [[barren]]; [[infertile]]
+
+===Derived terms===
+{{zh-der|不毛之地}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふ|もう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ふもう|y=o}}
+
+===Adjective===
+{{ja-adj|ふもう|infl=na}}
+
+# [[barren]], [[infertile]], [[sterile]]
+#: {{ja-usex|不毛な土地になっています。|ふもう な とち に なっています。|The soil has become barren.}}
+# [[futile]], [[fruitless]], being a waste of effort
+
+====Inflection====
+{{ja-na|ふもう}}
+
+===Noun===
+{{ja-noun|ふもう}}
+
+#[[infertility]], inability of soil to yield crops
+# [[futility]], lack of good results
+
+[[ko:不毛]]
+[[mg:不毛]]
+[[ja:不毛]]
+[[zh:不毛]]

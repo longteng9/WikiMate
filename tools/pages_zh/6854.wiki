@@ -1,0 +1,141 @@
+{{character info/new}}
+{{also|冰|永}}
+==Translingual==
+{{stroke order|strokes=5}}
+
+===Alternative forms===
+* {{l|mul|冫}} {{qualifier|when used as a left Chinese radical}}
+
+===Han character===
+{{Han char|rn=85|rad=水|as=01|sn=5|four=32230|canj=IE|ids=⿱水丶}}
+
+# [[ice]], [[frost]], [[icicle]]s
+# [[cold]]
+
+====Derived characters====
+* [[Index:Chinese radical/冫]]
+
+====References====
+* {{Han ref|kx=0603.030|dkj=17087|dj=0996.030|hdz=31546.040|uh=6C37|ud=27703}}
+
+----
+
+==Chinese==
+{{zh-see|冰|v}}
+
+----
+
+==Japanese==
+[[Image:Block if ice in Jökulsarlon Iceland.JPG|thumb|right]]
+
+===Etymology 1===
+Ultimately from a form ''kopori'', which was reduced first to ''koɸori'', then ''kowori'', then ''koori'', and finally ''koːri''.
+
+====Pronunciation====
+* {{IPA|/kʰoːɺ̠i/|lang=ja}}
+
+====Noun====
+{{ja-noun|こおり|hhira=こほり}}
+
+# [[ice]]
+#* {{RQ:Wamyō Ruijushō|1|46}}
+#*: 氷 [...] 和名比、一云'''古保利'''
+
+===Etymology 2===
+From a form ''pi'' which was reduced to ''ɸi'' and then to ''hi''.
+
+====Pronunciation====
+* {{IPA|/çi/|lang=ja}}
+
+====Noun====
+{{ja-noun|ひ}}
+
+# [[ice]]
+#* {{RQ:Wamyō Ruijushō|1|46}}
+#*: 氷 [...] 和名'''比'''、一云古保利
+
+====Kanji====
+{{ja-kanji|grade=3|rs=水01}}
+
+# [[ice]]
+# [[freeze]]
+# [[congeal]]
+
+=====Readings=====
+* {{ja-readings|goon=[[ひょう]] (hyō)|kanon=[[ひょう]] (hyō)|kun=[[こおり]] (kōri), [[ひ]] (hi)|nanori=[[すい]] (sui), [[きよ]] (kiyo), [[ひ]] (hi)}}
+
+=====Compounds=====
+* [[氷屋]] kōriya (ice shop)
+* [[氷山]] hyōzan (iceberg)
+* [[氷雨]] hisame (frozen rain)
+* [[氷雪]] hyōsetsu (ice and snow)
+* [[氷海]] hyōkai (icy waters)
+* [[氷点]] hyōten (freezing point)
+* [[氷河]] hyōga (glacier)
+* [[氷柱]] hyōchū/tsurara (icicle)
+* [[氷室]] himuro (ice house)
+* [[流氷]] ryūhyō (drift ice)
+* [[薄氷]] hakuhyō/usugōri (thin ice)
+<!-- You can [http://web.mit.edu/jpnet/ji/data/sound/koori.au hear] it pronunced. ''(need *.au file player)''-->
+
+===See also===
+* {{l|ja|アイス|tr=aisu}}
+
+===References===
+{{ja-kref
+|ku=4125
+|shift=9558
+|jis=4939
+|euc=C9B9
+|skip=1-2-3
+|freq=1450
+|nelson=131
+|newnelson=3032
+|halpern=39
+|kld=24
+|heisig=131
+|tuttle=3a1.2
+}}
+* {{R:Wamyō Ruijushō}}
+
+[[Category:Japanese basic words|こおり]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=빙|eumhun=|rv=bing|mr=ping|y=ping}}
+
+# {{defn|lang=ko|sort=水01}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[băn]], [[băng]], [[phăng]]|rs=水01}}
+
+# {{defn|lang=vi}}
+
+[[cs:氷]]
+[[el:氷]]
+[[fr:氷]]
+[[ko:氷]]
+[[ky:氷]]
+[[lo:氷]]
+[[li:氷]]
+[[hu:氷]]
+[[mg:氷]]
+[[ja:氷]]
+[[km:氷]]
+[[pl:氷]]
+[[pt:氷]]
+[[ru:氷]]
+[[sm:氷]]
+[[sv:氷]]
+[[th:氷]]
+[[tg:氷]]
+[[chr:氷]]
+[[tr:氷]]
+[[zh:氷]]

@@ -1,0 +1,17 @@
+==Japanese==
+{{ja-kanjitab|ち|のり|yomi=kun}}
+
+===Etymology===
+From {{compound|ja|血|糊|tr1=chi|tr2=nori|t1=blood|t2=glue}}.
+
+===Pronunciation===
+{{ja-pron|ちのり|y=k}}
+
+===Noun===
+{{ja-noun|ちのり}}
+
+# A [[size#Etymology 2|size]]; a thickened [[crust]] on coagulated blood.
+#: {{ja-usex|武蔵は刀についた'''血糊'''を洗い流した。|^むさし は かたな に ついた '''ちのり''' を あらいながした。|Musashi washed away the '''size''' on his katana.}}
+
+[[mg:血糊]]
+[[chr:血糊]]

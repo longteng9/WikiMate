@@ -1,0 +1,53 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=不yì
+|c=bat1 ji3
+|mn=put-ì
+|cat=adv
+}}
+
+===Adverb===
+{{zh-adv}}
+
+# {{lb|zh|literary}} [[unexpectedly]]
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[unawareness]]; [[unpreparedness]]
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[not]] [[anticipate]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふ|い|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|decl=na|ふい}}
+
+# [[abrupt]], [[unexpected]]
+
+====Inflection====
+{{ja-na|ふい}}
+
+===Noun===
+{{ja-noun|ふい}}
+
+# [[abruptness]]
+
+===Adverb===
+{{ja-pos|adverb|ふい}}
+
+# [[suddenly]], [[unexpectedly]]
+#: {{ja-usex|'''不意'''に近くのランプが動いた|'''ふい''' に ちかく の ランプ が うごいた|the nearby lamp '''suddenly''' moved}}
+
+[[hu:不意]]
+[[mg:不意]]
+[[zh:不意]]

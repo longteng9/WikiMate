@@ -1,0 +1,67 @@
+{{also|勤务}}
+==Chinese==
+{{zh-forms|s=勤务}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=qínwù
+|c=kan4 mou6
+|mn=qz,tp,xm:khûn-bū/kh,zz:khîn-bū
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[service]]; [[duties]]
+# {{lb|zh|military}} [[orderly]]
+
+====Derived terms====
+{{zh-der|勤務兵|勤務召集|勤務員|警察勤務}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きん|む|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|きんむ|yomi=o}}
+
+===Noun===
+{{ja-noun|きんむ}}
+
+# [[work]], [[duty]], [[service]] at a company etc.
+#: {{ja-usex|今度こちらに'''勤務'''になりました。|こんど こちら に '''きんむ''' に なりました。|Recently, I got a position here.}}
+
+====Synonyms====
+* {{ja-r|役目|やくめ}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|きんむ}}
+
+# to [[work]] for
+
+====Conjugation====
+{{ja-suru|きんむ}}
+
+===References===
+* {{R:Shogakukan}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=근무}}
+
+# {{hanja form of|근무}}
+
+[[zh-min-nan:勤務]]
+[[ko:勤務]]
+[[hu:勤務]]
+[[mg:勤務]]
+[[ja:勤務]]
+[[chr:勤務]]
+[[zh:勤務]]

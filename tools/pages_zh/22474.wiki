@@ -1,0 +1,90 @@
+{{character info/new}}
+{{also|谷|殻}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=10|sn=15|four=47947|canj=GDHNE|ids=⿰⿱⿳士冖一禾殳}}
+
+====References====
+* {{Han ref|kx=0858.050|dkj=25221|dj=1283.140|hdz=32164.110|uh=7A40|ud=31296|bh=BD5C|bd=48476}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谷}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|禾|𣪊|c1=s|c2=p|t1=grain|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gǔ
+|m-s=gu2
+|c=guk1,huk6,gau3
+|h=pfs=kuk
+|md=
+|mn=kok
+|w=
+|mc=y
+|oc=y
+|cat=n,a
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[corn]]; [[grain]]; [[cereal]]
+# [[lucky]]
+
+===Compounds===
+{{zh-der|五穀豐登|九穀|川穀|不穀|五穀不分|嘉穀|年穀|包穀|布穀鳥|布穀|五穀不升|嚼穀|五穀|孤寡不穀|息穀|五穀豐稔|穀道|撥穀|穀風|戩穀|穀神星|百穀|打穀機|穀日|稻穀|打穀|積穀防饑|積穀|穀雨|穀賤傷農|穀草|穀米|穀穀|穀子|穀圭|穀類|礱穀機|殖穀|晒穀場|穀倉|穀旦|田穀|穀食|穀梁傳|晒穀|穀物|脫穀機|荒年穀|錢穀|臧穀亡羊|辟穀|米穀|辟穀絕粒|館穀}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=禾10}}
+
+# grain
+
+====Readings====
+{{ja-readings|goon=[[こく]] (koku)|kanon=[[こく]] (koku)|kun=[[たなつもつ]] (tanatsumotsu)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|穀食|こくしょく}}: [[cereal]]-[[eating]]
+* {{ja-r|穀草|こくそう}}: [[cereal]]; [[grain]]
+* {{ja-r|穀物|こくもつ}}: cereal; grain
+* {{ja-r|穀類|こくるい}}: cereal; grain
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[곡]], [[구]]|eumhun=|rv=gok, gu|mr=kok, ku|y=kok, kwu}}
+
+# {{defn|lang=ko|sort=禾10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cốc]]|rs=禾10}}
+
+# {{defn|lang=vi|sort=禾10}}
+
+[[fr:穀]]
+[[ko:穀]]
+[[hu:穀]]
+[[mg:穀]]
+[[ja:穀]]
+[[pl:穀]]
+[[th:穀]]
+[[vi:穀]]
+[[zh:穀]]

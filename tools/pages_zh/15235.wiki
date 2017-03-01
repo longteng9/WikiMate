@@ -1,0 +1,91 @@
+{{character info/new}}
+{{also|雕}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=59|rad=彡|as=08|sn=11|four=72222|canj=BRHHH|ids=⿰周彡}}
+
+# [[carve]], [[decorate]]
+# [[emaciated]]
+
+====References====
+* {{Han ref|kx=0363.230|dkj=09995|dj=0683.030|hdz=20855.040|uh=5F6B|ud=24427|bh=B16E|bd=45422}}
+
+===See also===
+* {{l|mul|雕}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=diāo
+|c=tiu1,diu1
+|mn=tiau
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|彫刻|彫勵|彫啄|彫喪|彫弓|彫敝|彫梁畫棟|彫殘|彫牆|彫瑑|彫蟲|彫蟲篆刻|彫謝|彫零|彫章鏤句|彫颼|彫騷|文擅彫龍|朽棘不彫|民生彫敝|花彫}}
+
+===References===
+* {{R:twedu|A01272}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=彡08}}
+
+# [[carve]]
+# [[engrave]]
+# [[chisel]]
+
+====Readings====
+* {{ja-readings|goon=[[ちょう]] (chō)|kanon=[[ちょう]] (chō)|kun=[[ほる]] (horu)}}
+
+====Compounds====
+* [[彫刻]] (ちょうこく, chōkoku)
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=彡08}}
+
+====Compounds====
+* [[彫像]] ([[조상]], josang)
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''彫''' ([[điêu]], [[đêu]])
+
+# {{defn|lang=vi}}
+
+[[fr:彫]]
+[[ko:彫]]
+[[hu:彫]]
+[[ja:彫]]
+[[pl:彫]]
+[[th:彫]]
+[[zh:彫]]

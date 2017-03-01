@@ -1,0 +1,48 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Hand_fan#East_Asia}}
+[[File:Boushuu_uchiwa.jpg|thumb|right|250px|{{lang|ja|団扇}} (''uchiwa'', ''dansen''): a Japanese '''rigid [[hand fan]]'''.]]
+</div>
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|sort=うちわ}}
+Compound of {{compound|lang=ja|sort=うちわ|打ち|tr1=uchi|t1=hitting; batting|pos1=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|打つ}} ''utsu'', “to hit, to bat”|羽|tr2=wa|t2=wing}}. The kanji are an example of [[熟字訓#Japanese|jukujikun]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|y=i|うちわ|acc=2|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|うちわ|hhira=うちは}}
+
+# a [[rigid]] [[hand fan]] that does not [[fold]]
+# short for {{m|ja|軍配団扇|tr=gunbai uchiwa}}: a rigid fan used for military signaling
+# a {{m|ja|家紋|tr=kamon||family crest}} featuring an ''uchiwa'' design
+
+=====Derived terms=====
+* {{ja-r|軍配団扇|ぐんばい うちわ}}: a rigid fan used for military signaling
+* {{ja-r|団扇%撞%木%鮫|ウチワ% シュ%モク%ザメ}}
+
+=====Related terms=====
+* {{ja-r|扇子|せんす}}: a [[folding]] [[fan]]
+* {{ja-r|扇風機|せんぷうき}}: a [[rotating]] [[fan]], an [[electric]] fan
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|だん|せん}}
+Probably from {{etyl|ltc|ja|sort=だんせん}} compound {{m|zh|團扇|tr=dhuɑn syen<sup>H</sup>|lit=circle fan}}. Compare modern {{etyl|cmn|-}} traditional {{m|zh|團扇}} and simplified {{m|zh|团扇|tr=tuánshàn}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|だんせん|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|だんせん}}
+
+# a [[rigid]] [[hand fan]] that does not [[fold]]
+# short for {{m|ja|軍配団扇|tr=gunbai uchiwa}}: a rigid fan used for military signaling
+
+===References===
+<references/>
+
+[[cs:団扇]]
+[[hu:団扇]]
+[[ja:団扇]]

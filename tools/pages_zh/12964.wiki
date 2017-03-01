@@ -1,0 +1,63 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=03|sn=6|four=48117|canj=GON|ids=⿰土乞}}
+
+# {{defn|Han|sort=土03}}
+
+====References====
+* {{Han ref|kx=0223.120|dkj=04883|dj=0456.020|hdz=10419.090|uh=572A|ud=22314|bh=C9C9|bd=51657}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gē
+|c=ngat6,gat6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土03}}
+
+# {{defn|lang=ja|sort=土03}}
+
+====Readings====
+* {{ja-readings|on=[[ぎつ]] (gitsu), [[ぎち]] (gichi), [[ごち]] (gochi), [[いつ]] (itsu), [[おち]] (ochi)|kun=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngật]]|rs=土03}}
+
+# {{defn|lang=vi|sort=土03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=572a Nom Foundation]
+
+[[fr:圪]]
+[[hu:圪]]
+[[mg:圪]]
+[[pl:圪]]
+[[th:圪]]
+[[zh:圪]]

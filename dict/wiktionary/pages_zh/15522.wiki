@@ -1,0 +1,69 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=07|sn=10|four=98027|canj=PCNH|ids=⿰忄弟}}
+
+# [[brotherly]], [[respectful]]
+
+====References====
+* {{Han ref|kx=0386.430|dkj=10642|dj=0719.120|hdz=42306.160|uh=608C|ud=24716|bh=AEAD|bd=44717}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tì
+|c=dai6,tai5
+|mn=qz:thiak/xm,zz:thek
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心07}}
+
+# {{defn|lang=ja|sort=心07}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei)|kun=[[すなお]] (sunao), [[やすらか]] (yasuraka), [[ひらく]] (hiraku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=제|eumhun=|rv=je|mr=che|y=cey}}
+
+# {{defn|lang=ko|sort=心07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心07|hanviet=đễ}}
+
+# {{defn|lang=vi|sort=心07}}
+
+[[fr:悌]]
+[[ko:悌]]
+[[li:悌]]
+[[mg:悌]]
+[[ja:悌]]
+[[pl:悌]]
+[[th:悌]]
+[[zh:悌]]

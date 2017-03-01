@@ -1,0 +1,147 @@
+{{character info/new}}
+{{also|樸}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=02|sn=6|four=43900|canj=DY|ids=⿰木卜}}
+
+====References====
+* {{Han ref|kx=0510.040|dkj=14428|dj=0894.030|hdz=21154.020|uh=6734|ud=26420|bh=A6B5|bd=42677}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation 1====
+{{zh-pron
+|m=pò
+|c=pok3
+|mn=phoh
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+=====Noun=====
+{{zh-noun}}
+
+# [[bark]]
+# the [[Chinese hackberry]] ({{taxlink|Celtis sinensis|species|noshow=1}})
+
+====Pronunciation 2====
+{{zh-pron
+|m=Piáo
+|c=piu4
+|mn=qz,xm,zz:phiâu/qz,xm,zz:phok
+|ma=
+|cat=pn
+}}
+
+=====Proper noun=====
+{{zh-proper noun}}
+
+# {{surname|lang=zh}}
+
+====Pronunciation 3====
+{{zh-pron
+|m=pō
+|c=pok3,po1
+|ma=
+|cat=n
+}}
+
+=====Noun=====
+{{zh-noun}}
+
+# an ancient sword with long blade and short hilt
+
+======Compounds======
+{{zh-der|朴刀}}
+
+===Etymology 2===
+{{zh-see|樸}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=木02}}
+
+====Readings====
+{{ja-readings
+|goon=[[ほく]] (hoku)
+|kanon=[[はく]] (haku)
+|kanyoon=[[ぼく]] (boku)
+|kun=[[ほお]] (hō), [[ほう]] (hō)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|ほお|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|ほお|acc=1|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|厚朴}}
+
+====Noun====
+{{ja-noun|ほお|hhira=ほほ}}
+
+# {{vern|Japanese bigleaf magnolia}}
+
+=====Synonyms=====
+* {{ja-r|朴の木|ほおのき}}, {{ja-r|厚朴|こうぼく}}, {{ja-r|朴柏|ほおがしわ}}
+
+===Etymology 2===
+{{ja-kanjitab|えのき|yomi=irr}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|えのき|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|榎}}
+
+====Noun====
+{{ja-noun|えのき|エノキ}}
+
+# [[Chinese hackberry]]
+
+===References===
+<references/>
+
+[[Category:ja:Trees|ほお]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=박|eumhun=후박나무|rv=bak|mr=pak|y=pak}}
+
+# {{defn|lang=ko|sort=木02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phắc]], [[phác]], [[vóc]]|rs=木12}}
+
+# {{defn|lang=vi|sort=木12}}
+
+[[fr:朴]]
+[[ko:朴]]
+[[hu:朴]]
+[[mg:朴]]
+[[ja:朴]]
+[[no:朴]]
+[[pl:朴]]
+[[th:朴]]
+[[zh:朴]]

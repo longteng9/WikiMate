@@ -1,0 +1,81 @@
+{{also|军队}}
+==Chinese==
+{{zh-forms|s=军队}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=jūnduì
+|c=gwan1 deoi6-2
+|h=pfs=n:kiûn-chhui/s:kiûn-tui
+|md=gŭng-dôi
+|mn=kun-tūi
+|w=1jyn de
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{qualifier|countable}} [[army]]; [[troops]] {{zh-mw|支|個}}
+#: {{zh-x|撤回 軍隊|to recall '''troops'''}}
+# {{qualifier|uncountable}} [[armed forces]]
+
+===Descendants===
+{{CJKV||ぐんたい|군대|quân đội}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぐん|たい|yomi=on}}
+
+===Noun===
+{{ja-noun|ぐんたい}}
+
+# {{lb|ja|military|sort=ぐんたい}} [[armed forces]] such as the [[army]], the [[navy]], or the [[air force]]
+
+===See also===
+* {{ja-r|陸軍|りくぐん}}: [[army]]
+* {{ja-r|海軍|かいぐん}}: [[navy]]
+* {{ja-r|空軍|くうぐん}}: [[air force]]
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Military|くんたい']]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=군대}}
+
+# {{hanja form of|군대|[[army]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|quân đội|[[army]]}}
+
+[[cs:軍隊]]
+[[fr:軍隊]]
+[[ko:軍隊]]
+[[ku:軍隊]]
+[[lo:軍隊]]
+[[lt:軍隊]]
+[[li:軍隊]]
+[[hu:軍隊]]
+[[mg:軍隊]]
+[[ja:軍隊]]
+[[chr:軍隊]]
+[[uk:軍隊]]
+[[zh:軍隊]]

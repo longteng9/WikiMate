@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|頫}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=08|sn=10|four=20240|canj=OIOI|ids=⿰亻府}}
+
+# [[bow]] [[down]], [[face]] down, [[look]] down
+
+====References====
+* {{Han ref|kx=0106.060|dkj=00722|dj=0226.010|hdz=10182.090|uh=4FEF|ud=20463|bh=ADC1|bd=44481}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǔ
+|c=fu2
+|mc=y
+|oc=y
+|ma=Zh-fu.ogg
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=人08}}
+
+# to [[bend]] [[down]]
+# to [[lie]] down
+
+====Readings====
+{{ja-readings
+|on=[[ふ]] (fu)
+|kun=[[ふす|ふ.す]] ({{ja-l|俯す}}, fu.su) {{qualifier|rare}}, [[ふせる|ふ.せる]] ({{ja-l|俯せる}}, fu.seru) {{qualifier|rare}}, [[うつむく|うつむ.く]] ({{ja-l|俯く}}, utsumu.ku), [[うつむき]] (utsumuki), [[うつむけ]] (utsumuke), [[うつぶく|うつぶ.く]] ({{ja-l|俯く}}, utsubu.ku), [[うつぶき]] (utsubuki), [[うつぶけ]] (utsubuke), [[うつぶし]] (utsubushi). [[うつぶせ]] (utsubuse)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=부|rv=bu|mr=pu}}
+
+# {{defn|lang=ko|sort=人08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phủ]]|rs=人07}}
+
+# {{defn|lang=vi|sort=人07}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4fef Nom Foundation]
+
+[[fr:俯]]
+[[ko:俯]]
+[[li:俯]]
+[[hu:俯]]
+[[mg:俯]]
+[[ja:俯]]
+[[no:俯]]
+[[pl:俯]]
+[[th:俯]]
+[[zh:俯]]

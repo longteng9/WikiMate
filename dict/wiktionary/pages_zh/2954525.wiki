@@ -1,0 +1,57 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gāoděng
+|c=gou1 dang2
+|mn=ko-téng
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[higher]]
+# {{lb|zh|attributive}} [[advanced]]
+
+====Derived terms====
+{{zh-der|高等動物|高等教育|高等學校|高等植物}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|とう|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|こうとう|infl=na}}
+
+# [[higher]], [[advanced]]
+#* '''1922''', 三上義夫, 文化史上より見たる日本の数学:
+#*: {{ja-usex|いわんや、それ以上の'''高等'''のものに至りては何等成書の書かれたものがない。|いわんや、 それ いじょう の '''こうとう''' の もの に いたり て は なんら せいしょ の かかれた もの が ない。|This is not to mention the fact that there has never been a more advanced book written.}}
+
+====Inflection====
+{{ja-na|こうとう}}
+
+===Noun===
+{{ja-noun|こうとう}}
+
+# being higher
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=고등}}
+
+# {{hanja form of|고등|high grade}}
+
+[[zh-min-nan:高等]]
+[[ko:高等]]
+[[hu:高等]]
+[[ja:高等]]
+[[zh:高等]]

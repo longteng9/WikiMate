@@ -1,0 +1,130 @@
+{{character info/new}}
+{{also|幢}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=12|sn=16|four=40914|canj=DYTG|ids=⿰木童}}
+
+====References====
+* {{Han ref|kx=0554.230|dkj=15578|dj=0943.110|hdz=21294.140|uh=6A66|ud=27238|bh=E9BF|bd=59839}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Alternative forms====
+* {{zh-l|㮔}}
+
+====Pronunciation====
+{{zh-pron
+|m=tóng
+|c=tung4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+{{attention|zh|The Middle and Old Chinese data needs to be assigned to the right etymology (pronunciation?)}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# a [[tree]] which grows in [[Yunnan]], from the [[flower]]s of which a [[cloth]] is made <!--From Unihan 3B94; the Unihan entry for /this/ charcter is worthless-->
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=chuáng
+|c=cong4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# a [[pillar]]
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=chōng
+|c=
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[pierce]]
+
+===Etymology 4===
+
+====Pronunciation====
+{{zh-pron
+|m=zhōng <!--From Unihan-->
+|c=
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* {{R:twedu|B01835}}
+* [http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=3B94 Unihan data for U+3B94] ({{zh-l|㮔}})
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木12}}
+
+# {{defn|lang=ja|sort=木12}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō), [[しょう]] (shō), [[そう]] (sō)|kun=[[むね]] (mune), [[きぎれ]] (kigire), [[つく]] (tsuku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=동|eumhun=|rv=dong|mr=tong|y=tong}}
+
+# {{defn|lang=ko|sort=木12}}
+
+[[fr:橦]]
+[[hu:橦]]
+[[ja:橦]]
+[[pl:橦]]
+[[th:橦]]
+[[zh:橦]]

@@ -1,0 +1,31 @@
+{{also|孤立语}}
+==Chinese==
+{{zh-forms|s=孤立语|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=gūlìyǔ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|linguistics}} [[isolating]] [[language]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|こ|りつ|ご}}
+
+===Noun===
+{{ja-noun|こりつご}}
+
+# [[isolating]] language
+
+====Coordinate terms====
+* {{ja-r|屈折語|くっせつご|gloss=inflectional language}}
+* {{ja-r|膠着語|こうちゃくご|gloss=agglutinative language}}
+
+===References===
+* {{R:Kojien}}

@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|き|せい|yomi=on}}
+
+===Noun===
+{{ja-noun|きせい}}
+
+# [[homecoming]], going back to one's hometown
+
+====Derived terms====
+* {{ja-r|帰省ラッシュ|きせい ラッシュ}}
+
+===Verb===
+{{ja-verb-suru|きせい|tr=intrans}}
+
+# return to one's [[hometown]]
+#* '''1938''', [[:w:Tōson Shimazaki|Tōson Shimazaki]], 新生:
+#*: {{ja-usex|郷里の方にある老祖母さんの死去を聞いて一度'''帰省'''したことがある。|きょうり の ほう に ある ろうばあさん の しきょ を き.いて いちど '''きせい''' した こと が ある。|he'd gone home once after learning of the death of an elderly grandmother.}}
+
+====Conjugation====
+{{ja-suru|きせい}}
+
+[[lo:帰省]]
+[[hu:帰省]]
+[[ja:帰省]]
+[[sh:帰省]]
+[[zh:帰省]]

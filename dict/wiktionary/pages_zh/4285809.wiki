@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiàngxuě
+|c=gong3 syut3
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[snowfall]], [[snow]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[snow]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|せつ|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=こうせつ}} compound {{m|zh|降雪|tr=kæwng<sup>H</sup> sjwet|lit=descending snow}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|こうせつ|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|こうせつ|hhira=かうせつ}}
+
+# [[falling]] [[snow]]
+# [[snowfall]], either as an instance of falling of snow, or as the [[accumulated]] snow itself
+
+===Verb===
+{{ja-verb-suru|こうせつ|hhira=かうせつ}}
+
+# to [[fall]] {{qualifier|said of snow}}, to have a [[snowfall]]
+
+====Conjugation====
+{{ja-suru|こうせつ}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=강설}}
+
+# {{hanja form of|강설|falling [[snow]]; [[snowfall]]}}
+
+[[ko:降雪]]
+[[hu:降雪]]
+[[ja:降雪]]
+[[zh:降雪]]

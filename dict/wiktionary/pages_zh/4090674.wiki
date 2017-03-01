@@ -1,0 +1,61 @@
+{{also|无视}}
+==Chinese==
+{{zh-forms|s=无视}}
+
+===Pronunciation===
+{{zh-pron
+|m=wúshì
+|c=mou4 si6
+|mn=bû-sī
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[ignore]]; to [[neglect]]; to [[disregard]]
+# to [[look down upon]]; to [[disdain]]; to [[loathe]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|む|し|yomi=o}}
+
+===Noun===
+{{ja-noun|むし}}
+
+# [[ignoring]], [[neglect]]
+
+====Synonyms====
+* {{l|ja|しかと}} (slang)
+
+====Antonyms====
+* {{l|ja|注目}}
+* {{l|ja|認知}}
+
+===Verb===
+{{ja-verb-suru|むし}}
+
+# to [[ignore]], to [[neglect]]
+#: {{ja-usex|無視しないで。|むし しないで。|Don't '''ignore''' me!}}
+
+====Conjugation====
+{{ja-suru|むし}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=무시}}
+
+# {{hanja form of|무시|disregard}}
+
+[[ko:無視]]
+[[hu:無視]]
+[[mg:無視]]
+[[ja:無視]]
+[[sv:無視]]
+[[chr:無視]]
+[[zh:無視]]

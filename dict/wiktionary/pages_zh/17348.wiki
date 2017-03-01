@@ -1,0 +1,176 @@
+{{character info/new}}
+{{also|闆|反}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=04|sn=8|four=41947|canj=DHE,XDHE|ids=⿰木反}}
+
+====References====
+* {{Han ref|kx=0514.150|dkj=14518|dj=0902.020|hdz=21172.030|uh=677F|ud=26495|bh=AA4F|bd=43599}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=bǎn
+|c=baan2
+|mc=y
+|oc=y
+|ma=Zh-ban.ogg
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[plank]]; [[board]]
+# [[iron]] or [[tin]] [[plate]]
+
+====Compounds====
+{{der5
+|{{zh-l|板板六十四}}
+|[[板报]]
+|[[板壁]]
+|[[板擦儿]]
+|[[板材]]
+|{{zh-l|板車}}
+|[[板齿]]
+|{{zh-l|板床}}
+|[[板锉]]
+|[[板凳]]
+|[[板斧]]
+|{{zh-l|板鼓}}
+|{{zh-l|板胡}}
+|[[板籍]]
+|[[板结]]
+|{{zh-l|板塊}}
+|{{zh-l|板藍根}}
+|{{zh-l|板栗}}
+|{{zh-l|板門}}
+|{{zh-l|板皮}}
+|[[板墙]]
+|{{zh-l|板球}}
+|[[板儿爷]]
+|{{zh-l|板上釘釘}}
+|{{zh-l|板式}}
+|{{zh-l|板書}}
+|{{zh-l|板刷}}
+|{{zh-l|板瓦}}
+|{{zh-l|板鴨}}
+|{{zh-l|板牙}}
+|{{zh-l|板煙}}
+|{{zh-l|板眼}}
+|{{zh-l|板硬}}
+|{{zh-l|板油}}
+|{{zh-l|板羽球}}
+|{{zh-l|板障}}
+|{{zh-l|板正}}
+|{{zh-l|板直}}
+|{{zh-l|板紙}}
+|{{zh-l|板滯}}
+|{{zh-l|板子}}
+|{{zh-l|滑板車|[[kick scooter]]}}
+|{{zh-l|拍板}}
+}}
+
+===Etymology 2===
+{{zh-see|闆}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=木04}}
+
+====Readings====
+* {{ja-readings|goon=[[へん]] (hen)|kanon=[[はん]] (han)|kanyoon=[[ばん]] (ban)|kun=[[いた]] (ita)}}
+
+====Compounds====
+{{top2}}
+* {{ja-r|板垣|^いたがき}}
+* [[板材]]
+* [[板の間]]
+* {{ja-r|板場|いたば}}
+* {{ja-r|板挟み|いたばさみ}}
+* [[板碑]]
+* [[板塀]]
+* {{ja-r|板前|いたまえ}}
+* [[板目]]
+* [[板木]]
+{{mid2}}
+* [[板書]]
+* {{ja-r|黒板|こくばん}}: [[blackboard]]
+* {{ja-r|白板|はくばん}}: [[whiteboard]]
+* {{ja-r|平板型|へいばんがた}}
+* {{ja-r|平板式|へいばんしき}}
+* {{ja-r|鉄板|てっぱん}}: [[griddle]]
+* {{ja-r|鉄板焼き|てっぱんやき}}
+* {{ja-r|押板|おし.いた}}: [[shoin]] style [[tokonoma]])
+* {{ja-r|三板|さんば}}: [[Okinawa]]n [[castanet]]s
+{{bottom}}
+
+{{ja-kanjitab|いた|yomi=k}}
+
+===Noun===
+{{wikipedia|lang=ja}}
+{{ja-noun|いた}}
+
+# [[plank]], [[board]]
+# {{lb|ja|cooking}} {{abbreviation of|俎板|lang=ja}}
+# {{lb|ja|cooking}} {{abbreviation of|板前|lang=ja}}
+# {{lb|ja|cooking}} {{abbreviation of|板場|lang=ja}}
+
+====Derived terms====
+* {{ja-r|まな板|まないた}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[판]]|eumhun=|rv=pan|mr=p'an|y=phan}}
+
+# {{defn|lang=ko|sort=木04}}
+
+====Compounds====
+* {{l|ko|數板|tr=[[수판]], supan}}
+* {{l|ko|算板|tr=[[산판]], sanpan}}
+* {{l|ko|셈板|tr=[[셈판]], sempan}}
+* {{l|ko|籌板|tr=[[주판]], jupan}}
+* {{l|ko|珠板|tr=[[주판]], jupan}}
+* {{l|ko|頂板|tr=[[정판]], jeongpan}}
+
+===See also===
+* [[反]]
+* [[版]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ván]], [[bản]], [[bửng]], [[phản]]|rs=木04}}
+
+# {{defn|lang=vi}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+[[fr:板]]
+[[ko:板]]
+[[kn:板]]
+[[lo:板]]
+[[hu:板]]
+[[mg:板]]
+[[ja:板]]
+[[no:板]]
+[[pl:板]]
+[[sv:板]]
+[[th:板]]
+[[chr:板]]
+[[zh:板]]

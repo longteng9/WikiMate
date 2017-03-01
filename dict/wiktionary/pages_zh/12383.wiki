@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=07|sn=10|four=60061|canj=RYMR|ids=⿰口言}}
+
+# [[extend]] [[condolences]]
+
+====References====
+* {{Han ref|kx=0191.240|dkj=03690|dj=0411.010|hdz=10632.130|uh=5501|ud=21761|bh=ADF1|bd=44529}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yàn
+|c=jin6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|唁勞|唁弔|弔唁|慰唁|電唁}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口07}}
+
+# express condolence
+
+====Readings====
+* {{ja-readings|on=[[げん]] (gen), [[ごん]] (gon)|kun=[[とむらう]] (tomurau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=언|rv=eon|mr=ŏn}}
+
+# express condolence
+
+[[fr:唁]]
+[[li:唁]]
+[[hu:唁]]
+[[mg:唁]]
+[[no:唁]]
+[[pl:唁]]
+[[th:唁]]
+[[zh:唁]]

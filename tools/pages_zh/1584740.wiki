@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+{{wasei kango|天%主|てん%しゅ|God||heavenly emperor; heavenly God}}<ref>{{cite-book|title={{lang|zh|汉语外来词词典}}|year=1984|location=Shanghai|author=刘正埮|editor=高名凯|publisher={{w|lang=zh|上海辞书出版社}}|trans-title=A Dictionary of Loan Words and Hybrid Words in Chinese|language=Chinese|oclc=15401721}}.</ref>
+
+===Pronunciation===
+{{zh-pron
+|m=Tiānzhǔ
+|c=tin1 zyu2
+|mn=Thian-chú
+|cat=n
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{lb|zh|chiefly|Catholicism}} the [[Lord]] of [[Heaven]]; [[God]]
+#* {{zh-x|在 起初 ^天主 創造 了 天地。|In the beginning '''God''' created heaven, and earth.|ref={{w2|zh|思高聖經}} ({{w|Studium Biblicum Version}}), {{lang|zh|創世紀}} (Genesis) 1:1}}
+
+====Derived terms====
+{{zh-der|天主教|天主教會|天主教徒}}
+
+====See also====
+* {{zh-l|上帝}}
+
+===References===
+<references/>
+
+{{zh-cat|Christianity|Roman Catholicism}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|てん|yomi=o|しゅ}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=てんしゅ}} {{m|ltc|天主|tr=then tsyu<sup>X</sup>}}
+
+===Pronunciation===
+{{ja-pron|acc=a|y=ko|てんしゅ}}
+
+===Proper noun===
+{{ja-pos|proper|てんしゅ}}
+
+# {{lb|ja|Christianity|sort=てんしゅ}} the [[Lord]] of [[Heaven]]
+
+===Descendants===
+* Chinese: {{zh-l|天主}}
+* Korean: {{l|ko|^천주}}
+* Vietnamese: {{vi-l|Thiên Chúa}}
+
+[[ko:天主]]
+[[lt:天主]]
+[[hu:天主]]
+[[mg:天主]]
+[[fj:天主]]
+[[pt:天主]]
+[[uk:天主]]
+[[zh:天主]]

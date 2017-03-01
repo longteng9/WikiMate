@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|表}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=08|sn=16|four=85132|canj=CQMV|ids=⿰釒表}}
+
+# a [[watch]], [[clock]]
+
+====References====
+* {{Han ref|kx=1313.051|dkj=40592|hdz=64214.050|uh=9336|ud=37686|bh=BFF6|bd=49142}}
+
+----
+
+==Chinese==
+{{zh-forms|s=表|t2=表}}
+
+===Pronunciation===
+{{zh-pron
+|m=biǎo
+|c=biu1,biu2
+|h=pfs=péu
+|mn=pió
+|mc=
+|oc=
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[watch]] {{gloss|portable timepiece}}
+#: {{zh-x|懷錶|pocket watch}}
+# [[gauge]]; [[meter]]
+#: {{zh-x|水錶|water meter}}
+
+====Derived terms====
+* {{zh-l|手錶}}
+* {{zh-l|懷錶}}
+* {{zh-l|水錶}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=}}
+
+# {{defn|lang=ja|sort=金08}}
+
+====Readings====
+* {{ja-readings|on=[[ひょう]] (hyō)|kun=|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=金08|hanviet=biểu}}
+
+# {{defn|lang=vi|sort=金08}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:錶]]
+[[fr:錶]]
+[[hu:錶]]
+[[mg:錶]]
+[[pl:錶]]
+[[th:錶]]
+[[zh:錶]]

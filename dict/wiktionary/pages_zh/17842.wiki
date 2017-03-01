@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=09|sn=13|four=45996|canj=DDWF|ids=⿰木柬}}
+
+====References====
+* {{Han ref|kx=0540.070|dkj=15148|dj=0927.140|hdz=21245.090|uh=695D|ud=26973|bh=B7AF|bd=47023}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|柬|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=liàn
+|c=lin6
+|mc=y
+|oc=y
+|ma=
+|cat=pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# ''[[Melia azedarach]]'' (formerly known as {{taxlink|Melia japonica|species|noshow=1}}), a [[tree]] in the [[mahogany]] family
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木09}}
+
+# {{defn|lang=ja|sort=木09}}
+
+====Readings====
+* {{ja-readings|on=[[れん]] (ren)|kun=[[おうち]] (ouchi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[련]]>[[연]]|eumhun=|rv=ryeon>yeon|mr=ryŏn>yŏn|y=lyen>yen}}
+
+# ([[멀구슬나무]]): [[bead tree]], [[chinaberry]], ''[[Melia azedarach]]''
+
+====See also====
+* {{l|ko|白檀}} (백단, ''baegdan'') white [[sandalwood]]
+* {{l|ko|檀}} (단, ''dan'') [[birch]]; [[sandalwood]]; [[rosewood]]
+* {{l|ko|栴}} (전, ''jeon'') [[sandalwood]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木09|hanviet=[[luyện]], [[xoan]]}}
+
+# {{defn|lang=vi|sort=木09}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:楝]]
+[[hu:楝]]
+[[mg:楝]]
+[[ja:楝]]
+[[pl:楝]]
+[[th:楝]]
+[[zh:楝]]

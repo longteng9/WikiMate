@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=09|sn=13|four=67332|canj=ARF,XARF}}
+
+# [[kind]], [[gentle]], [[gracious]], [[genial]]
+
+====References====
+* {{Han ref|kx=0677.350|dkj=19225|dj=1089.020|hdz=32220.170|uh=7166|ud=29030|bh=B7D6|bd=47062}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xù
+|c=heoi2,heoi3,jyu2,jyu3
+|mn=ù
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|和煦|拂煦|涵煦|溫煦|煦仁孑義|煦伏|煦嫗|煦沫|煦煦}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火09}}
+
+# {{defn|lang=ja|sort=火09}}
+
+====Readings====
+* {{ja-readings|on=[[く]] (ku)|kun=[[あたためる]] (atatameru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=후|eumhun=|rv=hu|mr=hu|y=hwu}}
+
+# {{defn|lang=ko|sort=火09}}
+
+[[fr:煦]]
+[[hu:煦]]
+[[mg:煦]]
+[[ja:煦]]
+[[pl:煦]]
+[[th:煦]]
+[[zh:煦]]

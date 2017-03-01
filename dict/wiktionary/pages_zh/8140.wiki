@@ -1,0 +1,103 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=4|rad=丿|as=00|sn=1|four=20000|canj=H,XH}}
+
+# {{mul-kangxi radical-def}}
+
+===References===
+* {{Han ref|kx=0081.060|dkj=00106|dj=0164.070|hdz=10031.020|uh=4E3F|ud=20031}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+
+===Pronunciation===
+{{zh-pron
+|m=piě
+|c=pit3
+|h=pfs=phiet
+|mn=phiat
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# left-falling stroke, usually read as {{zh-l|撇}}
+
+===References===
+* [http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
+* [http://www.chineselanguage.org/dictionaries/?mode=view&module=chardict&query=%E4%B8%BF CCDICT (Chineselanguage.org)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=r|rs=丿00}}
+
+# [[katakana]] [[ノ]] (no) radical (ノのかんむり)
+
+====Readings====
+* {{ja-readings|on=[[へつ]] (hetsu), [[へち]] (hechi)|kun=[[えい]] (ei), [[よう]] (yō)|nanori=[[の]] (no)}}
+
+===References===
+{{ja-kref
+|jis=5028
+|ku=4808
+|shift=98A6
+|euc=D0A8
+|freq=''radical''
+|nelson=''not listed''
+|newnelson=39
+|halpern=3345
+|kld=''not listed''
+|heisig=''not listed''
+|tuttle=0a1.2
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=별}}
+
+# {{defn|lang=ko|sort=丿00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=丿00}}
+
+====Readings====
+* [[音読|âm]]: {{l|vi|phiết}}, {{l|vi|triệt}}, {{l|vi|phiệt}}, {{l|vi|phảy}}, {{l|vi|phết}}, {{l|vi|thiên}}, {{l|vi|phút}}, {{l|vi|phét}}, {{l|vi|phịch}}
+* [[意義|nghĩa]] (''literal meaning''): {{l|vi|phết}}; {{l|vi|phiết}}; nét phẩy; dấu phẩy; phút chốc
+
+[[Category:CJKV radicals| ]]
+
+[[fr:丿]]
+[[ko:丿]]
+[[li:丿]]
+[[hu:丿]]
+[[mg:丿]]
+[[ms:丿]]
+[[ja:丿]]
+[[pl:丿]]
+[[ta:丿]]
+[[th:丿]]
+[[vi:丿]]
+[[zh:丿]]

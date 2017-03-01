@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|每}}
+==Translingual==
+{{stroke order}}
+
+===Etymology===
+{{Han simp|每|f=母|t=毋}}, replacing the two dots with one stroke.
+
+===Han character===
+{{Han char|rn=80|rad=毋|as=02|sn=6|four=|canj=OWJ|ids=⿱𠂉毋}}
+
+# [[every]]
+
+====Derived characters====
+* {{m|ja|海}} {{qualifier|Japanese shinjitai form}}
+
+====References====
+* {{Han ref|kx=0589.011|dkj=16724|dj=0981.020|hdz=42381.021|uh=6BCE|ud=27598}}
+
+----
+
+==Chinese==
+{{zh-see|每|v}}<ref>{{R:twedu|A02099-005}}</ref>
+
+===References===
+<references />
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=毋02|style=s|kyu=每}}
+
+# [[every]]
+
+====Readings====
+* {{ja-readings
+|goon=[[まい]] (mai)
+|kanon=[[ばい]] (bai) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kun=[[つね]] (tsune)
+|nanori=[[ごと]] (goto)}}
+
+====Compounds====
+{{top2}}
+* {{ja-r|毎朝|まいあさ}}: every morning
+* {{ja-r|毎回|まいかい}}: every turn
+* {{ja-r|毎週|まいしゅう}}: every week
+* {{ja-r|毎旦|まいたん}}: every morning (''archaic'')
+{{mid2}}
+* {{ja-r|毎月|まいつき}}: every month
+* {{ja-r|毎日|まいにち}}: everyday
+* {{ja-r|毎年|まいねん}}: every year
+* {{ja-r|毎晩|まいばん}}: every evening
+{{bottom}}
+
+[[fr:毎]]
+[[ko:毎]]
+[[lo:毎]]
+[[hu:毎]]
+[[mg:毎]]
+[[ja:毎]]
+[[pl:毎]]
+[[ru:毎]]
+[[th:毎]]
+[[chr:毎]]
+[[uk:毎]]
+[[zh:毎]]

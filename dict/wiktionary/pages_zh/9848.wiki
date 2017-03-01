@@ -1,0 +1,335 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=41927|canj=DMOB|ids=⿰木丙}}
+
+# [[handle]], [[lever]], [[knob]]
+# [[authority]]
+
+====References====
+* {{Han ref|kx=0518.080|dkj=14603|dj=0906.090|hdz=21179.020|uh=67C4|ud=26564|bh=AC60|bd=44128}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|t1=wood|丙|ls=psc|c1=s|c2=p}} – a wooden handle.
+
+===Pronunciation===
+{{zh-pron
+|m=bǐng,bìng
+|c=beng3,bing3
+|mn=pèⁿ/pìⁿ
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|六柄|兵柄|刀柄|劍柄|國柄|執柄|大柄|太阿之柄|孢囊柄|尺土之柄|巴柄|把柄|授人以柄|政柄|文柄|斗柄|曲柄笠|朝柄|柄任|柄子|柄政|柄用|柄臣|機柄|權柄|殺生之柄|沒把柄|沒頭脫柄|百年之柄|笑柄|箭柄魚|胚柄|花柄|菌柄|落人笑柄|葉柄|蒴柄|話柄|談柄|貪權竊柄|魁柄}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=木05}}
+
+# a [[handle]], [[lever]], [[knob]]
+# a [[design]] or [[pattern]]
+# one's [[build]] or [[character]]
+
+====Readings====
+{{ja-readings
+|goon=[[ひょう]] (hyō), (''historical'') [[ひやう]] (hyau)
+|kanon=[[へい]] (hei)
+|kanyoon=[[ひ]] (hi)
+|kun=[[え]] (e), [[かび]] (kabi), [[かい]] (kai), [[から]] (kara), [[がら]] (gara), [[つか]] (tsuka), [[つく]] (tsuku)
+|nanori=[[から]] (kara), [[ら]] (ra)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|え}}
+Change in meaning from {{m|ja|枝|tr=e</i>, historically <i>ye||branch, stem}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|え|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|え}}
+
+# a [[handle]], a [[grip]], a [[shaft]], a [[haft]]
+#: {{ja-usex|大鎌の'''柄'''|おおがま の '''え'''|a [[snath]], a [[scythe]] shaft}}
+
+=====Synonyms=====
+* {{l|ja|取っ手}}, {{l|ja|取手}}, {{l|ja|把手|tr={{l|ja|とって}}, ''{{l|ja|sc=Latn|totte}}''}}
+
+=====Idioms=====
+* {{ja-r|柄の無い所に柄をすげる|え の ない ところ に え を すげる}}: “to attach a handle where there isn't one” → to strain credibility with one's words, to [[talk out one's ass]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|かび}}
+From {{etyl|ojp|ja|sort=かび}}. Used in the ''{{w|Kojiki}}''. Generally regarded as cognate with {{m|ja|黴|tr=kabi||mold}}, from the shared idea of [[sprout]]s or [[shoot]]s. Appears to be noun stem of {{etyl|ojp|ja|sort=かび}} verb {{m|ja|かぶ|tr=kabu}} (source of modern {{cog|ja|黴る}}, ''kabiru'', “to go moldy”), with probable original meaning of {{m|en|sprout|to sprout}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|かび}}
+
+====Alternative forms====
+* {{l|ja|穎}}
+
+====Noun====
+{{ja-noun|かび}}
+
+# {{lb|ja|sort=かび|archaic}} a [[sprout]]
+# {{lb|ja|sort=かび|archaic}} an [[ear]] of [[grain]], particularly of [[rice]]
+# {{lb|ja|sort=かび|archaic}} the [[handle]] or [[grip]] of a [[tool]], or [[hilt]] of a [[blade]] {{qualifier|by extension from the idea of “a smaller portion sticking out from the main body” like a sprout}}
+
+=====Usage notes=====
+The {{m|en|grain}} sense is more commonly spelled {{l|ja|穎}}.
+
+=====Synonyms=====
+* {{sense|sprout}} {{ja-r|芽|め}}
+* {{sense|ear of grain}} {{ja-r|穂|ほ}}, {{ja-r|穂先|ほさき}}
+* {{sense|handle}} {{ja-r|柄|つか}} {{qualifier|see below}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|かい}}
+{{IPAchar|/kabi/}} → {{IPAchar|/kai/}}
+
+Alteration of ''kabi''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|かい}}
+
+====Alternative forms====
+* {{l|ja|穎}}
+
+====Noun====
+{{ja-noun|かい|hhira=かひ}}
+
+# {{lb|ja|sort=かい|archaic}} see ''kabi'' above
+
+===Etymology 4===
+{{ja-kanjitab|yomi=k|から}}
+From {{etyl|ojp|ja|sort=から}}. Origin of particle {{m|ja|から|tr=kara||from, because}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|から}}
+
+====Suffix====
+{{ja-pos|から|suffix}}
+
+# of the same [[lineage]]
+# the inherent [[quality|qualities]] or [[characteristic]]s of a thing
+
+=====Usage notes=====
+The {{m|en|lineage}} sense is often found embedded in other words, such as the first few of the following.
+
+=====Derived terms=====
+{{der-top}}
+* {{sense|lineage}} {{ja-r|同胞|はらから}}: “of the (same) belly” → a [[sibling]], more specifically a sibling from the same [[mother]]
+* {{sense|lineage}} {{ja-r|族|やから}}: “of the (same) house” → a [[family]] [[member]]
+* {{sense|lineage}} {{ja-r|親族|うから}}: “of the (same) parents/ancestors” → a [[blood relative]]
+* {{sense|qualities}} {{l|ja|神柄|tr={{l|ja|かみから}}, ''{{l|ja|sc=Latn|kamikara}}''; {{l|ja|かむから}}, ''{{l|ja|sc=Latn|kamukara}}''}}: the [[true]] [[nature]] of a [[god]]
+* {{sense|qualities}} {{ja-r|山柄|やまから}}: the [[nature]] or [[characteristic]]s of a [[mountain]]
+{{der-bottom}}
+
+====Noun====
+{{ja-noun|から}}
+
+# {{lb|ja|sort=から|archaic}} {{qualifier|by extension from the ''qualities'' sense}} an [[origin]] or [[source]], a [[reason]] for something
+
+=====Usage notes=====
+Often followed by the particle {{ja-r|に}}. This usage evolved into the modern particle {{m|ja|から|tr=kara||from, because}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Etymology 5===
+{{ja-kanjitab|yomi=k|から}}
+In light of the {{m|en|stem}} sense, probably derived semantically from {{m|en|origin}}, {{m|en|source}} meanings.
+
+====Pronunciation====
+{{ja-pron|yomi=k|から}}
+
+====Alternative forms====
+* {{l|ja|幹}}
+
+====Counter====
+{{ja-pos|から|counter}}
+
+# used to count items with [[shaft]]s
+
+====Noun====
+{{ja-noun|から}}
+
+# the [[trunk]] or [[stem]] of a [[plant]]
+# the [[shaft]] of an [[arrow]]
+# the [[shaft]], [[haft]], or [[handle]] of a [[tool]]
+
+====Prefix====
+{{ja-pos|から|prefix}}
+
+# describes something with a [[stem]], [[shaft]], or [[handle]]
+
+=====Usage notes=====
+The {{m|en|shaft}} sense is often found embedded in other words, such as the following, which are often spelled with other kanji.
+
+=====Derived terms=====
+{{der-top}}
+* {{l|ja|柄臼}}, {{l|ja|唐臼}}, {{ja-r|碓|からうす}}: a kind of [[mortar]] and [[pestle]] with the pestle mounted on a long [[shaft]] for [[leverage]]
+* {{l|ja|柄秤}}, {{l|ja|唐秤}}, {{l|ja|権衡|tr={{l|ja|からはかり}}, ''{{l|ja|sc=Latn|karahakari}}''; {{l|ja|からばかり}}, ''{{l|ja|sc=Latn|karabakari}}''}}: a [[balance]] [[scale]] (as opposed to a [[spring]] scale)
+* {{l|ja|柄楫}}, {{ja-r|唐楫|からかじ}}: a [[tiller]] with a [[shafted]] [[handle]]
+* {{l|ja|柄鋤}}, {{l|ja|唐鋤}}, {{ja-r|犂|からすき}}: a [[plow]] (literally, “a [[spade]] on a long [[shaft]]”)
+{{der-bottom}}
+
+===Etymology 6===
+{{ja-kanjitab|yomi=k|がら}}
+Alteration of ''kara'', “qualities, characteristics”. Originally only found as a suffix. {{rendaku2|sort=がら|kara|gara}} The rendaku pronunciation was then later used independently.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|がら|acc=0|acc_ref=DJR}}
+
+====Suffix====
+{{ja-pos|がら|suffix}}
+
+# the inherent [[quality|qualities]] or [[characteristic]]s of a thing
+# a [[shape]], [[pattern]], or [[design]]
+
+=====Derived terms=====
+{{der-top}}
+* {{sense|qualities}} {{ja-r|国柄|くにがら}}: a [[nation]]'s (good) qualities; the state of a nation
+* {{sense|qualities}} {{ja-r|人柄|ひとがら}}: a person's [[character]]
+* {{sense|qualities}} {{ja-r|家柄|いえがら}}: a family's or household's [[station]] or [[standing]] in [[society]]
+* {{sense|qualities}} {{l|ja|続柄}}, {{ja-r|続き柄|つづきがら}}: one's [[immediate]] [[relation]]s, such as [[parent]]s or [[sibling]]s
+* {{sense|qualities}} {{ja-r|場所柄|ばしょがら}}: the qualities of a [[place]]; that which is [[appropriate]] or [[suitable]] for a place
+* {{sense|qualities}} {{ja-r|時節柄|じせつがら}}}}: the qualities of a [[time]] or [[season]]; that which is [[appropriate]] or [[suitable]] for a time or season
+* {{sense|shape}} {{ja-r|花柄|はながら}}: a [[flower]] [[pattern]]
+{{der-bottom}}
+
+====Noun====
+{{ja-noun|がら}}
+
+# one's [[physical]] [[shape]] or [[build]]
+#: {{ja-usex|'''柄'''の大きいやつだな。|'''がら''' の おおき.い やつ だ な。|Wow, he's sure '''built''' big.}}
+# one's [[character]], [[personality]], or [[temperament]]
+#: {{ja-usex|'''柄'''の悪い人|'''がら''' の わるい ひと|a person with a bad '''character'''}}
+# a [[pattern]] or [[design]], such as on [[cloth]]
+#: {{ja-usex|あの'''柄'''は派手過ぎるよ。|^あの '''がら''' は はで-すぎる よ。|That '''pattern''' is way too colorful.}}
+
+=====Synonyms=====
+* {{sense|build}} {{l|ja|体付き}}, {{ja-r|体付|からだつき}}; {{ja-r|なり}}
+* {{sense|pattern}} {{ja-r|模様|もよう}}
+
+=====Idioms=====
+* {{ja-r|柄にもない|がら に も ない}}: “not even in one's character” → just not in one, just not suitable for one's character or abilities
+
+===Etymology 7===
+{{ja-kanjitab|yomi=k|つか}}
+Cognate with {{m|ja|束|tr=tsuka|pos=ancient unit of length, equivalent to the amount covered from pinky to forefinger when gripping something; analogous to English {{m|en|hand}}}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Both likely derive from verb {{m|ja|付く|tr=tsuku||to set to, to attach, to accompany}}, particularly as seen in modern {{etyl|ja|-}} idioms such as {{m|ja|手を付ける|tr=te o tsukeru||to set one's hand to something}}, {{m|ja|手が付く|tr=te ga tsuku||lit=one's hand sets on something|to start using something}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|つか|acc=2|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|欛}}
+
+====Noun====
+{{ja-noun|つか}}
+
+# the [[hilt]] of a [[sword]] or [[knife]], or the [[grip]] of a [[bow]] or [[staff]]
+# the portion of a [[brush]] [[pen]] held in the hand
+# a [[penis]]
+
+=====Idioms=====
+* {{ja-r|柄を握る|つか を にぎる}}: “to hold the grip” → to [[stay the course]] in a [[career]] or [[trade]] and become an old [[master]]
+* {{ja-r|柄を取る|つか を とる}}: “to take the grip” → to [[stay the course]] in a [[career]] or [[trade]] and become an old [[master]]
+
+===Etymology 8===
+{{ja-kanjitab|yomi=k|つく}}
+[[nominalization|Nominalization]] of verb {{m|ja|付く|tr=tsuku||to attach}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|つく}}
+
+====Alternative forms====
+* {{l|ja|銑}}, {{l|ja|釻}}
+
+====Noun====
+{{ja-noun|つく}}
+
+# the [[nock]] on either end of a [[bow#Noun|bow]] where the [[bowstring]] rests
+# a [[bent]] [[nail]] or other kind of [[spike]] attached to or driven through an iron [[staff]] or a [[truncheon]] to make the weapon more dangerous
+# the areas on either end of a [[yoke]] or other carrying [[pole]] where [[cordage]] or [[rope]] is attached, from which the [[load]] is carried
+# the [[grip]] of a [[tiller]], [[boathook]], or other [[pole]]
+# {{qualifier|as a pun on the verb sense of ''stick to, attach''}} a female [[entertainer]]'s or [[prostitute]]'s [[secret]] [[lover]]
+
+=====Usage notes=====
+The {{m|en|grip}} sense is not spelled using the alternative forms, and is only spelled {{lang|ja|柄}} in kanji.
+
+=====Synonyms=====
+* {{sense|secret male lover}} {{ja-r|隠し男|かくし おとこ}}, {{ja-r|隠男|かくし おとこ}}
+
+===Etymology 9===
+{{ja-kanjitab|yomi=irr|ほぞ}}
+[[ateji|Ateji]] or [[misspelling]] for uncommon {{m|ja|表外字|tr=hyōgaiji||non-standard character}} kanji {{m|ja|枘|tr=hozo||navel|pos=also generic term for something that [[protrude]]s slightly}}. Note that the right half of {{m|ja|柄}} is {{m|ja|丙}}, with a top bar, while the right half of {{m|ja|枘}} is {{m|ja|内}}, without a top bar.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=irr|ほぞ|acc=1|acc_ref=DJR|acc2=1|acc2_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|枘}}, {{ja-l|臍}}, {{ja-l|蔕}}
+
+====Noun====
+{{ja-noun|ほぞ}}
+
+# a [[tenon]], as in a [[mortise]] and tenon [[carpentry]] [[join]]
+# {{lb|ja|sort=ほぞ|slang}} a [[penis]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[병]]|eumhun=|rv=byeong|mr=pyŏng|y=pyeng}}
+
+# {{defn|lang=ko|sort=木05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bính]]|rs=木05}}
+
+# {{defn|lang=vi|sort=木05}}
+
+[[zh-min-nan:柄]]
+[[fr:柄]]
+[[ko:柄]]
+[[lo:柄]]
+[[hu:柄]]
+[[mg:柄]]
+[[ja:柄]]
+[[no:柄]]
+[[pl:柄]]
+[[fi:柄]]
+[[sv:柄]]
+[[th:柄]]
+[[chr:柄]]
+[[vi:柄]]
+[[zh:柄]]

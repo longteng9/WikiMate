@@ -1,0 +1,95 @@
+{{character info/new}}
+{{also|摆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=15|sn=18|four=56011|canj=QWLP|ids=⿰扌罷}}
+
+====References====
+* {{Han ref|kx=0461.190|dkj=12910|dj=0810.190|hdz=31980.090|uh=64FA|ud=25850|bh=C25C|bd=49756}}
+
+----
+
+==Chinese==
+{{zh-forms|s=摆}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǎi
+|c=baai2
+|h=pfs=pái/pâi
+|mn=pái/páiⁿ
+|w=2pa
+|ma=y
+|mc=y
+|oc=y
+|cat=v,n,mn:cls,h:cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[pendulum]]
+#* {{zh-x|鐘擺|pendulum}}
+#* {{zh-x|擺鐘|pendulum clock}}
+#* {{zh-x|單擺|simple pendulum}}
+# to [[put]], to [[place]], to [[arrange]]
+#* {{zh-x|我們 要 為 會議 擺 好 椅子{zi}。|We will need to '''set out''' chairs for the meeting.}}
+#* {{zh-x|在 一 張 桌子{zi} 上 擺 著[着]{zhe} 一 盤 棋。|There was a game of chess on a table.}}
+#* {{zh-x|她 把 拖鞋 整齊 地{de} 擺 在 床下。|She '''put''' the slippers under the bed neatly.}}
+#* {{zh-x|許多 嚴峻 的 挑戰 還 擺 在 眼前。|Many serious challenges still '''lie''' ahead.}}
+#* {{zh-x|唔該 你 同 其他 啲 嘢 擺 埋 一齊。|Please put it by the other things.|C}} {{attention|yue|please check}}
+# to lay bare, to state clearly
+# to put on, to assume (air), to [[display]]
+#* {{zh-x|她 擺 了 一 個 優美 的 姿勢。|She '''adopted''' an elegant pose.}}
+# to [[sway]], to [[wave]], to [[swing]]
+# {{lb|zh|regional}} to [[talk]], to [[say]]
+# {{lb|zh|Min Nan|Hakka}} {{n-g|Classifier for occurrences:}} [[time]]
+#: {{zh-x|逐擺|every '''time'''|MN}}
+#: {{zh-x|這擺|this '''time'''|H}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手15}}
+
+# {{defn|lang=ja|sort=手15}}
+
+====Readings====
+* {{ja-readings|on=[[はい]] (hai)|kun=[[ひらく]] (hiraku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=파|eumhun=|mr=p'a|y=pha}}
+
+# {{defn|lang=ko|sort=手15}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手15|hanviet=[[bẫy]], [[bài]], [[bãi]]}}
+
+# {{defn|lang=vi|sort=手15}}
+
+[[zh-min-nan:擺]]
+[[fr:擺]]
+[[ko:擺]]
+[[hu:擺]]
+[[mg:擺]]
+[[ja:擺]]
+[[pl:擺]]
+[[th:擺]]
+[[chr:擺]]
+[[zh:擺]]

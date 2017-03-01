@@ -1,0 +1,36 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=08|sn=11|four=63081|canj=RJMO|ids=⿰口定}}
+
+# [[phonetic]] used in [[pyridine]] and [[pyrimidine]]
+
+====References====
+* {{Han ref|kx=0196.261|hdz=10646.050|uh=5576|ud=21878|bh=D472|bd=54386}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dìng
+|c=ding6
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|吡啶|嘧啶|吖啶|吖丁啶}}
+
+[[fr:啶]]
+[[mg:啶]]
+[[pl:啶]]
+[[th:啶]]
+[[zh:啶]]

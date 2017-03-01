@@ -1,0 +1,31 @@
+==Japanese==
+
+===Pronunciation===
+{{rfp|lang=ja}}
+
+===Etymology 1===
+{{rfe|lang=ja}}
+{{ja-kanjitab|しょう|わ|yomi=on}}
+
+====Proper noun====
+{{ja-pos|しょうわ|proper}}
+
+# {{l|en|Shōwa}} era (20th March 1312–3rd February 1317)
+
+=====Usage notes=====
+* Not to be confused with {{m|ja|昭和}}, the Shōwa era of 1926–1989, or with {{m|ja|承和}}, the {{l|en|Jōwa}} era of 834–848 (which may also be read {{m|ja||Shōwa|sc=Latinx}}).
+
+====External links====
+* {{pedia|Shōwa (Kamakura period)|lang=en}}
+* {{pedia|lang=ja}}
+
+===Etymology 2===
+{{rfe|lang=ja}}
+{{ja-kanjitab|まさ|かず|yomi=kun}}
+
+====Proper noun====
+{{ja-pos|まさかず|proper}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|まさかず]]

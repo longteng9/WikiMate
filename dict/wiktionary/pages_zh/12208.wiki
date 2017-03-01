@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=05|sn=8|four=64027|canj=RVIS|ids=⿰口幼}}
+
+# the [[bleat]]ing of the [[deer]]
+
+====References====
+* {{Han ref|kx=0181.320|dkj=03437|dj=0400.010|hdz=10610.100|uh=5466|ud=21606|bh=CBE7|bd=52199}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yōu
+|c=jau1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# an expression of surprise or sudden awareness
+#: {{zh-x|呦！你 怎麼 也 來 了？|Hey! Fancy seeing you here.}}
+#: {{zh-x|呦，飯 糊 了！|Oh no, the rice is burnt.}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口05}}
+
+# {{defn|lang=ja|sort=口05}}
+
+====Readings====
+* {{ja-readings|on=[[ゆう]] (いう, yuu), [[ゆ]] (yu), [[おう]] (あう, oo), [[よう]] (えう,yoo)|kun=[[むせぶ]] (musebu), [[さけぶ]] (sakebu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=유|rv=yu|mr=yu}}
+
+# {{defn|lang=ko|sort=口05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[u]], [[ạo]], [[ao]], [[ào]]|rs=口05}}
+
+# {{defn|lang=vi|sort=口05}}
+
+[[fr:呦]]
+[[ko:呦]]
+[[li:呦]]
+[[hu:呦]]
+[[mg:呦]]
+[[pl:呦]]
+[[th:呦]]
+[[zh:呦]]

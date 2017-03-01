@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|齢|龄}}
+==Translingual==
+{{Han simplified forms|齡|齢|龄}}
+===Etymology===
+{{Han etyl}}
+{{Han compound|齒|t1=tooth|令|ls=psc|c1=s|c2=p}} – tooth being associated with age. Compare English {{m|en|long in the tooth||old}} and {{m|en|don't look a gift horse in the mouth||(to check teeth for age)}}.
+
+===Han character===
+{{Han char|rn=211|rad=齒|as=05|sn=20|four=28737|canj=YUOII|ids=⿰齒令}}
+
+# [[age]]
+# [[year]]s
+
+====Descendants====
+* [[齢]] [[龄]]
+
+====References====
+* {{Han ref|kx=1533.260|dkj=48632|dj=2071.340|hdz=74791.070|uh=9F61|ud=40801|bh=C4D6|bd=50390}}
+
+----
+
+==Chinese==
+{{zh-forms|s=龄}}
+
+===Pronunciation===
+{{zh-pron
+|m=líng
+|c=ling4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[age]]
+# [[duration]]
+
+====Compounds====
+* {{zh-l|年齡}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=齒05|style=ky|shin=齢}}
+
+# {{defn|lang=ja|sort=齒05}}
+
+====Readings====
+{{ja-readings|goon=[[りょう]] (ryō)|kanon=[[れい]] (rei)|kun=[[よわい]] (yowai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[령]]>[[영]]|eumhun=|rv=ryeong>yeong|mr=ryŏng>yŏng|y=lyeng>yeng}}
+
+# {{defn|lang=ko|sort=齒05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''齡''' ([[linh]], [[lênh]])
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:齡]]
+[[ko:齡]]
+[[hu:齡]]
+[[mg:齡]]
+[[ja:齡]]
+[[pl:齡]]
+[[th:齡]]
+[[zh:齡]]

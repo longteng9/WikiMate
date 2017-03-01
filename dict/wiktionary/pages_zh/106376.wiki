@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhòngshuǐ
+|c=cung5 seoi2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[heavy water]]
+
+===See also===
+* {{zh-l|氘}}
+* {{zh-l|重氫}}
+
+{{zh-cat|Chemistry}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じゅう|すい|yomi=on}}
+
+===Etymology===
+From Sino-Japanese [[重]] (jū, "[[heavy]]") + [[水]] (sui, "[[water]]").
+
+===Noun===
+{{ja-noun|じゅうすい}}
+
+# [[heavy water]]
+
+[[Category:ja:Chemistry|しゅうすい']]
+
+====Compounds====
+* {{ja-l|重水プラント|じゅうすいプラント|jūsui-puranto}}: [[heavy water]] [[plant]]
+* {{ja-l|重水炉|じゅうすいろ|jūsuiro}}: [[heavy water]] [[reactor]]
+
+===See also===
+* {{ja-l|重水素|じゅうすいそ|jūsuiso}}: [[deuterium]], [[heavy hydrogen]]
+
+===References===
+* {{R:Shogakukan}}
+
+[[hu:重水]]
+[[zh:重水]]

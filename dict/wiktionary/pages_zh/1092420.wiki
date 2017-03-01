@@ -1,0 +1,42 @@
+{{also|推论}}
+==Chinese==
+{{zh-forms|s=推论}}
+
+===Pronunciation===
+{{zh-pron
+|m=tuīlùn
+|c=teoi1 leon6
+|mn=thui-lūn/twvk:chhui-lūn
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Advanced Mandarin}} to [[deduce]]; to [[infer]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|すい|ろん|yomi=o}}
+
+===Noun===
+{{ja-noun|すいろん}}
+
+# [[inference]], [[deduction]]
+
+===Verb===
+{{ja-verb-suru|すいろん}}
+
+# to [[infer]], to [[deduce]]
+
+====Conjugation====
+{{ja-suru|すいろん}}
+
+[[zh-min-nan:推論]]
+[[ko:推論]]
+[[li:推論]]
+[[ja:推論]]
+[[pl:推論]]
+[[chr:推論]]
+[[zh:推論]]

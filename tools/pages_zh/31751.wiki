@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|駅|驿}}
+==Translingual==
+{{Han simplified forms|驛|駅|驿}}
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=13|sn=23|four=76341|canj=SFWLJ|ids=⿰馬睪}}
+
+====References====
+* {{Han ref|kx=1446.050|dkj=45030|dj=1971.010|hdz=74579.190|uh=9A5B|ud=39515|bh=C5E6|bd=50662}}
+
+----
+
+==Chinese==
+{{zh-forms|s=驿}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|馬|睪|c1=s|c2=p|t1=horse|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=jik6
+|h=pfs=yi̍t
+|mn=ia̍h
+|w=5hhiq
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[relay]] [[station]] (for [[post]]ing [[horse]]s)
+# {{lb|zh|Min Nan}} [[train station]], [[bus stop]], or similar
+
+===Compounds===
+{{zh-der|傳驛|水郵山驛|水驛|驛驛|驛亭|驛馬車|驛傳|驛券|郵驛|臨江驛|館驛|驛馬|驛樓|驛吏|驛使|駱驛|驛館|鄭驛留賓|馳驛|驛站|馬道驛|驛丞|辛安驛|驛遞|駱驛不絕}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬13|style=ky|shin=駅}}
+
+====Readings====
+* {{ja-readings|on=[[えき]] (eki)|kun=[[うまや]] (umaya)}}
+
+{{ja-kanjitab|えき|yomi=o}}
+
+===Noun===
+{{ja-noun|えき|shin=駅}}
+
+# {{kyujitai spelling of|駅}}: [[station]] (train, underground/subway)
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=역|eumhun=}}
+
+===Noun===
+{{ko-noun|hj|hangeul=역}}
+
+# {{hanja form of|역|(railway, subway) [[station]]}}
+
+----
+
+==Vietnamese==
+
+===Character===
+====Readings====
+{{vi-readings|hanviet=dịch|nom=dịch|rs=馬13}}
+
+[[fr:驛]]
+[[ko:驛]]
+[[hu:驛]]
+[[mg:驛]]
+[[ja:驛]]
+[[pl:驛]]
+[[th:驛]]
+[[chr:驛]]
+[[zh:驛]]

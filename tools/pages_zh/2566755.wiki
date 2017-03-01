@@ -1,0 +1,56 @@
+{{also|演习}}
+==Chinese==
+{{zh-forms|s=演习}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǎnxí
+|c=jin2 zaap6
+|h=pfs=yên-si̍p
+|mn=ián-si̍p
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|military}} [[field]] [[practice]]; [[operation]]s [[training]]; [[drill]]; [[exercise]]
+#: {{zh-x|海軍 演習|''naval maneuver''}}
+#: {{zh-x|消防 演習|''fire drill''}}
+
+====Derived terms====
+{{zh-der|軍事演習}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|えん|しゅう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|えんしゅう|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|えんしゅう}}
+
+# [[exercise]], [[drill]]
+#: {{ja-usex|難しい'''演習'''だった。|むずかし.い '''えんしゅう''' だった。|That was a very hard quiz.}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|えんしゅう}}
+
+# [[practice]]
+
+====Conjugation====
+{{ja-suru|えんしゅう}}
+
+===References===
+<references/>
+
+[[zh-min-nan:演習]]
+[[lo:演習]]
+[[hu:演習]]
+[[mg:演習]]
+[[ja:演習]]
+[[zh:演習]]

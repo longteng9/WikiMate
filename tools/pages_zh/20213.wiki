@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=13|sn=17|four=98833|canj=FYTO}}
+
+====References====
+* {{Han ref|kx=0684.310|dkj=19469|dj=1097.080|hdz=32236.110|uh=71E7|ud=29159|bh=C0E6|bd=49382}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|火|遂|c1=s|c2=p|t1=fire|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=suì
+|c=seoi6
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[flintstone]]
+# [[beacon]] [[fire]]; [[signal]] fire
+# [[torch]]
+
+====Compounds====
+{{zh-der|燧木|燧象|燧人氏|燧石|烽燧|燧火鏡|鑽燧|陽燧|邊燧|陰燧}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火13}}
+
+# {{defn|lang=ja|sort=火13}}
+
+====Readings====
+* {{ja-readings|on=[[すい]] (sui)|kun=[[ひうち]] (hiuchi), [[のろし]] (noroshi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=火13}}
+
+[[fr:燧]]
+[[ko:燧]]
+[[hu:燧]]
+[[mg:燧]]
+[[ja:燧]]
+[[pl:燧]]
+[[th:燧]]
+[[zh:燧]]

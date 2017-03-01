@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|镛}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=11|sn=19|four=80127|canj=CILB}}
+
+# a large [[bell]] used as a [[musical instrument]]
+
+====References====
+* {{Han ref|kx=1320.060|dkj=40808|dj=1820.020|hdz=64250.060|uh=93DE|ud=37854|bh=F360|bd=62304}}
+
+----
+
+==Chinese==
+{{zh-forms|s=镛}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|金|庸|c1=s|t1=metal|c2=p|ls=psc}}.
+
+(The pen name of [[w:Jin Yong|Jin Yong]], one of the most influential modern Chinese-language novelists, is created by the decomposition from 鏞 to 金 and 庸.)
+
+===Pronunciation===
+{{zh-pron
+|m=yōng
+|c=jung4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金11}}
+
+# {{defn|lang=ja|sort=金11}}
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō), [[ゆ]] (yu)|kun=[[つりがね]] (tsurigane)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=용|eumhun=|rv=yong|mr=yong|y=yong}}
+
+# {{defn|lang=ko|sort=金11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dong]], [[dung]]|rs=金11}}
+
+# {{defn|lang=vi|sort=金11}}
+
+[[fr:鏞]]
+[[ko:鏞]]
+[[hu:鏞]]
+[[pl:鏞]]
+[[th:鏞]]
+[[zh:鏞]]

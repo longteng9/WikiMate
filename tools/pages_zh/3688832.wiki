@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=kāfēisè
+|c=gaa3 fe1 sik1
+|mn=ka-pi-sek
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# the [[color]] [[brown]]; [[coffee]] [[color]]
+
+===Adjective===
+{{zh-adj}}
+
+# [[brown]]; [[coffee]]
+#: {{zh-x|你 喜歡 咖啡色 嗎？|Do you like '''brown'''?}}
+#:: Nǐ xǐhuan kāfēisè ma?
+
+===Synonyms===
+* {{zh-l|棕色}}
+* {{zh-l|褐色}}
+* {{qualifier|Cantonese}} {{zh-l|啡色|tr=fe1 sik1}}
+* {{qualifier|Min Nan|Hakka}} {{zh-l|豬肝色}}
+* {{qualifier|Min Nan}} {{zh-l|塗色|tr=thô͘-sek}}
+
+===See also===
+{{table:colors/zh}}
+
+{{zh-cat|Colors}}
+
+[[zh-min-nan:咖啡色]]
+[[fr:咖啡色]]
+[[mg:咖啡色]]
+[[chr:咖啡色]]
+[[zh:咖啡色]]

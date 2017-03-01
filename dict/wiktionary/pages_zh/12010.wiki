@@ -1,0 +1,116 @@
+{{character info/new}}
+{{also|厌}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=27|rad=厂|as=12|sn=14|four=71234|canj=MABK|ids=⿸厂猒}}
+
+# [[dislike]], [[detest]], [[reject]]
+# [[satiate]]
+
+====Derived terms====
+* {{l|mul|靨}}, {{l|mul|壓}}, {{l|mul|魘}}, {{l|mul|黶}}, {{l|mul|懕}}, {{l|mul|擪}}, {{l|mul|檿}}, {{l|mul|嬮}}
+
+====References====
+* {{Han ref|kx=0162.510|dkj=03025|dj=0370.300|hdz=10078.030|uh=53AD|ud=21421|bh=B9BD|bd=47549}}
+
+----
+
+==Chinese==
+{{zh-forms|s=厌}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|厂|猒|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yàn
+|c=jim1,jim3
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to grow bored of/become tired of something or doing something
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=厂12}}
+
+====Readings====
+{{ja-readings
+|goon=[[えん]] (en), [[よう]] (yō)
+|kanon=[[えん]] (en), [[よう]] (yō)
+|kanyoon=[[おん]] (on)
+|on=[[あん]] (an), [[おう]] (ō), [[ゆう]] (yū)
+|kun=[[あきる|あ-きる]] ([[厭きる]], akiru), [[いとう|いと-う]] ([[厭う]], itou), [[いや]] (iya), [[おさえる|おさ-える]] ([[厭える]] osaeru)
+}}
+
+===Etymology 1===
+Shared root with {{l|ja|秋|tr=''aki'', "[[autumn]]"}}. Current meaning possibly arising from metaphorical use of the meaning "autumn".
+
+====Noun====
+{{ja-noun|あき}}
+
+# [[disgust|Disgust]].
+# [[having|Having]] one's [[fill]]; [[loss]] of [[interest]].
+
+====Alternative forms====
+* {{l|ja|厭き}}
+* {{l|ja|飽}}
+* {{l|ja|飽き}}
+
+====Idioms====
+* {{l/ja|厭きが来る}}: One will become [[fed up]] with or [[lose]] [[interest]] in something that was formerly [[satisfying]].
+
+===Etymology 2===
+Probably originally [[onomatopoetic]], much like the English {{m|en|yuck}}.
+
+====Adjective====
+{{ja-adj|infl=na|いや}}
+
+# [[disgusting|Disgusting]], [[unpleasant]], [[yucky]].
+
+=====Inflection=====
+{{ja-na|いや}}
+
+====Interjection====
+{{ja-pos|いや|interjection}}
+
+# [[yuck|Yuck]], [[ew]].
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[염]], [[엽]]|rv=yeom, yeop|mr=yŏm, yŏp|y=yem, yep}}
+
+# {{defn|lang=ko|sort=厂12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ướm]], [[yếm]], [[ếm]], [[êm]], [[im]]|rs=厂12}}
+
+# {{defn|lang=vi|sort=厂12}}
+
+[[zh-min-nan:厭]]
+[[fr:厭]]
+[[ko:厭]]
+[[hi:厭]]
+[[hu:厭]]
+[[ja:厭]]
+[[pl:厭]]
+[[th:厭]]
+[[zh:厭]]

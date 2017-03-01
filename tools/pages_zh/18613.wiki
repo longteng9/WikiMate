@@ -1,0 +1,49 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=02|sn=6|four=80232|canj=OE,XOE|ids=⿱入水}}
+
+# to [[parboil]]
+# [[hot]] [[water]] [[kettle]]
+# to [[boil]]
+
+====References====
+* {{Han ref|kx=0604.091|dkj=17100|hdz=31547.040|uh=6C46|ud=27718|bh=C9F8|bd=51704}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=cuān
+|c=cyun1
+|mc=
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水02| hanviet = thoản}}
+
+# {{defn|lang=vi|sort=水02}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6c46 Nom Foundation]
+
+[[fr:汆]]
+[[mg:汆]]
+[[pl:汆]]
+[[th:汆]]
+[[zh:汆]]

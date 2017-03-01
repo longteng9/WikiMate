@@ -1,0 +1,93 @@
+{{character info/new}}
+{{also|颜|顔}}
+
+==Translingual==
+{{Han simplified forms|顏|顔|颜}}
+
+===Han character===
+{{Han char|rn=181|rad=頁|as=09|sn=18|four=01286|canj=XYHMB,YHMBC|ids=⿰彥頁}}
+
+====References====
+* {{Han ref|kx=1407.050|dkj=43591|dj=1924.210|hdz=74383.101|uh=984F|ud=38991|bh=C343|bd=49987}}
+
+----
+
+==Chinese==
+{{zh-forms|s=颜|alt=顔}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|彥|頁|ls=psc|c1=p|c2=s}}.
+
+Bronze inscription forms: {{Han compound|产|面|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yán
+|ma=y
+|c=ngaan4
+|h=pfs=ngièn
+|md=
+|mn=qz,tw,xm,zz:gân/xm:hiâⁿ
+|mn_note=gân - literary; hiâⁿ - vernacular
+|w=3nge,3hhi
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[color]]
+#: {{zh-x|顏色|color}}
+# [[face]]; [[countenance]]; facial expression
+#: {{zh-x|顏面|face, prestige}}
+#: {{zh-x|容顏|countenance; looks}}
+# [[prestige]], [[dignity]]
+#: {{zh-x|厚顏|brazen; shameless}}
+# {{surname|lang=zh}}
+
+====Synonyms====
+* {{sense|color}} {{zh-l|色}}
+
+===Compounds===
+{{zh-der|顏色|不徇顏面|久違顏範|五顏六色|仙顏|低顏|低顏下膝|假以顏色|分顏|厚顏|厚顏無恥|反顏|和顏|和顏下氣|和顏悅色|喜笑顏開|喜逐顏開|天顏|奴顏婢睞|奴顏婢膝|奴顏媚骨|婢膝奴顏|完顏|容顏|寄顏無所|尊顏|展顏|廣告顏料|強顏|強顏歡笑|形於顏色|怡顏|怡顏悅色|愁顏不展|慈顏|承顏|承顏候色|承顏接辭|承顏順旨|抗顏|披顏|措顏無地|摧顏|改顏|啟顏|朱顏|朱顏粉面|朱顏鶴髮|歡顏|正言厲顏|正顏|正顏厲色|毀顏|汗顏|沒顏色|沒顏落色|清顏|無顏|爨龍顏碑|犯顏|犯顏苦諫|玉顏|發光顏料|白髮朱顏|白髮紅顏|白髮蒼顏|皓首蒼顏|盛顏|盜跖顏淵|破顏|破顏微笑|碧眼童顏|秋顏|童顏|童顏鶴髮|笑逐顏開|紅顏|紅顏命薄|紅顏薄命|給以顏色|綠鬢朱顏|芝顏|花顏月貌|蒼顏|衰顏|解顏|變顏|赧顏|赧顏汗下|還以顏色|酡顏|鈞顏|錯認顏標|開顏|隆顏|霽顏|靦顏|靦顏事仇|靦顏借命|韶顏稚齒|顏如玉|顏字|顏料|顏柳|顏筋柳骨|顏範|顏苦孔卓|顏闔鑿培|顏面|顏面神經|顏面角|顏面骨|顏骨柳筋|顏體|養顏|養顏有術|駐顏|駐顏有術|鶴髮童顏|龍顏}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=頁09|style=ky|shin=顔}}
+
+# {{defn|lang=ja|sort=頁09}}
+
+====Readings====
+* {{ja-readings|on=[[がん]] ([[gan]]), [[げん]] (gen)|kun=[[かお]] (kao)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=안|eumhun=|mr=[[an]]|y=an}}
+
+# {{defn|lang=ko|sort=頁09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhan]]|rs=頁09}}
+
+# {{defn|lang=vi|sort=頁09}}
+
+[[fr:顏]]
+[[hu:顏]]
+[[mg:顏]]
+[[ja:顏]]
+[[pl:顏]]
+[[th:顏]]
+[[zh:顏]]

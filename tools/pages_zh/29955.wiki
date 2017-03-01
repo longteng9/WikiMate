@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|鉴}}
+==Translingual==
+{{Han simplified forms|鑒|鑑|鉴}}
+===Han character===
+{{Han char|rn=167|rad=金|as=14|sn=22|four=78109|canj=SWC}}
+
+# mirror, looking glass
+# [[reflect]]
+
+====References====
+* {{Han ref|kx=1325.110|dkj=40989|dj=1826.060|hdz=64267.070|uh=9452|ud=37970|bh=C5B3|bd=50611}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鉴|alt=鍳,鑑}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiàn
+|c=gaam3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金14}}
+
+# {{defn|lang=ja|sort=金14}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[かがみ]] (kagami), [[かんがみる]] (kangamiru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=감|eumhun=|rv=gam|mr=kam|y=kam}}
+
+# {{defn|lang=ko|sort=金14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[giám]], [[gương]]|rs=金14}}
+
+# {{defn|lang=vi|sort=金14}}
+
+[[fr:鑒]]
+[[ko:鑒]]
+[[hu:鑒]]
+[[ja:鑒]]
+[[pl:鑒]]
+[[th:鑒]]
+[[zh:鑒]]

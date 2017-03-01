@@ -1,0 +1,90 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{liushu|p}}: a kind of bird ([[鳥]]).
+
+===Han character===
+{{Han char|rn=86|rad=火|as=07|sn=11|four=10327|canj=MYLF}}
+
+# [[thereupon]], [[then]]
+# [[how]]? [[why]]? [[where]]?
+
+====Derived terms====
+* {{l|mul|蔫}}, {{l|mul|嫣}}, {{l|mul|鄢}}, {{l|mul|傿}}, {{l|mul|漹}}
+
+====References====
+* {{Han ref|kx=0672.210|dkj=19076|dj=1081.040|hdz=32206.140|uh=7109|ud=28937|bh=B26A|bd=45674}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yān
+|c=jin1,jin4
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|下焉者|心焉如割|心不在焉|少焉|焉知|焉得|焉支山|烏焉成馬|焉能|焉爾|於焉|終焉之志|罪莫大焉|語焉不詳}}
+
+===References===
+* {{R:twedu|A02409}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=火07}}
+
+# {{defn|lang=ja|sort=火07}}
+
+====Readings====
+* {{ja-readings|on=[[えん]] (en), [[い]] (i)|kun=[[いずくんそ]] (izukunso), [[すなわち]] (sunawachi), [[これ]] (kore)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=언|eumhun=어찌|rv=eon|mr=ŏn|y=en}}
+
+# {{defn|lang=ko|sort=火07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=火07|hanviet=[[yên]], [[vờn]]}}
+
+# {{defn|lang=vi|sort=火07}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:焉]]
+[[ko:焉]]
+[[li:焉]]
+[[hu:焉]]
+[[mg:焉]]
+[[ja:焉]]
+[[no:焉]]
+[[pl:焉]]
+[[th:焉]]
+[[zh:焉]]

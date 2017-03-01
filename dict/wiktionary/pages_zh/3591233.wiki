@@ -1,0 +1,58 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|つう|やく|yomi=o}}
+{{wikipedia|Language interpretation}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=つうやく}} {{m|zh|通譯}}.
+
+===Pronunciation===
+* {{ja-pron|つうやく|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|つうやく|kyu=通譯}}
+
+# [[interpreting]], [[interpretation]]: the [[facilitation]] of [[spoken]] [[conversation]] between two or more parties that do not all speak a [[common]] [[language]]
+# an [[interpreter]]: someone who [[interpret]]s [[speech]] in the language of the speaker into the language of the listener
+
+====Synonyms====
+* {{l|ja|通事}}, {{l|ja|通詞}}, {{l|ja|通辞|tr=[[つうじ]], ''[[tsūji]]''}}
+
+====Derived terms====
+{{der-top}}
+* {{l|ja|通訳者|tr=[[つうやくしゃ]], ''[[tsūyakusha]]''}}: an [[interpreter]]
+* {{l|ja|通訳生|tr=[[つうやくせい]], ''[[tsūyakusei]]''}}: a [[student]] interpreter
+* {{l|ja|同時通訳|tr=[[どうじつうやく]], ''[[dōji tsūyaku]]''}}: [[simultaneous]] [[interpreting]]
+* {{l|ja|逐次通訳|tr=[[ちくじつうやく]], ''[[chikuji tsūyaku]]''}}: [[consecutive]] [[interpreting]]
+* {{l|ja|ウィスパリング通訳|tr=[[ウィスパリングつうやく]], ''[[wisuparingu tsūyaku]]''}}: [[whispered]] [[interpreting]]
+* {{l|ja|会議通訳|tr=[[かいぎつうやく]], ''[[kaigi tsūyaku]]''}}: [[conference]] [[interpreting]]
+* {{l|ja|エスコート通訳|tr=[[エスコートつうやく]], ''[[esukōto tsūyaku]]''}}: [[escort]] [[interpreting]]
+* {{l|ja|放送通訳|tr=[[ほうそうつうやく]], ''[[hōsō tsūyaku]]''}}: [[broadcast]] [[interpreting]]
+{{der-bottom}}
+
+====See also====
+* {{l|ja|翻訳|tr=[[ほんやく]], ''[[hon'yaku]]''}}: [[translation]] of [[written]] matter from one language to another
+
+===Verb===
+{{ja-verb-suru|つうやく|kyu=通譯|tr=trans}}
+
+# to [[interpret]]: to listen to [[speech]] in one language and then [[convey]] the meaning of that speech in the language of the listener
+
+====Conjugation====
+{{ja-suru|つうやく}}
+
+====See also====
+* {{l|ja|翻訳|tr=[[ほんやく]], ''[[hon'yaku]]''}}: to [[translate]]
+
+===References===
+<references/>
+
+[[ko:通訳]]
+[[li:通訳]]
+[[hu:通訳]]
+[[mg:通訳]]
+[[nl:通訳]]
+[[ja:通訳]]
+[[chr:通訳]]
+[[uk:通訳]]
+[[zh:通訳]]

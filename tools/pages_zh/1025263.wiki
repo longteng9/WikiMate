@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiàndù
+|c=haan6 dou6
+|h=pfs=han-thu
+|mn=qz:hǎn-tō͘/tw,xm:hān-tō͘/zz:ān-tō͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[limit]]; [[limitation]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|げん|ど|yomi=on}}
+
+===Etymology===
+[[限]] (げん, ''gen'': “limit”) + [[度]] (ど, ''do'': “degree”)
+
+===Noun===
+{{ja-noun|げんど}}
+
+# A [[capacity]] of [[limitation]]; a [[limit]], a [[limitation]].
+#* '''2008''', ''責任限度額を超える手荷物に対する追加保険'', Continental Airlines, Inc., [http://www.continental.com/web/ja-jp/content/travel/baggage/valuation.aspx?SID=F04FADDB25CD41FBA1940E101C8D7A28 web (ja)] [http://www.continental.com/web/en-US/content/travel/baggage/valuation.aspx web (en)],
+#*: {{ja-usex|航空会社の責任'''限度'''を超える手荷物は、チェックイン時毎回申告し、追加保険料をかけていただく必要があります。|こうくうがいしゃ の せきにん '''げんど''' を こえる てにもつ は、 チェックインじ まいかい しんこく し、 ついか ほけんりょう を かけて いただく ひつよう が あります。|You must re-declare and pay the applicable charges each time you check your excess valuation baggage.}}
+<!-- 08:26, 23 March 2008 (UTC); http://www.continental.com/web/ja-jp/content/travel/baggage/valuation.aspx?SID=F04FADDB25CD41FBA1940E101C8D7A28 -->
+<!-- 08:26, 23 March 2008 (UTC); http://www.continental.com/web/en-US/content/travel/baggage/valuation.aspx -->
+#: {{ja-usex|そのホームページではクレジットカードの'''限度'''額について、様々な情報を紹介しています。|その ホームページ で は クレジットカード の '''げんど'''がく に ついて、 さまざま な じょうほう を しょうかい して います。|The website presents various information on credit '''limits'''.}}
+#: {{ja-usex|彼の横柄な態度は、私の我慢の'''限度'''を超える。|かれ の おうへい な たいど は、 わたし の がまん の '''げんど''' を こえる。|His haughty contempt exceeds the '''limit''' of my patience.}}
+
+[[zh-min-nan:限度]]
+[[ko:限度]]
+[[hu:限度]]
+[[mg:限度]]
+[[ja:限度]]
+[[chr:限度]]
+[[zh:限度]]

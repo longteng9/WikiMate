@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|诉|訢}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=05|sn=12|four=02631|canj=YRHMY|ids=⿰言斥}}
+
+# [[accuse]]
+# [[sue]]
+# [[inform]]
+# [[narrate]]
+
+====References====
+* {{Han ref|kx=1152.130|dkj=35325|dj=1618.240|hdz=63955.080|uh=8A34|ud=35380|bh=B644|bd=46660}}
+
+----
+
+==Chinese==
+{{zh-forms|s=诉}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|t1=word, speak|斥|ls=psc|c1=s|c2=p}} – to accuse verbally, reinforced by 斥 meaning “accuse, blame”.
+
+===Pronunciation===
+{{zh-pron
+|m=sù
+|c=sou3
+|h=pfs=
+|md=
+|mn=sò͘
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|上訴|傾訴|免訴|公訴|公訴人|公訴權|共同訴訟|出訴|分訴|刑事訴訟|勝訴|原訴|反訴|告訴|告訴乃論|哀訴|哭訴|如泣如訴|如訴如泣|對訴|投訴|投訴無門|控訴|提起公訴|敗訴|民事訴訟|泣訴|牒訴|申訴|緬訴|自訴|自訴人|行政訴訟|行政訴願|訴冤|訴權|訴求|訴狀|訴苦|訴落|訴訟|訴訟擔保|訴訟法|訴訟費用|訴說|訴請|訴諸|訴追|訴願|訴願權|起訴|起訴人|起訴書|起訴權|追訴權|選舉訴訟|陳訴|集體訴訟|非常上訴}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=言05}}
+
+# {{l|en|accuse}}, {{l|en|appeal}}, {{l|en|complain}}, {{l|en|sue}}
+
+====Readings====
+{{ja-readings
+|goon=[[す]] (su) {{non-joyo-reading}}
+|kanon=[[そ]] (so)
+|kun=[[うったえる]] ([[訴える]], uttaeru), [[うったえ]] ([[訴え]], uttae)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=소|eumhun=|rv=so|mr=so|y=so}}
+
+# {{defn|lang=ko|sort=言05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tố]], [[tỏ]], [[túa]], [[tò]], [[tuá]]|rs=言05}}
+
+# {{defn|lang=vi|sort=言05}}
+
+[[zh-min-nan:訴]]
+[[fr:訴]]
+[[ko:訴]]
+[[hu:訴]]
+[[mg:訴]]
+[[ja:訴]]
+[[pl:訴]]
+[[th:訴]]
+[[zh:訴]]

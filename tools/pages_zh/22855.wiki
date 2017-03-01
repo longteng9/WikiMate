@@ -1,0 +1,126 @@
+{{character info/new}}
+{{also|筷}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=09|sn=15|four=88604|canj=HJKA|ids=⿱⺮者}}
+
+====References====
+* {{Han ref|kx=0891.030|dkj=26224|dj=1318.150|hdz=52979.010|uh=7BB8|ud=31672|bh=BAE6|bd=47846}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+The Classical Chinese word for "chopsticks".  It has been replaced by {{zh-l|筷子}} in most dialects for taboo reasons, avoiding homophony with {{zh-l|住|stopping}} in boatmen's language. Still used in Min, and dialectal Mandarin/Wu/Cantonese/Hakka.
+
+====Pronunciation====
+{{zh-pron
+|m=zhù
+|c=zyu6
+|md=dê̤ṳ
+|mn=tī/tū
+|mn-t=de7
+|w=3zr
+|mc=2
+|oc=1,2
+|cat=n,cls
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|literary|regional}} [[chopsticks]] {{zh-mw|雙|md:奇|mn:跤}}
+#* {{zh-x|紂王 有{ū} 一 日 得著 一 雙 象牙 ê 箸，伊 ê 人{jîn-}臣 箕{Kî}.子{Chú} 看-了 不止 憂悶 驚{kiaⁿ-}惶{hiâⁿ}。|One day, [[w:King Zhou of Shang|King Zhou]] got a pair of ivory '''chopsticks'''. His official {{w|Jizi}} saw that and became incessantly worried and frightened.|MN|ref='''1916:''' anon., [http://210.240.194.97/nmtl/dadwt/thak.asp?id=345 {{lang|zh|Tùi小可會知大項}}]}}
+# {{lb|zh|Min}} chopstick-shaped [[object]]
+#: {{zh-x|冰箸|ice lolly|tr=bĭng-{d}ê̤ṳ|MD}}
+# {{lb|zh|Cantonese|Min|dialectal Mandarin}} {{n-g|Classifier for an amount of food held with a pair of chopsticks.}}
+#: {{zh-x|我 夾 箸{zyu6} 麵 畀 你 試 下{haa5} 吖。|I'll get a '''"chopstick-ful"''' of noodles for you to try.|C}}
+
+====Synonyms====
+{{zh-dial|筷子}}
+
+====Descendants====
+* Burmese: {{l|my|တူ||chopsticks}} (''from Min Nan'')
+* Korean: {{ko-l|저|箸}} > {{ko-l|젓가락|chopsticks}}
+* Lao: {{l|lo|ຖູ່}} > {{l|lo|ໄມ້ຖູ່||chopsticks}}
+* Lü: {{l|khb|ᦏᦴᧈ|tr=tʰuu²}} > {{l|khb|ᦙᦺᧉᦏᦴᧈ|tr=maj⁶tʰuu²||chopsticks}}
+* Vietnamese: {{l|vi|đũa}}
+
+====Compounds====
+{{zh-der|冰箸|象箸|象箸玉杯|箸子|箸雙|箸隻|箸筩|箸長碗短|借箸|火箸|動箸|箸籠|攑箸|碗箸|箸仔|箸豆|箸瓶|箸筒|箸簍}}
+
+===Etymology 2===
+{{zh-see|著|v}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|はし|yomi=kun}}
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹09}}
+
+====Readings====
+* {{ja-readings|goon=[[じょ]] (jo), [[じゃく]] (jaku)|kanon=[[ちょ]] (cho), [[ちゃく]] (chaku)|kun=[[はし]] (hashi)}}
+
+====Compounds====
+* {{ja-r|菜箸|さいばし}}
+* {{ja-r|割り箸|わりばし}}
+* {{ja-r|箸置き|はしおき}}: [[chopstick rest]]
+
+===Etymology===
+{{ja-kanjitab|はし|yomi=k}}
+{{rfe|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|はし|accent=a|y=k|acc_ref=NHK,DJR,SMK5}}
+
+===Noun===
+{{ja-noun|はし}}
+
+# [[chopstick]]s
+
+===See also===
+* {{l|ja|おてもと}}, {{l|ja|お手許}}, {{l|ja|お手元}}, {{l|ja|御手許}}, {{l|ja|御手元}} (otemoto)
+
+===References===
+<references/>
+[[Category:ja:Cutlery|はし]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=저|eumhun=|rv=jeo|mr=chŏ|y=ce}}
+
+# {{defn|lang=ko|sort=竹09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[giạ]], [[trứ]], [[chước]], [[đũa]], [[trợ]]|rs=竹09}}
+
+# {{defn|lang=vi|sort=竹09}}
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville, 1999
+
+[[zh-min-nan:箸]]
+[[fr:箸]]
+[[lo:箸]]
+[[hu:箸]]
+[[mg:箸]]
+[[ja:箸]]
+[[pl:箸]]
+[[fi:箸]]
+[[sv:箸]]
+[[th:箸]]
+[[zh:箸]]

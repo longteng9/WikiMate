@@ -1,0 +1,10 @@
+==Japanese==
+{{ja-kanjitab|たん|ふく|k2=ぷく|どう|けい|yomi=on}}
+
+===Etymology===
+{{compound|単複|同形|t1=singular and plural|t2=same form|lang=ja|sort=たんぷくどうけい}}
+
+===Noun===
+{{ja-noun|たんぷくどうけい}}
+
+# {{lb|ja|grammar|sort=たんぷくどうけい}} noun with the same form in [[plural]] and [[singular]]

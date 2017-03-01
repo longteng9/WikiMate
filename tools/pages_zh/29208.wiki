@@ -1,0 +1,171 @@
+{{character info/new}}
+{{also|裏|裡|黒|浬}}
+==Translingual==
+{{stroke order|type=animate}}
+{{Han simplified forms|裡|裏|里}}
+
+===Han character===
+{{Han char|rn=166|rad=里|as=00|sn=7|four=60104|canj=WG}}
+
+# {{mul-kangxi radical-def}}
+
+====Derived characters====
+* [[Index:Chinese radical/里]]
+* [[埋]] [[理]] ([[理]]) [[狸]] ([[貍]]) [[裡]] ([[裏]])
+
+====References====
+* {{Han ref|kx=1291.020|dkj=40131|dj=1791.060|hdz=63680.010|uh=91CC|ud=37324|bh=A8BD|bd=43197}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|田|土|ls=ic|t1=field|t2=potter's clay; earth}} – a measure of land and fields; mile; place.
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=lǐ
+|ma=y
+|c=lei5
+|h=pfs=li/lí
+|mn=lí
+|w=3li
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[li]] (a unit of distance equal to half a kilometre in modern China)
+#: {{zh-x|公里|kilometre}}
+# [[village]] (an administrative unit in the [[Republic of China]])
+# [[lane]] (a type of road in Hong Kong)
+# {{surname|lang=zh}}
+
+=====Compounds=====
+{{zh-der|俄里:[[verst]]|英里:[[mile]]|前程萬里|下城里|加利波里|咫尺萬里|坨里|千里迢迢|巴里島|千里達|傻里傻氣|五里霧|北里|千里足|勿里洞島|公里|千里命駕|千里移檄|尺幅千里|八里|塔里木河|千里馬|一日千里|志在千里|德里|千里駒|下里巴人|庫里爾臺|平方公里|地里|千里迢遙|巴人下里|州里|一舉千里|尺寸千里|布里亞族|勒里勒得|一瀉千里|密蘇里河|密蘇里州|不遠萬里|居里|尤里西斯|劈里啪啦|封侯萬里|吉里巴斯|千里鵝毛|千里|墟里|七里香|千里一曲|布里斯托|十里長亭|十里洋場|下里|后里|卡路里|千里鏡|千里眼|千里猶面|不遠千里|平康里|咫尺千里|決勝千里|稀里打哄|珂里|懸旌萬里|明見萬里|甪里|牖里|明鑒萬里|田里|斯里蘭卡|日行千里|新德里|萬里侯|推輦歸里|沒地里|流血千里|毫釐千里|烏蘇里江|萬里江山|百里|戚里|滴里搭拉|梓里|格里曆|稀里嘩啦|萬里鵬翼|萬里鵬程|萬里迢迢|萬里封侯|萬里同風|萬里之望|萬里|百里侯|決策千里|百里香|百里之才|晴空萬里|的黎波里|故里|滴里嘟嚕|萬里長城|沃野千里|村里|相去萬里|海里|方里|歇斯底里|模里西斯|掛冠歸里|旋里|鵬程萬里|里居|精奇里江|里程碑|里幹事|馬德里|羑里|離題萬里|里老|轉戰千里|里豪|里斯本|貝里拉|舳艫千里|里閭|蹀里蹀斜|運籌千里|鄰里鄉黨|負笈千里|跋涉千里|里語|糊里糊塗|阿里|蒿里|長風萬里|騰格里湖|香格里拉|返里|舉目千里|里民|邑里|道里|里長|里程|轉鬥千里|軸艫千里|閭里|里人|里肌|鄉里|里昂|街里街坊|迢迢千里|鄰里|里諺|里胥|闕里|里舍|鄉里小人|西西里島|阿里郎|角里|赤地千里|豪釐千里|里黨|里門|里談巷議|里耳|里社|里爾|里民大會|里正|里拉|里宰|里君|里仁為美|跛鱉千里|里巷|霍里|跬步千里|貝里斯|謬以千里|里閈}}
+
+===Etymology 2===
+{{zh-see|裡||inside}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=里00}}
+
+====Readings====
+{{ja-readings|goon=[[り]] (ri)|kanon=[[り]] (ri)|kun=[[さと]] (sato)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|英里|えいり}}: [[mile]]
+* {{ja-r|旧里|きゅうり}}: [[hometown]]
+* {{ja-r|里芋|さといも}}: [[taro]]
+* {{ja-r|里親|さと.おや}}
+* {{ja-r|里子|さとご}}
+* {{ja-r|里山|さとやま}}: [[satoyama]]
+* {{ja-r|古里|ふるさと}}
+* {{ja-r|露里|ろり}}: [[verst]]
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|さと|yomi=k}}
+
+From {{etyl|ojp|ja|sort=さと}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Ultimately derivation unknown.
+
+====Pronunciation====
+{{ja-pron|yomi=k|さと|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|郷}}
+
+====Adjective====
+{{ja-adj|infl=na|さと}}
+
+# {{lb|ja|sort=さと|slang|red-light district}} [[boorish]], [[hickish]]
+
+=====Conjugation=====
+{{ja-na|さと}}
+
+====Noun====
+{{ja-noun|さと}}
+
+# [[village]]
+# [[country house]]
+# one's [[hometown]]
+# the [[country]], the [[countryside]]
+# the [[original]] [[home]] of a household member {{qualifier|such as a [[wife]], [[adoptee]], or other person who has joined the household from outside}}
+# a separate [[home]] or [[boarding]] [[situation]] to which one's own children are sent for [[upbringing]] or [[education]]
+# a [[red-light district]]
+# one's [[birth]], [[parentage]], [[origins]]
+# {{lb|ja|sort=さと|slang|red-light district}} [[boorishness]], [[hickishness]]
+# the [[lay]] world {{qualifier|as opposed to life within a temple}}
+# {{lb|ja|sort=さと|obsolete}} in ancient times, a unit of area for regional administration
+#: The ''ri'' reading below was more common for this.
+# {{lb|ja|sort=さと|obsolete}} in ancient times, a unit of distance
+#: The ''ri'' reading below was more common for this.
+
+===Etymology 2===
+{{ja-kanjitab|り|yomi=o}}
+From {{etyl|ltc|ja|sort=り}} {{m|zh|里|tr=li<sup>X</sup>}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|り|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|り}}
+
+# unit of distance
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[리]]>[[이]]|eumhun=|mr=ri>i|y=li>i}}
+
+# {{defn|lang=ko|sort=里00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lịa]], [[lí]], [[lìa]]|rs=里00}}
+
+# {{defn|lang=vi|sort=里00}}
+
+[[Category:CJKV radicals| ]]
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+[[da:里]]
+[[fr:里]]
+[[ko:里]]
+[[li:里]]
+[[hu:里]]
+[[mg:里]]
+[[ms:里]]
+[[fj:里]]
+[[ja:里]]
+[[no:里]]
+[[pl:里]]
+[[pt:里]]
+[[ru:里]]
+[[sr:里]]
+[[ta:里]]
+[[th:里]]
+[[chr:里]]
+[[uk:里]]
+[[zh:里]]

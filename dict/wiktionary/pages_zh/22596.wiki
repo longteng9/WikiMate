@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|窥}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=116|rad=穴|as=11|sn=16|four=30516|canj=JCQOU}}
+
+# [[peep]], [[watch]], [[spy on]], [[pry]]
+
+====References====
+* {{Han ref|kx=0868.050|dkj=25633|dj=1297.180|hdz=42739.130|uh=7ABA|ud=31418|bh=BF73|bd=49011}}
+
+----
+
+==Chinese==
+{{zh-forms|s=窥}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kuī
+|c=kwai1
+|h=pfs=khûi
+|md=
+|mn=khui
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[窥豹一斑]]
+* [[窥测]]
+* [[窥察]]
+* [[窥见]]
+* [[窥视]]
+* [[窥视镜]]
+* [[窥伺]]
+* [[窥探]]
+* [[窥听]]
+* [[窥望]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=穴11}}
+
+# {{defn|lang=ja|sort=穴11}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[うかがう]] (ukagau), [[うかがい]] (ukagai)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=규|eumhun=|rv=gyu|mr=kyu|y=kyu}}
+
+# {{defn|lang=ko|sort=穴11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khuy]]|rs=穴11}}
+
+# {{defn|lang=vi|sort=穴11}}
+
+[[fr:窺]]
+[[hu:窺]]
+[[ja:窺]]
+[[pl:窺]]
+[[th:窺]]
+[[vi:窺]]
+[[zh:窺]]

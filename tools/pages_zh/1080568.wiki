@@ -1,0 +1,90 @@
+{{also|报告}}
+==Chinese==
+{{zh-forms|s=报告}}
+
+===Pronunciation===
+{{zh-pron
+|m=bàogào
+|ma=Zh-bàogào.ogg
+|c=bou3 gou3
+|h=pfs=po-ko
+|mn=pò-kò
+|w=2pau kau
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[report]]; to [[inform]] one's [[superior]]s
+
+===Noun===
+{{zh-noun}}
+
+# [[report]]
+#: {{zh-x|撰寫 報告|to write a '''report'''}}
+# [[speech]]; [[presentation]]
+# [[paper]]; [[essay]]; [[assignment]]
+
+===Derived terms===
+{{zh-der|報告會|報告文學|開題報告}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほう|こく|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|ほうこく|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ほうこく}}
+
+# [[report]], [[information]]
+
+===Verb===
+{{ja-verb-suru|ほうこく}}
+
+# to [[release]] a report, to [[report]]
+# to [[advise]], to [[inform]] a person
+
+====Conjugation====
+{{ja-suru|ほうこく}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=보고}}
+
+# {{hanja form of|보고|[[report]], [[information]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|báo cáo|to [[report]], to [[inform]]}}
+
+[[zh-min-nan:報告]]
+[[fr:報告]]
+[[ko:報告]]
+[[kn:報告]]
+[[lo:報告]]
+[[lt:報告]]
+[[hu:報告]]
+[[mg:報告]]
+[[fj:報告]]
+[[ja:報告]]
+[[chr:報告]]
+[[zh:報告]]

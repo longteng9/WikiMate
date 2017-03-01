@@ -1,0 +1,87 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wūnǚ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# a [[Japanese]] [[female]] [[shaman]]
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Miko}}
+[[File:Miko-san_by_Abrilon_in_Meiji-Jingu,_Tokyo.jpg|thumb|250px|{{lang|ja|巫女}} (''miko''): a pair of '''miko''' or '''shrine maidens''' at {{w|Meiji Jingu}}.]]
+</div>
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|sort=みこ}}
+From {{etyl|ojp|ja|sort=みこ}}. Originally a compound of {{compound|lang=ja|sort=みこ|神|tr1=mi|t1=spirit, god|子|tr2=ko|t2=child}}, as suggested by the alternative spelling {{m|ja|神子}}.
+
+Formerly spelled as {{m|ja|巫}} on its own.<ref name="SMK5">{{R:Shinmeikai5}}</ref>  The modern kanji spelling {{lang|ja|巫女}} appears to be [[ateji]], as an example of {{m|ja|熟字訓|tr=jukujikun}}.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|みこ|acc=1|acc_ref=DJR,SMK5|acc2=0|acc2_ref=DJR,SMK5}}
+
+====Alternative forms====
+* {{m|ja|神子}}, {{m|ja|神巫}} {{qualifier|rare}}, {{m|ja|巫}} {{qualifier|obsolete}}
+
+====Noun====
+{{ja-noun|みこ}}
+
+# An [[unmarried]] woman who [[serve]]s at a [[Shintō]] [[shrine]], helping to receive visitors and performing {{m|ja|神楽|tr=kagura}} dances at ceremonies, among other responsibilities.
+# An [[unmarried]] woman who serves a [[deity]] as a [[medium]] to [[convey]] [[oracle]]s.
+
+=====Usage notes=====
+Using the alternate spelling {{l|ja|神子}}, a ''miko'' could be of either gender, but unmarried young women are by far the most common.
+
+=====Synonyms=====
+* {{sense|shrine dancer}}
+** {{ja-r|舞姫|まいひめ}}
+** {{ja-r|御神子|みかんこ}}
+** {{ja-r|巫子|いちこ}}, {{ja-r|巫子|いたこ}}
+** {{ja-r|神楽女|かぐらめ}}
+* {{sense|oracle}}
+** {{ja-r|巫|かんなぎ}}, {{ja-r|覡|かんなぎ}}
+** {{ja-r|巫子|いちこ}}, {{ja-r|巫子|いたこ}}
+** {{ja-r|口寄せ|くちよせ}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|歩き巫女|あるき みこ}}: a [[wandering]] miko
+* {{ja-r|巫女兵|みこへ い}}: a [[warrior]] [[priestess]] {{qualifier|fantasy}}
+* {{ja-r|黒巫女|くろ みこ}}: a [[dark]] [[priestess]] {{qualifier|fantasy}}
+* {{ja-r|口寄巫女|くちよせ みこ}}: a miko acting as a [[medium]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|ふ|yomi=o|じょ}}
+From {{etyl|ltc|ja|sort=ふじょ}} compound {{m|zh|巫女|tr=mju? nrjo<sup>X</sup>|lit=shaman + woman}}.  Compare modern {{etyl|cmn|-}} reading ''wūnǚ''.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ふじょ|acc=1|acc_ref=DJR,SMK5}}
+
+====Noun====
+{{ja-noun|ふじょ|hhira=ふぢよ}}
+
+# An [[unmarried]] woman who serves a [[deity]] as a [[medium]] to [[convey]] [[oracle]]s.
+
+=====Synonyms=====
+* {{ja-r|巫|かんなぎ}}, {{ja-r|覡|かんなぎ}}
+* {{ja-r|巫子|いちこ}}, {{ja-r|巫子|いたこ}}
+* {{ja-r|口寄せ|くちよせ}}
+
+===References===
+<references/>
+
+[[Category:ja:Occupations|みこ]]
+
+[[ko:巫女]]
+[[zh:巫女]]

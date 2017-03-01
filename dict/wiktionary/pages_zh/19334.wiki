@@ -1,0 +1,126 @@
+{{character info/new}}
+{{also|磆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=10|sn=13|four=37127|canj=EBBB|ids=⿰氵骨}}
+
+====See also====
+* {{l|mul|溜}}
+* {{l|mul|汑}}
+
+====References====
+* {{Han ref|kx=0643.030|dkj=18032|dj=1050.100|hdz=31678.040|uh=6ED1|ud=28369|bh=B7C6|bd=47046}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=huá
+|ma=Zh-huá.ogg
+|c=waat6
+|h=pfs=va̍t
+|md=
+|mn=ku̍t
+|mna=Taiwanese-Tone_8.ogg
+|w=
+|mc=y
+|oc=y
+|cat=v,a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[slip]], to [[slide]]
+# very [[smooth]]
+# [[slippery]]
+
+====Derived terms====
+{{zh-der|滑板車|滑冰|滑行車}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=gǔ
+|c=gwat1
+|h=pfs=va̍t
+|mn=ku̍t
+|dial=n
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only used in|滑稽|gǔjī}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水10}}
+
+# [[slippery]]
+# [[slide]]
+# [[slip]]
+# [[flunk]]
+
+====Readings====
+{{ja-readings|goon=[[げち]] (gechi), [[こち]] (kochi)|kanon=[[かつ]] (katsu), [[こつ]] (kotsu)|kun=[[なめらか]] (nameraka), [[すべる]] (suberu)}}
+
+{{ja-kanjitab|なめ|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|なめ|acc=2|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|なめ}}
+
+# in [[mountaineering]], the place where a little [[water]] is running on a [[smooth]] [[rock]]
+# [[smooth]] thing, [[slippery]] thing
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[활]], [[골]]|eumhun=|rv=hwal, gol|mr=hwal, kol|y=hwal, kol}}
+
+# {{defn|lang=ko|sort=水10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hoạt]], [[gột]], [[cốt]]|rs=水10}}
+
+# {{defn|lang=vi|sort=水10}}
+
+[[zh-min-nan:滑]]
+[[fr:滑]]
+[[ko:滑]]
+[[hu:滑]]
+[[mg:滑]]
+[[ja:滑]]
+[[no:滑]]
+[[pl:滑]]
+[[ru:滑]]
+[[tl:滑]]
+[[th:滑]]
+[[chr:滑]]
+[[zh:滑]]

@@ -1,0 +1,138 @@
+{{character info/new}}
+{{also|狱}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=10|sn=13|four=43234|canj=KHYRK|ids=⿰狺犬}}
+
+# [[prison]], [[jail]]
+# [[case]]
+# [[lawsuit]]
+
+====Descendants====
+* [[狱]]
+
+====See also====
+* {{l|mul|狺}} <!-- single dog growling -->
+
+====References====
+* {{Han ref|kx=0717.030|dkj=20603|dj=1128.220|hdz=21365.160|uh=7344|ud=29508|bh=BABB|bd=47803}}
+
+----
+
+==Chinese==
+{{zh-forms|s=狱}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|㹜|t1=two dogs|言|t2=words|ls=ic}} (㹜 = [[犭]] + [[犬]], two forms of “dog”). A place where dogs are barking (言) at each other, a jail with guard dogs.
+
+===Pronunciation===
+{{zh-pron
+|m=yù
+|c=juk6
+|h=pfs=ngiu̍k
+|mn=qz,tw,xm,zz:ga̍k/qz,zz:gio̍k/tw:ge̍k
+|mn_note=ga̍k - vernacular; ge̍k/gio̍k - literary
+|md=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[prison]]
+
+====References====
+* (''Min Nan'') [http://twblg.dict.edu.tw/holodict_new/index.html Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=犬10}}
+
+# {{defn|lang=ja|sort=犬10}}
+
+====Readings====
+{{ja-readings|goon=[[ごく]] (goku)|kanon=[[ぎょく]] (gyoku) {{non-joyo-reading}}|kun=[[ひとや]] (hitoya)}}
+
+====Compounds====
+* {{ja-r|獄衣|ごくい}}: [[prison]] [[clothes]]
+* {{ja-r|獄則|ごくそく}}: [[prison]] [[rules]]
+* {{ja-r|地獄|じごく}}
+* {{ja-r|辺獄|へんごく}}
+* {{ja-r|煉獄|れんごく}}
+
+===Etymology 1===
+{{ja-kanjitab|ごく|yomi=o}}
+From {{etyl|ltc|ja|sort=こく'}} {{m|zh|獄|tr=ngjowk||prison}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|ごく|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|ごく}}
+
+# [[prison]]
+
+===Etymology 2===
+{{ja-kanjitab|ひとや|yomi=k}}
+Compound of {{compound|人|tr1=hito|t1=human|屋|tr2=ya|t2=house|lang=ja|sort=ひとや}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|ひとや|acc=0|dev=2|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|人屋}}, {{ja-l|囚獄}}
+
+====Noun====
+{{ja-noun|ひとや}}
+
+# [[prison]]
+
+===References===
+<references/>
+
+[[Category:ja:Buildings|こく']]
+[[Category:ja:Prison|こく']]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=옥|eumhun=|rv=ok|mr=ok|y=ok}}
+
+# {{defn|lang=ko|sort=犬10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|ngục|rs=犬10}}
+
+# {{defn|lang=vi|sort=犬10}}
+
+====Readings====
+* Nôm: ngục
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville, 1999
+
+[[fr:獄]]
+[[ko:獄]]
+[[hu:獄]]
+[[mg:獄]]
+[[ja:獄]]
+[[pl:獄]]
+[[th:獄]]
+[[vi:獄]]
+[[zh:獄]]

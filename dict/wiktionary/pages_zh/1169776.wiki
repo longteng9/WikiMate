@@ -1,0 +1,75 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fāngshì
+|ma=Zh-fangshì.ogg
+|c=fong1 sik1
+|h=pfs=fông-sṳt
+|mn=hong-sek
+|w=1faan seq
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[way]]; [[means]]; [[fashion]]; [[mode]]; [[style]]; [[pattern]]; [[manner]]; [[method]]
+#: {{zh-x|思維 方式|way of '''thinking'''}}
+
+====Derived terms====
+{{zh-der|生產方式|生活方式}}
+
+====See also====
+* {{zh-l|辦法}}
+* {{zh-l|方法}}
+* {{zh-l|手段}}
+* {{zh-l|途徑}}
+* {{zh-l|作法}}
+* {{zh-l|做法}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほう|しき|yomi=on}}
+
+===Noun===
+{{ja-noun|ほうしき}}
+
+# [[method]]
+#* [http://headlines.yahoo.co.jp/hl?a=20160921-00000104-jij-soci]
+#*: {{ja-usex|調査は今年２～３月、全国の１６歳以上の男女に面接'''方式'''で実施。１９５９人から回答を得た。|ちょうさ は ことし に～さんがつ、ぜんこく の じゅうろく-さい いじょう の だんじょ に めんせつ '''ほうしき''' で じっし。せん-きゅうひゃく-ごじゅうきゅう にん から かいとう を えた。|The survey was executed from February to March of this year nationwide using an interview '''method''' on men and women above the age of 16. Responses were received from 1959 people.}}
+# [[system]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=방식}}
+
+# {{hanja form of|방식|[[method]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu|pos=noun}}
+
+# {{han tu form of|phương thức|[[method]], [[procedure]]}}
+
+[[zh-min-nan:方式]]
+[[ko:方式]]
+[[hu:方式]]
+[[mg:方式]]
+[[ja:方式]]
+[[sr:方式]]
+[[tl:方式]]
+[[chr:方式]]
+[[zh:方式]]

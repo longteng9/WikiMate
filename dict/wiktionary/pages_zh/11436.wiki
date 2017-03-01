@@ -1,0 +1,242 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=6}}
+
+===Han character===
+{{Han char|rn=13|rad=冂|as=04|sn=6|four=10447|canj=MGB|ids=⿱一冉}}
+
+====See also====
+* {{l|mul|爯}} [[冓]] <!-- graphically similar -->
+
+====References====
+* {{Han ref|kx=0129.080|dkj=01524|dj=0290.040|hdz=10018.010|uh=518D|ud=20877|bh=A641|bd=42561}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zài
+|c=zoi3
+|h=pfs=chai
+|md=cái
+|mn=chài
+|w=1tse
+|mc=y
+|oc=y
+|ma=y
+|cat=adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[again]]; [[re-]]
+#: {{zh-x|再-玩|play again}}
+#: {{zh-x|再-逢|meet again}}
+# to [[continue]] to
+
+====See also====
+* {{sense|again}} {{zh-l|又}}
+
+===Compounds===
+{{zh-der|再版|再不|再不然|再出口|再次|再度|再犯|再會|再婚|再加上|再嫁|再見|再教育|再醮|再接再厲|再進口|再起|再確認|再三|再審|再生|再生產|再生父母|再世|再衰三竭|再說|再現|再也|再造|再則|再者}}
+
+===References===
+* {{qualifier|Hakka}} {{R:hak:Lau 1997}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=冂04}}
+
+# [[again]]
+# [[twice]]
+# [[second]] [[time]]
+
+====Readings====
+* {{ja-readings|goon=[[さい]] (sai)|kanon=[[さい]] (sai)|kanyoon=[[さ]] (sa)|kun=[[ふたたび]] ([[再び]], [[futatabi]])}}
+
+====Compounds====
+{{der5
+| {{ja-l|再演}}
+| {{ja-l|再会}}
+| {{ja-l|再開}}
+| {{ja-l|再帰}}
+| {{ja-l|再起}}
+| {{ja-l|再建}}
+| {{ja-l|再現}}
+| {{ja-l|再考}}
+| {{ja-l|再婚}}
+| {{ja-l|再生}}
+| {{ja-l|再選}}
+| {{ja-l|再度}}
+| {{ja-l|再燃}}
+| {{ja-l|再発見}}
+| {{ja-l|再犯}}
+| {{ja-l|再版}}
+| {{ja-l|再編}}
+| {{ja-l|再来}}
+| {{ja-l|一再}}
+| {{ja-l|再々}}, {{ja-l|再再}}
+| {{ja-l|再案}}
+| {{ja-l|再委託}}
+| {{ja-l|再映}}
+| {{ja-l|再縁}}
+| {{ja-l|再下付}}
+| {{ja-l|再加工}}
+| {{ja-l|再開発}}
+| {{ja-l|再確認}}
+| {{ja-l|再議}}
+| {{ja-l|再挙}}
+| {{ja-l|再協議}}
+| {{ja-l|再教育}}
+| {{ja-l|再興}}
+| {{ja-l|再勤}}
+| {{ja-l|再禁止}}
+| {{ja-l|再吟味}}
+| {{ja-l|再軍備}}
+| {{ja-l|再建}}
+| {{ja-l|再検査}}
+| {{ja-l|再検討}}
+| {{ja-l|再交付}}
+| {{ja-l|再工事}}
+| {{ja-l|再抗弁}}
+| {{ja-l|再校}}
+| {{ja-l|再構成}}
+| {{ja-l|再構築}}
+| {{ja-l|再降臨}}
+| {{ja-l|再告}}
+| {{ja-l|再国営化}}
+| {{ja-l|再国有化}}
+| {{ja-l|再三}}
+| {{ja-l|再思}}
+| {{ja-l|再試験}}
+| {{ja-l|再試行}}
+| {{ja-l|再試合}}
+| {{ja-l|再受浸}}
+| {{ja-l|再就職支援}}
+| {{ja-l|再十両}}
+| {{ja-l|再従兄}}
+| {{ja-l|再従弟}}
+| {{ja-l|再出}}
+| {{ja-l|再出場}}
+| {{ja-l|再出発}}
+| {{ja-l|再循環}}
+| {{ja-l|再処理}}
+| {{ja-l|再勝}}
+| {{ja-l|再上映}}
+| {{ja-l|再審}}
+| {{ja-l|再浸礼}}
+| {{ja-l|再尋問}}
+| {{ja-l|再征}}
+| {{ja-l|再生産}}
+| {{ja-l|再製}}
+| {{ja-l|再設}}
+| {{ja-l|再説}}
+| {{ja-l|再戦}}
+| {{ja-l|再洗礼}}
+| {{ja-l|再組織}}
+| {{ja-l|再創造}}
+| {{ja-l|再送}}
+| {{ja-l|再注}}
+| {{ja-l|再鋳}}
+| {{ja-l|再調}}
+| {{ja-l|再調整}}
+| {{ja-l|再定義}}
+| {{ja-l|再提案}}
+| {{ja-l|再訂}}
+| {{ja-l|再転}}
+| {{ja-l|再度}}
+| {{ja-l|再投稿}}
+| {{ja-l|再投資}}
+| {{ja-l|再投票}}
+| {{ja-l|再読}}
+| {{ja-l|再突入}}
+| {{ja-l|再入学}}
+| {{ja-l|再入国}}
+| {{ja-l|再入幕}}
+| {{ja-l|再任}}
+| {{ja-l|再認識}}
+| {{ja-l|再拝}}
+| {{ja-l|再敗}}
+| {{ja-l|再配置}}
+| {{ja-l|再配布}}
+| {{ja-l|再配分}}
+| {{ja-l|再発}}
+| {{ja-l|再発行}}
+| {{ja-l|再発足}}
+| {{ja-l|再販}}
+| {{ja-l|再評価}}
+| {{ja-l|再浮上}}
+| {{ja-l|再武装}}
+| {{ja-l|再封鎖}}
+| {{ja-l|再服役}}
+| {{ja-l|再分配}}
+| {{ja-l|再変}}
+| {{ja-l|再保険}}
+| {{ja-l|再放送}}
+| {{ja-l|再訪}}
+| {{ja-l|再輸出}}
+| {{ja-l|再輸入}}
+| {{ja-l|再遊}}
+| {{ja-l|再来月}}
+| {{ja-l|再来週}}
+| {{ja-l|再来年}}
+| {{ja-l|再利用}}
+| {{ja-l|再臨}}
+| {{ja-l|再録}}
+}}
+
+===Prefix===
+{{ja-pos|prefix|さい}}
+# [[re-]], [[again]], [[repeated]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[재]]|mr=chae}}
+
+# {{defn|lang=ko|sort=冂04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tái]], [[táy]], [[tải]]|rs=冂04}}
+
+# {{defn|lang=vi|sort=冂04}}
+
+[[zh-min-nan:再]]
+[[fr:再]]
+[[ko:再]]
+[[it:再]]
+[[lo:再]]
+[[li:再]]
+[[hu:再]]
+[[mg:再]]
+[[ms:再]]
+[[mn:再]]
+[[fj:再]]
+[[ja:再]]
+[[no:再]]
+[[pl:再]]
+[[sr:再]]
+[[ta:再]]
+[[th:再]]
+[[chr:再]]
+[[uk:再]]
+[[vi:再]]
+[[zh:再]]

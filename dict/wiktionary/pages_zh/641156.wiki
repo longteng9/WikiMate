@@ -1,0 +1,24 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|えん|き|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|sort=えんき|塩|基|tr1=en|t1=[[salt]]|tr2=ki|t2=[[base]]}}
+
+===Pronunciation===
+{{ja-pron|acc=a|acc2=h|y=ko|えんき}}
+
+===Noun===
+{{ja-noun|えんき}}
+
+# {{lb|ja|inorganic chemistry|sort=えんき}} a [[base]]
+
+===See also===
+* {{ja-r|酸|さん}}
+
+[[ko:塩基]]
+[[lt:塩基]]
+[[mg:塩基]]
+[[nl:塩基]]
+[[ja:塩基]]
+[[zh:塩基]]

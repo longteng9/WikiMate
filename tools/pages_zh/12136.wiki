@@ -1,0 +1,94 @@
+{{character info/new}}
+{{also|聽|聴}}
+==Translingual==
+{{Han simplified forms|聽|聴|听}}
+{{stroke order|strokes=7}}
+
+===Glyph origin===
+{{rfe|mul}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=04|sn=7|four=62021|canj=RHML|ids=⿰口斤}}
+
+====References====
+* {{Han ref|kx=0178.160|dkj=03352|dj=0396.020|hdz=10591.020|uh=542C|ud=21548|bh=A776|bd=42870}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|聽}}
+
+===Etymology 2===
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǐn
+|c=jan5
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口04}}
+
+# laughter (from {{ja-l|笑う}})
+# [[pound sterling]], [[pound]]
+
+====Readings====
+{{ja-readings
+|on=[[きん]] (kin), [[ぎん]] (gin)
+|kun=[[わらう]] (warau), [[ポンド]] (pondo)}}
+
+===Etymology 1===
+{{ja-kanjitab|わらう|yomi=kun}}
+Derivation of the verb {{m|ja|笑う|tr=warau||to laugh; to smile}}.
+
+====Noun====
+{{ja-noun|わらう}}
+
+# to [[laugh]]; to [[smile]] {{attention|ja|this doesn't look like the definition of a noun}}
+
+===Etymology 2===
+{{ja-kanjitab|ぽんど|yomi=kun}}
+From {{etyl|en|ja|sort=ぽんど}} {{m|en|pound}}. This kanji is an [[当て字|ateji]]. See [[斤]].
+
+====Alternative forms====
+* {{l|ja|封}}
+* {{l|ja|磅}}
+
+====Noun====
+{{ja-noun|ポンド}}
+
+# [[pound]] (lb)
+# [[pound sterling]] (£)
+
+[[Category:Japanese terms spelled with ateji|ぽんど]]
+
+[[fr:听]]
+[[ko:听]]
+[[lt:听]]
+[[li:听]]
+[[hu:听]]
+[[mg:听]]
+[[fj:听]]
+[[nl:听]]
+[[ja:听]]
+[[no:听]]
+[[pl:听]]
+[[ta:听]]
+[[th:听]]
+[[chr:听]]
+[[tr:听]]
+[[uk:听]]
+[[zh:听]]

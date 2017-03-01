@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gāoxiáng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|obsolete}} to [[fly]] [[high]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|しょう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|こうしょう|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|こうしょう|hhira=かうしやう}}
+
+# [[flying]] [[high]]
+
+===Verb===
+{{ja-verb-suru|こうしょう|hhira=かうしやう}}
+
+# [[fly]] [[high]]
+
+====Conjugation====
+{{ja-suru|こうしょう}}
+
+===References===
+<references/>
+
+[[zh:高翔]]

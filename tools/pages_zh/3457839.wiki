@@ -1,0 +1,41 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Tsukuyomi}}
+</div>
+{{ja-kanjitab|つき|よみ|yomi=k}}
+{{ja-kanjitab|つく|よみ|yomi=k}}
+
+===Etymology===
+Originally a compound of {{compound|lang=ja|sort=つくよみ|月|tr1=tsuku|t1=the moon|読み|tr2=yomi|t2=reading|pos2=ancient meaning of “counting”}}, and referred to telling the [[phase]] (sense 4) of the moon.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+This spelling was later repurposed as [[熟字訓#Japanese|''jukujikun'']] for a compound of {{compound|lang=ja|sort=つくよみ|月|tr1=tsuku|t1=the moon|夜|tr2=yo|t2=night|神|tr3=mi|t3=god}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The ''tsuku'' reading for {{m|ja|月}} is the ancient combining form.  ''Tsukuyomi'' is the older reading, and this appears to be less common.  {{m|ja|月}} is read as ''tsuki'' in modern {{etyl|ja|-}}, resulting in the more-common ''Tsukiyomi'' reading for this term.
+
+===Pronunciation===
+{{ja-pron|つくよみ|y=k}}
+{{ja-pron|つきよみ|y=k|acc=h|dev=1|acc_ref=SMK5,NHK}}
+
+===Alternative forms===
+* {{ja-l|月読み}}, {{ja-l|月夜見}}
+
+===Proper noun===
+{{ja-pos|proper|つくよみ|ツクヨミ|つきよみ|ツキヨミ}}
+
+# {{lb|ja|sort=つくよみ|Japanese mythology|Shinto}} Tsukuyomi, the [[Japanese]] [[moon]] [[god]]
+# {{lb|ja|sort=つくよみ|poetic}} the [[Moon]]
+
+====Derived terms====
+* {{ja-l|月読男}}, {{ja-l|月夜見男|つくよみおとこ|Tsukuyomi otoko}}: [[personification]] of the moon, the moon man (not the "''[[man in the moon]]''")
+* {{ja-l|月読尊}}, {{ja-l|月読命}}, {{ja-l|月夜見命|つくよみのみこと|Tsukuyomi no Mikoto}}: formal name for the Japanese god of the moon
+* {{ja-l|月読宮}}, {{ja-l|月夜見宮}} ({{ja-l|つきよみのみや}}, {{ja-l|||Tsukiyomi no Miya}}; {{ja-l|つくよみのみや}}, {{ja-l|||Tsukuyomi no Miya}}): a shrine to Tsukuyomi in the Miyajiri area of [[w:Ise, Mie|Ise]], [[w:Mie Prefecture|Mie Prefecture]]
+
+====See also====
+* {{ja-l|天照|あまてらす|Amaterasu}}: [[Amaterasu]], the [[Japanese]] [[sun]] [[goddess]]
+* {{ja-l|須佐之男|すさのお|Susanoo}}: [[Susanoo]], the [[Japanese]] [[storm]] [[god]]
+* {{ja-l|伊邪那岐}}, {{ja-l|伊弉諾|いざなぎ|Izanagi}}: [[Izanagi]], the [[father]] of [[Amaterasu]], [[Tsukuyomi]], and [[Susanoo]]
+
+===References===
+<references/>
+{{catlangcode|ja|Gods|Japanese mythology|sort=つくよみ}}

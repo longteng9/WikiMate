@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=hésuān
+|c=hat6 syun1,wat6 syun1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|biochemistry}} [[nucleic acid]]
+
+====Derived terms====
+{{zh-der|核糖核酸|脫氧核糖核酸|核酸酶}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|かく|さん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=0|y=ko|かくさん|dev=2}}
+
+===Noun===
+{{ja-noun|かくさん}}
+
+# {{lb|ja|genetics|biochemistry|sort=かくさん}} a [[nucleic acid]]
+
+[[ko:核酸]]
+[[lt:核酸]]
+[[hu:核酸]]
+[[nl:核酸]]
+[[ja:核酸]]
+[[sv:核酸]]
+[[zh:核酸]]

@@ -1,0 +1,46 @@
+==Japanese==
+{{ja-kanjitab|あつ|にゅう|yomi=on}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=あつにゅう}} {{m|zh|sc=Hani|壓入}}.
+
+===Noun===
+{{ja-noun|kyu=壓入|あつにゅう|hhira=あつにふ}}
+
+# [[press|Pressing]] something in under [[pressure]]: [[inject]]ing.
+# {{lb|ja|chemistry|sort=あつにゅう}} [[forcing|Forcing]].
+# {{lb|ja|chemistry|sort=あつにゅう}} [[penetration|Penetration]].
+# {{lb|ja|chemistry|machining|sort=あつにゅう}} A press [[fit]].
+# {{lb|ja|medical|sort=あつにゅう}} An [[indentation]].
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|圧入硬度|あつにゅう こうど}}: {{qualifier|medical}} Indentation [[hardness]].
+* {{ja-r|圧入ガス|あつにゅう ガス}}: Injection [[gas]].
+* {{ja-r|圧入流体|あつにゅう りゅうたい}}: Injection [[fluid]].
+* {{ja-r|圧入流体面|あつにゅう りゅうたい めん}}: Injection-fluid [[front]].
+* {{ja-r|圧入圧力|あつにゅう あつりょく}}: Injection [[pressure]].
+* {{ja-r|圧入井|あつにゅうい}}: Injection [[well]].
+* {{ja-r|圧入井の目詰まり|あつにゅうい の めづまり}}: Injection-well [[plugging]].
+* {{ja-r|圧入指数|あつにゅう しすう}}: Injectivity [[index]].
+* {{ja-r|圧入試験|あつにゅう しけん}}: Injectivity [[test]].
+* {{ja-r|圧入ジベル|あつにゅう ジベル}}: {{qualifier|machining}} A press-in [[connector]], a press-in [[dowel]].
+* {{ja-r|圧入仕上法|あつにゅう しあげほう}}: Press [[finishing]].
+* {{ja-r|圧入法|あつにゅうほう}}: {{qualifier|chemistry}} The pressure process.
+* {{ja-r|圧入眼圧計|あつにゅう がんあつ けい}}: An [[impression]] [[tonometer]], an [[indentation]] tonometer.
+* {{ja-r|圧入眼圧測定|あつにゅう がんあつ そくてい}}: [[impression|Impression]] [[tonometry]], [[indentation]] tonometry.
+* {{ja-r|圧入骨折|あつにゅう こっせつ}}: An [[impacted]] [[fracture]].
+{{der-bottom}}
+
+===Verb===
+{{ja-verb-suru|kyu=壓入|あつにゅう|hhira=あつにふ}}
+
+# [[indent]]
+# [[press]] into
+# [[inject]]
+#: {{ja-usex|ガスを'''圧入'''する|ガス を '''あつにゅう''' する|to '''inject''' gas (under pressure)}}
+
+[[hi:圧入]]
+[[pt:圧入]]
+[[fi:圧入]]
+[[zh:圧入]]

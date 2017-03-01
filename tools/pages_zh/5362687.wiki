@@ -1,0 +1,15 @@
+{{also|掉帧}}
+==Chinese==
+{{zh-forms|s=掉帧}}
+
+===Pronunciation===
+{{zh-pron
+|m=diào幀
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|computing}} to [[drop a frame]] {{gloss|when a frame is not rendered}}
+#* {{zh-x|@^英雄 @^聯盟 連續 f{F}p{P}s{S} 折線圖，三 張 卡 的 表現 都 在 60 f{F}p{P}s{S} 以上，只不過 @EVGA 與 @MSI 都 有 幾 次 的 掉幀 現象，@ASUS 這 張 表現 就 比較 穩定。|{{t-needed|zh}}|ref='''2015''', {{lang|zh|電腦DIY雜誌}}, ''[https://books.google.com/books?id=7-lJCgAAQBAJ&lpg=PA19&dq=%22%E6%8E%89%E5%B9%80%22&pg=PA20 {{lang|zh|電腦DIY 2月號／2015 第211期: 靜音滑鼠的無聲之道}}]'', {{lang|zh|電腦DIY雜誌}}, page 19}}

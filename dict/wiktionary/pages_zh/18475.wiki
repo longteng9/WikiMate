@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=79|rad=殳|as=07|sn=11|four=|canj=SKHNE,XSKHN|ids=⿰医殳}}
+
+====Descendants====
+* [[翳]], [[醫]], [[㙠]], [[繄]], [[嫛]], [[黳]], [[㿄]], [[鷖]]
+
+====References====
+* {{Han ref|kx=0585.070|dkj=16634|dj=0978.010|hdz=32159.090|uh=6BB9|ud=27577}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=ai3
+|mc=y
+|oc=y
+|ma=
+|cat=v,pn,part
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# The [[sound]] of [[groan]]ing.
+# {{n-g|Used in the [[name]] of one of the ''Stone Drum Poems'' ({{w2|zh|石鼓文}}), in the word {{m|zh|汧殹}}.}}
+# {{n-g|A particle used in the middle or at the end of sentences. Similar to {{m|zh|也}} and {{m|zh|兮}}.}}
+
+====References====
+* [http://yedict.com/htm/6B/6BB9.htm yedict.com (叶典)]
+* {{R:twedu|C05910}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=殳07}}
+
+# {{defn|lang=ja|sort=殳07}}
+
+====Readings====
+* {{ja-readings|on=[[えい]] (ei)|kun=[[うちあたるこえ]] (uchiatarukoe), [[みにくいすがた]] (minikuisugata)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=예|eumhun=|rv=ye|mr=ye|y=yey}}
+
+# {{defn|lang=ko|sort=殳07}}
+
+[[fr:殹]]
+[[hu:殹]]
+[[pl:殹]]
+[[th:殹]]
+[[zh:殹]]

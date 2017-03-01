@@ -1,0 +1,62 @@
+{{also|采用}}
+==Chinese==
+{{zh-forms|s=采用}}
+
+===Pronunciation===
+{{zh-pron
+|m=cǎiyòng
+|c=coi2 jung6
+|h=pfs=chhái-yung
+|mn=chhái-iōng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Elementary Mandarin}} to [[adopt]]; to [[use]]; to [[employ]] (a [[technique]] etc.)
+
+----
+
+==Japanese==
+{{ja-kanjitab|さい|よう|yomi=on}}
+
+===Noun===
+{{ja-noun|さいよう}}
+
+# [[use]], [[adopt]], [[adoption]]
+#* '''1942''', 石原莞爾, 最終戦争論・戦争史大観:
+#*: {{ja-usex|この二つの手段が主として'''採用'''されるのであります。|この ふたつ の しゅだん が しゅとして '''さいよう''' される の で あります。|These are the two primary measures adopted.}}
+# [[employment]], working at a job
+#* '''1952''', 相馬愛蔵, 私の小売商道:
+#*: {{ja-usex|私の店では毎年高等小学卒業生を二十三名'''採用'''する。|わたし の みせ で は まいとし こうとう しょうがく そつぎょうせい を に じゅう さん めい '''さいよう''' する。|Every year I '''employ''' 23 people who have been to a good primary school.}}
+
+====Synonyms====
+* {{sense|employment}} {{ja-r|雇用|こよう}}
+
+===Verb===
+{{ja-verb-suru|さいよう}}
+
+# [[use]], [[adopt]]
+# [[hire]], give employment, [[employ]]
+
+====Conjugation====
+{{ja-suru|さいよう}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=채용}}
+
+# {{hanja form of|채용|employment; adoption}}
+
+[[ko:採用]]
+[[hu:採用]]
+[[mg:採用]]
+[[zh:採用]]

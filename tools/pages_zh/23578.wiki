@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=11|sn=17|four=22793|canj=BUHVF|ids=⿰䍃系}}
+
+# [[reason]], [[cause]]
+
+====References====
+* {{Han ref|kx=0937.090|dkj=27856|dj=1377.010|hdz=53446.060|uh=7E47|ud=32327|bh=EDD9|bd=60889}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yáo,yóu,zhòu
+|c=jiu4,jau4,zau6
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+*{{R:twedu|B03450}}
+*{{R:yue:Hanzi}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=糸11}}
+
+# [[reason]]
+# [[cause]]
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō), [[ゆう]] (yū), [[ゆ]] (yu), [[ちゅう]] (chū), [[じゅ]] (ju)|kun=[[したがう]] (shitagau)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=요|eumhun=|rv=yo|mr=yo|y=yo}}
+
+# {{defn|lang=ko|sort=糸11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=糸11| hanviet = diêu}}
+
+# {{defn|lang=vi|sort=糸11}}
+
+[[fr:繇]]
+[[hu:繇]]
+[[mg:繇]]
+[[pl:繇]]
+[[th:繇]]
+[[zh:繇]]

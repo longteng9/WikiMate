@@ -1,0 +1,16 @@
+==Japanese==
+{{ja-kanjitab|こう|か|てき|yomi=on}}
+
+===Etymology===
+{{suffix|効果|的|t1=effect|t2=-ive|lang=ja|sort=こうかてき}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|こうかてき}}
+
+# [[effective]]
+#: {{ja-usex|～の効果的な使い方|～ の こうかてき な つかいかた|how to use ... effectively}}
+
+====Inflection====
+{{ja-na|こうかてき}}
+
+[[lt:効果的]]

@@ -1,0 +1,102 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=05|sn=12|four=67112|canj=RMPRU|ids=⿰𧾷包}}
+
+# beasts' digging of soil
+
+====References====
+* {{Han ref|kx=1223.230|dkj=37461|dj=1695.120|hdz=63697.120|uh=8DD1|ud=36305|bh=B65D|bd=46685}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=pǎo
+|ma=y
+|c=paau2
+|h=pfs=phâu
+|mn=pháu
+|w=3bau
+|mc=y
+|oc=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[run]]
+# to [[run away]], to [[flee]]
+# {{lb|zh|computing|colloquial}} to run (a program)
+
+===Pronunciation===
+{{zh-pron
+|m=páo
+|ma=y
+|c=paau4
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[paw]] the earth
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=足05}}
+
+# [[run]]
+# [[flee]]
+# leave in hurry
+# [[trot]], [[trotting]]
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō), [[びょう]] (byō), [[はく]] (haku)|kun=[[だく]] (daku), [[あがく|あが.く]] (aga.ku)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=포|eumhun=|mr=p'o|y=pho}}
+
+# [[달리다]]: [[run]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bão]], [[bào]]|rs=足05}}
+
+# {{defn|lang=vi|sort=足05}}
+
+[[zh-min-nan:跑]]
+[[fr:跑]]
+[[ko:跑]]
+[[lt:跑]]
+[[hu:跑]]
+[[mg:跑]]
+[[ja:跑]]
+[[no:跑]]
+[[pl:跑]]
+[[pt:跑]]
+[[ta:跑]]
+[[th:跑]]
+[[chr:跑]]
+[[uk:跑]]
+[[zh:跑]]

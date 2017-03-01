@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǐshì|ma=Zh-zhishì.ogg
+|c=zi2 si6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# (''{{w|Chinese character classification}}'') One of the types of Han [[character]]s, containing those characters such as {{zh-l|上}} ''above'' and {{zh-l|下}} ''below'' that [[indicate]] an abstract [[idea]] with a non-arbitrary [[logogram]].
+
+===See also===
+* [[:Category:Han ideograms]]
+* {{zh-l|六書}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|じ|yomi=on}}
+
+===Noun===
+{{ja-noun|しじ}}
+# (''[[w:Chinese character classification|Chinese character classification]]'') [[ideogram]], particularly in the sense of {{l|ja|六書}} [[w:Chinese character classification#Ideograms|ideogram]]. One of the types of Han [[character]]s, containing those characters such as {{l|ja|上}} ''above'' and {{l|ja|下}} ''below'' that [[indicate]] an abstract [[idea]] with a non-arbitrary [[logogram]].
+
+===See also===
+* [[:Category:Han ideograms]]
+* {{m|ja|六書|sc=Jpan}}
+* {{m|ja|象形|sc=Jpan}}
+* {{m|ja|会意|sc=Jpan}}
+* {{m|ja|形声|sc=Jpan}}
+* {{m|ja|仮借|sc=Jpan}}
+* {{m|ja|転注|sc=Jpan}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|chỉ sự|(''{{w|Chinese character classification}}'') One of the types of Han [[character]]s, containing those characters such as 上 (thượng) ''above'' and 下 (hạ) ''below'' that [[indicate]] an abstract [[idea]] with a non-arbitrary [[logogram]].}}
+
+[[li:指事]]
+[[ja:指事]]
+[[zh:指事]]

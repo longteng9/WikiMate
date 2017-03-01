@@ -1,0 +1,76 @@
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|s=乌鲁木齐|gloss=-}}
+{{bor|zh|ug|ئۈرۈمچى‎}}.
+
+====Pronunciation====
+{{zh-pron
+|m=Wūlǔmùqí
+|c=wu1 lou5 muk6 cai4
+|mn=xm,qz,zz:O͘-ló͘-bo̍k-chê
+|cat=pn
+}}
+
+====Proper noun====
+{{zh-noun}}
+
+# [[Ürümqi]]; [[Wulumuqi]]
+
+===Etymology 2===
+{{zh-forms|s=乌鲁木齐|gloss=-|alt=烏漉木製,烏櫓莫濟,烏鹵沐齊,烏鹵沐債,烏魯沐債,烏漉沐漬}}
+Unclear. Here are a few possibilities:
+* {{lang|zh|烏魯木齊}}: Since the Min Nan area and Ürümqi are very far apart, if someone claims to be from or went to Ürümqi, they are speaking nonsense.
+* {{lang|zh|烏漉木製}}: There is a type of wood called {{lang|zh|烏漉木}}, which is of very bad quality. If furniture is made from it, it is made carelessly.
+* {{lang|zh|烏櫓莫濟}}: From {{zh-l|*烏|to not have}} + {{zh-l|*櫓|scull}} + {{zh-l|*莫|do not}} + {{zh-l|*濟|to cross a river}}, literally "to not have a scull to cross a river", used figuratively to mean "to not have the main thing to do the job; to be careless".
+
+====Pronunciation====
+{{zh-pron
+|mn=tw:o͘-ló͘-bo̍k-chè/xm,qz,zz,twvk:o͘-ló͘-bo̍k-chê/twvt:o͘-ló͘-bo̍k-chôe
+|cat=id
+}}
+
+====Idiom====
+{{zh-idiom}}
+
+# {{lb|zh|Min Nan}} to be [[careless]]; to be in a [[mess]]; to [[talk]] [[nonsense]]
+
+===References===
+* {{thcwd|6338}}
+* {{cite-journal
+|author=大郎頭 (Da Lang)
+|title=【台語原來是這樣】 烏魯木齊
+|journal=自由時報 (Liberty Times Net)
+|date=29 July 2013
+|url=http://news.ltn.com.tw/news/supplement/paper/700494
+}}
+* {{cite-journal
+|author=黃恬昕
+|title=「烏櫓莫濟」比下北京話
+|journal=自由時報 (Liberty Times Net)
+|date=25 June 2012
+|url=http://talk.ltn.com.tw/article/paper/594479
+}}
+
+{{zh-cat|China}}
+{{zh-cat|Cities}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=irr|sort=うるむち}}
+
+===Proper noun===
+{{ja-pos|proper|shin=烏魯木斉|ウルムチ}}
+
+# {{alternative spelling of|烏魯木斉|lang=ja}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Proper noun===
+{{vi-proper noun|sc=Hani}}
+
+# {{han tu form of|Ô Lỗ Mộc Tề|[[Ürümqi]]}}

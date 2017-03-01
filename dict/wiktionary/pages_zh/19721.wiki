@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|沥}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=16|sn=19|four=31111|canj=EMDM|ids=⿰氵歷}}
+
+# to [[trickle]], [[drip]]
+# to [[strain]]
+# a trickle
+# [[dregs]]
+
+====References====
+* {{Han ref|kx=0660.060|dkj=18658|dj=1069.260|hdz=31783.010|uh=701D|ud=28701|bh=C377|bd=50039}}
+
+----
+
+==Chinese==
+{{zh-forms|s=沥}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lì
+|c=lik6,lik1
+|mn=le̍k/ni
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|剖肝瀝膽|嘔心瀝血|土瀝青|披瀝|披瀝肝膽|披肝瀝膽|淅淅瀝瀝|淅瀝|滴瀝|瀝水|瀝液|瀝澇|瀝瀝|瀝瀝拉拉|瀝瀝淅淅|瀝膽|瀝膽墮肝|瀝膽披肝|瀝膽抽腸|瀝血|瀝血之仇|瀝血以誓|瀝血叩心|瀝酒|瀝青|瀝青炭|瀝青石|血瀝瀝|輸肝瀝膽|隳肝瀝膽|餘瀝}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水16}}
+
+# {{defn|lang=ja|sort=水16}}
+
+====Readings====
+* {{ja-readings|goon=[[りゃく]] (ryaku)|kanon=[[れき]] (reki)|kun=[[したたる]] (shitataru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[력]]>[[역]]|eumhun=|rv=ryeok>yeok|mr=ryŏk>yŏk|y=lyek>yek}}
+
+# {{defn|lang=ko|sort=水16}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水16| hanviet = lạch}}
+
+# {{defn|lang=vi|sort=水16}}
+
+[[fr:瀝]]
+[[hu:瀝]]
+[[ja:瀝]]
+[[pl:瀝]]
+[[th:瀝]]
+[[zh:瀝]]

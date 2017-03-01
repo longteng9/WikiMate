@@ -1,0 +1,26 @@
+{{also|苏古}}
+==Chinese==
+{{zh-forms|s=苏古|gloss=-|alt=素故}}
+
+===Etymology===
+{{bor|zh|ms|suku}}.
+
+===Pronunciation===
+{{zh-pron
+|m=sūgǔ
+|c=sou1 gu2,su1 gu2
+|mn=su-kú
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Singapore|Malaysia}} one [[quarter]]
+#: {{zh-x|一.人 一 '''蘇{su-}古{kú}'''，感情 才{chiah} 會 久。|If each person gets a '''quarter''', only then will the relationship last.|MN|ref={{lang|zh|范俊福}}, {{lang|zh|一人一半}}}}
+
+====Derived terms====
+{{zh-der|蘇古鐳|三蘇古|地加蘇古}}
+
+===References===
+* {{cite-journal|author=Sin Ka Lin|title=《馬來西亞的三個漢語方言》中之吉隆坡廣東話閱譚|trans-title=A Review on Kuala Lumpur's Cantonese in Part of ''The Three Chinese Dialects in Malaysia''|journal=New Era College Academic Journal|volume=6|year=2009|lang=Chinese|url=http://www.newera.edu.my/files/mces/xuebao2009/Xuebao09_83-131.pdf|format=PDF}}

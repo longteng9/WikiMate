@@ -1,0 +1,91 @@
+{{character info/new}}
+{{also|李}}
+==Translingual==
+
+===Etymology===
+{{m|zh|禾}}, abbreviating {{m|zh|稚||[[immature]]; [[unripe]]|tr=zhi}}, + {{m|zh|子||[[child]]; [[son]]|tr=zi}}
+
+===Han character===
+{{Han char|rn=39|rad=子|as=05|sn=8|four=20407|canj=HDND|ids=⿱禾子}}
+
+# [[youngest]] [[brother]]
+# used as a [[surname]]
+# {{lb|zh|figurative}} [[end]] of a [[series]]
+# [[quarter]] of a [[year]]
+# [[season]] of the [[year]]
+
+====References====
+* {{Han ref|kx=0279.030|dkj=06965|dj=0547.050|hdz=21013.050|uh=5B63|ud=23395|bh=A975|bd=43381}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jì
+|m-s=ji4
+|c=gwai3
+|h=pfs=
+|md=
+|mn=kùi
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=子05}}
+
+# {{defn|lang=ja|sort=子05}}
+
+====Readings====
+* {{ja-readings|goon=[[き]] (ki)|kanon=[[き]] (ki)|kun=[[すえ]] (sue), [[とき]] (toki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=계|rv=gye|mr=kye}}
+
+# {{defn|lang=ko|sort=子05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quý]], [[quí]], [[cuối]], [[quỳ]]|rs=子05}}
+
+# {{defn|lang=vi|sort=子05}}
+
+[[fr:季]]
+[[fy:季]]
+[[ko:季]]
+[[lt:季]]
+[[li:季]]
+[[hu:季]]
+[[mg:季]]
+[[ja:季]]
+[[no:季]]
+[[pl:季]]
+[[pt:季]]
+[[ru:季]]
+[[th:季]]
+[[chr:季]]
+[[zh:季]]

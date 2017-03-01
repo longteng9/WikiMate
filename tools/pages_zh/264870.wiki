@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=28|rad=厶|as=02|sn=4|four=22730|canj=II,XXII|ids=⿰厶厶}}
+
+====References====
+* {{Han ref|kx=0163.200|dkj=03057|dj=0371.250|hdz=10383.090|uh=53B8|ud=21432}}
+* [http://www.zdic.net/z/16/js/53B8.htm zdic.net (Han Dian)]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=lín
+|c=leon4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# (archaic variant of [[鄰]]) [[neighbor]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=miǎo
+|c=
+|mc=
+|oc=
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[dehisce]], [[open]] [[mouth]]
+
+====References====
+* [http://www.zdic.net/z/16/js/53B8.htm zdic.net (Han Dian)]
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 75]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=厶02}}
+
+# {{defn|lang=ja|sort=厶02}}
+
+====Readings====
+* {{ja-readings|on=[[りん]] (lin)|kun=[[となり]] (tonari)}}
+
+====Usage notes====
+Non-[[w:Jōyō kanji|Jōyō]] alternate for [[隣]]. Rarely used.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=린|rv=rin|mr=rin}}
+
+# {{defn|lang=ko|sort=厶02}}
+
+[[fr:厸]]
+[[ko:厸]]
+[[hu:厸]]
+[[mg:厸]]
+[[ja:厸]]
+[[pl:厸]]
+[[th:厸]]
+[[zh:厸]]

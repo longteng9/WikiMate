@@ -1,0 +1,79 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fūqī
+|c=fu1 cai1
+|h=pfs=fû-chhî
+|mn=hu-chhe
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[husband and wife]]; [[married]] [[couple]] {{zh-mw|對}}
+#: {{zh-x|夫妻 關係|[[marriage]]}}
+
+====Synonyms====
+* {{zh-l|夫婦}}
+* {{qualifier|Min Nan}} {{zh-l|翁仔某|ang-á-bó͘}}, {{zh-l|翁某|ang-bó͘}}
+
+====Derived terms====
+{{zh-der|夫妻店}}
+
+{{zh-cat|Intermediate|Family}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|ふ|さい|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|ふさい|acc=1|acc2=2|acc_ref=DJR|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|ふさい}}
+
+# a [[married couple]], [[husband]] and [[wife]], Mr. and Mrs.
+#: {{ja-usex|山田夫妻は来月帰国します|^やまだ ふさい は らいげつ きこく します|Mr. and Mrs. Yamada will come home next month}}
+
+=====Synonyms=====
+{{der-top|Synonyms}}
+* {{ja-r|夫婦|ふうふ}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|sort=おとめ}}
+Sound change from ''をひと'' (男人) ''め'' (妻).
+
+====Pronunciation====
+{{ja-pron|yomi=irr|おとめ}}
+
+====Alternative forms====
+* {{ja-l|夫婦}}
+
+====Noun====
+{{ja-noun|おとめ|をとめ}}
+
+# [[husband]] and [[wife]]
+
+===References===
+<references/>
+:* {{R:Shogakukan}}
+
+[[Category:ja:Family|ふさい]]
+
+[[zh-min-nan:夫妻]]
+[[fr:夫妻]]
+[[ko:夫妻]]
+[[sw:夫妻]]
+[[li:夫妻]]
+[[hu:夫妻]]
+[[mg:夫妻]]
+[[ja:夫妻]]
+[[uk:夫妻]]
+[[zh:夫妻]]

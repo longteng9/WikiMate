@@ -1,0 +1,41 @@
+==Japanese==
+{{ja-kanjitab|金|曜}}
+
+===Etymology===
+/kin'eu/ → /kin'yoː/. Originally it meant the planet Venus<ref name="Amoghavajra" />. A [[calque]] of {{cog|la|dies Veneris}} and its descendants, reinterpreting the day as having been named after the planet [[Venus]] (instead of the Roman goddess). Compare {{m|ja|金星|tr=kinsei|gloss=Venus (planet)}}.
+
+===Pronunciation===
+* {{IPA|/kiɴjoː/|lang=ja}}
+
+===Noun===
+{{ja-noun|きんよう|hhira=きんえう}}
+
+# {{lb|ja|archaic}} planet [[Venus]]
+# [[Friday]]
+
+====Synonyms====
+* {{l|ja|金曜日}} (kin'yōbi)
+
+===See also===
+* {{l|ja|七曜}} (shichiyō)
+
+===References===
+<references>
+<ref name="Amoghavajra">{{w|Amoghavajra}}, [http://www.buddhist-canon.com/SUTRA/JMiJiao/T210398b.htm 文殊師利菩薩及諸仙所說吉凶時日善惡宿曜經, vol. 2, T21, p. 0398b], 759 :<br
+/>日曜太陽胡名蜜波斯名曜森勿天竺名阿儞<small>(泥以反)</small>底耶<small>(二合)</small><br
+/>月曜太陰胡名莫波斯名婁禍森勿天竺名蘇上摩<br
+/>火曜熒惑胡名雲漢波斯名勢森勿天竺名糞盎聲哦囉迦盎<br
+/>水曜辰星胡名咥<small>(丁逸反)</small>波斯名掣森勿天竺名部<small>(引)</small>陀<br
+/>木曜歲星胡名鶻勿波斯名本森勿天竺名勿哩訶娑跛底<small>(丁以反)</small><br
+/>'''金曜'''太白胡名那歇波斯名數森勿天竺名戌羯羅<br
+/>土曜鎮星胡名枳院波斯名翕森勿天竺名賒乃以室折囉</ref>
+</references>
+[[Category:ja:Days of the week|きんよう]]
+
+[[cs:金曜]]
+[[fr:金曜]]
+[[gd:金曜]]
+[[hu:金曜]]
+[[mg:金曜]]
+[[ro:金曜]]
+[[zh:金曜]]

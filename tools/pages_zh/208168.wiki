@@ -1,0 +1,44 @@
+==Japanese==
+{{ja-kanjitab|えん|そ|yomi=o}}
+{{elements|Cl|{{ja-r|硫%黄|い%おう}}|S|{{ja-r|アルゴン}}|Ar|lang=ja|sort=えんそ}}
+{{wikipedia|lang=ja}}
+===Etymology===
+{{m|ja|塩||salt|tr=en}} + {{m|ja|素||chemical element|tr=so}}. From the fact that it is a main ingredient of table salt
+
+===Pronunciation===
+{{ja-pron|acc=a|y=o|えんそ}}
+===Noun===
+{{ja-noun|えんそ}}
+
+# [[chlorine]], [[Cl]]
+
+====Derived terms====
+{{der-top}}
+* {{l|ja|塩素ガス中毒}} (''enso gasu chūdoku''): chloride gas poisoning
+* {{l|ja|塩素水}} (''ensosui''): chlorine water
+* {{l|ja|塩素爆鳴気}} (''enso-bakumeiki''): chlorine detonating gas
+* {{l|ja|塩素酸}} (''ensosan''): chloric acid
+{{der-mid}}
+* {{l|ja|塩素酸カリウム}} (''ensosan kariumu''): potassium chlorate
+* {{l|ja|塩素酸ナトリウム}} (''ensosan natoriumu''): sodium chlorate
+* {{l|ja|塩素酸塩}} (''enso-san'en''): chlorate
+{{der-bottom}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[cs:塩素]]
+[[fr:塩素]]
+[[ko:塩素]]
+[[la:塩素]]
+[[lt:塩素]]
+[[hu:塩素]]
+[[mg:塩素]]
+[[nl:塩素]]
+[[ja:塩素]]
+[[no:塩素]]
+[[pl:塩素]]
+[[ro:塩素]]
+[[ru:塩素]]
+[[uk:塩素]]
+[[zh:塩素]]

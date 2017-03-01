@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|樽}}
+==Translingual==
+
+===Etymology===
+{{Han compound|土|尊|c1=s|t1=clay|c2=p|ls=psc}}
+
+===Han character===
+{{Han char|rn=32|rad=土|as=12|sn=15|four=48146|canj=GTWI|ids=⿰土尊}}
+
+# [[cup]]
+# [[goblet]]
+# [[bottle]]
+
+====References====
+* {{Han ref|kx=0239.030|dkj=05472|dj=0478.050|hdz=10488.140|uh=58AB|ud=22699|bh=E54A|bd=58698}}
+* [http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=1&wdqtm=0&wdqcham=1&wdqt=%E5%A2%AB MDBG Chinese-English Dictionary (CC-CEDICT)]
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=[[cun1]], [[cyun4]], [[deon1]]|y=chun1, chyun4, deun1}}
+
+# {{defn|lang=yue|sort=土12}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土12}}
+
+# {{defn|lang=ja|sort=土12}}
+
+====Readings====
+* {{ja-readings|on=[[しゅん]] (shun)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=준|rv=jun|mr=chun}}
+
+# {{defn|lang=ko|sort=土12}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[zūn]] ([[zun1]]), [[cún]] ([[cun2]]), [[dūn]] ([[dun1]])|wg=tsun<sup>1</sup>, ts'un<sup>2</sup>, tun<sup>1</sup>}}
+
+# {{defn|lang=cmn|sort=土12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chôn]]|rs=土12}}
+
+# {{defn|lang=vi|sort=土12}}
+
+[[fr:墫]]
+[[li:墫]]
+[[hu:墫]]
+[[ja:墫]]
+[[pl:墫]]
+[[th:墫]]
+[[zh:墫]]

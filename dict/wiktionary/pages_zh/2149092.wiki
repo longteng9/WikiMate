@@ -1,0 +1,50 @@
+{{also|削减}}
+==Chinese==
+{{zh-forms|s=削减}}
+
+===Pronunciation===
+{{zh-pron
+|m=削jiǎn
+|c=soek3 gaam2
+|mn=qz,tw,xm,zz:siah-kiám/xm:siok-kiám
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[cut down]]; to [[reduce]]; to [[lower]]; to [[decrease]]; to [[cut]]; to [[curtail]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|さく|げん|yomi=on}}
+
+===Noun===
+{{ja-noun|さくげん}}
+
+# [[reduction]], [[downsizing]], [[curtailment]]
+#: {{ja-usex|歳出'''削減'''は財政再建に不可欠である。|さいしゅつ '''さくげん''' は ざいせい さいけん に ふかけつ である。|'''Cutting''' spending is essential to balancing the budget.}}
+
+===Verb===
+{{ja-verb-suru|さくげん}}
+
+# [[reduction]], [[downsizing]], [[curtailment]]
+# [[reduce]], [[downsize]], [[cut]], [[curtail]]
+#: {{ja-usex|歳出を'''削減'''しないのであれば増税はやむを得ない。|さいしゅつ を '''さくげん''' しない のであれば ぞうぜい は やむ を えない。|Tax increases are inevitable if spending doesn't '''go down'''.}}
+
+====Conjugation====
+{{ja-suru|さくげん}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:削減]]
+[[kn:削減]]
+[[hu:削減]]
+[[mg:削減]]
+[[ja:削減]]
+[[chr:削減]]
+[[zh:削減]]

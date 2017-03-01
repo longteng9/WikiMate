@@ -1,0 +1,69 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=04|sn=9|four=00128|canj=KOLL}}
+
+# [[scabies]], [[itch]]
+
+====References====
+* {{Han ref|kx=0770.060|dkj=22057|dj=1180.110|hdz=42662.130|uh=75A5|ud=30117|bh=ACCE|bd=44238}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiè
+|m-s=jiai4
+|c=gaai3
+|mn=kè/kòe
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|乾疥|疥厲|疥壁|疥瘡|疥癩|疥癬|疥癬蟲|癬疥}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒04}}
+
+# {{defn|lang=ja|sort=疒04}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai)|kun=[[ひぜん]] (hizen), [[よごす]] (yogosu), [[おこり]] (okori)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=개|eumhun=|rv=gae|mr=kae|y=kay}}
+
+# [[옴]]
+
+[[zh-min-nan:疥]]
+[[fr:疥]]
+[[ko:疥]]
+[[hu:疥]]
+[[mg:疥]]
+[[ja:疥]]
+[[pl:疥]]
+[[th:疥]]
+[[vi:疥]]
+[[zh:疥]]

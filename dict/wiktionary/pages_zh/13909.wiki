@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=10|sn=13|four=47436|canj=VUMI|ids=⿰女蚩}}
+
+# an [[ugly]] [[woman]]
+
+====References====
+* {{Han ref|kx=0268.110|dkj=06579|dj=0535.330|hdz=21074.100|uh=5AB8|ud=23224|bh=DCF7|bd=56567}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chī
+|c=ci1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|妍媸}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女10}}
+
+# {{defn|lang=ja|sort=女10}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[あなどる]] (anadoru), [[おろか]] (oroka), [[みにくい]] (minikui), [[みだる]] (midaru)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=女10|hanviet=[[sầy]], [[xuy]], [[si]]}}
+
+# {{defn|lang=vi|sort=女10}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5ab8 Nom Foundation]
+
+[[fr:媸]]
+[[hu:媸]]
+[[mg:媸]]
+[[pl:媸]]
+[[th:媸]]
+[[chr:媸]]
+[[zh:媸]]

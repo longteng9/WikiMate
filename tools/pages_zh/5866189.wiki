@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shēngyìng
+|c=saang1 ngaang6
+|mn=qz:chhiⁿ-ngǐ/xm:chhiⁿ-ngī/zz:chheⁿ-ngēe
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[stiff]]
+# [[harsh]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|こう|yomi=o}}
+
+===Etymology===
+From {{der|sort=せいこう|ja|ltc|生硬|tr=ʃˠæŋ  ŋˠɛŋ<sup>H</sup>}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|せいこう|acc=0|acc_ref=DJR,NHK}}
+
+===Adjective===
+{{ja-adj|infl=na|せいこう|hhira=せいかう}}
+
+# [[crude]]
+
+====Inflection====
+{{ja-na|せいこう}}
+
+===Noun===
+{{ja-noun|せいこう|hhira=せいかう}}
+
+# [[crudeness]]
+
+===References===
+<references/>
+
+[[mg:生硬]]
+[[mn:生硬]]
+[[zh:生硬]]

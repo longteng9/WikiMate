@@ -1,0 +1,151 @@
+{{also|水银}}
+==Chinese==
+{{was fwotd|2014|July|31|lang=zh}}
+{{zh-forms|s=水银}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+Compare the etymologies of {{cog|la|hydrargyrus}}, {{cog|en|quicksilver}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shuǐyín
+|c=seoi2 ngan4
+|h=pfs=súi-ngiùn
+|mn=zz,kh:chúi-gîn/xm,qz,tp:chúi-gûn
+|w=2sr nyin
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[mercury]], [[quicksilver]]
+#* {{zh-x|始皇 初 即位，穿 治 ^酈山，及 并 天下，天下 徒 送詣 七 十 餘 萬 人，穿 三 泉，下 銅 而 致 槨，宮觀 百官 奇器 珍怪 徙 臧 滿 之。令 匠 作 機弩 矢，有 所 穿 近 者 輒 射 之。以 '''水銀''' 為 百川 江河 大海，機 相 灌輸，上 具 天文，下 具 地理。以 人魚膏 為 燭{zhú}，度 不 滅 者 久 之。|When the {{w|Qin Shi Huang|First Emperor}} ascended the throne, the digging and preparation at Mount Li began. After he unified his empire, he sent 700,000 people to work. They dug down deep to underground springs, pouring copper to place the outer casing of the coffin. Palaces and viewing towers housing a hundred officials were built and filled with treasures and rare artefacts. Workmen were instructed to make automatic crossbows primed to shoot at intruders. '''Mercury''' was used to create a hundred rivers and the ocean, and set to flow mechanically. Above, the heaven is depicted, below, the geographical features of the land. Candles were made of "mermaid"'s fat whose light would not extinguish for a long time.|CL|ref=Shiji}}
+# {{†}} {{lb|zh|poetic}} [[moon]]
+# {{†}} {{lb|zh|poetic}} [[glob]], [[drop]] of water
+
+====Synonyms====
+* {{sense|mercury}} {{qualifier|scientific}} {{zh-l|汞}}
+
+===Descendants===
+{{CJKV||すいぎん|수은|thuỷ ngân}}
+
+{{zh-cat|Chemistry}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{elements|Hg|{{ja-r|金|きん}}|Au|{{ja-r|タリウム}}|Tl|lang=ja|sort=すいぎん}}
+{{wikipedia|lang=ja}}
+{{wikipedia|Mercury (element)}}
+[[File:Pouring_liquid_mercury_bionerd.jpg|thumb|250px|{{lang|ja|水銀}} (''suigin'', ''mizugane''): [[mercury]].]]
+</div>
+
+===Etymology 1===
+{{ja-kanjitab|すい|ぎん|yomi=o}}
+
+From {{etyl|ltc|ja|sort=すいぎん}} compound {{m|zh|水銀|tr=sywij<sup>X</sup> ngin|lit=water (i.e. liquid) silver}}. Compare modern {{etyl|cmn|-}} {{zh-l|水銀|tr=shuǐyín}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|すいぎん|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|すいぎん}}
+
+# {{lb|ja|sort=すいぎん|chemistry}} [[mercury]]; [[quicksilver]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|水銀汚染|すいぎん おせん}}: mercury [[pollution]], mercury [[contamination]]
+* {{ja-r|水銀温度計|すいぎん おんどけい}}: a mercury [[thermometer]]
+* {{ja-r|水銀気圧計|すいぎん きあつけい}}: a mercury [[barometer]]
+* {{ja-r|水銀拡散ポンプ|すいぎん かくせん ポンプ}}: a mercury [[diffusion]] [[pump]]
+* {{ja-r|水銀寒暖計|すいぎん かんだんけい}}: a mercury [[thermometer]]
+* {{ja-r|水銀孤灯|すいぎん ことう}}: a mercury [[arc lamp]]
+* {{ja-r|水銀硬膏|すいぎん こうこう}}: a [[hard]] mercury-[[based]] [[ointment]] or [[plaster]]
+* {{ja-r|水銀剤|すいぎんざい}}: a [[mercurial]] ([[drug]]), a mercury-based [[fungicide]]
+* {{ja-r|水銀整流器|すいぎん せいりゅうき}}: {{qualifier|electronics}} a mercury-arc [[valve]]
+* {{ja-r|水銀晴雨計|すいぎん せいうけい}}: a mercury [[barometer]]
+* {{ja-r|水銀中毒|すいぎん ちゅうどく}}: mercury [[poisoning]]
+* {{ja-r|水銀柱|すいぎんちゅう}}: mercury in a thermometer, as a metaphor for the [[temperature]]
+* {{ja-r|水銀電池|すいぎん でんち}}: a mercury [[battery]]
+* {{ja-r|水銀灯|すいぎん とう}}: a mercury [[lamp]], a mercury-[[vapor]] lamp
+* {{ja-r|水銀軟膏|すいぎん なんこう}}: a [[soft]] mercury-[[based]] [[ointment]] or [[plaster]]
+* {{ja-r|水銀農薬|すいぎん のうやく}}: a mercury-[[based]] [[agrichemical]]
+* {{ja-r|水銀粉|はらや}}: a kind of [[white]] [[face powder]] made from [[mercury]], used in ancient times
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|みず|かね|k2=がね|yomi=kun|r=y}}
+
+From {{etyl|ojp|ja|sort=みずがね}}. Compound of {{compound|lang=ja|sort=みずがね|水|tr1=mizu|t1=water|銀|tr2=kane|t2=metal, silver}}. {{rendaku2|sort=みずがね|kane|gane}} Appears in the ''[[w:Wamyō Ruijushō|Wamyō Ruijushō]]'' Japanese dictionary of 938 CE as ''mizukane'', suggesting that the shift to rendaku is more recent.<ref name="DJR"/><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Obsolete in modern Japanese.
+
+====Pronunciation====
+{{ja-pron|yomi=kun|みずがね}}
+
+=====Alternative forms=====
+* {{ja-l|汞}} {{qualifier|rare}}
+
+====Noun====
+{{ja-noun|みずがね|hhira=みづがね}}
+
+# {{lb|ja|sort=みずがね|chemistry|obsolete}} [[mercury]]; [[quicksilver]]
+
+=====Usage notes=====
+The ''mizugane'' reading is largely obsolete in modern Japanese; ''suigin'' is the standard reading.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|水銀の滓|みずがね の かす}}: a kind of [[white]] [[face powder]] made from [[mercury]], used in ancient times
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Metals|すいぎん]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=수은}}
+
+# {{hanja form of|수은|mercury}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|thủy ngân|mercury}}
+
+[[zh-min-nan:水銀]]
+[[cs:水銀]]
+[[et:水銀]]
+[[el:水銀]]
+[[fr:水銀]]
+[[ko:水銀]]
+[[it:水銀]]
+[[la:水銀]]
+[[lt:水銀]]
+[[li:水銀]]
+[[hu:水銀]]
+[[mg:水銀]]
+[[nl:水銀]]
+[[ja:水銀]]
+[[pl:水銀]]
+[[pt:水銀]]
+[[ro:水銀]]
+[[ru:水銀]]
+[[zh:水銀]]

@@ -1,0 +1,101 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=77|rad=止|as=05|sn=9|four=10101|canj=MFMYM|ids=⿱不正}}
+
+====References====
+* {{Han ref|kx=0576.120|dkj=16286|dj=0966.150|hdz=21441.130|uh=6B6A|ud=27498|bh=AC6E|bd=44142}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=竵}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|不|正|ls=ic|t1=not|t2=straight; proper}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=wāi
+|ma=Zh-wai.ogg
+|m-s=wai1
+|c=waai1,me2
+|c_note=me2 - colloquial and likely etymologically unrelated
+|h=pfs=vâi
+|md=
+|mn=oai
+|w=
+|mc=y
+|oc=y
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[slant]]; [[inclined]]
+# [[askew]]; [[awry]]; [[crooked]]; [[lopsided]]
+# {{lb|zh|Central Plains Mandarin|Lan-Yin Mandarin|Sichuan}} [[fierce]]; [[malicious]]; [[overbearing]]
+
+====Compounds====
+{{zh-der|七扭八歪|喪聲歪氣|多歪多妒|側歪|一溜歪斜|七歪八扭|七歪八倒|口乖心歪|歪談亂道|歪廝纏|歪纏|病病歪歪|歪著|歪擺佈|歪打正著|歪斜|歪七扭八|皮賴歪派|歪歪扭扭|歪談亂講|禿歪剌|目瞪口歪|揣歪捏怪|東歪西倒|歪歪|歪門邪道|歪嘴喊人|歪主意|歪曲|歪話|歪風邪氣|歪風|歪詩|歪行貨|歪才|歪心邪意|歪剌骨|歪哥|東倒西歪|歪憋|歪派|晌午歪|迆邐歪斜|調歪|鼻塌嘴歪|邪門歪道|西歪東倒}}
+
+===Pronunciation 2===
+{{zh-pron
+|m-s=wai3
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Shanxi|Sichuan|dialectal|_|Hakka}} [[inferior]]; [[bad]]; [[fake]]
+# {{lb|zh|Sichuan}} [[unreliable]]; [[deceiving]]
+
+====Compounds====
+{{zh-der|歪歪兒貨|歪號|歪名}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=止05}}
+
+# Distortion
+
+====Readings====
+* {{ja-readings|on=[[わい]] (wai)|kun=[[ゆがむ]] (yugamu), [[ひずみ]] (hizumi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[아]], [[왜]], [[외]]|eumhun=|rv=a, wae, oe|mr=a, wae, oe|y=, oy}}
+
+# {{defn|lang=ko|sort=止05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quay]], [[oa]], [[oai]]|rs=止05}}
+
+# {{defn|lang=vi|sort=止05}}
+
+[[zh-min-nan:歪]]
+[[fr:歪]]
+[[lo:歪]]
+[[li:歪]]
+[[hu:歪]]
+[[mg:歪]]
+[[ja:歪]]
+[[no:歪]]
+[[pl:歪]]
+[[ru:歪]]
+[[th:歪]]
+[[zh:歪]]

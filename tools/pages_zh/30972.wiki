@@ -1,0 +1,146 @@
+{{character info/new}}
+{{also|鞵}}
+==Translingual==
+{{stroke order|strokes=15}}
+
+===Han character===
+{{Han char|rn=177|rad=革|as=06|sn=15|four=44514|canj=TJGG|ids=⿰革圭}}
+
+====References====
+* {{Han ref|kx=1387.220|dkj=42813|dj=1902.030|hdz=74333.020|uh=978B|ud=38795|bh=BE63|bd=48739}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|革|t1=leather|圭|c1=s|c2=p|ls=psc}} – leather shoes.
+
+===Pronunciation===
+{{zh-pron
+|m=xié
+|ma=y
+|m-s=hai2
+|c=haai4
+|h=pfs=hài
+|md=à̤
+|mn=zz,yl,tn,kh,tc:ê/xm,qz,lk,tp,km,mg,hc:ôe/hâi
+|mn_note=ê/ôe - vernacular; hâi - literary
+|w=3hha
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[shoe]]; [[footwear]] {{zh-mw|雙|對|隻}}
+#: {{zh-x|一 雙 鞋|a pair of '''shoes'''}}
+#: {{zh-x|穿 上 你 的 鞋，我們 出去 吃 晚飯。|Put on your '''shoes'''. Let's go out for dinner.}}
+#: {{zh-x|在 這裡 我 必須 脫 鞋 嗎？|Do I have to take off my '''shoes''' here?}}
+
+===Compounds===
+{{zh-der|鞋拔子|鞋幫|鞋幫兒|鞋帶|鞋帶兒|鞋底|鞋底兒|鞋墊|鞋墊兒|鞋粉|鞋跟|鞋跟兒|鞋號|鞋尖|鞋尖兒|鞋匠|鞋口|鞋裡|鞋面|鞋面兒|鞋鋪|鞋刷|鞋刷兒|鞋眼|鞋眼兒|鞋油|鞋子|涼鞋|布鞋|上鞋|便鞋|合色鞋|僧鞋|坤鞋|平頭鞋|八答鞋|布襪青鞋|多耳麻鞋|小鞋|冰鞋|八答麻鞋|套鞋|女鞋|平底鞋|弓鞋|八搭麻鞋|溜冰鞋|提鞋|破鞋|扱鞋|搞破鞋|油鞋|甜鞋淨襪|皁鞋|睡鞋|皮鞋|甩大鞋|毛窩鞋|泥鞋窄襪|球鞋|拖鞋|玻璃小鞋|撒鞋|虎頭鞋|鞋類|筍鞋|草鞋|蒲鞋|篛帽芒鞋|鞋臉|納鞋底|鐵鞋|雨鞋|紅繡鞋|麻鞋|鞋楦子|高跟鞋|繡鞋|高底鞋|絲鞋淨襪|鞋扇|靸鞋|錦鞋|鳳頭鞋|釘鞋|鞋鞋腳腳|跑鞋|芒鞋|鞋底錢|運動鞋|草鞋親|踏破鐵鞋|青鞋布襪|線鞋|達公鞋|草鞋錢|膠鞋}}
+
+{{zh-cat|Footwear}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=革06}}
+
+# [[shoes]]; [[shoe]]; [[footwear]]
+
+====Readings====
+{{ja-readings
+|goon=[[げ]] (ge)
+|kanon=[[かい]] (kai)
+|kanyoon=[[あい]] (ai)
+|kun=[[わらじ]] (waraji), [[くつ]] (kutsu)
+}}
+
+====Compounds====
+* {{ja-r|草鞋|わらじ}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|くつ}}
+Unclear. Some Japanese sources suggest a borrowing from or cognate with Korean {{ko-l|구두||shoes}}, but then some Korean sources suggest that the Korean term was borrowed from Japanese {{lang|ja|靴}} (''kutsu'', “shoes”).
+
+This reading is more commonly spelled as {{ja-l|靴}}. See that entry for more detail.
+
+====Pronunciation====
+{{ja-pron|yomi=k|くつ|acc=2|acc_ref=NHK,DJR|dev=1}}
+
+====Alternative forms====
+* {{ja-l|沓}}, {{ja-l|靴}}, {{ja-l|履}}
+
+====Noun====
+{{ja-noun|くつ}}
+
+# {{alternative spelling of|lang=ja|sort=くつ|靴}}: [[shoe]], [[shoes]], [[footwear]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|わらじ}}
+{{IPAchar|/waragut͡su/}} → {{IPAchar|/warand͡zu/}} → {{IPAchar|/warand͡ʑi/}} → {{IPAchar|/warad͡ʑi/}}
+
+Originally a compound of {{compound|lang=ja|sort=わらじ|藁|tr1=wara|t1=straw|靴|tr2=kutsu|t2=shoes, boots, footwear}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+This reading is more commonly spelled as {{ja-l|草鞋}}. See that entry for more detail.
+
+====Pronunciation====
+{{ja-pron|yomi=k|わらじ|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|草鞋}}, {{ja-l|藁沓}}
+
+====Noun====
+{{ja-noun|わらじ|hhira=わらぢ}}
+
+# {{alternative spelling of|lang=ja|sort=わらじ|草鞋}}: [[straw]] [[sandal]]s
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=혜|eumhun=|mr=hye|y=hyey}}
+
+# {{defn|lang=ko|sort=革06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hài]], [[giày]]|rs=革06}}
+
+# {{defn|lang=vi|sort=革06}}
+
+[[zh-min-nan:鞋]]
+[[fr:鞋]]
+[[ko:鞋]]
+[[kn:鞋]]
+[[ku:鞋]]
+[[hu:鞋]]
+[[mg:鞋]]
+[[fj:鞋]]
+[[nl:鞋]]
+[[ja:鞋]]
+[[no:鞋]]
+[[pl:鞋]]
+[[pt:鞋]]
+[[ru:鞋]]
+[[ta:鞋]]
+[[th:鞋]]
+[[chr:鞋]]
+[[tr:鞋]]
+[[uk:鞋]]
+[[zh:鞋]]

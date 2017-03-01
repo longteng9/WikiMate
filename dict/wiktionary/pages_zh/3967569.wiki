@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|し|わけ|yomi=j}}
+
+===Alternative forms===
+* {{l|ja|仕分け}}
+
+===Noun===
+{{ja-noun|しわけ|kyu=仕譯}}
+
+# {{lb|ja|accounting}} [[journal]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|しわけ|kyu=仕譯}}
+
+# to [[journalize]]
+
+====Conjugation====
+{{ja-suru|しわけ}}
+
+[[mg:仕訳]]
+[[ja:仕訳]]
+[[zh:仕訳]]

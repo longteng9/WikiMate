@@ -1,0 +1,59 @@
+{{also|否决}}
+==Chinese==
+{{zh-forms|s=否决}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǒujué
+|c=fau2 kyut3
+|h=pfs=féu-kiet
+|mn=hió-koat/hó͘-koat/hóⁿ-koat
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[veto]]; to [[vote down]]; to [[overrule]]; to [[reject]]
+
+===Noun===
+{{zh-noun}}
+
+# [[veto]]
+
+===Derived terms===
+{{zh-der|否決權|口袋否決}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひ|けつ|yomi=on}}
+
+===Noun===
+{{ja-noun|ひけつ}}
+
+# [[decline]], [[refusal]] (by [[decision-making]] entities such as a [[court]] or [[parliament]])
+
+====Antonyms====
+* {{ja-r|可決|かけつ}}
+
+===Verb===
+{{ja-verb-suru|ひけつ}}
+
+# [[reject]], [[refuse]]
+#: {{ja-usex|法案は'''否決'''されました。|ほうあん は '''ひけつ''' されました。|The bill was rejected by the Parliament.}}
+
+====Conjugation====
+{{ja-suru|ひけつ}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:否決]]
+[[ko:否決]]
+[[hu:否決]]
+[[mg:否決]]
+[[ja:否決]]
+[[zh:否決]]

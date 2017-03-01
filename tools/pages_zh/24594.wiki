@@ -1,0 +1,156 @@
+{{character info/new}}
+{{also|白|目|且}}
+==Translingual==
+{{stroke order|strokes=6}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=132|rad=自|as=00|sn=6|four=26000|canj=HBU}}
+#{{mul-kangxi radical-def}}
+====Derived characters====
+* [[Index:Chinese radical/自]]
+* [[息]]
+
+====Related characters====
+* [[直]] <!-- distant relation; see etymology -->
+
+====References====
+* {{Han ref|kx=1000.070|dkj=30095|dj=1452.010|hdz=53046.010|uh=81EA|ud=33258|bh=A6DB|bd=42715}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+Originally a {{liushu|p|nocap=y}} of a nose; in China (and East Asia) one points at one’s nose to indicate oneself, hence an {{liushu|i|nocap=y}} of “self”.
+
+The original meaning of “nose” has been lost; compare {{zh-l|白*}} (originally “acorn”, now “white”). The derivative {{zh-l|鼻*}} refers to the original word.
+
+===Pronunciation===
+{{zh-pron
+|m=zì
+|c=zi6
+|h=pfs=chhṳ
+|md=cê̤ṳ
+|mn=qz:chīr/tw,xm,zz:chū
+|w=3zr
+|mc=y
+|oc=y
+|ma=y
+|cat=n,adv,prep
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[self]], [[oneself]]; one's own
+#: {{zh-x|自顧自|each minding his own business; each for himself}}
+# [[certainly]], [[of course]]
+# [[personally]]
+# [[since]]; [[from]]
+#: {{zh-x|自 左 而 右|from left to right}}
+
+===Compounds===
+{{zh-der|三自|且自|儘自|兀自|各自|奚自|徑自|擅自|故自|敢自|暗自|本自|正自|源自|猶自|獨自|直自|私自|緊自|自主|自乘|自亂|自了|自今|自伐|自來|自侮|自便|自保|自信|自修|自備|自傲|自傳|自傷|自分|自刎|自利|自制|自剄|自創|自力|自助|自勉|自動|自勵|自卑|自危|自反|自取|自古|自命|自咎|自問|自喻|自嘲|自在|自外|自多|自大|自失|自奉|自好|自如|自娛|自媒|自學|自守|自宮|自家|自寬|自封|自專|自尊|自居|自己|自幼|自序|自度|自強|自律|自後|自得|自從|自忖|自性|自恃|自恣|自悔|自愛|自感|自慰|自憐|自戀|自我|自戕|自打|自找|自拔|自持|自排|自控|自摸|自撓|自撰|自擾|自救|自斃|自新|自是|自查|自棄|自欺|自此|自殺|自決|自治|自況|自注|自流|自測|自滿|自瀆|自焚|自然|自燃|自營|自珍|自理|自用|自由|自當|自發|自白|自盡|自省|自矜|自知|自視|自私|自稱|自立|自絕|自給|自經|自縊|自縛|自習|自肥|自若|自苦|自茲|自薦|自處|自虞|自號|自行|自衒|自衛|自裁|自製|自見|自覺|自解|自訂|自訟|自許|自訴|自詡|自誇|自認|自誤|自課|自謙|自譴|自豪|自負|自責|自費|自贊|自贖|自足|自身|自轉|自述|自遣|自適|自重|自量|自銷|自陳|自願|自餒|自首|親自|躬自|逕自|黃自}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=自00}}
+
+# self, oneself
+
+====Readings====
+{{ja-readings
+|goon=[[じ]] (ji)
+|kanon=[[し]] (shi)
+|kun=[[みずから]] ([[自ら]], mizukara), [[おのずから]] ([[自ずから]], onozukara), [[おのずと]] ([[自ずと]], onozuto)
+|nanori=[[より]] (yori)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+{{top3}}
+* {{ja-r|各自|かくじ}}
+* {{ja-r|自演|じえん}}
+* {{ja-r|自我|じが}}
+* {{ja-r|自戒|じかい}}
+* {{ja-r|自覚|じかく}}
+* {{ja-r|自画|じが}}
+* {{ja-r|自棄|じき}}
+* {{ja-r|自己|じこ}}
+* {{ja-r|自在|じざい}}
+* {{ja-r|自作|じさく}}
+* {{ja-r|自殺|じさつ}}: [[suicide]]
+{{mid3}}
+* {{ja-r|自賛|じさん}}
+* {{ja-r|自主|じしゅ}}
+* {{ja-r|自信|じしん}}
+* {{ja-r|自身|じしん}}
+* {{ja-r|自責|じせき}}
+* {{ja-r|自然|しぜん}}
+* {{ja-r|自尊|じそん}}
+* {{ja-r|自体|じたい}}
+* {{ja-r|自治|じち}}
+* {{ja-r|自答|じとう}}
+{{mid3}}
+* {{ja-r|自動|じどう}}
+* {{ja-r|自働|じどう}}
+* {{ja-r|自分|じぶん}}
+* {{ja-r|自暴|じぼう}}
+* {{ja-r|自問|じもん}}
+* {{ja-r|自由|じゆう}}
+* {{ja-r|自力|じりき}}
+* {{ja-r|自立|じりつ}}
+* {{ja-r|独自|どくじ}}
+{{bottom}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=자|eumhun=스스로|mr=cha|y=ca}}
+
+# {{defn|lang=ko|sort=自00}}
+
+====Compounds====
+{{der-top}}
+* [[自主]]
+* [[自註]]
+* [[自動車]] ([[자동차]])
+{{der-bottom}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tự]], [[từ]], [[tợ]]|rs=自00}}
+
+# {{defn|lang=vi|sort=自00}}
+
+[[Category:CJKV radicals| ]]
+
+[[zh-min-nan:自]]
+[[fr:自]]
+[[ko:自]]
+[[it:自]]
+[[hu:自]]
+[[mg:自]]
+[[ms:自]]
+[[ja:自]]
+[[no:自]]
+[[pl:自]]
+[[pt:自]]
+[[ru:自]]
+[[sv:自]]
+[[th:自]]
+[[chr:自]]
+[[vi:自]]
+[[zh:自]]

@@ -1,0 +1,131 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=14|sn=18|four=11809|canj=MOF|ids=⿱豩火}}
+
+# [[fire]]
+# wild fires
+
+===References===
+* {{Han ref|kx=0685.240|dkj=19508|dj=1098.130|hdz=32242.230|uh=71F9|ud=29177|bh=EFFB|bd=61435}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|ic}} - a group of pigs ([[豩]]) fleeing from a fire ([[火]]). The bronze script form has a hand with a stick ([[攴]]), indicating that the fire would have been started on purpose, in manner to get rid of the pigs. The large seal script form also has what looks like [[爾]] on the right side.
+
+===Pronunciation===
+{{zh-pron
+|m=xiǎn
+|c=sin2
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=火14}}
+
+# [[wildfire]]
+# [[backburn]]
+
+====Readings====
+{{ja-readings
+|goon=[[せん]] (sen)
+|kanon=[[せん]] (sen)
+|kun=[[のび]] (nobi), [[ぬび]] (nubi, ''obsolete'') [[ほそけ]] (hosoke)
+}}
+
+====Compounds====
+* {{ja-r|兵燹|へいせん}} {{qualifier|rare}}: a [[fire]] caused by war; by extension, a [[battle]]
+
+===Etymology 1===
+{{ja-kanjitab|yomi=kun|のび}}
+Compound of {{compound|lang=ja|sort=のび|野|tr1=no|t1=field|火|tr2=hi|t2=fire}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> {{rendaku2|sort=のび|hi|bi}}
+
+An ancient variant seen in eastern Japan uses the dialectal reading ''nu'' for {{m|ja|野}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Use of this kanji {{lang|ja|燹}} is rare, and is an example of [[熟字訓#Japanese|jukujikun]]. The standard spelling is {{m|ja|野火}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|のび|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|のび}} {{lb|ja|rare|sort=のび}}
+
+{{ja-noun|ぬび}} {{lb|ja|obsolete|sort=ぬび}}
+
+# a [[wildfire]]
+
+=====Alternative forms=====
+* {{l|ja|野火}} {{qualifier|standard spelling}}
+
+=====Usage notes=====
+Spelled using this kanji, {{lang|ja|燹}} excludes the "''controlled agricultural burn''" sense found found under the {{l|ja|野火}} spelling.
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|ほそけ}}
+Compound of {{compound|lang=ja|sort=ほそけ|火|tr1=ho|t1=fire|退く|tr2=soku|t2=to push away, to make distant}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The [[kun'yomi]] for {{m|ja|火}} is usually ''hi'', but it can appear as ''ho'' or ''fu'', particularly in older compounds.
+
+The ''soku'' changes to ''soke'' due to [[conjugation]] of the verb. Grammatically, the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of ''soke'' indicates the transitive.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Use of this kanji {{lang|ja|燹}} is rare, and is an example of [[熟字訓|jukujikun]]. The more common spelling is {{m|ja|火退}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|ほそけ}}
+
+====Noun====
+{{ja-noun|ほそけ}} {{lb|ja|rare|sort=ほそけ}}
+
+# a [[backburn]]: a [[controlled]] fire deliberately set in the path of a [[wildfire]] to create a [[firebreak]] by removing [[combustible]] material
+
+=====Alternative forms=====
+* {{l|ja|火退}} {{qualifier|rare}}
+* {{l|ja|逆焼}} {{qualifier|rare}}
+* {{l|ja|野火}} {{qualifier|rare}}
+
+=====Usage notes=====
+The more common word for this is {{m|ja|向火}}, {{ja-r|向かい火|むかいび}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+=====Synonyms=====
+* {{m|ja|向火}}, {{ja-r|向かい火|むかいび}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=희|eumhun=|rv=hui|mr=hŭi|y=huy}}
+
+# {{defn|lang=ko|sort=火14}}
+
+[[fr:燹]]
+[[hu:燹]]
+[[mg:燹]]
+[[ja:燹]]
+[[pl:燹]]
+[[th:燹]]
+[[zh:燹]]

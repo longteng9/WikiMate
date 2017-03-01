@@ -1,0 +1,53 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=40|rad=宀|as=05|sn=8|four=|canj=JYG|ids=⿱宀主}}
+
+# {{defn|Han|sort=宀05}}
+
+====References====
+* {{Han ref|kx=0283.100|dkj=07102|dj=0556.200|hdz=20923.010|uh=5B94|ud=23444}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǔ
+|c=zyu2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:yue:Jyutping Database}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=宀05}}
+
+# {{defn|lang=ja|sort=宀05}}
+
+====Readings====
+* {{ja-readings|on=[[しゅ]] (shu)|kun=}}
+
+[[fr:宔]]
+[[hu:宔]]
+[[pl:宔]]
+[[th:宔]]
+[[zh:宔]]

@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|袄}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=13|sn=19|four=37234|canj=LHBK}}
+
+# outer garments
+# [[coat]], [[jacket]]
+
+====References====
+* {{Han ref|kx=1125.170|dkj=34629|dj=1592.270|hdz=53115.010|uh=8956|ud=35158|bh=C3CD|bd=50125}}
+
+----
+
+==Chinese==
+{{zh-forms|s=袄}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=ǎo
+|c=ou2
+|h=pfs=ó
+|mn=ó
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# ([[Chinese]]-[[style]]) [[coat]]; [[jacket]]
+
+===Derived terms===
+* {{zh-l|棉襖}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=}}
+
+# {{defn|lang=ja|sort=衣13}}
+
+====Readings====
+{{ja-kanjitab|ふすま|yomi=k}}
+* {{ja-readings|on=[[おう]] (ō)|kun=[[あお]] (ao), [[ふすま]] (fusuma)|nanori=}}
+
+===Noun===
+{{ja-noun|ふすま}}
+
+# [[fusuma]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=오|eumhun=|rv=o|mr=o|y=o}}
+
+# {{defn|lang=ko|sort=衣13}}
+
+----
+
+==Vietnamese==
+{{vi-hantu|áo}}
+
+* {{defn|lang=vi|sort=衣13}}
+
+Nôm Foundation
+
+[[fr:襖]]
+[[lo:襖]]
+[[hu:襖]]
+[[mg:襖]]
+[[ja:襖]]
+[[pl:襖]]
+[[th:襖]]
+[[uk:襖]]
+[[zh:襖]]

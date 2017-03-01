@@ -1,0 +1,172 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=174|rad=靑|as=05|sn=13|four=05127|canj=YTQMB}}
+
+# [[pacify]]
+# [[appease]]
+# [[calm]], [[peaceful]]
+
+====References====
+* {{Han ref|kx=1381.280|dkj=42570|dj=1893.040|hdz=64046.080|uh=9756|ud=38742|bh=B974|bd=47476}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìng
+|c=zing6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=靑05}}
+
+# [[peaceful]], [[calm]], [[easygoing]]
+
+====Readings====
+{{ja-readings
+|goon=[[じょう]] (jō)|
+|kanon=[[せい]] (sei)
+|kun={{l|ja|靖い|tr=[[やすい]], yasui}}, {{l|ja|靖んずる|tr=[[やすんずる]], yasunzuru}}, {{l|ja|靖んじる|tr=[[やすんじる]], yasunjiru}}, {{l|ja|靖|tr=[[やす]], yasu}}
+|nanori=[[はかる]] (hakaru), [[きよし]], (kiyoshi), [[のぶ]] (nobu), [[おさむ]] (osamu), [[せい]] (sei), [[せいじ]] (seiji), [[しず]] (shizu), [[しずか]] (shizuka), [[しずむ]] (shizumu), [[やす]] (yasu), [[やすみ]] (yasumi), [[やすし]] (yasushi)
+}}
+
+===Etymology 1===
+From verb {{m|ja|図る|tr=hakaru||to intend, to plan, to set a goal or direction}}.
+
+====Proper noun====
+{{ja-pos|proper|はかる}}
+
+# {{given name|male|lang=ja|sort=はかる}}
+
+===Etymology 2===
+[[nominalize|Nominalization]] of ''kiyoshi'', the pre-modern terminal form ({{l|ja|終止形|tr=shūshikei}}) of adjective {{m|ja|清い|tr=kiyoi||[[clean]], [[pure]]}}.
+
+====Proper noun====
+{{ja-pos|proper|きよし}}
+
+# {{given name|male|lang=ja|sort=きよし}}
+
+===Etymology 3===
+[[nominalize|Nominalization]] of verb {{m|ja|のぶ|tr=nobu||{{l|ja|延ぶ}}, {{l|ja|伸ぶ}}: to grow, to extend}}.
+
+====Proper noun====
+{{ja-pos|proper|のぶ}}
+
+# {{given name|male|lang=ja|sort=のぶ}}
+
+===Etymology 4===
+[[nominalize|Nominalization]] of verb {{m|ja|治む|tr=osamu||to make something calm, to stabilize}}.
+
+====Proper noun====
+{{ja-pos|proper|おさむ}}
+
+# {{given name|male|lang=ja|sort=おさむ}}
+
+===Etymology 5===
+[[nominalize|Nominalization]] of adjective {{m|ja|静か|tr=shizuka||calm, quiet}}.
+
+====Proper noun====
+{{ja-pos|proper|しずか}}
+
+# {{given name|female|lang=ja|sort=しずか}}
+
+===Etymology 6===
+From {{etyl|zhx|ja|sort=せい}} {{m|zh|靖}}.
+
+====Proper noun====
+{{ja-pos|proper|せい}}
+
+# {{surname|lang=ja|sort=せい}}
+# {{given name|female|lang=ja|sort=せい}}
+
+===Etymology 7===
+Probably from {{m|ja|政治|tr=seiji||politics}}, from the underlying idea of "calming or stabilizing a country", similar to the name ''Osamu''.
+
+====Proper noun====
+{{ja-pos|proper|せいじ}}
+
+# {{given name|male|lang=ja|sort=せいじ}}
+
+===Etymology 8===
+[[nominalize|Nominalization]] of verb {{m|ja|静む|tr=shizumu||to become quiet, to become settled}}.
+
+====Proper noun====
+{{ja-pos|proper|しずむ}}
+
+# {{given name|male|lang=ja|sort=しずむ}}
+
+===Etymology 9===
+Stem form of adjective {{m|ja|安い|tr=yasui||[[peaceful]], [[calm]], [[easygoing]]}}.
+
+====Proper noun====
+{{ja-pos|proper|やす}}
+
+# {{given name|male|lang=ja|sort=やしし}}
+
+===Etymology 10===
+From {{m|ja|休み|tr=yasumi||a rest, a break, a vacation}}, the stem noun form of verb {{m|ja|休む|tr=yasumu||to rest, to take a break, to take a vacation}}, from adjective {{m|ja|安い|tr=yasui||[[peaceful]], [[calm]], [[easygoing]]}} + auxiliary verb {{m|ja|む|tr=mu||to become [adjective], to make something [adjective]}}.
+
+====Proper noun====
+{{ja-pos|proper|やすみ}}
+
+# {{given name|female|lang=ja|sort=やしみ}}
+
+===Etymology 11===
+[[nominalize|Nominalization]] of ''yasushi'', the pre-modern terminal form ({{l|ja|終止形|tr=shūshikei}}) of adjective {{m|ja|安い|tr=yasui||[[peaceful]], [[calm]], [[easygoing]]}}.
+
+====Proper noun====
+{{ja-pos|proper|やすし}}
+
+# {{given name|male|lang=ja|sort=やしし}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=정|eumhun=|rv=jeong|mr=chŏng|y=ceng}}
+
+# {{defn|lang=ko|sort=靑05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tĩnh]], [[tịnh]]|rs=靑05}}
+
+# {{defn|lang=vi|sort=靑05}}
+
+[[fr:靖]]
+[[hu:靖]]
+[[mg:靖]]
+[[ja:靖]]
+[[no:靖]]
+[[pl:靖]]
+[[th:靖]]
+[[vi:靖]]
+[[zh:靖]]

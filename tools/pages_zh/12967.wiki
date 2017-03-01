@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|丰}}
+==Translingual==
+{{stroke order|strokes=6}}
+
+===Han character===
+{{Han char|rn=32|rad=土|as=03|sn=6|four=40104|canj=GG|ids=⿱土土}}
+
+# [[jade]] pointed at top
+# jade [[tablet]] used by [[official]]s in [[ancient]] [[China]] when [[address]]ing the [[emperor]] in [[court]]
+
+====Derived characters====
+* [[佳]] [[烓]] [[桂]] [[硅]] [[袿]] [[蛙]] [[鞋]] [[眭]] [[封]] [[街]] [[厓]]
+
+====References====
+* {{Han ref|kx=0224.020|dkj=04887|dj=0456.050|hdz=10418.050|uh=572D|ud=22317|bh=A663|bd=42595}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|土|土|ls=p}} – stack of (clay, jade) tablets.
+
+===Pronunciation===
+{{zh-pron
+|m=guī
+|c=gwai1
+|mn=ke/kui
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一刀圭|不見圭角|不露圭角|介圭|刀圭|圭亞那 |圭玉|圭璋|圭璧|圭窬|圭竇|圭臬|圭蓽|圭表|圭角|圭門|奉為圭臬|巴拉圭|巴拉圭河|日圭|析圭分土|析圭擔爵|烏拉圭|琬圭|琰圭|瑱圭|白圭|白圭之玷|穀圭|篳門圭窬|篳門圭竇|蓽門圭竇|躬圭|鎮圭}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土03}}
+
+====Readings====
+* {{ja-readings|goon=[[け]] (ke)|kanon=[[けい]] (kei)|kun=[[たま]] (tama)}}
+
+===Proper noun===
+{{ja-pos|proper|けい}}
+
+# {{given name|unisex|lang=ja|sort=けい}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=규|rv=gyu|mr=kyu|y=kyu}}
+
+# {{defn|lang=ko|sort=土03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quê]], [[khoai]], [[khuê]], [[que]]|rs=土03}}
+
+# {{defn|lang=vi|sort=土03}}
+
+[[fr:圭]]
+[[ko:圭]]
+[[it:圭]]
+[[li:圭]]
+[[hu:圭]]
+[[mg:圭]]
+[[ja:圭]]
+[[pl:圭]]
+[[th:圭]]
+[[zh:圭]]

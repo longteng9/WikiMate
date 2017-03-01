@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms|type=21}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=biǎntáoxiàn
+|c=bin2 tou4 sin3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|anatomy|immunology}} [[tonsil]]
+#: {{zh-syn|扁桃體}}
+
+====Derived terms====
+{{zh-der|扁桃腺炎}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|へん|とう|せん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|へんとうせん|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|へんとうせん|hhira=へんたうせん}}
+
+# {{lb|ja|anatomy|immunology|sort=へんとうせん}} [[tonsil]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|扁桃腺炎|へんとうせんえん}}: [[tonsillitis]]
+* {{ja-r|扁桃腺切除|へんとうせん せつじょ}}: [[tonsillectomy]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[fr:扁桃腺]]
+[[ko:扁桃腺]]
+[[hr:扁桃腺]]
+[[hu:扁桃腺]]
+[[mg:扁桃腺]]
+[[sv:扁桃腺]]
+[[zh:扁桃腺]]

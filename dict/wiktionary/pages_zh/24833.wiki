@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=05|sn=11|four=44307|canj=TOII}}
+
+# [[fungus]], [[tuber]]
+# [[licorice]]
+
+====References====
+* {{Han ref|kx=1022.240|dkj=30777|dj=1481.150|hdz=53194.070|uh=82D3|ud=33491|bh=AD64|bd=44388}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=líng
+|c=ling4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|芳苓|苓通|茯苓|茯苓糕|茯苓菜|茯苓霜|豨苓|豬苓|采苓|龜苓膏}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸05}}
+
+# {{defn|lang=ja|sort=艸05}}
+
+====Readings====
+* {{ja-readings|on=[[れい]] (rei), [[りょう]] (ryō)|kun=[[みみなぐさ]] (miminagusa)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[령]]>[[영]]|eumhun=|rv=ryeong>yeong|mr=ryŏng>yŏng|y=lyeng>yeng}}
+
+# {{defn|lang=ko|sort=艸05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[linh]], [[lành]], [[lềnh]]|rs=艸05}}
+
+# {{defn|lang=vi|sort=艸05}}
+
+[[fr:苓]]
+[[hu:苓]]
+[[mg:苓]]
+[[ja:苓]]
+[[pl:苓]]
+[[th:苓]]
+[[vi:苓]]
+[[zh:苓]]

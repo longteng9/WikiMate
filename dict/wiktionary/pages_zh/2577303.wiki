@@ -1,0 +1,70 @@
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|Ming|dynasty}}
+
+====Pronunciation====
+{{zh-pron
+|m=Míngcháo
+|c=ming4 ciu4
+|mn=Bêng-tiâu
+|md=Mìng-dièu
+|h=pfs=Mìn-chhèu
+|cat=pn
+}}
+
+====Proper noun====
+{{zh-proper noun}}
+
+# the {{w|Ming dynasty}}
+
+===Etymology 2===
+{{zh-forms|next; tomorrow|morning}}
+
+====Pronunciation====
+{{zh-pron
+|m=míngzhāo
+|c=ming4 ziu1
+|w=3min tsau,3men tsau
+|x=min2 zhau1
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[tomorrow]] [[morning]]
+# {{lb|zh|dialectal}} [[tomorrow]]
+
+=====Synonyms=====
+* {{sense|tomorrow}}
+{{zh-dial|明天}}
+
+{{zh-cat|Time}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|みょう|ちょう|yomi=on}}
+
+===Noun===
+{{ja-noun|みょうちょう}}
+
+# [[tomorrow]] [[morning]]
+#: {{ja-usex|'''明朝'''は８時に集合です。|'''みょうちょう''' は はち じ に しゅうごう です。|Come at 8 tomorrow morning.}}
+
+===Proper noun===
+{{ja-pos|みんちょう|proper}}
+
+# [[Ming Dynasty]]
+
+====Derived terms====
+* {{ja-r|明朝体|みんちょうたい}}
+
+[[zh-min-nan:明朝]]
+[[ko:明朝]]
+[[la:明朝]]
+[[hu:明朝]]
+[[ja:明朝]]
+[[sv:明朝]]
+[[zh:明朝]]

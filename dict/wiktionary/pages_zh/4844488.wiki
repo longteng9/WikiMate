@@ -1,0 +1,36 @@
+{{also|血块}}
+==Chinese==
+{{zh-forms|s=血块}}
+
+===Pronunciation===
+{{zh-pron
+|m=血kuài,er=y
+|c=hyut3 faai3
+|mn=hoeh-tè/huih-tè
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|pathology}} [[blood clot]]; [[thrombus]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|けつ|k1=けっ|かい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|けっかい|acc=h|acc_ref=NHK|y=ko}}
+* {{homophone|決壊|lang=ja|sort=けっかい}}
+
+===Noun===
+{{ja-noun|けっ.かい|head=[[血]][[塊]]}}
+
+# {{lb|ja|sort=けっかい|pathology}} [[blood clot]]; [[thrombus]]
+
+====Synonyms====
+* {{ja-l|血栓|[[けっせん]]|[[kessen]]}}
+
+===References===
+<references/>

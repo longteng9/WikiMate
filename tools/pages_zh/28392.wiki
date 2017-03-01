@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|较}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=06|sn=13|four=50048|canj=JJYCK|ids=⿰車交}}
+
+# [[compare]]
+# [[comparatively]], [[more]]
+
+====References====
+* {{Han ref|kx=1242.310|dkj=38297|dj=1718.260|hdz=53531.050|uh=8F03|ud=36611|bh=B8FB|bd=47355}}
+
+----
+
+==Chinese==
+{{zh-forms|s=较}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiào
+|c=gaau3
+|h=pfs=káu/kau/kha/ha
+|mn=khah/kà/kàu/kah
+|mc=y
+|oc=y
+|ma=
+|cat=v,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+#{{rfdef|zh}}
+
+====Compounds====
+* {{zh-l|比較}}
+* {{zh-l|計較}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=車06}}
+
+# {{defn|lang=ja|sort=車06}}
+
+====Readings====
+* {{ja-readings|on=[[かく]] (kaku), [[こう]] (kō)|kun=[[くらべる]] (kuraberu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[교]], [[각]]|eumhun=|rv=gyo, gak|mr=kyo, kak|y=kyo, kak}}
+
+# {{defn|lang=ko|sort=車06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[giác]], [[giảo]]|rs=車06}}
+
+# {{defn|lang=vi|sort=車06}}
+
+[[zh-min-nan:較]]
+[[fr:較]]
+[[ko:較]]
+[[hu:較]]
+[[mg:較]]
+[[ja:較]]
+[[pl:較]]
+[[th:較]]
+[[zh:較]]

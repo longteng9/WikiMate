@@ -1,0 +1,223 @@
+{{character info/new}}
+{{also|㳄}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=76|rad=欠|as=02|sn=6|four=17182,37182|canj=IMNO,MMNO|ids=⿰冫欠,⿰二欠}}
+
+====Derived characters====
+* [[盗]] [[姿]]
+
+====References====
+* {{Han ref|kx=0565.030|dkj=15992|dj=0954.010|hdz=32133.020|uh=6B21|ud=27425|bh=A6B8|bd=42680}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|二|t1=lining things; [[二]] modified to resemble [[冫]]|欠|t2=man|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=cì
+|c=ci3
+|h=pfs=chhṳ
+|mn=chhù/qz,lk,sx,km,hc:chhìr
+|w=2tshr
+|mc=y
+|oc=y
+|ma=y
+|cat=n,cls,a,det
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[order]]; [[sequence]]
+# [[next]] in sequence; [[second]]
+# [[inferior]]; [[substandard]]
+# {{zh-classifier|times, as in frequency|cat=y}}
+#: {{zh-x|上次|last time}}
+#: {{zh-x|次數|number of times; frequency}}
+
+===Compounds===
+{{zh-der|幾次|印次|其次|上次|下次|席次|倫次|慞惶失次|客次|層次|二次革命|層次井然|三番五次|三次方|兩次三番|二次曲線|主次|座次|以次|一次全倒|三回五次|依次|初次|二次曲面|屢次|循次而進|復次|三番兩次|多次曝光|序次|幾次三番|年次|差次|二次汙染|官次|崖次|屢次三番|居次|十二次|二次全倒|兩次運球|一次能源|妝次|名次|層次分明|如次|不次|二次能源|場次|二次大戰|品次|二次感染|將次|二次函數|取次|人次|位次|櫛次鱗比|撰次|水次|次著|次妻|次生|按次|歷次|次殖民地|版次|業次|本次|次品|次貨|次序|挨次|次大陸|次生林|次篆|次數線圖|次級資料|改次|次骨|次重音|星次|櫛比鱗次|次數|檔次|次級團體|次第|次席|相次即世|相次|目次|次程式|次成河|次文化|班次|次日|批次處理|每次|漸次|次級|洛次|次生礦物|次韻|次等|次長|次要|旅次|次房|次後|次子|次且|梯次|更次|次級文化|次早|次室|節次|越次|等次|迭次|紬次|累次|路次|詮次|造次|累次三番|逡次|立克次體|越次躐等|編次|語無倫次|胸次|遷次|頻次|號次|遞次|齒次|第一次|賓次|逐次|銓次|草次|限次|論次|食次|鱗次|類次|隨次|航次|道次|雅庫次克|行次|車次|造次顛沛|途次|順次|越次超倫|超階越次|貫魚之次|超次|鱗次櫛比|級次|苫次|舟次|這次}}
+
+{{zh-cat|Beginning|Intermediate}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=欠02}}
+
+====Readings====
+{{ja-readings
+|goon=[[し]] (shi)
+|kanon=[[し]] (shi)
+|kanyoon=[[じ]] (ji)
+|kun=[[つぐ|つ.ぐ]] (tsu.gu), [[つぎ]] (tsugi), [[ついで]] (tsuide), [[すく|す.く]] (su.ku), [[すき]] (suki),
+|nanori=[[き]] (ki), [[すき]] (suki), [[つぐ]] (tsugu), [[よし]] (yoshi)
+}}
+
+====Compounds====
+* {{ja-r|目次|もくじ}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|し}}
+From {{etyl|ltc|ja|sort=し}} {{m|zh|次|tr=tshij<sup>H</sup>||in order; second}}.
+
+Less common reading in modern Japanese. [[supersede|Superseded]] in most cases by ''ji''; see below.
+
+====Pronunciation====
+{{ja-pron|yomi=on|し}}
+
+====Affix====
+{{ja-pos|affix|し}}
+
+# [[next]], [[secondary]]
+# [[following]]
+
+=====Usage notes=====
+Only found in compounds.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|次第|しだい}}: [[order]], order of [[event]]s, [[circumstances]]; [[dependent]] upon, coming after, taking orders from
+* {{ja-r|次忠|しちゅう}}: [[secondary]] [[loyalty]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|じ}}
+{{IPAchar|/si/}} → {{IPAchar|/ʑi/}} → {{IPAchar|/d͡ʑi/}}
+
+Sound shift from ''shi'' above.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=kanyo|じ}}
+
+====Counter====
+{{ja-pos|counter|じ}}
+
+# number of times: an [[ordinal]] marker
+#: {{ja-usex|第四'''次'''計画|だいよん'''じ''' けいかく|the four'''th''' plan}}
+# number in a sequence, number of [[aspect]]s or [[dimension]]s
+#: {{ja-usex|二'''次'''方程式、三'''次'''式|に'''じ''' ほうていしき、 さん'''じ''' しき|a quadrat'''ic''' equation, a thi'''rd order''' expression}}
+
+====Noun====
+{{ja-noun|じ}}
+
+# {{lb|ja|sort=じ|rare}} [[order]], [[sequence]]
+
+=====Usage notes=====
+Seldom found in isolation.
+
+====Prefix====
+{{ja-pos|prefix|じ}}
+
+# {{qualifier|attached to nouns}} the [[next]], [[secondary]], [[vice-]]
+#: {{ja-usex|'''次'''位、'''次'''長|'''じ'''い、 '''じ'''ちょう|'''second''' rank, '''vice-'''director}}
+# {{lb|ja|sort=じ|chemistry}} [[hypo-]] {{qualifier|used to distinguish the oxidation levels of various acids}}
+#: {{ja-usex|亜塩素酸、'''次'''亜塩素酸、亜臭素酸、'''次'''亜臭素酸|あえんそ さん、 '''じ'''あえんそ さん、 あしゅうそ さん、 '''じ'''あしゅうそ さん|chlorous acid, '''hypo'''chlorous acid, bromous acid, '''hypo'''bromous acid}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|つぎ}}
+Nominalization of the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of {{etyl|ojp|ja|sort=つぎ}}-derived verb {{m|ja|次ぐ|tr=tsugu||to be in a sequence; to follow, to continue from something, to be next; to connect, to join}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|つぎ|acc=2|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|つぎ}}
+
+# [[next]], [[order]], [[sequence]], [[below]]
+#* From the [http://www.catch.jp/wiki/index.php?tutorial_1 Emacs tutorial] ([http://cmgm.stanford.edu/classes/unix/emacs.html English])
+#: {{ja-usex|では&#32;<tt>C-v</tt>&#32;（'''次'''の画面を見る）をタイプして'''次'''の画面に進んで下さい。（さあ、やってみましょう。コントロールキーを押しながら&#32;<tt>v</tt>&#32;です）|^で は&#32;<tt>C-v</tt>&#32;（'''つぎ''' の がめん を みる）を タイプ して '''つぎ''' の がめん に すすんで ください。（^さあ、やってみましょう。^コントロールキー を おしながら&#32;<tt>v</tt>&#32;です）|Now type <tt>C-v</tt> (View '''next''' screen) to move to the '''next''' screen. (go ahead, do it by depressing the control key and <tt>v</tt> together)}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=k|すき}}
+Nominalization of the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of {{etyl|ojp|ja|sort=すく}}-derived verb {{m|ja|次く|tr=suku||to follow, to continue from something, to be next;}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The verb form was obsolete even in olden times. Existence of the verb, possibly related to [[次ぐ|''tsugu'']] mentioned above, is inferred from placenames found in the [[w:Man'yōshū|''Man'yōshū'']] and other ancient poetry.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|すき}}
+
+====Alternative forms====
+* {{ja-l|主基}}
+
+====Noun====
+{{ja-noun|すき}}
+
+# {{lb|ja|sort=すき|Shinto}} at the {{m|ja|大嘗祭|tr=Daijōsai}} and other major Shintō ceremonies, refers to the group of regional representatives making [[offering]]s of [[sake]] and [[grain]], who do so after the initial offering
+
+===Etymology 5===
+{{ja-kanjitab|yomi=k|ついで}}
+{{IPAchar|/tugite/}} → {{IPAchar|/tuide/}}
+
+Sound shift from {{m|ja|次第|tr=tsugite||order, sequence}}, itself originally the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of now-obsolete {{etyl|ojp|ja|sort=ついで}}-derived verb {{m|ja|継ぎつ|tr=tsugitsu||to do things in sequence, to establish an order}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|ついで|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|序}}, {{ja-l|序で}}, {{ja-l|第}}, {{ja-l|次いで}}, {{ja-l|尋いで}}, {{ja-l|次第}}, {{ja-l|嗣}}
+
+====Noun====
+{{ja-noun|ついで}}
+
+# [[order]], [[sequence]]
+# [[follower]], [[successor]]; the [[next]] thing in a sequence
+# a [[good]] [[opportunity]] to do something; doing something [[incidental]] to something else
+
+=====Usage notes=====
+The ''good opportunity'' sense is more often encountered as {{ja-r|序でに|ついで に}}.
+
+===References===
+<references/>
+
+[[Category:Japanese basic words]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=차|eumhun=|mr=ch'a|y=cha}}
+
+# {{defn|lang=ko|sort=欠02}}
+
+----
+
+==Vietnamese==
+
+===Particle===
+{{vi-hantu|[[thứ]], [[thớ]], [[thắng]]|rs=欠02}}
+
+# {{defn|lang=vi|sort=欠02}}
+
+[[af:次]]
+[[fr:次]]
+[[ko:次]]
+[[it:次]]
+[[csb:次]]
+[[lo:次]]
+[[li:次]]
+[[hu:次]]
+[[mg:次]]
+[[ms:次]]
+[[fj:次]]
+[[ja:次]]
+[[no:次]]
+[[pl:次]]
+[[pt:次]]
+[[tl:次]]
+[[ta:次]]
+[[th:次]]
+[[chr:次]]
+[[uk:次]]
+[[zh:次]]

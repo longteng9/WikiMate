@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=14|sn=17|four=60032|canj=RYRO|ids=⿰口豪}}
+
+# [[cry]] [[loudly]], [[yell]], [[scream]]
+
+====References====
+* {{Han ref|kx=0212.170|dkj=04481|dj=0435.010|hdz=10697.020|uh=568E|ud=22158|bh=C07A|bd=49274}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=háo
+|c=hou4
+|mn=âu
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嚎咷|嚎喪|悲嚎|喪聲嚎氣|嚎天喊地|乾嚎|嚎天動地|嚎啕痛哭|嚎啕大哭|嚎啕|神嚎鬼哭|鬼哭狼嚎|鬼哭神嚎}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口14}}
+
+# {{defn|lang=ja|sort=口14}}
+
+====Readings====
+* {{ja-readings|on=[[かう]] (kau), [[ごう]] (gō)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=호|rv=ho|mr=ho}}
+
+# {{defn|lang=ko|sort=口14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hào]], [[gào]]|rs=口14}}
+
+# {{defn|lang=vi|sort=口14}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=568e Nom Foundation]
+
+[[fr:嚎]]
+[[li:嚎]]
+[[hu:嚎]]
+[[mg:嚎]]
+[[no:嚎]]
+[[pl:嚎]]
+[[th:嚎]]
+[[zh:嚎]]

@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms|alt=儂性-Min Nan:lâng-sèng}}
+
+===Pronunciation===
+{{zh-pron
+|m=rénxìng
+|c=jan4 sing3
+|h=pfs=ngìn-sin
+|mn=zz,kh:jîn-sèng/xm,qz,tp:lîn-sèng/zz:lâng-sèng
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[human nature]]
+
+====Derived terms====
+{{zh-der|人性化|人性論}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じん|せい|yomi=o}}
+
+===Etymology===
+From {{der|sort=しんせい'|ja|ltc|人性|tr=ȵiɪn  siᴇŋ<sup>H</sup>}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|じんせい|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|じんせい}}
+
+# [[human]] [[nature]]
+
+====Derived terms====
+* {{ja-r|人性論的証明|じんせいろんてき しょうめい|[[anthropological]] [[argument]]}}
+
+===References===
+<references/>
+
+[[zh-min-nan:人性]]
+[[ko:人性]]
+[[hu:人性]]
+[[ja:人性]]
+[[th:人性]]
+[[zh:人性]]

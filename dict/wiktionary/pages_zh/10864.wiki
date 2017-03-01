@@ -1,0 +1,137 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=06|sn=8|four=22200|canj=OMNN|ids=⿰亻列}}
+
+# [[precedent]], [[example]]
+# [[regulation]]
+
+====References====
+* {{Han ref|kx=0101.240|dkj=00587|dj=0215.050|hdz=10146.080|uh=4F8B|ud=20363|bh=A8D2|bd=43218}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lì
+|c=lai6
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# example
+# precedent
+# rule
+# case
+# instance
+
+====Compounds====
+* [[例如]] meaning "for example"
+
+----
+
+==Japanese==
+
+===Noun===
+{{ja-noun|れい}}
+: 例 ([[ためし]], [[tameshi]])
+: 例し (ためし, tameshi)
+
+The most common reading is れい (rei).
+
+# [[example]], [[instance]]
+#* 例を[[引く]] <nowiki>[</nowiki>[[挙げる]]<nowiki>]</nowiki>
+#*: れいをひく[あげる]
+#*: rei o hiku [ageru]
+#*: cite [give] an example
+# [[illustration]]
+# [[case]]
+# [[custom]], the [[usual]]
+#* 例によって
+#*: れいによって
+#*: rei ni yotte
+#*: as usual
+#* 例に無く
+#*: れいになく
+#*: rei ni naku
+#*: contrary to habit
+# [[precedent]]
+# [[that]]
+#* 例の[[男]]
+#*: れいのおとこ
+#*: rei no otoko
+#*: that man (who we were speaking about)
+
+===Kanji===
+{{ja-kanji|grade=4|rs=人06}}
+
+====Readings====
+* {{ja-readings|goon=[[れ]] (re)|kanon=[[れい]] (rei)|on=[[れつ]] (retsu)|kun=[[たとえる]] ([[例える]], tatoeru), [[たぐい]] (tagui), [[ためし]] (tameshi)}}
+
+====Compounds====
+* [[例会]]
+* [[例解]]
+* [[例外]]
+* [[例規]]
+* [[例月]]
+* [[例言]]
+* [[例刻]]
+* [[例祭]]
+* [[例時]]
+* [[例示]]
+* [[例式]]
+* [[例証]]
+* [[例数]]
+* [[例題]]
+* [[例日]]
+* [[例年]]
+* [[例文]]
+* [[例話]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=례|rv=rye|mr=rye}}
+
+# {{defn|lang=ko|sort=人06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|lệ|rs=人06}}
+
+# {{defn|lang=vi|sort=人06}}
+
+[[zh-min-nan:例]]
+[[be:例]]
+[[fr:例]]
+[[ko:例]]
+[[ku:例]]
+[[lo:例]]
+[[hu:例]]
+[[mg:例]]
+[[ja:例]]
+[[no:例]]
+[[pl:例]]
+[[ru:例]]
+[[sr:例]]
+[[sv:例]]
+[[th:例]]
+[[chr:例]]
+[[zh:例]]

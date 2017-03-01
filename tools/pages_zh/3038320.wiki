@@ -1,0 +1,25 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|ほう|ねん|yomi=o}}
+
+====Noun====
+{{ja-noun|ほうねん|kyu=豐年}}
+
+# a [[rich]] [[year]]; a year with an [[abundant]] [[harvest]].
+
+=====Antonyms=====
+* {{ja-r|凶年|きょうねん|gloss=[[poor]] [[year]]}}
+* {{ja-r|平年|へいねん|gloss=[[average]] year}}
+
+===Etymology 2===
+{{ja-kanjitab|とよ|とし|yomi=k}}
+
+====Proper noun====
+{{ja-pos|とよとし|proper}}
+
+# {{given name|male|lang=ja|sort=とよとし}}
+
+[[ko:豊年]]
+[[li:豊年]]
+[[zh:豊年]]

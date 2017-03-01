@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gōngshì
+|c=gung1 sik1
+|mn=xm,tw:kong-sek/qz:kong-siak/zz:kong-sit
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|mathematics|chemistry}} [[formula]]
+# formula as a method of [[achieving]] something
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|しき|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|こうしき|y=o|dev=3|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|こうしき}}
+
+# being [[formal]], [[official]]
+# {{lb|ja|math|chemistry}} [[formula]]
+
+===References===
+<references/>
+
+[[zh-min-nan:公式]]
+[[fr:公式]]
+[[ko:公式]]
+[[hu:公式]]
+[[mg:公式]]
+[[ja:公式]]
+[[ru:公式]]
+[[sv:公式]]
+[[chr:公式]]
+[[zh:公式]]

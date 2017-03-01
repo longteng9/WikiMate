@@ -1,0 +1,33 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yīnchéng
+|c=jam1 cing4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|music}} [[interval]]
+
+====Descendants====
+{{CJKV|音程|おんてい|음정}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|おん|てい|yomi=o}}
+
+===Noun===
+{{ja-noun|おんてい}}
+
+# {{lb|ja|music|sort=おんてい}} [[interval]]
+
+[[ko:音程]]
+[[mg:音程]]
+[[ja:音程]]
+[[tl:音程]]
+[[zh:音程]]

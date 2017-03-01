@@ -1,0 +1,91 @@
+{{character info/new}}
+{{also|寧|甯}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{liushu|p}}: Shaped spool or bobbin. It is the original character of [[貯]], [[儲]]
+
+===Han character===
+{{Han char|rn=40|rad=宀|as=02|sn=5|four=30201|canj=JMN|ids=⿱宀丁}}
+
+# [[peaceful]]
+# simplified of [[寧]]
+## [[calm]], [[peaceful]], [[serene]]
+## [[healthy]]
+
+====Derived terms====
+* {{l|mul|貯}}, {{l|mul|佇}}, {{l|mul|紵}}, {{l|mul|苧}}, {{l|mul|眝}}, {{l|mul|羜}}, {{l|mul|㿾}}, {{l|mul|𤲑}}
+
+====References====
+* {{Han ref|kx=0281.120|dkj=07055|dj=0551.120|hdz=20910.010|uh=5B81|ud=23425|bh=C972|bd=51570}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=zhù
+|c=cyu5
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===Etymology 2===
+{{zh-see|寧}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=宀02}}
+
+# [[calm]]
+# [[peaceful]]
+# [[serene]]
+# [[healthy]]
+
+====Readings====
+* {{ja-readings|on=[[ちょ]] (cho)|kun=[[たくわえる]] (takuwaeru), [[たたずむ]] (tatazumu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[저]]|rv=jeo|mr=chŏ}}
+
+# [[garden]]
+# [[peace]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=宀02|hanviet=trữ}}
+
+# {{defn|lang=vi|sort=宀02}}
+
+[[fr:宁]]
+[[li:宁]]
+[[hu:宁]]
+[[mg:宁]]
+[[no:宁]]
+[[pl:宁]]
+[[th:宁]]
+[[zh:宁]]

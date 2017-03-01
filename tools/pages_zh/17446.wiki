@@ -1,0 +1,72 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=42941|canj=DHMY|ids=⿰木斥}}
+
+====References====
+* {{Han ref|kx=0519.160|dkj=14633|dj=0907.140|hdz=21185.040|uh=67DD|ud=26589|bh=AC6C|bd=44140}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tuò
+|c=tok3
+|mc=
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[watchman]]'s [[rattle]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木05}}
+
+# {{defn|lang=ja|sort=木05}}
+
+====Readings====
+* {{ja-readings|on=[[たく]] (taku)|kun=[[ひょうしぎ]] (hyoushigi), [[さく]] (saku), [[ひらく]] (hiraku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=탁|eumhun=|rv=tak|mr=t'ak|y=thak}}
+
+# {{defn|lang=ko|sort=木05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木05|hanviet=thác}}
+
+# {{defn|lang=vi|sort=木05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=67dd Nom Foundation]
+
+[[fr:柝]]
+[[hu:柝]]
+[[mg:柝]]
+[[ja:柝]]
+[[pl:柝]]
+[[th:柝]]
+[[zh:柝]]

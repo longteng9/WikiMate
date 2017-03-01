@@ -1,0 +1,28 @@
+==Chinese==
+{{zh-forms|gloss=-}}
+{{zh-wp}}
+
+===Alternative forms===
+* {{zh-l|胡撥}}
+* {{zh-l|胡撥四}}
+* {{zh-l|胡撥思}}
+
+===Etymology===
+Ultimately from {{der|zh|trk-pro|*kopuŕ}}; compare {{cog|kk|қобыз}}, {{cog|tr|kopuz}}.
+
+===Pronunciation===
+{{zh-pron
+|m=huǒ不sī
+|c=fo2 bat1 si1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|musical instrument}} [[komuz]], a [[string instrument]] used in Central Asian music
+
+====Synonyms====
+* {{zh-l|蘇古篤}}
+
+[[zh:火不思]]

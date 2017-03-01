@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=07|sn=11|four=38309|canj=YOMD}}
+
+# [[way]], [[road]], [[path]], [[journey]]
+# [[course]]
+
+====References====
+* {{Han ref|kx=1257.200|dkj=38882|dj=1743.080|hdz=63843.040|uh=9014|ud=36884|bh=B37E|bd=45950}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tú
+|c=tou4
+|h=pfs=
+|md=
+|mn=tô͘
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=辵07}}
+
+# {{defn|lang=ja|sort=辵07}}
+
+====Readings====
+* {{ja-readings|goon=[[ず]] (zu), [[ど]] (do) {{non-joyo-reading}}|kanon=[[と]] (to)|kun=[[みち]] (michi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=도|eumhun=|rv=do|mr=to|y=to}}
+
+# {{defn|lang=ko|sort=辵07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|đồ|rs=辵07}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:途]]
+[[fr:途]]
+[[ko:途]]
+[[hu:途]]
+[[mg:途]]
+[[ja:途]]
+[[no:途]]
+[[pl:途]]
+[[th:途]]
+[[zh:途]]

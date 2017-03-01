@@ -1,0 +1,35 @@
+==Chinese==
+{{zh-forms|s=圆圆}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=yuányuán
+|c=jyun4 jyun4
+|h=pfs=yèn-yèn
+|mn=îⁿ-îⁿ
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# {{n-g|Expressive reduplication of}} {{zh-l|圓|round}}.
+
+===Pronunciation 2===
+{{zh-pron
+|m=yuányuan
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|dialectal|_|Mandarin|Sichuan|_|Hakka}} [[longan]]
+# {{lb|zh|dialectal|_|Mandarin}} [[dried]] longan
+
+=====Synonyms=====
+{{zh-dial|龍眼}}
+
+{{cln|zh|reduplications}}
+
+[[zh-min-nan:圓圓]]

@@ -1,0 +1,39 @@
+{{also|注音}}
+==Chinese==
+{{zh-forms|t2=注音|s=注音}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhùyīn
+|c=zyu3 jam1
+|md=ció-ĭng
+|mn=chù-im
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+# [[phonetic]] [[notation]], [[phonetic symbol]]s
+
+===Verb===
+{{zh-verb}}
+# to give the [[phonetic]] [[notation]] of a [[word]] or [[phrase]]
+
+----
+==Japanese==
+{{ja-kanjitab|ちゅう|おん|yomi=on}}
+
+===Noun===
+{{ja-noun|ちゅうおん|shin=注音}}
+
+# [[phonetic]] [[notation]], [[phonetic symbol]]s
+
+===Verb===
+{{ja-verb-suru|ちゅうおん|shin=注音}}
+
+# to give the [[phonetic]] [[notation]] of a [[word]] or [[phrase]]
+
+====Conjugation====
+{{ja-suru|ちゅうおん}}
+
+[[ja:註音]]

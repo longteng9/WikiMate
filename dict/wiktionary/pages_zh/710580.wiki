@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=líshù
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} ordinary citizens; common folk
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|れい|しょ}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=れいしょ}} compound {{m|zh|黎庶|tr=lej syo<sup>H</sup>|lit=black [in reference to black hair: i.e. bareheaded, i.e. not nobility] + commoner}}. Compare modern {{etyl|cmn|-}} reading ''líshù''.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|れいしょ|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|れいしょ}}
+
+# {{lb|ja|sort=れいしょ|uncommon}} a [[commoner]], an [[ordinary]] person {{qualifier|in contrast to the [[aristocracy]] or [[nobility]]}}
+
+====Synonyms====
+* {{ja-r|庶民|しょみん}} {{qualifier|most common}}
+* {{ja-r|黎民|れいみん}}
+* {{ja-r|黎元|れいげん}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[zh:黎庶]]

@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tànhuǒ
+|c=taan3 fo2
+|h=pfs=than-fó
+|mn=thòaⁿ-hóe/thòaⁿ-hé
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[charcoal]] [[fire]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=k|すみ|ひ|k2=び|r=y}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=すみび|炭|tr1=sumi|t1=charcoal|火|tr2=hi|t2=fire}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> {{rendaku2|sort=すみび|hi|bi}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|すみび|acc=0|acc_ref=DJR|acc2=2|acc2_ref=DJR}}
+
+===Noun===
+{{ja-noun|すみび}}
+
+# a [[charcoal]] [[fire]]
+# a [[piece]] of charcoal that is [[on fire]], a [[glowing]] [[coal]]
+
+====Synonyms====
+* {{sense|glowing coal}} {{ja-r|熾き火|おきび}}, {{ja-r|熾き|おき}}
+
+===References===
+<references/>
+
+[[hu:炭火]]
+[[ja:炭火]]
+[[zh:炭火]]

@@ -1,0 +1,29 @@
+{{also|年级}}
+==Chinese==
+{{zh-forms|s=年级}}
+
+===Pronunciation===
+{{zh-pron
+|m=niánjí
+|c=nin4 kap1
+|ma=Zh-niánjí.ogg
+|mn=qz,tw,xm,zz:nî-kip/qz:nî-khip
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|education}} [[grade]]; [[year]]
+#: {{zh-x|你 讀 幾 年級？|What '''grade''' are you in?}}
+
+====Synonyms====
+* {{zh-l|級}}
+* {{qualifier|Hakka}} {{zh-l|年生|ngièn-sên}}
+
+[[zh-min-nan:年級]]
+[[ko:年級]]
+[[hu:年級]]
+[[mg:年級]]
+[[fj:年級]]
+[[ja:年級]]

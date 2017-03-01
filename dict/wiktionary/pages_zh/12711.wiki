@@ -1,0 +1,125 @@
+{{character info/new}}
+{{also|呒}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=12|sn=15|four=68031|canj=ROTF|ids=⿰口無}}
+
+# [[unclear]]
+# an [[expletive]]
+# [[not]]
+
+====References====
+* {{Han ref|kx=0207.230|dkj=04269|dj=0430.180|hdz=10684.020|uh=5638|ud=22072|bh=E546|bd=58694}}
+
+----
+
+==Chinese==
+{{zh-forms|s=呒}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=fǔ
+|c=fu2
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=wǔ
+|c=mou5
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=<!--ḿ broken-->
+|c=m4,mou5
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口12}}
+
+====Readings====
+* {{ja-readings|goon=[[む]] (mu)|kanon=[[ぶ]] (bu)|kun=[[さぞ]] (sazo)}}
+
+{{ja-kanjitab|さぞ|yomi=k}}
+
+===Adverb===
+{{ja-pos|adverb|さぞ}}
+
+# [[no doubt]], [[certainly]], [[surely]]
+
+====Synonyms====
+* {{l/ja|嘸かし}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=무|rv=mu|mr=mu}}
+
+# {{defn|lang=ko|sort=口12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[vỗ]], [[vổ]]|rs=口12}}
+
+# {{defn|vi}}
+
+[[fr:嘸]]
+[[li:嘸]]
+[[hu:嘸]]
+[[mg:嘸]]
+[[ja:嘸]]
+[[pl:嘸]]
+[[th:嘸]]
+[[zh:嘸]]

@@ -1,0 +1,20 @@
+{{also|编辑器}}
+==Chinese==
+{{zh-forms|s=编辑器|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=biānjíqì
+|c=pin1 cap1 hei3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|computing}} [[editor]]
+
+====Derived terms====
+{{zh-der|文本編輯器}}
+
+[[zh:編輯器]]

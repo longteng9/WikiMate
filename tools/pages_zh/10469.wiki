@@ -1,0 +1,48 @@
+{{character info/new}}
+{{also|鄉|鄕|郷}}
+==Translingual==
+{| class="floatright" border=1 cellpadding="5" cellspacing="0"
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Simplified Chinese|Simplified]]'''
+|<span class="Hans" lang="zh-hans" style="font-size: 175%">[[乡]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Traditional Chinese|Traditional]]'''
+|<span class="Hant" lang="zh-hant" style="font-size: 175%">[[鄉]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Japanese]]'''
+|<span class="Jpan" lang="jp" style="font-size: 175%">[[郷]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Korean]]'''
+|<span class="Ko" lang="ko" style="font-size: 175%">[[鄕]]</span>
+|}
+
+===Etymology===
+{{Han simp|鄉|f=郎|t=&nbsp;}}
+===Han character===
+{{Han char|rn=52|rad=幺|as=00|sn=3|var=1|four=|canj=VVH}}
+
+# [[country]]
+# [[rural]]
+# [[village]]
+
+====References====
+* {{Han ref|kx=0084.051|hdz=10051.050|uh=4E61|ud=20065}}
+
+----
+
+==Chinese==
+{{zh-see|鄉}}
+
+[[fr:乡]]
+[[ko:乡]]
+[[lo:乡]]
+[[mg:乡]]
+[[ja:乡]]
+[[no:乡]]
+[[pl:乡]]
+[[th:乡]]
+[[zh:乡]]

@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=44947|canj=DDHE|ids=⿰木皮}}
+
+====References====
+* {{Han ref|kx=0518.030|dkj=14598|dj=0906.050|hdz=21191.020|uh=67C0|ud=26560|bh=CF44|bd=53060}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǐ
+|c=bei2
+|mc=y
+|oc=y
+|ma=
+|cat=pn,n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# a [[kind]] of [[tree]] — (''[[Torreya nucifera]]'')
+# [[segregation]], [[isolation]]
+# to [[rupture]], to [[fracture]], to [[break down]]
+# [[some]] of, a [[part]] of, a [[portion]] of
+
+====References====
+* [http://yedict.com/htm/67/67C0.htm yedict.com (叶典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木05}}
+
+# {{defn|lang=ja|sort=木05}}
+
+====Readings====
+* {{ja-readings|on=[[ひ]] (hi)|kun=[[すぎ]] (sugi), [[かや]] (kaya)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木05|hanviet=phà}}
+
+# {{defn|lang=vi|sort=木05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=67c0 Nom Foundation]
+
+[[fr:柀]]
+[[hu:柀]]
+[[pl:柀]]
+[[th:柀]]
+[[zh:柀]]

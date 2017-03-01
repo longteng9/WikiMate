@@ -1,0 +1,91 @@
+{{character info/new}}
+{{also|须}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=181|rad=頁|as=03|sn=12|four=21286|canj=HHMBC|ids=⿰彡頁}}
+
+# [[must]], [[have to]], [[necessary]]
+# [[moment]]
+
+====Derived characters====
+* [[鬚]], [[𡡓]], [[𩓣]], [[䫠]], [[䫇]], [[頿]], [[盨]]
+
+====Descendants====
+* [[须]]
+* Japanese: {{ja-l|ス}}
+
+====References====
+* {{Han ref|kx=1399.230|dkj=43352|dj=1916.040|hdz=74358.010|uh=9808}}
+
+----
+
+==Chinese==
+{{zh-forms|s=须}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|彡|t1=hair|頁|t2=head|ls=p}} – a head with hair on its side – whiskers. Originally a single picture (oracle, bronze), abstracted in seal script to a compound. {{attention|zh|this character does not mean "whiskers"}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xū
+|c=seoi1
+|h=pfs=
+|md=
+|mn=qz,tw,xm:su/zz:si
+|w=
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|必須}}
+* {{zh-l|須留}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=頁03}}
+
+# {{defn|lang=ja|sort=頁03}}
+
+====Readings====
+* {{ja-readings|goon=[[す]] (su)|kanon=[[しゅ]] (shu)|kun=[[ひげ]] (hige), [[もとめる]] (motomeru), [[もちいる]] (mochiiru)}}
+
+[[Category:Han characters from which katakana were derived|ス]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=頁03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tua]], [[tu]], [[dũng]]|rs=頁03}}
+
+# {{defn|lang=vi|sort=頁03}}
+
+[[fr:須]]
+[[ko:須]]
+[[hu:須]]
+[[mg:須]]
+[[ja:須]]
+[[pl:須]]
+[[th:須]]
+[[zh:須]]

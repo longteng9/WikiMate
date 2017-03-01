@@ -1,0 +1,80 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tóurù
+|c=tau4 jap6
+|mn=qz,tp,xm:tâu-li̍p/kh,zz:tâu-ji̍p/qz:tiô-li̍p
+|cat=v,a,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[throw]] into; to [[put]] into; to [[insert]]
+# to [[go into]]; to [[enter]]
+# to [[invest]]; to [[commit]] {{gloss|money, time, energy, physical and human resources, etc.}}
+
+====Usage notes====
+To refer exclusively to investing ''money'', use {{zh-l|投資}}.
+
+====See also====
+* {{zh-l|投資}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[absorbed]]; [[engrossed]]
+
+===Noun===
+{{zh-noun}}
+
+# [[investment]]; [[input]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|にゅう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|とうにゅう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうにゅう}}
+
+# [[insertion]]
+# [[investment]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|とうにゅう}}
+
+# [[insert]]
+# [[invest]]
+
+====Conjugation====
+{{ja-suru|とうにゅう}}
+
+====Compounds====
+* {{l/ja|投入口}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=투입}}
+
+# {{hanja form of|투입|injection}}
+
+[[zh-min-nan:投入]]
+[[ko:投入]]
+[[hu:投入]]
+[[mg:投入]]
+[[ja:投入]]
+[[chr:投入]]
+[[zh:投入]]

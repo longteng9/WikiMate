@@ -1,0 +1,22 @@
+{{also|顏色|颜色}}
+==Japanese==
+{{ja-kanjitab|かお|いろ|yomi=k}}
+
+===Noun===
+{{ja-noun|かおいろ|kyu=顏色}}
+
+# [[complexion]], the appearance of one's face due to skin color or blood flow
+#: {{ja-usex|彼の顔色が良くない。|かれ の '''かおいろ''' が よくない。|He looks pale [sickly].}}
+# [[facial expression]]
+#: {{ja-usex|彼は、その意見に関して、私の顔色をうかがった。|かれ は、 その いけん に かんして、 わたし の '''かおいろ''' を うかがった。|He could tell what I thought of that idea from the look on my face.}}
+
+====Synonyms====
+* {{sense|complexion}} {{ja-r|血色|けっしょく}}
+* {{sense|facial expression}} {{ja-r|面持ち|おももち}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:顔色]]
+[[ja:顔色]]
+[[tl:顔色]]

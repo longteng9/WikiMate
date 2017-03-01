@@ -1,0 +1,96 @@
+{{character info/new}}
+{{also|恋}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=19|sn=23|four=22339|canj=VFP|ids=⿱䜌心}}
+
+====References====
+* {{Han ref|kx=0409.090|dkj=11504|dj=0751.130|hdz=42372.080|uh=6200|ud=25088|bh=C5CA|bd=50634}}
+
+----
+
+==Chinese==
+{{zh-forms|s=恋}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|䜌|心|t2=heart|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=liàn
+|ma=y
+|c=lyun5,lyun2
+|h=pfs=lien
+|md=
+|mn=loân
+|w=3li
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[love]]
+#: {{zh-l|戀愛|love}}
+# to [[love]]
+# [[long]] for, [[yearn]] for
+# to be attached
+#: {{zh-x|留戀|to be reluctant to leave}}
+
+====Synonyms====
+* {{zh-l|愛}}
+
+====Derived terms====
+* {{zh-l|戀愛}}
+* {{zh-l|戀情}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心19|style=ky|shin=恋}}
+
+# [[love]], [[passion]]
+
+====Readings====
+{{ja-readings
+|on=[[れん]] (ren)
+|kun=[[こい]] (koi), [[こいしい]] (koishii)
+}}
+
+====Usage notes====
+Replaced in modern Japanese with the [[新字体#Japanese|shinjitai]] form {{ja-l|恋}}.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[련]], [[연]]|eumhun=|mr=ryŏn, yŏn|y=lyen, yen}}
+
+# {{defn|lang=ko|sort=心19}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[luyến]], [[luýnh]]|rs=心19}}
+
+# {{defn|lang=vi|sort=心19}}
+
+[[fr:戀]]
+[[ko:戀]]
+[[li:戀]]
+[[hu:戀]]
+[[mg:戀]]
+[[ja:戀]]
+[[pl:戀]]
+[[th:戀]]
+[[chr:戀]]
+[[zh:戀]]

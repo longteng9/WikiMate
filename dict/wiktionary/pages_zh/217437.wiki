@@ -1,0 +1,53 @@
+{{also|信號}}
+==Chinese==
+{{zh-see|信號}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|ごう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|しんごう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|しんごう|kyu=信號}}
+
+# a [[signal]]
+# [[traffic light]]s
+
+====Derived terms====
+{{top2}}
+* {{ja-r|信号機|しんごうき}}: [[traffic light]]s
+* {{ja-r|青信号|あおしんごう}}: [[green]] [[light]] (of traffic lights)
+* {{ja-r|赤信号|あかしんごう}}: [[red]] [[light]] (of traffic lights)
+{{mid2}}
+* {{ja-r|信号波|しんごうは}}: [[signal]] [[wave]]
+* {{ja-r|信号処理|しんごう しょり}}: [[signal]] [[process]]ing
+* {{ja-r|電気信号|でんきしんごう}}: [[elecrical signal]]
+* {{ja-r|交通信号|こうつう しんごう}}: [[traffic light]]s
+{{bottom}}
+
+====See also====
+* {{ja-r|ゴーストップ}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[Category:ja:Communication|しんごう]]
+[[Category:ja:Technology|しんごう]]
+
+[[be:信号]]
+[[cs:信号]]
+[[fr:信号]]
+[[ko:信号]]
+[[lo:信号]]
+[[lt:信号]]
+[[li:信号]]
+[[hu:信号]]
+[[mg:信号]]
+[[ja:信号]]
+[[sv:信号]]
+[[uk:信号]]
+[[zh:信号]]

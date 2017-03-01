@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=06|sn=12|four=52164|canj=LIHJR|ids=⿰虫舌}}
+
+# [[snail]]
+# [[slug]]
+# [[mole cricket]]
+
+====References====
+* {{Han ref|kx=1081.360|dkj=33008|dj=1550.050|hdz=42849.130|uh=86DE|ud=34526|bh=B5F2|bd=46578}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kuò
+|c=fut3
+|mc=y
+|oc=y
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{zh-l|蛞蝓|[[slug]]}}
+{{der-bottom}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫06}}
+
+# {{defn|lang=ja|sort=虫06}}
+
+====Readings====
+{{ja-readings|goon=[[かち]] (kachi)|kanon=[[かつ]] (katsu)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|蛞蝓|なめくじ}}: [[slug]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=활|eumhun=|rv=hwal|mr=hwal|y=hwal}}
+
+# {{defn|lang=ko|sort=虫06}}
+
+====Compounds====
+* {{ko-l|활유|[[slug]]|蛞蝓}}
+
+[[fr:蛞]]
+[[hu:蛞]]
+[[mg:蛞]]
+[[ja:蛞]]
+[[pl:蛞]]
+[[th:蛞]]
+[[zh:蛞]]

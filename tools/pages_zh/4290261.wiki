@@ -1,0 +1,78 @@
+{{also|近视}}
+==Chinese==
+{{zh-forms|s=近视|lit=near sight}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìnshì,tl=y
+|c=gan6 si6
+|h=pfs=khiun-sṳ
+|md=gê̤ṳng-sé
+|mn=kīn-sī/kūn-sī
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|pathology}} [[myopia]]; [[nearsightedness]]; [[shortsightedness]]
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|pathology}} [[myopic]]; [[near-sighted]]; [[short-sighted]]
+
+===See also===
+* {{zh-l|遠視}}
+* {{zh-l|散光}}
+* {{zh-l|老花}}
+
+{{zh-cat|Eye|Advanced}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|きん|し|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|きんし|y=ko|acc=h}}
+* {{homophone|lang=ja|金糸|金紙|金鵄|菌糸|勤仕|禁止|錦糸|sort=きんし}}
+
+===Noun===
+{{ja-noun|きんし}}
+
+# {{lb|ja|pathology|sort=きんし}} [[myopia]]
+
+====Synonyms====
+* {{ja-r|近%視%眼|きん%し%がん}}
+* {{ja-r|近%眼|きん%がん}}
+
+===See also===
+* {{ja-r|遠%視|えん%し}}
+* {{ja-r|乱%視|らん%し}}
+* {{ja-r|老%視|ろう%し}}
+
+[[Category:Eye|きんし]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=근시|mr=kŭnsi|y=kūnsi}}
+
+# {{hanja form of|근시|[[myopia]]}}
+
+[[zh-min-nan:近視]]
+[[cs:近視]]
+[[el:近視]]
+[[fr:近視]]
+[[ko:近視]]
+[[hu:近視]]
+[[mg:近視]]
+[[ja:近視]]
+[[ru:近視]]
+[[zh:近視]]

@@ -1,0 +1,31 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Translation of {{der|zh|sa|अमृत||immortal}}. Tibetan equivalent is {{m|bo|བདུད་རྩི}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gānlù
+|c=gam1 lou6
+|h=pfs=kâm-lu
+|mn=kam-lō͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Buddhism}} [[amrita]]
+# {{lb|zh|mythology}} [[immortality]] [[potion]]
+# [[sweet]] [[dew]]
+# [[honeydew]] {{gloss|sweet, sticky secretion by [[aphid]]s}}; [[nectar]]
+
+====Derived terms====
+{{zh-der|甘露界|甘露滋心|甘露之變|甘露子|甘露法雨|甘露水漿|楊枝甘露}}
+
+====Descendants====
+{{CJKV||かんろ|감로|cam lộ}}
+
+[[ko:甘露]]
+[[zh:甘露]]

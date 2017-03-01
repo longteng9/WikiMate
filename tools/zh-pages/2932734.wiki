@@ -1,9 +1,0 @@
-==Japanese==
-{{ja-kanjitab|こう|せい|ちゅう|yomi=on}}
-
-===Etymology===
-{{suffix|構成|中|t1=configuring|t2=in the process of|lang=ja|sort=こうせいちゅう}}
-
-===Noun===
-{{ja-noun|こうせいちゅう}}
-# {{lb|ja|software|sort=こうせいちゅう}} being in the proces of [[configuring]], currently [[configuring]]

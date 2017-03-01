@@ -1,0 +1,18 @@
+==Japanese==
+{{ja-kanjitab|ざ|ひょう|けい|yomi=o}}
+
+===Etymology===
+[[座標]]([[coordinate]]) + [[系]]([[system]])
+
+===Noun===
+{{ja-noun|ざひょうけい}}
+
+# [[coordinate system]]
+[[Category:ja:Mathematics|さひようけい']]
+
+====Derived terms====
+* {{ja-r|直交座標系|ちょっこう ざひょうけい}}: [[orthogonal coordinate system]]
+* {{ja-r|極座標系|きょくざひょうけい}}: [[polar coordinate system]]
+
+[[hu:座標系]]
+[[zh:座標系]]

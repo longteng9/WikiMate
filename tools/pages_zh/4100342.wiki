@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhòngjiè
+|c=zung6 gaai3
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|chiefly|Taiwan}} [[middleman]], [[broker]], [[agent]]
+
+===Synonyms===
+* {{qualifier|chiefly mainland China}} {{zh-l|中介}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちゅう|かい|yomi=on}}
+
+===Noun===
+{{ja-noun|ちゅうかい}}
+
+# [[intermediation]], good offices
+
+===Verb===
+{{ja-verb-suru|ちゅうかい}}
+
+# to [[mediate]]
+
+====Conjugation====
+{{ja-suru|ちゅうかい}}
+
+[[ko:仲介]]
+[[hu:仲介]]
+[[ja:仲介]]
+[[zh:仲介]]

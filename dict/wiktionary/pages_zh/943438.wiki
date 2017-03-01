@@ -1,0 +1,17 @@
+==Japanese==
+{{ja-kanjitab|へん|すう|yomi=on}}
+
+===Noun===
+{{ja-noun|へんすう}}
+
+# {{lb|ja|algebra|sort=へんすう}} [[variable]]
+[[Category:ja:Programming|へんすう]]
+
+====Related terms====
+* {{ja-r|定数|ていすう}}: [[constant]]
+
+[[cs:変数]]
+[[lt:変数]]
+[[hu:変数]]
+[[pl:変数]]
+[[zh:変数]]

@@ -1,0 +1,128 @@
+{{also|日々}}
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=rìrì
+|c=jat6 jat6
+|h=pfs=ngit-ngit
+|mn=ji̍t-ji̍t/li̍t-li̍t
+|mn-t=rig8 rig8
+|cat=adv
+}}
+
+===Adverb===
+{{zh-adv}}
+
+# {{lb|zh|literary}} [[daily]]; [[every day]]
+
+----
+
+==Japanese==
+
+===Alternative forms===
+* {{ja-l|日々}} {{qualifier|using the [[ditto]] mark {{ja-l|々}} for the duplicated character}}
+
+===Etymology 1===
+{{ja-kanjitab|ひ|ひ|k2=び|yomi=k|r=y}}
+[[reduplication|Reduplication]] of {{m|ja|日|tr=hi||sun; day}}. {{rendaku2|sort=ひび|hi|bi}}
+
+This is generally the most common reading for this kanji compound.
+
+====Pronunciation====
+{{ja-pron|yomi=k|ひび|acc=1|acc_ref=NHK,DJR}}
+
+====Adverb====
+{{ja-pos|adverb|ひび}}
+
+# [[day by day]]
+#: {{ja-usex|'''日日'''暑くなるね。|'''ひび''' あつく なる ね。|It's getting hotter '''day by day''', isn't it.}}
+
+=====Synonyms=====
+* {{ja-r|毎日|まいにち}}
+* {{ja-r|日毎|ひごと}} {{qualifier|when followed by adverbial particle {{m|ja|に|tr=ni}}}}
+* {{ja-r|日に日に|ひにひに}}
+
+====Noun====
+{{ja-noun|ひび}}
+
+# every day, [[daily]]
+#: {{ja-usex|'''日日'''の御飯|'''ひび''' の ごはん|one's '''daily''' meals}}
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|'''日日'''是好日|'''ひび''' これ こうじつ|day in, day out, these are good days|linkto=日日是好日}}
+* {{ja-r|'''日日'''に新たなり|'''ひび''' に あらた なり|every day is a new day|linkto=日日に新たなり}}
+{{der-bottom}}
+
+=====Synonyms=====
+* {{ja-r|毎日|まいにち}}
+* {{ja-r|日毎|ひごと}}
+
+===Etymology 2===
+{{ja-kanjitab|にち|にち|yomi=o}}
+[[reduplication|Reduplication]] of {{m|ja|日|tr=nichi||sun; day}}, using the [[on'yomi]] pronunciation.
+
+This is a less-common reading for this kanji compound.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|にちにち|acc=0|acc_ref=NHK,DJR}}
+
+====Adverb====
+{{ja-pos|adverb|にちにち}}
+
+# [[day by day]]
+
+=====Synonyms=====
+* {{ja-r|毎日|まいにち}}
+* {{ja-r|日毎|ひごと}} {{qualifier|when followed by adverbial particle {{m|ja|に|tr=ni}}}}
+* {{ja-r|日に日に|ひにひに}}
+
+====Noun====
+{{ja-noun|にちにち}}
+
+# every day, [[daily]]
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|'''日日'''是好日|'''にちにち''' これ こうじつ|day in, day out, these are good days}}
+{{der-bottom}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|日日花|にちにちか}}: ''[[Catharanthus roseus]]'': [[Madagascar periwinkle]], [[rosy periwinkle]]
+* {{ja-r|日日草|にちにちそう}}: ''[[Catharanthus roseus]]'': [[Madagascar periwinkle]], [[rosy periwinkle]]
+{{der-bottom}}
+
+=====Synonyms=====
+* {{ja-r|毎日|まいにち}}
+* {{ja-r|日毎|ひごと}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=y|ひ|にち}}
+Compound of {{compound|lang=ja|sort=ひにち|日|tr1=hi|t1=sun; day|pos1=using the native Japanese reading|日|tr2=nichi|t2=sun; day|pos2=using the Chinese-derived reading}}.
+
+====Pronunciation====
+{{ja-pron|yomi=y|ひにち|acc=0|acc_ref=NHK,DJR}}
+
+====Noun====
+{{ja-noun|ひにち}}
+
+# a specific [[date]]
+#: {{ja-usex|'''日日'''を決める|'''ひにち''' を きめる|to set a '''date'''}}
+# [[days]]
+#: {{ja-usex|骨折が直るまでどのくらい'''日日'''が掛かったの？|^こっせつ が なおる まで どの くらい '''ひにち''' が かかった の？|How many '''days''' did it take for your broken bone to heal?}}
+
+=====Usage notes=====
+Often spelled {{m|ja|日にち}} to avoid [[ambiguity]].
+
+=====Synonyms=====
+* {{sense|date}} {{ja-r|日取り|ひどり}}, {{ja-r|期日|きじつ}}
+* {{sense|days}} {{ja-r|日数|にっすう}}, {{ja-r|日数|ひかず}}
+
+===References===
+<references/>
+
+[[ko:日日]]
+[[zh:日日]]

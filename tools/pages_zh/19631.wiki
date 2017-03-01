@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|澀}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=13|sn=16|four=34161|canj=EGOW}}
+
+====References====
+* {{Han ref|kx=0654.270|dkj=18448|dj=1065.050|hdz=31754.020|uh=6FC7|ud=28615|bh=E9EC|bd=59884}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|嗇|c1=s|c2=p|t1=water|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=sè
+|c=sik1,saap3,sap1,gip3
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|of surfaces}} [[rough]]; [[grating]]; [[uneven]]
+# {{zh-alt-form|澀|[[astringent]]}}
+
+====Compounds====
+{{zh-der|濇脈}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水13}}
+
+# {{defn|lang=ja|sort=水13}}
+
+====Readings====
+* {{ja-readings|on=[[しょく]] (shoku), [[しき]] (shiki), [[しゅう]] (shū)|kun=[[とどこおる]] (todokooru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=색|eumhun=|rv=saek|mr=saek|y=sayk}}
+
+# {{defn|lang=ko|sort=水13}}
+
+[[fr:濇]]
+[[hu:濇]]
+[[pl:濇]]
+[[th:濇]]
+[[zh:濇]]

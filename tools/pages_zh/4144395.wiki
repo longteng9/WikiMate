@@ -1,0 +1,44 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuánběn
+|c=jyun4 bun2
+|h=pfs=ngièn-pún
+|mn=goân-pún
+|cat=n,adv
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[master]] [[copy]], [[original]] [[document]]
+
+===Adverb===
+{{zh-adv}}
+
+# [[originally]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|げん|ほん|k2=ぽん|yomi=on}}
+
+===Noun===
+{{ja-noun|げんぽん}}
+
+# The [[original]] item.
+# The original, [[untranslated]], [[unrevised]], [[unabridged]] edition of a [[book]].
+
+====Synonyms====
+* {{sense|original item}} {{ja-r|原物|げんぶつ}}, {{ja-r|オリジナル}}
+* {{sense|original book}} {{ja-r|原書|げんしょ}}, {{ja-r|正本|せいほん}}, {{ja-r|原版|げんばん}}
+
+===References===
+* {{R:Meikyo}}
+
+[[zh-min-nan:原本]]
+[[ko:原本]]
+[[ja:原本]]
+[[zh:原本]]

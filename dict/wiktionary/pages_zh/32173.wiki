@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=07|sn=18|four=23327|canj=NFIJB|ids=⿰魚甫}}
+
+# the skate or ray
+
+====References====
+* {{Han ref|kx=1471.120|dkj=46177|dj=2003.300|hdz=74690.070|uh=9BC6|ud=39878|bh=F1C4|bd=61892}}
+
+----
+
+==Chinese==
+{{zh-forms|s=𫚙}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=pū,bū
+|c=pou1,bou1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=魚07}}
+
+====Readings====
+{{ja-readings
+|goon=[[ふ]] (fu)
+|kanon=[[ほ]] (ho)
+|kun=[[いるか]] (iruka)
+}}
+
+===Noun===
+{{ja-kanjitab|yomi=k|いるか}}
+{{ja-noun|いるか|イルカ}}
+
+# {{alternative spelling of|lang=ja|sort=いるか|海豚}}: a [[dolphin]] or [[porpoise]]
+#: See the {{ja-l|海豚}} entry for more details.
+
+[[Category:ja:Cetaceans|いるか]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=포|eumhun=|rv=po|mr=p'o|y=pho}}
+
+# {{defn|lang=ko|sort=魚07}}
+
+[[es:鯆]]
+[[fr:鯆]]
+[[hu:鯆]]
+[[mg:鯆]]
+[[ja:鯆]]
+[[pl:鯆]]
+[[th:鯆]]
+[[zh:鯆]]

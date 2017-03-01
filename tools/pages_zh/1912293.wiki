@@ -1,0 +1,21 @@
+{{also|区域网路}}
+==Chinese==
+{{zh-forms|s=区域网路|type=22}}
+
+===Pronunciation===
+{{zh-pron
+|m=qūyù wǎnglù
+|c=keoi1 wik6 mong5 lou6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|computing}} [[local area network]]; [[LAN]] {{zh-mw|m:個|m:片}}
+
+====Synonyms====
+* {{zh-l|局域網}}
+
+[[ja:區域網路]]
+[[zh:區域網路]]

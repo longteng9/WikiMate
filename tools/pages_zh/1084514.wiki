@@ -1,0 +1,44 @@
+==Japanese==
+{{ja-kanjitab|じつ|k1=じっ|ち|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=しっち'}} {{m|ltc|實地}}. Compare modern {{etyl|cmn|-}} simplified {{m|cmn|实地|tr=shídì}} and traditional {{m|cmn|實地|tr=shídì}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|じっち|acc=0|acc_ref=DJR,NHK}}
+* {{qualifier|rare, dialect}} {{IPA|lang=ja|[d͡ʑit͡sɯᵝd͡ʑi]}} (''romaji'' '''jitsuji''')
+
+===Noun===
+{{ja-noun|じっち}}
+
+# the [[actual]] [[site]] where something occurs: [[on the ground|(on) the ground]], [[firsthand]]
+# [[practice]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-l|実地検証|じっちけんしょう|jitchi kenshō}}: an [[on-site]] [[investigation]]
+* {{ja-l|実地検証|じっちけんぶん|jitchi kenbun}}: a [[firsthand]] [[inspection]]
+* {{ja-l|実地検証|じっちくんれん|jitchi kunren}}: [[on-the-job]] [[training]]
+* {{ja-l|実地試験|じっちしけん|jitchi shiken}}: a [[practical]] [[test]]
+* {{ja-l|実地調査|じっちちょうさ|jitchi chōsa}}: an [[on-site]] [[survey]]
+* {{ja-l|実地天文学|じっちてんもんがく|jitchi tenmongaku}}: [[field]] [[astronomy]]
+* {{ja-l|実地踏査|じっちとうさ|jitchi tōsa}}: an [[on-site]] [[exploration]] or [[search]]
+{{der-bottom}}
+
+====Idioms====
+* {{ja-l|実地を踏む|じっちをふむ|jitchi o fumu}}: “to tread on the actual ground” → to have [[practical]], [[real-world]] [[experience]] in something
+* {{ja-l|実地に移す|じっちにうつす|jitchi ni utsusu}}: “to move (something) to the actual site” → to [[put into practice]]
+* {{ja-l|実地に役立つ|じっちにやくだつ|jitchi ni yakudatsu}}: “to be useful in the actual place” → to be of [[practical]] [[use]]
+
+====Synonyms====
+* {{sense|actual site}} {{ja-l|現場|げんば|genba}}
+
+===Proper noun===
+{{ja-pos|proper|みち}}
+
+# {{given name|lang=ja|sort=みち|female}}
+
+===References===
+<references/>
+
+[[zh:実地]]

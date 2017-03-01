@@ -1,0 +1,135 @@
+{{character info/new}}
+{{also|鐵}}
+==Translingual==
+{{Han simplified forms|鐵|鉄|铁}}
+
+===Alternative forms===
+* {{l|mul|銕}}
+* {{l|mul|鐡}}
+* {{l|mul|鋨}}
+* {{l|mul|锇}}
+* {{l|mul|鉃}}
+
+===Etymology===
+{{Han simp|鐵|f=𢧜|t=失}}.
+
+===Han character===
+{{Han char|rn=167|rad=金|as=05|sn=13|four=|canj=CHQO|ids=⿰金失}}
+
+====References====
+* {{Han ref|kx=1300.140|dkj=40285|dj=1802.260|hdz=64186.140|uh=9244|ud=37444}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=金05|style=s|kyu=鐵}}
+
+# [[iron]]
+
+====Readings====
+{{ja-readings
+|goon=[[てち]] (techi)
+|kanon=[[てつ]] (tetsu)
+|kun=[[くろがね]] (kurogane), [[かね]] (kane)
+|nanori=[[けん]] (ken), [[てつ]] (tetsu)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|鉄扇|てっせん}}: A Japanese war fan
+* {{ja-r|地下鉄|ちかてつ}}: [[subway]], [[underground]] [[railway]]
+{{der-bottom}}
+
+===Etymology 1===
+<div style="float:right;">
+{{elements|Fe|{{ja-r|マンガン}}|Mn|{{ja-r|コバルト}}|Co|lang=ja|sort=てつ}}
+{{wikipedia|lang=ja}}
+{{wikipedia|Iron}}
+</div>
+{{ja-kanjitab|てつ|yomi=o}}
+
+{{bor|ja|ltc|sort=てつ|鐵|tr={{IPAchar|/tʰet̚/}}||iron}}. Compare modern {{etyl|cmn|-}} reading ''tiě'', {{etyl|hak|-}} ''thiet''.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|てつ|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|てつ|kyu=鐵}}
+
+# [[iron]], the [[metal]] and the [[metallic]] [[chemical element]]
+# {{qualifier|more generally}} [[steel]]
+# {{qualifier|figuratively}} a [[blade]], a [[knife]], a [[sword]], a [[weapon]]
+# {{qualifier|figuratively}} something extremely [[strong]]
+# short for {{m|ja|鉄色|tr=tetsu iro||steely black}}
+# short for {{m|ja|鉄砲|tr=teppō|pos=literally “cannon”, but in this case, refers to the poisonous ''[[fugu]]'' blowfish or dishes made from it}}
+
+=====Idioms=====
+* {{ja-r|鉄は熱いうちに打て|てつ は あつい うち に うて}}: “[[strike while the iron is hot]]”
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|くろがね|r=y}}
+
+Compound of {{compound|lang=ja|sort=くろがね|黒|tr1=kuro|t1=black|金|tr2=kane|t2=metal}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> {{rendaku2|kane|gane|sort=くろがね}} Compare the ''black'' in {{cog|en|blacksmith}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|くろがね|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{l|ja|黒金}}
+
+====Noun====
+{{ja-noun|くろがね|kyu=鐵}}
+
+# {{lb|ja|sort=くろがね|archaic}} [[iron]]
+# {{qualifier|figuratively}} something extremely [[strong]]
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|かね}}
+
+From {{etyl|ojp|ja|sort=かね}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The four kanji spellings of this term, {{m|ja|金||gold}}, {{m|ja|銀||silver}}, {{m|ja|銅||copper}}, and {{lang|ja|鉄}} (“iron”), hint at the importance of each of these four metals in ancient Japan.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|かね|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{l|ja|金}}, {{l|ja|銀}}, {{l|ja|銅}}
+
+====Noun====
+{{ja-noun|かね|kyu=鐵}}
+
+# {{alternative spelling of|lang=ja|金|dot=:}} [[metal]]; [[money]]
+
+=====Usage notes=====
+The {{l|ja|金}} spelling is the most common for this term.
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|てつ]]
+[[Category:ja:Metals|てつ]]
+
+[[ast:鉄]]
+[[fr:鉄]]
+[[ko:鉄]]
+[[sw:鉄]]
+[[la:鉄]]
+[[lt:鉄]]
+[[li:鉄]]
+[[hu:鉄]]
+[[mg:鉄]]
+[[nl:鉄]]
+[[ja:鉄]]
+[[pl:鉄]]
+[[ro:鉄]]
+[[ru:鉄]]
+[[fi:鉄]]
+[[sv:鉄]]
+[[th:鉄]]
+[[chr:鉄]]
+[[tr:鉄]]
+[[uk:鉄]]
+[[zh:鉄]]

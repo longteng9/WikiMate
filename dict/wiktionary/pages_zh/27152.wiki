@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|谎}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=10|sn=17|four=04611|canj=YRTYU|ids=⿰言荒}}
+
+# [[lie]]
+
+====References====
+* {{Han ref|kx=1174.260|dkj=35850|hdz=63995.020|uh=8B0A|ud=35594|bh=C1C0|bd=49600}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谎}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huǎng
+|c=fong1,fong2
+|mn=hong/hóng
+|mn-t=huang1
+|w=2huaan
+|mc=
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[lie]]; [[untruth]]
+
+====Compounds====
+{{zh-der|圓謊|彌天大謊|弔謊|告謊假|扯謊撩白|搗謊|打謊|測謊器|撒謊|測謊機|空頭謊|架謊鑿空|白謊|搗謊駕舌|掰謊|扯謊|訛言謊語|謊徹梢虛|謊話連篇|謊子|謊言|謊敲才|謊喳呼|謊詐|謊價|謊花|謊話|謊報|調謊|說謊}}
+
+===References===
+* {{R:yue:Hanzi}}
+* {{thcwdq}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言10}}
+
+# {{defn|lang=ja|sort=言10}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[いつわる]] (itsuwaru)|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=言10| hanviet = hoang}}
+
+# {{defn|vi|sort=言10}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:謊]]
+[[hu:謊]]
+[[pl:謊]]
+[[th:謊]]
+[[zh:謊]]

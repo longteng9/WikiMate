@@ -1,0 +1,60 @@
+{{also|论理}}
+==Chinese==
+{{zh-forms|s=论理}}
+
+===Pronunciation===
+{{zh-pron
+|m=lùnlǐ
+|c=leon6 lei5
+|mn=lūn-lí
+|cat=v,adv,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[reason]] with; to [[bring round]]
+
+===Adverb===
+{{zh-adv}}
+
+# [[normally]]; [[should]]
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|obsolete}} [[logic]]
+
+====Derived terms====
+{{zh-der|論理學}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ろん|り|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=ろんり}} compound {{m|zh|論理|tr=luon li<sup>X</sup>|lit=debate, theory + reason, principle}}.  Compare modern {{etyl|cmn|-}} reading ''lùnlǐ''.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|ろんり|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ろんり}}
+
+# [[logic]], [[reason]]
+
+===Related terms===
+* {{ja-r|論理学|ろんりがく}}: the study or field of mathematical logic
+
+===References===
+<references/>
+
+[[cs:論理]]
+[[ko:論理]]
+[[lo:論理]]
+[[lt:論理]]
+[[hu:論理]]
+[[mg:論理]]
+[[ja:論理]]
+[[ru:論理]]

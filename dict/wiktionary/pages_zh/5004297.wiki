@@ -1,0 +1,27 @@
+==Japanese==
+{{ja-kanjitab|yomi=irr|sort=ひ}}
+
+===Etymology===
+From {{etyl|ojp|ja|sort=ひ}}. Derivation {{unk.|lang=ja|sort=ひ|nocap=1}}. Found in the {{w|Wamyō Ruijushō}} [[kanji]] [[dictionary]] of 938.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+The spelling appears to be an example of [[jukujikun]], using the Chinese characters {{m|zh|目||eye}} + {{m|zh|翳||shade; screen; cataract}}.
+
+===Pronunciation===
+{{ja-pron|yomi=irr|ひ}}
+
+===Noun===
+{{ja-noun|ひ}}
+
+# {{lb|ja|sort=ひ|archaic|possibly|_|obsolete}} [[cataracts]]: [[cloudy]] [[aberration]]s in the [[eye]], ultimately causing [[blindness]]
+
+====Synonyms====
+* {{ja-r|内障眼|そこひ}}, {{ja-r|内障|そこひ}}, {{ja-r|内障|そこひ}}: [[cloudiness]] occurring behind the lens, within the [[eyeball]]: [[glaucoma]] {{qualifier|for green cloudiness}}, [[cataracts]] {{qualifier|for white cloudiness}}, [[amaurosis]] {{qualifier|for black cloudiness}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|内障眼|そこひ}}, {{ja-r|内障|そこひ}}, {{ja-r|内障|そこひ}}, {{ja-r|底翳|そこひ}}: [[cloudiness]] occurring behind the lens, within the [[eyeball]]: [[glaucoma]] {{qualifier|for green cloudiness}}, [[cataracts]] {{qualifier|for white cloudiness}}, [[amaurosis]] {{qualifier|for black cloudiness}}
+* {{ja-r|外障眼|うわひ}}, {{ja-r|上翳|うわひ}}: [[cloudiness]] occurring in front of the lens: [[corneal]] [[clouding]]
+{{der-bottom}}
+
+===References===
+<references/>

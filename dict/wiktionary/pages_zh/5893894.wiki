@@ -1,0 +1,24 @@
+==Chinese==
+{{zh-forms|gloss=-}}
+
+===Glyph origin===
+An enclosed ({{zh-l|*囗}}) representation of the idiom {{zh-l|四方八面|[[all around]]; in [[all]] [[direction]]s}}.
+
+===Etymology===
+From {{der|zh|mn|ᠬᠦᠷᠢᠶ᠎ᠡ||enclosure; area}}, whence Khalkha {{cog|mn|хүрээ}}. Hence a variant of {{zh-l|庫倫|''used in placenames''}}.
+
+Alternatively, as a {{w|zh:分音詞|disyllabic Jin derivative}} of {{och-l|圈|circle}} which has preserved the ''-l-'' infix in Old Chinese ({{zh-ref|Qiao, 2008}}).
+
+===Pronunciation===
+{{zh-pron
+|m=kūlüè
+|j=kueh4 lye3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Jin}} [[enclosed]] [[yard]] or [[grassland]]; {{n-g|chiefly used in placenames in [[Shanxi]] and [[Inner Mongolia]]}}
+
+[[zh:圐圙]]

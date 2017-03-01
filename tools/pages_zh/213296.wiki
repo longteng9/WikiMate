@@ -1,0 +1,179 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wàirén
+|c=ngoi6 jan4
+|h=pfs=ngoi-ngìn
+|mn=gōa-lâng/xm:gōa-lîn/zz:gōa-jîn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[outsider]]; stranger
+# non-family member
+
+====Antonyms====
+* {{zh-l|自己人}}
+
+====See also====
+* {{zh-l|內人}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|外|人}}
+{{wikipedia|Gaijin}}
+
+===Etymology 1===
+/gwaizin/ > /gaizin/ [gaidʑin]. Literally ''outside person''. From the late 19th on also used as an abbreviation for {{m|ja|外国人|tr=gaikokujin}}.
+
+====Pronunciation====
+* {{IPA|[ɡaid͡ʑin]|lang=ja}}
+
+====Noun====
+{{ja-noun|がいじん|hhira=ぐゎいじん}}
+
+# outsider; an estranged, unfamiliar person
+#* 995-999: [[w:Fusōshū|Fusōshū]] (volume 9; Gunsho Ruijū volume 8, page 578)
+#*: 口畔懸河渉漢深。春杉拭盞就花陰。'''外人'''傾耳猶添愛、況是堂中父母心。
+#* c. 13th century: [[w:Heike Monogatari|Heike Monogatari]] (volume 1, page 123)
+#*: しかるに其恩をわすれて、'''外人'''もなき所に兵具をとゝのへ、軍兵をかたらひをき、其營みの他は他事なし。
+#* c. 1349: [[w:Renri Hishō|Renri Hishō]] (page 38)
+#*: 但、'''外人'''など上手おほからむ座にては、聊か斟酌すべし
+#* 1597: Ekirin [[w:Setsuyōshū|Setsuyōshū]] (page 133)
+#*: '''外人''' (グワイジン)
+#* {{RQ:Nippo Jisho|314}}
+#*: '''Guaijin''', <small>グヮイジン</small>(外人) Focano fito. (他の人) 他国の人、すなわち、土着の人ではない者.
+#* 1617: Gennabon [[w:Kagakushū|Kagakushū]] (page 73)
+#*: '''外人''' (グワイジン) 他人也
+# an abbreviation for [[外国人]]; a person from a foreign country; an alien, a foreign national; a person who is not Japanese
+#* 1875: 文明論之概略 (page 18)
+#*: 譬えば頑固なる士民は外国人を悪むを以て常とせり。又学者流の人にても少しく見識ある者は'''外人'''の挙動を見て決して心酔するに非ず，之を悦ばざるの心は彼の頑民に異なることなしと云うも可なり。
+
+=====Synonyms=====
+* {{l|ja|異人|tr=ijin}}
+* {{l|ja|外国人|tr=gaikokujin}}
+* {{l|ja|異国人|tr=ikokujin}}
+* {{l|ja|異邦人|tr=ihōjin}}
+
+=====Related terms=====
+{{rel-top}}
+* {{l|ja|外人記者|tr=gaijinkisha}}
+* {{l|ja|外人選手|tr=gaijinsenshu}}
+* {{l|ja|外人部隊|tr=gaijinbutai}}
+* {{l|ja|外人向き|tr=gaijimmuki}}
+{{rel-mid}}
+* {{l|ja|外人向け|tr=gaijimmuke}}
+* {{l|ja|内外人|tr=naigaijin}}
+* {{l|ja|不良外人|tr=furyōgaijin}}
+{{rel-bottom}}
+
+===Etymology 2===
+Adjective {{m|ja|疎い|tr=utoi||unacquainted}} in attributive form and {{m|ja|人|tr=hito||person}}.
+
+====Noun====
+{{ja-noun|うとき ひと}}
+
+# an estranged, unfamiliar person
+#* c. 11th century: [[w:Ruiju Myōgishō|Ruiju Myōgishō]]
+#*: '''外人'''<small>ウトキ人</small>
+
+===References===
+* {{R:Nippo Jisho}}
+* {{cite-book
+|last=Fukuzawa
+|first=Yukichi
+|authorlink=w:Fukuzawa Yukichi
+|title=Bunmeiron no Gairyaku
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|date=1995
+|origyear=1875
+|location=Tōkyō
+|isbn=4-00-331021-7
+}}
+* {{cite-book
+|last=Hanawa
+|first=Hokiichi
+|title=Gunsho Ruijū
+|volume=8
+|publisher=Zoku Gunsho Ruijū Kanseikai
+|date=1960
+|location=Tōkyō
+}}
+* {{cite-book
+|last=Kamei
+|first=Takashi
+|title=Kagakushū: Gennabon
+|publisher=Iwanami Shoten
+|date=1944
+|origyear=1617
+|location=Tōkyō
+}}
+* {{cite-book
+|last=Kidō
+|first=Saizō
+|coauthors=Imoto Nōichi
+|title=Iwanami Nihon Koten Bungaku Taikei: Renga Ronshū, Haironshū
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|year=1961
+|language=Japanese
+|isbn=4-00-060066-4
+}}
+* {{cite-book
+|last=Takagi
+|first=Ichinosuke
+|coauthors=Masao Ozawa, Kaoru Atsumi, Haruhiko Kindaichi
+|title=Nihon Koten Bungaku Taikei 32: [[w:Heike Monogatari|Heike Monogatari]] 1
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|date=1959
+|isbn=4-00-060032-X
+|language=Japanese
+}}
+* {{cite-book
+|last=Tasaka
+|first=Junko
+|title=Fusōshū: Kōhon to Sakuin
+|publisher=Tōka Shobō
+|date=1985
+|origyear=995-999
+|location=Fukuoka
+}}
+* {{cite-book
+|title=Fukkoku Nihon Koten Zenshū: Setsuyōshū
+|publisher=Gendai Shichō Shinsha
+|date=2006
+|origyear=1597
+|location=Tōkyō
+|isbn=4-329-02519-1
+}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=외인}}
+
+# {{hanja form of|외인|[[foreigner]], [[alien]]}}
+
+[[zh-min-nan:外人]]
+[[cs:外人]]
+[[fr:外人]]
+[[ko:外人]]
+[[lo:外人]]
+[[lt:外人]]
+[[li:外人]]
+[[mg:外人]]
+[[nl:外人]]
+[[ja:外人]]
+[[km:外人]]
+[[pt:外人]]
+[[ru:外人]]
+[[sv:外人]]
+[[chr:外人]]
+[[zh:外人]]

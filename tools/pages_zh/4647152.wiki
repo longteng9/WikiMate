@@ -1,0 +1,51 @@
+{{also|军费}}
+==Chinese==
+{{zh-forms|s=军费}}
+
+===Pronunciation===
+{{zh-pron
+|m=jūnfèi
+|c=gwan1 fai3
+|mn=kun-hùi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[military]] [[spending]], [[military]] [[expenditures]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=on|ぐん|ひ|k2=ぴ}}
+
+===Etymology===
+Probably from {{etyl|ltc|ja|sort=ぐんぴ}} compound {{m|zh|軍費|tr=kjun phjɨj<sup>H</sup>|lit=army + expenses}}.
+
+===Pronunciation===
+{{ja-pron|yomi=on|ぐんぴ|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ぐんぴ}}
+
+# [[military]] [[spending]], [[military]] [[expenditures]], [[war]] spending
+
+====Derived terms====
+* {{ja-r|軍費 賠償金|linkto=軍費賠償金|ぐんぴ ばいしょうきん}}: [[military]] [[reparations]], specifically reparations paid by a [[country]] that has lost a [[war]] to the country that won the war, as [[recompense]] for the winner's military expenditures
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab|}}
+
+===Noun===
+{{ko-noun|hj|hangeul=군비}}
+
+# {{hanja form of|군비|[[military]] [[spending]], [[military]] [[expenditures]]}}
+
+[[ko:軍費]]
+[[ja:軍費]]

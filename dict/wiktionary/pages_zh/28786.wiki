@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=11|sn=15|four=35306|canj=YTWA}}
+
+# [[come across]], [[meet]] with, [[encounter]]
+
+====References====
+* {{Han ref|kx=1264.060|dkj=39082|dj=1759.160|hdz=63875.040|uh=906D|ud=36973|bh=BE44|bd=48708}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|辵|alt1=辶|t1=movement|曹|ls=psc|c1=s|c2=p}} – to meet with (on the road).
+
+===Pronunciation===
+{{zh-pron
+|m=zāo
+|c=zou1
+|h=pfs=chô
+|md=
+|mn=qz:cho͘/tw,xm,zz:cho/qz,xm,zz:chau
+|mn_note=cho͘/cho - literary, chau - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=辵11}}
+
+# {{defn|lang=ja|sort=辵11}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[あう]] (au)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=辵11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|tao|rs=辵11}}
+
+# {{defn|lang=vi}}
+
+[[fr:遭]]
+[[ko:遭]]
+[[hu:遭]]
+[[mg:遭]]
+[[ja:遭]]
+[[no:遭]]
+[[pl:遭]]
+[[th:遭]]
+[[zh:遭]]

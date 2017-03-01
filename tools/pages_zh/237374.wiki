@@ -1,0 +1,39 @@
+==Japanese==
+{{ja-kanjitab|はい|し|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|はいし|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はいし}}
+
+# [[abolition]], [[abolishment]], [[abrogation]], [[discontinuance]], [[dissolution]], [[repeal]], [[elimination]] - removal of law or the social system structure
+
+====Synonyms====
+* {{l|ja|撤廃}}
+
+====Antonyms====
+* {{l|ja|設置}}
+* {{l|ja|設立}}
+* {{sense|especially laws}} {{l|ja|制定}}
+
+===Verb===
+{{ja-verb-suru|はいし}}
+
+# [[abolish]]; [[discontinue]]; [[dissolve]]
+
+====Conjugation====
+{{ja-suru|はいし}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[ko:廃止]]
+[[hu:廃止]]
+[[mg:廃止]]
+[[ja:廃止]]
+[[ro:廃止]]
+[[fi:廃止]]
+[[chr:廃止]]
+[[zh:廃止]]

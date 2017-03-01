@@ -1,0 +1,70 @@
+{{character info/new}}
+{{also|夸}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=06|sn=13|four=04627|canj=YRKMS|ids=⿰言夸}}
+
+# [[exaggerate]]
+# [[brag]], [[boast]]
+# [[flaunt]]
+
+====References====
+* {{Han ref|kx=1161.020|dkj=35474|dj=1625.280|hdz=63962.140|uh=8A87|ud=35463|bh=B8D8|bd=47320}}
+
+----
+
+==Chinese==
+{{zh-forms|s=夸}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|t1=words, language|夸|ls=psc|c1=s|c2=p}} – to speak boastfully.
+
+===Pronunciation===
+{{zh-pron
+|m=kuā
+|c=kwaa1
+|h=pfs=khôa
+|md=
+|mn=khoa
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=言06}}
+
+# {{defn|lang=ja|sort=言06}}
+
+====Readings====
+* {{ja-readings|goon=[[け]] (ke)|kanon=[[か]] (ka)|kanyoon=[[こ]] (ko)|kun=[[ほこる]] (hokoru), [[ほこり]] (hokori)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=과|eumhun=|rv=gwa|mr=kwa|y=kwa}}
+
+# {{defn|lang=ko|sort=言06}}
+
+[[fr:誇]]
+[[ko:誇]]
+[[hu:誇]]
+[[mg:誇]]
+[[ja:誇]]
+[[pl:誇]]
+[[th:誇]]
+[[zh:誇]]

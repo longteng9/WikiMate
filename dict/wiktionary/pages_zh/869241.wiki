@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|ぐ|たい|てき|yomi=on}}
+
+===Etymology===
+{{suffix|具体|的|lang=ja|t1=concrete|t2=-like|sort=くたいてき'}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|ぐたいてき}}
+
+# [[concrete]]
+#: {{ja-usex|'''具体的'''な例|'''ぐたいてき''' な れい|a concrete example}}
+# [[specific]]
+#* {{RQ:Obama enzetsu}}
+#*: {{ja-usex|具体的に述べよう。|ぐたいてき に のべよう。|Let me be specific.}}
+
+====Inflection====
+{{ja-na|ぐたいてき}}
+
+[[mg:具体的]]
+[[ja:具体的]]
+[[chr:具体的]]

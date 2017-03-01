@@ -1,0 +1,83 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xūyào
+|ma=Zh-xūyào.ogg
+|c=seoi1 jiu3
+|h=pfs=sî-yeu
+|mn=qz,tw,xm:su-iàu/zz:si-iàu
+|w=1xy iau
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[need]]; to [[require]]
+#: {{zh-x|我 需要 一 位 口譯員。|I '''need''' an interpreter.}}
+
+===Noun===
+{{zh-noun}}
+
+# [[need]]; [[requirement]]
+#: {{zh-x|生理 需要|biological '''need'''}}
+# {{lb|zh|economics}} [[demand]]
+
+===Derived terms===
+{{zh-der|需要是發明之母}}
+
+===Descendants===
+{{CJKV|需要|じゅよう|수요|nhu yếu}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じゅ|よう|yomi=on}}
+
+===Noun===
+{{ja-noun|じゅよう}}
+
+# [[need]], [[requirement]]
+# {{lb|ja|economics|sort=しゅよう'}} [[demand]]
+
+====Antonyms====
+* {{sense|economics}} {{ja-r|供給|きょうきゅう}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=수요}}
+
+# {{hanja form of|수요|[[need]], [[requirement]]; [[demand]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu|pos=adjective}}
+
+# {{han tu form of|nhu yếu|of prime necessity, necessary}}
+
+[[zh-min-nan:需要]]
+[[ko:需要]]
+[[io:需要]]
+[[kn:需要]]
+[[lt:需要]]
+[[hu:需要]]
+[[mg:需要]]
+[[fj:需要]]
+[[ja:需要]]
+[[ta:需要]]
+[[th:需要]]
+[[chr:需要]]
+[[uk:需要]]
+[[zh:需要]]

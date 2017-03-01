@@ -1,0 +1,66 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|yomi=o|ぐん|はい|k2=ばい|r=y}}
+[[File:Wakisaka_Yasumoto01.jpg|thumb|250px|{{lang|ja|軍配}}: a [[samurai]] using a '''''gunbai''' uchiwa'' to signal to his troops.]]
+{{wikipedia|Gunbai}}
+
+===Etymology===
+Appears to be a Japanese coinage from {{etyl|ltc|ja|sort=くんばい'}}-derived elements, as a compound of {{compound|lang=ja|sort=くんばい'|軍|tr1=gun|t1=army, military, troops|配|tr2=hai|t2=arrangement, positioning}}. {{rendaku2|sort=くんばい'|hai|bai}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|ぐんばい|acc=0|acc_ref=NHK,DJR|acc2=3|acc2_ref=NHK}}
+
+===Alternative forms===
+* {{ja-l|軍敗}} {{qualifier|less common}}
+
+===Noun===
+{{ja-noun|ぐんばい}}
+
+# the act of [[signal]]ing [[direction]]s or [[command]]s to an [[armed]] [[force]]
+# a person issuing such directions
+# the act of [[advance|advancing]] or [[retreat]]ing in [[response]] to the [[situation]]
+# the act of [[change|changing]] one's [[price]]s in [[response]] to the [[situation]]: [[bargaining]], [[haggling]]
+# short for {{m|ja|軍配団扇|tr=gunbai uchiwa}}: a [[lacquered]] [[rigid]] [[wooden]] [[fan]] used for [[signal]]ing
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|軍配糸蜻蛉|ぐんばい いと とんぼ}}: a type of [[damselfly]], {{taxlink|Platycnemis foliacea sasakii|species|noshow=1|ver=161226}}
+* {{ja-r|軍配団扇|ぐんばい うちわ}}: a [[lacquered]] [[rigid]] [[wooden]] [[fan]] used for [[signal]]ing
+* {{ja-r|軍配者|ぐんばいしゃ}}: a person issuing commands to a military force: a [[commander]]
+* {{ja-r|軍配凧|ぐんばいだこ}}: a [[kite]] in the shape of a ''gunbai uchiwa''
+* {{ja-r|軍配蜻蛉|ぐんばい とんぼ}}: a type of [[damselfly]], {{taxlink|Platycnemis foliacea sasakii|species|noshow=1|ver=161226}}
+* {{ja-r|軍配薺|ぐんばい なずな}}: the {{vern|field pennycress}}, ''[[Thlaspi arvense]]''
+* {{ja-r|軍配昼顔|ぐんばい ひるがお}}: the {{vern|beach morning glory}} or {{vern|goat's foot}}, a common [[tropical]] [[creeping]] [[vine]]: {{taxlink|Ipomoea pes-caprae|species|noshow=1|ver=161226}}
+* {{ja-r|軍配酸漿|ぐんばい ほおずき}}: the [[egg]] [[sac]] of [[marine]] [[whelk]]s of family ''{{taxlink|Melongenidae|family|noshow=1|ver=161226}}''
+* {{ja-r|軍配虫|ぐんばい むし}}: common name for a [[lace bug]], flying [[insect]]s of family ''{{taxlink|Tingidae|family|noshow=1|ver=161226}}''
+{{der-bottom}}
+
+====Idioms====
+{{der-top|Idioms}}
+* {{ja-r|軍配を上げる|ぐんばい を あげる}}: “to raise the ''gunbai (uchiwa)''” → to [[decide]] in [[favor]] of someone, such as in a [[competition]] {{qualifier|from the way the ''{{m|ja|行司|sc=Latn|gyōji}}'' or [[sumo]] [[referee]] raises the ''gunbai uchiwa'' to indicate a win}}
+* {{ja-r|軍配を返す|ぐんばい を かえす}}: “to turn over the ''gunbai (uchiwa)''” → to signal the start of a [[sumo]] match, once the initial start-up positioning time has run out
+{{der-bottom}}
+
+====Synonyms====
+* {{sense|advancing and retreating}} {{ja-r|駆け引き|かけひき}}
+* {{sense|changing prices}} {{ja-r|商略|しょうりゃく}}, {{ja-r|駆け引き|かけひき}}
+
+===Verb===
+{{ja-verb-suru|ぐんばい}}
+
+# to [[signal]] [[direction]]s or [[command]]s to an [[armed]] [[force]]
+# to [[advance]] or [[retreat]] in [[response]] to the [[situation]]
+# to [[change]] one's [[price]]s in [[response]] to the [[situation]]: to [[bargain]], to [[haggle]]
+
+====Conjugation====
+{{ja-suru|ぐんばい}}
+
+====Synonyms====
+* {{sense|to advance and retreat}} {{ja-r|駆け引き|かけひき}}
+* {{sense|to change prices}} {{ja-r|商略|しょうりゃく}}, {{ja-r|駆け引き|かけひき}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[zh:軍配]]

@@ -1,0 +1,107 @@
+{{character info/new}}
+{{also|洚}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=06|sn=9|four=34181|canj=ETC|ids=⿰氵共}}
+
+# [[vast]], [[immense]]
+# [[flood]], [[deluge]]
+
+====References====
+* {{Han ref|kx=0621.210|dkj=17402|dj=1017.130|hdz=31602.040|uh=6D2A|ud=27946|bh=AC78|bd=44152}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|t1=water|共|c2=p|c1=s|ls=psc}} – a flood.
+
+===Pronunciation===
+{{zh-pron
+|m=hóng
+|c=hung4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[洪波]]
+* [[洪大]]
+* [[洪都拉斯]]
+* [[洪恩]]
+* [[洪峰]]
+* [[洪福]]
+* [[洪荒]]
+* [[洪亮]]
+* [[洪量]]
+* [[洪流]]
+* [[洪炉]]
+* [[洪水]]
+* [[洪水猛兽]]
+* [[洪涛]]
+* [[洪灾]]
+* [[洪钟]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水06}}
+
+# {{defn|lang=ja|sort=水06}}
+
+====Readings====
+* {{ja-readings|goon=[[ぐ]] (gu) {{non-joyo-reading}}|kanon=[[こう]] (kō)|kun=[[おおみず]] (ōmizu)}}
+
+====Compounds====
+* {{ja-r|洪牙利|^ハンガリー}}
+* {{ja-r|洪水|こうずい}}
+* {{ja-r|洪積|こうせき}}
+* {{ja-r|洪積世|こうせきせい}}
+* {{ja-r|洪積層|こうせきそう}}
+* {{ja-r|洪大|こうだい}}
+* {{ja-r|日洪親善|^にっこう しんぜん}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=홍|eumhun=|rv=hong|mr=hong|y=hong}}
+
+# {{defn|lang=ko|sort=水06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hồng]], [[hòng]]|rs=水06}}
+
+# {{defn|lang=vi|sort=水06}}
+
+[[zh-min-nan:洪]]
+[[fr:洪]]
+[[ko:洪]]
+[[hu:洪]]
+[[mg:洪]]
+[[ja:洪]]
+[[no:洪]]
+[[pl:洪]]
+[[th:洪]]
+[[zh:洪]]

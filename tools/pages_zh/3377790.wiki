@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=nánxià
+|h=pfs=nàm-hâ
+|mn=lâm-hā
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to go [[south]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|なん|か|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|なんか|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|なんか}}
+
+# going [[south]]
+
+===Verb===
+{{ja-verb-suru|なんか}}
+
+# to go south
+
+====Conjugation====
+{{ja-suru|南下|なんか|nanka}}
+
+===References===
+<references/>
+
+[[ko:南下]]
+[[ja:南下]]
+[[zh:南下]]

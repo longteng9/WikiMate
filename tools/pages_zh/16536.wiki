@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|抠}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=11|sn=14|four=51016|canj=QSRR|ids=⿰扌區}}
+
+# [[raise]], [[lift]] up
+# [[tight-fisted]], [[stingy]]
+
+====References====
+* {{Han ref|kx=0451.240|dkj=12638|dj=0802.030|hdz=31943.040|uh=6473|ud=25715|bh=E1E0|bd=57824}}
+
+----
+
+==Chinese==
+{{zh-forms|s=抠}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kōu
+|c=kau1
+|h=pfs=
+|md=
+|mn=khau
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手11}}
+
+# raise
+# lift up
+# tight-fisted
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[く]] (ku), [[おう]] (ō), [[う]] (u)|kun=[[ひろう]] (hirou)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# pull up, lift up
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khua]], [[khu]], [[so]], [[xô]], [[xua]], [[đùa]], [[khùa]], [[khuá]], [[sù]]|rs=手11}}
+
+# {{defn|lang=vi|sort=手11}}
+
+[[zh-min-nan:摳]]
+[[fr:摳]]
+[[hu:摳]]
+[[mg:摳]]
+[[pl:摳]]
+[[th:摳]]
+[[zh:摳]]

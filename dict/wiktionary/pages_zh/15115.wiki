@@ -1,0 +1,120 @@
+{{character info/new}}
+{{also|廾}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=55|rad=廾|as=01|sn=4|four=44770|canj=T}}
+
+# [[twenty]], [[twentieth]]
+
+====References====
+* {{Han ref|kx=0353.100|dkj=09586|dj=0668.090|hdz=10059.020|uh=5EFF|ud=24319|bh=A4DC|bd=42204}}
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Contraction of {{zh-l|二十}}.
+
+===Pronunciation===
+{{zh-pron
+|m=niàn
+|c=jaa6,je6,jap6,nim6
+|h=
+|mn=jia̍p/lia̍p
+|mn-t=riab8/rih8/niam6
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=num,a
+}}
+
+===Numeral===
+{{zh-num}}
+
+# [[twenty]]
+
+====Usage notes====
+* In Mandarin, it is sometimes pronounced ''èrshí'' ({{zh-l|二十}})
+
+====See also====
+* {{zh-l|二十}}
+* {{zh-l|卅}}, {{zh-l|卌}}
+
+===References===
+* {{thcwd|799}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=廾01}}
+
+# [[twenty]]
+
+====Readings====
+* {{ja-readings|on=[[じゅう]] (jū), [[にゅう]] (nyū)|kun=[[にじゅう]] (nijuu)|nanori=[[はつ]], (hatsu)}}
+
+====Derived terms====
+* {{ja-r|廿日|はつか}}: 20th day of the [[month]]
+
+====References====
+{{ja-kref
+|jis=467B
+|ku=3891
+|shift=93F9
+|euc=C6FB
+|freq=''not ranked''
+|nelson=1550
+|newnelson=1662
+|halpern=3449
+|kld=''not listed''
+|heisig=1190
+|tuttle=0a4.36
+}}
+
+===Noun===
+{{ja-noun|はたち}}
+
+# [[twenty]] [[years]] [[old]] {{lb|ja|archaic|sort=はたち}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 廿]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=입|rv=ip|mr=ip}}
+
+# {{defn|lang=ko|sort=廾01}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=廾01|hanviet=[[niệm]], [[trấp]], [[trập]], [[nhập]], [[chấp]]}}
+
+# {{defn|lang=vi|sort=廾01}}
+
+[[zh-min-nan:廿]]
+[[fr:廿]]
+[[ko:廿]]
+[[lt:廿]]
+[[li:廿]]
+[[hu:廿]]
+[[mg:廿]]
+[[ja:廿]]
+[[pl:廿]]
+[[ru:廿]]
+[[th:廿]]
+[[zh:廿]]

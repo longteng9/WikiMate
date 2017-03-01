@@ -1,0 +1,106 @@
+{{character info/new}}
+{{also|鄕|鄉|乡}}
+==Translingual==
+{| class="floatright" border=1 cellpadding="5" cellspacing="0"
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Simplified Chinese|Simplified]]'''
+|<span class="Hans" lang="zh-hans" style="font-size: 175%">[[乡]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Traditional Chinese|Traditional]]'''
+|<span class="Hant" lang="zh-hant" style="font-size: 175%">[[鄉]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Japanese]]'''
+|<span class="Jpan" lang="jp" style="font-size: 175%">[[郷]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Korean]]'''
+|<span class="Hant" lang="zh-Hant" style="font-size: 175%">[[鄕]]</span>
+|}
+
+===Han character===
+{{Han char|rn=163|rad=邑|as=08|sn=11|four=|canj=VHAIL}}
+
+# [[country]]
+# [[rural]]
+# [[village]]
+
+====References====
+* {{Han ref|kx=1273.271|dkj=39498|dj=1772.160|hdz=63782.070|uh=90F7|ud=37111}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=[[hoeng1]]|y=heung1}}
+
+# {{defn|lang=yue|sort=邑08}}
+
+====References====
+* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 3), p. 221]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=邑08}}
+
+====Readings====
+* {{ja-readings|goon=[[こう]] (kō)|kanon=[[きょう]] (kyō)|kanyoon=[[ごう]] (gō)|kun=[[さと]] (sato)|nanori=[[くに]] (kuni), [[こう]] (kō), [[みさと]] (misato)}}
+
+====Compounds====
+{{top3}}
+* [[郷里]] (''kyōri''): one's old home
+* [[郷土]] (''kyōdo''): one's birthplace
+* [[郷愁]] (''kyōshū''): homesickness, nostalgia
+{{mid3}}
+* [[故郷]] (''kokyō''): hometown, birthplace
+* [[帰郷]] (''kikyō''): homecoming
+* [[愛郷心]] (''aikyōshin''): love of one's hometown
+{{mid3}}
+* [[同郷人]] (''dōkyōjin''): person from the same province
+* [[本郷]] (''hongō'')
+{{bottom}}
+
+===Noun===
+{{ja-noun|きょう}}
+
+# [[hometown]]
+
+{{ja-noun|さと}}
+
+# village
+
+{{ja-noun|ごう}}
+
+# [[country]] [[home]], [[village]], [[countryside]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=향|eumhun=|rv=hyang|mr=hyang|y=hyang}}
+
+# {{defn|lang=ko|sort=邑08}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[xiāng]] ([[xiang1]])|wg=hsiang<sup>1</sup>}}
+
+# {{defn|lang=cmn|sort=邑08}}
+
+[[fr:郷]]
+[[hu:郷]]
+[[mg:郷]]
+[[ja:郷]]
+[[pl:郷]]
+[[th:郷]]
+[[zh:郷]]

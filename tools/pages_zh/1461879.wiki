@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|く|み|と|k3=ど|yomi=k}}
+
+===Etymology===
+Compound of the verb {{m|ja|組む||tr=kumu|unite}} in adverbial form and the noun {{m|ja|処||tr=to|place}}.
+
+===Noun===
+{{ja-noun|くみど}}
+
+# {{lb|ja|archaic|sort=くみど}} a couples bedroom
+#* 712: {{w|Kojiki}}
+#*: 雖然'''久美度'''邇<small>此四字以音。</small>興而生子、水蛭子。
+
+===References===
+* {{cite-book
+|last=Kurano
+|first=Kenji
+|coauthors=Yūkichi Takeda
+|title=Nihon Koten Bungaku Taikei 1: [[w:Kojiki|Kojiki]]
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|year=1958
+|location=[[w:Tōkyō|Tōkyō]]
+|isbn=4-00-060001-X
+}}

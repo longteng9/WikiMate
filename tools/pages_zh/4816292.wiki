@@ -1,0 +1,49 @@
+==Japanese==
+
+===Etymology===
+<div style="float:right;">
+{{wikipedia|lang=ja|トド|胡獱 (Steller sea lion)}}
+{{wikipedia|Steller sea lion}}
+[[File:Steller_sea_lions_(Eumetopias_jubatus)_on_rocks.jpg|thumb|250px|{{lang|ja|海馬}} (''todo''): a female and male '''[[Steller sea lion]]'''.]]
+</div>
+{{ja-kanjitab|yomi=irr|sort=とど}}
+
+{{bor|ja|ain|sort=とど|トド|tr=todo}} or {{m|ain|トト|tr=toto||sea lion}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> The kanji spelling is an instance of {{juku|sort=とど}} from the older term ''kohin'' (see below).
+
+====Pronunciation====
+{{ja-pron|y=i|とど|acc=1|acc_ref=DJR}}
+* {{hmp|lang=ja|椴|鯔}}
+
+====Alternative forms====
+* {{ja-l|海馬}}
+
+====Noun====
+{{ja-noun|とど|トド}}
+
+# a {{l|en|Steller sea lion}}
+
+=====Usage notes=====
+{{U:ja:biology|トド}} The kanji spellings are rare. When written in kanji, the {{lang|ja|胡獱}} spelling may be more common, likely to avoid confusion with the alternate readings of the {{ja-l|海馬}} spelling of ''umiuma'' and ''kaiba''.
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|こ|ひん}}
+
+Appears to be a coinage in Japan of {{cog|ltc|-}}-derived elements, as a compound of {{compound|lang=ja|sort=こひん|胡|tr1=ko|t1=reckless|獱|tr2=hin|t2=otter|pos2=by extension, in reference to a marine mammal}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|こひん}}
+
+====Noun====
+{{ja-noun|こひん}}
+
+# {{lb|ja|sort=こひん|archaic|possibly|_|obsolete}} a {{l|en|Steller sea lion}}
+
+=====Usage notes=====
+The ''kohin'' reading has been {{l|en|supersede}}d by the {{cog|ain|-}} borrowing ''todo'' above.
+
+===References===
+<references/>
+
+{{C|ja|Eared seals}}
+
+[[es:胡獱]]

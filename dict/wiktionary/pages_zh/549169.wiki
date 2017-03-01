@@ -1,0 +1,58 @@
+{{also|听讲}}
+==Chinese==
+{{zh-forms|s=听讲}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=tīngjiǎng
+|c=teng1 gong2,ting1 gong2,ting3 gong2
+|c_note=teng1 gong2 - vernacular; ting1 gong2, ting3 gong2 - literary
+|h=pfs=thâng-kóng
+|mn=thiaⁿ-káng
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[attend]] a [[lecture]]; to [[listen]] to a [[talk]]
+
+===Pronunciation 2===
+{{zh-pron
+|c=teng1 gong2
+|h=pfs=thâng-kóng
+|mn=xm,zz,tw:thiaⁿ-kóng
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|Cantonese|Hakka|Min Nan}} to [[hear]] it [[said]] that; to [[hear tell]]
+
+=====Synonyms=====
+{{zh-dial|聽說}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちょう|こう|yomi=on}}
+
+===Noun===
+{{ja-noun|ちょうこう|shin=聴講}}
+
+# lecture attendance; [[auditing]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=청강}}
+
+# {{hanja form of|청강|lecture attendance; [[auditing]]}}
+
+[[zh-min-nan:聽講]]
+[[ko:聽講]]
+[[ja:聽講]]

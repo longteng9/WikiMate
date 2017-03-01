@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|けつ|さい|k1=けっ|yomi=o}}
+
+===Noun===
+{{ja-noun|けっさい}}
+
+# [[settlement]] of payment
+
+===Verb===
+{{ja-verb-suru|tr=trans|けっさい}}
+
+# [[settle]] an account, make [[payment]]
+#: {{ja-usex|まとめて一度に決済する|まとめて いち ど に けっさい する|pay for everything at once}}
+
+====Conjugation====
+{{ja-suru|けっさい}}
+
+[[hu:決済]]
+[[zh:決済]]

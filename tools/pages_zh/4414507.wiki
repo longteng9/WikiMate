@@ -1,0 +1,64 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=nántiān
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# the [[southern]] [[skies]]
+# the southern areas (of China); {{w|Lingnan}}
+# {{non-gloss definition|See {{l|zh|南天竹}}.}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|ナンテン|ナンテン (the plant)}}
+{{wikipedia|Nandina}}
+[[File:Nandina_domestica_BotGardBln1105Leaves.JPG|thumb|250px|{{lang|ja|南天}} (''nanten''), the plant: the leaves, immature flowers, and branches of a '''nandina''' plant.]]
+</div>
+{{ja-kanjitab|なん|てん|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|yomi=on|acc=0|acc_ref=DJR|acc2=3|acc2_ref=DJR|なんてん}}
+
+===Etymology 1===
+From {{etyl|ltc|ja|sort=なんてん}} {{m|ltc|南天|tr=*nom *ten|lit=southern heavens}}. Compare modern {{cog|zh|南天|tr=nántiān}}.
+
+====Noun====
+{{ja-noun|なんてん}}
+
+# the [[southern]] [[skies]]
+
+===Etymology 2===
+Apparently ultimately an abbreviation of {{etyl|ltc|ja|sort=なんてん}} {{m|ltc|南天竹|tr=*nom *ten *djiuk}} or {{m|ltc|南天竺|tr=*nom *ten *djiuk?}}, referring to a type of plant similar to [[bamboo]], originating from an area further to the south (India or Indochina).<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Compare modern {{cog|zh|南天竹|tr=nántiān zhú}}.
+
+====Noun====
+{{ja-noun|なんてん}}
+
+# [[nandina]], [[heavenly bamboo]], {{vern|sacred bamboo}}: {{taxlink|Nandina domestica|species|noshow=1}}, a kind of [[flowering]] [[shrub]].
+# a kind of {{m|ja|家紋|tr=kamon||family crest}} featuring the nandina in the design.
+
+====Compounds====
+* {{ja-r|南天紋|なんてん もん}}: a kind of family crest featuring the nandina in the design.
+
+=====Usage notes=====
+In biology contexts, this term is spelled in katakana as {{ja-l|ナンテン}}.
+
+===References===
+<references/>
+
+===Proper noun===
+{{ja-noun|なんてん}}
+
+# {{given name|female|lang=ja|sort=なんてん}}.
+
+[[ko:南天]]
+[[ja:南天]]
+[[zh:南天]]

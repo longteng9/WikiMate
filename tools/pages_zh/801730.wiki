@@ -1,0 +1,21 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Shinobue}}
+[[Image:Shinobue 3types.jpg|thumb|right|250px|Three shinobue]]
+</div>
+{{ja-kanjitab|しの|ふえ|k2=ぶえ|yomi=k|r=y}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=しのぶえ|篠|tr1=shino|t1=a type of bamboo|笛|tr2=fue|t2=flute}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> {{rendaku2|sort=しのぶえ|fue|bue}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|しのぶえ|acc=0|acc_ref=DJR|acc2=3|acc2_ref=DJR}}
+
+===Noun===
+{{ja-noun|しのぶえ}}
+
+# {{lb|ja|sort=しのぶえ|musical instrument}} bamboo [[transverse]] [[flute]] used in Japanese [[folk music]]
+
+===References===
+<references/>

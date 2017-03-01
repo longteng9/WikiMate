@@ -1,0 +1,85 @@
+==Chinese==
+{{zh-forms|alt=胡蝶-obsolete,蝴蜨}}
+
+===Etymology===
+From Middle Chinese *''ɣo dep'' (first syllable unstressed), from Old Chinese *''ɡa-lep'', derived from a proto-form of *''kʰleːp'' ~ *''ɦleːp'', a prefixed form of the root *''lep'' ("wide, flat", represented by the phonetic element {{och-l|枼}}).
+
+Variants: {{och-l|蝶}}, {{och-l|蛺蝶|tr=*kep l’ep}}, {{och-l|蛺蜨|tr=*kep sep}}, representing different developments from the proto-form, including disyllabification, fricativisation of the voiceless initial, etc.
+
+Cognates from the same word family:
+* {{och-l|葉|leaf}}
+* {{och-l|鰈|flatfish, plaice}}
+* {{och-l|楪}} > {{och-l|碟|plate}}
+* {{och-l|牒|official document < plank}}.
+
+This word in Chinese descends from {{inh|zh|sit-pro|*lep||butterfly}}, also the source of
+* {{cog|bo|ཕྱེ་མ་ལེབ||butterfly}} and
+* {{cog|my|လိပ်ပြာ||butterfly}}.
+
+Outside Sino-Tibetan, compare Middle Korean
+* {{m|ko|나븨|tr=napuy||butterfly|pos=modern {{m|ko|나비}}}}
+* {{m|ko|닢|tr=nip||leaf|pos=modern {{m|ko|잎}}}}
+* {{m|ko|넙치|tr=neopchi||flatfish}},
+similarly derived from a similar-shaped adjective root {{m|ko|넙다|tr=nep-||to be wide, flat|pos=modern {{m|ko|넓다|tr=neol(p)-}}}}.
+
+===Pronunciation===
+{{zh-pron
+|m=húdié,er=y
+|c=wu4 dip6,wu4 dip6-2
+|g=fu4 tiet
+|j=hu1 dieh5
+|mn=xm,qz,zz,tp,kh,yl,hc:ô͘-tia̍p/twv:hô͘-tia̍p
+|md=hù-diĕk
+|w=3hhu diq
+|x=fu2 tie6
+|mc=1,2
+|oc=n,1;n,2
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[butterfly]] {{zh-mw|隻}}
+
+====Synonyms====
+{{zh-dial}}
+
+====See also====
+* {{zh-l|蛾}}
+* {{zh-l|毛毛蟲}}
+
+{{zh-cat|Intermediate|Insects}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こ|ちょう|yomi=on}}
+
+===Noun===
+{{ja-noun|こちょう}}
+
+# [[butterfly]]
+
+[[Category:ja:Insects|こちょう]]
+
+[[zh-min-nan:蝴蝶]]
+[[fr:蝴蝶]]
+[[ko:蝴蝶]]
+[[it:蝴蝶]]
+[[rw:蝴蝶]]
+[[sw:蝴蝶]]
+[[lo:蝴蝶]]
+[[lt:蝴蝶]]
+[[hu:蝴蝶]]
+[[mg:蝴蝶]]
+[[fj:蝴蝶]]
+[[nl:蝴蝶]]
+[[ja:蝴蝶]]
+[[ro:蝴蝶]]
+[[ru:蝴蝶]]
+[[chr:蝴蝶]]
+[[tr:蝴蝶]]
+[[uk:蝴蝶]]
+[[zh:蝴蝶]]

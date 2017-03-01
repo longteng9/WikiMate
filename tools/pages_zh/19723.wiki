@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|潇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=16|sn=19|four=34127|canj=ETLX}}
+
+# sound of beating wind and rain
+# water that is clear but deep
+# [[light]], [[ethereal]]
+
+====References====
+* {{Han ref|kx=0660.080|dkj=18660|dj=1070.020|hdz=31782.020|uh=701F|ud=28703|bh=C374|bd=50036}}
+
+----
+
+==Chinese==
+{{zh-forms|s=潇|alt=㴋}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiāo
+|c=siu1
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|瀟水|瀟湘|瀟湘八景|瀟湘雨|瀟瀟|瀟瀟淅淅|瀟瀟颯颯|瀟灑|瀟灑自若|瀟灑風流|風姿瀟灑|風流瀟灑}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水16}}
+
+# {{defn|lang=ja|sort=水16}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kanon=[[しつ]] (shitsu)|goon=[[しち]] (shichi)|kun=[[きよし]] (kiyoshi)}}
+
+====Compounds====
+{{der-top|Compounds with 瀟}}
+* {{ja-r|瀟洒|しょうしゃ}}
+* {{ja-r|瀟灑|しょうしゃ}}
+* {{ja-r|瀟瀟|しょうしょう}}
+* {{ja-r|瀟湘|しょうしょう}}
+* {{ja-r|瀟湘君|しょうしょうくん}}
+* {{ja-r|瀟湘八景|しょうしょうはっけい}}
+* {{ja-r|瀟湘八景図|しょうしょうはっけいず}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=소|eumhun=|rv=so|mr=so|y=so}}
+
+# {{defn|lang=ko|sort=水16}}
+
+[[fr:瀟]]
+[[ko:瀟]]
+[[hu:瀟]]
+[[ja:瀟]]
+[[pl:瀟]]
+[[th:瀟]]
+[[zh:瀟]]

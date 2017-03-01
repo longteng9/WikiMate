@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|枪}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=10|sn=18|four=88167|canj=COIR|ids=⿰金倉}}
+
+====References====
+* {{Han ref|kx=1317.060|dkj=40709|dj=1817.030|hdz=64242.090|uh=9397|ud=37783|bh=C2F2|bd=49906}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|槍|v}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=chēng
+|cat=n,a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# {{n-g|Used to describe the sound of metal objects or a bell being struck.}}
+
+====Noun====
+{{zh-noun}}
+
+# A type of three-footed tripod.
+
+===References===
+* {{R:twedu|B05424}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金10}}
+
+# {{defn|lang=ja|sort=金10}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō), [[しょう]] (shō)|kun=[[やり]] (yari)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=쟁|eumhun=|rv=jaeng|mr=chaeng|y=cayng}}
+
+# {{defn|lang=ko|sort=金10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=金10| hanviet = thương}}
+
+# {{defn|lang=vi|sort=金10}}
+
+[[fr:鎗]]
+[[ko:鎗]]
+[[hu:鎗]]
+[[mg:鎗]]
+[[ja:鎗]]
+[[pl:鎗]]
+[[th:鎗]]
+[[zh:鎗]]

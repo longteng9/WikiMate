@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|黩}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=203|rad=黑|as=15|sn=27|four=64386|canj=WFGWC}}
+
+# to [[dishonour]] / [[dishonor]], [[defile]], [[corrupt]]
+# [[soiled]]
+
+====References====
+* {{Han ref|kx=1522.350|dkj=48234|dj=2058.010|hdz=74757.060|uh=9EF7|ud=40695|bh=C675|bd=50805}}
+
+----
+
+==Chinese==
+{{zh-forms|s=黩}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|黑|賣|c1=s|c2=p|t1=black|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=dú
+|c=duk6
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[tarnish]]
+# to be [[rash]] about
+# to [[corrupt]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=黑15}}
+
+# {{defn|lang=ja|sort=黑15}}
+
+====Readings====
+* {{ja-readings|on=[[とく]] (toku)|kun=[[けがす]] (kegasu), [[けがれる]] (kegareru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=독|eumhun=|rv=dok|mr=tok|y=tok}}
+
+# {{defn|lang=ko|sort=黑15}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[độc]]|rs=黑15}}
+
+# {{defn|lang=vi|sort=黑15}}
+
+[[fr:黷]]
+[[hu:黷]]
+[[ja:黷]]
+[[pl:黷]]
+[[th:黷]]
+[[zh:黷]]

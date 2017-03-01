@@ -1,0 +1,33 @@
+==Japanese==
+{{ja-kanjitab|こう|あん|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|こうあん|yomi=o}}
+
+===Noun===
+{{ja-noun|こうあん}}
+
+# [[device]]
+# [[plan]], [[scheme]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|こうあん}}
+
+# to [[design]], to [[invent]]
+# to [[devise]], to [[develop]], to [[think up]] (a plan, method, etc.)
+
+====Conjugation====
+{{ja-suru|こうあん}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=고안}}
+
+# {{hanja form of|고안}}
+
+[[ko:考案]]
+[[mg:考案]]
+[[ja:考案]]
+[[zh:考案]]

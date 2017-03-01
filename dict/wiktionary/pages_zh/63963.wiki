@@ -1,0 +1,80 @@
+{{also|翻訳|飜譯|翻译}}
+==Chinese==
+{{zh-forms|s=翻译|alt=繙譯*-dated}}
+
+===Pronunciation===
+{{zh-pron
+|m=fānyì,tl=y
+|c=faan1 jik6
+|h=pfs=fân-yi̍t
+|md=huăng-ĭk
+|mn=qz:hoan-ia̍k/tw,xm,zz:hoan-e̍k
+|w=1fe hhiq
+|mc=y
+|ma=y
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[translate]]
+#: {{zh-x|把 A 翻譯 成 B|to '''translate''' A into B}}
+
+===Noun===
+{{zh-noun}}
+
+# [[translation]]
+#: {{zh-x|口頭 翻譯|interpretation}}
+#: {{zh-x|參考 翻譯|reference '''translation'''}}
+# [[translator]]; [[interpreter]]
+
+====Derived terms====
+{{zh-der|筆譯|口譯|翻譯家|翻譯腔|翻譯學|翻譯研究|機器翻譯|機械翻譯}}
+
+===Descendants===
+{{CJKV|翻譯|s=翻訳|h=飜譯|ほんやく|번역|phiên dịch}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほん|やく|yomi=o}}
+
+===Noun===
+{{ja-noun|ほんやく|shin=翻訳}}
+
+# [[translation]]
+
+===Verb===
+{{ja-verb-suru|ほんやく|shin=翻訳}}
+
+# to [[translate]]
+
+====Conjugation====
+{{ja-suru|ほんやく}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Verb===
+{{vi-hantu|pos=verb}}
+
+# {{han tu form of|phiên dịch|to [[translate]]}}
+
+[[zh-min-nan:翻譯]]
+[[el:翻譯]]
+[[ko:翻譯]]
+[[it:翻譯]]
+[[sw:翻譯]]
+[[lt:翻譯]]
+[[hu:翻譯]]
+[[mg:翻譯]]
+[[nl:翻譯]]
+[[ja:翻譯]]
+[[pl:翻譯]]
+[[chr:翻譯]]
+[[zh:翻譯]]

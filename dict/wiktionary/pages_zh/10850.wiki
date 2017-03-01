@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=06|sn=8|four=77282|canj=OIMO,OMMO|ids=⿰亻次}}
+
+# [[aid]]
+# [[help]]
+# to help
+# to [[sponsor]], [[subsidize]]
+# a [[surname]]
+
+====References====
+* {{Han ref|kx=0101.020|dkj=00571|dj=0213.100|hdz=10152.070|uh=4F7D|ud=20349|bh=CBB5|bd=52149}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cì
+|c=ci3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|佽飛}}
+
+===References===
+* {{R:twedu|B00050}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人06}}
+
+# {{defn|lang=ja|sort=人06}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[すぼしこい]] (suboshikoi), [[ならぶ]] (narabu), [[たすける]] (tasukeru), [[および]] (oyobi), [[かはるがはる]] (kaharugaharu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=차|rv=cha|mr=ch'a}}
+
+# {{defn|lang=ko|sort=人06}}
+
+[[fr:佽]]
+[[ko:佽]]
+[[li:佽]]
+[[hu:佽]]
+[[pl:佽]]
+[[th:佽]]
+[[zh:佽]]

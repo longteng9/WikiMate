@@ -1,0 +1,132 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=9}}
+
+===Han character===
+{{Han char|rn=8|rad=亠|as=07|sn=9|four=00217|canj=YRBU|ids=⿱⿳亠口冖几 <small>(G)</small>,⿱⿳亠口冖儿 <small>(TJK)</small>}}
+
+====References====
+* {{Han ref|kx=0089.040|dkj=00304|dj=0188.100|hdz=10286.030|uh=4EAE|ud=20142|bh=AB47|bd=43847}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|京|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=liàng
+|c=loeng6
+|h=pfs=liong
+|mn=liōng/liāng
+|mn_note=liōng - literary (Xiamen, Quanzhou, Taiwan); liāng - literary (Zhangzhou), vernacular (all)
+|g=liong5
+|j=lion3
+|w=3lian
+|x=lian5
+|mc=y
+|oc=y
+|ma=y
+|cat=a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[bright]]; [[brilliant]]; [[radiant]]
+# [[loud]] and [[clear]]
+# {{lb|zh|dialectal Mandarin|dialectal|_|Wu|Xiang}} [[lamp]]; [[light]]
+# to [[shine]]; to [[illuminate]]
+# to make one's [[voice]] loud and clear; to [[raise]] one's voice
+# to [[reveal]]; to [[disclose]]
+
+===Compounds===
+{{zh-der|不亮|了亮|亮像|亮光|亮光光|亮光漆|亮光蠟|亮兒|亮堂|亮堂堂|亮場子|亮子|亮富|亮察|亮底兒|亮底牌|亮度|亮晃晃|亮晶晶|亮梆子|亮槅|亮漆|亮灼灼|亮片|亮盒子搖|亮直|亮相|亮眼人|亮票|亮節|亮紅燈|亮紗|亮色調|亮藍|亮話|亮醜|亮錚錚|亮鐘|亮陰|亮麗|俐亮|傍亮兒|光亮|利亮|嘹亮|大天亮|大天白亮|天亮|宏亮|庾亮|弼亮|心明眼亮|憀亮|打亮梆子|敞亮|明亮|明亮亮|明亮隔|明淨敞亮|晶亮|晶晶亮亮|月亮|月亮門兒|油亮|洪亮|清亮|漂亮|漂亮話|瀏亮|火亮|烏亮|照亮|熠熠閃亮|爍亮|發亮|白得發亮|眼明心亮|瞭亮|矇矇亮|破天亮|簡朝亮|翼亮|虯鏤亮槅|見亮|諸葛亮|豁亮|豁達明亮|貞亮|貞風亮節|趁亮兒|蹦兒亮|透亮|通亮|閃亮|陳亮|雪亮|響亮|響亮話|高風亮節|鮮亮|鮮眉亮眼|麻麻亮|點亮}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=亠07}}
+
+# [[clear]]
+# [[help]]
+
+====Readings====
+* {{ja-readings|goon=[[ろう]] (rō), {{qualifier|historical}} [[らう]] (rau)|kanon=[[りょう]] (ryō), {{qualifier|historical}} [[りやう]] (ryau)|kun=[[あきらか]] (akiraka), [[すけ]] (suke)|nanori=[[あき]] (aki), [[あきら]] (akira), [[きょう]] (kyō), [[たすく]] (tasuku), [[ふさ]] (fusa), [[まこと]] (makoto), [[よし]] (yoshi)}}
+
+====Compounds====
+* {{ja-r|亮月|りょうげつ}}: [[bright]] [[moonlight]]
+* {{ja-r|亮察|りょうさつ}}: [[consideration]]
+* {{ja-r|亮然|りょうぜん}}: [[clear]], [[obvious]]
+* {{ja-r|亮直|りょうちょく}}: [[rightfulness]]
+* {{ja-r|明亮|めいりょう}}: [[clarity]]
+
+====References====
+{{ja-kref
+|jis=4E3C
+|ku=4628
+|shift=97ba
+|euc=CEBC
+|freq=1821
+|nelson=302
+|newnelson=95
+|halpern=2071
+|kld=1313
+|heisig=2920
+|tuttle=2j7.6
+}}
+
+===Proper noun===
+{{ja-pos|りょう|hhira=りやう|proper}}
+
+# {{given name|male|lang=ja}}
+
+{{ja-pos|あきら|proper}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|りょう]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=량|rv=ryang|mr=ryang}}
+
+# {{defn|lang=ko|sort=亠07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lượng]]|rs=亠07}}
+
+# {{defn|lang=vi|sort=亠07}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4eae Nom Foundation]
+
+[[fr:亮]]
+[[ko:亮]]
+[[li:亮]]
+[[hu:亮]]
+[[mg:亮]]
+[[ms:亮]]
+[[fj:亮]]
+[[ja:亮]]
+[[no:亮]]
+[[pl:亮]]
+[[ta:亮]]
+[[th:亮]]
+[[chr:亮]]
+[[uk:亮]]
+[[vi:亮]]
+[[zh:亮]]

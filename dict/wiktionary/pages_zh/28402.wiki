@@ -1,0 +1,48 @@
+{{character info/new}}
+{{also|輛}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=06|sn=13|four=|canj=JJMUB}}
+
+# numerary adjunct for vehicles
+
+====References====
+* {{Han ref|kx=1243.151|hdz=53529.011|uh=8F0C|ud=36620}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=車06}}
+
+====Readings====
+* {{ja-readings|goon=[[ろう]] (rō), {{qualifier|historical}} [[らう]] (rau)|kanon=[[りょう]] (ryō), {{qualifier|historical}} [[りやう]] (ryau)|kun=[[ならぶ]] (narabu), [[くるま]] (kuruma)|nanori=}}
+
+===Prefix===
+{{ja-pos|prefix|りょう}}
+
+# {{nonstandard spelling of|輛}}
+## [[both]]
+## [[two]]
+
+====Usage notes====
+[[w:Extended shinjitai|Extended shinjitai]] form of {{m|ja|輛}}. That character is officially simplified to {{m|ja|両}}, which is, however, also the simplified form of {{m|ja|兩}}.
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[liàng]] ([[liang4]])|wg=liang<sup>4</sup>}}
+
+# {{defn|lang=cmn|sort=車06}}
+
+[[fr:輌]]
+[[hu:輌]]
+[[mg:輌]]
+[[ja:輌]]
+[[pl:輌]]
+[[th:輌]]
+[[zh:輌]]

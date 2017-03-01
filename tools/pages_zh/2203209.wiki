@@ -1,0 +1,60 @@
+{{also|梵语}}
+==Chinese==
+{{zh-forms|s=梵语}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+From {{zh-l|梵}} (an abbreviation of {{zh-l|梵天}}, {{zh-l|梵凈}}, {{zh-l|梵摩}}, etc., ultimately from {{etyl|sa|zh}} {{m|sa|ब्रह्मन्}}) and {{zh-l|語}} ("language").
+
+===Pronunciation===
+{{zh-pron
+|m=fànyǔ
+|c=faan6 jyu5
+|h=pfs=Fan-ngî
+|mn=Hoân-gí/Hoân-gú
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[Sanskrit]]
+
+====Synonyms====
+* {{zh-l|梵文}}
+
+{{zh-cat|Languages}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ぼん|ご|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=goon|ぼんご|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|ぼんご}}
+
+# [[Sanskrit]] language (abbr. {{l|ja|梵}})
+
+====Synonyms====
+* {{ja-r|サンスクリット|^サンスクリット}}
+
+===References===
+<references/>
+
+[[Category:ja:Languages|ほんご']]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=범어}}
+
+# {{hanja form of|범어|[[Sanskrit]]}}
+
+[[ko:梵語]]

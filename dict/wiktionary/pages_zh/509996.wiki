@@ -1,0 +1,35 @@
+{{also|补角}}
+==Chinese==
+{{zh-forms|s=补角}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǔjiǎo,er=y
+|c=bou2 gok3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|geometry}} [[supplementary angle]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほ|かく|yomi=on}}
+
+===Noun===
+{{ja-noun|ほかく}}
+
+# {{lb|ja|geometry|sort=ほかく}} [[supplementary angle]]
+
+===See also===
+* {{ja-r|余角|よかく|gloss=[[complementary angle]]}}
+* {{ja-r|対角|たいかく|gloss=[[opposite]] [[angle]]}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[it:補角]]
+[[zh:補角]]

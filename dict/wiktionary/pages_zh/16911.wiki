@@ -1,0 +1,102 @@
+{{character info/new}}
+{{also|舊|伯}}
+==Translingual==
+{{stroke order}}
+{{ja-forms|旧|旧|[[舊#Translingual|&#x820A;]]}}
+
+===Etymology===
+{{Han simp|𦾔|f=萑|t=&nbsp;}}
+
+In current form, calligraphical rendering of 臼.
+
+===Han character===
+{{Han char|rn=72|rad=日|as=01|sn=5|four=|canj=LA|ids=⿰丨日}}
+
+# [[old]], [[ancient]]
+# [[former]], [[past]]
+
+====Derived characters====
+* [[児]] [[陥]] [[稲]]
+# These characters are {{Han simp|臼|t=旧}}
+
+====References====
+* {{Han ref|kx=0489.051|dkj=13737|dj=0850.040|hdz=21483.020|uh=65E7|ud=26087}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|舊}}
+
+===Etymology 2===
+{{zh-see|臼|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=日01|style=s|kyu=舊}}
+
+====Readings====
+* {{ja-readings|goon=[[ぐ]] (gu)|kanon=[[きゅう]] (kyū) < [[きう]] (kiu)|kanyoon=[[く]] (ku)|kun=[[ふるい]] ([[旧い]], furui), [[もと]] (moto)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|旧式|きゅうしき}}: old type
+* {{ja-r|旧制|きゅうせい}}: old system
+* {{ja-r|旧姓|きゅうせい}}: former surname
+* {{ja-r|旧態|きゅうたい}}: old state of affairs
+* {{ja-r|旧派|きゅうは}}: the old school
+* {{ja-r|旧約|きゅうやく}}: [[Old Testament]]
+* {{ja-r|旧来|きゅうらい}}: traditional
+* {{ja-r|旧里|きゅうり}}: [[hometown]]
+* {{ja-r|旧暦|きゅうれき}}: Japan's old lunisolar calendar;
+* {{ja-r|旧居|きゅうきょ}}: former residence
+{{der-mid}}
+* {{ja-r|旧株|きゅうかぶ}}: old stock
+* {{ja-r|旧弊|きゅうへい}}: old evil
+* {{ja-r|旧軍人|きゅうぐんじん}}: ex-soldier
+* {{ja-r|旧正月|きゅうしょうがつ}}: lunisolar New Year
+* {{ja-r|旧世界|きゅうせかい}}: the old world
+* {{ja-r|旧保守|きゅうほしゅ}}: [[paleoconservative]]
+* {{ja-r|懐旧|かいきゅう}}: nostalgia
+* {{ja-r|復旧|ふっきゅう}}: recover
+* {{ja-r|旧に復する|きゅう に ふくする}}: be restored to a former state
+{{der-bottom}}
+
+===Noun===
+{{ja-noun|きゅう|kyu=舊|hhira=きう}}
+
+# [[old]] things, original state, former state, old times
+# the old calendar based on a lunar system
+
+{{ja-noun|ふる|kyu=舊}}
+
+# [[used]] item, [[secondhand]] item
+
+===Prefix===
+{{ja-pos|きゅう|prefix|kyu=舊|hhira=きう}}
+
+# [[paleo-]], [[ex-]], [[old]], [[previous]], [[former]]
+
+{{ja-pos|ふる|prefix|kyu=舊}}
+
+# [[paleo-]], [[old]], [[used]], [[previous]]
+
+[[fr:旧]]
+[[ko:旧]]
+[[hu:旧]]
+[[mg:旧]]
+[[ja:旧]]
+[[no:旧]]
+[[km:旧]]
+[[pl:旧]]
+[[ru:旧]]
+[[ta:旧]]
+[[th:旧]]
+[[chr:旧]]
+[[tr:旧]]
+[[uk:旧]]
+[[zh:旧]]

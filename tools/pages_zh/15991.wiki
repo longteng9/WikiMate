@@ -1,0 +1,50 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=03|sn=6|four=|canj=QMMS|ids=⿰扌亏}}
+
+====References====
+* {{Han ref|kx=0418.010|dkj=11800|dj=0764.170|hdz=31829.020|uh=625D|ud=25181}}
+* [http://www.zdic.net/z/1a/js/625D.htm zdic.net (Han Dian)]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=kū
+|c=fu1
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|agriculture}} [[spread]]ing, [[scatter]]ing, [[winnow]]ing
+
+====References====
+* {{qualifier|Cantonese}} [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 112]
+
+===Pronunciation 2===
+{{zh-pron
+|m=yū,wū
+|c=
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[pull]], [[draw out]], [[drag]]
+
+[[fr:扝]]
+[[pl:扝]]
+[[th:扝]]
+[[zh:扝]]

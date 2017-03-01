@@ -1,0 +1,51 @@
+{{also|类推}}
+==Chinese==
+{{zh-forms|s=类推}}
+
+===Pronunciation===
+{{zh-pron
+|m=lèituī
+|c=leoi6 teoi1
+|mn=lūi-chhui/lūi-thui
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[reason]] by [[analogy]]
+
+===Noun===
+{{zh-noun}}
+
+# [[analogy]] {{gloss|a method of reasoning}}
+
+===Derived terms===
+{{zh-der|以此類推|類推作用}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|るい|すい|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|るいすい|y=o}}
+
+===Noun===
+{{ja-noun|るいすい}}
+
+# [[analogy]] {{gloss|a method of reasoning}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|るいすい}}
+
+# [[infer]] by analogy
+#: {{ja-usex|類推されやすい暗証番号|るいすい され-やすい あんしょう ばんごう|a PIN that is easy to infer}}
+
+====Conjugation====
+{{ja-suru|るいすい}}
+
+[[ko:類推]]
+[[hu:類推]]
+[[tl:類推]]
+[[zh:類推]]

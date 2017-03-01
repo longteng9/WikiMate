@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Alternative forms===
+* {{zh-l|妳}}
+
+===Han character===
+{{Han char|rn=38|rad=女|as=14|sn=17|four=41427|canj=VMFB|ids=⿰女爾}}
+
+# [[milk]]
+# [[suckle]]
+# [[breasts]]
+
+====References====
+* {{Han ref|kx=0272.470|dkj=06824|dj=0541.060|hdz=21086.020|uh=5B2D|ud=23341|bh=ECCE|bd=60622}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=nǎi
+|c=naai5
+|c-t=
+|g=
+|h=pfs=
+|j=
+|md=
+|mn=
+|mn-t=
+|w=
+|x=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女14}}
+
+# {{defn|lang=ja|sort=女14}}
+
+====Readings====
+* {{ja-readings|on=[[だい]] (dai), [[ね]] (ne), [[でい]] (dei), [[ない]] (nai), [[じ]] (ji), [[に]] (ni)|kun=[[はは]] (haha), [[はぐくむ]] (hagukumu), [[あね]] (ane)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=내|rv=nae|mr=nae}}
+
+# {{defn|lang=ko|sort=女14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=女14|hanviet=nãi}}
+
+# {{defn|lang=vi|sort=女14}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5b2d Nom Foundation]
+
+[[fr:嬭]]
+[[li:嬭]]
+[[hu:嬭]]
+[[pl:嬭]]
+[[th:嬭]]
+[[zh:嬭]]

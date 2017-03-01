@@ -1,0 +1,66 @@
+{{also|错误}}
+==Chinese==
+{{zh-forms|s=错误}}
+
+===Pronunciation===
+{{zh-pron
+|m=cuòwù,tl=y
+|ma=y
+|c=co3 ng6
+|h=pfs=chho-ngu
+|mn=chhò-ngō͘/chhò-gō͘
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[mistake]]; [[error]]
+#: {{zh-x|改正 錯誤|to correct a '''mistake'''}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[erroneous]]; [[problematic]]
+
+====Derived terms====
+{{zh-der|犯錯誤|合理錯誤|嘗試錯誤學習}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|さく|ご|yomi=on}}
+
+===Noun===
+{{ja-noun|さくご}}
+
+# an [[error]], a [[mistake]]
+# the [[misunderstood]]
+
+====Compounds====
+* {{ja-r|試行錯誤|しこう さくご}}: trial and error, mistake-learning
+* {{ja-r|時代錯誤|じだい さくご}}: [[anachronism]]
+
+===Verb===
+{{ja-verb-suru|さくご}}
+
+# to [[misunderstand]]
+# make a [[mistake]], make an [[error]]
+
+====Conjugation====
+{{ja-suru|さくご}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:錯誤]]
+[[ko:錯誤]]
+[[lt:錯誤]]
+[[hu:錯誤]]
+[[mg:錯誤]]
+[[ja:錯誤]]
+[[th:錯誤]]
+[[chr:錯誤]]
+[[zh:錯誤]]

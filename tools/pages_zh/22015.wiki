@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=08|sn=13|four=16640|canj=MRHWJ|ids=⿰石卑}}
+
+# stone tablet
+# [[gravestone]]
+
+====References====
+* {{Han ref|kx=0832.100|dkj=24364|dj=1248.270|hdz=42438.060|uh=7891|ud=30865|bh=B84F|bd=47183}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bēi
+|c=bei1
+|h=pfs=pî
+|md=
+|mn=pi
+|mn-t=bi1
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=石08}}
+
+# [[gravestone]]
+
+====Readings====
+* {{ja-readings|goon=[[ひ]] (hi)|kanon=[[ひ]] (hi)|kun=[[たていし]] (tateishi), [[いしぶみ]] (ishibumi)|nanori=}}
+
+====Compounds====
+* {{ja-r|慰霊碑|いれいひ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=비|eumhun=|rv=bi|mr=pi|y=pi}}
+
+# {{defn|lang=ko|sort=石08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bi]]|rs=十06}}
+
+# {{rfdef|vi}}
+
+[[fr:碑]]
+[[ko:碑]]
+[[hu:碑]]
+[[mg:碑]]
+[[ja:碑]]
+[[no:碑]]
+[[pl:碑]]
+[[th:碑]]
+[[vi:碑]]
+[[zh:碑]]

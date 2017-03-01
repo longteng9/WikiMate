@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|枞}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=11|sn=15|four=48981|canj=DHOO|ids=⿰木從}}
+
+# [[fir]] [[tree]]
+
+====References====
+* {{Han ref|kx=0549.050|dkj=15404|dj=0937.040|hdz=21281.050|uh=6A05|ud=27141|bh=BCD7|bd=48343}}
+
+----
+
+==Chinese==
+{{zh-forms|s=枞}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cōng
+|c=cung1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Noun===
+{{ja-noun|もみ}}
+
+# [[fir]]
+
+====Alternative forms====
+* {{l|ja|樅の木}} (momi no ki): [[fir tree]] (''most often used'')
+
+===Kanji===
+{{ja-kanji|grade=|rs=木11}}
+
+# [[fir]]
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[もみ]] (momi)}}
+
+====Compounds====
+[[Category:ja:Trees|もみ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=종|eumhun=|rv=jong|mr=chong|y=cong}}
+
+# {{defn|lang=ko|sort=木11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木11| hanviet = tung}}
+
+# {{defn|lang=vi|sort=木11}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6a05 Nom Foundation]
+
+[[fr:樅]]
+[[ko:樅]]
+[[hu:樅]]
+[[ja:樅]]
+[[pl:樅]]
+[[th:樅]]
+[[zh:樅]]

@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=11|sn=15|four=42994|canj=DVVD|ids=⿰木巢}}
+
+# {{lb|zh|archaic}} [[nest]]
+# [[tall]] [[watchman]] or [[guard]] [[shack]]
+# [[fish]]ing with a [[small]] [[net]]
+# net for [[scoop]]ing fish
+
+====References====
+* {{Han ref|kx=0550.030|dkj=15433|dj=0937.270|hdz=21286.030|uh=6A14|ud=27156|bh=E5DC|bd=58844}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cháo,jiǎo
+|c=caau4,ziu2
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+*[http://www.zdic.net/z/1c/js/6A14.htm zdic.net (Han Dian)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木11}}
+
+# {{defn|lang=ja|sort=木11}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō), [[しょう]] (shō), [[じょう]] (jō)|kun=[[やぐら]] (yagura), [[すくいあみ]] (sukuiami), [[すくう]] (sukuu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=소|eumhun=|rv=so|mr=so|y=so}}
+
+# {{defn|lang=ko|sort=木11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木11| hanviet = sào}}
+
+# {{defn|lang=vi|sort=木11}}
+
+[[fr:樔]]
+[[hu:樔]]
+[[ja:樔]]
+[[pl:樔]]
+[[th:樔]]
+[[zh:樔]]

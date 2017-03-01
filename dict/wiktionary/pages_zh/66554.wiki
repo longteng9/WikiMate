@@ -1,0 +1,76 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàxiǎo
+|c=daai6 siu2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[size]] (of dresses, shoes, etc.); [[proportion]]s; [[dimensions]]; [[magnitude]]
+# [[degree]] of [[seniority]]
+# the [[old]] and the [[young]]; adults and children
+
+====Synonyms====
+* {{qualifier|Cantonese}} {{zh-l|大細}}
+
+{{zh-cat|Elementary|Antonymous}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|大小 (日本刀)}}
+{{wikipedia|Daishō}}
+[[File:Daisho_katana_and_wakizashi_1.jpg|thumb|250px|{{PAGENAME}} (''daishō''): two '''pairs of [[katana]] and [[wakizashi]]'''.]]
+</div>
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|だい|しょう}}
+Compound of {{compound|lang=ja|sort=だいしょう|大|tr1=dai|t1=big, large|小|tr2=shō|t2=small, little}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=goon|だいしょう|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|だいしょう}}
+
+# [[large]] and [[small]]
+# the traditional [[Japanese]] pair of swords, consisting of the {{m|ja|大刀|tr=daitō||big blade|pos=i.e. [[katana]]}} and {{m|ja|小刀|tr=shōtō||small blade|pos=i.e. [[wakizashi]]}}
+# a pair of [[taiko]] drums, consisting of one large and one small taiko
+# [[long]] [[month]]s and [[short]] months:
+## in the [[lunar calendar]], long months of 30 days and short months of 29 days
+## in the [[solar]] [[calendar]], long months of 31 days and short months of 30 days or less
+
+===Etymology 2===
+{{ja-kanjitab|yomi=kun|おお|さ}}
+Appears to be a compound of {{etyl|ojp|-}}-derived {{m|ja|大|tr=ō||big}} + {{m|ja|小|tr=sa||small|pos=rare reading}}. Alternatively, may be {{m|ja|大|tr=ō||big}} + {{m|ja|さ|tr=-sa||pos=suffix indicating degree or amount}}.
+
+Appears to be mostly obsolete in modern Japanese, superseded by the term {{m|ja|大きさ|tr=ōkisa||size|lit=bigness}}, from adjective {{m|ja|大きい|tr=ōkii||big}}. The modern Japanese term with the reading of ''ōsa'' is {{m|ja|多さ|tr=ōsa|lit=much-ness, many-ness}}, from adjective {{m|ja|多い|tr=ōi||many, much}}, deriving from the same {{etyl|ojp|-}} root ''opo'' as {{m|ja|大きい|tr=ōkii||big}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|おおさ}}
+
+====Noun====
+{{ja-noun|おおさ|hhira=おほさ}}
+
+# {{lb|ja|sort=おおさ|probably|_|obsolete}} [[size]]
+#* {{R:Tōdaiji_Fujumonkō}}
+#*: {{ja-usex|'''大小'''は雀の如し|'''おほさ''' は すずめ の ごとし|The '''size''' was just like that of a sparrow.}}
+
+===References===
+<references/>
+
+[[ko:大小]]
+[[lo:大小]]
+[[lt:大小]]
+[[hu:大小]]
+[[mg:大小]]
+[[ja:大小]]
+[[pl:大小]]
+[[chr:大小]]
+[[zh:大小]]

@@ -1,0 +1,105 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=13|sn=16|four=58027|canj=QOYB|ids=⿰扌禽}}
+
+====References====
+* {{Han ref|kx=0458.250|dkj=12816|dj=0807.130|hdz=31961.020|uh=64D2|ud=25810|bh=BEE0|bd=48864}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=㩒}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|alt1=扌|禽|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=qín
+|c=kam4
+|mn=khîm
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[catch]]; to [[capture]]; to [[seize]]; to [[arrest]]
+# to [[hold]]; to [[grasp]]
+
+====Compounds====
+{{zh-der|一網成擒|一舉成擒|七擒七縱|伏虎擒龍|就擒|成擒|手到擒來|捉虎擒蛟|擒伏|擒奸摘伏|擒姦擿伏|擒姦討暴|擒抱|擒拿|擒捉|擒服|擒獲|擒盜|擒縱|擒虎拿蛟|擒賊擒王|擒賊擒首|擒龍縛虎|束手就擒|欲擒故縱|生擒|生擒活拿|生擒活捉|韓擒虎|餓虎擒羊}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手13}}
+
+====Readings====
+{{ja-readings
+|goon=[[ごん]] (gon), {{qualifier|historical}} [[ごむ]] (gomu)
+|kanon=[[きん]] (kin), {{qualifier|historical}} [[きむ]] (kimu)
+|kun=[[とらえる]] ([[擒える]], toraeru), [[とりこ]] (toriko)
+}}
+
+===Etymology===
+Originally a compound of {{compound|lang=ja|sort=とりこ|取り|tr1=tori|t1=taking, capturing|pos1=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|取る}} ''toru'', “to take, to capture”|子|tr2=ko|t2=child; small thing}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|とりこ|acc=3|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|虜}}, {{ja-l|俘}}, {{ja-l|囚}}, {{ja-l|俘虜}}
+
+===Noun===
+{{ja-noun|とりこ}}
+
+# [[prisoner]], [[captive]], [[slave]]
+
+====Usage notes====
+Also used [[metaphor]]ically, such as {{m|ja|恋}}{{m|ja|の}}{{m|ja|擒|tr=koi no toriko|lit=love's slave}}.
+
+===References===
+<references/>
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 擒]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=금|eumhun=|rv=geum|mr=kŭm|y=kum}}
+
+# {{defn|lang=ko|sort=手13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''擒''' ([[cầm]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:擒]]
+[[ko:擒]]
+[[li:擒]]
+[[hu:擒]]
+[[mg:擒]]
+[[ja:擒]]
+[[no:擒]]
+[[pl:擒]]
+[[th:擒]]
+[[vi:擒]]
+[[zh:擒]]

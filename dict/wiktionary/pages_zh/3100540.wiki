@@ -1,0 +1,56 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=帆bù
+|c=faan4 bou3
+|h=pfs=fàm-pu
+|mn=phâng-pò͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[canvas]]
+# [[sailcloth]]
+
+[[Category:zh:Fabrics]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|はん|ふ|k2=ぷ|yomi=o}}
+Likely from {{etyl|zhx|ja|sort=はんぷ}} {{m|zh|帆布}}.
+
+====Pronunciation====
+* [[on'yomi|On'yomi]].
+* {{IPA|lang=ja|/hampu/}}
+
+====Noun====
+{{ja-noun|はんぷ}}
+
+# A type of [[sturdy]] [[woven]] [[cloth]] made from [[cotton]] or [[hemp]]: [[canvas]], [[sailcloth]]. May be treated for [[water-resistant|water resistance]] or [[fire-retardant|fire retardation]]; used for things such as tents, sheets, bags, shoes, or filters.
+
+[[Category:ja:Fabrics|はんぷ]]
+
+===Etymology 2===
+{{ja-kanjitab|ほ|ぬの|yomi=k}}
+Compound of {{compound|lang=ja|sort=ほぬの|帆|tr1=ho|t1=sail|布|tr2=nuno|t2=cloth}}.
+
+====Pronunciation====
+* [[kun'yomi|Kun'yomi]].
+* {{IPA|lang=ja|/honuno/}}
+
+====Noun====
+{{ja-noun|ほぬの}}
+
+# A type of [[woven]] [[cloth]] used for [[sail]]s: [[sailcloth]].
+
+[[hu:帆布]]
+[[mg:帆布]]
+[[chr:帆布]]
+[[zh:帆布]]

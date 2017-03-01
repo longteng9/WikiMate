@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|尽|䀆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=108|rad=皿|as=09|sn=14|four=50107|canj=LMFBT}}
+
+# [[exhaust]], [[use up]]
+# [[deplete]]
+
+====References====
+* {{Han ref|kx=0795.220|dkj=23029|dj=1210.150|hdz=42567.050|uh=76E1|ud=30433|bh=BAC9|bd=47817}}
+
+----
+
+==Chinese==
+{{zh-forms|s=尽}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìn
+|c=zeon6
+|h=pfs=chhin
+|md=
+|mn=chīn
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=皿09}}
+
+# {{defn|lang=ja|sort=皿09}}
+
+====Readings====
+* {{ja-readings|on=[[じん]] (jin)|kun=[[つくす]] (tsukusu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=진|eumhun=|rv=jin|mr=chin|y=cin}}
+
+# {{defn|lang=ko|sort=皿09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tận]], [[hết]]|rs=皿09}}
+
+# {{defn|lang=vi|sort=皿09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=76e1&img=1 Nom Foundation]
+
+[[fr:盡]]
+[[ko:盡]]
+[[hu:盡]]
+[[mg:盡]]
+[[ja:盡]]
+[[pl:盡]]
+[[ru:盡]]
+[[th:盡]]
+[[vi:盡]]
+[[zh:盡]]

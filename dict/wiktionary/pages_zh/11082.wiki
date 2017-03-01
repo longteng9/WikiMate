@@ -1,0 +1,122 @@
+{{character info/new}}
+{{also|値}}
+==Translingual==
+{| class="floatright" border=1 cellpadding="5" cellspacing="0"
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Simplified Chinese|Simplified]]'''
+|<span class="Hans" lang="zh-hans" style="font-size: 175%">[[值]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Traditional Chinese|Traditional]]'''
+|<span class="Hant" lang="zh-hant" style="font-size: 175%">[[值]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Japanese]]'''
+|<span class="Jpan" lang="jp" style="font-size: 175%">[[値]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Korean]]'''
+|<span class="Ko" lang="ko" style="font-size: 175%">[[値]]</span>
+|}
+===Han character===
+{{Han char|rn=9|rad=人|as=08|sn=10|four=24216|canj=OJBM|ids=⿰亻直}}
+
+====References====
+* {{Han ref|kx=0109.171|hdz=10171.080|uh=503C|ud=20540}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=値}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhí
+|c=zik6
+|h=pfs=ta̍t/chhṳ̍t
+|h_note=ta̍t - vernacular; chhṳ̍t - literary
+|mn=xm,zz:te̍k/qz:tia̍k/ti̍t/ta̍t
+|mn_note=Mainland: te̍k/tia̍k - literary; ti̍t, ta̍t - vernacular
+Taiwan: ti̍t - literary; ta̍t - vernacular
+|mn-t=dag8/dêg8
+|mn-t_note=dag8 - vernacular; dêg8 - literary
+|mc=y
+|oc=y
+|ma=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[price]]
+# {{lb|zh|mathematics|computing|etc.}} [[value]]
+#: {{zh-x|絕對值|absolute '''value'''}}
+# to be [[worth]]
+#: {{zh-x|這 塊 玉 值 一 萬 美元。|This jade '''is worth''' ten thousand dollars.}}
+# [[worthwhile]]
+#: {{zh-x|這 趟 旅行 太 值 了。|This journey is absolutely '''worthwhile'''.}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhì
+|c=zik6
+|mc=y
+|oc=y
+|ma=y
+|dial=n
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[hold]] [[upright]]
+
+===Compounds===
+{{zh-der|一文不值|一錢不值|不值|不值一哂|不值一文|不值一看|不值一笑|不值一錢|不值得|不值當|不值錢|保值|值勤|值回票價|值夜|值宿|值年|值得|值日|值星|值星官|值更|值月|值班|值遇|值錢|價值|價值判斷|價值指標|價值標準|價值衝突|價值觀|價值觀念|價值論|價值連城|價值邏輯|儲值票|公告現值|剩餘價值|加值稅|加值網路|升值|報值掛號|增值|帳面價值|幣值|平均值|年產值|成交總值|承值|承諾值|數值|數值分析|數值控制|新聞價值|時值|月值年災|期望值|正值|比值|淨值|淨值法|現值|產值|當值|社會價值|等值|等值價格|絕對值|總值|股票價值|調值|豹值|貶值|輪值|近似值|適值|酸鹼值|量值|附加價值|面值|音值}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人08}}
+
+# {{defn|lang=ja|sort=人08}}
+
+====Readings====
+* {{ja-readings|on=[[ち]] (chi), [[ちょく]] (choku)|kun=[[ね]] (ne), [[あたい]] (atai), [[あう]] (au)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=치|rv=chi|mr=ch'i}}
+
+# {{defn|lang=ko|sort=人08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trị]], [[trịa]]|rs=人08}}
+
+# {{defn|lang=vi|sort=人08}}
+
+[[fr:值]]
+[[ko:值]]
+[[li:值]]
+[[hu:值]]
+[[mg:值]]
+[[no:值]]
+[[pl:值]]
+[[th:值]]
+[[vi:值]]
+[[zh:值]]

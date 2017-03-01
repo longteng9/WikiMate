@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|储}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=16|sn=18|four=24260|canj=OYRA|ids=⿰亻諸}}
+
+====References====
+* {{Han ref|kx=0121.200|dkj=01284|dj=0256.060|hdz=10235.090|uh=5132|ud=20786|bh=C078|bd=49272}}
+
+----
+
+==Chinese==
+{{zh-forms|s=储}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|諸|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=儲
+|c=cyu5,cyu4,cyu1
+|h=pfs=chhù
+|mn=tû/thû/qz:thîr
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[store]], [[reserve]]; to [[save]] [[money]]
+# an [[heir]]
+
+===Compounds===
+{{der3
+|{{zh-l|儲藏室}}
+|{{zh-l|儲蓄|save, store, put aside, deposit (money)}}
+|{{zh-l|儲存|save, store, put aside (objects)}}
+|{{zh-l|儲水库|storage tank for water, reservoir}}
+|{{zh-l|儲君|heir to the throne}}
+|{{zh-l|王儲}}
+|{{zh-l|東儲}}
+|{{zh-l|儲款}}
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人16}}
+
+# {{defn|lang=ja|sort=人16}}
+
+====Readings====
+* {{ja-readings|on=[[ちょ]] (cho)|kun=[[そえ]] (soe), [[たくわえる]] (takuwaeru), [[もうける]] (moukeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=저|rv=jeo|mr=chŏ}}
+
+# {{defn|lang=ko|sort=人16}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trữ]], [[trừ]]|rs=人16}}
+
+# {{defn|lang=vi|sort=人16}}
+
+[[fr:儲]]
+[[li:儲]]
+[[hu:儲]]
+[[mg:儲]]
+[[ja:儲]]
+[[pl:儲]]
+[[th:儲]]
+[[chr:儲]]
+[[zh:儲]]

@@ -1,0 +1,34 @@
+{{also|淨化}}
+==Japanese==
+{{ja-kanjitab|じょう|か|yomi=o}}
+
+===Etymology===
+{{suffix|ja|浄|tr1=jō|t1=to [[cleanse]]|化|tr2=ka|t2=[[-ize]]; [[-fy]]}}
+
+===Pronunciation===
+{{ja-pron|acc=a|acc2=h|じょうか}}
+
+===Noun===
+{{ja-noun|じょうか|kyu=淨化|hhira=じやうくわ}}
+
+# [[purification]]; [[cleansing]]
+
+====Derived terms====
+* {{l|ja|浄化槽|tr=jōkasō||septic tank}}
+* {{l|ja|浄化装置|tr=jōka sōchi||purifier}}
+* {{l|ja|民族浄化|tr=minzoku jōka||ethnic cleansing}}
+
+===Verb===
+{{ja-verb-suru|じょうか|kyu=淨化}}
+
+# to [[purify]]; to [[cleanse]]
+
+====Conjugation====
+{{ja-suru|じょうか}}
+
+[[Category:ja:Hygiene|しょうか']]
+[[lo:浄化]]
+[[hu:浄化]]
+[[mg:浄化]]
+[[ja:浄化]]
+[[zh:浄化]]

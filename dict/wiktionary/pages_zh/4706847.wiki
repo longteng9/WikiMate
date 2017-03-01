@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms|alt=菠稜,波稜,波棱,頗陵,頗稜,頗蔆}}
+
+===Etymology===
+Around {{C.E.}} 674, borrowed from {{etyl|sa|zh}} {{m|sa|पालङ्क}}, {{m|sa|पालङ्क्य}}, {{m|sa|पालक्या||Indian spinach ({{taxlink|Beta bengalensis|species|noshow=1}})}}, possibly via some ancient language in modern-day Nepal. Compare modern {{cog|ne|पालुङ्गो||spinach}}, {{cog|bn|পালং||tr=pālaṁ|spinach (''[[Spinacia oleracea]]'')}}. Possibly the source of {{zh-l|菠菜}}.
+
+Alternative etymology relates this word to the name of an ancient kingdom in India. Examples of such suggestions include:
+
+* {{w|zh:韦绚|Wei Xuan}} of the {{w|Tang Dynasty}}, who remarked that:
+*: {{lang|zh|豈非'''頗稜國'''將來，而語訛為'''菠稜'''耶？}}
+*:: "Isn't it because it [i.e. spinach] came from the country ''p’olang'', that it got its name ''polang''?"
+
+* Sun Yi (孫奕) of the {{w|Song Dynasty}} also said:
+*: {{lang|zh|《藝苑雌黃》云……蔬品有'''頗陵'''者，昔人自'''頗陵國'''將其子來，因以為名，今俗乃從艸而為'''菠薐'''。}}
+*: "According to the book ''Yiyuan Cihuang'': The vegetable ''p’olang'', was introduced as seeds from the country ''p’olang'', and hence named. Nowadays its name is written with the [[艸]] radical, as '菠薐'."
+
+Berthold Laufer in his book ''Sino-Iranica'' observed that there was a country known from inscriptions called {{m|sa|पालक्क}}, which likely lies in present-day {{w|Palakkad}}, Kerala, in Southern India. He conjectured that at the time of introduction of the vegetable, the monks from Nepal also brought with them their own folk etymology of the association between the plant name and the toponym/country name.<ref>{{cite-book|year=1919|author=Berthold Laufer|title=Sino-Iranica: Chinese contributions to the history of civilization in ancient Iran, with special reference to the history of cultivated plants and products|book-link=http://google.com/books?id=d0ETAAAAYAAJ&vq=palakka&pg=PA397#v=onepage&q=palakka&f=false|page=397-398|passage=As a matter of fact, spinach is a vegetable of the temperate zones and alien to tropical regions. A genuine Sanskrit word for the spinach is unknown. Nevertheless Chinese ''po-liṅ'', *pwa-liṅ, must represent the transcription of some Indian vernacular name. In Hindustānī we have ''palak'' as designation for the spinach, and ''palaṅ'' or ''palak'' as name for ''[[Beta vulgaris]]'', Puštu ''pālak'', apparently developed from Sanskrit ''pālaṅka'', ''pālankya'', ''palakyū'', ''pālakyā'', to which our dictionaries attribute the meaning “a kind of vegetable, a kind of beet-root, {{taxlink|Beta bengalensis|species|noshow=1}}”; in Bengālī ''paluṅ''. To render the coincidence with the Chinese form complete, there is also Sanskrit Pālakka or Pālaka as the name of a country, which has evidently resulted in the assertion of Buddhist monks that the spinach must come from a country Paliṅga. The Nepalese, accordingly, applied a word relative to a native plant to the newly-introduced spinach, and, together with the product, handed this word on to China...}}</ref> Compare the modern {{etyl|hi|-}} word {{m|hi|पालक||spinach}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bōléng
+|c=bo1 ling4
+|md=puŏ-lìng
+|mn=mg:pe-lêng/zz:poe-lêng
+|mn-t=buê1 lêng5
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|archaic|or|Min}} [[spinach]]
+#: {{zh-x|菜 之 菠薐，本 西國 中 有 僧 將 其 子 來，如 苜蓿、蒲陶，因 ^張 ^騫 而 至 也。|Seeds of the vegetable '''spinach''', were originally brought here [to China] by monks from the western country [i.e. India], like alfalfa and grape which were introduced by {{w|Zhang Qian}}.|ref='''{{w|Tang Dynasty}}''', {{w|zh:韦绚|Wei Xuan}}, 《劉賓客嘉話錄》|CL}}
+#: {{zh-x|菠薐 煮 豆腐|tofu '''spinach''' pot|tr=puŏ-lìng cṳ̄ dâu-hô|MD}}
+
+====Synonyms====
+{{zh-dial|菠菜}}
+
+====Derived terms====
+{{zh-der|菠薐菜|菠薐草|菠薐仔}}
+
+===References===
+<references/>
+
+[[zh:菠薐]]

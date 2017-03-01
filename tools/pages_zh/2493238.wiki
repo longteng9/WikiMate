@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bājiāo
+|c=baa1 ziu1
+|h=pfs=pâ-chêu
+|md=bă-ciĕu
+|mn=xm,tw:pa-chio/xm:pa-chiau
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{vern|Japanese banana}} {{gloss|{{taxlink|Musa basjoo|species|noshow=1}}}} {{zh-mw|m,c:隻|m:根|m,c:條}}
+# ({{zh-l|～[[屬]]}}) ''[[Musa]]''
+# ({{zh-l|～[[科]]}}) ''[[Musaceae]]''
+# {{lb|zh|Luchuan|_|Cantonese|Min Dong}} [[banana]]
+
+====Synonyms====
+{{zh-dial|香蕉}}
+
+====Derived terms====
+{{zh-der|芭蕉果|蘭嶼芭蕉|松尾芭蕉|芭蕉布|芭蕉扇|芭蕉洞|芭蕉科|芭蕉芋}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ば|しょう|yomi=o}}
+
+===Noun===
+{{ja-noun|ばしょう|バショウ}}
+
+# {{lb|ja|botany|sort=ばしょう}} {{vern|Japanese fiber banana}} (plant, {{taxlink|Musa basjoo|species|noshow=1}})
+
+[[zh-min-nan:芭蕉]]
+[[ko:芭蕉]]
+[[zh:芭蕉]]

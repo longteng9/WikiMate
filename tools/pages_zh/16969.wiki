@@ -1,0 +1,59 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=05|sn=9|four=60032|canj=AYVI|ids=⿰日玄}}
+
+# [[long]] [[day]]
+# [[extended]]
+# [[relaxed]]
+
+====References====
+* {{Han ref|kx=0493.020|dkj=13839|dj=0856.020|hdz=21503.100|uh=6621|ud=26145|bh=CEEC|bd=52972}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xuàn
+|c=jyun6
+|mc=
+|oc=
+|ma=
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日05}}
+
+# {{defn|lang=ja|sort=日05}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken), [[げん]] (gen)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=현|eumhun=|rv=hyeon|mr=hyŏn|y=hyen}}
+
+# {{defn|lang=ko|sort=日05}}
+
+[[fr:昡]]
+[[hu:昡]]
+[[pl:昡]]
+[[th:昡]]
+[[zh:昡]]

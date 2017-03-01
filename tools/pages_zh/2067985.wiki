@@ -1,0 +1,91 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=niándài
+|c=nin4 doi6
+|h=pfs=ngièn-thoi
+|mn=nî-tāi
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[age]]; [[era]]; [[period]]
+# [[years]]; [[time]]
+# a [[decade]] of a [[century]]
+
+====Derived terms====
+{{zh-der|年代學}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ねん|だい|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ねんだい|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ねんだい}}
+
+# [[age]], [[era]], [[period]]
+#* '''1912''', 島崎藤村, 北村透谷の短き一生:
+#*: {{ja-usex|明治'''年代'''に記憶すべき、大きな出来事の一つは、士族の階級の滅亡である。|めいじ '''ねんだい''' に きおく すべき、 おおきな できごと の ひとつ は、 しぞく の かいきゅう の めつぼう で ある。|If there's one event that one must remember about the Meiji era, it's the downfall of the samurai class.}}
+# [[date]]
+#* '''1924''', 宮本百合子, 蠹魚:
+#*: {{ja-usex|この本の印刷された'''年代'''で見ると、祖父は三十前後の壮年で、末弟が十七八であったらしい。|この ほん の いんさつ された '''ねんだい''' で みる と、 そふ は さん じゅう ぜんご の そうねん で、 ばってい が じゅう なな はち で あった らし.い。|Looking at the date when this book was printed, it seems that my grandfather was around 30 and in the prime of his life, and his younger brother was 17 or 18.}}
+# a [[decade]] in a century
+
+====Derived terms====
+{{top2}}
+* [[年代記]] (''nendaiki''): annals, chronicle, chronology
+* [[年代順]] (''nendaijun''): chronological order
+* [[年代物]] (''nendaimono''): antique
+* [[同年代]] (''dōnendai''): the same generation, coeval
+* [[絶対年代]] (''zettai nendai''): absolute age
+* [[相対年代]] (''sōtai nendai''): relative age
+{{mid2}}
+* [[地質年代]] (''chishitsu nendai''): geological time
+* [[放射年代]] (''hōsha nendai''): radiometric age
+* [[言語年代学]] (''gengo-nendaigaku''): glottochronology
+* [[放射性炭素年代測定]] (''hōshaseitanso nendai sokutei''): radiocarbon dating, carbon-14 dating
+* [[放射性炭素年代測定法]] (''hōshaseitanso nendai sokuteihō''): radiocarbon dating
+{{bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=년대}}
+
+# {{hanja form of|년대|period of years such as a [[decade]] or [[century]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|niên đại|[[era]]; [[period]]; [[years]]; [[time]]}}
+
+[[zh-min-nan:年代]]
+[[fr:年代]]
+[[ko:年代]]
+[[lo:年代]]
+[[hu:年代]]
+[[mg:年代]]
+[[ja:年代]]
+[[zh:年代]]

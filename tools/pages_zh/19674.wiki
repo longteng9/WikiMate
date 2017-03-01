@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=14|sn=17|four=32134|canj=EOTO}}
+
+====References====
+* {{Han ref|kx=0657.100|dkj=18526|dj=1067.120|hdz=31770.060|uh=6FEE|ud=28654|bh=C0E4|bd=49380}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|僕|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=pú
+|c=buk1,buk6
+|mc=y
+|oc=y
+|cat=pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{n-g|county in [[Henan]] Province}}
+
+====Compounds====
+{{zh-der|城濮|桑間濮上|濠濮間想|濮上之音|濮上桑間|濮上}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水14}}
+
+# {{defn|lang=ja|sort=水14}}
+
+====Readings====
+* {{ja-readings|on=[[ほく]] (hoku), [[ぼく]] (boku)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=복|eumhun=|rv=bok|mr=pok|y=pok}}
+
+# {{defn|lang=ko|sort=水14}}
+
+[[fr:濮]]
+[[hu:濮]]
+[[mg:濮]]
+[[ja:濮]]
+[[pl:濮]]
+[[th:濮]]
+[[zh:濮]]

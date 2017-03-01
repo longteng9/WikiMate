@@ -1,0 +1,58 @@
+{{also|无论}}
+==Chinese==
+{{zh-forms|s=无论}}
+
+===Pronunciation===
+{{zh-pron
+|m=wúlùn
+|c=mou4 leon6
+|h=pfs=mò-lun/vù-lun
+|mn=bô-lūn/qz,xm,zz:bû-lūn
+|ma=Zh-wúlùn.ogg
+|cat=con
+}}
+
+===Conjunction===
+{{zh-con}}
+
+# [[no matter]] [[what]], [[how]], etc.; [[regardless of]]
+
+====Derived terms====
+{{zh-der|無論如何}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|む|ろん}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=むろん}} {{m|zh|無論|tr=mju lwon<sup>H</sup>|lit=without discussion, no argument}}. Compare modern {{etyl|hak|-}} ''mò-lun'' or {{etyl|yue|-}} ''mou<sup>4</sup> leon<sup>6</sup>''.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|むろん|acc=0|acc_ref=DJR}}
+
+===Adverb===
+{{ja-pos|adverb|むろん}}
+
+# [[no doubt]], [[naturally]], [[of course]], [[it goes without saying]]
+#: {{ja-usex|'''無論'''こんな馬鹿なことはありえない。|'''^むろん''' こんな ばか な こと は ありえない。|'''It goes without saying that''' this kind of idiotic thing simply cannot be.}}
+
+===Noun===
+{{ja-noun|むろん}}
+
+# something that is clearly the case
+#: {{ja-usex|あれは'''無論'''ですね。|^あれ は '''むろん''' です ね。|That is '''clearly the case'''.}}
+
+====Usage notes====
+More commonly used as an [[adverb]].
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[zh-min-nan:無論]]
+[[ko:無論]]
+[[hu:無論]]
+[[ja:無論]]

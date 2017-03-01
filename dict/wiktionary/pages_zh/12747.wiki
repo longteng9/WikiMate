@@ -1,0 +1,61 @@
+{{character info/new}}
+{{also|器}}
+==Translingual==
+
+===Etymology===
+{{rfe|lang=mul|Did this come to be a variant of {{l|mul|器}}?}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=12|sn=15|four=|canj=RRMRR|ids=⿳吅工吅}}
+
+# [[receptacle]], [[vessel]]
+# [[instrument]]
+
+====References====
+* {{Han ref|kx=0209.010|dkj=04311|dj=0431.240|hdz=10683.010|uh=5650|ud=22096}}
+
+----
+
+==Chinese==
+{{zh-see|器|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口12}}
+
+# {{defn|lang=ja|sort=口12}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[うつわ]] (utsuwa)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|rv=gi|mr=ki}}
+
+# {{defn|lang=ko|sort=口12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khí]]|rs=口12}}
+
+# {{defn|lang=vi|sort=口12}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5650 Nom Foundation]
+
+[[fr:噐]]
+[[li:噐]]
+[[hu:噐]]
+[[ja:噐]]
+[[pl:噐]]
+[[th:噐]]
+[[zh:噐]]

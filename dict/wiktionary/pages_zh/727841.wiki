@@ -1,0 +1,43 @@
+{{also|败走}}
+==Chinese==
+{{zh-forms|s=败走}}
+
+===Pronunciation===
+{{zh-pron
+|m=bàizǒu
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[flee]] in [[defeat]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|はい|そう|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|はいそう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はいそう}}
+
+# [[rout]]
+
+===Verb===
+{{ja-verb-suru|はいそう}}
+
+# to [[flee]] in [[defeat]] in battle
+
+====Conjugation====
+{{ja-suru|はいそう}}
+
+===References===
+<references/>
+
+[[fr:敗走]]
+[[ko:敗走]]
+[[mg:敗走]]
+[[zh:敗走]]

@@ -1,0 +1,73 @@
+==Chinese==
+{{zh-forms|alt=擸𢶍,磖磼,𧞪䙣,𧙀䙣,儠㒎,𦆻颯,拉颯,垃靸,垃趿}}
+
+===Etymology===
+From earlier {{zh-l|擸𢶍|to jumble; jumble; litter}}. Reduplication derived from a root (*lap or *sap) meaning "untidy, unclean".
+
+Second syllable of the Mainland Mandarin reading ''lājī'' is irregular, resulting from the incorrect association of the rare character in its obsolete form {{zh-l|靸}} with the usual pronunciation of its phonetic component ({{zh-l|及}}).
+
+Cognate with {{zh-l|邋遢|unclean, untidy, unkempt}} (> {{zh-l|邋邋遢遢}}, {{zh-l|邋裡邋遢}}).
+
+===Pronunciation===
+{{zh-pron
+|m=垃圾
+|c=laap6 saap3
+|c-t=lep5 lhep2
+|h=pfs=lep-sep/let-set
+|mn=xm,qz,zz,km:lap-sap/zz:lah-sap
+|mn-t=nah4 sab4
+|w=3la xi,5leq seq
+|w_note=3la xi - modern; 5leq seq - near-obsolete
+|cat=n,a
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[garbage]]; [[rubbish]]; [[trash]]; [[waste]]; [[refuse]]
+#: {{zh-x|清理 垃圾|to clean up the '''rubbish'''}}
+#: {{zh-x|扔 垃圾|to litter}}
+# rubbish {{gloss|a valueless thing}}
+
+=====Synonyms=====
+{{zh-dial}}
+
+=====Derived terms=====
+{{zh-der|垃圾車:lājīchē; lèsèchē|垃圾食品:lājī shípǐn; lèsè shípǐn|垃圾桶:lājītǒng; lèsètǒng|倒垃圾:dào lājī; dào lèsè|垃圾分類|垃圾回收|垃圾堆|垃圾場|垃圾子母車|垃圾山|垃圾焚化爐|垃圾相|垃圾筒|垃圾箱|垃圾量|垃圾食物}}
+
+====Adjective====
+{{zh-adj}}
+
+# {{lb|zh|colloquial}} very [[bad]]; [[rubbish]]
+#: {{zh-x|電影 太 垃圾 了！|This movie is so '''shit'''!}}
+
+===Pronunciation===
+{{zh-pron
+|h=pfs=lá-sap
+|mn=xm,hc,tc,lk,km:lap-sap/zz,tp,kh,tn,yl,lk,sx,mg:lah-sap
+|mn-t=nah4 sab4
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# {{lb|zh|Min Nan|Hakka}} [[dirty]]; [[unhygienic]]
+# {{lb|zh|Hakka}} [[haunted]]
+
+=====Synonyms=====
+{{zh-dial|髒}}
+
+{{zh-cat|Elementary}}
+
+[[zh-min-nan:垃圾]]
+[[fr:垃圾]]
+[[ko:垃圾]]
+[[kn:垃圾]]
+[[hu:垃圾]]
+[[mg:垃圾]]
+[[ja:垃圾]]
+[[tl:垃圾]]
+[[chr:垃圾]]
+[[uk:垃圾]]
+[[zh:垃圾]]

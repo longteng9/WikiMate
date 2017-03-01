@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|び|ぶん|ほう|てい|しき|yomi=o}}
+
+===Noun===
+{{ja-noun|びぶん ほうていしき}}
+
+# {{lb|ja|mathematics|sort=ひふんほうていしき'}} [[differential equation]]
+
+====Related terms====
+* {{l|ja|常微分方程式}}
+* {{l|ja|偏微分方程式}}
+
+===See also===
+* {{l|ja|積分方程式}}
+* {{l|ja|差分方程式}}
+
+[[lo:微分方程式]]
+[[hu:微分方程式]]
+[[zh:微分方程式]]

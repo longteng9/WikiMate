@@ -1,0 +1,35 @@
+{{also|整數}}
+==Chinese==
+{{zh-see|整數}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|すう|yomi=on}}
+
+===Noun===
+{{ja-noun|せいすう}}
+
+# {{lb|ja|mathematics}} [[integer]]
+
+====Compounds====
+* {{ja-r|整数論|せいすうろん|gloss=number theory}}
+
+===See also===
+* {{ja-r|数|すう|gloss=[[number]]}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Mathematics|せいすう]]
+
+[[fr:整数]]
+[[ko:整数]]
+[[lo:整数]]
+[[li:整数]]
+[[hu:整数]]
+[[mg:整数]]
+[[ja:整数]]
+[[fi:整数]]
+[[sv:整数]]
+[[zh:整数]]

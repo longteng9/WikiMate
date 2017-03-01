@@ -1,0 +1,87 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=134|rad=臼|as=04|sn=10|four=20777|canj=BHX|ids=⿱爫臼}}
+
+# [[ladle]] out
+# [[spoon]] out
+
+====References====
+* {{Han ref|kx=1003.090|dkj=30183|dj=1460.050|hdz=53038.140|uh=8200|ud=33280|bh=AFE6|bd=45030}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǎo
+|c=jiu5
+|h=pfs=yéu
+|mn=qz,xm,zz:iáu/qz,twv,xm:ió/zz:ióⁿ/tw:iúⁿ
+|mn_note=iáu - literary; ió/ióⁿ/iúⁿ - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|水舀子|舀子|舀水瓢}}
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|6554}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=臼04}}
+
+# [[dip]]
+# [[ladle]]
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō)|kun=[[くむ]] (kumu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=요|eumhun=|rv=yo|mr=yo|y=yo}}
+
+# ladle out
+# spoon out
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[yểu]]|rs=臼04}}
+
+# {{defn|lang=vi|sort=臼04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=8200 Nom Foundation]
+
+[[zh-min-nan:舀]]
+[[fr:舀]]
+[[hu:舀]]
+[[mg:舀]]
+[[no:舀]]
+[[pl:舀]]
+[[th:舀]]
+[[chr:舀]]
+[[zh:舀]]

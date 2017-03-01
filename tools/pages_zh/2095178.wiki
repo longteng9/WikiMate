@@ -1,0 +1,44 @@
+{{also|反动}}
+==Chinese==
+{{zh-forms|s=反动}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǎndòng
+|c=faan2 dung6
+|mn=hoán-tōng
+|cat=a,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[reactionary]]
+
+===Noun===
+{{zh-noun}}
+
+# [[reaction]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|はん|どう|yomi=on}}
+
+===Noun===
+{{ja-noun|はんどう}}
+
+# [[reaction]], especially [[opposition]]s to [[changes]]
+#: {{ja-usex|それは保守・'''反動'''だ。|それ は ほしゅ・'''はんどう''' だ。|That is reactionary and conservative.}}
+# {{lb|ja|weapons|sort=はんどう}} [[recoil]], [[kickback]], [[repercussion]]
+
+====Synonyms====
+* {{sense|reaction}} {{ja-r|反作用|はんさよう}}, {{ja-r|手答え|てごたえ}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:反動]]
+[[hu:反動]]
+[[mg:反動]]
+[[zh:反動]]

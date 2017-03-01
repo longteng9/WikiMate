@@ -1,0 +1,41 @@
+{{also|风速计}}
+==Chinese==
+{{zh-forms|s=风速计|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēngsùjì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[anemometer]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふう|そく|けい|yomi=o}}
+
+===Etymology===
+{{suffix|風速|計|t1=wind speed|t2=meter|lang=ja|sort=ふうそくけい}}
+
+===Pronunciation===
+* {{ja-pron|ふうそくけい|yomi=o}}
+
+===Noun===
+{{ja-noun|ふうそくけい}}
+
+# [[anemometer]]
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=풍속계}}
+
+# {{hanja form of|풍속계|[[anemometer]]}}
+
+[[ko:風速計]]
+[[zh:風速計]]

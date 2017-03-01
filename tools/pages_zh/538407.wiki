@@ -1,0 +1,52 @@
+{{also|规则}}
+==Chinese==
+{{zh-forms|s=规则}}
+
+===Etymology===
+Re{{borrowing|zh|ja|-|nocap=1}} {{ja-r|規則|きそく}} for sense of "regulations".
+
+===Pronunciation===
+{{zh-pron
+|m=guīzé
+|ma=Zh-guizé.ogg
+|c=kwai1 zak1
+|h=pfs=kûi-chet
+|mn=kui-chek
+|cat=a,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[regular]]; [[fixed]]
+
+===Noun===
+{{zh-noun}}
+
+# [[rule]]; [[regulation]] {{zh-mw|m:條}}
+
+====Derived terms====
+{{zh-der|規章|潛規則}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|き|そく|yomi=on}}
+
+===Noun===
+{{ja-noun|きそく}}
+
+# [[rule]]; [[regulation]]
+
+[[zh-min-nan:規則]]
+[[fr:規則]]
+[[ko:規則]]
+[[hu:規則]]
+[[mg:規則]]
+[[ja:規則]]
+[[pt:規則]]
+[[th:規則]]
+[[chr:規則]]
+[[zh:規則]]

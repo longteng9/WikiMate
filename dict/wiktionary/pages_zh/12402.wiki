@@ -1,0 +1,99 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=07|sn=10|four=61061|canj=RMMR,XRMMR|ids=⿰口吾}}
+
+====References====
+* {{Han ref|kx=0193.051|dkj=03741|dj=0413.110|hdz=10627.020|uh=5514|ud=21780|bh=ADF8|bd=44536}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+Belongs to the *''m-'' series of negatives; see {{och-l|無|no}} for more. Cognate with the syllabic negative {{zh-l|*毋|tr=m̄, m̀}} in Min Nan and Hakka.
+
+====Pronunciation====
+{{zh-pron
+|c=m4,ng4
+|c_note=ng4 - hypercorrection
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tcx|lang=zh|Cantonese}}
+
+# {{n-g|Particle placed before a verb or adjective to make it negative.}}
+#: {{zh-x|唔好意思，我 唔 記得。|Sorry, I do'''n't''' remember.|C-GZ}}
+#: {{zh-x|你 知 唔 知道 游水池 喺 邊度{dou6} 呀？|Do you know where the swimming pool is?|C-GZ}}
+# {{n-g|Particle of hesitation or thinking.}}
+#: {{zh-x|唔……不如 去 嗰 間 餐廳 吖！|'''Well'''... let's go to that restaurant!|C-GZ}}
+# {{n-g|Particle of agreement.}}
+#: {{zh-x|「噉樣{joeng6-2} 得 唔 得 呀？」「唔。」|"Is this OK?" "'''Uh-huh'''."|C-GZ}}
+
+====Synonyms====
+{{zh-dial|不}}
+
+====Usage notes====
+* Cantonese {{lang|zh|唔}} is the direct equivalent of Modern Standard Chinese's {{zh-l|不}}, but there are some fixed phrases where {{lang|zh|不}} cannot be substituted with {{lang|zh|唔}}. For example, {{zh-l|不可以}} is equivalent to {{zh-l|唔可以|tr=m4 ho2 ji5}} but {{zh-l|不如}} cannot become *{{lang|zh|唔如}}.
+* See also [[不#Usage notes]].
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=wú
+|cat=intj
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|An expression of permission or surprise}}; [[hmm]]
+# {{zh-only|咿唔|sound of recitation}}
+
+===References===
+* {{R:twedu|A00591}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口07}}
+
+# {{defn|lang=ja|sort=口07}}
+
+====Readings====
+* {{ja-readings|on=[[ご]] (go)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=오|rv=o|mr=o}}
+
+# {{defn|lang=ko|sort=口07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngô]]|rs=口07}}
+
+# {{defn|lang=vi|sort=口07}}
+
+[[fr:唔]]
+[[ko:唔]]
+[[li:唔]]
+[[hu:唔]]
+[[mg:唔]]
+[[ja:唔]]
+[[pl:唔]]
+[[sr:唔]]
+[[th:唔]]
+[[zh:唔]]

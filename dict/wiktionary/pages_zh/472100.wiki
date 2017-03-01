@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{compound|lang=zh|白|t1=[[white]]|熊|t2=[[bear]]}}. Compare {{cog|ja|白熊|tr=shirokuma}}, {{cog|ko|흰곰}}, {{cog|vi|gấu trắng}}, all of which literally means “white bear”.
+
+===Pronunciation===
+{{zh-pron
+|m=báixióng
+|c=baak6 hung4
+|mn=pe̍h-hîm
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# a [[polar bear]]
+
+====Synonyms====
+* {{zh-l|北極熊|tr=běijíxióng}}
+
+{{zh-cat|Ursids}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しろ|くま|yomi=k}}
+
+===Etymology===
+{{compound|lang=ja|sort=しろくま|白|tr1=shiro|t1=[[white]]|熊|tr2=kuma|t2=[[bear]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> Compare {{cog|zh|白熊}}, {{cog|ko|흰곰}}, {{cog|vi|gấu trắng}}, all of which literally mean “white bear”.
+
+===Pronunciation===
+{{ja-pron|yomi=k|しろくま|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|しろくま|シロクマ}}
+
+# a [[polar bear]]
+
+====Synonyms====
+* {{ja-r|北%極%熊|^ホッ%キョク%グマ}}
+
+===References===
+<references/>
+
+[[Category:ja:Ursids|しろくま]]
+
+[[fr:白熊]]
+[[hu:白熊]]
+[[zh:白熊]]

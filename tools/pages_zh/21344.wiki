@@ -1,0 +1,54 @@
+{{character info/new}}
+{{also|痪}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=09|sn=14|four=00181|canj=KNBK}}
+
+# paralysis, numbness of limbs
+
+====References====
+* {{Han ref|kx=0777.050|dkj=22351|dj=1187.180|hdz=42685.131|uh=7613|ud=30227|bh=BAC8|bd=47816}}
+
+----
+
+==Chinese==
+{{zh-forms|s=痪}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huàn
+|c=wun6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|交通癱瘓|癱瘓}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒09}}
+
+# {{defn|lang=ja|sort=疒09}}
+
+====Readings====
+* {{ja-readings|on=[[たん]] (tan)|kun=[[やむ]] (yamu)|nanori=}}
+
+[[fr:瘓]]
+[[hu:瘓]]
+[[pl:瘓]]
+[[th:瘓]]
+[[zh:瘓]]

@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|み|て|あら|o3=あらし|yomi=kun}}
+{{ja-kanjitab|み|て|あら|o3=あらい|yomi=kun}}
+{{ja-kanjitab|お|て|あら|o3=あらい|yomi=kun}}
+
+===Etymology===
+From {{compound|lang=ja|御|手|洗|t1=honorific prefix|t2=hand|t3=washing}}, with a sound change from {{IPAchar|/te.a/}} to {{IPAchar|/ta/}}, and the word {{m|ja|御}} taking its both kun readings.
+
+===Noun===
+{{ja-noun|みたらし}}
+
+# [[purify]]ing water at the [[entrance]] of a [[shrine]]
+
+===Noun===
+{{ja-noun|みたらい}}
+
+# [[purify]]ing water at the [[entrance]] of a [[shrine]]
+
+===Noun===
+{{ja-noun|おてあらい}}
+
+# {{ja-def|お手洗い}} [[toilet]]
+
+[[ja:御手洗]]

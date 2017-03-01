@@ -1,0 +1,169 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=5}}
+
+===Han character===
+{{Han char|rn=36|rad=夕|as=02|sn=5|four=23200|canj=NIY|ids=⿰夕卜}}
+
+====References====
+* {{Han ref|kx=0246.020|dkj=05750|dj=0487.050|hdz=20860.010|uh=5916|ud=22806|bh=A57E|bd=42366}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|卜|月|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wài
+|m-s=wai4/wei4
+|m-s_note=wei4 appears in some phrases
+|c=ngoi6
+|h=pfs=ngoi
+|md=nguôi/ngiê
+|md_note=nguôi - literary; ngiê - colloquial
+|mn=gōa/gōe
+|mn_note=gōe - literary; gōa - colloquial
+|w=3nga
+|mc=y
+|oc=y
+|cat=a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[out]], [[outside]], [[external]]
+#: {{zh-ant|裡|內}}
+# [[beyond]], [[above]]
+# not of one's own family, clan, locality, school, country, etc.; [[foreign]]
+# [[relatives]] of one's mother, sister or daughter
+#: {{zh-x|外婆|maternal grandmother}}
+#: {{zh-x|外孫|daughter's son}}
+#: {{zh-x|外祖父|maternal grandfather}}
+
+===Compounds===
+{{zh-der|丁外艱|不外|不外乎|不自外|中外|之外|以外|作外|例外|內外|其外|出外|出外景|出意外|分外|劍外|務外|化外|口外|另外|向外|味外味|員外|員外郎|圈外人|國外|在外|域外|塞外|外丹|外丹功|外事|外交|外交團|外交官|外交部|外人|外來|外來語|外來錢|外侮|外側|外傅|外傳|外債|外傷|外像|外僑|外光派|外公|外出|外出服|外出血|外力|外功|外加|外動詞|外務|外務員|外勞|外勤|外包|外匯|外卡|外史|外名|外向|外呈答|外呼吸|外商|外四路|外國|外國人|外國貨|外圍|外在|外在美|外地|外型|外城|外埠|外場|外場人|外外|外太空|外套|外姓|外婆|外婦|外子|外孫|外孫女|外宅|外官|外客|外家|外宿|外寇|外層|外帶|外幣|外延|外引|外弟|外形|外後日|外心|外快|外快子|外患|外感|外戚|外戶|外手|外才|外找|外技|外掛|外接圓|外揚|外援|外放|外教|外敵|外敷|外文|外方|外族|外日|外星人|外景|外末|外果皮|外標|外欠|外此|外殼|外母|外毒素|外氏|外水|外江|外泄|外洋|外洩|外流|外流區|外流河|外海|外淨|外港|外焰|外煙|外燃機|外父|外生|外甥|外甥女|外用|外用藥|外界|外痔|外相|外省|外祖母|外祖父|外科|外秧兒|外稃|外篇|外籍|外線|外緣|外縣|外罩|外耳|外耳道|外聽道|外胎|外胚層|外膜|外舅|外舍|外艱|外蒙|外蒙古|外藩|外號|外行|外行人|外行星|外行話|外衣|外表|外褂|外親|外觀|外角|外角球|外話|外語|外調|外貌|外財|外貨|外貿|外資|外賓|外賣|外路|外路人|外遇|外道|外道兒|外道話|外邊|外郎|外部|外鄉|外野|外野手|外鈔|外銷|外錯角|外長城|外間|外附|外集|外電|外電路|外面|外面情|外項|外頭|外館|天外|媚外|室外|局外|局外人|山外|崇外|度外|徼外|心外膜|意外|意外險|戶外|打外|打野外|拍外景|排外|援外|方外|方外人|望外|格外|此外|治外|法外|流外|海外|海外版|涉外|濱外|牆外漢|物外|界外|界外球|窗外|紅外線|紫外線|老外|而外|膜外|自外|荒外|號外|裡外|裡外裡|見外|言外|課外|象外|賺外快|郊外|野外|門外|門外漢|開外|關外|除外|䫄外|題外話|額外|餘外|騖外}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=夕02}}
+
+# [[outside]]
+# [[foreign]]
+# [[other]]
+# [[except]]
+
+====Readings====
+* {{ja-readings
+|goon=[[げ]] (ge)
+|kanon=[[がい]] (gai)
+|toon=[[うい]] (ui) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kun=[[そと]] (soto), [[ほか]] (hoka), [[はずす]] ([[外す]], hazusu)}}
+
+===Noun===
+{{ja-noun|ほか}}
+
+# [[other]] (things); the [[rest]]
+
+===Noun===
+{{ja-noun|そと}}
+
+# (the) [[outside]]
+
+===Suffix===
+{{ja-pos|がい|suffix}}
+
+# [[outside]] of; [[except]] for
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|外骨格|がいこっかく}}: an [[exoskeleton]]
+* {{ja-r|外形|がいけい}}: [[external]] [[shape]]/[[form]]
+* {{ja-r|外す|はずす}}: to [[unfasten]], to [[remove]]
+* {{ja-r|外祖母|がいそぼ}}: (rare) [[maternal grandmother]], [[mother]]'s mother
+* {{ja-r|外交|がいこう}}
+* {{ja-r|外人|がいじん}}
+* {{ja-r|外傷|がいしょう}}
+* {{ja-r|外出|がいしゅつ}}
+* {{ja-r|外務省|がいむしょう}}
+* {{ja-r|外国|がいこく}}
+* {{ja-r|外国人|がいこくじん}}
+* {{ja-r|外国語|がいこくご}}
+* {{ja-r|外来|がいらい}}
+* {{ja-r|外来語|がいらいご}}
+{{der-mid}}
+* {{ja-r|外泊|がいはく}}
+* {{ja-r|外相|がいしょう}}
+* {{ja-r|外科|げか}}
+* {{ja-r|外耳|がいじ}}
+* {{ja-r|外苑|がいえん}}
+* {{ja-r|外資|がいし}}
+* {{ja-r|外貨|がいか}}
+* {{ja-r|外装|がいそう}}
+* {{ja-r|外道|げどう}}
+* {{ja-r|外部|がいぶ}}
+* {{ja-r|海外|かいがい}}
+* {{ja-r|室外|しつがい}}: [[outside]] a [[room]], [[outdoor]]
+{{der-bottom}}
+
+====Antonyms====
+* {{l|ja|内}}
+
+[[Category:Japanese basic words]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=외|rv=oe|mr=oe|y=oy|eumhun=바깥|ehrv=bakkat|ehmr=pakkat|ehy=pakkath}}
+
+# {{defn|lang=ko|sort=夕02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngoại]], [[ngoái]], [[ngoải]], [[ngoài]], [[nguậy]]|rs=夕02}}
+
+* {{defn|lang=vi|sort=夕02}}
+
+====Readings====
+* Nôm: ngoái, ngoài, ngoại, ngòi, ngồi
+
+====Compounds====
+* [[ngoại quốc]] ([[外國]])
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville
+
+[[fr:外]]
+[[ko:外]]
+[[it:外]]
+[[lo:外]]
+[[hu:外]]
+[[mg:外]]
+[[ms:外]]
+[[fj:外]]
+[[ja:外]]
+[[no:外]]
+[[pl:外]]
+[[pt:外]]
+[[ru:外]]
+[[fi:外]]
+[[ta:外]]
+[[th:外]]
+[[chr:外]]
+[[uk:外]]
+[[zh:外]]

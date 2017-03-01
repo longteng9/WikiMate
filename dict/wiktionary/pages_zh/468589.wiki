@@ -1,0 +1,34 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Man'yōgana}}
+[[File:Hiragana_origin.jpg|thumb|250px|{{lang|ja|万葉仮名}}: development of ''[[hiragana]]'' from '''''man'yōgana''''']]
+</div>
+{{ja-kanjitab|まん|よう|か|k3=が|な|r=y}}<!-- This is on'yomi for the ''man'yō'' part, but kun'yomi for the ''kana'' part. -->
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=まんようがな|万葉|tr1=man'yō|t1=ten thousand leaves|pos1=from the title of the {{etyl|ojp|-}} poetry anthology, [[w:Man'yōshū|''Man'yōshū'']], “Collection of Ten Thousand Leaves”|仮名|tr2=kana|t2=phonetic character|pos2=literally “borrowed characters” or “borrowed names”, from the way the characters were borrowed for their phonetic values}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+This kind of phonetic re-use of Chinese characters was broadly popularized by the the [[w:Man'yōshū|''Man'yōshū'']]. Chinese used phonetically to spell Japanese occurs even earlier in the historical record, such as on the [[w:Inariyama Sword|Inariyama Sword]], dated to 471 or 531.
+
+===Pronunciation===
+{{ja-pron|まんようがな|acc=0|acc_ref=NHK,DJR,SMK5|acc2=3|acc2_ref=NHK,DJR,SMK5}}
+
+===Noun===
+{{ja-noun|まんようがな|hhira=まんえふがな}}
+
+# the early Japanese [[syllabary]] using Chinese characters to represent Japanese sounds: the predecessor of [[hiragana]] and [[katakana]]
+
+===See also===
+* {{ja-r|男手|おとこで}}
+* {{ja-r|真名|まな}}, {{ja-r|真字|まな}}
+* {{ja-r|真字|しんじ}}
+
+===References===
+<references/>
+[[Category:ja:Writing systems|まんようがな]]
+
+[[ar:万葉仮名]]
+[[ja:万葉仮名]]
+[[ru:万葉仮名]]
+[[zh:万葉仮名]]

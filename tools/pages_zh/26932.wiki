@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|证|證}}
+==Translingual==
+{{Han simplified forms|證|証|证}}
+
+===Han character===
+{{Han char|rn=149|rad=言|as=05|sn=12|four=01611|canj=YRMYM|ids=⿰言正}}
+
+# [[prove]], [[confirm]], [[verify]]
+# [[proof]]
+
+====References====
+* {{Han ref|kx=1152.270|dkj=35341|dj=1619.160|hdz=63951.170|uh=8A3C|ud=35388|bh=B5FD|bd=46589}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|證|v}}
+
+===Etymology 2===
+{{zh-forms|s=证}}
+
+====Pronunciation====
+{{zh-pron
+|m=zhèng
+|c=zing3
+|mn=chèng
+|oc=y
+|mc=y
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[admonish]]
+
+===References===
+* {{R:twedu|A03806}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=言05|style=s|kyu=證}}
+
+# {{defn|lang=ja|sort=言05}}
+
+====Readings====
+* {{ja-readings|goon=[[しょう]] (shō)|kanon=[[しょう]] (shō), [[せい]] (sei)|kun=[[あかし]] (akashi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=정|eumhun=|rv=jeong|mr=chŏng|y=ceng}}
+
+# {{defn|lang=ko|sort=言05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chứng]], [[chống]], [[chững]], [[chừng]]|rs=言05}}
+
+# {{defn|lang=vi|sort=言05}}
+
+[[fr:証]]
+[[ko:証]]
+[[lo:証]]
+[[hu:証]]
+[[mg:証]]
+[[ja:証]]
+[[pl:証]]
+[[th:証]]
+[[chr:証]]
+[[zh:証]]

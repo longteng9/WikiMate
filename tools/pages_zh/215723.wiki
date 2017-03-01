@@ -1,0 +1,79 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qīngchǔ
+|ma=Zh-qīngchu.ogg
+|c=cing1 co2
+|h=pfs=chhîn-chhú
+|md=chĭng-chū
+|mn=xm,tw:chheng-chhó/xm,qz,zz,twv:chheng-chhó͘
+|cat=a,adv
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[clear]]; [[lucid]]
+# [[clear]] about (a matter); [[unambiguous]]
+# [[plain]]; [[distinct]]; [[obvious]]
+# {{lb|zh|obsolete|or|Min Dong}} [[tidy]]; [[neat]]; [[refined]]
+
+====Synonyms====
+* {{qualifier|Wu}} {{zh-l|*清爽}}
+
+====Antonyms====
+* {{zh-l|糊塗}}
+
+====Usage notes====
+* Used often in a figurative sense (ex. ''to be clear on a matter''), rather than in a literal sense. For the literal clear (ex. ''clear water''), see {{zh-l|清澈}}.
+
+===Adverb===
+{{zh-adverb}}
+
+# [[clearly]]
+#: {{zh-x|聽 不 清楚|unable to hear clearly}}
+# until a [[matter]] is "clear" (making sense, unambiguous, etc.)
+#: {{zh-x|說清楚|to make something clear}}
+
+====Derived terms====
+{{zh-der|弄清楚}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|そ|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|せいそ}}
+
+# [[neat]] and [[clean]]
+# [[tidy]]; [[trim]]
+
+====Inflection====
+{{ja-na|せいそ}}
+
+===Noun===
+{{ja-noun|せいそ}}
+
+# [[neatness]] and [[cleanliness]]
+# [[tidiness]]
+
+===References===
+* {{R:Kojien}}
+* {{R:Meikyo}}
+* {{R:Shogakukan}}
+
+[[zh-min-nan:清楚]]
+[[ko:清楚]]
+[[lt:清楚]]
+[[hu:清楚]]
+[[mg:清楚]]
+[[ja:清楚]]
+[[ta:清楚]]
+[[chr:清楚]]
+[[uk:清楚]]
+[[zh:清楚]]

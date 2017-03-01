@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|骄}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=12|sn=22|four=72327|canj=SFHKB|ids=⿰馬喬}}
+
+====References====
+* {{Han ref|kx=1445.250|dkj=45008|dj=1969.300|hdz=74577.120|uh=9A55|ud=39509|bh=C5BA|bd=50618}}
+
+----
+
+==Chinese==
+{{zh-forms|s=骄}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiāo
+|c=giu1
+|mc=y
+|oc=y
+|ma=
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|likely|_|obsolete}} [[large]] [[horse]]
+# [[haughty]]; [[arrogant]]
+
+====Compounds====
+{{zh-der|驕傲|驕兵必敗|驕橫|驕矜|驕狂|驕慢|驕氣|驕奢淫逸|驕陽|驕躁|驕子|驕恣|驕縱}}
+
+===References===
+* {{R:twedu|A04649}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬12}}
+
+# {{defn|lang=ja|sort=馬12}}
+
+====Readings====
+* {{ja-readings|on=[[きょう]] (kyō)|kun=[[おごる]] (ogoru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[교]], [[효]]|eumhun=|rv=gyo, hyo|mr=kyo, hyo|y=kyo, hyo}}
+
+# {{defn|lang=ko|sort=馬12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kiêu]]|rs=馬12}}
+
+# {{defn|lang=vi|sort=馬12}}
+
+[[fr:驕]]
+[[ko:驕]]
+[[hu:驕]]
+[[mg:驕]]
+[[ja:驕]]
+[[pl:驕]]
+[[th:驕]]
+[[vi:驕]]
+[[zh:驕]]

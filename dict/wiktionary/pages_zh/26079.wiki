@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=08|sn=14|four=56127|canj=LIAPH|ids=⿰虫易}}
+
+# [[lizard]]
+
+====References====
+* {{Han ref|kx=1087.230|dkj=33190|dj=1554.160|hdz=42862.050|uh=8734|ud=34612|bh=BB69|bd=47977}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=jik6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|蟋蜴|虺蜴|蜥蜴}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫08}}
+
+# {{defn|lang=ja|sort=虫08}}
+
+====Readings====
+* {{ja-readings|on=[[えき]] (eki), [[やく]] (yaku), [[せき]] (seki)|kun=[[とかげ]] (tokage)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=척|eumhun=|rv=cheok|mr=ch'ŏk|y=chek}}
+
+# {{defn|lang=ko|sort=虫08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dịch]]|rs=虫08}}
+
+# {{defn|lang=vi|sort=虫08}}
+
+[[fr:蜴]]
+[[hu:蜴]]
+[[mg:蜴]]
+[[ja:蜴]]
+[[pl:蜴]]
+[[th:蜴]]
+[[vi:蜴]]
+[[zh:蜴]]

@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dìngxíng
+|c=ding6 jing4
+|mn=tiāⁿ-hêng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[permanent wave]], [[permanent]], or [[perm]] (hairdressing)
+
+===Verb===
+{{zh-verb}}
+
+# to [[finalize]] (a design, etc.)
+# to [[stereotype]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|てい|けい|yomi=on}}
+
+===Alternative forms===
+* {{l/ja|定形}}
+
+===Noun===
+{{ja-noun|ていけい}}
+
+# [[fixed]] [[pattern]]
+#: {{ja-usex|それは'''定型'''パターンだ。|それ は '''ていけい''' パターン だ。|It follows a pattern of things.}}
+
+====Compounds====
+* {{ja-r|定型詩|ていけいし|gloss=fixed form poetry}}
+* {{ja-r|定型動詞|ていけい どうし|gloss=finite verb}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:定型]]
+[[zh:定型]]

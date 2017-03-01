@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|谪}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=11|sn=18|four=00627|canj=YRYCB}}
+
+# [[charge]], [[blame]]
+# [[disgrace]]
+# [[demote]]
+# [[punish]]
+
+====References====
+* {{Han ref|kx=1177.220|dkj=35868|dj=1641.390|hdz=64014.120|uh=8B2B|ud=35627|bh=C2D6|bd=49878}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谪}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhé
+|c=zaak6
+|h=pfs=
+|md=
+|mn=qz:tiak/xm,zz:tek
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言11}}
+
+# {{defn|lang=ja|sort=言11}}
+
+====Readings====
+* {{ja-readings|on=[[たく]] (taku), [[ちゃく]] (chaku)|kun=[[せめる]] (semeru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=적|eumhun=|rv=jeok|mr=chŏk|y=cek}}
+
+# {{defn|lang=ko|sort=言11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trích]]|rs=言11}}
+
+# {{defn|lang=vi|sort=言11}}
+
+[[fr:謫]]
+[[ko:謫]]
+[[hu:謫]]
+[[ja:謫]]
+[[pl:謫]]
+[[th:謫]]
+[[zh:謫]]

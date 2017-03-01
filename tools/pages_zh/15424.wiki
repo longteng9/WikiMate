@@ -1,0 +1,111 @@
+{{character info/new}}
+{{also|恠}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=05|sn=8|four=97014|canj=PEG|ids=⿰忄圣}}
+
+====Synonyms====
+* {{l|mul|異}}, {{l|mul|奇}}, {{l|mul|妖}}
+
+====References====
+* {{Han ref|kx=0382.100|dkj=10483|dj=0711.050|hdz=42288.120|uh=602A|ud=24618|bh=A9C7|bd=43463}}
+
+----
+
+==Chinese==
+{{zh-forms|怪}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|心|圣|alt1=忄|ls=psc|c1=s|c2=p}}; the sound "guai".
+
+===Pronunciation===
+{{zh-pron
+|m=guài
+|c=gwaai3
+|h=pfs=koai
+|mn=kòe/koài
+|mn_note=kòe - vernacular, koài - literary
+|w=2kua
+|mc=y
+|oc=y
+|ma=Zh-guài.ogg
+|mna=Taiwanese-The_Consonant_k.ogg
+|cat=a,v,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[strange]], [[unusual]], [[peculiar]], out-of-the-ordinary
+# to [[blame]] someone
+# [[quite]], [[rather]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=心05}}
+
+# suspicious
+
+====Readings====
+{{ja-readings|goon=[[け]] (ke) {{non-joyo-reading}}|kanon=[[かい]] (kai)|kun=[[あやしい]] ([[怪しい]], ayashii), [[あやしむ]] ([[怪しむ]], ayashimu)|nanori=[[やす]] (yasu), [[よし]] (yoshi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|怪獣|かいじゅう}}: [[monster]]
+* {{ja-r|怪猫|かいびょう}}: a [[monster]] [[cat]]
+* {{ja-r|怪我|けが}}: an {{l|en|injury}}, a {{l|en|wound}}
+* {{ja-r|怪傑|かいけつ}}: an {{l|en|extraordinary}} {{l|en|person}}
+{{der-bottom}}
+
+{{ja-kanjitab|かい|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=かい}} {{m|zh|怪|tr=kwɛj<sup>H</sup>}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|かい|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|かい|hhira=くわい}}
+
+# [[strangeness]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=괴|eumhun=|mr=koe|y=koy}}
+
+# {{defn|lang=ko|sort=心05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quái]], [[quảy]], [[quấy]], [[quế]]|rs=心05}}
+
+# {{defn|lang=vi|sort=心05}}
+
+[[zh-min-nan:怪]]
+[[fr:怪]]
+[[ko:怪]]
+[[li:怪]]
+[[hu:怪]]
+[[mg:怪]]
+[[ms:怪]]
+[[ja:怪]]
+[[no:怪]]
+[[pl:怪]]
+[[th:怪]]
+[[chr:怪]]
+[[zh:怪]]

@@ -1,0 +1,39 @@
+{{character info/new}}
+{{also|醬}}
+==Translingual==
+{{Han simplified forms|醬|醤|酱|ex=y}}
+
+===Etymology===
+Unofficial Japanese {{Han simp|醬|f=將|t=将}} (extended shinjitai); compare [[奨]].
+
+Current form {{Han compound|将|酉|t2=drink|ls=psc|c1=p|c2=s}}
+
+===Han character===
+{{Han char|rn=164|rad=酉|as=10|sn=17|four=|canj=LIMCW|ids=⿱⿰丬⿱爫寸酉}}
+
+# any [[jam]]-[[like]] or [[paste]]-like [[food]]
+
+====References====
+* {{Han ref|kx=1286.241|hdz=63593.161|uh=91A4|ud=37284}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=酉10|style=s|kyu=醬}}
+
+# {{defn|lang=ja|sort=酉10}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[ひしお]] (hishio)}}
+
+====Compounds====
+* [[醤油]]
+
+[[fr:醤]]
+[[hu:醤]]
+[[ja:醤]]
+[[pl:醤]]
+[[th:醤]]
+[[zh:醤]]

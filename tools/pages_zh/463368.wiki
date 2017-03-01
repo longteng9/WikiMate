@@ -1,0 +1,196 @@
+{{also|好}}
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=nǚzǐ
+|c=neoi5 zi2
+|h=pfs=ńg-chṳ́
+|mn=qz:lú-chír/tp,xm:lú-chú/kh,zz:lí-chú/qz:lír-chír
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|formal}} [[woman]]; [[female]]
+
+====Synonyms====
+* {{zh-l|婦女}}
+* {{zh-l|姑娘}}
+* {{zh-l|女的}}
+* {{zh-l|女人}}
+
+====See also====
+* {{zh-l|姑娘}}
+* {{zh-l|女孩}}
+* {{zh-l|女士}}
+* {{zh-l|女性}}
+
+====Antonyms====
+* {{zh-l|男子}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|じょ|し|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|じょし|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|じょし|hhira=ぢよし}}
+
+# [[girl]]; [[woman]]
+
+=====Synonyms=====
+* {{ja-r|女の子|おんなのこ}}
+
+=====Antonyms=====
+* {{ja-r|男子|だんし}}
+
+=====Derived terms=====
+{{top2}}
+* {{ja-r|女子学生|じょしがくせい|gloss=female student}}
+* {{ja-r|女子高|じょしこう|gloss=girls' high school}}
+* {{ja-r|女子高校|じょしこうこう|gloss=girls' high school}}
+{{mid2}}
+* {{ja-r|女子高校生|じょしこうこうせい|gloss=high school girl}}
+* {{ja-r|女子生徒|じょしせいと|gloss=school girl}}
+* {{ja-r|女子大学|じょしだいがく|gloss=women's university}}
+{{bottom}}
+
+=====Related terms=====
+* {{ja-r|女性|じょせい}}
+
+===Etymology 2===
+{{ja-kanjitab|め|こ|yomi=k}}
+Compound of {{affix|sort=めこ|ja|女|tr1=me|t1=woman|子|tr2=ko|t2=child}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|めこ}}
+
+====Alternative forms====
+* {{ja-l|妻子}}
+
+====Noun====
+{{ja-noun|めこ}}
+
+# wife and child
+# [[wife]]
+# a female child; [[girl]]
+# a [[woman]]
+
+===Etymology 3===
+{{ja-kanjitab|おみな|こ|r=y|k2=ご|yomi=k}}
+wominago → ominago.
+
+====Pronunciation====
+{{ja-pron|yomi=k|おみなご}}
+
+====Noun====
+{{ja-noun|おみなご|hhira=をみなご}}
+
+# a female child; a [[girl]]
+
+=====Derived terms=====
+* {{ja-r|女子|おんなご}}, {{ja-r|女子|おなご}}
+
+===Etymology 4===
+{{ja-kanjitab|おんな|こ|k2=ご|r=y|yomi=k}}
+wonnago → onnago. From earlier {{m|ja|女子|tr=ominago}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|おんなご}}
+
+====Noun====
+{{ja-noun|おんなご|hhira=をんなご}}
+
+# a female child; a [[girl]]
+# a [[woman]]
+
+=====Derived terms=====
+* {{ja-r|女子|おなご}}
+
+===Etymology 5===
+{{ja-kanjitab|おんな|k1=おな|こ|k2=ご|r=y|yomi=k}}
+wonago → onago. From earlier ''wonnago''.
+
+====Pronunciation====
+{{ja-pron|yomi=k|おなご|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|おなご|hhira=をなご}}
+
+# a female child; a [[girl]]
+# a [[woman]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Hanja===
+{{ko-hanja|rv=yeoja|hangeul=여자}}
+
+# {{hanja form of|여자|[[girl]]}}
+
+----
+
+==Oki-No-Erabu==
+
+===Noun===
+{{head|okn|noun|hiragana|をぅなぐ|romaji|wunagu|hiragana|いぃなぐ|romaji|yinagu}}
+
+# [[woman]]
+
+====Derived terms====
+* {{l|okn|清ら女子|tr=[[ちゅらうなぐ]], ''[[chura unagu]]''||[[beautiful]] [[woman]]}}
+
+[[Category:okn:Female|ふなぐ]]
+[[Category:okn:Female animals|ふなぐ]]
+
+----
+
+==Okinawan==
+
+===Noun===
+{{head|ryu|noun|hiragana|ゐなぐ|romaji|winagu}}
+
+# [[woman]]
+
+====Derived terms====
+* {{l|ryu|女子しーじゃ|tr=[[ゐなぐしーじゃ]], ''[[winagu shīja]]''||[[older sister]]}}
+
+[[Category:ryu:Female|ゐなぐ]]
+[[Category:ryu:Female animals|ゐなぐ]]
+
+----
+
+==Yoron==
+
+===Noun===
+{{head|yox|noun|hiragana|ふなぐ|romaji|funagu|hiragana|をぅなぐ|romaji|wunagu}}
+
+# [[woman]]
+
+[[Category:yox:Female|ふなぐ]]
+[[Category:yox:Female animals|ふなぐ]]
+
+[[cs:女子]]
+[[fr:女子]]
+[[ko:女子]]
+[[it:女子]]
+[[lo:女子]]
+[[hu:女子]]
+[[mg:女子]]
+[[ja:女子]]
+[[chr:女子]]
+[[uk:女子]]
+[[zh:女子]]

@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=12|sn=18|four=88806|canj=HTLC|ids=⿱⺮黄}}
+
+# [[reed]] of [[woodwind]] [[instrument]]
+
+====References====
+* {{Han ref|kx=0900.110|dkj=26541|dj=1326.030|hdz=53006.150|uh=7C27|ud=31783|bh=C2AE|bd=49838}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huáng
+|c=wong4
+|mn=hông
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{defn|Han|sort=竹12}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹12}}
+
+# {{defn|lang=ja|sort=竹12}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[した]] (shita)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=황|eumhun=|rv=hwang|mr=hwang|y=hwang}}
+
+# {{defn|lang=ko|sort=竹12}}
+
+====Derived terms====
+* {{l|ko|笙簧}} ([[생황]])
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hoàng]]|rs=竹12}}
+
+# {{defn|lang=vi|sort=竹12}}
+
+[[fr:簧]]
+[[ko:簧]]
+[[hu:簧]]
+[[mg:簧]]
+[[ja:簧]]
+[[no:簧]]
+[[pl:簧]]
+[[ru:簧]]
+[[th:簧]]
+[[zh:簧]]

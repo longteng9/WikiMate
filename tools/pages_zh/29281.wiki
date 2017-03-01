@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|钞}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=04|sn=12|four=89120|canj=CFH}}
+
+# paper money, bank notes
+# [[copy]]
+
+====References====
+* {{Han ref|kx=1298.220|dkj=40227|dj=1801.140|hdz=64176.030|uh=9214|ud=37396|bh=B672|bd=46706}}
+
+----
+
+==Chinese==
+{{zh-forms|s=钞}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chāo
+|c=caau1,caau3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|假鈔|偽鈔|傳鈔|冥鈔|北堂書鈔|史鈔|壞鈔|外鈔|大鈔|宋詩鈔|宮門鈔|寇鈔|寶鈔|小鈔|影鈔本|惠鈔|掐尖落鈔|整鈔|料鈔|昏鈔|會鈔|現鈔|生鈔|破鈔|精銀響鈔|紙鈔|花錢粉鈔|落鈔|鈔引|鈔掠|鈔暴|鈔本|鈔票|鈔袋|鈔邏|鈔關|錢鈔|閣鈔|陸鈔|響鈔精銀|鴉青鈔|鹽鈔}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=金04}}
+
+====Readings====
+{{ja-readings
+|on=[[しょう]] (shō)
+|kun=[[はさみとる]] (hasamitoru) {{qualifier|rare}}, [[かすめる]] (kasumeru) {{qualifier|rare}}, [[うつす]] (utsusu) {{qualifier|rare}}
+}}
+
+===Noun===
+{{ja-noun|しょう|hhira=せう}}
+
+# an [[excerpt]], an [[extract]] {{qualifier|writing}}
+# an [[annotation]]
+# a unit of [[volume]], equal to one tenth of a {{l|ja|勺|tr=''shaku''}} and one hundredth of a {{l|ja|合|tr=''gō''}}, or approximately 1.8 [[millilitre]]s
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 鈔]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=초|eumhun=|rv=cho|mr=ch'o|y=cho}}
+
+# {{defn|lang=ko|sort=金04}}
+
+[[fr:鈔]]
+[[ko:鈔]]
+[[hu:鈔]]
+[[ja:鈔]]
+[[pl:鈔]]
+[[th:鈔]]
+[[vi:鈔]]
+[[zh:鈔]]

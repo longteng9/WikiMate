@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|坞}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=10|sn=13|four=47127|canj=GHRF|ids=⿰土烏}}
+
+# [[entrenchment]], [[bank]], [[low]] [[wall]]
+
+====References====
+* {{Han ref|kx=0236.180|dkj=05357|dj=0474.090|hdz=10472.140|uh=5862|ud=22626|bh=B6F5|bd=46837}}
+
+----
+
+==Chinese==
+{{zh-forms|s=坞}}
+
+===Alternative forms===
+* {{zh-l|隖}}
+
+===Pronunciation===
+{{zh-pron
+|m=wù
+|c=wu2,ou3
+|h=pfs=
+|md=
+|mn=ù
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# A [[castle]] or [[obstruction]] that provides protection.
+# {{rfdef|lang=zh}}
+# A village; a hamlet.
+
+===References===
+* {{R:twedu|A00803}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土10}}
+
+# {{alternative form of|lang=ja|隖}}
+
+====Readings====
+* {{ja-readings|on=[[お]] (o), [[う]] (u)|kun=[[とりで]] (toride), [[むら]] (mura)}}
+
+===References===
+* {{R:Koseki Moji|061210}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[오]]|rv=o|mr=o}}
+
+# {{defn|lang=ko|sort=土10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ổ]], [[ọ]], [[ủ]], [[ụ]]|rs=土10}}
+
+# {{defn|lang=vi|sort=土10}}
+
+[[fr:塢]]
+[[li:塢]]
+[[hu:塢]]
+[[ja:塢]]
+[[pl:塢]]
+[[th:塢]]
+[[zh:塢]]

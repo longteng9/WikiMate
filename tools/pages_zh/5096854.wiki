@@ -1,0 +1,36 @@
+{{also|移调}}
+==Chinese==
+{{zh-forms|s=移调}}
+
+===Pronunciation===
+{{zh-pron
+|m=yídiào
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|music}} [[transposition]]
+
+====Derived terms====
+{{zh-der|移調樂器}}
+
+====See also====
+* {{zh-l|轉調|modulation}}
+* {{zh-l|變調|modulation}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|い|ちょう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|いちょう|y=o}}
+
+===Noun===
+{{ja-noun|いちょう}}
+
+# {{lb|ja|music}} [[transposition]]
+
+[[zh:移調]]

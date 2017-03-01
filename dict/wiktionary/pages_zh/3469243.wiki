@@ -1,0 +1,27 @@
+==Japanese==
+{{ja-kanjitab|ふ|ちゃ|yomi=o}}
+{{ja-kanjitab|ふ|さ|yomi=o}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ふちゃ|普|tr1=fu|pos1=the [[音読み#Japanese|on'yomi]] for term {{m|ja|普く}} ''amaneku'', “widely, broadly, extensively”, in the sense of “to the public”|茶|tr2=cha|t2=tea}}.
+
+Also sometimes read as ''fusa'', using the alternative [[唐音#Japanese|tōon]] reading of ''sa'' for the {{m|ja|茶||tea}} character.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+'''Standard pronunciation:'''
+{{ja-pron|yomi=o|ふちゃ|acc=2|acc_ref=DJR}}
+'''Alternative pronunciation:'''
+{{ja-pron|yomi=o|ふさ}}
+
+===Noun===
+{{ja-noun|ふちゃ|ふさ}}
+
+# in the [[Ōbaku]] sect, one of the three big sects of [[Zen Buddhism]] in Japan, a type of [[Zen]] [[tea ceremony]] conducted for the [[general public]], usually including an array of specially cooked foods
+# an abbreviation for {{ja-r|普茶料理|ふちゃ りょうり}}, the type of [[cooking]] served at a ''fucha'' event
+
+====See also====
+* {{pedialite|Ōbaku}}
+* {{ja-r|普茶料理|ふちゃ りょうり}}
+
+===References===
+<references/>

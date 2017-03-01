@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|涕}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=06|sn=9|four=35132|canj=EKN|ids=⿰氵夷}}
+
+# [[snivel]], [[mucus]] from [[nose]]
+
+====References====
+* {{Han ref|kx=0620.190|dkj=17387|dj=1017.010|hdz=31605.070|uh=6D1F|ud=27935|bh=CF70|bd=53104}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tì,yí
+|c=tai3,ji4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水06}}
+
+# nasal [[mucus]]
+
+====Readings====
+* {{ja-readings|on=[[い]] (i)|kanon=[[てい]] (tei)|goon=[[たい]] (tai)|kun=[[はなじる]] (hanajiru)}}
+
+{{wikipedia|lang=ja}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|青洟|あおばな|gloss=green snot hanging from a child's nose}}
+* {{ja-r|涕洟|てい.い}}
+* {{ja-r|洟垂|はなたれ}}
+* {{ja-r|洟垂れ小僧|はなたれ こぞう}}
+* {{ja-r|洟提灯|はなぢょうちん}}
+* {{ja-r|水洟|みずばな|gloss=runny nose}}
+{{der-bottom}}
+
+===Noun===
+{{ja-noun|はな}}
+
+# nasal [[mucus]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=이|eumhun=|rv=i|mr=i|y=i}}
+
+# {{defn|lang=ko|sort=水06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水06| hanviet = dề}}
+
+# {{defn|lang=vi|sort=水06}}
+
+[[fr:洟]]
+[[li:洟]]
+[[hu:洟]]
+[[ja:洟]]
+[[pl:洟]]
+[[fi:洟]]
+[[th:洟]]
+[[zh:洟]]

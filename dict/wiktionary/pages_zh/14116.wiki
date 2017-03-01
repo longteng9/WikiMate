@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=39|rad=子|as=14|sn=17|four=11427|canj=NDMBB|ids=⿰子需}}
+
+# [[child]]
+# [[blood relation]]
+# [[affection]]
+
+====References====
+* {{Han ref|kx=0281.020|dkj=07042|dj=0551.030|hdz=21020.010|uh=5B7A|ud=23418|bh=C0A9|bd=49321}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=rú
+|c=jyu4,jyu6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=子14}}
+
+# {{defn|lang=ja|sort=子14}}
+
+====Readings====
+* {{ja-readings|on=[[じゅ]] (ju)|kun=[[ちのみご]] (chinomigo), [[おさない]] (osanai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=유|rv=yu|mr=yu}}
+
+# {{defn|lang=ko|sort=子14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=子14|hanviet=nhọ}}
+
+# {{defn|lang=vi|sort=子14}}
+
+[[fr:孺]]
+[[li:孺]]
+[[hu:孺]]
+[[mg:孺]]
+[[ja:孺]]
+[[pl:孺]]
+[[th:孺]]
+[[zh:孺]]

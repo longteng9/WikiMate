@@ -1,0 +1,124 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=10|sn=12|four=32600|canj=JRLN|ids=⿰害刂}}
+
+# [[cut]], [[divide]], [[partition]]
+# [[cede]]
+
+====References====
+* {{Han ref|kx=0142.320|dkj=02112|dj=0323.040|hdz=10351.070|uh=5272|ud=21106|bh=B3CE|bd=46030}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gē
+|c=got3
+|h=pfs=kot
+|md=
+|mn=koah
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[割爱]]
+* [[割臂之盟]]
+* [[割草机]]
+* [[割除]]
+* [[割地]]
+* [[割掉]]
+* [[割肚牵肠]]
+* [[割断]]
+* [[割鸡焉用牛刀]]
+* [[割胶]]
+* [[割接法]]
+* [[割据]]
+* [[割礼]]
+* [[割裂]]
+* [[割蜜]]
+* [[割漆]]
+* [[割弃]]
+* [[割切]]
+* [[割让]]
+* [[割舍]]
+* [[割尾巴]]
+* [[割席]]
+* [[割线]]
+* [[割治]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=刀10}}
+
+# [[proportion]]
+# [[comparatively]]
+# [[divide]]
+# [[cut]]
+# [[separate]]
+# [[split]]
+
+====Readings====
+* {{ja-readings|goon=[[かち]] (kachi)|kanon=[[かつ]] (katsu)|kun=[[わる]] (waru), [[さく]] (saku), [[われる]] (wareru)}}
+
+====Compounds====
+* [[割愛]]
+* [[割拠]]
+* [[割譲]]
+* [[割腹]]
+* [[割烹]]
+* [[割合]]
+* [[割引]]
+* [[割り箸]] (waribashi)
+
+====Derived terms====
+* {{ja-r|割る|わる}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=할|rv=hal|mr=hal|y=hal|eumhun=[[베다|벨]]|ehrv=bel|ehmr=pel}}
+
+# {{defn|lang=ko|sort=刀10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cát]], [[cắt]], [[xắt]]|rs=刀10}}
+
+# {{defn|lang=vi|sort=刀10}}
+
+[[zh-min-nan:割]]
+[[fr:割]]
+[[ko:割]]
+[[hu:割]]
+[[mg:割]]
+[[ja:割]]
+[[no:割]]
+[[pl:割]]
+[[fi:割]]
+[[th:割]]
+[[vi:割]]
+[[zh:割]]

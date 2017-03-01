@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=shēnhūxī
+|c=sam1 fu1 kap1
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to take a [[deep]] [[breath]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|こ|きゅう|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|深|呼吸|tr1=shin|tr2=kokyū|t1=deep|t2=breath}}.
+
+===Noun===
+{{ja-noun|しんこきゅう}}
+
+# a [[deep]] [[breath]]
+
+===Verb===
+{{ja-verb-suru|しんこきゅう}}
+
+# to [[take]] a [[deep]] [[breath]]
+
+====Conjugation====
+{{ja-suru|しんこきゅう}}
+
+[[ko:深呼吸]]
+[[hu:深呼吸]]
+[[sv:深呼吸]]
+[[zh:深呼吸]]

@@ -1,0 +1,115 @@
+{{character info/new}}
+{{also|题}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=181|rad=頁|as=09|sn=18|four=61808|canj=AOMBC|ids=⿺是頁}}
+
+====References====
+* {{Han ref|kx=1406.380|dkj=43584|dj=1924.150|hdz=74381.040|uh=984C|ud=38988|bh=C344|bd=49988}}
+
+----
+
+==Chinese==
+{{zh-forms|s=题}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|是|頁|ls=psc|c1=p|c2=s|t2=body part}} – “forehead”.
+
+===Pronunciation===
+{{zh-pron
+|m=tí
+|c=tai4
+|mn=kh,qz,xm,zz:tê/qz,tp,xm:tôe
+|w=3di
+|mc=y
+|oc=y
+|ma=
+|cat=n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} [[forehead]]
+# [[title]]
+# [[question]], [[quiz]], [[problem]]
+# {{zh-classifier|questions|cat=y}}
+# to [[sign]]; to [[write]]; to [[inscribe]]
+# {{zh-alt-form|提|to mention}}
+
+===Compounds===
+{{zh-der|問題|主題|題目|三角習題|不題|主題曲|主題派對|人口問題|例題|保題|借題|借題發揮|假言命題|偏怪題|偏題|先決問題|出問題|出難題|出題|分題|切題|副題|勞工問題|呂安題鳳|命題|品頭題足|品題|唯是命題|唱題目|問答題|問題兒童|問題劇|問題少年|填充題|大題小作|大題目|封題|專題|專題報導|對題|小題大作|小題大做|御溝題葉|扣題|承題|拈題分韻|排斥命題|探題|擬題|改錯題|敏感話題|文不對題|新聞標題|是非題|書題|本題|榱題|標題|標題音樂|款題|正題|民生問題|無題|無題詩|獎題|留題|白題|破承題|破題|破題兒|社會問題|程序問題|算題|紅葉之題|紅葉題詩|羅隱題破|習題|老人問題|老話題|老齡問題|考古題|考題|肯定命題|著題|落題|表題|複合命題|試題|話題|課題|論題|謎題|講題|議題|貼題|選擇題|配合題|金榜題名|關係命題|雁塔題名|雕題|離題|離題萬里|難題|青年問題|題主|題位|題名|題名錄|題品|題型|題壁|題外話|題奏|題字|題庫|題念|題旨|題本|題材|題柱|題款|題目正名|題破|題筆|題簽|題結|題署|題補|題親|題解|題詞|題詠|題詩|題識|題跋|題辭|題額|題鳳|題鳳題午|黑人問題|點題}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=頁09}}
+
+====Readings====
+{{ja-readings|goon=[[だい]] (dai)|kanon=[[てい]] (tei) {{non-joyo-reading}}|kun=[[ひたい]] (hitai)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|品題|ひんだい}} [[evaluation]]; [[title]]
+{{der-bottom}}
+
+{{ja-kanjitab|だい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=goon|だい|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|だい}}
+
+# [[title]]
+# [[theme]]
+# [[problem]]
+
+===Counter===
+{{ja-pos|だい|counter}}
+
+# [[question]]s on a test
+
+===Suffix===
+{{ja-pos|だい|suffix}}
+
+# question on a test
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=제|eumhun=|rv=je|mr=che|y=cey}}
+
+# {{defn|lang=ko|sort=頁09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đề]]|rs=頁09}}
+
+# {{defn|lang=vi|sort=頁09}}
+
+[[zh-min-nan:題]]
+[[fr:題]]
+[[ko:題]]
+[[it:題]]
+[[hu:題]]
+[[mg:題]]
+[[ja:題]]
+[[pl:題]]
+[[fi:題]]
+[[sv:題]]
+[[th:題]]
+[[vi:題]]
+[[zh:題]]

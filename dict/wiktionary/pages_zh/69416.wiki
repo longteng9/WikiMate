@@ -1,0 +1,79 @@
+{{also|助词}}
+==Chinese==
+{{zh-forms|s=助词}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhùcí
+|c=zo6 ci4
+|mn=chō͘-sû
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[particle]] {{gloss|part of speech}}
+
+{{zh-cat|Grammar}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|じょ|し|yomi=o}}
+{{compound|lang=ja|sort=しょし'|助|tr1=[[jo]]|t1=[[helper]]|詞|tr2=[[shi]]|t2=[[word]]}}
+
+===Pronunciation===
+{{ja-pron|じょし|acc=h|acc_ref=DJR,NHK,SMK5|y=o}}
+
+===Noun===
+{{ja-noun|じょし}}
+
+# {{lb|ja|part of speech|sort=しょし'}} [[particle|Particle]]: a part of speech in Japanese grammar known as a [[particle]] or [[relational]]; a [[suffix]] indicating the part of speech of the previous element or the mode of the whole preceding sentence or clause.
+
+====Derived terms====
+{{der-top}}
+* {{l|ja|並立助詞}} (heiritsu-joshi)
+* {{l|ja|係助詞}} (kakari-joshi)
+* {{l|ja|副助詞}} (fuku-joshi)
+* {{l|ja|接続助詞}} (setsuzoku-joshi)
+{{der-mid}}
+* {{l|ja|格助詞}} (kaku-joshi)
+* {{l|ja|準体助詞}} (juntai-joshi)
+* {{l|ja|終助詞}} (shū-joshi)
+* {{l|ja|間投助詞}} (kantō-joshi)
+{{der-bottom}}
+
+===See also===
+* [[:Category:Japanese particles]]
+* [[w:Japanese grammar#Particles|Japanese grammar - particles]]
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab|助|詞}}
+
+===Noun===
+{{ko-noun|rv=susa|hangeul=조사}}
+
+# {{hanja form of|조사|[[particle]]; [[postposition]]}}
+
+[[Category:ko:Parts of speech|ㅈ조사]]
+
+[[af:助詞]]
+[[cs:助詞]]
+[[fr:助詞]]
+[[ko:助詞]]
+[[it:助詞]]
+[[li:助詞]]
+[[hu:助詞]]
+[[mg:助詞]]
+[[ja:助詞]]
+[[zh:助詞]]

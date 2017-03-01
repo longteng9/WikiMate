@@ -1,0 +1,137 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=124|rad=羽|as=12|asj=11|sn=18|snj=17|four=17801|canj=SMWTC|ids=⿱羽異}}
+
+====References====
+* {{Han ref|kx=0959.340|dkj=28801|dj=1406.050|hdz=53356.010|uh=7FFC|ud=32764|bh=C16C|bd=49516}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|羽|異|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=jik6
+|h=pfs=yi̍t
+|md=sĭk/ĭk
+|md_note=sĭk - vernacular; ĭk - literary
+|mn=si̍t/xm,zz,tw:e̍k/qz:ia̍k
+|mn_note=si̍t - vernacular; e̍k/ia̍k - literary
+|w=5hhiq
+|mc=y
+|oc=y
+|ma=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[wing]]
+# [[fin]] (on fish)
+# [[wing]] (of an [[airplane]])
+# {{lb|zh|figurative}} [[wing]]; [[flank]]
+# to [[assist]]
+
+===Compounds===
+{{zh-der|翼側|翼翼|不翼而飛|伏翼|側翼|兢兢翼翼|兩翼|冰翼紙|副翼|勵翼|十翼|卵翼|卵翼之恩|右翼|右翼分子|垂頭搨翼|天生羽翼|如虎傅翼|如虎得翼|如虎添翼|如虎生翼|安定翼|小心翼翼|尾翼|屋翼|左右翼|左翼|後掠翼|戢翼|戢鱗潛翼|扶危翼傾|扶翼|承翼|折翼|拊翼|振翼|振鱗奮翼|攀鱗附翼|旋翼|服翼|毋翼而飛|比翼|比翼連枝|比翼雙飛|比翼鳥|水翼船|滑翔翼|為虎傅翼|為虎添翼|無翼而飛|無翼鳥|燕翼|燕翼詒謀|爾雅翼|皮翼獸|皮翼目|萬里鵬翼|紛紛翼翼|羽翼|羽翼已成|翕翼|翼亮|翼卵|翼室|翼戴|翼手目|翼手類|翼手龍|翼日|翼琴|翼瓣|翼翼小心|胡林翼|與虎添翼|彪虎生翼|蟬翼|補助翼|襟翼|贊翼|趙翼|輔翼|連枝比翼|雁行折翼|飄翼舵|鼓翼|鼻翼|龍翰鳳翼}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=羽11}}
+
+# {{defn|lang=ja|sort=羽11}}
+
+====Readings====
+{{ja-readings|kanon=[[よく]] (yoku)|goon=[[いき]] (iki)|kun=[[つばさ]] (tsubasa)|nanori=[[たすく]] (tasuku)}}
+
+====Compounds====
+* {{ja-r|扶翼|ふよく}}: [[assistance]]
+* {{ja-r|翼賛|よくさん}}
+* {{ja-r|翼成|よくせい}}
+
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|つばさ|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|つばさ|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|つばさ}}
+
+# [[wing]]
+
+===Proper noun===
+{{ja-pos|つばさ|proper}}
+
+# {{given name|male|lang=ja|sort=つばさ}}
+
+===Etymology 2===
+{{ja-kanjitab|よく|yomi=o}}
+From {{etyl|ltc|ja|sort=よく}} {{m|zh|翼|tr=yik||wing}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|よく|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|よく}}
+
+# [[wing]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=익|eumhun=|mr=ik|y=ik}}
+
+# {{defn|lang=ko|sort=羽12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dực]], [[dức]]|rs=羽12}}
+
+# {{defn|lang=vi|sort=羽12}}
+
+[[zh-min-nan:翼]]
+[[fr:翼]]
+[[ko:翼]]
+[[lo:翼]]
+[[la:翼]]
+[[lt:翼]]
+[[li:翼]]
+[[hu:翼]]
+[[mg:翼]]
+[[nl:翼]]
+[[ja:翼]]
+[[no:翼]]
+[[uz:翼]]
+[[pl:翼]]
+[[ro:翼]]
+[[ru:翼]]
+[[fi:翼]]
+[[sv:翼]]
+[[th:翼]]
+[[chr:翼]]
+[[tr:翼]]
+[[uk:翼]]
+[[zh:翼]]

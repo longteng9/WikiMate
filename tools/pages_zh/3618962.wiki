@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=hūnwài
+|c=fan1 ngoi6
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[extramarital]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|こん|がい|yomi=on}}
+
+===Noun===
+{{ja-noun|こんがい}}
+
+# [[extramarriage]]
+
+====Synonyms====
+* {{l/ja|庶出}}
+
+====Antonyms====
+* {{l/ja|婚内}}
+* {{l/ja|嫡出}}
+
+====Compounds====
+* {{ja-r|婚外子|こんがいし|gloss=an '''[[extramarital]]''' child}}
+
+[[mg:婚外]]
+[[zh:婚外]]

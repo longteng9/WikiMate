@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=108|rad=皿|as=11|sn=16|four=80107|canj=OINT}}
+
+# lid of a caldron
+# Buddhist cloister
+
+====References====
+* {{Han ref|kx=0796.150|dkj=23044|dj=1212.030|hdz=42570.050|uh=76E6|ud=30438|bh=EA75|bd=60021}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=ān
+|c=am1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=皿11}}
+
+# {{defn|lang=ja|sort=皿11}}
+
+====Readings====
+* {{ja-readings|on=[[おう]] (ō), [[あん]] (an), [[おん]] (on)|kun=[[ふた]] (futa)|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''盦''' ([[am]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:盦]]
+[[hu:盦]]
+[[mg:盦]]
+[[pl:盦]]
+[[th:盦]]
+[[zh:盦]]

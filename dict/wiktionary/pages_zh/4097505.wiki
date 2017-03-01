@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bìngsǐ
+|c=beng6 sei2
+|h=pfs=phiang-sí
+|mn=pēⁿ-sí/pīⁿ-sí
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[die]] of an [[illness]]
+
+====Synonyms====
+* {{zh-l|病故}}
+
+{{zh-cat|Death}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|びょう|し|yomi=on}}
+
+===Noun===
+{{ja-noun|びょうし}}
+
+# [[death]] due to [[illness]], [[expiration]]
+
+===Verb===
+{{ja-verb-suru|びょうし}}
+
+# to [[die]] of an illness, to [[expire]]
+
+====Synonyms====
+* [[病没|病没する]], [[息を引き取る]]
+
+====Conjugation====
+{{ja-suru|びょうし}}
+
+[[Category:ja:Death|ひょうし']]
+
+[[ko:病死]]
+[[lo:病死]]
+[[ja:病死]]
+[[sv:病死]]
+[[zh:病死]]

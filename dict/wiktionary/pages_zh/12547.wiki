@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|唤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=09|sn=12|four=67034|canj=RNBK|ids=⿰口奐}}
+
+# [[call]], [[summon]]
+# [[invite]]
+# be called
+
+====References====
+* {{Han ref|kx=0199.010|dkj=03953|dj=0420.250|hdz=10658.061|uh=559A|ud=21914|bh=B3EA|bd=46058}}
+
+----
+
+==Chinese==
+{{zh-forms|s=唤}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huàn
+|c=wun6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[call]], to [[summon]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=口09}}
+
+# {{defn|lang=ja|sort=口09}}
+
+====Readings====
+* {{ja-readings|goon=[[かん]] (kan)|kanon=[[かん]] (kan)|nanori=[[よぶ]] (yobu)|kun=[[よぶ]] (yobu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=환|rv=hwan|mr=hwan}}
+
+# {{defn|lang=ko|sort=口09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|hoán|rs=口09}}
+
+# {{defn|vi}}
+
+[[fr:喚]]
+[[hu:喚]]
+[[mg:喚]]
+[[ja:喚]]
+[[pl:喚]]
+[[th:喚]]
+[[zh:喚]]

@@ -1,0 +1,128 @@
+{{character info/new}}
+{{also|佔}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+Pictograph of glutinous, sticky rice, see also [[粘]].
+
+Simplified form of Traditional [[佔]]; also the simplified form of the [[單]] radical within [[战]].
+
+===Han character===
+{{Han char|rn=25|rad=卜|as=03|sn=5|four=21600|canj=YR|ids=⿱[[卜|⺊]][[口]]}}
+
+# [[divine]], [[foretell]]
+# [[observe]]
+# [[versify]]
+
+====Derived characters====
+* [[點]] ([[点]], [[奌]]) [[店]] [[佔]] [[坫]] [[战]] [[粘]]
+
+====References====
+* {{Han ref|kx=0157.300|dkj=02780|dj=0361.190|hdz=10092.050|uh=5360|ud=21344|bh=A565|bd=42341}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=zhàn
+|c=zim1
+|h=pfs=cham
+|mn=chiàm
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+=====Compounds=====
+{{zh-der|占上游|占頭籌|占驗|占斷|占上風|占拜|占為己有|占鰲頭|占地步|占花魁|占星|占親|占人|占夢|影占|占地盤|占風使帆|占星術|侵占罪|占課|占身|占鳳|占上|占強|占地|口占|占用|寡占|占場兒|占領|占盡便宜|占有|占射|占卦|占卜|包占|吉占|占據|占房|占便宜|占有權|侵占|占候|強占|獨占鼇頭|獨占|拜占庭|早占勿藥|稍占上風|獨占花魁|獨占鰲頭|獨占資本|搶占|標占|攻占|進占|竊占|鼇頭獨占|鵲巢鳩占|鳳占|鳩占鵲巢|鰲頭獨占|陰占|聯合獨占|霸占|竊占罪}}
+
+====References====
+* {{R:yue:mfccd}}
+
+===Etymology 2===
+{{bor|zh|en|jam}}.
+
+====Pronunciation====
+{{zh-pron
+|c=zem1
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} [[jam]] {{gloss|type of fruit preserve}}
+
+=====Compounds=====
+{{zh-der|果占}}
+
+===Etymology 3===
+{{zh-see|佔}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=卜03}}
+
+====Readings====
+{{ja-readings|goon=[[せん]] (sen)|kanon=[[せん]] (sen)|kun=[[しめる]] (shimeru), [[うらなう]] (uranau), [[うらない]] (uranai)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|複占|ふくせん}}: [[duopoly]]
+{{der-bottom}}
+
+===Noun===
+{{ja-noun|うら}}
+
+# {{lb|ja|archaic|sort=うら}} [[fortune-telling]]
+
+====Alternative forms====
+* {{l|ja|卜}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=점|rv=jeom|mr=chŏm}}
+
+# {{defn|lang=ko|sort=卜03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chiêm]], [[chăm]], [[chàm]], [[chễm]], [[chím]], [[chiếm]], [[giếm]], [[chầm]], [[chằm]], [[chem]], [[coi]], [[xem]]|rs=卜03}}
+
+# {{defn|lang=vi|sort=卜03}}
+
+[[fr:占]]
+[[ko:占]]
+[[hu:占]]
+[[mg:占]]
+[[ms:占]]
+[[ja:占]]
+[[no:占]]
+[[pl:占]]
+[[ta:占]]
+[[th:占]]
+[[uk:占]]
+[[zh:占]]

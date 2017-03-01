@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|皲}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=107|rad=皮|as=09|sn=14|four=34547|canj=BJDHE}}
+
+# [[crack]], [[chap]]
+
+====References====
+* {{Han ref|kx=0791.370|dkj=22888|dj=1206.350|hdz=42757.120|uh=76B8|ud=30392|bh=E2E1|bd=58081}}
+
+----
+
+==Chinese==
+{{zh-forms|s=皲}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jūn
+|c=gwan1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|炙膚皸足|皸裂}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=皮09}}
+
+# {{defn|lang=ja|sort=皮09}}
+
+====Readings====
+* {{ja-readings|on=[[くん]] (kun), [[きん]] (kin)|kun=[[ひび]] (hibi), [[あかぎれ]] (akagire)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=군|eumhun=|rv=gun|mr=kun|y=kwun}}
+
+# {{defn|lang=ko|sort=皮09}}
+
+[[fr:皸]]
+[[ko:皸]]
+[[hu:皸]]
+[[ja:皸]]
+[[pl:皸]]
+[[th:皸]]
+[[zh:皸]]

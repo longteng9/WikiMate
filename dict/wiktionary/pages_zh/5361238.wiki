@@ -1,0 +1,47 @@
+{{also|长波}}
+==Chinese==
+{{zh-forms|s=长波}}
+
+===Pronunciation===
+{{zh-pron
+|m=chángbō
+|c=coeng4 bo1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[longwave]] {{gloss|of radio waves}}
+
+====Antonyms====
+* {{zh-l|短波}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちょう|は|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ちょうは|y=o}}
+
+===Noun===
+{{ja-noun|ちょうは}}
+
+# [[longwave]] {{gloss|of radio waves}}
+
+====Antonyms====
+* {{ja-r|短波|たんぱ}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=장파}}
+
+# {{hanja form of|장파|[[longwave]] {{gloss|of radio waves}}}}
+
+[[hu:長波]]
+[[zh:長波]]

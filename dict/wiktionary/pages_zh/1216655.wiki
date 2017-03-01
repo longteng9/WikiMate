@@ -1,0 +1,59 @@
+{{also|美术}}
+==Chinese==
+{{zh-forms|s=美术}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+{{borrowing|zh|ja|-}} {{ja-r|美術|び%じゅつ}}.
+
+===Pronunciation===
+{{zh-pron
+|m=měishù
+|c=mei5 seot6
+|h=pfs=mî-su̍t
+|mn=bí-su̍t
+|ma=Zh-meishù.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[fine arts]]
+
+====Usage notes====
+* Usually {{zh-l|美術|tr=měishù}} specifically refers to [[fine arts]], while its [[near-synonym]] {{zh-l|藝術}} may refer to any kind of [[art]] form.
+
+===Derived terms===
+{{zh-der|工藝美術|美術館|美術片|美術品|美術史|美術字|美術作品}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|び|じゅつ|yomi=on}}
+
+===Noun===
+{{ja-noun|びじゅつ}}
+
+# [[art]], [[fine arts]]
+
+----
+
+==Korean==
+{{ko-hanjatab|美|術}}
+
+===Noun===
+{{ko-noun|rv=misul|hangeul=미술}}
+
+# {{hanja form of|미술|[[art]]}}
+
+[[zh-min-nan:美術]]
+[[fr:美術]]
+[[ko:美術]]
+[[lo:美術]]
+[[hu:美術]]
+[[ja:美術]]
+[[sh:美術]]
+[[zh:美術]]

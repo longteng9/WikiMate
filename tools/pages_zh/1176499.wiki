@@ -1,0 +1,27 @@
+==Japanese==
+
+===Alternative forms===
+* {{l|ja|貸し家|sc=Jpan}}
+
+===Etymology 1===
+{{ja-kanjitab|か|o1=し|や|yomi=kun}}
+
+====Noun====
+{{ja-noun|かしや}}
+
+# a house for rent
+
+===Etymology 2===
+{{ja-kanjitab|か|o1=し|いえ|yomi=kun}}
+
+====Noun====
+{{ja-noun|かし.いえ}}
+
+# Same as above.
+
+====See also====
+* {{ja-r|貸し部屋|かしべや}}: {{qualifier|noun}} a room for rent
+* {{ja-r|不動産屋|ふどうさんや}}: {{qualifier|noun}} [[realtor]], [[real estate agent]]
+
+[[ja:貸家]]
+[[zh:貸家]]

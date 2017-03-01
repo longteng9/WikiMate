@@ -1,0 +1,30 @@
+==Chinese==
+{{zh-forms|s=中国话|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhōngguóhuà
+|c=zung1 gwok3 waa6-2
+|mn=Tiong-kok-ōe
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|uncommon}} the [[Chinese]] [[language]]
+#: {{zh-x|你 會 說 中國話 嗎？|Can you speak Chinese?}}
+
+====Synonyms====
+* {{zh-l|中文}}
+* {{zh-l|漢語}}
+
+===See also===
+* {{pedialite|lang=zh}}
+
+{{zh-cat|Languages}}
+
+[[ko:中國話]]
+[[lb:中國話]]
+[[ja:中國話]]
+[[pt:中國話]]

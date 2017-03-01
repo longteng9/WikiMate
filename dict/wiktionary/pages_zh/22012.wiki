@@ -1,0 +1,108 @@
+{{character info/new}}
+{{also|砕}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=112|rad=石|as=08|sn=13|four=10648|canj=MRYOJ}}
+
+# [[break]], [[smash]]
+# [[broken]], [[busted]]
+
+====Descendants====
+* [[砕]]
+
+====References====
+* {{Han ref|kx=0832.050|dkj=24284|dj=1248.230|hdz=42439.090|uh=788E|ud=30862|bh=B848|bd=47176}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=suì
+|c=seoi3
+|h=pfs=sui
+|md=
+|mn=qz,xm,zz:sùi/chhùi
+|mn_note=sùi - literary; chhùi - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=a,v,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[shattered]]; [[fragmented]]; [[shredded]]
+#: {{zh-x|碎片|chip; fragment}}
+#: {{zh-x|啲 薯片{pin3-2} 碎 嗮 喇。|The chips are all '''crushed'''.|C}}
+# [[talkative]]
+#: {{zh-x|閒言碎語|gossip}}
+#: {{zh-x|碎嘴子|talkative}}
+
+===Noun===
+{{zh-noun}}
+
+# [[small]] [[piece]]s; [[bit]]s; [[fragment]]s
+#: {{zh-x|玻璃碎|glass '''shard'''s}}
+#: {{zh-x|肉碎|'''mince'''d meat}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[shatter]]; to [[fragment]]; to [[shred]]
+#: {{zh-x|碎紙機|paper '''shred'''der}}
+
+===Compounds===
+{{zh-der|碎步|碎步兒|碎花|碎塊|碎裂|碎末|碎片|支離破碎}}
+
+===References===
+* [http://140.111.34.46/cgi-bin/dict/GetContent.cgi?Database=dict&DocNum=138901&GraphicWord=yes&QueryString=碎$ Guoyu Cidian (國語辭典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=石08}}
+
+# {{defn|lang=ja|sort=石08}}
+
+====Readings====
+* {{ja-readings|on=[[さい]] (sai)|kun=[[くだく]] (kudaku)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=쇄|eumhun=|rv=swae|mr=swae|y=sway}}
+
+# {{defn|lang=ko|sort=石08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[toái]], [[thỏi]], [[tôi]], [[toả]], [[tui]], [[tủi]]|rs=石08}}
+
+# {{defn|lang=vi|sort=石08}}
+
+[[zh-min-nan:碎]]
+[[fr:碎]]
+[[ko:碎]]
+[[hu:碎]]
+[[mg:碎]]
+[[ja:碎]]
+[[no:碎]]
+[[pl:碎]]
+[[th:碎]]
+[[zh:碎]]

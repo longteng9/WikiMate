@@ -1,0 +1,36 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=ěryán
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|pathology}} [[otitis]], inflammation of the ear
+
+----
+
+==Japanese==
+{{ja-kanjitab|じ|えん|yomi=o}}
+
+===Etymology===
+{{suffix|耳|炎|t1=ear|t2=-itis|lang=ja|sort=しえん'}}
+
+===Noun===
+{{ja-noun|じえん}}
+
+# {{lb|ja|pathology|sort=しえん'}} [[otitis]], inflammation of the ear, such as that resulting from ear [[infection]], often causing [[earache]]
+
+====Derived terms====
+* {{ja-r|中耳炎|ちゅうじえん}}: otitis media, inflammation of the middle ear
+* {{ja-r|内耳炎|ないじえん}}: otitis interna, inflammation of the inner ear
+* {{ja-r|外耳炎|がいじえん}}: otitis externa, inflammation of the outer ear
+
+[[fr:耳炎]]
+[[li:耳炎]]
+[[fi:耳炎]]
+[[zh:耳炎]]

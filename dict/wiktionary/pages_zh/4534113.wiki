@@ -1,0 +1,36 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=níhóng
+|c=ngai4 hung4
+|mn=gê-hông/tw:nî-hông
+|cat=n
+}}
+
+===Etymology 1===
+{{zh-compound|霓|虹|secondary rainbow|primary rainbow}}
+
+===Noun===
+{{zh-noun}}
+
+# [[rainbow]]
+
+===Etymology 2===
+[[transliteration|Transliteration]] of {{etyl|en|zh}} {{m|en|neon}}.
+
+===Noun===
+{{zh-noun}}
+
+# [[neon]]
+# [[neon light]]; [[neon lamp]]
+
+====Synonyms====
+* {{sense|neon}} {{qualifier|chemistry}} {{zh-l|氖}}
+
+====Derived terms====
+{{zh-der|霓虹燈}}
+
+[[mg:霓虹]]
+[[zh:霓虹]]

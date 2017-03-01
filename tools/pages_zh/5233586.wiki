@@ -1,0 +1,35 @@
+{{also|谀言}}
+==Chinese==
+{{zh-forms|s=谀言}}
+
+===Pronunciation===
+{{zh-pron
+|m=yúyán
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[flattering]] [[words]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ゆ|げん|yomi=o}}
+
+===Etymology===
+From {{etyl|sort=ゆげん|ltc|ja}} compound {{m|zh|諛言|tr=yu + ngjon|lit=flatter + speech}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|ゆげん|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ゆげん}}
+
+# [[flattering]] [[words]]
+
+===References===
+<references/>
+
+[[ja:諛言]]

@@ -1,0 +1,131 @@
+{{character info/new}}
+
+==Translingual==
+
+===Han character===
+{{Han char|rn=170|rad=阜|as=04|sn=7|four=71211|canj=NLMMU|ids=⿰阝元}}
+
+====References====
+* {{Han ref|kx=1346.180|dkj=41569|dj=1848.180|hdz=64116.060|uh=962E|ud=38446|bh=A8BF|bd=43199}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|阜|alt1=阝|元|ls=psc|c1=s|c2=p}}.
+
+===Etymology 1===
+{{zh-forms}}
+{{wikipedia|阮 (樂器)|阮|lang=zh}}
+The [[ruan]] is named {{named-after|阮咸|nat=Chinese|occ=scholar|tr=Ruǎn Xián|wplink=Ruan Xian|lang=zh|nocap=y}} of the Six Dynasties period, who played this instrument.
+
+====Pronunciation====
+{{zh-pron
+|m=ruǎn
+|c=jyun2,jyun5
+|h=pfs=ngiôn
+|md=nuōng/uōng
+|md_note=nuōng - instrument; uōng - surname
+|mn=xm,tp,kh,tn,lk,sx,km,mg,hc,tc:ńg/qz:goán/qz,zz:oán/zz,yl:úiⁿ
+|mn-t=nguêng2/nguang2
+|mn-t_note=nguêng2 - Chaozhou; nguang2 - Shantou
+|w=3nyyoe
+|mc=2
+|oc=2
+|cat=n,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{surname|lang=zh}}
+# {{lb|zh|historical}} state of [[Ruan]] {{gloss|a small state during the Shang Dynasty}}
+# {{lb|zh|musical instrument}} [[ruan]]
+
+=====Synonyms=====
+* {{sense|instrument}} {{zh-l|秦琵琶}}, {{zh-l|阮咸}}, {{zh-l|阮琴}}
+
+====Compounds====
+{{zh-der|fold=1|高音阮|小阮|中阮|大阮|低音阮|南阮北阮|南阮|撥阮|賢阮|阮孚蠟屐|阮囊羞澀|阮咸}}
+
+===Etymology 2===
+{{zh-forms|alt=我,㐾}}
+Contraction of {{zh-l|我儂|tr=góa-nâng|we}}. See {{zh-l|*儂|person; ''pronoun suffix''}} for more.
+
+====Pronunciation====
+{{zh-pron
+|mn=xm,qz,zz,kh,tn,km,mg:goán/xm,qz,zz,tp,tn,lk,sx,yl,hc,tc:gún
+|mn-t=uang2/ung2/ng2
+|dial=n
+|cat=pron,det
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Min Nan|exclusive}} [[we]]; [[our]]
+# {{lb|zh|Hokkien}} [[I]]; [[my]]
+
+=====Synonyms=====
+{{zh-dial|我們}}
+
+===Etymology 3===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=yuán
+|dial=n
+|mc=1
+|oc=1
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-obsolete}} {{n-g|The name of a [[mountain]].}}
+# {{zh-obsolete}} {{zh-alt-form|原|dot=,}} {{zh-only|五阮關|nocap=y}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=阜04}}
+
+# {{defn|lang=ja|sort=阜04}}
+
+====Readings====
+* {{ja-readings|on=[[げん]] (gen)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[완]], [[원]]|eumhun=|rv=wan, won|mr=wan, wŏn|y=wan, wen}}
+
+# {{defn|lang=ko|sort=阜04}}
+
+----
+
+==Vietnamese==
+{{wikipedia|Nguyễn}}
+===Han character===
+{{vi-readings|rs=阜04| hanviet = [[nguyễn]], [[ngán]], [[ngón]], [[ngoãn]]}}
+
+# {{defn|lang=vi|sort=阜04}}
+
+[[zh-min-nan:阮]]
+[[fr:阮]]
+[[hu:阮]]
+[[mg:阮]]
+[[ja:阮]]
+[[pl:阮]]
+[[th:阮]]
+[[chr:阮]]
+[[vi:阮]]
+[[zh:阮]]

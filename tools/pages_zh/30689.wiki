@@ -1,0 +1,131 @@
+{{character info/new}}
+{{also|陆|六}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=170|rad=阜|as=08|sn=11|four=74214|canj=NLGCG}}
+
+====References====
+* {{Han ref|kx=1355.010|dkj=41708|dj=1858.040|hdz=64134.050|uh=9678|ud=38520|bh=B3B0|bd=46000}}
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Chinese==
+{{zh-forms|s=陆}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|阜|坴|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lù
+|c=luk6
+|h=pfs=liu̍k
+|md=lṳ̆k
+|mn=lio̍k
+|mn-t=lêg8
+|w=5loq
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[land]], [[continent]], [[mainland]]
+# [[mainland|Mainland]] [[China]]
+# [[army]]
+# [[six]]
+
+====Compounds====
+{{zh-der|中國大陸|二陸|光怪陸離|光陸離|內陸|內陸國|內陸海|內陸湖|南極大陸|古陸|大陸|大陸冰川|大陸冰河|大陸勞工|大陸同胞|大陸國|大陸地區|大陸坡|大陸妹|大陸客|大陸市場|大陸政策|大陸斜坡|大陸會議|大陸板塊|大陸架|大陸棉|大陸棚|大陸氣團|大陸法系|大陸海|大陸熱|大陸片|大陸礁層|大陸貨|大陸邊緣|大陸隆堆|大陸隆起|奧斯陸|川陸|平陸|廣陸|推舟於陸|斑駁陸離|新大陸|朱陸異同|次大陸|歐亞大陸|水斷陸絕|水陸|水陸並進|水陸之饌|水陸畢陳|水陸畫|水陸道場|水陸雜陳|洋商陸|潘江陸海|潘陸江海|登陸|登陸作戰|登陸場|登陸月球|登陸熱|登陸艇|盤古大陸|破陸續|神州陸沉|羊陸之交|舊大陸|著陸|西陸|造陸|造陸運動|陸九淵|陸九齡|陸凱|陸半球|陸地|陸地神仙|陸德明|陸戰|陸戰隊|陸抗|陸架|陸梁|陸棚|陸橋|陸機|陸沉|陸法言|陸海|陸海潘江|陸游|陸王之學|陸田|陸皓東|陸相沉積|陸秀夫|陸稻|陸緣海|陸績|陸續|陸羽|陸行|陸讋水慄|陸賈|陸賈分金|陸贄|陸路|陸軍|陸軍節|陸運|陸鈔|陸陸續續|陸離|陸離光怪|陸離斑駁|陸雲|陸風|陸鴻漸|陸龜蒙|雙陸|馬陸|黑暗大陸}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=阜08}}
+
+# [[land]]
+# [[six]]
+
+====Readings====
+* {{ja-readings|goon=[[ろく]] (roku)|kanon=[[りく]] (riku)|kun=[[おか]] ([[oka]])|nanori=[[くが]] ([[kuga]]), [[たち]] ([[tachi]]), [[みち]] ([[michi]]) [[む]] ([[mu]]), [[むつ]] ([[mutsu]])}}
+
+====Synonyms====
+* {{sense|six}} {{l|ja|六}}
+
+====References====
+{{ja-kref
+|jis=4E26
+|ku=4606
+|shift=97A4
+|euc=CEA6
+|freq=736
+|nelson=5005
+|newnelson=6461
+|halpern=543
+|kld=399
+|heisig=1513
+|tuttle=2d8.4t
+}}
+
+===Adjectival noun===
+{{ja-adj|ろく|decl=na}}
+
+# [[satisfactory]]
+
+====Inflection====
+{{ja-na|陸|ろく|roku}}
+
+===Noun===
+{{ja-noun|おか}}
+
+# [[land]]; [[shore]]
+
+===Noun===
+{{ja-noun|ろく}}
+
+# {{lb|ja|legal|sort=ろく}} the number [[six]], [[6]] (used in legal documents only, otherwise [[六]])
+# being satisfactory
+
+[[Category:Japanese numeral symbols|6]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[륙]]>[[육]]|eumhun=뭍}}
+
+# {{defn|lang=ko|sort=阜08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lục]]|rs=阜08}}
+
+# {{defn|lang=vi|sort=阜08}}
+
+[[zh-min-nan:陸]]
+[[es:陸]]
+[[fr:陸]]
+[[ko:陸]]
+[[lo:陸]]
+[[li:陸]]
+[[hu:陸]]
+[[mg:陸]]
+[[ja:陸]]
+[[pl:陸]]
+[[ru:陸]]
+[[th:陸]]
+[[chr:陸]]
+[[zh:陸]]

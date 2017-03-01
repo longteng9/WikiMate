@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=74|rad=月|as=06|sn=10|four=87420|canj=TUB|ids=⿰屰月}}
+
+# [[first]] [[day]] of [[lunar]] [[month]]
+# the [[north]]
+
+====Derived characters====
+* [[搠]], [[嗍]], [[溯]], [[鎙]] ([[𫔈]]), [[蒴]], [[塑]], [[槊]], [[愬]], [[遡]]
+
+====References====
+* {{Han ref|kx=0505.160|dkj=14359|dj=0884.080|hdz=32072.020|uh=6714|ud=26388|bh=AED2|bd=44754}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shuò
+|c=sok3
+|h=pfs=
+|md=
+|mn=sok
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=月06}}
+
+# {{defn|lang=ja|sort=月06}}
+
+====Readings====
+{{ja-readings|goon=[[さく]] (saku)|kanon=[[さく]] (saku)|kun=[[ついたち]] (tsuitachi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=삭|eumhun=|rv=sak|mr=sak|y=sak}}
+
+# {{defn|lang=ko|sort=月06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sóc]], [[xóc]], [[xộc]], [[dũng]]|rs=月06}}
+
+# {{defn|lang=vi|sort=月06}}
+
+[[fr:朔]]
+[[ko:朔]]
+[[mg:朔]]
+[[ja:朔]]
+[[pl:朔]]
+[[th:朔]]
+[[zh:朔]]

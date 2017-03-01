@@ -1,0 +1,64 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǒulì
+|c=jau5 lei6
+|mn=qz,tw,xm,zz:iú-lī/tw,xm,zz:ū-lī
+|cat=v,a
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to be [[advantageous]]; to be [[beneficial]]; to be [[favourable]]
+
+===Adjective===
+{{zh-adj}}
+
+# [[advantageous]]; [[beneficial]]; [[favourable]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ゆう|り|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|acc=1|acc_ref=<ref>{{R:Kenkyusha JEL Pocket}}</ref>|ゆうり}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|ゆうり}}
+
+# [[advantageous]]
+#: {{ja-usex|'''有利'''な立場に立つことができる。|'''ゆうり''' な たちば に たつ こと が できる。|We will be able to be in a more advantageous position.}}
+
+====Inflection====
+{{ja-na|ゆうり}}
+
+===Noun===
+{{ja-noun|ゆうり}}
+
+# [[advantage]]
+
+===References===
+<references />
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=유리}}
+
+# {{hanja form of|유리|[[advantageous]]}}
+
+[[zh-min-nan:有利]]
+[[ko:有利]]
+[[io:有利]]
+[[hu:有利]]
+[[mg:有利]]
+[[ja:有利]]
+[[chr:有利]]
+[[zh:有利]]

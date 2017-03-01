@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|奧}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=37|rad=大|as=09|sn=12|four=|canj=HBK,XHBK|ids=⿱⿵⿱丿冂米大}}
+
+# [[mysterious]], [[obscure]], [[profound]]
+
+====References====
+* {{Han ref|kx=0253.151|dkj=05981|hdz=10545.070|uh=5965|ud=22885}}
+
+----
+
+==Chinese==
+{{zh-see|奧}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=大09|style=s|kyu=奧}}
+
+====Readings====
+{{ja-readings
+|goon=[[おう]] (ō), {{qualifier|historical}} [[あう]] (au), [[おく]] (oku) {{non-joyo-reading}}, {{qualifier|historical}} [[をく]] (woku)
+|kanon=[[いく]] (iku)  {{non-joyo-reading}}, {{qualifier|historical}} [[ゐく]] (wiku), [[おう]] (ō), {{qualifier|historical}} [[あう]] (au)
+|kanyoon=[[おく]] (oku), {{qualifier|historical}} [[をく]] (woku)
+|kun=[[おく]] (oku), [[おくまる]] ([[奥まる]], okumaru)
+|nanori=[[くま]] (kuma), [[おお]] (ō), [[おん]] (on), [[つ]] (tsu), [[のく]] (noku)
+}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|おく}}
+Despite the apparent overlap with the modern [[呉音#Japanese|''goon'']] reading of ''oku'' that is derived from {{etyl|ltc|-}}, this term is actually rooted in {{etyl|ojp|ja|sort=おく}}, appearing in the ''{{w|Man'yōshū}}'' collection of poetry dating to roughly 759 CE.  Cognate with {{m|ja|沖|tr=oki||the open sea, offshore}}, originally in reference to “somewhere far removed, possibly out of sight”.  While ''oki'' came to mean “far removed in the wide open → far off shore”, ''oku'' instead came to mean “far removed inside → inside, interior”.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|おく|acc=1|acc_ref=DJR,SMK5}}
+
+===Noun===
+{{ja-noun|おく}}
+
+# [[inside]]; [[inner]] [[depth]]s
+# [[back]], [[rear]]
+# inside the house
+# one's [[heart]], true feelings
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|奥まる|おくまる}}: to have a deep recess, to be deeply recessed, to have a deep interior
+{{der-bottom}}
+
+===Proper noun===
+{{ja-pos|おく|proper}}
+
+# {{surname|lang=ja|sort=おく}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|おく]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[오]], [[욱]]|rv=o, uk|mr=o, uk}}
+
+# {{defn|lang=ko|sort=大09}}
+
+[[fr:奥]]
+[[ky:奥]]
+[[li:奥]]
+[[hu:奥]]
+[[mg:奥]]
+[[ja:奥]]
+[[no:奥]]
+[[pl:奥]]
+[[pt:奥]]
+[[th:奥]]
+[[uk:奥]]
+[[vi:奥]]
+[[zh:奥]]

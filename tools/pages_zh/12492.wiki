@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=08|sn=11|four=68064|canj=ROMR,XROMR|ids=⿰口舍}}
+
+====References====
+* {{Han ref|kx=0196.261|dkj=03881|hdz=10643.060|uh=5565|ud=21861|bh=D4A3|bd=54435}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shá,shà
+|m-s=sa4
+|c=saa1
+|mn=qz,tw,xm:siáⁿ/qz,xm,zz:siá/tw,zz:sáⁿ
+|w=2sa
+|cat=pron
+}}
+
+===Pronoun===
+{{zh-pronoun}}
+
+# {{lb|zh|Min Nan|Wu|dialectal Mandarin}} [[what]]
+#: {{zh-x|這 是 啥 物件？|'''What''' is this (thing)?|MN}}
+#: {{zh-x|儂 辣 做 啥？|'''What''' are you doing?|SH|tr=3non&5laq&2tsu+2sa}}
+#: {{zh-x|你 說 啥{shà} 來著[着]{zhe}？|'''What''' did you just say? [dialectal Mandarin]}}
+
+====Synonyms====
+{{zh-dial|什麼}}
+
+===Compounds===
+{{zh-der|啥個|那啥|啥地方|啥物|啥子}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=口08}}
+
+# [[what]]
+
+====Readings====
+{{ja-readings
+|on=[[しゃ]] (sha)
+|kun=[[なに]] (nani), [[なんぞ]] (nanzo)
+}}
+
+====Usage notes====
+This kanji may be found in classical sources, but is not used in modern Japanese.
+
+====Synonyms====
+{{attention|ja|but is this character even used????}}
+* {{ja-r|何|なに}}
+* {{ja-r|何ぞ|なんぞ}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Proper noun===
+{{vi-hantu|[[xá]], [[sá]]|rs=口08}}
+
+# {{defn|vi}}
+
+[[zh-min-nan:啥]]
+[[fr:啥]]
+[[hu:啥]]
+[[mg:啥]]
+[[no:啥]]
+[[pl:啥]]
+[[th:啥]]
+[[chr:啥]]
+[[zh:啥]]

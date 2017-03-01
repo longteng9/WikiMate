@@ -1,0 +1,78 @@
+{{also|冲突}}
+==Chinese==
+{{zh-forms|s=冲突}}
+
+===Pronunciation===
+{{zh-pron
+|m=chōng突
+|c=cung1 dat6
+|h=pfs=chhûng-thu̍t
+|mn=chhiong-tu̍t
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[clash]]; to [[conflict]]; to [[collide]]
+
+===Noun===
+{{zh-noun}}
+
+# [[clash]]; [[conflict]]; [[collision]]
+
+===Derived terms===
+{{zh-der|利害衝突|利益衝突}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|とつ|yomi=on}}
+
+===Noun===
+{{ja-noun|しょうとつ}}
+
+# [[collision]], [[crash]]
+# [[conflict]] of opinion
+
+===Verb===
+{{ja-verb-suru|tr=intrans|しょうとつ}}
+
+# to [[collide]] into, to collide with
+#: {{ja-usex|木に列車が衝突しました。|き に れっしゃ が しょうとつ しました。|The train collided with a tree.}}
+# to have a [[conflict]] with someone
+# {{lb|ja|of opinions}} to [[conflict]]
+
+====Conjugation====
+{{ja-suru|しょうとつ}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=충돌}}
+
+# {{hanja form of|충돌|[[collision]], [[crash]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Verb===
+{{vi-hantu|pos=verb}}
+
+# {{han tu form of|xung đột|to [[clash]]}}
+
+[[ko:衝突]]
+[[hu:衝突]]
+[[mg:衝突]]
+[[ja:衝突]]
+[[ru:衝突]]
+[[sv:衝突]]
+[[chr:衝突]]
+[[zh:衝突]]

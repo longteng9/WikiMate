@@ -1,0 +1,118 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=04|sn=7|four=58027|canj=QCSH|ids=⿰扌分}}
+
+# [[dress up]]
+# dress up [[as]]
+
+====References====
+* {{Han ref|kx=0418.200|dkj=11829|dj=0765.170|hdz=31840.080|uh=626E|ud=25198|bh=A7EA|bd=42986}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|扌|分|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bàn
+|c=baan6,baan3
+|mn=pān
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[dress up]], to [[disguise]] oneself
+# to [[act]], to [[play]]
+# to [[put on]] an expression, to [[make faces]]
+# {{lb|zh|Cantonese}} to [[pretend]] to
+#: {{zh-x|扮 彈{taan4} 結他|to '''pretend''' to play the guitar|C}}
+
+====Compounds====
+{{zh-der|扮嘢|假扮|刷扮|喬裝打扮|女扮男裝|女扮男身|妝扮|小打扮兒|打扮|扮家家酒|扮戲|扮故事|扮演|扮白臉|扮相|扮裝|扮鬼臉|改扮|整扮|猴子扮戲|男扮女裝|裝扮|雌牙扮齒}}
+
+===References===
+* {{R:cedict}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手04}}
+
+# {{l|en|dress up|dress-up}}, {{l|en|disguise}}
+
+====Readings====
+{{ja-readings
+|goon=(''rare'') [[へん]] (hen)
+|kanon=(''rare'') [[はん]] (han)
+|on=[[ふん]] (fun)
+|kun=(''rare'') [[よそおう|よそお.う]] ({{l|ja|扮う}}, yosoo.u)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|扮飾|ふんしょく}}: {{l|en|makeup}}, {{l|en|put on|putting on}} {{l|en|cosmetics}}
+* {{ja-r|扮装|ふんそう}}: {{l|en|makeup}}, {{l|en|disguise}}, {{l|en|costume}}
+* {{ja-r|扮楡|ふんゆ}}: the {{l|en|elm}} tree; a {{l|en|shrine}}; an {{l|en|imperial}} {{l|en|palace}}; one's {{l|en|hometown}}
+{{der-bottom}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=ふん}}, with the addition of {{etyl|ojp|ja|sort=ふん}} {{m|ja|す|tr=su}} for verb [[conjugation]]. {{m|ja|す|tr=su}} eventually evolved into modern {{cog|ja|する|tr=suru}}.
+
+===Pronunciation===
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|[ɸɯ̃ᵝɴ]}}
+
+===Verb===
+{{ja-verb-suru|ふん|trans=intransitive}}
+
+# to [[dress up]] in a [[disguise]], to [[disguise]] oneself
+#: {{ja-usex|老人に'''扮'''して警察を逃げた。|ろうじん に '''ふん'''して けいさつ を にげた。|He '''dressed up''' as / '''disguised himself''' as an old man and escaped from the police.}}
+# to put on a [[costume]], to [[play]] a [[role]]
+#: {{ja-usex|去年ハムレットに'''扮'''しました。|きょねん ハムレット に '''ふん'''しました。|Last year I '''played''' / '''took the role of''' Hamlet.}}
+
+====Conjugation====
+{{ja-suru|ふん}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[분]], [[반]]|eumhun=|rv=bun, ban|mr=pun, pan|y=pun, pan}}
+
+# {{defn|lang=ko|sort=手04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手04|hanviet=[[phẫn]]}}
+
+# {{defn|lang=vi|sort=手04}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:扮]]
+[[ko:扮]]
+[[hu:扮]]
+[[mg:扮]]
+[[ja:扮]]
+[[no:扮]]
+[[pl:扮]]
+[[th:扮]]
+[[zh:扮]]

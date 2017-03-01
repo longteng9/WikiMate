@@ -1,0 +1,60 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=03|sn=6|four=|canj=EG,XXEG|ids=⿰氵土}}
+
+====References====
+* {{Han ref|kx=0607.051|hdz=31551.031|uh=6C62|ud=27746}}
+
+----
+
+==Japanese==
+
+===Glyph origin 1===
+{{Han simp|泏|f=出|t=土}}.
+
+===Kanji===
+{{ja-kanji|grade=|rs=水03}}
+
+# {{n-g|Only used in the placename {{m|ja|汢の川}}, {{m|ja|汢川|tr=Nutanogawa}}}}.
+
+=====Usage notes=====
+* The correct form may be "{{lang|ja|⿰冫土}}".
+** "{{lang|ja|⿰冫𡈽}}" has also appeared as an alternate form of this character.
+** Nutanogawa is currently officially spelled with {{lang|ja|汢}} due to the convenience of it being included in the JIS character encoding.
+
+====Readings====
+{{ja-readings
+|on=
+|kun=[[ぬた]] (nuta), [[ぬる]] (nuru)
+}}
+
+===Glyph origin 2===
+Abbreviation of {{m|ja|浄土|tr=jōdo||the Pure Land}} found in esoteric Buddhism.
+
+===Kanji===
+{{ja-kanji|grade=|rs=水03}}
+
+# {{lb|ja|rare|obsolete}} {{abbreviation of|lang=ja|浄土|tr=jōdo||the Pure Land}}
+
+====Readings====
+{{ja-readings
+|on=
+|kun=[[じょうど]] (jōdo)
+}}
+{{attention|ja|presumably}}
+
+===References===
+* {{R:Wasei Kanji 2014|1192}}
+* {{R:Koseki Moji|193850}}
+* [http://dictionary.sanseido-publ.co.jp/wp/2012/03/09/%E6%BC%A2%E5%AD%97%E3%81%AE%E7%8F%BE%E5%9C%A8%E3%80%8C%E6%B1%A2%E3%80%8D%E3%81%AB%E6%AD%B4%E5%8F%B2%E3%81%82%E3%82%8A/ Sanseido Word-Wise Web]: {{lang|ja|漢字の現在 第166回 「汢」に歴史あり}}
+
+[[Category:Ghost kanji]]
+
+[[fr:汢]]
+[[hu:汢]]
+[[ja:汢]]
+[[pl:汢]]
+[[th:汢]]
+[[zh:汢]]

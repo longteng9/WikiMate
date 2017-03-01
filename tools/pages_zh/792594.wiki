@@ -1,0 +1,29 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{zh-compound|八|音|eight|sounds}}
+
+===Pronunciation===
+{{zh-pron
+|m=bāyīn
+|c=baat3 jam1
+|mn=pat-im
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# an ancient Chinese system of classifying musical instruments into eight materials
+# any one of a variety of genres of traditional instrumental ensemble music, mostly originating in southern China and Taiwan
+
+====Derived terms====
+{{zh-der|八音盒|安腔八音|戚林八音|玉林八音}}
+
+===References===
+* [http://140.111.34.46/cgi-bin/dict/GetContent.cgi?Database=dict&DocNum=219&GraphicWord=yes&QueryString=八音 Guoyu Cidian (國語辭典)]
+
+{{zh-cat|Music genres}}
+
+[[zh:八音]]

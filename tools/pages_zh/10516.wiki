@@ -1,0 +1,115 @@
+{{character info/new}}
+{{also|雲}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=7|rad=二|as=02|sn=4|four=10731|canj=MMI|ids=⿱二厶}}
+
+=====Derived terms=====
+* {{l|mul|雲}}, {{l|mul|芸}}, {{l|mul|妘}}, {{l|mul|抎}}, {{l|mul|沄}}, {{l|mul|夽}}, {{l|mul|囩}}
+* [[転]] and [[伝]] ({{Han simp|專}} in Japanese Kanji)
+
+====References====
+* {{Han ref|kx=0086.080|dkj=00254|dj=0178.010|hdz=10384.020|uh=4E91|ud=20113|bh=A4AA|bd=42154}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|p}}, originally a stylized picture of clouds. The character was subsequently borrowed for a [[homophone]] meaning "to say", and the original meaning came to be represented by {{och-l|雲}} through the addition of a [[semantic]] component {{zh-l|*雨|rain}}.
+
+The simplified form adopted by the [[People's Republic of China]] in the 1950s eliminates this later addition and uses {{lang|zh|云}} for both "to say" and "cloud".
+
+===Etymology 1===
+{{zh-see|雲||clouds}}
+
+===Etymology 2===
+{{zh-forms}}
+
+{{rfe|lang=zh}}
+
+====Pronunciation====
+{{zh-pron
+|m=yún
+|c=wan4
+|h=pfs=yùn
+|md=ùng
+|mn=xm,qz,tw:ûn/zz:în
+|w=3hhyn
+|mc=y
+|oc=y
+|ma=y
+|cat=n,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|literary}} to [[say]]; to [[speak]] (used when quoting from a source)
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|云云|云為|云乎|不知所云|人云亦云|但云|云爾|子曰詩云|云然|詩云子曰|胡云}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=二02}}
+
+# {{defn|lang=ja|sort=二02}}
+
+====Readings====
+* {{ja-readings|on=[[うん]] (un)|kun=[[いう]] (iu)}}
+
+====Derived terms====
+* {{ja-r|云う|いう}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=운|rv=un|mr=un}}
+
+# {{defn|lang=ko|sort=二02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=二02|hanviet=vân|nom=vân, rằng}}
+
+# {{defn|lang=vi|sort=二02}}
+
+===References===
+* {{R:WinVNKey:Lê Sơn Thanh}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+[[Category:Vietnamese Han tu]]
+
+[[fr:云]]
+[[ko:云]]
+[[lo:云]]
+[[lt:云]]
+[[li:云]]
+[[hu:云]]
+[[mg:云]]
+[[ms:云]]
+[[nl:云]]
+[[ja:云]]
+[[no:云]]
+[[pl:云]]
+[[pt:云]]
+[[ru:云]]
+[[ta:云]]
+[[th:云]]
+[[chr:云]]
+[[tr:云]]
+[[uk:云]]
+[[zh:云]]

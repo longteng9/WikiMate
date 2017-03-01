@@ -1,0 +1,58 @@
+{{character info/new}}
+{{also|渑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=13|sn=16|four=37117|canj=ERXU}}
+
+# name of a river in Shandong
+
+====References====
+* {{Han ref|kx=0652.390|dkj=18378|dj=1062.280|hdz=31755.080|uh=6FA0|ud=28576|bh=BF49|bd=48969}}
+
+----
+
+==Chinese==
+{{zh-forms|s=渑}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=miǎn,shéng
+|c=man5,min5,sing4
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|澠池|澠水|澠池之功|澠池會}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水13}}
+
+# {{defn|lang=ja|sort=水13}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō), [[じょう]] (jō), [[びん]] (bin), [[みん]] (min)|kun=}}
+
+[[fr:澠]]
+[[hu:澠]]
+[[pl:澠]]
+[[th:澠]]
+[[zh:澠]]

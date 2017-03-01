@@ -1,0 +1,30 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=kōngyán
+|mn=khong-giân
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[empty]] [[words]]; [[falsehood]]
+
+====Derived terms====
+{{zh-der|徒託空言|空言無補|空言虛語|空言虛辭|託之空言}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|くう|げん|yomi=o}}
+
+===Noun===
+{{ja-noun|くうげん}}
+
+# [[empty]] [[words]], [[falsehood]]
+#: {{ja-usex|空言を並べ立てる。|くうげん を ならべ たてる。|He keeps on telling us lies.}}
+
+[[zh:空言]]

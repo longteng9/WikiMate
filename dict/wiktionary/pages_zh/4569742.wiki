@@ -1,0 +1,84 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiāojiē
+|c=gaau1 zip3
+|mn=kau-chiap
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[link]]; to [[connect]]; to [[join]]
+# to [[transfer]]; to [[hand over]]; to [[settle]] {{gloss|transfer money or property}}
+# to [[copulate]]
+
+===Noun===
+{{zh-noun}}
+
+# [[link]]; [[connection]]
+# [[juncture]]
+# [[transfer]]; [[settlement]] {{gloss|of money or property}}
+#: {{zh-x|房產 交接|property '''settlement'''}}
+# [[sexual intercourse]]; [[coitus]]; [[copulation]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|せつ|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=こうせつ}} compound {{m|zh|交接|tr=kæw tsjep|lit=mix + connect}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|こうせつ|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|こうせつ|hhira=かうせつ}}
+
+# [[social]] [[connection]]s, [[contact]] with other people, a [[relationship]], [[relations]]
+# [[sex]], [[sexual intercourse]], [[coitus]], [[copulation]]
+
+====Synonyms====
+* {{sense|social connections}} {{ja-r|交際|こうさい}}, {{ja-r|付き合い|つきあい}}
+* {{sense|sex}} {{ja-r|性交|せいこう}} {{qualifier|humans}}, {{ja-r|交尾|こうび}} {{qualifier|animals}}
+
+====Usage notes====
+In reference to sex, ''kōsetsu'' is a somewhat [[dry]] and [[indirect]] term, similar to English {{m|en|sexual relations|(sexual) relations}}.
+
+===Verb===
+{{ja-verb-suru|こうせつ|hhira=かうせつ}}
+
+# to have [[social]] [[connection]]s, to have a [[relationship]]
+# to have [[sexual intercourse]], to [[copulate]]
+
+====Conjugation====
+{{ja-suru|こうせつ}}
+
+====Synonyms====
+* {{sense|to have social connections}} {{ja-r|交際|こうさい}}, {{ja-r|付き合い|つきあい}}
+* {{sense|to have sexual intercourse}} {{ja-r|性交|せいこう}} {{qualifier|humans}}, {{ja-r|交尾|こうび}} {{qualifier|animals}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=교접}}
+
+# {{hanja form of|교접|[[contact]]; [[sexual intercourse]], [[coitus]], [[copulation]]}}
+
+[[zh-min-nan:交接]]
+[[ko:交接]]
+[[li:交接]]
+[[hu:交接]]
+[[mg:交接]]
+[[zh:交接]]

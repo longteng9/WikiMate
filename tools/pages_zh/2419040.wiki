@@ -1,0 +1,37 @@
+{{also|解體}}
+==Chinese==
+{{zh-see|解體}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|たい|yomi=on}}
+
+===Noun===
+{{ja-noun|かいたい}}
+
+# [[demolition]]
+# [[dissolution]], [[disassembly]]
+
+====Synonyms====
+* {{sense|demolition}} {{l|ja|分解}}, {{l|ja|取り壊し}}
+* {{sense|dissolution}} {{l|ja|解散}}, {{l|ja|廃止}}
+
+====Antonyms====
+* {{sense|demolition}} {{l|ja|組み立て}}
+* {{sense|dissolution}} {{l|ja|設立}}
+
+===Verb===
+{{ja-verb-suru|かいたい}}
+
+# [[demolish]], [[dismantle]]
+# [[dissolve]], [[disassemble]], [[break up]]
+
+====Conjugation====
+{{ja-suru|かいたい}}
+
+[[ko:解体]]
+[[hu:解体]]
+[[mg:解体]]
+[[ja:解体]]
+[[zh:解体]]

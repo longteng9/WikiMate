@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=cìjī,tl=y
+|c=ci3 gik1
+|h=pfs=chhiuk-kit
+|md=ché̤ṳ-gék
+|mn=qz:chhì-kiak/tw,xm,zz:chhì-kek/twv:chhì-khek
+|w=2tshr jiq
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[stimulate]]
+# to [[provoke]]; to [[upset]]; to [[irritate]]
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|げき|yomi=on}}
+
+===Alternative forms===
+* {{ja-l|刺戟}}
+
+===Noun===
+{{ja-noun|しげき}}
+
+# [[stimulus]], [[impetus]], [[motivation]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|しげき}}
+
+# [[quicken]], [[stimulate]], [[get going]], provide an impetus
+#: {{ja-usex|好奇心を刺激する|こうきしん を しげき する|stimulate one's curiosity}}
+
+====Conjugation====
+{{ja-suru|しげき}}
+
+[[zh-min-nan:刺激]]
+[[ko:刺激]]
+[[hu:刺激]]
+[[mg:刺激]]
+[[ja:刺激]]
+[[chr:刺激]]
+[[vi:刺激]]
+[[zh:刺激]]

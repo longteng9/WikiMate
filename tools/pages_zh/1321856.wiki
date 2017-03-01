@@ -1,0 +1,61 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yòuzhì
+|c=jau3 zi6
+|h=pfs=yu-chhṳ̂
+|mn=iù-tī
+|ma=Zh-yòuzhì.ogg
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# very [[young]]
+# [[childish]]; [[naive]]; [[puerile]]; [[infantile]]
+
+====Derived terms====
+{{zh-der|幼稚園}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|よう|ち|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|ようち}}
+
+# very [[young]]
+# [[childish]], [[infantile]], [[immature]]
+
+====Inflection====
+{{ja-na|ようち}}
+
+====Synonyms====
+* {{ja-r|幼い|おさない}}
+
+===Noun===
+{{ja-noun|ようち}}
+
+# [[infancy]]
+# [[immaturity]], [[childishness]]
+
+====Compounds====
+* {{sense|infancy}} {{ja-r|幼稚園|gloss=[[kindergarten]]|ようちえん}}
+
+===References===
+* {{R:Meikyo}}
+
+[[zh-min-nan:幼稚]]
+[[ko:幼稚]]
+[[hu:幼稚]]
+[[mg:幼稚]]
+[[ja:幼稚]]
+[[sv:幼稚]]
+[[chr:幼稚]]
+[[zh:幼稚]]

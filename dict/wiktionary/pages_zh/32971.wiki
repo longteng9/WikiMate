@@ -1,0 +1,92 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=198|rad=鹿|as=06|sn=17|four=00601|canj=IPFD|ids=⿸鹿米}}
+
+====References====
+* {{Han ref|kx=1509.340|dkj=47625|dj=2037.080|hdz=74730.180|uh=9E8B|ud=40587|bh=C247|bd=49735}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mí
+|c=mei4
+|mc=y
+|oc=y
+|ma=
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[moose]], [[elk]] (Eurasia)
+# {{non-gloss definition|used as a [[surname]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=鹿06}}
+
+====Readings====
+{{ja-readings
+|goon=[[み]] (mi)
+|kanon=[[び]] (bi)
+|kun=[[おおじか]] (ōjika), [[なれしか]] (nareshika)
+}}
+
+===Etymology===
+{{ja-kanjitab|おおじか|yomi=k|r=y}}
+Compound of {{compound|lang=ja|sort=おおじか|大|tr1=ō|t1=big|鹿|tr2=shika|t2=deer}}. {{rendaku2|sort=おおじか|shika|jika}}
+
+===Pronunciation===
+{{ja-pron|おおじか|acc=h|acc_ref=DJR|y=k}}
+
+===Noun===
+{{ja-noun|おおじか|hhira=おほじか}}
+
+# {{alternative spelling of|lang=ja|sort=おおじか|大鹿}}
+
+===References===
+<references/>
+
+[[Category:ja:Cervids|おおじか]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=미|eumhun=|rv=mi|mr=mi|y=mi}}
+
+# {{defn|lang=ko|sort=鹿06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=鹿06| hanviet = [[mê]], [[mi]]}}
+
+# {{defn|lang=vi|sort=鹿06}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:麋]]
+[[hu:麋]]
+[[mg:麋]]
+[[ja:麋]]
+[[pl:麋]]
+[[th:麋]]
+[[vi:麋]]
+[[zh:麋]]

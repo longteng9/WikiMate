@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|锖}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=08|sn=16|four=85127|canj=CQMB}}
+
+# the color of a mineral
+
+====References====
+* {{Han ref|kx=1309.150|dkj=40523|dj=1811.110|hdz=64214.040|uh=9306|ud=37638|bh=EBE1|bd=60385}}
+
+----
+
+==Chinese==
+{{zh-forms|s=锖}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiāng
+|c=coeng1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金08}}
+
+====Readings====
+* {{ja-readings|on=[[せい]] (sei), [[しょう]] (shō)|kun=[[くわしい]] (kuwashii), [[さび]] (sabi)|nanori=}}
+
+===Noun===
+{{ja-noun|さび}}
+
+# The deteriorated state of iron or steel as a result of moisture and oxidation; [[rust]].
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=청|eumhun=|rv=cheong|mr=ch'ŏng|y=cheng}}
+
+# {{defn|lang=ko|sort=金08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thanh]], [[thương]], [[xanh]]|rs=金08}}
+
+# {{defn|lang=vi|sort=金08}}
+
+[[fr:錆]]
+[[lo:錆]]
+[[mg:錆]]
+[[ja:錆]]
+[[no:錆]]
+[[km:錆]]
+[[pl:錆]]
+[[ru:錆]]
+[[sv:錆]]
+[[th:錆]]
+[[chr:錆]]
+[[zh:錆]]

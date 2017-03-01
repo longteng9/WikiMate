@@ -1,0 +1,114 @@
+{{character info/new}}
+{{also|幼}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=52|rad=幺|as=01|sn=4|four=27720|canj=VIS,XVIS|ids=⿰幺𠃌}}
+
+====References====
+* {{Han ref|kx=0341.130|dkj=09190|dj=0650.070|hdz=21093.030|uh=5E7B|ud=24187|bh=A4DB|bd=42203}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=huàn
+|c=waan6
+|md=huâng
+|w=2ue
+|mc=y
+|oc=y
+|cat=a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[mystical]]; [[mysterious]]
+# [[illusion]]; [[fantasy]]; [[mirage]]
+
+===Compounds===
+{{zh-der|幻燈|幻燈機|幻化|幻景|幻境|幻覺|幻夢|幻滅|幻術|幻想|幻象|幻影|幻法|夢幻劇|幻想派|幻人|幻泡|夢幻泡影|幻視|幻相|幻燈片|幻民|幻想曲|幻想力|幻夢成空|幻塵|幻光|幻世|奇幻|如夢似幻|奇幻迷離|太虛幻境|幻日|如幻似真|夢幻|科幻|空幻|科幻電影|泡幻|科幻小說|變幻|虛幻|變幻無常|變幻莫測|風雲變幻|魔幻|迷幻藥|變幻不測|譸張為幻}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=幺01}}
+
+# [[phantasm]]; [[vision]]; [[dream]]; [[illusion]]; [[apparition]]
+
+====Readings====
+{{ja-readings
+|goon=[[げん]] (gen)
+|kanon=[[かん]] (kan) {{non-joyo-reading}}
+|kun=[[まぼろし]] (maboroshi)
+}}
+
+====Compounds====
+* {{ja-r|魔幻|まげん}}
+* {{ja-r|幻影|げんえい}}
+* {{ja-r|幻灯|げんとう}}
+* {{ja-r|幻覚|げんかく}}
+* {{ja-r|幻術|げんじゅつ}}
+* {{ja-r|幻滅|げんめつ}}
+* {{ja-r|幻想|げんそう}}
+* {{ja-r|夢幻|むげん}}
+
+===Etymology===
+Probably from {{etyl|ojp|ja|sort=まぼろし}}; used in ''[[w:The Tale of Genji|The Tale of Genji]]'', completed in 1021.
+
+===Pronunciation===
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|[ma̠bo̞ɽo̞ɕi]}}
+
+===Noun===
+{{ja-noun|まぼろし}}
+
+# an [[illusion]], a [[phantom]], a [[dream]], a [[vision]]
+
+====Derived terms====
+* {{ja-r|幻を追う|まぼろし を お.う}}: to pursue phantoms
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 幻]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[환]]|rv=hwan|mr=hwan}}
+
+# {{defn|lang=ko|sort=幺01}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[huyễn]], [[hoẻn]], [[ảo]]|rs=幺01}}
+
+# {{defn|lang=vi|sort=幺01}}
+
+====Usage notes====
+* '''Ảo''' appears to be a misreading due to confusion with the character {{m|zh|抝}} or {{m|zh|拗|tr=ảo}}. It is the predominant reading in most Sino-Vietnamese words containing the character 幻. The "appropriate" reading '''huyễn''' occurs only in {{m|vi|huyễn hoặc}}.
+
+[[fr:幻]]
+[[ko:幻]]
+[[lt:幻]]
+[[li:幻]]
+[[hu:幻]]
+[[mg:幻]]
+[[ja:幻]]
+[[no:幻]]
+[[pl:幻]]
+[[pt:幻]]
+[[ru:幻]]
+[[sv:幻]]
+[[th:幻]]
+[[zh:幻]]

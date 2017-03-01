@@ -1,0 +1,248 @@
+{{character info/new}}
+{{also|苎|薴}}
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艸|宁|c1=s|c2=p|t1=grass|ls=psc}}.
+
+This character simplified to [[苎]] and simplified form [[薴]].
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=05|sn=11|four=44201|canj=TJMN,XTJMN}}
+
+# china grass, ramie
+
+===References===
+* {{Han ref|kx=1024.010|dkj=30798|dj=1483.010|hdz=53196.040|uh=82E7|ud=33511|bh=AD52|bd=44370}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|薴}}
+
+===Etymology 2===
+{{zh-forms|s=苎}}
+
+====Pronunciation====
+{{zh-pron
+|m=zhù
+|c=cyu5
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=艸05|style=s|kyu=薴}}
+
+====Readings====
+{{ja-readings
+|goon=[[じょ]] (jo)
+|kanon=[[ちょ]] (cho)
+|kanyoon=[[ま]] (ma)
+|kun=[[お]] (o), [[からむし]] (karamushi), [[からんし]] (karanshi) {{qualifier|obsolete, rare}}, [[こるむし]] (korumushi) {{qualifier|obsolete, rare}}
+}}
+
+===Etymology 1===
+{{etyl|ojp|ja|sort=お}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[o̞]}}
+
+====Alternative forms====
+* {{ja-l|麻}}
+
+====Noun====
+{{ja-noun|お|hhira=を}}
+
+# [[hemp]] or [[ramie]]
+# [[thread]] made from the outer [[husk]] of the [[stem]]s of [[hemp]] or [[ramie]]
+# a [[textile]] made from this thread
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|苧の実油|おのみあぶら|o no miabura}}: oil from the [[hemp]] or [[ramie]] seed
+* {{ja-l|苧引き}}, {{ja-l|苧引き|おひき|ohiki}}: the [[process]] of [[pull]]ing the [[hemp]] or [[ramie]] [[fiber]]s from the [[husk]]
+* {{ja-l|苧屋|おや|oya}}: a [[shop]] or [[store]] selling [[ramie]]
+* {{ja-l|苧桶|おおけ|ooke}}: a [[tub]] or [[basin]] in which the collected [[hemp]] or [[ramie]] [[fiber]]s are placed
+{{der-bottom}}
+
+=====Synonyms=====
+* {{sense|hemp}} {{ja-l|麻|あさ|asa}}
+* {{sense|ramie}} {{ja-l|苧|からむし|karamushi}}
+* {{sense|thread, in general}} {{ja-l|糸|いと|ito}}
+
+===Etymology 2===
+{{etyl|ojp|ja|sort=むし}}. Possibly the original name for the plant, or for the fiber from this plant.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[mɯᵝɕi]}}
+
+====Alternative forms====
+* {{ja-l|枲}} {{qualifier|rare}}, {{ja-l|帔}} {{qualifier|rare}}
+
+====Noun====
+{{ja-noun|むし}}
+
+# {{lb|ja|sort=むし|obsolete}} old name for ''karamushi'': the [[ramie]] plant, {{taxlink|Boehmeria nivea var. nipononivea|variety|noshow=1}}
+# short for {{ja-l|帔}}, {{ja-l|枲の垂衣|むしのたれぎぬ|mushi no tareginu}}, a kind of [[veil]] made of [[ramie]] and worn from the [[brim]] of a hat by women from the [[w:Heian period|Heian period]] through the [[w:Kamakura period|Kamakura period]]
+
+===Etymology 3===
+Appears to be a compound of {{compound|lang=ja|殻|tr1=kara|t1=husk|苧|tr2=mushi|t2=ramie fiber}}.
+
+Some sources suggest that the ''mushi'' component derives from {{m|ja|蒸し|tr=mushi||steaming}}, from verb {{m|ja|蒸す|tr=musu||to steam something; to be steamy or muggy}}. However, ramie is not processed using steam, so these are more likely to be [[folk etymology|folk etymologies]].
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|n|か|ら|むし}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{ja-accent-common|h|か|らむし}}<ref name="NHK"/>
+* {{IPA|lang=ja|[ka̠ɺ̠a̠mɯᵝɕi]}}
+
+====Alternative forms====
+* {{ja-l|苧麻}}, {{ja-l|紵}} {{qualifier|rare}}, {{ja-l|枲}} {{qualifier|rare}}, {{ja-l|葈}} {{qualifier|rare}}
+
+====Noun====
+{{ja-noun|からむし}}
+
+# the [[ramie]] plant, {{taxlink|Boehmeria nivea|species|noshow=1}} or {{taxlink|Boehmeria nipononivea|species|noshow=1}}
+# a [[thread]] made from the [[fiber]]s of this plant
+# a [[textile]] made from this thread
+#*: circa '''800''', ''Shibunritsu Ongi'' (page 47)<ref name="shibunritsu">
+{{cite-book
+|last=Tsukishima
+|first=Hiroshi
+|title=Kojisho Ongi Shūsei 2: Shibunritsu Ongi
+|publisher=Kyūko Shoin
+|year_published=1979
+|page=47
+|year=circa 800
+|location=Tōkyō
+|language=Japanese
+|isbn=4-7629-3089-X
+}}</ref>
+#*: 蒭麻衣 '''加良牟斯'''衣
+
+=====Derived terms=====
+* {{ja-l|苧頭巾|からむしずきん|karamushi zukin}}: a {{m|ja|頭巾|tr=zukin||headcloth, bandana}} made from [[ramie]]
+
+===Etymology 4===
+Alteration from ''karamushi''. Rare and obsolete reading.
+
+{{IPAchar|/karamuɕi/}} → {{IPAchar|/karanɕi/}}
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ka̠ɺ̠ã̠ɴɕi]}}
+
+====Noun====
+{{ja-noun|からんし}}
+
+# {{lb|ja|sort=からんし|rare|obsolete}} the [[ramie]] plant
+# {{lb|ja|sort=からんし|rare|obsolete}} a [[thread]] made from the [[fiber]]s of this plant
+# {{lb|ja|sort=からんし|rare|obsolete}} a [[textile]] made from this thread
+
+===Etymology 5===
+Alteration from ''karamushi''. Rare and obsolete reading.
+
+{{IPAchar|/karamuɕi/}} → {{IPAchar|/korumuɕi/}}
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[koɾ̠ɯᵝmɯᵝɕi]}}
+
+====Noun====
+{{ja-noun|こるむし}}
+
+# {{lb|ja|sort=こるむし|rare|obsolete}} the [[ramie]] plant
+# {{lb|ja|sort=こるむし|rare|obsolete}} a [[thread]] made from the [[fiber]]s of this plant
+# {{lb|ja|sort=こるむし|rare|obsolete}} a [[textile]] made from this thread
+#* circa '''800''', ''Shibunritsu Ongi'' (page 47)<ref name="shibunritsu"/>
+#*: 纎麻衣 '''古流牟斯'''衣
+
+===Etymology 6===
+From {{etyl|ltc|ja|sort=ま}} {{m|ltc|薴}}, but read with the [[音読み#Japanese|''on'yomi'']] from {{m|ja|麻|tr=ma||hemp}}. Compare modern {{cog|cmn|苧|tr=zhù}}, {{m|cmn|麻|tr=má}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|慣用読み|Kan'yōyomi}}
+* {{IPA|lang=ja|[ma̠]}}
+
+====Alternative forms====
+* {{ja-l|麻}}
+
+====Affix====
+{{ja-pos|affix|ま}}
+
+# the [[ramie]] or [[hemp]] plant or fiber
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|苧物|まもの|mamono}}: a [[rope]] or [[line]] made of [[hemp]] or [[ramie]] [[fiber]]
+* {{ja-l|苧麻|まお|mao}}: [[ramie]]; a kind of [[thread]] made from [[ramie]]; {{qualifier|slang}} [[adultery]]
+{{der-bottom}}
+
+===Etymology 7===
+From {{etyl|ltc|ja|sort=ちょ}} {{m|ltc|薴}}. Compare modern {{cog|cmn|苧|tr=zhù}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[t͡ɕʲo̞]}}
+
+====Affix====
+{{ja-pos|affix|ちょ}}
+
+# the [[ramie]] or [[hemp]] plant or fiber
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|苧麻|ちょま|choma}}: [[hemp]] or [[ramie]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 苧]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=저|eumhun=|rv=jeo|mr=chŏ|y=ce}}
+
+# {{defn|lang=ko|sort=艸05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trữ]]|rs=艸05}}
+
+# {{defn|lang=vi|sort=艸05}}
+
+[[fr:苧]]
+[[hu:苧]]
+[[mg:苧]]
+[[ja:苧]]
+[[pl:苧]]
+[[th:苧]]
+[[zh:苧]]

@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=血qiú,er=y
+|c=hyut3 kau4
+|h=pfs=hiet-khiù
+|mn=hiat-kiû
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|hematology|cytology}} [[blood cell]]
+
+====Synonyms====
+* {{zh-l|血細胞}}
+
+====Derived terms====
+{{zh-der|紅血球|白血球}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|けつ|k1=けっ|きゅう|yomi=o}}
+
+===Noun===
+{{ja-noun|けっきゅう}}
+
+# [[blood cell]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=혈구}}
+
+# {{hanja form of|혈구|blood cell}}
+
+[[fr:血球]]
+[[ko:血球]]
+[[lo:血球]]
+[[mg:血球]]
+[[zh:血球]]

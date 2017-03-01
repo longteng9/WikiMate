@@ -1,0 +1,50 @@
+{{also|风度}}
+==Chinese==
+{{zh-forms|s=风度|alt=豐度}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēngdù|ma=Zh-fengdù.ogg
+|c=fung1 dou6
+|h=pfs=fûng-thu
+|mn=hong-tō͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[elegance]]; [[grace]]; [[poise]]; [[demeanour]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=on|ふう|ど}}
+
+===Etymology===
+Probably from {{etyl|ltc|ja|sort=ふうど}} {{m|zh|風度|tr=pjuwng du<sup>H</sup>|lit=wind + measure, degree}}. Compare modern {{etyl|cmn|-}} {{m|zh|風度|tr=fēngdù}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|ふうど|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ふうど}}
+
+# a person's [[outward]] [[personality]], [[character]], [[disposition]], [[appearance]]
+
+====Synonyms====
+* {{sense|character, air}} {{ja-r|風格|ふうかく}}
+* {{sense|outward appearance}} {{ja-r|風采|ふうさい}}
+* {{sense|personality}} {{ja-r|人品|じんぴん}}
+
+===References===
+<references/>
+* {{R:Kokugo Dai Jiten}}
+
+[[zh-min-nan:風度]]
+[[ko:風度]]
+[[hu:風度]]
+[[mg:風度]]
+[[ja:風度]]

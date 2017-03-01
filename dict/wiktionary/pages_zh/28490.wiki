@@ -1,0 +1,71 @@
+{{character info/new}}
+{{also|辚}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=12|sn=19|four=59059|canj=JJFDQ}}
+
+# [[rattle]]
+# [[threshold]], [[wheel]]
+
+====References====
+* {{Han ref|kx=1249.020|dkj=38542|dj=1727.280|hdz=53557.030|uh=8F54|ud=36692|bh=C3E1|bd=50145}}
+
+----
+
+==Chinese==
+{{zh-forms|s=辚}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|車|t1=carriage|粦|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lín
+|c=leon4,leon6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|殷轔|轔轔|轔轢|隱轔}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=車12}}
+
+# rumbling of vehicles
+# [[threshold]]
+
+====Readings====
+* {{ja-readings|on=[[りん]] (rin)|kun=[[ひびき]] (hibiki)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[린]]>[[인]]|eumhun=|rv=rin>in|mr=rin>in|y=lin>in}}
+
+# rumbling of vehicles
+# [[wheel]]
+# [[tread]]
+
+[[fr:轔]]
+[[hu:轔]]
+[[pl:轔]]
+[[th:轔]]
+[[zh:轔]]

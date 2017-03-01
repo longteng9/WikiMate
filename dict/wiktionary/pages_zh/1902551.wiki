@@ -1,0 +1,55 @@
+==Japanese==
+{{ja-kanjitab|破|魔}}
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|a|は|ま}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[ha̠ma̠]}}
+
+===Etymology 1===
+{{ja-etym-buddhist}}<ref name="DJR"/><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Appears to be from {{etyl|ltc|ja|sort=はま}} compound {{m|ltc|破魔|tr=phaH ma|lit=break demon}}.
+
+Alternately, could be a {{etyl|ja|-}} coinage using {{etyl|zhx|ja|sort=はま}} elements, as a compound of {{etyl|ltc|-}}-derived {{compound|lang=ja|sort=はま|破|tr1=ha|t1=break, destroy|魔|tr2=ma|t2=demon, devil}}.
+
+====Noun====
+{{ja-noun|はま}}
+
+# {{lb|ja|sort=はま|Buddhism}} [[defeat]]ing a [[devil]] or [[demon]], particularly the demons of [[worldly]] [[desire]]s or [[passion]]s
+
+=====Derived terms=====
+* {{ja-l|破魔士|はまし|hamashi}}: an [[exorcist]] {{qualifier|Buddhism}}
+* {{ja-l|破魔術|はまふつま|hamajutsu}}: [[exorcism]] {{qualifier|Buddhism; the technique of exorcising, rather than the act of doing so}}
+
+=====Related terms=====
+* {{sense|exorcise; specific to Christianity}} {{ja-l|祓魔|ふつま|futsuma}}
+* {{sense|driving away evil spirits in general}} {{ja-l|悪魔払い}}, {{ja-l|悪魔祓い|あくまばらい|akumabarai}}; {{ja-l|魔除け|まよけ|mayoke}}
+
+====Verb====
+{{ja-verb-suru|はま}}
+
+# {{lb|ja|sort=はま|Buddhism}} to [[defeat]] a [[devil]] or [[demon]], particularly the demons of [[worldly]] [[desire]]s or [[passion]]s
+
+=====Conjugation=====
+{{ja-suru|はま}}
+
+===Etymology 2===
+{{unk.|lang=ja|sort=はま}}. The kanji are [[ateji]].<ref name="KDJ"/><ref name="SMK5">{{R:Shinmeikai5}}</ref>
+
+Possibly cognate with {{ja-l|嵌める}}, {{m|ja|填める|tr=hameru||to fit or set one thing into another}}, by way of the {{etyl|ojp|-}} form {{ja-l|填む}}, {{ja-l|嵌む||hamu}}.
+
+====Noun====
+{{ja-noun|はま}}
+
+# a [[target]] for {{ja-l|破魔矢||hamaya}} [[archery]], [[round]] and generally made of [[bound]] [[straw]] or [[tree]] [[branches]]
+# short for {{ja-l|破魔弓||hamayumi}}: a [[decorative]] [[bow]], formerly used for special [[New Years]] [[archery]] competitions and now used as a [[ward]] against evil
+
+=====Derived terms=====
+* {{ja-l|破魔矢|はまや|hamaya}}: a [[decorative]] [[arrow]] used as a [[ward]] against [[evil]]
+* {{ja-l|破魔弓|はまゆみ|hamayumi}}: [[decorative]] [[bow]] used to shoot a ''hamaya'', given to boys as a [[toy]] at [[New Years]]
+
+===References===
+<references/>
+
+[[fr:破魔]]

@@ -1,0 +1,64 @@
+{{also|髑髅}}
+==Chinese==
+{{zh-forms|s=髑髅}}
+
+===Pronunciation===
+{{zh-pron
+|m=dúlóu
+|c=duk6 lau4
+|mn=to̍k-lô͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[skull]] of a [[corpse]]
+# [[head]] of a [[corpse]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|どく|ろ|yomi=o}}
+From {{der|ja|ltc|髑髏}}.
+
+====Pronunciation====
+{{ja-pron|どくろ|y=o|acc=1|acc_ref=NHK,SMK5,DJR}}
+
+====Noun====
+{{ja-noun|どくろ}}
+
+# [[weathered]] [[clean]] [[skull]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|sort=しゃれこうべ}}
+Compound of {{com|ja|曝れ|頭|tr1=sare|tr2=kōbe|t1=weathered|t2=head|pos1=continuative ({{m|ja|連用形}}) form of {{m|ja|曝れる}}}}.
+
+====Pronunciation====
+{{ja-pron|されこうべ|y=irr|acc=3|acc_ref=NHK,DJR}}
+{{ja-pron|しゃれこうべ|y=irr|acc=3|acc_ref=NHK,DJR}}
+{{ja-pron|しゃりこうべ|y=irr|acc=3|acc_ref=NHK,DJR}}
+
+====Noun====
+{{ja-noun|されこうべ|hhira=されかうべ}}<br/>
+{{ja-altread|hira=しゃれこうべ|hhira=しゃれかうべ}}<br/>
+{{ja-altread|hira=しゃりこうべ|hhira=しゃりかうべ}}<br/>
+
+# [[weathered]] [[clean]] [[skull]]
+
+===See also===
+* {{ja-r|頭骨|とうこつ}}
+* {{ja-r|頭蓋|ずがい}}
+* {{ja-r|頭蓋骨|ずがいこつ}}, {{ja-r|頭蓋骨|とうがいこつ}}
+
+===References===
+<references/>
+
+[[Category:ja:Skeleton|とくろ']]
+
+[[fr:髑髏]]
+[[mg:髑髏]]
+[[ja:髑髏]]
+[[sv:髑髏]]

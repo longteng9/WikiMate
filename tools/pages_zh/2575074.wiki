@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=kèmíng
+|c=hak1 ming4
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to be [[able]] to [[discern]] between [[right]] and [[wrong]]
+# {{lb|zh|literary}} to [[know]] the [[talent]]
+# {{lb|zh|literary}} to [[experience]] and [[understand]] the [[situation]] of the [[people]]
+
+----
+
+==Japanese==
+
+===Pronunciation===
+* {{ja-pron|こくめい|y=o|acc=0|acc_ref=NHK}}
+
+===Adjectival noun===
+{{ja-kanjitab|こく|めい|yomi=o}}
+{{ja-adj|infl=na|こくめい}}
+
+# [[meticulous]], [[painstaking]], [[minute]]
+#: {{ja-usex|'''克明'''に刻まれている。|'''こくめい''' に きざまれている。|It is meticulously engraved on it.}}
+
+====Inflection====
+{{ja-na|こくめい}}
+
+===Proper noun===
+{{ja-kanjitab|かつ|あき|yomi=k}}
+{{ja-pos|かつあき|proper}}
+
+# {{given name|male|lang=ja|sort=かつあき}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[ko:克明]]
+[[li:克明]]
+[[zh:克明]]

@@ -1,0 +1,48 @@
+{{also|反响}}
+==Chinese==
+{{zh-forms|s=反响}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǎnxiǎng
+|c=faan2 hoeng2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|physics}} [[echo]]; [[reflected]] [[sound]]
+# {{lb|zh|figurative}} [[response]]; [[impact]]; [[repercussions]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|はん|きょう|yomi=on}}
+
+===Noun===
+{{ja-noun|はんきょう}}
+
+# An [[echo]]; (a [[reflected]] [[sound]] that is [[heard]] [[again]] by its [[initial]] [[observer]]).
+# [[response]], [[repercussion]]
+#: {{ja-usex|発表後の反響は大きかった|はっぴょう ご の はんきょう は おおきかった|the announcement got a big response}}
+
+====Derived terms====
+* {{ja-r|反響定位|はんきょうていい}}: [[echolocation]]
+
+====Synonyms====
+* {{ja-r|こだま}}
+* {{ja-r|エコー}}
+
+====See also====
+* {{pedialite|lang=ja}}
+* {{pedialite|Echo}}
+
+[[ko:反響]]
+[[lt:反響]]
+[[hu:反響]]
+[[mg:反響]]
+[[ja:反響]]
+[[ru:反響]]
+[[chr:反響]]
+[[zh:反響]]

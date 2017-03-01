@@ -1,0 +1,74 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=xiàluò
+|c=haa6 lok6
+|h=pfs=ha-lo̍k
+|mn=qz:hě-lo̍h/tw,xm:hē-lo̍h/zz:hēe-lo̍h/qz:hǎ-lo̍k/xm:hā-lo̍k/zz:hēe-lo̍k
+|cat=v,n
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[fall]]; to [[drop]] in altitude
+
+====Noun====
+{{zh-noun}}
+
+# [[falling]]; [[declining]]; [[descent]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=xiàluò,tl=y
+|c=haa6 lok6
+|h=pfs=ha-lo̍k
+|mn=qz:hě-lo̍h/tw,xm:hē-lo̍h/zz:hēe-lo̍h/qz:hǎ-lo̍k/xm:hā-lo̍k/zz:hēe-lo̍k
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[whereabouts]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|げ|らく|yomi=on}}
+
+===Noun===
+{{ja-noun|げらく}}
+
+# [[fall]], [[decline]], [[drop]]
+# {{lb|ja|stock market|sort=からく'}} [[fall]] in stock prices, [[decline]] of a stock
+
+====Synonyms====
+* {{ja-r|低下|ていか}}
+
+====Antonyms====
+* {{ja-r|騰貴|とうき|gloss=[[rise]]}}
+
+===Verb===
+{{ja-verb-suru|げらく}}
+# [[fall]], [[decline]], [[drop]]
+# {{lb|ja|stock market|sort=けらくする'}} [[fall]] in stock prices, [[decline]] of a stock
+#: {{ja-usex|ユーロが'''下落'''した。|ユーロ が '''げらく''' した。|The euro dropped.}}
+
+====Synonyms====
+* {{ja-r|linkto=低下|低下する|ていか する}}
+
+====Conjugation====
+{{ja-suru|げらく}}
+
+[[zh-min-nan:下落]]
+[[ko:下落]]
+[[lo:下落]]
+[[hu:下落]]
+[[mg:下落]]
+[[ja:下落]]
+[[zh:下落]]

@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=212|rad=龍|as=04|sn=20|four=08432|canj=YPMK|ids=⿱龍天}}
+
+# [[w:Liu Yan (emperor)|Liu Yan]]'s adopted personal name (889 - 942)
+
+====References====
+* {{Han ref|kx=1537.060|dkj=48827|dj=2077.090|hdz=74804.090|uh=9F91|ud=40849|bh=F5BF|bd=62911}}
+
+----
+
+==Chinese==
+{{zh-forms|s=䶮}}
+{{wikipedia|劉龑|lang=zh}}
+{{wikipedia|Liu Yan (emperor)}}
+
+===Etymology===
+[[w:Liu Yan (emperor)|Liu Yan]]'s original name was {{l|zh|劉[[巖]]}}. He changed {{l|zh|巖}} to {{lang|zh|龑}}, a character he invented. The character refers to a saying in the [[I Ching]], {{lang|zh|飛龍在天}} ("the flying dragon in the sky").
+
+===Pronunciation===
+{{zh-pron
+|m=yǎn
+|c=jim2,jin2
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# The adopted personal name of [[w:Liu Yan (emperor)|Liu Yan]] (889&ndash;942).
+
+===References===
+* {{cite-book|last=|first=|authorlink=|coauthors=|year=2007|title=[[w:Hanyu Da Zidian|Hanyu Da Zidian]]|language=Mandarin|publisher=Jianhong Publishers|location=[[Taiwan]]|isbn=9578134789}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=龍04}}
+
+# [[high]] and [[bright]]
+
+====Readings====
+{{ja-readings
+| kanon=[[えん]] (en)
+| goon=[[げん]] (gen)
+}}
+
+====Usage notes====
+This kanji usage is extremely rare in Japanese. An example usage of this kanji is the use of the Chinese emperor name [[w:Liu Yan (emperor)|Liu Yan]] which can be read in Japanese as {{ja-r|劉龑|^りゅう ^げん|linkto=w:ja:劉ゲン}}.
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nghiễm]]|rs=龍04}}
+
+# {{rfdef|vi}}
+
+[[fr:龑]]
+[[mg:龑]]
+[[pl:龑]]
+[[th:龑]]
+[[zh:龑]]

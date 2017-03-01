@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=lěnghài
+|c=laang5 hoi6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|agriculture}} [[damage]] to [[plant]]s caused by a [[cold]] [[spell]]
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+</div>
+{{ja-kanjitab|れい|がい}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=れいがい}} compound {{m|zh|冷害|tr=leng gai<sup>H</sup>|lit=cold + harm, injury}}. Compare modern {{etyl|cmn|-}} {{zh-l|冷害|tr=lěnghài}}.
+
+===Pronunciation===
+* {{ja-pron|yomi=goon|れいがい|acc=0|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|れいがい}}
+
+# [[damage]] from [[cold]] [[weather]], [[cool]] [[summer]] [[damage]] {{gloss|to harvest}}
+
+====See also====
+* {{ja-r|山背|やませ}}: a cold wind that blows from the Pacific coast in the northeast of Japan in the summer
+
+===References===
+<references />
+
+[[ko:冷害]]
+[[ja:冷害]]
+[[zh:冷害]]

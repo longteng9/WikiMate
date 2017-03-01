@@ -1,0 +1,21 @@
+==Chinese==
+{{zh-forms|s=德国马克|type=22}}
+
+===Etymology===
+* {{zh-l|德國}} ([[transliteration]] of {{etyl|de|zh}} {{m|de|Deutschland}}) + {{zh-l|馬克}} ([[transliteration]] of {{etyl|de|zh}} {{m|de|Mark}})
+
+===Pronunciation===
+{{zh-pron
+|m=Déguó mǎkè
+|c=dak1 gwok3 maa5 haak1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[Deutsche Mark]], the former currency of [[Germany]]
+
+{{zh-cat|Currency}}
+
+[[zh:德國馬克]]

@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=59|rad=彡|as=04|sn=7|four=72422|canj=BYHHH|ids=⿰丹彡}}
+
+# [[red]], [[vermilion]]
+# a [[surname]]
+
+====References====
+* {{Han ref|kx=0363.080|dkj=09972|dj=0682.030|hdz=20853.020|uh=5F64|ud=24420|bh=A7CD|bd=42957}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tóng
+|c=tung4
+|mn=qz,xm,zz:tông
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|彤庭|彤弓|彤管|彤管流芳|彤管貽|彤闈|彤雲|彤霞|紅彤彤}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=彡04}}
+
+# {{defn|lang=ja|sort=彡04}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō), [[ず]] (zu)|kun=[[あかい]] (akai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[동]]|eumhun=|rv=dong|mr=tong|y=tong}}
+
+# {{defn|lang=ko|sort=彡04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=彡04|hanviet=đồng}}
+
+# {{defn|lang=vi|sort=彡04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5f64 Nom Foundation]
+
+[[fr:彤]]
+[[ko:彤]]
+[[hu:彤]]
+[[mg:彤]]
+[[no:彤]]
+[[pl:彤]]
+[[th:彤]]
+[[zh:彤]]

@@ -1,0 +1,54 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=chádào
+|c=caa4 dou6
+|mn=tê-tō
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[East Asian]] ([[Chinese]], [[Japanese]] or [[Korean]]) [[tea ceremony]]
+
+====Synonyms====
+* {{zh-l|茶藝}}
+* {{zh-l|茶儀式}}
+
+{{zh-cat|Tea}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|さ|どう|yomi=o}}
+{{ja-kanjitab|ちゃ|どう|yomi=o}}
+{{wikipedia|lang=ja}}
+
+===Noun===
+{{ja-noun|さどう|ちゃどう}}
+
+# The East Asian (Chinese, Japanese, Korean) [[tea ceremony]]; (lit.) the Way of Tea.
+#: {{ja-usex|抹茶は茶道でよく使用されている。|まっちゃ は さどう で よく しようされている。|Matcha is frequently used in the tea ceremony.}}
+# Master of tea ceremonies
+
+====Usage notes====
+* The reading {{lang|ja|さどう}} (''sadō'') is more common.
+
+====Synonyms====
+* {{sense|ceremony}} {{ja-r|茶の湯|ちゃ の ゆ}}
+* {{sense|master of ceremony}} {{ja-r|茶坊主|ちゃぼうず}}
+
+[[cs:茶道]]
+[[fr:茶道]]
+[[ko:茶道]]
+[[li:茶道]]
+[[hu:茶道]]
+[[mg:茶道]]
+[[ja:茶道]]
+[[zh:茶道]]

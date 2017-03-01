@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|ふん|しつ|yomi=on}}
+
+===Noun===
+{{ja-noun|ふんしつ}}
+
+# [[loss]] of something
+
+===Verb===
+{{ja-verb-suru|ふんしつ}}
+
+# [[lose]]
+#: {{ja-usex|書類を紛失した。|しょるい を ふんしつ した。|I've lost a document.}}
+# be lost
+#: {{ja-usex|第２巻が紛失している。|だい-に-かん が ふんしつ して いる。|The second volume is missing.}}
+
+====Conjugation====
+{{ja-suru|ふんしつ}}
+
+====Synonyms====
+* {{l|ja|なくす|tr=nakusu}}
+
+[[ko:紛失]]
+[[hu:紛失]]
+[[ja:紛失]]
+[[zh:紛失]]

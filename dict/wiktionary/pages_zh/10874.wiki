@@ -1,0 +1,58 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=06|sn=8|four=21227|canj=OMBL|ids=⿰亻而}}
+
+# [[many]], [[numerous]], [[multitudinous]]
+
+====References====
+* {{Han ref|kx=0102.090|dkj=00598|dj=0216.080|hdz=10146.050|uh=4F95|ud=20373|bh=CBCA|bd=52170}}
+* [http://yedict.com/htm/4F/4F95.htm yedict.com (叶典)]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=ér
+|c=ji4
+|mn=jî
+|mc=
+|oc=
+|ma=
+|cat=a
+}}
+* Teochew reading is "dzeu5". {{attention|zh|needs to be converted to peng'im}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{qualifier|Teochew}} {{zh-l|侕侕|tr=dzeu5 dzeu5}}: a big mess. In Mandarin it would be {{zh-l|亂}}.
+
+===References===
+* {{qualifier|Cantonese}} [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 65]
+* {{qualifier|Min Nan}} [http://kaifangcidian.com/han/minnan/%E4%BE%95 Kaifang Cidian]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人06}}
+
+# {{defn|lang=ja|sort=人06}}
+
+====Readings====
+* {{ja-readings|on=[[じ]] (ji), [[に]] (ni)|kun=}}
+
+[[fr:侕]]
+[[hu:侕]]
+[[pl:侕]]
+[[th:侕]]
+[[zh:侕]]

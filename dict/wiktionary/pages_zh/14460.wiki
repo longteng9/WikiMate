@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|𫝍|冈}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=05|sn=8|four=77220|canj=BTU|ids=⿵冂⿱䒑山}}
+
+# [[ridge]] or [[crest]] of [[hill]]
+
+====Derived terms====
+* {{l|mul|剛}}, {{l|mul|鋼}}, {{l|mul|崗}}, {{l|mul|罁}}, {{l|mul|綱}}, {{l|mul|掆}}, {{l|mul|棡}}, {{l|mul|犅}}, {{l|mul|碙}}, {{l|mul|堈}}
+
+====References====
+* {{Han ref|kx=0308.390|dkj=07962|dj=0608.250|hdz=10100.140|uh=5CA1|ud=23713|bh=A9A3|bd=43427}}
+
+----
+
+==Chinese==
+{{zh-forms|s=冈|alt=崗}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|网|山|t1=net|t2=hill|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gāng,gǎng
+|c=gong1
+|h=pfs=kông
+|mn=kong
+|w=1kaan
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[ridge]] or [[crest]] of a [[hill]]; [[mound]]
+
+===Compounds===
+{{zh-der|奧勒岡州|山岡|岡岑|岡巒|岡渡拉|岡連嶺屬|岡陵|崑岡|梵蒂岡|瀧岡|臥龍岡|雲岡|雲岡石窟|靜岡|高岡|高岡兒|鶴岡|黃花岡}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山05}}
+
+# hill
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[おか]] (oka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=강|rv=gang|mr=kang}}
+
+# {{defn|lang=ko|sort=山05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cương]]|rs=山05}}
+
+# {{defn|lang=vi|sort=山05}}
+
+[[fr:岡]]
+[[li:岡]]
+[[hu:岡]]
+[[ja:岡]]
+[[pl:岡]]
+[[th:岡]]
+[[zh:岡]]

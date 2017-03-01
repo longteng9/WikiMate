@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=ànshì
+|c=am3 si6
+|h=pfs=am-sṳ
+|mn=àm-sī
+|ma=y
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[suggestion]]
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Advanced Mandarin}} to [[drop]] a [[hint]]; to [[hint]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|あん|じ|yomi=on}}
+
+===Noun===
+{{ja-noun|あんじ}}
+
+# [[hint]], [[implication]], [[intimation]], [[suggestion]]
+
+====Antonyms====
+* {{ja-r|明示|めいじ}}: [[explication]], [[demonstration]], [[manifestation]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|あんじ}}
+
+# to give a hint, [[imply]], [[intimate]], [[suggest]]
+
+====Conjugation====
+{{ja-suru|あんじ}}
+
+[[zh-min-nan:暗示]]
+[[ko:暗示]]
+[[hu:暗示]]
+[[mg:暗示]]
+[[ja:暗示]]
+[[fi:暗示]]
+[[chr:暗示]]
+[[zh:暗示]]

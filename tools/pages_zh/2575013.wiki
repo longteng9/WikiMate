@@ -1,0 +1,30 @@
+==Japanese==
+{{ja-kanjitab|きゅう|めい|yomi=on}}
+
+===Noun===
+{{ja-noun|きゅうめい}}
+
+# [[analysis]], [[investigation]]
+#: {{ja-usex|原因の'''究明'''は後回しにされた。|げんいん の '''きゅうめい''' は あとまわし に された。|The analysis of the cause of the incident was put off.}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|きゅうめい}}
+
+# [[determine]], [[ascertain]]
+
+====Conjugation====
+{{ja-suru|きゅうめい}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=구명}}
+
+# {{hanja form of|구명|investigation}}
+
+[[ko:究明]]
+[[ja:究明]]
+[[zh:究明]]

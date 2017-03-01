@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|覇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=173|rad=雨|as=13|sn=21|four=10527|canj=MBTJB|ids=⿱[[雨|⻗]]⿰[[革]][[月]]}}
+
+# [[tyranny]], [[rule]] by [[might]] rather than [[right]]
+# [[hegemon]]
+# {{lb|mul|archaic}} alternative form of [[魄]]
+
+====References====
+* {{Han ref|kx=1379.130|dkj=42490|dj=1888.250|hdz=64077.190|uh=9738|ud=38712|bh=C551|bd=50513}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bà
+|c=baa3
+|mn=pà
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|霸王}}
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|13167}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=雨13}}
+
+# {{defn|lang=ja|sort=雨13}}
+
+====Readings====
+* {{ja-readings|goon=[[へ]] (he), [[ひゃく]] (hyaku)|kanon=[[は]] (ha), [[はく]] (haku)|kun=[[はたがしら]] (hatagashira), [[かしら]] (kashira)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[패]], [[파]], [[백]]|eumhun=|rv=pae, pa, baek|mr=p'ae, p'a, paek|y=phay, pha, payk}}
+
+# {{defn|lang=ko|sort=雨13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bá]], [[phách]]|rs=雨13}}
+
+# {{defn|lang=vi|sort=雨13}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:霸]]
+[[fr:霸]]
+[[hu:霸]]
+[[mg:霸]]
+[[ja:霸]]
+[[no:霸]]
+[[pl:霸]]
+[[th:霸]]
+[[zh:霸]]

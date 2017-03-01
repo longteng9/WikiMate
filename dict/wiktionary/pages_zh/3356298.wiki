@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēigōngshì
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[informal]], [[unofficial]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひ|こう|しき|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|ひこうしき}}
+
+# [[informal]], [[unofficial]], [[private]]
+#: {{ja-usex|翻訳が非公式なものである|ほんやく が ひこうしき な もの で ある|the translation is unofficial}}
+
+====Inflection====
+{{ja-na|ひこうしき}}
+
+===Noun===
+{{ja-noun|ひこうしき}}
+
+# being unofficial, [[informality]]
+
+[[ko:非公式]]
+[[hu:非公式]]
+[[ja:非公式]]
+[[chr:非公式]]
+[[zh:非公式]]

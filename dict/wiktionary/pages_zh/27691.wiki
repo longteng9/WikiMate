@@ -1,0 +1,58 @@
+{{character info/new}}
+{{also|贊|赞}}
+==Translingual==
+{{Han simplified forms|贊|賛|赞}}
+
+===Etymology===
+Japanese shinjitai {{Han simp|贊|f=兟|t=㚘}}
+
+Compare unrelated [[替]], with top from [[竝]].
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=08|sn=15|four=|canj=QOBUC|ids=⿱㚘貝}}
+
+# [[help]], [[support]], [[assist]], [[aid]]
+
+====See also====
+* {{l|mul|替}}
+
+====References====
+* {{Han ref|kx=1209.130|dkj=36841|hdz=63645.050|uh=8CDB|ud=36059}}
+
+----
+
+==Chinese==
+{{zh-see|贊|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=貝08|style=s|kyu=贊}}
+
+# [[assist]], [[help]]
+# [[agree]]
+
+====Readings====
+{{ja-readings
+|goon=[[さん]] (san)
+|kanon=[[さん]] (san)
+|kun={{qualifier|rare}} [[たすける]] ([[賛ける]], tasukeru), {{qualifier|rare}} [[たたえる]] ([[賛える]], tataeru)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* [[賛仰]]
+* [[賛辞]]
+* [[賛嘆]]
+* [[賛美]]
+* [[絶賛]]
+{{der-bottom}}
+
+[[fr:賛]]
+[[hu:賛]]
+[[ja:賛]]
+[[pl:賛]]
+[[th:賛]]
+[[zh:賛]]

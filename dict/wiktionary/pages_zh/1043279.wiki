@@ -1,0 +1,29 @@
+==Chinese==
+{{zh-forms|type=41}}
+
+===Etymology===
+{{zh-compound|迪吉里杜|管|sound borrowing of {{etyl|en|zh}} {{m|en|didgeridoo}}|pipe}}
+
+===Pronunciation===
+{{zh-pron
+|m=díjílǐdùguǎn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|musical instruments}} [[didgeridoo]]
+
+====Synonyms====
+* {{zh-l|蒂傑利多}}
+
+===References===
+* {{cite-web
+|url=http://www.google.com/search?hl=en&q=%22%E8%BF%AA%E5%90%89%E9%87%8C%E6%9D%9C%E7%AE%A1%22+%22didgeridoo%22&btnG=Search
+|title="迪吉里杜管" "didgeridoo"
+|work=google search
+|language=Mandarin/English
+|accessdate=2008-04-06}}
+
+[[Category:zh:Musical instruments|di2ji2li3du4guan3]]

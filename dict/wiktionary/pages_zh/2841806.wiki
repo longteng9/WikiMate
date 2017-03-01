@@ -1,0 +1,46 @@
+==Japanese==
+{{ja-kanjitab|う|o1=け|つ|o2=け|yomi=kun}}
+
+===Noun===
+{{ja-noun|うけつけ}}
+
+# [[receipt]], [[reception]], [[acceptance]]
+# [[receptionist]], [[information]] [[clerk]]
+# information [[office]], information [[desk]]
+
+====Alternative forms====
+* {{l|ja|受け付け}}: Less common form
+* {{l|ja|受付け}}
+* {{l|ja|受け付}}: Least common form
+
+====Derived terms====
+{{der-top}}
+* {{l|ja|予約受付}} (''yoyaku uketsuke''): reservation, order acceptance
+* {{l|ja|予約受付係}} (''yoyaku uketsukekei''): person whose job is to take reservations
+* {{l|ja|受付中}} (''uketsukechū''): currently accepting
+* {{l|ja|受付係}} (''uketsukegakari''): receptionist, clerk
+{{der-mid}}
+* {{l|ja|受付嬢}} (''uketsukejō''): receptionist, reception woman
+* {{l|ja|着呼受付不可信号}} (''chakko uketsuke fuka shingō''): call-not-accepted signal
+* {{l|ja|着呼受付信号}} (''chakko uketsuke shingō''): call-accepted signal
+{{der-bottom}}
+
+===Verb===
+{{ja-verb-suru|うけつけ}}
+
+# [[receive]], [[accept]]
+
+====Conjugation====
+{{ja-suru|うけつけ}}
+
+[[fr:受付]]
+[[ko:受付]]
+[[lt:受付]]
+[[li:受付]]
+[[hu:受付]]
+[[mg:受付]]
+[[pl:受付]]
+[[pt:受付]]
+[[chr:受付]]
+[[uk:受付]]
+[[zh:受付]]

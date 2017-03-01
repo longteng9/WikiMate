@@ -1,0 +1,57 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=huóyòng
+|c=wut6 jung6
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[flexibly]] [[put to use]]; to [[apply]] flexibly; to have [[multiple]] [[use]]s
+# to [[inflect]]; to [[conjugate]]
+
+{{zh-cat|Grammar}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かつ|よう|yomi=on}}
+
+===Noun===
+{{ja-noun|かつよう}}
+
+# [[application]] (the use of a thing)
+# [[inflection]] (of a verb, [[conjugation]]; of an adjective or noun, [[declension]])
+
+===Verb===
+{{ja-verb-suru|かつよう}}
+
+# to [[utilize]]
+# {{lb|ja|grammar|sort=かつよう}} to [[inflect]], to [[conjugate]]
+
+====Conjugation====
+{{ja-suru|かつよう}}
+
+===See also===
+* {{l|ja|格変化}}, {{l|ja|語形変化}} (''grammar'') [[declension]]
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Grammar|かつよう]]
+
+[[fr:活用]]
+[[ko:活用]]
+[[it:活用]]
+[[li:活用]]
+[[hu:活用]]
+[[mg:活用]]
+[[ja:活用]]
+[[pl:活用]]
+[[ru:活用]]
+[[tg:活用]]
+[[zh:活用]]

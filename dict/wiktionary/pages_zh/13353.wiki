@@ -1,0 +1,129 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=11|sn=14|four=44104|canj=TAKG|ids=⿱莫土}}
+
+====Related characters====
+* [[募]] [[幕]] [[慕]]
+* [[模]] [[膜]]
+
+====References====
+* {{Han ref|kx=0238.120|dkj=05431|dj=0476.190|hdz=10470.090|uh=5893|ud=22675|bh=B9D3|bd=47571}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|莫|土|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=mù
+|c=mou6
+|h=pfs=mu
+|md=
+|mn=bōng/bō͘
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[grave]]; [[tomb]]
+
+===Compounds===
+{{zh-der|墓碑|墓道|墓地|墓碣|墓門|墓木|墓室|墓穴|墓園|墓葬|墓誌|墓坑|墟墓|壟墓|冢墓|徒不上墓|修墓|墓祭|墳墓|墓田|墓木已拱|廬墓|公墓|墓誌銘|墓生兒子|墓表|墓券|封墓|墓記|丘墓|祖墓|盜墓|掃墓節|掃墓|省墓|易墓|掘墓人|諛墓|陵墓|鞭墓|自掘墳墓|覆墓|鎮墓獸|誓墓}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=土11}}
+
+# [[grave]]; [[graveyard]]
+
+====Readings====
+{{ja-readings
+|goon=[[も]] (mo)
+|kanon=[[ぼ]] (bo)
+|kun=[[はか]] (haka)
+|nadzuke=[[つか]] (tsuka)
+}}
+
+====Compounds====
+{{der-top}}
+* {{ja-l|墓碣|ぼけつ|boketsu}}: a [[tombstone]], a [[headstone]]
+* {{ja-l|墓誌銘|ぼしめい|boshimei}}: an extra [[inscription]] at the end of a [[tombstone]] inscription, such as a short [[poem]]
+* {{ja-l|墓表|ぼひょう|bohyō}}: the [[text]] on a [[tombstone]], giving the [[deceased]]'s name, dates of birth and death, and other details
+* {{ja-l|墓地|ぼち|bochi}}: a [[cemetery]], a [[graveyard]]
+* {{ja-l|支石墓|しせきぼ|[[shisekibo]]}}: a [[dolmen]]
+{{der-bottom}}
+
+===Noun===
+{{ja-noun|はか}}
+
+# a [[grave]], a [[tomb]]
+
+===References===
+{{ja-kref
+|ku=4272
+|shift=95E6
+|jis=4A68
+|euc=CAE8
+|skip=2-3-10
+|freq=1337
+|nelson=4027
+|newnelson=1073
+|halpern=2332
+|kld=1505
+|heisig=231
+|tuttle=3k10.18
+}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 墓]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=묘|rv=myo|mr=myo}}
+
+# {{defn|lang=ko|sort=土11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mộ]], [[mô]], [[mồ]]|rs=土11}}
+
+# {{defn|lang=vi|sort=土11}}
+
+[[zh-min-nan:墓]]
+[[fr:墓]]
+[[ko:墓]]
+[[lo:墓]]
+[[lt:墓]]
+[[li:墓]]
+[[hu:墓]]
+[[mg:墓]]
+[[ja:墓]]
+[[no:墓]]
+[[pl:墓]]
+[[pt:墓]]
+[[fi:墓]]
+[[sv:墓]]
+[[th:墓]]
+[[chr:墓]]
+[[uk:墓]]
+[[zh:墓]]

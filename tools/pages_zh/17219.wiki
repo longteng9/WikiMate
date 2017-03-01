@@ -1,0 +1,90 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=12}}
+
+===Han character===
+{{Han char|rn=73|rad=曰|as=08|sn=12|four=55603|canj=QOA|ids=⿱㚘曰}}
+
+====See also====
+* {{l|mul|賛}} <!-- Unrelated, but similar simplification -->
+
+====References====
+* {{Han ref|kx=0503.040|dkj=14300|dj=0877.030|hdz=21515.080|uh=66FF|ud=26367|bh=B4C0|bd=46272}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|竝|曰|ls=ic}} – two figures ({{lang|zh|竝}}) changing places. Two top components have been simplified from {{zh-l|*立}} to {{zh-l|*夫}}.
+
+===Pronunciation===
+{{zh-pron
+|m=tì
+|c=tai3
+|h=pfs=thai/thi
+|mn=qz,xm,zz,yl,tn,kh,tc:thè/qz,xm,lk,tp,km,mg,hc,tc:thòe/qz,tw,xm:thùi/qz,tw,xm:thoeh
+|mn_note=thè - literary; thòe/thuì/thoeh - vernacular
+|w=2thi
+|mc=y
+|oc=y
+|ma=
+|cat=v,prep
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[substitute]]
+# [[for]]; [[in place of]]
+#* {{zh-x|他 替 我 去 了 趟 超市。|He went to the supermarket '''for''' me. [Originally, I was the person who should go to the supermarket]}}
+#* {{zh-x|奴才 替 天下百姓 感激 皇太后 恩典！|I, '''on behalf of''' the people throughout the world, [hereby] express my gratitude for the kindness of the empress dowager!|ref={{w|zh:苍穹之昴 (电视剧)|The Firmament of the Pleiades}}}}
+
+===Compounds===
+{{zh-der|一替|一替一句|世代交替|交替|代替|代替品|代替物|代替財|倒替|冒名頂替|凌替|抽替|拉替身兒|捉生替死|接替|接替栽培|新舊交替|更替|替人|替代|替代作用|替代品|替代能源|替僧|替力|替另|替天行道|替子|替工|替手填腳|替換|替死鬼|替狗奪食|替班|替罪羊|替罪羔羊|替考|替聘|替補|替身|替身演員|替頭|替頭兒|槍替|淪替|演替|獻可替否|獻替可否|興替|衰替|輪替|進可替不|進可替否|陵替|隆替|零替|頂替}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=曰08}}
+
+# {{defn|lang=ja|sort=曰08}}
+
+====Readings====
+* {{ja-readings|on=[[たい]] (tai), [[てい]] (tei)|kun=[[かえる]] (kaeru), [[すたれる]] (sutareru), [[かわる]] (kawaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=체|eumhun=|rv=che|mr=ch'e|y=chey}}
+
+# {{defn|lang=ko|sort=曰08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=曰08|hanviet=thế}}
+
+# {{defn|lang=vi|sort=曰08}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:替]]
+[[fr:替]]
+[[ko:替]]
+[[li:替]]
+[[hu:替]]
+[[mg:替]]
+[[ja:替]]
+[[no:替]]
+[[pl:替]]
+[[th:替]]
+[[zh:替]]

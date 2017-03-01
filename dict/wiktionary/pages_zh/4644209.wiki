@@ -1,0 +1,53 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=běnzhēn
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[inherent]] [[qualities]]; [[true]] [[nature]]
+
+===Adjective===
+{{zh-adj}}
+
+# [[inherent]]; [[intrinsic]]; [[natural]]
+
+====Synonyms====
+* {{zh-l|本來面目|tr=běnlái miànmù}}
+* {{zh-l|本性}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほん|ま|yomi=ok}}
+
+===Etymology===
+Probably coined in Japan, as a compound of {{compound|lang=ja|sort=ほんま|本|tr1=hon|t1=main, this, the current; real|真|tr2=ma|t2=real, true, genuine}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=j|ほんま|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ほんま}}
+
+# [[truth]], [[reality]]
+
+====Usage notes====
+Used [[attributively]] as a noun, taking the [[possessive]] particle {{ja-r|の}}.
+: {{ja-usex|'''本真'''の話やで。|'''ほんま''' の はなし や で。|It's a '''true''' story, I tell you!}}
+Also used [[adverbially]], taking the particle {{ja-r|に}}.
+: {{ja-usex|'''本真'''に驚いたわ。|'''ほんま''' に おどろいた わ。|I was '''really''' surprised.}}
+
+May be more common in [[Kansai]] and other areas in the west of Japan.
+
+===References===
+<references/>
+
+[[fr:本真]]
+[[mg:本真]]
+[[chr:本真]]

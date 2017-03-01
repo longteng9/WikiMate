@@ -1,0 +1,54 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=07|sn=9|four=21269|canj=OMFR|ids=⿰亻否}}
+
+# {{defn|Han|sort=人07}}
+
+====References====
+* {{Han ref|kx=0105.080|dkj=00694|hdz=10158.060|uh=4FD6|ud=20438|bh=CDEB|bd=52715}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=pěi
+|c=pui2
+|mc=y
+|oc=y
+|ma=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 65]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人07}}
+
+# {{defn|lang=ja|sort=人07}}
+
+====Readings====
+* {{ja-readings|on=[[はい]] (hai), [[へ]] (he)|kun=}}
+
+[[fr:俖]]
+[[hu:俖]]
+[[pl:俖]]
+[[th:俖]]
+[[zh:俖]]

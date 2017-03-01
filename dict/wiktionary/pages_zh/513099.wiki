@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|しょ|しん|しゃ|yomi=on}}
+
+===Noun===
+{{ja-noun|しょしんしゃ}}
+
+# [[beginner]] {{gloss|someone who has recently begun learning something new}}
+# {{lb|ja|internet slang}} [[noob]]
+
+====Synonyms====
+* {{sense|beginner}} {{ja-r|素人|しとうと}}, {{ja-r|ビギナー}}
+
+====Compounds====
+* {{ja-r|初心者マーク|しょしんしゃ マーク|gloss=beginner's symbol}}
+
+===References===
+* {{R:Kojien}}
+
+[[ko:初心者]]
+[[hu:初心者]]
+[[fj:初心者]]
+[[ru:初心者]]
+[[sv:初心者]]
+[[zh:初心者]]

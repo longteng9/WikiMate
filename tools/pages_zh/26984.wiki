@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|诘}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=06|sn=13|four=04661|canj=YRGR}}
+
+# [[question]], [[interrogate]]
+
+====References====
+* {{Han ref|kx=1158.090|dkj=35440|dj=1624.050|hdz=63961.070|uh=8A70|ud=35440|bh=B8D7|bd=47319}}
+
+----
+
+==Chinese==
+{{zh-forms|s=诘}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jié
+|c=kit3,gat1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|反詰|喬詰|查詰|盤詰|研詰|究詰|維摩詰|詰問|詰屈|詰屈聱牙|詰旦|詰曲|詰禁|詰責|詰難|責詰|駁詰}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=言06}}
+
+# {{defn|lang=ja|sort=言06}}
+
+====Readings====
+* {{ja-readings|goon=[[きち]] (kichi)|kanon=[[きつ]] (kitsu)|kun=[[つめる]] (tsumeru), [[なじる]] (najiru), [[つまる]] (tsumaru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=힐|eumhun=|rv=hil|mr=hil|y=hil}}
+
+# {{defn|lang=ko|sort=言06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''詰''' ([[cật]], [[gạt]], [[gợt]])
+
+# {{defn|lang=vi}}
+
+[[fr:詰]]
+[[ko:詰]]
+[[hu:詰]]
+[[mg:詰]]
+[[ja:詰]]
+[[pl:詰]]
+[[th:詰]]
+[[zh:詰]]

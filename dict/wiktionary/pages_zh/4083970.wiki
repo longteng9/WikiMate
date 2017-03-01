@@ -1,0 +1,25 @@
+{{also|次数}}
+==Chinese==
+{{zh-forms|s=次数}}
+
+===Pronunciation===
+{{zh-pron
+|m=cìshù
+|c=ci3 sou3
+|h=pfs=chhṳ-su
+|mn=qz:chhìr-sò͘/xm,zz:chhù-sò͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[number]] of [[time]]s; [[frequency]]
+# {{lb|zh|math}} [[order]] of a [[monomial]] or [[polynomial]]
+
+====Synonyms====
+* {{sense|frequency}} {{zh-l|頻度}}, {{zh-l|頻率}}
+
+{{zh-cat|Advanced}}
+
+[[ja:次數]]

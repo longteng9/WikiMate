@@ -1,0 +1,79 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǐlì
+|c=bei2 lai6
+|h=pfs=pí-li
+|mn=pí-lē
+|ma=Zh-bilì.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|mathematics}} [[ratio]]; [[proportion]]
+#: {{zh-x|持股 比例|equity '''ratio'''}}
+# [[proportion]]; [[percentage]]
+# {{lb|zh|cartography}} [[scale]]
+
+====Derived terms====
+{{zh-der|比例尺|比例稅制|正比例|不成比例|反比例|比例代表制|按分比例|配分比例}}
+
+{{zh-cat|Elementary|Mathematics}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひ|れい|yomi=o}}
+
+===Etymology===
+From {{m|ja|比|sc=Jpan|tr=hi||ratio}} + {{m|ja|例|sc=Jpan|tr=rei||put side by side}}
+
+===Noun===
+{{ja-noun|ひれい}}
+
+# [[proportion]], [[ratio]]
+
+====Compounds====
+* [[比例に応じて]] (''hirei ni ōjite''): proportional
+* [[比例区]] (''hireiku''): proportionally represented constituency
+* [[比例式]] (''hireishiki''): proportional expression
+* [[比例税]] (''hireizei''): proportional tax
+* [[比例中項]] (''hirei chūkō''): mean proportional
+* [[比例配分]] (''hirei haibun''): proportional distribution
+* [[比例代表制]] (''hirei daihyō sei''): proportional representation
+* [[名簿式比例代表制]] (''meibo-shiki hirei daihyō sei''): proportional representation system in which votes are cast for a publicly available list of party members
+* [[拘束名簿式比例代表制]] (''kōsoku meibo-shiki hirei daihyō sei''): proportional representation electoral system
+* [[非拘束名簿式比例代表制]] (''hi-kōsoku meibo-shiki hirei daihyō sei''): proportional representation system in which both party and individual votes are cast
+* [[小選挙区比例代表並立制]] (''shō-senkyoku hirei daihyō heiritsu sei''): electoral system comprised of single-seat and multiple-seat constituencies
+* [[逆比例]] (''gyakuhirei''): inverse proportion to
+* [[正比例]] (''seihirei''): direct proportion
+* [[単比例]] (''tanpirei''): simple proportion
+* [[定比例]] (''teihirei''): fixed proportion
+* [[反比例]] (''hanpirei''): inverse proportion
+* [[複比例]] (''fukuhirei''): compound proportion
+* [[定比例の法則]] (''teihirei no hōsoku''): law of definite proportions
+* [[倍数比例の法則]] (''baisū hirei no hōsoku''): law of multiple proportions
+
+===Verb===
+{{ja-verb-suru|ひれい}}
+
+# be [[proportional]], be in [[proportion]]
+
+====Conjugation====
+{{ja-suru|ひれい}}
+
+====Usage notes====
+Often this verb is used in the past tense, ''比例した'', to mean {{l|en|commensurate}} or {{l|en|proportionate}}, or in the -te form ''比例して'' to mean "in proportion." As such it expresses concepts with a verb that are usually expressed with other parts of speech in English.
+
+[[zh-min-nan:比例]]
+[[ko:比例]]
+[[hu:比例]]
+[[mg:比例]]
+[[ja:比例]]
+[[tl:比例]]
+[[chr:比例]]
+[[zh:比例]]

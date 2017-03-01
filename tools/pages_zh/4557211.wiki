@@ -1,0 +1,21 @@
+{{also|連聲|连声}}
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|れん|しょう|k2=じょう|r=y|yomi=o}}
+
+===Etymology===
+Compound of {{m|ja|連||connect|tr=ren}} and {{m|ja|声||voice|tr=shō}}. {{rendaku2|shō|jō|sort=れんしょう'}}
+
+===Pronunciation===
+{{ja-pron|yomi=go|れんじょう|acc=0|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|kyu=連聲|れんじょう|hhira=れんじやう}}
+
+# {{lb|ja|linguistics|sort=れんじょう}} a morphological change of an initial syllable of the second [[kanji]] under the influence of the historical [[coda]] of the first kanji in a word, such as [[天皇]], whose pronunciation is not ''ten’ō'' but ''ten'''n'''ō''.
+
+====Related terms====
+* {{ja-r|連濁|れんだく}}
+
+===References===
+<references/>

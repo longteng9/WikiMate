@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=héxīn
+|c=hat6 sam1
+|mn=hu̍t-sim
+|ma=Zh-héxin.ogg
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[core]]; [[centre]]; the most [[important]] [[part]]
+# [[nucleus]]; [[kernel]]
+
+===Adjective===
+{{zh-adj}}
+
+# [[centrally]] important
+
+===Derived terms===
+{{zh-der|核心家庭|核心期刊}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かく|しん|yomi=on}}
+
+===Etymology===
+From {{m|ja|核|tr=kaku||nucleus}} + {{m|ja|心|tr=shin||central part}}
+
+===Noun===
+{{ja-noun|かくしん}}
+
+# [[core]], [[heart]]
+#: {{ja-usex|ニュースの核心に迫る|ニュース の かくしん に せまる|get to the crux of the news}}
+
+[[zh-min-nan:核心]]
+[[ko:核心]]
+[[hu:核心]]
+[[mg:核心]]
+[[ja:核心]]
+[[pt:核心]]
+[[chr:核心]]
+[[zh:核心]]

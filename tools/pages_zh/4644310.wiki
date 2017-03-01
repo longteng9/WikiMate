@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|c=saang1 gwo2
+|h=gd=sang1 guo3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Cantonese|Hakka}} [[fruit]]
+#: {{zh-x|好 靚 生果{gwo2}。買 啲 啦，小姐。|Very nice '''fruits'''. Buy a few, miss.|C-GZ}}
+
+====Synonyms====
+{{zh-dial|水果}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|せい|か}}
+
+===Etymology===
+Probably from {{etyl|ltc|ja|sort=せいか}} compound {{m|zh|生果|tr=sraeng kwa<sup>X</sup>|lit=fresh, raw + fruit}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|せいか|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|せいか|hhira=せいくわ}}
+
+# [[raw]] [[fruit]], [[fresh]] [[fruit]]
+
+===References===
+<references/>
+
+[[mg:生果]]

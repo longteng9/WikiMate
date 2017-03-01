@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǎochí
+|c=bou2 ci4
+|h=pfs=pó-chhṳ̀
+|mn=pó-chhî
+|ma=Zh-baochí.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[keep]]; to [[maintain]]; to [[preserve]]
+#: {{zh-x|保持 清潔|to '''keep''' clean}}
+#: {{zh-x|保持 緘默|to '''keep''' silent}}
+#: {{zh-x|保持 安靜|to '''keep''' quiet}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほ|じ|yomi=on}}
+
+===Noun===
+{{ja-noun|ほじ|hhira=ほぢ}}
+
+# [[keeping]], [[holding]], [[conservation]], [[retention]]
+# [[maintenance]]
+
+===Verb===
+{{ja-verb-suru|ほじ|hhira=ほぢ}}
+
+# [[keep]], [[hold]], [[conserve]]
+# [[maintain]]
+
+====Conjugation====
+{{ja-suru|ほじ}}
+
+[[zh-min-nan:保持]]
+[[ko:保持]]
+[[hu:保持]]
+[[mg:保持]]
+[[ja:保持]]
+[[sr:保持]]
+[[chr:保持]]
+[[zh:保持]]

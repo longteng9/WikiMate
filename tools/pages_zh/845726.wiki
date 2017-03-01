@@ -1,0 +1,60 @@
+{{also|结论}}
+==Chinese==
+{{zh-forms|s=结论}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiélùn
+|c=git3 leon6
+|h=pfs=kiet-lun
+|mn=kiat-lūn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[conclusion]]; [[verdict]]
+#: {{zh-x|得出 結論|''to reach a '''conclusion'''''}}
+# {{qualifier|logical}} [[conclusion]] {{gloss|of a [[syllogism]]}}
+
+====Derived terms====
+{{zh-der|下結論}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|けつ|ろん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|けつろん|yomi=o}}
+
+===Noun===
+{{ja-noun|けつろん}}
+
+# A decision reached after careful thought; [[conclusion]].
+
+===Verb===
+{{ja-verb-suru|tr=intrans|けつろん}}
+
+# [[conclude]]
+
+====Conjugation====
+{{ja-suru|けつろん}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=결론}}
+
+# {{hanja form of|결론}}
+
+[[ko:結論]]
+[[hu:結論]]
+[[mg:結論]]
+[[ja:結論]]
+[[chr:結論]]
+[[zh:結論]]

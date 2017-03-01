@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=10|sn=13|four=33141|canj=EJYJ|ids=⿰氵宰}}
+
+# [[sediment]], [[lees]], [[dregs]]
+
+====References====
+* {{Han ref|kx=0643.050|dkj=18034|dj=1050.120|hdz=31709.010|uh=6ED3|ud=28371|bh=B7BA|bd=47034}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zǐ
+|c=zi2
+|h=pfs=
+|md=
+|mn=qz:chír/xm,zz:chú/qz,xm,zz:chái/tw:tái/tw:cháiⁿ/tw:lái
+|mn_note=chír/chú - literary; chái - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* {{thcwd|9716}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水10}}
+
+# {{defn|lang=ja|sort=水10}}
+
+====Readings====
+* {{ja-readings|on=[[さい]] (sai), [[し]] (shi)|kun=[[おり]] (ori), [[かす]] (kasu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=재|eumhun=|rv=jae|mr=chae|y=cay}}
+
+# {{defn|lang=ko|sort=水10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chỉ]], [[trể]]|rs=水10}}
+
+# {{defn|lang=vi|sort=水10}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6ed3 Nom Foundation]
+
+[[zh-min-nan:滓]]
+[[fr:滓]]
+[[hu:滓]]
+[[mg:滓]]
+[[ja:滓]]
+[[pl:滓]]
+[[th:滓]]
+[[zh:滓]]

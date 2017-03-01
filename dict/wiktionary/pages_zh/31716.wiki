@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|骟}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=10|sn=20|four=73327|canj=SFHSM|ids=⿰馬扇}}
+
+# [[geld]], [[castrate]]
+
+====References====
+* {{Han ref|kx=1443.210|dkj=44937|dj=1967.250|hdz=74573.010|uh=9A38|ud=39480|bh=F562|bd=62818}}
+
+----
+
+==Chinese==
+{{zh-forms|s=骟}}
+
+===Pronunciation===
+{{zh-pron
+|m=shàn
+|c=sin3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|騸馬}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬10}}
+
+# {{defn|lang=ja|sort=馬10}}
+
+====Readings====
+{{ja-readings|goon=[[せん]] (sen)|kanon=[[せん]] (sen)}}
+
+====Compounds====
+* {{ja-r|騸馬|せんば|[[gelding]]}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=선|eumhun=|rv=seon|mr=sŏn|y=sen}}
+
+# {{defn|lang=ko|sort=馬10}}
+
+[[fr:騸]]
+[[hu:騸]]
+[[pl:騸]]
+[[th:騸]]
+[[zh:騸]]

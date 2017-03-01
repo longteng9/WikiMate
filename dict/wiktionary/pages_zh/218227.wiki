@@ -1,0 +1,97 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{bor|nan|ja|-}} {{ja-r|炭素|たんそ}}.
+
+===Pronunciation===
+{{zh-pron
+|mn=tw:thòaⁿ-sò͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Taiwanese Min Nan}} [[carbon]]
+
+{{zh-cat|Chemical elements}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{elements|lang=ja|sort=たんそ|C|{{ja-r|ホウ%素|ホウ%そ}}|B|{{ja-r|窒%素|ちっ%そ}}|N}}
+{{wikipedia|lang=ja}}
+{{wikipedia|Carbon}}
+</div>
+{{ja-kanjitab|たん|そ|yomi=o}}
+
+===Etymology===
+Compound of {{com|ja|炭|素|tr1=tan|t1=[[coal]]|tr2=so|t2=[[element]]|sort=たんそ}}, {{cal|ja|sort=たんそ|etyl lang=nl|etyl term=koolstof|etyl t=[[carbon]]; [[coal]][[stuff]]|nocap=y}}. Compare also {{cog|de|Kohlenstoff}}, {{cog|lb|Kuelestoff}}, {{cog|da|kulstof}}.
+
+Considered to be used first in [[w:Udagawa Yōan|Udagawa Yōan]]'s (宇田川榕菴, 1798 – 1846) book ''Introduction to Chemistry'' ({{lang|ja|舎密開宗}}, ''Seimi Kaisō''), a compilation of various scientific books in {{etyl|nl|-}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|たんそ|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|たんそ}}
+
+# [[carbon]] {{gloss|chemical element}}
+
+====Derived terms====
+{{der-top}}
+* {{l|ja|炭素鋼}} (''tansokō''): carbon steel
+* {{l|ja|炭素税}} (''tansozei''): carbon tax
+* {{l|ja|炭素繊維}} (''tanso sen'i''): carbon fiber
+* {{l|ja|炭素中立}} (''tanso chūritsu''): carbon-neutral
+* {{l|ja|炭素１４}}, {{l|ja|炭素一四}} (''tanso jūshi''): carbon-14
+* {{l|ja|炭素１４法}}, {{l|ja|炭素一四法}} (''tanso jūshihō''): carbon-14 dating
+* {{l|ja|炭素クレジット}} (''tanso kurejitto''): carbon credit
+* {{l|ja|炭素化合物}} (''tanso kagōbutsu''): carbon compounds
+* {{l|ja|高炭素鋼}} (''kōtansokō''): high-carbon steel
+* {{l|ja|含水炭素}} (''gansui tanso''): carbohydrate
+* {{l|ja|酸化炭素}} (''sanka tanso''): carbon oxide
+* {{l|ja|一酸化炭素}} (''issanka tanso''): carbon monoxide
+{{der-mid}}
+* {{l|ja|四塩化炭素}} (''shienka tanso''): carbon tetrachloride
+* {{l|ja|次酸化炭素}} (''jisanka tanso''): carbon suboxide
+* {{l|ja|二酸化炭素}} (''nisanka tanso''): carbon dioxide
+* {{l|ja|二硫化炭素}} (''niryūka tanso''): carbon disulfide
+* {{l|ja|放射性炭素}} (''hōshasei tanso''): radiocarbon
+* {{l|ja|無定形炭素}} (''muteikei tanso''): amorphous carbon
+* {{l|ja|一酸化炭素中毒}} (''issanka tanso chūdoku''): carbon monoxide poisoning
+* {{l|ja|二酸化炭素排出権}} (''nisanka tanso-haishutsuken''): right to emit carbon dioxide
+* {{l|ja|二酸化炭素削減義務}} (''nisanka tanso sakugen gimu''): carbon dioxide reducing obligation
+* {{l|ja|二酸化炭素削減目標}} (''nisanka tanso sakugen mokuhyō''): CO2-reduction goal
+* {{l|ja|放射性炭素年代測定}} (''hōshasei tanso nendai sokutei''): radiocarbon dating
+{{der-bottom}}
+
+====Synonyms====
+* {{ja-r|カーボン}}
+
+====Descendants====
+* Korean: {{ko-l|탄소}}
+* Min Nan: {{l|nan|炭素|tr=thòaⁿ-sò͘}}
+
+===References===
+<references/>
+:* {{R:Shogakukan}}
+
+[[cs:炭素]]
+[[fr:炭素]]
+[[ko:炭素]]
+[[hr:炭素]]
+[[la:炭素]]
+[[lt:炭素]]
+[[hu:炭素]]
+[[mg:炭素]]
+[[nl:炭素]]
+[[ja:炭素]]
+[[pl:炭素]]
+[[ro:炭素]]
+[[ru:炭素]]
+[[chr:炭素]]
+[[uk:炭素]]
+[[zh:炭素]]

@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|击|撃}}
+==Translingual==
+{{Han simplified forms|擊|撃|击}}
+
+===Han character===
+{{Han char|rn=64|rad=手|as=13|sn=16|four=57502|canj=JEQ|ids=⿱𣪠手}}
+
+====References====
+* {{Han ref|kx=0458.090|dkj=12800|dj=0806.250|hdz=31965.060|uh=64CA|ud=25802|bh=C0BB|bd=49339}}
+
+----
+
+==Chinese==
+{{zh-forms|s=击}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|t1=hand|毄|ls=psc|c1=s|c2=p}} – to strike with the hand.
+
+===Pronunciation===
+{{zh-pron
+|m=擊
+|c=gik1
+|mn=kek
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[strike]], [[hit]], [[beat]]
+# [[attack]], [[fight]]
+
+====Compounds====
+{{zh-der|擊敗|擊斃|擊穿|擊打|擊發|擊毀|擊劍|擊節|擊潰|擊落|擊破|擊賞|擊水|擊掌|點擊|進擊}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手13|style=ky|shin=撃}}
+
+# {{defn|lang=ja|sort=手13}}
+
+====Readings====
+* {{ja-readings|on=[[げき]] (geki), [[けき]] (keki)|kun=[[うつ]] (utsu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=격|eumhun=|rv=gyeok|mr=kyŏk|y=kyek}}
+
+# {{defn|lang=ko|sort=手13}}
+
+====Derived terms====
+{{der3|[[擊蒙要訣]]/[[격몽요결]]|[[擊發]]/[[격발]]|[[擊沈]]/[[격침]]|[[擊破]]/[[격파]]|[[加擊]]/[[가격]]|[[攻擊]]/[[공격]]|[[突擊]]/[[돌격]]|[[目擊]]/[[목격]]|[[迫擊砲]]/[[박격포]]|[[反擊]]/[[반격]]|[[排擊]]/[[배격]]|[[射擊]]/[[사격]]|[[襲擊]]/[[습격]]|[[遊擊]]/[[유격]]|[[一擊]]/[[일격]]|[[自擊漏]]/[[자격루]]|[[狙擊]]/[[저격]]|[[電擊]]/[[전격]]|[[進擊]]/[[진격]]|[[銃擊]]/[[총격]]|[[追擊]]/[[추격]]|[[出擊]]/[[출격]]|[[衝擊]]/[[충격]]|[[打擊]]/[[타격]]|[[砲擊]]/[[포격]]|[[爆擊]]/[[폭격]]|[[被擊]]/[[피격]]}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kếch]], [[ghếch]], [[kích]]|rs=手13}}
+
+# {{defn|lang=vi|sort=手13}}
+
+[[fr:擊]]
+[[ko:擊]]
+[[li:擊]]
+[[hu:擊]]
+[[ja:擊]]
+[[pl:擊]]
+[[th:擊]]
+[[zh:擊]]

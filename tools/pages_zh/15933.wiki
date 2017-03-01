@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=62|rad=戈|as=09|sn=13|four=63150|canj=RJI,XRJI|ids=⿰咠戈}}
+
+# [[put away]]
+# [[cease]]
+# [[store up]]
+
+====References====
+* {{Han ref|kx=0413.180|dkj=11617|dj=0756.120|hdz=21408.180|uh=6222|ud=25122|bh=B761|bd=46945}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jí
+|c=cap1
+|mn=chhip
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=戈09}}
+
+# to put away
+# to cease
+# store up
+
+====Readings====
+* {{ja-readings|on=[[しゅう]] (shū)|kun=[[おさめる]] (osameru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=집|eumhun=|rv=jip|mr=chip|y=cip}}
+
+# to put away
+# to cease
+# store up
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=戈09|hanviet=tập}}
+
+# {{defn|lang=vi|sort=戈09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6222 Nom Foundation]
+
+[[fr:戢]]
+[[ko:戢]]
+[[hu:戢]]
+[[mg:戢]]
+[[ja:戢]]
+[[pl:戢]]
+[[th:戢]]
+[[zh:戢]]

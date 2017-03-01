@@ -1,0 +1,59 @@
+{{also|输出}}
+==Chinese==
+{{zh-forms|s=输出}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=shūchū
+|c=syu1 ceot1
+|mn=su-chhut
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[export]]
+
+===Noun===
+{{zh-noun}}
+
+# [[export]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ゆ|しゅつ|yomi=on}}
+
+===Noun===
+{{ja-noun|ゆしゅつ}}
+
+# [[export]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|ゆしゅつ}}
+
+# [[export]]
+
+====Conjugation====
+{{ja-suru|ゆしゅつ}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=수출}}
+
+# {{hanja form of|수출|[[export]]}}
+
+[[ko:輸出]]
+[[lo:輸出]]
+[[hu:輸出]]
+[[mg:輸出]]
+[[ja:輸出]]
+[[ru:輸出]]
+[[chr:輸出]]
+[[zh:輸出]]

@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|栾|灤}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|䜌|木|c1=p|c2=s|ls=psc}}.
+
+===Han character===
+{{Han char|rn=75|rad=木|as=19|sn=23|canj=VFD|four=22904|ids=⿱䜌木}}
+
+# [[name]] of a [[tree]] (''[[w:Koelreuteria paniculata|Koelreuteria paniculata]]'')
+# a part of a [[cornice]]
+# {{surname|lang=zh}}
+
+====References====
+* {{Han ref|kx=0564.010|dkj=15947|dj=0953.050|hdz=21324.150|uh=6B12|ud=27410|bh=F7E1|bd=63457}}
+
+----
+
+==Chinese==
+{{zh-forms|s=栾}}
+
+===Pronunciation===
+{{zh-pron
+|m=luán
+|c=lyun4
+|mc=y
+|oc=y
+|ma=
+|cat=pn,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* {{R:cedict}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木19}}
+
+# {{defn|lang=ja|sort=木19}}
+
+====Readings====
+* {{ja-readings|on=[[らん]] (ran)|kun=[[おうち]] (ouchi), [[ひじき]] (hijiki), [[まどか]] (madoka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[란]]>[[난]]|eumhun=|rv=ran>nan|mr=ran>nan|y=lan>nan}}
+
+# {{defn|lang=ko|sort=木19}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[loan]]|rs=木19}}
+
+# {{defn|lang=vi|sort=木19}}
+
+[[fr:欒]]
+[[hu:欒]]
+[[ja:欒]]
+[[pl:欒]]
+[[th:欒]]
+[[zh:欒]]

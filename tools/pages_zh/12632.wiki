@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|唢}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=10|sn=13|four=69086|canj=RFBC|ids=⿰口𧴪}}
+
+# a [[double]] [[reed]] [[wind instrument]] similar to the [[oboe]]
+
+====References====
+* {{Han ref|kx=0204.111|dkj=04138|dj=0426.280|hdz=10667.060|uh=55E9|ud=21993|bh=DCD4|bd=56532}}
+
+----
+
+==Chinese==
+{{zh-forms|s=唢}}
+
+===Pronunciation===
+{{zh-pron
+|m=suǒ
+|c=so2
+|mn=qz,xm,zz:só
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口10}}
+
+# {{defn|lang=ja|sort=口10}}
+
+====Readings====
+* {{ja-readings|on=[[さ]] (sa)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=쇄|rv=swae|mr=swae}}
+
+# {{defn|lang=ko|sort=口10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tỏa]], [[toả]]|rs=口10}}
+
+# {{defn|lang=vi|sort=口10}}
+
+[[fr:嗩]]
+[[li:嗩]]
+[[hu:嗩]]
+[[pl:嗩]]
+[[th:嗩]]
+[[zh:嗩]]

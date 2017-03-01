@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=11|sn=14|four=63050|canj=RIHF|ids=⿰口戚}}
+
+# to be [[grieve]]d
+# [[ashamed]]
+# used to [[imitate]] [[sound]]s
+
+====References====
+* {{Han ref|kx=0204.380|dkj=04165|dj=0427.150|hdz=10675.030|uh=5601|ud=22017|bh=E14E|bd=57678}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qī
+|c=ci1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嘁哩喀喳|嘁嘁喳喳}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口11}}
+
+# {{defn|lang=ja|sort=口11}}
+
+====Readings====
+* {{ja-readings|on=[[さふ]] (safu), [[しゅく]] (shuku)|kun=[[なげく]] (nageku), [[はざる]] (hazaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=측|rv=cheuk|mr=ch'ŭk}}
+
+# {{defn|lang=ko|sort=口11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thách]]|rs=口11}}
+
+# {{defn|lang=vi|sort=口11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5601 Nom Foundation]
+
+[[fr:嘁]]
+[[ko:嘁]]
+[[li:嘁]]
+[[hu:嘁]]
+[[mg:嘁]]
+[[pl:嘁]]
+[[th:嘁]]
+[[zh:嘁]]

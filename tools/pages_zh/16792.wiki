@@ -1,0 +1,101 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=16}}
+
+===Han character===
+{{Han char|rn=66|rad=攴|as=12|sn=16|four=58101|canj=DKMYM|ids=⿱敕正}}
+
+====References====
+* {{Han ref|kx=0475.321|dkj=13394|hdz=21477.080|uh=6574|ud=25972|bh=BEE3|bd=48867}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhěng
+|c=zing2
+|h=pfs=cháng
+|md=
+|mn=chéng
+|w=
+|mc=y
+|oc=y
+|cat=v,a,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[gather]], to [[assemble]]
+# to [[put]] in [[order]], to [[sort out]]
+# to [[fix]], to [[repair]]
+# [[orderly]], [[neat]], [[tidy]]
+# [[whole]], [[entire]], [[all]], [[complete]]
+#: {{zh-x|整 棟 樓 的 人 都 在 睡覺。|All the people in the building are sleeping.}}
+# [[exactly]]
+#: {{zh-x|下午 三 點 整|exactly three o'clock p.m.}}
+# [[sum]], [[total]], the whole [[amount]]
+# {{lb|zh|dialectal Mandarin}} to [[do]]
+#: {{zh-x|這 可 咋整 啊？|What do I '''do'''?|M-NE}}
+# {{lb|zh|dialectal Mandarin|Cantonese}} to [[make]] (something); to [[create]]
+#: {{zh-x|我 整 咗 蛋{daan6}撻{taat1} 但係 冇人 食。|I '''made''' egg tarts but no one ate any.|C}}
+# {{lb|zh|dialectal Mandarin|Cantonese}} to [[prepare]] a dish or food
+#: {{zh-x|整 幾個 小菜|to '''prepare''' some side dishes|M-NE}}
+#: {{zh-x|番茄 應該 點 整？|How do I prepare tomatoes?|C}}
+# {{lb|zh|dialectal Mandarin|Cantonese}} to turn something from one state into another
+#: {{zh-x|整爛|to break, to shatter|C}}
+#: {{zh-x|整直|to straighten|C}}
+#: {{zh-x|整大|to enlarge|C}}
+
+====Compounds====
+{{zh-der|整個|一整天|不整|不整不齊|不整合|不整脈|不整齊花|修整|停眠整宿|公司重整|分工整合|勻整|化整為零|化零為整|合零為整|咬合調整|嚴整|好整以暇|完整|工整|平平整整|平整|平頭整臉|彙整|心律不整|恭肅嚴整|整人|整人遊戲|整修|整備|整兵|整合|整地|整型|整型外科|整夜|整天|整套|整容|整容術|整年|整廠輸出|整建|整手甲|整扮|整排|整整|整整齊齊|整數|整日|整束|整枝|整治|整流|整流器|整流罩|整潔|整理|整編|整肅|整臉|整臉子|整莊|整衣|整衣斂容|整補|整裝|整裝待發|整襟危坐|整躬率物|整軍|整軍經武|整鈔|整錠|整除|整頓|整風|整飭|整飯|整體|整體性|整點|整齊|整齊劃一|整齊花|正整數|河道整治|盤整|社會整合|科際整合|端整|衣冠不整|衣衫不整|調整|逆向整合|重整|重整人|重整旗鼓|釐整|零存整付|齊整|齊整如一|齊齊整整}}
+
+===See also===
+* {{qualifier|Cantonese}} {{zh-l|搞|gaau2}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=攴11}}
+
+# {{defn|lang=ja|sort=攴11}}
+
+====Readings====
+* {{ja-readings|goon=[[しょう]] (shō) {{non-joyo-reading}}|kanon=[[せい]] (sei)|kun=[[ととのえる]] (totonoeru), [[ととのう]] ([[整う]], totonou)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=정|eumhun=가지런할|rv=jeong|mr=chŏng|y=ceng}}
+
+# {{defn|lang=ko|sort=攴11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chỉnh]], [[chệnh]], [[chểnh]], [[xiềng]]|rs=攴11}}
+
+# {{defn|lang=vi|sort=攴11}}
+
+[[fr:整]]
+[[ko:整]]
+[[li:整]]
+[[hu:整]]
+[[mg:整]]
+[[ja:整]]
+[[no:整]]
+[[pl:整]]
+[[th:整]]
+[[zh:整]]

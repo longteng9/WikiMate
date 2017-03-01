@@ -1,0 +1,30 @@
+{{also|量子力學}}
+==Chinese==
+{{zh-see|量子力學}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|りょう|し|りき|がく|yomi=o}}
+{{com|ja|量子|t1=[[quantum]]|力学|t2=[[mechanics]]|sort=りょうしりきがく|tr1=ryōshi|tr2=rikigaku}}
+
+===Pronunciation===
+{{ja-pron|りょうし りきがく|acc=5|acc2=4|acc_ref=NHK,DJR|acc2_ref=NHK,DJR|y=go}}
+
+===Noun===
+{{ja-noun|kyu=量子力學|りょうし りきがく|hhira=りやうしりがく}}
+
+# [[quantum mechanics]] {{gl|branch of physics}}
+
+===References===
+<references/>
+
+{{C|ja|Quantum mechanics|sort=りょうしりきがく}}
+
+[[ko:量子力学]]
+[[hu:量子力学]]
+[[ja:量子力学]]
+[[zh:量子力学]]

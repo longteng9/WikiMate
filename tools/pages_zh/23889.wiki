@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|[[缶]] ''(different character in China)''}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=121|rad=缶|as=17|sn=23|four=84714|canj=OUTRG|ids=⿰缶雚}}
+
+# [[jar]], [[pot]], [[tin]]
+# [[coal]] [[tub]]
+
+====References====
+* {{Han ref|kx=0946.160|dkj=28194|dj=1387.070|hdz=52940.040|uh=7F50|ud=32592|bh=C5F8|bd=50680}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|缶|雚|c1=s|c2=p|t1=pottery|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=guàn
+|c=gun3
+|h=pfs=
+|md=
+|mn=koàn
+|w=
+|ma=y
+|mc=
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=缶18}}
+
+# {{defn|lang=ja|sort=缶18}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[かん]] (kan), [[ほとぎ]] (hotogi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=관|eumhun=|rv=gwan|mr=kwan|y=kwan}}
+
+# {{defn|lang=ko|sort=缶18}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quán]]|rs=缶18}}
+
+# {{defn|lang=vi|sort=缶18}}
+
+[[zh-min-nan:罐]]
+[[fr:罐]]
+[[ko:罐]]
+[[li:罐]]
+[[hu:罐]]
+[[mg:罐]]
+[[ms:罐]]
+[[ja:罐]]
+[[no:罐]]
+[[pl:罐]]
+[[th:罐]]
+[[chr:罐]]
+[[uk:罐]]
+[[zh:罐]]

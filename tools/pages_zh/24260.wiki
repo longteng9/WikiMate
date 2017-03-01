@@ -1,0 +1,103 @@
+{{character info/new}}
+{{also|脵}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=04|sn=8|four=77247|canj=BHNE|ids=⿰[[肉|⺼]][[殳]]}}
+
+====References====
+* {{Han ref|kx=0974.170|dkj=29284|dj=1426.070|hdz=32051.070|uh=80A1|ud=32929|bh=AAD1|bd=43729}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|肉|t1=body|殳|t2=action|ls=ic}} – the hips as an active part of the body.
+
+===Pronunciation===
+{{zh-pron
+|m=gǔ
+|c=gu2
+|mc=y
+|oc=y
+|ma=Zh-gu.ogg
+|cat=n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[thigh]]; [[haunch]]es
+# [[share]]; [[portion]]
+# {{lb|zh|mathematics}} the longest [[leg]] of a [[right triangle]]
+#: {{zh-x|勾股定理|Pythagoras' theorem}}
+# {{zh-classifier|strength, forces}}
+# {{zh-classifier|smells or scent}}
+# {{zh-classifier|groups of people}}
+# {{zh-classifier|shares in a company}}
+
+===Compounds===
+{{zh-der|二股絃|股癬|屁股|一屁股|一股|一股勁兒|一股腦兒|乾股|二頭股肌|五股|光屁股|入股|八股|八股文|八股文章|刺股|刺股懸梁|剪子股|割股|募股|勾股形|叉股子話|合股|商股|報屁股|墊股|大股東|夾屁股|如在股掌|子推割股|官股|小型股|屁股沉|屁股眼|平均股價|引錐刺股|心膂股肱|懸梁刺股|懸頭刺股|成長股|打屁股|扭股兒糖|投機股|拆股|招股|控股公司|握股公司|擦屁股|擰成一股|普通股|東京股市|汗洽股慄|沉屁股|火燒屁股|炒股票|特別股|狗顛屁股|猴子屁股|現金股利|績優股|翻股|老八股|股份|股份公司|股價|股價指數|股兒|股利|股匪|股友社|股員|股子|股市|股息|股息股利|股慄|股戰|股掌|股掌之上|股本|股東|股東大會|股東權益|股栗|股權|股票|股票價值|股票分割|股票市場|股票股利|股肱|股肱之力|股肱耳目|股金|股長|股關節|股關節炎|股骨|腹股溝|菸屁股|蘇秦刺股|認股|資產股|跟屁股|退股|釵股|錐股|離股兒|零股交易}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉04}}
+
+# {{defn|lang=ja|sort=肉04}}
+
+====Derived terms====
+* {{l|ja|もも肉}}, {{l|ja|股肉}}, {{l|ja|腿肉}} ([[ももにく]], [[momo niku]]); the meat of the leg, round, ham
+* {{l|ja|股引}}, {{l|ja|股引き}}, {{l|ja|もも引き}} ([[ももひき]], [[momo hiki]]); a close fitting trousers, working trousers
+
+====Readings====
+* {{ja-readings|goon=[[く]] (ku)|kanon=[[こ]] (ko)|kun=[[また]] (mata), [[もも]] (momo)|nanori=}}
+
+===Noun===
+{{ja-noun|また}}
+# {{lb|ja|anatomy|sort=また}} [[crotch]], the space between the thighs
+# [[fork]] in a tree, river, and so on
+
+====Alternative forms====
+* {{l|ja|胯}}
+* {{l|ja|叉}}
+* {{l|ja|俣}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 股]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|eumhun=|rv=go|mr=ko|y=ko}}
+
+# {{defn|lang=ko|sort=肉04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cổ]], [[cỗ]]|rs=肉04}}
+
+# {{defn|lang=vi|sort=肉04}}
+
+[[fr:股]]
+[[ko:股]]
+[[lo:股]]
+[[lt:股]]
+[[hu:股]]
+[[mg:股]]
+[[ja:股]]
+[[no:股]]
+[[pl:股]]
+[[ro:股]]
+[[th:股]]
+[[zh:股]]

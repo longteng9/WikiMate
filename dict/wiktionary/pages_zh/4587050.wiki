@@ -1,0 +1,41 @@
+{{also|有机化合物}}
+==Chinese==
+{{zh-forms|s=有机化合物|type=23}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǒujī huàhéwù
+|c=jau5 gei1 faa3 hap6 mat6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|organic chemistry}} [[organic compound]]
+
+====Antonyms====
+* {{zh-l|無機化合物|[[inorganic compound]]}}
+
+{{zh-cat|Organic compounds}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ゆう|き|か|ごう|ぶつ|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|sort=ゆうきかごうぶつ|有機|tr1=yūki|t1=organic|化合物|tr2=kagōbutsu|t2=chemical compound}}
+
+===Noun===
+{{ja-noun|ゆうきかごうぶつ}}
+
+# {{lb|ja|organic chemistry|sort=ゆうきかごうぶつ}} [[organic compound]]
+
+====Antonyms====
+* {{ja-r|無機化合物|むきかごうぶつ|gloss=[[inorganic compound]]}}
+
+[[Category:ja:Organic compounds|ゆうきかごうぶつ]]
+
+[[hu:有機化合物]]
+[[zh:有機化合物]]

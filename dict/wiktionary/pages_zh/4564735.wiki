@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|しん|ごう|む|し|yomi=on}}
+
+===Etymology===
+Compound of {{compound|信号|無視|tr1=shingō|gloss1=traffic signal|tr2=mushi|gloss2=disregard|lang=ja}}.
+
+===Noun===
+{{ja-noun|しんごうむし}}
+
+# The act of crossing or entering an [[intersection]] ignoring a [[traffic signal]] (on foot or with a vehicle); [[jaywalking]].
+# One who [[run]]s a [[red light]] or [[stop sign]].
+
+===Verb===
+{{ja-verb-suru|しんごうむし}}
+
+# To cross or enter an [[intersection]] ignoring a [[traffic signal]] (on foot or with a vehicle); [[jaywalk]].
+# To [[pass]] a [[red light]] or [[stop sign]] without [[stop]]ping.
+
+====Conjugation====
+{{ja-suru|しんごうむし}}
+
+====Usage notes====
+* This term can be used to describe the act of both people and vehicles.
+
+[[sv:信号無視]]

@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=09|sn=12|four=34116|canj=EDAM|ids=⿰氵查}}
+
+====References====
+* {{Han ref|kx=0634.030|dkj=17767|dj=1041.010|hdz=31670.050|uh=6E23|ud=28195|bh=B4ED|bd=46317}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhā
+|c=zaa1
+|mn=qz,xm,zz:cha/qz,tw,xm:che/zz:chee
+|mn_note=cha - literary; che/chee - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[dregs]], [[lees]], [[sediment]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水09}}
+
+# {{defn|lang=ja|sort=水09}}
+
+====Readings====
+* {{ja-readings|on=[[さ]] (sa), [[しゃ]] (sha)|kun=[[おり]] (ori), [[かす]] (kasu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|eumhun=|rv=sa|mr=sa|y=sa}}
+
+# {{defn|lang=ko|sort=水09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''渣''' ([[tra]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:渣]]
+[[ko:渣]]
+[[hu:渣]]
+[[mg:渣]]
+[[ja:渣]]
+[[no:渣]]
+[[pl:渣]]
+[[th:渣]]
+[[zh:渣]]

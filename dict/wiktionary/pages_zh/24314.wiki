@@ -1,0 +1,126 @@
+{{character info/new}}
+{{also|䏒}}
+==Translingual==
+{{stroke order|strokes=9}}
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|半|肉|c1=p|c2=s|ls=psc}}.
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=05|sn=9|four=79250|canj=BFQ}}
+
+# [[fat]], [[obese]]
+# [[fatty]]
+
+====References====
+* {{Han ref|kx=0978.140|dkj=29381|dj=1430.110|hdz=32063.070|uh=80D6|ud=32982|bh=AD44|bd=44356}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=pàng
+|ma=y
+|c=bun6,pun3
+|h=pfs=phang
+|md=
+|mn=phàng/phòng
+|mn_note=phàng - literary; phòng - vernacular
+|w=
+|mc=
+|oc=y
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[fat]]
+
+=====Synonyms=====
+{{zh-dial|胖}}
+
+=====Antonyms=====
+* {{sense|fat}} {{zh-l|瘦|skinny}}
+
+====Compounds====
+{{zh-der|胖大海|胖嘟嘟|胖墩墩|胖墩兒|胖鼓鼓|胖乎乎|胖頭魚|胖子}}
+
+===Pronunciation===
+{{zh-pron
+|m=pán
+|ma=y
+|c=pun4
+|h=pfs=phang
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[comfortable]]; [[at ease]]
+#: {{zh-x|心廣體胖{pán}|{{t-needed|zh}}}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=肉+5}}
+
+# half a sacrifice
+# ribs
+# abundant
+# plentiful
+
+====Readings====
+* {{ja-readings|on=[[はん]] (han)|kun=[[ゆたか]] (yutaka), [[かたみ]] (katami)}}
+
+===Proper noun===
+{{ja-pos|proper|ゆたか}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|ゆたか]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=반|eumhun=|rv=ban|mr=pan|y=pan}}
+
+# {{defn|lang=ko|sort=肉05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bàn]], [[bỡn]], [[ban]], [[béo]]|rs=肉05}}
+
+# {{defn|lang=vi|sort=肉05}}
+
+[[es:胖]]
+[[fr:胖]]
+[[ko:胖]]
+[[lt:胖]]
+[[hu:胖]]
+[[mg:胖]]
+[[ja:胖]]
+[[no:胖]]
+[[pl:胖]]
+[[th:胖]]
+[[chr:胖]]
+[[uk:胖]]
+[[vi:胖]]
+[[zh:胖]]

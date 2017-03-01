@@ -1,0 +1,35 @@
+==Japanese==
+{{ja-kanjitab|ば|か|ちから|k3=ぢから|yomi=j|r=y}}
+
+===Alternative forms===
+* {{ja-l|ばか力}}
+
+===Etymology===
+From {{compound|lang=ja|馬鹿|tr1=baka|t1=[[stupid]]|力|tr2=chikara|t2=[[strength]]; [[force]]|sort=はかぢから'}}. {{ja-l|馬鹿}} is {{ateji|sort=はかぢから'}}.
+
+===Pronunciation===
+{{ja-pron|acc=3|y=j|ばかぢから}}
+
+===Noun===
+{{ja-noun|ばかぢから}}
+
+# [[great]] [[physical]] [[force]] or [[strength]]; [[brute force]]
+#* {{quote-book
+|language=Japanese
+|location=Tokyo
+|publisher=Shogakukan
+|genre=fiction
+||{{w|lang=ja|藤子・F・不二雄|Fujiko F. Fujio}}
+|series={{lang|ja|藤子不二雄少年SF短編集}}
+|{{w|ひとりぼっちの宇宙戦争|{{lang|ja|ひとりぼっちの宇宙戦争}}|lang=ja}}
+|trans-title=The One-Man Cosmic War
+|date=July 30 1988
+|edition=16th
+|origdate=December 25 1983
+|isbn=4-09-140701-3
+|volume=1
+|seriesvolume=1
+||36
+|chapter={{lang|ja|ひとりぼっちの宇宙戦争}}
+|trans-chapter=The One-Man Cosmic War
+|{{ja-usex|そ、そうか……。これが火%事%場の'''ばか力'''……。|^そ、そう か……。^これ が か%じ%ば の '''ばかぢから'''……。|Th-this is it……. This is the '''{{w|hysterical strength}}''' you gain during a fire…….}}}}

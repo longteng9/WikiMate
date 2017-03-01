@@ -1,0 +1,32 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīliú
+|c=gik1 lau4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[torrent]]; [[rapids]]
+# [[rip current]]; [[rip tide]]
+
+====Synonyms====
+* {{zh-l|離岸流}}
+* {{zh-l|退潮流}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|げき|りゅう|yomi=on}}
+
+===Noun===
+{{ja-noun|げきりゅう}}
+
+# [[cataract]]; [[rapids]], swift current
+#: {{ja-usex|激流が流れる川|げきりゅう が ながれる かわ|a river flowing in a swift current}}
+
+[[zh:激流]]

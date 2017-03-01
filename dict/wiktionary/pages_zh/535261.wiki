@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|かん|よう|おん|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=かんようおん|慣用|tr1=kan'yō|t1=customary or common use|音|tr2=on|t2=sound}}.
+
+{{IPAchar|/kwan'youon/}} > {{IPAchar|/kwan'yoːon/}} > {{IPAchar|/kan'yoːon/}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|かんようおん|acc=3|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|かんようおん|hhira=くわんようおん}}
+
+# a reading of a [[kanji]] that is [[commonly]] [[accepted]], but originally based on a corrupted reading
+
+====Synonyms====
+* {{ja-l|慣用読み|かんようよみ|kan'yōyomi}}
+
+===References===
+<references/>
+
+[[ko:慣用音]]
+[[ja:慣用音]]
+[[uz:慣用音]]

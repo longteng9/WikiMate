@@ -1,0 +1,120 @@
+{{character info/new}}
+{{also|脣}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=07|sn=10|four=71603|canj=MVR|ids=⿱辰口}}
+
+# [[lips]]
+
+====References====
+* {{Han ref|kx=0191.320|dkj=03697|dj=0411.080|hdz=10627.070|uh=5507|ud=21767|bh=AE42|bd=44610}}
+
+----
+
+==Chinese==
+{{zh-forms|t2=脣}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chún
+|c=seon4
+|h=pfs=
+|md=
+|mn=tûn
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|陰脣}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=口07}}
+
+# [[lip]]
+
+====Readings====
+{{ja-readings|goon=[[しん]] (shin), [[じゅん]] (jun)|kanon=[[しん]] (shin), [[しゅん]] (shun)|kun=[[くちびる]] (kuchibiru)}}
+
+====Compounds====
+* {{ja-r|陰唇|いんしん|[[labia]]}}
+
+{{ja-kanjitab|くちびる|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|くちびる|acc=0|dev=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|kyu=脣|くちびる}}
+
+# [[lip]]s
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki}}
+#*: 唇口 上音眞, 訓'''久知比流'''
+
+====Derived terms====
+* {{l|ja|上唇}}
+* {{l|ja|下唇}}
+* {{l|ja|紅唇}}
+
+===References===
+<references/>
+:* {{R:Nara Ibun 3}}
+
+[[Category:Japanese basic words|くちびる]]
+[[Category:ja:Anatomy|くちびる]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=진|rv=jin|mr=chin|y=cin}}
+
+# {{defn|lang=ko|sort=口07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thần]]|rs=口07}}
+
+# {{defn|lang=vi|sort=口07}}
+
+[[ast:唇]]
+[[el:唇]]
+[[fr:唇]]
+[[ko:唇]]
+[[kn:唇]]
+[[ku:唇]]
+[[lo:唇]]
+[[lt:唇]]
+[[li:唇]]
+[[hu:唇]]
+[[mg:唇]]
+[[ja:唇]]
+[[no:唇]]
+[[pl:唇]]
+[[pt:唇]]
+[[ru:唇]]
+[[sm:唇]]
+[[sv:唇]]
+[[th:唇]]
+[[tr:唇]]
+[[vi:唇]]
+[[zh:唇]]

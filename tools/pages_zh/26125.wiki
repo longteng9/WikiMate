@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=09|sn=15|four=51166|canj=LIMRW|ids=⿰虫畐}}
+
+# kind of [[bat]]
+
+====References====
+* {{Han ref|kx=1090.050|dkj=33288|dj=1556.030|hdz=42868.100|uh=8760}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fú
+|c=fuk1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|蝙蝠人|蝙蝠俠|蝙蝠}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫09}}
+
+# [[bat]]
+# [[pit viper]]
+
+====Readings====
+{{ja-readings|goon=[[ふく]] (fuku)|kanon=[[ふく]] (fuku)|kun=[[まむし]] (mamushi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|蝙蝠|こうもり}}, {{ja-r|蝙蝠|かわほり}}, {{ja-r|蝙蝠|へんぷく}}: [[bat]] {{gloss|small flying animal}}
+* {{ja-r|蝙蝠蛾|こうもりが}}
+* {{ja-r|蝙蝠葛|こうもりかずら}}
+* {{ja-r|蝙蝠扇|かわほりおうぎ}}: [[bat]] [[fan]], a folded paper fan
+* {{ja-r|蝙蝠傘|こうもりがさ}}: [[umbrella]]
+* {{ja-r|蝙蝠半纏|こうもりばんてん}}
+* {{ja-r|蝙蝠羽織|こうもりばおり}}, {{ja-r|蝙蝠羽織|かわほりばおり}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[복]]|eumhun=|rv=bok|mr=pok|y=pok}}
+
+# {{defn|lang=ko|sort=虫09}}
+
+[[fr:蝠]]
+[[hu:蝠]]
+[[mg:蝠]]
+[[ja:蝠]]
+[[no:蝠]]
+[[pl:蝠]]
+[[th:蝠]]
+[[zh:蝠]]

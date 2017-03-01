@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms|gloss=-|alt=慕斯林}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+{{bor|zh|ar|مُسْلِم}}.
+
+===Pronunciation===
+{{zh-pron
+|m=mùsīlín
+|c=muk6 si1 lam4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[Muslim]] {{gloss|believer of Islam}}
+#: {{zh-x|你 知道{dao} ^中國 有 多少{shao} 穆斯林 嗎？|Do you know how many Muslims are there in China?}}
+
+====Synonyms====
+* {{zh-l|清真}}
+* {{zh-l|伊斯蘭教徒}}
+* {{zh-l|回教徒}}
+
+====See also====
+* {{zh-l|伊斯蘭}}
+
+====Derived terms====
+{{zh-der|穆斯林世界}}
+
+{{zh-cat|Religion}}
+
+[[hu:穆斯林]]
+[[ja:穆斯林]]
+[[ru:穆斯林]]
+[[uk:穆斯林]]
+[[zh:穆斯林]]

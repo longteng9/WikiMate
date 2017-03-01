@@ -1,0 +1,17 @@
+{{also|资料集}}
+==Chinese==
+{{zh-forms|s=资料集|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=zīliàojí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|computing|statistics}} [[data set]]
+
+====Synonyms====
+* {{zh-l|數據集}}

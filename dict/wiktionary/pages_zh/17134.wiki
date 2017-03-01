@@ -1,0 +1,60 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=09|sn=13|four=64056|canj=ADMQ|ids=⿰日韋}}
+
+# the [[bright]] [[shining]] of the [[sun]]
+
+====References====
+* {{Han ref|kx=0498.120|dkj=14049|dj=0866.090|hdz=21527.050|uh=6690|ud=26256|bh=DDC2|bd=56770}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wěi
+|c=wai5
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日09}}
+
+# {{defn|lang=ja|sort=日09}}
+
+====Readings====
+* {{ja-readings|on=[[い]] (i)|kun=[[ひざし]] (hizashi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=위|eumhun=|rv=wi|mr=wi|y=wi}}
+
+# {{defn|lang=ko|sort=日09}}
+
+[[fr:暐]]
+[[hu:暐]]
+[[pl:暐]]
+[[th:暐]]
+[[zh:暐]]

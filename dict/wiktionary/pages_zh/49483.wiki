@@ -1,0 +1,123 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{liushu|ic|rs=八}}: Hand [[又]] (as in [[肀]]) holding two grain stalks [[禾]]
+
+===Han character===
+{{Han char|rn=12|rad=八|as=08|sn=10|four=80237|canj=TXC}}
+
+# [[unite]], [[combine]]
+# [[connect]]
+# [[and]]
+
+====Derived characters====
+* [[廉]] [[嫌]] [[鎌]] [[謙]]
+
+====Related characters====
+* [[禾]]
+
+====References====
+* {{Han ref|kx=0128.110|dkj=01483|dj=0288.140|hdz=10249.080|uh=517C|ud=20860|bh=ADDD|bd=44509}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiān
+|c=gim1
+|h=pfs=kiâm
+|mn=kiam
+|mc=y
+|oc=y
+|ma=
+|cat=v,con
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=八10|grade=7}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken)|kun=[[かねる]] ([[兼ねる]], kaneru)}}
+
+====Compounds====
+{{top2}}
+* [[兼営]]
+* [[兼官]]
+* [[兼業]]
+* [[兼勤]]
+* [[兼言]]
+* [[兼行]]
+* [[兼修]]
+* [[兼職]]
+* [[兼摂]]
+{{mid2}}
+* [[兼帯]]
+* [[兼題]]
+* [[兼任]]
+* [[兼備]]
+* [[兼併]]
+* [[兼補]]
+* [[兼務]]
+* [[兼有]]
+* [[兼用]]
+{{bottom}}
+
+====Related terms====
+* {{l|ja|兼す}}
+
+===Conjunction===
+-'''兼'''- (-[[けん]]-, -[[ken]]-)
+
+# -[[cum]]-, [[concurrently]], in addition
+#* [[書斎]]'''兼'''[[応接間]]<br>しょさい'''けん'''おうせつま<br>''shosai ken ōsetsuma''<br>study-cum-drawing room<br><br>
+#* [[首相]]'''兼'''[[外相]]<br>しゅしょう'''けん'''がいしょう<Br>''shushō ken gaishō''<br>someone who holds the offices of both Prime Minister and Foreign Minister
+
+===Proper noun===
+{{ja-pos|proper|けん}}
+
+# {{given name|male|lang=ja|sort=けん}}
+
+[[Category:Japanese conjunctions|けん]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=겸|eumhun=|rv=kyeom|mr=kyŏm|y=kyeom}}
+
+# {{defn|lang=ko|sort=八08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kiêm]], [[kem]], [[kèm]], [[cồm]]|rs=八08}}
+
+# {{defn|lang=vi|sort=八08}}
+
+[[fr:兼]]
+[[ko:兼]]
+[[lo:兼]]
+[[hu:兼]]
+[[mg:兼]]
+[[ja:兼]]
+[[no:兼]]
+[[pl:兼]]
+[[th:兼]]
+[[zh:兼]]

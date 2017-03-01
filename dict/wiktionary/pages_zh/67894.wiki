@@ -1,0 +1,17 @@
+==Japanese==
+{{ja-kanjitab|えい|が|かん|とく|yomi=on}}
+
+===Etymology===
+{{m|ja|映画||[[movie]]|sc=Jpan}} + {{m|ja|監督||[[director]]|sc=Jpan}}
+
+===Noun===
+{{ja-noun|えいが かんとく}}
+
+# [[film director]]
+#: {{ja-usex|衣笠氏は'''映画監督'''であるだけではなく、俳優であった|^きぬがさ-し は '''えいが かんとく''' である だけ で は なく、はいゆaう で あった|Kinugasa was not just a '''film director'''; he was an actor.}}
+
+===References===
+* {{R:Kojien}}
+
+[[hu:映画監督]]
+[[pl:映画監督]]

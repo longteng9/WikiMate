@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fùzǐ lǐzhōng wán
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# A brownish-black pill used in [[traditional Chinese medicine]] "to warm and reinforce the spleen and the stomach, to treat ''deficiency-cold'' syndrome of the spleen and stomach marked by a cold sensation and pain in the epigastrium, vomiting, diarrhea and cold extremities".
+
+Fuzi Lizhong pills have the following herbal ingredients:
+
+{| class="wikitable sortable"
+|-
+!Name
+!Chinese ([[Simplified Chinese|S]])
+!Grams
+|-
+|{{l|la|radix|Radix}} {{l|mul|Aconitum|Aconiti}} {{l|la|lateralis|Lateralis|}} {{l|la|preparatus|Preparata}}
+|附子
+| 100
+|-
+|Radix Codonopsis
+|党参
+| 200
+|-
+|Rhizoma Atractylodis Macrocephalae (stir-baked)
+|白术 (炒)
+| 150
+|-
+|Rhizoma Zingiberis
+|干姜
+| 100
+|-
+|Radix Glycyrrhizae
+|甘草
+|100
+|}
+
+====References====
+* State Pharmacopoeia Commission of the PRC (2005). "Pharmacopoeia of The People's Republic of China (Volume I)". Chemical Industry Press. ISBN 7117069821.

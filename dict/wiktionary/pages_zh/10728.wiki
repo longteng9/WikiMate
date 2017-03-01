@@ -1,0 +1,90 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=26200|canj=OKSR|ids=⿰亻加}}
+
+# [[transcription]] of [[Sanskrit]] 'gha' in [[Buddhist]] texts ('samgha', etc.)
+# [[temple]]
+
+===Usage notes===
+* In Chinese, this character is not used alone<!--is this true?-->
+
+===References===
+* {{Han ref|kx=0097.120|dkj=00486|dj=0205.170|hdz=10140.070|uh=4F3D|ud=20285|bh=A6F7|bd=42743}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiā,qié
+|c=ga1,ke4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Pronunciation===
+* {{IPA|/toɡi/|lang=ja}}
+
+===Noun===
+{{ja-noun|とぎ}}
+
+# relieving one of boredom with a story; also, such a person
+# attending one in their bedroom; also, such a person
+# nursing or taking care of a person; also, such a person
+
+===Kanji===
+{{ja-kanji|grade=|rs=人05}}
+
+# {{defn|lang=ja|sort=人05}}
+
+====Readings====
+* {{ja-readings|goon=[[ぎゃ]] (gya)|kanon=[[きゃ]] (kya)|kanyoon=[[か]] (ka), [[が]] (ga)|kun=[[とぎ]] (togi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=가|eumhun=[[절]]|rv=ga|mr=ka}}
+
+# {{defn|lang=ko|sort=人05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[già]], [[giả]], [[gia]], [[nhà]]|rs=人05}}
+
+# {{defn|vi|sort=人05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f3d Nom Foundation]
+
+[[fr:伽]]
+[[ko:伽]]
+[[li:伽]]
+[[mg:伽]]
+[[ja:伽]]
+[[pl:伽]]
+[[th:伽]]
+[[vi:伽]]
+[[zh:伽]]

@@ -1,0 +1,49 @@
+{{also|加护}}
+==Chinese==
+{{zh-forms|s=加护}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiāhù
+|mn=ka-hō͘
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Buddhism|of a god}} to [[watch over]]; to [[protect]]
+# {{lb|zh|obsolete}} to take [[special]] [[care]] of; to [[protect]]
+
+====Derived terms====
+{{zh-der|加護病房}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|か|ご|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|かご|y=ko|acc=a}}
+
+===Noun===
+{{ja-noun|かご}}
+
+# [[divine]] [[protection]], a [[blessing]]
+#: {{ja-usex|仏様の'''加護'''を祈った。|ほとけさま の '''かご''' を いのった。|We prayed for Buddha's blessing.}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|かご}}
+
+# {{lb|ja|of a god}} to [[watch over]]
+
+====Conjugation====
+{{ja-suru|かご}}
+
+===References===
+* {{R:Meikyo}}
+
+[[zh-min-nan:加護]]
+[[hu:加護]]
+[[mg:加護]]
+[[chr:加護]]

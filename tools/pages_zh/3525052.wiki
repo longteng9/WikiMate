@@ -1,0 +1,49 @@
+{{also|膝盖骨}}
+==Chinese==
+{{zh-forms|s=膝盖骨|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=xīgàigǔ
+|c=sat1 goi3 gwat1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[patella]]; [[kneecap]]
+
+{{zh-cat|Anatomy}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しつ|がい|こつ|yomi=o}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=しつがいこつ}} {{m|zh|膝蓋骨}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|しつがいこつ|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|しつがいこつ}}
+
+# {{lb|ja|anatomy|sort=しつがいこつ}} The [[patella]], the [[kneecap]].
+
+====Usage notes====
+Both {{m|ja|膝の皿|tr=hiza no sara}} and {{m|ja|膝皿|tr=hiza sara}} are also in use in modern Japanese, with {{m|ja|膝の皿|tr=hiza no sara}} used more frequently of the two. The term {{m|ja|膝蓋骨|tr=shitsugaikotsu}} is somewhat more technical, a bit like English {{m|en|patella}} compared to {{m|en|kneecap}}.
+
+====Synonyms====
+* {{ja-r|膝の皿|ひざ の さら}}
+* {{ja-r|膝皿|ひざ さら}}
+* {{ja-r|膝頭|ひざ がしら}}
+
+===References===
+<references/>
+
+[[ko:膝蓋骨]]
+[[hu:膝蓋骨]]
+[[mg:膝蓋骨]]
+[[ja:膝蓋骨]]

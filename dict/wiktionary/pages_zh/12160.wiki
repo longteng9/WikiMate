@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|呐}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=04|sn=7|four=64027|canj=ROB|ids=⿰口內}}
+
+====References====
+* {{Han ref|kx=0179.100|dkj=03370|dj=0397.040|hdz=10588.140|uh=5436|ud=21558|bh=A76F|bd=42863}}
+
+----
+
+==Chinese==
+{{zh-forms|s=呐}}
+
+===Pronunciation===
+{{zh-pron
+|m=nà,na,ne
+|ma=zh-na.ogg
+|c=naap6,neot6,nat6
+|h=pfs=na
+|md=
+|mn=qz,xm,zz:la̍p/tw:nah
+|w=5neq
+|mc=y
+|oc=y
+|cat=v,part
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|literary}} to [[stammer]]
+#: {{zh-l|吶吶|to [[stammer]]}}
+# {{lb|zh|literary}} to [[shout]]
+#: {{zh-l|吶喊|to [[shout]]}}
+# {{lb|zh|literary}} see {{zh-l|呢}}
+
+====Derived terms====
+{{zh-der|嗩吶}}
+
+===See also===
+* {{zh-l|訥}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口04}}
+
+# {{defn|lang=ja|sort=口04}}
+
+====Readings====
+* {{ja-readings|on=[[とつ]] (totsu), [[どつ]] (dotsu)|kun=[[どもる]] (domoru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[눌]], [[열]]|mr=nul, yŏl}}
+
+# {{defn|lang=ko|sort=口04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nột]]|rs=口04}}
+
+# {{defn|lang=vi|sort=口04}}
+
+[[fr:吶]]
+[[li:吶]]
+[[hu:吶]]
+[[mg:吶]]
+[[ja:吶]]
+[[pl:吶]]
+[[th:吶]]
+[[zh:吶]]

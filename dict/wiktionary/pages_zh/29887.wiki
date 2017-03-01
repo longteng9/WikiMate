@@ -1,0 +1,122 @@
+{{character info/new}}
+{{also|镡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=12|sn=20|four=81146|canj=CMWJ}}
+
+# [[dagger]]
+# small sword
+
+===References===
+* {{Han ref|kx=1322.130|dkj=40893|dj=1822.080|hdz=64255.010|uh=9414|ud=37908|bh=F4EC|bd=62700}}
+
+----
+
+==Chinese==
+{{zh-forms|s=镡}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tán
+|c=taam4,cam4,jam4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|鱗鋏星鐔}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+
+====Pronunciation====
+* {{IPA|[tsumiha]|lang=ja}}
+
+====Alternative forms====
+* {{l|ja|鍔}}
+
+====Noun====
+{{ja-noun|つみは}}
+
+# the [[guard]] at the end of the grip of a [[sword]]
+#* {{RQ:Wamyō Ruijushō|5|45}}
+#*: 鐔 唐韻云、鐔、音尋、一音潭、'''都美波''' [...] 今俗急呼都婆 劔鼻也
+
+===Etymology 2===
+Cognate with ''tsumiha''. Medial /-h-/, originally realized as *[p], voices to [b] due to the preceding /m/.
+
+====Pronunciation====
+* {{IPA|[tsumiba]|lang=ja}}
+
+====Alternative forms====
+* {{l|ja|鍔}}
+
+====Noun====
+{{ja-noun|つみば}}
+
+# the [[guard]] at the end of the grip of a [[sword]]
+
+===Etymology 3===
+/tumiha/ → /tumba/ → /tuba/.
+
+====Pronunciation====
+* {{IPA|[tsuba]|lang=ja}}
+
+====Alternative forms====
+* {{l|ja|鍔}}
+
+====Noun====
+{{ja-noun|つば}}
+
+# the [[guard]] at the end of the grip of a [[sword]]
+#* {{RQ:Wamyō Ruijushō|5|45}}
+#*: 鐔 唐韻云、鐔、音尋、一音潭、都美波 [...] 今俗急呼'''都婆''' 劔鼻也
+#* {{RQ:Nippo Jisho|620}}
+#*: '''Tçuba'''. ツバ (鍔・鐔) 刀 (Catana)の鍔, すなわち, 刀の柄（つか）に密着している, 銅やその他の金属製の円いある種の輪.
+
+====Kanji====
+{{ja-kanji|grade=|rs=金12}}
+
+# {{defn|lang=ja|sort=金12}}
+
+=====Readings=====
+* {{ja-readings|on=[[しん]] (shin), [[じん]] (jin)|kun=[[つば]] (tsuba)|nanori=}}
+
+===References===
+* {{R:Nippo Jisho}}
+* {{R:Wamyō Ruijushō}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 鐔]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=심|eumhun=|rv=sim|mr=sim|y=sim}}
+
+# {{defn|lang=ko|sort=金12}}
+
+[[fr:鐔]]
+[[hu:鐔]]
+[[ja:鐔]]
+[[pl:鐔]]
+[[th:鐔]]
+[[zh:鐔]]

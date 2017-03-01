@@ -1,0 +1,72 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|目|袁|c1=s|c2=p|t1=eye|ls=psc}}.
+(This etymology is incorrect, can we instead use the etymology found on the French version of this page?)
+
+===Han character===
+{{Han char|rn=109|rad=目|as=08|sn=13|four=|canj=WLMRV|ids=⿳罒𠮛𧘇}}
+
+# [[stare]]
+# [[lonely]]
+# [[round]]-[[shape]]d [[amulet]]
+
+====Descendants====
+* [[圜]], [[環]], [[寰]], [[還]], [[鬟]], [[澴]], [[擐]], [[繯]], [[轘]], [[懁]], [[蠉]], [[噮]], [[糫]], [[鐶]], [[檈]], [[癏]], [[闤]], [[儇]], [[譞]]
+
+====References====
+* {{Han ref|kx=0810.070|dkj=23432|dj=1225.060|hdz=42920.030|uh=7758|ud=30552}}
+* [http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%9D%98 Multi-function Chinese Character Database]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qióng
+|c=king4
+|mc=y
+|oc=y
+|ma=
+|cat=v,a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 162]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=目08}}
+
+# {{defn|lang=ja|sort=目08}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan), [[けい]] (kei)|kun=[[おどろきみる]] (odorokimiru))}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|rv=gyeong|mr=kyŏng|y=kyeng}}
+
+# {{defn|lang=ko|sort=目08}}
+
+[[fr:睘]]
+[[hu:睘]]
+[[mg:睘]]
+[[pl:睘]]
+[[th:睘]]
+[[zh:睘]]

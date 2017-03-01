@@ -1,0 +1,14 @@
+==Japanese==
+{{ja-kanjitab|しょう|ひん|けん|yomi=on}}
+
+===Etymology===
+{{suffix|商品|券|t1=merchandise|t2=ticket|lang=ja|sort=しょうひんけん}}
+
+===Noun===
+{{ja-noun|しょうひんけん}}
+
+# [[gift certificate]]
+#: {{ja-usex|クレジットカードで商品券を購入できます。|クレジットカード で しょうひんけん を こうにゅう できます。|Gift certificates may be purchased by credit card.}}
+
+[[ko:商品券]]
+[[hu:商品券]]

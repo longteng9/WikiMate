@@ -1,0 +1,35 @@
+==Japanese==
+{{ja-kanjitab|ゆう|よ|yomi=o}}
+
+===Etymology===
+[[猶]] (ゆう, ''yū'': “hesitate”) + [[予]] (よ, ''yo'': “time to spare”)
+
+===Noun===
+{{ja-noun|kyu=猶豫|ゆうよ}}
+
+# An act of [[hesitation]].
+#: {{ja-usex|地球の温暖化は一刻の'''猶予'''もならない状況だ。|ちきゅう の おんだんか は いっこく の '''ゆうよ''' も ならない じょうきょう だ。|The situation of global warming do not have a capacity of our '''hesitation'''.}}
+# An act of [[extend]]ing a time limit such as paying a debt, a stay of execution, etc; a [[postponement]], a [[grace]], a [[delay]], a [[suspension]].
+#: {{ja-usex|保険料の払込みが停滞し払込'''猶予'''期間が経過すると、契約は失効します。|ほけんりょう の はらいこみ が ていたい し はらいこみ-'''ゆうよ'''-きかん が けいか する と、けいやく は しっこう します。|The insurance contract lapses if the premium payment is delayed and the payment period of '''grace''' passes.}}
+
+====Synonyms====
+* {{sense|an act of extending a time limit}} {{ja-r|延長|えんちょう}}
+
+====Compounds====
+* {{ja-r|猶予期間|ゆうよ きかん}}: a [[period of grace]]
+* {{ja-r|執行猶予|しっこう ゆうよ}}: a [[suspended sentence]]
+
+===Verb===
+{{ja-verb-suru|kyu=猶豫|ゆうよ}}
+
+# to [[extend]], to [[defer]], to [[delay]]
+# to [[hesitate]]
+
+====Conjugation====
+{{ja-suru|ゆうよ}}
+
+[[hu:猶予]]
+[[mg:猶予]]
+[[ja:猶予]]
+[[chr:猶予]]
+[[zh:猶予]]

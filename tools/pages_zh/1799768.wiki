@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dōngmián
+|c=dung1 min4
+|h=pfs=tûng-mìn
+|mn=tong-bîn
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[hibernation]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[hibernate]]
+
+[[Category:zh:Biology|dong1mian2]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|みん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|とうみん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうみん}}
+
+# [[hibernation]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|とうみん}}
+
+# to [[hibernate]]
+
+====Conjugation====
+{{ja-suru|とうみん}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=동면}}
+
+# {{hanja form of|동면|[[hibernation]]}}
+
+[[fr:冬眠]]
+[[ko:冬眠]]
+[[hu:冬眠]]
+[[zh:冬眠]]

@@ -1,0 +1,147 @@
+{{character info/new}}
+{{also|醣}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=119|rad=米|as=10|sn=16|four=90967|canj=FDILR|ids=⿰米唐}}
+
+====References====
+* {{Han ref|kx=0911.380|dkj=27070|dj=1338.290|hdz=53157.070|uh=7CD6|ud=31958|bh=BF7D|bd=49021}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|米|t1=rice|唐|ls=psc|c1=s|c2=p}} – grains of sugar.
+
+===Etymology===
+Original meaning was “sweet rice cake” or “sugar syrup”. Cognate with {{och-l|餳}}.
+
+Compare Proto-{{cog|onb|-}} ''lhaŋ<sup>2</sup>'' ("sugar"), whence {{w|zh:临城镇 (临高县)|Lincheng}} {{IPAchar|/haŋ˧˧/}}, {{w|zh:琼山区|Qiongshan}} {{IPAchar|/liaŋ˩˧/}}.
+
+===Pronunciation===
+{{zh-pron
+|m=táng
+|ma=y
+|c=tong4,tong4-2
+|c_note=tong4 - “sugar”; tong4-2 - “candy”
+|c-t=hong3,hong3*
+|c-t_note=hong3 - “sugar”; hong3* - “candy”
+|h=pfs=thòng
+|md=tòng
+|mn=thn̂g/thông
+|mn_note=thn̂g - vernacular; thông - literary
+|mn-t=teng5
+|w=3daan
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[sugar]]
+#: {{zh-x|糖尿病|[[diabetes]]}}
+#: {{zh-x|糖{tong4}水|[[sugar water]]|C}}
+# [[candy]]; [[sweets]]
+#: {{zh-x|棒棒糖|lollipop}}
+#: {{zh-x|糖{tong4-2} 食 得 多 冇益。|Eating too much '''candy''' is unhealthy.|C}}
+# {{lb|zh|organic chemistry}} {{zh-alt-form|醣|saccharide; carbohydrate}}
+#: {{zh-x|多糖|poly'''saccharide'''}}
+
+===Compounds===
+{{zh-der|丙糖|乳糖|二糖|五碳糖|代糖|來蘇糖|六碳糖|冰糖|半乳糖|口香糖|喜糖|單糖|四碳糖|多糖|太妃糖|己糖|庚糖|戊糖|方糖|木糖|木聚糖|木酮糖|果味膠糖|果糖|核糖|核酮糖|棉花糖|棒棒糖|棒糖|氨基葡糖|氨基葡萄糖|泡泡口香糖|泡泡糖|無糖|焦糖|甜菊糖|白糖|砂糖|硬糖|糖人|糖元|糖分|糖化|糖原|糖尿病|糖彈|糖果|糖水|糖汁|糖漿|糖瓜|糖皮質激素|糖稀|糖粉|糖精|糖紙|糖罐|糖脂|糖苷|糖萼|糖葫蘆|糖蒜|糖蘿蔔|糖蛋白|糖蜜|糖衣|糖衣炮彈|糖酯|糖酵解|糖醇|糖醋|糖醋肉|糖醋里脊|糖醋魚|糖霜|糖類|糖食|紅糖|綿白糖|肽聚糖|脫氧核糖|葡糖|葡萄糖|蔗糖|軟糖|轉化糖|酮糖|醛糖|阿拉伯糖|高血糖|麥芽糖|黑糖}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=米10}}
+
+====Readings====
+{{ja-readings|goon=[[どう]] (dō)|kanon=[[とう]] (tō)|kun=[[あめ]] (ame), [[さとう]] (satou)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|果糖|かとう}}: [[fructose]]
+* {{ja-r|血糖|けっとう}}: [[blood sugar]]
+* {{ja-r|砂糖|さとう}}: [[sugar]]
+* {{ja-r|西瓜糖|すいかとう}}: [[watermelon]] [[sugar]], sugar made by concentrating watermelon juice
+* {{ja-r|糖衣|とうい}}
+* {{ja-r|糖化|とうか}}: [[saccharification]]
+* {{ja-r|糖原|とうげん}}: [[glycogen]]
+* {{ja-r|糖尿病|とうにょうびょう}}
+* {{ja-r|糖分|とうぶん}}
+* {{ja-r|糖類|とうるい}}
+* {{ja-r|乳糖|にゅうとう}}: [[lactose]]
+* {{ja-r|麦芽糖|ばくがとう}}: [[maltose]]
+* {{ja-r|楓糖|ふうとう}}: [[maple sugar]]
+* {{ja-r|葡萄糖|ぶどうとう}}: [[glucose]]
+{{der-bottom}}
+
+{{ja-kanjitab|とう|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=とう}} {{m|zh|糖|tr=dang||sugar}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|とう|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|とう|hhira=たう}}
+
+# [[sugar]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[당]], [[탕]]|eumhun=|rv=dang, tang|mr=tang, t'ang|y=tang, thang}}
+
+# {{defn|lang=ko|sort=米10}}
+
+====Compounds====
+* {{ko-l|雪糖|설탕}}
+* {{ko-l|砂糖|사탕}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đường]]|rs=米10}}
+
+# {{defn|lang=vi|sort=米10}}
+
+[[zh-min-nan:糖]]
+[[el:糖]]
+[[fr:糖]]
+[[ko:糖]]
+[[lo:糖]]
+[[lt:糖]]
+[[li:糖]]
+[[hu:糖]]
+[[mg:糖]]
+[[fj:糖]]
+[[ja:糖]]
+[[no:糖]]
+[[uz:糖]]
+[[pl:糖]]
+[[ro:糖]]
+[[sm:糖]]
+[[tl:糖]]
+[[ta:糖]]
+[[th:糖]]
+[[tg:糖]]
+[[chr:糖]]
+[[uk:糖]]
+[[vi:糖]]
+[[zh:糖]]

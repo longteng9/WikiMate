@@ -1,0 +1,29 @@
+==Japanese==
+{{ja-kanjitab|へい|こう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|へいこう|y=o}}
+
+===Noun===
+{{ja-noun|へいこう}}
+
+# [[temporary]] [[closure]] of a [[school]] ([[suspension]] of [[activity]])
+# [[closure]] of a school
+
+====Synonyms====
+* {{sense|closure of a school}} {{ja-r|廃校|はいこう}}
+
+====Antonyms====
+* {{sense|closure of a school}} {{ja-r|開校|かいこう}}
+
+===Verb===
+{{ja-verb-suru|へいこう}}
+
+#{{rfdef|ja}} {{attention|ja|(same question as at 廃校)}}
+
+====Conjugation====
+{{ja-suru|へいこう}}
+
+[[ko:閉校]]
+[[ja:閉校]]
+[[zh:閉校]]

@@ -1,0 +1,63 @@
+{{also|自动词}}
+==Chinese==
+{{zh-forms|type=12|s=自动词}}
+
+===Pronunciation===
+{{zh-pron
+|m=zìdòngcí
+|c=zi6 dung6 ci4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|part of speech}} [[intransitive verb]]
+
+====Antonyms====
+* {{zh-l|他動詞}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Intransitive verb}}
+</div>
+{{ja-kanjitab|じ|どう|し|yomi=o}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=しどうし'|自動|tr1=jidō|t1=self-moving, self-acting|詞|tr2=shi|t2=word; part of speech}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref><ref name="SMK5">{{R:Shinmeikai5}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=o|じどうし|acc=2|acc_ref=DJR,NHK,SMK5}}
+
+===Noun===
+{{ja-noun|じどうし}}
+
+# {{lb|ja|part of speech|sort=しどうし'}} {{l|en|intransitive verb}}
+
+====Usage notes====
+The terms {{m|en|transitive}} and {{m|en|intransitive}} are somewhat misleading in reference to Japanese.  The English terms are generally used to refer to the {{l|en|syntax}} or {{l|en|structure}} of a sentence, and whether the verb in the sentence is followed by an object.  The Japanese terms refer to the {{l|en|semantics}} or {{l|en|meaning}} of the verb, and whether the action of that verb is happening to or upon something else.  The Japanese term {{m|ja|自動詞|tr=jidōshi}} literally means “self-acting word”, and {{m|ja|他動詞|tr=tadōshi}} literally means “other-acting word”, in reference to this semantic consideration.
+
+For instance, in English, the verb ''ate'' in the simple sentence ''“I ate”'' would be considered an {{l|en|intransitive}} verb, because it is not followed by an object.
+
+However, in the corresponding Japanese, the verb {{m|ja|食べた|tr=tabeta||ate}} in the simple sentence {{lang|ja|私は食べた。}} (''“Watashi wa tabeta.”'') would ''not'' be considered a {{lang|ja|自動詞}} (''jidōshi''), but would instead be considered a {{m|ja|他動詞|tr=tadōshi|pos=literally “other-acting word”}}, as the underlying semantics or meaning of the verb {{m|ja|食べる|tr=taberu||to eat}} conceptually require an object: when one ''eats'', one eats ''something'', even if left unstated.
+
+This semantic focus is the underlying mechanism by which verbs in sentences like {{lang|ja|私は食べた。}} (''Watashi wa tabeta.'' - “I ate.”) are still considered {{m|ja|他動詞|tr=tadōshi|pos=glossed as “{{l|en|transitive}}”}} even when there is no stated object (because the fundamental meaning of the verb implies action by the subject upon something else), and verbs in sentences like {{lang|ja|道を歩く。}} (''Michi o aruku.'' - “[I] walk the street.”) are still considered {{m|ja|自動詞|tr=jidōshi|pos=glossed as “{{l|en|intransitive}}”}} even when there is an explicit object marked with the object or accusative particle {{m|ja|を|tr=o}} (because the fundamental meaning of the verb only implies action by the subject itself in a way that does not affect the noun marked by {{m|ja|を}}).
+
+====Related terms====
+* {{ja-r|動詞|どうし|gloss={{l|en|verb}}}}
+* {{ja-r|他動詞|たどうし|gloss={{l|en|transitive verb}}}}
+
+===References===
+<references/>
+:* {{R:Shogakukan}}
+
+[[Category:ja:Verbs|しどうし']]
+
+[[fr:自動詞]]
+[[ko:自動詞]]
+[[it:自動詞]]
+[[hu:自動詞]]
+[[ja:自動詞]]

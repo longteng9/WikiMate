@@ -1,0 +1,37 @@
+{{also|干嘛}}
+==Chinese==
+{{zh-forms|s=干嘛}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=gànmá,gàmá,gàimá,2n=Beijing dialect,3n=Beijing dialect
+|cat=v,adv
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{zh-alt-form|幹嗎|what is someone doing; what is up}}
+
+====Adverb====
+{{zh-adv}}
+
+# {{zh-alt-form|幹嗎|why, whatever for}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=gàn ma
+|cat=v,adv
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{zh-alt-form|*幹嗎|to do + ''question particle''}}
+# {{lb|zh|vulgar}} {{zh-alt-form|*幹嗎|to fuck + ''question particle''}}
+# {{zh-l|*幹|to do}} + {{zh-l|*嘛|''particle in declarative sentences indicating obviousness or hope''}}
+#: {{zh-x|這 也 不能 怪 他，頭一回 '''幹{gàn}.嘛'''。|You can't put the blame on him as it is his first time '''doing''' it.}}

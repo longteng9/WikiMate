@@ -1,0 +1,30 @@
+{{also|压制|壓製}}
+==Chinese==
+{{zh-forms|s=压制}}
+
+===Pronunciation===
+{{zh-pron
+|m=yāzhì
+|c=aat3 zai3
+|h=pfs=ap-chṳ
+|mn=xm,qz,tw:ap-chè/zz:ap-chì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[repression]], [[stifling]], [[restraint]]
+# {{lb|zh|computing|video production}} {{rfdef|zh}} <!--compression? encoding? [[google:压制软件]]-->
+
+===Verb===
+{{zh-verb}}
+
+# to [[stifle]], to [[repress]], to [[inhibit]]
+# to make by [[pressing]] or [[compressing]]
+# {{lb|zh|computing|video production}} {{rfdef|zh}}
+
+[[zh-min-nan:壓制]]
+[[ko:壓制]]
+[[hu:壓制]]
+[[ja:壓制]]

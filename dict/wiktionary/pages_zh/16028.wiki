@@ -1,0 +1,88 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=04|sn=7|four=54047|canj=QJE|ids=⿰扌支}}
+
+====References====
+* {{Han ref|kx=0420.020|dkj=11855|dj=0767.030|hdz=31834.040|uh=6280|ud=25216|bh=A7DE|bd=42974}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|alt1=扌|t1=hand|支|ls=psc|c1=s|c2=p}} – skill with one’s hands.
+
+===Pronunciation===
+{{zh-pron
+|m=jì
+|c=gei6
+|h=pfs=kî
+|md=gê
+|mn=ki
+|w=3jji
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[skill]]; [[ability]]; [[talent]]; [[artistry]]; [[technique]]
+# [[ingenuity]]; [[creativity]]; [[inventiveness]]
+# {{†}} [[singing]] and [[dancing]], or one who is skilled in singing and dancing; [[actor]] or [[actress]]
+# {{†}} [[craftsman]]; [[artisan]]
+
+===Compounds===
+{{zh-der|奇技|心煩技癢|尖端科技|屠龍之技|一技之長|寸長尺技|慣技|口技|不禁技癢|奇技淫巧|外技|國技|一技在身|以售其技|方技略|技術分析|技術降落|技藝|技倆|技癢|技術作物|故技重施|技能檢定|無技可施|技工|特技鏡頭|技士|技術人員|特技|末技|技師|梧鼠技窮|技高一籌|技能競賽|技藝超群|神乎其技|科技|技術|技正|技窮|技能|技術員|略施小技|生物科技|生技|球技|技擊|片長末技|片長薄技|手技|演技|技術合作|方技|獻技|技術性|殊技|梧鼠之技|技巧|科技食物|故技|技法|技術犯規|競技場|雕蟲小技|農技團|黔驢技窮|黔驢之技|長技|競技|軟技術|雜技|身懷絕技|舞技|鼫鼠五技|鼠技|蟲篆之技|高科技|頂技|絕技|農技|遙測技術|車技|貫蝨之技|薄技}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=手04}}
+
+====Readings====
+* {{ja-readings|goon=[[ぎ]] (gi)|kanon=[[き]] (ki)|kun=[[わざ]] (waza)}}
+
+===Noun===
+{{ja-kanjitab|わざ|yomi=k}}{{ja-kanjitab|ぎ|yomi=o}}
+{{ja-noun|わざ|ぎ}}
+# [[technique]], [[art]], [[skill]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|eumhun=|rv=gi|mr=ki|y=ki}}
+
+# {{defn|lang=ko|sort=手04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kĩ]], [[kỹ]]|rs=手04}}
+
+# {{defn|lang=vi|sort=手04}}
+
+[[zh-min-nan:技]]
+[[fr:技]]
+[[ko:技]]
+[[lo:技]]
+[[hu:技]]
+[[mg:技]]
+[[ms:技]]
+[[ja:技]]
+[[no:技]]
+[[pl:技]]
+[[th:技]]
+[[vi:技]]
+[[zh:技]]

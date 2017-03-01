@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|铆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=05|sn=13|four=87120|canj=CHHL|ids=⿰金卯}}
+
+# [[rivet]]
+
+====References====
+* {{Han ref|kx=1301.170|dkj=40309|dj=1803.180|hdz=64190.040|uh=925A|ud=37466|bh=B967|bd=47463}}
+
+----
+
+==Chinese==
+{{zh-forms|s=铆}}
+
+===Pronunciation===
+{{zh-pron
+|m=mǎo
+|c=maau5
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+* {{zh-l|鉚釘}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金05}}
+
+# {{defn|lang=ja|sort=金05}}
+
+====Readings====
+* {{ja-readings|on=[[りゅう]] (ryū), [[る]] (ru)|kun=[[よいかね]] (yoikane)|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=金05| hanviet = mão}}
+
+# {{defn|lang=vi|sort=金05}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=925a Nom Foundation]
+
+[[fr:鉚]]
+[[hu:鉚]]
+[[ja:鉚]]
+[[pl:鉚]]
+[[th:鉚]]
+[[zh:鉚]]

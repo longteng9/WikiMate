@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhīliú
+|c=zi1 lau4
+|mn=qz,tw,xm,zz:chi-liû/qz,xm:ki-liû
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[tributary]] {{gloss|river that flows into a larger river}}
+# [[minor]] [[aspect]]s
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|りゅう|yomi=o}}
+
+===Noun===
+{{ja-noun|しりゅう}}
+
+# {{l|en|tributary|id=river}}, [[feeder]] of a river
+# [[splinter group]]
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=지류}}
+
+# {{hanja form of|지류|[[tributary]]}}
+
+[[zh-min-nan:支流]]
+[[ko:支流]]
+[[hu:支流]]
+[[ja:支流]]
+[[uk:支流]]
+[[zh:支流]]

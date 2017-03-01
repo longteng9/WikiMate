@@ -1,0 +1,94 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàjūn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[Son of Heaven]]; the [[Emperor]]
+# {{lb|zh|literary}} [[eldest]] [[son]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|おお|きみ}}
+Compound of {{etyl|ojp|ja|sort=おおきみ}} elements {{compound|lang=ja|sort=おおきみ|大|tr1=ō|t1=great, big, large|君|tr2=kimi|t2=lord, lady}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+Sometimes pronounced in modern {{etyl|ja|-}} as ''ōgimi''.<ref name="KDJ"/><ref name="DJR"/> {{rendaku2|sort=おおきみ|kimi|gimi}}
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|n|お|おき|み}}<ref name="DJR"/><ref name="SMK">{{R:Shinmeikai5}}</ref>
+* {{ja-accent-common|h|お|おきみ}}<ref name="DJR"/><ref name="SMK"/>
+* {{ja-accent-common|a|お|おきみ}}<ref name="SMK"/>
+* {{IPA|lang=ja|[o̞ːkimi]}} {{qualifier|standard, traditional}}
+* {{IPA|lang=ja|[o̞ːɡimi]}} {{qualifier|non-standard, modern}}
+
+====Noun====
+{{ja-noun|おおきみ|hhira=おほきみ}}
+
+# {{lb|ja|sort=おおきみ|honorific}} the [[emperor]], [[His Majesty]]
+# {{lb|ja|sort=おおきみ|honorific}} a [[descendant]] of the [[emperor]], such as a [[prince]] or [[princess]]
+# {{lb|ja|sort=おおきみ|honorific}} a member of the [[petty]] [[nobility]]
+# {{lb|ja|sort=おおきみ|honorific}} someone of high [[status]]
+# {{lb|ja|sort=おおきみ|honorific}} one's [[lord]] or [[master]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|大君女|おおきみおんな|ōkimi onna}}: a [[princess]], a [[daughter]] of the [[emperor]]
+* {{ja-l|大君気色|おおきみけしき|ōkimi keshiki}}: [[nobility]] of bearing or behavior, [[majesty]], [[greatness]]
+* {{ja-l|大君姿|おおきみすがた|ōkimi sugata}}: an [[imperial]] [[appearance]], a [[noble]] [[dressing]] like the [[emperor]]
+* {{ja-l|大君だつ|おおきみだつ|ōkimi-datsu}}: to [[appear]] or [[behave]] in a manner similar to an [[imperial]] [[grandchild]]
+* {{ja-l|大君の|おおきみの|ōkimi no}}: an [[epithet]] for [[w:Mount_Wakakusa|Mount Wakakusa]] in [[w:Nara,_Nara|Nara, Japan]]
+* {{ja-l|大君の風|おおきみのかぜ|ōkimi no kaze}}: a [[pleasant]] [[breeze]] as if in [[praise]] of a [[lord]]
+* {{ja-l|正親正|おおきみのかみ|ōkimi no kami}}: a [[rank]] in the old [[w:Ritsuryō|''Ritsuryō'']] system of ancient Japan, and the superior to an ''ōkimi no tsukasa''
+* {{ja-l|正親司|おおきみのつかさ|ōkimi no tsukasa}}: a [[rank]] in the old [[w:Ritsuryō|''Ritsuryō'']] system of ancient Japan
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|おおい|きみ|k2=ぎみ}}
+Compound of {{etyl|ojp|ja|sort=おおいぎみ}} elements {{compound|lang=ja|sort=おおいぎみ|大|tr1=ōi|t1=great, big, large|君|tr2=kimi||lord, lady}}.<ref name="KDJ"/><ref name="DJR"/> {{rendaku2|sort=おおいぎみ|kimi|gimi}}
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[o̞ːiɡimi]}}
+
+====Noun====
+{{ja-noun|おおいぎみ|hhira=おほいぎみ}}
+
+# {{lb|ja|sort=おおいぎみ|obsolete|honorific}} the [[eldest]] [[daughter]] of a [[noble]] family
+
+===Etymology 3===
+{{ja-kanjitab|yomi=o|たい|くん}}
+From {{etyl|ltc|ja|sort=たいくん}} compound {{m|ltc|大君|tr=dajH kjun||great lord}}. Compare modern {{cog|cmn|大君|tr=dàjūn||emperor, lord; god, divinity; eldest son}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|a|た|いくん}}<ref name="DJR"/>
+* {{IPA|lang=ja|[ta̠ikɯ̃ᵝɴ]}}
+
+====Noun====
+{{ja-noun|たいくん}}
+
+# {{lb|ja|sort=たいくん|honorific}} a [[lord]]
+# {{lb|ja|sort=たいくん|honorific}} an [[imperial]] [[prince]]
+# during the [[w:Edo period|Edo period]], an alternative [[title]] for the {{m|ja|将軍|tr=shōgun}} of the Tokugawa government, used in communications with other countries
+# in ancient China, a [[title]] given to a [[royal]] [[heir]]
+
+=====Descendants=====
+* English: {{l|en|tycoon}}
+* German: {{l|de|Tycoon}}
+* Serbo-Croatian: {{l|sh|tajkun}}
+
+===References===
+<references/>
+
+[[ko:大君]]
+[[zh:大君]]

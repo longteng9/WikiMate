@@ -1,0 +1,49 @@
+{{also|分数}}
+==Chinese==
+{{zh-forms|s=分数}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=fēnshù,er=y
+|c=fan1 sou3
+|h=pfs=fûn-su
+|mn=hun-sò͘
+|w=1fen su
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[mark]]; [[grade]]; [[score]]
+
+=====Derived terms=====
+{{zh-der|打分數|分數線}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=fēnshù,er=y
+|c=fan6 sou3
+|h=pfs=fûn-su
+|mn=hun-sò͘
+|w=1fen su
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|arithmetic}} [[fraction]]
+
+=====Derived terms=====
+{{zh-der|假分數|帶分數|最簡分數|百分數|真分數|簡分數|約分數|繁分數}}
+
+{{zh-cat|Intermediate}}
+
+[[zh-min-nan:分數]]
+[[ko:分數]]
+[[lo:分數]]
+[[hu:分數]]
+[[ja:分數]]
+[[th:分數]]

@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|茏}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=16|sn=22|four=44211|canj=TYBP}}
+
+# tall grass
+# water-weeds
+
+====References====
+* {{Han ref|kx=1069.280|dkj=32438|hdz=53328.120|uh=8622|ud=34338|bh=F4B8|bd=62648}}
+
+----
+
+==Chinese==
+{{zh-forms|s=茏}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lóng
+|c=lung4
+|mn=lang/leng
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|蒙蘢|蔥蘢|蘢茸|蘢蓯|蘢蔥}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸16}}
+
+# {{defn|lang=ja|sort=艸16}}
+
+====Readings====
+* {{ja-readings|on=[[ろう]] (rō), [[りょう]] (ryō)|kun=[[おうけたで]] (ouketade)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[롱]]>[[농]]|eumhun=|rv=rong>nong|mr=rong>nong|y=long>nong}}
+
+# {{defn|lang=ko|sort=艸16}}
+
+[[fr:蘢]]
+[[ko:蘢]]
+[[hu:蘢]]
+[[ja:蘢]]
+[[pl:蘢]]
+[[th:蘢]]
+[[zh:蘢]]

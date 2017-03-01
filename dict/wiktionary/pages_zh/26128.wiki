@@ -1,0 +1,58 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=09|sn=15|four=58147|canj=LIYSD|ids=⿰虫斿}}
+
+# [[mayfly]], {{taxlink|Ephemera strigata|species|noshow=1}}
+
+====References====
+* {{Han ref|kx=1090.090|dkj=33292|dj=1556.060|hdz=42873.030|uh=8763|ud=34659|bh=E7A2|bd=59298}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yóu
+|c=jau4
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{zh-l|蜉蝣|[[mayfly]]}}
+{{der-bottom}}
+
+===References===
+* [http://www.zdic.net/z/23/js/8763.htm zdic.net (Han Dian)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫09}}
+
+# [[mayfly]]
+
+====Readings====
+{{ja-readings|goon=[[ゆ]] (yu)|kanon=[[ゆう]] (yū)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|蜉蝣|かげろう}}, {{ja-r|蜉蝣|ふゆう}}: [[mayfly]]
+{{der-bottom}}
+
+[[fr:蝣]]
+[[hu:蝣]]
+[[mg:蝣]]
+[[ja:蝣]]
+[[pl:蝣]]
+[[th:蝣]]
+[[vi:蝣]]
+[[zh:蝣]]

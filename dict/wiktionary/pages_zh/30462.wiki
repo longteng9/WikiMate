@@ -1,0 +1,71 @@
+{{character info/new}}
+{{also|阏}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=169|rad=門|as=08|sn=16|four=77233|canj=ANYSY}}
+
+# block, obstruct, stop up, conceal
+
+====References====
+* {{Han ref|kx=1337.130|dkj=41380|dj=1843.010|hdz=74306.030|uh=95BC|ud=38332|bh=EC46|bd=60486}}
+
+----
+
+==Chinese==
+{{zh-forms|s=阏}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yān,è,yù
+|c=jin1,aat3
+|h=pfs=at
+|mn=at
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|夭閼|淤閼|閼氏|雍閼|閼塞|閼逢|閼與|閼伯}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=門08}}
+
+# {{defn|lang=ja|sort=門08}}
+
+====Readings====
+* {{ja-readings|on=[[あ]] (a), [[よ]] (yo), [[えん]] (en)|kun=[[ふさぐ]] (fusagu), [[とどめる]] (todomeru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=알|eumhun=가로막을 알|rv=al|mr=al|y=al}}
+
+# {{defn|lang=ko|sort=門08}}
+
+[[fr:閼]]
+[[ko:閼]]
+[[hu:閼]]
+[[ja:閼]]
+[[pl:閼]]
+[[th:閼]]
+[[zh:閼]]

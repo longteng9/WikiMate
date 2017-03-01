@@ -1,0 +1,49 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|おう|ぎ|yomi=o}}
+{{IPAchar|/augi/}} → {{IPAchar|/ɔːgi/}} → {{IPAchar|/oːgi/}}
+
+Possibly coined in Japan of {{etyl|ltc|-}}-derived elements, as a Compound of {{compound|lang=ja|sort=おうぎ|奥|tr1=ō|t1=inner, inside|義|tr2=gi|t2=meaning, significance}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|おうぎ|acc=1|acc_ref=DJR,SMK5}}
+
+====Noun====
+{{ja-noun|おうぎ|あうぎ}}
+
+# the [[heart]] or [[depth]] of something; the [[inner]] [[secret]]s of something
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|奥義書|おうぎしょ}}: an [[esoteric]] [[book]]
+* {{ja-r|奥義抄|おうぎしょう}}: a three-volume [[compendium]] of {{m|ja|和歌|tr=waka}} [[criticism]], published in the late {{w|Heian period}}
+{{der-bottom}}
+
+=====Synonyms=====
+* {{ja-r|極意|ごくい}}
+
+===Etymology 2===
+{{ja-kanjitab|おく|ぎ|yomi=y}}
+Alternative reading of ''ōgi'' above, using the [[訓読み#Japanese|kun'yomi]] pronunciation of ''oku'' for the {{m|ja|奥}} character.  This ''oku'' reading is more common when {{m|ja|奥}} is used on its own.
+
+====Pronunciation====
+{{ja-pron|yomi=y|おくぎ|acc=1|acc_ref=DJR,SMK5}}
+
+====Alternative forms====
+* {{l|ja|奥儀}} {{qualifier|appears to be specific to the ''okugi'' reading}}
+
+====Noun====
+{{ja-noun|おくぎ}}
+
+# the [[heart]] or [[depth]] of something; the [[inner]] [[secret]]s of something
+
+=====Synonyms=====
+* {{ja-r|極意|ごくい}}
+
+===References===
+<references/>
+
+[[fr:奥義]]
+[[ja:奥義]]
+[[zh:奥義]]

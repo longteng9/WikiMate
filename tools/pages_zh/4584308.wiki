@@ -1,0 +1,35 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xīnjū
+|c=san1 geoi1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[current]] [[residence]]
+
+====Antonyms====
+* {{zh-l|故居}}
+* {{zh-l|舊居}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|きょ|yomi=o}}
+
+===Etymology===
+{{prefix|新|居|lang=ja|t1=new|t2=reside|sort=きょ}}
+
+===Noun===
+{{ja-noun|しんきょ}}
+
+# [[current]] [[residence]]
+
+[[lo:新居]]
+[[hu:新居]]
+[[zh:新居]]

@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=06|sn=17|four=|canj=NFKN}}
+
+# the sheath fish
+
+====References====
+* {{Han ref|kx=1469.160|dkj=46122|dj=2002.140|hdz=74686.040|uh=9BA7|ud=39847}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=yí
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+=====Compounds=====
+{{zh-der|鱁鮧}}
+
+===Etymology 2===
+{{zh-see|鯷|v}}
+
+===References===
+* {{R:twedu|C17229}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚06}}
+
+# {{defn|lang=ja|sort=魚06}}
+
+====Readings====
+* {{ja-readings|on=[[い]] (i), [[てい]] (tei), [[だい]] (dai), [[し]] (shi), [[じ]] (ji)|kun=[[おおなまず]] (oonamazu), [[なまず]] (namazu), [[すけそう]] (sukesou)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[제]], [[이]]|eumhun=|rv=je, i|mr=che, i|y=cey, i}}
+
+# {{defn|lang=ko|sort=魚06}}
+
+[[fr:鮧]]
+[[hu:鮧]]
+[[pl:鮧]]
+[[th:鮧]]
+[[zh:鮧]]

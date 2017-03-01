@@ -1,0 +1,58 @@
+{{also|动力}}
+==Chinese==
+{{zh-forms|s=动力}}
+
+===Etymology===
+{{wasei kango||どうりょく|(electric) power}}
+
+===Pronunciation===
+{{zh-pron
+|m=dònglì
+|c=dung6 lik6
+|mn=qz:tǒng-lia̍k/tw,xm,zz:tōng-le̍k
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[motive power]]
+# [[force]]; [[impetus]]
+
+====Derived terms====
+{{zh-der|動力機|動力煤|動力學}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|どう|りょく|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|どうりょく|acc=a|acc2=h|acc_ref=DJR,NHK,SMK5|acc2_ref=DJR,NHK,SMK5|y=o}}
+
+===Noun===
+{{ja-noun|どうりょく}}
+
+# [[power]]
+# {{lb|ja|electric}} [[power]]
+# [[motive power]]
+
+===Descendants===
+* Chinese: {{zh-l|動力}}
+* Korean: {{ko-l|동력}}
+* Vietnamese: {{vi-l|động lực}}
+
+===References===
+<references/>
+
+[[zh-min-nan:動力]]
+[[ko:動力]]
+[[hu:動力]]
+[[mg:動力]]
+[[ja:動力]]
+[[fi:動力]]
+[[chr:動力]]
+[[uk:動力]]
+[[zh:動力]]

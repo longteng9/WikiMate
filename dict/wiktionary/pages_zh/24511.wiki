@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|肤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=11|sn=15|four=21227|canj=YPWB|ids=⿸虍胃}}
+
+====References====
+* {{Han ref|kx=0992.280|dkj=29829|dj=1444.240|hdz=32107.050|uh=819A|ud=33178|bh=BDA7|bd=48551}}
+
+----
+
+==Chinese==
+{{zh-forms|s=肤}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fū
+|c=fu1
+|mn=pho͘
+|mc=y
+|oc=y
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[skin]]
+# [[superficial]]; [[shallow]]
+
+====Compounds====
+{{zh-der|切膚|切膚之痛|剝膚|剝膚椎髓|剝膚錐髓|噬膚|完膚|末學膚受|浹髓淪膚|潤膚|炙膚皸足|皮膚|皮膚炎|皮膚甲錯|皮膚病|皮膚癌|皮膚肌炎|肌無完膚|肌膚|肌膚之愛|肌膚之親|膚公|膚功|膚受|膚如刻畫|膚廓|膚敏|膚橈目逃|膚泛|膚淺|膚色|膚見|膚革|身無完膚|身體髮膚|雞膚鶴髮|體無完膚|鹽膚木}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=肉11}}
+
+====Readings====
+* {{ja-readings|on=[[ふ]] (fu)|kun=[[はだ]] (hada)|nanori=}}
+
+====Compounds====
+* {{ja-r|皮膚|ひふ}}: skin
+* {{ja-r|皮膚科|ひふか}}: dermatologist
+
+===Noun===
+{{ja-noun|はだ}}
+
+# the [[skin]]
+# the [[surface]]
+# a [[type]]
+
+[[Category:Japanese basic words|はだ]]
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 膚]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=부|eumhun=|rv=bu|mr=pu|y=pu}}
+
+# {{defn|lang=ko|sort=肉11}}
+
+[[zh-min-nan:膚]]
+[[fr:膚]]
+[[ky:膚]]
+[[hu:膚]]
+[[mg:膚]]
+[[ja:膚]]
+[[pl:膚]]
+[[sv:膚]]
+[[th:膚]]
+[[zh:膚]]

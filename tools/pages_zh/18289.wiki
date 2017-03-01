@@ -1,0 +1,95 @@
+{{character info/new}}
+{{also|栏}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=17|asj=16|sn=21|snj=20|four=47920|canj=DANW|ids=⿰木闌}}
+
+====References====
+* {{Han ref|kx=0562.350|dkj=15880|dj=0951.140|hdz=21322.090|uh=6B04|ud=27396|bh=C4E6|bd=50406}}
+
+----
+
+==Chinese==
+{{zh-forms|s=栏}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|闌|t1=wood|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lán
+|c=laan4
+|h=pfs=
+|md=
+|mn=nôa/lân
+|mn_note=nôa - vernacular, lân - literary
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[railing]], [[balustrade]]
+# [[animal]] [[pen]]
+
+====Compounds====
+* {{zh-l|欄杆}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=木17}}
+
+# [[handrail]]
+# [[column]]
+# [[blank]], [[space]]
+
+====Readings====
+* {{ja-readings|on=[[らん]] (ran)|kun=[[てすり]] (tesuri)}}
+
+===Noun===
+{{ja-noun|らん}}
+
+# [[column]] in a newspaper
+# [[field]] in a form etc.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[란]]>[[난]]}}
+
+# {{defn|lang=ko|sort=木17}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lan]], [[lang]], [[lơn]], [[lán]], [[ràn]]|rs=木17}}
+
+# {{defn|lang=vi|sort=木17}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6b04 Nom Foundation]
+
+[[zh-min-nan:欄]]
+[[fr:欄]]
+[[ko:欄]]
+[[lo:欄]]
+[[hu:欄]]
+[[mg:欄]]
+[[fj:欄]]
+[[ja:欄]]
+[[pl:欄]]
+[[th:欄]]
+[[chr:欄]]
+[[zh:欄]]

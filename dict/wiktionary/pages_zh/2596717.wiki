@@ -1,0 +1,63 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xíngzhèng
+|c=hang4 zing3
+|h=pfs=hàng-chṳn
+|mn=hêng-chèng
+|cat=n,a,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[administration]]
+# [[executive]] {{gloss|branch of government}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[administrative]] {{gloss|when used as an attributive}}
+#: {{zh-x|行政 單位|'''administrative''' unit}}
+# executive {{gloss|when used as an attributive}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[execute]] [[power]]; to [[administer]] {{gloss|of a nation-state}}
+
+===Derived terms===
+{{zh-der|省級行政單位|行政區劃|行政區|行政長官}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぎょう|せい|yomi=on}}
+
+===Noun===
+{{ja-noun|ぎょうせい}}
+
+# [[government]], [[administration]]
+#: {{ja-usex|それは'''行政'''の責任だ。|それ は '''ぎょうせい''' の せきにん だ。|That is the responsibility of the government.}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=행정}}
+
+# {{hanja form of|행정|[[administration]]}}
+
+[[zh-min-nan:行政]]
+[[ko:行政]]
+[[hu:行政]]
+[[mg:行政]]
+[[nl:行政]]
+[[ja:行政]]
+[[chr:行政]]
+[[uk:行政]]
+[[zh:行政]]

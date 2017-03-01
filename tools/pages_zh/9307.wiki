@@ -1,0 +1,222 @@
+{{character info/new}}
+{{also|秊|ヰ|𡕒}}
+==Translingual==
+{{stroke order|strokes=6}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=51|rad=干|as=03|sn=6|four=80500|canj=OQ|ids=⿻午厂}}
+
+====References====
+* {{Han ref|kx=0340.010|dkj=09168|dj=0648.020|hdz=10037.060|uh=5E74|ud=24180|bh=A67E|bd=42622}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+The older form of {{lang|zh|年}}, {{zh-l|*秊}}, is a combination of {{zh-l|*禾}}, which means ''[[grain]]'' or ''[[rice]]'', and the phonetic element {{zh-l|千}} (which, before it was realised to be a phonetic, was taken to indicate ''[[extension]]''). The meaning ''[[harvest]]'' is original.
+
+===Pronunciation===
+{{zh-pron
+|m=nián
+|c=nin4
+|h=pfs=ngièn
+|md=nièng
+|mn=nî/liân
+|mn_note=nî - vernacular, liân - literary
+|w=3nyi
+|ma=y
+|mc=y
+|oc=y
+|cat=n,a,pn,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[year]] {{lb|zh|in generic contexts}}
+# [[harvest]]
+# [[annual]]
+# [[age]]
+# [[period]] of [[life]]
+# [[period]] (in history)
+# [[New Year]]
+# [[thing]]s for the New Year
+# {{n-g|Classifier for years.}}
+# {{surname|lang=zh}}
+
+====Usage note====
+Although 年 is the generic term for ''year'', years of age are typically expressed in {{zh-l|歲}}, a separate system based on the [[duodecennial]] orbital period of Jupiter. Ages in {{zh-l|歲}} are traditionally reckoned using the Chinese lunar calendar, beginning with 1 at the moment of birth and increasing not during birthdays but at the [[Chinese New Year]].
+
+===Compounds===
+{{zh-der|年代|年初|年底|年度|年糕|年關|年華|年級|年紀|年鑒|年曆|年邁|年年|年輕|年歲|年頭|年薪|年幼|年長|年終|今年|來年|明年|去年|閏年|少年|新年|丁年|上年|中年|交年|享年|他年|來年|值年|元年|先年|光年|全年|凶年|前年|匿年|千年|卒年|卜年|同年|向年|坐年|堯年|壯年|多年|大年|天年|妙年|季年|學年|富年|小年|屢年|常年|平年|年下|年中|年事|年伯|年來|年例|年假|年兄|年光|年內|年分|年刊|年利|年功|年勞|年命|年報|年夜|年姪|年宦|年家|年少|年尾|年市|年幾|年庚|年弟|年忌|年息|年成|年所|年把|年數|年時|年晚|年景|年會|年月|年朽|年次|年歉|年班|年甲|年畫|年登|年祚|年禮|年程|年穀|年節|年紙|年老|年臘|年臺|年菜|年號|年表|年誼|年譜|年貌|年貨|年費|年資|年輩|年輪|年運|年金|年間|年限|年集|年飯|年饉|年高|年齒|年齡|幼年|康年|延年|引年|彌年|往年|待年|後年|得年|忘年|成年|拜年|損年|整年|早年|旬年|昔年|晚年|暮年|曠年|更年|有年|期年|末年|歉年|歷年|殘年|每年|比年|永年|沖年|流年|熟年|生年|當年|百年|盛年|盡年|祈年|萬年|積年|窮年|童年|笄年|紀年|累年|終年|經年|綺年|編年|翌年|老年|耆年|臨年|舊年|英年|茂年|荒年|華年|行年|觿年|豐年|賀年|趕年|跨年|迎年|近年|逐年|這年|通年|連年|週年|過年|長年|開年|閱年|陳年|青年|頭年|頻年|餘年|饑年|馳年|驢年|高年|髫年|齊年|齠年|龜年}}
+
+{{zh-cat|Beginning|Time}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=1|rs=干03}}
+
+====Readings====
+{{ja-readings
+|goon=[[ねん]] (nen)
+|kanon=[[でん]] (den) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kun=[[とし]] (toshi), [[とせ]] (tose)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|年月日|ねんがっぴ}}
+* {{ja-r|年号|ねんごう}}
+* {{ja-r|年次|ねんじ}}
+* {{ja-r|年数|ねんすう}}
+* {{ja-r|年度|ねんど}}
+* {{ja-r|年輪|ねんりん}}
+* {{ja-r|年齢|ねんれい}}
+{{der-mid}}
+* {{ja-r|閏年|うるうどし}}
+* {{ja-r|学年|がくねん}}
+* {{ja-r|元年|がんねん}}
+* {{ja-r|去年|きょねん}}
+* {{ja-r|今年|ことし}}
+* {{ja-r|新年|しんねん}}
+* {{ja-r|来年|らいねん}}
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|ねん}}
+From {{etyl|ltc|ja|sort=ねん}} {{m|zh|年|tr=nen||year}}. Compare modern {{etyl|cmn|-}} reading ''nián'', {{etyl|hak|-}} ''nyên'', {{etyl|yue|-}} ''nin<sup>4</sup>''.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|ねん|acc=1|acc_ref=DJR}}
+
+====Counter====
+{{ja-pos|ねん|counter}}
+
+# [[year]]s
+
+====Noun====
+{{ja-noun|ねん}}
+
+# a [[year]]
+#: {{ja-usex|'''年'''に一度|'''ねん''' に いちど|once a '''year'''}}
+
+====Suffix====
+{{ja-pos|ねん|suffix}}
+
+# a [[grade]], a school year
+#: {{ja-usex|彼は中学２'''年'''だ。|^かれ は ちゅうがく に-'''ねん''' だ。|He's in the second '''grade''' in junior high school.}}
+# a [[year]]
+#: {{ja-usex|２００８'''年'''に橋を建設し始めるようだ。|^に せん はち-'''ねん''' に はし を けんせつ しはじめる よう だ。|They seem to be going to start constructing the bridge in (the '''year''') 2008.}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|とし}}
+{{IPAchar|/to<sub>2</sub>si/}} → {{IPAchar|/tosi/}} → {{IPAchar|/toɕi/}}
+
+From {{etyl|ojp|ja|sort=とし}}. Originally referred to [[grain]], particularly [[rice]], and by extension, the year's [[harvest]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|とし|acc=2|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|歳}}
+
+====Noun====
+{{ja-noun|とし}}
+
+# {{lb|ja|sort=とし|obsolete}} [[grain]], particularly [[rice]]
+# {{lb|ja|sort=とし|obsolete}} a grain [[harvest]], a grain [[crop]]
+# a [[year]]
+# [[age]]
+
+====Derived terms====
+* {{ja-r|年神|^としがみ}}: the [[spirit]] or [[god]] of the [[year]]
+* {{ja-r|年を取る|とし を とる}}: to [[pass]] [[New Years]]; to [[age]]
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|とせ}}
+{{IPAchar|/to<sub>2</sub>se/}} → {{IPAchar|/tose/}}
+
+From {{etyl|ojp|ja|sort=とし}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Likely a shift in pronunciation from ''toshi''.
+
+====Pronunciation====
+{{ja-pron|yomi=k|とせ}}
+
+====Suffix====
+{{ja-pos|とせ|suffix}}
+
+# {{lb|ja|sort=とせ|obsolete}} {{non-gloss definition|used to count years}}
+#* {{RQ:Manyoshu|5|880}}, text [http://jti.lib.virginia.edu/japanese/manyoshu/Man5Yos.html#880|here]:
+#*: {{ja-usex|阿麻社迦留、比奈尓伊都'''等世'''、周麻比都都、美夜故能提夫利、和周良延尓家利|^あまざかる、 ひな に いつ '''とせ'''、 すまひつつ、 みやこ の てぶり、 わすらえにけり|While living five ''years''' in the far-remote countryside, I wound up forgetting the manners of the capital}}
+
+===References===
+<references/>
+
+[[Category:ja:Time|とし]]
+[[Category:Japanese basic words|とし]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[년]]>[[연]]|eumhun=해, 해}}
+
+# [[year]]
+
+====Compounds====
+* [[閏年]] ([[윤년]], yunnyeon)
+* [[學年]] ([[학년]], haknyeon)
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nên]], [[năm]], [[niên]]|rs=干03}}
+
+# {{defn|lang=vi|sort=干03}}
+
+[[zh-min-nan:年]]
+[[cs:年]]
+[[da:年]]
+[[de:年]]
+[[et:年]]
+[[es:年]]
+[[fa:年]]
+[[fr:年]]
+[[ko:年]]
+[[hi:年]]
+[[it:年]]
+[[sw:年]]
+[[ku:年]]
+[[lo:年]]
+[[la:年]]
+[[lv:年]]
+[[lt:年]]
+[[li:年]]
+[[hu:年]]
+[[mg:年]]
+[[ms:年]]
+[[fj:年]]
+[[nl:年]]
+[[ja:年]]
+[[no:年]]
+[[uz:年]]
+[[km:年]]
+[[pl:年]]
+[[pt:年]]
+[[ru:年]]
+[[fi:年]]
+[[sv:年]]
+[[ta:年]]
+[[th:年]]
+[[chr:年]]
+[[tr:年]]
+[[uk:年]]
+[[zh:年]]

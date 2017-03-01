@@ -1,0 +1,84 @@
+==Chinese==
+{{zh-forms|lit=beyond anticipations}}
+
+===Pronunciation===
+{{zh-pron
+|m=yìwài
+|c=ji3 ngoi6
+|h=pfs=yi-ngoi
+|mn=qz,tw,xm,zz:ì-gōa/xm,zz:ì-gōe
+|ma=Zh-yìwài.ogg
+|cat=a,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[unexpected]]; [[unforeseen]]; surprising
+#: {{zh-x|意外 事件|'''unexpected''' mishap}}
+
+===Noun===
+{{zh-noun}}
+
+# [[accident]]; [[mishap]]
+
+====Synonyms====
+* {{zh-l|差錯}}
+* {{zh-l|閃失}}
+* {{zh-l|失閃}}
+* {{zh-l|失誤}}
+
+====Derived terms====
+{{zh-der|意外事故|意外死亡|令人意外|出乎意外|出人意外|出意外|意外事件|意外險}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|い|がい|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|いがい}}
+
+# [[surprising]], [[unexpected]]
+#: {{ja-usex|'''意外'''だね。|'''いがい''' だ ね。|[[you don't say|You don't say]].}}
+#: {{ja-usex|君にここで会うのは全く'''意外'''だ。|きみ に ここ で あう の は まったく '''いがい''' だ。|It's really '''unexpected''' to meet you here.}}
+
+====Synonyms====
+* [[予想外]]
+* [[想定外]]
+
+====Antonyms====
+* [[織り込み済み]]
+* [[予想内]]
+* [[想定内]]
+
+====Inflection====
+{{ja-na|いがい}}
+
+===Noun===
+{{ja-noun|いがい}}
+
+# [[unexpectedness]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=의외|rv=uioe}}
+
+# {{hanja form of|의외|[[unexpected]], [[surprising]]}}
+
+[[zh-min-nan:意外]]
+[[cs:意外]]
+[[ko:意外]]
+[[ky:意外]]
+[[hu:意外]]
+[[mg:意外]]
+[[fj:意外]]
+[[ja:意外]]
+[[chr:意外]]
+[[zh:意外]]

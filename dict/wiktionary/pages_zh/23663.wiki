@@ -1,0 +1,72 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=14|sn=20|four=88903|canj=HBUF|ids=⿱⿳[[竹|⺮]][[目]][[大]][[糸]]}}
+
+====References====
+* {{Han ref|kx=0942.150|dkj=28012|dj=1382.010|hdz=53463.120|uh=7E82|ud=32386|bh=C4A1|bd=50337}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuǎn
+|c=zyun2
+|mn=chhoàn
+|mc=y
+|oc=y
+|ma=
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[edit]], [[compile]]
+# [[topknot]], [[chignon]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=糸14}}
+
+# {{defn|lang=ja|sort=糸14}}
+
+====Readings====
+* {{ja-readings|on=[[さん]] (san)|kun=[[あつめる]] (atsumeru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=찬|eumhun=|rv=chan|mr=ch'an|y=chan}}
+
+# {{defn|lang=ko|sort=糸14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=糸14| hanviet = toản}}
+
+# {{defn|lang=vi|sort=糸14}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:纂]]
+[[mg:纂]]
+[[ja:纂]]
+[[pl:纂]]
+[[th:纂]]
+[[zh:纂]]

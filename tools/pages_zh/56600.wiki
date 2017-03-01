@@ -1,0 +1,80 @@
+==Chinese==
+
+===Pronunciation 1===
+{{zh-forms}}
+{{zh-pron
+|m=réngōng
+|c=jan4 gung1
+|mn=zz,kh:jîn-kang/xm,qz,tp:lîn-kang/zz:jîn-kong/xm,qz:lîn-kong
+|ma=Zh-réngong.ogg
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[man-made]]; [[artificial]]
+
+=====Synonyms=====
+* {{zh-l|人造}}
+
+=====Derived terms=====
+{{zh-der|人工電子耳|人工耳蝸:réngōng ěrwō; réngōng ěrguā|人工呼吸|人工降雨|人工林|人工流產|人工授精|人工語言|人工增雨|人工智能|人工製品}}
+
+===Pronunciation 2===
+{{zh-forms|alt=儂工-Min Nan}}
+{{zh-pron
+|m=réngōng
+|c=jan4 gung1
+|mn=lâng-kang
+|ma=Zh-réngong.ogg
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[manual]] [[work]]; [[labour]]
+# [[man-day]]
+# [[manpower]]
+# {{lb|zh|Cantonese|Min Nan}} [[pay]]; [[salary]]
+#: {{zh-x|加 人工|to get a pay raise|C}}
+# {{lb|zh|Min Nan}} [[worker]]; [[labourer]]; [[coolie]]
+
+=====Synonyms=====
+* {{sense|manual work; labour}} {{zh-l|勞動}}, {{zh-l|人力}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じん|こう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|じんこう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|じんこう}}
+
+# [[art]], man-made
+
+====Compounds====
+* [[人工衛星]] ([[じんこうえいせい]], [[jinkōeisei]]): [[artificial]] [[satellite]]
+* [[人工知能]] ([[じんこうちのう]], [[jinkōchinō]]): [[artificial intelligence]]
+* [[人工言語]] ([[じんこうげんご]], [[jinkōgengo]]): [[artificial language]]
+* [[人工的]] ([[じんこうてき]], [[jinkōteki]]): artificial
+
+===References===
+<references/>
+
+[[ko:人工]]
+[[sw:人工]]
+[[lo:人工]]
+[[hu:人工]]
+[[mg:人工]]
+[[nl:人工]]
+[[ja:人工]]
+[[uz:人工]]
+[[pt:人工]]
+[[ru:人工]]
+[[chr:人工]]
+[[zh:人工]]

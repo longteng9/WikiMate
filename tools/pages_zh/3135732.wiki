@@ -1,0 +1,101 @@
+==Chinese==
+{{zh-forms|alt=身毒}}
+
+===Etymology===
+First recorded use in the ''Traditions of the Western Regions'' ({{lang|zh|西域傳}}) portion of the ''{{w|Book of Han}}'', finished in 111 {{CE}}. Itself a transcription of {{etyl|peo|zh}} [http://books.google.com/books?id=kQ6zTASmo6kC&pg=PA202&lpg=PA202&dq=hinduka&source=bl&ots=RdvqyS2GMY&hl=en#v=onepage&q=hinduka&f=false *''Hind-uka''] - hypocoristic of [[w:Hindustan|*''Hinduš'']] ("people living beyond the Indus").
+
+===Pronunciation===
+{{zh-pron
+|m=Tiānzhú
+|c=tin1 zuk1
+|mc=1,2
+|oc=1+2,1;n,3
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{lb|zh|archaic}} [[India]] or [[Nepal]]
+
+====Derived terms====
+{{zh-der|天竺牡丹|天竺鼠|天竺書|天竺葵}}
+
+====Related terms====
+* {{zh-l|身毒}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てん|じく|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|yomi=on|acc=1|acc_ref=DJR,SMK5|てんじく}}
+
+===Etymology 1===
+{{IPAchar|/tendiku/}} → {{IPAchar|/tenziku/}}
+
+From {{etyl|ltc|ja|sort=てんじく}} {{m|ltc|天竺|tr=*ten *djiuk?}}, a transcription from either of the following:
+* {{etyl|peo|ja|sort=てんじく}} [http://books.google.com/books?id=kQ6zTASmo6kC&pg=PA202&lpg=PA202&dq=hinduka&source=bl&ots=RdvqyS2GMY&hl=en#v=onepage&q=hinduka&f=false *''Hind-uka''], an alternate of [[w:Hindustan|*''Hinduš'']] (“people living beyond the Indus”)
+* {{etyl|sa|ja|sort=てんじく}} {{m|sa|सिन्धु|tr=Sindhu||the country around the Indus river: India}}<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+First mentioned in the {{m|ja|後漢書|tr=Gokansho||''[[w:Book of the Later Han|Book of the Later Han]]''}}, in volume 88, the {{m|ja|西域伝|tr=Saiiki Den||''[[w:Treatise on the Western Regions|Treatise on the Western Regions]]''}}.
+
+====Proper noun====
+{{ja-pos|proper|てんじく|hhira=てんぢく}}
+
+# {{lb|ja|archaic|sort=てんしく'}} [[India]]
+
+=====Synonyms=====
+* {{ja-l|インド}} (''Indo'')
+* {{ja-r|身毒|^しんどく}}
+
+====Prefix====
+{{ja-pos|prefix|てんじく|hhira=てんぢく|rom=Tenjiku}}
+
+# [[foreign]] or [[exotic]]
+# overly [[spicy]] or [[hot]]
+
+=====Usage notes=====
+The prefix senses appear to have arisen after European traders arrived in Japan, by way of India.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|天竺葵|^てんじく あおい}}: an “Indian [[hollyhock]] or [[mallow]]” → a [[geranium]]
+* {{ja-r|天竺織|てんじく おり}}: “Indian weaving” → a kind of thick woven [[cloth]] featuring various designs of birds, people, and other [[motif]]s
+* {{ja-r|天竺花|^てんじく か}}: an “Indian flower” → alternate for {{m|ja|萩|tr=hagi||bush clover}}
+* {{ja-r|天竺楽|^てんじく がく}}: “Indian music” → those pieces of {{m|ja|雅楽|tr=gagaku||ancient court music}} originating from India
+* {{ja-r|天竺鮫|^てんじく-ざめ}}: an “Indian [[shark]]” → a [[wobbegong]], a [[shark]] of [[family]] {{taxlink|Orectolobidae|family|noshow=1}}
+* {{ja-r|天竺鯛|^てんじく-だい}}: an “Indian [[sea bream]]” → a kind of [[cardinalfish]], {{taxlink|Apogon lineatus|species|noshow=1}}
+* {{ja-r|天竺茄子|^てんじく なすび}}: “Indian [[eggplant]]” → alternate for {{m|ja|朝鮮朝顔|tr=Chōsen asagao|lit=Korean [[morning glory]]}}: the {{vern|devil's trumpet}} or {{vern|metel}}, ''[[Datura metel]]''
+* {{ja-r|天竺鼠|^てんじく ねずみ}}: an “Indian rat” → a [[guinea pig]], a [[cavy]]
+* {{ja-r|天竺醤|^てんじく ひしお}}: “Indian sauce” → a kind of spicy uncooked [[miso]]
+* {{ja-r|天竺菩提樹|^てんじく ぼだいじゅ}}: “Indian [[linden]] tree” → the [[bodhi tree]], ''[[Ficus religiosa]]''
+* {{ja-r|天竺牡丹|^てんじく ぼたん}}: an “Indian [[peony]]” → a [[dahlia]]
+* {{ja-r|天竺豆|^てんじく まめ}}: “Indian bean” → alternate for {{m|ja|八升豆|tr=hasshō mame}}: the [[velvet bean]], ''[[Mucuna pruriens]]''
+* {{ja-r|天竺守|^てんじく まもり}}: “Indian protector, Indian charm” → alternate for {{m|ja|八房|tr=yatsubusa}}, the ''[[fasciculatum]]'' variety of ''[[Capsicum annuum]]'' ([[chili pepper]])
+* {{ja-r|天竺味噌|^てんじく みそ}}: “Indian [[miso]]” → [[spicy]] [[miso]]
+* {{ja-r|天竺木綿|^てんじく もめん}}: “Indian [[cotton]]” → thickly woven [[cotton]] [[sheet]]ing
+* {{ja-r|天竺様|^てんじく よう}}: “Indian [[style]]” → a style of [[Buddhist]] [[temple]] [[architecture]] imported from the [[w:Song_dynasty#Southern_Song.2C_1127.E2.80.931279|Southern Song Dynasty]] during the [[w:Kamakura period|Kamakura period]]
+{{der-bottom}}
+
+===Etymology 2===
+By extension from the {{ja-l|天}} character (“sky, heavens”), and possibly by association with the Himalayas.
+
+====Noun====
+{{ja-noun|てんじく}}
+
+# the [[sky]], the [[heavens]]
+# a [[high]] place, the [[top]] of something, a [[summit]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|天竺豆|てんじく まめ}}: “sky bean” → alternate for {{m|ja|空豆|tr=sora mame}}: the [[broad bean]] or [[fava bean]], ''[[Vicia faba]]''
+* {{ja-r|天竺浪人|てんじく ろうにん}}: a [[vagrant]], a [[wanderer]] {{qualifier|The {{lang|ja|天竺}} portion of this term is purely [[slang]], a play on the term {{m|ja|逐電|tr=chikuden|lit=chasing lightning||running away, absconding}}.}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[ko:天竺]]
+[[mg:天竺]]
+[[zh:天竺]]

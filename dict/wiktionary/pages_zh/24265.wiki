@@ -1,0 +1,109 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=04|sn=8|four=77217|canj=BAU|ids=⿰月巴}}
+
+# [[fat]], [[plump]], [[obese]]
+# [[fertile]]
+
+====References====
+* {{Han ref|kx=0974.230|dkj=29290|dj=1426.130|hdz=32055.010|uh=80A5|ud=32933|bh=AACE|bd=43726}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=féi
+|c=fei4,fai6
+|h=pfs=phì
+|md=
+|mn=pûi
+|w=
+|mc=y
+|oc=y
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[fat]]
+#: {{zh-x|減肥|to lose '''weight'''}}
+# [[fertilizer]]
+
+===Adjective===
+{{zh-adj}}
+
+# [[fat]]
+#: {{zh-x|肥仔|fatty|C}}
+#: {{zh-x|肥肉|fatty meat|C}}
+# [[fertile]]
+
+=====Synonyms=====
+{{zh-dial|胖}}
+
+====Compounds====
+{{zh-der|肥膘|肥差|肥腸|肥腸兒|肥吃海喝|肥大|肥地|肥嘟嘟|肥分|肥滾滾|肥厚|肥力|肥料|肥溜溜|肥美|肥嫩|肥胖|肥缺|肥肉|肥實|肥瘦兒|肥水|肥碩|肥田|肥頭大耳|肥土|肥沃|肥效|肥腴|肥育|肥源|肥皂|肥皂劇|肥壯|肥屍大隻|肥頭耷耳}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=肉04}}
+
+{{ja-kanjitab|こえ|yomi=k}}
+
+===Noun===
+{{ja-noun|こえ}}
+
+# [[manure]]; [[fertilizer]]; [[dung]]
+
+====Readings====
+* {{ja-readings|goon=[[び]] (bi)|kanon=[[ひ]] (hi)|kun=[[こえる]] (koeru), [[こやす]] (koyasu), [[こえ]] (koe)}}
+
+====Compounds====
+* [[肥大]]
+* [[肥満]]
+* [[肥沃]]
+* [[肥料]]
+* [[肥溜め]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=비|eumhun=|rv=bi|mr=pi|y=pi}}
+
+# {{defn|lang=ko|sort=肉04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phì]], [[phè]], [[phề]]|rs=肉04}}
+
+# {{defn|lang=vi|sort=肉04}}
+
+[[zh-min-nan:肥]]
+[[fr:肥]]
+[[ko:肥]]
+[[hu:肥]]
+[[mg:肥]]
+[[ja:肥]]
+[[no:肥]]
+[[pl:肥]]
+[[tl:肥]]
+[[th:肥]]
+[[chr:肥]]
+[[vi:肥]]
+[[zh:肥]]

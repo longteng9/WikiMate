@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+===Etymology===
+{{Han etyl}}
+{{Han compound|ls=psc|竹|其|c1=s|c2=p|t1=bamboo}}.
+===Han character===
+{{Han char|rn=118|rad=竹|as=08|sn=14|four=88801|canj=HTMC|ids=⿱[[竹|⺮]][[其]]}}
+
+# [[sieve]]
+# [[dust]] [[pan]], [[garbage]] [[bag]]
+
+====References====
+* {{Han ref|kx=0887.250|dkj=26143|dj=1315.210|hdz=52979.040|uh=7B95|ud=31637|bh=BADF|bd=47839}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jī
+|c=gei1
+|h=pfs=
+|md=
+|mn=ki
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹08}}
+
+# {{defn|lang=ja|sort=竹08}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[み]] (mi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|eumhun=|rv=gi|mr=ki|y=ki}}
+
+# {{defn|lang=ko|sort=竹08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kia]], [[kìa]], [[ky]], [[cơ]]|rs=竹08}}
+
+# {{defn|lang=vi|sort=竹08}}
+
+[[fr:箕]]
+[[ko:箕]]
+[[hu:箕]]
+[[mg:箕]]
+[[ja:箕]]
+[[no:箕]]
+[[pl:箕]]
+[[th:箕]]
+[[zh:箕]]

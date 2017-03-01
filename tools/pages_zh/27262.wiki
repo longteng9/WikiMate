@@ -1,0 +1,114 @@
+{{character info/new}}
+{{also|议}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=13|sn=20|four=08653|canj=YRTGI|ids=⿰言義}}
+
+====Descendants====
+* [[议]]
+
+====References====
+* {{Han ref|kx=1183.240|dkj=36027|dj=1647.050|hdz=64026.010|uh=8B70|ud=35696|bh=C4B3|bd=50355}}
+
+----
+
+==Chinese==
+{{zh-forms|s=议}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|t1=talk|義|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=ji5
+|h=pfs=ngi
+|mn=gī
+|mn-t=ngi2
+|w=3nyi
+|mc=y
+|oc=y
+|ma=
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[talk over]]; to [[discuss]]
+# to [[comment]]
+# [[opinion]]; [[suggestion]]
+
+===Compounds===
+{{zh-der|上議院|下議院|不可思議|主議|代議制|代議士|代議政治|倡議|假決議|僉議|先議權|八議|公議|公議會|再議|副議長|創議|力排眾議|動議|勞資爭議|協議|協議書|南北和議|卡港會議|參議|參議會|參議院|可議|合議制|合議庭|吏議|和議|商議|噂議|國務會議|圓桌會議|地方議會|大議會|大陸會議|奏議|宣議郎|密議|審議|崇論宏議|崇論閎議|巷議|巷議街談|巷議街譚|市議會|平議|廟議|建議|建議案|引人非議|從長計議|成議|抗議|抗議文學|抗議書|招人物議|提議|擬議|斃監免議|時談物議|會議|會議室|朝議|末議|柏林會議|橫議|歐洲議會|決議|洛桑會議|流議|浮議|清議|清議報|漫議|無可非議|無異議|爭議|物議|物議沸騰|獨持異議|獨排眾議|異議|直言讜議|省議會|眾議|眾議成林|眾議院|瞽言芻議|瞽議|研議|磋議|視訊會議|竊竊私議|籌議|緩議|縣議員|縣議會|聯席會議|腹議|臨時動議|芻議|虛論高議|街談巷議|裁軍會議|複議|覆議|訂議|計議|訕議|訾議|評議|評議員|評議會|談議|論議風生|諡議|諫議|諫議大夫|諮議|謗議|議不反顧|議事|議事廳|議事日程|議事紀錄|議事規則|議價|議和|議員|議場|議壇|議定|議定書|議席|議敘|議會|議會制|議會政治|議案|議決|議決案|議禮|議程|議處|議親|議論|議論文|議論紛紛|議論風生|議賢|議郎|議長|議長論短|議院|議題|谹議|負薪之議|軍縮會議|通議|遠端會議|里談巷議|開羅會議|開議|閣議|附議|電傳會議|電訊會議|非議|面議|風議|駁議|駮議|高峰會議}}
+
+----
+
+==Japanese==
+[[File:Ryakuji GI.png|thumb|right|100px|{{w|Ryakuji}} for {{lang|ja|議}}, a {{w|phono-semantic}} simplification as {{lang|ja|言}} (semantic) + {{lang|ja|ギ}} (phonetic “gi” for ''on'' reading); compare {{ja-l|機}} and {{ja-l|魔}}/{{ja-l|摩}}.]]
+
+===Kanji===
+{{ja-kanji|grade=4|rs=言13}}
+
+# [[deliberation]]
+# [[consultation]]
+# [[debate]]
+# [[consideration]]
+
+====Readings====
+{{ja-readings
+|goon=[[ぎ]] (gi)
+|kanon=[[ぎ]] (gi)
+|nanori=[[かた]] (kata), [[のり]] (nori), [[はかる]] (hakaru)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|議員|ぎいん}}
+* {{ja-r|議会|ぎかい}}
+* {{ja-r|議事|ぎじ}}
+* {{ja-r|議長|ぎちょう}}
+* {{ja-r|議論|ぎろん}}
+* {{ja-r|抗議|こうぎ}}
+* {{ja-r|談議|だんぎ}}
+* {{ja-r|動議|どうぎ}}
+* {{ja-r|発議|はつぎ}}
+* {{ja-r|論議|ろんぎ}}
+{{der-bottom}}
+
+===Proper noun===
+{{ja-pos|はかる|proper}}
+
+# {{given name|lang=ja|sort=はかる|male}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=의|eumhun=|rv=ui|mr=ŭi|y=uy}}
+
+# {{defn|lang=ko|sort=言13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nghị]], [[nghĩ]], [[ngợi]]|rs=言13}}
+
+# {{defn|lang=vi|sort=言13}}
+
+[[fr:議]]
+[[ko:議]]
+[[li:議]]
+[[hu:議]]
+[[mg:議]]
+[[ja:議]]
+[[pl:議]]
+[[fi:議]]
+[[th:議]]
+[[uk:議]]
+[[zh:議]]

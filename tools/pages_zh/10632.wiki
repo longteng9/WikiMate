@@ -1,0 +1,93 @@
+{{character info/new}}
+{{also|價}}
+==Translingual==
+{{Han simplified forms|價|価|价}}
+{{stroke order}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|介|c1=s|c2=p|ls=psc}}.
+
+Also {{Han simp|價|f=賈|t=介}}; simplified to an existing character.
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+===Han character===
+{{Han char|rn=9|rad=人|as=04|sn=6|four=28220|canj=OOLL|ids=⿰亻介}}
+
+# [[price]], [[value]]
+
+====References====
+* {{Han ref|kx=0094.200|dkj=00412|dj=0200.110|hdz=10124.070|uh=4EF7|ud=20215|bh=C9B2|bd=51634}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|價}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=jiè
+|c=gaai3
+|oc=y
+|mc=y
+|cat=a,v,n
+}}
+{{attention|zh|OC needs to suppress Baxter-Sagart but keep Zhengzhang}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[good]]
+
+====Verb====
+{{zh-adj}}
+
+# to [[explain]]
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[servant]]
+
+===References===
+* {{R:twedu|B00032}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人04}}
+
+# {{defn|lang=ja|sort=人04}}
+
+====Readings====
+* {{ja-readings|goon=[[け]] (ke)|kanon=[[かい]] (kai)|kun=[[よい]] (yoi), [[おおきい]] (ōkii), [[つかい]] (tsukai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=개|rv=gae|mr=kae}}
+
+# {{defn|lang=ko|sort=人04}}
+
+[[fr:价]]
+[[ko:价]]
+[[li:价]]
+[[hu:价]]
+[[mg:价]]
+[[ja:价]]
+[[no:价]]
+[[pl:价]]
+[[th:价]]
+[[uk:价]]
+[[vi:价]]
+[[zh:价]]

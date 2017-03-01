@@ -1,0 +1,97 @@
+{{character info/new}}
+{{also|涧}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=12|sn=15|four=37120|canj=EANA|ids=⿰氵間}}
+
+# [[brook]], [[mountain]] [[stream]]
+# 10<sup>36</sup>
+
+====References====
+* {{Han ref|kx=0652.321|dj=1060.030|hdz=80024.140|uh=6F97|ud=28567|bh=BCEE|bd=48366}}
+
+====See also====
+* ''Chinese numeral'' '''澗'''
+** '''Last:''' [[溝]], [[沟]]
+** '''Next:''' [[正]]
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Chinese==
+{{zh-forms|s=涧}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiàn
+|c=gaan2,gaan3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|山澗|林慚澗愧|深澗|溝澗|溪澗|澗壑|澗溝|西澗|餐松飲澗}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水12}}
+
+# {{defn|lang=ja|sort=水12}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan), [[けん]] (ken)|kun=[[たに]] (tani), [[たにみず]] (tanimizu)|nanori=[[ま]] (ma)}}
+
+===Number===
+{{ja-pos|numeral symbol|かん}}
+
+# A number of 10<sup>36</sup> in modern Japanese since 17th century.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=간|eumhun=산골물|rv=gan|mr=kan|y=kan}}
+
+# {{defn|lang=ko|sort=水12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''澗''' ([[giản]])
+
+# {{defn|lang=vi}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6f97&img=1 Nom Foundation]
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:澗]]
+[[ko:澗]]
+[[li:澗]]
+[[hu:澗]]
+[[ja:澗]]
+[[pl:澗]]
+[[th:澗]]
+[[zh:澗]]

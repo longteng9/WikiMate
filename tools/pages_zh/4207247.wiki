@@ -1,0 +1,73 @@
+{{also|正山小种}}
+==Chinese==
+{{zh-forms|s=正山小种|type=22}}
+
+===Etymology===
+{{rfe|lang=zh|Unclear how 正山 equates to ''lapsang'', since that should be 立山 instead.}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhèngshān xiǎozhǒng
+|c=zeng3 saan1 siu2 zung2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[lapsang souchong]] {{gloss|tea plant}}
+
+====Synonyms====
+* {{zh-l|拉普山小種}}
+* {{zh-l|立山小種}}
+
+===See also===
+* {{pedialite|lang=zh}}
+
+{{zh-cat|Tea}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Lapsang souchong}}
+[[File:JacksonsLapsangSouchong_low.jpg|thumb|250px|{{lang|ja|{{PAGENAME}}}} (''rapusan sūchon'', ''seisan shōshu''): loose '''[[lapsang souchong]]''' [[tea]].]]
+</div>
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr}}
+{{borrowing|ja|yue|-|sort=らぷさんすうちょん}} {{m|zh|立山小種|tr=laap<sup>6</sup> saan<sup>1</sup> siu<sup>2</sup> zung<sup>2</sup>|lit=sub-variety from Lapu Mountain}}.
+
+The spelling was apparently changed prior to borrowing into Japanese, replacing the {{m|zh|立|tr=laap<sup>6</sup>}} character with the {{m|zh|正|tr=zeng<sup>3</sup>}} character while keeping the pronunciation unchanged.
+
+The reading is an approximation of modern {{etyl|yue|-}}, and is thus neither [[音読み#Japanese|on'yomi]] nor [[訓読み#Japanese|kun'yomi]].
+
+====Pronunciation====
+{{ja-pron|ラプサン スーチョン}}
+
+====Alternative forms====
+* {{ja-l|ラプサン・スーチョン}}
+
+====Noun====
+{{ja-noun|ラプサン・スーチョン}}
+
+# [[lapsang souchong]] [[tea]]
+
+=====Usage notes=====
+This reading appears to be the most common.
+
+===Etymology 2===
+{{ja-kanjitab|yomi=on|せい|さん|しょう|しゅ}}
+The spelling is a {{borrowing|ja|nocap=1|zh|sort=せいさんしょうしゅ|正山小種}}. The reading is the expected [[音読み#Japanese|on'yomi]] for these characters.
+
+====Pronunciation====
+{{ja-pron|yomi=o|せいさん しょうしゅ}}
+
+====Noun====
+{{ja-noun|せいさん しょうしゅ}}
+
+# [[lapsang souchong]] [[tea]]
+
+=====Usage notes=====
+This reading appears to be substantially less common than ''rapusan sūchon'' above. However, it is also the most obvious reading from a Japanese perspective, using the standard Japanese pronunciation of the characters.

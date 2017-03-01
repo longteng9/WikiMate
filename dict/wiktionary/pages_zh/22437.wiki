@@ -1,0 +1,103 @@
+{{character info/new}}
+{{also|廪|禀}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=08|sn=13|four=00901|canj=YWRD|ids=⿱㐭禾}}
+
+# [[report]] to, [[petition]]
+
+====References====
+* {{Han ref|kx=0855.160|dkj=25127|dj=1280.200|hdz=42615.080|uh=7A1F|ud=31263|bh=B85B|bd=47195}}
+
+----
+
+==Chinese==
+{{zh-forms|s=禀}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=bǐng,bīn,2nb=variant
+|c=ban2
+|h=pfs=pín
+|md=
+|mn=pín
+|w=
+|mc=y
+|oc=1+2,y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[bestow]]; to [[endow]]
+# to [[receive]]
+# to [[report]] (to one's superior)
+
+===Pronunciation 2===
+{{zh-pron
+|m=lǐn
+|c=lam5
+|h=
+|md=
+|mn=
+|w=
+|mc=
+|oc=3,n
+|dial=n
+|cat=n,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|廩|[[granary]]; [[barn]]}}
+# {{zh-alt-form|懍|to [[fear]]; to [[venerate]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=禾08}}
+
+# [[receive]]
+# [[report]], [[petition]]
+
+====Readings====
+{{ja-readings
+|goon=[[ひん]] (hin), [[りん]] (rin)
+|kanon=[[ひん]] (hin), [[りん]] (rin)
+|kun=[[こめぐら]] (komegura), {{qualifier|rare}} [[うける|うけ.る]] ([[稟ける]], ukeru), {{qualifier|rare}} [[もうす|もう.す]] ([[稟す]], mōsu)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[품]], [[름]]|eumhun=|rv=pum, reum|mr=p'um, rŭm|y=phum, rum}}
+
+# {{defn|lang=ko|sort=禾08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bẩm]], [[bám]], [[bặm]], [[bẳm]], [[bấm]], [[bụm]], [[lắm]]|rs=禾08}}
+
+# {{defn|lang=vi|sort=禾08}}
+
+[[zh-min-nan:稟]]
+[[fr:稟]]
+[[hu:稟]]
+[[mg:稟]]
+[[ja:稟]]
+[[pl:稟]]
+[[th:稟]]
+[[zh:稟]]

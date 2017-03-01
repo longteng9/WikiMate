@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=lóngqǐ
+|c=lung4 hei2
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[swell]]; to [[bulge]]
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|medicine}} [[swelling]]; [[protuberance]]
+# {{lb|zh|geology}} [[tectonic]] [[uplift]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|りゅう|き|yomi=o}}
+{{wikipedia|隆起と沈降|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|りゅうき|y=o}}
+
+===Noun===
+{{ja-noun|りゅうき}}
+
+# [[protuberance]]
+# {{lb|ja|geology|sort=りゅうき}} tectonic [[uplift]], usually the ocean floor
+
+====Antonyms====
+* {{sense|tectonic uplift}} {{ja-r|沈降|ちんこう}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|りゅうき}}
+
+# to [[rise]]
+# to undergo tectonic uplift
+
+====Conjugation====
+{{ja-suru|りゅうき}}
+
+[[zh-min-nan:隆起]]
+[[ko:隆起]]
+[[hu:隆起]]
+[[mg:隆起]]
+[[ja:隆起]]
+[[chr:隆起]]
+[[zh:隆起]]

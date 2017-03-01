@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|えん|じょう|yomi=on}}
+
+===Noun===
+{{ja-noun|えんじょう}}
+
+# going up [[in flames]], to be [[consumed]] in flames (especially for a building)
+# a blog etc. being [[overwhelmed]] in comments
+
+===Verb===
+{{ja-verb-suru|tr=intrans|えんじょう}}
+
+# to [[go up]] in flames, to be [[destroyed]] by fire
+# to be overwhelmed in comments
+#: {{ja-usex|よくブログやツイッターで'''炎上'''することがあります|よく ブログ や ツイッター で '''えんじょう''' する こと が あります|Things like blogs and twitter are often overwhelmed in comments}}
+
+====Conjugation====
+{{ja-suru|えんじょう}}
+
+[[zh:炎上]]

@@ -1,0 +1,71 @@
+{{character info/new}}
+{{also|窑|窰}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=116|rad=穴|as=10|sn=15|four=30331|canj=JCTGF}}
+
+====References====
+* {{Han ref|kx=0867.110|dkj=25594|dj=1296.010|hdz=42739.040|uh=7AAF|ud=31407|bh=BD60|bd=48480}}
+
+----
+
+==Chinese==
+{{zh-forms|s=窑}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yáo
+|c=jiu4
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[kiln]]
+# ([[coal]]) [[pit]]
+# [[cave]] [[dwelling]]
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c}}
+
+# {{defn|lang=ja|sort=穴10}}
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō)|kun=[[かま]] (kama)|nanori=}}
+
+====Compounds====
+* {{ja-r|窯業|ようぎょう}}: ceramics industry
+* {{ja-r|窯焼き|かまやき}}: firing in a kiln
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=요|eumhun=|mr=yo|y=yo}}
+meaning: kiwa kubnun kama
+
+# {{defn|lang=ko|sort=穴10}}
+
+[[zh-min-nan:窯]]
+[[fr:窯]]
+[[ko:窯]]
+[[hu:窯]]
+[[mg:窯]]
+[[ja:窯]]
+[[pl:窯]]
+[[sv:窯]]
+[[th:窯]]
+[[vi:窯]]
+[[zh:窯]]

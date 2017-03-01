@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=10|sn=13|four=54094|canj=QTOD|ids=⿰扌茶}}
+
+# [[smear]]
+# [[rub]], [[wipe]]
+# [[anoint]]
+
+====References====
+* {{Han ref|kx=0449.081|dkj=12552|hdz=31912.020|uh=643D|ud=25661|bh=B767|bd=46951}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chá
+|c=caa4
+|h=pfs=chhà
+|md=
+|mn=tâ
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[apply]]; to [[anoint]]
+#: {{zh-x|搽 藥膏|apply topical medication|C}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手10}}
+
+# {{defn|lang=ja|sort=手10}}
+
+====Readings====
+* {{ja-readings|on=[[た]] (ta), [[だ]] (da)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=차|eumhun=|rv=cha|mr=ch'a|y=cha}}
+
+# {{defn|lang=ko|sort=手10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=手10|[[chà]], [[trà]]}}
+
+# {{defn|lang=vi|sort=手10}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=643d Nom Foundation]
+
+[[fr:搽]]
+[[hu:搽]]
+[[mg:搽]]
+[[pl:搽]]
+[[th:搽]]
+[[zh:搽]]

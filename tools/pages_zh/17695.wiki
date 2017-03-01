@@ -1,0 +1,93 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=08|sn=12|four=44981|canj=DTMC|ids=⿰木其}}
+
+====References====
+* {{Han ref|kx=0532.030|dkj=14922|dj=0920.110|hdz=21224.040|uh=68CB|ud=26827|bh=B4D1|bd=46289}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=棊,碁,櫀,檱,䃆,㯦}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|木|其|ls=psc|c1=s|c2=p|t1=wooden}}.
+
+===Pronunciation===
+{{zh-pron
+|m=qí
+|c=kei4
+|h=pfs=
+|md=gì
+|mn=kî
+|w=3xxi
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[Chinese chess]]
+# [[chess]]
+# {{lb|zh|by extension}} {{n-g|any chess-like [[game]] or game requiring [[strategy]]}}
+#: {{zh-x|圍棋|[[go]]}}
+
+====Synonyms====
+* {{sense|Chinese chess}} {{zh-l|象棋}}
+* {{sense|chess}} {{zh-l|國際象棋}}, {{zh-l|西洋棋}}
+
+===Compounds===
+{{zh-der|大棋|回棋|悔棋|五子棋|圍棋|一步棋|下棋|屎棋|對棋|弈棋|彈棋|圍棋段位|棋聖|棋社|棋逢對手|棋布|棋敵|棋高一著|星羅棋布|棋子|棋戰|棋譜|棋品|矢棋|棋盤|棋手|活棋|棋羅星布|疊棋|琴棋書畫|棋布星羅|棋枰|棋峙|棋迷|棋逢敵手|盲棋|敲棋|棋藝|死棋|棋鼓|棋局|西洋棋|象棋|糞棋|電腦兵棋|著棋|舉棋不定|西洋象棋|軍棋|跳棋|蠹居棋處}}
+
+{{zh-cat|Chess}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=木08}}
+
+# token
+
+====Readings====
+* {{ja-readings|goon=[[ぎ]] (gi) {{non-joyo-reading}}, [[ご]] (go) {{non-joyo-reading}}|kanon=[[き]] (ki)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|eumhun=|rv=gi|mr=ki|y=ki}}
+
+# {{defn|lang=ko|sort=木08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cời]], [[cờ]], [[cơi]], [[kè]], [[kì]], [[kỳ]]|rs=木08}}
+
+# {{defn|lang=vi|sort=木08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=68cb Nom Foundation]
+
+[[zh-min-nan:棋]]
+[[fr:棋]]
+[[ko:棋]]
+[[hu:棋]]
+[[mg:棋]]
+[[ja:棋]]
+[[no:棋]]
+[[uz:棋]]
+[[pl:棋]]
+[[th:棋]]
+[[uk:棋]]
+[[zh:棋]]

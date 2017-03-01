@@ -1,0 +1,35 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|うん|どう|くつ|k3=ぐつ}}
+
+===Etymology===
+Compound of {{compound|運動|tr1=undō|t1=exercise|靴|tr2=kutsu|t2=shoes|lang=ja|sort=うんどうぐつ}}. {{rendaku2|kutsu|gutsu|sort=うんどうぐつ}}
+
+===Pronunciation===
+{{ja-pron|うんどうぐつ|acc=3|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|うんどうぐつ}}
+
+# [[sneaker]]s, [[trainer]]s, athletic shoes
+
+====Synonyms====
+* {{ja-r|スニーカー}}
+
+===References===
+<references/>
+
+[[Category:ja:Footwear|うんどうぐつ]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=운동화}}
+
+# {{hanja form of|운동화|[[sneaker]]s, [[trainer]]s, athletic shoes}}
+
+[[hu:運動靴]]
+[[sv:運動靴]]

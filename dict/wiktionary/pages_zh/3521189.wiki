@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|こう|どく|yomi=o}}
+
+===Noun===
+{{ja-noun|こうどく|kyu=購讀}}
+
+# [[subscription]]
+
+====Compounds====
+* {{l|ja|購読者}}
+* {{l|ja|購読料}}
+
+===Verb===
+{{ja-verb-suru|こうどく|kyu=購讀}}
+
+# to [[subscribe]]
+
+====Conjugation====
+{{ja-suru|こうどく}}
+
+[[hu:購読]]
+[[mg:購読]]
+[[zh:購読]]

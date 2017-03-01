@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|宂}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=14|rad=冖|as=02|sn=4|four=37217|canj=BHN,XBHN|ids=⿱冖几}}
+
+# [[excessive]]
+# [[superfluous]]
+
+====References====
+* {{Han ref|kx=0130.130|dkj=01566|dj=0292.130|hdz=10302.160|uh=5197|ud=20887|bh=A4BE|bd=42174}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=rǒng
+|c=jung2,jung5
+|mn=qz,xm:lióng/zz:jióng/lēng/tw:liōng
+|mn_note=lióng/jióng - literary; lēng - verncaular; liōng - 量 in the Mainland
+|mc=
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|冗散|冗筆|冗贅|冗賦|冗官|冗詞贅句|心勞意冗|冗長|冗冗|冗員|冗食|冗兵|冗雜|冗費|冗忙|冗繁|窮冗|煩冗|浮冗|撥冗|繁冗|閑冗|荒冗冗}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=冖02}}
+
+# [[superfluous]]
+# [[uselessness]]
+
+====Readings====
+* {{ja-readings|goon=[[にゅう]] (nyū)|kanon=[[じょう]] (jō)|kun=[[むだ]] (muda)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=용|rv=yong|mr=yong|y=yong}}
+
+# {{defn|lang=ko|sort=冖02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=冖02|hanviet=[[nhũng]], [[nhõng]], [[nhủng]], [[nũng]], [[nhùng]], [[võng]]}}
+
+# {{defn|lang=vi|sort=冖02}}
+
+===References===
+* {{R:WinVNKey:Lê Sơn Thanh}}
+
+[[zh-min-nan:冗]]
+[[fr:冗]]
+[[hu:冗]]
+[[mg:冗]]
+[[ms:冗]]
+[[ja:冗]]
+[[no:冗]]
+[[pl:冗]]
+[[th:冗]]
+[[zh:冗]]

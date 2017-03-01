@@ -1,0 +1,101 @@
+{{character info/new}}
+{{also|麹|曲}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=199|rad=麥|as=08|sn=19|four=47242|canj=JEPFD,JNPFD}}
+
+# [[yeast]], [[leaven]]
+# [[wine]]
+
+====References====
+* {{Han ref|kx=1513.520|dkj=47818|dj=2043.060|hdz=74605.050|uh=9EB4|ud=40628|bh=C454|bd=50260}}
+
+----
+
+==Chinese==
+
+===Alternative forms===
+* {{zh-l|麯}}
+
+===Etymology 1===
+{{zh-forms|s=曲}}
+
+====Pronunciation====
+{{zh-pron
+|m=qū,qú,2nb=Taiwan
+|c=kuk1,guk1
+|mn=khak
+|mc=y
+|oc=y
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[yeast]]; [[leaven]]
+
+====Compounds====
+* {{zh-l|鼠麴粿}}
+* {{zh-l|麴黴}}
+
+===Etymology 2===
+{{zh-forms|s=麹}}
+
+====Pronunciation====
+{{zh-pron
+|m=Qū,Qú,2nb=Taiwan
+|c=kuk1,guk1
+|mn=Khiok
+|mc=y
+|oc=y
+|cat=pn
+}}
+
+====Proper noun====
+{{zh-proper noun}}
+
+# {{surname|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=麥08|style=ky|shin=麹}}
+
+# [[yeast]]
+# [[leaven]]
+
+====Readings====
+* {{ja-readings|on=[[きく]] (kiku)|kun=[[こうじ]] (kouji)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=국|eumhun=|rv=guk|mr=kuk|y=kwuk}}
+
+# [[yeast]]
+# [[leaven]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khúc]]|rs=麥08}}
+
+# {{defn|lang=vi|sort=麥08}}
+
+[[zh-min-nan:麴]]
+[[fr:麴]]
+[[ko:麴]]
+[[hu:麴]]
+[[mg:麴]]
+[[ja:麴]]
+[[pl:麴]]
+[[th:麴]]
+[[zh:麴]]

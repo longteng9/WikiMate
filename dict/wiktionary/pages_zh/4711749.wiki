@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=mìngmíngfǎ
+|c=ming6 ming4 faat3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[nomenclature]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|めい|めい|ほう|yomi=o}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=めいめいほう|命名|tr1=meimei|t1=denomination, naming|法|tr2=hō|t2=law, rule, convention}}.<ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|めいめいほう}}
+
+===Noun===
+{{ja-noun|めいめいほう|hhira=めいめいはふ}}
+
+# [[nomenclature]]: a [[convention]] for [[categorizing]] and [[naming]] things
+
+====Usage notes====
+The sense of {{m|en|nomenclature}} of “a set of names or terms” is expressed by the Japanese words {{m|ja|用語|tr=yōgo||term, terminology}}, {{m|ja|用語集|tr=yōgoshū|lit=term collection}}, {{m|ja|専門語|tr=senmongo||specialist or technical term}}, {{m|ja|学名|tr=gakumei||scientific or technical name}}, {{m|ja|名称集|tr=meishōshū|lit=name or label collection}}.
+
+===References===
+<references/>
+:* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=명명법}}
+
+# {{hanja form of|명명법|[[nomenclature]]}}
+
+[[mg:命名法]]
+[[sv:命名法]]
+[[zh:命名法]]

@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=17|sn=23|four=27913|canj=VFNRI}}
+
+====References====
+* {{Han ref|kx=0943.270|dkj=28070|dj=1383.260|hdz=53469.050|uh=7E94|ud=32404|bh=C5D7|bd=50647}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|糸|毚|ls=psc|c1=s|c2=p}}.
+
+===Etymology 1===
+{{zh-see|才||[[just]]; [[only]]}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=shān
+|c=
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=2
+|oc=3
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[reddish]] [[black]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=糸17}}
+
+# {{defn|lang=ja|sort=糸17}}
+
+====Readings====
+* {{ja-readings|on=[[さん]] (san), [[さい]] (sai)|kun=[[わずか]] (wazuka)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=재|eumhun=|rv=jae|mr=chae|y=cay}}
+
+# {{defn|lang=ko|sort=糸17}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tài]]|rs=糸17}}
+
+# {{defn|lang=vi|sort=糸17}}
+
+[[fr:纔]]
+[[hu:纔]]
+[[mg:纔]]
+[[ja:纔]]
+[[pl:纔]]
+[[th:纔]]
+[[vi:纔]]
+[[zh:纔]]

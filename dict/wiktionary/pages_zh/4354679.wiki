@@ -1,0 +1,31 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǔyīn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|music}} [[prime]]; [[tonic]]; [[keynote]]
+# {{lb|zh|linguistics}} [[vowel]]
+
+====Derived terms====
+{{zh-der|主音吉他}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅ|おん|yomi=on}}
+
+===Noun===
+{{ja-noun|しゅおん}}
+
+# {{lb|ja|music}} [[prime]], [[tonic]], [[keynote]]
+
+[[mg:主音]]
+[[chr:主音]]
+[[zh:主音]]

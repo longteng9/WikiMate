@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=05|sn=8|four=58037|canj=QOII|ids=⿰扌令}}
+
+# to [[haul]]
+# to [[lift]]
+# to [[take]]
+
+====References====
+* {{Han ref|kx=0425.080|dkj=11953|dj=0773.130|hdz=31855.050|uh=62CE|ud=25294|bh=A9F0|bd=43504}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=līng
+|c=ling1,ning1,ling4
+|mn=lêng
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}} {{attention|zh|needs normal definitions}}
+# {{lb|zh|Cantonese}} {{zh-synonym|攞|lo2}}
+
+===References===
+* {{R:twedu|A01552}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手05}}
+
+# {{defn|lang=ja|sort=手05}}
+
+====Readings====
+* {{ja-readings|on=[[れい]] (rei), [[りょう]] (ryō)|kun=[[かける]] (kakeru)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lanh]], [[linh]], [[nhạnh]]|rs=手05}}
+
+# {{defn|lang=vi|sort=手05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=62ce Nom Foundation]
+
+[[zh-min-nan:拎]]
+[[fr:拎]]
+[[hu:拎]]
+[[mg:拎]]
+[[no:拎]]
+[[pl:拎]]
+[[th:拎]]
+[[zh:拎]]

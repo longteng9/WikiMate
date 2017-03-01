@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=04|sn=7|four=34190|canj=ED|ids=⿰氵木}}
+
+# [[bathe]], [[cleanse]], [[wash]], [[shampoo]]
+
+====References====
+* {{Han ref|kx=0611.070|dkj=17201|dj=1003.110|hdz=31558.070|uh=6C90|ud=27792|bh=A84E|bd=43086}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mù
+|c=muk6
+|h=pfs=
+|md=
+|mn=bo̍k
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[bathe]]; to [[shower]]
+# to [[cleanse]]
+# to [[receive]]
+# to be [[give]]n
+
+====Compounds====
+{{zh-der|沐浴|沐浴露}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水04}}
+
+# to [[wash]]
+
+====Readings====
+* {{ja-readings|on=[[ぼく]] (boku), [[もく]] (moku)|kun=[[あらう]] (arau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=목|eumhun=|rv=mok|mr=mok|y=mok}}
+
+# {{defn|lang=ko|sort=水04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[múc]], [[móc]], [[mốc]], [[mộc]]|rs=水04}}
+
+# {{defn|lang=vi|sort=水04}}
+
+[[zh-min-nan:沐]]
+[[fr:沐]]
+[[ko:沐]]
+[[li:沐]]
+[[hu:沐]]
+[[mg:沐]]
+[[ja:沐]]
+[[no:沐]]
+[[pl:沐]]
+[[th:沐]]
+[[zh:沐]]

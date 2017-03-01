@@ -1,0 +1,30 @@
+{{also|网路}}
+==Chinese==
+{{zh-forms|s=网路}}
+
+===Pronunciation===
+{{zh-pron
+|m=wǎnglù
+|c=mong5 lou6
+|h=pfs=mióng-lu
+|mn=bāng-lō͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|chiefly|Taiwan|computing}} [[network]]
+# {{lb|zh|chiefly|Taiwan|computing}} [[Internet]]
+
+====Synonyms====
+* {{qualifier|Mainland China|Hong Kong}} {{zh-l|網絡}}
+
+====Derived terms====
+{{zh-der|區域網路}}
+
+[[zh-min-nan:網路]]
+[[ko:網路]]
+[[mg:網路]]
+[[chr:網路]]
+[[zh:網路]]

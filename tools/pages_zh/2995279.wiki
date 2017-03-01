@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zàijiā
+|c=zoi6 gaa1
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to be at [[home]]
+# to be at [[work]]
+# {{lb|zh|Buddhism}} to [[lead]] a [[secular]] [[life]]
+
+====Antonyms====
+* {{sense|lead a secular life}} {{zh-l|出家}}
+
+====Derived terms====
+{{zh-der|在家靠父母，出外靠朋友}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|在|家}}
+{{wikipedia|lang=ja}}
+
+===Noun===
+{{ja-noun|ざいけ}}
+
+# [[the]] [[title]] [[of]] [[followers]] [[of]] [[Buddhism]] ([[or]], [[historically]], [[of]] [[Gautama]] [[Buddha]]) [[who]] [[are]] [[not]] [[monks]], [[nuns]], [[or]] [[novice]] [[monastics]] [[in]] [[a]] [[Buddhist]] [[order]], [[and]] [[who]] [[undertake]] [[certain]] [[vows]]
+
+[[hu:在家]]
+[[ja:在家]]
+[[zh:在家]]

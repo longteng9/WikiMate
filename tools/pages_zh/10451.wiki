@@ -1,0 +1,104 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+===Etymology===
+{{Han etyl}}
+
+===Han character===
+{{Han char|rn=4|rad=丿|as=04|sn=5|four=80211|canj=HS|ids=⿱𠂉⿰丨二}}
+
+# [[first]] [[time]], for the first time
+
+====References====
+* {{Han ref|kx=0082.060|dkj=00130|dj=0165.220|hdz=10035.030|uh=4E4D|ud=20045|bh=A545|bd=42309}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhà,zuò
+|c=zaa3,zaa6,zok3
+|h=
+|mn=qz,xm:chā/qz,xm:chà/zz:chèe
+|w=
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[suddenly]]
+# [[at first]]
+
+===Pronunciation===
+{{zh-pron
+|mn=tw:chàⁿ
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|Min Nan}} to [[fry]]
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|1307}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=丿04}}
+
+# {{defn|lang=ja|sort=丿04}}
+
+====Readings====
+* {{ja-readings|on=[[さく]] (saku), [[さ]] (sa)|kun=[[たちまち]] (tachimachi), [[ながら]] (nagara)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|rv=sa|mr=sa|y=sa|eumhun=잠깐|ehrv=jamkkan|ehmr=chamkkan|ehy=}}
+
+# (for) a short time
+
+====References====
+* {{Hanja ref|nav=9706}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=丿04|hanviet=[[chạ]], [[sạ]], [[cha]], [[sã]]}}
+
+# {{defn|lang=vi|sort=丿04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e4d Nom Foundation]
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:乍]]
+[[cs:乍]]
+[[fr:乍]]
+[[ko:乍]]
+[[li:乍]]
+[[hu:乍]]
+[[mg:乍]]
+[[ms:乍]]
+[[ja:乍]]
+[[no:乍]]
+[[pl:乍]]
+[[th:乍]]
+[[vi:乍]]
+[[zh:乍]]

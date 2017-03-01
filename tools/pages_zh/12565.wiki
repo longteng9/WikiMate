@@ -1,0 +1,92 @@
+{{character info/new}}
+{{also|吃}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=09|sn=12|four=67034|canj=RQHK|ids=⿰口契}}
+
+# [[eat]]
+# [[drink]]
+# [[suffer]], [[endure]], [[bear]]
+
+====See also====
+* {{l|mul|食}}
+* {{l|mul|召}}
+* {{l|mul|頂}}
+
+====References====
+* {{Han ref|kx=0200.190|dkj=03987|dj=0422.030|hdz=10648.070|uh=55AB|ud=21931|bh=B3F0|bd=46064}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|吃|v}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|c=hek3,jaak3
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} to [[eat]]; to have one's meal
+#* {{zh-l|喫飯|to eat a meal}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=口09}}
+
+# [[devour]]
+# [[ingest]]
+# [[eat]] [[or]] [[drink]]
+# [[to]] [[be]] [[struck]] [[by]] [[someone]] [[or]] [[something]]
+# [[smoke]]
+
+====Readings====
+* {{ja-readings|goon=[[きゃく]] (kyaku), [[け]] (ke)|kanon=[[かい]] (kai), [[けき]] (keki)|kanyoon=[[きつ]] (kitsu)|kun=[[くう]] (kuu), [[のむ]] (nomu)}}
+
+====Compounds====
+* {{ja-r|喫煙|きつえん}}: smoking
+* {{ja-r|喫茶|きっさ}}: drinking tea
+* {{ja-r|喫茶店|きっさてん}}: tea house
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=끽|rv=kkik|mr=kkik|y=kkik}}
+
+# {{defn|lang=ko|sort=口09}}
+
+====Compounds====
+* [[喫房]] ([[끽방]])
+* [[喫茶]] ([[끽다]])
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khịt]], [[khế]], [[khịa]], [[khiết]], [[ngật]]|rs=口09}}
+
+# {{defn|lang=vi|sort=口09}}
+
+[[fr:喫]]
+[[ko:喫]]
+[[lt:喫]]
+[[hu:喫]]
+[[ja:喫]]
+[[pl:喫]]
+[[th:喫]]
+[[zh:喫]]

@@ -1,0 +1,44 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zàochéng
+|c=zou6 sing4
+|h=pfs=chho-sṳ̀n
+|mn=chō-sêng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[bring about]]; to [[cause]]; to [[lead]] to
+#: {{zh-x|造成 後果|''to have consequences''}}
+
+====Synonyms====
+* {{zh-l|導致}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぞう|せい|yomi=on}}
+
+===Noun===
+{{ja-noun|ぞうせい}}
+
+# (construction) site [[preparation]], [[development]] of lots
+
+===Verb===
+{{ja-verb-suru|tr=trans|ぞうせい}}
+
+# [[develop]] land for housing lots
+#: {{ja-usex|盛土により造成された土地|もりつち に より ぞうせい された とち|land reclaimed by raising the ground level}}
+
+====Conjugation====
+{{ja-suru|ぞうせい}}
+
+[[zh-min-nan:造成]]
+[[ko:造成]]
+[[ja:造成]]
+[[zh:造成]]

@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|さい|かく|にん|yomi=on}}
+
+===Etymology===
+{{prefix|再|確認|t1=re|t2=confirm|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|さいかくにん|y=on}}
+
+===Noun===
+{{ja-noun|さいかくにん}}
+
+# [[reaffirmation]], [[reconfirmation]]
+
+===Verb===
+{{ja-verb-suru|さいかくにん}}
+
+# [[reaffirm]], [[reconfirm]]
+
+====Conjugation====
+{{ja-suru|さいかくにん}}
+
+[[ko:再確認]]

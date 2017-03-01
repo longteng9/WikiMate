@@ -1,0 +1,53 @@
+{{also|贫弱}}
+==Chinese==
+{{zh-forms|s=贫弱}}
+
+===Pronunciation===
+{{zh-pron
+|m=pínruò
+|c=pan4 joek6
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[poor]] and [[weak]]; [[impoverished]] and [[decrepit]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひん|じゃく|yomi=on}}
+
+===Etymology===
+Probably from {{etyl|ltc|ja|sort=ひんじゃく}} compound {{m|zh|貧弱|tr=bin nyak|lit=poor + weak}}. Compare modern {{etyl|cmn|-}} {{zh-l|貧弱|tr=pínruò|poor and weak}}.
+
+Alternatively, may have been coined in Japan of {{etyl|ltc|-}}-derived elements {{m|ja|貧|tr=hin||poor}} + {{m|ja|弱|tr=jaku||weak}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|ひんじゃく|acc=0|acc_ref=DJR}}
+
+===Adjective===
+{{ja-adj|infl=na|ひんじゃく}}
+
+# [[poor]], [[feeble]], [[scanty]]
+#: {{ja-usex|状況は、彼の'''貧弱'''な語彙では表現できるものではなかった。|^じょうきょう は、 かれ の '''ひんじゃく''' な ごい で は ひょうげん できる もの で は な かった。|With his '''poor''' vocabulary, he was unable to explain the situation in words.}}
+
+====Antonyms====
+* {{ja-r|豪華|ごうか}}: [[magnificent]], [[luxurious]]
+
+====Inflection====
+{{ja-na|ひんじゃく}}
+
+===Noun===
+{{ja-noun|ひんじゃく}}
+
+# [[meagerness]], [[scantiness]]
+
+===References===
+<references/>
+
+[[ko:貧弱]]
+[[mg:貧弱]]
+[[pl:貧弱]]
+[[zh:貧弱]]

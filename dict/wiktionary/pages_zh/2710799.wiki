@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tuīqiāo
+|c=teoi1 haau1
+|mn=qz,xm,zz:thui-khau
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[weigh]]; to [[deliberate]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|すい|こう|yomi=on}}
+
+===Noun===
+{{ja-noun|すいこう}}
+
+# [[revising]], [[polishing]] of a [[text]]
+#: {{ja-usex|'''推敲'''に'''推敲'''を重ねた。|'''すいこう''' に '''すいこう''' を かさねた。|We made revision on top of revision.}}
+
+===Verb===
+{{ja-verb-suru|すいこう}}
+
+# [[revise]], [[polish]] a text
+
+====Synonyms====
+* {{l/ja|練り直す}}
+
+====Conjugation====
+{{ja-suru|すいこう}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:推敲]]
+[[hu:推敲]]
+[[ja:推敲]]
+[[zh:推敲]]

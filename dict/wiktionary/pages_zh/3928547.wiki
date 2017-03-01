@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēngqǐ
+|c=fung1 hei2
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[rise]] in [[swarm]]s
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほう|き|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|ほうき|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ほうき}}
+
+# [[rebellion]], [[uprising]], [[revolt]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|武昌蜂起|^ぶしょうほうき}}
+* {{ja-r|武装蜂起|ぶそうほうき}}
+{{der-bottom}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|ほうき}}
+
+# [[rebel]], [[rise up]], [[revolt]]
+
+====Conjugation====
+{{ja-suru|ほうき}}
+
+===References===
+<references/>
+
+[[ko:蜂起]]
+[[mg:蜂起]]
+[[zh:蜂起]]

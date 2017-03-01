@@ -1,0 +1,51 @@
+{{also|第三纪}}
+==Chinese==
+{{zh-forms|s=第三纪|type=21}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=Dìsānjì
+|c=dai6 saam1 gei3
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-propn}}
+
+# the [[Tertiary]] [[period]]
+
+===See also===
+* {{zh-l|早第三紀}}
+* {{zh-l|晚第三紀}}
+* {{zh-l|第四紀}}
+
+{{zh-cat|Geology|Time}}
+
+----
+
+==Japanese==
+{{DEFAULTSORT:たいさんき'}}
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|だい|さん|き|yomi=o}}
+
+===Etymology===
+{{suffix|ja|第三|紀|tr1=daisan|t1=[[third]]|tr2=ki|t2=[[period]]}}
+
+===Pronunciation===
+{{ja-pron|acc=a|だいさんき|y=o}}
+{{ja-pron|acc=a|だい|y=go}}
+{{ja-pron|acc=a|さんき|y=ko}}
+
+===Proper noun===
+{{ja-pos|proper|だいさんき}}
+
+# the [[Tertiary]] [[period]]
+
+===See also===
+* {{ja-r|古%第%三%紀|^こ%だい%さん%き}}
+* {{ja-r|新%第%三%紀|^しん%だい%さん%き}}
+* {{ja-r|第%四%紀|^だい%よん%き}}
+
+[[Category:Japanese words prefixed with 第]]
+{{topics|ja|Geology|Time}}

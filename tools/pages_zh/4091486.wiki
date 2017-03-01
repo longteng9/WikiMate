@@ -1,0 +1,43 @@
+{{also|开馆}}
+==Chinese==
+{{zh-forms|s=开馆}}
+
+===Pronunciation===
+{{zh-pron
+|m=kāiguǎn
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[open]] {{gloss|of libraries, museums, exhibitions, etc.}}
+
+====Antonyms====
+* {{zh-l|閉館}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|かん|yomi=on}}
+
+===Noun===
+{{ja-noun|かいかん}}
+
+# the opening of a library, museum, or hall on a given day
+# the first opening of such a facility
+
+====Antonyms====
+* {{ja-r|閉館|へいかん}}
+
+===Verb===
+{{ja-verb-suru|かいかん}}
+
+# [[open]] a library, museum, or hall for the day
+# open such a facility for the first time
+
+====Conjugation====
+{{ja-suru|かいかん}}
+
+[[mg:開館]]
+[[zh:開館]]

@@ -1,0 +1,48 @@
+{{also|疯癫}}
+==Chinese==
+{{zh-forms|s=疯癫}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēngdiān
+|c=fung1 din1
+|mn=hong-tian
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[insane]], [[crazy]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|sort=ふうてん}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=ふうてん}} {{m|zh|瘋癲}}. Age of borrowing unknown.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[ɸɯᵝːtẽ̞ɴ]}}
+
+===Alternative forms===
+* {{l|ja|風癲}}
+
+===Noun===
+{{ja-noun|ふうてん}}
+
+# [[insanity]], [[mental illness]]; more specifically, of the varieties of [[acquired]] [[mental illness]], those forms of [[insanity]] marked by [[confused]] [[speech]], [[clouded]] [[consciousness]], and [[emotional]] [[outburst]]s
+# {{lb|ja|sort=ふうてん|offensive}} an insane person
+# a [[vagabond]], a [[wanderer]]
+#: {{ja-usex|'''瘋癲'''の寅さん|'''ふうてん''' の とら-さん|the vagabond Tora}}
+
+====Derived terms====
+* {{ja-r|瘋癲病院|ふうてん びょういん}}: an [[asylum]], a [[mental hospital]]
+
+====Synonyms====
+* {{sense|insanity}} {{ja-r|癲狂|てんきょう}}
+* {{sense|wanderer}} {{ja-r|流浪者|るろうしゃ}}
+
+[[mg:瘋癲]]

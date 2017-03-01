@@ -1,0 +1,38 @@
+{{also|华氏}}
+==Chinese==
+{{zh-forms|s=华氏}}
+
+===Etymology===
+Abbreviation of {{zh-l|華倫海特}} (transliteration of {{etyl|de|zh}} {{m|de|Fahrenheit}}) + {{zh-l|氏|family}}
+
+===Pronunciation===
+{{zh-pron
+|m=Huáshì
+|c=waa4 si6
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|preceding a number}} [[Fahrenheit]]
+#: {{zh-x|今天 華{Huá}氏 六十 度。|It's sixty degrees '''Fahrenheit''' today.}}
+
+====See also====
+* {{zh-l|攝氏}}
+
+[[Category:Mandarin terms derived from English|艸08華氏]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|華|氏}}
+
+===Noun===
+{{ja-noun|かし}}
+
+# {{lb|ja|preceding a number}} [[Fahrenheit]]
+
+[[ko:華氏]]
+[[hu:華氏]]
+[[ja:華氏]]

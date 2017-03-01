@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|は|ま|じゅつ|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=はまじゅつ|破魔|tr1=hama|t1=exorcism|術|tr2=jutsu|t2=technique}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|はまじゅつ}}
+
+===Noun===
+{{ja-noun|はまじゅつ}}
+
+# {{lb|ja|sort=はまじゅつ|Buddhism}} [[exorcism]] {{qualifier|the technique of exorcising, rather than the act of doing so}}
+
+====Related terms====
+* {{ja-r|破魔師|はまし}}: an [[exorcist]] {{qualifier|Buddhism}}
+
+====Synonyms====
+* {{ja-r|祓魔術|ふつまじゅつ}} {{qualifier|Christianity}}

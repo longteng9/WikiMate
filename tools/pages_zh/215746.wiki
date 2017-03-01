@@ -1,0 +1,82 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=rènshēn
+|c=jam6 san1,jam4 san1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[pregnancy]]; [[gestation]]
+
+====Usage notes====
+* This is a medical term. The more common term is {{zh-l|懷孕}}.
+
+====Derived terms====
+{{zh-der|妊娠期|妊娠紋}}
+
+{{zh-cat|Medicine|Obstetrics}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|にん|しん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|にんしん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|にんしん}}
+
+# [[pregnancy]], [[conception]]
+
+===Verb===
+{{ja-verb-suru|にんしん|tr=intrans}}
+
+# {{l|en|conceive|id=to become pregnant}} {{gloss|to become pregnant}}
+
+====Conjugation====
+{{ja-suru|にんしん}}
+
+====Related terms====
+{{top2}}
+* [[想像妊娠]]
+* [[妊娠期間]]
+{{mid2}}
+* [[妊娠検査]]
+* [[妊娠中毒]]
+{{bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Obstetrics|にんしん]]
+[[Category:ja:Medicine|にんしん]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=임신}}
+
+# {{hanja form of|임신|[[pregnancy]]}}
+
+[[cs:妊娠]]
+[[fr:妊娠]]
+[[ko:妊娠]]
+[[sw:妊娠]]
+[[hu:妊娠]]
+[[mg:妊娠]]
+[[nl:妊娠]]
+[[ja:妊娠]]
+[[km:妊娠]]
+[[ru:妊娠]]
+[[fi:妊娠]]
+[[chr:妊娠]]
+[[zh:妊娠]]

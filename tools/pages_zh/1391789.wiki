@@ -1,0 +1,53 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+[[青]] ([[green]]) + [[史]] ([[history]])
+: In ancient times, bamboo strips were sewn together to form books. The books were used to record events. Each strip would contain a single column of characters. The "green" in the word refers to the fact that the bamboo strips are green before they are cured and sewn into books. Later on, this word simply came to refer generically to history books.
+
+===Pronunciation===
+{{zh-pron
+|m=qīngshǐ
+|c=cing1 si2
+|mn=qz:chheng-sír/tw,xm,zz:chheng-sú
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[annals]] of [[history]]; [[history]] [[book]]s
+# {{lb|zh|archaic}} [[bamboo]] [[book]]s [[which]] [[were]] [[used]] to [[record]] [[historical]] [[event]]s
+
+[[Image:Bamboo book - binding - UCR.jpg|thumb|right|200px|An example of a bamboo book]]
+
+====Derived terms====
+{{zh-der|青史傳名/青史传名}}
+
+===References===
+* {{pedialite|Bamboo#Bamboo_slip}}
+* {{cite-book
+|last=Luo
+|first=Guanzhong
+|authorlink=w:Luo Guanzhong
+|coauthors=
+|year=
+|title=Annotated [[s:Romance of the Three Kingdoms/Chapter 9#9|Romance of the Three Kingdoms/Chapter 9]], page 116, note 3
+|language=Mandarin
+|publisher=
+|location=
+|isbn=957911305X
+}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|し|yomi=on}}
+
+===Noun===
+{{ja-noun|せいし}}
+
+# a history book
+
+[[zh-min-nan:青史]]
+[[zh:青史]]

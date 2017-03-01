@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=39|rad=子|as=07|sn=10|four=10447|canj=MFVND|ids=⿱不好}}
+
+# [[bad]]
+# [[cowardly]]
+
+====References====
+* {{Han ref|kx=0280.010|dkj=06989|dj=0548.210|hdz=80018.100|uh=5B6C|ud=23404|bh=D165|bd=53605}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=nāo
+|c=naau6,naau1,bou2
+|h=
+|md=
+|mn=
+|w=
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[cowardly]], [[contemptible]]
+
+=====Compounds=====
+{{zh-der|孬種}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=huài
+|c=
+|h=
+|md=
+|mn=oāi
+|w=
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# {{lb|zh|informal|regional}} not good (see {{zh-l|不好}})
+
+====Usage notes====
+The ''huài'' reading is informal or nonstandard only.
+
+{{attention|zh|needs checking}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nao]]|rs=子07}}
+
+# {{defn|lang=vi|sort=子07}}
+
+[[fr:孬]]
+[[mg:孬]]
+[[pl:孬]]
+[[th:孬]]
+[[zh:孬]]

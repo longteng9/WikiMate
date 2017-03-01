@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|易}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|日|一|勿|t1=sun|ls=ic}} The rays of the sun.
+
+===Han character===
+{{Han char|rn=72|rad=日|as=05|sn=9|four=60227|canj=AMSH|ids=⿱旦勿}}
+
+====Derived characters====
+* [[陽]], [[踼]], [[湯]], [[揚]], [[場]], [[腸]], [[𥯕]], [[暘]], [[煬]], [[禓]], [[𥏫]], [[楊]], [[玚]], [[𦳝]], [[瘍]], [[崵]], [[碭]], [[䵮]], [[颺]], [[愓]], [[畼]], [[餳]], [[暢]], [[鍚]]
+* [[傷]], [[觴]], [[殤]] {{qualifier|via variant}}
+
+====References====
+* {{Han ref|kx=0492.170|dkj=13832|dj=0855.170|hdz=21499.070|uh=661C|ud=26140|bh=CEEF|bd=52975}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|𠃓}} (used only as a component)
+
+===Pronunciation===
+{{zh-pron
+|m=yáng
+|c=joeng4
+|mn=iông
+|mc=y
+|oc=y
+|ma=
+|cat=v,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[open]] [[out]], to [[expand]]
+# [[bright]], [[glorious]]
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 122]
+* (''Min Nan'') [http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日05}}
+
+# {{defn|lang=ja|sort=日05}}
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō)|kun=[[あがる]] (agaru), [[ひかり]] (hikari)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=日05|hanviet=dương}}
+
+# {{defn|lang=vi|sort=日05}}
+
+[[fr:昜]]
+[[hu:昜]]
+[[ja:昜]]
+[[pl:昜]]
+[[th:昜]]
+[[zh:昜]]

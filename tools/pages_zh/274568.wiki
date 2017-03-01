@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms|[[street]]|[[way]]<br>[[path]]}}
+
+===Etymology===
+The sense ''street'' comes from the clarifying use of [[街]] to specify the intended sense of [[道]].
+
+The sense ''subdistrict'' comes from the combination of the two separate words [[asyndeton|without a conjunction]]: an area's [[街]]s and [[道]]s, the area itself.
+
+===Pronunciation===
+{{zh-pron
+|m=jiēdào
+|c=gaai1 dou6
+|ma=Zh-jiedào.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[street]] {{zh-mw|條}}
+# [[subdistrict]]; residential district {{zh-mw|個}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|どう|yomi=on}}
+
+===Noun===
+{{ja-noun|かいどう}}
+
+# a [[highway]]
+#: {{ja-usex|甲州'''街道'''|こうしゅう '''かいどう'''|the Koshu '''Highway'''}}
+
+[[ko:街道]]
+[[lo:街道]]
+[[hu:街道]]
+[[mg:街道]]
+[[ja:街道]]
+[[ru:街道]]
+[[chr:街道]]
+[[tr:街道]]
+[[uk:街道]]
+[[zh:街道]]

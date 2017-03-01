@@ -1,0 +1,73 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Reborrowing from {{etym|ja|zh}} {{ja-r|文法|ぶんぽう}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wénfǎ
+|c=man4 faat3
+|mn=bûn-hoat
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[grammar]]
+
+====Synonyms====
+* {{zh-l|語法}}
+
+{{zh-cat|Grammar}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ぶん|ほう|k2=ぽう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ぶんぽう|y=ko|acc=0|acc_ref=NHK,DJR,SMK5}}
+
+===Noun===
+{{ja-noun|ぶんぽう|hhira=ぶんぱふ}}
+
+# [[grammar]]
+
+===References===
+<references/>
+
+[[Category:ja:Grammar|ふんぽう']]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=문법}}
+
+# {{hanja form of|문법|[[grammar]]}}
+
+[[zh-min-nan:文法]]
+[[el:文法]]
+[[fr:文法]]
+[[ko:文法]]
+[[it:文法]]
+[[lo:文法]]
+[[lt:文法]]
+[[li:文法]]
+[[hu:文法]]
+[[mg:文法]]
+[[nl:文法]]
+[[ja:文法]]
+[[uz:文法]]
+[[pl:文法]]
+[[pt:文法]]
+[[ru:文法]]
+[[fi:文法]]
+[[chr:文法]]
+[[tr:文法]]
+[[zh:文法]]

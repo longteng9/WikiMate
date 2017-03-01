@@ -1,0 +1,142 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=03|sn=7|four=10232|canj=ME|ids=⿱工水}}
+
+# [[mercury]] ([[chemical]] [[element]])
+
+====References====
+* {{Han ref|kx=0606.030|dkj=17139|dj=0999.120|hdz=31550.010|uh=6C5E|ud=27742|bh=A845|bd=43077}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gǒng
+|c=hung6,hung3
+|h=pfs=kúng
+|md=
+|mn=hóng
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|chemistry}} [[mercury]] (Hg)
+
+====Synonyms====
+* {{zh-l|水銀}}
+
+====Compounds====
+{{zh-der|汞弧燈|汞極電池|汞中毒|搏砂煉汞|汞合金|汞溴紅|摶砂煉汞|汞齊|昇汞|混汞法|燒丹鍊汞|摶砂弄汞|自然汞|紅汞水|紅汞液|雷汞|鉛汞|汞電池|硫化汞}}
+
+{{zh-cat|Chemical elements}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水03}}
+
+# {{l|en|mercury}}, {{l|en|quicksilver}} {{qualifier|the metal}}
+
+====Readings====
+{{ja-readings
+|goon=[[ぐ]] (gu)
+|kanon=[[こう]] (kō)
+|kun=[[みずがね]] (mizugane)
+}}
+
+===Etymology 1===
+[[File:Pouring_liquid_mercury_bionerd.jpg|thumb|250px|{{lang|ja|汞}} (''mizugane''): [[mercury]].]]
+{{ja-kanjitab|みずがね|yomi=k}}
+Compound of {{compound|lang=ja|sort=みずがね|水|tr1=mizu|t1=water|銀|tr2=kane|t2=metal, silver}}. {{rendaku2|sort=みずがね|kane|gane}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|みずがね}}
+
+====Noun====
+{{ja-noun|みずがね|hhira=みづがね}}
+
+# {{lb|ja|sort=みずがね|chemistry|rare|obsolete}} {{alternative spelling of|水銀|lang=ja}}: {{l|en|mercury}}, {{l|en|quicksilver}}
+
+=====Usage notes=====
+The term ''mizugane'', regardless of kanji spelling, is largely obsolete in modern Japanese.
+
+The usage of this kanji is extremely rare, and it is not used in isolation in modern Japanese. Use {{l|ja|水銀}} instead for the standalone word for {{m|en|mercury}}.
+
+===Etymology 2===
+{{ja-kanjitab|こう|yomi=o}}
+From {{der|ja|ltc|sort=こう|汞|tr={{IPAchar|/ɦuŋX/}}||mercury, quicksilver}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|こう}}
+
+====Noun====
+{{ja-noun|こう}}
+
+# {{l|en|mercury}}, {{l|en|quicksilver}}
+
+=====Usage notes=====
+The ''kō'' reading is used in chemical compounds that include (e.g. {{l|en|corrosive sublimate}}).
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|甘%汞|かん%こう}}: {{l|en|calomel}}, {{l|en|mercury}}(I) {{l|en|chloride}}
+* {{ja-r|雷%汞|らい%こう}}: {{l|en|mercury}}(II) {{l|en|fulminate}}
+{{der-bottom}}
+
+===References===
+* {{R:Kokugo Dai Jiten}}
+* {{R:Daijirin}}
+
+[[Category:ja:Chemical elements|こう']]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=홍|eumhun=|rv=hong|mr=hong|y=hong}}
+
+# {{defn|lang=ko|sort=水03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水03| hanviet = hống}}
+
+# {{defn|lang=vi|sort=水03}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6c5e Nom Foundation]
+
+[[el:汞]]
+[[fr:汞]]
+[[ko:汞]]
+[[lt:汞]]
+[[li:汞]]
+[[hu:汞]]
+[[mg:汞]]
+[[ja:汞]]
+[[no:汞]]
+[[pl:汞]]
+[[pt:汞]]
+[[ro:汞]]
+[[ru:汞]]
+[[th:汞]]
+[[zh:汞]]

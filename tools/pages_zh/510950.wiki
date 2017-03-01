@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|とう|けい|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|とうけい|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|kyu=東經|とうけい}}
+
+# {{lb|ja|geography|sort=とうけい}} [[east]] [[longitude]]
+
+===See also===
+* {{ja-r|西経|せいけい}}: [[west]] [[longitude]]
+
+===References===
+<references/>
+
+[[hu:東経]]
+[[ja:東経]]
+[[zh:東経]]

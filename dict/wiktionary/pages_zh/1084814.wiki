@@ -1,0 +1,91 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tóngháng
+|c=tung4 hong4,tung4 haang4
+|h=pfs=thùng-hàng
+|mn=tông-hâng
+|cat=v,n
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to be of the same [[trade]] or [[occupation]]
+
+====Noun====
+{{zh-noun}}
+
+# [[person]] of the same trade or occupation
+
+===Pronunciation===
+{{zh-pron
+|m=tóngxíng
+|c=tung4 hong4,tung4 haang4
+|h=pfs=thùng-hàng
+|mn=tông-hâng
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[travel]] [[together]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|どう|こう|yomi=o}}
+
+====Pronunciation====
+* {{ja-pron|どうこう|y=o|acc=0|acc_ref=NHK}}
+
+====Noun====
+{{ja-noun|どうこう}}
+
+# [[accompaniment]], going together
+
+====Verb====
+{{ja-verb-suru|tr=intrans|どうこう}}
+
+# [[accompany]], go together
+
+=====Conjugation=====
+{{ja-suru|どうこう}}
+
+===Etymology 2===
+{{ja-kanjitab|どう|ぎょう|yomi=o}}
+
+====Pronunciation====
+* {{ja-pron|どうぎょう|y=o}}
+
+====Noun====
+{{ja-noun|どうぎょう}}
+
+# fellow [[pilgrim]]
+
+===References===
+<references/>
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=동행}}
+
+# {{hanja form of|동행}}
+
+[[zh-min-nan:同行]]
+[[fr:同行]]
+[[ko:同行]]
+[[hu:同行]]
+[[mg:同行]]
+[[tl:同行]]
+[[chr:同行]]
+[[zh:同行]]

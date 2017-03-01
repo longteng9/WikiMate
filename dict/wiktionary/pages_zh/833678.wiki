@@ -1,0 +1,37 @@
+==Japanese==
+{{ja-kanjitab|たん|しゅく|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|たんしゅく|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|たんしゅく}}
+
+# [[shortening]], [[abbreviation]]
+
+====Synonyms====
+* {{ja-r|省略|しょうりゃく}}: abbreviation, [[omission]]
+
+====Antonyms====
+* {{ja-r|延長|えんちょう}}
+
+===Verb===
+{{ja-verb-suru|たんしゅく}}
+
+# [[shrink]], [[shorten]], [[abbreviate]]
+#: {{ja-usex|納期を'''短縮した'''。|のうき を '''たんしゅく した'''。|I moved up the appointed day of delivery.}}
+
+====Conjugation====
+{{ja-suru|たんしゅく}}
+
+====Synonyms====
+* {{ja-r|縮める|ちぢめる}}
+
+===References===
+<references/>
+
+[[ko:短縮]]
+[[hu:短縮]]
+[[mg:短縮]]
+[[ja:短縮]]
+[[zh:短縮]]

@@ -1,0 +1,79 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+{{wikipedia|lang=yue}}
+
+===Pronunciation===
+{{zh-pron
+|m=Tiānwángxīng
+|c=tin1 wong4 sing1
+|mn=qz,tp,xm:Thian-ông-chhiⁿ/kh,zz:Thian-ông-chheⁿ
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-propn}}
+
+# [[Uranus]] {{gloss|planet}}
+
+====See also====
+* {{list:planets of the Solar System/zh}}
+
+{{zh-cat|Planets of the Solar System}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てん|おう|k2=のう|yomi=o|せい}}
+{{wikipedia|lang=ja}}
+[[File:Uranus.jpg|thumb|250px|{{lang|ja|天王星}}]]
+
+===Etymology===
+From {{etyl|lzh|ja}}. {{compound|ja|sort=てんのうせい|天王|tr1=tennō|t1=[[heavenly]] [[king]]|星|tr2=sei|t2=[[star]]}}, named after {{m|en|Uranus}}, the personification of the sky in Greek and Roman mythology.
+
+{{ja-renjō|ō|nō|王|sort=てんのうせい}}
+
+===Pronunciation===
+{{ja-pron|てんのうせい|acc=3|acc2=0|acc_ref=NHK,DJR|acc2_ref=DJR|y=o}}
+
+===Proper noun===
+{{ja-pos|proper|てんのうせい|hhira=てんわうせい}}
+
+# [[Uranus]] {{gloss|planet}}
+
+===See also===
+* {{list:planets of the Solar System/ja}}
+* {{ja-r|ウーラノス|caps=y}}
+* {{ja-r|冥%王%星|^めい%おう%せい}}
+
+===References===
+<references/>
+
+{{topics|ja|Planets of the Solar System|sort=てんのうせい}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Proper noun===
+{{ko-propn|hangeul=천왕성|mr=Ch'ŏnwangsŏng|y=Chen.wangseng}}
+
+# {{hanja form of|천왕성|[[Uranus]]}}
+
+[[af:天王星]]
+[[cs:天王星]]
+[[de:天王星]]
+[[el:天王星]]
+[[fr:天王星]]
+[[ko:天王星]]
+[[lo:天王星]]
+[[lt:天王星]]
+[[li:天王星]]
+[[hu:天王星]]
+[[ja:天王星]]
+[[oc:天王星]]
+[[pl:天王星]]
+[[pt:天王星]]
+[[sv:天王星]]
+[[zh:天王星]]

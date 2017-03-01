@@ -1,0 +1,29 @@
+{{also|斜體}}
+==Chinese==
+{{zh-see|斜體}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|しゃ|たい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=o|しゃたい}}
+
+===Noun===
+{{ja-noun|しゃたい|kyu=斜體}}
+
+# {{lb|ja|typography|sort=しゃたい}} a [[typographic]] [[type]] in which [[glyph]]s are [[slant]]ed and [[scale]]d<ref>[https://helpx.adobe.com/indesign/using/formatting-cjk-characters.html#apply_shatai_to_text <nowiki>InDesign Help /
+Format CJK characters</nowiki>]</ref>
+# {{lb|ja|typography|sort=しゃたい}} the [[oblique]] [[type]] in general
+
+===See also===
+* {{ja-r|イタリック体|イタリックたい|gloss=[[italic]] type}}
+* {{ja-r|太字|ふとじ}}; {{ja-r|ボールド体|ボールドたい|gloss=[[bold]] type}}
+* {{ja-r|下線|かせん|gloss=[[underline]]}}
+
+===References===
+<references/>
+[[ja:斜体]]
+[[zh:斜体]]

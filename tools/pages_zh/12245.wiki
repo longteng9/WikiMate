@@ -1,0 +1,133 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=05|sn=8|four=66010|canj=RAM|ids=⿰口旦}}
+
+# {{defn|Han|sort=口05}}
+
+====References====
+* {{Han ref|kx=0184.010|dkj=03474|dj=0403.010|hdz=10600.010|uh=547E|ud=21630|bh=CBE3|bd=52195}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=dá
+|c=daat3
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=dàn
+|c=taan2
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=tǎ
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only used in|呾噠}}
+
+===Etymology 4===
+
+====Pronunciation====
+{{zh-pron
+|m=yà
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===Etymology 5===
+{{zh-forms|alt=詚}}
+
+====Pronunciation====
+{{zh-pron
+|m=
+|c=
+|h=
+|md=
+|mn=tàⁿ
+|mn-t=dan3
+|w=
+|mc=
+|oc=
+|mn-ta=Nan-teochew-dan3.ogg
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Min Nan}} to [[say]]; to [[speak]]
+# {{lb|zh|Teochew}} to [[speak]] a certain language
+#* {{zh-x|汝 覺得 呾 潮州話 在 新加坡 應 唔 應該 流傳 下去？抑是\啊是 華人 呾 華語 就 夠 了？|Do you think{{sic}} Teochew language should be preserved in Singapore or is Mandarin good enough?|MN-T|ref='''2015''', Li Wei, ''Multilingualism in the Chinese Diaspora Worldwide: Transnational Connections and Local Social Realities'', Routledge (ISBN 9781317638988), page 209}}
+# {{lb|zh|Teochew}} to [[tell someone off]]
+
+=====Synonyms=====
+* {{sense|say}}
+{{zh-dial|說}}
+
+===References===
+* {{R:twedu|B00303}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口05}}
+
+# {{defn|lang=ja|sort=口05}}
+
+====Readings====
+* {{ja-readings|on=[[たつ]] (tatsu), [[たち]] (tachi), [[あつ]] (atsu), [[えち]] (echi), [[てち]] (techi)|kun=[[しかりあう]] (shikariau), [[よびあう]] (yobiau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=달|rv=dal|mr=tal}}
+
+# {{defn|lang=ko|sort=口05}}
+
+[[zh-min-nan:呾]]
+[[fr:呾]]
+[[li:呾]]
+[[hu:呾]]
+[[pl:呾]]
+[[th:呾]]
+[[zh:呾]]

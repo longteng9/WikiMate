@@ -1,0 +1,57 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=08|sn=12|four=60141|canj=AMMK|ids=⿱日政}}
+
+# [[appearance]] of the [[sun]]
+
+====References====
+* {{Han ref|kx=0497.120|dkj=14007|dj=0863.200|hdz=21522.190|uh=6678|ud=26232|bh=DDC7|bd=56775}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhěng
+|c=zing2
+|mc=
+|oc
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日08}}
+
+# {{defn|lang=ja|sort=日08}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei), [[ちょう]] (chō)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=정|eumhun=|rv=jeong|mr=chŏng|y=ceng}}
+
+# {{defn|lang=ko|sort=日08}}
+
+[[fr:晸]]
+[[hu:晸]]
+[[pl:晸]]
+[[th:晸]]
+[[zh:晸]]

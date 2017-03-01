@@ -1,0 +1,90 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dìxià
+|c=dei6 haa6
+|h=pfs=thi-hâ
+|mn=xm,kh:tē-hā/tp:tōe-hā/qz:tē-hǎ/zz:tē-hēe/xm,tp:tōe-ē/kh:tē-ē/zz:tē-ēe
+|cat=a,n
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# {{lb|zh|literal}} [[underground]]
+# {{lb|zh|figurative}} [[underground]]; [[secretive]]
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[underworld]]
+
+====Derived terms====
+{{zh-der|不知天高地下|地下修文|地下修文郎|地下停車場|地下化|地下夫人|地下室|地下工作|地下工廠|地下投資|地下有知|地下核爆|地下核試|地下水|地下水位|地下水面|地下油行|地下的|地下經濟|地下舞廳|地下莖|地下街|地下資源|地下道|地下錢莊|地下鐵|地下電臺|大毒日頭地下|天上少有，地下無雙|平地下鍬撅|炕上地下|鐵路地下化}}
+
+===Pronunciation===
+{{zh-pron
+|m=dìxia
+|c=dei6 haa6-2,dei6 haa6
+|g=ti5 ha
+|h=pfs=thi-hâ
+|x=di5 ha
+|cat=n
+}}
+
+====Noun====
+{{zh-adj}}
+
+# [[ground]]; [[floor]]
+#: {{zh-x|你 唔好 坐 喺 地下{haa6-2} 啦。|Don't sit on the '''floor'''.|C}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ち|か}}
+
+===Etymology===
+{{m|ja|地||ground|tr=ち, chi|sc=Jpan}}
++ {{m|ja|下||under|tr=か, ka|sc=Jpan}}
+
+===Noun===
+{{ja-noun|ちか}}
+
+# [[underground]]; [[subterranean]]
+#: {{ja-usex|地下２階|^ちか に かい|second basement}}
+
+====Idioms====
+* 地下に潜る
+*: ちかにもぐる
+*: ''chika ni moguru''
+*: go underground (as in a political movement)
+
+====Derived terms====
+* {{l|ja|地下運動}}
+* {{l|ja|地下化}}
+* {{l|ja|地下街}}
+* {{l|ja|地下茎}}
+* {{l|ja|地下工作}}
+* {{l|ja|地下資源}}
+* {{l|ja|地下室}}
+* {{l|ja|地下核実験}}
+* {{l|ja|地下水}}
+* {{l|ja|地下線}}
+* {{l|ja|地下組織}}
+* {{l|ja|地下鉄}}
+* {{l|ja|地下道}}
+* {{l|ja|地下牢}}
+
+[[zh-min-nan:地下]]
+[[ko:地下]]
+[[lt:地下]]
+[[hu:地下]]
+[[ja:地下]]
+[[fi:地下]]
+[[chr:地下]]
+[[uk:地下]]
+[[zh:地下]]

@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=ān危
+|c=on1 ngai4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[safety]] and [[danger]]
+
+{{zh-cat|Antonymous}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|あん|き}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=あんき}} compound {{m|zh|安危|tr=ʔan ngjwe|lit=peace + danger}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|あんき|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|あんき}}
+
+# [[safety]] and [[danger]]
+
+===References===
+<references/>
+
+[[ko:安危]]
+[[zh:安危]]

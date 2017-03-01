@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|椫}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=12|sn=16|four=46956|canj=DRRJ|ids=⿰木單}}
+
+# [[coffin]]
+
+====References====
+* {{Han ref|kx=0552.080|dkj=15504|dj=0940.120|hdz=21291.150|uh=6A3F|ud=27199|bh=E9CD|bd=59853}}
+
+----
+
+==Chinese==
+{{zh-forms|s=椫}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shàn
+|c=sin6,zin2
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木12}}
+
+# [[coffin]]
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen), [[ぜん]] (zen)|kun=[[つげ]] (tsuge)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|eumhun=|rv=jeon|mr=chŏn|y=cen}}
+
+# [[coffin]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木12| hanviet = [[đàn]], [[thiện]]}}
+
+# {{defn|lang=vi|sort=木12}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6a3f Nom Foundation]
+
+[[fr:樿]]
+[[hu:樿]]
+[[pl:樿]]
+[[th:樿]]
+[[zh:樿]]

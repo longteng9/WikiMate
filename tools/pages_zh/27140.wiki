@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|谓}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=09|sn=16|four=06627|canj=YRWB|ids=⿰言胃}}
+
+# [[say]], [[tell]]
+# [[call]], [[name]]
+# be called
+
+====References====
+* {{Han ref|kx=1173.120|dkj=35759|dj=1638.070|hdz=63997.060|uh=8B02|ud=35586|bh=BFD7|bd=49111}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谓}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|訁|畏|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wèi
+|c=wai6
+|h=pfs=
+|md=
+|mn=ūi
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言09}}
+
+# {{defn|lang=ja|sort=言09}}
+
+====Readings====
+* {{ja-readings|on=[[い]] (i)|kun=[[いう]] (iu), [[おもう]] (omou), [[いい]] (ii)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=위|eumhun=|rv=wi|mr=wi|y=wi}}
+
+# {{defn|lang=ko|sort=言09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=言09| hanviet = vị}}
+
+# {{defn|lang=vi|sort=言09}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=8b02 Nom Foundation]
+
+[[fr:謂]]
+[[ko:謂]]
+[[hu:謂]]
+[[mg:謂]]
+[[ja:謂]]
+[[pl:謂]]
+[[th:謂]]
+[[vi:謂]]
+[[zh:謂]]

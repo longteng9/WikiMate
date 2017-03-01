@@ -1,0 +1,105 @@
+{{character info/new}}
+{{also|挙}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=06|sn=10|four=90502|canj=FQQ|ids=⿱龹手}}
+
+# [[fist]]
+# various forms of [[boxing]]
+
+====Related characters====
+* [[券]]<!-- same phonetic: 龹 -->
+
+====References====
+* {{Han ref|kx=0428.040|dkj=11996|dj=0777.020|hdz=31864.080|uh=62F3|ud=25331|bh=AEB1|bd=44721}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|龹|手|t2=hand|ls=psc|c1=p|c2=s}} – a fist is a form of a hand.
+
+===Pronunciation===
+{{zh-pron
+|m=quán
+|c=kyun4
+|h=pfs=
+|md=
+|mn=qz,xm:koân/zz:khoân/kûn
+|mn_note=koân/khoân - literary; kûn - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[fist]]
+
+====Compounds====
+{{zh-der|拳棒|拳打|拳打腳踢|拳擊|拳腳|拳派|拳譜|拳曲|拳拳|拳拳服膺|拳師|拳術|拳壇|拳套|拳頭|拳頭產品|拳王}}
+
+====References====
+* {{thcwd|5977}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手06}}
+
+# ken, a game played with the hands; a game of hands; in Italian, mor(r)a, a game in which two (or more) players each suddenly display a hand showing zero to five fingers and call out what they think will be the sum of all fingers shown.
+# fist, usually as a suffix in the name of martial arts moves
+
+====Readings====
+* {{ja-readings|goon=[[げん]] (gen)|kanon=[[けん]] (ken)|kun=[[こぶし]] (kobushi)}}
+
+====Compounds====
+* {{ja-r|拳骨|げんこつ}}
+* {{ja-r|拳闘|けんとう}}: [[boxing]]
+* {{ja-r|拳法|けんぽう}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[권]]|eumhun=|rv=gwon|mr=kwŏn|y=kwen}}
+
+# {{defn|lang=ko|sort=手06}}
+
+====Compounds====
+* [[跆拳道]] (태권도): [[taekwondo]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quyền]], [[quèn]], [[long]], [[thành]]|rs=手06}}
+
+# {{defn|lang=vi|sort=手06}}
+
+[[zh-min-nan:拳]]
+[[cs:拳]]
+[[fr:拳]]
+[[ko:拳]]
+[[lo:拳]]
+[[hu:拳]]
+[[mg:拳]]
+[[ms:拳]]
+[[ja:拳]]
+[[no:拳]]
+[[pl:拳]]
+[[ru:拳]]
+[[sv:拳]]
+[[th:拳]]
+[[chr:拳]]
+[[zh:拳]]

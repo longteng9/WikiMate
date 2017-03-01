@@ -1,0 +1,88 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=04|sn=9|four=00117|canj=KAU|ids=⿸疒巴}}
+
+====References====
+* {{Han ref|kx=0769.310|dkj=22051|dj=1180.050|hdz=42664.010|uh=75A4|ud=30116|bh=ACCD|bd=44237}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bā
+|c=baa1
+|h=pfs=pâ
+|md=
+|mn=pa
+|w=
+|mc=
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[scar]]; [[cicatrix]] {{zh-mw|m:道|m:條}}
+
+====Synonyms====
+* {{zh-l|疤痕}}
+* {{zh-l|傷疤}}
+* {{zh-l|傷痕}}
+
+====Usage notes====
+* The [[measure word]] {{zh-l|道}} is usually used for thick scars, whilst {{zh-l|條}} is typically used for thin scars.
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒04}}
+
+# {{defn|lang=ja|sort=疒04}}
+
+====Readings====
+* {{ja-readings|on=[[は]] (ha), [[へ]] (he)|kun=[[やまい]] (yamai)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=파|eumhun=|rv=pa|mr=p'a|y=pha}}
+
+# {{defn|lang=ko|sort=疒04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''疤''' ([[ba]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:疤]]
+[[fr:疤]]
+[[ko:疤]]
+[[hu:疤]]
+[[mg:疤]]
+[[ja:疤]]
+[[no:疤]]
+[[pl:疤]]
+[[ru:疤]]
+[[th:疤]]
+[[chr:疤]]
+[[uk:疤]]
+[[zh:疤]]

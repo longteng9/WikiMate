@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=èrdù
+|c=ji6 dou6
+|cat=adv
+}}
+
+===Adverb===
+{{zh-adv}}
+
+# [[twice]]; [[again]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|に|ど|yomi=on}}
+
+===Noun===
+{{ja-noun|にど}}
+
+# a second time
+#: {{ja-usex|二度は言わない。|にどはいわない。|I won't say it a second time.}}
+
+===Adverb===
+{{ja-pos|にど|adverb}}
+
+# [[twice]]
+# [[again]]
+
+===References===
+* {{R:Meikyo}}
+
+[[mg:二度]]
+[[ja:二度]]
+[[chr:二度]]
+[[zh:二度]]

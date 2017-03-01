@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qírén
+|c=kei4 jan4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} an [[extraordinary]] [[man]]
+# {{lb|zh|literary}} an [[odd]] man; an [[eccentric]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|き|じん|yomi=on}}
+
+===Etymology===
+Likely from {{etyl|ltc|ja|sort=きじん}} compound {{m|ltc|奇人|tr=*ghyɛ *njin}}. Compare modern {{cog|zh|奇人|tr=qírén}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|h|き|じん}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[kid͡ʑĩɴ]}}
+
+===Alternative forms===
+* {{ja-l|畸人}}
+
+===Noun===
+{{ja-noun|きじん}}
+
+# an [[eccentric]], a [[strange]] or [[unusual]] person, someone who is quite a [[character]]
+
+====Synonyms====
+* {{ja-l|変人|へんじん|henjin}}
+* {{ja-l|変わり者|かわりもの|kawarimono}}
+
+====See also====
+* {{pedialite|lang=ja}}
+
+===References===
+<references/>
+* {{R:Kokugo Dai Jiten}}
+
+[[ko:奇人]]
+[[zh:奇人]]

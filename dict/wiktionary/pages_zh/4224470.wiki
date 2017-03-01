@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=不bìyāo
+|c=bat1 bit1 jiu3
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[unnecessary]]; [[needless]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふ|ひつ|よう|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|ふひつよう}}
+
+# [[unnecessary]]
+
+====Inflection====
+{{ja-na|ふひつよう}}
+
+====Antonyms====
+* {{ja-r|必要|ひつよう}}
+
+===Noun===
+{{ja-noun|ふひつよう}}
+
+# [[needlessness]]
+
+[[ko:不必要]]
+[[mg:不必要]]
+[[ja:不必要]]
+[[pl:不必要]]
+[[fi:不必要]]
+[[zh:不必要]]

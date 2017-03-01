@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+From {{zh-l|使}} meaning "to cause".
+
+====Pronunciation====
+{{zh-pron
+|m=shǐrén
+|c=si2 jan4
+|h=pfs=sṳ́-ngìn
+|cat=n,v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[cause]] someone to, to [[make]] someone to
+
+===Etymology 2===
+From {{zh-l|使}} meaning "to send".
+
+====Pronunciation====
+{{zh-pron
+|m=使rén<!--third tone in southern areas, fourth tone in northern areas-->
+|c=si3 jan4
+|h=pfs=sṳ́-ngìn
+|cat=n,v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[send]] [[someone]]
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|literary}} a [[servant]]
+# {{lb|zh|literary}} an [[emissary]]; an [[envoy]]; a [[messenger]]
+
+[[mg:使人]]
+[[zh:使人]]

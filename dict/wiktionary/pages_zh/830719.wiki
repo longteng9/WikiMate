@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms|lit=old, previous life}}
+{{zh-wp}}
+
+===Etymology===
+Translation of {{der|zh|sa|जातिस्मर||recollecting a former existence; memory of previous births}}. The Tibetan equivalent is {{m|bo|ཚེ་རབས་དྲན་པ}}.
+
+===Pronunciation===
+{{zh-pron
+|m=sùmìng
+|c=suk1 ming6
+|mn=sok-miā
+|mc=2,1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Buddhism}} [[destiny]]; [[fate]]; [[fatality]]; [[karma]]
+
+====Derived terms====
+{{zh-der|宿命論|宿命通}}
+
+====Descendants====
+{{CJKV||しゅくめい|숙명|túc mệnh}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅく|めい|yomi=on}}
+
+===Noun===
+{{ja-noun|しゅくめい}}
+
+# [[destiny]]
+
+====Compounds====
+* {{l/ja|宿命的}}
+* {{l/ja|宿命論}}
+
+[[zh-min-nan:宿命]]
+[[ko:宿命]]
+[[ku:宿命]]
+[[lt:宿命]]
+[[mg:宿命]]
+[[ja:宿命]]
+[[ru:宿命]]
+[[chr:宿命]]
+[[zh:宿命]]

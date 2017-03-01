@@ -1,0 +1,70 @@
+{{character info/new}}
+{{also|麵}}
+==Translingual==
+{{Han simplified forms|麵|麺|面}}
+
+===Etymology===
+Japanese shinjitai, {{Han simp|麵|f=麥|t=麦|nocap=y}}.
+
+===Han character===
+{{Han char|rn=199|rad=麦|as=09|sn=16|four=|canj=QEMWL|ids=⿰麦面}}
+
+====References====
+* {{Han ref|kx=1514.571|hdz=74605.121|uh=9EBA|ud=40634}}
+
+----
+
+==Chinese==
+{{zh-see|麵|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=麦09|style=s|kyu=麵}}
+
+# [[flour]]
+# [[noodles]]
+
+====Readings====
+{{ja-readings|goon=[[めん]] (men)|kanon=[[べん]] (ben)|kun=[[むぎこ]] (mugiko)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|素麺|そうめん}}: [[somen]]
+* {{ja-r|麺棒|めんぼう}}: [[rolling pin]]
+* {{ja-r|拉麺|ラーメン}}: [[ramen]]
+{{der-bottom}}
+
+{{wikipedia|lang=ja}}
+
+===Etymology===
+{{ja-kanjitab|めん|yomi=o}}
+From {{etyl|ltc|ja|sort=めん}} {{m|zh|麵}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|めん|acc=1|acc_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|麪}}
+
+===Noun===
+{{ja-noun|めん}}
+
+# [[noodles]]
+
+===References===
+<references/>
+
+[[Category:ja:Foods|めん]]
+
+[[fr:麺]]
+[[ko:麺]]
+[[lo:麺]]
+[[hu:麺]]
+[[ja:麺]]
+[[pl:麺]]
+[[th:麺]]
+[[chr:麺]]
+[[zh:麺]]

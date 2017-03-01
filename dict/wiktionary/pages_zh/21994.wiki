@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=08|sn=13|four=17620|canj=MRBB|ids=⿰石朋}}
+
+====References====
+* {{Han ref|kx=0831.230|dkj=24254|dj=1247.200|hdz=42439.040|uh=787C|ud=30844|bh=B84E|bd=47182}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=péng
+|c=pang4,paang4
+|md=bèng
+|h=pfs=phìn
+|mn=qz:phn̂g/tw,xm,zz:phêng/twv:pêng
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[borax]]
+# [[boron]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=pēng
+|c=paang1
+|mc=
+|oc=
+|ma=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only used in|硼砰}}
+
+{{zh-cat|Chemical elements}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=石08}}
+
+# {{defn|lang=ja|sort=石08}}
+
+====Readings====
+* {{ja-readings|kanon=[[ほう]] (hō)|goon=[[ひょう]] (hyō)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[붕]], [[평]]|eumhun=|rv=bung, pyeong|mr=pung, p'yŏng|y=pung, phyeng}}
+
+# {{defn|lang=ko|sort=石08}}
+
+[[de:硼]]
+[[es:硼]]
+[[fr:硼]]
+[[lt:硼]]
+[[hu:硼]]
+[[mg:硼]]
+[[nl:硼]]
+[[ja:硼]]
+[[pl:硼]]
+[[ro:硼]]
+[[th:硼]]
+[[vi:硼]]
+[[zh:硼]]

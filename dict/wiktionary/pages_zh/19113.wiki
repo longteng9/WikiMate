@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|渊}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=08|sn=11|four=32100|canj=ELXL|ids=⿰氵𣶒}}
+
+# [[gulf]], [[abyss]], [[deep]]
+# [[surge]] [[up]], [[bubble]] up, [[gush]] [[forth]]
+
+====References====
+* {{Han ref|kx=0632.080|dkj=17692|dj=1035.030|hdz=31681.010|uh=6DF5|ud=28149|bh=B257|bd=45655}}
+
+----
+
+==Chinese==
+{{zh-forms|s=渊}}
+
+===Alternative forms===
+* {{zh-l|渕}}, {{zh-l|𣶒}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuān
+|c=jyun1
+|mn=ian
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水08}}
+
+# [[abyss]]
+# [[edge]]
+# [[deep]] [[pool]]
+
+====Readings====
+* {{ja-readings|on=[[えん]] (en)|kun=[[ふち]] (fuchi)}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|ふち}}
+
+===Noun===
+{{ja-noun|ふち}}
+
+# [[abyss]]; [[deep]] [[pool]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=연|eumhun=|rv=yeon, [[yun]]|mr=yŏn|y=[[yen]]}}
+
+# {{defn|lang=ko|sort=水08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水08| hanviet = uyên}}
+
+# {{defn|lang=vi|sort=水08}}
+
+[[fr:淵]]
+[[ko:淵]]
+[[hu:淵]]
+[[ja:淵]]
+[[pl:淵]]
+[[th:淵]]
+[[zh:淵]]

@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|骤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=14|sn=24|four=77332|canj=SFSEO|ids=⿰馬聚}}
+
+# [[procedure]]
+# [[gallop]]
+# [[sudden]], [[suddenly]]
+
+====References====
+* {{Han ref|kx=1446.210|dkj=45048|dj=1971.190|hdz=74581.120|uh=9A5F|ud=39519|bh=C64A|bd=50762}}
+
+----
+
+==Chinese==
+{{zh-forms|s=骤}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=骤
+|c=zaau6,zau6
+|h=pfs=
+|md=
+|mn=qz,tw,xm,zz:chō͘
+|w=
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[sudden]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬14}}
+
+# {{defn|lang=ja|sort=馬14}}
+
+====Readings====
+* {{ja-readings|on=[[しゅう]] (shū)|kun=[[はせる]] (haseru), [[にわか]] (niwaka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=취|eumhun=|rv=chwi|mr=ch'wi|y=chwi}}
+
+# {{defn|lang=ko|sort=馬14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sậu]]|rs=馬14}}
+
+# {{defn|lang=vi|sort=馬14}}
+
+[[fr:驟]]
+[[hu:驟]]
+[[mg:驟]]
+[[ja:驟]]
+[[pl:驟]]
+[[th:驟]]
+[[zh:驟]]

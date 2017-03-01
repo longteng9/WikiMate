@@ -1,0 +1,39 @@
+==Japanese==
+{{ja-kanjitab|はつ|でん|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|はつでん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はつでん|kyu=發電}}
+
+# [[power]] [[generation]] {{lb|ja|electricity|sort=はつでん}}
+
+====Derived terms====
+* {{ja-r|発電所|はつでんしょ|gloss=[[electric]] power plant}}
+* {{ja-r|水力発電|すいりょく はつでん|gloss=[[hydroelectric]] power generation}}
+* {{ja-r|火力発電|かりょく はつでん|gloss=[[thermal]] power generation}}
+* {{ja-r|原子力発電|げんしりょく はつでん|gloss=[[nuclear]] power generation}}
+* {{ja-r|地熱発電|ちねつ はつでん|gloss=[[geothermal]] power generation}}
+* {{ja-r|太陽光発電|たいようこう はつでん|gloss=[[solar]] power generation}}
+
+===Verb===
+{{ja-verb-suru|はつでん|kyu=發電}}
+
+# to generate power
+
+====Conjugation====
+{{ja-suru|はつでん}}
+
+===References===
+* {{R:Shogakukan}}
+<references/>
+
+[[Category:ja:Energy|はつでん]]
+
+[[fr:発電]]
+[[lo:発電]]
+[[hu:発電]]
+[[ja:発電]]
+[[pt:発電]]
+[[zh:発電]]

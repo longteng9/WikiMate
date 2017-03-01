@@ -1,0 +1,46 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=15|sn=23|four=|canj=CGWC}}
+
+====References====
+* {{Han ref|kx=1326.030|dkj=41016|dj=1827.060|hdz=64269.100|uh=945F|ud=37983}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han compound|金|𧸇|c1=s|c2=p|t1=metal|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=dú
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[seal]] [[box]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金15}}
+
+# {{defn|lang=ja|sort=金15}}
+
+====Readings====
+* {{ja-readings|on=[[とく]] (toku), [[どく]] (doku)|kun=[[いんばこ]] (imbako)|nanori=}}
+
+[[fr:鑟]]
+[[hu:鑟]]
+[[mg:鑟]]
+[[pl:鑟]]
+[[th:鑟]]
+[[zh:鑟]]

@@ -1,0 +1,30 @@
+{{also|麻将}}
+==Chinese==
+{{zh-forms|s=麻将}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+From {{zh-l|麻雀|sparrow}}, with a diminutive suffix {{IPAchar|/ŋ̍/}} (syllabic velar nasal) from some Wu dialect (compare Modern Wenzhou dialect {{IPAchar|/ŋ̍/}}). This suffix then fused with the preceding syllable, and was conserved in the form of a nasal rime {{IPAchar|/-ŋ/}}. As an example compare Modern Shanghai dialect {{zh-l|雀|tr=-}} (''old pron.'': {{IPAchar|/t͡ɕiᴀʔ⁵⁵/}}) + {{IPAchar|/-ŋ̍/}} → {{zh-l|*將|tr=-}} {{IPAchar|/t͡ɕiã⁵³/}}.
+
+The game of ''mahjong'' was called {{zh-l|馬吊}} during the {{w|Ming Dynasty|Ming}} and {{w|Qing Dynasty|Qing}} dynasties, where the second syllable presumably represented a Wu dialectal pronunciation of {{zh-l|鳥}} ("bird", see there for more).
+
+===Pronunciation===
+{{zh-pron
+|m=májiàng
+|h=pfs=mà-chiông
+|c=maa4 zoeng3
+|w=3mo qian
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[mahjong]]
+# {{lb|zh|chiefly|Wu|dated|_|in|_|Shanghai}} [[sparrow]]
+
+====Synonyms====
+{{zh-dial}}
+{{zh-dial|麻雀}}
+
+{{zh-cat|Birds|Games}}

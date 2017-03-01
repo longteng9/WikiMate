@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|夂|攵}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+{{Han etyl}}
+{{liushu|p}} – footprint (pointing down), variant of [[夂]]. Compare [[止]], which has similar form in oracle script, but has leg pointing up, and [[𡕒]] (as in right side of [[舛]], roughly [[ヰ]]), which also has leg pointing down, but toe pointing left, hence different evolutions.
+
+===Han character===
+{{Han char|rn=35|rad=夊|as=00|sn=3|four=|canj=HE,XXHE}}
+
+# {{mul-kangxi radical-def}}
+# [[go]] [[slowly]]
+
+====References====
+* {{Han ref|kx=0245.010|dkj=05708|dj=0485.180|hdz=20867.160|uh=590A|ud=22794}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=suī
+|c=seoi1
+|h=pfs=soi, sui
+|mn=sui
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=v
+}}
+
+====References====
+* [http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=9|rs=夊00}}
+
+# {{defn|lang=ja|sort=夊00}}
+
+====Readings====
+* {{ja-readings|on=[[すい]] (sui)|kun=[[すいにょう]] (suinyō)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[truy]]|rs=夊00}}
+
+# {{defn|lang=vi|sort=夊00}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=590a Nom Foundation]
+
+[[Category:CJKV radicals| ]]
+
+[[fr:夊]]
+[[ko:夊]]
+[[li:夊]]
+[[hu:夊]]
+[[mg:夊]]
+[[ja:夊]]
+[[pl:夊]]
+[[ru:夊]]
+[[th:夊]]
+[[zh:夊]]

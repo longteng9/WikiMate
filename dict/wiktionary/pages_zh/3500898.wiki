@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=méijiè
+|c=mui4 gaai3
+|mn=mûi-kài
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[medium]]; [[intermediary]]; [[vehicle]]
+#: {{zh-x|敘事 媒介|narrative '''media'''}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ばい|かい|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ばいかい|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ばいかい}}
+
+# [[intermediary]]
+# [[carrier]] of disease
+
+===Verb===
+{{ja-verb-suru|ばいかい}}
+
+# [[mediate]]
+# [[carry]] a disease
+
+====Conjugation====
+{{ja-suru|ばいかい}}
+
+===References===
+<references/>
+
+[[ko:媒介]]
+[[mg:媒介]]
+[[ja:媒介]]
+[[zh:媒介]]

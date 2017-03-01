@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=07|sn=9|four=28257|canj=OOWY|ids=⿰亻毎 <small>(J)</small>,⿰亻每 <small>(GTK)</small>}}
+
+# [[insult]], [[ridicule]], [[disgrace]]
+
+====References====
+* {{Han ref|kx=0103.010|dkj=00629|dj=0218.170|hdz=10163.010|uh=4FAE|ud=20398|bh=AB56|bd=43862}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wǔ
+|c=mou5
+|mn=bú
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=人07}}
+
+# [[contempt]], [[disdain]], [[scorn]]
+
+====Readings====
+{{ja-readings
+|goon=[[む]] (mu)
+|kanon=[[ぶ]] (bu)
+|kun=[[あなどる]] ([[侮る]], anadoru), [[あなどり]] ([[侮り]], anadori), [[あなずる]] ([[侮る]], anazuru) {{non-joyo-reading}}, [[あなずり]] ([[侮り]], anazuri) {{non-joyo-reading}}
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=모|rv=mo|mr=mo}}
+
+# {{defn|lang=ko|sort=人07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[vũ]], [[vụ]]|rs=人07}}
+
+# {{defn|lang=vi|sort=人07}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4fae Nom Foundation]
+
+[[fr:侮]]
+[[ko:侮]]
+[[hu:侮]]
+[[mg:侮]]
+[[ja:侮]]
+[[no:侮]]
+[[pl:侮]]
+[[th:侮]]
+[[zh:侮]]

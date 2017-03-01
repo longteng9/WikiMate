@@ -1,0 +1,99 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhūquè
+|c=zyu1 zoek3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# Vermilion Bird (the seven mansions of the south sky)
+# [[rosefinch]] (Carpodacus erythrinus)
+
+{{zh-cat|Mythological creatures}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{wikipedia|Vermilion Bird}}
+
+===Etymology 1===
+{{ja-kanjitab|す|さく|k2=ざく|r=y|yomi=o}}
+From {{etyl|zh|ja|sort=すざく}} {{m|zh|朱雀}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|すざく|acc=a|acc2=h|acc_ref=DJR|acc2_ref=DJR|y=go}}
+
+====Proper noun====
+{{ja-pos|proper|すざく}}
+
+# {{w|Vermilion Bird}}, one of the [[w:Four Symbols (China)|Four Symbols]] in the [[w:Chinese constellations|Chinese constellations]]
+
+===Etymology 2===
+{{ja-kanjitab|す|さく|k2=ざか|r=y|yomi=irr|sort=すざか}}
+{{rfe|lang=ja}}
+
+====Proper noun====
+{{ja-pos|proper|すざか}}
+
+# {{w|Vermilion Bird}}
+
+===Etymology 3===
+{{ja-kanjitab|す|じゃく|yomi=o}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|すじゃく|acc=a|acc2=h|acc_ref=DJR|acc2_ref=DJR|y=o}}
+
+====Proper noun====
+{{ja-pos|proper|すじゃく|hhira=すじやく}}
+
+# {{w|Vermilion Bird}}
+
+===Etymology 4===
+{{ja-kanjitab|しゅ|さく|k2=さか|yomi=irr|sort=しゅさか}}
+{{rfe|lang=ja}}
+
+====Proper noun====
+{{ja-pos|proper|しゅさか|hhira=しゆさか}}
+
+# {{w|Vermilion Bird}}
+
+===Etymology 5===
+{{ja-kanjitab|しゅ|じゃく|yomi=o}}
+{{rfe|lang=ja}}
+
+====Proper noun====
+{{ja-pos|proper|しゅじゃく|hhira=しゆじやく}}
+
+# {{w|Vermilion Bird}}
+
+===Etymology 6===
+{{ja-kanjitab|しゅ|じゃく|k2=じゃか|yomi=irr|sort=しゅじゃか}}
+{{rfe|lang=ja}}
+
+====Proper noun====
+{{ja-pos|proper|しゅじゃか|hhira=しゆじやか}}
+
+# {{w|Vermilion Bird}}
+
+===See also===
+* {{ja-r|青%竜|^せい%りゅう|[[azure|Azure]] [[dragon|Dragon]]}}
+* {{ja-r|白%虎|^びゃっ%こ|[[white|White]] [[tiger|Tiger]]}}
+* {{ja-r|玄%武|^げん%ぶ|[[black|Black]] [[tortoise|Tortoise]]}}
+* {{ja-r|黄%竜|^こう%りゅう|[[yellow|Yellow]] [[dragon|Dragon]]}}
+
+===References===
+<references/>
+
+{{cln|ja|words with multiple readings}}
+{{C|ja|Mythological creatures|Gods|Constellations|Astronomy|Astrology|sort=すざく}}
+
+[[ja:朱雀]]
+[[zh:朱雀]]

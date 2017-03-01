@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|僱}}
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|戶|隹|c1=p|c2=s|ls=psc}}.
+
+===Han character===
+{{Han char|rn=172|rad=隹|as=04|sn=12|four=30214|canj=HSOG,ISOG|ids=⿸戸隹}}
+
+# employ, to hire
+
+====Descendants====
+* [[顧]]
+
+====References====
+* {{Han ref|kx=1365.180|dkj=41976|dj=1870.020|hdz=64096.020|uh=96C7|ud=38599|bh=B6B1|bd=46769}}
+
+----
+
+==Chinese==
+{{attention|zh|please check}}
+
+===Etymology 1===
+{{zh-see|僱||to [[hire]]}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=hù
+|c=
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:twedu|A04456}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=隹04}}
+
+# {{defn|lang=ja|sort=隹04}}
+
+====Readings====
+* {{ja-readings|goon=[[く]] (ku) {{non-joyo-reading}}, [[ぐ]] (gu) {{non-joyo-reading}}|kanon=[[こ]] (ko)|kun=[[やとう]] (yatou), [[やとい]] (yatoi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[고]], [[호]]|eumhun=|rv=go, ho|mr=ko, ho|y=ko, ho}}
+
+# {{defn|lang=ko|sort=隹04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|cố|rs=隹04}}
+
+# {{defn|lang=vi}}
+
+[[fr:雇]]
+[[ko:雇]]
+[[hu:雇]]
+[[mg:雇]]
+[[ja:雇]]
+[[no:雇]]
+[[pl:雇]]
+[[th:雇]]
+[[chr:雇]]
+[[zh:雇]]

@@ -1,0 +1,69 @@
+{{character info/new}}
+{{also|廚}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=27|rad=厂|as=10|sn=12|four=|canj=MMTI|ids=⿸厂⿰豆寸}}
+
+# [[kitchen]]
+# [[closet]]
+# [[cupboard]]
+
+====References====
+* {{Han ref|kx=0162.371|dkj=03005|dj=0370.160|hdz=10075.240|uh=53A8|ud=21416}}
+
+----
+
+==Chinese==
+{{zh-see|廚}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=厂10}}
+
+====Readings====
+* {{ja-readings|goon=[[ず]] (zu), [[じゅう]] (jū)|kanon=[[ちゅう]] (chū)|kun=[[くりや]] (kuriya), [[ひつ]] (hitsu), [[ぬし]] (nushi)}}
+
+====Compounds====
+* {{ja-r|厨房|ちゅうぼう}}
+* {{ja-r|厨子|ずし}}
+
+===Etymology 1===
+{{ja-kanjitab|くりや|yomi=k}}
+
+{{rfe|ja}}
+
+====Noun====
+{{ja-noun|くりや}}
+
+# [[kitchen]]
+
+===Etymology 2===
+{{ja-kanjitab|ちゅう|yomi=o}}
+
+From {{etyl|zhx|ja}}.
+
+{{etystub|lang=ja}}
+
+====Suffix====
+{{ja-pos|suffix|ちゅう}}
+
+# {{lb|ja|internet slang}} [[freak]]; [[nerd]]
+#: {{ja-usex|ニコ'''厨'''|ニコ-'''ちゅう'''|{{w|Niconico}} addict}}
+
+=====See also=====
+* {{ja-r|廃|はい}}
+
+[[fr:厨]]
+[[li:厨]]
+[[hu:厨]]
+[[mg:厨]]
+[[ja:厨]]
+[[no:厨]]
+[[pl:厨]]
+[[th:厨]]
+[[vi:厨]]
+[[zh:厨]]

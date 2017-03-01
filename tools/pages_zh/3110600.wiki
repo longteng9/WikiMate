@@ -1,0 +1,66 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gūlì
+|c=gu1 lap6,gu1 laap6
+|mn=ko͘-li̍p
+|ma=Zh-gulì.ogg
+|cat=a,v
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[isolated]]
+# [[unrelated]]; [[irrelevant]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[isolate]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|こ|りつ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|こりつ|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|こりつ}}
+
+# [[isolation]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|孤立系|こりつけい}}
+* {{ja-r|孤立語|こりつご}}: [[isolating]] language
+* {{ja-r|孤立主義|こりつしゅぎ}}
+* {{ja-r|孤立点|こりつてん}}
+* {{ja-r|孤立波|こりつは}}: [[solitary]] [[wave]]
+* {{ja-r|孤立無援|こりつむえん}}
+{{der-bottom}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|こりつ}}
+
+# [[stand]] [[alone]], be in [[isolation]]
+#: {{ja-usex|人を仲間から孤立させる|ひと を なかま から こりつ させる|isolate a person from his friends}}
+
+====Conjugation====
+{{ja-suru|こりつ}}
+
+===References===
+<references/>
+:* {{R:Shogakukan}}
+
+[[zh-min-nan:孤立]]
+[[ko:孤立]]
+[[hu:孤立]]
+[[mg:孤立]]
+[[ja:孤立]]
+[[vi:孤立]]
+[[zh:孤立]]

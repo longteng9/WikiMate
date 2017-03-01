@@ -1,0 +1,112 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=09|sn=13|four=67047|canj=ARSE|ids=⿰日叚}}
+
+====References====
+* {{Han ref|kx=0497.360|dkj=14036|dj=0865.270|hdz=21527.020|uh=6687|ud=26247|bh=B776|bd=46966}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology===
+{{rfe|zh|Any relation to 假 ("vacation")?}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiá
+|c=haa6
+|mn=hā
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[leisure]], [[relaxation]], [[spare time]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=日09}}
+
+# [[spare time]]
+# [[rest]]
+# [[leisure]]
+# [[time]]
+# [[leave of absence]]
+
+====Readings====
+* {{ja-readings|goon=[[げ]] (ge)|kanon=[[か]] (ka)|kun=[[ひま]] (hima), [[いとま]] (itoma)}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|ひま}}
+
+# [[free]]
+# [[leisure]]
+# [[idle]]
+# [[vacant]]
+
+====Inflection====
+{{ja-na|ひま}}
+
+===Noun===
+{{ja-noun|ひま}}
+
+# [[time]], [[free time]]
+# [[leisure]]
+
+{{ja-noun|いとま}}
+
+# leisure
+# paid vacation
+# [[divorce]]
+# loss of one's job
+# [[farewell]]
+
+====Derived terms====
+* {{ja-r|暇人|ひまじん}}
+* {{ja-r|暇を唾す|ひま を つばす}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=가|eumhun=|rv=ga|mr=ka|y=ka}}
+
+# {{defn|lang=ko|sort=日09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hạ]], [[hả]], [[há]]|rs=日09}}
+
+# {{defn|lang=vi|sort=日09}}
+
+[[fr:暇]]
+[[ko:暇]]
+[[lo:暇]]
+[[lt:暇]]
+[[hu:暇]]
+[[mg:暇]]
+[[ja:暇]]
+[[no:暇]]
+[[pl:暇]]
+[[pt:暇]]
+[[th:暇]]
+[[chr:暇]]
+[[zh:暇]]

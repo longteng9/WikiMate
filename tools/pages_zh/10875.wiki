@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|仑|俞}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|亼|冊|ls=ic}}.
+
+===Han character===
+{{Han char|rn=9|rad=人|as=06|sn=8|four=80227|canj=OMBT|ids=⿱亼𠕁}}
+
+# [[logical]] [[reason]]s, [[logical]] [[order]]
+
+====Derived characters====
+* [[論]], [[倫]], [[龠]], [[掄]], [[淪]], [[綸]], [[輪]], [[陯]], [[蜦]], [[惀]], [[崙]], [[棆]], [[睔]]
+
+====References====
+* {{Han ref|kx=0102.100|dkj=00599|dj=0216.090|hdz=10143.010|uh=4F96|ud=20374|bh=A8DA|bd=43226}}
+
+----
+
+==Chinese==
+{{zh-forms|s=仑}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lún
+|c=leon4
+|mn=lûn
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|侖琴射線|加侖|侖琴|庫侖定律|庫侖|密侖|毫侖目|美侖美奐}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人06}}
+
+# [[think]], be [[methodical]]
+
+====Readings====
+* {{ja-readings|on=[[ろん]] (ron), [[りん]] (rin)|kun=[[おもう]] (omou), [[ついずる]] (tsuizuru), [[まるい]] (marui)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[륜]]>[[윤]]|eumhun=|rv=ryun>yun|mr=ryun>yun|y=lyun>yun}}
+
+# {{defn|lang=ko|sort=人06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lỏn]], [[lốn]], [[lổn]], [[lôn]], [[lủn]], [[luân]], [[lũn]], [[lụm]], [[lụn]], [[trôn]]|rs=人06}}
+
+# {{defn|lang=vi|sort=人06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f96 Nom Foundation]
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:侖]]
+[[ko:侖]]
+[[li:侖]]
+[[hu:侖]]
+[[ja:侖]]
+[[pl:侖]]
+[[th:侖]]
+[[zh:侖]]

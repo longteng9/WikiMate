@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=07|sn=13|four=44211|canj=TJMU,XTJMU|ids=⿱艹完}}
+
+# {{lb|zh|literary}} to [[smile]]
+# [[clubrush]] {{gloss|{{taxlink|Schoenoplectus lacustris|species|noshow=1}}}} — a kind of [[aquatic]] [[herb]]
+
+====References====
+* {{Han ref|kx=1034.200|dkj=31063|dj=1493.230|hdz=53225.050|uh=839E|ud=33694|bh=B2F0|bd=45808}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=guǎn,wǎn
+|c=gun1,gun2,wun1,wun5
+|mc=y
+|oc=y
+|ma=
+|cat=v,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸07}}
+
+# {{defn|lang=ja|sort=艸07}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[い]] (i), [[むしろ]] (mushiro), [[わらう]] (warau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[관]], [[완]]|eumhun=|rv=gwan, wan|mr=kwan, wan|y=kwan, wan}}
+
+# {{defn|lang=ko|sort=艸07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=艸07| hanviet = hoàn}}
+
+# {{defn|lang=vi|sort=艸07}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:莞]]
+[[mg:莞]]
+[[ja:莞]]
+[[pl:莞]]
+[[th:莞]]
+[[zh:莞]]

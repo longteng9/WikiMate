@@ -1,0 +1,178 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=05|sn=11|four=44107|canj=TBM|ids=⿱艹且}}
+
+====References====
+* {{Han ref|kx=1024.160|dkj=30813|dj=1484.080|hdz=53190.050|uh=82F4|ud=33524|bh=D075|bd=53365}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艸|alt1=艹|且|ls=psc|c1=s|t1=grass|c2=p}}.
+
+===Etymology 1===
+{{rfe|zh|are all these pronunciations related?}}
+
+====Pronunciation 1====
+{{zh-pron
+|m=jū
+|c=zeoi1,ceoi1
+|mc=2
+|oc=n,2
+|cat=n,pn
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{†}} [[female]] [[hemp]] [[plant]]; [[seed]]-[[bear]]ing [[hemp]]
+# {{†}} [[seed]]s of [[female]] [[hemp]]
+# {{†}} [[coarse]]; [[rough]]
+# {{†}} [[gunny]]; [[sackcloth]]
+# {{†}} [[gunny sack]]; [[package]]; [[cattail]] [[bag]]
+# {{†}} to [[package]]
+# {{†}} to [[patch]]; to [[mend]]
+# {{†}} {{zh-alt-form|菹|[[marshland]] full of [[waterweed]]}}
+# {{surname|lang=zh}}
+
+=====Compounds=====
+{{zh-der|fold=1|苴麻|包苴|苞苴|苞苴公行|苞苴竿牘|苞苴賄賂|補苴|補苴罅漏|補苴調胹|苴杖|蒪苴|苴絰|苴布|芭苴|佉苴|苴服|苴枲|狄苴|苴茅|且苴}}
+
+====Pronunciation 2====
+{{zh-pron
+|m=jǔ,jū
+|c=zeoi1,zeoi2
+|mc=4+1
+|oc=n,3+4
+|cat=n
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{†}} [[grass]] [[insole]]; [[pad]] in [[shoe]]
+
+====Pronunciation 3====
+{{zh-pron
+|m=chá
+|c=caa1,caa4
+|mc=3
+|oc=n,1
+|cat=n,pn
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{†}} [[floating]] [[weed]]; [[dead]] [[grass]]
+# {{lb|zh|historical}} {{non-gloss definition|A vassal state of the {{w|State of Shu}} during the {{w|Eastern Zhou Dynasty}}.}}
+
+=====Compounds=====
+{{zh-der|fold=1|苴國}}
+
+====Pronunciation 4====
+{{zh-pron
+|m=zhǎ
+|c=zaa2,zaa3,caa2,zaa5
+|cat=n
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{†}} [[humic]] [[soil]]; [[dreg]]s; [[dross]]
+# {{†}} {{zh-alt-form|柤|[[hawthorn]]}}
+
+=====Compounds=====
+{{zh-der|fold=1|土苴}}
+
+====Pronunciation 5====
+{{zh-pron
+|m=zū
+|cat=n
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{†}} {{zh-alt-form|葅|[[straw]]}}
+
+=====Compounds=====
+{{zh-der|fold=1|苴秸|苴稭}}
+
+====Pronunciation 6====
+{{zh-pron
+|m=xié
+|cat=pn
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{lb|zh|historical}} {{zh-only|羊苴咩|Yangxiemie, [[capital]] city of [[Nanzhao]] in modern-day [[Dali]]}}
+
+=====Compounds=====
+{{zh-der|fold=1|苴咩|羊苴咩|陽苴咩}}
+
+===Etymology 2===
+{{zh-forms|alt=埾}}
+
+====Pronunciation====
+{{zh-pron
+|mn=chū
+|cat=n,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Min Nan}} to [[lay]] something on a surface
+# {{lb|zh|Min Nan}} [[cushion]]; [[pad]]
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|5471}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸05}}
+
+# {{defn|lang=ja|sort=艸05}}
+
+====Readings====
+* {{ja-readings|on=[[そ]] (so), [[しょ]] (sho), [[さ]] (sa)|kun=[[つと]] (tsuto)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=저|eumhun=|rv=jeo|mr=chŏ|y=ce}}
+
+# {{defn|lang=ko|sort=艸05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thư]], [[tra]], [[tư]]|rs=艸05}}
+
+# {{defn|lang=vi|sort=艸05}}
+
+[[zh-min-nan:苴]]
+[[fr:苴]]
+[[hu:苴]]
+[[mg:苴]]
+[[ja:苴]]
+[[pl:苴]]
+[[th:苴]]
+[[zh:苴]]

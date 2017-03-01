@@ -1,0 +1,87 @@
+{{also|最终}}
+==Chinese==
+{{zh-forms|s=最终}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuìzhōng
+|c=zeoi3 zung1
+|mn=chòe-chiong
+|cat=a,adv
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[ultimate]]; [[last]]; [[final]]
+
+===Adverb===
+{{zh-adv}}
+
+# [[ultimately]]; [[at the end of the day]]; [[lastly]]; [[finally]]
+
+----
+
+==Japanese==
+
+===Etymology===
+{{ja-kanjitab|さい|しゅう|yomi=on}}
+{{prefix|lang=ja|最|終|tr1=sai|t1=most|tr2=shū|t2=end|sort=さいしゆう'}}
+
+===Pronunciation===
+{{ja-pron|さいしゅう|acc=h|acc_ref=NHK,DJR|y=ko}}
+
+===Noun===
+{{ja-noun|さいしゅう}}
+
+# the [[last]], the [[final]]
+
+====Derived terms====
+{{der-top}}
+Common
+* {{ja-r|最終的|さいしゅうてき}}: finally
+
+Uncommon
+* {{ja-l|最終案|さいしゅうあん|saishū-an}}: final plan
+* {{ja-l|最終回|さいしゅうかい|saishūkai}}: last time; last part
+* {{ja-l|最終学年|さいしゅうがくねん|saishū gakunen}}: last year of school
+* {{ja-l|最終結果|さいしゅうけっか|saishū kekka}}: end result
+* {{ja-l|最終決定|さいしゅうけってい|saishū kettei}}: final decision
+* {{ja-l|最終権限|さいしゅうけんげん|saishū kengen}}: final authority
+* {{ja-l|最終公演|さいしゅうこうえん|saishū kōen}}: final performance
+* {{ja-l|最終更新|さいしゅうこうしん|saishū kōshin}}: last update
+* {{ja-l|最終兵器|さいしゅうへいき|saishū heiki}}: the ultimate weapon
+* {{ja-l|最終章|さいしゅうしょう|sai shūshō}}: last chapter
+* {{ja-l|最終需要|さいしゅうじゅよう|saishū juyō}}: final demand
+* {{ja-l|最終製品|さいしゅうせいひん|saishū seihin}}: end product
+* {{ja-l|最終戦|さいしゅうせん|saishū-sen}}: final game
+
+{{der-mid}}
+Uncommon (continued)
+* {{ja-l|最終段階|さいしゅうだんかい|saishū dankai}}: final stage
+* {{ja-l|最終電車|さいしゅうでんしゃ|saishū densha}}: last train
+* {{ja-l|最終日|さいしゅうび|saishū-bi}}: last day
+* {{ja-l|最終便|さいしゅうびん|saishū-bin}}: last flight
+* {{ja-l|最終編成|さいしゅうへんせい|saishū hensei}}: final form
+* {{ja-l|最終弁論|さいしゅうべんろん|saishū benron}}: closing argument
+* {{ja-l|最終報告|さいしゅうほうこく|saishū hōkoku}}: final report
+* {{ja-l|最終目的|さいしゅうもくてき|saishū mokuteki}}: ultimate goal
+* {{ja-l|最終目標|さいしゅうもくひょう|saishū mokuhyō}}: end goal
+* {{ja-l|最終予選|さいしゅうよせん|saishū yosen}}: final qualifier; final qualifying round
+
+Computer terms
+* {{ja-l|最終値|さいしゅうち|saishū-chi}}: final value
+* {{ja-l|最終認可|さいしゅうにんか|saishūninka}}: final approval
+* {{ja-l|最終版|さいしゅうはん|saishūhan}}: final version
+* {{ja-l|最終バージョン|さいしゅうばあじょん|saishū bājon}}: latest version
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[ko:最終]]
+[[hu:最終]]
+[[mg:最終]]
+[[ja:最終]]
+[[chr:最終]]
+[[zh:最終]]

@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=huāzhá
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|card games}} [[hanafuda]]
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Hanafuda}}
+[[File:Koi-Koi Setup.jpg|thumb|250px|right|{{lang|ja|花札}} (''hanafuda''): A deck of '''[[hanafuda]]''' cards, spread out in a game of Koi-koi.]]
+</div>
+{{ja-kanjitab|yomi=k|はな|ふだ}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=はなふだ|花|tr1=hana|t1=flower|札|tr2=fuda|t2=card}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|はなふだ|acc=2|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+===Noun===
+{{ja-noun|はなふだ}}
+
+# {{lb|ja|card games|sort=はなふだ}} [[hanafuda]], literally “[[flower]] [[card]]s”, a card game of Japanese origin
+
+====Derived terms====
+* {{ja-r|脱衣花札|だつい はなふだ}}: [[strip]] [[hanafuda]]
+
+===References===
+<references/>
+
+[[fr:花札]]
+[[ko:花札]]
+[[hu:花札]]
+[[zh:花札]]

@@ -1,0 +1,26 @@
+==Japanese==
+<div style="float:right;">
+[[File:C.n.centralis.jpg|thumb|250px|{{lang|ja|日本鹿}} (''nihon-jika''): the '''[[sika deer]]'''.]]
+</div>
+{{ja-kanjitab|に|ほん|しか|k3=じか}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=にほんじか|日本|tr1=Nihon|t1=Japan|pos1=[[音読み|''on'yomi'']]|鹿|tr2=shika|t2=deer|pos2=[[訓読み|''kun'yomi'']]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> {{rendaku2|sort=にほんじか|shika|jika}}
+
+===Pronunciation===
+{{ja-pron|にほんじか|acc=2|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|にほん-じか|ニホンジカ}}
+
+# ''[[Cervus nippon]]'', common names [[sika deer]], {{vern|spotted deer}} or {{vern|Japanese deer}}
+
+====Usage notes====
+{{U:ja:biology|ニホンジカ}}
+
+===References===
+<references/>
+
+===External links===
+* {{pedia|lang=ja|ニホンジカ|日本鹿}}
+* {{pedia|Sika deer|lang=en}}

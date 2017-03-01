@@ -1,0 +1,26 @@
+{{also|低压}}
+==Chinese==
+{{zh-forms|s=低压}}
+
+===Pronunciation===
+{{zh-pron
+|m=dīyā
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[low]] [[pressure]]
+# [[low]] [[voltage]]
+# [[diastolic blood pressure]]
+# {{lb|zh|meteorology}} low pressure; [[depression]]
+
+====Synonyms====
+* {{sense|diastolic blood pressure}} {{zh-l|舒張壓}}
+* {{sense|meteorology: low pressure; depression}} {{zh-l|低氣壓}}
+
+====Derived terms====
+{{zh-der|低壓槽}}
+
+[[ko:低壓]]

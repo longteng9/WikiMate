@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=táozǒu
+|c=tou4 zau2
+|h=pfs=thò-chéu
+|mn=tô-cháu
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[run away]]; to [[flee]]; to [[escape]]
+#: {{zh-x|企圖 逃走|''to try to '''run away'''''}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|そう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|とうそう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうそう}}
+
+# [[flight]], [[getaway]], [[escape]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|とうそう}}
+
+# [[flee]], escape
+#* '''1923''', 甲賀三郎, 真珠塔の秘密:
+#*: {{ja-usex|大急ぎで入口を開けて外へ出た時には既に'''逃走'''して居た。|おおいそぎ で いりぐち を ひらけて そと へ でた とき に は すで に '''とうそう''' して いた。|He burst through the entrance but by that time they had already escaped.}}
+
+====Conjugation====
+{{ja-suru|とうそう}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=도주}}
+
+# {{hanja form of|도주|escape}}
+
+[[zh-min-nan:逃走]]
+[[ko:逃走]]
+[[hu:逃走]]
+[[mg:逃走]]
+[[ja:逃走]]
+[[zh:逃走]]

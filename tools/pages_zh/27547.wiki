@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|貘}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=153|rad=豸|as=06|sn=13|four=21260|canj=BHMA|ids=⿰豸百}}
+
+# [[leopard]]
+# [[ancient]] [[tribe]] in [[northeastern]] [[China]]
+
+====References====
+* {{Han ref|kx=1201.140|dkj=36550|dj=1663.140|hdz=63911.020|uh=8C8A|ud=35978|bh=B8E7|bd=47335}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mò
+|c=mak6,maak6
+|mn=be̍k
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|濊貊|蠻貊}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=豸06}}
+
+# {{defn|lang=ja|sort=豸06}}
+
+====Readings====
+* {{ja-readings|on=[[はく]] (haku), [[ばく]] (baku), [[みゃく]] (myaku)|kun=[[えびす]] (ebisu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=맥|eumhun=|rv=maek|mr=maek|y=mayk}}
+
+# {{defn|lang=ko|sort=豸06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mạch]]|rs=豸06}}
+
+# {{defn|lang=vi|sort=豸06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=8c8a Nom Foundation]
+
+[[fr:貊]]
+[[hu:貊]]
+[[mg:貊]]
+[[ja:貊]]
+[[pl:貊]]
+[[th:貊]]
+[[vi:貊]]
+[[zh:貊]]

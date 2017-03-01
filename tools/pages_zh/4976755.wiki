@@ -1,0 +1,33 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=Jīnlíng
+|c=gam1 ling4
+|mn=Kim-lêng
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{synonym of|lang=zh|南京}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きん|りょう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|きんりょう}}
+
+===Proper noun===
+{{ja-pos|proper|きんりょう}}
+
+# {{lb|ja|archaic|sort=きんりょう}} [[Nanjing]]
+
+====Synonyms====
+* {{sense|Nanjing}} {{ja-r|南京|^なんきん}}
+
+[[zh:金陵]]

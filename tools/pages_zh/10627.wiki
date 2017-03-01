@@ -1,0 +1,144 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=04|sn=6|four=25206|canj=OL,XOL|ids=⿰亻中}}
+
+====References====
+* {{Han ref|kx=0094.110|dkj=00403|dj=0200.030|hdz=10121.070|uh=4EF2|ud=20210|bh=A5F2|bd=42482}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|alt1=亻|中|t1=person|t2=middle|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhòng
+|c=zung6
+|mn=qz,tw,xm,zz:tiōng
+|mc=y
+|oc=y
+|ma=
+|cat=n,pn
+}}
+
+===Etymology 1===
+Derived from {{och-l|中|middle}}.
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[second]], especially when referring to seniority of siblings. {{n-g|See usage notes of [[伯]]}}.
+#: {{zh-x|伯仲|superior and inferior, competition, comparison}}
+# {{†}} [[middle]]
+#: {{zh-x|仲夏|midsummer}}
+#: {{zh-x|仲裁|arbitration}}
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|仲弓|伯仲叔季|將仲子|伯壎仲篪|國際仲裁|仲父|仲家|二仲|商務仲裁|仲介|仲夏|伯仲之間|仲秋|仲介公司|仲尼|仲子|仲冬|仲春|仲裁|伯仲|焦仲卿妻|昆仲|賢昆仲|翁仲|管仲隨馬}}
+
+===Etymology 2===
+From {{zh-l|*重}}.
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} [[still]] (referring to time)
+#: {{zh-x|佢 而家 都 仲 食飯\食 緊 食飯\飯。|He is '''still''' eating, even now.|C}}
+
+====Compounds====
+{{zh-der|仲要}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|なか|yomi=k}}
+
+===Noun===
+{{ja-noun|なか}}
+
+# [[relationship]], [[terms]]
+
+====Derived terms====
+{{der-top}}
+* {{l|ja|仲がいい}}, {{l|ja|仲が良い}}
+* {{l|ja|仲に入る}}
+* {{l|ja|仲働き}}
+* {{l|ja|仲直り}}
+* {{l|ja|仲睦まじい}}
+{{der-mid}}
+* {{l|ja|仲立ち}}
+* {{l|ja|仲良く}}
+* {{l|ja|仲良し}}
+* {{l|ja|仲違い}}
+{{der-bottom}}
+
+===Kanji===
+{{ja-kanji|grade=4|rs=人04}}
+
+====Readings====
+* {{ja-readings|goon=[[じゅう]] (jū)|kanon=[[ちゅう]] (chū)|kun=[[なか]] (naka)}}
+
+====Compounds====
+{{der5
+| {{ja-l|仲夏}}
+| {{ja-l|仲介}}
+| {{ja-l|仲核}}
+| {{ja-l|仲間}}
+| {{ja-l|仲居}}
+| {{ja-l|仲兄}}
+| {{ja-l|仲継}}
+| {{ja-l|仲見世}}, {{ja-l|仲店}}
+| {{ja-l|仲裁}}
+| {{ja-l|仲仕}}
+| {{ja-l|仲秋}}
+| {{ja-l|仲春}}
+| {{ja-l|仲人}}
+| {{ja-l|仲断}}
+| {{ja-l|仲値}}
+| {{ja-l|仲冬}}
+| {{ja-l|仲買}}
+| {{ja-l|仲保}}
+| {{ja-l|仲立人}}
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=중|rv=jung|mr=chung}}
+
+# {{defn|lang=ko|sort=人04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|trọng|rs=人04}}
+
+# {{defn|lang=vi|sort=人04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4ef2 Nom Foundation]
+
+[[fr:仲]]
+[[ko:仲]]
+[[hu:仲]]
+[[mg:仲]]
+[[ja:仲]]
+[[no:仲]]
+[[km:仲]]
+[[pl:仲]]
+[[ru:仲]]
+[[th:仲]]
+[[uk:仲]]
+[[vi:仲]]
+[[zh:仲]]

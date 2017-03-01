@@ -1,0 +1,121 @@
+{{character info/new}}
+{{also|鍾|钟}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=12|sn=20|four=80114|canj=CYTG|ids=⿰金童}}
+
+# [[clock]]
+# [[bell]]
+
+====References====
+* {{Han ref|kx=1323.020|dkj=40902|dj=1822.180|hdz=64258.060|uh=9418|ud=37912|bh=C4C1|bd=50369}}
+
+----
+
+==Chinese==
+{{zh-forms|s=钟}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhōng
+|c=zung1
+|h=pfs=chûng
+|md=
+|mn=cheng/chiong
+|mn_note=cheng - vernacular; chiong - literary
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun|mw=架|mw2=座}}
+
+# [[bell]]
+#* {{zh-x|那 個 鐘 每 小時 響 一次。|That '''bell''' rings once every hour.}}
+# [[clock]]
+#* {{zh-x|這 個 鐘 快 了，所以 我 把 它 校准 了。|The '''clock''' was fast so I corrected it.}}
+# [[time]] measured in hours and minutes
+#* {{zh-x|點鐘|o'clock}}
+#* {{zh-x|分鐘|minute}}
+#* {{zh-x|秒鐘|second}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{surname|lang=zh}} Zhong
+
+===References===
+* {{cite-web
+|url=http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=鐘
+|title=鐘
+|work=MDBG English to Chinese dictionary ( Based on CC-CEDICT )
+|language=Mandarin/English
+|accessdate=2014-03-03}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=金12}}
+
+====Readings====
+{{ja-readings|goon=[[しゅ]] (shu) {{non-joyo-reading}}|kanon=[[しょう]] (shō)|kun=[[かね]] (kane)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|編鐘|へんしょう}}: [[bianzhong]]
+{{der-bottom}}
+
+{{ja-kanjitab|かね|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|かね|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|かね}}
+
+# [[bell]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=종|eumhun=|rv=jong|mr=chong|y=cong}}
+
+# {{defn|lang=ko|sort=金12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chung]], [[chuông]]|rs=金12}}
+
+# {{defn|lang=vi|sort=金12}}
+
+[[zh-min-nan:鐘]]
+[[fr:鐘]]
+[[ko:鐘]]
+[[lo:鐘]]
+[[lt:鐘]]
+[[hu:鐘]]
+[[mg:鐘]]
+[[fj:鐘]]
+[[ja:鐘]]
+[[pl:鐘]]
+[[ro:鐘]]
+[[sv:鐘]]
+[[th:鐘]]
+[[chr:鐘]]
+[[zh:鐘]]

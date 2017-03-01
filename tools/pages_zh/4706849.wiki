@@ -1,0 +1,10 @@
+==Japanese==
+{{ja-kanjitab|まつ|び|さい|き|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|sort=まつびさいき|末尾|tr1=matsubi|t1=tail|再帰|tr2=saiki|t2=recursion}}
+
+===Noun===
+{{ja-noun|まつびさいき}}
+
+# {{lb|ja|programming|sort=まつびさいき}} [[tail recursion]]

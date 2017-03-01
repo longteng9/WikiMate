@@ -1,0 +1,132 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=137|rad=舟|as=00|sn=6|four=27440|canj=HBYI}}
+
+# {{mul-kangxi radical-def}}
+
+====See also====
+* {{l|mul|母}}
+
+====References====
+* {{Han ref|kx=1008.240|dkj=30350|dj=1466.060|hdz=53055.010|uh=821F|ud=33311|bh=A6E0|bd=42720}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{liushu|p}} – a boat.
+
+===Pronunciation===
+{{zh-pron
+|m=zhōu
+|c=zau1
+|h=pfs=chû
+|md=ciŭ
+|mn=chiu
+|w=1tseu
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|historical|_|vehicles}} [[dugout canoe|Dugout canoe]]
+# {{lb|zh|vehicles}} [[similarly|Similarly]][[-shaped]] [[boat]]s; a [[small]] [[barge]].
+# {{lb|zh|vehicles|inexact}} [[any|Any]] [[boat]] or [[ship]].
+
+===Compounds===
+{{zh-der|吞舟|吞舟之魚|寶舟|同舟之誼|小隙沉舟|不繫舟|同舟而濟|吳越同舟|借水行舟|天舟座|同舟共濟|孤舟|划龍舟|刻舟求劍|焚舟破釜|推舟於陸|積羽沉舟|柏舟之節|泛舟|焚舟|獨木舟|沉舟破釜|扁舟|柏舟之痛|沙漠之舟|木蘭舟|破釜沉舟|毀舟為杕|白魚入舟|登舟|桂舟|汎舟|求劍刻舟|盪舟|濟河焚舟|漾舟|漁舟|柏舟操|法舟|泊舟|扁底舟|操舟|李郭同舟|柏舟之誓|柏舟|淪波舟|木已成舟|方舟|飛舟|虛舟|舟楫|麥舟|網漏吞舟|艤舟|載舟覆舟|舟人|龍舟比賽|舟車|蘭舟|順水推舟|篷舟|買舟|蓬舟|腰舟|蕩舟|舟水之喻|龍舟|逆水行舟|舟中敵國|高原之舟|藏舟難固|龍舟歌|般舟三昧|覆舟載舟|行舟|龍舟賽|風雨同舟|舟師|輕舟|順水行舟|絕渡逢舟|舟子|舟車勞頓|舟次|舟山群島|虛舟飄瓦|舟山}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=舟00}}
+
+# [[boat]], [[ship]], [[small]] [[ship]]
+
+====Readings====
+{{ja-readings|goon=[[しゅ]] (shu)|kanon=[[しゅう]] (shū)|kun=[[ふね]] (fune), [[ふな]] (funa)}}
+
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|ふね|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|ふね|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|ふね}}
+
+# [[boat]], [[ship]], [[small]] [[ship]]
+
+=====See also=====
+* {{ja-r|船|ふね|gloss=ship, vessel, [[large]] [[ship]]}}
+
+===Etymology 2===
+{{ja-kanjitab|ふな|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|ふな|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ふな}}
+
+# [[boat]], [[ship]], [[small]] [[ship]]
+
+=====See also=====
+* {{ja-r|船|ふな|gloss=ship, vessel, [[large]] [[ship]]}}
+
+===References===
+<references/>
+
+[[Category:ja:Watercraft|ふね]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=주|eumhun=|rv=ju|mr=chu|y=cwu}}
+
+# {{defn|lang=ko|sort=舟00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chu]], [[châu]]|rs=舟00}}
+
+# {{defn|lang=vi|sort=舟00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:舟]]
+[[ko:舟]]
+[[hu:舟]]
+[[mg:舟]]
+[[ms:舟]]
+[[fj:舟]]
+[[ja:舟]]
+[[no:舟]]
+[[pl:舟]]
+[[ro:舟]]
+[[ru:舟]]
+[[tl:舟]]
+[[th:舟]]
+[[chr:舟]]
+[[tr:舟]]
+[[uk:舟]]
+[[vi:舟]]
+[[zh:舟]]

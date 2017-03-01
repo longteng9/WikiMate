@@ -1,0 +1,63 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=09|sn=15|four=54100|canj=LIHDJ}}
+
+# [[tadpole]]
+
+====References====
+* {{Han ref|kx=1088.350|dkj=33248|dj=1555.100|hdz=42870.160|uh=874C|ud=34636|bh=BDC1|bd=48577}}
+
+----
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kē
+|c=fo1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|蝌子|蝌蚪|蝌蚪文}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫09}}
+
+# {{defn|lang=ja|sort=虫09}}
+
+====Readings====
+* {{ja-readings|goon=[[か]] (ka)|kanon=[[か]] (ka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=과|eumhun=|rv=gwa|mr=kwa|y=kwa}}
+
+# {{defn|lang=ko|sort=虫09}}
+[[fr:蝌]]
+[[hu:蝌]]
+[[mg:蝌]]
+[[ja:蝌]]
+[[no:蝌]]
+[[pl:蝌]]
+[[th:蝌]]
+[[vi:蝌]]
+[[zh:蝌]]

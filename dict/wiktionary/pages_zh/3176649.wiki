@@ -1,0 +1,22 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Battledress}}
+[[File:10th_Mountain_Multicam.jpg|thumb|250px|{{lang|ja|戦闘服}}: [[w:Army Combat Uniform|Army Combat Uniform]]]]
+</div>
+{{ja-kanjitab|せん|とう|ふく|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=せんとうき|戦闘|tr1=sentō|t1=battle, fighting|服|tr2=fuku|t2=clothes}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|せんとうふく|acc=3}}
+
+===Noun===
+{{ja-noun|せんとう ふく}}
+
+# a [[battle]] or [[combat]] [[uniform]]: [[fatigues]], [[battledress]]
+#: {{ja-usex|迷彩の'''戦闘服'''を着ている|めいさい の '''せんとう ふく''' を きて いる|wearing a camouflage '''battle uniform'''}}
+
+===References===
+<references/>

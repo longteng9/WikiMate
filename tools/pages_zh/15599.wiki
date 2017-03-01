@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=08|sn=11|four=97032|canj=PPHP|ids=⿰忄忽}}
+
+====References====
+* {{Han ref|kx=0391.080|dkj=10811|dj=0725.200|hdz=42317.130|uh=60DA|ud=24794|bh=B1AB|bd=45483}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|心|alt1=忄|忽|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=hū
+|c=fat1
+|h=pfs=
+|md=
+|mn=hut
+|w=
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[absent-minded]]; [[confused]]
+
+===Compounds===
+{{zh-der|惚恍|恍惚|惚惚|心緒恍惚|忙惚兒|心神恍惚|朦朧恍惚|神情恍惚|神思恍惚|精神恍惚}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心08}}
+
+# {{defn|lang=ja|sort=心08}}
+
+====Readings====
+* {{ja-readings|goon=[[こち]] (kochi)|kanon=[[こつ]] (kotsu)|kun=[[ぼける]] (bokeru), [[ほれる]] (horeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=홀|eumhun=|rv=hol|mr=hol|y=hol}}
+
+# {{defn|lang=ko|sort=心08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hốt]], [[ghen]]|rs=心08}}
+
+# {{defn|lang=vi|sort=心08}}
+
+[[fr:惚]]
+[[li:惚]]
+[[mg:惚]]
+[[ja:惚]]
+[[pl:惚]]
+[[th:惚]]
+[[zh:惚]]

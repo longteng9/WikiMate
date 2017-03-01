@@ -1,0 +1,56 @@
+{{also|宿题}}
+==Chinese==
+{{zh-forms|s=宿题}}
+
+===Pronunciation===
+{{zh-pron
+|m=sùtí
+|c=suk1 tai4
+|mn=siok-tê/siok-tôe
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Japanese|or|Korean}} [[homework]], [[assignment]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅく|だい|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|しゅくだい|acc=h|dev=2|yomi=on|acc_ref=NHK}}{{attention|ja|module needs to be fixed}}
+
+===Noun===
+{{ja-noun|しゅくだい}}
+
+# [[homework]]
+#: {{ja-usex|要は彼女が一人で宿題をしようとしないことである。|^よう は かのじょ が ひとり で しゅくだい を しよう と しない こと である。|The point is that she doesn't do her homework for herself.}}
+
+===References===
+<references />
+[[Category:Japanese basic words|しゅくだい]]
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=숙제}}
+
+# {{hanja form of|숙제|[[homework]]}}
+
+[[fr:宿題]]
+[[ko:宿題]]
+[[lo:宿題]]
+[[lt:宿題]]
+[[li:宿題]]
+[[hu:宿題]]
+[[mg:宿題]]
+[[ja:宿題]]
+[[pt:宿題]]
+[[ru:宿題]]
+[[sv:宿題]]
+[[zh:宿題]]

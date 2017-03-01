@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|虱}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=09|sn=15|four=17136|canj=NJLII}}
+
+====References====
+* {{Han ref|kx=1090.190|dkj=33303|dj=1556.130|hdz=42874.050|uh=8768|ud=34664|bh=BDBE|bd=48574}}
+
+----
+
+==Chinese==
+{{zh-forms|s=虱|t2=虱}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|卂|䖵|ls=psc|c1=p|c2=s}}.
+
+===Etymology===
+From {{inh|zh|sit-pro|*s-r(j)ik||louse}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shī
+|c=sat1
+|h=pfs=set
+|md=
+|mn=qz,xm,zz:sit/qz,tw,xm:sat/zz:siat
+|mn_note= sit - literary; sat/siat - vernacular
+|w=4seq
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[louse]]
+# [[bug]], [[parasite]]
+
+===Compounds===
+{{zh-der|蝨子|蝨乸|塘蝨|龍蝨|木蝨|沙蝨|頭蝨|捉字蝨|陰蝨|跳蝨|斑飛蝨|水蝨|視蝨如輪|蝨目魚}}
+
+{{zh-cat|Lice}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫09}}
+
+# {{defn|lang=ja|sort=虫09}}
+
+====Readings====
+* {{ja-readings|on=[[しつ]] (shitsu)|kun=[[しらみ]] (shirami)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=슬|eumhun=|rv=seul|mr=sŭl|y=sul}}
+
+# {{defn|lang=ko|sort=虫09}}
+
+[[zh-min-nan:蝨]]
+[[fr:蝨]]
+[[hu:蝨]]
+[[mg:蝨]]
+[[ja:蝨]]
+[[pl:蝨]]
+[[th:蝨]]
+[[vi:蝨]]
+[[zh:蝨]]

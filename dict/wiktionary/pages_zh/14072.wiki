@@ -1,0 +1,89 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=39|rad=子|as=03|sn=6|four=17447|canj=NDND|ids=⿰子子}}
+
+# [[twin]]s
+
+====References====
+* {{Han ref|kx=0277.170|dkj=06941|dj=0545.060|hdz=21011.010|uh=5B56|ud=23382|bh=C9D3|bd=51667}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=zī
+|c=zi1
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[twin]]
+# {{zh-alt-form|滋|to propagate}}
+
+====Compounds====
+{{zh-der|孖蟲}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=mā
+|c=maa1
+|c-t=ma1,ma1*
+|cat=a,adv,cls
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tcx|lang=zh|Cantonese}}
+
+# [[twin]]
+#: {{zh-x|孖女{neoi5-2}|'''twin''' girls|C}}
+# [[conjoined]]
+# {{zh-classifier|a pair of linked objects|cat=y}}
+#: {{zh-x|一 孖 臘腸{coeng4-2}|a '''pair''' of Chinese sausages|C}}
+
+====Compounds====
+{{zh-der|孖女|孖仔|孖生|孖鋪|孖寶|孖孖頭|孖指|孖頭|孖公仔|孖頭公仔|孖煙通|孖辮|孖展}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=子03}}
+
+# {{defn|lang=ja|sort=子03}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi), [[じ]] (ji)|kun=[[ふたご]] (futago)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=자|rv=ja|mr=cha}}
+
+# {{defn|lang=ko|sort=子03}}
+
+[[fr:孖]]
+[[li:孖]]
+[[hu:孖]]
+[[pl:孖]]
+[[ru:孖]]
+[[th:孖]]
+[[zh:孖]]

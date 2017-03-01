@@ -1,0 +1,60 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=03|sn=6|four=35117|canj=EKNI|ids=⿰氵丸}}
+
+# [[weep]]
+
+====References====
+* {{Han ref|kx=0604.140|dkj=17119|dj=0998.090|hdz=31553.030|uh=6C4D|ud=27725|bh=A6C5|bd=42693}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wán
+|c=jyun4
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水03}}
+
+# {{defn|lang=ja|sort=水03}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan), [[がん]] (gan)|kun=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水03| hanviet = hoàn}}
+
+# {{defn|lang=vi|sort=水03}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6c4d Nom Foundation]
+
+[[fr:汍]]
+[[hu:汍]]
+[[pl:汍]]
+[[th:汍]]
+[[zh:汍]]

@@ -1,0 +1,308 @@
+{{character info/new}}
+{{also|彳亍}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=144|rad=行|as=00|sn=6|four=21221|canj=HOMMN|ids=⿰彳亍}}
+
+# {{mul-kangxi radical-def}}
+
+====Usage notes====
+行 itself is also used as a radical (in addition to [[彳]]); unusually for radicals, the phonetic is placed in the ''middle'' – with 彳 on the left and 亍 on the right – corresponding to the phonetic originally being placed at the middle of the intersection.
+
+====Derived characters====
+* [[Index:Chinese radical/行]]
+* [[鵆]]
+
+====References====
+* {{Han ref|kx=1108.310|dkj=34029|dj=1570.310|hdz=20811.060|uh=884C|ud=34892|bh=A6E6|bd=42726}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|p}} – a street intersection.
+
+Originally symmetric, it has been simplified asymmetrically; the left half {{zh-l|*彳}} is widely used as a radical, while the right half {{zh-l|*亍}} finds occasional use, and the character can be broken up as {{Han compound|彳|亍|t1=small step}}, though originally it was not a compound.
+
+===Pronunciation 1===
+{{zh-pron
+|m=xíng
+|c=haang4,hang4
+|c_note=haang4 - vernacular; hang4 - literary
+|c-t=hang3
+|h=pfs=hàng
+|md=giàng/hèng
+|md_note=giàng - vernacular; hèng - literary
+|mn=kiâⁿ/hêng
+|mn_note=kiâⁿ - vernacular; hêng - literary
+|mn-t=gian5
+|w=3hhan,3hhin
+|w_note=3hhan - vernacular; 3hhin - literary
+|mc=2
+|oc=2,3
+|ma=y
+|cat=v,a,adv
+}}
+{{attention|zh|pronunciation section needs to be further split}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|literary|or|dialectal}} to [[walk]]
+# to [[go]]; to [[move]]
+# to [[carry out]]; to [[execute]]
+# to [[perform]] (a salute)
+# [[OK]]; [[good]]
+#: {{zh-x|行，就 這麼 定 了。|OK, it's a deal.}}
+# to be [[good]]; to [[work]]
+#: {{zh-x|我 覺得 這 方法 行。|I think this will work.}}
+# to be [[good]] (opposed to bad) (usually in negative sentences, or with {{m|zh|還}})
+#: {{zh-x|我 成績 不 行。|I have bad grades.}}
+# to be [[able]] to do something (usually mentioned before)
+#* {{zh-x|他 能 四 分鐘 跑 一 公里，我 不 行。|He can run a kilometer within 4 minutes. I can't (do that).}}
+
+=====Usage notes=====
+Notice that when meaning “be able to do something”, {{lang|zh|行}} can only be used without a complement. This is different from {{zh-l|能|to be able to (do something)}}.
+
+====Compounds====
+{{zh-der|平行|僂行|右行|力行|媚行|刊行|偕行|五行|修行|微行|性行|奉行|先行|上行|厲行|徐行|例行|徇行|希行|大行|出行|強行|周行|冥行|下行|同行|并行|單行|實行|常行|並行|左行|不行|履行|徒行|伏行|小行|客行|也行|徑行|宵行|孤行|剸行|執行|南行|天行|可行|卻行|勤行|另行|仄行|前行|印行|兼行|健行|仿行|持行|旁行|私行|盛行|潛行|暢行|採行|畫行|旅行|爬行|橫行|濫行|歌行|昧行|方行|推行|流行|東行|成行|直行|批行|啟行|發行|疾行|現行|放行|稀行|海行|施行|承行|步行|歲行|戒行|杯行|環行|滑行|暴行|時行|星行|攝行|行旌|行役|行酒|行獵|行事|行志|行飯|行房|行客|行炙|行福|行腳|行時|行將|行在|行取|行書|行來|行坐|行吟|行賕|行主|行遊|行照|行放|行速|行販|行賈|行葦|行為|行騙|行船|行文|點行|行歌|行媒|行刺|行糧|行夜|行頭|遊行|逕行|行轅|行走|間行|行景|體行|胡行|輔行|衡行|行臺|行子|行年|行唐|行戶|行卷|行春|行腔|行政|逆行|行車|蹈行|肆行|龜行|行跡|行經|蛇行|躬行|行匣|行宮|行善|行使|行藥|行灶|蟹行|行館|臨行|行復|運行|開行|起行|行儀|辭行|行省|預行|行動|行道|行篋|行權|行商|餞行|行幸|頒行|行程|行拘|飛行|行止|隨行|進行|篤行|行鍼|風行|航行|行化|行童|緩行|頭行|順行|行徑|行杖|遠行|銷行|行枷|行色|行水|膝行|行孝|難行|行刑|苦行|行錢|行人|陸行|遍行|行舟|行成|閒行|紀行|行令|長行|行藏|行次|行賄|行燈|行雲|行思|行凶|行裝|通行|行窩|自行|行行|軍行|行李|送行|行乞|遵行|行期|巡行|行遣|行路|行檢|行銷|行哭|行竊|行菜|蝸行|贐行|貫行|行郎|行祠|試行|行劫|行軍|行詐|行進|趲行|行憲|行業|行醫|行駛|行香|行食|行露|行障|行關|行開|行都|行遲|行蹤|行踏|行財|行聘|行者|行禮|行神|行營|行潦|行樂|行星|行旅|行散|行持|行廚|行囊|行侶|蚑行|紆行|行息|舉行|行筆}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=háng
+|c=hong4,hong4-2
+|c-t=hong3
+|h=hòng
+|md=òng/hòng
+|md_note=òng - vernacular; hòng - literary
+|mn=hâng
+|mn-t=hang5
+|w=3hhaan
+|mc=1
+|oc=1,1
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[profession]]; [[industry]]; [[trade]]; [[business]]
+# [[place]] for specific [[transaction]]
+#: {{zh-x|銀行{háng}|bank [lit. money store]}}
+#: {{zh-x|珠寶行{háng}|jewellery store}}
+# [[line]] of [[object]]s; [[row]]
+
+====Compounds====
+{{zh-der|fold=1|三行|團行|外行|八行|商行|在行|土行|分行|僧行|懂行|暗行|本行|戲行|改行|洋行|武行|提行|當行|油行|牙行|標行|班行|排行|行陣|行東|行員|行老|行當|跳行|腳行|茶行|行口|行情|行市|行列|行庫|行規|車行|行鋪|糧行|鴛行|行距|跨行|行院|藥行|行幫|雁行|輩行|靠行|行棧|鵷行|行首|行款|行輩|行家|行間|總行|行佣|行檔|轉行|行話|行分|銀行|行貨|行號|行會|行戲|行伍|誰行}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=xíng,xìng,2nb=Taiwan
+|c=hang6
+|h=hèn/hen
+|md=hâing
+|mn=hēng
+|mn-t=hêng6
+|w=3hhin
+|ma=y
+|mc=4
+|oc=3,4
+|dial=n
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[behaviour]]; [[conduct]]
+
+====Compounds====
+{{zh-der|不護細行|不守細行|不拘細行|品行|家行|四行|信行|志行|奇節瑰行|惡行|孝行|德行|德淺行薄|孝行可嘉|中行|庸行|嘉言善行|劣行|慎行|內行|學行|勵行|一行|嘉言懿行|危行|危言危行|不矜細行|品行端醇|善行|砥礪名行|才高行厚|曲學詖行|抗行|敗行|狗心狗行|智圓行方|末行|穢行|改行遷善|操行|砥行磨名|砥志礪行|末節細行|砥行立名|矯飾偽行|矯言偽行|矯情飾行|短行|砥節礪行|淫心慝行|琦行|才高行潔|獨行|狼心狗行|更行|無行止|無行|沒志行|獸行|懿行|治行|景行|直言危行|行短才高|言行舉止|茂行|羶行|言行一致|醜行|絜行|節行瑰奇|行狀|願行|高行|義行可風|聖德懿行|言行計從|遺行|罪行|鳥獸行|高山景行|餘食贅行|素隱行怪|義行|輕薄無行|素行|言行相詭|行短才喬|素行不良|行誼|至行|馴行|頡頏之行|言行相顧|言行相悖|觀行|行能|詖行|言行錄|言行若一|言行|行短|虧心短行|細行|薄行}}
+
+===Pronunciation 4===
+{{zh-pron
+|m=héng,háng,2nb=Taiwan
+|c=hang6
+|h=
+|md=hâing
+|mn=hēng
+|w=
+|ma=
+|mc=4
+|oc=3,4
+|dial=n
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[skill]] from [[monk]] [[training]]
+#: {{zh-x|道行{héng}|monk training}}
+
+===Pronunciation 5===
+{{zh-pron
+|m=hàng
+|c=hong6
+|h=
+|md=hâung
+|mn=
+|w=
+|ma=
+|mc=2
+|oc=n,2
+|dial=n
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{zh-only|行行|[[bold]]; [[staunch]]; [[strong]]}}
+# {{zh-only|樹行子|[[row]] of [[tree]]s}}
+
+===References===
+* {{qualifier|Min Nan}} {{thcwd|2617}}
+
+----
+
+==Japanese==
+
+===Noun===
+{{ja-noun|ぎょう|hhira=ぎやう}}
+
+# a [[line]] of text
+# {{lb|ja|mathematics}} a [[row]] of a [[matrix]]
+
+===Kanji===
+{{ja-kanji|grade=2|rs=行00}}
+
+====Readings====
+* {{ja-readings|goon=[[ぎょう]] (gyō) > [[ぎやう]] (gyau), [[ごう]] (gō) > [[がう]] (gau)|kanon=[[こう]] (kō) > [[かう]] (kau)|kanyoon=[[ぎょう]] (gyō) > [[ぎやう]] (gyau) ''in the sense “row, line”, etc.''|toon=[[あん]] (an)|kun=[[いく]] ([[行く]] iku), [[ゆく]] ([[行く]] yuku), [[おこなう]] ([[行う]] [[行なう]] okonau, [[くだり]])|nanori=[[ゆき]] (yuki)}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|行間|ぎょうかん}}
+* {{ja-r|旅行|りょこう}}
+* {{ja-r|行政|ぎょうせい}}
+* {{ja-r|発行|はっこう}}
+* {{ja-r|進行|しんこう}}
+* {{ja-r|実行|じっこう}}
+* {{ja-r|流行|りゅうこう}}
+* {{ja-r|執行|しっこう}}
+* {{ja-r|施行|しこう}}
+* {{ja-r|平行四辺形|へいこうしへんけい}}
+* {{ja-r|善行|ぜんこう}}
+* {{ja-r|洋行|ようこう}}
+* {{ja-r|歩行|ほこう}}
+* {{ja-r|代行|だいこう}}
+* {{ja-r|品行|ひんこう}}
+* {{ja-r|行火|あんか}} [[heater]]
+* {{ja-r|行脚|あんぎゃ}} [[pilgrimage]]
+* {{ja-r|行灯|あんどん}} [[lamp]]
+* {{ja-r|行事|ぎょうじ}} [[event]]
+* {{ja-r|行書|ぎょうしょ}} [[semicursive]] [[handwriting]] [[scripture]]
+* {{ja-r|行政|ぎょうせい}} [[government]]
+* {{ja-r|行人|こうじん}} [[passer-by]], [[traveler]]
+* {{ja-r|行列|ぎょうれつ}} [[matrix]]
+* {{ja-r|旅行者|りょこうしゃ}}
+{{mid3}}
+* {{ja-r|走行|そうこう}}
+* {{ja-r|貴行|きこう}}
+* {{ja-r|孝行|こうこう}}
+* {{ja-r|航行|こうこう}}
+* {{ja-r|試行|しこう}}
+* {{ja-r|試行錯誤|しこうさくご}}
+* {{ja-r|挙行|きょこう}}
+* {{ja-r|専行|せんこう}}
+* {{ja-r|急行|きゅうこう}}
+* {{ja-r|励行|れいこう}}
+* {{ja-r|悪行|あくぎょう}}
+* {{ja-r|不言実行|ふげんじっこう}}
+* {{ja-r|行政事件|ぎょうせいじけん}}
+* {{ja-r|強行|きょうこう}}
+* {{ja-r|行使|こうし}} [[execution]]
+* {{ja-r|行方|ゆくえ}} [[whereabouts]]
+* {{ja-r|通行人|つうこうにん}} [[passer-by]]
+* {{ja-r|銀行|ぎんこう}} [[bank]]
+* {{ja-r|飛行|ひこう}} [[aviation]]
+* {{ja-r|飛行機|ひこうき}} [[airplane]], [[aircraft]]
+* {{ja-r|飛行場|ひこうじょう}} [[airfield]], [[airport]]
+* {{ja-r|行宮|あんぐう}} [[temporary]] [[residence]] of the [[Tennou|Emperor]]
+* {{ja-r|失行|しっこう}}
+{{mid3}}
+* {{ja-r|続行|ぞっこう}}
+* {{ja-r|奇行|きこう}}
+* {{ja-r|紀行|きこう}}
+* {{ja-r|国事行為|こくじこうい}}
+* {{ja-r|一目十行|いちもくじゅうぎょう}}
+* {{ja-r|言行齟齬|げんこうそご}}
+* {{ja-r|行く年|いくとし}}
+* {{ja-r|九品の行業|くほんのぎょうごう}}
+* {{ja-r|跂行喙息|きこうかいそく}}
+* {{ja-r|行革|ぎょうかく}}
+* {{ja-r|行為|こうい}}
+* {{ja-r|行動|こうどう}}
+{{bottom}}
+
+[[Category:ja:Mathematics|きよう']]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=행|eumhun=[[다니다|다닐]] 행|rv=haeng|mr=haeng|y=hayng}}
+
+# [[movement]]
+
+{{ko-hanja|hangeul=항|eumhun=[[항렬]] 항|rv=hang|mr=hang|y=hang}}
+
+# degree of [[familial]] relation
+
+====Compounds====
+* {{sense|movement}} [[행동]]
+* {{sense|degree of relation}} [[항렬]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hàng]], [[hạnh]], [[hành]], [[ngành]], [[hãng]], [[hăng]], [[tùng]]|rs=行00}}
+
+# [[company#Noun|company]], [[firm#Noun|firm]]
+# {{lb|vi|archaic}} to [[go#Verb|go]], to [[travel#Verb|travel]] (on a long [[journey#Noun|journey]]).
+
+====Compounds====
+* {{l|vi|行客|tr=[[hành khách]]}}
+* {{l|vi|行李|tr=[[hành lý]]}}
+* {{l|vi|銀行|tr=[[ngân hàng]]}}
+
+[[Category:CJKV radicals| ]]
+
+[[zh-min-nan:行]]
+[[fr:行]]
+[[ko:行]]
+[[it:行]]
+[[ky:行]]
+[[lo:行]]
+[[li:行]]
+[[hu:行]]
+[[mg:行]]
+[[ms:行]]
+[[ja:行]]
+[[no:行]]
+[[pl:行]]
+[[ru:行]]
+[[sr:行]]
+[[ta:行]]
+[[th:行]]
+[[chr:行]]
+[[uk:行]]
+[[zh:行]]

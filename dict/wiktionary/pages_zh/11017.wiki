@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=08|sn=10|four=27272|canj=OSUU|ids=⿰亻屈}}
+
+# [[stubborn]], [[obstinate]], [[intransigent]]
+# [[firm]]
+
+====References====
+* {{Han ref|kx=0107.290|dkj=00769|dj=0229.090|hdz=10185.040|uh=5014|ud=20500|bh=ADCF|bd=44495}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jué
+|c=gwat6
+|mn=ku̍t
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人08}}
+
+# {{defn|lang=ja|sort=人08}}
+
+====Readings====
+* {{ja-readings|on=[[くつ]] (kutsu)|kun=[[つよい]] (tsuyoi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=굴|rv=gul|mr=kul}}
+
+# {{defn|lang=ko|sort=人08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=人08| hanviet = [[quật]], [[oặt]], [[quặt]], [[quất]], [[quịt]]}}
+
+# {{defn|lang=vi|sort=人08}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=5014 Nom Foundation]
+
+[[zh-min-nan:倔]]
+[[fr:倔]]
+[[ko:倔]]
+[[li:倔]]
+[[hu:倔]]
+[[mg:倔]]
+[[ja:倔]]
+[[no:倔]]
+[[pl:倔]]
+[[th:倔]]
+[[vi:倔]]
+[[zh:倔]]

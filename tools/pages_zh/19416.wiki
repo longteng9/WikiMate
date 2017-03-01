@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=11|sn=14|four=34134|canj=ETAK|ids=⿰氵⿳艹日大}}
+
+# [[desert]]
+# [[aloof]], [[indifferent]], [[cool]]
+# The [[number]] 10<sup>-12</sup>.
+
+===See also===
+* {{l|mul|皮}} (the SI prefix pico)
+* ''Chinese Numeral'' ''' 漠 '''
+** '''Last:''' [[渺]]
+
+===References===
+* {{Han ref|kx=0646.130|dkj=18149|dj=1055.120|hdz=31694.050|uh=6F20|ud=28448|bh=BA7A|bd=47738}}
+
+[[Category:Chinese numerals]]
+[[Category:Chinese numeral symbols]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mò
+|c=mok6
+|h=pfs=mo̍k
+|md=
+|mn=bo̍k/mo̍͘h
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|沙漠}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水10}}
+
+# [[vague]]
+# [[obscure]]
+# [[desert]]
+# [[wide]]
+
+====Readings====
+* {{ja-readings|goon=[[まく]] (maku) {{non-joyo-reading}}|kanon=[[ばく]] (baku)|kun=[[すなはら]] (sunahara), [[ひろい]] (hiroi)|nanori=[[とう]] (tō), [[ひろ]] (hiro)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=막|eumhun=|rv=mak|mr=mak|y=mak}}
+
+# {{defn|lang=ko|sort=水11}}
+
+[[fr:漠]]
+[[ko:漠]]
+[[li:漠]]
+[[hu:漠]]
+[[mg:漠]]
+[[ja:漠]]
+[[no:漠]]
+[[pl:漠]]
+[[th:漠]]
+[[zh:漠]]

@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|诡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=06|sn=13|four=07612|canj=YRNMU}}
+
+# [[deceive]], [[cheat]], [[defraud]]
+# [[sly]]
+
+====References====
+* {{Han ref|kx=1158.030|dkj=35434|dj=1623.070|hdz=63968.010|uh=8A6D|ud=35437|bh=B8DE|bd=47326}}
+
+----
+
+==Chinese==
+{{zh-forms|s=诡}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|危|c1=s|c2=p|t1=say|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=guǐ
+|c=gwai2
+|mn=khúi
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|倬詭|兵行詭道|卓詭|弔詭|弔詭矜奇|拂詭|放誕詭僻|殊形詭狀|殊形詭色|波詭雲譎|波譎雲詭|瑰詭|矯激奇詭|言不詭隨|言行相詭|詭喻|詭寄|詭形怪狀|詭形殊狀|詭怪|詭怪奇譎|詭戾|詭故|詭時|詭激|詭特|詭狀異形|詭異|詭病|詭祕|詭色|詭計|詭計多端|詭計百出|詭計陰謀|詭詐|詭詞|詭誕|詭論|詭譎|詭譎多變|詭譎怪誕|詭譎無行|詭變多端|詭負葛藤|詭辭|詭辭欺世|詭辯|詭辯學派|詭遇|詭道|詭銜竊轡|詭隨|詭雷|詭麗輻輳|詼詭|諔詭|譎詭|陰謀詭計|雲譎波詭}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言06}}
+
+# {{defn|lang=ja|sort=言06}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[いつわる]] (itsuwaru)}}
+
+====Compounds====
+* {{ja-r|詭弁|きべん}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=궤|eumhun=|rv=gwe|mr=kwe|y=kwey}}
+
+# {{defn|lang=ko|sort=言06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quỷ]], [[nguỵ]]|rs=言06}}
+
+# {{defn|lang=vi|sort=言06}}
+
+[[fr:詭]]
+[[ko:詭]]
+[[hu:詭]]
+[[mg:詭]]
+[[ja:詭]]
+[[pl:詭]]
+[[th:詭]]
+[[zh:詭]]

@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|鸷}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=11|sn=22|four=45327|canj=GIHAF}}
+
+====References====
+* {{Han ref|kx=1499.130|dkj=47275|dj=2029.100|hdz=74655.060|uh=9DD9|ud=40409|bh=F7C1|bd=63425}}
+
+----
+
+
+==Chinese==
+{{zh-forms|s=鸷}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|執|鳥|c1=p|c2=s|t2=bird|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhì
+|c=zi3
+|mc=y
+|oc=y
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[bird]] of [[prey]]; [[vulture]]
+# [[fierce]]; [[brutal]]
+
+====Compounds====
+{{zh-der|忿鷙|卓鷙|鷙鳥|陰鷙|鷙蟲|鷙悍|虎鷙|鷙鳥不群}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鳥11}}
+
+# {{defn|lang=ja|sort=鳥11}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi), [[ちつ]] (chitsu)|kun=[[あらどり]] (aradori), [[あらい]] (arai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=지|eumhun=|rv=ji|mr=chi|y=ci}}
+
+# {{defn|lang=ko|sort=鳥11}}
+
+[[fr:鷙]]
+[[hu:鷙]]
+[[ja:鷙]]
+[[pl:鷙]]
+[[th:鷙]]
+[[zh:鷙]]

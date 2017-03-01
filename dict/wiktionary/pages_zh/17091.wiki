@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=07|sn=11|four=68057|canj=AOWY|ids=⿰日每}}
+
+# [[dark]], [[unclear]], [[obscure]]
+# [[night]]
+# [[unlucky]], [[bad luck]]
+
+====References====
+* {{Han ref|kx=0496.100|dkj=13960|dj=0862.140|hdz=21513.030|uh=6666|ud=26214|bh=B1E2|bd=45538}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huì
+|c=fui3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日07}}
+
+# {{defn|lang=ja|sort=日07}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai)|kun=[[つごもり]] (tsugomori), [[みそか]] (misoka), [[くらい]] (kurai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=회|rv=hoe|mr=hoe|y=hoy|eumhun=그믐|ehrv=geumeum|ehmr=kŭmŭm}}
+
+# {{defn|lang=ko|sort=日07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hổi]], [[hối]], [[hói]]|rs=日07}}
+
+# {{defn|lang=vi|sort=日07}}
+
+[[fr:晦]]
+[[ko:晦]]
+[[hu:晦]]
+[[mg:晦]]
+[[ja:晦]]
+[[no:晦]]
+[[pl:晦]]
+[[th:晦]]
+[[zh:晦]]

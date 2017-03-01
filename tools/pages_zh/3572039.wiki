@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|さん|ご|yomi=on}}
+
+===Etymology===
+{{rfe|lang=ja|Unclear if this was coined in Japanese or Chinese first.}}
+
+===Pronunciation===
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|/sa.ɴ.ɡo/|[sã̠ɴɡo̞]|[sã̠ɴŋo̞]}}
+
+===Noun===
+{{ja-noun|さんご}}
+
+# the [[time]] after [[childbirth]], the [[postpartum]] [[period]]
+#: {{ja-usex|産後に太るということを気にされる|さんご に ふとる と いう こと を き に される|be worried about gaining weight after giving birth}}
+
+====Antonyms====
+* {{ja-r|産前|さんぜん}}
+
+[[ja:産後]]

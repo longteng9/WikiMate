@@ -1,0 +1,56 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yèhuà
+|c=jik6 faa3
+|mn=e̍k-hòa
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[liquefy]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|えき|か|yomi=on}}
+
+===Etymology===
+From {{m|ja|液|sc=Jpan|tr=eki||liquid}} + {{m|ja|化|sc=Jpan|tr=ka||cause to become}}
+
+===Noun===
+{{ja-noun|えきか}}
+
+# [[liquefaction]]
+
+====Compounds====
+* {{ja-r|液化ガス|えきか ガス}}: liquefied gas
+* {{ja-r|液化天然ガス|えきか てんねん ガス}}: liquefied natural gas
+
+===Verb===
+{{ja-verb-suru|tr=both|えきか}}
+
+# to [[liquefy]]
+
+====Conjugation====
+{{ja-suru|えきか}}
+
+----
+
+==Korean==
+{{ko-hanjatab|液|化}}
+
+===Noun===
+{{ko-noun|rv=aekhwa|hangeul=액화}}
+
+# {{hanja form of|액화|liquefaction}}
+
+[[ko:液化]]
+[[hu:液化]]
+[[mg:液化]]
+[[ja:液化]]
+[[zh:液化]]

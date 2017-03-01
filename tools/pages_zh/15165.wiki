@@ -1,0 +1,98 @@
+{{character info/new}}
+{{also|絃}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=57|rad=弓|as=05|sn=8|four=10232|canj=NYVI|ids=⿰弓玄}}
+
+====References====
+* {{Han ref|kx=0357.310|dkj=09754|dj=0674.130|hdz=20993.070|uh=5F26|ud=24358|bh=A9B6|bd=43446}}
+
+----
+
+==Chinese==
+{{zh-forms|t2=絃}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|弓|玄|ls=psc|c1=s|c2=p|t1=bow}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xián,xuán,er=y,2nc=nonstandard literary
+|c=jin4,jyun4
+|h=pfs=hièn
+|md=hièng
+|mn=hiân
+|w=3hhi
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[string]]
+# [[crescent]]
+# [[spring]] of a [[clock]]
+# {{lb|zh|music}} [[string]] on a [[musical instrument]]
+# {{lb|zh|music}} [[stringed]] [[instrument]]s or [[music]] played by stringed instruments
+# {{lb|zh|mathematics}} [[chord]]
+# {{lb|zh|geometry}} [[hypotenuse]]
+# {{lb|zh|figurative}} [[wife]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|口弦|單弦|三弦|弦仔|單弦拉戲|下弦|合弦|和弦|上弦|單弦說唱|佩韋佩弦|三和弦|心弦|弦紋|六弦琴|初弦|主和弦|如箭在弦|弦外之音|弦樂|一弦琴|佩弦|四弦琴|弦月|子弦|公弦|弦韋|弦面板|弦歌不輟|弦歌|弦樂器|弦柱|弦心距|弦子|弦外之意|弓弦|弦誦|二十五弦|弦切角|弦不虛發|定弦|大三弦|品竹調弦|叩人心弦|動人心弦|七弦琴|弦吹|三弦書|二弦|扣人心弦|揉弦|更弦易轍|改弦易張|應弦飲羽|琴弦|斷弦|改弦易轍|拉弦子|改弦易調|空弦落雁|改弦更張|武城弦歌|矢在弦上|控弦|把弦兒|撥弦|正弦|琴斷朱弦|獨弦哀歌|撥弦樂器|無弦琴|擦弦樂器|朱弦玉磬|解弦更張|管弦樂|續弦|老弦|續弦膠|素女弦|繁弦急管|鼓吹弦|管弦|餘弦定律|韋弦|霹靂弦|餘弦|鉤弦|舜弦|管弦樂團|箭在弦上|調弦}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=弓05}}
+
+# bowstring
+
+====Readings====
+* {{ja-readings|goon=[[げん]] (gen)|kanon=[[けん]] (ken)|kun=[[つる]] (tsuru)}}
+
+====Compounds====
+* [[管弦楽]]
+* [[弦歌]]
+* [[三弦]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=현|eumhun=|rv=hyeon|mr=hyŏn|y=hyen}}
+
+# {{defn|lang=ko|sort=弓05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[huyền]]|rs=弓05}}
+
+# {{defn|lang=vi|sort=弓05}}
+
+[[fr:弦]]
+[[ko:弦]]
+[[hu:弦]]
+[[mg:弦]]
+[[ja:弦]]
+[[no:弦]]
+[[pl:弦]]
+[[sv:弦]]
+[[th:弦]]
+[[chr:弦]]
+[[vi:弦]]
+[[zh:弦]]

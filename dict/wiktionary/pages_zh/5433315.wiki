@@ -1,0 +1,27 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|し|しょう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|ししょう|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ししょう|hhira=ししやう}}
+
+# {{lb|ja|anatomy|sort=ししょう}} [[thalamus]]
+
+====Derived terms====
+* {{ja-r|視床下部|ししょうかぶ|[[hypothalamus]]}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=시상}}
+
+# {{hanja form of|시상|[[thalamus]]}}

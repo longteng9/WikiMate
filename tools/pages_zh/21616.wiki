@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|真}}
+==Translingual==
+{| class="floatright" border=1 cellpadding="5" cellspacing="0"
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Simplified Chinese|Simplified]]'''
+|<span class="Hans" lang="zh-hans" style="font-size: 175%">[[真]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Traditional Chinese|Traditional]]'''
+|<span class="Hant" lang="zh-hant" style="font-size: 175%">[[真]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Japanese]]'''
+|<span class="Jpan" lang="jp" style="font-size: 175%">[[真]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Korean]]'''
+|<span class="Ko" lang="ko" style="font-size: 175%">[[眞]]</span>
+|}
+===Etymology===
+Alternative form of [[真]].
+
+===Han character===
+{{Han char|rn=109|rad=目|as=05|sn=10|four=|canj=PBUC|ids=⿳匕⿺𠃊目八}}
+
+# [[real]], [[actual]], [[true]], [[genuine]]
+
+====References====
+* {{Han ref|kx=0804.180|dkj=23235|dj=1220.120|hdz=10249.120|uh=771E|ud=30494}}
+
+----
+
+==Chinese==
+{{zh-see|真|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=目05}}
+
+# {{defn|lang=ja|sort=目05}}
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin)|kun=[[ま]] (ma), [[まこと]] (makoto), [[まことに]] (makotoni)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[진]]|eumhun=|rv=jin|mr=chin|y=cin}}
+
+# {{defn|lang=ko|sort=目05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chân]]|rs=目05}}
+
+# {{defn|lang=vi|sort=目05}}
+
+[[fr:眞]]
+[[ko:眞]]
+[[hu:眞]]
+[[mg:眞]]
+[[ja:眞]]
+[[pl:眞]]
+[[th:眞]]
+[[vi:眞]]
+[[zh:眞]]

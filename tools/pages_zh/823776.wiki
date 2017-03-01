@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|しゅう|yomi=o|い}}
+
+===Pronunciation===
+{{ja-pron|acc=a|y=ko|しゅうい}}
+
+===Noun===
+{{ja-noun|しゅうい|kyu=周圍|hhira=しうゐ}}
+
+# [[surroundings]]; the [[surrounding]] [[area]]
+# {{lb|ja|geometry|sort=しゅうい}} a [[perimeter]]
+
+====Synonyms====
+* {{sense|perimeter}} {{ja-r|周%長|しゅう%ちょう}}
+
+===See also===
+* {{ja-r|円%周|えん%しゅう}}
+[[ko:周囲]]
+[[hu:周囲]]
+[[mg:周囲]]
+[[ja:周囲]]
+[[zh:周囲]]

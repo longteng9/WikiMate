@@ -1,0 +1,51 @@
+{{also|副肾}}
+==Chinese==
+{{zh-forms|s=副肾}}
+
+===Pronunciation===
+{{zh-pron
+|m=fùshèn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|anatomy}} [[adrenal gland]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ふく|じん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|ふくじん|acc=0|dev=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|ふくじん}}
+
+# {{lb|sort=ふくじん|ja|anatomy}} [[adrenal gland]]
+
+====Derived terms====
+* {{ja-r|副腎髄質ホルモン|ふくじん ずいしつ ホルモン}}
+* {{ja-r|副腎皮質|ふくじん ひしつ}}
+* {{ja-r|副腎皮質刺激ホルモン|ふくじん ひしつ しげき ホルモン}}
+* {{ja-r|副腎皮質ホルモン|ふくじん ひしつ ホルモン}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=부신}}
+
+# {{hanja form of|부신|[[adrenal gland]]}}
+
+[[ko:副腎]]
+[[hu:副腎]]
+[[zh:副腎]]

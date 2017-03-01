@@ -1,0 +1,55 @@
+{{also|同调}}
+==Chinese==
+{{zh-forms|s=同调}}
+
+===Pronunciation===
+{{zh-pron
+|m=tóngdiào,er=y
+|c=tung4 diu6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|music}} [[same]] [[tune]]
+# {{lb|zh|linguistics}} [[same]] [[tone]]
+# {{lb|zh|figurative}} people with the [[same]] [[interest]]s
+
+----
+
+==Japanese==
+{{ja-kanjitab|どう|ちょう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|どうちょう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|どうちょう}}
+
+# same condition
+# [[agreement]], [[conformity]]
+# [[tuning]] of a radio, television, etc.
+
+====Synonyms====
+* {{sense|agreement}} {{ja-r|同感|どうかん}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|どうちょう}}
+
+# [[agree]], [[sympathize]]
+#: {{ja-usex|「そうだね」と'''同調'''した。|「そう だ ね」 と '''どうちょう''' した。|"Yes", he agreed.}}
+# [[tune]] a radio, television, etc.
+
+====Conjugation====
+{{ja-suru|どうちょう}}
+
+===References===
+<references/>
+* {{R:Meikyo}}
+
+[[ko:同調]]
+[[hu:同調]]
+[[mg:同調]]
+[[ja:同調]]
+[[zh:同調]]

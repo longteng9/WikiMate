@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|蚝}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=14|sn=20|four=50132|canj=LIYRO}}
+
+====References====
+* {{Han ref|kx=1100.490|dkj=33748|dj=1564.330|hdz=42900.210|uh=8814|ud=34836|bh=C4AE|bd=50350}}
+
+----
+
+==Chinese==
+{{zh-forms|s=蚝}}
+
+===Pronunciation===
+{{zh-pron
+|m=háo
+|c=hou4
+|md=hò̤
+|mn=ô
+|w=3hhau
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[oyster]]
+
+====Synonyms====
+* (''Mandarin'') {{zh-l|牡蠣}}
+* (''Cantonese'') {{zh-l|生蠔}}
+* (''Min Dong'') {{zh-l|蠣}}
+* (''Min Nan'') {{zh-l|蚵}}
+* (''Wu'') {{zh-l|蠣黃}}
+
+{{zh-cat|Mollusks}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫14}}
+
+# {{defn|lang=ja|sort=虫14}}
+
+====Readings====
+* {{ja-readings|goon=[[ごう]] (gō)|kanon=[[こう]] (kō)|kun=[[かき]] (kaki)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=호|mr=ho|y=ho|eumhun=|ehrv=|ehmr=|ehy=}}
+
+# {{defn|lang=ko|sort=虫20}}
+
+====Compounds====
+* [[蠔殼]] ([[호각]])
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hào]], [[hàu]], [[hầu]]|rs=虫14}}
+
+# oyster
+
+[[fr:蠔]]
+[[hu:蠔]]
+[[mg:蠔]]
+[[ja:蠔]]
+[[pl:蠔]]
+[[th:蠔]]
+[[zh:蠔]]

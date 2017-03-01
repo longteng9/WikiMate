@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=09|sn=12|four=|canj=VKMB|ids=⿰女⿱左月}}
+
+# {{lb|zh|Min Nan}} good looking, pretty, handsome
+
+====References====
+* {{Han ref|kx=0267.200|dkj=06525|dj=0534.190|hdz=21064.100|uh=5AA0|ud=23200}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|嫷|v}}
+
+===Etymology 2===
+{{zh-see|惰|v}}
+
+===Etymology 3===
+{{zh-forms|alt=美,水,秀}}
+
+Compare {{cog|th|สวย||beautiful}}.
+
+====Pronunciation====
+{{zh-pron
+|mn=súi
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Min Nan}} [[good-looking]]; [[pretty]]; [[beautiful]]
+
+=====Antonyms=====
+* {{zh-l|䆀|bái}}
+
+===References===
+* {{R:twedu|B00708-004}}
+* {{qualifier|Min Nan}} {{thcwd|8310}}
+* {{qualifier|Min Nan}} {{thcwda|313}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女09}}
+
+# {{defn|lang=ja|sort=女09}}
+
+====Readings====
+* {{ja-readings|on=[[た]] (ta), [[だ]] (da), [[な]] (na), [[ら]] (ra)|kun=[[みめよい]] (mimeyoi), [[おこたる]] (okotaru), [[みめよいさま]] (mimeyoisama)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=女09|hanviet=[[thoã]]}}
+
+# {{defn|lang=vi|sort=女09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5aa0 Nom Foundation]
+
+[[zh-min-nan:媠]]
+[[fr:媠]]
+[[hu:媠]]
+[[mg:媠]]
+[[ja:媠]]
+[[pl:媠]]
+[[th:媠]]
+[[zh:媠]]

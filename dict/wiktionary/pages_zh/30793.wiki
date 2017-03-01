@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=172|rad=隹|as=10|sn=18|four=20714|canj=VUOG|ids=⿰邕隹}}
+
+# [[marsh]]
+# [[pool]]
+# [[harmonious]]
+
+====References====
+* {{Han ref|kx=1369.010|dkj=42123|dj=1875.010|hdz=64108.030|uh=96DD|ud=38621|bh=F175|bd=61813}}
+
+----
+
+==Chinese==
+{{zh-forms|s=雍}}
+{{attention|zh|is the simplified form correct?}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yōng
+|c=jung1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|肅雝|雝雝}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=隹10}}
+
+# {{defn|lang=ja|sort=隹10}}
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō), [[ゆ]] (yu)|kun=[[やわらぐ]] (yawaragu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=옹|eumhun=|rv=ong|mr=ong|y=ong}}
+
+# {{defn|lang=ko|sort=隹10}}
+
+[[fr:雝]]
+[[hu:雝]]
+[[pl:雝]]
+[[th:雝]]
+[[vi:雝]]
+[[zh:雝]]

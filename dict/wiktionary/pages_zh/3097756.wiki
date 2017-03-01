@@ -1,0 +1,66 @@
+{{also|无名指}}
+==Chinese==
+{{zh-forms|s=无名指|type=21|lit=unnamed finger}}
+
+===Etymology===
+Literally, "unnamed finger". Named as such as there are names for all the other fingers on one's hand except for this one.
+{{rfe|zh|Dubious and ambiguous etymology.}}
+
+===Pronunciation===
+{{zh-pron
+|m=wúmíngzhǐ
+|c=mou4 ming4 zi2
+|mn=bû-bêng-cháiⁿ
+|h=pfs=mò-miàng-chṳ́/mò-miàng-chí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[ring finger]]
+
+{{zh-cat|Fingers}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|む|めい|し}}
+{{bor|ja|ltc|sort=むめいし|無名指|tr={{IPAchar|/mɨo miᴇŋ t͡ɕˠiɪX/}}|lit=no, without + name + finger}}.  Compare modern {{etyl|yue|-}} reading ''mou<sup>4</sup> ming<sup>4</sup> zi<sup>2</sup>'', {{etyl|hak|-}} ''mò-miàng-chí''.
+
+====Pronunciation====
+{{ja-pron|yomi=o|むめいし|acc=2|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|むめいし}}
+
+# {{synonym of|lang=ja|薬指}}: [[ring finger]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|||ゆび|sort=ななしゆび}}
+{{cal|ja|sort=ななしゆび|etyl lang=ltc|etyl term=無名指|etyl t=[[unnamed]] [[finger]]}}, swapping the readings of the first two kanji to match Japanese word order.
+
+This reading is more commonly spelled {{ja-l|名無し指}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|ななしゆび|acc=3|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|名無し指}} {{qualifier|more common}}
+
+====Noun====
+{{ja-noun|ななしゆび}}
+
+# {{synonym of|lang=ja|薬指}}: [[ring finger]]
+
+===References===
+<references/>
+
+{{C|ja|Fingers|sort=むめいし}}
+
+[[ko:無名指]]
+[[lo:無名指]]
+[[ja:無名指]]
+[[th:無名指]]

@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=06|sn=12|four=44227|canj=TKSS}}
+
+# [[lichee]]
+
+====References====
+* {{Han ref|kx=1031.210|dkj=30865|hdz=53212.050|uh=8354|ud=33620|bh=AFEF|bd=45039}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艸|劦|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lì
+|c=lai6
+|mn=nāi
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|番荔枝|荔奴|荔子|荔枝|荔枝奴|薜荔}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸06}}
+
+# {{defn|lang=ja|sort=艸06}}
+
+====Readings====
+* {{ja-readings|on=[[り]] (ri), [[れい]] (rei), [[れん]] (ren)|kun=[[おおにら]] (oonira)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lệ]], [[lê]]|rs=艸06}}
+
+# {{defn|lang=vi|sort=艸06}}
+
+[[fr:荔]]
+[[hu:荔]]
+[[mg:荔]]
+[[no:荔]]
+[[pl:荔]]
+[[th:荔]]
+[[zh:荔]]

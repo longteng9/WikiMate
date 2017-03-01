@@ -1,0 +1,58 @@
+{{also|动态}}
+==Chinese==
+{{zh-forms|s=动态}}
+
+===Pronunciation===
+{{zh-pron
+|m=dòngtài
+|c=dung6 taai3
+|mn=qz:tǒng-thài/tw,xm,zz:tōng-thài
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[dynamic]] [[state]]
+# [[development]]s; [[trend]]s; [[dynamic]]s; [[developmental]] [[state]]
+
+====Antonyms====
+* {{sense|dynamic state}} {{zh-l|靜態}}
+
+=====Derived terms=====
+{{zh-der|動態平衡|全動態影像}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|どう|たい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|どうたい|y=o}}
+
+===Noun===
+{{ja-noun|どうたい}}
+
+# [[movement]], the [[state]] of something as it is moving or [[dynamic]]
+
+====Antonyms====
+* {{ja-r|静態|せいたい}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=동태}}
+
+# {{hanja form of|동태|}}
+
+[[zh-min-nan:動態]]
+[[ko:動態]]
+[[hu:動態]]
+[[mg:動態]]
+[[ja:動態]]
+[[zh:動態]]

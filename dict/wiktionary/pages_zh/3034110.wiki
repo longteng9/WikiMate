@@ -1,0 +1,129 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tiānshén
+|c=tin1 san4
+|mn=thian-sîn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[god]]; [[godhead]]; [[divinity]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|てん|じん|yomi=o}}
+
+===Etymology 1===
+From {{etyl|zhx|ja|sort=てんじん}} {{m|zh|sc=Hani|天神}}. Date of borrowing unknown. Compare modern {{cog|cmn|天神|tr=tiānshén||god, godhead, divinity}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}: {{l|ja|sc=Latn|呉音|Go'on}}
+* {{ja-accent-common|h|て|んじん}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[tẽ̞ɴd͡ʑĩɴ]}}
+
+=====Usage notes=====
+Less commonly read using the {{l|ja|sc=Latn|漢音|''kan'on''}} reading ''tenshin'': {{IPAchar|[tẽ̞ɴɕĩɴ]}}<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Noun====
+[[File:Umeboshi_20101209_b.jpg|thumb|120px|{{lang|ja|天神}}: an [[umeboshi]]]]
+[[File:Nihongami_7.jpg|thumb|120px|{{lang|ja|天神}}: the hairstyle]]
+{{ja-noun|てんじん|rom=Tenjin}}
+
+# {{lb|ja|sort=てんじん|mythology|Shinto}}: the Japanese gods of the [[heavens]]
+# a [[noble]] wearing [[ordinary]] [[robe]]s (robes not [[dye]]d to match the wearer's [[rank]])
+# an [[umeboshi]] {{qualifier|from the way that Sugawara no Michizane (see '''Proper noun''' below) was very fond of [[ume]]}}
+# an umeboshi [[pit]]
+# short for {{m|ja|天神髷|tr=tenjin mage}} or {{m|ja|天神結び|tr=tenjin musubi}}, a certain kind of [[bow]]-shaped [[topknot]] or [[bun]] [[hairstyle]] worn by women, popular in the late 1800s
+
+=====Synonyms=====
+* {{sense|gods}} {{ja-l|天つ神|あまつかみ|ama tsu kami}}
+* {{sense|umeboshi}} {{ja-l|梅干し|うめぼし|umeboshi}}
+* {{sense|hairstyle}} {{ja-l|天神髷|てんじんまげ|tenjin mage}}
+* {{sense|hairstyle}} {{ja-l|天神結び|てんじんむすび|tenjin musubi}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|天神地祇|てんじんちぎ|tenjin chigi}}: all the gods of [[heaven]] and [[earth]]
+* {{ja-l|天神七代|てんじんしちだい|Tenjin Shichidai}}: the seven [[generation]]s of [[gods]] in [[Shintō]] [[mythology]]
+{{der-bottom}}
+
+=====External links=====
+* {{pedia|lang=ja|天神|天神 (Tenjin; disambig page)}}
+* {{pedia|Tenjin|Tenjin (disambig page)}}
+* {{pedia|lang=ja|梅干し|梅干し (Umeboshi)}}
+* {{pedia|Umeboshi}}
+
+====Proper noun====
+[[File:Sugawara_Michizane.jpg|thumb|120px|{{lang|ja|天神}}: Sugawara no Michizane]]
+[[File:Kitano-tenmangu_Kyoto_Japan41s3s4592.jpg|thumb|120px|{{lang|ja|天神}}: Tenjin-san, the Tenman-gū shrine to Sugawara no Michizane in Kitano]]
+[[File:Tenjinv2.jpg|thumb|120px|{{lang|ja|天神}}: Tenjin Station in downtown Fukuoka]]
+{{ja-pos|proper|てんじん}}
+
+# the [[Shinto]] [[kami]] of [[scholarship]], the [[deification]] of {{w|Sugawara no Michizane}} (845-903 CE), a [[scholar]], [[poet]], and [[politician]]
+# a [[shrine]] dedicated to {{w|Sugawara no Michizane}}
+# one of the traditional [[Noh]] masks, depicting one of the {{m|ja|鬼神|tr=onigami; kijin||fierce gods}} as the [[vengeful]] [[spirit]] of {{w|Sugawara no Michizane}}, the lead role in the {{m|ja|雷電|tr=Raiden}} piece
+# an area in [[downtown]] [[Fukuoka]]
+
+=====Synonyms=====
+* {{sense|shrine}} {{ja-l|天満宮|てんまんぐう|Tenman-gū}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|天神ぞ|てんじんぞ|Tenjin zo}}: (''archaic'') [[for sure]], for [[certain]], [[absolutely]], [[definitely]]
+* {{ja-l|天神講|てんじんこう|Tenjin Kō}}: a [[matsuri]] celebrating Sugawara no Michizane, held on the date of his death, 25 February (or on the 25th of every month)
+* {{ja-l|天神祭|てんじんまつり|Tenjin Matsuri}}: a [[matsuri]] celebrating Sugawara no Michizane, held on the date of his death, 25 February (or on the 25th of every month)
+* {{ja-l|天神橋|てんじんばし|Tenjin-bashi}}: a [[bridge]] over the [[Yodo River]] in [[Ōsaka]]
+* {{ja-l|天神髭|てんじんひげ|Tenjin hige}}: a [[beard]] of the style shown in [[depiction]]s of Sugawara no Michizane
+* {{ja-l|天神山|てんじんやま|Tenjin Yama}}: the name of various mountains and other places around Japan
+* {{ja-l|天神山古墳|てんじんやまこふん|Tenjin Yama Kofun}}: a late-fourth-century [[kofun]] [[tomb]] in {{w|Gunma prefecture}}
+{{der-bottom}}
+
+=====External links=====
+* {{pedia|lang=ja|菅原道真|菅原道真 (Sugawara no Michizane)}}
+* {{pedia|Sugawara no Michizane}}
+* {{pedia|lang=ja|天神 (福岡市)|天神 (福岡市) (Tenjin, Fukuoka)}}
+* {{pedia|Tenjin, Fukuoka}}
+* {{pedia|lang=ja|福岡市|福岡市 (Fukuoka City)}}
+* {{pedia|Fukuoka}}
+
+===Etymology 2===
+Phrase consisting of {{compound|lang=ja|sort=あまつかみ|天|tr1=ama|t1=the heavens|つ|tr2=tsu|pos2={{etyl|ojp|-}} possessive particle|神|tr3=kami|t3=god, gods}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+More commonly written with the ''tsu'' explicitly spelled out in hiragana, as {{ja-l|天つ神}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[a̠ma̠ t͡sɯᵝ ka̠mi]}}
+
+====Alternative forms====
+* {{ja-l|天つ神}}, {{ja-l|天津神}}
+
+====Noun====
+{{ja-noun|あま つ かみ}}
+
+# {{lb|ja|sort=あまつかみ|mythology|Shinto}}: the Japanese gods of the [[heavens]]
+
+=====Coordinate terms=====
+{{der-top|Coordinate terms}}
+* {{ja-l|国つ神|くにつかみ|kuni tsu kami}}: the Japanese gods of the [[earth]]
+* {{ja-l|天神地祇|てんじんちぎ|tenjin chigi}}: all the gods of [[heaven]] and [[earth]]
+{{der-bottom}}
+
+=====External links=====
+* {{pedia|lang=ja|天津神・国津神|天津神・国津神 (Ama tsu kami, kuni tsu kami)}} Gives an overview of both groups.
+* {{pedia|List_of_divinities_in_Japanese_mythology#Shinto|List_of_divinities_in_Japanese_mythology#Shinto}} Does not distinguish between ''ama tsu kami'' and ''kuni tsu kami''.
+
+===References===
+<references/>
+
+[[zh-min-nan:天神]]
+[[ko:天神]]
+[[mg:天神]]
+[[ja:天神]]
+[[zh:天神]]

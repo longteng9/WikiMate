@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=03|sn=6|four=37117|canj=ERU|ids=⿰氵巳}}
+
+# a [[stream]] which [[leave]]s the [[main]] [[branch]] then later [[return]]s
+
+====References====
+* {{Han ref|kx=0605.170|dkj=17136|dj=0999.090|hdz=31555.010|uh=6C5C|ud=27740|bh=C9FA|bd=51706}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=洍}}
+
+===Pronunciation===
+{{zh-pron
+|m=sì
+|c=ci5
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水03}}
+
+# {{defn|lang=ja|sort=水03}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi), [[じ]] (ji), [[い]] (i)|kun=[[かわ]] (kawa)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|eumhun=|rv=sa|mr=sa|y=sa}}
+
+# {{defn|lang=ko|sort=水03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水03| hanviet = [[dẫy]], [[dãi]], [[rỉ]], [[dỉ]], [[tị]], [[tự]], [[tỷ]]}}
+
+# {{defn|lang=vi|sort=水03}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:汜]]
+[[ko:汜]]
+[[hu:汜]]
+[[mg:汜]]
+[[pl:汜]]
+[[th:汜]]
+[[zh:汜]]

@@ -1,0 +1,62 @@
+{{also|排洩}}
+==Chinese==
+{{zh-forms|t2=排洩}}
+
+===Pronunciation===
+{{zh-pron
+|m=páixiè
+|c=paai4 sit3
+|mn=pâi-siat
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|of industrial waste}} [[drainage]]; [[emission]]
+# {{lb|zh|of bodily fluids and waste}} [[excretion]]; [[evacuation]]
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|of industrial waste}} to [[drain]]; to [[emit]]
+# {{lb|zh|of bodily fluids and waste}} to [[excrete]]; to [[evacuate]]
+
+===Synonyms===
+* {{qualifier|Min Nan}} {{zh-l|排卸|pâi-sià}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|はい|せつ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|はいせつ|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はいせつ}}
+
+# [[excretion]] (''The process of removing or ejecting material that has no further utility'')
+
+====Compounds====
+* {{ja-r|排泄物|はいせつぶつ}}: [[excretion]] (''something excreted'')
+
+===Verb===
+{{ja-verb-suru|はいせつ}}
+
+# [[excrete]]
+
+====Conjugation====
+{{ja-suru|はいせつ}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[Category:ja:Bodily fluids|はいせつ]]
+[[Category:ja:Medicine|はいせつ]]
+
+[[ko:排泄]]
+[[hu:排泄]]
+[[sv:排泄]]
+[[zh:排泄]]

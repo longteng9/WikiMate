@@ -1,0 +1,31 @@
+{{also|预告|預告|豫告}}
+==Japanese==
+{{ja-kanjitab|よ|こく|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|よこく|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|よこく|kyu=豫告}}
+
+# advance [[notice]]
+#: {{ja-usex|次回'''予告'''|じかい '''よこく'''|preview of the next episode}}
+#: {{ja-usex|'''予告'''編|'''よこく'''へん|trailer; preview}}
+# [[warning]]
+
+===Verb===
+{{ja-verb-suru|よこく}}
+
+# to give notice
+# to [[warn]]
+
+====Conjugation====
+{{ja-suru|よこく}}
+
+===References===
+<references/>
+
+[[fr:予告]]
+[[hu:予告]]
+[[ja:予告]]
+[[zh:予告]]

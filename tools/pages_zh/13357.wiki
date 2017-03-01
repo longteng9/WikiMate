@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|增}}
+==Translingual==
+{{ja-forms|増|[[增]]|[[增]]}}
+
+===Etymology===
+Japanese shinjitai {{Han simp|增|f=曾|t=曽}}.
+
+Current form {{Han compound|土|t1=earth|曽|ls=psc|c1=s|c2=p}}.
+
+===Han character===
+{{Han char|rn=32|rad=土|as=11|sn=14|four=|canj=GCWA,XGCWA|ids=⿰土曽}}
+
+# [[increase]], [[add]] to, [[augment]]
+
+====Related characters====
+* [[僧]] [[憎]]
+
+====References====
+* {{Han ref|kx=0238.191|dkj=05448|hdz=10483.011|uh=5897|ud=22679}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=土11}}
+
+====Readings====
+* {{ja-readings|goon=[[そう]] (sō) {{non-joyo-reading}}|kanon=[[そう]] (sō) {{non-joyo-reading}}|kanyoon=[[ぞう]] (zō)|kun=[[ます]] (masu), [[ふえる]] (fueru), [[ふやす]] (fuyasu)}}
+
+====Derived terms====
+* {{l|ja|増し}}, {{l|ja|まし}}, {{l|ja|マシ|tr=mashi}}
+* {{l|ja|増す|tr=[[ます]], masu}}
+
+===Noun===
+{{ja-noun|ぞう}}
+
+# [[increase]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=증|rv=jeung|mr=chŭng}}
+
+# {{defn|lang=ko|sort=土11}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[zēng]] ([[zeng1]])|wg=tseng<sup>1</sup>}}
+
+# {{defn|lang=cmn|sort=土11}}
+
+[[fr:増]]
+[[ko:増]]
+[[li:増]]
+[[hu:増]]
+[[mg:増]]
+[[ja:増]]
+[[pl:増]]
+[[th:増]]
+[[zh:増]]

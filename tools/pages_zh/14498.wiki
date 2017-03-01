@@ -1,0 +1,53 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=06|sn=9|four=22601|canj=UOMR|ids=⿱山合}}
+
+# [[cave]], [[cavern]]
+
+====References====
+* {{Han ref|kx=0310.090|dkj=08020|dj=0610.150|hdz=10771.010|uh=5CC7|ud=23751|bh=CEA4|bd=52900}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bā,kè
+|c=baa1,hap6
+|mn=bā/bâ
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Min Nan'') {{thcwd|4872}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山06}}
+
+# {{defn|lang=ja|sort=山06}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[ごう]] (gō)|kun=}}
+
+[[fr:峇]]
+[[hu:峇]]
+[[ja:峇]]
+[[pl:峇]]
+[[th:峇]]
+[[zh:峇]]

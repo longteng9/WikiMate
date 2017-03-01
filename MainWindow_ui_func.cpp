@@ -6,6 +6,7 @@
 #include <QString>
 #include <QListWidgetItem>
 #include <QIcon>
+#include <QString>
 #include <QScrollBar>
 #include "DictEngine.h"
 #include "FragmentManager.h"
@@ -37,16 +38,19 @@ void MainWindow::setCurrentFragment(int index){
         ui->tableEntries->itemAt(0, 0)->setSelected(true);
         ui->tableEntries->setFocus(Qt::MouseFocusReason);
     }
+
+    this->mMessageForm->hide();
 }
 
-
-
 void MainWindow::showEntriesTableAsync(const QStringList &header){
-    qDebug() << "show entries table asynchronously";
     ui->tableEntries->clear();
     ui->tableEntries->setRowCount(1);
     ui->tableEntries->setColumnCount(header.size());
     ui->tableEntries->setHorizontalHeaderLabels(header);
 
+    qDebug() << "show entries table asynchronously";
     DictEngine::instance()->fetchEntryPatchAsync(header, "zh", "en");
+    DictEngine::instance()->queryDumpEntryPatchAsync(header, "zh", "en");
 }
+
+

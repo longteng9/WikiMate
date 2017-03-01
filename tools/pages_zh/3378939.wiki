@@ -1,0 +1,79 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shénmù
+|c=san4 muk6
+|mn=sîn-bo̍k
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# A [[sacred]] [[tree]]
+
+====See also====
+* {{pedialite|lang=zh}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+[[File:Yuki_Shrine_-_giant_Sugi.jpg|thumb|250px|{{lang|ja|神木}} (''shinboku'', ''kanki''): a '''{{l|en|sacred}} {{l|en|tree}}''' encircled with a ''{{w|shimenawa}}'' belt.]]
+</div>
+{{ja-kanjitab|yomi=o|しん|ぼく}}
+Possibly from {{etyl|ltc|ja|sort=しんぼく}} compound {{m|ltc|神木|tr={{IPAchar|/ʑiɪn muk̚/}}|lit=god + tree}}.  Compare modern {{etyl|min|-}} reading ''sîn-bo̍k''.  The Japanese term uses the [[漢音#Japanese|kan'on]], suggesting a later borrowing.
+
+Alternatively, may have been coined in Japan as a compound of {{etyl|ltc|-}}-derived elements, as {{m|ja|神|tr=shin||god, spirit}} + {{m|ja|木|tr=boku||tree}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|しんぼく|acc=0|acc_ref=DJR|acc2=1|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|しんぼく}}
+
+# a {{l|en|sacred}} or {{l|en|holy}} {{l|en|tree}}
+
+=====Synonyms=====
+* {{qualifier|honorific}} {{ja-r|御神木|ごしんぼく}}, {{ja-r|ご神木|ごしんぼく}}
+* {{ja-r|神樹|しんじゅ}}
+* {{ja-r|霊木|れいぼく}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|かむ|k1=かん|き}}
+{{IPAchar|/kamuki/}} → {{IPAchar|/kaɴki/}}
+
+From {{etyl|ojp|ja|sort=かんき}}.  Originally a compound of {{compound|lang=ja|sort=かむき|神|tr1=kamu|t1=god, spirit|pos1=ancient combining reading|木|tr2=ki|t2=tree}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Appears with the older ''kamuki'' phonetic rendering in the ''{{w|Man'yōshū}}'' poetry compilation completed in 759 CE.
+
+====Pronunciation====
+{{ja-pron|yomi=k|かんき}}
+
+====Noun====
+{{ja-noun|かんき}}
+
+# {{lb|ja|sort=かんき|obsolete}} {{n-g|see </i>shinboku<i> above}}
+
+=====Usage notes=====
+Superseded by the ''shinboku'' reading above.
+
+===Etymology 3===
+{{ja-kanjitab|yomi=irr|さか|き}}
+Alternative spelling of {{m|ja|榊|tr=sakaki}} as {{juku|sort=さかき}}, likely based on a partial decomposition of the {{m|ja|榊}} character into its {{m|ja|神}} and {{m|ja|木}} components.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|さかき|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|さかき}}
+
+# {{lb|ja|sort=さかき|rare}} the {{l|en|sakaki}} tree, {{taxlink|Cleyera japonica|species|noshow=1|ver=161128}}
+
+===References===
+<references/>
+
+[[zh:神木]]

@@ -1,9 +1,0 @@
-==Japanese==
-{{ja-kanjitab|正|定|値|行|列}}
-
-===Noun===
-{{ja-noun|せいていち ぎょうれつ}}
-
-# {{lb|ja|linear algebra}} [[positive-definite matrix]]
-
-[[Category:ja:Linear algebra|せいていちぎょうれつ]]

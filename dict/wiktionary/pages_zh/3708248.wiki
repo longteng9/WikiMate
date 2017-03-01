@@ -1,0 +1,44 @@
+==Japanese==
+{{ja-kanjitab|さい|てき|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|さいてき}}
+
+# [[optimal]], most [[appropriate]], best [[suited]]
+
+====Inflection====
+{{ja-na|最適|さいてき}}
+
+===Noun===
+{{ja-noun|さいてき}}
+
+# the [[best]], the [[optimum]]
+#: {{ja-usex|その選択は'''最適'''とはいえない。|その せんたく は '''さいてき''' と は いえない。|The choice is not the best.}}
+
+====Derived terms====
+{{der-top}}
+Uncommon
+* {{ja-l|最適化|さいてきか|saiteki-ka}} optimization
+* {{ja-l|最適課税|さいてきかぜい|saiteki gazei}} optimal taxation
+* {{ja-l|最適任者|さいてきにんしゃ|saiteki ninja}} most qualified person
+
+{{der-mid}}
+Computer Terms
+* {{ja-l|最適ルート|さいてきルート|saiteki rūto}} optimal route
+* {{ja-l|最適化プログラム|さいてきかプラグラム|saiteki puroguramu}} defragmentation program
+{{der-bottom}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=최적}}
+
+# {{hanja form of|최적|optimum}}
+
+[[ko:最適]]
+[[mg:最適]]
+[[chr:最適]]
+[[zh:最適]]

@@ -1,0 +1,134 @@
+{{character info/new}}
+{{also|醋}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=164|rad=酉|as=05|sn=12|four=18611|canj=MWOS}}
+
+# [[vinegar]]
+
+====References====
+* {{Han ref|kx=1282.010|dkj=39824|dj=1781.430|hdz=63578.090|uh=9162|ud=37218|bh=DC60|bd=56416}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuò
+|c=zok6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一酬一酢|梅酢|酢敗|酢漿草|酬酢}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=酉05}}
+
+# [[vinegar]]
+
+====Readings====
+{{ja-readings
+|goon=[[ざく]] (zaku) {{non-joyo-reading}}, [[す]] (su) {{non-joyo-reading}}
+|kanon=[[さく]] (saku), [[そ]] (so) {{non-joyo-reading}}
+|kanyoon=[[さく]] (saku)
+|kun=[[す]] (su)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|酢酸|さくさん}}: [[acetic acid]]
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|す|yomi=k}}
+Unclear.  One theory is that this is a native Japanese term, with the ''su'' reading somehow related to the way that very sour things cause one to pucker.
+
+Given that vinegar was historically introduced to Japan in the 300-400s from China, another possibility is that the ''su'' reading is from {{etyl|ltc|ja|sort=す}} {{m|zh|酢}} or {{m|zh|醋}} instead, and that this naturalized and came to be regarded as a native [[訓読み|kun'yomi]] rather than a Chinese-derived [[音読み|on'yomi]].  Compare modern {{etyl|cmn|-}} reading ''cù'' or {{etyl|yue|-}} ''cou<sup>3</sup>''.
+
+===Pronunciation===
+{{ja-pron|yomi=k|す|acc=1|acc_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|醋}}
+* {{ja-l|酸}}
+
+===Noun===
+{{ja-noun|す}}
+
+# [[vinegar]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|酸っぱい|すっぱい}}: [[sour]]
+* {{ja-r|酸い|すい}}: [[sour]]
+* {{ja-r|酸し|すし}}: [[sour]] {{qualifier|archaic}}
+* {{ja-r|鮨|すし}}, {{ja-r|鮓|すし}}, {{ja-r|寿司|すし}}: [[sushi]]
+* {{ja-r|酢豚|すぶた}}: [[sweet-and-sour]] [[pork]]
+{{der-bottom}}
+
+====Idioms====
+{{der-top|Idioms of {{lang|ja|酢}}}}
+* {{ja-r|酢が過ぎる|す が すぎる}}: Doing too much, being excessive.
+* {{ja-r|酢でさいて飲む|す で さいて のむ}}: Doing something very simple.
+* {{ja-r|酢でも酒塩でも|す で も さかしお で も}}, {{ja-r|酢でも蒟蒻でも|す で も こんにゃく で も}}: {{sense|used with a negative verb}} Something that cannot be done in the usual fashion, or cannot be done easily.
+* {{ja-r|酢に当て粉に当て|す に あて こ に あて}}, {{ja-r|酢につけ粉につけ|す に つけ こ に つけ}}: About something, about various things; from time to time.
+* {{ja-r|酢にも粉にも|す に も こ に も}}, {{ja-r|酢にも塩にも|す に も しお に も]}}, {{ja-r|酢にも蛸にも|す に も たこ に も}}, {{ja-r|酢にも味噌にも|す に も みそ に も}}: About anything, in anything.
+* {{ja-r|酢の粉の|す の こ の}}, {{ja-r|酢の蒟蒻の|す の こんにゃく の}}: Of anything, belonging to anything.
+* {{ja-r|酢を買う|す を かう}}, {{ja-r|酢を乞う|す を こ.う}}: To lose [[goodwill]] through excessive [[sycophancy]], to anger someone by saying more than one should; to [[agitate]] or [[instigate]], to stir things up.
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Condiments|す]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[초]], [[작]]|eumhun=|rv=cho, jak|mr=ch'o, chak|y=cho, cak}}
+
+# {{defn|lang=ko|sort=酉05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tạc]], [[thố]]|rs=酉05}}
+
+# {{defn|lang=vi|sort=酉05}}
+
+[[fr:酢]]
+[[ko:酢]]
+[[la:酢]]
+[[lt:酢]]
+[[li:酢]]
+[[hu:酢]]
+[[mg:酢]]
+[[ja:酢]]
+[[pl:酢]]
+[[ru:酢]]
+[[th:酢]]
+[[tg:酢]]
+[[tr:酢]]
+[[zh:酢]]

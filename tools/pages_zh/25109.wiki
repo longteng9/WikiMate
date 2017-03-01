@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|蔔}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=08|sn=14|four=44247|canj=TBSE|ids=⿱艹服}}
+
+====References====
+* {{Han ref|kx=1037.310|dkj=31170|dj=1496.070|hdz=53237.040|uh=83D4|ud=33748|bh=B5E8|bd=46568}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fú
+|c=fuk6,baak6
+|mn=ho̍k/po̍k
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[turnip]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸08}}
+
+# {{defn|lang=ja|sort=艸08}}
+
+====Readings====
+* {{ja-readings|on=[[ほく]] (hoku), [[ふく]] (fuku)|kun=[[だいこん]] (daikon)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=복|eumhun=|rv=bok|mr=pok|y=pok}}
+
+# {{defn|lang=ko|sort=艸08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=艸08| hanviet = phục}}
+
+# {{defn|lang=vi|sort=艸08}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=83d4 Nom Foundation]
+
+[[fr:菔]]
+[[hu:菔]]
+[[mg:菔]]
+[[pl:菔]]
+[[th:菔]]
+[[zh:菔]]

@@ -1,0 +1,79 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiāohuà
+|c=siu1 faa3
+|h=pfs=sêu-fa
+|mn=siau-hòa
+|ma=Zh-xiaohuà.ogg
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[digest]]
+# to [[think over]]; to [[process]]
+
+===Noun===
+{{zh-noun}}
+
+# [[digestion]]
+
+====Derived terms====
+{{zh-der|消化酶|消化系統|消化作用|消化不良|消化器官|消化液|消化腺|消化道}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|か}}
+
+===Etymology===
+From {{m|ja|消|sc=Jpan|tr=shō||extinguish}} + {{m|ja|化|sc=Jpan|tr=ka||change into}}
+
+===Noun===
+{{ja-noun|しょうか}}
+
+# [[digestion]]
+# [[assimilation]]
+# [[consumption]]
+
+====Derived terms====
+{{top2}}
+* [[消化液]] (''shōkaeki''): digestive fluids
+* [[消化管]] (''shōkakan''): alimentary canal
+* [[消化器]] (''shōkaki''): digestive organs
+* [[消化系]] (''shōkakei''): digestive system
+* [[消化剤]] (''shōkazai''): digestive
+* [[消化腺]] (''shōkasen''): digestive gland
+* [[消化力]] (''shōkaryoku''): digestive capacity
+{{mid2}}
+* [[消化不良]] (''shōka furyō''): indigestion, dyspepsia
+* [[消化性潰瘍]] (''shōka-seikaiyō''): peptic ulcer
+* [[消化管間質腫瘍]] (''shōkakan-kanshitsu-juyō''): gastrointestinal stromal tumor
+* [[不消化]] (''fushōka''): indigestion
+* [[未消化]] (''mishōka''): unfulfilled
+* [[不消化物]] (''fushōkabutsu''): indigestible materials
+* [[化学的消化]] (''kagakuteki shōka''): chemical digestion
+{{bottom}}
+
+===Verb===
+{{ja-verb-suru|しょうか}}
+
+# to [[digest]]
+
+====Conjugation====
+{{ja-suru|しょうか}}
+
+[[zh-min-nan:消化]]
+[[cs:消化]]
+[[ko:消化]]
+[[lt:消化]]
+[[hu:消化]]
+[[mg:消化]]
+[[ja:消化]]
+[[zh:消化]]

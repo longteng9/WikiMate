@@ -1,0 +1,50 @@
+{{also|喷出}}
+==Chinese==
+{{zh-forms|s=喷出}}
+
+===Pronunciation===
+{{zh-pron
+|m=pēnchū
+|h=pfs=phun-chhut
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[spurt]], to [[spout]]
+
+===Noun===
+{{zh-noun}}
+
+# [[blowout]]; [[expulsion]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふん|しゅつ|yomi=on}}
+
+===Noun===
+{{ja-noun|ふんしゅつ}}
+
+# [[spewing]], [[gushing]]
+# [[eruption]], [[explosion]] of anger etc.
+
+====Derived terms====
+* {{l/ja|噴出物}}
+
+===Verb===
+{{ja-verb-suru|ふんしゅつ}}
+
+# [[spew]], [[gush]]
+# [[erupt]], [[explode]] in anger etc.
+#* {{RQ:Obama enzetsu}}
+#*: {{ja-usex|同様のことがテュニジアで起こった。絶望に駆られた露店商の行動は、国中の人々が感じていた不満を'''噴出'''させた。|^どうよう の こと が ^テュニジア で おこった。 ^ぜつぼう に かられたろ てんしょう の こうどう は、 くにじゅう の ひとびと が かんじて いた ふまん を '''ふんしゅつ''' させた。|So it was in Tunisia, as that vendor’s act of desperation tapped into the frustration felt throughout the country.}}
+
+====Conjugation====
+{{ja-suru|ふんしゅつ}}
+
+[[ko:噴出]]
+[[hu:噴出]]
+[[mg:噴出]]
+[[zh:噴出]]

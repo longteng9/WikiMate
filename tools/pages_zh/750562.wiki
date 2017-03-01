@@ -1,0 +1,83 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fùmǔ
+|c=fu6 mou5
+|h=pfs=fu-mû
+|mn=hū-bió/zz:hū-bó/hū-bú/hū-bó͘
+|mn_note=hū-bó͘ - literary
+|w=3vu mu
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[parents]]; [[father]] and [[mother]]
+#: {{zh-x|生身 父母|biological '''parents'''}}
+# {{zh-short|父母官}}
+
+====Synonyms====
+* {{zh-l|雙親}}
+* {{zh-l|爸媽}}
+* {{zh-l|爹娘}}
+* {{zh-l|爺娘}}
+* {{qualifier|literary}} {{zh-l|怙恃}}
+* {{qualifier|Min Nan}} {{zh-l|爸母|tr=pē-bú, pē-bó}}
+* {{qualifier|Hakka}} {{zh-l|爺哀|tr=yà-ôi}}
+
+===Derived terms===
+{{zh-der|父母官|天下父母心|在家靠父母，出外靠朋友}}
+
+{{zh-cat|Family}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ふ|ぼ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ふぼ|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ふぼ}}: lit. "''[[father]]-[[mother]]''"
+
+# [[parents]]; [[father]] and [[mother]]
+
+====Synonyms====
+* {{ja-r|親|おや}} (lit. "''[[relative]]s, [[parent]]s, [[close]] [[relation]]s''")
+* {{ja-r|両親|りょうしん}}, {{ja-r|両親|ふたおや}} {{qualifier|both parents}}
+
+===References===
+<references/>
+
+[[Category:ja:Family|ふぼ]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=부모}}
+
+# {{hanja form of|부모|[[parent]], [[parents]]}}
+
+[[zh-min-nan:父母]]
+[[fr:父母]]
+[[ko:父母]]
+[[it:父母]]
+[[lo:父母]]
+[[lt:父母]]
+[[li:父母]]
+[[hu:父母]]
+[[mg:父母]]
+[[ja:父母]]
+[[pl:父母]]
+[[pt:父母]]
+[[fi:父母]]
+[[tr:父母]]
+[[zh:父母]]

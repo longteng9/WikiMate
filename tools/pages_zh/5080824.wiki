@@ -1,0 +1,51 @@
+{{also|累进}}
+==Chinese==
+{{zh-forms|s=累进}}
+
+===Pronunciation===
+{{zh-pron
+|m=lěijìn
+|mn=lúi-chìn
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[successive]] [[promotion]] or [[rise]] in rank
+# [[progressive]] [[increase]] in number
+
+===Adjective===
+{{zh-adj}}
+
+# [[progressive]]; [[incremental]]
+
+===See also===
+* {{zh-l|遞增}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|るいしん|y=o}}
+
+===Noun===
+{{ja-noun|るいしん|tr=intrans}}
+
+# [[successive]] [[promotion]] or [[rise]] in rank
+# progressive [[increase]] in number
+
+===Verb===
+{{ja-verb-suru|るいしん|tr=intrans}}
+
+#be promoted gradually
+#: {{ja-usex|累進して大名となった|るいしん して だいみょう と なった|he rose to the role of daimyo}}
+# increase gradually
+
+====Conjugation====
+{{ja-suru|るいしん}}
+
+[[ko:累進]]
+[[zh:累進]]

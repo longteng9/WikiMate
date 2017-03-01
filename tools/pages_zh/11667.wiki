@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|剐}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=09|sn=11|four=72200|canj=BBLN|ids=⿰咼刂}}
+
+# [[cut]]
+# cut [[flesh]] from [[bone]]s
+
+====References====
+* {{Han ref|kx=0142.200|dkj=02094|dj=0322.050|hdz=10345.010|uh=526E|ud=21102|bh=D46C|bd=54380}}
+
+----
+
+==Chinese==
+{{zh-forms|s=剐|alt=𠮠}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|咼|刀|t2=knife|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=guǎ
+|c=waa2,gwaa2
+|mn=kóaⁿ
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|凌遲碎剮|剖剮|剮刑|千刀萬剮|萬剮千刀|鈍刀慢剮}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=刀09}}
+
+# {{defn|lang=ja|sort=刀09}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka), [[け]] (ke)|kun=[[さく]] (saku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=과|rv=gwa|mr=kwa}}
+
+# {{defn|lang=ko|sort=刀09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[qua]], [[quả]]|rs=刀09}}
+
+# {{defn|vi|sort=刀09}}
+
+[[fr:剮]]
+[[hu:剮]]
+[[pl:剮]]
+[[th:剮]]
+[[zh:剮]]

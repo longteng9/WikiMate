@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|嘤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=17|sn=20|four=66044|canj=RBCV|ids=⿰口嬰}}
+
+# [[seek]] [[friend]]s
+# used in [[name]]s
+# the [[call]] of a [[bird]]
+
+====References====
+* {{Han ref|kx=0214.110|dkj=04592|dj=0437.020|hdz=10704.010|uh=56B6|ud=22198|bh=C458|bd=50264}}
+
+----
+
+==Chinese==
+{{zh-forms|s=嘤}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yīng
+|c=jing1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嚘嚶|嚶嚀|嚶鳴求友|嚶嚶}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口17}}
+
+# {{defn|lang=ja|sort=口17}}
+
+====Readings====
+* {{ja-readings|on=[[おう]] (ō)|kun=[[なく]] (naku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=앵|rv=aeng|mr=aeng}}
+
+# {{defn|lang=ko|sort=口17}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[inh]]|rs=口17}}
+
+# {{defn|lang=vi|sort=口17}}
+
+[[fr:嚶]]
+[[li:嚶]]
+[[hu:嚶]]
+[[ja:嚶]]
+[[pl:嚶]]
+[[th:嚶]]
+[[zh:嚶]]

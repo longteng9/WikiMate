@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yòngxīn
+|c=jung6 sam1
+|h=pfs=yung-sîm
+|mn=qz,tw,xm,zz:iōng-sim/qz,xm:ēng-sim
+|cat=n,v,adv
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[intention]]; [[motive]]
+
+===Verb===
+{{zh-verb}}
+
+# to be [[diligent]]; to be [[attentive]]; to be [[careful]]
+
+===Adverb===
+{{zh-adv}}
+
+# [[diligently]]; [[attentively]]; [[carefully]]
+
+===Derived terms===
+{{zh-der|別有用心}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|よう|しん|k2=じん|r=y|yomi=on}}
+
+===Noun===
+{{ja-noun|ようじん}}
+
+# [[care]]
+# [[caution]]
+
+===Verb===
+{{ja-verb-suru|ようじん}}
+
+# to be [[careful]]
+#* '''1951''', 宮本百合子, お久美さんと其の周囲:
+#*: {{ja-usex|私共で'''用心'''するばっかりだわ。|わたし-ども で '''ようじん''' する ばっかり だ わ。|My, aren't we the careful ones!}}
+# to be [[cautious]]
+#* '''1930''', 浜尾四郎, 彼は誰を殺したか:
+#*: {{ja-usex|現に中条自身も危いのでずい分'''用心'''して歩いているのだ。|げんに ^なかじょう じしん も あぶない ので ずいぶん '''ようじん''' して あるいている の だ。|Nakajō himself was actually in danger so was really walking '''with his guard up'''.}}
+
+====Conjugation====
+{{ja-suru|ようじん}}
+
+[[zh-min-nan:用心]]
+[[ko:用心]]
+[[hu:用心]]
+[[mg:用心]]
+[[ja:用心]]
+[[zh:用心]]

@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=109|rad=目|as=12|sn=17|four=68040|canj=BUMJK,BUNJK}}
+
+# [[watch]], [[spy]]
+# [[overlook]]
+# look down
+
+====References====
+* {{Han ref|kx=0818.010|dkj=23704|dj=1230.120|hdz=42512.010|uh=77B0|ud=30640|bh=C0FD|bd=49405}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kàn
+|c=ham3,ham6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|俯瞰|瞰亡|瞰視|鬼瞰其室|鳥瞰}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=目12}}
+
+# {{defn|lang=ja|sort=目12}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[みる]] (miru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=감|eumhun=|rv=gam|mr=kam|y=kam}}
+
+# to [[watch]]
+# to [[overlook]], look down
+
+====Compounds====
+* {{ko-inline|鳥瞰|jogam|[[bird's-eye view]]|[[조감]]}}
+
+[[fr:瞰]]
+[[ko:瞰]]
+[[hu:瞰]]
+[[mg:瞰]]
+[[ja:瞰]]
+[[pl:瞰]]
+[[th:瞰]]
+[[zh:瞰]]

@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|导}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=41|rad=寸|as=12|sn=15|four=38343|canj=YUDI|ids=⿱道寸}}
+
+====References====
+* {{Han ref|kx=0296.100|dkj=07463|dj=0586.090|hdz=10512.050|uh=5C0E|ud=23566|bh=BEC9|bd=48841}}
+
+----
+
+==Chinese==
+{{zh-forms|s=导}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|道|寸|ls=psc|t1=path|t2=hand|c1=p|c2=s}} – to lead someone.
+
+===Etymology===
+Cognate with {{och-l|道|road}}.
+
+===Pronunciation===
+{{zh-pron
+|m=dǎo
+|c=dou6
+|h=pfs=thô/tho
+|mn=xm,zz,tw:tō/qz:tō͘
+|w=3dau
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[direct]]; to [[guide]]; to [[lead]]; to [[conduct]]
+
+===Compounds===
+{{zh-der|指導|倡導|不導體|不良導體|主導|主導詞|個別輔導|傳導|先導|光電傳導|出口導向|制導|前導|創意指導|勸導|半導體|向導|呵導|善導|單線領導|嚮導|嚮導犬|因勢利導|團體輔導|執導|報導|報導攝影|報導文學|宣導|專題報導|導傘|導函數|導向|導向思考|導向飛彈|導向魚雷|導尿|導尿管|導師|導師制|導引|導引之術|導引大全|導引系統|導引胎息|導彈|導德齊禮|導揚|導播|導板|導標|導正|導氣|導氣之術|導水|導流板|導源|導演|導火線|導熱|導爆索|導生制|導盲|導盲磚|導管|導管分子|導線|導致|導航|導航器|導航衛星|導覽|導言|導語|導論|導諛|導護|導讀|導遊|導電|導體|就業輔導|引導|感導|慣性導航|批郤導窾|指導員|指揮導航|推導|教導|教育視導|教育輔導|新聞報導|柔性勸導|武術指導|歸向導引|波導|深度報導|熱傳導|熱導率|物件導向|特別報導|獨家報導|王導|班導師|生活輔導|疏導|督導|節導|級任導師|綜合報導|網路導覽|線上導覽|編導|美工指導|職業輔導|自導自演|藝術指導|衛星導航|訓導|誘導|誤導|課外輔導|課後輔導|課業輔導|諄諄教導|超導電性|超導體|輔導|輔導員|輔導級|開導|電導|非導體|順導|領導|領導制度|領導幹部|領導有方|領導班子}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=寸12}}
+
+# to [[direct]], [[guide]], [[lead]], [[conduct]]
+
+====Readings====
+* {{ja-readings|kanon=[[とう]] (tō)|goon=[[どう]] (dō)|kun=[[みちびく]] (michibiku), [[みちびき]] (michibiki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=도|rv=do|mr=to}}
+
+# {{defn|lang=ko|sort=寸12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đạo]]|rs=寸12}}
+
+# {{defn|lang=vi|sort=寸12}}
+
+[[fr:導]]
+[[ko:導]]
+[[li:導]]
+[[hu:導]]
+[[ja:導]]
+[[pl:導]]
+[[th:導]]
+[[zh:導]]

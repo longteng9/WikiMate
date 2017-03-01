@@ -1,0 +1,58 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=10|sn=14|four=46911|canj=DAFU|ids=⿰木晃}}
+
+====References====
+* {{Han ref|kx=0543.350|dkj=15256|dj=0931.190|hdz=21263.170|uh=69A5|ud=27045|bh=E261|bd=57953}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huàng
+|c=fong2
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[screen]], [[curtain]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木10}}
+
+# {{defn|lang=ja|sort=木10}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[おう]] (ō)|kun=[[つくえ]] (tsukue)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=황|eumhun=|rv=hwang|mr=hwang|y=hwang}}
+
+# {{defn|lang=ko|sort=木10}}
+
+[[fr:榥]]
+[[hu:榥]]
+[[pl:榥]]
+[[th:榥]]
+[[zh:榥]]

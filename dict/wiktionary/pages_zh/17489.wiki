@@ -1,0 +1,90 @@
+{{character info/new}}
+{{also|杮|枾}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=45927|canj=DYLB|ids=⿰木市}}
+
+====References====
+* {{Han ref|kx=0521.121|dkj=14681|hdz=21188.020|uh=67FF|ud=26623|bh=AC55|bd=44117}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|柹}}, {{zh-l|枾}}, {{zh-l|𣐈}}
+
+===Pronunciation===
+{{zh-pron
+|m=shì
+|c=ci5,ci5-2
+|h=pfs=chhṳ
+|mn=qz:sǐ/xm,zz:sī/qz:khǐ/tw,xm,zz:khī
+|mn_note=sǐ/sī - literary; khǐ/khī - vernacular
+|mc=
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[persimmon]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=木05}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[かき]] (kaki)}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|かき|acc=0|acc_ref=SMK2,NHK}}
+* {{homophones|lang=ja|牡蠣}}
+
+===Noun===
+[[Image:Kaki2.jpg|thumb]]
+{{ja-noun|かき}}
+
+# a [[persimmon]]
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|かき]]
+[[Category:ja:Fruits|かき]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=시|eumhun=|rv=si|mr=si|y=si}}
+
+# a [[persimmon]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|thị|rs=木05}}
+
+# {{defn|lang=vi|sort=木05}}
+
+[[zh-min-nan:柿]]
+[[fr:柿]]
+[[lo:柿]]
+[[hu:柿]]
+[[mg:柿]]
+[[ja:柿]]
+[[no:柿]]
+[[pl:柿]]
+[[th:柿]]
+[[zh:柿]]

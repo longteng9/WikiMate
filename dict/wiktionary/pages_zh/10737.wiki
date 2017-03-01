@@ -1,0 +1,91 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+{{stroke order}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=26210|canj=OAM|ids=⿰亻旦}}
+
+====References====
+* {{Han ref|kx=0097.210|dkj=00495|dj=0206.100|hdz=10132.040|uh=4F46|ud=20294|bh=A6FD|bd=42749}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|alt1=亻|旦|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=dàn
+|c=daan6
+|h=pfs=than/thán
+|h_note=thán - archaic
+|md=dáng
+|mn=nā/tān
+|w=2te
+|mc=y
+|oc=y
+|cat=a,adv,con,prep
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[only]]
+# [[but]]; [[however]]; [[yet]]; [[still]]
+#: {{zh-x|但是|but}}
+
+===Compounds===
+{{zh-der|不但|但有|但書|但求塞責|但歌|但是|可但|但曲|但得|但使|但須|但願|但民|但云|但澤|但聞|但凡|何但|但求如願|撒但|格但斯克|非但|豈但}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=人05}}
+
+====Readings====
+* {{ja-readings|goon=[[だん]] (dan)|kanon=[[たん]] (tan)|kun=[[ただし]] (tadashi), [[ただ]] (tada)}}
+
+===Noun===
+{{ja-noun|ただ}}
+
+# {{alternative form of|只|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=단|rv=dan|mr=tan}}
+
+# {{defn|lang=ko|sort=人05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đởn]], [[đản]], [[giản]]|rs=人05}}
+
+# {{defn|lang=vi|sort=人05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f46 Nom Foundation]
+
+[[fr:但]]
+[[ko:但]]
+[[it:但]]
+[[hu:但]]
+[[mg:但]]
+[[ja:但]]
+[[no:但]]
+[[pl:但]]
+[[th:但]]
+[[uk:但]]
+[[zh:但]]

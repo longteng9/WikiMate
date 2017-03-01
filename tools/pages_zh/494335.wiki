@@ -1,0 +1,63 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=sānjiǎoxíng,er=2
+|c=saam1 gok3 jing4
+|mn=saⁿ-kak-hêng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|geometry}} [[triangle]]
+
+{{zh-cat|Shapes}}
+
+----
+
+==Japanese==
+[[Image:Triangle.svg‎|thumb|三角形(triangle)]]
+{{ja-kanjitab|さん|かく|k2=かっ|けい|yomi=on}}
+
+===Noun===
+{{ja-noun|さんかっけい}}<br/>
+{{ja-noun|さんかくけい}}
+
+# {{lb|ja|geometry}} [[triangle]]
+
+====Related terms====
+* {{ja-r|高さ|たかさ}} [[height]] (of triangle)
+* {{ja-r|底辺|ていへん}}: [[bottom]] (of triangle)
+* {{ja-r|内角|ないかく}}: [[interior angle]]
+* {{ja-r|外角|がいかく}}: [[exterior angle]]
+* {{ja-r|対角|たいかく}}: [[opposite angle]]
+
+{{top2}}
+* {{ja-r|円|えん}}: [[circle]]
+* {{ja-r|直角三角形|ちょっかくさんかっけい}}: [[right triangle]]
+* {{ja-r|四角形|しかっけい}}: [[tetragon]], [[quadrangle]]
+* {{ja-r|四辺形|しへんけい}}: [[quadrilateral]]
+{{mid2}}
+* {{ja-r|台形|だいけい}}: [[trapezoid]]
+* {{ja-r|平行四辺形|へいこうしへんけい}}: [[parallelogram]]
+* {{ja-r|多角形|たかっけい}}: [[polygon]]
+{{bottom}}
+
+[[Category:ja:Geometry|さんかくけい]]
+[[Category:ja:Shapes|さんかくけい]]
+
+[[ko:三角形]]
+[[it:三角形]]
+[[ku:三角形]]
+[[lo:三角形]]
+[[hu:三角形]]
+[[mg:三角形]]
+[[ja:三角形]]
+[[pt:三角形]]
+[[ru:三角形]]
+[[sv:三角形]]
+[[uk:三角形]]
+[[zh:三角形]]

@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=156|rad=走|as=02|sn=9|four=43800|canj=GOY}}
+
+# go to
+# attend, be present
+
+====References====
+* {{Han ref|kx=1215.080|dkj=37040|dj=1683.110|hdz=53474.040|uh=8D74|ud=36212|bh=AD75|bd=44405}}
+
+----
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fù
+|c=fu6
+|h=pfs=fu
+|md=
+|mn=hù
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=走02}}
+
+# {{defn|lang=ja|sort=走02}}
+
+====Readings====
+* {{ja-readings|on=[[ふ]] (fu)|kun=[[おもむく]] (omomuku)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=부|eumhun=|rv=bu|mr=pu|y=pu}}
+
+# {{defn|lang=ko|sort=走02}}
+
+[[fr:赴]]
+[[ko:赴]]
+[[hu:赴]]
+[[mg:赴]]
+[[ja:赴]]
+[[no:赴]]
+[[pl:赴]]
+[[th:赴]]
+[[zh:赴]]

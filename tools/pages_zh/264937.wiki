@@ -1,0 +1,91 @@
+{{also|准备}}
+==Chinese==
+{{zh-forms|s=准备}}
+
+===Etymology===
+Attestable from at least the Song Dynasty, 1200s (see [[:Citations:準備|citations]]).
+
+===Pronunciation===
+{{zh-pron
+|m=zhǔnbèi,tl=y
+|ma=y
+|c=zeon2 bei6
+|h=pfs=chún-phi
+|md=cūng-bê
+|mn=chún-pī
+|w=2tsen be
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[prepare]]; to [[get]] [[ready]]
+#: {{zh-x|準備 出去|to '''get ready''' to go out}}
+#: {{zh-x|準備 一 頓 飯|to '''prepare''' a meal}}
+# to [[plan]]; to [[intend]]
+
+===Noun===
+{{zh-noun}}
+
+# [[preparation]]
+#: {{zh-x|做好 準備|to get ready}}
+
+===Descendants===
+{{CJKV|準備|じゅんび|준비|chuẩn bị}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じゅん|び|yomi=on}}
+
+===Noun===
+{{ja-noun|じゅんび}}
+
+# [[preparation]]s
+#: {{ja-usex|十分な'''準備'''が必要だ。|じゅうぶん な '''じゅんび''' が ひつよう だ。|We need to be fully prepared.}}
+
+===Verb===
+{{ja-verb-suru|じゅんび}}
+
+# [[prepare]]
+
+====Conjugation====
+{{ja-suru|じゅんび}}
+{{attention|ja|should we include somehow that this is also used for the equivalent of (to be/get) [[ready]]?}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=준비}}
+
+# {{hanja form of|준비|[[preparation]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|chuẩn bị|to [[prepare]]}}
+
+[[zh-min-nan:準備]]
+[[fr:準備]]
+[[ko:準備]]
+[[lo:準備]]
+[[hu:準備]]
+[[mg:準備]]
+[[ja:準備]]
+[[sv:準備]]
+[[tl:準備]]
+[[th:準備]]
+[[chr:準備]]
+[[uk:準備]]
+[[zh:準備]]

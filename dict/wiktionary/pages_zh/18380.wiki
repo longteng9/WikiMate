@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|欤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=76|rad=欠|as=14|sn=18|four=77882|canj=HCNO|ids=⿰與欠}}
+
+# a [[final]] [[particle]] used to [[express]] [[admiration]], [[doubt]], [[surprise]], or to [[mark]] a [[question]]
+
+====References====
+* {{Han ref|kx=0573.010|dkj=16226|hdz=32152.100|uh=6B5F|ud=27487|bh=C26A|bd=49770}}
+
+----
+
+==Chinese==
+{{zh-forms|s=欤}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yú
+|c=jyu4
+|mn=û
+|mc=y
+|oc=y
+|ma=
+|cat=part
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=欠14|style=ky|shin=欤}}
+
+# {{defn|lang=ja|sort=欠14}}
+
+====Readings====
+* {{ja-readings|on=[[よ]] (yo)|kun=[[か]] (ka), [[や]] (ya)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=여|eumhun=|rv=yeo|mr=yŏ|y=ye}}
+
+# {{defn|lang=ko|sort=欠14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=欠14| hanviet = ru}}
+
+# {{defn|lang=vi|sort=欠14}}
+
+[[fr:歟]]
+[[hu:歟]]
+[[ja:歟]]
+[[pl:歟]]
+[[th:歟]]
+[[zh:歟]]

@@ -1,0 +1,37 @@
+{{also|韵母}}
+==Chinese==
+{{zh-forms|s=韵母}}
+
+===Pronunciation===
+{{zh-pron
+|m=yùnmǔ
+|c=wan6 mou5,wan5 mou5
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|phonetics}} [[final]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|いん|ぼ|yomi=o}}
+
+===Noun===
+{{ja-noun|いんぼ}}
+
+# {{lb|ja|phonetics|sort=いんぼ}} [[final]]
+
+====Coordinate terms====
+* {{l/ja|声母}}
+
+====Meronyms====
+* {{l/ja|介音}}
+* {{l/ja|主母音}}
+* {{l/ja|韻尾}}
+
+[[hu:韻母]]
+[[mg:韻母]]
+[[chr:韻母]]

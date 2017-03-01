@@ -1,0 +1,64 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǒufǎ
+|c=sau2 faat3
+|h=pfs=sú-fap
+|mn=chhiú-hoat
+|w=2seu faq
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[technique]]; [[trick]]; [[skill]]; [[means]] {{gloss|of literary or artistic expression}}; [[gimmick]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅ|ほう|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=しゅほう}} compound {{m|ltc|手法|tr=*shiǒu *biæp}}. Compare modern {{cog|cmn|手法|tr=shǒufǎ}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|h|しゅ|ほう}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[ɕʲɯᵝho̞ː]}}
+
+===Noun===
+{{ja-noun|しゅほう}}
+
+# a [[technique]], [[technical]] [[skill]]
+# a [[means]] of doing something
+#* [http://books.google.com/books?id=FYc3o5NBLggC&pg=PA129&dq=%22する手法はありません%22&hl=en&ei=ZWXBTuTnFqaXiQLj7qm_Aw&sa=X&oi=book_result&ct=book-preview-link&resnum=1&ved=0CDAQuwUwAA#v=onepage&q=%22する手法はありません%22&f=false '''2001''': 21世紀の不動産市場を創る (''Nijū-isseiki no Fudōsan Shijō o Tsukuru'' “Building a Real Estate Market for the 21st Century”, in Japanese), 劔持武士 (Takeshi Kenmochi)]:
+#*: {{lang|ja|しかし、ＤＣＦ法を除き、将来収益を現在価値に還元し評価する'''手法'''はありません。}}
+#*:: {{lang|ja|しかし、ＤＣＦほうをのぞき、しょうらいしゅうえきをげんざいかちにかんげんしひょうかする'''しゅほう'''はありません。}}
+#*:: ''Shikashi, DCF hō o nozoki, shōrai shūeki o genzai kachi ni kangen shi hyōka suru '''shuhō''' wa arimasen.''
+#*::: However, excluding the DCF method, there is no other '''means''' of evaluating future profit converted into current value.
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=수법}}
+
+# {{hanja form of|수법|way, method, means, modus operandi}}
+
+[[zh-min-nan:手法]]
+[[ko:手法]]
+[[lo:手法]]
+[[hu:手法]]
+[[ja:手法]]
+[[zh:手法]]

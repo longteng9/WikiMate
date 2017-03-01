@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=05|sn=11|four=58137|canj=LIOII}}
+
+# [[dragonfly]], [[Libellulidae]]
+
+====References====
+* {{Han ref|kx=1080.250|dkj=32969|dj=1549.030|hdz=42844.090|uh=86C9|ud=34505|bh=B34D|bd=45901}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=líng
+|c=ling4
+|h=pfs=
+|md=
+|mn=ni
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫05}}
+
+# {{defn|lang=ja|sort=虫05}}
+
+====Readings====
+* {{ja-readings|kanon=[[れい]] (rei)|goon=[[りょう]] (ryō)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[령]]>[[영]]|eumhun=|rv=ryeong>yeong|mr=ryŏng>yŏng|y=lyeng>yeng}}
+
+# {{defn|lang=ko|sort=虫05}}
+
+[[fr:蛉]]
+[[hu:蛉]]
+[[mg:蛉]]
+[[ja:蛉]]
+[[pl:蛉]]
+[[th:蛉]]
+[[vi:蛉]]
+[[zh:蛉]]

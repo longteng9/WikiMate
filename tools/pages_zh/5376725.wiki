@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=chúfǎ
+|c=ceoi4 faat3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|arithmetic}} [[division]]
+
+====Antonyms====
+* {{zh-l|乘法}}
+
+===See also===
+* {{zh-l|加法}}
+* {{zh-l|減法}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|じょ|ほう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=h|acc2=a|じょほう|y=go}}
+
+===Noun===
+{{ja-noun|じょほう|hhira=ぢよはふ}}
+
+# {{lb|ja|sort=しょほう'|arithmetic}} [[division]]
+
+====Antonyms====
+* {{ja-r|乗法|じょうほう}}
+
+===See also===
+* {{ja-r|加法|かほう}}
+* {{ja-r|減法|げんぽう}}
+
+[[cs:除法]]
+[[fr:除法]]
+[[ky:除法]]
+[[li:除法]]
+[[hu:除法]]
+[[mg:除法]]
+[[zh:除法]]

@@ -1,0 +1,31 @@
+==Japanese==
+{{ja-kanjitab|せい|せつ|yomi=o}}
+
+===Alternative forms===
+* {{ja-l|正切}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=o|せいせつ}}
+
+===Noun===
+{{ja-noun|せいせつ}}
+
+# {{lb|ja|trigonometry|sort=せいせつ}} [[tangent]]
+
+====Synonyms====
+* {{ja-r|タンジェント}}
+
+===See also===
+* {{ja-r|三%角%関%数|さん%かく% かん%すう}}
+* {{ja-r|正%弦|せい%げん}}
+* {{ja-r|余%弦|よ%げん}}
+* {{ja-r|余%接|よ%せつ}}
+* {{ja-r|正%割|せい%かつ}}
+* {{ja-r|余%割|よ%かつ}}
+* {{ja-r|正%矢|せい%し}}
+* {{ja-r|余%矢|よ%し}}
+* {{ja-r|半%正%矢|はん%せい%し}}
+* {{ja-l|半余矢|はんよし|han'yoshi}}
+
+[[mg:正接]]
+[[ja:正接]]

@@ -1,0 +1,49 @@
+{{also|鲍鱼}}
+==Chinese==
+{{zh-forms|s=鲍鱼}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=bàoyú
+|c=baau1 jyu4,baau6 jyu4
+|g='pau5 nyie4
+|h=pfs=pâu-ǹg
+|md=báu-ngṳ̀
+|mn=pau-hî/pau-hû/pâu-hî/pâu-hû
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[abalone]]
+
+=====Synonyms=====
+* {{zh-l|石決明}}
+* {{qualifier|archaic}} {{zh-l|鰒魚}}
+
+=====Derived terms=====
+{{zh-der|鮑魚菇}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=bàoyú
+|c=baau6 jyu4
+|h=pfs=pâu-ǹg
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[salted]] [[fish]]
+
+=====Synonyms=====
+* {{zh-l|鹹魚}}
+
+=====Derived terms=====
+{{zh-der|鮑魚之肆}}
+
+{{zh-cat|Gastropods}}
+
+[[ja:鮑魚]]

@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|個|箇}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+{{Han etym}}
+Variant of {{l|mul|箇||bamboo stalk}}. Half of {{l|mul|竹||bamboo}}.
+
+===Han character===
+{{Han char|rn=2|rad=丨|as=02|sn=3|four=8020.0|canj=OL|ids=⿱𠆢丨}}
+
+====See also====
+* {{l|mul|介}} <!-- graphically similar, and in fact confused – see Korean section -->
+
+====References====
+* {{Han ref|kx=0078.230|dkj=00070|dj=0158.030|hdz=10103.010|uh=4E2A|ud=20010}}
+
+----
+
+==Chinese==
+{{zh-see|個}}
+
+----
+
+==Japanese==
+{{ja-see-also|箇|個}}
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=丨02}}
+
+# [[counter]] for [[articles]]
+# [[individual]]
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka), [[こ]] (ko)|kun=[[こ]] (ko), [[ひ]] (hi)}}
+
+{{ja-kref
+|jis=5024
+|ku=4804
+|shift=98A2
+|euc=D0A4
+|freq=''not ranked''
+|nelson=340
+|newnelson=25
+|halpern=1959
+|kld=''not listed''
+|heisig=''not listed''
+|tuttle=6f8.15
+}}
+
+----
+
+==Korean==
+
+===Etymology===
+: Pronunciation [[개]] came from a confusion with [[介]]. [[个]] is a variant of [[個]], and its pronunciation would have been [[고]] as in [[固]], [[凅]], [[痼]], etc.
+
+===Hanja===
+{{ko-hanja|hangeul=[[개]]|eumhun=[[낱]] [[개]]|rv=gae, ga|mr=kae, ka|y=kay, ka}}
+
+# {{defn|lang=ko|sort=丨02}}
+
+* '''Meaning''': small piece
+
+* [[개]] (gae; original pronunciation [[가]] (ga))
+* [[낱]] [[개]] (nat gae)
+
+[[zh-min-nan:个]]
+[[cs:个]]
+[[da:个]]
+[[fr:个]]
+[[ko:个]]
+[[li:个]]
+[[hu:个]]
+[[mg:个]]
+[[ja:个]]
+[[no:个]]
+[[pl:个]]
+[[pt:个]]
+[[sr:个]]
+[[th:个]]
+[[uk:个]]
+[[vi:个]]
+[[zh:个]]

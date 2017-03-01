@@ -1,0 +1,119 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=měirén
+|c=mei5 jan4
+|mn=qz,tp,xm:bí-lîn/kh,zz:bí-jîn
+|h=pfs=mî-ngìn
+|w=2'me nyin
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# a [[beautiful]] [[woman]], a [[beauty]], a [[belle]]
+# {{lb|zh|archaic}} a royal [[consort]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|び|じん}}
+From {{etyl|ltc|ja|sort=ひじん'}} compound {{m|zh|美人|tr=mij<sup>X</sup> nyin|lit=beautiful (especially feminine) + person}}.  Compare modern {{etyl|nan|-}} reading ''bí-jîn''.
+
+The [[漢音#Japanese|kan'on]] reading, so likely a later borrowing.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|びじん|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|びじん}}
+
+# a [[beautiful]] [[woman]], a [[beauty]], a [[belle]]
+#: {{ja-usex|モナ・リザといえばやはり'''美人'''ですね。|^モナ・ ^リザ と いえば やはり '''びじん''' です ね。|That Mona Lisa, she really is a '''beauty''', isn't she.}}
+# a [[handsome]] [[man]]
+# {{lb|ja|sort=ひじん'|rare}} an [[ideal]] [[ruler]] or [[sage]], worthy of one's [[love]] and [[respect]]
+# {{lb|ja|sort=ひじん'|historical}} in ancient {{w|China}}, the [[fifth]] of fourteen ranks for [[imperial]] [[lady-in-waiting|ladies-in-waiting]]
+# {{lb|ja|sort=ひじん'|metaphorical}} a [[euphemism]] for a [[rainbow]]
+
+=====Usage notes=====
+The ''beautiful woman'' sense is the most common in everyday use.
+
+=====Synonyms=====
+* {{sense|beautiful woman}} {{ja-r|美女|びじょ}}、{{ja-r|佳人|かじん}}
+* {{sense|handsome man}} {{ja-r|美男子|びだんし}}, {{ja-r|美男|びなん}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|美人コンテスト|びじん コンテスト}}: a [[beauty pageant]], a [[beauty contest]]
+* {{ja-r|美人画|びじんが}}: a [[genre]] of [[picture]]s, depicting [[feminine]] [[beauty]]; a picture of this genre
+* {{ja-r|美人傘|びじんがさ}}: a [[large]] and [[deep]] [[umbrella]] that was fashionable in the late {{w|Meiji period}}
+* {{ja-r|美人蕉|びじんしょう}}: the {{etyl|zh|-}}-derived alternate for {{m|ja|姫芭蕉|tr=hime bashō|lit=princess plantain}}, a variety of [[plantain]] of [[family]] ''[[Musaceae]]''
+* {{ja-r|美人草|びじんそう}}: alternate name for {{m|ja|雛罌粟|tr=hina-geshi|lit=chick poppy}}: ''[[Papaver rhoeas]]'', a {{vern|field poppy}} or [[corn poppy]]
+{{der-bottom}}
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|美人というも皮一重|びじん と いう も かわ ひとえ}}: “even a beautiful person only has one skin” → [[beauty is only skin deep]]
+* {{ja-r|美人に年なし|びじん に とし なし}}: “a beautiful person doesn't have an age” → a beautiful person often looks young no matter their age
+* {{ja-r|美人の終わりは猿になる|びじん の おわり は さる に なる}}: “the end of [being] a beautiful person is turning into a monkey” → a beautiful woman becomes less beautiful as she ages
+* {{ja-r|美人は言わねど隠れなし|びじん は いわねど かくれ なし}}: “even if you don't say that someone is beautiful, there's no hiding it” → if someone is beautiful, it's obvious
+* {{ja-r|美人薄命|びじん はくめい}}: “a beautiful person has a thin [i.e. short] life” → beauty often doesn't last
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|かおよ|ひと|k2=びと|r=y}}
+Compound of {{compound|lang=ja|sort=かおよびと|顔|tr1=kao|t1=face|良|tr2=yo|t2=good|pos2=the stem of adjective {{m|ja|良い}} ''yoi'', “good”|人|tr3=hito|t3=person}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  {{rendaku2|sort=かおよびと|hito|bito}}
+
+The {{m|ja|美}} kanji spelling for the ''kaoyo'' portion of the reading is an example of [[熟字訓#Japanese|jukujikun]].
+
+====Pronunciation====
+{{ja-pron|yomi=irr|かおよびと}}
+
+====Alternative forms====
+* {{ja-l|顔佳人}}
+
+====Noun====
+{{ja-noun|かおよびと|hhira=かほよびと}}
+
+# {{lb|ja|sort=かおよびと|archaic|possibly|_|obsolete}} a [[beautiful]] [[woman]], a [[beauty]], a [[belle]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=미인}}
+
+# {{hanja form of|미인|a [[beautiful]] [[woman]], a [[beauty]], a [[belle]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|mỹ nhân|a [[beautiful]] [[woman]], a [[beauty]], a [[belle]]}}
+
+[[zh-min-nan:美人]]
+[[de:美人]]
+[[ko:美人]]
+[[lo:美人]]
+[[lt:美人]]
+[[hu:美人]]
+[[mg:美人]]
+[[ja:美人]]
+[[fi:美人]]
+[[sv:美人]]
+[[chr:美人]]
+[[zh:美人]]

@@ -1,0 +1,79 @@
+{{character info/new}}
+
+==Translingual==
+
+===Han character===
+{{Han char|rn=125|rad=老|as=04|sn=10|four=44714|canj=JPHQU}}
+
+# elderly person
+# very old, senile
+
+====References====
+* {{Han ref|kx=0960.320|dkj=28848|dj=1409.010|hdz=42781.010|uh=8004|ud=32772|bh=ACFE|bd=44286}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mào
+|c=mou6
+|h=pfs=
+|md=
+|mn=mō͘
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+* {{zh-l|耄耋}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=老04}}
+
+# {{defn|lang=ja|sort=老04}}
+
+====Readings====
+* {{ja-readings|on=[[もう]] (mō), [[ぼう]] (bō)|kun=[[おいぼれる]] (oiboreru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=모|eumhun=|rv=mo|mr=mo|y=mo}}
+
+# {{defn|lang=ko|sort=老04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mạo]]|rs=老04}}
+
+# {{defn|lang=vi|sort=老04}}
+
+[[fr:耄]]
+[[hu:耄]]
+[[mg:耄]]
+[[ja:耄]]
+[[pl:耄]]
+[[th:耄]]
+[[zh:耄]]

@@ -1,0 +1,31 @@
+{{also|四舍五入}}
+==Chinese==
+{{zh-forms|s=四舍五入}}
+
+===Pronunciation===
+{{zh-pron
+|m=sìshèwǔrù
+|c=sei3 se2 ng5 jap6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|mathematics}} [[rounding]] to the closest number (.4 being rounded down, .5 being rounded up)
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|しゃ|ご|にゅう|yomi=on}}
+
+===Noun===
+{{ja-noun|ししゃごにゅう}}
+
+# {{lb|ja|mathematics|sort=ししゃごにゅう}} [[rounding]] to the closest number (.4 being rounded down, .5 being rounded up)
+
+[[ko:四捨五入]]
+[[ky:四捨五入]]
+[[hu:四捨五入]]
+[[ja:四捨五入]]
+[[zh:四捨五入]]

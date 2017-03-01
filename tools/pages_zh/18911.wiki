@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=06|sn=9|four=39111|canj=EFMU}}
+
+# [[sparkle]], [[glitter]]
+
+====References====
+* {{Han ref|kx=0622.150|dkj=17419|dj=1018.130|hdz=31606.050|uh=6D38|ud=27960|bh=ACA9|bd=44201}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=guāng,huǎng
+|c=gwong1
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|洸洸|洸洋}}
+
+===References===
+* {{R:twedu|B02081}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水06}}
+
+# {{defn|lang=ja|sort=水06}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[ほのか]] (honoka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=광|eumhun=|rv=gwang|mr=kwang|y=kwang}}
+
+# {{defn|lang=ko|sort=水06}}
+
+[[fr:洸]]
+[[ko:洸]]
+[[ja:洸]]
+[[pl:洸]]
+[[th:洸]]
+[[zh:洸]]

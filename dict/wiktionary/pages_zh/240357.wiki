@@ -1,0 +1,33 @@
+{{also|分类法}}
+==Chinese==
+{{zh-forms|s=分类法|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēnlèifǎ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[classification]] [[method]]
+
+====Derived terms====
+{{zh-der|圖書分類法|十進分類法|杜威十進位分類法}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぶん|るい|ほう|yomi=on}}
+
+===Etymology===
+[[分類]] ([[ぶんるい]], [[bunrui]]): ([[classification]]) + [[法]] ([[ほう]], [[hō]]): ([[method]], [[law]])
+
+===Noun===
+{{ja-noun|ぶんるいほう}}
+
+# [[classification]] [[method]], classification system
+
+===References===
+* {{R:Shogakukan}}

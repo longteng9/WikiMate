@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=10|sn=14|four=44900|canj=DHHI|ids=⿰木射}}
+
+====References====
+* {{Han ref|kx=0544.160|dkj=15272|dj=0931.310|hdz=21265.010|uh=69AD|ud=27053|bh=BA6B|bd=47723}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiè
+|c=ze6
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[kiosk]], [[pavilion]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木10}}
+
+# {{defn|lang=ja|sort=木10}}
+
+====Readings====
+* {{ja-readings|on=[[しゃ]] (sha), [[じゃ]] (ja)|kun=[[だい]] (dai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|eumhun=|rv=sa|mr=sa|y=sa}}
+
+# {{defn|lang=ko|sort=木10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木10| hanviet = tạ}}
+
+# {{defn|lang=vi|sort=木10}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=69ad Nom Foundation]
+
+[[fr:榭]]
+[[hu:榭]]
+[[mg:榭]]
+[[pl:榭]]
+[[th:榭]]
+[[zh:榭]]

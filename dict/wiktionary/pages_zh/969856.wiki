@@ -1,0 +1,42 @@
+{{also|数詞|数词}}
+==Chinese==
+{{zh-forms|s=数词}}
+
+===Pronunciation===
+{{zh-pron
+|m=shùcí
+|c=sou3 ci4
+|mn=qz:sò͘-sîr/tw,xm,zz:sò͘-sû
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[numeral]] {{gloss|word or symbol representing a number}}
+
+{{zh-cat|Grammar}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|すう|し|yomi=o}}
+
+===Noun===
+{{ja-noun|すうし|shin=数詞}}
+
+# [[numeral]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=수사}}
+
+# {{hanja form of|수사|[[number]], [[numeral]]}}
+
+[[ko:數詞]]
+[[hu:數詞]]
+[[mg:數詞]]

@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|萧}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=13|sn=16|four=44227|canj=TLX|ids=⿱艹肅}}
+
+# common [[Artemisia]]
+# [[sighing]] of [[wind]]
+# [[mournful]]
+# [[dejected]]
+# used as a [[surname]]
+
+===References===
+* {{Han ref|kx=1059.100|dkj=32012|dj=1522.150|hdz=53308.120|uh=856D|ud=34157|bh=BFBD|bd=49085}}
+
+----
+
+==Chinese==
+{{zh-forms|s=萧}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiāo
+|c=siu1
+|mn=siau/qz,xm,zz:sio
+|mn_note=siau - literary; sio - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=n,v,a,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+* {{zh-l|蕭蕭}}
+
+====Usage notes====
+The character {{zh-l|肖|Xiāo}} is often used in the simplified script instead of {{zh-l|萧}}, especially as a surname and in transliterating foreign names.
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸12}}
+
+# {{defn|lang=ja|sort=艸12}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[よもぎ]] (yomogi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=소|eumhun=|rv=so|mr=so|y=so}}
+
+# {{defn|lang=ko|sort=艸12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tiêu]]|rs=艸12}}
+
+# {{defn|lang=vi|sort=艸12}}
+
+[[zh-min-nan:蕭]]
+[[fr:蕭]]
+[[ko:蕭]]
+[[hu:蕭]]
+[[ja:蕭]]
+[[pl:蕭]]
+[[th:蕭]]
+[[zh:蕭]]

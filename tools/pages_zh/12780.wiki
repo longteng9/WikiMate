@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=13|sn=16|four=61032|canj=RYPO|ids=⿰口豦}}
+
+# [[laugh]] [[heartily]], laugh [[aloud]]
+
+====References====
+* {{Han ref|kx=0210.310|dkj=04403|dj=0433.190|hdz=10690.010|uh=5671|ud=22129|bh=BEBB|bd=48827}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jué
+|c=koek6,kek6,coek3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嗢噱|噱頭|發噱|耍噱頭}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口13}}
+
+# {{defn|lang=ja|sort=口13}}
+
+====Readings====
+* {{ja-readings|on=[[きゃく]] (kyaku), [[がく]] (gaku)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=갹|rv=gyak|mr=kyak}}
+
+# {{defn|lang=ko|sort=口13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cược]]|rs=口13}}
+
+# {{defn|lang=vi|sort=口13}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5671 Nom Foundation]
+
+[[fr:噱]]
+[[li:噱]]
+[[hu:噱]]
+[[mg:噱]]
+[[pl:噱]]
+[[th:噱]]
+[[zh:噱]]

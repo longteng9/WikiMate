@@ -1,0 +1,28 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|Japanese war fan}}
+[[File:Tessen 1.JPG|thumb|250px|right|{{lang|ja|鉄扇}}: a Japanese iron fan with wooden ribs]]
+</div>
+{{ja-kanjitab|てつ|k1=てっ|せん|yomi=o}}
+
+===Etymology===
+Apparently coined in Japan from {{etyl|ltc|-}}-derived components, as a compound of {{compound|lang=ja|sort=てっせん|鉄|tr1=tetsu|t1=iron, steel|扇|tr2=sen|t2=fan, folding fan}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|てっせん|acc=0|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|てっせん|kyu=鐵扇}}
+
+# {{lb|ja|weaponry|sort=てっせん}} a [[Japanese]] [[war]] [[fan]]
+#: Various types existed, including folding fans with blades of wood and ribs of metal, folding fans with ribs of wood and blades of metal, folding fans made entirely of metal, solid fans made of both wood and metal or entirely of metal, and a variety made of metal and used more like a [[truncheon]], but made to look like a folded fan. See [[w:Japanese war fan|the Wikipedia article]] for more.
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|鉄扇術|てっせんじゅつ}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[ja:鉄扇]]

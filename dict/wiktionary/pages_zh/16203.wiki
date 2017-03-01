@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=07|sn=10|four=58014|canj=QOOG|ids=⿰扌坐}}
+
+# [[push]] [[down]]
+# [[chop]] down
+# [[grind]]
+
+====References====
+* {{Han ref|kx=0431.220|dkj=12087|dj=0780.290|hdz=31885.030|uh=632B|ud=25387|bh=AEC0|bd=44736}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|坐|ls=psc|c1=s|c2=p|alt1=扌}}.
+
+===Pronunciation===
+{{zh-pron
+|m=cuò
+|c=co3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|下挫|力挫|受挫|失挫|愈挫愈奮|抑揚頓挫|折挫|挫傷|挫刀|挫動|挫折|挫敗|挫辱|挫過|挫骨揚灰|挫魚|掙挫|摧挫|敗挫|沉鬱頓挫|百折不挫|眼挫|禁挫|腦挫傷|重挫|頓挫|頓挫抑揚}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手07}}
+
+# {{defn|lang=ja|sort=手07}}
+
+====Readings====
+* {{ja-readings|goon=[[さ]] (sa)|kanon=[[さ]] (sa)|kanyoon=[[ざ]] (za)|kun=[[くじく]] (kujiku), [[くじける]] (kujikeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=좌|eumhun=|rv=jwa|mr=chwa|y=cwa}}
+
+# {{defn|lang=ko|sort=手07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手07|hanviet=[[doạ]], [[doá]], [[toả]]}}
+
+# {{defn|lang=vi|sort=手07}}
+
+[[fr:挫]]
+[[hu:挫]]
+[[mg:挫]]
+[[ja:挫]]
+[[no:挫]]
+[[pl:挫]]
+[[th:挫]]
+[[zh:挫]]

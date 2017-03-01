@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|讐|仇|雠}}
+==Translingual==
+
+===Alternative forms===
+* {{l|mul|讐}}
+
+===Han character===
+{{Han char|rn=149|rad=言|as=16|sn=23|four=20214|canj=OGYRG||ids=⿻雔言, ⿲隹言隹}}
+
+# [[enemy]], [[rival]], [[opponent]]
+
+====References====
+* {{Han ref|kx=1186.210|dkj=36124|dj=1650.090|hdz=64112.070|uh=8B8E|ud=35726|bh=F841|bd=63553}}
+
+----
+
+==Chinese==
+{{zh-forms|s=雠}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|雔|言|c1=p|c2=s|t1=two birds|t2=argue|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=chóu
+|c=cau4
+|h=pfs=
+|md=
+|mn=siû
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言16}}
+
+# {{defn|lang=ja|sort=言16}}
+
+====Readings====
+* {{ja-readings|goon=[[じゅ]] (ju), [[ず]] (zu)|kanon=[[しゅう]] (shū)|kun=[[むくいる]] (mukuiru), [[あだ]] (ada)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=言16}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thù]], [[cừ]]|rs=言16}}
+
+# {{defn|lang=vi|sort=言16}}
+
+[[fr:讎]]
+[[hu:讎]]
+[[ja:讎]]
+[[pl:讎]]
+[[th:讎]]
+[[vi:讎]]
+[[zh:讎]]

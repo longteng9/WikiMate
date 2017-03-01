@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|骏}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=07|sn=17|four=73347|canj=SFICE|ids=⿰馬夋}}
+
+# [[excellent]] [[horse]], [[noble]] [[steed]]
+
+====References====
+* {{Han ref|kx=1439.260|dkj=44775|dj=1963.350|hdz=74559.060|uh=99FF|ud=39423|bh=C240|bd=49728}}
+
+----
+
+==Chinese==
+{{zh-forms|s=骏}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jùn
+|c=zeon3
+|h=pfs=
+|md=
+|mn=chùn
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|駿發|tr=[[chùn-huat]]}}
+* {{zh-l|駿馬|tr=[[chùn-má]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬07}}
+
+====Readings====
+* {{ja-readings|on=[[しゅん]] (shun)|kun=[[すぐれる]] (sugureru), [[おおきい]] (ookii), [[ながい]] (nagai)}}
+
+===Proper noun===
+{{ja-pos|proper|しゅん}}
+
+# {{given name|male|lang=ja|sort=しゅん}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[준]], [[순]]|eumhun=|rv=jun, sun|mr=chun, sun|y=cwun, swun}}
+
+# {{defn|lang=ko|sort=馬07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tuấn]]|rs=馬07}}
+
+# {{defn|lang=vi|sort=馬07}}
+
+[[fr:駿]]
+[[ko:駿]]
+[[hu:駿]]
+[[ja:駿]]
+[[pl:駿]]
+[[th:駿]]
+[[zh:駿]]

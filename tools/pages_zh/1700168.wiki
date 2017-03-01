@@ -1,0 +1,65 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=shíliúshí
+|c=sek6 lau4 sek6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[garnet]]
+
+{{zh-cat|Gems}}
+
+----
+
+==Japanese==
+{{wikipedia|柘榴石|石榴石|lang=ja}}
+{{ja-kanjitab|ざく|ろ|いし|sort=さくろいし'}}
+
+===Alternative forms===
+* {{l|ja|柘榴石|{{furigana|柘%榴%石|ざく%ろ%いし}}}}
+* {{l|ja|ざくろ石|{{furigana|ざくろ石|ざくろいし}}}}
+* {{l|ja|ザクロ石|{{furigana|ザクロ石|ザクロいし}}}}
+
+===Etymology===
+{{compound|ja|石榴|alt1={{furigana|石%榴|ざく%ろ}}|tr1=zakuro|gloss1=pomegranate|石|alt2={{furigana|石|いし}}|tr2=ishi|gloss2=stone|sort=さくろいし'}}.
+
+===Pronunciation===
+{{ja-pron|ざくろいし|acc=3}}
+
+===Noun===
+{{ja-noun|ざくろいし}}
+
+# [[garnet]] {{gloss|mineral, gemstone}}
+
+====Synonyms====
+* {{ja-r|ガーネット}}
+
+[[Category:ja:Birthstones|さくろいし']]
+[[Category:ja:Gems|さくろいし']]
+[[Category:ja:Minerals|さくろいし']]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=석류석}}
+
+# {{hanja form of|석류석|[[garnet]]}}
+
+====Synonyms====
+* {{l|ko|柘榴石|}}, {{l|ko|자류석}}
+* {{l|ko|가닛}}
+
+[[ko:石榴石]]
+[[zh:石榴石]]

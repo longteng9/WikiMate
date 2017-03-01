@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|卤|鹵}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=11|sn=14|four=31160|canj=EYWI|ids=⿰氵鹵}}
+
+# [[thick]] [[gravy]], [[sauce]], [[broth]]
+# [[brine]]
+
+====References====
+* {{Han ref|kx=0644.070|dkj=18088|dj=1051.190|hdz=31721.020|uh=6EF7|ud=28407|bh=BAB1|bd=47793}}
+
+----
+
+==Chinese==
+{{zh-forms|s=卤|t2=鹵}}
+
+===Etymology 1===
+
+====Alternative forms====
+*{{zh-l|魯}}
+
+====Pronunciation====
+{{zh-pron
+|m=lǔ
+|c=lou5
+|h=pfs=lû
+|mn=ló͘
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[thick]] [[sauce]]
+
+====Verb====
+{{zh-verb}}
+
+# to [[stew]] in [[soy sauce]] and [[spices]]
+
+=====Compounds=====
+{{zh-der|滷水|滷蛋|滷味|滷蝦|滷蝦油|滷肉|大滷麵|潟滷|滷湖|滷煮|滷汁|滷菜|滷梅水|鹽滷|茶滷}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水11}}
+
+# {{defn|lang=ja|sort=水11}}
+
+====Readings====
+* {{ja-readings|on=[[ろ]] (ro)|kun=[[しおち]] (shiochi), [[しおつき]] (shiotsuki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[로]]>[[노]]|eumhun=|rv=ro>no|mr=ro>no|y=lo>no}}
+
+# {{defn|lang=ko|sort=水11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lỗ]]|rs=水11}}
+
+# {{defn|lang=vi|sort=水11}}
+
+[[zh-min-nan:滷]]
+[[fr:滷]]
+[[hu:滷]]
+[[ja:滷]]
+[[pl:滷]]
+[[th:滷]]
+[[vi:滷]]
+[[zh:滷]]

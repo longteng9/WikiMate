@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|ゆう|せい|おん|か|yomi=on}}
+
+===Pronunciation===
+* {{IPA|/juːsei onka/|lang=ja}}, {{IPA|/juːseː onka/|lang=ja}}
+
+===Noun===
+{{ja-noun|ゆうせいおんか}}
+
+# the process in which a sound becomes voiced; [[voicing]]
+
+====Synonyms====
+* {{ja-r|有声化|ゆうせいか}}
+
+===Verb===
+{{ja-verb-suru|ゆうせいおんか}}
+
+# {{lb|ja|phonology|sort=ゆうせいおんか}} to [[voice]]; to be [[voiced]]
+
+====Conjugation====
+{{ja-suru|ゆうせいおんか}}
+
+===See also===
+* {{ja-r|無声音化|むせいおんか}}
+
+[[Category:ja:Phonetics|ゆうせいおんか]]

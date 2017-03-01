@@ -1,0 +1,38 @@
+==Japanese==
+{{ja-kanjitab|き|さま|yomi=j}}
+
+===Pronunciation===
+{{ja-pron|acc=h|dev=1|y=j|きさま}}
+
+===Pronoun===
+{{ja-pos|pronoun|きさま}}
+
+# you
+#: This form is a rude form of "you" in Japanese. It's also used between enemies and is usually said by Japanese males when angry.
+## A drilled superior addressing his grunt.
+##: {{ja-usex|'''貴様'''はその後で休めるのではと思っているのか？|'''きさま''' は その あと で やすめる の で は と おもっている の か？|Do you think you can rest after this?}}
+## Talking to an enemy or a rival.
+##: {{ja-usex|'''貴様'''は俺を倒せると思うか？|'''きさま''' は おれ を たおせる と おもう か？|Do you think you can defeat me?}}
+#* {{quote-book
+|language=Japanese
+|location=Tokyo
+|publisher=Shueisha
+|genre=fiction
+||{{w|Kazuki Takahashi}}
+|{{w|遊☆戯☆王|{{ruby|{{lang|ja|[遊](ゆう)☆[戯](ぎ)☆[王](おう)}}}}|lang=ja}}
+|trans-title={{w|Yu-Gi-Oh!}}
+|date=Jun 9 2001
+|isbn=4-08-873123-9
+|volume=24
+|chapter={{ruby|{{lang|ja|１ターンの[死](し)[闘](とう)‼}}}}
+|trans-chapter=One Turn to the Death‼
+|||{{ja-usex|リバース・カード！カウンターマジック発%動！この魔法カードで——'''貴%様'''の墓地に眠るモンスターカード「ネクロフィア」をオレの場に生%還させる‼|^リバース・^カード！ ^カウンター ^マジック はつ%どう！ ^この ^マジック ^カード で—— '''き%さま''' の ^セメタリー に ねむる ^モンスター ^カード 「^ネクロフィア」 を オレ の フィールド に せい%かんさせる‼|Reveal face-down card! Activate Counter Magic! With this Magic Card—— the Monster Card "Necrofear" in '''your''' Cemetery will revive on my field‼}}}}
+
+===See also===
+* {{ja-r|てめえ}}
+
+[[af:貴様]]
+[[fr:貴様]]
+[[lt:貴様]]
+[[mg:貴様]]
+[[chr:貴様]]

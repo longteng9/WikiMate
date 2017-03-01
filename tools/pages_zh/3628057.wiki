@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=hǎilǐ
+|c=hoi2 lei5
+|mn=hái-lí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[nautical mile]]
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Nautical mile}}
+</div>
+{{ja-kanjitab|yomi=o|かい|り}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=かいり}} {{m|zh|海里|tr=xoj<sup>X</sup> li<sup>X</sup>|lit=sea, ocean + unit of distance}}. Compare modern {{etyl|cmn|-}} reading ''hǎilǐ''.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|かいり|acc=1|acc_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|浬}}
+
+===Noun===
+{{ja-noun|かいり}}
+
+# a [[nautical mile]]: the [[length]] of roughly one [[minute]] of [[latitude]], 1,852 [[meter]]s
+
+====See also====
+* {{ja-r|ノット}}: a [[knot]], a unit of speed equivalent to one [[nautical mile]] per hour
+
+===References===
+<references/>
+
+[[lo:海里]]
+[[sv:海里]]
+[[zh:海里]]

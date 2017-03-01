@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|欠}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=121|rad=缶|as=04|sn=10|four=85730|canj=OUDK|ids=⿰缶夬}}
+
+# [[be]] [[short]] of, [[lack]]
+# [[gap]], [[deficit]]
+
+====References====
+* {{Han ref|kx=0945.040|dkj=28122|dj=1385.120|hdz=52936.040|uh=7F3A|ud=32570|bh=AFCA|bd=45002}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=quē |ma=Zh-que.ogg
+|c=kyut3
+|h=pfs=khiet
+|md=
+|mn=khoat/qz:kherh/tp,xm:kheh/kh,zz:khoeh/khih
+|mn_note=khoat - literary; kherh/kheh/khoeh/khih - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=缶04|style=ky|shin=欠}}
+
+# {{defn|lang=ja|sort=缶04}}
+
+====Readings====
+{{ja-readings|goon=[[けち]] (kechi)|kanon=[[けつ]] (ketsu)|kun=[[かける]] (kakeru)}}
+
+====Compounds====
+* {{ja-r|欠缺|けんけつ|[[lack]]}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=결|eumhun=|rv=gyeol|mr=kyŏl|y=kyel}}
+
+# {{defn|lang=ko|sort=缶04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khuyết]]|rs=缶04}}
+
+# {{defn|lang=vi|sort=缶04}}
+
+[[zh-min-nan:缺]]
+[[fr:缺]]
+[[ko:缺]]
+[[hu:缺]]
+[[mg:缺]]
+[[ja:缺]]
+[[no:缺]]
+[[pl:缺]]
+[[th:缺]]
+[[chr:缺]]
+[[zh:缺]]

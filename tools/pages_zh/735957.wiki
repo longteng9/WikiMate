@@ -1,0 +1,34 @@
+{{also|韵尾}}
+==Chinese==
+{{zh-forms|s=韵尾}}
+
+===Pronunciation===
+{{zh-pron
+|m=yùnwěi
+|c=wan6 mei5,wan5 mei5
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|phonetics}} [[coda]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|いん|び|yomi=o}}
+
+===Noun===
+{{ja-noun|いんび}}
+
+# {{lb|ja|phonetics|sort=いんび}} [[coda]]
+
+====Hyponyms====
+* {{l|ja|韻母}}
+
+====Coordinate terms====
+* {{l|ja|介音}}
+* {{l|ja|主母音}}
+
+[[mg:韻尾]]

@@ -1,0 +1,122 @@
+{{character info/new}}
+{{also|欝|郁}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=192|rad=鬯|as=19|sn=29|four=44722|canj=DDBUH|ids=⿳⿲木缶木冖⿰鬯彡}}
+
+====References====
+* {{Han ref|kx=1458.180|dkj=45671|dj=1990.220|hdz=20858.120|uh=9B31|ud=39729|bh=C67B|bd=50811}}
+
+----
+
+==Chinese==
+{{zh-forms|s=郁|alt=鬰,欝}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|林|𩰪|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yù
+|c=wat1
+|mn=qz,tw,xm,zz:ut
+|mc=y
+|oc=y
+|ma=
+|cat=a,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[luxuriant]]
+# [[dense]], [[thick]]
+# [[moody]]
+
+====Compounds====
+{{zh-der|鬱閉|鬱憤|鬱積|鬱結|鬱金香|鬱悶|鬱然|鬱熱|鬱鬱|鬱鬱蔥蔥|鬱鬱寡歡}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=鬯19|grade=c}}
+
+# [[depression]], [[gloom]], [[melancholy]]
+
+====Readings====
+{{ja-readings|goon=[[うち]] (uchi)|kanon=[[うつ]] (utsu)|kun=[[うっする|うっ-する]] ([[鬱する]], us-suru), [[しげる|しげ-る]] ([[鬱る]], shige-ru), [[ふさぐ|ふさ-ぐ]] ([[鬱ぐ]], fusa-gu)}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{l|ja|鬱金}} ({{l|ja|うこん}}, ''ukon'')
+* {{l|ja|鬱金色}} ({{l|ja|うこんいろ}}, ''ukon'iro'')
+* {{l|ja|鬱金香}} ({{l|ja|うこんこう}}, ''ukonkō'')
+* {{l|ja|鬱気}} ({{l|ja|うっき}}, ''ukki'')
+* {{l|ja|鬱屈}} ({{l|ja|うっくつ}}, ''ukkutsu'')
+* {{l|ja|鬱血}} ({{l|ja|うっけつ}}, ''ukketsu'')
+* {{l|ja|鬱積}} ({{l|ja|うっせき}}, ''usseki'')
+* {{l|ja|鬱蒼}} ({{l|ja|うっそう}}, ''ussō'')
+* {{l|ja|鬱滞}} ({{l|ja|うったい}}, ''uttai'')
+* {{l|ja|鬱陶しい}} ({{l|ja|うっとうしい}}, ''uttōshī'')
+{{der-mid3}}
+* {{l|ja|鬱憤}} ({{l|ja|うっぷん}}, ''uppun'')
+* {{l|ja|鬱々}} ({{l|ja|うつうつ}}, ''utsuutsu'')
+* {{l|ja|鬱然}} ({{l|ja|うつぜん}}, ''utsuzen'')
+* {{l|ja|鬱病}} ({{l|ja|うつびょう}}, ''utsubyō'')
+* {{l|ja|鬱勃}} ({{l|ja|うつぼつ}}, ''utsubotsu'')
+* {{l|ja|気鬱}} ({{l|ja|きうつ}}, ''kiutsu'')
+* {{l|ja|暗鬱}} ({{l|ja|あんうつ}}, ''an'utsu'')
+* {{l|ja|陰鬱}} ({{l|ja|いんうつ}}, ''in'utsu'')
+* {{l|ja|気鬱症}} ({{l|ja|きうつしょう}}, ''kiutsushō'')
+{{der-mid3}}
+* {{l|ja|躁鬱}} ({{l|ja|そううつ}}, ''sōutsu'')
+* {{l|ja|躁鬱質}} ({{l|ja|そううつしつ}}, ''sōutsushitsu'')
+* {{l|ja|躁鬱病}} ({{l|ja|そううつびょう}}, ''sōutsubyō'')
+* {{l|ja|沈鬱}} ({{l|ja|ちんうつ}}, ''chin'utsu'')
+* {{l|ja|幽鬱}} ({{l|ja|ゆううつ}}, ''yūutsu'')
+* {{l|ja|憂鬱}} ({{l|ja|ゆううつ}}, ''yūutsu'')
+* {{l|ja|憂鬱質}} ({{l|ja|ゆううつしつ}}, ''yūutsushitsu'')
+* {{l|ja|憂鬱症}} ({{l|ja|ゆううつしょう}}, ''yūutsushō'')
+* {{l|ja|抑鬱}} ({{l|ja|よくうつ}}, ''yokuutsu'')
+{{der-bottom}}
+
+====Trivia====
+鬱 has, at 29 strokes, the most strokes of any kanji in the jōyō kanji list or {{w|kanji kentei}} level pre-1.<ref>[http://nihonshock.com/2009/10/crazy-kanji-highest-stroke-count/ Crazy kanji: what’s the highest stroke count?], Nihonshock, 2009 Oct 22</ref> The next highest kanji in the jōyō list is [[鑑]], at 23 strokes.
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[울]]|eumhun=|rv=ul|mr=ul|y=wul}}
+
+# {{defn|lang=ko|sort=鬯19}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|uất|rs=鬯19}}
+
+# {{defn|lang=vi|sort=鬯19}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+[[cs:鬱]]
+[[fr:鬱]]
+[[ko:鬱]]
+[[la:鬱]]
+[[hu:鬱]]
+[[mg:鬱]]
+[[ja:鬱]]
+[[pl:鬱]]
+[[th:鬱]]
+[[zh:鬱]]

@@ -1,0 +1,53 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=06|sn=9|four=|canj=EDB|ids=⿰氵朿}}
+
+# [[sporadic]] [[light]] [[rain]]
+
+====References====
+* {{Han ref|kx=0620.060|dkj=17375|dj=1015.100|hdz=31603.040|uh=6D13|ud=27923}}
+* [http://www.zdic.net/z/1c/js/6D13.htm zdic.net (Han Dian)]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=sè,qì,zì
+|c=saak3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 138]
+
+{{zh-attn-split}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水06}}
+
+# {{defn|lang=ja|sort=水06}}
+
+====Readings====
+* {{ja-readings|on=[[さく]] (saku), [[しゃく]] (shaku), [[せき]] (seki), [[し]] (shi), [[じ]] (ji)|kun=[[そぼうる]] (sobouru), [[ひたす]] (hitasu)}}
+
+[[fr:洓]]
+[[hu:洓]]
+[[pl:洓]]
+[[th:洓]]
+[[zh:洓]]

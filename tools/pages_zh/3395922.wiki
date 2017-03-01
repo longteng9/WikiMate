@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=piāoliú
+|c=piu1 lau4
+|h=pfs=phêu-liù
+|mn=phiau-liû
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[drift]]
+
+===Noun===
+{{zh-noun}}
+
+# [[drifting]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひょう|りゅう|yomi=on}}
+
+===Noun===
+{{ja-noun|ひょうりゅう}}
+
+# [[drifting]]
+
+===Verb===
+{{ja-verb-suru|ひょうりゅう}}
+
+# to [[drift]]
+
+====Conjugation====
+{{ja-suru|ひょうりゅう}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=표류}}
+
+# {{hanja form of|표류|[[drifting]]}}
+
+[[fr:漂流]]
+[[ko:漂流]]
+[[id:漂流]]
+[[hu:漂流]]
+[[zh:漂流]]

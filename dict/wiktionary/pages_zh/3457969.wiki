@@ -1,0 +1,38 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|ちょう|ふ|yomi=on}}
+
+====Noun====
+{{ja-noun|ちょうふ}}
+
+# [[paste]], [[pasting]], [[appending]]
+
+====Verb====
+{{ja-verb-suru|tr=trans|ちょうふ}}
+
+# [[stick]], [[paste]], [[append]]
+
+=====Synonyms=====
+* {{l|ja|貼り付く}} (''haritsuku''): cling
+* {{l|ja|貼り付け}} (''haritsuke''): paste
+
+=====Conjugation=====
+{{ja-suru|ちょうふ}}
+
+===Etymology 2===
+{{ja-kanjitab|てん|ふ|k2=ぷ|yomi=on|r=y}}
+
+====Noun====
+{{ja-noun|てんぷ}}
+
+====Verb====
+{{ja-verb-suru|tr=trans|てんぷ}}
+
+# [[stick]], [[paste]], [[append]]
+
+=====Conjugation=====
+{{ja-suru|てんぷ}}
+
+[[ko:貼付]]
+[[mg:貼付]]

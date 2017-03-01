@@ -1,0 +1,86 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=03|sn=7|four=27809|canj=NOF|ids=⿱久火}}
+
+# [[cauterize]] with [[moxa]] or [[mugwort]]
+# [[moxibustion]]
+
+====References====
+* {{Han ref|kx=0666.120|dkj=18872|dj=1075.160|hdz=32190.010|uh=7078|ud=28792|bh=A862|bd=43106}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiǔ
+|c=gau3
+|h=pfs=kiu
+|mn=kù/kiù
+|mn_note=kù - vernacular; kiù - literary
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|灸刺|灸法|無病自灸|直接灸|砭灸|蠻針瞎灸|針灸|針灸銅人|針灸麻醉|鍼灸|鍼灸銅人|間接灸}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火03}}
+
+# {{defn|lang=ja|sort=火03}}
+
+====Readings====
+* {{ja-readings|kanon=[[きゅう]] (kyū)|kun=[[やいと]] (yaito)|goon=[[く]] (ku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# ([[뜸]]) [[moxibustion]]
+
+====Compounds====
+* [[鍼灸]] ([[침구]], ''chimgu'') [[acupuncture]] and [[moxibustion]]
+
+====See also====
+* {{l|ko|艾}} ([[애]], ''ae'') [[moxa]], [[mugwort]]
+* {{l|ko|鍼}} ([[침]], ''chim'') [[acupuncture]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cứu]]|rs=火03}}
+
+# {{defn|lang=vi|sort=火03}}
+
+[[fr:灸]]
+[[ko:灸]]
+[[hu:灸]]
+[[mg:灸]]
+[[ja:灸]]
+[[no:灸]]
+[[pl:灸]]
+[[th:灸]]
+[[zh:灸]]

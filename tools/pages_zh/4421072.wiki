@@ -1,0 +1,26 @@
+{{also|台语|台語}}
+==Chinese==
+{{zh-forms|s=台语|t2=台語|Taiwan}}
+
+===Pronunciation===
+{{zh-pron
+|m=táiyǔ
+|c=toi4 jyu5
+|mn=zz,kh:Tâi-gí/xm,tp:Tâi-gú/qz:Tâi-gír
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# any language commonly spoken in [[Taiwan]] {{gloss|including Mandarin, Hokkien, Hakka and Formosan languages}}
+# {{lb|zh|specifically}} [[Taiwanese]]; Taiwanese [[Hokkien]] {{gloss|variety of Min Nan spoken in Taiwan}}
+
+====Synonyms====
+* {{zh-l|臺灣話/台灣話/台湾话}}
+
+====Hypernyms====
+* {{sense|Hokkien}} {{zh-l|閩南語}}
+
+[[zh-min-nan:臺語]]
+[[zh:臺語]]

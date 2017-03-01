@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|粮}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=119|rad=米|as=12|sn=18|four=96914|canj=FDAMG|ids=⿰米量}}
+
+# [[food]], [[grain]], [[provision]]s
+
+====References====
+* {{Han ref|kx=0913.070|dkj=27132|dj=1340.140|hdz=53160.120|uh=7CE7|ud=31975|bh=C2B3|bd=49843}}
+
+----
+
+==Chinese==
+{{zh-forms|s=粮}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=liáng
+|c=loeng4
+|h=pfs=liòng
+|md=
+|mn=liông/niû
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* {{qualifier|Min Nan}} [http://kaifangcidian.com/han/minnan/%E7%B3%A7 Kaifang Cidian]
+* {{qualifier|Min Nan}} {{thcwd|12576}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=米12}}
+
+# {{defn|lang=ja|sort=米12}}
+
+====Readings====
+* {{ja-readings|on=[[りょう]] (ryō), [[ろう]] (rō)|kun=[[かて]] (kate)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[량]]>[[양]]|eumhun=|rv=ryang>yang|mr=ryang>yang|y=lyang>yang}}
+
+# {{defn|lang=ko|sort=米12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lương]]|rs=米12}}
+
+# {{defn|lang=vi|sort=米12}}
+
+[[zh-min-nan:糧]]
+[[fr:糧]]
+[[ko:糧]]
+[[hu:糧]]
+[[mg:糧]]
+[[ja:糧]]
+[[pl:糧]]
+[[th:糧]]
+[[uk:糧]]
+[[zh:糧]]

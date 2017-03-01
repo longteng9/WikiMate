@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|贮}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=05|sn=12|four=63821|canj=BCJMN|ids=⿰貝宁}}
+
+====References====
+* {{Han ref|kx=1206.090|dkj=36698|dj=1668.150|hdz=63635.060|uh=8CAF|ud=36015|bh=B64A|bd=46666}}
+
+----
+
+==Chinese==
+{{zh-forms|s=贮}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|貝|宁|c1=s|c2=p|t1=shellfish|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=貯
+|c=cyu5,cyu2,zyu2
+|h=pfs=tú
+|md=diō/tṳ̄
+|md_note=diō - vernacular (“to put food in a container”); tṳ̄ - literary (“to store”)
+|mn=xm,qz,tp:tóe/zz,kh:té/xm,qz:tú/zz:tí/tw:thú/zz:thí/qz:thír
+|mn_note=tóe/té - vernacular (“to put food in a container”); tú/tí/th* - literary (“to store”)
+|w=2tsr
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[store up]]; to [[stockpile]]; to [[hoard]]
+# {{lb|zh|Min}} to [[put]] (food) in a [[container]]; to [[ladle]] out
+
+===Compounds===
+{{zh-der|貯藏|貯囥|堆貯|封貯|收貯|積貯|貯氣槽|貯水|貯運|貯存|貯備|青貯塔|貯精囊|貯藏室}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=貝05}}
+
+# [[savings]]
+
+====Readings====
+* {{ja-readings|on=[[ちょ]] (cho)|kun=[[たくわえる]] (takuwaeru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=저|eumhun=|rv=jeo|mr=chŏ|y=ce}}
+
+# {{defn|lang=ko|sort=貝05}}
+
+[[zh-min-nan:貯]]
+[[fr:貯]]
+[[ko:貯]]
+[[hu:貯]]
+[[mg:貯]]
+[[ja:貯]]
+[[pl:貯]]
+[[th:貯]]
+[[uk:貯]]
+[[zh:貯]]

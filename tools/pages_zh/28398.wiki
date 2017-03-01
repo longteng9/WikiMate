@@ -1,0 +1,149 @@
+{{character info/new}}
+{{also|载}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=06|sn=13|four=43550|canj=JIJWJ|ids=⿹𢦏車}}
+
+====References====
+* {{Han ref|kx=1243.120|dkj=38309|dj=1719.070|hdz=53526.100|uh=8F09|ud=36617|bh=B8FC|bd=47356}}
+
+----
+
+==Chinese==
+{{zh-forms|s=载}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|車|𢦔|c1=s|c2=p|ls=psc|t1=chariot}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=zài
+|m_note=Colloquially often mispronounced ''zǎi'' in the Mainland - this is kept as standard in some words (e.g. {{zh-l|*下載}})
+|c=zoi3
+|h=pfs=chai/choi
+|md=cái
+|mn=chài
+|w=2tse
+|mc=3
+|oc=2,3
+|cat=v,n,cls,md:adv
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[ride]]; to [[travel]] (by); to [[take]]
+# to [[carry]]; to [[hold]]; to be [[load]]ed with
+#: {{zh-x|載{zài}人航天|human spaceflight}}
+# to [[bear]] (the weight of); to [[support]]; to [[hold]] up
+# to be [[charge]]d with
+# to [[put]] into [[force]]; to come into [[effect]]
+# to [[set out]]; to [[display]]
+# to be in a [[certain]] [[condition]]
+# to [[offer]] [[sacrifices]] to [[god]]s or [[ancestor]]s
+# to [[begin]]; to [[start]]
+# to [[decorate]]; to [[deck]] out
+# {{lb|zh|in the form of {{lang|zh|載…載…}}}} {{n-g|Lists two simultaneous actions.}}
+# [[as well as]]; [[also]]
+# to be [[full]] of; to [[fill]] (the [[road]]); to be [[all]] over
+# {{lb|zh|colloquial}} {{zh-short|*下載|to [[download]]}}
+#: {{zh-x|先 去 載 個 軟件。|'''Download''' the software first.}}
+# [[vehicle]]; [[car]]; [[ship]]
+# [[thing]]s [[load]]ed; [[load]]s
+# [[affair]]; [[cause]]; [[undertaking]]
+# {{zh-classifier|amount [[load]]ed by one [[chariot]]}}
+# {{lb|zh|Min Dong}} [[would]] [[rather]]; [[rather]]
+
+====Compounds====
+{{zh-der|fold=1|口碑載道|怨聲載道|文以載道|頌聲載道|餓莩載道|載道|載道怨聲|巔峰負載|怨聲載路|厚載|厚德載福|厚德載物|倒載干戈|地無不載|天覆地載|天地蓋載|干戈載戢|大車以載|滿載|滿載而歸|承載|搭載|攬載|稛載|斗量車載|載客量|運載|載見|載舟覆舟|載沉載浮|載馳|裝載|車載斗量|載機|該載|載重量|載體|載重|載波|載笑載言|輦載|覆舟載舟|載福|載芟|載歌載舞|過載|覆載|載驅|載酒問字|載貨|載譽|載客|超載|負載|載歌且舞|載荷|載酒|載馳載驅|負載開關|載運}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=載
+|c=zoi3
+|h=pfs=chai
+|md=cái
+|mn=chài
+|w=2tse
+|mc=2
+|oc=3+4,2
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[record]]; to [[put]] down in [[writing]] {{gloss|i.e. “to be conveyed”}}
+# to [[describe]]; to [[depict]]
+
+====Compounds====
+{{zh-der|fold=1|前載|刊載|侔德覆載|報載|登載|載書|記載|附載|長篇連載|轉載|連載|載記|載明|載籍|轉載稿}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=zǎi
+|c=zoi2
+|h=pfs=chái
+|md=cāi
+|mn=cháiⁿ
+|w=2tse
+|mc=1
+|oc=1,1
+|cat=cls,num
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-classifier|[[year]]s}}
+# {{lb|zh|Buddhism}} the [[number]] 10<sup>44</sup>
+
+====Compounds====
+{{zh-der|fold=1|十載寒窗|千載一遇|千載一會|千載難逢|三年五載|億載金城|千載一逢|千載獨步|千年萬載|千載揚名|千載一時|千載|一年半載|千載一合|萬載千秋|遺臭萬載}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=車06}}
+
+====Readings====
+* {{ja-readings|goon=[[さい]] (sai), [[ざい]] (zai)|kanon=[[さい]] (sai)|kun=[[のせる]] (noseru), [[しるす]] (shirusu), [[のる]] (noru)|nanori=}}
+
+===Number===
+{{ja-pos|numeral symbol|さい}}
+
+# A number equaling 10<sup>44</sup> in modern Japanese since the 17th century.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=재|eumhun=|rv=jae|mr=chae|y=cay}}
+
+# {{defn|lang=ko|sort=車06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tải]]|rs=車06}}
+
+# {{defn|lang=vi|sort=車06}}
+
+[[zh-min-nan:載]]
+[[fr:載]]
+[[ko:載]]
+[[it:載]]
+[[li:載]]
+[[hu:載]]
+[[mg:載]]
+[[ja:載]]
+[[pl:載]]
+[[th:載]]
+[[zh:載]]

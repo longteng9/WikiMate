@@ -1,0 +1,24 @@
+{{also|餘角}}
+==Chinese==
+{{zh-see|餘角}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|よ|かく|yomi=on}}
+
+===Noun===
+{{ja-noun|よかく}}
+
+# {{lb|ja|geometry}} [[complementary angle]]
+
+===See also===
+* {{ja-r|補角|ほかく|gloss=[[supplementary angle]]}}
+* {{ja-r|対角|たいかく|gloss=[[opposite]] [[angle]]}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Geometry|よかく]]
+
+[[zh:余角]]

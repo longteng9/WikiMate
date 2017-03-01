@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=117|rad=立|as=04|sn=9|four=04132|canj=YTKI|ids=⿰立厷}}
+
+# be [[vast]] and [[endless]]
+# [[broad]]
+
+====References====
+* {{Han ref|kx=0870.270|dkj=25735|dj=1300.150|hdz=42707.080|uh=7AD1|ud=31441|bh=D041|bd=53313}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=hóng
+|c=wang4
+|mn=hông
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=立04}}
+
+# {{defn|lang=ja|sort=立04}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[おう]] (ō)|kun=[[ひろい]] (hiroi)|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=立04| hanviet = hoành}}
+
+# {{defn|lang=vi|sort=立04}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=7ad1 Nom Foundation]
+
+[[fr:竑]]
+[[ko:竑]]
+[[hu:竑]]
+[[mg:竑]]
+[[pl:竑]]
+[[th:竑]]
+[[zh:竑]]

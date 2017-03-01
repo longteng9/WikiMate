@@ -1,0 +1,29 @@
+{{also|双数}}
+==Chinese==
+{{zh-forms|s=双数}}
+
+===Pronunciation===
+{{zh-pron
+|m=shuāngshù
+|c=soeng1 sou3
+|mn=siang-sò͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[even number]]
+# {{lb|zh|grammar}} [[dual number]]
+
+====Synonyms====
+* {{sense|even number}} {{zh-l|偶數}}
+
+====Antonyms====
+* {{sense|even number}} {{zh-l|單數}}
+
+====Coordinate terms====
+* {{sense|dual}} {{zh-l|單數|singular}}, {{zh-l|複數|plural}}, {{zh-l|眾數|plural}}
+
+[[mg:雙數]]
+[[ja:雙數]]

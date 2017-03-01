@@ -1,0 +1,48 @@
+{{also|温里药}}
+==Chinese==
+{{zh-forms|s=温里药|t2=溫裏藥}}
+
+===Pronunciation===
+{{zh-pron
+|m=wēnlǐyào
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# Interior-warming ''[[w:Materia medica|materia medica]]'' in [[traditional Chinese medicine]]. This term refers to herbs and other medicinal substances that are used to warm the interior organs (such as the lungs and stomach) of the body.
+
+====Hyponyms====
+{{rel-top|hyponyms}}
+* {{zh-l|丁香|flower of {{taxlink|Eugenia caryophyllata|species|noshow=1}}}}
+* {{zh-l|吳茱萸|fruit of ''[[Euodia]]''}}
+* {{zh-l|肉桂|bark of the [[cinnamon]]}}
+* {{zh-l|小茴香|fruit of the ''[[Foeniculum]]''}}
+* {{zh-l|細辛|''[[Asarum]]'' plant}}
+* {{zh-l|花椒|pericarp of the ''[[Zanthoxylum]]''}}
+* {{zh-l|川烏頭|root of the ''[[Aconitum]]''}}
+* {{zh-l|草烏頭|root of the {{taxlink|Aconitum kusnezoffii|species|noshow=1}}}}
+* {{zh-l|高莨薑|rhizome of the {{taxlink|Alpinia officinarum|species|noshow=1}}}}
+* {{zh-l|乾薑|rhizome of the ''[[Zingiber]]''}}
+* {{zh-l|附子|prepared root of the {{taxlink|Aconitum lateralis|species|noshow=1}}}}
+* {{zh-l|蓽茇}}
+
+{{rel-bottom}}
+
+====See also====
+* {{zh-l|藥材|medicinal materials in traditional Chinese medicine}}
+
+===References===
+* {{cite-book
+|last=Ou
+|first=Ming
+|authorlink=
+|coauthors=Li Yanwen
+|year=1994
+|title=The Traditional Chinese Drug and Its Usage
+|publisher=Hai Feng Publishing Co.
+|location=
+|isbn=9622381995
+}}
+* Myung-Haing Cho, Soon-Mi Shim, So-Ra. Lee, Woongcheon Mar, Gun-Hee Kim, "Effect of [[evodiae|Evodiae]] fructus extracts on gene expressions related with alcohol metabolism and antioxidation in ethanol-loaded mice", Food and Chemical Toxicology, Volume 43, Issue 9, September 2005, Pages 1365-1371.

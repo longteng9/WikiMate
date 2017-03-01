@@ -1,0 +1,73 @@
+{{also|大坂}}
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=Dàbǎn
+|c=daai6 baan2
+|mn=Tāi-pán
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# [[Osaka]], Japan
+
+{{zh-cat|Cities}}
+
+----
+
+==Japanese==
+{{wikipedia|Ōsaka}}
+
+===Alternative forms===
+* {{l|ja|大坂}}
+
+===Etymology 1===
+{{ja-kanjitab|おお|さか|yomi=kun}}
+
+oposaka → oɸosaka → owosaka → oosaka → oːsaka. Compound of {{compound|大|tr1=ō|t1=great|阪|tr2=saka|t2=hill|lang=ja}}. The geographical area was historically known as {{m|ja|小坂|tr=Osaka, Ozaka||little hill}} and was renamed to Ōsaka / Ōzaka "great hill". Originally spelled as 大坂 before being replaced with 大阪.
+
+====Pronunciation====
+{{ja-pron|おおさか|acc=h}}
+
+====Proper noun====
+{{ja-pos|おおさか|proper|hhira=おほさか}}
+
+# [[Ōsaka]], a prefecture of Japan.
+
+=====Derived terms=====
+* {{ja-r|大阪府|^おおさかふ}}
+
+====Descendants====
+* Russian: {{l|ru|О́сака|g=f}}
+
+===Etymology 2===
+{{ja-kanjitab|おお|さか|k2=ざか|r=y|yomi=kun}}
+
+opo saka → opozaka → oɸozaka → owozaka → oozaka → oːzaka. Medial /s/ voices to /z/ due to [[w:Rendaku|rendaku]]. Compound of {{compound|大|tr1=ō|t1=great|阪|tr2=saka|t2=hill|lang=ja}}. The geographical area was historically known as {{m|ja|小坂|tr=Osaka, Ozaka||little hill}} and was renamed to Ōsaka / Ōzaka "great hill". Originally spelled as {{m|ja|大坂}} before being replaced with 大阪.
+
+====Proper noun====
+{{ja-pos|おおざか|proper|hhira=おほざか}}
+
+# historical reading for present-day [[Ōsaka]] prefecture.
+
+===See also===
+* {{ja-r|逢坂|^おうさか}}
+* {{ja-r|難波|^なにわ}}
+
+[[Category:ja:Cities|おおさか]]
+
+[[cs:大阪]]
+[[fr:大阪]]
+[[ko:大阪]]
+[[it:大阪]]
+[[lo:大阪]]
+[[la:大阪]]
+[[pl:大阪]]
+[[pt:大阪]]
+[[fi:大阪]]
+[[th:大阪]]
+[[zh:大阪]]

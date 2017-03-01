@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=09|sn=12|four=62000|canj=RDLN|ids=⿰口剌}}
+
+# [[horn]], [[bugle]]
+# [[lama]]
+# final [[particle]]
+
+====References====
+* {{Han ref|kx=0197.270|dkj=03909|dj=0419.050|hdz=10651.060|uh=5587|ud=21895|bh=B3E2|bd=46050}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǎ
+|c=laa3,laa1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=n
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# final [[particle]] used to convey exasperation
+# variant of {{zh-l|嘞}}
+
+====Compounds====
+* {{zh-l|喇沙}}<!-- lǎshā: La Salle, laksa -->
+* {{zh-l|喇叭}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口09}}
+
+# {{defn|lang=ja|sort=口09}}
+
+====Readings====
+* {{ja-readings|goon=[[らち]] (rachi)|kanon=[[らつ]] (ratsu)|kanyoon=[[ら]] (ra)|kun=[[ものいう]] (monoiu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[랄]], [[라]]|rv=ral, ra|mr=ral, ra}}
+
+# {{defn|lang=ko|sort=口09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|lạt|rs=口09}}
+
+# {{defn|lang=vi}}
+
+[[fr:喇]]
+[[ko:喇]]
+[[li:喇]]
+[[hu:喇]]
+[[mg:喇]]
+[[ja:喇]]
+[[no:喇]]
+[[pl:喇]]
+[[th:喇]]
+[[zh:喇]]

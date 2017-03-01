@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàilǐdiàn
+|c=doi6 lei5 dim3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|business}} [[distributor]]; an [[agency]] that sells a company's product with officially representing the company.
+
+----
+
+==Japanese==
+{{ja-kanjitab|だい|り|てん}}
+
+===Etymology===
+From [[代理]] (''dairi'', “represent”) + [[店]] (''ten'', “shop”)
+
+===Pronunciation===
+* {{ja-pron|だいりてん|yomi=o}}
+
+===Noun===
+{{ja-noun|だいりてん}}
+
+# {{lb|ja|business|sort=たいりてん'}} [[distributor]]; an [[agency]] that sells a company's product with officially representing the company.
+
+[[ko:代理店]]
+[[ku:代理店]]
+[[hu:代理店]]
+[[ja:代理店]]
+[[tl:代理店]]
+[[chr:代理店]]

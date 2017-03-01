@@ -1,0 +1,86 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+From [[咢]] ("[[beat]] a [[drum]]", reconstructed [[Old Chinese]] pronunciation ''*Ng[[ˤ]]ak''<!--Baxter-->) + [[阝]], the combinatorial form of [[邑]] ("[[area]]", "[[place]]").
+
+===Han character===
+{{Han char|rn=163|rad=邑|as=09|sn=12|four=67227|canj=RSNL}}
+{{wikipedia|E (state)}}
+# a state in [[ancient]] [[China]] of varying location in present-day [[Shanxi]], [[Henan]], and [[Hubei]]
+# a region of [[ancient]] [[China]] around [[Nanyang]] in present-day eastern [[Henan]]
+# {{lb|cmn|abbreviation}} [[Hubei]] province in modern China
+# [[startled]]
+
+====References====
+* {{Han ref|kx=1274.220|dkj=39520|dj=1774.060|hdz=63783.090|uh=9102|ud=37122|bh=B66B|bd=46699}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=è
+|c=ngok6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+{{zh-der|西鄂|鄂國|鄂城|鄂州}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=邑09}}
+
+# {{defn|lang=ja|sort=邑09}}
+
+====Readings====
+* {{ja-readings|on=[[がく]] (gaku)|kun=[[かぎり]] (kagiri), [[おどろく]] (odoroku)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=악|eumhun=|rv=ak|mr=ak|y=ak}}
+
+# {{defn|lang=ko|sort=邑09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''鄂''' ([[ngạc]])
+
+# {{defn|vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:鄂]]
+[[hu:鄂]]
+[[mg:鄂]]
+[[ja:鄂]]
+[[no:鄂]]
+[[pl:鄂]]
+[[th:鄂]]
+[[zh:鄂]]

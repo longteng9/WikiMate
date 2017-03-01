@@ -1,0 +1,54 @@
+==Japanese==
+{{ja-kanjitab|まる|た|yomi=y}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=まるた|丸|tr1=maru|t1=circle; round|太|tr2=ta|t2=fat|pos2=here possibly emphasizing the roundness}}.
+
+===Pronunciation===
+* {{ja-accent-common|h|ま|るた}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[ma̠ɾ̠ɯᵝta̠]}}
+
+===Noun===
+{{ja-noun|まるた}} {{ja-altread|hira=まろた|rom=marota}} {{qualifier|less common}}
+
+# a [[log]]: [[unsawn]] [[lumber]] {{qualifier|UK}} or [[timber]] {{qualifier|US}}, a section of a tree cut to a length and with the [[bark]] removed, but otherwise round and unfinished
+# alternate name for the {{ja-l|似鯉|にごい|nigoi}} fish ({{taxlink|Hemibarbus barbus|species|noshow=1}}); more commonly known as {{ja-l|ニゴイ||nigoi}}
+# alternate name for the {{ja-l|鯎}} or {{ja-l|石斑魚|うぐい|ugui}} fish, {{vern|Japanese dace}} (''[[Tribolodon hakonensis]]''); more commonly known as {{ja-l|ウグイ||ugui}}
+# {{lb|ja|archaic|slang}}: during the Edo period, [[derogatory]] term for an [[unlicensed]] [[prostitute]] dressed as a [[Buddhist]] [[nun]] as a form of [[disguise]] from the [[authorities]] {{qualifier|from the way the [[shaven]] head looks a bit like a [[debark]]ed log, and from the way that they both [[roll around]]}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-l|丸太小屋|まるたごや|marutagoya}}: a [[log cabin]]
+* {{ja-l|丸太ん棒|まるたんぼう|marutanbō}}: a [[log]] {{qualifier|more casual}}
+* {{ja-l|丸太魚|まるたうお|maruta uo}}: a ''maruta'' fish: a {{ja-l|ニゴイ||nigoi}}
+* {{ja-l|丸太式舞台|まるたしきぶたい|maruta-shiki butai}}: a log-style (theater) [[stage]], made of hewn logs
+* {{ja-l|丸太舟|まるたぶね|marutabune}}: a kind of [[boat]] made of logs and used mainly on [[w:Lake Biwa|Lake Biwa]] starting from the medieval period
+* {{ja-l|丸太洗い}}, {{ja-l|丸太洗|まるたあらい|maruta arai}}: logs used to [[shore up]] the bottom of a [[reservoir]] [[pond]] or [[sewer]] [[outlet]]
+{{der-bottom}}
+
+====Idioms====
+* {{ja-l|丸太に糠釘|まるたにぬかくぎ|maruta ni nukakugi}}: “a tack into a log” → a metaphor for one's [[intention]]s or [[feelings]] not [[get through|getting through]] to another person, much as a [[tack]] will not go through a [[log]]
+
+====Synonyms====
+* {{sense|log}} {{ja-l|丸木|まるき|maruki}}
+* {{sense|log}} {{ja-l|丸太ん棒|まるたんぼう|marutanbō}}
+* {{sense|Hemibarbus barbus}} {{ja-l|ニゴイ||nigoi}}
+* {{sense|Japanese dace}} {{ja-l|ウグイ||ugui}}
+
+====External links====
+* {{pedia|Lumber}}
+* {{pedia|木材|木材 (Lumber)|lang=ja}}
+* {{pedia|ニゴイ|lang=ja}} ({{taxlink|Hemibarbus barbus|species|noshow=1}})
+* {{pedia|ウグイ|lang=ja}} (''[[Tribolodon hakonensis]]'')
+* {{pedia|Edo period}}
+* {{pedia|Ukiyo}}
+
+===References===
+<references/>
+
+[[ko:丸太]]
+[[hu:丸太]]
+[[mg:丸太]]
+[[sv:丸太]]
+[[chr:丸太]]
+[[zh:丸太]]

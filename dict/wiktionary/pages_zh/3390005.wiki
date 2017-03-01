@@ -1,0 +1,56 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Transcription of the same {{der|zh|peo||Hinduka}} ("India", or its minor variants) as {{zh-l|天竺}}. It is the oldest of the Chinese names for India, and occurs in ''{{w|Shiji}}'' in connection with the mission of {{w|Zhang Qian}} to {{w|Daxia}}.
+
+Using Middle Chinese reconstructions of the two characters in this word (''ɕiɪn duok̚'') gives the false impression that this is derived from the name of {{m|en|Sindhu}} ({{m|sa|सिन्धु|tr=-}}) – the name of the westernmost kingdom of India. Factors making this etymology unlikely include:
+# Zhang Qian had no direct contact with India or with the Indians. He gathered the name from the people of {{w|Daxia}} which was a pure Iranian zone then under the occupation of {{w|Yuezhi}};
+# The choice of an alveolopalatal sibilant ''ɕ''- for a clear dental sibilant ''s''- in the original language; cf. known transcriptions of ''Sindhu'': {{lang|zh|[[新]]頭 新陶 [[辛]]頭 [[信]]度}}, all commencing with a dental sibilant; and
+# The presence of a final -''k'' in {{lang|zh|身毒}}, as in {{zh-l|*天竺}}.
+
+The ancient Chinese writers have long suggested that ''shēn'' in this word had a different pronunciation. {{w|Yuan Shigu}} in his commentary to the ''{{w|Hanshu}}'' says:
+: {{ux|zh|[[捐毒]]即'''身毒'''、[[天篤]]也，本皆一名，語有輕重耳。|''Juandu'' ({{lang|zh|捐毒}}), ''Shendu'' ({{lang|zh|身毒}}) and ''Tiandu'' ({{lang|zh|天篤}}) are originally the same name pronounced either lightly or with emphasis.|inline=1}}
+
+The variant of Late Old Chinese that Zhang Qian had used showed the dialectal development of Old Chinese {{zh-l|*身}} *''n̥in'' > *''χin'' ~ ''hin'', explaining the choice of {{zh-l|身}}. This is perhaps comparable to the case of {{lang|zh|天}} in {{zh-l|*天竺|India}}, also a dialectal Old Chinese variant pronunciation. Modern dictionaries variably designate the proper pronunciation of this word in modern Beijing Mandarin as ''juāndú'', ''yuándú'', ''yuāndú'', but rarely ''shēndú'' as would be pronounced by an unknowledgeable native.
+
+===Pronunciation===
+{{zh-pron
+|m=Juāndú,Yuándú,Yuāndú,2nb=variant,3nb=variant
+|c=gyun1 duk1,jyun4 duk1,gyun1 duk6
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{lb|zh|literary|obsolete}} [[India]]
+
+====Synonyms====
+* {{zh-l|天竺}}
+* {{qualifier|modern}} {{zh-l|印度}}
+
+====Related terms====
+* {{zh-l|天竺}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|どく|yomi=on}}
+
+===Etymology===
+Transliteration of Sanskrit ''sindhu''.
+
+===Pronunciation===
+* {{IPA|[ɕindoku]|lang=ja}}
+
+===Noun===
+{{ja-noun|しんどく}}
+
+# the Chinese term used to refer to India; [[India]]
+
+===See also===
+* {{ja-r|インド}}
+* {{ja-r|天竺|てんじく}}
+
+[[zh:身毒]]

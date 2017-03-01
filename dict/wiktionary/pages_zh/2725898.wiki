@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiànquē
+|c=him3 kyut3
+|h=pfs=khiam-khiet
+|mn=qz:khiàm-khe̍rh/tp:khiàm-kheh/xm:khiàm-khe̍h/kh,zz:khiàm-khoeh/khiàm-khoat
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[shortcoming]]
+
+===Verb===
+{{zh-verb}}
+
+# to be [[deficient]] in; to be [[short]] of
+
+----
+
+==Japanese==
+
+===Etymology===
+{{ja-kanjitab|けん|けつ|yomi=o}}
+From {{der|sort=けんけつ|ja|ltc|欠缺|tr=kʰɨɐm<sup>H</sup>  kʰwet̚}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|けんけつ|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|けんけつ}}
+
+# {{lb|sort=けんけつ|ja|legal}} [[lack]]
+#: {{ja-usex|[[w:ja:意思の欠缺|意思の'''欠缺''']]|いし の '''けんけつ'''|'''lack''' of intent}}
+
+===References===
+<references/>
+
+[[zh-min-nan:欠缺]]
+[[ko:欠缺]]
+[[mg:欠缺]]
+[[ja:欠缺]]
+[[zh:欠缺]]

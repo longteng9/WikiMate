@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|克}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=07|sn=9|four=42210|canj=JULN,XJULN|ids=⿺克刂}}
+
+====References====
+* {{Han ref|kx=0140.130|dkj=02009|dj=0318.040|hdz=10339.030|uh=524B|ud=21067|bh=AB67|bd=43879}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation 1===
+{{zh-forms|s=克|t2=克|alt=尅}}
+{{zh-pron
+|m=kè
+|c=hak1,haak1
+|mn=khek
+|w=4kheq
+|mc=y
+|oc=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[overcome]]; to [[subdue]]; to [[overthrow]]
+# to [[restrain]]; to [[cut]] down
+# to [[be able to]]
+
+====Compounds====
+{{zh-der|天剋地衝|剋日|剋嗇|剋落|剋剝|慳吝苦剋|剋扣|剋期|剋意|剋星|剋核|剋夫|刑剋|剋化|扣剋|相生相剋|掊剋|相剋|沖剋|衝剋|裒剋}}
+
+===Pronunciation 2===
+{{zh-forms|alt=尅}}
+{{zh-pron
+|m=kēi
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|colloquial}} to [[scold]]; to [[censure]]
+# {{lb|zh|colloquial}} to [[beat]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=刀07}}
+
+# {{defn|lang=ja|sort=刀07}}
+
+====Readings====
+* {{ja-readings|on=[[こく]] (koku)|kun=[[かつ]] (katsu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[극]]|rv=geuk|mr=kŭk}}
+
+# {{defn|lang=ko|sort=刀07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khắc]]|rs=刀07}}
+
+# {{defn|lang=vi|sort=刀07}}
+
+[[fr:剋]]
+[[ko:剋]]
+[[hu:剋]]
+[[ja:剋]]
+[[pl:剋]]
+[[th:剋]]
+[[zh:剋]]

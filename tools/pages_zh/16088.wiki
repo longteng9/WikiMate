@@ -1,0 +1,98 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=05|sn=8|four=56050|canj=QWL|ids=⿰扌甲}}
+
+====References====
+* {{Han ref|kx=0424.070|dkj=11929|dj=0772.030|hdz=31851.080|uh=62BC|ud=25276|bh=A9E3|bd=43491}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|甲|ls=psc|c1=s|c2=p|alt1=扌}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yā
+|c=aap3,aat3
+|h=pfs=ap
+|md=ák
+|mn=qz,tw,xm,zz:ah/qz,tw,xm,zz:ap
+|mn_note=ah - vernacular; ap - literary
+|w=4aq,4khaq
+|w_note=4khaq - used in {{zh-l|*押牌九}}
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[sign]]
+# [[signature]]
+# [[mortgage]]; [[pledge]]
+# to [[pawn]]
+# to [[arrest]]; to [[detain]]; to [[guard]]
+# to [[send]] under [[escort]]
+# to [[accompany]]
+# to [[stake]]; to [[bet]]
+# to [[take]] [[charge]] of
+
+===Compounds===
+{{zh-der|僉押|合轍押韻|寄押|典押|封押|在押|十字花押|假扣押|判押|套畫押字|押寶|押租|押司|押船|抵押品|押注|押寨夫人|押運|押帳|押牙|押差|押衙|押鋪|押座文|押頭|押花|押款|押金|抵押權|押尾|畫押|押孤丁|押解|抵押|押赴|看押|押車|押牢|押匯|抵押放款|押字|拘押|押榜|押番|押送|收押|押櫃|押放|押韻|扣押|押票|押床|押隊|押當|監押|押店|押付|羈押|簽押房|結押|質押|籤押|花押印|花押|關押|轄押|紅字黑押|管押}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=手05}}
+
+# [[push]]
+{{attention|ja|more glosses and/or senses may be needed. I added [[push]] as the single character is often used as signs on doors with this meaning.}}
+
+====Readings====
+* {{ja-readings|goon=[[きょう]] (kyō), [[よう]] (yō)|kanon=[[おう]] (ō), [[こう]] (kō)|kun=[[おす]] (osu), [[おさえる]] (osaeru), [[おし]] (oshi)}}
+
+====Compounds====
+* [[押忍]] ([[おっす]], [[ossu]])
+* [[押っ忍]]
+* [[押収]] ([[おうしゅう]], [[ōshū]])
+
+====Antonyms====
+* {{l|ja|引||pull}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[압]], [[갑]]|eumhun=|rv=ap, gap|mr=ap, kap|y=ap, kap}}
+
+# {{defn|lang=ko|sort=手05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[áp]], [[ắp]], [[ép]], [[ẹp]], [[ét]], [[ếp]], [[ghép]], [[giẹp]], [[ốp]], [[ướp]]|rs=手05}}
+
+# {{defn|lang=vi|sort=手05}}
+
+[[zh-min-nan:押]]
+[[fr:押]]
+[[ko:押]]
+[[hu:押]]
+[[mg:押]]
+[[ja:押]]
+[[no:押]]
+[[pl:押]]
+[[th:押]]
+[[zh:押]]

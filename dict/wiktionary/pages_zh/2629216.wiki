@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|さん|ない|yomi=o}}
+
+===Pronunciation===
+* {{IPA|[saɴnai]|lang=ja}}
+
+===Noun===
+{{ja-noun|さんない|kyu=三內}}
+
+# {{lb|ja|phonetics}} in [[w:Siddhaṃ script|Sanskrit]] phonology, a general term for the three [[w:Place of articulation|places of articulation]] that consonants are grouped into: [[w:Dorsal consonant|dorsal]] (/k, g, ŋ/), [[w:Coronal consonant|coronal]] (/t, d, n/), and [[w:Labial consonant|labial]] (/p, b, m/)
+
+====Derived terms====
+* {{l|ja|三内音}} (sannaion)
+
+===See also===
+* {{l|ja|喉内}} (kōnai)
+* {{l|ja|舌内}} (zetsunai)
+* {{l|ja|唇内}} (shinnai)
+
+[[Category:ja:Phonetics|さんない]]

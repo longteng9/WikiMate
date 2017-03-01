@@ -1,0 +1,105 @@
+{{character info/new}}
+{{also|敌}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=66|rad=攴|as=11|sn=15|four=08240|canj=YBOK|ids=⿰啇攵}}
+
+# [[enemy]], [[foe]], [[rival]]
+# [[resist]]
+
+====References====
+* {{Han ref|kx=0474.480|dkj=13354|dj=0828.290|hdz=21475.040|uh=6575|ud=25973|bh=BCC4|bd=48324}}
+
+----
+
+==Chinese==
+{{zh-forms|s=敌}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dí
+|ma=y
+|c=dik6
+|h=pfs=
+|md=
+|mn=te̍k
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+* {{zh-l|敵人}}
+* {{zh-l|無敵}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=攴11}}
+
+====Readings====
+* {{ja-readings|goon=[[じゃく]] (jaku)|kanon=[[てき]] (teki)|kun=[[かたき]] (kataki), [[あだ]] (ada)}}
+
+===Noun===
+{{ja-noun|かたき}}
+
+# an enemy
+# [[rival]]
+
+====Alternative forms====
+* {{l/ja|仇}}
+
+{{ja-noun|てき}}
+
+# an enemy
+# an [[opponent]]; a [[competitor]]
+
+====Compounds====
+* {{l|ja|敵対}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=적|eumhun=|rv=jeok|mr=chŏk|y=cek}}
+
+# {{defn|lang=ko|sort=攴11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[địch]]|rs=攴11}}
+
+# {{defn|lang=vi|sort=攴11}}
+
+[[fr:敵]]
+[[ko:敵]]
+[[ku:敵]]
+[[lo:敵]]
+[[lt:敵]]
+[[li:敵]]
+[[hu:敵]]
+[[mg:敵]]
+[[ja:敵]]
+[[pl:敵]]
+[[ru:敵]]
+[[sv:敵]]
+[[th:敵]]
+[[chr:敵]]
+[[tr:敵]]
+[[zh:敵]]

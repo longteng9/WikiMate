@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|舃}}
+==Translingual==
+
+===Etymology===
+{{liushu|p}}: a kind of bird ([[鳥]]).
+
+===Han character===
+{{Han char|rn=134|rad=臼|as=06|sn=12|four=77327|canj=HXPF,HXYF|ids=⿱臼⿹勹灬}}
+
+# [[shoe]]
+# the [[sole]] of a shoe
+# [[magpie]]
+
+====Derived terms====
+* {{l|mul|寫}}, {{l|mul|獡}}
+
+====References====
+* {{Han ref|kx=1004.071|dkj=30206|dj=1460.210|hdz=53039.180|uh=8204|ud=33284|bh=DB57|bd=56151}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xì
+|c=sik1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=臼06}}
+
+# {{defn|lang=ja|sort=臼06}}
+
+====Readings====
+* {{ja-readings|on=[[しゃく]] (shaku), [[さく]] (saku), [[せき]] (seki), [[たく]] (taku)|kun=[[かささぎ]] (kasasagi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=석|eumhun=|rv=seok|mr=sŏk|y=sek}}
+
+# {{defn|lang=ko|sort=臼06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=臼06|hanviet=[[dãi]], [[tích]], [[tịch]]}}
+
+# {{defn|lang=vi|sort=臼06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=8204 Nom Foundation]
+
+[[fr:舄]]
+[[li:舄]]
+[[hu:舄]]
+[[mg:舄]]
+[[ja:舄]]
+[[pl:舄]]
+[[th:舄]]
+[[zh:舄]]

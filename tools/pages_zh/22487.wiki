@@ -1,0 +1,142 @@
+{{character info/new}}
+{{also|积}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=11|sn=16|four=25986|canj=HDQMC|ids=⿰禾責}}
+
+# [[accumulate]], [[store]] up, [[amass]]
+
+====References====
+* {{Han ref|kx=0859.240|dkj=25266|dj=1285.050|hdz=42626.160|uh=7A4D|ud=31309|bh=BF6E|bd=49006}}
+
+----
+
+==Chinese==
+{{zh-forms|s=积}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jī
+|c=zik1
+|h=pfs=chit
+|md=
+|mn=chek
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+* {{zh-l|成績}}
+* {{l|zh|积案}}
+* {{l|zh|积弊}}
+* {{l|zh|积不相能}}
+* {{l|zh|积储}}
+* {{l|zh|积存}}
+* {{l|zh|积德}}
+* {{l|zh|积淀}}
+* {{l|zh|积恶}}
+* {{l|zh|积肥}}
+* {{l|zh|积分}}
+* {{l|zh|积愤}}
+* {{l|zh|积垢}}
+* {{l|zh|积毁销骨}}
+* {{l|zh|积极}}
+* {{l|zh|积极分子}}
+* {{l|zh|积极性}}
+* {{l|zh|积渐}}
+* {{l|zh|积聚}}
+* {{l|zh|极劳}}
+* {{l|zh|积劳成疾}}
+* {{l|zh|积累}}
+* {{l|zh|积累基金}}
+* {{l|zh|积木}}
+* {{l|zh|积年}}
+* {{l|zh|积年累月}}
+* {{l|zh|积怒}}
+* {{l|zh|积欠}}
+* {{l|zh|积弱}}
+* {{l|zh|积沙成塔}}
+* {{l|zh|积善}}
+* {{l|zh|积少成多}}
+* {{l|zh|积食}}
+* {{l|zh|积水}}
+* {{l|zh|积威}}
+* {{l|zh|积习}}
+* {{l|zh|积蓄}}
+* {{l|zh|积雪}}
+* {{l|zh|积压}}
+* {{l|zh|积淤}}
+* {{l|zh|积余}}
+* {{l|zh|积羽沉舟}}
+* {{l|zh|积雨}}
+* {{l|zh|积雨云}}
+* {{l|zh|积郁}}
+* {{l|zh|积怨}}
+* {{l|zh|积愿}}
+* {{l|zh|积云}}
+* {{l|zh|积攒}}
+* {{l|zh|积重难返}}
+* {{l|zh|积铢累寸}}
+* {{l|zh|积贮}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=禾11}}
+
+# volume
+
+====Readings====
+* {{ja-readings|goon=[[し]] (shi), [[しゃく]] (shaku) {{non-joyo-reading}}|kanon=[[し]] (shi), [[せき]] (seki)|kanyoon=[[せき]] (seki)|kun=[[つむ]] (tsumu), [[つもる]] (tsumoru)|nanori=}}
+
+===Pronunciation===
+{{ja-kanjitab|せき|yomi=o}}
+{{ja-pron|acc=a|y=ko|せき}}
+
+===Noun===
+{{ja-noun|せき}}
+
+# {{lb|ja|arithmetic|sort=せき}} [[product]]
+
+===See also===
+* {{ja-l|被乗数|ひじょうすう|hijōsū}}; {{ja-l|乗数|じょうすう|jōsū}}
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[적]], [[자]]|eumhun=|rv=jeok, ja|mr=chŏk, cha|y=cek, ca}}
+
+# {{defn|lang=ko|sort=禾11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tích]]|rs=禾11}}
+
+# {{defn|lang=vi|sort=禾11}}
+
+[[fr:積]]
+[[ko:積]]
+[[hu:積]]
+[[mg:積]]
+[[ja:積]]
+[[pl:積]]
+[[th:積]]
+[[chr:積]]
+[[zh:積]]

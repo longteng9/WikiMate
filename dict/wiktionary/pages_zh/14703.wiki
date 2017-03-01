@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|嵝}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=11|sn=14|four=25744|canj=ULLV|ids=⿰山婁}}
+
+# Goulou ([[岣嶁]]), a [[mountain]] [[peak]] in [[Hunan]] [[province]]
+
+====References====
+* {{Han ref|kx=0318.250|dkj=08408|dj=0618.370|hdz=10794.010|uh=5D81|ud=23937|bh=E1A8|bd=57768}}
+
+----
+
+==Chinese==
+{{zh-forms|s=嵝}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lōu
+|c=lau5
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|岣嶁|岣嶁碑}}
+
+===References===
+* {{R:twedu|B00872}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山11}}
+
+# {{defn|lang=ja|sort=山11}}
+
+====Readings====
+* {{ja-readings|on=[[る]] (ru), [[ろう]] (rō)|kun=[[いただき]] (itadaki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=루|rv=ru|mr=ru}}
+
+# {{defn|lang=ko|sort=山11}}
+
+[[fr:嶁]]
+[[li:嶁]]
+[[hu:嶁]]
+[[pl:嶁]]
+[[th:嶁]]
+[[zh:嶁]]

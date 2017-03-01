@@ -1,0 +1,16 @@
+==Japanese==
+{{ja-kanjitab|だつ|k1=だっ|ちつ|yomi=on}}
+
+===Etymology===
+{{prefix|脱|窒|t1=de-|t2=nitrogen|lang=ja|sort=ちつ}}
+
+===Noun===
+{{ja-noun|だっちつ}}
+# [[denitrification]]
+
+===Verb===
+{{ja-verb-suru|だっちつ}}
+# [[denitrify]]
+
+====Conjugation====
+{{ja-suru|だっちつ}}

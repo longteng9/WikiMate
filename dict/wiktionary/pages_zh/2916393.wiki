@@ -1,0 +1,65 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|じゃ|yomi=o|け}}
+From {{etyl|zhx|ja|sort=しゃけ'}} {{m|zh|邪氣}}. The {{m|zh|氣}} was simplified in Japan to {{m|ja|気}}.
+
+====Pronunciation====
+{{ja-pron|じゃけ|y=go}}
+
+====Noun====
+{{ja-noun|じゃけ|kyu=邪氣}}
+
+# An [[evil]] or [[malevolent]] [[spirit]].
+# An [[illness]] or [[disease]].
+
+=====Synonyms=====
+* {{sense|malevolent spirit}} {{ja-r|物の怪|もの の け}}
+* {{sense|disease}} {{ja-r|病気|びょうき}}
+
+===Etymology 2===
+{{ja-kanjitab|じゃ|yomi=o|き}}
+{{IPAchar|/dʑake/}} → {{IPAchar|/dʑaki/}}
+
+Shift in reading of {{m|ja|気}} from [[呉音|go'on]] ''ke'' to [[漢音|kan'on]] ''ki''.
+
+====Pronunciation====
+{{ja-pron|じゃき|acc=a|acc2=h|y=o}}
+
+====Noun====
+{{ja-noun|じゃき|kyu=邪氣}}
+
+# A bad [[nature]] or [[disposition]] that could cause [[disease]].
+# [[malice|Malice]], [[maliciousness]], a [[menace]], [[ill will]].
+# An [[evil]] or [[malevolent]] [[spirit]].
+# An evil [[aura]] or [[chi]] [[emit]]ted from an evil spirit.
+# A [[cold]], an [[illness]].
+
+=====Synonyms=====
+* {{sense|bad nature}} {{ja-r|悪気|わるぎ}}
+* {{sense|malice}} {{ja-r|悪意|あくい}}
+* {{sense|malevolent spirit}} {{ja-r|物の怪|もの の け}}
+* {{sense|a cold}} {{ja-r|風邪|かぜ}}
+
+===Etymology 3===
+{{ja-kanjitab|じゃ|k1=ざ|yomi=o|け}}
+{{IPAchar|/dʑake/}} → {{IPAchar|/zake/}}
+
+Shift in reading of {{m|ja|邪}} from [[呉音|go'on]] ''ja'' to non-[[affricate]]d ''za''.
+
+====Pronunciation====
+{{ja-pron|ざけ|y=go}}
+
+====Noun====
+{{ja-noun|ざけ|kyu=邪氣}}
+
+# An [[evil]] or [[malevolent]] [[spirit]].
+# A [[curse]].
+
+=====Synonyms=====
+* {{sense|malevolent spirit}} {{ja-r|物の怪|もの の け}}
+* {{sense|curse}} {{ja-r|祟り|たたり}}
+
+[[Category:Japanese words with multiple readings]]
+[[ja:邪気]]
+[[zh:邪気]]

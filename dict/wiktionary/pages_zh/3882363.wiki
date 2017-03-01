@@ -1,0 +1,15 @@
+==Japanese==
+{{ja-kanjitab|ぜつ|k1=ぜっ|たい|しゅ|ぎ|しゃ|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=せったいしゅぎしゃ'|絶対|tr1=zettai|t1=absolute|主義者|tr2=shugisha|t2=-ist}}, the latter a compound of {{m|ja|主義|tr=shugi||principle, -ism}} + {{m|ja|者|tr=sha||person}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[ze̞tːa̠i ɕʲɯᵝɡiɕʲa̠]|[ze̞tːa̠i ɕʲɯᵝŋiɕʲa̠]}}
+
+===Noun===
+{{ja-noun|ぜったい しゅぎしゃ}}
+
+# {{lb|ja|politics|sort=せったいしゅぎしゃ'}} an [[absolutist]], one who favors [[autocratic]] [[government]]
+# {{lb|ja|philosophy|sort=せったいしゅぎしゃ'}} an [[absolutist]], an [[adherent]] of [[absolutism]], as opposed to [[relativism]]

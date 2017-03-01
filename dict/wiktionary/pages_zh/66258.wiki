@@ -1,0 +1,43 @@
+{{also|乘法}}
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|じょう|ほう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=h|acc2=a|じょうほう|y=go}}
+
+===Noun===
+{{ja-noun|じょうほう|hhira=じょうはふ}}
+
+# {{lb|ja|arithmetic|sort=しょうほう'}} [[multiplication]]
+
+====Synonyms====
+* {{ja-r|掛け算|かけざん}}
+
+====Antonyms====
+* {{ja-r|割り算|わりざん}}; {{ja-r|除法|じょほう|gloss=[[division]]}}
+
+====Derived terms====
+* {{ja-r|最小自乗法|さいしょう じじょうほう}}
+* {{ja-r|最小二乗法|さいしょう じじょうほう}}
+
+===See also===
+* {{ja-r|倍|ばい}}
+* {{ja-r|乗じる|じょうじる}}
+* {{ja-r|乗ずる|じょうずる}}
+* {{ja-r|二乗|じじょう}}
+* {{ja-r|自乗|じじょう}}
+* {{ja-r|掛ける|かける}}
+* {{ja-r|加法|かほう}}
+* {{ja-r|減法|げんぽう}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[cs:乗法]]
+[[fr:乗法]]
+[[it:乗法]]
+[[li:乗法]]
+[[mg:乗法]]
+[[zh:乗法]]

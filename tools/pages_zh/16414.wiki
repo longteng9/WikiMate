@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=09|sn=12|four=|canj=QDAM|ids=⿰扌查}}
+
+# [[handful]]
+# to [[grasp]], [[seize]], [[pick up]] with [[finger]]s
+
+====References====
+* {{Han ref|kx=0445.341|dkj=12443|hdz=31913.020|uh=63F8|ud=25592}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhā
+|c=zaa1,zaa2
+|h=pfs=
+|md=
+|mn=
+|w=
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Cantonese}} to [[hold]] in the hand; to [[grasp]]
+#: {{zh-x|揸 筷子|to hold chopsticks|C}}
+# {{lb|zh|Cantonese}} to [[drive]] a [[vehicle]]
+#: {{zh-x|揸車|to drive a car|C}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手09}}
+
+# {{defn|lang=ja|sort=手09}}
+
+====Readings====
+* {{ja-readings|on=[[さ]] (sa)|kun=[[つまむ]] (tsumamu)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=手09|tra}}
+
+# {{defn|lang=vi|sort=手09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=63f8 Nom Foundation]
+
+[[fr:揸]]
+[[hu:揸]]
+[[mg:揸]]
+[[pl:揸]]
+[[th:揸]]
+[[vi:揸]]
+[[zh:揸]]

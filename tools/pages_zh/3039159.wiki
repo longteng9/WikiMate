@@ -1,0 +1,57 @@
+==Japanese==
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Tachibana}}
+[[File:Japanese_Crest_Tachibana_Mamori.svg|thumb|250px|{{lang|ja|立花}} (''Tachibana''): the '''Tachibana''' {{m|en|kamon}} or family crest.]]
+</div>
+{{ja-kanjitab|たち|はな|r=y|k2=ばな|yomi=k}}
+Compound of {{compound|lang=ja|sort=たちばな|立ち|tr1=tachi|t1=standing|pos1=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|立つ}} ''tatsu'', “to stand”|花|tr2=hana|t2=flower}}.  {{rendaku2|sort=たちばな|hana|bana}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|たちばな}}<!-- Cannot currently find pitch accent for this spelling; 橘 is acc=2 -->
+
+====Proper noun====
+{{ja-pos|proper|たちばな}}
+
+# {{surname|lang=ja|sort=たちばな}}
+# any of various [[place name]]s
+# a [[school]] or [[style]] of [[ikebana]]
+
+=====Usage notes=====
+The ''rikka'' reading may be more common for the [[ikebana]] school sense.
+
+===Etymology 2===
+<div style="float:right;clear:both;">
+{{wikipedia|Rikka}}
+[[File:Ikebana-Rikka.jpg|thumb|250px|{{lang|ja|立花}} (''rikka'', ''tachibana''): a painting of an [[ikebana]] [[arrangement]] in the '''''Rikka''''' style.]]
+</div>
+{{ja-kanjitab|yomi=o|りつ|k1=りっ|か}}
+{{IPAchar|/rikkwa/}} → {{IPAchar|/rikka/}}
+
+Possibly from {{etyl|ltc|ja|sort=りっか}} compound {{m|zh|立花|tr=lip xwæ|lit=stand + flower}} or {{m|zh|立華|tr=lip xwæ|lit=stand + flower}}.
+
+Alternatively, coined in Japan of {{etyl|ltc|-}}-derived components.
+
+====Pronunciation====
+{{ja-pron|yomi=o|りっか|acc=1|acc_ref=DJR,SMK5|acc2=0|acc2_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|立華}}
+
+====Noun====
+{{ja-noun|りっか|hhira=りつくわ}}
+
+# {{lb|ja|sort=りっか|Buddhism}} a [[style]] of [[floral]] [[arrangement]] as an [[offering]], typically using [[branch]]es of [[pine]] or [[plum]] placed [[upright]] in a [[copper]] [[vase]]
+
+====Proper noun====
+{{ja-pos|proper|りっか|hhira=りつくわ}}
+
+# a [[school]] or [[style]] of [[ikebana]]
+# an area in the city of {{w|Nagakute, Aichi}}
+
+===References===
+<references/>
+
+[[cs:立花]]

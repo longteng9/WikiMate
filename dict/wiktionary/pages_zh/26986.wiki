@@ -1,0 +1,91 @@
+{{character info/new}}
+{{also|该}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=06|sn=13|four=00682|canj=YRYVO|ids=⿰言亥}}
+
+====References====
+* {{Han ref|kx=1158.160|dkj=35445|dj=1624.100|hdz=63970.070|uh=8A72|ud=35442|bh=B8D3|bd=47315}}
+
+----
+
+==Chinese==
+{{zh-forms|s=该}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|亥|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gāi
+|c=goi1
+|h=pfs=ke/kôi
+|md=găi
+|mn=kai
+|w=1ke
+|mc=y
+|oc=y
+|ma=y
+|cat=v,a,adv,det
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} to [[contain]]; to [[include]]
+# {{†}} [[extensive]]; [[comprehensive]]; [[wide]]
+# [[will]] [[be]]; [[going]] to be
+# [[should]]; [[ought to]]; [[need]] to; [[have to]]
+# to [[deserve]]; to [[serve someone right]]
+# to be one's [[turn]] (to do something)
+# {{lb|zh|colloquial}} to [[owe]]
+# {{†}} [[all]]; [[everywhere]]
+# {{n-g|particle used for emphasis}}
+# {{lb|zh|formal}} the [[aforementioned]]; [[such]]; [[that]]
+# {{lb|zh|dialectal}} [[this]]
+
+===Compounds===
+{{zh-der|不該|命不該絕|命該如此|合該有事|合該|當該|應該|正該|活該|該下|該贍|該通|罪該萬死|該帳|該攝|該班|該死|該載|該管|該博|該應|該究|該當何罪|該處|該房|該當|該死行瘟|該備}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=言06}}
+
+# {{defn|lang=ja|sort=言06}}
+
+====Readings====
+* {{ja-readings|goon=[[かい]] (kai)|kanon=[[かい]] (kai)|kanyoon=[[がい]] (gai)|kun=[[かねる]] (kaneru), [[その]] (sono)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=해|eumhun=|rv=hae|mr=hae|y=hay}}
+
+# {{defn|lang=ko|sort=言06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cai]], [[cơi]]|rs=言06}}
+
+# {{defn|lang=vi|sort=言06}}
+
+[[zh-min-nan:該]]
+[[fr:該]]
+[[ko:該]]
+[[hu:該]]
+[[mg:該]]
+[[ja:該]]
+[[pl:該]]
+[[th:該]]
+[[chr:該]]
+[[zh:該]]

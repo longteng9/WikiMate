@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|えん|お|yomi=o}}
+
+===Noun===
+{{ja-noun|えんお|kyu=厭惡}}
+
+# [[hatred]], [[dislike]], [[aversion]]
+
+====Synonyms====
+* {{ja-r|嫌悪|けんお}}
+* {{ja-r|嫌厭|けんえん}}
+
+====Antonyms====
+* {{ja-r|愛好|あいこう|gloss=[[love]]}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|えんお|kyu=厭惡}}
+
+# to [[hate]], to [[detest]], to [[dislike]]
+
+====Conjugation====
+{{ja-suru|えんお}}
+
+[[ja:厭悪]]
+[[chr:厭悪]]

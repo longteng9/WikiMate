@@ -1,0 +1,53 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=sìjiǎo
+|h=pfs=si-kok
+|mn=sì-kak
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[four]] [[angle]]s; four [[corner]]s
+# {{zh-abbrev|四角形}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|かく|yomi=on}}
+
+===Noun===
+{{ja-noun|しかく}}
+
+# [[square]]
+
+===Adjectival noun===
+{{ja-adj|infl=na|しかく}}
+
+# [[square]]
+#: {{ja-usex|四角な箱|しかく な はこ|a square box}}
+
+====Inflection====
+{{ja-na|しかく}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|tứ giác|[[quadrilateral]]}}
+
+[[cs:四角]]
+[[fr:四角]]
+[[ko:四角]]
+[[ky:四角]]
+[[hu:四角]]
+[[mg:四角]]
+[[zh:四角]]

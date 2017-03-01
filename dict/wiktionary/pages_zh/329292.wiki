@@ -1,0 +1,76 @@
+{{also|恆星}}
+==Chinese==
+{{zh-see|恆星}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Fixed star}}
+[[File:41_coma_berenices.jpg|thumb|250px|{{lang|ja|恒星}} (''kōsei''): a [[fixed star]].]]
+</div>
+{{ja-kanjitab|こう|せい|yomi=on}}
+
+===Etymology===
+Probably from {{etyl|ltc|ja|sort=こうせい}} compound {{m|ltc|恒星|tr=hong seng||fixed star}}. Compare modern {{cog|zh|恒星|tr=héngxīng}}. Used as a translation for the {{etyl|en|-}} term {{m|en|fixed star}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|h|こ|うせい}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[ko̞ːse̞ː]}}
+
+===Noun===
+{{ja-noun|こうせい|kyu=恆星}}
+
+# {{lb|ja|sort=こうせい|astronomy}} a [[fixed star]]: a star that does not appear to [[move]] relative to other [[celestial]] [[object]]s
+
+====Derived terms====
+{{der-top}}
+* {{ja-l|恒星系|こうせいけい|kōseikei}}: a star [[cluster]] or [[cloud]], such as the [[Magellanic Cloud]]
+* {{ja-l|恒星月|こうせいげつ|kōseigetsu}}: [[stellar]] [[astronomy]]
+* {{ja-l|恒星光行差|こうせいこうこうさ|kōsei kōkōsa}}: a [[stellar]] [[aberration]], an [[aberration of light]]
+* {{ja-l|恒星時|こうせいじ|kōseiji}}: [[sidereal time]]
+* {{ja-l|恒星日|こうせいじつ|kōseijitsu}}: a [[sidereal day]]
+* {{ja-l|恒星図|こうせいず|kōseizu}}: a [[star chart]]
+* {{ja-l|恒星天|こうせいてん|kōseiten}}: the ancient Greek theory of the [[heavens]] with the Earth at the center of seven [[concentric]] [[spheres]]
+* {{ja-l|恒星天文学|こうせいてんもんがく|kōsei tenmongaku}}:
+* {{ja-l|恒星年|こうせいねん|kōseinen}}: a [[sidereal year]]
+* {{ja-l|恒星表|こうせいひょう|kōseihyō}}: a [[star catalogue]]
+* {{ja-l|恒星目録|こうせいもくろく|kōsei mokuroku}}: a [[star catalogue]]
+{{der-bottom}}
+
+===See also===
+* {{ja-l|星|ほし|hoshi}}: {{qualifier|astronomy}} [[star]]
+* {{ja-l|惑星|わくせい|wakusei}}: {{qualifier|astronomy}} [[planet]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=항성}}
+
+# {{lb|ko|astronomy|sort=항성}} {{hanja form of|항성|star}}
+
+[[gd:恒星]]
+[[ko:恒星]]
+[[it:恒星]]
+[[sw:恒星]]
+[[lo:恒星]]
+[[lt:恒星]]
+[[hu:恒星]]
+[[mg:恒星]]
+[[fj:恒星]]
+[[nl:恒星]]
+[[ja:恒星]]
+[[pl:恒星]]
+[[ro:恒星]]
+[[si:恒星]]
+[[chr:恒星]]
+[[ug:恒星]]
+[[zh:恒星]]

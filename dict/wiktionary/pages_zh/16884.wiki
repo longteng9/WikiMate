@@ -1,0 +1,105 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=70|rad=方|as=07|sn=11|four=08281|canj=YSONO|ids=⿸⿰方𠂉疋}}
+
+====References====
+* {{Han ref|kx=0483.170|dkj=13656|dj=0845.120|hdz=32181.040|uh=65CB|ud=26059|bh=B1DB|bd=45531}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|㫃|疋|t2=foot|ls=ic}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=xuán,er=y
+|c=syun4
+|h=pfs=
+|md=siòng
+|mn=qz,tw,xm,zz:soân/qz,tw,xm,zz:chn̂g/qz,tw,xm:sn̂g/tw,zz:chn̄g/twv:soan
+|mn_note=soân - literary; chn̂g/sn̂g/chn̄g - vernacular
+|w=3xxi
+|dial=1
+|mc=1
+|oc=1,1
+|cat=v,n,adv
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[revolve]]; to [[turn]]
+# to [[return]]; to [[go]] [[back]]; to [[come]] [[home]]
+# [[circle]]; [[loop]]; [[cycle]]
+# [[whorl]] on the [[head]]
+# [[immediately]]
+
+====Compounds====
+{{zh-der|fold=1|凱旋門|回旋|亂旋|反氣旋|急旋旋|凱旋|便旋|不旋踵|回旋梯|天旋地轉|周旋|天旋日轉|從中斡旋|周旋到底|不足回旋|僅容旋馬|主旋律|假意周旋|壇坫週旋|旋室|旋轉乾坤|旋毛蟲|旋木雀|氣旋|打旋磨|旋踵|旋石|旋旋|旋翼|旋光性|打旋|旋繞|敗不旋踵|旋辟|禍不旋踵|機不旋踵|旋轉|槃旋|戰不旋踵|盤旋曲折|疾如旋踵|打盤旋|旋即|旋轉餐廳|旋轉體|斡旋|旋螺|旋律|盤旋|旋兒|旋轉球|旋乾轉坤|旋胡|旋里|死不旋踵|旋車盤|旋宮|計不旋踵|胡旋舞|螺旋菌|迴旋曲|鈞旋轂轉|逐旋|螺旋|螺旋體|面旋|螺旋狀|錦旋|螺旋槳|輪旋曲|迴旋}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=xuàn,er=y
+|dial=2
+|mc=2
+|oc=2,2
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[revolving]]; [[turning]]; [[circling]]
+# [[at]] the [[time]]
+# {{zh-alt-form|*鏇|to [[pare]]}}
+# {{zh-alt-form|*鏇|[[hot]] [[water]] [[container]] for [[warming]] [[wine]]}}
+
+====Compounds====
+{{zh-der|fold=1|旋風腳|旋風|旋子|旋風裝|溫帶氣旋}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=方07}}
+
+# {{defn|lang=ja|sort=方07}}
+
+====Readings====
+* {{ja-readings|goon=[[ぜん]] (zen)|kanon=[[せん]] (sen)|kun=[[めぐる]] (meguru), [[ゆばり]] (yubari)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=선|eumhun=|rv=seon|mr=sŏn|y=sen}}
+
+# {{defn|lang=ko|sort=方07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[toàn]], [[triệng]], [[trình]], [[triền]], [[tuyền]]|rs=方07}}
+
+# {{defn|lang=vi|sort=方07}}
+
+[[zh-min-nan:旋]]
+[[fr:旋]]
+[[ko:旋]]
+[[hu:旋]]
+[[mg:旋]]
+[[ja:旋]]
+[[no:旋]]
+[[pl:旋]]
+[[th:旋]]
+[[zh:旋]]

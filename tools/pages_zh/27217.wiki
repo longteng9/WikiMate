@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|证|証}}
+==Translingual==
+{{Han simplified forms|證|証|证}}
+
+===Han character===
+{{Han char|rn=149|rad=言|as=12|sn=19|four=02618|canj=YRNOT|ids=⿰言登}}
+
+====References====
+* {{Han ref|kx=1180.140|dkj=35946|dj=1643.390|hdz=64021.110|uh=8B49|ud=35657|bh=C3D2|bd=50130}}
+
+----
+
+==Chinese==
+{{zh-forms|s=证|alt=証}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|登|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhèng
+|c=zing3
+|h=pfs=chṳn
+|md=céng
+|mn=chèng
+|w=2tsen
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[prove]]; to [[testify]]; to [[verify]]
+# [[proof]]; [[evidence]]
+
+===Compounds===
+{{zh-der|三媒六證|三師七證|中證|人證|佐證|作證|作證費|例證|保證|保證人|保證價格|保證書|保證金|借書證|偽證|債權憑證|入境簽證|入境證|入山證|兩難論證|公正證書|公證|公證人|公證公司|公證結婚|公證遺囑|共同保證|准考證|出生證明|分證|到達簽證|加簽證|印證|反證|反證法|受益憑證|執證|壞證|存證信函|孤證|學生證|寒證|實證|實證主義|專賣憑證|對證|居留證|工作證|左證|干證|干證人|廣雅疏證|引證|循環論證|心證|情況證據|憑證|扶同硬證|折證|指證|採證|援古證今|教師證書|文書認證|旁證|明證|有價證券|有證為憑|服務證|查證|歸真證果|死亡證明|死無對證|求證|淋證|照證|物證|球證|畢業證書|疏證|登機證|目擊證人|直接證據|直語補證|確證|祕密證人|福證|簽證|結婚證書|罪證|考證|聽證|聽證制度|聽證會|自由心證|臺胞證|舉證|落地簽證|蒐證|表證|補給證|要證|見證|見證人|觀光簽證|許可證|詮證|認證|論證|證交稅|證人|證件|證候|證券|證券市場|證婚|證婚人|證實|證左|證引|證所稅|證據|證明|證明文件|證明書|證書|證果|證照|證物|證管會|證見|證言|證詞|證道|證章|證驗|識別證|質證|贓證|身分認證|身分證|較證|辨證|辯證|辯證法|辯證邏輯|逆證|通行證|連帶保證|鐵證|鐵證如山|間接證據|雙程證|順證|驗證|黨證}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言12|style=ky|shin=証}}
+
+# {{defn|lang=ja|sort=言12}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[あかし]] (akashi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[증]]|eumhun=|rv=jeung|mr=chŭng|y=cung}}
+
+# {{defn|lang=ko|sort=言12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chứng]], [[chững]], [[chống]], [[chừng]]|rs=言12}}
+
+# {{defn|lang=vi|sort=言12}}
+
+[[zh-min-nan:證]]
+[[fr:證]]
+[[ko:證]]
+[[hu:證]]
+[[mg:證]]
+[[ja:證]]
+[[pl:證]]
+[[th:證]]
+[[zh:證]]

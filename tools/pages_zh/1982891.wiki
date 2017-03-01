@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shànyì
+|c=sin6 ji3
+|h=pfs=san-yi
+|mn=siān-ì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[good]] [[intentions]]; [[goodwill]]
+#: {{zh-x|善意 的 謊話|white lie}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぜん|い|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=ぜんい}} compound {{m|zh|善意|tr=dzyen<sup>X</sup> ʔi<sup>H</sup>|lit=good + thought}}. Compare modern {{etyl|cmn|-}} {{zh-l|善意|tr=shànyì}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|ぜんい|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ぜんい}}
+
+# [[good]] [[intention]]s, [[goodwill]]
+#* '''1953''', 三好十郎, アメリカ人に問う:
+#*: {{ja-usex|日本および日本人に対する'''善意'''がある。|^にほん および にほんじん に たいする '''ぜんい''' が ある。|They have '''goodwill''' toward Japan and its people.}}
+
+===References===
+<references/>
+
+[[zh-min-nan:善意]]
+[[ko:善意]]
+[[hu:善意]]
+[[mg:善意]]
+[[ja:善意]]
+[[chr:善意]]
+[[zh:善意]]

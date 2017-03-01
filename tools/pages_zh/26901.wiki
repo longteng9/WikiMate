@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|讶}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=04|sn=11|four=01640|canj=YRMVH}}
+
+# express surprise, be surprised
+
+====References====
+* {{Han ref|kx=1149.120|dkj=35260|dj=1616.140|hdz=63945.030|uh=8A1D|ud=35357|bh=B359|bd=45913}}
+
+----
+
+==Chinese==
+{{zh-forms|s=讶}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yà
+|c=ngaa6
+|md=
+|mn=qz,xm:gā/tw:ngā/zz:gēe
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to be [[surprised]]; to be [[astonished]]
+
+====Compounds====
+{{zh-der|驚訝|訝異|怪訝|訝然}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言04}}
+
+# {{defn|lang=ja|sort=言04}}
+
+====Readings====
+* {{ja-readings|on=[[が]] (ga), [[げ]] (ge)|kun=[[いぶかる]] (ibukaru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=아|eumhun=|rv=a|mr=a|y=a}}
+
+# {{defn|lang=ko|sort=言04}}
+
+[[fr:訝]]
+[[hu:訝]]
+[[mg:訝]]
+[[ja:訝]]
+[[pl:訝]]
+[[th:訝]]
+[[zh:訝]]

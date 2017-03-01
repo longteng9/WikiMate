@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǎrén
+|c=faat3 jan4
+|mn=hoat-jîn
+|ma=Zh-farén.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[corporate person]]; [[legal entity]]; [[legal person]]
+# [[lawyer]]; person in a law-related profession
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほう|じん|yomi=o}}
+
+===Noun===
+{{ja-noun|ほうじん}}
+
+# A [[corporation]]; an [[incorporate]]d [[association]]. Corporations formed for business purposes are usually referred to specifically as [[会社]] (かいしゃ, kaisha) or "companies." 法人 refers to all entities with legal personality.
+
+====Derived terms====
+{{top2}}
+* {{l|ja|社団法人}}
+* {{l|ja|財団法人}}
+* {{l|ja|学校法人}}
+* {{l|ja|宗教法人}}
+{{mid2}}
+* {{l|ja|中間法人}}
+* {{l|ja|NPO法人}}
+* {{l|ja|法人格}}
+* {{l|ja|法人税}}
+{{bottom}}
+
+[[zh-min-nan:法人]]
+[[ko:法人]]
+[[it:法人]]
+[[lo:法人]]
+[[hu:法人]]
+[[mg:法人]]
+[[ja:法人]]
+[[chr:法人]]
+[[zh:法人]]

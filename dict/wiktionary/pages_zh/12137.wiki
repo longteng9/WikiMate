@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=04|sn=7|four=60017|canj=RYHN|ids=⿰口亢}}
+
+# [[throat]]
+
+====References====
+* {{Han ref|kx=0178.170|dkj=03353|dj=0396.030|hdz=10594.050|uh=542D|ud=21549|bh=A75C|bd=42844}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kēng
+|c=hong4,hang1
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不吭氣|不敢吭聲|引吭高歌|引吭|吭聲|悶不吭聲|吭氣|吭哧|搗虛批吭|扼吭|扼吭拊背}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口04}}
+
+# {{defn|lang=ja|sort=口04}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[のど]] (nodo)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=항|rv=hang|mr=hang}}
+
+# {{defn|lang=ko|sort=口04}}
+
+[[zh-min-nan:吭]]
+[[fr:吭]]
+[[li:吭]]
+[[hu:吭]]
+[[mg:吭]]
+[[ja:吭]]
+[[no:吭]]
+[[pl:吭]]
+[[th:吭]]
+[[zh:吭]]

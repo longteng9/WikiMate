@@ -1,0 +1,30 @@
+==Japanese==
+{{ja-kanjitab|にち|きん|k1=にっ|yomi=on}}
+
+===Noun===
+{{ja-noun|にっきん}}
+
+# [[day shift]]
+# going to one's office every day
+
+====Antonyms====
+* {{sense|day shift}} {{l/ja|夜勤}}
+
+====Coordinate terms====
+* {{l|ja|早番}}
+* {{l|ja|遅番}}
+* {{l|ja|中番}}
+* {{l|ja|通し勤務}}
+* {{l|ja|16勤}}
+* {{l|ja|24勤}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|にっきん}}
+
+# go to [[work]] [[every day]]
+
+====Conjugation====
+{{ja-suru|にっきん}}
+
+[[ko:日勤]]
+[[hu:日勤]]

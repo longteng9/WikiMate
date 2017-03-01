@@ -1,0 +1,47 @@
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=qiànfá
+|c=him3 fat6
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[lack]], to be [[deficient]]
+
+===Etymology 2===
+{{zh-see|缺乏|v}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|けつ|ぼう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|けつぼう|y=o}}
+
+===Noun===
+{{ja-noun|けつぼう|tr=intrans}}
+
+# [[shortage]], [[scarcity]]
+
+===Verb===
+{{ja-verb-suru|けつぼう|tr=intrans}}
+
+#run low, [[lack]], run short
+#: {{ja-usex|ビタミンCが欠乏する|ビタミン C が けつぼう する|need more vitamin C}}
+
+====Conjugation====
+{{ja-suru|けつぼう}}
+
+[[hu:欠乏]]
+[[mg:欠乏]]
+[[ja:欠乏]]
+[[chr:欠乏]]
+[[zh:欠乏]]

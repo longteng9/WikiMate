@@ -1,0 +1,105 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+From {{etyl|ja|nan}} {{ja-r|窒素|ちっそ}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhìsù
+|mn=chit-sò͘/chek-sò͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|rare|chiefly|Taiwan|_|Min Nan}} [[nitrogen]]
+#* {{zh-x|卵白{pe̍h}質，伊 ê 成分 是 炭{Thàn}素，^水素，^酸素，'''窒{Chek}素'''，伊 ê 路用 是 會{ōe} hō͘ 人 ê 身軀 得{tit}著[着] 勢{sè}力{le̍k}，也 是 hō͘ 細胞 加{ke}添 新 %ê。|Protein: its composition is carbon, hydrogen, oxygen and '''nitrogen'''; it is used to give energy to the human body and to regenerate cells.|TW|ref='''1926''', {{lang|zh|張基全}} (Tiuⁿ Ki-chôan), [http://210.240.194.97/nmtl/dadwt/thak.asp?id=513&kw=%B2%BF%AF%C0 {{lang|zh|酒佮健康}} (Chiú kap Kiān-khong)]}}
+#* {{zh-x|閣再 一 款 化學 者 會{ōe} 用 空中 的 窒素 用 電氣 的 作用 予 伊 變{pìⁿ}做{chòe} 植物 的 肥料，予 一般 的 種作 較 好 收成，所以 袂{bōe} 免得 予 咱 著[着] 想 化學 佮{kap} 咱 人生 實在 有{ū} 不可 分離 密{bi̍t}接 的 關係 也 予 咱 通 知 上{Siōng}帝 賞賜 世間 人，有{ū} 智識 通 間{kan}接 創造 物 通 利益 世間。|Again, a type of chemist would use the air's '''nitrogen''' to make fertilizer for plants through electrical reaction so that ordinary farming can have better harvest. That's why it is inevitable that we think chemistry is inseparable from our lives, and it also lets use know that God gave humans knowledge to indirectly create things to benefit the world.|TW|ref='''1927''', {{lang|zh|張基全}} (Tiuⁿ Ki-chôan), [http://pojbh.lib.ntnu.edu.tw/script/artical-13350.htm {{lang|zh|一般科學之常識}} (It-poaⁿ kho-ha̍k ê siông-sek)]}}
+
+====Synonyms====
+* {{zh-l|氮}}
+
+{{zh-cat|Chemical elements}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{elements|N|{{ja-r|炭%素|たん%そ}}|C|{{ja-r|酸%素|さん%そ}}|O|lang=ja|sort=ちっそ}}
+{{wikipedia|lang=ja}}
+{{wikipedia|Nitrogen}}
+</div>
+{{ja-kanjitab|yomi=o|ちつ|k1=ちっ|そ}}
+
+===Etymology===
+Compound of {{com|ja|窒|素|tr1=chitsu|t1=[[obstruction]]|tr2=so|t2=[[element]]|sort=ちっそ}}, {{cal|ja|etyl lang=nl|sort=ちっそ|etyl term=stikstof|etyl t=[[nitrogen]]; [[choke]] [[stuff]]|nocap=y}}. Compare also {{cog|de|Stickstoff}}, {{cog|lb|Stéckstoff}}, {{cog|da|kvælstof}}.
+
+Considered to be used first in {{w|Udagawa Yōan}}'s (宇田川榕菴, 1798 – 1846) book ''Introduction to Chemistry'' (舎密開宗, ''Seimi Kaisō''), a compilation of various scientific books translated from Dutch.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|ちっそ|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ちっそ}}
+
+# [[nitrogen]]
+
+====Derived terms====
+{{der-top}}
+* [[窒素固定]] (''chisso kotei''): nitrogen fixation
+* [[窒素循環]] (''chisso junkan''): nitrogen cycle
+* [[窒素代謝]] (''chisso taisha''): nitrogen metabolism
+* [[窒素中毒]] (''chisso chūdoku''): nitrogen narcosis
+* [[窒素肥料]] (''chisso hiryō''): nitrogenous fertilizer
+* [[窒素固定法]] (''chisso-koteihō''): nitrogen fixation method
+* [[窒素酸化物]] (''chisso sankabutsu''): nitrogen oxide
+* [[窒素族元素]] (''chisso-zokugenso''): nitrogen group
+* [[液体窒素]] (''ekitai chisso''): liquid nitrogen
+* [[酸化窒素]] (''sanka chisso''): nitrogen oxide
+* [[亜酸化窒素]] (''asanka chisso''): nitrous oxide
+* [[一酸化窒素]] (''issanka chisso''): nitric monoxide
+* [[二酸化窒素]] (''nisanka chisso''): nitrogen dioxide
+* [[一酸化二窒素]] (''issanka nichisso''): dinitrogen oxide
+{{der-bottom}}
+
+====Descendants====
+* Korean: {{ko-l|질소}}
+* Min Nan: {{l|nan|窒素|tr=chek-sò͘, chit-sò͘}}
+
+===References===
+<references/>
+
+[[Category:Japanese calques|ちっそ]]
+
+----
+
+==Korean==
+{{ko-hanjatab|窒|素}}
+
+===Noun===
+{{ko-noun|rv=jilso|hangeul=질소}}
+
+# {{hanja form of|질소|nitrogen}}
+
+[[ast:窒素]]
+[[cs:窒素]]
+[[el:窒素]]
+[[fr:窒素]]
+[[ko:窒素]]
+[[hr:窒素]]
+[[lo:窒素]]
+[[la:窒素]]
+[[lt:窒素]]
+[[hu:窒素]]
+[[mg:窒素]]
+[[nl:窒素]]
+[[ja:窒素]]
+[[km:窒素]]
+[[pl:窒素]]
+[[ro:窒素]]
+[[ru:窒素]]
+[[fi:窒素]]
+[[uk:窒素]]
+[[zh:窒素]]

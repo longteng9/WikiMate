@@ -1,0 +1,74 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bèixìn
+|h=pfs=poi-sin
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[renege]]
+
+===Noun===
+{{zh-noun}}
+
+# [[breach]] of [[faith]], [[treachery]], [[perfidy]], [[infidelity]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|はい|しん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|はいしん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はいしん}}
+
+# [[infidelity]]
+
+===Verb===
+{{ja-verb-suru|はいしん}}
+
+# to [[betray]]
+#* 2009, 渡辺 精一, 図解 三国志
+#*: {{ja-usex|劉備に信頼され諸葛亮とともに後事を託されたが、後に兵糧補給で諸葛亮に'''背信'''する。|りゅうび に しんらい され しょかつりょう と ともに こうじ を たく され たが、 あとに ひょうろう ほきゅう で しょかつりょう に '''はいしん''' する。|Entrusted by the dying {{w|Liu Bei}} with the future of his country, along with Liu's trusted subordinate {{w|Zhuge Liang}}, he later betrayed Zhuge in an army provisions incident.}}
+#* 2010, 神余 秀樹, 神余のパノラマ世界史古代~フランス革命
+#*: {{ja-usex|敗れたダレイオス3世は、背信した部下に殺され、約2世紀にわたり栄えた一大帝国は、ここに滅びました。|やぶ れた ダレイオス 3 せい は、はいしん した ぶか に ころされ、やく 2 せいき に わたり さかえた いちだい ていこく は、 ここに ほろび ました。|The defeated Darius III was killed by a subordinate who betrayed him, and the great empire which flourished for about two centuries, ended here.}}
+
+====Conjugation====
+{{ja-suru|はいしん}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=배신}}
+
+# {{hanja form of|배신|infidelity}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab|背|信}}
+
+===Verb===
+{{vi-hantu}}
+
+# {{han tu form of|bội tín|to [[renege]]}}
+
+[[ko:背信]]
+[[ku:背信]]
+[[mg:背信]]
+[[ja:背信]]
+[[chr:背信]]
+[[zh:背信]]

@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|ちん|か|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ちんか|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ちんか}}
+
+# extinguishing
+
+===Verb===
+{{ja-verb-suru|ちんか}}
+
+# (of a fire) be [[extinguished]]; be [[put out]]
+#* '''1936''', 海野十三, 雷:
+#*: {{ja-usex|油店からの火災も、附近数百を焼いただけで、それ以上延焼することもなく幸いに'''鎮火'''した。|あぶらてん から の かさい も、 ふきん すう ひゃく を やいた だけ で、 それ いじょう えんしょう する こと も なく さいわい に '''ちんか''' した。|The conflagration that started at the cooking oil store burned several hundred buildings around it, and it's lucky it was extinguished before it spread further.}}
+
+====Conjugation====
+{{ja-suru|ちんか}}
+
+===References===
+<references/>
+
+[[ja:鎮火]]
+[[zh:鎮火]]

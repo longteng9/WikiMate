@@ -1,0 +1,61 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+From [[演]] ("perform," "put on") + [[奏]] ("play (music)")
+
+===Pronunciation===
+{{zh-pron
+|m=yǎnzòu
+|c=jin2 zau3
+|mn=qz,tw,xm,zz:ián-chàu/qz:ián-chò
+|ma=Zh-yanzòu.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[play]] a [[musical instrument]]; to give an [[instrumental]] [[performance]]
+
+====See also====
+* {{zh-l|表演}}
+
+====Derived terms====
+{{zh-der|演奏會|演奏家|即席演奏}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|えん|そう|yomi=on}}
+
+===Etymology===
+From [[演]] ("perform," "put on") + [[奏]] ("play (music)")
+
+===Noun===
+{{ja-noun|えんそう}}
+
+# a [[performance]] (of music); a [[recital]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|えんそう}}
+
+# to [[play]] (an [[instrument]])
+#: {{ja-usex|ピアノを'''演奏'''する|ピアノ を '''えんそう''' する|play the piano}}
+# to [[perform]] (a piece of music)
+#: {{ja-usex|機械によって自動的に楽曲を'''演奏'''すること|きかい に よって じどうてき に がっきょく を '''えんそう''' する こと|playing a musical composition automatically by means of a machine}}
+
+====Conjugation====
+{{ja-suru|えんそう}}
+
+[[zh-min-nan:演奏]]
+[[ko:演奏]]
+[[hu:演奏]]
+[[mg:演奏]]
+[[ja:演奏]]
+[[sv:演奏]]
+[[chr:演奏]]
+[[uk:演奏]]
+[[zh:演奏]]

@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=09|sn=15|four=44617|canj=THAU|ids=⿱艹皅}}
+
+# [[flowers]]
+
+====References====
+* {{Han ref|kx=1045.320|dkj=31441|dj=1507.040|hdz=53251.060|uh=8469|ud=33897|bh=B8B4|bd=47284}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=pā
+|c=baa1,paa1
+|mn=pha
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸09}}
+
+# {{defn|lang=ja|sort=艸09}}
+
+====Readings====
+* {{ja-readings|on=[[は]] (ha)|kun=[[はな]] (hana)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=파|eumhun=|rv=pa|mr=p'a|y=pha}}
+
+# {{defn|lang=ko|sort=艸09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=艸09| hanviet = ba}}
+
+# {{defn|lang=vi|sort=艸09}}
+
+[[zh-min-nan:葩]]
+[[fr:葩]]
+[[hu:葩]]
+[[mg:葩]]
+[[ja:葩]]
+[[pl:葩]]
+[[th:葩]]
+[[zh:葩]]

@@ -1,0 +1,28 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Etymology===
+{{compound|巴|不得|lang=zh|gloss1=to wait|gloss2=unable to}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bābude
+|c=baa1 bat1 dak1
+|h=pfs=pâ-put-tet
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|colloquial}} to be [[only]] [[too]] [[anxious]] (to do [[something]]); to [[eagerly]] [[look]] [[forward]] to
+#: {{zh-x|我 '''巴不{bu}得{de}''' 你 快 回家！|I '''can't wait''' for you to come home!}}
+
+====Synonyms====
+* {{zh-l|恨不得}}
+* {{zh-l|恨不能}}
+
+[[zh-min-nan:巴不得]]
+[[hu:巴不得]]
+[[ja:巴不得]]
+[[zh:巴不得]]

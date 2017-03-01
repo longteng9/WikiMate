@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|坂}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=170|rad=阜|as=04|sn=7|four=71247|canj=NLHE|ids=⿰[[阜|⻖]][[反]]}}
+
+====References====
+* {{Han ref|kx=1346.110|dkj=41562|dj=1848.110|hdz=64117.120|uh=962A|ud=38442|bh=A8C1|bd=43201}}
+
+----
+
+==Chinese==
+{{zh-forms|s=坂|alt=坂}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|阜|alt1=阝|t1=mound|反|ls=psc|c1=s|c2=p}} – hill, slope.
+
+===Pronunciation===
+{{zh-pron
+|m=bǎn
+|c=baan2,faan2
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[hillside]] [[farmland]]
+# [[slope]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=阜04}}
+
+# slope, hillside
+
+====Readings====
+* {{ja-readings|goon=[[べん]] (ben), [[ほん]] (hon)|kanyoon=[[ばん]]|kanon=[[はん]] (han)|kun=[[さか]] (saka)}}
+
+====Compounds====
+* {{ja-r|大阪|^おおさか}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=판|eumhun=|rv=pan|mr=p'an|y=phan}}
+
+# {{defn|lang=ko|sort=阜04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phản]], [[bản]]|rs=阜04}}
+
+# {{defn|lang=vi|sort=阜04}}
+
+[[fr:阪]]
+[[it:阪]]
+[[hu:阪]]
+[[mg:阪]]
+[[ja:阪]]
+[[pl:阪]]
+[[th:阪]]
+[[zh:阪]]

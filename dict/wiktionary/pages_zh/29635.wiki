@@ -1,0 +1,60 @@
+{{character info/new}}
+{{also|𫓹}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=08|sn=16|four=84181|canj=CTMC|ids=⿰金其}}
+
+# [[hoe]]
+
+====References====
+* {{Han ref|kx=1311.090|dkj=40567|dj=1812.180|hdz=64214.130|uh=9324|ud=37668|bh=EBF7|bd=60407}}
+
+----
+
+==Chinese==
+{{zh-forms|s=𫓹}}
+
+===Pronunciation===
+{{zh-pron
+|m=jī
+|c=gei1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金08}}
+
+# {{defn|lang=ja|sort=金08}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki), [[ぎ]] (gi)|kun=[[すき]] (suki)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|eumhun=|rv=gi|mr=ki|y=ki}}
+
+# {{defn|lang=ko|sort=金08}}
+
+[[fr:錤]]
+[[ko:錤]]
+[[hu:錤]]
+[[ja:錤]]
+[[pl:錤]]
+[[th:錤]]
+[[zh:錤]]

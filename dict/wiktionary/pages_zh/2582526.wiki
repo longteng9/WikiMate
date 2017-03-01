@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|かん|よ|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|かんよ|yomi=o}}
+
+===Noun===
+{{ja-noun|かんよ|kyu=關與}}
+
+# [[involvement]]
+
+===Verb===
+{{ja-verb-suru|かんよ|kyu=關與|tr=intrans}}
+
+# be [[involved]] in, be [[engaged]], enter the picture
+#* {{RQ:Obama enzetsu}}
+#*: {{ja-usex|バーレーンは長年のパートナーであり、我々は同国の安全保障に'''関与'''している。|バーレーン は ながねん の パートナー で あり、 われわれ は どうこく の あんぜん ほしょう に '''かんよ''' している。|Bahrain is a longstanding partner, and we are committed to its security.}}
+
+====Conjugation====
+{{ja-suru|かんよ}}
+
+[[hu:関与]]
+[[mg:関与]]
+[[ja:関与]]
+[[zh:関与]]

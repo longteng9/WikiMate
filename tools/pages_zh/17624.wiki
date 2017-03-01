@@ -1,0 +1,136 @@
+{{character info/new}}
+{{also|楳|槑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=07|sn=11|four=48957|canj=DOWY|ids=⿰木毎}}
+{{Commonscat}}
+
+====References====
+* {{Han ref|kx=0528.080|dkj=14795|dj=0916.230|hdz=21215.130|uh=6885|ud=26757|bh=B1F6|bd=45558}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=méi
+|c=mui4
+|mn=qz,xm:mûi/zz:bôe/qz,tp,xm,zz:m̂/kh:môe
+|mn_note=m̂ - vernacular; mûi,bôe - literary; moâi - unknown dialect
+|h=pfs=mòi
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[plum]], [[apricot]]
+# {{surname|lang=zh}}
+
+====Compounds====
+* {{zh-l|梅花草}}
+* {{zh-l|梅子}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=木07}}
+
+====Readings====
+{{ja-readings
+|goon=[[まい]] (mai) {{non-joyo-reading}}, [[め]] (me) {{non-joyo-reading}}
+|kanon=[[ばい]] (bai)
+|kun=[[うめ]] (ume)
+}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|うめ}}
+{{rfe|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|うめ|acc=0|acc_ref=DJR}}
+
+===Alternative forms===
+* {{l|ja|楳}}
+
+===Noun===
+{{ja-noun|うめ|ウメ}}
+
+# a {{vern|Japanese plum|pedia=1}} or {{vern|Japanese apricot|pedia=1}}, ''[[Prunus mume]]''
+# the lowest of a 3 level rank system
+
+====Usage notes====
+{{U:ja:biology|ウメ}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|梅酒|うめしゅ}}: [[plum wine]]
+* {{ja-r|梅花|ばいか}}: [[plum]] or [[apricot]] [[blossom]] [[flower]]
+* {{ja-r|梅果|ばいか}}: [[plum]] or [[apricot]] ([[fruit]])
+* {{ja-r|梅沢|^うめざわ}}: a place in [[w:Kanagawa prefecture|Kanagawa prefecture]]; a [[surname]]
+{{der-bottom}}
+
+====Coordinate terms====
+* {{sense|rank}}
+** {{ja-r|松|まつ}}: pine, the top rank
+** {{ja-r|竹|たけ}}: bamboo, the middle rank
+
+===Proper noun===
+{{ja-pos|proper|うめ}}
+
+# {{given name|female|lang=ja|sort=うめ}}.
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|うめ]]
+[[Category:ja:Fruits|うめ]]
+[[Category:ja:Trees|うめ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[매]]|eumhun=|rv=mae|mr=mae|y=may}}
+
+# {{defn|lang=ko|sort=木07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mai]]|rs=木07}}
+
+# {{defn|lang=vi|sort=木07}}
+
+====Compounds====
+* [[ngày mai]] (tomorrow)
+* [[mai sau]] (in the future)
+
+=====Adjective=====
+* [http://vi.wiktionary.org/wiki/mai_hoa mai hoa]
+
+[[fr:梅]]
+[[ko:梅]]
+[[lo:梅]]
+[[hu:梅]]
+[[mg:梅]]
+[[ja:梅]]
+[[no:梅]]
+[[pl:梅]]
+[[sv:梅]]
+[[th:梅]]
+[[vi:梅]]
+[[zh:梅]]

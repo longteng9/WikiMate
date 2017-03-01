@@ -1,0 +1,85 @@
+==Japanese==
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Fruit}}
+[[File:Culinary_fruits_front_view.jpg|thumb|250px|{{lang|ja|果物}} (''kudamono'', ''kabutsu''): various kinds of '''{{l|en|fruit}}'''.]]
+</div>
+{{ja-kanjitab|く|もの|yomi=kun}}
+Literally “tree's thing”. Originally a compound of {{compound|lang=ja|sort=くだもの|木|tr1=ku|t1=tree|pos1=shift from ancient ''ko'' pronunciation|だ|tr2=da|pos2=possessive marker between two nouns, only found in a few compounds|物|tr3=mono|t3=thing}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+The medial ''da'' is also seen in {{m|ja|獣|tr=kedamono||beast|lit=hairy thing}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|くだもの|acc=2|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|くだもの}}
+
+# edible [[fruit]] that grows on trees or shrubs, such as [[orange]]s and [[apple]]s, or [[sweet]] edible fruit that grows along the ground, such as [[strawberry|strawberries]] and [[melon]]s
+
+=====Synonyms=====
+* {{ja-r|フルーツ}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|果物急ぎ|くだもの いそぎ}}: the act of often taking something from a selection of fruit or other sweets put out at a social gathering; a person who is quick to take items from such a selection
+* {{ja-r|果物屋|くだものや}}: a [[fruit]] [[store]]
+* {{ja-r|果物籠|くだもの かご}}: a [[fruit basket]]
+{{der-bottom}}
+
+=====See also=====
+* {{ja-r|果実|かじつ}}: fruit (edible or otherwise)
+* {{ja-r|実|み}}: a [[seed]], a [[berry]], a [[fruit]], a [[nut]]
+* {{ja-r|青果物|せいかぶつ}}: [[garden]] stuff, [[greenstuff]]
+* {{ja-r|八百屋|やおや}}: a [[greengrocer]]
+
+===Etymology 2===
+{{ja-kanjitab|か|ぶつ|yomi=on}}
+{{IPAchar|/kwabut͡su/}} → {{IPAchar|/kabut͡su/}}
+
+Possibly from {{der|ja|ltc|sort=かぶつ|-}} compound {{m|ltc|果物|tr=*guɑ *miət|lit=fruit thing}}. Compare modern {{cog|cmn|果物}} reading ''guǒwù'' {{qualifier|rare}}, {{cog|yue|-}} ''gwo<sup>2</sup> mat<sup>6</sup>'' {{qualifier|rare}}.
+
+Rarely used in modern {{cog|ja|-}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|かぶつ}}
+
+====Noun====
+{{ja-noun|かぶつ|hhira=くわぶつ}}
+
+# {{lb|ja|sort=かぶつ|rare}} [[fruit]]
+
+=====Usage notes=====
+The ''kudamono'' reading is much more common in modern Japanese.
+
+===References===
+<references/>
+:* ''The Oxford Starter Japanese Dictionary.'' ISBN 0-19-860197-2
+
+[[Category:Japanese basic words|くだもの]]
+[[Category:ja:Fruits]]
+
+[[zh-min-nan:果物]]
+[[cs:果物]]
+[[fr:果物]]
+[[ko:果物]]
+[[it:果物]]
+[[sw:果物]]
+[[ky:果物]]
+[[lt:果物]]
+[[li:果物]]
+[[hu:果物]]
+[[mg:果物]]
+[[fj:果物]]
+[[nl:果物]]
+[[ja:果物]]
+[[pl:果物]]
+[[pt:果物]]
+[[sm:果物]]
+[[sh:果物]]
+[[sv:果物]]
+[[chr:果物]]
+[[uk:果物]]
+[[zh:果物]]

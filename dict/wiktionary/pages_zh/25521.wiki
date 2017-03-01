@@ -1,0 +1,92 @@
+{{character info/new}}
+{{also|芘}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=12|sn=18|four=44248|canj=TFBK}}
+
+# [[cover]], [[hide]], [[conceal]]
+# [[shelter]]
+
+====References====
+* {{Han ref|kx=1056.150|dkj=31888|dj=1519.120|hdz=53277.190|uh=853D|ud=34109|bh=BDAA|bd=48554}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艸|敝|t1=grass|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bì
+|c=bai3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸12}}
+
+# [[cover]], [[hide]], [[conceal]]
+
+====Readings====
+{{ja-readings
+|goon=[[へ]] (he)
+|kanon=[[へい]] (hei)
+|kun=[[おおう]] ([[蔽う]], ōu), [[おおい]] ([[蔽い]], ōi)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|隠蔽|いんぺい}}: [[concealment]]
+* {{ja-r|掩蔽|えんぺい}}: [[concealment]], [[masking]], [[cloaking]]
+* {{ja-r|遮蔽|しゃへい}}: [[shield]] (from sunlight, or human eyes)
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[폐]], [[별]], [[불]]|eumhun=|rv=pye, byeol, bul|mr=p'ye, pyŏl, pul|y=phyey, pyel, pul}}
+
+# {{defn|lang=ko|sort=艸12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''蔽''' ([[tế]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:蔽]]
+[[ko:蔽]]
+[[hu:蔽]]
+[[mg:蔽]]
+[[ja:蔽]]
+[[no:蔽]]
+[[pl:蔽]]
+[[th:蔽]]
+[[zh:蔽]]

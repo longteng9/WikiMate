@@ -1,0 +1,57 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=05|sn=8|four=|canj=RRC|ids=⿰口只}}
+
+# to [[sit]]
+# {{lb|mul|Cantonese}} a [[final]] [[particle]] of [[intimacy]] <!--=啫?-->
+
+====References====
+* {{Han ref|kx=0182.070|dkj=03450|dj=0401.090|hdz=10601.020|uh=546E|ud=21614}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qì,zhī
+|c=ze1,zek1
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口05}}
+
+# {{defn|lang=ja|sort=口05}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[こしかける]] (koshikakeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|rv=gi|mr=ki|y=ki|eumhun=[[걸터앉다|걸터앉을]]|ehrv=geolteoanjeul|ehmr=kŏlt'ŏanjŭl|ehy=keltheanc.ul}}
+
+# {{defn|lang=ko|sort=口05}}
+
+[[fr:呮]]
+[[li:呮]]
+[[hu:呮]]
+[[pl:呮]]
+[[th:呮]]
+[[zh:呮]]

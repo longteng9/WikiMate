@@ -1,0 +1,64 @@
+{{also|成语}}
+==Chinese==
+{{zh-forms|s=成语}}
+
+===Pronunciation===
+{{zh-pron
+|m=chéngyǔ
+|ma=Zh-chéngyu.ogg
+|c=sing4 jyu5
+|h=pfs=sàng-ngî
+|mn=sêng-gí/sêng-gú
+|w=3zen nyy
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[chengyu]], a certain kind of Chinese [[set phrase]] originating in [[Classical Chinese]], typically four or five [[character]]s in length {{zh-mw|句|個|條|本}}
+#: {{zh-x|我 最 喜歡 的 成語 是 「畫蛇添足」。|My favourite '''chengyu''' is "huàshétiānzú".}}
+# any [[idiomatic]] [[expression]] or [[set phrase]] {{zh-mw|句|個|條|本}}
+
+====Usage notes====
+* Although often translated as ''[[idiom]]'', in fact {{zh-l|成語|chéngyǔ}} refers to a specific kind of idiomatic expression in Chinese (see [[w:Chengyu|Chengyu]]). Other kinds of [[idiom]]s include {{zh-l|俗語}}, {{zh-l|諺語}} and {{zh-l|歇後語}}. The specific word for ''idiom'' or ''idiomatic expression'' in Chinese is {{zh-l|習慣用語}} or {{zh-l|習語}}.
+
+{{zh-cat|Intermediate|Linguistics}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|ご|yomi=on}}
+
+===Noun===
+{{ja-noun|せいご}}
+
+# [[set phrase]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=성어}}
+
+# {{hanja form of|성어|[[set phrase]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|thành ngữ|[[set phrase]]}}
+
+[[fr:成語]]
+[[ko:成語]]
+[[hu:成語]]
+[[mg:成語]]
+[[nl:成語]]
+[[chr:成語]]
+[[zh:成語]]

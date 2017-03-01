@@ -1,0 +1,60 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yāoqiú
+|m_note=Note pronunciation of {{l|zh|要}}
+|c=jiu1 kau4
+|h=pfs=yêu-khiù
+|mn=iau-kiû
+|w=1iau jjieu
+|ma=y
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[ask]]; to [[request]]; to [[require]]; to [[demand]]
+#: {{zh-x|要求 某人 做 某事|to '''ask''' somebody to do something}}
+
+===Noun===
+{{zh-noun}}
+
+# [[request]]; [[requirement]]; [[demand]] {{zh-mw|點}}
+#: {{zh-x|提 '''要{yāo}求'''|to make a '''request'''}}
+#: {{zh-x|著[着]{zhuó}裝 '''要{yāo}求'''|dress code}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|よう|きゅう|yomi=on}}
+
+===Noun===
+{{ja-noun|ようきゅう}}
+
+# [[demand]]
+#: {{ja-usex|'''要求'''を無視した。|'''ようきゅう''' を むし した。|They did not listen to our demands.}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|ようきゅう}}
+
+# demand
+
+====Conjugation====
+{{ja-suru|ようきゅう}}
+
+[[zh-min-nan:要求]]
+[[ko:要求]]
+[[lt:要求]]
+[[hu:要求]]
+[[mg:要求]]
+[[fj:要求]]
+[[ja:要求]]
+[[ta:要求]]
+[[chr:要求]]
+[[uk:要求]]
+[[zh:要求]]

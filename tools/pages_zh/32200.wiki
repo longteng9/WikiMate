@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|鲵}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=08|sn=19|four=27317|canj=NFHXU}}
+
+# [[Cryptobranchus japonicus]]
+# a [[salamander]]
+
+====References====
+* {{Han ref|kx=1472.370|dkj=46245|dj=2004.430|hdz=74696.180|uh=9BE2|ud=39906|bh=F3CD|bd=62413}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鲵}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=ní
+|c=ngai4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚08}}
+
+# {{defn|lang=ja|sort=魚08}}
+
+====Readings====
+* {{ja-readings|goon=[[げ]] (ge)|kanon=[[げい]] (gei)|kun=[[さんしょううお]] (sanshōuo), [[めくじら]] (mekujira)}}
+
+===Etymology===
+{{ja-kanjitab|さんしょううお|yomi=k}}
+{{compound|lang=ja|山椒|tr1=sanshō|t1={{w|Zanthoxylum piperitum|Japanese pepper}}|魚|tr2=uo|t2=[[fish]]|sort=さんしょううお}}.
+
+===Pronunciation===
+{{ja-pron|さんしょううお|acc=3|y=k}}
+
+===Noun===
+{{ja-noun|さんしょううお|サンショウウオ|hhira=さんせううを}}
+
+# {{alternative spelling of|山椒魚|lang=ja}}
+
+----
+
+==Korean==
+[[File:SpottedSalamander.jpg|thumb|80px|salamander]]
+
+===Hanja===
+{{ko-hanja|hangeul=예|eumhun=|rv=ye|mr=ye|y=yey}}
+
+# ([[도롱뇽]]) [[salamander]]
+
+====See also====
+* {{l|ko|鰐}} or [[鱷]] (악, ''ag'') [[crocodile]], [[alligator]]
+* {{l|ko|鰐魚}} ([[악어]], ''ag-eo'') [[crocodile]], [[alligator]]
+
+[[fr:鯢]]
+[[hu:鯢]]
+[[ja:鯢]]
+[[pl:鯢]]
+[[th:鯢]]
+[[zh:鯢]]

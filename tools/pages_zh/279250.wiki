@@ -1,0 +1,104 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǚxíng
+|ma=y
+|c=leoi5 hang4
+|h=pfs=lî-hàng/s:lí-hàng
+|mn=zz,kh:lí-hêng/tp:lú-hêng/qz:lír-hêng
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to go on a [[trip]]; to [[travel]]; to [[tour]]
+
+===Noun===
+{{zh-noun}}
+
+# [[trip]]; [[journey]]; [[travel]]; [[voyage]]; [[tour]]
+
+===Derived terms===
+{{zh-der|旅行者|旅行團|旅行社}}
+
+===Descendants===
+{{CJKV|| りょこう|여행}}
+
+===References===
+*{{thcwd|6037}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|りょ|こう}}
+
+===Etymology===
+{{IPAchar|/rjokau/}} → {{IPAchar|/rjokɔː/}} → {{IPAchar|/rjokoː/}}
+
+From {{etyl|ltc|ja|sort=りょこう}} compound {{m|zh|旅行|tr=ljo<sup>X</sup> hæng|lit=to travel + to walk}}.  Compare modern {{etyl|hak|-}} reading ''lî-hàng'', {{etyl|nan|-}} readings ''lí-hêng'', ''lú-hêng''.
+
+===Pronunciation===
+* {{ja-pron|yomi=kanon|りょこう|acc=0|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|りょこう|hhira=りょかう}}
+
+# [[travel]], a [[trip]], a [[journey]], a [[voyage]], a [[tour]]
+#: {{ja-usex|夏休みには'''旅行'''に行こう。|^なつやすみ に は '''りょこう''' に いこう。|Let's go on a '''trip''' for summer vacation.}}
+
+====Related terms====
+* {{ja-r|旅館|りょかん}}: a traditional Japanese [[inn]]
+
+===Verb===
+{{ja-verb-suru|りょこう|hhira=りょかう|tr=intrans}}
+
+# to [[travel]], to [[journey]], to go on a [[trip]], to go for a [[voyage]], to [[tour]]
+#: {{ja-usex|彼は家族と'''旅行'''したいようだ。|^かれ は かぞく と '''りょこう''' したい よう だ。|It seems that he wants to '''travel''' with his family.}}
+
+====Synonyms====
+* {{ja-r|linkto=旅|旅する|たび する}}: to [[tour]], to [[travel]], to go on a [[trip]]
+
+====Conjugation====
+{{ja-suru|りょこう}}
+
+===See also===
+* {{ja-r|出張|しゅっちょう}}: a [[business trip]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=여행}}
+
+# {{hanja form of|여행|[[trip]], [[journey]], [[travel]], [[voyage]], [[tour]]}}
+
+[[zh-min-nan:旅行]]
+[[fr:旅行]]
+[[ko:旅行]]
+[[lo:旅行]]
+[[lt:旅行]]
+[[li:旅行]]
+[[hu:旅行]]
+[[mg:旅行]]
+[[nl:旅行]]
+[[ja:旅行]]
+[[pl:旅行]]
+[[pt:旅行]]
+[[ru:旅行]]
+[[sv:旅行]]
+[[tl:旅行]]
+[[ta:旅行]]
+[[th:旅行]]
+[[chr:旅行]]
+[[uk:旅行]]
+[[zh:旅行]]

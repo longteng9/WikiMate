@@ -1,0 +1,37 @@
+{{also|密议}}
+==Chinese==
+{{zh-forms|s=密议}}
+
+===Pronunciation===
+{{zh-pron
+|m=mìyì
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[secretly]] [[discuss]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|みつ|ぎ|yomi=on}}
+
+===Noun===
+{{ja-noun|みつぎ}}
+
+# [[secret]] [[conference]]
+#* '''1934''', 服部之総, 志士と経済:
+#*: {{ja-usex|白石の家が幾度か連絡の場所となり'''密議'''の室となって、結局そうきまった。|しらいし の いえ が いくど か れんらく の ばしょ と なり '''みつぎ''' の しつ と なって、 けっきょく そう きまった。|Shiraishi's house became the place of so much contact and so many '''secret conferences''' that it came to be established as such.}}
+
+===Verb===
+{{ja-verb-suru|みつぎ}}
+
+# to [[discuss]] secretly
+
+====Conjugation====
+{{ja-suru|みつぎ}}
+
+[[ja:密議]]
+[[ru:密議]]

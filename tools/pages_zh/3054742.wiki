@@ -1,0 +1,64 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wàngyuè
+|c=mong6 jyut6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[full moon]]
+
+====Synonyms====
+* {{zh-l|滿月}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|ぼう|げつ}}
+From {{etyl|ltc|ja|sort=ぼうげつ}} compound {{m|zh|望月|tr=mjang ngjwot|lit=to view from a distance + moon}}, possibly from the way the moon is most easily observed when full.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ぼうげつ|dev=4|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ぼうげつ|hhira=ばうげつ}}
+
+# [[full moon]]
+# in the [[lunar calendar]], the [[fifteenth]] night of a lunar [[month]], the night of the [[full moon]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|もち|つき|k2=づき}}
+Compound of {{compound|lang=ja|sort=もちづき|望|tr1=mochi|月|tr2=tsuki|t2=moon}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> The ''mochi'' element is of uncertain derivation. It probably derives from the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|持つ|tr=motsu||to have, to possess; to keep, to maintain}}, but the semantic relationship remains unclear. {{rendaku2|sort=もちづき|tsuki|zuki}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|もちづき|dev=4|acc=2|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|もちづき}}
+
+# [[full moon]]
+# in the [[lunar calendar]], the [[fifteenth]] night of a lunar [[month]], the night of the [[full moon]]
+# more specifically, the [[fifteenth]] night of the eighth lunar [[month]], the [[full moon]] of mid-[[autumn]]
+
+=====Synonyms=====
+* {{sense|full moon}} {{ja-r|満月|まんげつ}}
+
+====Proper noun====
+{{ja-pos|もちづき|proper}}
+
+# {{surname|lang=ja|sort=もちづき}}
+
+===References===
+<references/>
+
+[[fr:望月]]
+[[hu:望月]]
+[[ja:望月]]
+[[zh:望月]]

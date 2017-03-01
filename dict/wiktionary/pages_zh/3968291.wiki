@@ -1,0 +1,49 @@
+{{also|表面张力}}
+==Chinese==
+{{zh-forms|s=表面张力|type=22}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+{{zh-compound|表面|張力|surface|tension, strain}}
+
+===Pronunciation===
+{{zh-pron
+|m=biǎomiàn zhānglì
+|c=biu2 min6 zoeng1 lik6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|physics}} [[surface tension]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ひょう|めん|ちょう|りょく}}
+
+===Etymology===
+{{compound|表面|張力|lang=ja|t1=surface|t2=tension|sort=ひょうめんちょうりょく}}
+
+===Pronunciation===
+* {{ja-pron|ひょうめん ちょうりょく|yomi=o}}
+
+===Noun===
+{{ja-noun|ひょうめん ちょうりょく}}
+
+# {{lb|ja|physics|sort=ひょうめんちょうりょく}} [[surface tension]]
+
+----
+
+==Korean==
+{{ko-hanjatab|表|面|張|力}}
+
+===Noun===
+{{ko-noun|rv=pyomyeonjangnyeok|hangeul=표면장력}}
+
+# {{hanja form of|표면장력|[[surface tension]]}}
+
+[[hu:表面張力]]
+[[zh:表面張力]]

@@ -1,0 +1,52 @@
+{{also|发生}}
+==Chinese==
+{{zh-forms|s=发生}}
+
+===Pronunciation===
+{{zh-pron
+|m=fāshēng,tl=y
+|ma=y
+|c=faat3 sang1
+|h=pfs=fat-sên
+|mn=hoat-seng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[happen]]; to [[occur]]; to [[take place]]
+#: {{zh-x|某事 發生 在 某人 身上{shang}|something '''happened''' to somebody}}
+#: {{zh-x|我 決不 對 '''發生{sheng}''' 的 事情{qing} 負責。|In no way am I responsible for what '''happened'''.}}
+
+====Derived terms====
+{{zh-der|發生率}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|はつ|k1=はっ|せい|yomi=o}}
+
+===Noun===
+{{ja-noun|はっせい|shin=発生}}
+
+# [[occurrence]], [[incidence]]
+
+===Verb===
+{{ja-verb-suru|はっせい|shin=発生}}
+
+# to [[occur]], to [[rise]]
+
+====Conjugation====
+{{ja-suru|はっせい}}
+
+[[zh-min-nan:發生]]
+[[ko:發生]]
+[[hu:發生]]
+[[mg:發生]]
+[[fj:發生]]
+[[ja:發生]]
+[[chr:發生]]
+[[zh:發生]]

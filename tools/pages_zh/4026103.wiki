@@ -1,0 +1,25 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|撒|菱}}
+{{wikipedia|Makibishi}}
+[[Image:Makibishi.JPG|thumb|250px|{{lang|ja|{{PAGENAME}}}}: a pair of [[caltrop]]s]]
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=まきびし|撒|tr1=maki|pos1=the {{m|ja|連用形|tr=ren'yōkei||stem form}} of verb {{m|ja|撒く|tr=maku||to scatter, to cast, to sow}}|菱|tr2=hishi|t2=a [[water chestnut]]; the [[rhomboid]] shape of a water chestnut; a [[caltrop]]}}. {{rendaku2|sort=まきびし|hishi|bishi}}
+
+===Pronunciation===
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ma̠kibiɕi]}}
+
+===Alternative forms===
+* {{ja-l|撒き菱}}, {{ja-l|撒き芰}}, {{ja-l|撒芰}}
+
+===Noun===
+{{ja-noun|まきびし}}
+
+# {{lb|ja|weaponry|sort=まきびし}} a [[caltrop]]; more specifically, the kind of caltrop that is thrown or scattered
+
+====Synonyms====
+* {{sense|caltrop in general}} {{ja-l|菱|ひし|hishi}}
+* {{sense|metal caltrop}} {{ja-l|鉄菱}} ({{ja-l|てつびし}},&nbsp;{{ja-l|||tetsubishi}}; {{ja-l|かなびし}},&nbsp;{{ja-l|||kanabishi}})
+* {{sense|cart caltrop}} {{ja-l|車菱|くるまびし|kurumabishi}}

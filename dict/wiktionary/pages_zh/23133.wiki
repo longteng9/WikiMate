@@ -1,0 +1,100 @@
+{{character info/new}}
+{{also|粤}}
+
+==Translingual==
+
+===Etymology===
+abbreviation of [[奧]] + [[丂]] ("breath, sigh")
+
+Originally a variant of [[曰]] ("to speak"), later borrowed for the [[w:Baiyue#Name|Yue peoples]].
+
+===Han character===
+{{Han char|rn=119|rad=米|as=07|sn=13|four=26207|canj=HWMVS|ids=⿱⿵⿱丿冂釆亏}}
+
+====References====
+* {{Han ref|kx=0909.311|hdz=53149.041|uh=7CB5|ud=31925|bh=B866|bd=47206}}
+
+----
+
+==Chinese==
+{{zh-forms|s=粤}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=yuè
+|c=jyut6
+|h=pfs=ye̍t
+|mn=oa̍t
+|mc=
+|oc=y
+|ma=y
+|cat=pn,part
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|literary}} {{n-g|a meaningless [[particle]]}}
+## {{n-g|a meaningless form word ({{zh-l|發語詞}}) used in the beginning of a sentence}}
+## {{n-g|a meaningless particle used in the middle of a sentence}}
+# [[Guangdong]]
+#: {{zh-x|粵語|'''Canton'''ese}}
+#: {{zh-x|粵音|'''Cantonese''' pronunciation}}
+# [[Guangdong]] and [[Guangxi]]
+#: {{zh-x|兩粵|Guangdong and Guangxi}}
+# {{zh-short|粵語|Cantonese}}
+# {{lb|zh|informal|punning}} {{alternative form of|越||more|lang=zh}}{{n-g|, usually in reference to the Cantonese language.}}
+#: {{zh-x|要 我哋 收聲，我哋 粵 大聲！|You want us to be quiet, and the ['''more'''] louder we will be! (''a slogan protesting restriction of usage of Cantonese'')|C}}
+#: {{zh-x|粵 講 越 掂|"steadier '''the more''' one speaks" (''the name of a TV show by GDTV Pearl River Channel focusing on the Cantonese language'')|C}}
+#: {{zh-x|《粵 唱 越 響》|"Echoing Further '''the More''' [I] Sing" (''a 2015 song by {{w|George Lam}} about singing in Cantonese'')|C}}
+
+====Compounds====
+{{zh-der|粵北|粵菜|粵東|粵犬吠雪|粵劇|粵曲|粵省|粵西|粵語|粵語殘片|粵語長片|兩粵|百粵|粵江|粵江流域|粵漢鐵路|粵秀山|粵胡|粵若稽古|粵謳}}
+
+====Related terms====
+* {{zh-l|越}}
+
+===References===
+* {{R:twedu|A03064}}
+
+===Pronunciation 2===
+{{zh-see|曰|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=米07}}
+
+# {{defn|lang=ja|sort=米07}}
+
+====Readings====
+* {{ja-readings|on=[[えつ]] (etsu), [[おち]] (ochi)|kun=[[ここに]] (kokoni)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=월|eumhun=|rv=wol|mr=wŏl|y=wel}}
+
+# {{defn|lang=ko|sort=米07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[việt]]|rs=米07}}
+
+# {{defn|lang=vi|sort=米07}}
+
+[[fr:粵]]
+[[ko:粵]]
+[[hu:粵]]
+[[mg:粵]]
+[[ja:粵]]
+[[pl:粵]]
+[[th:粵]]
+[[zh:粵]]

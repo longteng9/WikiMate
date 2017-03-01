@@ -1,0 +1,57 @@
+{{also|锦蛇}}
+==Chinese==
+{{zh-forms|s=锦蛇}}
+{{wikipedia|錦蛇屬|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=jǐnshé
+|c=gam2 se4
+|mn=xm,tw,km,mg,hc:gím-chôa/qz,zz,yl,tc:kím-chôa
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# ''[[Elaphe]]''
+# {{lb|zh|Mainland|_|Min Nan}} [[python]]
+
+====Derived terms====
+{{zh-der|土錦蛇}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja|ニシキヘビ}}
+{{ja-kanjitab|にしき|へび|yomi=k}}
+
+===Etymology===
+{{compound|lang=ja|錦|蛇|tr1=nishiki|t1=[[brocade]]|tr2=hebi|t2=[[snake]]|sort=にしきへび}}
+
+===Pronunciation===
+{{ja-pron|acc=4|acc2=3|y=k|にしきへび|dev=2}}
+
+===Noun===
+{{ja-noun|にしきへび|ニシキヘビ}}
+
+# a [[python]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|阿%弗%利%加%錦%蛇|^ア%フ%リ%カ% ニシキ%ヘビ}}
+* {{ja-r|網%目%錦%蛇|アミ%メ% ニシキ%ヘビ}}
+* {{ja-r|印%度%錦%蛇|^イン%ド% ニシキ%ヘビ}}
+* {{ja-r|尾%巻%錦%蛇|オ%マキ% ニシキ%ヘビ}}
+* {{ja-r|頭%黒%錦%蛇|ズ%グロ% ニシキ%ヘビ}}
+{{der-mid}}
+* {{ja-r|蘇%門%答%刺%赤%錦%蛇|^ス%マ%ト%ラ% アカ%ニシキ%ヘビ}}
+* {{ja-r|白%口%錦%蛇|シロ%クチ% ニシキ%ヘビ}}
+* {{ja-r|馬%来%赤%錦%蛇|^マ%レー% アカ%ニシキ%ヘビ}}
+* {{ja-r|緑%錦%蛇|ミドリ%ニシキ%ヘビ}}
+{{der-bottom}}
+
+[[Category:ja:Snakes|にしきへび]]
+
+[[zh-min-nan:錦蛇]]
+[[ja:錦蛇]]

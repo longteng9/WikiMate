@@ -1,0 +1,38 @@
+{{also|过年}}
+==Chinese==
+{{zh-forms|s=过年}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=guònián
+|c=gwo3 nin4
+|h=pfs=ko-ngièn
+|mn=kòe-nî/kè-nî
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[spend]] ([[celebrate]]) the [[Chinese New Year]]
+#: {{zh-x|回家 過年|to return to one's home/hometown to '''spend the Chinese New Year'''}}
+#: {{zh-x|過年 了！|It's the '''Chinese New Year'''!}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=guònian
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|colloquial}} [[next]] [[year]]
+
+=====Synonyms=====
+* {{zh-l|明年}}
+
+{{zh-cat|Elementary|Time}}
+
+[[zh-min-nan:過年]]
+[[hu:過年]]

@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms|ivory|type=22}}
+{{wikipedia|lang=yue}}
+
+===Etymology===
+{{calque|zh|fr|Côte d'Ivoire}}
+
+===Pronunciation===
+{{zh-pron
+|m=Xiàngyá Hǎi'àn
+|c=zoeng6 ngaa4 hoi2 ngon6
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-propn}}
+
+# {{lb|zh|dated|still used in|_|Taiwan}} [[Ivory Coast]]
+
+====Synonyms====
+* {{qualifier|Mainland China}} {{zh-l|科特迪瓦}}
+
+===See also===
+* {{zh-l|象牙海岸共和國}}
+
+{{zh-cat|Ivory Coast|Countries of Africa}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぞう|げ|かい|がん|yomi=o}}
+
+===Etymology===
+From {{der|ja|zh|象牙海岸|sort=そうげかいがん'}}, compound of {{compound|ja|象牙|海岸|tr1=zōge|t1=[[elephant]] [[tusk]]|tr2=kaigan|t2=[[coast]]|sort=そうげかいがん'}}, {{calque|ja|fr|Côte d'Ivoire|nocap=y|sort=そうげかいがん'}}
+
+===Proper noun===
+{{ja-pos|proper|ぞうげ かいがん}}
+
+# {{lb|ja|obsolete|sort=そうげかいがん'}} {{synonym of|lang=ja|コートジボワール||[[Côte d'Ivoire]]}}; [[Ivory Coast]]
+
+===See also===
+* {{ja-r|象%牙%海%岸%共%和%国|^ぞう%げ% ^かい%がん% ^きょう%わ%こく}}
+
+{{C|ja|Ivory Coast|Countries of Africa|sort=そうげかいがん'}}
+
+[[fr:象牙海岸]]
+[[hr:象牙海岸]]
+[[hu:象牙海岸]]
+[[ro:象牙海岸]]
+[[zh:象牙海岸]]

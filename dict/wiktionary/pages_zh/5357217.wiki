@@ -1,0 +1,27 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|せい|てん|かん|yomi=o}}
+
+===Etymology===
+Compound of {{compound|性|tr1=sei|t1=sex|転換|tr2=tenkan|t2=change|lang=ja|sort=せいてんかん}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|せいてんかん|acc=3|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|せいてんかん|hhira=せいてんくわん}}
+
+# [[sex change]]
+
+===Verb===
+{{ja-verb-suru|せいてんかん|hhira=せいてんくわん}}
+
+# [[undergo]] [[sex change]]
+
+===Conjugation===
+{{ja-suru|せいてんかん}}
+
+===References===
+<references/>
+
+[[pt:性転換]]

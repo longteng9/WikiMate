@@ -1,0 +1,144 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=04|sn=10|four=17136|canj=EILMI|ids=⿱㕚虫}}
+
+====Derived characters====
+* [[搔]] ([[掻]])
+
+====References====
+* {{Han ref|kx=1078.200|dkj=32893|dj=1547.190|hdz=42836.030|uh=86A4|ud=34468|bh=B044|bd=45124}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|虫|t1=insect|㕚|t2=claw|ls=ic}} – a scratching insect/pest.
+
+===Pronunciation===
+{{zh-pron
+|m=zǎo
+|c=zou2
+|h=pfs=
+|md=
+|mn=cháu
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[flea]]
+
+====Synonyms====
+{{zh-dial|跳蚤}}
+
+===Compounds===
+{{zh-der|劍水蚤|水蚤|狗蚤|米蚤|花蚤|虼蚤|蚤達|跳蚤|跳蚤市場}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫04}}
+
+====Readings====
+{{ja-readings
+|goon=[[そう]] (sō)
+|kanon=[[そう]] (sō)
+|kun=[[のみ]] (nomi), [[はやい]] (hayai) {{qualifier|rare}}
+}}
+
+===Etymology===
+<div style="float:right;">
+{{wikipedia|lang=ja|ノミ|蚤}}
+{{wikipedia|Flea}}
+[[File:HookeFlea01.jpg|thumb|250px|{{PAGENAME}} (''nomi''): an [[illustration]] of a '''[[flea]]'''.]]
+</div>
+{{ja-kanjitab|yomi=k|のみ}}
+Possibly derived from {{m|ja|飲み|tr=nomi}}, the [[nominalize]]d {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|飲む|tr=nomu||to drink}}, from the way that fleas drink the host's blood.
+
+===Pronunciation===
+{{ja-pron|yomi=kun|のみ|acc=2|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|のみ|ノミ}}
+
+# [[flea]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|蚤の市|のみ の いち}}: a [[flea market]]
+{{der-bottom}}
+
+====Idioms====
+{{der-top|Idioms}}
+* {{ja-r|蚤が茶臼|のみ が ちゃうす}}: “[like] a flea [carrying] a tea mortar” → a [[metaphor]] for an unreasonable or infeasible hope
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Insects|のみ]]
+[[Category:ja:Parasites|のみ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=虫04}}
+
+----
+
+==Okinawan==
+{{attention|ryu}}
+
+===Kanji===
+{{head|ryu|kanji|hiragana|ぬみ|romaji|numi}}
+
+===Etymology===
+Cognate with mainland {{cog|ja|蚤|tr=nomi}}.
+
+===Noun===
+{{head|ryu|noun|hiragana|ぬみ|romaji|numi}}
+
+# [[flea]]
+
+[[Category:ryu:Insects|ぬみ]]
+[[Category:ryu:Parasites|ぬみ]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=虫04|tao}}
+
+# {{defn|lang=vi|sort=虫04}}
+
+[[fr:蚤]]
+[[ko:蚤]]
+[[lt:蚤]]
+[[hu:蚤]]
+[[mg:蚤]]
+[[ja:蚤]]
+[[no:蚤]]
+[[pl:蚤]]
+[[ru:蚤]]
+[[sv:蚤]]
+[[th:蚤]]
+[[chr:蚤]]
+[[tr:蚤]]
+[[vi:蚤]]
+[[zh:蚤]]

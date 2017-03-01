@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|專}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=41|rad=寸|as=07|sn=10|four=53342|canj=IBDI|ids=⿱甫寸}}
+
+====Derived terms====
+* {{l|mul|傅}}, {{l|mul|博}}, {{l|mul|膊}}, {{l|mul|搏}}, {{l|mul|縛}}, {{l|mul|溥}}, {{l|mul|鎛}}, {{l|mul|賻}}, {{l|mul|榑}}, {{l|mul|䪙}}, {{l|mul|𩌏}}, {{l|mul|㗘}}, {{l|mul|𢾭}}, {{l|mul|髆}}
+
+====References====
+* {{Han ref|kx=0294.120|dkj=07433|dj=0582.070|hdz=10506.070|uh=5C03|ud=23555|bh=D169|bd=53609}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|甫|寸|c1=p|c2=s|t1=flat|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=fū
+|c=fu1
+|mn=hu
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[state]] to, to [[announce]]
+
+====References====
+*(''Min Nan'') [http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=寸07}}
+
+# {{defn|lang=ja|sort=寸07}}
+
+====Readings====
+* {{ja-readings|on=[[ふ]] (fu), [[ほ]] (ho)|kun=[[しく]] (shiku), [[あまねし]] (amaneshi), [[もと]] (moto), [[はらう]] (harau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=포|eumhun=|rv=po|mr=p'o|y=pho}}
+
+# {{defn|lang=ko|sort=寸07}}
+
+[[fr:尃]]
+[[hu:尃]]
+[[ja:尃]]
+[[pl:尃]]
+[[th:尃]]
+[[zh:尃]]

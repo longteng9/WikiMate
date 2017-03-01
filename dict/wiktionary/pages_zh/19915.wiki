@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=06|sn=10|four=91816|canj=FMAM|ids=⿰火亘}}
+
+# [[light]] of the [[sun]]<!-- sunlight? -->
+# to [[dry]] in the [[sun]]
+
+====References====
+* {{Han ref|kx=0670.220|dkj=19018|dj=1080.010|hdz=32199.030|uh=70DC|ud=28892|bh=D26A|bd=53866}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xuǎn
+|c=hyun2,hyun1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火06}}
+
+# {{defn|lang=ja|sort=火06}}
+
+====Readings====
+* {{ja-readings|on=[[てん]] (ten), [[かん]] (kan), [[き]] (ki)|kun=[[かわかす]] (kawakasu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=훤|eumhun=|rv=hwon|mr=hwŏn|y=hwen}}
+
+# {{defn|lang=ko|sort=火06}}
+
+[[fr:烜]]
+[[hu:烜]]
+[[pl:烜]]
+[[th:烜]]
+[[zh:烜]]

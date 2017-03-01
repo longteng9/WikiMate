@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=09|sn=16|four=60147|canj=RMITE}}
+
+# stroll, pace, walk slowly
+
+====References====
+* {{Han ref|kx=1229.120|dkj=37676|dj=1701.150|hdz=63725.060|uh=8E31|ud=36401|bh=BFE2|bd=49122}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=踱
+|c=dok6
+|mn=tho̍h
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一步一踱|踱來踱去|踱拉|踱方步|踱步|蹀踱}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=足09}}
+
+# {{defn|lang=ja|sort=足09}}
+
+====Readings====
+* {{ja-readings|on=[[たく]] (taku), [[だく]] (daku), [[じゃく]] (jaku)|kun=[[はだし]] (hadashi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=탁|eumhun=|rv=tak|mr=t'ak|y=thak}}
+
+# {{defn|lang=ko|sort=足09}}
+
+[[fr:踱]]
+[[hu:踱]]
+[[mg:踱]]
+[[no:踱]]
+[[pl:踱]]
+[[th:踱]]
+[[zh:踱]]

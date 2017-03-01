@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{liushu|p}}
+
+===Han character===
+{{Han char|rn=172|rad=隹|as=10|sn=18|four=44214|canj=TRRG|ids=⿱艹𨾴}}
+
+# {{label|zh|archaic}} [[stork]]
+# {{label|zh|archaic}} [[heron]]
+
+====Descendants====
+* [[灌]], [[罐]], [[觀]], [[勸]], [[權]], [[歡]], [[貛]], [[鸛]], [[瓘]], [[䟒]], [[讙]], [[矔]], [[䚭]], [[酄]], [[驩]], [[爟]], [[懽]], [[蠸]]
+
+====References====
+* {{Han ref|kx=1368.380|dkj=42120|dj=1874.040|hdz=64104.020|uh=96DA|ud=38618|bh=F171|bd=61809}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=guàn
+|c=gun3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=隹10}}
+
+# {{defn|lang=ja|sort=隹10}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[こうのとり]] (kounotori)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=관|eumhun=황새|rv=gwan|mr=kwan|y=kwan}}
+
+# {{defn|lang=ko|sort=隹10}}
+
+===See also===
+* {{l|ko|歡}} - [[觀]]
+
+[[fr:雚]]
+[[li:雚]]
+[[hu:雚]]
+[[mg:雚]]
+[[ja:雚]]
+[[pl:雚]]
+[[th:雚]]
+[[vi:雚]]
+[[zh:雚]]

@@ -1,0 +1,53 @@
+{{also|获得}}
+==Chinese==
+{{zh-forms|s=获得}}
+
+===Pronunciation===
+{{zh-pron
+|m=huòdé
+|ma=y
+|c=wok6 dak1
+|mn=he̍k-tit/he̍k-tek
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[obtain]]; to [[acquire]]
+
+====Derived terms====
+{{zh-der|獲得性|獲得性免疫}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かく|とく|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|かくとく|y=o}}
+
+===Noun===
+{{ja-noun|かくとく}}
+
+# [[acquisition]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|かくとく}}
+
+# to [[acquire]], to [[get]], to [[obtain]]
+#* '''1931''', 戸坂潤, 辞典:
+#*: {{ja-usex|単に知識を'''獲得'''するための方法を説明するものに過ぎない。|たん に ちしき を '''かくとく''' する ため の ほうほう を せつめい する もの に すぎない。|This is nothing more than an explanation of how to obtain knowledge.}}
+
+====Conjugation====
+{{ja-suru|かくとく}}
+
+[[fr:獲得]]
+[[ko:獲得]]
+[[hu:獲得]]
+[[mg:獲得]]
+[[ja:獲得]]
+[[chr:獲得]]
+[[zh:獲得]]

@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=04|sn=7|four=51010|canj=QPP|ids=⿰扌比}}
+
+# [[comment]], [[criticize]]
+# [[wholesale]]
+
+====References====
+* {{Han ref|kx=0419.120|dkj=11845|dj=0766.040|hdz=31835.050|uh=6279|ud=25209|bh=A7E5|bd=42981}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=pī
+|m-s=pei1/pi1
+|m-s_note=originally pi1, but changed to pei1 because of homophony with {{l|zh|屄}}
+|c=pai1
+|h=pfs=phî
+|mn=phe/qz,tw,xm:phoe
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to ascertain; to act on; to criticize; to pass on; measure word for batches, lots, military flights; tier (for the ranking of universities and colleges) {{attention|zh|needs check/formatting}}
+
+====Compounds====
+{{zh-der|審批|勾批|報批|差批|引繩批根|岔批兒|分批|一批|大批|假批子|印象批評|催批|批銷|批首|橫批|批閱|批詔|批逆鱗|抹月批風|批注|批點|批准|批頭棍|批命|批判|批改|批頭竹片|批尸|批條|批件|批撥|批發市場|批單|批發價格|搗虛批吭|批較|批削|批轉|批貨|朱批|批駁|批辦|手批|硃批|批註|批抹|批頭|批胸|批書|批迴|批購|批子|批行|眉批|批量|批紅判白|批語|文學批評|批發|批文|批次處理|批發價|批判哲學|批回|批覆|批八字|批頰|批發商|批答|批示|核批|批價|批亢擣虛|批鬥|批評|批郤導窾|批風抹月|解批|竹批兒|躉批|註批|自我批評|解析批評|薄批細切}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=手04}}
+
+# criticism
+====Readings====
+* {{ja-readings|goon=[[はい]] (hai)|kanon=[[へい]] (hei)|kanyoon=[[ひ]] (hi)|kun=[[うつ]] (utsu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=비, 별|eumhun=|rv=bi, byeol|mr=pi, pyŏl|y=pi, pyel}}
+
+# {{defn|lang=ko|sort=手04}}
+
+----
+
+==Vietnamese==
+
+===Character===
+====Readings====
+{{vi-readings|hanviet=phi|nom=phê, phe, phây|rs=手04}}
+
+===References===
+* {{R:WinVNKey:Lê Sơn Thanh}}
+
+[[zh-min-nan:批]]
+[[fr:批]]
+[[ko:批]]
+[[hu:批]]
+[[mg:批]]
+[[ms:批]]
+[[ja:批]]
+[[no:批]]
+[[pl:批]]
+[[ru:批]]
+[[th:批]]
+[[zh:批]]

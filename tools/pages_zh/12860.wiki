@@ -1,0 +1,71 @@
+{{character info/new}}
+{{also|啭}}
+==Translingual==
+{{Han simplified forms|囀|𫝚|啭|ex=y}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|口|轉|c1=s|c2=p|t1=mouse|t2=to shift|ls=psc}}.
+
+===Han character===
+{{Han char|rn=30|rad=口|as=18|sn=21|four=65043|canj=RJJI|ids=⿰口轉}}
+
+# [[sing]], [[chirp]], [[warble]], [[twitter]]
+
+====References====
+* {{Han ref|kx=0214.300|dkj=04614|dj=0437.170|hdz=10705.180|uh=56C0|ud=22208|bh=C4DA|bd=50394}}
+
+----
+
+==Chinese==
+{{zh-forms|s=啭}}
+
+===Etymology===
+[[onomatopoetic|Onomatopoetic]].
+
+===Pronunciation===
+{{zh-pron
+|m=zhuàn
+|c=zyun2,zyun3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# bird call; chirp
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口18}}
+
+# {{defn|lang=ja|sort=口18}}
+
+====Readings====
+* {{ja-readings|on=[[てん]] (ten)|kun=[[さえずる]] (saezuru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|rv=jeon|mr=chŏn}}
+
+# {{defn|lang=ko|sort=口18}}
+
+[[fr:囀]]
+[[li:囀]]
+[[hu:囀]]
+[[ja:囀]]
+[[pl:囀]]
+[[th:囀]]
+[[zh:囀]]

@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=piānxiàng
+|c=pin1 hoeng3
+|h=pfs=phiên-hiong
+|mn=qz,tw,xm:phian-hiòng/zz:phian-hiàng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[deviate]] towards, to [[slant]] to
+# to be [[partial]] to; to [[prefer]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|偏|向}}
+
+===Noun===
+{{ja-noun|へんこう}}
+
+# [[propensity]]
+# [[deviation]], [[tilt]]
+# [[deflection]]
+
+===Verb===
+{{ja-verb-suru|k|hira=へんこう|rom=henkō}}
+
+# [[slant]], be [[deflected]]
+# be [[biased]]
+
+====Conjugation====
+{{ja-suru|偏向|へんこう|henkō}}
+
+[[ko:偏向]]
+[[ja:偏向]]
+[[zh:偏向]]

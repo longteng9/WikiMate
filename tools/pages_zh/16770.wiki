@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=66|rad=攴|as=08|sn=12|four=98240|canj=FBOK,XFBOK|ids=⿰尚攵}}
+
+# [[roomy]], [[spacious]], [[open]], [[broad]]
+
+====References====
+* {{Han ref|kx=0472.120|dkj=13246|dj=0825.010|hdz=21467.030|uh=655E|ud=25950|bh=B4AF|bd=46255}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chǎng
+|c=cong2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|宏敞|寬敞|嘴敞|張敞畫眉|幽敞|畫眉張敞|敞車|敞篷車|敞田|敞開兒|敞快|敞開|明淨敞亮|敞地|敞懷|欒櫨宏敞|敞口兒|敞笑兒|敞廳|敞亮|高冠敞袖|顯敞|開敞地|軒敞|高敞}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=攴08}}
+
+# {{defn|lang=ja|sort=攴08}}
+
+====Readings====
+* {{ja-readings|goon=[[しょう]] (shō)|kanon=[[しょう]] (shō)|kun=[[たかい]] (takai), [[ほがらか]] (hogaraka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=창|eumhun=|rv=chang|mr=ch'ang|y=chang}}
+
+# {{defn|lang=ko|sort=攴08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=攴08|hanviet=sưởng}}
+
+# {{defn|lang=vi|sort=攴08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=655e Nom Foundation]
+
+[[fr:敞]]
+[[hu:敞]]
+[[mg:敞]]
+[[ja:敞]]
+[[no:敞]]
+[[pl:敞]]
+[[th:敞]]
+[[zh:敞]]

@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=124|rad=羽|as=03|sn=9|four=17442|canj=SMT}}
+
+====References====
+* {{Han ref|kx=0955.100|dkj=28625|dj=1400.170|hdz=53342.050|uh=7FBF|ud=32703|bh=ACFD|bd=44285}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|羽|幵|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=ngai6
+|mc=y
+|oc=y
+|cat=pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|historical}} the name of a legendary [[archer]] (also called {{zh-l|*后羿}})
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|后羿射日|后羿}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=羽03}}
+
+# {{defn|lang=ja|sort=羽03}}
+
+====Readings====
+* {{ja-readings|on=[[げい]] (gei)|kun=|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''羿''' ([[nghệ]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:羿]]
+[[fr:羿]]
+[[hu:羿]]
+[[mg:羿]]
+[[pl:羿]]
+[[ru:羿]]
+[[th:羿]]
+[[zh:羿]]

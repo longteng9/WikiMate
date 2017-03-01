@@ -1,0 +1,35 @@
+{{also|算术平均}}
+==Chinese==
+{{zh-forms|s=算术平均|type=22}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=suànshù píngjūn,er=2
+|c=syun3 seot6 ping4 gwan1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|mathematics}} [[arithmetic mean]]
+
+====See also====
+* {{zh-l|幾何平均}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|算|術|平|均}}
+
+===Noun===
+{{ja-noun|さんじゅつ へいきん}}
+
+# [[arithmetic mean]]
+
+[[Category:ja:Mathematics|さんじゅつへいきん]]
+
+[[ko:算術平均]]
+[[hu:算術平均]]
+[[zh:算術平均]]

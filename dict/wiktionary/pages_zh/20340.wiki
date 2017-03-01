@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|牝}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=93|rad=牛|as=03|sn=7|four=24510|canj=HQG|ids=⿰牛土}}
+
+====References====
+* {{Han ref|kx=0697.110|dkj=19933|dj=1110.010|hdz=31801.020|uh=7261|ud=29281|bh=A864|bd=43108}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|牛|土|c1=s|c2=p|t1=cattle|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=mǔ
+|c=maau5,mau5
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[cow]]
+# [[male]] of [[animal]]s
+# [[bolt]] of [[door]]
+
+====Compounds====
+* [[牡丹]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=牛03}}
+
+# {{defn|lang=ja|sort=牛03}}
+
+====Readings====
+* {{ja-readings|goon=[[む]] (mu), [[も]] (mo)|kanyoon=[[ぼ]] (bo)|kanon=[[ぼう]] (bō)|kun=[[おす]] (osu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=모|eumhun=|rv=mo|mr=mo|y=mo}}
+
+# {{defn|lang=ko|sort=牛03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mẫu]]|rs=牛03}}
+
+# {{defn|lang=vi|sort=牛03}}
+
+[[fr:牡]]
+[[ko:牡]]
+[[hu:牡]]
+[[mg:牡]]
+[[ja:牡]]
+[[no:牡]]
+[[pl:牡]]
+[[th:牡]]
+[[chr:牡]]
+[[zh:牡]]

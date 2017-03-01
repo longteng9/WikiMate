@@ -1,0 +1,113 @@
+{{character info/new}}
+{{also|诚}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=06|sn=13|four=03650|canj=YRIHS|ids=⿰言成}}
+
+# [[sincere]], [[honest]]
+# [[true]], [[real]]
+
+====References====
+* {{Han ref|kx=1163.120|dkj=35497|dj=1628.060|hdz=63963.050|uh=8AA0|ud=35488|bh=B8DB|bd=47323}}
+
+----
+
+==Chinese==
+{{zh-forms|s=诚}}
+===Glyph origin===
+{{Han etym}}
+{{Han compound|ls=psc|言|成|c1=s|c2=p|t1=speech}}.
+===Pronunciation===
+{{zh-pron
+|m=chéng
+|c=sing4
+|h=pfs=sṳ̀n
+|md=
+|mn=chiâⁿ/sêng
+|mn_note=sêng - literary
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}} {{attn|zh}}
+# {{lb|zh|Min Nan}} [[very]]
+
+====Synonyms====
+*{{sense|very}}
+{{zh-dial|很}}
+
+===References===
+* {{thcwd|10084}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=言07}}
+
+====Readings====
+{{ja-readings|goon=[[じょう]] (jō)|kanon=[[せい]] (sei)|kun=[[まこと]] (makoto), [[まことに]] (makotoni)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|誠意|せい.い}}
+* {{ja-r|誠実|せいじつ}}
+* {{ja-r|誠心|せいしん}}
+* {{ja-r|赤誠|せきせい}}: [[sincerity]]
+{{der-bottom}}
+
+{{ja-kanjitab|まこと|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|まこと|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|まこと}}
+
+# [[sincerity]]
+
+===Proper noun===
+{{ja-pos|proper|まこと}}
+
+# {{given name|male|lang=ja|sort=まこと}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=성|eumhun=|rv=seong|mr=sŏng|y=seng}}
+
+# {{defn|lang=ko|sort=言07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thành]], [[thiêng]]|rs=言07}}
+
+# {{defn|lang=vi|sort=言07}}
+
+[[zh-min-nan:誠]]
+[[fr:誠]]
+[[ko:誠]]
+[[li:誠]]
+[[hu:誠]]
+[[mg:誠]]
+[[ja:誠]]
+[[pl:誠]]
+[[th:誠]]
+[[chr:誠]]
+[[vi:誠]]
+[[zh:誠]]

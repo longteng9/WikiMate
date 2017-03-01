@@ -1,0 +1,78 @@
+{{also|无理}}
+==Chinese==
+{{zh-forms|s=无理}}
+
+===Pronunciation===
+{{zh-pron
+|m=wúlǐ
+|c=mou4 lei5
+|h=pfs=mò-lî
+|mn=bû-lí/qz,xm,zz:bô-lí
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|Advanced Mandarin}} [[unreasonable]]; [[unjust]]
+# {{lb|zh|mathematics}} [[irrational]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|む|り|yomi=on}}
+
+===Etymology===
+{{m|ja|無||lack|sc=Jpan}} + {{m|ja|理||reason|sc=Jpan}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|むり}}
+
+# [[impossible]], [[incapable]]
+#: {{ja-usex|円を7等分するのは'''無理'''だ。|えん を 7 とうぶん する の は '''むり''' だ。|A circle is '''incapable''' of being divided equally by seven.}}
+# [[irrational]], [[unreasonable]], [[unjust]]
+#: {{ja-usex|'''無理'''なことを言わないよ。|'''むり''' な こと を いわない よ。|Do not say such an '''irrational''' thing.}}
+# [[excessive]]; [[overdone]]; done by [[brute force]]
+
+====Synonyms====
+* {{sense|impossible, incapable}} {{ja-r|不可能|ふかのう}}, {{ja-r|至難|しなん}}
+* {{sense|irrational}} {{ja-r|不合理|ふごうり}}, {{ja-r|筋違い|すじちがい}}
+
+====Inflection====
+{{ja-na|むり}}
+
+===Noun===
+{{ja-noun|むり}}
+
+# [[impossibility]], [[incapability]]
+# [[irrationality]]
+# something that is [[excessive]]; [[overdoing]] something; doing things by [[brute force]]
+
+===Usage notes===
+無理 is emphasised into [[無理矢理]] / [[無理やり]], [[無理無体]], and [[無理押し]].
+
+===Derived terms===
+* {{ja-r|無理難題|むりなんだい}}: an unreasonable demand
+* {{ja-r|linkto=無理矢理|無理矢理に|むりやり に}}, {{ja-r|linkto=無理やり|無理やりに|むりやり に}}: by force
+* {{ja-r|無理心中|むりしんじゅう}}
+
+===Verb===
+{{ja-verb-suru|むり}}
+
+# work too hard, [[overwork]]
+
+====Conjugation====
+{{ja-suru|むり}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[fr:無理]]
+[[ko:無理]]
+[[lt:無理]]
+[[hu:無理]]
+[[ja:無理]]
+[[pt:無理]]
+[[sv:無理]]
+[[chr:無理]]
+[[zh:無理]]

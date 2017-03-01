@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiǎochuí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[small]] [[hammer]] or [[mallet]]; [[gavel]]
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|槌#.E6.9C.A8.E6.A7.8C|小槌}}
+{{wikipedia|Gavel}}
+[[File:Miki_City_Hardware_Museum07s3872.jpg|thumb|250px|{{lang|ja|小槌}} (''kozuchi''): various [[hammer]]s or [[mallet]]s, with the '''small hammers''' on the right.]]
+[[File:CourtGavel.JPG|thumb|250px|{{lang|ja|小槌}} (''kozuchi''): a '''[[gavel]]'''.]]
+</div>
+{{ja-kanjitab|yomi=k|こ|つち|k2=づち|r=y}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=こづち|小|tr1=ko|t1=small|槌|tr2=tsuchi|t2=hammer, mallet}}. {{rendaku2|sort=こづち|tsuchi|zuchi}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|こづち|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|こづち}}
+
+# a small [[mallet]] or [[hammer]]
+# {{lb|ja|sort=こづち|legal|legislative}} a [[wooden]] [[gavel]]
+
+====Synonyms====
+* {{sense|mallet or hammer in general}} {{ja-r|槌|つち}}
+* {{sense|wooden mallet}} {{ja-r|木槌|きづち}}
+
+===References===
+<references/>
+
+[[zh:小槌]]

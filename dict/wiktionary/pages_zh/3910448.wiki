@@ -1,0 +1,44 @@
+{{also|亲睦}}
+==Chinese==
+{{zh-forms|s=亲睦}}
+
+===Pronunciation===
+{{zh-pron
+|m=qīnmù
+|c=can1 muk6
+|cat=a,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[friendly]]; [[amicable]]
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[relative]]s
+
+----
+
+==Japanese==
+{{ja-kanjitab|親|睦}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=しんぼく}} {{m|zh|親睦}}. Date of borrowing unknown. Compare modern simplified {{cog|cmn|亲睦|tr=qīnmù||friendly, amicable}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[ɕĩɴbo̞kɯᵝ]}}
+
+===Noun===
+{{ja-noun|しんぼく}}
+
+# [[friendship]]
+
+====Derived terms====
+* {{l|ja|親睦会|tr={{l|ja|しんぼくかい}}, ''{{l|ja|sc=Latn|shinbokukai}}''}}: a [[mixer]], a [[social]] [[gathering]], a [[get-together]]
+
+[[ko:親睦]]
+[[hu:親睦]]
+[[mg:親睦]]

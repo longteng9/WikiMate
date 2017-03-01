@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=08|sn=10|four=20296|canj=OYRF|ids=⿰亻京}}
+
+# [[far]]
+
+====References====
+* {{Han ref|kx=0108.090|dkj=00780|dj=0230.050|hdz=10182.070|uh=501E|ud=20510|bh=D0C8|bd=53448}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìng,liàng
+|c=ging6,loeng6
+|mn=kēng/kiōng/liōng
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人08}}
+
+# {{defn|lang=ja|sort=人08}}
+
+====Readings====
+* {{ja-readings|on=[[けい]] (kei), [[きょう]] (kyō), [[りょう]] (ryō), [[おう]] (ō)|kun=[[つよい]] (tsuyoi), [[あきらか]] (akiraka), [[とおい]] (tooi), [[もとめる]] (motomeru), [[きそふ]] (kisofu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|rv=gyeong|mr=kyŏng}}
+
+# {{defn|lang=ko|sort=人08}}
+
+[[fr:倞]]
+[[ko:倞]]
+[[li:倞]]
+[[hu:倞]]
+[[ja:倞]]
+[[pl:倞]]
+[[th:倞]]
+[[zh:倞]]

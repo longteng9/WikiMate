@@ -1,0 +1,38 @@
+==Japanese==
+{{ja-kanjitab|しょう|がい|yomi=o}}
+{{wikipedia|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|しょうがい|acc=0|acc_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{ja-l|障碍}}, {{ja-l|障礙}}
+
+===Noun===
+{{ja-noun|しょうがい|hhira=しやうがい}}
+
+# [[impediment]], [[obstacle]], [[handicap]]
+
+====Derived terms====
+* {{ja-r|嚥下障害|えんげ しょうがい|[[dysphagia]]}}
+* {{ja-r|性同一性障害|せい どういつせい しょうがい|[[gender identity disorder]]}}
+
+===Verb===
+{{ja-verb-suru|しょうがい|hhira=しやうがい}}
+
+# [[obstruct]]
+
+====Conjugation====
+{{ja-suru|しょうがい}}
+
+===References===
+<references/>
+
+[[fr:障害]]
+[[ko:障害]]
+[[mg:障害]]
+[[ja:障害]]
+[[sh:障害]]
+[[sv:障害]]
+[[chr:障害]]
+[[zh:障害]]

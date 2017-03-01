@@ -1,0 +1,24 @@
+{{also|虚数}}
+==Chinese==
+{{zh-forms|s=虚数}}
+
+===Pronunciation===
+{{zh-pron
+|m=xūshù
+|c=heoi1 sou3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|mathematics}} [[imaginary number]]
+# a [[quantity]] or [[number]] that is [[unrealistic]] or [[overrepresented]]
+
+====Coordinate terms====
+* {{sense|imaginary number}} {{zh-l|複數|complex number}}, {{zh-l|實數|real number}}
+
+{{zh-cat|Complex analysis}}
+
+[[ko:虛數]]
+[[ja:虛數]]

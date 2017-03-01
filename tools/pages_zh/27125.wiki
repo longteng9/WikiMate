@@ -1,0 +1,111 @@
+{{character info/new}}
+{{also|谚}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=09|sn=16|four=00622|canj=YRYHH,YRYKH|ids=⿰言彦}}
+
+# [[proverb]], [[maxim]]
+
+====References====
+* {{Han ref|kx=1172.090|dkj=35747|dj=1637.060|hdz=64001.020|uh=8AFA|ud=35578|bh=BFCE|bd=49102}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谚}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yàn
+|c=jin6
+|mn=qz,xm,zz:giān/qz,tw,xm,zz:gān
+|mn_note=giān - literary; gān - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|俗諺|俗諺俚語|俚諺|古諺|時諺|西諺|諺文|諺言|諺語|農諺|鄙諺|里諺|野諺}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言09}}
+
+====Readings====
+{{ja-readings|goon=[[げん]] (gen)|kanon=[[げん]] (gen)|kun=[[ことわざ]] (kotowaza)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|諺文|ウンムン}}
+* {{ja-r|諺文|オンモン}}
+* {{ja-r|諺苑|げんえん}}
+* {{ja-r|諺解|げんかい}}
+* {{ja-r|諺言|げんげん}}
+* {{ja-r|諺語|げんご}}
+* {{ja-r|諺文|げんぶん}}
+* {{ja-r|古諺|こげん}}
+* {{ja-r|世諺|せいげん}}
+* {{ja-r|西諺|せいげん}}
+* {{ja-r|俗諺|ぞくげん}}
+* {{ja-r|天気俚諺|てんきりげん}}
+* {{ja-r|鄙諺|ひげん}}
+* {{ja-r|俚諺|りげん}}
+* {{ja-r|法諺|ほうげん}}
+{{der-bottom}}
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ことわざ|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|ことわざ|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ことわざ}}
+
+# [[proverb]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[언]], [[안]]|eumhun=|rv=eon, an|mr=ŏn, an|y=en, an}}
+
+# {{defn|lang=ko|sort=言09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngạn]]|rs=言09}}
+
+# {{defn|lang=vi|sort=言09}}
+
+[[cy:諺]]
+[[fr:諺]]
+[[ko:諺]]
+[[li:諺]]
+[[hu:諺]]
+[[mg:諺]]
+[[ja:諺]]
+[[pl:諺]]
+[[sv:諺]]
+[[th:諺]]
+[[zh:諺]]

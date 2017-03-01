@@ -1,0 +1,59 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jǐngjiè
+|c=ging2 gaai3
+|h=pfs=kín-kie
+|mn=kéng-kài
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to be [[vigilant]]; to be [[alert]]; to [[watch out]]
+
+===Noun===
+{{zh-noun}}
+
+# [[vigilance]]
+# [[sentinel]]
+
+===Derived terms===
+{{zh-der|警戒色|警戒水位|警戒線}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|けい|かい|yomi=o}}
+
+===Noun===
+{{ja-noun|けいかい}}
+
+# [[caution]]
+# [[precaution]]
+# {{lb|ja|Magic: The Gathering}} [[vigilance]]
+
+===Verb===
+{{ja-verb-suru|けいかい}}
+
+# to be [[vigilant]]; to [[watch out]]
+#: {{ja-usex|'''警戒'''したほうがいい。|'''けいかい''' した ほう が い.い。|You should be very careful.}}
+
+====Conjugation====
+{{ja-suru|けいかい}}
+
+{{C|ja|Magic: The Gathering|sort=けいかい}}
+
+[[zh-min-nan:警戒]]
+[[ko:警戒]]
+[[lo:警戒]]
+[[hu:警戒]]
+[[mg:警戒]]
+[[ja:警戒]]
+[[chr:警戒]]
+[[zh:警戒]]

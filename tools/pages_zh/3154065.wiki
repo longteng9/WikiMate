@@ -1,0 +1,40 @@
+{{also|节电}}
+==Chinese==
+{{zh-forms|s=节电}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiédiàn
+|c=zit3 din6
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[save]] [[electricity]]
+
+====Synonyms====
+* {{qualifier|Cantonese}} {{zh-l|慳電}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せつ|でん|yomi=on}}
+
+===Noun===
+{{ja-noun|せつでん}}
+
+# the act of [[saving]] [[electricity]]
+#: {{ja-usex|十分に'''節電'''対策を講じることが必要だ。|じゅうぶん に '''せつでん''' たいさく を こうじる こと が ひつよう だ。|We should take plenty of measures to save electricity.}}
+
+===Verb===
+{{ja-verb-suru|せつでん}}
+
+# save electricity
+
+====Conjugation====
+{{ja-suru|せつでん}}
+
+[[ja:節電]]
+[[zh:節電]]

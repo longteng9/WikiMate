@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|壳|殼|穀}}
+==Translingual==
+{{Han simplified forms|殼|殻|壳}}
+
+===Etymology===
+Japanese shinjitai {{Han simp|殼}} (elimination of 一 in left component).
+
+===Han character===
+{{Han char|rn=79|rad=殳|as=07|sn=11|four=|canj=GNHNE,XXGNH|ids=⿰壳殳}}
+
+====See also====
+* {{l|mul|穀}} <!-- Graphically similar -->
+
+====References====
+* {{Han ref|kx=0586.011|dj=0978.120|hdz=32159.050|uh=6BBB|ud=27579}}
+
+----
+
+==Chinese==
+{{zh-see|殼|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=殳07|style=s|kyu=殼}}
+
+====Readings====
+* {{ja-readings|goon=[[こく]] (''koku'')|kanon=[[かく]] (''kaku'')|on=[[ばい]] (''bai'')|kun=[[から]] (''kara''), [[がら]] (''gara'')}}
+
+====Compounds====
+{{top3}}
+* [[地殻]] (''chikaku''): crust of the earth
+* [[卵殻]] (''rankaku''): eggshell
+* [[貝殻]] (''kaigara''): shell
+* [[豆殻]] (''mamegara''): bean husk
+{{mid3}}
+* [[甲殻類]] (''kōkakurui''): Crustacea
+* [[抜け殻]] (''nukegara''): castoff skin
+* [[燃え殻]] (''moegara''): cinders
+* [[石炭柄]] (''sekitangara''): coal cinders
+{{mid3}}
+* [[吸い殻]] (''suigara''): cigarette butt
+* [[卵の殻]] (''tamago no kara''): eggshell
+* [[殻を閉ざす]] (''kara o tozasu''): retire into one's shell
+{{bottom}}
+
+===Noun===
+{{ja-noun|から|kyu=殼}}
+
+# [[shell]], [[crust]], [[chaff]]
+#: {{ja-usex|卵の殻は壊れやすい|たまご の から は こわれ-やすい|The shell of an egg is easily broken}}
+# [[husk]], [[hull]]
+
+===Suffix===
+{{ja-pos|suffix|がら|kyu=殼}}
+
+# [[cinders]], [[ashes]]
+# [[leftovers]]
+
+[[fr:殻]]
+[[lo:殻]]
+[[hu:殻]]
+[[mg:殻]]
+[[ja:殻]]
+[[pl:殻]]
+[[fi:殻]]
+[[th:殻]]
+[[chr:殻]]
+[[uk:殻]]
+[[zh:殻]]

@@ -1,0 +1,33 @@
+{{also|阵势}}
+==Chinese==
+{{zh-forms|s=阵势}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhènshì
+|c=zan6 sai3
+|mn=qz,tw,xm:tīn-sè/twv,zz:tīn-sì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[battle]] [[array]]; [[combat]] [[formation]]
+
+===References===
+* {{cite-book
+|last=Wu
+|first=Jingrong (ed.)
+|authorlink=
+|coauthors=
+|year=1985
+|title=The Pinyin CHINESE-ENGLISH DICTIONARY
+|language=Mandarin/English
+|publisher=The Commercial Press
+|location=Beijing, Hong Kong
+|isbn=0471867969
+}}
+
+[[ko:陣勢]]
+[[zh:陣勢]]

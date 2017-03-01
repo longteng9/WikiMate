@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|驽}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=05|sn=15|four=47327|canj=VESQF|ids=⿱奴馬}}
+
+# [[tired]], [[old]] [[horse]]
+# old, [[weak]]
+
+====References====
+* {{Han ref|kx=1436.030|dkj=44661|dj=1960.280|hdz=74550.040|uh=99D1|ud=39377|bh=BE71|bd=48753}}
+
+----
+
+==Chinese==
+{{zh-forms|s=驽}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=nú
+|c=nou4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬05}}
+
+# {{defn|lang=ja|sort=馬05}}
+
+====Readings====
+* {{ja-readings|on=[[ど]] (do)|kun=[[にぶい]] (nibui), [[のろい]] (noroi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=노|eumhun=|rv=no|mr=no|y=no}}
+
+# {{defn|lang=ko|sort=馬05}}
+
+[[fr:駑]]
+[[ko:駑]]
+[[hu:駑]]
+[[ja:駑]]
+[[pl:駑]]
+[[th:駑]]
+[[zh:駑]]

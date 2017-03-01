@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|䴔}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=06|sn=17|four=07427|canj=YKHAF}}
+
+# {{defn|Han|sort=鳥06}}
+
+====References====
+* {{Han ref|kx=1489.060|dkj=46888|dj=2020.050|hdz=74631.150|uh=9D41|ud=40257|bh=EF77|bd=61303}}
+
+----
+
+==Chinese==
+{{zh-forms|s=䴔}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiāo
+|c=gaau1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|鵁鶄}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鳥06}}
+
+# {{defn|lang=ja|sort=鳥06}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=교|eumhun=|rv=gyo|mr=kyo|y=kyo}}
+
+# ([[푸르다|푸른]] [[백로]], ''pureun baegro''): a [[w:grey heron|grey heron]]
+
+====Synonyms====
+* {{l|ko|鶄}} ([[청]], ''cheong'')
+
+====Derived terms====
+* {{l|ko|鵁鶄}} ([[교청]], ''gyo-cheong'') a [[w:grey heron|grey heron]]
+
+====See also====
+* {{l|ko|왜가리}} (''waegari'') a [[w:grey heron|grey heron]]
+* {{l|ko|재두루미}} (''jaedurumi'') a [[w:white-naped crane|white-naped crane]]
+* {{l|ko|창괄}} (''changgwal'', [[鶬鴰]]) a [[w:white-naped crane|white-naped crane]]
+
+[[Image:Grey Heron (Ardea cinerea)- Immature at Bharatpur I IMG 5716.jpg|thumb|left|'''[[왜가리]]''']]
+
+[[Image:white-naped crane arp.jpg|thumb|right|'''[[재두루미]]''']]
+
+[[fr:鵁]]
+[[hu:鵁]]
+[[mg:鵁]]
+[[ja:鵁]]
+[[pl:鵁]]
+[[th:鵁]]
+[[zh:鵁]]

@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=09|sn=12|four=43150|canj=GIHR|ids=⿰土咸}}
+
+# [[salty]]
+
+====References====
+* {{Han ref|kx=0234.271|dkj=05310|hdz=10461.100|uh=583F|ud=22591|bh=D8AC|bd=55468}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|鹼|v}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=kǎn
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-only|堿坷}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土09}}
+
+# {{defn|lang=ja|sort=土09}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan), [[こん]] (kon)|kun=}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[jiǎn]] ([[jian3]]), [[jiǎng]] ([[jiang3]])|wg=chien<sup>3</sup>, chiang<sup>3</sup>}}
+
+# {{defn|lang=cmn|sort=土09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kiềm]]|rs=土09}}
+
+# {{defn|lang=vi|sort=土09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=583f Nom Foundation]
+
+[[fr:堿]]
+[[hu:堿]]
+[[pl:堿]]
+[[th:堿]]
+[[zh:堿]]

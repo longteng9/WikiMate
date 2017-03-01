@@ -1,0 +1,94 @@
+{{character info/new}}
+{{also|兎|免}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=10|rad=儿|as=06|sn=8|four=1741.3|canj=NUI|ids=⿷免丶 <small>(GTJV)</small>,⿷&#xFA32;丶 <small>(K)</small>}}
+
+====References====
+* {{Han ref|kx=0125.060|dkj=01368|dj=0265.090|hdz=10273.040|uh=5154|ud=20820|bh=A8DF|bd=43231}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tù
+|c=tou3
+|h=pfs=thu
+|mn=thò͘
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[rabbit]], [[hare]]
+
+====Compounds====
+* {{zh-l|兔子}}
+
+===References===
+* {{qualifier|Hakka}} [http://www.chineselanguage.org/dictionaries/?mode=view&module=chardict&query=%E5%85%94 CCDICT (Chineselanguage.org)]
+* {{qualifier|Hakka}} [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=53065&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
+* {{qualifier|Hakka}} {{R:hak:Lau 1997}}
+* {{qualifier|Min Nan}} {{thcwd|3596}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=儿06}}
+
+# {{defn|lang=ja|sort=儿06}}
+
+====Readings====
+* {{ja-readings|goon=[[つ]] (tsu)|kanon=[[と]] (to)|kun=[[うさぎ]] (usagi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=토|rv=to|mr=t'o}}
+
+# [[토끼]] (''tokki'') [[rabbit]], [[hare]]
+# [[달]] (''dal'') [[moon]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thỏ]], [[kim]]|rs=儿06}}
+
+# {{defn|lang=vi|sort=儿06}}
+
+[[zh-min-nan:兔]]
+[[el:兔]]
+[[fr:兔]]
+[[ko:兔]]
+[[lo:兔]]
+[[li:兔]]
+[[hu:兔]]
+[[mg:兔]]
+[[ms:兔]]
+[[ja:兔]]
+[[no:兔]]
+[[pl:兔]]
+[[ro:兔]]
+[[ru:兔]]
+[[th:兔]]
+[[vi:兔]]
+[[zh:兔]]

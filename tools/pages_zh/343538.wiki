@@ -1,0 +1,17 @@
+{{also|异或}}
+==Chinese==
+{{zh-forms|s=异或}}
+
+===Pronunciation===
+{{zh-pron
+|m=yìhuò
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|logic}} [[XOR]]
+
+[[Category:zh:Computing|田07異或]]
+[[Category:zh:Logic|田07異或]]

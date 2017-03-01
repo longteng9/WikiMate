@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=jūjiǔwū
+|c=geoi1 zau2 uk1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[izakaya]] {{gloss|Japanese bar that serves alcoholic beverages and food}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Izakaya}}
+[[File:Cyochin2.jpg|thumb|250px|{{lang|ja|居酒屋}} (''izakaya''): the red lantern typically hung by the door of an '''[[w:Izakaya|izakaya]]'''.]]
+</div>
+{{ja-kanjitab|yomi=kun|い|さか|k2=ざか|や}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=いざかや|居|tr1=i|t1=being in a place, sitting in a place|pos1=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{ja-l|居る}} ''iru'' “to be (for animate subjects)”|酒|tr2=saka|t2=sake, liquor, alcoholic beverage|屋|tr3=ya|t3=house, store, building}}. {{rendaku2|sort=いざかや|saka|zaka}}
+
+===Pronunciation===
+{{ja-pron|yomi=kun|いざかや|acc=0|acc_ref=DJR|acc2=3|acc2_ref=DJR}}
+
+===Noun===
+{{ja-noun|いざかや|hhira=ゐざかや}}
+
+# An [[izakaya]]: a [[Japanese]] [[bar]] or [[pub]] that serves alcoholic beverages and also sells [[snack]]s; a type of Japanese drinking establishment which also serves food to accompany the drinks. They are popular, casual places for after-work drinking.
+
+====Synonyms====
+* {{ja-r|酒場|さかば}}
+* {{ja-r|飲み屋|のみや}}
+* {{ja-r|バー}}
+* {{ja-r|パブ}}
+* {{ja-r|スナック}}
+
+===References===
+<references/>
+
+[[cs:居酒屋]]
+[[fr:居酒屋]]
+[[mg:居酒屋]]
+[[ja:居酒屋]]
+[[zh:居酒屋]]

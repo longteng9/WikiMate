@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=11|sn=14|four=66660|canj=RRVLR|ids=⿲吕丩吕}}
+
+# [[cry]] [[loudly]], [[yell]], [[scream]]
+
+====References====
+* {{Han ref|kx=0204.390|dkj=04166|dj=0427.160|hdz=10676.130|uh=5602|ud=22018|bh=E150|bd=57680}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiào
+|c=giu3
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# ancient [[wind instrument]], similar to an [[ocarina]]
+
+===Verb===
+{{zh-verb}}
+
+# {{alternative form of|lang=zh|叫||to shout}}
+
+{{zh-cat|Musical instruments}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口11}}
+
+# [[yell]], [[scream]]
+
+====Readings====
+{{ja-readings
+|on=[[きょう]] (kyō)
+|kun=[[さける]] (sakeru)
+}}
+
+====Usage notes====
+This character does not appear to be used at all in modern Japanese.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=교|rv=gyo|mr=kyo}}
+
+# {{defn|lang=ko|sort=口11}}
+
+[[fr:嘂]]
+[[li:嘂]]
+[[hu:嘂]]
+[[pl:嘂]]
+[[th:嘂]]
+[[zh:嘂]]

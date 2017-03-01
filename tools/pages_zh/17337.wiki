@@ -1,0 +1,63 @@
+{{character info/new}}
+{{also|锨}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=04|sn=8|four=47982|canj=DNO|ids=⿰木欠}}
+
+====References====
+* {{Han ref|kx=0513.150|dkj=14502|dj=0901.030|hdz=21173.120|uh=6774|ud=26484|bh=CCDC|bd=52444}}
+
+----
+
+==Chinese==
+{{zh-forms|s=锨}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiān
+|c=hin1,jan1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[shovel]]
+# [[trough]] used to [[carry]] [[water]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木04}}
+
+# {{defn|lang=ja|sort=木04}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken), [[こん]] (kon)|kun=[[すき]] (suki)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木04|hanviet=hân}}
+
+# {{defn|lang=vi|sort=木04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6774 Nom Foundation]
+
+[[fr:杴]]
+[[hu:杴]]
+[[pl:杴]]
+[[th:杴]]
+[[zh:杴]]

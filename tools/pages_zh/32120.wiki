@@ -1,0 +1,100 @@
+{{character info/new}}
+{{also|鲋}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=05|sn=16|four=24300|canj=NFODI|ids=⿰魚付}}
+
+# carp, ''[[Carassius auratus]]''
+
+====References====
+* {{Han ref|kx=1468.150|dkj=46075|dj=2001.210|hdz=74682.030|uh=9B92}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鲋}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fù
+|c=fu6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|井鮒|涸鮒|涸轍之鮒|鮒魚|鯢鮒|轍鮒|轍鮒之急}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚05}}
+
+# {{defn|lang=ja|sort=魚05}}
+
+====Readings====
+* {{ja-readings|goon=[[ぶ]] (bu)|kanon=[[ふ]] (fu)|kun=[[ふな]] (funa)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|轍鮒|てっぷ}}
+{{der-bottom}}
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ふな|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|ふな|acc=1|acc_ref=DJR}}
+
+===Alternative forms===
+* {{l|ja|鯽}}
+
+===Noun===
+{{ja-noun|ふな|フナ}}
+
+# [[crucian carp]], any [[fish]] of the genus ''[[Carassius]]''
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|寒鮒|かんぶな}}: [[crucian carp]] caught in [[mid-winter]]
+* {{ja-r|ギベリオ鮒|ギベリオぶな}}: [[Prussian carp]]
+* {{ja-r|源五郎鮒|げんごろうぶな}}: [[Japanese crucian carp]]
+* {{ja-r|朝鮮鮒|ちょうせんぶな}}: [[round-tailed paradise fish]]
+* {{ja-r|煮頃鮒|にごろぶな}}: [[nigorobuna]]
+* {{ja-r|鮒寿司|ふなずし}}: [[funazushi]]
+* {{ja-r|ヨーロッパ鮒|ヨーロッパぶな}}: [[crucian carp]], ''[[Carassius carassius]]''
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Cyprinids|ふな]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=부|eumhun=|rv=bu|mr=pu|y=pu}}
+
+# {{defn|lang=ko|sort=魚05}}
+
+[[fr:鮒]]
+[[ko:鮒]]
+[[hu:鮒]]
+[[ja:鮒]]
+[[pl:鮒]]
+[[th:鮒]]
+[[zh:鮒]]

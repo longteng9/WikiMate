@@ -1,0 +1,122 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{liushu|psc}} {{m|mul|禾||grain|sc=Hani}} (meaning) + {{m|mul|少|sc=Hani}} (sound).
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=04|sn=9|four=29920|canj=HDFH|ids=⿰禾少}}
+
+====References====
+* {{Han ref|kx=0850.220|dkj=24952|dj=1274.090|hdz=42593.120|uh=79D2|ud=31186|bh=ACED|bd=44269}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=miǎo
+|ma=Zh-miao.ogg
+|c=miu5
+|h=pfs=miéu
+|md=
+|mn=bió/biáu
+|w=3miau
+|mc=y
+|oc=y
+|cat=n,cl
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[second]] (unit of time); (classifier for seconds)
+#: {{zh-x|一 天 有 @86,400 秒。|There are 86,400 '''seconds''' in one day.}}
+# [[second]] (unit of angle)
+
+====Synonyms====
+* {{zh-l|秒鐘}}
+
+{{zh-cat|Time}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=禾04}}
+
+# [[second]]
+
+====Readings====
+* {{ja-readings|on=[[びょう]] (''byō'')|kun=[[のぎ]] (''nogi'')|nanori=}}
+
+===Pronunciation===
+* {{ja-pron|びょう|y=o|acc=a|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|びょう}}
+
+# [[second]] (unit of time)
+# [[second]] (unit of angle)
+
+===Counter===
+{{ja-pos|びょう|counter}}
+
+# [[second]]s (duration)
+
+====Compounds====
+{{der-top|compounds of 秒}}
+* {{m|ja|秒速|tr=byōsoku}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|ひょう']]
+[[Category:ja:Time|ひょう']]
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 秒]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[초]], [[묘]]|eumhun=|mr=ch'o, myo|y=cho, myo}}
+
+===Noun===
+{{ko-noun|hj|hangeul=묘}}
+
+# {{hanja form of|묘|second (unit of time, as a component)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[miểu]], [[sao]]|rs=禾04}}
+
+# {{defn|lang=vi|sort=禾04}}
+
+[[fr:秒]]
+[[ko:秒]]
+[[lo:秒]]
+[[lt:秒]]
+[[li:秒]]
+[[hu:秒]]
+[[mg:秒]]
+[[ja:秒]]
+[[no:秒]]
+[[pl:秒]]
+[[fi:秒]]
+[[sv:秒]]
+[[th:秒]]
+[[chr:秒]]
+[[tr:秒]]
+[[zh:秒]]

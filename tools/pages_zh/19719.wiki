@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=16|sn=19|four=30117|canj=EYNV}}
+
+# [[sea]], [[ocean]]
+
+====References====
+* {{Han ref|kx=0660.040|dkj=18656|dj=1069.240|hdz=31785.010|uh=701B|ud=28699|bh=C373|bd=50035}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yíng
+|c=jing4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|東瀛|瀛奎律髓|瀛寰|瀛洲|瀛洲玉雨|瀛海|瀛臺|瀛表|登瀛州|蓬瀛|蓬瀛仙境}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水16}}
+
+# {{defn|lang=ja|sort=水16}}
+
+====Readings====
+* {{ja-readings|on=[[えい]] (ei)|kun=[[うみ]] (umi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=영|eumhun=|rv=yeong|mr=yŏng|y=yeng}}
+
+# [[sea]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''瀛''' ([[doanh]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:瀛]]
+[[hu:瀛]]
+[[mg:瀛]]
+[[ja:瀛]]
+[[pl:瀛]]
+[[th:瀛]]
+[[zh:瀛]]

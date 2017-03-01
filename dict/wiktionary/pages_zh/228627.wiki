@@ -1,0 +1,54 @@
+==Chinese==
+{{zh-forms|type=22}}
+
+===Etymology===
+{{bor|zh|ja|-}} {{ja-r|自然淘汰|しぜんとうた}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zìrán táotài
+|c=zi6 jin4 tou4 taai3
+|mn=kh:chū-jiân tô-thài/tp:chū-liân tô-thài/qz:chīr-jiân tô-thài
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[natural selection]]
+
+====Synonyms====
+* {{zh-l|自然選擇}}
+* {{zh-l|天擇}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|ぜん|とう|た|yomi=on}}
+
+===Etymology===
+[[自然]] [[natural]] + [[淘汰]] [[selection]]
+
+===Noun===
+{{ja-noun|しぜんとうた}}
+
+# [[natural selection]]
+
+====Synonyms====
+* {{ja-r|自然選択|しぜんせんたく}}
+
+====Related terms====
+* {{ja-r|進化|しんか}}: [[evolution]]
+* {{ja-r|ダーウィニズム}}: [[Darwinism]]
+* {{ja-r|適者生存|てきしゃせいぞん}}: survival of the fittest
+
+===References===
+* {{R:Kojien}}
+* {{R:Meikyo}}
+
+[[Category:ja:Evolutionary theory|しぜんとうた]]
+
+[[ko:自然淘汰]]
+[[hu:自然淘汰]]
+[[sv:自然淘汰]]
+[[zh:自然淘汰]]

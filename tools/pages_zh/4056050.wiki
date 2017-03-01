@@ -1,0 +1,46 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Gosekku|Sekku}}
+</div>
+{{ja-kanjitab|せつ|く|k1=せっ|yomi=o}}
+
+===Etymology===
+Appears to be a {{etyl|ja|-}} coinage using {{etyl|ltc|-}}-derived components, possibly derived as a [[portmanteau]] or [[contraction]] from {{m|ja|節|tr=setsu||season}} + {{m|ja|供御|tr=kugo||offering of food or drink}}.  Compound of {{compound|lang=ja|sort=せっく|節|tr1=setsu|t1=season|供|tr2=ku|t2=offering}}, in reference to [[offering]]s of [[food]] and [[drink]] made by the [[nobility]] to [[shrine]]s and [[temple]]s for the [[seasonal]] [[celebration]]s.
+
+The use of {{m|ja|句}} to spell the ''ku'' portion is an example of [[ateji]].
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|せっく|acc=0|acc_ref=NHK,DJR||acc2=3|acc2_ref=NHK}}
+
+===Alternative forms===
+* {{ja-l|節供}}
+
+===Noun===
+{{ja-noun|せっく}}
+
+# a [[seasonal]] [[festival]] [[day]], such as {{m|ja|子供の日|tr=Kodomo no Hi||[[Children's Day]]}} on 5 May or {{m|ja|七夕|tr=[[Tanabata]]}} on 7 July
+# {{qualifier|by extension from the way that most ''sekku'' are also holidays}} [[rest]] and [[relaxation]], a [[break]] (of a day or longer)
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|節句銭|せっくせん}}: in the {{w|Edo period}}, a special payment made from renters to landlords on the day of ''sekku''
+* {{ja-r|節句始め|せっく はじめ}}: a [[child]]'s first ''sekku'' after being [[born]]: 3 March for girls, 5 May for boys
+* {{ja-r|節句働き|せっくばたらき}}: working on a ''sekku'' holiday while everyone else is off work
+{{der-mid}}
+* {{ja-r|初節句|はつぜっく}}: a [[child]]'s first ''sekku'' after being [[born]]: 3 March for girls, 5 May for boys
+* {{ja-r|五節句|ご せっく|go sekku}}: the five major ''sekku'' during the year: {{m|ja|人日|tr=Jinjitsu}} on 7 January, {{m|ja|上巳|tr=Jōshi}} on 3 March, {{m|ja|端午|tr=Tango}} on 5 May, {{m|ja|七夕|tr=Tanabata}} on 7 July, and {{m|ja|重陽|tr=Chōyō}} on 9 September
+* {{ja-r|煤取り節供|^すすとり ^せっく}}: a [[housecleaning]] (specifically [[soot]] cleaning) ceremony held on 13 December in preparation for [[New Years]]
+* {{ja-r|綱打ち節供|^つなうち ^せっく}}: a ceremony in [[fishing]] villages for making the [[rope]] and [[line]] used for the year, held on 20 January
+* {{ja-r|穂垂れ節供|^ほたれ ^せっく}}: a second [[New Years]], formerly held on 14 or 15 January of the [[lunar calendar]], marking the first full moon of the year
+{{der-bottom}}
+
+====Synonyms====
+* {{sense|seasonal festival day}} {{ja-r|節日|せちにち}}
+* {{sense|break}} {{ja-r|骨休め|ほね やすめ}}
+
+===References===
+<references/>
+
+[[mg:節句]]
+[[zh:節句]]

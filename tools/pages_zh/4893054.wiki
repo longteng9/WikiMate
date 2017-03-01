@@ -1,0 +1,45 @@
+==Japanese==
+
+===Etymology 1===
+{{wikipedia|lang=ja|コクチョウ}}
+{{ja-kanjitab|こく|ちょう|yomi=o}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|こくちょう|acc=h|dev=2|acc_ref=NHK,DJR|y=o}}
+
+====Noun====
+{{ja-noun|こくちょう|コクチョウ|kyu=黑鳥|hhira=こくてう}}
+
+# [[black swan]]
+
+=====Usage notes=====
+{{U:ja:biology|コクチョウ}}
+
+====See also====
+* {{ja-r|白鳥|はくちょう}}: [[swan]]
+
+[[Category:ja:Swans|こくちょう]]
+
+===Etymology 2===
+{{ja-kanjitab|くろ|とり|yomi=k}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|くろとり|acc=h|acc_ref=DJR|y=k}}
+
+====Noun====
+{{ja-noun|くろとり|クロトリ|kyu=黑鳥}}
+
+# [[black]]-[[feather]]ed [[bird]]
+# {{lb|ja|archaic|sort=しろとり}} [[w:Common scoter|common]] [[scoter]]
+
+=====Synonyms=====
+* {{sense|common scoter}} {{ja-r|黒鴨|くろがも}}
+
+===References===
+<references/>
+
+[[Category:ja:Ducks|しろとり]]
+
+[[ja:黒鳥]]

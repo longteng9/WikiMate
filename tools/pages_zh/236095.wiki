@@ -1,0 +1,16 @@
+==Japanese==
+{{ja-kanjitab|そつ|ぎょう|ご|yomi=o}}
+
+===Etymology===
+''From'' [[卒業]] ''[[graduation]]'' + 後 ''[[after]]''
+
+===Noun===
+{{ja-noun|そつぎょうご}}
+# after graduation
+#: {{ja-usex|彼は'''卒業後'''に結婚します。|かれ は '''そつぎょうご''' に けっこんします。|He is going to get married '''after the graduation'''.}}
+#: {{ja-usex|彼は'''卒業後'''は大阪の会社に勤めます。|^かれ は '''そつぎょうご''' は ^おおさか の かいしゃ に つとめます。|He is going to work for a company in Osaka '''after the graduation'''.}}
+
+===Adverb===
+{{ja-pos|adverb|そつぎょうご}}
+# after graduation
+#: {{ja-usex|'''卒業後'''、彼は小学校の先生になった。|'''そつぎょうご'''、かれ は しょうがっこう の せんせい に なった。|'''After the graduation''', he became a teacher at an elementary school.}}

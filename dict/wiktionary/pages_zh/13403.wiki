@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=13|sn=16|four=00104|canj=YVGG|ids=⿱雍土}}
+
+# to [[obstruct]]
+
+====References====
+* {{Han ref|kx=0240.180|dkj=05524|dj=0480.040|hdz=10493.040|uh=58C5|ud=22725|bh=BEC3|bd=48835}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yōng
+|c=jung1,ngung1,jung2
+|h=pfs=yûng
+|mn=èng
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|交通壅塞|培壅|壅土|壅塞|壅滯|壅蔽|壅門|壅閉|懸壅垂|鄣壅}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土13}}
+
+# {{defn|lang=ja|sort=土13}}
+
+====Readings====
+{{ja-readings|goon=[[ゆ]] (yu)|kanon=[[よう]] (yō)|kun=[[ふさぐ]] (fusagu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=옹|rv=ong|mr=ong}}
+
+# {{defn|lang=ko|sort=土13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ung]]|rs=土13}}
+
+# {{defn|lang=vi|sort=土13}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=58c5 Nom Foundation]
+
+[[fr:壅]]
+[[li:壅]]
+[[hu:壅]]
+[[mg:壅]]
+[[ja:壅]]
+[[pl:壅]]
+[[th:壅]]
+[[zh:壅]]

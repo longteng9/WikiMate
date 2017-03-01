@@ -1,0 +1,43 @@
+==Japanese==
+{{ja-kanjitab|よう|せつ|yomi=on}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=ようせつ}} {{m|zh|sc=Hani|溶接}}.
+
+===Alternative forms===
+* {{l|ja|熔接}}
+
+===Pronunciation===
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|[jo̞ːse̞t͡su͍]}}
+
+===Noun===
+{{ja-noun|ようせつ}}
+
+# a [[weld]]; [[welding]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|溶接棒|ようせつ ぼう}}: a [[welding]] [[rod]]
+* {{ja-r|溶接機|ようせつき}}: a [[welding]] [[machine]], a [[welder]] {{qualifier|a tool, not a person}}
+* {{ja-r|溶接工|ようせつこう}}: a [[welder]] {{qualifier|a person}}
+* {{ja-r|溶接剤|ようせつざい}}: [[welding]] [[flux]]
+* {{ja-r|溶接法|ようせつほう}}: a [[welding]] [[process]]
+* {{ja-r|溶接用防護マスク|ようせつ-よう ぼうご マスク}}: a [[welding]] [[shield]] [[mask]], a [[welding]] [[shield]] [[helmet]]
+* {{ja-r|アーク溶接|アーク ようせつ}}: [[arc]] [[welding]]
+* {{ja-r|酸素溶接|さんそ ようせつ}}: [[oxyacetylene]] [[welding]]
+* {{ja-r|電気溶接|でんき ようせつ}}: [[electric]] [[welding]]
+{{der-bottom}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|ようせつ}}
+
+# to [[weld]], to [[weld]] together
+#: {{ja-usex|鋼板を'''溶接'''する|こうばん を '''ようせつ''' する|to '''weld''' steel plates together}}
+
+====Conjugation====
+{{ja-suru|ようせつ}}
+
+[[fr:溶接]]
+[[mg:溶接]]
+[[zh:溶接]]

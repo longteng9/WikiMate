@@ -1,0 +1,116 @@
+{{character info/new}}
+{{also|註}}
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|alt1=氵|主|ls=psc|c1=s|c2=p}}.
+
+===Han character===
+{{Han char|rn=85|rad=水|as=05|sn=8|four=30114|canj=EYG|ids=⿰氵主}}
+
+====References====
+* {{Han ref|kx=0618.050|dkj=17316|dj=1013.030|hdz=31592.010|uh=6CE8|ud=27880|bh=AA60|bd=43616}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=zhù
+|ma=y
+|c=zyu3
+|h=pfs=chu
+|mn=qz,tw,xm,zz:tù/qz,tw,xm,zz:chù
+|mn_note=tù - vernacular; chù - literary
+|mc=y
+|oc=y
+|cat=v,n,cl
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[pour]] into, to [[fill]]
+#: {{zh-x|注射|injection}}
+#: {{zh-x|注入|to pour into}}
+# to [[concentrate]], to [[pay attention]]
+#: {{zh-x|注視|to look attentively}}
+#: {{zh-x|專注|to concentrate completely}}
+#: {{zh-x|注意|to pay attention}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|gambling}} [[stake]]
+#: {{zh-x|賭注|stake}}
+
+====Classifier====
+{{zh-cls}}
+
+# {{n-g|measure word for sums of money, business deals}}
+
+====Compounds====
+* {{zh-l|轉注}}
+
+===Etymology 2===
+{{zh-see|註}}
+
+===References===
+* {{R:cedict}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=水05}}
+
+# to [[pour]]
+
+====Readings====
+* {{ja-readings|goon=[[す]] (su) {{non-joyo-reading}}|kanon=[[しゅ]] (shu) {{non-joyo-reading}}|kanyoon=[[ちゅう]] (chū)|kun=[[そそぐ]] (sosogu)}}
+
+====Compounds====
+* {{ja-r|脚注|きゃくちゅう}}: [[footnote]]
+* {{ja-r|注解|ちゅうかい}}
+* {{ja-r|注釈|ちゅうしゃく}}
+* {{ja-r|注文|ちゅうもん}}
+* {{ja-r|注意|ちゅうい}}
+* {{ja-r|注射|ちゅうしゃ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[주]]|eumhun=|mr=chu|y=cwu}}
+
+# {{defn|lang=ko|sort=水05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水05| hanviet = chú}}
+
+# {{defn|lang=vi|sort=水05}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+[[zh-min-nan:注]]
+[[fr:注]]
+[[ko:注]]
+[[hu:注]]
+[[mg:注]]
+[[ja:注]]
+[[no:注]]
+[[pl:注]]
+[[fi:注]]
+[[th:注]]
+[[zh:注]]

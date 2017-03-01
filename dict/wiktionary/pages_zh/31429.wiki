@@ -1,0 +1,49 @@
+{{character info/new}}
+
+==Translingual==
+
+===Han character===
+{{Han char|rn=184|rad=食|as=10|sn=19|four=|canj=OIYTK|ids=⿰飠送}}
+
+====References====
+* {{Han ref|kx=1424.171|hdz=74468.070|uh=9938|ud=39224}}
+
+----
+
+==Chinese==
+{{zh-forms|s=𩠌}}
+
+===Etymology===
+From {{zh-l|送|sung3|to accompany (a staple food)}}.
+
+===Pronunciation===
+{{zh-pron
+|m=sòng
+|c=sung3
+|ca=Yue-送.oga
+|c-t=lhuung4
+|h=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} a [[dish]] served to accompany [[rice]] or other [[staple]] food
+#: {{zh-x|今晚{maan5-1} 食 乜 餸 啊{aa3}？|What are we eating tonight? (''lit.'' What '''dishes''' are we eating '''with our rice''' tonight?)|C}}
+
+====Synonyms====
+{{zh-dial|菜}}
+
+===Compounds===
+{{zh-der|煮餸|買餸|飯餸}}
+
+[[fr:餸]]
+[[pl:餸]]
+[[th:餸]]
+[[zh:餸]]

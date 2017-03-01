@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|誉}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=14|sn=21|four=77601|canj=HCYMR}}
+
+# [[fame]], [[reputation]]
+# [[praise]]
+
+====References====
+* {{Han ref|kx=1185.070|dkj=36066|dj=1648.160|hdz=64024.120|uh=8B7D|ud=35709|bh=C541|bd=50497}}
+
+----
+
+==Chinese==
+{{zh-forms|s=誉}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|與|言|c1=p|c2=s|t2=say|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yù
+|c=jyu6,jyu4
+|h=pfs=
+|md=
+|mn=qz:īr/tw,xm:ū/twv,zz:ī
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言14}}
+
+# {{defn|lang=ja|sort=言14}}
+
+====Readings====
+* {{ja-readings|on=[[よ]] (yo)|kun=[[ほまれ]] (homare)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=예|eumhun=|rv=ye|mr=ye|y=yey}}
+
+# {{defn|lang=ko|sort=言14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dự]], [[dư]]|rs=言14}}
+
+# {{defn|lang=vi|sort=言14}}
+
+[[fr:譽]]
+[[ko:譽]]
+[[hu:譽]]
+[[mg:譽]]
+[[ja:譽]]
+[[pl:譽]]
+[[th:譽]]
+[[zh:譽]]

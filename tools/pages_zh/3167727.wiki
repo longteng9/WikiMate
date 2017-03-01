@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|し|ちょう|yomi=on}}
+
+===Noun===
+{{ja-noun|しちょう}}
+
+# [[watch]]ing and [[listen]]ing, such as to TV
+
+====Compounds====
+* {{ja-r|視聴者|しちょうしゃ|gloss=viewer, audience}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|しちょう}}
+
+# [[watch]] and [[listen]], especially to television
+#: {{ja-usex|テレビを'''視聴'''する|テレビ を '''しちょう''' する|'''watch''' TV}}
+
+====Conjugation====
+{{ja-suru|しちょう}}
+
+[[lo:視聴]]
+[[zh:視聴]]

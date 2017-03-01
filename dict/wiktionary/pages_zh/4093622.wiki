@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǎnwàng
+|c=zin2 mong6
+|mn=tián-bōng
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[look]] [[ahead]]; to look into the [[distance]]
+# to [[see]] into the [[future]]
+
+===Noun===
+{{zh-noun}}
+
+# [[outlook]]; [[prospects]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てん|ぼう|yomi=o}}
+
+===Noun===
+{{ja-noun|てんぼう}}
+
+# [[view]], a [[vista]]
+# a [[vision]], [[foresight]] of the future
+
+====Compounds====
+* {{l/ja|展望台}}
+* {{l/ja|展望車}}
+
+===Verb===
+{{ja-verb-suru|てんぼう}}
+
+# to [[view]], to look into the distance
+# to have a vision of the future
+
+====Conjugation====
+{{ja-suru|てんぼう}}
+
+[[zh-min-nan:展望]]
+[[ko:展望]]
+[[hu:展望]]
+[[mg:展望]]
+[[ja:展望]]
+[[chr:展望]]
+[[zh:展望]]

@@ -1,0 +1,126 @@
+{{character info/new}}
+{{also|侷|跼}}
+==Translingual==
+{{stroke order|type=bw}}
+
+===Han character===
+{{Han char|rn=44|rad=尸|as=04|sn=7|four=77227|canj=SSR|ids=⿸尸⿹𠃌口}}
+
+====References====
+* {{Han ref|kx=0300.220|dkj=07653|dj=0596.150|hdz=20967.080|uh=5C40|ud=23616|bh=A7BD|bd=42941}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jú
+|c=guk6,guk6-2
+|h=pfs=khiu̍k
+|md=guŏk
+|mn=ke̍k/kio̍k
+|w=5jjioq
+|mc=y
+|oc=y
+|ma=y
+|cat=a,v,n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} [[bent]]; [[crooked]]
+# {{†}} to [[bend]]
+# to [[restrict]]; to [[limit]]
+# {{†}} to [[force]]; to [[coerce]]
+# [[narrow]]; [[restricted]]
+# {{†}} [[near]]; [[close]]
+# {{†}} [[breadth]] of [[mind]]; [[tolerance]]
+# {{†}} [[neighbour]]
+# [[part]]; [[component]]
+# [[arrangement]]; [[distribution]]; [[structure]]; [[organisation]]
+# [[situation]]; [[circumstance]]s
+# [[event]]
+# [[office]]; [[bureau]]
+# [[shop]]; [[store]]
+# [[trap]]; [[trick]]
+# [[feast]]; [[banquet]]; [[gathering]]
+# [[chessboard]]
+# {{zh-classifier|boardgames and ballgames|t=[[game]]|cat=y}}
+
+====Compounds====
+{{zh-der|三振出局|不了之局|不識局面|世局|中信局|中局|中情局|亂局|了局|假局子|僵局|全局|公估局|公安局|公賣局|公路局|最高當局|冷局|出局|分局|刑事局|勝局|勞保局|博局|危局|叫二排局|叫局|合局|和局|器局|四司六局|困局|國安局|國稅局|國貿局|大局|大局已定|定局|寶泉局|寶源局|對局|尷尬局面|局主|局促|局促一隅|局促不安|局內人|局勢|局外|局外人|局子|局家|局度|局戲|局方|局本|局束|局段|局票|局賭|局蹐不安|局部|局部雨|局量|局限|局面|局騙|工務局|工業局|布局|平局|建設局|弄局|成局|戰局|打遲局|承局|拘局|招商局|捐局|排局|攪局|支局|政局|敗局|教育局|散局|新局|新局面|明局|時局|曲局|書局|格局|棋局|櫃坊賭局|殘局|民信局|水利局|水局|決勝局|法制局|活局子|港務局|牌局|物資局|環保局|生藥局|當局|當局者迷|發球局|知局|短局|短局促|社會局|移民局|糊弄局|糧食局|終局|終局裁判|結局|網路書局|置身局外|美人局|胡弄局|茶局子|落局|藥局|蜷局|行動郵局|衛生局|裝局|觀光局|觀局|設局|識局|警察局|警局|變局|財政局|賭局|走局|起功局|路局|通觀全局|遞局|郵局|郵政局|鏢局|鐵路局|鑄幣局|長局|開局|電報局|電腦書局|顧全大局|飯局|騙局|鹽務總局}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=尸04}}
+
+====Readings====
+* {{ja-readings|goon=[[ごく]] (goku)|kanon=[[きょく]] (kyoku)|kun=[[つぼね]] (tsubone), [[しきる]] (shikiru)}}
+
+====Compounds====
+* {{ja-r|郵便局|ゆうびんきょく}}: post office
+* {{ja-r|薬局|やっきょく}}: pharmacy
+* {{ja-r|送信局|そうしんきょく}}: relay station
+
+===Etymology 1===
+
+====Noun====
+{{ja-noun|つぼね}}
+
+# a court [[lady]]
+# a room in a palace, especially for a lady
+
+===Etymology 2===
+
+====Noun====
+{{ja-noun|きょく}}
+
+# [[bureau]], [[department]]
+# [[channel]] such as on TV
+
+====Suffix====
+{{ja-pos|suffix|きょく}}
+
+# [[bureau]]
+
+[[Category:ja:Rooms|つぼね]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=국}}
+
+# {{defn|lang=ko|sort=尸04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cục]], [[cộc]], [[cuộc]], [[gục]], [[ngúc]]|rs=尸04}}
+
+# {{defn|lang=vi|sort=尸04}}
+
+[[fr:局]]
+[[ko:局]]
+[[lo:局]]
+[[hu:局]]
+[[mg:局]]
+[[ms:局]]
+[[ja:局]]
+[[no:局]]
+[[pl:局]]
+[[sr:局]]
+[[th:局]]
+[[zh:局]]

@@ -1,0 +1,89 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=109|rad=目|as=08|sn=13|four=27604|canj=YEBU|ids=⿱叔目}}
+
+# [[supervise]], [[oversee]], [[direct]]
+
+====References====
+* {{Han ref|kx=0810.310|dkj=23457|dj=1225.260|hdz=42495.120|uh=7763|ud=30563|bh=B7FE|bd=47102}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|叔|目|t2=eye|ls=psc|c1=p|c2=s}} – to look over, to oversee (with eyes).
+
+===Pronunciation===
+{{zh-pron
+|m=dū
+|c=duk1
+|h=pfs=tuk
+|md=
+|mn=tok
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|督辦|督察|督促|督導|督撫|督教|督軍|督理|督脈|督迫|督率|督戰|督陣}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=目08}}
+
+# [[coach]]
+# [[command]]
+# [[urge]]
+# [[lead]]
+# [[supervise]]
+
+====Readings====
+* {{ja-readings|on=[[とく]] (toku)|kun=[[みる]] (miru), [[うながす]] (unagasu), [[ひきいる]] (hikiiru)}}
+
+====Compounds====
+* {{ja-r|督促|とくそく}}
+* {{ja-r|督励|とくれい}}
+* {{ja-r|監督|かんとく}}: [[director]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=독|eumhun=|rv=dok|mr=tok|y=tok}}
+
+# {{defn|lang=ko|sort=目08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đốc]]|rs=目08}}
+
+# {{defn|lang=vi|sort=目08}}
+
+[[fr:督]]
+[[ko:督]]
+[[hu:督]]
+[[mg:督]]
+[[ja:督]]
+[[no:督]]
+[[pl:督]]
+[[th:督]]
+[[zh:督]]

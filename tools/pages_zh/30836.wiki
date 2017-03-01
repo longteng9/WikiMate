@@ -1,0 +1,93 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=173|rad=雨|as=07|sn=15|four=10232|canj=MBMMV|ids=⿱[[雨|⻗]][[辰]]}}
+
+# [[shake]], [[quake]], [[tremor]]
+# [[excite]]
+# 4th of the 8 [[w:Ba Gua|trigrams]]
+# 51st [[hexagram]] of the [[I Ching]]
+
+====References====
+* {{Han ref|kx=1374.210|dkj=42300|dj=1883.250|hdz=64064.010|uh=9707|ud=38663|bh=BE5F|bd=48735}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|雨|辰|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhèn
+|ma=y
+|c=zan3
+|h=pfs=
+|md=
+|mn=qz,twv,xm,zz:chín/tw:chìn
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[tremble]]; to [[shake]]; to [[vibrate]]; to [[jolt]]
+
+===Compounds===
+{{zh-der|地震|震波|震顫|震蕩|震動|震耳欲聾|震感|震古爍今|震駭|震撼|震級|震驚|震恐|震怒|震情|震懾|震天動地|震源|震災|震中}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=雨07}}
+
+# {{defn|lang=ja|sort=雨07}}
+
+====Readings====
+* {{ja-readings|goon=[[しん]] (shin)|kanon=[[しん]] (shin)|kun=[[ふるう]] (furuu), [[ふるえる]] (furueru)}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|地震|じしん}}
+{{mid3}}
+* {{ja-r|震度|しんど}}
+{{mid3}}
+* {{ja-r|震動|しんどう}}
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=진|eumhun=|rv=jin|mr=chin|y=cin}}
+
+# {{defn|lang=ko|sort=雨07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chấn]], [[dấn]]|rs=雨07}}
+
+# {{defn|lang=vi|sort=雨07}}
+
+[[fr:震]]
+[[ko:震]]
+[[hu:震]]
+[[mg:震]]
+[[ja:震]]
+[[no:震]]
+[[pl:震]]
+[[th:震]]
+[[zh:震]]

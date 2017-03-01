@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|份}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=59|rad=彡|as=08|sn=11|four=42922|canj=DDHH|ids=⿰林彡}}
+
+# [[cultivated]], [[well-bred]]
+
+====References====
+* {{Han ref|kx=0363.240|dkj=09996|dj=0683.040|hdz=20854.150|uh=5F6C|ud=24428|bh=B16C|bd=45420}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bīn
+|c=ban1
+|mn=pin
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|大彬壺|彬彬|彬彬君子|彬彬文質|彬彬有禮|彬蔚|文質彬彬|江彬|濟濟彬彬}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=彡08}}
+
+# [[refined]]
+
+====Readings====
+* {{ja-readings|goon=[[ひん]] (hin)|kanon=[[ひん]] (hin)|kun=[[あきらか]] (akiraka)}}
+
+===Proper noun===
+{{ja-pos|あきら|proper}}
+
+# {{given name|male|lang=ja|sort=あきら}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=빈|eumhun=|rv=bin|mr=pin|y=pin}}
+
+# {{defn|lang=ko|sort=彡08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bân]], [[băn]], [[bận]]|rs=彡08}}
+
+# {{defn|lang=vi|sort=彡08}}
+
+[[fr:彬]]
+[[ko:彬]]
+[[li:彬]]
+[[hu:彬]]
+[[mg:彬]]
+[[ja:彬]]
+[[no:彬]]
+[[pl:彬]]
+[[th:彬]]
+[[zh:彬]]

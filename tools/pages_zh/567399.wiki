@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gēngdié
+|c=gang1 dit6
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[change]]
+# to [[alternate]]
+
+====Derived terms====
+{{zh-der|政權更迭}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|てつ|yomi=on}}
+
+===Noun===
+{{ja-noun|こうてつ}}
+
+# [[reshuffle]]
+#: {{ja-usex|内閣の'''更迭'''|ないかく の '''こうてつ'''|a '''reshuffle''' of the cabinet}}
+# [[dismissal]]
+#: {{ja-usex|監督の'''更迭'''|かんとく の '''こうてつ'''|a '''dismissal''' of the manager}}
+
+====Synonyms====
+* {{sense|dismissal}} [[罷免]], [[解任]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=경질}}
+
+# {{hanja form of|경질|replace, reshuffle}}
+
+[[ko:更迭]]
+[[lo:更迭]]
+[[mg:更迭]]
+[[ja:更迭]]
+[[zh:更迭]]

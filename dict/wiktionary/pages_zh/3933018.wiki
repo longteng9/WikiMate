@@ -1,0 +1,21 @@
+{{also|銳角三角形|锐角三角形}}
+==Japanese==
+{{ja-kanjitab|えい|かく|さん|かく|k4=かっ|けい|yomi=o}}
+
+===Etymology===
+{{compound|鋭角|三角形|t1=acute angle|t2=triangle|lang=ja}}
+
+===Noun===
+{{ja-noun|えいかく さんかっけい|kyu=銳角三角形}}
+
+# [[acute triangle]] {{gloss|triangle all of the angles of which are acute}}
+
+====Antonyms====
+* {{ja-r|鈍角三角形|どんかく さんかっけい}}
+
+===References===
+* {{R:Kojien}}
+
+[[ja:鋭角三角形]]
+[[sd:鋭角三角形]]
+[[zh:鋭角三角形]]

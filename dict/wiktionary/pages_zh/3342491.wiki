@@ -1,0 +1,61 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=píngdìng
+|c=ping4 ding6
+|h=pfs=phìn-thin
+|mn=pêng-tēng
+|cat=v,a,pn
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[calm down]]
+# to [[pacify]]; to [[suppress]] {{gloss|by military force}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[peaceful]]; [[stable]]
+
+===Proper noun===
+{{zh-proper noun}}
+
+# Pingding County, Yangquan, Shanxi Province, China
+
+----
+
+==Japanese==
+{{ja-kanjitab|へい|てい|yomi=on}}
+
+===Noun===
+{{ja-noun|へいてい}}
+
+# [[suppression]], [[subjugation]]
+
+===Verb===
+{{ja-verb-suru|へいてい}}
+
+# [[suppress]], [[subjugate]]
+#* '''1953''', 坂口安吾, 梟雄:
+#*: {{ja-usex|それ は 後日 織田 信長 が わがもの として 完成 し、 それ に よって 天下 を '''平定''' した 兵法 で あった。|それ は ごじつ おだ のぶなが が わがもの として かんせい し、 それ に よって てんか を '''へいてい''' した へいほう で あった。|That was the art of war that Oda Nobunaga later perfected as his own and used to subjugate all under heaven.}}
+
+====Conjugation====
+{{ja-suru|へいてい}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=평정}}
+
+# {{hanja form of|평정|suppression}}
+
+[[ko:平定]]
+[[ja:平定]]
+[[zh:平定]]

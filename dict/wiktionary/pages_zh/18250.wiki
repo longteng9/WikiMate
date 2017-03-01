@@ -1,0 +1,96 @@
+{{character info/new}}
+{{also|栎}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=15|sn=19|four=42994|canj=DVID|ids=⿰木樂}}
+
+# [[chestnut]]-leaved [[oak]]
+# [[oak]]
+
+====References====
+* {{Han ref|kx=0560.300|dkj=15823|dj=0949.270|hdz=21314.090|uh=6ADF|ud=27359|bh=F252|bd=62034}}
+
+[[Category:mul:Oaks]]
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology 1===
+{{zh-forms|s=栎}}
+
+====Pronunciation====
+{{zh-pron
+|m=lì
+|c=lik1
+|mn=le̍k/lo̍k
+|mc=2
+|oc=
+|cat=
+}}
+{{attention|zh|Old Chinese needs to be distributed}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Etymology 2===
+{{zh-forms|s=栎|alt=㰛}}
+
+====Pronunciation====
+{{zh-pron
+|m=yuè
+|mc=1
+|oc=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木15}}
+
+# {{defn|lang=ja|sort=木15}}
+
+====Readings====
+* {{ja-readings|on=[[れき]] (reki), [[ろう]] (rō)|kun=[[くぬぎ]] (kunugi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[력]]>[[역]]|eumhun=|rv=ryeok>yeok|mr=ryŏk>yŏk|y=lyek>yek}}
+
+# {{defn|lang=ko|sort=木15}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木15| hanviet = lác}}
+
+# {{defn|lang=vi|sort=木15}}
+
+[[zh-min-nan:櫟]]
+[[fr:櫟]]
+[[ko:櫟]]
+[[hu:櫟]]
+[[ja:櫟]]
+[[pl:櫟]]
+[[ro:櫟]]
+[[th:櫟]]
+[[zh:櫟]]

@@ -1,0 +1,38 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|じゅう|おう|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|じゅうおう|acc=3|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|じゅうおう|hhira=じゆうわう}}
+
+# [[length]] and [[breadth]]
+
+=====Derived terms=====
+* {{ja-r|縦横家|じゅうおうか}}
+* {{ja-r|縦横無礙|じゅうおう むげ}}
+* {{ja-r|縦横無尽|じゅうおう むじん}}
+
+===Etymology 2===
+{{ja-kanjitab|sort=たてよこ|yomi=irr}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|たてよこ|acc=1|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|経緯}}
+
+====Noun====
+{{ja-noun|たてよこ}}
+
+# [[length]] and [[breadth]]
+# [[warp]] and [[woof]]
+
+===References===
+<references/>
+
+[[ja:縦横]]
+[[zh:縦横]]

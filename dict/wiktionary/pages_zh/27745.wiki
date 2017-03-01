@@ -1,0 +1,62 @@
+{{character info/new}}
+{{also|赆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=14|sn=21|four=65817|canj=BCLMT}}
+
+# farewell present
+
+====References====
+* {{Han ref|kx=1212.360|dkj=36956|dj=1679.110|hdz=63660.090|uh=8D10|ud=36112|bh=F652|bd=63058}}
+
+----
+
+==Chinese==
+{{zh-forms|s=赆|alt=賮}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìn
+|c=zeon2,zeon6
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|贐禮|贐儀|餽贐|贐行}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=貝14}}
+
+# {{defn|lang=ja|sort=貝14}}
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin), [[じん]] (jin)|kun=[[はなむけ]] (hanamuke)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=신|eumhun=|rv=sin|mr=sin|y=sin}}
+
+# {{defn|lang=ko|sort=貝14}}
+
+[[fr:贐]]
+[[hu:贐]]
+[[ja:贐]]
+[[pl:贐]]
+[[th:贐]]
+[[zh:贐]]

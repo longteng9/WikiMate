@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|壸}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=33|rad=士|as=10|sn=13|four=40107|canj=GBMM|ids=⿳士冖亞}}
+
+# [[palace]] [[corridor]] or [[passageway]]
+
+====References====
+* {{Han ref|kx=0244.010|dkj=05667|dj=0484.060|hdz=10476.050|uh=58FC|ud=22780|bh=DCF2|bd=56562}}
+
+----
+
+==Chinese==
+{{zh-forms|s=壸}}
+
+===Pronunciation===
+{{zh-pron
+|m=kǔn
+|c=kwan2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|中壼|壼奧|壼範|壼政|壼闈|內壼}}
+
+===References===
+* {{R:twedu|B00599}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=士10}}
+
+# {{defn|lang=ja|sort=士10}}
+
+====Readings====
+* {{ja-readings|on=[[こん]] (kon)|kun=[[へやのつろ]] (heyanotsuro), [[おく]] (oku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=호|rv=ho|mr=ho}}
+
+# {{defn|lang=ko|sort=士10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hồ]]|rs=士10}}
+
+# {{defn|lang=vi|sort=士10}}
+
+[[fr:壼]]
+[[li:壼]]
+[[hu:壼]]
+[[ja:壼]]
+[[pl:壼]]
+[[th:壼]]
+[[zh:壼]]

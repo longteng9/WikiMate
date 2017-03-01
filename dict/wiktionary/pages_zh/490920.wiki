@@ -1,0 +1,91 @@
+{{also|运动}}
+==Chinese==
+{{zh-forms|s=运动}}
+
+===Etymology===
+Attestable in ancient Chinese texts. For the sense of "sports", re{{borrowing|zh|ja|-|nocap=1}} {{ja-r|運動|うんどう}}
+
+===Pronunciation===
+{{zh-pron
+|m=yùndòng,tl=y
+|c=wan6 dung6
+|h=pfs=yun-thung
+|md=ông-dông
+|mn=xm,zz,tw:ūn-tōng/qz:ūn-tǒng
+|mn-t=ung7 dong6
+|w=3hhyn don
+|ma=y
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[exercise]]; to [[move]] about
+# to get things done by [[pull strings|pulling strings]]
+
+===Noun===
+{{zh-noun}}
+
+# [[athletics]]; [[sports]]; [[exercise]]
+# {{lb|zh|physics}} [[movement]]; [[motion]]
+# {{lb|zh|politics}} [[movement]]; [[campaign]]
+
+===Derived terms===
+{{zh-der|技巧運動|團隊運動|五四運動|有氧運動|運動場|運動服|運動會|運動健將|運動量|運動衫|運動神經|運動襪|運動鞋|運動學|運動員|運動戰}}
+
+{{zh-cat|Beginning|Sports}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|うん|どう|yomi=on}}
+
+===Noun===
+{{ja-noun|うんどう}}
+
+# [[athletics]], exercise
+# (public) movement, [[drive]], [[campaign]]
+# (physics) movement
+
+====Synonyms====
+* {{sense|athletics}} {{ja-r|スポーツ|gloss=sport}}
+* {{sense|public movement}} {{ja-r|ムーブメント|gloss=movement}}
+
+====Derived terms====
+* {{ja-r|運動会|うんどうかい}}: athletic [[meet]]
+* {{ja-r|運動場|うんどうじょう}}, {{ja-r|運動場|うんどうば}}: [[athletic]] [[ground]]
+* {{ja-r|運動選手|うんどうせんしゅ}}: athlete
+
+===Verb===
+{{ja-verb-suru|tr=intrans|うんどう}}
+
+# [[exercise]], [[work out]]
+
+====Conjugation====
+{{ja-suru|うんどう}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=운동}}
+
+# {{hanja form of|운동|[[exercise]]; physical activity; [[sport]]; [[movement]] in general}}
+
+[[zh-min-nan:運動]]
+[[cs:運動]]
+[[fr:運動]]
+[[ko:運動]]
+[[hr:運動]]
+[[hu:運動]]
+[[mg:運動]]
+[[ja:運動]]
+[[sv:運動]]
+[[chr:運動]]
+[[zh:運動]]

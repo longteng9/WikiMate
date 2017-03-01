@@ -1,0 +1,86 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=09|sn=12|four=22336|canj=UWP|ids=⿱山思}}
+
+====References====
+* {{Han ref|kx=0315.360|dkj=08260|dj=0616.260|hdz=10786.070|uh=5D3D|ud=23869|bh=D8E6|bd=55526}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=仔}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|山|思|c1=s|t1=mountain|c2=p|ls=psc}}.
+
+===Etymology===
+Cognate with {{och-l|子}} and {{och-l|仔|id=2}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zǎi
+|c=zoi2,zai2
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|dialectal}} [[son]]; [[child]]
+# {{lb|zh|dialectal}} [[young]] [[animal]]
+
+====Synonyms====
+{{zh-dial|兒子}}
+
+====Compounds====
+{{zh-der|下崽|兔崽子|崽子|猴兒崽子|毛崽子|狼崽子|猴崽子|細崽|西崽}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山09}}
+
+# {{defn|lang=ja|sort=山09}}
+
+====Readings====
+* {{ja-readings|on=[[さい]] (sai), [[しゃ]] (sha), [[し]] (shi)|kun=[[こども]] (kodomo)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=재}}
+
+# {{defn|lang=ko|sort=山09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=山09|hanviet=[[tể]], [[tử]]}}
+
+# {{defn|lang=vi|sort=山09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5d3d Nom Foundation]
+
+[[fr:崽]]
+[[li:崽]]
+[[hu:崽]]
+[[mg:崽]]
+[[pl:崽]]
+[[th:崽]]
+[[chr:崽]]
+[[zh:崽]]

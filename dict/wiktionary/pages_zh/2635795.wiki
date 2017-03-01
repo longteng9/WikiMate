@@ -1,0 +1,44 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=hǎidǐ
+|c=hoi2 dai2
+|h=pfs=hói-tái
+|mn=hái-té/hái-tóe
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[seabed]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|てい|yomi=on}}
+
+===Noun===
+{{ja-noun|かいてい}}
+
+# [[seabed]]
+#: {{ja-usex|深海の'''海底'''には光が届かない。|しんかい の '''かいてい''' に は ひかり が とどかない。|The light does not reach the bottom in the deep sea.}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=해저}}
+
+# {{hanja form of|해저|seafloor}}
+
+[[zh-min-nan:海底]]
+[[ko:海底]]
+[[lt:海底]]
+[[hu:海底]]
+[[ja:海底]]
+[[zh:海底]]

@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|西}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=146|rad=西|as=00|sn=6|four=10227|canj=MUB,XMUB}}
+
+# {{mul-kangxi radical-def}}
+
+====Derived terms====
+* {{l|mul|覆}}, {{l|mul|賈}}, {{l|mul|覈}}, {{l|mul|覂}}
+
+====References====
+* {{Han ref|kx=1128.090|dkj=34762|dj=1595.180|hdz=42805.010|uh=897E|ud=35198|bh=CA50|bd=51792}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=yà,xià
+|c=aa3,kaa1,haa2
+|h=pfs=á
+|mn=à/hà
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[cover]]
+
+====References====
+* [http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
+
+===Etymology 2===
+{{zh-see|西|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=西00}}
+
+# {{defn|lang=ja|sort=西00}}
+
+====Readings====
+* {{ja-readings|on=[[あ]] (a), [[か]] (ka), [[け]] (ke)|kun=[[おおう]] (oou)|nanori=}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:襾]]
+[[ko:襾]]
+[[hu:襾]]
+[[mg:襾]]
+[[ja:襾]]
+[[pl:襾]]
+[[th:襾]]
+[[vi:襾]]
+[[zh:襾]]

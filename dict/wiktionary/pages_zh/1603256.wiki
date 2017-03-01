@@ -1,0 +1,83 @@
+{{also|雄黃}}
+==Chinese==
+{{zh-see|雄黃}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Orpiment}}
+[[File:Orpiment_1.JPG|thumb|250px|{{lang|ja|雄黄}} (''yūō'', ''oō''): a sample of the mineral '''[[orpiment]]'''.]]
+</div>
+{{ja-kanjitab|yomi=o|ゆう|おう}}
+{{IPAchar|/juːwau/}} → {{IPAchar|/juːwɔː/}} → {{IPAchar|/juːoː/}}
+
+From {{etyl|ltc|ja|sort=ゆうおう}} compound {{m|zh|雄黃|tr=hjuwng hwang|lit=male + yellow}}, indicating the mineral [[realgar]], in contrast to {{m|zh|雌黄|tr=tsiɛ hwang|lit=female + yellow}}, indicating the mineral [[orpiment]].
+
+Due to similarities between the two minerals, when the term was borrowed into Japanese, the meaning changed from {{m|en|realgar}} to {{m|en|orpiment}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|ゆうおう|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ゆうおう|hhira=ゆうわう}}
+
+# [[orpiment]], an [[arsenic]] [[sulfide]] [[mineral]]
+
+=====Usage notes=====
+This is the most common reading for this kanji compound.
+
+=====Synonyms=====
+* {{ja-r|石黄|せきおう}}
+* {{ja-r|雌黄|しおう}} {{qualifier|rare}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=y|お|おう}}
+{{IPAchar|/wowau/}} → {{IPAchar|/owɔː/}} → {{IPAchar|/ooː/}}
+
+Compound of {{compound|lang=ja|sort=おおう|雄|tr1=o|t1=male|pos1=from {{etyl|ojp|ja|sort=おおう}}|黄|tr2=ō|t2=yellow|pos2=from {{etyl|ltc|ja|sort=おおう}}}}.
+
+====Pronunciation====
+{{ja-pron|yomi=y|お.おう|acc=0}}
+
+====Noun====
+{{ja-noun|お.おう|hhira=をわう}}
+
+# {{lb|ja|sort=おおう|rare|possibly|_|obsolete}} [[orpiment]], an [[arsenic]] [[sulfide]] [[mineral]]
+
+=====Synonyms=====
+* {{ja-r|石黄|せきおう}}
+* {{ja-r|雌黄|しおう}} {{qualifier|rare}}
+
+===Etymology 3===
+<div style="float:right;">
+{{wikipedia|lang=ja|鶏冠石|鶏冠石 (more common alternate for 雄黄 ''kini'')}}
+{{wikipedia|Realgar}}
+[[File:Réalgar,_tétrahédrite,_orpiment,_quartz_1.JPG|thumb|250px|{{lang|ja|雄黄}} (''kini''): a sample of the mineral '''[[realgar]]'''.]]
+</div>
+{{ja-kanjitab|yomi=irr}}
+From {{etyl|ojp|ja|sort=きに}}. Compound of {{compound|lang=ja|sort=きに|黄|tr1=ki|t1=yellow|丹|tr2=ni|t2=earth, reddish earth}}. The kanji are [[ateji]], borrowed from the Chinese term.
+
+[[cognate|Cognate]] and [[homophone]] of {{m|ja|雌黄|tr=kini||orpiment}}. Only differentiated by spelling.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|きに}}
+
+====Noun====
+{{ja-noun|きに}}
+
+# {{lb|ja|sort=きに|rare|possibly|_|obsolete}} [[realgar]], an [[arsenic]] [[sulfide]] [[mineral]]
+
+=====Synonyms=====
+* {{ja-r|鶏冠石|けいかんせき}} {{qualifier|more common}}
+
+=====Related terms=====
+{{rel-top}}
+* {{ja-r|雌黄|きに}}: [[orpiment]], an [[arsenic]] [[sulfide]] [[mineral]]
+{{rel-bottom}}
+
+===References===
+<references/>

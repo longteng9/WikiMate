@@ -1,0 +1,63 @@
+{{also|烟雾}}
+==Chinese==
+{{zh-forms|s=烟雾}}
+
+===Pronunciation===
+{{zh-pron
+|m=yānwù
+|c=jin1 mou6
+|h=pfs=yên-vu
+|mn=ian-bū
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[smoke]] and [[fog]]
+# [[mist]]; [[fog]]; [[haze]]
+# [[smog]]
+
+====Derived terms====
+{{zh-der|煙霧彈|如墮煙霧|光煙霧|光化學煙霧}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|えん|む|yomi=on}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=えんむ}} {{m|zh|煙霧}}.
+
+===Noun===
+{{ja-noun|えんむ}}
+
+# [[smoke]] and [[fog]]
+# [[mist]], [[fog]], [[haze]]
+# [[smog]]
+
+====Compounds====
+* {{ja-r|煙霧信号|えんむ しんごう}}: a [[foghorn]] [[signal]]
+
+====Synonyms====
+* {{sense|fog}} {{ja-r|霧|きり}}
+* {{sense|haze, mist}} {{ja-r|霞|かすみ}}
+* {{sense|haze, mist}} {{ja-r|靄|もや}} {{qualifier|thinner than ''kasumi''}}
+* {{sense|smog}} {{ja-r|スモッグ}}
+
+====Related terms====
+* {{ja-r|黄砂|こうさ}}, {{ja-r|黄砂|おうさ}}: [[Asian dust]]
+
+====See also====
+* {{pedialite|lang=ja}}
+* {{pedialite|Fog}}
+* {{pedialite|Haze}}
+* {{pedialite|Smog}}
+
+[[zh-min-nan:煙霧]]
+[[hu:煙霧]]
+[[ja:煙霧]]
+[[chr:煙霧]]
+[[zh:煙霧]]

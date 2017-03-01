@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|脍}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=13|sn=17|four=78266|canj=BOMA}}
+
+# finely cut raw meat or fish
+
+====References====
+* {{Han ref|kx=0996.030|dkj=29937|dj=1447.030|hdz=32117.050|uh=81BE|ud=33214|bh=C17A|bd=49530}}
+
+----
+
+==Chinese==
+{{zh-forms|s=脍}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kuài
+|c=kui2
+|h=pfs=
+|md=
+|mn=kòe
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[minced]] [[meat]]
+
+====Compounds====
+{{zh-der|膾炙人口|蓴羹鱸膾|雜膾}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉13}}
+
+# {{defn|lang=ja|sort=肉13}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai)|kun=[[なます]] (namasu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=회|eumhun=|rv=hoe|mr=hoe|y=hoy}}
+
+# {{defn|lang=ko|sort=肉13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quái]], [[gỏi]], [[khoái]], [[cối]]|rs=肉13}}
+
+# {{defn|lang=vi|sort=肉13}}
+
+[[fr:膾]]
+[[li:膾]]
+[[hu:膾]]
+[[ja:膾]]
+[[pl:膾]]
+[[th:膾]]
+[[zh:膾]]

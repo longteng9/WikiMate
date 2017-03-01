@@ -1,0 +1,119 @@
+{{character info/new}}
+{{also|徴|征|微}}
+==Translingual==
+{{Han simplified forms|徵|徴|征}}
+
+===Han character===
+{{Han char|rn=60|rad=彳|as=12|sn=15|four=28240|canj=HOUGK|ids=⿲彳⿳山一𡈼攵,⿲彳⿳山一壬攵}}
+
+# [[summon]], [[recruit]]
+# [[fourth]] [[note]] in the Chinese [[pentatonic]] [[scale]] or ''sol''
+
+====Derived characters====
+* [[癥]]
+
+====Related characters====
+* [[微]] [[徹]] <!-- Other 彳 + X + 攵 -->
+
+====References====
+* {{Han ref|kx=0370.410|dkj=10239|dj=0697.270|hdz=20842.070|uh=5FB5|ud=24501|bh=BC78|bd=48248}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|微|𡈼|ls=ic}}.
+
+===Etymology 1===
+{{zh-forms|s=征}}
+
+====Pronunciation====
+{{zh-pron
+|m=zhēng
+|c=zing1
+|mn=qz,xm,zz:cheng/zz:teng/tw,qz:chng/twv:tin
+|mc=1
+|oc=1,2
+|ma=
+|cat=v,n
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{rfdef|zh}}
+
+=====Compounds=====
+{{zh-der|徵兵|徵兵制|徵調|徵訂|徵發|徵稿|徵購|徵婚|徵集|徵募|徵聘|徵求|徵收|徵稅|徵文|徵詢|徵引|徵用|徵召}}
+
+====Noun====
+{{zh-noun}}
+
+# [[phenomenon]]; [[symptom]]
+
+=====See also=====
+* {{zh-l|症|symptom}}
+
+=====Compounds=====
+{{zh-der|綜合徵|徵候|徵兆|徵象}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=zhǐ
+|c=zi2
+|mn=
+|mc=2
+|oc=n,1
+|ma=
+|dial=n
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# the fourth tone in the ancient Chinese pentatonic scale, comparable to [[sol]] in the Western [[solfège]] system
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=彳12|style=ky|shin=徴}}
+
+# {{defn|lang=ja|sort=彳12}}
+
+====Readings====
+* {{ja-readings|on=[[ちょう]] (chō), [[ち]] (chi)|kun=[[しるし]] (shirushi), [[めす]] (mesu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[징]], [[치]]|eumhun=|rv=jing, chi|mr=ching, ch'i|y=cing, chi}}
+
+# {{defn|lang=ko|sort=彳12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trưng]], [[chưng]], [[chuỷ]], [[rưng]], [[trâng]]|rs=彳12}}
+
+# {{defn|lang=vi|sort=彳12}}
+
+[[fr:徵]]
+[[ko:徵]]
+[[hu:徵]]
+[[mg:徵]]
+[[ja:徵]]
+[[pl:徵]]
+[[th:徵]]
+[[zh:徵]]

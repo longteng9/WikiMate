@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=06|sn=13|four=27261|canj=NCYMR|ids=⿸厃⿱儿言}}
+
+# used as a [[surname]]
+# [[talk]] [[too much]], [[verbose]]
+
+====Derived characters====
+* [[擔]]
+
+====References====
+* {{Han ref|kx=1159.130|dkj=35458|dj=1625.120|hdz=63967.100|uh=8A79|ud=35449|bh=B8E2|bd=47330}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhān
+|c=zim1
+|mc=y
+|oc=y
+|ma=
+|cat=v,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[talk]] [[too much]], [[verbose]]
+# {{lb|zh|regional}} a funny face
+# {{surname|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言06}}
+
+# talk too much
+# verbose
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen), [[たん]] (tan), [[だん]] (dan)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=첨|eumhun=|rv=cheom|mr=ch'ŏm|y=chem}}
+
+# [[arrive]]
+# [[verbose]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chiêm]]|rs=言06}}
+
+# {{defn|lang=vi|sort=言06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=8a79 Nom Foundation]
+
+[[fr:詹]]
+[[hu:詹]]
+[[mg:詹]]
+[[pl:詹]]
+[[th:詹]]
+[[zh:詹]]

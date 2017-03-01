@@ -1,0 +1,18 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=cìfāng
+|c=ci3 fong1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|mathematics}} [[power]]
+#: {{zh-x|2 的 3 '''次方''' 是 8。|The third '''power''' of two is eight}}
+
+[[mg:次方]]
+[[zh:次方]]

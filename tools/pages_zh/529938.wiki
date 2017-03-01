@@ -1,0 +1,38 @@
+{{also|积分}}
+==Chinese==
+{{zh-forms|s=积分}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīfēn
+|c=zik1 fan1
+|mn=chek-hun
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|mathematics}} [[integral calculus]]; [[integration]]
+# {{lb|zh|mathematics}} [[integral]]
+# total [[point]]s, aggregate [[score]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|せき|ぶん|yomi=o}}
+
+===Noun===
+{{ja-noun|せきぶん}}
+
+# {{lb|ja|mathematics}} [[integration]]
+
+====Antonyms====
+* {{ja-r|微分|びぶん}}
+
+[[Category:ja:Mathematics|せきぶん]]
+
+[[ko:積分]]
+[[hu:積分]]
+[[mg:積分]]
+[[zh:積分]]

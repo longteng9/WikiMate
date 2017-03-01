@@ -1,0 +1,111 @@
+{{character info/new}}
+{{also|饥}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=184|rad=食|as=02|sn=11|four=87710|canj=OIHN|ids=⿰飠几}}
+
+#
+# [[hungry]]
+# a [[famine]]
+
+* Cognate characters: [[肌]], [[僅]], [[饉]], [[饑]]
+
+====References====
+* {{Han ref|kx=1416.080|dkj=44023|dj=1940.090|hdz=74441.050|uh=98E2|ud=39138|bh=B0A7|bd=45223}}
+
+----
+
+==Chinese==
+{{zh-forms|s=饥}}
+
+===Alternative forms===
+* {{zh-l|饑}}
+
+===Pronunciation===
+{{zh-pron
+|m=jī
+|c=gei1
+|h=pfs=kî
+|md=
+|mn=ki
+|w=
+|mc=y
+|oc=y
+|cat=a,n
+}}
+
+===Noun===
+{{zh-hanzi}}
+
+# [[hunger]], [[starve|starv]]ing
+# {{alternative spelling of|饑|lang=zh}}
+
+====Derived terms====
+{{der-top}}
+* {{l|zh|饥一顿饱一顿}}
+* {{l|zh|饥不择食}}
+* {{l|zh|饥寒交迫}}
+* {{l|zh|饥渴}}
+{{der-mid}}
+* {{l|zh|饥色}}
+* {{l|zh|饥荒}}
+* {{l|zh|饥饿}}
+* {{l|zh|饥饿线}}
+{{der-bottom}}
+
+===See also===
+* {{zh-l|飢餓}}
+* {{zh-l|餓}}
+
+===References===
+* {{R:twedu|A04612}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=食02}}
+
+# {{defn|lang=ja|sort=食02}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[うえる]] (ueru)}}
+
+====Compounds====
+* [[飢火]]
+* [[飢餓]]
+* [[飢渇]]
+* [[飢饉]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|eumhun=|rv=gi|mr=ki|y=ki}}
+
+# {{defn|lang=ko|sort=食02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cơ]], [[ki]]|rs=食02}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:飢]]
+[[fr:飢]]
+[[ko:飢]]
+[[ky:飢]]
+[[hu:飢]]
+[[mg:飢]]
+[[ja:飢]]
+[[pl:飢]]
+[[ru:飢]]
+[[th:飢]]
+[[chr:飢]]
+[[zh:飢]]

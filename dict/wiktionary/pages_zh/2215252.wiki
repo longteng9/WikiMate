@@ -1,0 +1,27 @@
+{{also|千字节}}
+==Chinese==
+{{zh-forms|s=千字节|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiānzìjié
+|c=cin1 zi6 zit3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[kilobyte]]
+
+====Synonyms====
+* {{l|zh|KB}} {{qualifier|informal}}
+
+====Related terms====
+* Previous: {{zh-l|字節}}
+* Next: {{zh-l|兆字節}}
+
+{{zh-cat|Computing}}
+
+[[pt:千字節]]
+[[zh:千字節]]

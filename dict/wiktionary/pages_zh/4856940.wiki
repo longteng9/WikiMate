@@ -1,0 +1,80 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǒuzhá
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[personal]] [[letter]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|て|ふだ|yomi=k}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|てふだ|acc=h|acc2=a|acc2_ref=NHK|acc_ref=NHK,DJR|y=k}}
+
+====Noun====
+{{ja-noun|てふだ}}
+
+# a [[nametag]]
+# {{lb|ja|card games|sort=てふた'}} a [[hand]]
+#* {{quote-book
+|language=Japanese
+|location=Tokyo
+|publisher=Shueisha
+|genre=fiction
+||{{w|Kazuki Takahashi}}
+|{{w|遊☆戯☆王|{{ruby|{{lang|ja|[遊](ゆう)☆[戯](ぎ)☆[王](おう)}}}}|lang=ja}}
+|trans-title={{w|Yu-Gi-Oh!}}
+|date=Jun 9 2001
+|isbn=4-08-873123-9
+|volume=24
+|chapter={{ruby|{{lang|ja|[折](お)れない[闘](とう)[志](し)‼}}}}
+|trans-chapter=Unbreakable Spirit‼
+|||{{ja-usex|これがその一枚だ‼　魔法カード「モンスター回%収」‼|^これ が その いち%まい だ‼　^マジック ^カード 「^モンスター ^かい%しゅう」‼|Here is that card‼ The Magic Card "Monster Recovery"‼}}{{ja-usex|モンスター回%収…‼|^モンスター ^かい%しゅう…‼|Monster Recovery…‼}}{{ja-usex|オレの場のすべてのモンスターを'''手%札'''に戻すぜ|^オレ の フィールド の すべて の モンスター を '''て%ふだ''' に もどす ぜ|I return all monsters on my field to my '''hand'''}}}}
+
+=====Synonyms=====
+* {{sense|nametag}} {{ja-r|名%札|な%ふだ}}
+
+===Etymology 2===
+{{ja-kanjitab|て|さつ|yomi=y}}
+{{rfe|lang=ja}}
+
+====Noun====
+{{ja-noun|てさつ}}
+
+# a [[letter]] {{gloss|written message}}
+
+=====Synonyms=====
+* {{ja-r|手%紙|て%がみ}}
+* {{ja-r|書%簡|しょ%かん}}
+[[Category:ja:Post|てさつ]]
+
+===Etymology 3===
+{{ja-kanjitab|しゅ|さつ|yomi=o}}
+{{rfe|lang=ja}}
+
+====Noun====
+{{ja-noun|しゅさつ}}
+
+# a [[nametag]]
+# a [[letter]] {{gloss|written message}}
+[[Category:ja:Post|しゅさつ]]
+
+===References===
+<references/>
+[[Category:Japanese words with multiple readings]]
+
+[[mg:手札]]
+[[chr:手札]]
+[[zh:手札]]

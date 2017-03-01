@@ -1,0 +1,205 @@
+{{character info/new}}
+{{also|着|羞}}
+==Translingual==
+{{ja-forms|[[差]]|[[差]]|[[差]]}}
+
+===Han character===
+{{Han char|rn=48|rad=工|as=07|sn=10|four=80211|canj=TQM|ids=⿸⺶工}}
+
+===References===
+* {{Han ref|kx=0326.020|dkj=08732|dj=0629.120|hdz=10413.040|uh=5DEE|ud=24046|bh=AE74|bd=44660}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=差,荖,𢀩,𢀠,𢀞}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|來|手|ls=ic|t1=wheat|t2=hand}} – to [[hull]] [[wheat]] by rubbing grains inside hands. Original form of {{och-l|搓|to rub with hands; to scrub; to twist}}.
+
+{{zh-l|*工}} or {{zh-l|*口}} was later added under {{lang|zh|手}} to form {{och-l|左|left}}, which is also this character's phonetic component.
+
+===Pronunciation 1===
+{{zh-pron
+|m=chā,chà
+|m_note=chā - literary (“to differ; mistake; (''maths'') difference; barely”); chà - colloquial (“to differ; wrong; inferior; to be short of; to owe”)
+|c=caa1
+|h=pfs=chhâ
+|md=chă
+|mn=chha
+|w=1tsho
+|mc=1+2+3
+|oc=1,2+3+4
+|cat=v,n,a,adv
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[differ]] from; to be [[different]]; [[dissimilar]]; [[incongruous]]
+# [[wrong]]; [[incorrect]]; [[erroneous]]
+# [[inferior]]; [[poor]]; [[substandard]]
+# [[difference]]; [[discrepancy]]
+# [[mistake]]; [[wrongdoing]]
+# {{lb|zh|mathematics}} [[difference]]
+# to be [[short]] of; to [[fall short]] of
+# to [[owe]]
+# [[rather]]; [[barely]]; [[nearly]]; [[almost]]
+
+====Compounds====
+{{zh-der|一丈差九尺|一字不差|一差二誤|一差二錯|一差半錯|一念之差|三差五錯|三差兩錯|不差|不差不錯|不差什麼|不差毫釐|不差毫髮|不差累黍|個別差異|偏差|偏差理論|偏差者|偏差行為|光差|光行差|兩性差異|公差|出差錯|分毫不差|千差萬別|千差萬差，來人不差|反差|周年視差|外合裡差|天差地別|天差地遠|失之毫釐，差之千里|失之毫釐，差以千里|官差吏差，來人不差|少差|差一點兒|差三錯四|差不上下|差不多|差不離|差之毫釐，失之千里|差之毫釐，繆以千里|差事|差人|差以毫釐，失之千里|差以豪釐，謬以千里|差價|差分|差別|差別待遇|差勁|差動滑車|差半車麥秸|差可|差失|差強人意|差忒|差惡|差數|差次|差池|差爭|差異|差異法|差眼|差等|差聲兒|差若豪釐，繆以千里|差號|差越|差距|差迭|差速齒輪|差遲|差配兒|差錯|差額|差額選舉|差點兒|平均時差|時差|時間差攻擊|東差西誤|歲差|毫釐之差|毫髮不差|海洋溫差發電|溫差|潮差|爭差|相差|相差無幾|視差|萬別千差|秒差距|等差|等差級數|絲毫不差|色差|落差|言差語錯|話差|語意差別量表|誤差|貧富差距|貿易差額|貿易逆差|貿易順差|逆差|陰差陽錯|陰錯陽差|隔三差五|雙差|順差}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=chāi
+|c=caai1
+|h=pfs=chhâi
+|md=chă̤
+|mn=qz,xm:chhe/zz:chhee/qz,xm,zz:chhai
+|mn_note=chhe, chhee - vernacular; chhai - literary
+|w=1tsha
+|mc=4
+|oc=2+3,1
+|cat=v,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[dispatch]]; to [[assign]]; to [[send]] [[on]] an [[errand]]
+# to [[select]]; to [[choose]]
+# {{lb|zh|historical}} [[runner]]; [[courier]]; [[envoy]]; [[messenger]]
+# {{lb|zh|historical}} [[corvée]]
+# [[errand]]; [[task]]
+
+====Compounds====
+{{zh-der|fold=1|丁差|交差|信差|公差|兼差|出公差|出大差|出差|出差費|出紅差|到差|報差|大差|夫差|官差|專差|小差事兒|差事|差人|差使|差委|差官|差役|差批|差排|差撥|差旅費|差法|差發|差票|差置|差輪|差遣|差錢|差除|帶俸差操|得差|打差|承差|押差|搪差使|撤差|放富差貧|欽差|欽差大臣|當差|當差的|白差使|皁差|皇帝不差餓兵|神差鬼使|科差|緊差緊做|考差|聽差|苦差事|解差|調差|貓兒頭差事|賣富差貧|辦差|郵差|銷差|開小差|開差|面子上的差使|鬼使神差|點差}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=cī
+|c=ci1
+|h=
+|md=chĭ
+|mn=qz:chhir/xm:chhu/zz:chhi
+|w=1tshr
+|mc=1+2+3
+|oc=4,6
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[uneven]]; [[irregular]]; [[rough]]
+#: {{zh-x|參{cēn}差{cī}|uneven}}
+# to [[distinguish]]; to [[grade]]; to [[classify]]
+# [[grade]]; [[rank]]
+# [[limit]]; [[boundary]]
+
+====Compounds====
+{{zh-der|fold=1|參差|參差不齊|差品|差序|差池|差等|差肩|櫛比鱗差|犬牙差互|玉參差|齵差}}
+
+===Pronunciation 4===
+{{zh-pron
+|m=cuō
+|c=co1
+|oc=5,n
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{zh-original|搓|to [[rub]] with one's [[hands]]; to [[scrub]]; to [[twist]]}}
+
+====Compounds====
+{{zh-der|fold=1|扳差頭|景差}}
+
+===Pronunciation 5===
+{{zh-pron
+|m=chài
+|c=caai3
+|mc=5
+|oc=n,5
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{zh-original|瘥|to [[recover]] from an [[illness]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=工07}}
+
+====Readings====
+* {{ja-readings|goon=[[し]] (shi) {{non-joyo-reading}}, [[しゃ]] (sha) {{non-joyo-reading}}, [[せ]] (se) {{non-joyo-reading}}|kanon=[[し]] (shi) {{non-joyo-reading}}, [[さ]] (sa), [[さい]] (sai) {{non-joyo-reading}}|kun=[[さす]] ([[差す]], sasu), [[たがう]] (tagau), [[たがい]] (tagai)}}
+
+====Compounds====
+* [[差異]]
+* [[差違]]
+* [[差益]]
+* [[差額]]
+* [[差金]]
+* [[差遣]]
+* [[差損]]
+* [[差等]]
+* [[差動]]
+* [[差配人]]
+* [[差別]]
+* [[脇差]]
+
+===Pronunciation===
+{{ja-kanjitab|さ|yomi=o}}
+{{ja-pron|acc=h|さ|y=ko}}
+
+===Noun===
+{{ja-noun|さ}}
+
+# [[difference]] (in mathematics, etc.)
+
+====Synonyms====
+* {{ja-r|差異|さい}}, {{ja-r|違い|ちがい}}
+
+====See also====
+* {{ja-r|被減数|ひげんすう}}; {{ja-r|減数|げんすう}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[치]], [[차]], [[채]]|rv=chi, cha, chae|mr=ch'i, ch'a, ch'ae|y=chi, cha, chay}}
+
+# {{defn|lang=ko|sort=工07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sai]], [[sái]], [[si]], [[sươi]], [[sau]], [[sây]], [[soa]]|rs=工07}}
+
+# {{defn|lang=vi|sort=工07}}
+
+[[zh-min-nan:差]]
+[[fr:差]]
+[[ko:差]]
+[[it:差]]
+[[li:差]]
+[[hu:差]]
+[[mg:差]]
+[[ja:差]]
+[[no:差]]
+[[pl:差]]
+[[ta:差]]
+[[th:差]]
+[[chr:差]]
+[[uk:差]]
+[[zh:差]]

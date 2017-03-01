@@ -1,0 +1,50 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=89|rad=爻|as=05|sn=9|four=|canj=KKBM|ids=⿰爻且}}
+
+# {{defn|Han}} a [[small]] [[table]] or [[tiered]] [[stand]] filled with [[meat]] [[offering]]s
+
+====References====
+* {{Han ref|kx=0690.190|dkj=|dj=|hdz=|uh=723C|ud=|bh=|bd=}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=爻05}}
+
+====Readings====
+* {{ja-readings|goon=[[しょ]] (sho)|kanon=[[そ]] (so)|kun=[[まないた]] (manaita)}}
+
+===Etymology===
+{{ja-kanjitab|まないた|yomi=k}}
+Compound of {{compound|真魚|tr1=mana|t1=fish|板|tr2=ita|t2=board|lang=ja}}.
+
+===Alternative forms===
+* {{l|ja|爼板}}
+* {{l|ja|真魚板}}
+
+===Noun===
+{{ja-noun|まないた}}
+
+# a board used to cut fish in meal preparation
+#* {{RQ:Wamyō Ruijushō|6|33}}
+#*: 俎 史記云、人爲刀俎、我爲魚肉、俎音阻、'''末奈以太'''
+# more generally, a board used to cut food; a cutting board
+#* {{RQ:Nippo Jisho|382}}
+#*: '''Manaita'''. マナイタ (俎板・末那板) 料理の時その上で切ったり刻んだりする板.
+
+====Synonyms====
+* {{ja-r|切盤|きりばん}}
+* {{ja-r|菜板|さいばん}}
+
+===References===
+* {{R:Nippo Jisho}}
+* {{R:Wamyō Ruijushō}}
+
+[[ja:爼]]
+[[th:爼]]
+[[zh:爼]]

@@ -1,0 +1,39 @@
+{{also|不定词}}
+==Chinese==
+{{zh-forms|s=不定词|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=不dìngcí
+|c=bat1 ding6 ci4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|grammar}} [[infinitive]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふ|てい|し|yomi=on}}
+
+===Noun===
+{{ja-noun|ふていし}}
+
+# {{lb|ja|grammar|sort=ふていし}} [[infinitive]]
+
+===See also===
+* {{ja-r|動名詞|どうめいし|gloss=[[gerund]]}}
+
+===References===
+* {{R:Kojien}}
+
+[[Category:ja:Parts of speech|ふていし]]
+
+[[ko:不定詞]]
+[[it:不定詞]]
+[[lt:不定詞]]
+[[ja:不定詞]]
+[[ru:不定詞]]

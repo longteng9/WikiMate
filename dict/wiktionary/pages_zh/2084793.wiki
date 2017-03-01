@@ -1,0 +1,28 @@
+{{also|备课}}
+==Chinese==
+{{zh-forms|s=备课}}
+
+===Pronunciation===
+{{zh-pron
+|m=bèikè
+|c=bei6 fo3
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[prepare]] for one's [[lesson]]s {{gloss|as a teacher}}
+#: {{zh-x|我 正在 忙 著 備課。|I am busy right now '''preparing for class'''.}}
+#: {{zh-x|我 還 要 '''備''' 下週 的 '''課''' 呢。|I still have to '''plan''' for next week's '''lessons'''.}}
+
+====Usage notes====
+As demonstrated in the example sentences above, {{zh-l|備}} and {{zh-l|課}} can be separated by a modifier for {{zh-l|課}}.
+
+====See also====
+* {{zh-l|預習}}
+
+{{zh-cat|Education}}
+
+[[ko:備課]]
+[[hu:備課]]

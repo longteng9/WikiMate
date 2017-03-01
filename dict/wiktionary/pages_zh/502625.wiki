@@ -1,0 +1,73 @@
+{{also|幼稚园}}
+
+==Chinese==
+{{zh-forms|s=幼稚园|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=yòuzhìyuán
+|c=jau3 zi6 jyun4-2
+|h=pfs=yu-chṳ̂-yèn/yu-chhṳ̂-yèn/yô-chi-én;gd=yu4 ci1 yan2
+|h_note=yô-chi-én - from Japanese pronunciation
+|mn=qz,xm:iù-tī-oân/qz,tw,xm:iù-tī-hn̂g/zz:iù-tī-hûiⁿ
+|w=2'ieu zu hhyoe
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Taiwan|Hong Kong|or|dialectal}} [[kindergarten]]; [[nursery school]]
+
+====Synonyms====
+* {{qual|mainland China}} {{zh-l|幼兒園}}
+
+{{zh-cat|Education}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Kindergarten}}
+</div>
+{{ja-kanjitab|よう|ち|えん|yomi=o}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ようちえん|幼稚|tr1=yōchi|t1={{l|en|infantile}}|園|tr2=en|t2={{l|en|garden}}}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>  The term is apparently a {{cal|nocap=1|ja|sort=ようちえん|etyl lang=de|etyl term=Kindergarten|etyl t={{l|en|children}}'s {{l|en|garden}}}}, as Japanese ''yōchien'' were started in 1876 based on the German model initiated by {{w|Friedrich Fröbel}} in 1837 and on the term {{m|de|Kindergarten}} that he coined in 1840.<ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=o|ようちえん|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ようちえん|hhira=えうちゑん}}
+
+# a [[kindergarten]]; a [[nursery school]]
+
+===References===
+<references/>
+:* {{R:Shogakukan}}
+
+{{C|ja|Education|sort=ようちえん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=유치원|mr=yuch'iwŏn|y=yuchiwen}}
+
+# {{hanja form of|유치원|[[kindergarten]]}}
+
+[[zh-min-nan:幼稚園]]
+[[ko:幼稚園]]
+[[ku:幼稚園]]
+[[lo:幼稚園]]
+[[lt:幼稚園]]
+[[hu:幼稚園]]
+[[ja:幼稚園]]
+[[fi:幼稚園]]
+[[sv:幼稚園]]
+[[uk:幼稚園]]
+[[zh:幼稚園]]

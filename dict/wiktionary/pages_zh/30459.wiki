@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|阉}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=169|rad=門|as=08|sn=16|four=77716|canj=ANKLU}}
+
+# [[castrate]]
+# [[eunuch]]
+
+====References====
+* {{Han ref|kx=1337.050|dkj=41372|dj=1842.240|hdz=74303.090|uh=95B9|ud=38329|bh=EC49|bd=60489}}
+
+----
+
+==Chinese==
+{{zh-forms|s=阉}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yān
+|c=jim1
+|h=pfs=yâm
+|mn=iam
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|天閹|閹宦|閹人|閹豎|閹割|閹黨|閹然|閹寺|閹官|閹雞}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=門08}}
+
+# {{defn|lang=ja|sort=門08}}
+
+====Readings====
+* {{ja-readings|on=[[えん]] (en)|kun=[[しもべ]] (shimobe), [[めしつかい]] (meshitsukai), [[こびへつら]] (kobihetsura)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=엄|eumhun=|rv=eom|mr=ŏm|y=em}}
+
+# {{defn|lang=ko|sort=門08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''閹''' ([[yêm]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:閹]]
+[[fr:閹]]
+[[hu:閹]]
+[[mg:閹]]
+[[ja:閹]]
+[[pl:閹]]
+[[th:閹]]
+[[vi:閹]]
+[[zh:閹]]

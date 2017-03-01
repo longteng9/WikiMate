@@ -1,0 +1,118 @@
+{{character info/new}}
+{{also|鷄|雞}}
+==Translingual==
+{{Han simplified forms|雞|鶏|鸡}}
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=08|sn=19|four=|canj=BOHAF|ids=⿰⿱爫夫鳥}}
+
+====References====
+* {{Han ref|kx=1494.101|dkj=47074|dj=2024.080|hdz=74641.141|uh=9D8F|ud=40335}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=鳥08|style=s|kyu=鷄}}
+
+# a [[chicken]], a [[bird]]
+
+====Readings====
+{{ja-readings
+|goon=(''rare'') [[け]] (ke)
+|kanon=[[けい]] (kei)
+|kun=[[にわとり]] (niwatori), (''rare'') [[とり]] (tori)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|烏骨鶏|うこっけい}}: [[silky]], [[silkie]] {{gloss|breed of chicken}}
+* {{ja-r|黄鶏|かしわ}}: a Japanese native species of chicken with dark reddish-brown feathers; the meat thereof; [[chicken]] (meat)
+* {{ja-r|水鶏|くいな}}, {{ja-r|秧鶏|くいな}}, {{ja-r|水鶏|すいけい}}: [[rail]]; [[water rail]]
+* {{ja-r|養鶏|ようけい}}: [[poultry]] farming, [[chicken]] raising
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|にわとり}}
+Originally derived from the {{m|ja|枕詞|tr=makura kotoba||pillow word|pos=an [[epithet]] as a poetic device}} compound phrase ''niwa tsu tori'', {{compound|lang=ja|sort=にわとり|庭|tr1=niwa|t1=garden|つ|tr2=tsu|pos2=possessive particle, analogous to modern Japanese {{l|ja|の}}, ''no''|鳥|tr3=tori|t3=bird}}, used in {{etyl|ojp|ja|sort=にわとり}} poetry as an allusive introduction to ''kake'', the older word for “chicken” (see below). The medial ''tsu'' disappeared over time, yielding modern Japanese ''niwatori''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|にわとり|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{l|ja|雞}}
+
+====Noun====
+{{ja-noun|にわとり|ニワトリ|hhira=にはとり|kyu=鷄}}
+
+# a [[chicken]] (a bird)
+
+=====Synonyms=====
+* {{ja-r|臼辺鳥|うすべどり}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|かけ}}
+From {{etyl|ojp|ja|sort=かけ}}. [[onomatopoeia|Onomatopoeic]] of the sound made by a chicken.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> Compare English {{m|en|cluck}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|かけ}}
+
+====Alternative forms====
+* {{l|ja|雞}}
+
+====Noun====
+{{ja-noun|かけ|kyu=鷄}}
+
+# a [[chicken]] (a bird)
+#* {{RQ:Kojiki|Kami tsu maki}}
+#*: {{lang|ja|爾波都登理　'''迦祁'''波那久}}
+#*: {{lang|ja|庭つ鳥　'''鶏'''は鳴く}}
+#*:: {{lang|ja|にわつとり　'''かけ'''はなく}}
+#*:: ''niwa tsu tori, '''kake''' wa naku''
+#*::: the garden bird, the '''chicken''' clucks
+
+=====Synonyms=====
+* {{ja-r|臼辺鳥|うすべどり}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|くたかけ}}
+From {{etyl|ojp|ja|sort=くたかけ}}. Compound of {{compound|lang=ja|sort=くたかけ|くた|tr1=kuta|pos1=root for numerous verbs, implying [[low-grade]], [[rotten]], [[stinky]]|かけ|tr2=kake|t2=chicken|pos2=see above}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Formerly a [[derogatory]] term for a chicken. Over time, the derogatory sense was lost, and the term instead took on an [[old-fashioned]] or [[archaic]] sense.
+
+====Pronunciation====
+{{ja-pron|yomi=k|くたかけ}}
+
+====Noun====
+{{ja-noun|くたかけ|kyu=鷄}}
+
+# {{lb|ja|sort=くたかけ|archaic}} a [[chicken]] (a bird)
+
+=====Usage notes=====
+Occasionally seen with the reading {{lang|ja|くだかけ}} (''kudakake'').<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+=====Synonyms=====
+* {{ja-r|臼辺鳥|うすべどり}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|にわとり]]
+[[Category:ja:Chickens|にわとり]]
+[[Category:CJKV characters simplified differently in Japan and China|雞1]]
+
+[[fr:鶏]]
+[[rw:鶏]]
+[[lt:鶏]]
+[[hu:鶏]]
+[[mg:鶏]]
+[[ms:鶏]]
+[[fj:鶏]]
+[[ja:鶏]]
+[[pl:鶏]]
+[[ro:鶏]]
+[[sv:鶏]]
+[[th:鶏]]
+[[chr:鶏]]
+[[zh:鶏]]

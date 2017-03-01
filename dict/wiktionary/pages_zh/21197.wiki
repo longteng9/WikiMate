@@ -1,0 +1,103 @@
+{{character info/new}}
+{{also|叠|畳|曡|疉}}
+==Translingual==
+{{Han simplified forms|疊|畳|叠}}
+
+===Han character===
+{{Han char|rn=102|rad=田|as=17|sn=22|four=60107|canj=WWWM|ids=⿱畾冝}}
+
+====Descendants====
+* [[畳]], [[叠]]
+
+====References====
+* {{Han ref|kx=0767.090|dkj=21983|dj=1177.140|hdz=42555.140|uh=758A|ud=30090|bh=C57C|bd=50556}}
+
+----
+
+==Chinese==
+{{zh-forms|s=叠|alt=曡,疉,畳,㬪,𣆹,𤴁}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|畾|宜}} – a pile.
+
+Originally as {{zh-l|曡}}, with {{zh-l|晶}} on top. ''{{w|Shuowen}}'' commented that the shape change was promoted by emperor of the short-lived {{w|Xin Dynasty}}, who deemed the use of three "suns" ({{zh-l|*日}}) in this character too empowering - compared to three "fields" ({{zh-l|*田}}).
+
+===Etymology===
+Cognate with {{zh-l|褶|tr=-|lined dress}}, {{cog|bo|ལྟབ||to fold, gather up, to lay or put together}}, {{m|bo|ལྡེབ||to bend round or back, to turn round, to double down}}, {{m|bo|ལྡབ||to fold up, repeat, do again}}.
+
+===Pronunciation===
+{{zh-pron
+|m=dié
+|c=daap6,dip6
+|h=pfs=thia̍p
+|md=tăk/diĕk
+|md_note=tăk - colloquial; diĕk - literary
+|mn=tha̍h/thia̍p
+|mn_note=tha̍h - vernacular, thia̍p - literary
+|w=5diq,5deq
+|mc=y
+|oc=y
+|cat=v,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[fold]]; to [[fold up]]
+# to [[fold]] [[over]] in layers; to [[pile up]]; to be piled up
+# [[pile]]
+# [[layer]]
+# to [[repeat]], to [[duplicate]]
+# to be [[repetitious]]
+
+===Compounds===
+{{zh-der|疊加|疊層|疊層岩|疊層石|疊彩|套疊|層疊|山巒重疊|折疊|積疊|重疊|疊蓆|疊次|疊疊|疊句}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=田17}}
+
+====Readings====
+* {{ja-readings|on=[[じょう]] (jō), [[ちょう]] (chō)|kun=[[たたむ]] (tatamu), [[たたみ]] (tatami), [[かさねる]] (kasaneru)|nanori=}}
+
+===Noun===
+{{ja-noun|たたみ|shin=畳}}
+
+# [[tatami]]
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 疊]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=첩|eumhun=|rv=cheop|mr=ch'ŏp|y=chep}}
+
+# {{defn|lang=ko|sort=田17}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''疊''' ([[điệp]], [[đệp]], [[xếp]])
+
+# {{defn|vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:疊]]
+[[fr:疊]]
+[[li:疊]]
+[[hu:疊]]
+[[mg:疊]]
+[[ja:疊]]
+[[pl:疊]]
+[[th:疊]]
+[[zh:疊]]

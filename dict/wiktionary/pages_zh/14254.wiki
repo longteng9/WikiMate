@@ -1,0 +1,132 @@
+{{character info/new}}
+{{also|壽|夀}}
+==Translingual==
+
+===Etymology===
+{{Han simp|壽}}
+
+===Han character===
+{{Han char|rn=41|rad=寸|as=04|sn=7|four=|canj=QKDI|ids=⿸⿻三丿寸}}
+
+# [[old age]], [[long]] [[life]]
+# [[lifespan]]
+
+====References====
+* {{Han ref|kx=0294.021|dkj=07419|dj=0581.130|hdz=10504.040|uh=5BFF|ud=23551}}
+
+----
+
+==Chinese==
+{{zh-see|壽}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=寸04|style=s|kyu=壽}}
+
+# [[longevity]], [[long]] [[life]]
+# [[congratulations]]
+
+====Readings====
+{{ja-readings
+|goon=[[じゅ]] (ju)
+|kanon=[[しゅう]] (shū) {{non-joyo-reading}}
+|kanyoon=[[す]] (su)
+|kun=[[ことぶき]] (kotobuki), [[ことぶく]] ([[寿く]], kotobuku), [[ことほぐ]] ([[寿ぐ]], kotohogu)
+|nanori=[[かず]] (kazu), [[じ]] (ji), [[じゅう]] (jū) [[すっ]] (sut), [[すみ]] (sumi), [[とし]] (toshi), [[としかつ]] (toshikatsu), [[なが]] (naga), [[のぶ]] (nobu), [[のり]] (nori), [[ひさ]] (hisa), [[ひさし]] (hisashi), [[やす]] (yasu), [[やすし]] (yasushi)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|寿命|じゅみょう}}: life span
+* {{ja-r|頌寿|しょうじゅ}}: [[celebration]] of [[longevity]]
+* {{ja-r|寿司|すし}}: sushi
+* {{ja-r|寿老人|^じゅろうじん}}: God of Longevity
+{{der-mid}}
+* {{ja-r|長寿|ちょうじゅ}}: long life
+* {{ja-r|天寿|てんじゅ}}: natural life span
+* {{ja-r|新年の寿|しんねん の ことぶき}}: New Year's greetings
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|じゅ}}
+The [[新字体#Japanese|shinjitai]], or Japanese simplified form, of {{m|zh|壽}}. From {{etyl|ltc|ja|sort=じゅ}} {{m|zh|壽|tr=dzyuw<sup>X</sup>||longevity}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|じゅ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|じゅ|kyu=壽}}
+
+# [[year]]s of [[age]]
+
+=====Idioms=====
+* {{ja-r|寿を上る|じゅ を たてまつる}}: to [[toast]] someone with a [[prayer]] for [[long]] [[life]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|ことぶき}}
+Nominalization of the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|寿く|tr=kotobuku}}, itself an alteration of earlier root form ''kotohoku'', a compound of {{compound|lang=ja|sort=ことぶき|言|tr1=koto|t1=words, speech|祝く|tr2=hoku|t2=to pray for a good outcome|pos2=obsolete in modern Japanese}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The meaning shifted over time from ''to say something in [[prayer]] for a good outcome'' to a more general ''to say something [[favorable]] in hope for or upon a [[felicitous]] or [[auspicious]] [[occasion]]''. From there, the meaning expanded to include ''long life''.
+
+This ''long life'' meaning was apparently already in use when the kanji was first imported and applied to this word.
+
+====Pronunciation====
+{{ja-pron|yomi=k|ことぶき|acc=2|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ことぶき|kyu=壽}}
+
+# [[congratulations]], [[felicitation]]s
+# something [[worthy]] of [[congratulations]]
+# [[long]] [[life]], [[longevity]]
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|ことほぎ}}
+Nominalization of the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|寿ぐ|tr=kotohogu}}, itself an alteration of earlier root form ''kotohoku'', a compound of {{compound|lang=ja|sort=ことぶき|言|tr1=koto|t1=words, speech|祝く|tr2=hoku|t2=to pray for a good outcome|pos2=obsolete in modern Japanese}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|ことほぎ|acc=4|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ことほぎ|kyu=壽}}
+
+# [[congratulations]], [[felicitation]]s
+# something [[worthy]] of [[congratulations]]
+# [[long]] [[life]], [[longevity]]
+
+=====Usage notes=====
+The ''kotohogi'' reading does not appear to be as common as the ''kotobuki'' reading further above.
+
+===Etymology 4===
+Used as [[ateji]] for various names.
+
+====Proper noun====
+{{ja-pos|proper|ひさし}}
+
+# {{given name|male|lang=ja|sort=ひさし}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[수]]|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=寸04}}
+
+[[fr:寿]]
+[[li:寿]]
+[[hu:寿]]
+[[mg:寿]]
+[[ms:寿]]
+[[ja:寿]]
+[[no:寿]]
+[[pl:寿]]
+[[th:寿]]
+[[zh:寿]]

@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|竈}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=03|sn=7|four=30717|canj=FG|ids=⿰火土}}
+
+====References====
+* {{Han ref|kx=0666.090|dkj=18869|dj=1075.140|hdz=32189.040|uh=7076|ud=28790|bh=A85F|bd=43103}}
+
+----
+
+==Chinese==
+{{zh-forms|t2=竈}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|火|土}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zào
+|c=zou3
+|h=pfs=
+|md=cáu
+|mn=qz:chò͘/xm,zz:chò/qz,tw,xm,zz:chàu
+|mn_note=chò/chò͘ - literary;chàu - vernacular
+|w=2tsau
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[kitchen]] [[range]]
+# [[kitchen]]
+# {{lb|zh|mythology}} [[kitchen]] [[god]]
+
+===Compounds===
+{{zh-der|灶跤|灶前|上灶|丹灶|倒灶|倒灶八字|冷灶|冷灶清鍋|另起爐灶|吃小灶|土灶|媚灶|小灶|廚頭灶腦|拜灶|掌灶的|接灶|插灶|沉灶產蛙|泥灶|添兵減灶|清灰冷灶|減灶|灶丁|灶上的|灶上騷除|灶下|灶下婢|灶下養|灶君|灶地|灶床|灶火|灶王爺|灶神|灶突|灶窩|灶頭|灶馬|煬灶|燒冷灶|爐灶|狗屁倒灶|狗皮倒灶|瓦灶繩床|病灶|祀灶|祀灶日|祭灶|祭灶神|繩床瓦灶|老虎灶|茶灶|落了灶|行灶|趁熱灶|趁熱灶火|趕熱灶|跨灶|跳灶王|送灶|金灶|電磁灶|點灶燈}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火03}}
+
+# {{defn|lang=ja|sort=火03}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[かま]] (kama), [[かまど]] (kamado), [[へつつい]] (hetsutsui)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=火03| hanviet = táo, bếp}}
+
+# {{defn|lang=vi|sort=火03}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=7076 Nom Foundation]
+
+[[zh-min-nan:灶]]
+[[fr:灶]]
+[[hu:灶]]
+[[mg:灶]]
+[[ja:灶]]
+[[no:灶]]
+[[pl:灶]]
+[[th:灶]]
+[[zh:灶]]

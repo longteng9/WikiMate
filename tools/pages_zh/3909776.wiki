@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuáncáiliào
+|c=jyun4 coi4 liu6-2
+|mn=goân-châi-liāu
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[raw]] [[material]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|げん|ざい|りょう|yomi=on}}
+
+===Noun===
+{{ja-noun|げんざいりょう}}
+
+# raw [[material]]s or [[ingredient]]s
+#: {{ja-usex|主要な'''原材料'''は米です。|しゅよう な '''げんざいりょう''' は こめ です。|The principal ingredient is rice.}}
+
+====Synonyms====
+* {{ja-r|原料|げんりょう}}
+* {{ja-r|材料|ざいりょう}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:原材料]]
+[[lo:原材料]]
+[[hu:原材料]]
+[[ja:原材料]]
+[[zh:原材料]]

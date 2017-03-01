@@ -1,0 +1,35 @@
+{{also|还原}}
+==Chinese==
+{{zh-forms|s=还原}}
+
+===Pronunciation===
+{{zh-pron
+|m=huányuán
+|c=waan4 jyun4
+|mn=hoân-goân
+|cat=v,n,a
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[return]] to the original condition or shape; to [[restore]]
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|chemistry}} [[reduction]]
+# {{lb|zh|mathematics}} [[inverse]] [[operation]]
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[recursive]]
+
+===Derived terms===
+{{zh-der|還原劑}}
+
+{{zh-cat|Advanced}}
+
+[[ko:還原]]
+[[hu:還原]]

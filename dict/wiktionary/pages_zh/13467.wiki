@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|攵|夊}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+{{Han etyl}}
+{{liushu|p}} – footprint (pointing down), variant of [[夊]]. Compare [[止]], which has similar form in oracle script, but has leg pointing up, and [[𡕒]] (as in right side of [[舛]], roughly [[ヰ]]), which also has leg pointing down, but toe pointing left, hence different evolutions.
+
+===Han character===
+{{Han char|rn=34|rad=夂|as=00|sn=3|four=|canj=HE,XHE}}
+
+# [[go]] or [[walk]] [[slowly]]
+# {{mul-kangxi radical-def}}
+
+====Related characters====
+* [[夅]] [[舛]] [[夃]]
+
+====References====
+* {{Han ref|kx=0244.170|dkj=05691|dj=0484.220|hdz=20867.150|uh=5902|ud=22786}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chǔ,zhǐ
+|c=gau2,zi1
+|h=pfs=chí
+|mn=tí
+|w=
+|mc=y
+|oc=
+|ma=|ma2=
+|cat=v
+}}
+
+====Usage notes====
+: {{lb|cmn|archaic}} of [[終]]
+This character is easily confused with 夊 sui1, however this character means to catch up with someone from behind. (See Gao Shu-fan, 形音義綜合大字典.)
+
+====References====
+* [http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=9|rs=夂00}}
+
+# {{defn|lang=ja|sort=夂00}}
+
+====Readings====
+* {{ja-readings|on=[[ち]] (chi), [[しゅう]] (shū), [[しゅ]] (shu)|kun=[[おくれる]] (okureru)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[truy]]|rs=夂00}}
+
+# {{defn|lang=vi|sort=夂00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:夂]]
+[[ko:夂]]
+[[hu:夂]]
+[[ja:夂]]
+[[pl:夂]]
+[[ru:夂]]
+[[th:夂]]
+[[zh:夂]]

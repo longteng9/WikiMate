@@ -1,0 +1,90 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=08|sn=11|four=44600|canj=TWHD|ids=⿱艹囷}}
+
+====See also====
+* {{l|ja|圥}}
+
+====References====
+* {{Han ref|kx=1037.140|dkj=31156|dj=1495.230|hdz=53234.090|uh=83CC|ud=33740|bh=B5DF|bd=46559}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=菌
+|c=kwan2
+|mn=khún
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[mushroom]], [[fungus]], [[mold]], [[mildew]], [[toadstool]], [[yeast]]
+# [[germ]], [[microbe]]
+
+====Compounds====
+* {{zh-l|細菌}}
+* {{zh-l|黴菌}}
+* {{zh-l|菌類}}
+* {{zh-l|真菌}}
+* {{zh-l|羊肚菌|tr=yángdùjùn}}
+
+====References====
+* {{qualifier|Min Nan}} [http://twblg.dict.edu.tw/holodict_new/default.jsp Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=艸08}}
+
+# {{defn|lang=ja|sort=艸08}}
+
+====Readings====
+* {{ja-readings|goon=[[ごん]] (gon)|kanon=[[きん]] (kin)|kun=[[きのこ]] (kinoko)}}
+
+====Compounds====
+* {{ja-r|細菌|さいきん}}: [[bacterium]], [[germ]]
+* {{ja-r|納豆菌|なっとう きん}}: ''Bacillus subtilis'' var. ''natto''
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[균]]|eumhun=|rv=gyun|mr=kyun|y=kyun}}
+
+# {{defn|lang=ko|sort=艸08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|khuẩn|rs=艸08}}
+
+# {{defn|lang=vi|sort=艸08}}
+
+[[fr:菌]]
+[[ko:菌]]
+[[hu:菌]]
+[[mg:菌]]
+[[ja:菌]]
+[[no:菌]]
+[[pl:菌]]
+[[ru:菌]]
+[[th:菌]]
+[[zh:菌]]

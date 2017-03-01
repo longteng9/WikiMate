@@ -1,0 +1,47 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=09|sn=12|four=|canj=ROHF|ids=⿰口係}}
+
+====References====
+* {{Han ref|kx=0201.121|hdz=10657.021|uh=55BA|ud=21946}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=*o係-Internet,匸}}
+
+===Pronunciation===
+{{zh-pron
+|c=hai2
+|cat=adv,prep,v
+}}
+
+===Definitions===
+{{zh-hanzi}} {{tlb|zh|Cantonese}}
+
+# be ...[[-ing]]; in the middle of doing something {{gloss|indicating an action in progress}}
+# (located) [[in]]; [[at]]; [[within]]
+#: {{zh-x|喺 架 車 入便|inside the car|C}}
+# {{lb|zh|temporal}} [[in]]
+#: {{zh-x|喺 @2012|in 2012|C}}
+# {{lb|zh|figurative}} [[within]]; [[in]]
+#: {{zh-x|喺 中文|within the Chinese language/in the Chinese language|C}}
+# to [[exist]]; to [[be]] (located)
+#: {{zh-x|我 而家 喺 香港。|I am in Hong Kong now.|C-GZ|tr=ngo5 ji4 gaa1 '''hai2''' hoeng1 gong2.}}
+
+====Synonyms====
+{{zh-dial|在}}
+
+====Usage notes====
+* Not to be confused with {{zh-l|係|hai6|to be}}.
+
+===Compounds===
+{{zh-der|喺處|喺度}}
+
+[[fr:喺]]
+[[mg:喺]]
+[[pl:喺]]
+[[th:喺]]
+[[zh:喺]]

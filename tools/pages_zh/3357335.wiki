@@ -1,0 +1,18 @@
+==Japanese==
+{{ja-kanjitab|じょ|せん|yomi=on}}
+
+===Noun===
+{{ja-noun|じょせん}}
+
+# [[decontamination]], especially of radioactive or chemical contamination
+#: {{ja-usex|原発事故で広がった放射性物質を取り除く'''除染'''|げんぱつ じこ で ひろがった ほうしゃせい ぶっしつ を とりのぞく '''じょせん'''|the decontamination to remove radioactive materials spread by the nuclear accident}}
+
+===Verb===
+{{ja-verb-suru|じょせん}}
+
+# [[decontaminate]]
+
+====Conjugation====
+{{ja-suru|じょせん}}
+
+[[hu:除染]]

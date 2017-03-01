@@ -1,0 +1,35 @@
+{{also|假定}}
+==Japanese==
+{{ja-kanjitab|か|てい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|かてい|acc=h|acc_ref=DJR,NHK,SMK5|y=ko}}
+
+===Noun===
+{{ja-noun|かてい|kyu=假定}}
+
+# [[assumption]]
+
+===Verb===
+{{ja-verb-suru|かてい}}
+
+# to [[suppose]]; to [[assume]]
+#: {{ja-usex|距離が１キロメートルであると'''仮定'''してみよう。|きょり が いち キロメートル で ある と '''かてい''' して みよう。|Suppose the distance to be one kilometer.}}
+
+====Conjugation====
+{{ja-suru|かてい}}
+
+===Descendants===
+* Chinese: {{zh-l|假定}}
+* Korean: {{ko-l|가정}}
+* Vietnamese: {{vi-l|giả định}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[hu:仮定]]
+[[mg:仮定]]
+[[ja:仮定]]
+[[chr:仮定]]
+[[zh:仮定]]

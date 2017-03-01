@@ -1,0 +1,29 @@
+{{also|被除数}}
+==Chinese==
+{{zh-forms|s=被除数}}
+
+===Pronunciation===
+{{zh-pron
+|m=bèichúshù
+|c=bei6 ceoi4 sou3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[dividend]] {{gloss|а number that is to be divided by another}}
+
+{{zh-cat|Arithmetic}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=피제수}}
+
+# {{hanja form of|피제수|[[dividend]] {{gloss|а number that is to be divided by another}}}}
+
+[[ru:被除數]]

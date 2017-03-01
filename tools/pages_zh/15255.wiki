@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|髴|佛}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=60|rad=彳|as=05|sn=8|four=25227|canj=HOLLN|ids=⿰彳弗}}
+
+# [[resembling]], [[like]], [[as if]]
+
+====References====
+* {{Han ref|kx=0365.300|dkj=10071|dj=0685.210|hdz=20817.080|uh=5F7F|ud=24447|bh=A9BB|bd=43451}}
+
+----
+
+==Chinese==
+{{zh-forms|s=佛}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fú
+|c=fat1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-only|彷彿}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=彳05}}
+
+# {{defn|lang=ja|sort=彳05}}
+
+====Readings====
+* {{ja-readings|on=[[ふつ]] (futsu), [[ふち]] (fuchi)|kun=[[にかよう]] (nikayou), [[ほのか]] (honoka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=불|eumhun=|rv=bul|mr=pul|y=pul}}
+
+# {{defn|lang=ko|sort=彳05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=彳05|hanviet=phớt}}
+
+# {{defn|lang=vi|sort=彳05}}
+
+[[fr:彿]]
+[[hu:彿]]
+[[ja:彿]]
+[[pl:彿]]
+[[th:彿]]
+[[zh:彿]]

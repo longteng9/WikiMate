@@ -1,0 +1,103 @@
+{{character info/new}}
+{{also|鸢}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=03|sn=14|four=43327|canj=IPHAF}}
+
+# [[kite]]
+
+====References====
+* {{Han ref|kx=1482.200|dkj=46674|dj=2015.020|hdz=74615.130|uh=9CF6|ud=40182|bh=BBF0|bd=48112}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鸢}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuān
+|c=jyun1,jyun4
+|h=pfs=yên
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|木鳶|魚躍鳶飛|鳶形|紙鳶|鳶飛魚躍|鳶尾|鳶飛戾天|跕鳶之悟}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鳥03}}
+
+# [[kite]]
+
+====Readings====
+* {{ja-readings|goon=[[えん]] (en)|kanon=[[えん]] (en)|kun=[[とび]] (tobi), [[とんび]] (tonbi)}}
+
+[[file:Milvus migrans 2005.jpg|thumb|right|200px|{{lang|ja|鳶}}]]
+{{ja-kanjitab|yomi=k}}
+{{wikipedia|lang=ja|トビ}}
+{{wikipedia|lang=ja|トビ類}}
+
+===Alternative forms===
+* {{ja-l|鴟}}
+* {{ja-l|鵄}}
+
+===Etymology===
+Perhaps from {{m|ja|飛び|tr=tobi||[[flying]]}}
+
+===Pronunciation===
+{{ja-pron|とび|y=k|acc=1}}
+* {{hmp|lang=ja|酴釄}}
+
+===Noun===
+{{ja-noun|とび|トビ}}
+
+# a [[black kite]]
+
+{{C|ja|Birds of prey|sort=とび}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=연|mr=yŏn|y=yen}}
+
+# {{defn|lang=ko|sort=鳥03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[diên]], [[diều]]|rs=鳥03}}
+
+# {{defn|lang=vi|sort=鳥03}}
+
+[[fr:鳶]]
+[[ko:鳶]]
+[[lo:鳶]]
+[[lt:鳶]]
+[[mg:鳶]]
+[[ja:鳶]]
+[[pl:鳶]]
+[[ro:鳶]]
+[[sv:鳶]]
+[[th:鳶]]
+[[chr:鳶]]
+[[zh:鳶]]

@@ -1,0 +1,99 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=06|sn=9|four=40248|canj=KHYCK|ids=⿰犭交}}
+
+# [[cunning]], [[deceitful]], [[treacherous]]
+
+====References====
+* {{Han ref|kx=0710.050|dkj=20365|dj=1122.110|hdz=21345.090|uh=72E1|ud=29409|bh=ACBE|bd=44222}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiǎo
+|c=gaau2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|刁狡|三窟狡兔|奸狡|狡飾|狡辯|狡獪|狡猾多詐|狡詐|狡計|狡蠹|狡童|狡猾|狡憤|狡兔三窟|狡黠|朦狡|狡賴}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=犬06}}
+
+# [[sly]], [[cunning]], [[sneaky]]
+
+====Readings====
+{{ja-readings|goon=[[きょう]] (kyō)|kanon=[[こう]] (kō)|kun=[[ずるい]] (zurui), [[こすい]] (kosui), [[わるがしこ]] (warugashiko)}}
+
+====Compounds====
+* {{ja-r|狡佞|こうねい}}
+* {{ja-r|狡兎|こうと}}
+* {{ja-r|狡知|こうち}}
+* {{ja-r|狡猾|こうかつ}}
+* {{ja-r|狡獪|こうかい}}
+* {{ja-r|狡童|こうどう}}
+* {{ja-r|狡計|こうけい}}
+* {{ja-r|狡賢い|ずるがしこい}}
+* {{ja-r|狡辛い|こすからい}}
+
+{{ja-kanjitab|ずる|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|ずる|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ずる}}
+
+# [[slyness]], [[sly]] act, [[sly]] person
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=교|eumhun=|rv=gyo|mr=kyo|y=kyo}}
+
+# {{defn|lang=ko|sort=犬06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[giảo]], [[sinh]], [[xảo]]|rs=犬06}}
+
+# {{defn|lang=vi|sort=犬06}}
+
+[[fr:狡]]
+[[ko:狡]]
+[[hu:狡]]
+[[mg:狡]]
+[[ja:狡]]
+[[no:狡]]
+[[pl:狡]]
+[[th:狡]]
+[[zh:狡]]

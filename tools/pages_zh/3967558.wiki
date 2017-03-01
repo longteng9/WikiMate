@@ -1,0 +1,118 @@
+{{also|见闻}}
+==Chinese==
+{{zh-forms|s=见闻}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiànwén
+|c=gin3 man6
+|mn=kiàn-bûn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# what one has seen and heard; [[personal]] [[experience]]; [[knowledge]]; [[information]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|けん|ぶん|yomi=on}}
+Appears to be a Japanese coinage from {{etyl|zhx|ja|sort=けんぶん}} components, as a compound of {{compound|lang=ja|sort=けんぶん|見|tr1=ken|t1=seeing|聞|tr2=bun|t2=hearing}}.
+
+====Pronunciation====
+{{ja-pron|けんぶん|y=o|acc=h|acc_ref=NHK}}
+
+====Noun====
+{{ja-noun|けんぶん}}
+
+# [[looking]] and [[listening]], [[seeing]] and [[hearing]]
+# [[experience]], [[knowledge]], what one has [[seen]] and [[heard]]
+#: {{ja-usex|'''見聞'''を広める|'''けんぶん''' を ひろめる|to broaden one's '''experience''' or '''knowledge'''}}
+
+=====Derived terms=====
+* {{ja-l|見聞記|けんぶんき|kenbunki}}: a [[record]] of [[personal]] experiences
+* {{ja-l|見聞録|けんぶんろく|kenbunroku}}: a [[record]] of [[personal]] experiences
+
+=====Synonyms=====
+* {{sense|looking and listening}} {{ja-l|見聞き|みきき|mikiki}}
+* {{sense|experience in general}} {{ja-l|経験|けいけん|keiken}}
+* {{sense|a specific experience}} {{ja-l|体験|たいけん|taiken}}
+
+====Verb====
+{{ja-verb-suru|tr=trans|けんぶん}}
+
+# to [[observe]], to [[experience]], to [[see]] and [[hear]]
+
+=====Conjugation=====
+{{ja-suru|けんぶん}}
+
+=====Synonyms=====
+* {{sense|to look and listen}} {{ja-l|見聞き|みきき|mikiki}}
+* {{sense|to experience in general}} {{ja-l|経験|けいけん|keiken}}
+* {{sense|to have a specific experience}} {{ja-l|体験|たいけん|taiken}}
+
+===Etymology 2===
+{{ja-kanjitab|けん|もん|yomi=on}}
+Alteration from ''kenbun'', using the [[呉音#Japanese|go'on]] reading for {{ja-l|聞}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|けんもん|y=o}}
+
+====Noun====
+{{ja-noun|けんもん}}
+
+# [[looking]] and [[listening]], [[seeing]] and [[hearing]]
+# [[experience]], [[knowledge]], what one has [[seen]] and [[heard]]
+
+=====Derived terms=====
+* {{ja-l|見聞覚知|けんもんかくち|kenmon kakuchi}}: {{qualifier|Buddhism}} [[seeing]] and [[hearing]] and [[remembering]] and [[knowing]]: the six forms of [[awareness]] (the [[five senses]] plus the mind)
+* {{ja-l|見聞衆|けんもんしゅ|kenmonshu}}: a [[spectator]], an [[onlooker]], someone [[watching]] and [[listening]]
+
+===Etymology 3===
+{{ja-kanjitab|み|き|sort=みきき|yomi=kun}}
+Compound of {{compound|lang=ja|sort=みきき|見|tr1=mi|t1=seeing|pos1=the {{m|ja|連用形|tr=ren'yōkei||stem form}} of {{ja-l|見る}} ''miru'' “to see”|聞き|tr2=kiki|t2=hearing|pos2=the {{m|ja|連用形|tr=ren'yōkei||stem form}} of {{ja-l|聞く}} ''kiku'' “to hear”}}.<ref name="KDJ"/>
+
+====Pronunciation====
+{{ja-pron|みきき|y=k|acc=a|dev=2|acc_ref=NHK}}
+
+====Alternative forms====
+* {{ja-l|見聞き}}
+
+====Usage notes====
+The {{ja-l|見聞き}} spelling with the [[okurigana]] is more common for this reading.
+
+{{ja-kun-vs-on}}
+
+====Noun====
+{{ja-noun|みきき}}
+
+# {{alternative spelling of|lang=ja|sort=みきき|見聞き|dot=:}} [[looking]] and [[listening]], [[seeing]] and [[hearing]]
+# {{alternative spelling of|lang=ja|sort=みきき|見聞き|dot=:}} [[experience]], [[knowledge]], what one has [[seen]] and [[heard]]
+
+=====Synonyms=====
+* {{sense|experience in general}} {{ja-l|経験|けいけん|keiken}}
+* {{sense|a specific experience}} {{ja-l|体験|たいけん|taiken}}
+
+====Verb====
+{{ja-verb-suru|みきき|tr=trans}}
+
+# {{alternative spelling of|lang=ja|sort=みきき|見聞き|dot=:}} to [[look]] and [[listen]], to [[observe]], to [[experience]]
+
+=====Conjugation=====
+{{ja-suru|みきき}}
+
+=====Synonyms=====
+* {{sense|to experience in general}} {{ja-l|経験|けいけん|keiken}}
+* {{sense|to have a specific experience}} {{ja-l|体験|たいけん|taiken}}
+
+===References===
+<references/>
+
+[[ko:見聞]]
+[[hu:見聞]]
+[[ja:見聞]]
+[[zh:見聞]]

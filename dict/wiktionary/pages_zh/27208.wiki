@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|哗}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=10|sn=17|four=04654|canj=YRTMJ|ids=⿰言華}}
+
+# [[noise]], [[uproar]]
+# [[clamor]], [[hubbub]]
+
+====References====
+* {{Han ref|kx=1179.210|dkj=35928|dj=1643.220|hdz=64016.110|uh=8B41|ud=35649|bh=C3CF|bd=50127}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+{{attention|zh|→嘩? or ←嘩?}}
+
+===Pronunciation===
+{{zh-pron
+|m=wá
+|c=waa1
+|mn=hōa
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|喧譁|語笑喧譁|諠譁|譁世取寵|譁噪|譁囂|譁然|譁眾取寵|譁笑|譁變|譁釦}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言10}}
+
+# {{defn|lang=ja|sort=言10}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka), [[が]] (ga), [[け]] (ke)|kun=[[かまびすし]] (kamabisushi), [[かわる]] (kawaru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=화|eumhun=시끄러울|rv=hwa|mr=hwa|y=hwa}}
+
+# {{defn|lang=ko|sort=言10}}
+
+[[fr:譁]]
+[[hu:譁]]
+[[mg:譁]]
+[[ja:譁]]
+[[pl:譁]]
+[[th:譁]]
+[[zh:譁]]

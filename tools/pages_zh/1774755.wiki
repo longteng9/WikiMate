@@ -1,0 +1,36 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Railroad crossing}}
+[[File:Ippommatsu Station level crossing 20140414.JPG|thumb|250px|{{lang|ja|踏切}} (''fumikiri''): a '''[[railroad crossing]]'''.]]
+</div>
+{{ja-kanjitab|ふ|o1=み|き|o2=り|yomi=kun}}
+
+===Etymology===
+From {{m|ja|踏む|sc=Jpan}} (''fumu'', "step on," "tread on," "stamp") + {{m|ja|切る|sc=Jpan}} (''kiru'', "perform an action as if by cutting")
+
+===Pronunciation===
+* {{ja-pron|ふみきり|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ふみきり}}
+
+# [[railroad crossing]]
+
+====Alternative forms====
+* {{l|ja|踏切}} is the most common form
+* {{l|ja|踏み切り}}: next most common
+* {{l|ja|踏切り}}
+* {{l|ja|踏み切}}: least common
+
+====Derived terms====
+* {{l|ja|踏切番}} (''fumikiriban''): gatekeeper crossing guard
+* {{l|ja|無人踏切}} (''mujin fumikiri''): unstaffed railway crossing
+
+===References===
+<references/>
+
+[[fr:踏切]]
+[[mg:踏切]]
+[[chr:踏切]]
+[[zh:踏切]]

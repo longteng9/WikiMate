@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|ひ|じん|どう|てき|yomi=on}}
+
+===Etymology===
+{{prefix|非|人道的|lang=ja|t1=in-|t2=humane|sort=しんどうてき'}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|ひじんどうてき}}
+
+# [[inhumane]]
+
+====Antonyms====
+* {{ja-r|人道的|じんどうてき}}: [[humane]]
+
+====Inflection====
+{{ja-na|ひじんどうてき}}
+
+===References===
+* {{R:Kojien}}
+
+[[ko:非人道的]]
+[[hu:非人道的]]

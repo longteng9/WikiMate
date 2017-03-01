@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|擔}}
+==Translingual==
+
+===Etymology===
+{{Han simp|擔|f=詹|t=旦}}.
+
+In current form {{Han compound|手|alt1=扌|t1=hand|旦|ls=psc|c1=s|c2=p}} – to carry by hand, bear a burden.
+
+===Han character===
+{{Han char|rn=64|rad=手|as=05|sn=8|four=|canj=QAM|ids=⿰扌旦}}
+
+====References====
+* {{Han ref|kx=0424.190|dkj=11941|dj=0772.150|hdz=31851.040|uh=62C5|ud=25285}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|擔}}
+
+===Etymology 2===
+{{zh-see|撣|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=手05}}
+
+# [[shouldering]]
+# [[carry]]
+# [[raise]]
+# [[bear]]
+
+====Readings====
+* {{ja-readings|on=[[たん]] (tan)|kun=[[になう]] (ninau), [[かつぐ]] (katsugu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=단|eumhun=|rv=dan|mr=tan|y=tan}}
+
+# {{defn|lang=ko|sort=手05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đam]], [[đảm]], [[đẵn]], [[đắn]], [[đẵm]], [[tạ]]|rs=手05}}
+
+# {{defn|lang=vi|sort=手05}}
+
+[[fr:担]]
+[[ko:担]]
+[[hu:担]]
+[[mg:担]]
+[[ja:担]]
+[[no:担]]
+[[pl:担]]
+[[th:担]]
+[[zh:担]]

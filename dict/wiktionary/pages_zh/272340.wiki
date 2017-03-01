@@ -1,0 +1,102 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhēnmiànmù
+|c=zan1 min6 muk6
+|mn=chin-bīn-bo̍k
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|idiomatic|often|pejorative}} [[true colors]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|sort=まじめ}}
+The kanji spelling is an example of {{ateji|sort=まじめ}}.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|まじめ|acc=0|acc_ref=DJR}}
+
+====Adjectival noun====
+{{ja-adj|decl=na|まじめ}}
+
+# [[serious]], [[earnest]]
+#: {{ja-usex|真面目にやれ！|まじめ に やれ！|Do it seriously!}}
+# [[honest]]
+
+=====Inflection=====
+{{ja-na|まじめ}}
+
+====Noun====
+{{ja-noun|まじめ}}
+
+# [[seriousness]]
+# [[honesty]]
+
+=====Antonyms=====
+* {{ja-r|不真面目|ふまじめ}}
+
+=====Derived terms=====
+* {{ja-r|生真面目|きまじめ}}
+
+===Etymology 2===
+{{ja-kanjitab|しん|めん|もく|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|しんめんもく|acc=3|acc_ref=DJR}}
+
+====Adjectival noun====
+{{ja-adj|decl=na|しんめんもく}}
+
+# [[actual]]
+# [[sincere]]
+
+=====Inflection=====
+{{ja-na|しんめんもく}}
+
+====Noun====
+{{ja-noun|しんめんもく}}
+
+# [[actual]] [[value]]
+# [[sincerity]]
+
+===Etymology 3===
+{{ja-kanjitab|しん|めん|ぼく|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|しんめんぼく|acc=3|acc_ref=DJR}}
+
+====Adjectival noun====
+{{ja-adj|decl=na|しんめんぼく}}
+
+# [[actual]]
+# [[sincere]]
+
+=====Inflection=====
+{{ja-na|しんめんぼく}}
+
+====Noun====
+{{ja-noun|しんめんぼく}}
+
+# [[actual]] [[value]]
+# [[sincerity]]
+
+===References===
+<references/>
+
+[[fr:真面目]]
+[[ko:真面目]]
+[[hu:真面目]]
+[[mg:真面目]]
+[[ja:真面目]]
+[[ru:真面目]]
+[[chr:真面目]]
+[[zh:真面目]]

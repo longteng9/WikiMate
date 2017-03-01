@@ -1,0 +1,38 @@
+==Japanese==
+{{ja-kanjitab|さい|あく|yomi=on}}
+
+===Etymology===
+{{prefix|最|悪|tr1=sai|t1=most|tr2=aku|t2=bad|lang=ja}}
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[sa̠.i.a̠.kɯᵝ]}}
+* {{ja-accent-common|h|サ|イアク}}<ref>{{R:NHK Hatsuon}}</ref>
+
+===Adjectival noun===
+{{ja-adj|infl=na|さいあく}}
+
+# the [[worst]]
+
+====Inflection====
+{{ja-na|さいあく}}
+
+====Derived terms====
+{{der-top}}
+Uncommon
+* {{ja-l|最悪期|さいあくき|saiaku-ki}} ''n.'' worst period of time
+* {{ja-l|最悪の場合|saiaku no baai}} ''expr.'' worst case
+{{der-bottom}}
+
+===Noun===
+{{ja-noun|さいあく}}
+
+# the worst
+
+===References===
+<references />
+
+[[lt:最悪]]
+[[mg:最悪]]
+[[chr:最悪]]
+[[zh:最悪]]

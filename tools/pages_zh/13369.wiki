@@ -1,0 +1,63 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han compound|土|菐|c1=s|c2=p|t1=earth|ls=psc}}
+
+===Han character===
+{{Han char|rn=32|rad=土|as=12|sn=15|four=42135|canj=GTCO|ids=⿰土菐}}
+
+# [[clod]] of [[earth]], [[lump]] of earth
+
+====References====
+* {{Han ref|kx=0238.350|dkj=05464|dj=0477.200|hdz=10486.180|uh=58A3|ud=22691|bh=E54E|bd=58702}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=pú
+|c=pok3
+|mn=phok
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土12}}
+
+# {{defn|lang=ja|sort=土12}}
+
+====Readings====
+* {{ja-readings|on=[[はく]] (haku), [[ほく]] (hoku)|kun=[[ついくれ]] (tsuikure)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=복|rv=bok|mr=pok}}
+
+# {{defn|lang=ko|sort=土12}}
+
+[[fr:墣]]
+[[ko:墣]]
+[[li:墣]]
+[[hu:墣]]
+[[pl:墣]]
+[[th:墣]]
+[[zh:墣]]

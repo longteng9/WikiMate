@@ -1,0 +1,49 @@
+{{also|煽动}}
+==Chinese==
+{{zh-forms|s=煽动}}
+
+===Pronunciation===
+{{zh-pron
+|m=shāndòng
+|c=sin3 dung6
+|h=pfs=san-thung
+|mn=siàn-tōng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[incite]]; to [[instigate]]; to [[provoke]]
+
+====Synonyms====
+* {{zh-l|扇動}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せん|どう|yomi=o}}
+
+===Alternative forms===
+* [[扇動]]
+
+===Etymology===
+From [[煽ぐ]] ([[あおぐ]], ''[[agitate]]'') + [[動かす]] ([[うごかす]], ''[[move]]'')
+
+===Noun===
+{{ja-noun|せんどう}}
+
+# [[incitement]], [[sedition]], [[agitation]], [[abetting]]
+# [[demagogue]]
+
+===Verb===
+{{ja-verb-suru|せんどう}}
+
+# to [[abet]], to [[incite]], to [[instigate]], to [[agitate]]
+
+====Conjugation====
+{{ja-suru|せんどう}}
+
+[[zh-min-nan:煽動]]
+[[ko:煽動]]
+[[mg:煽動]]

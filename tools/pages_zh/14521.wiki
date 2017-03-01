@@ -1,0 +1,61 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=06|sn=9|four=|canj=UBMR,XUBMR|ids=⿱山同}}
+
+# [[mountain]] in [[Gansu]] [[province]]
+
+====References====
+* {{Han ref|kx=0311.050|dkj=08039|hdz=10770.110|uh=5CDD|ud=23773}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=[[tung4]], [[dung6]]|y=tung4, dung6}}
+
+# {{defn|lang=yue|sort=山06}}
+
+====References====
+* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 99]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山06}}
+
+# {{defn|lang=ja|sort=山06}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō), [[ず]] (zu)|kun=[[えびす]] (ebisu)}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[tóng]] ([[tong2]])|wg=t'ung<sup>2</sup>}}
+
+# {{defn|lang=cmn|sort=山06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=山06|hanviet=[[động]], [[đỗng]]}}
+
+# {{defn|lang=vi|sort=山06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5cdd Nom Foundation]
+
+[[fr:峝]]
+[[hu:峝]]
+[[pl:峝]]
+[[th:峝]]
+[[zh:峝]]

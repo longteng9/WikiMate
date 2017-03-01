@@ -1,0 +1,101 @@
+{{character info/new}}
+{{also|ㄅ|冖}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=20|rad=勹|as=00|sn=2|four=|canj=HS,XHS}}
+
+# [[wrap]]
+# {{mul-kangxi radical-def}}
+
+====Derived characters====
+* [[Index:Chinese radical/勹]]
+* [[句]] [[旬]]
+
+====Descendants====
+* [[ㄅ]]
+
+====References====
+* {{Han ref|kx=0150.180|dkj=02493|dj=0339.060|hdz=10254.130|uh=52F9|ud=21241}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+
+===Pronunciation===
+{{zh-pron
+|m=bāo
+|c=baau1
+|h=pfs=pau
+|mn=pau
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{defn|Han|sort=勹00}}
+
+====References====
+* [http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
+* [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=30753&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=勹00}}
+
+# wrap
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō)|kun=[[つつむ]] (tsutsumu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=포|rv=po|mr=p'o}}
+
+# {{defn|lang=ko|sort=勹00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=勹00}}
+
+====Readings====
+* [[音読|âm]]: {{l|vi|bao}}, {{l|vi|câu}}
+* [[意義|nghĩa]] (''literal meaning''): {{l|vi|bao}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=52f9 Nôm Foundation]
+* [http://www.vietdictionary.com Viet Dictionary]
+
+[[Category:CJKV radicals| ]]
+
+[[fr:勹]]
+[[ko:勹]]
+[[hu:勹]]
+[[mg:勹]]
+[[ms:勹]]
+[[ja:勹]]
+[[pl:勹]]
+[[ru:勹]]
+[[ta:勹]]
+[[th:勹]]
+[[vi:勹]]
+[[zh:勹]]

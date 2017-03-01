@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=11|sn=14|four=34121|canj=EKHR|ids=⿰氵猗}}
+
+# [[ripple]]s on [[water]]
+# [[swirling]]
+
+====References====
+* {{Han ref|kx=0646.300|dkj=18164|dj=1056.090|hdz=31727.020|uh=6F2A|ud=28458|bh=BAAC|bd=47788}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yī
+|c=ji1,ji2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|淪漪|漣漪|漪漣}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=水11}}
+
+# [[ripple]]
+
+====Readings====
+{{ja-readings|goon=[[い]] (i)|kanon=[[い]] (i)|kun=[[なみ]] (nami)}}
+
+====Compounds====
+* {{ja-r|漣漪|れんい|[[ripple]]}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=의|eumhun=|rv=ui|mr=ŭi|y=uy}}
+
+# {{defn|lang=ko|sort=水11}}
+
+[[fr:漪]]
+[[hu:漪]]
+[[mg:漪]]
+[[pl:漪]]
+[[th:漪]]
+[[vi:漪]]
+[[zh:漪]]

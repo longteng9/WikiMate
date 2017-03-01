@@ -1,0 +1,43 @@
+{{also|内接圆|内接円}}
+==Chinese==
+{{zh-forms|s=内接圆}}
+
+===Pronunciation===
+{{zh-pron
+|m=nèijiēyuán
+|c=noi6 zip3 jyun4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|geometry}} an [[incircle]]
+
+====Synonyms====
+* {{zh-l|內切圓}}
+
+===See also===
+* {{zh-l|外接圓}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ない|せつ|えん|yomi=o}}
+
+===Noun===
+{{ja-noun|ないせつえん|hhira=ないせつゑん|shin=内接円}}
+
+# {{kyujitai spelling of|内接円}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=내접원|mr=naejŏbwŏn|y=nāycep.wen}}
+
+# {{hanja form of|내접원|[[incircle]]}}
+
+[[ko:內接圓]]

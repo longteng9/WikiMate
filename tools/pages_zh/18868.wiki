@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=06|sn=9|four=36100|canj=EHBU|ids=⿰氵自}}
+
+# [[until]], [[till]]{{rfv-sense}}
+# [[when]]
+# [[soup]]
+# to [[soak]]
+# [[pour]] [[water]] into a [[pot]]
+# to [[arrive]], [[reach]]
+
+====References====
+* {{Han ref|kx=0619.340|dkj=17369|dj=1015.050|hdz=31610.050|uh=6D0E|ud=27918|bh=ACAD|bd=44205}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jì
+|c=gei3,gei6
+|mc=y
+|oc=y
+|ma=
+|cat=prep,n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水06}}
+
+# {{defn|lang=ja|sort=水06}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki), [[ぎ]] (gi)|kun=[[そそぐ]] (sosogu)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水06| hanviet = kíp}}
+
+# {{defn|lang=vi|sort=水06}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6d0e Nom Foundation]
+
+[[fr:洎]]
+[[hu:洎]]
+[[mg:洎]]
+[[pl:洎]]
+[[th:洎]]
+[[zh:洎]]

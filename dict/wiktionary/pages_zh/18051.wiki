@@ -1,0 +1,95 @@
+{{character info/new}}
+{{also|标}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=11|sn=15|four=41991|canj=DMWF|ids=⿰木票}}
+
+# [[mark]], [[symbol]], [[label]], [[sign]]
+# [[standard]]
+
+====References====
+* {{Han ref|kx=0550.120|dkj=15442|dj=0938.070|hdz=21277.010|uh=6A19|ud=27161|bh=BCD0|bd=48336}}
+
+----
+
+==Chinese==
+{{zh-forms|s=标}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|票|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=biāo
+|m-s=biao1
+|c=biu1
+|h=pfs=pêu/phêu
+|mn=pio/piau/phiau
+|mn_note=pio - vernacular, piau, phiau - literary
+|mc=y
+|oc=y
+|ma=Zh-biao.ogg
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|標記|標牌|貼標機|標準}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=木11}}
+
+# {{defn|lang=ja|sort=木11}}
+
+====Readings====
+* {{ja-readings|goon=[[ひょう]] (hyō)|kanon=[[ひょう]] (hyō)|kun=[[こずえ]] (kozue), [[すえ]] (sue), [[しるし]] (shirushi)}}
+
+====Compounds====
+* {{ja-r|標識|ひょうしき}}
+* {{ja-r|標準|ひょうじゅん}}
+* {{ja-r|目標|もくひょう}}
+* {{ja-r|道標|どうひょう}}
+* {{ja-r|標語|ひょうご}}
+
+===Noun===
+{{ja-noun|しるし}}
+
+# {{alternative form of|印|lang=ja|sort=しるし}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=표|eumhun=|rv=pyo|mr=p'yo|y=phyo}}
+
+# {{defn|lang=ko|sort=木11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bêu]], [[nêu]], [[tiêu]], [[têu]]|rs=木11}}
+
+# {{defn|lang=vi|sort=木11}}
+
+[[zh-min-nan:標]]
+[[fr:標]]
+[[ko:標]]
+[[hu:標]]
+[[mg:標]]
+[[ja:標]]
+[[pl:標]]
+[[th:標]]
+[[zh:標]]

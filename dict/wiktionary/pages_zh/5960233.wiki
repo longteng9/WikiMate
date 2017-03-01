@@ -1,0 +1,19 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Etymology===
+A Mandarin homophone play on {{zh-l|程序員|programmer}}, using {{zh-l|猿|ape}}, i.e. “program ape”.
+
+===Pronunciation===
+{{zh-pron
+|m=chéngxùyuán
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|neologism|humorous}} [[programmer]]; [[coder]]
+
+===See also===
+* {{zh-l|碼農}}

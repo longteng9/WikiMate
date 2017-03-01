@@ -1,0 +1,47 @@
+==Japanese==
+{{ja-kanjitab|たい|へん|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|たいへん}}
+
+# [[difficult]], [[hard]]
+#: {{ja-usex|それは大変ですね。|それ は たいへん です ね。|I'm sorry. That's tough.}}
+# [[terrible]]
+# [[serious]], [[grave]]
+
+====Usage notes====
+The sense of "difficult" is commonly used in conversation to empathize with someone else's troubles.
+
+====Inflection====
+{{ja-na|たいへん}}
+
+====See also====
+* {{ja-r|難しい|むずかしい}}
+
+===Adverb===
+{{ja-pos|たいへん|adverb}}
+
+# [[very]], [[greatly]]
+#* {{RQ:Botchan}}:
+#*: {{ja-usex|何だか'''大変'''小さく見えた。|なんだか '''たいへん''' ちいさく みえた。|She looked very small.}}
+
+===Noun===
+{{ja-noun|たいへん}}
+
+# [[disaster]]
+# [[difficulty]]
+# [[dreadfulness]]
+
+[[Category:Japanese basic words]]
+
+[[fr:大変]]
+[[it:大変]]
+[[li:大変]]
+[[hu:大変]]
+[[mg:大変]]
+[[fj:大変]]
+[[ja:大変]]
+[[pl:大変]]
+[[pt:大変]]
+[[chr:大変]]
+[[zh:大変]]

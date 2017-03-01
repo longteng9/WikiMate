@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|濒}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=16|sn=19|four=31186|canj=EYHC}}
+
+# [[approach]], be on [[verge]] of
+# [[near]]
+
+====References====
+* {{Han ref|kx=0659.320|dkj=18636|dj=1069.140|hdz=31783.070|uh=7015|ud=28693|bh=C378|bd=50040}}
+
+----
+
+==Chinese==
+{{zh-forms|s=濒}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bīn
+|c=pan4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水16}}
+
+# {{defn|lang=ja|sort=水16}}
+
+====Readings====
+* {{ja-readings|on=[[ひん]] (hin)|kun=[[しきりに]] (shikirini), [[ほとり]] (hotori)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=빈|eumhun=|rv=bin|mr=pin|y=pin}}
+
+# {{defn|lang=ko|sort=水16}}
+
+[[fr:瀕]]
+[[hu:瀕]]
+[[ja:瀕]]
+[[pl:瀕]]
+[[th:瀕]]
+[[zh:瀕]]

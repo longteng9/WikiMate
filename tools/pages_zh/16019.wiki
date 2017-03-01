@@ -1,0 +1,53 @@
+{{character info/new}}
+{{also|扶|抚}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=04|sn=7|four=52034|canj=QHK,XQHK|ids=⿰扌夭}}
+
+====References====
+* {{Han ref|kx=0419.090|dkj=11842|dj=0766.020|hdz=31838.030|uh=6277|ud=25207|bh=CAF3|bd=51955}}
+* [http://www.zdic.net/z/1a/js/6277.htm zdic.net (Han Dian)]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=ào
+|c=ou3,ngou3
+|mc=
+|oc=
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[measure]], [[quantity]], [[capacity]]
+# to [[weigh]]
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 112]
+
+===Pronunciation 2===
+{{zh-pron
+|m=bā
+|c=
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|cmn|archaic}} [[uproot]], [[pull out]]
+
+[[zh-min-nan:扷]]
+[[fr:扷]]
+[[pl:扷]]
+[[th:扷]]
+[[zh:扷]]

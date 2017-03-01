@@ -1,0 +1,42 @@
+{{also|华盛顿}}
+==Chinese==
+{{zh-forms|s=华盛顿}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+{{zh-psm|Washington}}.
+
+===Pronunciation===
+{{zh-pron
+|m=Huáshèngdùn
+|c=waa4 sing6 deon6
+|h=pfs=Fà-sṳn-tún
+|mn=Hôa-sēng-tùn
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# [[Washington]] (English surname)
+# {{zh-short|華盛頓哥倫比亞特區|[[Washington, D.C.]]}}
+# {{zh-div|州}} [[Washington]] {{gloss|state of the USA}}
+
+{{zh-cat|Capital cities|States of the United States}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{ja-kanjitab|わ|しん|とん|yomi=irr}}
+* [[ateji|Ateji]], from {{etyl|zh|ja|sort=わしんとん}} {{zh-l|華盛頓}}
+* {{borrowing|ja|en|Washington|sort=わしんとん}}
+
+===Proper noun===
+{{ja-pos|proper|sort=わしんとん|ワ.シン.トン}}
+
+# {{rare spelling of|ワシントン|lang=ja|sort=わしんとん}}
+[[Category:Japanese terms spelled with ateji|わしんとん]]
+{{catlangcode|ja|Capital cities|Washington|sort=わしんとん}}
+[[hu:華盛頓]]

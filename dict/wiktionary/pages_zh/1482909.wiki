@@ -1,0 +1,14 @@
+==Japanese==
+{{ja-kanjitab|く|てん|yomi=o}}
+
+===Etymology===
+From {{m|ja|sc=Jpan|区|tr=ku||row}} + {{m|ja|sc=Jpan|点|tr=ten||cell}}.
+
+===Pronunciation===
+* {{a|Common accent}} {{ja-accent-common|heiban|く|てん|kùtéń}}
+
+===Noun===
+{{ja-noun|くてん}}
+# {{lb|ja|computing|sort=くてん}} row and cell identifying a character in a character set.
+
+[[ja:区点]]

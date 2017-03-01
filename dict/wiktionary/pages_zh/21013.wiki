@@ -1,0 +1,117 @@
+{{character info/new}}
+{{also|甕}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=98|rad=瓦|as=04|sn=9|four=80717|canj=CIMN|ids=⿱公瓦}}
+
+# [[earthen]] [[jar]]
+# [[jar]] for [[ashes]]
+
+====Derived characters====
+* [[𡍻]], [[𡹳]], [[𬫱]]
+
+====References====
+* {{Han ref|kx=0748.190|dkj=21461|dj=1157.060|hdz=21422.170|uh=74EE|ud=29934|bh=CFD8|bd=53208}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wèng
+|c=ung3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|酒瓮飯囊|飯囊酒瓮}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=瓦04}}
+
+# {{defn|lang=ja|sort=瓦04}}
+
+====Readings====
+{{ja-readings|goon=[[う]] (u)|kanon=[[おう]] (ō)|kun=[[へ]] (he), [[もたい]] (motai)}}
+
+====Compounds====
+* {{ja-r|平瓮|ひらか}}
+
+===Etymology 1===
+{{ja-kanjitab|へ|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|へ}}
+
+====Noun====
+{{ja-noun|へ}}
+
+# [[earthenware]] [[vessel]] for [[sake]], etc
+
+=====Derived characters=====
+* {{ja-r|斎瓮|いみべ}}
+* {{ja-r|斎瓮|いわいべ}}, {{ja-r|忌瓮|いわいべ}}
+* {{ja-r|探湯瓮|くかへ}}
+* {{ja-r|細瓮|ささべ}}
+* {{ja-r|竹瓮|たつべ}}
+* {{ja-r|埴瓮|はにべ}}, {{ja-r|埴瓫|はにべ}}
+
+===Etymology 2===
+{{ja-kanjitab|もたい|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|もたい}}
+
+====Alternative forms====
+* {{ja-l|甕}}
+
+====Noun====
+{{ja-noun|もたい|hhira=もたひ}}
+
+# [[earthenware]] [[vessel]] for [[sake]], etc
+
+[[Category:ja:Containers|へ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=옹|eumhun=|rv=ong|mr=ong|y=ong}}
+
+# {{defn|lang=ko|sort=瓦04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[úng]]|rs=瓦04}}
+
+# {{defn|lang=vi|sort=瓦04}}
+
+[[fr:瓮]]
+[[hu:瓮]]
+[[mg:瓮]]
+[[ja:瓮]]
+[[uz:瓮]]
+[[pl:瓮]]
+[[th:瓮]]
+[[zh:瓮]]

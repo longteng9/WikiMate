@@ -1,0 +1,127 @@
+{{character info/new}}
+{{also|鬆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=04|sn=8|four=48932|canj=DCI|ids=⿰木公}}
+
+====References====
+* {{Han ref|kx=0514.110|dkj=14516|dj=0901.140|hdz=21173.050|uh=677E|ud=26494|bh=AA51|bd=43601}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|ls=psc|木|公|c1=s|t1=wood|c2=p}}.
+
+===Etymology 1===
+{{zh-forms|alt=枩,柗,梥,枀}}
+
+====Pronunciation====
+{{zh-pron
+|m=sōng
+|c=cung4
+|h=pfs=sûng
+|mn=siông/qz,xm:song/xm:chêng/tw,zz:chhêng
+|mn_note=siông - literary; chêng/chhêng - vernacular
+|w=1son
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[pine]] [[tree]]
+# [[fir]] tree
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|松江|松花|松球|松仁|松仁兒|松鼠|松樹|松濤|松煙|松針|松脂|平地松林|亞松森|丁固生松|喬松之壽|喬松|大夫松|巴拉松|偃松|三葉松|海松|松紋|松花硯|松遼平原|松藻蟲|松竹|松鶴延年|松柏長青|松脂石|松喬之壽|松煙墨|松篁交翠|松雞|松山|松瓤|松花餅|武松|松筠之節|松柏後凋|松香油|松柏之堅|松筠之操|松球魚|松花紙|松風流|松風|松風水月|松葉牡丹|松皮癬|松節油|松林|石枯松老|松嶺|松果體|松鶴|矇松雨|石松|松蘿共倚|松子|油松|松蕈|盤松|白皮松|歲寒松柏|白果松|白松|白骨松|松漠|瓦松|松材線蟲|松葉蕨|松香|松露|松柏園|指水盟松|松毛|松蘿|松蕊|松花江|松煤|松毛蟲|松柏節操|松柏之茂|松柏之壽|松柏|松木|松明|松喬|松丘|松果|馬拉松|竹苞松茂|馬鬣松|赤松子|赤松|羅漢松|餐松食柏|黑松|綠松石|鶴骨松姿|魚鱗松|餐松飲澗|虎皮松|風入松|茂松|餐松啖柏|馬尾松|蟠龍松|蛇皮松|落葉松}}
+
+===Etymology 2===
+{{zh-see|鬆||loose; relax}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=木04}}
+
+====Readings====
+{{ja-readings|goon=[[しゅ]] (shu)|kanon=[[しょう]] (shō)|kun=[[まつ]] (matsu)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|松子|しょうし}}: [[pinecone]]
+* {{ja-r|松明|たいまつ}}, {{ja-r|松明|しょうめい}}
+* {{ja-r|松江|^まつえ}}
+* {{ja-r|松脂|まつやに}}, {{ja-r|松脂|しょうし}}: [[pine]] [[resin]]
+{{der-bottom}}
+
+{{ja-kanjitab|まつ|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|まつ|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|まつ}}
+
+# a [[pine tree]]
+# a [[pine]] branch decorated for the celebration of New Year
+# the highest rank of a 3-tier ranking system
+
+====Coordinate terms====
+* {{sense|rank}}
+** {{ja-r|竹|たけ}}: the middle rank
+** {{ja-r|梅|うめ}}: the lowest rank
+
+===Proper noun===
+{{ja-pos|proper|まつ}}
+
+# {{surname|lang=ja|sort=まつ}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|まつ]]
+[[Category:ja:Trees|まつ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=송|eumhun=|rv=song|mr=song|y=song}}
+
+# {{defn|lang=ko|sort=木04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tùng]], [[thông]], [[tòng]]|rs=木04}}
+
+# {{defn|lang=vi|sort=木04}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+[[fr:松]]
+[[ko:松]]
+[[lo:松]]
+[[hu:松]]
+[[mg:松]]
+[[ja:松]]
+[[no:松]]
+[[pl:松]]
+[[pt:松]]
+[[ru:松]]
+[[sv:松]]
+[[th:松]]
+[[chr:松]]
+[[zh:松]]

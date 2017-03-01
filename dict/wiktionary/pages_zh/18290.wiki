@@ -1,0 +1,60 @@
+{{character info/new}}
+{{also|榉|櫸|﨔}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=17|sn=21|four=|canj=DHCQ,XDHCQ|ids=⿰木擧}}
+
+# [[zelkova]]
+
+===See also===
+* {{l|mul|榉}}, {{l|mul|欟}}, {{l|mul|槻}}<!-- look like variants of the same character? -->
+
+===References===
+* {{Han ref|kx=0563.061|dkj=15883|hdz=21321.071|uh=6B05|ud=27397}}
+
+----
+
+==Chinese==
+{{zh-forms|s=﨔}}
+
+===Pronunciation===
+{{zh-pron
+|m=jǔ
+|c=geoi2
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木17|style=ky|shin=﨔}}
+
+# {{defn|lang=ja|sort=木17}}
+
+====Readings====
+* {{ja-readings|on=[[きょ]] (kyo)|kun=[[けやき]] (keyaki)}}
+
+===Noun===
+{{ja-noun|けやき|ケヤキ}}
+
+# [[zelkova]]
+
+[[Category:Japanese terms spelled with 欅]]
+
+[[fr:欅]]
+[[hu:欅]]
+[[ja:欅]]
+[[pl:欅]]
+[[th:欅]]
+[[zh:欅]]

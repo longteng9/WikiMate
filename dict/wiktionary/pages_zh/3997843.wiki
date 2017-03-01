@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bēngluò
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[collapse]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほう|らく}}
+
+===Noun===
+{{ja-noun|ほうらく}}
+
+# [[collapse]]
+# a market [[crash]]
+
+====Synonyms====
+* {{sense|collapse}} {{ja-r|崩壊|ほうかい}}
+
+===Verb===
+{{ja-verb-suru|ほうらく}}
+
+# to collapse
+# for a [[market]] to crash
+
+====Conjugation====
+{{ja-suru|ほうらく}}
+
+====Synonyms====
+* {{sense|collapse}} {{ja-r|砕ける|くだける}}, {{ja-r|崩れる|くずれる}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[mg:崩落]]
+[[zh:崩落]]

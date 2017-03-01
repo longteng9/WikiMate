@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=06|sn=8|four=24211|canj=OJKP|ids=⿰亻老}}
+
+====References====
+* {{Han ref|kx=0100.090|dkj=00548|dj=0212.050|hdz=10144.020|uh=4F6C|ud=20332|bh=A8D0|bd=43216}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|alt1=亻|老|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+Found in certain southern dialects (chiefly {{der|cmn|yue|-}}) as the colloquial word for “man” (for example, in the term {{m|zh|福佬}}). Probably related to {{cog|za|raeuz|raeuz ~ laeuz|we; also a demonym: {{w|Rau peoples}}}}, a widespread Tai word meaning “we; people” ({{cog|tai-pro|*rawᴬ}}).
+
+''{{w|zh:廣東新語|Guangdong Xinyu}}'' {{defdate|1678}} has the following passage:
+: {{lang|zh|廣州謂平人曰'''佬'''，亦曰[[獠]]，賤稱也。}}
+:: People in Guangzhou call “common people” ''lau'' or ''leu'' (derogatory).
+
+Also compare {{cog|hmn-pro|*ʔljuwᴮ||male}} ({{cog|mww|lau||male}}), [[w:Katuic languages|Proto-Katuic]] ''*-law'' (“man”), as well as {{cog|lo|ລາວ||Lao < people}}, {{cog|th|ลาว}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lǎo,er=y
+|c=lou2,lou5,liu4
+|c_note=lou2 - usual pronunciation; lou5, liu4 - only used in {{zh-l|*仡佬}}
+|h=gd=lau3
+|w=3lau
+|cat=a,n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|chiefly|Cantonese|dialectal|_|Wu}} [[man]]; [[person]]; [[guy]]; [[fellow]]; [[chap]]
+# {{lb|zh|chiefly|Cantonese}} [[vulgar]] person; [[hillbilly]]
+#: {{zh-x|鄉巴佬|hick; villager}}
+
+====Usage notes====
+Mainly used as a colloquial suffix to denote “[[-er]]”.
+
+===Compounds===
+{{zh-der|仫佬|細佬|福佬|大佬|細佬哥|生意佬|大隻佬|闊佬|高佬|巴士佬|和事佬|鹹濕佬|基佬|鄉下佬|呼佬|麻甩佬|鬼佬|飛髮佬|變態佬|差佬|泥水佬|傻佬|癲佬|醉酒佬|賊佬|肥佬|拐子佬|收買佬|英國佬|財主佬|放數佬|垃圾佬|鬥木佬|番鬼佬|油漆佬|三行佬|花旗佬|江湖佬|江湖大佬|鬼佬涼茶|鬼佬話|鬼佬齋|美國佬|拖頭佬|豬肉佬|哈佬|啞佬|白痴佬|北佬|北方佬|報紙佬|打鐵佬|大粒佬|單身寡佬|番鬼佬涼茶|四眼佬|肥婆肥佬|風水佬|虧佬|寡佬|機器佬|金魚佬|教書佬|耕田佬|㗎佬|痴線佬|柯佬|戲子佬|口水佬|勾佬|睇相佬|賣魚佬|收數佬|鄉巴佬|擺闊佬|廚房佬|德國佬|法國佬|癡線佬|白癡佬|黐線佬|爛佬|懵佬|戇居佬|打魚佬|有錢佬|八卦佬|讕闊佬|大奅佬|啞佬斷奶|啞佬相見，默默無言|算命佬|喃巫佬|南無佬|通渠佬|走佬|衰佬|風水佬呃你十年八年|番鬼佬月餅|賣魚佬洗身|仡佬族}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人06}}
+
+# {{defn|lang=ja|sort=人06}}
+
+====Readings====
+* {{ja-readings|on=[[りょう]] (ryō), [[ろ]] (ro), [[ろう]] (rō)|kun=[[おおきい]] (ōkii)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lão]]|rs=人06}}
+
+# {{defn|lang=vi|sort=人06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f6c Nom Foundation]
+
+[[zh-min-nan:佬]]
+[[fr:佬]]
+[[hu:佬]]
+[[mg:佬]]
+[[ja:佬]]
+[[pl:佬]]
+[[th:佬]]
+[[zh:佬]]

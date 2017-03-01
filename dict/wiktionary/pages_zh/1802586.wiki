@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms|s=饮用}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǐnyòng
+|mn=ím-iōng
+|cat=v,a
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[drink]]
+
+===Adjective===
+{{zh-adj}}
+
+# [[drinkable]]; [[potable]]
+
+====Derived terms====
+{{zh-der|飲用水}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|いん|よう|yomi=on}}
+
+===Noun===
+{{ja-noun|いんよう}}
+
+# drinking
+#* '''1912''', 井上円了, 南半球五万哩:
+#*: {{ja-usex|'''飲用'''は牛乳と湯水を限る。|'''いんよう''' は ぎゅうにゅう と ゆみず を かぎる。|Drinking is limited to milk and water.}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|いんよう}}
+
+# [[drink]], {{gloss|consume liquid through the mouth}}
+
+====Conjugation====
+{{ja-suru|いんよう}}
+
+[[zh-min-nan:飲用]]
+[[mg:飲用]]
+[[ja:飲用]]
+[[chr:飲用]]
+[[zh:飲用]]

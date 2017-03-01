@@ -1,0 +1,63 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=suǒyǐ
+|c=so2 ji5
+|h=pfs=só-yî
+|md=sū-ī
+|ma=y
+|mn=só͘-í/zz:sé-í
+|w=2su i
+|mc=y
+|oc=y
+|cat=con,n
+}}
+
+===Conjunction===
+{{zh-con}}
+
+# [[therefore]]; [[so]]; [[consequently]]
+#: {{zh-x|明天 要 考試 了，所以 我 今天 只 能 留 在 家裡 複習 功課。|I have a test tomorrow, '''so''' I have to stay at home today and review my homework.}}
+# {{non-gloss definition|Used in the first part of a sentence to indicate a reason that will be explained in the second part of the sentence.}}
+#: {{zh-x|我 所以 要 反對 這個 計畫，是 因為 我 覺得 其中 有 不少 疏漏。|My '''reason''' for opposing this plan, is because I feel that there are quite a few holes in it.}}
+
+====Synonyms====
+* {{q|Hakka}} {{zh-l|故所}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} that by which
+# {{lb|zh|literary}} the [[reason]] [[why]]
+# {{lb|zh|literary}} [[proper]] [[behaviour]]
+
+===Derived terms===
+{{zh-der|所以然}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=irr}}
+
+===Etymology===
+{{m|ja||ゆえになり|tr=yue ni nari}} > {{m|ja||ゆえんなり|tr=yue n nari}} > {{m|ja||ゆえん|tr=yue-n}}. See {{m|ja|故|tr=yue}}. The kanji are {{jukujikun}}.
+
+===Noun===
+{{ja-noun|ゆえん}}
+
+# [[reason]], [[grounds]]
+
+[[zh-min-nan:所以]]
+[[fr:所以]]
+[[ko:所以]]
+[[hu:所以]]
+[[mg:所以]]
+[[ja:所以]]
+[[ta:所以]]
+[[chr:所以]]
+[[uk:所以]]
+[[zh:所以]]

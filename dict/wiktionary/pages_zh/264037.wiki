@@ -1,0 +1,29 @@
+==Japanese==
+{{ja-kanjitab|そう|けい|yomi=on}}
+
+===Etymology===
+From ''sō'' ([[総]], [[integrate]], [[unify]], [[total]]) + ''kei'' ([[計]], [[total]], [[sum]] total)
+
+===Noun===
+{{ja-noun|そうけい|kyu=總計}}
+
+# [[total]], [[sum]], total [[amount]]
+#: {{ja-usex|総計約１００万円になる|そうけい やく ひゃく まん えん に なる|It comes to a total of around a million yen}}
+
+====Derived terms====
+* {{ja-r|静態総計|せいたい そうけい}}: static statistics
+
+===Verb===
+{{ja-verb-suru|そうけい|kyu=總計}}
+
+# to [[total]]; to [[sum]] up
+#: {{ja-usex|費用を総計する。|ひよう を そうけい する。|total the expenditure}}
+
+====Conjugation====
+{{ja-suru|そうけい}}
+
+[[mg:総計]]
+[[ja:総計]]
+[[km:総計]]
+[[chr:総計]]
+[[zh:総計]]

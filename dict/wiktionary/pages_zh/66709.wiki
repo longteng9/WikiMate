@@ -1,0 +1,43 @@
+==Japanese==
+{{ja-kanjitab|しん|けん|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=しんけん}} compound {{m|ltc|眞劍|tr=*tsyin *kjæmH||real sword}}. Compare modern {{etyl|cmn|-}} traditional {{m|cmn|眞劍}} and simplified {{m|cmn|真剑|tr=zhēnjiàn}}.
+
+The original meaning was ''real sword''. Over time, this shifted, and the term is now often used to mean {{m|en|serious}}.
+
+===Pronunciation===
+{{ja-pron|yomi=on|acc=0|acc_ref=DJR|しんけん}}
+
+===Adjective===
+{{ja-adj|infl=na|しんけん|style=s|kyu=眞劍}}
+
+# [[serious]], [[sincere]], [[intense]], [[honest]]
+
+====Inflection====
+{{ja-na|しんけん}}
+
+====Synonyms====
+* {{sense|serious, sincere, honest}} {{ja-l|本気|ほんき|honki}}, {{ja-l|真面目|まじめ|majime}}
+
+===Noun===
+{{ja-noun|しんけん|style=s|kyu=眞劍}}
+
+# [[seriousness]]
+# a real metal [[sword]], as opposed to a wooden or bamboo sword
+
+====See also====
+* {{ja-l|竹刀|しない|shinai}}: bamboo sword
+* {{ja-l|木刀|ぼくとう|bokutō}}: wooden sword
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+* {{R:Kojien}}
+* {{R:Meikyo}}
+
+[[mg:真剣]]
+[[ja:真剣]]
+[[pl:真剣]]
+[[chr:真剣]]
+[[zh:真剣]]

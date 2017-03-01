@@ -1,0 +1,50 @@
+{{also|攻擊|攻击}}
+==Japanese==
+{{ja-kanjitab|こう|げき|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|こうげき|acc=h|acc_ref=NHK,DJR|y=o}}
+
+===Noun===
+{{ja-noun|こうげき|kyu=攻擊}}
+
+# an [[attack]]
+#: {{ja-usex|'''攻撃'''は無駄だった。|'''こうげき''' は むだ だった。|The attack was in vain.}}
+#* {{quote-book
+|language=Japanese
+|location=Tokyo
+|publisher=Shueisha
+|genre=fiction
+||{{w|Kazuki Takahashi}}
+|{{w|遊☆戯☆王|{{ruby|{{lang|ja|[遊](ゆう)☆[戯](ぎ)☆[王](おう)}}}}|lang=ja}}
+|trans-title={{w|Yu-Gi-Oh!}}
+|date=Jun 9 2001
+|isbn=4-08-873123-9
+|volume=24
+|chapter={{ruby|{{lang|ja|[意](い)[外](がい)なる１[枚](まい)}}}}
+|trans-chapter=The Unexpected Card
+|||{{ja-usex|光の護封剣だと‼　オレのモンスターは３ターンの間'''攻%撃'''を封じられちまう‼|^ひかり の ^ごふうけん だと‼　^オレ の モンスター は さん-ターン の あいだ '''こう%げき''' を ふうじられ ちまう‼|Swords of Revealing Light‼　My monsters won't be able to '''attack''' during the next 3 turns‼}}}}
+
+===Verb===
+{{ja-verb-suru|こうげき}}
+
+# to [[attack]]
+
+====Conjugation====
+{{ja-suru|こうげき}}
+
+===References===
+<references/>
+
+[[fr:攻撃]]
+[[ko:攻撃]]
+[[it:攻撃]]
+[[kn:攻撃]]
+[[lt:攻撃]]
+[[li:攻撃]]
+[[hu:攻撃]]
+[[mg:攻撃]]
+[[ja:攻撃]]
+[[sv:攻撃]]
+[[chr:攻撃]]
+[[zh:攻撃]]

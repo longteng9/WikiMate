@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chújí
+|c=ceoi4 zik6
+|mn=tî-che̍k/tû-che̍k
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[remove]] one's (especially an [[official]]'s) [[name]] from the [[register]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|じょ|せき|yomi=on}}
+
+===Noun===
+{{ja-noun|じょせき}}
+
+# [[removal]] of a name from the family [[register]]
+# removal from a student roll, [[expulsion]] from a school
+
+===Verb===
+{{ja-verb-suru|じょせき}}
+
+# [[remove]] from the family register
+# [[expel]] from school
+
+====Conjugation====
+{{ja-suru|じょせき}}
+
+[[ko:除籍]]
+[[zh:除籍]]

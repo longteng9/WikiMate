@@ -1,0 +1,48 @@
+{{also|工尺谱}}
+==Chinese==
+{{zh-forms|s=工尺谱|type=21}}
+{{wikipedia|lang=zh}}
+{{wikipedia|Gongche notation|lang=en}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=gōngchěpǔ
+|c=gung1 ce1 pou2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[Gongche]] notation {{gloss|a system of musical notation using Chinese characters, used in traditional Chinese music}}
+
+====Hyponyms====
+{{rel-top|the Gongche scale}}
+{| style="width:300px;"
+| {{zh-l|上}} || 1 || [[do]]
+|-
+| {{zh-l|尺}} || 2 || [[re]]
+|-
+| {{zh-l|工}} || 3 || [[mi]]
+|-
+| {{zh-l|凡}} || 4 || between [[fa]] and fa♯
+|-
+| {{zh-l|六}}, {{zh-l|合}} || 5 || [[sol]]
+|-
+| {{zh-l|五}}, {{zh-l|四}} || 6 || [[la]]
+|-
+| {{zh-l|乙}}, {{zh-l|一}} || 7 || between ti♭ and [[ti]]
+|}
+{{rel-bottom}}
+
+====See also====
+* {{zh-l|簡譜}}
+
+{{zh-cat|Music}}
+
+{{attention|zh}}
+
+[[uz:工尺譜]]

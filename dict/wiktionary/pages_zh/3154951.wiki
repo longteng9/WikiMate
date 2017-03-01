@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-see|蛤蟆|v}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|ヒキガエル}}
+{{wikipedia|Toad}}
+[[File:Bufo_japonicus_DSCN9873.jpg|thumb|250px|{{lang|ja|蝦蟇}} (''gama'', ''gamagaeru''): a Japanese common '''[[toad]]'''.]]
+</div>
+
+===Etymology 1===
+{{ja-kanjitab|yomi=on|か|k1=が|ま}}
+Appears to be from {{bor|nocap=1|ja|ltc|sort=かま'|蝦蟇|tr={{IPAchar|/ɣa ma/}}|lit=shrimp, prawn + toad||toad}}.
+
+====Pronunciation====
+{{ja-pron|yomi=on|がま|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|蟇}}
+
+====Noun====
+{{ja-noun|がま|ガマ}}
+
+# a [[toad]]
+
+=====Usage notes=====
+{{U:ja:biology|ガマ}}
+
+=====Synonyms=====
+* {{ja-r|蟇%蛙|ひき%がえる}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|sort=かまがえる'}}
+Appears to be a compound of {{compound|lang=ja|sort=かまがえる'|蟇|tr1=gama|t1=toad|蝦|tr2=kaeru|t2=frog}}.  {{rendaku2|sort=かまがえる'|kaeru|gaeru}}.  The kanji in this term are reversed as {{ja-jukujikun|sort=かまがえる'}} to match the Chinese spelling of the borrowed term ''gama'' (see above).
+
+====Pronunciation====
+{{ja-pron|yomi=k|がまがえる|acc=3|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|がまがえる|hhira=がまがへる}}
+
+# a [[toad]]
+
+===References===
+<references/>
+
+[[mg:蝦蟇]]

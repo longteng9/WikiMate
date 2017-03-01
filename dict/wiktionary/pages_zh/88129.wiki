@@ -1,0 +1,108 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=Huǒxīng
+|c=fo2 sing1
+|h=pfs=Fó-sên
+|md=Huŏ-sĭng
+|mn=qz:Hér-chhiⁿ/tp,xm:Hé-chhiⁿ/kh,zz:Hóe-chheⁿ
+|w=2hu xin
+|mc=y
+|oc=y
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{lb|zh|astronomy}} [[Mars]]
+
+====Synonyms====
+* {{zh-l|熒惑/荧惑}}
+* {{zh-l|熒惑星/荧惑星}}
+
+====Compounds====
+* {{zh-l|火星人}}
+
+===See also===
+* {{list:planets of the Solar System/zh}}
+
+===Descendants===
+{{CJKV|火星|かせい|화성|Hỏa Tinh}}
+
+{{topics|zh|Planets of the Solar System}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Mars}}
+[[File:Mars_and_Tharsis_-_GPN-2000-000928.jpg|thumb|250px|{{lang|ja|火星}}]]
+</div>
+{{ja-kanjitab|か|せい|yomi=o}}
+
+===Etymology===
+{{IPAchar|/kwaseː/}} → {{IPAchar|/kaseː/}}
+
+From {{etyl|ltc|ja|sort=かせい}} {{m|zh|火星|tr=xwa<sup>X</sup> seng|lit=fire star|pos=in reference to {{w|Wu Xing}}}}.
+
+===Pronunciation===
+{{ja-pron|yomi=ko|かせい|acc=0|acc_ref=DJR}}
+
+===Proper noun===
+{{ja-pos|かせい|proper|hhira=くわせい}}
+
+# {{lb|ja|sort=かせい|astronomy}} [[Mars]]
+
+====Synonyms====
+* {{ja-l|マース||Māsu}}
+* {{ja-l|マーズ||Māzu}}
+* {{qualifier|archaic}} {{ja-r|火曜|^かよう}}
+
+====Derived terms====
+* {{ja-r|火星人|^かせいじん}}: a [[Martian]]
+* {{ja-r|火星学|^かせいがく}}: [[areology]], the [[study]] of the [[planet]] [[Mars]]
+
+====See also====
+* {{l|ja|マールス|tr=''Mārusu''}}: [[Mars]], the [[Roman]] [[god]] of [[war]]
+* {{list:planets of the Solar System/ja|sort=かせい}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+:* {{R:Shogakukan}}
+
+{{topics|ja|Planets of the Solar System}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Proper noun===
+{{ko-noun|rv=Hwaseong|hangeul=화성}}
+
+# {{hanja form of|화성|Mars}}
+
+[[af:火星]]
+[[zh-min-nan:火星]]
+[[cs:火星]]
+[[de:火星]]
+[[fr:火星]]
+[[ko:火星]]
+[[lo:火星]]
+[[lt:火星]]
+[[li:火星]]
+[[hu:火星]]
+[[mg:火星]]
+[[nl:火星]]
+[[ja:火星]]
+[[oc:火星]]
+[[pl:火星]]
+[[pt:火星]]
+[[sv:火星]]
+[[zh:火星]]

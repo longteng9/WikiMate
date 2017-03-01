@@ -1,0 +1,66 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=běibànqiú
+|c=bak1 bun3 kau4
+|mn=pak-pòaⁿ-kiû
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[Northern Hemisphere]]
+
+====Antonyms====
+* {{zh-l|南半球}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きた|はん|きゅう}}
+
+===Etymology===
+[[北]] ([[きた]], [[kita]]): [[North]] + [[半球]] ([[はんきゅう]], [[hankyū]]): [[hemisphere]]
+
+===Noun===
+{{ja-noun|きたはんきゅう}}
+
+# [[Northern Hemisphere]] - The hemisphere of the [[Earth]] (or any [[celestial]] body) to the north of its equator.
+
+====Antonyms====
+* {{ja-r|南半球|みなみはんきゅう}}: [[Southern Hemisphere]]
+
+====Related terms====
+* {{ja-r|地球|ちきゅう|caps=y}}: [[Earth]]
+* {{ja-r|天体|てんたい}}: [[celestial body]]
+
+[[Category:ja:Place names|きたはんきゅう]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|rv=bukban-gu|hangeul=북반구}}
+
+# {{hanja form of|북반구|Northern Hemisphere}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|bắc bán cầu|Northern Hemisphere}}
+
+[[zh-min-nan:北半球]]
+[[ko:北半球]]
+[[hu:北半球]]
+[[pt:北半球]]
+[[zh:北半球]]

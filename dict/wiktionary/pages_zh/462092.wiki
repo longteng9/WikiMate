@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|しん|がい|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|しんがい}}
+
+# [[regrettable]], [[vexing]]
+# [[unthinkable]], outside of one's expectations
+
+====Inflection====
+{{ja-na|しんがい}}
+
+====Synonyms====
+* {{sense|regrettable}} {{ja-r|残念|ざんねん}}
+* {{sense|unthinkable}} {{ja-r|予想外|よそうがい}}, {{ja-r|意外|いがい}}, {{ja-r|不意|ふい}}
+
+===Noun===
+{{ja-noun|しんがい}}
+
+# being regrettable
+# [[unthinkability]]
+
+===References===
+* {{R:Shogakukan}}
+* {{R:Daijisen}}
+
+[[mg:心外]]
+[[zh:心外]]

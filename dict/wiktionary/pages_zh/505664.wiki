@@ -1,0 +1,65 @@
+{{also|民主主义}}
+==Chinese==
+{{zh-forms|s=民主主义|type=22}}
+
+===Pronunciation===
+{{zh-pron
+|m=mínzhǔzhǔyì
+|c=man4 zyu2 zyu2 ji6
+|mn=bîn-chú-chú-gī
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[democracy]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|みん|しゅ|しゅ|ぎ|yomi=on}}
+
+===Etymology===
+''From'' {{suffix|民主|tr1=minshu|t1=[[democratic]]|主義|tr2=shugi|t2=-ism|lang=ja}}
+
+===Noun===
+{{ja-noun|みんしゅしゅぎ}}
+
+# [[democracy]]
+# [[democratism]]
+
+====Synonyms====
+* {{sense|democracy}} {{ja-r|民主制|みんしゅせい}}, {{ja-r|デモクラシー}}
+
+===References===
+* {{R:Meikyo}}
+
+[[Category:ja:Forms of government|みんしゆしゆき]]
+[[Category:ja:Democracy]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=민주주의}}
+
+# {{hanja form of|민주주의|[[democracy]]}}
+
+[[fr:民主主義]]
+[[ko:民主主義]]
+[[lo:民主主義]]
+[[lt:民主主義]]
+[[li:民主主義]]
+[[hu:民主主義]]
+[[mg:民主主義]]
+[[ja:民主主義]]
+[[no:民主主義]]
+[[pl:民主主義]]
+[[ru:民主主義]]
+[[th:民主主義]]
+[[chr:民主主義]]
+[[tr:民主主義]]
+[[zh:民主主義]]

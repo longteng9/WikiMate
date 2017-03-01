@@ -1,0 +1,124 @@
+{{character info/new}}
+{{also|觋}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=147|rad=見|as=07|sn=14|four=16110|canj=MOBUU}}
+
+# [[wizard]]
+
+===References===
+* {{Han ref|kx=1135.230|dkj=34875|dj=1602.020|hdz=63668.170|uh=89A1|ud=35233|bh=E444|bd=58436}}
+
+----
+
+==Chinese==
+{{zh-forms|s=觋}}
+
+===Pronunciation===
+{{zh-pron
+|m=xí
+|c=hat6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|巫覡}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=見07}}
+
+# [[medium]], [[diviner]]
+
+====Readings====
+{{ja-readings
+|on=[[げき]] (geki), [[けき]] (keki)
+|kun=[[みこ]] (miko), [[かんなぎ]] (kannagi)
+}}
+
+===Etymology 1===
+From {{etyl|ojp|ja|sort=かんなぎ}}. Originally a compound of {{compound|lang=ja|sort=かんなぎ|神|tr1=kamu|t1=god, spirit|和ぎ|tr2=nagi|t2=calming, calming down}}, the stem noun form of verb {{m|ja|和ぐ|tr=nagu||to become calm, to become quiet}}.
+
+{{IPAchar|/kamunagi/ → /kaɴnagi/}}
+
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|/kaɴnaɡi/}}
+
+====Alternative forms====
+* {{l|ja|巫}}
+
+====Noun====
+{{ja-noun|かんなぎ}}
+
+# a [[medium]] or [[shaman]], usually female, who acts as a [[medium]] between humans and the [[spirit]]s or [[god]]s, helping to communicate between the two and to [[calm]] any supernatural or spiritual [[upset]]
+
+=====Synonyms=====
+* {{ja-r|巫女|みこ}}
+* {{ja-r|神子|みこ}}
+
+===Etymology 2===
+Shift in pronunciation of the {{l|ja|神|tr=''kamu''}} element, similar to the pattern seen in terms such as {{m|ja|神戸||Kōbe}}.
+
+{{IPAchar|/kamunagi/ → /koːnagi/}}
+
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|/koːnaɡi/}}
+
+====Alternative forms====
+* {{l|ja|巫}}
+
+====Noun====
+{{ja-noun|こうなぎ}}
+
+# alternate reading for '''kannagi'''
+
+===Etymology 3===
+Less-common [[ateji]] for {{m|ja|巫女|tr=miko||shrine maiden}}.
+
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|/miko/}}
+
+====Alternative forms====
+* {{l|ja|巫女}}
+* {{l|ja|神子}}
+
+====Noun====
+{{ja-noun|みこ}}
+
+# a [[shrine]] [[maiden]]: see {{l|ja|巫女}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 覡]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=격|eumhun=|rv=gyeok|mr=kyŏk|y=kyek}}
+
+# {{defn|lang=ko|sort=見07}}
+
+[[fr:覡]]
+[[ko:覡]]
+[[hu:覡]]
+[[mg:覡]]
+[[ja:覡]]
+[[pl:覡]]
+[[th:覡]]
+[[chr:覡]]
+[[zh:覡]]

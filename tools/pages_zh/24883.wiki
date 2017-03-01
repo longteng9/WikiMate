@@ -1,0 +1,119 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=05|sn=11|four=44460|canj=TKSR}}
+
+# [[eggplant]], [[aubergine]]
+# used for several plants non-native to East Asia
+
+====References====
+* {{Han ref|kx=1026.020|dkj=30835|dj=1485.120|hdz=53198.030|uh=8304|ud=33540|bh=AD58|bd=44376}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=qié
+|c=ke4,ke4-2
+|h=pfs=khiò
+|md=
+|mn=kiô
+|w=
+|mc=1
+|oc=1+2
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[eggplant]]; [[aubergine]]
+
+=====Synonyms=====
+{{zh-dial|茄子}}
+
+====Compounds====
+{{zh-der|番茄:tomato|茄子:eggplant}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=jiā
+|c=gaa1
+|h=pfs=kâ
+|md=
+|mn=ka
+|w=
+|dial=n
+|mc=2
+|oc=3
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|c=ke1
+|dial=n
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese|slang}} [[poop]]
+#: {{zh-x|屙茄{ke1}|to poop|C}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸05}}
+
+# {{defn|lang=ja|sort=艸05}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka)|kun=[[なす]] (nasu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=가|eumhun=|rv=ga|mr=ka|y=ka}}
+
+# {{defn|lang=ko|sort=艸05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[già]], [[nhà]], [[nhu]], [[như]], [[nhựa]], [[cà]], [[gia]]|rs=艸05}}
+
+# {{defn|lang=vi|sort=艸05}}
+
+[[zh-min-nan:茄]]
+[[fr:茄]]
+[[ko:茄]]
+[[hu:茄]]
+[[mg:茄]]
+[[ja:茄]]
+[[no:茄]]
+[[pl:茄]]
+[[th:茄]]
+[[zh:茄]]

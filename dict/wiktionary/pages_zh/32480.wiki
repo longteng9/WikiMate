@@ -1,0 +1,61 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=01|sn=12|four=27310|canj=HFN|ids=⿰鳥乙}}
+
+# [[swallow]]
+
+====References====
+* {{Han ref|kx=1481.010|dkj=46635|dj=2013.010|hdz=74613.050|uh=9CE6|ud=40166|bh=DCAF|bd=56495}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǐ,yì
+|c=jyut6,jyut3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鳥01}}
+
+# {{defn|lang=ja|sort=鳥01}}
+
+====Readings====
+* {{ja-readings|on=[[いつ]] (itsu), [[いち]] (ichi), [[あつ]] (atsu), [[えち]] (echi)|kun=[[つばめ]] (tsubame)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=을|eumhun=|rv=eul|mr=ŭl|y=ul}}
+
+# {{defn|lang=ko|sort=鳥01}}
+
+[[fr:鳦]]
+[[hu:鳦]]
+[[pl:鳦]]
+[[ru:鳦]]
+[[th:鳦]]
+[[zh:鳦]]

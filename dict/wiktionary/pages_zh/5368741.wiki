@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms|type=21|s=褶𬶐属|2=genus}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhězhàoshǔ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{taxlink|Pseudecheneis|genus|noshow=1}} {{gloss|a genus of [[catfish]]}}
+
+====Hyponyms====
+{{der3|title=Hyponyms
+| {{zh-l|粗尾褶鮡|''Pseudecheneis brachyurus''}}
+| {{zh-l|糙尾褶鮡|''Pseudecheneis crassicauda''}}
+| {{zh-l|埃氏褶鮡|''Pseudecheneis eddsi''}}
+| {{zh-l|纖體褶鮡|''Pseudecheneis gracilis''}}
+| {{zh-l|無斑褶鮡|''Pseudecheneis immaculatus''}}
+| {{zh-l|科氏褶鮡|''Pseudecheneis koladynae''}}
+| {{zh-l|長鰭褶鮡|''Pseudecheneis longipectoralis''}}
+| {{zh-l|暗褶鮡|''Pseudecheneis maurus''}}
+| {{zh-l|少斑褶鮡|''Pseudecheneis paucipunctata''}}
+| {{zh-l|平吻褶鮡|''Pseudecheneis paviei''}}
+| {{zh-l|鋸齒褶鮡|''Pseudecheneis serracula''}}
+| {{zh-l|女神褶鮡|''Pseudecheneis sirenica''}}
+| {{zh-l|窄尾褶鮡|''Pseudecheneis stenura''}}
+| {{zh-l|黃斑褶鮡|''Pseudecheneis sulcata''}}
+| {{zh-l|似黃斑褶鮡|''Pseudecheneis sulcatoides''}}
+| {{zh-l|恆河褶鮡|''Pseudecheneis suppaetula''}}
+| {{zh-l|盤褶鮡|''Pseudecheneis sympelvica''}}
+| {{zh-l|烏克魯爾褶鮡|''Pseudecheneis ukhrulensis''}}
+}}
+
+===External links===
+* {{pedialite|lang=zh|鮡科#褶鮡屬(Pseudecheneis)}}
+* {{pedialite|lang=zh|分類:褶鮡屬}}
+
+{{zh-cat|Fish}}

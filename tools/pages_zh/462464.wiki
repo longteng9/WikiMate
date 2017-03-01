@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms|lit=heaven flower}}
+
+===Etymology===
+Originally the Chinese translation of several {{der|zh|sa|-}} and {{der|zh|pi|-}} words, including {{cog|sa|खपुष्प||flower in the sky}}, as well as several plant names, such as {{cog|sa|दिव्यपुष्प||[[oleander]] [heaven-flower]}} / {{cog|pi|devapuppha}}, and {{cog|sa|शालपुष्प||{{vern|confederate rose}} [house-flower]}}.
+
+The development from “heaven-flower” (or other interpretations of the combination) to “smallpox” is unknown. It may be due to the shape resemblance of smallpox [[pustule]]s to the divine flowers in Buddhism. Compare {{cog|bo|ལྷ་འབྲུམ||smallpox [deva-pustule]}}, {{m|bo|མེ་ཏོག||flower; (dialectal) smallpox}}, and {{cog|mn|ᠰᠠᠯᠬᠢᠨ ᠴᠡᠴᠡᠭ}} / {{m|mn|салхин цэцэг||smallpox; chickenpox [wind-flower]}}.
+
+===Pronunciation===
+{{zh-pron
+|m=tiānhuā,er=y
+|c=tin1 faa1
+|h=pfs=thiên-fâ
+|mn=qz,tw,xm,zz:thian-hoa/twv:thian-hoe
+|w=1thi ho
+|mc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Buddhism}} [[flower]] of the [[sky]]; [[divine]] [[flower]], stated in the {{w|Lotus Sutra}} as of four kinds, two white and two red
+# {{lb|zh|literary|poetic}} [[snowflake]]; [[snow]]
+# {{lb|zh|diseases}} [[smallpox]]; [[variola]]
+
+====Synonyms====
+* {{sense|flower of the sky}} {{zh-l|天華}}, {{zh-l|空華}}
+* {{sense|snowflake}} {{zh-l|雪花}}
+* {{sense|smallpox}} {{zh-l|痘瘡}}
+
+====Derived terms====
+{{zh-der|天花枋|口墜天花|亂墜天花|天花板|天花墜地|天花粉|天花亂墜}}
+
+====Descendants====
+{{CJKV||てんか|천화|thiên hoa}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てん|か|yomi=o}}
+
+===Noun===
+{{ja-noun|てんか}}
+
+# [[snow]]
+# a flower that blossoms in the Buddhist heaven by their tale.
+# lotus-petal-shaped confetti scattering before the mortuary tablet.
+
+[[mg:天花]]
+[[tl:天花]]
+[[zh:天花]]

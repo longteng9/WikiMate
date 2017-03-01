@@ -1,0 +1,52 @@
+{{also|诊疗}}
+==Chinese==
+{{zh-forms|s=诊疗}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhěnliáo
+|c=can2 liu4
+|mn=chín-liâu
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[diagnose]] and [[treat]]
+
+===Noun===
+{{zh-noun}}
+
+# [[diagnosis]] and [[treatment]]
+
+===Derived terms===
+{{zh-der|診療所}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|りょう|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|しんりょう|y=on}}
+
+===Noun===
+{{ja-noun|しんりょう}}
+
+# medical examination and treatment
+
+===Verb===
+{{ja-verb-suru|tr=trans|しんりょう}}
+
+# [[examine]] and [[treat]] medically
+
+====Conjugation====
+{{ja-suru|しんりょう}}
+
+[[zh-min-nan:診療]]
+[[ko:診療]]
+[[lo:診療]]
+[[hu:診療]]
+[[ja:診療]]
+[[zh:診療]]

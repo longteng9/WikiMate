@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=116|rad=穴|as=12|sn=17|four=30214|canj=JCNLM}}
+
+# [[mineshaft]]
+# [[cavity]], [[hole]]
+
+====References====
+* {{Han ref|kx=0868.300|dkj=25660|dj=1297.370|hdz=42741.140|uh=7ABF|ud=31423|bh=C14B|bd=49483}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lóng
+|c=lung4,lung1
+|h=pfs=lùng
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|填窟窿|拉窟窿|窟窿|窟窿眼兒|捅窟窿|穹窿}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=穴12}}
+
+# {{defn|lang=ja|sort=穴12}}
+
+====Readings====
+* {{ja-readings|on=[[りゅう]] (ryū), [[りゅ]] (ryu)|kun=[[ゆみなり]] (yuminari)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[륭]]>[[융]]|eumhun=|rv=ryung>yung|mr=ryung>yung|y=lyung>yung}}
+
+# {{defn|lang=ko|sort=穴12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''窿''' ([[lung]], [[lọn]])
+
+# {{defn|vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:窿]]
+[[hu:窿]]
+[[mg:窿]]
+[[ja:窿]]
+[[no:窿]]
+[[pl:窿]]
+[[th:窿]]
+[[zh:窿]]

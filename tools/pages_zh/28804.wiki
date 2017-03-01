@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|辽}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=12|sn=16|four=34309|canj=YKCF|ids=⿺辶尞}}
+
+# [[distant]], [[far]]
+
+====References====
+* {{Han ref|kx=1265.240|dkj=39137|dj=1763.040|hdz=63881.050|uh=907C|ud=36988|bh=BFF1|bd=49137}}
+
+----
+
+==Chinese==
+{{zh-forms|s=辽}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|辵|尞|c1=s|c2=p|t1=walk|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=liáo
+|c=liu4
+|h=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[distant]], [[far]]
+# abbreviation for [[Liaoning]] [[province]] of China
+# [[Liao]] or [[Khitan]] dynasty (907-1125)
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辵12}}
+
+====Readings====
+* {{ja-readings|on=[[りょう]] (ryō), {{qualifier|historical}} [[れう]] (reu)|kun=[[はるか]] (haruka)|nanori=}}
+
+===Proper noun===
+{{ja-pos|proper|りょう|hhira=れう}}
+
+# {{given name|male|lang=ja|sort=りょう}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[료]]>[[요]]|eumhun=|rv=ryo>yo|mr=ryo>yo|y=lyo>yo}}
+
+# {{defn|lang=ko|sort=辵12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[liêu]]|rs=辵12}}
+
+# {{defn|lang=vi|sort=辵12}}
+
+[[fr:遼]]
+[[ko:遼]]
+[[li:遼]]
+[[hu:遼]]
+[[ja:遼]]
+[[pl:遼]]
+[[th:遼]]
+[[zh:遼]]

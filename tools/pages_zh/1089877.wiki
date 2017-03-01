@@ -1,0 +1,64 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=不kěnéng
+|c=bat1 ho2 nang4
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[impossible]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふ|か|のう|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=ふかのう}} compound {{m|zh|不可能|tr=pjuw kha<sup>X</sup>nong|lit=not possible}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|ふかのう|acc=2|acc_ref=DJR}}
+
+===Adjective===
+{{ja-adj|infl=な|ふかのう}}
+
+# [[impossible]]
+#: {{ja-usex|雪道で間に合うのは'''不可能'''だ。|^ゆきみち で まにあう の は '''ふかのう''' だ。|With the roads snowy, it is '''impossible''' to get there in time.}}
+#: {{ja-usex|あのチームが優勝するなんて'''不可能'''な出来事だ。|^あの チーム が ゆうしょう する なんて '''ふかのう''' な できごと だ。|It's '''impossible''' for that team to win the title.}}
+
+====Inflection====
+{{ja-na|不可能|ふかのう|fukanō}}
+
+====Synonyms====
+* {{ja-r|無理|むり}}, {{ja-r|不能|ふのう}}, {{ja-r|出来ない|できない}}; {{ja-r|有り得ない|ありえない}}
+
+====Antonyms====
+* {{ja-r|可能|かのう|gloss=possible}}, {{ja-r|出来る|できる}}; {{ja-r|必然的|ひつぜんてき|gloss=inevitable}}, {{ja-r|確実|かくじつ|gloss=certain}}, {{ja-r|有り得る|ありうる|gloss=possible}}
+
+===Noun===
+{{ja-noun|ふかのう}}
+
+# [[impossibility]], that which is [[impossible]]
+#: {{ja-usex|'''不可能'''を可能にする|'''ふかのう''' を かのう に する|to make the '''impossible''' possible}}
+
+====Antonyms====
+* {{ja-r|可能|かのう|gloss=possibility}}; {{ja-r|必然|ひつぜん|gloss=inevitability}}, {{ja-r|確実|かくじつ|gloss=certainty}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[fr:不可能]]
+[[ko:不可能]]
+[[hu:不可能]]
+[[mg:不可能]]
+[[ja:不可能]]
+[[pl:不可能]]
+[[fi:不可能]]
+[[chr:不可能]]
+[[zh:不可能]]

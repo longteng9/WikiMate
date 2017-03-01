@@ -1,0 +1,29 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīngdù
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+# [[precision]]
+
+====Synonyms====
+* {{zh-l|精密度}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|ど|yomi=on}}
+
+===Noun===
+{{ja-noun|せいど}}
+
+# [[precision]], [[accuracy]]
+#: {{ja-usex|データの精度があまり良くない|データ の せいど が あまり よくない|the data is not very accurate}}
+
+[[hu:精度]]
+[[zh:精度]]

@@ -1,0 +1,40 @@
+==Japanese==
+{{ja-kanjitab|い|ぜん|けい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|いぜんけい|acc=h|acc_ref=DJR,NHK|y=ko}}
+
+===Noun===
+{{ja-noun|いぜんけい}}
+
+# {{lb|ja|grammar|sort=いぜんけい}} a verbal inflectional category; the [[realis]] form as used in classical Japanese. Indicates that something is already the case, or is in the process of happening. The 已然形 has evolved into the [[仮定形]] ([[conditional]] form) now used in modern Japanese.
+
+====Related terms====
+* {{ja-r|仮定形|かていけい|gloss=[[conditional]]}}
+* {{ja-r|終止形|しゅうしけい|gloss=[[conclusive]]}}
+* {{ja-r|未然形|みぜんけい|gloss=[[irrealis]]}}
+* {{ja-r|命令形|めいれいけい|gloss=[[imperative]]}}
+* {{ja-r|連用形|れんようけい|gloss=[[adverbial]]}}
+* {{ja-r|連体形|れんたいけい|gloss=[[attributive]]}}
+
+===See also===
+* {{l|ja|仮定形}}
+
+===References===
+<references/>
+* {{cite-book
+|last=Shibatani
+|first=Masayoshi
+|title=The languages of Japan
+|publisher=Cambridge University Press
+|year=1990
+|pages=221-224
+|isbn=0-521-36918-5
+}}
+* {{cite-book
+|title=Kokugo Dai Jiten Dictionary. Shinsou-ban (Revised edition)
+|publisher=Shogakukan
+|year=1988
+}}
+
+[[it:已然形]]

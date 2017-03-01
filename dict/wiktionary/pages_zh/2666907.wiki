@@ -1,0 +1,27 @@
+==Japanese==
+{{ja-kanjitab|そん|ぞく|yomi=on}}
+
+===Noun===
+{{ja-noun|そんぞく}}
+
+# [[continuation]] in existence
+#: {{ja-usex|国の'''存続'''をかけて争った。|くに の '''そんぞく''' を かけて あらそった。|They fought for the nation's survival.}}
+
+====Synonyms====
+* {{ja-r|持続|じぞく}}, {{ja-r|継続|けいぞく}}
+
+===Verb===
+{{ja-verb-suru|そんぞく}}
+
+# [[continue]] to [[exist]]
+
+====Conjugation====
+{{ja-suru|そんぞく}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:存続]]
+[[hu:存続]]
+[[ja:存続]]
+[[zh:存続]]

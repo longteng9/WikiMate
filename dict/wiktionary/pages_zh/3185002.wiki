@@ -1,0 +1,36 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=nánshén
+|c=naam4 san4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[god]] {{gloss|male only}}
+
+====Coordinate terms====
+* {{zh-l|女神}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|お|かみ|k2=がみ|yomi=k}}
+
+===Etymology===
+{{compound|男|tr1=[[o]]|t1=[[man]]|神|tr2=[[kami]]|t2=[[god]]|lang=ja|sort=おがみ}}
+
+===Noun===
+{{ja-noun|おがみ}}
+
+# A [[male]] [[god]]
+
+====Antonyms====
+* {{ja-r|女神|めがみ|gloss=goddess}}
+[[Category:ja:Gods|おがみ]]
+
+[[mg:男神]]

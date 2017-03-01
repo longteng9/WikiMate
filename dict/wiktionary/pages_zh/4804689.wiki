@@ -1,0 +1,25 @@
+{{also|通曉}}
+==Japanese==
+{{ja-kanjitab|つう|ぎょう|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=つうぎょう}} compound {{m|zh|通曉|tr=thuwng xew<sup>X</sup>|lit=through, thorough + understand}}. Compare modern {{etyl|yue|-}} {{zh-l|通曉|tr=tung<sup>1</sup> hiu<sup>2</sup>|to thoroughly understand}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanyo|つうぎょう|acc=h|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|つうぎょう|kyu=通曉|hhira=つうげう}}
+
+# [[thorough]] [[knowledge]] of something
+
+===Verb===
+{{ja-verb-suru|trans=intrans|つうぎょう|kyu=通曉|hhira=つうげう}}
+
+# to be [[well]] [[versed]] in something, to be [[thoroughly]] [[acquainted]] with something
+#: {{ja-usex|教授は日本の文化に'''通暁'''している。|^きょうじゅ は にほん の ぶんか に '''つうぎょう''' して いる。|The professor is '''well versed''' in Japanese culture.}}
+
+===References===
+<references/>
+
+[[ja:通暁]]

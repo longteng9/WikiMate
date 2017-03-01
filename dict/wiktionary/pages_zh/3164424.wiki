@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gǎnzhī
+|c=gam2 zi1
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[perceive]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|ち|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|かんち|y=o}}
+
+===Noun===
+{{ja-noun|かんち}}
+
+# [[perception]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|かんち}}
+
+# to [[distinguish]], [[sense]], become [[aware]] of (see someone or something clearly or distinctly)
+#: {{ja-usex|煙を感知する火災警報器|けむり を かんち する かさい けいほうき|a fire alarm that detects smoke}}
+
+====Conjugation====
+{{ja-suru|かんち}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=감지}}
+
+# {{hanja form of|감지|[[perception]]}}
+
+[[ko:感知]]
+[[hu:感知]]
+[[mg:感知]]
+[[chr:感知]]
+[[zh:感知]]

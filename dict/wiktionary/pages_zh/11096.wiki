@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=09|sn=11|four=26227|canj=OAPV|ids=⿰亻曷}}
+
+# [[brave]]
+# [[martial]]
+# [[hasty]]
+# [[scudding]]
+
+====References====
+* {{Han ref|kx=0110.040|dkj=00836|dj=0234.010|hdz=10191.010|uh=5048|ud=20552|bh=D455|bd=54357}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jì
+|c=git6,gai6,gai2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|偈偈|偈子|偈言|偈頌}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人09}}
+
+# {{defn|lang=ja|sort=人09}}
+
+====Readings====
+* {{ja-readings|on=[[けつ]] (ketsu), [[けい]] (kei), [[げ]] (ge)|kun=[[いこう]] (ikou)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[게]], [[걸]]|rv=ge, geol|mr=ke, kŏl}}
+
+# {{defn|lang=ko|sort=人09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kệ]]|rs=人09}}
+
+# {{defn|lang=vi|sort=人09}}
+
+[[fr:偈]]
+[[ko:偈]]
+[[li:偈]]
+[[hu:偈]]
+[[mg:偈]]
+[[ja:偈]]
+[[pl:偈]]
+[[th:偈]]
+[[vi:偈]]
+[[zh:偈]]

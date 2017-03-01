@@ -1,0 +1,50 @@
+{{also|生态系}}
+==Chinese==
+{{zh-forms|s=生态系|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=shēngtàixì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[ecosystem]]
+
+====Synonyms====
+* {{zh-l|生態系統}}
+
+{{zh-cat|Ecology|Geography|Systems theory}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|せい|たい|けい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=ko|せいたいけい}}
+
+===Noun===
+{{ja-noun|せいたいけい}}
+
+# an [[ecosystem]] {{gloss|system of an ecological community and its environment}}
+
+{{topics|ja|sort=せいたいけい|Ecology|Geography|Systems theory}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=생태계|mr=saengt'aegye|y=sayngthaykyey}}
+
+# {{hanja form of|생태계|[[ecosystem]]}}
+
+[[ko:生態系]]
+[[lo:生態系]]
+[[lb:生態系]]
+[[hu:生態系]]

@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|る|す|ばん|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|sort=るすばん|留守|tr1=rusu|t1=absence|番|tr2=ban|t2=watch}}
+
+===Noun===
+{{ja-noun|るすばん}}
+
+# taking care of something while the owner is absent
+# a [[caretaker]]
+
+====Compounds====
+* {{ja-r|留守番電話|るすばんでんわ|gloss=[[answering machine]]}}
+
+===Verb===
+{{ja-verb-suru|るすばん}}
+
+# to take care of something while the owner is away
+
+====Conjugation====
+{{ja-suru|るすばん}}
+
+[[hu:留守番]]
+[[zh:留守番]]

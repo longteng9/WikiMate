@@ -1,0 +1,34 @@
+{{also|不饱和}}
+==Chinese==
+{{zh-forms|s=不饱和|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=不bǎohé
+|c=bat1 baau2 wo4
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|chemistry}} [[unsaturated]]
+
+====Derived terms====
+{{zh-der|不飽和脂肪}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|不|飽|和}}
+
+===Etymology===
+{{prefix|不|飽和|t1=-un|t2=saturation|lang=ja|sort=ほうわ}}
+
+===Noun===
+{{ja-noun|ふほうわ}}
+
+# {{lb|ja|chemistry|sort=ふほうわ}} [[unsaturated]]
+
+[[ja:不飽和]]
+[[zh:不飽和]]

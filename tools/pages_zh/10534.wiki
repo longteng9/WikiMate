@@ -1,0 +1,88 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{liushu|p}} – an animal; similar origin to [[豕]] and [[犭]].
+
+===Han character===
+{{Han char|rn=8|rad=亠|as=04|sn=6|four=00802|canj=YVHO|ids=⿳亠⿸𠃋丿人}}
+
+# the [[ordinal]] [[number]] [[twelve]], as used in the [[Wikipedia:Chinese calendar|Chinese calendar]] and in [[Wikipedia:Chinese units of measure|Chinese units of measure]]
+# [[twelfth]] of twelve [[earthly branch]]es ([[十二支]]): [[pig]] ([[猪]]) of [[W:Chinese zodiac|Chinese zodiac]]
+
+====Related characters====
+* [[豕]] [[犭]]
+
+====See also====
+* {{l|mul|玄}} <!-- Graphically similar -->
+
+====References====
+* {{Han ref|kx=0088.080|dkj=00292|dj=0186.010|hdz=10283.050|uh=4EA5|ud=20133|bh=A5E8|bd=42472}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=㐪,𠀅}}
+
+===Pronunciation===
+{{zh-pron
+|m=hài
+|c=hoi6
+|mn=hāi
+|h=pfs=hoi
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* {{thcwd|2051}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=亠04}}
+
+# {{defn|lang=ja|sort=亠04}}
+
+====Readings====
+* {{ja-readings|goon=[[かい]] (kai)|kanon=[[がい]] (gai)|kun=[[い]] (i), [[ゐ]] (wi, ''outdated'')}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=해|rv=hae|mr=hae}}
+
+# {{defn|lang=ko|sort=亠04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|hợi|rs=亠04}}
+
+# {{defn|lang=vi|sort=亠04}}
+
+[[zh-min-nan:亥]]
+[[fr:亥]]
+[[ko:亥]]
+[[li:亥]]
+[[hu:亥]]
+[[mg:亥]]
+[[ms:亥]]
+[[ja:亥]]
+[[no:亥]]
+[[pl:亥]]
+[[th:亥]]
+[[zh:亥]]

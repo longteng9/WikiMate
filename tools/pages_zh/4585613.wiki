@@ -1,0 +1,32 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shíjiè
+|c=sap6 gaai3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|religion}} the [[Ten Commandments]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|じゅう|かい|k1=じっ|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|sort=じっかい|十|tr1=jū|t1=ten|戒|tr2=kai|t2=commandments}}
+
+===Noun===
+{{ja-noun|じっかい}}
+
+# the [[Ten Commandments]]
+
+[[Category:ja:Religion|じっかい]]
+
+[[lt:十戒]]
+[[zh:十戒]]

@@ -1,0 +1,52 @@
+{{also|夸示}}
+==Chinese==
+{{zh-forms|s=夸示}}
+
+===Pronunciation===
+{{zh-pron
+|m=kuāshì
+|mn=khoa-sī
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[show off]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|こ|じ|yomi=on}}
+
+===Etymology===
+From {{etyl|zhx|ja}} {{m|cmn|誇示|tr=kuāshì||ostentation, showing off}} (simplified form {{m|cmn|夸示}}).
+
+===Pronunciation===
+* {{ja-pron|こじ|yomi=o}}
+
+===Noun===
+{{ja-noun|こじ}}
+
+# [[ostentation]], [[splurge]], [[flaunting]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|こじ}}
+
+# [[display]] [[proudly]]
+
+====Conjugation====
+{{ja-suru|こじ}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=과시}}
+
+# {{hanja form of|과시}}
+
+[[ko:誇示]]
+[[mg:誇示]]
+[[chr:誇示]]
+[[zh:誇示]]

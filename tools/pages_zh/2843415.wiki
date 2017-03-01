@@ -1,0 +1,68 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh|次元 (動漫用語)}}
+
+===Etymology===
+{{wasei kango|次%元|じ%げん}}
+
+===Pronunciation===
+{{zh-pron
+|m=cìyuán
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# a [[dimension]]
+
+{{zh-cat|Geometry|Linear algebra|Physics|Computing|Fiction}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|じ|げん|yomi=o}}
+{{rfe|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|じげん|acc=h|acc_ref=NHK,DJR,SMK5|y=o}}
+
+===Noun===
+{{ja-noun|じげん}}
+
+# a [[dimension]]
+# {{lb|ja|Magic: The Gathering}} a [[plane]]
+
+====Derived terms====
+* {{ja-r|超%次%元|ちょう%じ%げん|[[transdimensional]]}}
+
+===See also===
+* {{ja-r|寸%法|すん%ぽう}}
+
+===Descendants===
+* Chinese: {{zh-l|次元}}
+* Korean: {{ko-l|차원}}
+
+===References===
+<references/>
+
+{{C|ja|Geometry|Linear algebra|Physics|Computing|Fiction|Magic: The Gathering|sort=しげん'}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=차원|mr=ch'awŏn|y=chawen}}
+
+# {{hanja form of|차원|[[dimension]]}}
+
+[[ko:次元]]
+[[lo:次元]]
+[[hu:次元]]
+[[mg:次元]]
+[[zh:次元]]

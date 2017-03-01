@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shìqíng,tl=y
+|c=si6 cing4
+|h=pfs=sṳ-chhìn
+|mn=qz:sīr-chêng/tw,xm,zz:sū-chêng
+|md=sê̤ṳ-cìng
+|ma=zh-shìqing.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|countable}} [[matter]]; [[affair]]; [[something]]; [[business]]; [[thing]] {{zh-mw|件}}
+#: {{zh-x|處{chǔ}理 事情|to handle a '''matter'''}}
+#: {{zh-x|我 要 去 辦 點 '''事情''' 了。|I need to go take care of '''something'''.}}
+#: {{zh-x|'''事情''' 發生 在 去年 夏天。|'''It''' happened last summer.}}
+
+====Derived terms====
+{{zh-der|事情經過}}
+
+====See also====
+* (''Cantonese'') {{zh-l|嘢}}
+* (''Min Nan'') {{zh-l|代誌/代志|tāi-chì}}
+* (''Wu'') {{zh-l|事體/事体}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じ|じょう|yomi=on}}
+
+===Noun===
+{{ja-noun|じじょう}}
+
+# [[circumstance]]s
+# [[reason]]s
+
+====Synonyms====
+* {{sense|circumstances}} {{ja-r|情勢|じょうせい}}
+* {{sense|reasons}} {{ja-r|理由|りゆう}}
+
+====Compounds====
+* {{ja-r|事情通|じじょうつう}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:事情]]
+[[ko:事情]]
+[[hu:事情]]
+[[mg:事情]]
+[[ja:事情]]
+[[ta:事情]]
+[[chr:事情]]
+[[uk:事情]]
+[[zh:事情]]

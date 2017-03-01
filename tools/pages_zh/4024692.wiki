@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shēng息
+|c=sang1 sik1
+|mn=qz:sng-siak/xm:seng-sek/zz:seng-sit
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[inhabit]]; to [[live]] in {{gloss|a habitat}}
+# to bear interest
+#: {{zh-x|生息 資本|interest-bearing capital}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|そく|yomi=on}}
+
+===Alternative forms===
+* {{l/ja|棲息}}
+
+===Noun===
+{{ja-noun|せいそく}}
+
+# [[habitation]]
+
+===Verb===
+{{ja-verb-suru|せいそく}}
+
+# to [[inhabit]], to [[live]] in (a habitat)
+
+====Conjugation====
+{{ja-suru|せいそく}}
+
+[[mg:生息]]
+[[ja:生息]]
+[[zh:生息]]

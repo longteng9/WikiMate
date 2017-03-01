@@ -1,0 +1,54 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|ま|じん|yomi=on}}
+From {{etyl|ltc|ja|sort=まじん}} {{m|ltc|魔神|tr=*mɑ? *jhin|lit=demon, evil spirit” + “god, spirit}}. Compare modern {{etyl|cmn|-}} {{zh-l|魔神|tr=móshén}}.
+
+The [[呉音#Japanese|''goon'']] reading, so likely the reading as originally imported from {{etyl|ltc|-}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|acc=0|acc_ref=DJR|まじん}}
+
+====Noun====
+{{ja-noun|まじん}}
+
+# a [[malevolent]] [[deity]] that causes [[misfortune]] and [[disaster]]
+# an [[evil]] [[spirit]]
+
+=====Synonyms=====
+* {{sense|evil spirit}} {{ja-r|悪魔|あくま}}
+
+=====Usage notes=====
+The ''mashin'' reading appears to be less common than the ''majin'' reading.
+
+===Etymology 2===
+{{ja-kanjitab|ま|しん|yomi=on}}
+Shift in pronunciation from ''majin'', using the [[漢音#Japanese|''kan'on'']] reading of ''shin'' for {{ja-l|神}}.
+
+{{IPAchar|/mad͡ʑin/}} → {{IPAchar|/maɕin/}}
+
+A mixed [[呉音#Japanese|''goon'']]-[[漢音#Japanese|''kan'on'']] reading reading, so likely a later development after borrowing.
+
+====Pronunciation====
+{{ja-pron|yomi=on|acc=0|ましん}}
+
+====Noun====
+{{ja-noun|ましん}}
+
+# a [[malevolent]] [[deity]] that causes [[misfortune]] and [[disaster]]
+# an [[evil]] [[spirit]]
+
+=====Synonyms=====
+* {{sense|evil spirit}} {{ja-r|悪魔|あくま}}
+
+=====Usage notes=====
+The ''mashin'' reading appears to be less common than the ''majin'' reading.
+
+===References===
+<references/>
+
+[[Category:ja:Mythological creatures]]
+
+[[hu:魔神]]
+[[mg:魔神]]

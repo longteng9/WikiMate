@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|纶}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=08|sn=14|four=28927|canj=VFOMB}}
+
+# green silk thread or tassel
+
+====References====
+* {{Han ref|kx=0928.070|dkj=27583|dj=1365.070|hdz=53416.100|uh=7DB8|ud=32184|bh=BAFA|bd=47866}}
+
+----
+
+==Chinese==
+{{zh-forms|s=纶}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|糸|侖|c1=s|c2=p|t1=silk|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=guān,lún
+|c=gwaan1,leon4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|垂綸|如奉綸音|布綸堡|彌綸|氯綸|滿腹經綸|盧綸|紛綸|絲綸|經綸|經綸滿腹|經綸濟世|綸巾|綸扉|綸綍|綸連|綸音|綸音佛語|羽扇綸巾|錦綸}}
+
+===References===
+* {{R:twedu|A03143}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=糸08}}
+
+# {{defn|lang=ja|sort=糸08}}
+
+====Readings====
+* {{ja-readings|on=[[りん]] (rin), [[かん]] (kan)|kun=[[いと]] (ito)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[륜]]>[[윤]], [[관]]|eumhun=|rv=ryun>yun, gwan|mr=ryun>yun, kwan|y=lyun>yun, kwan}}
+
+# {{defn|lang=ko|sort=糸08}}
+[[fr:綸]]
+[[li:綸]]
+[[ja:綸]]
+[[pl:綸]]
+[[th:綸]]
+[[zh:綸]]

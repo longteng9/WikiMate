@@ -1,0 +1,159 @@
+{{character info/new}}
+{{also|鲇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=05|sn=16|four=|canj=NFYR|ids=⿰魚占}}
+
+# A [[sheatfish]], the {{vern|Japanese catfish|pedia=1}}, {{taxlink|Parasilurus asotus|species|noshow=1}}.
+
+====References====
+* {{Han ref|kx=1468.100|dkj=46070|dj=2001.160|hdz=74680.140|uh=9B8E|ud=39822}}
+
+====See also====
+* {{l|mul|占}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚05}}
+
+# [[ayu]], [[sweetfish]]
+
+====Readings====
+{{ja-readings
+|goon=[[ねん]] (nen)
+|kanon=[[でん]] (den)
+|kun=[[あゆ]] (ayu), [[あい]] (ai), [[なまず]] (namazu) {{qualifier|rare}}
+}}
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja|アユ|鮎}}
+{{wikipedia|Ayu}}
+[[File:Ayu_no_Shioyaki.jpg|thumb|250px|{{lang|ja|鮎}} (''ayu'', ''ai''): the '''[[ayu]]''' or '''[[sweetfish]]'''.]]
+</div>
+{{ja-kanjitab|yomi=k|あゆ}}
+Uncertain.
+* One commonly encountered etymology suggests that ''ayu'' may derive from {{m|ja|饗|tr=ae||hosting someone to a meal}}, in reference to the way that this fish may be used in Shinto [[offering]]s.<ref name="ateji"/> However, this would have been pronounced ''ape'' in ancient times, and while this ''ape'' did later become ''ahe'', and a shift from ''-he'' to ''-ye'' did occur in many terms during the {{w|Muromachi period}}<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>, the word ''ayu'' in reference to the fish appeared in the ''{{w|Man'yōshū}}'' dating to the late 700s at the latest, and is thus too old for this shift to have occurred.
+* Another common etymology states that ''ayu'' may be from extinct {{etyl|ojp|ja|sort=あゆ}} term {{m|ja|落ゆ|tr=ayu||to fall, as nuts from a tree; to flow down, as liquid in a stream}}, in reference to the way that ''ayu'' swim downstream to [[spawn]] in the [[autumn]].<ref name="ateji">'''1988''': あて字のおもしろ雑学 (''Interesting Ateji Trivia'', in Japanese), Freelance Trivia Writers, p.46, Nagaokashoten, Ltd.</ref> Some references<ref>Gogen Allguide, http://gogen-allguide.com/a/ayu_sakana.html</ref> suggest that this is not very eventful and that this etymology is therefore unlikely. However, there are terms specific to the ''ayu'' downstream migration, such as {{m|ja|落鮎|tr=ochiayu||''ayu'' migrating downstream to spawn}} and {{m|ja|鮎落つ|tr=ayuotsu||''ayu'' migrating downstream to spawn}}, suggesting that this event has been culturally important enough that the {{m|ja|落ゆ|tr=ayu}} derivation may be [[plausible]].
+* Alternatively, this term may be borrowed from {{etyl|ain|ja|sort=あゆ}} {{m|ain|アイ|tr=ay||arrow}} in reference to how fast the fish moves. See also obsolete Japanese reading ''ai'' below.
+
+The kanji spelling {{lang|ja|鮎}} in reference to [[sweetfish]] is specific to Japan, probably in reference to the way the fish ({{ja-l|魚}}) stakes out its territory ({{ja-l|占}}). There is another tale wherein {{w|Empress Jingū}} caught an ''ayu'' and thereby prophesied (also spelled {{ja-l|占}}) the outcome of a battle, but this is likely a [[folk etymology]]. In China and elsewhere, the {{lang|ja|鮎}} character refers instead to [[catfish]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The kanji spelling {{ja-l|年魚}} is in reference to the common one-year lifespan of this fish.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+The kanji spelling {{ja-l|香魚}} is in reference to its sweet-tasting flesh.<ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|あゆ|acc=1|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|年魚}}, {{ja-l|香魚}}
+
+====Noun====
+{{ja-noun|あゆ|アユ}}
+
+# A [[sweetfish]], an [[amphidromous]] fish of East Asia, the only member of its [[genus]], {{taxlink|Plecoglossus altivelis|species|noshow=1}}, prized for its sweet-tasting flesh. It is a [[game]] fish and is also subject to extensive [[aquaculture]].
+
+=====Usage notes=====
+As with many terms used in biology, this term is often spelled in [[katakana]].
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|鮎掛|あゆかけ}}: ''ayu'' catching: fishing for ''ayu'' with a hook and line
+* {{ja-r|鮎寄|あゆよせ}}: alternate for {{m|ja|鮎豆腐|tr=ayudōfu}}; see below
+* {{ja-r|鮎擬|あゆもどき}}: the {{taxlink|Parabotia curtus|species|noshow=1}} (formerly {{taxlink|Leptobotia curta|species|noshow=1}}) or {{vern|kissing loach|pedia=1}} fish; a kind of dish made with tofu cut into long strips, [[sauteed]] in oil, then prepared with [[smartweed]] [[vinegar]] in a fashion similar to salt-roasted ''ayu''
+* {{ja-r|鮎汲|あゆ くみ}}: using a net on a pole to catch young ''ayu'' as they swim [[upstream]] in March or April
+* {{ja-r|鮎祭|あゆ まつり}}: a [[festival]] formerly held at {{w|Ise Shrine}} on the fifth day of the fifth [[lunar month]]
+* {{ja-r|鮎刺|あゆさし}}: alternate name for the {{m|ja|小鰺刺|tr=koajisashi||little tern}}
+* {{ja-r|鮎子|あゆこ}}: ''ayu'' [[fry]]; a term of [[endearment]] for the ''ayu'' fish
+* {{ja-r|鮎鷹|あゆたか}}: alternate name for the {{m|ja|小鰺刺|tr=koajisashi||little tern}}
+* {{ja-r|鮎豆腐|あゆどうふ}}: ground ''ayu'' sandwiched between layers of [[strained]] [[tofu]], placed on a wooden board, and [[steam]]ed
+* {{ja-r|鮎落つ|あゆおつ}}: ''ayu'' migrating [[downstream]] to [[spawn]]
+* {{ja-r|鮎籠|あゆ かご}}: an ''ayu'' [[basket]], made of [[bamboo]] with a narrow opening and bulging bottom, used in ancient times to trap ''ayu''
+* {{ja-r|鮎鮨|あゆずし}}: a kind of [[sushi]] prepared by salting or vinegaring a gutted and cleaned ''ayu'' fish, then presenting with the belly packed with rice; popular during the {{w|Edo period}}
+{{der-mid}}
+* {{ja-r|落鮎|おちあゆ}}: ''ayu'' migrating [[downstream]] to [[spawn]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|あい}}
+Obsolete variant of ''ayu'' pronunciation. May have been the original pronunciation.
+
+====Pronunciation====
+{{ja-pron|yomi=k|あい}}
+
+====Noun====
+{{ja-noun|あい}}
+
+# {{lb|ja|sort=あい|obsolete}} see ''ayu'' above
+
+=====Usage notes=====
+Found in some compounds. Generally not used on its own.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|鮎並|あいなめ}}, {{ja-r|鮎魚女|あいなめ}}: a [[greenling]], a kind of [[marine]] [[fish]], so named for its similarities to the ''ayu''
+* {{ja-r|鮎鷹|あいたか}}: alternate name for the {{m|ja|小鰺刺|tr=koajisashi||little tern}}
+{{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|なまず}}
+The kanji spelling {{lang|ja|鮎}} in reference to [[sweetfish]] is specific to Japan. In China and elsewhere, the {{lang|ja|鮎}} character refers instead to [[catfish]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> See the {{ja-l|鯰}} entry for more detail about the Japanese term ''namazu''.
+
+====Pronunciation====
+{{ja-pron|yomi=k|なまず|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|鯰}} {{qualifier|more common}}
+
+====Noun====
+{{ja-noun|なまず|hhira=なまづ}}
+
+# {{lb|ja|sort=なまず|rare}} a [[catfish]]
+
+===References===
+<references/>
+
+[[Category:ja:Smelts|あゆ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=점|eumhun=|rv=jeom|mr=chŏm|y=cem}}
+
+# ([[메기]]) [[catfish]], [[sheatfish]]
+
+====Synonyms====
+* {{l|ko|鰋}} (언, ''eon'')
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|sim=鲇|pin=[[nián]] ([[nian2]])|wg=nien<sup>2</sup>}}
+
+# {{defn|lang=cmn|sort=魚05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chẻm]], [[niềm]], [[nhương]]|rs=魚05}}
+
+# {{defn|lang=vi|sort=魚05}}
+
+[[fr:鮎]]
+[[ko:鮎]]
+[[mg:鮎]]
+[[ja:鮎]]
+[[pl:鮎]]
+[[th:鮎]]
+[[zh:鮎]]

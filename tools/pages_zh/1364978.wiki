@@ -1,0 +1,34 @@
+==Japanese==
+{{ja-kanjitab|南|蛮|人}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=なんばんじん|南蛮|tr1=nanban|t1=southern barbarian|人|tr2=jin|t2=person}}.
+
+Originally used to refer to the southern {{m|ja|夷|tr=ebisu|pos=non-Japanese ethnic groups living in the Japanese archipelago}}, later used to refer to westerners arriving in Japan from the south. In this later usage, ''nanbanjin'' first referred just to the [[Portuguese]] and [[Spanish]], while the Dutch were called {{m|ja|紅毛|tr=kōmō||red hair}}. Over time, this distinction became less important, and ''nanbanjin'' referred to westerners in general.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|n|な|んばんじ|ん}}<ref name="DJR"/>
+* {{ja-accent-common|n|な|んば|んじん}}<ref name="DJR"/>
+* {{IPA|lang=ja|[nã̠mbã̠ɴd͡ʑĩɴ]}}
+
+===Noun===
+{{ja-noun|なんばんじん}}
+
+# {{lb|ja|sort=なんばんじん|derogatory|archaic}} a [[foreigner]] from [[Portugal]] or [[Spain]]; more broadly, a [[westerner]] in general
+#* c. 1615-1644: きのふはけふの物語 (page 64)
+#*: {{lang|ja|ちご、法師よりあひ、田楽をあぶり、「何にても、三はねたる事をいふて賞翫せう」といふて、「雲林院」の、「'''南蠻人'''」の、「煎茶瓶」の、「神泉苑」などいふて、みな一串づゝとられけるに、小ちご、「昆元丹」とて二つ参る。}}<ref>{{cite-book
+|last=Odaka
+|first=Toshio
+|title=Nihon Koten Bungaku Taikei 100: Edo Shōwashū
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|date=1966
+|location=Tōkyō
+|isbn=4-0006-0100-8}}</ref>
+
+===External links===
+* {{pedia|Nanban trade}}
+* {{pedia|History_of_Japan#Sakoku.E2.80.94seclusion_from_the_outside_world|History of Japan#Sakoku—seclusion from the outside world}}
+
+===References===
+<references/>

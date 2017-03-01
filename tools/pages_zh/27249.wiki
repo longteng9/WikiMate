@@ -1,0 +1,92 @@
+{{character info/new}}
+{{also|儆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=12|sn=19|four=48601|canj=TKYMR|ids=⿱敬言}}
+
+====Related characters====
+* [[儆]]
+
+====References====
+* {{Han ref|kx=1183.050|dkj=35989|dj=1645.300|hdz=64017.040|uh=8B66|ud=35686|bh=C4B5|bd=50357}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|敬|言|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jǐng
+|c=ging2
+|h=pfs=kín
+|j=jing2
+|md=gīng
+|mn=xm,qz,twv:kèng/zz,tw:kéng
+|w=2jin
+|mc=y
+|oc=y
+|cat=v,a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[warn]]; to [[admonish]]
+#: {{zh-x|警告|to warn}}
+# to be on the [[alert]]; to be [[vigilant]]
+#: {{zh-x|警覺{jué}|vigilance}}
+# [[intuitive]]; [[sharp]]; [[alert]]
+# [[aphoristic]]; [[epigrammatic]]; [[witty]]
+# [[alarm]]; [[alert]]; [[siren]]
+#: {{zh-x|火警|fire alarm}}
+# {{zh-short|警察|[[police]]}}
+
+===Compounds===
+{{zh-der|警察|警告|保警|以一警百|交警|刑警隊|女警|告警|制服警察|司法警察|專業警察|劣化警報|員警|報警|出警入蹕|崗警|察警|公路警察|刑事警察|刑警|保安警察|便衣警察|機警|獄警|拉警報|法警|撞警鐘|犬吠之警|晏開之警|港警|狗吠之警|水上警察|空襲警報|振警愚頑|祕密警察|示警|特警|火警|煙火之警|殲一警百|武警|空氣警報|檢警合一|懲一警百|警備區|警告牌|警標|警世|警勤區|警務|觸目警心|跑警報|鐵路警察|警察勤務|警鈴|警政|警官|警戒色|警犬|警報|警械|警策|警示|警笛|義勇警察|警備森嚴|颱風警報|警世鐘|警車|警報器|警兆|警察節|鶴警|警訊|邊警|警角|警巡|路警|軍警|警覺|義警|警世通言|警心滌慮|警句|行政警察|警眾|警衛|警察權|警察局|警局|警員|巡警|警鴿|經濟警察|駐警|駐衛警察|警網|預警|警備|門警|警候|鎮暴警察|警察制度|違警|警醒|警告啟事|緊急警報|違警罰法|警鐘|警動|警號|軍法警察|軍事警察|警鼓|警察學|警蹕|警語|警枕|警政署|警探|警戒|警戒線|警惕|警官學校|警務處|誅一警百|警察學校}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=言13}}
+
+# [[admonish]]
+
+====Readings====
+* {{ja-readings|goon=[[きょう]] (kyō)|kanon=[[けい]] (kei)|kun=[[いましめる]] (imashimeru), [[いましめ]] (imashime)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|eumhun=}}
+
+# {{defn|lang=ko|sort=言13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cảnh]], [[khểnh]]|rs=言13}}
+
+# {{defn|lang=vi|sort=言13}}
+
+[[fr:警]]
+[[ko:警]]
+[[hu:警]]
+[[mg:警]]
+[[ja:警]]
+[[no:警]]
+[[pl:警]]
+[[ru:警]]
+[[th:警]]
+[[zh:警]]

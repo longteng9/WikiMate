@@ -1,0 +1,48 @@
+{{also|有无}}
+==Chinese==
+{{zh-forms|s=有无}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǒuwú
+|c=jau5 mou4
+|md=ô mò̤
+|mn=xm,zz,tw:ū-bô/qz:ǔ-bô
+|mn-t=u7 bho5
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[existence]]; [[presence]] or [[absence]]
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary|or|Min}} to [[have]] or [[not]] have; [[is]] [[there]]?
+
+====Synonyms====
+* {{qualifier|Mandarin}} {{zh-l|[[有]][[沒有]]/[[有]][[没有]]}}
+* {{qualifier|Cantonese}} {{zh-l|有冇}}
+
+{{zh-cat|Antonymous}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|う|む|yomi=on}}
+
+===Noun===
+{{ja-noun|うむ}}
+
+# [[existence]], presence or absence
+#: {{ja-usex|怖いのはアルコールより肝炎の'''有無'''を知らないことだ。|こわい の は アルコール より かんえん の '''うむ''' を しらない こと だ。|What’s scarier is not alcohol but not knowing whether you have hepatitis.}}
+
+[[fr:有無]]
+[[ko:有無]]
+[[lo:有無]]
+[[hu:有無]]
+[[mg:有無]]
+[[ja:有無]]
+[[zh:有無]]

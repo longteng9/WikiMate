@@ -1,0 +1,60 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=08|sn=12|four=40948|canj=DYOJ|ids=⿰木卒}}
+
+====References====
+* {{Han ref|kx=0536.060|dkj=15019|dj=0923.190|hdz=21237.010|uh=690A|ud=26890|bh=D9CB|bd=55755}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuó,cuì
+|c=zyut6
+|mc=y
+|oc=y
+|ma=
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[fit]] a [[handle]] into a [[socket]]
+# [[plug]], [[cork]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木08}}
+
+# {{defn|lang=ja|sort=木08}}
+
+====Readings====
+* {{ja-readings|on=[[そつ]] (sotsu), [[さつ]] (satsu), [[すい]] (sui)|kun=[[ほぞ]] (hozo)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木08|hanviet=chốt}}
+
+# {{defn|lang=vi|sort=木08}}
+
+[[fr:椊]]
+[[hu:椊]]
+[[mg:椊]]
+[[pl:椊]]
+[[th:椊]]
+[[zh:椊]]

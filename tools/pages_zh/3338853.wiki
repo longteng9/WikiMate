@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|はい|ろ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|はいろ|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はいろ}}
+
+# [[decommissioning]] a nuclear reactor
+
+===Verb===
+{{ja-verb-suru|tr=trans|はいろ}}
+
+# [[decommission]] a nuclear reactor
+
+====Conjugation====
+{{ja-suru|はいろ}}
+
+===References===
+<references/>
+
+[[hu:廃炉]]

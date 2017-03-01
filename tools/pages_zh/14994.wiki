@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=53|rad=广|as=04|sn=7|four=00222|canj=ININ|ids=⿸广予}}
+
+====References====
+* {{Han ref|kx=0343.350|dkj=09253|dj=0653.220|hdz=20875.180|uh=5E8F|ud=24207|bh=A7C7|bd=42951}}
+
+----
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|广|予|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xù
+|c=zeoi6
+|h=pfs=
+|md=
+|mn=qz:sǐr/tw,xm:sū/twvk,zz:sī
+|w=
+|mc=y
+|oc=y
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[order]]; [[sequence]]
+# [[preface]] (of a [[book]]); [[foreword]]
+# [[introductory]]
+
+===Compounds===
+{{zh-der|序論|層序分明|序言|保全程序|原子序數|分班序齒|原子序|主序星|卷繖花序|循序|大序|庠序|序班|序錄|序跋|序目|序次|序曲|序時帳|序文|序數|序戰|序升|序列|四序|平鋪直序|出言有序|小序|愆序|代序|序幕|孝經序|依序|亂中有序|差序|序齒|寒溫序|序卦|倫序|壽序|主序帶|向心花序|循序漸進|井然有序|本末有序|破邪論序|程序違建|時序|程序法|次序|產銷秩序|拍序|新序|法定程序|穗狀花序|程序控制|程序圖|程序問題|程序修憲|程序|秩序井然|秩序|毛序|社會秩序|班序|短序|有限花序|無限花序|滕王閣序|敦序|流水序|旻序|聚繖花序|蘭亭集序|順序|紛亂無序|蘭亭序|葉序|鴈序|詞序|語序|立法程序|雁序|隱頭花序|膠序|鷺序|長幼有序|繖房花序|紀序|詩序|脫序|肉穗花序|聖教序|輪繖花序|自序|贈序|總狀花序|花序|芳序}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=广04}}
+
+# preface
+
+====Readings====
+* {{ja-readings|goon=[[じょ]] (jo)|kanon=[[しょ]] (sho)|kun=[[ついで]] (tsuide), [[のべる]] (noberu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=서|rv=seo|mr=sŏ}}
+
+# {{defn|lang=ko|sort=广04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tựa]], [[tự]]|rs=广04}}
+
+# {{defn|lang=vi|sort=广04}}
+
+[[fr:序]]
+[[ko:序]]
+[[hu:序]]
+[[mg:序]]
+[[ja:序]]
+[[no:序]]
+[[pl:序]]
+[[th:序]]
+[[zh:序]]

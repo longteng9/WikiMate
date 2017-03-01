@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=08|sn=12|four=11904|canj=LYD|ids=⿱非木}}
+
+====References====
+* {{Han ref|kx=0532.080|dkj=14927|dj=0920.150|hdz=21230.020|uh=68D0|ud=26832|bh=D9C6|bd=55750}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fěi
+|c=fei2
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[species]] of [[yew]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木08}}
+
+# {{defn|lang=ja|sort=木08}}
+
+====Readings====
+* {{ja-readings|on=[[ひ]] (hi), [[び]] (bi)|kun=[[ゆだめ]] (yudame)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=비|eumhun=|rv=bi|mr=pi|y=pi}}
+
+# {{defn|lang=ko|sort=木08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木08|hanviet=phỉ}}
+
+# {{defn|lang=vi|sort=木08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=68d0 Nom Foundation]
+
+[[fr:棐]]
+[[ko:棐]]
+[[hu:棐]]
+[[pl:棐]]
+[[th:棐]]
+[[zh:棐]]

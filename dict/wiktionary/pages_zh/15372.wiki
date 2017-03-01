@@ -1,0 +1,120 @@
+{{character info/new}}
+{{also|唸}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=04|sn=8|four=80332|canj=OINP|ids=⿱今心}}
+
+====Derived characters====
+* [[諗]] ([[谂]]), [[埝]], [[捻]], [[捻]], [[唸]], [[淰]], [[惗]], [[棯]], [[腍]], [[焾]], [[稔]], [[艌]], [[踗]], [[錜]] ([[𫓻]]), [[鯰]] ([[鲶]]), [[騐]], [[敜]], [[菍]], [[趝]]
+
+====References====
+* {{Han ref|kx=0378.210|dkj=10390|dj=0706.210|hdz=42274.040|uh=5FF5|ud=24565|bh=A9C0|bd=43456}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etyl}}
+
+===Etymology 1===
+{{zh-forms}}
+From {{inh|zh|sit-pro|*s-njam}}. Cognate with {{cog|bo|ཉམ}}, {{m|bo|ཉམས||soul, mind, heart}}, {{m|bo|སྙམ||to think, to feel}} ({{zh-ref|Quan, 1996}}). Related to {{och-l|恁|to think, to miss}}.
+
+====Pronunciation====
+{{zh-pron
+|m=niàn
+|c=nim6
+|h=pfs=ngiam
+|md=nâing/niêng
+|md_note=nâing - colloquial (“to chant; to recite; to read aloud; to talk about over and over”); niêng - literary (“to think; to read (silently); thought; twenty”)
+|mn=liām
+|w=3nyie,3nye
+|mc=y
+|oc=y
+|ma=y
+|cat=v,n,num,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[miss]]; to [[long]] for; to [[think]] of; to [[recall]]
+# to [[consider]]; to [[contemplate]]
+# {{zh-alt-form|唸|to [[read]] [[aloud]]; to [[read out]]}}
+# to [[study]]; to [[learn]]
+# {{zh-alt-form|廿|[[twenty]]}}
+# to [[worry]]; to be [[anxious]] about
+# to [[feel]] [[compassion]] for; to [[pity]]
+# to [[show]] [[tender]] [[affection]] for
+# to [[commemorate]]; to [[memorialise]]; to [[pay]] [[tribute]] to
+# [[idea]]; [[thought]]
+# {{lb|zh|Buddhism}} [[memory]]
+# {{surname|lang=zh}}
+
+===Etymology 2===
+{{zh-see|唸||to read aloud}}
+
+===Compounds===
+{{zh-der|紀念品|一念|一念三千|一念之差|一念之錯|一念之間|一念堅貞|不念舊惡|不念荷戈|五會念佛|作念|俗念|信念|俯念|價值觀念|叨念|可念|唱作念打|唱念|四念處|地域觀念|垂念|塵念|妄念|廑念|心心念念|心念|念不絕口|念佛|念佛三昧|念力|念叨|念咒|念央兒|念子曰|念孜孜|念心兒|念念|念念不忘|念念有詞|念慮|念曲叫曲|念書|念歌|念珠|念白|念短頭經|念秧|念米佛|念經|念舊|念茲在茲|念誦|念豆兒佛|念頭|思念|恤孤念寡|恤孤念苦|恩念|悼念|惜孤念寡|惦念|想念|意念|意念喜劇|感念|慾念|憶念|懷念|懸念|挂念|掛念|斷念|概念|概念句|概念車|欲念|正念|歧念|沒咒念|深念|渴念|王念孫|理念|留念|痛念|白詞念賦|百念|百念皆灰|眷念|眷念無斁|瞻念|萬念俱灰|私心雜念|私念|稱名念佛|篤念|系念|紀念|紀念信封|紀念冊|紀念堂|紀念塔|紀念幣|紀念日|紀念會|紀念物|紀念碑|紀念郵票|紀念章|紀念館|結念|繫念|罣念|舊念復萌|蓄念|複合概念|觀念|觀念形態|觀想念佛|記念|說念|貪念|軫念|轉念|追念|遙念|遺念|邪念|關連概念|雜念|題念|願寘誠念|顧念|食不念飽|首丘之念|馳念|體念|魔念|默念}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=心04}}
+
+# {{defn|lang=ja|sort=心04}}
+
+====Readings====
+* {{ja-readings|goon=[[ねん]] (nen)|kanon=[[でん]] (den) {{non-joyo-reading}}|kun=[[おもう]] (omou), ''oral'': [[ねんじる]] ([[念じる]], nenjiru), ''written'': [[ねんずる]] ([[念ずる]], nenzuru)}}
+
+===Noun===
+{{ja-noun|ねん}}
+
+# [[sense]]
+# [[feeling]]
+
+====Compounds====
+* [[念仏]] (ねんぶつ, nenbutsu)
+* 四念処 (しねんじょ, shinenjo) : Maha SatiPatthana
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[념]]>[[염]]|eumhun=|mr=nyŏm>yŏm|y=nyem>yem}}
+
+# {{defn|lang=ko|sort=心04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[niệm]], [[niềm]], [[núm]]|rs=心04}}
+
+# {{defn|lang=vi|sort=心04}}
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+[[fr:念]]
+[[ko:念]]
+[[it:念]]
+[[lo:念]]
+[[li:念]]
+[[hu:念]]
+[[mg:念]]
+[[ja:念]]
+[[no:念]]
+[[pl:念]]
+[[fi:念]]
+[[ta:念]]
+[[th:念]]
+[[chr:念]]
+[[uk:念]]
+[[zh:念]]

@@ -1,0 +1,33 @@
+==Chinese==
+{{zh-forms|type=21}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=rùshèjiǎo
+|c=jap6 se6 gok3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|physics}} [[angle of incidence]] {{gloss|angle that straight line makes with the normal of a surface}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|にゅう|しゃ|かく|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|にゅうしゃかく|y=on}}
+
+===Noun===
+{{ja-noun|にゅうしゃかく}}
+
+# [[angle of incidence]] {{gloss|angle that straight line makes with the normal of a surface}}
+
+[[ky:入射角]]
+[[hu:入射角]]
+[[ja:入射角]]
+[[zh:入射角]]

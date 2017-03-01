@@ -1,0 +1,62 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=11|sn=14|four=40446|canj=VYTJ|ids=⿰女章}}
+
+# {{lb|cmn|archaic}} the [[father]] and [[mother]] of a [[woman]]'s [[husband]]
+
+====References====
+* {{Han ref|kx=0269.310|dkj=06649|dj=0537.200|hdz=21078.050|uh=5ADC|ud=23260|bh=E16B|bd=57707}}
+* [http://yedict.com/htm/5A/5ADC.htm yedict.com (叶典)]
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=[[zoeng1]]|y=jeung1}}
+
+# {{defn|lang=yue|sort=女11}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女11}}
+
+# {{defn|lang=ja|sort=女11}}
+
+====Readings====
+* {{ja-readings|on=[[しゃう]] (shau)|kun=[[しうと]] (shiuto), [[しうとめ]] (shiutome)}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[zhāng]] ([[zhang1]])|wg=chang<sup>1</sup>}}
+
+# {{defn|lang=cmn|sort=女11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=女11|hanviet=chương}}
+
+# {{defn|lang=vi|sort=女11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5adc Nom Foundation]
+
+[[fr:嫜]]
+[[hu:嫜]]
+[[mg:嫜]]
+[[pl:嫜]]
+[[ro:嫜]]
+[[th:嫜]]
+[[chr:嫜]]
+[[zh:嫜]]

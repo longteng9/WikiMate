@@ -1,0 +1,59 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=Běijíhǎi
+|c=bak1 gik6 hoi2
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-propn}}
+
+# {{zh-synonym|北冰洋}}
+
+===See also===
+* {{list:oceans/zh}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ほく|k1=ほっ|きょく|かい|yomi=o}}
+
+===Etymology===
+{{compound|ja|北極|海|tr1=hokkyoku|t1=[[North Pole]]|tr2=kai|t2=[[sea]]|sort=ほっきょくかい}}
+
+===Pronunciation===
+{{ja-pron|ほっきょくかい|y=o|acc=4}}
+{{ja-pron|ほっきょくかい|y=o|acc=3|dev=5}}
+
+===Proper noun===
+{{ja-pos|proper|ほっきょくかい|hhira=ほくきょくかい}}
+
+# the [[Arctic Ocean]]
+
+===See also===
+* {{list:oceans/ja}}
+
+{{topics|ja|Oceans|sort=ほっきょくかい}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Proper noun===
+{{ko-propn|hangeul=북극해|mr=Pukkŭkhae|y=Pukqkuk.hay}}
+
+# {{hanja form of|북극해|[[Arctic Ocean]]}}
+
+[[fr:北極海]]
+[[ko:北極海]]
+[[lo:北極海]]
+[[lt:北極海]]
+[[li:北極海]]
+[[hu:北極海]]
+[[pt:北極海]]
+[[ro:北極海]]

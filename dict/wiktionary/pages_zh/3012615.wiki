@@ -1,0 +1,55 @@
+{{also|胁迫}}
+==Chinese==
+{{zh-forms|s=胁迫}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiépò
+|c=hip3 baak1
+|mn=qz:hia̍p-piak/tw,xm,zz:hia̍p-pek
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[coerce]]; to [[compel]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|きょう|はく|yomi=on}}
+
+===Pronunciation===
+* {{hyphenation|kyō|ha|ku|lang=ja}}
+
+===Noun===
+{{ja-noun|きょうはく}}
+
+# [[threat]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|きょうはく}}
+
+# to [[threaten]]
+#: {{ja-usex|言うことを聞けと'''脅迫'''した|いう こと を きけ と '''きょうはく''' した。|They threatened to act as they said.}}
+
+====Conjugation====
+{{ja-suru|きょうはく}}
+
+----
+
+==Korean==
+{{ko-hanjatab|脅|迫}}
+
+===Noun===
+{{ko-noun|hangeul=협박}}
+
+# {{hanja form of|협박|blackmail}}
+
+[[de:脅迫]]
+[[ko:脅迫]]
+[[hu:脅迫]]
+[[mg:脅迫]]
+[[chr:脅迫]]
+[[zh:脅迫]]

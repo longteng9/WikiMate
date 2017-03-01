@@ -1,0 +1,33 @@
+{{also|不定积分}}
+==Chinese==
+{{zh-forms|s=不定积分|type=22}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=不dìng jīfēn
+|c=bat1 ding6 zik1 fan1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|calculus}} [[indefinite integral]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふ|てい|せき|ぶん}}
+
+===Noun===
+{{ja-noun|ふてい-せきぶん}}
+
+# {{lb|ja|calculus|sort=ふていせきぶん}} an [[indefinite integral]], [[antiderivative]]
+
+====Related terms====
+* {{ja-r|定積分|ていせきぶん}}: [[definite integral]]
+* {{ja-r|積分|せきぶん}}: [[integration]], [[integral]]
+
+[[ko:不定積分]]
+[[zh:不定積分]]

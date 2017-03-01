@@ -1,0 +1,93 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=08|sn=11|four=62014|canj=RHJM|ids=⿰口垂}}
+
+====References====
+* {{Han ref|kx=0194.140|dkj=03785|dj=0414.200|hdz=10641.140|uh=553E|ud=21822|bh=B3E8|bd=46056}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|口|垂|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=tuò
+|m-s=to4
+|c=to3,toe3,tou3,toe5
+|h=pfs=
+|md=
+|mn=thò/qz:thò͘
+|w=
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[saliva]]
+# to [[spit]]
+# to [[spit]] at; to spit with [[contempt]]
+# to [[vomit]]
+
+===Compounds===
+{{zh-der|不顧而唾|乾嚥唾|咳唾|咳唾成珠|咽唾|唾壺|唾手|唾手可取|唾手可得|唾是命|唾棄|唾沫|唾沫星子|唾沫直嚥|唾津兒|唾液|唾液腺|唾盂|唾罵|唾腺|唾酒|唾面|唾面自乾|唾餘|嚥唾|拾人涕唾|擊碎唾壺|欬唾成珠|珠璣咳唾|當面唾罵|饞唾}}
+
+----
+
+==Japanese==
+{{ja-see-also|唾する}}
+
+===Kanji===
+{{ja-kanji|grade=|rs=口08}}
+
+====Readings====
+* {{ja-readings|on=[[だ]] (da)|kun=[[つば]] (tsuba)}}
+
+===Noun===
+{{ja-noun|つば}}
+
+# [[spit]]
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 唾]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=타|rv=ta|mr=t'a}}
+
+# {{defn|lang=ko|sort=口08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''唾''' ([[thóa]], [[thoá]])<!--not sure on which vowel the accent should appear-->
+
+# {{defn|lang=vi|sort=口08}}
+
+[[fr:唾]]
+[[ko:唾]]
+[[lo:唾]]
+[[lt:唾]]
+[[li:唾]]
+[[hu:唾]]
+[[mg:唾]]
+[[ja:唾]]
+[[no:唾]]
+[[pl:唾]]
+[[th:唾]]
+[[vi:唾]]
+[[zh:唾]]

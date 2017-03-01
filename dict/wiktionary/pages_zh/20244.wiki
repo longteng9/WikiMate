@@ -1,0 +1,111 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=15|sn=19|four=96832|canj=FATE|ids=⿰火暴}}
+
+# [[crackle]], [[pop]], [[burst]], [[explode]], [[bomb]]
+
+====Related characters====
+* [[曝]]
+
+====References====
+* {{Han ref|kx=0686.160|dkj=19540|dj=1099.030|hdz=32245.110|uh=7206|ud=29190|bh=C37A|bd=50042}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|火|暴|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bào
+|c=paau3,baau3,bok3
+|h=pfs=pau
+|md=
+|mn=po̍k
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[burst]]; to [[explode]] (from pressure, etc.)
+# (of bombs, etc.) to [[explode]]
+
+====Compounds====
+{{zh-der|爆炸|爆紅:to go viral (rapid sharing)|人口爆炸|冷灰爆豆|地下核爆|塞爆音|塵爆|大爆冷門|大爆滿|導爆索|引爆|放爆竹|栗爆|核子試爆|核爆|氣爆|氣爆彈|氫爆|火山爆發|火爆|爆仗|爆冷|爆冷門|爆出|爆棚|爆滿|爆炸上限|爆炸下限|爆炸性|爆炸波|爆炸物|爆燥|爆燥如雷|爆發|爆發力|爆發星|爆發音|爆破|爆破小組|爆破筒|爆竹|爆竿|爆笑|爆米花|爆肚兒|爆胎|爆裂|爆震|耗爆|起爆|音爆|高爆彈}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=火15}}
+
+# [[bomb]]
+# [[explode]], [[burst]] [[open]]
+
+====Readings====
+{{ja-readings
+|goon=[[ひょう]] (hyō) {{non-joyo-reading}}, {{qualifier|historical}} [[へう]] (heu), [[ほく]] (hoku) {{non-joyo-reading}}
+|kanon=[[はく]] (haku) {{non-joyo-reading}}, [[ほう]] (hō) {{non-joyo-reading}}, {{qualifier|historical}} [[はう]] (hau)
+|kanyoon=[[ばく]] (baku)
+|kun=[[はず]] ([[爆ず]], hazu) {{non-joyo-reading}}, [[はぜる]] ([[爆ぜる]], hazeru) {{non-joyo-reading}}
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|爆発|ばくはつ}}: [[explosion]]
+* {{ja-r|爆発的|ばくはつてき}}: [[explosive]]
+* {{ja-r|爆薬|ばくやく}}: [[gunpowder]]
+* {{ja-r|空爆|くうばく}}: [[air raid]]
+* {{ja-r|爆弾|ばくだん}}: a [[bomb]]
+* {{ja-r|水爆|すいばく}}: [[hydrogen bomb]]
+* {{ja-r|原爆|げんばく}}: [[atomic bomb]], [[nuclear bomb]]
+* {{ja-r|原水爆|げんすいばく}}: [[atomic bomb|atomic]] and [[hydrogen bomb]]s, [[nuclear weapon]]s in general
+* {{ja-r|被爆|ひばく}}: being [[bombed]]
+* {{ja-r|爆殺|ばくさつ}}: [[killing]] by [[bombing]]
+* {{ja-r|爆死|ばくし}}: [[death]] by [[explosion]]
+* {{ja-r|爆乳|ばくにゅう}}: extremely large [[breast]]s
+* {{ja-r|爆走|ばくそう}}: [[explosively]] [[loud]] and [[fast]] [[driving]] {{qualifier|of a car or motorbike}}
+* {{ja-r|自爆|じばく}}: [[suicide bombing]]; [[deliberate]]ly [[crash]]ing or [[explode|exploding]] one's [[vehicle]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[포]], [[폭]], [[박]]|mr=p'o, p'ok, pak|y=pho, phok, pak}}
+
+# {{defn|lang=ko|sort=火15}}
+
+====Compounds====
+* [[爆彈]] ([[폭탄]], poktan)
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bạo]], [[bạc]], [[bộc]]|rs=火15}}
+
+# {{defn|lang=vi|sort=火15}}
+
+[[fr:爆]]
+[[ko:爆]]
+[[hu:爆]]
+[[mg:爆]]
+[[ja:爆]]
+[[no:爆]]
+[[pl:爆]]
+[[th:爆]]
+[[zh:爆]]

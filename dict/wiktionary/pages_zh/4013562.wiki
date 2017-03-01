@@ -1,0 +1,50 @@
+{{also|诊断|診断}}
+==Chinese==
+{{zh-forms|s=诊断}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhěnduàn
+|c=can2 dyun3,zan2 dyun3
+|h=pfs=chṳ́n-ton/n:chṳ̂n-ton
+|mn=xm,zz,tw:chín-toàn/qz:chín-toǎn/twv:chín-toān
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|medicine}} to [[diagnose]]
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|medicine}} [[diagnosis]] {{gloss|identification of the nature and cause of an illness}}
+
+====Descendants====
+{{CJKV||s=診断|しんだん|진단|chẩn đoán}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|だん|yomi=o}}
+
+===Noun===
+{{ja-noun|しんだん|shin=診断}}
+
+# [[diagnosis]]
+
+===Verb===
+{{ja-verb-suru|しんだん|shin=診断}}
+
+# to [[diagnose]], to make a diagnosis
+
+====Conjugation====
+{{ja-suru|しんだん}}
+
+[[Category:ja:Medicine|しんだん]]
+
+[[zh-min-nan:診斷]]
+[[ko:診斷]]
+[[hu:診斷]]
+[[ja:診斷]]

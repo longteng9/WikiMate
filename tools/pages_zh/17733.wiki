@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|栖}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=08|sn=12|four=45944|canj=DJLV|ids=⿰木妻}}
+
+====References====
+* {{Han ref|kx=0534.170|dkj=14980|dj=0922.130|hdz=21229.060|uh=68F2|ud=26866|bh=B4CF|bd=46287}}
+
+----
+
+==Chinese==
+{{zh-forms|s=栖}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qī,xī
+|c=cai1
+|mn=chhe/qz:soe
+|mn_note=chhe - literary; soe - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[perch]]
+# to [[roost]]
+# to [[stay]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木08}}
+
+# {{defn|lang=ja|sort=木08}}
+
+====Readings====
+* {{ja-readings|on=[[せい]] (sei)|kun=[[すむ]] (sumu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=서|eumhun=|rv=seo|mr=sŏ|y=se}}
+
+# {{defn|lang=ko|sort=木08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木08|hanviet=thê}}
+
+# {{defn|lang=vi|sort=木08}}
+
+[[fr:棲]]
+[[ko:棲]]
+[[hu:棲]]
+[[ja:棲]]
+[[pl:棲]]
+[[th:棲]]
+[[zh:棲]]

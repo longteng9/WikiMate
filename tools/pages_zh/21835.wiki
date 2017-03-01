@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=110|rad=矛|as=07|sn=12|four=20227|canj=NHBCR|ids=⿱矛冏}}
+
+# [[bore]] with an [[awl]]
+# [[bright]], [[charming]]
+
+====References====
+* {{Han ref|kx=0822.140|dkj=23863|dj=1234.110|hdz=42766.080|uh=77DE|ud=30686|bh=DAC3|bd=56003}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yù
+|c=wat6
+|mc=y
+|oc=y
+|ma=
+|cat=v,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=矛07}}
+
+# bore with awl
+# [[bright]]
+# [[charming]]
+
+====Readings====
+* {{ja-readings|on=[[いつ]] (itsu), [[いち]] (ichi), [[しゅつ]] (shutsu), [[じゅち]] (juchi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=율|eumhun=|rv=yul|mr=yul|y=yul}}
+
+# pierce through with an awl
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[duật]]|rs=矛07}}
+
+# {{defn|lang=vi|sort=矛07}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=77de Nom Foundation]
+
+[[fr:矞]]
+[[hu:矞]]
+[[mg:矞]]
+[[ja:矞]]
+[[pl:矞]]
+[[th:矞]]
+[[zh:矞]]

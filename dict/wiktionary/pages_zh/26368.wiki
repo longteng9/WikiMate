@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=15|sn=21|four=27136|canj=VOLII|ids=⿱彖䖵}}
+
+# [[wood]]-boring [[insect]]
+# [[bore]] into wood
+
+====References====
+* {{Han ref|kx=1101.410|dkj=33796|dj=1565.130|hdz=42903.050|uh=8821|ud=34849|bh=C4F9|bd=50425}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǐ,lí
+|c=lai5,lai4,lo4
+|mn=lé/lê/lô
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫15}}
+
+# {{defn|lang=ja|sort=虫15}}
+
+====Readings====
+* {{ja-readings|on=[[れい]] (rei), [[らい]] (rai), [[り]] (ri)|kun=[[ひさご]] (hisago), [[にな]] (nina)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[려]]>[[여]]|eumhun=|rv=ryeo>yeo|mr=ryŏ>yŏ|y=lye>ye}}
+
+# {{defn|lang=ko|sort=虫15}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=虫15|hanviet=lãi}}
+
+# {{defn|lang=vi|sort=虫15}}
+
+[[fr:蠡]]
+[[hu:蠡]]
+[[mg:蠡]]
+[[ja:蠡]]
+[[pl:蠡]]
+[[th:蠡]]
+[[zh:蠡]]

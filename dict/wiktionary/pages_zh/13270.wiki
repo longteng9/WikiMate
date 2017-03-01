@@ -1,0 +1,44 @@
+{{character info/new}}
+{{also|壘}}
+==Translingual==
+{{Han simplified forms|壘|塁|垒}}
+
+===Han character===
+{{Han char|rn=32|rad=土|as=09|sn=12|four=60104|canj=WIOG}}
+
+# [[rampart]], military [[wall]]
+# {{lb|mul|baseball}} [[base]]
+
+====References====
+* {{Han ref|kx=0234.271|dkj=05316|hdz=42544.011|uh=5841|ud=22593}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=土09|style=s|kyu=壘}}
+
+====Readings====
+* {{ja-readings|on=[[るい]] (rui)|kun=[[とりで]] (toride)}}
+
+{{ja-kanjitab|るい|yomi=o}}
+
+===Noun===
+{{ja-noun|るい|kyu=壘}}
+
+# {{lb|ja|baseball|sort=るい}} [[base]]
+
+===Proper noun===
+{{ja-pos|proper|るい}}
+
+# {{given name|male|lang=ja|sort=るい}}
+
+[[fr:塁]]
+[[li:塁]]
+[[hu:塁]]
+[[mg:塁]]
+[[ja:塁]]
+[[pl:塁]]
+[[th:塁]]
+[[zh:塁]]

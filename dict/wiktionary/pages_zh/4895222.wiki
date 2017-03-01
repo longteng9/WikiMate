@@ -1,0 +1,33 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|なか|した|k2=じた|r=y|ぼ|いん}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|なかじたぼいん|acc=5|acc_ref==DJR}}
+
+====Noun====
+{{ja-noun|なかじた ぼいん}}
+
+# {{lb|ja|sort=なかじたぼいん|phonetics}} {{w|central vowel}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|ちゅう|ぜつ|ぼ|いん}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|ちゅうぜつぼいん|acc=5|acc_ref=DJR|y=o}}
+
+====Noun====
+{{ja-noun|ちゅうぜつ ぼいん|hhira=ちゆうぜつぼいん}}
+
+# {{lb|ja|sort=ちゅうぜつぼいん|phonetics}} [[central]] [[vowel]]
+
+===References===
+<references/>
+
+[[Category:ja:Sound|なかじたぼいん]]
+
+[[ko:中舌母音]]

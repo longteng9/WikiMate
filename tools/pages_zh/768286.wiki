@@ -1,0 +1,27 @@
+==Japanese==
+{{ja-kanjitab|ちょう|しゅう|yomi=on}}
+
+===Etymology===
+From {{m|ja|徴|sc=Jpan}} (''chō'', "collect taxes or payment") + {{m|ja|収|sc=Jpan}} (''shū'', "collect")
+
+===Noun===
+{{ja-noun|ちょうしゅう}}
+# [[collection]], [[levy]]
+
+====Compounds====
+* [[源泉徴収]] (''gensen chōshū''): tax withholding at the source
+* [[源泉徴収票]] (''gensen chōshū hyō''): tax certificate slip, statement of earnings, tax-income certificate
+
+===Verb===
+{{ja-verb-suru|ちょうしゅう}}
+
+# [[collect]] [[taxes]], collect [[payment]]
+
+====Conjugation====
+{{ja-suru|ちょうしゅう}}
+
+[[ko:徴収]]
+[[lo:徴収]]
+[[hu:徴収]]
+[[mg:徴収]]
+[[ja:徴収]]

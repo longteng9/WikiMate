@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tuìsàn
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[retreat]] and [[scatter]]; to [[withdraw]] and become [[dispersed]]
+# to [[subside]] and [[disappear]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|たい|さん}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=たいさん}} compound {{m|zh|退散|tr=thwoj<sup>H</sup> san<sup>H</sup>|lit=withdraw + scatter, disperse}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|たいさん|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|たいさん}}
+
+# [[dispersion]], [[scattering]] [[away]], [[spread out|spreading out]]
+# [[running away]], [[leaving]] a [[place]] {{qualifier|as when a group disperses}}
+
+===Verb===
+{{ja-verb-suru|たいさん|tr=intransitive}}
+
+# to [[disperse]], to [[become]] [[scattered]], to [[spread out]]; to [[run away]], to [[leave]] a [[place]] {{qualifier|as when a group disperses}}
+
+====Conjugation====
+{{ja-suru|たいさん}}
+
+===References===
+<references/>
+
+[[hu:退散]]
+[[zh:退散]]

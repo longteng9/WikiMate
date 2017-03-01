@@ -1,0 +1,115 @@
+{{character info/new}}
+{{also|尘}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=11|sn=14|four=00214|canj=IPG|ids=⿸鹿土}}
+
+====References====
+* {{Han ref|kx=0236.380|dkj=05388|dj=0475.040|hdz=10482.030|uh=5875|ud=22645|bh=B9D0|bd=47568}}
+
+----
+
+==Chinese==
+{{zh-forms|s=尘|alt=𪋻,𡔚}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|鹿|土|ls=ic|t1=deer|t2=soil, dust}} – cloud of dust produced by a (group of) running deer. Ancient simplification of {{och-l|𪋻}}, which pictures three deer on top instead of one.
+
+===Etymology===
+From {{inh|zh|sit-pro|*r-dul ~ r-tul||dust}}. Cognate with {{cog|bo|རྡུལ||dust, particle}}.
+
+===Pronunciation===
+{{zh-pron
+|m=chén
+|c=can4
+|h=pfs=chhṳ̀n
+|md=dìng
+|mn=qz,tw,xm,zz:tîn/qz,tw,xm,zz:thûn
+|mn_note=thûn - vernacular; tîn - literary
+|w=3zen
+|mc=y
+|oc=y
+|cat=n,v,adv,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[dust]]; [[dirt]]; [[ashes]]; [[cinders]]
+#: {{zh-x|吸塵器|vacuum cleaner}}
+# to be [[streaked]] with [[dirt]]; to become [[stained]]
+# [[trace]]; [[footprint]]
+# {{lb|zh|figurative}} [[dirty]] thing
+# {{lb|zh|figurative}} [[war]]; [[warfare]]
+# {{lb|zh|Buddhism}} [[this]] [[world]]; [[mundane]] world; this [[mortal]] [[life]]
+# {{lb|zh|Buddhism}} the number 10<sup>–9</sup>
+# for a [[long]] [[time]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|吸塵器:vacuum cleaner|吸塵機:vacuum cleaner|灰塵:dust|紅塵|塵世|一塵|一塵不染|下塵|不塵俗|不染纖塵|僕僕風塵|光塵|六塵|出塵|前塵|前塵往事|原子落塵|同塵|吹影鏤塵|和光同塵|囂塵|四塵|埃塵|塵事|塵俗|塵儀|塵凡|塵剎|塵劫|塵務|塵勞|塵囂|塵土|塵垢|塵垢秕糠|塵埃|塵埃傳染|塵埃落定|塵塵|塵妄|塵寰|塵封|塵封網罥|塵念|塵捲風|塵汙|塵沙|塵爆|塵界|塵累|塵網|塵緣|塵肺症|塵芥|塵芥蟲|塵表|塵襟|塵間|塵露|塵飯塗羹|太空塵|奔走風塵|奔逸絕塵|宇宙塵|客塵|寒塵|幻塵|庾公塵|征塵|後塵|微塵|承塵|抗塵走俗|拂塵|拂塵酒|拜塵|拾塵|掃塵|揚塵|撒手塵寰|撣塵|播土揚塵|救風塵|星際塵埃|星際微塵|暖塵|望塵不及|望塵而拜|望塵莫及|東海揚塵|核塵|步人後塵|步後塵|步香塵|沙塵|洗塵|浮塵|浮塵子|清塵|清塵濁水|清雅絕塵|游塵|游戲塵寰|滄海微塵|滾滾紅塵|無塵室|無塵粉筆|煙塵|煤塵|煨塵|玉塵|甑塵釜魚|甚囂塵上|目無下塵|破甑生塵|礦塵|祛塵風|粉塵|紅塵客夢|紅塵萬丈|紫陌紅塵|絕世出塵|絕塵|絕塵拔俗|緇塵|纖塵不染|肺塵矽症|脫垢離塵|芳塵|落塵|落塵量|蒙塵|蛛網塵封|超塵出俗|超塵拔俗|超軼絕塵|超逸絕塵|車塵|車塵馬跡|輕塵弱草|輻射塵|輻射落塵|逸塵斷鞅|邊塵|鏤塵吹影|防塵|除塵|隨波逐塵|面塵|音塵|風塵|風塵三俠|風塵僕僕|風塵勞攘|風塵外物|風塵女子|風塵女郎|風塵惡俗|風塵知己|風塵碌碌|風塵荏苒|風塵表物|飄塵|飆塵|飛塵|驚塵|麴塵|黃塵|黃塵滾滾}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土11}}
+
+====Readings====
+* {{ja-readings|goon=[[じん]] (jin)|kanon=[[ちん]] (chin)|kun=[[ちり]] (chiri), [[ごみ]] (gomi)}}
+{{ja-kanjitab|ごみ|yomi=k}}
+{{ja-kanjitab|じん|yomi=o}}
+{{ja-kanjitab|ちり|yomi=k}}
+
+===Noun===
+{{ja-noun|ごみ|ゴミ}}
+
+# [[trash]], [[rubbish]]
+
+{{ja-noun|じん}}
+
+# {{lb|ja|Buddhism|sort=しん'}} [[impurity]]
+# one [[billionth]]
+
+{{ja-noun|ちり}}
+
+# [[dust]]
+
+[[Category:Japanese numeral symbols|しん']]
+
+====Usage notes====
+(for the trash meaning) {{ja-uk|kana}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=진|rv=jin|mr=chin}}
+
+# {{defn|lang=ko|sort=土11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trần]], [[chần]]|rs=土11}}
+
+# {{defn|lang=vi|sort=土11}}
+
+[[fr:塵]]
+[[ko:塵]]
+[[lt:塵]]
+[[li:塵]]
+[[hu:塵]]
+[[mg:塵]]
+[[ja:塵]]
+[[pl:塵]]
+[[ru:塵]]
+[[sv:塵]]
+[[th:塵]]
+[[zh:塵]]

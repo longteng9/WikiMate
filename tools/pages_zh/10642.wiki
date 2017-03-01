@@ -1,0 +1,94 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=04|sn=6|four=80101|canj=OYLM|ids=⿱𠆢止}}
+
+====References====
+* {{Han ref|kx=0095.040|dkj=00422|dj=0201.060|hdz=10116.060|uh=4F01|ud=20225|bh=A5F8|bd=42488}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+
+===Pronunciation===
+{{zh-pron
+|m=企
+|c=kei5
+|h=pfs=khî
+|mn=qz,tw,xm:khì/qz,xm:khí/zz:thì
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[stand]] on [[tiptoe]]
+# {{lb|zh|Cantonese|Hakka}} to [[stand]]
+# to [[expect]] [[anxiously]]
+# to [[plan]]
+# {{zh-abbrev|企業|enterprise}}
+
+====Synonyms====
+* {{sense|to stand}}
+{{zh-dial|站}}
+
+===Compounds===
+{{zh-der|企業|企鵝|企圖|屋企|不可企及|企佇|企劃|企及|企慕|企望|企求|企盼|企禱|企羨|企足矯首|企足而待|企踵|希企|延企|延頸企踵|引領企踵|慚鳧企鶴|欣企|翹企|翹首企足|鶴企|國企|私企|外企}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=人04}}
+
+# plan
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[くわだてる]] (kuwadateru), [[くわだて]] (kuwadate)}}
+
+====Compounds====
+{{top4}}
+* {{ja-r|企画|きかく}}
+{{mid4}}
+* {{ja-r|企業|きぎょう}}
+{{mid4}}
+{{mid4}}
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|rv=gi|mr=ki}}
+
+# {{defn|lang=ko|sort=人04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|xí|rs=人04}}
+
+# {{defn|lang=vi|sort=人04}}
+
+[[fr:企]]
+[[ko:企]]
+[[hu:企]]
+[[mg:企]]
+[[ja:企]]
+[[no:企]]
+[[pl:企]]
+[[th:企]]
+[[uk:企]]
+[[zh:企]]

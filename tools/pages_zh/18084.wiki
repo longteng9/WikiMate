@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|桦|椛}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=10|sn=14|four=44954|canj=DTMJ|ids=⿰木華}}
+
+# a [[kind]] of [[birch]]
+
+====References====
+* {{Han ref|kx=0552.010|dkj=15497|dj=0940.060|hdz=21261.010|uh=6A3A|ud=27194|bh=BEEC|bd=48876}}
+
+----
+
+==Chinese==
+{{zh-forms|s=桦}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huà
+|c=waa6,waa4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木10}}
+
+# {{defn|lang=ja|sort=木10}}
+
+====Readings====
+* {{ja-readings|goon=[[げ]] (ge)|kanon=[[か]] (ka)|kun=[[かば]] (kaba)}}
+
+====Compounds====
+* [[樺太]] (Karafuto)
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[화]]|eumhun=|rv=hwa|mr=hwa|y=hwa}}
+
+# ([[자작나무]]): [[birch]]
+
+====Synonyms====
+* {{l|ko|檀}}, {{l|ko|橽}}
+
+====Compounds====
+{{top2}}
+* [[白樺]] ([[백화]], ''baeghwa'') [[birch]]
+{{mid2}}
+
+{{bottom}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hoa]]|rs=木10}}
+
+# {{defn|lang=vi|sort=木10}}
+
+[[fr:樺]]
+[[lt:樺]]
+[[hu:樺]]
+[[ja:樺]]
+[[pl:樺]]
+[[th:樺]]
+[[zh:樺]]

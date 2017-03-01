@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dònghè
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{zh-alt-form|恫嚇|to [[intimidate]]}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|どう|かつ|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|どうかつ|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|どうかつ}}
+
+# [[threat]], [[coercion]]
+#: {{ja-usex|'''恫喝'''には応じない。|'''どうかつ''' に は おうじない。|We will not succumb to such a threat.}}
+
+====Synonyms====
+* {{ja-r|脅迫|きょうはく}}
+* {{ja-r|脅す|おどす}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|どうかつ}}
+
+# to [[threaten]], [[intimidate]]<ref>{{R:Shogakukan}}</ref>
+
+====Conjugation====
+{{ja-suru|どうかつ}}
+
+===References===
+<references/>
+
+[[mg:恫喝]]
+[[zh:恫喝]]

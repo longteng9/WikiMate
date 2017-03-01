@@ -1,0 +1,45 @@
+{{also|小规模}}
+==Chinese==
+{{zh-forms|s=小规模|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiǎoguīmó
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[small-scale]]
+
+====Antonyms====
+* {{zh-l|大規模}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|き|ぼ|yomi=on}}
+
+===Etymology===
+From [[小]] (''shō'', "small," "little") + [[規模]] (''kibo'', "scale," "scope")
+
+===Adjectival noun===
+{{ja-adj|infl=na|しょうきぼ}}
+
+# [[small-scale]]
+
+====Inflection====
+{{ja-na|しょうきぼ}}
+
+===Noun===
+{{ja-noun|しょうきぼ}}
+
+# a small [[scale]]
+
+====Compounds====
+* {{ja-r|小規模ビジネス|しょうきぼ ビジネス}}: small business
+* {{ja-r|小規模金融|しょうきぼ きんゆう}}: microfinance
+
+[[ko:小規模]]
+[[zh:小規模]]

@@ -1,0 +1,49 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|だい|とう|りょう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|だいとうりょう|acc=3|acc_ref=NHK,DJR|y=go}}
+
+===Noun===
+{{ja-noun|だいとうりょう|hhira=だいとうりやう}}
+
+# a [[president]] {{qualifier|of a country}}
+#* {{quote-book|genre=fiction||{{w|Motohiro Katou}}|{{w|Q.E.D. 証明終了|{{ruby|{{lang|ja|Q.E.D. [証](しょう)[明](めい)[終](しゅう)[了](りょう)}}}}|lang=ja}}|trans-title={{w|Q.E.D. (manga)|Q.E.D. Quod Erat Demonstrandum}}|location=Tokyo|publisher=Kodansha|date=September 16 1999|isbn=4-06-333696-4|volume=4||176|{{ja-usex|例えばユーゴスラビアには以%前チトー'''大%統%領'''という指%導%者がいて民%族をまとめていた|^たとえば ^ユーゴスラビア に は い%ぜん ^チトー '''^だい%とう%りょう%''' と いう し%どう%しゃ% が いて みん%ぞく を まとめていた|For example, former '''President''' {{w|Josip Broz Tito|Tito}} was known for having united the peoples of Yugoslavia}}|chapter={{ruby|{{lang|ja|ヤコブの[階](たい)[段](だん)}}}}|trans-chapter=Jacob's Ladder|language=Japanese}}
+
+====Compounds====
+* {{ja-r|副大統領|ふくだいとうりょう|gloss=[[vice president]]}}
+
+====Descendants====
+* Korean: {{ko-l|대통령}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[Category:ja:Heads of state|たいとうりょう']]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=대통령}}
+
+# {{hanja form of|대통령|[[president]] of a country}}
+
+[[zh-min-nan:大統領]]
+[[cs:大統領]]
+[[fr:大統領]]
+[[ko:大統領]]
+[[lo:大統領]]
+[[lt:大統領]]
+[[hu:大統領]]
+[[ja:大統領]]
+[[pl:大統領]]
+[[ru:大統領]]
+[[fi:大統領]]
+[[sv:大統領]]
+[[chr:大統領]]
+[[zh:大統領]]

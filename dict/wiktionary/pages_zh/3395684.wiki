@@ -1,0 +1,49 @@
+{{also|锡杖}}
+==Chinese==
+{{zh-forms|s=锡杖}}
+
+===Pronunciation===
+{{zh-pron
+|m=錫zhàng
+|c=sek3 zoeng6
+|mn=tw:siah-thn̄g
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[Buddhist]] [[abbot]]'s [[staff]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|錫|杖}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=しゃくじょう|錫|tr1=shaku|t1=tin, stannum|杖|tr2=jō|t2=staff}}.
+
+===Noun===
+{{ja-noun|しゃくじょう}}
+
+# {{lb|ja|weaponry|sort=しゃくじょう}} A [[khakkhara]]; [[Buddhist]] [[monk]]'s "sounding [[staff]]".
+
+====Synonyms====
+{{der-top|Synonyms}}
+* {{ja-r|杖|つえ}}
+* {{ja-r|聖杖|せいじょう}}
+* {{ja-r|魔法の杖|まほう の つえ}}
+* {{ja-r|幣|ぬさ}}
+* {{ja-r|笏|しゃく}}
+* {{ja-r|御幣|ごへい}}, {{ja-r|御幣|おんべい}}
+* {{ja-r|幣束|へいそく}}
+* {{ja-r|大幣|おおぬさ}}
+* {{ja-r|祓串|はらいくし}}
+* {{ja-r|手板|ていた}}
+{{der-bottom}}
+
+====See also====
+* {{pedialite|lang=ja}}
+* {{pedialite|Khakkhara}}
+
+[[ko:錫杖]]

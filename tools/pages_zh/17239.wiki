@@ -1,0 +1,97 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=74|rad=月|as=06|sn=10|four=78234|canj=BTK|ids=⿰月关}}
+
+====Derived characters====
+* [[勝]], [[塍]], [[螣]], [[縢]], [[𠗲]], [[滕]], [[黱]], [[騰]], [[幐]], [[賸]], [[榺]], [[謄]]
+
+====References====
+* {{Han ref|kx=0505.190|dkj=14361|dj=0884.120|hdz=32071.050|uh=6715|ud=26389|bh=AED3|bd=44755}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han simp|𦩎|f=舟|t=月|f2=灷|t2=关}}, corruption of an {{Han compound|舟|t1=boat|丨|t2=item|廾|t3=two hands|ls=ic|nocap=1}}, seen in the oracle bone script and bronze inscriptions, originally meaning “to mend a boat”. It was later borrowed to be used as a first-person pronoun.
+
+===Pronunciation===
+{{zh-pron
+|m=zhèn
+|c=zam6
+|md=dêng
+|mn=tīm
+|w=3zen
+|mc=y
+|oc=y
+|cat=pron,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[I]]; [[my]] {{gloss|reserved for use by the [[emperor]] after the [[w:Qin Dynasty|Qin Dynasty]]}}
+# [[omen]]
+
+====Synonyms====
+{{zh-dial|我}}
+
+===Compounds===
+{{zh-der|兆朕|朕兆|朕躬|朕命}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=月06}}
+
+# [[I]] (used by royalty)
+
+====Readings====
+* {{ja-readings
+|goon=[[じん]] (jin) < [[ぢむ]] (dimu) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[ちん]] (chin) < [[ちむ]] (chimu)
+|kun=[[われ]] (ware), [[きざし]] (kizashi)}}
+
+===Etymology===
+{{ja-kanjitab|ちん|yomi=o}}
+
+====Pronoun====
+{{ja-pos|pronoun|ちん}}
+
+# [[I]] {{qualifier|used by royalty}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=짐|eumhun=|rv=jim|mr=chim|y=cim}}
+
+# [[I]] (used by royalty, usually an emperor)
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=月06|hanviet=trẫm|nom=trũm, chũm}}
+
+# {{han tu form of|trẫm|[[I]]; [[me]]}} {{qualifier|only used by a monarch}}
+
+[[fr:朕]]
+[[ko:朕]]
+[[lt:朕]]
+[[li:朕]]
+[[hu:朕]]
+[[mg:朕]]
+[[fj:朕]]
+[[ja:朕]]
+[[pl:朕]]
+[[th:朕]]
+[[zh:朕]]

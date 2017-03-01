@@ -1,0 +1,109 @@
+{{character info/new}}
+{{also|俩}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=08|sn=10|four=21227|canj=OMLB|ids=⿰亻兩}}
+
+====References====
+* {{Han ref|kx=0107.090|dkj=00751|dj=0227.190|hdz=10172.060|uh=5006|ud=20486|bh=ADC7|bd=44487}}
+
+----
+
+==Chinese==
+{{zh-forms|s=俩}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|alt1=亻|兩|ls=psc|c1=s|c2=p}}.
+
+===Etymology 1===
+Contraction of {{zh-l|[[兩]][[個]]|liǎngge|two + ''classifier''}}.
+
+====Pronunciation====
+{{zh-pron
+|m=liǎ
+|c=loeng5
+|mc=
+|oc=
+|ma=y
+|cat=det,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|colloquial}} {{n-g|functioning as {{zh-l|*兩|two}} + {{zh-l|*個|''classifier''}}}}: [[two]]; [[pair]]; [[couple]]; [[both]]
+#: {{zh-x|姐妹-倆|the '''two''' sisters}}
+# {{lb|zh|colloquial|chiefly|Mainland}} [[a few]]; [[some]]
+
+====Usage notes====
+{{lang|zh|倆／俩}} is not followed by the classifier {{zh-l|個}}.
+
+=====Related terms=====
+* {{zh-l|仨}}
+
+====Compounds====
+{{zh-der|我們倆|你們倆|倆錢兒|他倆|他們倆|倆心眼兒|哥倆好|公母倆|哥兒倆|我倆|老哥兒倆}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=liǎng
+|c=loeng5
+|mn=lióng
+|ma=y
+|oc=y
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only used in|伎倆|[[clever]]; [[skilled]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人08}}
+
+# {{defn|lang=ja|sort=人08}}
+
+====Readings====
+* {{ja-readings|on=[[りょう]] ([[ryō]])|kun=[[たくみ]] ([[takumi]])}}
+
+====Compounds====
+* {{ja-l|伎倆}}, {{ja-l|技倆}}
+* {{ja-l|力倆}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=량|rv=ryang|mr=ryang}}
+
+# {{defn|lang=ko|sort=人08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lưỡng]], [[lạng]]|rs=人08}}
+
+# {{defn|lang=vi|sort=人08}}
+
+[[fr:倆]]
+[[ko:倆]]
+[[li:倆]]
+[[hu:倆]]
+[[mg:倆]]
+[[fj:倆]]
+[[ja:倆]]
+[[pl:倆]]
+[[th:倆]]
+[[zh:倆]]

@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhōngsī
+|c=zung1 si1
+|mc=y
+|oc=1,1;1+2,1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[katydid]]
+
+{{zh-cat|Crickets and grasshoppers}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja|キリギリス}}
+{{ja-kanjitab|yomi=irr|sort=きりぎりす}}
+
+===Alternative forms===
+* {{ja-l|螽蟖}}
+* {{ja-l|蟋蟀}}
+* {{ja-l|蛬}}
+
+===Etymology===
+The kanji are {{juku|sort=きりぎりす}}, from {{der|ja|zh|sort=きりぎりす|螽斯}}
+{{rfe|ja}}
+
+===Pronunciation===
+{{ja-pron|きりぎりす|y=i|acc=3}}
+
+===Noun===
+{{ja-noun|きりぎりす|キリギリス}}
+
+# a [[Japanese]] [[katydid]] {{qual|Gampsocleis buergeri}}
+
+{{C|ja|Crickets and grasshoppers|sort=きりぎりす}}
+
+[[zh:螽斯]]

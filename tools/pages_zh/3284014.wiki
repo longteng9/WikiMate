@@ -1,0 +1,72 @@
+{{also|剎那}}
+==Chinese==
+{{zh-see|剎那}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|せち|な}}
+From {{etyl|ltc|ja|sort=せちな}} {{m|zh|剎那|tr=*chat? na}}, a transliteration of {{etyl|sa|ja|sort=せvな}} {{m|sa|क्षण}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+Originally a [[Buddhist]] term meaning the smallest possible [[moment]] in [[time]]: a [[split-second]]. Carries [[favorable]] [[connotation]]s of {{term|precious}} from the Buddhist [[teaching]] that one should live well even in the shortest moment of time.
+
+This reading is now [[archaic]] and is falling into [[disuse]].
+
+====Pronunciation====
+{{ja-pron|yomi=goon|せちな}}
+
+====Noun====
+{{ja-noun|せちな}}
+
+# see ''setsuna'' below
+
+===Etymology 2===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Setsuna}}
+</div>
+{{ja-kanjitab|yomi=o|せつ|な}}
+{{IPAchar|/setina/}} → {{IPAchar|/setuna/}}
+
+Shift in pronunciation from ''sechina'' above, using the [[慣用音#Japanese|''kan'yōon'']] of ''setsu'' for the first [[kanji]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+This reading is now the most common.
+
+====Pronunciation====
+{{ja-pron|yomi=o|せつな|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|せつな}}
+
+# an [[instant]], a [[moment]]
+# {{lb|ja|sort=せつな|Buddhism}} the smallest [[unit]] of [[time]], of varying lengths depending on tradition:
+## roughly 0.11 [[second]]s, defined as 1/65<sup>th</sup> of a {{m|ja|弾指|tr=danshi}}, where a ''danshi'' is 1/12,000<sup>th</sup> of a [[day]] or 7.2 [[second]]s
+## 0.002 [[second]]s, defined as 1/60<sup>th</sup> of a {{m|ja|念|tr=nen}}, where a ''nen'' is 1/60<sup>th</sup> of a {{m|ja|弾指|tr=danshi}}
+## 1/75<sup>th</sup> of a [[second]], defined as 1/6,480,000<sup>th</sup> of a [[day]]
+# {{lb|ja|sort=せつな|math}} by extension from the {{m|en|instant}} meaning, an extremely small number: 10<sup>-18</sup>, {{m|en|atto-}}
+# {{lb|ja|Magic: The Gathering}} [[split second]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|刹那的|せつなてき}}: [[momentary]], [[transient]], [[ephemeral]]
+* {{ja-r|刹那主義|せつな しゅぎ}}: the [[principle]] or [[philosophy]] of living in the moment
+{{der-bottom}}
+
+====Proper noun====
+{{ja-pos|proper|せつな}}
+
+# {{given name|female|lang=ja|sort=せつな}}
+
+===References===
+<references/>
+
+[[Category:ja:Magic: The Gathering|せつな]]
+
+[[ko:刹那]]
+[[hu:刹那]]
+[[mg:刹那]]
+[[ja:刹那]]
+[[chr:刹那]]
+[[zh:刹那]]

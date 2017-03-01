@@ -1,0 +1,57 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+* [[切]] qiē ("to cut; to sever") + [[腹]] fù ("abdomen")
+
+===Pronunciation===
+{{zh-pron
+|m=qiēfù
+|c=cit3 fuk1
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[ritualized]] self-[[disembowelment]]; ritualized [[suicide]]; [[harakiri]]; [[seppuku]]
+
+===Verb===
+{{zh-verb}}
+
+# to commit [[harakiri]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|せつ|k1=せっ|ふく|k2=ぷく|yomi=on}}
+
+===Etymology===
+From {{m|ja|切|sc=Jpan}} (''setsu'', "cut," "sever") + {{m|ja|腹|sc=Jpan}} (''fuku'', "belly," "abdomen") borrowed from [[kango|Middle Chinese]] (''[[tshet]]'' + ''[[pjuwk]]'')
+
+===Noun===
+{{ja-noun|せっぷく}}
+
+# [[ritualized]] self-[[disembowelment]]; ritualized [[suicide]]; [[harakiri]]; [[seppuku]]
+
+===Verb===
+{{ja-verb-suru|せっぷく}}
+
+# perform ritual self-[[disembowelment]]
+
+====Conjugation====
+{{ja-suru|せっぷく}}
+
+===See also===
+* {{l|ja|腹切り}} (''harakiri''): colloquial term for the same practice
+
+===References===
+* {{R:Shogakukan}}
+
+[[de:切腹]]
+[[fr:切腹]]
+[[ko:切腹]]
+[[hu:切腹]]
+[[ja:切腹]]
+[[pl:切腹]]
+[[zh:切腹]]

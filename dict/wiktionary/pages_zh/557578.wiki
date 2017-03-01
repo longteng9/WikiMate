@@ -1,0 +1,39 @@
+{{also|光学}}
+==Chinese==
+{{zh-forms|s=光学}}
+
+===Pronunciation===
+{{zh-pron
+|m=guāngxué
+|c=gwong1 hok6
+|mn=kong-ha̍k
+|cat=a,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|physics}} [[optic]]
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|physics}} [[optics]]
+
+====Derived terms====
+{{zh-der|光學望遠鏡|光學像:guāngxuéxiàng}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|がく|yomi=o}}
+
+===Noun===
+{{ja-noun|こうがく|shin=光学}}
+
+# {{lb|ja|physics|sort=こうかく}} [[optics]]
+
+[[ko:光學]]
+[[ja:光學]]
+[[pt:光學]]
+[[tr:光學]]

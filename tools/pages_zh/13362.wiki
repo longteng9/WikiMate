@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|坠|墮}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=12|sn=15|four=78104|canj=NOG|ids=⿱隊土}}
+
+====References====
+* {{Han ref|kx=0238.220|dkj=05451|dj=0477.070|hdz=10484.060|uh=589C|ud=22684|bh=BC59|bd=48217}}
+
+----
+
+==Chinese==
+{{zh-forms|s=坠}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|隊|土|c1=p|c2=s|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhuì
+|c=zeoi6
+|h=pfs=chhui
+|mn=qz,tw,xm,zz:tūi/qz,tw,xm,zz:thūi
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[fall]] due to a heavy weight involuntarily
+# to [[fall down]], [[drop]], [[sink]], go to [[ruin]]
+
+===Usage notes===
+* Not to be confused with {{zh-l|墮}}.
+
+===Compounds===
+* [[天花亂墜]]
+* [[墜落]]
+* [[耳墜子]]
+* [[下墜]]
+* [[墜毀]]
+* [[墜機]]
+* [[墜地]]
+* [[搖搖欲墜]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=土12}}
+
+# {{defn|lang=ja|sort=土12}}
+
+====Readings====
+* {{ja-readings|on=[[つい]] (tsui)|kun=[[おちる]] (ochiru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=추|rv=chu|mr=ch'u}}
+
+# {{defn|lang=ko|sort=土12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trụy]], [[truỵ]], [[đụi]]|rs=土12}}
+
+# {{defn|lang=vi|sort=土12}}
+
+[[fr:墜]]
+[[li:墜]]
+[[hu:墜]]
+[[mg:墜]]
+[[ja:墜]]
+[[pl:墜]]
+[[th:墜]]
+[[zh:墜]]

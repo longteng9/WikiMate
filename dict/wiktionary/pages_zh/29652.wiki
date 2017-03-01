@@ -1,0 +1,149 @@
+{{character info/new}}
+{{also|错}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=08|sn=16|four=84161|canj=CTA|ids=⿰金昔}}
+
+====References====
+* {{Han ref|kx=1312.120|dkj=40579|dj=1813.080|hdz=64214.180|uh=932F|ud=37679|bh=BFF9|bd=49145}}
+
+----
+
+==Chinese==
+{{zh-forms|s=错}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|金|昔|ls=psc|c1=s|c2=p|t1=metal}} – grindstone.
+
+===Pronunciation 1===
+{{zh-pron
+|m=cuò
+|c=co3
+|h=pfs=chho
+|md=chó̤/cháuk
+|md_note=chó̤ - vernacular; cháuk - literary
+|mn=chhò
+|w=2tshu,2tsho
+|mc=1
+|oc=n,1
+|cat=a,v,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[wrong]]; [[erroneous]]; [[incorrect]]
+#: {{zh-x|錯字|'''wrong''' Chinese character}}
+# {{†}} [[bad]]; [[poor]]; [[inferior]]; [[substandard]]
+#: {{zh-x|不錯|not '''bad'''}}
+# to make a [[mistake]]; to [[blunder]]; to [[err]]
+#: {{zh-x|我 錯 了，下次 不敢 了。|I '''made a mistake'''. It won't happen again.}}
+# [[error]]; [[mistake]]; [[fault]]
+#: {{zh-x|出錯|to make a '''mistake'''}}
+#: {{zh-x|全部 都 是 你 的 錯。|It's all your '''fault'''.}}
+
+=====Synonyms=====
+* {{sense|fault}} {{zh-l|不好}}
+
+====Compounds====
+{{zh-der|fold=1|失錯|三差五錯|吃錯藥|偵錯|出差錯|不爽不錯|出錯|一錯再錯|不錯|三差兩錯|一念之錯|一差二錯|弄錯|差三錯四|岔錯|對錯|他山攻錯|一差半錯|大錯特錯|忙中有錯|合理錯誤|將錯就錯|差錯|不差不錯|捏錯兒|改錯|死不認錯|會錯意|看錯|擔錯|知錯能改|沒錯|犯錯|果然不錯|改錯題|錯勘|運動錯覺|錯愛|錯漏|錯處|錯怪|錯話|錯覺|鬧錯|過錯|鑄成大錯|錯認顏標|錯誤|言差語錯|錯別字|錯上墳|訛錯|錯中錯|錯字|錯繆}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=cuò
+|c=cok3
+|h=pfs=chho
+|md=cháuk
+|mn=chhò
+|w=4tshoq
+|mc=2
+|oc=1,2
+|cat=v,n,a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[inlay]] with [[gold]], [[silver]], etc.
+# {{†}} to [[grind]]; to [[polish]]
+# {{†}} [[coarse]] [[wetstone]]; [[grindstone]]
+# {{†}} to [[mix]]; to [[blend]]
+# {{†}} to be in [[disorder]]; [[disorderly]]
+# to [[criss-cross]]; [[interlocking]]
+# to [[separate]]; to [[stagger]]
+# to [[turn]]
+
+====Compounds====
+{{zh-der|fold=1|不錯眼|外錯角|內錯角|山珍海錯|履舄交錯|刑錯|參錯|錯化合物|交錯觥籌|錯亂|午錯|官能交錯|交錯|分筋錯骨|攻錯|海錯|杯觥交錯|璀錯|盤錯|皮膚甲錯|當面錯過|珍錯|犬牙相錯|槃根錯節|盤根錯節|犬牙交錯|材堪盤錯|錯金|錯臂|錯迕|陰陽交錯|錯車|錯綜複雜|陰錯陽差|縱橫交錯|錯彩鏤金|錯落有致|迷錯|錯角|錯節盤根|錯非|錯刀|陰差陽錯|錯過|錯落|金錯刀|錯眼|錯綜|觥籌交錯|錯簡|錯失良機|雜錯|錯雜|錯身而過|錯愕|錯失|鏤金錯采|錯見|錯莫|錯疑|錯翻眼皮|錯縫兒|趕眼錯|錯繆}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=cù
+|c=cou3
+|md=chó
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{zh-alt-form|措|to [[place]]; to [[carry out]]}}
+# {{†}} {{zh-alt-form|措|to [[abandon]]; to [[cease]]; to [[reject]]}}
+
+====Compounds====
+{{zh-der|fold=1|錯置}}
+
+===Pronunciation 4===
+{{zh-pron
+|m=xī
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|obsolete}} {{zh-alt-name|鈰|[[cerium]]}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=金08}}
+
+# {{defn|lang=ja|sort=金08}}
+
+====Readings====
+* {{ja-readings|goon=[[さく]] (saku), [[す]] (su) {{non-joyo-reading}}|kanon=[[さく]] (saku), [[そ]] (so) {{non-joyo-reading}}|kanyoon=[[しゃく]] (shaku) {{non-joyo-reading}}|kun=[[まじる]] (majiru), [[たがう]] (tagau), [[おく]] (oku)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[착]], [[조]]|eumhun=}}
+
+# {{defn|lang=ko|sort=金08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thó]], [[thác]], [[thố]], [[thộ]], [[xác]]|rs=金08}}
+
+# {{defn|lang=vi|sort=金08}}
+
+[[fr:錯]]
+[[ko:錯]]
+[[hu:錯]]
+[[mg:錯]]
+[[ja:錯]]
+[[pl:錯]]
+[[th:錯]]
+[[chr:錯]]
+[[zh:錯]]

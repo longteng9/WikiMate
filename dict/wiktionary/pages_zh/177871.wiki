@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=shí'èrzhī
+|c=sap6 ji6 zi1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# the 12 "earthly branches" {{zh-l|子}}, {{zh-l|丑}}, {{zh-l|寅}}, {{zh-l|卯}}, {{zh-l|辰}}, {{zh-l|巳}}, {{zh-l|午}}, {{zh-l|未}}, {{zh-l|申}}, {{zh-l|酉}}, {{zh-l|戌}}, {{zh-l|亥}} (used cyclically in the calendar and as ordinal number)
+
+----
+
+==Japanese==
+{{ja-kanjitab|じゅう|に|し|yomi=on}}
+[[Image:Daoist-symbols Qingyanggong Chengdu.jpg|thumb|right|Stone carving of Chinese zodiac]]
+
+===Noun===
+{{ja-noun|じゅうにし}}
+
+# the twelve "earthly branches" ([[支]]) of the [[w:Chinese zodiac|Chinese zodiac]], which are represented each by an animal
+
+====Hyponyms====
+{{rel-top|Earth branches and animals}}
+* {{l|ja|子}} &emsp; &emsp; [[鼠]] &emsp; (rat)
+* {{l|ja|丑}} &emsp; &emsp; [[牛]] &emsp; (ox)
+* {{l|ja|寅}} &emsp; &emsp; [[虎]] &emsp; (tiger)
+* {{l|ja|卯}} &emsp; &emsp; [[兔]] &emsp; (rabbit)
+* {{l|ja|辰}} &emsp; &emsp; [[龍]] &emsp; (dragon)
+* {{l|ja|巳}} &emsp; &emsp; [[蛇]] &emsp; (snake)
+* {{l|ja|午}} &emsp; &emsp; [[馬]] &emsp; (horse)
+* {{l|ja|未}} &emsp; &emsp; [[羊]] &emsp; (goat)
+* {{l|ja|申}} &emsp; &emsp; [[猴]] &emsp; (monkey)
+* {{l|ja|酉}} &emsp; &emsp; [[鷄]] &emsp; (rooster)
+* {{l|ja|戌}} &emsp; &emsp; [[狗]] &emsp; (dog)
+* {{l|ja|亥}} &emsp; &emsp; [[猪]] &emsp; (pig)
+{{rel-bottom}}
+
+===See also===
+* [[w:ja:十二支|十二支]]
+
+[[ko:十二支]]
+[[hu:十二支]]
+[[ja:十二支]]
+[[zh:十二支]]

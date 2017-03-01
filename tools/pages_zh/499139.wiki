@@ -1,0 +1,43 @@
+{{also|后手}}
+==Chinese==
+{{zh-forms|s=后手}}
+
+===Pronunciation===
+{{zh-pron
+|m=hòushǒu,er=y
+|c=hau6 sau2
+|h=pfs=heu-sú
+|mn=āu-chhiú
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[room]] for [[manoeuvre]]
+# {{lb|zh|chess}} [[defensive]] [[position]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|後|手}}
+
+===Noun===
+{{ja-noun|ごて}}
+
+# {{qualifier|go}} Not having the [[initiative]]; moving last in an area; responding to the opponent's [[threat]]s.
+# {{qualifier|go}} A [[move]] that causes one to lose the initiative.
+# {{qualifier|go}} A [[position]] where one or both players have such a move.
+# {{lb|ja|shogi}} The second [[player]].
+
+====Antonyms====
+* {{l|ja|先手}}
+
+[[Category:ja:Go|こて']]
+[[Category:ja:Shogi|こて']]
+
+[[zh-min-nan:後手]]
+[[cs:後手]]
+[[ko:後手]]
+[[hu:後手]]
+[[zh:後手]]

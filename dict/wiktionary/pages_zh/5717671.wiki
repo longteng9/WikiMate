@@ -1,0 +1,21 @@
+{{also|变电}}
+==Chinese==
+{{zh-forms|s=变电}}
+
+===Pronunciation===
+{{zh-pron
+|m=biàndiàn
+|c=bin3 din6 zaam6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|physics}} [[electric]] [[power]] [[transformation]]; [[voltage]] [[transformation]]
+
+====Derived terms====
+{{zh-der|變電站|變電所|變電箱}}
+
+[[ko:變電]]
+[[zh:變電]]

@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|饲}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=184|rad=食|as=05|sn=14|four=87720|canj=OISMR}}
+
+# raise animals
+# [[feed]]
+# [[nourish]]
+
+====References====
+* {{Han ref|kx=1418.360|dkj=44107|dj=1942.390|hdz=74449.020|uh=98FC|ud=39164|bh=B97D|bd=47485}}
+
+----
+
+==Chinese==
+{{zh-forms|s=饲}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=sì
+|c=zi6
+|h=pfs=chhṳ
+|md=
+|mn=qz:sīr/xm,zz:sū/chhī
+|mn_note=sīr/sū - literary; chhī - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=食05}}
+
+# {{defn|lang=ja|sort=食05}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi), [[じ]] (ji)|kun=[[かう]] (kau), [[やしなう]] (yashinau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|eumhun=|rv=sa|mr=sa|y=sa}}
+
+# {{defn|lang=ko|sort=食05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''飼''' ([[tự]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:飼]]
+[[fr:飼]]
+[[ko:飼]]
+[[hu:飼]]
+[[mg:飼]]
+[[ja:飼]]
+[[pl:飼]]
+[[th:飼]]
+[[chr:飼]]
+[[zh:飼]]

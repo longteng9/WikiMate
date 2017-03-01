@@ -1,0 +1,118 @@
+{{character info/new}}
+{{also|锄}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=07|sn=15|four=84127|canj=CBMS|ids=⿰釒助}}
+
+# [[hoe]]
+# [[eradicate]]
+
+====References====
+* {{Han ref|kx=1308.100|dkj=40480|dj=1810.060|hdz=64207.120|uh=92E4|ud=37604|bh=BE53|bd=48723}}
+
+----
+
+==Chinese==
+{{zh-forms|s=锄}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chú
+|c=co4
+|h=pfs=
+|md=
+|mn=tî/tû
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|鋤草|to [[weed]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=金07}}
+
+# {{defn|lang=ja|sort=金07}}
+
+====Readings====
+{{ja-readings|goon=[[じょ]] (jo)|kanon=[[そ]] (so)|kun=[[くわ]] (kuwa), [[すく]] (suku), [[すき]] (suki)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|鋤焼き|すきやき}}: [[sukiyaki]] - a Japanese dish of thinly-sliced [[beef]], [[tofu]], [[green onion]], [[shiitake]], and some [[vegetable]]s with [[dashi]], [[mirin]] and [[soy sauce]] cooked quickly at the table
+{{der-bottom}}
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|すき|yomi=k}}
+
+===Noun===
+{{ja-noun|すき}}
+
+# [[spade]]
+
+[[Category:ja:Tools|すき]]
+
+----
+
+==Korean==
+[[File:Hoe Chrastava CoA.svg|thumb|[[hoe|Hoe]] (short-handled, one-handed), compare [http://krdic.naver.com/search.nhn?kind=all&query=%ED%98%B8%EB%AF%B8]]
+[[File:Hoe Cimer CoA.svg|thumb|[[hoe|Hoe]] (long-handled, two-handed)]]
+
+===Hanja===
+{{ko-hanja|hangeul=서|eumhun=|rv=seo|mr=sŏ|y=se}}
+# ([[호미]] 서): [[hoe]] (short-handled, one-handed)
+# ([[김매다|김맬]] 서): to [[weed]], [[eradicate]], compare [[mow]], [[hew]], [[hoe]].
+# ([[없애다|없앨]] 서): to [[remove]], [[eliminate]]
+
+====Synonyms====
+* {{l|ko|鋤}} ([[호미]] 서): hoe (short-handled, one-handed)
+* {{l|ko|鉏}} ([[호미]] 서): hoe (short-handled, one-handed)
+* {{l|ko|錤}} ([[호미]] 기): hoe (short-handled, one-handed)
+* {{l|ko|鎡}} ([[호미]] 자): hoe (short-handled, one-handed)
+* {{l|ko|鎒}} ([[호미]] 호): hoe (short-handled, one-handed)
+* {{l|ko|钁}} ([[괭이]] 곽): [[hoe]] (long-handled, two-handed)
+* {{l|ko|钃}} ([[괭이]]/[[호미]] 촉): [[hoe]] (long- or short-handled)
+
+====See also====
+* {{l|ko|鍤}} ([[가래]] 삽): [[spade]], [[shovel]]
+* {{l|ko|鍬}} ([[가래]] 초): [[spade]], [[shovel]], [[ploughshare]]
+* {{l|ko|鏵}} ([[가래]] 화): [[spade]], [[shovel]], [[ploughshare]]
+* {{l|ko|鋘}} ([[가래]] 화): [[spade]], [[shovel]], [[ploughshare]]
+[[File:Shovels.jpg|thumb|center|[[shovel|Shovel]]s. Compare [http://krdic.naver.com/search.nhn?kind=all&scBtn=true&query=%EA%B0%80%EB%9E%98]]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sừ]], [[xừ]]|rs=金07}}
+
+# {{defn|lang=vi|sort=金07}}
+
+[[fr:鋤]]
+[[ko:鋤]]
+[[la:鋤]]
+[[lt:鋤]]
+[[hu:鋤]]
+[[mg:鋤]]
+[[ja:鋤]]
+[[uz:鋤]]
+[[pl:鋤]]
+[[th:鋤]]
+[[chr:鋤]]
+[[zh:鋤]]

@@ -1,0 +1,30 @@
+{{also|纤维素}}
+==Chinese==
+{{zh-forms|s=纤维素|type=21}}
+{{wikipedia|lang=zh|纖維素}}
+
+===Etymology===
+{{zh-compound|纖維|素|fibre|substance, -in}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiānwéisù
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|chemistry}} [[cellulose]]
+
+----
+
+==Korean==
+{{ko-hanjatab|纖|維|素}}
+
+===Noun===
+{{ko-noun|rv=seom-yuso|hangeul=섬유소}}
+
+# {{hanja form of|섬유소|[[cellulose]]}}
+
+[[ko:纖維素]]

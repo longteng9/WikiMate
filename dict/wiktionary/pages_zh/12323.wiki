@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=06|sn=9|four=|canj=RGPD|ids=⿰口地}}
+
+# {{lb|mul|Cantonese}} [[plural]]
+# [[adverb]]
+
+====References====
+* {{Han ref|kx=0189.271|dkj=03619|hdz=10612.070|uh=54CB|ud=21707}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=dì
+|c=dei6
+|h=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} {{n-g|Plural marker for pronouns.}}
+#: {{zh-x|我哋|we; us|C}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|c=di4
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} {{zh-only used in|爹哋|daddy}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口06}}
+
+# {{defn|lang=ja|sort=口06}}
+
+====Readings====
+* {{ja-readings|on=[[てつ]] (tetsu)|kun=}}
+
+[[fr:哋]]
+[[ko:哋]]
+[[hu:哋]]
+[[pl:哋]]
+[[th:哋]]
+[[vi:哋]]
+[[zh:哋]]

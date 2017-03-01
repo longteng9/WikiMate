@@ -1,0 +1,87 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=07|sn=11|four=60232|canj=AMMV|ids=⿱日辰}}
+
+====References====
+* {{Han ref|kx=0496.120|dkj=13962|dj=0862.160|hdz=21512.030|uh=6668|ud=26216|bh=B1E1|bd=45537}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|日|辰|c1=s|c2=p|t1=sun|ls=psc}}. Originally written as {{zh-l|*辰}} alone; {{lang|zh|辰}} now refers primarily to one of the [[十二支|twelve earthly branches]].
+
+===Pronunciation===
+{{zh-pron
+|m=chén
+|c=san4
+|h=pfs=sṳ̀n
+|mn=sîn
+|w=3zen
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[dawn]]; [[morning]]; [[daybreak]]
+# {{†}} {{lb|zh|of cock}} to [[herald]] the [[break]] of [[day]]
+
+===Compounds===
+{{zh-der|伺晨鳥|侵晨|凌晨|史晨碑|司晨|孫晨稿席|寥若晨星|拂晨|早晨|明晨|昏定晨省|昧旦晨興|晨光|晨參暮省|晨參暮禮|晨夕|晨操|晨昏|晨昏定省|晨昏顛倒|晨星|晨曦|晨歌|晨炊|晨炊星飯|晨練|晨興夜寐|晨褸|晨跑|晨運|晨鐘暮鼓|晨門|晨間|晨霧|晨風|晨鳧|暮禮晨參|暮鼓晨鐘|清晨|牝雞司晨|牝雞晨鳴|牝雞無晨|翌晨|花晨月夕}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日07}}
+
+# {{defn|lang=ja|sort=日07}}
+
+====Readings====
+{{ja-readings|goon=[[じん]] (jin)|kanon=[[しん]] (shin)|kun=[[あした]] (ashita), [[とき]] (toki)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|晨明|しんめい}}: [[dawn]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=신|eumhun=|rv=sin|mr=sin|y=sin}}
+
+# {{defn|lang=ko|sort=日07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thần]]|rs=日07}}
+
+# {{defn|lang=vi|sort=日07}}
+
+[[fr:晨]]
+[[ko:晨]]
+[[ku:晨]]
+[[hu:晨]]
+[[mg:晨]]
+[[ja:晨]]
+[[no:晨]]
+[[pl:晨]]
+[[ru:晨]]
+[[th:晨]]
+[[chr:晨]]
+[[vi:晨]]
+[[zh:晨]]

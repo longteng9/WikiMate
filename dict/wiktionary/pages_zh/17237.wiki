@@ -1,0 +1,57 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=74|rad=月|as=06|sn=10|four=72213|canj=BLMO|ids=⿰月兆}}
+
+# for the [[moon]] to [[appear]] in the [[west]] at [[dusk]] (at the end of a [[lunar]] [[month]])
+
+====References====
+* {{Han ref|kx=0505.150|dkj=14358|dj=0884.070|hdz=32069.030|uh=6713|ud=26387|bh=D1D8|bd=53720}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tiǎo
+|c=tiu3,tiu2,tiu5
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|謝朓}}
+
+===References===
+* {{R:twedu|B01602}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=月06}}
+
+# {{defn|lang=ja|sort=月06}}
+
+====Readings====
+* {{ja-readings|on=[[ちょう]] (chō)|kun=}}
+
+[[fr:朓]]
+[[hu:朓]]
+[[pl:朓]]
+[[th:朓]]
+[[zh:朓]]

@@ -1,0 +1,92 @@
+{{character info/new}}
+{{also|紙}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=50|rad=巾|as=04|sn=7|four=|canj=HPLB|ids=⿱氏巾}}
+
+# [[paper]]
+# [[stationery]]
+# [[document]]
+
+====References====
+* {{Han ref|kx=0329.140|dkj=08809|dj=0634.250|hdz=10732.060|uh=5E0B|ud=24075}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=[[zi2]]|y=ji2}}
+
+# {{defn|lang=yue|sort=巾04}}
+
+====References====
+* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 102]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=巾04}}
+
+# [[paper]]
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[かみ]] (kami)}}
+
+====References====
+{{ja-kref
+|jis=5663
+|ku=5467
+|shift=9BE1
+|euc=D6E3
+|freq=''not ranked''
+|nelson=''not listed''
+|newnelson=1552
+|halpern=''not listed''
+|kld=''not listed''
+|heisig=''not listed''
+|tuttle=6a4.4
+}}
+
+====Usage notes====
+[[俗字]] (zokuji). Non-standard for [[紙]].
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=지|eumhun=|rv=ji|mr=chi|y=ci}}
+
+# {{defn|lang=ko|sort=巾04}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[zhǐ]] ([[zhi3]])|wg=chih<sup>3</sup>}}
+
+# {{defn|lang=cmn|sort=巾04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=巾04|hanviet=chỉ}}
+
+# {{defn|lang=vi|sort=巾04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5e0b Nom Foundation]
+
+[[fr:帋]]
+[[hu:帋]]
+[[ja:帋]]
+[[pl:帋]]
+[[th:帋]]
+[[zh:帋]]

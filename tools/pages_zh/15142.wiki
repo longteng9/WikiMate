@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|弑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=56|rad=弋|as=10|sn=13|four=43940|canj=KCIPM,KDIPM,XKDIP|ids=⿰𣏂式}}
+
+# to [[kill]] one's [[superior]]
+
+====References====
+* {{Han ref|kx=0355.141|dj=0671.180|hdz=10559.190|uh=5F12|ud=24338}}
+
+----
+
+==Chinese==
+{{zh-forms|s=弑}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shì
+|c=si3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=弋10}}
+
+# {{defn|lang=ja|sort=弋10}}
+
+====Readings====
+{{ja-readings|goon=[[し]] (shi)|kanon=[[し]] (shi)|kanyoon=[[しい]] (shī)|kun=[[しいする]] (shiisuru), [[ころす]] (korosu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=시|eumhun=|rv=si|mr=si|y=si}}
+
+# {{defn|lang=ko|sort=弋10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=弋10|hanviet=thí}}
+
+# {{defn|lang=vi|sort=弋10}}
+
+[[fr:弒]]
+[[hu:弒]]
+[[pl:弒]]
+[[th:弒]]
+[[zh:弒]]

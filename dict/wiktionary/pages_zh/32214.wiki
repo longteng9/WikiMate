@@ -1,0 +1,102 @@
+{{character info/new}}
+{{also|鲇|鲶}}
+==Translingual==
+
+===Etymology===
+Possibly invented in Japan,<ref name="DJS">{{R:Daijisen}}</ref> using the {{m|ja|魚}} radical on the left for its meaning of “fish”, and {{m|ja|念}} on the right for its [[phonetic]] value as a homophone of {{m|ja|粘|tr=nen||sticky; slimy}}.
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=08|sn=19|four=28332|canj=NFOIP|ids=⿰魚念}}
+
+# [[sheat]]
+
+====References====
+<references/>
+* {{Han ref|kx=1473.271|dkj=46285|dj=2005.270|hdz=74697.130|uh=9BF0|ud=39920|bh=F3CE|bd=62414}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=nim4|y=nim4}}
+
+# {{defn|lang=yue|sort=魚08}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚08}}
+
+# a [[catfish]]
+
+====Readings====
+{{ja-readings
+|on=[[ねん]] (nen)
+|kun=[[なまず]] (namazu)
+}}
+
+===Etymology===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Catfish}}
+{{wikipedia|Amur catfish}}
+[[File:Naturalis_Biodiversity_Center_-_RMNH.ART.134_-_Silurus_asotus_(Linnaeus)_-_Kawahara_Keiga_-_1823_-_1829_-_Siebold_Collection_-_pencil_drawing_-_water_colour.jpeg|thumb|250px|{{PAGENAME}} (''namazu''): a biologist's depiction of a {{vern|Amur catfish}} ({{vern|Japanese catfish}}).]]
+</div>
+{{ja-kanjitab|なまず|yomi=k}}
+Possibly a compound of {{compound|lang=ja|sort=なまず|滑|tr1=nama|t1=slippery, slimy|pos1=possible ancient alternate for ''name'' reading|頭|tr2=zu|t2=head}}.
+
+===Pronunciation===
+{{ja-pron|yomi=k|なまず|acc=0|acc_ref=DJR,NHK,SMK5}}
+
+===Noun===
+{{ja-noun|なまず|ナマズ|hhira=なまづ}}
+
+# a [[catfish]]
+# {{qualifier|more specifically}} the {{vern|Amur catfish}}, {{taxlink|Silurus asotus|species|noshow=1}}
+
+====Usage notes====
+{{U:ja:biology|ナマズ}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|上がり鯰|あがりなまず}}
+* {{ja-r|痺鯰|しびれなまず}}
+* {{ja-r|電気鯰|でんきなまず}}
+* {{ja-r|鯰尾|なまずお}}
+* {{ja-r|鯰隈|なまずぐま}}
+* {{ja-r|鯰肌|なまずはだ}}
+* {{ja-r|鯰髭|なまずひげ}}
+* {{ja-r|鯰坊主|なまずぼうず}}
+* {{ja-r|瓢箪で鯰を押さえる|ひょうたん で なまず を おさえる}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|なまず]]
+[[Category:ja:Catfish|なまず]]
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[nián]] ([[nian2]])|wg=nien<sup>2</sup>}}
+
+# {{defn|lang=cmn|sort=魚08}}
+
+* '''Style''': [[Traditional Chinese]]
+** '''[[Simplified Chinese|Simplified]] equivalent''': [[鲇]], [[鲶]]
+
+[[Category:Japanese-coined CJKV characters used outside Japanese|魚+08]]
+
+[[fr:鯰]]
+[[hu:鯰]]
+[[ja:鯰]]
+[[pl:鯰]]
+[[th:鯰]]
+[[chr:鯰]]
+[[zh:鯰]]

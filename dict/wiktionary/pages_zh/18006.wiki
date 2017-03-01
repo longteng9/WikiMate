@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=11|sn=15|four=43922|canj=DIIH|ids=⿰木參}}
+
+# [[lush]] [[growth]] (trees)
+# {{lb|zh|archaic}} [[fishing]] using [[bundle]]d [[wood]]
+
+====References====
+* {{Han ref|kx=0547.130|dkj=15370|dj=0935.110|hdz=21286.010|uh=69EE|ud=27118|bh=E5DB|bd=58843}}
+
+----
+
+==Chinese==
+{{zh-forms|s=椮}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=sēn,shěn
+|c=sam1,sam6
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木11}}
+
+# [[thicket]]
+# thickly intertwined branches
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin), [[さん]] (san), [[せん]] (sen)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=삼|rv=sam|mr=sam}}
+
+# plain and smooth
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=木11|sim}}
+
+# {{defn|lang=vi|sort=木11}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=69ee Nom Foundation]
+
+[[fr:槮]]
+[[hu:槮]]
+[[pl:槮]]
+[[th:槮]]
+[[zh:槮]]

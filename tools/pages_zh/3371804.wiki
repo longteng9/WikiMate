@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|さい|か|い|yomi=on}}
+
+===Etymology===
+{{prefix|lang=ja|最|下位|tr1=sai|t1=most|tr2=kai|t2=lowly}}
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[sa̠.i.ka̠.i]}}
+* {{ja-accent-common|n|さ|いか|い}}<ref>{{R:NHK Hatsuon}}</ref>
+
+===Noun===
+{{ja-noun|さいかい|hhira=さいかゐ}}
+
+# [[lowest]] rank; [[bottom]]; [[least]] significant
+
+====Antonyms====
+* {{ja-l|最上位|さいじょうい|saijōi}} highest
+
+====Derived terms====
+* {{ja-l|最下位ビット|さいかいビット|saikai bitto}} least significant bit
+
+===References===
+<references/>
+
+[[zh:最下位]]

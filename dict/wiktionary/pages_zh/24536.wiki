@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=12|sn=16|four=78265|canj=BTGR,BTTR}}
+
+====References====
+* {{Han ref|kx=0995.010|dkj=29891|dj=1446.150|hdz=32113.110|uh=81B3|ud=33203|bh=BFAF|bd=49071}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|⺼|善|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shàn
+|c=sin6
+|mn=siān
+|w=3zoe
+|mc=y
+|oc=y
+|ma=
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} to [[prepare]] [[food]]
+# {{†}} to [[offer]] [[food]]
+# {{†}} [[meal]]
+
+===Compounds===
+{{zh-der|佐膳|供膳甘肥|問安視膳|嘗膳|廩膳|廩膳生員|廩膳秀才|御膳房|早膳|晚膳|減膳|用膳|膳堂|膳夫|膳宿|膳房|膳費|膳食|藥膳|進膳|配膳檯|食膳|養膳}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉12}}
+
+# {{defn|lang=ja|sort=肉12}}
+
+====Readings====
+* {{ja-readings|goon=[[ぜん]] (zen)|kanon=[[せん]] (sen)|kun=[[そなえる]] (sonaeru), [[かしわ]] (kashiwa), [[すすめる]] (susumeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=선|eumhun=|rv=seon|mr=sŏn|y=sen}}
+
+# {{defn|lang=ko|sort=肉12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''膳''' ([[thiện]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:膳]]
+[[hu:膳]]
+[[mg:膳]]
+[[ja:膳]]
+[[pl:膳]]
+[[th:膳]]
+[[zh:膳]]

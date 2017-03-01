@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|yomi=on|ふつ|ま|じゅつ}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ふつまじゅつ|祓魔|tr1=futsuma|t1=exorcism|術|tr2=jutsu|t2=art, technique}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[ɸɯᵝt͡sɯᵝma̠d͡ʑʲɯᵝt͡sɯᵝ]}}
+
+===Noun===
+{{ja-noun|ふつまじゅつ}}
+
+# {{lb|ja|sort=ふつまし|Christianity}} [[exorcism]] {{qualifier|the technique of exorcising, rather than the act of doing so}}
+
+====Related terms====
+* {{ja-r|祓魔師|ふつまし}} an [[exorcist]] {{qualifier|Christianity}}
+
+====Synonyms====
+* {{ja-r|破魔術|はまじゅつ}} {{qualifier|Buddhism}}

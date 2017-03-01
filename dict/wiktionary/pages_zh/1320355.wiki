@@ -1,0 +1,33 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=huǒshānyán
+|c=fo2 saan1 ngaam4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|geology}} [[volcanic]] [[rock]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|か|さん|がん|k2=ざん|yomi=o|r=y}}
+
+===Pronunciation===
+* {{ja-accent-common|n|か|ざ|んがん}}<ref>{{R:NHK Hatsuon}}</ref>
+
+===Noun===
+{{ja-noun|かざんがん}}
+
+# {{lb|ja|geology|sort=かざんがん}} [[volcanic]] [[rock]]
+
+===References===
+<references/>
+
+[[ja:火山岩]]
+[[zh:火山岩]]

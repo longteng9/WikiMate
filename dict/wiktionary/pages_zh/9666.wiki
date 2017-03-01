@@ -1,0 +1,104 @@
+{{also|日本语}}
+
+==Chinese==
+{{zh-forms|s=日本语|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=Rìběnyǔ
+|c=jat6 bun2 jyu5
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# the [[Japanese]] language
+
+====Synonyms====
+* {{zh-l|日文}}
+* {{zh-l|日語}}
+
+====Usage notes====
+* Like {{m|en|Nihongo}} in English, {{zh-l|日本語}} is usually restricted to linguistic and language learning contexts, whilst {{zh-l|日文}} and {{zh-l|日語}} are more commonly used in written and conversational situations respectively.
+
+{{zh-cat|Japanese}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|にち|k1=にっ|ほん|k2=ぽん|ご|yomi=o}}
+{{ja-kanjitab|にち|k1=に|ほん|ご|yomi=irr|sort=にほんご}}
+
+===Etymology===
+From {{suf|ja|日本|tr1=Nihon, Nippon|t1=[[Japan]]|語|tr2=go|t2=[[language]]|sort=にほんご}}
+
+===Pronunciation===
+{{ja-pron|y=i|acc=0|acc_ref=DJR,SMK5,NHK|にほんご|a=Ja-nihongo.ogg}}
+{{ja-pron|y=go|acc=0|acc_ref=NHK|にっぽんご}}
+
+===Proper noun===
+{{ja-pos|proper|にほんご|にっぽんご}}
+
+# the [[Japanese]] [[language]]
+
+===References===
+<references/>
+
+{{cln|ja|basic words|sort=にほんご}}
+{{C|ja|Japanese|sort=にほんご}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Proper noun===
+{{ko-propn|hangeul=일본어|mr=Ilbonŏ|y=Ilpon.e}}
+
+# {{hanja form of|일본어|[[Japanese]] [[language]]}}
+
+[[af:日本語]]
+[[ast:日本語]]
+[[az:日本語]]
+[[zh-min-nan:日本語]]
+[[ca:日本語]]
+[[cs:日本語]]
+[[da:日本語]]
+[[de:日本語]]
+[[et:日本語]]
+[[es:日本語]]
+[[eo:日本語]]
+[[fr:日本語]]
+[[gu:日本語]]
+[[ko:日本語]]
+[[hy:日本語]]
+[[hi:日本語]]
+[[it:日本語]]
+[[ku:日本語]]
+[[ky:日本語]]
+[[lo:日本語]]
+[[la:日本語]]
+[[lb:日本語]]
+[[lt:日本語]]
+[[li:日本語]]
+[[hu:日本語]]
+[[mg:日本語]]
+[[nl:日本語]]
+[[ja:日本語]]
+[[uz:日本語]]
+[[km:日本語]]
+[[nds:日本語]]
+[[pl:日本語]]
+[[pt:日本語]]
+[[ro:日本語]]
+[[ru:日本語]]
+[[fi:日本語]]
+[[sv:日本語]]
+[[th:日本語]]
+[[tr:日本語]]
+[[uk:日本語]]
+[[vi:日本語]]
+[[wa:日本語]]
+[[zh:日本語]]

@@ -1,0 +1,103 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=128|rad=耳|as=03|sn=9|four=17127|canj=SJNL|ids=⿰耳⻏}}
+
+====Derived characters====
+* [[爺]]
+
+====References====
+* {{Han ref|kx=0965.120|dkj=29008|dj=1413.190|hdz=42784.030|uh=8036|ud=32822|bh=AD43|bd=44355}}
+* Thiều Chửu. Hán Việt tự điển. Thanh Niên Publisher. 2004
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=yé
+|c=je4
+|h=pfs=yà
+|mn=iâ
+|w=3hhia,1ia
+|mc=y
+|oc=y
+|cat=n,part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|爺|father}}
+#: {{zh-x|耶{yé}孃{niáng} 妻子 走 相{xiāng}送，塵埃 不見 ^咸陽.^橋。|Parents, wife and children [of the forcibly conscripted man] running to see him off, and the Bridge of Xianyang gradually disappears from view in the rolling dust [from the chariots].|CL|ref=Du Fu, 兵車行}}
+# {{n-g|Particle indicating a questioning tone.}}
+#: {{zh-x|是 進 亦 憂，退 亦 憂；然則 何時 而 樂{lè} 耶{yé}？|They worry when they step forward, and worry when they step back; then when would they ever be happy?|CL|ref=Fan Zhongyan, 岳陽樓記}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=耶
+|c=je4
+|h=pfs=yâ
+|mn=iâ
+|w=3hhia,1ia
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|Used as a phonetic transliteration character.}}
+
+====Compounds====
+{{zh-der|耶穌|耶和華|耶路撒冷}}
+
+===Etymology 3===
+{{zh-see|邪|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=耳03}}
+
+# {{defn|lang=ja|sort=耳03}}
+
+====Readings====
+* {{ja-readings|goon=[[や]] (ya)|kanon=[[や]] (ya)|on=[[じゃ]] (ja)|kun=[[や]] (ya), [[か]] (ka), [[ちち]] (chichi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=야|eumhun=|rv=ya|mr=ya|y=ya}}
+
+# {{defn|lang=ko|sort=耳03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[da]], [[gia]]|rs=耳03}}
+
+# {{defn|lang=vi|sort=耳03}}
+
+[[fr:耶]]
+[[ko:耶]]
+[[hu:耶]]
+[[mg:耶]]
+[[ja:耶]]
+[[pl:耶]]
+[[th:耶]]
+[[zh:耶]]

@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|鈎|钩}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=05|sn=13|four=87120|canj=CPR|ids=⿰金句}}
+
+====References====
+* {{Han ref|kx=1302.080|dkj=40319|dj=1804.030|hdz=64188.060|uh=9264|ud=37476|bh=B95F|bd=47455}}
+
+----
+
+==Chinese==
+{{zh-forms|s=钩|t2=鈎}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gōu
+|c=ngau1,gau1
+|c_note=gau1 - rare
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[hook]], [[barb]]
+# [[sickle]]
+# [[stroke]] with
+# {{lb|zh|Chinese calligraphy}} a hook (such as in {{m|mul|㇠}}, {{m|mul|㇆}}, {{m|mul|㇚}}{{,}} or {{m|mul|㇟}})
+
+====Coordinate terms====
+* {{list:basic character strokes/zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金05}}
+
+# {{defn|lang=ja|sort=金05}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[く]] (ku)|kun=[[かぎ]] (kagi), [[かける]] (kakeru)|nanori=}}
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|かぎ|yomi=k}}
+
+===Noun===
+{{ja-noun|かぎ}}
+
+# [[hook]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# {{defn|lang=ko|sort=金05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[câu]]|rs=金05}}
+
+# {{defn|lang=vi|sort=金05}}
+
+[[zh-min-nan:鉤]]
+[[fr:鉤]]
+[[ko:鉤]]
+[[hu:鉤]]
+[[mg:鉤]]
+[[ja:鉤]]
+[[pl:鉤]]
+[[th:鉤]]
+[[chr:鉤]]
+[[zh:鉤]]

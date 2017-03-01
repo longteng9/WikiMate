@@ -1,0 +1,51 @@
+{{also|对称}}
+==Chinese==
+{{zh-forms|s=对称}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=duì稱
+|c=deoi3 cing3,deoi3 can3
+|mn=tùi-chhìn
+|cat=n,a,adv
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[symmetrical]]
+# [[symmetry]]
+# [[symmetrically]]
+
+=====Derived terms=====
+{{zh-der|不對稱|對稱性|對稱軸:duìchènzhóu|反對稱:fǎnduìchèn}}
+
+====Descendants====
+{{CJKV|對稱|s=対称|たいしょう|대칭|đối xứng}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=duìchēng
+|c=deoi3 cing1
+|mn=tùi-chheng
+|cat=n,a
+}}
+
+====Noun====
+{{zh-noun}}
+
+# name for the other [[party]] in the conversation; [[second person]]
+
+=====Synonyms=====
+* {{sense|second person}} {{zh-l|第二人稱}}
+
+====Descendants====
+{{CJKV|對稱|s=対称|たいしょう|대칭|đối xưng}}
+
+{{zh-cat|Advanced|Grammar}}
+
+[[ko:對稱]]
+[[lo:對稱]]
+[[hu:對稱]]
+[[ja:對稱]]
+[[zh:對稱]]

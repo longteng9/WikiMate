@@ -1,0 +1,36 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+From {{etyl|ja|zh}} {{ja-r|支払う|しはらう|to pay}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhīfù
+|c=zi1 fu6
+|h=pfs=chṳ̂-fu
+|mn=qz,tw,xm,zz:chi-hù/qz,xm:ki-hù
+|ma=zh-cmn-支付.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[pay]]
+
+====See also====
+* {{zh-l|付}}
+* {{zh-l|付錢}}
+* {{zh-l|[[給]][[錢]]|gěi qián}}
+* {{zh-l|納}}
+
+{{zh-cat|Advanced}}
+
+[[zh-min-nan:支付]]
+[[ko:支付]]
+[[hu:支付]]
+[[mg:支付]]
+[[ja:支付]]
+[[chr:支付]]
+[[zh:支付]]

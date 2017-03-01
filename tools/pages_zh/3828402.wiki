@@ -1,0 +1,62 @@
+{{also|杀菌}}
+==Chinese==
+{{zh-forms|s=杀菌}}
+
+===Pronunciation===
+{{zh-pron
+|m=shā菌
+|c=saat3 kwan2
+|mn=sat-khún
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[sterilisation]]
+# [[disinfectant]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[disinfect]], to [[sterilise]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|さつ|k1=さっ|きん|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|さっきん|yomi=o}}
+
+===Noun===
+{{ja-noun|さっきん}}
+
+# [[sterilization]]
+
+====Derived terms====
+* {{ja-r|殺菌剤|さっきんざい}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|さっきん}}
+
+# [[sterilize]]
+#: {{ja-usex|有害な菌を殺菌してくれる|ゆうがい な きん を さっきん して くれる|it kills harmful bacteria}}
+
+====Conjugation====
+{{ja-suru|さっきん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=살균}}
+
+# {{hanja form of|살균|[[sterilization]]}}
+
+[[ko:殺菌]]
+[[hu:殺菌]]
+[[ja:殺菌]]
+[[zh:殺菌]]

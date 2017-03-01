@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|鸫|鶫}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=08|sn=19|four=57927|canj=DWHAF|ids=⿰東鳥}}
+
+# [[thrush]]
+
+====References====
+* {{Han ref|kx=1493.210|dkj=47054|dj=2023.290|hdz=74639.110|uh=9D87|ud=40327|bh=F3F0|bd=62448}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鸫}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=dōng
+|c=dung1
+|w=1ton
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[thrush]]
+
+=====Derived terms=====
+* {{zh-l|白腹鶇|[[pale thrush]]}}
+
+{{zh-cat|Thrushes}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鳥08}}
+
+# a [[thrush]] {{qualifier|bird}}
+
+====Readings====
+{{ja-readings
+|goon=[[つう]] (tsū)
+|kanon=[[とう]] (tō)
+|kun=[[つぐみ]] (tsugumi)
+}}
+
+===Etymology===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Dusky thrush}}
+[[File:Tsugumi1.JPG|thumb|250px|{{lang|ja|鶇}} (''tsugumi''): a '''[[dusky thrush]]'''.]]
+</div>
+{{ja-kanjitab|yomi=k|つぐみ}}
+From the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|噤む|tr=tsugumu||to shut up, to become quiet}}, from the way the birds cease singing after summer has ended.
+
+===Pronunciation===
+{{ja-pron|yomi=k|つぐみ|acc=0|acc_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{ja-l|鶫}} {{qualifier|kokuji: Japanese-only}}
+
+===Noun===
+{{ja-noun|つぐみ|ツグミ}}
+
+# a [[thrush]]: a [[bird]] of [[genus]] ''[[Turdus]]''
+# {{qualifier|more specifically}} a [[dusky thrush]]: {{taxlink|Turdus eunomus|species|noshow=1}}
+
+====Usage notes====
+{{U:ja:biology|ツグミ}}
+
+===References===
+<references/>
+
+[[Category:ja:Thrushes|つぐみ]]
+
+[[fr:鶇]]
+[[hu:鶇]]
+[[mg:鶇]]
+[[ja:鶇]]
+[[pl:鶇]]
+[[th:鶇]]
+[[zh:鶇]]

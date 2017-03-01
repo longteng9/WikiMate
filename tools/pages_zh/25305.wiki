@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=10|sn=16|four=44213|canj=THI|ids=⿱艹鬼}}
+# [[collect]], [[gather]], [[assemble]]
+# [[seek]]
+# [[spring]] [[hunt]]
+# [[assemble]] for [[war]]
+
+====References====
+* {{Han ref|kx=1047.710|dkj=31539|dj=1509.080|hdz=53251.070|uh=8490|ud=33936|bh=BB60|bd=47968}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=sōu
+|c=sau1,sau2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|春蒐|蒐索|蒐羅|蒐證|蒐購|蒐集}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸10}}
+
+# {{defn|lang=ja|sort=艸10}}
+
+====Readings====
+* {{ja-readings|goon=[[しゅ]] (shu)|kanon=[[そう]] (sō)|kanyoon=[[しゅう]] (shū)|kun=[[あかね]] (akane), [[あつめる]] (atsumeru), [[かり]] (kari)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=艸10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sưu]], [[cói]]|rs=艸10}}
+
+# {{defn|lang=vi}}
+
+[[fr:蒐]]
+[[ko:蒐]]
+[[hu:蒐]]
+[[mg:蒐]]
+[[ja:蒐]]
+[[pl:蒐]]
+[[th:蒐]]
+[[zh:蒐]]

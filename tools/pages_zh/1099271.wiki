@@ -1,0 +1,31 @@
+==Japanese==
+{{ja-kanjitab|りょう|しょう|yomi=on}}
+
+===Alternative forms===
+* [[諒承]]
+* [[領承]]
+
+===Etymology===
+From {{m|ja|了|sc=Jpan|tr=ryō||comprehend}} + {{m|ja|承|sc=Jpan|tr=shō||agree to}}
+
+{{rfe|lang=ja|the original first character is [[諒]] but was replaced with [[了]] due to not being in the Tōyō kanji list. character glosses for [[諒]] are "excuse, forgive; guess, presume" and for [[了]] are "to finish; completed action particle"}}
+
+===Noun===
+{{ja-noun|りょうしょう}}
+
+# [[acknowledgment]], [[understanding]]
+
+====Derived terms====
+* {{ja-r|御了承|ごりょうしょう}}: acknowledgment, understanding
+* {{ja-r|了承済み|りょうしょうずみ}}: acknowledged, accepted
+
+===Verb===
+{{ja-verb-suru|tr=trans|りょうしょう}}
+
+# [[acknowledge]]
+
+====Conjugation====
+{{ja-suru|りょうしょう}}
+
+[[ko:了承]]
+[[zh:了承]]

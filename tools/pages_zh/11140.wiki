@@ -1,0 +1,180 @@
+{{character info/new}}
+{{also|侧}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=09|sn=11|four=22200|canj=OBCN|ids=⿰亻則}}
+
+====References====
+* {{Han ref|kx=0111.340|dkj=00897|dj=0238.060|hdz=10189.120|uh=5074|ud=20596|bh=B0BC|bd=45244}}
+
+----
+
+==Chinese==
+{{zh-forms|s=侧}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|alt1=亻|則|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=cè
+|c=zak1
+|h=pfs=chet
+|md=cháik/cáik
+|md_note=cháik - “side”; cáik - “to lean to one side”
+|mn=chhek
+|w=4tseq
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[side]]
+# to [[lean]] to one side; to [[incline]]; to [[slant]]
+
+===Compounds===
+{{zh-der|側理紙|側柏|側豔|側滑|側影|側陋|側面|側芽|匾打側卓|側膜胎座|側離|側首|側麗|側鋒|側聽|傾側|側手翻|側錄|側線|側足|一側|側帽|側面圖|側枝|側歪|側蝕力|側耳|側微|側匿|側泳|側言|側記|反側|引人側目|側聞|側眼|側席|左側|側門|側室|側根|側筆|側脈|外側|展轉反側|側身|側重|側壓力|側翼|側擊|右側通行|右側|偪側|側視圖|側媚|側臥|側目|兩側|側目而視|側偃|攲側|東側|扶側|旁敲側擊|珠玉在側|清君側|搜揚側陋|轉輾反側|轉側不安|輾轉反側|重足側目|轉側|道路側目|逼側|腹側體腔|車側氣囊|翼側|側邊}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=人09}}
+
+====Readings====
+{{ja-readings|goon=[[しき]] (shiki)|kanon=[[そく]] (soku)|kun=[[がわ]] (gawa), [[かわ]] (kawa), [[そば]] (soba)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|君側|くんそく}}: [[vicinity]] of a [[lord]]
+* {{ja-r|側圧|そくあつ}}: [[lateral]] [[pressure]]
+* {{ja-r|側鎖|そくさ}}
+* {{ja-r|側室|そくしつ}}
+* {{ja-r|側射|そくしゃ}}
+* {{ja-r|側車|そくしゃ}}
+* {{ja-r|側線|そくせん}}
+* {{ja-r|側背|そくはい}}
+* {{ja-r|側部|そくぶ}}
+* {{ja-r|側聞|そくぶん}}
+* {{ja-r|側壁|そくへき}}
+* {{ja-r|側辺|そくへん}}
+* {{ja-r|側面|そくめん}}
+* {{ja-r|側路|そくろ}}
+* {{ja-r|側火山|そっかざん}}
+* {{ja-r|側近|そっきん}}
+* {{ja-r|側溝|そっこう}}
+* {{ja-r|側根|そっこん}}
+* {{ja-r|側頭|そくとう}}
+* {{ja-r|側泳|そばえい}}
+* {{ja-r|側杖|そばづえ}}
+* {{ja-r|側女|そばめ}}
+* {{ja-r|側役|そばやく}}
+{{der-bottom}}
+
+====Related terms====
+* {{ja-r|側か|ほのか}}
+* {{ja-r|側む|そばむ}}
+* {{ja-r|側仕え|そばづかえ}}
+
+===Etymology 1===
+{{ja-kanjitab|がわ|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|がわ|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|がわ|hhira=がは}}
+
+# [[side]]
+
+===Etymology 2===
+{{ja-kanjitab|そば|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|そば|acc=1|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|傍}}
+
+====Noun====
+{{ja-noun|そば}}
+
+# [[vicinity]], [[near]], [[beside]]
+
+===Etymology 3===
+{{ja-kanjitab|かわ|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|かわ|acc=2|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|かわ|hhira=かは}}
+
+# [[side]]
+
+===Etymology 4===
+{{ja-kanjitab|はた|yomi=irr}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|はた|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|端}}, {{ja-l|傍}}
+
+====Noun====
+{{ja-noun|はた}}
+
+# [[vicinity]]
+
+===Etymology 5===
+{{ja-kanjitab|かたわら|yomi=irr}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|かたわら|acc=0|acc_ref=DJR,NHK|acc2=4|acc2_ref=NHK}}
+
+====Alternative forms====
+* {{ja-l|傍ら}}, {{ja-l|旁}}, {{ja-l|脇}}
+
+====Noun====
+{{ja-noun|かたわら|hhira=かたはら}}
+
+# [[side]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=측|rv=cheuk|mr=ch'ŭk}}
+
+# {{defn|lang=ko|sort=人09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trắc]], [[trắt]], [[trặc]]|rs=人09}}
+
+# {{defn|lang=vi|sort=人09}}
+
+[[fr:側]]
+[[ko:側]]
+[[it:側]]
+[[lo:側]]
+[[hu:側]]
+[[mg:側]]
+[[ja:側]]
+[[pl:側]]
+[[th:側]]
+[[chr:側]]
+[[zh:側]]

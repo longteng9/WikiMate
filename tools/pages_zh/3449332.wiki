@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|し|たく|yomi=on}}
+
+===Alternative forms===
+* {{l/ja|仕度}}
+
+===Noun===
+{{ja-noun|したく}}
+
+# [[preparations]]
+# [[equipment]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|したく}}
+
+# [[prepare]], [[set up]]
+#: {{ja-usex|夕飯を支度する|ゆうはん を したく する|prepare supper}}
+
+====Conjugation====
+{{ja-suru|したく}}
+
+[[fr:支度]]
+[[li:支度]]
+[[mg:支度]]
+[[chr:支度]]
+[[zh:支度]]

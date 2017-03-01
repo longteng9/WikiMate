@@ -1,0 +1,32 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|まえ|した|r=y|k2=じた|ぼ|いん}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|まえじたぼいん|acc=5|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|まえじた ぼいん|hhira=まへじたぼいん}}
+
+# {{lb|ja|phonetics|sort=まえじたぼいん}} [[front vowel]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|ぜん|ぜつ|ぼ|いん}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|ぜんぜつぼいん|acc=5|acc_ref=DJR|y=o}}
+
+====Noun====
+{{ja-noun|ぜんぜつ ぼいん}}
+
+# {{lb|ja|phonetics|sort=せんぜつぼいん'}} [[front vowel]]
+
+===References===
+<references/>
+[[Category:ja:Sound|まえじたぼいん]]
+
+[[ko:前舌母音]]

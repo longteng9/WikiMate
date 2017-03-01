@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|炼|鍊}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=09|sn=13|four=95896|canj=FDWF|ids=⿰火柬}}
+
+# [[smelt]], [[refine]]
+# [[distill]], [[condense]]
+
+====References====
+* {{Han ref|kx=0676.040|dkj=19178|dj=1087.090|hdz=32215.110|uh=7149|ud=29001|bh=B7D2|bd=47058}}
+
+----
+
+==Chinese==
+{{zh-forms|s=炼}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|火|柬|t1=fire|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=liàn
+|c=lin6
+|h=pfs=lien
+|md=
+|mn=liān
+|w=
+|mc=
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火09}}
+
+# {{defn|lang=ja|sort=火09}}
+
+====Readings====
+* {{ja-readings|goon=[[れん]] (ren)|kanon=[[れん]] (ren)|kun=[[ねる]] (neru)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|煉瓦|れんが}}: [[brick]]
+* {{ja-r|煉獄|れんごく}}: [[purgatory]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[련]]>[[연]]|eumhun=|rv=ryeon>yeon|mr=ryŏn>yŏn|y=lyen>yen}}
+
+# {{defn|lang=ko|sort=火09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[luyện]], [[rịn]]|rs=火09}}
+
+# {{defn|lang=vi|sort=火09}}
+
+[[fr:煉]]
+[[ko:煉]]
+[[hu:煉]]
+[[ja:煉]]
+[[pl:煉]]
+[[th:煉]]
+[[zh:煉]]

@@ -1,0 +1,93 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=172|rad=隹|as=05|sn=13|four=20114|canj=YMPOG|ids=⿰此隹}}
+
+# [[female]]
+# [[feminine]]
+# [[gentle]], [[soft]]
+
+====References====
+* {{Han ref|kx=1366.110|dkj=41998|dj=1871.020|hdz=64098.180|uh=96CC|ud=38604|bh=BBDB|bd=48091}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=雌
+|c=ci1
+|h=pfs=chhṳ
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|formal}} [[female]] (describing animals)
+
+====Usage notes====
+* Commonly used for animals to mean "female" in academic contexts, less commonly used in non-academic contexts (use "{{lang|zh|母}}" instead), and not used for humans (use "{{lang|zh|女}}" instead). For example:
+*: {{zh-x|母雞|hen}}
+*: {{zh-x|母牛|cow}}
+
+====Antonyms====
+* {{zh-l|雄|male}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=隹05}}
+
+====Readings====
+{{ja-kanjitab|めす|yomi=k}}
+* {{ja-readings|on=[[し]] ([[shi]])|kun=[[めす]] ([[mesu]]), [[め]] ([[me]])}}
+
+===Noun===
+{{ja-noun|めす}}
+
+# [[female]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=자|eumhun=|rv=ja|mr=cha|y=ca}}
+
+# {{defn|lang=ko|sort=隹05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thư]]|rs=隹05}}
+
+# {{defn|lang=vi|sort=隹05}}
+
+[[fr:雌]]
+[[ko:雌]]
+[[it:雌]]
+[[lo:雌]]
+[[hu:雌]]
+[[mg:雌]]
+[[ja:雌]]
+[[no:雌]]
+[[pl:雌]]
+[[th:雌]]
+[[chr:雌]]
+[[zh:雌]]

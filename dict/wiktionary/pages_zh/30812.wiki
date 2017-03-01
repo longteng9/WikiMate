@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=173|rad=雨|as=04|sn=12|four=10227|canj=MBCSH}}
+
+====References====
+* {{Han ref|kx=1372.010|dkj=42231|dj=1879.120|hdz=64059.100|uh=96F0|ud=38640|bh=DCA8|bd=56488}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|雨|t1=rain|分|t2=divide, small|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=fēn
+|c=fan1
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[atmosphere]]
+# [[mist]]; [[fog]]
+
+====Compounds====
+{{zh-der|雰埃|雰雰|雰圍}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=雨04}}
+
+# {{defn|lang=ja|sort=雨04}}
+
+====Readings====
+* {{ja-readings|on=[[ふん]] (fun)|kun=[[きり]] (kiri)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=분|eumhun=|rv=bun|mr=pun|y=pun}}
+
+# {{defn|lang=ko|sort=雨04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''雰''' ([[phân]])
+
+# {{defn|lang=vi}}
+
+[[fr:雰]]
+[[ko:雰]]
+[[hu:雰]]
+[[mg:雰]]
+[[ja:雰]]
+[[pl:雰]]
+[[th:雰]]
+[[zh:雰]]

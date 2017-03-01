@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|镵}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=17|sn=25|four=87113|canj=CNRI}}
+
+# [[plowshare]]
+
+====References====
+* {{Han ref|kx=1326.320|dkj=41052|dj=1828.040|hdz=64274.010|uh=9471|ud=38001|bh=F955|bd=63829}}
+
+----
+
+==Chinese==
+{{zh-forms|s=镵}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chán
+|c=caam4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|長鑱}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金17}}
+
+# {{defn|lang=ja|sort=金17}}
+
+====Readings====
+* {{ja-readings|on=[[さん]] (san), [[ぜん]] (zen)|kun=[[するどい]] (surudoi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=참|eumhun=|rv=cham|mr=ch'am|y=cham}}
+
+# {{defn|lang=ko|sort=金17}}
+
+[[zh-min-nan:鑱]]
+[[fr:鑱]]
+[[hu:鑱]]
+[[mg:鑱]]
+[[pl:鑱]]
+[[th:鑱]]
+[[zh:鑱]]

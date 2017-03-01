@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|おう|ふく|yomi=on}}
+
+===Noun===
+{{ja-noun|おうふく}}
+
+# [[round trip]]
+# coming and going
+
+====Antonyms====
+* {{sense|round trip}} {{ja-r|片道|かたみち|gloss=one way}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|おうふく}}
+
+# make a round trip
+#: {{ja-usex|仕事場と自宅を往復するだけの生活|しごとば と じたく を おうふく する だけ の せいかつ|a life of simply going from home to work and back}}
+
+====Conjugation====
+{{ja-suru|おうふく}}
+
+[[ko:往復]]
+[[lo:往復]]
+[[hu:往復]]
+[[zh:往復]]

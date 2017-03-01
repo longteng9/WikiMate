@@ -1,0 +1,244 @@
+{{character info/new}}
+{{also|主|玍}}
+==Translingual==
+{{stroke order|type=animate}}
+{{stroke order|type=janimate}}
+
+===Han character===
+{{Han char|rn=100|rad=生|as=0|sn=5|four=25100|canj=HQM|ids=⿻𠂉土}}
+
+# {{mul-kangxi radical-def}}
+
+====References====
+* {{Han ref|kx=0754.260|dkj=21670|dj=1162.040|hdz=42575.010|uh=751F|ud=29983|bh=A5CD|bd=42445}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|屮|一|ls=ic|t1=bud|t2=ground}} – [[sprouting]] from the ground.
+
+===Etymology===
+From {{inh|zh|sit-pro|*s-riŋ ~ s-r(j)aŋ||to live; to be alive; to give birth; raw; green}}. Cognate with {{cog|my|ရှင်||to live; alive}}, {{cog|lus|hring||to bear; to bring forth; to give birth to; green}}.
+
+{{zh-ref|Schuessler (2007)}} proposes that {{cog|sit-pro||*sriŋ}} is derived from the root {{m|sit-pro|*sri||to exist}} (whence possibly Chinese {{och-l|體|body; shape; form}}) + {{m|sit-pro|*-ŋ||''terminative suffix''}}.
+
+Both level tone and falling tone readings are found in Middle Chinese, but the latter has since been lost and is merged into the level-tone reading in modern dialects.
+
+Related to {{och-l|青|blue-green}}, {{och-l|蒼|dark blue; deep green}}.
+
+Derivatives: {{och-l|性|nature; character; personality; quality}}, {{och-l|姓|family name}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shēng
+|m-s=sen1/sen4
+|c=saang1,sang1
+|c_note=saang1 - vernacular; sang1 - literary
+|h=pfs=sâng/sên
+|h_note=sâng - vernacular; sên - literary
+|md=săng/sĕng
+|mn=qz:sng/tw,xm,zz:seng/qz,tp,xm:siⁿ/kh,zz:seⁿ/qz,tp,xm:chhiⁿ/kh,zz:chheⁿ
+|mn_note=sng/seng - literary; siⁿ/seⁿ/chhiⁿ/chheⁿ - vernacular
+|w=1san,1sen
+|w_note=1san - vernacular; 1sen - literary
+|mc=y
+|oc=y
+|ma=y
+|mna=Taiwanese-The_Vowel_enn.ogg
+|cat=v,n,a,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[live]]; to [[subsist]]; to [[exist]]
+# to [[grow]]; to [[develop]]; to [[bud]]
+#* {{zh-x|紅豆 生 南 國。|Red berries '''grow''' in southern lands.}}
+# {{lb|zh|causative}} to [[bear]]; to [[give birth]]; to [[bring up]]; to [[rear]]
+#* {{zh-x|她 妻子 生 了 一 對 雙胞胎 女孩。|His wife '''gave birth''' to twin girls.}}
+#* [http://wordproject.org/multi/bi_en_cn_py.htm John 1.9]
+#* {{zh-x|那 光 是 真 光，照亮 一切 生 在 世上 的 人。|That was the true Light, which lighteth every man that '''cometh''' into the world.}}
+# to [[be born]]; to [[come]] into [[existence]]
+#* {{zh-x|他 生 在 中國。|He '''was born''' in China.}}
+# [[offspring]]; [[descendant]]
+# [[pupil]]; [[disciple]]; [[student]]
+#* {{zh-x|你 作為 全日制 生 必須 定期 上課。|As a full-time student, you should attend classes on a regular basis.}}
+# {{lb|zh|historical}} [[scholar]]; [[Confucian]] scholar
+# {{lb|zh|opera}} [[actor]] or [[male]] [[character]]
+# {{zh-short|先生|[[gentleman]]}}
+# {{lb|zh|Cantonese}} {{zh-short|先生|[[Mr.]]}}
+#* {{zh-x|陳 生|'''Mr.''' Chan|C}}
+# [[life]]; [[existence]]; [[being]]; [[living]]
+# [[fresh]]; not [[stale]]
+# [[raw]]; [[uncooked]]
+#* {{zh-x|生 洋蔥|'''raw''' onions}}
+#* {{zh-x|我 覺{gok3}得 呢{ni1} 塊 肉 仲係 太 生。|I think this piece of meat is too raw.|C}}
+# [[uncultured]]; [[uncultivated]]
+# [[strange]]; [[unfamiliar]]
+# [[mechanically]]; [[forcedly]]
+# {{†}} [[very]]; [[quite]]; [[extremely]]
+# [[vivid]]; [[strong]]; [[forceful]]
+# [[innate]]; [[natural]]; [[born]] with
+# {{†}} {{zh-original|性|[[intelligence]]; [[natural]] [[endowment]]}}
+# [[living]] [[thing]]s; [[organism]]
+# [[livelihood]]; [[subsistence]]
+# [[lifetime]]; all one's [[life]]
+# [[birthday]]; [[anniversary]]
+# to [[bring]] back to [[life]]; to [[revive]]; to [[rescue]]
+# to [[generate]]; to [[breed]]; to [[create]]
+# to [[manufacture]]; to [[produce]]
+# to [[happen]]; to [[occur]]; to [[take place]]
+# {{lb|zh|Buddhism}} to [[go]] into [[society]]; to be [[reincarnate]]d
+# {{lb|zh|dialectal}} to [[set up]]; to [[put in]]; to [[settle]]
+# to [[light]]; to [[ignite]] (a fire)
+#* {{zh-x|母親 沒 有 生 爐子{zi}。|Mother did not light the stove.}}
+
+====Compounds====
+{{zh-der|生變:to occur unexpectedly|生病:ill, sick|生產:production|生詞:a new word that one is not familiar with|生地:root of the ''[[Rehmannia glutinosa]]'' (Chinese herb)|生活:life, existence, livelihood, lifestyle|生理:physiology|生靈:the people, the citizenry|生命:life, existence|生氣:angry, upset|生人:a stranger|生日:birthday|生疏:out of practice, rusty, not familiar|生死:life and death, to live and die|生態:ecology|生物:living being, organism|生意:business, trade|生化:biochemistry|衛生:hygienic, hygiene, sanitation, health|先生:mister, sir, husband|生搬硬套|生動|生發|生根|生活問題|生火|生機|生計|生絲|生效|生長|生殖|生字|一生|三生|丟生|乍生|互生|人生|今生|他生|伐生|你生|佾生|來生|侍生|保生|偏生|做生|偷生|傍生|催生|傷生|像生|僑生|儒生|共生|再生|出生|前生|勉生|勞生|化生|半生|卵生|厚生|友生|受生|叢生|合生|同生|含生|喪生|四生|回生|增生|外生|多生|天生|夾生|女生|好生|孤生|孳生|學生|孿生|安生|官生|家生|宿生|寄生|寤生|寫生|射生|對生|小生|尾生|師生|平生|幸生|庠生|廕生|廩生|往生|後生|復生|怎生|怕生|怪生|怯生|慶生|懷生|所生|打生|托生|投生|招生|挺生|捉生|捐生|捕生|接生|攝生|收生|放生|救生|新生|旁生|旅生|族生|晚生|更生|書生|有生|本生|橫生|次生|欺生|此生|武生|死生|殘生|殺生|民生|永生|求生|治生|洪生|派生|浮生|滋生|濟生|為生|無生|營生|狂生|獨生|生事|生來|生像|生僻|生光|生冷|生分|生利|生前|生厭|生受|生口|生吃|生員|生壙|生天|生存|生客|生小|生就|生布|生平|生年|生徒|生心|生忌|生忿|生怕|生性|生恐|生息|生成|生手|生技|生擒|生放|生料|生是|生書|生朝|生業|生母|生民|生水|生油|生津|生涯|生湊|生漆|生澀|生炭|生煤|生父|生狼|生猛|生獰|生生|生番|生疑|生疼|生皮|生相|生眼|生硬|生祠|生端|生紙|生綃|生肖|生育|生色|生花|生芻|生苗|生茶|生荒|生菌|生菜|生薑|生藥|生蠔|生角|生財|生貨|生趣|生路|生身|生辰|生還|生鈔|生鐵|生隙|生面|生食|生飲|生養|生魂|生鮮|生齒|產生|申生|男生|畜生|畢生|疇生|發生|監生|目生|相生|眷生|眼生|眾生|禮生|種生|窮生|童生|紅生|終生|經生|維生|緣生|群生|老生|考生|耳生|聊生|胎生|脆生|腐生|花生|苟生|萌生|落生|葛生|蒼生|蔓生|衍生|親生|託生|認生|誕生|諸生|謀生|貢生|貪生|超生|輕生|輪生|轉生|逃生|道生|達生|鄙生|醜生|醫生|重生|野生|長生|門生|附生|陌生|降生|陰生|雙生|面生|養生|餘生|驀生|鬚生|鯫生|麴生}}
+
+----
+
+==Japanese==
+{{stroke order|strokes=5|type=jbw}}
+{{stroke order|type=janimate}}
+
+===Kanji===
+{{ja-kanji|grade=1|rs=生00}}
+
+====Readings====
+{{ja-readings
+|goon=[[しょう]] (shō)
+|kanon=[[せい]] (sei)
+|toon=[[さん]] (san) {{non-joyo-reading}}
+|kun=[[いきる]] ([[生きる]], ikiru), [[いかす]] ([[生かす]], ikasu), [[い.ける]] ([[生ける]], ikeru), [[うむ]] ([[生む]], umu), [[うまれる]] ([[生まれる]], [[生れる]], umareru), [[うまれ]] ([[生まれ]], [[生れ]], umare), [[おう]] ([[生う]], ou), [[はえる]] ([[生える]], haeru), [[はやす]] ([[生やす]], hayasu), [[き]] (ki), [[なま]] (nama), [[なる]] ([[生る]], naru), [[なす]] ([[生す]], nasu), [[むす]] ([[生す]], musu)
+|nanori=[[あさ]] (asa), [[い]] (i), [[いき]] (iki), [[いく]] (iku), [[いけ]] (ike), [[うぶ]] (ubu), [[うまい]] (umai), [[え]] (e), [[おい]] (oi), [[ぎゅう]] (gyū), [[くるみ]] (kurumi), [[ごせ]] (gose), [[さ]] (sa), [[じょう]] (jō), [[すぎ]] (sugi), [[そ]] (so), [[そう]] (sō), [[ちる]] (chiru), [[なば]] (naba), [[にう]] (niu), [[にゅう]] (nyū), [[ふ]] (fu), [[み]] (mi), [[もう]] (mō), [[よい]] (yoi), [[りゅう]] (ryū)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|生憎|あいにく}}: unfortunately
+* {{ja-r|生身|いきみ}}
+* {{ja-r|生物|いきもの}}: living being
+* {{ja-r|生花|いけばな}}
+* {{ja-r|学生|がくせい}}: student
+* {{ja-r|桐生|きりゅう}}: (Japanese surname)
+* {{ja-r|生育|せい.いく}}
+* {{ja-r|生花|せいか}}
+* {{ja-r|生家|せいか}}
+* {{ja-r|生活|せいかつ}}
+* {{ja-r|生還|せいかん}}
+* {{ja-r|生気|せいき}}
+{{der-mid3}}
+* {{ja-r|生計|せいけい}}
+* {{ja-r|生後|せいご}}
+* {{ja-r|生彩|せいさい}}
+* {{ja-r|生殺|せいさつ}}
+* {{ja-r|生殺与奪|せいさつ よだつ}}
+* {{ja-r|生死|せいし}}
+* {{ja-r|生殖|せいしょく}}
+* {{ja-r|生新|せいしん}}
+* {{ja-r|生成|せいせい}}
+* {{ja-r|生鮮|せいせん}}
+* {{ja-r|生前|せいぜん}}
+* {{ja-r|生存|せいぞん}}
+{{der-mid3}}
+* {{ja-r|生体|せいたい}}
+* {{ja-r|生態|せいたい}}
+* {{ja-r|生長|せいちょう}}
+* {{ja-r|生徒|せいと}}: student
+* {{ja-r|生物|せいぶつ}}: living being
+* {{ja-r|生命|せいめい}}
+* {{ja-r|生来|せいらい}}
+* {{ja-r|生涯|しょうがい}}
+* {{ja-r|生者|しょうじゃ}}
+* {{ja-r|生者必滅|しょうじゃひつめつ}}
+* {{ja-r|生身|しょうじん}}
+* {{ja-r|生身|なまみ}}
+{{der-bottom}}
+
+===Noun===
+{{ja-kanjitab|なま|yomi=k}}
+{{ja-noun|なま}}
+
+# [[raw]]
+#: {{ja-usex|'''生'''卵|'''なま''' たまご|a '''raw''' egg}}
+#: {{ja-usex|肉を'''生'''のまま食べると、腹を壊すことがある。|にく を '''なま''' の まま たべる と、 はら を こわす こと が ある。|You may have a stomachache if you eat '''raw''' meat.}}
+# [[fresh]], [[draft]]
+#: {{ja-usex|'''生'''クリーム|'''なま''' クリーム|'''fresh''' cream}}
+#: {{ja-usex|'''生'''ビール|'''なま''' ビール|'''draft''' beer}}
+
+===Prefix===
+{{ja-pos|なま|prefix}}
+
+# [[live]]
+# [[raw]], [[uncooked]], [[rare]]
+# [[natural]], [[unprocessed]]
+
+===Suffix===
+{{ja-kanjitab|せい|yomi=o}}
+{{ja-pos|せい|suffix}}
+
+# a [[student]]
+#: {{ja-usex|中学'''生'''、大学'''生'''、受験'''生'''|ちゅうがく'''せい'''、だいがく'''せい'''、じゅけん'''せい'''|middle-school '''student''', university '''student''', test-taking '''student''' → examin'''ee'''}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=생|mr=saeng|y=sayng|eumhun=나다|ehrv=nada|ehmr=nada|ehy=nata}}
+
+Middle Korean ᄉᆡᆼ, IPA pronunciation estimate is Sʌiŋ.
+
+# [[fresh]]
+
+====Compounds====
+* [[生日]] ([[생일]], saeng-il): [[birthday]]
+* [[生麥酒]] ([[생맥주]], saengmaekju): [[draft]]/[[draught]] [[beer]]
+* [[妓生]] ([[기생]], gisaeng): [[kisaeng]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sinh]], [[sanh]], [[siêng]], [[xênh]], [[xinh]]|rs=生00}}
+
+# {{defn|lang=vi|sort=生00}}
+
+====Compounds====
+* {{l|vi|生素|tr=[[sinh tố]]}}
+
+[[Category:CJKV radicals| ]]
+
+[[zh-min-nan:生]]
+[[da:生]]
+[[de:生]]
+[[fr:生]]
+[[ko:生]]
+[[it:生]]
+[[lo:生]]
+[[lt:生]]
+[[li:生]]
+[[hu:生]]
+[[mg:生]]
+[[ms:生]]
+[[ja:生]]
+[[no:生]]
+[[km:生]]
+[[pl:生]]
+[[pt:生]]
+[[ru:生]]
+[[sr:生]]
+[[fi:生]]
+[[sv:生]]
+[[tl:生]]
+[[ta:生]]
+[[th:生]]
+[[chr:生]]
+[[uk:生]]
+[[zh:生]]

@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiékàng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|pharmacology}} to [[antagonise]]
+
+====Derived terms====
+{{zh-der|拮抗劑}}
+
+----
+
+==Japanese==
+{{ja-kanjitab}}
+
+===Noun===
+{{ja-noun|きっこう}}
+
+# [[rivalry]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|きっこう}}
+
+# [[rival]], [[compete]]
+#: {{ja-usex|勢力は'''拮抗'''している。|せいりょく は '''きっこう''' している。|Their powers rival one another.}}
+
+====Conjugation====
+{{ja-suru|きっこう}}
+
+[[mg:拮抗]]
+[[ja:拮抗]]

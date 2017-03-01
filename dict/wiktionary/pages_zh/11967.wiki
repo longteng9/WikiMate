@@ -1,0 +1,118 @@
+{{character info/new}}
+{{also|广|𠂆}}
+==Translingual==
+{{stroke order|type=animate}}
+{{Han etyl}}
+
+====Etymology====
+{{liushu|p}} : Pictograph of a cliff.<ref>''Chinese Characters: A Genealogy and Dictionary'' by Rick Harbaugh (Yale Press) http://zhongwen.com</ref>
+
+====Han character====
+{{Han char|rn=27|rad=厂|as=00|sn=2|four=71200|canj=MH}}
+#{{mul-kangxi radical-def}}
+=====Descendants=====
+* [[ㄏ]]
+
+=====Derived characters=====
+* [[Index:Chinese radical/厂]]
+* [[屵]]
+
+====References====
+# {{Han ref|kx=0160.150|dkj=02890|dj=0366.210|hdz=10067.160|Han ref|uh=5382|ud=21378|bh=C944|bd=51524}}
+<references/>
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|廠}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=hǎn
+|c=hon3,hon2
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# a [[habitable]] [[cave]] on a [[cliff]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=厂0}}
+
+# Kangxi radical 27 "cliff"
+
+====Readings====
+{{ja-readings
+|on=[[かん]] (kan), [[げん]] (gen), [[ごん]] (gon)
+|kun=[[がんだれ]] (gandare), [[いしだれ]] (ishidare)
+}}
+<!--
+====Readings====
+* ショウ・おおや・うまや（廠）, アン・いおり（庵）, がんだれ（厂）
+
+====Usage notes====
+The two traditional characters are quite unrelated, thus the Japanese reading depends on which character is meant.
+The modern simplified character does not occur by itself in Japanese, but it has a reading in order to describe it as part of other characters. As a radical (''bushu'') it is referred to as がんだれ from its use as the outer element in the character for "goose" 雁（ガン・かり）. The shape of 厂 originally meant "cliff" and occurs in Japanese kanji such as 崖（がけ）"cliff" or 岸（きし）"bank (of river)".
+-->
+
+====References====
+* {{R:Koseki Moji|033510}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[엄]], [[한]]|mr=ŏm, han}}
+
+# {{defn|lang=ko|sort=厂00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=厂00}}
+
+====Readings====
+* [[音読|âm]] (''phonetic reading''): [[hán]], [[xưởng]]
+* [[意義|nghĩa]] (''literal meaning''): [[xưởng]]
+
+===Noun===
+{{head|vi|noun|sc=Hant}}{{attention|vi|may need inflection template}}
+
+# [[xưởng]] ([[factory]], [[mill]], [[workshop]])
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5382 Nôm Foundation]
+* [http://www.vietdictionary.com Viet Dictionary]
+
+[[Category:CJKV radicals| ]]
+
+[[fr:厂]]
+[[ko:厂]]
+[[kn:厂]]
+[[li:厂]]
+[[hu:厂]]
+[[mg:厂]]
+[[ms:厂]]
+[[ja:厂]]
+[[no:厂]]
+[[pl:厂]]
+[[ru:厂]]
+[[ta:厂]]
+[[th:厂]]
+[[chr:厂]]
+[[vi:厂]]
+[[zh:厂]]

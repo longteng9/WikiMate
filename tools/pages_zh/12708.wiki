@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|哓}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=12|sn=15|four=64011|canj=RGGU|ids=⿰口堯}}
+
+# [[fear]]
+# [[shout]] [[garrulously]]
+# [[argue]], [[querulous]]
+# [[chatter]]
+
+====References====
+* {{Han ref|kx=0207.130|dkj=04259|dj=0430.110|hdz=10680.080|uh=5635|ud=22069|bh=E4F9|bd=58617}}
+
+----
+
+==Chinese==
+{{zh-forms|s=哓}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|口|堯|c1=s|c2=p|t1=mouth|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xiāo
+|c=hiu1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口12}}
+
+# [[garrulous]]
+# [[disturbed]]
+# [[restless]]
+
+====Readings====
+* {{ja-readings|on=[[きょう]] (kyou)|kun=[[おそれる]] (osoreru)}}
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=효|rv=hyo|mr=hyo}}
+
+# [[fear]]
+# [[argue]], [[dispute]]
+# [[noisy]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nghêu]]|rs=口12}}
+
+# {{defn|lang=vi|sort=口12}}
+
+[[fr:嘵]]
+[[li:嘵]]
+[[hu:嘵]]
+[[pl:嘵]]
+[[th:嘵]]
+[[zh:嘵]]

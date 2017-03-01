@@ -1,0 +1,43 @@
+{{also|动名词}}
+==Chinese==
+{{zh-forms|s=动名词|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=dòngmíngcí
+|c=dung6 ming4 ci4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[verbal noun]]; [[gerund]]
+
+{{zh-cat|Grammar|Parts of speech}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|どう|めい|し|yomi=on}}
+
+===Etymology===
+[[動]] [[verbal]] + [[名詞]] [[noun]]
+
+===Noun===
+{{ja-noun|どうめいし}}
+
+# {{lb|ja|grammar|sort=とうめいし'}} [[gerund]]
+
+===See also===
+* {{ja-r|不定詞|ふていし}}: (''grammar'') [[infinitive]]
+* {{ja-r|現在分詞|げんざいぶんし}}: (''grammar'') [[present participle]]
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Parts of speech|とうめいし']]
+
+[[ko:動名詞]]
+[[it:動名詞]]
+[[ja:動名詞]]

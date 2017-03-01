@@ -1,0 +1,37 @@
+{{also|太阳电池}}
+==Chinese==
+{{zh-forms|s=太阳电池|type=22}}
+
+===Pronunciation===
+{{zh-pron
+|m=tàiyáng diànchí
+|c=taai3 joeng4 din6 ci4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{zh-alt-name|太陽能電池}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|たい|よう|でん|ち|yomi=o}}
+
+===Etymology===
+From {{compound|ja|太陽|電池|tr1=taiyō|tr2=denchi|t1=[[sun]]|t2=[[battery]]}}.
+
+===Noun===
+{{ja-noun|たいよう でんち|hhira=たいやうでんち}}
+
+# [[solar battery]]
+
+====Related terms====
+* {{ja-l|ソーラーパネル}}
+
+[[Category:ja:Technology|たいようでんち]]
+
+[[ko:太陽電池]]
+[[hu:太陽電池]]
+[[zh:太陽電池]]

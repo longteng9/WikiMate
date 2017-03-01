@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|匣}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=108|rad=皿|as=06|sn=11|four=80107|canj=ORBT}}
+
+# small box or case
+# [[casket]]
+
+====References====
+* {{Han ref|kx=0794.070|dkj=22988|dj=1209.050|hdz=42563.030|uh=76D2|ud=30418|bh=B2B0|bd=45744}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hé
+|c=hap6,hap6-2,haap6
+|h=pfs=
+|md=
+|mn=a̍h/a̍p
+|mn-t=ab8
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# (small) [[box]]; [[case]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=皿06}}
+
+# {{defn|lang=ja|sort=皿06}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[ごう]] (gō)|kun=[[ふたもの]] (futamono), [[さら]] (sara)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=합|eumhun=|rv=hap|mr=hap|y=hap}}
+
+# {{defn|lang=ko|sort=皿06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''盒''' ([[hạp]], [[hộp]], [[thạp]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:盒]]
+[[fr:盒]]
+[[ko:盒]]
+[[hu:盒]]
+[[mg:盒]]
+[[ja:盒]]
+[[no:盒]]
+[[pl:盒]]
+[[th:盒]]
+[[zh:盒]]

@@ -1,0 +1,115 @@
+{{character info/new}}
+{{also|嬭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=02|sn=5|four=47427|canj=VNHS|ids=⿰女乃}}
+
+====References====
+* {{Han ref|kx=0255.021|dkj=06043|dj=0518.030|hdz=21024.060|uh=5976|ud=22902|bh=A5A4|bd=42404}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=嬭}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|乃|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+{{unk.|lang=zh}}.
+
+The old form was {{zh-l|嬭}}. Similar words in the area include {{cog|hmx-pro|*niaʔ²ᴰ||mother}}, {{cog|bo|ཨ་ནེ}}, {{m|bo|ནེ་ནེ||paternal aunt}}, {{cog|km|ញី||female}}. It may be comparable with {{cog|sit-pro|*s-nja-n||breast; milk; suck}}, whence {{cog|ii|ꑍ|tr=nyip||liquid milk}}, {{m|ii|ꀉꆂ|tr=ax nie||breast; milk}}.
+
+It is unknown how the Min forms relate to forms in other dialects. See [http://twblg.dict.edu.tw/holodict_new/iongji/pdf/annesia370pdf.pdf this article] for a discussion of the Min Nan etymon. For similar nasalisations in Min, compare {{zh-l|耳}}.
+
+Colloquial words in different Min dialects show considerable variation – most have an ''n''- initial, but finals and tones differ greatly (although the tone is never a rising tone). Some propose that this is substrate influence, passed on from the maternal Baiyue lineages since the intermarriages between southward-migrating Han Chinese and native non-Han women. Other southern dialects also show remnants of this native word: Hakka [Meixian] ''nɛn<sup>5</sup>'', Cantonese [Guangzhou] ''nin<sup>1</sup>'' ({{zh-l|*姩}} or {{zh-l|*𢆡}}). Compare {{cog|th|นม||breast; breastmilk}}, {{cog|za|noemz||breast; breastmilk}}.
+
+The long-recognised Sino-Tibetan etymon in Chinese is {{och-l|乳}}; see there for more.
+
+===Pronunciation===
+{{zh-pron
+|m=nǎi
+|ma=Zh-nai.ogg
+|c=naai5,naai4,naai1
+|h=pfs=
+|md=nĕng/nèng/nāi/nā̤
+|md_note=nĕng - colloquial ("breast"); nèng - colloquial ("breastmilk"); nāi/nā̤ - literary
+|mn=yl,kh,tc:leng/tp,tn,mg:ni/lk,sx,km,hc:lin/ne/nai
+|mn_note=ne - used in children's speech to refer to breast or breastmilk; nai - to behave like a spoiled brat
+|mn-t=ni6
+|w=3na
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[woman]]'s [[breast]]s
+# [[milk]]; [[breastmilk]]
+# to [[nurse]]
+# to [[breastfeed]]; to [[suckle]]
+# [[infant]]; [[infantile]]
+# [[mother]]
+# [[grandmother]]
+
+====Synonyms====
+* {{zh-l|乳|breast; breastmilk}}
+
+===Compounds===
+{{zh-der|師奶|二奶|牛奶|奶奶|奶頭|酸奶|奶牛|奶罩|吃奶|產奶|奶茶|奶白|奶爸|奶粉|羊奶|豆奶|奶酪|奶酒|奶水|奶油|催奶|奶公|奶名|奶品|奶嘴|奶娘|奶媽|奶嬤嬤|奶子|奶子酒|奶捲|奶昔|奶毛|奶牙|奶瓶|奶皮|奶積|奶精|奶膀子|奶餅|姑奶奶|姨奶|姨奶奶|小奶奶|少奶奶|摘奶|斷奶|漾奶|牛奶糖|老奶奶|舅奶奶|花奶奶|親奶奶|酸牛奶|鮮奶|鮮奶油|全脂奶粉|嬰兒奶粉|脫脂奶粉|飼料奶粉}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女02}}
+
+# {{defn|lang=ja|sort=女02}}
+
+====Readings====
+* {{ja-readings|on=[[だい]] (dai), [[ね]] (ne), [[ない]] (nai)|kun=[[ちち]] (chichi), [[はぐくむ]] (hagukumu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=내|rv=nae|mr=nae}}
+
+# {{defn|lang=ko|sort=女02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nãi]], [[nái]]|rs=女02}}
+
+# {{defn|lang=vi|sort=女02}}
+
+[[ast:奶]]
+[[zh-min-nan:奶]]
+[[da:奶]]
+[[fr:奶]]
+[[ko:奶]]
+[[id:奶]]
+[[lo:奶]]
+[[lt:奶]]
+[[li:奶]]
+[[hu:奶]]
+[[mg:奶]]
+[[ms:奶]]
+[[ja:奶]]
+[[no:奶]]
+[[uz:奶]]
+[[pl:奶]]
+[[pt:奶]]
+[[ru:奶]]
+[[th:奶]]
+[[chr:奶]]
+[[zh:奶]]

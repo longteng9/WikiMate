@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=13|sn=17|four=97834|canj=FHBK|ids=⿰火奧}}
+
+# [[warm]]
+# [[warmth]]
+
+====References====
+* {{Han ref|kx=0684.180|dkj=19458|dj=1097.010|hdz=32235.010|uh=71E0|ud=29152|bh=C0EE|bd=49390}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yù,ào
+|c=juk1,ou2,jau1,ou3
+|w=4ioq
+|mc=y
+|oc=y
+|cat=
+}}
+{{attention|wuu|please check}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|寒燠|燠休|燠寒|燠熱|燠燥|鬱燠}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火13}}
+
+# {{defn|lang=ja|sort=火13}}
+
+====Readings====
+* {{ja-readings|on=[[いく]] iku (''historical'':[[ゐく]] wiku)、[[う]] u、[[おう]] ō (''historical'': [[あう]] au)|kun=[[あたたかい|あたたか-い]] atataka-i}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=욱|eumhun=|rv=uk|mr=uk|y=wuk}}
+
+# {{defn|lang=ko|sort=火13}}
+
+[[fr:燠]]
+[[hu:燠]]
+[[mg:燠]]
+[[ja:燠]]
+[[pl:燠]]
+[[th:燠]]
+[[zh:燠]]

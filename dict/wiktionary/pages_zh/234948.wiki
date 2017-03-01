@@ -1,0 +1,70 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuìxiǎo
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[smallest]]; [[youngest]]; [[least]]; [[minimum]]; [[minimal]]
+
+====Derived terms====
+{{zh-der|最小化}}
+
+====Antonyms====
+* {{zh-l|最大}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|さい|しょう|yomi=on}}
+
+===Etymology===
+{{prefix|最|小|lang=ja|tr1=sai|t1=most|tr2=shō|t2=small|sort=しょう}}
+
+===Pronunciation===
+{{ja-pron|さいしょう|y=o|acc=h|accent_ref=NHK}}
+
+===Noun===
+{{ja-noun|さいしょう}}
+
+# [[minimum]], [[smallest]], [[least]] <ref>{{R:OxfordJapanese}}</ref>
+
+====Alternative forms====
+* {{ja-l|最少}}
+
+====Derived terms====
+{{der-top}}
+Common
+* {{ja-r|最小限|さいしょうげん|gloss=lowest}}
+
+Uncommon
+* {{ja-r|最小化|さいしょう-か|gloss=minimization}}
+* {{ja-r|最小値|さいしょうち|gloss=minimum value}}
+* {{ja-r|採取国家主義|さいしょう こっか しゅぎ|gloss=Minarchism}}
+
+{{der-mid}}
+Computer terms
+* {{ja-r|最小動作|さいしょうどうさ|gloss=minimal simulation}}
+* {{ja-r|最小構成|さいしょう こうせい|gloss=minimum configuration}}
+* {{ja-r|最小有効数字|さいしょう ゆうこう すうじ|gloss=least significant digit}}
+* {{ja-r|最小有効ビット|さいしょう ゆうこう ビット|gloss=least significant bit}}
+
+Mathematical terms
+* {{ja-r|最小自乗法|さいしょう じじょう-ほう|gloss=least-squares method}}
+* {{ja-r|最小公倍数|さいしょうこうばいすう|gloss=least common multiple}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[ko:最小]]
+[[it:最小]]
+[[lo:最小]]
+[[ja:最小]]
+[[chr:最小]]
+[[zh:最小]]

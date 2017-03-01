@@ -1,0 +1,68 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{wasei kango||はっきん|platinum||silver}}
+
+===Pronunciation===
+{{zh-pron
+|m=báijīn
+|c=baak6 gam1
+|mn=pe̍h-kim
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[platinum]] {{gloss|metal}}
+# {{lb|zh|archaic}} [[silver]]
+# {{lb|zh|slang}} [[handcuffs]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|はく|k1=はっ|きん|yomi=o}}
+{{elements|Pt|{{ja-r|イリジウム}}|Ir|{{ja-r|金|きん}}|Au|lang=ja|sort=はっきん}}
+{{wikipedia|lang=ja}}
+
+===Etymology===
+{{calque|ja|白|tr1=haku|t1=[[white]]|金|tr2=kin|t2=[[gold]]|etyl lang=nl|etyl term=wit goud|etyl tr=[[white gold]]; [[platinum]]|sort=はっきん}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=ko|はっきん}}
+
+===Noun===
+{{ja-noun|はっきん|hhira=はくきん}}
+
+# [[platinum]] {{gloss|metal}}
+
+====Synonyms====
+* {{ja-r|プラチナ}}
+
+===Descendants===
+* Chinese: {{zh-l|白金}}
+* Korean: {{ko-l|백금}}
+* Vietnamese: {{vi-l|bạch kim}}
+
+===See also===
+* {{ja-r|ホワイト ゴールド}}
+
+[[Category:ja:Metals|はっきん]]
+
+[[zh-min-nan:白金]]
+[[be:白金]]
+[[cs:白金]]
+[[fr:白金]]
+[[ko:白金]]
+[[la:白金]]
+[[lt:白金]]
+[[hu:白金]]
+[[mg:白金]]
+[[nl:白金]]
+[[ja:白金]]
+[[pl:白金]]
+[[ro:白金]]
+[[ru:白金]]
+[[sv:白金]]
+[[zh:白金]]

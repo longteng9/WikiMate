@@ -1,0 +1,26 @@
+==Chinese==
+{{zh-forms|gloss=-}}
+
+===Etymology===
+* [[transliteration|Transliteration]] of {{etyl|de|zh}} {{m|de|Karst}} or {{etyl|en|zh}} {{m|en|karst}}, from {{etyl|sl|en}} {{m|sl|Kras}}.
+
+===Pronunciation===
+{{zh-pron
+|m=kāsītè
+|c=kaa1 si1 dak6
+|cat=n,pn
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|geography}} [[karst]]
+
+===Proper noun===
+{{zh-proper noun}}
+
+# the [[Karst]]
+
+{{zh-cat|Geography}}
+
+[[zh:喀斯特]]

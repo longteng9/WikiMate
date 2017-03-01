@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|鲳}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=08|sn=19|four=26360|canj=NFAA}}
+
+# the [[silvery pomfret]], [[Stromateoides argenteus]]
+
+====References====
+* {{Han ref|kx=1473.100|dkj=46255|dj=2005.070|hdz=74696.030|uh=9BE7|ud=39911|bh=C449|bd=50249}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鲳}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chāng
+|c=coeng1
+|mn=chhiuⁿ
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|白鯧魚|鯧魚}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚08}}
+
+# {{defn|lang=ja|sort=魚08}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[まながつお]] (managatsuo)}}
+
+===Noun===
+{{ja-kanjitab|まながつお|yomi=k|r=y}}
+{{ja-noun|まながつお|マナガツオ|hhira=まながつを}}
+
+# {{altspell|lang=ja|真魚鰹}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=창|eumhun=|rv=chang|mr=ch'ang|y=chang}}
+
+# {{defn|lang=ko|sort=魚08}}
+
+[[fr:鯧]]
+[[ko:鯧]]
+[[hu:鯧]]
+[[ja:鯧]]
+[[pl:鯧]]
+[[th:鯧]]
+[[zh:鯧]]

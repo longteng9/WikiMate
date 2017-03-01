@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=10|sn=16|four=57180|canj=LIBAC|ids=⿰虫冥}}
+
+# kind of [[caterpillar]], [[larva]]
+
+====References====
+* {{Han ref|kx=1093.410|dkj=33429|dj=1558.290|hdz=42881.130|uh=879F|ud=34719|bh=BFC1|bd=49089}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=míng
+|c=ming4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|三化螟蟲|二化螟|玉米螟|螟害|螟蛉|螟蛉子|螟蛾|螟螣|螟蟲|蟭螟}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫10}}
+
+# {{defn|lang=ja|sort=虫10}}
+
+====Readings====
+* {{ja-readings|kanon=[[めい]] (mei)|goon=[[みょう]] (myō)|on=[[べい]] (bei)|kun=[[ずいむし]] (zuimushi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=명|eumhun=|rv=myeong|mr=myŏng|y=myeng}}
+
+# {{defn|lang=ko|sort=虫10}}
+
+[[fr:螟]]
+[[ko:螟]]
+[[hu:螟]]
+[[mg:螟]]
+[[ja:螟]]
+[[pl:螟]]
+[[th:螟]]
+[[vi:螟]]
+[[zh:螟]]

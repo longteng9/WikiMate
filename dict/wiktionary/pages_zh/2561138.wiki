@@ -1,0 +1,36 @@
+{{also|博學}}
+==Chinese==
+{{zh-see|博學}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|はく|がく|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=はくがく}} compound {{m|zh|博學|tr=puak ɣɔk̚|lit=broad + study}}.  Compare modern {{etyl|nan|-}} reading ''phok-ha̍k'', {{etyl|yue|-}} ''bok<sup>3</sup> hok<sup>6</sup>''.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|はくがく|acc=0|acc_ref=NHK,DJR}}
+
+===Adjective===
+{{ja-adj|infl=na|はくがく|kyu=博學}}
+
+# [[erudite]]
+
+====Inflection====
+{{ja-na|はくがく}}
+
+===Noun===
+{{ja-noun|はくがく|kyu=博學}}
+
+# [[erudition]]
+
+===References===
+<references/>
+
+[[ko:博学]]
+[[lt:博学]]
+[[mg:博学]]
+[[chr:博学]]
+[[zh:博学]]

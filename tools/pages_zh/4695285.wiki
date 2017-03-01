@@ -1,0 +1,57 @@
+{{also|开头}}
+==Chinese==
+{{zh-forms|s=开头}}
+
+===Pronunciation===
+{{zh-pron
+|m=kāitóu,er=y
+|c=hoi1 tau4
+|h=pfs=khôi-thèu
+|mn=khui-thâu
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[start]]; to [[begin]]
+#: {{zh-x|以 it 開頭 的 句子{zi}|sentence '''beginning''' with "it"}}
+
+===Noun===
+{{zh-noun}}
+
+# [[start]]; [[beginning]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|かい|とう}}
+
+===Etymology===
+Coined in Japan of {{etyl|ltc|-}}-derived elements as a compound of {{compound|lang=ja|sort=かいとう|開|tr1=kai|t1=open|頭|tr2=tō|t2=head}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|かいとう|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|かいとう}}
+
+# {{lb|ja|sort=かいとう|medicine}} [[craniotomy]]: the opening of the [[skull]] for [[surgery]]
+
+===Verb===
+{{ja-verb-suru|かいとう}}
+
+# {{lb|ja|sort=かいとう|medicine}} to [[craniotomize]], to [[perform]] a [[craniotomy]]: to open the [[skull]] for [[surgery]]
+
+====Conjugation====
+{{ja-suru|かいとう}}
+
+===References===
+<references/>
+:* {{R:Daijisen}}
+
+[[ko:開頭]]
+[[hu:開頭]]
+[[ja:開頭]]

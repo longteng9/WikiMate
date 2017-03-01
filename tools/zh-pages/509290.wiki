@@ -1,9 +1,0 @@
-==Japanese==
-{{ja-kanjitab|さん|かく|ぎょう|れつ|yomi=on}}
-
-===Noun===
-{{ja-noun|さんかく ぎょうれつ}}
-
-# {{lb|ja|linear algebra}} [[triangular matrix]]
-
-[[Category:ja:Linear algebra|さんかくぎょうれつ]]

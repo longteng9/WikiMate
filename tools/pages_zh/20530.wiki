@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=08|sn=11|four=40248|canj=KHYOJ|ids=⿰犭卒}}
+
+====References====
+* {{Han ref|kx=0714.020|dkj=20500|dj=1126.010|hdz=21354.100|uh=731D|ud=29469|bh=D660|bd=54880}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{l|zh|卒}}
+
+===Pronunciation===
+{{zh-pron
+|m=cù
+|c=cyut3
+|mc=y
+|oc=y
+|ma=
+|cat=adv,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[abruptly]], [[suddenly]]
+# [[abrupt]]
+#: {{zh-x|猝死|sudden death}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=犬08}}
+
+# {{defn|lang=ja|sort=犬08}}
+
+====Readings====
+* {{ja-readings|on=[[そつ]] (sotsu)|kun=[[にわか]] (niwaka)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=졸|eumhun=|rv=jol|mr=chol|y=col}}
+
+# {{defn|lang=ko|sort=犬08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=犬08|hanviet=[[vuốt]], [[tót]], [[thốt]], [[thút]]}}
+
+# {{defn|lang=vi|sort=犬08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=731d Nom Foundation]
+
+[[fr:猝]]
+[[hu:猝]]
+[[mg:猝]]
+[[ja:猝]]
+[[pl:猝]]
+[[th:猝]]
+[[vi:猝]]
+[[zh:猝]]

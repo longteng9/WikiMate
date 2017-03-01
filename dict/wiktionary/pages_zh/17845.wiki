@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|枏}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=09|sn=13|four=44927|canj=DJBJ|ids=⿰木南}}
+
+====References====
+* {{Han ref|kx=0540.110|dkj=15152|dj=0927.180|hdz=21244.030|uh=6960|ud=26976|bh=B7A3|bd=47011}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=nán
+|c=naam4
+|mc=y
+|oc=y
+|ma=
+|cat=pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[name]] of a [[tree]] — {{taxlink|Machilus nanmu|species|noshow=1|ver=161203}} (syn. {{taxlink|Persea nanmu|species|noshow=1|ver=161203}})
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木09}}
+
+# {{vern|camphor tree}}
+
+====Readings====
+* {{ja-readings|goon=[[なん]] (nan)|kanon=[[だん]] (dan)|kun=[[くすのき]] (kusunoki)}}
+
+===Noun===
+{{ja-noun|くすのき|クスノキ}}
+
+# {{vern|camphor tree}} ({{taxlink|Cinnamomum camphora|species|noshow=1|ver=161203}})
+
+====Alternative spellings====
+* {{l|ja|樟}}
+
+===Proper noun===
+{{ja-pos|くす|proper}}
+
+# {{surname|lang=ja|sort=くす}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=남|eumhun=|rv=nam|mr=nam|y=nam}}
+
+# {{defn|lang=ko|sort=木09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nêm]], [[nam]]|rs=木09}}
+
+# {{defn|lang=vi|sort=木09}}
+
+[[fr:楠]]
+[[hu:楠]]
+[[mg:楠]]
+[[ja:楠]]
+[[pl:楠]]
+[[th:楠]]
+[[zh:楠]]

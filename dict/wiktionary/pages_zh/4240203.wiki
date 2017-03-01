@@ -1,0 +1,24 @@
+==Japanese==
+
+===Etymology===
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|せ|かい|かん|yomi=o}}
+Calque of {{etyl|de|ja|sort=せかいかん}} {{m|de|Weltanschauung}}
+
+===Pronunciation===
+{{ja-pron|せかいかん|acc=2|acc_ref=DJR,NHK,SMK5|y=o}}
+
+===Noun===
+{{ja-noun|せかいかん|kyu=世界觀|hhira=せかいくわん}}
+
+# [[worldview]]
+#* {{RQ:Obama enzetsu}}
+#*: {{ja-usex|たとえ我々の'''世界観'''にそぐわないと言われようとも、こうした開かれた演説は重要である。|たとえ われわれ の '''せかいかん''' に そぐわない と いわれ よう と も、 こうした ひらかれた えんぜつ は じゅうよう で ある。|Such open discourse is important even if what is said does not square with our worldview.}}
+
+===Descendants===
+* Chinese: {{zh-l|世界觀}}
+* Korean: {{ko-l|세계관}}
+* Vietnamese: {{vi-l|thế giới quan}}
+
+===References===
+<references/>

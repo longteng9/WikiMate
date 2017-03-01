@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=lì息
+|c=lei6 sik1
+|mn=lī-sek/lāi-sek/zz,twv:lī-sit/zz:lāi-sit
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|finance}} [[interest]] {{gloss|on mortgages or savings}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|り|そく|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|りそく|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|りそく}}
+
+# {{lb|sort=りそく|ja|finance}} [[interest]]
+#* '''1931''', 岡本綺堂, 青蛙神:
+#*: {{ja-usex|'''利息'''などを取ろうとするから、却って大きい損をするのだ。|'''りそく''' など を とろう と する から、 かえって おおき.い そん を する の だ。|Once you take interest and so on into account, you actually end up losing a lot.}}
+
+====Synonyms====
+* {{ja-r|利子|りし}}
+
+===References===
+<references/>
+
+[[zh-min-nan:利息]]
+[[ko:利息]]
+[[hu:利息]]
+[[mg:利息]]
+[[ja:利息]]
+[[tl:利息]]
+[[chr:利息]]
+[[zh:利息]]

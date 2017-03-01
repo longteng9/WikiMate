@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=míngwáng
+|c=ming4 wong4
+|mn=bêng-ông
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary|honorific}} [[enlightened]] [[sage]] {{gloss|referring to the monarch}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Wisdom King}}
+[[File:Hattasan_Fudōmyōō.JPG|thumb|250px|{{lang|ja|明王}} (''myōō''): a statue of a '''Wisdom King''', specifically '''Fudō Myōō'''.]]
+</div>
+{{ja-kanjitab|みょう|おう|yomi=on}}
+
+===Etymology===
+{{ja-etym-buddhist}}
+
+From {{etyl|ltc|ja|sort=みょうおう}} {{m|ltc|明王|tr=*miæng *hiuɑng|lit=wisdom king}}, itself a translation of {{etyl|sa|ja|sort=みょうおう}} {{m|sa|विद्याराज|tr=vidyārāja||knowledge king}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=goon|acc=3|acc_ref=DJR|みょうおう}}
+
+===Noun===
+{{ja-noun|みょうおう}}
+
+# {{lb|ja|sort=みょうおう|religion|Buddhism}} a Wisdom King in [[w:Vajrayana|Vajrayana Buddhism]]
+#: Also called a ''Guardian King''.
+# {{lb|ja|sort=みょうおう|religion|Buddhism}} short for {{ja-l|五大明王||Go Dai Myōō}}, the Five Wisdom Kings
+# {{lb|ja|sort=みょうおう|religion|Buddhism}} by extension, more specifically refers to {{ja-l|不動明王||Fudō Myōō}}, the central figure of the Five Wisdom Kings
+# {{lb|ja|sort=みょうおう|rare}} a [[wise]] [[gentleman]]
+
+====Derived terms====
+* {{ja-l|五大明王|ごだいみょうおう|Go Dai Myōō}}: the Five Wisdom Kings
+
+===References===
+<references/>
+
+[[ko:明王]]
+[[ja:明王]]
+[[zh:明王]]

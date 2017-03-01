@@ -1,0 +1,92 @@
+{{character info/new}}
+{{also|仃|佇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=09|sn=11|four=20221|canj=OYRN|ids=⿰亻亭}}
+
+====References====
+* {{Han ref|kx=0110.320|dkj=00864|dj=0236.160|hdz=10194.070|uh=505C|ud=20572|bh=B0B1|bd=45233}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tíng
+|ma=y
+|c=ting4
+|h=pfs=thìn
+|mn=thêng
+|w=3din
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[stop]], to [[halt]]
+# to [[park]] (a car)
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=人09}}
+
+# {{defn|lang=ja|sort=人09}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei), [[ちょう]] (chō), [[じょう]] (jō)|kun=[[とめる]] (tomeru), [[とまる]] (tomaru), [[とどまる]] (todomaru)}}
+
+====Compounds====
+{{top4}}
+* {{ja-r|各停|かくてい}}
+{{mid4}}
+* {{ja-r|停車|ていしゃ}}
+{{mid4}}
+* {{ja-r|バス停|バスてい}}: [[bus stop]]
+{{mid4}}
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=정|mr=chŏng}}
+
+# {{defn|lang=ko|sort=人09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đình]], [[dành]], [[đành]], [[đừng]], [[dừng]], [[rành]]|rs=人09}}
+
+# {{defn|lang=vi|sort=人09}}
+
+[[zh-min-nan:停]]
+[[fr:停]]
+[[ko:停]]
+[[hu:停]]
+[[mg:停]]
+[[ja:停]]
+[[no:停]]
+[[pl:停]]
+[[ta:停]]
+[[th:停]]
+[[chr:停]]
+[[uk:停]]
+[[zh:停]]

@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=07|sn=11|four=63027|canj=AIJB|ids=⿰日甫}}
+
+# [[late]] [[afternoon]]
+
+====References====
+* {{Han ref|kx=0496.020|dkj=13952|dj=0862.070|hdz=21511.040|uh=6661|ud=26209|bh=D5AA|bd=54698}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bū
+|c=bou1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日07}}
+
+# late afternoon
+
+====Readings====
+* {{ja-readings|on=[[ほ]] (ho), [[ふ]] (fu)|kun=[[ゆうがた]] (yuugata)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=포|eumhun=|rv=po|mr=p'o|y=pho}}
+
+# p.m. 3-5
+# [[dusk]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=日07|hanviet=bô}}
+
+# {{defn|lang=vi|sort=日07}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6661 Nom Foundation]
+
+[[zh-min-nan:晡]]
+[[fr:晡]]
+[[hu:晡]]
+[[mg:晡]]
+[[pl:晡]]
+[[th:晡]]
+[[zh:晡]]

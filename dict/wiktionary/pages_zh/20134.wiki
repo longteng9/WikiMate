@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|煕|熈|焈|凞}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=10|sn=14|four=77331|canj=SUF,XSUF|ids=⿱巸灬}}
+
+# [[bright]], [[splendid]], [[glorious]]
+
+====References====
+* {{Han ref|kx=0678.161|hdz=32226.060|uh=7199|ud=29081|bh=BAB3|bd=47795}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=焈,熈,煕}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|巸|火|c1=p|c2=s|t2=fire|ls=psc|alt2=灬}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=xī
+|c=hei1
+|mn=hi
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=yí
+|c=
+|mc=
+|oc=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{surname|lang=zh}} {{attention|zh|some websites claim this belongs to 煕}}
+
+===Compounds===
+{{zh-der|光熙|劉熙|太熙|孔祥熙|康熙|康熙字典|徐熙|民熙物阜|淳熙|淳熙閣帖|熙來攘往|熙寧|熙怡|熙攘|熙春|熙朝|熙洽|熙熙|熙熙壤壤|熙熙攘攘|熙熙融融|物阜民熙|王熙鳳|緝熙|郭熙|重熙|重熙累洽|雍熙}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火10}}
+
+# [[shine]]
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[ひかり]] (hikari), [[ひかる]] (hikaru)}}
+
+====Compounds====
+* [[熙熙]]
+* [[熙笑]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=희|eumhun=|rv=hui|mr=hŭi|y=huy}}
+
+# {{defn|lang=ko|sort=火10}}
+
+[[fr:熙]]
+[[hu:熙]]
+[[mg:熙]]
+[[ja:熙]]
+[[no:熙]]
+[[pl:熙]]
+[[th:熙]]
+[[zh:熙]]

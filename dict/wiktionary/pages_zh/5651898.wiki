@@ -1,0 +1,31 @@
+==Chinese==
+
+===Pronunciation 1===
+{{zh-forms}}
+{{zh-pron
+|md=ĭ-mă
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}} {{tlb|zh|Min Dong}}
+
+# {{lb|zh|informal|face-to-face address term|less common than {{zh-l|依奶}}}} [[mum]]; [[mummy]]
+
+=====Synonyms=====
+{{zh-dial|媽媽}}
+
+===Pronunciation 2===
+{{zh-forms|alt=依嫲}}
+{{zh-pron
+|md=ĭ-mā
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}} {{tlb|zh|Min Dong}}
+
+# [[paternal grandmother]]
+
+=====Synonyms=====
+{{zh-dial|祖母}}

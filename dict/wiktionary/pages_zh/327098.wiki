@@ -1,0 +1,34 @@
+==Japanese==
+{{ja-kanjitab|さい|ご|yomi=on}}
+
+===Noun===
+{{ja-noun|さいご}}
+
+# [[death]]; [[downfall]], [[collapse]]; [[end]] of life; [[last]] moment
+#: {{ja-usex|彼は戦争で悲惨な'''最期'''を遂げた。|かれ は せんそう で ひさん な '''さいご''' を とげた。|He met a terrible '''death''' in the war.}}
+#: {{ja-usex|帝国の'''最期'''|ていこく の '''さいご'''|the '''downfall''' of an empire}}
+# the [[extinction]] of a family
+#: {{ja-usex|平家の'''最期'''|たいら-け の '''さいご'''|the '''extinction''' of the Taira clan}}
+
+===See also===
+* {{ja-r|最後|さいご}}: {{qualifier|generally}} last. Not to be confused with this term.
+* {{ja-r|死亡|しぼう}}
+* {{ja-r|死去|しきょ}}
+* {{ja-r|消滅|しょうめつ}}
+* {{ja-r|滅亡|めつぼう}}
+
+====Antonyms====
+* {{ja-r|誕生|たんじょう}}
+* {{ja-r|成立|せいりつ}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Death|さいこ]]
+
+[[it:最期]]
+[[hu:最期]]
+[[mg:最期]]
+[[ja:最期]]
+[[chr:最期]]
+[[zh:最期]]

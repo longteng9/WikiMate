@@ -1,0 +1,169 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=209|rad=鼻|as=03|sn=17|four=21240|canj=HLMJ}}
+
+====References====
+* {{Han ref|kx=1530.080|dkj=48505|dj=2066.240|hdz=74779.070|uh=9F3E|ud=40766|bh=C24D|bd=49741}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|鼻|干|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=hān
+|c=hon4
+|h=pfs=
+|md=
+|mn=qz,tw,xm,zz:hôaⁿ/tw:hoaⁿ/qz,xm,zz:han/tw:kôⁿ
+|mn_note=hôaⁿ/hoaⁿ/kôⁿ - vernacular; han - literary
+|w=1he
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[snore]] (loudly)
+# [[snore]]; [[snoring]]
+#: {{zh-x|打鼾|to snore}}
+
+===Compounds===
+{{zh-der|打鼾|鼾齁|臥榻鼾睡|鼾齁如雷|鼾鼾|鼾聲雷動|鼾聲如雷|鼾聲|鼾睡|鼻鼾如雷|鼾鼻|噗鼾}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鼻03}}
+
+====Readings====
+{{ja-readings
+|goon=[[かん]] (kan), [[がん]] (gan)
+|kanon=[[かん]] (kan)
+|kun=[[いびき]] (ibiki), [[くつち]] (kutsuchi) {{non-joyo-reading}}
+}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|かん}}
+From {{etyl|ltc|ja|sort=かん}} {{m|zh|鼾||snoring}}.
+
+Only found in compounds. Not used in isolation.
+
+====Pronunciation====
+{{ja-pron|yomi=o|かん}}
+
+====Affix====
+{{ja-pos|affix|かん}}
+
+# [[snoring]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|鼾睡|かんすい}}: to [[sleep]] while [[snoring]]
+* {{ja-r|鼾声|かんせい}}: the [[sound]] of [[snoring]], a [[snoring]] [[voice]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|いびき}}
+Originally a compound of {{compound|lang=ja|sort=いびき|息|tr1=i|t1=breath, breathing|引き|tr2=hiki|t2=pulling, drawing|pos2=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|引く}} ''hiku'' “to pull, to draw”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> {{rendaku2|sort=いびく|hiki|biki}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|いびき|acc=3|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|いびき}}
+
+# [[snoring]], a [[snore]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|空鼾|そらいびき}}: a [[fake]] [[snore]], a snore [[deliberately]] made to make one appear to be [[asleep]]
+* {{ja-r|高鼾|たかいびき}}: a [[loud]] [[snore]]
+{{der-bottom}}
+
+====Verb====
+{{ja-verb-suru|いびき}}
+
+# to [[snore]]
+
+=====Conjugation=====
+{{ja-suru|いびき}}
+
+=====Synonyms=====
+* {{ja-r|鼾く|いびく}} {{qualifier|rare, probably obsolete}}
+
+=====Usage notes=====
+The verb sense “to snore” is more commonly expressed using the verbal phrases {{lang|ja|鼾}}{{m|ja|を}}{{m|ja|掻く|tr=ibiki o kaku|lit=to make a snoring sound}} or {{lang|ja|鼾}}{{m|ja|を}}{{m|ja|立てる|tr=ibiki o tateru|lit=to raise a snore, to put up a snore}}.
+
+===Etymology 3===
+{{ja-kanjitab|yomi=kun|くつち}}
+Apparently the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of obsolete verb {{m|ja|鼾つ|tr=kutsutsu||to sleep while snoring|pos=possibly [[onomatopoeic]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The {{m|en|epilepsy}} sense may have arisen from how one's breathing may be [[spastic]] and vaguely similar to [[snoring]] when suffering an [[epileptic]] [[seizure]].
+
+However, the conjugation of this [[putative]] verb is unknown, and it is only encountered in what would be the [[nominalize]]d {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of ''kutsuchi''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> This leaves open the possibility of alternative origins:
+
+* May be a compound of {{compound|lang=ja|sort=くつち|口|tr1=kutsu|t1=mouth|pos1=the bound form of modern {{m|ja|口|tr=kuchi}}, only found in compounds|風|tr2=chi|t2=wind|pos2=from the way that snoring often happens when breathing through the mouth, or from the way that an [[epileptic]] [[seizure]] may involve [[spastic]] breathing vaguely similar to snoring}}.
+* The {{m|en|epilepsy}} sense may be a compound of {{compound|lang=ja|sort=くつち|口|tr1=kutsu|t1=mouth|pos1=the bound form of modern {{m|ja|口|tr=kuchi}}, only found in compounds|血|tr2=chi|t2=blood|pos2=from the common occurrence of biting one's tongue during an [[epileptic]] [[seizure]]}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kun|くつち}}
+
+====Alternative forms====
+* {{ja-l|癲狂}}, {{ja-l|癲癇}}
+
+====Noun====
+{{ja-noun|くつち}}
+
+# {{lb|ja|sort=くつち|archaic|rare}} [[snoring]]
+# {{lb|ja|sort=くつち|archaic|rare}} [[epilepsy]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|鼾掻|くつちかき}}: a [[person]] who has [[epilepsy]]; {{qualifier|obsolete}} a [[snorer]], a person who [[snore]]s
+* {{ja-r|鼾臥す|くつちふす}}: to [[sleep]] while [[snoring]]
+{{der-bottom}}
+
+=====Synonyms=====
+* {{sense|epilepsy}} {{ja-r|癲癇|てんかん}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=한|eumhun=|mr=han|y=han}}
+
+# {{defn|lang=ko|sort=鼻03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[han]]|rs=鼻03}}
+
+# {{defn|lang=vi|sort=鼻03}}
+
+[[zh-min-nan:鼾]]
+[[fr:鼾]]
+[[hu:鼾]]
+[[mg:鼾]]
+[[ja:鼾]]
+[[pl:鼾]]
+[[th:鼾]]
+[[zh:鼾]]

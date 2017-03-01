@@ -1,0 +1,124 @@
+{{character info/new}}
+{{also|尔|尓}}
+==Translingual==
+
+===Etymology===
+{{liushu|p}} – cloth on a loom, with threads crossing. Used phonetically.
+
+===Han character===
+{{Han char|rn=89|rad=爻|as=10|sn=14|four=10227|canj=MFBK}}
+
+====Descendants====
+* [[尔]]
+
+====References====
+* {{Han ref|kx=0691.040|dkj=19750|dj=1104.030|hdz=10027.010|uh=723E|ud=29246|bh=BAB8|bd=47800}}
+
+----
+
+==Chinese==
+{{zh-forms|s=尔|alt=𠇍,尔,尓,尒}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=ěr
+|c=ji5
+|h=pfs=ngî
+|mn=ní/jíⁿ
+|mn_note=jíⁿ - literary
+|mc=y
+|oc=y
+|ma=
+|cat=pron,part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[you]]
+# [[that]], [[those]]
+# final [[particle]]
+# used in [[transliteration]]
+
+=====Compounds=====
+* {{qualifier|Min Nan}} {{zh-l|爾我|jíⁿ-ngó͘, ní-ngó͘}}, {{zh-l|爾朱|ní-chu}}
+
+===Etymology 2===
+====Pronunciation====
+{{zh-pron
+|mn=nī/niā
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+=====Compounds=====
+* {{qualifier|Min Nan}} {{zh-l|偌爾}}, {{zh-l|遐爾}}, {{zh-l|遐爾仔}}, {{zh-l|爾爾}}, {{zh-l|遮爾}}, {{zh-l|遮爾仔}}
+
+----
+
+==Japanese==
+
+===Noun===
+{{ja-noun|おれ}}
+
+# {{lb|ja|archaic|vulgar|sort=おれ}} [[you]]
+{{ja-noun|なんじ}}
+# {{lb|ja|archaic|sort=なんじ}} [[thou]], [[you]]
+
+===Interjection===
+{{ja-pos|interjection|しか}}
+
+# {{lb|ja|archaic|sort=しか}} like that, as such
+# [[yeah]], [[uh-huh]]
+
+===Kanji===
+{{ja-kanji|grade=|rs=爻10}}
+
+# {{defn|lang=ja|sort=爻10}}
+
+====Readings====
+* {{ja-readings|kanon=[[じ]] (''ji'')|goon=[[に]] (''ni'')|kun=[[おれ]] (''ore''), [[しか]] (''shika''), [[しかり]] (''shikari''), [[その]] (''sono''), [[なんじ]] (''nanji''), [[のみ]] (''nomi'')|nanori=[[あきら]] (''akira''), [[ちか]] (''chika''), [[み]] (''mi''), [[みつる]] (''mitsuru'')}}
+
+====Compounds====
+* {{ja-r|爾来|じらい}}: from that time on
+* {{ja-r|爾後|じご}}: from this time on
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 爾]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=이|eumhun=|rv=i|mr=i|y=i}}
+
+# {{defn|lang=ko|sort=爻10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhãi]], [[nhĩ]]|rs=爻10}}
+
+# {{defn|lang=vi|sort=爻10}}
+
+[[zh-min-nan:爾]]
+[[fr:爾]]
+[[ko:爾]]
+[[hu:爾]]
+[[mg:爾]]
+[[ja:爾]]
+[[pl:爾]]
+[[pt:爾]]
+[[th:爾]]
+[[chr:爾]]
+[[vi:爾]]
+[[zh:爾]]

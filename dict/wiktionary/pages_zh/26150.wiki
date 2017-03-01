@@ -1,0 +1,95 @@
+{{character info/new}}
+{{also|蜗}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=09|sn=15|four=57127|canj=LIBBR|ids=⿰虫咼}}
+
+# [[terrestrial]] [[snail]] (as opposed to an [[aquatic]] snail, [[螺]])
+
+====References====
+* {{Han ref|kx=1091.290|dkj=33338|dj=1557.020|hdz=42862.140|uh=8778|ud=34680|bh=BDBD|bd=48573}}
+
+----
+
+==Chinese==
+{{zh-forms|s=蜗}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|虫|咼|c1=s|c2=p|t1=worm|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=蜗
+|c=waa1,wo1,gwaa1
+|h=pfs=
+|md=
+|mn=o/qz:o͘
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|蝸牛|[[snail]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫09}}
+
+# {{defn|lang=ja|sort=虫09}}
+
+====Readings====
+{{ja-readings|goon=[[け]] (ke)|kanon=[[か]] (ka)|kun=[[かたつむり]] (katatsumuri)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|蝸角|かかく}}
+* {{ja-r|蝸牛|かぎゅう}}: [[snail]]; [[cochlea]]
+* {{ja-r|蝸舎|かしゃ}}
+* {{ja-r|蝸牛|かたつむり}}, {{ja-r|蝸牛|でんでんむし}}: [[snail]]
+* {{ja-r|蝸廬|かろ}}
+* {{ja-r|蝸螺|にな}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=와|eumhun=|rv=wa|mr=wa|y=wa}}
+
+# {{defn|lang=ko|sort=虫09}}
+
+====Compounds====
+* {{ko-l|와우|[[snail]]|蝸牛}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[oa]]|rs=虫09}}
+
+# {{defn|lang=vi|sort=虫09}}
+
+[[el:蝸]]
+[[fr:蝸]]
+[[ko:蝸]]
+[[hu:蝸]]
+[[mg:蝸]]
+[[ja:蝸]]
+[[pl:蝸]]
+[[th:蝸]]
+[[vi:蝸]]
+[[zh:蝸]]

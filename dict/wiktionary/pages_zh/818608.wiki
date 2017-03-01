@@ -1,0 +1,44 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jíxìng
+|c=gap1 sing3
+|mn=kip-sèng
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|medicine}} [[acute]]
+# {{zh-synonym|急性子|[[impatient]]}}
+
+====Antonyms====
+* {{zh-l|亞急性}}
+* {{zh-l|慢性}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きゅう|せい|yomi=on}}
+
+===Noun===
+{{ja-noun|きゅうせい}}
+
+# [[acute]] onset of disease or worsening of symptoms
+
+====Antonyms====
+* {{ja-r|慢性|まんせい|gloss=chronic}}
+
+====Compounds====
+* {{ja-r|急性灰白髄炎|きゅうせいかいはくずいえん|gloss=polio}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:急性]]
+[[mg:急性]]
+[[ja:急性]]
+[[zh:急性]]

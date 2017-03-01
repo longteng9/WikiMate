@@ -1,0 +1,88 @@
+{{also|顺序}}
+==Chinese==
+{{zh-forms|s=顺序}}
+
+===Pronunciation===
+{{zh-pron
+|m=shùnxù
+|c=seon6 zeoi6
+|h=pfs=sun-si
+|mn=xm,tw:sūn-sū/qz:sūn-sǐr/zz,tw:sūn-sī
+|cat=n,adv,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[sequence]]; [[order]]
+
+===Adverb===
+{{zh-adv}}
+
+# in sequence; in order
+
+===Adjective===
+{{zh-adj}}
+
+# [[suitable]]; [[harmonious]]
+# [[safe and sound]]; [[well]]; [[smooth]]
+#: {{zh-x|萬事 攏 操勞，閃避 袂{bōe} 開{khui}，只 求 平安 會 順序。|I am working hard on everything and cannot run away from it. I only wish for peace and things to go '''well'''.|TW}} {{attention|nan|needs work on translation}}
+# [[lucky]]; [[fortunate]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じゅん|じょ|yomi=on}}
+
+===Etymology===
+From {{m|ja|順|sc=Jpan|tr=jun||order}} + {{m|ja|序|sc=Jpan|tr=jo||order}}
+
+===Noun===
+{{ja-noun|じゅんじょ}}
+
+# [[order]], [[sequence]]
+# [[system]], [[procedure]]
+
+====Derived terms====
+{{top2}}
+* [[順序数]] (''junjosū''): ordinal number
+* [[順序性]] (''junjosei''): (''computing'') ordering, alignment
+* [[順序木]] (''junjogi''): (''computing'') ordered tree
+* [[順序回路]] (''junjo kairo''): (''computing'') sequential circuit
+* [[順序制御]] (''junjo seigyo''): (''computing'') sequencing
+* [[順序探索]] (''junjo tansaku''): (''computing'') linear search
+* [[順序通り]] (''junjodōri''): in order
+* [[順序番号]] (''junjo bangō''): (''computing'') sequence-number
+* [[順序不同]] (''junjo fudō''): unordered; random order
+* [[順序列型]] (''junjo-retsugata''): (''computing'') sequence type
+* [[順序付ける]] (''junjozukeru''): (''computing'') to order
+* [[順序立てる]] (''junjotateru''): put into order
+* [[親順序番号]] (''oyajunjo-bangō''): parent-sequence-number
+* [[子順序番号]] (''kojunjo-bangō''): (''computing'') child-sequence-number
+{{mid2}}
+* [[計算順序]] (''keisan junjo''): (''computing'') computation sequence
+* [[照合順序]] (''shōgō junjo''): (''computing'') collating sequence
+* [[実行順序]] (''jikkō junjo''): (''computing'') execution order
+* [[線形順序]] (''senkei junjo''): linear precedence
+* [[大小順序]] (''daishō junjo''): (''computing'') collating sequence
+* [[トラバーサル順序]] (''torabāsaru junjo''): (''computing'') traversal sequence
+* [[時間順序積]] (''jikan-junjoseki''): (''physics'') time ordered product
+* [[パケット順序制御]] (''paketto junjo seigyo''): (''computing'') packet sequencing
+* [[メッセージ順序完全性]] (''messēji junjo kanzensei''): (''computing'') message sequence integrity
+* [[可視化順序]] (''kashika junjo''): (''computing'') imaging order
+* [[単一型順序列型]] (''tan'itsugata-junjo-retsugata''): (''computing'') sequence-of type
+* [[反射的半順序]] (''hanshateki-hanjunjo''): reflexive partial ordering
+* [[固有の大小順序]] (''koyū no daishō junjo''): (''computing'') native collating sequence
+* [[文字の大小順序]] (''moji no daishō junjo''): (''computing'') collating sequence
+{{bottom}}
+
+[[zh-min-nan:順序]]
+[[ko:順序]]
+[[hu:順序]]
+[[mg:順序]]
+[[ja:順序]]
+[[tl:順序]]
+[[chr:順序]]
+[[zh:順序]]

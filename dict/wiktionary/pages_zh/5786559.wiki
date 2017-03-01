@@ -1,0 +1,31 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|にん|しき|ひょう|yomi=o}}
+
+===Etymology===
+Compound of {{affix|sort=にんしきひょう|ja|認識|tr1=ninshiki|t1=recognition|票|tr2=hyō|t2=ticket}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|にんしきひょう|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|にんしきひょう|hhira=にんしきへう}}
+
+# [[dog tag]]
+
+===References===
+<references/>
+
+[[Category:ja:Military|にんしきひょう]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=인식표}}
+
+# {{hanja form of|인식표|[[dog tag]]}}
+
+[[ko:認識票]]

@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=11|sn=15|four=71331|canj=SRP|ids=⿱匿心}}
+
+# do [[evil]] in [[secret]]
+# [[evil]], [[vice]]
+
+====References====
+* {{Han ref|kx=0399.030|dkj=11100|dj=0738.090|hdz=42333.010|uh=615D|ud=24925|bh=BC7C|bd=48252}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tè
+|c=tik1,nik1
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|姦慝|引慝|奸慝|淑慝殊途|淫心慝行|隱慝|讒慝|苛慝}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心11}}
+
+# {{defn|lang=ja|sort=心11}}
+
+====Readings====
+* {{ja-readings|on=[[とく]] (toku)|kun=[[わるい]] (warui)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=특|eumhun=|rv=teuk|mr=t'ŭk|y=thuk}}
+
+# {{defn|lang=ko|sort=心11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心11|hanviet=[[nấc]], [[nức]], [[thắc]]}}
+
+# {{defn|lang=vi|sort=心11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=615d Nom Foundation]
+
+[[fr:慝]]
+[[li:慝]]
+[[hu:慝]]
+[[mg:慝]]
+[[ja:慝]]
+[[pl:慝]]
+[[th:慝]]
+[[zh:慝]]

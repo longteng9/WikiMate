@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=zìránrén
+|mn=chū-jiân-jîn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|legal}} [[natural person]]
+# [[wild]] person; [[primitive]] [[man]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|ぜん|じん|yomi=on}}
+
+===Etymology===
+From {{compound|lang=ja|自然|tr1=shizen|t1=nature|人|tr2=jin|t2=person}}
+
+===Noun===
+{{ja-noun|しぜんじん}}
+
+# {{lb|ja|law}} [[natural person]]
+# [[wild]] [[person]]
+
+====Antonyms====
+* {{ja-r|法人|ほうじん|gloss=[[legal person]]}}
+
+[[ko:自然人]]
+[[mg:自然人]]
+[[ja:自然人]]
+[[zh:自然人]]

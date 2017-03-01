@@ -1,0 +1,28 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhèndù
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|seismology}} [[seismic]] [[intensity]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|ど|yomi=on}}
+
+===Noun===
+{{ja-noun|しんど}}
+# [[seismic]] [[intensity]]
+#: {{ja-usex|震度5強を観測した。|しんど 5 きょう を かんそく した。|It measured an earthquake with a seismic intensity of a little over five.}}
+
+[[ko:震度]]
+[[hu:震度]]
+[[ja:震度]]
+[[zh:震度]]

@@ -1,0 +1,104 @@
+{{character info/new}}
+{{also|户|戸|尸}}
+==Translingual==
+{{stroke order|type=animate}}
+{{Han simplified forms|戶|戸|户}}
+
+===Alternative forms===
+* {{l|mul|户}} – note the different stroke order: [[户]] has 丿 as last (fourth) stroke, while 戶 (this page) has 丿 as second stroke
+* {{l|mul|戸}}
+Also beware to distinguish different forms of this character – {{lang|ja|戶}} (top stroke connects to left stroke) vs. {{lang|und|sc=Hani|戶}} (top stroke does not connect).
+
+===Han character===
+{{Han char|rn=63|rad=戶|as=00|sn=4|four=30277|canj=HS|ids=⿱丿尸}}
+
+# {{mul-kangxi radical-def}}
+
+====Derived terms====
+* {{l|mul|Index:Chinese radical/戶}}
+
+====References====
+* {{Han ref|kx=0414.320|dkj=11696|dj=0759.030|hdz=32257.010|uh=6236|ud=25142|bh=A4E1|bd=42209}}
+
+[[Category:CJKV radicals| ]]
+
+----
+
+==Chinese==
+{{zh-forms|s=户|alt=户,戸}}
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|p}}: half of {{zh-l|*門|door}}.
+
+===Pronunciation===
+{{zh-pron
+|m=hù
+|c=wu6
+|h=pfs=fù
+|md=hô̤
+|mn=hō͘
+|w=3hhu
+|mc=y
+|oc=y
+|cat=n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[door]]
+# [[family]]; [[household]]
+# {{zh-classifier|[[household]]s}}
+
+===Compounds===
+{{zh-der|匿戶|同門異戶|人頭戶|上戶|專戶|吃大戶|佃戶|三戶亡秦|家喻戶曉|千門萬戶|吐門戶|傍門依戶|住戶|各門另戶|夜不閉戶|另立門戶|個體戶|外戶|做門戶|宕戶|富戶|下戶|屠戶|報戶口|怯憐戶|丟門戶|匠戶|大家小戶|官古戶|客戶|分門割戶|幫門戶|帳戶|侯萬戶|小戶人家|動遷戶|安家落戶|小門小戶|小戶|實戶|家傳戶誦|家至戶曉|家家戶戶|家給戶贍|存戶|大戶人家|大戶|地戶|庭戶|士戶|千家萬戶|單幹戶|低收入戶|保留戶|出戶|別闢門戶|中戶|司戶|債戶|人戶|千戶|佛圖戶|公戶|傍人門戶|倚門傍戶|場戶|女戶|排門挨戶|戶口調查|拆遷戶|戶限為穿|戶庭|戶均|漁戶|百戶|戶樞不蠹|扃戶|戶限|戶有餘糧|穿房入戶|戶外廣告|拍戶|戶對門當|撐門戶|戶版|戶列簪纓|戶口校正|戶部|戶籍謄本|戶部尚書|戶樞不朽|窗戶|戶給人足|挨門挨戶|煙戶|棚戶|沿門挨戶|灘戶|戶牖|戶頭|洞戶|窗戶紙|窗戶眼兒|神戶|柳戶花門|戶長|萬戶千門|萬戶侯|萬元戶|租戶|戶主|破落戶|窨戶|用戶|挨戶|暴發戶|戶籍行政|獵戶|戶籍法|樂戶|戶說|戶籍登記|窄門窄戶|挨家挨戶|當門抵戶|當門對戶|明窗彩戶|清理門戶|玉戶|戶口普查|獵戶座|戶口名簿|朱門繡戶|示範戶|江戶幕府|牝戶|當門戶|田戶|戶口|灰戶|戶外活動|瀨戶內海|獵戶星座|澇戶|漂來戶|戶外|滅門絕戶|戶政|撐門抵戶|查戶口|煙花門戶|江戶|戶名|機戶|柳門花戶|戶戶|樵戶|戶籍|游手人戶|散戶|戶告人曉|撐持門戶|挨門逐戶|貼軍戶|立門戶|絕戶計|雁戶|金門繡戶|足不踰戶|門戶之見|足不出戶|莊戶|自立門戶|過戶|門到戶說|蓬戶甕牖|蜑戶|關門閉戶|綠燈戶|酒戶|耕戶|絕戶|花門柳戶|立戶|行戶|蓬門蓽戶|關係戶|纏門纏戶|繡戶|編戶|貧戶|糧戶|頂門壯戶|賣大戶|翻身戶|鋪戶|門戶大開|開戶|門神戶尉|門當戶對|門殫戶盡|門戶人家|門戶之爭|門戶|窯戶|農戶|陰戶|釘子戶|重點戶|鄉戶|邃戶|逐戶|船戶|花戶|躲門戶|辱門敗戶|貼戶|踅門瞭戶|蓬戶士|訂戶|離門離戶|腳戶|茶戶|蛋戶|蓽門蓬戶|落戶|縴戶|老絕戶}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=戶00|style=ky|shin=戸}}
+
+# [[door]]
+
+====Readings====
+{{ja-readings
+|goon=[[ぐ]] (gu) {{non-joyo-reading}}, [[ご]] (go) {{non-joyo-reading}}
+|kanon=[[こ]] (ko)
+|kun=[[と]] (to), [[へ]] (he) {{non-joyo-reading}}
+|nanori=[[え]] (e), [[へ]] (he)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=호|eumhun=지게}}
+
+# [[house]]
+# [[hole]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hộ]]|rs=戶00}}
+
+# {{defn|lang=vi|sort=戶00}}
+
+[[zh-min-nan:戶]]
+[[fr:戶]]
+[[ko:戶]]
+[[hu:戶]]
+[[mg:戶]]
+[[ms:戶]]
+[[ja:戶]]
+[[pl:戶]]
+[[ru:戶]]
+[[th:戶]]
+[[chr:戶]]
+[[zh:戶]]

@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|毂}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=10|sn=17|four=47547|canj=GJHNE|ids=⿹𣪊車}}
+
+# [[hub]] of a [[wheel]]
+
+====References====
+* {{Han ref|kx=1247.280|dkj=38479|dj=1725.090|hdz=32166.190|uh=8F42|ud=36674|bh=C1D4|bd=49620}}
+
+----
+
+==Chinese==
+{{zh-forms|s=毂}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gǔ,gū
+|c=guk1
+|mn=kok
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=車10}}
+
+# {{defn|lang=ja|sort=車10}}
+
+====Readings====
+* {{ja-readings|on=[[こく]] (koku)|kun=[[こしき]] (koshiki)|nanori=}}
+
+===Noun===
+{{ja-noun|こしき}}
+
+# [[hub]] {{gloss|the central part of a wheel}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=곡|eumhun=|rv=gok|mr=kok|y=kok}}
+
+# {{defn|lang=ko|sort=車10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=車10| hanviet = cốc}}
+
+# {{defn|lang=vi|sort=車10}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=8f42 Nom Foundation]
+
+[[fr:轂]]
+[[hu:轂]]
+[[mg:轂]]
+[[ja:轂]]
+[[pl:轂]]
+[[sv:轂]]
+[[th:轂]]
+[[zh:轂]]

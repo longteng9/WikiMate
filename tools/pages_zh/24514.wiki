@@ -1,0 +1,114 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=11|sn=15|four=74232|canj=BDOE|ids=⿰[[肉|⺼]][[桼]]}}
+
+====Coordinate terms====
+* {{l|mul|肘}}
+
+====References====
+* {{Han ref|kx=0993.040|dkj=29837|dj=1445.020|hdz=32106.110|uh=819D|ud=33181|bh=BDA5|bd=48549}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|肉|alt1=⺼|t1=meat, body|桼|ls=psc|c1=s|c2=p}} – a body part, the knee.
+
+===Pronunciation===
+{{zh-pron
+|m=xī
+|c=sat1
+|h=pfs=chhit
+|md=chék
+|mn=sit/tw:chhek/qz:chhiak
+|mn_note=Quanzhou and Taiwan: sit - literary; chhek/chhiak - vernacular
+|w=4xiq
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|anatomy}} [[knee]]
+#: {{zh-x|膝蓋|knee}}
+
+===Compounds===
+{{zh-der|促膝長談|奴顏婢膝|促膝|低頭屈膝|兜膝|兩手過膝|屈膝|交臂屈膝|卑躬屈膝|對膝|婢膝奴顏|垂手過膝|促膝談心|容膝|加膝墜淵|低顏下膝|接膝|拊膝|拍膝嗟歎|承歡膝下|盤膝而坐|磕膝蓋|敝膝|盤膝|膝下猶虛|膝蓋骨|竹夾膝|膝癢搔背|鶴膝風|鶴膝|膝下|膝褲|膝袒|蔽膝|護膝|膝行|膝行肘步|裂裳裹膝|膝蓋|胳膝|膝席|膝反射}}
+
+{{zh-cat|Anatomy}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉11}}
+
+====Readings====
+{{ja-readings|goon=[[しち]] (shichi)|kanon=[[しつ]] (shitsu)|kun=[[ひざ]] (hiza)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|膝蓋|しつがい}}: [[patella]], [[kneecap]]
+{{der-bottom}}
+
+{{ja-kanjitab|ひざ|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|ひざ|acc=0|acc_ref=DJR|a=Ja-hiza-knee.ogg}}
+
+===Noun===
+{{ja-noun|ひざ}}
+
+# [[knee]]
+#: {{ja-usex|'''膝'''を抱える|'''ひざ''' を かかえる|to hug one's '''knees'''}}
+
+===References===
+<references/>
+
+[[Category:ja:Anatomy|ひざ]]
+[[Category:Japanese basic words|ひざ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=슬}}
+
+# {{defn|lang=ko|sort=肉11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|tất|rs=肉11}}
+
+# {{defn|lang=vi|sort=肉11}}
+
+[[fr:膝]]
+[[ko:膝]]
+[[kn:膝]]
+[[lo:膝]]
+[[lt:膝]]
+[[li:膝]]
+[[hu:膝]]
+[[mg:膝]]
+[[nl:膝]]
+[[ja:膝]]
+[[no:膝]]
+[[pl:膝]]
+[[pt:膝]]
+[[ru:膝]]
+[[sv:膝]]
+[[th:膝]]
+[[tr:膝]]
+[[zh:膝]]

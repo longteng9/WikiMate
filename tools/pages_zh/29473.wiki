@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|铨}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=06|sn=14|four=88114|canj=COMG}}
+
+# [[weigh]], [[measure]]
+# select officials
+
+====References====
+* {{Han ref|kx=1304.210|dkj=40378|dj=1807.100|hdz=64199.080|uh=9293|ud=37523|bh=BBCD|bd=48077}}
+
+----
+
+==Chinese==
+{{zh-forms|s=铨}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=quán
+|c=cyun4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|胡銓|蔣士銓|銓列|銓定考試|銓廷|銓敘|銓次|銓衡|銓選|銓部}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金06}}
+
+# {{defn|lang=ja|sort=金06}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen)|kun=[[はかり]] (hakari), [[はかる]] (hakaru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|eumhun=|rv=jeon|mr=chŏn|y=cen}}
+
+# {{defn|lang=ko|sort=金06}}
+[[fr:銓]]
+[[hu:銓]]
+[[mg:銓]]
+[[ja:銓]]
+[[pl:銓]]
+[[th:銓]]
+[[zh:銓]]

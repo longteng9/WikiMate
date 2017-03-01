@@ -1,0 +1,61 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=06|sn=8|four=26200|canj=OVR|ids=⿰亻如}}
+
+# {{defn|Han|sort=人06}}
+
+====References====
+* {{Han ref|kx=0102.210|dkj=00610|dj=0217.040|hdz=10154.110|uh=4F9E|ud=20382|bh=CBC7|bd=52167}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=rú
+|c=jyu4
+|mc=
+|oc=
+|ma=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 65]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人06}}
+
+# {{defn|lang=ja|sort=人06}}
+
+====Readings====
+* {{ja-readings|on=[[じょ]] (jo), [[にょ]] (nyo)|kun=[[ひとしい]] (hitoshii), [[したがへならす]] (shitagahenarasu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[여]]|rv=yeo|mr=yŏ}}
+
+# {{defn|lang=ko|sort=人06}}
+
+[[fr:侞]]
+[[li:侞]]
+[[hu:侞]]
+[[pl:侞]]
+[[th:侞]]
+[[zh:侞]]

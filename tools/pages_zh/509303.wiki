@@ -1,0 +1,11 @@
+==Japanese==
+{{ja-kanjitab|ぎゃく|ぎょう|れつ|yomi=on}}
+
+===Noun===
+{{ja-noun|ぎゃく ぎょうれつ}}
+
+# {{lb|ja|linear algebra}} [[inverse matrix]]
+
+[[Category:ja:Linear algebra|きゃくぎょうれつ']]
+
+[[zh:逆行列]]

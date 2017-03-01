@@ -1,0 +1,46 @@
+{{character info/new}}
+{{also|鋪|舖|铺}}
+==Translingual==
+{{Han simplified forms|舖|舗|铺}}
+
+===Etymology===
+Japanese shinjitai {{Han simp|舖|f=舍|t=舎}}.
+
+===Han character===
+{{Han char|rn=135|rad=舌|as=09|sn=15|four=|canj=ORIJB,XORIJ}}
+
+# [[store]], [[shop]]
+
+====References====
+* {{Han ref|kx=1007.221|dkj=30323|dj=1464.280|hdz=52945.091|uh=8217|ud=33303}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=舌09}}
+
+====Readings====
+* {{ja-readings|on=[[ほ]] (ho)|kun=[[しく]] (shiku), [[みせ]] (mise)|nanori=}}
+
+===Counter===
+{{ja-pos|ほ|counter|kyu=舖}}
+
+# folded texts, especially [[map]]s
+
+===Noun===
+{{ja-noun|ほ|kyu=舖}}
+
+# [[shop]]
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 舗]]
+
+[[fr:舗]]
+[[hu:舗]]
+[[mg:舗]]
+[[ja:舗]]
+[[pl:舗]]
+[[th:舗]]
+[[zh:舗]]

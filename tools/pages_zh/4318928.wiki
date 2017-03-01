@@ -1,0 +1,53 @@
+{{also|给水}}
+==Chinese==
+{{zh-forms|s=给水}}
+
+===Pronunciation===
+{{zh-pron
+|m=jǐshuǐ
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[supply]] [[water]] (for everyday use, manufacturing, etc.)
+
+===Noun===
+{{zh-noun}}
+
+# water supply
+----
+==Japanese==
+{{ja-kanjitab|きゅう|すい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|きゅうすい|y=o}}
+
+===Noun===
+{{ja-noun|きゅうすい|tr=both}}
+
+# the supplying of [[water]], especially [[drinking water]]
+
+===Verb===
+{{ja-verb-suru|きゅうすい|tr=both}}
+
+#to [[supply]] water
+
+====Conjugation====
+{{ja-suru|きゅうすい}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=급수}}
+
+# {{hanja form of|급수|}}
+
+[[ko:給水]]
+[[hu:給水]]
+[[ja:給水]]
+[[zh:給水]]

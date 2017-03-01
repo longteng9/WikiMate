@@ -1,0 +1,126 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=8}}
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=05|sn=8|four=44530|canj=TLBK|ids=⿱艹央}}
+
+====Derived characters====
+* [[暎]]
+
+====References====
+* {{Han ref|kx=1024.110|dkj=30808|dj=1484.040|hdz=53192.010|uh=82F1|ud=33521|bh=AD5E|bd=44382}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艸|央|c1=s|c2=p|alt1=艹|t1=grass|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yīng
+|c=jing1
+|h=pfs=yîn
+|md=ĭng
+|mn=qz,tw,xm,zz:eng/qz,xm,zz:iaⁿ
+|mn_note=eng - literary; iaⁿ - vernacular
+|w=1in
+|mc=y
+|oc=y
+|ma=
+|cat=n,a,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[flower]], [[petal]]
+# [[outstanding]]
+# [[fine]], [[excellent]]
+# [[brave]]
+# [[hero]]
+# {{zh-abbrev|英國|[[Britain]]}}
+#: {{zh-x|英軍|{{w|British Armed Forces}}}}
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|英鎊|英尺|英寸|英噸|英發|英國|英傑|英俊|英里:[[mile]]|英靈|英文|英武|英雄|英語|英雄所見略同|英雄無用武之地|一世英名|三英|仇英|作育英才|吉川英治|含英|含英咀華|吳文英|咀英嚼華|大英國協|大英帝國|天縱英明|女英|姜宸英|宗英|岑毓英|巾幗英雄|新英格蘭|李蓮英|武英殿|民族英雄|沈雲英|無名英雄|玄英|玉英|瑤英|瓊英|痛失英才|白英|百卉含英|石英|石英岩|石英玻璃|石英錶|祝英臺|神采英拔|精英|精英樹|紫雲英|群英|群英會|耆英|舜英|若英|英仙座|英儒|英兩|英制|英勇|英勇善戰|英勇無敵|英勇雄壯|英名|英國國教|英國管|英姿|英姿煥發|英姿邁往|英姿颯爽|英尋|英布|英年|英才|英才俊偉|英拔|英挺|英明|英明睿智|英格蘭|英毅|英氣|英氣勃勃|英氣逼人|英氣風發|英法聯軍|英烈|英烈千秋|英爽|英物|英特邁往|英畝|英皇|英石|英磅|英聲|英聲茂實|英英|英華|英語民族|英豪|英銳|英雄主義|英雄入彀|英雄好漢|英雄末路|英雄本色|英雄樹|英雄氣短|英雄短氣|英雄豪傑|英風|英風偉烈|英風宛在|英風義氣|英髦|英魂|茂實英聲|草莽英雄|菁英|菁英分子|落英|蒲公英|蘭英|蜚英騰茂|豪英|雲英|雲英未嫁|颯爽英姿}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=艸05}}
+
+# [[English]]
+
+====Readings====
+{{ja-readings|goon=[[よう]] (yō)|kanon=[[えい]] (ei), [[え]] (e)|kun=[[はなぶさ]] (hanabusa), [[はな]] (hana), [[ひいでる]] (hiideru)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|英気|えいき}}
+* {{ja-r|英語|えいご}}
+* {{ja-r|英国|えいこく}}
+* {{ja-r|英和|えいわ}}
+* {{ja-r|英断|えいだん}}
+* {{ja-r|英知|えいち}}
+* {{ja-r|英智|^えいち}}
+* {{ja-r|英文|えいぶん}}
+* {{ja-r|英雄|えいゆう}}
+* {{ja-r|英里|えいり}}: [[mile]]
+* {{ja-r|英霊|えいれい}}
+* {{ja-r|石英|せきえい}}
+{{der-bottom}}
+
+{{ja-kanjitab|えい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|えい|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|えい}}
+
+# [[English]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=영|eumhun=|mr=yŏng|y=yeng}}
+
+# {{defn|lang=ko|sort=艸05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=艸05}} ([[anh]], [[yêng]])
+
+# {{defn|lang=vi|sort=艸05}}
+
+[[da:英]]
+[[fr:英]]
+[[ko:英]]
+[[hi:英]]
+[[it:英]]
+[[hu:英]]
+[[mg:英]]
+[[ja:英]]
+[[no:英]]
+[[pl:英]]
+[[ru:英]]
+[[th:英]]
+[[uk:英]]
+[[vi:英]]
+[[zh:英]]

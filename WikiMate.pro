@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui xml network
+QT       += core gui xml network sql
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -71,8 +71,7 @@ HEADERS  += MainWindow.h \
     DictEngine.h \
     Request.h \
     MessageForm.h \
-    Launcher.h \
-    TaskPool.h
+    Launcher.h
 
 
 FORMS    += MainWindow.ui \

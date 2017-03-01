@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuògǔ
+|c=zo6 gwat1
+|mn=qz:chěr-kut/tw:chē-kut/xm,zz:chō-kut
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|skeleton}} [[ischium]]
+
+====Derived terms====
+{{zh-der|坐骨神經:[[sciatic nerve]]}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ざ|こつ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|ざこつ|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ざこつ}}
+
+# {{lb|ja|skeleton|sort=さこつ'}} [[ischium]]
+
+====Derived terms====
+* {{ja-r|坐骨神経|ざこつしんけい|gloss=[[sciatic nerve]]}}
+
+===References===
+<references/>
+
+[[zh-min-nan:坐骨]]
+[[zh:坐骨]]

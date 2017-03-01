@@ -1,0 +1,60 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=14|sn=20|four=54153|canj=LITWI|ids=⿰虫蔑}}
+
+# flies, small insects produced in damp places
+
+====References====
+* {{Han ref|kx=1101.240|dkj=33779|dj=1565.040|hdz=42899.140|uh=881B}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=miè
+|c=mit6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫14}}
+
+# {{defn|lang=ja|sort=虫14}}
+
+====Readings====
+{{ja-readings|goon=[[めち]] (mechi)|kanon=[[べつ]] (betsu)|kun=[[かつおむし]] (katsuomushi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|蠛蠓|まくなぎ}}: a kind of [[biting midge]]
+{{der-bottom}}
+
+[[fr:蠛]]
+[[hu:蠛]]
+[[mg:蠛]]
+[[pl:蠛]]
+[[th:蠛]]
+[[zh:蠛]]

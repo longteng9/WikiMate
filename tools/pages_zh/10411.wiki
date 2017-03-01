@@ -1,0 +1,158 @@
+{{character info/new}}
+{{also|兩|两}}
+==Translingual==
+{{Han simplified forms|兩|両|两}}
+
+===Han character===
+{{Han char|rn=1|rad=一|as=05|sn=6|four=1022.7|canj=MUB|ids=⿱一⿻冂山,⿻⿱一山冂}}
+
+# [[two]]
+# [[both]], [[pair]], [[couple]]
+# [[ounce]], [[tael]]
+
+====References====
+* {{Han ref|kx=0078.101|dkj=00046|dj=0157.070|hdz=10019.010|uh=4E21|ud=20001}}
+
+----
+
+==Chinese==
+{{zh-see|兩|v}}
+
+----
+
+==Japanese==
+{{wikipedia|Ryō (Japanese coin)|Ryō}}
+
+===Kanji===
+{{ja-kanji|grade=3|rs=一05|style=s|kyu=兩}}
+
+# [[both]]
+# [[old]] [[Japanese]] [[coin]]
+# [[two]]
+
+====Readings====
+* {{ja-readings|goon=[[りょう]] ([[ryō]]), {{qualifier|historical}} [[りやう]] (ryau)|kanon=[[りょう]] ([[ryō]]), {{qualifier|historical}} [[りやう]] (ryau)|toon={{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}} [[りゃん]] (ryan)|kun={{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}} [[ふた]] ([[futa]]), [[ふたつ]] ([[futatsu]])}}
+
+===Kanji===
+{{ja-kanji|grade=3|rs=一05|style=s|kyu=輛}}
+
+# [[counter]] for [[carriages]] (e.g. in a [[train]])
+
+====Readings====
+* {{ja-readings|goon={{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}} [[ろう]] ([[rō]]), {{qualifier|historical}} [[らう]] (rau)|kanon=[[りょう]] ([[ryō]]), {{qualifier|historical}} [[りやう]] (ryau)|kun=}}
+
+====Usage notes====
+[[shinjitai|Shinjitai]]. As this form conflates the traditional characters {{m|ja|兩}} and {{m|ja|輛}}, some may prefer not to simplify the latter, or to use the [[w:Extended shinjitai|extended shinjitai]] form {{m|ja|輌}}.
+
+====Compounds====
+{{der5
+| {{ja-l|一両}}
+| {{ja-l|十両}}
+| {{ja-l|千両}}
+| {{ja-l|両々}}, {{ja-l|両両}}
+| {{ja-l|車両}}
+| {{ja-l|両院}}
+| {{ja-l|両家}}
+| {{ja-l|両蓋}}
+| {{ja-l|両岸}}
+| {{ja-l|両眼}}
+| {{ja-l|両義}}
+| {{ja-l|両脚}}
+| {{ja-l|両極}}
+| {{ja-l|両軍}}
+| {{ja-l|両舷}}
+| {{ja-l|両虎}}
+| {{ja-l|両口}}
+| {{ja-l|両国}}
+| {{ja-l|両三}}
+| {{ja-l|両氏}}
+| {{ja-l|両耳}}
+| {{ja-l|両社}}
+| {{ja-l|両者}}
+| {{ja-l|両手}}
+| {{ja-l|両種}}
+| {{ja-l|両親}}
+| {{ja-l|両人}}
+| {{ja-l|両刃}}
+| {{ja-l|両性}}
+| {{ja-l|両成敗}}
+| {{ja-l|両棲}}
+| {{ja-l|両生}}
+| {{ja-l|両舌}}
+| {{ja-l|両前}}
+| {{ja-l|両全}}
+| {{ja-l|両像}}
+| {{ja-l|両側}}
+| {{ja-l|両足}}
+| {{ja-l|両袖}}
+| {{ja-l|両損}}
+| {{ja-l|両替}}
+| {{ja-l|両端}}
+| {{ja-l|両断}}
+| {{ja-l|両天秤}}
+| {{ja-l|両度}}
+| {{ja-l|両党}}
+| {{ja-l|両刀}}
+| {{ja-l|両頭}}
+| {{ja-l|両得}}
+| {{ja-l|両凸}}
+| {{ja-l|進退両難}}
+| {{ja-l|両日}}
+| {{ja-l|硬軟両派}}
+| {{ja-l|両肌}}, {{ja-l|両膚}}
+| {{ja-l|両膝}}
+| {{ja-l|両肘}}
+| {{ja-l|両部神道}}
+| {{ja-l|両分}}
+| {{ja-l|両陛下}}
+| {{ja-l|両便}}
+| {{ja-l|両方}}
+| {{ja-l|両名}}
+| {{ja-l|両面}}
+| {{ja-l|両目}}
+| {{ja-l|両雄}}
+| {{ja-l|両様}}
+| {{ja-l|両洋}}
+| {{ja-l|両用}}
+| {{ja-l|両翼}}
+| {{ja-l|両立}}
+| {{ja-l|両輪}}
+| {{ja-l|両隣}}
+| {{ja-l|両論}}
+| {{ja-l|両脇}}
+| {{ja-l|両腕}}
+| {{ja-l|両方}}
+| {{ja-l|両国}} ("Ryōgoku neighborhood of Sumida, Tokyo")
+}}
+
+====Related terms====
+* {{l|ja|両開き}}
+* {{l|ja|両建て}}
+* {{l|ja|両差し}}
+* {{l|ja|両思い}}
+* {{l|ja|両切り}}
+
+===Prefix===
+{{ja-pos|りょう|prefix|kyu=兩|hhira=りやう}}
+
+# [[both]]
+# [[two]]
+
+===Counter===
+{{ja-pos|りょう|counter|kyu=輛|hhira=りやう}}
+
+# cars of a train
+#: {{ja-usex|この電%車は六%'''両'''%編%成です。|この でん%しゃ は ろく%'''りょう'''% へん%せい です。|This train consists of six '''cars'''.}}
+
+[[fr:両]]
+[[ko:両]]
+[[lt:両]]
+[[hu:両]]
+[[mg:両]]
+[[ms:両]]
+[[fj:両]]
+[[ja:両]]
+[[pl:両]]
+[[th:両]]
+[[uk:両]]
+[[zh:両]]

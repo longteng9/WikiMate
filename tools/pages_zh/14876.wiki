@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=50|rad=巾|as=05|sn=8|four=45230|canj=LBHQO|ids=⿰巾失}}
+
+# [[book]] [[cover]]
+# [[satchel]] or [[bag]]
+
+====References====
+* {{Han ref|kx=0330.040|dkj=08852|dj=0635.230|hdz=10734.020|uh=5E19|ud=24089|bh=CC6F|bd=52335}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhì
+|c=dit6
+|mn=tia̍t
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|卷帙|卷帙浩繁|散帙|書帙|緗帙|縹帙|道帙|部帙|鴻篇巨帙}}
+
+===References===
+* {{R:nan:thcwdq}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=巾05}}
+
+====Readings====
+* {{ja-readings|goon=[[じち]] (jichi)|kanon=[[ちつ]] (chitsu)|kun=[[ふまき]] (fumaki)}}
+
+===Counter===
+{{ja-pos|ちつ|counter}}
+
+# book cases
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[질]], [[절]]|rv=jil, jeol|mr=chil, chŏl}}
+
+# {{defn|lang=ko|sort=巾05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trật]], [[chật]]|rs=巾05}}
+
+# {{defn|lang=vi|sort=巾05}}
+
+[[fr:帙]]
+[[ko:帙]]
+[[li:帙]]
+[[hu:帙]]
+[[mg:帙]]
+[[ja:帙]]
+[[pl:帙]]
+[[th:帙]]
+[[zh:帙]]

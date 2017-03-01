@@ -1,0 +1,46 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|つい|じゅう|yomi=o}}
+
+====Pronunciation====
+* {{ja-pron|ついじゅう|y=o|acc=0|acc_ref=NHK}}
+
+====Noun====
+{{ja-noun|ついじゅう|kyu=追從}}
+
+# following someone's opinion
+# [[adherence]]
+
+====Verb====
+{{ja-verb-suru|tr=intrans|ついじゅう|kyu=追從}}
+
+# to follow someone's opinion
+
+=====Conjugation=====
+{{ja-suru|ついじゅう}}
+
+===Etymology 2===
+{{ja-kanjitab|つい|しょう|yomi=o}}
+
+====Pronunciation====
+* {{ja-pron|ついしょう|y=o|acc=0|acc_ref=NHK}}
+
+====Noun====
+{{ja-noun|ついしょう|kyu=追從}}
+
+# [[flattery]]
+
+====Verb====
+{{ja-verb-suru|ついしょう|kyu=追從|tr=intrans}}
+
+# to [[flatter]]
+
+=====Conjugation=====
+{{ja-suru|ついしょう}}
+
+===References===
+<references/>
+
+[[ja:追従]]
+[[zh:追従]]

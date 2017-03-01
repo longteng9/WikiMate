@@ -1,0 +1,93 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=11|sn=14|four=41491|canj=VMWF|ids=⿰女票}}
+
+====References====
+* {{Han ref|kx=0269.210|dkj=06637|dj=0537.100|hdz=21076.050|uh=5AD6|ud=23254|bh=B9E2|bd=47586}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|票|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=piáo
+|c=piu4
+|h=pfs=phèu
+|md=pièu
+|mn=phiâu
+|w=3biau
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[visit]] [[prostitute]]s; to [[patronise]] prostitutes
+
+====Compounds====
+{{zh-der|fold=1|嫖賭|嫖客|吃喝嫖賭|嫖妓|嫖經|嫖婊子|嫖娼|嫖友|狂嫖濫賭}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=piāo
+|c=piu1
+|w=1phiau
+|mc=y
+|oc=y
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[nimble]]; [[agile]]
+
+====Compounds====
+{{zh-der|fold=1|嫖姚}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女11}}
+
+# {{defn|lang=ja|sort=女11}}
+
+====Readings====
+* {{ja-readings|on=[[ひょう]] (hyō)|kun=[[かるい]] (karui)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=표|rv=pyo|mr=p'yo}}
+
+# {{defn|lang=ko|sort=女11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phiêu]], [[phếu]], [[phiếu]], [[tẹo]], [[phèo]]|rs=女11}}
+
+# {{defn|lang=vi|sort=女11}}
+
+[[fr:嫖]]
+[[li:嫖]]
+[[hu:嫖]]
+[[mg:嫖]]
+[[ja:嫖]]
+[[pl:嫖]]
+[[th:嫖]]
+[[zh:嫖]]

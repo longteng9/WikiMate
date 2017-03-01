@@ -1,0 +1,80 @@
+{{also|変化|变化}}
+==Chinese==
+{{zh-forms|s=变化}}
+
+===Pronunciation===
+{{zh-pron
+|m=biànhuà,tl=y
+|ma=y
+|mn=piàn-hòa
+|c=bin3 faa3
+|h=pfs=pien-fa
+|w=2pi ho
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[change]]; to [[vary]]
+
+===Noun===
+{{zh-noun}}
+
+# [[change]]; [[variation]]
+#: {{zh-x|計劃 跟不{bu}上 變化。|No plan can anticipate every possible '''change'''.}}
+
+====Derived terms====
+{{zh-der|變化莫測|物理變化|化學變化|氣候變化}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|へん|か|yomi=on}}
+
+===Noun===
+{{ja-noun|へんか|shin=変化}}
+
+# [[change]]; [[variation]]
+
+===Verb===
+{{ja-verb-suru|へんか|shin=変化}}
+
+# to change, to [[vary]]
+
+====Conjugation====
+{{ja-suru|へんか}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=변화}}
+
+# {{hanja form of|변화|[[change]]; [[variation]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|biến hóa|to [[transform]], to [[evolve]]}}
+
+[[zh-min-nan:變化]]
+[[ko:變化]]
+[[li:變化]]
+[[hu:變化]]
+[[mg:變化]]
+[[fj:變化]]
+[[ja:變化]]
+[[tl:變化]]
+[[th:變化]]
+[[chr:變化]]
+[[zh:變化]]

@@ -1,0 +1,14 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ゆう|れい|もん|k3=も|じ|yomi=irr|sort=ゆうれいもじ}}
+
+===Noun===
+{{ja-noun|ゆうれい もじ|kyu=幽靈文字|hhira=いうれいもじ}}
+
+# {{lb|ja|computing|sort=ゆうれいもじ}} [[ghost character]] {{gloss|kanji included in JIS X 0208 but of unknown origin}}
+
+===See also===
+* {{l|en|ghost word}}
+* [[:Category:Ghost kanji]]
+
+[[Category:Ghost kanji|*]]

@@ -1,0 +1,67 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=zǔxiān
+|ma=Zh-zuxian.ogg
+|c=zou2 sin1
+|h=pfs=chú-siên
+|mn=chó͘-sian
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[ancestor]]s; [[forebear]]s; [[forefather]]s
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|そ|せん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|そせん|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|そせん}}
+
+# [[ancestor]]
+
+====Synonyms====
+* {{ja-r|先祖|せんぞ}}
+
+====Antonyms====
+* {{ja-r|子孫|しそん}}: [[descendant]], [[scion]]
+
+===References===
+<references/>
+
+[[Category:ja:Family|そせん]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=조선}}
+
+# {{hanja form of|조선|ancestor}}
+
+[[zh-min-nan:祖先]]
+[[ko:祖先]]
+[[hu:祖先]]
+[[mg:祖先]]
+[[na:祖先]]
+[[ja:祖先]]
+[[uz:祖先]]
+[[chr:祖先]]
+[[uk:祖先]]
+[[zh:祖先]]

@@ -1,0 +1,93 @@
+{{character info/new}}
+{{also|芈}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=123|rad=羊|as=01|sn=7|four=11500|canj=TQ,XXTQ}}
+
+# [[bleat]] of [[sheep]]
+# used as a surname
+
+====References====
+* {{Han ref|kx=0951.020|dkj=28428|dj=1393.100|hdz=10029.080|uh=7F8B|ud=32651|bh=AACB|bd=43723}}
+
+----
+
+==Chinese==
+{{zh-forms|s=芈}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=miē,mǐ,2nb=literary
+|c=me1,me5,mei5
+|c_note=me1, me5 - vernacular; mei5 - literary
+|h=
+|md=
+|mn=
+|w=
+|mc=
+|oc=y
+|cat=intj
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[baa]]! {{gloss|the bleating of a sheep}}
+
+===Pronunciation===
+{{zh-pron
+|m=mǐ
+|c=mei5
+|h=
+|md=
+|mn=
+|w=
+|mc=
+|oc=y
+|cat=pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{surname|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=羊01}}
+
+# {{defn|lang=ja|sort=羊01}}
+
+====Readings====
+* {{ja-readings|on=[[ば]] (ba), [[ま]] (ma), [[び]] (bi), [[み]] (mi)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=미|eumhun=|rv=mi|mr=mi|y=mi}}
+
+# {{defn|lang=ko|sort=羊01}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mị]]|rs=羊01}}
+
+# {{defn|lang=vi|sort=羊01}}
+
+[[fr:羋]]
+[[hu:羋]]
+[[pl:羋]]
+[[th:羋]]
+[[zh:羋]]

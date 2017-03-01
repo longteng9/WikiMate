@@ -1,0 +1,60 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhuīdào
+|c=zeoi1 dou6
+|h=pfs=chûi-tho
+|mn=tui-tō
+|ma=Zh-zhuidào.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Advanced Mandarin}} to [[mourn]] ([[someone]]'s [[death]])
+
+----
+
+==Japanese==
+{{ja-kanjitab|つい|とう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ついとう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ついとう}}
+
+# [[memory]] of the deceased, [[remembrance]], [[eulogy]] for the deceased, [[memorial]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|ついとう}}
+
+# [[mourn]], [[commemorate]]
+
+====Conjugation====
+{{ja-suru|ついとう}}
+
+====Synonyms====
+* {{ja-r|弔う|とむらう}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=추도}}
+
+# {{hanja form of|추도|[[memorial]]}}
+
+[[ko:追悼]]
+[[hu:追悼]]
+[[mg:追悼]]
+[[ja:追悼]]
+[[uk:追悼]]
+[[zh:追悼]]

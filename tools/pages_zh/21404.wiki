@@ -1,0 +1,160 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=12|sn=17|four=00172|canj=KRRU|ids=⿸疒嵒}}
+
+====References====
+* {{Han ref|kx=0781.101|dkj=22538|dj=1190.230|hdz=42697.040|uh=764C|ud=30284|bh=C0F9|bd=49401}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|疒|嵒|ls=psc|c1=s|c2=p}}; {{l|zh|嵒}} is a variant of {{l|zh|岩}}.
+
+===Etymology===
+From {{zh-l|岩|cliff; rock, stone}}, since cancers often present as lumps or outgrowths on the body.
+
+In Mandarin, this character used to be pronounced identically as {{zh-l|岩}}. Its pronunciation was changed to ''ái'' in the 1960s to avoid the homophony between {{zh-l|癌|cancer}} and {{zh-l|炎|inflammation}} (compare {{zh-l|肺炎|pneumonia}} and {{zh-l|肺癌|lung cancer}}). The new pronunciation of ''ái'' stems from dialectal pronunciations of {{zh-l|*岩|rock; cliff}} {{IPAchar|/ŋai/}}, influenced by {{zh-l|崖|tr=yá, yái|cliff}}.
+
+===Pronunciation===
+{{zh-pron
+|m=癌
+|c=ngaam4
+|h=pfs=ngàm
+|md=ngàng
+|mn=gâm
+|w=3nge
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[cancer]], [[carcinoma]]
+#: {{zh-x|癌症|cancer}}
+
+====Compounds====
+{{zh-der|癌症|乳癌|卵巢癌|口腔癌|喉癌|大腸癌|子宮頸癌|皮膚癌|直腸癌|肝癌|肺癌|胃癌|腎臟癌|膀胱癌|血癌|防癌|食道癌|骨癌|鼻咽癌|腎癌|癌變|癌細胞|致癌|腦癌|淋巴癌|乳腺癌|胰腺癌|前列腺癌|腸癌|患癌|直男癌|腺癌|癌腫|抗癌|癌瘤|子宮癌|宮頸癌}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒12}}
+
+# [[cancer]]
+
+====Readings====
+{{ja-readings|goon=[[げん]] (gen)|kanon=[[がん]] (gan)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|胃癌|いがん}}: [[stomach cancer]]
+* {{ja-r|咽頭癌|いんとうがん}}
+* {{ja-r|癌遺伝子|がんいでんし}}
+* {{ja-r|癌ウイルス|がんウイルス}}
+* {{ja-r|癌化|がんか}}
+* {{ja-r|癌細胞|がんさいぼう}}
+* {{ja-r|肝細胞癌|かんさいぼうがん}}
+* {{ja-r|癌腫|がんしゅ}}: [[carcinoma]]
+* {{ja-r|肝臓癌|かんぞうがん}}
+* {{ja-r|癌抑制遺伝子|がんよくせい.いでんし}}
+* {{ja-r|結腸癌|けっちょうがん}}
+* {{ja-r|抗癌剤|こうがんざい}}
+* {{ja-r|口腔癌|こうくうがん}}
+* {{ja-r|甲状腺癌|こうじょうせんがん}}
+* {{ja-r|硬性癌|こうせいがん}}
+* {{ja-r|喉頭癌|こうとうがん}}
+* {{ja-r|子宮癌|しきゅうがん}}
+* {{ja-r|子宮頸癌|しきゅうけいがん}}: [[cervical cancer]]
+* {{ja-r|子宮体癌|しきゅうたいがん}}
+* {{ja-r|小児癌|しょうにがん}}
+* {{ja-r|食道癌|しょくどうがん}}: [[esophageal cancer]]
+* {{ja-r|腎臓癌|じんぞうがん}}
+* {{ja-r|水癌|すいがん}}: [[noma]]
+* {{ja-r|膵臓癌|すいぞうがん}}
+* {{ja-r|制癌剤|せいがんざい}}
+* {{ja-r|制癌物質|せいがんぶっしつ}}
+* {{ja-r|舌癌|ぜつがん}}
+* {{ja-r|腺癌|せんがん}}: [[adenocarcinoma]]
+* {{ja-r|前癌状態|ぜんがんじょうたい}}
+* {{ja-r|前立腺癌|ぜんりつせんがん}}
+* {{ja-r|早期癌|そうきがん}}
+* {{ja-r|タール癌|タールがん}}
+* {{ja-r|大腸癌|だいちょうがん}}
+* {{ja-r|胆管癌|たんかんがん}}
+* {{ja-r|胆囊癌|たんのうがん}}
+* {{ja-r|腸癌|ちょうがん}}
+* {{ja-r|直腸癌|ちょくちょうがん}}
+* {{ja-r|乳癌|にゅうがん}}: [[breast cancer]]
+* {{ja-r|粘膜内癌|ねんまくないがん}}
+* {{ja-r|肺癌|はいがん}}: [[lung cancer]]
+* {{ja-r|発癌|はつがん}}: [[carcinogenesis]]
+* {{ja-r|皮膚癌|ひふがん}}: [[skin cancer]]
+* {{ja-r|扁平上皮癌|へんぺいじょうひがん}}
+* {{ja-r|膀胱癌|ぼうこうがん}}: [[bladder cancer]]
+* {{ja-r|未分化癌|みぶんかがん}}
+* {{ja-r|卵巣癌|らんそうがん}}
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|がん|yomi=o}}
+From {{etyl|ltc|ja|sort=かん'}} {{m|zh|癌}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|がん|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|がん}}
+
+# {{lb|ja|medicine|oncology|pathology|sort=かん'}} [[cancer]]
+#: {{ja-usex|彼の祖母は'''癌'''で死んだ。|かれ の そぼ は '''がん''' で しんだ。|His grandmother died of '''cancer'''.}}
+# {{sense|figuratively: a [[baneful]] but [[ineradicable]] [[evil]]}} [[cancer]]
+#: {{ja-usex|中央集権体制は社会の'''癌'''になっている。|ちゅうおうしゅうけん たいせい は しゃかい の '''がん''' に なっている。|The centralized administrative system has become a '''cancer''' of the society.}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=암|eumhun=|rv=am|mr=am|y=am}}
+
+# {{defn|lang=ko|sort=疒12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nham]]|rs=疒12}}
+
+# {{defn|lang=vi|sort=疒12}}
+
+[[zh-min-nan:癌]]
+[[cs:癌]]
+[[fr:癌]]
+[[ko:癌]]
+[[lo:癌]]
+[[li:癌]]
+[[hu:癌]]
+[[mg:癌]]
+[[mn:癌]]
+[[ja:癌]]
+[[no:癌]]
+[[pl:癌]]
+[[th:癌]]
+[[chr:癌]]
+[[uk:癌]]
+[[vi:癌]]
+[[zh:癌]]

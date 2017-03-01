@@ -1,0 +1,46 @@
+{{also|并存}}
+==Chinese==
+{{zh-forms|s=并存}}
+
+===Alternative forms===
+* {{zh-l|併存*}}
+
+===Pronunciation===
+{{zh-pron
+|m=bìngcún
+|c=bing6 cyun4
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[coexist]]; to [[exist]] [[simultaneously]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|へい|そん|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|へいそん|y=on}}
+{{ja-pron|へいぞん}}
+
+===Noun===
+{{ja-noun|へいそん|へいぞん}}
+
+# {{alternative form of|併存|lang=ja}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|へいそん|へいぞん}}
+
+# {{alternative form of|併存|lang=ja}}
+
+====Conjugation====
+{{ja-suru|へいそん}}
+
+[[ko:並存]]
+[[ja:並存]]
+[[zh:並存]]

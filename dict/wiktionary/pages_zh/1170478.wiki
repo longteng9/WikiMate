@@ -1,0 +1,76 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=miànmù
+|c=min6 muk6
+|h=pfs=mien-muk
+|mn=xm,qz,zz,twv:biān-bo̍k/xm,zz,twv:bīn-ba̍k/tw:bīn-bo̍k
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[face]]
+# [[self]]-[[respect]]
+
+====Derived terms====
+{{zh-der|真面目}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|めん|もく|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=goon|めんもく|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|めんもく}}
+
+# one's [[honor]]
+# [[appearance]]
+
+=====Derived terms=====
+* {{ja-r|真面目|しんめんもく}}
+
+===Etymology 2===
+{{ja-kanjitab|めん|ぼく|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|めんぼく|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|めんぼく}}
+
+# one's [[honor]]
+# [[appearance]]
+
+=====Derived terms=====
+* {{ja-r|真面目|しんめんぼく}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=irr|sort=めいぼく}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|めいぼく}}
+
+====Noun====
+{{ja-noun|めいぼく}}
+
+# {{lb|ja|obsolete|sort=めいぼく}} one's [[honor]]
+# {{lb|ja|obsolete|sort=めいぼく}} [[appearance]]
+
+===References===
+<references/>
+
+[[zh-min-nan:面目]]
+[[ko:面目]]
+[[hu:面目]]
+[[mg:面目]]
+[[ja:面目]]
+[[zh:面目]]

@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=wèisuān
+|c=wai6 syun1
+|h=pfs=vi-sôn
+|md=ôi-sŏng
+|mn=qz:ui-sng/tw,xm:ūi-sng/zz:ūi-suiⁿ
+|w=3hhue soe
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|biochemistry}} [[gastric acid]]
+
+====Synonyms====
+* {{zh-l|胃液}}
+* {{zh-l|胃汁}}
+* {{qualifier|Min Nan}} {{zh-l|刺酸}}
+
+{{zh-cat|Bodily fluids}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|い|さん|yomi=o}}
+
+===Noun===
+{{ja-noun|いさん}}
+
+# {{lb|ja|biochemistry|sort=いさん}} [[gastric acid]]
+
+[[ko:胃酸]]
+[[hu:胃酸]]
+[[nl:胃酸]]
+[[ja:胃酸]]
+[[zh:胃酸]]

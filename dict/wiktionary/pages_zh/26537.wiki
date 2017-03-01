@@ -1,0 +1,108 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=06|sn=12|four=43750|canj=JIYHV}}
+
+====References====
+* {{Han ref|kx=1116.160|dkj=34258|dj=1581.270|hdz=53086.020|uh=88C1|ud=35009|bh=B5F4|bd=46580}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|衣|𢦏|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=cái
+|c=coi4
+|h=pfs=chhài
+|md=
+|mn=chhâi
+|w=
+|mc=y
+|oc=y
+|cat=v,n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[cut out]]; to [[cut]] into [[part]]s
+# to [[cut down]]; to [[decrease]]
+# to [[dismiss]]
+# to [[control]]
+# to [[judge]]
+# to [[select]] and [[plan]]
+# [[form]] of [[writing]]
+# {{zh-classifier|divisions of standard-size printing paper}}
+
+===Compounds===
+{{zh-der|仲裁|別出心裁|別出新裁|別裁|別裁偽體|制裁|剪裁|副總裁|卓裁|商務仲裁|國際仲裁|國際裁判|報窮制裁|心裁|指腹裁襟|洋裁|混合裁判|清裁|獨出心裁|獨裁|獨裁者|登高賦裁|稱體裁衣|終局裁判|經濟制裁|總裁|自由裁量|自裁|裁併|裁兵|裁刀|裁判|裁判員|裁判書|裁制|裁剪|裁劃|裁可|裁員|裁奪|裁定|裁度|裁成|裁損|裁撤|裁斷|裁格|裁汰|裁決|裁減|裁示|裁答|裁縫|裁縫店|裁縫鋪|裁處|裁衣|裁衣合帳|裁衣尺|裁製|裁詩|裁軍|裁軍會議|裁量|裁錦|裁革|辨裁|量體裁衣|鎔裁|鏤月裁雲|電子裁判|體裁|鬢若刀裁|鴻裁}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=衣06}}
+
+# cut out, judge
+
+====Readings====
+* {{ja-readings|goon=[[ざい]] (zai)|kanon=[[さい]] (sai)|kun=[[たつ]] (tatsu), [[さばく]] (sabaku)}}
+
+====Compounds====
+{{top2}}
+* {{ja-r|裁判|さいばん}}
+* {{ja-r|裁判所|さいばんしょ}}
+* {{ja-r|制裁|せいさい}}
+* {{ja-r|裁断|さいだん}}
+* {{ja-r|裁決|さいけつ}}
+* {{ja-r|最高裁|さいこうさい}}
+* {{ja-r|裁量|さいりょう}}
+{{mid2}}
+* {{ja-r|天裁|てんさい}}
+* {{ja-r|簡裁|かんさい}}
+* {{ja-r|高裁|こうさい}}
+* {{ja-r|家裁|かさい}}
+* {{ja-r|地裁|ちさい}}
+* {{ja-r|裁縫|さいほう}}
+* {{ja-r|裁定|さいてい}}
+{{bottom}}
+
+===References===
+* Halpern, New Japanese-English Character Dictionary
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=재|eumhun=|rv=jae|mr=chae|y=cay}}
+
+# {{defn|lang=ko|sort=衣06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tài]], [[trài]]|rs=衣06}}
+
+# {{defn|lang=vi|sort=衣06}}
+
+[[zh-min-nan:裁]]
+[[fr:裁]]
+[[ko:裁]]
+[[hu:裁]]
+[[mg:裁]]
+[[ja:裁]]
+[[no:裁]]
+[[pl:裁]]
+[[th:裁]]
+[[zh:裁]]

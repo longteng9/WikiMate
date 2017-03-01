@@ -1,0 +1,53 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=11|sn=22|four=21333|canj=NFYMO}}
+
+# {{defn|Han|sort=魚11}}
+
+====References====
+* {{Han ref|kx=1477.180|dkj=46454|dj=2008.440|hdz=74705.160|uh=9C41|ud=40001|bh=F7B0|bd=63408}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhú
+|c=zuk6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-alt-name|鱀}}
+
+===References===
+* {{R:twedu|B06010}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚11}}
+
+# {{defn|lang=ja|sort=魚11}}
+
+====Readings====
+* {{ja-readings|on=[[ちく]] (chiku), [[じく]] (jiku)|kun=[[さめ]] (same)}}
+
+[[fr:鱁]]
+[[hu:鱁]]
+[[pl:鱁]]
+[[th:鱁]]
+[[zh:鱁]]

@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|屏}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=11|sn=14|four=57041|canj=QSTT,QSYJ,XQSYJ|ids=⿰扌屏}}
+
+# [[expel]], [[cast off]]
+# [[arrange]]
+
+====References====
+* {{Han ref|kx=0449.250|dkj=12575|dj=0800.100|hdz=31926.010|uh=6452|ud=25682|bh=B4AC|bd=46252}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bìng
+|c=bing2,bing3
+|h=pfs=piang/piâng
+|md=
+|mn=piaⁿ/phiaⁿ/piàⁿ
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手11}}
+
+# {{defn|lang=ja|sort=手11}}
+
+====Readings====
+* {{ja-readings|on=[[へい]] (hei), [[ひょう]] (hyō)|kun=[[はらう]] (harau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=병|eumhun=제거할|rv=byeong|mr=pyŏng|y=pyeng}}
+
+# {{defn|lang=ko|sort=手11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=手11|bính}}
+
+# {{defn|lang=vi|sort=手11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6452 Nom Foundation]
+
+[[zh-min-nan:摒]]
+[[fr:摒]]
+[[hu:摒]]
+[[mg:摒]]
+[[pl:摒]]
+[[th:摒]]
+[[zh:摒]]

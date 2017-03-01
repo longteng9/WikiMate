@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|何|同}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=27220|canj=OSMR|ids=⿰亻司}}
+
+# [[serve]], [[wait]] upon, [[attend]]
+# [[examine]]
+
+====References====
+* {{Han ref|kx=0097.080|dkj=00483|dj=0205.140|hdz=10139.050|uh=4F3A|ud=20282|bh=A6F8|bd=42744}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|alt1=亻|t1=person, man|司|ls=psc|c1=s|c2=p}} – a person stands beside (attends), looks in.
+
+===Pronunciation===
+{{zh-pron
+|m=cì,sì
+|c=zi6
+|mn=qz:sìr/tw,xm,zz:sù/twv:sū
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=人05}}
+
+# {{defn|lang=ja|sort=人05}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[うかがう]] (ukagau), [[うかがい]] (ukagai)}}
+
+====Compounds====
+* [[伺う]] ([[うかがう]], [[ukagau]])
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|rv=sa|mr=sa}}
+
+# {{defn|lang=ko|sort=人05}}
+
+[[fr:伺]]
+[[ko:伺]]
+[[hu:伺]]
+[[mg:伺]]
+[[ja:伺]]
+[[no:伺]]
+[[pl:伺]]
+[[th:伺]]
+[[uk:伺]]
+[[zh:伺]]

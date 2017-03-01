@@ -1,0 +1,65 @@
+{{also|目标}}
+==Chinese==
+{{zh-forms|s=目标}}
+
+===Etymology===
+{{borrowing|zh|ja|-}} {{ja-r|目標|もくひょう}}.
+
+===Pronunciation===
+{{zh-pron
+|m=mùbiāo
+|ma=Zh-mùbiao.ogg
+|c=muk6 biu1
+|h=pfs=muk-phêu
+|mn=xm,qz,tw:bo̍k-piau/xm,qz,zz,twv:bo̍k-phiau
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[goal]], [[objective]], [[target]]
+
+====See also====
+* {{zh-l|目的}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|もく|ひょう|yomi=on}}
+
+===Noun===
+{{ja-noun|もくひょう}}
+
+# [[goal]], [[objective]], [[target]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=목표}}
+
+# {{hanja form of|목표|[[goal]], [[objective]], [[target]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|mục tiêu|[[goal]], [[objective]], [[target]]}}
+
+[[zh-min-nan:目標]]
+[[ko:目標]]
+[[hu:目標]]
+[[mg:目標]]
+[[ja:目標]]
+[[tl:目標]]
+[[chr:目標]]
+[[zh:目標]]

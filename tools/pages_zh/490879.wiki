@@ -1,0 +1,67 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dǐkàng
+|c=dai2 kong3
+|h=pfs=tí-khong
+|mn=té-khòng/tí-khòng
+|ma=Zh-dikàng.ogg
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[resist]]
+
+===Noun===
+{{zh-noun}}
+
+# [[resistance]] {{gloss|the act of resisting, e.g. resisting an invasion}}
+
+====Synonyms====
+* {{zh-l|抵抗力}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てい|こう|yomi=on}}
+
+===Noun===
+{{ja-noun|ていこう}}
+
+# [[resistance]]
+# (''electric'') [[resistance]]
+# (''electrical device'') [[resistor]]
+
+====Compounds====
+* {{ja-r|抵抗器|ていこうき}}: (''electrical device'') [[resistor]]
+* {{ja-r|抵抗力|ていこうりょく}}: [[ability]] of [[resistance]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|ていこう}}
+
+# [[resist]]
+
+====Conjugation====
+{{ja-suru|ていこう}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=저항}}
+
+# {{hanja form of|저항|[[resistance]]}}
+
+[[zh-min-nan:抵抗]]
+[[ko:抵抗]]
+[[hu:抵抗]]
+[[mg:抵抗]]
+[[ja:抵抗]]
+[[chr:抵抗]]
+[[zh:抵抗]]

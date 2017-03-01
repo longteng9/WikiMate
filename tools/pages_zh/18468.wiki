@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|歼|殱}}
+==Translingual==
+{{Han simplified forms|殲|殱|歼}}
+
+===Han character===
+{{Han char|rn=78|rad=歹|as=17|sn=21|four=13250|canj=MNOIM|ids=⿰歹韱}}
+
+====References====
+* {{Han ref|kx=0584.110|dkj=16608|dj=0977.010|hdz=21396.100|uh=6BB2|ud=27570|bh=C4E8|bd=50408}}
+
+----
+
+==Chinese==
+{{zh-forms|s=歼}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|歹|韱|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jiān
+|c=cim1
+|mn=qz,xm,zz:chhiam/qz,xm:chiam
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[annihilate]], [[wipe out]], [[kill off]]
+
+====Compounds====
+{{zh-der|殲擊|殲擊機|殲滅|殲滅戰}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=歹17}}
+
+# {{defn|lang=ja|sort=歹17}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen)|kun=[[つくす]] (tsukusu), [[ほろぼす]] (horobosu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=섬|eumhun=|rv=seom|mr=sŏm|y=sem}}
+
+# {{defn|lang=ko|sort=歹17}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=歹17| hanviet = tiêm}}
+
+# {{defn|lang=vi|sort=歹17}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6bb2 Nom Foundation]
+
+[[fr:殲]]
+[[ko:殲]]
+[[hu:殲]]
+[[ja:殲]]
+[[pl:殲]]
+[[th:殲]]
+[[zh:殲]]

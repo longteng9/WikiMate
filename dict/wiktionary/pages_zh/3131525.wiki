@@ -1,0 +1,33 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiàjiè
+|c=haa6 gaai3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[nether world]]
+# {{lb|zh|mathematics}} lower [[bound]]
+
+====Antonyms====
+* {{zh-l|上界}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|げ|かい|yomi=o}}
+
+===Noun===
+{{ja-noun|げかい}}
+
+# [[nether world]]
+# {{lb|ja|mathematics|sort=けかい'}} lower [[bound]]
+
+[[ko:下界]]
+[[lo:下界]]
+[[zh:下界]]

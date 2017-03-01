@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|澱}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=08|sn=11|four=33181|canj=EJMO|ids=⿰氵定}}
+
+# [[shallow]] [[water]], [[swamp]]
+# [[swampy]]
+
+====References====
+* {{Han ref|kx=0628.280|dkj=17610|dj=1030.170|hdz=31661.020|uh=6DC0|ud=28096|bh=D5E0|bd=54752}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|澱}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=diàn
+|c=din6
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:twedu|B02125}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=水08}}
+
+# {{defn|lang=ja|sort=水08}}
+
+====Readings====
+* {{ja-readings|on=[[てん]] (ten), [[でん]] (den)|kun=[[よど]] (yodo), [[よどむ]] (yodomu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=정|eumhun=|rv=jeong|mr=chŏng|y=ceng}}
+
+# {{defn|lang=ko|sort=水08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水08| hanviet = điện}}
+
+# {{defn|lang=vi|sort=水08}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6dc0 Nom Foundation]
+
+[[fr:淀]]
+[[hu:淀]]
+[[mg:淀]]
+[[ja:淀]]
+[[no:淀]]
+[[pl:淀]]
+[[th:淀]]
+[[zh:淀]]

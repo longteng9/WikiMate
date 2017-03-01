@@ -1,0 +1,44 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=mòwěi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[end]]; [[end]] part of something
+
+====Derived terms====
+{{zh-der|三梢末尾|末尾三梢|末尾三稍}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|まつ|び|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|まつび|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|まつび}}
+
+# [[end]], [[tail]]
+
+====Antonyms====
+* {{ja-r|先頭|せんとう}}
+
+====Derived terms====
+* {{ja-r|末尾再帰|まつびさいき|gloss=[[tail recursion]]}}
+* {{ja-r|末尾呼び出し|まつびよびだし|gloss=[[tail call]]}}
+
+===References===
+<references/>
+
+[[ko:末尾]]
+[[mg:末尾]]
+[[chr:末尾]]
+[[zh:末尾]]

@@ -1,0 +1,100 @@
+{{character info/new}}
+{{also|郷|鄉|乡}}
+==Translingual==
+{| class="floatright" border=1 cellpadding="5" cellspacing="0"
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Simplified Chinese|Simplified]]'''
+|<span class="Hans" lang="zh-hans" style="font-size: 175%">[[乡]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Traditional Chinese|Traditional]]'''
+|<span class="Hant" lang="zh-hant" style="font-size: 175%">[[鄉]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Japanese]]'''
+|<span class="Jpan" lang="jp" style="font-size: 175%">[[郷]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Korean]]'''
+|<span class="Hant" lang="zh-Hant" style="font-size: 175%">[[鄕]]</span>
+|}
+
+===Han character===
+{{Han char|rn=163|rad=邑|as=10|sn=13|four=|canj=VHHPL|ids=⿲乡皀⻏}}
+
+# [[country]], [[rural]]
+# [[hometown]]
+# [[native]] [[place]], [[home]] [[village]]
+
+====References====
+* {{Han ref|kx=1275.290|dkj=39571|hdz=63790.091|uh=9115|ud=37141}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=hoeng1|y=heung1}}
+
+# {{defn|lang=yue|sort=邑10}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=邑10}}
+
+# [[village]]
+# [[hometown]]
+# [[countryside]], [[country]]
+
+====Readings====
+{{ja-readings
+|goon=[[こう]] (kō), (''historical'') [[かう]] (kau)
+|kanon=[[きょう]] (kyō), (''historical'') [[きゃう]] (kyau)
+|kanyo=[[ごう]] (gō)
+|kun=[[さと]] (sato)
+}}
+
+====Usage notes====
+Non-[[w:Jōyō kanji|Jōyō]] alternate for [[郷]]. Rarely used.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[향]]|eumhun=|rv=hyang|mr=hyang|y=hyang}}
+
+# [[country]], [[village]]
+
+====Compounds====
+* [[鄕札]] ([[향찰]], hyangchal)
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[xiāng]] ([[xiang1]])|wg=hsiang<sup>1</sup>}}
+
+# {{defn|lang=cmn|sort=邑10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hương]]|rs=邑10}}
+
+# {{defn|lang=vi|sort=邑10}}
+
+[[fr:鄕]]
+[[ko:鄕]]
+[[hu:鄕]]
+[[ja:鄕]]
+[[pl:鄕]]
+[[th:鄕]]
+[[zh:鄕]]

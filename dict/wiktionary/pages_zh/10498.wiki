@@ -1,0 +1,282 @@
+{{character info/new}}
+{{also|亁|干}}
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|倝|乙|c1=p|c2=s|ls=psc}}.
+
+===Han character===
+{{Han char|rn=5|rad=乙|as=10|sn=11|four=48417|canj=JJON|ids=⿰𠦝乞}}
+
+===References===
+* {{Han ref|kx=0084.250|dkj=00204|dj=0172.010|hdz=10056.100|uh=4E7E|ud=20094|bh=B0AE|bd=45230}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|s=干|alt=亁,乹}}
+
+From {{inh|zh|sit-pro|*kan||dry, dry up}}. Cognate with {{cog|my|ခန်း||to dry up, to evaporate}}.
+
+====Pronunciation====
+{{zh-pron
+|m=gān
+|c=gon1
+|h=pfs=kôn
+|mn=kan/koaⁿ
+|mn_note=kan - literary; koaⁿ - vernacular
+|w=1koe
+|mc=1
+|oc=1,1
+|cat=a,adv
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[dry]]
+#: {{zh-x|我 喉嚨 很 乾{gān}。|My throat feels '''dry'''.}}
+# [[clean]]
+#: {{zh-x|乾{gān}淨|clean}}
+# [[adoptive]]; [[foster]]
+# [[in vain]]; for nothing
+
+====Compounds====
+{{der3|title=Compounds
+|{{zh-l|豆乾|dried tofu}}
+|{{zh-l|乾巴|insipid}}
+|{{zh-l|乾巴巴|insipid}}
+|{{zh-l|乾板|dry plate}}
+|{{zh-l|乾杯|cheers}}
+|{{zh-l|乾貝|dried scallop}}
+|{{zh-l|乾癟|dry and shrivelled}}
+|{{zh-l|乾冰|dry ice}}
+|{{zh-l|乾菜|dried vegetable}}
+|{{zh-l|乾草|hay}}
+|{{zh-l|乾柴烈火|blazing fire and dry wood}}
+|{{zh-l|乾脆|clear-cut}}
+|{{zh-l|乾急|anxious but unable to do anything}}
+|{{zh-l|乾打雷，不下雨|thunder but no rain}}
+|{{zh-l|乾瞪眼|look on in despair}}
+|{{zh-l|乾電池|dry cell}}
+|{{zh-l|乾爹|godfather}}
+|{{zh-l|乾兒子|godson}}
+|{{zh-l|乾飯|cooked rice}}
+|{{zh-l|乾肥|dried manure}}
+|{{zh-l|乾粉|dried vermicelli}}
+|{{zh-l|乾股|stock dividend}}
+|{{zh-l|乾果|dry fruit}}
+|{{zh-l|乾咳|dry cough}}
+|{{zh-l|乾寒|dry and cold}}
+|{{zh-l|乾旱|drought}}
+|{{zh-l|乾號}}, {{zh-l|乾嚎|pretending to howl}}
+|{{zh-l|乾涸|dry up}}
+|{{zh-l|乾花|dried flower}}
+|{{zh-l|乾灰|lime}}
+|{{zh-l|乾貨|dried fruits and nuts}}
+|{{zh-l|乾季|dry season}}
+|{{zh-l|乾結|dry and hard}}
+|{{zh-l|乾淨|clean}}
+|{{zh-l|乾淨利落|as neat as pin}}
+|{{zh-l|乾渴|thirsty}}
+|{{zh-l|乾枯|dried-up}}
+|{{zh-l|乾哭|cry without tears}}
+|{{zh-l|乾酪|cheese}}
+|{{zh-l|乾冷|dry and cold}}
+|{{zh-l|乾禮}}, {{zh-l|乾禮兒|monetary gift}}
+|{{zh-l|乾糧|food prepared for journey}}
+|{{zh-l|乾裂|seasoning crack}}
+|{{zh-l|乾餾|dry distillation}}
+|{{zh-l|乾媽|godmother}}
+|{{zh-l|乾妹子|godsister}}
+|{{zh-l|乾娘|godmother}}
+|{{zh-l|乾女兒|goddaughter}}
+|{{zh-l|乾嘔|to retch}}
+|{{zh-l|乾親|nominal kinship}}
+|{{zh-l|乾親家}}
+|{{zh-l|乾澀|dry and coarse}}
+|{{zh-l|乾屍|mummy}}
+|{{zh-l|乾瘦|skinny}}
+|{{zh-l|乾爽|dry and crisp}}
+|{{zh-l|乾絲|dried bean curd}}
+|{{zh-l|乾鬆|dry and loose}}
+|{{zh-l|乾嗽|dry cough}}
+|{{zh-l|乾洗|dry cleaning}}
+|{{zh-l|乾笑|hollow laugh}}
+|{{zh-l|乾薪|salary drawn for a sinecure}}
+|{{zh-l|乾性油|dry oil}}
+|{{zh-l|乾血漿|dry plasma}}
+|{{zh-l|乾咽|to swallow dry food}}
+|{{zh-l|乾燥|dry}}
+|{{zh-l|乾燥劑|desiccant}}
+|{{zh-l|乾燥箱|desiccator}}
+|{{zh-l|乾着急|anxious but unable to do anything}}
+|{{zh-l|乾皺|kraurosis}}
+}}
+
+===Etymology 2===
+{{zh-forms|alt=乹}}
+
+From {{inh|zh|sit-pro|*m-ka-n||heaven, sky, sun}}. Cognate with {{cog|bo|མཁའ}}, {{m|bo|ནམ་མཁའ||sky, heaven}}.
+
+====Pronunciation====
+{{zh-pron
+|m=qián
+|ma=y
+|c=kin4
+|mn=qz:kiân/tw,xm,zz:khiân
+|h=pfs=khièn
+|mc=2
+|oc=2,2
+|cat=n,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# One of the Eight [[trigram|Trigrams]] ([[☰]]).
+#: {{zh-x|乾[乾]道|ways of heaven; natural law}}
+# {{†}} [[sky]]; [[heaven]]
+# {{†}} [[sun]]
+# {{†}} [[emperor]]
+# {{†}} [[man]], [[male]]
+# {{surname|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=乙10}}
+
+# [[northwest]]
+# [[dehydrate]]
+# [[arid]]
+# [[drought]]
+# [[imbibe]]
+# [[paradise]]
+# [[the]] [[emperor]]
+
+====Readings====
+* {{ja-readings|goon=[[かん]] (kan), [[げん]] (gen)|kanon=[[かん]] (kan), [[けん]] (ken)|kun=[[かわく]] (kawaku), [[かわかす]] (kawakasu), [[いぬい]] (inui)}}
+
+===Noun===
+{{ja-noun|いぬい|hhira=いぬゐ}}
+
+# {{lb|ja|obsolete|sort=いぬい}} northwest
+
+===Proper noun===
+{{ja-pos|いぬい|proper|hhira=いぬゐ}}
+
+# {{surname|lang=ja|sort=いぬい}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[건]], [[간]]|rv=geon, gan|mr=kŏn, kan}}
+
+# ([[하늘]] 건, ''haneul-''): [[sky]]
+# ([[건괘]] 건, ''geon-gwae-''): {{lang|und|sc=Latinx|☷}} or the 1st of the Eight Trigrams ({{lang|und|sc=Latinx|☰☱☲☳☴☵☶☷}} or [[w:Ba gua (concept)|八卦]] ([[팔괘]], ''palgwae''))
+# ([[임금]] 건, ''im-geum-''): [[king]]
+# ([[마르다|마를]] 건, ''mareul-''): to be [[dry]]
+
+====Synonyms====
+* {{l|ko|天}} ([[천]], ''cheon'')
+* {{l|ko|干}} ([[간]], ''gan'') (''translingual; simplified hanzi for'' 乾)
+
+====Antonyms====
+* {{l|ko|坤}} ([[곤]], ''gon'')
+* {{l|ko|地}} ([[지]], ''gi'') [[earth]]
+* {{l|ko|濕}} ([[습]], ''seup'') [[wet]]
+
+===See also===
+<big> [[w:Ba gua (concept)|八卦]] </big> ([[팔괘]], ''palgwae'')
+<ul>
+{| class=wikitable
+|-
+| 7+0=111+000 (U+2630)*
+| {{lang|und|sc=Latinx|☰}}
+| [[乾]]
+| [[天]]
+| [[sky]]
+|-
+| 6+1=110+001 (U+2631)
+| {{lang|und|sc=Latinx|☱}}
+| [[兌]]
+| [[澤]]
+| [[marsh]]
+|-
+| 5+2=101+010 (U+2632)
+| {{lang|und|sc=Latinx|☲}}
+| [[離]]
+| [[火]]
+| [[fire]]
+|-
+| 4+3=100+011 (U+2633)
+| {{lang|und|sc=Latinx|☳}}
+| [[震]]
+| [[雷]]
+| [[thunder]]
+|-
+| 3+4=011+100 (U+2634)
+| {{lang|und|sc=Latinx|☴}}
+| [[巽]]
+| [[風]]
+| [[wind]]
+|-
+| 2+5=010+101 (U+2635)
+| {{lang|und|sc=Latinx|☵}}
+| [[坎]]
+| [[水]]
+| [[water]]
+|-
+| 1+6=001+110 (U+2636)
+| {{lang|und|sc=Latinx|☶}}
+| [[艮]]
+| [[山]]
+| [[mountain]]
+|-
+| 0+7=000+111 (U+2637)
+| {{lang|und|sc=Latinx|☷}}
+| [[坤]]
+| [[地]]
+| [[earth]]
+|}
+[*] Decimal pair=Binary pair (Codepoint). (The solid bar "—" of the Trigrams may be assigned to the binary number "1", while the split bar "--" to "0".)
+</ul>
+
+[[Category:Hanja readings|건]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kiền]], [[cạn]], [[can]], [[càn]], [[khan]], [[gàn]], [[phạm]]|rs=乙10}}
+
+# {{defn|lang=vi|sort=乙10}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e7e Nom Foundation]
+
+[[zh-min-nan:乾]]
+[[fr:乾]]
+[[ko:乾]]
+[[id:乾]]
+[[hu:乾]]
+[[mg:乾]]
+[[ms:乾]]
+[[fj:乾]]
+[[ja:乾]]
+[[no:乾]]
+[[pl:乾]]
+[[th:乾]]
+[[chr:乾]]
+[[uk:乾]]
+[[vi:乾]]
+[[zh:乾]]

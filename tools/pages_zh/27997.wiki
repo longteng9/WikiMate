@@ -1,0 +1,60 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=07|sn=14|four=42801|canj=QLRYO}}
+
+# {{defn|Han|sort=足07}}
+
+====References====
+* {{Han ref|kx=1226.320|dkj=37570|hdz=63707.110|uh=8E05|ud=36357|bh=E460|bd=58464}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chì,xué
+|c=ci3,cyut3,zit3,zai6,jyut6,zyut6
+|mn=se̍h
+|mc=
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一踅頭|乜乜踅踅|打踅|打踅磨|盤踅|踅探|踅回|踅來踅去|踅摸|踅子|踅門瞭戶|踅轉}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=足07}}
+
+# {{defn|lang=ja|sort=足07}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei), [[せつ]] (setsu), [[ぜち]] (zechi)|kun=[[けんけん]] (kenken)}}
+
+[[zh-min-nan:踅]]
+[[fr:踅]]
+[[hu:踅]]
+[[mg:踅]]
+[[pl:踅]]
+[[th:踅]]
+[[zh:踅]]

@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms|type=2}}
+
+===Pronunciation===
+{{zh-pron
+|m=niánxiàn
+|c=nin4 haan6
+|h=pfs=ngièn-han
+|mn=nî-hān
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[age limit]]
+# [[fixed]] number of years
+----
+==Japanese==
+{{ja-kanjitab|ねん|げん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ねんげん|y=o}}
+
+===Noun===
+{{ja-noun|ねんげん}}
+
+# [[term]] {{gloss|period of time, time limit}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=연한}}
+
+# {{hanja form of|연한|}}
+
+[[zh-min-nan:年限]]
+[[ko:年限]]
+[[mg:年限]]
+[[zh:年限]]

@@ -1,0 +1,63 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=78|rad=歹|as=09|sn=13|four=17214|canj=MNMEM,MNNEM|ids=⿰歹亟}}
+
+====References====
+* {{Han ref|kx=0582.080|dkj=16517|dj=0975.090|hdz=21391.020|uh=6B9B|ud=27547|bh=DDFB|bd=56827}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jí
+|c=gik1
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[put to death]]
+# to [[imprison]] for [[life]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=歹09}}
+
+# {{defn|lang=ja|sort=歹09}}
+
+====Readings====
+* {{ja-readings|on=[[きょく]] (kyoku), [[こく]] (koku)|kun=[[ころす]] (korosu)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=歹09| hanviet = cức}}
+
+# {{defn|lang=vi|sort=歹09}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6b9b Nom Foundation]
+
+[[fr:殛]]
+[[hu:殛]]
+[[mg:殛]]
+[[pl:殛]]
+[[th:殛]]
+[[zh:殛]]

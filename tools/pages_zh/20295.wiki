@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=88|rad=父|as=06|sn=10|four=80207|canj=CKNIN|ids=⿱父多}}
+
+====References====
+* {{Han ref|kx=0690.040|dkj=19727|dj=1103.040|hdz=32040.030|uh=7239|ud=29241|bh=AF52|bd=44882}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|父|多|c1=s|c2=p|t1=father|ls=psc}}.
+
+===Etymology===
+{{rfe|lang=zh}}
+
+====Pronunciation====
+{{zh-pron
+|m=diē
+|m-s=die1
+|c=de1
+|mn=tia
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[father]], [[dad]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=父06}}
+
+# {{defn|lang=ja|sort=父06}}
+
+====Readings====
+* {{ja-readings|on=[[た]] (ta), [[だ]] (da)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=다|eumhun=|rv=da|mr=ta|y=ta}}
+
+# {{defn|lang=ko|sort=父06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=父06|hanviet=[[ta]], [[đa]]}}
+
+# {{defn|lang=vi|sort=父06}}
+
+[[fr:爹]]
+[[hu:爹]]
+[[mg:爹]]
+[[fj:爹]]
+[[no:爹]]
+[[pl:爹]]
+[[th:爹]]
+[[chr:爹]]
+[[vi:爹]]
+[[zh:爹]]

@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=27220|canj=OPR|ids=⿰亻句}}
+
+# [[rickets]]
+
+====References====
+* {{Han ref|kx=0099.100|dkj=00520|dj=0211.020|hdz=10137.060|uh=4F5D|ud=20317|bh=A746|bd=42822}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gōu,kòu
+|c=kau3,keoi1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人05}}
+
+# {{defn|lang=ja|sort=人05}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[く]] (ku)|kun=[[せむし]] (semushi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|rv=gu|mr=ku}}
+
+# {{defn|lang=ko|sort=人05}}
+
+[[fr:佝]]
+[[ko:佝]]
+[[li:佝]]
+[[hu:佝]]
+[[mg:佝]]
+[[ja:佝]]
+[[pl:佝]]
+[[th:佝]]
+[[vi:佝]]
+[[zh:佝]]

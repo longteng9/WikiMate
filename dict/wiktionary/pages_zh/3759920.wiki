@@ -1,0 +1,111 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|sort=もめん|yomi=irr}}
+Alteration of ''mokumen''.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|もめん|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|もめん}}
+
+# [[cotton]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|伊勢木綿|いせもめん}}
+* {{ja-r|岩槻木綿|いわつきもめん}}
+* {{ja-r|鬱金木綿|うこんもめん|[[cotton]] [[dye]]d with [[turmeric]]}}
+* {{ja-r|漆木綿|うるしもめん}}
+* {{ja-r|上総木綿|かずさもめん}}
+* {{ja-r|河内木綿|かわちもめん}}
+* {{ja-r|生木綿|きもめん}}
+* {{ja-r|晒し木綿|さらしもめん}}
+* {{ja-r|白木綿|しろもめん}}
+* {{ja-r|千草木綿|ちぐさもめん}}
+* {{ja-r|知多木綿|ちたもめん}}
+* {{ja-r|天竺木綿|てんじくもめん|thickly woven [[cotton]] [[sheet]]ing}}
+* {{ja-r|唐木綿|とうもめん}}
+* {{ja-r|南京木綿|なんきんもめん}}
+* {{ja-r|花色木綿|はないろもめん}}
+* {{ja-r|解し木綿|ほつしもめん}}
+* {{ja-r|帆木綿|ほもめん|[[cotton]] [[canvas]]}}
+* {{ja-r|松坂木綿|まつさかもめん}}
+* {{ja-r|三河木綿|みかわもめん}}
+* {{ja-r|真岡木綿|もおかもめん}}
+* {{ja-r|木綿糸|もめんいと}}
+* {{ja-r|木綿織り|もめんおり}}
+* {{ja-r|木綿蔓|もめんづる}}
+* {{ja-r|木綿豆腐|もめんどうふ}}
+* {{ja-r|木綿錦|もめんにしき}}
+* {{ja-r|木綿幅|もめんはば}}
+* {{ja-r|木綿針|もめんばり}}
+* {{ja-r|木綿綿|もめんわた}}
+* {{ja-r|結城木綿|ゆうきもめん}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|き|わた|yomi=k}}
+Compound of {{compound|lang=ja|sort=きわた|木|tr1=ki|t1=tree|綿|tr2=wata|t2=batting}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|きわた|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|きわた}}
+
+# [[cotton]]
+
+===Etymology 3===
+{{ja-kanjitab|sort=ゆう|yomi=irr}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|ゆう|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|ゆう|hhira=ゆふ}}
+
+# string made of mulberry bark fibres
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|虚木綿の|うつゆう の}}
+* {{ja-r|白木綿|しらゆう}}
+* {{ja-r|染め木綿|そめゆう}}
+* {{ja-r|浜木綿|はまゆう}}
+* {{ja-r|真麻木綿|まそゆう}}
+* {{ja-r|木綿鹿毛|ゆうかげ}}
+* {{ja-r|木綿鬘|ゆうかずら}}
+* {{ja-r|木綿肩衣|ゆうかたぎぬ}}
+* {{ja-r|木綿四手|ゆうしで}}, {{ja-r|木綿垂|ゆうしで}}
+* {{ja-r|木綿襷|ゆうだすき}}
+* {{ja-r|木綿畳|ゆうだたみ}}
+* {{ja-r|木綿付け鳥|ゆうつけどり}}
+* {{ja-r|木綿裹み|ゆうづつみ}}
+* {{ja-r|木綿花|ゆうはな}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Mallow subfamily plants|もめん]]
+[[Category:ja:Fibers|もめん]]
+[[Category:ja:Textiles|もめん]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=목면}}
+
+# {{hanja form of|목면|[[cotton]]}}
+
+[[ko:木綿]]
+[[lo:木綿]]
+[[hu:木綿]]
+[[mg:木綿]]
+[[zh:木綿]]

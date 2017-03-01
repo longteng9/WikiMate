@@ -1,0 +1,32 @@
+{{also|校內}}
+==Chinese==
+{{zh-see|校內}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|こう|ない}}
+
+===Etymology===
+{{IPAchar|/kaunai/}} → {{IPAchar|/kɔːnai/}} → {{IPAchar|/koːnai/}}
+
+From {{etyl|ltc|ja|sort=こうない}} compound {{m|zh|校内|tr=kau<sup>H</sup> nwoj<sup>H</sup>|lit=school + inside}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|こうない|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|こうない|hhira=かうない|kyu=校內}}
+
+# the [[interior]] of a [[school]]:
+## the [[inside]] of a school [[building]]
+## the [[area]] [[within]] or [[on]] a school [[campus]]
+
+====Usage notes====
+When used attributively, sometimes translated as {{m|en|intramural}}.
+
+====Antonyms====
+* {{ja-r|校外|こうがい}}
+
+===References===
+<references/>

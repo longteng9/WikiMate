@@ -1,0 +1,53 @@
+{{also|缓和}}
+==Chinese==
+{{zh-forms|s=缓和}}
+
+===Pronunciation===
+{{zh-pron
+|m=huǎnhé
+|c=wun6 wo4
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[alleviate]], to [[mitigate]], to [[ease up]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|わ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|かんわ|yomi=o}}
+
+===Noun===
+{{ja-noun|かんわ}}
+
+# [[relaxation]], [[lessening]] in [[amount]], [[alleviation]]
+
+===Verb===
+{{ja-verb-suru|tr=both|かんわ}}
+
+# [[lessen]] in [[amount]], [[alleviate]], [[ease up]]
+#: {{ja-usex|寒さが'''緩和'''された。|さむさ が '''かんわ''' された。|It got less cold.}}
+
+====Conjugation====
+{{ja-suru|かんわ}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=완화}}
+
+# {{hanja form of|완화}}
+
+[[ko:緩和]]
+[[hu:緩和]]
+[[mg:緩和]]
+[[ja:緩和]]
+[[sv:緩和]]
+[[chr:緩和]]
+[[zh:緩和]]

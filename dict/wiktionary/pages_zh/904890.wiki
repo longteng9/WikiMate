@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|とん|しゃ|yomi=o}}
+
+===Etymology===
+{{suffix|豚|tr1=ton|t1=pig|舎|tr2=sha|t2=house|lang=ja|sort=とんしゃ}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|とんしゃ|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|とんしゃ}}
+
+# [[pigsty]] {{gloss|enclosure where pigs are kept}}
+
+====Synonyms====
+* {{sense|enclosure where pigs are kept}} {{ja-r|豚小屋|ぶたごや}}
+
+====Coordinate terms====
+* {{ja-r|犬小屋|いぬごや}}: [[kennel]], [[doghouse]]
+* {{ja-r|牛舎|ぎゅうしゃ}}: [[cowshed]], [[byre]], [[cattle]] [[barn]]
+* {{ja-r|鳥籠|とりかご}}: [[birdcage]]
+
+===References===
+<references/>
+
+[[Category:ja:Pigs|とんしゃ]]
+
+[[ja:豚舎]]

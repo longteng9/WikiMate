@@ -1,0 +1,16 @@
+{{also|系统托盘}}
+==Chinese==
+{{zh-forms|s=系统托盘|type=22}}
+
+===Pronunciation===
+{{zh-pron
+|m=xìtǒng tuōpán
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|computing}} [[system tray]]
+
+{{zh-cat|Graphical user interface}}

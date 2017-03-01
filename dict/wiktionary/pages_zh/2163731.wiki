@@ -1,0 +1,29 @@
+==Chinese==
+{{zh-forms|type=23}}
+
+===Pronunciation===
+{{zh-pron
+|m=一cì fāngchéngshì
+|c=jat1 ci3 fong1 cing4 sik1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[first-order equation]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|いち|じ|ほう|てい|しき|yomi=on}}
+
+===Noun===
+{{ja-noun|いちじほうていしき}}
+
+# [[linear equation]]
+
+[[ko:一次方程式]]
+[[hu:一次方程式]]
+[[pt:一次方程式]]
+[[zh:一次方程式]]

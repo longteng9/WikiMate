@@ -1,0 +1,61 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=08|sn=12|four=63234|canj=ABIK|ids=⿰⿱日月犬}}
+
+# [[eat]] [[one]]'s [[fill]]
+
+====Derived terms====
+* {{l|mul|厭}}
+
+====References====
+* {{Han ref|kx=0713.100|dkj=20482|dj=1125.050|hdz=21351.050|uh=7312|ud=29458|bh=DA6D|bd=55917}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|甘|肰|c1=s|c2=s|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yàn,yān
+|c=ngaat3,aat3,jim3,jim2,jim1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|猒倦|猒猒}}
+
+===References===
+* {{R:twedu|B02542}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=犬08}}
+
+# {{defn|lang=ja|sort=犬08}}
+
+====Readings====
+* {{ja-readings|on=[[えん]] (en), [[おう]] (ō), [[よう]] (yō)|kun=[[あきる]] (akiru)}}
+
+[[fr:猒]]
+[[hu:猒]]
+[[pl:猒]]
+[[th:猒]]
+[[zh:猒]]

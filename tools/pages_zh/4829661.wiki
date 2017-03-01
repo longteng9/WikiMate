@@ -1,0 +1,56 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=yùshǔshǔ
+|c=juk6 suk6 syu2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[corn]]; [[maize]]
+
+====Synonyms====
+{{zh-dial|玉米}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Maize}}
+[[File:Zea_mays_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-283.jpg|thumb|250px|{{lang|ja|玉蜀黍}} (''tōmorokoshi''): a botanical illustration of the '''[[maize]]''' or '''[[corn]]''' plant.]]
+</div>
+{{ja-kanjitab|yomi=irr|sort=とうもろこし}}
+
+===Etymology===
+{{IPAchar|/taumorokoɕi/}} → {{IPAchar|/tɔːmorokoɕi/}} → {{IPAchar|/toːmorokoɕi/}}
+
+Originally a compound of {{compound|lang=ja|sort=とうもろこし|唐|tr1=tō|t1=Tang Dynasty; China in general; {{qualifier|by extension}} foreign|蜀黍}} or {{m|ja|唐黍|tr=morokoshi||sorghum}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> from the visual similarities between the sorghum and maize plants.
+
+The spelling is from {{etyl|zh|ja|sort=とうもろこし}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> and appears to be a compound of {{m|zh|玉||jade, jewel}} + {{m|zh|蜀黍|lit=Shu millet||sorghum}}. Compare modern {{etyl|cmn|-}} {{zh-l|玉蜀黍|tr=yùshǔshǔ|maize}}.
+
+===Pronunciation===
+{{ja-pron|yomi=irr|トウモロコシ|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|とうもろこし|トウモロコシ|hhira=たうもろこし}}
+
+# [[maize]], [[corn]] {{qualifier|especially [[corn on the cob]]}}
+
+=====Usage notes=====
+For loose-[[kernel]] [[corn]], the more common term in Japanese is {{ja-r|コーン}}.
+
+===References===
+<references/>
+
+[[fr:玉蜀黍]]
+[[ko:玉蜀黍]]
+[[hu:玉蜀黍]]
+[[mg:玉蜀黍]]
+[[ru:玉蜀黍]]
+[[sv:玉蜀黍]]
+[[zh:玉蜀黍]]

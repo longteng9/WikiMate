@@ -1,0 +1,50 @@
+{{also|旧式}}
+==Chinese==
+{{zh-forms|s=旧式}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiùshì
+|c=gau6 sik1
+|mn=kū-sek
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[old]]-[[style]], [[old-fashioned]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|きゅう|しき}}
+
+===Etymology===
+{{prefix|舊|式|lang=ja|t1=old|t2=style|sort=しき}}
+
+===Pronunciation===
+{{ja-pron|きゅうしき}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|きゅうしき|shin=旧式}}
+
+# {{kyujitai spelling of|旧式}}: [[old-fashioned]]
+
+===Noun===
+{{ja-noun|きゅうしき|shin=旧式}}
+
+# {{kyujitai spelling of|旧式|lang=ja}}: [[old]] [[style]], old [[type]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=구식}}
+
+# {{hanja form of|구식|old style}}
+
+[[zh-min-nan:舊式]]
+[[ko:舊式]]

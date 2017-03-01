@@ -1,0 +1,18 @@
+==Japanese==
+{{ja-kanjitab|こう|たい|ぎょう|れつ|yomi=on}}
+
+===Noun===
+{{ja-noun|こうたい ぎょうれつ}}
+
+# {{lb|ja|linear algebra}} [[skew-symmetric matrix]]
+
+====Synonyms====
+* {{l|ja|歪対称行列}}
+
+===See also===
+* {{l|ja|対称行列}}
+
+[[Category:ja:Linear algebra|こうたいぎょうれつ]]
+
+[[it:交代行列]]
+[[zh:交代行列]]

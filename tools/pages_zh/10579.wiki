@@ -1,0 +1,116 @@
+{{character info/new}}
+{{also|忈}}
+==Translingual==
+
+===Etymology===
+{{Han etym}}
+The ideograph shows man connecting heaven and earth.
+
+===Han character===
+{{Han char|rn=9|rad=人|as=02|sn=4|four=21210|canj=OMM|ids=⿰亻二}}
+
+====Descendants====
+* [[に]]
+* [[ニ]]
+
+====References====
+* {{Han ref|kx=0091.070|dkj=00349|dj=0193.010|hdz=10107.010|uh=4EC1|ud=20161|bh=A4AF|bd=42159}}
+
+[[Category:Han characters from which hiragana were derived|に]]
+[[Category:Han characters from which katakana were derived|ニ]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=rén
+|c=jan4
+|h=
+|mn=qz,tp,xm:lîn/kh,zz:jîn
+|w=
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[humaneness]], [[benevolence]], [[kindness]]
+
+====References====
+* (''Min Nan'') {{thcwd|577}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=人02}}
+
+# {{defn|lang=ja|sort=人02}}
+
+====Readings====
+* {{ja-readings|goon=[[に]] (''ni''), [[にん]] (''nin'')|kanon=[[じん]] (''jin'')|nanori=[[きみ]] (''kimi''), [[く]] (''ku''), [[さと]] (''sato''), [[しのぶ]] (''shinobu''), [[じ]] (''ji''), [[と]] (''to''), [[のり]] (''nori''), [[ひと]] (''hito''), [[ひとし]] (''hitoshi''), [[ひろ]] (''hiro''), [[ひろし]] (''hiroshi''), [[まこと]] (''makoto''), [[まさ]] (''masa''), [[まさし]] (''masashi''), [[やす]] (''yasu''), [[よし]] (''yoshi'')}}
+
+====Compounds====
+* {{ja-r|仁王|におう}}: the two guardian Deva kings
+* {{ja-r|仁義|じんぎ}}: humanity and justice
+* {{ja-r|仁愛|じんあい}}: benevolence, charity
+* {{ja-r|仁術|じんじゅつ}}: benevolence act
+* {{ja-r|仁義礼智信|じんぎれいちしん}}: the 5 Confucian virtues
+* {{ja-r|仁徳|じんとく}}: benevolence, goodness
+
+===Proper noun===
+{{ja-pos|ひとし|proper}}
+
+# {{given name|male|lang=ja}}
+
+{{ja-pos|じん|proper}}
+
+# {{given name|male|lang=ja}}
+
+{{ja-pos|まさし|proper}}
+
+# {{given name|male|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=인|rv=in|mr=in}}
+
+# {{defn|lang=ko|sort=人02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhân]], [[nhơn]]|rs=人02}}
+
+# {{defn|lang=vi|sort=人02}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4ec1 Nom Foundation]
+
+[[fr:仁]]
+[[ko:仁]]
+[[id:仁]]
+[[li:仁]]
+[[hu:仁]]
+[[mg:仁]]
+[[ms:仁]]
+[[ja:仁]]
+[[no:仁]]
+[[pl:仁]]
+[[ru:仁]]
+[[th:仁]]
+[[uk:仁]]
+[[vi:仁]]
+[[zh:仁]]

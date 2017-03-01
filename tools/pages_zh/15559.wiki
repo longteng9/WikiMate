@@ -1,0 +1,91 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=08|sn=12|four=11331|canj=LYP|ids=⿱非心}}
+
+# [[sorrow]], [[grief]]
+# [[sorry]], [[sad]]
+
+====References====
+* {{Han ref|kx=0388.370|dkj=10720|dj=0721.290|hdz=42310.040|uh=60B2|ud=24754|bh=B464|bd=46180}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bēi
+|c=bei1
+|h=pfs=pî
+|md=
+|mn=pi
+|mn-t=bui1
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[grief]], [[sorrow]]
+
+===References===
+* [http://twblg.dict.edu.tw/holodict_new/index.html Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=心08}}
+
+# sad
+
+====Readings====
+* {{ja-readings|goon=[[ひ]] (hi)|kanon=[[ひ]] (hi)|kun=[[かなしい]] ([[悲しい]], kanashii), [[かなしむ]] ([[悲しむ]], kanashimu), [[かなしみ]] ([[悲しみ]], kanashimi)}}
+
+====Compounds====
+* {{ja-r|悲劇|ひげき}}: tragedy
+* {{ja-r|悲鳴|ひめい}}: scream
+* {{ja-r|悲喜|ひき}}: joys and sorrows
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=비|eumhun=|rv=bi|mr=pi|y=pi}}
+
+# {{defn|lang=ko|sort=心08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bi]], [[bây]], [[bầy]], [[bay]]|rs=心08}}
+
+# {{defn|lang=vi|sort=心08}}
+
+====Compounds====
+* {{l|vi|悲𣇞|tr=[[bây giờ]]}}
+
+[[fr:悲]]
+[[ko:悲]]
+[[li:悲]]
+[[hu:悲]]
+[[mg:悲]]
+[[ja:悲]]
+[[no:悲]]
+[[pl:悲]]
+[[pt:悲]]
+[[th:悲]]
+[[zh:悲]]

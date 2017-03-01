@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=12|sn=16|four=72222|canj=BGTH|ids=⿰月彭}}
+
+# to [[swell]]
+# [[swollen]], [[bloated]], [[inflated]]
+
+====References====
+* {{Han ref|kx=0994.040|dkj=29861|dj=1445.190|hdz=32110.050|uh=81A8|ud=33192|bh=BFB1|bd=49073}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=péng
+|c=paang4
+|h=pfs=
+|md=
+|mn=phêng/qz:phn̂g
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=肉12}}
+
+# {{defn|lang=ja|sort=肉12}}
+
+====Readings====
+* {{ja-readings|on=[[ぼう]] (bō), [[ほう]] (hō)|kun=[[ふくらむ]] (fukuramu), [[ふくれる]] (fukureru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=팽|eumhun=|rv=paeng|mr=p'aeng|y=phayng}}
+
+# {{defn|lang=ko|sort=肉12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bành]]|rs=肉12}}
+
+# {{defn|lang=vi|sort=肉12}}
+
+[[fr:膨]]
+[[ko:膨]]
+[[hu:膨]]
+[[mg:膨]]
+[[ja:膨]]
+[[no:膨]]
+[[pl:膨]]
+[[th:膨]]
+[[zh:膨]]

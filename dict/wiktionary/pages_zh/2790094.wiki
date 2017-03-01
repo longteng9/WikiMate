@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhìzhǐ
+|c=zai3 zi2
+|h=pfs=chṳ-chṳ́
+|mn=qz,xm:chè-chí/zz:chì-chí
+|ma=Zh-zhìzhi.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[curb]]; to [[check]]; to [[stop]]; to [[prevent]]
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|し|yomi=on}}
+
+===Noun===
+{{ja-noun|せいし}}
+# [[constraint]], [[control]], [[check]], [[inhibition]], [[repression]]
+
+===Verb===
+{{ja-verb-suru|せいし}}
+# [[control]], [[restrain]]
+
+====Conjugation====
+{{ja-suru|せいし}}
+
+[[ko:制止]]
+[[hu:制止]]
+[[mg:制止]]
+[[ja:制止]]
+[[zh:制止]]

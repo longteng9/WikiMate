@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|谧}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=10|sn=17|four=03617|canj=YRPHT}}
+
+# [[calm]], [[quiet]], [[still]]
+# [[cautious]]
+
+====References====
+* {{Han ref|kx=1175.020|dkj=35803|dj=1639.190|hdz=64010.030|uh=8B10|ud=35600|bh=C1C4|bd=49604}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谧}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mì
+|c=mat6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|安謐|寧謐|恬謐|皇甫謐|謐如|謐爾|謐謐|謐靜|靜謐|靜謐無聲}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言10}}
+
+# {{defn|lang=ja|sort=言10}}
+
+====Readings====
+* {{ja-readings|on=[[ひつ]] (hitsu), [[びつ]] (bitsu)|kun=[[しずか]] (shizuka)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=밀|eumhun=|rv=mil|mr=mil|y=mil}}
+
+# {{defn|lang=ko|sort=言10}}
+
+[[fr:謐]]
+[[ko:謐]]
+[[hu:謐]]
+[[ja:謐]]
+[[pl:謐]]
+[[th:謐]]
+[[zh:謐]]

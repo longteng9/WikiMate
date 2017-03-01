@@ -1,0 +1,99 @@
+{{character info/new}}
+{{also|攷}}
+==Translingual==
+{{stroke order|strokes=6}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=125|rad=老|as=00|sn=6|four=44207|canj=JKYS|ids=⿱耂丂}}
+
+====References====
+* {{Han ref|kx=0960.270|dkj=28843|dj=1408.010|hdz=42779.020|uh=8003|ud=32771|bh=A6D2|bd=42706}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+Variant of {{och-l|老}} – {{Han compound|耂|t1=an old man with long hair, bent over|匕|t2=a cane|ls=ic}} – an old man, leaning on a cane. Compare top component to {{och-l|孝}}.
+
+Structurally related to {{och-l|老}}; the most commonly cited example of {{zh-l|*轉注|reciprocal meaning}}.
+
+===Pronunciation===
+{{zh-pron
+|m=kǎo
+|c=haau2
+|h=pfs=kháu
+|mn=khó
+|mc=y
+|oc=y
+|ma=
+|cat=v,n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} [[long-lived]]; [[elderly]]
+# {{†}} [[deceased]] [[father]]; posthumous name for [[male]] relations
+#* {{zh-x|祭 王父 曰 皇祖考，王母 曰 皇祖妣。父 曰 皇考，母 曰 皇妣。夫 曰 皇辟。生 曰 父、曰 母、曰 妻，死 曰 考、曰 妣、曰 嬪。|In sacrificing to them, a grandfather is called 'the [[皇|sovereign]] grand'''father''''; a grandmother, 'the sovereign grandmother'; a father, 'the sovereign '''father''''; a mother, 'the sovereign mother; a husband, 'the sovereign [[辟|pattern]].' While alive, the names of '[[父|father]]', '[[母|mother]]', and '[[妻|wife]]' are used; when they are dead, those of ''''the completed one'''', '[[妣|the corresponding one]]', and '[[嬪|the honored one]]'.|ref=Liji}}
+# to [[examine]]; to [[check]]
+# to [[consider]]
+#: {{zh-x|考慮|to consider}}
+# to [[study]]; to [[investigate]]
+# to [[test]]; to [[assess]]
+#: {{zh-x|考 考 你 的 數學 能力。|'''Testing''' your maths prowess.}}
+# to have a [[test]]; to have an [[exam]]
+#: {{zh-x|考試|to have a test; exam}}
+# [[exam]]; [[test]]
+
+===Compounds===
+{{zh-der|考查|考察|考古|考古學|考核|考究|考慮|考勤|考取|考試|考研|考驗|報考|丁等特考|三考|世事通考|丙等特考|主考|乙等特考|伯邑考|備考|先祖考|先考|准考證|切韻考|升等考試|參考|參考書|同考官|國家考試|壽考|大主考|大學聯考|大專聯考|大考|大考中心|如喪考妣|富貴壽考|導向思考|小考|希區考克|待考|循名考實|思考|應考|房考|打考|扣考|投考|抽考|招考|文獻通考|普考|普通考試|替考|會考|月考|朝考|期中考|期末考|期終考試|期考|查考|模擬考試|檢定考試|歲考|歷歷可考|段考|深稽博考|源流考|潁考叔|燕樂考源|特種考試|特考|王考|班班可考|甲等特考|留學考試|畢業考試|皇祖考|皇考|監考|盤考|祖考|科考|稽考|細考|經義考|缺考|考中|考亭|考亭學派|考信錄|考功|考區|考卷|考古圖|考古編|考古質疑|考古題|考名責實|考問|考堂|考場|考妣|考季|考官|考察團|考工令|考工記|考差|考徵|考成|考掠|考據|考據學|考旦|考期|考校|考格|考案畫|考棚|考槃|考檢|考求|考滿|考生|考異|考終|考績|考績幽明|考績黜陟|考考|考覈|考訂|考評|考試委員|考試權|考試院|考語|考論|考證|考運|考選|考釋|考量|考鏡|考院|考竟|考題|聯考|若喪考妣|補考|詢事考言|赴考|趕考|路考|逆向思考|通考|週考|道考|重考|銓定考試|鏡考|閉卷考|開卷考|阿爾考特|陪考|顯祖考|顯考|高普考|高等考試|高考|麥考萊}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=老00}}
+
+# [[thought]]
+# [[consideration]]
+
+====Readings====
+* {{ja-readings
+|goon=[[こう]] (kō), from [[かう]] (kau)|kanon=[[こう]] (kō), from [[かう]] (kau)
+|kun=[[かんがえる]] (kangaeru), [[かんがえ]] (kangae)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[고]]|eumhun=|rv=go|mr=ko|y=ko}}
+
+# {{defn|lang=ko|sort=老00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|khảo|rs=老00}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:考]]
+[[fr:考]]
+[[ko:考]]
+[[it:考]]
+[[hu:考]]
+[[mg:考]]
+[[ja:考]]
+[[no:考]]
+[[pl:考]]
+[[th:考]]
+[[uk:考]]
+[[zh:考]]

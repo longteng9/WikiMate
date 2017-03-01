@@ -1,0 +1,69 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chīmèi
+|c=ci1 mei6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# evil [[spirit]], [[demon]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|sort=すたま}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|すたま}}
+
+====Noun====
+{{ja-noun|すたま}}
+
+# a spirit or demon
+#* {{RQ:Wamyō Ruijushō|1|44}}
+#*: 魑魅 山海經云、魑、刃知反、和名'''須多万'''。[...]谷川氏曰、'''須多万'''、蓋棄魂之義、謂棄不祭之鬼也、鬼類也。
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|sort=すだま}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|すだま|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|すだま}}
+
+# a spirit or demon
+#* {{RQ:Wamyō Ruijushō|1|44}}
+#*: 魑魅 山海經云、魑、刃知反、和名'''須多万'''。[...]谷川氏曰、'''須多万'''、蓋棄魂之義、謂棄不祭之鬼也、鬼類也。
+
+===Etymology 3===
+{{ja-kanjitab|ち|み|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|ちみ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ちみ}}
+
+# a demon formed from the spirit of mountains and forests
+
+=====Derived terms=====
+* {{ja-r|魑魅魍魎|ちみもうりょう}}
+
+=====Related terms=====
+* {{ja-r|魔魅|まみ}}
+
+===References===
+<references/>
+:* {{R:Wamyō Ruijushō}}
+
+[[ja:魑魅]]
+[[zh:魑魅]]

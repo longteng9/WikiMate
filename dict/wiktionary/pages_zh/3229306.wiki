@@ -1,0 +1,34 @@
+==Chinese==
+{{zh-see|國學}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|こく|がく}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=こくがく}} compound {{m|zh|國學|tr=kwok hæwk||nation + learning}}. Compare modern traditional {{etyl|nan|-}} {{m|zh|國學|tr=kok-ha̍k}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|こくがく|acc=0|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|こくがく|kyu=國學}}
+
+# The [[study]] of ancient [[Japan]], particularly the early Japanese classics, such as the ''[[w:Nihon Shoki|Nihon Shoki]]'' and the ''[[w:Kojiki|Kojiki]]''. Arose during the [[w:Edo period|Edo period]] as a move away from the study of China.
+#: Note that this term means {{m|en|sinology}} in Chinese contexts.
+# [[school|School]]s established in the ''kuni'' or [[province]]s of Japan under the old ''[[w:Ritsuryō|Ritsuryō]]'' system.
+# In ancient China, schools established in the [[national]] [[capital]].
+
+====Derived terms====
+* {{ja-r|国学者|こくがくしゃ}}: a [[scholar]] of ancient Japanese studies
+
+====External links====
+* {{pedialite|lang=ja}}
+* {{pedialite|Kokugaku}}
+* {{pedialite|Ritsuryō}}
+
+===References===
+<references/>
+
+[[zh:国学]]

@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|鳜}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=12|sn=23|four=21382|canj=NFMTO}}
+
+# [[mandarin fish]]
+
+====References====
+* {{Han ref|kx=1478.210|dkj=46501|dj=2009.410|hdz=74713.050|uh=9C56|ud=40022|bh=C5ED|bd=50669}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鳜}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=guì,jué
+|c=gwai3,kyut3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|鱖豚|鱖魚}}
+
+===References===
+* {{R:twedu|A04713}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚12}}
+
+# {{defn|lang=ja|sort=魚12}}
+
+====Readings====
+* {{ja-readings|on=[[けい]] (kei), [[け]] (ke), [[けつ]] (ketsu), [[かち]] (kachi)|kun=[[さけ]] (sake)}}
+
+----
+
+==Korean==
+[[File:Siniperca scherzeriBMNHM.jpg|thumb|[[黃]][[鱖魚]] ([[黃|황]][[쏘가리]])]]
+
+===Hanja===
+{{ko-hanja|hangeul=[[궐]], [[궤]]|eumhun=|rv=gwol, gwe|mr=kwŏl, kwe|y=kwel, kwey}}
+
+# ([[쏘가리]] 궐) [[mandarin fish]]
+
+====Synonyms====
+* {{l|ko|鱖魚}} ([[궐어]], ''gwol-eo'')
+
+====Compounds====
+* [[鱖魚]] ([[궐어]], ''gwol-eo'') [[mandarin fish]]
+
+[[fr:鱖]]
+[[hu:鱖]]
+[[mg:鱖]]
+[[pl:鱖]]
+[[th:鱖]]
+[[zh:鱖]]

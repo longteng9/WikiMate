@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|骡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=11|sn=21|four=76393|canj=SFWVF}}
+
+# [[mule]]
+
+====References====
+* {{Han ref|kx=1444.110|dkj=44957|dj=1968.120|hdz=74575.020|uh=9A3E|ud=39486|bh=C55B|bd=50523}}
+
+----
+
+==Chinese==
+{{zh-forms|s=骡}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=luó
+|c=lo4,leoi4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬11}}
+
+# {{defn|lang=ja|sort=馬11}}
+
+====Readings====
+* {{ja-readings|goon=[[ら]] (ra)|kanon=[[ら]] (ra)|kun=[[らば]] (raba)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[라]]>[[나]]|eumhun=|rv=ra>na|mr=ra>na|y=la>na}}
+
+# {{defn|lang=ko|sort=馬11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[loa]], [[lừa]], [[la]]|rs=馬11}}
+
+# {{defn|lang=vi|sort=馬11}}
+
+[[fr:騾]]
+[[hu:騾]]
+[[mg:騾]]
+[[ja:騾]]
+[[pl:騾]]
+[[th:騾]]
+[[zh:騾]]

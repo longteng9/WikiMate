@@ -1,0 +1,60 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=13|sn=19|four=50137|canj=LIITC|ids=⿰虫廉}}
+
+# {{defn|Han|sort=虫13}}
+
+====References====
+* {{Han ref|kx=1100.060|dkj=33701|dj=1564.070|hdz=42898.070|uh=880A|ud=34826|bh=F2E7|bd=62183}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lián
+|c=lim4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+* {{zh-l|蜚蠊|[[cockroach]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫13}}
+
+# {{defn|lang=ja|sort=虫13}}
+
+====Readings====
+{{ja-readings|goon=[[れん]] (ren)|kanon=[[れん]] (ren)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|蜚蠊|ごきぶり}}: [[cockroach]]
+{{der-bottom}}
+
+[[fr:蠊]]
+[[hu:蠊]]
+[[mg:蠊]]
+[[ja:蠊]]
+[[pl:蠊]]
+[[th:蠊]]
+[[zh:蠊]]

@@ -1,0 +1,62 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=116|rad=穴|as=09|sn=14|four=30601|canj=JCYTA|ids=⿱穴音}}
+
+====References====
+* {{Han ref|kx=0866.590|dkj=25578|dj=1295.190|hdz=42736.020|uh=7AA8}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Alternative forms====
+* {{zh-l|堷}}
+
+====Pronunciation====
+{{zh-pron
+|m=yìn
+|c=jam3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n,a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# a [[cellar]], a [[storeroom]]
+# stored in such a cellar
+
+=====Synonyms=====
+* {{zh-l|地下室}}
+
+=====Derived terms=====
+* {{zh-l|地窨}}
+* {{zh-l|窨子}}
+* {{zh-l|窨藏}}
+
+===Etymology 2===
+{{zh-see|熏|v}}
+
+===Etymology 3===
+{{zh-see|響|v}}
+
+===References===
+* {{R:twedu|B03149}}
+* [http://www.yedict.com/htm/7A/7AA8.htm yedict.com (叶典)]
+
+[[fr:窨]]
+[[mg:窨]]
+[[pl:窨]]
+[[th:窨]]
+[[vi:窨]]
+[[zh:窨]]

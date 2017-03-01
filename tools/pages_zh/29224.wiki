@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|釡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=02|sn=10|four=80109|canj=CKMGC}}
+
+# [[cauldron]], [[pot]], [[kettle]]
+
+====References====
+* {{Han ref|kx=1296.080|dkj=40164|dj=1799.110|hdz=32039.080|uh=91DC|ud=37340|bh=B079|bd=45177}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǔ
+|c=fu2
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[釜底抽薪]]
+* [[釜底游鱼]]
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=金02}}
+
+# kettle, cauldron
+
+====Readings====
+* {{ja-readings|on=[[ふ]] (fu)|kun=[[かま]] (kama)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=부|eumhun=|rv=bu|mr=pu|y=pu}}
+
+# {{defn|lang=ko|sort=金02}}
+
+====Compounds====
+* [[釜山]] ([[부산]], Busan)
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phủ]]|rs=金02}}
+
+# {{defn|lang=vi|sort=金02}}
+
+[[fr:釜]]
+[[ko:釜]]
+[[lo:釜]]
+[[hu:釜]]
+[[mg:釜]]
+[[ja:釜]]
+[[pl:釜]]
+[[tl:釜]]
+[[th:釜]]
+[[vi:釜]]
+[[zh:釜]]

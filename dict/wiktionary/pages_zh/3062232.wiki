@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|ふ|つ|ごう|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|ふつごう}}
+
+# [[inconvenient]]
+# [[improper]], [[troublesome]]
+
+====Inflection====
+{{ja-na|ふつごう}}
+
+===Noun===
+{{ja-noun|ふつごう}}
+
+# [[inconvenience]]
+#: {{ja-usex|'''不都合'''なことがあればすぐお申し出ください。|'''ふつごう''' な こと が あれば すぐ おもうしで ください。|Please let us know whatever inconveniences you.}}
+# [[misconduct]], [[trouble]]
+
+===References===
+* {{R:Shogakukan}}
+
+[[mg:不都合]]
+[[ja:不都合]]
+[[zh:不都合]]

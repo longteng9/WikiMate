@@ -1,0 +1,36 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=cháochā
+|c=ciu4 caa1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[tidal]] [[range]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちょう|さ|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|ちょうさ|y=o}}
+
+===Noun===
+{{ja-noun|ちょうさ}}
+
+# [[tidal]] [[range]], [[tidal change]]
+
+====Derived terms====
+* {{l|ja|大潮差}}
+* {{l|ja|小潮差}}
+* {{l|ja|最大日潮差}} the [[maximum]] [[change]] of the [[daily]] [[tide]]
+* {{l|ja|日潮差}} [[daily]] [[tidal]] [[change]]
+* {{l|ja|平均潮差}} [[average]] of the [[tidal]] [[change]]
+
+[[zh:潮差]]

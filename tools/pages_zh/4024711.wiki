@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qǐyòng
+|c=hei2 jung6
+|mn=khí-iōng/qz,xm:khí-ēng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[reinstate]] {{gloss|someone}}
+# to [[appoint]] {{gloss|someone}} to an [[important]] [[position]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|き|よう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|きよう|yomi=o}}
+
+===Noun===
+{{ja-noun|きよう}}
+
+# [[promotion]] to a job
+
+===Verb===
+{{ja-verb-suru|tr=trans|きよう}}
+
+# to [[appoint]], to [[promote]]
+
+====Conjugation====
+{{ja-suru|きよう}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=기용}}
+
+# {{hanja form of|기용}}
+
+[[ko:起用]]
+[[ja:起用]]
+[[zh:起用]]

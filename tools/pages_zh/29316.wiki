@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|钴}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=05|sn=13|four=84160|canj=CJR}}
+
+# [[cobalt]]
+# household iron cobaltum
+
+====References====
+* {{Han ref|kx=1299.310|dkj=40270|dj=1802.120|hdz=64183.030|uh=9237|ud=37431|bh=B957|bd=47447}}
+
+----
+
+==Chinese==
+{{zh-forms|s=钴}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gǔ
+|c=gu2,gu1
+|mn=kó͘
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|鈷六十|鈷玻璃|鈷藍|鈷鉧|鈷鉧潭}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金05}}
+
+# {{defn|lang=ja|sort=金05}}
+
+====Readings====
+* {{ja-readings|kanon=[[こ]] (ko)|goon=[[く]] (ku)|on=[[ご]] (go)|kun=[[たつ]] (tatsu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|eumhun=|rv=go|mr=ko|y=ko}}
+
+# {{defn|lang=ko|sort=金05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cổ]], [[cỗ]]|rs=金05}}
+
+# {{defn|lang=vi|sort=金05}}
+
+[[zh-min-nan:鈷]]
+[[fr:鈷]]
+[[lt:鈷]]
+[[hu:鈷]]
+[[mg:鈷]]
+[[ja:鈷]]
+[[pl:鈷]]
+[[ro:鈷]]
+[[ru:鈷]]
+[[th:鈷]]
+[[zh:鈷]]

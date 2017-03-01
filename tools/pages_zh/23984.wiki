@@ -1,0 +1,71 @@
+{{character info/new}}
+{{also|羡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=123|rad=羊|as=07|sn=13|four=80182|canj=TGENO|ids=⿱𦍌㳄}}
+
+# [[envy]], [[admire]]
+# to [[praise]]
+# [[covet]]
+
+====References====
+* {{Han ref|kx=0952.310|dkj=28503|dj=1396.250|hdz=53134.100|uh=7FA8|ud=32680|bh=B872|bd=47218}}
+
+----
+
+==Chinese==
+{{zh-forms|s=羡}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiàn
+|c=sin6
+|mn=siān/qz:siǎn/tw,xm,zz:soān
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|企羨|個個稱羨|健羨|充羨|奇羨|曼羨|欣羨|欽羨|歆羨|歎羨|稱羨|羨慕|羨煞|羨財|羨餘|耗羨|臨川羨魚|臨河羨魚|臨淵羨魚|談羨|豔羨|陽羨|餘羨|驚羨}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=羊07}}
+
+# {{defn|lang=ja|sort=羊07}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen), [[えん]] (en)|kun=[[うらやむ]] (urayamu), [[うらやましい]] (urayamashii), [[あまり]] (amari)|nanori=}}
+
+====Compounds====
+* {{ja-r|羨ましい|うらやましい}}: jealous, envious
+* {{ja-r|羨む|うらやむ}}: to be jealous, to be envious
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[선]], [[연]]|eumhun=|rv=seon, yeon|mr=sŏn, yŏn|y=sen, yen}}
+
+# {{defn|lang=ko|sort=羊07}}
+
+[[fr:羨]]
+[[hu:羨]]
+[[ja:羨]]
+[[pl:羨]]
+[[th:羨]]
+[[zh:羨]]

@@ -1,0 +1,32 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiàfāng
+|c=haa6 fong1
+|mn=hā-hong
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[lower]] part; [[area]]/[[place]] below
+
+====Antonyms====
+* {{zh-l|上方}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|か|ほう|yomi=on}}
+
+===Noun===
+{{ja-noun|かほう}}
+
+# lower [[part]], an area below, [[downward]]
+#: {{ja-usex|予想を下方に修正する|よそう を かほう に しゅうせい する|revise expectations downward}}
+
+[[ja:下方]]
+[[zh:下方]]

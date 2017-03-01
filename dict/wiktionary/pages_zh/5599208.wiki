@@ -1,0 +1,17 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhěngchú
+|c=zing2 ceoi4
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|mathematics}} can be used to [[divide]] ... without giving a [[remainder]]; {{lb|zh|passive}} to be [[divisible]] by
+#: {{zh-x|12 可 被 4 整除。|12 is '''divisible by''' 4.}}
+
+[[zh:整除]]

@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|啗}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=08|sn=11|four=69089|canj=RFF|ids=⿰口炎}}
+
+# [[eat]], [[feed]]
+# [[chew]], [[bite]]
+# [[entice]]
+
+====References====
+* {{Han ref|kx=0196.030|dkj=03824|dj=0417.040|hdz=10646.010|uh=5556|ud=21846|bh=B0DC|bd=45276}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=噉}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàn
+|c=daam6
+|mn=tam
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|倒啖蔗|啖蔗|大啖一番|啖食|啖噬|啖名|啖指咬舌|拔葵啖棗|飽啖一頓|餐松啖柏}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口08}}
+
+# {{defn|lang=ja|sort=口08}}
+
+====Readings====
+* {{ja-readings|goon=[[だん]] (dan)|kanon=[[たん]] (tan)|kun=[[くう]] (kuu), [[くらわす]] (kurawasu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=담|rv=dam|mr=tam}}
+
+# {{defn|lang=ko|sort=口08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dạm]], [[đạm]], [[giảm]]|rs=口08}}
+
+# {{defn|lang=vi|sort=口08}}
+
+[[zh-min-nan:啖]]
+[[fr:啖]]
+[[li:啖]]
+[[hu:啖]]
+[[mg:啖]]
+[[ja:啖]]
+[[pl:啖]]
+[[th:啖]]
+[[zh:啖]]

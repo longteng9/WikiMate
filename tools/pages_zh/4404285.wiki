@@ -1,0 +1,24 @@
+==Japanese==
+{{rfc|lang=ja|Formatting is a mess. Lemma should likely be [[おみくじ]] given the large number of kanji alternates and the prevalence of the hiragana spelling. Given definition isn't right.}}
+{{ja-kanjitab|お|み|くじ|yomi=kun}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=kun|おみくじ}}<ref name="DJR">{{R:Daijirin}}</ref>
+
+===Alternative forms===
+* {{ja-l|御神籤}}, {{ja-l|御神鬮}}, {{ja-l|おみくじ}}
+
+===Noun===
+{{ja-noun|おみくじ}}
+
+# a [[random]] [[fortune]], often written on a strip of [[paper]] or on a stick of [[bamboo]], available at [[Japanese]] [[shrine]]s in exchange for a small [[offering]]
+
+====Usage notes====
+Often seen written all in [[hiragana]], in part due to the complexity and rarity of the last [[kanji]] character.
+
+====See also====
+* {{pedialite|lang=ja}}
+* {{pedialite|O-mikuji}}
+
+===References===
+<references/>

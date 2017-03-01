@@ -1,0 +1,29 @@
+==Japanese==
+{{wikipedia|lang=ja|手甲鉤|手甲鉤 (weapon)}}
+{{ja-kanjitab|手|鉤}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=てかぎ|手|tr1=te|t1=hand|鉤|tr2=kagi|t2=hook}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|h|て|かぎ}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{ja-accent-common|a|て|かぎ}}<ref name="NHK"/>
+* {{IPA|lang=ja|[te̞ka̠ŋi]}}
+
+===Noun===
+{{ja-noun|てかぎ}}
+
+# a small [[fire hook]] used by [[firemen]]: a [[steel]]-[[reinforced]] [[wooden]] [[handle]] of some 60 centimeters with a [[hook]] about halfway, used by the [[fire chief]]
+# a [[hook]] used for handling large [[fish]] in a fish [[store]] or [[market]], or for handling [[package]]s or [[freight]], with a [[handle]] of some 30 centimeters with a hook on the end
+# a [[hook]] used by [[fishermen]] to help lift large [[fish]], consisting of a [[hook]] on the end of a long [[pole]]
+# {{lb|ja|weaponry|sort=てかぎ}} alternate name for a [[tekkō kagi]], a [[Japanese]] [[hand]] [[weapon]]
+
+====Synonyms====
+* {{sense|fire hook}} {{ja-l|鳶口|とびぐち|tobiguchi}}
+* {{sense|hook for handling fish}} {{ja-l|魚鉤|うおかぎ|uokagi}}
+* {{sense|hook used by fishermen}} {{ja-l|ギャフ||gyafu}}
+* {{sense|weaponry}} {{ja-l|手甲鉤|てっこうかぎ|tekkō kagi}}
+
+===References===
+<references/>

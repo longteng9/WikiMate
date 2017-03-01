@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=huósāi,er=y
+|c=wut6 sak1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|mechanics}} [[piston]]
+
+====Derived terms====
+{{zh-der|活塞運動}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|かつ|k1=かっ|そく|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|かっそく|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|かっそく|hhira=くわつそく}}
+
+# [[piston]]
+
+====Synonyms====
+* {{ja-r|ピストン}}, {{ja-r|喞子|しょくし}}
+
+===References===
+<references/>
+
+[[mg:活塞]]
+[[ja:活塞]]
+[[zh:活塞]]

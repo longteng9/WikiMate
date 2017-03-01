@@ -1,0 +1,153 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=10}}
+
+===Han character===
+{{Han char|rn=75|rad=木|as=06|sn=10|four=40948|canj=DYCK|ids=⿰木交}}
+
+====References====
+* {{Han ref|kx=0522.250|dkj=14713|dj=0910.270|hdz=21205.080|uh=6821|ud=26657|bh=AED5|bd=44757}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|t1=tree|交|ls=psc|c1=s|c2=p}} – a wooden implement of punishment.
+
+===Pronunciation 1===
+{{zh-pron
+|m=xiào
+|m-s=gao4
+|c=haau6
+|h=pfs=káu
+|md=hâu
+|mn=hāu
+|w=3hhiau
+|mc=1
+|oc=2
+|cat=n,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[school]]; [[college]]; [[university]]
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|fold=1|校服|校門|校董|校方|校歌|校工|校際|校紀|校刊|校曆|校旗|校企|校慶|校容|校舍|校外|校尉|校務|校訓|校園|校友|校長|校址|學校|女校|夜校|官校|姊妹校|創校|專校|同校|劇校|分校|村校|母校|校規|校友會|校譽|校徽|私校|校風|校花|校醫|男校|校訪|校區|校運|校隊|軍校|高校|離校|黨校|黌校|職校|補校|調校|在校}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=xiào
+|m-s=gao4
+|c=gaau3
+|md=háu
+|mn=hāu/kàu
+|mc=1
+|oc=2
+|dial=n
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|military}} [[field officer]]
+
+====Compounds====
+{{zh-der|fold=1|上校|中校|少校|小校|步兵校尉|司隸校尉|將校|校官}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=jiào
+|c=gaau3
+|m-s=gao4
+|h=pfs=káu
+|md=gáu
+|mn=kàu/kà
+|mn_note=kàu - literary; kà - vernacular
+|w=2kau,2jiau
+|w_note=2kau - vernacular; 2jiau - literary
+|mc=2
+|oc=1
+|dial=n
+|cat=n,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[fetters]]; [[shackles]]
+# {{†}} [[railing]]; [[barracks]]
+# {{lb|zh|historical}} [[horse]][[keeper]] [[official]]
+# {{†}} to [[examine]]; to [[check]]
+# to [[proofread]]; to [[check]]; to [[compare]]
+# {{lb|zh|printing}} [[proof]]
+# {{†}} to [[oppose]]; to [[resist]]
+# {{†}} to [[contest]]
+# {{†}} to [[bother]] about; to [[fuss]] about
+# {{†}} to [[decorate]]
+# {{†}} to [[calculate]]
+# {{lb|zh|Sichuanese}} to try
+
+===Synonyms===
+* {{label|zh|Sichuanese|(to try)}} {{zh-l|筶}} {{zh-l|告}}
+
+====Compounds====
+{{zh-der|fold=1|校對|校正|校改|校訂|校書|校勘|校讎/校雠|校準|校實|參校|校閱|讎校/雠校|女校尉|循名校實|屨校|女校書|校獵|摸金校尉|校理|校對員|戶口校正|檢校|校場|校人|比校|校本|校綴|校樣|校勘學|校稿|校點|校書郎|校讎|校計|校尉|犯而不校|讎校|考校|銖銖校量|鉤校|覆校}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=1|rs=木06}}
+Meaning : school building
+
+
+====Readings====
+* {{ja-readings|goon=[[きょう]] (kyō), [[ぎょう]] (gyō)|kanon=[[こう]] (kō)|kun=[[かせ]] (kase)}}
+
+====Compounds====
+* [[学校]] (がっこう, ''gakkō''): school
+* [[校僕]] (こうぼく, ''kōboku''): school custodian
+* [[校舎]] (こうしゃ, ''kōsha''): school building
+* [[校門]] (こうもん, ''koumon''): school gate
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=교|rv=gyo|mr=kyo|y=kyo|eumhun=학교|ehrv=hakgyo|ehmr=hakkyo|ehy=hakqkyo}}
+
+# [[school]], educational establishment
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hiệu]], [[chò]], [[giâu]], [[giáo]], [[hào]]|rs=木06}}
+
+# {{defn|lang=vi|sort=木06}}
+
+[[fr:校]]
+[[ko:校]]
+[[it:校]]
+[[li:校]]
+[[hu:校]]
+[[mg:校]]
+[[ja:校]]
+[[no:校]]
+[[pl:校]]
+[[pt:校]]
+[[ru:校]]
+[[th:校]]
+[[uk:校]]
+[[vi:校]]
+[[zh:校]]

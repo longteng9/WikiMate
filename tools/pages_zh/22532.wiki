@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=116|rad=穴|as=03|sn=8|four=30207|canj=JCN}}
+
+# high and vast
+# [[elevated]]
+# [[arched]]
+
+====Descendants====
+* [[窮]]
+
+====References====
+* {{Han ref|kx=0862.290|dkj=25414|dj=1289.070|hdz=42721.030|uh=7A79|ud=31353|bh=AAC6|bd=43718}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|穴|弓|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=穹
+|c=kung4,hung1,gung1
+|mn=qz,xm,zz:khiông/tw:kiong
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|天穹|玄穹|穹壤|穹天|穹廬|穹石|穹窒|穹窿|穹蒼|穹谷|穹隆|穹靈|蒼穹|隆穹|顥穹}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=穴03}}
+
+# [[high]] [[arching]] [[vault]]
+# [[sky]]
+
+====Readings====
+* {{ja-readings|on=[[きゅう]] (kyū)|kun=[[そら]] (sora), [[あめ]] (ame)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=궁|eumhun=|rv=gung|mr=kung|y=kwung}}
+
+# {[[하늘]] 궁): [[sky]], [[heaven]]
+# ([[활]][[꼴]] 궁): [[arc]], [[arch]], [[arched]]
+
+====Synonyms====
+* {{l|ko|空}} (''gong'', 공)
+
+[[fr:穹]]
+[[ko:穹]]
+[[mg:穹]]
+[[ja:穹]]
+[[pl:穹]]
+[[th:穹]]
+[[vi:穹]]
+[[zh:穹]]

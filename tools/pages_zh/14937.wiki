@@ -1,0 +1,102 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=50|rad=巾|as=11|sn=14|four=44227|canj=TAKB|ids=⿱莫巾}}
+
+====Related characters====
+* [[募]] [[墓]] [[慕]]
+* [[模]] [[膜]]
+
+====References====
+* {{Han ref|kx=0335.290|dkj=09051|dj=0642.320|hdz=10749.070|uh=5E55|ud=24149|bh=B9F5|bd=47605}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|莫|巾|c1=p|c2=s|t2=cloth|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=mù
+|c=mok6
+|h=pfs=mok
+|md=
+|mn=bō͘
+|w=3mu,5moq
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[curtain]]; [[screen]]; [[tent]]
+
+===Compounds===
+{{zh-der|幕布|幕府|幕後|幕客|幕僚|幕天席地|幕府時代|席地幕天|內幕|天幕|幕前|報幕|幕友|多幕劇|字幕機|帳幕|內幕消息|入幕之賓|德川幕府|布幕|幕燕鼎魚|幕道|幕賓|幕職|幕士|幕員|幕僚機關|幕侵天|幕上|帷幕|帘幕|幕竿|屏幕|序幕|大銀幕|字幕匣|報幕員|夜幕低垂|字幕|幕上燕巢|劇幕|夜幕|作幕|一幕|獨幕劇|煙幕彈|放映影幕|毳幕|燕巢幕上|放煙幕|戎幕|環幕電影|玻璃帷幕|江戶幕府|揭幕|熒幕廣告|煙幕|燕巢於幕|落幕|釜魚幕燕|鐮倉幕府|螢幕|舉袂成幕|蓮幕|鐵幕|螢光幕|簾幕|謝幕|遊幕|芙蓉幕|黑幕|菌幕|銀幕|閉幕|開幕式|開幕|閉幕典禮|門幕|退居幕後|結幕|閉幕式}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=巾11}}
+
+# {{defn|lang=ja|sort=巾11}}
+
+====Readings====
+* {{ja-readings|goon=[[まく]] (maku)|kanon=[[ばく]] (baku)|kun=[[おおう]] (oou)}}
+
+===Noun===
+{{ja-noun|まく}}
+
+# [[curtain]]
+# [[act]] {{gloss|division of theatrical performance}}
+
+====Compounds====
+* {{ja-r|煙幕|えんまく}}: [[smokescreen]]
+* {{ja-r|幕営|ばくえい}}: [[macitona]]
+* {{ja-r|幕下|まくした}}
+* {{ja-r|幕議|ばくぎ}}: a [[conference]]
+* {{ja-r|幕臣|ばくしん}}: a [[shogun]]'s [[retainer]]
+* {{ja-r|幕府|ばくふ}}: [[shogunate]]
+* {{ja-r|幕僚|ばくりょう}}: [[staff]]
+* {{ja-r|幕間|まくあい}}: [[aired]]
+* {{ja-r|幕内|まくうち}}: [[sumo]]
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[막]]|rv=mak|mr=mak|y=mak}}
+
+# {{defn|lang=ko|sort=巾11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mạc]]|rs=巾11}}
+
+# {{defn|lang=vi|sort=巾11}}
+
+[[fr:幕]]
+[[ko:幕]]
+[[lo:幕]]
+[[li:幕]]
+[[hu:幕]]
+[[mg:幕]]
+[[ja:幕]]
+[[no:幕]]
+[[pl:幕]]
+[[sv:幕]]
+[[th:幕]]
+[[chr:幕]]
+[[zh:幕]]

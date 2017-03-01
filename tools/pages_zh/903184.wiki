@@ -1,0 +1,58 @@
+{{also|相谈}}
+==Chinese==
+{{zh-forms|s=相谈}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiàngtán
+|c=soeng1 taam4
+|mn=siang-tâm/siong-tâm
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[converse]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|そう|だん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|そうだん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|そうだん}}
+
+# [[advice]], [[counsel]], [[consultation]]
+#: {{ja-usex|恋愛'''相談'''|れんあい '''そうだん'''|'''consultation''' on love}}
+
+===Verb===
+{{ja-verb-suru|そうだん}}
+
+# to [[consult]]
+
+====Conjugation====
+{{ja-suru|そうだん}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=상담}}
+
+# {{hanja form of|상담|[[advice]], [[counsel]], [[consultation]]}}
+
+[[fr:相談]]
+[[ko:相談]]
+[[lt:相談]]
+[[hu:相談]]
+[[mg:相談]]
+[[zh:相談]]

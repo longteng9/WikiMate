@@ -1,0 +1,65 @@
+==Chinese==
+{{was fwotd|2015|March|31|lang=zh}}
+{{zh-forms|alt=朱儒-obsolete,邾需-obsolete}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+Old Chinese pronunciation was *''to no''. Possibly cognate with {{zh-l|蜘蛛|spider, *''te to''}}, per the dialectal dictionary ''{{w|Fangyan}}'' (1st century {{CE}}):
+
+* {{lang|zh|鼅鼄，鼄蝥也。自關而西，秦晉之間謂之鼄蝥。自關而東，趙魏之郊謂之鼅鼄，或謂之蠾蝓，蠾蝓者侏儒語之轉也。北燕朝鮮洌水之間，謂之蝳蜍。}}
+*: ''"<u>Te to</u>", '''spider'''; also called "<u>to mo</u>". To the west of {{w|Hangu Pass}}, in the Qin and Jin regions, it is called "<u>to mo</u>". To the east of the Pass, in the Zhao and Wei regions, it is called "<u>te to</u>", or "<u>to lo</u>". The latter is an alternation of the word "<u>to no</u>" ("dwarf"). In the Northern Yan, Korea, and Lie River regions, it is called "<u>to la</u>".''
+
+Compare the derivation of {{cog|en|midget}} from {{m|en|midge}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhūrú
+|c=zyu1 jyu4
+|h=pfs=chû-yì
+|md=ciŏ-ṳ̀
+|mn=kh:chu-jû/xm,qz,tp:chu-lû/zz:chu-jî
+|w=1tsr zr
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[dwarf]]; [[pygmy]]; [[midget]]
+#* {{zh-x|瘖{Yīn}、聾、跛、躃{bì}、斷 者、侏儒、百 工，各 以 其 器 食 之。|The dumb, the deaf, the lame, such as had lost a member, '''pygmies''', and mechanics, were all fed according to what work they were able to do.|CL|ref=Liji}}
+
+====Derived terms====
+{{zh-der|侏儒症|侏儒一節|侏儒米|侏儒粟|侏儒觀戲|侏優|侏儒飽}}
+
+===Descendants===
+{{CJKV||しゅじゅ|주유|chu nhu}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅ|じゅ|yomi=on}}
+
+===Noun===
+{{ja-noun|しゅじゅ}}
+
+# [[dwarf]]
+
+----
+
+==Korean==
+{{ko-hanjatab|}}
+
+===Noun===
+{{ko-noun|hj|hangeul=주유}}
+
+# {{hanja form of|주유|[[dwarf]]}}
+
+[[et:侏儒]]
+[[fr:侏儒]]
+[[ko:侏儒]]
+[[mg:侏儒]]
+[[ru:侏儒]]
+[[tl:侏儒]]
+[[zh:侏儒]]

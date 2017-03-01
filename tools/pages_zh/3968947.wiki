@@ -1,0 +1,69 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|さい|じょう}}
+
+{{prefix|最|上|tr1=sai|t1=most|tr2=jō|t2=above|lang=ja}}
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[sa̠.i.d͡ʑo̞ː]}}
+* {{ja-accent-common|h|サ|イジョー}}<ref>{{R:NHK Hatsuon}}</ref>
+
+====Noun====
+{{ja-noun|さいじょう}}
+
+# {{l|en|best}}
+
+=====Derived terms=====
+{{der-top}}
+Uncommon
+* {{ja-l|最上階|さいじょうかい|saijōkai}} ''n.'' top floor
+* {{ja-l|最上級|さいじょうきゅう|saijōkyū}} ''n.'' highest grade
+
+{{der-mid}}
+Computer terms
+* {{ja-l|最上位|さいじょうい|sai jōi}} ''n.'' high-end; high-order
+{{der-bottom}}
+
+====Adjectival noun====
+{{ja-adj|infl=na|さいじょう}}
+
+# {{l|en|best}}
+
+=====Inflection=====
+{{ja-na|さいじょう}}
+
+===Etymology 2===
+{{ja-kanjitab|も|かみ|k2=がみ|sort=もがみ}}
+
+{{compound|最|上|tr1=motto|t1=most|tr2=kami|t2=the top|lang=ja}}
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[mo̞.ɡa̠.mi]}}
+
+====Proper noun====
+{{ja-pos|proper|もがみ}}
+
+# A town in {{l|en|Yamagata}} prefecture, Japan
+# A {{l|en|surname}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|最上駅|もがみえき|Mogamieki}} Mogami Station
+* {{ja-l|最上氏|もがみし|Mogamishi}} Mogami clan
+* {{ja-l|最上町|もがみまち|Mogamimachi}} Mogami (town)
+* {{ja-l|最上川|もがみがわ|Mogamigawa}}　Mogami River
+* {{ja-l|最上郡|もがみべん|Mogamiben}} Mogami District
+{{der-bottom}}
+
+===References===
+<references />
+
+[[Category:Japanese words with multiple readings]]
+
+[[ko:最上]]
+[[mg:最上]]
+[[ja:最上]]
+[[zh:最上]]

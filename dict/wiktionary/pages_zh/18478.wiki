@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|壳|殻}}
+==Translingual==
+{{Han simplified forms|殼|殻|壳}}
+
+===Han character===
+{{Han char|rn=79|rad=殳|as=08|sn=12|four=47247|canj=GNHNE|ids=⿹𣪊几}}
+
+====Descendants====
+* [[殻]] [[壳]]
+
+====References====
+* {{Han ref|kx=0586.050|dkj=16646|hdz=32160.070|uh=6BBC|ud=27580|bh=B4DF|bd=46303}}
+
+----
+
+==Chinese==
+{{zh-forms|s=壳}}
+
+===Glyph origin===
+{{liushu|p}}: a hand with a weapon-like object ({{zh-l|*殳}}) - presumably a mallet - preparing to strike a hanging percussion instrument ({{zh-l|*壳}}).
+
+===Pronunciation===
+{{zh-pron
+|m=ké,qiào,què,er=y
+|m_note=ké - colloquial; qiào - literary; ​què - literary (rare in Mainland)
+|c=hok3
+|h=pfs=hok
+|mn=khak/khok
+|mn_note=khak - vernacular, khok - literary
+|w=4khoq
+|mc=y
+|oc=y
+|ma=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[shell]]; [[husk]]; [[hull]]; [[skin]]; [[casing]]
+#: {{zh-x|貝殼|shell; conch}}
+#: {{zh-x|地殼|the Earth's crust|tr=dì'''qiào''' (Mainland), dì'''ké''' (Taiwan)}}
+
+===Compounds===
+{{zh-der|介殼|介殼蟲|地殼|地殼變動|外殼|彈殼|怯殼兒|板殼蟲|枳殼|殼子|殼果|沙殼子|無殼蝸牛|瓜子殼|甲殼|硬殼|耳殼|脫殼|脫殼金蟬|腦殼|船殼|菜殼子|薄殼|蚌殼|蛋殼|蟹殼臉|貝殼|貝殼杉|軀殼|軟殼雞蛋|金蟬脫殼|錶殼兒|鐵殼船|頭髮殼子|駁殼槍|鬼摸腦殼|龜殼花}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=殳08|style=ky|shin=殻}}
+
+# {{defn|lang=ja|sort=殳08}}
+
+====Readings====
+* {{ja-readings|on=[[かく]] (kaku), [[こく]] (koku)|kun=[[から]] (kara)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=각|eumhun=|rv=gak|mr=kak|y=kak}}
+
+# {{defn|lang=ko|sort=殳08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xác]], [[nôi]]|rs=殳08}}
+
+# {{defn|lang=vi|sort=殳08}}
+
+[[zh-min-nan:殼]]
+[[fr:殼]]
+[[ko:殼]]
+[[hu:殼]]
+[[ja:殼]]
+[[pl:殼]]
+[[th:殼]]
+[[chr:殼]]
+[[zh:殼]]

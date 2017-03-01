@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|郸}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=163|rad=邑|as=12|sn=15|four=67527|canj=RJNL}}
+
+# county in Hebei province
+
+====References====
+* {{Han ref|kx=1278.110|dkj=39659|dj=1777.170|hdz=63796.050|uh=9132|ud=37170|bh=E858|bd=59480}}
+
+----
+
+==Chinese==
+{{zh-forms|s=郸}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dān
+|c=daan1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=邑12}}
+
+# {{defn|lang=ja|sort=邑12}}
+
+====Readings====
+* {{ja-readings|goon=[[たん]] (tan)|kanon=[[たん]] (tan)|on=[[た]] (ta)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[단]], [[다]]|eumhun=|rv=dan, da|mr=tan, ta|y=tan, ta}}
+
+# {{defn|lang=ko|sort=邑12}}
+
+[[fr:鄲]]
+[[ko:鄲]]
+[[hu:鄲]]
+[[ja:鄲]]
+[[pl:鄲]]
+[[th:鄲]]
+[[zh:鄲]]

@@ -1,0 +1,42 @@
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|to prohibit; to forbid}}
+
+====Pronunciation====
+{{zh-pron
+|m=jìnyòng
+|c=gam3 jung6
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[forbid]] to [[use]]; to be [[banned]] for [[use]]
+# {{lb|zh|computing}} to [[disable]]
+
+=====Antonyms=====
+* {{sense|disable}} {{zh-l|啟用}}
+
+===Etymology 2===
+{{zh-forms|to endure|alt=襟用-Cantonese}}
+
+====Pronunciation====
+{{zh-pron
+|c=kam1 jung6
+|mn=kim-ēng/kim-iōng
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# {{lb|zh|Cantonese|Min Nan}} [[durable]]; [[hard-wearing]]
+
+=====Synonyms=====
+* {{zh-l|耐用}}
+
+[[zh-min-nan:禁用]]
+[[vi:禁用]]
+[[zh:禁用]]

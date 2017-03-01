@@ -1,0 +1,95 @@
+{{character info/new}}
+{{also|谅}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=08|sn=15|four=00696|canj=YRYRF}}
+
+# [[excuse]], [[forgive]]
+# [[guess]], [[presume]]
+
+====References====
+* {{Han ref|kx=1168.090|dkj=35653|dj=1633.140|hdz=63991.030|uh=8AD2|ud=35538|bh=BDCC|bd=48588}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谅}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=liàng,liáng
+|c=loeng6,loeng4
+|h=pfs=
+|md=
+|mn=liōng
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[谅解]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言08}}
+
+# {{defn|lang=ja|sort=言08}}
+
+====Readings====
+* {{ja-readings|on=[[りょう]] (ryō)|kun=[[あきらかにす]] (akirakanisu), [[まこと]] (makoto), [[まことに]] (makotoni)|nanori=}}
+
+====Compounds====
+* [[諒解]]
+* [[諒承]]
+
+====See also====
+* {{l|ja|了}}
+
+===Proper noun===
+{{ja-pos|proper|りょう}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|りょう]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[량]]>[[양]]|eumhun=|rv=ryang>yang|mr=ryang>yang|y=lyang>yang}}
+
+# {{defn|lang=ko|sort=言08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lượng]], [[lạng]]|rs=言08}}
+
+# {{defn|lang=vi|sort=言08}}
+
+[[fr:諒]]
+[[ko:諒]]
+[[li:諒]]
+[[hu:諒]]
+[[mg:諒]]
+[[ja:諒]]
+[[pl:諒]]
+[[th:諒]]
+[[zh:諒]]

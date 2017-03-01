@@ -1,0 +1,82 @@
+==Chinese==
+{{zh-forms|alt=枇杷,批把,鼙婆}}
+{{wikipedia|lang=zh}}
+[[File:%D0%91%D0%B8%D0%B2%D0%B0.jpg|thumb|160px|Pipa.]]
+
+===Etymology===
+Borrowed from a language in the {{w|Western Regions}} during the {{w|Han Dynasty}}. Compare {{cog|fa|بربط‎‎|tr=barbat||[[barbat]]; lute}}, {{cog|grc|βάρβιτος||[[barbitos]]; ancient stringed instrument}}.
+
+Both characters were initially non-[[checked]] tone characters. Reborrowed during the {{w|Tang Dynasty}} from a source that more closely resembles the modern Persian name of the instrument, and both characters were read as if they have checked codas. The original non-checked readings were restored after the Tang Dynasty. Compare the modern checked-tone dialectal readings of {{zh-l|枇杷}}.
+
+Much folk etymology exists surrounding the name origin. The dictionary ''{{w|Shiming}}'' {{defdate|2nd CE}} explains the name as {{zh-l|批把|slap-grasp}}, reflecting the plucking movements while playing the stringed instrument. {{lang|zh|琵琶}} is also cognate with—and possibly gave rise to the name of (due to the similarity in shape)—{{zh-l|枇杷|[[loquat]]}}, which is also a non-native species.
+
+===Pronunciation===
+{{zh-pron
+|m=pípá,tl=y
+|c=pei4 paa4,pei4 paa4-2
+|h=pfs=phì-phà
+|md=bì-bà
+|mn=xm,zz,tw:pî-pê/xm:kî-pê/xm:gî-pê/qz:khî-pê/zz:pî-pêe
+|w=3bi bo
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|musical instrument}} [[pipa]] {{gloss|plucked Chinese string instrument}}
+
+====Derived terms====
+{{zh-der|琵琶骨|洋琵琶|反彈琵琶|彈琵琶|琵琶別抱|琵琶湖|琵琶舊語|琵琶蟲|琵琶行|琵琶襟|琵琶記|琵琶調|琵琶譜|琵琶錄|琵琶魚|琵琶鮫|秦琵琶|漢琵琶|烏孫琵琶}}
+
+===Descendants===
+{{CJKV||びわ|비파|tỳ bà}}
+
+{{zh-cat|Musical instruments}}
+
+----
+
+==Japanese==
+{{wikipedia|Biwa}}
+{{ja-kanjitab|び|わ|yomi=on}}
+
+===Noun===
+{{ja-noun|びわ}} <!--never heard of these. ビバ, biba, ピーパー, piipā -->
+
+# [[biwa]] (Japanese lute, a plucked, fretted pear-shaped lute with four or, more rarely, five strings)
+
+[[Category:ja:Musical instruments|ひわ']]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=비파}}
+
+# {{ko-hanja form of|비파|[[bipa]], [[lute]]}}
+
+[[Category:ko:Musical instruments|비파]]
+
+----
+
+==Vietnamese==
+{{vi-hantutab|琵|琶}}
+
+===Noun===
+{{head|vi|noun|sc=Hani}}
+
+# {{han tu form of|tỳ bà|a plucked, fretted pear-shaped lute with four strings}}
+
+[[zh-min-nan:琵琶]]
+[[fa:琵琶]]
+[[fr:琵琶]]
+[[ko:琵琶]]
+[[li:琵琶]]
+[[hu:琵琶]]
+[[ja:琵琶]]
+[[fi:琵琶]]
+[[zh:琵琶]]

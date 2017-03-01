@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|下}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=25|rad=卜|as=02|sn=4|four=00230|canj=YY|ids=⿱丶下}}
+
+# to be [[impatient]], in a [[hurry]]
+# [[excitable]]
+# {{surname|lang=zh}}
+
+====References====
+* {{Han ref|kx=0157.280|dkj=02778|dj=0361.170|hdz=10092.030|uh=535E|ud=21342|bh=A4CB|bd=42187}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=biàn
+|c=bin6
+|mn=qz,xm,zz:piān
+|mc=y
+|oc=y
+|ma=
+|cat=a,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|卞急|卞氏龍}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=卜02}}
+
+# {{defn|lang=ja|sort=卜02}}
+
+====Readings====
+* {{ja-readings|kanon=[[へん]] (hen)|on=[[はん]] (han)|goon=[[べん]] (ben)|kun=[[のり]] (nori)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=변|rv=byeon|mr=pyŏn}}
+
+# {{defn|lang=ko|sort=卜02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=卜02|hanviet=[[biện]], [[bèn]]}}
+
+# {{defn|lang=vi|sort=卜02}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:卞]]
+[[ko:卞]]
+[[hu:卞]]
+[[mg:卞]]
+[[ms:卞]]
+[[ja:卞]]
+[[pl:卞]]
+[[th:卞]]
+[[vi:卞]]
+[[zh:卞]]

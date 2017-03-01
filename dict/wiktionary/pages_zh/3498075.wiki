@@ -1,0 +1,51 @@
+{{also|追记}}
+==Chinese==
+{{zh-forms|s=追记}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhuījì
+|c=zeoi1 gei3
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[record]] something after the [[fact]]; to [[retrospectively]] [[note]] down
+# to [[award]] [[posthumously]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|つい|き|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ついき|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ついき}}
+
+# [[postscript]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|ついき}}
+
+# [[add]] a postscript
+
+====Conjugation====
+{{ja-suru|ついき}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=추기}}
+
+# {{hanja form of|추기}}
+
+[[ko:追記]]

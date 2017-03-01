@@ -1,0 +1,134 @@
+{{character info/new}}
+{{also|锅}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=09|sn=17|four=87127|canj=CBBR|ids=⿰金咼}}
+
+# [[cooking-pot]], [[saucepan]]
+
+====References====
+* {{Han ref|kx=1313.100|dkj=40603|dj=1814.060|hdz=64220.060|uh=934B|ud=37707|bh=C1E7|bd=49639}}
+
+----
+
+==Chinese==
+{{zh-forms|s=锅}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|金|咼|c1=s|c2=p|t1=metal|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=guō
+|c=wo1
+|h=pfs=
+|md=
+|mn=ko/xm,tp,mg,hc:e/qz,lk,sx,km,hc:er/zz,kh,tn,yl,tc:oe
+|mn_note=ko - literary; e/er/oe - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+{{zh-der|火鍋|一品鍋|一鍋煮|一鍋粥|一鍋麵|下油鍋|下鍋|二鍋頭|冷灶清鍋|吃大鍋飯|吃火鍋|吃舊鍋粥|回鍋|埋鍋造飯|壓力鍋|大鍋|大鍋菜|大鍋飯|小鍋菜|平底鍋|快鍋|打破沙鍋|打鍋|扣黑鍋|抱砂鍋|抱鍋|揭不開鍋|揹黑鍋|撩鍋|暖盪撩鍋|暖鍋|杯鍋|氣鍋|汽鍋|沙鍋|油鍋|涮鍋子|湯鍋|炕上安鍋|煙袋鍋子|煙鍋|蒸鍋|燉鍋|燒鍋|燜燒鍋|矇著鍋兒|石頭火鍋|砂鍋|砸鍋|砸鍋賣鐵|等米下鍋|絮鍋兒|羅鍋|羅鍋橋|背黑鍋|腰鍋|蓋火鍋|連鍋端|鍋伙|鍋叫門開|鍋圈兒|鍋垢|鍋子|鍋巴|鍋渣|鍋煙|鍋煙子|鍋爐|鍋盔|鍋碗瓢盆|鍋臍灰|鍋臺|鍋莊|鍋蓋|鍋貼|鍋鏟|鍋門|鍋餅|鐵鍋|鑼鍋|鑼鍋子|雙頭汽鍋|電子鍋|電暖鍋|電鍋|電飯鍋|飯鍋|高壓鍋|麻辣火鍋|黑鍋}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=金09}}
+
+====Readings====
+{{ja-readings
+|goon=(''rare'') [[か]] (ka)
+|kanon=(''rare'') [[か]] (ka)
+|kun=[[なべ]] (nabe)
+}}
+
+===Etymology===
+{| style="float:right;padding:0px;margin-right:-5px;"
+| [[File:Nabe.jpg|thumb|none|119px|{{lang|ja|鍋}}: traditional ''nabe'' (both the pot and the food)]]
+| [[File:Cainz_Donabe_Hakusen-nagashi_19cm_2.jpg|thumb|none|118px|{{l|ja|土鍋|tr=''donabe''}}: traditional earthenware ''nabe'']]
+|-
+| [[File:The_woks_of_various_sizes.JPG|thumb|none|118px|{{l|ja|中華鍋|tr=''chūka nabe''}}: "Chinese ''nabe''", a.k.a. {{l|en|wok}}]]
+| [[File:IB_tajine_01.jpg|thumb|none|118px|{{l|ja|タジン}}{{lang|ja|鍋}} (''tajin nabe''): a Moroccan {{l|en|tajine}}]]
+|-
+| [[File:Feuertopf_Peking.jpg|thumb|none|119px|{{l|ja|火鍋|tr=''hinabe''}}: a {{l|en|fondue}} pot]]
+| [[File:Stock_Pot.jpg|thumb|none|119px|{{l|ja|スープ}}{{lang|ja|鍋}} (''sūpu nabe''): a soup pot or stockpot]]
+|}
+{{ja-kanjitab|なべ|yomi=k}}
+Originally a compound of {{etyl|ojp|ja|sort=なべ}} elements {{compound|lang=ja|sort=なべ|肴|tr1=na|t1=small snack, hors d'oeuvre|瓮|tr2=he|t2=a pot or pan for holding food or beverages}}. {{rendaku2|sort=なべ|he|be}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|なべ|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|なべ}}
+
+# a broad-bottomed {{l|en|pot}} or {{l|en|pan}}
+#: This term is less specific than English {{m|en|pot}} or {{m|en|pan}}, and can often be used to refer to either of these. The sample images at right illustrate some of the various items that can be called a ''nabe'' in Japanese.
+# short for {{l|ja|鍋物|tr=''nabemono''}}, a {{l|en|dish}} where everything is cooked together in a ''nabe''; compare English {{m|en|hot pot}} or {{m|en|hotdish}}
+#: ⇒ {{l|ja|鍋物|tr=''nabemono''}}
+# by extension from the sense of someone working with pots and pans, a {{l|en|maidservant}}
+#: ⇒ {{l|ja|御鍋|tr=''onabe''}}
+
+====Related terms====
+* {{ja-r|釜|かま}}: a big {{l|en|pot}}, a {{l|en|kettle}} or {{l|en|boiler}}
+* {{ja-r|御釜|おかま}}: a {{l|en|maidservant}}; {{qualifier|slang}} one's {{l|en|butt}}; {{qualifier|slang}} a {{l|en|gay}} man
+* {{ja-r|御鍋|おなべ}}: a {{l|en|maidservant}}; {{l|en|nightwork}}; {{qualifier|slang}} a {{l|en|lesbian}}
+
+====Descendants====
+* Korean: {{ko-inline|냄비|naembi|pan, saucepan; pot}}
+
+====See also====
+* {{projectlink|wikipedia|lang=ja}}
+* {{projectlink|wikipedia|nabe}}
+
+===References===
+<references/>
+
+[[Category:ja:Cookware and bakeware|なべ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=과|eumhun=|rv=gwa|mr=kwa|y=kwa}}
+
+# {{defn|lang=ko|sort=金09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[oa]]|rs=金09}}
+
+# {{defn|lang=vi|sort=金09}}
+
+[[zh-min-nan:鍋]]
+[[fr:鍋]]
+[[ko:鍋]]
+[[kn:鍋]]
+[[lo:鍋]]
+[[li:鍋]]
+[[hu:鍋]]
+[[mg:鍋]]
+[[fj:鍋]]
+[[ja:鍋]]
+[[pl:鍋]]
+[[th:鍋]]
+[[chr:鍋]]
+[[vi:鍋]]
+[[zh:鍋]]

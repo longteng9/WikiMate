@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|ねん|がん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ねんがん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ねんがん}}
+
+# [[wish]]; [[hope]]
+#: {{ja-usex|'''念願'''のマイカーが手に入った。|'''ねんがん''' の マイカー が て に はいった。|We wanted to have our own car and now we got it.}}
+
+===Verb===
+{{ja-verb-suru|ねんがん}}
+
+# [[wish]] for, [[desire]], [[hope]] for
+
+====Conjugation====
+{{ja-suru|ねんがん}}
+
+===References===
+<references/>
+
+[[ko:念願]]
+[[hu:念願]]
+[[zh:念願]]

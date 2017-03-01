@@ -1,0 +1,141 @@
+{{character info/new}}
+==Translingual==
+
+===Alternative forms===
+Two Unicode z-code variants, at code points U+964D (main) and U+FA09 (alt).
+
+===Han character===
+{{Han char|rn=170|rad=阜|as=06|sn=9|four=77254|canj=NLHEQ|ids=⿰阝夅}}
+
+====Derived terms====
+* {{l|mul|隆}}
+
+====References====
+* {{Han ref|kx=1349.120|dkj=41620|dj=1852.040|hdz=64126.180|uh=964D|ud=38477|bh=ADB0|bd=44464}}
+* {{Han ref|uh=FA09}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|阜|alt1=阝|t1=hill, wall|夅|t2=descend|ls=psc|c1=s|c2=p}} – descending a hill.
+
+===Pronunciation 1===
+{{zh-pron
+|m=jiàng
+|c=gong3
+|h=pfs=kong/kiung
+|h_note=kiung - only in the sense “to give birth”; kong - all other senses
+|md=gáung
+|mn=qz,tw,xm,zz:kàng
+|w=2kaan
+|mc=2
+|oc=1,1
+|cat=v,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[fall]]; to [[drop]]; to [[descend]]; to [[come down]]
+#: {{zh-x|降落|to fall; to land}}
+# {{lb|zh|honorific}} to [[visit]]; to [[honour]] with one's [[presence]]
+# to [[bestow]]; to [[confer]]
+# to [[reduce]]; to [[decrease]]; to [[lower]]
+# to be [[born]]
+# {{lb|zh|Hakka}} to [[give birth]]
+# {{surname|lang=zh}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=xiáng
+|c=hong4
+|h=pfs=hòng
+|md=hòng
+|mn=qz,tw,xm,zz:hâng
+|w=3hhaan
+|mc=1
+|oc=2,2
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[surrender]]; to [[capitulate]]; to [[give in]]
+#: {{zh-x|投降{xiáng}|to surrender}}
+# to [[subdue]]; to [[vanquish]]
+
+===Compounds===
+{{zh-der|下降|乞降|人工降雨|以降|伏虎降龍|光降|勸降|升降|升降機|升降舵|受降|受降城|名降|喜從天降|崧生嶽降|嵩嶽降神|左降|強迫降落|從天而降|打降|技術降落|投降|招降|招降納叛|招降納順|拱手投降|拱手而降|明降|星降|昴降|普降甘霖|服降|望風而降|歸降|牛筋牛降|禍從天降|空降|空降作戰|空降兵|空降部隊|紆尊降貴|納降|詐降|誘降|調降|謫降|貴降|賤降|迫降|降下|降世|降乩|降交點|降伏|降低|降價|降元音|降冪|降冪排列|降凡|降升調|降半旗|降咎|降壓器|降妖|降將|降席|降幅|降心相從|降志辱身|降情|降旗|降旨|降書|降服|降格|降格以求|降格仿諷|降水|降水量|降溫|降火|降災|降生|降真香|降神|降祥|降福|降級|降級數|降罪|降職|降臨|降落|降落傘|降薪|降表|降詔|降調|降貴紆尊|降附|降降的|降階|降雨|降霜|降順|降香|降龍伏虎|陟降|霜降|頻頻貶降|驟降|黜降}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=阜06}}
+
+# [[descend]]
+# [[precipitate]]
+# [[fall]]
+# [[surrender]]
+
+====Readings====
+* {{ja-readings|goon=[[こう]] (kō), [[ごう]] (gō) {{non-joyo-reading}}|kanon=[[こう]] (kō)|kun=[[おりる]] (oriru), [[ふる]] (furu), [[くだる]] (kudaru)|nanori=}}
+
+====Derived terms====
+* {{ja-r|降りる|おりる}}
+* {{ja-r|降る|ふる}}
+* {{ja-r|降ろす|おろす}}
+
+----
+
+==Korean==
+
+===Etymology 1===
+Middle Chinese *kɣʌŋH.
+
+====Hanja====
+{{ko-hanja|hangeul=[[강]]|eumhun=[[내리다|내릴]] 강|rv=gang|mr=kang|y=kang}}
+
+# [[descent]]; [[descend]]ing
+
+=====Derived terms=====
+* {{ko-inline|강단하다|gangdanhada|step down from a platform|降壇하다}}
+
+===Etymology 2===
+Middle Chinese *ɦɣʌŋ.
+
+====Hanja====
+{{ko-hanja|hangeul=항|eumhun=[[항복할]] 항|rv=hang|mr=hang|yr=hang}}
+
+# [[surrender]]
+
+=====Derived terms=====
+* [[항복]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[giáng]], [[giuống]], [[hàng]], [[nháng]]|rs=阜06}}
+
+# {{defn|lang=vi|sort=阜06}}
+
+[[fr:降]]
+[[ko:降]]
+[[hu:降]]
+[[mg:降]]
+[[ja:降]]
+[[no:降]]
+[[pl:降]]
+[[th:降]]
+[[chr:降]]
+[[uk:降]]
+[[vi:降]]
+[[zh:降]]

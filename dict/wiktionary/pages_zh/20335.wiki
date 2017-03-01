@@ -1,0 +1,33 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=93|rad=牛|as=00|sn=4|four=|canj=HQ}}
+
+# an [[ox]], a [[cow]] (not a standalone character, only used as the Radical of [[牛]])
+
+====References====
+* {{Han ref|kx=0697.011|dkj=19923|hdz=31800.011|uh=725C|ud=29276}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=牛00}}
+
+# {{defn|lang=ja|sort=牛00}}
+
+====Readings====
+* {{ja-readings|on=|kun=[[うしへん]] (ushihen)}}
+
+[[Category:Japanese-only CJKV Characters|牛+00]]
+[[Category:CJKV radicals| ]]
+
+[[fr:牜]]
+[[ko:牜]]
+[[hu:牜]]
+[[pl:牜]]
+[[th:牜]]
+[[zh:牜]]

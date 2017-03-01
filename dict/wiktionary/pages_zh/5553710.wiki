@@ -1,0 +1,27 @@
+==Japanese==
+{{ja-kanjitab|ぼう|しん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=go|ぼうしん}}
+
+===Noun===
+{{ja-noun|ぼうしん|hhira=ばうしん}}
+
+# {{lb|ja|geometry|sort=ほうしん'}} [[excenter]]
+
+===See also===
+* {{ja-r|傍%接%円|ぼう%せつ%えん}}
+* {{ja-r|内%心|ない%しん}}
+* {{ja-r|外%心|がい%しん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=방심|mr=pangsim|y=pangsim}}
+
+# {{hanja form of|방심|[[excenter]]}}
+
+[[zh:傍心]]

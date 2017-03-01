@@ -1,0 +1,9 @@
+==Japanese==
+{{ja-kanjitab|せき|ぶん|てい|すう}}
+
+===Noun===
+{{ja-noun|せきぶん ていすう}}
+
+# {{lb|ja|calculus|sort=せきぶんていすう}} [[constant of integration]] - a [[constant]] term added to a particular [[antiderivative]] to make it represent its whole family of [[antiderivative]]s
+
+[[zh:積分定数]]

@@ -1,0 +1,66 @@
+{{also|啄木鸟}}
+==Chinese==
+{{zh-forms|s=啄木鸟}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhuómùniǎo
+|c=doek3 muk6 niu5
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[woodpecker]]
+
+====Derived terms====
+{{zh-der|大斑啄木鳥}}
+
+{{zh-cat|Birds}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+Compound of {{com|ja|木|tr1=ki, ke|t1=[[tree]]|突き|tr2=tsutsuki|t2=[[pecking]]}}. The kanji is {{juku|sort=きつつき}}.
+{{ja-kanjitab|yomi=irr|sort=きつつき}}
+{{wikipedia|キツツキ目|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|きつつき|acc=2|dev=1,3|acc_ref=NHK,DJR|y=i}}
+{{ja-pron|けらつつき|acc=3|acc_ref=DJR|y=i|dev=3}}
+
+====Noun====
+{{ja-noun|きつつき|キツツキ|けらつつき|ケラツツキ}}
+
+# a [[woodpecker]]
+
+{{C|ja|Woodpeckers|sort=きつつき}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=o|たく|ぼく|ちょう}}
+From {{der|ja|zh|啄木鳥|sort=たくぼくちょう}}
+
+====Pronunciation====
+{{ja-pron|たくぼくちょう|acc=h|acc2=4|acc_ref=DJR|acc2_ref=DJR|y=ko}}
+
+====Noun====
+{{ja-noun|たくぼくちょう|タクボクチョウ|hhira=たくぼくてう}}
+
+# a [[woodpecker]]
+
+===References===
+<references/>
+
+{{cln|ja|words with multiple readings}}
+[[ko:啄木鳥]]
+[[kn:啄木鳥]]
+[[lt:啄木鳥]]
+[[hu:啄木鳥]]
+[[ja:啄木鳥]]
+[[pt:啄木鳥]]
+[[ro:啄木鳥]]
+[[ru:啄木鳥]]
+[[sv:啄木鳥]]

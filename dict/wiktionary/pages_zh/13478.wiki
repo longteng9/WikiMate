@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|復|複|夏}}
+
+==Translingual==
+
+===Han character===
+{{Han char|rn=35|rad=夊|as=06|sn=9|four=80407|canj=OAHE|ids=⿳𠂉日夂}}
+
+# [[return]]
+# [[restore]]
+# [[reply]]
+
+====Derived characters====
+* [[復]] [[腹]] [[複]]
+
+====See also====
+* {{l|mul|旬}} <!-- Graphically similar -->
+
+====References====
+* {{Han ref|kx=0245.101|hdz=20869.060|uh=590D|ud=22797|bh=CE60|bd=52832}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology 1===
+
+===Pronunciation===
+{{zh-pron
+|m=fù
+|c=fuk6
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[go back]]
+# {{n-g|Original form and simplified form of {{l|zh|復}}.}}
+
+===Etymology 2===
+{{zh-see|複}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=복|eumhun=|rv=bok|mr=pok|y=pok}}
+
+''same as'' [[復]]
+# [[return]]
+# [[repeat]]
+# [[repeatedly]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hạ]]|rs=夊06}}
+
+# {{defn|lang=vi|sort=夊06}}
+
+[[fr:复]]
+[[mg:复]]
+[[ms:复]]
+[[ja:复]]
+[[no:复]]
+[[pl:复]]
+[[sr:复]]
+[[th:复]]
+[[vi:复]]
+[[zh:复]]

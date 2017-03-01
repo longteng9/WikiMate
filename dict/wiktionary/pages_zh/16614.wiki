@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|拥}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=13|sn=16|four=50014|canj=QYVG|ids=⿰扌雍}}
+
+====References====
+* {{Han ref|kx=0457.260|dkj=12781|dj=0806.090|hdz=31972.010|uh=64C1|ud=25793|bh=BED6|bd=48854}}
+
+----
+
+==Chinese==
+{{zh-forms|s=拥}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=擁
+|c=jung2,ung2
+|mn=qz,xm,zz:iong/tw,xm:ióng/qz,xm,zz:iòng
+|cat=v,n
+|mc=y
+|oc=y
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[embrace]], to [[hug]] someone
+# to [[wrap]] around, to [[squeeze]]
+# verb gather around, to [[crowd]]
+# to provide support
+# to [[have]] something
+
+===Noun===
+{{zh-noun}}
+
+# a [[crowd]] of people
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=手13}}
+
+# {{defn|lang=ja|sort=手13}}
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō)|kun=[[いだく]] (idaku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[옹]]|mr=ong|y=ong}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ủng]]|rs=手13}}
+
+# {{defn|lang=vi|sort=手13}}
+
+[[fr:擁]]
+[[ko:擁]]
+[[hu:擁]]
+[[ja:擁]]
+[[pl:擁]]
+[[th:擁]]
+[[zh:擁]]

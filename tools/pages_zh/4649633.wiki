@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fūhuà
+|c=fu1 faa3
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[hatch]]; to [[incubate]]
+
+===Derived terms===
+{{zh-der|孵化場|孵化器}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ふ|か|yomi=o}}
+
+===Alternative forms===
+* {{l/ja|ふ化}}
+
+===Noun===
+{{ja-noun|ふか}}
+
+# [[incubation]]
+# [[hatching]]
+# {{lb|ja|biology|sort=ふか}} [[eclosion]]
+
+====Derived terms====
+* {{ja-r|孵化器|ふかき}}
+* {{ja-r|孵化場|ふかじょう}}
+
+====See also====
+* {{ja-r|羽化|うか}}
+
+===Verb===
+{{ja-verb-suru|ふか}}
+
+# [[incubate]]
+# [[hatch]]
+# {{lb|ja|biology|sort=ふか}} [[eclose]]
+
+====Conjugation====
+{{ja-suru|ふか}}
+
+[[ko:孵化]]
+[[mg:孵化]]
+[[chr:孵化]]
+[[zh:孵化]]

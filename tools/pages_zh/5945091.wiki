@@ -1,0 +1,18 @@
+==Chinese==
+{{zh-forms|s=贷方}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàifāng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|accounting}} [[credit]] side of a [[balance sheet]] ([[creditor]], [[lender]])
+
+====Antonyms====
+* {{zh-l|借方}}
+
+[[ja:貸方]]

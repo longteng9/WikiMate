@@ -1,0 +1,90 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=08|sn=12|four=45953|canj=DQKQ|ids=⿰木奉}}
+
+====References====
+* {{Han ref|kx=0532.100|dkj=14929|dj=0920.170|hdz=21222.090|uh=68D2|ud=26834|bh=B4CE|bd=46286}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=棓-“stick”}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|t1=tree, wood|奉|ls=psc|c1=s|c2=p}} – a wooden club.
+
+===Pronunciation===
+{{zh-pron
+|m=bàng
+|c=paang5
+|h=
+|md=
+|mn=pāng
+|w=
+|mc=y
+|oc=y
+|ma=y
+|cat=n,v,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[stick]]; [[club]]; [[truncheon]]
+# to [[hit]] with a [[stick]]
+# {{lb|zh|colloquial}} [[terrific]]; [[smart]]; [[handsome]]; [[excellent]]; [[skillful]]
+# {{lb|zh|colloquial}} [[hefty]]; [[strong]]
+
+===Compounds===
+{{zh-der|好棒|記憶棒|棒子|包米棒子|交棒|冰棒|巨棒外交|強棒|巨棒|少棒|亂棒胡敲|夾槍帶棒|哨棒|回飛棒|回力棒|哭竹棒|哭喪棒|吃棒|棒針|矽碳棒|拖鎗拽棒|當頭棒喝|棒狀桿菌|棒瘡|棒頭|棒子麵|持刀弄棒|擦棒球|火棒|硬棒|接棒人|棍棒|棒壇|椎棒|接力棒|棒針衫|指揮棒|棒兒香|棒客|棒球|硬式棒球|當頭一棒|梢棒|球棒|狼牙棒|棒球卡|控制棒|拳棒|炭精棒|棒喝|棒子手|撥火棒|接棒|棒球場|磁棒|桿棒|殺威棒|木棒|窮棒子|棒球賽|棒槌|棒球隊|迎頭棒喝|赤棒|金錢棒舞|電棒|金錢棒|花棒舞|蒲棒|花棒|馬棒|藕棒兒|金箍棒|黃桑棒|軟式棒球|職棒|青棒|青少棒|雙棒兒|限棒|連廂棒|鐵棒}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=木08}}
+
+# {{defn|lang=ja|sort=木08}}
+
+====Readings====
+* {{ja-readings|goon=[[ぼう]] (bō)|kanon=[[ほう]] (hō)|kun=[[つえ]] (tsue)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=봉|eumhun=몽둥이|rv=bong|mr=pong|y=pong}}
+
+# {{defn|lang=ko|sort=木08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[vổng]], [[bọng]], [[bộng]], [[bổng]], [[búng]]|rs=木08}}
+
+# {{defn|lang=vi|sort=木08}}
+
+[[fr:棒]]
+[[ko:棒]]
+[[kn:棒]]
+[[lo:棒]]
+[[lt:棒]]
+[[hu:棒]]
+[[mg:棒]]
+[[fj:棒]]
+[[ja:棒]]
+[[no:棒]]
+[[pl:棒]]
+[[fi:棒]]
+[[tl:棒]]
+[[th:棒]]
+[[chr:棒]]
+[[vi:棒]]
+[[zh:棒]]

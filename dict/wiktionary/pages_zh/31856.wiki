@@ -1,0 +1,50 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=188|rad=骨|as=09|sn=19|four=73264|canj=BBJHR}}
+
+# the pelvis
+
+====References====
+* {{Han ref|kx=1450.090|dkj=45227|dj=1976.230|hdz=74415.150|uh=9AC2|ud=39618|bh=F3C1|bd=62401}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qià,gé
+|c=kaa3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|髂骨}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=가|eumhun=|rv=ga|mr=ka|y=ka}}
+
+# {{defn|lang=ko|sort=骨09}}
+
+[[fr:髂]]
+[[mg:髂]]
+[[pl:髂]]
+[[th:髂]]
+[[zh:髂]]

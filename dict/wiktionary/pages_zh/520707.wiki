@@ -1,0 +1,81 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chū血
+|c=ceot1 hyut3
+|h=pfs=chhut-hiet
+|mn=chhut-hoeh/chhut-huih
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[hemorrhage]]; [[bleeding]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[bleed]]
+# {{lb|zh|slang}} to [[pay]] a large amount of [[money]] for something
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅつ|けつ|k1=しゅっ|yomi=o}}
+
+===Noun===
+{{ja-noun|しゅっけつ}}
+
+# {{lb|ja|medicine|sort=しゅっけつ}} [[hemorrhage]], [[bleeding]]
+# [[loss]] in business etc.
+
+====Synonyms====
+* {{sense|bleeding}} {{ja-r|溢血|いっけつ}}
+
+====Hyponyms====
+* {{ja-r|内出血|ないしゅっけつ|gloss=internal bleeding}}
+* {{ja-r|外出血|がいしゅっけつ|gloss=external bleeding}}
+
+===Verb===
+{{ja-verb-suru|trans=intrans|しゅっけつ}}
+
+# to [[hemorrhage]], to [[bleed]]
+# to take a loss
+
+====Conjugation====
+{{ja-suru|しゅっけつ}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=출혈}}
+
+# {{hanja form of|출혈|[[hemorrhage]], [[bleeding]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Verb===
+{{vi-hantu|pos=verb}}
+
+# {{han tu form of|xuất huyết|to [[bleed]]}}
+
+[[zh-min-nan:出血]]
+[[el:出血]]
+[[fr:出血]]
+[[lt:出血]]
+[[hu:出血]]
+[[mg:出血]]
+[[fj:出血]]
+[[nl:出血]]
+[[ja:出血]]
+[[chr:出血]]
+[[zh:出血]]

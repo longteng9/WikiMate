@@ -1,0 +1,159 @@
+{{character info/new}}
+{{also|菇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=05|sn=8|four=44460|canj=VJR|ids=⿰女古}}
+
+# [[father]]'s [[sister]]
+# [[husband]]'s [[sister]]
+# [[husband]]'s [[mother]]
+
+====Derived characters====
+* [[菇]]
+
+===References===
+* Crook 1985: page 241
+* Jingrong: 241
+* Lin Yutang: 93A.40, page 1409
+* Nelson: 1201
+* {{Han ref|kx=0258.320|dkj=06174|dj=0524.060|hdz=21035.040|uh=59D1|ud=22993|bh=A968|bd=43368}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|t1=woman|古|ls=psc|c1=s|c2=p}} – a type of woman (aunt, mother-in-law).
+
+===Pronunciation===
+{{zh-pron
+|m=gū
+|c=gu1
+|mn=ko͘
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|姑表|姑爹|姑夫|姑父|姑姑|姑舅|姑老爺|姑姥姥|姑媽|姑母|姑奶奶|姑娘|姑娘兒|姑婆|姑且|姑嫂|姑妄聽之|何仙姑|姑妄言之|姑息|姑息養奸|姑爺|姑爺爺|姑丈|姑子|慈姑|小姑獨處|小姑娘|三姑六婆|姑息政策|婦姑|卦姑|姑公|姑媳|仙姑|姑嫜|姑丈人|堂分姑娘|僕射姑|尼姑庵|師姑|姑洗|姑太太|固姑|大姑娘|小姑|尼姑|小姑子|嫜姑|婦姑勃谿|姑蘇|姑舅作親|姑惡|姑家|姑婆芋|姑娘氣|姑娘家|伴姑兒|姑婿|姑射神人|大姑子|公姑|姑姊|僕姑|伴姑|大姑|灰姑娘|秀姑巒溪|火金姑|皇姑|皇姑屯|摩姑|村姑|月姑|新姑爺|虎姑婆|胡姑姑|豆姑娘|舅姑|阿姑|麻姑山|黃姑|翁姑|藍姑草|麻姑搔癢|麻姑|魯義姑|藐姑射|金僕姑|迎紫姑|麻姑獻壽|胖姑|花姑|道姑|箕姑|紫姑|雪姑|紅姑娘|老姑娘}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女05}}
+
+# {{defn|lang=ja|sort=女05}}
+
+====Readings====
+{{ja-readings|goon=[[く]] (ku)|kanon=[[こ]] (ko)|kun=[[しゅうとめ]] (shūtome), [[おば]] (oba), [[しばらく]] (shibaraku)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|外姑|がいこ}}
+* {{ja-r|舅姑|きゅうこ}}
+* {{ja-r|姑娘|クーニャン}}
+* {{ja-r|慈姑|くわい}}
+* {{ja-r|姑洗|こせん}}
+* {{ja-r|姑臧|^こぞう}}: Guzang
+* {{ja-r|姑息|こそく}}
+* {{ja-r|姑射山|こやさん}}
+* {{ja-r|梯姑|でいご}}: [[Indian coral tree]]
+* {{ja-r|麻姑|^まこ}}
+* {{ja-r|鼠姑|わらじむし}}
+{{der-bottom}}
+
+===Etymology 1===
+/sihi<small>1</small>to<small>2</small>me<small>1</small>/: [shipitwome] → [shiɸitwome] → [shiɸitome]. Compound of {{m|ja|舅||in law|tr=shihito}} and {{m|ja|女||woman|tr=me}}. See next entry.
+
+====Noun====
+{{ja-noun|しひとめ}}
+
+# a mother-in-law
+
+===Etymology 2===
+{{ja-kanjitab|しゅうとめ|yomi=k}}
+From [[姑|shihitome]]: [shipitwome] → [shiɸitwome] → [shiɸitome] → [shiɸutome] → [shiwutome] → [shiutome] → [shuːtome].
+
+====Pronunciation====
+{{ja-pron|yomi=k|しゅうとめ|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|しゅうとめ|hhira=しうとめ}}
+
+# a mother-in-law
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|妹姑|いもしゅうとめ}}, {{ja-r|姨|いもしゅうとめ}}
+* {{ja-r|小姑|こじゅうとめ}}
+* {{ja-r|姑御|しゅうとめご}}
+* {{ja-r|姑去り|しゅうとめざり}}
+* {{ja-r|蕗の姑|ふき の しゅうとめ}}
+* {{ja-r|嫁が姑に成り上がる|よめ が しゅうとめ に なりあがる}}
+{{der-bottom}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{ja-pron|yomi=k|しゅうと|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|しゅうと|hhira=しうと}}
+
+# a mother-in-law
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|姉姑|あねじゅうと}}
+* {{ja-r|小姑|こじゅうと}}
+* {{ja-r|姑御|しゅうとご}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|rv=go|mr=ko}}
+
+# {{defn|lang=ko|sort=女05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cô]], [[go]], [[o]]|rs=女05}}
+
+# {{defn|lang=vi|sort=女05}}
+
+[[fr:姑]]
+[[ko:姑]]
+[[lo:姑]]
+[[lt:姑]]
+[[li:姑]]
+[[hu:姑]]
+[[mg:姑]]
+[[fj:姑]]
+[[ja:姑]]
+[[no:姑]]
+[[pl:姑]]
+[[ro:姑]]
+[[fi:姑]]
+[[sv:姑]]
+[[th:姑]]
+[[chr:姑]]
+[[zh:姑]]

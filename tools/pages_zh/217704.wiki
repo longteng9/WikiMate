@@ -1,0 +1,86 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=yǔshuǐ
+|c=jyu5 seoi2
+|h=pfs=yí-súi
+|mn=xm,zz,tw:hō͘-chúi/qz:hǒ͘-chúi
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[rainwater]]
+# [[rainfall]]; [[precipitation]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=Yǔshuǐ
+|c=jyu5 seoi2
+|h=pfs=Yí-súi
+|mn=xm,qz,tw:Ú-súi/zz:Í-súi
+|cat=pn
+}}
+
+====Proper noun====
+{{zh-proper}}
+
+# the 2nd of the 24 [[w:solar term|solar terms]] around February 18th, 19th, or 20th, after which there should be no more [[snow]], but [[rain]] [[shower]]s are expected
+
+====See also====
+{{list:solar terms/zh}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|あま|みず|yomi=k}}
+{{ja-kanjitab|う|すい|yomi=o}}
+
+===Etymology 1===
+From {{m|ja|雨|sc=Jpan|tr=ama||rain}} + {{m|ja|水|sc=Jpan|tr=mizu||water}}.
+
+====Noun====
+{{ja-noun|あまみず}}
+
+# [[rainwater]]
+
+===Etymology 2===
+From {{etyl|ltc|ja}} {{IPAchar|/*ɣioɕjuɪ/}} > {{etyl|ja|-}} {{IPAchar|/usui/}}.
+
+====Proper noun====
+{{ja-pos|うすい|proper}}
+
+# {{n-g|The second [[w:solar terms|solar term]], literally meaning "rain water".|lang=ja}}
+
+===See also===
+{{list:solar terms/ja}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Proper noun===
+{{vi-hantu}}
+
+# {{han tu form of|vũ thủy|{{n-g|The second [[w:solar terms|solar term]], literally meaning "rain water".|lang=vi}}}}
+
+[[be:雨水]]
+[[fr:雨水]]
+[[ko:雨水]]
+[[it:雨水]]
+[[li:雨水]]
+[[hu:雨水]]
+[[mg:雨水]]
+[[ja:雨水]]
+[[km:雨水]]
+[[pl:雨水]]
+[[ru:雨水]]
+[[fi:雨水]]
+[[zh:雨水]]

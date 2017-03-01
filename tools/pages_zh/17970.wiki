@@ -1,0 +1,98 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=10|sn=14|four=47937|canj=DYHR|ids=⿰木追}}
+
+====References====
+* {{Han ref|kx=0546.080|dkj=15318|dj=0933.220|hdz=21252.030|uh=69CC|ud=27084|bh=BA6C|bd=47724}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology===
+{{rfe|zh|What relation is there between [[錘]], [[槌]], [[鎚]], and [[椎]]?}}
+
+===Pronunciation===
+{{zh-pron
+|m=chuí
+|c=ceoi4
+|h=pfs=chhùi
+|mn=thûi
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[hammer]], [[mallet]]
+# [[strike]], [[beat]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=木10}}
+
+# {{defn|lang=ja|sort=木10}}
+
+====Readings====
+* {{ja-readings|on=[[つい]] (tsui)|kun=[[つち]] (tsuchi)}}
+
+====Compounds====
+* {{ja-r|破城槌|はじょうつい}}
+* {{ja-r|金槌|かなづち}}
+
+{{wikipedia|lang=ja}}
+
+===Noun===
+{{ja-noun|つち}}
+
+# [[hammer]]
+
+====Derived terms====
+* {{ja-r|金槌|かなづち}}
+
+====See also====
+* {{ja-r|ハンマー}}
+
+[[Category:ja:Tools|つち]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[퇴]], [[추]]|eumhun=|rv=toe, chu|mr=t'oe, ch'u|y=thoy, chwu}}
+
+# {{defn|lang=ko|sort=木10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木10| hanviet = [[dùi]], [[chùy]]}}
+
+# {{defn|lang=vi|sort=木10}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:槌]]
+[[lo:槌]]
+[[mg:槌]]
+[[ja:槌]]
+[[pl:槌]]
+[[th:槌]]
+[[chr:槌]]
+[[vi:槌]]
+[[zh:槌]]

@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=02|sn=5|four=|canj=GHU|ids=⿱土儿}}
+
+# [[mushroom]]
+
+====References====
+* {{Han ref|kx=0223.091|dkj=04877|dj=0455.090|hdz=10417.110|uh=5725|ud=22309}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lù
+|c=luk6
+|mc=
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-only used in|菌圥}}
+
+====References====
+*(''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 85]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土02}}
+
+# {{defn|lang=ja|sort=土02}}
+
+====Readings====
+* {{ja-readings|on=[[ろく]] (roku)|kun=[[きのこ]] (kinoko)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=록|rv=rok|mr=rok}}
+
+# {{defn|lang=ko|sort=土02}}
+
+[[fr:圥]]
+[[ko:圥]]
+[[li:圥]]
+[[hu:圥]]
+[[pl:圥]]
+[[ru:圥]]
+[[th:圥]]
+[[zh:圥]]

@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=09|sn=13|four=52947|canj=DBME|ids=⿰木爰}}
+
+====References====
+* {{Han ref|kx=0540.170|dkj=15158|dj=0928.030|hdz=21253.050|uh=6965|ud=26981|bh=DDDD|bd=56797}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xuàn
+|c=hyun3,jyun4
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# a [[last]] for [[making]] [[shoe]]s
+# to [[turn on]] a [[lathe]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木09}}
+
+# {{defn|lang=ja|sort=木09}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken), [[かん]] (kan), [[えん]] (en)|kun=[[かた]] (kata)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=원|eumhun=|rv=won|mr=wŏn|y=wen}}
+
+# {{defn|lang=ko|sort=木09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木09| hanviet = huyễn}}
+
+# {{defn|lang=vi|sort=木09}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6965 Nom Foundation]
+
+[[fr:楥]]
+[[hu:楥]]
+[[pl:楥]]
+[[th:楥]]
+[[zh:楥]]

@@ -1,0 +1,104 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=08|sn=12|four=65027|canj=AQMB|ids=⿰日青}}
+
+# [[clear]] [[weather]], [[fine]] weather
+
+====References====
+* {{Han ref|kx=0496.390|dkj=13994|dj=0863.100|hdz=21515.070|uh=6674|ud=26228|bh=B4B8|bd=46264}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qíng
+|c=cing4,ceng4
+|h=pfs=
+|md=
+|mn=qz,xm,zz:chêng/qz,tp,xm:chîⁿ/kh,zz:chêⁿ/twvt:chīⁿ
+|w=
+|ma=y
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[晴霭]]
+* [[晴好]]
+* [[晴和]]
+* [[晴空]]
+* [[晴朗]]
+* [[晴丽]]
+* [[晴美]]
+* [[晴明]]
+* [[晴爽]]
+* [[晴天]]
+* [[晴天霹雳]]
+* [[晴雨表]]
+* [[晴雨伞]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=日08}}
+
+# clear up
+
+====Readings====
+* {{ja-readings
+|goon=[[しょう]] (shō) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[せい]] (sei)
+|kun=[[はれる]] (hareru), [[はれ]] (hare), [[はらす]] (harasu)
+|nanori=[[はる]] (haru)}}
+
+===Noun===
+{{ja-noun|はれ}}
+
+# {{alternative form of|晴れ|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[청]]|eumhun=|rv=cheong|mr=ch'ŏng|y=cheng}}
+
+# {{defn|lang=ko|sort=日08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tạnh]], [[tành]], [[tình]], [[thanh]], [[thinh]]|rs=日08}}
+
+# {{defn|lang=vi|sort=日08}}
+
+[[fr:晴]]
+[[ko:晴]]
+[[hu:晴]]
+[[mg:晴]]
+[[ja:晴]]
+[[no:晴]]
+[[pl:晴]]
+[[sr:晴]]
+[[ta:晴]]
+[[th:晴]]
+[[uk:晴]]
+[[zh:晴]]

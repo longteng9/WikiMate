@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=04|sn=7|four=31114|canj=EMG|ids=⿰氵王}}
+
+# [[vast]], [[extensive]], [[deep]]
+# {{surname|lang=zh|dot=,}} listed 104th in the ''{{w|Hundred Family Surnames}}''
+
+====References====
+* {{Han ref|kx=0607.120|dkj=17154|dj=1000.130|hdz=31557.080|uh=6C6A|ud=27754|bh=A84C|bd=43084}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wāng
+|c=wong1
+|h=pfs=
+|md=
+|mn=ong
+|w=
+|mc=y
+|oc=y
+|cat=a,pn,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[woof]]
+# {{surname|lang=zh}}
+
+====Descendants====
+* {{qualifier|Hokkien dialect}} Tagalog: {{l|tl|Ang}}, {{l|tl|Ong}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水04}}
+
+# {{defn|lang=ja|sort=水04}}
+
+====Readings====
+* {{ja-readings|on=[[おう]] (ō)|kun=[[ひろい]] (hiroi), [[おおい]] (ooi), [[いけ]] (ike)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=왕|eumhun=|rv=wang|mr=wang|y=wang}}
+
+# {{defn|lang=ko|sort=水04}}
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水04| hanviet = uông}}
+
+# {{defn|lang=vi|sort=水04}}
+
+[[zh-min-nan:汪]]
+[[fr:汪]]
+[[hu:汪]]
+[[mg:汪]]
+[[ja:汪]]
+[[no:汪]]
+[[pl:汪]]
+[[th:汪]]
+[[zh:汪]]

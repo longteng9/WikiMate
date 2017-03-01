@@ -1,0 +1,106 @@
+==Chinese==
+{{zh-forms|to breathe out|to breathe in}}
+{{zh-wp}}
+
+===Pronunciation===
+{{zh-pron
+|m=hūxī
+|c=fu1 kap1
+|h=pfs=fû-khip
+|md=hù-ngék
+|mn=ho͘-khip
+|w=1hu xiq
+|mc=y
+|oc=y
+|ma=Zh-huxi.ogg
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[breathe]]
+
+===Noun===
+{{zh-noun}}
+
+# [[breath]]
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[respiratory]]
+#: {{zh-x|呼吸 器官|'''respiratory''' organ}}
+
+===Derived terms===
+{{zh-der|呼吸道|呼吸窘迫|呼吸困難|呼吸器|呼吸相通|呼吸系統|呼吸與共|呼吸作用|人工呼吸|深呼吸|睡眠呼吸暫停}}
+
+===Descendants===
+{{CJKV||こきゅう|호흡|hô hấp}}
+
+{{zh-cat|Elementary|Antonymous}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こ|きゅう|yomi=on}}
+
+===Noun===
+{{ja-noun|こきゅう}}
+
+# a [[breath]]
+# [[respiration]]
+# [[knack]]; the [[trick]] (to something)
+
+====Derived terms====
+* {{ja-r|深呼吸|しんこきゅう}}
+* {{ja-r|呼吸音|こきゅうおん}}
+* {{ja-r|過呼吸|かこきゅう}}
+* {{ja-r|呼吸困難|こきゅう こんなん}}
+* {{ja-r|呼吸器|こきゅうき}}
+
+====See also====
+* {{ja-r|吐く|はく}}
+* {{ja-r|息|いき}}
+
+===Verb===
+{{ja-verb-suru|こきゅう}}
+
+# [[breathe]], [[respire]]
+
+====Conjugation====
+{{ja-suru|こきゅう}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=호흡}}
+
+# {{hanja form of|호흡|[[breath]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|hô hấp|to [[breathe]]}}
+
+[[zh-min-nan:呼吸]]
+[[fr:呼吸]]
+[[ko:呼吸]]
+[[li:呼吸]]
+[[hu:呼吸]]
+[[mg:呼吸]]
+[[fj:呼吸]]
+[[ja:呼吸]]
+[[nds:呼吸]]
+[[sv:呼吸]]
+[[tl:呼吸]]
+[[chr:呼吸]]
+[[zh:呼吸]]

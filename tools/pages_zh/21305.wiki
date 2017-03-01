@@ -1,0 +1,167 @@
+{{character info/new}}
+{{also|癡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=08|sn=13|four=00160|canj=KOKR|ids=⿸疒知}}
+
+# [[foolish]], [[stupid]], [[dumb]], [[silly]]
+
+====References====
+* {{Han ref|kx=0774.380|dkj=22257|dj=1185.240|hdz=42681.010|uh=75F4|ud=30196|bh=B7F6|bd=47094}}
+
+----
+
+==Chinese==
+{{zh-forms|t2=癡}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chī
+|c=ci1
+|h=pfs=
+|md=
+|mn=chhi
+|mn-t=ci1
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一片痴心|似醉如痴|半痴不顛|呢呢痴痴|如痴似醉|如痴如夢|如痴如狂|如痴如迷|如痴如醉|如醉如痴|妍皮痴骨|嬌痴|小黠大痴|情痴|愚痴|懵懂痴呆|撒嬌撒痴|撒風撒痴|書痴|獃痴|男痴|痴人|痴人痴福|痴人說夢|痴倒|痴傻|痴兒|痴叔|痴呆|痴呆懵懂|痴呆症|痴姨|痴子|痴心|痴心妄想|痴情|痴想|痴掙|痴漢|痴然如醉|痴物|痴狂|痴獃|痴男怨女|痴痴|痴福|痴笑|痴肥|痴蟲|痴迷|痴那|痴鈍|痴長|痴頑|痴騃|發痴|白痴|花痴|詅痴符|貪夫痴客|賣痴獃|音痴|風痴|墨痴}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=疒08|style=s|kyu=癡}}
+
+# [[stupid]]
+# [[foolish]]
+
+====Readings====
+{{ja-readings
+|goon=[[ち]] (chi)
+|kanon=[[ち]] (chi)
+|kun=[[おこ]] (oko), [[うこ]] (uko), [[しれ]] (shire)
+}}
+
+====Compounds====
+* {{ja-r|痴女|ちじょ}}
+* {{ja-r|痴漢|ちかん}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|おこ}}
+{{IPAchar|/woko/}} → {{IPAchar|/oko/}}
+
+From {{etyl|ojp|ja|sort=おこ}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|おこ|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|烏滸}}, {{ja-l|尾籠}}
+
+====Adjective====
+{{ja-adj|decl=な|おこ|hhira=をこ|kyu=癡}}
+
+# [[foolish]], [[absurd]]
+# [[indecent]], [[indelicate]]
+
+=====Inflection=====
+{{ja-na|おこ}}
+
+=====Usage notes=====
+Historical sources<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> show that this term is more often used as an [[attributive]] [[noun]], followed by possessive particle {{ja-r|の}} when used to modify another noun.
+
+====Noun====
+{{ja-noun|おこ|hhira=をこ|kyu=癡}}
+
+# [[foolishness]], [[stupidity]]
+# [[indecency]], [[indelicateness]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|うこ}}
+{{IPAchar|/woko/}} → {{IPAchar|/uko/}}
+
+Sound shift from {{etyl|ojp|ja|sort=うこ}} ''woko''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Obsolete.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|うこ}}
+
+====Adjective====
+{{ja-adj|decl=な|うこ|kyu=癡}}
+
+# {{lb|ja|sort=うこ|obsolete}} [[foolish]], [[absurd]]
+# {{lb|ja|sort=うこ|obsolete}} [[indecent]], [[indelicate]]
+
+=====Inflection=====
+{{ja-na|うこ}}
+
+====Noun====
+{{ja-noun|うこ|kyu=癡}}
+
+# [[foolishness]], [[stupidity]]
+# [[indecency]], [[indelicateness]]
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|しれ}}
+Nominalization of the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|痴れる|tr=shireru||to become dimwitted, to become stupid}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|しれ}}
+
+====Alternative forms====
+* {{ja-l|痴れ}}
+
+====Noun====
+{{ja-noun|しれ|kyu=癡}}
+
+# [[foolishness]], [[stupidity]]
+
+===Etymology 4===
+{{ja-kanjitab|yomi=o|ち}}
+From {{etyl|ltc|ja|sort=ち}} {{m|zh|癡|tr=tjiə}}. Compare modern {{etyl|cmn|-}} simplified {{m|cmn|痴}} and traditional {{m|cmn|癡|tr=chī}}.
+
+====Pronunciation====
+{{ja-pron|yomi=on|ち|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ち|kyu=癡}}
+
+# [[foolishness]], [[stupidity]]
+# {{lb|ja|sort=ち|Buddhism}} [[ignorance]], one of the three roots of the [[vice]] [[dharma]]s
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=치|eumhun=|rv=chi|mr=ch'i|y=chi}}
+
+# {{defn|lang=ko|sort=疒08}}
+
+[[fr:痴]]
+[[ko:痴]]
+[[hu:痴]]
+[[mg:痴]]
+[[ja:痴]]
+[[no:痴]]
+[[pl:痴]]
+[[th:痴]]
+[[vi:痴]]
+[[zh:痴]]

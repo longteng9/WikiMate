@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|拈|捻}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=12|sn=15|four=53033|canj=QBKF|ids=⿰扌然}}
+
+====References====
+* {{Han ref|kx=0454.230|dkj=12713|dj=0804.030|hdz=31961.050|uh=649A|ud=25754|bh=BCBF|bd=48319}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=捻,𡳞-vulgar,𨶙-vulgar}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=niǎn
+|c=nin2,nan2,nin5
+|mn=lián
+|mc=y
+|oc=y
+|cat=v,c:n,c:part
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[pinch]]; to [[pick up]] (with one's fingers)
+# to [[take]]; to [[hold]]
+# to [[rub]] (with one's fingers)
+# to [[fiddle]]; to [[fidget]]
+# to [[play]] [[tricks]]; to [[toy]] with; to [[tease]]
+# to [[trample]]; to [[tread]]
+# {{zh-alt-form|攆|to [[expel]]; to [[drive out]]}}
+# {{lb|zh|music}} to [[press]] on or lightly [[pinch]] in the [[string]]s of the ''[[pipa]]'' to produce a [[wave]]-like effect
+# {{lb|zh|Min Nan}} to [[swindle]]; to [[defraud]]
+# {{lb|zh|Cantonese|vulgar}} [[penis]] {{zh-mw|c:條}}
+# {{lb|zh|Cantonese|vulgar}} [[fucking]]; [[freaking]]; [[the hell]]; [[the fuck]]
+# {{lb|zh|Cantonese|vulgar}} {{n-g|Negates the meaning of the sentence.}}
+
+===Compounds===
+{{zh-der|含撚|加撚|吃醋撚酸|撚分子|撚指|撚酸|撚錢|撚靶兒|紙撚兒|輕攏慢撚}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手12}}
+
+# {{defn|lang=ja|sort=手12}}
+
+====Readings====
+* {{ja-readings|on=[[ねん]] (nen)|kun=[[ひねる]] (hineru), [[よる]] (yoru), [[より]] (yori)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[년]]>[[연]]|eumhun=|rv=nyeon>yeon|mr=nyŏn>yŏn|y=nyen>yen}}
+
+# {{defn|lang=ko|sort=手12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手12|hanviet=niệm}}
+
+# {{defn|lang=vi|sort=手12}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=649a Nom Foundation]
+
+[[zh-min-nan:撚]]
+[[fr:撚]]
+[[hu:撚]]
+[[ja:撚]]
+[[pl:撚]]
+[[th:撚]]
+[[zh:撚]]

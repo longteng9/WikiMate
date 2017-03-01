@@ -1,0 +1,91 @@
+{{also|何时}}
+==Chinese==
+{{zh-forms|s=何时}}
+
+===Pronunciation===
+{{zh-pron
+|m=héshí
+|c=ho4 si4
+|mn=hô-sî
+|cat=pron
+}}
+
+===Pronoun===
+{{zh-pronoun}}
+
+# {{lb|zh|literary}} [[when]]; [[what]] [[time]]
+#: {{zh-x|唉{Ài}，我 不知 何時 再 能 與 他 相{xiāng}見。|Alas, I do not know '''when''' I will see him again.}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|sort=いつ}}
+From {{etyl|ojp|ja|sort=いつ}}.
+
+The presence of other {{etyl|ojp|ja|sort=いつ}} indefinites beginning with {{lang|ja|い}} (''i'') suggests a possible shared root of {{lang|ja|い}} (''i'', possibly “what” or “which”).
+
+Likely cognate with eastern {{etyl|ojp|ja|sort=いつ}} word ''izu'', ''idzu'' (“where”), still used in modern Japanese as part of the word {{m|ja|いずれ|tr=izure||which}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[it͡sɯᵝ]}}
+
+====Pronoun====
+{{ja-pos|pronoun|いつ}}
+
+# [[when]], [[which]] [[day]]
+
+=====Usage notes=====
+''Itsu'' is most often spelled in hiragana as {{l|ja|いつ}}. ''Itsu'' is more commonly used to mean {{m|en|when}} in terms of dates or days, while ''nanji'' is more commonly used to mean {{m|en|when}} in terms of time of day.
+
+=====Derived terms=====
+* {{ja-r|何時も|いつ も}}: [[always]], [[forever]], [[all the time]]
+
+===Etymology 2===
+{{ja-kanjitab|なん|じ|yomi=y}}
+Compound of {{compound|lang=ja|sort=なんじ|何|tr1=nan|t1=what|時|tr2=ji|t2=hour}}. The ''nan'' portion is from {{etyl|ojp|ja|sort=なんじ}}, the ''ji'' portion is a borrowing from {{etyl|ltc|ja|sort=なんじ}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|湯桶読み|Yutōyomi}}
+* {{IPA|lang=ja|[nã̠ɴd͡ʑi]}}
+
+====Pronoun====
+{{ja-pos|pronoun|なんじ}}
+
+# [[what]] [[time]], [[when]]
+
+=====Usage notes=====
+''Nanji'' is often spelled in kanji. ''Nanji'' is more commonly used to mean {{m|en|when}} in terms of time of day, while ''itsu'' is more commonly used to mean {{m|en|when}} in terms of dates or days.
+
+===Etymology 3===
+{{ja-kanjitab|なん|とき|k2=どき|yomi=k}}
+Compound of {{etyl|ojp|ja|sort=なんどき}} elements {{compound|lang=ja|sort=なんどき|何|tr1=nan|t1=what|時|tr2=toki|t2=time}}. The ''toki'' changes to ''doki'' due to {{rendaku|なんどき}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[nã̠ɴdo̞ki]}}
+
+====Alternative forms====
+* {{l|ja|何刻}}
+
+====Pronoun====
+{{ja-pos|pronoun|なんどき}}
+
+# [[what]] [[time]], [[when]]
+
+=====Usage notes=====
+Use is more limited than ''nanji'' or ''itsu''. Most commonly found in set phrase {{lang|ja|いつなんどき}} (''itsu nandoki''), comparable to English phrase “when and at what time”, but only used when expressing ignorance, never used in questions.
+
+[[zh-min-nan:何時]]
+[[cs:何時]]
+[[fr:何時]]
+[[ko:何時]]
+[[ku:何時]]
+[[lo:何時]]
+[[li:何時]]
+[[hu:何時]]
+[[mg:何時]]
+[[pl:何時]]
+[[chr:何時]]

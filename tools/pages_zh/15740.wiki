@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=09|sn=12|four=91014|canj=PAIU|ids=⿰忄既}}
+
+# [[sigh]], [[regret]]
+# [[generous]]
+
+====References====
+* {{Han ref|kx=0399.240|dkj=11122|dj=0739.110|hdz=42331.120|uh=6168|ud=24936|bh=B46E|bd=46190}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kǎi
+|c=koi2,koi3
+|h=pfs=khói
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|感慨萬千|慨然|感慨|慷慨激昂|慷慨陳詞|慷慨激烈|慷慨悲歌|慷慨仗義|慷慨|慨憤|慨然領諾|慨然應允|慨然允諾|慨歎|慨慨|慨想|慨嘆|慨允|慷慨解囊|慨恨|慷慨擔承|悲歌慷慨|慷慨捐生|慷慨赴義|憤慨|激昂慷慨|軫慨}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=心09}}
+
+# [[rue]], [[lament]], be [[sad]]
+# [[sigh]]
+
+====Readings====
+* {{ja-readings|goon=[[かい]] (kai)|kanon=[[かい]] (kai)|kanyoon=[[がい]] (gai)|kun=[[なげく]] (nageku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=개|eumhun=|rv=gae|mr=kae|y=kay}}
+
+# {{defn|lang=ko|sort=心09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khái]], [[khới]]|rs=心09}}
+
+# {{defn|lang=vi|sort=心09}}
+
+[[fr:慨]]
+[[ko:慨]]
+[[li:慨]]
+[[hu:慨]]
+[[mg:慨]]
+[[ja:慨]]
+[[no:慨]]
+[[pl:慨]]
+[[th:慨]]
+[[zh:慨]]

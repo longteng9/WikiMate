@@ -1,0 +1,23 @@
+{{also|试算表}}
+==Chinese==
+{{zh-forms|s=试算表}}
+
+===Pronunciation===
+{{zh-pron
+|m=shìsuànbiǎo
+|c=si3 syun3 biu2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|computing}} [[spreadsheet]]
+
+===References===
+* {{cite-web
+|url=http://www.google.com/search?hl=en&lr=&as_qdr=all&q=%22%E8%A9%A6%E7%AE%97%E8%A1%A8%22+%22spreadsheet%22
+|title="試算表" "spreadsheet"
+|work=google search
+|language=Mandarin/English
+|accessdate=2008-05-13}}

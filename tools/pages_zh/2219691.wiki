@@ -1,0 +1,76 @@
+{{also|海啸}}
+==Chinese==
+{{zh-forms|s=海啸}}
+
+===Pronunciation===
+{{zh-pron
+|m=hǎixiào
+|c=hoi2 siu3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[tsunami]]
+
+====Synonyms====
+* {{zh-l|海漲}}
+
+====Descendants====
+{{CJKV||かいしょう|해소}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Tidal bore}}
+{{wikipedia|Tsunami}}
+</div>
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|かい|しょう}}
+{{IPAchar|/kaiseu/}} → {{IPAchar|/kaiɕeu/}} → {{IPAchar|/kaiɕoː/}}
+
+From {{etyl|ltc|ja|sort=かいしょう}} compound {{m|zh|海嘯|tr=xoj<sup>X</sup> sew<sup>H</sup>|lit=sea, ocean + to roar, to wail}}, with the latter character in reference to the sound of the rushing water during a [[tidal bore]].  Compare modern {{etyl|cmn|-}} reading ''hǎixiào''.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|かいしょう|acc=0|acc_ref=DJR,SMK5}}
+
+====Noun====
+{{ja-noun|かいしょう|hhira=かいせう}}
+
+# a [[tidal bore]]
+# a [[tsunami]], a [[tidal wave]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|sort=つなみ}}
+Compound of {{compound|lang=ja|sort=つなみ|津|tr1=tsu|t1=cove, inlet, outlet|波|tr2=nami|t2=wave}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+The spelling is {{ateji|sort=つなみ}}, probably as the result of applying the spelling for the Chinese-derived term ''kaishō'' to the native Japanese term ''tsunami'', given the superficial similarity of a [[tidal bore]] to a [[tsunami]].
+
+====Pronunciation====
+{{ja-pron|yomi=irr|つなみ|acc=0|acc_ref=NHK,DJR,SMK5}}
+
+====Alternative forms====
+* {{ja-l|津波}}, {{ja-l|津浪}}
+
+====Noun====
+{{ja-noun|つなみ}}
+
+# {{alternative spelling of|lang=ja|津波}}: {{lb|ja|hydrology|less common|sort=つなみ}} a [[tidal bore]]
+# {{alternative spelling of|lang=ja|津波}}: {{lb|ja|oceanography|sort=つなみ}} a [[tsunami]], a [[tidal wave]]
+
+=====Synonyms=====
+* {{sense|tidal bore}} {{ja-r|潮津波|しお つなみ}}
+
+===References===
+<references/>
+
+[[zh-min-nan:海嘯]]
+[[ko:海嘯]]
+[[hu:海嘯]]
+[[mg:海嘯]]
+[[ja:海嘯]]
+[[ru:海嘯]]

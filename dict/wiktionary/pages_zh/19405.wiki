@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=11|sn=14|four=35166|canj=ETWA|ids=⿰氵曹}}
+
+# transport by water
+# canal transportation
+
+====References====
+* {{Han ref|kx=0645.240|dkj=18131|dj=1055.010|hdz=31718.020|uh=6F15|ud=28437|bh=BAA8|bd=47784}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cáo
+|c=cou4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=水11}}
+
+# {{defn|lang=ja|sort=水11}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[こぐ]] (kogu), [[はこぶ]] (hakobu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=水11}}
+
+[[fr:漕]]
+[[hu:漕]]
+[[mg:漕]]
+[[ja:漕]]
+[[pl:漕]]
+[[th:漕]]
+[[zh:漕]]

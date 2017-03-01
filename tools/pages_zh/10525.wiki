@@ -1,0 +1,98 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=7|rad=二|as=06|sn=8|four=21101|canj=YPMM|ids=⿱此二}}
+
+====References====
+* {{Han ref|kx=0087.100|dkj=00268|dj=0183.160|hdz=21441.080|uh=4E9B|ud=20123|bh=A8C7|bd=43207}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiē,suò
+|c=se1
+|mn=qz,xm,zz:sia/xm,zz:se
+|mn_note=sia - literary; se - vernacular
+|mc=y
+|oc=y
+|ma=zh-xiē.ogg
+|cat=a,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[little]], [[few]]
+# [[rather]], [[somewhat]]
+
+====Synonyms====
+{{zh-dial}}
+
+===Compounds===
+{{zh-der|一些|些些|些個|些兒|些小|些微|些許|些須|好些|有些|某些|楚些|爭些|的些|這些|那些|險些}}
+
+===References===
+* {{R:twedu|A00056}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=二06}}
+
+# {{defn|lang=ja|sort=二06}}
+
+====Readings====
+* {{ja-readings|goon=[[さ]] (sa)|kanon=[[しゃ]] (sha)|kun=[[いささか]] (isasaka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|rv=sa|mr=sa}}
+
+===Definitions===
+
+# [[little]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ta]], [[tá]]|rs=二06}}
+
+# {{han tu form of|ta|[[I]]; [[me]]; [[we]]; [[us]]}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e9b Nom Foundation]
+
+[[fr:些]]
+[[ko:些]]
+[[li:些]]
+[[hu:些]]
+[[mg:些]]
+[[ms:些]]
+[[nl:些]]
+[[ja:些]]
+[[no:些]]
+[[pl:些]]
+[[ta:些]]
+[[th:些]]
+[[chr:些]]
+[[uk:些]]
+[[zh:些]]

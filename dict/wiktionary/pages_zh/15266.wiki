@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=60|rad=彳|as=06|sn=9|four=26200|canj=HOWR|ids=⿰彳回}}
+
+# [[linger]], [[walk]] [[to and fro]], [[hesitate]], [[tarry]]
+
+====References====
+* {{Han ref|kx=0366.150|dkj=10095|dj=0687.090|hdz=20819.150|uh=5F8A|ud=24458|bh=ABDE|bd=43998}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huái
+|c=wui4
+|mn=hôe/tw:hoâi
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|低徊|低徊不已|弭節徘徊|徊徨|徊翔|徘徊|徘徊歧路}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=彳06}}
+
+# {{defn|lang=ja|sort=彳06}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai), [[え]] (e)|kun=[[さまよう]] (samayou)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=회|eumhun=|rv=hoe|mr=hoe|y=hoy}}
+
+# {{defn|lang=ko|sort=彳06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hồi]], [[hòi]]|rs=彳06}}
+
+# {{defn|lang=vi|sort=彳06}}
+
+[[fr:徊]]
+[[ko:徊]]
+[[hu:徊]]
+[[mg:徊]]
+[[ja:徊]]
+[[no:徊]]
+[[pl:徊]]
+[[th:徊]]
+[[zh:徊]]

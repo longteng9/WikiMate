@@ -1,0 +1,115 @@
+{{character info/new}}
+{{also|冲|盅}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=04|sn=7|four=35106|canj=EL|ids=⿰氵中}}
+
+# [[pour]], [[infuse]], [[steep]]
+# [[wash away]]
+# [[abbreviation]] of [[Okinawa]]
+
+====References====
+* {{Han ref|kx=0611.180|dkj=17209|dj=1004.080|hdz=31565.030|uh=6C96|ud=27798|bh=A852|bd=43090}}
+
+----
+
+==Chinese==
+{{zh-forms|s=冲}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chōng
+|c=cung1
+|h=pfs=chhûng
+|mn=chhèng/chhiâng/chhiong
+|cat=v
+|mc=y
+|oc=y
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[pour]] water on; to [[rinse]]; to [[flush]]; to [[wash]]
+#* {{zh-x|我 觉得 我 得{děi} 回家 '''冲''' 个 澡。|I think I'll go home and have a shower.}}
+#* {{zh-x|許多 房屋 被 洪水 '''沖'''走 了。|A lot of houses were '''washed''' away by the flood.}}
+#* {{zh-x|他 用 水 '''冲''' 了 把 脸，然后 刷牙。|He '''splashed''' water on his face, then brushed his teeth.}}
+# to [[infuse]]; to make drinks
+#* {{zh-x|冲 茶|to make tea}}
+#* {{zh-x|冲 咖啡|to make coffee}}
+#* {{zh-x|给 你 的 咖啡，按 你 的 口味 '''冲''' 的。|Here's your coffee, just the way you like it.}}
+# to [[soar]]; to [[rise]]; to [[shoot up]]
+# {{qualifier|of water}} to [[dash]] against; to [[collide]] with
+# to [[develop]] {{qualifier|a film}}
+#* {{zh-x|冲 胶卷|to develop a film}}
+
+===Compounds===
+{{der-top}}
+* {{zh-l|沖沖}}
+* {{zh-l|沖淡}}
+* {{zh-l|沖服}}
+* {{zh-l|沖積}}
+* {{zh-l|沖劑}}
+* {{zh-l|沖涼}}
+* {{zh-l|沖刷}}
+* {{zh-l|沖塌}}
+* {{zh-l|沖天}}
+* {{zh-l|沖洗}}
+{{der-bottom}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水04}}
+
+====Readings====
+* {{ja-readings|on=[[ちゅう]] (chū)|kun=[[おき]] (oki; [[offing]]), [[わく]] (waku)}}
+
+===Noun===
+{{ja-noun|おき}}
+
+# [[open sea]]
+
+===Proper noun===
+{{ja-pos|おき|proper}}
+
+# {{surname|lang=ja|sort=おき}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=충|eumhun=|rv=chung|mr=ch'ung|y=chwung}}
+
+# {{defn|lang=ko|sort=水04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trong]], [[trùng]], [[xung]]|rs=水04}}
+
+# {{defn|lang=vi|sort=水04}}
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville
+
+[[zh-min-nan:沖]]
+[[fr:沖]]
+[[ko:沖]]
+[[hu:沖]]
+[[mg:沖]]
+[[ja:沖]]
+[[pl:沖]]
+[[th:沖]]
+[[zh:沖]]

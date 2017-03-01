@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+{{borrowing|zh|en|setter}}
+
+====Pronunciation====
+{{zh-pron
+|m=sàitè
+|c=coi3 dak6
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[setter]]
+
+=====Synonyms=====
+* {{zh-l|塞特犬}}
+* {{zh-l|賽特}}
+* {{zh-l|賽特犬}}
+* {{zh-l|雪達}}
+* {{zh-l|雪達犬}}
+
+===Etymology 2===
+{{bor|zh|hbo|שֵׁת}}.
+
+====Pronunciation====
+{{zh-pron
+|m=Sàitè
+|c=sak1 dak6
+|h=pfs=Set-thi̍t
+|mn=Sài-te̍k
+|cat=pn
+}}
+
+====Proper noun====
+{{zh-proper}}
+
+# [[Seth]] {{gloss|son of Adam}}
+
+=====Synonyms=====
+* {{qualifier|dated}} {{zh-l|設}}
+* {{qualifier|Catholic}} {{zh-l|舍特}}
+
+{{zh-cat|Dogs|Biblical characters}}

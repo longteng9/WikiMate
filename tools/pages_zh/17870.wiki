@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=09|sn=13|four=47917|canj=DNST|ids=⿰木盈}}
+
+====References====
+* {{Han ref|kx=0542.090|dkj=15188|dj=0930.050|hdz=21258.020|uh=6979|ud=27001|bh=B7AD|bd=47021}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yíng
+|c=jing4
+|mc=y
+|oc=y
+|ma=
+|cat=n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[column]], [[pillar]]
+# [[numerary]] adjunct
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木09}}
+
+# {{defn|lang=ja|sort=木09}}
+
+====Readings====
+* {{ja-readings|on=[[えい]] (ei)|kun=[[はしら]] (hashira)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=영|eumhun=|rv=yeong|mr=yŏng|y=yeng}}
+
+# {{defn|lang=ko|sort=木09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[doanh]]|rs=木09}}
+
+# {{defn|lang=vi|sort=木09}}
+
+[[zh-min-nan:楹]]
+[[fr:楹]]
+[[hu:楹]]
+[[mg:楹]]
+[[ja:楹]]
+[[pl:楹]]
+[[th:楹]]
+[[zh:楹]]

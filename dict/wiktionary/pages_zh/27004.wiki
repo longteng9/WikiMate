@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|诔}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=06|sn=13|four=05690|canj=YRQD|ids=⿰言耒}}
+
+# [[eulogize]], [[praise]] the [[dead]]
+
+====References====
+* {{Han ref|kx=1160.100|dkj=35471|dj=1625.250|hdz=63960.100|uh=8A84|ud=35460|bh=E04C|bd=57420}}
+
+----
+
+==Chinese==
+{{zh-forms|s=诔}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lěi
+|c=loi6,leoi6
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言06}}
+
+# {{defn|lang=ja|sort=言06}}
+
+====Readings====
+* {{ja-readings|on=[[るい]] (rui)|kun=[[しのびご]] (shinobigo)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[뢰]]>[[뇌]]|eumhun=|rv=roe>noe|mr=roe>noe|y=loy>noy}}
+
+# {{defn|lang=ko|sort=言06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''誄''' ([[lụy]], [[trối]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:誄]]
+[[hu:誄]]
+[[ja:誄]]
+[[pl:誄]]
+[[th:誄]]
+[[zh:誄]]

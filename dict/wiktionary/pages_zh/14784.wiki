@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|峦}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=19|sn=22|four=22772|canj=VFU|ids=⿱䜌山}}
+
+# [[mountain]] [[range]]
+# [[point]]ed mountain
+
+====References====
+* {{Han ref|kx=0322.430|dkj=08640|dj=0623.090|hdz=10808.120|uh=5DD2|ud=24018|bh=C572|bd=50546}}
+
+----
+
+==Chinese==
+{{zh-forms|s=峦}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=luán
+|c=lyun4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|封巒|層巒疊嶂|山巒|岡巒|峰巒|巒兄巒弟|疊嶺層巒|萬巒鄉|秀姑巒溪}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山19}}
+
+# {{defn|lang=ja|sort=山19}}
+
+====Readings====
+* {{ja-readings|on=[[らん]] (ran)|kun=[[みね]] (mine)|nanori=[[やま]] (yama)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=만|rv=man|mr=man}}
+
+# {{defn|lang=ko|sort=山19}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=山19|hanviet=loại}}
+
+# {{defn|lang=vi|sort=山19}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5dd2 Nom Foundation]
+
+[[fr:巒]]
+[[li:巒]]
+[[hu:巒]]
+[[ja:巒]]
+[[pl:巒]]
+[[th:巒]]
+[[zh:巒]]

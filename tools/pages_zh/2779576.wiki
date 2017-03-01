@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=běncǎo
+|c=bun2 cou2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[materia medica]]
+
+====Synonyms====
+* {{zh-l|藥典}}
+
+====Derived terms====
+{{zh-der|本草綱目}}
+
+===References===
+* {{pedialite|Materia medica}}
+* {{pedialite|本草|lang=zh}}
+
+* {{cite-book
+|last=Lu Xun
+|first=
+|authorlink=w:Lu Xun
+|coauthors=
+|year=1918
+|title=[[s:A Madman's Diary#5|A Madman's Diary]]
+|publisher=
+|location=
+}}
+
+[[zh:本草]]

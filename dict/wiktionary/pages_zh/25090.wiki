@@ -1,0 +1,85 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=08|sn=14|four=44227|canj=TQMB|ids=⿱艹青}}
+
+# flower of leek family
+# [[turnip]]
+
+====References====
+* {{Han ref|kx=1036.450|dkj=31136|dj=1495.080|hdz=53227.060|uh=83C1|ud=33729|bh=B5D7|bd=46551}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīng
+|c=cing1,zing1
+|h=pfs=
+|md=
+|mn=cheng
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{zh-l|蕪菁|[[turnip]]}}
+{{der-bottom}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸08}}
+
+# {{defn|lang=ja|sort=艸08}}
+
+====Readings====
+{{ja-readings|goon=[[しょう]] (shō)|kanon=[[せい]] (sei)|kun=[[かぶ]] (kabu), [[かぶらな]] (kaburana), [[はなやか]] (hanayaka)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|蕪菁|かぶら}}: [[turnip]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=청|eumhun=|rv=cheong|mr=ch'ŏng|y=cheng}}
+
+# {{defn|lang=ko|sort=艸08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thanh]], [[tinh]]}}
+
+# {{defn|lang=vi|sort=艸08}}
+
+[[fr:菁]]
+[[hu:菁]]
+[[mg:菁]]
+[[ja:菁]]
+[[pl:菁]]
+[[th:菁]]
+[[zh:菁]]

@@ -1,0 +1,47 @@
+{{also|累计}}
+==Chinese==
+{{zh-forms|s=累计}}
+
+===Pronunciation===
+{{zh-pron
+|m=lěijì
+|mn=lúi-kè/lūi-kè
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[accumulate]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|るい|けい|yomi=on}}
+
+===Noun===
+{{ja-noun|るいけい}}
+
+# [[accumulated]] total
+
+===Verb===
+{{ja-verb-suru|tr=trans|るいけい}}
+
+# to [[total]], to come to a cumulative total
+
+====Conjugation====
+{{ja-suru|るいけい}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=누계}}
+
+# {{hanja form of|누계|total}}
+
+[[zh-min-nan:累計]]
+[[ko:累計]]
+[[hu:累計]]
+[[mg:累計]]
+[[zh:累計]]

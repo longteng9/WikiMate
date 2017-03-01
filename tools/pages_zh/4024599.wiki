@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yíháng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[hyphenate]] at the end of a line
+
+====Synonyms====
+* {{zh-l|轉行}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|い|こう|yomi=on}}
+
+===Noun===
+{{ja-noun|いこう}}
+
+# [[switchover]]
+#* {{RQ:Obama enzetsu}}
+#*: {{ja-usex|だが我々の支持は、未だ'''移行'''が起こっていない諸国にまで拡がらねばならない。|だ が われわれ の しじ は、 いまだ '''いこう''' が おこって いない しょこく に まで ひろがらねば ならない。|But our support must also extend to nations where transitions have yet to take place.}}
+
+===Verb===
+{{ja-verb-suru|いこう}}
+
+# [[move]], [[change over]]
+
+====Conjugation====
+{{ja-suru|いこう}}
+
+[[ko:移行]]
+[[hu:移行]]
+[[mg:移行]]
+[[zh:移行]]

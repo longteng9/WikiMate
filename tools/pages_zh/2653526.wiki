@@ -1,0 +1,47 @@
+{{also|休馆}}
+==Chinese==
+{{zh-forms|s=休馆}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiūguǎn
+|c=jau1 gun2
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|of a library or museum}} to be [[closed]] to public on a certain day
+
+----
+
+==Japanese==
+{{ja-kanjitab|きゅう|かん|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|きゅうかん|y=o}}
+
+===Noun===
+{{ja-noun|きゅうかん}}
+
+# [[library]] or [[museum]] [[closure]]
+#: {{ja-usex|月曜日は'''休館'''日です。|げつようび は '''きゅうかん'''び です。|The library (museum) is off on Mondays.}}
+
+====Coordinate terms====
+* {{ja-r|休業|gloss=business closure|きゅうぎょう}}
+
+===Verb===
+{{ja-verb-suru|tr=both|きゅうかん}}
+
+# for a library or museum to be closed
+
+====Conjugation====
+{{ja-suru|きゅうかん}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:休館]]
+[[ko:休館]]
+[[zh:休館]]

@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|馑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=184|rad=食|as=11|sn=20|four=84714|canj=OITLM}}
+
+# time of famine or crop failure
+
+====References====
+* {{Han ref|kx=1425.040|dkj=44366|dj=1950.340|hdz=74469.140|uh=9949|ud=39241|bh=C444|bd=50244}}
+
+----
+
+==Chinese==
+{{zh-forms|s=馑}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jǐn
+|c=gan2,gan6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|年饉|饑饉|饑饉之歲|饑饉荐臻|饑饉薦臻}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=食11}}
+
+# {{defn|lang=ja|sort=食11}}
+
+====Readings====
+* {{ja-readings|on=[[きん]] (kin)|kun=[[うえる]] (ueru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=근|eumhun=|rv=geun|mr=kŭn|y=kun}}
+
+# {{defn|lang=ko|sort=食11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''饉''' ([[cận]])
+
+# {{defn|lang=vi}}
+
+[[fr:饉]]
+[[ko:饉]]
+[[hu:饉]]
+[[ja:饉]]
+[[pl:饉]]
+[[th:饉]]
+[[zh:饉]]

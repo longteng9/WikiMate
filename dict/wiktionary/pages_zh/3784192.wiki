@@ -1,0 +1,42 @@
+{{also|统括}}
+==Chinese==
+{{zh-forms|s=统括}}
+
+===Pronunciation===
+{{zh-pron
+|m=tǒng括
+|c=tung2 kut3
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[encompass]] all; to [[sum up]]; to [[unify]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|かつ|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|とうかつ|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうかつ}}
+
+# [[unification]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|とうかつ}}
+
+# to [[unify]]
+
+====Conjugation====
+{{ja-suru|とうかつ}}
+
+===References===
+<references/>
+
+[[ja:統括]]
+[[zh:統括]]

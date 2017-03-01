@@ -1,0 +1,44 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=11|sn=14|four=58081|canj=QHOO|ids=⿰扌從}}
+
+# to [[hit]] (a [[bell]] or [[drum]])
+
+====References====
+* {{Han ref|kx=0449.160|dkj=12566|dj=0800.020|hdz=31947.150|uh=6450|ud=25680|bh=E1EC|bd=57836}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chuāng
+|c=cung1,coeng1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|摐摐}}
+
+===References===
+* {{R:twedu|B01407}}
+* {{R:yue:Hanzi}}
+
+[[fr:摐]]
+[[pl:摐]]
+[[th:摐]]
+[[zh:摐]]

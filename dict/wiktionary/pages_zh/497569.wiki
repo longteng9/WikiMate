@@ -1,0 +1,27 @@
+==Japanese==
+{{ja-kanjitab|ふ|かん|ぜん|yomi=o}}
+
+===Etymology===
+{{prefix|不|完全|lang=ja|t1=in-|t2=complete, perfect|sort=かんぜん}}
+
+===Adjectival noun===
+{{ja-adj|decl=な|ふかんぜん}}
+
+# [[incomplete]]
+# [[defective]], [[imperfect]]
+
+====Inflection====
+{{ja-na|ふかんぜん}}
+
+===Noun===
+{{ja-noun|ふかんぜん}}
+
+# [[imperfection]]
+# [[incompleteness]]
+# [[defectiveness]]
+
+[[ko:不完全]]
+[[mg:不完全]]
+[[pl:不完全]]
+[[chr:不完全]]
+[[zh:不完全]]

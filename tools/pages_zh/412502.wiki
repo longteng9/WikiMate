@@ -1,0 +1,63 @@
+{{also|必须}}
+==Chinese==
+{{zh-forms|s=必须}}
+
+===Pronunciation===
+{{zh-pron
+|m=bìxū
+|mn=pit-su
+|c=bit1 seoi1
+|h=pfs=pit-sî
+|w=4piq xy
+|ma=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# [[must]]; [[have to]] {{gloss|used as an auxiliary verb}}
+#: {{zh-x|這 道 坎 必須 得{děi} 過。|You '''must''' go through this.}}
+#: {{zh-x|你 申請 新 護照 時，必須 交出 舊 護照。|You '''must''' hand over your old passport when applying for a new one.}}
+
+====See also====
+* {{zh-l|應該}}
+* {{zh-l|非得}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひつ|k1=ひっ|す|yomi=on}}
+
+===Etymology===
+From {{m|ja|必|sc=Jpan|tr=hitsu||without fail}} + {{m|ja|須|sc=Jpan|tr=kyū||must}}
+
+===Adjectival noun===
+{{ja-adj|ひっす|decl=な}}
+
+# [[indispensable]], [[essential]]
+
+====Inflection====
+{{ja-na|ひっす}}
+
+===Noun===
+{{ja-noun|ひっす}}
+
+# [[indispensability]], a [[must]]
+
+====Derived terms====
+* [[必須格]] (''hissukaku''): (''linguistics'') indispensable case
+* [[必須科目]] (''hissu kamoku''): required subjects
+* [[必須条件]] (''hissu jōken''): essential condition
+* [[必須アミノ酸]] (''hissu aminosan''): essential amino acid
+
+[[zh-min-nan:必須]]
+[[fr:必須]]
+[[ko:必須]]
+[[hu:必須]]
+[[mg:必須]]
+[[ja:必須]]
+[[th:必須]]
+[[chr:必須]]

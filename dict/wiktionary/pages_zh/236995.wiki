@@ -1,0 +1,100 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{bor|zh|ja|-}} {{ja-r|切手|きって}}.
+
+===Pronunciation===
+{{zh-pron
+|mn=tw:khit-teh/tw:chhiat-chhiú
+|mn_note=khit-teh - from Japanese pronunciation
+|h=pfs=khit-té
+|h_note=khit-té - from Japanese pronunciation
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Taiwanese Min Nan and Hakka}} [[postage stamp]]
+
+====Synonyms====
+{{zh-dial|郵票}}
+
+===References===
+*{{qualifier|Min Nan}} {{thcwd|627}}
+*{{qualifier|Min Nan}} {{thcwd|31069}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|き|k1=きっ|て|yomi=irr|sort=きって}}
+
+===Etymology 1===
+From {{m|ja|切る|sc=Jpan}} (''kiru'', "cut," "slice," "carve") + {{m|ja|手|sc=Jpan}} (''te'', "hand")
+
+====Noun====
+{{ja-noun|きって}}
+
+# a [[stamp]]; a substitute for [[postage]] stuck to the [[postcard]]
+
+=====Derived terms=====
+{{top2}}
+* {{l|ja|切手帳}} (''kittechō''): stamp album; stamp booklet
+* {{l|ja|切手集め}} (''kitteatsume''): stamp collecting
+* {{l|ja|切手蒐集}}, {{l|ja|切手収集}} (''kitte shūshū''): philately, stamp collecting
+* {{l|ja|切手収集家}} (''kitte shūshūka''): philatelist, stamp collector
+* {{l|ja|切手を溜める}} (''shūshū o tameru''): collect stamps
+* {{l|ja|小切手}} (''kogitte''): check
+* {{l|ja|小切手外交}} (''kogitte gaikō''): checkbook diplomacy
+* {{l|ja|記念切手}} (''kinen kitte''): special issue stamp
+* {{l|ja|商品切手}} (''shōhin kitte''): merchandise certificate
+* {{l|ja|郵便切手}} (''yūbin kitte''): postage stamp
+{{mid2}}
+* {{l|ja|偽小切手}} (''gikogitte''): counterfeit check, bad paper
+* {{l|ja|送金小切手}} (''sōkin kogitte''): cashier's check, demand draft
+* {{l|ja|保証小切手}} (''hoshō kogitte''): certified check
+* {{l|ja|旅行小切手}} (''ryokō kogitte''): traveler's check
+* {{l|ja|使用済み切手}} (''shiyōzumi kitte''): used stamps
+* {{l|ja|国際返信切手券}} (''kokusai henshin kitte-ken''): international reply-paid coupon
+* {{l|ja|不渡り小切手}} (''fuwatari kogitte''): dishonored check
+* {{l|ja|旅行者用小切手}} (''ryokōsha-yō kogitte''): traveler's check
+* {{l|ja|給料支払小切手}} (''kyūryō shiharai kogitte''): paycheck
+{{bottom}}
+
+===Etymology 2===
+From {{m|ja|切れる|sc=Jpan}} (''kireru'', "be able to do") + {{m|ja|手|sc=Jpan}} (''te'', "hand")
+
+====Noun====
+{{ja-noun|きれて}}
+
+# [[man]] of [[ability]]
+
+====Usage notes====
+* In this sense, [[切れ手]] is used more commonly than [[切手]]
+
+===References===
+* ''The Oxford Starter Japanese Dictionary.'' ISBN 0-19-860197-2
+
+[[Category:Japanese basic words|きって]]
+
+[[zh-min-nan:切手]]
+[[cs:切手]]
+[[et:切手]]
+[[es:切手]]
+[[fr:切手]]
+[[ko:切手]]
+[[it:切手]]
+[[lo:切手]]
+[[lt:切手]]
+[[li:切手]]
+[[hu:切手]]
+[[mg:切手]]
+[[ja:切手]]
+[[no:切手]]
+[[pl:切手]]
+[[pt:切手]]
+[[fi:切手]]
+[[sv:切手]]
+[[chr:切手]]
+[[zh:切手]]

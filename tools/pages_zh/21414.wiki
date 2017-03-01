@@ -1,0 +1,85 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=13|sn=18|four=00141|canj=KSRJ}}
+
+# craving, weakness for
+# [[indigestion]]
+
+====References====
+* {{Han ref|kx=0781.210|dkj=22550|dj=1191.040|hdz=42700.200|uh=7656|ud=30294|bh=C27D|bd=49789}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=pǐ
+|c=pik1
+|mn=qz:phiak/xm,zz:phek/phiah
+|mn_note=phiak/phek - literary; phiah - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=
+|c=
+|mn=phia̍h
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[measles]]
+
+====Compounds====
+{{zh-der|周郎癖|嗜痂之癖|嗜痂成癖|地癖|季常癖|怪癖|惡癖|潔癖|煙霞癖|痃癖|痼癖|癖嗜|癖好|癖性|癖氣|盤龍癖|筆癖}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=疒13}}
+
+# {{defn|lang=ja|sort=疒13}}
+
+====Readings====
+* {{ja-readings|on=[[へき]] (heki)|kun=[[くせ]] (kuse)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=벽|eumhun=|rv=byeok|mr=pyŏk|y=pyek}}
+
+# {{defn|lang=ko|sort=疒13}}
+
+[[zh-min-nan:癖]]
+[[fr:癖]]
+[[lo:癖]]
+[[hu:癖]]
+[[mg:癖]]
+[[ja:癖]]
+[[pl:癖]]
+[[th:癖]]
+[[vi:癖]]
+[[zh:癖]]

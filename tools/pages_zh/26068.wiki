@@ -1,0 +1,99 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=08|sn=14|four=57120|canj=LIBGR|ids=⿰虫周}}
+
+# cicada, broad locust
+
+====References====
+* {{Han ref|kx=1086.230|dkj=33166|dj=1553.260|hdz=42865.020|uh=8729}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=tiu4|y=tiu4}}
+
+# {{defn|lang=yue|sort=虫08}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫08}}
+
+# {{defn|lang=ja|sort=虫08}}
+
+====Readings====
+{{ja-readings|goon=[[じょう]] (jō)|kanon=[[ちょう]] (chō)|kun=[[ひぐらし]] (higurashi), [[せみ]] (semi)}}
+
+====Compounds====
+* {{ja-r|茅蜩|ひぐらし}}, {{ja-r|茅蜩|ぼうちょう}}: [[evening cicada]]
+
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|ひぐらし|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|ひぐらし|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{l|ja|茅蜩}}
+* {{l|ja|晩蝉}}
+
+====Noun====
+{{ja-noun|ひぐらし|ヒグラシ}}
+
+# [[evening cicada]]
+
+=====Synonyms=====
+* {{ja-r|茅蜩|ぼうちょう}}
+
+===Etymology 2===
+{{ja-kanjitab|かなかな|yomi=irr}}
+Onomatopoeia.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|かなかな|acc=0|acc_ref=DJR|acc2=4|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|かなかな|カナカナ}}
+
+# [[evening cicada]]
+
+===References===
+<references/>
+
+[[Category:ja:Hemipterans|ひぐらし]]
+[[Category:Japanese onomatopoeias|かなかな]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=虫08}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[tiáo]] ([[tiao2]])|wg=t'iao<sup>2</sup>}}
+
+# {{defn|lang=cmn|sort=虫08}}
+
+[[fr:蜩]]
+[[hu:蜩]]
+[[mg:蜩]]
+[[ja:蜩]]
+[[pl:蜩]]
+[[th:蜩]]
+[[vi:蜩]]
+[[zh:蜩]]

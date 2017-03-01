@@ -1,0 +1,40 @@
+{{also|议事}}
+==Chinese==
+{{zh-forms|s=议事}}
+
+===Pronunciation===
+{{zh-pron
+|m=yìshì
+|mn=qz:gī-sīr/tw,xm,zz:gī-sū
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[discuss]] [[official]] [[business]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぎ|じ|yomi=on}}
+
+===Noun===
+{{ja-noun|ぎじ}}
+
+# {{l|en|proceeding|id=measure taken in business, transaction}}s of a congress etc.
+#* '''1925''', 新渡戸稲造, 国際聯盟とは如何なものか:
+#*: {{ja-usex|'''議事'''の方法は各国の議会と大同小異である。|'''ぎじ''' の ほうほう は かっこく の ぎかい と だいどうしょうい で ある。|Both countries conduct proceedings in their parliaments in essentially the same way.}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=의사}}
+
+# {{hanja form of|의사|deliberations, proceedings}}
+
+[[mg:議事]]
+[[zh:議事]]

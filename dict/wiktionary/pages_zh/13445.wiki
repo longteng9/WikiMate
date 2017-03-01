@@ -1,0 +1,137 @@
+{{character info/new}}
+{{also|聲}}
+==Translingual==
+{{stroke order|type=bw}}
+{{ja-forms|声|声|[[聲]]}}
+===Etymology===
+{{Han simp|聲|f=耳|t=&nbsp;|f2=殳|t2=&nbsp;}}. Compare [[医]] from [[醫]].
+
+===Han character===
+{{Han char|rn=33|rad=士|as=04|sn=7|four=|canj=GAH|ids=⿱士𠃜}}
+
+====References====
+* {{Han ref|kx=0243.040|dkj=05645|dj=0483.060|hdz=10429.010|uh=58F0|ud=22768}}
+
+----
+
+==Chinese==
+{{zh-see|聲}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=士04|style=s|kyu=聲}}
+
+# [[voice]]
+
+====Readings====
+{{ja-readings
+|goon=[[しょう]] (shō) < [[しやう]] (shau)
+|kanon=[[せい]] (sei)
+|kun=[[こえ]] (koe) < [[こゑ]] (kowe)}}
+
+====Compounds====
+* {{ja-r|声区|せいく}}: [[vocal]] [[register]]
+
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|こえ|yomi=k}}
+/kowe/ > /koe/
+
+====Pronunciation====
+{{ja-pron|yomi=k|こえ|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|kyu=聲|こえ|hhira=こゑ}}
+
+# [[voice]]
+#* 905 [[w:Kokin Wakashū|Kokin Wakashū]] (poem #16)
+#*: 野辺ちかく家居しせればうぐひすのなくなる'''こゑ'''は朝ななきく
+
+=====Derived terms=====
+* {{ja-r|呻き声|うめきごえ|[[groan]], [[moan]]}}
+* {{ja-r|声を殺す|こえ を ころす}}
+* {{ja-r|声を出す|こえ を だす}}
+
+===Etymology 2===
+{{ja-kanjitab|しょう|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=goon|しょう}}
+
+====Noun====
+{{ja-noun|kyu=聲|しょう|hhira=しやう}}
+
+# [[voice]], [[speech]]
+# [[tone]]
+# [[variation]] of [[stress]] in [[pronunciation]]
+# [[tone mark]]
+
+=====Derived terms=====
+* {{ja-r|去声|きょしょう}}
+* {{ja-r|四声|ししょう}}
+* {{ja-r|声点|しょうてん}}
+* {{ja-r|上声|じょうしょう}}
+* {{ja-r|入声|にっしょう}}
+* {{ja-r|平声|ひょうしょう}}
+* {{ja-r|連声|れんじょう}}
+
+===References===
+<references/>
+:* {{cite-book
+|last=Kojima
+|first=Noriyuki
+|coauthors=Arai Eizō
+|title=Shin Nihon Koten Bungaku Taikei 5: [[w:Kokin Wakashū|Kokin Wakashū]]
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|date=1989
+|origyear=905
+|language=Japanese
+|isbn=4-00-240005-0
+}}
+
+[[Category:Japanese basic words|こえ]]
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{head|ryu|kanji|hiragana|くぃー|romaji|kwī}}
+
+===Etymology===
+Cognate with mainland {{cog|ja|声|tr=koe}}.
+
+===Noun===
+{{head|ryu|noun|hiragana|くぃー|romaji|kwī}}
+
+# [[voice]]
+
+[[de:声]]
+[[el:声]]
+[[fr:声]]
+[[ko:声]]
+[[it:声]]
+[[lo:声]]
+[[lt:声]]
+[[li:声]]
+[[hu:声]]
+[[mg:声]]
+[[ja:声]]
+[[no:声]]
+[[km:声]]
+[[pl:声]]
+[[pt:声]]
+[[ru:声]]
+[[sr:声]]
+[[sv:声]]
+[[ta:声]]
+[[th:声]]
+[[chr:声]]
+[[tr:声]]
+[[uk:声]]
+[[vi:声]]
+[[zh:声]]

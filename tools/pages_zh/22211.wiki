@@ -1,0 +1,139 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=8}}
+
+===Han character===
+{{Han char|rn=113|rad=示|as=03|sn=7|four=34210|canj=IFG|ids=⿰礻土}}
+
+====References====
+* {{Han ref|kx=0839.260|dkj=24631|dj=1257.020|hdz=42386.070|uh=793E|ud=31038|bh=AAC0|bd=43712}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shè
+|c=se5
+|h=pfs=sa
+|md=siâ
+|mn=qz:siǎ/tw,xm,zz:siā
+|w=3zo
+|mc=y
+|oc=y
+|ma=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[god]] of the [[soil]] {{attention|zh|does he have a more specific name?}}
+# [[altar]]s to the god of the soil
+# [[group]] of [[family|families]]
+# [[company]]; [[society]]
+
+===Compounds===
+{{zh-der|旅社|大眾社會|封閉社會|屋社|僑社|功在社稷|幾社|圓社|下流社會|工商社會|工業社會|徵信社|原始社會|報社|婚友社|巴黎公社|崇她社|小康社會|中介社團|封建社會|住宅旅社|宗社|城狐社鼠|大同社會|團社|塔斯社|傳統社會|吟社|合作社|出社會|人民公社|公社|社日|株式會社|甓社珠|社會|棋社|社會失調|社會規範|書香社會|社會地位|新華社|社會調適|民社|社會改革|新社區|春社|法新社|社區|社稷為墟|社會立法|服務社|社會政策|社會安全|社會救濟|社會發展|社會賢達|社長|社會心理|白蓮社|社會現象|社會價值|社會局|社家|社會活動|稷蜂社鼠|社會福利|秋社|社會控制|福利社會|福利社|社會革命|祕密結社|祕密社會|社鼠城狐|社鼠|社鼓|社鬼|社頭|社評|社稷之臣|社稷之器|社火|社櫟|社會體系|社會風氣|社會階級|社會運動|社會變遷|社會調查|社會角色|社會行為|社會秩序|社會科學|社會病態|社會服務|社會方言|社會新聞|社會教育|社會救助|社會成本|社會意識|社會性|社會建設|社會工作|社會學|社會契約|社會壓力|社會問題|社會分工|社會互動|社會主義|社教|社戲|社工|社學|社區電臺|社區電視|社區資源|社區發展|社區意識|社交舞|示範社區|社會整合|社會群島|社會保險|社稷|甓社湖|扶輪社|社論|番社|社會制度|社區服務|旅行社|書社|社公|社倉|會社|社員|社團|社交|社會關係|玄社|社會化|曹社之謀|郊社|賽村社|路透社|美聯社|酒社|通信社|資訊社|錦體社|葬儀社|霧社事件|黑社會|詩社|集會結社|霧社|茶社|股友社|靈安社|結社|貴社|靖國神社|鼠憑社貴|緋綠社|遏雲社|農業社會|錦標社|里社|鄉村社區|部落社會|通訊社|軍聞社|蓮社|茅社|結宗會社}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=示03}}
+
+====Readings====
+* {{ja-readings
+|goon=[[じゃ]] (ja) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[しゃ]] (sha)
+|kun=[[やしろ]] (yashiro), [[くみあい]] (kumiai), [[こそ]] (koso)}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|社員|しゃいん}}
+* {{ja-r|社会|しゃかい}}
+* {{ja-r|社交|しゃこう}}
+* {{ja-r|社寺|しゃじ}}
+* {{ja-r|社稷|しゃしょく}}
+* {{ja-r|社団|しゃだん}}
+{{mid3}}
+* {{ja-r|社長|しゃちょう}}
+* {{ja-r|副社長|ふくしゃちょう}}
+* {{ja-r|愛社精神|あいしゃせいしん}}
+* {{ja-r|会社|かいしゃ}}
+* {{ja-r|会社員|かいしゃいん}}
+* {{ja-r|支社|ししゃ}}
+{{mid3}}
+* {{ja-r|神社|じんじゃ}}
+* {{ja-r|入社|にゅうしゃ}}
+* {{ja-r|退社|たいしゃ}}
+* {{ja-r|本社|ほんしゃ}}
+* {{ja-r|末社|まっしゃ}}
+{{bottom}}
+
+===Etymology===
+From {{der|ja|ltc|社|tr=dzyæX||god of earth; place for worshiping the god of earth}}
+
+===Noun===
+{{ja-noun|やしろ}}
+
+# a [[shrine]]
+
+===Suffix===
+{{ja-pos|suffix|しゃ}}
+
+# Abbreviation of [[会社]] ([[かいしゃ]] kaisha) "company."; [[co.]]
+#* [[毎日]][[新聞]][[社]]
+#*: [[まいにち]][[しんぶん]]'''しゃ'''
+#*: ''Mainichi Shimbun-sha''
+#*: The Mainichi Newspapers [Company]
+# When in parentheses, an abbreviation of [[社団]][[法人]] ([[しゃだん]][[ほうじん]] shadan hōjin), a type of [[incorporated]] [[association]].
+
+====Coordinate terms====
+* {{ja-r|株|かぶ}}: [[inc.]]
+* {{ja-r|有|ゆう}}: [[Ltd.]]
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 社]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[사]]|eumhun=}}
+
+# {{defn|lang=ko|sort=示03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xã]]|rs=示03}}
+
+# rural [[commune]] (administrative subdivision of Vietnam)
+
+===Compounds===
+*[[市社]] (thị xã)
+
+[[fr:社]]
+[[ko:社]]
+[[it:社]]
+[[ky:社]]
+[[hu:社]]
+[[mg:社]]
+[[ja:社]]
+[[no:社]]
+[[pl:社]]
+[[ru:社]]
+[[fi:社]]
+[[th:社]]
+[[uk:社]]
+[[zh:社]]

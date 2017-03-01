@@ -1,0 +1,112 @@
+{{character info/new}}
+{{also|奉|奏|秦}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=05|sn=9|four=50132|canj=QKE|ids=⿱𡗗氺}}
+
+====References====
+* {{Han ref|kx=0618.150|dkj=17325|dj=1013.100|hdz=31577.030|uh=6CF0|ud=27888|bh=AEF5|bd=44789}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|廾|水|大|ls=psc|c1=s|c2=s|c3=p}}. Current form is instead {{Han compound|𡗗|水}}.
+
+===Etymology===
+Same word as {{och-l|太|great; greatest; excessive}}; both are derived from {{och-l|大|big}}.
+
+===Pronunciation===
+{{zh-pron
+|m=tài
+|c=taai3
+|h=pfs=thai
+|md=tái
+|mn=thòa/thài
+|mn_note=thoà - vernacular; thài - literary
+|w=2tha
+|mc=y
+|oc=y
+|cat=a,adv,n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[big]]; [[large]]
+# [[great]]; [[extensive]]
+# [[extreme]]; [[greatest]]
+# [[exalted]]; [[honourable]]; [[superior]]
+# [[good]]; [[excellent]]
+# [[safe]]; [[peaceful]]; [[stable]]
+# [[excessively]]; [[overly]]
+# 11th [[hexagram]] of the [[I Ching]]
+# {{zh-short|泰國|[[Thailand]]}}
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|泰國|泰語|泰拳|三陽交泰|三陽開泰|不識泰山|交泰|人猿泰山|倒持泰阿|去泰去甚|去甚去泰|否去泰來|否往泰來|否極必泰|否極泰來|否極生泰|否泰|否終而泰|國泰民安|天地交泰|奢泰|宇文泰|安如泰山|安於泰山|安泰|安若泰山|康泰|心安神泰|托爾斯泰|持盈保泰|政躬康泰|時通運泰|景泰|景泰藍|死重泰山|民安國泰|泰一|泰交|泰伯|泰來否往|泰元|泰初|泰勒制度|泰半|泰國勞工|泰國拳|泰國新娘|泰坦族|泰壇|泰始|泰定|泰山|泰山之安|泰山其頹|泰山刻石|泰山北斗|泰山可倚|泰山壓卵|泰山壓頂|泰山娘娘|泰山梁木|泰山磐石|泰山若厲|泰山鴻毛|泰常|泰平|泰戈爾|泰斗|泰昌|泰晤士報|泰晤士河|泰極而否|泰水|泰清|泰然|泰然居之|泰然自若|泰然處之|泰王國|泰皇|泰系各族|泰納|泰綺絲|泰西|泰誓|泰豫|泰辰|泰阿|泰阿倒持|泰階|泰階平|泰雅族|發跡變泰|穩如泰山|華倫泰節|處之泰然|變泰|身名俱泰|通泰|鄂爾泰|重於泰山|開泰|阿爾泰山|鴻毛泰山}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水05}}
+
+# [[peaceful]], [[calm]]
+# [[Thailand]]
+
+====Readings====
+* {{ja-readings|on=[[たい]] (tai)|kun=[[やすい]] (yasui), [[おおきい]] (ookii), [[おごる]] (ogoru)}}
+
+===Proper noun===
+{{ja-pos|proper|やすし}}
+
+# {{given name|male|lang=ja|sort=やすし}}
+
+{{ja-pos|proper|たい|タイ}}
+
+# [[Thailand]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=태}}
+
+# {{defn|lang=ko|sort=水05}}
+
+====Compounds====
+* [[泰拳]]
+* [[泰然]]
+* [[泰山]]
+* [[泰國]]<!-- this probably needs to be sorted somewhere else in list -->
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thái]]|rs=水05}}
+
+# {{defn|lang=vi|sort=水05}}
+
+[[es:泰]]
+[[fr:泰]]
+[[ko:泰]]
+[[lo:泰]]
+[[li:泰]]
+[[hu:泰]]
+[[mg:泰]]
+[[ja:泰]]
+[[no:泰]]
+[[pl:泰]]
+[[th:泰]]
+[[vi:泰]]
+[[zh:泰]]

@@ -1,0 +1,100 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=12|sn=16|four=47927|canj=DNHB|ids=⿰木矞}}
+
+====References====
+* {{Han ref|kx=0553.270|dkj=15551|dj=0942.100|hdz=21297.080|uh=6A58|ud=27224|bh=BEEF|bd=48879}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jú
+|c=gwat1
+|mn=kiat
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[tangerine]]
+#*: {{zh-x|甘 橘，大厘 城 有 之，其 味 酸。|Dali City has sweet tangerines, but their flavour is sour.|CL|ref={{RQ:Manshu|7|Tea, Trees, Herbs and Fruits|7}}}}
+
+====See also====
+* {{zh-l|桔}}
+
+===Compounds===
+{{zh-der|橘柑|橘紅|橘黃|橘絡|橘子|千頭橘奴|南橘北枳|懷橘|柑橘|橘井|橘化為枳|橘奴|橘河 |橘皮|橘酒|橘頌|橘餅|福橘|蜜橘|越橘|金橘}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木12}}
+
+====Readings====
+* {{ja-readings|goon=[[きち]] (kichi)|kanon=[[きつ]] (kitsu)|kun=[[たちばな]] (tachibana)}}
+
+====Compounds====
+* {{ja-r|柑橘類|かんきつるい}}
+
+===Pronunciation===
+{{ja-kanjitab|yomi=k|たちばな}}
+{{wikipedia|Tachibana}}
+{{wikipedia|lang=ja|橘 (曖昧さ回避)}}
+{{ja-pron|acc=2|y=k|たちばな}}
+
+===Noun===
+{{wikipedia|lang=ja|タチバナ}}
+{{ja-noun|たちばな|タチバナ}}
+
+# ''[[Citrus]] tachibana'', a [[species]] of [[wild]], [[green]], [[inedible]] [[citrus]] [[fruit]] [[native]] to [[Japan]]
+
+===Proper noun===
+{{ja-pos|proper|たちばな}}
+
+# {{surname|lang=ja|sort=たちばな}}
+
+{{topics|ja|Citrus subfamily plants|Japan|sort=たちばな}}
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=귤|eumhun=|rv=gyul|mr=kyul|y=kyul}}
+
+# {{defn|lang=ko|sort=木12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quất]], [[quít]], [[quầng]], [[quắt]]|rs=木12}}
+
+# {{defn|lang=vi|sort=木12}}
+
+[[fr:橘]]
+[[ko:橘]]
+[[hu:橘]]
+[[mg:橘]]
+[[ms:橘]]
+[[ja:橘]]
+[[no:橘]]
+[[pl:橘]]
+[[th:橘]]
+[[vi:橘]]
+[[zh:橘]]

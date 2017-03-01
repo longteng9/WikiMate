@@ -1,0 +1,33 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bíyán
+|c=bei6 jim4
+|mn=phīⁿ-iām
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[nasal]] [[inflammation]]; [[rhinitis]]; [[sinus]] [[infection]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|び|えん|yomi=o}}
+
+===Etymology===
+{{suffix|鼻|炎|t1=nose|t2=-itis|lang=ja|sort=ひえん'}}
+
+===Noun===
+{{ja-noun|びえん}}
+
+# {{lb|ja|pathology|sort=ひえん'}} [[nasal]] [[inflammation]]; [[rhinitis]]; [[sinus]] [[infection]]
+
+[[zh-min-nan:鼻炎]]
+[[ko:鼻炎]]
+[[hu:鼻炎]]
+[[zh:鼻炎]]

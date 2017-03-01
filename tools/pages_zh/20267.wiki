@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=18|sn=22|four=92846|canj=FBWI}}
+
+====References====
+* {{Han ref|kx=0687.330|dkj=19614|dj=1099.180|hdz=32248.120|uh=721D|ud=29213|bh=F5DA|bd=62938}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jué,jiào
+|c=zoek6,ziu3,zoek3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|archaic}} a torch made of bound reeds that was used for warding off evil spirits
+# {{lb|zh|archaic}} a [[small]] [[torch]]
+#* '''circa 286 BCE''', [[w:Zhuangzi|Zhuangzi]], ''[[w:Zhuangzi (book)|Zhuangzi]]''
+#*: [[日]][[月]][[出]][[矣]][[而]]'''爝'''[[火]][[不]][[息]]，[[其]][[於]][[光]][[也]]，[[不]][[亦]][[難]][[乎]]！
+#*:: ''If the sun and moon come out when one's own '''torch''' is not yet extinguished, would not its light pale in comparison?''
+# {{lb|zh|archaic}} a [[small]] [[flame]]
+
+===References===
+* {{cite-book
+|last=
+|first=
+|authorlink=
+|coauthors=
+|year=1998
+|title=[[w:Hanyu Da Zidian|Hanyu Da Zidian]] (漢語大字典)
+|publisher=Jianhong Publishers (建宏出版社)
+|location=Taipei
+|isbn=9578134789
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火18}}
+
+# {{defn|lang=ja|sort=火18}}
+
+====Readings====
+* {{ja-readings|on=[[しゃく]] (shaku), [[さく]] (saku), [[しょう]] (shō)|kun=[[たいまつ]] (taimatsu)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tước]]|rs=火18}}
+
+# {{defn|lang=vi|sort=火18}}
+
+[[fr:爝]]
+[[hu:爝]]
+[[mg:爝]]
+[[pl:爝]]
+[[th:爝]]
+[[zh:爝]]

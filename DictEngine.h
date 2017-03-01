@@ -9,6 +9,10 @@
 #include <QThread>
 #include "Request.h"
 #include "Launcher.h"
+#include <QtSql/QSqlDatabase>
+#include <QtSql/QSqlDriver>
+#include <QtSql/QSqlQuery>
+#include <QtSql/QSqlField>
 
 class DictEngine;
 class FetchEntryPatchAsync : public QObject{
@@ -25,6 +29,22 @@ public:
     QString from;
     QString to;
 };
+
+class QueryDumpEntryPatchAsync : public QObject{
+    Q_OBJECT
+signals:
+    void finishOne(QString word, QStringList trans_list);
+
+public slots:
+    void start();
+
+public:
+    DictEngine *obj;
+    QStringList words;
+    QString from;
+    QString to;
+};
+
 
 class DictEngine : public QObject
 {
@@ -47,12 +67,19 @@ public:
     void fetchEntryPatchAsync(QStringList words,
                          QString from,
                          QString to);
+    void queryDumpEntryPatchAsync(QStringList words,
+                         QString from,
+                         QString to);
+    QMap<QString, QString> queryWikiDumpEntry(QString word);
+    QString fetchWikiPage(QString word);
 
 public slots:
     void on_requestFinished(QString word, QStringList trans_list);
+    void on_queryFinished(QString word, QStringList trans_list);
 
 signals:
     void receivedEntryResponse(QString word, QStringList trans);
+    void queryDumpEntryFinished(QString word, QStringList trans);
 
 private:
     explicit DictEngine(QObject *parent = 0);
@@ -69,8 +96,8 @@ private:
 private:
     static DictEngine *mInstance;
     static GC gc;
-    //Request mRequest;
     Launcher mLauncher;
+    QSqlDatabase mDB;
 };
 
 #endif // DICTENGINE_H

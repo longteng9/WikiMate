@@ -1,0 +1,142 @@
+{{character info/new}}
+{{also|么|麽}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=200|rad=麻|as=03|sn=14|four=00232|canj=ICVI,IDVI|ids=⿸麻幺}}
+
+====References====
+* {{Han ref|kx=1515.050|dkj=47892|dj=2045.050|hdz=74724.030|uh=9EBC|ud=40636|bh=BBF2|bd=48114}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|麻|幺|ls=psc|c1=p|c2=s|t2=small, tiny}}.
+
+===Etymology 1===
+{{zh-forms|s=么|t2=麽}}
+
+====Pronunciation====
+{{zh-pron
+|m=me
+|c=mo1
+|mc=
+|oc=
+|ma=
+|cat=part,suf
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{n-g|A particle placed after the first clause of a compound sentence, used to express tactfulness.}}
+#: {{zh-x|她 麼，想 走 就 讓 她 走 吧。|'''As for''' her... just let her leave if she wants to. (I don't really care.)}}
+# {{n-g|A suffix for forming pronouns or adverbs.}}
+#: {{zh-x|什麼|what}}
+#: {{zh-x|怎麼|how}}
+#: {{zh-x|這麼|like this; so; such}}
+#: {{zh-x|多麼|how; what; so; such}}
+
+=====Compounds=====
+{{zh-der|fold=1|什麼/甚麼/什么|仔麼|則麼|多麼|怎麼|恁麼|把麼|為什麼|罷麼|要麼|這麼|那麼|好麼}}
+
+===Etymology 2===
+{{zh-forms|s=么|t2=麽}}
+
+====Pronunciation 1====
+{{zh-pron
+|m=ma,me
+|c=mo1
+|mc=
+|oc=
+|ma=
+|cat=part
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{zh-alt-form|嗎|final [[interrogative]] particle}}
+#: {{zh-x|你 記得{de} 我 麼{ma}？|Do you remember me?}}
+
+====Pronunciation 2====
+{{zh-pron
+|m=má
+|c=mo1
+|mc=
+|oc=
+|ma=
+|cat=part
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{zh-alt-form|嘛|final [[interrogative]] particle}}
+
+===Etymology 3===
+{{zh-forms|s=麽|t2=麽|alt=尛}}
+
+====Pronunciation====
+{{zh-pron
+|m=mó,mǒ,2nb=variant
+|c=mo1,mo5
+|mc=y
+|oc=y
+|ma=
+|cat=a,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[tiny]]; [[insignificant]]
+#: {{zh-x|幺麼[麽]{mó}|small; minute}}
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|fold=1|么麼|么麼小丑|也麼哥|作麼生|篤麼|麼些族|麼娘|麼子|麼子事|麼波|麼那|麼陋}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=麻03}}
+
+# {{defn|lang=ja|sort=麻03}}
+
+====Readings====
+* {{ja-readings|on=[[ま]] (ma), [[ば]] (ba)|kun=[[こまかい]] (komakai), [[かすか]] (kasuka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=마|eumhun=|rv=ma|mr=ma|y=ma}}
+
+# [[small]]
+# [[thin]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ma]]|rs=麻03}}
+
+# {{defn|lang=vi|sort=麻03}}
+
+[[da:麼]]
+[[fr:麼]]
+[[hu:麼]]
+[[mg:麼]]
+[[ja:麼]]
+[[pl:麼]]
+[[th:麼]]
+[[zh:麼]]

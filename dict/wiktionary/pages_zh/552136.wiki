@@ -1,0 +1,35 @@
+{{also|正则}}
+==Chinese==
+{{zh-forms|s=正则}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhèngzé
+|mn=chèng-chek
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[regular]]
+#: {{zh-x|正則.表達式|'''regular''' expression}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|正|則}}
+
+===Noun===
+{{ja-noun|せいそく}}
+# [[propriety]]; [[normality]]
+# according to correct [[rule]]s; being [[legal]]; [[legitimacy]]
+
+===Proper noun===
+{{ja-pos|proper|まさのり}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|まさのり]]
+
+[[li:正則]]

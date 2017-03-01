@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tángtáng
+|c=tong4 tong4
+|mn=tông-tông
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|literary}} [[imposing]]; [[magnificent]]; [[majestic]]; [[stately]]
+# {{lb|zh|literary}} [[grave]]; [[solemn]]; [[dignified]]
+# {{lb|zh|literary}} [[powerful]]; [[strong]]
+# {{lb|zh|literary}} [[ambitious]]
+
+====Derived terms====
+{{zh-der|相貌堂堂}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|堂}}
+
+===Alternative forms===
+* {{l|ja|堂々}}
+
+===Adjective===
+{{ja-adj|どうどう|decl=tari}}
+
+# magnificent, grand, impressive, dignified, majestic, imposing, stately
+#: {{ux|ja|その老人は'''堂々'''とした顔つきをしていた。|tr=Sono rōjin wa '''dōdō''' to shita kaotsuki o shite ita.|t=The old man had a '''noble''' countenance.}}
+# fair, square, open
+
+===Adverb===
+{{ja-pos|adverb|どうどう}}
+
+# grandly, boldly, confidently
+#: {{ux|ja|彼はその式典で'''堂々'''と振る舞った。|tr=Kare wa sono shikiten de '''dōdō''' to furumatta.|t=He bore himself '''well''' at the ceremony.}}
+#: {{ux|ja|'''堂々'''としなさい。|tr='''Dōdō''' to shi nasai.|t=Walk '''tall''', son.}}
+# fairly, squarely
+# unreservedly, without apology, without hesitation
+
+====Usage notes====
+〜と (to) adverb
+
+===References===
+* EDICT and KANJIDIC dictionary files. [http://www.edrdg.org/ Electronic Dictionaries Research Group]. Used in accordance with the group's [http://www.edrdg.org/edrdg/licence.html license].
+* {{cite-web|author=Michael Panzera|url=http://blastitwonner.blogspot.com/2009/02/list-of-taru-adjectives.html|title=List of -Taru Adjectives|work=Blastitwonner: Law and Language in Japan|accessdate=2010-03-06}}
+
+[[zh-min-nan:堂堂]]
+[[zh:堂堂]]

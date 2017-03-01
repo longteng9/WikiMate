@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|暂}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=11|sn=15|four=52602|canj=JLA|ids=⿱斬日}}
+
+# [[temporary]]
+
+====References====
+* {{Han ref|kx=0499.150|dkj=14120|dj=0868.200|hdz=21533.030|uh=66AB|ud=26283|bh=BCC8|bd=48328}}
+
+----
+
+==Chinese==
+{{zh-forms|s=暂|alt=蹔}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=暫
+|c=zaam6
+|mn=qz,tw,xm,zz:chām/qz,tw,xm,zz:chiām
+|mn_note=chām - literary, chiām - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|時來暫去|暫且|暫且擱下|暫停|暫別|暫勞永逸|暫星|暫時|暫止|暫緩|暫音|浮來暫去|短暫}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=日11}}
+
+# {{defn|lang=ja|sort=日11}}
+
+====Readings====
+* {{ja-readings|goon=[[ざん]] (zan)|kanon=[[さん]] (san) {{non-joyo-reading}}|kun=[[しばらく]] (shibaraku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=잠|eumhun=|rv=jam|mr=cham|y=cam}}
+
+# {{defn|lang=ko|sort=日11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|tạm|rs=日11}}
+
+# {{defn|lang=vi|sort=日11}}
+
+====Compounds====
+* [[tạm biệt]] [暫別]
+
+[[zh-min-nan:暫]]
+[[fr:暫]]
+[[ko:暫]]
+[[hu:暫]]
+[[ja:暫]]
+[[pl:暫]]
+[[th:暫]]
+[[zh:暫]]

@@ -1,0 +1,53 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīhuà
+|c=gik1 faa3
+|mn=kek-hòa
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|transitive|intransitive}} to [[intensify]]; to [[deepen]] {{gloss|of a conflict}}
+
+===Noun===
+{{zh-noun}}
+
+# [[intensification]]; [[deepening]] {{gloss|of a conflict}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|げき|か|yomi=o}}
+
+===Etymology===
+From {{m|ja|激|sc=Jpan|tr=geki||of great intensity}} + {{m|ja|化|sc=Jpan|tr=ka||become}}
+
+===Noun===
+{{ja-noun|げきか}}
+
+{{ja-noun|げっか}}
+
+# [[intensification]], [[aggravation]]
+
+===Verb===
+{{ja-verb-suru|げきか}}
+
+{{ja-verb-suru|げっか}}
+
+# to [[intensify]], become [[aggravated]]
+
+====Conjugation====
+{{ja-suru|げきか}}
+{{ja-suru|げっか}}
+
+====Usage notes====
+The reading ''gekika'' is used more often than ''gekka''.
+
+[[ko:激化]]
+[[hu:激化]]
+[[zh:激化]]

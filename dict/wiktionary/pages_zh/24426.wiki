@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=08|sn=12|four=75281|canj=BTBC|ids=⿰月典}}
+
+====References====
+* {{Han ref|kx=0986.150|dkj=29602|dj=1438.350|hdz=32087.070|uh=8146|ud=33094|bh=B5C9|bd=46537}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|倎}}
+
+===Pronunciation===
+{{zh-pron
+|m=tiǎn
+|c=tin2
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[prosperous]]
+# [[good]]
+# [[protruding]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉08}}
+
+# {{defn|lang=ja|sort=肉08}}
+
+====Readings====
+* {{ja-readings|on=[[てん]] (ten)|kun=[[あつい]] (atsui)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|eumhun=|rv=jeon|mr=chŏn|y=cen}}
+
+# {{defn|lang=ko|sort=肉08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=肉08| hanviet = thiển}}
+
+# {{defn|lang=vi|sort=肉08}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=8146 Nom Foundation]
+
+[[fr:腆]]
+[[hu:腆]]
+[[mg:腆]]
+[[ja:腆]]
+[[pl:腆]]
+[[th:腆]]
+[[zh:腆]]

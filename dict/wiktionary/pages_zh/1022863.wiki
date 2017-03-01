@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xìn息
+|c=seon3 sik1
+|h=pfs=sin-sit
+|md=séng-sék
+|mn=qz:sìn-siak/xm:sìn-sek/tw,zz:sìn-sit
+|w=2xin xiq
+|ma=Zh-xìnxi.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[information]]
+#: {{zh-x|地理 信息 工程|geographic '''information''' engineering}}
+# [[message]]
+
+====Synonyms====
+* {{sense|information}} {{zh-l|資訊}}
+
+====Derived terms====
+{{zh-der|信息安全|信息爆炸|信息產業|信息處理|信息港|信息高速公路|信息化|信息技術|信息科學|信息庫|信息量|信息論|信息社會|信息時代|信息臺|信息系統|信息學|信息戰}}
+
+{{zh-cat|Intermediate}}
+
+[[zh-min-nan:信息]]
+[[ko:信息]]
+[[ku:信息]]
+[[lo:信息]]
+[[lt:信息]]
+[[hu:信息]]
+[[mg:信息]]
+[[nl:信息]]
+[[ja:信息]]
+[[th:信息]]
+[[chr:信息]]
+[[zh:信息]]

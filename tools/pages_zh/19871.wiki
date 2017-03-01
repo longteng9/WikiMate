@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|烱}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=05|sn=9|four=97820|canj=FBR,XFBR|ids=⿰火冋}}
+
+# [[bright]], [[brilliant]], [[clear]]
+# [[hot]]
+
+====References====
+* {{Han ref|kx=0668.260|dkj=18956|dj=1078.030|hdz=32195.160|uh=70AF|ud=28847|bh=ACB3|bd=44211}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=冏}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiǒng
+|c=gwing2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|炯炯|炯誡|炯炯有神|炯炯有光|炯鑒|炯心}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=火05}}
+
+# {{defn|lang=ja|sort=火05}}
+
+====Readings====
+* {{ja-readings|on=[[けい]] (kei), [[きょう]] (kyō)|kun=[[あきらか]] (akiraka)}}
+
+====Compounds====
+* [[炯眼]] (けいがん)
+
+===Alternative forms===
+* {{l|ja|烱}} {{qualifier|[[俗字]]|zokuji}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=형|eumhun=|rv=hyeong|mr=hyŏng|y=hyeng}}
+
+# {{defn|lang=ko|sort=火05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=火05| hanviet = [[quýnh]], [[quỷnh]]}}
+
+# {{defn|lang=vi|sort=火05}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=70af Nom Foundation]
+
+[[fr:炯]]
+[[ko:炯]]
+[[hu:炯]]
+[[mg:炯]]
+[[ja:炯]]
+[[pl:炯]]
+[[th:炯]]
+[[vi:炯]]
+[[zh:炯]]

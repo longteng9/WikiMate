@@ -1,0 +1,115 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=202|rad=黍|as=03|sn=15|four=27132|canj=HHOE|ids=⿱𥝢⿱𠆢氺}}
+
+# used as a [[surname]]
+# [[numerous]], [[many]]
+# [[black]]
+# used to indicate the [[w:Li people|Li]] people of [[Hainan]] Province, China
+
+====References====
+* {{Han ref|kx=1517.280|dkj=47994|dj=2049.360|hdz=74759.030|uh=9ECE|ud=40654|bh=BEA4|bd=48804}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|黍|利|c1=s|c2=p|t1=millet|ls=psc}}.
+
+===Etymology===
+Probably cognate with [[藜]] and [[黧]].
+
+===Pronunciation===
+{{zh-pron
+|m=lí
+|c=lai4
+|mc=y
+|oc=y
+|ma=
+|cat=pn,a,det
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|only in compound, no longer productive}} the color of earth, between brown and black.
+#: {{zh-x|黎明|dawn}}
+# {{lb|zh|only in compound, no longer productive}} numerous, crowded.
+#: {{zh-x|黎民|common people}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=黍03}}
+
+# [[black]], [[bluish]] black
+# [[gloomy]], [[dusky]]
+# used to indicate the [[w:Li people|Li]] people of [[Hainan]] Province, China
+
+====Readings====
+* {{ja-readings|kanon=[[れい]] (rei)|goon=[[らい]] (rai)|on=[[り]] (ri)|kun=[[くろ]] (kuro), [[くろい]] (kuroi)|nanori=[[たみ]] (tami)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|群黎|ぐんれい}}
+* {{ja-r|黔黎|けんれい}}
+* {{ja-r|生黎|せいれい}}
+* {{ja-r|重黎|ちょうれい}}
+* {{ja-r|泥黎|ないり}}
+* {{ja-r|百黎|ひゃくれい}}
+* {{ja-r|黎族|りーぞく}}
+* {{ja-r|黎桓|れいかん}}
+* {{ja-r|黎貴惇|れいきじゅん}}
+* {{ja-r|黎軒|れいけん}}
+* {{ja-r|黎元|れいげん}}
+* {{ja-r|黎元洪|れいげんこう}}
+* {{ja-r|黎首|れいしゅ}}
+* {{ja-r|黎庶|れいしょ}}
+* {{ja-r|黎庶昌|れいしょしょう}}
+* {{ja-r|黎聖宗|れいせいそう}}
+* {{ja-r|黎旦|れいたん}}
+* {{ja-r|黎朝|れいちょう}}; or {{ja-r|黎朝|れちょう}}
+* {{ja-r|黎朝刑律|れいちょうけいりつ}}
+* {{ja-r|黎文悦|れいぶんえつ}}
+* {{ja-r|黎民|れいみん}}
+* {{ja-r|黎明|れいめい|gloss=dawn}}
+* {{ja-r|黎明会|れいめいかい}}
+* {{ja-r|黎明期|れいめいき}}
+* {{ja-r|黎利|れいり}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[려]]>[[여]]|eumhun=|rv=ryeo>yeo|mr=ryŏ>yŏ|y=lye>ye}}
+
+# {{defn|lang=ko|sort=黍03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lê]], [[rê]]|rs=黍03}}
+
+# spelt as [[Lê]], the fourth most common surname among ethnic Vietnamese.
+
+[[zh-min-nan:黎]]
+[[fr:黎]]
+[[ko:黎]]
+[[hu:黎]]
+[[mg:黎]]
+[[ja:黎]]
+[[no:黎]]
+[[pl:黎]]
+[[th:黎]]
+[[zh:黎]]

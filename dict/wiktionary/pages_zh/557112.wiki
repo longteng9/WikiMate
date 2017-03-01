@@ -1,0 +1,32 @@
+{{also|山药}}
+==Chinese==
+{{zh-forms|s=山药}}
+
+===Pronunciation===
+{{zh-pron
+|m=shānyao
+|c=saan1 joek6
+|h=pfs=sân-yo̍k
+|mn=soaⁿ-io̍h
+|w=1se hhiaq
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{vern|Chinese yam}} {{gloss|{{taxlink|Dioscorea polystachya|species|noshow=1}}}}
+# {{lb|zh|dialectal|_|Mandarin}} [[sweet potato]]
+# {{lb|zh|dialectal|_|Mandarin}} [[potato]]
+
+====Synonyms====
+* {{sense|Chinese yam}} {{zh-l|薯蕷}}, {{zh-l|山芋}}, {{zh-l|淮山}}
+{{zh-dial|番薯}}
+{{zh-dial|馬鈴薯}}
+
+====Derived terms====
+{{zh-der|山藥蛋}}
+
+{{zh-cat|Vegetables}}
+
+[[ko:山藥]]

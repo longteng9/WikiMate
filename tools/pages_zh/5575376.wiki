@@ -1,0 +1,36 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bōshù
+|c=bo1 cuk1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|physics}} [[wave]] [[beam]]; [[wave packet]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|は|そく|yomi=o}}
+
+===Etymology===
+Compound of {{compound|波|tr1=ha|t1=wave|束|tr2=soku|t2=bundle|lang=ja|sort=はそく}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|はそく|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|はそく}}
+
+# {{lb|ja|physics|sort=はそく}} [[wave packet]]
+
+===References===
+<references/>
+
+[[zh:波束]]

@@ -1,0 +1,60 @@
+{{character info/new}}
+{{also|本}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=37|rad=大|as=02|sn=5|four=|canj=KJ|ids=⿱大十}}
+
+# [[advance]] quickly
+# to go [[back and forth]]
+# [[origin]], [[source]]
+
+====References====
+* {{Han ref|kx=0249.100|dkj=05845|dj=0509.010|hdz=10524.040|uh=5932|ud=22834}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=tāo
+|c=tou1
+|mc=y
+|oc=y
+|ma=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Etymology 2===
+{{zh-see|本|v}}
+
+===References===
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 90]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=大02}}
+
+# {{defn|lang=ja|sort=大02}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō), [[ほん]] (hon)|kun=[[すすむ]] (susumu)}}
+
+[[fr:夲]]
+[[hu:夲]]
+[[ja:夲]]
+[[pl:夲]]
+[[th:夲]]
+[[zh:夲]]

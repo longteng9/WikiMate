@@ -1,0 +1,44 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|そ|しん|yomi=on}}
+From {{etyl|ltc|ja|sort=そしん}} compound {{m|ltc|祖神|tr=*tzǒ *jhin}}. Compare modern {{cog|cmn|祖神|tr=zǔshén}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|a|そ|しん}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[so̞ɕĩɴ]}}
+
+====Noun====
+{{ja-noun|そしん}}
+
+# {{lb|ja|mythology|Shinto|sort=そしん}} the [[deification]] of an [[ancestor]]
+# {{lb|ja|mythology|Shinto|sort=そしん}} [[Amaterasu]], as an ancestor of the imperial family
+
+=====Usage notes=====
+Sometimes also encountered as ''sojin'', although this reading is less common.
+
+===Etymology 2===
+{{ja-kanjitab|おや|かみ|k2=がみ|yomi=kun}}
+Compound of {{compound|lang=ja|sort=おやがみ|祖|tr1=oya|t1=parent; forebear, ancestor|神|tr2=kami|t2=god, spirit}}. {{rendaku2|sort=おやがみ|kami|gami}}
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|n|お|や|がみ}}<ref name="DJR"/>
+* {{IPA|lang=ja|[o̞ja̠ŋa̠mi]}}
+
+====Noun====
+{{ja-noun|おやがみ}}
+
+# a [[god]] as an [[ancestor]], an [[ancestral]] god
+
+===See also===
+* {{ja-l|守護神|しゅごしん|shugoshin}}: a [[tutelary deity]]
+* {{pedialite|Veneration of the dead}}
+* {{pedialite|Bon Festival}}
+* {{pedialite|Shintō}}
+
+===References===
+<references/>
+
+[[zh:祖神]]

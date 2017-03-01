@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=05|sn=8|four=96010|canj=PAM|ids=⿰忄旦}}
+
+# [[grieved]], [[saddened]]
+# [[worried]]
+
+====References====
+* {{Han ref|kx=0380.260|dkj=10458|dj=0709.030|hdz=42284.120|uh=601B|ud=24603|bh=A9CD|bd=43469}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dá
+|c=daat3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|惻怛之心|惻怛|慘怛|怛突|忉怛|怛怛|怛吒|怛化|怛傷|怛然失色|惙怛|怛然|疾痛慘怛}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心05}}
+
+# {{defn|lang=ja|sort=心05}}
+
+====Readings====
+* {{ja-readings|on=[[だつ]] (datsu), [[たつ]] (tatsu)|kun=[[いたむ]] (itamu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=달|eumhun=|rv=dal|mr=tal|y=tal}}
+
+# {{defn|lang=ko|sort=心05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心05|hanviet=đắn}}
+
+# {{defn|lang=vi|sort=心05}}
+
+[[fr:怛]]
+[[li:怛]]
+[[hu:怛]]
+[[mg:怛]]
+[[ja:怛]]
+[[pl:怛]]
+[[th:怛]]
+[[zh:怛]]

@@ -1,0 +1,158 @@
+{{character info/new}}
+{{also|菷}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{liushu|p}} – a broom with bristles on top and tied handle on the bottom.
+
+In modern form, top now resembles {{m|mul|聿||hand|sc=Hani}}, {{m|mul|肀||brush|sc=Hani}}, [[彐]], and overall graphically decomposes roughly as {{Han compound|肀|冖|巾}}.
+
+===Han character===
+{{Han char|rn=50|rad=巾|as=05|sn=8|four=17227|canj=SMBLB|ids=⿳彐冖巾}}
+
+====Derived characters====
+* [[婦]] [[帰]] [[歸]] [[箒]] [[菷]] [[掃]]
+
+====References====
+* {{Han ref|kx=0330.060|dkj=08854|dj=0635.250|hdz=10735.100|uh=5E1A|ud=24090|bh=A9AA|bd=43434}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǒu
+|c=zaau2,zau2
+|mn=qz,tw,xm,zz:chiú/qz,tw,xm,zz:chhiú
+|mn_note=chiú - literary; chhiú - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[broom]], [[broomstick]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=巾05}}
+
+# [[broom]]
+
+====Readings====
+{{ja-readings|goon=[[す]] (su)|kanon=[[しゅう]] (shū)|kanyoon=[[そう]] (sō)|kun=[[ほうき]] (houki)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|箕帚|きしゅう}}, {{ja-r|箕帚|きそう}}
+{{der-bottom}}
+
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|ほうき|yomi=k}}
+Alteration of ''hahaki''.<ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|ほうき|acc=0|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{l|ja|箒}}
+
+====Noun====
+{{ja-noun|ほうき|hhira=はうき}}
+
+# [[broom]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|玉帚|たまぼうき}}
+* {{ja-r|帚持ち|ほうきもち}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|ははき|yomi=irr}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|ははき}}
+
+====Alternative forms====
+* {{l|ja|箒}}
+
+====Noun====
+{{ja-noun|ははき}}
+
+# [[broom]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|玉帚|たまばはき}}
+* {{ja-r|帚持ち|ははきもち}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=추|rv=chu|mr=ch'u}}
+
+# {{defn|lang=ko|sort=巾05}}
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{head|ryu|kanji}}
+
+* {{ja-readings|kun=[[ほーち]] (hōchi)}}
+
+===Etymology===
+{{ryu-OG|79|はうち}} Cognate with mainland {{cog|ja|帚|tr=hōki}}.
+
+===Alternative forms===
+* {{l|ryu|箒}}
+
+===Noun===
+{{head|ryu|noun|hiragana|ほーち|romaji|hōchi}}
+
+# [[broom]]
+
+===References===
+<references/>
+:* {{R:Okinawago Jiten}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chổi]], [[trửu]]|rs=巾05}}
+
+# {{defn|lang=vi|sort=巾05}}
+
+[[fr:帚]]
+[[ko:帚]]
+[[lo:帚]]
+[[li:帚]]
+[[hu:帚]]
+[[mg:帚]]
+[[ja:帚]]
+[[no:帚]]
+[[pl:帚]]
+[[th:帚]]
+[[chr:帚]]
+[[zh:帚]]

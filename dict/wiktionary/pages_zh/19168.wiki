@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|测}}
+==Translingual==
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|則|ls=psc|c1=s|c2=p|t1=water|alt1=氵}}.
+===Han character===
+{{Han char|rn=85|rad=水|as=09|sn=12|four=32100|canj=EBCN|ids=⿰氵則}}
+
+# [[measure]], [[estimate]], [[conjecture]]
+
+====References====
+* {{Han ref|kx=0635.010|dkj=17780|dj=1041.120|hdz=31674.010|uh=6E2C|ud=28204|bh=B4FA|bd=46330}}
+
+----
+
+==Chinese==
+{{zh-forms|s=测}}
+
+===Pronunciation===
+{{zh-pron
+|m=cè
+|c=cak1,caak1
+|h=pfs=chhet
+|md=
+|mn=chhek
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|猜測}}
+* {{zh-l|測試}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=水09}}
+
+# {{defn|lang=ja|sort=水09}}
+
+====Readings====
+* {{ja-readings|goon=[[しき]] (shiki)|kanon=[[そく]] (soku)|kun=[[はかる]] (hakaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=측|eumhun=|rv=cheuk|mr=ch'ŭk|y=chuk}}
+
+# {{defn|lang=ko|sort=水09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''測''' ([[trắc]])
+
+# {{defn|lang=vi}}
+
+[[fr:測]]
+[[ko:測]]
+[[hu:測]]
+[[mg:測]]
+[[ja:測]]
+[[pl:測]]
+[[th:測]]
+[[chr:測]]
+[[zh:測]]

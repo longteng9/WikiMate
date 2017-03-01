@@ -1,0 +1,74 @@
+{{also|顶戴}}
+==Chinese==
+{{zh-forms|s=顶戴}}
+
+===Pronunciation===
+{{zh-pron
+|m=dǐngdài
+|mn=téng-tài
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|archaic}} to [[salute]]; to be [[thankful]]
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|historical}} official [[cap]] [[button]] in the Qing Dynasty
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちょう|だい|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=ちょうだい}} compound {{m|ltc|頂戴|tr=*děng *də̀i}}. Compare modern {{etyl|cmn|-}} traditional {{m|cmn|頂戴}} and simplified {{m|cmn|顶戴|tr=dǐngdài}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|n|ちょ|うだ|い}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[t͡ɕʲo̞ːda̠i]}}
+
+===Noun===
+{{ja-noun|ちょうだい}}
+
+# {{lb|ja|sort=ちょうだい|humble|formal|archaic}} a [[humble]] [[submission]], a [[humble]] [[contribution]] made to someone of higher [[status]]
+# {{lb|ja|sort=ちょうだい|humble|formal|archaic}} a [[humble]] [[reception]] or [[receiving]] of something
+# {{lb|ja|sort=ちょうだい|informal}} to [[request]]: compare English {{m|en|please}}, {{m|en|gimme}}
+#: {{ja-usex|この バラ '''ちょうだい'''。|^この バラ '''ちょうだい'''。|I''''ll have''' these roses. / '''Please give me''' these roses.}}
+#: {{ja-usex|スプーン '''ちょうだい'''。|^スプーン '''ちょうだい'''。|'''Gimme''' the spoon.}}
+#: {{ja-usex|ここに名前を書いて'''ちょうだい'''。|^ここ に なまえ を かいて '''ちょうだい'''。|'''Please''' write your name here.}}
+
+====Usage notes====
+When used as ''please'' or ''gimme'', this is used as a kind of command form. This [[imperative]] sense is added after the desired noun with the object particle {{ja-l|を||o}} optional, or after the {{ja-l|て||te}} or [[conjunctive]] form of the desired verb. This usage is almost always written in hiragana, and is mostly used by women and children.
+
+The other usages are generally written in kanji.
+
+====Synonyms====
+* {{sense|please give me, for nouns}} {{ja-l|下さい|ください|kudasai}}
+* {{sense|please, for verbs}} {{ja-l|下さい|ください|kudasai}} {{qualifier|after ''-te'' form of verb}}
+
+=====Derived terms=====
+* {{ja-l|頂戴物|ちょうだいもの|chōdaimono}}: a [[gift]]
+
+===Verb===
+{{ja-verb-suru|ちょうだい|tr=transitive}}
+
+# {{lb|ja|sort=ちょうだい|humble|formal}} to [[receive]] something
+#: {{ja-usex|先月は結構なものを'''頂戴'''して誠にありがとうございました。|^せんげつ は けっこう な もの を '''ちょうだい''' して まこと に ありがとう ございました。|Thank you very much for quite the gift I '''received''' [from you] last month.}}
+# to [[eat]], to have a [[meal]]
+#: {{ja-usex|腹一杯'''頂戴'''しました。|^はら いっぱい '''ちょうだい''' しました。|I've '''eaten''' my fill.}}
+
+====Conjugation====
+{{ja-suru|頂戴|ちょうだい}}
+
+====Synonyms====
+* {{ja-l|頂く|いただく|itadaku}}
+
+===References===
+<references/>
+
+[[hu:頂戴]]

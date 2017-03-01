@@ -1,0 +1,72 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=07|sn=13|four=88108|canj=HMOO|ids=⿱⺮巫}}
+
+# [[divination]] with [[stalk]]s of [[plant]]s
+# [[divining rod]]
+
+====References====
+* {{Han ref|kx=0885.230|dkj=26070|dj=1314.030|hdz=52972.040|uh=7B6E|ud=31598|bh=B862|bd=47202}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shì
+|c=sai6
+|mn=sē
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹07}}
+
+# {{defn|lang=ja|sort=竹07}}
+
+====Readings====
+* {{ja-readings|on=[[せい]] (sei), [[ぜい]] (zei)|kun=[[めどぎ]] (medogi), [[うらなう]] (uranau)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=서|eumhun=|rv=seo|mr=sŏ|y=se}}
+
+# {{defn|lang=ko|sort=竹07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[vầu]], [[phệ]], [[thệ]]|rs=竹07}}
+
+# {{defn|lang=vi|sort=竹07}}
+
+[[fr:筮]]
+[[ko:筮]]
+[[hu:筮]]
+[[mg:筮]]
+[[mn:筮]]
+[[ja:筮]]
+[[pl:筮]]
+[[th:筮]]
+[[zh:筮]]

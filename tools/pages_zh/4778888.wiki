@@ -1,0 +1,37 @@
+{{also|恶性}}
+==Chinese==
+{{zh-forms|s=恶性}}
+
+===Pronunciation===
+{{zh-pron
+|m=èxìng
+|c=ok3 sing3
+|mn=ok-sèng
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[bad]]; [[viciousness]]; [[wickedness]]
+# {{lb|zh|medical}} [[malignancy]] {{gloss|of a tumour}}
+
+===Adjective===
+{{zh-adj}}
+
+# bad; [[vicious]]; [[wicked]]
+# {{lb|zh|medical}} [[malignant]] {{gloss|of a tumour}}
+
+====Antonyms====
+* {{zh-l|良性}}
+
+====Derived terms====
+{{zh-der|惡性循環:èxìng xúnhuán|惡性腫瘤:èxìng zhǒngliú}}
+
+{{zh-cat|Advanced}}
+
+[[zh-min-nan:惡性]]
+[[ko:惡性]]
+[[hu:惡性]]
+[[mg:惡性]]
+[[ja:惡性]]

@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=10|sn=21|four=27362|canj=NFHHW}}
+
+# {{defn|Han|sort=魚10}}
+
+====References====
+* {{Han ref|kx=1475.330|dkj=46374|hdz=74707.130|uh=9C21|ud=39969|bh=F6B1|bd=63153}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=liú
+|c=lau4
+|mn=liu
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|鰗鰡嘴|鰗鰡|烏鰡|鰡公}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚10}}
+
+====Readings====
+* {{ja-readings|on=[[りゅう]] (ryū)|kun=}}
+
+===Noun===
+{{ja-noun|ぼら|ボラ}}
+
+# [[flathead mullet]], ''[[Mugil cephalus]]''
+
+{{wikipedia|Flathead mullet}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 鰡]]
+
+[[fr:鰡]]
+[[hu:鰡]]
+[[mg:鰡]]
+[[ja:鰡]]
+[[pl:鰡]]
+[[th:鰡]]
+[[zh:鰡]]

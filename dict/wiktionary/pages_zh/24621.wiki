@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=134|rad=臼|as=04|sn=10|four=77447|canj=HXT|ids=⿱臼廾}}
+
+# [[carry]] on [[one]]'s [[shoulder]]
+
+====Derived characters====
+* [[輿]] ([[舆]]), [[興]], [[與]], [[𢍱]]
+
+====References====
+* {{Han ref|kx=1003.130|dkj=30188|dj=1460.100|hdz=53038.110|uh=8201|ud=33281|bh=D370|bd=54128}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|臼|廾|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yú
+|c=jyu4
+|mn=kú/û/ū
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=臼04}}
+
+# {{defn|lang=ja|sort=臼04}}
+
+====Readings====
+* {{ja-readings|on=[[よ]] (yo)|kun=[[かく]] (kaku)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=여|eumhun=|rv=yeo|mr=yŏ|y=ye}}
+
+# {{defn|lang=ko|sort=臼04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=臼04| hanviet = dư}}
+
+# {{defn|lang=vi|sort=臼04}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=8201 Nom Foundation]
+
+[[fr:舁]]
+[[ko:舁]]
+[[hu:舁]]
+[[mg:舁]]
+[[ja:舁]]
+[[pl:舁]]
+[[th:舁]]
+[[zh:舁]]

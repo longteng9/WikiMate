@@ -1,0 +1,23 @@
+{{also|内存}}
+==Chinese==
+{{zh-forms|s=内存}}
+
+===Pronunciation===
+{{zh-pron
+|m=nèicún
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|computing}} [[memory]]; [[RAM]]
+
+====See also====
+* {{zh-l|記憶體}}
+
+{{zh-cat|Computing}}
+
+[[hu:內存]]
+[[chr:內存]]
+[[zh:內存]]

@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=57|rad=弓|as=06|sn=9|four=11240|canj=NSJ|ids=⿰弓耳}}
+
+# [[stop]], [[desist]], [[end]], [[quell]]
+
+====References====
+* {{Han ref|kx=0358.070|dkj=09768|hdz=20995.030|uh=5F2D|ud=24365|bh=ABDA|bd=43994}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mǐ
+|c=mai5,mei5
+|h=
+|mn=bí
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* {{qualifier|Min Nan}} [http://kaifangcidian.com/han/minnan/%E5%BC%AD Kaifang Cidian]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=弓06}}
+
+# {{defn|lang=ja|sort=弓06}}
+
+====Readings====
+* {{ja-readings|on=[[び]] (bi), [[み]] (mi)|kun=[[ゆはず]] (yuhazu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=미|eumhun=|rv=mi|mr=mi|y=mi}}
+
+# {{defn|lang=ko|sort=弓06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=弓06|hanviet=[[nhẹ]], [[nhĩ]], [[nhị]]}}
+
+# {{defn|lang=vi|sort=弓06}}
+
+[[fr:弭]]
+[[hu:弭]]
+[[mg:弭]]
+[[ja:弭]]
+[[pl:弭]]
+[[th:弭]]
+[[zh:弭]]

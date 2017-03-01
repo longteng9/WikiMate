@@ -1,0 +1,20 @@
+{{also|类神经网路}}
+==Chinese==
+{{zh-forms|s=类神经网路|type=14}}
+
+===Pronunciation===
+{{zh-pron
+|m=lèi shénjīng wǎnglù
+|c=leoi6 san4 ging1 mong5 lou6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|chiefly|Taiwanese Mandarin}} [[w:artificial neural network|artificial neural network]]
+
+====Synonyms====
+* {{qualifier|Mainland China|Hong Kong}} {{zh-l|人工神經網絡}}
+
+[[ko:類神經網路]]

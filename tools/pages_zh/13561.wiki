@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=37|rad=大|as=09|sn=12|four=80430|canj=TWK|ids=⿱酋大}}
+
+# [[pay]] [[respect]]
+# [[settle]]
+
+====Derived terms====
+* {{l|mul|鄭}}
+
+====References====
+* {{Han ref|kx=0253.050|dkj=05960|dj=0514.300|hdz=10546.060|uh=5960|ud=22880|bh=B3FE|bd=46078}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|酋|丌|t1=wine|t2=table|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=diàn
+|c=din6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|奠定|弔奠|供奠|奠安|奠雁|奠都|奠立|奠地|家奠|奠酹|奠酒|奠敬|奠基|奠儀|祭奠|澆奠|祖奠|拜奠|設奠|遣奠|饋奠|路奠}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=大09}}
+
+# {{defn|lang=ja|sort=大09}}
+
+====Readings====
+* {{ja-readings|on=[[てん]] (ten), [[でん]] (den), [[てい]] (tei)|kun=[[まつる]] (matsuru), [[さだめる]] (sadameru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|rv=jeon|mr=chŏn}}
+
+# {{defn|lang=ko|sort=大09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[điện]]|rs=大09}}
+
+# {{defn|lang=vi|sort=大09}}
+
+[[fr:奠]]
+[[li:奠]]
+[[hu:奠]]
+[[mg:奠]]
+[[ja:奠]]
+[[no:奠]]
+[[pl:奠]]
+[[th:奠]]
+[[zh:奠]]

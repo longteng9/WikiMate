@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|み|こ|yomi=kun}}
+{{ja-kanjitab|お|こ|yomi=kun}}
+
+===Etymology 1===
+From {{etyl|ojp|ja|sort=み}} {{m|ja|御|tr=mi||spirit, god}} plus {{etyl|ojp|ja|sort=こ}} {{m|ja|子|tr=ko||boy, child}}
+
+====Noun====
+{{ja-noun|みこ}}
+
+# A [[god]]'s or [[spirit]]'s [[child]].
+# An [[emperor]]'s child.
+# [[Jesus Christ]].
+
+===Etymology 2===
+From {{m|ja|御|tr=o|pos=''honorific prefix''}} + {{etyl|ojp|ja|sort=こ}} {{m|ja|子|tr=ko||boy, child}}
+
+====Noun====
+{{ja-noun|おこ}}
+
+# {{lb|ja|honorific}} A child; especially the [[addressee]]'s child.
+#* 　御子様ランチ (''okosama ranchi'', "child's lunch")
+
+=====Usage notes=====
+* More often the first element is written in [[hiragana]], as {{m|ja|お子}}.

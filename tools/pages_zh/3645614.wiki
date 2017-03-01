@@ -1,0 +1,32 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|かつ|やく|きん|yomi=o}}
+
+===Etymology===
+{{affix|sort=かつやくきん|ja|括約|tr1=katsuyaku|t1=tightening up|筋|tr2=kin|t2=muscle}}
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|かつやくきん|acc=0|dev=4|acc_ref=DJR,NHK|acc2=4|acc2_ref=DJR,NHK|acc3=3|acc3_ref=NHK}}
+
+===Noun===
+{{ja-noun|かつやくきん|hhira=くわつやくきん}}
+
+# {{lb|sort=かつやくきん|ja|anatomy}} [[sphincter]]
+
+====Derived terms====
+* {{ja-r|肛門括約筋|こうもん かつやくきん|[[anal sphincter]]}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=괄약근}}
+
+# {{hanja form of|괄약근|[[sphincter]]}}
+
+[[ko:括約筋]]

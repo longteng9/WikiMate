@@ -1,0 +1,19 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dēngchū
+|c=dang1 ceot1
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|computing}} to [[log out]]
+
+====Antonyms====
+* {{zh-l|登錄}}
+
+[[zh:登出]]

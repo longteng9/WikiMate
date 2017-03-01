@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=guìfù lǐzhōng wán
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# A brown pill used in [[traditional Chinese medicine]] "to tonify the [[yang]] of the kidney, and to warm and invigorate the spleen and stomach, in the treatment of consumption of the ''kidney yang'' and ''deficiency cold'' of the spleen and stomach marked by epigastric and abdominal pain with a cold sensation, vomiting, diarrhea and cold limbs". The binding agent is honey.
+
+Guifu Lizhong pills have the following herbal ingredients:
+
+{| class="wikitable sortable"
+|-
+!Name
+!Chinese ([[Simplified Chinese|S]])
+!Grams
+|-
+| {{l|la|cortex|Cortex}} {{l|mul|Cinnamomum|Cinnamomi}}
+|桂皮
+| 30
+|-
+|{{l|la|radix|Radix}} {{l|mul|Aconitum|Aconiti}} {{l|la|lateralis|Lateralis|}} {{l|la|preparatus|Preparata}}
+|[[附子]]
+| 30
+|-
+|Radix Codonopsis
+|[[党参]]
+| 90
+|-
+|Rhizoma Atractylodis Macrocephalae (stir-baked)
+|[[白术]] (炒)
+| 90
+|-
+|Rhizoma Zingiberis Preparatum
+|炮[[姜]]
+| 90
+|-
+|Radix Glycyrrhizae Preparata
+|炙[[甘草]]
+| 90
+|}
+
+====References====
+* State Pharmacopoeia Commission of the PRC (2005). "Pharmacopoeia of The People's Republic of China (Volume I)". Chemical Industry Press. ISBN 7117069821.

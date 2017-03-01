@@ -1,0 +1,131 @@
+{{character info/new}}
+{{also|季}}
+
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=03|sn=7|four=40407|canj=DND|ids=⿱木子}}
+
+===References===
+* {{Han ref|kx=0511.110|dkj=14459|dj=0895.090|hdz=21162.080|uh=674E|ud=26446|bh=A7F5|bd=42997}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+[[oracle bone script|Oracle bone script]]: {{Han compound|來|子|ls=psc|c1=p|c2=s|t1=fruit}}. The phonetic part {{lang|zh|來}} became gradually corrupted to yield {{zh-l|*木|tree}}.
+
+''{{w|Shuowen}}'' erroneously remarks that this is a {{Han compound|木|子|c1=s|c2=p|t1=tree|ls=psc|nocap=1}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lǐ
+|c=lei5
+|h=pfs=lí
+|md=lī
+|mn=lí
+|w=3li
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[plum]] {{gloss|[[tree]] and [[fruit]]}}
+# {{lb|zh|astronomy}} {{w|Zeta Virginis}}
+# {{†}} {{zh-alt-form|理|[[judge]]; [[justice]]}}
+# {{surname|lang=zh|dot=,}} listed fourth in the ''{{w|Baijiaxing}}''
+
+====Usage notes====
+In mainland China or among its expatriates, this name is generally romanized "[[Li]]" in accordance with the {{w|Hanyu Pinyin}} system. Although an identical transliteration is used in {{w|Wade-Giles}}, similarity to the English name has made the romanization "[[Lee]]" more common in Hong Kong and Taiwan. A notable example to this is {{w|Bruce Lee}}.
+
+====Descendants====
+* English: {{l|en|Li}}, {{l|en|Lee}}
+* Tagalog: {{q|from Hokkien}} {{l|tl|Sy}}
+
+===Compounds===
+{{zh-der|張王李趙|僵李代桃|夭桃穠李|呼張喚李|小李|張冠李戴|張三李四|公門桃李|夭桃襛李|凡桃俗李|桃李門牆|桃李之教|方桃譬李|李廣難封|歐李|正冠李下|桃來李答|桃李|李代桃僵|李唐|李子|浮瓜沉李|沉李浮瓜|李劉馬夏|瓜李之嫌|投桃報李|檇李|李下|濃桃豔李|李廣射虎|李膺門|桃李滿門|牛李黨爭|李下無蹊|李爾王|桃李爭妍|李杜|李郭同舟|李耳|李靖|李思訓碑|李下瓜田|瓜田李下|桃李爭輝|比張比李|苦李|色豔桃李|鐵拐李|賣李鑽核|豔如桃李|行李箱|道傍李|郁李|門牆桃李|行李|行李袋|道傍苦李}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=木03}}
+
+# [[plum]]
+
+====Readings====
+{{ja-readings
+|goon=[[り]] (ri)
+|kanon=[[り]] (ri)
+|kun=[[すもも]] (sumomo)
+|nanori=[[もも]] (momo), [[い]] (i)
+}}
+
+===Noun===
+{{ja-noun|すもも}}
+
+# [[plum]] ({{taxlink|Prunus salicina|species|noshow=1}})
+
+====Alternative forms====
+* {{ja-l|酸桃}}
+
+===Proper noun===
+{{ja-pos|リ|proper|り}}
+
+# Japanese reading of the Chinese or Korean [[surname]].
+
+{{ja-pos|リー|proper|りい}}
+
+# Japanese reading of the Chinese [[surname]].
+
+{{ja-pos|イ|proper|い}}
+
+# Japanese reading of the Korean [[surname]].
+
+[[Category:ja:Foods|すもも]]
+[[Category:ja:Fruits|すもも]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[리]], [[이]]|eumhun=[[자두]](Jadu)|rv=[[Lee]], (NK) [[ri]], [[Rhee]], (SK) [[i]], [[I]]|mr=(NK) ri, (SK) i, Yi|y=(NK) li, (SK) i}}
+
+# {{lb|ko|North Korea}} [[리]], {{lb|ko|South Korea}} [[이]]: the second most common surname in Korea
+# {{lb|ko|North Korea}} [[리]], {{lb|ko|South Korea}} [[이]]: [[plum]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|lí|rs=木03}}
+
+# {{defn|lang=vi|sort=木03}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=674e Nom Foundation]
+
+[[zh-min-nan:李]]
+[[fr:李]]
+[[ko:李]]
+[[it:李]]
+[[lo:李]]
+[[li:李]]
+[[hu:李]]
+[[mg:李]]
+[[ms:李]]
+[[ja:李]]
+[[no:李]]
+[[pl:李]]
+[[th:李]]
+[[tr:李]]
+[[zh:李]]

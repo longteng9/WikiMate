@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|そう|てい|yomi=on}}
+
+===Noun===
+{{ja-noun|そうてい}}
+
+# [[assumption]], [[supposition]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|そうてい}}
+
+# [[assume]], [[suppose]]
+#: {{ja-usex|お客様のニーズを想定する|お きゃく さま の ニーズ を そうてい する|anticipate the client's needs}}
+
+====Conjugation====
+{{ja-suru|そうてい}}
+
+[[ko:想定]]
+[[hu:想定]]
+[[mg:想定]]
+[[ja:想定]]
+[[chr:想定]]
+[[zh:想定]]

@@ -1,0 +1,93 @@
+{{character info/new}}
+{{also|锣}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=19|sn=27|four=86114|canj=CWLG|ids=⿰金羅}}
+
+# [[gong]]
+
+====References====
+* {{Han ref|kx=1327.260|dkj=41081|dj=1828.300|hdz=64276.060|uh=947C|ud=38012|bh=C672|bd=50802}}
+
+----
+
+==Chinese==
+{{zh-forms|s=锣}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=luó
+|c=lo4
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[gong]] {{zh-mw|m:面}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{zh-l|銅鑼|[[gong]]}}
+* {{zh-l|雲鑼|[[yunluo]]}}
+{{der-bottom}}
+
+{{zh-cat|Musical instruments}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金19}}
+
+# a [[gong]]
+
+====Readings====
+{{ja-readings
+|goon=[[ら]] (ra)
+|kanon=[[ら]] (ra)
+|kun=[[どら]] (dora)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|雲鑼|うんら}}: [[yunluo]]
+* {{ja-r|金鑼|きんら}}
+* {{ja-r|銅鑼|どら}}: [[gong]]
+{{der-bottom}}
+
+===Noun===
+{{ja-noun|どら}}
+
+# {{alternative spelling of|lang=ja|sort=どら|銅鑼}}: a [[gong]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[라]]>[[나]]|eumhun=|rv=ra>na|mr=ra>na|y=la>na}}
+
+# {{defn|lang=ko|sort=金19}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[la]]}}
+
+# {{defn|lang=vi|sort=金19}}
+
+[[zh-min-nan:鑼]]
+[[fr:鑼]]
+[[hu:鑼]]
+[[ja:鑼]]
+[[pl:鑼]]
+[[th:鑼]]
+[[zh:鑼]]

@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=76|rad=欠|as=08|sn=12|four=47682|canj=KRNO|ids=⿰奇欠}}
+
+# [[fierce]] [[dog]]
+# [[interjection]] of [[plea]]s
+
+====References====
+* {{Han ref|kx=0568.100|dkj=16093|dj=0956.220|hdz=32142.070|uh=6B39|ud=27449|bh=D9DA|bd=55770}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qī,yī
+|c=kei1,ji1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{label|yue|Cantonese}} [[strange]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=欠08}}
+
+# {{defn|lang=ja|sort=欠08}}
+
+====Readings====
+* {{ja-readings|on=[[い]] (i), [[き]] (ki)|kun=[[そばだつ]] (sobadatsu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=의|eumhun=|rv=ui|mr=ŭi|y=uy}}
+
+# {{defn|lang=ko|sort=欠08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=欠08| hanviet = khi}}
+
+# {{defn|lang=vi|sort=欠08}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6b39 Nom Foundation]
+
+[[fr:欹]]
+[[ko:欹]]
+[[hu:欹]]
+[[mg:欹]]
+[[ja:欹]]
+[[pl:欹]]
+[[th:欹]]
+[[zh:欹]]

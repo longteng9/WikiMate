@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=09|sn=15|four=56114|canj=LIHAG|ids=⿰虫皇}}
+
+====References====
+* {{Han ref|kx=1089.130|dkj=33267|dj=1555.220|hdz=42871.080|uh=8757|ud=34647|bh=BDC0|bd=48576}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huáng
+|c=wong4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[locust]]
+# {{lb|zh|Hong Kong|derogatory}} [[swarm]]s of [[Mainlander]] [[migrant]]s
+
+===Compounds===
+{{zh-der|土蝗|山馬蝗|蝗災|蝗蝻|蝗蟲|蝗蟲過境|螞蝗|螞蝗見血|螞蝗釘|飛蝗}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫09}}
+
+====Readings====
+{{ja-kanjitab|いなご|yomi=k}}
+* {{ja-readings|goon=[[おう]] (ō)|kanon=[[こう]] (kō)|kun=[[いなご]] (inago)|nanori=}}
+
+===Noun===
+{{ja-noun|いなご}}
+
+# {{ja-def|イナゴ|稲子}} [[grasshopper]]
+
+[[Category:ja:Insects|いなご]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=황|eumhun=|rv=hwang|mr=hwang|y=hwang}}
+
+# {{defn|lang=ko|sort=虫09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hoàng]]|rs=虫09}}
+
+# {{defn|lang=vi}}
+
+[[fr:蝗]]
+[[ku:蝗]]
+[[lo:蝗]]
+[[hu:蝗]]
+[[mg:蝗]]
+[[ja:蝗]]
+[[no:蝗]]
+[[pl:蝗]]
+[[sv:蝗]]
+[[th:蝗]]
+[[chr:蝗]]
+[[zh:蝗]]

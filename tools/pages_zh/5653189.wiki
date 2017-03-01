@@ -1,0 +1,28 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+From {{der|zh|en|order}}.
+
+===Pronunciation===
+{{zh-pron
+|c=o1 daa2
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Cantonese}} [[order]] {{gloss|request for a product or service}}
+#: {{zh-x|落柯打|to place an order|C}}
+
+====See also====
+* {{zh-l|點菜}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Cantonese}} to [[order]] {{gloss|to command}}
+
+====See also====
+* {{zh-l|[[下]][[命令]]}}

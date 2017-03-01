@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=fāngwèijiǎo
+|c=fong1 wai6 gok3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[azimuth]] {{gloss|an arc of the horizon}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほう|い|かく|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ほういかく|y=o|dev=5}}
+
+===Noun===
+{{ja-noun|ほういかく}}
+
+# [[azimuth]] {{gloss|an arc of the horizon}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=방위각}}
+
+# {{hanja form of|방위각|[[azimuth]] {{gloss|an arc of the horizon}}}}
+
+[[ko:方位角]]
+[[io:方位角]]
+[[ja:方位角]]
+[[ru:方位角]]
+[[zh:方位角]]

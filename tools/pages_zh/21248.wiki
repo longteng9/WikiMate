@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=05|sn=10|four=00117|canj=KBM|ids=⿸疒且}}
+
+# [[ulcer]], [[carbuncle]], [[abscess]]
+
+====References====
+* {{Han ref|kx=0771.160|dkj=22106|dj=1181.190|hdz=42666.020|uh=75BD|ud=30141|bh=AF6A|bd=44906}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jū
+|c=zeoi1,ceoi1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|串疽|吮疽|壞疽|夭疽|決癰潰疽|炭疽病|瘭疽|癰疽|馬鼻疽}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒05}}
+
+# {{defn|lang=ja|sort=疒05}}
+
+====Readings====
+{{ja-readings|goon=[[そ]] (so)|kanon=[[しょ]] (sho)|kun=[[かさ]] (kasa)}}
+
+====Compounds====
+* {{ja-r|壊疽|えそ}}: [[gangrene]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=저|eumhun=|rv=jeo|mr=chŏ|y=ce}}
+
+# {{defn|lang=ko|sort=疒05}}
+
+[[fr:疽]]
+[[hu:疽]]
+[[mg:疽]]
+[[ja:疽]]
+[[pl:疽]]
+[[th:疽]]
+[[zh:疽]]

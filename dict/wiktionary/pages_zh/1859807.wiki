@@ -1,0 +1,27 @@
+==Japanese==
+{{ja-kanjitab|き|か|yomi=o}}
+
+===Etymology===
+{{suffix|帰|化|lang=ja|sort=きか}}
+
+===Pronunciation===
+* {{IPA|/kika/|lang=ja}}
+
+===Noun===
+{{ja-noun|きか|kyu=歸化}}
+
+# the process of taking citizenship in a foreign country; [[naturalization]]
+
+====Derived terms====
+* {{ja-r|帰化人|きかじん}}
+
+===Verb===
+{{ja-verb-suru|きか|kyu=歸化}}
+
+# to [[naturalize]]
+
+====Conjugation====
+{{ja-suru|きか}}
+
+[[lo:帰化]]
+[[zh:帰化]]

@@ -1,0 +1,85 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=04|sn=10|four=44227|canj=TCSH|ids=⿱艹分}}
+
+====References====
+* {{Han ref|kx=1020.130|dkj=30728|dj=1477.220|hdz=53183.010|uh=82AC|ud=33452|bh=AAE2|bd=43746}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēn
+|c=fan1
+|mc=y
+|oc=y
+|ma=
+|cat=n,a,propn
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[fragrance]], [[aroma]]
+
+===Adjective===
+{{zh-adj}}
+
+# [[fragrant]]
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{abbreviation of|芬蘭||Finland|lang=zh}}
+
+====Compounds====
+* {{zh-l|芬蘭|Finland}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸04}}
+
+# {{defn|lang=ja|sort=艸04}}
+
+====Readings====
+* {{ja-readings|on=[[ふん]] (fun)|kun=[[こうばしい]] (koubashii), [[かおり]] (kaori)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=분|eumhun=|rv=bun|mr=pun|y=pun}}
+
+# {{defn|lang=ko|sort=艸04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phân]]|rs=艸04}}
+
+# {{defn|lang=vi|sort=艸04}}
+
+[[fr:芬]]
+[[ko:芬]]
+[[hu:芬]]
+[[mg:芬]]
+[[ja:芬]]
+[[no:芬]]
+[[pl:芬]]
+[[th:芬]]
+[[vi:芬]]
+[[zh:芬]]

@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|桌|櫂}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=08|sn=12|four=41946|canj=DYAJ|ids=⿰木卓}}
+
+====References====
+* {{Han ref|kx=0535.030|dkj=14992|dj=0922.220|hdz=21231.030|uh=68F9|ud=26873|bh=B4CD|bd=46285}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=zhào
+|c=zaau6
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[oar]]
+# [[boat]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=zhuō
+|c=zoek3
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[table]], [[desk]], [[stand]]
+
+====References====
+* [http://www.zdic.net/z/1b/js/68F9.htm zdic.net (Han Dian)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木08}}
+
+# {{defn|lang=ja|sort=木08}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō), [[たく]] (taku)|kun=[[さお]] (sao), [[こぐ]] (kogu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=도|eumhun=|rv=do|mr=to|y=to}}
+
+# {{defn|lang=ko|sort=木08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木08|hanviet=[[chèo]], [[trạo]], [[chác]], [[dậu]], [[địu]]}}
+
+# {{defn|lang=vi|sort=木08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=68f9 Nom Foundation]
+
+[[fr:棹]]
+[[ko:棹]]
+[[hu:棹]]
+[[mg:棹]]
+[[ja:棹]]
+[[pl:棹]]
+[[th:棹]]
+[[zh:棹]]

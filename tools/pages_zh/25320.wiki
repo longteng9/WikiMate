@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=10|sn=16|four=44991|canj=TMFF}}
+
+====References====
+* {{Han ref|kx=1048.220|dkj=31562|dj=1510.040|hdz=53259.130|uh=849C|ud=33948|bh=BB5B|bd=47963}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艹|祘|alt1=艸|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+Matisoff considers this to be derived from {{inh|zh|sit-pro|*swa-n||garlic}}, but more likely this may be a plant imported from the {{w|Western Regions}} in the {{w|Qin Dynasty|Qin}}–{{w|Han Dynasty|Han}} era. The relatively late attestation and the earlier form of {{zh-l|卵蒜}} attest to the latter theory.
+
+Compare {{cog|sa|लशुन|ल'''शुन'''}}, {{cog|pi|lasuṇa}}, {{m|pi|lasuna}}. The Old Chinese reconstruction was revised to a *''-or'' rhyme in the Baxter–Sagart system, akin to its homophone {{zh-l|*算|to calculate}}. Hence compare {{cog|fa|سیر|tr=sir||garlic}}, {{cog|kho|sārmā-||the plant ''Basella cordifolia'' or ''B. lucida'' or ''B. rubra''}}, {{cog|hu|sárma||''Ornithogalum'' sp.}}, as well as (controversial) {{cog|tut-pro|*sera||a kind of garlic}} ({{cog|tr|sarımsak}}, {{cog|mn|саримс}}).
+
+Either way this word is cognate with the second syllable of {{cog|my|ကြက်သွန်||onion}}, {{m|my|ကြက်သွန်ဖြူ||garlic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=suàn
+|c=syun3
+|h=pfs=son
+|md=sáung
+|mn=soàn/qz,xm:sǹg
+|mn_note=soàn - literary; sǹg - vernacular
+|w=2soe
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[garlic]]
+
+===Compounds===
+{{zh-der|大蒜|大蒜效應|拌蒜|搗蒜|石蒜|耐儲大蒜|蒜條|蒜條金|蒜毫|蒜泥|蒜球精|蒜瓣兒|蒜瓣骨朵|蒜苗|蒜薹|蒜辮子|蒜頭|蒜髮|蒜黃|裝蒜|雞毛蒜皮|青蒜}}
+
+{{zh-cat|Vegetables}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸10}}
+
+# {{defn|lang=ja|sort=艸10}}
+
+====Readings====
+* {{ja-readings|on=[[さん]] (san)|kun=[[ひる]] (hiru), [[のびる]] (nobiru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=산|eumhun=|rv=san|mr=san|y=san}}
+
+# {{defn|lang=ko|sort=艸10}}
+
+[[et:蒜]]
+[[el:蒜]]
+[[fr:蒜]]
+[[ko:蒜]]
+[[lo:蒜]]
+[[li:蒜]]
+[[hu:蒜]]
+[[mg:蒜]]
+[[ja:蒜]]
+[[no:蒜]]
+[[pl:蒜]]
+[[th:蒜]]
+[[zh:蒜]]

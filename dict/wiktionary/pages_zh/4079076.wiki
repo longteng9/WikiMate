@@ -1,0 +1,82 @@
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{sense|colleague|lang=zh}} {{zh-l|同仁}}
+
+===Pronunciation===
+{{zh-pron
+|m=tóngrén
+|c=tung4 jan4
+|mn=tông-jîn/tông-lîn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# the [[thirteenth]] [[hexagram]] of the [[I Ching]], known as "Concording People": <span style="font-size:larger;">☰☲</span>
+# [[colleague]]; fellow worker, person of the same belief or conviction; [[coterie]]
+# articles, pictures, music or games recreated by fans of a particular manga (comic/anime/game/novel), based on the original work
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|どう|じん|yomi=on}}
+From {{etyl|ltc|ja|sort=とうじん'}} compound {{m|ltc|同人|tr=*dhung *njin}}. Compare modern {{cog|zh|同人|tr=tóngrén}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|h|ど|うじん}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[do̞ːd͡ʑĩɴ]}}
+
+====Noun====
+{{ja-noun|どうじん}}
+
+# the [[same]] person
+# [[that]] person, the same person as previously mentioned
+# a person or persons of the same [[interest]]s or [[passion]]s: a [[coterie]] or a [[member]] of a coterie, a [[fan]]
+# a [[scholar]] or scholars belonging to the same [[school]] of [[thought]]
+# the [[thirteenth]] [[hexagram]] of the [[I Ching]], known as "Concording People": <span style="font-size:larger;">☰☲</span>
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|同人雑誌|どうじんざっし|dōjin zasshi}}: a [[fan]] [[magazine]]
+* {{ja-l|同人誌|どうじんし|dōjinshi}}: short for ''dōjin zasshi'': a [[fan]] [[magazine]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|どう|にん|yomi=on}}
+Same as above, only using the older [[呉音#Japanese|''goon'']] reading of ''nin'' for {{ja-l|人}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|h|ど|うにん}}<ref name="DJR"/>
+* {{ja-accent-common|a|ど|うにん}}<ref name="DJR"/>
+* {{IPA|lang=ja|[do̞ːnĩɴ]}}
+
+====Noun====
+{{ja-noun|どうにん}}
+
+# the [[same]] [[person]]
+# [[that]] person, the same person as previously mentioned
+# {{lb|ja|sort=どうにん|rare}} a person or persons of the same [[interest]]s or [[passion]]s: a [[coterie]] or a [[member]] of a coterie, a [[fan]]
+
+=====Usage notes=====
+Generally speaking, the ''dōnin'' reading appears to be used less often than ''dōjin''. Note also that ''dōnin'' has fewer senses.<ref name="DJR"/><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|同人雑誌|どうにんざっし|dōnin zasshi}}: a [[fan]] [[magazine]]
+* {{ja-l|同人誌|どうにんし|dōninshi}}: short for ''dōnin zasshi'': a [[fan]] [[magazine]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[ko:同人]]
+[[ja:同人]]
+[[pl:同人]]
+[[zh:同人]]

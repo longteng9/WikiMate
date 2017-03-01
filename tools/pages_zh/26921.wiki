@@ -1,0 +1,110 @@
+{{character info/new}}
+{{also|许}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=04|sn=11|four=08640|canj=YROJ|ids=⿰言午}}
+
+====References====
+* {{Han ref|kx=1151.140|dkj=35298|dj=1618.030|hdz=63946.090|uh=8A31|ud=35377|bh=B35C|bd=45916}}
+
+----
+
+==Chinese==
+{{zh-forms|s=许}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=xǔ
+|c=heoi2
+|h=pfs=hí
+|md=
+|mn=xm,tp:hú/qz:hír/zz,kh:hí/khó͘
+|mn_note=hú/hír/hí - literary; khó͘ - vernacular (surname)
+|w=
+|mc=y
+|oc=y
+|ma=y
+|ca=y
+|cat=v,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[allow]]; to [[permit]]
+# to [[promise]]
+# to [[betroth]]
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|許多|幾許|口許|允許|如許|寧許|也許|心許|公許碼頭|嘉許|以身相許|些許|以身許國|封官許願|丹誠相許|孤高自許|何許人|容許|少許|倒許|准許|何許|不許|推許|滿應滿許|特許費|或許|期許|片許|稱許|稍許|應許|目成心許|特許|特許行業|自許|邪許|許愿|許配|許大|許可|許事|許由棄瓢|許許多多|許諾|肯許|默許|許嫁|許願|許久|許由洗耳|興許|自我期許|許宣|許婚|許可證|許身|許字|讚許|許許}}
+
+====Descendants====
+* {{q|Hokkien dialect}} Tagalog: {{l|tl|Co}}, {{l|tl|Ko}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|mn=hia/hiah
+|dial=n
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Min Nan}} [[there]]
+
+=====See also=====
+* (''Mandarin'') {{zh-l|那裡}}
+* (''Mandarin'') {{zh-l|那兒}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=言04}}
+
+# {{defn|lang=ja|sort=言04}}
+
+====Readings====
+{{ja-readings|goon=[[こ]] (ko)|kanon=[[きょ]] (kyo)|kun=[[ゆるす]] (yurusu), [[ばかり]] (bakari), [[もと]] (moto)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|お手許|おてもと}}, {{ja-r|御手許|おてもと}}
+* {{ja-r|不許|ふきょ}}: not [[permitting]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[허]], [[호]]|eumhun=|rv=Hur, heo, ho|mr=hŏ, ho|y=he, ho}}
+
+# {{defn|lang=ko|sort=言04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hứa]], [[hớ]], [[hở]], [[hử]], [[hữ]], [[ngỏ]]|rs=言04}}
+
+# {{defn|lang=vi|sort=言04}}
+
+[[zh-min-nan:許]]
+[[fr:許]]
+[[ko:許]]
+[[hu:許]]
+[[mg:許]]
+[[ja:許]]
+[[pl:許]]
+[[th:許]]
+[[zh:許]]

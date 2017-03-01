@@ -1,0 +1,90 @@
+{{character info/new}}
+{{also|镫}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=12|sn=20|four=82118|canj=CNOT}}
+
+# [[lamp]]
+# a kind of cooking vessel
+
+====References====
+* {{Han ref|kx=1323.040|dkj=40904|dj=1822.200|hdz=64260.040|uh=9419|ud=37913|bh=F4F1|bd=62705}}
+
+----
+
+==Chinese==
+{{zh-forms|s=镫}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dèng
+|c=dang3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|執鞭墜鐙|執鞭隨鐙|截鐙留鞭|撥鐙法|明鐙|馬鐙}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金12}}
+
+# {{defn|lang=ja|sort=金12}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō)|kun=[[あぶみ]] (abumi), [[たかつき]] (takatsuki), [[ひともし]] (hitomoshi)|nanori=}}
+
+{{wikipedia|lang=ja}}
+
+===Noun===
+{{ja-noun|あぶみ}}
+
+# [[stirrup]]
+
+[[Category:ja:Horse tack|あぶみ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=등|eumhun=|rv=deung|mr=tŭng|y=tung}}
+
+# {{defn|lang=ko|sort=金12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đăng]], [[đâng]], [[đặng]], [[đáng]]|rs=金12}}
+
+# {{defn|lang=vi|sort=金12}}
+
+[[fr:鐙]]
+[[ko:鐙]]
+[[hu:鐙]]
+[[mg:鐙]]
+[[ja:鐙]]
+[[pl:鐙]]
+[[ru:鐙]]
+[[th:鐙]]
+[[chr:鐙]]
+[[zh:鐙]]

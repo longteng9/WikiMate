@@ -1,0 +1,94 @@
+{{character info/new}}
+{{also|剂|剤}}
+==Translingual==
+{{Han simplified forms|劑|剤|剂}}
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=14|sn=16|four=02200|canj=YXLN|ids=⿰齊刂}}
+
+====Descendants====
+* [[剤]] [[剂]]
+
+====References====
+* {{Han ref|kx=0145.060|dkj=02241|dj=0326.110|hdz=10361.050|uh=5291|ud=21137|bh=BEAF|bd=48815}}
+
+----
+
+==Chinese==
+{{zh-forms|s=剂}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|齊|刀|alt2=刂|ls=psc|c1=p|c2=s}}.
+
+===Etymology===
+From {{och-l|齊|orderly}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jì
+|c=zai1,zai6
+|h=pfs=
+|md=câ/cā̤
+|md_note=câ - noun and classifier; cā̤ - verb
+|mn=chē
+|w=2ji
+|mc=y
+|oc=y
+|cat=v,n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} to [[trim]]; to [[prune]]
+# to [[adjust]]; to [[make up]] (a [[concoction]]); to [[concoct]]
+# {{lb|zh|historical}} [[contract]] for [[trading]]
+# small piece of [[dough]]; [[dough]] which has been [[knead]]ed
+# {{lb|zh|TCM}} [[medicinal]] [[preparation]]; [[concoction]]
+# [[pharmaceutical]] [[preparation]]; [[medicament]]
+# [[dose]]; [[dosage]]
+# {{lb|zh|chemistry}} [[agent]]; [[reagent]]
+# {{zh-classifier|[[dose]]s of [[medicine]]}}
+
+===Compounds===
+{{zh-der|方劑學|減充血劑|洗髮劑|下劑|丸劑|乳劑|乾燥劑|健胃劑|催化劑|催吐劑|催眠劑|冷凝劑|凝固劑|利尿劑|劑量|化學戰劑|十劑|合劑|吐劑|含漱劑|吸收劑量|媒染劑|宣劑|強壯劑|強心劑|懸液劑|成色劑|抗凝血劑|抗氧化劑|推進劑|擦劑|收斂劑|散劑|方劑|栓劑|止血劑|殖毛劑|殺菌劑|殺蟲劑|毒劑|氧化劑|沖服劑|泄劑|泡沫劑|注射劑|浸劑|消毒劑|混凝劑|清潔劑|減速劑|湯劑|溶劑|滑劑|漂白劑|潔齒劑|潤滑劑|焊劑|煎劑|熱劑|生物製劑|生髮劑|發汗劑|發煙劑|磺胺劑|祛痰劑|稀釋劑|糊劑|緩和劑|脫水劑|脫皮裹劑|腐蝕劑|膏劑|興奮劑|藥劑|藥劑師|螢光劑|補劑|解毒劑|解熱劑|診斷試劑|試劑|調劑|賦形劑|質劑|通便劑|通劑|還原劑|酏劑|醑劑|針劑|鋁融接劑|鎔劑|鎮定劑|鎮痛劑|鎮靜劑|防腐劑|防臭劑|防蝕劑|除草劑|驅蟲劑|驅風劑|麻醉劑|黏合劑|黏著劑}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=刀14}}
+
+# {{defn|lang=ja|sort=刀14}}
+
+====Readings====
+* {{ja-readings|on=[[ざい]] (zai), [[せい]] (sei), [[すい]] (sui)|kun=[[かる]] (karu), [[けずる]] (kezuru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=제|rv=je|mr=che}}
+
+# {{defn|lang=ko|sort=刀14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tễ]], [[xẻ]]|rs=刀14}}
+
+# {{defn|lang=vi|sort=刀14}}
+
+[[fr:劑]]
+[[ko:劑]]
+[[hu:劑]]
+[[ja:劑]]
+[[pl:劑]]
+[[th:劑]]
+[[chr:劑]]
+[[zh:劑]]

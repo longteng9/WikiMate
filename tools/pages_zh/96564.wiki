@@ -1,0 +1,103 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=xìngjiāo
+|c=sing3 gaau1
+|h=pfs=sin-kâu
+|mn=sèng-kau
+|w=2xin kau
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[have sex]]
+
+===Noun===
+{{zh-noun}}
+
+# [[sexual intercourse]]; [[sex]]; [[coitus]]; [[copulation]]
+
+====Synonyms====
+* {{zh-l|做愛}}
+* {{zh-l|行房}}
+
+===Derived terms===
+{{zh-der|安全性交}}
+
+{{zh-cat|Sex}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|こう|yomi=on}}
+
+===Etymology===
+{{IPAchar|/seikau/}} → {{IPAchar|/seikɔː/}} → {{IPAchar|/seːkoː/}}
+
+From {{etyl|ltc|ja|sort=せいこう}} compound {{m|zh|性交|tr=sjeng<sup>H</sup> kæw|lit=sex + cross}}. Compare modern {{etyl|hak|-}} ''sin-kâu'' or {{etyl|yue|-}} ''sing<sup>3</sup> gaau<sup>1</sup>''.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|せいこう|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|せいこう|hhira=せいかう}}
+
+# [[sexual intercourse]], [[sex]], [[coitus]], [[copulation]]
+
+====Usage notes====
+This term is more formal and clinical than the everyday term {{ja-r|セックス}}.
+
+===Verb===
+{{ja-verb-suru|せいこう|hhira=せいかう}}
+
+# to [[have sex]], to [[copulate]]
+
+====Usage notes====
+This term is more formal and clinical than the everyday term {{ja-r|セックス}}.
+
+====Conjugation====
+{{ja-suru|せいこう}}
+
+===References===
+<references/>
+:* {{R:Shogakukan}}
+
+[[Category:ja:Sex|せいこう]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=seonggyo|hangeul=성교}}
+
+# {{hanja form of|성교|[[sexual intercourse]], [[sex]], [[coitus]], [[copulation]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-noun|sc=Hani}}
+
+# {{han tu form of|tính giao|[[sexual intercourse]], [[sex]], [[coitus]], [[copulation]]}}
+
+[[fr:性交]]
+[[ko:性交]]
+[[lt:性交]]
+[[li:性交]]
+[[hu:性交]]
+[[mg:性交]]
+[[ja:性交]]
+[[pt:性交]]
+[[chr:性交]]
+[[zh:性交]]

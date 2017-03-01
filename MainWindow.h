@@ -9,7 +9,6 @@
 #include <QTableWidgetItem>
 #include "Launcher.h"
 #include "MessageForm.h"
-#include "TaskPool.h"
 
 namespace Ui {
 class MainWindow;
@@ -80,7 +79,6 @@ private:
 private:
     Ui::MainWindow *ui;
     Launcher *mLauncher;
-    //TaskPool<std::thread> *mTaskPool;
     MessageForm *mMessageForm;
 };
 

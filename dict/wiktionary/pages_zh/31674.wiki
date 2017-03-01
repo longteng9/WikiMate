@@ -1,0 +1,135 @@
+{{character info/new}}
+{{also|骑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=08|sn=18|four=74321|canj=SFKMR|ids=⿰馬奇}}
+
+====Descendants====
+* [[骑]]
+
+====References====
+* {{Han ref|kx=1440.360|dkj=44817|dj=1964.310|hdz=74560.080|uh=9A0E|ud=39438|bh=C34D|bd=49997}}
+
+----
+
+==Chinese==
+{{zh-forms|s=骑}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|馬|t1=horse|奇|ls=psc|c1=s|c2=p}} – to ride horseback
+
+===Etymology===
+Wanderwort in the E/SE Asian Sprachbund. The STEDT reconstructs {{cog|sit-pro|*gi||to ride; to sit astride; to sit (horse)}}, and comments that "many of the TB forms seem to be borrowings from Chinese {{lang|zh|騎}}".
+
+Outside Sino-Tibetan, cognates are also found in Hmong-Mien, Tai-Kadai and some Mon-Khmer languages. Benedict (1975) surmises that this is an ancient loan into Proto-Sino-Tibetan from Austro-Tai:
+
+{{blockquote|... but these [Tibeto-Burman] forms appear to involve old loans from AT [Austro-Tai] with typical loss of an original medial *''w'' (Thai *''khwi'' ~ *''gwi'').}}
+
+while Peiros (1998), Sagart (2006), Schuessler (2007) and Pittayaporn (2014) think the directionality of borrowing is reversed. The following excerpt is taken from Sagart's review (2006) of Matisoff's book ''Handbook of Proto-Tibeto-Burman'' (2003):
+
+{{blockquote|The collection of forms under Matisoff's high-vowelled *gyi 'ride' are from TB languages in contact with Chinese (Lolo-Burmese, Qiangic, Tujia): they are best regarded as late loans from Chinese.  ... The idea that the Chinese vocabulary of agriculture, metallurgy, horse-riding etc. might contain numerous loans from an early SEA language is simply not to be taken seriously in view of modern Asian archaeology (Bellwood 1997), quite apart from the fact that it makes no linguistic sense (Sagart 1999 for metal names). Yet Matisoff's book is scattered with observations telling the reader that words like 'writing brush' and 'ride' just discussed may well be loans from Austro-Tai into ST (188; 504).}}
+
+Below lists some cognates for "to ride" found in various languages in this Sprachbund.
+
+* Lolo-Burmese: *''gyi ⪤ dzyi'': {{cog|my|စီး}}, {{cog|ii|ꋩ|tr=zzy||to ride; to bear (a rider)}}, {{m|ii|ꊪ|tr=zy||to cause to ride}}
+* Southwestern Tai: *''kʰwiːᴮ'': {{cog|th|ขี่}}, {{cog|lo|ຂີ່}}, {{cog|za|gwih}}
+* Hmong-Mien: {{m|hmx-pro|*ɟej}}: {{cog|mww|caij}}
+* Mon-Khmer: West Bahnaric *''ɟih'', {{cog|km|ជិះ}}, {{cog|vi|cưỡi}}
+
+Also compare {{cog|map-pro|*sakay||catch a ride, join a group, ride on something}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=qí
+|c=ke4,kei4
+|c_note=ke4 - vernacular; kei4 - literary
+|h=pfs=khì
+|md=kiè/kià
+|md_note=kiè - colloquial ("to ride"); kià - colloquial ("to straddle; to bestride")
+|mn=qz:kî/tw,xm,zz:khî/qz:khâ/tw,xm,zz:khiâ
+|mn_note=kî/khî - literary; khâ/khiâ - vernacular
+|w=3jji
+|mc=1
+|oc=1,1
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[ride]] (a horse, bike, etc.)
+# to [[sit]] [[astride]]
+# {{lb|zh|vulgar}} to [[ride]]; to [[mount]] (someone in sex)
+
+===Pronunciation 2===
+{{zh-pron
+|m=騎
+|c=kei3,gei6
+|c_note=kei3 - vernacular; gei6 - literary
+|h=
+|md=gì
+|mn=
+|w=
+|mc=2
+|oc=2,2
+|cat=cls,n,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[horse]] or [[vehicle]] that one [[rides]] on
+# [[mounted]] [[soldier]]
+# {{lb|zh|literary}} {{n-g|Classifier for soldiers or warhorses.}}
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|騎兵|騎都尉|人善得人欺，馬善得人騎|倒騎|偵騎|勢如騎虎|勢成騎虎|千乘萬騎|單騎|坐騎|帖騎|彉騎|惡馬惡人騎|慣騎馬的慣跌跤|探騎|握蛇騎虎|散騎常侍|斥騎|旄騎|東方騎|梟騎|步騎|王喬騎鶴|盲人騎瞎馬|突騎|結駟連騎|緹騎|羽騎|胡騎|說鐵騎兒|車騎|輕騎|輜騎|遊騎|遊騎無歸|邊騎|邏騎|鐵騎|馬騎燈|騎上老虎|騎乘|騎兩頭馬|騎兵團|騎到頭上去|騎士|騎士教育|騎射|騎師|騎從|騎樓|騎牆|騎牆之見|騎牛覓牛|騎箕尾|騎縫|騎縫章|騎者善墮|騎著老虎過海|騎虎之勢|騎虎難下|騎術|騎車|騎鞍壓馬|騎馬|騎馬一世，驢背失腳|騎馬不帶鞭子|騎馬尋馬|騎馬找馬|騎驢|騎驢看唱本|騎驢覓驢|騎鶴揚州|驃騎|驃騎將軍|驍騎}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=馬08}}
+
+# [[ride]] [[horseback]]
+# [[mount]]
+# [[cavalry]]
+
+====Readings====
+* {{ja-readings|goon=[[ぎ]] (gi)|kanon=[[き]] (ki)|kun=[[のる]] (noru)}}
+
+====Compounds====
+* [[騎士]] (きし, kishi)
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|eumhun=|rv=gi|mr=ki|y=ki}}
+
+# {{defn|lang=ko|sort=馬08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kị]], [[cưỡi]], [[kỵ]], [[cỡi]], [[siệu]]|rs=馬08}}
+
+# {{defn|lang=vi|sort=馬08}}
+
+[[zh-min-nan:騎]]
+[[fr:騎]]
+[[ko:騎]]
+[[hu:騎]]
+[[mg:騎]]
+[[ja:騎]]
+[[pl:騎]]
+[[th:騎]]
+[[chr:騎]]
+[[zh:騎]]

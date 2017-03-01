@@ -1,0 +1,36 @@
+==Japanese==
+{{ja-kanjitab|いろ|め|かね|k3=がね|r=y}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=いろめがね|色|tr1=iro|t1=color|眼鏡|tr2=megane|t2=eyeglasses}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|いろ めがね|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|いろ めがね}}
+
+# [[colored]] [[glasses]]
+# {{lb|ja|sort=いろめがね|metaphor}} a [[bias]], a [[preconception]] that [[color]]s one's [[perception]] of something
+
+====Idioms====
+* {{ja-r|'''色眼鏡'''で見る|'''いろめがね''' で みる|to see or look at something through colored glasses}}
+
+====Usage notes====
+This is similar to the English expression, {{m|en|wear rose-colored glasses|to see or look through rose-colored glasses}}. However, the English expression implies a [[positive]] bias, whereas the Japanese expression is neutral: the bias could be positive, or negative, or neither.
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=색안경}}
+
+# {{hanja form of|색안경|[[sunglasses]], dark glasses}}
+
+[[ko:色眼鏡]]
+[[zh:色眼鏡]]

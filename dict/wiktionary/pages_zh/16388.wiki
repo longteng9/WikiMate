@@ -1,0 +1,52 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=09|sn=12|four=|canj=QYTA|ids=⿰扌音}}
+
+# to [[cover]] (with the [[hand]])
+
+====References====
+* {{Han ref|kx=0443.020|dkj=12361|dj=0794.040|hdz=31923.070|uh=63DE|ud=25566}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=ǎn
+|m-s=ngan3
+|c=ngam2,an3
+|mn=ám/àⁿ
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|撲揞}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=手09|ẵm}}
+
+# {{defn|lang=vi|sort=手09}}
+
+[[fr:揞]]
+[[mg:揞]]
+[[pl:揞]]
+[[th:揞]]
+[[zh:揞]]

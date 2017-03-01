@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=guìhuā chá
+|c=gwai3 faa1 caa4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[tea]] steeped with [[osmanthus]] [[flower]]
+
+====See also====
+* {{pedialite|lang=zh}}
+
+{{zh-cat|Tea}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+[[File:Osmanthusblacktealeaves.jpg|thumb|250px|{{lang|ja|桂花茶}} (''keikacha''): '''[[osmanthus]] [[flower]] [[tea]]'''.]]
+</div>
+{{ja-kanjitab|けい|か|ちゃ|yomi=o}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=けいかちゃ|桂花|tr1=keika|t1=sweet osmanthus|茶|tr2=cha|t2=tea}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|けいかちゃ}}
+
+===Alternative forms===
+* {{ja-l|桂華茶}} {{qualifier|rare}}
+
+===Noun===
+{{ja-noun|けいかちゃ|hhira=けいくわちや}}
+
+# [[osmanthus]] [[flower]] [[tea]]: [[black tea]] with sweet osmanthus blossoms mixed in
+
+[[Category:ja:Tea|sort=けいかちゃ]]

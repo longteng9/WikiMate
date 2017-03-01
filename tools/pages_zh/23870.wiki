@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|鉢|钵}}
+==Translingual==
+{{Han simplified forms|缽|鉢|钵}}
+===Han character===
+{{Han char|rn=121|rad=缶|as=05|sn=11|four=84749|canj=OUDM}}
+
+# earthenware basin
+# alms bowl
+
+====Descendants====
+* [[鉢]] [[钵]]
+
+====References====
+* {{Han ref|kx=0945.171|dkj=28136|dj=1385.230|hdz=52936.060|uh=7F3D|ud=32573|bh=B2DA|bd=45786}}
+
+----
+
+==Chinese==
+{{zh-forms|s=钵|alt=鉢}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|缶|t1=pot|本|t2=basic|ls=ic}} – a basic (humble) pot. {{rfv-etymology|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=bō
+|c=but3
+|mn=poah
+|mc=
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|傳衣缽|乳缽|付衣缽|家缽|優缽羅|托缽|托缽人|擂缽|沿門託缽|缽盂|衣缽|缽子|缽盂頭|衣缽相傳|衣缽真傳|衣缽塔|缽頭}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=缶05}}
+
+# {{defn|lang=ja|sort=缶05}}
+
+====Readings====
+* {{ja-readings|on=[[はち]] (hachi), [[はつ]] (hatsu)|kun=|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bát]]|rs=缶05}}
+
+# {{defn|lang=vi|sort=缶05}}
+
+[[zh-min-nan:缽]]
+[[fr:缽]]
+[[li:缽]]
+[[hu:缽]]
+[[mg:缽]]
+[[pl:缽]]
+[[th:缽]]
+[[zh:缽]]

@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|趱}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=156|rad=走|as=19|sn=26|four=44808|canj=GOHUC}}
+
+# go in hurry, hasten
+# [[urge]]
+
+====References====
+* {{Han ref|kx=1221.140|dkj=37362|dj=1692.260|hdz=53505.030|uh=8DB2|ud=36274|bh=F96F|bd=63855}}
+
+----
+
+==Chinese==
+{{zh-forms|s=趱}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zǎn
+|c=zaan2,zyun2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|催趲|促趲|積趲|趲程|趲足|趲幹|趲步|趲行}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=走19}}
+
+# {{defn|lang=ja|sort=走19}}
+
+====Readings====
+* {{ja-readings|on=[[さん]] (san), [[ざん]] (zan), [[そ]] (so)|kun=[[ちる]] (chiru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=찬|eumhun=|rv=chan|mr=ch'an|y=chan}}
+
+# {{defn|lang=ko|sort=走19}}
+
+[[fr:趲]]
+[[hu:趲]]
+[[pl:趲]]
+[[th:趲]]
+[[zh:趲]]

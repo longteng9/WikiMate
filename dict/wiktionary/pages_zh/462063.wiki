@@ -1,0 +1,59 @@
+==Chinese==
+{{zh-forms|s=细菌}}
+
+===Pronunciation===
+{{zh-pron
+|m=xì菌
+|c=sai3 kwan2
+|mn=xm,qz,zz,kh:sè-khún/tp:sòe-khún/lk:sère-khún
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[bacterium]]; [[germ]] {{zh-mw|種}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|さい|きん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|さいきん|acc=h|acc_ref=NHK|y=o}}
+
+===Noun===
+{{ja-noun|さいきん}}
+
+# [[bacterium]]; [[germ]]
+
+====Synonyms====
+* {{ja-l|バクテリア||[[bakuteria]]}}
+
+===References===
+<references/>
+
+{{catlangcode|ja|Bacteria|Bacteriology|sort=さいきん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=세균}}
+
+# {{hanja form of|세균|[[bacterium]], [[germ]]}}
+
+[[zh-min-nan:細菌]]
+[[cs:細菌]]
+[[ko:細菌]]
+[[it:細菌]]
+[[lt:細菌]]
+[[hu:細菌]]
+[[mg:細菌]]
+[[ja:細菌]]
+[[ru:細菌]]
+[[zh:細菌]]

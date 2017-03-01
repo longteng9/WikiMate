@@ -1,0 +1,12 @@
+==Japanese==
+{{ja-kanjitab|れき|し|てき|か|な|つか|o6=い|k6=づか}}
+{{wikipedia|Historical kana orthography}}
+
+===Etymology===
+{{m|ja|歴史的な||[[historical]]|tr=れきしてき, rekishiteki|sc=Jpan}}
+(from {{m|ja|歴史||history|tr=rekishi|sc=Jpan}} + {{m|ja|的||adjectival suffix|tr=teki|sc=Jpan}} + {{m|ja|仮名遣い||kana usage|tr=kanazukai|sc=Jpan}})
+
+===Noun===
+{{ja-noun|れきしてき かなづかい}}
+
+# {{alternative spelling of|歴史的仮名遣い|lang=ja|sc=Jpan}}

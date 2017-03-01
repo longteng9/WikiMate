@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|いん|せき|yomi=on}}
+
+===Noun===
+{{ja-noun|いんせき}}
+
+# taking [[responsibility]], accepting responsibility
+#: {{ja-usex|'''引責'''をとって辞任した。|'''いんせき''' を とって じにん した。|Taking responsibility, he resigned.}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|いんせき}}
+
+# [[assume]] responsibility
+
+====Conjugation====
+{{ja-suru|いんせき}}
+
+[[ko:引責]]
+[[hu:引責]]
+[[zh:引責]]

@@ -1,0 +1,51 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=09|sn=20|four=27320|canj=NFJRB}}
+
+# {{defn|Han|sort=魚09}}
+
+====References====
+* {{Han ref|kx=1475.140|dkj=46350|dj=2007.020|hdz=74700.050|uh=9C17|ud=39959|bh=F574|bd=62836}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=hú
+|c=wu4
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|鰗鮧}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|mn=hô͘
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+=====Compounds=====
+{{zh-der|鰗鰡|鰗鰡嘴}}
+
+[[fr:鰗]]
+[[pl:鰗]]
+[[th:鰗]]
+[[zh:鰗]]

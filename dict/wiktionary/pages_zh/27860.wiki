@@ -1,0 +1,92 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=156|rad=走|as=05|sn=12|four=48802|canj=GOOHH|ids=⿺走㐱}}
+
+====References====
+* {{Han ref|kx=1216.010|dkj=37083|dj=1685.080|hdz=53482.130|uh=8D81|ud=36225|bh=B658|bd=46680}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=趂,賺-Min “to earn”}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|走|㐱|ls=psc|c1=s|c2=p|t1=to run}}.
+
+===Pronunciation===
+{{zh-pron
+|m=chèn
+|c=can3
+|h=pfs=
+|md=tíng
+|mn=qz,tw,xm,zz:thàn/qz,tw,xm,zz:thìn
+|mn_note=thàn - vernacular; thìn - literary
+|w=2tshen
+|mc=y
+|oc=y
+|cat=v,con,md:prep
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|literary|or|Min}} to [[chase]]; to [[pursue]]
+# {{lb|zh|literary|or|Min}} to [[follow]]; to [[accompany]]
+# to [[take advantage]] of ([[time]], [[opportunity]], etc); to [[avail]] oneself of
+#* {{zh-x|趁 機會{wui6} 偷 嘢食|filch food while the opportunity is there|C}}
+# {{lb|zh|Min}} to [[earn]] (money)
+# {{lb|zh|Mandarin|colloquial}} to [[have]] [[a lot]] of
+#: {{zh-x|趁錢|wealthy}}
+# {{n-g|used to indicate a present situation: [[while]] [[circumstance]]s are [[optimal]]}}
+#: {{zh-x|趁.熱.打.鐵|to strike while the iron is hot}}
+#* {{zh-x|趁 天氣 好，快 出去 玩兒{r} 吧。|'''While''' the weather's good, go outside and play.}}
+# {{lb|zh|Min Dong}} [[from]]; [[since]]
+
+===Compounds===
+{{zh-der|廝趁|尋趁|忙投急趁|相趁|短趁|睃趁|打趁|朝趁暮食|打鐵趁熱|趁口|趁腳兒蹻|雜趁|趁食|趁波逐浪|趁常|趁風勢|趁韻|趁工|隨趁|趁墟|趁虛而入|趁哄打劫|趁頭|趁錢|趁勢落篷|趁哄|趁熱灶火|趁勢|趁頭市|趁熱灶|趁便|趁浪逐波|趁手|趁火打劫|趕趁|趁空|趁心|趁願|趁火搶劫|趁亮兒|趁黑|趁風揚帆|趁熱|趕趁人|趁逐|趁貨兒|趁船|趁熟|趁早|趁心如意|趁人之危|趁人不備|趁機}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=走05}}
+
+# {{defn|lang=ja|sort=走05}}
+
+====Readings====
+* {{ja-readings|on=[[ちん]] (chin)|kun=[[おう]] (ou)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[진]], [[전]]|eumhun=|rv=jin, jeon|mr=chin, chŏn|y=cin, cen}}
+
+# {{defn|lang=ko|sort=走05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''趁''' ([[sấn]], [[sớn]], [[thấn]], [[sán]], [[sắn]], [[xớn]])
+
+# {{defn|vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:趁]]
+[[fr:趁]]
+[[ko:趁]]
+[[hu:趁]]
+[[mg:趁]]
+[[ja:趁]]
+[[no:趁]]
+[[pl:趁]]
+[[th:趁]]
+[[zh:趁]]

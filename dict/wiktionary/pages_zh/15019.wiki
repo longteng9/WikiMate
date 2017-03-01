@@ -1,0 +1,104 @@
+{{character info/new}}
+{{also|坐}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=53|rad=广|as=07|sn=10|four=00214|canj=IOOG|ids=⿸广坐}}
+
+====References====
+* {{Han ref|kx=0346.030|dkj=09319|dj=0655.190|hdz=20886.030|uh=5EA7|ud=24231|bh=AE79|bd=44665}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|广|坐|c1=s|c2=p|t1=house on cliff|ls=psc}}.
+
+===Etymology===
+From {{och-l|坐|to sit; to be situated}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zuò
+|c=zo6,zo2
+|h=pfs=chho
+|md=
+|mn=qz:chǒ͘/tw,xm,zz:chō/qz:chǒ/tw,xm,zz:chē/twv:chó
+|mn_note=chǒ͘/chō - literary; chǒ/chē - vernacular
+|w=3zu
+|mc=y
+|oc=y
+|cat=n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[seat]] {{zh-mw|個}}
+# [[stand]]; [[base]] {{zh-mw|個}}
+# {{zh-classifier|[[building]]s, [[mountain]]s and similar [[immovable]] objects}}
+
+===Compounds===
+{{zh-der|就座|大犬星座|寶瓶座|座右銘|座上客|北冕座|咖啡座|側膜胎座|座號|串座|典座|座師|座車|仙后座|天秤座|假座|巨爵座|劃座位|座標|二座|同座|上座|座兒|座次|屈座|天鷹星座|小獅座|座談|御夫座|基座|後座力|後座|天鵝星座|一座|座談會|座落|座艙|座無虛席|座椅|座前|座位|客座教授|巨蛇座|天文座標|巨蟹座|在座|座無空席|博愛座|小熊星座|一座皆驚|上座兒|對號入座|寶座|客座|安座|仙女座|底座|卡座|主座|座子|太座|天體座標|天蠍座|天舟座|大熊星座|座主|天平座|傢伙座兒|官座兒|后座|叫座|八座|公座|人馬座|入座|倒座|天琴座|劍魚座|座頭|星座|扆座|滿座|白羊座|押座文|猊座|獅子座|神座|木上座|睛球座|看座兒的|玉夫座|獵戶座|池座|滿座風生|插座|獵戶星座|海豚座|法座|獵犬座|牧夫座|末座|棺材座子|敬陪末座|摩羯座|須彌座|雙子座|鯨魚座|茶座|英仙座|賓朋滿座|臺座|金牛座|雙魚座|銀河座標|蓮座|舉座|首座|黼座|講座|雅座|零座|鈞座|高朋滿座|飯座兒|處女座|靈座|賣座|隔座|讓座|銀座|飛馬座|鄰座|羅盤座|趕座子|觀音座蓮|綽酒座}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=广07}}
+
+====Readings====
+* {{ja-readings|goon=[[ざ]] (za)|kanon=[[さ]] (sa)|kun=[[すわる]] (suwaru), [[くら]] (kura), [[います]] (imasu)}}
+
+====Compounds====
+* [[座視]]
+* [[座礁]]
+* [[座州]]
+* [[端座]]
+* [[連座]]
+
+===Suffix===
+{{ja-pos|suffix|ざ}}
+
+# names of [[constellation]]s
+# names of [[theater]]s
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=좌|rv=jwa|mr=chwa|y=cwa}}
+
+# {{defn|lang=ko|sort=广07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[toạ]], [[toà]], [[phụng]]|rs=广07}}
+
+# {{defn|lang=vi|sort=广07}}
+
+[[zh-min-nan:座]]
+[[fr:座]]
+[[ko:座]]
+[[lo:座]]
+[[la:座]]
+[[hu:座]]
+[[mg:座]]
+[[ja:座]]
+[[no:座]]
+[[pl:座]]
+[[pt:座]]
+[[ru:座]]
+[[fi:座]]
+[[ta:座]]
+[[th:座]]
+[[uk:座]]
+[[zh:座]]

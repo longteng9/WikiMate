@@ -1,0 +1,46 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|おう|じょ|yomi=o}}
+From {{etyl|ltc|ja|sort=おうじょ}} compound {{m|zh|王女|tr=hjwang nrjo<sup>X</sup>|lit=king + female}}. The [[漢音#Japanese|''kan'on'']] reading, so likely a later borrowing.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|おうじょ|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|おうじょ|hhira=わうぢよ}}
+
+# [[princess]]
+
+=====Antonyms=====
+* {{ja-r|王子|おうじ}}: [[prince]]
+
+===Etymology 2===
+{{ja-kanjitab|おう|にょ|yomi=o}}
+From {{etyl|ltc|ja|sort=おうにょ}} compound {{m|zh|王女|tr=hjwang nrjo<sup>X</sup>|lit=king + female}}. The [[呉音#Japanese|''goon'']] reading, so likely the initial borrowing.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|おうにょ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|おうにょ|hhira=わうによ}}
+
+# [[princess]]
+
+===References===
+<references/>
+
+[[Category:ja:Nobility|おうじょ]]
+
+[[cs:王女]]
+[[fr:王女]]
+[[ko:王女]]
+[[li:王女]]
+[[hu:王女]]
+[[mg:王女]]
+[[ja:王女]]
+[[pl:王女]]
+[[sv:王女]]
+[[chr:王女]]
+[[zh:王女]]

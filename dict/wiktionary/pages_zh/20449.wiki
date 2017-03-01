@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=05|sn=8|four=46250|canj=KHWL}}
+
+# be familiar with
+# [[disrespect]]
+
+====References====
+* {{Han ref|kx=0708.250|dkj=20329|dj=1121.090|hdz=21339.100|uh=72CE|ud=29390|bh=AAAD|bd=43693}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiá
+|c=haap6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|狎客|狎侮|狎褻|狎語|相狎|狎昵|狎邪|狎遊|狎翫|狎玩|狎暱|狎信|狎弄}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=犬05}}
+
+# {{defn|lang=ja|sort=犬05}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[なれる]] (nareru), [[あなどる]] (anadoru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=압|eumhun=|rv=ap|mr=ap|y=ap}}
+
+# {{defn|lang=ko|sort=犬05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hiệp]], [[hạp]]|rs=犬05}}
+
+# {{defn|lang=vi|sort=犬05}}
+
+[[fr:狎]]
+[[hu:狎]]
+[[mg:狎]]
+[[ja:狎]]
+[[pl:狎]]
+[[th:狎]]
+[[vi:狎]]
+[[zh:狎]]

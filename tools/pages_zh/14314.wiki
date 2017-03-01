@@ -1,0 +1,71 @@
+{{character info/new}}
+{{also|尫}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=43|rad=尢|as=04|sn=7|four=41011|canj=KUMG|ids=⿺尢王}}
+
+====References====
+* {{Han ref|kx=0298.130|dkj=07558|dj=0593.170|hdz=10552.140|uh=5C2A|ud=23594|bh=CABF|bd=51903}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=㑌}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wāng
+|c=wong1
+|c-t=
+|g=
+|h=pfs=
+|j=
+|md=
+|mn=ang
+|mn-t=
+|w=
+|x=
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[lame]], [[weak]], [[emaciated]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=尢04}}
+
+# {{defn|lang=ja|sort=尢04}}
+
+====Readings====
+* {{ja-readings|on=[[おう]] (ō)|kun=[[まがる]] (magaru), [[よわい]] (yowai)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=尢04|hanviet=uông}}
+
+# {{defn|lang=vi|sort=尢04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5c2a Nom Foundation]
+
+[[zh-min-nan:尪]]
+[[fr:尪]]
+[[hu:尪]]
+[[pl:尪]]
+[[th:尪]]
+[[zh:尪]]

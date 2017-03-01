@@ -1,0 +1,127 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=02|sn=6|four=74227|canj=BKS|ids=⿰[[肉|⺼]][[力]]}}
+
+# [[rib]]s
+# [[chest]]
+
+====References====
+* {{Han ref|kx=0973.050|dkj=29239|dj=1424.060|hdz=32043.100|uh=808B|ud=32907|bh=A6D8|bd=42712}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=肋
+|c=laak6,lak6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=肉02}}
+
+====Readings====
+{{ja-readings
+|goon=[[ろく]] (roku)
+|kanon=[[ろく]] (roku)
+|kun=[[あばら]] (abara), [[ばら]] (bara)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|肋間|ろっかん}}: [[intercostal]]
+* {{ja-r|肋間神経|ろっかん しんけい}}: [[intercostal]] [[nerves]]
+* {{ja-r|肋間神経痛|ろっかん しんけいつう}}: [[intercostal]] [[neuralgia]]
+* {{ja-r|肋筋|あばらきん}}: in [[reinforced concrete]], the [[box]]-shaped [[rebar]] connecting the main vertical support rebar: the [[rib]]s of the structure
+* {{ja-r|肋骨|ろっこつ}}: [[あばらぼね]], ''[[abarabone]]''}}: [[rib]], [[costa]]
+* {{ja-r|肋材|ろくざい}}: the [[rib]]s of a [[ship]], extending upwards from the [[keel]] to the [[gunwale]] and supporting the [[hull]]
+{{der-mid}}
+* {{ja-r|肋軟骨|ろくなんこつ}}: the [[costal]] [[cartilage]] connecting the [[rib]]s and the [[sternum]]
+* {{ja-r|肋肉|ばらにく}}: [[rib]] [[meat]], generally [[beef]] or [[pork]]
+* {{ja-r|肋板|ろくばん}}: a [[turtle]]'s [[plastron]]; a [[thwart]]: a [[steel]] [[plate]] or similar support running from [[port]] to [[starboard]] between the [[rib]]s of a [[ship]] to strengthen the [[hull]]
+* {{ja-r|肋膜|ろくまく}}: the [[pleura]]
+* {{ja-r|肋膜炎|ろくまくえん}}: [[pleurisy]], [[pleuritis]]
+* {{ja-r|肋木|ろくぼく}} [[wall bars]], a kind of [[exercise]] [[equipment]]
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|あばら|yomi=k}}
+By extension from {{l|ja|荒}}, {{l|ja|荒ら|tr=''abara''}}, "loosely spaced with sizable gaps", itself possibly related to the root {{l|ja|ばら|tr=''bara''}}, "scattered".
+
+====Pronunciation====
+{{ja-pron|yomi=k|あばら|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|あばら}}
+
+# short for {{l|ja|肋骨|tr=''[[abarabone]]''}}: [[rib]] {{qualifier|body part}}
+
+===Etymology 2===
+{{ja-kanjitab|ばら|yomi=k}}
+Shortened from {{l|ja|あばら|tr=''abara''}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|ばら|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ばら|バラ}}
+
+# short for {{l|ja|肋肉|tr=''[[baraniku]]''}}: [[rib]] {{qualifier|meat, generally [[beef]] or [[pork]]}}
+
+=====Usage notes=====
+This word is more often spelled in [[hiragana]] as {{l|ja|ばら}} or in katakana as {{l|ja|バラ}}.
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[륵]]>[[늑]]|eumhun=|rv=reuk>neuk|mr=rŭk>nŭk|y=luk>nuk}}
+
+# {{defn|lang=ko|sort=肉02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lặc]]|rs=肉02}}
+
+# {{defn|lang=vi|sort=肉02}}
+
+[[fr:肋]]
+[[ko:肋]]
+[[it:肋]]
+[[hu:肋]]
+[[mg:肋]]
+[[ja:肋]]
+[[no:肋]]
+[[pl:肋]]
+[[th:肋]]
+[[zh:肋]]

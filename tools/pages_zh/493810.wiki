@@ -1,0 +1,17 @@
+==Japanese==
+
+===Etymology===
+{{ja-kanjitab|ひ|o1=き|すう|yomi=y}}
+the reading "ひきすう" differentiates from [[因数]]
+
+===Noun===
+{{wikipedia|lang=ja}}
+{{ja-noun|ひきすう}}
+
+# {{lb|ja|computing}} [[argument]]
+
+[[Category:ja:Computing|ひきすう]]
+
+[[lt:引数]]
+[[chr:引数]]
+[[zh:引数]]

@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=piǎobái
+|c=piu3 baak6
+|h=pfs=n:péu-pha̍k/s:pêu-pha̍k
+|mn=phiò-pe̍h/thiò-pe̍h
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[bleach]]
+
+====Derived terms====
+{{zh-der|漂白劑|漂白粉}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひょう|はく|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|ひょうはく|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|ひょうはく|hhira=へうはく}}
+
+# [[bleaching]]
+
+====Derived terms====
+* {{ja-r|電気漂白|でんき ひょうはく|[[electrolytic]] [[bleaching]]}}
+* {{ja-r|漂白剤|ひょうはくざい|[[bleach]]}}
+
+===Verb===
+{{ja-verb-suru|ひょうはく|hhira=へうはく}}
+
+# [[bleach]]
+
+====Conjugation====
+{{ja-suru|ひょうはく}}
+
+===References===
+<references/>
+
+[[zh-min-nan:漂白]]
+[[mg:漂白]]
+[[chr:漂白]]
+[[zh:漂白]]

@@ -1,0 +1,16 @@
+==Chinese==
+{{zh-forms|type=22}}
+
+===Pronunciation===
+{{zh-pron
+|m=móhú jíhé
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+# [[w:fuzzy set|fuzzy set]]
+
+[[Category:zh:Set theory|木11模糊集合]]
+
+[[ko:模糊集合]]

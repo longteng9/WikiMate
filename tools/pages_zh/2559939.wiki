@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|おう|たい|yomi=on}}
+
+===Noun===
+{{ja-noun|おうたい}}
+
+# [[reception]] (of guests), receiving, dealing (with)
+
+===Anagrams===
+* {{ja-r|対応|たいおう}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|おうたい}}
+
+# to [[receive]], to deal (with), to interact, to serve, wait on (customers)
+#* '''1915''', 夏目漱石, 道草:
+#*: {{ja-usex|健三はこの昔の人に対してどんな言葉を使って、どんな'''応対'''をして好いか解らなかった。|^けんぞう は この むかし の ひと に たいして どんな ことば を つかって、 どんな '''おうたい''' を して よい か わからなかった。|Kenzō had no idea how to speak to this person from his past or how to deal with them.}}
+
+====Conjugation====
+{{ja-suru|おうたい}}
+
+[[hu:応対]]
+[[ja:応対]]
+[[zh:応対]]

@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=12|sn=15|four=29759|canj=UFDQ|ids=⿰山粦}}
+
+# [[precipitous]]
+
+====References====
+* {{Han ref|kx=0319.450|dkj=08477|dj=0620.040|hdz=10799.090|uh=5D99|ud=23961|bh=E562|bd=58722}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|山|t1=mountain|粦|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lín
+|c=leon4
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山12}}
+
+# [[precipitous]]
+
+====Readings====
+* {{ja-readings|on=[[りん]] (rin)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=린|rv=rin|mr=rin}}
+
+# [[precipitous]]
+# [[deep]]
+# [[soar]]
+# [[upright]], [[staunch]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=山12|hanviet=lân}}
+
+# {{defn|lang=vi|sort=山12}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5d99 Nom Foundation]
+
+[[fr:嶙]]
+[[li:嶙]]
+[[hu:嶙]]
+[[mg:嶙]]
+[[pl:嶙]]
+[[th:嶙]]
+[[zh:嶙]]

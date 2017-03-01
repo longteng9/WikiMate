@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|纱}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=04|sn=10|four=29920|canj=VFFH|ids=⿰糹少}}
+
+# [[gauze]], thin [[silk]]
+# [[yarn]], [[thread]]
+
+====References====
+* {{Han ref|kx=0917.180|dkj=27287|dj=1347.070|hdz=53373.030|uh=7D17|ud=32023|bh=AFBD|bd=44989}}
+
+----
+
+==Chinese==
+{{zh-forms|s=纱}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shā
+|c=saa1
+|h=pfs=sâ
+|md=
+|mn=qz,tw,xm:sa/qz,tw,xm:se/zz:see/twv:soa
+|mn_note=sa - literary; se/see/soa - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=糸04}}
+
+# {{defn|lang=ja|sort=糸04}}
+
+====Readings====
+* {{ja-readings|on=[[さ]] (sa), [[しゃ]] (sha)|kun=[[うすぎぬ]] (usuginu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|eumhun=|rv=sa|mr=sa|y=sa}}
+
+# {{defn|lang=ko|sort=糸04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sa]]|rs=糸04}}
+
+# {{defn|lang=vi|sort=糸04}}
+
+[[fr:紗]]
+[[ko:紗]]
+[[hu:紗]]
+[[mg:紗]]
+[[ja:紗]]
+[[pl:紗]]
+[[th:紗]]
+[[chr:紗]]
+[[zh:紗]]

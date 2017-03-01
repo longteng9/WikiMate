@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xùwén
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[preface]], [[foreword]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|じょ|ぶん|yomi=on}}
+
+===Noun===
+{{ja-noun|じょぶん}}
+
+# [[preface]], [[foreword]]
+#: {{ja-usex|'''序文'''にそう書いてある。|'''じょぶん''' に そう かいて ある。|It was written in the preface as such.}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=서문}}
+
+# {{hanja form of|서문|[[preface]], [[foreword]]}}
+
+[[ko:序文]]
+[[mg:序文]]
+[[zh:序文]]

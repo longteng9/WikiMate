@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|驭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=02|sn=12|four=77340|canj=SFE|ids=⿰馬又}}
+
+# [[drive]], [[ride]]
+# [[manage]], [[control]]
+
+====References====
+* {{Han ref|kx=1433.080|dkj=44576|dj=1958.020|hdz=74540.050|uh=99AD|ud=39341|bh=B6BF|bd=46783}}
+
+----
+
+==Chinese==
+{{zh-forms|s=驭}}
+
+===Pronunciation===
+{{zh-pron
+|m=yù
+|c=jyu6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|丙馭吐茵|以一馭萬|叱馭|撫馭|曦馭|服馭|統馭|羲和馭日|長轡遠馭|馭手|馭氣|馭風客|駕馭|鶴馭|龍馭}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬02}}
+
+# {{defn|lang=ja|sort=馬02}}
+
+====Readings====
+* {{ja-readings|kanon=[[ぎょ]] (gyo)|goon=[[ご]] (go)|kun=[[つかう]] (tsukau), [[のりもの]] (norimono)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=어|eumhun=|rv=eo|mr=ŏ|y=e}}
+
+# {{defn|lang=ko|sort=馬02}}
+
+----
+
+==Vietnamese==
+
+===Noun===
+{{vi-hantu|[[ngự]], [[ngựa]], [[ngừa]], [[lừa]]|rs=馬02}}
+
+# [[horse]] {{gloss|large four-legged animal}}
+
+[[Category:Vietnamese nouns|馬02]]
+
+[[fr:馭]]
+[[ko:馭]]
+[[hu:馭]]
+[[mg:馭]]
+[[ja:馭]]
+[[pl:馭]]
+[[th:馭]]
+[[zh:馭]]

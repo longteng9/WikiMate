@@ -1,0 +1,71 @@
+{{character info/new}}
+{{also|艷|艶|艳}}
+==Translingual==
+{{Han simplified forms|豔|艶|艳}}
+
+===Han character===
+{{Han char|rn=151|rad=豆|as=21|sn=28|four=54117|canj=UTGIT|ids=⿰豐盍}}
+
+# [[plump]], [[voluptuous]], [[beautiful]]
+
+====References====
+* {{Han ref|kx=1194.020|dkj=36332|dj=1656.210|hdz=63570.150|uh=8C54|ud=35924|bh=C676|bd=50806}}
+
+----
+
+==Chinese==
+{{zh-forms|s=艳|t2=艷}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|豐|盇|c1=s|c2=p|t1=abundant, great|ls=psc}} (corrupted to {{m|mul|盍|sc=Hani}}). The original variant is {{m|mul|豓|sc=Hani}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yàn
+|c=jim6
+|h=pfs=yam
+|md=
+|mn=iām
+|w=
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=豆21}}
+
+# {{defn|lang=ja|sort=豆21}}
+
+====Readings====
+* {{ja-readings|on=[[えん]] (en)|kun=[[なまめかしい]] (namamekashii), [[つや]] (tsuya)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=豆21| hanviet = diệm, diễm}}
+
+# {{defn|lang=vi|sort=豆21}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=8c54 Nom Foundation]
+
+[[fr:豔]]
+[[hu:豔]]
+[[mg:豔]]
+[[ja:豔]]
+[[pl:豔]]
+[[th:豔]]
+[[zh:豔]]

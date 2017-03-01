@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|锈}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=12|sn=20|four=82127|canj=CLX|ids=⿰[[金]][[肅]]}}
+
+====References====
+* {{Han ref|kx=1321.210|dkj=40857|dj=1821.120|hdz=64266.010|uh=93FD}}
+
+----
+
+==Chinese==
+{{zh-forms|s=锈|t2=銹}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiù
+|c=sau3
+|h=pfs=
+|md=
+|mn=qz,tw,xm,zz:siù
+|w=
+|mc=
+|oc=y
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[rust]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[rust]]
+
+====Compounds====
+* {{zh-l|銹病}}
+* {{zh-l|銹蝕}}
+* {{zh-l|銹斑}}
+* {{zh-l|銹菌}}
+* {{zh-l|銹膜}}
+* {{zh-l|銹膜}}
+* {{zh-l|生鏽}}
+* {{zh-l|不鏽鋼}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金12}}
+
+# {{defn|lang=ja|sort=金12}}
+
+====Readings====
+* {{ja-readings|on=[[しゅう]] (shū)|kun=[[さび]] (sabi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[수]]|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=金12}}
+
+[[de:鏽]]
+[[fr:鏽]]
+[[hu:鏽]]
+[[mg:鏽]]
+[[pl:鏽]]
+[[th:鏽]]
+[[zh:鏽]]

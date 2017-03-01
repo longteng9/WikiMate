@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=05|sn=10|four=25930|canj=HDLBK|ids=⿰禾央}}
+
+# rice seedlings, young rice plants
+
+====References====
+* {{Han ref|kx=0851.320|dkj=24996|dj=1276.010|hdz=42599.060|uh=79E7}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yāng
+|c=joeng1
+|mn=qz,xm:iong/xm,zz:iang/qz,tw,xm,zz:ng/twv,xm:iuⁿ
+|mn_note=iong/iang - literary; iuⁿ/ng - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不論秧子|串秧兒|分秧|塌秧兒|外秧兒|家秧子|念秧|拉秧|插秧|插秧機|撓秧|旱秧田|架秧子|栽秧|瓜秧|秧子|秧歌|秧歌劇|秧田|秧秧蹌蹌|秧腳|秧苗|秧針|秧雞|秧馬|秧齡|花秧兒|菜秧|蒔秧|魚秧}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=禾05}}
+
+# {{defn|lang=ja|sort=禾05}}
+
+====Readings====
+{{ja-readings|goon=[[おう]] (ō)|kanon=[[よう]] (yō)|kun=[[なえ]] (nae), [[うえる]] (ueru)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|秧鶏|くいな}}: [[rail]]; [[water rail]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=앙|eumhun=|rv=ang|mr=ang|y=ang}}
+
+# {{defn|lang=ko|sort=禾05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''秧''' ([[ương]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:秧]]
+[[fr:秧]]
+[[hu:秧]]
+[[mg:秧]]
+[[ja:秧]]
+[[no:秧]]
+[[pl:秧]]
+[[th:秧]]
+[[zh:秧]]

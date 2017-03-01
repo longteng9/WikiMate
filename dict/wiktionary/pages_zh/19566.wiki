@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=12|sn=15|four=38140|canj=EYBK|ids=⿰氵⿰育攵}}
+
+# [[thoroughly]], [[completely]]
+
+====References====
+* {{Han ref|kx=0651.290|dkj=18319|dj=1062.010|hdz=31747.040|uh=6F88|ud=28552|bh=BAAB|bd=47787}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chè
+|c=cit3
+|mn=theh
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|大澈大悟|明澈|清澈|澄澈|澈底|澈悟|澈查|痛澈心脾|痛澈骨髓|透澈}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水12}}
+
+# {{defn|lang=ja|sort=水12}}
+
+====Readings====
+{{ja-readings|goon=[[でち]] (dechi)|kanon=[[てつ]] (tetsu)|kun=[[きよい]] (kiyoi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=철|eumhun=|rv=cheol|mr=ch'ŏl|y=chel}}
+
+# {{defn|lang=ko|sort=水12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[triệt]]|rs=水12}}
+
+# {{defn|lang=vi|sort=水12}}
+
+[[fr:澈]]
+[[hu:澈]]
+[[mg:澈]]
+[[no:澈]]
+[[pl:澈]]
+[[th:澈]]
+[[zh:澈]]

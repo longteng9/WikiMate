@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|寸}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=03|sn=6|four=64000|canj=RDI|ids=⿰口寸}}
+
+# [[inch]]
+
+====References====
+* {{Han ref|kx=0175.040|dkj=03292|dj=0389.040|hdz=10577.030|uh=540B|ud=21515|bh=A654|bd=42580}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=cùn
+|c=cyun3
+|mn=chhùn
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口03}}
+
+====Readings====
+* {{ja-readings|on=[[すん]] (sun), [[とう]] (tō)|kun=[[インチ]] (inchi)}}
+
+===Noun===
+{{ja-noun|インチ}}
+
+# {{ja-def|インチ}} [[inch]]
+
+====Usage notes====
+{{ja-uk|katakana}}
+
+[[Category:ja:Units of measure|いんち]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=촌|rv=chon|mr=ch'on}}
+
+# {{defn|lang=ko|sort=口03}}
+
+[[fr:吋]]
+[[li:吋]]
+[[hu:吋]]
+[[mg:吋]]
+[[ja:吋]]
+[[pl:吋]]
+[[th:吋]]
+[[zh:吋]]

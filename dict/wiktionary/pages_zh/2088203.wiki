@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=不xìn
+|c=bat1 seon3
+|cat=v,n
+}}
+
+===Etymology 1===
+
+====Verb====
+{{zh-verb}}
+
+# to not [[trust]]; to not [[believe]]
+# {{lb|zh|literary}} to not have [[credit]]; to be [[untrustworthy]]
+
+=====Derived terms=====
+{{zh-der|賞罰不信|言而不信|美言不信|無徵不信}}
+
+===Etymology 2===
+Translation of {{der|zh|sa|अश्रद्ध्य||unbelief}} or {{der|zh|pi|asaddha||not believing}}. Tibetan equivalent is {{m|bo|མ་དད་པ}}.
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|Buddhism}} [[unbelief]] or [[non-]][[faith]]; [[inability]] of a person to generate [[tacit]] [[belief]] or [[confidence]] in a [[teacher]] and the [[doctrine]]s that is necessary to [[undertake]] [[practice]] in earnest
+
+=====Descendants=====
+{{CJKV||ふしん|불신|bất tín}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふ|しん|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|yomi=on|ふしん}}
+
+===Noun===
+{{ja-noun|ふしん}}
+
+# having no [[confidence]] in someone or something
+
+[[ko:不信]]
+[[mg:不信]]
+[[ja:不信]]
+[[chr:不信]]
+[[zh:不信]]

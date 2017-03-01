@@ -1,0 +1,22 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|は|どう|かん|すう|yomi=o}}
+
+===Etymology===
+Compound of {{affix|sort=はどうかんすう|ja|波動|tr1=hadō|t1=wave|関数|tr2=kansū|t2=function}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|はどうかんすう|acc=4|acc_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|波動函数}}
+
+===Noun===
+{{ja-noun|はどう かんすう|hhira=はどうくわんすう}}
+
+# {{lb|sort=はどうかんすう|ja|quantum mechanics}} [[wavefunction]]
+
+===References===
+<references/>
+
+[[zh:波動関数]]

@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=14|sn=17|four=|canj=RHUL|ids=⿰口鼻}}
+
+# to [[pant]]
+# [[wife]]
+
+====References====
+* {{Han ref|kx=0212.020|dkj=04467|dj=0434.360|hdz=10696.170|uh=568A|ud=22154}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology 1===
+{{zh-see|嗅|a}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=pì
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{n-g|The sound of breathing.}}
+
+===Etymology 3===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|c=be6,bei6
+|cat=part
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese|dated}} {{n-g|Sentence-final particle.}} {{rfgloss|zh}} <!--https://books.google.com/books?id=KTarCgAAQBAJ&pg=PA227&dq="嚊"+"be6"-->
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口14}}
+
+# {{defn|lang=ja|sort=口14}}
+
+====Readings====
+* {{ja-readings|on=[[ひ]] (hi)|kun=[[はないき]] (hanaiki), [[かか]] (kaka), [[あえぎ]] (aegi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=비|rv=bi|mr=pi}}
+
+# {{defn|lang=ko|sort=口14}}
+
+[[fr:嚊]]
+[[li:嚊]]
+[[hu:嚊]]
+[[ja:嚊]]
+[[pl:嚊]]
+[[th:嚊]]
+[[zh:嚊]]

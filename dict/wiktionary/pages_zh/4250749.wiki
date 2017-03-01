@@ -1,0 +1,13 @@
+==Japanese==
+{{ja-kanjitab|がく|しょく|yomi=o}}
+
+===Etymology===
+Compound of {{compound|sc=Jpan|lang=ja|学生|tr1=がくせい, gakusei|t1=student|食堂|tr2=しょくどう, shokudō|sort=がくしょく}}
+
+===Pronunciation===
+{{rfp|lang=ja}}
+
+===Noun===
+{{ja-noun|がくしょく}}
+
+# [[school]] [[cafeteria]]

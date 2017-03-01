@@ -1,0 +1,113 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=03|sn=6|four=27604|canj=HER|ids=⿱夂口}}
+
+====Derived characters====
+各 (Old Chinese *''klaag'', by Zhengzhang Shangfang) is frequently used to demonstrate the presence of consonant cluster initials in Old Chinese.
+* (k/g-) [[客]] ([[愘]], [[揢]]), [[閣]] ([[擱]]), [[格]], [[铬]], [[鉻]], [[阁]] ([[搁]]), [[咯]], [[胳]], [[硌]], [[骼]], [[袼]], [[挌]], [[茖]], [[佫]], [[敋]], [[鮥]], [[臵]], [[饹]], [[觡]], [[鵅]], [[蛒]], [[恪]]
+* (l-) [[洛]] ([[落]]), [[絡]], [[络]], [[酪]], [[烙]], [[珞]], [[路]], [[略]], [[畧]], [[饹]], [[餎]], [[骆]], [[珞]], [[雒]], [[峈]], [[硌]], [[詻]], [[鮥]], [[洜]], [[笿]]
+
+====References====
+* {{Han ref|kx=0174.180|dkj=03281|dj=0387.110|hdz=10583.010|uh=5404|ud=21508|bh=A655|bd=42581}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|夂|口|ls=ic|t1=sole of foot}} – to come, to enter; original form of {{och-l|𢓜}} and {{och-l|格}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gè,gě
+|m_note=gě - only in {{zh-l|*自各兒}}
+|c=gok3
+|h=pfs=kok
+|mn=koh/kok
+|mn_note=koh - vernacular; kok - literary
+|w=4koq
+|mc=y
+|oc=y
+|ma=y
+|cat=det,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[each]]; [[every]] {{gloss|determiner}}
+#: {{zh-syn|每}}
+#: {{zh-x|各種各樣|all sorts}}
+#: {{zh-x|各位|everyone present; you all; everybody}}
+# [[each]] {{gloss|adverb}}
+#: {{zh-x|各-盡-其-責|each fulfils his/her responsibilities}}
+
+===Compounds===
+{{zh-der|人各有志|人持各見|分財各居|加爾各答|各不相犯|各不相謀|各不相讓|各不相關|各不相顧|各人|各位|各個|各個擊破|各別|各剌剌|各半|各司其事|各各|各國|各執一詞|各執己見|各執所見|各奔前程|各奔東西|各展其長|各式|各式各樣|各得其宜|各得其所|各從其志|各憑本事|各懷一心|各懷異心|各懷鬼胎|各抒己見|各抱一角|各持己見|各支支|各有千秋|各有各的|各有所長|各樣|各為其主|各琅琅|各界|各界人士|各異其趣|各白世人|各盡其用|各盡所能|各相|各省|各眾|各種|各自|各自東西|各自為戰|各自為政|各自獨立|各自進行|各色|各處|各行其志|各行其是|各行各業|各衣另飯|各說各話|各路|各門另戶|各闢蹊徑|各霸一方|各項|各類|各顯神通|同居各爨|同床各夢|天各一方|急并各邦|波多黎各|泰系各族|物各有主|骨肉各方}}
+
+----
+
+==Japanese==
+{{ja-see-also|各-}}
+
+===Kanji===
+{{ja-kanji|grade=4|rs=口03}}
+
+# [[each]]
+# [[every]]
+# [[either]]
+
+====Readings====
+* {{ja-readings|on=[[かく]] (kaku)|kun=[[おのおの]] (onoono)}}
+
+====Pronunciation====
+{{ja-pron|かく|acc=1|acc_ref=SMK2,NHK}}
+
+====Compounds====
+{{top4}}
+* [[各停]] (かくてい)
+{{mid4}}
+* [[各駅停車]]
+{{mid4}}
+{{mid4}}
+{{bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=각|rv=gak|mr=kak}}
+
+# {{defn|lang=ko|sort=口03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[các]], [[cắc]], [[gạc]], [[gật]], [[gác]]|rs=口03}}
+
+# {{defn|lang=vi|sort=口03}}
+
+[[fr:各]]
+[[ko:各]]
+[[lo:各]]
+[[hu:各]]
+[[mg:各]]
+[[ja:各]]
+[[no:各]]
+[[pl:各]]
+[[sr:各]]
+[[ta:各]]
+[[th:各]]
+[[chr:各]]
+[[uk:各]]
+[[zh:各]]

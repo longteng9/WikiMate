@@ -1,0 +1,139 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=一rì
+|c=jat1 jat6
+|h=pfs=yit-ngit
+|mn=zz,kh,tn,tc,yl,hc,sx,mg:chi̍t-ji̍t/xm,qz,tp,tn,hc,lk,km:chi̍t-li̍t/tc:chi̍t-gi̍t
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary|or|dialectal}} [[one]] [[day]]
+
+====Derived terms====
+{{zh-der|一日為師，終身為父|一日三秋|一日不見，如隔三秋|冰凍三尺，非一日之寒|一日千里}}
+
+----
+
+==Japanese==
+
+===Alternative forms===
+* {{l|ja|1日}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|sort=ついたち}}
+From {{m|ja|月立ち|tr=tsukitachi}}. The kanji are {{juku|sort=ついたち}}.
+{{rfe|ja}}
+
+====Alternative forms====
+* {{m|ja|朔日}}, {{m|ja|朔}}
+
+====Pronunciation====
+{{ja-pron|acc=4|acc2=h|y=i|ついたち}}
+
+====Noun====
+{{ja-noun|ついたち}}
+
+# [[first]] [[day]] of the [[month]]
+
+===Etymology 2===
+{{ja-kanjitab|いち|にち|yomi=o}}
+{{rfe|ja}}
+
+====Pronunciation====
+{{ja-pron|acc=4|acc2=h|y=go|いちにち}}
+
+====Noun====
+{{ja-noun|いちにち}}
+
+# one day
+#: {{ja-usex|'''一%日'''を過ごす|'''いち%にち''' を すごす|to spend a day}}
+#* {{quote-book
+|format={{w|Bunkobon|bunko}}
+|language=Japanese
+|location=Tokyo
+|publisher={{w|Hakusensha}}
+|genre=fiction
+||{{w|lang=ja|安孫子三和|Miwa Abiko}}
+|{{w|みかん絵日記|{{lang|ja|みかん・絵日記}}|lang=ja}}
+|trans-title=Mikan Picture Diary
+|date=Dec 12 1997
+|volume=2
+||14
+|chapter={{lang|ja|みかん・絵日記 おはなし⑦}}
+|trans-chapter=Mikan Picture Diary Story ⑦
+|{{ja-usex|充%実した'''一%日'''でしたね♡お父さん|^じゅう%じつした '''いち%にち''' でした ね ♡ おとう-さん|What a fun-filled '''day''' ♡ right honey?}}{{ja-usex|そうだね　母さん|^そう だ ね　かあ-さん|It is, honey}}
+}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|一日一善|いちにちいちぜん}}
+* {{ja-r|一日一日|いちにちいちにち}}
+* {{ja-r|一日一夜|いちにちいちや}}
+* {{ja-r|一日置き|いちにちおき}}
+* {{ja-r|一日経|いちにちきょう}}: dead memorial service where many gather to transcribe a [[sutra]] in one day
+* {{ja-r|一日路|いちにちじ}}
+* {{ja-r|一日中|いちにちじゅう}}
+* {{ja-r|一日片時|いちにちへんじ}}
+* {{ja-r|一日増し|いちにちまし}}
+{{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|いち|じつ|yomi=o}}
+From {{etyl|lzh|ja}}{{rfv-etymology|ja}}
+
+====Pronunciation====
+{{ja-pron|acc=4|acc2=h|いちじつ|y=o}}
+
+====Noun====
+{{ja-noun|いちじつ}}
+
+# one day
+
+=====Derived terms=====
+* [[一日三秋]]
+* [[一日千秋]]
+
+===Etymology 4===
+{{ja-kanjitab|いつ|k1=いっ|ひ|k2=ぴ|yomi=j}}
+{{rfe|ja}}
+
+====Pronunciation====
+{{ja-pron|acc=a|y=j|いっぴ}}
+
+====Noun====
+{{ja-noun|いっぴ|hhira=いつぴ}}
+
+# {{rfdef|ja|sort=いっぴ}}
+
+===Etymology 5===
+{{ja-kanjitab|ひと|ひ|yomi=k}}
+{{rfe|ja}}
+
+====Pronunciation====
+{{ja-pron|acc=2|y=k|ひとひ|dev=1}}
+
+====Noun====
+{{ja-noun|ひとひ}}
+
+# {{rfdef|ja|sort=ひとひ}}
+
+[[Category:Japanese basic words]]
+
+[[zh-min-nan:一日]]
+[[fr:一日]]
+[[ko:一日]]
+[[lo:一日]]
+[[la:一日]]
+[[mg:一日]]
+[[ja:一日]]
+[[pl:一日]]
+[[pt:一日]]
+[[sv:一日]]
+[[uk:一日]]
+[[zh:一日]]

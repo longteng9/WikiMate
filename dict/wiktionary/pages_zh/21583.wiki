@@ -1,0 +1,102 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{liushu|p}} – an eye 目 peering 十 through a shield 厂.
+
+===Han character===
+{{Han char|rn=109|rad=目|as=04|sn=9|four=72264|canj=HJBU|ids=⿸𠂆⿱十目}}
+
+====Derived characters====
+* [[循]] [[楯]]
+
+====References====
+* {{Han ref|kx=0801.190|dkj=23171|dj=1218.030|hdz=42475.050|uh=76FE|ud=30462|bh=ACDE|bd=44254}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dùn,shǔn
+|c=teon5,seon5
+|h=pfs=tún
+|md=dōng
+|mn=tún
+|w=3den
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[shield]]
+# [[dong]] (Vietnamese currency)
+
+====Compounds====
+{{zh-der|大相矛盾|後盾|潛盾工法|盾牌|矛盾|矛盾律|矛盾相向|磨盾之暇|自相矛盾|銀盾|階級矛盾}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=目04}}
+
+# [[shield]], [[escutcheon]]
+
+====Readings====
+* {{ja-readings|goon=[[じゅん]] (jun), [[どん]] (don) {{non-joyo-reading}}|kanon=[[しゅん]] (shun) {{non-joyo-reading}}, [[とん]] (ton) {{non-joyo-reading}}|kun=[[たて]] (tate)|nanori=}}
+
+===Alternative forms===
+* {{l|ja|楯}}
+
+===Etymology===
+{{ja-kanjitab|たて|yomi=k}}
+The nominalized form of the verb {{m|ja|立てる||stand|tr=tateru}}.
+
+===Noun===
+{{ja-noun|たて}}
+
+# a weapon stood up or erected before one's body to block and protect from attacks; a shield
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[순]], [[돈]]|eumhun=|mr=sun, ton|y=swun, ton}}
+
+# {{defn|lang=ko|sort=目04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=目04|hanviet=thuẫn}}
+
+# {{defn|lang=vi|sort=目04}}
+
+[[fr:盾]]
+[[ko:盾]]
+[[lo:盾]]
+[[la:盾]]
+[[hu:盾]]
+[[mg:盾]]
+[[ja:盾]]
+[[no:盾]]
+[[pl:盾]]
+[[th:盾]]
+[[uk:盾]]
+[[zh:盾]]

@@ -1,0 +1,49 @@
+{{also|观测}}
+==Chinese==
+{{zh-forms|s=观测}}
+
+===Pronunciation===
+{{zh-pron
+|m=guāncè
+|c=gun1 cak1
+|mn=koan-chhek
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[observation]]; [[monitoring]]; [[surveying]]
+#: {{zh-x|觀測 數據|'''''observational''' data''}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[observe]]; to [[monitor]]; to [[survey]]
+
+====Descendants====
+{{CJKV|觀測|s=観測|かんそく|관측}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|そく|yomi=o}}
+
+===Noun===
+{{ja-noun|かんそく|shin=観測}}
+
+# [[observation]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|かんそく|shin=観測}}
+
+# to [[observe]]
+
+====Conjugation====
+{{ja-suru|かんそく}}
+
+[[zh-min-nan:觀測]]
+[[ko:觀測]]
+[[hu:觀測]]
+[[mg:觀測]]
+[[ja:觀測]]

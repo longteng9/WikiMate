@@ -1,0 +1,56 @@
+==Chinese==
+{{zh-forms|gloss=-}}
+
+===Etymology===
+From {{der|zh|sa|चीन}}.
+
+===Pronunciation===
+{{zh-pron
+|m=Zhīnà
+|c=zi1 naa5
+|mn=Chi-ná
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{lb|zh|often derogatory}} [[China]]
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|支那}}
+{{wikipedia|Shina (word)}}
+</div>
+{{ja-kanjitab|yomi=o|し|な}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=しな}} {{m|zh|支那|tr=tsye na}}, a phonetic transcription of {{der|ja|sa|चीन|sort=しな}}, itself likely deriving from {{etyl|och|ja|sort=しな}} {{m|zh|秦|tr=*dzin}}, the name of the {{w|Qin Dynasty}} and the {{w|Qin (state)|Qin state}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|しな}}
+
+===Alternative forms===
+* {{l|ja|シナ}}
+
+===Proper noun===
+{{ja-pos|proper|しな|シナ}}
+
+# [[China]] {{qualifier|prewar; often considered derogatory in modern speech}}
+
+====Usage notes====
+The kanji spelling {{m|ja|支那}} was more common historically, and is still encountered with some frequency when this word is used.  Modern usage includes {{m|ja|シナ}} in katakana.  However, this term as a whole is used less frequently than in the past, due in part to changes in geopolitics.
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|東支那海|^ひがし ^しな ^かい}}: East China Sea
+* {{ja-r|支那蕎麦|^しな そば}}: Chinese noodles, [[ramen]]
+* {{ja-r|支那竹|^しな ちく}}: [[menma]] (cooked bamboo sprout, a kind of ramen topping)
+{{der-bottom}}
+
+[[fr:支那]]
+[[ja:支那]]
+[[ru:支那]]
+[[zh:支那]]

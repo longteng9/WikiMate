@@ -1,0 +1,128 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=09|sn=13|four=78247|canj=BOAE}}
+
+# [[stomach]], [[belly]], [[abdomen]]
+# [[inside]]
+
+====References====
+* {{Han ref|kx=0990.020|dkj=29722|dj=1442.080|hdz=32097.010|uh=8179|ud=33145|bh=B8A1|bd=47265}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|肉|alt1=⺼|t1=meat, body|复|ls=psc|c1=s|c2=p}} – a part of the body. ⺼ since simplified to 月.
+
+===Pronunciation===
+{{zh-pron
+|m=fù
+|c=fuk1
+|h=pfs=
+|md=
+|mn=pak
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=肉09}}
+
+# {{defn|lang=ja|sort=肉09}}
+
+====Readings====
+{{ja-readings|goon=[[ふく]] (fuku)|kanon=[[ふく]] (fuku)|kun=[[はら]] (hara), [[いだく]] (idaku)}}
+
+====Compounds====
+* {{ja-r|一腹|いっぷく}}: one [[litter]]; one [[clutch]] (of eggs)
+* {{ja-r|割腹|かっぷく}}: [[disembowelment]]
+* {{ja-r|空腹|くうふく}}: [[hunger]]
+* {{ja-r|山腹|さんぷく}}: [[mountainside]]
+* {{ja-r|私腹|しふく}}: his own profit
+* {{ja-r|切腹|せっぷく}}: [[harakiri]]
+* {{ja-r|鱈腹|たらふく}}: [[to one's heart's content]]
+* {{ja-r|腹腔|ふくくう}}: [[abdominal]] [[cavity]]
+* {{ja-r|腹話術|ふくわじゅつ}}: [[ventriloquism]]
+* {{ja-r|腹筋|ふっきん}}: [[abdominal]] [[muscle]]s
+* {{ja-r|満腹|まんぷく}}: (''noun'') [[glut]]
+
+{{ja-kanjitab|はら|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|はら|acc=2|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|はら}}
+
+# [[belly]]
+
+====Derived terms====
+* {{ja-r|自腹|じばら}}: paying by himself (without someone's treat)
+* {{ja-r|白腹|しろはら}}: [[pale thrush]]
+* {{ja-r|腹切り|はらきり}}: [[harakiri]]
+* {{ja-r|腹芸|はらげい}}: a skill of conveying emotion without speech
+* {{ja-r|ビール腹|ビールばら}}
+
+===See also===
+* {{l|ja|お腹}}, {{l|ja|御腹}}, {{l|ja|御中|tr=[[おなか]], onaka}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[복]]|eumhun=|rv=bok|mr=pok|y=pok}}
+
+# {{defn|lang=ko|sort=肉09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phúc]], [[phục]]|rs=肉09}}
+
+# {{defn|lang=vi|sort=肉09}}
+
+[[zh-min-nan:腹]]
+[[dv:腹]]
+[[fr:腹]]
+[[ko:腹]]
+[[it:腹]]
+[[ku:腹]]
+[[lo:腹]]
+[[lt:腹]]
+[[li:腹]]
+[[hu:腹]]
+[[mg:腹]]
+[[fj:腹]]
+[[ja:腹]]
+[[no:腹]]
+[[pl:腹]]
+[[pt:腹]]
+[[ro:腹]]
+[[ru:腹]]
+[[sv:腹]]
+[[th:腹]]
+[[chr:腹]]
+[[vi:腹]]
+[[zh:腹]]

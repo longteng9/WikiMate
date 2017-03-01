@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|崭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=11|sn=14|four=22521|canj=UJJL|ids=⿱山斬}}
+
+# [[high]], [[steep]], [[precipitous]]
+# [[new]]
+
+====References====
+* {{Han ref|kx=0318.300|dkj=08413|dj=0618.410|hdz=10793.050|uh=5D84|ud=23940|bh=B9F1|bd=47601}}
+
+----
+
+==Chinese==
+{{zh-forms|s=崭}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǎn
+|c=zaam2,zaam3,caam5,caam4
+|mn=qz,tw,xm,zz:chám/qz,tw,xm,zz:cháⁿ/twv:chàm/twv:châm
+|mn_note=chám - literary; cháⁿ - vernacular
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嶄新|嶄然|嶄露|嶄露鋒芒|嶄露頭角|頭角嶄然}}
+
+===References===
+* {{R:yue:Hanzi}}
+* {{R:nan:thcwdq}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山11}}
+
+# {{defn|lang=ja|sort=山11}}
+
+====Readings====
+* {{ja-readings|on=[[さん]] (san), [[ざん]] (zan)|kun=[[けわしい]] (kewashii)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=참|rv=cham|mr=ch'am}}
+
+# {{defn|lang=ko|sort=山11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=山11|hanviet=chởm}}
+
+# {{defn|lang=vi|sort=山11}}
+
+[[fr:嶄]]
+[[li:嶄]]
+[[hu:嶄]]
+[[ja:嶄]]
+[[pl:嶄]]
+[[th:嶄]]
+[[zh:嶄]]

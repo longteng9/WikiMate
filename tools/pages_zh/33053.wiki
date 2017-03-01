@@ -1,0 +1,138 @@
+{{character info/new}}
+{{also|黑|里}}
+==Translingual==
+{{ja-forms|黒|[[黑]]|[[黑]]}}
+
+===Etymology===
+Japanese shinjitai {{Han simp|nocap=1|黑}}, replacing two dots with one stroke. Compare {{m|ja|毋}}, the shinjitai of {{m|mul|母}}.
+
+===Han character===
+{{Han char|rn=203|rad=黑|as=00|sn=11|four=|canj=WGF,XWGF|ids=⿱里灬}}
+
+====References====
+* {{Han ref|kx=1518.361|dkj=48040|dj=2052.020|hdz=74743.011|uh=9ED2|ud=40658}}
+
+----
+
+==Japanese==
+{{attention|ja|Needs expansion: compounds, deriveds.}}
+
+===Kanji===
+{{ja-kanji|grade=2|rs=黒00|style=s|kyu=黑}}
+
+# [[black]]
+
+====Readings====
+{{ja-readings
+|goon=[[こく]] (koku)
+|kanon=[[こく]] (koku)
+|kun=[[くろ]] (kuro)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{l|ja|黒暗}}, {{ja-r|黒闇|こくあん}}: [[darkness]], [[blackness]]; [[absence]] of [[virtue]]
+* {{ja-r|黒影|こくえい}}: a [[silhouette]], a [[dark]] [[shadow]]
+* {{ja-r|黒色|こくしょく}}: the [[colour]] [[black]]
+* {{ja-r|黒点|こくてん}}: a black [[spot]]; a [[sunspot]]
+* {{ja-r|黒板|こくばん}}: [[blackboard]]
+* {{ja-r|黒川|くろかわ}}, {{ja-r|黒河|くろかわ}}: “black river”: any of various places in Japan
+* {{l|ja|暗黒}}, {{ja-r|闇黒|あんこく}}: [[darkness]]
+* {{ja-r|漆黒|しっこく}}: [[jet-black]]
+* {{ja-r|白黒|しらくら}}: this and that, [[so-and-so]], [[such-and-such]]: unspecified items brought up for [[criticism]]
+* {{ja-r|白黒|しろくろ}}: [[black and white]]; [[monochrome]]; a [[panic]] or [[startled]] state; [[confusion]]; a [[sex]] [[show]]
+{{der-bottom}}
+
+===Etymology===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Black}}
+[[File:Solid_black.svg|thumb|250px|{{lang|ja|黒}} (''kuro''): the colour '''[[black]]'''.]]
+</div>
+{{ja-kanjitab|くろ|yomi=k}}
+From {{etyl|ojp|ja|sort=くろ}}. Via root [[morpheme]] ''*kur'', cognate with ''kuri'' ({{l|ja|涅}}, "black [[mud]] from the [[bed]] of a body of water"),<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> noun ''kura'' ({{l|ja|暗}}, "darkness; deception"; {{l|ja|蔵}}, {{l|ja|倉}}, {{l|ja|庫}} "[dark] storehouse") > adjective ''kurai'' ({{l|ja|暗い}}, "dark"), verb ''kuru'' > ''kureru'' ({{l|ja|暮れる}}, "to become dark; to near the end [of a day, of a year, of a life]"; {{l|ja|暗れる}}, {{l|ja|眩れる}}, "to become depressed, to become dreary of mood"). Compare Proto-Turkic {{m|trk-pro|*kara||black}}, {{cog|mn|хар|tr=khar||black}}.
+
+Possibly cognate with {{cog|ko|구름||cloud}}; compare also {{cog|ja|雲|tr=kumo||cloud}} and {{etyl|ko|-}} *{{m|ko||검|black}}, root [[morpheme]] of {{m|ko|검다||to be black|pos=ve&#8203;rb}}, {{m|ko|검은||black|pos=adjective}}.
+
+===Pronunciation===
+{{ja-pron|yomi=k|くろ|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|くろ|kyu=黑}}
+
+# the [[colour]] [[black]]
+# a {{m|ja|女房詞|tr=nyōbō kotoba||woman's word}} for {{m|ja|鍋|tr=nabe||pot, pan}} or {{m|ja|釜|tr=kama||pot, kettle}}
+# {{lb|ja|sort=くろ|accounting}} short for {{m|ja|黒字|tr=kuroji}}: {{m|en|black}} as an [[accounting]] term, indicating a [[profit]]
+# {{lb|ja|sort=くろ|euphemistic}} short for {{m|ja|黒幕|tr=kuromaku}}: a [[black]] [[curtain]], a [[euphemism]] for someone [[influence|influencing]] or [[control]]ling matters from [[behind the scenes]]
+# [[guilt]]; the [[guilty]] one, the guilty [[party]]
+# {{lb|ja|sort=くろ|slang}} [[anarchy]] as a [[belief system]] or [[philosophy]]; an [[anarchist]]
+
+====Synonyms====
+* {{sense|pot, pan}} {{ja-r|鍋|なべ}}
+* {{sense|pot, kettle}} {{ja-r|釜|かま}}
+* {{sense|profits}} {{ja-r|黒字|くろじ}}
+* {{sense|controller behind the scenes}} {{ja-r|黒幕|くろまく}}
+* {{sense|guilt}} {{ja-r|有罪|ゆうざい}}
+* {{sense|anarchy}} {{ja-r|無政府主義|むせいふしゅぎ}}
+* {{sense|anarchist}} {{ja-r|無政府主義者|むせいふしゅぎしゃ}}
+
+====Antonyms====
+* {{sense|guilt}} {{ja-r|白|しろ}}: [[innocence]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|黒い|くろい}}: [[black]] {{qualifier|adjective}}
+* {{ja-r|黒っぽい|くろっぽい}}: [[blackish]], [[dark]]
+* {{ja-r|黒み|くろみ}}: [[blackness]], a black [[tinge]]
+* {{ja-r|黒ん坊|くろんぼう}}: a [[deeply]] [[tanned]] person; {{qualifier|derogatory}} a [[black]] person; a [[stagehand]] wearing [[black]] or [[dark]] [[clothing]]; a [[monk]] wearing black clothing; [[rotten]] [[black]] [[seed]]s, particularly [[grain]] that has rotted on the stalk
+* {{ja-l|黒金}}, {{ja-r|鉄|くろがね}}: [[iron]]
+* {{ja-r|黒猫|くろねこ}}: a [[black cat]]
+* {{ja-r|黒豚|くろぶた}}: [[w:Berkshire pig|Berkshire pig]]
+* {{ja-r|黒川|くろかわ}}
+{{der-bottom}}
+
+====Related terms====
+{{der-top|Related terms}}
+* {{ja-r|盲|めくら}}: blindness
+* {{ja-r|涅|くり}}: black [[mud]] from the [[bed]] of a body of water
+* {{ja-r|呉|くれ}}: (''obsolete'') [[China]] (from sense of "where the sun sets")
+* {{ja-r|暗|くら}}: [[darkness]]; [[deception]], [[fraud]]
+* {{ja-r|暗がり|くらがり}}: [[darkness]]
+* {{ja-r|蔵|くら}}, {{ja-r|倉|くら}}, {{ja-r|庫|くら}}: a ([[dark]]) [[storehouse]]
+* {{ja-r|暗い|くらい}}: [[dark]]
+* {{ja-r|暮れる|くれる}}: to become dark; to near the [[end]] (of a day, of a year, of a life)
+* {{ja-l|暗れる}}, {{ja-r|眩れる|くれる}}: to become [[depressed]], to become [[dreary]] of [[mood]]
+* {{ja-r|晦ます|くらます}}: to conceal oneself, to abscond; to deceive, to fool
+* {{ja-r|冥き途|くらきみち}}: underworld, realm of the dead
+* {{ja-r|暮れ六つ|くれむつ}}: Edo-period term for a time of day, roughly 6 pm
+* {{ja-r|暮れ方|くれがた}}: evening, sunset, nightfall
+* {{ja-r|暮れ泥む|くれなずむ}}: to grow dark slowly
+{{der-bottom}}
+
+===See also===
+{{table:colors/ja}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|くろ]]
+[[Category:ja:Colors|くろ]]
+
+[[fr:黒]]
+[[ko:黒]]
+[[lo:黒]]
+[[la:黒]]
+[[li:黒]]
+[[hu:黒]]
+[[mg:黒]]
+[[ms:黒]]
+[[ja:黒]]
+[[pl:黒]]
+[[pt:黒]]
+[[ru:黒]]
+[[fi:黒]]
+[[tl:黒]]
+[[th:黒]]
+[[chr:黒]]
+[[tr:黒]]
+[[zh:黒]]

@@ -1,0 +1,44 @@
+{{also|电机}}
+==Chinese==
+{{zh-forms|s=电机}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=diànjī
+|c=din6 gei1
+|h=pfs=thien-kî
+|mn=tiān-ki
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[electrical]] [[machinery]], [[appliance]](s)
+
+====See also====
+* {{pedia|lang=zh}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|でん|き|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|でんき|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|でんき}}
+
+# [[electrical]] [[machinery]]
+
+===References===
+<references/>
+
+[[zh-min-nan:電機]]
+[[lo:電機]]
+[[hu:電機]]
+[[zh:電機]]

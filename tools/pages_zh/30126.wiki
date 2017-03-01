@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|钥}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=17|sn=25|four=88127|canj=COMB}}
+
+# [[key]]
+# [[lock]]
+
+====References====
+* {{Han ref|kx=1326.310|dkj=41051|dj=1828.030|hdz=64273.120|uh=9470|ud=38000|bh=C65F|bd=50783}}
+
+----
+
+==Chinese==
+{{zh-forms|s=钥}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|金|龠|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yào
+|c=joek6
+|h=pfs=
+|md=
+|mn=qz,xm:io̍k/zz:ia̍k/qz,tw,xm,zz:io̍h
+|mn_note=io̍k/ia̍k - literary; io̍h - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[钥匙]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金17}}
+
+# {{defn|lang=ja|sort=金17}}
+
+====Readings====
+* {{ja-readings|on=[[やく]] (yaku)|kun=[[かぎ]] (kagi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=약|eumhun=|rv=yak|mr=yak|y=yak}}
+
+# {{defn|lang=ko|sort=金17}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dược]], [[thược]], [[thước]]|rs=金17}}
+
+# {{defn|lang=vi|sort=金17}}
+
+[[fr:鑰]]
+[[hu:鑰]]
+[[mg:鑰]]
+[[ja:鑰]]
+[[pl:鑰]]
+[[sv:鑰]]
+[[th:鑰]]
+[[vi:鑰]]
+[[zh:鑰]]

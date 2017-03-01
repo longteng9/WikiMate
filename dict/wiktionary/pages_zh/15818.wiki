@@ -1,0 +1,100 @@
+{{character info/new}}
+{{also|忆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=13|sn=16|four=90036|canj=PYTP|ids=⿰忄意}}
+
+# [[remember]], [[reflect]] upon
+# [[memory]]
+
+====References====
+* {{Han ref|kx=0404.330|dkj=11295|dj=0744.270|hdz=42362.130|uh=61B6|ud=25014|bh=BED0|bd=48848}}
+
+----
+
+==Chinese==
+{{zh-forms|s=忆}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|心|意|c1=s|c2=p|t1=heart|t2=thought|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=jik1
+|h=
+|md=
+|mn=qz:iak/tw,xm,zz:ek/qz,tw,xm,zz:it
+|mn_note=iak/ek - literary; it - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# To [[remember]]
+#: {{zh-l|記憶}}
+#: {{zh-l|回憶}}
+
+===Noun===
+{{zh-noun}}
+
+# [[memory]]
+#: {{zh-l|回憶}}
+
+====Usage notes====
+* Used only in compounds.
+
+===References===
+* (''Min Nan'') [http://twblg.dict.edu.tw/holodict_new/index.html Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+* {{cite-web
+|url=http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=憶
+|title=憶
+|work=MDBG English to Chinese dictionary ( Based on CC-CEDICT )
+|language=Mandarin/English
+|accessdate=2014-02-14}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=心13}}
+
+# to think, to consider, to believe
+
+====Readings====
+* {{ja-readings|goon=[[おく]] (oku)|kanon=[[よく]] (yoku)|kun=[[おもう]] (omou)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=억|eumhun=|rv=eok|mr=ŏk|y=ek}}
+
+# {{defn|lang=ko|sort=心13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|ức|rs=心13}}
+
+# {{defn|vi}}
+
+[[fr:憶]]
+[[ko:憶]]
+[[li:憶]]
+[[hu:憶]]
+[[mg:憶]]
+[[ja:憶]]
+[[pl:憶]]
+[[th:憶]]
+[[zh:憶]]

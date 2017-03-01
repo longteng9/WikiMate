@@ -1,0 +1,72 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gǎizhèng
+|c=goi2 zing3
+|h=pfs=kói-chṳn
+|mn=kái-chèng
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[correct]]
+#: {{zh-x|改正 錯誤|to '''correct''' a mistake}}
+
+===Noun===
+{{zh-noun}}
+
+# [[correction]]
+
+====Derived terms====
+{{zh-der|改正液}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|せい|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|かいせい|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|かいせい}}
+
+# [[amendment]]
+#* '''1916''', 夏目漱石, 明暗:
+#*: {{ja-usex|市区'''改正'''の結果、よほど以前に取り広げられた往来には、比較的よそで見られない幅があった。|しく '''かいせい''' の けっか、 よほど いぜん に とりひろげられた おうらい に は、 ひかくてき よそ で みられない はば が あった。|The result of the municipal redistricting was that some streets were widened to an extent unseen before.}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|かいせい}}
+
+# [[amend]], [[revise]]
+
+====Conjugation====
+{{ja-suru|かいせい}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=개정}}
+
+# {{hanja form of|개정|[[amendment]]}}
+
+[[zh-min-nan:改正]]
+[[ko:改正]]
+[[lt:改正]]
+[[hu:改正]]
+[[mg:改正]]
+[[ja:改正]]
+[[chr:改正]]
+[[zh:改正]]

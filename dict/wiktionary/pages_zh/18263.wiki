@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|榇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=16|sn=20|four=46910|canj=DYDU|ids=⿰木親}}
+
+# [[coffin]]
+# tung [[tree]] {{gloss|{{taxlink|Vernicia fordii|species|noshow=1}}}}
+
+====References====
+* {{Han ref|kx=0561.210|dkj=15851|dj=0950.120|hdz=21317.120|uh=6AEC|ud=27372|bh=C468|bd=50280}}
+
+----
+
+==Chinese==
+{{zh-forms|s=榇}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chèn
+|c=can3
+|mc=y
+|oc=y
+|ma=
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木16}}
+
+# {{defn|lang=ja|sort=木16}}
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin), [[かん]] (kan)|kun=[[ひつぎ]] (hitsugi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=친|eumhun=|rv=chin|mr=ch'in|y=chin}}
+
+# {{defn|lang=ko|sort=木16}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木16| hanviet = sấn}}
+
+# {{defn|lang=vi|sort=木16}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6aec Nom Foundation]
+
+[[fr:櫬]]
+[[hu:櫬]]
+[[pl:櫬]]
+[[th:櫬]]
+[[zh:櫬]]

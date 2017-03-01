@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiūkān
+|c=jau1 hon1,jau1 hon2
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[suspend]] [[publication]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|きゅう|かん|yomi=on}}
+
+===Noun===
+{{ja-noun|きゅうかん}}
+
+# [[suspension]] of [[publication]]
+#: {{ja-usex|その雑誌は'''休刊'''になった。|その ざっし は '''きゅうかん''' に なった。|The magazine suspended publication.}}
+
+====Compounds====
+* {{ja-r|休刊日|きゅうかんび}}
+
+===Verb===
+{{ja-verb-suru|きゅうかん}}
+
+# [[suspend]] publication
+
+====Conjugation====
+{{ja-suru|きゅうかん}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:休刊]]
+[[ja:休刊]]
+[[zh:休刊]]

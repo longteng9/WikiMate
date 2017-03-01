@@ -1,0 +1,207 @@
+{{character info/new}}
+{{also|肴}}
+==Translingual==
+{{stroke order|type=animate}}
+{{stroke order|type=jbw|strokes=6}}
+
+===Han character===
+{{Han char|rn=74|rad=月|as=02|sn=6|four=40227|canj=KB|ids=⿱𠂇月}}
+
+====References====
+* {{Han ref|kx=0504.200|dkj=14332|dj=0880.020|hdz=32041.050|uh=6709|ud=26377|bh=A6B3|bd=42675}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|又|t1=hand|肉|alt2=⺼|t2=meat|ls=psc|c1=p|c2=s}} – a hand holding meat, hence “in possession of”. {{lang|zh|又}} is both a phonetic and semantic component. The hand shape has been significantly abstracted; compare {{och-l|右}}.
+
+Alternatively, the graph was perhaps originally intended for the word {{och-l|醢|minced pickled meat}}, which also has the {{och-l|又}} element as phonetic.
+
+''{{w|Shuowen Jiezi}}'' and other ancient sources have erroneously analyzed the character as a {{Han compound|又|c1=p|月|c2=s|t2=moon|ls=psc|nocap=1}}. ''Shuowen Jiezi'' defines {{lang|zh|有}} as "{{lang|zh|不宜有也}}" ("[to have something that] not should be had"), citing the ''{{w|Spring and Autumn Annals}}'' ({{lang|zh|春秋傳}}): "{{lang|zh|日月有食之}}" ("There are solar and lunar eclipses"). As eclipses were not auspicious to the Chinese, they were "something that should not be happening". The {{lang|zh|月}} component alludes to the inauspicious lunar eclipse.
+
+===Etymology===
+Possibly Sino-Tibetan. Compare {{cog|bo|ཡོད||to be; to have}}. Related to:
+
+* {{och-l|侑|to offer, to sacrifice}} [causative, i.e. “to cause to have”]
+* {{och-l|又|again}} [adverbial]
+* {{och-l|或|some; or}} [indefinite]
+
+===Pronunciation 1===
+{{zh-pron
+|m=yǒu
+|c=jau5
+|h=pfs=yû
+|md=ô/īu
+|md_note=ô - vernacular; īu - literary
+|mn=tw,xm,zz:ū/qz:ǔ/iú
+|mn_note=ū/ǔ - vernacular; iú - literary
+|mn-t=u6
+|w=3hhieu
+|mc=y
+|oc=y
+|ma=y
+|cat=v,a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[have]]; to [[possess]] {{gloss|when a subject is present}}
+#: {{zh-ant|無}}
+#: {{zh-x|我 有 兩 輛 車。|I have two cars.}}
+#*: {{zh-x|甘 橘，大厘 城 有 之，其 味 酸。|Dali City has sweet tangerines, but their flavour is sour.|CL|ref={{RQ:Manshu|7|Tea, Trees, Herbs and Fruits|7}}}}
+# [[there is]]; to [[exist]] {{gloss|when a subject is absent}}
+#: {{zh-x|有 很 多 人。|'''There are''' a lot of people.}}
+#: {{zh-x|這兒{r} 有 書 嗎？|'''Are there''' any books here?}}
+# {{lb|zh|euphemistic}} to be [[pregnant]] with a child
+# [[abundant]]; [[affluent]]
+# [[many]]; [[much]]; {{lb|zh|of time}} [[long]]; {{lb|zh|of age}} [[old]]
+# [[some]] {{gloss|indefinite pronoun}}
+# {{surname|lang=zh}}
+
+=====Usage notes=====
+* In Mandarin, {{lang|zh|有}} is the only verb not negated with {{zh-l|不}}. It is negated with {{zh-l|沒}}.
+:: {{zh-x|我 沒有 錢|I don't have any money}}
+
+====Compounds====
+{{zh-der|保有|原有|九有|只有|倘有|公有|含有|何有|另有|享有|僅有|公有林|不有|大有為|但有|國有|惡有|富有|光有|希有|固有|大有|園有桃|公有制|強有力|具有|山有樞|少有|崇有論|共有|占有|國有林|唯有|占有權|共有人|獨有|有恆|有良心|有庳|有文章|有鼻|據有|有形|有出息|有血性|有錢人|有人|有種|有生|有時|有力|有事|有理化|有餘|有益|有狐|有助|有一手|有信兒|有效|有零|有盼兒|有偏|有意識|有效期|有日|有模子|有章|有心|有日子|有面兒|有蹄類|有閒|或有|有意|有機酸|有哏|有機質|有肝膽|有年紀|有病|有時候|有賺頭|有舊|有好兒|有眼光|有喜|有的|有利|有守|有味|有采|有秋|有機|有奇|有理式|所有格|有點兒|有娠|無有|有司|有命|有了|烏有|既有|有肚腸|有案|有勾當|有眼色|故有|有來頭|有點|有臉|有心人|有落兒|有臉面|有底|有底稿|有得|有袋類|特有|有瓜葛|有限|有著落|有頃|有一套|有孝|有救|有幸|有擾|有樣子|有神論|有夏|有骨頭|有枝節|有禮|有窮|有室|有肚皮|有機物|有分寸|有勁|有如|有把握|有駜|有虞氏|有給職|萬有|有帳|有機的|有人家|有神|有功|民有|有奔頭|有司徹|有賴|有年|有理|有門兒|有講究|有私|有娀|有間|有害|沒有過|有斤兩|有徵|有請|有的是|江有汜|所有人|所有權|稀有|有勞|有北|有你的|有道|有趣|有兩日|有識|有眉目|有頭臉|私有|有分教|有錢|有熊|有頭兒|有光紙|有因|擁有|有準兒|有意思|有首尾|有終|有機體|沒有|牆有茨|有看頭|有成|有靈觀|私有制|有起色|有戲看|有服|有緣|有恥|沒有人|有眼力|有所思|有數兒|有想頭|有名氣|有恙|有門路|有頭腦|有為|有隙|有望|有理數|有待|有一腿|有譜兒|有故|有孔蟲|有靳道|有周|有撇斷|有瞽|有針線|有見識|有家|有數|有會|有巢氏|有鱗目|有骨氣|有關|有量|有身|有苗頭|有聲|有線電|有等|有竅|有空|有碴兒|有用|有無句|有氣|有極|有染|有會子|有方|有才|有情|有德|有後|有工夫|有客|有味兒|有名|有南北|有分兒|有出入|有來|有作為|有些|有分|摽有梅|有酒|握有|有漏|所有|罕有|領有|還沒有|繁有徒|間有|頗有|還有|賦有|莫須有}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=yòu
+|c=jau6
+|ma=y
+|cat=adv,con
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{zh-alt-form|又|again}}
+# {{†}} {{zh-alt-form|又|and; with a remainder of (when dividing an integer by ten)}}
+#* {{zh-x|吾 十 有{yòu} 五 而 志 於 學，三十 而 立。|When I was 10 '''and''' 5 years (15 years old), I devoted myself to study. At the age of 30, I established myself (got a job and started a family).|CL|ref={{RQ:Confucius}} ([[:zh:s:論語#為政第二|論語．為政]])}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{stroke order|type=janimate}}
+
+===Kanji===
+{{ja-kanji|grade=3|rs=月02}}
+
+# [[exist]]
+# get to exist; [[appear]]
+# [[keep]]; [[maintain]]
+# [[existence]]; [[belonging]]
+# someone did certain thing
+# [[possess]]
+# [[have]]
+# [[happen]]
+# [[occur]]
+# [[approximately]]
+
+====Readings====
+* {{ja-readings|kanon=[[ゆう]] ([[yū]])|goon=[[う]] ([[u]])|kun=[[ある]] ([[aru]]), [[もつ]] ([[motsu]]), [[たもつ]] ([[tamotsu]])|nadzuke=[[あり]] (''ari''), [[すみ]] (''sumi''), [[たもつ]] (''tamotsu''), [[とお]] (''tō''), [[とも]] (''tomo''), [[なお]] (''nao''), [[なり]] (''nari''), [[みち]] (''michi''), [[もち]] (''mochi''), [[り]] (''ri'')}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|有余|ゆうよ}}
+* {{ja-r|有明|ありあけ}}
+* {{ja-r|有意|ゆうい}}
+* {{ja-r|有為|ゆうい}}
+* {{ja-r|有卦|うけ}}
+* {{ja-r|有職|ゆうしょく}}
+* {{ja-r|有識|ゆうしき}}
+* {{ja-r|有象無象|うぞうむぞう}}
+* {{ja-r|有益|ゆうえき}}
+* {{ja-r|有縁|ゆうえん}}
+* {{ja-r|有休|ゆうきゅう}}
+* {{ja-r|有窮|ゆうきゅう}}
+* {{ja-r|有功|ゆうこう}}
+{{mid3}}
+* {{ja-r|有頂天|うちょうてん}}
+* {{ja-r|有徳|ゆうとく}}
+* {{ja-r|有名無実|ゆうめいむじつ}}
+* {{ja-r|有無|うむ}}
+* {{ja-r|有耶無耶|うやむや}}
+* {{ja-r|有事|ゆうじ}}
+* {{ja-r|有能|ゆうのう}}
+* {{ja-r|有機|ゆうき}}
+* {{ja-r|有識者|ゆうしきしゃ}}
+* {{ja-r|有終|ゆうしゅう}}
+* {{ja-r|有情|ゆうじょう}}
+* {{ja-r|有色|ゆうしょく}}
+* {{ja-r|有身|ゆうしん}}
+{{mid3}}
+* {{ja-r|有限|ゆうげん}}
+* {{ja-r|有恒|ゆうこう}}
+* {{ja-r|有効|ゆうこう}}
+* {{ja-r|有司|ゆうし}}
+* {{ja-r|有数|ゆうすう}}
+* {{ja-r|有職故実|ゆうそくこじつ}}
+* {{ja-r|有望|ゆうぼう}}
+* {{ja-r|有名|ゆうめい}}
+* {{ja-r|有徳人|ゆうとくじん}}
+* {{ja-r|有用|ゆうよう}}
+* {{ja-r|有利|ゆうり}}
+* {{ja-r|有理|ゆうり}}
+* {{ja-r|有理数|ゆうりすう}}
+{{bottom}}
+
+====Derived terms====
+* {{ja-r|有る|ある}}
+
+===Proper noun===
+{{ja-pos|proper|なお}}
+
+# {{given name|female|lang=ja}}
+
+[[Category:Japanese female given names|なお]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=유|eumhun=[[있다]] (Itta)|rv=yu|mr=yu|y=yu}}
+
+# {{defn|lang=ko|sort=月02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hữu]], [[hỡi]], [[hơi]], [[nhất]]|rs=月02}}
+
+# {{defn|lang=vi|sort=月02}}
+
+[[zh-min-nan:有]]
+[[cs:有]]
+[[da:有]]
+[[fr:有]]
+[[ko:有]]
+[[hi:有]]
+[[it:有]]
+[[lt:有]]
+[[hu:有]]
+[[mg:有]]
+[[ms:有]]
+[[nl:有]]
+[[ja:有]]
+[[no:有]]
+[[pl:有]]
+[[pt:有]]
+[[ru:有]]
+[[ta:有]]
+[[th:有]]
+[[chr:有]]
+[[uk:有]]
+[[vi:有]]
+[[zh:有]]

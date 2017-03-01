@@ -1,0 +1,56 @@
+{{also|应用}}
+==Chinese==
+{{zh-forms|s=应用}}
+
+===Pronunciation===
+{{zh-pron
+|m=yìngyòng
+|c=jing3 jung6
+|h=pfs=yin-yung
+|mn=èng-iōng
+|cat=v,n,a
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[apply]]; to [[put to use]]
+
+===Noun===
+{{zh-noun}}
+
+# [[application]]; [[use]]
+
+===Adjective===
+{{zh-adj}}
+
+# [[applied]] {{gloss|when used as an attributive}}; [[practical]]
+
+====Derived terms====
+{{zh-der|應用程式|應用程序|應用經濟學|應用科學|應用數學|應用題|應用統計學|應用衛星|應用文|應用藝術|應用語言學}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|おう|よう|yomi=o}}
+
+===Noun===
+{{ja-noun|おうよう|shin=応用}}
+
+# [[application]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|おうよう|shin=応用}}
+
+# to [[apply]]
+
+====Conjugation====
+{{ja-suru|おうよう}}
+
+[[ko:應用]]
+[[hu:應用]]
+[[mg:應用]]
+[[ja:應用]]
+[[tl:應用]]

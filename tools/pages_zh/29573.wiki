@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|锂}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=07|sn=15|four=86114|canj=CWG|ids=⿰金里}}
+
+====References====
+* {{Han ref|kx=1308.261|dkj=40501|hdz=64207.040|uh=92F0|ud=37616|bh=BE59|bd=48729}}
+
+----
+
+==Chinese==
+{{zh-forms|s=锂}}
+{{elements|Li|氦|He|[[鈹]]／[[铍]]|Be|lang=zh}}
+
+===Glyph origin===
+{{Han compound|金|里|c1=s|t1=metal|c2=p|ls=psc}}.
+
+===Etymology===
+{{bor|zh|NL.|lithium|'''li'''thium}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lǐ
+|c=lei5
+|h=pfs=lî
+|mn=lí
+|md=lī
+|w=3li
+|mc=
+|oc=
+|ma=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[lithium]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金07}}
+
+# [[lithium]]
+
+====Readings====
+* {{ja-readings|on=[[り]] (ri)|kun=[[リチウム]] (richiumu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=리|eumhun=|mr=ri|y=li}}
+
+# [[lithium]]
+
+[[de:鋰]]
+[[el:鋰]]
+[[es:鋰]]
+[[fr:鋰]]
+[[ko:鋰]]
+[[lt:鋰]]
+[[hu:鋰]]
+[[mg:鋰]]
+[[ja:鋰]]
+[[pl:鋰]]
+[[ro:鋰]]
+[[ru:鋰]]
+[[th:鋰]]
+[[zh:鋰]]

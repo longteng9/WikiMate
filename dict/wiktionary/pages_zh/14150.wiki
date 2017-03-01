@@ -1,0 +1,112 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|宀|示|ls=ic|t1=house|t2=worship}} – [[house of worship]].
+
+===Han character===
+{{Han char|rn=40|rad=宀|as=05|sn=8|four=30901|canj=JMMF|ids=⿱宀示}}
+
+====References====
+* {{Han ref|kx=0283.140|dkj=07106|dj=0557.050|hdz=20917.110|uh=5B97|ud=23447|bh=A976|bd=43382}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zōng
+|c=zung1
+|mn=chong
+|mc=y
+|oc=y
+|ma=
+|cat=n,a,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[ancestral]] [[temple]]
+# [[ancestors]] or [[elder]]s of a people
+# [[family]]
+#: {{zh-l|宗法}}
+# having the same [[ancestry]]
+#: {{zh-l|宗兄}}
+# [[school]], [[sect]]
+#: {{zh-l|禪宗}}
+# main [[purpose]]
+#: {{zh-l|宗旨}}
+# {{non-gloss definition|classifier for [[legal]] [[case]]s}}
+
+====See also====
+* {{sense|ancestral temple}} {{zh-l|祖廟}}
+
+===Compounds===
+{{der3
+|{{zh-l|宗祠}}
+|{{zh-l|宗法}}
+|{{zh-l|宗匠}}
+|{{zh-l|宗教}}
+|{{zh-l|宗廟}}
+|{{zh-l|宗派}}
+|{{zh-l|宗譜}}
+|{{zh-l|宗師}}
+|{{zh-l|宗族}}
+|{{zh-l|宗旨}}
+}}
+
+===References===
+* {{R:twedu|A01013}}
+* [http://yedict.com/htm/5B/5B97.htm yedict.com (叶典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=宀05}}
+
+# religion
+
+====Readings====
+* {{ja-readings|goon=[[そ]] (so)|kanon=[[そう]] (sō)|kanyoon=[[しゅう]] (shū)|kun=[[むね]] (mune), [[たっとぶ]] (tattobu)}}
+
+====Compounds====
+* {{ja-r|宗派|しゅうは|gloss=religious [[sect]]}}
+* {{ja-r|宗教|しゅうきょう|gloss=religion}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=종|rv=jong|mr=chong}}
+
+# fundamental knowledge
+# root, ancestry
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tông]], [[tong]], [[tôn]], [[tung]]|rs=宀05}}
+
+# {{defn|lang=vi|sort=宀05}}
+
+[[fr:宗]]
+[[ko:宗]]
+[[li:宗]]
+[[hu:宗]]
+[[mg:宗]]
+[[ms:宗]]
+[[ja:宗]]
+[[no:宗]]
+[[pl:宗]]
+[[th:宗]]
+[[vi:宗]]
+[[zh:宗]]

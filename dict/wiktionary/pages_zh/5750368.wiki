@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{calque|zh|sa|दिव्यचक्षुस्}} or {{calque|zh|pi|dibbacakkhu|notext=1}}.
+
+===Pronunciation===
+{{zh-pron
+|m=tiānyǎn
+|c=tin1 ngaan5
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Buddhism}} [[divine]] [[eye]]
+
+====Synonyms====
+* {{zh-l|天目}}
+
+====Derived terms====
+{{zh-der|天眼通}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てん|がん|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|てんがん}}
+
+===Noun===
+{{ja-noun|てんがん}}
+
+# {{rfv-sense}} [[clairvoyance]]
+
+[[zh:天眼]]

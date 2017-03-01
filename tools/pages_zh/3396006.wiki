@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǐxiàng
+|c=zi2 hoeng3
+|h=pfs=chṳ́-hiong
+|mn=chí-hiòng
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[point]] to; to point [[towards]]; to [[aim]] at
+
+===Noun===
+{{zh-noun}}
+
+# the [[direction]] indicated; [[orientation]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|こう|yomi=on}}
+
+===Noun===
+{{ja-noun|しこう}}
+
+# being [[oriented]] towards
+
+===Verb===
+{{ja-verb-suru|tr=trans|しこう}}
+
+# [[point]] to
+
+====Conjugation====
+{{ja-suru|しこう}}
+
+[[ko:指向]]
+[[zh:指向]]

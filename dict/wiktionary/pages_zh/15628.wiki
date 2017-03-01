@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=09|sn=12|four=97047|canj=PPAD|ids=⿰忄㝁}}
+
+# [[troubled]], [[worried]], [[distressed]]
+
+====References====
+* {{Han ref|kx=0392.340|dkj=10865|dj=0728.170|hdz=42330.080|uh=60F8|ud=24824|bh=D946|bd=55622}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qióng
+|c=king4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|孤惸|惸獨|惸惸|惸嫠}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心09}}
+
+# {{defn|lang=ja|sort=心09}}
+
+====Readings====
+* {{ja-readings|on=[[けい]] (kei), [[ぎょう]] (gyō)|kun=[[うれえる]] (ureeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|eumhun=|rv=gyeong|mr=kyŏng|y=kyeng}}
+
+# {{defn|lang=ko|sort=心09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心09|hanviet=quỳnh}}
+
+# {{defn|lang=vi|sort=心09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=60f8 Nom Foundation]
+
+[[fr:惸]]
+[[li:惸]]
+[[hu:惸]]
+[[pl:惸]]
+[[th:惸]]
+[[zh:惸]]

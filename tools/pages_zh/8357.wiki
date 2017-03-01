@@ -1,0 +1,132 @@
+{{character info/new}}
+{{also|材|邨}}
+==Translingual==
+{{stroke order|strokes=7}}
+
+===Han character===
+{{Han char|rn=75|rad=木|as=03|sn=7|four=44900|canj=DDI|ids=⿰木寸}}
+
+====References====
+* {{Han ref|kx=0511.170|dkj=14464|dj=0896.050|hdz=21158.020|uh=6751}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=邨}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|寸|木|t2=hand|ls=psc|c1=p|c2=s}} – to strike with the hand, to spank or scold.
+
+===Pronunciation===
+{{zh-pron
+|m=cūn,er=y
+|c=cyun1
+|h=pfs=chhûn
+|md=chŏng
+|mn=chhoan
+|w=1tshen
+|mc=y
+|oc=y
+|cat=n,a,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[village]]; [[hamlet]]
+#: {{zh-x|農村|rural area, village, countryside}}
+#: {{zh-x|鄉村|rural area, village, countryside}}
+# {{lb|zh|attributive}} [[rustic]]; [[boorish]]; [[uncouth]]; [[vulgar]]
+# {{lb|zh|archaic}} to [[scold]]
+
+====See also====
+* {{zh-l|城}}
+
+===Compounds===
+{{zh-der|度假村|丁村遺址|山村|乾村沙|三家村|尋村轉疃|千村萬落|地球村|專業村|中興新村|村校|村夫|村學|村聲潑嗓|村子|村長|村沙|模範村|村村勢勢|杏花村|村閒|村塾|村夫子|村牛|村夫野老|村歌|村紂|村老子|村強|村夫俗子|村疃|村虔|撒村|文化村|村塢|眷村|村野|村俗|村人|當村|發村|村錢|村墟|村務酒|村鎮|村生泊長|村郎|村沙樣勢|村氣|村居野店|村里|村天樂|漁村|村路歧|村莊|村民|村務|村書|村廝|村話|村落|村筋俗骨|村潑|村學究|村婦|村姑|賽村社|農村|荒村|鄉村音樂|雨村曲話|鄰村|鄉村社區|鄉村|集村|自然村|翠亨村}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=1|rs=木03}}
+
+# [[village]]
+
+====Readings====
+{{ja-readings
+|goon=[[そん]] (son)
+|kanon=[[そん]] (son)
+|kun=[[むら]] (mura)}}
+
+====Usage notes====
+Frequently found as part of a surname, with reading {{ja-r|むら}}, as in {{ja-r|村上|^むらかみ}}.
+
+====Compounds====
+* {{ja-r|村落|そんらく|[[village]], [[hamlet]]}}
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|むら|yomi=k}}
+
+===Etymology===
+Cognate with {{m|ja|群|tr=mura||gathering}}.<ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|むら|acc=2|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|むら}}
+
+# [[village]]
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|むら]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=촌|eumhun=마을|mr=ch'on|y=chon|ehrv=maeul|ehmr=maŭl|ehy=maul}}
+
+# {{hanja form of|촌|[[village]]}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thôn]], [[thon]], [[thun]], [[chon]], [[chôn]], [[thuôn]], [[thuốn]], [[xóm]]|rs=木03}}
+
+# {{defn|lang=vi|sort=木03}}
+
+[[ast:村]]
+[[et:村]]
+[[fr:村]]
+[[ko:村]]
+[[it:村]]
+[[kn:村]]
+[[ku:村]]
+[[lo:村]]
+[[lt:村]]
+[[li:村]]
+[[hu:村]]
+[[mg:村]]
+[[ja:村]]
+[[no:村]]
+[[pl:村]]
+[[pt:村]]
+[[ru:村]]
+[[sm:村]]
+[[fi:村]]
+[[sv:村]]
+[[th:村]]
+[[chr:村]]
+[[tr:村]]
+[[uk:村]]
+[[vi:村]]
+[[zh:村]]

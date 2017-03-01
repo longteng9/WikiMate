@@ -1,0 +1,91 @@
+{{character info/new}}
+{{also|嚥}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=06|sn=9|four=66000|canj=RWK|ids=⿰口因}}
+
+# [[throat]]
+# [[pharynx]]
+
+====Synonyms====
+* {{sense|throat}} {{l|mul|喉}}
+
+====References====
+* {{Han ref|kx=0188.080|dkj=03577|dj=0407.070|hdz=10616.020|uh=54BD|ud=21693|bh=AB7C|bd=43900}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|口|t1=mouth|因|ls=psc|c1=s|c2=p}} – connected to the mouth, the throat.
+
+===Pronunciation===
+{{zh-pron
+|m=yān
+|c=jin1,jit3,jin3
+|h=pfs=
+|md=
+|mn=qz,tw,xm,zz:ian
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|狼吞虎咽}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=口06}}
+
+# {{defn|lang=ja|sort=口06}}
+
+====Readings====
+* {{ja-readings|goon=[[えち]] (echi), [[えん]] (en)|kanon=[[えつ]] (etsu), [[えん]] (en)|kanyoon=[[いん]] (in)|kun=[[のど]] (nodo)}}
+
+====Compounds====
+* {{ja-r|咽喉|いんこう}}
+* {{ja-r|嗚咽|おえつ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[인]], [[열]]|rv=in, yeol|mr=in, yŏl}}
+
+# {{defn|lang=ko|sort=口06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[yết]], [[nhằn]], [[ịt]], [[nhiết]], [[yến]]|rs=口06}}
+
+# {{defn|lang=vi}}
+
+[[fr:咽]]
+[[ko:咽]]
+[[li:咽]]
+[[hu:咽]]
+[[mg:咽]]
+[[ja:咽]]
+[[no:咽]]
+[[pl:咽]]
+[[ru:咽]]
+[[th:咽]]
+[[zh:咽]]

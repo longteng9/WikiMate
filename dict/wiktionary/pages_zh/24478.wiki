@@ -1,0 +1,124 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+Coined in Japan ([[kokuji]]) in late 1700s - early 1800s by ''[[rangaku]]'' scholar Udagawa Genshin as a translation for {{cog|nl|klier||gland}}, as a compound of {{cog|zhx}} elements {{Han compound|肉|泉}}.
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=09|sn=13|four=76232|canj=BHAE|ids=⿰⺼泉}}
+
+====Usage notes====
+This is a [[:Category:Japanese-coined CJKV characters used outside Japanese|Japanese-coined character used outside Japanese]].
+
+====References====
+* {{Han ref|kx=0990.131|dkj=29746|dj=1442.150|hdz=32097.050|uh=817A|ud=33146|bh=B8A2|bd=47266}}
+
+[[Category:Japanese-coined CJKV characters used outside Japanese]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiàn
+|c=sin3
+|h=pfs=sien
+|mn=sòaⁿ/siàn/twv:sàn
+|mn_note=siàn - literary; sòaⁿ - vernacular
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|anatomy}} [[gland]]
+
+===Compounds===
+{{zh-der|扁桃腺:[[tonsil]]|尿道球腺:[[bulbourethral gland]]|前庭大腺:[[Bartholin's gland]]|前庭小腺:[[Skene's gland]]|腺嘌呤:[[adenine]]|腺體:[[gland]]|乳腺|乳腺炎|內分泌腺|前列腺|唾液腺|唾腺|外分泌腺|性腺|扁桃腺炎|攝護腺|毒腺|汗腺|消化腺|淋巴腺|淚腺|無管腺|生殖腺|甲狀腺|甲狀腺素|甲狀腺腫|皮脂腺|瞼腺炎|耳下腺|耵聹腺|胃腺|胸腺|脂肪腺|腎上腺|腎上腺素|腦上腺|腦下腺|腮腺|腮腺炎|腸腺|腺病毒|腺細胞|臭腺|舌下腺|蜜腺|頷下腺|顎下腺}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=肉09}}
+
+# [[gland]]
+
+====Readings====
+{{ja-readings|kanyoon=[[せん]] (sen)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|腺状|せんじょう}}: [[line]]
+* {{ja-r|甲状腺|こうじょうせん}}: [[thyroid gland]]
+* {{ja-r|管状腺|かんじょうせん}}: [[loop line]]
+* {{ja-r|涙腺|るいせん}}: [[lacrimal gland]]
+* {{ja-r|耳下腺|じかせん}}: [[parotid gland]]
+* {{ja-r|顎下腺|がっかせん}}: [[submaxillary gland]]
+* {{ja-r|舌下腺|ぜっかせん}}: [[sublingual gland]]
+* {{ja-r|唾液腺|だえきせん}}: [[salivary gland]]
+* {{ja-r|扁桃腺|へんとうせん}}: [[tonsil]]
+{{der-mid}}
+* {{ja-r|前立腺|ぜんりつせん}}: [[prostate gland]]
+* {{ja-r|尿道球腺|にょうどうきゅうせん}}: [[bulbourethral gland]]
+* {{ja-r|カウパー腺|カウパーせん}}: [[bulbourethral gland]]
+* {{ja-r|スキーン腺|スキーンせん}}: [[Skene's gland]]
+* {{ja-r|小前庭腺|しょうぜんていせん}}: [[Skene's gland]]
+* {{ja-r|傍尿道腺|ぼうにょうどうせん}}: [[Skene's gland]]
+* {{ja-r|バルトリン腺|バルトリンせん}}: [[Bartholin's gland]]
+* {{ja-r|大前庭腺|だいぜんていせん}}: [[Bartholin's gland]]
+* {{ja-r|汗腺|かんせん}}: [[sweat gland]]
+* {{ja-r|皮脂腺|ひしせん}}: [[sebaceous gland]]
+* {{ja-r|性腺|せいせん}}: [[sex gland]]
+* {{ja-r|毒腺|どくせん}}: [[venom gland]]
+{{der-bottom}}
+
+===Etymology===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+</div>
+{{ja-kanjitab|せん|yomi=kanyoon}}
+Coined in Japan ([[kokuji]]) in late 1700s - early 1800s by ''[[rangaku]]'' scholar Udagawa Genshin as a translation for {{cog|nl|klier||gland}}, as a compound of {{cog|zhx}} elements {{Han compound|肉|泉}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanyoon|せん|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|せん}}
+
+# [[gland]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[선]]|eumhun=|rv=seon|mr=sŏn|y=sen}}
+
+# [[gland]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tuyến]]|rs=肉09}}
+
+# [[gland]]
+
+[[fr:腺]]
+[[hu:腺]]
+[[mg:腺]]
+[[nl:腺]]
+[[ja:腺]]
+[[no:腺]]
+[[pl:腺]]
+[[th:腺]]
+[[zh:腺]]

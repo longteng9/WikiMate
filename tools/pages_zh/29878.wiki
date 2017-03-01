@@ -1,0 +1,48 @@
+{{character info/new}}
+{{also|铴}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=12|sn=20|four=86127|canj=CEAH}}
+
+# [[gong]]
+
+====References====
+* {{Han ref|kx=1321.410|dkj=40879|dj=1821.340|hdz=64259.060|uh=940B|ud=37899|bh=F4E7|bd=62695}}
+
+----
+
+==Chinese==
+{{zh-forms|s=铴}}
+
+===Pronunciation===
+{{zh-pron
+|m=tàng,tāng
+|c=tong1,tong2,tong3
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|鐋鑼}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thảng]], [[thang]]|rs=金12}}
+
+# {{defn|lang=vi|sort=金12}}
+
+[[fr:鐋]]
+[[pl:鐋]]
+[[th:鐋]]
+[[zh:鐋]]

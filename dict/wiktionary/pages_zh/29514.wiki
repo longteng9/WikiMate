@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|锑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=07|sn=15|four=88127|canj=CCNH|ids=⿰釒弟}}
+
+# [[antimony]]; [[stibium]]
+
+====References====
+{{Han ref|kx=1306.130|dkj=40428|hdz=64212.020|uh=92BB}}
+
+----
+
+==Chinese==
+{{zh-forms|s=锑}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|金|弟|c1=s|t1=gold; metal|c2=p|ls=psc}}.
+
+===Etymology 1===
+{{bor|zh|NL.|stibium|s'''ti'''bium}}.
+
+====Pronunciation====
+{{zh-pron
+|m=銻
+|c=tai1
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[antimony]]
+
+=====Synonyms=====
+* {{qualifier|obsolete}} {{zh-l|銨}}
+
+====Compounds====
+{{zh-der|輝銻礦}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=tí
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|鎕銻}}
+
+{{zh-cat|Chemical elements}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金07}}
+
+# {{defn|lang=ja|sort=金07}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei), [[だい]] (dai)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=제|eumhun=|rv=je|mr=che|y=cey}}
+
+# {{defn|lang=ko|sort=金07}}
+
+[[fr:銻]]
+[[it:銻]]
+[[lt:銻]]
+[[hu:銻]]
+[[pl:銻]]
+[[ro:銻]]
+[[ru:銻]]
+[[th:銻]]
+[[zh:銻]]

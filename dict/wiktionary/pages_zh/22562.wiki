@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=116|rad=穴|as=07|sn=12|four=30607|canj=JCSKR|ids=⿱穴君}}
+
+====References====
+* {{Han ref|kx=0865.350|dkj=25519|dj=1294.040|hdz=42732.010|uh=7A98|ud=31384|bh=B57E|bd=46462}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiǒng
+|c=kwan3,kwan5
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[embarrassed]]
+# [[hard-pressed]]
+
+====Compounds====
+{{zh-der|受窘|困窘|枯窘|發窘|窘促|窘困|窘境|窘急|窘態|窘態畢露|窘態百出|窘步|窘況|窘蹙|窘迫|窘鄉|窮窘|隘窘}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=穴07}}
+
+# {{defn|lang=ja|sort=穴07}}
+
+====Readings====
+{{ja-readings|goon=[[ごん]] (gon)|kanon=[[きん]] (kin)|kun=[[たしなめる]] (tashinameru), [[くるしむ]] (kurushimu)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|窘迫|きんぱく}}: [[troubledness]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=군|eumhun=|rv=gun|mr=kun|y=kwun}}
+
+# {{defn|lang=ko|sort=穴07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=穴07| hanviet = quẫn}}
+
+# {{defn|lang=vi|sort=穴07}}
+
+[[fr:窘]]
+[[ko:窘]]
+[[hu:窘]]
+[[mg:窘]]
+[[ja:窘]]
+[[no:窘]]
+[[pl:窘]]
+[[ru:窘]]
+[[th:窘]]
+[[zh:窘]]

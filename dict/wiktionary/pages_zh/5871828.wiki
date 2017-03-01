@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms|alt=請裁,凊采,凊菜,凊採,信採,襯採,靘彩,且睬,且採,䞋采,䞋綵,䞋彩,稱采,稱採,稱睬,稱彩,儭睬,情在,輕菜,青菜,青采,信嘴,信手}}
+
+===Etymology===
+Uncertain. Here are a few possibilities:
+* {{lang|zh|凊彩}}: {{zh-compound|*凊|*彩|cold|good}} — “not good enough” > “cannot choose”.
+* {{lang|zh|靘彩}}: literally “dark or colourful” — it doesn't matter which you choose.
+* {{lang|zh|請裁}}: shortened from {{lang|zh|[[請]][[汝]][[裁決]]}} (“please decide”); this is unlikely.
+
+===Pronunciation===
+{{zh-pron
+|mn=chhìn-chhái/zz:khìn-chhái
+|cat=a,adv
+}}
+
+===Adjective===
+{{zh-adj}} {{tlb|zh|Min Nan}}
+
+# [[any]]
+# [[casual]]; [[easygoing]]
+# {{lb|zh|Xiamen|Quanzhou|Taiwan}} [[careless]]; [[irresponsible]]
+
+===Adverb===
+{{zh-adv}} {{tlb|zh|Min Nan}}
+
+# [[casually]]; [[informally]]
+
+===References===
+* {{thcwda|304}}
+* {{cite-web
+|author=劉建仁
+|authorlink=
+|date=2011-01-21
+|url=https://taiwanlanguage.wordpress.com/2011/01/21/襯採•靘彩（ts‘inʟ-ts‘aiˋ）──隨便/
+|title=襯採•靘彩（ts‘inʟ-ts‘aiˋ）──隨便
+|work=台灣話的語源與理據
+|language=Chinese
+|accessdate=2016-10-12
+}}
+
+[[zh-min-nan:凊彩]]
+[[mg:凊彩]]

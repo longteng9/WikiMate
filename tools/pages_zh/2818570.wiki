@@ -1,0 +1,33 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chūděng
+|c=co1 dang2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[elementary]]; [[basic]]; [[rudimentary]]
+
+====Derived terms====
+{{zh-der|初等教育|初等函數}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょ|とう|yomi=o}}
+
+===Noun===
+{{ja-noun|しょとう}}
+
+# {{lb|ja|education|sort=しょとう}} [[beginning]], [[primary]] (of a course of period of education)
+
+[[ko:初等]]
+[[hu:初等]]
+[[mg:初等]]
+[[ja:初等]]
+[[zh:初等]]

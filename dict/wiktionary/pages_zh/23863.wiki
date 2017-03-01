@@ -1,0 +1,167 @@
+{{character info/new}}
+{{also|罐|击}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Alternative forms===
+* [[𦈢]]
+
+===Etymology===
+{{Han etyl}}
+{{liushu|p}} – a pot with a lid.
+
+Japanese shinjitai {{Han simp|罐|f=雚|t=&nbsp;}}.
+
+===Han character===
+{{Han char|rn=121|rad=缶|as=00|sn=6|four=80772|canj=OJU}}
+
+# [[earthen]] [[crock]] or [[jar]] (also used as a musical instrument in the court music of ancient China and the ritual music of Korea)
+# {{mul-kangxi radical-def}}
+
+====Descendants====
+* [[金]] {{qualifier|simplified form used in some characters such as 鉢}}
+
+====References====
+* {{Han ref|kx=0944.260|dkj=28108|dj=1385.010|hdz=52935.010|uh=7F36|ud=32566|bh=A6CE|bd=42702}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǒu
+|c=fau2
+|h=pfs=fì
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|二缶鐘惑|擊缶}}
+
+{{zh-cat|Musical instruments}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=缶00|style=s|kyu=罐}}
+
+# [[pot]]; [[can]]
+# [[tin]] [[can]]
+# [[container]]
+# [[jar]] [[radical]] ([[no.]] 121)
+
+====Readings====
+{{ja-readings
+|on=[[かん]] (kan), {{qualifier|historical}} [[くゎん]] (kwan); {{qualifier|Chinese-based readings seldom used in Japanese}} [[ふ]] (fu), [[ふう]] (fū)
+|kun=[[かま]] (kama), [[ほとぎ]] (hotogi)
+|nanori=[[ふ]] (fu), [[べ]] (be)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|缶詰|かんづめ}}: [[canned]] food; [[confinement]] for a particular purpose
+* {{ja-r|缶詰業|かんづめぎょう}}: the [[canning]] [[industry]]
+* {{ja-r|缶詰業者|かんづめ ぎょうしゃ}}: a [[canner]], someone who [[cans]] as a [[business]]
+* {{ja-r|缶詰工場|かんづめ こうじょう}}: a [[cannery]], a [[canning]] [[plant]]
+* {{ja-r|缶詰食品|かんづめ しょくひん}}: [[canned]] [[food]]
+* {{ja-r|缶石|かんせき}}: [[scale]], [[lime]] and other [[deposits]] left behind in a [[boiler]], [[kettle]], or similar device
+* {{ja-r|缶切り|かんきり}}, {{ja-r|缶切|かんきり}}: a [[can opener]]
+* {{ja-r|缶胴|かまどう}}: the [[boiler]] of a [[steam engine]]
+* {{ja-r|缶焚き|かまたき}}, {{ja-r|缶焚|かまたき}}: [[minding]] a [[boiler]] [[fire]] for a [[steam engine]]; a [[steam engine]] [[fireman]], [[tender]], or [[stoker]]
+* {{ja-r|缶偏|かまへん}}: the [[Chinese character]] [[radical]] consisting of the {{ja-r|缶|缶}} character
+{{der-bottom}}
+
+===Etymology 1===
+Originally from {{etyl|nl|ja|sort=かん}} {{m|nl|kan||cylindrical metallic container}}, with additional influence from {{etyl|en|ja|sort=かん}} {{m|en|can||cylindrical metallic container}}. The kanji is an example of [[ateji]].
+
+====Pronunciation====
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|/ka.ɴ/|[kã̠ɴ]}}
+
+====Alternative forms====
+* {{l|ja|鑵}}, {{l|ja|カン}}
+
+====Noun====
+{{ja-noun|かん}}
+
+# a [[can]], a [[tin]]
+
+===Etymology 2===
+From {{etyl|ojp|ja|sort=かま}} ''kama'', signifying a container for high heat and referring variously to a {{m|en|hearth}}, {{m|en|oven}}, {{m|en|pot}}, {{m|en|kettle}}.
+
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|/ka.ma/|[kämä]}}
+
+====Alternative forms====
+* {{l|ja|竈}}, {{l|ja|釜}}, {{l|ja|窯}}
+
+====Noun====
+{{ja-noun|かま}}
+
+# a [[boiler]], as for a [[steam engine]]
+
+=====Usage notes=====
+For the {{m|en|boiler}} sense, this term ''kama'' is most often spelled using the kanji {{lang|ja|缶}}.
+
+=====Synonyms=====
+* {{ja-r|ボイラー}}
+
+[[Category:ja:Containers|かん]]
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 缶]]
+
+----
+
+==Korean==
+
+===Hanja [漢字] ===
+{{ko-hanja|hangeul=부|eumhun=|rv=bu|mr=pu|y=pu}}
+
+장군 부 [janggun bu]
+
+1. an earthern vessel that bulges in the middle and has a narrow mouth
+2. referes to one of many types of the double-headed drums with a narrow waist in the middle
+3. 洋甁, a glazed pot bulging in the middle with a narrow mouth
+4. volume, capacity (=4斛) <ref>http://www.e-hanja.kr/</ref>
+
+# {{defn|lang=ko|sort=缶00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phẫu]], [[phễu]], [[quán]], [[phữu]]|rs=缶00}}
+
+# {{defn|lang=vi|sort=缶00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:缶]]
+[[ko:缶]]
+[[lo:缶]]
+[[li:缶]]
+[[hu:缶]]
+[[mg:缶]]
+[[ms:缶]]
+[[ja:缶]]
+[[pl:缶]]
+[[ru:缶]]
+[[th:缶]]
+[[chr:缶]]
+[[zh:缶]]

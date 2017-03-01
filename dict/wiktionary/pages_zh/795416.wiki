@@ -1,0 +1,23 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+[[transliteration|Transliteration]] of {{etyl|en|zh}} {{m|en|pyrimidine}}.
+
+===Pronunciation===
+{{zh-pron
+|m=mìdìng
+|c=mat6 ding6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|chemistry}} [[pyrimidine]]
+
+====Derived terms====
+{{zh-der|尿嘧啶}}
+
+[[zh:嘧啶]]

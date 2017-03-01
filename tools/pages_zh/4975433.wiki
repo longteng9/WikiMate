@@ -1,0 +1,37 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|yomi=o|ご|ぞう|ろく|k3=ろっ|ふ|k4=ぷ|r=y}}
+
+===Etymology===
+From {{etyl|zhx|ja}} {{m|zh|五臟六腑}}.
+
+===Pronunciation===
+{{ja-pron|ごぞうろっぷ|y=o}}
+
+===Noun===
+{{ja-noun|ごぞうろっぷ}}
+
+# The [[internal organ]]s.
+
+====Usage notes====
+* Originating in [[traditional Chinese medicine]], this term has more of a symbolic meaning rather than a medical one.
+
+====Hyponyms====
+* "{{lang|ja|五臓}}"
+*# {{ja-r|肺臓|はいぞう}}: the lungs
+*# {{ja-r|心臓|しんぞう}}: the heart
+*# {{ja-r|脾臓|ひぞう}}: the spleen
+*# {{ja-r|肝臓|かんぞう}}: the liver
+*# {{ja-r|腎臓|じんぞう}}: the kidney
+* "{{lang|ja|六腑}}"
+*# {{ja-r|大腸|だいちょう}}: the large intestine
+*# {{ja-r|小腸|しょうちょう}}: the small intestine
+*# {{ja-r|胃|い}}: the stomach
+*# {{ja-r|胆|きも}}: the liver
+*# {{ja-r|膀胱|ぼうこう}}: the bladder
+*# {{ja-r|三焦|さんしょう}}: the [[triple burner]]
+
+[[Category:ja:Anatomy|こぞうろっぷ']]
+[[Category:Yojijukugo|こぞうろっぷ']]
+
+[[ja:五臓六腑]]

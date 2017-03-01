@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|けん|か|yomi=o}}
+{{wikipedia|lang=ja}}
+
+===Etymology===
+From {{m|ja|石鹸||tr=sekken|soap}}. Abbreviated to {{m|ja|鹸||tr=ken}}, and suffixed with {{m|ja|化||tr=ka|-ification}}.
+
+====Noun====
+{{ja-noun|けんか}}
+
+# [[saponification]]
+
+====Alternative forms====
+* {{l|ja|けん化}}
+* {{l|ja|ケン化}}
+
+=====Derived terms=====
+* {{m|ja|鹸化価||tr=kenkaka|[[saponification]] [[value]]}}
+
+===Verb===
+{{ja-verb-suru|けんか}}
+
+# to [[saponify]]
+
+====Conjugation====
+{{ja-suru|けんか}}
+
+[[Category:ja:Chemistry|けんか]]

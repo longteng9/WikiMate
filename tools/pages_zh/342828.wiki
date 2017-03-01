@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=lùmiàn
+|c=lou6 min6
+|mn=lō͘-bīn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[road]] [[surface]]; [[pavement]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ろ|めん|yomi=on}}
+
+===Noun===
+{{ja-noun|ろめん}}
+
+# a [[surface]] of road
+
+====Compounds====
+* {{l/ja|路面電車}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab|路|面}}
+
+===Noun===
+{{ko-noun|rv=nomyeon|hangeul=노면}}
+
+# {{hanja form of|노면|surface of a road}}
+
+{{attention|ko|is this a noun or another part of speach?}}
+
+[[zh-min-nan:路面]]
+[[ko:路面]]
+[[hu:路面]]
+[[ja:路面]]
+[[zh:路面]]

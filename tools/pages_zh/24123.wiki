@@ -1,0 +1,69 @@
+{{character info/new}}
+{{also|藉}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=127|rad=耒|as=08|sn=14|four=54961|canj=QDTA|ids=⿰耒昔}}
+
+# [[plough]]
+# a field ploughed by the emperor
+
+====Derived characters====
+* [[籍]]
+
+====References====
+* {{Han ref|kx=0963.340|dkj=28945|dj=1412.070|hdz=42773.020|uh=8024|ud=32804|bh=E3A1|bd=58273}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|耒|t1=plow|昔|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jí,jiè
+|c=zik6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=耒08}}
+
+# [[plough]]
+
+====Readings====
+* {{ja-readings|on=[[せき]] (seki), [[じゃく]] (jaku), [[しゃ]] (sha), [[じゃ]] (ja)|kun=[[かりる]] (kariru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=적|eumhun=|rv=jeok|mr=chŏk|y=cek}}
+
+# field plowed by Emperor
+
+[[fr:耤]]
+[[hu:耤]]
+[[pl:耤]]
+[[th:耤]]
+[[zh:耤]]

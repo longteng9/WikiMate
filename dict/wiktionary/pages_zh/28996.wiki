@@ -1,0 +1,182 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Alternative forms===
+Note that there are two Unicode z-variants, with code points U+90FD and U+FA26 (the latter is a compatibility variant and should be avoided).
+
+===Han character===
+{{Han char|rn=163|rad=邑|as=08|sn=11|four=47627|canj=JANL|ids=⿰者⻏}}
+
+====References====
+* {{Han ref|kx=1274.090|dkj=39497|dj=1773.010|hdz=63776.070|uh=90FD|ud=37117|bh=B3A3|bd=45987}}
+* {{Han ref|uh=FA26}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|者|邑|alt2=⻏|t2=town, city|ls=psc|c1=p|c2=s}} – a large city.
+
+===Pronunciation 1===
+{{zh-pron
+|m=dū
+|c=dou1
+|h=pfs=tû
+|mn=to͘
+|w=1tu
+|x=
+|mc=y
+|oc=y
+|cat=n,v,a,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[metropolis]]; large [[city]]
+# [[capital]]; capital [[city]]
+# {{†}} to make a place the [[capital]] city; to [[establish]] a capital
+# {{†}} [[graceful]]; [[elegant]]
+# {{surname|lang=zh}} [[Du]]
+
+====Compounds====
+{{zh-der|名都|兩都|大都會|奧古斯都|吳都|八都兒|大都|不賢都頭|奠都|吁咈都俞|嘓都嘓都|下都|國都|伐子都|巴都兒|幽都|大都會區|宏都拉斯|中都|八都|建都|八旗都統|店都知|帝都|三都賦|上都|定都|子都|兩都賦|天都|大都護|大都來|京都|南都|嘴盧都|加德滿都|古都|八都魯|成都平原|水都|打都磨子|滴羞都蘇|滴修都速|研京練都|棉都|成都賣卜|清都|港都|皇都|故都|把都兒|拔都|玄都|煤都|海上都市|班都斯山|東都|拔都魯|駙馬都尉|都邑|老都爺|都會區|都會|都柏林|都人士|通都大邑|陪都|骨都|都都磨磨|都都摸摸|都坑|都轄|都試|都料匠|都府|西都賦|都根主兒|骨都兒|都中|都護|衛星都市|霸都魯|谷都|自治都市|遷都|雙核都市|都市計畫|都江堰|都鄙|鴻都|舊都|都市家具|都保|都鬼|骨都都|首都|還都|都子|都嚕|關都尉|都俞吁咈|鐵都|花都|都來|都講|金都|酆都|都城|都馬調|都頭|都雅|都鄙有章|都纂|都管|都督|都抹|都把勢|都市病|都市化|都市之肺|都市|都寺|都大|郢都|都門|興都斯坦|西都|行都|都會文學|麗都}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=dōu
+|c=dou1
+|h=pfs=tu/s:tû/s:lû
+|mn=to
+|w=1tu
+|mc=y
+|oc=y
+|ma=y
+|cat=adv
+}}
+
+====Definitions====
+{{zh-adv}}
+
+# [[all]], [[both]] (used to indicate that the statement is true for every subject or object)
+#: {{zh-x|我 都 知道 了。|I know '''everything'''. [ambiguous; may also mean “Even I know”.]}}
+#: {{zh-x|他 比 任何 人 都 好。|He is better than anyone else.}}
+#: {{zh-x|這裡 的 人 我 都 認識。|I know every person here.}}
+# {{lb|zh|emphasis on subject}} [[even]]
+#: {{zh-x|我 都 不 知道，你 是 怎麼 知道 的。|How come you know it when even I don't know?}}
+# {{lb|zh|emphasis on object}} [[even]], interchangeable with {{zh-l|也}}
+#: {{zh-x|我 身上 一 分 錢 都 沒有。|I don't even have a single cent.}}
+#: {{zh-x|我 給 她 打 了 四 個 電話，她 一個 都 沒 接。|I called her four times, but she answered none of them. }}
+## {{lb|zh|emphasis}} {{n-g|Used in the {{lang|zh|[[連]]……都……}} structure; interchangeable with {{zh-l|也}}}};  [[even]]
+##: {{zh-x|他 '''連''' 畜生 '''都''' 不如，'''連''' 自己 的 父母 '''都''' 不 養活。|He is no better than an animal, because he doesn't even support his own parents.}}
+# [[already]]
+#: {{zh-x|都 四 點 了。|It is '''already''' 4 o'clock.}}
+#: {{zh-x|都 這麼 晚 了 嗎？|Is it that late '''already'''?}}
+# {{lb|zh|Cantonese}} [[as well]], [[also]], [[too]]
+#: {{zh-x|我 都 好 好。|I'm fine too.|C-GZ}}
+
+=====Synonyms=====
+{{zh-dial|也}}
+
+=====Usage notes=====
+* When negating {{lang|zh|都}}, the placement of {{zh-l|不}} is important.
+: {{lang|zh|不都}}: not all, not everyone.
+: {{lang|zh|都不}}: none, no one
+
+====Compounds====
+{{zh-der|fold=1|臉都綠了|都齊}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=邑09}}
+
+====Readings====
+* {{ja-readings|kanon=[[と]] (to)|goon=[[つ]] (tsu)|on=[[ちょ]] (cho)|kun=[[みやこ]] (miyako), [[すべて]] (subete)}}
+
+===Noun===
+{{ja-noun|と}}
+
+# [[capital]] (city)
+# [[city]]
+# the [[prefecture]] of Tokyo
+#* [[東京]][[都]]
+#*: [[とうきょう]][[と]]
+#*: Tōkyō-to
+#*: Tokyo; the metropolis of Tokyo
+#* [[都]][[庁]]
+#*: [[と]][[ちょう]]
+#*: Tochō
+#*: the Tokyo Metropolitan Government Office
+
+====Compounds====
+{{top3}}
+* {{ja-r|都市|とし}}
+* {{ja-r|首都|しゅと}}
+* {{ja-r|首都高|しゅとこう}}
+* {{ja-r|東京都|とうきょうと}}
+* {{ja-r|都電|とでん}}
+* {{ja-r|京都|^きょうと}}: [[Kyoto]]
+* {{ja-r|都合|つごう}}: [[circumstances]]
+{{mid3}}
+* {{ja-r|都会|とかい}}
+* {{ja-r|都銀|とぎん}}
+* {{ja-r|全都|ぜんと}}
+* {{ja-r|都議|とぎ}}
+* {{ja-r|政令指定都市|せいれいしていとし}}
+{{mid3}}
+* {{ja-r|都道府県|とどうふけん}}
+* {{ja-r|不都合|ふつごう}}
+* {{ja-r|都政|とせい}}
+* {{ja-r|古都|こと}}
+* {{ja-r|都心|としん}}
+{{bottom}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 都]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=도|eumhun=|rv=do|mr=to|y=to}}
+
+# {{defn|lang=ko|sort=邑09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đô]], [[đo]], [[đu]], [[đua]], [[đủ]]|rs=邑09}}
+
+# {{defn|lang=vi|sort=邑09}}
+
+[[zh-min-nan:都]]
+[[fr:都]]
+[[ko:都]]
+[[it:都]]
+[[lo:都]]
+[[lt:都]]
+[[hu:都]]
+[[mg:都]]
+[[fj:都]]
+[[ja:都]]
+[[no:都]]
+[[pl:都]]
+[[sr:都]]
+[[ta:都]]
+[[th:都]]
+[[chr:都]]
+[[uk:都]]
+[[vi:都]]
+[[zh:都]]

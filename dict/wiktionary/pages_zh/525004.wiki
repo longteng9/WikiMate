@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zǎoqǐ,tl=y
+|c=zou2 hei2
+|j=zau2 qi2
+|mn=xm,qz,zz,tw,lk:chá-khí/xm,qz,zz,hc,tc:chái-khí/xm,qz,zz:chái-í
+|cat=n,adv
+}}
+
+====Adverb====
+{{zh-adv}}
+
+# in the [[past]]; in the [[beginning]]; [[previously]]
+
+====Noun====
+{{zh-noun}}
+
+# [[morning]]
+# {{lb|zh|Min Nan}} [[breakfast]]
+# {{lb|zh|Jin}} [[tomorrow]]
+
+=====Synonyms=====
+{{zh-dial|上午}}
+{{zh-dial|早餐}}
+{{zh-dial|明天}}
+
+===Pronunciation===
+{{zh-pron
+|m=zǎoqǐ
+|c=zou2 hei2
+|mn=chá-khí
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[get up]] [[early]]
+#: {{zh-x|早睡 早起|to sleep early and '''get up early'''}}
+
+=====Synonyms=====
+* {{qualifier|Hakka}} {{zh-l|早䟘}}
+
+[[zh-min-nan:早起]]
+[[ko:早起]]
+[[sw:早起]]
+[[mg:早起]]
+[[ja:早起]]
+[[zh:早起]]

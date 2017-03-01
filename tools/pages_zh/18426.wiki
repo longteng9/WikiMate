@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=78|rad=歹|as=06|sn=10|four=17220|canj=MNPA|ids=⿰歹旬}}
+
+# [[die]] for a [[cause]], be a [[martyr]] for
+
+====References====
+* {{Han ref|kx=0580.220|dkj=16448|dj=0972.300|hdz=21386.060|uh=6B89|ud=27529|bh=AEEE|bd=44782}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xùn
+|c=seon1,seon6
+|mn=qz,twv,xm,zz:sūn/tw:sûn
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=歹06}}
+
+# {{defn|lang=ja|sort=歹06}}
+
+====Readings====
+* {{ja-readings|on=[[じゅん]] (jun)|kun=[[したがう]] (shitagau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=순|eumhun=|rv=sun|mr=sun|y=swun}}
+
+# {{defn|lang=ko|sort=歹06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=歹06| hanviet = tuẫn}}
+
+# {{defn|lang=vi|sort=歹06}}
+
+[[fr:殉]]
+[[ko:殉]]
+[[hu:殉]]
+[[mg:殉]]
+[[ja:殉]]
+[[no:殉]]
+[[pl:殉]]
+[[th:殉]]
+[[zh:殉]]

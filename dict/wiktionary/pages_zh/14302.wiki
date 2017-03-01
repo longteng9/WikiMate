@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=42|rad=小|as=09|sn=12|four=|canj=KCAF|ids=⿱昚小}}
+
+# [[fuel]] used for [[sacrifice]]s
+
+====Derived characters====
+* [[寮]], [[獠]], [[遼]], [[僚]], [[療]], [[燎]], [[憭]], [[瞭]], [[潦]], [[撩]], [[鐐]], [[㙩]], [[嫽]], [[爒]], [[竂]], [[簝]], [[膫]], [[璙]]
+
+====References====
+* {{Han ref|kx=0297.240|dkj=07517|dj=0592.220|hdz=10565.100|uh=5C1E|ud=23582}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|眘|火|t1=serious|t2=fire|ls=ic}}.
+
+To sacrifice with firewood.
+
+===Pronunciation===
+{{zh-pron
+|m=liào
+|c=liu4
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 97]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=小09}}
+
+# fuel used for sacrifices
+
+====Readings====
+* {{ja-readings|on=[[りょう]] (ryō)|kun=[[かがりび]] (kagaribi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[료]]>[[요]]|eumhun=|rv=ryo>yo|mr=ryo>yo|y=lyo>yo}}
+
+# [[torchlight]]
+# set fire to (a house), light a fuse
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=小09|hanviet=[[lèo]], [[lẽo]], [[treo]]}}
+
+# {{defn|lang=vi|sort=小09}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:尞]]
+[[hu:尞]]
+[[pl:尞]]
+[[th:尞]]
+[[zh:尞]]

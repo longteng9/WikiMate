@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|疡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=09|sn=14|four=00127|canj=KAMH}}
+
+# [[ulcers]], [[sores]]
+# [[infection]]
+
+====References====
+* {{Han ref|kx=0776.250|dkj=22327|dj=1187.040|hdz=42684.020|uh=760D|ud=30221|bh=BAC5|bd=47813}}
+
+----
+
+==Chinese==
+{{zh-forms|s=疡}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|疒|昜|c1=s|c2=p|t1=illness|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yáng
+|c=joeng4
+|h=pfs=
+|md=
+|mn=siûⁿ
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒09}}
+
+# {{defn|lang=ja|sort=疒09}}
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō)|kun=[[かさ]] (kasa)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=양|eumhun=|rv=yang|mr=yang|y=yang}}
+
+# {{defn|lang=ko|sort=疒09}}
+
+[[fr:瘍]]
+[[ko:瘍]]
+[[hu:瘍]]
+[[ja:瘍]]
+[[pl:瘍]]
+[[th:瘍]]
+[[zh:瘍]]

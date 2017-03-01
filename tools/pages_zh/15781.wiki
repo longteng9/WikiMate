@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|凭|凴}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=12|sn=16|four=31332|canj=IFP|ids=⿱馮心}}
+
+# [[lean on]], [[depend]] on, [[rely on]]
+
+====References====
+* {{Han ref|kx=0402.160|dkj=11210|dj=0742.180|hdz=42351.020|uh=6191|ud=24977|bh=BECC|bd=48844}}
+
+----
+
+==Chinese==
+{{zh-forms|s=凭}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=píng
+|c=pang4,bang6
+|h=pfs=phìn
+|md=
+|mn=pêng/pîn
+|mn_note=pêng - literary; pîn - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心12}}
+
+# {{defn|lang=ja|sort=心12}}
+
+====Readings====
+* {{ja-readings|on=[[ひょう]] (hyō)|kun=[[よる]] (yoru), [[たのむ]] (tanomu), [[つく]] (tsuku)}}
+
+====Compounds====
+* {{ja-r|憑依|ひょうい}}: [[spirit]] [[possession]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=빙|eumhun=|rv=bing|mr=ping|y=ping}}
+
+# {{defn|lang=ko|sort=心12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bằng]]|rs=心12}}
+
+# [[equal]], [[even]]
+
+[[fr:憑]]
+[[li:憑]]
+[[hu:憑]]
+[[ms:憑]]
+[[ja:憑]]
+[[pl:憑]]
+[[th:憑]]
+[[zh:憑]]

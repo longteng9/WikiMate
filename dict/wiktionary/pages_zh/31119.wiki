@@ -1,0 +1,70 @@
+{{character info/new}}
+{{also|颃}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=181|rad=頁|as=04|sn=13|four=01286|canj=YNMBC}}
+
+# [[fly]] [[down]], [[scoot]]
+# [[neck]], [[throat]]
+
+====References====
+* {{Han ref|kx=1401.010|dkj=43371|dj=1917.080|hdz=74363.030|uh=980F|ud=38927|bh=E0DE|bd=57566}}
+
+----
+
+==Chinese==
+{{zh-forms|s=颃}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hāng
+|c=hong4,kong3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|頡頏|頡頏之行}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+{{attention|zh|please check}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=頁04}}
+
+# {{defn|lang=ja|sort=頁04}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[のど]] (nodo)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=항|eumhun=|rv=hang|mr=hang|y=hang}}
+
+# {{defn|lang=ko|sort=頁04}}
+
+[[fr:頏]]
+[[hu:頏]]
+[[ja:頏]]
+[[pl:頏]]
+[[th:頏]]
+[[zh:頏]]

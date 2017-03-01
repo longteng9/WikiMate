@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|钺}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=05|sn=13|four=83150|canj=CIV}}
+
+# broad-axe, a battle axe, halberd
+
+====References====
+* {{Han ref|kx=1302.020|dkj=40313|dj=1803.220|hdz=64184.090|uh=925E|ud=37470|bh=E0B5|bd=57525}}
+
+----
+
+==Chinese==
+{{zh-forms|s=钺}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuè
+|c=jyut6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Etymology===
+The final -kari may be the nominalized form of {{m|ja|刈る|tr=karu||cut}}.
+
+===Noun===
+{{ja-noun|まさかり}}
+# a large [[axe]]
+
+====See also====
+* {{ja-r|斧|おの}}
+
+===Kanji===
+{{ja-kanji|grade=|rs=金05}}
+
+# {{defn|lang=ja|sort=金05}}
+
+====Readings====
+* {{ja-readings|on=[[えつ]] (etsu)|kun=[[まさかり]] (masakari)|nanori=}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 鉞]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=월|eumhun=|rv=wol|mr=wŏl|y=wel}}
+
+# {{defn|lang=ko|sort=金05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[việt]]|rs=金05}}
+
+# {{defn|lang=vi|sort=金05}}
+
+[[fr:鉞]]
+[[ko:鉞]]
+[[hu:鉞]]
+[[ja:鉞]]
+[[pl:鉞]]
+[[th:鉞]]
+[[vi:鉞]]
+[[zh:鉞]]

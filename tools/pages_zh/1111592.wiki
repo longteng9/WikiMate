@@ -1,0 +1,93 @@
+{{also|诞生}}
+==Chinese==
+{{zh-forms|s=诞生}}
+
+===Pronunciation===
+{{zh-pron
+|m=dànshēng
+|c=daan3 sang1,daan3 saang1
+|h=pfs=tan-sên
+|mn=tàn-seng
+|ma=Zh-dànsheng.ogg
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to be [[born]]; to [[come into being]]; to [[emerge]]
+
+===Noun===
+{{zh-noun}}
+
+# [[birth]]
+# [[creation]]; [[formation]]
+
+===Descendants===
+{{CJKV||たんじょう|탄생|đản sinh|v2=đản sanh}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|たん|しょう|k2=じょう|yomi=o|r=y}}
+
+====Pronunciation====
+* {{ja-pron|たんじょう|y=o|acc=0|acc_ref=NHK}}
+
+====Noun====
+{{ja-noun|たんじょう}}
+
+# [[birth]]; [[creation]]; [[formation]]
+
+=====Related terms=====
+* {{ja-r|誕生日|たんじょうび}}
+* {{ja-r|初誕生|はつたんじょう}}
+* {{ja-r|誕生祝い|たんじょういわい}}
+* {{ja-r|誕生石|たんじょうせき}}
+* {{ja-r|天皇誕生日|てんのうたんじょうび}}
+* {{ja-r|お誕生日おめでとうございます|お-たんじょうび おめでとう ございます}}, {{ja-r|御誕生日おめでとうございます|お-たんじょうび おめでとう ございます}}
+* {{ja-r|誕生寺|^たんじょうじ}}
+
+====Verb====
+{{ja-verb-suru|tr=intrans|たんじょう}}
+
+# be [[born]], come into the world
+
+=====Conjugation=====
+{{ja-suru|たんじょう}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{ja-pron|あも}}
+
+====Proper noun====
+{{ja-pos|あも|proper}}
+
+# {{given name|female|lang=ja|sort=あも}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=탄생}}
+
+# {{hanja form of|탄생|???}}
+
+[[zh-min-nan:誕生]]
+[[ko:誕生]]
+[[lt:誕生]]
+[[hu:誕生]]
+[[mg:誕生]]
+[[ja:誕生]]
+[[chr:誕生]]
+[[zh:誕生]]

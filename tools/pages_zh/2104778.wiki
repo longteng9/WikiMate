@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|こう|はん|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|こうはん}}
+
+# [[wide]]
+#: その[[政策]]は'''広範な'''[[支持]]を[[得る|得た]]。
+#:: そのせいさくは'''こうはんな'''しじをえた。
+#:: ''sono seisaku wa '''kōhan na''' shiji o eta.''
+#:: The plan gained wide support.
+
+====Inflection====
+{{ja-na|こうはん}}
+
+===Noun===
+{{ja-noun|こうはん}}
+
+# [[extensiveness]] in range, power, influence, etc.
+
+[[mg:広範]]
+[[zh:広範]]

@@ -1,0 +1,89 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{wasei kango|元%素|げん%そ|element}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuánsù
+|c=jyun4 sou3
+|ma=y
+|h=pfs=ngièn-su
+|mn=goân-sò͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|chemistry}} [[element]]
+# [[element]] {{gloss|an essential characteristic}}
+
+====Derived terms====
+{{zh-der|化學元素|稀土元素|合金元素|微量元素|放射性元素|重元素|金屬元素|元素週期表}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|げん|そ|yomi=o|sort=けんそ'}}
+
+===Etymology===
+{{compound|元|lang=ja|tr1=[[gen]]|t1=[[element]]|素|tr=[[so]]|t2=element|sort=けんそ'}}
+
+===Pronunciation===
+{{ja-pron|げんそ|acc=a|y=ko}}
+
+===Noun===
+{{ja-noun|げんそ}}
+
+# {{lb|ja|chemistry|sort=けんそ'}} [[element]], [[chemical element]]
+
+====Alternative forms====
+* [[原素]]
+
+====Derived terms====
+* [[希元素]] (''kigenso''): rare element
+* [[希土類元素]] (''kidorui genso''): rare earth elements
+* [[金属元素]] (''kinzoku genso''): metallic element
+* [[人工元素]] (''jinkō genso''): synthetic element
+* [[遷移元素]] (''sen'i genso''): transition element
+* [[窒素族元素]] (''chissozoku genso''): nitrogen group
+* [[超ウラン元素]] (''chōuran-genso''): transuranium element
+* [[超重元素]] (''chōjū-genso''): transuranium element
+* [[同位元素]] (''dōi genso''): isotope
+* [[白金族元素]] (''hakkinzoku genso''): platinum group metals
+* [[ハロゲン族元素]] (''harogenzoku genso''): halogen family elements
+* [[非金属元素]] (''hikinzoku genso''): nonmetallic element
+* [[微量元素]] (''biryō genso''): trace element
+* [[放射性元素]] (''hōshasei genso''): radioactive element
+* [[四大元素]] (''yondai-genso''): the four classical chemical elements (fire, earth, air and water)
+* [[元素記号]] (''genso kigō''): chemical symbol
+* [[元素周期律]] (''genso shūkiritsu''): periodic table of the elements
+* [[元素周期律表]] (''genso shūkiritsuhyō''): periodic law
+
+===Descendants===
+* Chinese: {{zh-l|元素}}
+* Korean: {{ko-l|원소}}
+* Vietnamese: {{vi-l|nguyên tố}}
+
+===References===
+* {{R:Shogakukan}}
+
+{{catlangcode|ja|sort=けんそ'|Chemistry|Physics}}
+
+[[zh-min-nan:元素]]
+[[fr:元素]]
+[[ko:元素]]
+[[it:元素]]
+[[mg:元素]]
+[[ja:元素]]
+[[pt:元素]]
+[[fi:元素]]
+[[tl:元素]]
+[[chr:元素]]
+[[uk:元素]]
+[[vi:元素]]
+[[zh:元素]]

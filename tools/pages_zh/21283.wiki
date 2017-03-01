@@ -1,0 +1,108 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=07|sn=12|four=00169|canj=KMFR|ids=⿸疒否}}
+
+====References====
+* {{Han ref|kx=0774.020|dkj=22206|dj=1184.150|hdz=42674.080|uh=75DE|ud=30174|bh=B56C|bd=46444}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|疒|否|ls=psc|c1=s|c2=p}}.
+
+===Etymology 1===
+"Protuberance"? > "enlargement of an abdominal organ; pain due to splenomegaly" > "[dialectal] abdominal tumour".
+
+====Pronunciation====
+{{zh-pron
+|m=pǐ
+|c=pei2,pei5,fau2
+|h=pfs=
+|md=pī
+|mn=phí
+|w=2phi
+|mc=y
+|oc=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[enlargement]] or [[lump]] in the [[abdomen]]; in particular, [[splenomegaly]] or [[hepatomegaly]]
+# {{lb|zh|TCM}} [[stuffiness]], [[fullness]] and [[discomfort]] in the [[epigastrium]]; [[dyspepsia]] or [[constipation]]
+# {{lb|zh|dialectal Mandarin}} [[abdominal]] [[tumour]]
+# {{lb|zh|Min Dong|Min Nan}} [[scab]]; [[healed]] [[wound]]
+# {{lb|zh|Min Nan}} [[scurf]]; [[flake]]s on the skin surface
+
+=====Compounds=====
+{{zh-der|痞塊|痞積|痞疾|痞氣|痞利|痞硬|痞脹|痞結|痞塞|痞滿}}
+
+===Etymology 2===
+"Bad" > "obscene; ferocious; rascal". Its use is most prominent in dialects of [[Hubei]] and [[Hunan]], and possibly originates from the ancient dialectal pronunciation of {{zh-l|*匪|bad, evil, bandit}}, same as Min Nan {{zh-l|*歹|phái(ⁿ)|bad}}.
+
+It may be the origin of some uses of {{zh-l|皮}}, for example {{zh-l|*調皮|naughty}}, {{zh-l|*賴皮|shameless}} and {{zh-l|*頑皮|naughty}}.
+
+The Cantonese pronunciation is probably due to confusion with {{zh-l|踎|mau1|to squat}}, as this word is not native to Cantonese.
+
+====Pronunciation====
+{{zh-pron
+|m=pǐ
+|c=mau1
+|h=pfs=
+|md=pī/pāi
+|md_note=pī - "rascal"; pāi ({{zh-l|*歹}}) - "low, mean, shabby, seedy, obscene, shameful"
+|mn=
+|w=2phi
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[rascal]]; [[scoundrel]]
+# {{lb|zh|dialectal}} to [[act]] [[perversely]]; to behave like a [[hoodlum]]
+# {{lb|zh|dialectal}} to [[act]] [[shamelessly]]; to [[violate]] [[rule]]s
+# {{lb|zh|dialectal}} [[frivolous]]; [[slippery]]
+# {{lb|zh|dialectal}} [[obscene]]; [[indecent]]; [[vulgar]]
+# {{lb|zh|dialectal}} [[ferocious]]; [[fierce]]
+# {{lb|zh|dialectal}} [[bad]]; [[evil]]
+
+=====Compounds=====
+{{zh-der|地痞|痞子|雅痞|痞囝|痞儂|痞話|痞命|痞鬼|痞哥|痞賴|痞話子|痞搭混|痞裡痞氣|文痞|兵痞|痞徒|嬉痞|嬉痞士}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒07}}
+
+# {{defn|lang=ja|sort=疒07}}
+
+====Readings====
+* {{ja-readings|on=[[ひ]] (hi)|kun=[[つかえ]] (tsukae)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=비|eumhun=|rv=bi|mr=pi|y=pi}}
+
+# {{defn|lang=ko|sort=疒07}}
+
+[[fr:痞]]
+[[hu:痞]]
+[[mg:痞]]
+[[ja:痞]]
+[[pl:痞]]
+[[th:痞]]
+[[vi:痞]]
+[[zh:痞]]

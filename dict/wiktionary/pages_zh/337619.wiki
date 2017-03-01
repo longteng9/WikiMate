@@ -1,0 +1,71 @@
+{{also|朝鲜语}}
+==Chinese==
+{{zh-forms|s=朝鲜语|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=cháoxiǎnyǔ,cháoxiānyǔ,zhāoxiānyǔ,2nb=Taiwan,3nb=common variant
+|c=ciu4 sin1 jyu5,ziu1 sin1 jyu5
+|h=pfs=Chêu-siên-ngî
+|mn=Tiâu-sián-gí/Tiâu-sián-gú
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[Korean]] language
+
+====Synonyms====
+* {{zh-l|韓國語}}
+
+====See also====
+* {{zh-l|諺文}}
+
+{{zh-cat|Languages}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちょう|せん|ご|yomi=on}}
+
+===Etymology===
+From {{suffix|朝鮮|語|tr1=ちょうせん, Chōsen|t1=[[Korea]]|tr2=ご, go|t2=language|lang=ja}}
+
+===Pronunciation===
+* {{ja-pron|ちょうせんご|yomi=o}}
+
+===Noun===
+{{ja-noun|ちょうせんご}}
+
+# {{lb|ja|linguistics}} [[Korean]] language
+
+====Synonyms====
+* {{ja-r|韓国語|かんこくご}}
+
+====See also====
+* {{ja-l|ハングル}}, {{ja-l|諺文}}
+
+[[Category:Japanese basic words|ちょうせんご]]
+[[Category:ja:Languages|ちょうせんご]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=조선어}}
+
+# {{hanja form of|조선어|(in North Korea) the [[Korean]] language}}
+
+[[fr:朝鮮語]]
+[[ko:朝鮮語]]
+[[hu:朝鮮語]]
+[[mg:朝鮮語]]
+[[nl:朝鮮語]]
+[[ja:朝鮮語]]
+[[pl:朝鮮語]]
+[[fi:朝鮮語]]
+[[sv:朝鮮語]]
+[[zh:朝鮮語]]

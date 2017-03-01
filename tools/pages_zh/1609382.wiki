@@ -1,0 +1,28 @@
+{{also|音标}}
+==Chinese==
+{{zh-forms|s=音标}}
+
+===Pronunciation===
+{{zh-pron
+|m=yīnbiāo
+|c=jam1 biu1
+|mn=qz,zz:im-phiau/xm:im-piau
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[phonetic symbol]]
+#* '''2008:''' Zhang Lili (张莉莉), ''[http://www.sxhzx.com/web/Article/jiaoshi/lunwen/200801/20080101181322_4784.shtml 小学英语：'''音标'''可以放弃吗？]''
+#*: ''Teaching English in primary schools - can we give up '''phonetics'''?''
+
+====Derived terms====
+{{zh-der|國際音標}}
+
+===References===
+* {{cite-book|last=Davidson|first=Marianne (ed.)|coauthors=Julie Kleeman, Sarah Waldram|year=2006|edition=2nd edition|title=Collins Chinese Dictionary|language=English/Chinese|publisher=Collins|location=Glasgow, New York|isbn=978-0-00-722391-6}}
+
+[[ko:音標]]
+[[hu:音標]]
+[[th:音標]]

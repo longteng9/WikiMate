@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|顾}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=181|rad=頁|as=12|sn=21|four=31286|canj=HGMBC,IGMBC|ids=⿰雇頁}}
+
+# [[look]] [[back]]
+# look [[at]]
+# [[look after]]
+# a [[surname]]
+
+====References====
+* {{Han ref|kx=1409.380|dkj=43689|dj=1928.050|hdz=74392.110|uh=9867|ud=39015|bh=C555|bd=50517}}
+
+----
+
+==Chinese==
+{{zh-forms|s=顾}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|雇|頁|c1=p|c2=s|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gù
+|c=gu3
+|h=pfs=ku
+|md=
+|mn=kò͘
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=頁12}}
+
+# {{defn|lang=ja|sort=頁12}}
+
+====Readings====
+* {{ja-readings|goon=[[く]] (ku)|kanon=[[こ]] (ko)|kun=[[かえりみる]] (kaerimiru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|eumhun=|rv=go|mr=ko|y=ko}}
+
+# {{defn|lang=ko|sort=頁12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cố]]|rs=頁12}}
+
+# {{defn|lang=vi|sort=頁12}}
+
+[[zh-min-nan:顧]]
+[[fr:顧]]
+[[ko:顧]]
+[[hu:顧]]
+[[mg:顧]]
+[[ja:顧]]
+[[pl:顧]]
+[[th:顧]]
+[[zh:顧]]

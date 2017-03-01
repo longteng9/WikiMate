@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|睾}}
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|目|幸|t1=eye|ls=ic}}.
+
+===Han character===
+{{Han char|rn=109|rad=目|as=08|sn=13|four=26401|canj=WLGTJ|ids=⿱罒幸}}
+
+====Derived terms====
+* {{l|mul|襗}}, {{l|mul|𥼶}}, {{l|mul|圛}}, {{l|mul|殬}}, {{l|mul|斁}}, {{l|mul|𢍰}}, {{l|mul|譯}}, {{l|mul|澤}}, {{l|mul|懌}}, {{l|mul|擇}}, {{l|mul|嶧}}, {{l|mul|繹}}, {{l|mul|驛}}, {{l|mul|鐸}}, {{l|mul|釋}}
+
+====References====
+* {{Han ref|kx=0811.100|dkj=23466|dj=1226.090|hdz=42918.060|uh=776A|ud=30570|bh=B841|bd=47169}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|𠬤}} (used only as a component)
+
+===Pronunciation===
+{{zh-pron
+|m=yì,zé,dù,gāo
+|c=jik6
+|mn=e̍k
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[spy on]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=目08}}
+
+# {{defn|lang=ja|sort=目08}}
+
+====Readings====
+* {{ja-readings|on=[[えき]] (eki), [[やく]] (yaku), [[じょう]] (jō), [[にょう]] (nyō)|kun=[[うかがいめる]] (ukagaimeru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|eumhun=|rv=go|mr=ko|y=ko}}
+
+# {{defn|lang=ko|sort=目08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=目08| hanviet = cao}}
+
+# {{defn|lang=vi|sort=目08}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:睪]]
+[[hu:睪]]
+[[mg:睪]]
+[[ja:睪]]
+[[pl:睪]]
+[[th:睪]]
+[[zh:睪]]

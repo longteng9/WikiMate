@@ -1,0 +1,111 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=一yán
+|c=jat1 jin4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[one]] [[sentence]]; [[something]] to [[say]]; [[brief]] [[remark]]
+
+===Derived terms===
+{{zh-der|一言九鼎|一言難盡|一言堂|一言為定|一言一行|一言以蔽之}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=on|いち|ごん}}
+From {{etyl|ltc|ja|sort=いちごん}} compound {{m|zh|一言|tr=ʔjit ngjon|lit=one + speech, word}}. The [[呉音#Japanese|goon]], so likely the initial borrowing.
+
+====Pronunciation====
+{{ja-pron|いちごん|y=goon|acc=h|acc_ref=NHK,DJR}}
+
+====Noun====
+{{ja-noun|いちごん}}
+
+# a (single) [[word]], a few words
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|一言以って之を蔽う|いちごん もって これ を おお.う}}: “to cover this with one word/phrase” → to [[sum up]] complicated details in a few short words
+* {{ja-r|一言も無い|いちごん も ない}}: “not even a word” → to be [[speechless]]; to have nothing to say
+* {{ja-r|一言一句|いちごん いっく}}: “one word on phrase” → word by word, distinctly {{qualifier|as when speaking carefully}}
+* {{ja-r|一言半句|いちごん はんく}}: “one word half a phrase” → word by word, distinctly {{qualifier|as when speaking carefully}}
+* {{ja-r|一言既に出ずれば駟馬も追い難し|いちごん すで に いずれば しば も おいがたし}}: “a word once said is hard to catch even with a four-horse team”
+{{der-bottom}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|一言居士|いちごん こじ}}: a person who must [[speak one's mind|speak their mind]] about everything
+* {{ja-r|一言詩|いちごん し}}: a traditional [[poem]] wherein a single character is used to fit the [[meter]] of a whole line
+{{der-bottom}}
+
+====Verb====
+{{ja-verb-suru|いちごん}}
+
+# to [[say]] a few words
+
+=====Conjugation=====
+{{ja-suru|いちごん}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=on|いち|げん}}
+Shift in pronunciation from ''ichigon'' above, using the [[漢音#Japanese|kan'on]] of ''gen'' for the {{ja-l|言}} character.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=o|いちげん|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|いちげん}}
+
+# a (single) [[word]], a few words
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|一言以って之を蔽う|いちげん もって これ を おお.う}}: “to cover this with one word/phrase” → to [[sum up]] complicated details in a few short words
+{{der-bottom}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|一言一行|いちげん いっこう}}: one action and one word
+* {{ja-r|一言居士|いちげん こじ}}: a person who must [[speak one's mind|speak their mind]] about everything
+{{der-bottom}}
+
+====Verb====
+{{ja-verb-suru|いちげん}}
+
+# to [[say]] a few words
+
+=====Conjugation=====
+{{ja-suru|いちげん}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=kun|ひと|こと}}
+Compound of {{compound|lang=ja|sort=ひとこと|一|tr1=hito|t1=one|言|tr2=koto|t2=word, speech}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|ひとこと|y=kun|dev=1|acc=2|acc_ref=NHK,DJR}}
+
+====Noun====
+{{ja-noun|ひとこと}}
+
+# a (single) [[word]], a few words
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|一言多い|ひとこと おおい}}: “a word [too] many” → to [[say too much]], to say something better left [[unsaid]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[ko:一言]]
+[[mg:一言]]
+[[zh:一言]]

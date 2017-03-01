@@ -1,0 +1,56 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=06|sn=9|four=44127|canj=GKMS|ids=⿰土夸}}
+
+# be [[defeated]], [[fail]], [[collapse]]
+
+====References====
+* {{Han ref|kx=0228.291|hdz=10438.030|uh=57AE|ud=22446|bh=ABB1|bd=43953}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kuǎ
+|c=kwaa1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|垮臺|打垮|拖垮|累垮}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khoai]]|rs=土06}}
+
+# {{defn|lang=vi|sort=土06}}
+
+[[fr:垮]]
+[[hu:垮]]
+[[mg:垮]]
+[[no:垮]]
+[[pl:垮]]
+[[th:垮]]
+[[zh:垮]]

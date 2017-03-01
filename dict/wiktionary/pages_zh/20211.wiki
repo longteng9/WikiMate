@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=13|sn=17|four=96894|canj=FRRD|ids=⿰火喿}}
+
+# [[dry]], [[parched]], [[arid]]
+# quick-tempered
+
+====References====
+* {{Han ref|kx=0684.290|dkj=19467|dj=1097.060|hdz=32240.190|uh=71E5|ud=29157|bh=C0EA|bd=49386}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zào
+|c=cou3
+|h=pfs=châu
+|mn=qz,tw,xm,zz:sò/qz:sò͘
+|mn_note=sò/sò͘ - literary, sò - vernacular (Quanzhou)
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|乾燥|乾燥劑|乾燥器|乾燥機|乾燥氣候|乾燥箱|乾燥花|卬燥|口乾舌燥|口燥脣乾|天乾物燥|推燥居濕|暴燥|暴燥如雷|枯燥|枯燥無味|炙冰使燥|炮燥|熱燥|燠燥|燥不搭的|燥子|燥屎|燥溼|燥灼|燥熱|燥皮|燥脾|爆燥|爆燥如雷|肉燥|辣燥|高燥|鱉燥}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=火13}}
+
+# {{defn|lang=ja|sort=火13}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[かわく]] (kawaku)}}
+
+====Compounds====
+* [[乾燥]] (かんそう, kansou) : [[dry]]; [[arid]]; [[insipid]]; [[dehydrated]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=火13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[táo]], [[ráo]]|rs=火13}}
+
+# {{defn|vi}}
+
+[[zh-min-nan:燥]]
+[[fr:燥]]
+[[ko:燥]]
+[[hu:燥]]
+[[mg:燥]]
+[[ja:燥]]
+[[no:燥]]
+[[pl:燥]]
+[[th:燥]]
+[[chr:燥]]
+[[zh:燥]]

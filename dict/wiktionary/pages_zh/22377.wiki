@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=05|sn=10|four=25990|canj=HDDJ}}
+
+# fodder, horse feed
+# feed horse
+
+====References====
+* {{Han ref|kx=0851.270|dkj=24992|dj=1275.250|hdz=42597.060|uh=79E3|ud=31203|bh=AFB0|bd=44976}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mò
+|c=mut3,mut6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|勵兵秣馬|仰秣|厲兵秣馬|六馬仰秣|礪戈秣馬|秣馬|秣馬厲兵|秣陵|秣馬利兵|礪兵秣馬|訓兵秣馬|飼秣|飛糧輓秣|糧秣|選兵秣馬|芻秣}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=禾05}}
+
+# {{defn|lang=ja|sort=禾05}}
+
+====Readings====
+* {{ja-readings|on=[[まつ]] (matsu), [[ばつ]] (batsu)|kun=[[まぐさ]] (magusa), [[まぐさかう]] (magusakau)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=말|eumhun=|rv=mal|mr=mal|y=mal}}
+
+# {{defn|lang=ko|sort=禾05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mạt]]|rs=禾05}}
+
+# {{defn|lang=vi|sort=禾05}}
+
+[[fr:秣]]
+[[ko:秣]]
+[[hu:秣]]
+[[mg:秣]]
+[[ja:秣]]
+[[pl:秣]]
+[[th:秣]]
+[[zh:秣]]

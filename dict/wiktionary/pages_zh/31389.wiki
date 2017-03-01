@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|馁}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=184|rad=食|as=07|sn=16|four=82744|canj=OIBV}}
+
+# [[hungry]], [[starving]], [[famished]]
+
+====References====
+* {{Han ref|kx=1420.030|dkj=44163|dj=1945.030|hdz=74457.030|uh=9912|ud=39186|bh=BE6B|bd=48747}}
+
+----
+
+==Chinese==
+{{zh-forms|s=馁}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=něi
+|c=neoi5,noi5
+|h=pfs=
+|md=
+|mn=lóe
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=食07}}
+
+# {{defn|lang=ja|sort=食07}}
+
+====Readings====
+* {{ja-readings|goon=[[ない]] (nai)|kanon=[[だい]] (dai)|kun=[[うえる]] (ueru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=뇌|eumhun=|rv=noe|mr=noe|y=noy}}
+
+# {{defn|lang=ko|sort=食07}}
+
+[[fr:餒]]
+[[hu:餒]]
+[[mg:餒]]
+[[ja:餒]]
+[[pl:餒]]
+[[th:餒]]
+[[zh:餒]]

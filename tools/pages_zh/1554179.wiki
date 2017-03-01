@@ -1,0 +1,132 @@
+{{also|虾夷}}
+==Chinese==
+{{zh-forms|s=虾夷|alt=蝦蛦}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+{{bor|zh|ja|-}} {{ja-r|蝦夷|えみし}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xiāyí
+|c=haa1 ji4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# an ancient [[ethnic group]] living in eastern [[Japan]]; [[Emishi]]
+
+====Derived terms====
+{{zh-der|蝦夷蔥|蝦夷共和國}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Alternative forms===
+* {{l|ja|夷}}
+* {{l|ja|毛人}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|sort=えみし}}
+Possibly derived from the Ainu word ''emchiu'', from *emichiw "man, person".
+
+====Pronunciation====
+{{ja-pron|yomi=irr|えみし|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|えみし}}
+
+# an ancient ethnic group living in eastern Japan; likely equivalent to the [[w:Ainu|Ainu]]
+#* 720: [[w:Nihon Shoki|Nihon Shoki]] (page 205)
+#*: 又歌之曰 '''愛瀰詩'''烏 毗儾利 毛々那比苔 比苔破易陪廼毛 多牟伽 毛勢儒
+#* 720: [[w:Nihon Shoki|Nihon Shoki]] (page 297)
+#*: 武内宿禰自東國還之奏言、東夷之中、有日高見國。其國人、男女並椎結文身、爲人勇悍。是總曰'''蝦夷'''。亦土地沃壤而曠之。撃可取也。
+#* 720: [[w:Nihon Shoki|Nihon Shoki]] (page 300)
+#*: 今東國不安、暴神多起。亦'''蝦夷'''悉叛、屡略人民。遣誰人以平其亂。
+#* 720: [[w:Nihon Shoki|Nihon Shoki]] (page 303)
+#*: 其東夷之中、'''蝦夷'''是尤強焉。男女交居、父子無別。冬則宿穴、夏則住樔。衣毛飮血、昆弟相疑。登山如飛禽、行草如走獸。
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|荒蝦夷|あらえみし}}
+* {{ja-r|熟蝦夷|にきえみし}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|sort=えみす}}
+''emisi'' → ''emisu''.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|えみす}}
+
+====Noun====
+{{ja-noun|えみす}}
+
+# an ancient ethnic group living in eastern Japan; likely equivalent to the [[w:Ainu|Ainu]]
+
+===Etymology 3===
+{{ja-kanjitab|yomi=irr|sort=えびす}}
+''emisu'' → ''ebisu''.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|えびす}}
+
+====Noun====
+{{ja-noun|えびす}}
+
+# an ancient ethnic group living in eastern Japan; likely equivalent to the [[w:Ainu|Ainu]]
+
+===Etymology 4===
+{{ja-kanjitab|yomi=irr|sort=えぞ}}
+''emisi'' → ''emsi'' → ''emzo'' → ''ezo''.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|えぞ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|えぞ}}
+
+# an ancient ethnic group living in eastern Japan; likely equivalent to the [[w:Ainu|Ainu]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|赤蝦夷|あかえぞ}}
+* {{ja-r|蝦夷鼬|えぞいたち}}
+* {{ja-r|蝦夷岩魚|えぞいわな}}
+* {{ja-r|蝦夷狼|えぞ.おおかみ}}
+* {{ja-r|蝦夷管領|えぞかんれい}}
+* {{ja-r|蝦夷菊|えぞぎく}}
+* {{ja-r|蝦夷志|えぞし}}
+* {{ja-r|蝦夷鹿|えぞしか}}
+* {{ja-r|蝦夷菫|えぞすみれ}}
+* {{ja-r|蝦夷蝉|えぞぜみ}}
+* {{ja-r|蝦夷仙入|えぞせんにゅう}}, {{ja-r|蝦夷潜入|えぞせんにゅう}}
+* {{ja-r|蝦夷代官|えぞだいかん}}
+* {{ja-r|蝦夷地|^えぞち}}
+* {{ja-r|蝦夷錦|えぞしき}}
+* {{ja-r|蝦夷鰰|えぞはたはた}}: [[Pacific sandfish]]
+* {{ja-r|蝦夷鶲|えぞびたき}}
+* {{ja-r|蝦夷奉行|えぞぶぎょう}}
+* {{ja-r|蝦夷富士|^えぞふじ}}
+* {{ja-r|蝦夷松|えぞまつ}}
+* {{ja-r|蝦夷雷鳥|えぞらいちょう}}
+* {{ja-r|蝦夷若布|えぞわかめ}}
+* {{ja-r|北蝦夷|^きたえぞ}}
+{{der-bottom}}
+
+===References===
+<references/>
+:* {{cite-book
+|last=Sakamoto
+|first=Tarō
+|coauthors=Ienaga Saburō, Inoue Mitsusada, [[w:Ōno Susumu|Ōno Susumu]]
+|title=Nihon Koten Bungaku Taikei: Nihon Shoki (vol. 1)
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|year=1965
+|isbn=4-000-60067-2}}
+
+[[ja:蝦夷]]

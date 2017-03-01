@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=10|sn=15|four=27601|canj=HEMR|ids=⿱般石}}
+
+# [[large]] [[rock]], [[boulder]]
+# [[firm]]
+
+====References====
+* {{Han ref|kx=0834.330|dkj=24401|dj=1252.060|hdz=42448.040|uh=78D0|ud=30928|bh=BD59|bd=48473}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|般|石|t2=stone|c1=p|c2=s|ls=psc}} – a massive rock, a boulder.
+
+===Pronunciation===
+{{zh-pron
+|m=pán
+|c=pun4
+|mn=xm,zz:poân/qz:phoân/xm,zz,tw:pôaⁿ
+|mn_note=poân/phoân - literary; pôaⁿ - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|下磐|堅如磐石|泰山磐石|磐石|磐石之固|磐石縣|磐礴|落磐|風雨如磐}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=石10}}
+
+# {{defn|lang=ja|sort=石10}}
+
+====Readings====
+* {{ja-readings|on=[[はん]] (han), [[ばん]] (ban)|kun=[[いわ]] (iwa)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=반|eumhun=|rv=ban|mr=pan|y=pan}}
+
+# {{defn|lang=ko|sort=石10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bàn]]|rs=石10}}
+
+# {{defn|lang=vi|sort=石10}}
+
+[[fr:磐]]
+[[ko:磐]]
+[[hu:磐]]
+[[mg:磐]]
+[[ja:磐]]
+[[pl:磐]]
+[[th:磐]]
+[[zh:磐]]

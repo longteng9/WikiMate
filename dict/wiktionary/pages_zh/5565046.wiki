@@ -1,0 +1,41 @@
+{{also|银鲛}}
+==Chinese==
+{{zh-forms|s=银鲛}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=yínjiāo
+|c=ngan4 gaau1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{w|silver chimaera}}
+
+{{zh-cat|Fish}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぎん|さめ|r=y|k2=ざめ|yomi=j}}
+{{wikipedia|lang=ja|ギンザメ}}
+{{wikipedia|lang=ja|ギンザメ目}}
+
+===Etymology===
+{{compound|lang=ja|鋸|鮫|tr1=gin|t1=[[silver]]|tr2=same|t2=[[shark]]|sort=きんざめ'}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=j|ぎんざめ}}
+
+===Noun===
+{{ja-noun|ぎんざめ|ギンザメ}}
+
+# a {{w|silver chimaera}}
+
+====Synonyms====
+* {{ja-r|銀%鱶|ギン%ブカ}}
+
+[[Category:ja:Fish|きんざめ']]

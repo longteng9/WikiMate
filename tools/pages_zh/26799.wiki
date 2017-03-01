@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|觑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=147|rad=見|as=12|sn=19|four=26210|canj=YCBUU,YMBUU|ids=⿰虛見,⿰虚見}}
+
+# [[peep]] at
+# [[watch]], [[spy on]]
+
+====References====
+* {{Han ref|kx=1137.201|dkj=34969|hdz=63674.030|uh=89B7|ud=35255|bh=F2F3|bd=62195}}
+
+----
+
+==Chinese==
+{{zh-forms|s=觑}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qù
+|c=ceoi3
+|mn=chhù
+|mc=
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|可覷|廝覷|四目相覷|小覷|偷覷|相覷|看覷|照覷|監覷|打覷|觀覷|覷空|鷹覷鶻望|面面相覷|覷付|覷眼|覷當|覷絕|閒覷|覷個意順|覷步|面面廝覷}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=見12}}
+
+# {{defn|lang=ja|sort=見12}}
+
+====Readings====
+* {{ja-readings|on=[[しゅ]] (shu), [[す]] (su), [[しょ]] (sho)|kun=[[うかがう]] (ukagau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=처|eumhun=|rv=cheo|mr=ch'ŏ|y=che}}
+
+# {{defn|lang=ko|sort=見12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thứ]]|rs=見12}}
+
+# {{defn|lang=vi|sort=見12}}
+
+[[fr:覷]]
+[[hu:覷]]
+[[pl:覷]]
+[[th:覷]]
+[[zh:覷]]

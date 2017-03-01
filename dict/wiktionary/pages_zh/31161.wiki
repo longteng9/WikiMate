@@ -1,0 +1,91 @@
+{{character info/new}}
+{{also|颈}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=181|rad=頁|as=07|sn=16|four=11186|canj=MMMBC|ids=⿰巠頁}}
+
+====References====
+* {{Han ref|kx=1405.140|dkj=43515|dj=1922.190|hdz=74373.070|uh=9838|ud=38968|bh=C056|bd=49238}}
+
+----
+
+==Chinese==
+{{zh-forms|s=颈}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|巠|頁|ls=psc|c1=p|c2=s|t2=body part}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jǐng,gěng
+|m_note=gěng - only used in some colloquial words ([[脖頸兒]])
+|c=geng2
+|c-t=giang2
+|h=pfs=kiáng
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[neck]] {{zh-mw|c:條}}
+#: {{zh-x|我 條 頸 好 痕。|My '''neck''' is itchy.|C}}
+
+====Synonyms====
+{{zh-dial|脖子}}
+
+===Compounds===
+{{zh-der|交頸|伸頭縮頸|係頸|係頸闕庭|刎頸|刎頸之交|刎頸交|刎頸至交|子宮頸|子宮頸炎|子宮頸癌|延頸|延頸企踵|延頸待刃|延頸舉踵|弔頸|引頸|引頸受戮|引頸受死|引頸就戮|引頸翹望|扭頭折頸|斑頸鳩|曲頸甑|燕頷虎頸|瓶頸|突破瓶頸|粉頸酥胸|縊頸|繫頸|脖頸兒|脖頸子|長頸鳥喙|長頸鹿|頭頸|頸動脈|頸動脈竇|頸椎|頸聯|頸肌|頸血|頸部|頸靜脈|頸項|鴛鴦折頸}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=頁07}}
+
+====Readings====
+* {{ja-readings|goon=[[きょう]] (kyō), [[ぎょう]] (gyō)|kanon=[[けい]] (kei)|kun=[[くび]] (kubi)}}
+
+===Noun===
+{{ja-noun|くび}}
+
+# {{alternative form of|首|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|eumhun=|rv=gyeong|mr=kyŏng|y=kyeng}}
+
+# {{defn|lang=ko|sort=頁07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nghỉnh]], [[cảnh]]|rs=頁07}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:頸]]
+[[fr:頸]]
+[[ko:頸]]
+[[lo:頸]]
+[[lt:頸]]
+[[hu:頸]]
+[[mg:頸]]
+[[ja:頸]]
+[[pl:頸]]
+[[th:頸]]
+[[chr:頸]]
+[[zh:頸]]

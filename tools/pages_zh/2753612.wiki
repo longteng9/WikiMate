@@ -1,0 +1,51 @@
+{{also|语感}}
+==Chinese==
+{{zh-forms|s=语感}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǔgǎn
+|c=jyu5 gam2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[Sprachgefühl]]; [[one]]'s [[instinctive]] [[feel]] [[for]] a [[language]]; [[one]]'s [[intuitive]] [[sense]] of a [[language]]
+
+====Descendants====
+{{CJKV|語感|ごかん|어감|ngữ cảm}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ご|かん|yomi=o}}
+
+===Noun===
+{{ja-noun|ごかん}}
+
+# [[Sprachgefühl]]: a [[sense]] of [[language]].
+#: {{ja-usex|著者とは言うのに、'''語感'''はなかなか鈍いさ。|ちょしゃ と は いう のに、 '''ごかん''' は なかなか にぶい さ。|He may be an author, but his '''sense of the language''' / '''command of nuance''' is really lacking.}}
+# The [[nuance]] of a [[word]]; the [[feeling]] of a word; the [[feel]] of a word.
+
+===References===
+* {{cite-web
+|url=http://kotobank.jp
+|title=語感
+|work=Kotobank
+|language=Japanese
+|accessdate=2011-08-19}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=어감}}
+
+# {{hanja form of|어감|Sprachgefühl}}
+
+[[ko:語感]]
+[[zh:語感]]

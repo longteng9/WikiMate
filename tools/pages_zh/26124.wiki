@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|猬}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=09|sn=15|four=56127|canj=LIWB}}
+
+# [[hedgehog]]
+
+====References====
+* {{Han ref|kx=1090.040|dkj=33287|dj=1556.020|hdz=42870.060|uh=875F|ud=34655|bh=E7B3|bd=59315}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=wai6|y=wai6|sim=猬}}
+
+# {{defn|lang=yue|sort=虫09}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫09}}
+
+# {{defn|lang=ja|sort=虫09}}
+
+====Readings====
+* {{ja-readings|goon=[[い]] (i)|kanon=[[い]] (i)|kun=[[はりねずみ]] (harinezumi)}}
+
+===Etymology===
+{{ja-kanjitab|はりねずみ|yomi=k}}
+{{compound|lang=ja|sort=はりねずみ|針|tr1=[[hari]]|t1=[[needle]]|鼠|tr2=[[nezumi]]|t2=[[mouse]], [[rat]] or the like}}
+
+===Pronunciation===
+{{ja-pron|はりねずみ|acc=3|acc_ref=NHK,DJR|y=k}}
+
+===Noun===
+{{ja-noun|はりねずみ|ハリネズミ}}
+
+# {{alternative spelling of|針鼠|lang=ja}}: [[hedgehog]]
+
+===References===
+<references/>
+
+[[Category:ja:Erinaceids|はりねずみ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=위|eumhun=|rv=wi|mr=wi|y=wi}}
+
+# {{defn|lang=ko|sort=虫09}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|sim=猬|pin=[[wèi]] ([[wei4]])|wg=wei<sup>4</sup>}}
+
+# {{defn|lang=cmn|sort=虫09}}
+
+[[fr:蝟]]
+[[lt:蝟]]
+[[hu:蝟]]
+[[mg:蝟]]
+[[ja:蝟]]
+[[pl:蝟]]
+[[ro:蝟]]
+[[sv:蝟]]
+[[th:蝟]]
+[[zh:蝟]]

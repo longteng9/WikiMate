@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=05|sn=8|four=54031|canj=QGI|ids=⿰扌去}}
+
+# {{defn|Han|sort=手05}}
+
+====References====
+* {{Han ref|kx=0424.090|dkj=11931|dj=0772.050|hdz=31848.020|uh=62BE|ud=25278|bh=CCB6|bd=52406}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=}}
+
+===Alternative forms===
+* {{qualifier|Min Nan}} {{zh-l|拾|tr=-}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiè,jié
+|c=keoi1
+|h=pfs=
+|md=
+|mn=khioh
+|mn-t=kioh8
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===See also===
+* {{zh-l|挈}}
+
+{{attention|zh|please check the entirety of this entry}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手05}}
+
+# {{defn|lang=ja|sort=手05}}
+
+====Readings====
+* {{ja-readings|on=[[きょ]] (kyo), [[こ]] (ko), [[きょう]] (kyō), [[こう]] (kō)|kun=[[とる]] (toru)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|khứa|rs=手05}}
+
+# {{defn|lang=vi|sort=手05}}
+
+[[zh-min-nan:抾]]
+[[fr:抾]]
+[[hu:抾]]
+[[pl:抾]]
+[[th:抾]]
+[[zh:抾]]

@@ -1,0 +1,43 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|トガリネズミ}}
+{{wikipedia|Shrew}}
+[[File:Neomys_anomalus.jpg|thumb|250px|{{lang|ja|尖鼠}} (''togari nezumi''): a '''[[shrew]]'''.]]
+</div>
+{{ja-kanjitab|とがり|ねずみ|yomi=k}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=とがりねずみ|尖り|tr1=togari|pos1=stem form of verb {{l|ja|尖る|tr=''togaru''}} “to be pointy or sharp”|鼠|tr2=nezumi|t2=mouse, rat}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|とがり ねずみ|acc=4|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|とがり ねずみ|トガリ ネズミ}}
+
+# {{lb|ja|zoology|sort=とがりねずみ}} a [[shrew]]
+
+====Usage notes====
+{{U:ja:biology|トガリネズミ}}
+
+===References===
+<references/>
+
+[[Category:ja:Animals|とがりねずみ]]
+[[Category:ja:Mammals|とがりねずみ]]
+[[Category:ja:Rodents|とがりねずみ]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=첨서}}
+
+# {{hanja form of|첨서|shrew}}
+
+[[cs:尖鼠]]
+[[fr:尖鼠]]
+[[pt:尖鼠]]
+[[ro:尖鼠]]

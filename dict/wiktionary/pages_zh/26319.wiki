@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|蛲}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=12|sn=18|four=54111|canj=LIGGU|ids=⿰虫堯}}
+
+# [[worms]]
+
+====References====
+* {{Han ref|kx=1098.100|dkj=33626|dj=1562.170|hdz=42889.050|uh=87EF|ud=34799|bh=C2CC|bd=49868}}
+
+----
+
+==Chinese==
+{{zh-forms|s=蛲}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|虫|堯|c1=s|c2=p|t1=worm|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=náo,ráo
+|c=jiu4,naau4
+|mn=giô/ngiau/ngiauh
+|mc=y
+|oc=y
+|cat=
+}}
+{{attention|zh|please check and/or split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|蟯蟲}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=虫12}}
+
+# {{defn|lang=ja|sort=虫12}}
+
+====Readings====
+{{ja-readings|goon=[[にょう]] (nyō)||kanon=[[じょう]] (jō)|kanyoon=[[ぎょう]] (gyō)}}
+
+====Compounds====
+* {{ja-r|蟯虫|ぎょうちゅう}}, {{ja-r|蟯虫|じょうちゅう|[[pinworm]]}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=요|eumhun=|rv=yo|mr=yo|y=yo}}
+
+# {{defn|lang=ko|sort=虫12}}
+
+[[zh-min-nan:蟯]]
+[[fr:蟯]]
+[[hu:蟯]]
+[[mg:蟯]]
+[[ja:蟯]]
+[[pl:蟯]]
+[[th:蟯]]
+[[zh:蟯]]

@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|贷}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=05|sn=12|four=23806|canj=OPBUC,XOPBU|ids=⿱代貝}}
+
+# [[lend]]
+# [[borrow]]
+# [[pardon]]
+
+====References====
+* {{Han ref|kx=1206.220|dkj=36709|dj=1670.010|hdz=63634.020|uh=8CB8|ud=36024|bh=B655|bd=46677}}
+
+----
+
+==Chinese==
+{{zh-forms|s=贷}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dài
+|c=tik1,taai3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=貝05}}
+
+# to [[lend]]
+
+====Readings====
+* {{ja-readings|goon=[[たい]] (tai)|kanon=[[たい]] (tai)|on=[[とく]] (toku)|kun=[[かす]] (kasu)}}
+
+====Derived terms====
+* {{ja-r|貸す|かす}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[대]], [[특]]|eumhun=|rv=dae, teuk|mr=tae, t'ŭk|y=tay, thuk}}
+
+# {{defn|lang=ko|sort=貝05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thải]], [[thãi]], [[thảy]], [[thẩy]]|rs=貝05}}
+
+# {{defn|lang=vi}}
+
+[[fr:貸]]
+[[ko:貸]]
+[[hu:貸]]
+[[mg:貸]]
+[[ja:貸]]
+[[pl:貸]]
+[[th:貸]]
+[[chr:貸]]
+[[zh:貸]]

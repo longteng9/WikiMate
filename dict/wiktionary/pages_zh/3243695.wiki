@@ -1,0 +1,45 @@
+{{also|构筑}}
+==Chinese==
+{{zh-forms|s=构筑}}
+
+===Pronunciation===
+{{zh-pron
+|m=gòu筑
+|c=gau3 zuk1,kau3 zuk1
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[construct]]; to [[build]]
+
+===Derived terms===
+{{zh-der|構築物}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|ちく|yomi=on}}
+
+===Noun===
+{{ja-noun|こうちく}}
+
+# [[construction]], [[building]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|こうちく}}
+
+# [[build]]
+#: {{ja-usex|施設を構築する|しせつ を こうちく する|build a facility}}
+
+====Conjugation====
+{{ja-suru|こうちく}}
+
+[[ko:構築]]
+[[hu:構築]]
+[[mg:構築]]
+[[ja:構築]]
+[[sh:構築]]
+[[chr:構築]]
+[[zh:構築]]

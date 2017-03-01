@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|扬}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=09|sn=12|four=56027|canj=QAMH|ids=⿰扌昜}}
+
+# [[scatter]], [[spread]]
+# [[praise]]
+
+====References====
+* {{Han ref|kx=0442.080|dkj=12355|dj=0793.100|hdz=31914.110|uh=63DA|ud=25562|bh=B4AD|bd=46253}}
+
+----
+
+==Chinese==
+{{zh-forms|s=扬}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|昜|c1=s|c2=p|t1=hand|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yáng
+|c=joeng4
+|h=pfs=
+|md=
+|mn=qz,tw,xm:iông/zz:iâng/qz,tw,xm:chhiûⁿ/zz:chhiôⁿ
+|mn_note=iông/iâng - literary; chhiûⁿ/chhiôⁿ - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=手09}}
+
+# {{defn|lang=ja|sort=手09}}
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō)|kun=[[あげる]] (ageru), [[あがる]] (agaru), [[あげ]] (age)}}
+
+====Derived terms====
+* {{ja-r|唐揚げ|から.あげ}}
+* {{ja-r|空揚げ|から.あげ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=양|eumhun=오를 양, 날릴 양|rv=yang|mr=yang|y=yang}}
+
+# {{defn|lang=ko|sort=手09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dương]], [[dang]], [[dàng]], [[giàng]], [[dâng]], [[duồng]], [[nhàng]]|rs=手09}}
+
+# {{defn|lang=vi|sort=手09}}
+
+[[fr:揚]]
+[[ko:揚]]
+[[hu:揚]]
+[[ja:揚]]
+[[pl:揚]]
+[[th:揚]]
+[[zh:揚]]

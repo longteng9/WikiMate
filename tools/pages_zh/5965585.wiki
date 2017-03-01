@@ -1,0 +1,25 @@
+==Chinese==
+{{zh-forms|gloss=-}}
+
+===Etymology===
+Ultimately from {{bor|zh|km|ខ្មែរ|notext=1}}, perhaps via {{der|zh|th|เขมร||[[Khmer]]}}.
+
+===Pronunciation===
+{{zh-pron
+|m=Gāomián
+|c=gou1 min4
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# [[Cambodia]]; [[Kampuchea]]; [[Khmer]]
+#: {{zh-x|^紅色 ^高棉|Khmer Rouge}}
+#: {{zh-x|高棉語|Khmer (language)}}
+
+===See also===
+* {{zh-l|柬埔寨}}
+
+[[km:高棉]]
+[[zh:高棉]]

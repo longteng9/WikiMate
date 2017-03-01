@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|颍}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=11|sn=15|four=21286|canj=PEMBC|ids=⿰⿱匕水頁}}
+
+# river in Anhui
+
+====References====
+* {{Han ref|kx=0648.110|dkj=18188|dj=1058.040|hdz=74369.070|uh=6F41|ud=28481|bh=E5F9|bd=58873}}
+
+----
+
+==Chinese==
+{{zh-forms|s=颍}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|頃|c1=s|c2=p|t1=river|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yǐng
+|c=wing6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|潁川|潁水|潁河|潁考叔|潁陽|箕潁}}
+
+===References===
+* {{R:twedu|B02261}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水11}}
+
+# {{defn|lang=ja|sort=水11}}
+
+====Readings====
+* {{ja-readings|on=[[えい]] (ei)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=영|eumhun=강이름 영|rv=yeong|mr=yŏng|y=yeng}}
+
+# {{defn|lang=ko|sort=水11}}
+
+[[fr:潁]]
+[[hu:潁]]
+[[ja:潁]]
+[[pl:潁]]
+[[th:潁]]
+[[zh:潁]]

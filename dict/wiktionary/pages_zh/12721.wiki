@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=12|sn=15|four=68046|canj=RTWI|ids=⿰口尊}}
+
+====References====
+* {{Han ref|kx=0208.060|dkj=04286|dj=0431.030|hdz=10686.050|uh=5642|ud=22082|bh=E4F7|bd=58615}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|口|尊|c1=s|t1=mouth|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zǔn
+|c=zyun2
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[talk]] [[together]]
+
+====Compounds====
+{{zh-der|噂噆|噂議|噂沓|噂噂}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=口12}}
+
+====Readings====
+* {{ja-readings|on=[[そん]] (son)|kun=[[うわさ]] (uwasa)}}
+
+===Noun===
+{{ja-noun|うわさ}}
+
+# [[rumor]], [[gossip]]
+
+====Derived terms====
+* {{ja-r|うわさ を すれば}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=준|rv=jun|mr=chun}}
+
+# {{defn|lang=ko|sort=口12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ton]]|rs=口12}}
+
+# {{defn|lang=vi|sort=口12}}
+
+[[fr:噂]]
+[[lo:噂]]
+[[lt:噂]]
+[[li:噂]]
+[[mg:噂]]
+[[ja:噂]]
+[[pl:噂]]
+[[sv:噂]]
+[[th:噂]]
+[[chr:噂]]
+[[zh:噂]]

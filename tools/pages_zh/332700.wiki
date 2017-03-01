@@ -1,0 +1,10 @@
+==Japanese==
+{{ja-kanjitab|にゅう|じ|すう|yomi=o}}
+
+===Etymology===
+[[入]]([[in]]) + [[次数]]([[degree]])
+
+===Noun===
+{{ja-noun|にゅうじすう}}
+
+# {{lb|ja|graph theory|sort=にゅうじすう}} [[indegree]]

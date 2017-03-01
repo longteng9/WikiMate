@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms|s=参考书|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=cānkǎoshū
+|c=caam1 haau2 syu1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[reference book]] {{gloss|book providing factual information}}
+
+====Synonyms====
+* {{zh-l|工具書}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|さん|こう|しょ|yomi=o}}
+
+===Noun===
+{{ja-noun|さんこうしょ|shin=参考書}}
+
+# [[reference book]] {{gloss|book providing factual information}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=참고서}}
+
+# {{hanja form of|참고서|reference book}}
+
+[[ko:參考書]]

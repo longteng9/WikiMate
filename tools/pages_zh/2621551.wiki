@@ -1,0 +1,57 @@
+{{also|监禁}}
+==Chinese==
+{{zh-forms|s=监禁}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiānjìn
+|c=gaam1 gam3
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[imprison]]; to [[confine]]; to [[take]] into [[custody]]
+
+===Noun===
+{{zh-noun}}
+
+# [[imprisonment]]; [[confinement]]; custody
+#: {{zh-x|單獨 監禁|solitary '''confinement'''}}
+
+====Synonyms====
+* {{zh-l|關押}}
+* {{zh-l|下獄}}
+* {{zh-l|囚禁}}
+
+====Derived terms====
+{{zh-der|終身監禁}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|きん|y=o}}
+
+===Pronunciation===
+{{ja-pron|かんきん|y=o}}
+
+===Noun===
+{{ja-noun|かんきん}}
+
+# [[imprisonment]], [[captivity]], [[confinement]], [[detention]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|かんきん}}
+
+# [[confine]], [[imprison]], [[keep]] in confinement
+#: {{ja-usex|檻に入れて監禁する|おり に いれて かんきん する|confine in a cage}}
+
+====Conjugation====
+{{ja-suru|かんきん}}
+
+[[zh-min-nan:監禁]]
+[[ko:監禁]]
+[[hu:監禁]]
+[[mg:監禁]]
+[[zh:監禁]]

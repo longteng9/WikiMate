@@ -1,0 +1,93 @@
+{{character info/new}}
+{{also|麄|麤|眯}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=119|rad=米|as=05|sn=11|four=97910|canj=FDBM|ids=⿰米且}}
+
+====References====
+* {{Han ref|kx=0907.370|dkj=26898|dj=1333.210|hdz=53144.130|uh=7C97|ud=31895|bh=B2CA|bd=45770}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cū
+|ma=Zh-cu.ogg
+|c=cou1
+|h=pfs=chhû
+|md=
+|mn=chho͘
+|w=
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[coarse]], [[rough]]
+# [[vulgar]], [[rude]], [[crude]]
+# [[thick]]; [[heavy]]; [[bulky]] (especially of cylindrical objects)
+
+===References===
+* {{cite-web
+|url=http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=粗
+|title=粗
+|work=MDBG English to Chinese dictionary ( Based on CC-CEDICT )
+|language=Mandarin/English
+|accessdate=2014-03-12}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=米05}}
+
+# {{defn|lang=ja|sort=米05}}
+
+====Readings====
+* {{ja-readings|goon=[[す]] (su)|kanon=[[そ]] (so)|kun=[[あらい]] (arai), [[ほぼ]] (hobo)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|粗景|そけい}}: [[gift]]
+* {{ja-r|粗糙|そそう}}: [[coarseness]], [[roughness]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=米05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thô]], [[sồ]], [[to]], [[xồ]]|rs=米05}}
+
+# {{defn|lang=vi}}
+
+[[fr:粗]]
+[[ko:粗]]
+[[hu:粗]]
+[[mg:粗]]
+[[ja:粗]]
+[[no:粗]]
+[[pl:粗]]
+[[fi:粗]]
+[[th:粗]]
+[[zh:粗]]

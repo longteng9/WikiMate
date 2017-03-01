@@ -1,0 +1,99 @@
+{{character info/new}}
+{{also|句}}
+==Translingual==
+
+===Etymology===
+Variant/corruption of [[句]], via 口 → 厶. In present form {{Han compound|勹|t1=hook|厶}}.
+
+Also {{Han simp|冓}} in [[购]] (from [[購]]) and [[沟]] (from [[溝]]).
+
+===Han character===
+{{Han char|rn=20|rad=勹|as=02|sn=4|four=27720|canj=PI|ids=⿹勹厶}}
+
+====Derived characters====
+* [[鈎]] ([[钩]]) (from [[鉤]]) {{qualifier|as variant of [[句]]}}
+* [[沟]] (from [[溝]]) [[购]] (from [[購]]) {{qualifier|as simplified form of [[溝]]}}
+
+====References====
+* {{Han ref|kx=0150.230|dkj=02500|dj=0339.130|hdz=10256.030|uh=52FE|ud=21246|bh=A4C4|bd=42180}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=gōu
+|c=gau1,au1,ngau1
+|mn=kau
+|mc=
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[hook]], [[join]], [[connect]]
+# [[draw]], [[delineate]]
+# to [[tick]]
+# [[collude]]
+# [[strike out]], [[cross out]]
+# [[entice]], [[induce]], [[attract]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=gòu
+|cat=pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{surname|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=勹02}}
+
+# {{defn|lang=ja|sort=勹02}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[のぞく]] (nozoku), [[まがる]] (magaru), [[かぎ]] (kagi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[구]], [[귀]]|rv=gu, gwi|mr=ku, kwi}}
+
+# {{defn|lang=ko|sort=勹02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[câu]], [[cấu]], [[cú]]|rs=勹02}}
+
+# {{defn|lang=vi|sort=勹02}}
+
+[[zh-min-nan:勾]]
+[[fr:勾]]
+[[ko:勾]]
+[[li:勾]]
+[[hu:勾]]
+[[mg:勾]]
+[[ms:勾]]
+[[ja:勾]]
+[[no:勾]]
+[[pl:勾]]
+[[th:勾]]
+[[vi:勾]]
+[[zh:勾]]

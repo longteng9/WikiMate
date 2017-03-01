@@ -1,0 +1,27 @@
+{{also|单数}}
+
+==Japanese==
+{{ja-kanjitab|たん|すう|yomi=o}}
+
+===Noun===
+{{ja-noun|たんすう|kyu=單數}}
+
+# [[singularity]], there being only one of something
+# {{lb|ja|grammar|sort=たんすう}} the [[singular]] [[number]]
+
+====Antonyms====
+* {{ja-r|複数|ふくすう|plural number}}
+
+====Derived terms====
+* {{ja-r|単数形|たんすうけい|singular form}}
+
+===See also===
+* {{ja-r|単複|たんぷく}}
+
+===References===
+* {{R:Meikyo}}
+
+[[it:単数]]
+[[hu:単数]]
+[[ja:単数]]
+[[zh:単数]]

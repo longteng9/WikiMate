@@ -1,0 +1,89 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=réndào
+|c=jan4 dou6
+|mn=zz,kh:jîn-tō/xm,tp:lîn-tō/qz:lîn-tǒ͘
+|cat=n,a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[humane]]
+# [[humanitarian]]
+
+====Derived terms====
+{{zh-der|人道主義}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Buddhism}} [[humanity]]; [[human]] [[realm]]
+# [[ethics]]; [[morality]]
+# [[human]] [[sympathy]]
+# [[sexual intercourse]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|じん|どう|yomi=on}}
+
+From ''jin'' ([[人]], [[people]], [[mankind]]) + ''dō'' ([[道]], the [[way]] of moral conduct, moral [[principles]], [[morality]], [[truth]])
+
+====Noun====
+{{ja-noun|じんどう}}
+
+# [[humanity]]
+# [[sidewalk]], [[footpath]]
+
+=====Compounds=====
+{{der-top}}
+* [[人道的]] ([[じんどうてき]], jindōteki): [[humane]]
+* [[人道作戦]] (jindōsakusen): humanitarian operation
+* [[人道支援]] (jindōshien): humanitarian aid
+* [[人道主義]] (jindōshugi): humanism
+* [[人道蹂躙]] (jindōjūrin): outrage against humanity
+{{der-mid}}
+* [[人道主義者]] (jindōshugisha): a humanitarian
+* [[人道的援助]] (jindōtekienjo): humanitarian aide
+* [[人道犯罪]] (jindōhanzai): crime against humanity
+* [[人道に対する罪]] (jindō ni tai suru tsumi): crime against humanity
+* [[天理人道]] (tenrijindō): the laws of nature and humanity
+* [[非人道的]] (hijindōteki): inhumane
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|にん|どう|yomi=on}}
+From ''nin'' ([[人]], [[people]], [[mankind]]) + ''dō'' ([[道]], [[plane]] of [[existence]])
+
+====Noun====
+{{ja-noun|にんどう}}
+
+# {{lb|ja|Buddhism|sort=にんどう}} Life as a human: one of the six [[plane]]s or [[domain]]s of existence in the cycle of [[samsara]].
+
+=====See also=====
+* {{l|ja|六道}}
+* {{pedialite|Desire realm}} (containing the six planes of existence)
+* {{pedialite|Buddhism}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=인도}}
+
+# {{hanja form of|인도|[[humanity]]; [[sidewalk]], [[footpath]]}}
+
+[[zh-min-nan:人道]]
+[[ko:人道]]
+[[hu:人道]]
+[[ja:人道]]
+[[pt:人道]]
+[[zh:人道]]

@@ -1,0 +1,27 @@
+==Japanese==
+{{ja-kanjitab|けん|そう|yomi=on}}
+
+===Alternative forms===
+* {{l|ja|喧噪}}
+* {{l|ja|諠譟}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|けんそう}}
+
+# [[noisy]], [[chaotic]], [[clamorous]]
+
+====Inflection====
+{{ja-na|けんそう}}
+
+===Noun===
+{{ja-noun|けんそう}}
+
+# [[noise]], [[chaos]], [[bustle]]
+#: {{ja-usex|都会の'''喧騒'''を離れてのんびりした。|とかい の '''けんそう''' を はなれて のんびり した。|We left the chaos of the city and relaxed.}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[mg:喧騒]]
+[[ja:喧騒]]
+[[sv:喧騒]]

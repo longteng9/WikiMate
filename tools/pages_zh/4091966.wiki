@@ -1,0 +1,54 @@
+{{also|鼓动}}
+==Chinese==
+{{zh-forms|s=鼓动}}
+
+===Pronunciation===
+{{zh-pron
+|m=gǔdòng
+|c=gu2 dung6
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[inspire]], to [[urge]]
+# to [[instigate]], to [[incite]]
+
+===Noun===
+{{zh-noun}}
+
+# (in Japanese contexts) [[beating]], [[pounding]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|こ|どう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|こどう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|こどう}}
+
+# [[beating]], [[pounding]]
+
+===Verb===
+{{ja-verb-suru|こどう}}
+
+# beat, pound
+#* {{RQ:I am a cat}}:
+#*: {{ja-usex|心臓はたしかに平時よりも烈しく鼓動しておった。|しんぞう は たしか に へいじ より も はげしく こどう して おった。|My heart was beating much harder than normal.}}
+
+====Conjugation====
+{{ja-suru|こどう}}
+
+===References===
+<references/>
+
+[[ko:鼓動]]
+[[hu:鼓動]]
+[[mg:鼓動]]
+[[ja:鼓動]]
+[[sv:鼓動]]
+[[zh:鼓動]]

@@ -1,0 +1,30 @@
+==Japanese==
+{{ja-kanjitab|しゅつ|がん|yomi=on}}
+
+===Pronunciation===
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|/sjutsuɡaɴ/|[ɕʲɯᵝt͡sɯᵝɡã̠ɴ]|[ɕʲɯᵝt͡sɯ̥ᵝɡã̠ɴ]}}
+
+===Noun===
+{{ja-noun|しゅつがん|hhira=しゅつぐゎん}}
+
+# an [[application]] {{qualifier|a verbal or written request}}
+
+====Derived terms====
+* {{ja-r|出願期日|しゅつがん きじつ}}: an application [[deadline]]
+* {{ja-r|出願者|しゅつがんしゃ}}: an [[applicant]]
+* {{ja-r|出願公告|しゅつがん こうこく}}: [[publication]] of an [[examined]] [[patent]] application
+* {{ja-r|特許出願中|とっきょ しゅつがんちゅう}}: [[patent pending]]
+
+===Verb===
+{{ja-verb-suru|しゅつがん|hhira=しゅつぐゎん}}
+
+# to [[apply]], to [[make]] or [[file]] an application
+
+====Conjugation====
+{{ja-suru|しゅつがん}}
+
+[[mg:出願]]
+[[ja:出願]]
+[[chr:出願]]
+[[zh:出願]]

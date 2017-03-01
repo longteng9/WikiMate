@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|芗}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=13|sn=19|four=44227|canj=TVHL}}
+
+# fragrant smell of grain
+# [[aromatic]]
+
+====References====
+* {{Han ref|kx=1060.290|dkj=32100|dj=1524.170|hdz=53287.010|uh=858C|ud=34188|bh=EB52|bd=60242}}
+
+----
+
+==Chinese==
+{{zh-forms|s=芗}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiāng
+|c=hoeng1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|薌劇|薌澤|薌萁}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸13}}
+
+# {{defn|lang=ja|sort=艸13}}
+
+====Readings====
+* {{ja-readings|on=[[きょう]] (kyō), [[こう]] (kō)|kun=[[こくもつ]] (kokumotsu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=향|eumhun=|rv=hyang|mr=hyang|y=hyang}}
+
+# {{defn|lang=ko|sort=艸13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hương]]|rs=艸13}}
+
+# {{defn|lang=vi|sort=艸13}}
+
+[[fr:薌]]
+[[ko:薌]]
+[[hu:薌]]
+[[pl:薌]]
+[[th:薌]]
+[[zh:薌]]

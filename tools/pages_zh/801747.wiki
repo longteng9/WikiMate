@@ -1,0 +1,30 @@
+{{also|橫笛}}
+==Chinese==
+{{zh-see|橫笛}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|よこ|ふえ|k2=ぶえ|yomi=k|r=y}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=よこぶえ|横|tr1=yoko|t1=sideways; horizontal|笛|tr2=fue|t2=flute}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> {{rendaku2|sort=よこぶえ|fue|bue}}
+
+Compare {{m|ja|縦笛|tr=tatebue}}, which refers to an end-blown flute held vertically.
+
+===Pronunciation===
+{{ja-pron|yomi=k|よこぶえ|acc=0|acc_ref=DJR|acc2=3|acc2_ref=DJR}}
+
+===Noun===
+{{ja-noun|よこぶえ}}
+
+# a [[transverse]] [[flute]]
+# more specifically, a kind of bamboo transverse flute used to play traditional Japanese court music
+
+===References===
+<references/>
+
+[[Category:ja:Musical instruments|よこぶえ]]
+
+[[hu:横笛]]
+[[zh:横笛]]

@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=04|sn=7|four=51012|canj=QMSU|ids=⿰扌厄}}
+
+# [[grasp]], [[clutch]]
+# [[choke]], [[strangle]]
+
+====References====
+* {{Han ref|kx=0419.150|dkj=11848|dj=0766.070|hdz=31834.100|uh=627C|ud=25212|bh=A7E3|bd=42979}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=è
+|c=ak1,aak1
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|令人扼腕|偏袒扼腕|扼制|扼吭|扼吭拊背|扼喉撫背|扼守|扼殺|扼腕|扼臂|扼虎|扼要|拊背扼喉|撫背扼喉|攘袂扼腕|簡明扼要}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手04}}
+
+# {{defn|lang=ja|sort=手04}}
+
+====Readings====
+* {{ja-readings|on=[[あく]] (aku), [[やく]] (yaku)|kun=[[おさえる]] (osaeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=액|eumhun=|rv=aek|mr=aek|y=ayk}}
+
+# {{defn|lang=ko|sort=手04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''扼''' ([[ách]])
+
+# {{defn|vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:扼]]
+[[ko:扼]]
+[[li:扼]]
+[[hu:扼]]
+[[mg:扼]]
+[[ja:扼]]
+[[no:扼]]
+[[pl:扼]]
+[[pt:扼]]
+[[th:扼]]
+[[zh:扼]]

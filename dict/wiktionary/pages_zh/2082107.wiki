@@ -1,0 +1,84 @@
+{{also|幸运}}
+==Chinese==
+{{zh-forms|s=幸运}}
+
+===Pronunciation===
+{{zh-pron
+|m=xìngyùn
+|c=hang6 wan6
+|h=pfs=hen-yun
+|mn=qz:hěng-ūn/tw,xm,zz:hēng-ūn
+|ma=Zh-xìngyùn.ogg
+|cat=a,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[lucky]]; [[fortunate]]
+#: {{zh-x|我 覺得{de} 我 很 幸運。|I feel I am very '''fortunate'''.}}
+
+===Noun===
+{{zh-noun}}
+
+# [[good luck]]
+
+====Synonyms====
+* {{zh-l|好運}}
+* {{zh-l|機緣}}
+* {{zh-l|造化|tr=zàohua}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|うん|yomi=on}}
+
+===Etymology===
+{{IPAchar|/kauun/}} → {{IPAchar|/kɔːun/}} → {{IPAchar|/koːun/}}
+
+Probably from {{etyl|ltc|ja|sort=こううん}} compound {{m|zh|幸運|tr=hɛng<sup>X</sup> hjun<sup>H</sup>|lit=lucky fortune}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kan|こう&#8203;うん|acc=0|acc_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|好運}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|こううん|hhira=かううん}}
+
+# [[lucky]], [[fortunate]]
+
+====Inflection====
+{{ja-na|こううん}}
+
+===Noun===
+{{ja-noun|こううん|hhira=かううん}}
+
+# [[luck]]; [[good luck]]; [[good]] [[fortune]]
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[행운]]|eumhun=|rv=haeng-un|mr=haeng'un|y=hayng.wun}}
+
+# {{hanja form of|행운|[[luck]]; [[good luck]]; [[good]] [[fortune]]}}
+
+[[zh-min-nan:幸運]]
+[[fr:幸運]]
+[[ko:幸運]]
+[[ku:幸運]]
+[[lt:幸運]]
+[[li:幸運]]
+[[hu:幸運]]
+[[mg:幸運]]
+[[ja:幸運]]
+[[chr:幸運]]

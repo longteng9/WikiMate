@@ -1,0 +1,102 @@
+{{character info/new}}
+{{also|劲}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=19|rad=力|as=07|sn=9|four=14127|canj=MMKS|ids=⿰巠力}}
+
+# [[strong]], [[unyielding]], [[tough]], [[powerful]]
+
+====References====
+* {{Han ref|kx=0147.250|dkj=02349|dj=0332.060|hdz=10371.040|uh=52C1|ud=21185|bh=AB6C|bd=43884}}
+
+----
+
+==Chinese==
+{{zh-forms|s=劲}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìn,jìng,er=y
+|c=ging3,ging6
+|h=pfs=
+|md=
+|mn=kèng/kēng
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[powerful]]; [[strong]]
+# [[vigorous]]; with [[energy]]; [[lively]]
+# {{rfdef|zh}} {{zh-mw|m:股}}
+
+====Derived terms====
+{{der-top3}}
+* jìn
+* jìng
+** [[劲力]]
+** [[劲吹]]
+** [[劲头]], [[劲头儿]]
+{{der-mid3}}
+** [[劲射]]
+** [[劲拔]]
+** [[劲敌]]
+** [[劲旅]]
+** [[劲气]]
+{{der-mid3}}
+** [[劲烈]]
+** [[劲秀]]
+** [[劲草]]
+** [[劲道]]
+** [[劲风]]
+{{der-bottom}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=力07}}
+
+# [[powerful|Powerful]], [[power]].<ref name="gakken">{{cite-book|year=2002|author=Akiyasu Tōdō [''et al.'']|title=漢字源|ISBN=978-4053008893|passage=勁 劤}}</ref>
+
+====Readings====
+* {{ja-readings|on=[[けい]] (kei)|kun=[[つよい]] (tsuyoi)}}
+
+====References====
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|rv=gyeong|mr=kyŏng}}
+
+# {{defn|lang=ko|sort=力07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kính]], [[cứng]], [[cánh]], [[kình]]|rs=力07}}
+
+# {{defn|lang=vi|sort=力07}}
+
+[[fr:勁]]
+[[ko:勁]]
+[[hu:勁]]
+[[ja:勁]]
+[[pl:勁]]
+[[th:勁]]
+[[zh:勁]]

@@ -1,0 +1,102 @@
+{{character info/new}}
+{{also|堇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=08|sn=14|four=44104|canj=TMLM}}
+
+# [[celery]], [[aconite]]
+
+====References====
+* {{Han ref|kx=1039.020|dkj=31207|dj=1497.100|hdz=53231.021|uh=83EB|ud=33771|bh=DB6A|bd=56170}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jǐn
+|c=gan2
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|三色菫|紫菫|非洲菫|菫菜}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸08}}
+
+# {{defn|lang=ja|sort=艸08}}
+
+====Readings====
+* {{ja-readings|kanon=[[きん]] (kin)|kun=[[すみれ]] (sumire)|goon=[[ごん]] (gon)}}
+
+===Etymology===
+{{wikipedia|lang=ja|スミレ科}}
+{{wikipedia|lang=ja|スミレ属}}
+{{wikipedia|lang=ja|スミレ}}
+
+===Pronunciation===
+{{ja-pron|acc=h|すみれ}}
+
+===Alternative forms===
+* {{ja-l|菫菜}}, {{ja-l|菫葵}}
+
+===Noun===
+{{ja-noun|すみれ|スミレ}}
+
+# a [[flowering plant]] of the [[family]] ''[[Violaceae]]''
+#* {{RQ:Wamyō Ruijushō|9|48}}
+#*: 菫菜 本草云、菫菜俗謂之菫葵、上音謹、'''須美禮'''
+#* 1617: Gennabon [[w:Kagakushū|Kagakushū]] (page 98)
+#*: 菫菜('''スミレ''')
+# a [[viola]] {{gloss|any of several flowering plants of the [[genus]] ''[[Viola]]''}}
+# a ''{{w|Viola mandshurica}}''
+
+====Derived terms====
+* {{l|ja|菫草}} (sumiregusa)
+* {{l|ja|菫色}} (sumireiro)
+* {{l|ja|菫科}} (sumireka)
+
+[[Category:ja:Malpighiales order plants|すみれ]]
+===References===
+* {{cite-book
+|last=Kamei
+|first=Takashi
+|title=[[wikipedia:Kagakushū|Kagakushū]]: Gennabon
+|publisher=Iwanami Shoten
+|date=1944
+|origyear=1617
+|location=Tōkyō
+}}
+* {{R:Wamyō Ruijushō}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=근|eumhun=|rv=geun|mr=kŭn|y=kun}}
+
+# {{defn|lang=ko|sort=艸08}}
+
+[[fr:菫]]
+[[hr:菫]]
+[[hu:菫]]
+[[mg:菫]]
+[[ja:菫]]
+[[pl:菫]]
+[[th:菫]]
+[[vi:菫]]
+[[zh:菫]]

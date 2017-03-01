@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|ひ|か|yomi=o}}
+
+===Etymology===
+{{suffix|ja|砒|tr1=hi|t1=arsenic|化|tr2=-ka|t2=-ate|sort=ひか}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|ひか}}
+
+===Noun===
+{{ja-noun|ひか}}
+
+# [[arsenication]]
+
+====Derived terms====
+* {{ja-r|砒化水素|ひか すいそ|[[arsine]]}}
+
+===Verb===
+{{ja-verb-suru|ひか}}
+
+# [[arsenicate]]
+
+====Conjugation====
+{{ja-suru|ひか}}

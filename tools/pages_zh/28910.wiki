@@ -1,0 +1,106 @@
+{{character info/new}}
+{{also|鬱}}
+==Translingual==
+
+===Alternative forms===
+* {{l|mul|鬱}} (different character in Japan and Traditional Chinese)
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|有|邑|c1=p|c2=s|ls=psc}}.
+
+===Han character===
+{{Han char|rn=163|rad=邑|as=06|sn=9|four=47227|canj=KBNL,XKBNL|ids=⿰有⻏}}
+
+====References====
+* {{Han ref|kx=1270.190|dkj=39371|dj=1769.170|hdz=63766.050|uh=90C1|ud=37057|bh=ADA7|bd=44455}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=yù
+|c=juk1
+|mn=qz,xm,zz:iok/qz,tw,xm,zz:hiok
+|mn_note=iok - literary; hiok - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[adorned]], [[elegant]]
+# [[sweet]] [[smelling]], [[rich]] in [[aroma]]
+
+====Compounds====
+{{zh-der|濃郁|醇郁|馥郁}}
+
+===Etymology 2===
+{{zh-see|鬱||depression}}
+
+===Etymology 3===
+{{zh-see|喐|v|Cantonese: to move}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=邑06}}
+
+# [[culture]], [[cultural]] [[progress]]
+# [[fragrance]], [[perfume]]
+
+====Readings====
+{{ja-readings
+|goon=[[いく]] (iku), {{qualifier|historical}} [[ゐく]] (wiku)
+|kanon=[[いく]] (iku), {{qualifier|historical}} [[ゐく]] (wiku)
+|kun=[[あきらか]] (akiraka), [[かぐわしい]] (kaguwashii), [[さかん]] (sakan)
+|nanori=[[あや]] (aya), [[い]] (i), [[か]] (ka), [[かぐわ]] (kaguwa), [[くに]] (kuni), [[かおる]] (kaoru), [[たかし]] (takashi), [[ふみ]] (fumi), [[ゆう]] (yū)
+}}
+
+===Proper noun===
+{{ja-pos|かおる|proper}}
+
+# {{given name|unisex|lang=ja|sort=かおる}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[욱]]|eumhun=|rv=uk|mr=uk|y=wuk}}
+
+# {{defn|lang=ko|sort=邑06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=邑06|hanviet=hóc}}
+
+# {{defn|lang=vi|sort=邑06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=90c1 Nom Foundation]
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+[[fr:郁]]
+[[li:郁]]
+[[hu:郁]]
+[[mg:郁]]
+[[ja:郁]]
+[[no:郁]]
+[[pl:郁]]
+[[th:郁]]
+[[zh:郁]]

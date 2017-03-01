@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|巤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=190|rad=髟|as=15|sn=25|four=72716|canj=SHVVV|ids=⿱髟巤}}
+
+# [[horse]]'s [[mane]]
+# [[fin]]
+# human [[whiskers]]
+
+====References====
+* {{Han ref|kx=1457.150|dkj=45613|dj=1988.350|hdz=74537.150|uh=9B23|ud=39715|bh=C663|bd=50787}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=liè
+|c=lip6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|長鬣|馬鬣|馬鬣封|馬鬣松|鬣狗|鬣蜥}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=9|rs=髟15}}
+
+# {{defn|lang=ja|sort=髟15}}
+
+====Readings====
+{{ja-readings|goon=[[りょう]] (ryō)|kanon=[[りょう]] (ryō)|kun=[[たてがみ]] (tategami)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|鬣犬|たてがみ.いぬ}}: [[hyena]]
+{{der-bottom}}
+
+{{ja-kanjitab|たてがみ|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|たてがみ|acc=0|acc_ref=DJR,NHK|acc2=2|acc2_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|たてがみ}}
+
+# [[mane]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[렵]]>[[엽]]|eumhun=|rv=ryeop>yeop|mr=ryŏp>yŏp|y=lyep>yep}}
+
+# {{defn|lang=ko|sort=髟15}}
+
+[[fr:鬣]]
+[[ko:鬣]]
+[[hu:鬣]]
+[[mg:鬣]]
+[[ja:鬣]]
+[[pl:鬣]]
+[[sv:鬣]]
+[[th:鬣]]
+[[zh:鬣]]

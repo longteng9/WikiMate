@@ -1,0 +1,35 @@
+==Chinese==
+{{zh-forms|type=22}}
+
+===Pronunciation===
+{{zh-pron
+|m=rénshēn shìgù
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[accident]] causing [[injury]] or [[death]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|じん|しん|じ|こ|yomi=on}}
+
+===Etymology===
+Compound of {{ja-r|人身|じんしん|gloss=human body}} and {{ja-r|事故|じこ|gloss=accident}}.
+
+===Pronunciation===
+* {{ja-pron|じんしんじこ|y=o|acc=5}}
+
+===Noun===
+{{ja-noun|じんしん じこ}}
+
+# an accident resulting in a personal injury or death; often a traffic injury
+
+====Related terms====
+* {{l|ja|物損事故}}
+
+[[hu:人身事故]]
+[[zh:人身事故]]

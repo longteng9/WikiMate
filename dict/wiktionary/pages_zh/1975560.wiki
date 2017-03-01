@@ -1,0 +1,22 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chángliàng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|mathematics}} [[constant]]
+
+====Derived terms====
+{{zh-der|阿伏伽德羅常量}}
+
+{{zh-cat|Mathematics}}
+
+[[mg:常量]]
+[[chr:常量]]
+[[zh:常量]]

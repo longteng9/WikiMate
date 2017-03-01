@@ -1,0 +1,87 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=39|rad=子|as=00|sn=3|var=2|four=|canj=NNM,XNNM}}
+
+# [[larvae]] of the [[mosquito]]
+
+====References====
+* {{Han ref|kx=0277.080|dkj=06932|dj=0544.020|hdz=21008.011|uh=5B52|ud=23378}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=juē
+|c=kyut3
+|mc=y
+|oc=y
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-obsolete}} [[missing]] one's [[left]] [[arm]]
+
+=====Related terms=====
+* {{zh-l|孓|missing one's right arm}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=gōng
+|c=gung2
+|mc=
+|oc=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|孑孒}}
+
+===References===
+* {{R:twedu|C02431}}
+* {{R:yue:jyut.net|廣州音字彙 (1962)}}
+* {{R:yue:Jyutping Database}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=子00}}
+
+# {{defn|lang=ja|sort=子00}}
+
+====Readings====
+* {{ja-readings|on=[[けつ]] (ketsu), [[かち]] (kachi), [[きょう]] (kyō), [[く]] (ku), [[くつ]] (kutsu)|kun=[[ひだりのうでがない]] (hidarinoudeganai), [[みじかい]] (mijikai)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=子00|hanviet=kiết}}
+
+# {{defn|lang=vi|sort=子00}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5b52 Nom Foundation]
+
+[[fr:孒]]
+[[hu:孒]]
+[[ja:孒]]
+[[pl:孒]]
+[[th:孒]]
+[[zh:孒]]

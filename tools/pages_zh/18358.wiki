@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|欠}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=76|rad=欠|as=10|sn=14|four=87282|canj=TCNO,XTCNO|ids=⿰兼欠}}
+
+# [[deficient]], [[lacking]], [[insufficient]]
+# to [[apologize]]
+# to [[regret]]
+
+====References====
+* {{Han ref|kx=0570.300|dkj=16159|dj=0958.300|hdz=32148.110|uh=6B49|ud=27465|bh=BA70|bd=47728}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiàn
+|c=hip3,him3
+|h=pfs=khiam
+|mn=khiàm/khiám/tw:khiam
+|mc=y
+|oc=y
+|ma=
+|cat=a,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|抱歉}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=欠10}}
+
+# {{defn|lang=ja|sort=欠10}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken), [[かん]] (kan)|kun=[[あきたりない]] (akitarinai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=겸|eumhun=|rv=gyeom|mr=kyŏm|y=kyem}}
+
+# {{defn|lang=ko|sort=欠10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[gồm]], [[khiểm]]|rs=欠10}}
+
+# {{defn|lang=vi|sort=欠10}}
+
+[[fr:歉]]
+[[hu:歉]]
+[[mg:歉]]
+[[ja:歉]]
+[[no:歉]]
+[[pl:歉]]
+[[th:歉]]
+[[zh:歉]]

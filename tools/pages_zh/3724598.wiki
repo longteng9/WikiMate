@@ -1,0 +1,38 @@
+==Japanese==
+{{ja-kanjitab|せ|わ|yomi=o}}
+
+===Etymology===
+Believed to derive from {{m|ja|忙しい||busy|tr=sewashii}}. The kanji are ateji.
+
+===Pronunciation===
+{{ja-pron|yomi=o|せわ|acc=2|acc_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{l|ja|お世話|tr=おせわ, osewa}}, {{l|ja|御世話|tr=おせわ, osewa}}
+
+===Noun===
+{{ja-noun|せわ}}
+
+# [[care]], looking after, [[help]], [[favor]]
+#: {{ja-usex|お'''世話'''になりました。|^お'''せわ''' に なりました。|Literally, “I have been taken care of.” → “Thank you very much for everything.” / “I'm very obliged to you (for what you've done).”}}
+
+====Usage notes====
+Takes the formal prefix {{m|ja|お|tr=o-}} when talking to someone outside the group (which could be ''anyone else'' when the “group” is just oneself) about a favor done for someone inside the group.
+
+====Idioms====
+* {{ja-r|世話をする|せわ を する}}: to take care of, to do a favor
+* {{ja-r|世話になる|せわ に なる}}: to receive a favor, to be obliged or indebted to someone {{qualifier|for taking care of something}}
+* {{ja-r|お世話になる|おせわ に なる}}
+
+===References===
+<references/>
+
+[[fr:世話]]
+[[ko:世話]]
+[[hu:世話]]
+[[mg:世話]]
+[[ja:世話]]
+[[pl:世話]]
+[[chr:世話]]
+[[uk:世話]]
+[[zh:世話]]

@@ -1,0 +1,100 @@
+{{character info/new}}
+==Translingual==
+
+===Alternative forms===
+* {{l|mul|嚢}}
+* {{l|mul|𡄜}}
+* {{l|mul|𢑿}}
+* {{l|mul|𣡦}}
+* {{l|mul|𣡪}}
+* {{l|mul|𧛦}}
+* {{l|mul|𣡏}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=19|sn=22|four=00732|canj=JBRRV|ids=}}
+
+====References====
+* {{Han ref|kx=0215.140|dkj=04633|dj=0438.140|hdz=10707.130|uh=56CA|ud=22218|bh=C56E|bd=50542}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|ic}} - a tied bag ([[𣒚]]), with various items in it ([[𤕦]]). 𤕦 also serves as a phonetic element. There are many alternative forms. In the modern, standard form, the bottom turned into [[襄]]. Etymology best preserved in small seal script form.
+
+===Pronunciation===
+{{zh-pron
+|m=囊
+|c=nong4
+|j=non1
+|mn=lông/long
+|w=3naan
+|x=lan2
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[bag]], [[pocket]]
+# to [[bag]] up, to [[cover]]
+
+====Compounds====
+{{zh-der|中飽私囊|傾囊|傾囊相授|內囊|刺囊細胞|包囊|印囊|卵囊|卵囊球|卵巢囊腫|名溢縹囊|嗉囊|囊中取物|囊中物|囊中穎|囊囊咄咄|囊囊突突|囊家|囊底|囊底智|囊底路|囊括|囊揣|囊撲|囊橐|囊橐豐盈|囊溫郎當|囊空如洗|囊篋蕭然|囊螢|囊螢積雪|囊袋|囊裝|囊頭|土囊|壓酒囊|大破慳囊|大飽私囊|子囊|子囊城郢|子囊孢子|子囊果|子囊菌|孢囊柄|孢子囊|孢子囊群|季子囊空|安全氣囊|官囊|客囊羞澀|宦囊|小胞子囊|尿囊|心囊|慳囊|慷慨解囊|括囊|括囊守祿|括囊拱手|探囊|探囊取物|探囊胠篋|放囊的|斗粟囊金|映雪囊螢|智囊|智囊團|書囊無底|毛囊|毛囊炎|毛囊蟲|氣囊|氣囊囊|浮囊|淚囊|淚囊炎|澼囊|白囊|百囊奔|皮囊|砂囊|萬寶囊|私囊|積雪囊螢|穢囊|窩囊|窩囊廢|窩囊氣|精囊|綀囊|縮囊|縹囊|肚囊兒|肺囊腫|背囊|胚囊|胞囊孢子|胞子囊群|脫穎囊錐|腎囊|膠囊|膽囊|臭皮囊|花粉囊|行囊|衣架飯囊|被囊|解囊|詩囊|貯精囊|車側氣囊|車胤囊螢|配子囊|酒囊飯袋|酒瓮飯囊|錐處囊中|錦囊|錦囊佳句|錦囊佳製|錦囊妙計|錦囊詩|鎖麟囊|關節囊|阮囊羞澀|陰囊|隱囊|雙氣囊|革囊|韓信囊沙|頰囊|飯囊|飯囊衣架|飯囊酒瓮|飯囊酒甕|飯坑酒囊|香囊|鮑氏囊|墨囊|鼓鼓囊囊}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口19}}
+
+# [[bag]]
+# [[purse]]
+# [[sack]]
+# put in bag
+
+====Readings====
+* {{ja-readings|on=[[のう]] (nō)|kun=[[ふくろ]] (fukuro)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=낭|rv=nang|mr=nang}}
+
+# [[pocket]]
+# [[bag]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nang]], [[nẵng]]|rs=口19}}
+
+# {{defn|lang=vi|sort=口19}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=56ca Nom Foundation]
+
+[[zh-min-nan:囊]]
+[[fr:囊]]
+[[ko:囊]]
+[[li:囊]]
+[[hu:囊]]
+[[mg:囊]]
+[[ja:囊]]
+[[no:囊]]
+[[pl:囊]]
+[[tl:囊]]
+[[th:囊]]
+[[chr:囊]]
+[[zh:囊]]

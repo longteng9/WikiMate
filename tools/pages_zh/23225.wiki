@@ -1,0 +1,106 @@
+{{character info/new}}
+{{also|纳}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=04|sn=10|four=24927|canj=VFOB|ids=⿰糸内}}
+
+# [[admit]], [[take]], [[receive]], [[accept]]
+# The [[Appendix:SI units|SI unit]] prefix [[nano]]
+
+===References===
+* {{Han ref|kx=0916.180|dkj=27264|dj=1345.180|hdz=53373.080|uh=7D0D}}
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Chinese==
+{{zh-forms|s=纳}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|糸|t1=silk, thin thread|内|ls=psc|c1=s|c2=p}}. Modern ''nà'', from Middle Chinese ''nəp'', from Old Chinese *''nuːb''. Original sense: "to patch old cloths", "to make enter → to accept, to receive; to contribute". The latter sense is the causative of {{m|zh|入}} (rù, from MC ''ȵip'', from Old Chinese *''njub'', "to enter"), the glyph which is part of {{m|zh|內}}, the traditional form of {{m|zh|内}} ("to be inside"). Also cognate with {{m|zh|内}} (nèi, from MC ''nuoi'', from Old Chinese *''nuːbs'', "to be in, inside").
+
+===Pronunciation===
+{{zh-pron
+|m=nà
+|c=naap6
+|h=pfs=na̍p
+|md=
+|mn=la̍p
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Etymology 1===
+
+====Verb====
+{{zh-verb}}
+
+# to [[accept]]; to [[receive]]
+
+=====Derived terms=====
+* {{zh-l|納粹}}
+
+=====See also=====
+* {{zh-l|付}}
+* {{zh-l|給錢|tr=gěiqián}}
+* {{zh-l|支付}}
+
+===Etymology 2===
+
+====Prefix====
+{{zh-pref}}
+
+# {{lb|zh|SI unit}} [[nano-]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=糸04}}
+
+====Readings====
+* {{ja-readings|goon=[[のう]] (nō) > [[なふ]] (nafu)|kanon=[[どう]] (dō)|kanyoon=[[とう]] (tō), [[な]] (na)|kun=[[おさめる]] (osameru), [[いれる]] (ireru)}}
+
+===Proper noun===
+{{ja-pos|おさむ|proper}}
+
+# {{given name|male|lang=ja|sort=おさむ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=납|eumhun=|rv=nap|mr=nap|y=nap}}
+
+# {{defn|lang=ko|sort=糸04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nạp]], [[nấp]], [[nập]], [[nép]], [[nớp]], [[núp]], [[nượp]], [[nuốt]], [[nầm]], [[nóp]], [[nốp]], [[nộp]]|rs=糸04}}
+
+# {{defn|lang=vi|sort=糸04}}
+
+[[af:納]]
+[[zh-min-nan:納]]
+[[fr:納]]
+[[ko:納]]
+[[is:納]]
+[[li:納]]
+[[hu:納]]
+[[mg:納]]
+[[ja:納]]
+[[pl:納]]
+[[th:納]]
+[[chr:納]]
+[[zh:納]]

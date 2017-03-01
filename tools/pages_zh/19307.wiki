@@ -1,0 +1,94 @@
+{{character info/new}}
+{{also|浴}}
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|alt1=氵|t1=water|容|ls=psc|c1=s|c2=p}} – dissolve in water.
+
+===Han character===
+{{Han char|rn=85|rad=水|as=10|sn=13|four=33168|canj=EJCR|ids=⿰氵容}}
+
+# to [[melt]], [[dissolve]]
+# [[overflowing]] with
+
+====See also====
+* {{l|mul|浴}} <!-- visually similar: differs in just one component -->
+
+====References====
+* {{Han ref|kx=0641.040|dkj=17983|dj=1048.120|hdz=31708.090|uh=6EB6|ud=28342|bh=B7BB|bd=47035}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|zh|What relation is there between [[融]], [[鎔]], [[熔]], and [[溶]]?}}
+
+===Pronunciation===
+{{zh-pron
+|m=róng
+|c=jung4
+|h=pfs=yùng
+|md=
+|mn=iông/qz,tw,xm:iûⁿ/zz:iôⁿ
+|mn_note=iông - literary; iûⁿ/iôⁿ - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水10}}
+
+# {{defn|lang=ja|sort=水10}}
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō)|kun=[[とける]] (tokeru)}}
+
+====Compounds====
+* [[溶解]]
+* [[溶岩]]
+* [[溶鉱炉]]
+* [[溶接]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=용|eumhun=|rv=yong|mr=yong|y=yong}}
+
+# {{defn|lang=ko|sort=水10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''溶''' ([[dong]], [[ròng]], [[dung]], [[giong]])
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:溶]]
+[[fr:溶]]
+[[ko:溶]]
+[[hu:溶]]
+[[mg:溶]]
+[[ja:溶]]
+[[no:溶]]
+[[pl:溶]]
+[[th:溶]]
+[[vi:溶]]
+[[zh:溶]]

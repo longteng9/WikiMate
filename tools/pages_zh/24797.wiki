@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=04|sn=10|four=44330|canj=TP}}
+
+# pith from rush ({{taxlink|Juncus effusus|species|noshow=1}})
+
+====References====
+* {{Han ref|kx=1020.170|dkj=30732|dj=1478.030|hdz=53185.010|uh=82AF|ud=33455|bh=AAE4|bd=43748}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xīn
+|c=sam1,seon3
+|mn=sim
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|燈芯|芯子|蠟芯兒}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸04}}
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin)|kun=[[ほそい]] (hosoi), [[とうしんぐ]] (toushingu)|nanori=}}
+
+===Noun===
+{{ja-noun|しん}}
+
+# [[core]], [[heart]]
+#: {{ja-usex|トイレットペーパーの'''芯'''|トイレット ペーパー の '''しん'''|'''inner cardboard tube''' of a roll of toilet paper}}
+# pencil [[lead]]
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 芯]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=심|eumhun=|rv=sim|mr=sim|y=sim}}
+
+# {{defn|lang=ko|sort=艸04}}
+
+[[fr:芯]]
+[[ko:芯]]
+[[lo:芯]]
+[[hu:芯]]
+[[mg:芯]]
+[[ja:芯]]
+[[no:芯]]
+[[pl:芯]]
+[[th:芯]]
+[[chr:芯]]
+[[zh:芯]]

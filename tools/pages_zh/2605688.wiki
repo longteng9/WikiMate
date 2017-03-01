@@ -1,0 +1,30 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiěxiàngdù
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[image]] [[resolution]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|ぞう|ど|yomi=on}}
+
+===Etymology===
+{{suffix|解像|度|t1=lens resolution|t2=degree|lang=ja|sort=かいぞうど}}
+
+===Noun===
+{{ja-noun|かいぞうど}}
+
+# [[resolution]] of an image or display
+
+[[hu:解像度]]
+[[chr:解像度]]
+[[zh:解像度]]

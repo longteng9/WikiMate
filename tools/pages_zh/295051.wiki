@@ -1,0 +1,95 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=mùdì
+|c=mou6 dei6
+|h=pfs=mu-thi
+|mn=xm,qz,tp:bō͘-tōe/xm:bōng-tōe/zz,kh:bōng-tē
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[cemetery]]; [[graveyard]]; [[necropolis]]
+
+====Synonyms====
+* {{zh-l|墳場}}
+* {{zh-l|墓園}}
+* {{qualifier|Min Nan}} {{zh-l|墓仔埔}}, {{zh-l|塚仔埔}}
+
+====Descendants====
+{{CJKV||ぼち|묘지|mộ địa}}
+
+{{zh-cat|Burial}}
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|ぼ|ち|yomi=o}}
+From {{etyl|ltc|ja|sort=ほち'}} compound {{m|zh|墓地|tr=mu<sup>H</sup> dij<sup>H</sup>|lit=grave, tomb + ground, region}}. The {{m|ja|漢音|sc=Latn|kan'on}} reading, so likely a later borrowing. Compare modern {{etyl|cmn|-}} reading ''mùdì'', {{etyl|nan|-}} ''bōng-tē''.
+
+====Pronunciation====
+{{ja-pron|y=ko|ぼち|acc=1|acc_ref=NHK,DJR}}
+
+====Noun====
+{{ja-noun|ぼち}}
+
+# a [[cemetery]], a [[graveyard]]
+
+=====Usage notes=====
+This reading is more common than ''hakachi'' below.
+
+In general usage, the Chinese-derived term {{lang|ja|墓地}} (''bochi'') is somewhat more formal than the native-Japanese compound {{m|ja|墓場|tr=hakaba}}. Compare the similar {{etyl|en|-}} terms, with the Latin-derived {{m|en|cemetery}} and the native compound {{m|en|graveyard}}.
+
+=====Synonyms=====
+* {{ja-r|墓場|はかば}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=y|はか|ち}}
+Compound of {{compound|lang=ja|sort=はかち|墓|tr1=haka|t1=grave|pos1=from {{etyl|ojp|ja|sort=はかち}}|地|tr2=chi|t2=ground, region|pos2=from {{etyl|ltc|ja|sort=はかち}}}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|y=y|はかち|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|はかち}}
+
+# a [[cemetery]], a [[graveyard]]
+
+=====Usage notes=====
+This reading is less common than ''bochi'' above.
+
+=====Synonyms=====
+* {{ja-r|墓場|はかば}}
+
+===References===
+<references/>
+
+{{catlangcode|ja|Religion|Burial|Magic: The Gathering|sort=ほち'}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=묘지}}
+
+# {{hanja form of|묘지|cemetery, graveyard}}
+
+[[zh-min-nan:墓地]]
+[[cs:墓地]]
+[[fr:墓地]]
+[[ko:墓地]]
+[[it:墓地]]
+[[lt:墓地]]
+[[hu:墓地]]
+[[mg:墓地]]
+[[ja:墓地]]
+[[fi:墓地]]
+[[sv:墓地]]
+[[zh:墓地]]

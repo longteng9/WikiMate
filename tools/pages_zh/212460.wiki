@@ -1,0 +1,80 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dìlǐ
+|c=dei6 lei5
+|h=pfs=thi-lî
+|md=dê-lī
+|mn=xm,qz,zz,kh:tē-lí/tp:tōe-lí
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[geography]]
+#: {{zh-x|地理 信息 工程|'''geographic''' information engineering}}
+# [[geographical]] [[feature]]s; [[topography]]
+# {{lb|zh|literary}} [[address]]
+# {{lb|zh|chiefly|dialectal|_|Mandarin|Hakka|Min}} [[fengshui]]
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[geographical]]
+#: {{zh-x|地理 位置|'''geographical''' location}}
+
+====Derived terms====
+{{zh-der|地理學}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ち|り|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|ちり|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ちり}}
+
+# [[geography]]
+#: abbreviation for [[地理学]](ちりがく, ''chirigaku'')
+# geographical features; [[topography]]
+
+====Related terms====
+* [[地勢]] (ちせい, ''chisei'')
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|ちり]]
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|địa lý|[[geography]]}}
+
+[[zh-min-nan:地理]]
+[[fr:地理]]
+[[ko:地理]]
+[[sw:地理]]
+[[lo:地理]]
+[[hu:地理]]
+[[mg:地理]]
+[[ja:地理]]
+[[pl:地理]]
+[[pt:地理]]
+[[ru:地理]]
+[[sv:地理]]
+[[th:地理]]
+[[tr:地理]]
+[[uk:地理]]
+[[zh:地理]]

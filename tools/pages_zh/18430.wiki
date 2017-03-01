@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=78|rad=歹|as=07|sn=11|four=12247|canj=MNBND|ids=⿰歹孚}}
+
+# to [[starve]] to [[death]]
+
+====References====
+* {{Han ref|kx=0580.340|dkj=16464|dj=0973.100|hdz=21387.260|uh=6B8D|ud=27533|bh=D5DC|bd=54748}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=piǎo
+|c=piu5
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=歹07}}
+
+# {{defn|lang=ja|sort=歹07}}
+
+====Readings====
+* {{ja-readings|on=[[ひょう]] (hyō), [[ふ]] (fu)|kun=[[うえじに]] (uejini)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=표|eumhun=|rv=pyo|mr=p'yo|y=phyo}}
+
+# {{defn|lang=ko|sort=歹07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=歹07| hanviet = bẽo}}
+
+# {{defn|lang=vi|sort=歹07}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6b8d Nom Foundation]
+
+[[fr:殍]]
+[[hu:殍]]
+[[mg:殍]]
+[[ja:殍]]
+[[pl:殍]]
+[[th:殍]]
+[[zh:殍]]

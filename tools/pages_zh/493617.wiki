@@ -1,0 +1,36 @@
+==Japanese==
+{{ja-kanjitab|か|てい|けい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|かていけい|acc=h|acc_ref=DJR,NHK,SMK5|y=ko}}
+
+===Noun===
+{{ja-noun|かていけい}}
+
+# {{lb|ja|grammar|sort=かていけい}} a verbal inflectional category; the [[conditional]] form. Evolved from the [[已然形]] ([[realis]] form).
+
+====Related terms====
+* {{ja-r|已然形|いぜんけい|gloss=[[realis]]}}
+* {{ja-r|終止形|しゅうしけい|gloss=[[conclusive]]}}
+* {{ja-r|未然形|みぜんけい|gloss=[[irrealis]]}}
+* {{ja-r|命令形|めいれいけい|gloss=[[imperative]]}}
+* {{ja-r|連用形|れんようけい|gloss=[[adverbial]]}}
+* {{ja-r|連体形|れんたいけい|gloss=[[attributive]]}}
+
+===See also===
+* {{l|ja|已然形}}
+
+===References===
+<references/>
+* {{cite-book
+|last=Shibatani
+|first=Masayoshi
+|title=The languages of Japan
+|publisher=Cambridge University Press
+|year=1990
+|pages=221-224
+|isbn=0-521-36918-5
+}}
+
+[[it:仮定形]]
+[[pt:仮定形]]

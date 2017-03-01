@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|つい|しょう|めつ}}
+
+===Noun===
+{{ja-noun|head=[[対]][[消滅]]|つい しょうめつ}}
+
+# {{lb|ja|physics|sort=ついしょうめつ}} [[annihilation]]
+
+===Verb===
+{{ja-verb-suru|head=[[対]][[消滅]]|つい しょうめつ}}
+
+# {{lb|ja|physics|sort=ついしょうめつ}} undergo annihilation
+
+====Conjugation====
+{{ja-suru|つい しょうめつ}}
+
+[[ko:対消滅]]
+[[ja:対消滅]]
+[[zh:対消滅]]

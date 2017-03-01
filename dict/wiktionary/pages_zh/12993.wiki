@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=04|sn=7|four=47147|canj=GNHE|ids=⿰土及}}
+
+# [[garbage]], [[rubbish]]
+# [[shaking]]
+# [[danger]]
+
+====References====
+* {{Han ref|kx=0224.220|dkj=04906|dj=0459.100|hdz=10420.040|uh=573E|ud=22334|bh=A7A3|bd=42915}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=圾
+|c=saap3,ngap6
+|mn=sap
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|垃圾|垃圾分類|垃圾回收|垃圾堆|垃圾場|垃圾山|垃圾桶|垃圾相|垃圾筒|垃圾箱|垃圾車|垃圾量|垃圾食物|搭圾}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土04}}
+
+# {{defn|lang=ja|sort=土04}}
+
+====Readings====
+{{ja-readings|goon=[[ごう]] (gō)|kanon=[[ぎゅう]] (gyū)|kanyoon=[[きゅう]] (kyū)|kun=[[あやうい]] (ayaui)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=급|rv=geup|mr=kŭp}}
+
+# {{defn|lang=ko|sort=土04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|ngập|rs=土04}}
+
+# {{defn|lang=vi}}
+
+[[fr:圾]]
+[[li:圾]]
+[[hu:圾]]
+[[mg:圾]]
+[[no:圾]]
+[[pl:圾]]
+[[th:圾]]
+[[vi:圾]]
+[[zh:圾]]

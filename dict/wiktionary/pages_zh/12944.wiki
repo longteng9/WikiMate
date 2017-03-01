@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=31|rad=囗|as=10|sn=13|four=|canj=WLGA|ids=⿴囗書}}
+
+# [[library]]
+
+====References====
+* {{Han ref|kx=0220.151|dkj=04829|dj=0452.070|hdz=10724.111|uh=5715|ud=22293}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{bor|zh|ja|-}}.
+
+===Etymology===
+Monosyllabic ''tuān'' reading by contraction of polysyllabic ''túshūguǎn,'' from {{m|cmn|圖書館}}, taking initial and final sounds, with tone from middle syllable.
+
+===Pronunciation===
+{{zh-pron
+|m=tuān,túshūguǎn
+|c=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|obscure}} [[library]]
+
+====Usage notes====
+{{lang|zh|圕}} is one of the few standardized [[w:Chinese_characters#Polysyllabic_characters|polysyllabic Chinese characters]] used in Mandarin, but it never gained widespread acceptance within China, where it is thought of as a Japanese [[kokuji]]. The character was also much more common in Japan, where it appeared in the name of library science journal {{lang|ja|圕研究}} ''Toshokan Kenkyū''.<ref>[http://hp.vector.co.jp/authors/VA000964/html/tosho.htm "''Toshokan to iu moji''"]</ref><ref>[http://ksbookshelf.com/nozomu-oohara/Nikkei.htm "''Kokuji no sekai, netto ni hiraku''"]</ref>
+
+===References===
+<references/>
+
+===External links===
+* “[http://languagelog.ldc.upenn.edu/nll/?p=3330 Polysyllabic characters in Chinese writing]”, [http://languagelog.ldc.upenn.edu/nll/?author=13 Victor Mair], ''[http://languagelog.ldc.upenn.edu/nll/ Language Log],'' August 2, 2011
+* [http://www.singtaonet.com/culture/splend/t20060421_196261.html “圕”字怎么念？什么意思？谁造的？], 2006-04-21
+
+----
+
+==Japanese==
+
+===Glyph origin===
+Created by Chinese library sciences expert Du Dingyou ({{lang|ja|杜定友}}) in Japan in the early 20th century by combining the {{m|ja|圖}} and {{m|ja|書}} of {{m|ja|圖書館}}.
+
+===Kanji===
+{{ja-kanji|grade=|rs=囗10}}
+
+# {{lb|ja|obscure}} [[library]]
+
+====Readings====
+* {{ja-readings|on=[[としょかん]] (toshokan), [[しょ]] (sho)|kun=}}
+
+===Noun===
+{{ja-noun|としょかん}}
+
+# [[library]]
+
+[[fr:圕]]
+[[li:圕]]
+[[hu:圕]]
+[[uz:圕]]
+[[pl:圕]]
+[[th:圕]]
+[[zh:圕]]

@@ -1,0 +1,91 @@
+{{character info/new}}
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|又|t1=hand|尗|ls=psc|c1=s|c2=p}} – a hand husking peas.
+
+===Han character===
+{{Han char|rn=29|rad=又|as=06|sn=8|four=27940|canj=YFE|ids=⿰尗又}}
+
+====Derived characters====
+* [[寂]] [[督]]
+
+====References====
+* {{Han ref|kx=0165.420|dkj=03154|dj=0376.240|hdz=10396.010|uh=53D4|ud=21460|bh=A8FB|bd=43259}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=shū
+|c=suk1
+|h=pfs=suk
+|mn=qz,xm,zz:siok/qz:chiak/tw,xm,zz:chek/qz:cheh
+|mn_note=siok - literary; chiak/chek/cheh - vernacular
+|mn-t=zêg4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+====Definitions====
+{{zh-noun}}
+
+# [[father]]'s [[younger]] [[brother]]: [[uncle]]
+
+===Etymology 2===
+{{zh-see|掓|v}}
+
+===References===
+* {{R:twedu|C04273-001}}
+
+{{zh-cat|Family}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=又06}}
+
+# [[uncle]]
+# [[youth]]
+
+====Readings====
+* {{ja-readings|on=[[しゅく]] (shuku)|kun=[[おじ]] (oji)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=숙|rv=suk|mr=suk}}
+
+# {{defn|lang=ko|sort=又06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thúc]]|rs=又06}}
+
+# {{defn|lang=vi|sort=又06}}
+
+[[fr:叔]]
+[[ko:叔]]
+[[li:叔]]
+[[hu:叔]]
+[[mg:叔]]
+[[ja:叔]]
+[[no:叔]]
+[[pl:叔]]
+[[th:叔]]
+[[zh:叔]]

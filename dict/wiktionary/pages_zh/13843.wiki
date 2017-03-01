@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=09|sn=12|four=40421|canj=VYRN|ids=⿰女亭}}
+
+# [[pretty]]
+# [[attractive]]
+# [[graceful]]
+
+====References====
+* {{Han ref|kx=0265.290|dkj=06457|hdz=21068.070|uh=5A77|ud=23159|bh=B440|bd=46144}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tíng
+|c=ting4
+|mc=
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嫋嫋婷婷|婷婷|婷婷玉立|娉婷|嬝嬝婷婷|裊裊婷婷}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女09}}
+
+# {{defn|lang=ja|sort=女09}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei), [[ちょう]] (chō)|kun=[[うつくしい]] (utsukushii)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=정|rv=jeong|mr=chŏng}}
+
+# {{defn|lang=ko|sort=女09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=女09|hanviet=đình}}
+
+# {{defn|lang=vi|sort=女09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5a77 Nom Foundation]
+
+[[fr:婷]]
+[[li:婷]]
+[[hu:婷]]
+[[mg:婷]]
+[[pl:婷]]
+[[th:婷]]
+[[zh:婷]]

@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=酵sù
+|c=gaau3 sou3,haau1 sou3,haau3 sou3
+|mn=kàⁿ-sò͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|biochemistry|dated}} [[enzyme]]
+
+====Synonyms====
+* {{zh-l|酶}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|そ|yomi=on}}
+
+===Noun===
+{{ja-noun|こうそ}}
+
+# [[enzyme]]
+#: {{ja-usex|酵素活性が高まる|こうそ かっせい が たかまる|enzyme activity increases}}
+
+[[zh-min-nan:酵素]]
+[[cs:酵素]]
+[[ko:酵素]]
+[[hu:酵素]]
+[[mg:酵素]]
+[[ja:酵素]]
+[[zh:酵素]]

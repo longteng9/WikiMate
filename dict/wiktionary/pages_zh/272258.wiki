@@ -1,0 +1,74 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhōngzhǐ
+|c=zung1 zi2
+|mn=tiong-chí
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[break off]]; to [[terminate]]; to [[discontinue]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちゅう|し|yomi=o}}
+
+===Noun===
+{{ja-noun|ちゅうし}}
+
+# [[stoppage]], [[termination]], [[discontinuation]]
+# [[interruption]], [[suspension]], [[pause]]
+# [[cancellation]]
+
+====Synonyms====
+* {{sense|termination}} {{l|ja|終止}}, {{l|ja|打ち切り}}
+* {{sense|interruption}} {{l|ja|中断}}
+* {{sense|cancellation}} {{l|ja|撤回}}
+
+====Antonyms====
+* {{sense|termination}} {{l|ja|継続}} ([[continuation]])
+* {{sense|interruption}} {{l|ja|再開}} ([[restart]])
+
+===Verb===
+{{ja-verb-suru|ちゅうし}}
+
+# [[stop]], [[terminate]], [[discontinue]]
+#: 資金難で事業を'''中止する'''
+#:: '''terminate''' a project due to the financial shortage
+# [[interrupt]], [[suspend]], [[pause]]
+#: 捜索を'''中止する'''
+#:: '''interrupt''' a search
+# [[call off]], [[cancel]]
+#: 雨で試合を'''中止する'''
+#:: '''cancel''' a game due to rain
+
+====Conjugation====
+{{ja-suru|ちゅうし}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=중지}}
+
+# {{hanja form of|중지|a stop}}
+
+[[zh-min-nan:中止]]
+[[ko:中止]]
+[[hu:中止]]
+[[mg:中止]]
+[[ja:中止]]
+[[uz:中止]]
+[[chr:中止]]
+[[zh:中止]]

@@ -1,0 +1,89 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=guǎnlǐ
+|c=gun2 lei5
+|h=pfs=kón-lî
+|md=guāng-lī
+|mn=koán-lí
+|w=1kuoe li
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[manage]]; to [[administer]]; to [[supervise]]
+
+===Noun===
+{{zh-noun}}
+
+# [[management]]; [[administration]]; [[supervision]]
+#: {{zh-x|企業 管理|business '''management'''}}
+#: {{zh-x|敏捷 管理|agile '''management'''}}
+
+====Derived terms====
+{{zh-der|城管|風險管理|高級管理|高管|管理人|管理人員|管理學|管理員|精英管理|績效管理|物業管理|項目管理|英才管理}}
+
+===Descendants===
+{{CJKV||かんり|관리|quản lí}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|り|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|かんり|yomi=o}}
+
+===Noun===
+{{ja-noun|かんり}}
+
+# [[management]], [[control]]; [[stewardship]]; [[administration]]
+
+====Derived terms====
+* {{ja-r|管理者|かんりしゃ}}: (noun) [[administrator]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|かんり}}
+
+# to [[control]], to [[manage]], to [[administer]]
+
+====Conjugation====
+{{ja-suru|かんり}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=관리}}
+
+# {{hanja form of|관리|[[administration]], [[management]], [[supervision]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|quản lí|to [[manage]], to [[administer]]}}
+
+[[zh-min-nan:管理]]
+[[fr:管理]]
+[[ko:管理]]
+[[kn:管理]]
+[[lo:管理]]
+[[lt:管理]]
+[[hu:管理]]
+[[mg:管理]]
+[[ja:管理]]
+[[uz:管理]]
+[[chr:管理]]
+[[uk:管理]]
+[[zh:管理]]

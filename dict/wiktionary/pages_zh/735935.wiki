@@ -1,0 +1,44 @@
+{{also|音韵论}}
+==Chinese==
+{{zh-forms|s=音韵论|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=yīnyùnlùn
+|c=jam1 wan6 leon6,jam1 wan5 leon6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|linguistics}} [[phonology]]
+
+====Synonyms====
+* {{zh-l|音韻學}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|おん|いん|ろん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|おんいんろん|acc=3|acc_ref=DJR,SMK5|y=o}}
+
+===Noun===
+{{ja-noun|おんいんろん|hhira=おんゐんろん}}
+
+# [[phonology]]
+
+===See also===
+* {{ja-r|音%声%学|おん%せい%がく|[[phonetics]]}}
+
+===References===
+<references/>
+
+{{C|ja|Phonology|sort=おんいんろん}}
+[[el:音韻論]]
+[[ko:音韻論]]
+[[mg:音韻論]]
+[[pl:音韻論]]

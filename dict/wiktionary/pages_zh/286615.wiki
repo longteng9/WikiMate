@@ -1,0 +1,66 @@
+{{also|版権|版权}}
+==Chinese==
+{{zh-forms|s=版权}}
+
+===Etymology===
+{{zh-compound|版|權|printing form|right}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǎnquán
+|c=baan2 kyun4
+|h=pfs=pán-khièn
+|mn=pán-koân
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[copyright]]
+
+====Derived terms====
+{{zh-der|版權所有}}
+
+====Descendants====
+{{CJKV|版權|s=版権|はんけん|판권|bản quyền}}
+
+[[Category:zh:Copyright|ban3quan3]]
+[[Category:zh:Law|ban3quan3]]
+[[Category:zh:Business|ban3quan3]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|はん|けん|yomi=on}}
+
+===Noun===
+{{ja-noun|はんけん|shin=版権}}
+
+# [[copyright]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=판권}}
+
+# {{hanja form of|판권|[[copyright]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|bản quyền|[[copyright]]}}
+
+[[zh-min-nan:版權]]
+[[ko:版權]]
+[[lo:版權]]
+[[hu:版權]]
+[[tl:版權]]

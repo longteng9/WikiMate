@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|へん|にゅう|yomi=on}}
+
+===Noun===
+{{ja-noun|へんにゅう}}
+
+# [[admission]] to a school
+# [[annexation]], [[incorporation]]
+
+====Synonyms====
+* {{sense|admission to a school}} [[編入学]]
+* {{sense|annexation}} [[付加]]
+
+====Antonyms====
+* {{sense|annexation}} [[分離]]
+
+===Verb===
+{{ja-verb-suru|へんにゅう}}
+
+# [[admit]], [[transfer]] to a school
+# [[annex]], [[incorporate]]
+
+====Conjugation====
+{{ja-suru|へんにゅう}}
+
+[[ko:編入]]
+[[hu:編入]]
+[[zh:編入]]

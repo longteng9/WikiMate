@@ -1,0 +1,69 @@
+{{character info/new}}
+{{also|曉}}
+==Translingual==
+{{Han simplified forms|曉|暁|晓}}
+
+===Han character===
+{{Han char|rn=72|rad=日|as=08|sn=12|four=|canj=AJTU|ids=⿰日尭}}
+
+# [[dawn]], [[daybreak]]
+# [[clear]], [[explicit]]
+
+====References====
+* {{Han ref|kx=0497.311|dkj=14031|hdz=21516.011|uh=6681|ud=26241}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=日08|style=s|kyu=曉}}
+
+====Readings====
+* {{ja-readings|goon=[[きょう]] (kyō) {{non-joyo-reading}}|kanon=[[きょう]] (kyō) {{non-joyo-reading}}|kanyoon=[[ぎょう]] (gyō)|kun=[[あかつき]] (akatsuki), [[さとる]] (satoru)}}
+
+===Etymology 1===
+Compound of {{m|ja|明|tr=aka||bright}} and {{m|ja|時|tr=toki||time}}.
+
+====Noun====
+{{ja-noun|あかとき}}
+
+# [[dawn]], [[daybreak]]
+
+===Etymology 2===
+From {{m|ja|暁|tr=akatoki}}.
+
+====Pronunciation====
+* {{ja-pron|あかつき|dev=3|acc=0}}
+
+====Noun====
+{{ja-noun|あかつき}}
+
+# [[dawn]], [[daybreak]]
+#* {{RQ:Konkōmyō Saishōōkyō Ongi|8 (back)}}
+#*: 天暁 '''アカツキ'''
+
+===Etymology 3===
+
+====Proper noun====
+{{ja-pos|proper|さとる}}
+
+# {{given name|male|lang=ja|sort=さとる}}
+
+===References===
+* {{R:Konkōmyō Saishōōkyō Ongi}}
+
+[[fr:暁]]
+[[ko:暁]]
+[[hi:暁]]
+[[it:暁]]
+[[lt:暁]]
+[[li:暁]]
+[[hu:暁]]
+[[mg:暁]]
+[[ms:暁]]
+[[ja:暁]]
+[[pl:暁]]
+[[th:暁]]
+[[vi:暁]]
+[[zh:暁]]

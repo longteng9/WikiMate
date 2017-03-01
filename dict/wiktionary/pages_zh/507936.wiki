@@ -1,0 +1,31 @@
+==Japanese==
+{{ja-kanjitab|し|やく|しょ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|しやくしょ|y=o|acc=2|dev=3|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|しやくしょ}}
+
+# {{lb|ja|government|sort=しやくしょ}} [[city hall]]
+
+====Synonyms====
+* {{ja-r|市庁|しちょう}}
+
+====Coordinate terms====
+* {{ja-r|区役所|くやくしょ|gloss=ward office}}
+* {{ja-r|郡役所|ぐんやくしょ|gloss=county office}}
+
+====Hypernyms====
+* {{ja-r|役所|やくしょ|public office}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Buildings|しやくしょ]]
+
+[[ko:市役所]]
+[[lt:市役所]]
+[[hu:市役所]]
+[[uk:市役所]]
+[[zh:市役所]]

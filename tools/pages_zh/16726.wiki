@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=65|rad=支|as=08|sn=12|four=44647|canj=KRJE|ids=⿰奇支}}
+
+# to [[incline]]; to [[lean]]; to [[slant]]
+# [[up]]
+# [[uneven]]
+
+====References====
+* {{Han ref|kx=0467.210|dkj=13086|dj=0815.190|hdz=21329.210|uh=6532|ud=25906|bh=D972|bd=55666}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qī
+|c=kei1
+|h=pfs=
+|j=
+|md=
+|mn=khi/khia
+|mn_note=khi - literary, khia - colloquial
+|mn-t=
+|w=
+|mc=y
+|oc=y
+|cat=v,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[incline]]; to [[lean]]; to [[slant]]
+# [[uneven]]
+
+====Compounds====
+{{zh-der|攲側|攲器|攲斜|攲案}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[기]]|eumhun=|rv=gi|mr=ki|y=ki}}
+
+# {{defn|lang=ko|sort=支08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=支08|hanviet=khi}}
+
+# {{defn|lang=vi|sort=支08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6532 Nom Foundation]
+
+[[fr:攲]]
+[[pl:攲]]
+[[th:攲]]
+[[zh:攲]]

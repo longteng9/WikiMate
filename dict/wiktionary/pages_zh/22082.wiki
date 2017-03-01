@@ -1,0 +1,91 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=10|sn=15|four=15694|canj=MRNQD}}
+
+# downward stroke slanting right
+
+====References====
+* {{Han ref|kx=0835.040|dkj=24406|dj=1252.100|hdz=42448.100|uh=78D4|ud=30932|bh=E6C6|bd=59078}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|厇}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhé
+|c=zaak6,zaak3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{rfdef|lang=zh}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|outdated|Chinese calligraphy}} {{synonym of|lang=zh|捺}}
+
+===References===
+* {{R:twedu|B03003}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=石10}}
+
+# {{defn|lang=ja|sort=石10}}
+
+====Readings====
+* {{ja-readings|on=[[たく]] (taku)|kun=[[さく]] (saku), [[はりつけ]] (haritsuke)|nanori=}}
+
+{{wikipedia|lang=ja}}
+
+===Noun===
+{{ja-noun|はりつけ}}
+
+# [[crucifixion]]
+
+[[Category:ja:Death|はりつけ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=책|eumhun=|rv=chaek|mr=ch'aek|y=chayk}}
+
+# {{defn|lang=ko|sort=石10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''磔''' ([[trách]], [[kẹt]], [[cạch]])
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:磔]]
+[[hu:磔]]
+[[mg:磔]]
+[[ja:磔]]
+[[pl:磔]]
+[[th:磔]]
+[[zh:磔]]

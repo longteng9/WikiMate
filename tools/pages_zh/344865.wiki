@@ -1,0 +1,65 @@
+{{also|认知}}
+==Chinese==
+{{zh-forms|s=认知}}
+
+===Pronunciation===
+{{zh-pron
+|m=rènzhī
+|c=jing6 zi1
+|cat=v,n,a
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[acknowledge]]
+
+===Noun===
+{{zh-noun}}
+
+# [[cognition]]
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[cognitive]]
+
+====Derived terms====
+{{zh-der|認知失調|認知心理學}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|にん|ち|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|にんち|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|にんち}}
+# [[recognition]]
+# acknowledgement of a child as one's own
+# [[cognition]] (in psychology)
+
+====Compounds====
+* {{l/ja|認知科学}}
+* {{l/ja|認知症}}
+* {{l/ja|認知心理学}}
+
+===Verb===
+{{ja-verb-suru|にんち}}
+# to [[recognise]], [[acknowledge]]
+# to [[acknowledge]] one's child despite being unmarried to the other parent, to formally [[recognise]] a child as one's own
+#: {{ja-usex|彼はその子を認知した|かれ は その こ を にんち した|He recognised the child as his own.}}
+
+====Conjugation====
+{{ja-suru|にんち}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[zh-min-nan:認知]]
+[[ko:認知]]
+[[mg:認知]]
+[[zh:認知]]

@@ -1,0 +1,106 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=134|rad=臼|as=07|sn=13|four=77427|canj=HXWKS|ids=⿱臼男}}
+
+# [[mother]]'s [[brother]], [[uncle]]
+
+===References===
+* {{Han ref|kx=1004.090|dkj=30208|dj=1460.240|hdz=53040.030|uh=8205|ud=33285|bh=B8A4|bd=47268}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|臼|男|t2=man|ls=psc|c1=p|c2=s}} – uncle, a kind of man.
+
+===Pronunciation===
+{{zh-pron
+|m=jiù
+|c=kau5
+|h=pfs=khiû
+|md=
+|mn=kū
+|w=
+|mc=y
+|oc=y
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[mother]]'s [[brother]]: [[uncle]]
+
+====Derived terms====
+* {{zh-l|舅舅}}
+* {{zh-l|舅父}}
+* {{zh-l|舅母}}
+* {{zh-l|舅媽}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+/sihi<small>1</small>to<small>2</small>/: [shipitwo] → [shiɸitwo] → [shiɸito]. See next entry.
+
+====Noun====
+{{ja-noun|しひと}}
+
+# a father-in-law
+
+===Etymology 2===
+From [[舅|shihito]]: [shipitwo] → [shiɸitwo] → [shiɸito] → [shiɸuto] → [shiwuto] → [shiuto] → [shuːto].
+
+====Noun====
+{{ja-noun|しゅうと|hhira=しうと}}
+
+# a father-in-law
+
+====Kanji====
+{{ja-kanji|grade=|rs=臼07}}
+
+# {{defn|lang=ja|sort=臼07}}
+
+=====Readings=====
+* {{ja-readings|on=[[きゅう]] (kyū)|kun=[[しゅうと]] (shuuto)|nanori=}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 舅]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# {{defn|lang=ko|sort=臼07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=臼07| hanviet = cậu}}
+
+# {{defn|lang=vi|sort=臼07}}
+
+[[fr:舅]]
+[[lo:舅]]
+[[hu:舅]]
+[[mg:舅]]
+[[ja:舅]]
+[[no:舅]]
+[[pl:舅]]
+[[ro:舅]]
+[[sv:舅]]
+[[th:舅]]
+[[chr:舅]]
+[[zh:舅]]

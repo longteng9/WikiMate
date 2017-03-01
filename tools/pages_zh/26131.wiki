@@ -1,0 +1,166 @@
+{{character info/new}}
+{{also|虾}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=09|sn=15|four=57147|canj=LIRSE|ids=⿰虫叚}}
+
+====See also====
+* {{l|mul|sc=Hani|虾}}
+* {{l|mul|sc=Hani|鰕}}
+
+====References====
+{{Han ref|kx=1090.150|dkj=33299|dj=1556.100|hdz=42874.030|uh=8766}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|虫|叚|ls=psc|c1=s|c2=p|t1=insect}}.
+
+===Etymology 1===
+{{zh-forms|s=虾|alt=鰕,𧎂}}
+{{rfe|zh|Are etymology 1 and 4 related? 霞/赮 - red - shrimp?}}
+
+====Pronunciation====
+{{zh-pron
+|m=xiā
+|ma=Zh-xia.ogg
+|c=haa1
+|c-t=ha4,ha4*
+|h=pfs=hà
+|md=hà
+|mn=xm,qz,tw:hê/xm,qz,tw:hâ/zz:hêe
+|mn_note=hê/hêe - vernacular; hâ/hêe - literary
+|mn-t=hê5
+|w=1ho,1hoe
+|w_note=1hoe - diminutive
+|oc=2,1
+|cat=n,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[shrimp]]; [[prawn]]; [[lobster]]
+#: {{zh-x|毛蝦|shrimp}}
+#: {{zh-x|明蝦|prawn}}
+#: {{zh-x|龍蝦|lobster}}
+#: {{zh-x|蝦片|prawn crackers}}
+# to [[bend]]; to [[curve]]; to [[flex]]
+
+====Compounds====
+{{zh-der|fold=1|將蝦釣鱉|對蝦|斑節蝦|明蝦|毛蝦|水母目蝦|河蝦|沼蝦|海蝦|滷蝦|滷蝦油|磷蝦|米蝦|糠蝦|草蝦|蝦仁|蝦兵蟹將|蝦子|蝦皮|蝦米|蝦腰|蝦芭|蝦荒蟹亂|蝦虎|蝦蛄|蝦鬚|軟腳蝦|醬蝦|釣蝦場|長臂蝦|青蝦|魚蝦|龍蝦}}
+
+===Etymology 2===
+{{zh-forms|s=虾}}
+
+====Pronunciation====
+{{zh-pron
+|m=há
+|c=haa4
+|mc=y
+|oc=1,2
+|dial=n
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|蝦蟆}}
+
+====Compounds====
+{{zh-der|fold=1|癩蝦蟆|蝦蟆|蝦蟆子|蝦蟆陵}}
+
+===Etymology 3===
+{{zh-forms|s=虾|alt=㗇}}
+Compare {{cog|za|ha}}.
+
+====Pronunciation====
+{{zh-pron
+|c=haa1
+|c-t=ha1
+|dial=n
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese|Hakka|Southwestern Mandarin|Zhongshan|_|Min Nan}} to [[bully]]; to [[pick on]]
+
+===Etymology 4===
+{{zh-see|霞|a}}
+
+===Etymology 5===
+{{zh-see|徦|v}}
+
+{{zh-cat|Crustaceans}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫09}}
+
+# [[lobster]], [[prawn]], [[shrimp]]
+
+====Readings====
+{{ja-readings|goon=[[げ]] (ge)|kanon=[[か]] (ka)|kun=[[えび]] (ebi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|蝦夷|えみし}}, {{ja-r|蝦夷|えみす}}, {{ja-r|蝦夷|えびす}}, {{ja-r|蝦夷|えぞ}}
+{{der-bottom}}
+
+{{ja-kanjitab|えび|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|えび|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|えび|エビ}}
+
+# [[lobster]], [[prawn]], [[shrimp]]
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|えび]]
+[[Category:ja:Crustaceans|えび]]
+[[Category:Japanese terms derived from Old Japanese|えび]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=하|eumhun=|mr=ha|y=ha}}
+
+# {{defn|lang=ko|sort=虫09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hà]]|rs=虫09}}
+
+# {{defn|lang=vi|sort=虫09}}
+
+[[zh-min-nan:蝦]]
+[[fr:蝦]]
+[[ko:蝦]]
+[[id:蝦]]
+[[lt:蝦]]
+[[hu:蝦]]
+[[mg:蝦]]
+[[ja:蝦]]
+[[pl:蝦]]
+[[sv:蝦]]
+[[th:蝦]]
+[[zh:蝦]]

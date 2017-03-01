@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|镌}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=13|sn=21|four=80127|canj=COGS}}
+
+# engraving tool
+# [[carve]], [[engrave]]
+
+====References====
+* {{Han ref|kx=1323.160|dkj=40924|dj=1823.060|hdz=64256.170|uh=942B|ud=37931|bh=C54F|bd=50511}}
+
+----
+
+==Chinese==
+{{zh-forms|s=镌}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=juān
+|c=zyun1,zeon1,zeon3,syun6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|鐫罰|鐫汰|雕鐫|鐫譙|鐫諭|鐫刻|鐫心銘骨}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金13}}
+
+# {{defn|lang=ja|sort=金13}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen)|kun=[[のみ]] (nomi), [[える]] (eru), [[きる]] (kiru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|eumhun=|rv=jeon|mr=chŏn|y=cen}}
+
+# {{defn|lang=ko|sort=金13}}
+
+[[fr:鐫]]
+[[hu:鐫]]
+[[ja:鐫]]
+[[pl:鐫]]
+[[th:鐫]]
+[[zh:鐫]]

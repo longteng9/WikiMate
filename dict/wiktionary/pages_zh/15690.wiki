@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|恺}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=10|sn=13|four=92018|canj=PUMT|ids=⿰忄豈}}
+
+# [[enjoy]], be [[contented]], [[joyful]]
+
+====References====
+* {{Han ref|kx=0396.380|dkj=11015|dj=0735.280|hdz=42337.020|uh=6137|ud=24887|bh=B75F|bd=46943}}
+
+----
+
+==Chinese==
+{{zh-forms|s=恺}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kǎi
+|c=hoi2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|愷樂|愷歌|愷悌君子|八愷|愷悌|敏練慈愷|爽愷}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心10}}
+
+# [[enjoy]]
+# be contented
+# [[joyful]]
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai), [[がい]] (gai)|kun=[[たのしむ]] (tanoshimu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=개|eumhun=|rv=gae|mr=kae|y=kay}}
+
+# [[peaceful]]
+# [[enjoy]]
+# [[ease up]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心10|hanviet=khải}}
+
+# {{defn|lang=vi|sort=心10}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6137 Nom Foundation]
+
+[[fr:愷]]
+[[ko:愷]]
+[[li:愷]]
+[[hu:愷]]
+[[pl:愷]]
+[[th:愷]]
+[[zh:愷]]

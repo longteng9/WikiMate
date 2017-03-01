@@ -1,0 +1,14 @@
+==Japanese==
+{{ja-kanjitab|かい|せき|りき|がく}}
+
+===Etymology===
+From {{compound|解析|tr1=kaiseki|t1=analysis|力学|tr2=rikigaku|t2=dynamics|lang=ja}}
+
+===Noun===
+{{ja-noun|かいせきりきがく}}
+
+# {{lb|ja|physics}} [[analytical mechanics]]
+
+[[Category:ja:Physics|かいせきりきかく]]
+
+[[zh:解析力学]]

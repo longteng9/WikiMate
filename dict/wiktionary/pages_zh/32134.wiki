@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han compound|魚|t1=fish|安|ls=psc|c1=s|c2=p}} – a kind of fish.
+
+Found in ancient Chinese as corruption of {{m|mul|sc=Hani|鰋}} (changing {{m|mul|sc=Hani|匽}} to {{m|mul|sc=Hani|安}}) and originally meaning a kind of [[catfish]]. Later, independently coined in Edo period Japan in word {{m|ja|鮟鱇||monkfish|tr=ankō}} from [[ateji]] {{m|ja|安康|tr=ankō}} by adding the {{m|mul|sc=Hani|魚||fish}} [[radical#Noun|radical]] to each of the ateji characters.<ref>[[w:ja:アンコウ#.E8.AA.9E.E6.BA.90|アンコウ: 語源]], Japanese Wikipedia</ref> As found in Chinese, not considered a Japanese [[kokuji]] coinage, though {{m|ja|鱇}} is kokuji, as it is not found in Chinese. Subsequently borrowed into Chinese from Japanese, both in compound {{m|zh|sc=Hani|鮟鱇}}<ref>[http://www.nciku.com/search/zh/detail/黄鮟鱇/1405301 黄鮟鱇], NCIKU dictionary</ref> and as isolated {{m|zh|sc=Hani|鮟}}.<ref>[http://www.mdbg.net/chindict/chindict.php?wdqb=鮟 鮟], MDBG dictionary</ref>
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=06|sn=17|four=23344|canj=NFJV|ids=⿰魚安}}
+
+====References====
+* {{Han ref|kx=1469.030|dkj=46108|dj=2001.410|hdz=74689.090|uh=9B9F|ud=39839}}
+<references />
+
+----
+
+==Chinese==
+{{zh-forms|s=𩽾}}
+
+===Glyph origin===
+{{Han compound|魚|t1=fish|安|ls=psc|c1=s|c2=p}} – a kind of fish.
+
+Found in ancient Chinese as corruption of {{och-l|鰋}} and originally meaning a kind of [[catfish]].
+
+===Pronunciation===
+{{zh-pron
+|m=鮟
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[anglerfish]]
+
+====Compounds====
+{{zh-der|鮟鱇}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=魚06鮟}}
+
+# [[anglerfish]], [[monkfish]]
+
+====Readings====
+{{ja-readings
+|goon=[[あん]] (''an'')
+|kanon=[[あん]] (''an'')
+}}
+
+====Compounds====
+* {{ja-r|鮟鱇|あんこう}}: [[anglerfish]], [[monkfish]]
+* {{ja-r|鮟肝|あんきも}}: [[monkfish]] [[liver]]
+
+====Usage notes====
+Only found in compounds. Not used in isolation.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=안|eumhun=|rv=an|mr=an|y=an}}
+
+# ([[아귀]]) [[monkfish]]
+
+====Synonyms====
+* {{l|ko|鱇}} (안, ''gang'')
+
+====Compounds====
+* [[鮟鱇]] ([[안강]], ''an-gang'') [[monkfish]]
+
+[[fr:鮟]]
+[[hu:鮟]]
+[[mg:鮟]]
+[[ja:鮟]]
+[[pl:鮟]]
+[[th:鮟]]
+[[zh:鮟]]

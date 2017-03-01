@@ -1,0 +1,29 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+The Buddhism sense is a translation of {{der|zh|sa|जिह्वेन्द्रिय||tongue faculty}}. The Tibetan equivalent is {{m|bo|ལྕེའི་དབང་པོ}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shégēn,er=y
+|c=sit6 gan1
+|mn=qz,xm:chi̍h-kun/zz:chi̍h-kin
+|mc=2,1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|anatomy}} [[root]] of the [[tongue]]; [[back]] of the tongue
+# {{lb|zh|Buddhism}} “[[tongue]] or [[taste]] [[faculty]]”, one of the six sensory faculties
+
+====Derived terms====
+{{zh-der|咬舌根|墊舌根|嚼舌根|混嚼舌根|舌根鼻音|舌根音}}
+
+====Descendants====
+{{CJKV||ぜっこん|설근|thiệt căn}}
+
+[[ko:舌根]]
+[[zh:舌根]]

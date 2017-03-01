@@ -1,0 +1,33 @@
+==Japanese==
+{{ja-kanjitab|と|ひ|o1=り|o2=き|sort=とりひき|yomi=k}}
+
+===Pronunciation===
+* {{ja-pron|とりひき|y=k|acc=2|dev=3|acc_ref=NHK}}
+
+===Alternative forms===
+* {{l/ja|取り引き}}
+
+===Noun===
+{{ja-noun|とりひき}}
+
+# [[transaction]]
+
+===Verb===
+{{ja-verb-suru|とりひき}}
+
+# [[trade]], have dealings with
+
+====Conjugation====
+{{ja-suru|とりひき}}
+
+===References===
+<references/>
+
+[[ko:取引]]
+[[lt:取引]]
+[[mg:取引]]
+[[ja:取引]]
+[[fi:取引]]
+[[sv:取引]]
+[[chr:取引]]
+[[zh:取引]]

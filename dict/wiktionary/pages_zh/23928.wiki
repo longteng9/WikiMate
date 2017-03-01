@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|罢}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=122|rad=网|as=10|sn=15|four=60211|canj=WLIBP|ids=⿱罒能}}
+
+# [[cease]], [[finish]], [[stop]]
+# [[give up]]
+
+====References====
+* {{Han ref|kx=0949.080|dkj=28336|dj=1390.250|hdz=42924.120|uh=7F77|ud=32631|bh=BD7D|bd=48509}}
+
+----
+
+==Chinese==
+{{zh-forms|s=罢}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bà
+|c=baa6
+|h=pfs=pha
+|md=
+|mn=pā
+|w=
+|ma=y
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=网10}}
+
+# to [[stop]]
+# to [[leave]], to [[withdraw]]
+# to [[quit]]
+# to [[go]]
+
+====Readings====
+* {{ja-readings|goon=[[び]] (bi), [[べ]] (be)|kanon=[[ひ]] (hi), [[はい]] (hai)|kun=[[やめる]] (yameru), [[つかれる]] (tsukareru), [[まかる]] (makaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[파]], [[피]]|eumhun=|rv=pa, pi|mr=p'a, p'i|y=pha, phi}}
+
+# {{defn|lang=ko|sort=网10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bãi]], [[bảy]], [[bời]], [[bởi]]|rs=网10}}
+
+# {{defn|lang=vi|sort=网10}}
+
+[[fr:罷]]
+[[ko:罷]]
+[[hu:罷]]
+[[mg:罷]]
+[[ja:罷]]
+[[pl:罷]]
+[[ru:罷]]
+[[th:罷]]
+[[zh:罷]]

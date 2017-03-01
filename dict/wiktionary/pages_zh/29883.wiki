@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|镣}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=12|sn=20|four=84196|canj=CKCF|ids=⿰金尞}}
+
+# [[fetter]]s, [[leg irons]]
+
+====References====
+* {{Han ref|kx=1322.070|dkj=40886|dj=1822.020|hdz=64255.080|uh=9410|ud=37904|bh=F4EF|bd=62703}}
+
+----
+
+==Chinese==
+{{zh-forms|s=镣}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|金|尞|c1=s|c2=p|t1=metal|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=liáo
+|c=liu4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金12}}
+
+# {{defn|lang=ja|sort=金12}}
+
+====Readings====
+* {{ja-readings|on=[[りょう]] (ryō)|kun=[[しろがね]] (shirogane), [[あしかせ]] (ashikase)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[료]], [[요]]|eumhun=|rv=ryo, yo|mr=ryo, yo|y=lyo, yo}}
+
+# {{defn|lang=ko|sort=金12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[rìu]], [[liệu]], [[liêu]]|rs=金12}}
+
+# {{defn|lang=vi|sort=金12}}
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville, 1999
+
+[[fr:鐐]]
+[[hu:鐐]]
+[[mg:鐐]]
+[[ja:鐐]]
+[[pl:鐐]]
+[[th:鐐]]
+[[zh:鐐]]

@@ -1,0 +1,37 @@
+==Japanese==
+{{ja-kanjitab|せい|たん|yomi=o}}
+
+===Etymology===
+{{affix|sort=せいたん|ja|製|tr1=sei|t1=make|炭|tr2=tan|t2=charcoal}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|せいたん|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|せいたん}}
+
+# [[charcoal]] [[production]]
+
+===Verb===
+{{ja-verb-suru|せいたん}}
+
+# [[produce]] [[charcoal]]
+
+====Conjugation====
+{{ja-suru|せいたん}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=제탄}}
+
+# {{hanja form of|제탄|[[charcoal]] [[production]]}}
+
+[[ko:製炭]]
+[[ja:製炭]]

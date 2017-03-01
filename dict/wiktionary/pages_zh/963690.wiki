@@ -1,0 +1,30 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Chemist}}
+[[File:Julie_Perkins_at_LLNL.jpg|thumb|250px|{{PAGENAME}} (''kagakusha''): a '''[[chemist]]''' working in a laboratory.]]
+</div>
+{{ja-kanjitab|yomi=o|か|がく|しゃ}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=かがくしゃ|化学|tr1=kagaku|t1=chemistry|者|tr2=sha|t2=person}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|かがくしゃ|acc=2|acc_ref=DJR|acc2=3|acc2_ref=DJR}}
+
+===Noun===
+{{ja-noun|かがくしゃ|hhira=くわがくしゃ}}
+
+# a [[chemist]]
+
+===References===
+<references/>
+
+[[Category:ja:Chemistry|かがくしゃ]]
+[[Category:ja:Scientists|かがくしゃ]]
+
+[[ko:化学者]]
+[[fj:化学者]]
+[[ja:化学者]]
+[[pl:化学者]]
+[[sv:化学者]]

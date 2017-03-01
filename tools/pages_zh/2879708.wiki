@@ -1,0 +1,90 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=mǐngǎn
+|c=man5 gam2
+|h=pfs=mén-kám
+|mn=bín-kám
+|ma=Zh-mingan.ogg
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[sensitive]]
+# [[susceptible]]
+# [[allergic]]
+
+===Descendants===
+{{CJKV||びんかん|민감|mẫn cảm}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|びん|かん|yomi=o}}
+
+===Etymology===
+From {{etyl|sort=ひんかん'|ltc|ja}} compound {{m|zh|敏感|tr=min<sup>X</sup> + kom<sup>X</sup>}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|びんかん|acc=0|acc_ref=DJR,NHK}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|びんかん}}
+
+# [[sensitive]]
+#* 1940: [[w:Run, Melos!|Hashire Merosu]]
+#*: けれども邪悪に対しては、人一倍に'''敏感'''であった。
+
+====Inflection====
+{{ja-na|びんかん}}
+
+===Noun===
+{{ja-noun|びんかん}}
+
+# [[sensitivity]]
+
+===References===
+<references/>
+:* {{cite-book
+|last=Dazai
+|first=Osamu
+|authorlink=w:Osamu Dazai
+|title=[[w:Run, Melos!|Hashire Merosu]]
+|publisher=Shinchō Bunko
+|year_published=2005
+|year=1940
+|language=Japanese
+|isbn=978-4-10-100606-2
+}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=민감}}
+
+# {{hanja form of|민감|[[sensitivity]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Adjective===
+{{vi-hantu|pos=adjective}}
+
+# {{han tu form of|mẫn cảm|[[sensitive]]}}
+
+[[ko:敏感]]
+[[lo:敏感]]
+[[hu:敏感]]
+[[mg:敏感]]
+[[ja:敏感]]
+[[chr:敏感]]
+[[zh:敏感]]

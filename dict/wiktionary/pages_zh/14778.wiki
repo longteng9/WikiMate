@@ -1,0 +1,54 @@
+{{character info/new}}
+{{also|巖}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=17|sn=20|four=|canj=UFMK|ids=⿱山厳}}
+
+# [[cliff]], [[precipice]]
+# [[cave]], [[grotto]]
+
+===References===
+* {{Han ref|kx=0322.291|dkj=08624|dj=0622.420|hdz=10806.161|uh=5DCC|ud=24012}}
+
+----
+
+==Chinese==
+{{zh-see|巖|v}}
+
+----
+
+==Japanese==
+
+===Etymology===
+Japanese shinjitai. Simplified from {{ja-l|巖}}
+
+A compound of [[岩|iha]] "stone" and [[秀|ho]] "surface".
+
+Historically /ihaho/. /h/ underwent a number of phonological changes. In intervocalic environments, such as this, *p → ɸ → w. Hence, *ipapo → iɸaɸo → iwawo. The distinction between /o/ and /wo/ was lost early resulting in /o/. Hence, [iwao].
+
+===Kanji===
+{{ja-kanji|grade=|rs=山17}}
+
+====Readings====
+* {{ja-readings|on=[[がん]] (gan)|kun=[[けわしい]] (kewashii), [[いわお]] (iwao)}}
+
+===Noun===
+{{ja-noun|いわ|hhira=いは}}
+
+# [[rock]]
+
+===Proper noun===
+{{ja-pos|いわお|proper|hhira=いはほ}}
+
+# {{given name|male|lang=ja|sort=いわお}}
+
+[[fr:巌]]
+[[li:巌]]
+[[hu:巌]]
+[[mg:巌]]
+[[ja:巌]]
+[[pl:巌]]
+[[th:巌]]
+[[vi:巌]]
+[[zh:巌]]

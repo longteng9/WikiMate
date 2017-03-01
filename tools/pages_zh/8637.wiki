@@ -1,0 +1,118 @@
+{{character info/new}}
+{{also|编}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=09|sn=15|four=23927|canj=VFHSB,VFISB|ids=⿰糸扁}}
+
+====References====
+* {{Han ref|kx=0931.080|dkj=27665|dj=1369.100|hdz=53431.050|uh=7DE8|ud=32232|bh=BD73|bd=48499}}
+
+----
+
+==Chinese==
+{{zh-forms|s=编}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|糸|t1=thread|扁|ls=psc|c1=s|c2=p}} – to knit together a book (with thread).
+
+===Etymology===
+From {{inh|zh|sit-pro|*p(r)an/t ~ b(r)an/t}}.
+
+===Pronunciation===
+{{zh-pron
+|m=biān
+|c=pin1
+|h=pfs=phiên
+|md=piĕng
+|mn=pian
+|w=1pie
+|mc=y
+|oc=y
+|cat=v,n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[put]] in [[order]]; to [[arrange]]
+# to [[weave]]; to [[knit]]; to [[plait]]
+# to [[write]]; to [[compose]]; to [[author]]; to [[compile]]; to [[edit]]
+# to [[connect]]; to [[join]]
+# to [[make up]]; to [[fabricate]]
+# {{lb|zh|historical}} [[cord]] for [[tying]] [[slip]]s of [[inscribe]]d [[bamboo]] or [[wood]] together
+# [[part]] of a [[book]]; [[book]]; [[volume]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|編程|編次|編湊|編導|編訂|編定|編隊|編髮|編法兒|編號|編輯|編校|編結|編劇|編列|編錄|編碼|編目|編年|編年史|編年體|編排|編派|編遣|編入|編審|編外|編委|編戲|編寫|編選|編演|編譯|編印|編餘|編扎|編造|編者|編者按|編者案|編織|編制|編鐘|編著|編撰|編綴|編組|編纂|匯編|三絕韋編|彙編|圖書編目|主編|擴編|整編|殘編斷簡|改編劇本|斷編殘簡|新編|瞎編|殘編|改編|收編|斷簡殘編|摘編|編貝|編修|編民|絕韋編|編蒲|駢字類編|編笄|編輯部|野獲編|金石萃編|編練|編譯器|韋編三絕|編輯室|縮編|編譯程式|陳編|編置|織席編屨|金陀萃編|編磬|編書|編曲|齒若編貝|編類|編人|編氓|編輯設計|編物|編戶|編削|篇海類編|編緝|簡編|類編|考古編|金文編|通俗編|編輯人|長編|編新|芸編|缺編|遺編絕簡|編隊飛行|編捏|總編輯|編工|韋編|超編|編班|草編|編製|編管|編配}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=糸09}}
+
+# {{defn|lang=ja|sort=糸09}}
+
+====Readings====
+{{ja-readings|goon=[[へん]] (hen)|kanon=[[へん]] (hen)|kun=[[あむ]] (amu), [[とじいと]] (tojiito), [[ふみ]] (fumi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|短編|たんぺん}}
+* {{ja-r|長編|ちょうへん}}
+* {{ja-r|編集|へんしゅう}}
+* {{ja-r|編鐘|へんしょう}}: [[bianzhong]]
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|へん|yomi=o}}
+From {{etyl|ltc|ja|sort=へん}} {{m|zh|編|tr=pen}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|へん|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|へん}}
+
+# [[compilation]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[편]], [[변]]|eumhun=|rv=pyeon, byeon|mr=p'yŏn, pyŏn|y=phyen, pyen}}
+
+# {{defn|lang=ko|sort=糸09}}
+
+====Compounds====
+* [[玉編]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[biên]]|rs=糸09}}
+
+# {{defn|lang=vi|sort=糸09}}
+
+[[fr:編]]
+[[ko:編]]
+[[it:編]]
+[[hu:編]]
+[[mg:編]]
+[[ja:編]]
+[[pl:編]]
+[[ru:編]]
+[[fi:編]]
+[[th:編]]
+[[chr:編]]
+[[zh:編]]

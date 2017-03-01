@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=09|sn=13|four=63016|canj=AJMM|ids=⿰日宣}}
+
+# [[warm]], [[comfortable]]
+# warm, [[genial]]
+
+====References====
+* {{Han ref|kx=0497.330|dkj=14033|dj=0865.200|hdz=21526.090|uh=6684|ud=26244|bh=B779|bd=46969}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xuān
+|c=hyun1
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[暄暖]] (xuān nuǎn)
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日09}}
+
+# {{defn|lang=ja|sort=日09}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken)|kun=[[あたたかい]] (atatakai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=훤|eumhun=|rv=hwon|mr=hwŏn|y=hwen}}
+
+# {{defn|lang=ko|sort=日09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=日09|hanviet=huyên}}
+
+# {{defn|lang=vi|sort=日09}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:暄]]
+[[hu:暄]]
+[[mg:暄]]
+[[ja:暄]]
+[[pl:暄]]
+[[th:暄]]
+[[vi:暄]]
+[[zh:暄]]

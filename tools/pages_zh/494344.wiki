@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhèngfāngxíng
+|c=zing3 fong1 jing4
+|mn=chèng-hong-hêng/chiàⁿ-hong-hêng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[square]]
+
+{{zh-cat|Geometry|Shapes}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|ほう|けい|yomi=on}}
+
+===Noun===
+{{ja-noun|せいほうけい}}
+
+# {{lb|ja|geometry|sort=せいほうけい}} regular [[square]], [[regular tetragon]]
+
+====Related terms====
+* {{ja-r|円|えん|gloss=[[circle]]}}
+* {{ja-r|四角形|しかっけい|gloss=[[quadrangle]], [[tetragon]]}}
+* {{ja-r|長方形|ちょうほうけい|gloss=[[rectangle]]}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Shapes|せいほうけい]]
+
+[[ko:正方形]]
+[[lt:正方形]]
+[[hu:正方形]]
+[[mg:正方形]]
+[[ja:正方形]]
+[[pt:正方形]]
+[[sv:正方形]]
+[[chr:正方形]]
+[[zh:正方形]]

@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{rfe|lang=mul|phono-semantic compound?}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=12|sn=15|four=66031|canj=RWGF|ids=⿰口黑}}
+
+# be [[silent]], be [[quiet]]
+
+====References====
+* {{Han ref|kx=0208.030|dkj=04283|dj=0430.320|hdz=10684.010|uh=563F|ud=22079|bh=BC4B|bd=48203}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=hēi
+|c=hei1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=intj
+}}
+
+====Interjection====
+{{zh-interj}}
+
+# [[hey]]! {{gloss|used to get attention}}
+
+=====See also=====
+* {{zh-l|嗨}}
+
+===Etymology 2===
+{{zh-see|默|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口12}}
+
+# {{defn|lang=ja|sort=口12}}
+
+====Readings====
+* {{ja-readings|on=[[ぼく]] (boku), [[もく]] (moku), [[こく]] (koku)|kun=[[しずか]] (shizuka), [[だまる]] (damaru), [[あぎむく]] (agimuku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=묵|rv=muk|mr=muk}}
+
+# {{defn|lang=ko|sort=口12}}
+
+[[zh-min-nan:嘿]]
+[[fr:嘿]]
+[[li:嘿]]
+[[hu:嘿]]
+[[mg:嘿]]
+[[ja:嘿]]
+[[no:嘿]]
+[[pl:嘿]]
+[[th:嘿]]
+[[uk:嘿]]
+[[zh:嘿]]

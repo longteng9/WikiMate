@@ -1,0 +1,90 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=07|sn=10|four=63050|canj=RHQI|ids=⿰口我}}
+
+# [[oh]]? [[really]]? is that [[so]]?
+
+====References====
+* {{Han ref|kx=0190.090|dkj=03642|dj=0409.260|hdz=10630.150|uh=54E6|ud=21734|bh=AE40|bd=44608}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=ó,ò,é
+|c=ngo4,o4,o6
+|mn=qz,xm,zz:ò͘/tw:ô͘
+|mc=y
+|oc=y
+|cat=intj,part
+}}
+{{attention|zh|what should be done about the multiple Mandarin readings? Are these meaningful distinctions?}}
+
+===Interjection===
+{{cmn-interj|ts|pin=ó|pint=o2|rs=口07}}
+
+# (interjection indicating doubt or surprise), [[oh]]
+
+===Interjection===
+{{cmn-interj|ts|pin=ò|pint=o4|rs=口07}}
+
+# (interjection indicating realization), [[oh]]
+
+===Particle===
+{{cmn-part|ts|pin=o|pint=o5|rs=口07}}
+
+# sentence-final particle conveying [[informality]], [[warmth]], [[friendliness]] or [[intimacy]]
+#: {{zh-x|好 好玩，但 小心 點 哦。|Have fun and be careful.}}
+# sentence-final particle indicating that one is stating a fact that the other person is not aware of
+
+===References===
+* {{R:cedict}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口07}}
+
+# {{defn|lang=ja|sort=口07}}
+
+====Readings====
+* {{ja-readings|on=[[が]] (ga)|kun=[[うたう]] (utau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=아|rv=a|mr=a}}
+
+# {{defn|lang=ko|sort=口07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''哦''' ([[nga]])
+
+# {{defn|lang=vi}}
+
+[[fr:哦]]
+[[hu:哦]]
+[[mg:哦]]
+[[ja:哦]]
+[[no:哦]]
+[[pl:哦]]
+[[th:哦]]
+[[chr:哦]]
+[[uk:哦]]
+[[zh:哦]]

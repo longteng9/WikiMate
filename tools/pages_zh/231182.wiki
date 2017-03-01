@@ -1,0 +1,85 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shēngwù
+|c=sang1 mat6
+|h=pfs=sâng-vu̍t
+|md=sĕng-ŭk
+|mn=qz:sng-bu̍t/tw,xm,zz:seng-bu̍t
+|w=1sen veq
+|ma=Zh-shengwù.ogg
+|mc=1,1
+|oc=1,1
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[organism]]; [[living]] [[being]]; [[life form]] {{zh-mw|個}}
+# [[biology]]
+
+====Synonyms====
+* {{sense|organism}} {{zh-l|有機體}}, {{q|Min Nan}} {{zh-l|活物}}, {{q|Min Nan}} {{zh-l|生物體}}
+* {{sense|biology}} {{zh-l|生物學}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[biological]]; [[bio-]]
+
+====Derived terms====
+{{zh-der|浮游生物|古生物|生物多樣性|生物工程|生物化學|生物降解|生物降解能力|生物降解性|生物量|生物圈|生物危害|生物危險|生物學|生物永生|微生物|生物質能|生物鐘}}
+
+===Descendants===
+{{CJKV||せいぶつ|생물|sinh vật}}
+
+{{zh-cat|Elementary|Biology}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|ぶつ|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|せいぶつ|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|せいぶつ}}
+
+# [[organism]], [[creature]]
+
+====Related terms====
+* {{ja-r|生物学|せいぶつがく}}
+* {{ja-r|生命|せいめい}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|せいふつ]]
+[[Category:ja:Biology|せいふつ]]
+
+[[zh-min-nan:生物]]
+[[de:生物]]
+[[es:生物]]
+[[fr:生物]]
+[[ko:生物]]
+[[io:生物]]
+[[it:生物]]
+[[kn:生物]]
+[[ky:生物]]
+[[lo:生物]]
+[[hu:生物]]
+[[mg:生物]]
+[[nl:生物]]
+[[ja:生物]]
+[[km:生物]]
+[[pl:生物]]
+[[fi:生物]]
+[[sv:生物]]
+[[th:生物]]
+[[chr:生物]]
+[[vi:生物]]
+[[zh:生物]]

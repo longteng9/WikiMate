@@ -1,0 +1,40 @@
+==Japanese==
+
+===Etymology===
+{{ja-kanjitab|み|ぜん|けい|yomi=o}}
+Compound of {{compound|lang=ja|未然|tr1=mizen|lit1=not yet occurred|形|tr2=kei|t2=form}}. Historically called {{ja-r|将然言|しょうぜんげん}}, {{ja-r|未然段|みぜんだん}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|みぜんけい|acc=h|acc_ref=DJR,NHK,SMK5|y=o}}
+
+===Noun===
+{{ja-noun|みぜんけい}}
+
+# {{lb|ja|grammar|sort=みぜんけい}} a Japanese verbal inflectional category: the [[irrealis]] form
+#: Indicates that something has not yet happened, or not yet begun.
+
+====Related terms====
+* {{ja-r|已然形|いぜんけい|gloss=[[realis]]}}
+* {{ja-r|仮定形|かていけい|gloss=[[conditional]]}}
+* {{ja-r|終止形|しゅうしけい|gloss=[[conclusive]]}}
+* {{ja-r|命令形|めいれいけい|gloss=[[imperative]]}}
+* {{ja-r|連用形|れんようけい|gloss=[[adverbial]]}}
+* {{ja-r|連体形|れんたいけい|gloss=[[attributive]]}}
+
+====See also====
+* [[Appendix:Japanese verbs]]
+
+===References===
+<references/>
+* {{cite-book
+|last=Shibatani
+|first=Masayoshi
+|title=The languages of Japan
+|publisher=Cambridge University Press
+|year=1990
+|pages=221-224
+|isbn=0-521-36918-5}}
+
+[[it:未然形]]
+[[pt:未然形]]
+[[zh:未然形]]

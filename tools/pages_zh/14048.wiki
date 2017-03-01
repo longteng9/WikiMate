@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=16|sn=19|four=44431|canj=VTLF|ids=⿰女燕}}
+
+# [[lovely]]
+
+====References====
+* {{Han ref|kx=0273.380|dkj=06874|dj=0542.100|hdz=21089.070|uh=5B3F|ud=23359|bh=F1FC|bd=61948}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yàn
+|c=jin2,jin3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:twedu|B00724}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女16}}
+
+# {{defn|lang=ja|sort=女16}}
+
+====Readings====
+* {{ja-readings|on=[[えん]] (en)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=연|rv=yeon|mr=yŏn}}
+
+# {{defn|lang=ko|sort=女16}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=女16|hanviet=yến}}
+
+# {{defn|lang=vi|sort=女16}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5b3f Nom Foundation]
+
+[[fr:嬿]]
+[[li:嬿]]
+[[hu:嬿]]
+[[pl:嬿]]
+[[th:嬿]]
+[[vi:嬿]]
+[[zh:嬿]]

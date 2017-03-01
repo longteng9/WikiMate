@@ -1,0 +1,33 @@
+==Japanese==
+{{ja-kanjitab|て|じゅん|yomi=ko}}
+
+===Etymology===
+From {{m|ja|手|sc=Jpan|tr=te||means}} + {{m|ja|順|sc=Jpan|tr=jun||order}}
+
+===Noun===
+{{ja-noun|てじゅん}}
+
+# [[procedure]], [[program]], [[process]]
+
+====Derived terms====
+* {{l|ja|手順書}} (''tejunsha''): {comp} process document
+* {{l|ja|手順名}} (''tejunmei''): {comp} routine-name
+* {{l|ja|手順終了}} (''tejun shūryō''): {comp} end of procedure
+* {{l|ja|無手順}} (''mutejun''): {comp} ASCII data transfer with XON-XOFF flow control
+* {{l|ja|演算手順}} (''enzan tejun''): algorithm
+* {{l|ja|信号手順}} (''shingo tejun''): {comp} signalling protocol
+* {{l|ja|通信手順}} (''tsūshin tejun''): {comp} transmission protocol
+* {{l|ja|復旧手順}} (''fukkyū tejun''): {comp} restoration procedure
+* {{l|ja|アップグレード手順}} (''appugurēdo tejun''): {comp} upgrade procedures
+* {{l|ja|呼制御手順}} (''koseigyo tejun''): (n) {comp} call control procedure
+* {{l|ja|エラー処理手順}} (''erā shori tejun''): {comp} error procedure
+* {{l|ja|シングルリンク手順}} (''shinguru rinku tejun''): {comp} single-link protocol
+* {{l|ja|トークンパッシング手順}} (''tōkun passhingu tejun''): {comp} token passing protocol
+* {{l|ja|ハイレベルデータリンク制御手順}} (''hai reberu dēta rinku seigyo tejun''): {comp} High-level Data Link Control
+
+[[fr:手順]]
+[[hu:手順]]
+[[mg:手順]]
+[[ja:手順]]
+[[chr:手順]]
+[[zh:手順]]

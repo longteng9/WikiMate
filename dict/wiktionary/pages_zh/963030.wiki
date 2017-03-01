@@ -1,0 +1,34 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǒulǐhuà
+|c=jau5 lei5 faa3
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|mathematics}} to [[rationalize]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ゆう|り|か}}
+
+===Noun===
+{{ja-noun|ゆうりか}}
+
+# {{lb|ja|mathematics|sort=ゆうりか}} [[rationalization]] (making into a rational expression)
+
+===Verb===
+{{ja-verb-suru|ゆうりか}}
+
+# {{lb|ja|mathematics|sort=ゆうりか}} to [[rationalize]]
+
+====Conjugation====
+{{ja-suru|ゆうりか}}
+
+[[zh:有理化]]

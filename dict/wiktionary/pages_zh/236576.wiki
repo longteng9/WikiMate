@@ -1,0 +1,108 @@
+{{also|自动车}}
+==Chinese==
+{{zh-forms|s=自动车|type=21}}
+
+===Etymology===
+{{bor|zh|ja|-}} {{ja-r|自動車|じどうしゃ}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zìdòngchē
+|c=zi6 dung6 ce1
+|h=pfs=chhṳ-thung-chhâ/chì-tó-sià
+|h_note=chì-tó-sià - from Japanese pronunciation
+|mn=tp,tn,yl:chū-tōng-chhia/sx:chīr-tōng-chhia/lk:chǐr-tǒng-chhia/tn,kh:ji-lò͘-sià/mg:li-lò͘-sià/hc:ji-lò-sià/tc:gi-lò͘-sià
+|mn_note=ji-lò͘-sià/li-lò͘-sià/ji-lò-sià/gi-lò͘-sià - from Japanese pronunciation
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[automobile]]; [[motor car]]
+
+====Synonyms====
+{{zh-dial|汽車}}
+
+{{zh-cat|Vehicles}}
+
+===References===
+* {{qualifier|Min Nan}} {{thcwd|2731}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じ|どう|しゃ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|じどうしゃ|acc=2|acc2=0|acc_ref=NHK,DJR|acc2_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|じどうしゃ|hhira=じどうしや}}
+
+# [[automobile]], [[car]], [[motorcar]]
+
+====Synonyms====
+* {{ja-r|車|くるま}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|大型自動車|おおがたじどうしゃ}}
+* {{ja-r|貸し自動車|かしじどうしゃ}}
+* {{ja-r|貨物自動車|かもつじどうしゃ}}: [[truck]]
+* {{ja-r|軽自動車|けいじどうしゃ}}: [[Kei-car]]
+* {{ja-r|小型自動車|こがたじどうしゃ}}: [[small]] [[car]]
+* {{ja-r|辻自動車|つじじどうしゃ}}: [[taxi]]
+* {{ja-r|乗用自動車|じょうようじどうしゃ}}: [[automobile]] {{qualifier|formal}}
+* {{ja-r|電気自動車|でんきじどうしゃ}}: [[electric car]]
+* {{ja-r|乗合自動車|のりあいじどうしゃ}}: [[bus]]
+{{der-mid}}
+* {{ja-r|中古自動車|ちゅうこじどうしゃ}}: [[used car]]
+* {{ja-r|自動車化|じどうしゃか}}: [[motorization]], [[motorisation]]
+* {{ja-r|自動車学校|じどうしゃがっこう}}: [[car school]]
+* {{ja-r|自動車事故|じどうしゃじこ}}: [[car]] [[accident]]
+* {{ja-r|自動車税|じどうしゃぜい}}: [[car tax]]
+* {{ja-r|自動車泥|じどうしゃどろ}}: [[car robber]]
+* {{ja-r|自動車電話|じどうしゃでんわ}}: [[car phone]]
+* {{ja-r|自動車保険|じどうしゃほけん}}: [[car insurance]]
+{{der-bottom}}
+
+===References===
+<references/>
+:* {{R:OxfordJapanese}}
+
+[[Category:Japanese basic words|しどうしゃ']]
+[[Category:ja:Automobiles|しどうしゃ']]
+[[Category:ja:Automotive|しどうしゃ']]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=자동차}}
+
+# {{hanja form of|자동차|automobile}}
+
+[[zh-min-nan:自動車]]
+[[cs:自動車]]
+[[es:自動車]]
+[[fr:自動車]]
+[[ko:自動車]]
+[[ku:自動車]]
+[[lo:自動車]]
+[[lt:自動車]]
+[[li:自動車]]
+[[hu:自動車]]
+[[mg:自動車]]
+[[ms:自動車]]
+[[fj:自動車]]
+[[ja:自動車]]
+[[uz:自動車]]
+[[pl:自動車]]
+[[pt:自動車]]
+[[ru:自動車]]
+[[sv:自動車]]
+[[chr:自動車]]
+[[zh:自動車]]

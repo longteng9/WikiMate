@@ -1,0 +1,46 @@
+{{also|毕业}}
+==Chinese==
+{{zh-forms|s=毕业}}
+
+===Pronunciation===
+{{zh-pron
+|m=bìyè
+|c=bat1 jip6
+|mn=pit-gia̍p
+|ma=Zh-bìyè.ogg
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[graduate]]; to [[finish]] [[school]]
+#: {{zh-x|我 去年 中學 畢業 了。|I '''graduated''' from high school last year.}}
+
+====Usage notes====
+Unlike its English equivalent ''graduate'', {{zh-l|畢業}} implies not only an event but a state. Note the following example sentence:
+
+{{zh-x|我 畢業 兩 年 了。|I '''graduated''' two years ago.}}
+
+Literally: "I have graduated for two years."
+
+===Noun===
+{{zh-noun}}
+
+# [[graduation]]
+#: {{zh-x|畢業 以來|since '''graduation'''}}
+
+====Synonyms====
+* {{q|literary}} {{zh-l|卒業}}
+
+====Derived terms====
+{{zh-der|畢業生|畢業考試|畢業證書|畢業歌|畢業論文|畢業式|畢業典禮|畢業旅行}}
+
+{{zh-cat|Elementary}}
+
+[[zh-min-nan:畢業]]
+[[ko:畢業]]
+[[hu:畢業]]
+[[ja:畢業]]
+[[chr:畢業]]
+[[zh:畢業]]

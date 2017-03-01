@@ -1,0 +1,52 @@
+{{also|野兔}}
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|ノウサギ属}}
+{{wikipedia|Hare}}
+[[File:Lepus_brachyurus_eating_grass.JPG|thumb|250px|{{lang|ja|野兎}} (''nousagi''): a Japanese '''[[hare]]''' eating grass.]]
+</div>
+===Etymology 1===
+{{ja-kanjitab|の|うさぎ|yomi=k}}
+Compound of {{compound|ja|sort=のうさき|野|tr1=no|t1=[[field]]|兎|tr2=usagi|t2=[[rabbit]]}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|の.うさぎ|acc=2|acc_ref=NHK,DJR}}
+
+====Noun====
+{{ja-noun|の.うさぎ|ノ.ウサギ}}
+
+# a [[hare]] {{gl|[[rabbit]]-like [[animal]]}}
+
+=====Usage notes=====
+{{U:ja:biology|ノウサギ}}
+
+{{C|ja|Hares|sort=のうさき}}
+
+===Etymology 2===
+{{ja-kanjitab|や|と|yomi=o}}
+From {{der|ja|ltc|sort=やと|野兔|tr={{IPAchar|/jia<sup>X</sup> tʰuo<sup>H</sup>/}}|lit=field + rabbit||hare}}.  Compare modern {{etyl|cmn|-}} reading ''yětù'', {{etyl|nan|-}} ''iá-thò''.
+
+The {{m|ja|兔}} character is the traditional variant of modern Japanese {{m|ja|兎}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|やと|acc=1|acc_ref=NHK,DJR}}
+
+====Noun====
+{{ja-noun|やと}}
+
+# a [[hare]] {{gl|[[rabbit]]-like [[animal]]}}
+
+===References===
+<references/>
+
+[[Category:Japanese words with multiple readings]]
+
+[[el:野兎]]
+[[fr:野兎]]
+[[it:野兎]]
+[[lt:野兎]]
+[[li:野兎]]
+[[mg:野兎]]
+[[nl:野兎]]
+[[ru:野兎]]
+[[zh:野兎]]

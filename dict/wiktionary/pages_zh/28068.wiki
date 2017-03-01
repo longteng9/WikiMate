@@ -1,0 +1,70 @@
+{{character info/new}}
+{{also|跄}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=10|sn=17|four=68167|canj=RMOIR}}
+
+# walk rapidly
+
+====References====
+* {{Han ref|kx=1231.160|dkj=37755|dj=1703.140|hdz=63730.010|uh=8E4C|ud=36428|bh=EEBE|bd=61118}}
+
+----
+
+==Chinese==
+{{zh-forms|s=跄}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiàng,qiāng
+|c=coeng3,coeng1
+|mn=chhiāng
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|抹蹌|秧秧蹌蹌|趨蹌|踉踉蹌蹌|踉蹌|蹌捍|蹌踉|蹌蹌|蹌蹌踉踉|躋躋蹌蹌}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=足10}}
+
+# {{defn|lang=ja|sort=足10}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō), [[そう]] (sō)|kun=[[うごく]] (ugoku), [[よろめく]] (yoromeku)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=창|eumhun=|rv=chang|mr=ch'ang|y=chang}}
+
+# {{defn|lang=ko|sort=足10}}
+
+[[fr:蹌]]
+[[hu:蹌]]
+[[mg:蹌]]
+[[ja:蹌]]
+[[pl:蹌]]
+[[th:蹌]]
+[[zh:蹌]]

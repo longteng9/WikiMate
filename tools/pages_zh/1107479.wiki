@@ -1,0 +1,78 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=rénshì
+|ma=y
+|c=jan4 si6,jan4 si6-2
+|h=pfs=ngìn-sṳ
+|mn=zz,kh:jîn-sū/xm,tp:lîn-sū/qz:lîn-sīr
+|w=3zen zr
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# men's [[behaviours]]; the reach of one's ability; what is [[humanly]] possible
+#* {{zh-x|孟子 曰：「富歲，子弟 多 賴；凶歲，子弟 多 暴，非 天 之 降 才 爾 殊 也，其 所 以 陷溺 其 心 者 然 也。今 夫{fú} 麰麥，播種 而 耰 之，其 地 同，樹 之 時 又 同，浡{bó} 然 而 生，至 於 日 至 之 時，皆 熟 矣。雖 有 不 同，則 地 有 肥磽，雨露 之 養，人事 之 不 齊 也。故 凡 同 類 者，舉 相{xiāng}似 也，何 獨 至 於 人 而 疑 之？聖人 與 我 同類 者。」|Mencius said, "In good years the children of the people are most of them good, while in bad years the most of them abandon themselves to evil. It is not owing to any difference of their natural powers conferred by Heaven that they are thus different. The abandonment is owing to the circumstances through which they allow their minds to be ensnared and drowned in evil. There now is barley. Let it be sown and covered up; the ground being the same, and the time of sowing likewise the same, it grows rapidly up, and, when the full time is come, it is all found to be ripe. Although there may be inequalities of produce, that is owing to the difference of the soil, as rich or poor, to the unequal nourishment afforded by the rains and dews, and to the different '''ways in which man has performed his business''' in reference to it. Thus all things which are the same in kind are like to one another; why should we doubt in regard to man, as if he were a solitary exception to this? The sage and we are the same in kind."|CL|ref=Mengzi}}
+#: {{zh-x|我 已 盡 人事。|I've done '''what is humanly possible'''.}}
+# [[human]] [[affair]]s; [[way]]s of the [[world]]; facts of life
+#* {{zh-x|前 事 之 不 忘，後 事 之 師。是 以 君子 為 國，觀 之 上古，驗 之 當世，參 以 '''人事'''，察 盛衰 之 理，審 權勢 之 宜，去 就 有 序，變化 應時，故 曠日長久，而 社稷 安 矣。|Do not forget the experiences and lessons learned from the past for they shall serve as a reference for future undertakings. A ruler will study history and verify the lessons in '''human affairs''' within a contemporary context to understand the rise and decline of a nation. They will also contemplate the balance of power and its corresponding scenarios, orderly weighing which ones to reject and which ones to adopt. Based on these considerations they will develop appropriate policies that over time will bring lasting peace to the nation.|CL|ref=Shiji}}
+#: {{zh-x|孩子{zi} 太 小，還 不 懂 人事。|The child is too young to know '''the ways of the world'''.}}
+# [[consciousness]] of the (outside) world
+#: {{zh-x|他 昏迷 過去，人事 不知。|He fainted and lost '''consciousness'''.}}
+# [[personnel]] [[matter]]s; [[human resources]]
+#: {{zh-x|人事 調{diào}動|transfer of '''personnel'''}}
+# [[social]] [[activity]]; social [[intercourse]]
+#: {{zh-x|不 務 學業，競 於 人事。|[He] focuses on the '''social intercourses''' and not his study.}}
+#: {{zh-x|盡量 處{chǔ}理 好 人事 關係。|To handle '''interpersonal''' relationships to the best of one's ability}}
+# {{lb|zh|dialectal}} [[gift]]; [[present]]
+# man-caused [[turmoil]]; [[unrest]]
+# [[sexual]] [[awareness]]; sexual passion
+#: {{zh-x|年紀 漸 長{zhǎng}，已 曉 人事。|[He] gradually gains '''sexual awareness''' as his age grows.}}
+
+===Derived terms===
+{{zh-der|不省人事|人事關係}}
+
+===Descendants===
+{{CJKV|人事|じんじ|인사|nhân sự}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じん|じ|yomi=on}}
+
+===Noun===
+{{ja-noun|じんじ}}
+
+# [[human]] [[affairs]]
+# personnel affairs/matters
+# [[human resources]], [[HR]]
+
+===Noun===
+{{ja-noun|ひとごと}}
+
+# other people's affairs; somebody else's problem
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=인사}}
+
+# {{hanja form of|인사|[[greeting]]; personnel matters[affairs], human resources affairs}}
+
+[[zh-min-nan:人事]]
+[[ko:人事]]
+[[lo:人事]]
+[[hu:人事]]
+[[ja:人事]]
+[[zh:人事]]

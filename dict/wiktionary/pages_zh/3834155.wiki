@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|げき|げん|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|げきげん|y=on}}
+
+===Noun===
+{{ja-noun|げきげん}}
+
+# [[decreasing]] sharply
+
+====Antonyms====
+* {{l|ja|激増}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|げきげん}}
+
+# [[decrease]] rapidly
+
+====Conjugation====
+{{ja-suru|げきげん}}
+
+[[ko:激減]]
+[[hu:激減]]
+[[ja:激減]]
+[[zh:激減]]

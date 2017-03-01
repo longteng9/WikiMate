@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|荧}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=10|sn=14|four=99809|canj=FFBF,XFFBF|ids=⿱𤇾火}}
+
+# [[shine]], [[shimmer]]
+# to shine, shimmer
+# [[shining]], [[dazzling]]
+
+====References====
+* {{Han ref|kx=0679.210|dkj=19304|dj=1091.070|hdz=32225.020|uh=7192|ud=29074|bh=BAB7|bd=47799}}
+
+----
+
+==Chinese==
+{{zh-forms|s=荧}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|焱|冂|t1=lamps and candlelight|t2=roof|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yíng
+|c=jing4
+|mn=êng
+|mc=y
+|oc=y
+|ma=
+|cat=n,v,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火10}}
+
+# [[shine]]
+# [[shimmer]]
+# [[shining]]
+# [[dazzling]]
+
+====Readings====
+* {{ja-readings|on=[[けい]] (kei), [[ぎょう]] (gyō), [[こう]] (kō)|kun=[[ひかり]] (hikari)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=형|eumhun=|rv=hyeong|mr=hyŏng|y=hyeng}}
+
+# [[lamplight]]
+# the glow of a firefly
+# [[shine]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[huỳnh]]|rs=火10}}
+
+# {{defn|lang=vi|sort=火10}}
+
+[[fr:熒]]
+[[hu:熒]]
+[[mg:熒]]
+[[ja:熒]]
+[[pl:熒]]
+[[th:熒]]
+[[zh:熒]]

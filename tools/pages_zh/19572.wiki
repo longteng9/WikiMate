@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=12|sn=15|four=32122|canj=EGTH}}
+
+# [[splatter]]
+
+====References====
+* {{Han ref|kx=0652.040|dkj=18332|dj=1062.070|hdz=31736.020|uh=6F8E|ud=28558|bh=BCEA|bd=48362}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=澎
+|c=paang1,paang4
+|h=pfs=
+|md=
+|mn=qz:phn̂g/xm,zz:phêng
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# sound of waves
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水12}}
+
+# {{defn|lang=ja|sort=水12}}
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=팽|eumhun=|rv=paeng|mr=p'aeng|y=phayng}}
+
+# {{defn|lang=ko|sort=水12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|bành|rs=水12}}
+
+# {{defn|lang=vi|sort=水12}}
+
+[[fr:澎]]
+[[hu:澎]]
+[[mg:澎]]
+[[ja:澎]]
+[[no:澎]]
+[[pl:澎]]
+[[th:澎]]
+[[zh:澎]]

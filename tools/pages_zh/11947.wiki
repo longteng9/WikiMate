@@ -1,0 +1,71 @@
+{{character info/new}}
+{{also|巵}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=26|rad=卩|as=03|sn=5|four=72217|canj=HMSU|ids=⿸𠂋㔾}}
+
+====References====
+* {{Han ref|kx=0159.040|dkj=02846|dj=0363.140|hdz=10311.040|uh=536E|ud=21358|bh=A567|bd=42343}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=巵}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhī
+|c=zi1
+|mc=y
+|oc=y
+|ma=
+|cat=n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# a [[round]] [[goblet]] used in [[ancient]] [[China]]
+# {{zh-classifier|wine|dot=:}} goblet; [[cup]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=卩03}}
+
+# {{defn|lang=ja|sort=卩03}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[さかずき]] (sakazuki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=치|rv=chi|mr=ch'i}}
+
+# {{defn|lang=ko|sort=卩03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=卩03|hanviet=chi}}
+
+# {{defn|lang=vi|sort=卩03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=536e Nom Foundation]
+
+[[fr:卮]]
+[[hu:卮]]
+[[mg:卮]]
+[[ja:卮]]
+[[pl:卮]]
+[[th:卮]]
+[[zh:卮]]

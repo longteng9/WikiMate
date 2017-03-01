@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=06|sn=10|four=44338|canj=TCP|ids=⿱共㣺}}
+
+# [[respectful]], [[polite]], [[reverent]]
+
+====References====
+* {{Han ref|kx=0385.150|dkj=10596|dj=0717.050|hdz=42299.090|uh=606D|ud=24685|bh=AEA5|bd=44709}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gōng
+|c=gung1
+|h=pfs=
+|md=
+|mn=kiong
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+* {{zh-l|恭喜}}
+* {{zh-l|恭喜發財}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=心06}}
+
+# respect
+
+====Readings====
+* {{ja-readings|goon=[[く]] (ku)|kanon=[[きょう]] (kyō)|kun=[[うやうやしい]] (uyauyashii)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=공|eumhun=|rv=gong|mr=kong|y=kong}}
+
+# {{defn|lang=ko|sort=心06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|cung|rs=心06}}
+
+# {{defn|lang=vi|sort=心06}}
+
+[[zh-min-nan:恭]]
+[[fr:恭]]
+[[ko:恭]]
+[[li:恭]]
+[[hu:恭]]
+[[mg:恭]]
+[[ms:恭]]
+[[ja:恭]]
+[[no:恭]]
+[[pl:恭]]
+[[th:恭]]
+[[zh:恭]]

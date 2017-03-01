@@ -1,0 +1,37 @@
+{{also|招來}}
+==Chinese==
+{{zh-see|招來}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|しょう|らい}}
+
+===Etymology===
+{{IPAchar|/seurai/}} → {{IPAchar|/ɕeurai/}} → {{IPAchar|/ɕoːrai/}}
+
+From {{etyl|ltc|ja|sort=しょうらい}} compound {{m|zh|招來|tr=tsyew loj|lit=beckon + come}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|しょうらい|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|しょうらい|hhira=せうらい}}
+
+# [[invitation]]
+# [[bringing about]]
+
+===Verb===
+{{ja-verb-suru|しょうらい}}
+
+# [[invite]]
+# [[bring about]], [[give rise to]], [[cause]]
+
+====Conjugation====
+{{ja-suru|しょうらい}}
+
+===References===
+<references/>
+
+[[ko:招来]]
+[[zh:招来]]

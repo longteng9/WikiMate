@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|經|经}}
+==Translingual==
+{{Han simplified forms|經|経|经}}
+
+===Etymology===
+{{Han simp|經|f=巠|t=圣}} in Japanese shinjitai. Current form {{Han compound|糸|圣}}, but not etymologically related to [[圣]].
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=05|sn=11|four=|canj=VFEG|ids=⿰糹圣}}
+
+# [[classic]] [[work]]s
+# [[pass through]]
+
+====References====
+* {{Han ref|kx=0921.291|dkj=27392|dj=1354.160|hdz=53388.071|uh=7D4C|ud=32076}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=糸05|style=s|kyu=經}}
+
+# {{defn|lang=ja|sort=糸05}}
+
+====Readings====
+{{ja-readings|goon=[[きょう]] (kyō)|kanon=[[けい]] (kei)|kanyoon=[[きん]] (kin)|kun=[[へる|へ.る]] (heru), [[たていと]] (tateito), [[つね]] (tsune), [[たつ|た.つ]] (tatsu)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|一日経|いちにちきょう}}: dead memorial service where many gather to transcribe a [[sutra]] in one day
+* {{ja-r|経絡系|けいらくけい}}: the [[meridian]] [[system]]
+* {{ja-r|経緯|いきさつ}}, {{ja-r|経緯|けい.い}}, {{ja-r|経緯|たてぬき}}, {{ja-r|経緯|たてよこ}}
+* {{ja-r|経営|けいえい}}
+* {{ja-r|経過|けいか}}
+* {{ja-r|経験|けいけん}}: [[experience]]
+* {{ja-r|経験値|けいけんち}}: [[experience point]]
+* {{ja-r|経口|けいこう}}
+* {{ja-r|経済|けいざい}}
+* {{ja-r|経渉|けいしょう}}
+{{der-mid}}
+* {{ja-r|経常|けいじょう}}
+* {{ja-r|経度|けいど}}
+* {{ja-r|経費|けいひ}}
+* {{ja-r|経由|けいゆ}}, {{ja-r|経由|けいゆう}}
+* {{ja-r|経絡|けいらく}}
+* {{ja-r|経理|けいり}}
+* {{ja-r|経略|けいりゃく}}
+* {{ja-r|経歴|けいれき}}
+* {{ja-r|経路|けいろ}}
+* {{ja-r|経典|きょうてん}}, {{ja-r|経典|けいてん}}
+* {{ja-r|緯経|よこたて}}: [[breadth]] and [[length]]; [[woof]] and [[warp]]
+{{der-bottom}}
+
+====Related terms====
+* {{ja-r|経る|へる}}
+
+{{ja-kanjitab|きょう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=goon|きょう|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|きょう|hhira=きやう}}
+
+# [[sutra]]
+
+===References===
+<references/>
+
+[[fr:経]]
+[[it:経]]
+[[hu:経]]
+[[mg:経]]
+[[ja:経]]
+[[pl:経]]
+[[th:経]]
+[[zh:経]]

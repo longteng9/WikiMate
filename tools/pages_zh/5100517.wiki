@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|ぶた|こ|k2=ご|や|yomi=k}}
+
+===Etymology===
+Compound of {{compound|豚|tr1=buta|t1=pig|小屋|tr2=koya|t2=pen|lang=ja|sort=ふたごや'}}. {{rendaku2|koya|goya|sort=ふたごや'}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|ぶたごや|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ぶたごや}}
+
+# [[pigsty]] {{gloss|enclosure where pigs are kept}}
+# [[pigsty]] {{gloss|dirty or very untidy place}}
+
+====Synonyms====
+* {{sense|enclosure where pigs are kept}} {{ja-r|豚舎|とんしゃ}}
+
+===References===
+<references/>
+
+[[Category:ja:Pigs|ふたごや']]
+
+[[hu:豚小屋]]
+[[ja:豚小屋]]

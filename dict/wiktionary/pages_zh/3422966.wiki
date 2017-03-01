@@ -1,0 +1,44 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Kamaboko}}
+[[File:Typha_latifolia_02_bgiu.jpg|thumb|250px|{{lang|ja|{{PAGENAME}}}} (''kamaboko''): The '''[[cattail]] [[seed]] [[spike]]''' of the cattail or [[bulrush]] plant.]]
+[[File:Kamaboko.jpg|thumb|250px|{{PAGENAME}} (''kamaboko''): Pink and white '''''kamaboko'' [[fishcake]]'''.]]
+</div>
+{{ja-kanjitab|かま|ほこ|k2=ぼこ|yomi=k|r=y}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=かまぼこ|蒲|tr1=kama|t1=cattail, bulrush|鉾|tr2=hoko|t2=spear}}. The ''hoko'' changes to ''boko'' due to {{rendaku|かまぼこ}}. From the way the seed spike resembles a spear. <ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+* {{ja-pron|かまぼこ|y=k|acc=0|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|かまぼこ}}
+
+# The [[seed]] [[spike]] or [[raceme]] of the [[cattail]] or [[bulrush]] plant.
+# (''From the resemblance to a cattail seed spike in shape and sometimes color''): A traditional Japanese [[fishcake]]: any of various [[processed]] [[seafood]] products made from [[surimi]], in which [[whitefish]] is [[puree]]d, formed into [[loaf|loaves]], and [[steam]]ed until [[firm]].
+
+====Usage notes====
+Generally written in [[hiragana]] due to the high number of strokes and rarity of the characters used in the [[kanji]] spelling.
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|蒲鉾芋|かまぼこ いも}}: [[grated]] {{m|ja|山芋|tr=yamaimo}}, wheat [[flour]], and [[arrowroot]] mixed, placed on a board, steamed, and made to look like ''kamaboko''
+* {{ja-r|蒲鉾形|かまぼこがた}}: a domed shape like a ''kamaboko'' loaf placed on a board
+* {{ja-r|蒲鉾小屋|かまぼこごや}}: a rough [[hut]] shaped like a ''kamaboko'' loaf, made of bent [[bamboo]] and covered in [[rush]]es
+* {{ja-r|蒲鉾箍|かまぼこ たが}}: a [[brass]] or [[copper]] hoop such as for a [[barrel]] or {{m|ja|湯桶|tr=yutō}} that is wide in the middle and narrow at the edges, similar in shape to a ''kamaboko'' loaf
+* {{ja-r|蒲鉾豆腐|かまぼこどうふ}}: [[tofu]] mixed with [[walnut]]s, placed on a board, steamed, and made to look like ''kamaboko''
+* {{ja-r|蒲鉾味噌|かまぼこ みそ}}: [[surimi]] mixed with white [[miso]], cracked {{m|ja|山椒|tr=sanshō||Japanese [[pepper]]}}, minced [[ginger]], [[soy sauce]], and optionally other ingredients, and simmered in [[saké]] over low heat
+* {{ja-r|蒲鉾道|かまぼこ みち}}: a road where the surface bulges up in the center and is lower on the edges, similar in shape to a ''kamaboko'' loaf
+* {{ja-r|蒲鉾弓|かまぼこ ゆみ}}: a type of [[bow]] made of [[zelkova]] wood with a layer of [[bamboo]] on the outside and similar in shape to a ''kamaboko'' loaf, popular from the late [[w:Heian period|Heian period]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Foods|かまぼこ]]
+
+[[hu:蒲鉾]]
+[[ja:蒲鉾]]
+[[zh:蒲鉾]]

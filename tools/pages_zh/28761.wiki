@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|遥}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=10|sn=14|four=37307|canj=YBOU|ids=⿺辶䍃}}
+
+# [[faraway]], [[distant]], [[remote]]
+
+====References====
+* {{Han ref|kx=1262.250|dkj=39035|dj=1757.040|hdz=63873.021|uh=9059|ud=36953|bh=BBBB|bd=48059}}
+
+----
+
+==Chinese==
+{{zh-forms|s=遥}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yáo
+|c=jiu4
+|h=pfs=
+|md=
+|mn=qz,tw,xm,zz:iâu
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辵10}}
+
+# {{defn|lang=ja|sort=辵10}}
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō)|kun=[[はるか]] (haruka)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=요|eumhun=|rv=yo|mr=yo|y=yo}}
+
+# {{defn|lang=ko|sort=辵10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=辵10| hanviet = diêu}}
+
+# {{defn|lang=vi|sort=辵10}}
+
+[[fr:遙]]
+[[ko:遙]]
+[[hu:遙]]
+[[mg:遙]]
+[[ja:遙]]
+[[pl:遙]]
+[[th:遙]]
+[[zh:遙]]

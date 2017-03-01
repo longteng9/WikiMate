@@ -1,0 +1,106 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=10|sn=14|four=47962|canj=DHHW|ids=⿰木留}}
+
+====References====
+* {{Han ref|kx=0544.240|dkj=15280|dj=0932.080|hdz=21267.050|uh=69B4|ud=27060|bh=BA68|bd=47720}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+[[File:Pomegranate DSW.JPG|thumb|150px|right|Opened pomegranate]]
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|留|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+The botanist {{w|Li Shizhen}} suggests that {{lang|zh|榴}} is the same as {{och-l|瘤|lump, tumour}}, as the pomegranate fruit resembles cancerous outgrowths on the body.
+
+===Pronunciation===
+{{zh-pron
+|m=liú
+|c=lau4
+|h=pfs=liù
+|md=liù
+|mn=liû
+|w=3lieu
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-short|石榴|[[pomegranate]]}}
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|安石榴|楠榴|榴月|榴火|榴彈炮|榴彈|榴花|榴炮|石榴裙|石榴|朱脣榴齒|番石榴|手榴彈|榴霰彈|榴槤|若榴|鎗榴彈}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木10}}
+
+# [[pomegranate]]
+
+====Readings====
+* {{ja-readings|kanon=[[りゅう]] (ryū)|goon=[[る]] (ru)|kun=[[ざくろ]] (zakuro)}}
+
+====Compounds====
+{{der-top|Compounds with 榴}}
+{{top2}}
+* {{ja-r|崖石榴|いたびかずら}}
+* {{ja-r|若榴|ざくろ}}
+* {{ja-r|柘榴|ざくろ}}; or {{ja-r|柘榴|じゃくろ}}
+* {{ja-r|石榴|ざくろ}}; or {{ja-r|石榴|せきりゅう}}; or {{ja-r|石榴|じゃくろ}}
+* {{ja-r|石榴石|ざくろいし}}
+* {{ja-r|石榴口|ざくろぐち}}
+* {{ja-r|石榴鼻|ざくろばな}}
+* {{ja-r|手榴弾|しゅりゅうだん}}; or {{ja-r|手榴弾|てりゅうだん}}
+{{mid2}}
+* {{ja-r|海石榴|つばき}}
+* {{ja-r|花柘榴|はなざくろ}}
+* {{ja-r|蕃石榴|ばんじろう}}
+* {{ja-r|榴輝岩|りゅうきがん}}
+* {{ja-r|榴散弾|りゅうさんだん}}
+* {{ja-r|榴霰弾|りゅうさんだん}}
+* {{ja-r|榴弾|りゅうだん}}
+* {{ja-r|榴弾砲|りゅうだんほう}}
+{{bottom}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[류]]>[[유]]|eumhun=|rv=ryu>yu|mr=ryu>yu|y=lyu>yu}}
+
+# {{defn|lang=ko|sort=木10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lựu]]|rs=木10}}
+
+# {{defn|lang=vi|sort=木10}}
+
+[[fr:榴]]
+[[ko:榴]]
+[[hu:榴]]
+[[mg:榴]]
+[[ja:榴]]
+[[no:榴]]
+[[pl:榴]]
+[[th:榴]]
+[[zh:榴]]

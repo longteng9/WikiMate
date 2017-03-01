@@ -1,0 +1,118 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǚrén
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[traveller]]
+# {{lb|zh|literary}} [[itinerant]]
+# {{lb|zh|literary}} [[common]] [[people]]
+# {{lb|zh|archaic}} [[official]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|たび|ひと|k2=びと|r=y}}
+Compound of {{compound|lang=ja|旅|tr1=tabi|t1=travel|人|tr2=hito|t2=person}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> {{rendaku2|sort=たびびと|hito|bito}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|たびびと|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|たびびと}}
+
+# one who travels: a [[traveler]]
+
+=====Usage notes=====
+For the {{m|en|traveler}} sense, the ''tabibito'' reading is the most common in modern {{etyl|ja|-}}.
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|たび|と}}
+Either an alteration of ''tabibito'' above,<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> or a compound of {{compound|lang=ja|sort=たびと|旅|tr1=tabi|t1=travel|人|tr2=to|t2=person|pos2=suffixing form}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Compare the formation of {{m|ja|隼人|tr=hayato|lit=hawk people|pos=name of an ancient ethnic group in Japan}}, {{m|ja|東人|tr=azumato||easterner}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|たびと}}
+
+====Noun====
+{{ja-noun|たびと}}
+
+# {{lb|ja|sort=たびと|archaic}} one who travels: a [[traveler]]
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|たび|うど}}
+{{IPAchar|*/tapiputo/}} → {{IPAchar|*/tabibuto/}} → {{IPAchar|/tabiudo/}}
+
+Compound of {{compound|lang=ja|sort=たびうど|旅|tr1=tabi|t1=travel|人|tr2=udo|t2=person}}.
+
+The term {{m|ja|人|tr=hito||person}} appears in various older compounds with a root form of {{m|ja|人|tr=*puto → *buto → *udo, *puto → *futo → *uto}}. This form is never seen in isolation, and it often undergoes further phonetic changes to combine with preceding vowels. Compare the formation of {{m|ja|仲人|tr=nakōdo}}, from ''naka'' + ''udo''; {{m|ja|素人|tr=shirōto}}, from ''shiro'' + ''uto''.
+
+====Pronunciation====
+{{ja-pron|yomi=k|たびうど}}
+
+====Noun====
+{{ja-noun|たびうど}}
+
+# {{lb|ja|sort=たびうど|archaic}} one who travels: a [[traveler]]
+
+===Etymology 4===
+{{ja-kanjitab|yomi=irr|sort=たびゅうど}}
+{{IPAchar|*/tapiputo/}} → {{IPAchar|*/tabibuto/}} → {{IPAchar|/tabiudo/}} → {{IPAchar|/tabjuːdo/}}
+
+Alteration from ''tabiudo'' above.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Compare the formation of {{m|ja|仲人|tr=nakōdo}}, from ''naka'' + ''udo''; {{m|ja|素人|tr=shirōto}}, from ''shiro'' + ''uto''.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|たびゅうど}}
+
+====Noun====
+{{ja-noun|たびゅうど|hhira=たびうど}}
+
+# {{lb|ja|sort=たびゅうど|uncommon}} one who travels: a [[traveler]]
+
+===Etymology 5===
+{{ja-kanjitab|yomi=y|たび|にん}}
+Compound of {{compound|lang=ja|sort=たびにん|旅|tr1=tabi|t1=travel|人|tr2=nin|t2=person; type of person|pos2=using the {{etyl|zh|-}}-derived [[呉音#Japanese|goon]] reading}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=y|たびにん|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|たびにん}}
+
+# one who is constantly going from one place to another:
+## a [[migrant worker]]
+## an [[itinerant]], especially someone like a [[gambler]], [[mountebank]] or [[peddler]]
+
+=====Synonyms=====
+* {{sense|the general sense of someone who doesn't stay in one place very long}} {{ja-r|渡り鳥|わたりどり}}; {{ja-r|渡り者|わたりもの}}
+
+===Etymology 6===
+{{ja-kanjitab|yomi=o|りょ|じん}}
+From later {{etyl|ltc|ja|sort=りょじん}} compound {{m|zh|旅人|tr=ljo<sup>X</sup> ȵʑjen|lit=travel + person}}. Compare modern {{etyl|cmn|-}} reading ''lǚrén''.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|りょじん|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|りょじん}}
+
+# in ancient China, an [[official]] [[title]], referring to a [[commoner]] in an official [[government]] [[position]]
+# one who travels: a [[traveler]]
+
+===References===
+<references/>
+
+[[fr:旅人]]
+[[ko:旅人]]
+[[li:旅人]]
+[[hu:旅人]]
+[[ja:旅人]]
+[[sv:旅人]]
+[[zh:旅人]]

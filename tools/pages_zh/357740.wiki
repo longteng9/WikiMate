@@ -1,0 +1,20 @@
+{{also|转换器}}
+==Chinese==
+{{zh-forms|s=转换器|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhuǎnhuànqì
+|c=zyun2 wun6 hei3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|electronics}} [[converter]]
+
+====Derived terms====
+{{zh-der|模數轉換器:analog to digital converter}}
+
+[[zh:轉換器]]

@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=11|sn=18|four=53801|canj=IFRYO|ids=⿱戚足}}
+
+# [[urgent]], [[suddenly]]
+# [[grieve]], [[lament]]
+
+====References====
+* {{Han ref|kx=1232.060|dkj=37790|dj=1704.080|hdz=63733.090|uh=8E59|ud=36441|bh=C2D9|bd=49881}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cù
+|c=zuk1,cuk1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|顰蹙}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=足11}}
+
+# {{defn|lang=ja|sort=足11}}
+
+====Readings====
+* {{ja-readings|on=[[しゅく]] (shuku), [[せき]] (seki)|kun=[[せまる]] (semaru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=축|eumhun=|rv=chuk|mr=ch'uk|y=chwuk}}
+
+# {{defn|lang=ko|sort=足11}}
+
+[[fr:蹙]]
+[[ko:蹙]]
+[[hu:蹙]]
+[[mg:蹙]]
+[[ja:蹙]]
+[[pl:蹙]]
+[[th:蹙]]
+[[zh:蹙]]

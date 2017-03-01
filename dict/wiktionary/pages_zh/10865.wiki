@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=06|sn=8|four=|canj=OINI,XOINI|ids=⿱今云}}
+
+# (same as [[陰]] [[阴]]) [[cloudy]], [[overcast]]
+# [[dark]]
+# {{†}} [[hidden]], [[secret]]
+# {{†}} [[negative]]
+# {{†}} The [[Moon]]
+# [[shade]], [[shadow]]
+# {{lb|zh|philosophy}} "[[female]]" principle; ''[[yin]]'' in ''[[yin-yang]]''
+
+====References====
+* {{Han ref|kx=0101.250|dkj=00588|dj=0215.060|hdz=10143.100|uh=4F8C|ud=20364}}
+* [http://yedict.com/htm/4F/4F8C.htm yedict.com (叶典)]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yīn
+|c=jam1
+|mc=
+|oc=
+|ma=
+|cat=a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 64]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人06}}
+
+# {{defn|lang=ja|sort=人06}}
+
+====Readings====
+* {{ja-readings|on=[[いん]] (in)|kun=[[かげ]] (kage), [[かげる]] (kageru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=음|eumhun=|rv=eum|mr=ŭm|y=um}}
+
+# [[그늘]]: [[shade]], [[shadow]]
+
+[[fr:侌]]
+[[ko:侌]]
+[[hu:侌]]
+[[pl:侌]]
+[[th:侌]]
+[[zh:侌]]

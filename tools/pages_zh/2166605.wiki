@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wàiqín
+|c=ngoi6 kan4
+|mn=qz,tp,xm:gōa-khûn/kh,zz:gōa-khîn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[work]] away from the [[office]]; [[fieldwork]]
+# [[fieldworker]]
+
+====Antonyms====
+* {{zh-l|內勤}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|がい|きん|yomi=on}}
+
+===Noun===
+{{ja-noun|がいきん}}
+# [[working]] away from the [[office]]
+
+====Antonyms====
+* {{ja-r|内勤|ないきん}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|がいきん}}
+
+# work away from the office
+
+====Conjugation====
+{{ja-suru|がいきん}}
+
+[[zh:外勤]]

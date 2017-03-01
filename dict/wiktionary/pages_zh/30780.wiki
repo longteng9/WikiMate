@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=172|rad=隹|as=06|sn=14|four=20614|canj=HROG}}
+
+# black [[horse]] with white mane
+
+====References====
+* {{Han ref|kx=1367.110|dkj=42026|dj=1871.220|hdz=64099.160|uh=96D2|ud=38610|bh=BBDC|bd=48092}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=luò
+|c=lok3,lok6
+|mn=lo̍k
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|雒邑|雒雒}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=隹06}}
+
+# {{defn|lang=ja|sort=隹06}}
+
+====Readings====
+* {{ja-readings|on=[[らく]] (raku)|kun=[[みみずく]] (mimizuku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[락]]>[[낙]]|eumhun=|rv=rak>nak|mr=rak>nak|y=lak>nak}}
+
+# {{defn|lang=ko|sort=隹06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lạc]]|rs=隹06}}
+
+# {{defn|lang=vi|sort=隹06}}
+
+[[fr:雒]]
+[[hu:雒]]
+[[mg:雒]]
+[[pl:雒]]
+[[th:雒]]
+[[zh:雒]]

@@ -1,0 +1,76 @@
+{{also|衞生|卫生}}
+==Chinese==
+{{zh-forms|s=卫生|t2=衞生}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=wèishēng
+|c=wai6 sang1
+|h=pfs=vi-sên
+|md=uôi-sĕng
+|mn=xm,zz,tw:ōe-seng/qz:ōe-sng/twv:ūi-seng
+|w=3hhue sen
+|mc=y,1
+|oc=y;1
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[hygiene]]; [[sanitation]]; [[health]]
+#: {{zh-x|搞 衛生|to do cleaning}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[hygienic]]
+
+====Derived terms====
+{{zh-der|個人衛生|精神衛生|口腔衛生|衛生保健|衛生間|衛生巾|衛生棉條|衛生套|衛生紙}}
+
+===Descendants===
+{{CJKV||えいせい|위생|vệ sinh}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|えい|せい|yomi=on}}
+
+===Noun===
+{{ja-noun|えいせい}}
+
+# [[hygiene]], [[sanitary]], [[health]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=위생}}
+
+# {{hanja form of|위생|[[hygiene]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|vệ sinh|[[hygiene]]}}
+
+[[zh-min-nan:衛生]]
+[[fr:衛生]]
+[[ko:衛生]]
+[[hu:衛生]]
+[[mg:衛生]]
+[[ja:衛生]]
+[[fi:衛生]]
+[[tr:衛生]]
+[[zh:衛生]]

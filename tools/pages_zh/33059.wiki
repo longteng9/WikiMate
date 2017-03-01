@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|黙}}
+==Translingual==
+{{ja-forms|[[黙]]|默|默}}
+
+===Han character===
+{{Han char|rn=203|rad=黑|as=04|sn=16|four=63334|canj=WFIK}}
+
+# [[silent]]
+# [[quiet]], [[still]]
+# [[dark]]
+
+====References====
+* {{Han ref|kx=1519.110|dkj=48063|dj=2052.240|hdz=74744.110|uh=9ED8|ud=40664|bh=C071|bd=49265}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=嘿}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|ls=psc|黑|c1=p|犬|c2=s|t2=dog}} &ndash; a dog ''silently'' chasing a person.
+
+===Pronunciation===
+{{zh-pron
+|m=mò
+|c=mak6
+|mn=hm̍h
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|沉默|默哀|默禱|默讀|默記|默默|默默無聞|默念|默片|默契|默然|默認|默誦|默想|默寫|默許|冥默|幽默感|慎默|循默|喑默|幽默|啞默悄靜|啽默|拱默|沖默|沉默寡言|潛神默思|沉默是金|眇默|理默|瘖默|潛移默運|潛移默化|潛神默記|打破沉默|淵默|潛移默奪|默稿|默默無聲|默祐|默默無語|緘默權|默示|默無一言|默默無言|默默不語|默識|默算|默然無聲|默思|默存|默坐|默唸|默劇|默不作聲|黑色幽默|鴉默雀靜|靜默|默書|默照禪|緘默}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=黑04|style=ky|shin=黙}}
+
+# {{defn|lang=ja|sort=黑04}}
+
+====Readings====
+* {{ja-readings|on=[[もく]] (moku)|kun=[[だまる]] (damaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=묵|eumhun=|rv=muk|mr=muk|y=muk}}
+
+# {{defn|lang=ko|sort=黑04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mặc]], [[mắc]]|rs=黑04}}
+
+# {{defn|lang=vi|sort=黑04}}
+
+[[zh-min-nan:默]]
+[[fr:默]]
+[[ko:默]]
+[[hu:默]]
+[[mg:默]]
+[[ja:默]]
+[[no:默]]
+[[pl:默]]
+[[ru:默]]
+[[th:默]]
+[[zh:默]]

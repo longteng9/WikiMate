@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=mànyán
+|c=maan6 jin4
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[spread]]; to [[extend]] {{gloss|of diseases, vegetation, etc.}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|まん|えん|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|まんえん|y=on}}
+
+===Noun===
+{{ja-noun|まんえん}}
+
+# [[spread]] of a disease
+# rampancy of the growth of vines
+# growing [[rampancy]] of a bad custom
+
+===Verb===
+{{ja-verb-suru|tr=intrans|まんえん}}
+
+# for disease to [[spread]]
+# for vines to grow [[rampant]]
+# a bad custom to grow rampant
+
+====Conjugation====
+{{ja-suru|まんえん}}
+
+[[ko:蔓延]]
+[[mg:蔓延]]
+[[ja:蔓延]]
+[[chr:蔓延]]
+[[zh:蔓延]]

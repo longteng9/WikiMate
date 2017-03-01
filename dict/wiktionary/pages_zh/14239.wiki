@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=40|rad=宀|as=13|sn=16|four=30732|canj=JWLV|ids=⿱宀睘}}
+
+# [[great]] [[domain]]
+# [[country]]
+# [[world]]
+
+====References====
+* {{Han ref|kx=0292.170|dkj=07344|dj=0579.050|hdz=20956.020|uh=5BF0|ud=23536|bh=BEC8|bd=48840}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|宀|睘|c1=s|c2=p|t1=roof|ls=psc}}
+{{attention|zh|This etymology is incorrect, can we instead use the etymology found on the French version of this page?}}
+
+===Pronunciation===
+{{zh-pron
+|m=huán
+|c=waan4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|人寰|慘絕人寰|寰宇記|塵寰|威震寰宇|寰域|寰區|寰內|寰宇|撒手塵寰|撒手人寰|游戲塵寰|瀛寰|譽滿寰中}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=宀13}}
+
+# {{defn|lang=ja|sort=宀13}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=환|rv=hwan|mr=hwan}}
+
+# {{defn|lang=ko|sort=宀13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=宀13|hanviet=hoàn}}
+
+# {{defn|lang=vi|sort=宀13}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5bf0 Nom Foundation]
+
+[[fr:寰]]
+[[li:寰]]
+[[hu:寰]]
+[[mg:寰]]
+[[ja:寰]]
+[[pl:寰]]
+[[th:寰]]
+[[zh:寰]]

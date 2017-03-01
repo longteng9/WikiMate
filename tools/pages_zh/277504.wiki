@@ -1,0 +1,84 @@
+{{also|化学}}
+==Chinese==
+{{zh-forms|s=化学}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=huàxué
+|c=faa3 hok6
+|h=pfs=fa-ho̍k
+|md=huá-hŏk
+|mn=hòa-ha̍k
+|w=2ho hhiaq
+|ma=y
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[chemistry]]
+#: {{zh-x|化學 課|'''chemistry''' class}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[chemical]]
+#: {{zh-x|化學 農藥|'''chemical''' pesticide}}
+#: {{zh-x|化學 添加劑|'''chemical''' additive}}
+# {{lb|zh|Cantonese}} [[fragile]]; [[brittle]]; [[unreliable]]; [[cheaply]] [[made]]; [[frail]]
+#: {{zh-x|個 水樽 咁 化學 㗎，用 兩 嘢 就 爆 咗 喎{wo4}！|The water bottle is so '''brittle'''; it broke after using it just a few times!|C}}
+
+===Derived terms===
+{{zh-der|化學變化|化學成分|化學當量|化學肥料|化學分析|化學劑|化學平衡|化學試劑|化學武器|化學物質|化學藥劑|化學元素|化學戰|化學製劑|生物化學}}
+
+===Descendants===
+{{CJKV||s=化学|かがく|화학|hóa học}}
+
+{{zh-cat|Sciences|Chemistry}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|か|がく|yomi=on}}
+
+===Noun===
+{{ja-noun|かがく|shin=化学}}
+
+# {{kyujitai spelling of|化学}}: [[chemistry]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=화학}}
+
+# {{hanja form of|화학|[[chemistry]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|hóa học|[[chemistry]]}}
+
+[[zh-min-nan:化學]]
+[[gl:化學]]
+[[ko:化學]]
+[[lo:化學]]
+[[lt:化學]]
+[[hu:化學]]
+[[mg:化學]]
+[[ja:化學]]
+[[pl:化學]]
+[[pt:化學]]
+[[tl:化學]]
+[[th:化學]]
+[[chr:化學]]
+[[zh:化學]]

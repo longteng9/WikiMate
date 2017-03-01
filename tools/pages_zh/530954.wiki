@@ -1,0 +1,39 @@
+{{also|濁点}}
+==Chinese==
+{{zh-forms|s=浊点}}
+{{zh-wp}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhuódiǎn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|linguistics}} [[voicing]] [[mark]] in [[Japanese]] [[kana]]s ([[◌゙]])
+# {{lb|zh|chemistry}} [[cloud point]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|だく|てん}}
+
+===Noun===
+{{ja-noun|shin=濁点|だくてん}}
+
+# {{kyujitai spelling of|濁点}}: [[voice|voicing]] mark: the mark added to {{ja-r|か}} to produce {{ja-r|が}}.
+
+====See also====
+* {{ja-r|半濁點|はんだくてん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=탁점}}
+
+# {{hanja form of|탁점|dakuten}}

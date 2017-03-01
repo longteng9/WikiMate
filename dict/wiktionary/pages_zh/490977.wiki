@@ -1,0 +1,16 @@
+==Japanese==
+{{ja-kanjitab|はつ|おん|き|ごう|yomi=on}}
+
+===Etymology===
+{{compound|発音|記号|t1=pronunciation|t2=symbol|lang=ja|sort=はつおんきごう}}
+
+===Noun===
+{{ja-noun|はつおんきごう}}
+
+# {{lb|ja|phonetics|sort=はつおんきごう}} [[phonetic symbol]]
+
+====Synonyms====
+* {{ja-r|音声記号|おんせいきごう}}
+
+===References===
+* {{R:Kojien}}

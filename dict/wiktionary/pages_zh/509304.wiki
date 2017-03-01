@@ -1,0 +1,14 @@
+==Japanese==
+{{ja-kanjitab|ない|せき|yomi=o}}
+
+===Noun===
+{{ja-noun|ないせき|kyu=內積}}
+
+# {{lb|ja|mathematics}} [[inner product]]
+
+===See also===
+* {{l|ja|外積}}
+
+[[Category:ja:Mathematics|ないせき]]
+
+[[zh:内積]]

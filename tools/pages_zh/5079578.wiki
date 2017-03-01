@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=xīnfáng
+|c=sam1 fong4
+|mn=sim-pâng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|cardiology}} [[atrium]]
+# {{lb|zh|figurative}} one's [[heart]] (being warmed by a remark etc.)
+
+===See also===
+* {{zh-l|心室}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|ぼう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|しんぼう|y=go|acc=0}}
+
+===Noun===
+{{ja-noun|しんぼう|hhira=しんばう}}
+
+# {{lb|ja|cardiology|sort=しんぼう}} an [[atrium]]
+
+===See also===
+* {{ja-r|心%室|しん%しつ}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=심방|mr=simbang|y=simpang}}
+
+# {{hanja form of|심방|[[cardiac]] [[atrium]]}}
+
+[[ko:心房]]
+[[hu:心房]]
+[[ja:心房]]
+[[zh:心房]]

@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|觅}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=147|rad=見|as=04|sn=11|four=20216|canj=BBUU|ids=⿱爫見}}
+
+# [[seek]]
+# to [[search]]
+
+====References====
+* {{Han ref|kx=1134.030|dkj=34815|dj=1600.080|hdz=63665.150|uh=8993|ud=35219|bh=B356|bd=45910}}
+
+----
+
+==Chinese==
+{{zh-forms|s=觅}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mì
+|c=mik6
+|h=pfs=
+|md=
+|mn=bā/bāi
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# A mathematical operation, written as b<sup>n</sup>, involving two numbers, the base b and the exponent n.
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=見04}}
+
+# {{defn|lang=ja|sort=見04}}
+
+====Readings====
+* {{ja-readings|on=[[べき]] (beki)|kun=[[もとめる]] (motomeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[멱]]|eumhun=|rv=myeok|mr=myŏk|y=myek}}
+
+# {{defn|lang=ko|sort=見04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mạch]], [[mích]], [[mịch]]|rs=見04}}
+
+# {{defn|lang=vi|sort=見04}}
+
+[[zh-min-nan:覓]]
+[[fr:覓]]
+[[ko:覓]]
+[[hu:覓]]
+[[mg:覓]]
+[[ja:覓]]
+[[pl:覓]]
+[[th:覓]]
+[[zh:覓]]

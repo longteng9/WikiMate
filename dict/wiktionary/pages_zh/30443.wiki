@@ -1,0 +1,99 @@
+{{character info/new}}
+{{also|闽}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=169|rad=門|as=06|sn=14|four=77136|canj=ANLMI|ids=⿵門虫}}
+
+# The [[Fujian]] [[province]] of [[China]]
+# a [[river]]
+# a [[tribe]]
+
+====References====
+* {{Han ref|kx=1335.070|dkj=41315|dj=1841.040|hdz=74295.090|uh=95A9|ud=38313|bh=BBD4|bd=48084}}
+
+----
+
+==Chinese==
+{{zh-forms|s=闽}}
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=閩
+|c=man5,man4
+|h=pfs=mén/mên
+|md=mìng
+|mn=bân
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[Fujian]]
+# [[Min]] people {{gloss|ancient ethnic group}}
+# {{w|Min River (Fujian)|Min River}}, Fujian
+# [[Min]] languages
+
+====Compounds====
+* {{zh-l|閩越}}
+* {{zh-l|閩東}}
+* {{zh-l|閩南}}
+* {{zh-l|閩西}}
+* {{zh-l|閩北}}
+===See also===
+* {{zh-l|蠻}}
+
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=門06}}
+
+# {{defn|lang=ja|sort=門06}}
+
+====Readings====
+{{ja-readings|goon=[[みん]] (min)|kanon=[[びん]] (bin)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|閩越|^びんえつ}}: [[w:Minyue|Minyue]]
+* {{ja-r|閩江|^びんこう}}
+* {{ja-r|閩南語|^びんなんご}}: [[Min Nan]]
+* {{ja-r|洛閩の学|らくびん の がく}}
+* {{ja-r|濂洛関閩の学|れんらくかんびん の がく}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=민|eumhun=|rv=min|mr=min|y=min}}
+
+# {{defn|lang=ko|sort=門06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mân]]|rs=門06}}
+
+# {{defn|lang=vi|sort=門06}}
+
+[[zh-min-nan:閩]]
+[[fr:閩]]
+[[ko:閩]]
+[[hu:閩]]
+[[ja:閩]]
+[[pl:閩]]
+[[th:閩]]
+[[zh:閩]]

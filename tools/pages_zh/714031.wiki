@@ -1,0 +1,53 @@
+{{also|相对|相対}}
+==Chinese==
+{{zh-forms|s=相对}}
+
+===Etymology===
+Attestable in ancient pre-Qin texts. In the sense of "relativity", {{borrowing|zh|ja|-|nocap=1}} {{ja-r|相對|そうたい}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xiāngduì
+|c=soeng1 deoi3
+|h=pfs=siông-tui
+|mn=qz,tw,xm:siong-tùi/twvk,zz:siang-tùi/twv:saⁿ-tùi/twv:sio-tùi
+|mn_note=saⁿ-tùi/sio-tùi - "facing each other"
+|cat=v,a,adv,v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[square off]]; to [[face off]]; to [[face]] each other
+# to [[resist]]; to [[oppose]]
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[relative]] {{gloss|as opposed to absolute}}
+
+====Antonyms====
+* {{zh-l|絕對}}
+
+===Adverb===
+{{zh-adv}}
+
+# [[relatively]]
+
+===Noun===
+{{zh-noun}}
+
+# [[relativity]]
+
+====Derived terms====
+{{zh-der|相對高度|相對論|相對真理|針鋒相對|相對濕度|相對同時|相對主義|相對權|廣義相對論|相對論角動量}}
+
+{{zh-cat|Intermediate}}
+
+[[zh-min-nan:相對]]
+[[ko:相對]]
+[[hu:相對]]
+[[mg:相對]]
+[[ja:相對]]
+[[chr:相對]]
+[[zh:相對]]

@@ -1,0 +1,60 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jíhé
+|c=zaap6 hap6
+|h=pfs=si̍p-ha̍p
+|ma=zh-jíhé.ogg
+|mn=chi̍p-ha̍p
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[assemble]]; to [[gather]]
+
+===Derived terms===
+{{zh-der|集合名詞}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅう|ごう|yomi=on}}
+
+===Noun===
+{{ja-noun|しゅうごう}}
+
+# [[gathering]], [[assembly]]
+# an [[assortment]]
+# {{lb|ja|mathematics|sort=しゅうごう}} [[set]]
+
+====Antonyms====
+* {{sense|gathering}} {{ja-r|解散|かいさん}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|しゅうごう}}
+
+# [[gather]], [[assemble]], [[aggregate]]
+
+====Synonyms====
+* {{ja-r|集まる|あつまる}}, {{ja-r|集める|あつめる}}
+
+====Conjugation====
+{{ja-suru|しゅうごう}}
+
+===References===
+* {{R:Meikyo}}
+
+[[ko:集合]]
+[[hu:集合]]
+[[mg:集合]]
+[[ja:集合]]
+[[ta:集合]]
+[[chr:集合]]
+[[uk:集合]]
+[[zh:集合]]

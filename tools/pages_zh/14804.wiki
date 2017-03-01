@@ -1,0 +1,194 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=5}}
+
+===Han character===
+{{Han char|rn=48|rad=工|as=02|sn=5|four=40011|canj=KM|ids=⿸𠂇工}}
+
+====Descendants====
+* [[さ]]
+
+===References===
+* {{Han ref|kx=0325.080|dkj=08720|dj=0626.070|hdz=10411.050|uh=5DE6|ud=24038|bh=A5AA|bd=42410}}
+
+[[Category:Han characters from which hiragana were derived|さ]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+Originally as {{zh-l|*𠂇}} in the oracle bone script: {{liushu|p}} – a left hand. Compare {{zh-l|*又|right hand}}.
+
+Late bronze inscription forms show an added {{zh-l|*工|work; to assist?}} component, i.e. the current form is a {{Han compound|𠂇|工|ls=psc|c1=p|c2=s|nocap=1}}, representing the original form of {{och-l|佐|to assist}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zuǒ
+|m-s=zo3
+|c=zo2
+|h=pfs=chó
+|md=cō̤
+|mn=chó/qz:chó͘
+|mn_note=Quanzhou: chó - vernacular; chó͘ - literary
+|w=2tsu
+|mc=y
+|oc=y
+|ma=y
+|cat=n,a,adv,pn,m:v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[left]] ([[direction]])
+#: {{zh-x|左手|left hand}}
+# [[east]]; [[area]]s to the [[east]]
+# {{lb|zh|historical}} [[inferior]] [[position]]
+# [[unorthodox]]; [[wrong]]
+# [[erroneously]]; [[mistakingly]]
+#: {{zh-x|你 想 左 了。|You are mistaken.}}
+# [[different]]; [[divided]]; [[inconsistent]]
+# {{lb|zh|political}} [[left-wing]]
+# {{lb|zh|Sichuan|of singing}} [[out of tune]]; [[off-key]]
+# {{lb|zh|Southwestern Mandarin|including|Sichuan}} to [[exchange]]
+# {{surname|lang=zh}}
+
+====Antonyms====
+* {{zh-l|右|right}}
+
+===Compounds===
+{{zh-der|左榜右臂|左邊|左不過|左側|左道旁門|左顧右盼|左近|左鄰右舍|左輪|左面|左派|左撇子|左傾|左手|左首|左舷|左翼|左右|左……右……|左右逢源|左右開弓|左右手|左右為難|左證|左支右絀|如持左券|左顧|反左書|左轉|弄左性|左來右去|左挈右提|左乙|左思右想|左纛|左降|左右袒|左氏春秋|左支右吾|左擁右抱|左衽|如左右手|左史|左湊|左提右挈|左計|左列|左券|不左不右|左行|左性|左鎮人|左遷|左遮右攩|左輔右弼|左衝右突|左縈右拂|左皮氣|左猜|左營|左江|左書|左拾遺|左心室|左徒|左師|左宜右有|左契|左圖右史|左右翼|左右夾攻|左傳|左使|左道|左右支絀|左袒|左右兩難|可操左券|左學|左方|左右前後|左丘|左嗓子|左丞|左券在握|左賢王|左獄|持左券|操左券|淮左|旁門左道|披髮左衽|所謀輒左|穩操左券|相左|江左夷吾|男左女右|牛心左性|江左|閭左|羊左之誼|虛左以待|被髮左衽|虛左|驗左|鄰左|道左|證左}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=1|rs=工02}}
+
+====Readings====
+{{ja-readings
+|goon=[[さ]] (sa)
+|kanon=[[さ]] (sa)
+|kun=[[ひだり]] (hidari)}}
+
+====Alternative forms====
+* {{ja-l|㔫}}
+
+=====Compounds=====
+* {{ja-r|左遷|させん}}
+* {{ja-r|左官|さかん}}
+* {{ja-r|左派|さは}}
+* {{ja-r|左右|さゆう}}
+* {{ja-r|左翼|さよく}}
+
+===Etymology 1===
+{{ja-kanjitab|ひだり|yomi=k}}
+/hidari/: *[pidari] → [ɸidari] → [çidari].
+
+====Pronunciation====
+{{ja-pron|yomi=k|ひだり|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|ひだり}}
+
+# {{lb|ja|direction|sort=ひだり}} [[left]], the side of the left [[hand]]
+#* {{RQ:Nippo Jisho|229}}
+#*: '''Fidari'''. ヒダリ (左) 左手, または, 左の方
+# {{lb|ja|politics|sort=ひだり}} a [[leftist]]
+
+=====Antonyms=====
+* {{sense|left}} {{ja-r|右|みぎ|right}}
+
+=====Derived terms=====
+* {{ja-r|左側|ひだりがわ}}
+* {{ja-r|左利き|ひだりきき}}
+* {{ja-r|左手|ひだりて}}
+* {{ja-r|左巻き|ひだりまき}}
+* {{ja-r|左上|ひだりうえ}}
+* {{ja-r|左下|ひだりした}}
+* {{ja-r|右左|みぎひだり}}
+
+===Etymology 2===
+{{ja-kanjitab|さ|yomi=o}}
+{{der|ja|ltc|左|sort=さ}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|さ|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|さ}}
+
+# the [[left]] in vertical writing
+# the [[following]] (one)
+#* {{RQ:I am a cat}}:
+#*: {{ja-usex|吾輩はまず彼がどのくらい無学であるかを試してみようと思って'''左'''の問答をして見た。|わがはい は まず かれ が どの くらい むがく で ある か を ためして みよう と おもって '''さ''' の もんどう を して みた。|To judge just how uneducated he was, I posed the following question.}}
+
+===References===
+<references/>
+:* {{R:Nippo Jisho}}
+
+[[Category:Japanese basic words|ひだり]]
+
+----
+
+==Korean==
+
+===Pronunciation===
+* Sound: [t͡ɕwɐ]
+* Name: [øn]/[we̞n]
+
+===Hanja===
+{{ko-hanja|hangeul=좌|mr=chwa|y=cwa|eumhun=왼|ehrv=oen|ehmr=oen|ehy=oyn}}
+
+# [[left]] ([[direction]])
+
+====Derived terms====
+* {{ko-l|좌수사|左水使}}
+* {{ko-l|좌승지|左承旨}}
+* {{ko-l|좌우|左右}}
+* {{ko-l|좌우지간|左右之間}}
+* {{ko-l|좌익|左翼}}
+* {{ko-l|좌익수|左翼手}}
+* {{ko-l|좌의정|左議政}}
+* {{ko-l|좌지우지|左之右之}}
+* {{ko-l|좌천|左遷}}
+* {{ko-l|좌측|左側}}
+* {{ko-l|좌향좌|左向左}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tả]], [[tá]], [[huy]]|rs=工02}}
+
+# {{defn|lang=vi|sort=工02}}
+
+[[cs:左]]
+[[fr:左]]
+[[ko:左]]
+[[kn:左]]
+[[ky:左]]
+[[lo:左]]
+[[li:左]]
+[[hu:左]]
+[[mg:左]]
+[[ms:左]]
+[[ja:左]]
+[[no:左]]
+[[pl:左]]
+[[pt:左]]
+[[ru:左]]
+[[sv:左]]
+[[ta:左]]
+[[th:左]]
+[[chr:左]]
+[[tr:左]]
+[[uk:左]]
+[[zh:左]]

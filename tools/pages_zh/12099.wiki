@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=03|sn=6|four=62032|canj=RVI|ids=⿰口幺}}
+
+# [[bawl]], [[yell]], [[shout]], [[cry out]]
+
+====References====
+* {{Han ref|kx=0174.200|dkj=03283|dj=0387.130|hdz=10584.120|uh=5406|ud=21510|bh=A65B|bd=42587}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yāo
+|c=jiu1
+|mn=qz,xm,zz:iau/qz,xm,zz:io
+|mc=
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|大吆小喝|喝五吆三|喝吆|吆三喝四|吆五喝六|大聲吆喝|吆喝|吆呼}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口03}}
+
+# {{defn|lang=ja|sort=口03}}
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō)|kun=[[こえ]] (koe), [[こごえ]] (kogoe)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=요|rv=yo|mr=yo}}
+
+# {{defn|lang=ko|sort=口03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|yêu|rs=口03}}
+
+# {{defn|vi}}
+
+[[fr:吆]]
+[[li:吆]]
+[[hu:吆]]
+[[mg:吆]]
+[[no:吆]]
+[[pl:吆]]
+[[th:吆]]
+[[zh:吆]]

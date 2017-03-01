@@ -1,0 +1,43 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=84|rad=气|as=06|sn=10|four=80617|canj=ONMCW|ids=⿹气西}}
+
+====References====
+* {{Han ref|kx=0599.151|dkj=17062|hdz=32011.090|uh=6C25|ud=27685|bh=D244|bd=53828}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|气|c1=s|t1=gas|西|c2=p|ls=psc}}.
+
+===Etymology===
+{{bor|zh|en|xenon|'''xe'''non}}. Obsoleted, as it is homophonous to {{zh-l|硒|selenium}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xī
+|c=sai1
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|chemistry|obsolete}} [[xenon]]
+
+====Synonyms====
+* {{zh-l|氙}}
+
+{{zh-cat|Chemical elements}}
+
+[[fr:氥]]
+[[pl:氥]]
+[[th:氥]]
+[[vi:氥]]
+[[zh:氥]]

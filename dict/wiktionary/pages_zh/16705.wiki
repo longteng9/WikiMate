@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|摂|摄|撮}}
+==Translingual==
+{{Han simplified forms|攝|摂|摄}}
+
+===Han character===
+{{Han char|rn=64|rad=手|as=18|sn=21|four=51041|canj=QSJJ|ids=⿰扌聶}}
+
+# [[take in]], [[absorb]]
+# [[act]] as [[deputy]]
+# [[administer]], [[assist]]
+
+====References====
+* {{Han ref|kx=0463.330|dkj=13010|dj=0812.350|hdz=31986.080|uh=651D|ud=25885|bh=C4E1|bd=50401}}
+
+----
+
+==Chinese==
+{{zh-forms|s=摄}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shè,niè
+|ma=y
+|c=sip3,nip6
+|h=pfs=ngiap
+|md=
+|mn=qz,xm,zz:siap/liap
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|攝取|攝生|摄食|攝氏|攝氏溫度計|攝像|攝像機|攝行|攝影|攝影機|攝影家|攝影棚|攝政|攝制}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手18|style=ky|shin=摂}}
+
+# {{defn|lang=ja|sort=手18}}
+
+====Readings====
+* {{ja-readings|goon=[[しょう]] (shō)|kanon=[[しょう]] (shō)|kanyoon=[[せつ]] (setsu)|kun=[[おさめる]] (osameru), [[かねる]] (kaneru), [[とる]] (toru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[섭]], [[엽]]|eumhun=|rv=seop, yeop|mr=sŏp, yŏp|y=sep, yep}}
+
+# {{defn|lang=ko|sort=手18}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhép]], [[nếp]], [[nhiếp]], [[xếp]], [[nhẹp]], [[nhíp]], [[triếp]]|rs=手18}}
+
+# {{defn|lang=vi|sort=手18}}
+
+[[fr:攝]]
+[[ko:攝]]
+[[hu:攝]]
+[[ja:攝]]
+[[pl:攝]]
+[[th:攝]]
+[[zh:攝]]

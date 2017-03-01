@@ -1,0 +1,53 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǎifēnlǜ
+|c=baak3 fan6 leot6-2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[percentage]]
+
+====Synonyms====
+* {{zh-l|百分比}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひゃく|ぶん|りつ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ひゃくぶんりつ|y=o|acc=3|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ひゃくぶんりつ}}
+
+# [[percentage]]
+
+====Synonyms====
+* {{l/ja|百分比}}
+* {{l/ja|パーセンテージ}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=백분율}}
+
+# {{hanja form of|백분율|[[percentage]]}}
+
+[[fr:百分率]]
+[[ko:百分率]]
+[[li:百分率]]
+[[mg:百分率]]
+[[zh:百分率]]

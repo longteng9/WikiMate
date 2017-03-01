@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|皃}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=153|rad=豸|as=07|sn=14|four=26210|canj=BHHAU|ids=⿰豸⿱白儿}}
+
+# (same as [[皃]]) [[countenance]], [[appearance]]
+
+====References====
+* {{Han ref|kx=1201.190|dkj=36556|hdz=63913.040|uh=8C8C|ud=35980|bh=BBAA|bd=48042}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mào
+|c=maau6
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# ([[physical]]) [[appearance]]
+# {{lb|zh|ancient|literary}} {{rfdef|zh}} <!--"the appearance of"?-->
+#: {{zh-x|光 動 貌。|{{t-needed|zh}}|CL}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=豸07}}
+
+# {{defn|lang=ja|sort=豸07}}
+
+====Readings====
+* {{ja-readings|goon=[[みょう]] (myō) {{non-joyo-reading}}, [[まく]] (maku) {{non-joyo-reading}}|kanon=[[ぼう]] (bō), [[ばく]] (baku) {{non-joyo-reading}}|kun=[[かたち]] (katachi), [[かたどる]] (katadoru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[모]], [[막]]|eumhun=|rv=mo, mak|mr=mo, mak|y=mo, mak}}
+
+# {{defn|lang=ko|sort=豸07}}
+
+[[fr:貌]]
+[[ko:貌]]
+[[hu:貌]]
+[[mg:貌]]
+[[ja:貌]]
+[[no:貌]]
+[[pl:貌]]
+[[th:貌]]
+[[zh:貌]]

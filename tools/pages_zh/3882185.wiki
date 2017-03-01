@@ -1,0 +1,63 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Etymology===
+{{zh-compound|不|自然|not, un-|nature, natural}}
+
+===Pronunciation===
+{{zh-pron
+|m=不zìrán
+|c=bat1 zi6 jin4
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[unnatural]]; [[artificial]]
+# [[contrived]]; [[strained]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふ|し|ぜん|yomi=on}}
+
+===Etymology===
+Compound of {{prefix|lang=ja|sort=しぜん|不|tr1=fu|t1=not, un-|自然|tr2=shizen|t2=nature, natural}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|ふしぜん|acc=2|acc_ref=DJR}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|ふしぜん}}
+
+# [[abnormal]], [[unnatural]]
+# [[forced]], [[strained]]
+# [[artificial]]
+
+====Inflection====
+{{ja-na|ふしぜん}}
+
+===Noun===
+{{ja-noun|ふしぜん}}
+
+# [[unnaturalness]]
+# [[strain]]
+# [[artificiality]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab|不|自|然}}
+
+===Noun===
+{{ko-noun|hj|rv=bujayeon|hangeul=부자연}}
+
+# {{hanja form of|부자연|[[unnaturalness]]}}
+
+[[ko:不自然]]
+[[chr:不自然]]
+[[zh:不自然]]

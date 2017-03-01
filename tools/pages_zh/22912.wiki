@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|笃}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=10|sn=16|four=88327|canj=HSQF}}
+
+# [[deep]], [[true]], [[sincere]], [[genuine]]
+
+====References====
+* {{Han ref|kx=0894.290|dkj=26344|dj=1321.260|hdz=52997.060|uh=7BE4|ud=31716|bh=BF77|bd=49015}}
+
+----
+
+==Chinese==
+{{zh-forms|s=笃}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dǔ
+|c=duk1
+|mn=tauh/tok
+|mc=y
+|oc=y
+|cat=a,c:v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[honest]]
+# [[seriously]] [[ill]]
+# {{lb|zh|Cantonese}} to [[poke]]; to [[prod]]
+
+====Synonyms====
+* {{sense|Cantonese: to poke}} {{qualifier|Mandarin}} {{zh-l|戳}}
+
+====Compounds====
+{{zh-der|力學篤行|危篤|唔篤|喃喃篤篤|打篤磨|打篤磨槎|樸訥誠篤|滴羞篤速|病篤|的篤戲|篤信|篤信好古|篤厚|篤學|篤學好古|篤定|篤實|篤志|篤志好學|篤志愛古|篤念|篤愛|篤疾|篤磨|篤篤喃喃|篤篤寞寞|篤篤末末|篤簌簌|篤行|篤論|篤速|篤速速|篤麼|純篤|綿篤|誠篤}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=竹10}}
+
+# {{defn|lang=ja|sort=竹10}}
+
+====Readings====
+* {{ja-readings|on=[[とく]] (toku)|kun=[[あつい]] (atsui)|nanori=}}
+
+===Proper noun===
+{{ja-pos|あつし|proper}}
+
+# {{given name|male|lang=ja|sort=あつし}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=독|eumhun=|rv=dok|mr=tok|y=tok}}
+
+# {{defn|lang=ko|sort=竹10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''篤''' ([[đốc]], [[dóc]], [[dốc]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:篤]]
+[[ko:篤]]
+[[li:篤]]
+[[hu:篤]]
+[[mg:篤]]
+[[ja:篤]]
+[[pl:篤]]
+[[th:篤]]
+[[zh:篤]]

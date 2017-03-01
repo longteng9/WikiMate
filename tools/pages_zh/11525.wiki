@@ -1,0 +1,129 @@
+{{character info/new}}
+{{also|凡|凢|儿|幾}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=16|rad=几|as=00|sn=2|four=77210|canj=HN}}
+
+# {{mul-kangxi radical-def}}
+
+====Derived characters====
+* [[Index:Chinese radical/几]]
+* [[殳]], [[肌]], [[飢]], [[机]], [[且]], [[䢳]], [[㞦]], [[孕]]
+* See also [[Index:Chinese radical/風]]
+* See also [[凡#Derived characters]]
+
+====References====
+* {{Han ref|kx=0133.570|dkj=01737|dj=0299.080|hdz=10275.190|uh=51E0|ud=20960|bh=A44C|bd=42060}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|p}} – [[stool]] (viewed from the side).
+
+===Etymology 1===
+{{zh-forms|alt=𠀃}}
+
+====Pronunciation====
+{{zh-pron
+|m=jī,jǐ,2nb=literary variant in Taiwan
+|ma=y
+|c=gei1,gei2
+|md=gī
+|mn=kí
+|w=2ji
+|mc=y
+|oc=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[stool]]; [[chair]]
+# [[long]] [[narrow]] table; [[bench]]
+# [[small]] [[table]]
+#: {{zh-x|茶几|tea table}}
+
+=====Descendants=====
+{{CJKV||き|궤|kỉ}}
+''Others'':
+* Vietnamese: {{l|vi|ghế||chair}}
+
+====Compounds====
+{{zh-der|伏几|几几|几席|几杖|几案|几筵|方几|明窗淨几|燕几|窗明几淨|茶几|隱几|雪窗螢几|高几}}
+
+===Etymology 2===
+{{zh-see|幾||[[how many]]; [[some]]; [[fine]]}}
+
+===Etymology 3===
+{{zh-see|人|v}}
+
+===Etymology 4===
+{{zh-see|明|a}}
+
+===Etymology 5===
+{{zh-see|𠘧|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=几00}}
+
+# table, table enclosure
+# table or wind radical
+
+====Readings====
+{{ja-readings|on=[[き]] (ki)|kun=[[つくえ]] (tsukue)}}
+
+====Compounds====
+* [[床几]]
+* [[几案]]
+* [[几下]]
+* [[几帳]]
+* [[几帳面]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=궤|rv=gwe|mr=kwe}}
+
+# {{defn|lang=ko|sort=几00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kỉ]]|rs=几00}}
+
+# {{defn|lang=vi|sort=几00}}
+
+[[Category:CJKV radicals| ]]
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+[[de:几]]
+[[fr:几]]
+[[ko:几]]
+[[la:几]]
+[[li:几]]
+[[hu:几]]
+[[mg:几]]
+[[ms:几]]
+[[ja:几]]
+[[no:几]]
+[[pl:几]]
+[[ru:几]]
+[[sr:几]]
+[[ta:几]]
+[[th:几]]
+[[uk:几]]
+[[zh:几]]

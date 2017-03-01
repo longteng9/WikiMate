@@ -1,0 +1,21 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Sakurayu}}
+[[File:Sakura yu.jpg|thumb|250px|{{lang|ja|桜湯}} (''sakurayu''): a cup of '''[[cherry blossom]] [[tea]]'''.]]
+</div>
+{{ja-kanjitab|yomi=k|さくら|ゆ}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=さくらゆ|桜|tr1=sakura|t1=cherry blossom|湯|tr2=yu|t2=hot water}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|さくらゆ|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|kyu=櫻湯|さくら ゆ}}
+
+# [[cherry blossom]] [[tea]], [[sakura]] [[tea]]: [[pickle]]d ''sakura'' [[blossom]]s [[steep]]ed in hot water
+
+===References===
+<references/>

@@ -1,0 +1,95 @@
+{{character info/new}}
+{{also|萠}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=08|sn=11|four=44627|canj=TAB|ids=⿱艹明}}
+
+====References====
+* {{Han ref|kx=1041.050|dkj=31265|dj=1499.260|hdz=53233.140|uh=840C|ud=33804|bh=B5DE|bd=46558}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=méng
+|m-s=mong2
+|c=mang4
+|mc=y
+|oc=y
+|ma=
+|cat=v,a
+}}
+
+===Etymology 1===
+{{rfe|lang=zh}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[bud]], to [[sprout]]
+
+===Etymology 2===
+From {{etyl|ja|zh}} {{m|ja|萌え||tr=moe}}.
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|ACG|internet slang}} [[cute]], [[adorable]]
+
+====Derived terms====
+* {{zh-l|賣萌}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸08}}
+
+# {{defn|lang=ja|sort=艸08}}
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō), [[ぼう]] (bō)|kun=[[めばえ]] (mebae), [[きざす]] (kizasu), [[もえる]] (moeru)|nanori=[[ほの]] (hono)}}
+
+===Proper noun===
+{{ja-pos|proper|もえ}}
+
+# {{given name|female|lang=ja}}
+
+[[Category:Japanese female given names|もえ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=맹|eumhun=|rv=maeng|mr=maeng|y=mayng}}
+
+# {{defn|lang=ko|sort=艸08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[manh]], [[mánh]], [[mảnh]], [[mành]]|rs=艸08}}
+
+# {{defn|lang=vi|sort=艸08}}
+
+[[zh-min-nan:萌]]
+[[fr:萌]]
+[[ko:萌]]
+[[hu:萌]]
+[[mg:萌]]
+[[ja:萌]]
+[[no:萌]]
+[[pl:萌]]
+[[th:萌]]
+[[zh:萌]]

@@ -1,0 +1,136 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=108|rad=皿|as=05|sn=10|four=80107|canj=TCBT|ids=⿳䒑八皿}}
+
+====Derived characters====
+* [[溢]]
+
+====References====
+* {{Han ref|kx=0793.180|dkj=22972|dj=1208.180|hdz=42560.060|uh=76CA|ud=30410|bh=AF71|bd=44913}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=jik1
+|h=pfs=yit
+|mn=iah/ek
+|mn_note=iah - vernacular; ek - literary
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[profit]]; [[benefit]]
+# [[advantage]]
+# 42nd [[hexagram]] of the [[I Ching]]
+
+===Compounds===
+{{zh-der|益蟲|冇益|多多益善|利益|一謙四益|三益|不無小益|伯益|便益|保險利益|兌換利益|公益|公益事業|公益廣告|公益捐|公益軟體|公益金|公賣利益|共益權|利益團體|利益均霑|利益輸送|助益|受益|受益人|受益憑證|受益無窮|受益費|增益|多多益辦|大有助益|延年益壽|徒勞無益|徒費無益|得益|損上益下|損人益己|損益|收益|收益稅|效益|教益|文益|斟酌損益|既得利益|日增月益|日滋月益|日益|日益壯大|日益月滋|曾益|有損無益|有益|本益比|李益|業主權益|權益|欲益反損|毗益|求益反損|治絲益棼|潤益|無益|營業利益|獨享權益|獲益|獲益不淺|獲益匪淺|獲益良多|益上損下|益友|益古演段|益壽|益壽延年|益州|益智|益智圖|益智班|益母草|益氣|益氣生津|益無忌憚|益發|益者三友|益者三樂|益處|益謙虧盈|益鳥|相得益彰|私益|窮且益堅|窮當益堅|精益求精|純益|老當益壯|股東權益|能源效益|自益權|良師益友|良朋益友|裒多益寡|補益|裨益|請益|謙受益|買菜求益|進益|邊際利益|錢謙益|開卷有益|附益|集思廣益|饒益|黈益}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=皿05}}
+
+# [[benefit]]
+# [[gain]]
+# [[profit]]
+# [[advantage]]
+
+====Readings====
+{{ja-readings|goon=[[やく]] (yaku)|kanon=[[えき]] (eki)|kun=[[ます]] (masu), [[ますます]] (masumasu)}}
+
+===Etymology 1===
+{{ja-kanjitab|えき|yomi=o}}
+From {{etyl|ltc|ja|sort=えき}} {{m|zh|益|tr=ʔjiek||increase}}. The [[漢音#Japanese|''kan'on'']] reading, so likely a later borrowing.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|えき|acc=0|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|えき}}
+
+# [[benefit]]
+
+=====Derived terms=====
+* {{ja-r|益獣|えきじゅう|[[beneficial]] [[animal]]}}
+* {{ja-r|益虫|えきちゅう|[[beneficial]] [[insect]]}}
+* {{ja-r|益鳥|えきちょう|[[beneficial]] [[bird]]}}
+
+===Etymology 2===
+{{ja-kanjitab|やく|yomi=o}}
+From {{etyl|ltc|ja|sort=やく}} {{m|zh|益|tr=ʔjiek||increase}}. The [[呉音#Japanese|''goon'']] reading, so likely the initial borrowing.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|やく|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|やく}}
+
+# [[benefit]]
+
+===Etymology 3===
+{{ja-kanjitab|ますます|yomi=k}}
+Reduplication of {{m|ja|増す|tr=masu}}.<ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|ますます|acc=2|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|益益}}, {{ja-l|増す増す}}
+
+====Noun====
+{{ja-pos|adverb|ますます}}
+
+# even more
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=익|eumhun=|rv=ik|mr=ik|y=ik}}
+
+# [[add]]
+# [[gain]], [[profit]]
+# [[plenty]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ích]], [[ịch]]|rs=皿05}}
+
+# {{defn|lang=vi|sort=皿05}}
+
+[[fr:益]]
+[[ko:益]]
+[[ky:益]]
+[[hu:益]]
+[[mg:益]]
+[[ja:益]]
+[[no:益]]
+[[pl:益]]
+[[th:益]]
+[[tg:益]]
+[[zh:益]]

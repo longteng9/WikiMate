@@ -1,0 +1,105 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=16|sn=22|four=44194|canj=TERD|ids=⿱艹澡}}
+
+====References====
+* {{Han ref|kx=1067.110|dkj=32401|dj=1533.090|hdz=53329.050|uh=85FB|ud=34299|bh=C4A6|bd=50342}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艹|澡|ls=psc|c1=s|c2=p|t1=plant}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zǎo
+|c=zou2
+|h=pfs=
+|md=chō̤
+|mn=chó
+|w=2tsau
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[algae]]
+# other [[aquatic]] [[plant]]s
+# {{lb|zh|literary}} [[literary]] [[embellishment]]
+# {{lb|zh|literary}} [[splendid]], [[magnificent]]
+# {{surname|lang=zh}}
+
+====Derived terms====
+{{zh-der|水藻|海藻|藻類|辭藻|紅藻|褐藻}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=艸16}}
+
+# {{defn|lang=ja|sort=艸16}}
+
+====Readings====
+{{ja-readings|goon=[[そう]] (sō)|kanon=[[そう]] (sō)|kun=[[も]] (mo)}}
+
+{{ja-kanjitab|も|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|も|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|も}}
+
+# [[alga]], [[algae]]
+
+====Synonyms====
+* {{ja-r|藻類|そうるい}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|藻玉|もだま}}: [[St. Thomas bean]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=艸16}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tảo]], [[tang]]|rs=艸16}}
+
+# {{defn|lang=vi|sort=艸16}}
+
+[[Category:ja:Algae]]
+
+[[fr:藻]]
+[[hu:藻]]
+[[mg:藻]]
+[[ja:藻]]
+[[no:藻]]
+[[pl:藻]]
+[[th:藻]]
+[[vi:藻]]
+[[zh:藻]]

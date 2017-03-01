@@ -1,0 +1,72 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=05|sn=11|four=88463|canj=HKSR|ids=⿱竹加}}
+
+# a [[reed]] [[leaf]] [[whistle]]
+
+====References====
+* {{Han ref|kx=0881.110|dkj=25950|dj=1309.070|hdz=52960.050|uh=7B33|ud=31539|bh=D6D2|bd=54994}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiā
+|c=gaa1
+|mn=ka
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹05}}
+
+# {{defn|lang=ja|sort=竹05}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka)|kun=[[あしぶえ]] (ashibue)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=가|eumhun=|rv=ga|mr=ka|y=ka}}
+
+# {{defn|lang=ko|sort=竹05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=竹05| hanviet = già}}
+
+# {{defn|lang=vi|sort=竹05}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=7b33 Nom Foundation]
+
+[[fr:笳]]
+[[hu:笳]]
+[[mg:笳]]
+[[ja:笳]]
+[[pl:笳]]
+[[th:笳]]
+[[zh:笳]]

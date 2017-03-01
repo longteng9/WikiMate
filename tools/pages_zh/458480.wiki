@@ -1,0 +1,31 @@
+==Japanese==
+{{ja-kanjitab|はつ|k1=はっ|せい|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|はっせい|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はっせい|kyu=發生}}
+
+# [[occurrence]], [[incidence]]
+#: {{ja-usex|事故の'''発生'''|じこ の '''はっせい'''|an '''occurrence''' of an accident}}
+# {{lb|ja|biology}} [[development]]
+#: {{ja-usex|ヒトの'''発生'''生物学|ヒト の '''はっせい''' せいぶつがく|the '''development'''al biology of human}}
+
+===Verb===
+{{ja-verb-suru|はっせい|kyu=發生}}
+
+# [[occur]], [[rise]]
+# [[develop]]
+
+====Conjugation====
+{{ja-suru|はっせい}}
+
+===References===
+<references/>
+
+[[ko:発生]]
+[[hu:発生]]
+[[mg:発生]]
+[[ja:発生]]
+[[zh:発生]]

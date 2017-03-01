@@ -1,0 +1,53 @@
+{{also|面积}}
+==Chinese==
+{{zh-forms|s=面积}}
+{{zh-wp|zh|yue}}
+
+===Pronunciation===
+{{zh-pron
+|m=miànjī
+|c=min6 zik1
+|h=pfs=mien-chit
+|mn=xm,zz,tw:bīn-chek/qz:bīn-chit/xm,zz,twv:biān-chek/qz:biān-chit
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|geometry}} [[area]]
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|めん|せき|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=a|y=o|めんせき}}
+
+===Noun===
+{{ja-noun|めんせき}}
+
+# {{lb|ja|geometry|sort=めんせき}} [[area]]
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|diện tích|[[geometric]] [[area]]}}
+[[zh-min-nan:面積]]
+[[ko:面積]]
+[[it:面積]]
+[[lo:面積]]
+[[hu:面積]]
+[[mg:面積]]
+[[ja:面積]]
+[[tl:面積]]
+[[chr:面積]]
+[[zh:面積]]

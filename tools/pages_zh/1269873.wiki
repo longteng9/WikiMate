@@ -1,0 +1,40 @@
+{{also|电磁波}}
+==Chinese==
+{{zh-forms|s=电磁波|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=diàncíbō
+|c=din6 ci4 bo1
+|h=pfs=thien-chhṳ̀-pô
+|md=diêng-cṳ̀-pŏ̤
+|mn=tiān-chû-pho
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|physics}} [[electromagnetic wave]]
+
+====Synonyms====
+* {{zh-l|電波}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|でん|じ|は|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|sort=でんじは|電磁|tr1=denji|t1=electromagnetic|波|tr2=ha|t2=wave}}
+
+===Noun===
+{{ja-noun|でんじは}}
+
+# {{lb|ja|physics|sort=でんじは}} [[electromagnetic wave]]
+
+[[ko:電磁波]]
+[[lo:電磁波]]
+[[hu:電磁波]]
+[[ja:電磁波]]
+[[zh:電磁波]]

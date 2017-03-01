@@ -1,0 +1,118 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=02|sn=7|four=20227|canj=HDNHS|ids=⿱禾乃}}
+
+====Derived characters====
+* [[誘]] ([[诱]])
+
+====References====
+* {{Han ref|kx=0849.030|dkj=24911|dj=1270.160|hdz=42589.040|uh=79C0|ud=31168|bh=A871|bd=43121}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+[[File:Barley ear, backlit 1.jpg|thumb|200px|Barley ear.]]
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|禾|乃|ls=p|t1=plant}}, resembling a fruit/an ear hanging off a plant.
+
+===Etymology===
+May be a causative of {{och-l|褎|growth of seedlings}}. Compare {{cog|mkh-vie-pro|*m-loh||to blossom}} (whence {{cog|vi|trổ||to burst, to open, to display}}, {{m|vi|lổ||naked}}), and {{cog|km|លាស់||to grow, to blossom, to prosper}}.
+
+The meaning of “show” [noun] is a {{zh-psm|show|nocap=1}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xiù
+|c=sau3
+|h=pfs=siu
+|md=séu
+|mn=siù
+|w=2xieu
+|mc=y
+|oc=y
+|cat=v,a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} {{lb|zh|of plants}} to [[shoot]] out into [[ear]]s; [[earing]]; [[ear]]
+#: {{zh-x|秀而不實|to '''put forth flowers''' but bear no fruit}}
+#* {{zh-x|實 種{zhòng} 實 褎，實 發 實 '''秀'''。|Then he used it as seed, and it sprang up; It grew and '''came into ear'''.|CL|ref=Shijing}}
+# {{†}} {{lb|zh|of plants}} to [[bear]] [[fruit]]
+# {{†}} {{lb|zh|of plants}} to [[blossom]]
+# [[beautiful]]; [[elegant]]; [[graceful]]
+#: {{zh-x|秀麗|pretty}}
+#: {{zh-x|秀美|elegant}}
+#: {{zh-x|眉清目秀|with delicate features}}
+# to [[manifest]]; to [[show]]; to [[display]]
+#: {{zh-x|秀出|to show}}
+# {{lb|zh|especially of a person}} [[outstanding]]; [[prominent]]; [[extraordinary]]
+#: {{zh-x|優秀|excellent}}
+#: {{zh-x|俊秀|elegant; pretty}}
+# {{lb|zh|loanword}} a [[show]]
+#: {{zh-x|脫口秀|talk show}}
+#: {{zh-x|時裝秀|fashion show}}
+
+====Synonyms====
+* {{sense|a show}} {{qualifier|Cantonese}} {{zh-l|騷|sou1}}
+
+===Compounds===
+{{zh-der|一時之秀|一枝獨秀|一穗三秀|三秀|不秀氣|不郎不秀|丟丟秀秀|丹脣啟秀|作秀|俊秀|個人秀|優秀|劉秀|千巖競秀|南能北秀|向秀|含秀|大家閨秀|天真地秀|女秀才|娟秀|尺二秀才|山明水秀|山清水秀|工地秀|布蘭枯秀|廩膳秀才|後來之秀|後起之秀|才秀人微|挺秀|擢秀|攬秀|政治秀|新秀|明秀|李秀成|棠棣競秀|水秀山明|水秀山青|洪秀全|清清秀秀|清秀|牛肉秀|獨秀|白衣秀士|白鶴秀才|眉山秀|眉清目秀|眉目明秀|神清骨秀|神秀|秀出|秀出班行|秀場|秀士|秀外惠中|秀外慧中|秀女|秀姑巒溪|秀媚|秀才|秀才人情|秀才造反|秀拔|秀氣|秀發|秀眉|秀美|秀而不實|秀色可餐|秀逗|秀逸|秀雅|秀頂|秀髮|秀麗|穎秀|粵秀山|美秀|肥勻明秀|脫口秀|舞臺秀|苗而不秀|裴秀|豐臣秀吉|賈儒商秀|軒秀|鍾靈毓秀|閨秀|陸秀夫|隱秀|靈山秀水|靈秀|面目清秀|韶秀|風神秀雅|飽學秀才|餐廳秀|髦秀|麥秀|麥秀兩歧|黍離麥秀|齒危髮秀}}
+
+===Descendants===
+{{CJKV||しゅ|수|tú}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=禾02}}
+
+# {{defn|lang=ja|sort=禾02}}
+
+====Readings====
+{{ja-kanjitab|しゅう|yomi=o}}
+* {{ja-readings|goon=[[しゅ]] (shu)|kanon=[[しゅう]] (shū)|kun=[[ひいでる]] (hiideru)|nanori=}}
+
+===Proper noun===
+{{ja-pos|proper|しゅう}}
+
+# {{given name|male|lang=ja|sort=しゅう}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=禾02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tú]], [[vân]]|rs=禾02}}
+
+# {{defn|lang=vi|sort=禾02}}
+
+[[ar:秀]]
+[[fr:秀]]
+[[ko:秀]]
+[[hu:秀]]
+[[mg:秀]]
+[[ja:秀]]
+[[no:秀]]
+[[pl:秀]]
+[[th:秀]]
+[[chr:秀]]
+[[vi:秀]]
+[[zh:秀]]

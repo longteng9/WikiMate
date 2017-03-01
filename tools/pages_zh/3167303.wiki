@@ -1,0 +1,40 @@
+{{also|比萨}}
+==Chinese==
+{{zh-forms|s=比萨}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǐsà
+|c=bei2 saat3
+|cat=n,pn
+}}
+
+===Etymology 1===
+[[transliteration|Transliteration]] of {{etyl|it|zh}} {{m|it|pizza}} (likely via {{etyl|en|zh}}).
+
+====Noun====
+{{zh-noun}}
+
+# [[pizza]]
+
+=====Synonyms=====
+* {{zh-l|披薩}}
+
+=====Derived terms=====
+{{zh-der|比薩餅}}
+
+===Etymology 2===
+{{wikipedia|lang=zh}}
+[[transliteration|Transliteration]] of {{etyl|it|zh}} {{m|it|Pisa}}.
+
+====Proper noun====
+{{zh-proper noun}}
+
+# [[Pisa]] {{gloss|city and province in Italy}}
+
+=====Derived terms=====
+{{zh-der|比薩斜塔}}
+
+{{zh-cat|Foods}}
+
+[[it:比薩]]

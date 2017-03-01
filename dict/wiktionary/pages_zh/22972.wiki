@@ -1,0 +1,52 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=12|sn=18|four=88906|canj=HKCF|ids=⿱[[竹|⺮]][[尞]]}}
+
+# [[ancient]] [[bamboo]] [[platter]] used in [[ancestor worship]]
+# a [[kind]] of bamboo
+
+====References====
+* {{Han ref|kx=0898.520|dkj=26508|dj=1324.400|hdz=53014.030|uh=7C1D|ud=31773|bh=F067|bd=61543}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|竹|尞|c1=s|c2=p|t1=bamboo|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=liáo
+|c=liu4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=竹12| hanviet = [[lều]], [[liểu]]}}
+
+# {{defn|lang=vi|sort=竹12}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=7c1d Nom Foundation]
+
+[[fr:簝]]
+[[pl:簝]]
+[[th:簝]]
+[[zh:簝]]

@@ -1,0 +1,61 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=hùnrù
+|c=wun6 jap6
+|h=pfs=fun-ngi̍p
+|mn=hūn-ji̍p
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[sneak]] into; to [[mix]] into {{gloss|usually when one is not paying attention or otherwise undesirably}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こん|にゅう|yomi=on}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=こんにゅう}} {{m|zh|混入}}.
+
+===Pronunciation===
+* [[on'yomi|On'yomi]].
+* {{IPA|lang=ja|/koɴnjuː/|[kõ̞ɴnjɯᵝː]}}
+
+===Noun===
+{{ja-noun|こんにゅう|hhira=こんにふ}}
+
+# the act of [[mix]]ing; the state of being mixed; a mixing or [[mingle|mingling]] of two or more things, typically in an undesirable way
+
+====Derived terms====
+* {{ja-r|混入物|こんにゅうぶつ}}: an [[impurity]]; something that is mixed into something else
+
+===Verb===
+{{ja-verb-suru|こんにゅう|hhira=こんにふ|tr=transitive}}
+
+# to [[mix]] one thing into another, typically in an undesirable way
+#: {{ja-usex|味噌汁に毒物を'''混入'''する|みそ しる に どくぶつ を '''こんにゅう''' する|to '''mix''' poison into miso soup}}
+
+{{ja-verb-suru|こんにゅう|hhira=こんにふ|tr=intransitive}}
+
+# to [[mingle]], to [[become]] [[mixed]], to [[get]] mixed, typically in an undesirable way
+#: {{ja-usex|砂糖が小麦粉に'''混入'''してしまったのでクッキーを作りました。|さとう が こむぎこ に '''こんにゅう''' して しまった ので クッキー を つくりました。|Sugar '''got mixed''' with the flour, so I made cookies.}}
+#* '''1941''', 佐藤垢石 Sato Kōseki, たぬき汁 ''Racoon-Dog Soup'', [http://www.aozora.gr.jp/cards/001248/card46519.html]
+#*: [[恰も]]、誤って[[汁#Japanese|汁]]の[[なか]]へ'''混入'''した[[木片#Japanese|木片]]を[[噛む]]ようなものであった。
+#*:: [[あたかも]]、あやまって[[しる]]の[[なか]]へ'''こんにゅう'''した[[もくへん]]を[[かむ]]ようなものであった。
+#*:: [[atakamo|Atakamo]], ayamatte [[shiru]] no [[naka]] e '''konnyū''' shita [[mokuhen]] o [[kamu]] yō na mono de atta.
+#*::: It was [[as if]] I was [[chewing]] a piece of wood mistakenly '''mixed''' into the [[soup]].
+
+====Conjugation====
+{{ja-suru|こんにゅう}}
+
+====Synonyms====
+* {{sense|transitive: mix}} {{ja-r|混ぜる|まぜる}}
+* {{sense|intransitive: become mixed}} {{ja-r|混じる|まじる}}
+
+[[zh:混入]]

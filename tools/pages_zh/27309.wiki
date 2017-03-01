@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=22|sn=29|four=00661|canj=YRGCR|ids=⿰讀言}}
+
+# [[slander]], utter evil words
+
+====References====
+* {{Han ref|kx=1188.150|dkj=36179|dj=1652.160|hdz=64035.090|uh=8B9F|ud=35743|bh=F9C8|bd=63944}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|誩|賣|c1=s|c2=p|t1=|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=dú
+|c=duk6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|謗讟|怨讟}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言22}}
+
+# {{defn|lang=ja|sort=言22}}
+
+====Readings====
+* {{ja-readings|on=[[とく]] (toku), [[どく]] (doku), [[とう]] (tō)|kun=[[うらむ]] (uramu)|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''讟''' ([[độc]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:讟]]
+[[hu:讟]]
+[[mg:讟]]
+[[pl:讟]]
+[[th:讟]]
+[[zh:讟]]

@@ -1,0 +1,23 @@
+{{also|巴扎}}
+==Chinese==
+{{rfv|does this form exist, or is it an incorrect conversion of the simplified form?|lang=zh}}
+{{zh-forms|s=巴扎}}
+
+===Etymology===
+{{bor|zh|ug|بازار}}, from {{der|zh|fa|بازار|tr=bâzâr}}, from {{der|zh|pal|wʾčʾl|tr=wāzār||market}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bāzhā
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|dialectal|Xinjiang}} [[market]]
+
+====Related terms====
+* {{qualifier|Min Nan}} {{zh-l|巴剎|tr=pa-sat}}
+
+[[mg:巴紮]]

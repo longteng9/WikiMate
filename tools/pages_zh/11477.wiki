@@ -1,0 +1,112 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=7}}
+
+===Han character===
+{{Han char|rn=15|rad=冫|as=05|sn=7|four=38127|canj=IMOII|ids=⿰冫令}}
+
+====See also====
+* {{l|mul|泠}} <!-- visually similar -->
+
+====References====
+* {{Han ref|kx=0132.010|dkj=01622|dj=0295.030|hdz=10296.050|uh=51B7|ud=20919|bh=A74E|bd=42830}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|冫|t1=ice|令|ls=psc|c1=s|c2=p}} – cold as ice.
+
+===Pronunciation===
+{{zh-pron
+|m=lěng
+|ma=y
+|c=laang5
+|h=pfs=lâng
+|mn=léng
+|w=3lan
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[cold]], [[cool]]
+
+====Synonyms====
+{{zh-dial|冷}}
+
+====Compounds====
+{{zh-der|冷板凳|冷冰冰|冷兵器|冷不丁|冷不防|冷菜|冷餐|冷藏|冷場|冷嘲熱諷|冷處理|冷床|冷待|冷淡|冷碟兒|冷丁|冷凍|冷凍乾燥|冷風|冷鋒|冷敷|冷服|冷宮|冷孤丁|冷光|冷櫃|冷害|冷汗|冷焊|冷話|冷葷|冷貨|冷寂|冷加工|冷箭|冷噤|冷靜|冷覺|冷峻|冷庫|冷酷|冷臉子|冷冽|冷落|冷眉冷眼|冷門|冷門兒|冷漠|冷暖|冷暖自知|冷盤|冷盤兒|冷炮|冷僻|冷悽悽|冷氣|冷氣機|冷氣團|冷槍|冷峭|冷清|冷清清|冷泉|冷卻|冷熱病|冷若冰霜|冷色|冷森森|冷食|冷霜|冷水|冷絲絲|冷絲兒絲兒|冷颼颼|冷嗦嗦|冷縮|冷燙|冷天|冷笑|冷血動物|冷言冷語|冷眼|冷眼旁觀|冷艷|冷一句，熱一句|冷一陣，熱一陣|冷飲|冷硬|冷語|冷遇|冷軋|冷戰|寒冷}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=冫05}}
+
+# {{defn|lang=ja|sort=冫05}}
+
+====Readings====
+* {{ja-readings|goon=[[りょう]] (ryō)|kanon=[[れい]] (rei)|kun=[[ひえる]] (hieru), [[つめたい]] (tsumetai), [[さめる]] (sameru)}}
+
+====Compounds====
+{{der-top}}
+* [[冷気]]
+* [[冷酷]]
+* [[冷戦]]
+* [[冷蔵]]
+* [[冷蔵庫]]
+* [[冷淡]]
+* [[冷徹]]
+* [[冷凍]]
+* [[冷房]]
+* [[冷酒]] (れいしゅ, reishu)
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[랭]]>[[냉]]|mr=raeng>naeng}}
+
+# {{defn|lang=ko|sort=冫05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lãnh]], [[lạnh]], [[lênh]], [[liểng]], [[linh]], [[rãnh]], [[lành]], [[lảnh]], [[rảnh]]|rs=冫05}}
+
+# {{defn|lang=vi|sort=冫05}}
+
+[[es:冷]]
+[[fr:冷]]
+[[ko:冷]]
+[[it:冷]]
+[[la:冷]]
+[[lt:冷]]
+[[li:冷]]
+[[hu:冷]]
+[[mg:冷]]
+[[ms:冷]]
+[[ja:冷]]
+[[no:冷]]
+[[pl:冷]]
+[[pt:冷]]
+[[tl:冷]]
+[[ta:冷]]
+[[th:冷]]
+[[chr:冷]]
+[[uk:冷]]
+[[zh:冷]]

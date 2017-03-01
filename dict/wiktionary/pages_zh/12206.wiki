@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=05|sn=8|four=68037|canj=ROII|ids=⿰口令}}
+
+# {{defn|Han|sort=口05}}
+
+====References====
+* {{Han ref|kx=0181.290|dkj=03434|dj=0399.320|hdz=10606.020|uh=5464|ud=21604|bh=CBEF|bd=52207}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=呤
+|c=ling4,ling5
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嘌呤}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=口05}}
+
+# {{defn|lang=ja|sort=口05}}
+
+====Readings====
+{{ja-readings|goon=[[りょう]] (ryō)|kanon=[[れい]] (rei)|kun=[[ささやき]] (sasayaki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=령|rv=ryeong|mr=ryŏng}}
+
+# {{defn|lang=ko|sort=口05}}
+
+[[fr:呤]]
+[[li:呤]]
+[[hu:呤]]
+[[mg:呤]]
+[[pl:呤]]
+[[th:呤]]
+[[zh:呤]]

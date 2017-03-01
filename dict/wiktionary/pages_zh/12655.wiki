@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=11|sn=14|four=60027|canj=RYCB|ids=⿰口啇}}
+
+# [[backbite]]
+
+====References====
+* {{Han ref|kx=0204.370|dkj=04164|hdz=10678.130|uh=5600|ud=22016|bh=B9BF|bd=47551}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dí
+|c=dik6,dik1
+|mn=tih
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嘀咕|嘀裡嘟嚕|嘀嘀咕咕}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口11}}
+
+# {{defn|lang=ja|sort=口11}}
+
+====Readings====
+* {{ja-readings|on=[[さく]] (saku), [[しゃく]] (shaku)|kun=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đích]]|rs=口11}}
+
+# {{defn|lang=vi|sort=口11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5600 Nom Foundation]
+
+[[fr:嘀]]
+[[hu:嘀]]
+[[mg:嘀]]
+[[no:嘀]]
+[[pl:嘀]]
+[[th:嘀]]
+[[zh:嘀]]

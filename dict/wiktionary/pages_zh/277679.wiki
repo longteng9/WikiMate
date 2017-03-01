@@ -1,0 +1,81 @@
+{{also|点心}}
+==Chinese==
+{{zh-forms|s=点心}}
+
+===Etymology===
+{{zh-compound|點|心|dot, point; to light, to kindle; to touch briefly|heart}} First appeared during the {{w|Tang Dynasty|Tang era}}, e.g. from the ''{{w|Book of Tang}}'':
+
+: {{lang|zh|「唐鄭為江淮留侯，家人備夫人晨饌，夫人謂其弟曰：『治妝未畢，我未及餐，爾且可'''點心'''。』」}}
+::: ''Tang Zheng was the official for the Jianghuai region. (One day), after the servants prepared the morning meal, Tang's wife said to his brother, 'I have not finished doing my makeup. You can '''have some snacks''' (lit. refresh your hearts) before I am ready to eat.''
+
+===Pronunciation===
+{{zh-pron
+|m=diǎnxīn,tl=y
+|ma=zh-diǎnxin.ogg
+|c=dim2 sam1
+|h=pfs=tiám-sîm
+|md=dēng-sĭng
+|mn=tiám-sim
+|w=2ti xin
+|ca=y
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[snack]]; [[light]] [[refreshment]]
+# [[dim sum]]
+# [[pastry]]
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|slang}} to [[snack]] to [[satisfy]] one's [[hunger]]
+# {{lb|zh|slang}} to [[think over]]; to [[consider]]; to [[ponder]]
+
+====Synonyms====
+* {{sense|to snack to satisfy one's hunger}} {{zh-l|點飢|diǎnjī}}
+
+===Descendants===
+{{CJKV|點心|s=点心|てんしん|점심|điểm tâm}}
+
+{{zh-cat|Foods|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てん|しん|yomi=on}}
+
+===Noun===
+{{ja-noun|てんしん|shin=点心}}
+
+# {{ja-def|点心}} [[snack]]; [[dim sum]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=jeomsim|hangeul=점심}}
+
+# {{hanja form of|점심|[[lunch]], [[luncheon]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab|點|心}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|điểm tâm|[[breakfast]]}}
+
+[[zh-min-nan:點心]]
+[[ku:點心]]
+[[hu:點心]]
+[[mg:點心]]
+[[ja:點心]]
+[[pt:點心]]
+[[th:點心]]

@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|映}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=09|sn=13|four=|canj=ATLK|ids=⿰日英}}
+
+# [[sun]] [[beginning]] [[decline]]
+# [[reflect]]
+
+====References====
+* {{Han ref|kx=0498.100|dkj=14048|dj=0866.080|hdz=21517.020|uh=668E|ud=26254}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yìng
+|c=jing2
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日09}}
+
+# {{defn|lang=ja|sort=日09}}
+
+====Readings====
+* {{ja-readings|on=[[えい]] (ei), [[よう]] (yō)|kun=[[はえる]] (haeru), [[うつる]] (utsuru), [[うつす]] (utsusu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=영|eumhun=|rv=yeong|mr=yŏng|y=yeng}}
+
+# {{defn|lang=ko|sort=日09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=日09|hanviet=ánh}}
+
+# {{defn|lang=vi|sort=日09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=668e Nom Foundation]
+
+[[fr:暎]]
+[[hu:暎]]
+[[ja:暎]]
+[[pl:暎]]
+[[th:暎]]
+[[zh:暎]]

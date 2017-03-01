@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=05|sn=8|four=26750|canj=UWL|ids=⿰山甲}}
+
+# [[cape]]
+# [[promontory]], [[headland]]
+
+====References====
+* {{Han ref|kx=0309.230|dkj=07992|dj=0609.190|hdz=10766.130|uh=5CAC|ud=23724|bh=CC61|bd=52321}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiǎ
+|c=gaap3
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|岬角|海岬}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=山05}}
+
+# [[peninsula]]; [[promontory]]; [[cape]]; [[spit]]
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[みさき]] (misaki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=갑|rv=gap|mr=kap}}
+
+# {{l|en|cape}}, {{l|en|headland}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|giáp|rs=山05}}
+
+# {{defn|lang=vi}}
+
+[[fr:岬]]
+[[ko:岬]]
+[[lo:岬]]
+[[li:岬]]
+[[hu:岬]]
+[[mg:岬]]
+[[ja:岬]]
+[[pl:岬]]
+[[sv:岬]]
+[[tl:岬]]
+[[th:岬]]
+[[zh:岬]]

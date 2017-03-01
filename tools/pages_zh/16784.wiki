@@ -1,0 +1,171 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|茍|攵|ls=ic}}, logic unclear.
+
+===Han character===
+{{Han char|rn=66|rad=攴|as=09|sn=12|four=48640|canj=TROK|ids=⿰苟攵}}
+
+# [[respect]], [[honor]]
+# [[respectfully]]
+
+====Derived characters====
+* [[警]] [[驚]]
+
+====Synonyms====
+* {{l|mul|尊}}
+
+====Antonyms====
+* {{l|mul|鄙}}
+
+====References====
+* {{Han ref|kx=0473.350|dkj=13285|dj=0826.170|hdz=21466.020|uh=656C|ud=25964|bh=B771|bd=46961}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìng
+|c=ging3
+|h=pfs=kin
+|mn=kèng
+|mn-t=gêng3
+|mc=y
+|oc=y
+|ma=
+|cat=n,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|孝敬|恭敬|慎始敬終|恭恭敬敬|忠敬|忒敬思|彌敬|廝敬廝愛|屈尊敬賢|尊敬|最敬禮|奩敬|奠敬|主敬存誠|大不敬|回敬|廝抬廝敬|崇敬|可敬|失敬|敬老恤貧|敬慕|敬請|敬陪末坐|敬謹|敬奉|敬重|敬佩|敬老尊賢|敬賢禮士|敬小慎微|敬賢|敬祝|敬神|敬老院|敬謝不敏|敬心|潔敬|相敬如賓|敬業樂群|敬同|畢恭畢敬|敬酒|敬上愛下|敬亭山|敬身|敬天愛民|敬懇者|欽敬|敬辭|敬事房|程敬|敬老節|敬稟者|敬懼|敬禮|敬業|敬服|敬事不暇|敬若神明|敬啟者|梁敬帝|敬老慈幼|敬稱|敬頌|敬諾|用代楮敬|敬悉|敬畏|敬姜猶績|敬愛|無以為敬|炭敬|敬上|敬業精神|敬慎|敬虔主義|敬謝|敬詞|楮敬|敬授人時|憐貧敬老|敬陪末座|敬之|敬思|敬而遠之|敬老憐貧|敬時愛日|敬意|敬事|敬仰|敬肅者|贄敬|肅然起敬|虔敬|茶敬|誠敬|輕財敬士|節敬|誠心敬意|菲敬|起敬|脩敬|致敬|莊敬自強|至敬無文}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=攴09}}
+
+====Readings====
+{{ja-readings
+|kanon=[[けい]] (kei)
+|goon=[[きょう]] (kyō)
+|kun=[[うやまう|うやま.う]] ({{ja-l|敬う}}, uyama.u)
+|nanori=[[け]] (ke), [[たか]] (taka), [[たかし]] (takashi), [[たけ]] (take), [[とし]] (toshi), [[のり]] (nori), [[ひろ]] (noro), [[ゆき]] (yuki), [[よし]] (yoshi)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|敬畏|けい.い}}: [[reverence]], [[holding]] in [[awe]], [[fear]]
+* {{ja-r|敬意|けい.い}}: respect
+* {{ja-r|敬愛|けいあい}}: respect and affection
+* {{ja-r|敬遠|けいえん}}: keeping at a distance
+* {{ja-r|敬具|けいぐ}}: a respectful closing statement
+* {{ja-r|敬虔|けいけん}}: pious
+* {{ja-r|敬語|けいご}}: honorifics
+* {{ja-r|敬神|けいしん}}: piety
+* {{ja-r|敬称|けいしょう}}: title of honor
+* {{ja-r|敬体|けいたい}}: distal style
+{{der-mid}}
+* {{ja-r|敬白|けいはく}}: Yours Sincerely
+* {{ja-r|敬服|けいふく}}: admiration
+* {{ja-r|敬慕|けいぼ}}: love and respect
+* {{ja-r|敬礼|けいれい}}: salute, bow
+* {{ja-r|敬老|けいろう}}: respect for elders
+* {{ja-r|敬譲語|けいじょうご}}: polite speech
+* {{ja-r|敬天愛人|けいてん あいじん}}: "Revere heaven, love people."
+* {{ja-r|失敬|しっけい}}: rude
+* {{ja-r|尊敬|そんけい}}: respect
+Archaic
+* {{ja-r|敬啓|けいけい}}: salutation at end of formal letter
+* {{ja-r|敬呈|けいてい}}: salutation in a formal letter
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|けい}}
+From {{etyl|ltc|ja|sort=けい}} {{m|zh|敬|tr=kjæng<sup>H</sup>||respectful}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|けい}}
+
+====Affix====
+{{ja-pos|affix|けい}}
+
+# [[respect]], [[honor]], [[reverence]]
+
+=====Usage notes=====
+Used in kanji compounds. Not used in isolation except as a ''suru'' verb.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> See {{ja-l|敬する}}.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|敬する|けいする}}: to [[respect]], to [[esteem]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|うやまい}}
+The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|敬う|tr=uyamau||to resepect, to esteem}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|うやまい}}
+
+====Alternative forms====
+* {{ja-l|敬い}}
+
+====Noun====
+{{ja-noun|うやまい}}
+
+# [[respect]], [[esteem]]
+
+=====Usage notes=====
+More commonly spelled as {{ja-l|敬い}} with the [[okurigana]].
+
+===Etymology 3===
+Used as [[ateji]] in various names.
+
+====Proper noun====
+{{ja-pos|たかし|proper}}
+
+# {{given name|lang=ja|sort=たかし|male}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|eumhun=|rv=gyeong|mr=kyŏng|y=kyeng}}
+
+# {{defn|lang=ko|sort=攴09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kính]]|rs=攴09}}
+
+# {{defn|lang=vi|sort=攴09}}
+
+[[fr:敬]]
+[[ko:敬]]
+[[li:敬]]
+[[hu:敬]]
+[[mg:敬]]
+[[ja:敬]]
+[[no:敬]]
+[[pl:敬]]
+[[th:敬]]
+[[vi:敬]]
+[[zh:敬]]

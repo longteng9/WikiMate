@@ -1,0 +1,39 @@
+==Japanese==
+{{DEFAULTSORT:かものはし}}
+<div style="float:right;">
+{{wikipedia|lang=ja|カモノハシ|カモノハシ (Platypus)}}
+[[File:Platypus.jpg|thumb|250px|{{ruby|{{lang|ja|'''[鴨](カモノ)[嘴](ハシ)'''}}}} (''kamo no hashi''): the '''[[duck-billed platypus]]'''.]]
+{{wikipedia|lang=ja|カモノハシ (植物)|カモノハシ (Plant)}}
+[[File:Ischaemum_aristatum_var_glaucum_kmnhs02.jpg|thumb|250px|{{lang|ja|鴨嘴}} (''kamonohashi''): the [[seed]] [[head]] of the '''{{vern|smutgrass}}''' plant.]]
+</div>
+{{ja-kanjitab|yomi=k|かも|はし|sort=かものはし}}
+
+===Etymology===
+Compound of {{compound|ja|鴨|tr1=kamo|t1=[[duck]]|の|tr2=no|pos2=possessive particle|嘴|tr3=hashi|t3=[[bill]]; [[beak]]}}. The {{m|ja|の|tr=no}} is omitted in the spelling.
+
+===Pronunciation===
+{{ja-pron|y=k|かも の はし|acc=3|acc_ref=NHK,SMK5,DJR|acc2=1|acc2_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|かも の はし|カモ ノ ハシ}}
+
+# a [[platypus]]
+# {{taxlink|Ischaemum aristatum var. glaucum|variety|noshow=1}}, a kind of {{vern|smutgrass}} or {{vern|batiki bluegrass}}
+
+====Usage notes====
+{{U:ja:biology|カモノハシ}}
+
+===External links===
+* {{R:TPL|Ischaemum+aristatum|i=1}}
+* {{R:Tropicos|50091996|Ischaemum aristatum var. glaucum|i=1}}
+
+===References===
+<references/>
+
+{{topics|ja|Monotremes|Grasses}}
+
+[[es:鴨嘴]]
+[[fr:鴨嘴]]
+[[ko:鴨嘴]]
+[[hu:鴨嘴]]
+[[sv:鴨嘴]]

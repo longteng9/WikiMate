@@ -1,0 +1,128 @@
+{{character info/new}}
+{{also|鲑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=06|sn=17|four=24314|canj=NFGG|ids=⿰魚圭}}
+
+# [[salmon]]
+# spheroides vermicularis
+
+====References====
+* {{Han ref|kx=1470.050|dkj=46132|dj=2002.240|hdz=74684.100|uh=9BAD|ud=39853|bh=C244|bd=49732}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鲑}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=guī
+|c=gwai1
+|h=pfs=
+|md=
+|mn=kôe
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=魚06}}
+
+# [[chum salmon]]
+
+====Readings====
+{{ja-readings|goon=[[け]] (ke)|kanon=[[けい]] (kei)|kun=[[さけ]] (sake), [[さかな]] (sakana), [[ふぐ]] (fugu)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|入れ子鮭|いれこざけ}}, {{ja-r|内子鮭|いれこざけ}}
+* {{ja-r|乾鮭|からざけ}}
+* {{ja-r|銀鮭|ぎんざけ}}
+* {{ja-r|鮭鱒|けいそん|[[salmon]]s and [[trout]]s}}
+* {{ja-r|子籠もり鮭|こごもりざけ}}
+* {{ja-r|塩鮭|しおざけ}}
+* {{ja-r|塩鮭|しおじゃけ}}
+* {{ja-r|白鮭|しろざけ}}
+* {{ja-r|時鮭|ときざけ}}
+* {{ja-r|生鮭|なまざけ}}
+* {{ja-r|紅鮭|べにざけ}}
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|さけ|yomi=k}}
+{{wikipedia|lang=ja|サケ}}
+{{rfe|ja}}
+
+====Alternative forms====
+* {{ja-l|鮏}}
+
+====Pronunciation====
+{{ja-pron|y=k|さけ|acc=1|acc_ref=DJR,NHK,SMK5}}
+
+====Noun====
+{{ja-noun|さけ|サケ}}
+
+# a [[chum salmon]]
+
+{{C|ja|Salmonids|sort=さけ}}
+
+===Etymology 2===
+{{ja-kanjitab|さけ|k1=しゃけ|yomi=irr|sort=しゃけ}}
+{{rfe|ja}}
+
+====Pronunciation====
+{{ja-pron|y=i|しゃけ|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|しゃけ}}
+
+# a [[chum salmon]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=해|eumhun=|rv=hae|mr=hae|y=hay}}
+
+# {{defn|lang=ko|sort=魚06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khuê]], [[khoai]]|rs=魚06}}
+
+# {{defn|lang=vi|sort=魚06}}
+
+[[fr:鮭]]
+[[lo:鮭]]
+[[lt:鮭]]
+[[hu:鮭]]
+[[mg:鮭]]
+[[nl:鮭]]
+[[ja:鮭]]
+[[pl:鮭]]
+[[th:鮭]]
+[[chr:鮭]]
+[[zh:鮭]]

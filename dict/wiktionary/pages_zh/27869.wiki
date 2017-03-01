@@ -1,0 +1,120 @@
+{{character info/new}}
+{{also|愈}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=156|rad=走|as=05|sn=12|four=43805|canj=GOIV|ids=⿺走戉}}
+
+====References====
+* {{Han ref|kx=1216.280|dkj=37110|dj=1686.110|hdz=53480.020|uh=8D8A|ud=36234|bh=B656|bd=46678}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|走|戉|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yuè
+|c=jyut6
+|h=pfs=ye̍t
+|md=
+|mn=oa̍t
+|w=
+|mc=y
+|oc=y
+|cat=pn
+}}
+
+===Etymology 1===
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[go]] [[over]]; to [[climb]] over; to [[jump]] over
+#: {{zh-x|翻山越嶺|to pass over mountains ridges}}
+# {{lb|zh|of time}} to [[pass]]; to [[go through]]
+# {{lb|zh|figurative}} to go [[outside]] of ...; to [[exceed]]; to [[surpass]]
+#: {{zh-x|超越|to surpass}}
+#: {{zh-x|越界|to overstep a boundary}}
+# {{lb|zh|Min Nan}} to [[turn]], to [[turn around]]
+#: {{zh-x|越頭|to turn one's head|MN}}
+# [[more]]; [[-er]]
+#: {{zh-x|越……越……|the more ..., the more ...}}
+#: {{zh-x|越來越……|to become increasingly ...}}
+
+===Etymology 2===
+Related to {{zh-l|*粵|Yue; Cantonese}}.
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|The [[Yue]] or [[Viet]], ancient non-Han tribes in Southern China and Northern Vietnam.}}
+# {{lb|zh|historical}} {{zh-abbrev|*越國|The {{w|Yue (state)|State of Yue}}, an ancient state in southern China}}
+# {{zh-abbrev|*越南|Vietnam}}
+# {{zh-alt-name|*浙江|[[Zhejiang]] province, China}}
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|越次|越搶越高|越搶越貴|越多越好|越冬|越發|越分|越軌|越過|越級|越加|越界|越境|越快越好|越窮越見鬼，肚餓打瀉米|越窮越見鬼，越冷越吹風|越嚟越……|越來越……|越禮|越南|越南話|越南人|越權|越位|越野|越野車|越野賽|越野賽跑|越獄|越………越………|越早越好|越障|越俎代庖|侵越|僭越|優越|優越感|兩越|卓越|南越|吳越|巔越|差越|度越|彭越|播越|攀越|攙越|東越|橫越|檀越|汩越|清越|激越|甌越|發越|百越|秦越|穿越|翻越|胡越|葛越|誂越|超越|越劇|越城嶺|越女|越子|越席|越戰|越日|越樣|越橘|越洋|越瓜|越窯|越絕書|越線|越若|越調|越越|越越的|越鳥|跨越|踰越|逾越|違越|闖越|隔越|隕越|顛越|飛越|騰越}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=走05}}
+
+# {{defn|lang=ja|sort=走05}}
+
+====Readings====
+* {{ja-readings|goon=[[えち]] (echi), [[おち]] (ochi)|kanon=[[えつ]] (etsu)|on=[[かつ]] (katsu)|kun=[[こえる]] (koeru), [[こす]] (kosu)}}
+
+====Compounds====
+* {{l|ja|超越}}:
+* {{l|ja|越境}}
+* {{l|ja|越権}}
+* {{l|ja|越度}}
+* {{l|ja|越南}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[월]], [[활]]|eumhun=넘을|rv=wol, hwal|mr=wŏl, hwal|y=wel, hwal}}
+
+# {{defn|lang=ko|sort=走05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[việt]], [[vát]], [[vẹt]], [[vượt]], [[nhông]], [[vác]], [[vệt]], [[vót]]|rs=走05}}
+
+# {{defn|lang=vi|sort=走05}}
+
+====Compounds====
+* [[Việt Nam]] ([[越南]])
+* [[tiếng Việt]] ([[㗂越]])
+* [[漢越]]
+
+[[zh-min-nan:越]]
+[[fr:越]]
+[[ko:越]]
+[[lt:越]]
+[[hu:越]]
+[[mg:越]]
+[[ja:越]]
+[[no:越]]
+[[uz:越]]
+[[pl:越]]
+[[th:越]]
+[[uk:越]]
+[[vi:越]]
+[[zh:越]]

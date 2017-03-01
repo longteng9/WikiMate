@@ -1,0 +1,98 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Re{{borrowing|zh|ja|-|nocap=1}} {{ja-r|代表|だいひょう}}.
+
+===Pronunciation===
+{{zh-pron
+|m=dàibiǎo
+|c=doi6 biu2
+|h=pfs=thoi-péu
+|ma=y
+|mn=tāi-piáu
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[represent]]
+#: {{zh-x|^月亮 '''^代表''' ^我 的 ^心|{{w|The Moon Represents My Heart|"The Moon '''Represents''' My Heart"}} (a song popularized by {{w|Teresa Teng}})}}
+# [[on behalf of]]; in the [[name]] of
+
+===Noun===
+{{zh-noun}}
+
+# [[representative]]
+
+====Derived terms====
+{{zh-der|代表團|代表性|代表作}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|だい|ひょう|yomi=on}}
+
+===Noun===
+{{ja-noun|だいひょう}}
+
+# the [[representative]], the [[representation]], the [[delegation]], an [[example]]
+#* '''1931''', 宮本百合子, 楽しいソヴェトの子供:
+#*: {{ja-usex|母さんは、工場で職場'''代表'''をやっている。|かあさん は、 こうじょう で しょくば '''だいひょう''' を やって いる。|The mother serves as the representative on the factory floor.}}
+# [[typification]]
+
+====Compounds====
+* {{l/ja|代表作}}
+* {{l/ja|代表者}}
+
+===Verb===
+{{ja-verb-suru|だいひょう}}
+
+# [[represent]], [[stand for]]
+# [[typify]]
+#* '''1908''', 夏目漱石, 三四郎:
+#*: {{ja-usex|これが日本の社会を'''代表'''しているんだと言う。|これ が にほん の しゃかい を '''だいひょう''' して いる ん だ と いう。|This typifies Japanese society.}}
+
+====Conjugation====
+{{ja-suru|だいひょう}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=대표}}
+
+# {{hanja form of|대표|representative}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|đại biểu|[[representative]]}}
+
+[[zh-min-nan:代表]]
+[[fr:代表]]
+[[ko:代表]]
+[[lo:代表]]
+[[hu:代表]]
+[[mg:代表]]
+[[ja:代表]]
+[[ru:代表]]
+[[fi:代表]]
+[[ta:代表]]
+[[chr:代表]]
+[[uk:代表]]
+[[vi:代表]]
+[[zh:代表]]

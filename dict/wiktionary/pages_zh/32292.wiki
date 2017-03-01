@@ -1,0 +1,69 @@
+{{character info/new}}
+{{also|鳔}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=11|sn=22|four=21391|canj=NFMWF}}
+
+# swimming bladder of fish
+
+====References====
+* {{Han ref|kx=1477.110|dkj=46447|dj=2008.380|hdz=74709.160|uh=9C3E|ud=39998|bh=C5C0|bd=50624}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=|y=piu5|sim=鳔}}
+
+# {{defn|lang=yue|sort=魚11}}
+
+----
+
+==Japanese==
+[[file:Swim bladder.jpg|thumb|right|200px|鰾(ukibukuro)]]
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚11}}
+
+# {{defn|lang=ja|sort=魚11}}
+
+====Readings====
+* {{ja-readings|on=[[ひょう]] (hyō)|kun=[[うきぶくろ]] (ukibukuro)}}
+
+{{wikipedia|lang=ja}}
+
+===Etymology===
+{{compound|lang=ja|sort=うきぶくろ|浮き|tr1=uki|t1=float|袋|tr2=fukuro|t2=bag}}
+
+===Noun===
+{{ja-noun|うきぶくろ}}
+
+# {{lb|ja|anatomy|sort=うきぶくろ}} [[swim bladder]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=표|eumhun=|rv=pyo|mr=p'yo|y=phyo}}
+
+# {{defn|lang=ko|sort=魚11}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|sim=鳔|pin=[[biào]] ([[biao4]])|wg=piao<sup>4</sup>}}
+
+# {{defn|lang=cmn|sort=魚11}}
+
+[[zh-min-nan:鰾]]
+[[fr:鰾]]
+[[hu:鰾]]
+[[ja:鰾]]
+[[pl:鰾]]
+[[th:鰾]]
+[[zh:鰾]]

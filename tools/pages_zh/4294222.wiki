@@ -1,0 +1,34 @@
+{{also|接触感应}}
+==Chinese==
+{{zh-forms|s=接触感应|type=22}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiēchùgǎnyìng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|paranormal}} The [[paranormal]] ability to discover information about an object's past, and especially about its past owners, merely by [[touching]] it.
+
+----
+
+==Japanese==
+{{ja-kanjitab|せつ|しょく|かん|のう|k1=せっ}}
+{{ja-kanjitab|せつ|しょく|かん|おう|k1=せっ}}
+{{wikipedia|Psychometry (paranormal)}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=せっしょくこんよう|接觸|tr1=sesshoku|t1=[[touch]]|感應|tr2=konyō|t2=[[response]]}}.
+
+===Noun===
+{{ja-noun|せっしょく かんのう|せっしょく かんおう|shin=接触感応}}
+
+# {{kyujitai spelling of|接触感応}}: [[psychometry]]
+
+====Synonyms====
+* {{ja-r|サイコメトリー}}
+
+{{attention|ja|needs checking}}

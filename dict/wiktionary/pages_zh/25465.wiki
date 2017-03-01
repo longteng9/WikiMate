@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|蒌}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=11|sn=14|four=44404|canj=TLLV|ids=⿱艹婁}}
+
+# Artemisia stelleriana
+
+====References====
+* {{Han ref|kx=1054.350|dkj=31813|dj=1517.120|hdz=53278.040|uh=851E|ud=34078|bh=E76F|bd=59247}}
+
+----
+
+==Chinese==
+{{zh-forms|s=蒌}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lóu
+|c=lau5,lau4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|䒷蔞|蓽露藍蔞|蔏蔞|蔞葉|蔞蒿|蔞鵝}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸11}}
+
+# {{defn|lang=ja|sort=艸11}}
+
+====Readings====
+{{ja-readings|goon=[[る]] (ru)|kanon=[[ろう]] (rō)|kun=[[よもぎ]] (yomogi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|蘩蔞|はこべ}}: [[chickweed]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[루]]>[[누]]|eumhun=|rv=ru>nu|mr=ru>nu|y=lwu>nwu}}
+
+# {{defn|lang=ko|sort=艸11}}
+
+[[fr:蔞]]
+[[hu:蔞]]
+[[mg:蔞]]
+[[pl:蔞]]
+[[th:蔞]]
+[[zh:蔞]]

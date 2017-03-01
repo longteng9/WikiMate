@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|迨}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=08|sn=12|four=35303|canj=YLE|ids=⿺辶隶}}
+
+# [[seize]], [[catch]]
+# [[reach]], [[arrive]]
+
+====References====
+* {{Han ref|kx=1259.180|dkj=38931|dj=1748.200|hdz=63854.010|uh=902E|ud=36910|bh=B665|bd=46693}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dài
+|c=dai6,doi6
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=辵08}}
+
+# {{defn|lang=ja|sort=辵08}}
+
+====Readings====
+* {{ja-readings|goon=[[だい]] (dai)|kanon=[[たい]] (tai), [[てい]] (tei)|kun=[[およぶ]] (oyobu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[체]], [[대]], [[태]]|eumhun=|rv=che, dae, tae|mr=ch'e, tae, t'ae|y=chey, tay, thay}}
+
+# {{defn|lang=ko|sort=辵08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''逮''' ([[đãi]])
+
+# {{defn|lang=vi}}
+
+[[fr:逮]]
+[[ko:逮]]
+[[hu:逮]]
+[[mg:逮]]
+[[ja:逮]]
+[[no:逮]]
+[[pl:逮]]
+[[th:逮]]
+[[vi:逮]]
+[[zh:逮]]

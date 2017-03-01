@@ -1,0 +1,16 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Etymology===
+From {{etyl|ja|zh}} {{m|ja|送り仮名|tr=okurigana}}
+
+===Pronunciation===
+{{zh-pron
+|m=sòngjiǎmíng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[okurigana]] {{gloss|kana written after kanji}}

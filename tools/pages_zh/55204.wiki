@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|へい|ばん|かた|k3=がた|r=y}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=へいばんがた|平板|tr1=[[heiban]]|t1=[[flat]]; [[monotone]]|型|tr2=[[gata]]|t2=[[type]]}}
+
+===Pronunciation===
+{{ja-pron|へいばんがた|acc=h}}
+
+===Noun===
+{{ja-noun|へいばん-がた}}
+
+# {{lb|ja|phonetics|sort=へいばんがた}} [[monotone]] [[type]]:
+#: The most common pitch accent pattern in “standard” Japanese or {{m|ja|標準語|tr=hyōjungo}} as used in the mass-media, where no syllable is accented: the first syllable has low pitch and all subsequent syllables have higher, gradually lowering pitch.
+
+====Synonyms====
+* {{ja-r|平板式|へいばん-しき}}
+
+====Usage notes====
+All accent patterns in Japanese may be described as either {{ja-l|平板式||heiban-shiki}} or {{ja-l|起伏式||kifuku-shiki}}. While {{lang|ja|起伏式}} is further divided into {{ja-l|頭高型||atamadaka-gata}}, {{ja-l|中高型||nakadaka-gata}}, and {{ja-l|尾高型||odaka-gata}}, there are no subcategories to {{lang|ja|平板式}}. When contrasting with {{lang|ja|頭高型}}, {{lang|ja|中高型}}, or {{lang|ja|尾高型}}, it is customary to use the word {{lang|ja|平板型}} to avoid the inconsistency of comparing {{ja-l|型||-gata}} with {{ja-l|式||-shiki}}.
+
+===See also===
+* {{ja-r|頭高型|あたまだかがた}}
+* {{ja-r|中高型|なかだかがた}}
+* {{ja-r|尾高型|おだかがた}}
+
+[[uz:平板型]]
+[[pt:平板型]]

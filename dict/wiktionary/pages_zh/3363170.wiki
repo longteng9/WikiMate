@@ -1,0 +1,30 @@
+==Japanese==
+{{ja-kanjitab|はつ|か|k1=はっ|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|はっか|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はっか|kyu=發火}}
+
+# [[ignition]]
+
+===Verb===
+{{ja-verb-suru|はっか|kyu=發火}}
+
+# to [[catch fire]]
+
+====Synonyms====
+* {{ja-r|引火|いんか}}, {{ja-r|点火|てんか}}
+
+====Conjugation====
+{{ja-suru|はっか}}
+
+===References===
+<references/>
+
+[[Category:ja:Fire|はっか]]
+
+[[ko:発火]]
+[[ja:発火]]
+[[zh:発火]]

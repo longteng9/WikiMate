@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=06|sn=9|four=68051|canj=RTQ|ids=⿰口羊}}
+
+# the [[bleat]]ing of [[sheep]]
+
+====References====
+* {{Han ref|kx=0186.130|dkj=03540|dj=0405.340|hdz=10622.050|uh=54A9|ud=21673|bh=ABA7|bd=43943}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+{{onomatopoeic|zh}}.
+
+====Pronunciation====
+{{zh-pron
+|m=miē
+|c=me1
+|mn=meh
+|cat=intj
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|The call of sheep.}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|c=me1
+|cat=part,pron
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tlb|zh|Cantonese}}
+
+# {{n-g|An [[interrogative]] [[particle]].}}
+#: {{zh-x|唔係 咩？|It's not?|C}}
+# {{contraction of|lang=zh|乜嘢||what|tr=mat1 je2}}
+#: {{zh-x|欸{e1}！喺度 諗 緊 咩 呀？|Hey, so '''what''' are you thinking about?|C|ref={{w2|zh|陳慧嫻}}, {{w2|zh|紅茶館_(歌曲)|紅茶館}}}}
+#: {{zh-x|咩 呀？|'''What''' do you want?/'''What''' is it?|C}}
+# [[which]]
+
+=====Synonyms=====
+{{zh-dial|什麼}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口06}}
+
+# {{defn|lang=ja|sort=口06}}
+
+====Readings====
+* {{ja-readings|on=[[び]] (bi), [[み]] (mi)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=미|rv=mi|mr=mi}}
+
+# {{defn|lang=ko|sort=口06}}
+
+[[zh-min-nan:咩]]
+[[fr:咩]]
+[[li:咩]]
+[[hu:咩]]
+[[mg:咩]]
+[[pl:咩]]
+[[th:咩]]
+[[zh:咩]]

@@ -1,0 +1,44 @@
+{{character info/new}}
+{{also|轉}}
+==Translingual==
+{{Han simplified forms|轉|転|转}}
+
+===Etymology===
+{{Han simp|轉|f=專|t=云}}. Compare [[伝]] from [[傳]].
+
+===Han character===
+{{Han char|rn=159|rad=車|as=04|sn=11|four=|canj=JJMMI|ids=⿰車云}}
+
+# [[shift]], [[move]], [[turn]]
+
+====References====
+* {{Han ref|kx=1241.111|dkj=38234|hdz=53517.041|uh=8EE2|ud=36578}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=車04|style=s|kyu=轉}}
+
+# {{defn|lang=ja|sort=車04}}
+
+====Readings====
+* {{ja-readings|goon=[[てん]] (ten)|kanon=[[てん]] (ten)|kun=[[ころぶ]] (korobu), [[ころがる]] (korogaru), [[めぐる]] (meguru)|nanori=}}
+
+====Compounds====
+* {{ja-r|転移|てんい}}: [[transition]]; [[transference]]
+* {{ja-r|移転|いてん}}: [[transfer]]
+* {{ja-r|転生|てんせい}}: [[transmigration]]
+* {{ja-r|転学|てんがく}}: [[transmigration]] [[between]] [[faculty|faculties]]/[[school]]s
+
+[[fr:転]]
+[[ko:転]]
+[[it:転]]
+[[hu:転]]
+[[mg:転]]
+[[ja:転]]
+[[pl:転]]
+[[fi:転]]
+[[th:転]]
+[[zh:転]]

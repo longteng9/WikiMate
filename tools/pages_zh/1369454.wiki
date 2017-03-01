@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhíjiǎo,er=y
+|c=zik6 gok3
+|h=pfs=chhṳ̍t-kok
+|mn=ti̍t-kak
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[right angle]]
+
+====Descendants====
+{{CJKV||ちょっかく|직각}}
+
+{{zh-cat|Mathematics}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちょく|k1=ちょっ|かく|yomi=on}}
+[[Image:Right angle.svg|thumb|直角]]
+
+===Noun===
+{{ja-noun|ちょっかく}}
+
+# {{lb|ja|mathematics|sort=ちょっかく}} [[right angle]] (angle of 90 degrees)
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|rv=jikgak|hangeul=직각}}
+
+# {{hanja form of|직각|right angle}}
+
+[[ko:直角]]
+[[lt:直角]]
+[[hu:直角]]
+[[ja:直角]]
+[[sv:直角]]
+[[zh:直角]]

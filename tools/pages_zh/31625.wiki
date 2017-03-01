@@ -1,0 +1,90 @@
+{{character info/new}}
+{{also|驼}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=05|sn=15|four=73311|canj=SFJP|ids=⿰馬它}}
+
+====References====
+* {{Han ref|kx=1437.040|dkj=44681|dj=1961.140|hdz=74549.120|uh=99DD|ud=39389|bh=BE6D|bd=48749}}
+
+----
+
+==Chinese==
+{{zh-forms|s=驼}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tuó
+|c=to4
+|h=pfs=thò
+|mn=tô/qz:tô͘
+|mc=y
+|oc=y
+|ma=
+|cat=n,a,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[camel]]
+# [[humpbacked]]
+# to [[hunch]] over
+# to [[carry]] on the [[back]]
+
+====Compounds====
+{{der3|title=Compounds
+|{{zh-l|駱駝}}
+|{{zh-l|羊駝}}
+|{{zh-l|美洲駝}}
+|{{zh-l|無峰駝}}
+|{{zh-l|大羊駝}}
+|{{zh-l|駝背}}
+|{{zh-l|駝峰}}
+|{{zh-l|駝鈴}}
+|{{zh-l|駝鹿}}
+|{{zh-l|駝絨}}
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬05}}
+
+# {{defn|lang=ja|sort=馬05}}
+
+====Readings====
+* {{ja-readings|kanon=[[た]] (ta)|goon=[[だ]] (da)|kun=[[せむし]] (semushi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=타|eumhun=|rv=ta|mr=t'a|y=tha}}
+
+# {{defn|lang=ko|sort=馬05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đà]]|rs=馬05}}
+
+# {{defn|lang=vi|sort=馬05}}
+
+[[fr:駝]]
+[[hu:駝]]
+[[mg:駝]]
+[[ja:駝]]
+[[pl:駝]]
+[[ru:駝]]
+[[th:駝]]
+[[zh:駝]]

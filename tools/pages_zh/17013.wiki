@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=06|sn=10|four=67020|canj=AHBR|ids=⿰日向}}
+
+# [[noon]], [[midday]]
+# [[moment]]
+# unit of [[land]] [[measurement]] [[equal]] to seven mou ([[畝]]), or the [[area]] that can be [[sown]] in [[one]] [[day]]
+# one mou ([[畝]]) equals approximately 1 are, or 100 sq. meters. Therefore, one shou (晌) should equal approximately 700 sq. meters
+
+====References====
+* {{Han ref|kx=0495.050|dkj=13903|dj=0860.110|hdz=21508.090|uh=664C|ud=26188|bh=AECE|bd=44750}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǎng
+|c=hoeng2
+|mn=qz,xm:sióng/zz:siáng
+|mn_note=sióng/siáng - vernacular (俗)
+|mc=
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|前晌|後晌|後半晌|下半晌|上半晌|一晌|半晌|前半晌|傍晌|早晌|晌飯|晌覺|睡晌覺|片晌|晌午|晌午歪|歇晌|頭晌|過晌}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日06}}
+
+# {{defn|lang=ja|sort=日06}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[まひる]] (mahiru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=상|eumhun=|rv=sang|mr=sang|y=sang}}
+
+# {{defn|lang=ko|sort=日06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=日06|hanviet=thưởng}}
+
+# {{defn|lang=vi|sort=日06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=664c Nom Foundation]
+
+[[fr:晌]]
+[[hu:晌]]
+[[mg:晌]]
+[[no:晌]]
+[[pl:晌]]
+[[th:晌]]
+[[zh:晌]]

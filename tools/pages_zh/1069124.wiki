@@ -1,0 +1,66 @@
+{{also|机械}}
+==Chinese==
+{{zh-forms|s=机械}}
+
+===Etymology===
+Reborrowing from {{etym|ja|zh}} {{ja-r|機械|きかい}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jīxiè
+|ma=Zh-jixiè.ogg
+|c=gei1 haai6
+|mn=ki-hāi/ki-hâi/twv:ki-kài
+|mn_note=ki-hâi - common variant reading
+|h=pfs=kî-hái
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[machine]]; [[machinery]]
+
+====Derived terms====
+{{zh-der|機械翻譯}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[mechanical]]
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|き|かい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|きかい|acc=2|acc_ref=NHK|dev=1|y=ko}}
+
+===Noun===
+{{ja-noun|き.かい}}
+
+# [[machine]]
+
+====Derived terms====
+* [[機械的]]
+* [[機械翻訳]]
+
+===References===
+<references/>
+
+[[zh-min-nan:機械]]
+[[fr:機械]]
+[[ko:機械]]
+[[lo:機械]]
+[[lt:機械]]
+[[hu:機械]]
+[[mg:機械]]
+[[ja:機械]]
+[[pl:機械]]
+[[ru:機械]]
+[[sv:機械]]
+[[chr:機械]]
+[[zh:機械]]

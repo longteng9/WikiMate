@@ -1,0 +1,32 @@
+==Japanese==
+{{ja-kanjitab|とう|ばん|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|とうばん|yomi=o}}
+
+===Noun===
+{{ja-noun|とうばん}}
+
+# {{lb|ja|baseball|sort=とうばん}} pitching
+
+====Antonyms====
+* {{ja-r|降板|こうばん}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|とうばん}}
+
+# {{lb|ja|baseball|sort=とうばん}} to [[pitch]]
+
+====Conjugation====
+{{ja-suru|とうばん}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=등판}}
+
+# {{hanja form of|등판}}
+
+[[ko:登板]]
+[[zh:登板]]

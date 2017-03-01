@@ -1,0 +1,30 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|そん|おう|k2=のう|yomi=o}}
+Originally from {{etyl|ltc|ja|sort=そんのう}} compound {{m|ltc|尊王|tr=*t͡zuən *hiuɑng||revere the king}}, probably from the phrase {{m|ltc|尊王攘夷|tr=*t͡zuən *hiuɑng *njaŋ *i||revere the king, expel the barbarians}}, appearing in Chinese literature beginning in the [[w:Warring States period|Warring States period]], some time between 475 BC and 221 BC.
+
+In Japanese, {{ja-l|尊王}} and {{lang|ja|尊皇}} are both read as ''sonnō'' and have mostly the same meaning (“revere the ruler”). The {{lang|ja|尊皇}} spelling might be preferred in Japanese contexts, as Japan has historically had an [[emperor]] ({{ja-l|皇}}) instead of a [[king]] ({{ja-l|王}}).
+
+{{ja-renjō|ō|nō|皇|sort=そんのう}}
+
+====Noun====
+{{ja-noun|そんのう|hhira=そんわう}}
+
+# {{alternative spelling of|lang=ja|尊王||[[reverence]] for the [[emperor]]}}
+
+=====Derived terms=====
+* {{ja-l|尊皇論|そんのうろん|sonnōron}}: [[royalism]], a belief in the [[supremacy]] of the [[monarchy]]
+* {{ja-l|尊皇攘夷|そんのうじょうい|sonnō jōi}}: [[revere]] the [[emperor]], [[kick out]] the [[barbarian]]s {{qualifier|[[nationalist]] [[slogan]]}}
+
+===Etymology 2===
+{{ja-kanjitab|そん|おう|yomi=o}}
+The older reading for this term, without [[Appendix:Japanese_glossary#renjō|renjō]] ({{m|ja|連声}}, “[[sandhi]]”).<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Noun====
+{{ja-noun|そんおう|hhira=そんわう}}
+
+# {{lb|ja|sort=そんおう|rare|archaic}} {{alternative spelling of|lang=ja|尊王||[[reverence]] for the [[emperor]]}}
+
+===References===
+<references/>

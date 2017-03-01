@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|赜}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=11|sn=18|four=75786|canj=SLQMC}}
+
+# [[abstruse]], [[deep]], [[profound]]
+
+====References====
+* {{Han ref|kx=1211.230|dkj=36887|dj=1677.180|hdz=63656.100|uh=8CFE|ud=36094|bh=F0F3|bd=61683}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zé
+|c=zaak6,zaak3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|奧賾|探賾索微|探賾索隱|研幾探賾|探幽窮賾|繁賾}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=貝11}}
+
+# {{defn|lang=ja|sort=貝11}}
+
+====Readings====
+* {{ja-readings|on=[[さく]] (saku), [[じゃく]] (jaku)|kun=[[おくぶかい]] (okubukai)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=색|eumhun=|rv=saek|mr=saek|y=sayk}}
+
+# {{defn|lang=ko|sort=貝11}}
+
+[[fr:賾]]
+[[hu:賾]]
+[[pl:賾]]
+[[th:賾]]
+[[vi:賾]]
+[[zh:賾]]

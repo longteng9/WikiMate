@@ -1,0 +1,68 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+[[File:Gotou-fundou-10.jpg|thumb|250px|{{lang|ja|分銅}}: traditional Japanese '''''fundō'' {{l|en|weight}}s''', used to weigh {{l|en|coinage}}.]]
+[[File:Weights_cyl.JPG|thumb|250px|{{lang|ja|分銅}}: Western-style '''''fundō'''''.]]
+[[File:Fundou-Kamon.svg|thumb|250px|{{lang|ja|分銅}}: the '''''fundō''''' family crest.]]
+</div>
+
+===Etymology 1===
+{{ja-kanjitab|ふん|どう|yomi=on}}
+
+Uncertain. Given the [[慣用読み#Japanese|kan'yōyomi]] of ''dō'' for the {{m|ja|銅}} character, probably a Japanese coinage from {{cog|ltc|-}}-derived elements, as a compound of {{compound|lang=ja|sort=ふんどう|分|tr1=fun|pos1=a unit of weight, roughly 375 {{l|en|milligram}}s|銅|tr2=dō|t2=copper}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|ふんどう|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|ふんどう}}
+
+# a {{l|en|metal}} {{l|en|weight}}, often made of {{l|en|copper}}, used in a {{l|en|balance}} {{l|en|scale}}; traditionally had a kind of {{l|en|hourglass}} shape
+# any {{l|en|gold}} or {{l|en|silver}} {{l|en|ingot}} {{l|en|cast}} in an {{l|en|hourglass}} shape; such ingots were formerly kept as emergency savings
+# {{lb|ja|sort=ふんどう|obsolete|slang}} a {{m|ja|二朱銀|tr=nishugin||{{w|Edo period|Edo-period}} coin of refined silver}}
+# a {{l|en|weight}} used with a {{l|en|balance}} {{l|en|scale}}
+# a {{m|ja|家紋|tr=kamon||{{l|en|family}} {{l|en|crest}}}} in the shape of a {{l|en|stylize}}d ''fundō'' weight
+
+=====Derived terms=====
+* {{ja-r|分銅座|^ふんどう-ざ}}: the {{l|en|weights}} {{l|en|guild}}: tasked by the {{w|Edo period|Edo}} {{l|en|shogunate}} with {{l|en|standardize|standardizing}} weights and controlling their {{l|en|manufacture}} and {{l|en|distribution}}; {{l|en|abolish}}ed in February 1876
+* {{ja-r|分銅桜|ふんどう-ざくら}}: a {{m|ja|家紋|tr=kamon||{{l|en|family}} {{l|en|crest}}}} in the shape of a {{m|ja|桜|tr=sakura||cherry blossom}}, with each petal depicted using a ''fundō'' shape
+
+===Etymology 2===
+{{ja-kanjitab|ふん|どん|yomi=irreg}}
+
+Alteration from ''fundō''. Non-standard reading of ''don'' for {{m|ja|銅}} may indicate influence from early {{cog|cmn|-}} or {{cog|yue|-}} readings (modern ''tóng'' and ''tung²''), or perhaps more likely, influence from an early version of {{cog|ko|銅|tr=dong}}.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|ふんどん}}
+
+====Noun====
+{{ja-noun|ふんどん}}
+
+# a ''fundō'' [[weight]]
+# a {{l|en|silver}} weight or {{m|ja|橙|tr=daidai||bitter orange}} tied to the end of a bit of string, used in a {{m|ja|宝引き|tr=hōbiki|pos=a kind of {{l|en|lottery}} or {{l|en|draw straws}}}}
+# a {{l|en|shape}} that is {{l|en|pinch}}ed in the middle like a ''fundō'' weight
+
+===Etymology 3===
+{{ja-kanjitab|ぶん|どう|yomi=o}}
+
+Alteration from ''fundō'', using the [[呉音#Japanese|{{lang|ja|sc=Latn|goon}}]] reading of ''bun'' for the {{m|ja|分}} character.
+
+====Pronunciation====
+{{ja-pron|yomi=o|ぶんどう}}
+
+====Noun====
+{{ja-noun|ぶんどう}}
+
+# a {{l|en|weight}}
+
+=====Derived terms=====
+* {{ja-r|分銅秤|ぶんどう-ばかり}}: a {{l|en|balance}} {{l|en|scale}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[ko:分銅]]
+[[mg:分銅]]
+[[chr:分銅]]
+[[zh:分銅]]

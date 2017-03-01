@@ -1,0 +1,128 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=62|rad=戈|as=10|sn=14|four=43250|canj=JIOG|ids=⿹𢦏隹}}
+
+====References====
+* {{Han ref|kx=0413.320|dkj=11639|hdz=21409.090|uh=622A|ud=25130|bh=BA49|bd=47689}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|隹|𢦔|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jié
+|c=zit6
+|mn=chia̍t
+|mc=
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[cut off]], [[stop]], [[obstruct]], [[intersect]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=戈10}}
+
+# to [[cut]], to [[sever]]
+
+====Readings====
+{{ja-readings
+|goon=[[ぜち]] (zechi)
+|kanon=[[せつ]] (setsu)
+|kanyoon=[[さい]] (sai)
+|kun=[[たつ|た.つ]] ({{ja-l|截つ}}, tatsu), [[きる|き.る]] ({{ja-l|截る}}, kiru)
+}}
+
+===Etymology 1===
+From {{etyl|ltc|ja|sort=せつ}} {{m|ltc|截|tr=*dzhet}}. Compare modern {{cog|yue|截|tr=zit<sup>6</sup>}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}, specifically [[漢音#Japanese|''kan'on'']]
+* {{IPA|lang=ja|[se̞t͡sɯᵝ]}}
+
+====Affix====
+{{ja-pos|affix|せつ}}
+
+# [[section]]
+# [[cut]]
+# [[sever]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|截枝|せっし|sesshi}}: a method of [[pruning]], whereby tree branches are removed to prompt new growth at the site of the old branches
+* {{ja-l|截取|せっしゅ|sesshu}}: [[cutting]] [[off]], cutting [[away]]
+* {{ja-l|截然|せつぜん|setsuzen}}: clearly [[delineated]], clearly [[distinct]]; clearly [[cut]] [[away]]
+* {{ja-l|截断|せつだん|setsudan}}: [[cutting]] something out, off, or away; [[amputation]]; a [[section]] or [[cross-section]], as in [[mathematics]]
+* {{ja-l|截断言|せつだんげん|setsudangen}}: archaic term for {{m|ja|終止形|tr=shūshikei||terminal form}}
+* {{ja-l|截頭|せっとう|settō}}: a clipped point, as when a leaf or flower-petal tip is snipped
+{{der-mid}}
+* {{ja-l|直截|ちょくせつ|chokusetsu}}: [[direct]], [[straightforward]]
+{{der-bottom}}
+
+===Etymology 2===
+Probably originally a misreading based on this character's visual and semantic similarity to {{ja-l|裁}}, commonly read as ''sai''.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}: specifically [[慣用読み#Japanese|''kan'yōyomi'']]
+* {{IPA|lang=ja|[sa̠i]}}
+
+====Affix====
+{{ja-pos|affix|さい}}
+
+# [[section]]
+# [[cut]]
+# [[sever]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|截金|さいきん|saikin}}: thin layers of [[gold leaf]] cut into various shapes
+* {{ja-l|截然|さいぜん|saizen}}: clearly [[delineated]], clearly [[distinct]]
+* {{ja-l|截断|さいだん|saidan}}: [[distinction]] between [[right]] and [[wrong]]; [[cutting]] cloth, paper, or some other substance into a defined pattern or shape
+* {{ja-l|截留|さいりゅう|sairyū}}: [[embezzlement]] by government officials in ancient Japan
+* {{ja-l|截癱|さいなん|sainan}}: a kind of [[motor]] [[paralysis]] in the lower leg or lower torso, due to [[spinal]] [[damage]] or chronic [[alcoholism]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=절|eumhun=|rv=jeol|mr=chŏl|y=cel}}
+
+# {{defn|lang=ko|sort=戈10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tiệt]], [[sịt]], [[tét]], [[tĩu]]|rs=戈10}}
+
+# {{defn|lang=vi|sort=戈10}}
+
+[[fr:截]]
+[[ko:截]]
+[[hu:截]]
+[[mg:截]]
+[[ja:截]]
+[[no:截]]
+[[pl:截]]
+[[th:截]]
+[[tg:截]]
+[[zh:截]]

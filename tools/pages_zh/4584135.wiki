@@ -1,0 +1,10 @@
+==Japanese==
+{{ja-kanjitab|こう|ほう|ご|かん|せい|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|sort=こうほうごかん|後方|tr1=kōhō|t1=behind|互換性|tr2=gokansei|t2=compatibility}}
+
+===Noun===
+{{ja-noun|こうほうごかんせい}}
+
+# [[backward compatibility]]

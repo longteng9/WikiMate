@@ -1,0 +1,15 @@
+==Japanese==
+{{ja-kanjitab|いち|じ|ふ|さい|り|yomi=on}}
+
+===Etymology===
+* [[一事]] ([[いちじ]], [[ichiji]]): one case
+* +[[不]] ([[ふ]], [[fu]]): [[not]]
+* +[[再理]] ([[さいり]], [[sairi]]): [[rejudge]]
+
+===Noun===
+{{ja-noun|いちじふさいり}}
+
+# {{lb|ja|legal|sort=いちじふさいり}} the [[principle]] against [[double jeopardy]] ([[exceptio res judicata]])
+
+[[ko:一事不再理]]
+[[ja:一事不再理]]

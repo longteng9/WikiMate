@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|砀}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=09|sn=14|four=16627|canj=MRAMH|ids=⿰石昜}}
+
+# [[brilliantly]] [[color]]ed [[stone]] with [[veined]] [[pattern]]s in it
+
+====References====
+* {{Han ref|kx=0833.170|dkj=24342|dj=1250.070|hdz=42443.020|uh=78AD|ud=30893|bh=E2EE|bd=58094}}
+
+----
+
+==Chinese==
+{{zh-forms|s=砀}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàng
+|c=dong6
+|mn=thn̄g
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|芒碭}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=石09}}
+
+# {{defn|lang=ja|sort=石09}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō), [[どう]] (dō)|kun=[[いし]] (ishi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=탕|eumhun=|rv=tang|mr=t'ang|y=thang}}
+
+# {{defn|lang=ko|sort=石09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nãng]]|rs=石09}}
+
+# {{defn|lang=vi|sort=石09}}
+
+[[zh-min-nan:碭]]
+[[fr:碭]]
+[[hu:碭]]
+[[mg:碭]]
+[[pl:碭]]
+[[th:碭]]
+[[zh:碭]]

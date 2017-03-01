@@ -1,0 +1,62 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=08|sn=11|four=98027|canj=POMB|ids=⿰忄侖}}
+
+====References====
+* {{Han ref|kx=0389.240|dkj=10749|dj=0723.100|hdz=42317.030|uh=60C0|ud=24768|bh=D565|bd=54629}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|心|侖|c1=s|c2=p|t1=heart|ls=psc}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=lǔn
+|c=leon4,leon6
+|mc=y
+|oc=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[want]] to [[know]] something
+# to [[consider]]; to [[think]]; to [[ponder]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=lùn
+|c=leon6
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[depressed]]; [[resentful]]
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心08|hanviet=luẩn}}
+
+# {{defn|lang=vi|sort=心08}}
+
+[[fr:惀]]
+[[li:惀]]
+[[pl:惀]]
+[[th:惀]]
+[[zh:惀]]

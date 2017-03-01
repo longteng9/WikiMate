@@ -1,0 +1,13 @@
+==Japanese==
+{{ja-kanjitab|じ|かん|けい|さん|りょう|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|sort=じかんけいさんりょう|時間|tr1=jikan|t1=time|計算量|tr2=keisanryō|t2=computational complexity}}
+
+===Noun===
+{{ja-noun|じかんけいさんりょう}}
+
+# {{lb|ja|computer science|sort=じかんけいさんりょう}} [[time complexity]]
+
+====Related terms====
+* {{ja-r|空間計算量|くうかんけいさんりょう|gloss=[[space complexity]]}}

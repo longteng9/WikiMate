@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|ㄤ|尤|尣}}
+
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+{{Han etyl}}
+{{liushu|i}}, a man with bent legs (jumping or collapsing). Compare with [[大]], which derives from a man with straight legs, and in present form has slightly different strokes.
+
+===Han character===
+{{Han char|rn=43|rad=尢|as=00|sn=3|four=40010|canj=KU,XKU}}
+
+# [[weak]]
+# {{mul-kangxi radical-def}}
+
+====Descendants====
+* [[ㄤ]]
+
+====Related characters====
+* [[大]]
+
+====References====
+* {{Han ref|kx=0298.020|dkj=07539|dj=0593.010|hdz=10551.100|uh=5C22|ud=23586|bh=A471|bd=42097}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wāng,yóu
+|c=wong1
+|h=pfs=vong
+|mn=ong
+|w=
+|mc=y
+|oc=
+|ma=|ma2=
+|cat=a
+}}
+
+====Usage notes====
+Only used independently as a variant of [[尤]].
+
+====References====
+* {{cite-book|last=McNaughton|first=William|year=2005
+|title=Reading & Writing Chinese: Simplified Character Edition|publisher=Tuttle|isbn=978-0804835091
+|page=14|edition=2nd Edition
+}}
+* [http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=9|rs=尢00}}
+
+# {{defn|lang=ja|sort=尢00}}
+
+====Readings====
+* {{ja-readings|on=[[おう]] (ō)|kun=[[あしなえ]] (ashinae), [[せむし]] (semushi)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[uông]], [[vưu]]|rs=尢00}}
+
+# {{defn|lang=vi|sort=尢00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:尢]]
+[[ko:尢]]
+[[hu:尢]]
+[[mg:尢]]
+[[ms:尢]]
+[[ja:尢]]
+[[pl:尢]]
+[[pt:尢]]
+[[ru:尢]]
+[[th:尢]]
+[[zh:尢]]

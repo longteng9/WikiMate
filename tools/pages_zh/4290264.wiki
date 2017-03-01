@@ -1,0 +1,66 @@
+{{also|远视}}
+==Chinese==
+{{zh-forms|s=远视}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuǎnshì
+|c=jyun5 si6
+|md=uōng-sé
+|mn=qz,tw,xm,zz:oán-sī
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|pathology}} [[hyperopia]]
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|pathology}} [[hyperopic]]
+
+===See also===
+* {{zh-l|近視}}
+* {{zh-l|散光}}
+* {{zh-l|老花}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|えん|し|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=ko|えんし}}
+* {{homophone|lang=ja|煙死|sort=えんし}}
+
+===Noun===
+{{ja-noun|えんし|hhira=ゑんし}}
+
+# {{lb|ja|pathology|sort=えんし}} [[hyperopia]]
+
+===See also===
+* {{ja-r|近%視|きん%し}}
+* {{ja-r|乱%視|らん%し}}
+* {{ja-r|老%視|ろう%し}}
+
+[[Category:ja:Eye|えんし]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=원시|mr=wŏnsi|y=wēnsi}}
+
+# {{hanja form of|원시|[[hyperopia]]}}
+
+[[cs:遠視]]
+[[fr:遠視]]
+[[ko:遠視]]
+[[hu:遠視]]
+[[zh:遠視]]

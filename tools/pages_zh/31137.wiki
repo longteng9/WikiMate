@@ -1,0 +1,97 @@
+{{character info/new}}
+{{also|颉}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=181|rad=頁|as=06|sn=15|four=41686|canj=GRMBC|ids=⿰吉頁}}
+
+# [[fly]] [[upward]], [[soar]]
+# [[contest]]
+# to [[rob]]
+
+====References====
+* {{Han ref|kx=1403.100|dkj=43452|dj=1920.140|hdz=74367.060|uh=9821|ud=38945|bh=BE65|bd=48741}}
+
+----
+
+==Chinese==
+===Etymology 1===
+{{zh-forms|s=颉}}
+
+====Pronunciation====
+{{zh-pron
+|m=xié
+|c=git3
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Etymology 2===
+{{zh-forms|s=颉}}
+
+====Pronunciation====
+{{zh-pron
+|m=jié
+|c=kit3
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Compounds===
+{{zh-der|倉頡|倉頡篇|快碼倉頡|抗頡作用|頡滑|頡頏|頡頏之行}}
+
+===References===
+* {{R:twedu|A04550}}
+* {{R:yue:Hanzi}}
+
+{{attention|zh|please check}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=頁06}}
+
+# {{defn|lang=ja|sort=頁06}}
+
+====Readings====
+* {{ja-readings|goon=[[けち]] (kechi), [[げち]] (gechi)|kanon=[[かつ]] (katsu), [[けつ]] (ketsu)|kanyoon=[[きつ]] (kitsu)|kun=[[おおきい]] (ookii), [[かすめとる]] (kasumetoru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[힐]], [[갈]]|eumhun=|rv=hil, gal|mr=hil, kal|y=hil, kal}}
+
+# {{defn|lang=ko|sort=頁06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=頁06|[[gật]], [[hiệt]], [[hệt]]}}
+
+# {{defn|lang=vi|sort=頁06}}
+
+[[fr:頡]]
+[[ko:頡]]
+[[hu:頡]]
+[[ja:頡]]
+[[pl:頡]]
+[[th:頡]]
+[[zh:頡]]

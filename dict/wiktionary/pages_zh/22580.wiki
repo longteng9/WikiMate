@@ -1,0 +1,69 @@
+{{character info/new}}
+{{also|洼}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=116|rad=穴|as=09|sn=14|four=30114|canj=JCEGG|ids=⿱穴洼}}
+
+# [[hollow]]
+# [[pit]]
+# [[depression]]
+# [[swamp]]
+
+====References====
+* {{Han ref|kx=0866.610|dkj=25580|dj=1295.210|hdz=42736.040|uh=7AAA|ud=31402|bh=BADA|bd=47834}}
+
+----
+
+==Chinese==
+{{zh-forms|s=洼}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wā
+|c=waa1
+|h=pfs=
+|md=
+|mn=qz,xm,zz:oa
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=穴09}}
+
+# {{defn|lang=ja|sort=穴09}}
+
+====Readings====
+* {{ja-readings|goon=[[え]] (e)|kanon=[[わ]] (wa)|on=[[あ]] (a)|kun=[[くぼ]] (kubo), [[くぼむ]] (kubomu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=와|eumhun=|rv=wa|mr=wa|y=wa}}
+
+# {{defn|lang=ko|sort=穴09}}
+
+[[fr:窪]]
+[[hu:窪]]
+[[mg:窪]]
+[[ja:窪]]
+[[pl:窪]]
+[[th:窪]]
+[[zh:窪]]

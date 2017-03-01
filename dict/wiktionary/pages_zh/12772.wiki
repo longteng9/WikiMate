@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|惡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=13|sn=16|four=10106|canj=MGRR|ids=⿻王⿱吅吅}}
+
+# [[bad]], [[ill]]-[[omen]]ed, [[unlucky]]
+# [[startling]]
+
+====References====
+* {{Han ref|kx=0210.040|dkj=04377|dj=0432.270|hdz=10688.120|uh=5669|ud=22121|bh=BEB5|bd=48821}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=è
+|c=ngok6
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|噩耗}}
+* {{zh-l|噩夢}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口13}}
+
+# {{defn|lang=ja|sort=口13}}
+
+====Readings====
+* {{ja-readings|on=[[かく]] (kaku)|kun=[[おごそかなさま]] (ogosokanasama), [[おどろく]] (odoroku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=악|rv=ak|mr=ak}}
+
+# {{defn|lang=ko|sort=口13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngạc]]|rs=口13}}
+
+# {{defn|lang=vi|sort=口13}}
+
+[[fr:噩]]
+[[li:噩]]
+[[hu:噩]]
+[[mg:噩]]
+[[no:噩]]
+[[uz:噩]]
+[[pl:噩]]
+[[th:噩]]
+[[vi:噩]]
+[[zh:噩]]

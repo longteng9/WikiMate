@@ -1,0 +1,69 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=190|rad=髟|as=08|sn=18|four=72227|canj=SHBB|ids=⿱髟朋}}
+
+# [[unkempt]] [[hair]]
+# [[loose]]
+# [[flowing]] hair
+
+====References====
+* {{Han ref|kx=1454.440|dkj=45474|dj=1985.340|hdz=74528.080|uh=9B05|ud=39685|bh=F1BD|bd=61885}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=péng
+|c=pang4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|鬅鬆|鬅鬙|鬅頭}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=髟08}}
+
+# {{defn|lang=ja|sort=髟08}}
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō), [[ぼう]] (bō)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[불]]|eumhun=|rv=bul|mr=pul|y=pul}}
+
+# {{defn|lang=ko|sort=髟08}}
+
+[[fr:鬅]]
+[[ko:鬅]]
+[[hu:鬅]]
+[[mg:鬅]]
+[[pl:鬅]]
+[[th:鬅]]
+[[zh:鬅]]

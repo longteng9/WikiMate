@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|凿}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=19|sn=27|four=37109|canj=TEC}}
+
+# [[chisel]]
+# [[bore]], [[pierce]]
+
+====References====
+* {{Han ref|kx=1327.290|dkj=41088|dj=1829.040|hdz=64277.070|uh=947F|ud=38015|bh=C677|bd=50807}}
+
+----
+
+==Chinese==
+{{zh-forms|s=凿}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|金|𥽿|c1=s|c2=p|t1=metal|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=záo
+|c=zok6
+|h=pfs=chho̍k
+|md=
+|mn=qz,xm,zz:cho̍k/qz,tw,xm,zz:chha̍k
+|mn_note=cho̍k - literary, chha̍k - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+[[file:Miki City Hardware Museum06n3872.jpg|thumb|right|200px|鑿(nomi)]]
+
+===Kanji===
+{{ja-kanji|grade=|rs=金19}}
+
+====Readings====
+* {{ja-readings|on=[[さく]] (saku), [[そう]] (sō)|kun=[[のみ]] (nomi), [[うがつ]] (ugatsu)|nanori=}}
+
+{{wikipedia|lang=ja}}
+
+===Noun===
+{{ja-noun|のみ}}
+
+# [[chisel]]
+
+[[Category:ja:Tools|のみ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[착]], [[조]]|eumhun=|rv=chak, jo|mr=ch'ak, cho|y=chak, co}}
+
+# {{defn|lang=ko|sort=金19}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tạc]], [[toạc]]|rs=金19}}
+
+# {{defn|lang=vi|sort=金19}}
+
+[[fr:鑿]]
+[[ko:鑿]]
+[[lo:鑿]]
+[[hu:鑿]]
+[[mg:鑿]]
+[[ja:鑿]]
+[[pl:鑿]]
+[[th:鑿]]
+[[zh:鑿]]

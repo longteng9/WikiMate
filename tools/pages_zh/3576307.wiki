@@ -1,0 +1,42 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|おう|とう|yomi=o}}
+
+===Etymology 1===
+From {{etyl|zhx|ja|sort=おうとう}} {{m|zh|櫻桃}}.
+
+====Pronunciation====
+* [[音読み|On'yomi]]
+* {{ja-pron|おうとう}}
+
+====Noun====
+{{ja-noun|おうとう|kyu=櫻桃|hhira=あうたう}}
+
+# alternate for {{l|ja|桜|tr=''sakura''}}: a [[cherry]] [[tree]]
+# the {{m|ja|西洋実桜|tr=seiyō mizakura}}, the [[wild cherry]], ''[[Prunus avium]]''
+# the {{m|ja|英桃|tr=yusura ume}}, the {{vern|downy cherry|pedia=1}}, {{taxlink|Prunus tomentosa|species|noshow=1}}
+# {{lb|ja|sort=おうとう|euphemistic}} a [[beautiful]] [[woman]]; a beautiful woman's [[lip]]s
+
+===Etymology 2===
+Numerous theories.
+
+Possibly a compound of {{compound|lang=ja|sort=さくらんぼう|桜|tr1=sakura|t1=cherry tree|の|tr2=no|t2=possessive particle|穂|tr3=ho|t3=a bud or fruit towards the end of a long stem}}. The ''no'' [[contract]]s to ''n''. The ''ho'' changes to ''bo'' due to {{rendaku|さくらんぼう}}.
+
+Alternately, a compound of {{compound|lang=ja|sort=さくらんぼう|桜|tr1=sakura|t1=cherry tree|の|tr2=no|t2=possessive particle|坊|tr3=bō|t3=a monk}}, also used as a suffix to indicate affection, also used to allude to the round smooth shape of a monk's shaven head.
+
+Alternately, a compound of {{compound|lang=ja|sort=さくらんぼう|桜|tr1=sakura|t1=cherry tree|桃|tr2=momo|t2=peach; any bulging round fruit}}.
+
+====Alternative forms====
+* {{l|ja|桜ん坊}}
+
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|[sa̠ku͍ɽa̠ɴbo̞]|[sa̠ku͍ɽa̠ɴbo̞ː]}}
+
+====Noun====
+{{ja-noun|さくらんぼ}} {{ja-altread|hira=さくらんぼう|rom=sakuranbō}}
+
+# the [[cherry]] [[fruit]]
+
+[[fr:桜桃]]
+[[sv:桜桃]]

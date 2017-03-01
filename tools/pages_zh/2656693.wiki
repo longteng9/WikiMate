@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|きゅう|しん|yomi=on}}
+
+===Noun===
+{{ja-noun|きゅうしん}}
+
+# [[rest assured]], [[peace of mind]]
+#: {{ja-usex|他事ながらご休心下さい。|たじながら ごきゅうしん ください。|Please do not worry.}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|きゅうしん}}
+
+# [[rest assured]], cease worrying, feel secure
+
+====Conjugation====
+{{ja-suru|きゅうしん}}
+
+====Usage notes====
+Often used in letters.
+
+===References===
+* {{R:Kojien}}

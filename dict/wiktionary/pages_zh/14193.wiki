@@ -1,0 +1,91 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=40|rad=宀|as=08|sn=11|four=30947|canj=JYFE|ids=⿱宀叔}}
+
+# [[still]], [[silent]], [[quiet]], [[desolate]]
+
+====References====
+* {{Han ref|kx=0288.010|dkj=07200|dj=0569.060|hdz=20938.040|uh=5BC2|ud=23490|bh=B149|bd=45385}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|宀|t1=house|叔|t2=sorting beans|ls=ic}} – quietly sorting beans at home.
+
+===Pronunciation===
+{{zh-pron
+|m=寂
+|c=zik6
+|h=pfs=
+|md=
+|mn=chiauh
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|寂寞}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=宀08}}
+
+# [[loneliness]]
+# [[quietly]]
+# [[mellow]]
+# [[mature]]
+# [[death]] [[of]] [[a]] [[priest]]
+
+====Readings====
+* {{ja-readings|goon=[[じゃく]] (jaku)|kanon=[[せき]] (seki)|kun=[[さびしい]] (sabishii), [[さび]] (sabi)}}
+
+====Compounds====
+* {{ja-r|寂寥|せきりょう}}
+* {{ja-r|静寂|せいじゃく}}
+* {{ja-r|寂しい|さびし.い}}, {{ja-r|寂しい|さみし.い}}
+* {{ja-r|寂寞|せきばく}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[적]]|rv=jeok|mr=chŏk}}
+
+# {{defn|lang=ko|sort=宀08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tịch]]|rs=宀08}}
+
+# {{defn|lang=vi|sort=宀08}}
+
+[[fr:寂]]
+[[ko:寂]]
+[[li:寂]]
+[[hu:寂]]
+[[mg:寂]]
+[[ja:寂]]
+[[no:寂]]
+[[pl:寂]]
+[[th:寂]]
+[[zh:寂]]

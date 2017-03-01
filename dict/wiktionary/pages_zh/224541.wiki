@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=duǎnxìn
+|c=dyun2 seon3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[text message]]
+
+====Synonyms====
+* {{qualifier|Hong Kong}} {{zh-l|短訊}}
+* {{qualifier|Taiwan}} {{zh-l|簡訊}}
+
+{{zh-cat|Telecommunications}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|たん|しん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|たんしん|yomi=o}}
+
+===Noun===
+{{ja-noun|たんしん}}
+
+# a brief note (report, letter)
+#: {{ja-usex|決算'''短信'''|けっさん '''たんしん'''|'''brief report''' on settlement of accounts}}
+
+[[ko:短信]]
+[[mg:短信]]
+[[ja:短信]]
+[[sr:短信]]
+[[chr:短信]]
+[[zh:短信]]

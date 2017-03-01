@@ -1,0 +1,219 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=172|rad=隹|as=04|sn=12|four=40014|canj=KIOG|ids=⿰厷隹}}
+
+===References===
+* {{Han ref|kx=1365.120|dkj=41972|dj=1869.010|hdz=64093.030|uh=96C4|ud=38596|bh=B6AF|bd=46767}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|厷|隹|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xióng
+|c=hung4
+|h=pfs=hiùng
+|md=hṳ̀ng
+|mn=qz,tw,xm,zz:hiông/qz,tw,xm,zz:hêng/qz,tw:hîn
+|mn_note=hiông - literary; hêng/hîn - vernacular
+|w=3hhion
+|mc=y
+|oc=y
+|cat=a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|usually of animals}} [[male]]
+# [[masculine]]; [[powerful]]; [[grand]]
+# [[powerful]] or [[influential]] [[person]] or [[state]]
+
+====Usage notes====
+* Commonly used for animals to mean “male” in academic contexts, less commonly used in non-academic contexts (use {{zh-l|*公}} instead), and not used for humans (use {{zh-l|*男}} instead). For example:
+*: {{zh-x|雄雞|cock}}
+*: {{zh-x|雄牛|bull}}
+
+====Antonyms====
+* {{zh-l|雌|female}}
+
+===Compounds===
+{{zh-der|雄辯|雄兵|雄才大略|雄大|雄風|雄蜂|雄關|雄豪|雄厚|雄花|雄渾|雄雞|雄健|雄傑|雄勁|雄赳赳|雄踞|雄俊|雄峻|雄麗|雄奇|雄蕊|雄師|雄視|雄圖|雄威|雄偉|雄武|雄心|雄性|雄性激素|雄主|雄壯|雄姿|壓倒群雄|一決雌雄|大雄|一世之雄|七雄|姦雄|巾幗英雄|不雌不雄|傲視群雄|奸雄|大雄寶殿|得雄|姦人之雄|沉雄古逸|揚雄投閣|滔滔雄辯|稱雄|百萬雄師|百萬雄兵|無名英雄|爭雄|民族英雄|積健為雄|戰國七雄|百戰雄師|烏之雌雄|知雄守雌|揚雄吐鳳|沉雄|決一雌雄|決雌雄|氣勢雄偉|梟雄|斷尾雄雞|群雄|顧盼自雄|雄勝|英雄入彀|雄飛|聲雄力猛|雄略|雄鎮|雄張|雄氣|英雄短氣|英雄樹|雄材偉略|英勇雄壯|草莽英雄|豪雄|英雄主義|雌雄同株|雄斷|雄雄赫赫|雄兒|雌雄同體|雄器|雄心勃勃|高雄港|高談雄辯|聖雄|雄辯滔滔|雌雄異株|雄糾糾|雄長|豪放雄邁|雌雄未決|聚葯雄蕊|鬼雄|雌雄|雄狐|雌雄異體|雄黃酒|雄黃|雄霸一方|雄雉|雄辯高談|雄藩|雄精|英雄本色|雄株|雄文|雄劍|雄偉壯麗|英雄末路|赳赳雄風|雄心萬丈|領先群雄|英雄好漢|雄黃油|辭豐意雄|英雄豪傑|重振雄風|雄將|雄飛突進|雌雄莫辨|蓋世雄才|英雄|雄心壯志|英雄氣短|雄雞斷尾|雄起}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=隹04}}
+
+====Readings====
+{{ja-readings
+|goon=[[う]] (u), [[ゆ]] (yu)
+|kanon=[[ゆう]] (yū)
+|kun=[[おす]] (osu), [[お]] (o)
+|nanori=[[かつ]] (katsu), [[たけ]] (take), [[つよし]] (tsuyoshi), [[ゆ]] (yu), [[よう]] (yō)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|ゆう}}
+From {{etyl|ltc|ja|sort=ゆう}} {{m|zh|雄|tr=hjuwng||male}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ゆう|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ゆう}}
+
+# [[male]]
+# something or someone [[excellent]] {{qualifier|male}}
+#: {{ja-usex|一世の'''雄'''|いっせい の '''ゆう'''|one of the '''greatest men''' of his generation}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|雄偉|ゆうい}}: [[heroic]], [[grand]], [[excellent]]
+* {{ja-r|雄黄|ゆうおう}}: [[orpiment]], an [[arsenic]] [[sulfide]] [[mineral]]
+* {{ja-r|雄花|ゆうか}}: a [[male]] [[flower]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|お}}
+{{IPAchar|/wo/}} → {{IPAchar|/o/}}
+
+From {{etyl|ojp|ja|sort=お}}. Persists in compounds, such as the first element ''o-'' in the modern Japanese term {{m|ja|男|tr=otoko||man}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|お|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|男}}, {{ja-l|牡}}, {{ja-l|夫}}
+
+====Noun====
+{{ja-noun|お|hhira=を}}
+
+# {{lb|ja|sort=お|obsolete|_|in isolation}} [[man]], [[male]]
+#* {{RQ:Kojiki|{{lang|ja|上巻}} [''Kamitsumaki'']}}
+#*: {{ja-usex|汝こそは'''遠'''にいませば|な こそ は '''を''' に いませば|As you yourself be '''male''' / '''a man'''...}}
+# {{lb|ja|sort=お|obsolete}} [[husband]]
+#* {{RQ:Kojiki|{{lang|ja|上巻}} [''Kamitsumaki'']}}
+#*: {{ja-usex|吾はもよ女にしあれば汝を除て'''男'''は無し汝を除て夫は無し|わ は もよ め に しあれば な を きて '''を''' は なし な を きて つま は なし|As I am a woman, without you, there are no '''husbands'''. Without you, there are no wives...}}
+# something [[large]], [[powerful]], or otherwise [[masculine]]
+#: {{ja-usex|'''雄'''叫び／'''雄'''滝／大'''夫'''|'''お'''たけび／'''お'''だき／ますら'''お'''|a [[war cry]] / the [[larger]] of two [[waterfall]]s / [[manliness]]}}
+# [[yang]] {{qualifier|as opposed to [[yin]]}}
+#: {{ja-usex|女'''男'''、陰'''陽'''|め'''お'''、 め'''お'''|[[yin-yang]] (two different kanji spellings, same reading and derivation)}}
+
+=====Usage notes=====
+Not used in isolation in modern Japanese.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|雄臼|お.うす}}: in a traditional Japanese stone or wooden mill or grinder, the bottom of the two pieces, two which the drive shaft is attached
+* {{ja-r|雄鹿|おじか}}: a [[buck]], a [[male]] [[deer]]
+* {{ja-r|雄滝|おだき}}: the [[larger]] of two [[waterfall]]s
+* {{ja-r|雄叫び|おたけび}}: a [[war cry]]
+* {{ja-r|男|おとこ}}: [[man]]
+* {{ja-r|夫|おっと}}: [[husband]]
+* {{ja-r|雄花|おばな}}: a [[male]] [[flower]]
+* {{ja-r|須佐之男|^すさのお}}: [[Susanoo]], the male god of storms
+* {{ja-l|益荒男}}, {{ja-l|丈夫}}, {{ja-r|大夫|ますらお}}: [[manliness]]
+* {{ja-l|女男}}, {{ja-r|陰陽|めお}}: [[yin-yang]]
+{{der-bottom}}
+
+=====Antonyms=====
+* {{ja-r|雌|め}}: [[woman]], [[female]]
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|おす}}
+{{IPAchar|/wosu/}} → {{IPAchar|/osu/}}
+
+Compound of {{compound|lang=ja|sort=おす|雄|tr1=o|t1=male|す|tr2=su}}, but the derivation of the ''su'' element is unknown.
+
+====Pronunciation====
+{{ja-pron|yomi=k|おす|acc=2|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|牡}}
+
+====Noun====
+{{ja-noun|おす|オス|hhira=をす}}
+
+# [[male]]
+
+=====Usage notes=====
+This is the most common reading of this term in modern Japanese when used as a standalone noun.
+
+Only used to refer to [[non-human]] male organisms. {{U:ja:biology|オス}}
+
+====Synonyms====
+* {{sense|human male}} {{ja-r|男性|だんせい}}
+
+====Antonyms====
+* {{sense|non-human female}} {{ja-r|雌|めす}}, {{ja-r|メス}}
+* {{sense|human female}} {{ja-r|女性|じょせい}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=k|おん}}
+{{IPAchar|/won/}} → {{IPAchar|/on/}}
+
+Compound of {{compound|lang=ja|sort=おん|雄|tr1=o|t1=male|ん|tr2=n}}. The latter ''-n'' element might be a contraction of the possessive particle {{m|ja|の|tr=no}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|おん|acc=2|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|牡}}
+
+====Noun====
+{{ja-noun|おん|hhira=をん}}
+
+# [[male]]
+
+=====Usage notes=====
+Not used in isolation in modern Japanese.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|雄鳥}}, {{ja-r|雄鶏|おんどり}}: a [[male]] [[chicken]] → a [[rooster]], a [[cock]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=웅|eumhun=|rv=ung|mr=ung|y=wung}}
+
+# {{defn|lang=ko|sort=隹04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hùng]]|rs=隹04}}
+
+# {{defn|lang=vi|sort=隹04}}
+
+[[zh-min-nan:雄]]
+[[fr:雄]]
+[[ko:雄]]
+[[lo:雄]]
+[[hu:雄]]
+[[mg:雄]]
+[[ja:雄]]
+[[no:雄]]
+[[pl:雄]]
+[[th:雄]]
+[[chr:雄]]
+[[zh:雄]]

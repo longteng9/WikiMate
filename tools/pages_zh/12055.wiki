@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=29|rad=又|as=07|sn=9|four=|canj=RSSE}}
+
+# [[false]], [[bogus]], [[counterfeit]]
+
+====Derived characters====
+* [[瑕]] [[暇]] [[霞]] [[蝦]] [[遐]] [[葭]] [[豭]] [[假]] [[徦]] [[溊]] [[煆]] [[睱]] [[鰕]] [[碬]] [[赮]] [[鍜]] [[騢]] [[嘏]] [[婽]] [[椵]] [[犌]] [[猳]] [[貑]] [[腵]] [[麚]]
+
+====References====
+* {{Han ref|kx=0166.110|dkj=03165|dj=0378.050|hdz=10398.040|uh=53DA|ud=21466}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiǎ
+|c=gaa2
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 75]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=又07}}
+
+# {{defn|lang=ja|sort=又07}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka), [[け]] (ke), [[げ]] (ge)|kun=[[かりる]] (kariru), [[かす]] (kasu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=가|rv=ga|mr=ka}}
+
+# {{defn|lang=ko|sort=又07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=又07| hanviet = giả}}
+
+# {{defn|lang=vi|sort=又07}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=53da Nom Foundation]
+
+[[fr:叚]]
+[[li:叚]]
+[[hu:叚]]
+[[ja:叚]]
+[[pl:叚]]
+[[th:叚]]
+[[zh:叚]]

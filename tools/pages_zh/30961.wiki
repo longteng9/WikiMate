@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|鼗}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=177|rad=革|as=05|sn=14|four=47562|canj=TJSHR|ids=⿰革召}}
+
+# [[drum]]
+
+====References====
+* {{Han ref|kx=1386.280|dkj=42771|dj=1901.040|hdz=74332.120|uh=9780|ud=38784|bh=E4C3|bd=58563}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鼗|t2=鼗|alt=鞉}}
+[[File:Bolang-gu-chinese-instrument.jpg|thumb|right|200px]]
+
+===Pronunciation===
+{{zh-pron
+|m=táo
+|c=tou4
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|archaic}} an ancient {{w|pellet drum}}
+
+====Compounds====
+{{zh-der|鞀鼓}}
+
+====Related terms====
+* {{zh-l|撥浪鼓}}
+
+{{zh-cat|Musical instruments}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=革05}}
+
+# {{defn|lang=ja|sort=革05}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō), [[どう]] (dō)|kun=[[ふりつづみ]] (furitsuzumi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=도|eumhun=|rv=do|mr=to|y=to}}
+
+# {{defn|lang=ko|sort=革05}}
+
+[[fr:鞀]]
+[[hu:鞀]]
+[[mg:鞀]]
+[[pl:鞀]]
+[[th:鞀]]
+[[zh:鞀]]

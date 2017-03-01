@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|橱|櫉}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=15|sn=19|four=40940|canj=DIGI|ids=⿰木廚}}
+
+# [[cabinet]], [[wardrobe]], [[cupboard]]
+
+====References====
+* {{Han ref|kx=0561.111|hdz=21315.050|uh=6AE5|ud=27365|bh=C36F|bd=50031}}
+
+----
+
+==Chinese==
+{{zh-forms|s=橱}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chú
+|c=cyu4
+|mc=
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木15}}
+
+# {{defn|lang=ja|sort=木15}}
+
+====Readings====
+* {{ja-readings|on=[[ちゅ]] (chu)|kun=[[ひつ]] (hitsu)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木15| hanviet = trù}}
+
+# {{defn|lang=vi|sort=木15}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6ae5 Nom Foundation]
+
+[[zh-min-nan:櫥]]
+[[fr:櫥]]
+[[hu:櫥]]
+[[pl:櫥]]
+[[th:櫥]]
+[[zh:櫥]]

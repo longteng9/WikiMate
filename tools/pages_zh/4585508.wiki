@@ -1,0 +1,12 @@
+==Japanese==
+{{ja-kanjitab|ぎょう|ばん|ごう|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|sort=ぎょうばんごう|行|tr1=gyō|t1=line|番号|tr2=bangō|t2=number}}
+
+===Noun===
+{{ja-noun|ぎょうばんごう}}
+
+# {{lb|ja|computing|sort=ぎょうばんごう}} [[line number]]
+
+[[zh:行番号]]

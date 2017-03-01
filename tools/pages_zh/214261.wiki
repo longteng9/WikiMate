@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bànjiǎo
+|c=bun3 gok3
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[halfwidth]]
+
+{{zh-cat|Typography}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|はん|かく|yomi=on}}
+{{wikipedia|Half-width kana}}
+
+===Noun===
+{{ja-noun|はんかく}}
+
+# [[halfwidth]] characters
+#: {{ja-usex|半角文字|はんかく もじ|halfwidth characters}}
+
+====Antonyms====
+* {{ja-r|全角|ぜんかく|fullwidth characters}}
+
+===References===
+* {{R:Kojien}}
+
+[[Category:ja:Typography|はんかく]]
+
+[[fr:半角]]
+[[ko:半角]]
+[[hu:半角]]
+[[ja:半角]]
+[[zh:半角]]

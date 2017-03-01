@@ -1,0 +1,16 @@
+==Japanese==
+{{ja-kanjitab|さん|きょく|かん|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|さんきょくかん|acc=0|dev=5|y=o}}
+* {{a|Osaka}} {{ja-accent-common|heiban|さんきょくか|ん}}
+* {{a|Osaka}} {{ja-accent-common|heiban||さんきょくかん}}
+
+===Noun===
+{{ja-noun|さんきょくかん}}
+# {{lb|ja|electronics|sort=さんきよくかん}} [[triode]] (vacuum tube)
+
+====Hypernyms====
+* {{ja-r|真空管|しんくうかん}}
+
+[[zh:三極管]]

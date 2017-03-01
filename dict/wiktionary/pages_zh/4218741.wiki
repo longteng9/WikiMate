@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=sànyì
+|cat=v,n
+}}
+
+====Verb====
+{{zh-hanzi}}
+
+# {{lb|zh|literary}} to become [[scattered]] and [[lost]]
+# {{lb|zh|physics}} to [[dissipate]]
+
+=====See also=====
+* {{zh-l|散佚}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|physics}} [[dissipation]]
+
+====Derived terms====
+{{zh-der|散逸層|散逸性|散逸熱|熱散逸}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=sǎnyì
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# {{lb|zh|literary}} [[relaxed]] and [[idle]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|さん|いつ|yomi=on}}
+
+===Alternative forms===
+* {{l/ja|散佚}}
+
+===Noun===
+{{ja-noun|さんいつ}}
+
+# being scattered and lost
+# {{lb|ja|physics|sort=さんいつ}} [[dissipation]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|さんいつ}}
+
+# [[scatter]] and become [[lost]]
+# {{lb|ja|physics|sort=さんいつ}} [[dissipate]]
+
+====Conjugation====
+{{ja-suru|さんいつ}}
+
+[[ko:散逸]]
+[[zh:散逸]]

@@ -1,0 +1,56 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=miǎnyì
+|c=min5 jik6
+|mn=xm,zz,tw:bián-e̍k/qz:bián-ia̍k
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[immunity]] {{gloss|from disease}}; [[immunization]]
+
+====Derived terms====
+{{zh-der|免疫力|免疫系統|免疫學|免疫血清|自體免疫}}
+
+{{zh-cat|Immunology}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|めん|えき|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|めんえき|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|めんえき}}
+
+# {{lb|ja|immunology}} [[immunity]]
+
+====Compounds====
+* {{ja-r|免疫学|めんえきがく|gloss=immunology}}
+* {{ja-r|免疫グロブリン|めんえき グロブリン|gloss=immunoglobulin}}
+* {{ja-r|免疫体|めんえきたい|gloss=antibody}}
+* {{ja-r|免疫不全症|めんえきふぜんしょう|gloss=immunodeficiency disease}}
+* {{ja-r|免疫抑制剤|めんえき よくせいざい|gloss=immunosuppressant}}
+* {{ja-r|免疫療法|めんえき りょうほう|gloss=immunotherapy}}
+
+===References===
+* {{R:Shogakukan}}
+<references/>
+
+[[Category:ja:Immunology|めんえき]]
+
+[[zh-min-nan:免疫]]
+[[fr:免疫]]
+[[ko:免疫]]
+[[it:免疫]]
+[[hu:免疫]]
+[[mg:免疫]]
+[[ja:免疫]]
+[[zh:免疫]]

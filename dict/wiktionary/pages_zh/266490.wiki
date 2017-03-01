@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=běnrì
+|c=bun2 jat6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[today]]; [[this]] [[day]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほん|yomi=o|じつ}}
+
+===Pronunciation===
+{{ja-pron|ほんじつ|acc=a|acc_ref=DJR,NHK,SMK5|y=ko}}
+
+===Adverb===
+{{ja-pos|adverb|ほんじつ}}
+
+# {{lb|ja|formal|sort=ほんじつ}} {{l|en|today}}, {{l|en|this}} {{l|en|day}}
+
+===Noun===
+{{ja-noun|ほんじつ}}
+
+# {{lb|ja|formal|sort=ほんじつ}} [[today]], [[this]] [[day]]
+
+====Synonyms====
+* {{sense|today}} {{ja-r|今日|きょう}}
+
+===References===
+<references/>
+[[Category:ja:Time|ほんじつ]]
+
+[[fr:本日]]
+[[ko:本日]]
+[[it:本日]]
+[[lt:本日]]
+[[hu:本日]]
+[[mg:本日]]
+[[fj:本日]]
+[[ja:本日]]
+[[km:本日]]
+[[pt:本日]]
+[[chr:本日]]
+[[zh:本日]]

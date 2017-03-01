@@ -1,0 +1,63 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=06|sn=9|four=34127|canj=EJKS|ids=⿰氵考}}
+
+====References====
+* {{Han ref|kx=0620.120|dkj=17380|dj=1016.020|hdz=31602.020|uh=6D18|ud=27928|bh=CFA2|bd=53154}}
+* [http://www.zdic.net/z/1c/js/6D18.htm zdic.net (Han Dian)]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+====Pronunciation====
+{{zh-pron
+|m=kǎo
+|c=haau2
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[dry up]]
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 138]
+
+===Etymology 2===
+====Pronunciation====
+{{zh-pron
+|m=kào
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[carriage]]; [[animal]]-[[drawn]] [[cart]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水06| hanviet = thợ}}
+
+# {{defn|lang=vi|sort=水06}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint= Nom Foundation]
+
+[[zh-min-nan:洘]]
+[[fr:洘]]
+[[pl:洘]]
+[[th:洘]]
+[[zh:洘]]

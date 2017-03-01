@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|逈}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=05|sn=9|four=37302|canj=XYBR,YBR|ids=⿺辶冋}}
+
+# [[distant]], [[far]]
+# [[separated]]
+# [[different]]
+
+====References====
+* {{Han ref|kx=1254.300|dkj=38786|dj=1738.120|hdz=63824.020|uh=8FE5|ud=36837|bh=AD7E|bd=44414}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiǒng
+|c=gwing2
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辵05}}
+
+# {{defn|lang=ja|sort=辵05}}
+
+====Readings====
+* {{ja-readings|on=[[けい]] (kei), [[ぎょう]] (gyō)|kun=[[はるか]] (haruka)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=형|eumhun=|rv=hyeong|mr=hyŏng|y=hyeng}}
+
+# {{defn|lang=ko|sort=辵05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''迥''' ([[huýnh]], [[quánh]], [[huếnh]], [[quýnh]])
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:迥]]
+[[hu:迥]]
+[[mg:迥]]
+[[ja:迥]]
+[[pl:迥]]
+[[th:迥]]
+[[zh:迥]]

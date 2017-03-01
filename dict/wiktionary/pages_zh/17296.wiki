@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|衫}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=03|sn=7|four=42922|canj=DHHH|ids=⿰木彡}}
+
+====References====
+* {{Han ref|kx=0511.040|dkj=14452|dj=0895.030|hdz=21161.020|uh=6749|ud=26441|bh=A7FC|bd=43004}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=檆}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shān,shā
+|c=caam3,saam1
+|mn=sam
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[various]] [[species]] of [[pine]] and [[fir]]
+# used in [[transliteration]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=木03}}
+
+====Readings====
+* {{ja-readings|goon=[[せん]] (sen)|kanon=[[さん]] (san)|kun=[[すぎ]] (sugi)}}
+
+===Noun===
+{{ja-noun|すぎ}}
+
+# a Japanese [[cedar]]; a [[cryptomeria]]
+
+[[Category:Japanese basic words|すぎ]]
+[[Category:ja:Trees|すぎ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=삼|eumhun=|rv=sam|mr=sam|y=sam}}
+
+# ([[w:ko:삼나무|삼나무]]): Japanese [[cedar]] ([[w:cryptomeria|cryptomeria]])
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sam]], [[trinh]]|rs=木03}}
+
+# {{defn|lang=vi|sort=木03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6749 Nom Foundation]
+
+[[fr:杉]]
+[[ko:杉]]
+[[hu:杉]]
+[[mg:杉]]
+[[ja:杉]]
+[[no:杉]]
+[[pl:杉]]
+[[pt:杉]]
+[[th:杉]]
+[[zh:杉]]

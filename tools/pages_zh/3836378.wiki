@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|だん|ねつ}}
+
+===Pronunciation===
+* {{ja-pron|だんねつ|yomi=o}}
+
+===Noun===
+{{ja-noun|だんねつ}}
+
+# [[insulation]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|だんねつ}}
+
+# [[insulate]]
+#: {{ja-usex|家をいかに暖かく断熱するかを考えています。|いえ を いか に あたたかく だんねつ する か を かんがえています。|I'm thinking about how to insulate my house warmly.}}
+
+====Conjugation====
+{{ja-suru|だんねつ}}
+
+[[zh:断熱]]

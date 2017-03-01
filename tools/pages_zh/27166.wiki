@@ -1,0 +1,70 @@
+{{character info/new}}
+{{also|谤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=10|sn=17|four=00627|canj=YRYBS}}
+
+# [[slander]], [[libel]]
+
+====References====
+* {{Han ref|kx=1175.160|dkj=35817|dj=1639.320|hdz=64008.040|uh=8B17|ud=35607|bh=C1BD|bd=49597}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谤}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bàng
+|c=pong3,bong3
+|mn=pòng
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|口頭誹謗|名高引謗|喪謗|囂謗|官謗|弭謗|心謗腹非|怨謗|止謗|毀謗|腹誹心謗|薏苡之謗|虛謗|訕謗|誹謗|誹謗之木|誹謗罪|謗書|謗木|謗毀|謗議|負謗|造謗生事}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言10}}
+
+# {{defn|lang=ja|sort=言10}}
+
+====Readings====
+* {{ja-readings|goon=[[ほう]] (hō)|kanon=[[ほう]] (hō)|kanyoon=[[ぼう]] (bō)|kun=[[そしる]] (soshiru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=방|eumhun=|rv=bang|mr=pang|y=pang}}
+
+# {{defn|lang=ko|sort=言10}}
+
+[[fr:謗]]
+[[hu:謗]]
+[[mg:謗]]
+[[ja:謗]]
+[[pl:謗]]
+[[th:謗]]
+[[chr:謗]]
+[[zh:謗]]

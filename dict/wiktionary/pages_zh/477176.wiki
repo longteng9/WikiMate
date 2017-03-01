@@ -1,0 +1,87 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=huídá
+|ma=zh-huídá.ogg
+|c=wui4 daap3
+|h=pfs=fì-tap
+|mn=hê-tap/hôe-tap
+|w=3hhue taq
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[reply]]; to [[answer]]; to [[respond]]
+
+===Noun===
+{{zh-noun}}
+
+# [[reply]]; [[answer]]; [[response]]
+#: {{zh-x|要{yāo}求 回答|''to request an '''answer'''''}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|とう|yomi=on}}
+
+===Pronunciation===
+* Homophones: [[解答]] (answer, solution), [[解凍]] (defrost, decompression), [[解党]] (party dissolution), [[怪盗]] (mysterious thief), [[会頭]] (committee chief), [[快刀]] (sharp sword), [[回頭]] (turning round)
+
+===Noun===
+{{ja-noun|かいとう}}
+
+# [[reply]], [[response]], [[answer]]
+
+====Synonyms====
+* {{ja-r|返事|へんじ}}, {{ja-r|答弁|とうべん}}
+
+====Antonyms====
+* {{ja-r|質問|しつもん|shitsumon}}: question
+
+====Derived terms====
+{{top2}}
+* {{l|ja|回答書式}} (n.) reply from
+* {{l|ja|回答書}} (n.) answer document, [[response]]
+{{mid2}}
+* {{l|ja|回答者}} (n.) answer man, [[replier]], [[responder]]
+* {{l|ja|回答欄}} (n.) answer column
+{{bottom}}
+
+===Verb===
+{{ja-verb-suru|tr=both|かいとう}}
+
+# to [[answer]], to [[respond]], to [[reply]]
+
+====Conjugation====
+{{ja-suru|かいとう}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=회답}}
+
+# {{hanja form of|회답|[[reply]], [[response]], [[answer]]}}
+
+[[zh-min-nan:回答]]
+[[ko:回答]]
+[[kn:回答]]
+[[lt:回答]]
+[[hu:回答]]
+[[mg:回答]]
+[[ja:回答]]
+[[ta:回答]]
+[[chr:回答]]
+[[uk:回答]]
+[[zh:回答]]

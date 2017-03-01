@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=62|rad=戈|as=14|sn=18|four=13250|canj=SGI|ids=⿰翟戈}}
+
+# [[prick]], [[stab]]
+# [[stamp]], [[seal]], [[chop]]
+
+====References====
+* {{Han ref|kx=0414.240|dkj=11684|dj=0758.150|hdz=21414.040|uh=6233|ud=25139|bh=C257|bd=49751}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chuō
+|c=coek3,cok3,zoek3
+|mn=chhok
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|戳事|戳兒|戳印|戳子|戳得住|戳燈|戳短拳|戳破|戳穿|戳紗|戳肺管子|戳脊梁骨|戳舌|戳記|指指戳戳|郵戳|長戳}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=戈14}}
+
+# {{defn|lang=ja|sort=戈14}}
+
+====Readings====
+* {{ja-readings|on=[[たく]] (taku)|kun=[[さす]] (sasu), [[つく]] (tsuku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=착|eumhun=|rv=chak|mr=ch'ak|y=chak}}
+
+# {{defn|lang=ko|sort=戈14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=戈14|hanviet=[[chạc]], [[trộ]]}}
+
+# {{defn|lang=vi|sort=戈14}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6233 Nom Foundation]
+
+[[zh-min-nan:戳]]
+[[fr:戳]]
+[[hu:戳]]
+[[mg:戳]]
+[[ja:戳]]
+[[no:戳]]
+[[pl:戳]]
+[[th:戳]]
+[[zh:戳]]

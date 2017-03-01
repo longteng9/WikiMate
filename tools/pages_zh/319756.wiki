@@ -1,0 +1,57 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xuānshì
+|c=syun1 sai6
+|h=pfs=siên-sṳ
+|mn=qz,tw,xm:soan-sè/zz:soan-sī/xm:soan-sē
+|ma=Zh-xuanshì.ogg
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[oath]]
+
+===Verb===
+{{zh-verb}}
+
+# to take an [[oath]]
+
+====Derived terms====
+{{zh-der|宣誓書}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せん|せい|yomi=o}}
+
+===Etymology===
+From {{ja-compound|宣|せん|誓|せい|t1=[[declare]] in [[public]]|t2=[[vow]]}}.
+
+===Noun===
+{{ja-noun|せんせい}}
+
+# [[oath]], [[promise]], [[swearing]], [[vowing]], [[abjuration]], [[pledge]], word of honor
+
+====Synonyms====
+* {{ja-r|誓い|ちかい}}
+
+===Verb===
+{{ja-verb-suru|せんせい}}
+
+# take an [[oath]], make a sworn statement, [[swear]] an oath
+
+====Conjugation====
+{{ja-suru|せんせい}}
+
+[[zh-min-nan:宣誓]]
+[[ko:宣誓]]
+[[hu:宣誓]]
+[[mg:宣誓]]
+[[ja:宣誓]]
+[[chr:宣誓]]
+[[zh:宣誓]]

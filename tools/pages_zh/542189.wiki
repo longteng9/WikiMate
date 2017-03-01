@@ -1,0 +1,87 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiūxi,xiūxí,1nb=mainland China,2nb=Taiwan
+|c=jau1 sik1
+|mn=qz:hiu-siak/tw,xm:hiu-sek/zz:hiu-sit
+|h=pfs=hiû-sit
+|ma=zh-xiūxi.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[rest]]; to [[take a break]]
+#: {{zh-x|早點 休息{xi}。|Go to bed '''early'''.}}
+#: {{zh-x|他 休息{xi} 了 一會兒{r}。|He '''rested''' for a while.}}
+#: {{zh-x|你 工作 太 勤奮 了。休息{xi} 一會 吧。|You're working too hard. '''Take a break''' for a while.}}
+
+====Derived terms====
+{{zh-der|休息日|休息室}}
+
+===See also===
+* {{zh-l|休憩}}
+* {{zh-l|停歇}}
+* (''Min Nan'') {{zh-l|歇睏|tr=[[hioh-khùn]]}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きゅう|そく|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=o|きゅうそく}}
+
+===Noun===
+{{ja-noun|きゅうそく|hhira=きうそく}}
+
+# [[rest]] {{gloss|any relief from exertion}}
+
+====Synonyms====
+* {{ja-r|休憩|きゅうけい}}
+* {{ja-r|休み|やすみ}}
+
+===Verb===
+{{ja-verb-suru|きゅうそく|hhira=きうそく}}
+
+# to take a rest
+
+====Conjugation====
+{{ja-suru|休息|きゅうそく}}
+
+====Synonyms====
+* {{ja-r|休む|やすむ}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=휴식}}
+
+# {{hanja form of|휴식|[[rest]]}}
+
+[[zh-min-nan:休息]]
+[[fr:休息]]
+[[ko:休息]]
+[[lt:休息]]
+[[hu:休息]]
+[[mg:休息]]
+[[fj:休息]]
+[[ja:休息]]
+[[pl:休息]]
+[[fi:休息]]
+[[ta:休息]]
+[[th:休息]]
+[[chr:休息]]
+[[uk:休息]]
+[[zh:休息]]

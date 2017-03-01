@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|侨}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=12|sn=14|four=22227|canj=OHKB|ids=⿰亻喬}}
+
+====References====
+* {{Han ref|kx=0116.120|dkj=01088|dj=0247.240|hdz=10220.040|uh=50D1|ud=20689|bh=B9B4|bd=47540}}
+
+----
+
+==Chinese==
+{{zh-forms|s=侨}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|alt1=亻|喬|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=qiáo
+|c=kiu4
+|mn=kiâu
+|mc=y
+|oc=y
+|ma=
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[reside]] [[abroad]]; to [[sojourn]]; to [[lodge]]
+# [[people]] [[residing]] [[abroad]]
+
+===Compounds===
+{{zh-der|僑辦|僑胞|僑滙|僑居|僑眷|僑民|僑區|僑商|僑屬|僑務|僑鄉|僑寓|僑資|華僑|越僑|僑社|僑軍|僑人|三僑|外僑|僑領|僑團|僑札|僑委會|外僑居留|僑報|僑選代表|僑置|僑生|僑匯|歸僑|華僑條款|難僑}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人12}}
+
+# {{defn|lang=ja|sort=人12}}
+
+====Readings====
+* {{ja-readings|goon=[[ぎょう]] (gyō)|kanon=[[きょう]] (kyō)|kun=[[たかい]] (takai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[교]]|rv=gyo|mr=kyo}}
+
+# {{defn|lang=ko|sort=人12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|kiều|rs=人12}}
+
+# {{lb|vi|literary}} a person who takes up residence in a foreign country
+
+[[fr:僑]]
+[[li:僑]]
+[[hu:僑]]
+[[mg:僑]]
+[[ja:僑]]
+[[pl:僑]]
+[[th:僑]]
+[[zh:僑]]

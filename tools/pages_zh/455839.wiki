@@ -1,0 +1,29 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dìngdìng
+|c=ding6 ding6
+|h=pfs=thin-thin
+|mn=tiāⁿ-tiāⁿ
+|cat=adv
+}}
+
+===Adverb===
+{{zh-adv}}
+
+# [[surely]]; [[certainly]]
+# {{lb|zh|Min Nan}} [[often]]
+# {{lb|zh|Cantonese|Min Nan}} [[calmly]]; [[steadily]]
+#: {{zh-x|你 坐 定定 喺度，唔好 周圍 走。|Sit here '''calmly''' without running around.|C}}
+# {{lb|zh|Hakka}} [[slowly]]
+# {{lb|zh|Hakka}} [[that's all]]; nothing more
+
+====Synonyms====
+* {{sense|surely}} {{zh-l|一定}}
+* {{sense|often}} {{zh-l|常常}}, {{zh-l|經常}}
+* {{sense|that's all}} {{zh-l|而已}}
+
+[[zh-min-nan:定定]]
+[[ko:定定]]

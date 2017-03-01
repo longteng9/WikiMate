@@ -1,0 +1,59 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+[[石]] (stone; equal to Korean [[돌]](''dol'')) + [[乙]] (used as marker to represent the last consonant [[ㄹ]], because of their similarity in shape). One of the ''[[음역자|eumyeokja]]'' ("character for transliteration") used in the {{w|Idu script}} for Korean 돌.
+
+===Han character===
+{{Han char|rn=5|rad=乙|as=05|sn=6|four=10717|canj=MRN|ids=⿱石乙}}
+
+# [[rock]]
+# used in [[Korean]] [[name]]s
+
+====References====
+* {{Han ref|kx=0084.141|dj=0171.180|hdz=10053.041|uh=4E6D|ud=20077}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+Borrowed from Korean.
+
+===Etymology===
+As the character is a Korean creation, the character is either read as {{zh-l|石}} or swapped out for {{zh-l|石}} entirely.
+
+===Pronunciation===
+{{zh-pron
+|m=shí
+|c=sek6
+|h=
+|md=
+|mn=sek
+|w=
+|mc=
+|oc=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{n-g|Used in Korean names.}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=돌|rv=dol|mr=tol|y=tol}}
+
+# {{defn|lang=ko|sort=乙05}}
+
+[[fr:乭]]
+[[ko:乭]]
+[[ja:乭]]
+[[pl:乭]]
+[[th:乭]]
+[[zh:乭]]

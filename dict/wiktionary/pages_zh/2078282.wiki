@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=hétong
+|c=hap6 tung4
+|h=pfs=ha̍p-thùng
+|mn=ha̍p-tông
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[contract]]; [[agreement]] {{zh-mw|m:份}}
+#: {{zh-x|沒有 經過 思考， 他們 簽訂 了 合同{tong}。|Without thinking it over, they signed the '''contract'''.}}
+#: {{zh-x|本 合同{tong} 一式貳份， 甲 乙 雙方 各 執 一 份。|This '''contract''' is in duplicate; both parties hold one copy each.}}
+
+====Synonyms====
+* {{zh-l|合約}}
+
+====Derived terms====
+{{zh-der|保險合同}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ごう|どう|yomi=on}}
+
+===Noun===
+{{ja-noun|ごうどう}}
+
+# [[union]], [[combination]]
+
+===Verb===
+{{ja-verb-suru|ごうどう}}
+
+# [[combine]]
+
+====Conjugation====
+{{ja-suru|ごうどう}}
+
+[[fr:合同]]
+[[ko:合同]]
+[[hu:合同]]
+[[mg:合同]]
+[[ja:合同]]
+[[chr:合同]]
+[[zh:合同]]

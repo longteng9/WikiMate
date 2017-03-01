@@ -1,0 +1,63 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=12|sn=18|four=88107|canj=HIBT|ids=⿳⺮甫皿}}
+
+# an [[ancient]] [[vessel]] used for [[hold]]ing [[boil]]ed [[grain]]
+
+====References====
+* {{Han ref|kx=0899.090|dkj=26517|dj=1325.050|hdz=53013.220|uh=7C20|ud=31776|bh=F064|bd=61540}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǔ
+|c=fu2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|簠簋|簠簋不飾}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹12}}
+
+# {{defn|lang=ja|sort=竹12}}
+
+====Readings====
+* {{ja-readings|on=[[ふ]] (fu)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=보|eumhun=|rv=bo|mr=po|y=po}}
+
+# {{defn|lang=ko|sort=竹12}}
+
+[[fr:簠]]
+[[hu:簠]]
+[[mg:簠]]
+[[pl:簠]]
+[[th:簠]]
+[[zh:簠]]

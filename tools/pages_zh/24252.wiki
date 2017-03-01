@@ -1,0 +1,104 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=03|sn=7|four=74210|canj=BG}}
+
+====References====
+* {{Han ref|kx=0974.060|dkj=29270|dj=1425.280|hdz=32044.080|uh=809A|ud=32922|bh=A87B|bd=43131}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|肉|土|alt1=⺼|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=dù
+|c=tou5
+|h=pfs=tú
+|md=dū
+|mn=tō͘
+|w=3du
+|dial=2
+|mc=1
+|oc=2,2
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[belly]]; [[abdomen]]; [[bowel]]s
+# [[bulge]]; [[protrusion]]
+# {{lb|zh|Min Nan}} [[tripe]]; [[animal]] [[stomach]] (as food)
+# [[heart]]; [[mind]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=dǔ,er=y
+|c=tou5
+|h=pfs=
+|md=dô
+|mn=tó͘
+|w=2tu
+|dial=1
+|mc=2
+|oc=1,1
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[belly]]; [[abdomen]]
+# [[tripe]]; [[animal]] [[stomach]] (as food)
+# {{lb|zh|Min Nan}} [[bulge]]; [[protrusion]]
+
+===Compounds===
+{{zh-der|一肚子|一肚皮|下肚|兜肚|兜肚兒|割肚牽腸|大肚|大肚子|大肚溪|大肚漢|大肚魚|害肚子|小肚子兒|小肚雞腸|帶肚子|心知肚明|懸腸掛肚|抱肚|拉肚子|指頭肚兒|挺胸凸肚|挺胸疊肚|掛肚牽心|掛肚牽腸|摳心挖肚|撐腸拄肚|攪肚蛆腸|曲心矯肚|有肚皮|有肚腸|沒肚子|沒腸肚|滾肚|滾肚索|滿肚子火|滿肚牢騷|滿肚皮|瀉肚|炮羊肚|爆肚兒|牽肚掛腸|牽腸割肚|牽腸掛肚|直肚直腸|直腸直肚|眼饞肚飽|空肚兒|羊肚蕈|肚兒|肚兜|肚包|肚囊兒|肚子|肚子疼|肚子痛|肚皮|肚皮裡|肚腸|肚臍|肚臍眼|肚裡|肚裡一輪|肚裡尋思|肚裡明白|肚裡躊躇|肚裡雷鳴|肚轉腸鳴|肚量|肚飢|腸肚|腿肚子|袜肚|裹肚|豬肚|跑肚|醫肚皮|鬧肚子|魚肚|魚肚白|鼠肚雞腸}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉03}}
+
+# {{defn|lang=ja|sort=肉03}}
+
+====Readings====
+* {{ja-readings|on=[[と]] (to)|kun=[[はら]] (hara)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=두|eumhun=|rv=du|mr=tu|y=twu}}
+
+# {{defn|lang=ko|sort=肉03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đỗ]]|rs=肉03}}
+
+# {{defn|lang=vi|sort=肉03}}
+
+[[fr:肚]]
+[[ku:肚]]
+[[hu:肚]]
+[[mg:肚]]
+[[ja:肚]]
+[[no:肚]]
+[[pl:肚]]
+[[th:肚]]
+[[vi:肚]]
+[[zh:肚]]

@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=04|sn=8|four=40927|canj=DYHS|ids=⿰木方}}
+
+====References====
+* {{Han ref|kx=0515.020|dkj=14532|dj=0903.020|hdz=21174.040|uh=678B|ud=26507|bh=AA44|bd=43588}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fāng
+|c=fong1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[sandalwood]]
+# [[tree]] used as [[timber]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木04}}
+
+# {{defn|lang=ja|sort=木04}}
+
+====Readings====
+* {{ja-readings|goon=[[ほう]] (hō), [[ひょう]] (hyō)|kanon=[[ほう]] (hō), [[へい]] (hei)|kun=[[まゆみ]] (mayumi), [[ふしずけ]] (fushizuke), [[いかだ]] (ikada)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[방]], [[병]]|eumhun=|rv=bang, byeong|mr=pang, pyŏng|y=pang, pyeng}}
+
+# {{defn|lang=ko|sort=木04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木04|hanviet=phương}}
+
+# {{defn|lang=vi|sort=木04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=678b Nom Foundation]
+
+[[zh-min-nan:枋]]
+[[fr:枋]]
+[[ko:枋]]
+[[hu:枋]]
+[[mg:枋]]
+[[ja:枋]]
+[[pl:枋]]
+[[th:枋]]
+[[zh:枋]]

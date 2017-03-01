@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=03|sn=9|four=44127|canj=TPI,TPM}}
+
+# [[peony]]
+# water chestnuts<!--why is this given only in plural form?-->
+
+====References====
+* {{Han ref|kx=1018.120|dkj=30674|dj=1476.120|hdz=53175.100|uh=828D|ud=33421|bh=A8A2|bd=43170}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=sháo
+|ma=y
+|c=zoek3
+|h=pfs=
+|md=
+|mn=qz,xm:sio̍k/zz:chiak/tw:chiok/qz,xm:chio̍k/zz:chhia̍h/qz,xm:sio̍h
+|mn_note=sio̍k/chiak/chiok - literary; chio̍k/chhia̍h/sio̍h - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+dì què shuò xiào
+
+====Compounds====
+* [[芍药]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸03}}
+
+# {{defn|lang=ja|sort=艸03}}
+
+====Readings====
+* {{ja-readings|on=[[しゃく]] (shaku)|kun=[[くろくわい]] (kurokuwai), [[はすのみ]] (hasunomi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[작]], [[적]]|eumhun=|rv=jak, jeok|mr=chak, chŏk|y=cak, cek}}
+
+# {{defn|lang=ko|sort=艸03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thược]]|rs=艸03}}
+
+# {{defn|lang=vi|sort=艸03}}
+
+[[fr:芍]]
+[[ko:芍]]
+[[hu:芍]]
+[[mg:芍]]
+[[ja:芍]]
+[[pl:芍]]
+[[th:芍]]
+[[zh:芍]]

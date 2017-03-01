@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|壳|賣|卖}}
+==Translingual==
+{{Han simplified forms|賣|売|卖}}
+
+===Etymology===
+Japanese shinjitai {{Han simp|賣|f=罒|t=冖|f2=貝|t2=儿}}.
+
+===Han character===
+{{Han char|rn=33|rad=士|as=04|sn=7|four=|canj=GBHU,XGBHU|ids=⿳士冖儿}}
+
+====Usage notes====
+* Not to be confused with [[壳]], which has a slightly different component on the bottom. (売 has [[儿]], while 壳 has [[几]].)
+
+====Derived characters====
+* [[読]], [[続]]
+
+====References====
+* {{Han ref|kx=0243.041|dkj=05647|dj=0483.090|hdz=10428.021|uh=58F2|ud=22770}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=士04|style=s|kyu=賣}}
+
+# to [[sell]]
+
+====Readings====
+* {{ja-readings
+|goon=[[め]] (me) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[ばい]] (bai)
+|toon=[[まい]] (mai) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kun=[[うる]] ([[売る]], uru)}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|売却|ばいきゃく}}
+* {{ja-r|売国|ばいこく}}
+* {{ja-r|売春|ばいしゅん}}
+{{mid3}}
+* {{ja-r|売女|ばいた}}
+* {{ja-r|売買|ばいばい}}
+* {{ja-r|売名|ばいめい}}
+{{mid3}}
+* {{ja-r|売僧|まいす}}
+* {{ja-r|商売|しょうばい}}
+* {{ja-r|転売|てんばい}}
+{{bottom}}
+
+====Antonyms====
+* {{l|ja|買}}
+
+====Derived terms====
+* {{ja-r|売る|うる}}
+
+[[fr:売]]
+[[ko:売]]
+[[it:売]]
+[[hu:売]]
+[[ja:売]]
+[[pl:売]]
+[[sv:売]]
+[[th:売]]
+[[uk:売]]
+[[zh:売]]

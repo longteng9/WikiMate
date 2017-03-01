@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|赘}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=11|sn=18|four=48806|canj=GKBUC|ids=⿱敖貝}}
+
+====Descendants====
+* [[赘]]
+
+====References====
+* {{Han ref|kx=1211.470|dkj=36908|dj=1677.370|hdz=63653.140|uh=8D05|ud=36101|bh=C2D8|bd=49880}}
+
+----
+
+==Chinese==
+{{zh-forms|s=赘}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|敖|t1=pride|貝|t2=money|ls=ic}} – pride and money.
+
+===Pronunciation===
+{{zh-pron
+|m=zhuì
+|c=zeoi6,zeoi3
+|mn=qz,tw,xm,zz:chòe/qz:chùi/tw,xm,zz:chè
+|mn_note=chòe/chuì - literary; chè - vernacular
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[unnecessary]], [[superfluous]]
+
+====Compounds====
+{{zh-der|不贅|入贅|冗詞贅句|冗贅|出贅|招贅|無庸贅言|秦贅|累贅|賣爵贅子|贅婿|贅子|贅文|贅旒|贅疣|贅瘤|贅聚|贅肉|贅言|贅述|附贅懸疣|餘食贅行}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=貝11}}
+
+# {{defn|lang=ja|sort=貝11}}
+
+====Readings====
+* {{ja-readings|on=[[ぜい]] (zei), [[せい]] (sei)|kun=[[いぼ]] (ibo)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=췌|eumhun=|rv=chwe|mr=ch'we|y=chwey}}
+
+# {{defn|lang=ko|sort=貝11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=貝11|hanviet=[[chuế]], [[xuế]]}}
+
+# {{defn|lang=vi|sort=貝11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=8d05 Nom Foundation]
+
+[[fr:贅]]
+[[hu:贅]]
+[[mg:贅]]
+[[ja:贅]]
+[[pl:贅]]
+[[th:贅]]
+[[zh:贅]]

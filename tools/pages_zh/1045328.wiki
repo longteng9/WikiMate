@@ -1,0 +1,38 @@
+{{also|发出}}
+==Chinese==
+{{zh-forms|s=发出}}
+
+===Pronunciation===
+{{zh-pron
+|m=fāchū
+|c=faat3 ceot1
+|h=pfs=fat-chhut
+|mn=hoat-chhut
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Elementary Mandarin}} to [[issue]]; to [[send]] [[forth]]; to [[send]] [[out]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|はつ|しゅつ|k1=はっ|yomi=o}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|shin=発出|はっしゅつ}}
+
+# to [[send]]/[[bring]] [[forth]], to [[issue]]
+
+====Synonyms====
+* {{ja-r|出す|だす}}
+
+====Conjugation====
+{{ja-suru|はっしゅつ}}
+
+[[zh-min-nan:發出]]
+[[ko:發出]]
+[[hu:發出]]
+[[ja:發出]]

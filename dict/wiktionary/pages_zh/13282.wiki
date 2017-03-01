@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=10|sn=13|four=79214|canj=BFQG|ids=⿰月⿱龹土}}
+
+====References====
+* {{Han ref|kx=0235.050|dkj=05323|dj=0472.320|hdz=32098.170|uh=584D}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|朕|土|ls=psc|c1=p|c2=s}}.
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=chéng
+|c=sing4
+|md=chìng
+|w=3zan,3zen
+|w_note=3zan - vernacular (in {{zh-l|*巴塍}}); 3zen - literary
+|mc=y
+|oc=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[raised]] [[path]] between [[field]]s; [[dyke]]
+
+====Compounds====
+{{zh-der|田塍}}
+
+===Etymology 2===
+{{zh-see|田|v|(''Min'') [[paddy field]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土10}}
+
+# {{defn|lang=ja|sort=土10}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō), [[じょう]] (jō)|kun=[[あぜ]] (aze), [[くろ]] (kuro), [[つつみ]] (tsutsumi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=습|rv=seup|mr=sŭp}}
+
+# {{defn|lang=ko|sort=土10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thăng]]|rs=土10}}
+
+# {{defn|lang=vi|sort=土10}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=584d Nom Foundation]
+
+[[fr:塍]]
+[[li:塍]]
+[[hu:塍]]
+[[mg:塍]]
+[[pl:塍]]
+[[th:塍]]
+[[zh:塍]]

@@ -1,0 +1,21 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Deaf white cat}}
+[[Image:Deaf odd eye white cat sebastian.jpg|250px|right|thumb|{{lang|ja|白猫}} (''shironeko''): a '''white cat'''.]]
+</div>
+{{ja-kanjitab|しろ|ねこ|yomi=kun}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=しろねこ|白|tr1=shiro|t1=white|猫|tr2=neko|t2=cat}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kun|しろ ねこ}}
+
+===Noun===
+{{ja-noun|しろ ねこ}}
+
+# a [[white]] [[cat]]
+
+====Antonyms====
+* {{ja-r|linkto=黒猫|黒 猫|くろ ねこ}}: a [[black cat]]

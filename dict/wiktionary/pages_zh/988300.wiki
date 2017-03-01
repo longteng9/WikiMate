@@ -1,0 +1,16 @@
+{{also|特效藥}}
+==Japanese==
+{{ja-kanjitab|とく|こう|やく|k1=とっ|yomi=on}}
+
+===Etymology===
+From {{compound|ja|特効|薬|tr1=tokkō|tr2=yaku|t1=extremely effective|t2=medicine}}.
+
+===Noun===
+{{ja-noun|とっこうやく}}
+
+# A [[medicine]] that is extremely effective for a sickness
+#: {{ja-usex|タミフルはインフルエンザの'''特効薬'''として期待されている。|タミフル は インフルエンザ の '''とっこうやく''' と して きたいされている。|Tamiflu is expected as a '''silver bullet''' for a flu.}}
+# A [[solution]] that is extremely effective for a problem; a [[silver bullet]]
+#: {{ja-usex|環境問題を解決する'''特効薬'''は、いまのところ見つかっていない。|かんきょう もんだい を かいけつする '''とっこうやく''' は、いま の ところ みつかっていない。|Any '''silver bullet''' that solves environmental problems has not found yet.}}
+
+[[hu:特効薬]]

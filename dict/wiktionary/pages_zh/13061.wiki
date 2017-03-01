@@ -1,0 +1,118 @@
+{{character info/new}}
+{{also|埀}}
+==Translingual==
+{{stroke order|type=animate}}
+===Etymology===
+{{Han etyl}}
+
+===Han character===
+{{Han char|rn=32|rad=土|as=05|sn=8|four=20104|canj=HJTM}}
+
+# [[let down]]
+# [[suspend]], [[hand down]]
+
+====Derived characters====
+* [[睡]] [[錘]]
+
+====See also====
+* {{l|mul|乗}} <!-- graphically similar, similar etymology -->
+* {{l|mul|重}} <!-- graphically similar, can be confused in compounds -->
+
+====References====
+* {{Han ref|kx=0227.160|dkj=05012|dj=0463.020|hdz=10432.050|uh=5782|ud=22402|bh=ABAB|bd=43947}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chuí
+|c=seoi4
+|mn=sôe/sûi/sê
+|mn_note=sôe - vernacular, sûi - literary
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|垂愛|垂成|垂垂|垂釣|垂範|垂掛|垂花門|垂絕|垂老|垂淚|垂憐|垂簾聽政|垂柳|垂落|垂暮|垂念|垂盼|垂泣|垂青|垂示|垂手|垂首|垂死|垂體|垂涕|垂髫|垂頭喪氣|垂亡|垂危|垂問|垂涎|垂線|垂懸|垂詢|垂楊柳|垂衣拱手|垂直|垂直帶|垂直關係|垂直貿易|垂直起落飛機|垂直尾翼|下垂|並垂不朽|事敗垂成|低垂|公垂線|創業垂統|功垂竹帛|功墮垂成|功敗垂成|北垂|南垂|厄利垂亞|名垂不朽|名垂後世|名垂竹帛|名垂罔極|名垂青史|四垂|坐不垂堂|垂下|垂名|垂名竹帛|垂命|垂堂|垂察|垂心|垂憫|垂手可得|垂手而得|垂手過膝|垂披|垂拱|垂拱而治|垂教|垂於將來|垂棘|垂楊|垂橐|垂櫜|垂死掙扎|垂涎三尺|垂涎欲滴|垂照|垂璧|垂白|垂白上僂|垂白之親|垂直線|垂直起飛|垂直距離|垂直面|垂簾|垂統|垂絲|垂綸|垂線足|垂翅|垂聽|垂裕後昆|垂足|垂鑒|垂陰|垂露|垂面|垂頭|垂頭拱手|垂頭搨翼|垂首喪氣|垂馨千祀|垂髮|夜幕低垂|奄奄垂絕|德垂後裔|愴然垂首|懷金垂紫|懸壅垂|懸針垂露|披垂|拖紫垂青|拱手垂裳|敗於垂成|染指垂涎|永垂不朽|海立雲垂|涕淚交垂|獨垂青盼|眉垂目合|綈袍垂愛|綠楊垂柳|羊裘垂釣|耳垂|聯垂|胃下垂|腦下垂體|舯垂|艉垂標|艏垂標|西垂|邥垂|鉛垂線|飛蠅垂珠|饞涎欲垂|鳴琴垂拱}}
+
+===References===
+* {{R:nan:thcwdq}}
+
+----
+
+==Japanese==
+
+===Noun===
+{{ja-noun|しで}}
+
+# zigzag-shaped paper streamer often used to adorn Shinto-related objects
+# [[hornbeam]] plant
+
+====See also====
+* {{l|ja|四手}}
+
+===Kanji===
+{{ja-kanji|grade=6|rs=土05}}
+
+# {{defn|lang=ja|sort=土05}}
+
+====Readings====
+* {{ja-readings|goon=[[ずい]] (zui) {{non-joyo-reading}}|kanon=[[すい]] (sui)|kun=[[たれる]] ([[垂れる]], tareru), [[たらす]] ([[垂らす]], tarasu), [[たれ]] ([[垂れ]], tare), [[なんなんとす]] ([[垂す]], nannantosu)|nanori=[[たる]] (taru), [[だれ]] (dare)}}
+
+====Compounds====
+{{top3}}
+* [[垂直]] (''suichoku''): vertical, perpendicular
+* [[垂線]] (''suisen''): perpendicular line
+* [[懸垂]] (''kensui''): suspension, pendency
+* [[垂れる]] (''tareru''): hang down
+{{mid3}}
+* [[垂れ下がる]] (''taresagaru''): hang, dangle
+* [[雨垂れ]] (''amadare''): raindrops
+* [[垂らす]] (''tarasu''): hang down
+* [[髪を垂らす]] (''kami o tarasu''): let one's hair hang down
+{{mid3}}
+* [[垂れ]] (''tare''): sauce, gravy
+* [[胡麻垂れ]] (''gomadare''): sesame sauce
+* [[糞っ垂れ]] (''kusottare''): vulgar epithet
+* [[しみっ垂れ]] (''shimittare''): stinginess, miser
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|rv=su|mr=su}}
+
+# {{defn|lang=ko|sort=土05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|thùy|rs=土05}}
+
+# to hang, to fall, to follow
+# adjacent to
+
+[[fr:垂]]
+[[ko:垂]]
+[[li:垂]]
+[[hu:垂]]
+[[mg:垂]]
+[[ja:垂]]
+[[no:垂]]
+[[pl:垂]]
+[[th:垂]]
+[[zh:垂]]

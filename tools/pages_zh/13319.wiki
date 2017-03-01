@@ -1,0 +1,62 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=11|sn=14|four=|canj=GOAH|ids=⿰土⿱𠂉昜}}
+
+====References====
+* {{Han ref|kx=0236.350|dkj=05385|dj=0475.010|hdz=10480.140|uh=5872}}
+
+----
+
+==Chinese==
+{{zh-forms|s=㘯}}
+
+===Etymology 1===
+
+====Alternative forms====
+* {{zh-l|[[場]]}}
+
+====Pronunciation====
+{{zh-pron
+|m=shāng
+|c=
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# A [[mound]] created by creatures like {{zh-l|蚍蜉}} or {{zh-l|犁鼠}}.
+# Loose soil; soil that has been [[till]]ed.
+
+===Etymology 2===
+{{zh-see|場|v}}
+
+===References===
+* {{R:twedu|N00084}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土11}}
+
+# {{defn|lang=ja|sort=土11}}
+
+====Readings====
+* {{ja-readings|on=[[じょう]] (jō)|kun=[[ば]] (ba)}}
+
+[[fr:塲]]
+[[hu:塲]]
+[[ja:塲]]
+[[pl:塲]]
+[[th:塲]]
+[[zh:塲]]

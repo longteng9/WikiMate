@@ -1,0 +1,162 @@
+{{character info/new}}
+{{also|惑}}
+==Translingual==
+{{stroke order|strokes=13}}
+
+===Han character===
+{{Han char|rn=61|rad=心|as=09|sn=13|four=53330|canj=IRP|ids=⿱咸心}}
+
+# [[feel]], [[perceive]]
+# [[emotion]]
+
+====Derived terms====
+* {{l|mul|憾}}
+
+====References====
+* {{Han ref|kx=0395.210|dkj=10953|dj=0733.070|hdz=42321.020|uh=611F|ud=24863|bh=B750|bd=46928}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|咸|心|c1=p|c2=s|t2=heart|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gǎn
+|c=gam2
+|h=pfs=kám
+|mn=kám
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=v,n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[feeling]]; [[sensation]]
+
+====Compounds====
+{{zh-der|感觸|感戴|感到|感德|感動|感恩|感奮|感憤|感服|感官|感光|感荷|感化|感懷|感激|感覺|感慨|感冒|感念|感泣|感情|感染|感人|感傷|感傷主義|感生電流|感受|感嘆/感歎/感叹|感同身受|感悟|感想|感謝|感興趣|感性|感言|感應|感召|感知}}
+
+====References====
+* {{thcwd|9457}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=心09}}
+
+# feeling, sensation, emotion
+
+====Readings====
+{{ja-readings|goon=[[こん]] (kon)|kanon=[[かん]] (kan)}}
+
+====Compounds====
+{{der5
+| {{ja-l|感温}}
+| {{ja-l|感化}}
+| {{ja-l|感懐}}
+| {{ja-l|感慨|かんがい|kangai}}
+| {{ja-l|感慨無量}}
+| {{ja-l|感覚}}
+| {{ja-l|感官}}
+| {{ja-l|感泣}}
+| {{ja-l|感興}}
+| {{ja-l|感吟}}
+| {{ja-l|感激}}
+| {{ja-l|感光}}
+| {{ja-l|感謝}}
+| {{ja-l|感知|かんち|kanchi}}: [[perception]]
+| {{ja-l|感受}}
+| {{ja-l|感受性}}
+| {{ja-l|感傷}}
+| {{ja-l|感賞}}
+| {{ja-l|感情}}
+| {{ja-l|感触}}
+| {{ja-l|感心}}
+| {{ja-l|感性}}
+| {{ja-l|感染}}
+| {{ja-l|感想}}
+| {{ja-l|感嘆}}, {{ja-l|感歎}}
+| {{ja-l|感嘆符}}
+| {{ja-l|感知}}
+| {{ja-l|感電}}
+| {{ja-l|感度}}
+| {{ja-l|感動}}
+| {{ja-l|感動詞}}
+| {{ja-l|感得}}
+| {{ja-l|感応}}
+| {{ja-l|感服}}
+| {{ja-l|感奮}}
+| {{ja-l|感冒}}
+| {{ja-l|感銘}}
+| {{ja-l|感涙}}
+| {{ja-r|敏感|びんかん|[[sensitivity]]}}
+}}
+
+{{ja-kanjitab|かん|yomi=o}}
+
+===Etymology===
+From {{etyl|sort=かん|ltc|ja}} {{m|zh|感|tr=kom<sup>X</sup>}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|かん|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|かん}}
+
+# [[feeling]]
+#: {{ja-usex|虚無'''感'''|きょむ'''かん'''|'''feeling of''' emptiness}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=감|eumhun=|rv=gam|mr=kam|y=kam}}
+
+# {{defn|lang=ko|sort=心09}}
+
+====Compounds====
+* {{ko-l|감기|感氣}}
+* {{ko-l|민감|[[sensitivity]]|敏感}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cảm]], [[cám]]|rs=心09}}
+
+# {{defn|lang=vi|sort=心09}}
+
+====Compounds====
+* {{vi-l|mẫn cảm|敏感|[[sensitive]]}}
+
+[[fr:感]]
+[[ko:感]]
+[[it:感]]
+[[lo:感]]
+[[li:感]]
+[[hu:感]]
+[[mg:感]]
+[[ja:感]]
+[[no:感]]
+[[pl:感]]
+[[fi:感]]
+[[sv:感]]
+[[th:感]]
+[[vi:感]]
+[[zh:感]]

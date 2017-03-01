@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms|Japanese|song}}
+
+===Pronunciation===
+{{zh-pron
+|m=hégē
+|c=wo4 go1
+|mn=hô-koa
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[waka]] {{gloss|a style of Japanese poetry}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|わ|か|yomi=on}}
+{{wikipedia|Waka (poetry)}}
+
+===Noun===
+{{ja-noun|わか}}
+
+# Japanese [[poetry]], [[waka]]
+# [[tanka]]: 31-[[mora]] poetry having the pattern 5-7-5 7-7
+
+===See also===
+* {{l|ja|短歌}}
+* {{l|ja|長歌}}
+* {{l|ja|仏足石歌}}
+* {{l|ja|旋頭歌}}
+* {{l|ja|片歌}}
+
+[[fr:和歌]]
+[[zh:和歌]]

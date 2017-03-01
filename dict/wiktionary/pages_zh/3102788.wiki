@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xíngchéng
+|c=hang4 cing4
+|h=pfs=hàng-chhàng
+|mn=qz,xm,zz:hêng-thêng/tw:hêng-têng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[distance]] of [[travel]]
+# [[journey]]; [[excursion]]
+# {{lb|zh|Taiwan|computing}} [[process]]
+
+====Derived terms====
+{{zh-der|行程表}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|てい|yomi=on}}
+
+===Noun===
+{{ja-noun|こうてい}}
+# [[distance]], [[path]]
+#: {{ja-usex|２時間の行程|に じ かん の こうてい|2 hours' journey}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=행정}}
+
+# {{hanja form of|행정|distance, journey}}
+
+[[zh-min-nan:行程]]
+[[fr:行程]]
+[[mg:行程]]
+[[ja:行程]]
+[[ru:行程]]
+[[chr:行程]]
+[[zh:行程]]

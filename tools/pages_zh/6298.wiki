@@ -1,0 +1,413 @@
+{{character info/new}}
+{{also|入|ㅅ}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Alternative forms===
+* {{l|mul|亻}} {{qualifier|when used as a left radical}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=00|sn=2|four=80000|canj=O}}
+
+# {{mul-kangxi radical-def}}
+
+====Usage notes====
+In print, 人 may have symmetric legs. However in handwriting, to distinguish from [[入]], the right leg will be shorter, the shape looking like a [[ʎ]]; in 入 the left leg is shorter.
+
+====Derived characters====
+* [[Index:Chinese radical/人]]
+* [[飤]]
+
+====References====
+* {{Han ref|kx=0091.010|dkj=00344|dj=0190.010|hdz=10101.100|uh=4EBA|ud=20154|bh=A448|bd=42056}}
+[[Category:CJKV radicals| ]]
+
+----
+
+==Chinese==
+{{zh-forms|alt=亻-component,𠆢-component,几,𠔽,𤯔}}
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|p}} – resembles the legs of a human being. The ancient version of this character depicted a man with arms and legs. Compare {{zh-l|*大}}.
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=rén
+|m-s=ren2
+|c=jan4,jan4-2,jan4-1
+|h=pfs=ngìn
+|md=ìng
+|mn=zz,kh:jîn/xm,qz,tp:lîn
+|mn-t=ring5
+|w=3nyin,3zen
+|w_note=3nyin - colloquial; 3zen - literary
+|ma=y
+|mc=y
+|oc=y
+|cat=n,a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[man]]; [[person]]; [[people]] {{zh-mw|個}}
+#* {{zh-x|那 人 是 誰？|Who is that '''person'''?}}
+#* {{zh-x|嗰個 人{jan4-2} 係 邊個 嚟 㗎？|Who is that '''person'''?|C}}
+#* {{zh-x|有人 敲門 了。|'''Someone''' knocked on the door.}}
+# [[human being]] (''[[Homo sapiens]]'')
+#* {{zh-x|人類|human}}
+# [[body]]
+#* {{zh-x|這 兩 天 人 不大 舒服。|I [lit. the '''body'''] haven't been feeling that well these few days.}}
+# [[everybody]]; [[everyone]]
+#* {{zh-x|人人|everybody}}
+#* {{zh-x|人手.一冊|It's a bestseller. (''lit.'' '''Everyone''' has a copy.)}}
+# [[physical]], [[psychological]] or [[moral]] [[quality]] or [[condition]]; [[character]]; [[personality]]
+#* {{zh-x|就我所知，他 人 不錯。|As far as I know, he is kind (''lit.'' his '''personality''' is not bad).}}
+# a person associated with a particular [[identity]] or [[trait]]; [[-er]]
+#* {{zh-x|主持人|host}}
+#* {{zh-x|^香港人|Hongkong'''er'''|C}}
+# [[manpower]]; [[worker]]; [[employee]]
+# {{†}} [[talent]]; [[person]] of talent
+# {{†}} [[other]] [[people]]; [[other]]s
+#* {{zh-x|人云.亦云|to follow the crowd (''lit.'' to say what '''others''' say)}}
+# {{†}} [[common]] [[people]]; [[commoner]]
+# {{†}} [[adult]]; [[grown-up]]
+#* {{zh-x|長大.成人|to grow up to be an '''adult'''}}
+# {{†}} [[reason]]; [[cause]]
+# {{†}} [[sexual intercourse]]
+#* {{zh-x|人道|sexual intercourse}}
+#* {{zh-x|人事|sexual intercourse}}
+# {{†}} [[company]]; [[companion]]; [[friend]]
+# {{†}} [[artificial]]; [[man-made]]
+#* {{zh-x|人禍|human disaster}}
+# {{†}} [[mortal]]; [[bodily]]; [[earthly]]
+#* {{zh-x|人間|the mortal world}}
+# {{†}} {{zh-alt-form|仁|[[kernel]]}}
+# {{†}} {{zh-alt-form|仁|[[charity]]}}
+# {{†}} {{zh-alt-form|仁|[[loving]]; [[kind]]}}
+
+====Descendants====
+{{CJKV||にん|j2=じん|인|nhân}}
+
+====Compounds====
+{{zh-der|hide_pron=1|一人|一家人|一行人|一語中人|一路人|一顧傾人|丈人|三人成虎|三明治人|上人|上洞人|下人|下江人|下路人|下里巴人|下頭人|不乏其人|不以人齒|不具之人|不因人熱|不容人|不是人|不為人下|不為人用|不由人|不當人|不良人|不著人|不落人後|世人|丟人|中人|中間人|主人|主婚人|主持人|乏人|乖人|乘人不備|乘人之危|乞人|二人臺|二人轉|二形人|亡人|亮眼人|人一己百|人丁|人上人|人不聊生|人不自安|人世|人中|人主|人之常情|人事|人云亦云|人亡家破|人亡政息|人亡物在|人人|人仰馬翻|人來人往|人來瘋|人保|人們|人倫|人傑|人像|人兒|人前人後|人力|人勝節|人千人萬|人去樓空|人參|人叢|人口|人各有志|人同此心|人名|人君|人命|人和|人品|人員|人喊馬嘶|人因工程|人困馬乏|人地|人境|人士|人壽|人外無詩|人多勢眾|人多口雜|人多嘴雜|人多成王|人多手亂|人多手雜|人大|人大心大|人天|人夫|人如其名|人妖|人子|人孔|人存政舉|人孤勢單|人定|人定勝天|人家|人寰|人小鬼大|人山人海|人工|人己一視|人師|人強馬壯|人彘|人形|人影|人影兒|人從|人微言輕|人心|人急智生|人急計生|人性|人怨神怒|人情|人我是非|人戶|人手|人才|人扶人興|人持各見|人數|人文|人日|人時|人望|人本主義|人本說|人本論|人柳|人格|人梯|人棄我取|人模人樣|人模狗樣|人樣|人樣子|人機介面|人權|人次|人欲|人歡馬叫|人死留名|人氏|人民|人氣|人治|人浮於事|人浮於食|人海|人渣|人溺己溺|人滿|人潮|人為|人煙|人熊|人爵|人父|人牙兒|人牧|人物|人犯|人猿|人猿科|人琴俱亡|人琴俱杳|人瑞|人生|人畜|人百其身|人皇|人盡其才|人盡可夫|人盡皆知|人相學|人眾勝天|人神|人禍|人稠物穰|人種|人稱|人窩子|人窮志短|人窮智短|人立|人籟|人紀|人約黃昏|人給家足|人緣|人群|人義水甜|人老珠黃|人聲|人脈|人臣|人自為戰|人與鼠|人莫予毒|人蛇|人行道|人見人愛|人言|人語馬嘶|人謀|人證|人財兩失|人財兩空|人販子|人質|人贓俱獲|人跡|人身|人造|人道|人選|人鏈|人鏡|人鑑|人間|人際|人離家散|人非人|人非木石|人非物換|人面|人頭|人類|人飢己飢|人馬|人體|人高馬大|人鬼殊途|人魚|仁人|仇人|今人|介紹人|他人|付款人|仙人|代人受過|代人捉刀|代理人|代言人|令人|以人廢言|以力服人|以容取人|以己度人|以德服人|以理服人|以言取人|以貌取人|仰人鼻息|仰給於人|任人|伊人|伐柯人|伶人|伶俐人|何人|何許人|作人|佞人|佣人|佳人|佼人|來人|侍人|依人籬下|便人|俗人|俚人|保人|保佐人|保見人|保證人|保識人|保護人|保險人|信人|俯仰由人|倈人|個中人|個人|倌人|候人|候選人|假力於人|偉人|做人|做人處事|偶人|偶戲人|偷人|傍人|傖夫俗人|傜人|傭人|傳人|債務人|債權人|傷人|傷殘人|僂人|僇人|僑人|僕人|僧人|僰人|僱人|儂人|儷人|先人|先發制人|光可鑑人|光身人兒|入人|內人|內行人|全人|兩性人|兩路人|八九分人|八人轎|公事人|公人|公家人|公斷人|公法人|公訴人|公證人|兼人|冤人|冰人|冷眼人|冷語侵人|凌人|凡人|凶人|出人|出家人|函人|刀下留人|刑人|判若兩人|別人|利人|利己妨人|前人|前頭人|創辦人|力敵萬人|功人|加人一等|加害人|助人|動人|勞人費馬|勾司人|化人場|北京人|北人|北方人|匠人|匪人|千人所指|千面人|半人半鬼|半個人|卑人|南人|卜人|占人|原人|原始人|友人|取信於人|受人之託|受人矚目|受僱人|受刑人|受款人|受益人|古人|古道人|召集人|可人|可人憎|可意人|吃人|各人|合夥人|吉人|吉人天相|同人|同居人|同路人|名人|名人達士|君人|含血噀人|含血噴人|吹糖人|吾人|告人|告密人|命人|咬人狗|咬人貓|哄人|哲人|唐人|唬人|商人|善人|善與人交|喊人|喪人|喬人|嘈人|嘴打人|噎人|噬人菌|嚼咬人|四人幫|回頭人|因人|因人成事|困人|囿人|圈外人|圉人|國人|國際人|土人|土木偶人|在家人|地廣人稀|地廣人稠|地瘠人稀|地靈人傑|地頭人|坑人|報事人|報人|報喜人|報錄人|堵人|壞人|士人|壬人|外人|外國人|外場人|外星人|外行人|外路人|夜深人靜|大中人|大人|大小人兒|大行人|天下人|天不絕人|天人|天怒人怨|天與人歸|天隨人願|太空人|夫人|央人|夷人|夸人|奄人|奇人|奇人異士|奪人|女人|奸人|好人|好為人師|妄人|妖人|妙人|婦人|媒人|嫁人|嫁禍於人|嬖人|學人|孺人|安人|完人|宗人|官人|宜人|客人|客家人|室人|室邇人遐|室邇人遠|宦人|宮人|宵人|家人|家破人亡|家給人足|寄人籬下|富人|寒人|寓人寓馬|寡人|審己度人|寸馬豆人|寺人|封人|專人|尊人|小人|小頂人|小鳥依人|少年人|尤人|就裡人|局內人|局外人|屁鳥人|居人|屋裡人|山人|工人|左鎮人|巨人|差人|巴人|市井之人|市人|師人|常人|干證人|平人|平常人|平易近人|并介之人|幹人|幻人|幽人|床頭人|底下人|底腳裡人|庖人|庶人|庸人|廋人|廄人|廚人|廢人|廣告人|弋人何篡|弓人|引人|引水人|引路人|強人|影人|征人|待人|後人|後發制人|後繼乏人|得人|得失在人|從人|御人|心上人|志士仁人|快人|怕人|怕人子|急人之困|急人之難|性情中人|怪人|恕己及人|恨人|恩人|恭人|息事寧人|悅人|悲天憫人|悶人|情人|惡人|惱人|惹人憐愛|惺惺人|意中人|愚人|愛人|感人|憸人|應天順人|懶人|懾人|戀人|成事在人|成人|成敗論人|或人|戶給人足|所嫁非人|所託非人|手下人|才人|才秀人微|打人|托缽人|把門人|投資人|招人|拱手讓人|拾人涕唾|拾人牙慧|拾糞人|拿人|指路人|挾人捉將|捉事人|捉刀人|捏麵人|捕人|授人以柄|掌門人|掘墓人|掠人之美|採芹人|探事人|探細人|接棒人|接班人|推己及人|掩人耳目|揍人|提人|提示人|揢人|損人|撅豎小人|撒手人寰|撣人|撧人|撩人|撰稿人|撼人|撾人|擄人勒贖|擇人而事|擋人牌|擬人|擾人|收件人|放人|故人|敝人|散人|整人|敵人|文人|文化人|文如其人|文明人|斗南一人|斗筲之人|斯文人|新人|新鮮人|方人|方外之人|方外人|旁人|旁邊人|旅人|族人|旗人|明人|明白人|明眼人|易人|昔人|春風風人|是非人我|時人|普通人|智人|暍人|暗箭中人|暗箭傷人|曉人|曠古一人|曲終人散|更深人靜|更生人|更闌人靜|替人|有人|有心人|有錢人|朝暮人|木人石心|木偶人|木頭人|未成年人|末路人|本人|本地人|材人|村人|杞人憂天|杠人|東人|東方人|東洋人|枕邊人|某人|染人|柯人|校人|栽人|桃人|桃花人面|桐人|梓人|梢人|棘人|植物人|楖人|業人|榜人|樂人|樹人|機伶人|機器人|欺天罔人|正人|步人後塵|武人|歸人|歹人|死人|殃人貨|殢人|每人|比肩人|毛人|毛利人|毛子人|民人|求人|江米人|沁人肺腑|沒事人|沒人|沖人|治人|法人|泥人|洋人|活人妻|活埋人|流人|浪人|浮浪人|浼人親行|涓人|淑人|淨身人|淪落人|深人|混人|清人|渾人|滿人|漁人|漢人|潑賤人|澤人|濟人|濫好人|火工道人|為人|煩人|熏人|熟人|熟面人|牙人|牛人|牧人|物是人非|犯人|狂人|狼人|猶太人|猿人|獃人|獄人|獵人|率獸食人|玉人|王人|玩人喪德|現代人|理人|璧人|甚人|生人|生意人|用人|用非其人|由人|男人|異人|異鄉人|異類之人|當事人|當家人|當頭人|畸人|疑人疑鬼|病人|痴人|瘖啞人|瘠己肥人|發人深省|發言人|發起人|白人|白衣人|白身人|百世之人|百年樹人|盛氣臨人|盡人|監察人|監護人|盯人|盲人|直立人|直道事人|相人|相人偶|看人眉睫|看人行事|真人|眩人|眼中人|眾人|睹物思人|睹物懷人|瞞人|瞳人|矜人|矢人|知人|矮人|石人|碩人|磨人|神人|視人如子|福人|私人|稠人|種人|稻草人|窮人|立人|立人達人|端人|第一人|等人|節人|篙人|粗人|糙人|紅人|紙人|累人|細人|細探人|結髮人|絕人|經濟人|經紀人|綠人|線人|編人|編輯人|繼承人|纖人|罪人|罵人|美人|羞人|羞面見人|義人|羲皇上人|羽人|翳桑餓人|老人|老實人|老年人|耐人尋味|聖人|聞人|聰明人|聳人聽聞|聽人|聾人|肉人|肝膽照人|背人|胡人|能人|腐人|腳下人|腳底下人|自助人助|自娛娛人|自家人|自己人|自然人|至人|至人無夢|與人為善|舉人|舊人|舌人|舍人|舍己從人|舍己芸人|舟人|良人|艾人|苗人|若而人|苦人|草人|莊稼人|華人|著人|落人笑柄|蓋人|蓬蒿人|薄倖人|藝人|虛己受人|虞人|蛙人|蝙蝠人|蠟人|蠢人|蠻人|血口噴人|行人|製作人|襲人|西人|西洋人|西臺人|要人|要人好看|要約人|見不得人|見人|見笑於人|見證人|親人|觀護人|解人|討人|討海人|訓人|訛人|訪山人|評判人|詞人|詩人|認養人|誘人|語不擇人|誤人|誨人不倦|說書人|說話人|誰人|調人|調停人|諕人|謀事在人|謀人|證人|證婚人|譖人|讀書人|變性人|讒人|豎人毛髮|象人|貞人|負心人|負責人|貴人|買賣人|貼心人|賈人|賊人|賢人|賤人|賨人|贊助人|起訴人|趁人不備|趁人之危|超人|趕趁人|跟了人|跟前人|路人|路岐人|路斷人稀|躁人辭多|身邊人|車人|車毀人亡|軍人|輔佐人|輪人|輿人|辜人|辟人之士|辦人|辯人|辯護人|農人|近人|迷人|送人|逋人|途人|逗人|通人|通人達才|造化弄人|逢人說項|逼人|遇人不淑|遊人|過人|過來人|過路人|道人|達人|遠人|遣人|適人|遮人眼目|遮人耳目|遷人|選人|選舉人|遽人|避人耳目|邊際人|邑人|鄉下人|鄉人|鄙人|鄭人買履|鄰人|酒人|醯人|里人|重整人|野人|量酒人|金人|金臂人|金針度人|釣人|銅人|錫人|鐵人|鐵石人|長人|門人|門裡人|閒人|閒雜人等|閹人|閽人|闊人|關人|關係人|陌生人|陌路人|陰人|陰陽人|陳人|陷人坑|隸人|雅人|雞人|難中人|難人|雨人|雪人|靈人|非人|非人不傳|非常之人|韗人|順人應天|順天應人|頭人|頹人|額外之人|類人猿|顧人|風人|飛鳥依人|養家人|餐霞人|館人|饋人|饒人|首人|駭人|騙人|騶人|騷人|驀生人|驕人|驚人|高人|魯人|鮑人|鮫人|鮮為人知|鳥人|鹵人|麗人|黎人|黏人|黑人|黨人|齊人}}
+
+===Etymology 2===
+{{zh-forms|alt=儂,𠆧}}
+The Min native word for “person”; used as a replacement character for {{zh-l|儂|tr=-}}. Use of {{lang|zh|人}} is [http://twblg.dict.edu.tw/holodict_new/iongji/pdf/annesia325pdf.pdf recommended] by Taiwan's Ministry of Education.
+
+====Pronunciation 1====
+{{zh-pron
+|md=nè̤ng
+|mn=lâng
+|mna=Taiwanese-The_Consonant_l.ogg
+|mn-t=nang5
+|dial=n
+|cat=n
+}}
+
+=====Definitions=====
+{{zh-hanzi}} {{tlb|zh|Min}}
+
+# [[man]]; [[person]]; [[people]]; [[human being]]; [[Homo sapiens]]
+# a person associated with a particular [[identity]] or [[trait]]; [[-er]]
+#* {{zh-x|臺灣人|Taiwan'''ese'''|MN}}
+# physical, psychological or moral [[quality]] or [[condition]]
+#* {{zh-x|伊 人 袂䆀。|He is kind (''lit.'' His '''personality''' is not bad).|MN}}
+
+====Pronunciation 2====
+{{zh-pron
+|md=nè̤ng
+|mn=xm,zz:lāng/qz:lǎng/tw:lâng
+|mn-t=nang7
+|dial=n
+|cat=n,pron
+}}
+
+=====Definitions=====
+{{zh-hanzi}} {{tlb|zh|Min}}
+
+# [[other]] [[people]]
+#* {{zh-x|人 講 三-百 六-十-五 行{hâng} 會當 行{hâng}行{hâng}.出.狀元。|'''People''' say you can be a master in any of the 365 trades.|ref={{lang|zh|黃一飛}} (Huang Yi-fei), [https://www.youtube.com/watch?v=jZxwEl9d5LQ {{lang|zh|你苦無我苦}}]|MN}}
+# [[I]]; [[me]]
+
+{{zh-cat|Beginning|Hominids|People}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=1|rs=人00}}
+
+====Readings====
+{{ja-readings
+|goon=[[にん]] (nin)
+|kanon=[[じん]] (jin)
+|kun=[[ひと]] (hito), [[り]] (ri)
+|nanori=[[じ]] (ji), [[と]] (to), [[ね]] (ne), [[ひこ]] (hiko), [[ふみ]] (fumi)
+}}
+
+====Compounds====
+{{der-top4|Compounds}}
+* {{ja-r|人影|じんえい}}, {{ja-r|人影|ひとかげ}}: the [[figure]] or [[shadow]] of a [[person]]
+* {{ja-r|閑人|ひまじん}}, {{ja-r|暇人|ひまじん}}
+* {{ja-r|人人|ひとびと}}
+* {{ja-r|人為的|じんいてき}}
+* {{ja-r|人格|じんかく}}
+* {{ja-r|人語|じんご}}
+* {{ja-r|人後|じんご}}
+* {{ja-r|人権|じんけん}}
+* {{ja-r|人口|じんこう}}
+* {{ja-r|人工|じんこう}}
+* {{ja-r|人孔|じんこう}}: [[manhole]]
+* {{ja-r|人行|じんこう}}
+* {{ja-r|人皇|じんこう}}
+* {{ja-r|人材|じんざい}}
+* {{ja-r|人事|じんじ}}
+* {{ja-r|人種|じんしゅ}}
+* {{ja-r|人心|ひとごころ}}, {{ja-r|人心|じんしん}}
+* {{ja-r|人身|ひとみ}}, {{ja-r|人身|じんしん}}
+* {{ja-r|人生|じんせい}}
+* {{ja-r|人選|じんせん}}
+* {{ja-r|人体|じんたい}}
+* {{ja-r|人道|じんどう}}
+* {{ja-r|人徳|じんとく}}
+* {{ja-r|人物|じんぶつ}}
+{{der-mid4}}
+* {{ja-r|人望|じんぼう}}
+* {{ja-r|人名|じんめい}}
+* {{ja-r|人命|じんめい}}
+* {{ja-r|人類|じんるい}}
+* {{ja-r|人気|にんき}}, {{ja-r|人気|ひとけ}}
+* {{ja-r|人間|にんげん}}, {{ja-r|人間|じんかん}}
+* {{ja-r|人魚|にんぎょ}}
+* {{ja-r|人形|にんぎょう}}: a [[doll]]
+* {{ja-r|人称|にんしょう}}, {{ja-r|人稱|にんしょう}}
+* {{ja-r|人数|にんずう}}
+* {{ja-r|人相|にんそう}}
+* {{ja-r|人垣|ひとがき}}
+* {{ja-r|人柄|ひとがら}}
+* {{ja-r|人質|ひとじち}}
+* {{ja-r|人魂|ひとだま}}
+* {{ja-r|人手|ひとで}}
+* {{ja-r|人出|ひとで}}
+* {{ja-r|人前|ひとまえ}}, {{ja-r|人前|にんまえ}}
+* {{ja-r|人並|ひとなみ}}
+* {{ja-r|人波|ひとなみ}}
+* {{ja-r|悪人|あくにん}}
+* {{ja-r|偉人|いじん}}
+* {{ja-r|異人|いじん}}
+{{der-mid4}}
+* {{ja-r|歌人|かじん}}
+* {{ja-r|家人|かじん}}
+* {{ja-r|佳人|かじん}}
+* {{ja-r|華人|かじん}}
+* {{ja-r|外人|がいじん}}
+* {{ja-r|官人|かんじん}}, {{ja-r|官人|かんにん}}, {{ja-r|官人|つかさびと}}
+* {{ja-r|漢人|かんじん}}
+* {{ja-r|閑人|ひまじん}}
+* {{ja-r|客人|きゃくじん}}
+* {{ja-r|求人|きゅうじん}}
+* {{ja-r|旧人|きゅうじん}}
+* {{ja-r|狂人|きょうじん}}
+* {{ja-r|吾人|ごじん}}
+* {{ja-r|後人|こうじん}}
+* {{ja-r|公人|こうじん}}
+* {{ja-r|工人|こうじん}}
+* {{ja-r|詩人|しじん}}
+* {{ja-r|私人|しじん}}
+* {{ja-r|証人|しょうにん}}
+* {{ja-r|商人|しょうにん}}
+* {{ja-r|新人|しんじん}}
+* {{ja-r|成人|せいじん}}
+{{der-mid4}}
+* {{ja-r|聖人|せいじん}}
+* {{ja-r|星人|せいじん}}
+* {{ja-r|前人|ぜんじん}}
+* {{ja-r|善人|ぜんにん}}
+* {{ja-r|達人|たつじん}}
+* {{ja-r|旅人|たびびと}}, {{ja-r|旅人|たびにん}}, {{ja-r|旅人|りょじん}}
+* {{ja-r|党人|とうじん}}
+* {{ja-r|唐人|とうじん}}
+* {{ja-r|俳人|はいじん}}
+* {{ja-r|廃人|はいじん}}
+* {{ja-r|非人|ひにん}}
+* {{ja-r|魔人|まじん}}
+* {{ja-r|無人|ぶじん}}, {{ja-r|無人|ぶにん}}, {{ja-r|無人|むじん}}, {{ja-r|無人|むにん}}
+* {{ja-r|軍人|ぐんじん}}: [[serviceman]], [[member]] of the [[military]]
+* {{ja-r|老人|ろうじん}}
+* {{ja-r|大人|おとな}}
+* {{ja-r|代理人|だいりにん}}
+* {{ja-r|一人|ひとり}}
+* {{ja-r|二人|ふたり}}
+* {{ja-r|三人|さんにん}}
+* {{ja-r|隼人|はやひと}}, {{ja-r|隼人|はやと}}
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|ひと}}
+{{IPAchar|/pi<sub>1</sub>to<sub>2</sub>/}} → *{{IPAchar|/pitə/}} → {{IPAchar|/fito/}} → {{IPAchar|/hito/}}
+
+From {{etyl|ojp|ja|sort=ひと}}.
+
+====Pronunciation====
+{{ja-pron|ひと|acc=h|dev=1|acc2=o|y=k|acc_ref=NHK,SMK5,DJR|acc2_ref=NHK,SMK5}}
+
+====Noun====
+{{ja-noun|ひと|count=人|ヒト}}
+
+# [[person]]
+# [[human]]
+# [[someone]] [[else]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|弟|おとうと}}: younger [[brother]]
+* {{ja-r|妹|いもうと}}: younger [[sister]]
+* {{ja-r|舅|しゅうと}}: [[father-in-law]]
+* {{ja-r|姑|しゅうと}}: [[mother-in-law]]
+* {{ja-r|素人|しろうと}}: an [[amateur]], a [[novice]]
+* {{ja-r|玄人|くろうと}}: [[expert]], [[professional]]
+* {{ja-r|真人|まひと}}, {{ja-r|真人|まとうど}}, {{ja-r|真人|もうと}}: a [[clan]] in ancient Japan; a [[noble]]; someone who is very [[honest]] and [[straightforward]]
+* {{ja-r|首|おびと}}: a [[chief]] or [[boss]]; a [[clan]] in ancient Japan
+* {{ja-r|客人|まろうど}}: a [[visitor]], a [[guest]]
+* {{ja-r|商人|あきゅうど}}, {{ja-r|商人|あきんど}}: [[trader]], [[shopkeeper]], [[merchant]]
+* {{ja-r|仲人|なこうど}}: [[go-between]], [[matchmaker]]
+* {{ja-r|囚人|めしゅうど}}: [[prisoner]]
+* {{ja-r|人の世|ひと の よ}}: [[this world]], the world of humans {{qualifier|as opposed to the world of the gods}}
+{{der-bottom}}
+
+=====Synonyms=====
+* {{ja-r|方|かた}} {{qualifier|honorific}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|にん}}
+From {{etyl|ltc|ja|sort=にん}} {{m|ltc|人|tr=nyin||person}}.  The [[呉音#Japanese|goon]], so likely the earlier borrowing.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|にん}}
+
+====Counter====
+{{ja-pos|counter|にん}}
+
+# [[people]]
+
+=====Usage notes=====
+The ''nin'' reading is used when counting three people or more. When counting one or two people as in {{m|ja|一人|tr=hitori||one person}} or {{m|ja|二人|tr=futari||two people}}, the reading is {{m|ja|り|tr=-ri}}.
+
+===Etymology 3===
+{{ja-kanjitab|じん|yomi=o}}
+From {{etyl|ltc|ja|sort=にん}} {{m|ltc|人|tr=nyin||person}}.  The [[漢音#Japanese|kan'on]], so likely a later borrowing.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|じん}}
+
+====Suffix====
+{{ja-pos|suffix|じん}}
+
+# [[person]] from that group
+#: {{ja-usex|アジア'''人'''、イギリス'''人'''、スペイン'''人'''、ドイツ'''人'''、アメリカ'''人'''、スコットランド'''人'''|^アジア'''じん'''、 ^イギリス'''じん'''、 ^スペイン'''じん'''、 ^ドイツ'''じん'''、 ^アメリカ'''じん'''、 ^スコットランド'''じん'''|an Asian, an Englishman, a Spaniard, a German, an American, a Scot}}
+# person who does the activity of the suffixed word
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|ひと]]
+{{catlangcode|ja|Hominids|People|sort=ひと}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=인|rv=in|mr=in|y=in|eumhun=사람|ehrv=saram|ehmr=saram|ehy=salam}}
+
+# {{defn|lang=ko|sort=人00}}
+
+====Noun====
+{{ko-noun||count=人|}}
+
+# [[person]]
+# [[human]]
+# [[someone]] [[else]]
+====Compounds====
+{{top2}}
+* [[中國人]]
+* [[人口]] ([[인구]], in-gu)
+* [[人類]] ([[인류]], inryu)
+{{mid2}}
+* [[日本人]] ([[일본인]], ilbon-in)
+* [[罪人]] ([[죄인]], joein)
+* [[主人公]] ([[주인공]], juin-gong)
+{{bottom}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Han character===
+{{vi-hantu|[[nhân]], [[nhơn]]|rs=人00}}
+
+# {{lb|vi|sort=人00|northern Vietnam}} {{han tu form of|nhân|[[human]]}}
+# {{lb|vi|sort=人00|southern Vietnam}} {{han tu form of|nhơn|[[human]]}}
+
+===Noun===
+{{vi-noun|sort=人00|sc=Hani}}
+
+# {{abb|người|lang=vi|sort=人00}} {{qualifier|only in handwriting}}
+#: con '''人''' = con người
+
+====Alternative forms====
+* {{vi-l|ǹg}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4eba Nom Foundation]
+
+[[af:人]]
+[[zh-min-nan:人]]
+[[be:人]]
+[[da:人]]
+[[de:人]]
+[[el:人]]
+[[es:人]]
+[[fr:人]]
+[[ko:人]]
+[[hi:人]]
+[[io:人]]
+[[id:人]]
+[[it:人]]
+[[kn:人]]
+[[ky:人]]
+[[lo:人]]
+[[la:人]]
+[[lt:人]]
+[[li:人]]
+[[hu:人]]
+[[mg:人]]
+[[ms:人]]
+[[fj:人]]
+[[nl:人]]
+[[ja:人]]
+[[no:人]]
+[[uz:人]]
+[[km:人]]
+[[pl:人]]
+[[pt:人]]
+[[ru:人]]
+[[sm:人]]
+[[sk:人]]
+[[fi:人]]
+[[sv:人]]
+[[tl:人]]
+[[ta:人]]
+[[th:人]]
+[[chr:人]]
+[[tr:人]]
+[[uk:人]]
+[[vi:人]]
+[[zh:人]]

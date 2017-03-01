@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|修}}
+==Translingual==
+
+===Etymology===
+{{Han compound|攸|肉|ls=psc}}
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=07|sn=11|four=28227|canj=OLOB|ids=⿸攸月}}
+
+# [[dried]] [[meat]] (used as [[payment]] for [[teacher]]s in [[ancient]] [[China]])
+
+====References====
+* {{Han ref|kx=0984.080|dkj=29535|dj=1436.210|hdz=10176.040|uh=8129|ud=33065|bh=B2E7|bd=45799}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiū
+|c=sau1
+|mn=sau
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不脩|不脩邊幅|束脩|靈脩|脩樾|脩潤|脩飾|薰脩|脩金|脩名|脩敬|脩脯}}
+
+===References===
+* {{R:twedu|A03335}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉07}}
+
+# {{defn|lang=ja|sort=肉07}}
+
+====Readings====
+* {{ja-readings|on=[[しゅう]] (shū)|kun=[[おさめる]] (osameru), [[ながい]] (nagai)|nanori=}}
+
+===Proper noun===
+{{ja-pos|おさむ|proper}}
+
+# {{given name|male|lang=ja|sort=おさむ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=肉07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''脩''' ([[tu]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:脩]]
+[[ko:脩]]
+[[mg:脩]]
+[[ja:脩]]
+[[pl:脩]]
+[[th:脩]]
+[[zh:脩]]

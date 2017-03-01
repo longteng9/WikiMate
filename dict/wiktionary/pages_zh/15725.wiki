@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|慚}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=11|sn=15|four=|canj=JLP|ids=⿱斬心}}
+
+# [[ashamed]], [[humiliated]]
+# [[shameful]]
+
+====References====
+* {{Han ref|kx=0398.390|dkj=11095|dj=0738.040|hdz=42341.090|uh=6159|ud=24921}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cán
+|c=caam4
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心11}}
+
+# {{defn|lang=ja|sort=心11}}
+
+====Readings====
+* {{ja-readings|kanon=[[さん]] (san)|goon=[[ざん]] (zan)|kun=[[はじる]] (hajiru), [[はじ]] (haji)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=참|eumhun=|rv=cham|mr=ch'am|y=cham}}
+
+# {{defn|lang=ko|sort=心11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心11|hanviet=tàm}}
+
+# {{defn|lang=vi|sort=心11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6159 Nom Foundation]
+
+[[fr:慙]]
+[[ko:慙]]
+[[li:慙]]
+[[hu:慙]]
+[[ja:慙]]
+[[pl:慙]]
+[[th:慙]]
+[[zh:慙]]

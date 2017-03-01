@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shīxíng
+|c=si1 hang4
+|h=pfs=sṳ̂-hàng
+|mn=si-hêng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[execute]], to [[carry out]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|こう|yomi=on}}
+
+===Noun===
+{{ja-noun|しこう}}
+
+# [[execution]], [[carrying out]]
+
+===Verb===
+{{ja-verb-suru|しこう}}
+
+# to [[execute]], to [[carry out]]
+
+====Conjugation====
+{{ja-suru|しこう}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=시행}}
+
+# {{hanja form of|시행|[[execution]], [[carrying out]]}}
+
+[[zh-min-nan:施行]]
+[[ko:施行]]
+[[hu:施行]]
+[[mg:施行]]
+[[ja:施行]]
+[[zh:施行]]

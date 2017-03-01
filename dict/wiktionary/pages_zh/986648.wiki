@@ -1,0 +1,67 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tōngcháng
+|c=tung1 soeng4
+|h=pfs=thûng-sòng
+|mn=qz,tw,xm:thong-siông/zz:thong-siâng
+|cat=a,adv
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[regular]], [[usual]], [[normal]]
+
+===Adverb===
+{{zh-adv}}
+
+# [[usually]], [[normally]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|つう|じょう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|つうじょう|acc=h|acc_ref=NHK,DJR|y=go}}
+
+===Adjective===
+{{ja-adj|infl=na|つうじょう|hhira=つうじやう}}
+
+# [[ordinary]]; [[conventional]]; [[normal]]
+
+====Usage notes====
+Although technically a ''na''-type adjective, this is more commonly used as an adjective in compounds, such as those in the '''Derived terms''' section.
+
+====Derived terms====
+* {{ja-l|通常国会|つうじょうこっかい|tsūjō kokkai}}: an [[ordinary]] session of the [[Diet]] / [[Parliament]] / [[Congress]]
+* {{ja-l|通常選挙|つうじょうせんきょ|tsūjō senkyo}}: an [[ordinary]] [[election]]
+* {{ja-l|通常総会|つうじょうそうかい|tsūjō sōkai}}: an [[ordinary]] [[shareholders]] [[meeting]]
+* {{ja-l|通常兵器|つうじょうへき|tsūjō heiki}}: [[conventional]] [[weapon]]s
+* {{ja-l|通常郵便物|つうじょうゆうびんぶつ|tsūjō yūbinbutsu}}: [[regular]] [[mail]] (i.e. not packages)
+
+===Adverb===
+{{ja-pos|つうじょう|adverb|hhira=つうじやう}}
+
+# [[generally]]; [[usually]]; [[commonly]]
+
+===Noun===
+{{ja-noun|つうじょう|hhira=つうじやう}}
+
+# the [[usual]] (thing, etc.), the [[norm]]
+#* {{quote-journal|year=1935|author=平野憲正, 小林健児 (translation), Josef Baló|doi=10.14828/jsb1895.1935.702|title=濾過性病原体に因る疾病|journal=細菌學雜誌|issue=475|page=705|passage={{ja-usex|種痘の際屡々'''通常'''とは異なった反応が起る。|しゅとう の さい しばしば '''つうじょう''' とは ことなった はんのう が おこる。|In vaccination, reactions different from that under '''the usual''' [circumstances] will occur.}}}}
+
+===References===
+<references/>
+
+[[zh-min-nan:通常]]
+[[ko:通常]]
+[[hu:通常]]
+[[mg:通常]]
+[[ja:通常]]
+[[uz:通常]]
+[[chr:通常]]
+[[zh:通常]]

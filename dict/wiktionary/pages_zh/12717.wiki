@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=12|sn=15|four=61046|canj=RMWJ|ids=⿰口覃}}
+
+# {{defn|Han|sort=口12}}
+
+====References====
+* {{Han ref|kx=0208.010|dkj=04281|dj=0430.300|hdz=10682.080|uh=563E|ud=22078|bh=E545|bd=58693}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=dàn
+|c=daam6,taam5
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=tán
+|c=taam4
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口12}}
+
+# {{defn|lang=ja|sort=口12}}
+
+====Readings====
+* {{ja-readings|on=[[たん]] (tan), [[どん]] (don)|kun=[[ふくむ]] (fukumu), [[むさぼる]] (musaboru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=담|rv=dam|mr=tam}}
+
+# {{defn|lang=ko|sort=口12}}
+
+[[fr:嘾]]
+[[li:嘾]]
+[[hu:嘾]]
+[[pl:嘾]]
+[[th:嘾]]
+[[zh:嘾]]

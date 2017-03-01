@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|w=3na nen
+|cat=adv
+}}
+
+====Adverb====
+{{zh-adv}}
+
+# {{lb|zh|Shanghainese|Wu}} [[how]]
+#: {{zh-x|儂 搿搶 哪能？|'''How''' are things with you lately?|SH|tr=3non&5geq qian&3na nen}}
+
+=====Synonyms=====
+{{zh-dial|怎麼}}
+{{zh-dial|怎樣}}
+
+===Pronunciation===
+{{zh-pron
+|m=nǎnéng
+|c=naa5 nang4
+|cat=adv
+}}
+
+====Adverb====
+{{zh-adv}}
+
+# {{lb|zh|used in rhetorical questions to express negation}} [[how]]; how to; how could
+#: {{zh-x|這麼 好 的 條件，哪能 不 好好 學習 呢？|With such good conditions, why can't you study well (earnestly)?}}
+
+[[ko:哪能]]
+[[mg:哪能]]
+[[ja:哪能]]
+[[ru:哪能]]
+[[zh:哪能]]

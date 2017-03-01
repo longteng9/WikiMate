@@ -1,0 +1,32 @@
+==Japanese==
+{{ja-kanjitab|じゅつ|k1=じゅっ|かい|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=しゅっかい'}} {{m|ltc|述懷}} ({{IPAchar|/zywit hwɛj/}}). Compare modern simplified {{cog|cmn|述怀|tr=shùhuái}}. Read as ''shukkai'' until the [[w:Edo_period|Edo period]].
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[d͡ʑɯᵝkːa̠i]}}
+
+===Noun===
+{{ja-noun|じゅっかい|kyu=述懷}}
+
+# an [[expression]] of one's [[thought]]s or [[recollections]], an [[opinion]]
+# a [[complaint]] about [[unfairness]] or [[dissatisfaction]]
+
+====Derived terms====
+* {{l|ja|述懐奉公|tr={{l|ja|じゅっかいぼうこう}}, ''{{l|ja|sc=Latn|jukkai bōkō}}''}}: [[service]] or [[employment]] while [[harbor]]ing complaints
+
+====Idioms====
+* {{lang|ja|述懐}}{{l|ja|身}}{{l|ja|を}}{{l|ja|待つ|待たず}} ({{lang|ja|じゅっかいみをまたず}}, ''jukkai mi o matazu''); {{l|ja|述懐奉公}}{{l|ja|身}}{{l|ja|を}}{{l|ja|待つ|待たず}} ({{lang|ja|じゅっかいぼうこうみをまたず}}, ''jukkai bōkō mi o matazu''): "complaints about unfairness don't wait for one's body" ⇒ if one continues to work while unhappy about it, one's work suffers, and it may ultimately lead to losing one's [[health]]
+
+===Verb===
+{{ja-verb-suru|じゅっかい|kyu=述懷}}
+
+# to [[express]] one's [[thought]]s, to [[reminisce]], to [[opine]]
+# to [[complain]] about [[unfairness]] or [[dissatisfaction]]
+
+====Conjugation====
+{{ja-suru|じゅっかい}}
+
+[[zh:述懐]]

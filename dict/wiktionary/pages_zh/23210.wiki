@@ -1,0 +1,71 @@
+{{character info/new}}
+{{also|糺|纠}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=02|sn=8|four=22900|canj=VFVL|ids=⿰糹丩}}
+
+# [[investigate]], [[inspect]]
+
+====References====
+* {{Han ref|kx=0915.080|dkj=27227|dj=1342.060|hdz=53362.020|uh=7CFE|ud=31998|bh=AAC8|bd=43720}}
+
+----
+
+==Chinese==
+{{zh-forms|s=纠|alt=糺,𠃏}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiū
+|c=gau2,dau2
+|mn=kiù
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|公子糾|勞資糾紛|桃色糾紛|猛糾|矜糾收繚|糾合|糾察|糾察隊|糾彈|糾正|糾正權|糾眾|糾糾|糾紛|糾結|糾繆繩違|糾繩|糾纏|糾纏不清|糾舉|糾舉權|糾葛|糾集|繚糾|繩愆糾謬|雄糾糾|黝糾}}
+
+===References===
+* {{R:yue:Hanzi}}
+* {{R:nan:thcwdq}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=糸02}}
+
+# [[twist]], [[ask]], [[investigate]], [[verify]]
+
+====Readings====
+* {{ja-readings|on=[[きゅう]] (kyū)|kun=[[あざなう]] (azanau), [[ただす]] (tadasu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[규]], [[교]]|eumhun=|rv=gyu, gyo|mr=kyu, kyo|y=kyu, kyo}}
+
+# {{defn|lang=ko|sort=糸02}}
+
+[[zh-min-nan:糾]]
+[[fr:糾]]
+[[ko:糾]]
+[[hu:糾]]
+[[ja:糾]]
+[[pl:糾]]
+[[th:糾]]
+[[zh:糾]]

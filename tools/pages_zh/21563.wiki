@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|蘯|荡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=108|rad=皿|as=12|sn=17|four=36107|canj=EHBT,XEHBT}}
+
+# to toss about
+# to [[swing]]
+# to [[rock]]
+
+====References====
+* {{Han ref|kx=0797.150|dkj=23062|dj=1212.130|hdz=42571.170|uh=76EA|ud=30442|bh=C0FA|bd=49402}}
+
+----
+
+==Chinese==
+{{zh-forms|s=荡}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàng
+|c=dong6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=皿12}}
+
+# {{defn|lang=ja|sort=皿12}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō)|kun=[[あらう]] (arau), [[うごく]] (ugoku)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=탕|eumhun=|rv=tang|mr=t'ang|y=thang}}
+
+# {{defn|lang=ko|sort=皿12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đãng]]|rs=皿12}}
+
+# {{defn|lang=vi|sort=皿12}}
+
+[[zh-min-nan:盪]]
+[[fr:盪]]
+[[hu:盪]]
+[[mg:盪]]
+[[ja:盪]]
+[[pl:盪]]
+[[th:盪]]
+[[zh:盪]]

@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|晓|暁}}
+==Translingual==
+{{Han simplified forms|曉|暁|晓}}
+
+===Han character===
+{{Han char|rn=72|rad=日|as=12|sn=16|four=64011|canj=AGGU|ids=⿰日堯}}
+
+====References====
+* {{Han ref|kx=0500.170|dkj=14176|dj=0870.120|hdz=21535.010|uh=66C9|ud=26313|bh=BEE5|bd=48869}}
+
+----
+
+==Chinese==
+{{zh-forms|s=晓}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|日|堯|c1=s|c2=p|t1=sun|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xiǎo
+|c=hiu2
+|h=pfs=hiáu
+|mn=hiáu
+|mc=y
+|oc=y
+|ma=
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[dawn]], [[daybreak]]
+#: {{zh-x|破曉|dawn, daybreak; to dawn}}
+# {{rfdef|zh}}
+#* {{zh-x|不經不覺 夜 已 曉|{{t-needed|zh}}|C-LIT|ref={{w2|zh|許冠傑}}, {{lang|zh|今宵}}}}
+# to [[know]], to [[understand]], to [[get]]
+#: {{zh-x|通曉|to thoroughly understand}}
+#* {{zh-x|唐話{waa6-2}、本 係 難 曉、各處{syu2} 有 各處{syu2} 嘅 土談|Chinese is fundamentally difficult to '''understand'''; every region has its own dialect|C|ref={{lang|zh|粵音指南·上卷}}, {{lang|zh|卷之一　應對須知}}}}
+
+===References===
+* (''Min Nan'') {{R:nan:tdj|19567|v=2|p=609}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日12}}
+
+# {{defn|lang=ja|sort=日12}}
+
+====Readings====
+* {{ja-readings|goon=[[きょう]] (kyō)|kanon=[[きょう]] (kyō)|kanyoon=[[ぎょう]] (gyō)|kun=[[あかつき]] (akatsuki), [[さとる]] (satoru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=효|eumhun=|rv=hyo|mr=hyo|y=hyo}}
+
+# {{defn|lang=ko|sort=日12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hẻo]], [[hểu]], [[hiểu]]|rs=日12}}
+
+# {{defn|lang=vi|sort=日12}}
+
+[[fr:曉]]
+[[ko:曉]]
+[[li:曉]]
+[[hu:曉]]
+[[ms:曉]]
+[[ja:曉]]
+[[pl:曉]]
+[[th:曉]]
+[[vi:曉]]
+[[zh:曉]]

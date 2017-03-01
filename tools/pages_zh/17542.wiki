@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=06|sn=10|four=48947|canj=DOBY|ids=⿰[[木]]⿱[[𠂉]][[丹]]}}
+
+====References====
+* {{Han ref|kx=0523.240|dkj=14737|dj=0912.030|hdz=21200.050|uh=6834|ud=26676|bh=D1EA|bd=53738}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhān
+|c=zin1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[sandalwood]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木06}}
+
+# [[bead tree]] (''[[Melia azedarach]]'')
+# {{vern|white sandalwood|pedia=1}} ({{taxlink|Santalum album|species|noshow=1}})
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen)|kun=[[おうち]]}}
+
+====Compounds====
+* [[栴檀]] ([[センダン]], sendan) [[bead tree]] (''[[Melia azedarach]]''）; {{vern|white sandalwood|pedia=1}}
+*: 栴檀は双葉より芳し. cf. [[w:ja:ビャクダン#栴檀は双葉より芳し]].
+*:: Genius displays itself even in childhood. Literally, the white sandalwood is fragrant since the seed leaf, though this may be exaggerated too much.
+
+====See also====
+* {{l|ja|白檀}} ([[ビャクダン]], byakudan) {{vern|white sandalwood|pedia=1}} ({{taxlink|Santalum album|species|noshow=1}})
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|eumhun=|rv=jeon|mr=chŏn|y=cen}}
+
+# (단향목) [[sandalwood]]
+
+====Compounds====
+* [[栴檀]] ([[전단]], jeondan) [[sandalwood]] <ref>This meaning is contrasted with Japanese making sense of {{term|bead tree}} or ''[[Melia azedarach]]''. </ref>
+
+====See also====
+* [[檀香]] ([[단향]], danhyang) [[sandalwood]]
+* [[白檀]] ([[백단]], baegdan) {{vern|white sandalwood|pedia=1}} ({{taxlink|Santalum album|species|noshow=1}})
+* [[檀]] ([[단]], dan) [[birch]]; [[sandalwood]]
+* [[楝]] ([[연]], yeon) [[bead tree]]
+
+===Notes===
+<references />
+
+[[fr:栴]]
+[[hu:栴]]
+[[ja:栴]]
+[[pl:栴]]
+[[th:栴]]
+[[zh:栴]]

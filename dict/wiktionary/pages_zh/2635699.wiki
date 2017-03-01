@@ -1,0 +1,33 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǒushì
+|c=jau5 si6
+|mn=iú-sū
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to have a matter to attend to; to have something to do; to be busy
+# to have something on one's mind; to have something the matter
+# to arise; to happen (of a problem or emergency)
+# to have a job; to be employed
+
+----
+
+==Japanese==
+{{ja-kanjitab|ゆう|じ|yomi=on}}
+
+===Noun===
+{{ja-noun|ゆうじ}}
+
+# [[emergency]], [[contingency]]
+#: {{ja-usex|'''有事'''の際のための法律が必要だ。|'''ゆうじ''' の さい の ため の ほうりつ が ひつよう だ。|We need to set laws for times of national emergency.}}
+
+[[hu:有事]]
+[[mg:有事]]
+[[zh:有事]]

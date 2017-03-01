@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|ま|つち|yomi=k}}
+
+===Etymology===
+Compound of {{compound|真|tr1=ma|t1=true|土|tr2=tsuchi|t2=soil|lang=ja|sort=まつち}}.
+
+===Pronunciation===
+{{ja-pron|yomi=k|まつち|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|まつち}}
+
+# good quality soil suitable for cultivation
+
+====Derived terms====
+* {{ja-r|真土山|^まつちやま}}
+
+===References===
+<references/>
+
+[[zh:真土]]

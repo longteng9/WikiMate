@@ -1,0 +1,51 @@
+{{character info/new}}
+{{also|征|徵|微}}
+==Translingual==
+{{Han simplified forms|徵|徴|征}}
+
+===Han character===
+{{Han char|rn=60|rad=彳|as=11|sn=14|four=|canj=HOUGK,XHOUG|ids=⿲彳⿱山王攵}}
+
+# [[summon]]
+
+====Related characters====
+* [[微]] [[徹]] <!-- Other 彳 + X + 攵 -->
+
+====References====
+* {{Han ref|kx=0370.401|dkj=10238|dj=0697.250|hdz=20840.070|uh=5FB4|ud=24500}}
+
+----
+
+==Chinese==
+{{zh-see|徵|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=彳11}}
+
+# indications
+
+====Readings====
+* {{ja-readings|on=[[ちょう]] (chō), [[ち]] (chi)|kun=[[しるし]] (shirushi), [[めす]] (mesu)}}
+
+====Usage notes====
+Note that while {{ja-l|微}} is the simplification of [[徵]] used in isolation in shinjitai, in the complex kyūjitai character [[癥]] it is instead replaced by {{ja-l|正}}, yielding {{ja-l|症}}. Compare with the simplified Chinese form of 徵, which is [[征]].
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[징]], [[치]]|eumhun=|rv=jing, chi|mr=ching, ch'i|y=cing, chi}}
+
+# {{defn|lang=ko|sort=彳11}}
+
+[[fr:徴]]
+[[hu:徴]]
+[[ja:徴]]
+[[pl:徴]]
+[[th:徴]]
+[[zh:徴]]

@@ -1,0 +1,34 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuǒshàng
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} top left, upper left
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひだり|うえ|yomi=k}}
+
+===Etymology===
+From {{compound|ja|左|上|tr1=hidari|tr2=ue|t1=left|t2=top, up}}.
+
+===Noun===
+{{ja-noun|ひだりうえ|hhira=ひだりうへ}}
+
+# top left, upper left
+
+====Related terms====
+* {{ja-r|左下|ひだりした}}
+* {{ja-r|右上|みぎうえ}}
+* {{ja-r|右下|みぎした}}
+
+[[fr:左上]]
+[[zh:左上]]

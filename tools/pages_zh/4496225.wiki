@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|き|しょう|てん|けつ|yomi=on}}
+
+===Etymology===
+Initial syllables or characters of {{m|ja|起句||opening|tr=kiku}} + {{m|ja|承句||development|tr=shōku}} + {{m|ja|転句||twist|tr=tenku}} + {{m|ja|結句||conclusion|tr=kekku}}. Compare {{etyl|zh|ja}} {{m|zh|起承转合|tr=qǐchéngzhuǎnhé}}.
+
+===Pronunciation===
+{{ja-pron|きしょうてんけつ}}
+
+===Noun===
+{{wikipedia|起承転結|lang=ja}}
+{{wikipedia|Kishōtenketsu|lang=en}}
+{{ja-noun|きしょうてんけつ}}
+
+# The [[structure]] of a [[narrative]], with [[introduction]], [[development]], and [[conclusion]].
+# A type of four-line poem (compare {{m|ja|絶句|tr=zekku}}).
+# A standard four-part structure of [[Chinese]] or [[Japanese]] [[literature]].
+
+[[zh:起承転結]]

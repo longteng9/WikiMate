@@ -1,0 +1,166 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=11}}
+
+===Han character===
+{{Han char|rn=173|rad=雨|as=03|sn=11|four=10177/10174|canj=MBSM|ids=⿱⻗彐}}
+
+====Derived characters====
+* [[膤]], [[鱈]]
+
+===References===
+* {{Han ref|kx=1371.290|dkj=42216|dj=1878.070|hdz=64058.040|uh=96EA|ud=38634|bh=B3B7|bd=46007}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+Ancient simplification of {{och-l|䨮}}, which is in turn {{Han compound|⻗|彗|c1=s|c2=p|ls=psc|nocap=1}}.
+
+===Etymology===
+Starostin compared this with {{cog|bo|སད||frost, cold air, cold, coldness}}. This may be unlikely considering the phonetic part of this character.
+
+===Pronunciation===
+{{zh-pron
+|m=xuě
+|ma=y
+|m-s=xue2
+|c=syut3
+|h=pfs=siet
+|md=siók
+|mn=xm,zz,tp,kh,tn,yl,mg,hc,tc:seh/qz,lk,sx,km,hc:serh/soat
+|mn_note=serh/seh - vernacular; soat - literary
+|mn-t=soh4
+|w=4xiq
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[snow]]
+#: {{zh-x|下雪|to snow}}
+# to [[wipe]] away; to [[clean]]
+# {{lb|zh|Cantonese}} [[ice]]; ice product
+
+===Compounds===
+{{zh-der|似雪|冰雪|單板滑雪|大雪|小雪|昭雪|暴風雪|洗雪|浣雪|湔雪|滑雪|瑞雪|申雪|白雪|積雪|積雪草|紫雪|終年積雪|聚螢映雪|融雪|跳臺滑雪|踏雪|障礙滑雪|雪上加霜|雪中送炭|雪亮|雪人|雪冤|雪原|雪地|雪城|雪堆|雪壓|雪山|雪山林|雪峰|雪崩|雪恥|雪恨|雪景|雪暴|雪松|雪板|雪條|雪梨|雪梨酒|雪橇|雪櫃|雪泥|雪泥鴻爪|雪災|雪片|雪球|雪白|雪盲|雪碧|雪窖冰天|雪糕|雪線|雪膽|雪花|雪花膏|雪茄|雪茄煙|雪蓮|雪蓮花|雪裡送炭|雪裡開|雪豹|雪貂|雪車|雪里蕻|雪野|雪鐵龍|雪青|雪路|雪鞋|雪頓|雪頓節|飛雪|飛鴻踏雪|鵝毛大雪}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=雨03}}
+
+====Readings====
+{{ja-readings
+|goon=[[せち]] (sechi)
+|kanon=[[せつ]] (setsu)
+|kun=[[ゆき]] (yuki), [[すすぐ]] ([[雪ぐ]], susugu), [[そそぐ]] ([[雪ぐ]], sosogu)
+|nanori=[[ぶき]] (buki), [[せ]] (se), [[きよ]] (kiyo), [[きよみ]] (kiyomi), [[まよむ]] (mayomu), [[そそぐ]] (sosogu)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|雪辱|せつじょく}}: [[vindication]], [[revenge]]
+* {{ja-r|雪崩|なだれ}}: [[snow avalanche]]
+* {{ja-r|初雪|はつゆき}}: [[first snow]] (of the winter season)
+* {{ja-r|雪女|ゆき おんな}}: [[snow]] [[woman]], snow [[fairy]]
+* {{ja-r|雪原|せつげん}}: [[snow]] [[field]]
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|ゆき|yomi=k}}
+{{IPAchar|/juki<sub>1</sub>/}} → {{IPAchar|/juki/}}
+
+From {{etyl|ojp|ja|sort=ゆき}}.
+
+===Pronunciation===
+{{ja-pron|yomi=k|ゆき|acc=2|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ゆき}}
+
+# [[snow]]
+#* {{RQ:Wamyō Ruijushō|1|27-28}}<ref>{{R:Wamyō Ruijushō}}</ref>
+#*: 雪 [...] 和名'''由岐'''、日本紀私記云、泡雪阿和由岐、其弱如水沫故云沫雪也
+# {{qualifier|metaphoric}} white hair
+# [[cod]] (fish) (''from an abbreviation of the standard kanji for cod,'' {{l|ja|鱈}})
+
+====Synonyms====
+* {{sense|snow}} {{qualifier|rare}} {{ja-r|玉塵|ぎょくじん}}
+
+===References===
+<references/>
+
+[[Category:ja:Weather|ゆき]]
+[[Category:Japanese basic words|ゆき]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=설|eumhun=|mr=sŏl|y=sel}}
+
+# {{defn|lang=ko|sort=雨03}}
+
+====Compounds====
+* [[雪濃湯]]
+* [[初雪]] first snow
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tuyết]]|rs=雨03}}
+
+# [[snow]]
+
+====Usage notes====
+* Chữ Nôm. The modern Vietnamese word for snow is [[tuyết]].
+
+====References====
+* [http://www.chunom.org/pages/雪 www.chunom.org]
+
+[[be:雪]]
+[[cs:雪]]
+[[de:雪]]
+[[et:雪]]
+[[el:雪]]
+[[es:雪]]
+[[eu:雪]]
+[[fr:雪]]
+[[ko:雪]]
+[[hr:雪]]
+[[ku:雪]]
+[[lo:雪]]
+[[la:雪]]
+[[lb:雪]]
+[[lt:雪]]
+[[hu:雪]]
+[[mg:雪]]
+[[nl:雪]]
+[[ja:雪]]
+[[no:雪]]
+[[uz:雪]]
+[[pl:雪]]
+[[pt:雪]]
+[[ro:雪]]
+[[ru:雪]]
+[[fi:雪]]
+[[sv:雪]]
+[[tl:雪]]
+[[ta:雪]]
+[[th:雪]]
+[[chr:雪]]
+[[tr:雪]]
+[[uk:雪]]
+[[zh:雪]]

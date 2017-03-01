@@ -1,0 +1,85 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=59|rad=彡|as=11|sn=14|four=02422|canj=YJHHH|ids=⿰章彡}}
+
+# [[clear]], [[manifest]], [[obvious]]
+
+====References====
+* {{Han ref|kx=0364.150|dkj=10015|dj=0684.010|hdz=20857.010|uh=5F70|ud=24432|bh=B9FC|bd=47612}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhāng
+|c=zoeng1
+|h=pfs=
+|md=
+|mn=qz,tw,xm:chiong/zz:chiang
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# clear; obvious; conspicuous.
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=彡11}}
+
+# [[obvious]], [[clear]]
+
+====Readings====
+* {{ja-readings|goon=[[しょう]] (shō)|kanon=[[しょう]] (shō)|kun=[[あや]] (aya), [[あきらか]] (akiraka), [[あらわれる]] (arawareru)}}
+<!-- not in my sources: |on=[[そう]] (sō) -->
+
+===Proper noun===
+{{ja-pos|あきら|proper}}
+
+# {{given name|male|lang=ja|sort=あきら}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[창]]|eumhun=|rv=chang|mr=ch'ang|y=chang}}
+
+# {{defn|lang=ko|sort=彡11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=彡11|hanviet=chương}}
+
+# {{defn|lang=vi|sort=彡11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5f70 Nom Foundation]
+
+[[fr:彰]]
+[[li:彰]]
+[[hu:彰]]
+[[mg:彰]]
+[[ja:彰]]
+[[no:彰]]
+[[pl:彰]]
+[[th:彰]]
+[[zh:彰]]

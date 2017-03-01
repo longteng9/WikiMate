@@ -1,0 +1,63 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=míngmù
+|c=ming4 muk6,ming5 muk6
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[close]] [[one]]'s [[eyes]] in [[death]]; to [[die]] [[content]]
+
+====Derived terms====
+{{zh-der|死不瞑目|死亦瞑目}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|めい|もく|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=めいもく}} compound {{m|zh|瞑目|tr=meng? mjuwk|lit=closed eyes + eye}}.
+
+A mixed reading, using the [[漢音#Japanese|''kan'on'']] for {{m|ja|瞑|tr=mei}} and the [[呉音#Japanese|''goon'']] for {{m|ja|目|tr=moku}}, so the reading likely shifted after the initial borrowing.
+
+===Pronunciation===
+{{ja-pron|yomi=on|めいもく|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|めいもく}}
+
+# [[closing]] of the [[eye]]s
+# a [[peaceful]] [[death]]
+
+====Synonyms====
+* {{sense|peaceful death}} {{ja-r|永眠|えいみん}}, {{ja-r|自然死|しぜんし}}
+
+====Antonyms====
+* {{sense|peaceful death}} {{ja-r|横死|おうし}}, {{ja-r|変死|へんし}}: a [[violent]] [[death]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|めいもく}}
+
+# to [[close]] one's [[eyes]]
+# to [[die]] [[peacefully]]
+
+====Conjugation====
+{{ja-suru|めいもく}}
+
+====Synonyms====
+* {{sense|close eyes}} {{ja-l|瞑る|つむる, ''tsumuru''; つぶる, ''tsuburu''}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[Category:ja:Death|めいもく]]
+
+[[hu:瞑目]]
+[[zh:瞑目]]

@@ -1,0 +1,31 @@
+{{also|鄰國}}
+==Japanese==
+{{ja-kanjitab|りん|こく|k2=ごく|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=りんこく}} compound {{m|zh|隣國|tr=lin kwok|lit=neighbor, next + country}}.
+
+After the term was borrowed into {{etyl|ja|-}}, the {{m|zh|隣}} character in the {{etyl|zh|-}} spelling was replaced by {{m|zh|鄰}}, moving the radical to the other side. Compare modern {{etyl|cmn|-}} {{zh-l|鄰國}}.
+
+===Pronunciation===
+{{ja-pron|りんごく|y=o|acc=0|dev=4|acc_ref=NHK|acc2=1|acc2_ref=NHK}}
+
+===Noun===
+{{ja-noun|りんごく|りんこく|kyu=隣國}}
+
+# [[neighbouring]] [[country]]
+
+====Usage notes====
+The ''rinkoku'' reading is rare.
+
+====Hypernyms====
+* {{ja-r|他国|たこく}}
+
+===References===
+<references />
+* {{R:SanseidōKokugoJiten1974|りんごく}}
+
+[[ko:隣国]]
+[[ja:隣国]]
+[[pl:隣国]]
+[[zh:隣国]]

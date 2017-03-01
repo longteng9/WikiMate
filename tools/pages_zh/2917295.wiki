@@ -1,0 +1,65 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yāoshì,yǎoshì,2nb=literary
+|c=jiu2 sai6,jiu1 sai6
+|c_note=jiu1 sai6 - common variant
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[die]] [[prematurely]]; to die while still [[young]]
+
+====Synonyms====
+* {{zh-l|夭折}}
+
+{{zh-cat|Death}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|よう|せい|yomi=o}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=ようせい}} {{m|zh|sc=Hani|夭逝}}.
+
+===Pronunciation===
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|[jo̞ːse̞ː]}}
+
+===Noun===
+{{ja-noun|ようせい}}
+
+# a [[premature]] [[death]], [[dying]] while still [[young]]
+
+====Synonyms====
+* {{ja-r|夭折|ようせつ}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|ようせい}}
+
+# to [[die]] [[prematurely]], to die while still [[young]]
+
+====Conjugation====
+{{ja-suru|ようせい}}
+
+====Synonyms====
+* {{ja-r|linkto=夭折|夭折する|ようせつ する}}
+
+[[Category:ja:Death|ようせい]]
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=요서}}
+
+# {{hanja form of|요서}}
+
+[[hu:夭逝]]
+[[ja:夭逝]]

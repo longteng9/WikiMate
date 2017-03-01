@@ -1,0 +1,33 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiānjiǎgǔ
+|c=gin1 gaap3 gwat1
+|mn=xm,tw:keng-kah-kut
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|skeleton}} [[shoulder blade]]; [[scapula]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|けん|こう|こつ|yomi=on}}
+
+===Noun===
+{{ja-noun|けんこうこつ}}
+
+# {{ja-def|肩甲骨}} {{lb|ja|anatomy|sort=けんこうこつ}} [[shoulder blade]], [[scapula]]
+
+====Usage notes====
+This was originally written as {{l|ja|肩胛骨}}. The more common modern spelling {{l|ja|肩甲骨}} uses the slightly simpler character {{l|ja|甲}} instead of {{l|ja|胛}}.
+
+[[ko:肩胛骨]]
+[[mg:肩胛骨]]
+[[ja:肩胛骨]]
+[[zh:肩胛骨]]

@@ -1,0 +1,69 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=63|rad=戶|as=04|sn=8|four=30247|canj=HSYJ,ISYJ|ids=⿸戶斗, ⿸户斗}}
+
+# to [[bale]] out [[water]]
+
+====References====
+* {{Han ref|kx=0415.100|dkj=11711|dj=0759.140|hdz=32261.010|uh=623D|ud=25149|bh=CCB2|bd=52402}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hù
+|c=fu3
+|mn=qz,xm,zz:hò͘
+|mc=y
+|oc=y
+|ma=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|戽斗|戽水|水戽|風戽}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=戶04}}
+
+# {{defn|lang=ja|sort=戶04}}
+
+====Readings====
+* {{ja-readings|on=[[こ]] (ko), [[ご]] (go), [[く]] (ku)|kun=[[くむ]] (kumu), [[あかくみ]] (akakumi)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=戶04|hanviet=hố}}
+
+# {{defn|lang=vi|sort=戶04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=623d Nom Foundation]
+
+[[zh-min-nan:戽]]
+[[fr:戽]]
+[[hu:戽]]
+[[mg:戽]]
+[[pl:戽]]
+[[th:戽]]
+[[zh:戽]]

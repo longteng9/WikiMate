@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhíxíng
+|c=zik6 haang4
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[go]] [[straight]] [[ahead]]
+# to [[do]] [[thing]]s [[right]]
+
+===See also===
+* {{zh-l|直走}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|ちょく|k1=ちょっ|こう|yomi=on}}
+
+====Noun====
+{{ja-noun|ちょっこう}}
+
+# going directly
+# plain speaking
+
+====Verb====
+{{ja-verb-suru|ちょっこう}}
+
+# go directly
+# speak plainly
+
+=====Conjugation=====
+{{ja-suru|ちょっこう}}
+
+===Etymology 2===
+{{ja-kanjitab|なお|ゆき|yomi=kun}}
+
+====Proper noun====
+{{ja-pos|なおゆき|proper}}
+
+# {{given name|male|lang=ja|sort=なおゆき}}
+
+[[li:直行]]
+[[zh:直行]]

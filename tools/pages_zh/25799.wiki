@@ -1,0 +1,162 @@
+{{character info/new}}
+{{also|乕}}
+==Translingual==
+{{stroke order|strokes=6}}
+
+===Etymology===
+{{liushu|p}}. [[虍]] represents the tiger's head. The torso has disappeared and the legs and the tail have transformed into [[人]] in the small seal script and later [[儿]] in the clerical script.
+
+[[File:Oracle hu3 tiger.svg|50px]]
+[[Image:Panthera tigris tigris.jpg|thumb|A tiger.]]
+
+===Han character===
+{{Han char|rn=141|rad=虍|as=02|sn=6|four=21217|canj=YPHN,YPHU|ids=⿸虍儿}}
+
+====Derived characters====
+* [[唬]]
+
+====References====
+* {{Han ref|kx=1073.030|dkj=32675|dj=1539.230|hdz=42819.020|uh=864E|ud=34382|bh=AAEA|bd=43754}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=乕}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+From {{inh|zh|sit-pro|*k-la||tiger}}, from {{der|zh|mkh-pro|*klaʔ||tiger}}.
+
+===Pronunciation===
+{{zh-pron
+|m=hǔ
+|c=fu2
+|h=pfs=fú
+|mn=hó͘
+|mn-t=houn2
+|w=2hu
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[tiger]]
+#: {{zh-x|老虎|tiger}}
+# [[brave]], [[fierce]]
+# {{surname|lang=zh}}
+
+====Compounds====
+* {{zh-l|狼吞虎嚥}}
+* {{zh-l|馬馬虎虎|mǎmǎhǔhǔ}}
+* {{zh-l|虎媽}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虍02}}
+
+# {{defn|lang=ja|sort=虍02}}
+
+====Readings====
+* {{ja-readings|goon=[[く]] (ku)|kanon=[[こ]] (ko)|kun=[[とら]] (tora)|nanori=[[とら]] (tora), [[たけ]] (take)}}
+
+===Etymology===
+{{wikipedia|トラ|lang=ja}}
+{{ja-kanjitab|とら|yomi=k}}
+{{rfe|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|とら|acc=h|acc_ref=NHK,DJR|y=k}}
+* {{homophone|lang=ja|sort=とら|寅}}
+
+===Noun===
+{{ja-noun|とら|トラ}}
+
+# {{lb|ja|zoology|sort=とら}} [[tiger]]
+
+====Compounds====
+* {{ja-l|牡虎|おすとら|osutora}}: a [[male]] tiger
+* {{ja-l|雌虎|めすとら|mesutora}}: a [[female]] tiger
+* [[虎燕拳]] ([[こえんけん]], koenken)
+* [[虎穴]] ([[こけつ]], koketsu)
+* [[虎口]] ([[ここう]], kokō)
+* [[虎視眈々]] ([[こしたんたん]], koshitantan)
+* [[虎狼]] ([[ころう]], korō)
+* [[虎魚]] ([[おこぜ]], okoze)
+* [[虎巻]] ([[とらかん]], torakan)
+* [[虎刈り]] ([[とらがり]], toragari)
+* [[虎狩り]] ([[とらがり]], toragari)
+* [[虎猫]] ([[とらねこ]], toraneko)
+* [[虎髭]] ([[とらひげ]], torahige)
+* [[虎鬚]] ([[とらひげ]], torahige)
+* [[虎斑]] ([[とらふ]], torafu)
+* [[虎河豚]] ([[とらふぐ]], torafugu)
+* [[大虎]] ([[おおどら]], ōdora)
+* [[小虎]] ([[こどら]], kodora)
+* [[暴虎馮河]] ([[ぼうこひょうが]], bōkohyōga)
+* [[猛虎]] ([[もうこ]], mōko)
+* [[虎落]] ([[もがり]], mogari)
+* [[虎落笛]] ([[もがりぶえ]], mogaribue)
+* [[竜虎]] ([[りゅうこ]], ryūko; [[りょうこ]], ryōko)
+* [[竜攘虎搏]] ([[りゅうじょうこはく]], ryūjōkohaku)
+* [[両虎]] ([[りょうこ]], ryōko)
+
+====Derived terms====
+* {{l|ja|虎に成る}} (tora ni naru)
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|とら]]
+[[Category:ja:Panthers|とら]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=호|eumhun=|rv=ho|mr=ho|y=ho}}
+
+# {{defn|lang=ko|sort=虍02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hổ]], [[hoài]], [[hoàng]]|rs=虍02}}
+
+# {{defn|lang=vi|sort=虍02}}
+
+[[af:虎]]
+[[zh-min-nan:虎]]
+[[cs:虎]]
+[[de:虎]]
+[[fr:虎]]
+[[fy:虎]]
+[[ko:虎]]
+[[kn:虎]]
+[[ku:虎]]
+[[lo:虎]]
+[[la:虎]]
+[[lb:虎]]
+[[lt:虎]]
+[[hu:虎]]
+[[ms:虎]]
+[[nl:虎]]
+[[ja:虎]]
+[[no:虎]]
+[[pl:虎]]
+[[ro:虎]]
+[[ru:虎]]
+[[sv:虎]]
+[[th:虎]]
+[[chr:虎]]
+[[tr:虎]]
+[[zh:虎]]

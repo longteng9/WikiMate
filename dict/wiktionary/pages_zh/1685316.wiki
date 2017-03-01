@@ -1,0 +1,63 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jūzhù
+|c=geoi1 zyu6
+|h=pfs=kî-chhu
+|mn=ki-chū/ku-chū
+|ma=Zh-juzhù.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[dwell]]; to [[reside]]
+
+====Synonyms====
+* {{zh-l|居留}}
+
+====See also====
+* {{zh-l|居民}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きょ|じゅう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|きょじゅう|yomi=o}}
+
+===Noun===
+{{ja-noun|きょじゅう}}
+
+# [[residence]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|きょじゅう}}
+
+# [[dwell]], [[inhabit]], [[reside]]
+
+====Conjugation====
+{{ja-suru|きょじゅう}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=거주}}
+
+# {{hanja form of|거주}}
+
+[[fr:居住]]
+[[ko:居住]]
+[[hu:居住]]
+[[mg:居住]]
+[[ja:居住]]
+[[pt:居住]]
+[[chr:居住]]
+[[zh:居住]]

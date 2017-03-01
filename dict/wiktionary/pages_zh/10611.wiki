@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=03|sn=5|four=|canj=OPI|ids=⿰亻勺}}
+
+# (archaic) [[meteor]]
+
+====References====
+* {{Han ref|kx=0093.100|dkj=00385|dj=0197.060|hdz=10114.120|uh=4EE2|ud=20194}}
+* [http://www.zdic.net/zd/zi/ZdicE4ZdicBBZdicA2.htm zdic.net (Han Dian)]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bó
+|c=bok6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-only|仢約}}
+
+===References===
+* {{R:twedu|B01026}}
+* {{R:yue:Jyutping Database}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人03}}
+
+# {{defn|lang=ja|sort=人03}}
+
+====Readings====
+* {{ja-readings|on=[[はく]] (haku), [[ばく]] (baku), [[しゃく]] (shaku)|kun=[[まるきばし]] (marukibashi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=작|rv=jak|mr=chak|y=cak}}
+
+# {{defn|lang=ko|sort=人03}}
+
+[[fr:仢]]
+[[li:仢]]
+[[hu:仢]]
+[[pl:仢]]
+[[th:仢]]
+[[zh:仢]]

@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|侥|徺}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=12|sn=14|four=24211|canj=OGGU|ids=⿰亻堯}}
+
+====References====
+* {{Han ref|kx=0117.100|dkj=01113|dj=0248.160|hdz=10216.120|uh=50E5|ud=20709|bh=B9AE|bd=47534}}
+
+----
+
+==Chinese==
+{{zh-forms|s=侥}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|堯|c1=s|c2=p|t1=man|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jiǎo,yáo,jiāo
+|c=hiu1,giu1,giu2,jiu4
+|mc=y
+|oc=y
+|ma=
+|cat=a,ph
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[lucky]]
+# [[by chance]], by luck
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人12}}
+
+# {{defn|lang=ja|sort=人12}}
+
+====Readings====
+* {{ja-readings|on=[[きょう]] (kyō), [[ぎょう]] (gyō)|kun=[[ねがう]] (negau), [[もとめる]] (motomeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=요|rv=yo|mr=yo}}
+
+# {{defn|lang=ko|sort=人12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nghẹo]]|rs=人12}}
+
+# {{defn|lang=vi|sort=人12}}
+
+[[zh-min-nan:僥]]
+[[fr:僥]]
+[[li:僥]]
+[[hu:僥]]
+[[ja:僥]]
+[[pl:僥]]
+[[th:僥]]
+[[zh:僥]]

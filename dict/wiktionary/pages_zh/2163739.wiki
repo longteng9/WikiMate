@@ -1,0 +1,64 @@
+{{also|日本银行}}
+==Chinese==
+{{zh-forms|s=日本银行|type=22}}
+
+===Pronunciation===
+{{zh-pron
+|m=Rìběn Yínháng
+|c=jat6 bun2 ngan4 hong4
+|cat=n
+}}
+
+===Proper noun===
+{{zh-noun}}
+
+# [[Bank of Japan]]
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Bank of Japan}}
+</div>
+{{ja-kanjitab|にち|k1=にっ|ほん|ぎん|こう|yomi=on}}
+[[File:Bank_of_Japan_2010.jpg|thumb|250px|{{lang|ja|日本銀行}}: the '''[[w:Bank of Japan|Bank of Japan]]''' headquarters in [[w:Chūō, Tokyo|Chūō, Tokyo]].]]
+
+===Etymology 1===
+Compound of {{compound|lang=ja|sort=にっぽんぎんこう|日本|tr1=Nippon|t1=Japan|銀行|tr2=ginkō|t2=bank}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+The ''Nippon'' reading for {{ja-l|日本}} here is part of the official name of the bank.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|n|に|っぽんぎ|んこう}}
+* {{IPA|lang=ja|[nipːõ̞ŋ ɡĩŋko̞ː]}}
+
+====Proper noun====
+{{ja-pos|proper|にっぽん ぎんこう|hhira=にっぽんぎんかう}}
+
+# the [[w:Bank of Japan|Bank of Japan]]
+#: Often abbreviated in English as {{m|en|BOJ}}.
+
+=====Derived terms=====
+* {{ja-l|日本銀行券|にっぽんぎんこうけん|Nippon Ginkō Ken}}: Bank of Japan [[note]], Bank of Japan [[bank note]]
+* {{ja-l|日銀|にちぎん|Nichigin}}: abbreviation of {{lang|ja|日本銀行}}
+
+===Etymology 2===
+Alternate reading. The ''Nihon'' reading for {{ja-l|日本}} here is less common.<ref name="KDJ"/><ref name="DJR"/>
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|n|に|ほんぎ|んこう}}
+* {{IPA|lang=ja|[nihõ̞ŋ ɡĩŋko̞ː]}}
+
+====Proper noun====
+{{ja-pos|proper|にほん ぎんこう|hhira=にほんぎんかう}}
+
+# the [[w:Bank of Japan|Bank of Japan]]
+
+===References===
+<references/>
+
+[[cs:日本銀行]]
+[[zh:日本銀行]]

@@ -1,0 +1,62 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=06|sn=8|four=22264|canj=OHJR|ids=⿰亻舌}}
+
+# to [[meet]]
+
+====References====
+* {{Han ref|kx=0100.250|dkj=00564|dj=0213.030|hdz=10149.050|uh=4F78|ud=20344|bh=CBC3|bd=52163}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huó
+|c=kut3,wut6
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人06}}
+
+# {{defn|lang=ja|sort=人06}}
+
+====Readings====
+* {{ja-readings|on=[[かつ]] (katsu), [[がち]] (gachi)|kun=[[あう]] (au), [[あつまる]] (atsumaru), [[つとめるさま]] (tsutomerusama), [[いたる]] (itaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=괄|rv=gwal|mr=kwal}}
+
+# {{defn|lang=ko|sort=人06}}
+
+[[fr:佸]]
+[[ko:佸]]
+[[li:佸]]
+[[hu:佸]]
+[[pl:佸]]
+[[th:佸]]
+[[zh:佸]]

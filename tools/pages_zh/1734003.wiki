@@ -1,0 +1,41 @@
+{{also|弁護士|辩护士}}
+==Chinese==
+{{zh-forms|s=辩护士|type=21}}
+
+===Etymology===
+The "lawyer" sense is reborrowed into Taiwanese {{etyl|cmn|-}}, {{etyl|nan|-}} and {{etyl|hak|-}} from {{etyl|ja|zh}} {{ja-r|弁護士|べんごし}}.
+
+===Pronunciation===
+{{zh-pron
+|m=biànhùshì
+|c=bin6 wu6 si6
+|h=pfs=phien-fu-sṳ
+|mn=piān-hō͘-sū
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[defender]]; [[apologist]]
+# {{lb|zh|Taiwan|chiefly|Min Nan|and|Hakka|dated|_|in|_|Mandarin}} [[lawyer]]; [[attorney]]
+
+====Synonyms====
+* {{qualifier|lawyer}} {{zh-l|律師}}, {{zh-l|狀師}}
+
+===References===
+* {{qualifier|Min Nan}} {{thcwd|13202}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=변호사}}
+
+# {{hanja form of|변호사|[[lawyer]]}}
+
+[[cs:辯護士]]
+[[ko:辯護士]]
+[[ja:辯護士]]

@@ -1,0 +1,62 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=15|sn=19|four=32301|canj=XYVVV,YVVV|ids=⿺辶巤}}
+
+# [[rag]]s
+
+====References====
+* {{Han ref|kx=1267.150|dkj=39218|dj=1766.010|hdz=63894.080|uh=908B|ud=37003|bh=C3E5|bd=50149}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=lā
+|c=laap6
+|mn=lia̍p
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辵15}}
+
+# {{defn|lang=ja|sort=辵15}}
+
+====Readings====
+* {{ja-readings|on=[[りょう]] (ryō), [[ろう]] (rō)|kun=[[くじく]] (kujiku)|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=辵15| hanviet = láp, lạp}}
+
+# {{defn|lang=vi|sort=辵15}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=908b Nom Foundation]
+
+[[fr:邋]]
+[[hu:邋]]
+[[mg:邋]]
+[[pl:邋]]
+[[th:邋]]
+[[zh:邋]]

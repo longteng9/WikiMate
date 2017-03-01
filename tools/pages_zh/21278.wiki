@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|痉}}
+==Translingual==
+{{Han simplified forms|痙|𫞬|痉|ex=y}}
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=07|sn=12|four=00111|canj=KMVM}}
+
+# [[convulsion]]s, [[fit]]s
+
+====References====
+* {{Han ref|kx=0773.190|dkj=22186|dj=1184.010|hdz=42674.140|uh=75D9|ud=30169|bh=B56A|bd=46442}}
+
+----
+
+==Chinese==
+{{zh-forms|s=痉}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìng
+|c=ging6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒07|style=ky|shin=𫞬}}
+
+# {{defn|lang=ja|sort=疒07}}
+
+====Readings====
+* {{ja-readings|goon=[[ぎょう]] (gyō)|kanon=[[けい]] (kei)|kun=[[ひきつる]] (hikitsuru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|eumhun=|rv=gyeong|mr=kyŏng|y=kyeng}}
+
+# {{defn|lang=ko|sort=疒07}}
+
+[[fr:痙]]
+[[ko:痙]]
+[[hu:痙]]
+[[ja:痙]]
+[[pl:痙]]
+[[th:痙]]
+[[zh:痙]]

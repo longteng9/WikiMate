@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+{{ja-forms|[[㐮]]|襄|襄}}
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=11|sn=17|four=00732|canj=YRRV}}
+
+# [[aid]], [[help]], [[assist]]
+# [[undress]]
+
+====Derived characters====
+* [[孃]] [[讓]] [[釀]]
+
+====Descendants====
+* [[㐮]]
+
+====References====
+* {{Han ref|kx=1123.310|dkj=34556|dj=1591.200|hdz=53109.120|uh=8944|ud=35140|bh=C1B8|bd=49592}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiāng
+|c=soeng1
+|mn=siong
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|共襄盛舉|宋襄之仁|宋襄公|秦襄公|懷山襄陵|襄事|襄助|襄河|襄陵|襄理}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=衣11}}
+
+# {{defn|lang=ja|sort=衣11}}
+
+====Readings====
+* {{ja-readings|on=[[じょう]] (jō), [[しょう]] (shō)|kun=[[のぼる]] (noboru), [[あげる]] (ageru), [[たかい]] (takai)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=양|eumhun=|rv=yang|mr=yang|y=yang}}
+
+# {{defn|lang=ko|sort=衣11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tương]]|rs=衣11}}
+
+# {{defn|lang=vi|sort=衣11}}
+
+[[fr:襄]]
+[[hu:襄]]
+[[mg:襄]]
+[[ja:襄]]
+[[pl:襄]]
+[[th:襄]]
+[[zh:襄]]

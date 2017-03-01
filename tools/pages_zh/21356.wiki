@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=10|sn=15|four=00117|canj=KABT,KWOT}}
+
+# [[epidemic]], [[plague]], [[pestilence]]
+
+====References====
+* {{Han ref|kx=0778.040|dkj=22396|dj=1188.030|hdz=42684.030|uh=761F|ud=30239|bh=BD45|bd=48453}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wēn
+|c=wan1
+|mn=un
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|五瘟使|天瘟|抱草瘟|春瘟|牛瘟|瘟疫|瘟病|瘟神|瘟神爺|稻瘟病|該死行瘟|豬瘟|送瘟神|遭瘟|雞瘟|鴨瘟}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒10}}
+
+# {{defn|lang=ja|sort=疒10}}
+
+====Readings====
+* {{ja-readings|on=[[おん]] (on)|kun=[[えやみ]] (eyami)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=온|eumhun=|rv=on|mr=on|y=on}}
+
+# {{defn|lang=ko|sort=疒10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''瘟''' ([[ôn]])
+
+# {{defn|lang=vi}}
+
+[[fr:瘟]]
+[[hu:瘟]]
+[[mg:瘟]]
+[[ja:瘟]]
+[[no:瘟]]
+[[pl:瘟]]
+[[th:瘟]]
+[[vi:瘟]]
+[[zh:瘟]]

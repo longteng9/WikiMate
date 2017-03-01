@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=10|sn=14|four=46913|canj=DHUI|ids=⿰木鬼}}
+
+====References====
+* {{Han ref|kx=0546.130|dkj=15323|dj=0934.050|hdz=21252.010|uh=69D0|ud=27088|bh=BA69|bd=47721}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huái
+|c=waai4
+|mc=y
+|oc=y
+|ma=
+|cat=pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{vern|Chinese scholar tree}} (''[[Styphnolobium japonicum]]''), {{vern|Japanese pagoda tree}}, [[locust tree]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木10}}
+
+# {{defn|lang=ja|sort=木10}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai)|kun=[[えんじゅ]] (enju)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=괴|eumhun=|rv=goe|mr=koe|y=koy}}
+
+# {{defn|lang=ko|sort=木10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木10| hanviet = [[hòe]], [[hoe]]}}
+
+# {{defn|lang=vi|sort=木10}}
+
+[[fr:槐]]
+[[ko:槐]]
+[[hu:槐]]
+[[mg:槐]]
+[[ja:槐]]
+[[no:槐]]
+[[pl:槐]]
+[[th:槐]]
+[[zh:槐]]

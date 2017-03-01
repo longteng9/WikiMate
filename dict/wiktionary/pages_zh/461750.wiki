@@ -1,0 +1,45 @@
+{{also|后生}}
+==Chinese==
+{{zh-forms|s=后生}}
+
+===Pronunciation===
+{{zh-pron
+|m=hòushēng
+|c=hau6 saang1
+|h=pfs=heu-sâng
+|md=hâu-săng/hâiu-sĕng
+|md_note=hâu-săng - vernacular (“young man; young”); hâiu-sĕng - literary
+|mn=qz,xm,tp:hāu-siⁿ/kh,zz:hāu-seⁿ
+|w=3hheu san
+|cat=n,c:a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[young]] [[person]]; young [[generation]]
+#: {{zh-x|後生.可畏|a '''young person''''s abilities are respectable}}
+# [[descendant]]s
+# [[next]] [[life]]
+# {{lb|zh|chiefly|Min Nan}} [[son]]
+
+====Synonyms====
+* {{sense|son}}
+{{zh-dial|兒子}}
+
+====Derived terms====
+{{zh-der|小子後生|小後生|後生可畏|後生小子|後生小輩|後生晚學|黃花後生}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[born]] [[later]]
+# {{lb|zh|chiefly|Cantonese|Hakka||Min|Wu}} [[young]]
+
+====Derived terms====
+{{zh-der|後生仔|後生儂|後生弟|後生囝}}
+
+[[zh-min-nan:後生]]
+[[ko:後生]]
+[[mg:後生]]
+[[zh:後生]]

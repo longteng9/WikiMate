@@ -1,0 +1,33 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīngzú
+|c=zing1 zuk6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|crystallography}} [[crystal]] [[family]]
+
+===See also===
+* {{zh-l|晶系}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|ぞく|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=goon|しょうぞく|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|しょうぞく|hhira=しやうぞく}}
+
+# {{lb|sort=しょうぞく|ja|crystallography}} [[crystal class]]
+
+===References===
+<references/>

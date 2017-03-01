@@ -1,0 +1,61 @@
+{{also|奏请}}
+==Chinese==
+{{zh-forms|s=奏请}}
+
+===Pronunciation===
+{{zh-pron
+|m=zòuqǐng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|archaic}} to [[present]] a [[formal]] [[request]] (to the [[emperor]]); to [[make]] a [[suggestion]] (to the [[emperor]])
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|そう|せい|yomi=o}}
+{{der|sort=そうせい|ja|ltc|奏請}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|そうせい|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|そうせい|hhira=そうせい}}
+
+# [[petition]]ing the [[emperor]]
+
+====Verb====
+{{ja-verb-suru|そうせい}}
+
+# [[petition]] the [[emperor]]
+
+=====Conjugation=====
+{{ja-suru|そうせい}}
+
+===Etymology 2===
+{{ja-kanjitab|そう|しょう|yomi=o}}
+{{der|sort=そうしょう|ja|ltc|奏請}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|そうしょう|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|そうしょう|hhira=そうしやう}}
+
+# [[petition]]ing the [[emperor]]
+
+====Verb====
+{{ja-verb-suru|そうしょう|hhira=そうしやう}}
+
+# [[petition]] the [[emperor]]
+
+=====Conjugation=====
+{{ja-suru|そうしょう}}
+
+===References===
+<references/>

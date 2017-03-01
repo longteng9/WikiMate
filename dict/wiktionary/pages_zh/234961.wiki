@@ -1,0 +1,105 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shìgù
+|ma=y
+|c=si6 gu3
+|h=pfs=sṳ-ku
+|mn=qz:sīr-kò͘/tw,xm,zz:sū-kò͘
+|w=3zr ku
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[accident]]; [[mishap]]
+#: {{zh-x|緊急 事故|emergency}}
+#: {{zh-x|他 遇到 了 一 個 事故。|He had an '''accident'''.}}
+#: {{zh-x|事故 的 處理 要 嚴格 按照 國家 法律 規定 的 條例 來 執行。|Laws and regulations need to be strictly followed when responding to '''accidents'''.}}
+
+====Derived terms====
+{{zh-der|意外事故}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じ|こ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|じこ|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|count=件|じこ}}
+
+# [[accident]]; [[incident]]; [[trouble]]
+#: {{ja-usex|これは'''事故'''だ！|^これ は '''じこ''' だ！|It was an '''accident'''!}}
+
+====Synonyms====
+* {{sense|accident}} {{ja-r|アクシデント}}
+* {{sense|incident}} {{ja-r|事件|じけん}}
+
+====Derived terms====
+{{der-top}}
+* [[交通事故]]
+* [[坑内事故]]
+* [[自動車事故]]
+* [[人身事故]]
+* [[接触事故]]
+* [[墜落事故]]
+* [[鉄道事故]]
+* [[物損事故]]
+* [[無事故]]
+* [[臨界事故]]
+* [[事故る]]
+* [[事故原因]]
+* [[事故死]]
+* [[事故歴]]
+{{der-bottom}}
+
+===References===
+<references/>
+* {{R:OxfordJapanese}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=사고}}
+
+# {{hanja form of|사고|[[accident]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|sự cố|[[accident]]}}
+
+[[zh-min-nan:事故]]
+[[cs:事故]]
+[[fr:事故]]
+[[ko:事故]]
+[[ky:事故]]
+[[lt:事故]]
+[[hu:事故]]
+[[mg:事故]]
+[[fj:事故]]
+[[ja:事故]]
+[[pl:事故]]
+[[pt:事故]]
+[[fi:事故]]
+[[sv:事故]]
+[[tl:事故]]
+[[th:事故]]
+[[chr:事故]]
+[[zh:事故]]

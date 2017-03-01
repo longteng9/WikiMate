@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuìxiǎohuà
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[minimize]]
+
+===Noun===
+{{zh-noun}}
+
+# [[minimization]]
+
+====Antonyms====
+* {{zh-l|最大化}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|さい|しょう|か|yomi=on}}
+
+===Etymology===
+{{suffix|lang=ja|最小|化|tr1=saishō|t1=minimum|tr2=ka|t2=-ification}}
+
+===Noun===
+{{ja-noun|さいしょうか}}
+
+# [[minimization]]
+
+===Verb===
+{{ja-verb-suru|さいしょうか}}
+
+# [[minimize]]
+
+====Conjugation====
+{{ja-suru|さいしょうか}}
+
+====Derived terms====
+* {{ja-l|最小化ボタン|さいしゅうかボタン|saishōka botan}} minimize button
+* {{ja-l|費用最小化|ひようさいしょうか|hiyō saishōka}} cost minimization
+
+[[zh:最小化]]

@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǐdìng
+|c=zi2 ding6
+|h=pfs=chṳ́-thin
+|mn=chí-tēng
+|ma=Zh-zhidìng.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[appoint]]; to [[assign]]; to [[designate]]; to [[nominate]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|てい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|してい|acc=h|dev=1|acc_ref=NHK,DJR|y=ko}}
+
+===Noun===
+{{ja-noun|してい}}
+
+# [[naming]]; [[designation]]; [[specification]]
+
+===Verb===
+{{ja-verb-suru|してい}}
+
+# to [[name]]; to [[designate]]; to [[specify]]
+
+====Conjugation====
+{{ja-suru|してい}}
+
+===References===
+<references/>
+
+[[zh-min-nan:指定]]
+[[ko:指定]]
+[[hu:指定]]
+[[ja:指定]]
+[[zh:指定]]

@@ -1,0 +1,186 @@
+{{character info/new}}
+{{also|玺}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=96|rad=玉|as=14|sn=19|four=10103|canj=MBMGI|ids=⿱爾玉}}
+
+# [[imperial]] [[signet]], [[royal]] signet
+# [[rainbow]]
+
+====References====
+* {{Han ref|kx=0744.150|dkj=21309|dj=1153.020|hdz=21144.050|uh=74BD|ud=29885|bh=C3A2|bd=50082}}
+
+----
+
+==Chinese==
+{{zh-forms|s=玺}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xǐ
+|c=saai2
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=玉14}}
+
+# the [[imperial]] [[seal]] or [[sigil]]
+# a [[symbol]] of [[imperial]] [[status]]
+
+====Readings====
+{{ja-readings
+|goon=[[し]] (shi) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[し]] (shi) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanyoon=[[じ]] (ji)
+|kun=[[しるし]] (shirushi) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}, [[みしるし]] (mishirushi) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+}}
+
+===Etymology 1===
+From {{etyl|ltc|ja|sort=し'}} {{m|ltc|璽|tr=sjeX}}. Compare modern {{etyl|cmn|-}} traditional {{m|cmn|璽}} and simplified {{m|cmn|玺|tr=xǐ}}.
+
+The reading changed from an initial borrowing of {{IPAchar|/shi/ [ɕi]}} to the current reading of {{IPAchar|/ji/ [d͡ʑi]}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[d͡ʑi]}}
+
+====Noun====
+{{ja-noun|じ|hhira=}}
+
+# a [[seal]] or [[sigil]] carved into a [[jewel]]
+# more specifically, such a seal belonging to the Chinese [[emperor]] of the [[w:Qin Dynasty|Qin Dynasty]] or later, or belonging to the Japanese emperor
+# {{ja-l|八尺瓊曲玉||Yasakani no Magatama}}, the [[jewel]] that is one of the three [[sacred]] [[treasure]]s comprising the [[w:Imperial Regalia of Japan|Imperial Regalia of Japan]]
+
+=====Synonyms=====
+* {{sense|carved jewel}} {{ja-l|玉璽|ぎょくじ|gyokuji}}
+* {{sense|imperial seal}} {{ja-l|玉璽|ぎょくじ|gyokuji}}, {{ja-l|御璽|ぎょじ|gyoji}}
+* {{sense|imperial regalia}} {{ja-l|八尺瓊曲玉|やさかにのまがたま|Yasakani no Magatama}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|璽綬|じじゅ|jiju}}: the [[imperial]] [[seal]] and the [[braid]]ed [[cord]] attached to it
+* {{ja-l|璽書|じしょ|jisho}}: a [[document]] that has been [[stamp]]ed with the [[imperial]] [[seal]]
+* {{ja-l|璽符|じふ|jifu}}: the [[imperial]] [[seal]]
+{{der-mid}}
+* {{ja-l|印璽|いんじ|inji}}: common term for the [[emperor]]'s [[personal]] [[seal]] or [[sigil]] and the [[national]] [[seal]] or [[sigil]] used for [[state]] [[business]]
+* {{ja-l|玉璽|ぎょくじ|gyokuji}}: the [[emperor]]'s [[personal]] [[seal]] or [[sigil]]
+* {{ja-l|御璽|ぎょじ|gyoji}}: the [[emperor]]'s [[personal]] [[seal]] or [[sigil]]
+* {{ja-l|御名御璽|ぎょめいぎょじ|gyomei gyoji}}: the [[emperor]]'s [[name]] and the [[emperor]]'s [[personal]] [[seal]] or [[sigil]]
+* {{ja-l|剣璽|けんじ|kenji}}: {{ja-l|草薙の剣||Kusanagi no Tsurugi}} and {{ja-l|八尺瓊勾玉||Yasakani no Magatama}}, two of the [[sacred]] [[treasure]]s comprising the [[w:Imperial Regalia of Japan|Imperial Regalia of Japan]]; alternately, all three of the [[sacred]] [[treasure]]s
+* {{ja-l|剣璽渡御|けんじとぎょ|kenji togyo}}: the [[ceremony]] of [[imperial]] [[succession]], where the [[w:Imperial Regalia of Japan|Imperial Regalia of Japan]] are passed from the preceding [[emperor]] to the new one
+* {{ja-l|剣璽の案|けんじのあん|kenji no an}}: the [[shelf]] on which the [[w:Imperial Regalia of Japan|Imperial Regalia of Japan]] were placed, from the [[w:Heian period|Heian period]] through the [[w:Muromachi period|Muromachi period]]
+* {{ja-l|国璽|こくじ|kokuji}}: the [[national]] [[seal]] or [[sigil]] used for [[state]] [[business]]
+* {{ja-l|国璽尚書|こくじしょうしょ|kokuji shōsho}}: the [[Lord Privy Seal]], the [[minister]] or [[official]] in England responsible for keeping the national seal
+* {{ja-l|掌璽官|しょうじかん|shōjikan}}: under the [[w:Ritsuryō|Ritsuryō]] system of ancient Japan, the [[minister]] in responsible for keeping the [[imperial]] [[seal]]
+* {{ja-l|神璽|しんじ|shinji}}: {{ja-l|八尺瓊勾玉||Yasakani no Magatama}}, one of the [[sacred]] [[treasure]]s comprising the [[w:Imperial Regalia of Japan|Imperial Regalia of Japan]]; alternately, all three of the [[sacred]] [[treasure]]s; the [[emperor]]'s [[personal]] [[seal]] or [[sigil]]
+* {{ja-l|伝国の璽|でんこくのじ|denkoku no ji}}: the [[imperial]] [[seal]] belonging to the Chinese [[emperor]] of the [[w:Qin Dynasty|Qin Dynasty]] or later
+* {{ja-l|宝璽|ほうじ|hōji}}: the [[emperor]]'s [[personal]] [[seal]] or [[sigil]]
+* {{ja-l|霊璽|れいじ|reiji}}: an [[honorific]] term for the [[emperor]]'s [[personal]] [[seal]] or [[sigil]]; something [[worship]]ped to offer [[prayer]]s to the [[soul]] of someone who has [[pass away|passed away]]
+{{der-bottom}}
+
+===Etymology 2===
+Noun derived from the {{m|ja|連用形|tr=ren'yōkei||stem form}} ''shirushi'' of verb {{m|ja|印す|tr=shirusu||to stamp with a seal or sigil; to mark or brand}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|h|し|るし}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[ɕiɾ̠ɯᵝɕi]}}
+
+====Alternative forms====
+* {{ja-l|印}}
+
+====Noun====
+{{ja-noun|しるし}}
+
+# the [[emperor]]'s [[personal]] [[seal]] or [[sigil]] or the [[national]] [[seal]] or [[sigil]] used for [[state]] [[business]]
+# the [[mark]] made by such a [[seal]] or [[sigil]]
+# {{ja-l|八尺瓊勾玉||Yasakani no Magatama}}, one of the [[sacred]] [[treasure]]s comprising the [[w:Imperial Regalia of Japan|Imperial Regalia of Japan]]
+# all three of the [[sacred]] [[treasure]]s
+
+=====Synonyms=====
+* {{sense|imperial seal}} {{ja-l|印璽|いんじ|inji}}, {{ja-l|御璽|ぎょじ|gyoji}}
+* {{sense|emperor's seal}} {{ja-l|印璽|いんじ|inji}}, {{ja-l|御璽|ぎょじ|gyoji}}, {{ja-l|璽符|じふ|jifu}}, {{ja-l|宝璽|ほうじ|hōji}}, {{ja-l|霊璽|れいじ|reiji}}
+* {{sense|national seal}} {{ja-l|国璽|こくじ|kokuji}}
+* {{sense|imperial regalia}} {{ja-l|八尺瓊勾玉|やさかにのまがたま|Yasakani no Magatama}}
+* {{sense|all three imperial regalia}} {{ja-l|三種の神器|さんしゅのしんき|Sanshu no Shinki}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|璽の御筥|しるしのみはこ|shirushi no mihako}}: the [[box]] containing the {{ja-l|八尺瓊勾玉||Yasakani no Magatama}}, one of the [[sacred]] [[treasure]]s comprising the [[w:Imperial Regalia of Japan|Imperial Regalia of Japan]]; by extension, {{ja-l|八尺瓊勾玉||Yasakani no Magatama}} itself
+{{der-mid}}
+* {{ja-l|天つ璽|あまつしるし|ama tsu shirushi}}: the [[mark]] or [[borderline]] separating the [[earthly]] [[realm]] from the [[heavenly]] realm; an item received from the [[god]]s as [[proof]] of [[imperial]] [[status]]
+* {{ja-l|御璽|みしるし|mishirushi}}: the [[sacred]] [[w:Imperial Regalia of Japan|Imperial Regalia of Japan]] that [[symbolize]] [[imperial]] [[succession]]
+{{der-bottom}}
+
+===Etymology 3===
+Compound of {{prefix|lang=ja|sort=みしるし|御|tr1=mi|pos1=honorific prefix|璽|tr2=shirushi|t2=imperial mark, seal, or sigil}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[miɕiɾ̠ɯᵝɕi]}}
+
+====Alternative forms====
+* {{ja-l|御璽}}, {{ja-l|御印}}
+
+====Noun====
+{{ja-noun|みしるし}}
+
+# a [[mark]] or [[seal]] indicating [[imperial]] [[status]]
+# a [[sacred]] item indicating [[imperial]] [[status]]
+# the [[emperor]]'s [[personal]] [[seal]] or [[sigil]]
+
+=====Synonyms=====
+* {{sense|imperial seal}} {{ja-l|印璽|いんじ|inji}}, {{ja-l|御璽|ぎょじ|gyoji}}
+* {{sense|sacred item}} {{ja-l|神器|しんき|shinki}}
+* {{sense|emperor's seal}} {{ja-l|印璽|いんじ|inji}}, {{ja-l|御璽|ぎょじ|gyoji}}, {{ja-l|璽符|じふ|jifu}}, {{ja-l|宝璽|ほうじ|hōji}}, {{ja-l|霊璽|れいじ|reiji}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=새|eumhun=|rv=sae|mr=sae|y=say}}
+
+# [[rainbow]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tỉ]], [[tỷ]]|rs=玉14}}
+
+# {{defn|lang=vi|sort=玉14}}
+
+[[fr:璽]]
+[[ko:璽]]
+[[hu:璽]]
+[[mg:璽]]
+[[ja:璽]]
+[[pl:璽]]
+[[th:璽]]
+[[chr:璽]]
+[[zh:璽]]

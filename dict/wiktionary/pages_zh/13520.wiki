@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|大|弓|t1=big|t2=bow|ls=ic}}.
+
+===Han character===
+{{Han char|rn=37|rad=大|as=03|sn=6|four=50032|canj=KN,XKN|ids=⿻大弓}}
+
+# an [[ancient]] [[tribe]] in [[southwest]] [[China]]
+# Eastern [[foreigner]]
+
+====Derived terms====
+* {{l|mul|姨}}, {{l|mul|咦}}, {{l|mul|胰}}, {{l|mul|蛦}}, {{l|mul|桋}}, {{l|mul|跠}}, {{l|mul|鮧}}, {{l|mul|侇}}, {{l|mul|峓}}, {{l|mul|恞}}, {{l|mul|痍}}, {{l|mul|洟}}, {{l|mul|羠}}, {{l|mul|鴺}}, {{l|mul|荑}}, {{l|mul|𢓡}}
+
+====References====
+* {{Han ref|kx=0249.150|dkj=05852|dj=0509.070|hdz=10527.050|uh=5937|ud=22839|bh=A669|bd=42601}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yí
+|c=ji4
+|mn=qz,xm,zz:thâi/qz,tw,xm,zz:î
+|mn_note=thâi - vernacular; î - literary
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# Eastern [[foreigner]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=大03}}
+
+# {{defn|lang=ja|sort=大03}}
+
+====Readings====
+* {{ja-readings|on=[[い]] (i)|kun=[[たいらげる]] (tairageru), [[ころす]] (korosu), [[えびす]] (ebisu)}}
+
+====Compounds====
+* [[蝦夷]] ([[えみし]], [[emishi]]; [[えみす]], [[emisu]]; [[えびす]], [[ebisu]]; [[えぞ]], [[ezo]])
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=이|rv=i|mr=i}}
+
+# {{defn|lang=ko|sort=大03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dì]], [[dai]], [[di]], [[gì]], [[rợ]]|rs=大03}}
+
+# {{defn|lang=vi|sort=大03}}
+
+[[fr:夷]]
+[[ko:夷]]
+[[li:夷]]
+[[hu:夷]]
+[[mg:夷]]
+[[ja:夷]]
+[[no:夷]]
+[[pl:夷]]
+[[th:夷]]
+[[zh:夷]]

@@ -1,0 +1,92 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=10|sn=16|four=44331|canj=TNEF|ids=⿱艹烝}}
+
+====References====
+* {{Han ref|kx=1050.070|dkj=31618|dj=1511.140|hdz=53273.040|uh=84B8|ud=33976|bh=BB5D|bd=47965}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhēng
+|c=zing1
+|mn=cheng
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[evaporate]]
+# {{lb|zh|cooking}} to [[steam]]
+#: {{zh-l|蒸餃}}
+# a [[torch]] made of [[hemp]] stalks or bamboo and wood in ancient times
+#: {{zh-l|蒸燭}}
+# small pieces of firewood
+
+===Compounds===
+* {{zh-l|清蒸}}
+
+===See also===
+* {{zh-l|燉}}
+* {{zh-l|燴}}
+* {{zh-l|扒|tr=pá}}
+
+===References===
+* [http://zisea.com/htm/84/84B8.htm yedict.com (叶典)]
+* MDBG
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=艸10}}
+
+# {{defn|lang=ja|sort=艸10}}
+
+====Readings====
+* {{ja-readings|goon=[[しょう]] (shō) {{non-joyo-reading}}|kanon=[[しょう]] (shō) {{non-joyo-reading}}|toon=[[せい]] (sei) {{non-joyo-reading}}|kanyoon=[[じょう]] (jō)|kun=[[むす]] (musu), [[おがら]] (ogara), [[むらす]] (murasu)|nanori=}}
+
+====Derived terms====
+* {{ja-r|蒸す|むす}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=증|eumhun=|rv=jeung|mr=chŭng|y=cung}}
+
+# {{defn|lang=ko|sort=艸10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chưng]], [[chừng]]|rs=艸10}}
+
+# {{defn|lang=vi|sort=艸10}}
+
+[[fr:蒸]]
+[[ko:蒸]]
+[[hu:蒸]]
+[[mg:蒸]]
+[[ja:蒸]]
+[[no:蒸]]
+[[pl:蒸]]
+[[th:蒸]]
+[[zh:蒸]]

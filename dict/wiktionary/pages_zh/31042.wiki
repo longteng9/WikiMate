@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|千}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=177|rad=革|as=15|sn=24|four=41531|canj=TJYMU}}
+
+# [[swing]]
+
+====References====
+* {{Han ref|kx=1392.290|dkj=43075|dj=1907.200|hdz=74352.190|uh=97C6|ud=38854|bh=C648|bd=50760}}
+
+----
+
+==Chinese==
+{{zh-forms|s=千}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiān
+|c=cin1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|打鞦韆|水鞦韆|盪鞦韆|鞦韆}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=革15}}
+
+# {{defn|lang=ja|sort=革15}}
+
+====Readings====
+* {{ja-readings|goon=[[せん]] (sen)|kanon=[[せん]] (sen)|kun=[[とる]] (toru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=천|eumhun=|rv=cheon|mr=ch'ŏn|y=chen}}
+
+# {{defn|lang=ko|sort=革15}}
+
+[[fr:韆]]
+[[hu:韆]]
+[[mg:韆]]
+[[ja:韆]]
+[[pl:韆]]
+[[th:韆]]
+[[zh:韆]]

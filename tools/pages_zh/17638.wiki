@@ -1,0 +1,97 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=07|sn=11|four=40941|canj=DYTJ,XDYTJ|ids=⿰木辛}}
+
+====References====
+* {{Han ref|kx=0528.250|dkj=14845|dj=0917.130|hdz=21219.030|uh=6893|ud=26771|bh=B1EA|bd=45546}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zǐ
+|c=zi2
+|mn=qz:chír/xm,zz:chú
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{vern|yellow catalpa}} or {{vern|Chinese catalpa}} ({{taxlink|Catalpa ovata|species|noshow=1}})
+#: {{zh-l|付木}}
+# [[craftsman]] who [[produce]]s [[wooden]] [[item]]s
+#: {{zh-l|梓匠}}
+# [[hometown]]
+# [[printing]] [[block]]
+#: {{zh-l|付梓}}
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|上梓|付梓|吳敬梓|喬梓|杞梓|桑梓|桑梓之邦|梓人|梓匠|梓匠輪輿|梓器|梓宮|梓材|梓鄉|梓里|橋梓|荊南杞梓|賢喬梓|鄉梓}}
+
+===References===
+* {{R:twedu|A01935}}
+* [http://www.zdic.net/z/1b/js/6893.htm zdic.net (Han Dian)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木07}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[あずさ]] (azusa)}}
+
+===Etymology===
+{{ja-kanjitab|あずさ|yomi=k}}
+
+====Noun====
+{{ja-noun|あずさ|アズサ}}
+
+# {{vern|Japanese cherry birch|pedia=1}}, {{taxlink|Betula grossa|species|noshow=1}}
+# printing [[block]]
+
+====Proper noun====
+{{ja-pos|proper noun|あずさ}}
+
+# {{given name|female|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=재|eumhun=|rv=jae|mr=chae|y=cay}}
+
+# {{defn|lang=ko|sort=木07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tử]]|rs=木07}}
+
+# {{defn|vi}}
+
+[[fr:梓]]
+[[hi:梓]]
+[[la:梓]]
+[[hu:梓]]
+[[mg:梓]]
+[[ja:梓]]
+[[pl:梓]]
+[[th:梓]]
+[[zh:梓]]

@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|怿}}
+==Translingual==
+
+===Etymology===
+{{Han compound|心|睪|c1=s|c2=p|t1=heart|ls=psc}}
+
+===Han character===
+{{Han char|rn=61|rad=心|as=13|sn=16|four=96041|canj=PWLJ|ids=⿰忄睪}}
+
+# [[enjoy]], [[be]] [[glad]], be [[pleased]]
+
+====References====
+* {{Han ref|kx=0406.010|dkj=11334|dj=0747.010|hdz=42361.030|uh=61CC|ud=25036|bh=E97D|bd=59773}}
+
+----
+
+==Chinese==
+{{zh-forms|s=怿}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=jik6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|悅懌|不懌|夷懌|懌懷|闓懌}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心13}}
+
+# {{defn|lang=ja|sort=心13}}
+
+====Readings====
+* {{ja-readings|goon=[[やく]] (yaku)|kanon=[[えき]] (eki)|kun=[[よろこぶ]] (yorokobu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=역|eumhun=|rv=yeok|mr=yŏk|y=yek}}
+
+# {{defn|lang=ko|sort=心13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|dịch|rs=心13}}
+
+# {{defn|lang=vi|sort=心13}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=61cc Nom Foundation]
+
+[[fr:懌]]
+[[li:懌]]
+[[hu:懌]]
+[[ja:懌]]
+[[pl:懌]]
+[[th:懌]]
+[[zh:懌]]

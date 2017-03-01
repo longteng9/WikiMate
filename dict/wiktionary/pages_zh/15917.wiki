@@ -1,0 +1,91 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=62|rad=戈|as=03|sn=7|four=53400|canj=IT|ids=⿹戈廾}}
+
+# [[warn]], [[caution]], [[admonish]]
+
+====Derived characters====
+* [[械]]
+
+====See also====
+* {{l|mul|賊}} <!-- Graphically similar component -->
+
+====References====
+* {{Han ref|kx=0412.050|dkj=11548|dj=0754.040|hdz=21400.050|uh=6212|ud=25106|bh=A7D9|bd=42969}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|戈|t1=halberd|廾|t2=hands}} – to hold up a weapon as warning.
+
+===Pronunciation===
+{{zh-pron
+|m=jiè
+|m-s=jiai4
+|c=gaai3
+|mn=kài
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|三戒|不戒|五戒|作持戒|傳戒|儆戒|八戒|具戒|具足戒|力戒|勒戒|勸善戒惡|勸戒|十戒|受戒|告戒|天戒|小乘戒|履霜之戒|幽冥戒|引以為戒|後車之戒|懲一戒百|懲戒|懲戒處分|懿戒|戒備|戒具|戒刀|戒勉|戒口|戒嚴|戒嚴令|戒嚴法|戒塗|戒壇|戒尺|戒律|戒心|戒忌|戒惕|戒懼|戒指|戒掉|戒敕|戒方|戒旦|戒書|戒條|戒毒|戒法|戒牒|戒相|戒石|戒絕|戒臘|戒菸|戒葷|戒行|戒誨|戒護|戒賭|戒酒|戒除|戒飭|戒驕戒躁|戒體|持戒|持滿戒盈|持齋受戒|摩頂受戒|敕戒|止持戒|殺戒|法戒|清規戒律|犯戒|省戒|破戒|禁戒|結婚戒指|色戒|菩薩戒|覆車之戒|覆車當戒|規戒|說戒|諄諄告戒|警戒|警戒線|警戒色|豬八戒|酒戒|鏡戒|鑑戒|鑒戒|鑽戒|開戒|齋戒|齋戒沐浴}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=戈03}}
+
+# commandment
+
+====Readings====
+* {{ja-readings|goon=[[け]] (ke) {{non-joyo-reading}}|kanon=[[かい]] (kai)|kun=[[いましめる]] (imashimeru), [[いましめ]] (imashime)}}
+
+====Compounds====
+* [[戒告]]
+* [[十戒]]
+* [[教戒]]
+* [[訓戒]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=계|eumhun=|rv=gye|mr=kye|y=kyey}}
+
+# {{defn|lang=ko|sort=戈03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|giới|rs=戈03}}
+
+# {{defn|lang=vi|sort=戈03}}
+
+[[fr:戒]]
+[[ko:戒]]
+[[hu:戒]]
+[[mg:戒]]
+[[ms:戒]]
+[[ja:戒]]
+[[no:戒]]
+[[pl:戒]]
+[[th:戒]]
+[[zh:戒]]

@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|たい|かん|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|たいかん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|たいかん|kyu=體感}}
+
+# feeling in the body
+
+====Compounds====
+* {{l|ja|体感温度}}
+
+===Verb===
+{{ja-verb-suru|たいかん|kyu=體感}}
+
+# to feel in the body
+
+====Conjugation====
+{{ja-suru|たいかん}}
+
+===References===
+<references/>

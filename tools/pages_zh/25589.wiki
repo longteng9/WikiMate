@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=13|sn=19|four=44430|canj=THBK|ids=⿱艹奧}}
+
+====References====
+{{Han ref|kx=1060.010|dkj=32072|dj=1523.330|hdz=53303.100|uh=8581}}
+
+----
+==Chinese==
+{{zh-forms}}
+{{zh-wp}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=yù
+|c=juk1
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[vine]]
+
+=====Compounds=====
+{{zh-der|蘡薁}}
+
+===Etymology 2===
+{{bor|zh|en|azulene}}.
+
+====Pronunciation====
+{{zh-pron
+|m=ào
+}}
+
+====Noun====
+{{zh-hanzi}}
+
+# {{lb|zh|organic compound}} [[azulene]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=艸13}}
+
+# {{defn|lang=ja|sort=艸13}}
+
+====Readings====
+{{ja-readings|goon=[[いく]] (iku)|kanon=[[いく]] (iku)|kun=[[にわうめ]] (niwaume)}}
+
+====Compounds====
+* {{ja-r|蘡薁|えびづる}}
+* {{ja-r|蘡薁虫|えびづるむし}}
+
+[[fr:薁]]
+[[hu:薁]]
+[[mg:薁]]
+[[pl:薁]]
+[[th:薁]]
+[[zh:薁]]

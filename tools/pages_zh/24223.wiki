@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|聋}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=128|rad=耳|as=16|sn=22|four=01401|canj=YPSJ|ids=⿱龍耳}}
+
+# [[deaf]]
+
+====References====
+* {{Han ref|kx=0970.260|dkj=29212|dj=1422.140|hdz=42800.050|uh=807E|ud=32894|bh=C5A4|bd=50596}}
+
+----
+
+==Chinese==
+{{zh-forms|s=聋}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lóng
+|c=lung4
+|h=pfs=lûng
+|md=
+|mn=lâng
+|w=
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[deaf]]
+
+====Usage notes====
+* {{zh-l|聾}} can be used as a stand-alone adjective. However, the term {{zh-l|耳聾}} may occasionally be used instead due to homophony with {{zh-l|龍|dragon}}.
+
+====Synonyms====
+* {{zh-l|耳聾}}
+
+====Compounds====
+* {{zh-l|聾人}}
+* {{zh-l|耳聾}}
+* {{zh-l|臭耳聾}}
+
+===See also===
+* {{zh-l|盲|blind}}, {{zh-l|啞|mute}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=9|rs=耳16}}
+
+# {{defn|lang=ja|sort=耳16}}
+
+====Readings====
+* {{ja-readings|on=[[ろう]] (rō)|kun=[[つんぼ]] (tsunbo)}}
+
+====Compounds====
+* [[聾唖]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[롱]]>[[농]]|eumhun=|rv=rong>nong|mr=rong>nong|y=long>nong}}
+
+# {{defn|lang=ko|sort=耳16}}
+
+[[fr:聾]]
+[[ko:聾]]
+[[kn:聾]]
+[[ka:聾]]
+[[hu:聾]]
+[[mg:聾]]
+[[ja:聾]]
+[[pl:聾]]
+[[ru:聾]]
+[[th:聾]]
+[[chr:聾]]
+[[zh:聾]]

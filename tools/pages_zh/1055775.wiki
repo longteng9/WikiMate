@@ -1,0 +1,57 @@
+{{also|白鹭}}
+==Chinese==
+{{zh-forms|s=白鹭}}
+
+===Pronunciation===
+{{zh-pron
+|m=báilù
+|c=baak6 lou6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[egret]] (''[[w:Little Egret|Egretta garzetta]]'')
+
+===References===
+* {{pedialite|白鷺|lang=zh}}
+* {{pedialite|Little Egret}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|はく|ろ|yomi=o}}
+{{ja-kanjitab|しら|さぎ|yomi=k}}
+{{compound|白|tr1=[[shira]]|t1=[[white]]|鷺|tr2=[[sagi]]|t2=[[heron]]; [[egret]]|lang=ja|sort=しらさぎ}}
+
+===Pronunciation===
+{{ja-pron|しらさぎ|acc=h|acc_ref=NHK,DJR|y=k}}
+{{ja-pron|はくろ|acc=a|acc_ref=DJR|y=ko}}
+
+===Noun===
+{{ja-noun|しらさぎ|シラサギ|はくろ|ハクロ}}
+
+# [[egret]] {{gloss|any of various [[wading bird]]s of the [[genera]] ''[[Egretta]]'' or ''[[Ardea]]''}}
+
+===References===
+<references/>
+[[Category:ja:Herons|しらさぎ]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=백로}}
+
+# {{hanja form of|백로}}
+
+[[ko:白鷺]]
+[[lt:白鷺]]
+[[hu:白鷺]]
+[[mg:白鷺]]

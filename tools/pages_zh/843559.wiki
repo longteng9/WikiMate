@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+{{calque|zh|etyl lang=af|etyl term=erdvark|etyl t=[[earth]] [[pig]]|土|豚|t1=[[earth]]|t2=[[suckling]] [[pig]]}}
+
+===Pronunciation===
+{{zh-pron
+|m=tǔtún|c=tou2 tyun4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# an [[aardvark]] {{gloss|mammal}}
+
+===See also===
+* {{zh-l|土狼|[[aardwolf]]}}
+
+{{zh-cat|African insectivores}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja|ツチブタ}}
+{{ja-kanjitab|つち|ぶた|yomi=k}}
+
+===Etymology===
+{{cal|ja|etyl lang=af|etyl term=erdvark|etyl t=[[earth]] [[pig]]|土|豚|t1=[[earth]]|tr1=tsuchi|tr2=buta|t2=[[pig]]|sort=つちぶた}}
+
+===Pronunciation===
+{{ja-pron|y=k|つちぶた|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|つちぶた|ツチブタ}}
+
+# an [[aardvark]] {{gl|mammal}}
+
+===References===
+<references/>
+
+{{C|ja|African insectivores|sort=つちぶた}}
+
+[[hu:土豚]]
+[[nl:土豚]]
+[[zh:土豚]]

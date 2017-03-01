@@ -1,0 +1,79 @@
+==Chinese==
+
+===Pronunciation 1===
+{{zh-forms}}
+{{zh-pron
+|m=jiāoyì
+|c=gaau1 jik6
+|h=pfs=kâu-yi̍t/kâu-yi
+|mn=xm,zz,tw:kau-e̍k/qz:kau-ia̍k
+|ma=Zh-jiaoyì.ogg
+|cat=v,n
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[trade]]; to [[transact]]; to make a [[business]] [[deal]]
+
+====Noun====
+{{zh-noun}}
+
+# trade; [[transaction]]; business deal
+
+=====Derived terms=====
+{{zh-der|內部交易|內幕交易|內線交易}}
+
+===Pronunciation 2===
+{{zh-forms|alt=交頁}}
+{{zh-pron
+|mn=xm,zz,tw:ka-ia̍h
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}} {{lb|zh|Min Nan}}
+
+# {{lb|zh|of a business}} [[flourishing]]; [[prosperous]]
+# {{lb|zh|of a product}} [[popular]]; having good [[sales]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|えき|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|こうえき|yomi=o}}
+
+===Noun===
+{{ja-noun|こうえき}}
+
+# [[trade]], [[transaction]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|こうえき}}
+
+# to engage in trade
+
+====Conjugation====
+{{ja-suru|こうえき}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=교역}}
+
+# {{hanja form of|교역}}
+
+[[zh-min-nan:交易]]
+[[fr:交易]]
+[[ko:交易]]
+[[li:交易]]
+[[hu:交易]]
+[[mg:交易]]
+[[ja:交易]]
+[[uz:交易]]
+[[ru:交易]]
+[[chr:交易]]
+[[zh:交易]]

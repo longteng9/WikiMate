@@ -1,0 +1,28 @@
+{{also|运算}}
+==Chinese==
+{{zh-forms|s=运算}}
+
+===Pronunciation===
+{{zh-pron
+|m=yùnsuàn
+|c=wan6 syun3
+|mn=qz,tw,xm,zz:ūn-soàn/qz,tw,xm:ūn-sǹg/zz:ūn-sùiⁿ
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[unary operation]]
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Advanced Mandarin}} to [[perform]] a [[mathematical]] [[operation]]
+
+====Derived terms====
+* {{l|cmn|雲端運算|tr=yúnduān yùnsuàn}}
+
+[[zh-min-nan:運算]]
+[[ja:運算]]
+[[zh:運算]]

@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=02|sn=7|four=|canj=MRMN|ids=⿰石丁}}
+# [[anchor]]
+# {{lb|zh|Cantonese}} a [[place]]
+
+====References====
+* {{Han ref|kx=0827.040|dkj=24029|dj=1241.060|hdz=42417.030|uh=77F4|ud=30708}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dìng
+|c=deng3,ding3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Synonyms====
+* {{zh-l|碇}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=石02}}
+
+# {{defn|lang=ja|sort=石02}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei)|kun=[[いかり]] (ikari)|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=石02|hanviet=đứa}}
+
+# {{defn|lang=vi|sort=石02}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=77f4 Nom Foundation]
+
+[[fr:矴]]
+[[hu:矴]]
+[[pl:矴]]
+[[th:矴]]
+[[zh:矴]]

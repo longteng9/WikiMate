@@ -1,0 +1,58 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=huìxīng
+|c=seoi6 sing1
+|mn=hūi-chheⁿ/hūi-chhiⁿ/hūi-seng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|astronomy}} [[comet]]
+
+{{zh-cat|Astronomy}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|すい|せい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|すいせい|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|すいせい}}
+
+# {{lb|ja|astronomy|sort=すいせい}} [[comet]]
+
+====Synonyms====
+* {{ja-r|箒星|ほうきぼし}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=혜성}}
+
+# {{hanja form of|혜성|[[comet]]}}
+
+[[cs:彗星]]
+[[el:彗星]]
+[[fr:彗星]]
+[[lo:彗星]]
+[[ja:彗星]]
+[[pt:彗星]]
+[[sv:彗星]]
+[[ug:彗星]]
+[[zh:彗星]]

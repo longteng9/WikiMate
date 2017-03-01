@@ -1,0 +1,98 @@
+{{character info/new}}
+{{also|隄}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=170|rad=阜|as=06|sn=9|four=77232|canj=NLAV|ids=⿰阝艮}}
+
+====References====
+* {{Han ref|kx=1350.070|dkj=41627|dj=1852.110|hdz=64128.060|uh=9650|ud=38480|bh=ADAD|bd=44461}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiàn
+|c=haan6
+|h=
+|mn=qz:hǎn/tw,xm:hān/tw,xm,zz:ān
+|mn_note=hǎn/hān/ān - literary, ān - vernacular (Taiwanese, Xiamen)
+|w=
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[boundary]], [[limit]], [[line]]
+
+====References====
+* (''Min Nan'') {{thcwd|5524}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=阜06}}
+
+# [[limit]]
+
+====Readings====
+{{ja-readings
+|goon=[[げん]] (gen)
+|kanon=[[かん]] (kan) {{non-joyo-reading}}
+|kun=[[かぎる|かぎ.る]] (kagi.ru), [[かぎり|かぎ.り]] (kagi.ri), [[かぎり]] (kagiri), [[きり]] (kiri) {{qualifier|rare}}
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|制限|せいげん}}
+* {{ja-r|権限|けんげん}}
+* {{ja-r|限定|げんてい}}
+* {{ja-r|限度|げんど}}
+* {{ja-r|無限|むげん}}
+* {{ja-r|分限|ぶんげん}}
+* {{ja-r|有限|ゆうげん}}
+* {{ja-r|上限|じょうげん}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=한|eumhun=|rv=han|mr=han|y=han}}
+
+# {{defn|lang=ko|sort=阜06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hạn]], [[hẹn]], [[giận]]|rs=阜06}}
+
+# {{defn|lang=vi|sort=阜06}}
+
+[[zh-min-nan:限]]
+[[fr:限]]
+[[ko:限]]
+[[lt:限]]
+[[hu:限]]
+[[mg:限]]
+[[ja:限]]
+[[no:限]]
+[[pl:限]]
+[[th:限]]
+[[vi:限]]
+[[zh:限]]

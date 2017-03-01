@@ -1,0 +1,217 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=85|rad=水|as=05|sn=8|four=34131|canj=EGI|ids=⿰氵去}}
+
+====References====
+* {{Han ref|kx=0616.110|dkj=17290|dj=1010.020|hdz=31579.040|uh=6CD5|ud=27861|bh=AA6B|bd=43627}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+Simplified from earlier {{zh-l|*灋}}, which was originally used to represent {{och-l|廢|to cast aside; to abrogate}}. {{och-l|去}} in this character is probably ideogrammatic, not phonetic.
+
+===Etymology===
+Sino-Tibetan. Cognate with {{cog|bo|བབས||shape, form, appearance}}, {{m|bo|དབྱིབས||shape, form, figure}}. Possibly cognate with {{och-l|凡|all, general, every; pattern, general rule}}; see there for more.
+
+===Pronunciation===
+{{zh-pron
+|m=fǎ,fā,fá,fà
+|m_note=fǎ - normal pronunciation; fā - used in some colloquial words (e.g. {{zh-l|*法兒|method}} in {{zh-l|[[沒]][[法兒]]}} and {{zh-l|[[想]][[個]][[法兒]]}}); fá - used in {{zh-l|*法子|method}} and {{zh-l|*法兒|method}}; fà - common Taiwan variant in {{zh-l|*法國|France}}
+|c=faat3
+|h=pfs=fap
+|md=huák
+|mn=hoat
+|mn-t=huab4
+|w=4faq
+|mc=y
+|oc=y
+|cat=n,a,v,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[law]]; [[rule]]; [[regulation]]; [[statute]]
+# [[norm]]; [[standard]]; [[model]]; [[example]]
+# [[method]]; [[way]]; [[solution]]
+# {{lb|zh|Buddhism}} [[dharma]]; [[principle]] of the [[universe]]; [[teaching]]s of [[Buddha]]
+# [[Buddhist]]; relating to [[Buddhism]]
+# {{†}} to [[imitate]]; to [[emulate]]
+# {{zh-short|*法國|France; French}}
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|中法|乘法|伏法|佛法|作法|依法|做法|傳法|公法|兵法|刑法|劍法|加法|句法|司法|吃法|合法|唱法|國法|土法|執法|守法|寫法|弘法|律法|想法|憲法|戰法|戲法|手法|打法|招法|拳法|拼法|指法|提法|操法|政法|效法|教法|數法|文法|方法|普法|曆法|書法|服法|槍法|正法|步法|歷法|民法|沒法|法事|法人|法令|法例|法像|法典|法制|法則|法力|法名|法商|法器|法國|法場|法外|法子|法學|法官|法定|法家|法寶|法帖|法師|法幣|法度|法庫|法庭|法式|法律|法拉|法政|法文|法旨|法書|法會|法案|法棍|法槌|法權|法治|法海|法源|法王|法理|法盲|法相|法筵|法紀|法統|法網|法線|法老|法航|法號|法螺|法術|法製|法西斯|法規|法語|法警|法身|法軍|法輪|法辦|法郎|法醫|法門|法院|海法|減法|滷法|無法|煮法|熨法|犯法|王法|環法|用法|畫法|療法|盲法|看法|禮法|私法|立法|竺法|筆法|算法|篩法|約法|英法|著法|藐法|補法|解法|記法|設法|詞法|語法|說法|論法|讀法|變法|跑法|身法|軍法|辦法|逆序|違法|針法|鐵法|除法|雅法|非法|食法|骨法|魔法}}
+
+===Descendants===
+{{CJKV||ほう|법|pháp}}
+''Others'':
+* → Proto-Tai
+** Lao: {{l|lo|ແບບ||form; model, standard, example; method; style, manner; brand, type}}
+** Thai: {{l|th|แบบ||kind; design, pattern; style; type; model}}
+** → Khmer: {{l|km|បែប||kind, sort, model, type; style, form, shape; aspect; method, way, situation, condition}}
+** → Vietnamese: {{l|vi|phép||rule, custom, usage, method; permission, authorisation; magical power}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=水05}}
+
+# [[method]]
+# [[law]]
+# [[rule]]
+# [[principle]]
+# [[model]]
+# [[system]]
+
+====Readings====
+{{ja-readings|kanyoon=[[はっ]] (haQ), [[ほっ]] (hoQ)|goon=[[ほう]] (hō) > [[ほふ]] (hofu)|kanon=[[ほう]] (hō) > [[はふ]] (hafu)|kun=[[のり]] (nori), [[おきて]] (okite), [[のっとる]] (nottoru)|nanori=[[かず]] (kazu), [[つね]] (tsune), [[のり]] (nori), [[はかる]] (hakaru)}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|法号|ほうごう|gloss=a [[dharma]] [[name]]}}
+* {{l|ja|法案}}
+* {{l|ja|法印}}
+* {{l|ja|法衣}}
+* {{l|ja|法医学}}
+* {{l|ja|法王}}
+* {{l|ja|法皇}}
+* {{l|ja|法外}}
+* {{l|ja|法学}}
+* {{l|ja|法規}}
+* {{l|ja|法事}}
+* {{l|ja|法術}}
+* {{l|ja|法人}}
+* {{l|ja|法則}}
+* {{l|ja|法定}}
+{{mid3}}
+* {{l|ja|法廷}}
+* {{l|ja|法典}}
+* {{l|ja|法度}}
+* {{l|ja|法要}}
+* {{l|ja|法螺}}
+* {{l|ja|法力}}
+* {{l|ja|法律}}
+* {{l|ja|法輪}}
+* {{l|ja|加法}}
+* {{l|ja|家法}}
+* {{l|ja|減法}}
+* {{l|ja|憲法}}
+* {{l|ja|刑法}}
+{{mid3}}
+* {{l|ja|公法}}
+* {{l|ja|国法}}
+* {{l|ja|国際法}}
+* {{l|ja|司法}}
+* {{l|ja|私法}}
+* {{l|ja|除法}}
+* {{l|ja|商法}}
+* {{l|ja|乗法}}
+* {{l|ja|定法}}
+* {{l|ja|民法}}
+* {{ja-r|寸法|すんぽう|gloss=[[dimension]], [[size]]}}
+{{bottom}}
+
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|ほう|yomi=o}}
+{{der|ja|ltc|法|sort=ほう}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|ほう|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|ほう|hhira=はふ}}
+
+# [[principle]]
+# [[law]]
+# [[code]] of law
+# [[method]]
+# [[etiquette]]
+# {{lb|ja|Buddhism|sort=ほう}} [[dharma]]
+# {{lb|ja|grammar|sort=ほう}} [[mood]]
+# {{lb|ja|mathematics|sort=ほう}} [[divisor]]
+
+=====Derived terms=====
+* {{ja-r|方法|ほうほう|[[way]], [[method]], [[manner]]}}
+
+===Etymology 2===
+{{ja-kanjitab|のり|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|のり|acc=2|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|則}}, {{ja-l|矩}}
+
+====Noun====
+{{ja-noun|のり}}
+
+# [[law]]
+
+===Etymology 3===
+{{ja-kanjitab|ふらん|yomi=irr}}
+From {{der|ja|fr|franc|sort=ふらん}}.<ref name="DJR">{{R:Daijirin}}</ref><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=irr|フラン|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|フラン}}
+
+# {{alternative spelling of|フラン|lang=ja}}
+
+===References===
+<references/>
+:* {{R:Shogakukan}}
+
+[[Category:ja:Currency|ふらん]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[법]]|eumhun=|rv=beop|mr=pŏp|y=pep}}
+
+# {{defn|lang=ko|sort=水05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[pháp]], [[phấp]], [[phép]], [[phăm]], [[phắp]]|rs=水05}}
+
+# {{defn|lang=vi|sort=水05}}
+
+[[zh-min-nan:法]]
+[[fr:法]]
+[[ko:法]]
+[[it:法]]
+[[ky:法]]
+[[lt:法]]
+[[li:法]]
+[[hu:法]]
+[[mg:法]]
+[[ms:法]]
+[[nl:法]]
+[[ja:法]]
+[[no:法]]
+[[pl:法]]
+[[pt:法]]
+[[ru:法]]
+[[th:法]]
+[[chr:法]]
+[[uk:法]]
+[[zh:法]]

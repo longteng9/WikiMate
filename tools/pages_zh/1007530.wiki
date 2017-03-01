@@ -1,0 +1,62 @@
+{{also|入场}}
+==Chinese==
+{{zh-forms|s=入场}}
+
+===Pronunciation===
+{{zh-pron
+|m=rù場
+|c=jap6 coeng4
+|mn=qz,tp,xm:li̍p-tiûⁿ/kh:ji̍p-tiûⁿ/zz:ji̍p-tiôⁿ
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[enter]] a [[venue]]
+# to [[take part]] in an [[examination]]
+
+====Derived terms====
+{{zh-der|入場券}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|にゅう|じょう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|にゅうじょう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|にゅうじょう}}
+
+# [[entering]], coming in
+
+====Antonyms====
+* {{ja-r|退場|たいじょう}}: [[exit]]
+
+===Verb===
+{{ja-verb-suru|にゅうじょう}}
+
+# [[enter]]
+
+====Conjugation====
+{{ja-suru|にゅうじょう}}
+
+====Antonyms====
+* {{ja-r|退場する|linkto=退場|たいじょう する|gloss=[[leave]], [[exit]]}}
+
+===Related terms===
+* {{ja-r|出場|しゅつじょう}}: (n.) [[attending]] a [[race]]; [[attending]] a [[competition]]
+* {{ja-r|登場|とうじょう}}: (n.) [[appearing]]; showing up
+
+===References===
+<references/>
+
+[[zh-min-nan:入場]]
+[[fr:入場]]
+[[hu:入場]]
+[[mg:入場]]
+[[ja:入場]]
+[[chr:入場]]
+[[zh:入場]]

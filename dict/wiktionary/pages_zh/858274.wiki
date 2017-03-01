@@ -1,0 +1,78 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=píngdì
+|c=ping4 dei6
+|h=pfs=phiàng-thi
+|mn=kh,qz,xm:pêng-tē/tp:pêng-tōe/kh,zz:pêⁿ-tē/qz,tp,xm:pîⁿ-tōe
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[level]] [[ground]]; [[flat]] [[ground]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|ひら|ち|yomi=y}}
+{{rfe|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|ひらち|acc=h|acc_ref=NHK|y=y}}
+
+====Noun====
+{{ja-noun|ひらち}}
+
+# [[flat]] [[land]]
+[[Category:ja:Landforms|ひらち]]
+
+===Etymology 2===
+{{ja-kanjitab|ひら|じ|yomi=y}}
+{{rfe|lang=ja}}
+
+====Noun====
+{{ja-noun|ひらじ}}
+
+# [[plain weave]] [[fabric]]
+# part of a [[katana]] between its [[edge]] and [[ridge]]
+{{catlangcode|ja|Fabrics|sort=ひらじ|Swords}}
+
+===Etymology 3===
+{{ja-kanjitab|へい|ち|yomi=o}}
+{{rfe|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|へいち|acc=h|acc_ref=NHK|y=ko}}
+
+====Noun====
+{{ja-noun|へいち}}
+
+# [[flat]] [[land]]
+# [[plains]]
+[[Category:ja:Landforms|へいち]]
+
+===Etymology 4===
+{{ja-kanjitab|へい|じ|yomi=o}}
+{{rfe|lang=ja}}
+
+====Noun====
+{{ja-noun|へいじ}}
+
+# {{lb|ja|archaic|sort=へいじ}} [[flat]] [[land]]
+
+===References===
+<references/>
+
+[[Category:Japanese words with multiple readings]]
+[[fr:平地]]
+[[ko:平地]]
+[[hu:平地]]
+[[mg:平地]]
+[[chr:平地]]
+[[zh:平地]]

@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|牵}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=93|rad=牛|as=07|sn=11|four=00503|canj=YVBQ}}
+
+====References====
+* {{Han ref|kx=0701.020|dkj=20025|dj=1114.110|hdz=31811.110|uh=727D|ud=29309|bh=B26F|bd=45679}}
+
+----
+
+==Chinese==
+{{zh-forms|s=牵}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiān
+|c=hin1
+|h=pfs=khiên
+|md=
+|mn=khan/khian
+|mn_note=khan - vernacular; khian - literary
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[drag]], [[pull]], [[lead]] by [[hand]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=牛07}}
+
+# {{defn|lang=ja|sort=牛07}}
+
+====Readings====
+* {{ja-readings|goon=[[けん]] (ken)|kanon=[[けん]] (ken)|kun=[[ひく]] (hiku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=견|eumhun=|rv=gyeon|mr=kyŏn|y=kyen}}
+
+# {{defn|lang=ko|sort=牛07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khiên]], [[khin]]|rs=牛07}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:牽]]
+[[fr:牽]]
+[[ko:牽]]
+[[hu:牽]]
+[[ja:牽]]
+[[pl:牽]]
+[[th:牽]]
+[[zh:牽]]

@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|いち|げき|yomi=on}}
+
+===Noun===
+{{ja-noun|いちげき}}
+
+# a [[single]] [[punch]], a [[hit]], a [[blow]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|いちげき}}
+
+# to [[punch]], to [[strike]], to [[hit]] once
+#* '''1953''', 坂口安吾, 南京虫殺人事件:
+#*: {{ja-usex|とたんにミゾオチを'''一撃'''されてひッくり返った。|とたん に ミゾオチ を '''いちげき''' されて ひッくりかえった。|At the same moment he was knocked flat by a blow to the pit of the stomach.}}
+
+====Conjugation====
+{{ja-suru|いちげき}}
+
+====Derived terms====
+* {{ja-r|一撃の下に|いちげき の もと に}}: by a [[single]] [[blow]]
+
+[[ja:一撃]]

@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|抛}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=05|sn=8|four=54012|canj=QKUS|ids=⿰扌⿺尢力}}
+
+# [[throw away]], [[abandon]], [[reject]]
+
+====References====
+* {{Han ref|kx=0425.030|dkj=11948|dj=0773.070|hdz=31842.020|uh=62CB|ud=25291|bh=A9DF|bd=43487}}
+
+----
+
+==Chinese==
+{{zh-forms|s=抛}}
+
+===Pronunciation===
+{{zh-pron
+|m=pāo
+|c=paau1
+|h=pfs=
+|md=
+|mn=phau/qz,tw,xm:pha/zz:phoa
+|mn_note=phau - literary; pha/phoa - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手05}}
+
+# {{defn|lang=ja|sort=手05}}
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō)|kun=[[なげうつ]] (nageutsu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=포|eumhun=|rv=po|mr=p'o|y=pho}}
+
+# {{defn|lang=ko|sort=手05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phao]]|rs=手05}}
+
+# {{defn|lang=vi|sort=手05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=62cb Nom Foundation]
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:拋]]
+[[fr:拋]]
+[[hu:拋]]
+[[mg:拋]]
+[[ja:拋]]
+[[pl:拋]]
+[[th:拋]]
+[[zh:拋]]

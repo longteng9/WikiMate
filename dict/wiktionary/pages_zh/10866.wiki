@@ -1,0 +1,161 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=8}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=06|sn=8|four=24241|canj=OGDI|ids=⿰亻寺}}
+
+# to [[serve]], to [[attend]] upon
+# [[attendant]], [[servant]]
+
+====References====
+* {{Han ref|kx=0101.260|dkj=00589|dj=0215.070|hdz=10143.170|uh=4F8D|ud=20365|bh=A8CD|bd=43213}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shì
+|c=si6
+|h=pfs=sṳ
+|md=sê
+|mn=qz,xm,zz:sī/qz:sīr/sāi/xm,zz:sū
+|mn_note=sī/sīr - literary; sāi - vernacular; sū - vernacular (俗)
+|w=3zr
+|mc=y
+|oc=y
+|ma=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# wait upon; serve
+
+====Derived terms====
+{{zh-der|中常侍|伏侍|侍中|侍人|侍候|侍兒|侍奉|侍女|侍妾|侍子|侍巾櫛|侍弄|侍役|侍從|侍御|侍應生|侍生|侍立|侍者|侍衛|侍講|侍讀|侍郎|侍醫|俠侍|內侍|奉侍|女侍|姬侍|媵侍|常侍|接侍|散騎常侍|服侍|近侍|選侍|重侍下|閽侍|陪侍|隨侍|鵠侍}}
+
+====References====
+* ''Contemporary Chinese Dictionary'' (Xiandai Hanyu Cidian), Beijing: Commercial Press, 1994
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=人06}}
+
+# {{defn|lang=ja|sort=人06}}
+
+=====Readings=====
+* {{ja-readings|goon=[[じ]] (ji)|kanon=[[し]] (shi)|kun=[[さむらい]] (samurai), [[はべる]] (haberu), [[さぶらう]] (saburau)|nanori=[[ひと]] (hito)}}
+
+=====Compounds=====
+{{der-top}}
+* {{ja-r|侍気質|さむらいかたぎ}}
+* {{ja-r|侍八騎|さむらいはっき}}
+* {{ja-r|侍医|じい}}
+* {{ja-r|侍衛|じえい}}
+* {{ja-r|侍衛長|じえいちょう}}
+* {{ja-r|侍御|じぎょ}}
+* {{ja-r|侍講|じこう}}
+* {{ja-r|侍祭|じさい}}
+* {{ja-r|侍史|じし}}
+* {{ja-r|侍者|じしゃ}}
+* {{ja-r|侍臣|じしん}}
+* {{ja-r|侍従|じじゅう}}
+* {{ja-r|侍従官|じじゅうかん}}
+* {{ja-r|侍従職|じじゅうしょく}}
+* {{ja-r|侍従長|じじゅうちょう}}
+* {{ja-r|侍従武官|じじゅうぶかん}}
+* {{ja-r|侍女|じじょ}}
+* {{ja-r|侍僧|じそう}}
+* {{ja-r|侍読|じどく}}
+* {{ja-r|侍婢|じひ}}
+* {{ja-r|侍立|じりつ}}
+* {{ja-r|田舎侍|いなかざむらい}}
+* {{ja-r|犬侍|いぬざむらい}}
+* {{ja-r|芋侍|いもざむらい}}
+* {{ja-r|近侍|きんじ}}
+* {{ja-r|国侍|くにざむらい}}
+* {{ja-r|典侍|てんじ}}
+* {{ja-r|内侍|ないじ}}
+* {{ja-r|陪侍|ばいじ}}
+* {{ja-r|若侍|わかざむらい}}
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|さぶらい|yomi=k}}
+saburapi > saburaɸi > saburawi > saburai. The nominalized form of the verb {{m|ja|侍う|tr=saburau}}.
+
+====Noun====
+{{ja-noun|さぶらい|hhira=さぶらひ}}
+
+# one who serves nearby; a servant
+# a warrior; [[samurai]]
+#* {{RQ:Nippo Jisho|545}}
+#*: '''Saburai'''. サブライ(侍) 貴族, または,尊敬すべき人〔武士〕.
+
+===Etymology 2===
+{{ja-kanjitab|さむらい|yomi=k}}
+{{wikipedia|lang=ja}}
+saburaɸi > samuraɸi > samurawi > samurai. From earlier {{m|ja|侍|tr=saburahi}}.
+
+====Pronunciation====
+{{ja-pron|さむらい|acc=h|acc_ref=NHK|y=k}}
+
+====Noun====
+{{ja-noun|さむらい|hhira=さむらひ}}
+
+# one who serves nearby; a servant
+# a warrior; [[samurai]]
+
+===References===
+<references/>
+* {{R:Nippo Jisho}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=시|mr=si}}
+
+# {{defn|lang=ko|sort=人06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thị]]|rs=人06}}
+
+# {{defn|lang=vi|sort=人06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f8d Nom Foundation]
+
+[[de:侍]]
+[[fr:侍]]
+[[ko:侍]]
+[[lo:侍]]
+[[la:侍]]
+[[lt:侍]]
+[[hu:侍]]
+[[mg:侍]]
+[[ja:侍]]
+[[no:侍]]
+[[pl:侍]]
+[[ru:侍]]
+[[sv:侍]]
+[[th:侍]]
+[[uk:侍]]
+[[vi:侍]]
+[[zh:侍]]

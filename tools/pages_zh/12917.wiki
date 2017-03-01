@@ -1,0 +1,100 @@
+{{character info/new}}
+{{also|周}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|ls=psc|c1=s|c2=p|囗|古}}.
+
+===Han character===
+{{Han char|rn=31|rad=囗|as=05|sn=8|four=60604|canj=WJR|ids=⿴囗古}}
+
+# to become [[solid]], [[solidify]]
+# [[strength]]
+
+====Derived characters====
+* [[個]] [[箇]]
+
+====References====
+* {{Han ref|kx=0218.030|dkj=04745|dj=0445.230|hdz=10716.090|uh=56FA|ud=22266|bh=A954|bd=43348}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gù
+|c=gu3
+|h=pfs=ku
+|mn=kò͘
+|mn-t=gu3
+|mc=y
+|oc=y
+|ma=
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|固步自封|固辭|固氮|固定|固定匯率|固定價格|固定資產|固陋|固然|固若金湯|固沙林|固守|固態|固體|固體潮|固體電路|固習|固相|固有​​|固執|固著/固着}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=囗05}}
+
+# {{defn|lang=ja|sort=囗05}}
+
+====Readings====
+* {{ja-readings|goon=[[く]] (ku) {{non-joyo-reading}}|kanon=[[こ]] (ko)|kun=[[かためる]] (katameru), [[かため]] (katame), [[かたい]] (katai)}}
+
+====Compounds====
+* {{ja-r|固形|こけい}}
+* {{ja-r|固執|こしつ}}, {{ja-r|固執|こしゅう}}
+* {{ja-r|固守|こしゅ}}
+* {{ja-r|固相|こそう|[[solid phase]]}}
+* {{ja-r|固体|こたい}}
+* {{ja-r|固定|こてい}}
+* {{ja-r|固有|こゆう}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|rv=go|mr=ko}}
+
+# {{defn|lang=ko|sort=囗05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cố]], [[có]], [[cuá]]|rs=囗05}}
+
+# {{defn|lang=vi|sort=囗05}}
+
+[[Category:Kennybot testing category]]
+
+[[fr:固]]
+[[ko:固]]
+[[li:固]]
+[[hu:固]]
+[[mg:固]]
+[[ja:固]]
+[[no:固]]
+[[pl:固]]
+[[ru:固]]
+[[th:固]]
+[[chr:固]]
+[[zh:固]]

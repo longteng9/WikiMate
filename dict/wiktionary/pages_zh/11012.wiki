@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=08|sn=10|four=27234|canj=OLOK|ids=⿰⿰亻丨⿱攵犬 <small>(T)</small>,⿰⿰亻丨⿱夂犬 <small>(GJK)</small>}}
+
+====References====
+* {{Han ref|kx=0107.220|dkj=00762|dj=0229.020|hdz=10175.060|uh=500F|ud=20495|bh=B0BF|bd=45247}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|攸|犬|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shū
+|c=suk1
+|mc=y
+|oc=y
+|ma=
+|cat=a,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[sudden]], [[abrupt]]
+# [[hastily]], [[suddenly]], [[abruptly]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人08}}
+
+# {{defn|lang=ja|sort=人08}}
+
+====Readings====
+* {{ja-readings|on=[[しゅく]] (shuku)|kun=[[たちまち]] (tachimachi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[숙]]|rv=suk|mr=suk}}
+
+# {{defn|lang=ko|sort=人08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|thúc|rs=人08}}
+
+# {{defn|lang=vi|sort=人08}}
+
+[[fr:倏]]
+[[ko:倏]]
+[[li:倏]]
+[[hu:倏]]
+[[mg:倏]]
+[[ja:倏]]
+[[pl:倏]]
+[[th:倏]]
+[[zh:倏]]

@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|yomi=irr|sort=さすが}}
+
+===Etymology===
+The kanji are [[ateji]]. This term is usually written in hiragana.
+
+===Adjectival noun===
+{{ja-adj|decl=na|さすが}}
+
+# as one would expect
+
+====Inflection====
+{{ja-na|さすが}}
+
+===Adverb===
+{{ja-pos|adverb|さすが}}
+
+# [[even so]], [[nevertheless]], with that said
+# [[even]], as ... as it is
+
+====Synonyms====
+* {{sense|even so}} {{l|ja|そうは言うものの}}
+
+[[ja:流石]]

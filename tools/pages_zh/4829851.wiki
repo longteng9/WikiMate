@@ -1,0 +1,25 @@
+{{also|电子伏特}}
+==Chinese==
+{{zh-forms|electron|s=电子伏特|type=22}}
+
+===Etymology===
+{{calque|zh|en|electron volt}}.
+
+===Pronunciation===
+{{zh-pron
+|m=diànzǐ fútè
+|c=din6 zi2 fuk6 dak6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|physics}} [[electron volt]]
+
+====Synonyms====
+* {{zh-l|電子伏}}
+
+[[fr:電子伏特]]
+[[ko:電子伏特]]
+[[ja:電子伏特]]

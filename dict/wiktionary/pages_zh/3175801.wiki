@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yòngtú
+|c=jung6 tou4
+|h=pfs=yung-thù
+|mn=qz,tw,xm,zz:iōng-tô͘/qz,xm:ēng-tô͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[usage]], [[use]], [[application]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|よう|と|yomi=on}}
+
+===Noun===
+{{ja-noun|ようと}}
+
+# [[usage]], [[use]]
+#: {{ja-usex|'''用途'''が限られている。|'''ようと''' が かぎられている。|Its usage is limited.}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=용도}}
+
+# {{hanja form of|용도|[[use]]}}
+
+[[zh-min-nan:用途]]
+[[hu:用途]]
+[[mg:用途]]
+[[fj:用途]]
+[[ja:用途]]
+[[chr:用途]]
+[[zh:用途]]

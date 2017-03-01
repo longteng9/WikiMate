@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{wasei kango||そくおん|sokuon}}
+
+===Pronunciation===
+{{zh-pron
+|m=cùyīn
+|c=cuk1 jam1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# the Japanese [[geminate]] consonant [[っ]]/[[ッ]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|そく|おん|yomi=on}}
+{{wikipedia|Sokuon}}
+
+===Noun===
+{{ja-noun|そくおん}}
+
+# a [[geminate]] consonant
+# the [[kana]] character thereof: {{m|ja|っ}}, {{m|ja|ッ}}
+
+====See also====
+* {{m|ja|っ}}
+* {{m|ja|ッ}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ja:促音]]
+[[zh:促音]]

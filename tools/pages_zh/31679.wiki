@@ -1,0 +1,44 @@
+{{character info/new}}
+{{also|驗|验}}
+==Translingual==
+{{Han simplified forms|驗|験|验}}
+
+===Etymology===
+{{Han simp|驗|f=僉|t=㑒}}; Japanese simplification ({{term|shinjitai}}); compare [[検]], [[険]], [[剣]]. Current form {{Han compound|馬|㑒}}.
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=08|sn=18|four=|canj=SFOMO,XSFOM|ids=⿰馬㑒}}
+
+# [[test]], [[examine]], [[inspect]]
+# [[verify]]
+
+====Related characters====
+* [[検]] [[険]] [[剣]]
+
+====References====
+* {{Han ref|kx=1441.071|dkj=44835|dj=1965.120|hdz=74562.101|uh=9A13|ud=39443}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=馬08|style=s|kyu=驗}}
+
+# {{defn|lang=ja|sort=馬08}}
+
+====Readings====
+* {{ja-readings|goon=[[げん]] (gen)|kanon=[[げん]] (gen)|kanyoon=[[けん]] (ken)|kun=[[しるし]] (shirushi), [[あかし]] (akashi), [[ためす]] (tamesu)}}
+
+====Compounds====
+* {{ja-r|経験|けいけん|gloss=[[experience]]}}
+* {{ja-r|経験値|けいけんち|gloss=[[experience point]]}}
+* {{ja-r|試験|しけん|gloss=[[test]]}}
+
+[[fr:験]]
+[[ko:験]]
+[[hu:験]]
+[[ja:験]]
+[[pl:験]]
+[[th:験]]
+[[zh:験]]

@@ -1,0 +1,65 @@
+{{also|金刚石}}
+==Chinese==
+{{zh-forms|s=金刚石|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīngāngshí
+|c=gam1 gong1 sek6
+|h=pfs=kîm-kong-sa̍k
+|mn=kim-kong-chio̍h
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[diamond]]
+
+====Synonyms====
+* {{sense|gemstone}} {{zh-l|鑽石}}: [[diamond]]
+
+===See also===
+* {{pedialite|lang=zh}}
+
+{{zh-cat|Minerals}}
+{{zh-cat|Gems}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|ダイヤモンド}}
+{{wikipedia|Diamond}}
+{{wikipedia|Diamond (gemstone)}}
+[[File:Rough_diamond.jpg|thumb|250px|{{lang|ja|金剛石}} (''kongōseki''): a rough uncut '''[[diamond]]'''.]]
+</div>
+{{ja-kanjitab|yomi=on|こん|ごう|せき}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=こんごうせき|金剛|tr1=kongō|t1=adamant, extremely strong|石|tr2=seki|t2=stone}}.
+
+===Pronunciation===
+{{ja-pron|yomi=on|こんごうせき|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|こんごうせき}}
+
+# {{lb|ja|mineral|gems|sort=こんごうせき}} a [[diamond]]
+
+====Usage notes====
+Less commonly used than the English-derived term {{ja-r|ダイヤモンド}}.
+
+====Synonyms====
+* {{ja-r|ダイヤモンド}}
+* {{ja-r|ダイヤ}}
+
+===References===
+<references/>
+
+[[ko:金剛石]]
+[[hu:金剛石]]
+[[mg:金剛石]]
+[[ja:金剛石]]
+[[chr:金剛石]]
+[[zh:金剛石]]

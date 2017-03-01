@@ -1,0 +1,27 @@
+==Japanese==
+{{ja-kanjitab|てん|じく|がく|yomi=o}}
+
+===Etymology===
+Compound of {{compound|天竺|楽|tr1=Tenjiku|t1=India|tr2=gaku|t2=music|lang=ja|sort=てんじくがく}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+* {{ja-accent-common|n|て|んじく|がく}}<ref name="DJR"/>
+* {{IPA|lang=ja|[tẽ̞nd͡ʑikɯᵝŋa̠kɯᵝ]}}
+
+===Noun===
+{{ja-noun|てん.じく.がく}}
+
+# Those pieces of music within the [[gagaku]] [[genre]] that purportedly originated in India.
+#: Previously viewed as the same as {{ja-l|林邑楽|りんゆうがく|Rin'yūgaku}}, with differing theories about specific pieces. Some of the gagaku titles included in this category are:
+#:* {{ja-l|抜頭|ばとう|Batō}}
+#:* {{ja-l|陪臚|ばいろ|Bairo}}
+#:* {{ja-l|胡飲酒|こんじゅ|Konju}}
+#:* {{ja-l|迦陵頻|かりょうびん|Karyōbin}}
+#:* {{ja-l|陵王|りょうおう|Ryōō}}
+#:* {{ja-l|玉樹後庭花|ぎょくじゅこうていか|Kyokuju Kōtei Ka}}
+#:* {{ja-l|安摩|あま|Ama}}
+#:* {{ja-l|扶南|ふなん|Funan}}
+#:* {{ja-l|河南浦|かなんぶ|Kananbu}}
+
+===References===
+<references/>

@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=163|rad=邑|as=05|sn=8|four=17127|canj=LMPNL}}
+
+# place in today's Henan province
+
+====References====
+* {{Han ref|kx=1270.030|dkj=39344|dj=1769.030|hdz=63762.050|uh=90B6|ud=37046|bh=AAF5|bd=43765}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bèi
+|c=bui3,bui6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|邶風}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=邑05}}
+
+# {{defn|lang=ja|sort=邑05}}
+
+====Readings====
+* {{ja-readings|on=[[はい]] (hai), [[ばい]] (bai)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=패|eumhun=|rv=pae|mr=p'ae|y=phay}}
+
+# {{defn|lang=ko|sort=邑05}}
+
+[[fr:邶]]
+[[hu:邶]]
+[[mg:邶]]
+[[pl:邶]]
+[[th:邶]]
+[[zh:邶]]

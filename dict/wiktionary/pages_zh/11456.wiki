@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|家|冢}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=14|rad=冖|as=08|sn=10|four=|canj=BMMO|ids=⿳冖一豕}}
+
+# (ancient variant of [[蒙]]) [[cover]]
+# [[ignorant]]
+# [[suffer]]
+# [[Mongolia]]
+
+====References====
+* {{Han ref|kx=0130.240|dkj=01584|dj=0293.040|hdz=10304.060|uh=51A1|ud=20897}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|冖|豕|ls=ic}} – a pig 豕 in a trap, enclosure 冖: covered.
+
+===Pronunciation===
+{{zh-pron
+|m=méng,píng
+|c=
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=冖08}}
+
+# {{defn|lang=ja|sort=冖08}}
+
+====Readings====
+* {{ja-readings|on=[[ぼう]] (bō), [[も]] (mo)|kun=[[おおう]] (oou)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=몽|rv=mong|mr=mong}}
+
+# {{defn|lang=ko|sort=冖08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''冡''' ([[trũng]], [[trủng]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:冡]]
+[[hu:冡]]
+[[pl:冡]]
+[[th:冡]]
+[[zh:冡]]

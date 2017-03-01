@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|鳴|呜}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=10|sn=13|four=67027|canj=RHRF|ids=⿰口烏}}
+
+# [[sound]] of [[crying]], [[sobbing]]
+
+====References====
+* {{Han ref|kx=0203.010|dkj=04084|dj=0425.200|hdz=10668.150|uh=55DA|ud=21978|bh=B6E3|bd=46819}}
+
+----
+
+==Chinese==
+{{zh-forms|s=呜}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wū
+|c=wu1
+|h=pfs=
+|md=
+|mn=o͘
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=口10}}
+
+# ah, alas, weep
+
+====Readings====
+* {{ja-readings|goon=[[う]] (u)|kanon=[[お]] (o)|kun=[[ああ]] (aa)}}
+
+====Compounds====
+* {{ja-r|嗚咽|おえつ}}
+* {{ja-r|嗚呼|ああ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=오|rv=o|mr=o}}
+
+# {{defn|lang=ko|sort=口10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ô]], [[o]], [[ọ]], [[ỏ]], [[u]], [[ú]]|rs=口10}}
+
+# {{defn|lang=vi|sort=口10}}
+
+[[zh-min-nan:嗚]]
+[[fr:嗚]]
+[[ko:嗚]]
+[[li:嗚]]
+[[hu:嗚]]
+[[ja:嗚]]
+[[pl:嗚]]
+[[th:嗚]]
+[[zh:嗚]]

@@ -1,0 +1,73 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=chéngnián
+|c=sing4 nin4
+|h=pfs=sṳ̀n-ngièn
+|mn=sêng-liân
+|cat=a,v
+}}
+
+====Adjective====
+{{zh-noun}}
+
+# [[adult]]; [[grown-up]]
+
+=====Derived terms=====
+{{zh-der|未成年|成年人|成年禮|成年者}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[become]] an [[adult]]; to [[grow up]]; to [[come of age]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=chéngnián
+|c=seng4 nin4
+|mn=chiâⁿ-nî
+|cat=adv,n
+}}
+
+====Adverb====
+{{zh-adj}}
+
+# all year; for the whole year
+# {{lb|zh|Cantonese|Min Nan}} for almost a year
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|Cantonese|Min Nan}} almost a year
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|ねん|yomi=on}}
+
+===Noun===
+{{ja-noun|せいねん}}
+
+# [[legal age]], [[age]] {{gloss|time of life when one attains full person rights}}, the [[age]] of [[adulthood]] (20 in Japan)
+
+====Antonyms====
+* {{ja-r|未成年|みせいねん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=성년}}
+
+# {{hanja form of|성년|adult age}}
+
+[[zh-min-nan:成年]]
+[[ko:成年]]
+[[hu:成年]]
+[[mg:成年]]
+[[ja:成年]]
+[[zh:成年]]

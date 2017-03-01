@@ -1,0 +1,35 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ぼう|けん|yomi=on}}
+
+===Noun===
+{{ja-noun|ぼうけん|kyu=冒險}}
+
+# [[adventure]]
+#: {{ja-usex|'''冒険'''の始まり|'''ぼうけん''' の はじまり|beginning of the '''adventure'''}}
+
+====Derived terms====
+* {{ja-r|冒険者|ぼうけんしゃ|[[adventurer]]}}
+
+====See also====
+* {{ja-r|探検|たんけん|[[expedition]]; [[exploration]]}}
+
+===Verb===
+{{ja-verb-suru|ぼうけん|kyu=冒險}}
+
+# to [[take]] a [[risk]]
+
+====Conjugation====
+{{ja-suru|ぼうけん}}
+
+[[fr:冒険]]
+[[it:冒険]]
+[[ku:冒険]]
+[[lo:冒険]]
+[[li:冒険]]
+[[mg:冒険]]
+[[ja:冒険]]
+[[fi:冒険]]
+[[sv:冒険]]
+[[chr:冒険]]
+[[zh:冒険]]

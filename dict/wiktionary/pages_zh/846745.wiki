@@ -1,0 +1,45 @@
+{{also|力学}}
+==Chinese==
+{{zh-forms|s=力学}}
+{{wikipedia|lang=zh}}
+{{wikipedia|lang=yue}}
+
+===Etymology===
+Attestable in ancient Chinese texts in its original verb form, "to study hard". The modern reading of "mechanics", {{wasei kango|力学|りきがく|mechanics}}
+
+===Pronunciation===
+{{zh-pron
+|m=lìxué
+|c=lik6 hok6
+|mn=le̍k-ha̍k
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|physics}} [[mechanics]]
+
+====Derived terms====
+{{zh-der|經典力學}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[study]] [[hard]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=역학|mr=yŏkhak|y=yek.hak}}
+
+# {{hanja form of|역학|[[mechanics]]}}
+
+[[zh-min-nan:力學]]
+[[ko:力學]]
+[[hu:力學]]
+[[ja:力學]]
+[[ru:力學]]

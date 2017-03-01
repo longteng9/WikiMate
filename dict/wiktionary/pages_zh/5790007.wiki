@@ -1,0 +1,26 @@
+==Japanese==
+{{DEFAULTSORT:とみん}}
+{{ja-kanjitab|と|みん|yomi=on}}
+
+===Etymology===
+{{compound|ja|都|t1=capital|民|t2=people, populace}}
+
+===Pronunciation===
+* {{ja-pron|とみん|acc=1}}
+
+===Noun===
+{{ja-noun|とみん|head=[[都]][[民]]}}
+
+# {{lb|ja|also|_|collectively}} {{def|A [[citizen]] or inhabitant of of [[Tokyo]], a [[Tokyoite]]; the [[population]] of Tokyo.}}
+# {{lb|ja|by extension}} {{def|An inhabitant or the population of any [[capital]].}}
+
+====Synonyms====
+* {{sense|inhabitant of Tokyo}} {{ja-r|東%京%人|とう%きょう-%じん|caps=1}}
+
+====See also====
+* {{ja-r|江%戸っ子|え%どっこ}}
+
+[[Category:ja:Tokyo]]
+
+[[hu:都民]]
+[[zh:都民]]

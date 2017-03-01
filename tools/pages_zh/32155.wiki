@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=06|sn=17|four=|canj=NFOD}}
+
+# {{defn|Han|sort=魚06}}
+
+====References====
+* {{Han ref|kx=1470.101|hdz=74687.031|uh=9BB4|ud=39860}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚06}}
+
+====Readings====
+{{ja-readings
+|kun=[[こち]] (kochi), [[ごり]] (gori), [[まて]] (mate), [[めばる]] (mebaru)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|こち}}
+
+====Alternative forms====
+* {{ja-l|鯒}} {{qualifier|more common}}
+
+====Noun====
+{{ja-noun|こち}}
+
+# {{lb|ja|sort=こち|rare}} a [[flathead]], a fish of [[family]] ''{{taxlink|Platycephalidae|family|noshow=1}}''
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|ごり}}
+
+====Noun====
+{{ja-noun|ごり}}
+
+# a [[sculpin]] or [[bullhead]], a fish of [[family]] ''[[Cottidae]]''
+# a [[freshwater]] [[goby]] of [[genus]] {{taxlink|Rhinogobius|genus|noshow=1}}
+
+=====Usage notes=====
+The ''gori'' reading is probably the most common.
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|まて}}
+
+====Noun====
+{{ja-noun|まて}}
+
+# {{lb|ja|sort=まて|rare}} alternate name for {{m|ja|馬刀貝|tr=mategai||razor clam}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=k|めばる}}
+
+====Alternative forms====
+* {{ja-l|眼張}} {{qualifier|more common}}
+
+====Noun====
+{{ja-noun|めばる}}
+
+# {{lb|ja|sort=まて|rare}} a [[sea perch]] or [[rockfish]], a fish of [[genus]] ''[[Sebastes]]''
+
+[[fr:鮴]]
+[[hu:鮴]]
+[[ja:鮴]]
+[[pl:鮴]]
+[[th:鮴]]
+[[zh:鮴]]

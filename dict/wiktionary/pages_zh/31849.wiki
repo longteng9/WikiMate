@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=188|rad=骨|as=06|sn=16|four=77264|canj=BBHER}}
+
+# [[bone]]
+# [[skeleton]]
+# [[corpse]]
+
+====References====
+* {{Han ref|kx=1449.110|dkj=45175|dj=1975.190|hdz=74411.100|uh=9ABC|ud=39612|bh=C066|bd=49254}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gé
+|c=gaak3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|掩骼埋胔|骨骼肌|骨骼}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=骨06}}
+
+# {{defn|lang=ja|sort=骨06}}
+
+====Readings====
+* {{ja-readings|on=[[かく]] (kaku)|kun=[[ほね]] (hone), [[されぼね]] (sarebone)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=격|eumhun=|rv=gyeok|mr=kyŏk|y=kyek}}
+
+# {{defn|lang=ko|sort=骨06}}
+
+[[fr:骼]]
+[[hu:骼]]
+[[mg:骼]]
+[[ja:骼]]
+[[pl:骼]]
+[[th:骼]]
+[[vi:骼]]
+[[zh:骼]]

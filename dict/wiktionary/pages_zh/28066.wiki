@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=10|sn=17|four=62134|canj=RMBVK|ids=⿰足奚}}
+
+# [[footpath]], [[trail]]
+# [[track]]
+
+====References====
+* {{Han ref|kx=1231.070|dkj=37747|dj=1703.060|hdz=63729.080|uh=8E4A}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qī
+|c=kai1,hai4
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|另闢蹊徑|別開蹊徑|別闢蹊徑|各闢蹊徑|成蹊|獨闢蹊徑|李下無蹊|鼠蹊|蹊要|蹺蹊|蹊徑|蹊蹺|蹊田奪牛}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=足10}}
+
+# {{defn|lang=ja|sort=足10}}
+
+====Readings====
+{{ja-readings|goon=[[げ]] (ge)|kanon=[[けい]] (kei)|kun=[[こみち]] (komichi), [[わたる]] (wataru)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|鼠蹊|そけい}}: [[groin]]
+* {{ja-r|鼠蹊部|そけいぶ}}: [[groin]]
+* {{ja-r|鼠蹊管|そけいかん}}: [[inguinal canal]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=혜|eumhun=|rv=hye|mr=hye|y=hyey}}
+
+# {{defn|lang=ko|sort=足10}}
+
+[[fr:蹊]]
+[[hu:蹊]]
+[[mg:蹊]]
+[[ja:蹊]]
+[[pl:蹊]]
+[[th:蹊]]
+[[zh:蹊]]

@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=10|sn=13|four=87104|canj=TBG|ids=⿱朔土}}
+
+# [[model]] in [[clay]], [[sculpt]]
+# [[plastics]]
+
+====References====
+* {{Han ref|kx=0235.100|dkj=05328|dj=0473.030|hdz=10474.040|uh=5851|ud=22609|bh=B6EC|bd=46828}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=sù
+|c=sou3,sok3
+|mn=sok
+|mn_note=vernacular (俗)
+|mc=y
+|oc=y
+|ma=
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|塑料|塑膠}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=土10}}
+
+# {{defn|lang=ja|sort=土10}}
+
+====Readings====
+* {{ja-readings|goon=[[す]] (su)|kanon=[[そ]] (so)|kun=[[でく]] (deku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=소|rv=so|mr=so}}
+
+# {{defn|lang=ko|sort=土10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|tố|rs=土10}}
+
+# {{defn|lang=vi|sort=土10}}
+
+[[fr:塑]]
+[[ko:塑]]
+[[li:塑]]
+[[hu:塑]]
+[[mg:塑]]
+[[ja:塑]]
+[[no:塑]]
+[[pl:塑]]
+[[th:塑]]
+[[zh:塑]]

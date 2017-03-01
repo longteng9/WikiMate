@@ -1,0 +1,66 @@
+==Japanese==
+
+===Etymology===
+{{ja-kanjitab|しも|に|だん|かつ|よう|yomi=y}}
+A compound of {{m|ja|sc=Jpan|下二段|tr=shimo nidan||lower bigrade}} and {{m|ja|sc=Jpan|活用|tr=katsuyō||conjugation}}. Lower bigrade verbs eventually change into [[下一段活用|lower monograde]]. Lower refers to the -e- suffix and contrasts with the [[上二段活用|upper]] -i-, while bigrade refers to the two-way e/u variation.
+
+===Pronunciation===
+{{ja-pron|しも にだん かつよう|acc=6|acc_ref=DJR|y=y}}
+
+===Noun===
+{{ja-noun|しも にだん かつよう|hhira=しもにだんくわつよう}}
+
+# {{lb|ja|grammar|sort=しもにだんかつよう}} lower bigrade conjugation, a verbal conjugation class with the following inflections: ''e'' | ''e'' | ''u'' | ''uru'' | ''ure'' | ''e[yo]''. Examples:
+{| class="wikitable"
+|-
+!
+! Imperfective ({{l|ja|未然形}})
+! Continuative ({{l|ja|連用形}})
+! Terminal ({{l|ja|終止形}})
+! Attributive ({{l|ja|連体形}})
+! Realis ({{l|ja|已然形}})<br/>(modern Hypothetical ({{l|ja|仮定形}}))
+! Imperative ({{l|ja|命令形}})
+|-
+! [[受く|uk-]] "to receive"
+| uk-e
+| uk-e
+| uk-u
+| uk-uru
+| uk-ure
+| uk-e[yo]
+|-
+! [[逃ぐ|nig-]] "to flee"
+| nig-e
+| nig-e
+| nig-u
+| nig-uru
+| nig-ure
+| nig-e[yo]
+|-
+! [[食ぶ|tab-]] "to eat"
+| tab-e
+| tab-e
+| tab-u
+| tab-uru
+| tab-ure
+| tab-e[yo]
+|}
+
+===See also===
+* {{ja-r|下一段活用|しも いちだん かつよう}}
+
+===Related terms===
+* {{ja-r|五段活用|ごだん かつよう}}
+* {{ja-r|カ行変格活用|カぎょう へんかく かつよう}}
+* {{ja-r|上一段活用|かみ いちだん かつよう}}
+* {{ja-r|上二段活用|かみ にだん かつよう}}
+* {{ja-r|ナ行変格活用|ナぎょう へんかく かつよう}}
+* {{ja-r|ラ行変格活用|ラぎょう へんかく かつよう}}
+* {{ja-r|サ行変格活用|サぎょう へんかく かつよう}}
+* {{ja-r|下一段活用|しも いちだん かつよう}}
+* {{ja-r|四段活用|よだん かつよう}}
+
+===References===
+<references/>
+
+[[ja:下二段活用]]

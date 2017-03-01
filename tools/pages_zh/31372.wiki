@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|饺}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=184|rad=食|as=06|sn=15|four=80748|canj=OIYCK}}
+
+====Descendants====
+* [[饺]]
+
+====References====
+* {{Han ref|kx=1419.120|dkj=44131|dj=1943.180|hdz=74451.150|uh=9903|ud=39171|bh=BBE5|bd=48101}}
+
+----
+
+==Chinese==
+{{zh-forms|s=饺}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|食|alt1=飠|t1=food, eat|交|ls=psc|c1=s|c2=p}} – a kind of food.
+
+===Pronunciation===
+{{zh-pron
+|m=jiǎo
+|ma=y
+|c=gaau2
+|mn=kiáu
+|w=4jiau
+|mc=
+|oc=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[stuffed]] [[dumpling]]s
+#: {{zh-x|餃子{zi}|jiaozi}}
+#: {{zh-x|水餃|boiled dumpling}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=食06}}
+
+# {{defn|lang=ja|sort=食06}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[きょう]] (kyō)|kun=[[あめ]] (ame)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=교|eumhun=|mr=kyo|y=kyo}}
+
+# {{defn|lang=ko|sort=食06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[giáo]]|rs=食06}}
+
+# {{defn|lang=vi|sort=食06}}
+
+[[fr:餃]]
+[[ko:餃]]
+[[li:餃]]
+[[hu:餃]]
+[[mg:餃]]
+[[ja:餃]]
+[[pl:餃]]
+[[th:餃]]
+[[zh:餃]]

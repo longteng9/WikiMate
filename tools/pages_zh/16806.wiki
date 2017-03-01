@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|敛}}
+==Translingual==
+{{Han simplified forms|斂|㪘|敛|ex=y}}
+===Han character===
+{{Han char|rn=66|rad=攴|as=13|sn=17|four=88840|canj=OOOK|ids=⿰僉攵}}
+
+# [[draw]] [[back]], [[fold]] back
+# [[collect]]
+
+====References====
+* {{Han ref|kx=0476.020|dkj=13407|dj=0830.330|hdz=21478.070|uh=6582|ud=25986|bh=C0C4|bd=49348}}
+
+----
+
+==Chinese==
+{{zh-forms|s=敛}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=斂
+|c=lim6,lim5
+|mn=liám
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|五斂子|內斂|大斂|小斂|屏氣斂息|征斂|急征重斂|把斂|收斂|收斂劑|整衣斂容|斂兵|斂容|斂影逃形|斂怨|斂怨求媚|斂戢|斂手|斂手待斃|斂步|斂笑而泣|斂縮|斂聲屏氣|斂著|斂藏|斂衣|斂衽|斂衽正容|斂財|斂足|斂跡|斂躬|斂避|斂錢|斂飭|斂首低眉|斂黛|暴斂|暴斂橫徵|橫征暴斂|橫科暴斂|橫賦暴斂|珍藏密斂|省刑薄斂|科斂|繁刑重斂|聚斂|藏鋒斂鍔|裒斂|賤斂貴出|賤斂貴發|賦斂|銷聲斂跡|鋒芒內斂|頭會箕斂|鳩斂}}
+
+===References===
+* {{R:twedu|A01741}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=攴13}}
+
+# {{defn|lang=ja|sort=攴13}}
+
+====Readings====
+* {{ja-readings|on=[[れん]] (ren)|kun=[[おさめる]] (osameru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[렴]]>[[염]]|eumhun=|rv=ryeom>yeom|mr=ryŏm>yŏm|y=lyem>yem}}
+
+# {{defn|lang=ko|sort=攴13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=攴13|hanviet=[[kiếm]], [[liễm]], [[liệm]]}}
+
+# {{defn|lang=vi|sort=攴13}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6582 Nom Foundation]
+
+[[fr:斂]]
+[[ko:斂]]
+[[li:斂]]
+[[hu:斂]]
+[[ja:斂]]
+[[pl:斂]]
+[[th:斂]]
+[[zh:斂]]

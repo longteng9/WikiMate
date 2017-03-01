@@ -1,0 +1,70 @@
+{{also|光线}}
+==Chinese==
+{{zh-forms|s=光线}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=guāngxiàn
+|c=gwong1 sin3
+|h=pfs=kông-sien
+|mn=xm,qz,tw:kng-sòaⁿ/zz,yl:kuiⁿ-sòaⁿ/twv:kong-sòaⁿ
+|w=1kuaan xi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|uncountable}} [[light]]
+#: {{zh-x|光線 太 強，我 的 眼睛{jing} 有 點 受不{bu}了{liǎo}。|The '''light''' was too strong for my eyes.}}
+# {{lb|zh|countable}} [[ray of light]] {{zh-mw|束}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|せん|yomi=on}}
+
+===Noun===
+{{ja-noun|こうせん}}
+
+# a [[ray]] of [[light]]
+#: {{ja-usex|月の'''光線'''、太陽の'''光線'''|つき の '''こうせん'''、 たいよう の '''こうせん'''|moon'''beams''', sun'''beams''' or '''rays''' of sunlight}}
+# a [[spectrum]]
+#: {{ja-usex|'''光線'''を分析する|'''こうせん''' を ぶんせき する|analyze a '''spectrum'''}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|光線過敏症|こうせん かびんしょう}}: [[photodermatosis]]
+* {{ja-r|光線銃|こうせん じゅう}}: a [[ray gun]]
+* {{ja-r|殺人光線|さつじん こうせん}}: a [[death ray]]
+* {{ja-r|光線束|こうせんそく}}: alternate for {{ja-r|光束|こうそく|gloss=[[luminous flux]]}}
+* {{ja-r|光線追跡法|こうせん ついせき}}: [[ray tracing]]
+* {{ja-r|光線分析|こうせん ぶんせき}}: spectrum [[analysis]]
+* {{ja-r|光線療法|こうせん りょうほう}}: light [[therapy]], [[phototherapy]]
+* {{ja-r|可視光線|かし こうせん}}: a [[visible]] [[ray]] of [[light]]; the visible [[spectrum]]
+* {{ja-r|不可視光線|ふかし こうせん}}: an [[invisible]] [[ray]] of [[light]]; the invisible [[spectrum]], such as [[ultraviolet]] or [[infrared]]
+{{der-bottom}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=광선}}
+
+# {{hanja form of|광선|a [[ray]] of [[light]]}}
+
+[[zh-min-nan:光線]]
+[[ko:光線]]
+[[hu:光線]]
+[[mg:光線]]
+[[ja:光線]]
+[[ru:光線]]
+[[chr:光線]]
+[[zh:光線]]

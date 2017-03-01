@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=170|rad=阜|as=08|sn=11|four=71247|canj=NLSJE}}
+
+# [[corner]], [[cranny]], [[nook]], [[niche]]
+
+====References====
+* {{Han ref|kx=1352.230|dkj=41685|dj=1855.050|hdz=64135.010|uh=966C|ud=38508|bh=B3B5|bd=46005}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zōu
+|c=zau1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|孟陬|海陬|荒陬|陬月|陬落}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=阜08}}
+
+# {{defn|lang=ja|sort=阜08}}
+
+====Readings====
+* {{ja-readings|on=[[すう]] (sū), [[そう]] (sō), [[しゅう]] (shū)|kun=[[すみ]] (sumi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=추|eumhun=|rv=chu|mr=ch'u|y=chwu}}
+
+# {{defn|lang=ko|sort=阜08}}
+
+[[fr:陬]]
+[[hu:陬]]
+[[mg:陬]]
+[[ja:陬]]
+[[pl:陬]]
+[[th:陬]]
+[[zh:陬]]

@@ -1,0 +1,111 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=09|sn=11|four=26227|canj=OWLB|ids=⿰亻禺}}
+
+====References====
+* {{Han ref|kx=0112.010|dkj=00899|dj=0238.090|hdz=10190.030|uh=5076|ud=20598|bh=B0B8|bd=45240}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|alt1=亻|t1=person|禺|ls=psc|c1=s|c2=p}} – a statue of a person, an idol.
+
+===Pronunciation===
+{{zh-pron
+|m=ǒu
+|ma=
+|c=ngau5
+|h=pfs=ngiéu
+|mn=qz:gió/tw,xm,zz:ngó͘
+|mc=y
+|oc=y
+|cat=n,a,adv
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[idol]], [[image]]
+#: {{zh-x|偶像|idol}}
+#: {{zh-x|穿 8 號 球衣 的 那 個 運動員 是 我 的 偶像！|The athlete wearing no. 8 is my idol!}}
+
+# [[couple]], [[pair]]
+
+===Adjective===
+{{zh-adj}}
+
+# [[even]] (number)
+#: {{zh-x|偶數|even number}}
+
+===Adverb===
+{{zh-adv}}
+
+# [[accidentally]], [[coincidentally]], by accident, by chance, occasionally
+#: {{zh-x|偶爾|occasionally}}
+#: {{zh-x|偶然|occasionally, accidentally}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=人09}}
+
+====Readings====
+* {{ja-readings|goon=[[ぐ]] (gu)|kanon=[[ごう]] (gō)|kanyoon=[[ぐう]] (gū)|kun=[[たぐい]] (tagui), [[たまたま]] (tamatama)}}
+
+====Compounds====
+{{top3}}
+* [[偶然]]
+{{mid3}}
+* {{ja-r|配偶者|gloss=[[spouse]]|はいぐうしゃ}}
+{{mid3}}
+{{bottom}}
+
+===Adjective===
+{{ja-adj|infl=な|たま}}
+
+# [[occasional]]
+
+====Inflection====
+{{ja-na|たま}}
+
+===Noun===
+{{ja-noun|たま}}
+
+# [[rarity]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=우|rv=u|mr=u}}
+
+# {{defn|lang=ko|sort=人09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngẫu]], [[ngẩu]], [[ngậu]]|rs=人09}}
+
+# {{defn|lang=vi|sort=人09}}
+
+[[fr:偶]]
+[[ko:偶]]
+[[hu:偶]]
+[[mg:偶]]
+[[ja:偶]]
+[[no:偶]]
+[[pl:偶]]
+[[th:偶]]
+[[chr:偶]]
+[[zh:偶]]

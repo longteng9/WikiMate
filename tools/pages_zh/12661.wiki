@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|叹|歎}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=11|sn=14|four=64034|canj=RTLO|ids=⿰口𦰩}}
+
+# [[sigh]], [[admire]]
+# [[chant]]
+
+====References====
+* {{Han ref|kx=0205.010|dkj=04138|dj=0427.210|hdz=10673.080|uh=5606|ud=22022|bh=B9C4|bd=47556}}
+
+----
+
+==Chinese==
+{{zh-forms|s=叹|t2=歎}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tàn
+|c=taan3,taan1
+|h=pfs=
+|md=
+|mn=thàn
+|w=
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[sigh]]
+# {{lb|zh|grammar}} {{zh-abbrev|嘆詞|[[interjection]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=口11}}
+
+# [[sigh]]
+# [[lament]]
+# [[moan]]
+# [[grieve]]
+
+====Readings====
+* {{ja-readings|goon=[[たん]] (tan)|kanon=[[たん]] (tan)|kun=[[なげく]] (nageku), [[なげき]] (nageki)}}
+
+===Noun===
+{{ja-noun|たん}}
+
+# [[sigh]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=탄|rv=tan|mr=t'an}}
+
+# {{defn|lang=ko|sort=口11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thán]], [[han]], [[thăn]], [[than]], [[hen]], [[thơn]]|rs=口11}}
+
+# {{defn|lang=vi|sort=口11}}
+
+[[zh-min-nan:嘆]]
+[[fr:嘆]]
+[[li:嘆]]
+[[hu:嘆]]
+[[mg:嘆]]
+[[ja:嘆]]
+[[pl:嘆]]
+[[th:嘆]]
+[[zh:嘆]]

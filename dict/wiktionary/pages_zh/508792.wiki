@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=kuángniúbìng
+|c=kwong4 ngau4 beng6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{zh-synonym|瘋牛病|[[mad cow disease]]}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きょう|ぎゅう|びょう|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|sort=きょうぎゅうびょう|狂|tr1=kyō|t1=mad|牛|tr2=gyū|t2=cow|病|tr3=byō|t3=disease}}
+
+===Noun===
+{{ja-noun|きょうぎゅうびょう}}
+
+# [[mad cow disease]]
+
+===See also===
+* {{ja-r|プリオン}}: [[prion]]
+* {{ja-r|クロイツフェルト・ヤコブ病|クロイツフェルト・ヤコブびょう}}: [[Creutzfeldt-Jakob disease]]
+* {{ja-r|変異型クロイツフェルト・ヤコブ病|へんいがた クロイツフェルト・ヤコブびょう}}: [[new variant Creutzfeldt-Jakob disease]]
+* {{ja-r|狂%犬%病|きょう%けん%びょう}}
+
+[[Category:ja:Diseases|きょうぎゅうびょう]]
+
+[[ko:狂牛病]]
+[[it:狂牛病]]
+[[zh:狂牛病]]

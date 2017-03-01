@@ -1,0 +1,61 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=11|sn=14|four=22286|canj=UMNC|ids=⿱山頂}}
+
+# {{defn|Han|sort=山11}}
+
+====References====
+* {{Han ref|kx=0318.180|dkj=08401|hdz=10792.170|uh=5D7F|ud=23935|bh=E1B1|bd=57777}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=[[ding2]]|y=ding2}}
+
+# {{defn|lang=yue|sort=山11}}
+
+====References====
+* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 101]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山11}}
+
+# {{defn|lang=ja|sort=山11}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei), [[ちょう]] (chō)|kun=}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[dǐng]] ([[ding3]])|wg=ting<sup>3</sup>}}
+
+# {{defn|lang=cmn|sort=山11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=山11|hanviet=[[đính]], [[đỉnh]]}}
+
+# {{defn|lang=vi|sort=山11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5d7f Nom Foundation]
+
+[[fr:嵿]]
+[[hu:嵿]]
+[[pl:嵿]]
+[[th:嵿]]
+[[zh:嵿]]

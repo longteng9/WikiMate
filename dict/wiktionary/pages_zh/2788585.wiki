@@ -1,0 +1,60 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gěngsè,gěngsāi,1nb=standard,1nc=literary,2nb=colloquial
+|c=gang2 sak1
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[block]], to [[obstruct]], to [[clog]]
+
+===Noun===
+{{zh-noun}}
+
+# [[blockage]], [[infarction]], [[infarct]]
+
+{{zh-cat|Medicine}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|そく|yomi=on}}
+
+===Noun===
+{{ja-noun|こうそく}}
+
+# [[blockage]]
+# {{lb|ja|medicine|sort=こうそく}} [[blockage]], [[tightness]], [[infarction]]
+
+====Hyponyms====
+* {{ja-def|心筋梗塞}} [[heart attack]], [[myocardial infarction]]
+* {{ja-def|脳梗塞}} [[stroke]], [[cerebral infarction]]
+
+===Verb===
+{{ja-verb-suru|こうそく}}
+
+# {{lb|ja|medicine|sort=こうそく}} suffer an [[infarction]]
+
+====Conjugation====
+{{ja-suru|こうそく}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=경색}}
+
+# {{hanja form of|경색|[[blockage]], [[infarction]]}}
+
+[[cs:梗塞]]
+[[ko:梗塞]]
+[[hu:梗塞]]
+[[mg:梗塞]]
+[[zh:梗塞]]

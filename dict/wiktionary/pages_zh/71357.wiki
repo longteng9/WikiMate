@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|む|せい|yomi=on}}
+
+===Etymology===
+Compound of {{m|ja|無||not, non-, without|tr=mu}} + {{m|ja|声||voice|tr=sei, koe}}.
+
+===Noun===
+{{ja-noun|むせい}}
+
+# {{lb|ja|phonetics|sort=むせい}} the [[voiceless]]
+
+====Antonyms====
+* {{ja-r|有声|ゆうせい}}: (''noun'') [[sonant]], [[vocal]], the [[phonic]]
+
+====Compounds====
+* {{ja-r|無声音|むせいおん}}: [[voiceless]] [[sound]], [[voiceless]] [[pronunciation]]
+
+===See also===
+* {{ja-r|有気|ゆうき}}: [[aspiration]], [[aspirated]]
+* {{ja-r|無気|むき}}: [[non]]-[[aspiration]], [[unaspirated]]
+
+[[fr:無声]]
+[[mg:無声]]
+[[zh:無声]]

@@ -1,0 +1,65 @@
+{{also|给付}}
+==Chinese==
+{{zh-forms|s=给付}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=jǐfù
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[give]]; to [[deliver]]; to [[remit]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=gěifù
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[payment]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|きゅう|ふ|yomi=o}}
+
+===Noun===
+{{ja-noun|きゅうふ}}
+
+# [[payment]], [[benefit]]
+# [[performance]]
+
+====Derived terms====
+{{top2}}
+* {{l|ja|給付金}} (''kyūfukin''): payment
+* {{l|ja|遺族給付}} (''izoku kyūfu''): survivor's benefit
+* {{l|ja|現物給付}} (''genbutsu kyūfu''): benefit in kind
+* {{l|ja|失業給付}} (''shitsugyō kyūfu''): unemployment benefit
+* {{l|ja|退職給付}} (''taishoku kyūfu''): accrued benefit, retirement benefits
+{{mid2}}
+* {{l|ja|反対給付}} (''hontai kyūfu''): performance in return, quid pro quo
+* {{l|ja|死亡給付金}} (''shibō kyūfukin''): death benefit
+* {{l|ja|定額給付金}} (''teigaku kyūfukin''): money handout to stimulate the economy
+* {{l|ja|確定給付型年金}} (''kakutei kyūfugata nenkin''): defined-benefit pension
+* {{l|ja|育児休業基本給付金}} (''ikuji kyūgyō kihon kyūfukin''): basic allowance of child care leave benefits
+{{bottom}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|きゅうふ}}
+
+# [[make]] a [[presentation]], [[grant]], [[pay]]
+#: {{ja-usex|現金を給付する|げんきん を きゅうふ する|provide cash}}
+
+====Conjugation====
+{{ja-suru|きゅうふ}}
+
+[[ko:給付]]
+[[mg:給付]]
+[[ja:給付]]
+[[zh:給付]]

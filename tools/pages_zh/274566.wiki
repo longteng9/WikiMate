@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|とく|よう|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|とくよう}}
+
+# [[economical]]
+
+====Inflection====
+{{ja-na|とくよう}}
+
+===Noun===
+{{ja-noun|とくよう}}
+
+# [[economy]], [[advantageous]]
+#: {{ja-usex|徳用サイズ|とくよう サイズ|economy size}}
+#: {{ja-usex|徳用パック|とくよう パック|economy pack}}
+
+===Proper noun===
+{{ja-pos|とくよ|proper}}
+
+# {{given name|male|lang=ja|sort=とくよ}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[li:徳用]]
+[[zh:徳用]]

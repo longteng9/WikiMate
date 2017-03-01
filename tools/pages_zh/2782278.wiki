@@ -1,0 +1,67 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=mìngmíng
+|c=ming6 ming4
+|ma=Zh-mìngmíng.ogg
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[give]] a [[name]] to; to name; to [[dub]]; to [[designate]]
+#: {{zh-x|A 是 根據 B 命名 的|A is '''named after''' B}}
+# to [[christen]]
+
+===Noun===
+{{zh-noun}}
+
+# [[naming]]
+# [[christening]]
+# [[denomination]]
+
+===Derived terms===
+{{zh-der|命名法}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|めい|めい|yomi=on}}
+
+===Noun===
+{{ja-noun|めいめい}}
+
+# [[naming]], [[christening]]
+
+====Derived terms====
+* {{ja-def|命名権}} naming [[rights]]
+
+===Verb===
+{{ja-verb-suru|tr=both|めいめい}}
+
+# to [[name]], to [[christen]]
+
+====Conjugation====
+{{ja-suru|めいめい}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=명명}}
+
+# {{hanja form of|명명|[[naming]], [[christening]]}}
+
+[[ko:命名]]
+[[hu:命名]]
+[[mg:命名]]
+[[ja:命名]]
+[[chr:命名]]
+[[zh:命名]]

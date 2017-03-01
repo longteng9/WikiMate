@@ -1,0 +1,42 @@
+{{also|发光}}
+==Chinese==
+{{zh-forms|s=发光}}
+
+===Pronunciation===
+{{zh-pron
+|m=fāguāng
+|c=faat3 gwong1
+|h=pfs=fat-kông
+|mn=hoat-kng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# [[shine]] {{gloss|to emit light}}
+
+====Synonyms====
+* {{zh-l|發亮}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|はつ|k1=はっ|こう|yomi=o}}
+
+===Noun===
+{{ja-noun|はっこう|shin=発光}}
+
+# [[luminescence]], [[emission]] of light
+
+===Verb===
+{{ja-verb-suru|はっこう|shin=発光}}
+
+# to [[emit]] light
+
+====Conjugation====
+{{ja-suru|はっこう}}
+
+[[zh-min-nan:發光]]
+[[ko:發光]]
+[[mg:發光]]

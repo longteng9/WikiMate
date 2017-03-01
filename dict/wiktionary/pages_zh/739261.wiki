@@ -1,0 +1,58 @@
+{{also|体操}}
+==Chinese==
+{{zh-forms|s=体操}}
+{{zh-wp|zh|yue|nan:thé-chhau}}
+
+===Etymology===
+{{bor|zh|ja|-}} {{ja-r|體操|たいそう}}.
+
+===Pronunciation===
+{{zh-pron
+|m=tǐcāo
+|c=tai2 cou1
+|mn=thé-chhau/twv:thé-chho/twv:thé-chhò
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[gymnastics]]
+
+====Derived terms====
+{{zh-der|體操運動員}}
+
+{{zh-cat|Intermediate|Gymnastics|Physical fitness|Sports}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|たい|そう|yomi=o}}
+
+===Noun===
+{{ja-noun|shin=体操|たいそう|hhira=たいさう}}
+
+# {{kyujitai spelling of|体操}}
+
+===Verb===
+{{ja-verb-suru|shin=体操|たいそう|hhira=たいさう}}
+
+# {{kyujitai spelling of|体操}}
+
+====Conjugation====
+{{ja-suru|たいそう}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=체조}}
+
+# {{hanja form of|체조|[[gymnastics]]}}
+
+[[zh-min-nan:體操]]
+[[ko:體操]]
+[[hu:體操]]
+[[ja:體操]]

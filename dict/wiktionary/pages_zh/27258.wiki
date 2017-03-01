@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=13|sn=20|four=70601|canj=SJYMR}}
+
+# [[metaphor]], [[simile]], [[example]]
+
+====References====
+* {{Han ref|kx=1183.160|dkj=36019|dj=1646.100|hdz=64026.080|uh=8B6C|ud=35692|bh=C4B4|bd=50356}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=pì
+|c=pei3
+|mn=phì
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|取譬|妙喻取譬|寬譬|方桃譬李|曉譬|罕譬而喻|能近取譬|譎譬|譬似閑|譬喻|譬如|譬如閒|譬諸}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言13}}
+
+# {{defn|lang=ja|sort=言13}}
+
+====Readings====
+* {{ja-readings|on=[[ひ]] (hi)|kun=[[たとえる]] (tatoeru), [[たとえ]] (tatoe)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=비|eumhun=|rv=bi|mr=pi|y=pi}}
+
+# {{defn|lang=ko|sort=言13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thí]], [[thía]], [[tỉ]], [[ví]]|rs=言13}}
+
+# {{defn|lang=vi|sort=言13}}
+
+[[fr:譬]]
+[[ko:譬]]
+[[hu:譬]]
+[[mg:譬]]
+[[ja:譬]]
+[[no:譬]]
+[[pl:譬]]
+[[th:譬]]
+[[vi:譬]]
+[[zh:譬]]

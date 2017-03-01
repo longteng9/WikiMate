@@ -1,0 +1,63 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=27233|canj=OHEY|ids=⿰亻冬}}
+
+# a [[name]]
+
+====References====
+* {{Han ref|kx=0099.120|dkj=00522|dj=0211.030|hdz=10137.070|uh=4F5F|ud=20319|bh=CA63|bd=51811}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tóng
+|c=tung4
+|mc=y
+|oc=y
+|ma=
+|cat=pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人05}}
+
+# {{defn|lang=ja|sort=人05}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō), [[ず]] (zu)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=퉁|rv=tung|mr=t'ung}}
+
+# {{defn|lang=ko|sort=人05}}
+
+[[fr:佟]]
+[[li:佟]]
+[[hu:佟]]
+[[mg:佟]]
+[[ja:佟]]
+[[pl:佟]]
+[[th:佟]]
+[[zh:佟]]

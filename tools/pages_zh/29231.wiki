@@ -1,0 +1,90 @@
+{{character info/new}}
+{{also|钓}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=03|sn=11|four=87120|canj=CPI}} (right side of character: [[勺]])
+
+====References====
+* {{Han ref|kx=1296.130|dkj=40172|dj=1799.180|hdz=64173.020|uh=91E3|ud=37347|bh=B3A8|bd=45992}}
+
+----
+
+==Chinese==
+{{zh-forms|s=钓}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|金|勺|ls=psc|c1=s|c2=p|t1=metal}}.
+
+===Pronunciation===
+{{zh-pron
+|m=diào
+|c=diu3
+|c-t=iau1
+|h=pfs=tiau
+|md=
+|mn=tiò
+|w=
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[fish]]
+# [[fishhook]]
+# to go after; to [[tempt]]; to [[lure]]
+
+===Compounds===
+{{zh-der|太公釣魚|將蝦釣鱉|垂釣|保釣運動|江中釣月|沽名釣譽|欺世釣譽|煙波釣徒|磯釣|煙波釣叟|海釣|釣魚臺|釣友|釣徒|釣名沽譽|釣鼇|釣魚|釣魚竿|釣絲|釣叟|釣人|釣鉤|釣線|釣篷|釣船|釣譽沽名|鮪釣|餌名釣祿|餌釣|釣客|釣名欺世|釣鼇客|釣遊舊地|釣蝦場|釣竿|釣名|釣具|羊裘垂釣|釣餌|釣金龜}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=金03}}
+
+# [[fishing]], [[angling]], [[catching]]
+# [[change]], small cash
+
+====Readings====
+{{ja-readings
+|goon=[[ちょう]] (chō), {{qualifier|historical}} [[てう]] (teu)
+|kanon=[[ちょう]] (chō), {{qualifier|historical}} [[てう]] (teu)
+|kun=[[つり]] (tsuri), [[つり]] ([[釣り]], tsuri), [[つる]] ([[釣る]], tsuru), [[つるし]] (tsurushi), [[つるし]] ([[釣るし]] / [[釣し]], tsurushi), [[つるす]] ([[釣るす]] / [[釣す]], tsurusu)
+}}
+
+====Compounds====
+* {{ja-r|魚釣り|さかなつり}}: [[fishing]], [[angling]], catching [[fish]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=金03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[điếu]]|rs=金03}}
+
+# {{defn|lang=vi|sort=金03}}
+
+[[zh-min-nan:釣]]
+[[fr:釣]]
+[[ko:釣]]
+[[hu:釣]]
+[[mg:釣]]
+[[ja:釣]]
+[[pl:釣]]
+[[th:釣]]
+[[zh:釣]]

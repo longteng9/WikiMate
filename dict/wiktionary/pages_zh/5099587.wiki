@@ -1,0 +1,33 @@
+{{also|编著}}
+==Chinese==
+{{zh-forms|s=编著}}
+
+===Pronunciation===
+{{zh-pron
+|m=biānzhù
+|c=pin1 zyu3
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[compile]]; to [[write]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|へん|ちょ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|へんちょ|y=o}}
+
+===Noun===
+{{ja-noun|へんちょ}}
+
+# [[editorship]], or [[compilation]], and [[authorship]]
+# a work both written and edited or compiled by the same person
+#: {{ja-usex|池田恵美子編著|^いけだ ^えみこ へんちょ|a book written and edited by Emiko Ikeda}}
+
+[[ko:編著]]
+[[zh:編著]]

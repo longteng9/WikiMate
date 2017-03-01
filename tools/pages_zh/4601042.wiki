@@ -1,0 +1,56 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=bōléngcǎo
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{non-gloss definition|See {{zh-l|菠薐}}, {{zh-l|菠薐菜}}.}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|ホウレンソウ}}
+{{wikipedia|Spinach}}
+[[File:Palak_-_spinach_plant_from_lalbagh_2349.JPG|thumb|250px|{{lang|ja|菠薐草}} (''hōrensō''): '''[[spinach]]''' plants growing in a pot.]]
+</div>
+{{ja-kanjitab|yomi=o|ほう|れん|そう}}
+
+===Etymology===
+The plant was introduced to Japan in the 16th century from China. A number of Japanese sources<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJS">{{R:Daijisen}}</ref> state that the term {{m|ja|菠薐|tr=hōren}} had previously been borrowed from {{etyl|ltc|ja|sort=ほうれんそう}} to refer vaguely to Persia or Nepal. The spinach plant [[w:Spinach#History|did likely originate in the area of ancient Persia]], but the Chinese term itself means {{m|en|spinach}}, not ''Nepal'' or ''Persia'' or any other place name. The plant was introduced to China via the region of Nepal around the year 647, suggesting that the Chinese term may have been borrowed from the {{etyl|sa|ja|sort=ほうれんそう}} language in use by the [[w:Licchavi (kingdom)|Licchavi kingdom]] ruling Nepal at that time. One possible {{etyl|sa|-}} source term is {{m|sa|पालङ्ग||beet” or “beet greens” initially, later extended to also refer to “spinach}}. Compare modern {{cog|ne|पालुङ्गो||spinach}}.
+
+The Japanese term would thus be a compound of {{compound|lang=ja|sort=ほうれんそう|菠薐|tr1=hōren|t1=spinach|pos1=obsolete, not used in modern Japanese|草|tr2=sō|t2=herb, plant}}.
+
+The alternative kanji spellings are phonetic substitutions.
+
+===Pronunciation===
+{{ja-pron|yomi=o|ほうれんそう|acc=3|acc_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|ほうれん草}}, {{ja-l|法蓮草}}, {{ja-l|鳳蓮草}}
+
+===Noun===
+{{ja-noun|ほうれんそう|ホウレンソウ|hhira=はうれんさう}}
+
+# [[spinach]]
+
+====Usage notes====
+The first two kanji are extremely rare; the second character appears to be used only in this term. These two kanji are often replaced with the kana spelling, as {{ja-l|ほうれん草}}.
+
+{{U:ja:biology|ホウレンソウ}}
+
+===References===
+<references/>
+:* http://polyglotveg.blogspot.com.au/2007/09/kookoo.html
+
+[[Category:ja:Vegetables|ほうれんそう]]
+
+[[fr:菠薐草]]
+[[ja:菠薐草]]
+[[sv:菠薐草]]

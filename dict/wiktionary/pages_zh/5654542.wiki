@@ -1,0 +1,20 @@
+==Chinese==
+{{zh-forms|gloss=-}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+From {{der|zh|mnc|ᠪᠠᡴᡧᡳ|tr=bakši||scholar}}, in turn from {{etyl|zh|zh}} {{ltc-l|博士|master}}.
+
+Compare {{zh-l|把式|martial arts; master}}, {{zh-l|把戲|circus tricks; cheap tricks}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bākèshí
+|c=baa1 hak1 sap6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|historical}} [[title|Title]] given to [[清朝|Qing Dynasty]] [[scholar]]s.

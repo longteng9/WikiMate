@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=07|sn=10|four=29727|canj=UFB|ids=⿰山肖}}
+
+# [[steep]], [[precipitous]], [[rugged]]
+
+====References====
+* {{Han ref|kx=0311.230|dkj=08085|dj=0611.230|hdz=10773.100|uh=5CED|ud=23789|bh=AE6B|bd=44651}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiào
+|c=ciu3
+|mn=qz,xm,zz:chhiàu
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|倬峭|冷峭|刻峭|孤峭|寒峭|峭厲|峭壁|峭峻|峭急|峭拔|峭法|峭直|峭立|峭薄|峭覈|峭麗|峻峭|崚峭|巉峭|懸岩峭壁|懸崖峭壁|料峭|春寒料峭|波峭|逋峭|陡峭|風骨峭峻|高峭}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山07}}
+
+# {{defn|lang=ja|sort=山07}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[けわしい]] (kewashii), [[きびしい]] (kibishii)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=초|rv=cho|mr=ch'o}}
+
+# {{defn|lang=ko|sort=山07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=山07|hanviet=[[tiếu]], [[tiễu]]}}
+
+# {{defn|lang=vi|sort=山07}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5ced Nom Foundation]
+
+[[fr:峭]]
+[[li:峭]]
+[[hu:峭]]
+[[mg:峭]]
+[[ja:峭]]
+[[no:峭]]
+[[pl:峭]]
+[[th:峭]]
+[[zh:峭]]

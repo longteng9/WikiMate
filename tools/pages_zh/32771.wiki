@@ -1,0 +1,110 @@
+{{character info/new}}
+{{also|鹰}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=13|sn=24|four=00227|canj=IGHAF|ids=⿸䧹鳥}}
+
+# [[eagle]]
+# [[falcon]]
+# [[hawk]]
+
+====References====
+* {{Han ref|kx=1501.180|dkj=47377|dj=2031.260|hdz=74666.020|uh=9DF9|ud=40441|bh=C64E|bd=50766}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鹰}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|䧹|鳥|c1=p|c2=s|t2=bird|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yīng
+|c=jing1
+|h=pfs=
+|md=
+|mn=eng
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鳥13}}
+
+# [[eagle]]
+# [[falcon]]
+# [[hawk]]
+
+====Readings====
+* {{ja-readings|kanon=[[よう]] (yō)|goon=[[おう]] (ō)|kun=[[たか]] (taka)}}
+
+===Pronunciation===
+{{ja-kanjitab|たか|yomi=k}}
+{{wikipedia|lang=ja}}
+{{wikipedia|lang=ja|タカ科}}
+{{ja-pron|acc=h|たか|y=k}}
+
+===Noun===
+{{ja-noun|たか|タカ}}
+
+# a [[hawk]] {{gloss|predatory bird}}
+
+====Derived terms====
+* {{ja-r|鷹の爪|たかのつめ}}
+
+[[Category:Japanese basic words|たか]]
+{{topics|ja|Birds of prey|Falconry|sort=たか}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=응|eumhun=|rv=eung|mr=ŭng|y=ung}}
+
+# {{defn|lang=ko|sort=鳥13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+====Readings====
+{{vi-readings|hv=ưng|nom=ưng|rs=鳥13}}
+
+[[zh-min-nan:鷹]]
+[[be:鷹]]
+[[cs:鷹]]
+[[fr:鷹]]
+[[ko:鷹]]
+[[lo:鷹]]
+[[la:鷹]]
+[[lt:鷹]]
+[[li:鷹]]
+[[hu:鷹]]
+[[mg:鷹]]
+[[ja:鷹]]
+[[pl:鷹]]
+[[ro:鷹]]
+[[ru:鷹]]
+[[sv:鷹]]
+[[th:鷹]]
+[[chr:鷹]]
+[[tr:鷹]]
+[[vi:鷹]]
+[[zh:鷹]]

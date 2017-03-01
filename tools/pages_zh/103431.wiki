@@ -1,0 +1,92 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+From {{m|zh|土||[[soil]], [[earth]], field}} and {{m|zh|星||[[star]]}}
+
+===Pronunciation===
+{{zh-pron
+|m=Tǔxīng
+|c=tou2 sing1
+|mn=qz,tp,xm:Thó͘-chhiⁿ/kh,zz:Thó͘-chheⁿ
+|w=2thu xin
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# [[Saturn]] {{gloss|planet}}
+
+====See also====
+* {{list:planets of the Solar System/zh}}
+
+{{topics|zh|Planets of the Solar System}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Saturn}}
+[[File:Saturn-cassini-March-27-2004.jpg|thumb|250px|{{lang|ja|土星}} (''Dosei''): the '''[[planet]] [[Saturn]]'''.]]
+</div>
+{{ja-kanjitab|ど|せい|yomi=kan}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=とせい'}} {{m|zh|土星|tr= thu<sup>X</sup> seng|lit=earth, soil + star|pos=in reference to {{w|Wu Xing}}}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|どせい|acc=h|acc_ref=NHK,DJR}}
+
+===Proper noun===
+{{ja-pos|どせい|proper}}
+
+# {{lb|ja|sort=とせい'|astronomy}} [[Saturn]], the [[planet]]
+
+====Synonyms====
+* {{ja-r|サターン|caps=1}}
+* {{qualifier|archaic}} {{ja-r|土曜|どよう|caps=1}}
+
+====Derived terms====
+* {{ja-r|土星丘|^どせい きゅう}}: {{qualifier|[[palmistry]]}} a [[mount]] of Saturn
+
+====See also====
+* {{list:planets of the Solar System/ja|sort=とせい'}}
+* {{ja-r|土星の輪|^どせい の わ}}: [[Saturn's rings]], the [[ring]]s of [[Saturn]]
+* {{ja-r|サートゥルヌス|caps=1}}: [[Saturn]], the [[Roman]] [[god]]
+
+===References===
+<references/>
+
+{{topics|ja|Planets of the Solar System}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Proper noun===
+{{ko-noun|rv=Toseong|hangeul=토성}}
+
+# {{hanja form of|토성|Saturn}}
+
+[[af:土星]]
+[[zh-min-nan:土星]]
+[[cs:土星]]
+[[de:土星]]
+[[fr:土星]]
+[[ko:土星]]
+[[it:土星]]
+[[lo:土星]]
+[[lt:土星]]
+[[li:土星]]
+[[hu:土星]]
+[[ja:土星]]
+[[oc:土星]]
+[[pl:土星]]
+[[pt:土星]]
+[[ru:土星]]
+[[sv:土星]]
+[[th:土星]]
+[[zh:土星]]

@@ -1,0 +1,52 @@
+{{also|推测}}
+==Chinese==
+{{zh-forms|s=推测}}
+
+===Pronunciation===
+{{zh-pron
+|m=tuīcè
+|c=teoi1 cak1
+|h=pfs=chhûi-chhet
+|mn=qz:thui-chhiak/tw,xm,zz:thui-chhek/qz:thui-chhak/twvk:chhui-chhek
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[surmise]]; to [[speculate]]; to [[conjecture]]; to [[suppose]]
+
+===Noun===
+{{zh-noun}}
+
+# [[surmise]]; [[speculation]]; [[conjecture]]; [[supposition]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|すい|そく|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|すいそく|y=o}}
+
+===Noun===
+{{ja-noun|すいそく}}
+
+# [[speculation]], [[conjecture]], [[guesswork]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|すいそく}}
+
+# [[speculate]], [[guess]], [[surmise]]
+#: {{ja-usex|女性の年齢を'''推測'''する|じょせい の ねんれい を '''すいそく''' する|'''guess''' a woman's age}}
+
+====Conjugation====
+{{ja-suru|すいそく}}
+
+[[zh-min-nan:推測]]
+[[ko:推測]]
+[[hu:推測]]
+[[mg:推測]]
+[[ja:推測]]
+[[chr:推測]]
+[[zh:推測]]

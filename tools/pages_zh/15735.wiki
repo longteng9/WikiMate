@@ -1,0 +1,94 @@
+{{character info/new}}
+{{also|惯}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=11|sn=14|four=97086|canj=PWJC|ids=⿰忄貫}}
+
+====Descendants====
+* [[惯]]
+
+====References====
+* {{Han ref|kx=0399.130|dkj=11111|dj=0739.010|hdz=42349.010|uh=6163|ud=24931|bh=BA44|bd=47684}}
+
+----
+
+==Chinese==
+{{zh-forms|s=惯}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|心|alt1=忄|t1=heart|貫|ls=psc|c1=s|c2=p}} – habit is what one does by heart.
+
+===Pronunciation===
+{{zh-pron
+|m=guàn
+|c=gwaan3
+|h=pfs=koan
+|md=gáing/guáng
+|md_note=gáing - vernacular (“accustomed”); guáng - literary
+|mn=koàn
+|w=2kue
+|mc=y
+|oc=y
+|cat=a,n,adv,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to be [[accustomed]] to; to be [[used]] to
+# [[habit]]; [[custom]]
+# [[habitually]]; [[usually]]
+# to [[spoil]]; to [[overindulge]]
+
+===Compounds===
+{{zh-der|嬌生慣養|久慣老成|慣家|慣賊|久慣牢成|慣性定律|慣犯|慣養嬌生|慣行犯|慣習|慣縱|慣竊|慣用語|慣用|慣手|慣慣|慣性導航|慣壞|慣例|慣一|慣常|慣甲|慣性|慣技|慣落|嬌慣|不慣|慣熟|司空見慣|國際慣例|慣匪|看慣|看不慣|瞧不慣|打破慣例|生活習慣|牢成久慣|熟慣|見慣司空|習慣性|習慣|風俗習慣|能言慣道|習慣法|老習慣|見慣不驚|能說慣道}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=心11}}
+
+# accustomed
+
+====Readings====
+* {{ja-readings|goon=[[けん]] (ken)|kanon=[[かん]] (kan)|kun=[[なれる]] (nareru), [[ならわし]] (narawashi), [[ならす]] (narasu)}}
+
+====Compounds====
+* [[慣行]]
+* [[慣習]]
+* [[慣性]]
+* [[慣用]]
+* [[慣例]]
+* [[習慣]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=관|eumhun=|rv=gwan|mr=kwan|y=kwan}}
+
+# {{defn|lang=ko|sort=心11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quen]], [[quán]]|rs=心11}}
+
+# {{defn|lang=vi|sort=心11}}
+
+[[fr:慣]]
+[[ko:慣]]
+[[li:慣]]
+[[hu:慣]]
+[[ja:慣]]
+[[pl:慣]]
+[[th:慣]]
+[[uk:慣]]
+[[zh:慣]]

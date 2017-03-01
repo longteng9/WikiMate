@@ -1,0 +1,94 @@
+{{character info/new}}
+==Translingual==
+{{ja-forms|憎|憎|憎}}
+
+===Alternative forms===
+Note difference between Chinese form, which uses {{lang|und|sc=Hani|曾}}, and Japanese shinjitai which uses {{lang|ja|曽}}.
+
+===Han character===
+{{Han char|rn=61|rad=心|as=12|sn=15|four=98066|canj=PCWA|ids=⿰忄曾}}
+
+# [[hate]], [[detest]], [[abhor]]
+# [[hatred]]
+
+====Related characters====
+* [[增]] ([[増]]) [[僧]]
+
+====References====
+* {{Han ref|kx=0402.080|dkj=11188|dj=0742.100|hdz=42356.080|uh=618E|ud=24974|bh=BCA8|bd=48296}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|心|alt1=忄|t1=heart|曾|ls=psc|c1=s|c2=p}} – hatred comes from the heart, to hate with one’s heart.
+
+Japanese shinjitai form rather {{Han compound|心|alt1=忄|曽}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zēng
+|c=zang1
+|h=pfs=
+|md=
+|mn=qz:chng/xm,zz:cheng
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=心12}}
+
+# hate
+
+====Readings====
+* {{ja-readings|goon=[[そう]] (sō)|kanon=[[そう]] (sō)|kanyoon=[[ぞう]] (zō)|kun=[[にくむ]] (nikumu), [[にくしみ]] (nikushimi), [[にくい]] (nikui), [[にくらしい]] (nikurashii)}}
+
+====Compounds====
+* {{ja-r|合憎|gloss=[[unfortunately]]|あいにく}}
+* {{ja-r|生憎|gloss=[[unfortunately]]|あいにく}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=증|eumhun=|rv=jeung|mr=chŭng|y=cung}}
+
+# {{defn|lang=ko|sort=心12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tăng]]|rs=心12}}
+
+# {{defn|vi}}
+
+[[fr:憎]]
+[[ko:憎]]
+[[li:憎]]
+[[hu:憎]]
+[[mg:憎]]
+[[ja:憎]]
+[[no:憎]]
+[[pl:憎]]
+[[th:憎]]
+[[chr:憎]]
+[[vi:憎]]
+[[zh:憎]]

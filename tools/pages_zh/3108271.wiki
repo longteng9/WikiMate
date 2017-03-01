@@ -1,0 +1,29 @@
+==Japanese==
+{{ja-kanjitab|かく|じょ|し|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=かくじょし|格|tr1=kaku|t1=grammatical case|助詞|tr2=joshi|t2=grammatical particle}}.
+
+===Pronunciation===
+{{ja-pron|かく じょし|acc=h|y=on}}
+
+===Noun===
+{{ja-noun|かく じょし}}
+
+# {{sense|grammar}} A [[case]] [[particle]].
+#: A small word that follows a noun form to show how it relates grammatically to the following word or clause. Sometimes similar to how [[preposition]]s function in English. Includes (but not limited to) the following:
+#:* {{l|ja|は}}
+#:* {{l|ja|が}}
+#:* {{l|ja|を}}
+#:* {{l|ja|に}}
+#:* {{l|ja|へ}}
+#:* {{l|ja|と}}
+#:* {{l|ja|の}}
+#:* {{l|ja|より}}
+#:* {{l|ja|から}}
+#:* {{l|ja|にて}}
+
+[[ko:格助詞]]
+[[hu:格助詞]]
+[[ja:格助詞]]
+[[zh:格助詞]]

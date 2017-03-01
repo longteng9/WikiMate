@@ -1,0 +1,89 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=09|sn=13|four=47934|canj=DQHK|ids=⿰木契}}
+
+# [[wedge]]
+# [[gatepost]]
+# [[foreword]]
+
+====References====
+* {{Han ref|kx=0539.130|dkj=15131|dj=0926.250|hdz=21242.070|uh=6954|ud=26964|bh=B7A4|bd=47012}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiē
+|c=sit3
+|mn=qz,xm,zz:siat/qz,twvt,xm:soeh/tw,zz:seh
+|mn_note=siat - literary; soeh/seh - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木09}}
+
+====Readings====
+* {{ja-readings|on=[[せつ]] (setsu), [[けつ]] (ketsu)|kun=[[くさび]] (kusabi), [[ほうだて]] (houdate)}}
+
+===Pronunciation===
+{{ja-kanjitab|くさび|yomi=k}}
+* {{ja-pron|くさび}}
+
+===Noun===
+{{ja-noun|くさび}}
+
+# [[wedge]]
+
+[[Category:ja:Simple machines|くさび]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=설|eumhun=|rv=seol|mr=sŏl|y=sel}}
+
+# {{defn|lang=ko|sort=木09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木09|hanviet=khế}}
+
+# {{defn|lang=vi|sort=木09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6954 Nom Foundation]
+
+[[zh-min-nan:楔]]
+[[fr:楔]]
+[[hu:楔]]
+[[mg:楔]]
+[[ja:楔]]
+[[pl:楔]]
+[[th:楔]]
+[[vi:楔]]
+[[zh:楔]]

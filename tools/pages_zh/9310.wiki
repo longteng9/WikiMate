@@ -1,0 +1,167 @@
+{{character info/new}}
+{{also|圓|圆}}<!-- may be replaced by zh-forms -->
+==Translingual==
+{{stroke order|type=jbw}}
+{{Han simplified forms|圓|円|圆}}
+
+===Etymology===
+Japanese simplification of [[圓]], via a simplified character similar to [[𠮚]].<ref>Toshinobu Sakaida, [http://www.akaenpitsu.gr.jp/kakioroshi001.pdf 円（圓）の異体字]</ref>
+
+===Han character===
+{{Han char|rn=13|rad=冂|as=02|sn=4|four=|canj=BY,BLM|ids=⿵冂丄}}
+
+====References====
+{{Han ref|kx=0128.351|dkj=01513|dj=0289.170|hdz=10096.180|uh=5186}}
+<references />
+----
+
+==Chinese==
+{{zh-see|圓|v}}
+
+----
+
+==Japanese==
+===Kanji===
+{{ja-kanji|grade=1|rs=冂02|style=s|kyu=圓}}
+
+====Readings====
+* {{ja-readings|goon=[[おん]] (on)|kanon=[[えん]] (en)|kun=[[まる]] (maru), [[まるい]] ([[円い]]) (marui), つぶら (円ら) (tsubura)|nadzuke=[[まどか]] (madoka)}}
+
+====Compounds====
+{{der5
+| {{ja-l|一円}}
+| {{ja-l|大団円}}
+| {{ja-l|楕円}}
+| {{ja-l|長円}}
+| {{ja-l|凸円}}
+| {{ja-l|方円}}
+| {{ja-l|卵円}}
+| {{ja-l|黒円}}
+| {{ja-l|円味}}
+| {{ja-l|円運動}}
+| {{ja-l|円屋根}}
+| {{ja-l|円花蜂}}
+| {{ja-l|円蓋}}
+| {{ja-l|円滑}}
+| {{ja-l|円環}}
+| {{ja-l|円顔}}
+| {{ja-l|円規}}
+| {{ja-l|円丘}}
+| {{ja-l|円居}}
+| {{ja-l|円鏡}}
+| {{ja-l|円曲}}
+| {{ja-l|円形}}, {{ja-l|円型}}
+| {{ja-l|円弧}}
+| {{ja-l|円光}}
+| {{ja-l|円寂}}
+| {{ja-l|円周}}
+| {{ja-l|円熟}}
+| {{ja-l|円心}}
+| {{ja-l|真円真珠}}
+| {{ja-l|円刃刀}}
+| {{ja-l|円陣}}
+| {{ja-l|円錐}}
+| {{ja-l|円窓}}
+| {{ja-l|円卓}}
+| {{ja-l|円弾}}
+| {{ja-l|円柱}}
+| {{ja-l|円虫類}}
+| {{ja-l|円頂}}
+| {{ja-l|円天井}}
+| {{ja-l|円転}}
+| {{ja-l|円筒}}
+| {{ja-l|円内}}
+| {{ja-l|円盤}}
+| {{ja-l|円舞}}
+| {{ja-l|円墳}}
+| {{ja-l|円偏光}}
+| {{ja-l|円本}}
+| {{ja-l|円盆}}
+| {{ja-l|円満}}
+| {{ja-l|遊動円木}}
+| {{ja-l|円罐}}
+| {{ja-l|円鉋}}
+| {{ja-l|円顱}}
+| {{ja-l|円ら}}
+| {{ja-l|真ん円}}
+| {{ja-l|円か}}
+| {{ja-l|円み}}
+}}
+===Etymology===
+''(Yen)'' from {{etyl|cmn|ja}} [[圓]] (''yuán'' "circle" >"round coin") referring to the [[piece of eight]] (compare {{etyl|cmn|-}} ''yuán'' [[元]], Korean ''won'' [[원]]).
+
+===Noun===
+
+{{ja-noun|えん|hhira=ゑん|kyu=圓}}
+
+# {{lb|ja|math}} [[circle]]
+# [[yen]] (the [[Japanese]] currency)
+
+====Derived terms====
+* {{sense|circle}}
+** {{ja-l|外接円}}
+** {{ja-l|内接円}}
+** {{ja-l|交換円}}
+** {{ja-l|四分円}}
+** {{ja-l|大円}}
+** {{ja-l|同心円}}
+** {{ja-l|半円}}
+** {{ja-l|円軌道}}
+** {{ja-l|円グラフ}}
+* {{sense|yen}}
+** {{ja-l|円安}}
+** {{ja-l|円為替}}
+** {{ja-l|円価}}
+** {{ja-l|円貨}}
+** {{ja-l|円記号}}
+** {{ja-l|円借款}}
+** {{ja-l|円相場}}
+** {{ja-l|円建て}}
+
+====See also====
+* {{l|ja|¥}}
+
+===Noun===
+{{ja-noun|まる}}
+
+# [[circle]], [[ring]]
+
+[[Category:ja:Currency|えん]]
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 円]]
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Hanja===
+{{ko-hanja|hangeul=엔}}
+
+# {{non-gloss|hanja for names}}<ref>[http://help.scourt.go.kr/nm/img/hanja/hanja.pdf 인명용 한자표]</ref><ref>[http://www.zonmal.com/hanja_um1.asp?um=%BF%A3 엔], 한자사전</ref>
+
+====Usage notes====
+This is the only character whose pronunciation is from modern Japanese, not from [[Classical Chinese]].
+
+===References===
+<references />
+
+[[cs:円]]
+[[fr:円]]
+[[ko:円]]
+[[io:円]]
+[[it:円]]
+[[lo:円]]
+[[li:円]]
+[[hu:円]]
+[[mg:円]]
+[[ms:円]]
+[[nl:円]]
+[[ja:円]]
+[[pl:円]]
+[[pt:円]]
+[[ru:円]]
+[[fi:円]]
+[[sv:円]]
+[[th:円]]
+[[chr:円]]
+[[uk:円]]
+[[zh:円]]

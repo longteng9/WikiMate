@@ -1,0 +1,63 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=05|sn=11|four=52140|canj=LIHPM}}
+
+# ant eggs
+
+====References====
+* {{Han ref|kx=1079.190|dkj=32922|dj=1548.040|hdz=42844.100|uh=86B3|ud=34483|bh=D7A8|bd=55208}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chí
+|c=ci4
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[ant]] [[egg]]s
+# {{surname|lang=zh}}
+
+===References===
+* {{R:twedu|B04244}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫05}}
+
+# {{defn|lang=ja|sort=虫05}}
+
+====Readings====
+* {{ja-readings|on=[[ち]] (chi), [[じ]] (ji), [[し]] (shi), [[てい]] (tei), [[たい]] (tai)|kun=|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''蚳''' ([[chỉ]])
+
+# {{defn|lang=vi}}
+
+[[fr:蚳]]
+[[hu:蚳]]
+[[pl:蚳]]
+[[th:蚳]]
+[[zh:蚳]]

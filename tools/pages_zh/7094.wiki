@@ -1,0 +1,212 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=bw}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=02|sn=4|four=80207|canj=OIN|ids=}}
+
+====Derived characters====
+* [[念]], [[吟]], [[含]], [[𠍐]]
+
+====References====
+* {{Han ref|kx=0091.180|dkj=00358|dj=0194.030|hdz=10105.050|uh=4ECA|ud=20170|bh=A4B5|bd=42165}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|i}} – in the mouth. The derivative {{och-l|含}} refers to the original word.
+
+===Pronunciation===
+{{zh-pron
+|m=jīn
+|c=gam1
+|h=pfs=kîm
+|md=gĭng
+|mn=kim/kin/taⁿ
+|mn_note=kim - literary; kin - colloquial; taⁿ - semantic (also written as {{zh-l|旦}} or {{zh-l|當}})
+|w=1jin
+|mc=y
+|oc=y
+|cat=n,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[now]]; [[at present]]
+# [[present]]; [[current]]
+
+===Compounds===
+{{zh-der|今天|今日|今年|今旦|不今不古|乃今|事到如今|于今|亙古亙今|今上|今不如昔|今世|今世說|今人|今來|今來古往|今兒|今兒個|今古奇觀|今古學派|今夕|今夕何夕|今夜|今後|今愁古恨|今文|今文家|今文尚書|今文經|今昔|今昔之感|今是昨非|今晚|今朝|今生|今生今世|今番|今茲|今草|今譯|今隸|今雨|今非昔比|今音|今韻|今體詩|以古方今|以古非今|來今|借古諷今|傍今|傳譽古今|其今|冠絕古今|博古知今|博古通今|博覽古今|即今|厚今薄古|厚古薄今|及今|古今|古今中外|古今兒|古今小說|古今少有|古今注|古今絕色|古往今來|古為今用|只今|如今|如今晚兒|尊古卑今|居今稽古|往古來今|從今以後|從古至今|感今懷昔|指古摘今|援古證今|撫今追昔|攀今吊古|攀今攬古|攀今比昔|攀今覽古|方今|於今|昨非今是|是古非今|時今|暨今|格古通今|泥古非今|洞鑒古今|演古勸今|為今之計|現今|當今|當今無輩|目今|知今博古|知古今兒|知往鑒今|空古絕今|競今疏古|而今|而今而後|自今|至今|茹古涵今|說今道古|說古談今|談今論古|談古說今|談古論今|論今說古|講古論今|貫穿今古|貴古賤今|貽範古今|超今冠古|超今絕古|超今越古|越古超今|迄今|透古通今|通今博古|通古博今|酌古御今|鑑古推今|隆古賤今|震古鑠今|非昔是今|頌古非今}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=人02}}
+
+# [[now]]
+
+====Readings====
+{{ja-readings
+|goon=[[こん]] (kon)
+|kanon=[[きん]] (kin)
+|kun=[[いま]] (ima)
+|nanori=[[な]] (na)}}
+
+====Compounds====
+{{der5
+| {{ja-l|今頃}}
+| {{ja-l|今時}}
+| {{ja-l|今迄}}
+| {{ja-l|今際}}
+| {{ja-l|今一度}}
+| {{ja-l|今夏}}
+| {{ja-l|今回}}
+| {{ja-l|今期}}
+| {{ja-l|今暁}}
+| {{ja-l|今月}}
+| {{ja-l|今古}}
+| {{ja-l|今後}}
+| {{ja-l|今更}}
+| {{ja-l|今国会}}
+| {{ja-l|今々}}, {{ja-l|今今}}
+| {{ja-l|今次}}
+| {{ja-l|今秋}}
+| {{ja-l|今週}}
+| {{ja-l|今出来}}
+| {{ja-l|今春}}
+| {{ja-l|今宵}}
+| {{ja-l|今尚}}
+| {{ja-l|今上}}
+| {{ja-l|今人}}
+| {{ja-l|今世界}}
+| {{ja-l|今世紀}}
+| {{ja-l|今是昨非}}
+| {{ja-l|今生}}
+| {{ja-l|今昔}}
+| {{ja-l|今川焼}}
+| {{ja-l|今朝}}
+| {{ja-l|今程}}
+| {{ja-l|今度}}
+| {{ja-l|今冬}}
+| {{ja-l|今道心}}
+| {{ja-l|今日|きょう|kyō}}: [[today]]
+| {{ja-l|今年}}
+| {{ja-l|今般}}
+| {{ja-l|今晩}}
+| {{ja-l|今風}}
+| {{ja-l|今方}}
+| {{ja-l|今明日}}
+| {{ja-l|今夜}}
+| {{ja-l|今夕}}
+| {{ja-l|今様}}
+}}
+
+{{ja-kanjitab|いま|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|いま|acc=1|acc_ref=DJR,NHK}}
+
+===Adverb===
+{{ja-pos|adverb|いま}}
+
+# [[now]]
+# [[just now]]
+# [[soon]]
+
+====See also====
+* {{ja-r|すぐ}}
+* {{ja-r|すぐ に}}
+
+===Noun===
+{{ja-noun|いま}}
+
+# [[now]], [[present]]
+
+====Synonyms====
+* {{ja-r|現在|げんざい}}
+
+====Derived terms====
+{{der-top3}}
+* {{l|ja|今が今まで}}
+* {{l|ja|今ごろ}}
+* {{l|ja|今し方}}
+* {{l|ja|今では}}
+* {{l|ja|今どき}}
+* {{l|ja|今の所}}
+{{der-mid3}}
+* {{l|ja|今まで}}
+* {{l|ja|今めかしい}}
+* {{l|ja|今めかす}}
+* {{l|ja|今もって}}
+* {{l|ja|今や}}
+{{der-mid3}}
+* {{l|ja|今や遅しと}}
+* {{l|ja|今一つ}}
+* {{l|ja|今少し}}
+* {{l|ja|今思うと}}
+* {{l|ja|今直ぐ}}
+* {{ja-r|中今|なかいま|the [[present]], as a [[privileged]] [[moment]] in [[eternity]]}}
+{{der-bottom}}
+
+===Proper noun===
+{{ja-pos|proper|こん}}
+
+# {{surname|sort=こん|lang=ja}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|いま]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=금|eumhun=이제|rv=geum|mr=kŭm}}
+
+# {{defn|lang=ko|sort=人02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kim]]|rs=人02}}
+
+# {{defn|lang=vi|sort=人02}}
+
+[[zh-min-nan:今]]
+[[et:今]]
+[[fr:今]]
+[[ko:今]]
+[[id:今]]
+[[it:今]]
+[[lo:今]]
+[[la:今]]
+[[lt:今]]
+[[li:今]]
+[[hu:今]]
+[[mg:今]]
+[[ms:今]]
+[[nl:今]]
+[[ja:今]]
+[[no:今]]
+[[tpi:今]]
+[[pl:今]]
+[[pt:今]]
+[[ru:今]]
+[[fi:今]]
+[[sv:今]]
+[[ta:今]]
+[[th:今]]
+[[chr:今]]
+[[uk:今]]
+[[zh:今]]

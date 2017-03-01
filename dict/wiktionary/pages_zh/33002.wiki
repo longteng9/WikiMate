@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|粗}}
+==Translingual==
+
+===Alternative forms===
+* {{l|mul|麁}}
+
+===Han character===
+{{Han char|rn=198|rad=鹿|as=22|sn=33|four=00210|canj=IPIPP|ids=⿱鹿⿰鹿鹿}}
+
+====References====
+* {{Han ref|kx=1512.060|dkj=47714|dj=2040.250|hdz=74737.020|uh=9EA4|ud=40612|bh=F9D2|bd=63954}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=cū
+|c=cou1
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[rough]], [[coarse]], [[big]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鹿22}}
+
+# {{defn|lang=ja|sort=鹿22}}
+
+====Readings====
+* {{ja-readings|on=[[そ]] (so), [[ぞ]] (zo)|kun=[[はなれる]] (hanareru), [[あらい]] (arai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=추|eumhun=|rv=chu|mr=ch'u|y=chwu}}
+
+# {{defn|lang=ko|sort=鹿22}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=鹿22|hanviet=thô}}
+
+# {{defn|lang=vi|sort=鹿22}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=9ea4 Nom Foundation]
+
+[[fr:麤]]
+[[ko:麤]]
+[[hu:麤]]
+[[mg:麤]]
+[[ja:麤]]
+[[pl:麤]]
+[[th:麤]]
+[[zh:麤]]

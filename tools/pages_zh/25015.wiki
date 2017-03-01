@@ -1,0 +1,138 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=07|sn=10|four=44221|canj=TOMR|ids=⿱艹何}}
+
+# [[lotus]], [[water lily]]
+# abbreviation for [[Holland]]
+
+====References====
+* {{Han ref|kx=1032.130|dkj=31000|dj=1491.230|hdz=53220.040|uh=8377|ud=33655|bh=B2FC|bd=45820}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hé
+|c=ho4
+|cat=n,pn
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|plant}} [[lotus]] or the [[leaf|leaves]] of the flowering plant
+
+=====Compounds=====
+* {{sense|lotus}} {{zh-l|荷花}}, {{zh-l|荷月}}
+* {{zh-l|蘘荷|[[myoga]]}}
+
+====Proper noun====
+{{zh-proper noun}}
+
+# {{abbreviation of|{{zh-l|荷蘭}}|lang=zh|dot=:}} [[Holland]]
+
+===Pronunciation===
+{{zh-pron
+|m=hè
+|c=ho6
+|cat=n,v
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[load]], [[burden]]
+# {{lb|zh|physics}} [[load]], [[charge]]
+
+=====Compounds=====
+* {{sense|burden}} {{zh-l|負荷}}, {{zh-l|荷負}}, {{zh-l|荷載}}
+* {{sense|charge}} {{zh-l|荷質比}}, {{zh-l|電荷}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[carry]] (a load on one's shoulder), to [[hold]]
+# to [[shoulder]], to [[bear]] (e.g. responsibilities)
+
+=====Compounds=====
+* {{sense|to carry}} {{zh-l|荷槍實彈}}, {{zh-l|荷擔}}
+* {{sense|to bear}} {{zh-l|荷負}}, {{zh-l|荷擔}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=艸07}}
+
+# [[load]], [[cargo]]
+# [[luggage]]
+
+====Readings====
+{{ja-readings|goon=[[が]] (ga)|kanon=[[か]] (ka)|kun=[[に]] (ni), [[になう]] (ninau)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|手荷物|てにもつ}}
+* {{ja-r|荷物|にもつ}}
+* {{ja-r|茗荷|みょうが}}, {{ja-r|蘘荷|みょうが}}: [[myoga]] or [[Japanese ginger]] (''[[Zingiber mioga]]''); a [[dimwit]], an [[idiot]], a [[stupid]] person; a kind of {{m|ja|家紋|tr=kamon||family crest}}
+{{der-bottom}}
+
+===Counter===
+{{ja-pos|か|counter}}
+
+# [[load]]s that can be carried on one's shoulders
+
+===Suffix===
+{{ja-pos|か|suffix}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=하|eumhun=|rv=ha|mr=ha|y=ha}}
+
+# ([[짐]]): a [[load]], [[burden]]; a [[cargo]], [[freight]]
+#* {{ko-inline|[[하물]]|hamul|a [[cargo]], [[freight]]|[[荷物]]}}
+#* {{ko-inline|[[하주]]|haju|the [[owner]] or [[consignor]] of a cargo|[[荷主]]}}
+#* {{ko-inline|[[하중]]|hajung|[[load]], [[weight]]|[[荷重]]}}
+#* {{ko-inline|[[하치]]|hachi|to [[unload]]|[[荷置]]}}
+#* {{ko-inline|선하|seonha|a [[ship]]pped cargo|[[船荷]]}}
+#* {{ko-inline|입하|ipha|the [[arrival]] of a cargo|[[入荷]]}}
+# ([[메다|멜]]): to [[bear]]; to [[undertake]], to [[take charge]]; to [[owe]]
+#* {{ko-inline|부하|buha|to be [[load]]ed|[[負荷]]}}
+# ([[연]]): [[lotus]], [[water lily]] (same as [[蓮]])
+#* {{ko-inline|[[하엽]]|hayeop|a [[leaf]] of [[lotus]]|[[荷葉]]}}
+
+====Compounds====
+* {{ko-l|양하|[[myoga]]|蘘荷}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hà]]|rs=艸07}}
+
+# {{defn|lang=vi|sort=艸07}}
+
+[[fr:荷]]
+[[ko:荷]]
+[[hu:荷]]
+[[mg:荷]]
+[[ja:荷]]
+[[no:荷]]
+[[pl:荷]]
+[[th:荷]]
+[[chr:荷]]
+[[uk:荷]]
+[[zh:荷]]

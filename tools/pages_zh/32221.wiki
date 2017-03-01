@@ -1,0 +1,62 @@
+{{character info/new}}
+{{also|鳀}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=09|sn=20|four=26381|canj=NFAMO}}
+
+# [[anchovy]]
+
+====References====
+* {{Han ref|kx=1473.290|dkj=46290|dj=2005.310|hdz=74701.040|uh=9BF7|ud=39927|bh=F56C|bd=62828}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鳀|alt=鮧,鮷}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tí
+|c=tai4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚09}}
+
+# {{defn|lang=ja|sort=魚09}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei), [[だい]] (dai)|kun=[[なまず]] (namazu), [[すけそう]] (sukesou)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=제|eumhun=|rv=je|mr=che|y=cey}}
+
+# {{defn|lang=ko|sort=魚09}}
+
+[[fr:鯷]]
+[[hu:鯷]]
+[[ja:鯷]]
+[[pl:鯷]]
+[[th:鯷]]
+[[vi:鯷]]
+[[zh:鯷]]

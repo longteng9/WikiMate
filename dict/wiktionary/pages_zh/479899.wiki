@@ -1,0 +1,46 @@
+{{also|助动词}}
+==Chinese==
+{{zh-forms|s=助动词|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhùdòngcí
+|c=zo6 dung6 ci4
+|mn=chō͘-tōng-sû
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|grammar}} [[auxiliary verb]]
+
+[[Category:zh:Parts of speech|力05助動詞]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|じょ|どう|し|yomi=on}}
+
+===Noun===
+{{ja-noun|じょどうし}}
+
+# {{lb|ja|grammar|sort=しょどうし'}} [[auxiliary verb]]
+# {{lb|ja|grammar|sort=しょどうし'}} inflecting [[suffix]] or [[particle]] in [[Japanese]]
+
+====Usage notes====
+The meaning of 助動詞 is different in Western grammar and in traditional Japanese grammar.
+* られる in 食べ'''られる''' is analysed as an inflecting suffix in Western grammar, while it is called 助動詞 in traditional Japanese grammar.
+* いる in して'''いる''' is analysed as an auxiliary verb in Western grammar, while it is called [[補助動詞]] in traditional Japanese grammar.
+
+===References===
+* {{R:Kojien}}
+
+[[Category:ja:Parts of speech|しょどうし']]
+
+[[ko:助動詞]]
+[[it:助動詞]]
+[[hu:助動詞]]
+[[ja:助動詞]]
+[[ru:助動詞]]
+[[zh:助動詞]]

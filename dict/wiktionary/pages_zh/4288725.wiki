@@ -1,0 +1,31 @@
+==Japanese==
+{{ja-kanjitab|かん|しゅう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|かんしゅう|yomi=o}}
+
+===Noun===
+{{ja-noun|かんしゅう}}
+
+# [[editorial]] supervision
+
+===Verb===
+{{ja-verb-suru|tr=trans|かんしゅう}}
+
+# [[supervise]] the [[editorship]]
+
+====Conjugation====
+{{ja-suru|かんしゅう}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=감수}}
+
+# {{hanja form of|감수|editorial supervision}}
+
+[[ko:監修]]
+[[zh:監修]]

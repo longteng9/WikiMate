@@ -1,0 +1,44 @@
+{{also|顺位}}
+==Chinese==
+{{zh-forms|s=顺位}}
+
+===Pronunciation===
+{{zh-pron
+|m=shùnwèi
+|c=seon6 wai6
+|mn=sūn-ūi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[rank]]; [[order]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|じゅん|い|yomi=on}}
+
+===Etymology===
+From {{m|ja|順|sc=Jpan|tr=jun||order}} + {{m|ja|位|sc=Jpan|tr=i||rank}}
+
+===Noun===
+{{ja-noun|じゅんい}}
+# [[order]], [[rank]], [[precedence]]
+
+====Derived terms====
+* [[低順位]] (''teijun'i''): low priority
+* [[優先順位]] (''yūsen jun'i''): order of precedence
+* [[ファセット順位]] (''fasetto jun'i''): (''computing'') citation order
+* [[実行優先順位]] (''jikkō yūsen jun'i''): (''computing'') dispatching priority
+* [[低い優先順位]] (''hikui yūsen jun'i''): (''computing'') low priority
+* [[自動優先順位グループ]] (''jidō yūsen jun'i gurūpu''): (''computing'') Automatic Priority Group
+* [[射撃の優先順位]] (''shageki no yūsen jun'i''): priority of fires
+* [[上限実行優先順位]] (''jōgen jikkō yūsen jun'i''): (''computing'') limit dispatching priority
+
+[[fr:順位]]
+[[ko:順位]]
+[[hu:順位]]
+[[mg:順位]]
+[[zh:順位]]

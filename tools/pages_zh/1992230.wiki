@@ -1,0 +1,56 @@
+{{also|华语}}
+==Chinese==
+{{zh-forms|s=华语}}
+
+===Pronunciation===
+{{zh-pron
+|m=huáyǔ
+|c=waa4 jyu5
+|h=pfs=Fà-ngî
+|mn=Hôa-gí/Hôa-gú
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|chiefly|Singapore|Philippines|Malaysia|and|Indonesia|sometimes|in|_|Taiwan}} [[Mandarin]] Chinese, standard Chinese
+#: {{zh-x|你 會 說 華語 嗎？|Do you speak Mandarin?}}
+#* {{zh-x|汝 覺得 呾 潮州話 在 新加坡 應 唔 應該 流傳 下去？抑是\啊是 華人 呾 華語 就 夠 了？|Do you think Teochew language should be preserved in Singapore or is '''Mandarin''' good enough? {{sic}}|MN-T|ref='''2015''', Li Wei, ''Multilingualism in the Chinese Diaspora Worldwide: Transnational Connections and Local Social Realities'', Routledge (ISBN 9781317638988), page 209}}
+
+====Usage notes====
+* In China, Hong Kong and Taiwan, Mandarin is usually called {{zh-l|普通話}} or {{zh-l|國語}} instead.
+
+====Synonyms====
+{{zh-dial|普通話}}
+
+===See also===
+* {{zh-l|中文}}
+* {{zh-l|中國話}}
+* {{zh-l|華文}}
+
+{{zh-cat|Languages}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|か|ご|yomi=on}}
+
+===Noun===
+{{ja-noun|かご}}
+
+# {{lb|ja|uncommon|sort=かご}} the (standard) [[Chinese]] language, [[Mandarin]]
+#: {{ja-usex|台湾華語|^たいわん かご|Taiwanese Mandarin}}
+
+====Synonyms====
+* {{sense|Chinese language (generic)}} {{ja-r|中国語|^ちゅうごくご}}
+* {{sense|Mandarin Chinese}} {{ja-r|北京語|^ペキンご}}
+
+[[Category:ja:Languages|かご]]
+
+[[zh-min-nan:華語]]
+[[lt:華語]]
+[[li:華語]]
+[[hu:華語]]
+[[mg:華語]]
+[[ja:華語]]

@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=43|rad=尢|as=04|sn=7|four=48012|canj=KUOLL|ids=⿺尢介}}
+
+====References====
+* {{Han ref|kx=0298.150|dkj=07560|dj=0593.180|hdz=10553.100|uh=5C2C|ud=23596|bh=A7BC|bd=42940}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|尢|介|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gà,jiè
+|c=gaai3
+|mc=y
+|oc=y
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[limp]]; [[staggering]] [[gait]]
+# [[embarrassed]]
+
+====Compounds====
+{{zh-der|不尷尬|不尷不尬|尷尬局面|尷尬|處境尷尬}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=尢04}}
+
+# {{defn|lang=ja|sort=尢04}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai), [[かつ]] (katsu), [[けち]] (kechi)|kun=[[あしなえ]] (ashinae)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[giới]]|rs=尢04}}
+
+# {{defn|lang=vi|sort=尢04}}
+
+[[fr:尬]]
+[[hu:尬]]
+[[mg:尬]]
+[[ms:尬]]
+[[no:尬]]
+[[pl:尬]]
+[[th:尬]]
+[[zh:尬]]

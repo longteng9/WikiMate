@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=46900|canj=DKSR|ids=⿰木加}}
+
+====See also====
+* {{l|mul|架}}
+
+====References====
+* {{Han ref|kx=0517.110|dkj=14587|dj=0905.130|hdz=21190.060|uh=67B7|ud=26551|bh=CF45|bd=53061}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiā
+|c=gaa1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[cangue]] [[scaffold]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木05}}
+
+# {{defn|lang=ja|sort=木05}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka)|kun=[[からざお]] (karazao), [[かせ]] (kase)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=가|eumhun=|rv=ga|mr=ka|y=ka}}
+
+# {{defn|lang=ko|sort=木05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[da]], [[dà]], [[gia]], [[già]]|rs=木05}}
+
+# {{defn|lang=vi|sort=木05}}
+
+[[fr:枷]]
+[[ko:枷]]
+[[hu:枷]]
+[[mg:枷]]
+[[ja:枷]]
+[[pl:枷]]
+[[th:枷]]
+[[zh:枷]]

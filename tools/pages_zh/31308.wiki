@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|飃|飘}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=182|rad=風|as=11|sn=20|four=17910|canj=MFHNI}}
+
+# [[whirlwind]], [[cyclone]]
+# [[floating]]
+
+====References====
+* {{Han ref|kx=1414.220|dkj=43946|dj=1936.260|hdz=74490.190|uh=98C4|ud=39108|bh=C4C6|bd=50374}}
+
+----
+
+==Chinese==
+{{zh-forms|s=飘}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|票|風|c1=p|c2=s|t2=wind|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=piāo
+|c=piu1
+|h=pfs=
+|md=
+|mn=phiau
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[drift]]
+# (of snow) to [[fall]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=風11}}
+
+# {{defn|lang=ja|sort=風11}}
+
+====Readings====
+* {{ja-readings|on=[[ひょう]] (hyō)|kun=[[つむじかせ]] (tsumujikase)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=표|eumhun=|rv=pyo|mr=p'yo|y=phyo}}
+
+# {{defn|lang=ko|sort=風11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phiêu]]|rs=風11}}
+
+# {{defn|lang=vi|sort=風11}}
+
+[[zh-min-nan:飄]]
+[[fr:飄]]
+[[hu:飄]]
+[[mg:飄]]
+[[ja:飄]]
+[[pl:飄]]
+[[th:飄]]
+[[zh:飄]]

@@ -1,0 +1,49 @@
+{{also|要约}}
+==Chinese==
+{{zh-forms|s=要约}}
+
+===Pronunciation===
+{{zh-pron
+|m=yāoyuè
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[restrict]], to [[offer]], to [[bid]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|よう|やく|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=ようやく}} {{m|ltc|要約}} ({{IPAchar|/ʔjiewH ʔjak/}}, “important bond or agreement”). Compare modern {{etyl|cmn|-}} {{zh-l|要約|tr=yāoyuē}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[jo̞ːja̠kɯᵝ]|[jo̞ːja̠kɯ̥ᵝ]}}
+
+===Noun===
+{{ja-noun|ようやく}}
+
+# [[abridgment]] {{gloss|shortened version}}, [[summary]]
+# a [[compact]] or [[contract]], an [[agreement]], a [[promise]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|ようやく}}
+
+# to [[sum up]], to [[summarize]]
+# to enter into [[compact]] or [[contract]], to form an [[agreement]], to make a [[promise]]
+
+====Conjugation====
+{{ja-suru|ようやく}}
+
+[[ko:要約]]
+[[lo:要約]]
+[[lt:要約]]
+[[mg:要約]]
+[[ja:要約]]
+[[chr:要約]]
+[[zh:要約]]

@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+===Etymology===
+{{Han etyl}}
+===Han character===
+{{Han char|rn=126|rad=而|as=03|sn=9|four=22227|canj=UMBL|ids=⿱山而}}
+
+# [[end]]
+# [[limit]]
+
+====References====
+* {{Han ref|kx=0962.020|dkj=28880|dj=1410.010|hdz=42812.010|uh=8011|ud=32785|bh=AD42|bd=44354}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=duān,zhuān
+|c=dyun1,zyun1
+|mn=toan/choan
+|mc=y
+|oc=y
+|cat=a
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=而03}}
+
+# [[specialized]]
+# [[concentrated]]
+
+====Readings====
+* {{ja-readings|on=[[たん]] (tan), [[せん]] (sen)|kun=[[はし]] (hashi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=단|eumhun=|rv=dan|mr=tan|y=tan}}
+
+# [[end]]
+# [[limit]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=而03| hanviet = [[chuyên]], [[đoan]], [[xuyền]]}}
+
+# {{defn|lang=vi|sort=而03}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=8011 Nom Foundation]
+
+[[fr:耑]]
+[[hu:耑]]
+[[mg:耑]]
+[[ja:耑]]
+[[pl:耑]]
+[[th:耑]]
+[[zh:耑]]

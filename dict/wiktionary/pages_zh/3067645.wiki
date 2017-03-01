@@ -1,0 +1,23 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|せい|きゅう|しょ|yomi=o}}
+
+===Etymology===
+Compound of {{compound|請求|tr1=seikyū|t1=a demand, a request|書|tr2=sho|t2=a document, something in writing|lang=ja|sort=せいきゅうしょ}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|せいきゅうしょ|acc=5|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+===Noun===
+{{ja-noun|せいきゅうしょ|hhira=せいきうしょ}}
+
+# A [[bill]]; a written [[statement]] of money [[owed]].
+#: {{ja-usex|ご請求書の発行をご要望の場合|ご せいきゅうしょ の はっこう を ご ようぼう の ば.あい|if you wish to be issued a bill}}
+
+===References===
+<references/>
+
+[[ko:請求書]]
+[[hu:請求書]]
+[[mg:請求書]]
+[[chr:請求書]]

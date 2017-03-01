@@ -1,0 +1,39 @@
+{{also|品题}}
+==Chinese==
+{{zh-forms|s=品题}}
+
+===Pronunciation===
+{{zh-pron
+|m=pǐntí
+|cat=
+}}
+
+===Word===
+{{head|zh|lemma}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひん|だい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|ひんだい|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ひんだい}}
+
+# [[evaluation]]
+# [[title]]
+
+===Verb===
+{{ja-verb-suru|ひんだい}}
+
+# [[evaluate]]
+
+====Conjugation====
+{{ja-suru|ひんだい}}
+
+===References===
+<references/>

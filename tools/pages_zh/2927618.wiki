@@ -1,0 +1,25 @@
+{{also|笔记本}}
+==Chinese==
+{{zh-forms|s=笔记本|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǐjìběn
+|c=bat1 gei3 bun2
+|mn=pit-kì-pún
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{qualifier|made from paper}} [[notepad]]; [[notebook]] {{zh-mw|m:本|m:個}}
+#: {{zh-x|我 在 筆記本 上 寫 了 一 個{gè} 單子{zi}。|I wrote down a list on my '''notepad'''.}}
+# {{qualifier|electronic device}} [[laptop]]; [[notebook]] {{zh-mw|m:臺|m:個}}
+#: {{zh-x|這 兩 臺 筆記本 雖然 外形 很 像， 但是 功能 上 卻 差別 很 大。|Although these two '''notebooks''' look very similar, their functions are quite different.}}
+
+[[fr:筆記本]]
+[[lo:筆記本]]
+[[hu:筆記本]]
+[[mg:筆記本]]
+[[ru:筆記本]]

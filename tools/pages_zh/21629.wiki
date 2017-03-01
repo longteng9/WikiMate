@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=109|rad=目|as=05|sn=10|four=60032|canj=BUYVI}}
+
+# to [[confuse]]
+# [[dizzy]], [[dazed]], [[disoriented]]
+
+====References====
+* {{Han ref|kx=0805.200|dkj=23254|dj=1221.140|hdz=42482.030|uh=7729|ud=30505|bh=AF74|bd=44916}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xuàn
+|c=jyun6,jyun4,waan6
+|h=pfs=
+|md=
+|mn=qz,tw,xm,zz:hiân/qz,tw,xm,zz:hîn
+|mn_note=hiân - literary; hîn - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=目05}}
+
+# {{defn|lang=ja|sort=目05}}
+
+====Readings====
+* {{ja-readings|on=[[げん]] (gen), [[かん]] (kan), [[けん]] (ken)|kun=[[くらむ]] (kuramu), [[まどう]] (madou), [[めまい]] (memai), [[まぶしい]] ([[眩しい]]) (mabushii)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[현]], [[환]]|eumhun=|rv=hyeon, hwan|mr=hyŏn, hwan|y=hyen, hwan}}
+
+# {{defn|lang=ko|sort=目05}}
+[[zh-min-nan:眩]]
+[[fr:眩]]
+[[ko:眩]]
+[[hu:眩]]
+[[mg:眩]]
+[[ja:眩]]
+[[pl:眩]]
+[[th:眩]]
+[[zh:眩]]

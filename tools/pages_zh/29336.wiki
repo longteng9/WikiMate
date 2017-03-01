@@ -1,0 +1,115 @@
+{{character info/new}}
+{{also|铇|刨}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=05|sn=13|four=87112|canj=CPRU|ids=⿰金包}}
+
+# carpenter's plane
+
+====References====
+* {{Han ref|kx=1300.210|dkj=40292|dj=1803.020|hdz=64190.070|uh=924B|ud=37451|bh=B95E|bd=47454}}
+
+----
+
+==Chinese==
+{{zh-forms|s=铇}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bào
+|c=paau4
+|mn=khau
+|mc=y
+|oc=y
+|cat=
+}}
+{{attention|zh|please check}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|平鉋|推鉋|鉋凳|鉋刀|鉋削|鉋子|鉋工|鉋床|鉋花|鉋花水}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金05}}
+
+# {{defn|lang=ja|sort=金05}}
+
+====Readings====
+{{ja-readings|goon=[[ひょう]] (hyō)|kanon=[[ほう]] (hō)|kun=[[かんな]] (kanna)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|荒鉋|あらがんな}}
+* {{ja-r|粗鉋|あらしこ}}
+* {{ja-r|合わせ鉋|あわせかんな}}
+* {{ja-r|鉋掛け|かんなかけ}}
+* {{ja-r|鉋屑|かんなくず}}: [[wood]] [[shavings]]
+* {{ja-r|清鉋|きよがんな}}
+* {{ja-r|刳り鉋|くりがんな}}
+* {{ja-r|仕上げ鉋|しあげかんな}}
+* {{ja-r|上鉋|じょうしこ}}
+* {{ja-r|精げ鉋|しらげかんな}}
+* {{ja-r|台鉋|だいがんな}}
+* {{ja-r|中鉋|ちゅうしこ}}, {{ja-r|中鉋|なかしこ}}, {{ja-r|中鉋|なかがんな}}
+* {{ja-r|突き鉋|つきがんな}}
+* {{ja-r|南京鉋|なんきんがんな}}
+* {{ja-r|二枚鉋|にまいがんな}}
+* {{ja-r|平鉋|ひらがんな}}
+* {{ja-r|真鉋|まかな}}
+* {{ja-r|円鉋|まるがんな}}
+* {{ja-r|溝鉋|みぞかんな}}
+* {{ja-r|槍鉋|やりがんな}}
+* {{ja-r|轆轤鉋|ろくろがんな}}
+* {{ja-r|脇鉋|わきがんな}}
+{{der-bottom}}
+
+{{wikipedia|lang=ja}}
+
+===Etymology===
+{{ja-kanjitab|かんな|yomi=k}}
+kana → kanna
+
+===Pronunciation===
+{{ja-pron|yomi=k|かんな|acc=3|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR}}
+
+===Noun===
+{{ja-noun|かんな}}
+
+# [[plane]] {{gloss|a tool}}
+
+===References===
+<references/>
+
+[[Category:ja:Tools|かんな]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=포|eumhun=|rv=po|mr=p'o|y=pho}}
+
+# {{defn|lang=ko|sort=金05}}
+
+[[fr:鉋]]
+[[ko:鉋]]
+[[hu:鉋]]
+[[mg:鉋]]
+[[ja:鉋]]
+[[pl:鉋]]
+[[ru:鉋]]
+[[th:鉋]]
+[[chr:鉋]]
+[[zh:鉋]]

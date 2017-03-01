@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=07|sn=12|four=00131|canj=KGP}}
+
+# [[spot]]s, [[mole]]s
+# [[birthmark]]
+
+====References====
+* {{Han ref|kx=0774.140|dkj=22218|dj=1184.230|hdz=42673.110|uh=75E3|ud=30179|bh=B569|bd=46441}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhì
+|c=zi3
+|mn=qz,xm,zz:chì/qz,tw,xm,zz:kì
+|mn_note=chì - literary; kì - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒07}}
+
+# {{defn|lang=ja|sort=疒07}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[ほくろ]] (hokuro), [[あざ]] (aza)}}
+
+===Noun===
+{{ja-noun|あざ}}
+# [[bruise]], [[birthmark]]
+
+====Usage notes====
+* Often written in hiragana as {{m|ja|あざ}}.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=지|eumhun=|rv=ji|mr=chi|y=ci}}
+
+# {{defn|lang=ko|sort=疒07}}
+
+[[zh-min-nan:痣]]
+[[fr:痣]]
+[[hi:痣]]
+[[hu:痣]]
+[[mg:痣]]
+[[nl:痣]]
+[[ja:痣]]
+[[pl:痣]]
+[[sv:痣]]
+[[th:痣]]
+[[chr:痣]]
+[[zh:痣]]

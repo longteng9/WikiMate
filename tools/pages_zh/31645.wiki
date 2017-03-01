@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|骆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=06|sn=16|four=77364|canj=SFHER|ids=⿰馬各}}
+
+====References====
+* {{Han ref|kx=1438.170|dkj=44734|dj=1962.350|hdz=74554.200|uh=99F1|ud=39409|bh=C064|bd=49252}}
+* Mediawiki uses Unicode normalization which merges U+F91A with this character.
+
+----
+
+==Chinese==
+{{zh-forms|s=骆}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=luò
+|c=lok3,lok6
+|h=pfs=
+|md=
+|mn=lo̍h/lo̍k
+|w=5loq
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} [[white]] [[horse]] with [[black]] [[mane]]
+# [[camel]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|駱駝|單峰駱駝|巴駱和|拉駱駝|駱馬|駱駝絨|駱驛|駱驛不絕}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬06}}
+
+# {{defn|lang=ja|sort=馬06}}
+
+====Readings====
+* {{ja-readings|goon=[[らく]] (raku)|kanon=[[らく]] (raku)|kun=[[かわらげ]] (kawarage)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[락]]>[[낙]]|eumhun=|rv=rak>nak|mr=rak>nak|y=lak>nak}}
+
+# {{defn|lang=ko|sort=馬06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lạc]]|rs=馬06}}
+
+# {{defn|lang=vi|sort=馬06}}
+
+[[fr:駱]]
+[[ko:駱]]
+[[hu:駱]]
+[[ja:駱]]
+[[pl:駱]]
+[[th:駱]]
+[[zh:駱]]

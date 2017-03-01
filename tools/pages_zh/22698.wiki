@@ -1,0 +1,91 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=05|sn=11|four=88108|canj=HYT}}
+
+# bamboo hat
+# bamboo covering
+
+====References====
+* {{Han ref|kx=0880.070|dkj=25924|dj=1308.030|hdz=52959.020|uh=7B20|ud=31520|bh=B2C1|bd=45761}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lì
+|c=lap1,lap6
+|h=pfs=
+|md=
+|mn=qz:le̍rh/tp,lk,km,mg,hc:loe̍h/zz,kh,tn,tc,yl:le̍h/sx:lerē
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹05}}
+
+# {{defn|lang=ja|sort=竹05}}
+
+====Readings====
+* {{ja-readings|on=[[りゅう]] (ryū)|kun=[[かさ]] (kasa)|nanori=}}
+
+===Etymology===
+{{ja-kanjitab|かさ|yomi=k}}
+{{wikipedia|lang=ja}}
+
+{{rfe|lang=ja|Related to [[傘]]}}
+
+====Pronunciation====
+{{ja-pron|かさ|yomi=k}}
+
+====Noun====
+{{ja-noun|かさ}}
+
+# {{rfdef|ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[립]]>[[입]]|eumhun=삿갓|rv=rip>ip|mr=rip>ip|y=lip>ip}}
+
+# {{defn|ko}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lạp]], [[lợp]], [[lép]], [[liếp]], [[lụp]], [[rạp]], [[lẹp]], [[lớp]], [[nập]], [[rập]], [[sập]], [[sệp]], [[sụp]], [[tấp]]|rs=竹05}}
+
+# {{defn|lang=vi|sort=竹05}}
+
+[[zh-min-nan:笠]]
+[[fr:笠]]
+[[ko:笠]]
+[[hu:笠]]
+[[mg:笠]]
+[[ja:笠]]
+[[pl:笠]]
+[[th:笠]]
+[[zh:笠]]

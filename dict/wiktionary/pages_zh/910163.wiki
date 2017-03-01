@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiǎobāo
+|c=siu2 baau1
+|mn=sió-pau
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[small]] [[bag]], [[parcel]], [[package]] or [[packet]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|こ|つつ|k2=づつ|o2=み|yomi=kun}}
+
+===Alternative forms===
+* [[小包み]]
+
+===Etymology===
+From [[小]] (''ko'', "small," "little") + [[包]] (''tsutsumi'', nominative form of [[包む]], "wrap," "pack")
+
+===Pronunciation===
+* {{ja-pron|こづつみ|y=k|acc=2|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|こづつみ}}
+
+# [[parcel]], [[package]]
+
+===Derived terms===
+* [[書留小包]] (''kakitome kozutsumi''): registered parcel
+* [[郵便小包]] (''yūbin kozutsumi''): parcel
+
+===References===
+<references/>
+
+[[ko:小包]]
+[[ja:小包]]
+[[sv:小包]]
+[[zh:小包]]

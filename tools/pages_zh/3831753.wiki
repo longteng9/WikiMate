@@ -1,0 +1,37 @@
+{{also|后任}}
+==Chinese==
+{{zh-forms|s=后任}}
+
+===Pronunciation===
+{{zh-pron
+|m=hòurèn
+|mn=āu-jīm
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[successor]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|にん|yomi=on}}
+
+===Noun===
+{{ja-noun|こうにん}}
+
+# [[successor]]
+#: {{ja-usex|彼は'''後任'''として足立さんを指名した。|かれ は '''こうにん''' として あだち-さん を しめい した。|He appointed Ms. Adachi as his successor.}}
+
+====Antonyms====
+* {{l/ja|前任}}, {{l/ja|先任}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:後任]]
+[[hu:後任]]
+[[mg:後任]]
+[[zh:後任]]

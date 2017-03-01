@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bìngyǒu
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[wardmate]]; a [[friend]] made while staying at a hospital
+
+----
+
+==Japanese==
+{{ja-kanjitab|びょう|ゆう|yomi=on}}
+
+===Etymology===
+{{etyl|zhx|ja|sort=ひょうゆう'}} compound of {{compound|lang=ja|sort=ひょうゆう'|病|tr1=byō|t1=sick|友|tr2=yū|t2=friend}}. Compare {{cog|cmn|病友|tr=bìng yoǔ||wardmate; a friend made in hospital}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|h|びょ|うゆう}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[bjo̞ːjɯᵝː]}}
+
+===Noun===
+{{ja-noun|びょうゆう|hhira=びやういう}}
+
+# a [[sick]] [[friend]], a friend who is [[ill]]
+# different people who have the same [[disease]] {{gloss|not necessarily friends}}
+
+===References===
+<references/>
+* {{R:Kokugo Dai Jiten}}
+
+[[ja:病友]]
+[[zh:病友]]

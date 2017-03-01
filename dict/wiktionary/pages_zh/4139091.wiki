@@ -1,0 +1,53 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǎdìng
+|c=faat3 ding6
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[legal]]; [[statutory]]
+#: {{zh-x|法定 程序|'''legal''' procedure}}
+#: {{zh-x|法定 年齡|'''legal''' age}}
+#: {{zh-x|法定 標準|'''legal''' standard}}
+#: {{zh-x|法定 聲明|'''statutory''' declaration}}
+#: {{zh-x|法定 機構|'''statutory''' authority}}
+
+====Derived terms====
+{{zh-der|法定代表人|法定代理人|法定貨幣|法定計量單位|法定繼承|法定人數}}
+
+{{zh-cat|Law|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほう|てい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ほうてい|y=o}}
+
+===Noun===
+{{ja-noun|ほうてい}}
+
+# being [[legal]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=법정}}
+
+# {{hanja form of|법정|}}
+
+[[zh-min-nan:法定]]
+[[ko:法定]]
+[[hu:法定]]
+[[ja:法定]]
+[[zh:法定]]

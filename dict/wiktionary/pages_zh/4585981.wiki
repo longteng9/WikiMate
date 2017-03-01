@@ -1,0 +1,56 @@
+{{also|网膜}}
+==Chinese==
+{{zh-forms|s=网膜}}
+
+===Pronunciation===
+{{zh-pron
+|m=wǎng膜
+|c=mong5 mok2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[retina]]
+
+====Synonyms====
+* {{zh-l|視網膜}}
+
+{{zh-cat|Anatomy}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|もう|まく|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|sort=もうまく|網|tr1=mō|t1=net|膜|tr2=maku|t2=membrane}}
+
+===Noun===
+{{ja-noun|もうまく}}
+
+# {{lb|ja|anatomy|sort=もうまく}} [[retina]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=망막}}
+
+# {{hanja form of|망막|[[retina]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|võng mạc|[[retina]]}}
+
+[[ko:網膜]]
+[[zh:網膜]]

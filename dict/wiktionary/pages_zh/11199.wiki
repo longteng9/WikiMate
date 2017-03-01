@@ -1,0 +1,90 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=11|sn=13|four=22214|canj=OUOG|ids=⿰亻崔}}
+
+====References====
+* {{Han ref|kx=0114.090|dkj=01005|dj=0242.170|hdz=10211.070|uh=50AC|ud=20652|bh=B6CA|bd=46794}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|alt1=亻|t1=person|崔|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=cuī
+|ma=Zh-cui.ogg
+|c=ceoi1
+|h=pfs=chhûi
+|md=
+|mn=chhui
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[urge]]; to [[push]] someone to do something
+#: {{zh-x|點解 我 成{seng4}日 要 催 你 㗎？|Why do I always have to urge you?|C}}
+# to [[speed up]]; to [[accelerate]]
+
+===Compounds===
+{{zh-der|三催四請|催併|催促|催化|催化劑|催吐劑|催告|催告書|催命|催命符|催命鬼|催奶|催批|催明鳥|催淚彈|催淚瓦斯|催熟|催生|催產|催眠|催眠劑|催眠曲|催眠術|催督|催科|催租|催花雨|催芽|催討|催請|催趲|催辦|催迫|催逼|催青|催魂|公示催告|督催|碎催|羯鼓催花|臘鼓頻催|頻催|風催電}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=人11}}
+
+# {{defn|lang=ja|sort=人11}}
+
+====Readings====
+* {{ja-readings|goon=[[せ]] (se) {{non-joyo-reading}}|kanon=[[さい]] (sai)|kun=[[もよおす]] (moyoosu), [[うながす]] (unagasu), [[もよおし]] (moyooshi)}}
+
+====Compounds====
+* [[催告]]
+* [[催促]]
+* [[催眠術]]
+* [[催涙]]
+* [[催涙弾]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=최|rv=choe|mr=ch'oe}}
+
+# {{defn|lang=ko|sort=人11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thôi]], [[thòi]], [[thui]]|rs=人11}}
+
+# {{defn|lang=vi|sort=人11}}
+
+[[zh-min-nan:催]]
+[[fr:催]]
+[[ko:催]]
+[[hu:催]]
+[[mg:催]]
+[[ja:催]]
+[[no:催]]
+[[pl:催]]
+[[ru:催]]
+[[th:催]]
+[[zh:催]]

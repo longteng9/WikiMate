@@ -1,0 +1,129 @@
+{{character info/new}}
+{{also|问}}
+==Translingual==
+{{stroke order|type=animate}}
+{{stroke order|type=alternative}}<!-- Are these traditional/modern, in some order? Check at commons too. -->
+
+===Han character===
+{{Han char|rn=30|rad=口|as=08|sn=11|four=77607|canj=ANR|ids=⿵門口}}
+
+====References====
+* {{Han ref|kx=0195.100|dkj=03814|dj=0416.100|hdz=74284.030|uh=554F|ud=21839|bh=B0DD|bd=45277}}
+
+----
+
+==Chinese==
+{{zh-forms|s=问}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|門|口|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wèn
+|ma=y
+|c=man6
+|h=pfs=mun
+|mn=būn/qz,tw,xm:mn̄g/zz:mūi
+|mn_note=būn - literary; mn̄g/mūi - vernacular
+|w=3men
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[ask]]; to [[enquire]]
+#* {{zh-x|我 能 '''問''' 個 問題 嗎？|May I '''ask''' a question?}}
+#* {{zh-x|問 他 到 哪兒{r} 去。|'''Ask''' him where to go.}}
+# to [[investigate]]; to [[enquire]] into
+# to [[blame]]; to [[criticise]]
+# to [[intervene]]; to [[interfere]]
+# to [[interrogate]]; to [[sentence]]
+# to [[visit]]; to [[call]] on somebody
+# [[question]]
+
+===Compounds===
+{{zh-der|請問:please, excuse me|問題:question, problem|三推六問|三敲六問|下問|不問|不問皁白|不問青黃|不恥下問|不相聞問|不聞不問|不通聞問|不過問|丙吉問牛|乏人問津|人口問題|候問|借問|做學問|偢問|元好問|先決問題|入國問俗|入境問俗|入境問禁|六問三推|冷帳不問|出問題|刑問|刨根問底|動問|勘問|勞工問題|反問|反躬自問|取問|叮問|吉問|含蓼問疾|呵壁問天|問一答十|問七問八|問世|問事|問事獄具|問住|問俗|問候|問卜|問卷|問卷調查|問名|問天買卦|問好|問字|問安|問安視膳|問官|問官答花|問寒問暖|問寢|問對|問心|問心無愧|問成|問政|問斷|問東問西|問柳尋花|問柳評花|問案|問津|問牛|問牛知馬|問理|問當|問禁|問答|問答題|問結|問罪|問罪之師|問羊知馬|問肯|問舍求田|問荊|問號|問訊|問診|問話|問諸水濱|問路|問輸|問道於盲|問遣|問遺|問長問短|問難|問頭|問題兒童|問題劇|問題少年|問鼎|嘉問|噓寒問暖|國策顧問|垂問|執經問難|大學問|天問|套問|好問|存問|學問|學問有素|學問淵博|宋之問|家問|家庭訪問|審問|尋山問水|尋根問底|尋花問柳|尋芳問柳|弔問|弔喪問疾|弔死問疾|慰問|慰問金|打個問號|打問|打問訊|扣問|承問|投石問路|拷問|拿問|按問|捫心自問|掏問|採風問俗|探問|推問|提問|搜根問底|摘三問四|撫心自問|撫躬自問|擿問|啟問|明知故問|書目答問|望聞問切|查問|根問|案問|楚莊問鼎|榕壇問業|榮問|此問彼難|每事問|民生問題|求田問舍|求神問卜|沒學問|治問|泛問|淑問|潛圖問鼎|激問|無人問津|煩問|理問|疑問|疑問代詞|疑問句|疑問號|發問|白問|盤問|盤根問底|瞅問|社會問題|程序問題|究問|答問|答非所問|策問|素問|細問|絕問|置而不問|老人問題|老齡問題|考問|耕當問奴|聘問|聞問|聲問|臨問|自問|興師問罪|舍本問末|衢室之問|觀風問俗|訊問|記問|訪問|訪問團|訪問法|設問|詢問|試問|詰問|調問|讎問|責問|質問|質疑問難|購問|載酒問字|巡問|追問|通問|逼問|過問|釘問|雞鳴問寢|電話訪問|青年問題|音問|音問兩絕|音問杳然|音問相繼|顧問|飛蓬之問|體問|黃帝素問|黑人問題}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=口08}}
+
+====Readings====
+* {{ja-readings|goon=[[もん]] (mon)|kanon=[[ぶん]] (bun)|kun=[[とう]] (tou), [[とん]] (ton)}}
+
+====Compounds====
+{{rel-top}}
+{{top3}}
+* {{ja-r|問題|もんだい}}
+* {{ja-r|問答|もんどう}}
+* {{ja-r|問う|と.う}}
+* {{ja-r|不問|ふもん}}
+* {{ja-r|学問|がくもん}}
+{{mid3}}
+* {{ja-r|質問|しつもん}}
+* {{ja-r|疑問|ぎもん}}
+* {{ja-r|一問|いちもん}}
+* {{ja-r|尋問|じんもん}}
+* {{ja-r|喚問|かんもん}}
+{{mid3}}
+* {{ja-r|検問|けんもん}}
+* {{ja-r|詰問|きつもん}}
+* {{ja-r|拷問|ごうもん}}
+{{bottom}}
+{{rel-bottom}}
+
+===Counter===
+{{ja-pos|もん|counter}}
+
+# [[question]]s, [[problem]]s
+
+===Noun===
+{{ja-noun|とい}}
+
+# {{alternative form of|問い|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=문|mr=mun}}
+
+# {{defn|lang=ko|sort=口08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[vấn]], [[vắn]], [[vắng]], [[vẩn]], [[vặn]]|rs=口08}}
+
+# {{defn|lang=vi|sort=口08}}
+
+[[zh-min-nan:問]]
+[[da:問]]
+[[fr:問]]
+[[ko:問]]
+[[it:問]]
+[[lo:問]]
+[[lt:問]]
+[[li:問]]
+[[hu:問]]
+[[mg:問]]
+[[fj:問]]
+[[ja:問]]
+[[pl:問]]
+[[ru:問]]
+[[th:問]]
+[[chr:問]]
+[[zh:問]]

@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=109|rad=目|as=09|sn=14|four=62034|canj=BUNOK|ids=⿰目癸}}
+
+====References====
+* {{Han ref|kx=0812.440|dkj=23532|dj=1227.160|hdz=42504.010|uh=777D|ud=30589|bh=BACC|bd=47820}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kuí
+|c=kwai4
+|mc=y
+|oc=y
+|ma=
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[stare]]
+# to [[separate]]
+# 38th [[hexagram]] of the [[I Ching]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=目09}}
+
+# [[staring]]
+
+====Readings====
+* {{ja-readings|on=[[けい]] (kei), [[け]] (ke), [[き]] (ki), [[ぎ]] (gi)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=규|eumhun=|rv=gyu|mr=kyu|y=kyu}}
+
+# [[squint]], [[strabismus]]
+# [[stare]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=目09|hanviet=[[khoé]], [[khuê]]}}
+
+# {{defn|lang=vi|sort=目09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=777d Nom Foundation]
+
+[[fr:睽]]
+[[hu:睽]]
+[[mg:睽]]
+[[ja:睽]]
+[[pl:睽]]
+[[th:睽]]
+[[zh:睽]]

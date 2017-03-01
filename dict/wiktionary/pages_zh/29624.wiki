@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|铮}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=08|sn=16|four=82153|canj=CBSD,CNSD|ids=⿰金争}}
+
+====References====
+* {{Han ref|kx=1310.160|dkj=40553|dj=1812.060|hdz=64201.030|uh=931A|ud=37658|bh=BFFE|bd=49150}}
+
+----
+
+==Chinese==
+{{zh-forms|s=铮}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhēng
+|c=zaang1,zang1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[onomatopoeia]] for the [[sound]] of [[metal]] [[object]]s being [[struck]]
+# an [[ancient]] type of [[percussion]] [[instrument]], made of [[copper]], [[bell]]-shaped, and narrow, used to [[pace]] the [[marching]] of [[armies]]
+
+===References===
+* {{R:twedu|A04315}}
+* [http://www.zdic.net/z/27/js/94EE.htm zdic.net (Han Dian)]
+
+{{zh-cat|Musical instruments}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金08}}
+
+# {{defn|lang=ja|sort=金08}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[どら]] (dora)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=쟁|eumhun=|rv=jaeng|mr=chaeng|y=cayng}}
+
+# {{defn|lang=ko|sort=金08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=金08| hanviet = [[tranh]], [[trành]]}}
+
+# {{defn|lang=vi|sort=金08}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:錚]]
+[[ko:錚]]
+[[hu:錚]]
+[[ja:錚]]
+[[pl:錚]]
+[[th:錚]]
+[[zh:錚]]

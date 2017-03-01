@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|缯}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=12|sn=18|four=28966|canj=VFCWA|ids=⿰糹曾}}
+
+# [[silk]] [[fabric]]s
+# used as a [[surname]]
+
+====References====
+* {{Han ref|kx=0938.250|dkj=27888|dj=1377.240|hdz=53454.080|uh=7E52|ud=32338|bh=C2B9|bd=49849}}
+
+----
+
+==Chinese==
+{{zh-forms|s=缯}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zēng
+|c=zang1
+|mc=y
+|oc=y
+|ma=
+|cat=n,pn
+}}
+
+===Noun===
+{{zh-noun}}
+
+# silk
+# (less commonly) finely woven fabrics other than silk
+#* {{zh-x|又 東 有 ^白蠻，丈 夫 婦 人 以 白 繒 為 衣，下 不 過 膝。|Further to the east lie the ''White Barbarians'' ({{lang|zh|白蠻}}), whose men and women use white '''fine cloth''' as clothing, however this does not descend beneath the knee.|CL|ref={{RQ:Manshu|4|The Máng​ Barbarians (茫蠻; ie. Pyu?) south of Yǒng​chāng​ (永昌城; ie. modern Baoshan)|20}}}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=糸12}}
+
+# {{defn|lang=ja|sort=糸12}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō), [[ぞう]] (zō), [[そう]] (sō)|kun=[[きぬ]] (kinu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=증|eumhun=|rv=jeung|mr=chŭng|y=cung}}
+
+# {{defn|lang=ko|sort=糸12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=糸12| hanviet = tăng}}
+
+# {{defn|lang=vi|sort=糸12}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=7e52 Nom Foundation]
+
+[[fr:繒]]
+[[hu:繒]]
+[[mg:繒]]
+[[pl:繒]]
+[[th:繒]]
+[[zh:繒]]

@@ -1,0 +1,15 @@
+==Chinese==
+{{zh-forms|s=中央处理器|type=23}}
+{{zh-wp}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhōngyāng chǔlǐqì
+|c=zung1 joeng1 cyu2 lei5 hei3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|computing}} [[central processing unit]] ([[CPU]])

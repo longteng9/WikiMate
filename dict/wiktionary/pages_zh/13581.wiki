@@ -1,0 +1,133 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=02|sn=5|four=47440|canj=VE|ids=⿰女又}}
+
+====Derived characters====
+* [[怒]] [[努]]
+
+====Descendants====
+* [[ぬ]]
+* [[ヌ]]
+
+====References====
+* {{Han ref|kx=0254.260|dkj=06039|dj=0517.030|hdz=21024.070|uh=5974|ud=22900|bh=A5A3|bd=42403}}
+
+[[Category:Han characters from which hiragana were derived|ぬ]]
+[[Category:Han characters from which katakana were derived|ヌ]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|又|ls=ic|t1=woman|t2=hand}} – a woman with hands at the back (bronze inscriptions).
+
+The oracle bone script forms are {{liushu|p|adj=1|nocap=1}}, showing a woman with hands crossed at the back, as opposed to {{och-l|女}} which depicts a woman clasping her hands in front of the body.
+
+===Pronunciation===
+{{zh-pron
+|m=nú
+|c=nou4
+|h=pfs=nù/nùng
+|mn=lô͘/zz:nô͘
+|mn-t=nou5
+|mc=y
+|oc=y
+|ma=
+|cat=n,pron,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[slave]]; [[servant]]
+# {{lb|zh|polite}} [[I]]
+# {{lb|zh|derogatory}} a person associated with a particular [[identity]] or [[trait]]
+# to [[enslave]]
+
+====Synonyms====
+* {{sense|I}}
+{{zh-dial|我}}
+
+===Compounds===
+{{zh-der|乾奴才|五奴|亡國奴|入主出奴|劉寄奴|匈奴|匈奴入侵|千頭橘奴|史奴比|名利奴|呼奴使婢|奚奴|女奴|奴僕|奴儕|奴化|奴哥|奴奴|奴婢|奴子|奴家|奴工|奴廝兒|奴役|奴從|奴性|奴戮|奴才|奴書|奴材|奴產子|奴視|奴胎|奴脣婢舌|奴輩|奴隸|奴顏婢睞|奴顏婢膝|奴顏媚骨|婢膝奴顏|守財奴|守錢奴|官奴|家奴|家生奴|小奚奴|崑崙奴|崑崙奴傳|平頭奴子|引光奴|忤奴|木奴|橘奴|洋奴|烏舅金奴|燭奴|牧豬奴戲|狂奴故態|田舍奴|看錢奴|美麗奴羊|老奴|耕當問奴|臊羯奴|花奴羯鼓|荔奴|荔枝奴|蠻奴|豪奴|農奴|農奴制度|逃奴|酪奴|金奴|金奴銀婢|錫奴|阿奴|雁奴|青奴|飛奴|馬奴|馬奴法典|騶奴|黑奴|龜奴}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=女02}}
+
+a [[thing]], an [[object]]; ([[derogatory]], [[familiar]]) a [[person]]
+
+====Readings====
+* {{ja-readings|kanon=[[ど]] (do)|goon=[[ぬ]] (nu)|kun=[[やっこ]] (yakko), [[やつ]] (yatsu), [[め]] (me)|nanori=[[ぬい]] (nui)}}
+
+{{ja-kanjitab|やつ|yomi=k}}
+===Pronunciation 1===
+{{ja-pron|やつ|y=k}}
+
+====Noun====
+{{ja-noun|やつ}}
+
+# {{lb|ja|colloquial|impolite|}} [[fellow]], [[chap]], [[guy]]
+
+====Pronoun====
+{{ja-pos|pronoun|やつ}}
+
+# {{lb|ja|colloquial|impolite|}} [[he]], [[she]]
+
+{{ja-kanjitab|やっこ|yomi=k}}
+===Pronunciation 2===
+{{ja-pron|やっこ|y=k}}
+
+====Noun====
+{{ja-noun|やっこ}}
+
+#  [[servant]], [[valet]], [[footman]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=노}}
+
+# {{defn|lang=ko|sort=女02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nô]], [[no]], [[nó]], [[nọ]]|rs=女02}}
+
+# {{lb|vi|colloquial}} [[he]], [[she]], [[it]]
+
+====Usage notes====
+* Chữ Nôm.
+* This is the common form of this character. The regular form is [[伮]].
+* The term is ''de facto'' used to refer to any animal (including the human) in the third person, in a disrespectful manner. The use of the term to translate the English ''it'', or to refer to an inanimate object, is rather artificial, and mostly found in awkward (but common) translation of other languages.
+
+====References====
+* [http://www.chunom.org/pages/奴 www.chunom.org]
+
+[[fr:奴]]
+[[ko:奴]]
+[[lo:奴]]
+[[lt:奴]]
+[[hu:奴]]
+[[mg:奴]]
+[[fj:奴]]
+[[ja:奴]]
+[[no:奴]]
+[[pl:奴]]
+[[ru:奴]]
+[[th:奴]]
+[[chr:奴]]
+[[zh:奴]]

@@ -1,0 +1,178 @@
+==Chinese==
+{{zh-forms|alt=石留}}
+
+===Etymology===
+Abbreviation of {{zh-l|安石榴}}, see there for more.
+
+===Pronunciation===
+{{zh-pron
+|m=shíliú,tl=y
+|c=sek6 lau4
+|h=pfs=sa̍k-liù
+|md=siŏh-lìu
+|mn=kh,tp,tn,lk,km,mg,hc,tc:sia̍h-liû/xm,qz,sx,yl:siā-liû/zz:sēe-liû/twr:chio̍h-liû/twr:se̍k-liû
+|w=5zaq lieu
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[pomegranate]]
+
+====Derived terms====
+{{zh-der|番石榴|石榴石|拜倒石榴裙下|石榴裙}}
+
+{{zh-cat|Fruits}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Pomegranate}}
+[[File:Punica.granatum(01).jpg|thumb|250px|{{lang|ja|石榴}} (''zakuro'', ''jakuro'', ''sekiryū''): young '''{{l|en|pomegranate}}''' trees.]]
+[[File:Pomegranate DSW.JPG|thumb|250px|{{lang|ja|石榴}} (''zakuro'', ''jakuro'', ''sekiryū''): an opened '''{{l|en|pomegranate}}''' fruit.]]
+</div>
+
+===Alternative forms===
+* {{ja-l|柘榴}}
+* {{ja-l|若榴}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|じゃく|k1=ざく|る|k2=ろ|sort=さくろ'}}
+From {{der|ja|ltc|石榴|tr={{IPAchar|/d͡ʑiᴇk̚ lɨu/}}|lit=stone + pomegranate}}.  Compare modern {{etyl|wuu|-}} reading ''zaq lieu'', {{etyl|hak|-}} ''sa̍k-liù''.
+
+The reading is irregular.  This may represent a shift in pronunciation from an older borrowing: compare the expected [[呉音#Japanese|goon]] reading ''jakuru''.  Alternatively, this reading may reflect an ancient sound borrowing, indicating the {{w|Zagros Mountains}} of modern-day {{w|Iran}}, where the {{l|en|pomegranate}} was originally cultivated.<ref name="Shimizu">
+{{cite-book
+|editor = 清水桂一 (Keiichi Shimizu)
+|title = たべもの語源辞典 (''Tabemono Gogen Jiten'',  “Etymological Dictionary of Foods”)
+|language = Japanese
+|year = 1980
+|publisher = 東京堂出版 (''Tōkyō-dō Shuppan'', “Tokyo Hall Publishing”)
+|url=http://www.tokyodoshuppan.com/search/?search_keyword=&search_title=%E3%81%9F%E3%81%B9%E3%82%82%E3%81%AE%E8%AA%9E%E6%BA%90%E8%BE%9E%E5%85%B8
+|isbn = 4-490-10128-7
+}}
+</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=irr|ざくろ|acc=1|acc_ref=DJR,NHK,SMK5}}
+
+====Noun====
+{{ja-noun|ざくろ|ザクロ}}
+
+# {{l|en|pomegranate}}
+
+=====Usage notes=====
+{{U:ja:biology|ザクロ}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|石%榴%石|ざく%ろ%いし}}: {{l|en|garnet}} {{qualifier|gemstone}}
+* {{ja-r|石%榴%口|ざく%ろ%ぐち}}: a low door used in {{l|en|bathhouse|bathhouses}} during the Edo period
+* {{ja-r|石%榴ざか|ざく%ろざか}}: a {{l|en|rooster}}'s {{l|en|crest}} or {{l|en|comb}} that resembles a {{l|en|pomegranate}}
+* {{ja-r|石%榴%草|ざく%ろ%そう}}: {{taxlink|Mollugo pentaphylla|species|noshow=1|ver=161102}}
+* {{ja-r|石%榴%鼻|ざく%ろ%ばな}}: a {{l|en|red}} {{l|en|swell|swollen}} {{l|en|nose}}, often {{l|en|see|seen}} on {{l|en|alcoholic|alcoholics}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|じゃく|る|k2=ろ|sort=しゃくろ'}}
+From {{der|ja|ltc|石榴|tr={{IPAchar|/d͡ʑiᴇk̚ lɨu/}}|lit=stone + pomegranate}}. Uses the regular [[呉音#Japanese|goon]] reading of ''jaku'' for the first character, and the irregular ''ro'' reading for the second character instead of the expected [[呉音#Japanese|goon]] reading of ''ru''.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|じゃくろ}}
+
+====Noun====
+{{ja-noun|じゃくろ}}
+
+# {{lb|ja|しゃくろ'|obsolete}} {{l|en|pomegranate}}
+
+=====Usage notes=====
+This reading appears to be obsolete.
+
+===Etymology 3===
+{{ja-kanjitab|yomi=o|せき|りゅう|sort=せきりゅう}}
+{{IPAchar|/sekiriu/}} → {{IPAchar|/sekirjuː/}}
+
+From {{der|ja|ltc|石榴|tr={{IPAchar|/d͡ʑiᴇk̚ lɨu/}}|lit=stone + pomegranate}}. Uses the regular [[漢音#Japanese|kanon]] reading of both characters.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|せきりゅう|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|せきりゅう|hhira=せきりう}}
+
+# {{lb|ja|sort=せきりゅう|uncommon}} {{l|en|pomegranate}}
+
+=====Usage notes=====
+The ''zakuro'' reading above is the most common reading for this term.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|石%榴%子|せき%りゅう%し}}: {{l|en|garnet}} {{qualifier|gemstone; less common reading than ''zakuro-ishi'' above}}
+* {{ja-r|石%榴%皮|せき%りゅう%ひ}}: {{l|en|dried}} {{l|en|pomegranate}}, both {{l|en|seed}}s and {{l|en|skin}}, used as a treatment for {{l|en|tapeworm}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+{{C|ja|Myrtales order plants|Fruits|sort=さくろ'}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=석류}}
+
+# {{hanja form of|석류|[[pomegranate]]}}
+
+----
+
+==Okinawan==
+
+===Etymology===
+{{ryu-OG|43|ざぐら}}  Appears to be cognate with mainland Japanese {{m|ja|石榴|tr=zakuro}}; see that entry for further details.
+
+===Noun===
+{{head|ryu|noun|hiragana|ざくら|romaji|zakura}}
+
+# [[pomegranate]]
+
+===References===
+<references/>
+:* {{R:Okinawago Jiten}}
+
+[[Category:ryu:Myrtales order plants|さくら']]
+[[Category:ryu:Fruits|さくら']]
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|thạch lựu|[[pomegranate]]}}
+
+[[ar:石榴]]
+[[zh-min-nan:石榴]]
+[[fr:石榴]]
+[[ko:石榴]]
+[[kn:石榴]]
+[[lo:石榴]]
+[[lt:石榴]]
+[[hu:石榴]]
+[[mg:石榴]]
+[[nl:石榴]]
+[[ja:石榴]]
+[[pt:石榴]]
+[[ro:石榴]]
+[[sv:石榴]]
+[[th:石榴]]
+[[tr:石榴]]
+[[zh:石榴]]

@@ -49,6 +49,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->txtTrans->installEventFilter(this);
 
     connect(DictEngine::instance(), &DictEngine::receivedEntryResponse, this, &MainWindow::on_receivedEntryResponse);
+    connect(DictEngine::instance(), &DictEngine::queryDumpEntryFinished, this, &MainWindow::on_receivedEntryResponse);
     connect(ui->tbvFiles, &FileTableView::startTransEditing, this, &MainWindow::on_btnStartTask_clicked);
     connect(ui->tbvFiles, &FileTableView::startExportTask, this, &MainWindow::on_btnExportTask_clicked);
     connect(ui->tbvFiles, &FileTableView::refreshTaskList, this, &MainWindow::on_btnRefreshTasks_clicked);
@@ -206,3 +207,6 @@ void MainWindow::initUI(){
     item->setSizeHint(QSize(25, 25));
     ui->lstTaskFilter->addItem(item);
 }
+
+
+

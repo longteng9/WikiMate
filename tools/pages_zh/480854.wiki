@@ -1,0 +1,32 @@
+{{also|现代英语}}
+==Chinese==
+{{zh-forms|s=现代英语|type=22}}
+
+===Pronunciation===
+{{zh-pron
+|m=Xiàndài Yīngyǔ
+|cat=propn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# [[Modern English]]
+
+{{zh-cat|Languages}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|げん|だい|えい|ご|yomi=on}}
+
+===Etymology===
+* {{compound|現代|英語|lang=ja|t1=modern|t2=English language|sort=けんだいえいご'}}
+* {{suffix|英|語|lang=ja|t2=language|t1=England|sort=けんだいえいご'}}
+
+===Proper noun===
+{{ja-pos|げんだい えいご|proper}}
+
+# [[Modern English]]
+
+[[Category:ja:Languages|けんだいえいご']]

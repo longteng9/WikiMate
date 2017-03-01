@@ -1,0 +1,42 @@
+{{also|再开}}
+==Chinese==
+{{zh-forms|s=再开}}
+
+===Pronunciation===
+{{zh-pron
+|m=zàikāi
+|c=zoi3 hoi1
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[reopen]]
+# to [[resume]], [[restart]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|さい|かい|yomi=on}}
+
+===Etymology===
+{{prefix|再|開|lang=ja|t1=re-|t2=open|sort=かい}}
+
+===Noun===
+{{ja-noun|さいかい}}
+
+# [[reopening]]
+# [[resumption]]
+
+===Verb===
+{{ja-verb-suru|さいかい}}
+
+# to [[reopen]]
+# to [[resume]], [[restart]]
+
+====Conjugation====
+{{ja-suru|さいかい}}
+
+[[ko:再開]]
+[[zh:再開]]

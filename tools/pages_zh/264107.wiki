@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|てい|か|yomi=on}}
+
+===Etymology===
+From ''tei'' ([[定]], [[fixed]]) + ''ka'' ([[価]], [[monetary]] [[value]])
+
+===Noun===
+{{ja-noun|ていか}}
+# [[fixed]] [[price]], [[set]] price, [[list]] price, [[regular]] price, [[established]] price (as opposed to a price after discount)
+#* '''定価'''で[[売る]]
+#*: '''ていか'''でうる
+#*: '''''teika''' de uru''
+#*: Sell at a '''fixed price'''
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:定価]]
+[[hu:定価]]
+[[ja:定価]]
+[[zh:定価]]

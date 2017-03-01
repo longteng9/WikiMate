@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|つう|やく|しゃ|yomi=o}}
+
+===Etymology===
+Compound of {{suffix|sort=つうやくしゃ|lang=ja|通訳|者|tr1=tsūyaku|t1=interpretation|tr2=sha|t2=[[-er]], someone who does something}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[t͡sɯᵝːja̠kɯᵝɕʲa̠]}}
+
+===Noun===
+{{ja-noun|つうやくしゃ|kyu=通譯者}}
+
+# an [[interpreter]]: someone who [[listen]]s to speech in one language, and repeats that content in another language
+
+====Synonyms====
+* {{ja-l|通弁|つうべん|tsūben}}
+* {{ja-l|通事|つうじ|tsūji}}
+* {{ja-l|通訳|つうやく|tsūyaku}}
+* {{ja-l|通訳人|つうやくにん|tsūyakunin}}
+
+====Usage notes====
+Although the term {{m|ja|通訳|tr=tsūyaku}} can mean both {{m|en|interpretation}} and {{m|en|interpreter}} (the person doing the interpretation), the term {{lang|ja|通訳者}} (''tsūyakusha'') refers more specifically to the person.
+
+The term {{ja-l|通訳人||tsūyakunin}} appears in more dictionaries<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>. The term {{lang|ja|通訳者}} (''tsūyakusha'') may have gained currency as a parallel construction to {{m|ja|翻訳者|tr=hon'yakusha||translator}}, for which there is no {{lang|ja|翻訳人}} (''hon'yakunin'') form.
+
+===References===
+<references/>

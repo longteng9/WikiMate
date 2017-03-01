@@ -1,0 +1,27 @@
+==Japanese==
+{{ja-kanjitab|ち|かん|yomi=o}}
+
+===Etymology===
+From {{der|ja|ltc|遲緩|tr=ɖˠiɪ  ɦuɑn<sup>X</sup>}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|ちかん|acc=0|acc_ref=DJR}}
+
+===Adjective===
+{{ja-adj|kyu=遲緩|infl=na|ちかん|hhira=ちくわん}}
+
+# [[slow]], [[tardy]]
+
+====Inflection====
+{{ja-na|ちかん}}
+
+===Noun===
+{{ja-noun|kyu=遲緩|ちかん|hhira=ちくわん}}
+
+# [[slowness]], [[tardity]]
+
+===References===
+<references/>
+
+[[mg:遅緩]]
+[[ja:遅緩]]

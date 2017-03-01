@@ -1,0 +1,39 @@
+{{also|吳音|吴音}}
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Go-on}}
+</div>
+{{ja-kanjitab|ご|おん|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|呉|tr1=go|t1=the Wú region of China|音|tr2=on|t2=sound, pronunciation}}.
+
+===Pronunciation===
+{{ja-pron|ご.おん|acc=h|acc2=a|acc_ref=NHK,DJR|acc2_ref=DJR|y=o}}
+* {{homophone|語音|五音|lang=ja|sort=こおん'}}
+
+===Noun===
+{{ja-noun|ご.おん}}
+
+# The pronunciation of Chinese hanzi characters used in the Wú {{zh-l|吳}} and Yuè {{zh-l|越}} regions of China.
+# A category of ''on'yomi'' ({{ja-l|音読み}}), the Japanese approximation of the original Chinese pronunciation.
+#: The kanji pronunciation first brought to Japan via the Korean peninsula. This category was called ''waon'' ({{ja-l|和音}}) until the middle of the [[w:Heian period|Heian Period]], after which it was also called ''goon''. Generally regarded as the character reading brought over long ago from the lower reaches of the [[Yangtze]] River (the Wú region). Contrast with ''kan'on'' ({{ja-l|漢音}}), ''sōon'' ({{ja-l|宋音}}), and ''tōon'' ({{ja-l|唐音}}).
+
+====Synonyms====
+* {{ja-l|和音|わおん|waon}}
+
+===See also===
+* {{ja-l|訓読み|くんよみ|kun'yomi}}
+* {{ja-l|音読み|おんよみ|on'yomi}}
+* {{ja-l|漢音|かんおん|kan'on}}
+* {{ja-l|宋音|そうおん|sōon}}
+* {{ja-l|唐音|とうおん|tōon}}
+
+===References===
+<references/>
+
+[[cs:呉音]]
+[[ky:呉音]]
+[[ja:呉音]]
+[[uz:呉音]]

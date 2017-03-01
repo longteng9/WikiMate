@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=09|sn=12|four=|canj=RJKA|ids=⿰口者}}
+
+====References====
+* {{Han ref|kx=0201.121|hdz=10636.041|uh=556B|ud=21867}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|c=ze1
+|cat=part
+}}
+
+====Particle====
+{{zh-particle}}
+
+# {{lb|zh|Cantonese}} {{non-gloss definition|sentence final particle:}} [[only]]; [[just]]; [[simply]]; [[merely]]
+#: {{zh-x|你 冇 女朋友？梗係 唔 信 啦！……或者 有。你 唔知 啫。|You don't have a girlfriend? Of course I don't believe you! ... Maybe you do have one, but you '''just''' don't know it.|C|ref={{w2|zh|陳慧嫻}}, {{w2|zh|紅茶館_(歌曲)|紅茶館}}}}
+
+=====Synonyms=====
+* {{qualifier|Mandarin}} {{zh-l|而已}}
+
+===Etymology 2===
+{{zh-forms|alt=朘,jer}}
+
+====Pronunciation====
+{{zh-pron
+|c=zoe1
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|Cantonese}} {{lb|zh|childish}} [[penis]]
+
+=====Derived terms=====
+{{zh-der|啫啫}}
+
+===Etymology 3===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=zhě
+|c=ze1
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only used in|啫喱/啫哩|jelly}}
+
+[[fr:啫]]
+[[pl:啫]]
+[[th:啫]]
+[[zh:啫]]

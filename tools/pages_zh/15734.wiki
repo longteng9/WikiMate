@@ -1,0 +1,95 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=14}}
+
+===Han character===
+{{Han char|rn=61|rad=心|as=11|sn=14|four=96047|canj=PAWE|ids=⿰忄曼}}
+
+====References====
+* {{Han ref|kx=0399.120|dkj=11110|dj=0738.290|hdz=42346.010|uh=6162|ud=24930|bh=BA43|bd=47683}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|心|alt1=忄|t1=heart|曼|ls=psc|c1=s|c2=p}} – a character trait or behavior (of the heart), sluggish. Note that 曼 also means “long, extended”, so connotations of “take a long time, leisurely, sluggish”.
+
+===Pronunciation===
+{{zh-pron
+|m=màn
+|ma=zh-màn.ogg
+|c=maan6
+|h=pfs=man
+|mn=bān
+|w=3me
+|mc=y
+|oc=y
+|cat=adv,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[slow]]; [[sluggish]]
+# [[slowly]], [[leisurely]]
+
+====Antonyms====
+* {{zh-l|快}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=心11}}
+
+# [[lazy]]
+
+====Readings====
+{{ja-readings
+|goon=[[めん]] (men)
+|kanon=[[ばん]] (ban)
+|kanyoon=[[まん]] (man)
+|kun=[[おこたる]] (okotaru), [[あなどる]] (anadoru), [[おごる]] (ogoru)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=만|eumhun=|mr=man|y=man}}
+
+# {{defn|lang=ko|sort=心11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mạn]], [[mắn]]|rs=心11}}
+
+# {{defn|lang=vi|sort=心11}}
+
+[[zh-min-nan:慢]]
+[[fr:慢]]
+[[ko:慢]]
+[[it:慢]]
+[[lt:慢]]
+[[li:慢]]
+[[hu:慢]]
+[[mg:慢]]
+[[fj:慢]]
+[[ja:慢]]
+[[no:慢]]
+[[pl:慢]]
+[[sr:慢]]
+[[ta:慢]]
+[[th:慢]]
+[[uk:慢]]
+[[zh:慢]]

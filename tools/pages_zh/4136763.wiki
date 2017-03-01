@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=zìyóuhuà
+|c=zi6 jau4 faa3
+|mn=chū-iû-hòa
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[liberalize]]
+
+===Noun===
+{{zh-noun}}
+
+# [[liberalization]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|じ|ゆう|か|yomi=on}}
+
+===Noun===
+{{ja-noun|じゆうか}}
+
+# [[liberalization]]
+
+===Verb===
+{{ja-verb-suru|じゆうか}}
+
+# to [[liberalize]]
+#: {{ja-usex|為替レートを'''自由化'''すべきだ。|かわせ レート を '''じゆうか''' すべき だ。|The currency rates should not be manipulated.}}
+
+====Conjugation====
+{{ja-suru|じゆうか}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=자유화}}
+
+# {{hanja form of|자유화|[[liberalization]]}}
+
+[[ko:自由化]]
+[[zh:自由化]]

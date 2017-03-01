@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|青}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Alternative forms===
+* {{l|mul|青}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|生|円|ls=ic}}.
+
+===Han character===
+{{Han char|rn=174|rad=靑|as=00|sn=8|four=|canj=QMBLM|ids=⿱龶円}}
+#{{mul-kangxi radical-def}}
+====References====
+* {{Han ref|kx=1381.190|dkj=42564|dj=1891.160|hdz=64046.011|uh=9751}}
+
+----
+
+==Chinese==
+{{zh-see|青|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=靑00}}
+
+# [[blue]]
+
+====Readings====
+{{ja-readings
+|gonon=[[しょう]] (shō), {{qualifier|historical}} [[しやう]] (shau)
+|kanon=[[せい]] (sei)
+|kun=[[あお]] (ao), [[あおい]] ([[靑い]], aoi)
+}}
+
+====Usage notes====
+This character is rarely used in modern Japanese. It has been replaced by its variant form {{m|ja|青}}.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=청|rv=cheong|mr=ch'ŏng|y=cheng|eumhun=푸르다|ehrv=pureuda|ehmr=p'urŭda|ehy=phuluta}}
+
+# [[blue]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thanh]]|rs=靑00}}
+
+# {{defn|lang=vi|sort=靑00}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=9751&img=1 Nom Foundation]
+
+[[Category:CJKV radicals| ]]
+
+[[fr:靑]]
+[[ko:靑]]
+[[hu:靑]]
+[[mg:靑]]
+[[ms:靑]]
+[[ja:靑]]
+[[pl:靑]]
+[[ru:靑]]
+[[th:靑]]
+[[zh:靑]]

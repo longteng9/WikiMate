@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|ひ|せん|けい|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|ひせんけい}}
+
+# {{lb|ja|mathematics|sort=ひせんけい}} [[nonlinear]]
+
+====Inflection====
+{{ja-na|ひせんけい}}
+
+===Noun===
+{{ja-noun|ひせんけい}}
+
+# {{lb|ja|mathematics}} being [[nonlinear]]
+
+====Alternative forms====
+* {{ja-r|非線型|ひせんけい}}
+
+====Antonyms====
+* {{ja-r|線形|せんけい|gloss=linear}}
+
+[[zh:非線形]]

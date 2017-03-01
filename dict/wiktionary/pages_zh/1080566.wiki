@@ -1,0 +1,77 @@
+{{also|报道}}
+==Chinese==
+{{zh-forms|s=报道}}
+
+===Pronunciation===
+{{zh-pron
+|m=bàodào
+|c=bou3 dou6
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun|mw=篇}}
+
+# [[news]] [[report]]; [[story]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[report]] ([[news]])
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほう|どう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ほうどう|y=o|acc=0}}
+
+===Noun===
+{{ja-noun|ほうどう}}
+
+# news report, news, coverage, reportage
+#: {{ja-usex|'''報道'''を見てどう思いましたか？|'''ほうどう''' を みて どう おもいました か？|What did you think of the news coverage?}}
+
+====Synonyms====
+* {{ja-r|ニュース}}, {{ja-r|報告|ほうこく}}
+
+====Derived terms====
+* {{ja-r|報道機関|ほうどうきかん|gloss=the press}}
+* {{ja-r|報道陣|ほうどうじん|gloss=press corps}}
+* {{ja-r|報道番組|ほうどうばんぐみ|gloss=news program}}
+* {{ja-r|報道局|ほうどうきょく|gloss=press bureau}}
+
+===Verb===
+{{ja-verb-suru|ほうどう}}
+
+# [[cover]] in the news, [[report]] in the news
+
+====Conjugation====
+{{ja-suru|ほうどう}}
+
+====Synonyms====
+* {{ja-r|報じる|ほうじる}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=보도}}
+
+# {{hanja form of|보도|news [[coverage]]; [[report]]}}
+
+[[ko:報道]]
+[[lo:報道]]
+[[hu:報道]]
+[[mg:報道]]
+[[ja:報道]]
+[[chr:報道]]
+[[zh:報道]]

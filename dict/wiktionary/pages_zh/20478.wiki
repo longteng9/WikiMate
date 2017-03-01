@@ -1,0 +1,69 @@
+{{character info/new}}
+{{also|獨}}
+==Translingual==
+{{stroke order|strokes=9}}
+{{stroke order|type=animate}}
+
+===Etymology===
+{{Han simp|獨|f=蜀|t=虫}}
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=06|sn=9|four=|canj=KHLMI|ids=⿰犭虫}}
+
+====References====
+* {{Han ref|kx=0711.101|dkj=20406|dj=1123.090|hdz=21344.060|uh=72EC|ud=29420}}
+
+----
+
+==Chinese==
+{{zh-see|獨}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=犬06|style=s|kyu=獨}}
+
+# {{defn|lang=ja|sort=犬06}}
+
+====Readings====
+* {{ja-readings|goon=[[どく]] (doku)|kanon=[[とく]] (toku)|kun=[[ひとり]] (hitori)}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|独語|どくご}}
+* {{ja-r|数独|すうどく}}
+* {{ja-r|独楽|こま}}
+* {{ja-r|独学|どくがく}}
+* {{ja-r|独自|どくじ}}
+* {{ja-r|独唱|どくしょう}}
+{{mid3}}
+* {{ja-r|独身|どくしん}}
+* {{ja-r|独善|どくぜん}}
+* {{ja-r|独走|どくそう}}
+* {{ja-r|独創|どくそう}}
+* {{ja-r|独奏|どくそう}}
+* {{ja-r|独断|どくだん}}
+{{mid3}}
+* {{ja-r|独特|どくとく}}
+* {{ja-r|独立|どくりつ}}
+* {{ja-r|独立独歩|どくりつどっぽ}}
+* {{ja-r|孤独|こどく}}
+{{bottom}}
+
+===Proper noun===
+{{ja-pos|proper|どく}}
+
+# {{abbreviation of|独逸|lang=ja|nodot=1}} ("[[Germany]]")
+
+[[fr:独]]
+[[hu:独]]
+[[mg:独]]
+[[ja:独]]
+[[no:独]]
+[[pl:独]]
+[[sr:独]]
+[[th:独]]
+[[vi:独]]
+[[zh:独]]

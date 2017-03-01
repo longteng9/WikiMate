@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|おんな|もの|yomi=kun}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=おんなもの|女|tr1=onna|t1=woman, women|物|tr2=mono|t2=thing, things}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=kun|おんなもの|acc=0|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|おんなもの|hhira=をんなもの}}
+
+# [[women]]'s [[goods]]
+# {{lb|ja|sort=おんなもの|theater|specifically|_|noh}} alternative for {{m|ja|女能|tr=onnanō}}: a [[noh]] play with a [[female]] [[protagonist]]; a [[noh]] play with a female [[cast]] {{qualifier|popular in the {{w|Muromachi period}}, but banned in the early {{w|Edo period}}}}
+
+====Synonyms====
+* {{sense|women's goods}} {{ja-r|婦人物|ふじんもの}}
+
+====Antonyms====
+* {{sense|men's goods}} {{ja-r|男物|おとこもの}}
+* {{sense|a noh play with a male protagonist or cast}} {{ja-r|男物|おとこもの}}, {{ja-r|男能|おとこのう}}
+
+===References===
+<references/>

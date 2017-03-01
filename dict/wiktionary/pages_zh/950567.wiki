@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǒuzuì
+|c=jau5 zeoi6
+|h=pfs=yû-chhui
+|mn=ū-chōe
+|cat=a,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[guilty]] {{gloss|of a criminal offence}}
+#: {{zh-x|判決 有罪|to find '''guilty'''}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[someone]] [[who]] is [[guilty]] of an [[offence]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ゆう|ざい|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|ゆうざい|y=o}}
+
+===Noun===
+{{ja-noun|ゆうざい}}
+
+# [[guilt]], being [[guilty]]
+#: {{ja-usex|裁判で有罪とされる|さいばん で ゆうざい と される|be found guilty at trial}}
+
+====Antonyms====
+* {{ja-r|無罪|むざい|gloss=[[innocence]]}}
+
+[[ko:有罪]]
+[[lt:有罪]]
+[[mg:有罪]]
+[[nl:有罪]]
+[[ja:有罪]]
+[[ru:有罪]]
+[[chr:有罪]]
+[[zh:有罪]]

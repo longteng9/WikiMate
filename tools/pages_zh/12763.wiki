@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|哒}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=13|sn=16|four=64034|canj=RYGQ|ids=⿰口達}}
+
+# [[sound]] made to get a [[horse]] to [[move]] [[forward]]
+
+====References====
+{{Han ref|kx=0209.190|dkj=04353|dj=0432.050|hdz=10681.040|uh=5660}}
+
+----
+
+==Chinese==
+{{zh-forms|s=哒}}
+
+===Pronunciation===
+{{zh-pron
+|m=dā
+|c=daat6
+|h=pfs=
+|md=
+|mn=ta̍t
+|w=
+|mc=
+|oc=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|嚈噠|噠嗪}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=口13}}
+
+# {{defn|lang=ja|sort=口13}}
+
+====Readings====
+{{ja-readings|goon=[[たち]] (tachi)|kanon=[[たつ]] (tatsu)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|嚈噠|エフタル|[[Hephthalite]]}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[달]]|rv=dal|mr=tal}}
+
+# {{defn|lang=ko|sort=口13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đát]], [[đặt]], [[đớt]], [[đạt]], [[thơn]], [[thớt]]|rs=口13}}
+
+# {{defn|lang=vi|sort=口13}}
+
+[[fr:噠]]
+[[li:噠]]
+[[hu:噠]]
+[[pl:噠]]
+[[th:噠]]
+[[zh:噠]]

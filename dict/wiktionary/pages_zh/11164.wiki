@@ -1,0 +1,97 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=10|sn=12|four=21227|canj=OSQF|ids=⿰亻馬}}
+
+====References====
+* {{Han ref|kx=0113.010|dkj=00947|dj=0240.110|hdz=10200.020|uh=508C|ud=20620|bh=D858|bd=55384}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|罵|v|to scold}}
+
+===Etymology 2===
+{{zh-forms|s=㐷}}
+
+====Pronunciation====
+{{zh-pron
+|m=mà
+|ma=Zh-mà.ogg
+|c=maa6
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# a [[kind]] of [[punishment]] during the {{w|Han Dynasty}}
+
+===Etymology 3===
+{{zh-forms|s=㐷}}
+[[File:Xiangqi Horse.png|right|thumb]]
+
+====Pronunciation====
+{{zh-pron
+|m=mǎ
+|c=maa5
+|h=
+|md=
+|mn=
+|w=
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# the red '[[knight]]' piece in [[Chinese chess]] (often {{zh-l|馬}})
+
+{{zh-cat|Chess}}
+
+===References===
+* {{R:twedu|B00133}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人10}}
+
+# {{defn|lang=ja|sort=人10}}
+
+====Readings====
+* {{ja-readings|on=[[ば]] (ba), [[め]] (me)|kun=[[ののしる]] (nonoshiru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=마|rv=ma|mr=ma}}
+
+# {{defn|lang=ko|sort=人10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[má]], [[mã]]|rs=人10}}
+
+# {{defn|lang=vi|sort=人10}}
+
+[[fr:傌]]
+[[ko:傌]]
+[[li:傌]]
+[[hu:傌]]
+[[pl:傌]]
+[[th:傌]]
+[[vi:傌]]
+[[zh:傌]]

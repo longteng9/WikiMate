@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|柩}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=|canj=DMYM|ids=⿰木正}}
+
+====References====
+* {{Han ref|kx=0521.121|dkj=14675|hdz=21176.110|uh=67FE|ud=26622}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiù
+|c=gau6
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[coffin]] which [[contain]]s a [[corpse]]
+# [[straight]] [[grain]] (of wood)
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木05}}
+
+====Readings====
+* {{ja-readings|on=[[きゅう]] (kyū)|kun=[[まさ]] (masa)}}
+
+===Noun===
+{{ja-noun|まさき|マサキ}}
+
+# [[Japanese spindle]], {{taxlink|Euonymus japonicus|species|noshow=1}}
+
+====Alternative forms====
+* {{l|ja|正木}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 柾]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[구]], [[정]]|eumhun=|rv=gu, jeong|mr=ku, chŏng|y=kwu, ceng}}
+
+# {{defn|lang=ko|sort=木05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木05|hanviet=chanh}}
+
+# {{defn|lang=vi|sort=木05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=67fe Nom Foundation]
+
+[[fr:柾]]
+[[ja:柾]]
+[[pl:柾]]
+[[th:柾]]
+[[zh:柾]]

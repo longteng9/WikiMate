@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|筺}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=06|sn=12|four=88711|canj=HSMG}}
+
+# bamboo basket or chest
+
+====References====
+* {{Han ref|kx=0883.080|dkj=26001|dj=1312.070|hdz=52961.050|uh=7B50|ud=31568|bh=B5A8|bd=46504}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kuāng
+|c=hong1,kwaang1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹06}}
+
+# {{defn|lang=ja|sort=竹06}}
+
+====Readings====
+* {{ja-readings|on=[[きょう]] (kyō)|kun=[[かご]] (kago), [[はこ]] (hako)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=광|eumhun=|rv=gwang|mr=kwang|y=kwang}}
+
+# ([[광주리]]): [[basket]] made of [[bamboo]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''筐''' ([[khuông]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:筐]]
+[[fr:筐]]
+[[ko:筐]]
+[[hu:筐]]
+[[mg:筐]]
+[[ja:筐]]
+[[no:筐]]
+[[pl:筐]]
+[[th:筐]]
+[[uk:筐]]
+[[zh:筐]]

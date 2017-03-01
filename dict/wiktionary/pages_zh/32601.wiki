@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|鹃}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=07|sn=18|four=67227|canj=RBHAF}}
+
+# [[cuckoo]]
+
+====References====
+* {{Han ref|kx=1490.040|dkj=46924|dj=2020.320|hdz=74635.020|uh=9D51|ud=40273|bh=C359|bd=50009}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鹃}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=juān
+|c=gyun1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|啼鵑|望帝啼鵑|杜鵑|杜鵑啼血|杜鵑窩|杜鵑花|臺灣杜鵑}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鳥07}}
+
+# {{defn|lang=ja|sort=鳥07}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=견|eumhun=|rv=gyeon|mr=kyŏn|y=kyen}}
+
+# {{defn|lang=ko|sort=鳥07}}
+
+[[fr:鵑]]
+[[ko:鵑]]
+[[hu:鵑]]
+[[ja:鵑]]
+[[pl:鵑]]
+[[th:鵑]]
+[[zh:鵑]]

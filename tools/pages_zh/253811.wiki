@@ -1,0 +1,35 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shénzhǔ
+|c=san4 zyu2
+|mn=qz,tw,xm:sîn-chú/zz:sîn-chí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[ancestral]] [[tablet]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|しゅ|yomi=o}}
+{{ja-kanjitab|かん|ぬし|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|acc=a|y=k|かんぬし}}
+{{ja-pron|acc=a|y=ko|しんしゅ}}
+
+===Noun===
+{{ja-noun|かんぬし|hhira=かむぬし}} {{ja-altread|hira=しんしゅ}}
+
+# {{lb|ja|Shinto|sort=かんぬし}} a [[priest]]
+
+[[ko:神主]]
+[[hu:神主]]
+[[mg:神主]]
+[[zh:神主]]

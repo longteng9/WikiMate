@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|祐}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=24260|canj=OKR,XOKR|ids=⿰亻右}}
+
+====References====
+* {{Han ref|kx=0098.110|dkj=00507|dj=0208.010|hdz=10131.020|uh=4F51|ud=20305|bh=A6F6|bd=42742}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|alt1=亻|人|右|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+From {{och-l|右|right}}.
+
+“Right” and “left” are metaphors for “to assist” via the following semantic development: “left or right” > “to be on the left or right of a person” > “to assist, to help, to protect”.
+
+Compare the derivation of {{och-l|佐|to assist; to help}} from {{och-l|左|left}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yòu
+|m-s=you1
+|c=jau6
+|mn=qz,tw,xm,zz:iū
+|w=3hhieu
+|mc=y
+|oc=y
+|cat=v,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[assist]]; to [[help]]; to [[protect]]
+#* {{zh-x|天 佑 吾 民！天 佑 吾 皇！|God '''save''' my people! God '''save''' my emperor!|ref={{w|zh:苍穹之昴 (电视剧)|The Firmament of the Pleiades}}}}
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|不佑|保佑|冥佑|孚佑|庇佑|敷佑|眷佑|神天福佑|護國佑民|鄰佑}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人05}}
+
+====Readings====
+* {{ja-readings|goon=[[う]] (u)|kanon=[[ゆう]] (yū)|kun=[[たすける]] (tasukeru), [[すけ]] (suke)}}
+
+===Proper noun===
+{{ja-pos|proper|ゆう}}
+
+# {{given name|male|lang=ja|sort=ゆう}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=우|rv=u|mr=u}}
+
+# {{defn|lang=ko|sort=人05}}
+
+[[fr:佑]]
+[[ko:佑]]
+[[li:佑]]
+[[hu:佑]]
+[[mg:佑]]
+[[fj:佑]]
+[[ja:佑]]
+[[no:佑]]
+[[pl:佑]]
+[[th:佑]]
+[[chr:佑]]
+[[zh:佑]]

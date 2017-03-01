@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xīnshǒu
+|c=san1 sau2
+|mn=sin-chhiú
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[beginner]]; [[novice]]; [[newcomer]]
+
+====Synonyms====
+* {{zh-l|菜鳥}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|あら|て|yomi=k}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=あらて|新|tr1=ara|t1=new|pos1=root stem of adjective {{m|ja|新た}} ''arata'', “new”; cognate with obsolete verb {{m|ja|生る}} ''aru'', “to appear, to become manifest”|手|tr2=te|t2=hand; -er, someone who does something}}.  Compare the {{etyl|en|-}} expressions {{m|en|new hand}}, {{m|en|old hand}}.
+
+===Pronunciation===
+{{ja-pron|yomi=k|あらて|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|あらて}}
+
+# [[beginner]], [[novice]], [[newcomer]]
+# a [[new]] [[method]], a new [[way]] of doing something
+
+====Antonyms====
+* {{sense|beginner}} {{ja-r|古手|ふるて}}
+
+===References===
+<references/>
+
+[[mg:新手]]
+[[ru:新手]]
+[[tl:新手]]
+[[th:新手]]
+[[chr:新手]]
+[[uk:新手]]
+[[zh:新手]]

@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=53|rad=广|as=12|sn=15|four=00214|canj=IWCG|ids=⿸广⿳里八土}}
+
+# a [[store]], [[shop]]
+# [[ground]] [[allot]]ted to a [[retainer]]
+
+====References====
+* {{Han ref|kx=0350.220|dkj=09483|dj=0661.220|hdz=20902.010|uh=5EDB|ud=24283|bh=E573|bd=58739}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chán
+|c=cin4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一廛|市廛|廛布|廛肆|廛閈|肆廛}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=广12}}
+
+# {{defn|lang=ja|sort=广12}}
+
+====Readings====
+* {{ja-readings|goon=[[でん]] (den)|kanon=[[てん]] (ten)|kun=[[やしき]] (yashiki), [[みせ]] (mise)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|rv=jeon|mr=chŏn}}
+
+# {{defn|lang=ko|sort=广12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=广12|hanviet=chờn}}
+
+# {{defn|lang=vi|sort=广12}}
+
+[[fr:廛]]
+[[ko:廛]]
+[[hu:廛]]
+[[mg:廛]]
+[[ja:廛]]
+[[pl:廛]]
+[[th:廛]]
+[[zh:廛]]

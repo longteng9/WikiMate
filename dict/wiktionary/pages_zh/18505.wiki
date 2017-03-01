@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|毘}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=81|rad=比|as=05|sn=9|four=61010|canj=WPP|ids=⿰田比}}
+
+# [[help]], [[assist]]
+# [[connect]], [[adjoin]]
+
+====Synonyms====
+* {{l|mul|毘}}
+
+====References====
+* {{Han ref|kx=0591.060|dkj=16752|dj=0983.070|hdz=21417.080|uh=6BD7|ud=27607|bh=AC73|bd=44147}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=毘}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=pí
+|c=pei4,bei2
+|mn=pî/tw:pí
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|夸毗|毗佐|毗倚|毗婆尸佛|毗尼日用|毗益|毗盧遮那|毗舍婆佛|毗連|毗鄰|毗陵|茶毗|荼毗|阿毗曇|阿毗達磨}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=比05}}
+
+# [[help]]
+# [[assist]]
+# [[connect]]
+# [[adjoin]]
+
+====Readings====
+* {{ja-readings|on=[[ひ]] (hi), [[び]] (bi)|kun=[[たすける]] (tasukeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=비|eumhun=|rv=bi|mr=pi|y=pi}}
+
+# [[help]], [[assist]]
+# [[connect]], [[adjoin]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=比05| hanviet = tì}}
+
+# {{defn|lang=vi|sort=比05}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6bd7 Nom Foundation]
+
+[[fr:毗]]
+[[ko:毗]]
+[[mg:毗]]
+[[pl:毗]]
+[[th:毗]]
+[[zh:毗]]

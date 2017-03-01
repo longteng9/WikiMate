@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|茍}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=05|sn=11|four=44627|canj=TPR|ids=⿱艹句}}
+
+# [[careless]], [[frivolous]]
+# [[illicit]]
+# (''grammatical particle'') if, but, if only
+# {{surname|lang=zh}}
+# a type of [[grass]]
+
+====Derived characters====
+* {{l|mul|敬}}
+
+====References====
+* {{Han ref|kx=1023.050|dkj=30790|dj=1482.050|hdz=53194.120|uh=82DF}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艸|alt1=艹|句|ls=psc|c1=s|c2=p}} – a kind of grass, in original sense.
+
+===Pronunciation===
+{{zh-pron
+|m=gǒu
+|c=gau2,gik1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一字不苟|一絲不苟|不苟|不苟且|不苟言笑|不苟言談|偷合苟容|偷生苟活|因循苟且|媮合苟容|方正不苟|狗苟|狗苟蠅營|畏難苟安|臨財不苟|臨財苟得|臨難苟免|苟且|苟且偷安|苟且偷生|苟且唐塞|苟且自度|苟免|苟全|苟合|苟合取容|苟同|苟存|苟安|苟安一隅|苟容|苟容曲從|苟延殘喘|苟延殘息|苟弟轉酷|苟得|苟政|苟活|苟為|苟然|苟營|苟生|苟留殘喘|苟祿|苟簡|苟言|苟非|蠅營狗苟|行不苟合|行不苟容}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸05}}
+
+# {{defn|lang=ja|sort=艸05}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[く]] (ku)|kun=[[いやしくも]] (iyashikumo)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# {{defn|lang=ko|sort=艸05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cẩu]], [[cảu]], [[càu]], [[cú]]|rs=艸05}}
+
+# {{defn|lang=vi|sort=艸05}}
+
+[[fr:苟]]
+[[ko:苟]]
+[[li:苟]]
+[[hu:苟]]
+[[mg:苟]]
+[[ja:苟]]
+[[no:苟]]
+[[pl:苟]]
+[[th:苟]]
+[[zh:苟]]

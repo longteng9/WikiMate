@@ -1,0 +1,13 @@
+==Japanese==
+{{ja-kanjitab|めん|えき|ふ|ぜん|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|免疫|不全|tr1=men'eki|tr2=fuzen|t1=[[immunity]]|t2=[[deficiency]]|sort=めんえきふぜん}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=o|めんえき ふぜん}}
+
+===Noun===
+{{ja-noun|めんえき ふぜん}}
+
+# {{lb|ja|immunology|sort=めんえき ふぜん}} [[immunodeficiency]]

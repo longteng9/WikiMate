@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=09|sn=15|four=88232|canj=HVNO|ids=⿱[[竹|⺮]][[彖]]}}
+
+# [[seal script]]
+# [[seal]], [[official]] [[stamp]]
+
+====References====
+* {{Han ref|kx=0892.130|dkj=26256|dj=1319.090|hdz=52996.050|uh=7BC6|ud=31686|bh=BD66|bd=48486}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhuàn
+|c=syun6
+|mn=qz,tw,xm,zz:toān/qz,tw,xm,zz:thoān/qz,twv,xm:thoàn/qz:choǎn
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|大篆|小篆|九疊篆|感篆|填篆|彫蟲篆刻|二篆|攝篆|次篆|秦篆|瓦棺篆鼎|篆書|符篆|龍章鳳篆|篆額|蝸篆|篆文|篆刻|雕蟲篆|篆愁君|蟲篆之技|鳥篆|雕蟲篆刻|篆香|篆煙|繆篆|隸篆|香篆|銘篆|草篆|蕭行范篆|蟲篆|蛟篆}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹09}}
+
+# {{defn|lang=ja|sort=竹09}}
+
+====Readings====
+* {{ja-readings|goon=[[でん]] (den)|kanon=[[てん]] (ten)|kun=[[こしきしば]] (koshikishiba)}}
+
+====Compounds====
+* [[篆刻]]
+* [[篆書]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[전]]|eumhun=|rv=jeon|mr=chŏn|y=cen}}
+
+# {{defn|lang=ko|sort=竹09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[triện]], [[chệnh]], [[chệ]], [[triển]]|rs=竹09}}
+
+# {{defn|lang=vi|sort=竹09}}
+
+[[fr:篆]]
+[[hu:篆]]
+[[mg:篆]]
+[[ja:篆]]
+[[pl:篆]]
+[[th:篆]]
+[[zh:篆]]

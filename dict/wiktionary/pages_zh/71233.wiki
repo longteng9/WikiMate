@@ -1,0 +1,78 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhāodài
+|ma=Zh-zhaodài.ogg
+|mn=qz:chiau-thǎi/tw,xm,zz:chiau-thāi/xm:chiau-tāi
+|c=ziu1 doi6
+|h=pfs=chêu-thai
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[entertain]]; to [[host]]; to [[receive]]; to [[serve]]
+
+===Noun===
+{{zh-noun}}
+
+# [[reception]]
+
+===Derived terms===
+{{zh-der|招待會|招待所}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|たい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|しょうたい|acc=1|acc_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{ja-l|請待}}
+
+===Noun===
+{{ja-noun|しょうたい|hhira=せうたい}}
+
+# [[invitation]]
+
+===Verb===
+{{ja-verb-suru|しょうたい|hhira=せうたい}}
+
+# [[invite]], [[entertain]]
+
+====Synonyms====
+* {{ja-r|誘う|さそ.う}} (''v.tr'')
+* {{ja-r|招く|まねく}} (''v.tr'')
+
+====Conjugation====
+{{ja-suru|しょうたい}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=초대}}
+
+# {{hanja form of|초대|[[invitation]]}}
+
+[[zh-min-nan:招待]]
+[[fr:招待]]
+[[ko:招待]]
+[[lo:招待]]
+[[hu:招待]]
+[[mg:招待]]
+[[ja:招待]]
+[[sv:招待]]
+[[zh:招待]]

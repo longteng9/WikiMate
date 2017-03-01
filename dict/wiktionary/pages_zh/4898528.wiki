@@ -1,0 +1,38 @@
+{{also|群论}}
+==Chinese==
+{{zh-forms|s=群论}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=qúnlùn
+|c=kwan4 leon6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|mathematics}} [[group theory]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|yomi=o|ぐん|ろん}}
+
+===Pronunciation===
+{{ja-pron|ぐんろん|acc=a|acc_ref=DJR|y=go}}
+
+===Noun===
+{{ja-noun|ぐんろん}}
+
+# [[group theory]]
+
+===References===
+<references/>
+
+[[Category:ja:Group theory|くんろん']]
+
+[[hu:群論]]
+[[zh:群論]]

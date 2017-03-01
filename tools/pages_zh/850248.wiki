@@ -1,0 +1,32 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhòngyàoxìng
+|c=zung6 jiu3 sing3
+|h=pfs=chhung-yeu-sin
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[importance]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|じゅう|よう|せい|yomi=on}}
+
+===Noun===
+{{ja-noun|じゅうようせい}}
+
+# [[importance]]
+#: {{ja-usex|この書類には'''重要性'''がない。|この しょるい に は '''じゅうようせい''' が ない。|This document has no importance.}}
+
+[[ko:重要性]]
+[[mg:重要性]]
+[[ru:重要性]]
+[[chr:重要性]]
+[[zh:重要性]]

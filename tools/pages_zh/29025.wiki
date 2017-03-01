@@ -1,0 +1,102 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=163|rad=邑|as=11|sn=14|four=67627|canj=RWNL}}
+
+====References====
+* {{Han ref|kx=1276.180|dkj=39597|dj=1776.050|hdz=63792.080|uh=9119|ud=37145|bh=BBC0|bd=48064}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|啚|邑|c1=p|c2=t|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bǐ
+|c=pei2
+|h=pfs=
+|md=
+|mn=
+|w=2pi
+|mc=y
+|oc=y
+|cat=n,a,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[countrified]]
+# [[mean]]; [[ignoble]]
+# to [[despise]]; to [[hold]] in [[contempt]]
+
+====Synonyms====
+* {{sense|despise}} {{zh-l|蔑}}, {{zh-l|藐}}
+
+====Antonyms====
+* {{sense|despise}} {{zh-l|敬}}, {{zh-l|尊}}, {{zh-l|崇}}
+
+====Compounds====
+{{zh-der|卑鄙|鄙夷|鄙薄|鄙棄|鄙稱|可鄙|嗤鄙|嫌鄙|卑鄙無恥|卑鄙齷齪|北鄙|樸鄙|鄙諺|鄙斥|鄙誠|鄙視|鄙言|鄙累|鄙猥|鄙俗不堪|肉食者鄙|鄙生|鄙師|鄙易|鄙遠|鄙夫|都鄙|鄙懷|鄙屑|鄙倍|鄙陋|鄙人|鄙事|鄙背|鄙笑|鄙吝|邊鄙|鄙厭|草鄙|鄙野|鄙近|鄙賤|鄙語|鄙言累句|鄙見|鄙袒|鄙家|鄙夫之見|鄙固|都鄙有章|鄙俚|輕鄙|鄙詐|鄙悃|貪鄙|鄙言俚語|鄙俗|鄙意|貴遠鄙近|粗鄙|鄙褻語}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=邑11}}
+
+====Readings====
+{{ja-readings
+|goon=[[ひ]] (hi)|kanon=[[ひ]] (hi)
+|kun=[[ひな]] (hina), [[ひなぶ|ひな-ぶ]] (hina-bu), [[ひなびる|ひな-びる]] (hina-biru), [[さげすむ|さげす-む]] (sagesumu), [[いやしい|いや-しい]] (iya-shii), [[かたなむ|かたな-む]] (katana-mu), [[とひと]] (tohito)
+}}
+
+====Compounds====
+* {{sense|countrified}} {{l|ja|辺鄙}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|とひと}}
+Originally a compound of {{compound|lang=ja|sort=とひと|外|tr1=to|t1=outside|人|tr2=hito|t2=person}}. The kanji used is an example of [[熟字訓|jukujikun]].
+
+===Pronunciation===
+{{ja-pron|yomi=k|とひと}}
+
+===Noun===
+{{ja-noun|とひと}}
+
+# {{lb|ja|sort=とひと|archaic|pejorative}} a [[countrified]] or [[rustic]] person: a [[hick]], a [[bumpkin]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=비|eumhun=|rv=bi|mr=pi|y=pi}}
+
+# {{defn|lang=ko|sort=邑11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bỉ]], [[bẽ]]|rs=邑11}}
+
+# {{defn|lang=vi|sort=邑11}}
+
+[[fr:鄙]]
+[[ko:鄙]]
+[[hu:鄙]]
+[[mg:鄙]]
+[[ja:鄙]]
+[[no:鄙]]
+[[pl:鄙]]
+[[th:鄙]]
+[[zh:鄙]]

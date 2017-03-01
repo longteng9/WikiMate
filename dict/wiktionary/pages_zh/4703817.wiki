@@ -1,0 +1,32 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|コンゴウインコ|コンゴウインコ (Macaw)}}
+{{wikipedia|Macaw}}
+{{wikipedia|lang=ja|コンゴウインコ (種名)|コンゴウインコ (Scarlet macaw)}}
+{{wikipedia|Scarlet macaw}}
+[[File:Ara_macao,_Ara_ararauna_and_Ara_militaris.jpg|thumb|250px|{{lang|ja|{{PAGENAME}}}} (''kongō inko''): three '''[[macaw]]s''' sitting on a fence, with the '''{{vern|scarlet macaw}}''' on the left.]]
+</div>
+{{ja-kanjitab|こん|ごう|いん|こ|yomi=o}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=こんごういんこ|金剛|tr1=kongō|t1=adamant, extremely strong|鸚哥|tr2=inko|t2=parakeet, macaw, cockatoo}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=o|こんごう いんこ|acc=5|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|こんごう いんこ|コンゴウ インコ|hhira=こんがういんこ}}
+
+# [[macaw]]
+# more specifically, the ''[[Ara macao]]'' or {{vern|scarlet macaw}}
+
+====Usage notes====
+{{U:ja:biology|コンゴウインコ}} The kana spelling appears to be the most common for this term in general contexts as well, possibly due to the rarity of the kanji for ''inko''.
+
+====Synonyms====
+* {{sense|scarlet macaw}} {{ja-r|linkto=赤金剛鸚哥|赤 金剛 鸚哥|あか こんごう いんこ}}
+
+===References===
+<references/>
+
+[[Category:ja:Parrots|こんごういんこ]]

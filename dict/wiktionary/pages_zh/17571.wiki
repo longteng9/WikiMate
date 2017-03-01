@@ -1,0 +1,94 @@
+{{character info/new}}
+{{also|桒}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=06|sn=10|four=17904|canj=EEED|ids=⿱叒木}}
+
+====References====
+* {{Han ref|kx=0526.010|dkj=14772|dj=0914.140|hdz=21209.030|uh=6851|ud=26705|bh=AEE1|bd=44769}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=sāng
+|m-s=sang1
+|c=song1
+|mc=y
+|oc=y
+|ma=
+|cat=n,pn
+}}
+
+===Etymology 1===
+{{rfe|lang=zh}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[mulberry]] [[tree]]
+# {{surname|lang=zh}}
+
+===Etymology 2===
+From {{etyl|ja|zh}} {{m|ja|さん|tr=-san}}. Compare {{etyl|nan|-}} {{zh-l|卡桑|tr=[[khà-sàng]]}}, {{zh-l|多桑|tr=[[tò-sàng]]}}, {{zh-l|歐巴桑|tr=[[o͘-bá-sáng]]}}, and {{zh-l|歐吉桑|tr=[[o͘-jí-sáng]]}}.
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|ACG|internet slang}} [[-san]]
+
+====Related terms====
+* {{zh-l|醬|-chan}}, {{zh-l|炭|-tan}}, {{zh-l|君|-kun}}, {{zh-l|樣|-sama}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=木06}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[くわ]] (kuwa)}}
+
+===Noun===
+{{ja-noun|くわ}}
+
+# [[mulberry]]
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 桑]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=상|eumhun=|rv=sang|mr=sang|y=sang}}
+
+# {{defn|lang=ko|sort=木06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tang]], [[dâu]]|rs=木06}}
+
+# {{defn|lang=vi|sort=木06}}
+
+[[fr:桑]]
+[[ko:桑]]
+[[hu:桑]]
+[[mg:桑]]
+[[ja:桑]]
+[[no:桑]]
+[[pl:桑]]
+[[th:桑]]
+[[zh:桑]]

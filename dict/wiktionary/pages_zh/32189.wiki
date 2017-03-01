@@ -1,0 +1,59 @@
+{{character info/new}}
+{{also|鲞}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=08|sn=19|four=90336|canj=TONWF}}
+
+# dried fish
+
+====References====
+* {{Han ref|kx=1472.040|dkj=46211|dj=2004.170|hdz=74698.120|uh=9BD7|ud=39895|bh=F3D0|bd=62416}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鲞|alt=鮝}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiǎng
+|c=soeng2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|白鯗|鯗蠹|鯗魚}}
+
+===References===
+* {{R:twedu|B05987}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚08}}
+
+# {{defn|lang=ja|sort=魚08}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō), [[よう]] (yō)|kun=[[ふか]] (fuka)}}
+
+[[fr:鯗]]
+[[hu:鯗]]
+[[mg:鯗]]
+[[ja:鯗]]
+[[pl:鯗]]
+[[th:鯗]]
+[[zh:鯗]]

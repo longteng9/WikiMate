@@ -1,0 +1,48 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=11|sn=14|four=|canj=RWGN|ids=⿰口野}}
+
+====References====
+* {{Han ref|kx=0206.201|hdz=10676.040|uh=5622|ud=22050}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=野}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|口|野|ls=psc|c1=s|c2=p|no_och2=y}}.
+
+===Etymology===
+Possibly from {{ltc-l|也|''affirmation particle''}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yě
+|c=je5
+|cat=c:n,c:cls
+}}
+
+===Definitions===
+{{zh-hanzi}} {{tcx|lang=zh|Cantonese}}
+
+# [[thing]]; [[matter]] {{zh-mw|c:樣}}
+#: {{zh-x|好嘢！|Good '''stuff'''! Hooray!|C}}
+# [[stuff]]; [[good]]s; [[article]] {{zh-mw|c:樣}}
+# {{lb|zh|derogatory}} [[guy]]; [[fellow]]; [[devil]]
+# {{zh-classifier|[[occurrences]] of [[events]]}}
+
+====Synonyms====
+{{zh-dial|東西}}
+
+===Compounds===
+{{zh-der|一嘢|一嚿嘢|一張嘢|一皮嘢|乜嘢|乜嘢嘢|乜嘢物嘢|乜嘢話|乜嘢都|你好嘢|你講嘢呀|來路嘢|做乜嘢|做嘢|偷嘢|冇乜嘢|冇嘢|冇嘢到|出嘢|叫嘢食|咩嘢|唔係嘢少|唔做嘢|嗌嘢食|嘢食|嘢飲|垃圾嘢|執嘢|執平嘢|大枝嘢|大粒嘢|大路嘢|好嘢|㜺嘢|扑嘢|扮嘢|揩嘢|搵嘢做|搶嘢|撈嘢|撻嘢|攋嘢|攪嘢|整嘢食|日本嘢|曳嘢|正嘢|污糟嘢|法國嘢|流嘢|淋瀋嘢|演嘢|濕星嘢|瀨嘢|燒嘢食|玩嘅嘢|玩嘢|用屎窟諗嘢|神嘢|笠嘢|筍嘢|肺講嘢|舉嘢|衰鬼嘢|諗嘢|講嘢|講嘢唔算數|識嘢|買嘢|賴嘢|辣嘢|重嘢|領嘢|食嘢|食辣嘢|飲嘢|鼠嘢|𥄫嘢}}
+
+[[fr:嘢]]
+[[mg:嘢]]
+[[pl:嘢]]
+[[th:嘢]]
+[[zh:嘢]]

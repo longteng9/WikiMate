@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|ひつ|ぜん|てき|yomi=on}}
+
+===Etymology===
+{{suffix|必然|的|t1=necessary|t2=-ary|lang=ja|sort=ひつぜんてき}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|ひつぜんてき}}
+
+# [[certain]], [[inevitable]], [[necessary]]
+
+====Antonyms====
+* [[偶発的]] (incidental)
+* [[不可能]] (impossible)
+
+====Inflection====
+{{ja-na|ひつぜんてき}}
+
+[[ko:必然的]]
+[[mg:必然的]]

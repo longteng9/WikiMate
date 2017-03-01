@@ -1,0 +1,54 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gòngyòng
+|c=gung6 jung6
+|h=pfs=khiung-yung
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[share]] something used by all parties
+
+----
+
+==Japanese==
+{{ja-kanjitab|きょう|よう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|きょうよう|yomi=o}}
+
+===Noun===
+{{ja-noun|きょうよう}}
+
+# [[shared]] [[use]], [[common]] use
+
+===Verb===
+{{ja-verb-suru|tr=trans|きょうよう}}
+
+# to [[share]] something used by all parties
+#: {{ja-usex|タオルを共用する|タオル を きょうよう する|share a towel}}
+
+====Conjugation====
+{{ja-suru|きょうよう}}
+
+===References===
+* {{R:Shogakukan}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=공용}}
+
+# {{hanja form of|공용}}
+
+[[ko:共用]]
+[[mg:共用]]
+[[ja:共用]]
+[[chr:共用]]
+[[zh:共用]]

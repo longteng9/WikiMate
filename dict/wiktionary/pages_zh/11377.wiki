@@ -1,0 +1,93 @@
+{{character info/new}}
+{{also|凶}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=10|rad=儿|as=04|sn=6|four=22217|canj=UKHU|ids=⿱凶儿}}
+
+# [[atrocious]], [[ferocious]], [[brutal]]
+
+====References====
+* {{Han ref|kx=0124.040|dkj=01348|dj=0260.050|hdz=10268.030|uh=5147|ud=20807|bh=A5FB|bd=42491}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etyl}}
+
+===Etymology 1===
+{{zh-forms|s=凶}}
+
+====Pronunciation====
+{{zh-pron
+|m=xiōng
+|c=hung1
+|h=pfs=hiûng
+|mn=hiong
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===Etymology 2===
+{{zh-see|凶|v}}
+
+===References===
+* {{R:twedu|A00269}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=儿04}}
+
+# ill luck
+
+====Readings====
+* {{ja-readings|on=[[きょう]] (kyō)|kun=[[おそれる]] (osoreru)}}
+
+====Compounds====
+* [[兇悪]]
+* [[兇漢]]
+* [[兇器]]
+* [[兇行]]
+* [[兇刃]]
+* [[兇変]]
+* [[兇暴]]
+* [[元兇]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=흉|rv=hyung|mr=hyung}}
+
+# {{defn|lang=ko|sort=儿04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hung]]|rs=儿04}}
+
+# {{defn|lang=vi|sort=儿04}}
+
+[[fr:兇]]
+[[li:兇]]
+[[hu:兇]]
+[[ja:兇]]
+[[pl:兇]]
+[[th:兇]]
+[[vi:兇]]
+[[zh:兇]]

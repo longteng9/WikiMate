@@ -1,0 +1,220 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=05|sn=11|four=34247|canj=LDHE|ids=⿰衤皮}}
+
+====References====
+* {{Han ref|kx=1115.100|dkj=34222|dj=1580.260|hdz=53085.110|uh=88AB|ud=34987|bh=B351|bd=45905}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|衣|皮|ls=psc|c1=s|t1=clothing|c2=p}}.
+
+===Etymology===
+{{rfe|zh|needs info on semantic development: "blanket" to passive}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=bèi
+|c=pei5
+|c_note=colloquial reading
+|h=pfs=phî;gd=pi1
+|h_note=colloquial reading
+|md=puôi
+|md_note=colloquial reading
+|mn=xm,tp,mg,hc:phē/qz:phěr/zz,kh,tn,yl,tc:phōe/lk,sx,km,hc:phēr
+|mn_note=colloquial reading
+|w=3bi
+|w_note=colloquial reading
+|mc=1
+|oc=1+2;1
+|ma=y
+|cat=n,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[bedding]]; [[quilt]]; [[blanket]] {{zh-mw|張}}
+#* {{zh-x|被子{zi}|quilt}}
+#* {{zh-x|被褥|bedding, bedclothes}}
+#* {{zh-x|墊被|mattress}}
+# {{zh-obsolete}} to [[cover]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=bèi
+|c=bei6
+|c_note=literary reading
+|h=pfs=phi
+|h_note=literary reading
+|md=bê
+|md_note=literary reading
+|mn=xm,zz,tw:pī/qz:pǐ
+|mn_note=literary reading
+|w=3be
+|w_note=literary reading
+|mc=1
+|oc=1+2;1
+|ma=y
+|cat=v,part,prep
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-obsolete}} to [[suffer]]; to [[sustain]] (loss, misfortune, etc.)
+# [[by]]
+#* {{zh-x|我 被 蚊子{zi} 咬 了。|I got bitten '''by''' mosquitoes.}}
+# {{n-g|Used before a verb to indicate [[passive-voice]].}}
+#* {{zh-x|我 的 錶 被 偷 了。|My watch has '''been stolen'''.}}
+# {{surname|lang=zh}} {{attention|zh|not sure if it should be here or in pron 1}}
+
+=====Usage notes=====
+* In a [[passive-voice]] sentence, {{lang|zh|被}} is placed after the subject and before the doer of the action. The doer of the action is placed before the verb or can be omitted.
+* A [[passive-voice]] sentence with {{lang|zh|被}} is negated with {{zh-l|沒有}}.
+*: {{zh-x|我們 沒有 被 告知 他 從 哪裡 來。|We weren't told where he came from.}}
+
+=====Synonyms=====
+{{zh-dial}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=pī
+|c=pei1
+|mc=
+|oc=3,n
+|ma=y
+|cat=prep
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|披|to cover oneself}}
+
+===Pronunciation 4===
+{{zh-pron
+|m=bì
+|c=bei6
+|mc=2
+|oc=n,2
+|ma=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|髲|wig}}
+# {{zh-alt-form|彼|that}}
+
+===Pronunciation 5===
+{{zh-pron
+|m=pì
+|c=pei3
+|mc=
+|oc=4,n
+|ma=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|帔}}
+
+===Compounds===
+{{zh-der|丁公被戮|叨被|冒被|單被花|墊被|太空被|夾被|夾被摩痛|奉被|姜家大被|姜被|布被|布被十年|扇枕溫被|東漸西被|棉被|棉被窩|植被|毛巾被|海被|溥被|無被花|珠被|疊被|祭遵布被|紙被|繡被|花被|蒙頭衲被|衣被|衲被|衲被蒙頭|被乘數|被俘|被保護國|被保險人|被加數|被動|被動免疫|被動式|被告|被單|被囊|被囚|被堅執銳|被套|被子|被子植物|被害人|被寵若驚|被山帶河|被底鴛鴦|被拒|被搭子|被服|被減數|被澤蒙庥|被火紋身|被災蒙禍|被甲|被甲兵|被禍|被窩|被筩|被繼承人|被罪|被臥|被虐待狂|被袋|被褐|被褐懷寶|被褐懷玉|被褐懷珠|被褐懷金|被褐藏輝|被褥|被覆|被詔輒成|被論人|被迫|被逮|被選舉人|被選舉權|被酒|被除數|被頭|被騙|被髮|被髮佯狂|被髮入山|被髮左衽|被髮纓冠|被髮陽狂|襆被|覆被|鄂君繡被|長枕大被|陀羅尼被|鱗被|鴛鴦被|鵝毛被}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=衣05}}
+
+====Readings====
+{{ja-readings
+|goon=[[び]] (bi)
+|kanon=[[ひ]] (hi)
+|kun=[[おおう]] ([[被う]], ōu), [[かずく]] ([[被く]], kazuku), [[かずかる]] ([[被かる]], kazukaru), [[かずける]] ([[被ける]], kazukeru), [[かがふる]], ([[被る]], kagafuru), [[かぶる]] ([[被る]], kaburu), [[かぶす]] ([[被す]], kabusu), [[かぶさる]] ([[被さる]], kabusaru), [[かぶせる]] ([[被せる]], kabuseru), [[かむる]] ([[被る]], kamuru), [[こうぶる]] ([[被る]], kōburu), [[こうむる]] ([[被る]], kōmuru), [[きせる]] ([[被せる]], kiseru), [[ふすま]] (fusuma)
+|nanori=[[ぎぬ]] (ginu)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|被害|ひがい}}: [[incurred]] [[harm]]
+* {{ja-r|被害者|ひがいしゃ}}: someone who has incurred harm: a [[victim]], an [[injured]] person
+* {{ja-r|鱗被|りんぴ}}: a [[lodicule]]: a small [[scale]] at the base of the [[ovary]] of a [[flower]] of a [[grass]]
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|ひ|yomi=o}}
+From {{etyl|ltc|ja|sort=ひ}} {{m|zh|被|tr=bje<sup>H</sup>||to cover}}, from the term's use in Chinese as a [[passive]] marker.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ひ}}
+
+====Prefix====
+{{ja-pos|prefix|ひ}}
+
+# [[-ee]]: {{n-g|marks the passive recipient of an action, as the ''-ee'' in English {{m|en|employee|employ'''ee'''}}}}
+#: {{ja-usex|'''被'''害者|'''ひ'''がいしゃ|victim (one who '''is''' harm'''ed''')}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|おおい}}
+The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|被う|tr=ōu||to cover}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|おおい|acc=0|acc_ref=DJR|acc2=3|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|おおい|hhira=おほい}}
+
+# a [[covering]]
+# the [[act]] of [[covering]] something
+# {{lb|ja|sort=おおい|by extension}} a [[protector]] or [[patron]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=피|eumhun=|rv=pi|mr=p'i|y=phi}}
+
+# {{defn|lang=ko|sort=衣05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bị]], [[bệ]], [[bỡ]], [[bự]], [[bợ]]|rs=衣05}}
+
+# {{defn|lang=vi|sort=衣05}}
+
+[[zh-min-nan:被]]
+[[et:被]]
+[[fr:被]]
+[[ko:被]]
+[[hu:被]]
+[[mg:被]]
+[[ms:被]]
+[[ja:被]]
+[[no:被]]
+[[pl:被]]
+[[ta:被]]
+[[th:被]]
+[[uk:被]]
+[[vi:被]]
+[[zh:被]]

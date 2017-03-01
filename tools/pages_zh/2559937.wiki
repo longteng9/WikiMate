@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|おう|しょう|yomi=on}}
+
+===Noun===
+{{ja-noun|おうしょう}}
+# [[conscription]], drafting
+#* '''1931''', 宮本百合子, 年譜:
+#*: {{ja-usex|広島に'''応召'''中だった宮本の弟達治が負傷し、死んだが死体はみつからなかった。|^ひろしま に '''おうしょう'''-ちゅう だった ^みやもと の おとうと ^たつじ が ふしょう し、 しんだ が したい は みつからなかった。|Miyamoto's younger brother Tatsuji had been drafted and was in Hiroshima, and there he was injured and died but his body wasn't found.}}
+
+====Derived terms====
+* {{ja-r|応召兵|おうしょうへい|gloss=conscript}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|おうしょう}}
+
+# be [[conscript]]ed, be [[draft]]ed
+
+====Conjugation====
+{{ja-suru|おうしょう}}
+
+[[mg:応召]]
+[[zh:応召]]

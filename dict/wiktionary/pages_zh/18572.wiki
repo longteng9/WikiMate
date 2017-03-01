@@ -1,0 +1,54 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=84|rad=气|as=03|sn=7|four=80217|canj=ONLLL|ids=⿹气川}}
+
+====Related terms====
+* {{l|mul|氕}}
+* {{l|mul|氘}}
+
+====References====
+* {{Han ref|kx=0599.041|hdz=32010.080|uh=6C1A|ud=27674|bh=CB4A|bd=52042}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|气|t1=gas|川|t2=three|ls=ic}}. Also a {{liushu|psc|nocap=y}}, where {{zh-l|川}} acts as the phonetic component. Compare {{zh-l|*氘|deuterium}} and {{zh-l|*氚|tritium}}.
+
+===Etymology===
+From {{zh-l|川}} from the glyph, possibly influenced by {{cog|NL.|tritium}}. In Mandarin, it is pronounced in the first tone by analogy with {{zh-l|氕|protium}} and {{zh-l|氘|deuterium}}.
+
+===Pronunciation===
+{{zh-pron
+|m=chuān
+|c=cyun1
+|h=pfs=
+|md=
+|mn=
+|w=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[tritium]]
+
+====Synonyms====
+* {{zh-l|超重氫}}
+
+===See also===
+* {{zh-l|氕|protium}}
+* {{zh-l|氘|deuterium}}
+* {{zh-l|氫|hydrogen}}
+
+[[fr:氚]]
+[[mg:氚]]
+[[pl:氚]]
+[[th:氚]]
+[[zh:氚]]

@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+[[青]] ([[blue]]) + [[金]] ([[gold]]) + [[石]] ([[stone]])
+
+===Pronunciation===
+{{zh-pron
+|m=qīngjīnshí
+|c=cing1 gam1 sek6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[lapis lazuli]]
+
+===References===
+* {{pedialite|青金石|lang=zh}}
+* {{pedialite|lapis lazuli}}
+
+{{zh-cat|Gems}}
+
+----
+
+==Japanese==
+[[File:Lazurite.jpg|thumb|250px|{{lang|ja|青金石}}: [[lazurite]]]]
+{{ja-kanjitab|せい|きん|せき|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=せいきんせき}} compound {{m|ltc|青金石|tr=*tseng kim dzyek}}. Compare modern {{cog|zh|青金石|tr=qīngjīnshí}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[se̞ːkĩɴse̞ki]}}
+
+===Noun===
+{{ja-noun|せいきんせき}}
+
+# {{lb|ja|sort=せいきんせき|mineral|geology}} [[lazurite]], one of the main mineral components of [[lapis lazuli]]
+
+====Related terms====
+* {{ja-l|瑠璃}}, {{ja-l|琉璃|るり|ruri}}: [[lapis lazuli]]
+
+====External links====
+* {{pedia|lang=ja}}
+* {{pedia|Lazurite}}
+
+[[zh:青金石]]

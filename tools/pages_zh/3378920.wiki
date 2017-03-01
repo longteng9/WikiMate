@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=sìfēn
+|c=sei3 fan1,sei3 fan6
+|h=pfs=si-fûn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[one]]-[[quarter]]; 1/4; one [[fourth]].
+
+====Synonyms====
+* {{zh-l|四半|sìbàn}}: one-quarter; 1/4; one fourth
+
+----
+
+==Japanese==
+{{ja-kanjitab|四|分}}
+
+===Noun===
+{{ja-noun|しぶん}}
+
+# [[one]]-[[quarter]]; 1/4; one [[fourth]].
+
+====Synonyms====
+* {{ja-r|四半|しはん}}: one-quarter; 1/4; one fourth
+
+===Verb===
+{{ja-verb-suru|k|hira=しぶん|rom=shibun}}
+
+# [[quarter]], divide into fourths
+
+[[ko:四分]]
+[[zh:四分]]

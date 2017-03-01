@@ -1,0 +1,63 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhònglì
+|c=cung5 lik6
+|mn=qz:tiǒng-lia̍k/tw,xm,zz:tiōng-le̍k
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[gravity]]
+
+====See also====
+* {{zh-l|地心引力}}
+* {{zh-l|引力}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じゅう|りょく|yomi=on}}
+
+===Etymology===
+A [[calque]] of {{etyl|nl|ja|sort=しゅうりょく'}} {{m|nl|zwaartekracht}}.<ref>{{R:Kojien}}</ref>
+
+===Noun===
+{{ja-noun|じゅうりょく}}
+
+# [[gravity]], [[gravitational force]]<ref>{{R:Shogakukan}}</ref>
+
+====Synonyms====
+* {{ja-r|引力|いんりょく}}
+
+[[Category:ja:Physics|しゅうりょく']]
+
+===References===
+<references/>
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|trọng lực|[[gravity]], [[gravitational force]]}}
+
+[[zh-min-nan:重力]]
+[[ko:重力]]
+[[lo:重力]]
+[[lt:重力]]
+[[hu:重力]]
+[[ja:重力]]
+[[sv:重力]]
+[[uk:重力]]
+[[zh:重力]]

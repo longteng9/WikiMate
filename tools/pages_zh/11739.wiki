@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=19|rad=力|as=05|sn=7|four=14627|canj=SRKS|ids=⿰召力}}
+
+# [[encourage]]
+# to [[excel]]
+# [[excellent]]
+
+====References====
+* {{Han ref|kx=0147.020|dkj=02318|dj=0331.050|hdz=10369.050|uh=52AD|ud=21165|bh=CA6F|bd=51823}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shào
+|c=siu6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=力05}}
+
+# {{defn|lang=ja|sort=力05}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[つとめる]] (tsutomeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=초|rv=cho|mr=ch'o}}
+
+# {{defn|lang=ko|sort=力05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''劭''' ([[thiệu]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:劭]]
+[[hu:劭]]
+[[mg:劭]]
+[[ja:劭]]
+[[pl:劭]]
+[[th:劭]]
+[[zh:劭]]

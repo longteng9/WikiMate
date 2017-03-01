@@ -1,0 +1,24 @@
+{{also|复审}}
+==Chinese==
+{{zh-forms|s=复审|t2=覆審}}
+
+===Etymology===
+* [[復]] fù ("again") + [[審]] shěn (in the "reexamine" sense, deriving from [[審查]] shěnchá "to examine"; in the "review a legal case" sense, deriving from [[審理]] shěnlǐ "to try/hear a case")
+
+===Pronunciation===
+{{zh-pron
+|m=fùshěn
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[reexamine]]; to [[crosscheck]]; to [[review]]
+# {{lb|zh|legal}} to [[review]] a [[legal]] [[case]]; to [[retry]] a [[case]]
+
+====See also====
+* {{zh-l|審查}}
+* {{zh-l|審理}}
+
+[[zh:復審]]

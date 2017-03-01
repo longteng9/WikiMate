@@ -1,0 +1,16 @@
+{{also|字库}}
+==Chinese==
+{{zh-forms|s=字库}}
+
+===Pronunciation===
+{{zh-pron
+|m=zìkù
+|c=zi6 fu3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|computing}} [[character]] [[bank]]
+# {{lb|zh|computing}} [[font]] [[bank]]

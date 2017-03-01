@@ -1,0 +1,58 @@
+{{character info/new}}
+{{also|龇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=211|rad=齒|as=05|sn=20|four=21710|canj=YUYMP}}
+
+# to show the teeth
+# crooked teeth
+
+====References====
+* {{Han ref|kx=1533.140|dkj=48619|dj=2071.220|hdz=74793.020|uh=9F5C|ud=40796|bh=C568|bd=50536}}
+
+----
+
+==Chinese==
+{{zh-forms|s=龇}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zī
+|c=zi1,ci1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|齜牙|齜牙咧嘴}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[차]], [[재]]|eumhun=|rv=cha, jae|mr=ch'a, chae|y=cha, cay}}
+
+# {{defn|lang=ko|sort=齒05}}
+
+[[Category:Uncommon kanji]]
+
+[[fr:齜]]
+[[hu:齜]]
+[[mg:齜]]
+[[pl:齜]]
+[[th:齜]]
+[[zh:齜]]

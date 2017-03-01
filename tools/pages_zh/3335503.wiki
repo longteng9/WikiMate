@@ -1,0 +1,54 @@
+{{also|烟幕}}
+==Chinese==
+{{zh-forms|s=烟幕}}
+
+===Pronunciation===
+{{zh-pron
+|m=yānmù
+|c=jin1 mok6
+|mn=qz:ian-mō͘/xm,zz:ian-bō͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[smokescreen]]
+
+====Synonyms====
+* {{zh-l|煙氣幕|yānqìmù}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Smoke screen}}
+[[File:Дымовая_завеса_День_ВМФ_Владивосток_2009-07-27.jpg|thumb|250px|{{lang|ja|煙幕}} (''enmaku''): a '''[[smokescreen]]''' partially obscuring a ship.]]
+</div>
+{{ja-kanjitab|えん|まく|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=えんまく}} compound term {{m|zh|煙幕|tr=ʔen mak|lit=smoke + curtain, screen}}. Compare modern {{etyl|cmn|-}} ''yānmù'', {{etyl|yue|-}} ''jin<sup>1</sup> mok<sup>6</sup>''.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|えんまく|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|えんまく}}
+
+# a [[smokescreen]]
+
+====Usage notes====
+“To lay or place a smokescreen” is expressed in Japanese using the verb {{m|ja|張る|tr=haru||to stretch taut}}, probably in reference to the {{m|en|curtain}} meaning expressed by the {{m|ja|幕|tr=maku}} character.
+: {{ja-usex|攻撃を困難にするために'''煙幕'''を張る|こうげき を こんなん に する ため に '''えんまく''' を はる|place a '''smokescreen''' to make it difficult to attack [us]}}
+
+Also used in a figurative sense.
+: {{ja-usex|好きな人について'''煙幕'''を張る|すき な ひと に ついて '''えんまく''' を はる|put up a '''smokescreen''' about the person [he / she] likes}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[ko:煙幕]]
+[[zh:煙幕]]

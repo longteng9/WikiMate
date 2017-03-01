@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|辎|輺}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=08|sn=15|four=52063|canj=JJVVW}}
+
+# a supply cart, covered wagon, dray
+
+====References====
+* {{Han ref|kx=1244.260|dkj=38368|dj=1721.170|hdz=53543.020|uh=8F1C|ud=36636|bh=BDFD|bd=48637}}
+
+----
+
+==Chinese==
+{{zh-forms|s=辎}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zī
+|c=zi1
+|mn=qz:chir/tw,xm,zz:chu
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|輜車|輜軿|輜重|輜騎}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=車08}}
+
+# {{defn|lang=ja|sort=車08}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[ほろぐるま]] (horoguruma)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=치|eumhun=|rv=chi|mr=ch'i|y=chi}}
+
+# {{defn|lang=ko|sort=車08}}
+
+[[fr:輜]]
+[[hu:輜]]
+[[ja:輜]]
+[[pl:輜]]
+[[th:輜]]
+[[vi:輜]]
+[[zh:輜]]

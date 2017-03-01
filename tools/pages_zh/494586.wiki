@@ -1,0 +1,57 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǐlìng
+|c=zi2 ling6
+|mn=chí-lēng
+|ma=Zh-zhilìng.ogg
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[instruct]]; to [[direct]]; to [[order]]
+
+===Noun===
+{{zh-noun}}
+
+# [[instruction]]; [[direction]]; [[order]]
+
+===Derived terms===
+{{zh-der|指令集|指令系統|指令性}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|れい|yomi=o}}
+
+===Noun===
+{{ja-noun|しれい}}
+
+# [[direction]], [[order]]
+# {{lb|ja|military|sort=しれい}} [[command]]
+# {{lb|ja|military ranks|sort=しれい}} [[commander]]
+
+====Synonyms====
+* {{ja-r|命令|めいれい}}
+
+===Verb===
+{{ja-verb-suru|しれい}}
+
+# to [[direct]], to [[order]]
+
+====Conjugation====
+{{ja-suru|しれい}}
+
+[[zh-min-nan:指令]]
+[[ko:指令]]
+[[hu:指令]]
+[[mg:指令]]
+[[ja:指令]]
+[[chr:指令]]
+[[zh:指令]]

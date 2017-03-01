@@ -1,0 +1,86 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīběn
+|c=gei1 bun2
+|h=pfs=kî-pún
+|md=gĭ-buōng
+|mn=ki-pún
+|w=1ji pen
+|ma=y
+|mc=y
+|oc=y
+|cat=n,a,adv
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[basis]]; [[root]]; [[fundament]]
+
+===Adjective===
+{{zh-adj}}
+
+# [[basic]]; [[fundamental]]; [[elementary]]; [[rudimentary]]
+#: {{zh-x|馬克思主義 基本 原理|the '''basic''' principles of Marxism}}
+# [[important]]; [[essential]]; [[main]]
+
+===Adverb===
+{{zh-adv}}
+
+# [[overall]]; [[on the whole]]; [[generally]]; [[more or less]]; [[in the main]]
+
+====Derived terms====
+{{zh-der|基本詞彙|基本單位|基本點|基本法|基本功|基本國策|基本粒子|基本矛盾|基本上|基本相互作用}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|き|ほん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|きほん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|きほん}}
+
+# [[foundation]], [[basis]], [[standard]]
+# {{lb|ja|martial arts}} [[w:kihon|kihon]]
+
+====Compounds====
+* {{ja-r|基本的|きほんてき}}: [[fundamental]], [[standard]], [[basic]]
+* {{ja-r|基本給|きほんきゅう}}: basic salary
+* {{ja-r|基本財産|きほんざいさん}}: endowment
+* {{ja-r|基本数|きほんすう}}: monoploid number
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab|}}
+
+===Noun===
+{{ko-noun|hj|hangeul=기본}}
+
+# {{hanja form of|기본|[[basis]], [[foundation]]}}
+
+[[Category:ja:Martial arts|きほん]]
+
+[[zh-min-nan:基本]]
+[[fr:基本]]
+[[ko:基本]]
+[[lo:基本]]
+[[lt:基本]]
+[[hu:基本]]
+[[mg:基本]]
+[[ja:基本]]
+[[ta:基本]]
+[[chr:基本]]
+[[uk:基本]]
+[[zh:基本]]

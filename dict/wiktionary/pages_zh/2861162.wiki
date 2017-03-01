@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhènyuán
+|mn=chìn-goân
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|seismology}} [[hypocenter]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|げん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|しんげん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|しんげん}}
+
+# {{lb|ja|seismology|sort=しんげん}} [[hypocenter]]
+#: {{ja-usex|千葉県北西部を震源とする地震|^ちばけん ほくせい を しんげん と する じしん|an earthquake with a hypocenter in northwestern Chiba Prefecture}}
+
+===References===
+<references/>
+
+[[ko:震源]]
+[[mg:震源]]
+[[ja:震源]]
+[[ro:震源]]
+[[zh:震源]]

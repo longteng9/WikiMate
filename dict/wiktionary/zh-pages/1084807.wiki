@@ -1,9 +1,0 @@
-==Japanese==
-{{ja-kanjitab|じつ|こう|けん|k1=じっ|yomi=o}}
-
-===Etymology===
-{{suffix|実行|権|lang=ja|t1=execution|t2=right|sort=しっこうけん'}}
-
-===Noun===
-{{ja-noun|じっこうけん}}
-# {{lb|ja|computing|sort=しっこうけん'}} [[right]] to [[execute]] a [[file]], execute permission

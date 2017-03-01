@@ -1,0 +1,69 @@
+{{character info/new}}
+{{also|膻}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=123|rad=羊|as=13|sn=19|four=80517|canj=TQYWM}}
+
+# rank odor
+
+====References====
+* {{Han ref|kx=0954.210|dkj=28581|dj=1399.150|hdz=53139.120|uh=7FB6|ud=32694|bh=C3BB|bd=50107}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shān
+|c=zin1,sin1,saan1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|如蠅附羶|慕羶|如蟻附羶|羶肉|羶腥|羶行|羶鄉|羯羶|群蟻附羶|羶心|羶慕|腥羶}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=羊13}}
+
+# {{defn|lang=ja|sort=羊13}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen)|kun=[[なまぐさい]] (namagusai)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|eumhun=|rv=jeon|mr=chŏn|y=cen}}
+
+# {{defn|lang=ko|sort=羊13}}
+
+[[zh-min-nan:羶]]
+[[fr:羶]]
+[[hu:羶]]
+[[mg:羶]]
+[[ja:羶]]
+[[pl:羶]]
+[[th:羶]]
+[[zh:羶]]

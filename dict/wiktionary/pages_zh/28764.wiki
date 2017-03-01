@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|逊}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=10|sn=14|four=32309|canj=YNDF|ids=⿺辶孫}}
+
+====References====
+* {{Han ref|kx=1263.030|dkj=39038|dj=1757.070|hdz=63874.030|uh=905C|ud=36956|bh=BBB9|bd=48057}}
+
+----
+
+==Chinese==
+{{zh-forms|s=逊}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xùn
+|c=seon3
+|mn=qz,tw,xm,zz:sùn
+|mc=y
+|oc=y
+|ma=
+|cat=a,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[humble]], [[modest]]
+# to [[yield]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=辵10}}
+
+# {{defn|lang=ja|sort=辵10}}
+
+====Readings====
+{{ja-readings|goon=[[そん]] (son)|kanon=[[そん]] (son)|kun=[[ゆずる]] (yuzuru), [[へりくだる]] (herikudaru), [[したがう]] (shitagau)}}
+
+====Compounds====
+* {{ja-r|遜色|そんしょく}}: [[inferiority]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=손|eumhun=|rv=son|mr=son|y=son}}
+
+# {{defn|lang=ko|sort=辵10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tốn]]|rs=辵10}}
+
+# {{defn|lang=vi|sort=辵10}}
+
+[[fr:遜]]
+[[hu:遜]]
+[[mg:遜]]
+[[ja:遜]]
+[[pl:遜]]
+[[th:遜]]
+[[zh:遜]]

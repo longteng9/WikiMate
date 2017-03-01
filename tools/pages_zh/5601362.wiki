@@ -1,0 +1,48 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|sort=とじ|yomi=irr}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|とじ|acc=1|acc_ref=NHK}}
+
+====Noun====
+{{ja-noun|とじ}}
+
+# [[matron]]
+
+=====Derived terms=====
+* {{ja-r|母刀自|あもとじ}}, {{ja-r|母刀自|おもとじ}}, {{ja-r|母刀自|ははとじ}}
+* {{ja-r|家刀自|いえとじ}}
+* {{ja-r|大刀自|おおとじ}}, {{ja-r|大刀自|おとじ}}
+
+===Etymology 2===
+{{ja-kanjitab|とう|じ|yomi=o}}
+Alteration of ''toji''.<ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=o|とうじ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|とうじ}}
+
+# [[matron]]
+
+===References===
+<references/>
+
+----
+
+==Okinawan==
+
+===Etymology===
+Cognate with mainland {{cog|ja|刀自|tr=toji||matron}}.
+
+===Noun===
+{{head|ryu|noun|hiragana|とぅじ|romaji|tuji}}
+
+# [[wife]]
+
+[[mg:刀自]]
+[[ja:刀自]]

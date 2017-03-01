@@ -1,0 +1,28 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+[[Image:Cube root.svg|right|thumb|250px|{{lang|ja|三乗根}}: Plot of ''y'' = <math>\sqrt[3]{x}</math> for <math>x \ge 0</math>.]]
+{{wikipedia|Cube root}}
+</div>
+{{ja-kanjitab|さん|じょう|こん|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=さんじょうこん|三乗|tr1=sanjō|t1=a cube, a power of three|pos1=in mathematics|根|tr2=kon|t2=root}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|n|さ|んじょ|うこん}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[sã̠nd͡ʑʲo̞ːkõ̞ɴ]}}
+
+===Noun===
+{{ja-noun|さんじょうこん}}
+
+# {{lb|ja|sort=さんじょうこん|mathematics}} a [[cube root]], a [[cubic root]]
+
+====Synonyms====
+* {{ja-l|立方根|りっぽうこん|rippōkon}}
+
+===References===
+<references/>
+
+[[zh:三乗根]]

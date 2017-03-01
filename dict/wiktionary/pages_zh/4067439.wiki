@@ -1,0 +1,29 @@
+==Japanese==
+{{ja-kanjitab|めい|き|yomi=on}}
+
+===Noun===
+{{ja-noun|めいき}}
+
+# writing [[clearly]]
+# clear [[specification]] in a document
+
+===Verb===
+{{ja-verb-suru|tr=trans|めいき}}
+
+# [[write]] clearly
+# [[specify]], [[spell out]]
+
+====Conjugation====
+{{ja-suru|めいき}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=명기}}
+
+# {{hanja form of|명기}}
+
+[[ko:明記]]
+[[ja:明記]]
+[[zh:明記]]

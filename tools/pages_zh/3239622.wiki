@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|らい|じん|ちょう|yomi=o}}
+
+===Etymology===
+{{calque|ja|雷神鳥|etyl term=thunderbird|etyl lang=en|sort=らいじんちょう}}. This term is built from the components {{l|ja|雷神|tr=''raijin''|gloss=thunder god}} + {{l|ja|鳥|tr=''chō''|gloss=bird}} rather than the expected {{l|ja|雷|tr=''rai''|gloss=thunder}} + {{l|ja|鳥|tr=''chō''|gloss=bird}} because the term {{l|ja|雷鳥}} had already been used to mean {{term|ptarmigan|rock ptarmigan}}, a type of [[snow]] [[grouse]] native to Japan.
+
+===Noun===
+{{ja-noun|らいじんちょう}}
+
+# a [[thunderbird]]
+
+====Usage notes====
+The term {{ja-r|サンダーバード}} is more commonly used as a translation for the English term {{m|en|thunderbird}}.
+
+====Synonyms====
+* {{ja-r|サンダーバード}}
+
+====See also====
+* {{pedialite|サンダーバード (伝説の生物)|lang=ja}}
+* {{ja-r|雷獣|らいじゅう}}: a thunder beast
+
+[[Category:ja:Mythological creatures]]

@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|眙}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=109|rad=目|as=12|sn=17|four=62018|canj=BUNOT}}
+
+# stare at
+
+====References====
+* {{Han ref|kx=0817.180|dkj=23689|dj=1230.020|hdz=42515.100|uh=77AA|ud=30634|bh=C0FC|bd=49404}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dèng
+|ma=y
+|c=dang1,dang6,cing4,caang4
+|h=pfs=hìm
+|md=
+|mn=chhîⁿ/thîⁿ
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=目12}}
+
+# {{defn|lang=ja|sort=目12}}
+
+====Readings====
+* {{ja-readings|on=[[どう]] (dō), [[とう]] (tō)|kun=[[みはる]] (miharu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=징|eumhun=|rv=jing|mr=ching|y=cing}}
+
+# {{defn|lang=ko|sort=目12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''瞪''' ([[trừng]], [[trưng]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:瞪]]
+[[fr:瞪]]
+[[hu:瞪]]
+[[mg:瞪]]
+[[ja:瞪]]
+[[no:瞪]]
+[[pl:瞪]]
+[[th:瞪]]
+[[zh:瞪]]

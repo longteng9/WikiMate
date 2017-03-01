@@ -1,0 +1,106 @@
+{{also|开始}}
+==Chinese==
+{{zh-forms|s=开始}}
+
+===Pronunciation===
+{{zh-pron
+|m=kāishǐ
+|c=hoi1 ci2
+|h=pfs=khôi-sṳ́
+|mn=khai-sí
+|w=1khe sr
+|ma=zh-kāishǐ.ogg
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[start]]; to [[begin]]
+#: {{zh-x|從 今天 開始|'''starting''' from today}}
+
+===Noun===
+{{zh-noun}}
+
+# [[start]]; [[beginning]]
+#: {{zh-x|一 個 好 的 開始 是 成功 的 一半。|Well begun is half done.}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|し|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|かいし|acc=h|acc_ref=NHK|y=o}}
+
+===Noun===
+{{ja-noun|かいし}}
+
+# [[start]]; [[beginning]]; [[initiation]]
+
+====Synonyms====
+* {{ja-r|到来|とうらい}}
+* {{ja-r|着手|ちゃくしゅ}}
+
+====Antonyms====
+* {{ja-r|終了|しゅうりょう}}
+* {{ja-r|終結|しゅうけつ}}
+* {{ja-r|完了|かんりょう}}
+
+====Compounds====
+* {{ja-r|開始日|かいしび}}: [[start]] [[day]], [[beginning]] [[day]]
+
+===Verb===
+{{ja-verb-suru|かいし|tr=trans}}
+
+# to [[start]]; to [[begin]]; to [[initiate]]
+#* '''1940''', 岸田國士, けむり（ラヂオ物語）:
+#*: {{ja-usex|翌日は、もう、測量班が作業を'''開始'''します。|よくじつ は、 もう、 そくりょう-はん が さぎょう を '''かいし''' します。|The surveying team is already '''starting''' work the next day.}}
+
+====Conjugation====
+{{ja-suru|かいし}}
+
+====Synonyms====
+* {{ja-r|始める|はじめる}} {{qualifier|transitive}}
+* {{ja-r|始まる|はじまる}} {{qualifier|intransitive}}
+
+===References===
+<references />
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=개시}}
+
+# {{hanja form of|개시|[[start]], [[beginning]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Verb===
+{{vi-hantu|pos=verb}}
+
+# {{han tu form of|khởi sự|to [[start]], to [[begin]]}}
+
+[[zh-min-nan:開始]]
+[[fr:開始]]
+[[ko:開始]]
+[[ku:開始]]
+[[lt:開始]]
+[[li:開始]]
+[[hu:開始]]
+[[mg:開始]]
+[[fj:開始]]
+[[nl:開始]]
+[[ja:開始]]
+[[th:開始]]
+[[chr:開始]]
+[[zh:開始]]

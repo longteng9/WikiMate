@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=08|sn=12|four=44921|canj=DKMR|ids=⿰木奇}}
+
+====References====
+* {{Han ref|kx=0535.210|dkj=15009|dj=0923.110|hdz=21228.090|uh=6905|ud=26885|bh=B4C8|bd=46280}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|奇|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yǐ
+|c=ji1,ji2
+|h=pfs=
+|md=
+|mn=í/kho
+|mn-t=in2/i1
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[chair]]
+#: {{zh-l|椅子|chair}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=木08}}
+
+# chair
+
+====Readings====
+* {{ja-readings|goon=[[い]] (i)|kanon=[[い]] (i)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=의|eumhun=|rv=ui|mr=ŭi|y=uy}}
+
+# {{defn|lang=ko|sort=木08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木08|hanviet=[[ghế]], [[ỷ]], [[kỉ]], [[y]]}}
+
+# {{defn|lang=vi|sort=木08}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:椅]]
+[[fr:椅]]
+[[ko:椅]]
+[[lo:椅]]
+[[lt:椅]]
+[[hu:椅]]
+[[mg:椅]]
+[[ja:椅]]
+[[no:椅]]
+[[pl:椅]]
+[[th:椅]]
+[[zh:椅]]

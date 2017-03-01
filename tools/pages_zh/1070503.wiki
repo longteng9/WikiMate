@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=róngjiě
+|c=jung4 gaai2
+|mn=qz,xm,zz:iông-kái/tw:iûⁿ-kái
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|chemistry}} to [[dissolve]] (into a solution)
+
+====Derived terms====
+{{zh-der|溶解度|溶解熱|細胞溶解酶}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|よう|かい|yomi=on}}
+
+===Alternative forms===
+* [[鎔解]]
+
+===Noun===
+{{ja-noun|ようかい}}
+
+# [[dissolution]], [[fusion]]
+
+===Verb===
+{{ja-verb-suru|ようかい}}
+
+# [[dissolve]], [[fuse]]
+
+====Conjugation====
+{{ja-suru|ようかい}}
+
+[[Category:ja:Chemistry|ようかい]]
+
+[[ko:溶解]]
+[[hu:溶解]]
+[[mg:溶解]]
+[[ja:溶解]]
+[[zh:溶解]]

@@ -35,6 +35,11 @@ class ImportData:
                 if redirection:
                     redirection = "\"" + redirection + "\""
                 if en_entries:
+                    if en_entries.endswith(','):
+                        en_entries = en_entries[0: -1]
+                    if en_entries.startswith(','):
+                        en_entries = en_entries[1:]
+                    en_entries = en_entries.strip()
                     en_entries = "\"" + en_entries + "\""
                 if tag:
                     tag = "\"" + tag + "\""
@@ -132,5 +137,5 @@ class ImportData:
             return self.erase_desc(line)
 
 if __name__ == "__main__":
-    importData = ImportData("zh-index.txt", "zh-pages")
+    importData = ImportData("index_zh.txt", "pages_zh")
     

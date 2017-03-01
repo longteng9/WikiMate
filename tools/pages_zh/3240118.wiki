@@ -1,0 +1,29 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|エアロゾル}}
+{{wikipedia|Aerosol}}
+</div>
+{{ja-kanjitab|えん|む|しつ|yomi=on}}
+
+===Etymology===
+Probably coined in Japan as a compound of {{etyl|ltc|-}}-derived elements {{compound|lang=ja|sort=えんむしつ|煙霧|tr1=enmu|t1=smoke, fog, haze|質|tr2=shitsu|t2=quality; substance, material}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|えんむしつ}}
+
+===Noun===
+{{ja-noun|えんむしつ}}
+
+# an [[aerosol]]
+#: {{ja-usex|'''煙霧質'''を発生させる|'''えんむしつ''' を はっせい させる|generate an '''aerosol'''}}
+# {{qualifier|more specifically}} the particles that make up an aerosol
+
+====Synonyms====
+* {{sense|aerosol in general}} {{ja-r|エアロゾル}}, {{ja-r|煙霧体|えんむたい}}
+* {{sense|aerosol particles}} {{ja-r|気膠質|きこうしつ}} {{qualifier|rare}}
+
+===See also===
+* {{ja-r|気体|きたい}}: a [[gas]]
+
+[[ru:煙霧質]]
+[[zh:煙霧質]]

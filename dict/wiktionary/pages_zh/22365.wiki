@@ -1,0 +1,98 @@
+{{character info/new}}
+{{also|祕}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=05|sn=10|four=23900|canj=HDPH|ids=⿰禾必}}
+
+====References====
+* {{Han ref|kx=0851.120|dkj=24977|dj=1275.120|hdz=42601.070|uh=79D8|ud=31192|bh=AFB5|bd=44981}}
+
+----
+
+==Chinese==
+{{zh-forms|t2=祕}}
+
+===Glyph origin===
+{{Han etym}}
+In current form: {{Han compound|禾|必|ls=psc|c1=s|c2=p}}.
+
+Variant ({{zh-l|*俗字}}) of {{och-l|祕}} via {{zh-l|*示}} → {{zh-l|*禾}}.
+
+===Pronunciation===
+{{zh-pron
+|m=mì,bì
+|m_note=bì - only in {{zh-l|*秘魯|Peru}} and as a surname
+|c=bei3,bai3
+|h=pfs=pi
+|md=bé
+|mn=pì
+|w=2pi
+|mc=y
+|oc=y
+|cat=a,v,n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[mysterious]]; [[abstruse]]; [[secret]]
+# [[rare]]; [[scarce]]
+# to [[keep]] as a [[secret]]
+# to [[block]]
+# {{zh-short|秘書|[[secretary]]}}
+# {{zh-short|秘魯|[[Peru]]}}
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|秘魯|秘寶|秘本|秘藏|秘而不宣|秘方|秘籍|秘計|秘訣|秘密|秘史|秘事|秘書|秘聞|傳神秘要}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=禾05}}
+
+# [[secret]]; [[confidential]]
+
+====Readings====
+* {{ja-readings|goon=[[ひ]] (hi)|kanon=[[ひ]] (hi)|kun=[[ひめる]] (himeru), [[かくす]] (kakusu), [[ひそか]] (hisoka)|nanori=[[なし]] (nashi), [[なみ]] (nami), [[み]] (mi), [[やす]] (yasu)}}
+
+====Compounds====
+* [[秘術]] ([[ひじゅつ]], ''[[hijutsu]]''): [[numerology]], or a [[secret]] [[art]]
+* [[秘術師]] ([[ひじゅつし]], ''[[hijutsushi]]''): a [[practitioner]] of a secret art
+* [[秘書]] (ひしょ, ヒショ, hisho)
+* [[秘密]] (ひみつ, himitsu)
+* [[秘儀]]
+* [[秘境]]
+* [[秘訣]]
+* [[秘法]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=비|eumhun=|rv=bi|mr=pi|y=pi}}
+
+# {{defn|lang=ko|sort=禾05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|bí|rs=禾05}}
+
+# {{defn|lang=vi|sort=禾05}}
+
+[[fr:秘]]
+[[ko:秘]]
+[[hu:秘]]
+[[mg:秘]]
+[[ja:秘]]
+[[no:秘]]
+[[pl:秘]]
+[[th:秘]]
+[[zh:秘]]

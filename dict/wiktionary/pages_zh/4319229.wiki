@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=dì-sānzhě
+|c=dai6 saam1 ze2
+|mn=tē-saⁿ-chiá
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[third party]]
+# the [[other man]]; the [[other woman]]
+
+====Synonyms====
+* {{qualifier|third party}} {{zh-l|第三方}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|だい|さん|しゃ|yomi=on}}
+
+===Noun===
+{{ja-noun|だいさんしゃ}}
+
+# [[third party]], [[outsider]]
+#* '''1948''', 宮本百合子, 平和への荷役:
+#*: {{ja-usex|'''第三者'''として考えてみてもそれはそうだと思う。|'''だいさんしゃ''' として かんがえて みて も それ は そう だ と おも.う。|Considering it as an outsider, I have to say I think so.}}
+
+[[ko:第三者]]
+[[lt:第三者]]
+[[mg:第三者]]
+[[ja:第三者]]
+[[zh:第三者]]

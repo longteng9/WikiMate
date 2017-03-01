@@ -1,0 +1,110 @@
+{{character info/new}}
+{{also|支}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=04|sn=8|four=44947|canj=DJE|ids=⿰木支}}
+
+====References====
+* {{Han ref|kx=0516.120|dkj=14557|dj=0904.060|hdz=21165.070|uh=679D|ud=26525|bh=AA4B|bd=43595}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhī,qí
+|c=zi1,kei4
+|h=pfs=kî
+|mn=qz,tw,xm,zz:chi/qz,tw,xm,zz:ki
+|mn_note=chi - literary; ki - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=n,cls
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[branch]]; [[twig]]
+#: {{zh-x|柳 枝 低垂 在 水面 上。|The branches of the willows drooped over the water.}}
+#: {{zh-x|他 把 不 結果 的 枝 都 修剪 掉。|He pruned every branch that did not bear fruit.}}
+
+===Classifier===
+{{zh-cls}}
+
+# {{non-gloss definition|classifier for long and round objects (stick, pen, rod, flower with stem, etc)}}
+#: {{zh-x|一 枝 鉛筆|a pencil}}
+#: {{zh-x|一 枝 槍|a gun}}
+
+====Compounds====
+* {{zh-l|荔枝}}
+* {{zh-l|樹枝}}
+
+----
+
+==Japanese==
+[[File:Acacia constricta branch.jpg|thumb|枝]]
+
+===Kanji===
+{{ja-kanji|grade=5|rs=木04}}
+
+# [[branch]], [[limbs]]
+
+====Readings====
+* {{ja-readings|kanon=[[し]] (shi), [[き]] (ki)|goon=[[し]] (shi), [[ぎ]] (gi)|kun=[[えだ]] (eda)|nadzuke=[[え]] (e), [[えだ]] (eda), [[き]] (ki), [[しげ]] (shige), [[しな]] (shina)}}
+
+====References====
+* [[Wikipedia:Shift_JIS|Shift_JIS]]: 8E7D
+* [[Wikipedia:JIS encoding|JIS]]: 3B5E
+
+===Noun===
+{{ja-noun|えだ}}
+
+# [[branch]], [[limbs]]
+# {{lb|ja|graph theory|sort=えだ}} [[edge]]
+
+====Coordinate terms====
+* {{ja-r|葉|gloss=leaf|は}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[지]]|eumhun=|rv=ji|mr=chi|y=ci}}
+
+# {{defn|lang=ko|sort=木04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chi]], [[che]]|rs=木04}}
+
+# {{defn|lang=vi|sort=木04}}
+
+[[fr:枝]]
+[[ko:枝]]
+[[lo:枝]]
+[[lb:枝]]
+[[lt:枝]]
+[[hu:枝]]
+[[mg:枝]]
+[[fj:枝]]
+[[ja:枝]]
+[[no:枝]]
+[[pl:枝]]
+[[fi:枝]]
+[[sv:枝]]
+[[tl:枝]]
+[[th:枝]]
+[[chr:枝]]
+[[zh:枝]]

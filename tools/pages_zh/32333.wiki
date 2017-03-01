@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|鳢}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=13|sn=24|four=25318|canj=NFTWT}}
+
+# [[snakehead]] (fish)
+
+====References====
+* {{Han ref|kx=1479.140|dkj=46542|dj=2011.080|hdz=74717.010|uh=9C67|ud=40039|bh=F8D7|bd=63703}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鳢}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǐ
+|c=lai5
+|mn=lé
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|鱧腸}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚13}}
+
+# {{defn|lang=ja|sort=魚13}}
+
+====Readings====
+* {{ja-readings|on=[[れい]] (rei)|kun=[[はも]] (hamo)}}
+
+===Noun===
+{{ja-noun|はも|ハモ}}
+
+# {{vern|daggertooth pike conger}}, a type of [[eel]], {{taxlink|Muraenesox cinereus|species|noshow=1}}
+
+[[Category:ja:Fish|はも]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[례]]>[[예]]|eumhun=|rv=rye>ye|mr=rye>ye|y=lyey>yey}}
+
+# {{defn|lang=ko|sort=魚13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lễ]]|rs=魚13}}
+
+# {{defn|lang=vi|sort=魚13}}
+
+[[fr:鱧]]
+[[hu:鱧]]
+[[mg:鱧]]
+[[ja:鱧]]
+[[pl:鱧]]
+[[th:鱧]]
+[[zh:鱧]]

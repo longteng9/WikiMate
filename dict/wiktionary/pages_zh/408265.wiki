@@ -1,0 +1,86 @@
+{{also|祕密}}
+==Chinese==
+{{zh-forms|t2=祕密}}
+
+===Pronunciation===
+{{zh-pron
+|m=mìmì,tl=y
+|m_note=Initial of first syllable is irregular (due to assimilation)
+|c=bei3 mat6
+|h=pfs=pi-me̍t
+|md=bé-mĭk
+|mn=pì-bi̍t
+|w=2pi miq
+|ma=y
+|mc=y
+|oc=y
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[secret]]
+#* {{zh-x|越 心虛 越 解釋 關於 你 和 她 公開 的 秘密。沒 什麼 了{liǎo}不起，說 什麼 對不起？|The more [you are] afraid of being found out, the more [you] [try to] explain the public '''secret''' of you and her. [It's] nothing special, why apologize?}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[secret]]
+
+====Antonyms====
+* {{zh-l|公開}}
+
+===Descendants===
+{{CJKV|祕密|s=秘密|ひみつ|비밀|bí mật}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひ|みつ|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|ひみつ|yomi=o|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ひみつ}}
+
+# [[secret]]
+#* '''1905''', 夏目漱石, 吾輩は猫である:
+#*: {{ja-usex|下女は国事の'''秘密'''でも語る時のように大得意である。|げじょ は こくじ の '''ひみつ''' でも はかる とき の よう に だいとくい で ある。|The maid acted as if she were telling him some kind of national secret.}}
+
+====See also====
+* {{ja-r|機密|きみつ}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|ひみつ]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=비밀}}
+
+# {{hanja form of|비밀|secret}}
+
+[[fr:秘密]]
+[[ko:秘密]]
+[[ky:秘密]]
+[[lo:秘密]]
+[[lt:秘密]]
+[[li:秘密]]
+[[hu:秘密]]
+[[mg:秘密]]
+[[ja:秘密]]
+[[km:秘密]]
+[[fi:秘密]]
+[[sv:秘密]]
+[[chr:秘密]]
+[[uk:秘密]]
+[[zh:秘密]]

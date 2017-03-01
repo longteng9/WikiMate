@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=134|rad=臼|as=05|sn=11|four=50777|canj=QKHX|ids=⿱𡗗臼}}
+
+# [[grind]] in a [[mortar]]
+
+====References====
+* {{Han ref|kx=1003.200|dkj=30195|dj=1460.140|hdz=53039.040|uh=8202|ud=33282|bh=B2EA|bd=45802}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chōng
+|c=zung1
+|mn=cheng
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|舂米|舂碓|霜舂雨薪|舂容|舂陵|舂鉏}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=臼05}}
+
+# {{defn|lang=ja|sort=臼05}}
+
+====Readings====
+* {{ja-readings|goon=[[しゅ]] (shu)|kanon=[[しょう]] (shō)|on=[[そう]] (sō)|kun=[[うすずく]] (usuzuku), [[つく]] (tsuku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[용]], [[송]], [[창]]|eumhun=|rv=yong, song, chang|mr=yong, song, ch'ang|y=yong, song, chang}}
+
+# {{defn|lang=ko|sort=臼05}}
+
+[[zh-min-nan:舂]]
+[[fr:舂]]
+[[hu:舂]]
+[[mg:舂]]
+[[ja:舂]]
+[[pl:舂]]
+[[th:舂]]
+[[zh:舂]]

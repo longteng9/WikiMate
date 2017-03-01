@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|颤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=181|rad=頁|as=13|sn=22|four=01186|canj=YMMBC}}
+
+====References====
+* {{Han ref|kx=1410.050|dkj=43706|dj=1928.220|hdz=74394.090|uh=986B|ud=39019|bh=C5B8|bd=50616}}
+
+----
+
+==Chinese==
+{{zh-forms|s=颤}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|亶|頁|c1=p|c2=s|t2=head|ls=psc}}: head is [[askew]].
+
+===Pronunciation===
+{{zh-pron
+|m=zhàn,chàn
+|c=zin3
+|h=pfs=chûn
+|md=
+|mn=qz,xm,zz:chiàn/qz,tw,xm,zz:chùn
+|mn_note=chiàn - literary; chùn - vernacular
+|w=2tsoe
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[shake]]; to [[vibrate]]; to [[tremble]]
+# to [[shiver]]; to [[tremble]]
+
+===Compounds===
+{{zh-der|冷顫|亂顫|心驚膽顫|心驚肉顫|寒顫|發顫|捉顫|疙顫顫|打顫|膽顫心驚|顫動|顫筆|顫悠悠|震顫麻痺|顫聲|肉顫心驚|顫抖抖|顫音|顫抖|顫巍巍|震顫|骨顫肉驚|顫顫巍巍|顫悠|膽驚心顫|顫慄|膽顫心寒}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=頁13}}
+
+# {{defn|lang=ja|sort=頁13}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen)|kun=[[ふるえる]] (furueru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|eumhun=|rv=jeon|mr=chŏn|y=cen}}
+
+# {{defn|lang=ko|sort=頁13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chiến]], [[chiên]]|rs=頁13}}
+
+# {{defn|lang=vi|sort=頁13}}
+
+[[zh-min-nan:顫]]
+[[fr:顫]]
+[[hu:顫]]
+[[mg:顫]]
+[[ja:顫]]
+[[pl:顫]]
+[[th:顫]]
+[[zh:顫]]

@@ -1,0 +1,140 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=177|rad=革|as=00|sn=9|four=44506|canj=TLJ}}
+#{{mul-kangxi radical-def}}
+====Related characters====
+* [[舞]], [[無]] ([[无]])
+
+====See also====
+* {{l|mul|皮}}
+
+====References====
+* {{Han ref|kx=1385.010|dkj=42710|dj=1899.150|hdz=74325.010|uh=9769|ud=38761|bh=ADB2|bd=44466}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|p}} – a stretched animal hide: the upper is head, the bottom is the tail and legs.
+
+Compare {{m|zh|皮}}, which also features a hide.
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=gé
+|c=gaak3,gaap3
+|h=pfs=ns:kiet
+|mn=kek
+|w=4kaq,4keq
+|w_note=4kaq - colloquial; 4keq - literary
+|mc=y
+|oc=y
+|cat=n,v,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[leather]]; [[animal]] [[hide]]
+# {{lb|zh|historical}} [[leather]] [[armour]] and [[weaponry]]
+# {{lb|zh|historical}} [[ornament]] on the [[front]] of the [[cart]]
+# {{†}} {{zh-alt-form|勒|[[headstall]]}}
+# 49th [[hexagram]] of the [[I Ching]]
+# to [[change]]; to [[alter]]; to [[reform]]
+# to [[remove]]; to [[expel]]
+# {{surname|lang=zh}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=jí
+|c=gik1
+|h=pfs=
+|mn=
+|dial=n
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{zh-alt-form|亟|[[terminally]] [[ill]]; [[critical]]}}
+
+===Compounds===
+{{zh-der|革出|革除|革故鼎新|革胡|革履|革面洗心|革命|革囊|革新|革職|改革|七月革命|二月革命|二次革命|兵革|兵革之禍|剗革|十月革命|參革|反革命|和平改革|因革|國民革命|土地改革|大化革新|大馬士革|宗教改革|工業革命|悛革|改面革心|政治革新|文學革命|文革|斥革|暴力革命|染革|民主改革|沿革|沿革解釋|洗削更革|洗心革志|洗心革意|洗心革面|洗面革心|湯武革命|漢字改革|犀革|產業革命|病革|登革熱|皮革|磨揉遷革|社會改革|社會革命|經濟改革|綠色革命|老革|肌革|膚革|興革|裁革|裹屍馬革|裹革|褫革|變革|貫革|資訊革命|軌革|辛亥革命|農地改革|農業改革|釐革|金革|開革|革凡成聖|革凡登聖|革名|革命之母|革命先烈|革命家|革命戰爭|革命民權|革命法庭|革命軍|革容|革帶移孔|革弊|革役|革心|革易|革爭|革留|革職查辦|革職留任|革舄|革舊|革舊鼎新|革車|革退|革面|鞗革|馬革裹屍|鳥革翬飛|鼎新革故|鼎革}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=革00}}
+
+# [[leather]]
+# [[become]] [[serious]]
+# [[skin]]
+# [[hide]]
+# [[pelt]]
+
+====Readings====
+* {{ja-readings|goon=[[きゃく]] (kyaku)|kanon=[[かく]] (kaku)|kun=[[かわ]] (kawa), [[あらたまる]] (aratamaru), [[あらためる]] (aratameru)}}
+
+====Compounds====
+{{top4}}
+* [[革易]]
+* [[革新]]
+{{mid4}}
+* [[革正]]
+* [[革弊]]
+{{mid4}}
+* [[革命]]
+* [[革面]]
+{{mid4}}
+* [[改革]]
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[혁]], [[극]]|eumhun=|rv=hyeok, geuk|mr=hyŏk, kŭk|y=hyek, kuk}}
+
+# {{defn|lang=ko|sort=革00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cách]], [[rắc]]|rs=革00}}
+
+# {{defn|lang=vi|sort=革00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:革]]
+[[ko:革]]
+[[lo:革]]
+[[hu:革]]
+[[mg:革]]
+[[ms:革]]
+[[ja:革]]
+[[no:革]]
+[[pl:革]]
+[[pt:革]]
+[[ru:革]]
+[[fi:革]]
+[[sv:革]]
+[[th:革]]
+[[chr:革]]
+[[zh:革]]

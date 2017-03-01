@@ -1,0 +1,120 @@
+{{character info/new}}
+{{also|羣}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=123|rad=羊|as=07|sn=13|four=18651|canj=SRTQ,XSRTQ|ids=⿰君羊}}
+
+# [[group]], [[crowd]], [[multitude]], [[mob]]
+
+====References====
+* {{Han ref|kx=0952.260|dkj=28498|dj=1396.200|hdz=53134.120|uh=7FA4|ud=32676|bh=B873|bd=47219}}
+
+----
+
+==Chinese==
+{{zh-forms|t2=羣}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qún
+|c=kwan4
+|h=pfs=khiùn
+|md=
+|mn=kûn |mna=Taiwanese-Tone_5.ogg
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+{{attention|zh|the Middle Chinese data is at [[羣]]}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[group]], [[crowd]]
+# [[flock]], [[herd]], [[pack]], etc.
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=羊07}}
+
+====Readings====
+* {{ja-readings|goon=[[ぐん]] (gun)|kanon=[[くん]] (kun)|kun=[[むらがる]] (muragaru), [[むれる]] (mureru)|nanori=}}
+
+====Compounds====
+* {{ja-r|群島|ぐんとう}}
+
+===Etymology 1===
+
+====Noun====
+{{ja-noun|ぐん}}
+
+# a [[group]] of people, animals, etc.
+# {{lb|ja|group theory}} a group
+
+====Suffix====
+{{ja-pos|suffix|ぐん}}
+
+# group of people, animals, etc.
+
+===Etymology 2===
+
+====Alternative forms====
+* {{l|ja|叢}}
+* {{l|ja|簇}}
+
+====Noun====
+{{ja-noun|むら}}
+
+# a [[gathering]]
+
+====Suffix====
+{{ja-pos|suffix|むら}}
+
+# gathering
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=군|eumhun=|rv=gun|mr=kun|y=kwun}}
+
+# ([[무리|무리]]<ref>Compare Japanese ''Kun'' [[群れ]] ([[むれ]], ''mure'', "[[crowd]]"). </ref> 군): [[group]], [[crowd]], [[horde]], [[herd]], [[flock]], [[folk]], [[people]], [[mob]]
+# ([[무리|무리]][[짓다|질]]<ref>Compare Japanese ''Kun'' [[群れる]] ([[むれる]], ''mureru'', "to [[crowd]]"). </ref> 군): to [[crowd]], [[flock]], [[gather]], [[assemble]]
+# ([[많다|많을]] 군): [[multitude]]
+
+===Usage notes===
+<references />
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quần]], [[còn]], [[quằn]], [[cơn]]|rs=羊07}}
+
+# {{defn|lang=vi|sort=羊07}}
+
+[[zh-min-nan:群]]
+[[fr:群]]
+[[ko:群]]
+[[lo:群]]
+[[hu:群]]
+[[mg:群]]
+[[ms:群]]
+[[ja:群]]
+[[no:群]]
+[[pl:群]]
+[[tl:群]]
+[[th:群]]
+[[chr:群]]
+[[uk:群]]
+[[zh:群]]

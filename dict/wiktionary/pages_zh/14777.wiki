@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|岿}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=17|sn=20|four=22127|canj=UHMB|ids=⿱山歸}}
+
+# [[grand]], [[stately]]
+# [[secure]], [[lasting]]
+
+====References====
+* {{Han ref|kx=0322.280|dkj=08622|dj=0622.400|hdz=10807.090|uh=5DCB|ud=24011|bh=F5C9|bd=62921}}
+
+----
+
+==Chinese==
+{{zh-forms|s=岿}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kuī
+|c=kwai1,kwai2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|巋然|巋然獨存}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山17}}
+
+# {{defn|lang=ja|sort=山17}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki), [[ぎ]] (gi)|kun=[[つらなる]] (tsuranaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[규]]|rv=gyu|mr=kyu}}
+
+# {{defn|lang=ko|sort=山17}}
+[[fr:巋]]
+[[li:巋]]
+[[hu:巋]]
+[[pl:巋]]
+[[th:巋]]
+[[zh:巋]]

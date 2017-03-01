@@ -1,0 +1,58 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=04|sn=7|four=36100|canj=EA,XXEA|ids=⿰氵曰}}
+
+# [[run]] [[swiftly]]
+
+====References====
+* {{Han ref|kx=0607.110|dkj=17153|dj=1000.120|hdz=31565.010|uh=6C69|ud=27753|bh=CB53|bd=52051}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gǔ,yù,hú
+|c=gwat1
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水04}}
+
+# {{defn|lang=ja|sort=水04}}
+
+====Readings====
+* {{ja-readings|on=[[いつ]] (itsu), [[ごち]] (gochi), [[ごつ]] (gotsu)|kun=[[ながれる]] (nagareru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=율|eumhun=|rv=yul|mr=yul|y=yul}}
+
+# {{defn|lang=ko|sort=水04}}
+
+[[fr:汩]]
+[[hu:汩]]
+[[mg:汩]]
+[[pl:汩]]
+[[th:汩]]
+[[zh:汩]]

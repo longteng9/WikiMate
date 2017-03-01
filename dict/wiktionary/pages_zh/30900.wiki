@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|霭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=173|rad=雨|as=16|sn=24|four=10627|canj=MBYRV|ids=⿱⻗謁}}
+
+# cloudy sky, haze
+# [[calm]], [[peaceful]]
+
+====References====
+* {{Han ref|kx=1380.180|dkj=42526|dj=1889.280|hdz=64083.030|uh=9744|ud=38724|bh=C647|bd=50759}}
+
+----
+
+==Chinese==
+{{zh-forms|s=霭}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=ǎi
+|c=oi2
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+* {{zh-l|雲靄}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=雨16}}
+
+# {{defn|lang=ja|sort=雨16}}
+
+====Readings====
+* {{ja-readings|on=[[あい]] (ai)|kun=[[もや]] (moya)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=애|eumhun=|rv=ae|mr=ae|y=ay}}
+
+# {{defn|lang=ko|sort=雨16}}
+
+[[fr:靄]]
+[[ko:靄]]
+[[lo:靄]]
+[[hu:靄]]
+[[mg:靄]]
+[[ja:靄]]
+[[pl:靄]]
+[[th:靄]]
+[[chr:靄]]
+[[zh:靄]]

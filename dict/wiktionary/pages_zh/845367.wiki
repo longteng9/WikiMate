@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=pīzhǔn
+|c=pai1 zeon2
+|h=pfs=phî-chún
+|mn=qz,tw,xm:phoe-chún/twvk,zz:phe-chún
+|ma=Zh-pizhun.ogg
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[approve]]; to [[ratify]]; to [[sanction]]
+
+===Noun===
+{{zh-noun}}
+
+# [[approval]]; [[ratification]]; [[sanctioning]]
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひ|じゅん|yomi=o}}
+
+===Noun===
+{{ja-noun|ひじゅん}}
+
+# [[ratification]]
+
+===Verb===
+{{ja-verb-suru|ひじゅん}}
+
+# [[ratify]]
+#: {{ja-usex|新核軍縮条約が'''批准'''される見通しとなった。|しん-かくぐんしゅく じょうやく が '''ひじゅん''' される みとおし と なった。|The new START treaty is set to be ratified.}}
+
+====Conjugation====
+{{ja-suru|ひじゅん}}
+
+[[zh-min-nan:批准]]
+[[ko:批准]]
+[[hu:批准]]
+[[mg:批准]]
+[[ja:批准]]
+[[pl:批准]]
+[[chr:批准]]
+[[zh:批准]]

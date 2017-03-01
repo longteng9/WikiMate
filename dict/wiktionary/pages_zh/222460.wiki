@@ -1,0 +1,69 @@
+{{also|失禮}}
+==Chinese==
+{{zh-see|失禮}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しつ|れい|yomi=on}}
+
+===Etymology===
+Probably from {{etyl|ltc|ja|sort=しつれい}} compound {{m|zh|失禮|tr=syit lej<sup>X</sup>|lit=lose, loss + propriety}}.  Compare modern {{etyl|nan|-}} reading ''sit-lé''.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|しつれい|acc=2|dev=1|acc_ref=DJR,NHK}}
+
+===Adjective===
+{{ja-adj|infl=na|しつれい|kyu=失禮}}
+
+# [[rude]], [[impolite]], [[ill-mannered]]
+#: {{ja-usex|'''失礼'''な人。|'''しつれい''' な ひと。|A '''rude''' person.}}
+#: {{ja-usex|そういう言い方は'''失礼'''だ。|そう いう い.いかた は '''しつれい''' だ。|It's '''impolite''' to say it like that.}}
+#: {{ja-usex|'''失礼'''ですが。|'''しつれい''' です が。|It's a '''rudeness''', but... → I don't mean to be '''rude''', but...}}
+
+====Synonyms====
+* {{ja-r|無礼|ぶれい}}
+
+===Noun===
+{{ja-noun|しつれい|kyu=失禮}}
+
+# [[rudeness]], [[impoliteness]]
+#: {{ja-usex|'''失礼'''ですが。|'''しつれい''' です が。|It's a '''rudeness''', but... → I don't mean to be '''rude''', but...}}
+
+====Synonyms====
+* {{ja-r|無礼|ぶれい}}
+
+===Interjection===
+{{ja-pos|interjection|しつれい|kyu=失禮}}
+
+# [[I'm sorry]], [[excuse me]]
+
+===Verb===
+{{ja-verb-suru|しつれい|kyu=失禮}}
+
+# to be [[rude]], to [[do]] something [[rude]]
+
+====Usage notes====
+Used idiomatically to mean {{m|en|excuse me}} or {{m|en|I'm sorry}}.  Examples include:
+: {{ja-usex|失礼しました。|しつれい しました。|I was '''rude''' → '''I'm sorry'''. {{qualifier|in reference to a past action}}}}
+: {{ja-usex|では、'''失礼'''します。|で は、 '''しつれい''' します。|I will be '''rude''' → '''Excuse me''' {{qualifier|said at the end of a phone call just before hanging up}}}}
+: {{ja-usex|お先に'''失礼'''します。|お-さき に '''しつれい''' します。|I will be '''rude''' by doing something first → '''Excuse me''', I'm leaving now. {{qualifier|before other people leave}}}}
+
+====Conjugation====
+{{ja-suru|しつれい}}
+
+====See also====
+* {{ja-r|失礼します|しつれい します}}
+
+===References===
+<references/>
+:* {{R:Shogakukan}}
+
+[[Category:Japanese phrasebook|しつれい]]
+
+[[fr:失礼]]
+[[ko:失礼]]
+[[hu:失礼]]
+[[mg:失礼]]
+[[pl:失礼]]
+[[zh:失礼]]

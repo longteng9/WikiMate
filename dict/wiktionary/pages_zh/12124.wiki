@@ -1,0 +1,99 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+吠 is from 口 and 犬 which mean mouth and dog respectively.
+So, the composition of these two words mean "bark".
+
+Ancient Chinese believed that dogs will always bark while seeing something strange.
+Therefore, the usage of 蜀犬吠日(meaning dog barking at the sun)
+refers to someone who is too excited about common things.
+
+===Han character===
+{{Han char|rn=30|rad=口|as=04|sn=7|four=63034|canj=RIK|ids=⿰口犬}}
+
+# [[bark]] ([[sound]] made by [[animal]]s, especially [[dog]]s)
+
+====References====
+* {{Han ref|kx=0177.220|dkj=03331|dj=0395.040|hdz=10587.020|uh=5420|ud=21536|bh=A770|bd=42864}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=𠲎}}
+
+===Pronunciation===
+{{zh-pron
+|m=fèi
+|c=fai6
+|h=pfs=phoi
+|md=
+|mn=hūi,pūi
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|of a dog}} To [[bark]].
+
+===References===
+* {{qualifier|Min Nan}} {{thcwd|2971}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口04}}
+
+# {{defn|lang=ja|sort=口04}}
+
+====Readings====
+{{ja-readings|goon=[[べい]] (bei)|kanon=[[はい]] (hai)|kun=[[ほえる]] (hoeru), [[ほえ]] (hoe)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|狗吠|くはい}}: the [[barking]] of a dog, or the sound thereof
+* {{ja-r|犬吠|けんばい}}: the [[barking]] of a dog, or the sound thereof
+{{der-bottom}}
+
+====Derived terms====
+* {{l|ja|吠える}}, {{l|ja|吠る}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=폐|rv=pye|mr=p'ye|y=phyey}}
+
+# {{defn|lang=ko|sort=口04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phệ]], [[phịa]]|rs=口04}}
+
+# {{defn|lang=vi|sort=口04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5420 Nom Foundation]
+
+[[zh-min-nan:吠]]
+[[fr:吠]]
+[[it:吠]]
+[[li:吠]]
+[[hu:吠]]
+[[mg:吠]]
+[[ja:吠]]
+[[no:吠]]
+[[pl:吠]]
+[[th:吠]]
+[[chr:吠]]
+[[zh:吠]]

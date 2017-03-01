@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=8}}
+
+===Han character===
+{{Han char|rn=74|rad=月|as=04|sn=8|four=77220|canj=BB|ids=⿰月月}}
+
+# [[friend]], [[pal]], [[acquaintance]]
+
+====References====
+* {{Han ref|kx=0504.290|dkj=14340|dj=0883.040|hdz=32050.060|uh=670B|ud=26379|bh=AA42|bd=43586}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=péng
+|c=pang4
+|mn=pêng/qz:pâng/qz:pn̂g
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|三朋四友|乞拉朋吉|交朋結義|吉朋|呼朋引伴|呼朋引類|夠朋友|好朋友|引類呼朋|挾朋樹黨|朋交|朋僚|朋儔|朋儕|朋分花用|朋友|朋友有舊|朋奸|朋從|朋比|朋比作仇|朋比作奸|朋比為奸|朋淫|朋謀|朋酒|朋頭|朋馳|朋黨|朋黨之爭|朋黨比周|朋黨論|無朋|燕朋|狂朋怪友|狐朋狗友|狐朋狗黨|男朋友|碩大無朋|老朋友|耐久朋|良朋|良朋益友|親朋|親朋好友|詩朋酒侶|詩朋酒友|詩酒朋儕|豬朋狗友|賓朋|賓朋滿座|酒肉朋友|面朋|韓朋|韓朋賦|韓朋鳥|高朋|高朋故戚|高朋滿座}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=月04}}
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō)|kun=[[とも]] (tomo)}}
+
+===Noun===
+{{ja-noun|とも}}
+
+# {{alternative form of|友|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=붕|eumhun=|rv=bung|mr=pung|y=pung}}
+
+# {{defn|lang=ko|sort=月04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bằng]], [[bẵng]]|rs=月04}}
+
+# {{defn|lang=vi|sort=月04}}
+
+[[fr:朋]]
+[[ko:朋]]
+[[hu:朋]]
+[[mg:朋]]
+[[ja:朋]]
+[[no:朋]]
+[[pl:朋]]
+[[th:朋]]
+[[zh:朋]]

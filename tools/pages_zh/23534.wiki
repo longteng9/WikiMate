@@ -1,0 +1,97 @@
+{{character info/new}}
+{{also|县|県}}
+==Translingual==
+{{Han simplified forms|縣|県|县}}
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=10|sn=16|four=62993|canj=BFHVF|ids=⿰県系<small>(JK)</small>,⿰⿱⿻且一小系<small>(GTV)</small>}}
+
+====Derived characters====
+* [[懸]] ([[悬]])
+
+====Descendants====
+* [[县]] {{qualifier|simplification, as in [[悬]] (from [[懸]])}}
+* [[県]] {{qualifier|simplification}}
+
+====References====
+* {{Han ref|kx=0934.230|dkj=27784|dj=1373.080|hdz=53435.110|uh=7E23|ud=32291|bh=BFA4|bd=49060}}
+
+----
+
+==Chinese==
+{{zh-forms|s=县}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|県|系|ls=ic}} – to hang 系 by the head 県 (hair hanging down).
+
+===Pronunciation===
+{{zh-pron
+|m=xiàn
+|c=jyun6
+|h=pfs=yen
+|md=gâing
+|mn=qz,xm,zz:hiān/qz:kūiⁿ/tw,zz:koān/xm:koāiⁿ
+|mn_note=hiān - literary; kūiⁿ/koān/koāiⁿ - vernacular
+|w=3hhyoe
+|ma=y
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# An [[administrative]] [[subdivision]] of [[imperial]], [[republican]], and [[communist]] [[China]], [[typically]] [[translated]] as "[[county]]" but [[now]] [[generally]] [[restrict]]ed to [[rural]] [[area]]s, [[contrast]]ed with the [[urban]] "[[district]]s" ([[區]])
+# {{lb|zh|in many cases but not always}} The [[town]] which [[serve]]s as the [[seat of government]] of [[such]] [[subdivision]]s, the "[[county seat]]"
+
+====See also====
+* {{sense|first-level divisions}} {{zh-l|省}}, {{zh-l|市}}; {{zh-l|道}} {{qualifier|historical}}
+* {{sense|second-level divisions}} {{zh-l|區}}; {{zh-l|州}}, {{zh-l|市}}, {{zh-l|府}}, {{zh-l|郡}}, {{zh-l|道}} {{qualifier|historical}}
+
+===Compounds===
+{{zh-der|州縣|夫人縣君|他鄉外縣|外縣|京縣|庪縣|知縣|神州赤縣|畿縣|縣議會|郡縣|縣宰|縣圃|赤縣神州|縣議員|縣賞|縣轄市|縣界|縣尹|縣君|縣學|縣道|縣跂|縣令|縣志|縣佐|首縣|縣城|縣象|縣立|縣太爺|縣侯|縣民|縣政府|縣尊|赤縣|贛縣|部縣|縣丞|縣尉|縣主|縣長|縣境|縣治|縣府|縣官}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=糸10|style=ky|shin=県}}
+
+# {{defn|lang=ja|sort=糸10}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken)|kun=[[かける]] (kakeru), [[かかる]] (kakaru), [[あがた]] (agata)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=현|eumhun=|mr=hyŏn|y=hyen}}
+
+# {{defn|lang=ko|sort=糸10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[huyện]]|rs=糸10}}
+
+# {{han tu form of|[[huyện]]|district}}
+
+[[zh-min-nan:縣]]
+[[fr:縣]]
+[[ko:縣]]
+[[li:縣]]
+[[hu:縣]]
+[[mg:縣]]
+[[fj:縣]]
+[[ja:縣]]
+[[pl:縣]]
+[[th:縣]]
+[[chr:縣]]
+[[zh:縣]]

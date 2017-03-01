@@ -1,0 +1,114 @@
+{{character info/new}}
+{{also|曽|會}}
+==Translingual==
+{{ja-forms|[[曽]]|曾|曾}}
+
+===Han character===
+{{Han char|rn=73|rad=曰|as=08|sn=12|four=80606|canj=CWA}}
+
+====Derived characters====
+* {{lang|und|sc=Hani|[[僧]] [[增]] [[噌]] [[嶒]] [[潧]] [[憎]] [[繒]] ([[缯]]) [[璔]] [[橧]] [[贈]] ([[赠]]) [[熷]] [[磳]] [[矰]] [[竲]] [[蹭]] [[譄]] [[鏳]] [[驓]] [[鱛]] [[鄫]] [[甑]] [[朆]] [[罾]] [[鬙]] [[層]]}}
+
+====References====
+* {{Han ref|kx=0503.030|dkj=14299|dj=0877.020|hdz=21521.030|uh=66FE|ud=26366|bh=B4BF|bd=46271}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{liushu|p}} – a cooker for steaming food. The derivative {{och-l|甑}} refers to the original word.
+
+===Pronunciation 1===
+{{zh-pron
+|m=céng
+|c=cang4
+|mn=qz:chn̂g/xm:chêng/zz:cheng/tw:chan
+|w=3zen
+|mc=2
+|oc=1,2
+|ma=
+|cat=adv
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[already]]; [[ever]]; [[once]] (in the past); [[previously]]
+
+====Compounds====
+{{zh-der|fold=1|不曾|何曾|似曾相識|幾曾|得未曾有|也曾|未曾|曾幾何時|曾經|曾經滄海}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=zēng
+|c=zang1
+|mn=chan/xm,zz,tw:cheng/qz:chng
+|mn_note=cheng/chng - literary; chan - vernacular (including surname)
+|w=1tsen
+|mc=1
+|oc=2,1
+|ma=
+|cat=pref,pn,adv,v
+}}
+{{attention|nan|chēng - where does this go?}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[great-]]
+#: {{zh-x|曾{zēng}孫|'''great-'''grandson}}
+# {{lb|zh|literary}} [[unexpectedly]]
+# {{lb|zh|literary}} {{zh-alt-form|增|to increase}}
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|fold=1|可曾|曾祖母|曾益|曾子殺彘|曾子|曾參殺人|曾祖父|曾祖|曾母暗沙|曾母投杼|曾孫|曾門|高曾規矩}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=曰08}}
+
+# {{defn|lang=ja|sort=曰08}}
+
+====Readings====
+* {{ja-readings|kanyoon=[[ぞ]] (zo), [[そ]] (so)|kanon=[[そう]] (sō)|goon=[[ぞう]] (zō)|kun=[[かって]] (katte), [[すなわち]] (sunawachi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=증|eumhun=|rv=jeung|mr=chŭng|y=cung}}
+
+# {{defn|lang=ko|sort=曰08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tằng]], [[tăng]], [[tâng]], [[tơn]], [[tưng]], [[từng]]|rs=曰08}}
+
+# used as prefix to indicate a greater level (especially in 曽祖: tằng tổ : great-grandfather, other meaning now seems archaic)
+# One pronunciation is từng, could be the root of [[từng]] : (have ever done <something>) (see [https://vi.wiktionary.org/wiki/t%E1%BB%ABng từng])
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=66fe&img=1 Nom Foundation]
+
+[[zh-min-nan:曾]]
+[[fr:曾]]
+[[ko:曾]]
+[[hu:曾]]
+[[mg:曾]]
+[[ms:曾]]
+[[ja:曾]]
+[[no:曾]]
+[[pl:曾]]
+[[th:曾]]
+[[zh:曾]]

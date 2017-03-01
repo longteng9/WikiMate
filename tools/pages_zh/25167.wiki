@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|荽}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=08|sn=14|four=44404|canj=THDV|ids=⿱艹委}}
+
+# [[wither]], [[wilt]]
+
+====References====
+* {{Han ref|kx=1041.100|dkj=31269|dj=1500.040|hdz=53235.050|uh=840E|ud=33806|bh=B5E4|bd=46564}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=萎
+|c=wai2,wai1,wai3
+|mn=qz,xm,zz:úi/tw:ui
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|萎縮}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸08}}
+
+# {{defn|lang=ja|sort=艸08}}
+
+====Readings====
+* {{ja-readings|on=[[い]] (i)|kun=[[なえる]] (naeru), [[しぼむ]] (shibomu), [[しおれる]] (shioreru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[위]]|eumhun=|rv=wi|mr=wi|y=wi}}
+
+# {{defn|lang=ko|sort=艸08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''萎''' ([[nuy]], [[uỳ]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:萎]]
+[[ko:萎]]
+[[hu:萎]]
+[[mg:萎]]
+[[ja:萎]]
+[[no:萎]]
+[[pl:萎]]
+[[th:萎]]
+[[zh:萎]]

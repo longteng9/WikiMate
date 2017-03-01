@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|裈}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|衣|軍|ls=psc|c1=s|c2=p|alt1=衤|t1=clothes}}.
+===Han character===
+{{Han char|rn=145|rad=衣|as=09|sn=15|four=37256|canj=LBJJ|ids=⿰衤軍}}
+
+# [[trousers]], [[pants]], [[shorts]], [[drawers]]
+
+====References====
+* {{Han ref|kx=1120.340|dkj=34428|dj=1588.090|hdz=53104.120|uh=890C|ud=35084|bh=E7C3|bd=59331}}
+
+----
+
+==Chinese==
+{{zh-forms|s=裈}}
+
+===Pronunciation===
+{{zh-pron
+|m=kūn
+|c=gwan1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|archaic}} [[trousers]]; [[pants]]
+# [[fundoshi]] {{gloss|traditional Japanese loincloth}}
+
+====Synonyms====
+* {{sense|trousers; pants}} {{zh-l|褲}}
+* {{sense|fundoshi}} {{zh-l|兜襠布}}
+
+===References===
+* {{R:twedu|B04527}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=衣09}}
+
+====Readings====
+* {{ja-readings|on=[[こん]] (kon)|kun=[[ふんどし]] (fundoshi)|nanori=}}
+
+===Noun===
+{{wikipedia|fundoshi}}
+{{ja-noun|ふんどし}}
+
+# [[loincloth]]
+# The [[traditional]] [[Japanese]] [[underwear]] for adult males, made from a length of [[cotton]].
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 褌]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=곤|eumhun=|rv=gon|mr=kon|y=kon}}
+
+# {{defn|lang=ko|sort=衣09}}
+
+[[fr:褌]]
+[[ko:褌]]
+[[hu:褌]]
+[[mg:褌]]
+[[ja:褌]]
+[[pl:褌]]
+[[th:褌]]
+[[vi:褌]]
+[[zh:褌]]

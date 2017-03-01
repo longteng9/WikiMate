@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|yomi=k|くつち|か|o2=き}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=くつちかき|鼾|tr1=kutsuchi|t1=snoring; epilepsy|掻き|tr2=kaki|t2=making something manifest}}, the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|掻く|tr=kaku||to scratch; to make manifest}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|くつちかき}}
+
+===Alternative forms===
+* {{ja-l|鼾掻き}}
+
+===Noun===
+{{ja-noun|くつちかき}}
+
+# {{lb|ja|sort=くつちかき|rare|obsolete}} [[snoring]]
+# {{lb|ja|sort=くつちかき|rare|obsolete}} an [[epileptic]], a person who has [[epilepsy]]
+
+====Synonyms====
+* {{sense|snoring}}: {{ja-r|鼾|いびき}}
+* {{sense|epileptic}}: {{ja-r|癲癇持ち|てんかんもち}}, {{ja-r|癲癇持|てんかんもち}}
+
+===References===
+<references/>
+
+[[mg:鼾掻]]

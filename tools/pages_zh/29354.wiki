@@ -1,0 +1,103 @@
+{{character info/new}}
+{{also|铅}}
+==Translingual==
+
+===Alternative forms===
+* The {{m|mul|㕣}} component's top can appear as [[八]], [[儿]], or [[几]].
+
+===Han character===
+{{Han char|rn=167|rad=金|as=05|sn=13|four=88160|canj=CCR,CHNR|ids=⿰釒㕣}}
+
+====References====
+* {{Han ref|kx=1301.180|dkj=40310|dj=1803.190|hdz=64189.010|uh=925B|ud=37467|bh=B95D|bd=47453}}
+
+----
+
+==Chinese==
+{{zh-forms|s=铅}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|金|alt1=釒|t1=metal|㕣|ls=psc|c1=s|c2=p}} – a kind of metal.
+
+===Pronunciation===
+{{zh-pron
+|m=qiān,yán
+|c=jyun4
+|h=pfs=yèn
+|md=
+|mn=iân
+|w=1khe,3hhi
+|w_note=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|chemistry}} [[lead]] ([[Pb]])
+
+===Compounds===
+{{zh-der|氧化鉛|氯化鉛|硝酸鉛|氟化鉛|碳酸鉛|氫氧化鉛|鉻酸鉛|硫化鉛|硫酸鉛|碘化鉛|二氧化鉛|二硫化鉛|一氧化鉛|四乙基鉛|含鉛汽油|丹鉛|懷鉛|懷鉛提槧|懷鉛握槧|懷鉛握素|抱槧懷鉛|握槧懷鉛|方鉛礦|洗淨鉛華|測鉛|無鉛汽油|白鉛皮|白鉛礦|紅鉛|自動鉛筆|赤鉛礦|鉛中毒|鉛丹|鉛刀|鉛印|鉛垂線|鉛字|鉛字合金|鉛封|鉛板|鉛條|鉛槧|鉛汞|鉛淚|鉛版|鉛玻璃|鉛球|鉛白|鉛直|鉛礦|鉛筆|鉛筆畫|鉛管|鉛粉|鉛素|鉛絲|鉛華|鉛錘|鉛鐵|鉛駑|鉛黃|鉛黛|駑鉛|駑馬鉛刀}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=7|rs=金05}}
+
+====Readings====
+* {{ja-readings|
+|goon=[[えん]] (en)|kanon=[[えん]] (en)
+|kun=[[なまり]] (namari)
+}}
+
+====Compounds====
+{{der3
+| {{ja-r|鉛筆|えんぴつ}} [[pencil]]
+}}
+
+===Pronunciation===
+{{ja-kanjitab|なまり|yomi=k}}
+{{elements|Pb|{{ja-r|タリウム}}|Tl|{{ja-r|ビスマス}}|Bi|lang=ja|sort=なまり}}
+{{wikipedia|lang=ja}}
+{{ja-pron|acc=h|y=k|なまり}}
+
+===Noun===
+{{ja-noun|なまり|count=-}}
+
+# [[lead]] {{gloss|chemical element}}
+
+[[Category:Japanese basic words|なまり]]
+[[Category:ja:Metals|なまり]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=연|eumhun=|rv=yeon|mr=yŏn|y=yen}}
+
+# {{defn|lang=ko|sort=金05}}
+
+[[zh-min-nan:鉛]]
+[[cs:鉛]]
+[[fr:鉛]]
+[[ko:鉛]]
+[[lo:鉛]]
+[[lt:鉛]]
+[[hu:鉛]]
+[[mg:鉛]]
+[[ms:鉛]]
+[[nl:鉛]]
+[[ja:鉛]]
+[[no:鉛]]
+[[pl:鉛]]
+[[ro:鉛]]
+[[ru:鉛]]
+[[th:鉛]]
+[[chr:鉛]]
+[[zh:鉛]]

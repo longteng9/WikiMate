@@ -1,0 +1,34 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xuěrén,er=y
+|c=syut3 jan4
+|mn=seh-lâng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[snowman]]
+# {{lb|zh|cryptozoology}} [[yeti]]
+
+====Descendants====
+* Korean: {{l|ko|설인||yeti}}
+* Vietnamese: {{l|vi|người tuyết||snowman; yeti}} {{qualifier|calque}}
+
+{{zh-cat|Sculpture|Snow|Winter}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=설인|mr=sŏrin|y=sel.in}}
+
+# {{hanja form of|설인|[[yeti]]}}
+[[nl:雪人]]
+[[zh:雪人]]

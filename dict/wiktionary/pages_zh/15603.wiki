@@ -1,0 +1,58 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=08|sn=11|four=|canj=PHLO|ids=⿰忄欣}}
+
+# {{defn|Han|sort=心08}}
+
+====References====
+* {{Han ref|kx=0391.150|dkj=10818|dj=0726.020|hdz=42316.050|uh=60DE|ud=24798}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xīn,wū,wù
+|c=jan1
+|mc=
+|oc=
+|cat=
+}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 108]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心08}}
+
+# {{defn|lang=ja|sort=心08}}
+
+====Readings====
+* {{ja-readings|on=[[きん]] (kin), [[こん]] (kon)|kun=[[よろこぶ]] (yorokobu)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心08|hanviet=hân}}
+
+# {{defn|lang=vi|sort=心08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=60de Nom Foundation]
+
+[[fr:惞]]
+[[li:惞]]
+[[hu:惞]]
+[[pl:惞]]
+[[th:惞]]
+[[zh:惞]]

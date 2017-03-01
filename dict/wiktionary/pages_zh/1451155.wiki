@@ -1,0 +1,15 @@
+==Japanese==
+{{ja-kanjitab|ひ|ふく|けい|yomi=on}}
+
+===Etymology===
+Literally "embedded form". Compound of {{m|ja|被覆|tr=hifuku}} and {{m|ja|形|tr=-kei}}.
+
+===Noun===
+{{ja-noun|ひふくけい}}
+
+# in Japanese morphology, a type of apophony caused typically found in compounds
+
+===See also===
+* {{ja-r|露出形|ろしゅつけい}}
+
+[[Category:ja:Linguistics|ひふくけい]]

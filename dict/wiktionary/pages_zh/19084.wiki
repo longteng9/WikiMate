@@ -1,0 +1,89 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=08|sn=11|four=37120|canj=EPOU|ids=⿰氵匋}}
+
+# wash in sieve
+# weed out
+# to wash away
+
+====References====
+* {{Han ref|kx=0629.300|dkj=17642|dj=1032.030|hdz=31656.060|uh=6DD8|ud=28120|bh=B25E|bd=45662}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=táo
+|c=tou4
+|mn=tô/qz:tô͘
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不淘神|冷淘|單淘汰|天然淘汰|扒街淘空|沙裡淘金|活淘氣|浪淘沙|浪淘淘|淘井|淘古井|淘寫|淘換|淘氣|淘氣憨頑|淘氣鬼|淘汰|淘汰賽|淘沙|淘河|淘洗|淘淘|淘淥|淘漉|淘澄|淘澄飛跌|淘瀉|淘真|淘神|淘空|淘籮|淘米|淘虛|淘選作用|淘金|淘金夢|淘金客|淘閒氣|淘鹽|瞎淘淘|自然淘汰|閑淘氣}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水08}}
+
+# {{defn|lang=ja|sort=水08}}
+
+====Readings====
+{{ja-readings|goon=[[どう]] (dō)|kanon=[[とう]] (tō)|kun=[[よなげる]] (yonageru)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|淘去|とうきょ}}: [[washing]] [[away]]
+* {{ja-r|淘汰|とうた}}
+* {{ja-r|淘来|とうらい}}: [[washing]] [[near]]
+{{der-bottom}}
+
+====See also====
+* {{ja-r|淘る|ゆる}}
+* {{ja-r|淘ぐ|よなぐ}}
+* {{ja-r|淘げる|よなげる}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=도|eumhun=|rv=do|mr=to|y=to}}
+
+# {{defn|lang=ko|sort=水08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đào]], [[rào]]|rs=水08}}
+
+# {{defn|lang=vi|sort=水08}}
+
+[[fr:淘]]
+[[ko:淘]]
+[[hu:淘]]
+[[mg:淘]]
+[[ja:淘]]
+[[no:淘]]
+[[pl:淘]]
+[[th:淘]]
+[[zh:淘]]

@@ -1,0 +1,99 @@
+{{character info/new}}
+{{stroke order|strokes=6}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=03|sn=6|four=00404|canj=YVV|ids=⿱亡女}}
+
+====References====
+* {{Han ref|kx=0256.010|dkj=06063|hdz=21027.090|uh=5984|ud=22916|bh=A66B|bd=42603}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|亡|女|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wàng
+|c=mong5,mong6
+|h=pfs=mong
+|md=uông
+|mn=bōng
+|w=3vaan
+|mc=y
+|oc=y
+|cat=a,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[improper]]; [[unrighteous]]
+# [[absurd]]; [[foolish]]
+# [[reckless]]; [[wild]]; [[presumptuous]]
+# [[insolent]]; [[arrogant]]
+# [[wilfully]]; [[recklessly]]; [[presumptuously]]
+
+===Compounds===
+{{zh-der|不敢妄言|任性妄為|僭妄|塵妄|大膽妄為|妄下雌黃|妄人|妄作|妄動|妄圖|妄念|妄想|妄想症|妄求|妄為|妄生穿鑿|妄稱|妄自尊大|妄自菲薄|妄言|妄言妄聽|妄言輕動|妄誕|妄語|妄說|妖妄|姑妄聽之|姑妄言之|恣意妄為|恣意妄行|愚妄|無妄|無妄之災|無妄之禍|無妄之福|狂妄|狂妄自大|痴心妄想|目不妄視|真妄|瞽言妄舉|禍不妄至|肆意妄為|膽大妄為|虛妄|言十妄九|言狂意妄|誕妄|謀虛逐妄|謬妄|譫妄|貪心妄想|輕舉妄動|逞意妄為|驕矜狂妄}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=女03}}
+
+# a [[lie]]
+# [[carelessly]]
+
+====Readings====
+{{ja-readings|goon=[[もう]] (mō)|kanon=[[ぼう]] (bō)|kun=[[みだり]] (midari), [[みだりに]] (midarini)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|妄言|もうげん}}, {{ja-r|妄言|ぼうげん}}
+* {{ja-r|妄信|もうしん}}, {{ja-r|妄信|ぼうしん}}
+* {{ja-r|妄説|もうせつ}}, {{ja-r|妄説|ぼうせつ}}
+* {{ja-r|妄想|もうそう}}, {{ja-r|妄想|ぼうそう}}
+* {{ja-r|妄誕|もうたん}}, {{ja-r|妄誕|ぼうたん}}: [[groundlessness]], additionally, [[groundless]] talk
+* {{ja-r|妄動|もうどう}}, {{ja-r|妄動|ぼうどう}}
+{{der-bottom}}
+
+====References====
+* {{S-JIS|96CF}}
+* {{JIS|4C51}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=망|rv=mang|mr=mang}}
+
+# {{defn|lang=ko|sort=女03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[vọng]], [[vòng]]|rs=女03}}
+
+# {{defn|lang=vi|sort=女03}}
+
+[[fr:妄]]
+[[ko:妄]]
+[[li:妄]]
+[[hu:妄]]
+[[mg:妄]]
+[[ja:妄]]
+[[no:妄]]
+[[pl:妄]]
+[[th:妄]]
+[[zh:妄]]

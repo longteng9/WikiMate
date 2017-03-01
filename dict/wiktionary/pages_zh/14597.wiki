@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|岗|岡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=08|sn=11|four=22227|canj=UBTU|ids=⿱山岡}}
+
+# [[post]]
+# [[position]]
+
+====References====
+* {{Han ref|kx=0314.100|dkj=08221|dj=0616.060|hdz=10780.070|uh=5D17|ud=23831|bh=B15E|bd=45406}}
+
+----
+
+==Chinese==
+{{zh-forms|s=岗}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|山|岡|c1=s|c2=p|t1=hill|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gǎng
+|c=gong1
+|h=pfs=
+|md=
+|mn=kang
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[hillock]], [[mound]]
+# [[lookout]] [[post]]
+#: {{zh-l|崗哨}}, {{zh-l|崗樓}}
+# [[sentry]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山08}}
+
+# {{defn|lang=ja|sort=山08}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[おか]] (oka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=강|rv=gang|mr=kang}}
+
+# {{defn|lang=ko|sort=山08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cương]]|rs=山08}}
+
+# {{defn|lang=vi|sort=山08}}
+
+[[fr:崗]]
+[[ko:崗]]
+[[li:崗]]
+[[hu:崗]]
+[[mg:崗]]
+[[ja:崗]]
+[[pl:崗]]
+[[th:崗]]
+[[zh:崗]]

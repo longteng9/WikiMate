@@ -1,0 +1,91 @@
+{{character info/new}}
+{{also|药}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=09|sn=12|four=44927|canj=TVFI|ids=⿱[[艹]][[約]]}}
+
+====References====
+* {{Han ref|kx=1046.120|dkj=31451|dj=1507.130|hdz=53259.090|uh=846F|ud=33903|bh=DFD3|bd=57299}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|s=药}}
+
+====Pronunciation====
+{{zh-pron
+|m=yào
+|c=joek3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# ''[[Angelica dahurica]]''
+# [[orris root]]
+# [[leaf]] of the [[iris]]
+# [[leaf]] of the ''[[Angelica dahurica]]''
+
+====See also====
+* {{zh-l|白芷|''[[Angelica dahurica]]''}}
+
+===Etymology 2===
+{{zh-see|藥|v}}
+====Usage notes====
+This is the simplified form of {{l|zh|藥}} that was used in Singapore from 1969 to 1976. Singapore, like the PRC, now uses {{l|zh|药}}.
+
+===References===
+* {{R:twedu|B03973}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸09}}
+
+# {{defn|lang=ja|sort=艸09}}
+
+====Readings====
+* {{ja-readings|on=[[やく]] (yaku), [[あく]] (aku), [[てき]] (teki)|kun=[[よろいぐさ]] (yoroigusa), [[まとう]] (matou), [[つつむ]] (tsutsumu)}}
+
+===Etymology===
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|やく|yomi=o}}
+
+From {{etyl|zhx|ja}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|やく|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|やく}}
+
+# {{lb|ja|botany|sort=やく}} [[anther]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[약]], [[악]]|eumhun=|rv=yak, ak|mr=yak, ak|y=yak, ak}}
+
+# {{defn|lang=ko|sort=艸09}}
+
+[[fr:葯]]
+[[hu:葯]]
+[[mg:葯]]
+[[ja:葯]]
+[[pl:葯]]
+[[th:葯]]
+[[zh:葯]]

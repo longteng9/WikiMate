@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|む|せい|げん|yomi=on}}
+
+===Etymology===
+{{prefix|無|制限|lang=ja|t1=non-, un-|t2=limit, restriction|sort=せいげん}}
+
+===Adjective===
+{{ja-adj|infl=na|むせいげん}}
+
+# [[unlimited]], [[unrestricted]]
+
+====Inflection====
+{{ja-na|むせいげん}}
+
+====Related terms====
+* {{ja-r|無限|むげん}}: [[unlimited]], [[infinite]], [[endless]]
+
+===Noun===
+{{ja-noun|むせいげん}}
+
+# [[unlimitedness]], [[unrestrainedness]]
+
+[[ko:無制限]]
+[[sv:無制限]]
+[[zh:無制限]]

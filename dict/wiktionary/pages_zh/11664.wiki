@@ -1,0 +1,55 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=09|sn=11|four=02200|canj=IELN|ids=⿰度刂}}
+
+# {{defn|Han|sort=刀09}}
+
+====References====
+* {{Han ref|kx=0142.160|dkj=02090|dj=0322.020|hdz=10349.040|uh=526B|ud=21099|bh=D469|bd=54377}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=|y=dok6}}
+
+# {{defn|lang=yue|sort=刀09}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=刀09}}
+
+# {{defn|lang=ja|sort=刀09}} <!-- line may be deleted if/when POS headers are added -->
+
+====Readings====
+* {{ja-readings|on=[[たく]] (taku), [[だく]] (daku), [[と]] (to), [[ぞ]] (zo)|kun=[[わける]] (wakeru), [[とじる]] (tojiru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=탁|rv=tak|mr=t'ak}}
+
+# {{defn|lang=ko|sort=刀09}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[duó]] ([[duo2]])|wg=to<sup>2</sup>}}
+
+# {{defn|lang=cmn|sort=刀09}}
+
+[[fr:剫]]
+[[hu:剫]]
+[[pl:剫]]
+[[th:剫]]
+[[zh:剫]]

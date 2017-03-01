@@ -1,0 +1,31 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yírén
+|c=ji4 jan4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{label|zh|literary}} [[foreigner]]
+# {{label|zh|literary}} [[barbarian]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|い|じん|yomi=o}}
+
+===Noun===
+{{ja-noun|いじん}}
+
+# [[barbarian]]
+# {{lb|ja|derogatory|sort=いじん}} [[foreigner]]
+
+====Synonyms====
+* {{sense|barbarian}} {{ja-r|野蛮人|やばんじん}}, {{ja-r|未開人|みかいじん}}
+
+[[zh:夷人]]

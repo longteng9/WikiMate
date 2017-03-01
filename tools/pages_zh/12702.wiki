@@ -1,0 +1,159 @@
+{{character info/new}}
+{{also|啸|嘨}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=12|sn=15|four=65027|canj=RLX|ids=⿰口肅}}
+
+# to [[roar]], [[howl]], [[scream]]
+# to [[whistle]]
+
+====References====
+* {{Han ref|kx=0206.320|dkj=04246|dj=0429.310|hdz=10694.110|uh=562F|ud=22063|bh=BC53|bd=48211}}
+
+----
+
+==Chinese==
+{{zh-forms|s=啸}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiào
+|c=siu3
+|h=pfs=
+|md=
+|mn=siàu
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|海啸}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口12}}
+
+# to [[whistle]]
+
+====Readings====
+{{ja-readings|
+|goon=[[しょう]] (shō), {{qualifier|historical}} [[せう]] (seu)
+|kanon=[[しょう]] (shō), {{qualifier|historical}} [[せう]] (seu)
+|kun=[[うそ]] (uso), [[うそふき]] (usofuki), [[うそぶ]] ([[嘯ぶ]], usobu) {{qualifier|classical}}, [[うそぶく]] ([[嘯く]], usobuku), [[うそぶき]] (usobuki), [[うそぶき]] ([[嘯き]], usobuki), [[うそむ]] ([[嘯む]], usomu) {{qualifier|classical}}, [[うそむく]] ([[嘯く]], usomuku) {{qualifier|classical}}, [[ふく]] ([[嘯く]], fuku) {{qualifier|rare}}
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|嘯吹|うそふき}}: the [[clownish]] “[[whistling]]” [[mask]] used in {{m|ja|狂言|tr=kyōgen|lit=crazy talk||a farce performed between [[noh]] plays}}
+* {{ja-r|嘯笛|うそぶえ}}: [[whistling]] with one's [[mouth]]
+* {{ja-r|息嘯|おきそ}}: a [[sigh]]
+* {{ja-r|海嘯|かいしょう}}, {{ja-r|海嘯|つなみ}}: a [[tsunami]], a [[tidal wave]]; a [[tidal bore]]
+* {{ja-r|吟嘯|ぎんしょう}}: to [[sing]] or [[chant]] a [[poem]] or [[song]]; to [[wail]] in [[grief]]
+* {{ja-r|虎嘯|こしょう}}: a [[tiger]]'s [[roar]]; {{qualifier|metaphor}} a [[hero]]'s [[appearance]]
+* {{ja-r|嘯聚|しょうしゅ}}: [[calling]] [[people]] [[together]] {{qualifier|especially by whistling}}
+* {{ja-r|嘯集|しょうしゅう}}: [[calling]] [[people]] [[together]] {{qualifier|especially by whistling}}
+* {{ja-r|嘯風弄月|しょうふう ろうげつ}}: [[love]] for [[nature]] and [[poetry]] and other [[elegance]]
+* {{ja-r|空嘯|そらうそ}}: [[absent-minded]] [[whistling]]
+* {{ja-r|長嘯|ちょうしょう}}: [[whistling]] for a long time; [[singing]] or [[chanting]] for a long time
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-pron|yomi=k|うそ}}
+From {{etyl|ojp|ja|sort=うそ}}.  Appears in [http://jti.lib.virginia.edu/japanese/manyoshu/Man9Yos.html#1753 poem 1753] of the ''{{w|Man'yōshū}}'', a poetry compilation completed around 759 CE, in the compound form {{lang|ja|嘯鳴}} (''usobuki''; see below).
+
+====Pronunciation====
+{{ja-pron|yomi=k|うそ}}
+
+====Noun====
+{{ja-noun|うそ}}
+
+# {{lb|ja|sort=うそ|archaic|possibly|_|obsolete}} a [[whistle]] {{qualifier|sound}}, a [[whistling]] [[sound]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|嘯歎|うそなげき}}: a [[whistling]] [[wail]]; [[quiet]] [[grieving]]
+{{der-bottom}}
+
+===Etymology 2===
+<div style="float:right;">
+[[File:Hyottoko-karlcow-wikipedia.jpg|thumb|250px|{{PAGENAME}} (''usofuki''): the “whistling” mask used in ''kyōgen'' performances.]]
+</div>
+{{ja-kanjitab|yomi=k|うそふ|o1=き}}
+Compound of {{compound|lang=ja|sort=うそふき|嘯|tr1=uso|t1=whistle, whistling|吹き|tr2=fuki|t2=blowing|pos2=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|吹く}} ''fuku'', “to blow”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|うそふき|acc=2|acc_ref=DJR}}
+
+====Alternative forms====
+* {{m|ja|嘯吹}}
+
+====Noun====
+{{ja-noun|うそふき}}
+
+# the [[clownish]] “[[whistling]]” [[mask]] used in {{m|ja|狂言|tr=kyōgen|lit=crazy talk||a farce performed between [[noh]] plays}}
+
+=====Synonyms=====
+* {{ja-r|ひょっとこ}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|うそぶ|o1=き}}
+Originally a compound of {{compound|lang=ja|sort=うそふき|嘯|tr1=uso|t1=whistle, whistling|吹き|tr2=fuki|t2=blowing|pos2=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|吹く}} ''fuku'', “to blow”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>  {{rendaku2|sort=うそぶき|fuki|buki}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|うそぶき}}
+
+====Noun====
+{{ja-noun|うそぶき}}
+
+# [[whistling]], making a [[whistling]] [[sound]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|嘯顔|うそぶきがお}}: a [[whistling]] [[face]], with the [[lip]]s [[pursed]]
+* {{ja-r|嘯口|うそぶきぐち}}: a [[whistling]] [[mouth]], with the [[lip]]s [[pursed]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=소|rv=so|mr=so}}
+
+# {{defn|lang=ko|sort=口12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khiếu]]|rs=口12}}
+
+# {{defn|lang=vi|sort=口12}}
+
+[[fr:嘯]]
+[[ko:嘯]]
+[[li:嘯]]
+[[hu:嘯]]
+[[mg:嘯]]
+[[ja:嘯]]
+[[pl:嘯]]
+[[th:嘯]]
+[[zh:嘯]]

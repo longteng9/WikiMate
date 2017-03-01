@@ -1,0 +1,56 @@
+{{character info/new}}
+{{also|阂}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=169|rad=門|as=06|sn=14|four=77280|canj=ANYVO}}
+
+# blocked or separated
+# to [[prevent]]
+
+====References====
+* {{Han ref|kx=1333.370|dkj=41289|dj=1840.070|hdz=74299.020|uh=95A1|ud=38305|bh=BBD2|bd=48082}}
+
+----
+
+==Chinese==
+{{zh-forms|s=阂}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=ài,hé
+|c=ngoi6,hat6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=門06}}
+
+# {{defn|lang=ja|sort=門06}}
+
+====Readings====
+* {{ja-readings|on=[[がい]] (gai), [[かい]] (kai), [[こく]] (koku)|kun=[[しめる]] (shimeru)|nanori=}}
+
+[[fr:閡]]
+[[hu:閡]]
+[[pl:閡]]
+[[th:閡]]
+[[zh:閡]]

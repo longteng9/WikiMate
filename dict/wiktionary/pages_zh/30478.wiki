@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|阑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=169|rad=門|as=09|sn=17|four=77906|canj=ANDWF|ids=⿵門柬}}
+
+# [[door]] [[screen]]
+# [[railing]] [[fence]]
+
+====Derived characters====
+* [[瀾]], [[蘭]], [[攔]], [[欄]], [[爛]], [[讕]], [[籣]]
+
+====References====
+* {{Han ref|kx=1339.040|dkj=41433|dj=1844.080|hdz=74307.110|uh=95CC|ud=38348|bh=C1F1|bd=49649}}
+
+----
+
+==Chinese==
+{{zh-forms|s=阑}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|門|柬|t1=door|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lán
+|c=laan4
+|h=pfs=
+|md=
+|mn=lân
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=門09}}
+
+# {{defn|lang=ja|sort=門09}}
+
+====Readings====
+* {{ja-readings|on=[[らん]] (ran)|kun=[[てすり]] (tesuri), [[さえぎる]] (saegiru), [[たけなわ]] (takenawa)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[란]]>[[난]]|eumhun=|rv=ran>nan|mr=ran>nan|y=lan>nan}}
+
+# {{defn|lang=ko|sort=門09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=門09| hanviet = [[làn]], [[lan]]}}
+
+# {{defn|lang=vi|sort=門09}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:闌]]
+[[hu:闌]]
+[[mg:闌]]
+[[ja:闌]]
+[[pl:闌]]
+[[th:闌]]
+[[zh:闌]]

@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|献}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=16|sn=20|four=23234|canj=YBIK|ids=⿰鬳犬}}
+
+====Descendants====
+* [[献]]
+
+====References====
+* {{Han ref|kx=0721.090|dkj=20783|dj=1133.060|hdz=21376.090|uh=737B|ud=29563|bh=C46D|bd=50285}}
+
+----
+
+==Chinese==
+{{zh-forms|s=献}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|鬳|犬|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xiàn
+|c=hin3
+|mn=hiàn
+|mc=y
+|oc=y
+|ma=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[offer]], to [[present]]
+# to [[show]], to [[display]]
+
+====Compounds====
+{{zh-der|三獻|亞獻|供獻|借花獻佛|出謀獻策|分獻|初獻|呈獻|奉獻|奉獻物|奉獻箱|寧獻王|張獻忠|打勤獻趣|承歡獻媚|投獻|捐獻|文獻|文獻通考|晉獻公|曝獻|朝獻|林獻堂|河間獻王|漢獻帝|爭妍獻媚|獻俘|獻儀|獻功|獻勤|獻可替否|獻媚|獻寶|獻技|獻拙|獻捷|獻新|獻旗|獻曝|獻替可否|獻歲|獻殷勤|獻狀|獻疑|獻神|獻禮|獻策|獻臺|獻花|獻芹|獻茶|獻藝|獻計|獻詞|獻身|獻酬|獻醜|獻金|獻關|獻首|獻馘|王獻之|當場獻醜|祭獻|秦獻公|納土獻印|納獻|終獻|芹獻|貢獻|進獻|酌獻|野人獻曝|野人獻芹|陳獻章|飛觥獻斝|麻姑獻壽|黎獻}}
+
+----
+
+==Japanese==
+{{ja-forms|[[献]]|[[献]]|獻}}
+===Kanji===
+{{ja-kanji|grade=|rs=犬16}}
+
+# {{defn|lang=ja|sort=犬16}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken), [[こん]] (kon)|kun=[[たてまつる]] (tatematsuru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[헌]], [[사]]|eumhun=|rv=heon, sa|mr=hŏn, sa|y=hen, sa}}
+
+# {{defn|lang=ko|sort=犬16}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hiến]]|rs=犬16}}
+
+# {{defn|lang=vi|sort=犬16}}
+
+[[fr:獻]]
+[[ko:獻]]
+[[hu:獻]]
+[[ja:獻]]
+[[pl:獻]]
+[[th:獻]]
+[[zh:獻]]

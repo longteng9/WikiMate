@@ -1,0 +1,83 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=biǎntáo
+|c=bin2 tou4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[almond]]
+#: {{zh-syn|杏仁}}
+# [[flat peach]]
+#: {{zh-syn|蟠桃}}
+
+====Derived terms====
+{{zh-der|扁桃腺:tonsil}}
+
+{{zh-cat|Nuts|Stone fruits}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|扁桃|扁桃 (Tonsil)}}
+{{wikipedia|Tonsil}}
+[[File:Tonsils_diagram.jpg|thumb|250px|{{lang|ja|扁桃}} (''hentō''): the '''[[tonsil]]s'''.]]
+</div>
+{{ja-kanjitab|へん|とう|yomi=o}}
+
+===Etymology===
+{{IPAchar|/pentau/}} → {{IPAchar|/fentau/}} → {{IPAchar|/hentau/}} → {{IPAchar|/hentɔː/}} → {{IPAchar|/hentoː/}}
+
+From {{etyl|ltc|ja|sort=へんとう}} compound {{m|zh|扁桃|tr=pen<sup>X</sup> daw|lit=flat, thin + peach}}, from the way the [[almond]] [[fruit]] resembles a flat, thin [[peach]].
+
+The modern sense of {{m|en|tonsil}} came about by contraction from the full term {{m|ja|扁桃腺|tr=hentōsen|lit=almond gland}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|へんとう|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|へんとう|ヘントウ|hhira=へんたう}}
+
+# [[almond]]
+# [[tonsil]] {{qualifier|from the almond shape}}
+
+====Synonyms====
+* {{sense|almond}} {{ja-r|巴旦杏|はたんきょう}}, {{ja-r|アーモンド}}
+* {{sense|tonsil}} {{ja-r|扁桃腺|へんとうせん}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|苦扁桃|くへんとう}}: [[bitter]] [[almond]]
+* {{ja-r|苦扁桃油|くへんとうゆ}}: [[bitter]] [[almond]] [[oil]]
+* {{ja-r|苦扁桃水|くへんとうすい}}: [[bitter]] [[almond]] [[oil]] dissolved in [[water]]
+* {{ja-r|扁桃炎|へんとうえん}}: [[tonsillitis]]
+* {{ja-r|扁桃核|へんとうかく}}: [[amygdala]]
+* {{ja-r|扁桃腺|へんとうせん}}: [[tonsil]]
+* {{ja-r|扁桃腺炎|へんとうせんえん}}: [[tonsillitis]]
+* {{ja-r|扁桃腺切除|へんとうせん せつじょ}}: [[tonsillectomy]]
+* {{ja-r|扁桃肥大|へんとう ひだい}}: [[enlarged]] [[tonsil]]s, [[tonsillar]] [[hypertrophy]]
+* {{ja-r|扁桃体|へんとうたい}}: [[amygdala]]
+* {{ja-r|扁桃油|へんとうゆ}}: [[almond]] [[oil]]
+{{der-bottom}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[Category:ja:Nuts|へんとう]]
+
+[[cs:扁桃]]
+[[fr:扁桃]]
+[[lo:扁桃]]
+[[hu:扁桃]]
+[[mg:扁桃]]
+[[nl:扁桃]]
+[[ja:扁桃]]
+[[zh:扁桃]]

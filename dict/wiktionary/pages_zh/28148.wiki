@@ -1,0 +1,69 @@
+{{character info/new}}
+{{also|踬}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=15|sn=22|four=62186|canj=RMHLC}}
+
+# [[stumble]], [[totter]]
+# [[fail]], be [[frustrated]]
+
+====References====
+* {{Han ref|kx=1235.380|dkj=37967|dj=1708.120|hdz=63747.130|uh=8E93|ud=36499|bh=C5AE|bd=50606}}
+
+----
+
+==Chinese==
+{{zh-forms|s=踬}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhì
+|c=zi3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|困躓|躓頓|跛躓|頓躓|跋前躓後|顛躓|躓踣|躓礙}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=足15}}
+
+# stumble
+
+====Readings====
+{{ja-readings
+|goon=[[ち]] (chi)
+|kanon=[[ち]] (chi)
+|kun=[[つまずく|つまず.く]] ([[躓く]], tsumazu.ku)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=지|eumhun=|rv=ji|mr=chi|y=ci}}
+
+# {{defn|lang=ko|sort=足15}}
+
+[[fr:躓]]
+[[hu:躓]]
+[[ja:躓]]
+[[pl:躓]]
+[[th:躓]]
+[[zh:躓]]

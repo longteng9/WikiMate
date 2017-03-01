@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|摒|屛}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=44|rad=尸|as=06|sn=9|four=77241|canj=STT|ids=⿸尸并}}
+
+====References====
+* {{Han ref|kx=0301.280|dkj=07692|dj=0599.040|hdz=20973.040|uh=5C4F|ud=23631|bh=ABCC|bd=43980}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=píng,bǐng,bìng
+|c=bing2,ping4
+|mn=qz,xm,zz:pêng/pîn
+|mn_note=pêng - literary; pîn - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[folding screen]], [[shield]]
+# {{lb|zh|computing}} [[screen]]
+#: {{zh-x|黑屏|black screen}}
+
+====See also====
+* {{zh-l|螢幕}}, {{zh-l|顯示器}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=尸06}}
+
+# {{defn|lang=ja|sort=尸06}}
+
+====Readings====
+* {{ja-readings|on=[[へい]] (hei), [[びょう]] (byō)|kun=[[しりぞく]] (shirizoku), [[おおう]] (oou)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=병|eumhun=병풍|rv=byeong|mr=pyŏng}}
+
+# {{defn|lang=ko|sort=尸06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bình]]|rs=尸06}}
+
+# {{defn|lang=vi|sort=尸06}}
+
+[[fr:屏]]
+[[ko:屏]]
+[[li:屏]]
+[[hu:屏]]
+[[mg:屏]]
+[[ja:屏]]
+[[no:屏]]
+[[pl:屏]]
+[[th:屏]]
+[[zh:屏]]

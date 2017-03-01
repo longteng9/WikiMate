@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=06|sn=9|four=41114|canj=GMIG|ids=⿰土至}}
+
+# [[anthill]], [[small]] [[mound]]
+# [[hill]]
+
+====References====
+* {{Han ref|kx=0228.220|dkj=05061|dj=0464.180|hdz=10438.090|uh=57A4|ud=22436|bh=CE53|bd=52819}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dié
+|c=dit6
+|h=pfs=te
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|蝸居蟻垤|蟻垤}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土06}}
+
+# {{defn|lang=ja|sort=土06}}
+
+====Readings====
+* {{ja-readings|on=[[てつ]] (tetsu)|kun=[[ありずか]] (arizuka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=질|rv=jil|mr=chil}}
+
+# {{defn|lang=ko|sort=土06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[điệt]]|rs=土06}}
+
+# {{defn|lang=vi|sort=土06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=57a4 Nom Foundation]
+
+[[fr:垤]]
+[[li:垤]]
+[[hu:垤]]
+[[mg:垤]]
+[[ja:垤]]
+[[pl:垤]]
+[[ro:垤]]
+[[th:垤]]
+[[vi:垤]]
+[[zh:垤]]

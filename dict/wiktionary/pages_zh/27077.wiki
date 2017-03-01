@@ -1,0 +1,199 @@
+{{character info/new}}
+{{also|请}}
+==Translingual==
+{{stroke order|type=animate}}
+{{stroke order|type=janimate}}
+
+===Han character===
+{{Han char|rn=149|rad=言|as=08|sn=15|four=05627|canj=YRQMB|ids=⿰言青}}
+
+====References====
+* {{Han ref|kx=1167.180|dkj=35640|dj=1632.280|hdz=63981.030|uh=8ACB|ud=35531|bh=BDD0|bd=48592}}
+
+----
+
+==Chinese==
+{{zh-forms|s=请}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|青|c1=s|c2=p|t1=say|ls=psc}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=qǐng
+|c=ceng2,cing2
+|c_note=ceng2 - vernacular; cing2 - literary
+|h=pfs=chhiáng
+|md=chiāng |mda=Cdo please.ogg
+|mn=chhéng/chhiáⁿ
+|mn_note=chhéng - literary; chhiáⁿ - vernacular
+|mn-t=cian2
+|w=
+|mc=2
+|oc=1
+|cat=v,adv,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[ask]]; to [[request]]
+# to [[invite]]; to [[treat]] (to a [[meal]], etc.)
+#* {{zh-x|如果 你 得閒{haan4}，我 想 請 你 飲茶。|If you are free, I would like to ask you out for [[yum cha]].|C}}
+# to [[carry]] or [[bring]] (a [[sacred]] or [[respectable]] [[thing]])
+#: {{zh-x|展 護衛，請 聖旨！|Royal Guard Zhan, '''bring out''' the royal edict!}}
+# [[please]]; [[kindly]]
+#: {{zh-x|請 等待。|'''Please''' wait.}}
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|請柬|三催四請|大請大受|咨請|催請|公請|另請高明|不請自來|乞請|回請|延請|促請|干請|奏請|三請四喚|宴請|不情之請|函請|奉請|央請|呈請|固請|報請|堅請|僱請|參請|吃請|力請|敬請|申請|敦請|禮請|普請|祈請|搬請|擬請|啟請|懇請|有請|提請|申請書|為民請命|煩請|束縕請火|擺請兒|請業|聲請|請客|請益|請求|請事|管請|請君入甕|訴請|籲請|請和|請求乃論|請假|請示|請賞|聘請|請便|請託|請命|請求權|請安|請功受賞|請見|請急|請辭|遍請|請期|請雨|請告|負荊請罪|陳請|邀請|請伏|說參請|終軍請纓|請帖|請購單|請罪|請願權|老黃請醫|請願|請謁|請訓|請自隗始|請職|請纓|請援|請喚|請問|請仙|邀請賽|請教|請脈|約請}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=qíng
+|c=king4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=1
+|oc=3
+|cat=n,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|fold=1|請受|請俸|請奉|請給|請佃}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=qīng
+|c=cing1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=n,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|請室}}
+
+===Pronunciation 4===
+{{zh-pron
+|m=jìng
+|c=zing6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=3
+|oc=2
+|cat=n,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+{{stroke order|strokes=15|type=jbw}}
+
+===Kanji===
+{{ja-kanji|grade=c|rs=言08}}
+
+# [[beg]]; [[ask]]
+# ask; [[request]]
+# [[entertain]] sincerely
+# (普請) [[donate]] to constructing a [[temple]] or a [[shrine]]
+# [[receive]]
+
+====Readings====
+* {{ja-readings|kanon=[[せい]] (sei)|goon=[[しょう]] (shō)|kanyoon=[[しん]] (shin)|kun=[[こう]] (kou), [[うける]] (ukeru), [[こい]] (koi)|nadzuke=[[うけ]] (uke)}}
+
+====Compounds====
+{{top4}}
+* [[請負]]
+* [[請仮]]
+* [[請期]]
+* [[請謁]]
+{{mid4}}
+* [[請寄]]
+* {{ja-l|請願}}
+* {{ja-l|請求}}
+* [[請訓]]
+{{mid4}}
+* [[請罪]]
+* [[請室]]
+* [[請属]]
+* [[請託]]
+{{mid4}}
+* [[請祷]]
+* [[請命]]
+* {{ja-l|請問}}
+* [[請老]]
+{{bottom}}
+
+====References====
+{{ja-kref
+|ku=3233
+|shift=90BF
+|jis=4041
+|euc=C0C1
+|skip=1-7-7
+|freq=524
+|nelson=4390
+|newnelson=5645
+|halpern=1576
+|kld=1060
+|heisig=1536
+|tuttle=7a8.8
+}}
+
+====Usage notes====
+The stroke order in Japanese differs slightly from Chinese, as shown.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=청|eumhun=|rv=cheong|mr=ch'ŏng|y=cheng}}
+
+# {{defn|lang=ko|sort=言08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thỉnh]], [[tính]]|rs=言08}}
+
+# {{defn|lang=vi|sort=言08}}
+
+[[zh-min-nan:請]]
+[[da:請]]
+[[es:請]]
+[[fr:請]]
+[[ko:請]]
+[[hu:請]]
+[[mg:請]]
+[[fj:請]]
+[[ja:請]]
+[[pl:請]]
+[[th:請]]
+[[chr:請]]
+[[zh:請]]

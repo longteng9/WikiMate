@@ -1,0 +1,52 @@
+{{also|干吗}}
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|s=干吗|alt=幹嘛,幹麼}}
+{{zh-l|*幹|to do}} + {{zh-l|*嗎|(''dialectal Mandarin, e.g. [[Tianjin]]'') what}}. Colloquial; the formal equivalent in Standard Mandarin is {{zh-l|[[做]][[什麼]]}} or {{zh-l|[[幹]][[什麼]]}}.
+
+The second element is cognate with {{zh-l|*麼|tr=me}} in Standard Mandarin {{zh-l|什麼|what}}, and is usually written as {{zh-l|*嘛}} when writing Tianjin dialect. Dictionaries only consider consider toneless ''ma'' (''declarative particle'') as the only proper use of {{zh-l|*嘛}}. All other senses, including the dialectally influenced pronunciation of ''má'' ("what") and the interrogative particle of ''ma'', are considered incorrect. However, there is much confusion in actual writing, possibly with {{zh-l|*幹嘛}} being used more commonly for this sense.
+
+====Pronunciation====
+{{zh-pron
+|m=gànmá,gàmá,gàimá,2n=Beijing dialect,3n=Beijing dialect
+|mn=xm,zz:kàn-ma
+|cat=v,adv
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|colloquial}} what is (someone) doing; what is going on
+#: {{zh-x|你 現在 '''幹{gàn}嗎{má}''' 呢？|What are you doing now?}}
+# {{lb|zh|colloquial}} what is wrong; what is up
+#: {{zh-x|你 '''幹{gàn}嗎{má}''' 呀？|What's up with you?}}
+
+====Adverb====
+{{zh-adv}}
+
+# {{lb|zh|colloquial}} [[why]]; [[why on earth]]; [[whatever]] [[for]]
+#: {{zh-x|你 '''幹{gàn}嗎{má}''' 折磨 自己 啊！|Why are you torturing yourself?}}
+
+===Etymology 2===
+{{zh-forms|s=干吗|alt=幹麼}}
+
+====Pronunciation====
+{{zh-pron
+|m=gàn ma
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{zh-l|*幹|to do}} + {{zh-l|*嗎|''question particle''}}
+#: {{zh-x|這 事 你 '''幹{gàn}.嗎'''？|'''Will''' you '''do''' this?}}
+# {{lb|zh|vulgar}} {{zh-l|*幹|to fuck}} + {{zh-l|*嗎|''question particle''}}
+# {{zh-alt-form|*幹嘛|to do + ''declarative particle''}}
+
+{{zh-cat|Elementary}}
+
+[[ko:幹嗎]]
+[[hu:幹嗎]]
+[[ja:幹嗎]]

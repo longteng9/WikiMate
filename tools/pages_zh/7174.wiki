@@ -1,0 +1,91 @@
+{{character info/new}}
+{{also|损}}<!-- may be replaced by zh-forms -->
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=10|sn=13|four=56086|canj=QRBC|ids=⿰扌員}}
+
+# [[diminish]]
+# [[impair]]
+# [[injure]]
+# to [[damage]]
+# 41st [[hexagram]] of the [[I Ching]]
+
+====References====
+* {{Han ref|kx=0446.060|dkj=12459|dj=0796.270|hdz=31931.100|uh=640D|ud=25613|bh=B76C|bd=46956}}
+
+----
+
+==Chinese==
+{{zh-forms|s=损}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=sǔn
+|c=syun2
+|h=pfs=sún
+|md=
+|mn=sún/qz,tw,xm:sńg/zz:súiⁿ
+|mn_note=sún - literary; sńg/súiⁿ - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[damage]]
+# to [[lose]]
+#: {{zh-x|損失|to lose}}
+
+====Derived terms====
+{{zh-der|七損八傷|佞徒損友|傷損|分毫無損|受損|增損|役損|悶損|抑損|折損|損上益下|損事|損人|損人利己|損人安己|損人益己|損人肥己|損傷|損兵折將|損到家|損友|損壞|損壽|損失|損害|損害賠償|損將折兵|損己利物|損年|損德|損折|損挹|損書|損本逐末|損毀|損益|損者三友|損者三樂|損耗|損蝕|損軍折將|損陰壞德|損陰騭|敗損|斟酌損益|有增無損|有形損耗|有損無益|欲益反損|毀損|毀損罪|毫髮無損|求益反損|汙損|海損|減損|火災損失|無損|瘦損|益上損下|破損|磨損|純損|繁華損枝|罨損|耗損|虧損|蝕損|裁損|貶損|費日損功|跌打損傷|香消玉損}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=手10}}
+
+# [[harm]] <!-- "Kanji" is a POS header -->
+
+====Readings====
+* {{ja-readings|on=[[そん]] (son)|kun=[[そこなう]] (sokonau), [[へる]] (heru), [[そこねる]] (sokoneru)}}
+
+* '''[[Synonym]]s'''
+** [[失う]] ([[うしなう]], ushinau)
+** [[損失]] ([[そんしつ]], sonshitsu)
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=손|eumhun=|rv=son|mr=son|y=son}}
+
+# {{defn|lang=ko|sort=手10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tốn]], [[tổn]], [[tủn]], [[vin]], [[tỏn]]|rs=手10}}
+
+# {{defn|lang=vi|sort=手10}}
+
+[[zh-min-nan:損]]
+[[fr:損]]
+[[ko:損]]
+[[lo:損]]
+[[hu:損]]
+[[ja:損]]
+[[pl:損]]
+[[th:損]]
+[[zh:損]]

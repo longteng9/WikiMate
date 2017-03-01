@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuánzǐhé
+|c=jyun4 zi2 hat6,jyun4 zi2 wat6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[atomic nucleus]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|げん|し|かく|yomi=o}}
+[[File:Helium atom QM.svg|thumb|250px]]
+
+===Etymology===
+From [[原子]]([[げんし]], [[genshi]]):(''[[atom]]'') + [[核]]([[かく]], [[kaku]]):(''[[core]]'')
+
+===Noun===
+{{ja-noun|げんしかく}}
+
+# {{lb|ja|chemistry|sort=けんしかく'}} [[atomic nucleus]]
+
+====Derived terms====
+* {{ja-r|原子核分裂|げんしかくぶんれつ}} nuclear [[fission]]
+
+[[cs:原子核]]
+[[de:原子核]]
+[[ko:原子核]]
+[[it:原子核]]
+[[hu:原子核]]
+[[ja:原子核]]
+[[zh:原子核]]

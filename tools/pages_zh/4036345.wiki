@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|真|物}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=まもの|真|tr1=ma|t1=real|物|tr2=mono|t2=thing}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ma̠mo̞no̞]}}
+
+===Noun===
+{{ja-noun|まもの}}
+
+# {{lb|ja|sort=まもの|rare}} the [[real]] [[thing]], [[not]] a [[fake]]
+#: The term {{ja-l|本物||honmono}} is more commonly used for this sense.
+
+====Synonyms====
+* {{ja-l|本物|ほんもの|honmono}}
+
+====Antonyms====
+* {{ja-l|偽物|にせもの|nisemono}}

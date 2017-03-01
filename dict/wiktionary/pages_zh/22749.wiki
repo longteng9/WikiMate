@@ -1,0 +1,121 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=06|sn=12|four=88227|canj=HBMR|ids=⿱⺮同}}
+
+# thick piece of [[bamboo]]
+# [[pipe]]
+
+====References====
+* {{Han ref|kx=0883.110|dkj=26004|dj=1312.100|hdz=52965.160|uh=7B52|ud=31570|bh=B5A9|bd=46505}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|竹|alt1=⺮|t1=bamboo|同|ls=psc|c1=s|c2=p}} – a bamboo pipe.
+
+===Pronunciation===
+{{zh-pron
+|m=tǒng,tóng,2nb=variant in Taiwan
+|c=tung4
+|h=pfs=
+|md=
+|mn=qz,xm,zz:tông/tâng
+|mn_note=tông - literary; tâng - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|affix}} a section of bamboo
+# {{lb|zh|affix}} hollow tube; pipe
+# {{lb|zh|affix}} barrel; can; tin
+
+====Compounds====
+{{zh-der|萬花筒|芒筒|改革芒筒}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=竹06}}
+
+# {{defn|lang=ja|sort=竹06}}
+
+====Readings====
+{{ja-readings|goon=[[ずう]] (zū)|kanon=[[とう]] (tō)|kun=[[つつ]] (tsutsu)}}
+
+====Compounds====
+* {{ja-r|気筒|きとう}}: [[cylinder]] (part of an engine)
+* {{ja-r|喞筒|そくとう}}: [[pump]] {{gloss|device for moving liquid or gas}}
+
+===Etymology 1===
+{{ja-kanjitab|つつ|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|つつ|acc=2|dev=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|つつ}}
+
+# [[tube]]
+# [[hub]] {{gloss|central part of a wheel}}
+
+===Etymology 2===
+{{ja-kanjitab|どう|yomi=irr}}
+From {{m|ja|胴|tr=dō}}.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|どう|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|どう}}
+
+# [[hub]] {{gloss|central part of a wheel}}
+
+=====Synonyms=====
+* {{sense|central part of a wheel}} {{ja-r|ハブ}}, {{ja-r|轂|こしき}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=통|eumhun=|rv=tong|mr=t'ong|y=thong}}
+
+# {{defn|lang=ko|sort=竹06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đồng]]|rs=竹06}}
+
+# {{defn|lang=vi|sort=竹06}}
+
+[[fr:筒]]
+[[ko:筒]]
+[[lo:筒]]
+[[hu:筒]]
+[[mg:筒]]
+[[ja:筒]]
+[[no:筒]]
+[[pl:筒]]
+[[th:筒]]
+[[zh:筒]]

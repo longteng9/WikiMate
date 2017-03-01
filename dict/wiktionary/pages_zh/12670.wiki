@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=11|sn=14|four=47647|canj=JRRSE|ids=⿰古叚}}
+
+# [[felicity]], [[prosperity]]
+# [[large]] and [[strong]]
+
+====References====
+* {{Han ref|kx=0205.210|dkj=04190|dj=0428.150|hdz=10674.050|uh=560F|ud=22031|bh=E14C|bd=57676}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gǔ,jiǎ
+|c=gaa2,gu2
+|mn=kó͘
+|mc=y
+|oc=y
+|ma=
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口11}}
+
+# {{defn|lang=ja|sort=口11}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka), [[け]] (ke)|kun=[[さいわい]] (saiwai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[하]], [[가]]|rv=ha, ga|mr=ha, ka}}
+
+# {{defn|lang=ko|sort=口11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=口11| hanviet = hỗ}}
+
+# {{defn|lang=vi|sort=口11}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=560f Nom Foundation]
+
+[[fr:嘏]]
+[[li:嘏]]
+[[hu:嘏]]
+[[mg:嘏]]
+[[pl:嘏]]
+[[th:嘏]]
+[[vi:嘏]]
+[[zh:嘏]]

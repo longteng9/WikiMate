@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms|s=疾风}}
+
+===Pronunciation===
+{{zh-pron
+|m=jífēng
+|c=zat6 fung1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[gale]]; [[strong]] [[blast]] of [[wind]]
+
+====Derived terms====
+{{zh-der|疾風迅雷|疾風暴雨|疾風驟雨|疾風知勁草|疾風甚雨|疾風掃秋葉|疾風勁草}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|しつ|ふう|k1=しっ|k2=ぷう|yomi=on}}
+
+====Noun====
+{{ja-noun|しっぷう}}
+
+# a [[gale]]
+
+=====Derived terms=====
+* {{ja-l|疾風怒濤|しっぷうどとう}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr}}
+
+====Noun====
+{{ja-noun|はやて}}
+
+# {{lb|ja|literary}} {{sense|a gust of wind}} a [[blast]]
+
+===Synonyms===
+* {{ja-l|強風|きょうふう}}, {{ja-l|突風|とっぷう}}, {{ja-l|暴風|ぼうふう}}
+
+===Hypernyms===
+* {{ja-l|風|かぜ}}
+
+[[ja:疾風]]
+[[zh:疾風]]

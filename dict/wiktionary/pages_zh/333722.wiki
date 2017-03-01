@@ -1,0 +1,35 @@
+{{also|直徑}}
+==Chinese==
+{{zh-see|直徑}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちょく|k1=ちょっ|けい|yomi=o}}
+
+===Noun===
+{{ja-noun|ちょっけい|kyu=直徑}}
+
+# {{lb|ja|geometry}} [[diameter]]
+#: {{ja-usex|宇宙の'''直径'''は約930億光年だ。|^うちゅう の '''ちょっけい''' は やく 930 おく こうねん だ。|The '''diameter''' of the universe is some ninety-three billion light years.}}
+# {{lb|ja|graph theory}} [[diameter]]
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Geometry|ちよつけい]]
+[[Category:ja:Graph theory|ちよつけい]]
+
+[[el:直径]]
+[[fr:直径]]
+[[lo:直径]]
+[[lt:直径]]
+[[hu:直径]]
+[[mg:直径]]
+[[ja:直径]]
+[[pl:直径]]
+[[ru:直径]]
+[[sv:直径]]
+[[chr:直径]]
+[[uk:直径]]
+[[zh:直径]]

@@ -1,0 +1,150 @@
+{{character info/new}}
+{{also|锚}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=08|sn=16|four=84160|canj=CTW|ids=⿰金苗}}
+
+# [[anchor]]
+
+====References====
+* {{Han ref|kx=1312.020|dkj=40598|dj=1814.010|hdz=64216.050|uh=9328|ud=37672|bh=C1E3|bd=49635}}
+
+----
+
+==Chinese==
+{{zh-forms|s=锚}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=máo
+|c=maau4,naau4
+|mn=bâ/biâu
+|mn_note=bâ - vernacular, biâu - literary
+|mc=
+|oc=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[anchor]]
+
+====Compounds====
+* {{zh-l|起錨}}
+
+====References====
+* (''Min Nan'') [http://twblg.dict.edu.tw/holodict_new/index.html Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+
+{{zh-cat|Nautical}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金08}}
+
+# [[anchor]]
+
+====Readings====
+{{ja-readings|goon=[[みょう]] (myō)|kanon=[[びょう]] (byō)|kun=[[いかり]] (ikari)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|海%錨|かい%びょう|[[sea anchor]]}}
+* {{ja-r|走%錨|そう%びょう}}
+* {{ja-r|投%錨|とう%びょう}}
+* {{ja-r|抜%錨|ばつ%びょう}}
+* {{ja-r|錨%銲|びょう%かん}}
+* {{ja-r|錨%鎖|びょう%さ}}
+* {{ja-r|錨%地|びょう%ち}}
+* {{ja-r|錨%泊|びょう%はく}}
+{{der-bottom}}
+
+===Alternative forms===
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|いかり|yomi=k}}
+* {{ja-l|碇}}
+
+===Pronunciation===
+{{ja-pron|y=k|いかり|acc=0|acc_ref=DJR,NHK,SMK5}}
+
+===Noun===
+{{ja-noun|いかり}}
+
+# {{lb|ja|nautical|sort=いかり}} an [[anchor]] {{gl|tool to moor a vessel into sea bottom}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|錨%酢%漿|いかり%かた%ばみ}}
+* {{ja-r|錨%氷|いかり%こおり|[[anchor ice]]}}
+* {{ja-r|錨%星|いかり%ぼし}}
+* {{ja-r|錨%虫|いかり%むし}}
+* {{ja-r|錨を打つ|いかり を うつ}}
+* {{ja-r|錨を下ろす|いかり を おろす}}
+* {{ja-r|鉄%錨|かな%いかり}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[묘]]|eumhun=|rv=myo|mr=myo|y=myo}} <ref>The radical [[金]] suggests an anchor made of iron.</ref>
+[[Image:Kotwica SS Poznań.JPG|thumb|right| [[땅]]에 [[닿다|닿]]은 [[닻]] ([[anchor]])]]
+
+# ([[닻]]): [[anchor]]
+
+====Synonyms====
+* {{l|ko|碇}} (정, ''jeong'') <ref>The radical [[石]] suggests an anchor made of stone.</ref>
+* {{l|ko|椗}} (정, ''jeong'') <ref>The radical [[木]] suggests an anchor made of wood.</ref>
+
+====Derived terms====
+* {{ko-inline|錨泊|myobak|[[anchorage]], [[moorage]]|[[묘박]]}}
+
+===References===
+<references />
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{head|ryu|kanji|hiragana|いかい|romaji|ikai|hiragana|いちゃい|romaji|ichai}}
+
+===Alternative forms===
+* {{l|ryu|碇}}
+
+===Noun===
+{{head|ryu|noun|hiragana|いかい|romaji|ikai|hiragana|いちゃい|romaji|ichai}}
+
+# [[anchor]]
+
+[[Category:ryu:Nautical|いかい]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[miêu]]|rs=金08}}
+
+# {{defn|lang=vi|sort=金08}}
+
+[[fr:錨]]
+[[ko:錨]]
+[[lo:錨]]
+[[la:錨]]
+[[hu:錨]]
+[[mg:錨]]
+[[ja:錨]]
+[[pl:錨]]
+[[ru:錨]]
+[[th:錨]]
+[[zh:錨]]

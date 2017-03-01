@@ -1,0 +1,87 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=lìxíng
+|c=lik6 hang4
+|h=pfs=li̍t-hàng
+|mn=le̍k-hêng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[practise]] [[diligently]]; to practise in [[complete]] [[earnest]]
+
+====Derived terms====
+{{zh-der|力行哲學|節儉力行|身體力行|躬體力行}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|りき|こう|k1=りっ|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|りっこう|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|りっこう|hhira=りきかう}}
+
+# [[strenuous]] [[efforts]]
+
+====Verb====
+{{ja-verb-suru|りっこう|hhira=りきかう}}
+
+# make [[strenuous]] [[efforts]]
+
+=====Conjugation=====
+{{ja-suru|りっこう}}
+
+===Etymology 2===
+{{ja-kanjitab|りき|こう|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|りきこう|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|りきこう|hhira=りきかう}}
+
+# [[strenuous]] [[efforts]]
+
+====Verb====
+{{ja-verb-suru|りきこう|hhira=りきかう}}
+
+# make [[strenuous]] [[efforts]]
+
+=====Conjugation=====
+{{ja-suru|りきこう}}
+
+===Etymology 3===
+{{ja-kanjitab|りょく|こう|k1=りょっ|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|りょっこう|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|りょっこう|hhira=りよくかう}}
+
+# [[strenuous]] [[efforts]]
+
+====Verb====
+{{ja-verb-suru|りょっこう|hhira=りよくかう}}
+
+# make [[strenuous]] [[efforts]]
+
+=====Conjugation=====
+{{ja-suru|りょっこう}}
+
+===References===
+<references/>
+
+[[ko:力行]]
+[[uk:力行]]
+[[zh:力行]]

@@ -1,0 +1,124 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=114|rad=禸|as=04|sn=9|four=20427|canj=HLBI}}
+
+# [[w:Yu the Great|Yu the Great]], legendary founder of the [[w:Xia Dynasty|Xia Dynasty]]
+
+====References====
+* {{Han ref|kx=0848.020|dkj=24885|dj=1269.230|hdz=10039.110|uh=79B9|ud=31161|bh=ACEA|bd=44266}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǔ
+|c=jyu5
+|mn=ú
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|伯禹|劉禹錫|夏禹|大禹|大禹嶺|大禹治水|王禹偁|禹步|禹王臺|禹甸|禹穴|禹行舜趨|禹貢|禹跡|禹餘糧|貢禹|貢禹彈冠}}
+
+===References===
+* {{R:nan:thcwdq}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=禸04}}
+
+# Name of a Xia Dynasty [[emperor]] in [[ancient]] China: Emperor Yŭ, Yŭ the Great, or Dà Yŭ.
+
+====Readings====
+{{ja-readings
+|on=[[う]] (u)
+}}
+
+====Compounds====
+* {{ja-r|禹域|ういき}}
+* {{ja-r|禹穴|うけつ}}
+* {{ja-r|禹行舜趨|うこうしゅんすう}}
+* {{ja-r|禹貢|うこう}}
+* {{ja-r|禹歩|うほ}}
+* {{ja-r|禹余糧|うよりょう}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=う}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[ɯᵝ]}}
+
+===Proper noun===
+{{ja-pos|う|proper}}
+
+# [[w:Yu the Great|Yu the Great]], legendary founder of the [[w:Xia Dynasty|Xia Dynasty]] in ancient China
+
+====External links====
+* {{projectlink|wikipedia|lang=ja}}
+* {{projectlink|wikipedia|Yu the Great}}
+* {{projectlink|wikipedia|Xia Dynasty}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=우|eumhun=|rv=u|mr=u|y=wu}}
+
+# ([[성씨]]) a [[surname]]
+# ([[w:Yu the Great|大禹]]) [[w:Yu the Great|Yu the Great]]
+# ([[임금]]) [[king]]
+# ([[벌레]]) [[worm]]
+# ([[곡척]]) [[steel square]]
+
+====Usage notes====
+; [[:ko:w: 우 (하나라) #우의 치수사업]]
+* 禹라는 문자는 본래 도마뱀이나 악어, 용의 모습을 그린 상형문자로, 우의 기원은 황하에 살던 물의 신이라고 보기도 한다.<sup>[출처 필요]</sup>
+; 우 임금 禹(우)
+: 김경일, ''한자교실'', 바다출판사, 1999.
+* 더듬이와 꼬리가 긴 곤충 종류의 상형문. 아마도 토템 대상인 듯하다. 역사가 긴 부족.
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|vũ|rs=禸04}}
+
+* 夏禹 Hạ Vũ
+
+# {{defn|lang=vi|sort=禸04}}
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+
+[[fr:禹]]
+[[ko:禹]]
+[[hu:禹]]
+[[mg:禹]]
+[[ja:禹]]
+[[no:禹]]
+[[pl:禹]]
+[[ru:禹]]
+[[th:禹]]
+[[zh:禹]]

@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=13|sn=17|four=31303|canj=YYPO}}
+
+# [[suddenly]], [[unexpectedly]]
+# at once
+
+====References====
+* {{Han ref|kx=1266.070|dkj=39161|dj=1763.230|hdz=63887.160|uh=907D|ud=36989|bh=C1D8|bd=49624}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|辵|豦|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jù
+|c=geoi6,geoi3
+|h=pfs=kiak
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[hurriedly]]
+# [[suddenly]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辵13}}
+
+# {{defn|lang=ja|sort=辵13}}
+
+====Readings====
+* {{ja-readings|on=[[きょ]] (kyo)|kun=[[にわか]] (niwaka), [[すみやか]] (sumiyaka), [[あわただし]] (awatadashi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=거|eumhun=|rv=geo|mr=kŏ|y=ke}}
+
+# {{defn|lang=ko|sort=辵13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cự]]|rs=辵13}}
+
+# {{defn|lang=vi|sort=辵13}}
+
+[[fr:遽]]
+[[ko:遽]]
+[[hu:遽]]
+[[mg:遽]]
+[[ja:遽]]
+[[pl:遽]]
+[[th:遽]]
+[[zh:遽]]

@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=huíxiǎng
+|c=wui4 soeng2
+|h=pfs=fì-sióng
+|mn=hê-sióng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[recall]]; to [[recollect]]; to [[remember]]; to [[think back]]
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|そう|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|かいそう|y=o}}
+
+===Noun===
+{{ja-noun|かいそう}}
+
+# [[reminiscence]], [[reflection]]
+
+====Compounds====
+* {{ja-r|回想録|かいそうろく}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|かいそう}}
+
+# to [[reminisce]], to [[reflect]]
+
+====Conjugation====
+{{ja-suru|かいそう}}
+
+[[zh-min-nan:回想]]
+[[ko:回想]]
+[[lt:回想]]
+[[hu:回想]]
+[[mg:回想]]
+[[ja:回想]]
+[[chr:回想]]
+[[zh:回想]]

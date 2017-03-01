@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|逐}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=09|sn=13|four=38303|canj=YTPO|ids=⿺辶㒸}}
+# [[comply]] with, [[follow]] [[along]]
+# [[thereupon]]
+
+====Derived terms====
+* {{l|mul|燧}}, {{l|mul|穟}}, {{l|mul|邃}}, {{l|mul|襚}}, {{l|mul|旞}}, {{l|mul|𨽵}}
+
+====References====
+* {{Han ref|kx=1260.320|dkj=38985|dj=1751.030|hdz=63862.030|uh=9042|ud=36930|bh=B945|bd=47429}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|辵|㒸|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=suì
+|c=seoi6
+|mn=sūi
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不遂|不遂心|不遂心懷|不遂意|俯遂幽眇|功成名遂|功遂身退|半身不遂|名成利遂|天年不遂|文過遂非|既遂犯|暢遂|未遂|未遂犯|毛遂|毛遂自薦|縱情遂欲|褚遂良|諸凡順遂|遂事|遂其所願|遂初|遂即|遂心|遂心如意|遂遂|陽遂足|順心遂意|順遂|飾非遂過|龔遂|龔遂勸農}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=辵09}}
+
+# {{defn|lang=ja|sort=辵09}}
+
+====Readings====
+* {{ja-readings|goon=[[ずい]] (zui) {{non-joyo-reading}}|kanon=[[すい]] (sui)|kun=[[とげる]] (togeru), [[ついに]] (tsuini)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=辵09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|toại|rs=辵09}}
+
+# {{defn|lang=vi}}
+
+[[fr:遂]]
+[[ko:遂]]
+[[hu:遂]]
+[[mg:遂]]
+[[ja:遂]]
+[[no:遂]]
+[[pl:遂]]
+[[th:遂]]
+[[zh:遂]]

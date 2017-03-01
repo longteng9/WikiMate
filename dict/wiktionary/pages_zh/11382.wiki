@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|兑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=10|rad=儿|as=05|sn=7|four=80216|canj=CRHU|ids=⿱八兄,⿱㕣儿}}
+
+# [[cash]]
+# [[exchange]], [[barter]]
+# [[weight]]
+# second of the eight [[w:Ba Gua|trigrams]]
+# 58th [[hexagram]] of the [[I Ching]]
+
+====Derived terms====
+* {{l|mul|稅}}
+
+====References====
+* {{Han ref|kx=0124.210|dkj=01356|dj=0264.010|hdz=10271.010|uh=514C|ud=20812|bh=A749|bd=42825}}
+
+----
+
+==Chinese==
+{{zh-forms|s=兑}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|八|兄|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=duì
+|c=deoi3,deoi6
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=儿05}}
+
+# {{defn|lang=ja|sort=儿05}}
+
+====Readings====
+* {{ja-readings|on=[[だ]] (da), [[たい]] (tai), [[えい]] (ei)|kun=[[よろこぶ]] (yorokobu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[태]], [[예]]|rv=tae, ye|mr=t'ae, ye}}
+
+# {{defn|lang=ko|sort=儿05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đoái]]|rs=儿05}}
+
+# {{defn|lang=vi|sort=儿05}}
+
+[[zh-min-nan:兌]]
+[[fr:兌]]
+[[li:兌]]
+[[hu:兌]]
+[[ja:兌]]
+[[pl:兌]]
+[[th:兌]]
+[[zh:兌]]

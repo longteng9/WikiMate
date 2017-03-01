@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|泞}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=14|sn=17|four=33121|canj=EJPN|ids=⿰氵寧}}
+
+# [[mud]]
+# [[miry]], [[muddy]], [[stagnant]]
+
+====References====
+* {{Han ref|kx=0655.270|dkj=18487|dj=1065.230|hdz=31773.090|uh=6FD8|ud=28632|bh=C0D7|bd=49367}}
+
+----
+
+==Chinese==
+{{zh-forms|s=泞}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=nìng
+|c=ning6
+|mn=lēng/lêng/tw:léng
+|mn_note=lēng - literary; lêng - vernacular (俗)
+|mc=y
+|oc=y
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|汀濘|泥濘|淖濘|濘淖|濘滯}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水14}}
+
+# {{defn|lang=ja|sort=水14}}
+
+====Readings====
+* {{ja-readings|on=[[ねい]] (nei)|kun=[[ぬかる]] (nukaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[녕]]>[[영]]|eumhun=|rv=nyeong>yeong|mr=nyŏng>yŏng|y=nyeng>yeng}}
+
+# {{defn|lang=ko|sort=水14}}
+
+[[fr:濘]]
+[[hu:濘]]
+[[ja:濘]]
+[[pl:濘]]
+[[th:濘]]
+[[zh:濘]]

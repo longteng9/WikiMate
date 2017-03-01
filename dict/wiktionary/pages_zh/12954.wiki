@@ -1,0 +1,172 @@
+{{character info/new}}
+{{also|士|±}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=32|rad=土|as=00|sn=3|four=40100|canj=G}}
+#{{mul-kangxi radical-def}}
+====Derived characters====
+* [[Index:Chinese radical/土]]
+* [[吐]]
+
+====References====
+* {{Han ref|kx=0223.010|dkj=04867|dj=0453.230|hdz=10415.010|uh=571F|ud=22303|bh=A467|bd=42087}}
+[[Category:CJKV radicals| ]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|p}}: a lump of clay on a potter’s wheel.
+
+===Pronunciation===
+{{zh-pron
+|m=tǔ
+|ma=
+|c=tou2
+|h=pfs=thú
+|md=tù
+|mn=thó͘
+|w=2thu
+|mc=y
+|oc=y
+|cat=n,pn,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[earth]], [[soil]]
+#: {{zh-x|這兒{r} 的 '''土''' 夠 肥 的。|The '''soil''' here is quite fertile.}}
+# [[clay]]
+# crude [[opium]]
+# [[local]], [[native]], [[indigenous]]
+#: {{zh-l|土著|aboriginal}}
+# [[rustic]], [[unsophisticated]]
+# {{surname|lang=zh}}
+# the {{w|Tujia people|Tujia ethnic group}} ({{zh-l|土家族}})
+
+====Descendants====
+{{CJKV|土|つ|j2=と|토|thổ}}
+
+=====Compounds=====
+{{zh-der|土城|陶土|土壩|土包子|土崩瓦解|土布|土財主|土產|土道|土地|土地改革|土地廟|土豆|土豆兒|土耳其|土法|土方|土方兒|土房|土肥|土匪|土糞|土改|土崗|土疙瘩|土埂|土豪|土話|土皇帝|土黃|土貨|土家族|土建|土階茅茨|土坎|土坎兒|土庫曼|土庫曼斯坦|土塊|土牢|土老財|土老帽兒|土壘|土里土氣|土名|土模|土木|土木工程|土木形骸|土牛木馬|土偶|土坯|土坡|土坡兒|土氣|土牆|土壤|土人|土色|土生土長|土石方|土俗|土特產|土頭土腦|土溫|土物|土星|土腥氣|土性|土洋結合|土音|土語|土葬|土造|土政策|土紙|土質|土著|土專家|土族}}
+
+====References====
+* {{R:cedict}}
+* {{thcwd|192}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=1|rs=土00}}
+
+====Readings====
+{{ja-readings
+|goon=[[つ]] (tsu)
+|kanon=[[と]] (to)
+|kanyoon=[[ど]] (do)
+|kun=[[つち]] (tsuchi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|苦土|くど}}: [[magnesia]], [[magnesium oxide]]
+* {{ja-r|土地|とち}}: [[ground]]; [[land]]
+* {{ja-r|陶土|とうど}}: [[potter's clay]]
+* {{ja-r|土産|みやげ}}: a [[souvenir]], a [[present]]
+* {{ja-r|土竜|もぐら}}: [[mole]] (''[[animal]]'')
+{{der-bottom}}
+
+{{ja-kanjitab|つち|yomi=k}}
+
+===Etymology===
+From {{etyl|ojp|ja|sort=つち}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|つち|acc=2|dev=1|acc_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{ja-l|地}}
+
+===Noun===
+{{ja-noun|つち}}
+
+# [[earth]]; [[soil]]; [[mud]]
+# the [[ground]]
+
+====Derived terms====
+* {{ja-r|土狼|つちおおかみ}}: [[aardwolf]]
+* {{ja-r|土豚|つちぶた}}: [[aardvark]]
+* {{ja-r|土を踏む|つち を ふむ}}: enter the foreign country
+* {{ja-r|真土|まつち}}: good quality soil suitable for cultivation
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|つち]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[토]], [[두]]|mr=t'o, tu|y=tho, twu|eumhun=[[흙]], [[뿌리]]|ehrv=heulk, ppuri|ehmr=hŭk, ppuri|ehy=hulk, ppuli}}
+* '''Compounds'''
+** [[土曜日]] (toyoil): Saturday.
+
+# {{defn|lang=ko|sort=土00}}
+
+===Noun===
+{{ko-noun|hangeul=토}}
+
+# [[earth]]
+# (As an abbreviation) [[Saturday]]
+
+[[Category:ko:Days of the week|토]]
+[[Category:Hanja readings|토]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thổ]], [[tiên]]|rs=土00}}
+
+# [[earth]], [[land]]
+# [[soil]]
+# A [[name]]
+# (As an abbreviation) [[arrogance]]
+
+[[Category:Kennybot testing category]]
+
+[[zh-min-nan:土]]
+[[cs:土]]
+[[fr:土]]
+[[ko:土]]
+[[it:土]]
+[[sw:土]]
+[[la:土]]
+[[li:土]]
+[[hu:土]]
+[[mg:土]]
+[[ms:土]]
+[[fj:土]]
+[[ja:土]]
+[[no:土]]
+[[pl:土]]
+[[pt:土]]
+[[ru:土]]
+[[fi:土]]
+[[sv:土]]
+[[tl:土]]
+[[ta:土]]
+[[th:土]]
+[[chr:土]]
+[[uk:土]]
+[[zh:土]]

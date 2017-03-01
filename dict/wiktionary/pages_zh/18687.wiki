@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=04|sn=7|four=37120|canj=EPSH|ids=⿰氵切}}
+
+====References====
+* {{Han ref|kx=0611.050|dkj=17199|dj=1003.090|hdz=31562.040|uh=6C8F|ud=27791|bh=CB50|bd=52048}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|切|alt1=氵|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=qī
+|c=cai3,cai1,keoi1
+|mn=chhiat
+|w=4tshiq
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[infuse]]; to [[brew]]; to [[steep]] (tea)
+#: {{zh-x|沏 一 杯 茶 給 你 喝|to '''make''' a cup of tea for you}}
+
+====Compounds====
+{{zh-der|fold=1|沏茶}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=qū
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|cooking}} to [[pour]] [[hot]] [[oil]] or [[soup]] over
+# to [[extinguish]] with [[water]]
+
+====Compounds====
+{{zh-der|fold=1|沏油}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=qiè
+|c=cit3
+|mc=y
+|oc=y
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{n-g|sound of [[splashing]] [[water]]}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水04| hanviet = thế}}
+
+# {{defn|lang=vi|sort=水04}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:沏]]
+[[mg:沏]]
+[[pl:沏]]
+[[th:沏]]
+[[chr:沏]]
+[[zh:沏]]

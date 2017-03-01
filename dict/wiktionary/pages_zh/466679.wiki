@@ -1,0 +1,107 @@
+{{also|海马}}
+==Chinese==
+{{zh-forms|s=海马}}
+
+===Pronunciation===
+{{zh-pron
+|m=hǎimǎ
+|c=hoi2 maa5
+|mn=hái-bé
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[sea horse]]
+
+====Derived terms====
+{{zh-der|海馬體}}
+
+{{zh-cat|Fish}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja|タツノオトシゴ|海馬 (Seahorse)}}
+{{wikipedia|Seahorse}}
+[[File:Black_Sea_fauna_Seahorse.JPG|thumb|250px|{{lang|ja|海馬}} (''umiuma'', ''kaiba''): a '''[[sea horse]]'''.]]
+</div>
+{{ja-kanjitab|yomi=k|うみ|うま}}
+Compound of {{compound|lang=ja|sort=うみうま|海|tr1=umi|t1=ocean, sea|馬|tr2=uma|t2=horse}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|うみうま|acc=0|acc_ref=DJR|acc2=2|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|うみうま}}
+
+# [[sea horse]]
+
+=====Synonyms=====
+* {{ja-r|竜落子|たつ の おとしご}}
+
+===Etymology 2===
+<div style="float:right;">
+{{wikipedia|lang=ja|セイウチ|海馬 (Walrus)}}
+{{wikipedia|Walrus}}
+[[File:Noaa-walrus22.jpg|thumb|250px|{{lang|ja|海馬}} (''kaiba''): a '''[[walrus]]'''.]]
+</div>
+{{ja-kanjitab|yomi=o|かい|ば}}
+From {{etyl|ltc|ja|sort=かいば}} {{m|zh|海馬|tr=xoj<sup>X</sup> mæ<sup>X</sup>|lit=sea + horse}}. Compare modern {{etyl|nan|-}} reading ''hái-bé''.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|かいば|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|かいば}}
+
+# [[sea horse]]
+# [[walrus]]
+# {{lb|ja|anatomy|sort=かいは}} the [[hippocampus]] {{gloss|a part of the [[brain]]}}
+
+=====Usage notes=====
+The {{m|en|walrus}} sense is more commonly expressed using the term {{m|ja|海象|tr=seiuchi}}.
+
+=====Synonyms=====
+* {{sense|sea horse}} {{ja-r|竜落子|たつ の おとしご}}
+* {{sense|walrus}} {{ja-r|海象|せいうち}} {{qualifier|more common}}
+* {{sense|hippocampus}} {{ja-r|海馬体|かいばたい}}
+
+===Etymology 3===
+<div style="float:right;">
+{{wikipedia|lang=ja|トド|海馬 (Steller sea lion)}}
+{{wikipedia|Steller sea lion}}
+[[File:Steller_sea_lions_(Eumetopias_jubatus)_on_rocks.jpg|thumb|250px|{{lang|ja|海馬}} (''todo''): a female and male '''[[Steller sea lion]]'''.]]
+</div>
+{{ja-kanjitab|yomi=irr|sort=とど}}
+From {{etyl|ain|ja|sort=とど}} {{m|ain|トド|tr=todo}} or {{m|ain|トト|tr=toto||sea lion}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=irr|とど|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|胡獱}}
+
+====Noun====
+{{ja-noun|とど|トド}}
+
+# the [[Steller sea lion]], {{taxlink|Eumetopias jubatus|species|noshow=1|ver=161017}}, the largest of the [[sea lion]] species
+
+=====Usage notes=====
+{{U:ja:biology|トド}} The kanji spellings are rare. When written in kanji, the {{ja-l|胡獱}} spelling may be more common, likely to avoid confusion with the alternate readings of the {{lang|ja|海馬}} spelling of ''umiuma'' and ''kaiba''.
+
+===References===
+<references/>
+
+[[Category:ja:Fish|うみうま]]
+
+[[zh-min-nan:海馬]]
+[[la:海馬]]
+[[lt:海馬]]
+[[hu:海馬]]
+[[ro:海馬]]
+[[th:海馬]]

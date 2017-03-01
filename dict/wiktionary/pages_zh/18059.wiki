@@ -1,0 +1,93 @@
+{{character info/new}}
+{{also|糢}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=10|sn=14|four=44934|canj=DTAK|ids=⿰木莫}}
+
+# [[model]], [[standard]], [[pattern]]
+# [[copy]]
+
+====Related characters====
+* [[募]] [[墓]] [[幕]] [[慕]]
+* [[膜]]
+
+====References====
+* {{Han ref|kx=0551.020|dkj=15453|dj=0939.030|hdz=21261.090|uh=6A21|ud=27169|bh=BCD2|bd=48338}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|莫|ls=psc|c1=s|c2=p|t1=tree}}.
+
+===Pronunciation===
+{{zh-pron
+|m=mó,mú
+|c=mou4
+|h=pfs=mù
+|mn=bô͘
+|mn-t=mo5/bhou5
+|w=3mu
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|大模廝樣|一模一樣|工模|人模狗樣|不成模樣|人模人樣|印模|惡模惡樣|喬模喬樣|大模大樣|怪模怪樣|奧會模式|大規模|德國模式|彈性模數|一代楷模|俏模樣|常模|中注模樣|小模樣兒|字模|好模好樣|像模像樣|奉為楷模|地震規模|模擬考試|模效|模型玩具|模模糊糊|模範區|模壓|有模子|模糊理論|模範村|模稜兩可|模仿|模黏|模表|模糊|模組|模型|模擬演習|模本|模型飛機|模樣|砂模|石膏模型|模擬|模書|模仿性|模稜|模範生|模板工|手模|模網論壇|模寫論|模擬器|模範|木模|文化模式|模塑成形|沖模|模傚|死模活漾|模里西斯|模造紙|模楷|模棱兩可|模板|模擬投票|模式|模寫|模具|楷模|模子|模特兒|木浦模式|有模有樣|螺模|裝模作樣|迷颩模登|花剌子模|規模|螺絲模|船模試驗|軌模|首鼠模棱|行為模式|規模遠舉|紅模子|鑄模|銅模|酸模|血肉模糊}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=木11}}
+
+# {{defn|lang=ja|sort=木11}}
+
+====Readings====
+* {{ja-readings|goon=[[も]] (mo)|kanon=[[ぼ]] (bo)|kun=[[かた]] (kata), [[のっとる]] (nottoru)}}
+
+====Compounds====
+* [[模型]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[모]]|eumhun=|rv=mo|mr=mo|y=mo}}
+
+# {{defn|lang=ko|sort=木11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''模''' ([[mô]], [[mo]], [[mọ]], [[mu]], [[mua]], [[mạc]], [[mù]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:模]]
+[[fr:模]]
+[[ko:模]]
+[[li:模]]
+[[hu:模]]
+[[mg:模]]
+[[ja:模]]
+[[no:模]]
+[[pl:模]]
+[[th:模]]
+[[zh:模]]

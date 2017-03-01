@@ -1,0 +1,91 @@
+{{character info/new}}
+{{also|鹄}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=07|sn=18|four=27627|canj=HRHAF}}
+
+# [[target]]
+
+====References====
+* {{Han ref|kx=1491.060|dkj=46961|dj=2021.250|hdz=74635.070|uh=9D60|ud=40288|bh=C35B|bd=50011}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鹄}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hú
+|c=huk6,guk1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|刻鵠|刻鵠類鶩|單鵠寡鳧|孤鴻寡鵠|寡鵠|寡鵠孤鸞|正鵠|白鵠|飛鵠|鳥面鵠形|鳩形鵠面|鴻鵠|鴻鵠之志|鴻鵠大志|鵠侍|鵠候|鵠形菜色|鵠望|鵠的|鵠立|鵠面|鵠面鳥形|鵠面鳩形|鵠髮|鸞停鵠峙|鸞鵠停峙|黃鵠}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鳥07}}
+
+# {{defn|lang=ja|sort=鳥07}}
+
+====Readings====
+* {{ja-readings|goon=[[ごく]] (goku)|kanon=[[こく]] (koku)|kanyoon=[[こう]] (kō)|kun=[[くぐい]] (kugui), [[まと]] (mato)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[곡]], [[혹]]|eumhun=|rv=gok, hok|mr=kok, hok|y=kok, hok}}
+
+# ([[고니]] 곡, ''goni-''): [[swan]], genus [[Cygnus]].
+# ([[과녁]] 곡, ''gwanyeok-''): [[target]].
+
+====Synonyms====
+* {{l|ko|鵾}} ([[곤]], ''gon'')
+* {{l|ko|鶤}} ([[곤]], ''gon'')
+* {{l|ko|白鳥}} ([[백조]], ''baekjo'')
+
+====Compounds====
+* [[正鵠]] ([[정곡]], ''jeonggok'') [[bull's-eye]]
+
+[[Category:Hanja readings|곡]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hộc]]|rs=鳥07}}
+
+# {{defn|lang=vi|sort=鳥07}}
+
+[[fr:鵠]]
+[[ko:鵠]]
+[[lt:鵠]]
+[[hu:鵠]]
+[[ja:鵠]]
+[[pl:鵠]]
+[[ro:鵠]]
+[[th:鵠]]
+[[chr:鵠]]
+[[zh:鵠]]

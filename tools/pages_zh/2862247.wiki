@@ -1,0 +1,53 @@
+{{also|充电}}
+==Chinese==
+{{zh-forms|s=充电}}
+
+===Pronunciation===
+{{zh-pron
+|m=chōngdiàn
+|c=cung1 din6
+|h=pfs=chhûng-thien
+|mn=chhiong-tiān
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[charge]] a [[battery]]
+#: {{zh-x|今天 我 又 忘-了 '''充''' 我 手機 的 '''電'''。|Today I forgot to '''charge''' my cellphone again.}}
+# {{lb|zh|figuratively}} to [[rest]] and [[recuperate]]
+
+====Derived terms====
+{{zh-der|充電寶|充電機|充電器|充電頭|充電線|充電樁}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じゅう|でん|yomi=on}}
+
+===Noun===
+{{ja-noun|じゅうでん}}
+
+# electrical [[charge]], charging
+
+====Derived terms====
+* {{l|ja|充電器|gloss=electrical charger}}
+* {{l|ja|充電池|gloss=rechargeable battery}}
+
+===Verb===
+{{ja-verb-suru|じゅうでん}}
+
+# [[charge]] electrically
+
+====Conjugation====
+{{ja-suru|じゅうでん}}
+
+[[zh-min-nan:充電]]
+[[ko:充電]]
+[[hu:充電]]
+[[mg:充電]]
+[[ja:充電]]
+[[tl:充電]]
+[[chr:充電]]
+[[zh:充電]]

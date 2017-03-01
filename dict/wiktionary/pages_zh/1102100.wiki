@@ -1,0 +1,31 @@
+==Japanese==
+{{ja-kanjitab|じゅん|しゅ|yomi=on}}
+
+===Alternative forms===
+* [[遵守]]
+
+===Etymology===
+From {{m|ja|順|sc=Jpan|tr=jun||obey}} + {{m|ja|守|sc=Jpan|tr=shu||observe}}
+
+===Noun===
+{{ja-noun|じゅんしゅ}}
+
+# [[observance]], [[adherence]], [[compliance]], [[obedience]]
+
+====Antonyms====
+* [[違反]] (violation)
+
+====Compounds====
+* [[法令順守]] (''hōrei junshu''): compliance
+
+===Verb===
+{{ja-verb-suru|じゅんしゅ}}
+
+# [[observe]], [[obey]], [[follow]], [[conform]] to
+
+====Conjugation====
+{{ja-suru|じゅんしゅ}}
+
+[[mg:順守]]
+[[ru:順守]]
+[[zh:順守]]

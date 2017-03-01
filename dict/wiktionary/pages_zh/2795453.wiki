@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|はん|てん|yomi=on}}
+
+===Noun===
+{{ja-noun|はんてん}}
+# [[inversion]], [[reverse]], [[turn over]], [[turn around]]
+# {{lb|ja|computer science|sort=はんてん}} bit [[inversion]]
+# {{lb|ja|mathematics|sort=はんてん}} [[inversion]]
+
+====Compounds====
+* {{ja-def|反転テクトニクス}} inversion [[tectonics]]
+
+===Verb===
+{{ja-verb-suru|はんてん}}
+# [[invert]], [[reverse]], [[turn over]], [[turn around]]
+# {{lb|ja|computer science|sort=はんてんする}} [[invert]] bits
+# {{lb|ja|mathematics|sort=はんてんする}} [[invert]]
+
+====Conjugation====
+{{ja-suru|はんてん}}
+
+[[hu:反転]]
+[[zh:反転]]

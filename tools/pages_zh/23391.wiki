@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|绻}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=08|sn=14|four=29912|canj=VFFQU}}
+
+# [[affectionate]], [[solicitous]]
+
+====References====
+* {{Han ref|kx=0926.360|dkj=27550|dj=1364.080|hdz=53419.050|uh=7DA3|ud=32163|bh=E365|bd=58213}}
+
+----
+
+==Chinese==
+{{zh-forms|s=绻}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=quǎn
+|c=hyun3,hyun2
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=糸08}}
+
+# {{defn|lang=ja|sort=糸08}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken), [[かん]] (kan)|kun=[[まく]] (maku)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=권|eumhun=|rv=gwon|mr=kwŏn|y=kwen}}
+
+# {{defn|lang=ko|sort=糸08}}
+
+[[fr:綣]]
+[[hu:綣]]
+[[ja:綣]]
+[[pl:綣]]
+[[th:綣]]
+[[zh:綣]]

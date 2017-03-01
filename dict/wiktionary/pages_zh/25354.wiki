@@ -1,0 +1,69 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=10|sn=16|four=44134|canj=TKOK}}
+
+# [[furze]]
+# [[gorse]]
+
+====References====
+* {{Han ref|kx=1050.110|dkj=31622|dj=1511.190|hdz=53268.020|uh=84BA|ud=33978|bh=E3B0|bd=58288}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jí
+|c=zat6,zaat6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|蒺藜|鐵蒺藜}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸10}}
+
+# {{defn|lang=ja|sort=艸10}}
+
+====Readings====
+* {{ja-readings|on=[[しつ]] (shitsu), [[じち]] (jichi), [[しょく]] (shoku), [[じ]] (ji), [[き]] (ki)|kun=[[はまびし]] (hamabishi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=질|eumhun=|rv=jil|mr=chil|y=cil}}
+
+# {{defn|lang=ko|sort=艸10}}
+
+[[fr:蒺]]
+[[hu:蒺]]
+[[mg:蒺]]
+[[ja:蒺]]
+[[pl:蒺]]
+[[th:蒺]]
+[[vi:蒺]]
+[[zh:蒺]]

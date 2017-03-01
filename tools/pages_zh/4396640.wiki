@@ -1,0 +1,41 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|えん|ぎ|しゃ|yomi=on}}
+Compound of {{compound|lang=ja|sort=えんぎしゃ|演技|tr1=engi|t1=performance, acting|者|tr2=sha|t2=person}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|n|え|んぎ|しゃ}}
+* {{IPA|lang=ja|[ẽ̞ɴŋiɕʲa̠]}}
+
+====Noun====
+{{ja-noun|えんぎしゃ}}
+
+# a [[performer]], an [[actor]]
+
+=====Synonyms=====
+* {{sense|actor}} {{ja-l|俳優|はいゆう|haiyū}}
+
+===Etymology 2===
+{{ja-kanjitab|えん|ぎ|もの|yomi=irreg}}
+Compound of {{compound|lang=ja|sort=えんぎもの|演技|tr1=engi|t1=performance, acting|者|tr2=mono|t2=person}}, using the [[訓読み|''kun'yomi'']] of ''mono'' for the {{ja-l|者}} character.
+
+This reading may be considered [[irregular]].
+
+====Pronunciation====
+* {{IPA|lang=ja|[ẽ̞ɴŋimo̞no̞]}}
+
+====Noun====
+{{ja-noun|えんぎもの}}
+
+# a [[performer]], an [[actor]]
+
+=====Synonyms=====
+* {{sense|actor}} {{ja-l|俳優|はいゆう|haiyū}}
+
+===References===
+<references/>
+* {{R:Daijirin}}
+
+[[ko:演技者]]

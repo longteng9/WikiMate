@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=míngkuài
+|c=ming4 faai3
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[lucid]] and [[lively]]
+# [[straightforward]]; [[candid]]; [[frank]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|めい|かい|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|めいかい}}
+
+# [[clear]]
+#: {{ja-usex|その質問に対する答えは'''明快'''だった。|その しつもん に たいする こたえ は '''めいかい''' だった。|The answer to that question was clear.}}
+
+====Inflection====
+{{ja-na|めいかい}}
+
+===Noun===
+{{ja-noun|めいかい}}
+
+# [[clarity]]
+
+[[ko:明快]]
+[[mg:明快]]
+[[zh:明快]]

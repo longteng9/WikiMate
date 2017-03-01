@@ -1,0 +1,55 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=05|sn=11|four=54160|canj=LIJR}}
+
+# mole cricket
+
+====References====
+* {{Han ref|kx=1080.160|dkj=32960|dj=1548.330|hdz=42842.010|uh=86C4|ud=34500|bh=B347|bd=45895}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gū
+|c=gu1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|蝦蛄|蝲蛄|蝲蝲蛄|螻蛄|蟪蛄}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫05}}
+
+# {{defn|lang=ja|sort=虫05}}
+
+====Readings====
+* {{ja-readings|on=[[こ]] (ko), [[く]] (ku)|kun=[[けら]] (kera)|nanori=}}
+
+[[fr:蛄]]
+[[hu:蛄]]
+[[mg:蛄]]
+[[ja:蛄]]
+[[pl:蛄]]
+[[th:蛄]]
+[[zh:蛄]]

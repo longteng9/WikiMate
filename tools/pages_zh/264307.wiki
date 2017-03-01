@@ -1,0 +1,32 @@
+==Japanese==
+{{ja-kanjitab|じつ|k1=じっ|し|yomi=on}}
+
+===Noun===
+{{ja-noun|じっし}}
+
+# [[practice]], [[execution]], [[enforcement]], putting into effect
+
+====Synonyms====
+* {{ja-r|実行|じっこう}}, {{ja-r|遂行|すいこう}}
+
+====Compounds====
+* {{ja-r|実施例|じっしれい}}
+
+===Verb===
+{{ja-verb-suru|じっし}}
+
+# to put into practice, to carry out, to [[execute]] (''a plan etc.''), to [[put]] into [[effect]], to put into force (''a law etc.'')
+#: {{ja-usex|その法律は来年１月から実施される。|その ほうりつ は らいねん いちがつ から じっし される。|The law will take effect next January.}}
+
+====Conjugation====
+{{ja-suru|じっし}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[fr:実施]]
+[[ko:実施]]
+[[hu:実施]]
+[[mg:実施]]
+[[ja:実施]]
+[[zh:実施]]

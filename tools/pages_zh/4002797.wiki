@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shízì
+|c=sap6 zi6
+|cat=n,a
+}}
+
+{{attention|zh|How should we add the sense [[Phillips head]] to this entry?}}
+===Noun===
+{{zh-noun}}
+
+# [[cross]]; [[crucifix]]
+# {{&lit|十|字|lang=zh}}
+
+====Derived terms====
+{{zh-der|紅十字|橫羅十字|畫十字|鐵十字|十字節}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[cross-shaped]]
+
+====Derived terms====
+{{zh-der|十字架|十字繡|十字花押|十字花科|十字街|十字街頭|十字路|十字路口|十字軍|十字鎬}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じゅう|じ|yomi=o}}
+
+===Etymology===
+Compound of '''十''' ([[じゅう]], ''[[jū]]'') [[ten]], [[10]] + '''字''' ([[じ]], ''[[ji]]'') [[letter]], [[character]].
+
+===Noun===
+{{ja-noun|じゅうじ}}
+
+# a [[cross]], [[crucifix]] symbol
+#: {{ja-usex|漫画のデスノートに弥海砂の首飾りに十字はアヤメとアニメーの為に取り替えました事があります。|^まんが の ^デス ^ノート に ^あまね ^みさ の くびかざり に じゅうじ は アヤメ と アニメー の ため に とりかえました こと が あります。|The cross on Misa Amane's necklace from the ''Death Note'' manga was replaced with a fleur-de-lis for the animé.}}
+
+====Derived terms====
+* {{ja-r|十字架|じゅうじか}}
+
+[[ky:十字]]
+[[mg:十字]]
+[[chr:十字]]
+[[zh:十字]]

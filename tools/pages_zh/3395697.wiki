@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=huànyǐng
+|c=waan6 jing2
+|mn=hoàn-éng/hoàn-iáⁿ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[phantom]], [[vision]], [[illusion]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|げん|えい|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=げんえい}} compound {{m|zh|幻影|tr=gwæn ʔjæng<sup>X</sup>|lit=illusion, mirage + shadow}}. Compare modern {{etyl|cmn|-}} {{zh-l|幻影|tr=huànyǐng}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|げんえい|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|げんえい}}
+
+# an [[illusion]], a [[vision]]
+# the [[image]] of something, such as in a [[memory]] or [[imagination]]
+# {{lb|ja|sort=げんえい|medicine}} a [[phantom]], a [[phantasm]]: a [[perception]] of something that is not there
+
+====Synonyms====
+* {{ja-r|幻|まぼろし}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|幻影化|げんえいか}}: {{qualifier|medicine}} to [[phantomize]]
+* {{ja-r|幻影肢|げんえいし}}: {{qualifier|medicine}} a [[phantom limb]]
+* {{ja-r|幻影視|げんえいし}}: {{qualifier|medicine|rare}} [[phantasmoscopy]], [[phantasmoscopia]]: seeing [[phantom]]s
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[ko:幻影]]
+[[hu:幻影]]
+[[mg:幻影]]
+[[ja:幻影]]
+[[zh:幻影]]

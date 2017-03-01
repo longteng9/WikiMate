@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|胄}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=13|rad=冂|as=07|sn=9|four=50227|canj=LWB,XLWB|ids=⿱由冃}}
+
+# [[helmet]]
+
+====References====
+* {{Han ref|kx=0129.200|dkj=01537|dj=0291.130|hdz=32059.090|uh=5191|ud=20881|bh=AB60|bd=43872}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhòu
+|c=zau6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[helmet]] [[wear|worn]] by [[warrior]]s in [[ancient]] [[time]]s
+
+===See also===
+* {{qualifier|not to be confused with}} {{zh-l|胄|descendent}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=冂07}}
+
+====Readings====
+* {{ja-readings|on=[[ちゅう]] (chū)|kun=[[かぶと]] (kabuto), [[よろい]] (yoroi)}}
+
+===Noun===
+{{ja-noun|かぶと}}
+
+# {{alternative form of|兜|lang=ja}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 冑]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=주|rv=ju|mr=chu}}
+
+# ([[투구]] 주, ''tugu-''): [[helmet]] (especially, made of [[iron]])
+
+====Usage notes====
+* [[胄]] ([[맏아들]] [[주]], ''mad-adeul ju'') eldest son, [[heir]] (hence, similar but after all different from this entry, 冑)
+
+====Synonyms====
+* {{l|ko|兜}} ([[두]], ''du'')
+
+====Compounds====
+* [[甲冑]] ([[갑주]], ''gapju'') [[armor]] and [[helmet]]
+
+====See also====
+* {{l|ko|甲}} ([[갑]], ''gap'') [[armor]]
+
+[[Category:Hanja readings|주]]
+
+[[fr:冑]]
+[[hu:冑]]
+[[mg:冑]]
+[[ja:冑]]
+[[pl:冑]]
+[[th:冑]]
+[[zh:冑]]

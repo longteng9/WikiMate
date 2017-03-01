@@ -1,0 +1,129 @@
+{{character info/new}}
+{{also|宮}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=40|rad=宀|as=05|sn=8|four=30777|canj=JRLR|ids=⿱宀㠯}}
+
+====Derived characters====
+* [[倌]] [[館]] ([[馆]] [[舘]]) [[菅]] [[管]]
+
+====Related characters====
+* [[宮]], [[宫]]
+* [[追]]
+
+====References====
+* {{Han ref|kx=0283.150|dkj=07107|dj=0558.010|hdz=20921.040|uh=5B98|ud=23448|bh=A978|bd=43384}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+Variant form of [[宮]], roughly {{Han compound|宀|呂|ls=ic}} – many rooms under a roof, an official building.
+
+===Pronunciation===
+{{zh-pron
+|m=guān
+|c=gun1
+|h=pfs=kôn
+|md=guăng
+|mn=koaⁿ/koan
+|mn_note=koaⁿ - vernacular, koan - literary
+|w=1kuoe
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[official]], [[public servant]]
+
+====Compounds====
+{{der3
+| {{zh-l|官辦}}
+| {{zh-l|官報}}
+| {{zh-l|官報私仇}}
+| {{zh-l|官逼民反}}
+| {{zh-l|官兵}}
+| {{zh-l|官艙}}
+| {{zh-l|官倒}}
+| {{zh-l|官邸}}
+| {{zh-l|官方}}
+| {{zh-l|官服}}
+| {{zh-l|官府}}
+| {{zh-l|官官相護}}
+| {{zh-l|官家}}
+| {{zh-l|官價}}
+| {{zh-l|官吏}}
+| {{zh-l|官僚}}
+| {{zh-l|官僚主義}}
+| {{zh-l|官僚資本}}
+| {{zh-l|官僚資產階級}}
+| {{zh-l|官能}}
+| {{zh-l|官能團}}
+| {{zh-l|官氣}}
+| {{zh-l|官腔}}
+| {{zh-l|官商}}
+| {{zh-l|官司}}
+| {{zh-l|官銜}}
+| {{zh-l|官燕}}
+| {{zh-l|官樣文章}}
+| {{zh-l|官印}}
+| {{zh-l|官員}}
+| {{zh-l|官職}}
+| {{zh-l|官制}}
+}}
+
+====References====
+* (''Min Nan'') {{thcwd|3824}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=宀05}}
+
+# government official
+
+====Readings====
+* {{ja-readings|goon=[[かん]] (kan)|kanon=[[かん]] (kan)|on=[[がん]] (gan)|kun=[[つかさ]] (tsukasa), [[おおやけ]] (ooyake)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=관|mr=kwan}}
+
+# {{defn|lang=ko|sort=宀05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quan]]|rs=宀05}}
+
+# {{defn|lang=vi|sort=宀05}}
+
+[[zh-min-nan:官]]
+[[fr:官]]
+[[ko:官]]
+[[li:官]]
+[[hu:官]]
+[[mg:官]]
+[[ms:官]]
+[[ja:官]]
+[[no:官]]
+[[pl:官]]
+[[pt:官]]
+[[ru:官]]
+[[th:官]]
+[[zh:官]]

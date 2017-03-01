@@ -1,0 +1,167 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=70|rad=方|as=06|sn=10|four=08232|canj=YSOHV}}
+
+====References====
+* {{Han ref|kx=0483.020|dkj=13644|dj=0845.020|hdz=32178.070|uh=65C5|ud=26053|bh=AEC8|bd=44744}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|㫃|从|t2=together|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lǚ
+|c=leoi5
+|h=pfs=lî
+|md=lṳ̄
+|mn=lí/lú
+|w=3ly,3li
+|mc=y
+|oc=y
+|ma=Zh-lu.ogg
+|cat=n,v,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|military}} [[brigade]]
+# {{†}} [[army]]; [[troops]]
+# {{†}} [[traveller]]
+# [[journey]]; [[trip]]
+# {{†}} [[hotel]]
+# to [[travel]]
+# 56th [[hexagram]] of the [[I Ching]]
+# {{surname|lang=zh}}
+
+====Usage notes====
+* {{sense|military}} Under the [[w:National Revolutionary Army|National Revolutionary Army]], a brigade was composed of two [[regiment]]s ({{zh-l|*團}}). In turn, two brigades formed a [[division]] ({{zh-l|*整編師}}), a [[square division]].
+
+===Compounds===
+{{zh-der|旅舍|旅社|套裝旅遊|勁旅|庭實旅百|師旅|商旅|住宅旅社|客旅|徒步旅行|一成一旅|商旅店|單車旅行|差旅費|公文旅行|旅歷|文件旅遊|旅力|旅思|旅生|旅遊業|旅館業|旅客|旅行支票|旅鼠|旅程|旅遊手冊|振旅|汽車旅館|旅進旅退|旅館|旅長|旅行劇團|旅行|旅行團|旅邸|旅人蕉|旅居|旅費|旅行社|旅遊|旅祉|知性之旅|旅途|旅食|畢業旅行|旅次|旅行包|旅順|旅酬|旅行車|旅伴|旅店|旅夜書懷|旅人|觀光旅館|羈旅|鞠旅|軍旅|羇旅|逆旅|陳師鞠旅|自助旅遊|賓旅|赤軍旅|自主旅遊|虎旅|自助旅行|行旅}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=方06}}
+
+# [[trip]]
+# [[travel]]
+
+====Readings====
+{{ja-readings
+|goon=[[ろ]] (ro) {{qualifier|non-joyo-kanji}}
+|kanon=[[りょ]] (ryo)
+|kun=[[たび]] (tabi)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|旅先|たびさき}}: [[travel]] [[destination]]
+* {{ja-r|旅路|たびじ}}: [[travel]] [[route]], [[itinerary]]; a [[journey]]
+* {{ja-r|旅立|たびだち}}: [[departure]] {{qualifier|on a trip}}
+* {{ja-r|旅人|たびびと}}: a [[traveller]]
+* {{ja-r|旅館|りょかん}}: an [[inn]]
+* {{ja-r|旅券|りょけん}}: a [[passport]]
+* {{ja-r|旅行|りょこう}}: a [[trip]], a [[voyage]], [[travel]]
+* {{ja-r|旅団|りょだん}}: a [[brigade]]
+* {{ja-r|旅費|りょひ}}: [[travel]] [[expense]]s
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|りょ}}
+From {{etyl|ltc|ja|sort=りょ}} {{m|zh|旅|tr=ljo<sup>X</sup>||a military unit of 500 men; to go [on a sortie; on a trip or journey]}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|りょ}}
+
+====Noun====
+{{ja-noun|りょ}}
+
+# in ancient China, a [[military]] [[unit]] of 500 [[soldier]]s
+# one of the [[I Ching]] [[hexagram]]s: [[sojourning]] ([[w:List_of_hexagrams_of_the_I_Ching#Hexagram_56|''I Ching hexagram interpretation on Wikipedia here'']])
+
+====Prefix====
+{{ja-pos|prefix|りょ}}
+
+# a [[trip]], a [[journey]], [[travel]]
+
+=====Usage notes=====
+The prefix usage only ever appears in kanji compounds.
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|たび}}
+{{IPAchar|/tabi<sub>1</sub>/}} → {{IPAchar|/tabi/}}
+
+From {{etyl|ojp|ja|sort=たび}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Appears in the ''{{w|Man'yōshū}}'', completed no earlier than 759 and one of the oldest extant texts in the Japanese language.
+
+May be cognate with {{m|ja|度|tr=tabi||the time when something happens}}; both terms have the same pitch accent, the same ancient vowel values, and some semantic overlap.
+
+====Pronunciation====
+{{ja-pron|yomi=k|たび|acc=2|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|たび}}
+
+# a [[journey]]; [[travel]]
+#* '''1694''', 松尾芭蕉 [[w:Matsuo Bashō|Matsuo Bashō]]
+#*: {{ja-usex|'''旅'''に病んで夢は枯野をかけ廻る。|'''たび''' に やんで ゆめ は かれの を かけめぐる。|Anxious to go '''journeying''', my dreams run through the desolate fields.}}
+#*: {{ja-usex|不思議な'''旅'''が始まるぜ！|ふしぎ な '''たび''' が はじまる ぜ！|A strange '''journey''' is about to begin!}}
+# {{lb|ja|sort=たび|archaic}} a [[temporary]] [[time]] spent in a place
+# {{qualifier|more specifically}} a [[place]] where a {{m|ja|神輿|tr=mikoshi||portable shrine}} spends a [[temporary]] [[time]] outside of the {{m|ja|本宮|tr=hongū||main shrine building}} during a {{m|ja|祭り|tr=matsuri||festival}}
+
+====Verb====
+{{ja-verb-suru|たび|tr=intrans}}
+
+# to [[travel]], to [[go]] on a [[journey]] or [[trip]]
+
+=====Conjugation=====
+{{ja-suru|たび}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[려]]>[[여]]|eumhun=|rv=ryeo>yeo|mr=ryŏ>yŏ|y=lye>ye}}
+
+# {{defn|lang=ko|sort=方06}}
+
+====Compounds====
+* {{l|ko|旅券|tr=[[여권]], yeo.gweon}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lữ]]|rs=方06}}
+
+# {{defn|lang=vi|sort=方06}}
+
+[[fr:旅]]
+[[ko:旅]]
+[[lo:旅]]
+[[li:旅]]
+[[hu:旅]]
+[[mg:旅]]
+[[ja:旅]]
+[[no:旅]]
+[[pl:旅]]
+[[pt:旅]]
+[[th:旅]]
+[[chr:旅]]
+[[zh:旅]]

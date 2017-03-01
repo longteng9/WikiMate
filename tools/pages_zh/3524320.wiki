@@ -1,0 +1,66 @@
+{{also|编制|編製}}
+==Chinese==
+{{zh-forms|s=编制}}
+
+===Etymology===
+{{wasei kango||へんせい|compilation, organisation}}
+
+===Pronunciation===
+{{zh-pron
+|m=biānzhì
+|c=pin1 zai3
+|mn=xm,tw:pian-chè/xm,qz,twv:phian-chè/zz:phian-chì
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[compile]]; to [[draw up]] {{gloss|a dictionary, a curriculum, etc.}}
+
+===Noun===
+{{zh-noun}}
+
+# [[compilation]] of a [[document]]
+# [[employee]] [[quota]] and [[arrangement]] in an [[organization]]
+# [[strength]] of a military [[unit]]
+
+===Usage notes===
+Not to be confused with {{zh-l|編製}}.
+
+{{zh-cat|Intermediate}}
+----
+
+==Japanese==
+{{ja-kanjitab|へん|せい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|へんせい|y=o}}
+
+===Noun===
+{{ja-noun|へんせい|tr=trans}}
+
+# [[formation]] or [[organization]], especially of a military unit
+
+===Verb===
+{{ja-verb-suru|へんせい|tr=trans}}
+
+#[[organize]] into units
+
+====Conjugation====
+{{ja-suru|へんせい}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=편제}}
+
+# {{hanja form of|편제|}}
+
+[[zh-min-nan:編制]]
+[[ko:編制]]
+[[ja:編制]]
+[[zh:編制]]

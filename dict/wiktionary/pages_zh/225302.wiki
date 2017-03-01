@@ -1,0 +1,94 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|あし|こ}}
+From {{etyl|ojp|ja|sort=あしこ}}. Appears to be a compound of {{compound|lang=ja|sort=あしこ|彼|tr1=a|t1=that one over there|pos1=distal marker, indicating something distant from both speaker and listener|し|tr2=shi|pos2=unknown, possibly a possessive|処|tr3=ko|t3=place}}. May be the older form of modern ''asoko'' below.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|あしこ|acc=0}}
+
+====Pronoun====
+{{ja-pos|あしこ|pronoun}}
+
+# {{lb|ja|sort=あしこ|obsolete}} [[yon]] place, that place [[yonder]], that place over there, that area over there, that part over there
+#* {{RQ:Genji Monogatari}}
+#*: {{ja-usex|'''彼処'''に籠りなむのち|'''あしこ''' に こもりなむ のち|...after hiding '''there'''...}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|あそ|こ}}
+Shift in pronunciation from ''ashiko'' above,<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> probably influenced by {{m|ja|そこ|tr=soko}}.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|あそこ|acc=0|acc_ref=DJR}}
+====Pronoun====
+{{ja-pos|あそこ|pronoun}}
+
+# [[yon]] place, that place [[yonder]], that place over there, that area over there, that part over there
+
+=====See also=====
+{{Japanese demonstratives}}
+
+=====Usage notes=====
+The reading ''asoko'' is the most commonly used in modern Japanese.
+
+The hiragana spelling {{ja-l|あそこ}} is almost always used. The kanji use is rare.
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|あ|こ}}
+Appears to be a compound of {{compound|lang=ja|sort=あこ|彼|tr1=a|t1=that one over there|pos1=distal marker, indicating something distant from both speaker and listener|処|tr2=ko|t2=place}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> First appears in the late 1500s, early 1600s,<ref name="DJR">{{R:Daijirin}}</ref> and used mostly in the [[w:Kansai region|Kansai region]].<ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref> Given the historical tendency for innovation in the Kansai region, the term may instead derive as an abbreviation of ''asoko'' above, by analogy with the ''-ko'' suffix in {{m|ja|ここ|tr=koko||here}} and {{m|ja|そこ|tr=soko||there|pos=closer to the listener than to the speaker}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|あこ|acc=1}}
+
+====Pronoun====
+{{ja-pos|あこ|pronoun}}
+
+# [[yon]] place, that place [[yonder]], that place over there, that area over there, that part over there
+
+=====Usage notes=====
+Generally only used in the [[w:Kansai region|Kansai region]].
+
+===Etymology 4===
+{{ja-kanjitab|yomi=k|あす|こ}}
+Shift in pronunciation from ''asoko'' above.<ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|あすこ|acc=0|acc_ref=DJR}}
+
+====Pronoun====
+{{ja-pos|あすこ|pronoun}}
+
+# {{lb|ja|sort=あすこ|rare}} [[yon]] place, that place [[yonder]], that place over there, that area over there, that part over there
+
+===Etymology 5===
+{{ja-kanjitab|yomi=k|か|こ}}
+Compound of {{compound|lang=ja|sort=かこ|彼|tr1=ka|pos1=distal marker, indicating something distant from both speaker and listener|t1=that one over there|処|tr2=ko|t2=place}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|かこ}}
+
+====Pronoun====
+{{ja-pos|かこ|pronoun}}
+
+# {{lb|ja|sort=かこ|rare|obsolete}} [[yon]] place, that place [[yonder]], that place over there, that area over there, that part over there
+#* '''1483''', {{lang|ja|地蔵菩薩霊験絵詞}} (''Jizō Bosatsu Reiken Eshi'', “Jizō Bodhisattva Miracle Picture-scroll”)
+#*: {{ja-usex|'''彼処'''を退き去る也|'''かこ''' を そきさる なり|...[he] left '''that place'''...}}
+
+===Etymology 6===
+{{ja-kanjitab|yomi=k|かし|こ}}
+Appears to be a compound of {{compound|lang=ja|sort=かしこ|彼|tr1=ka|t1=that one over there|pos1=distal marker, indicating something distant from both speaker and listener|し|tr2=shi|pos2=unknown, possibly a possessive|処|tr3=ko|t3=place}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|かしこ|acc=1|acc_ref=DJR}}
+
+====Pronoun====
+{{ja-pos|かしこ|pronoun}}
+
+# {{lb|ja|sort=かしこ|rare}} [[yon]] place, that place [[yonder]], that place over there, that area over there, that part over there
+# {{lb|ja|sort=かしこ|rare}} that [[aforementioned]] place
+
+===References===
+<references/>
+
+[[it:彼処]]
+[[pl:彼処]]

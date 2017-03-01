@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|诟}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=06|sn=13|four=02661|canj=YRHMR|ids=⿰言后}}
+
+# [[abuse]], [[scold]], [[berate]], [[insult]]
+
+====References====
+* {{Han ref|kx=1158.020|dkj=35433|dj=1623.060|hdz=63966.070|uh=8A6C|ud=35436|bh=B8E1|bd=47329}}
+
+----
+
+==Chinese==
+{{zh-forms|s=诟}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gòu
+|c=gau3,kau3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嗔詬|尤詬|忍尤含詬|訶詬|詬厲|詬病|詬罵|詬誶|詬誶謠諑|詬讓}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言06}}
+
+# {{defn|lang=ja|sort=言06}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[く]] (ku)|kun=[[はずかしめ]] (hazukashime), [[はじ]] (haji)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# {{defn|lang=ko|sort=言06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cấu]]|rs=言06}}
+
+# {{defn|lang=vi|sort=言06}}
+
+[[fr:詬]]
+[[hu:詬]]
+[[mg:詬]]
+[[ja:詬]]
+[[pl:詬]]
+[[th:詬]]
+[[vi:詬]]
+[[zh:詬]]

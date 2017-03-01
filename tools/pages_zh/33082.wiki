@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=203|rad=黑|as=09|sn=21|four=60361|canj=WFYTA}}
+
+# [[dark]], [[black]]
+# [[sullen]], [[dreary]]
+
+====References====
+* {{Han ref|kx=1521.230|dkj=48159|dj=2056.170|hdz=74753.160|uh=9EEF|ud=40687|bh=C566|bd=50534}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=àn
+|c=am2,am3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|黯黯|黯淡|黯黑|黯然|黯然失色|黯然銷魂|昏黯黲|汲黯|黝黯|黯慘|黯淡無光|黯然無色|黯然神傷|黯黮}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=黑09}}
+
+# {{defn|lang=ja|sort=黑09}}
+
+====Readings====
+* {{ja-readings|on=[[あん]] (an)|kun=[[くろい]] (kuroi), [[くらい]] (kurai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=암|eumhun=|rv=am|mr=am|y=am}}
+
+# {{defn|lang=ko|sort=黑09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|ảm|rs=黑09}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:黯]]
+[[fr:黯]]
+[[hu:黯]]
+[[mg:黯]]
+[[ja:黯]]
+[[no:黯]]
+[[pl:黯]]
+[[th:黯]]
+[[zh:黯]]

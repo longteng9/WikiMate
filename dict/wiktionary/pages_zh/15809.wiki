@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=12|sn=15|four=94096|canj=PKCF|ids=⿰忄尞}}
+
+# [[clear]]
+# [[intelligible]]
+# [[severe]]
+# [[cold]]
+
+====References====
+* {{Han ref|kx=0403.380|dkj=11258|dj=0744.070|hdz=42353.130|uh=61AD|ud=25005|bh=E5A4|bd=58788}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|心|尞|c1=s|c2=p|t1=heart|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=liǎo
+|c=liu5
+|mn=qz,tw,xm,zz:liáu
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心12}}
+
+# {{defn|lang=ja|sort=心12}}
+
+====Readings====
+* {{ja-readings|on=[[りょう]] (ryō)|kun=[[さとい]] (satoi)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心12|hanviet=trêu}}
+
+# {{defn|lang=vi|sort=心12}}
+
+[[fr:憭]]
+[[li:憭]]
+[[hu:憭]]
+[[pl:憭]]
+[[th:憭]]
+[[vi:憭]]
+[[zh:憭]]

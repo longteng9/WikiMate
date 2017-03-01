@@ -1,0 +1,237 @@
+{{character info/new}}
+{{also|邊|邉|边}}
+==Translingual==
+{{Han simplified forms|邊|辺|边}}
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=02|sn=6|four=|canj=YSH}}
+
+# [[edge]], [[margin]], [[side]], [[border]]
+# {{Hani-second-round simplification of|道}}
+
+====References====
+* {{Han ref|kx=1253.131|dkj=38710|dj=1735.090|hdz=63815.051|uh=8FBA|ud=36794}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=辵02}}
+
+====Readings====
+{{ja-readings
+|goon=[[へん]] (hen)
+|kanon=[[へん]] (hen)
+|kun=[[あたり]] ([[辺り]], atari), [[べ]] (be), [[へ]] (he) {{non-joyo-reading}}, [[へた]] (heta) {{non-joyo-reading}}, [[へち]] (hechi) {{non-joyo-reading}}, [[ほとり]] (hotori) {{non-joyo-reading}}
+|nanori=[[なべ]] (nabe)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|海辺|うみべ}}, {{ja-r|海辺|かいへん}}
+* {{ja-r|近辺|きんぺん}}
+* {{ja-r|君辺|くんぺん}}: [[vicinity]] of a [[lord]]
+* {{ja-r|周辺|しゅうへん}}
+* {{ja-r|辺境|へんきょう}}
+* {{ja-r|辺鄙|へんぴ}}
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|へん}}
+{{IPAchar|/pen/}} → {{IPAchar|/fen/}} → {{IPAchar|/hen/}}
+
+From {{der|ja|ltc|sort=へん'|邊|tr={{IPAchar|/pen/}}||edge; margin, border; nearby, vicinity}}.
+
+====Pronunciation 1====
+{{ja-pron|yomi=o|へん|acc=0|acc_ref=DJR,NHK}}
+
+=====Noun=====
+{{ja-noun|style=s|kyu=邊|へん}}
+
+# {{lb|ja|colloquial|sort=へん}} [[place]], [[general]] [[area]], [[vicinity]]
+#: {{ja-usex|彼はその'''辺'''にいるはずだ。|かれ は その '''へん''' に いる はず だ。|He must be '''there or somewhere'''.}}
+
+====Pronunciation 2====
+{{ja-pron|yomi=o|へん|acc=1|acc_ref=DJR,NHK}}
+
+=====Noun=====
+{{ja-noun|style=s|kyu=邊|へん}}
+
+# {{lb|ja|geometry|sort=へん}} the joining [[line]] between two [[vertices]] of a [[polygon]]; [[edge]], [side]
+# {{lb|ja|graph theory|sort=へん}} any of the connected pairs of the [[vertices]] in a [[graph]]; [[edge]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|へ}}
+{{IPAchar|/pe<sub>1</sub>/}} → {{IPAchar|/pe/}} → {{IPAchar|/fe/}} → {{IPAchar|/he/}}
+
+From {{etyl|ojp|ja|sort=へ}}.  The root of the modern Japanese directional particle {{m|ja|へ|tr=e}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|へ|acc=1|acc_ref=DJR}}
+* This pitch accent pattern only applies to the noun sense.
+
+====Alternative forms====
+* {{ja-l|方}} {{non-joyo-reading}}
+
+====Noun====
+{{ja-noun|style=s|kyu=邊|へ}}
+
+# [[place]], [[general]] [[area]], [[vicinity]]
+
+====Suffix====
+{{ja-pos|style=s|kyu=邊|suffix|へ}}
+
+# {{lb|ja|sort=へ|obsolete}} [[place]], [[general]] [[area]], [[vicinity]]
+
+=====Usage notes=====
+The suffix sense underwent phonological changes, with the reading shifting to either ''e'' or ''be''.  See also ''be'' below.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|家|いえ}}: [[home]], [[abode]], [[house]]
+* {{ja-r|古|いにしえ}}: a [[long]] [[time]] [[ago]]
+* {{ja-r|沖辺|おきへ}}: [[offshore]], the [[open]] [[ocean]]
+* {{ja-r|末辺|すえへ}}: the [[area]] towards the [[end]] of something; the area near the [[summit]] of a [[mountain]]
+* {{ja-r|前|まえ}}: [[front]]; [[forward]]
+* {{ja-r|本辺|もとへ}}: the [[area]] towards the [[beginning]] of something; the area near the [[base]] or [[foothill]]s of a [[mountain]]
+* {{ja-r|行方|ゆくえ}}: one's [[destination]], one's [[whereabouts]]
+* {{ja-r|後方|しりえ}}: [[back]]; [[backward]]
+{{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|べ}}
+{{IPAchar|/pe<sub>1</sub>/}} → {{IPAchar|/pe/}} → {{IPAchar|/be/}}
+
+From {{etyl|ojp|ja|sort=へ'}}, from ''pe'' above.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>  {{rendaku2|sort=へ'|he|be}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|べ}}
+
+====Alternative forms====
+* {{ja-l|方}} {{non-joyo-reading}}
+
+====Suffix====
+{{ja-pos|suffix|style=s|kyu=邊|べ}}
+
+# [[place]], [[general]] [[area]], [[vicinity]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|天辺|あまべ}}
+* {{ja-r|海辺|うみべ}}
+* {{ja-r|岡辺|おかべ}}
+* {{ja-r|沖方|おきべ}}: [[offshore]], the [[open]] [[ocean]]
+* {{ja-r|上辺|かみべ}}
+* {{ja-r|川辺|かわべ}}
+* {{ja-r|岸辺|きしべ}}
+* {{ja-r|下辺|しもべ}}
+{{der-bottom}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=k|へた}}
+From {{etyl|ojp|ja|sort=へた}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>  Originally a compound of {{compound|lang=ja|sort=へた|辺|tr1=he|t1=vicinity|pos1=see ''he'' above|た|tr2=ta|t2=place, area|pos2=the same ''ta'' element in {{m|ja|貴方}} ''anata'', now “you” in modern Japanese but previously meaning “that one over there”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|へた}}
+
+====Alternative forms====
+* {{ja-l|端}}
+
+====Noun====
+{{ja-noun|style=s|kyu=邊|へた}}
+
+# {{lb|ja|sort=へた|obsolete}} the [[area]] near something or along the [[edge]] of something
+
+====Suffix====
+{{ja-pos|suffix|style=s|kyu=邊|へた}}
+
+# the [[area]] near something or along the [[edge]] of something
+
+=====Usage notes=====
+In modern Japanese, this changes phonologically into either {{IPAchar|/-ppeta/}} or {{IPAchar|/-beta/}}.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|尻べた|しりべた}}: the [[butt]], the rounded area of one's [[posterior]]
+* {{ja-r|尻っぺた|しりっぺた}}: {{qualifier|emphatic}} the [[butt]], the rounded area of one's [[posterior]]
+* {{ja-r|頬っ辺|ほっぺた}}: the [[area]] around the [[cheek]]s
+{{der-bottom}}
+
+===Etymology 5===
+{{ja-kanjitab|yomi=k|へち}}
+From at least the late {{w|Heian period}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  Originally a compound of {{compound|lang=ja|sort=へち|辺|tr1=he|t1=vicinity|pos1=see ''he'' above|ち|tr2=chi|t2=area?|pos2=the same ''chi'' element used to indicate general area in {{m|ja|こち}} ''kochi'', “around here, this area” and related words}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|へち|acc=2|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|端}}
+
+====Noun====
+{{ja-noun|style=s|kyu=邊|へち}}
+
+# {{lb|ja|sort=へた|obsolete}} the [[area]] near something or along the [[edge]] of something
+
+=====Synonyms=====
+* {{ja-r|縁|ふち}}
+* {{ja-r|外れ|はずれ}}
+* {{ja-r|辺|ほとり}} {{qualifier|see below}}
+
+===Etymology 6===
+{{ja-kanjitab|yomi=k|ほとり}}
+From at least the {{w|Heian period}}.<ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>  Appears to be a compound or conjugation, but the ultimate derivation is {{unk.|nocap=1|lang=ja|sort=ほとり}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|ほとり|acc=0|acc_ref=DJR|acc2=3|acc2_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|畔}}
+
+====Noun====
+{{ja-noun|style=s|kyu=邊|ほとり}}
+
+# the [[area]] near something or along the [[edge]] of something
+# those [[people]] who are [[close]] to someone in terms of [[social]] [[relationship]]s
+
+===Etymology 7===
+{{ja-kanjitab|yomi=irr|なべ}}
+Appears to be a compound of {{compound|lang=ja|sort=なべ|な|tr1=na|pos1=alternative form of {{m|ja|の}} ''no'', the possessive particle|辺|tr2=be|t2=vicinity|pos2=see ''be'' above}}.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|なべ}}
+
+====Suffix====
+{{ja-pos|suffix|style=s|kyu=邊|なべ}}
+
+# [[vicinity]], [[area]]
+
+=====Usage notes=====
+Only found in names.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|川%辺|^かわ%なべ}}: a place in {{w|Kagoshima Prefecture}}
+* {{ja-r|神%辺|^かん%なべ}}: a place in {{w|Hiroshima Prefecture}}
+* {{ja-r|田%辺|^た%なべ}}: a [[surname]]; a place in {{w|Wakayama Prefecture}}; a place in {{w|Kyoto Prefecture}}
+* {{ja-r|渡%辺|^わた%なべ}}: a [[surname]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Mathematics|へん]]
+
+[[fr:辺]]
+[[ko:辺]]
+[[lo:辺]]
+[[hu:辺]]
+[[mg:辺]]
+[[ja:辺]]
+[[uz:辺]]
+[[pl:辺]]
+[[pt:辺]]
+[[th:辺]]
+[[chr:辺]]
+[[vi:辺]]
+[[zh:辺]]

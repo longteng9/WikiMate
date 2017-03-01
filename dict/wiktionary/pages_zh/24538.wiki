@@ -1,0 +1,64 @@
+{{character info/new}}
+{{also|脺}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=12|sn=16|four=74248|canj=BTYJ|ids=⿰肉萃}}
+
+# [[pancreas]]
+
+====References====
+* {{Han ref|kx=0996.111|dkj=29920|hdz=32106.100|uh=81B5|ud=33205|bh=EAEC|bd=60140}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=cuì
+|c=seoi6,ceoi3
+|mn=chūi
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉12}}
+
+# {{defn|lang=ja|sort=肉12}}
+
+====Readings====
+* {{ja-readings|on=[[すい]] (sui)|kun=|nanori=}}
+
+====Compounds====
+* {{ja-r|膵臓|すいぞう}}
+* {{ja-r|膵島|すいとう}}
+* {{ja-r|膵癌|すいがん}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=췌|eumhun=|rv=chwe|mr=ch'we|y=chwey}}
+
+# {{defn|lang=ko|sort=肉12}}
+
+[[fr:膵]]
+[[hu:膵]]
+[[mg:膵]]
+[[ja:膵]]
+[[pl:膵]]
+[[th:膵]]
+[[vi:膵]]
+[[zh:膵]]

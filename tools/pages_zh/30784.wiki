@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|虽}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=172|rad=隹|as=09|sn=17|four=60114|canj=RIOG|ids=⿰虽隹}}
+
+====References====
+* {{Han ref|kx=1368.220|dkj=42104|dj=1872.390|hdz=64103.050|uh=96D6|ud=38614|bh=C1F6|bd=49654}}
+
+----
+
+==Chinese==
+{{zh-forms|s=虽}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|虫|唯|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=suī
+|c=seoi1
+|h=pfs=sûi
+|md=chŭi
+|mn=sui
+|mn-t=sui1
+|w=1soe
+|mc=y
+|oc=y
+|ma=Zh-sui.ogg
+|cat=adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[although]]; [[even if]]
+#: {{zh-x|麻雀雖小，五臟俱全|A sparrow '''may be''' small, '''but''' it has all its vital organs. [proverb]}}
+#: {{zh-x|在 你 身邊 路 雖 遠 未 疲倦|By your side, '''although''' the road is long, I am still not tired|C-LIT|ref={{w2|zh|鄧麗君}} (lyricist {{w2|zh|鄭國江}}), {{w2|zh|漫步人生路}}}}
+
+===Compounds===
+{{zh-der|雖然:although|雖說:although|然雖|雖休勿休|雖敗猶榮|雖覆能復|雖故|雖死猶生|話雖如此|雖然如此|雖則}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=隹09}}
+
+# {{defn|lang=ja|sort=隹09}}
+
+====Readings====
+* {{ja-readings|on=[[すい]] (sui)|kun=[[いえども]] (iedomo)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=隹09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|tuy|rs=隹09}}
+
+# {{defn|vi}}
+
+[[fr:雖]]
+[[ko:雖]]
+[[hu:雖]]
+[[mg:雖]]
+[[ja:雖]]
+[[pl:雖]]
+[[th:雖]]
+[[zh:雖]]

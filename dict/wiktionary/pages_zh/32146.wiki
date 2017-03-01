@@ -1,0 +1,90 @@
+{{character info/new}}
+{{also|鲛}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=06|sn=17|four=20348|canj=NFYCK}}
+
+# [[shark]]
+
+====References====
+* {{Han ref|kx=1469.220|dkj=46127|dj=2002.190|hdz=74688.040|uh=9BAB|ud=39851|bh=C242|bd=49730}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鲛}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiāo
+|c=gaau1
+|h=pfs=
+|md=
+|mn=kau
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚06}}
+
+# [[shark]]
+
+====Readings====
+{{ja-readings|kanon=[[きょう]] (kyō)|goon=[[こう]] (kō)|kun=[[さめ]] (same), [[みずち]] (mizuchi)}}
+
+===Pronunciation===
+{{wikipedia|lang=ja|サメ}}
+{{ja-kanjitab|さめ|yomi=k}}
+{{ja-pron|acc=0|さめ|y=k}}
+
+===Noun===
+{{ja-noun|さめ|サメ}}
+
+# a [[shark]] {{gl|fish}}
+
+====Usage notes====
+{{U:ja:biology|サメ}}
+
+{{C|ja|Sharks|sort=さめ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=교|eumhun=|rv=gyo|mr=kyo|y=kyo}}
+
+# {{defn|lang=ko|sort=魚06}}
+
+[[bg:鮫]]
+[[es:鮫]]
+[[fr:鮫]]
+[[ko:鮫]]
+[[lo:鮫]]
+[[la:鮫]]
+[[lt:鮫]]
+[[li:鮫]]
+[[hu:鮫]]
+[[mg:鮫]]
+[[ja:鮫]]
+[[pl:鮫]]
+[[sm:鮫]]
+[[sv:鮫]]
+[[th:鮫]]
+[[zh:鮫]]

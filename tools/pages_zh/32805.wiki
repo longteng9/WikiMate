@@ -1,0 +1,92 @@
+{{character info/new}}
+{{also|鹳}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=18|sn=29|four=47227|canj=TGHAF}}
+
+====References====
+* {{Han ref|kx=1504.390|dkj=47500|dj=2034.110|hdz=74670.220|uh=9E1B|ud=40475|bh=C67C|bd=50812}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鹳}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|雚|鳥|c1=p|c2=s|t2=bird|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=guàn
+|c=gun3
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[crane]] (''[[Grus japonensis]]'')
+# [[stork]]
+
+====Compounds====
+{{zh-der|白鸛|鸛骨|鸛雀樓|鵝鸛}}
+
+----
+
+==Japanese==
+[[file:Bocian czarnodzioby Ciconia boyciana RB7.jpg|thumb|right|200px|鸛 (kōnotori)]]
+
+===Kanji===
+{{ja-kanji|grade=|rs=鳥18}}
+
+# {{defn|lang=ja|sort=鳥18}}
+
+====Readings====
+* {{ja-readings|goon=[[かん]] (kan)|kanon=[[かん]] (kan)|kun=[[こうのとり]] (kōnotori)}}
+
+===Etymology===
+{{wikipedia|コウノトリ|lang=ja}}
+{{ja-kanjitab|こうのとり|yomi=k}}
+{{compound|鵠|tr1=[[kō]]|t1=[[swan]]|の|tr2=[[no]]|t2=[['s]]|鳥|tr3=[[tori]]|t3=[[bird]]|lang=ja|sort=こうのとり}}
+
+===Pronunciation===
+{{ja-pron|こうのとり|acc=3|acc2=a|acc_ref=NHK,DJR|acc2_ref=NHK,DJR|y=k}}
+
+===Noun===
+{{ja-noun|こうのとり|コウノトリ|hhira=こふのとり}}
+
+# [[w:Oriental stork|Oriental]] [[stork]] {{qualifier|[[Ciconia boyciana]]}}
+
+====Derived terms====
+* {{l|ja|朱嘴鸛|tr=[[shubashikō]]||[[white stork]]}}
+
+===References===
+<references/>
+[[Category:ja:Storks|こうのとり]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=관|eumhun=|rv=gwan|mr=kwan|y=kwan}}
+
+# {{defn|lang=ko|sort=鳥18}}
+
+[[fr:鸛]]
+[[ko:鸛]]
+[[kn:鸛]]
+[[lt:鸛]]
+[[hu:鸛]]
+[[mg:鸛]]
+[[ja:鸛]]
+[[pl:鸛]]
+[[ro:鸛]]
+[[sv:鸛]]
+[[th:鸛]]
+[[vi:鸛]]
+[[zh:鸛]]

@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|凯}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=16|rad=几|as=10|sn=12|four=27110|canj=UTHN|ids=⿰豈几}}
+
+# [[triumphant]]
+# [[triumph]], [[victory]]
+
+====References====
+* {{Han ref|kx=0134.310|dkj=01790|dj=0300.170|hdz=10278.130|uh=51F1|ud=20977|bh=B3CD|bd=46029}}
+
+----
+
+==Chinese==
+{{zh-forms|s=凯}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|豈|几}}.
+
+===Pronunciation===
+{{zh-pron
+|m=kǎi
+|c=hoi2,ngoi2
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[凯歌]]
+* [[凯旋]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=几10}}
+
+# {{defn|lang=ja|sort=几10}}
+
+====Readings====
+* {{ja-readings|goon=[[かい]] (kai)|kanon=[[かい]] (kai)|kanyoon=[[がい]] (gai)|kun=[[かちどき]] (kachidoki), [[やわらぐ]] (yawaragu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=개|rv=gae|mr=kae}}
+
+# {{defn|lang=ko|sort=几10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khải]], [[ngai]]|rs=几10}}
+
+# {{defn|lang=vi|sort=几10}}
+
+[[de:凱]]
+[[fr:凱]]
+[[ko:凱]]
+[[hu:凱]]
+[[mg:凱]]
+[[ms:凱]]
+[[ja:凱]]
+[[pl:凱]]
+[[th:凱]]
+[[chr:凱]]
+[[zh:凱]]

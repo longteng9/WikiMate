@@ -1,0 +1,117 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=12|sn=15|four=67027|canj=RJAL|ids=⿰口都}}
+
+# [[sound]] of [[horn]] [[toot]]ing
+
+====References====
+* {{Han ref|kx=0209.151|dkj=04328|hdz=10664.130|uh=561F|ud=22047|bh=B9CA|bd=47562}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=dū
+|c=dou1
+|h=
+|md=
+|mn=
+|w=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=dū
+|c=dyut1
+|h=
+|md=
+|mn=
+|w=
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[pout]] {{attention|zh|cantodict says "cantonese only" but a google search for "嘟嘴" doesn't seem to support this}}
+#: {{zh-usex|嘟{dyut1} 長 個 嘴|to [[pout]] (lit. ''to pout long one's mouth'')|C}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=dū
+|c=dut1,dyut1
+|h=
+|md=
+|mn=
+|w=
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|of a car}} to [[honk]]; to [[beep]]
+# {{lb|zh|Cantonese}} to [[tap]] a [[card]]; to [[swipe]] a [[card]]
+#: {{zh-x|嘟{dut1} 八達通|to tap an {{w|Octopus card}}|C}}
+
+=====Compounds=====
+{{zh-der|嘟嘟響|嘟嘟聲|嘟嘟}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口12}}
+
+# {{defn|lang=ja|sort=口12}}
+
+====Readings====
+* {{ja-readings|on=[[と]] (to), [[ず]] (zu)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=도|rv=do|mr=to}}
+
+# {{defn|lang=ko|sort=口12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đua]], [[đùa]], [[đô]]|rs=口12}}
+
+# {{defn|lang=vi|sort=口12}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=561f Nom Foundation]
+
+[[fr:嘟]]
+[[li:嘟]]
+[[hu:嘟]]
+[[mg:嘟]]
+[[pl:嘟]]
+[[th:嘟]]
+[[chr:嘟]]
+[[zh:嘟]]

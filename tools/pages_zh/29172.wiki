@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=164|rad=酉|as=11|sn=18|four=17622|canj=MWSMH}}
+
+====References====
+* {{Han ref|kx=1287.110|dkj=40004|dj=1787.110|hdz=63597.020|uh=91AA|ud=37290|bh=F152|bd=61778}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Sino-Tibetan: {{cog|bo|རུ་མ||curdled milk}}, {{cog|kac||ru<sup>31</sup>-|liquor}}. Similar-looking words in Tai-Kadai may be Han or post-Han loans; cf. {{cog|tai-pro|*ʰlawᶜ||liquor}} ({{cog|th|เหล้า}}).
+
+===Pronunciation===
+{{zh-pron
+|m=láo
+|c=lou4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# unclear [[wine]], wine with [[dregs]]
+# {{w|Jiuniang}} {{gloss|sweet, soup- or pudding-like dish in Chinese cuisine}}
+#: {{zh-syn|醪糟}}
+# {{lb|zh|TCM}} [[poisonous]] [[wine]]
+#: {{zh-syn|醪醴}}
+# [[full-bodied]] wine
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=酉11}}
+
+# {{defn|lang=ja|sort=酉11}}
+
+====Readings====
+* {{ja-readings|on=[[ろう]] (rō)|kun=[[にごりざ]] (nigoriza)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[료]]>[[요]]|eumhun=|rv=ryo>yo|mr=ryo>yo|y=lyo>yo}}
+
+# {{defn|lang=ko|sort=酉11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lao]]|rs=酉11}}
+
+# {{defn|lang=vi|sort=酉11}}
+
+[[fr:醪]]
+[[hu:醪]]
+[[mg:醪]]
+[[ja:醪]]
+[[pl:醪]]
+[[th:醪]]
+[[zh:醪]]

@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|てい|じ|ろ|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|ていじろ|acc=3|y=o}}
+* {{a|Osaka}} {{ja-accent-common|nakadaka|てい|じ|ろ}}
+
+===Noun===
+{{ja-noun|ていじろ}}
+
+# {{lb|ja|formal|sort=ていしろ}} [[T-junction]]
+
+====Usage note====
+This term is seldom used. The more common term for ''T-junction'' is {{ja-r|T%字%路|T%じ%ろ|rom=tījiro}}.
+
+====Synonyms====
+* {{ja-r|T%字%路|T%じ%ろ|rom=tījiro}}
+
+====Related terms====
+* {{ja-r|三%差%路|さん%さ%ろ}}
+* {{ja-r|三%叉%路|さん%さ%ろ}}
+
+{{C|ja|Roads|sort=ていしろ}}
+
+[[hu:丁字路]]
+[[zh:丁字路]]

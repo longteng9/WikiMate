@@ -1,0 +1,94 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=08|sn=15|four=62163|canj=RMEA|ids=⿰足沓}}
+
+# [[step]] [[on]], [[trample]], [[tread]] on
+# [[walk]]
+
+====References====
+* {{Han ref|kx=1227.110|dkj=37602|dj=1699.140|hdz=63716.120|uh=8E0F|ud=36367|bh=BDF1|bd=48625}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tà
+|c=daap6
+|h=pfs=tha̍p
+|md=
+|mn=qz,xm,zz:thap/tw:ta̍p/ta̍h
+|mn_note=thap/ta̍p - literary; ta̍h - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[step]] on; to [[trample]]; to [[tread]] on
+# to [[investigate]] [[onsite]]
+# {{lb|zh|Cantonese}} {{n-g|Used before a number to indicate time, where the number is what the minute hand is pointing to on an analog clock.}}
+#* {{zh-x|踏 三|quarter past|C}}
+#* {{zh-x|踏 九|quarter to|C}}
+#* {{zh-x|踏半|half past|C}}
+#* {{zh-x|踏 八 個 半 字|around 42 past|C}}
+
+===References===
+* {{thcwd|11429}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=足08}}
+
+# {{defn|lang=ja|sort=足08}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (''tō'')|kun=[[ふむ]] ([[踏む]], ''fumu'')|nanori=}}
+
+====Compounds====
+* {{ja-r|舞踏|ぶとう}}: [[butoh]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=답|eumhun=|rv=dap|mr=tap|y=tap}}
+
+# {{defn|lang=ko|sort=足08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đạp]]|rs=足08}}
+
+# {{defn|lang=vi|sort=足08}}
+
+====Compounds====
+* {{l|vi|車踏|tr=xe đạp}}
+
+[[zh-min-nan:踏]]
+[[fr:踏]]
+[[ko:踏]]
+[[hu:踏]]
+[[mg:踏]]
+[[ja:踏]]
+[[no:踏]]
+[[pl:踏]]
+[[th:踏]]
+[[zh:踏]]

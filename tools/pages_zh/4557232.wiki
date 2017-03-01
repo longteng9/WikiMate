@@ -1,0 +1,36 @@
+==Japanese==
+{{ja-kanjitab|かわ|yomi=k|はら}}
+<!--{{ja-kanjitab|か|yomi=k|わら}}-->
+{{wikipedia|lang=ja}}
+
+===Etymology===
+{{compound|lang=ja|河|原|tr1=kawa|t1=[[river]]|tr2=hara|t2=[[plain]]|sort=かわら}}
+{{rfe|ja|Is ''kawara'' the result of ''kawa-wara'' being subjected to haplology?}}
+
+===Alternative forms===
+* {{ja-l|川原}}, {{ja-l|磧}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=k|かわら}}
+
+===Noun===
+{{ja-noun|かわら|hhira=かはら}}<br>{{ja-altread|hhira=かははら|hira=かわはら}}
+
+# [[dry]] [[riverbed]]; [[river]] [[beach]]
+
+====Derived terms====
+* {{ja-r|河%原%鶸|カ%ワラ%ヒワ|gloss=Oriental greenfinch}}
+
+===Proper noun===
+{{ja-pos|proper|かわら|hhira=かはら}}<br>{{ja-altread|hira=かわはら|hhira=かははら|rom=Kawahara}}
+
+# a [[place name]]
+
+{{topics|ja|Landforms|Water|Japan|sort=かわら}}
+
+{{ja-pos|かわはら|proper}}
+
+# {{surname|lang=ja|sort=かわはら}}
+
+[[fr:河原]]
+[[zh:河原]]

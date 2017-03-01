@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|けつ|らく|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|けつらく|y=o}}
+
+===Noun===
+{{ja-noun|けつらく}}
+
+# [[lack]]; [[lacking]]; [[absence]]; [[deficiency]]
+#* '''2015''', Wikipedia, {{w|ja:過剰性能}} (revision 56834187)
+#*: {{ja-usex|機能の'''欠落'''による過剰性能|^きのう の '''けつらく''' に よる かじょう せいのう|Overengineering derived from a '''lack''' of functions}}
+#* '''2013''', {{lang|ja|スズム}}, [http://www5.atwiki.jp/hmiku/pages/25588.html {{lang|ja|へたくそユートピア政策}}]
+#*: {{ja-usex|温室育ちで'''欠落'''知らずの与えられた世界じゃ分からない|おんしつ そだち で '''けつらく''' しらず の あたえられた せかい じゃ わからない|I can't know with this sheltered, perfect world I was given}} {{attention|ja|check translation}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|けつらく}}
+
+# to be [[omit]]ted; to be [[miss]]ing
+#* '''2015''', Wikipedia, {{w|ja:ドロップアウト}} (revision 56828560)
+#*: {{ja-usex|コンピュータ用語で、伝送中のデータから誤って'''欠落した'''文字や画像のデータのこと。|^コンピュータ ようご で、でんそう-ちゅう の データ から あやまって '''けつらく した''' もじ や がぞう の データ の こと。|In computing, text and image data that has been accidentally '''omitted''' from data that is in transmission}}
+#* '''2015''', Wikipedia, {{w|ja:康富記}} (revision 56975671)
+#*: {{ja-usex|永享年間の記述はほぼ全てが'''欠落している'''|^えいきょう ねんかん の きじゅつ は ほぼ すべて が '''けつらく している'''|accounts from the Eikyō period are almost entirely '''missing'''}}
+
+====Conjugation====
+{{ja-suru|けつらく}}
+
+[[zh:欠落]]

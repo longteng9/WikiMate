@@ -1,0 +1,11 @@
+==Japanese==
+{{ja-kanjitab|ない|けい|yomi=on}}
+
+===Noun===
+{{ja-noun|ないけい}}
+
+# [[internal]] shape, internal form
+#: {{ja-usex|この容器は、外形寸法のわりに'''内形'''寸法が小さい。|この ようき は、 がいけい すんぽう の わり に '''ないけい''' すんぽう が ちいさい。|This container has small internal dimensions for its external dimensions.}}
+
+====Antonyms====
+* {{ja-r|外形|がいけい}}: external shape, external form

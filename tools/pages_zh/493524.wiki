@@ -1,0 +1,67 @@
+{{also|共鸣}}
+==Chinese==
+{{zh-forms|s=共鸣}}
+
+===Pronunciation===
+{{zh-pron
+|m=gòngmíng
+|c=gung6 ming4
+|mn=kiōng-bêng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[resonance]]
+# [[sympathy]] {{zh-mw|種}}
+
+====Synonyms====
+* {{zh-l|共振}}
+
+====Derived terms====
+{{zh-der|共鳴音}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きょう|めい|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|きょうめい|yomi=o}}
+
+===Noun===
+{{ja-noun|きょうめい}}
+
+# [[resonance]] of strings etc.
+# [[sympathy]]
+#* '''1945''', 海野十三, 地球発狂事件:
+#*: {{ja-usex|が、この意見は意外にもフランスの共産党によって非常な'''共鳴'''を受けた。|が、 この いけん は いがい に も ^フランス の きょうさんとう に よって ひじょう な '''きょうめい''' を うけた。|But this opinion found an incredible degree of '''sympathy''' in the French Communist Party.}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|きょうめい}}
+
+# to [[resonate]]
+# to [[sympathize]], to be in sympathy with
+
+====Conjugation====
+{{ja-suru|きょうめい}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=공명}}
+
+# {{hanja form of|공명}}
+
+[[ko:共鳴]]
+[[hu:共鳴]]
+[[nl:共鳴]]
+[[ja:共鳴]]
+[[chr:共鳴]]
+[[zh:共鳴]]

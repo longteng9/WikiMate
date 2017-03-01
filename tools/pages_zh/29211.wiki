@@ -1,0 +1,164 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=166|rad=里|as=05|sn=12|four=60104|canj=AMWG|ids=⿱旦里}}
+
+====References====
+* {{Han ref|kx=1292.050|dkj=40138|dj=1794.040|hdz=63683.020|uh=91CF|ud=37327|bh=B671|bd=46705}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=𣊹,𨤥,𨤦}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|曰|t1=speak|重|t2=weight|ls=ic}} – to speak the weight, to measure. In current form graphically {{Han compound|旦|里}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=liáng
+|m-s=niang4
+|c=loeng4
+|h=pfs=liòng
+|md=liòng
+|mn=niû/liông
+|mn_note=niû - vernacular; liông - literary
+|w=3lian
+|mc=1
+|oc=1,1
+|cat=v,mn:n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[measure]]
+# to [[estimate]]; to [[evaluate]]
+# {{lb|zh|Min Nan}} [[big]] [[scale]]s
+
+====Compounds====
+{{zh-der|fold=1|五量店|丈量|不量|唱籌量沙|不可限量|思量|度量|平面測量|三角測量|品量|工程測量|平量|以升量石|水準測量|東量西折|掂量|拇量|毫不思量|稱薪量水|測量學|玉尺量才|斟量|智量|摸量|測量|權量|照相測量|沒量斗|海水難量|測量衛星|斗量車載|路線測量|費商量|量熱計|衡石量書|裁量|量能課稅|考量|計量|量酒人|酌量|籌量|車載斗量|限量|量匙|量度|量體裁衣|量杯|評量|量角器|費思量|量雨表|衡量|胡思亂量|論量|量測|端量|量酒|量筒|量具|量值|自由裁量}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=liàng
+|m-s=niang4
+|c=loeng6
+|h=pfs=liong
+|md=liông
+|mn=niū/liōng
+|mn_note=niū - vernacular; liōng - literary
+|w=3lian
+|mc=2
+|oc=2,2
+|cat=n,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|historical}} [[measuring]] [[vessel]], such as the ''[[斗|dou]]'' or ''[[斛|hu]]''
+# [[measure]]; [[measurement]]; [[quantity]]
+# [[capacity]]; [[volume]]
+# {{lb|zh|Hinduism}} [[pramana]]
+# to [[estimate]]; to [[approximate]]
+
+====Compounds====
+{{zh-der|多量|夠分量|存量|乾量|寬洪大量|分量|含沙量|先識遠量|功德無量|不自量|不量力|小量|不自量力|少量|向量|劑量|寬宏大量|四無量心|儘量|器量|含量|光通量|恆量|志量|忖量|屈量|弘量|加氯量|度量衡|度量器|度德量力|年產量|吞吐量|常量|儲水量|局量|充其量|公路容量|寬洪海量|克當量|微量元素|定量|宇量|垃圾量|原子量|大量|估量|大福大量|大人大量|交通量|吸收劑量|微量|含水量|化學當量|不定量|前途無量|交通流量|不料量|放量|流量|排水量|比量齊觀|比權量力|無量壽佛|打量|矢量|無量|漁獲量|產量|成交量|碩量|盡量|批量|海量|極量|洪量|生產量|物理量|無量壽經|未可限量|水量|有量|數量詞|數量|落塵量|載客量|肺活量|量變|雅量|能量|等量齊觀|記憶容量|等量|量力而為|重量級|過量|軌量|量雅|量產|酒量|質量數|間量|錙銖較量|自量|雨量|適量|肚量|較時量力|道路容量|載重量|風量|藥量|量材錄用|腦量|自不量力|量子力學|較短量長|音量|量小易盈|量感|量出制入|衝量|銖銖校量|食量|輕量貨幣|量小力微|量大|負荷量|量窄|量小氣窄|雲量|電量|雨量器|複合量詞|降水量|運量|量入為出|量輕|量販|量詞|量腹取足|量移|量淺|量時度力|量才錄用|量力而行|量刑|重量|量販店|量化|血量|聲量|銷量|較量|膽量|跑道容量|質量|羽量級|識量弘恢|量如江海}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=里05}}
+
+====Readings====
+{{ja-readings|goon=[[りょう]] (ryō)|kanon=[[りょう]] (ryō)|kun=[[はかる]] (hakaru)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|音量|おんりょう}}: [[sound]] [[volume]]
+* {{ja-r|狭量|きょうりょう}}
+* {{ja-r|斤量|きんりょう}}: [[weight]]
+* {{ja-r|計量|けいりょう}}
+* {{ja-r|考量|こうりょう}}
+* {{ja-r|降水量|こうすいりょう}}
+* {{ja-r|少量|しょうりょう}}, {{ja-r|小量|しょうりょう}}
+* {{ja-r|定量|ていりょう}}
+* {{ja-r|量感|りょうかん}}
+* {{ja-r|量産|りょうさん}}
+* {{ja-r|量子|りょうし}}: [[quantum]]
+{{der-bottom}}
+
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|りょう|yomi=o}}
+From {{etyl|ltc|ja|sort=りょう}} {{m|zh|量|tr=ljang<sup>H</sup>||measure}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|りょう|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|りょう|hhira=りやう}}
+
+# [[volume]], amount
+#: {{ja-usex|交通'''量'''|こうつう-'''りょう'''|'''amount''' of traffic}}
+# {{lb|ja|Hinduism|sort=りょう}} [[pramana]]
+
+===Etymology 2===
+{{ja-kanjitab|はか|yomi=k}}
+Cognate with {{m|ja|計り|tr=hakari}}.<ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|はか|acc=2|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|捗}}, {{ja-l|果}}, {{ja-l|計}}
+
+====Noun====
+{{ja-noun|はか}}
+
+# [[progress]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[량]]>[[양]]|eumhun=|rv=ryang>yang|mr=ryang>yang|y=lyang>yang}}
+
+# {{defn|lang=ko|sort=里05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lường]], [[lượng]], [[nhân]]|rs=里05}}
+
+# {{defn|lang=vi|sort=里05}}
+
+[[zh-min-nan:量]]
+[[es:量]]
+[[fr:量]]
+[[ko:量]]
+[[lo:量]]
+[[li:量]]
+[[hu:量]]
+[[mg:量]]
+[[fj:量]]
+[[ja:量]]
+[[no:量]]
+[[pl:量]]
+[[ru:量]]
+[[th:量]]
+[[chr:量]]
+[[vi:量]]
+[[zh:量]]

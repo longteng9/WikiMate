@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=rènyì
+|c=jam6 ji3
+|h=pfs=ngim-yi
+|mn=qz,tp,xm:līm-ì/kh,zz:jīm-ì
+|ma=Zh-rènyì.ogg
+|cat=adv,a
+}}
+
+===Adverb===
+{{zh-adv}}
+
+# as one pleases; as one likes; whatever one wants
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[arbitrary]]; [[willful]]
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|にん|い|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|にんい|y=o|acc=1|acc_ref=NHK}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|にんい}}
+
+# [[arbitrary]], as one wants or thinks
+# [[free]], up to a person, according to their will, [[voluntary]]
+
+====Inflection====
+{{ja-na|にんい}}
+
+===Noun===
+{{ja-noun|にんい}}
+
+# [[any]] [[choice]]s, [[arbitrary]] [[selection]]s
+# [[free]] [[will]]
+
+===Derived terms===
+* {{ja-r|任意性|にんいせい}}: [[facultativity]]
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[zh-min-nan:任意]]
+[[ko:任意]]
+[[hu:任意]]
+[[mg:任意]]
+[[ja:任意]]
+[[chr:任意]]
+[[zh:任意]]

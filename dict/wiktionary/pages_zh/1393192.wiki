@@ -1,0 +1,65 @@
+{{also|到来}}
+==Chinese==
+{{zh-forms|s=到来}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàolái
+|c=dou3 lei4,dou3 lai4,dou3 loi4
+|h=pfs=to-lòi
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[arrive]]
+
+===Noun===
+{{zh-noun}}
+
+# [[arrival]]; [[advent]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|らい|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=とうらい}} compound {{m|zh|到來|tr=taw<sup>H</sup> loj|lit=to arrive + to come}}.  Compare modern {{etyl|cmn|-}} reading ''dàolái'', {{etyl|yue|-}} ''dou<sup>3</sup> lei<sup>4</sup>'', {{etyl|hak|-}} ''to-lòi''.
+
+===Pronunciation===
+{{ja-pron|yomi=o|とうらい|acc=0|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|とうらい|hhira=たうらい|shin=到来}}
+
+# {{kyujitai spelling of|到来|lang=ja}}: [[arrival]]
+# {{kyujitai spelling of|到来|lang=ja}}: [[beginning]], [[start]]
+#: {{ja-usex|混亂期の'''到來'''|こんらん-き の '''とうらい'''|the '''beginning''' of a chaotic period}}
+
+====Antonyms====
+* {{sense|beginning}} {{ja-r|終結|しゅうけつ}}
+
+===Verb===
+{{ja-verb-suru|とうらい|hhira=たうらい|shin=[[到来]][[する]]}}
+
+# {{kyujitai spelling of|到来|lang=ja}}: to [[arrive]]
+# {{kyujitai spelling of|到来|lang=ja}}: to [[begin]], to [[start]]
+#: {{ja-usex|登山の時期が'''到來'''した。|とざん の じき が '''とうらい''' した。|The season of mountain climbing has '''begun'''.}}
+
+====Conjugation====
+{{ja-suru|とうらい}}
+
+====Synonyms====
+* {{sense|begin}} {{ja-r|始まる|はじまる}}
+
+===References===
+<references/>
+
+[[ko:到來]]
+[[hu:到來]]
+[[mg:到來]]
+[[ja:到來]]

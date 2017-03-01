@@ -1,0 +1,66 @@
+{{also|太阳系}}
+==Chinese==
+{{zh-forms|s=太阳系|type=21|2=system}}
+{{zh-wp|zh|yue}}
+
+===Pronunciation===
+{{zh-pron
+|m=Tàiyángxì
+|c=taai3 joeng4 hai6
+|h=pfs=thai-yòng-he/thai-yòng-ne
+|mn=qz,tw,xm:thài-iông-hē/zz:thài-iâng-hē
+|cat=pn,n
+}}
+
+===Proper noun===
+{{zh-propn}}
+
+# {{lb|zh|astronomy}} the [[Solar System]]
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|astronomy}} [[solar system]]
+
+{{zh-cat|Sun|Celestial bodies|Systems}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|たい|よう|けい|yomi=o}}
+
+===Etymology===
+{{suffix|ja|太陽|系|tr1=taiyō|t1=[[sun]]|tr2=kei|t2=[[system]]|sort=たいようけい}}
+
+===Pronunciation===
+{{ja-pron|acc=h|acc2=3|y=ko|たいようけい}}
+
+===Proper noun===
+{{ja-pos|たいようけい|hhira=たいやうけい|proper}}
+
+# {{lb|ja|astronomy|sort=たいようけい}} the [[Solar System]]
+
+===References===
+* {{R:Kojien}}
+
+[[Category:ja:Sun|たいようけい]]
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Proper noun===
+{{ko-propn|hangeul=태양계|mr=T'aeyanggye|y=Thayyangkyey}}
+
+# {{hanja form of|태양계|[[Solar System]]}}
+
+[[fr:太陽系]]
+[[ko:太陽系]]
+[[lo:太陽系]]
+[[lt:太陽系]]
+[[hu:太陽系]]
+[[ja:太陽系]]
+[[ru:太陽系]]
+[[sv:太陽系]]
+[[zh:太陽系]]

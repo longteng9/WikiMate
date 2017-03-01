@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=11|sn=14|four=52014|canj=QUOG|ids=⿰扌崔}}
+
+# [[destroy]], [[break]], [[injure]]
+
+====References====
+* {{Han ref|kx=0450.230|dkj=12609|dj=0801.070|hdz=31946.080|uh=6467|ud=25703|bh=BA52|bd=47698}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cuī
+|c=ceoi1,ceoi4
+|mn=chhôe
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|勢如摧山|勢若摧枯|地崩山摧|堅不可摧|天摧地塌|崩摧|悲摧|拉朽摧枯|摧剛為柔|摧剝|摧堅|摧堅殪敵|摧堅獲醜|摧堅陷陣|摧壞|摧山攪海|摧心剖肝|摧志屈道|摧折|摧挫|摧撓|摧敗|摧枯折腐|摧枯拉朽|摧殘|摧毀|摧燒|摧眉|摧眉折腰|摧絕|摧胸破肝|摧花斫柳|摧藏|摧蘭折玉|摧身碎首|摧辱|摧鋒陷陣|摧陷|摧陷廓清|摧頹|摧顏|樹倒根摧|無堅不摧|玉石俱摧|蘭摧玉折|蘭摧蕙折|辣手摧花}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手11}}
+
+# {{defn|lang=ja|sort=手11}}
+
+====Readings====
+* {{ja-readings|on=[[さい]] (sai), [[さ]] (sa), [[すい]] (sui)|kun=[[くだく]] (kudaku), [[おす]] (osu), [[ひく]] (hiku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=최|eumhun=|rv=choe|mr=ch'oe|y=choy}}
+
+# {{defn|lang=ko|sort=手11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手11|hanviet=[[chuôi]], [[tòi]], [[tồi]]}}
+
+# {{defn|lang=vi|sort=手11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6467 Nom Foundation]
+
+[[zh-min-nan:摧]]
+[[fr:摧]]
+[[ko:摧]]
+[[hu:摧]]
+[[mg:摧]]
+[[ja:摧]]
+[[no:摧]]
+[[pl:摧]]
+[[th:摧]]
+[[zh:摧]]

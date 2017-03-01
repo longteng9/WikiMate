@@ -1,0 +1,36 @@
+{{also|虛數}}
+==Chinese==
+{{zh-see|虛數}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|きょ|すう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|きょすう|acc=2|y=o}}
+
+===Noun===
+{{ja-noun|きょすう|kyu=虛數}}
+
+# {{lb|ja|complex analysis|sort=きょすう}} [[imaginary number]]
+
+====Related terms====
+{{top2}}
+* {{ja-r|自然数|しぜんすう}}: [[natural number]]
+* {{ja-r|整数|せいすう}}: [[integer]]
+{{mid2}}
+* {{ja-r|実数|じっすう}}: [[real number]]
+* {{ja-r|複素数|ふくそすう}}: [[complex number]]
+{{bottom}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[fr:虚数]]
+[[lo:虚数]]
+[[hu:虚数]]
+[[ja:虚数]]
+[[fi:虚数]]
+[[zh:虚数]]

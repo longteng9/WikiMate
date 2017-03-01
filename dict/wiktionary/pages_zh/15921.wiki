@@ -1,0 +1,121 @@
+{{character info/new}}
+{{also|咸|戓}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=62|rad=戈|as=04|sn=8|four=53100|canj=IRM|ids=⿹戈⿱口一}}
+
+====Usage notes====
+While 或 is both a traditional and simplified character (it was not simplified), it ''is'' simplified as a component of the character [[國]] → [[国]].
+
+====Derived characters====
+* [[域]], [[掝]], [[淢]], [[惐]], [[琙]], [[棫]], [[稢]], [[聝]], [[戫]], [[蜮]], [[緎]], [[馘]], [[罭]], [[窢]], [[惑]], [[閾]] ([[阈]]), [[國]] ([[国]]), [[魊]], [[彧]], [[𢨋]]
+
+====References====
+* {{Han ref|kx=0412.180|dkj=11563|dj=0754.170|hdz=21402.080|uh=6216|ud=25110|bh=A9CE|bd=43470}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|戈|口|一|ls=ic}}, “territory”.
+
+Borrowed for abstract meanings. The derivative {{och-l|國}} and {{och-l|域}} refer to the original word.
+
+Note that {{zh-l|*咸}} is not derived from {{lang|zh|或}}, and that the characters {{lang|zh|口}} and {{lang|zh|一}} are stacked in the opposite order in these characters. Both are ultimately from {{zh-l|*戈|halberd, spear}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=huò
+|c=waak6
+|h=pfs=fe̍t
+|mn=he̍k
+|w=5hhoq,5hhueq
+|mc=y
+|oc=1,1
+|ma=Zh-huò.ogg
+|cat=con,adv,pron,det
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[or]], either ... or
+#: {{zh-x|^中國 或 ^日本|China '''or''' Japan}}
+#: {{zh-x|或多或少|[[more or less]], some amount}}
+#* {{zh-x|可以 說 兩 種 或 兩 種 以上 的 語言|able to speak two '''or''' more languages}}
+# [[perhaps]], [[maybe]]
+#* {{zh-x|代表團 已 出發， 明天 上午 或 可 到達。|The delegation has set out, and will '''probably''' arrive tomorrow morning.}}
+# [[occasionally]], [[sometimes]]
+# {{†}} [[someone]], [[some]] people, [[something]]
+#* {{zh-x|齊 人 伐 燕，勝 之。宣 王 問 曰：「或 謂 寡人 勿 取，或 謂 寡人 取 之」。|Qi attacked Yan, conquering it. King Xuan said: "'''Some people''' tell me not to take it [Yan] for myself; '''some''' tell me to take it".|CL}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=yù
+|c=wik6
+|dial=n
+|oc=2,n
+|ma=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{zh-original|域|range, territory}}
+# {{†}} {{zh-original|國|country}}
+
+===Compounds===
+{{zh-der|不可或缺|倘或|偶或|即或|多言或中|容或|或人|或則|或是|或時|或曰|或有|或然率|或缺|或者|或許|或謂|或體|抑或|甚或|設或|間或}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=戈04}}
+
+# {{defn|lang=ja|sort=戈04}}
+
+====Readings====
+{{ja-readings|goon=[[わく]] (waku)|kanon=[[こく]] (koku)|kun=[[ある]] (aru), [[あるいは]] (arui wa)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=혹|eumhun=|rv=hok|mr=hok|y=hok}}
+
+# {{defn|lang=ko|sort=戈04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hoặc]], [[hoắc]]|rs=戈04}}
+
+# {{defn|lang=vi|sort=戈04}}
+
+[[es:或]]
+[[fr:或]]
+[[ko:或]]
+[[hr:或]]
+[[lt:或]]
+[[hu:或]]
+[[mg:或]]
+[[fj:或]]
+[[ja:或]]
+[[no:或]]
+[[pl:或]]
+[[th:或]]
+[[chr:或]]
+[[tr:或]]
+[[uk:或]]
+[[zh:或]]

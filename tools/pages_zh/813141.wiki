@@ -1,0 +1,19 @@
+{{also|组合语言}}
+==Chinese==
+{{zh-forms|s=组合语言|type=22}}
+
+===Pronunciation===
+{{zh-pron
+|m=zǔhé yǔyán
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Taiwan|_|Mandarin|computing}} [[assembly language]]
+
+====Synonyms====
+* {{qualifier|PRC}} {{zh-l|匯編語言}}
+
+[[ko:組合語言]]

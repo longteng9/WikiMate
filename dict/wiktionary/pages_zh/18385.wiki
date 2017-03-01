@@ -1,0 +1,100 @@
+{{character info/new}}
+{{also|比}}
+==Translingual==
+{{stroke order|strokes=6}}
+
+===Han character===
+{{Han char|rn=77|rad=止|as=02|sn=6|four=21110|canj=YMP|ids=⿰止匕}}
+
+====Derived characters====
+* [[紫]]
+
+====References====
+* {{Han ref|kx=0574.100|dkj=16259|dj=0964.030|hdz=21438.030|uh=6B64|ud=27492|bh=A6B9|bd=42681}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|止|人|ls=ic|t1=stop|t2=person}} – where a person stops; here.
+
+Alternatively, this may be the original form of {{och-l|跐|to stamp, to stop, to stand}}.
+
+===Pronunciation===
+{{zh-pron
+|m=cǐ
+|c=ci2
+|h=pfs=chhṳ́
+|mn=chhú
+|w=2tshr
+|mc=y
+|oc=y
+|ma=Zh-ci.ogg
+|cat=det,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|literary}} [[this]]
+#: {{zh-x|此 號碼 無法 接通。|'''This''' number cannot be reached.}}
+# {{lb|zh|literary}} [[here]]
+#: {{zh-x|請 按 此。|Please press '''here'''.}}
+
+====Synonyms====
+{{zh-dial|這}}
+{{zh-dial|這裡}}
+
+===Compounds===
+{{zh-der|一寒如此|一至於此|不分彼此|不枉此生|不虛此生|不虛此行|不過如此|並無此事|人同此心|以此|以此類推|准此|出此下策|到此一遊|前此|厚彼薄此|厚此薄彼|原來如此|命該如此|因此|因此上|在此一舉|在此存照|外此|多此一舉|奉此|如此|如此這般|就此|就此打住|就此罷手|彼倡此和|彼唱此和|彼此|從此|挹彼注此|據此|故此|昉此|有鑑於此|有鑒於此|果然如此|樂此不倦|樂此不疲|樹猶如此|欽此|欽此欽遵|此事體大|此仆彼起|此刻|此君|此唱彼和|此問彼難|此地|此外|此家|此岸|此後|此時|此時此刻|此生|此發彼應|此舉|此豸|此起彼伏|此起彼落|此道|此間|泐此|滅此朝食|特此|由此|當此|立此存照|等因奉此|纔此|自此|莫此為甚|話雖如此|諸如此例|諸如此類|豈有此理|這般如此|過此以往|長此以往|除此之外|雖然如此|顧此失彼}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=止02}}
+
+# Proximal demonstrative prefix, this (near speaker)
+
+====Readings====
+* {{ja-readings|goon=[[し]] (shi)|kanon=[[し]] (shi)|kun=[[ここ]] (koko), [[これ]] (kore), [[この]] (kono)}}
+
+====Compounds====
+* {{ja-r|此れ|これ}}
+* {{ja-r|此の|この}}
+* {{ja-r|此処|ここ}}
+* {{ja-r|此方|こちら}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=차|eumhun=|rv=cha|mr=ch'a|y=cha}}
+
+# {{defn|lang=ko|sort=止02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thử]], [[nảy]], [[thửa]]|rs=止02}}
+
+# {{defn|lang=vi|sort=止02}}
+
+[[zh-min-nan:此]]
+[[fr:此]]
+[[ko:此]]
+[[hu:此]]
+[[mg:此]]
+[[nl:此]]
+[[ja:此]]
+[[no:此]]
+[[pl:此]]
+[[th:此]]
+[[zh:此]]

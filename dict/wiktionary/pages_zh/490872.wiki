@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bìxiū
+|c=bit1 sau1
+|mn=pit-siu
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{qualifier|of a course, textbook, etc}} [[required]]; [[compulsory]]
+
+====Derived terms====
+{{zh-der|必修課}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひつ|k1=ひっ|しゅう|yomi=on}}
+
+===Noun===
+{{ja-noun|ひっしゅう}}
+
+# a must-study, a must-learn; a required course.
+#: {{ja-usex|日本語 会話の授業は必修です。|にほんご かいわ の じゅぎょう は ひっしゅう です。|You '''must take''' Japanese conversation class.}}
+#: {{ja-usex|必修の科目は、５つ あります。|ひっしゅう の かもく は、いつつ あります。|We have five '''compulsory''' subjects.}}
+#: {{ja-usex|卒業まで の必修は何です か？|そつぎょう まで の ひっしゅう は なん です か？|What are the '''requirements''' before graduating?}}
+
+===References===
+* {{R:Kojien}}
+
+[[zh-min-nan:必修]]
+[[ko:必修]]
+[[ja:必修]]
+[[zh:必修]]

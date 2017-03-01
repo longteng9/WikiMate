@@ -1,0 +1,67 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=肋gǔ
+|c=lak6 gwat1,laak6 gwat1
+|mn=qz:liak-kut/xm,zz:le̍k-kut
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|skeleton}} [[rib]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|あばら|ほね|k2=ぼね|r=y|yomi=k}}
+Compound of {{com|ja|肋|tr1=abara|t1=[[rib]]|骨|tr2=hone|t2=[[bone]]|sort=あばらぼね}}. {{rendaku2|hone|bone|sort=あばらぼね}}
+
+====Alternative forms====
+* {{ja-l|あばら骨}}
+
+====Pronunciation====
+{{ja-pron|acc=0|acc2=3|acc_ref=DJR,SMK5,NHK|acc2_ref=NHK,SMK5|あばらぼね}}
+
+====Noun====
+{{ja-noun|あばらぼね}}
+
+# {{lb|ja|skeleton|sort=あばらぼね}} a [[rib]]
+# {{lb|ja|of a ship}} a [[frame]]
+
+====See also====
+* {{ja-r|肋%肉|ばら%にく}}
+
+===Etymology 2===
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ろく|こつ|k1=ろっ|yomi=o}}
+Compound of {{com|ja|肋|tr1=roku|t1=[[rib]]|骨|tr2=kotsu|t2=[[bone]]|sort=ろっこつ}}.
+
+====Pronunciation====
+{{ja-pron|acc=0|y=ko|ろっこつ|acc_ref=DJR,SMK5,NHK}}
+
+====Noun====
+{{ja-noun|ろっこつ|hhira=ろくこつ}}
+
+# {{lb|ja|skeleton|sort=ろっこつ}} a [[rib]]
+
+===References===
+<references/>
+
+[[cs:肋骨]]
+[[ko:肋骨]]
+[[hu:肋骨]]
+[[mg:肋骨]]
+[[ja:肋骨]]
+[[pl:肋骨]]
+[[pt:肋骨]]
+[[ru:肋骨]]
+[[fi:肋骨]]
+[[chr:肋骨]]
+[[zh:肋骨]]

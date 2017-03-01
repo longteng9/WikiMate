@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=21249|canj=OMFJ|ids=⿰亻平}}
+
+# [[messenger]], [[emissary]]
+# [[send]] an emissary
+
+====References====
+* {{Han ref|kx=0097.090|dkj=00484|dj=0205.150|hdz=10131.060|uh=4F3B|ud=20283|bh=CA5B|bd=51803}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bēng
+|c=ping4
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人05}}
+
+# messenger
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō), [[ひょう]] (hyō)|kun=[[つかう]] (tsukau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=팽|rv=paeng|mr=p'aeng}}
+
+# {{defn|lang=ko|sort=人05}}
+
+[[zh-min-nan:伻]]
+[[fr:伻]]
+[[li:伻]]
+[[hu:伻]]
+[[pl:伻]]
+[[th:伻]]
+[[vi:伻]]
+[[zh:伻]]

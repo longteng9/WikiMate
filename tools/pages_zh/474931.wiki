@@ -1,0 +1,87 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=不dìng
+|c=bat1 ding6
+|mn=put-tēng
+|cat=a,adv
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[uncertain]]
+# [[unstable]]
+# {{lb|zh|mathematics}} [[indefinite]], of an integral without specified limits
+# {{lb|zh|botany}} [[adventitious]]
+
+===Adverb===
+{{zh-adv}}
+
+# not being certain; not knowing for sure
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|ふ|じょう|yomi=on}}
+
+====Adjectival noun====
+{{ja-adj|infl=な|ふじょう}}
+
+# not [[settled]], not [[fixed]]
+# [[unexpected]], [[surprising]]
+
+=====Inflection=====
+{{ja-na|ふじょう}}
+
+====Noun====
+{{ja-noun|ふじょう}}
+
+# not [[settled]], not [[fixed]]
+# being [[unexpected]], [[surprising]]
+
+===Etymology 2===
+{{ja-kanjitab|ふ|てい|yomi=on}}
+
+====Adjectival noun====
+{{ja-adj|infl=な|ふてい}}
+
+# [[undecided]], to be determined, to be decided
+# {{lb|ja|mathematics|sort=ふてい}} [[indefinite]], an integral being without specific limits
+
+=====Inflection=====
+{{ja-na|ふてい}}
+
+====Noun====
+{{ja-noun|ふてい}}
+
+# being [[undecided]], being yet to be determined, or yet to be decided
+# {{lb|ja|mathematics|sort=ふてい}} [[indefiniteness]], an integral being without specific limits
+
+===References===
+* {{R:Shogakukan}}
+* {{R:Kojien}}
+* {{R:Meikyo}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=부정}}
+
+# {{hanja form of|부정|indeterminacy; variability}}
+
+[[ko:不定]]
+[[hu:不定]]
+[[mg:不定]]
+[[ja:不定]]
+[[chr:不定]]
+[[zh:不定]]

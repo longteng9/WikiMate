@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=31|rad=囗|as=06|sn=9|four=60227|canj=WKB|ids=⿴囗有}}
+
+# [[pen]] up
+# [[limit]], [[constrain]]
+
+====References====
+* {{Han ref|kx=0218.080|dkj=04756|dj=0446.100|hdz=10717.200|uh=56FF|ud=22271|bh=ABAA|bd=43946}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yòu
+|c=jau6
+|mn=qz,xm,zz:iū
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=囗06}}
+
+# {{defn|lang=ja|sort=囗06}}
+
+====Readings====
+* {{ja-readings|goon=[[いく]] (iku), [[う]] (u)|kanon=[[いく]] (iku), [[ゆう]] (yū)|kun=[[その]] (sono)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=유|rv=yu|mr=yu}}
+
+# {{defn|lang=ko|sort=囗06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|hữu|rs=囗06}}
+
+# {{defn|lang=vi|sort=囗06}}
+
+[[fr:囿]]
+[[li:囿]]
+[[hu:囿]]
+[[mg:囿]]
+[[ja:囿]]
+[[uz:囿]]
+[[pl:囿]]
+[[th:囿]]
+[[zh:囿]]

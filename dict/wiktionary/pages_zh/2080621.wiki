@@ -1,0 +1,74 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=kǒuqiāng
+|c=hau2 hong1
+|mn=xm,zz:kháu-khang/qz:khió-khiong
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[oral cavity]]
+
+=====Synonyms=====
+* {{q|Min Nan}} {{zh-l|喙空}}
+
+=====Derived terms=====
+{{zh-der|口腔潰瘍|口腔衛生}}
+
+===Pronunciation 2===
+{{zh-pron
+|mn=xm,tw:kháu-khiuⁿ/zz:kháu-khioⁿ
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|Min Nan|linguistics}} [[accent]] {{gloss|phonetic and phonological aspects of a dialect}}
+
+=====Synonyms=====
+* {{zh-l|腔口}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|口|腔}}
+
+===Etymology 1===
+koukau > koːkɔː > koːkoː.
+
+====Pronunciation====
+* {{IPA|/koːkoː/|lang=ja}}
+
+====Noun====
+{{ja-noun|こうこう|hhira=こうかう}}
+
+# the space within the mouth that contains the teeth and tongue and functions in digestion and communication; the [[oral cavity]]
+
+[[Category:ja:Anatomy|こうこう]]
+
+===Etymology 2===
+
+====Pronunciation====
+* {{IPA|/koːkuː/|lang=ja}}
+
+====Noun====
+{{ja-noun|こうくう}}
+
+# the space within the mouth that contains the teeth and tongue and functions in digestion and communication; the [[oral cavity]]
+
+[[Category:ja:Anatomy|こうくう]]
+
+[[ko:口腔]]
+[[lo:口腔]]
+[[hu:口腔]]
+[[mg:口腔]]
+[[ja:口腔]]
+[[pt:口腔]]
+[[sm:口腔]]
+[[zh:口腔]]

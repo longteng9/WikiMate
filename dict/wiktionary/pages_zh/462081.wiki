@@ -1,0 +1,57 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xīndì
+|c=sam1 dei6-2
+|h=pfs=sîm-thi
+|mn=xm,qz,tp:sim-tōe/qz,zz,kh:sim-tē
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# one's [[character]]; [[morals]]; [[heart]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ここ|ち}}
+
+===Etymology===
+From {{m|ja|心|sc=Jpan||heart}} + {{m|ja|地|sc=Jpan|tr=chi||ground, state}}
+* see [[義訓]], ''gikun''
+
+===Noun===
+{{ja-noun|ここち}}
+# [[feeling]], [[sensation]], [[mood]]
+
+====Derived terms====
+{{top2}}
+* {{l|ja|心地良い}}, {{l|ja|心地好い}} (''kokochi yoi''): comfortable, pleasant
+* {{l|ja|居心地}} (''igokochi''): comfort
+* {{l|ja|掛け心地}} (''kakegokochi''): feel of a chair
+* {{l|ja|着心地}} (''kigokochi''): feel when wearing something
+* {{l|ja|住み心地}} (''sumigokochi''): comfort at home
+* {{l|ja|座り心地}} (''suwarigokochi''): level of comfort
+* {{l|ja|寝心地}} (''negokochi''): sleeping comfort or snugness
+* {{l|ja|乗り心地}}, {{l|ja|乗心地}} (''norigokochi''): one's feeling while riding
+{{mid2}}
+* {{l|ja|人心地}} (''hitogokochi''): consciousness
+* {{l|ja|夢心地}}, {{l|ja|夢見心地}} (''yumegokochi''): dreamy state of mind
+* {{l|ja|酔い心地}} (''yoigokochi''): intoxicated
+* {{l|ja|居心地良い}} (''igokochi yoi''): snug, cozy
+* {{l|ja|居心地が良い}} (''igokochi ga yoi''): snug, cozy
+* {{l|ja|居心地が悪い}} (''igokochi ga warui''): uncomfortable
+* {{l|ja|居心地の良い}} (''igokochi no yoi''): snug; cozy
+* {{l|ja|住み心地の良い}} (''sumigokochi no yoi''): comfortable to live in
+{{bottom}}
+
+[[ko:心地]]
+[[it:心地]]
+[[hu:心地]]
+[[mg:心地]]
+[[pt:心地]]
+[[zh:心地]]

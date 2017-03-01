@@ -1,0 +1,98 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=13|sn=19|four=44248|canj=THOK|ids=⿱艹微}}
+
+====References====
+* {{Han ref|kx=1060.210|dkj=32092|dj=1524.090|hdz=53303.120|uh=8587|ud=34183|bh=C1A8|bd=49576}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=薇
+|c=mei4
+|mn=bî
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# ''[[Osmunda regalis]]'', a [[species]] of [[fern]] (also known as [[royal fern]] or {{vern|flowering fern}})
+
+====Compounds====
+* {{zh-l|薔薇}}: rose
+
+{{zh-cat|Ferns}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸13}}
+
+# {{defn|lang=ja|sort=艸13}}
+
+====Readings====
+* {{ja-readings|goon=[[み]] (mi)|kanon=[[び]] (bi)|kun=[[ぜんまい]] (zemmai)}}
+
+====Compounds====
+* {{m|ja|薔薇||rose|tr=[[bara]]}}
+
+===Etymology===
+{{wikipedia|lang=ja|ゼンマイ}}
+{{ja-kanjitab|yomi=k|ぜんまい}}
+{{rfe|lang=ja}}
+
+===Alternative forms===
+* {{ja-l|紫萁}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=k|ぜんまい}}
+* {{homophone|lang=ja|sort=せんまい'|発条|撥条}}
+
+===Noun===
+{{ja-noun|ぜんまい|ゼンマイ}}
+
+# {{w|Japanese flowering fern}}
+
+[[Category:ja:Ferns|せんまい']]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=미|eumhun=|rv=mi|mr=mi|y=mi}}
+
+# {{defn|lang=ko|sort=艸13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[vi]]|rs=艸13}}
+
+# {{defn|lang=vi|sort=艸13}}
+
+[[fr:薇]]
+[[hu:薇]]
+[[mg:薇]]
+[[ja:薇]]
+[[no:薇]]
+[[pl:薇]]
+[[th:薇]]
+[[zh:薇]]

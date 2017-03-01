@@ -1,0 +1,237 @@
+{{character info/new}}
+{{also|鹤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=10|sn=21|four=47227|canj=JGHAF,OGHAF|ids=⿰隺鳥}}
+
+====References====
+* {{Han ref|kx=1496.200|dkj=47185|dj=2026.100|hdz=74654.030|uh=9DB4|ud=40372|bh=C562|bd=50530}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鹤}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|隺|鳥|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=hè,hào,1nb=Mainland and Taiwan,2nb=variant in Taiwan
+|c=hok6
+|h=pfs=
+|md=hŏk
+|mn=ho̍h
+|w=5ngoq
+|mc=y
+|oc=y
+|cat=n,a,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[crane]] (bird)
+# [[white]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|一琴一鶴|不舞之鶴|丹頂鶴|乘軒鶴|乘鶴|乘鶴駕雲|仙鶴|仙鶴草|別鶴|別鶴孤鸞|別鶴操|別鶴離鸞|化鶴|吼鶴|妻梅子鶴|孤雲野鶴|孤鸞寡鶴|寡鶴|弔鶴|彥倫鶴怨|慚鳧企鶴|控鶴|揚州鶴|斷鶴續鳧|朱顏鶴髮|杳如黃鶴|松鶴|松鶴延年|枯魚病鶴|梅妻鶴子|梅鶴因緣|水鶴|火鶴花|灰鶴|焚琴煮鶴|煮鶴焚琴|煮鶴燒琴|猿鶴沙蟲|猿鶴蟲沙|玄鶴|王喬騎鶴|瘞鶴銘|白頂鶴|白鶴|白鶴秀才|童顏鶴髮|紅鶴|羊公鶴|群雞一鶴|老鶴乘軒|華亭鶴唳|華表鶴歸|蟲沙猿鶴|跨鶴|遼東鶴|野鶴|野鶴閒雲|閒雲孤鶴|閒雲野鶴|雞皮鶴髮|雞膚鶴髮|雲中白鶴|青鶴|風聲鶴唳|風鶴|風鶴魂驚|駕鶴西歸|騎鶴揚州|鶴乘軒|鶴企|鶴俸|鶴列|鶴唳|鶴唳風聲|鶴壽|鶴宮|鶴岡|鶴弔|鶴形目|鶴書|鶴望|鶴板|鶴林|鶴林玉露|鶴步|鶴氅|鶴神|鶴禁|鶴科|鶴立|鶴立雞群|鶴算龜齡|鶴膝|鶴膝風|鶴舞|鶴處雞群|鶴觴|鶴警|鶴長鳧短|鶴頂紅|鶴馭|鶴駕|鶴骨松姿|鶴髮|鶴髮童顏|鶴髮雞皮|鶴鳴|鶴鳴之士|鶴鳴九皋|鶴鶴|鶴齡|鸞鶴|黃鶴樓|龜年鶴壽|龜鶴|龜鶴同春|龜齡鶴算}}
+
+{{zh-cat|Birds}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=鳥10}}
+
+====Readings====
+{{ja-readings
+|goon=[[がく]] (gaku) {{qualifier|non-[[w:Jōyō|Jōyō]] reading}}
+|kanon=[[かく]] (kaku) {{qualifier|non-[[w:Jōyō|Jōyō]] reading}}
+|kun=[[つる]] (tsuru), [[たず]] (tazu) {{qualifier|non-[[w:Jōyō|Jōyō]] reading}}, [[つ]] (tsu) {{qualifier|non-[[w:Jōyō|Jōyō]] reading}}
+|nanori=[[たず]] (tazu), [[ず]] (zu), [[か]] (ka), [[つ]] (tsu), [[づ]] (zu)
+}}
+
+===Etymology 1===
+<div style="float:right;">
+[[File:Grus_japonensis_in_flight_at_Akan_International_Crane_Center.jpg|thumb|250px|{{lang|ja|鶴}} (''tazu'', ''tsuru''): the Japanese crane, ''[[Grus japonensis]]'']]
+{{Commonscat|Gruidae}}
+[[File:Origami-crane.jpg|thumb|250px|{{lang|ja|鶴}} (''tsuru''): a paper [[origami]] crane]]
+{{Commonscat|Origami crane}}
+[[File:Japanese_crest_Tsuru_no_Maru.svg|thumb|250px|{{lang|ja|鶴}} (''tsuru''): a crane {{m|ja|家紋|tr=kamon||family crest}}]]
+{{Commonscat|Tsuru mon (Japanese crests of crane)}}
+</div>
+{{ja-kanjitab|たず|yomi=k}}
+From {{der|ja|ojp|-|sort=たず}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> By one analysis, this may be a compound of {{affix|ja|sort=たず|田|tr1=ta|t1=rice paddy|pos1=a common place where cranes can be found|つ|tr2=tsu|t2=crane? large bird?}}. {{rendaku2|sort=たず|tsu|dzu</i>, modern <i>zu}} This ''tsu'' is probably the ''tsu'' in ''tsuru'' (see below).
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|[ta̠zɯᵝ]|[ta̠d͡zɯᵝ]|lang=ja}} {{qualifier|dialect}}
+
+====Alternative forms====
+* {{ja-l|田鶴}}
+
+====Noun====
+{{ja-noun|たず|hhira=たづ}}
+
+# {{lb|ja|sort=たず|archaic|poetic}} a [[crane]]: a large, long-legged and long-necked [[bird]], member of the [[family]] or [[clade]] ''[[Gruidae]]''
+#* {{RQ:Manyoshu|7|1199}}; [http://etext.lib.virginia.edu/japanese/manyoshu/Man7Yos.html#1199 text here]
+#*: 藻苅舟 奥榜来良之 妹之嶋 形見之浦尓 '''鶴'''翔所見
+#*:: もかりふね おきこぎくらし いもがしま かたみのうらに '''たづ'''かけるみゆ
+#*:: ''Mo kari fune / oki kogi kurashi / Imogashima / Katami no ura ni / '''tazu''' kakeru miyu''
+#*:: Rowing the seaweed-gathering boat out to sea and back again, I saw the '''cranes''' soaring by Katami inlet on Imogashima
+
+=====Usage notes=====
+This reading is now reserved for poetry.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|鶴が音|たず が ね}}: a [[crane]]'s [[call]], the [[sound]] made by a crane
+* {{ja-r|鶴群|たず むら}}: a [[flock]] or [[crane]]s
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|つる|yomi=k}}
+{{wikipedia|lang=ja|ツル}}
+Given a crane's long neck and how the bird hunts, possibly related to {{m|ja|蔓|tr=tsuru||vine}}; {{m|ja|弦|tr=tsuru||bowstring; musical instrument string}}; {{ja-l|釣る}}, {{m|ja|吊る|tr=tsuru||to hang down; to string up; to fish}}. Given how cranes flock together, possibly related also to {{m|ja|連る|tr=tsuru}}, older root form of modern verb {{m|ja|連れる|tr=tsureru||to accompany}}. That said, {{ja-l|連る}} also appears to ultimately derive from {{m|ja|蔓|tr=tsuru||vine}}.
+
+Likely Altaic cognates include {{cog|trk-pro|*durunja||crane}} (whence {{cog|tr|turna}}), {{cog|ko|-}} {{ko-inline|두루미|durumi|crane}}, {{cog|mn|тогоруу||crane}}|tr=togoruu). Compare also {{cog|hu|daru||crane}}.
+
+The reading ''tsuru'' is first seen used to mean {{m|en|crane|a crane|pos=the bird}} from the late [[w:Heian period|Heian period]]. Prior to that time, the only reading used for the bird was ''tazu''. However, the kanji {{lang|ja|鶴}} was used in the [[w:Man'yōshū|''Man'yōshū'']] as a phonetic [[ateji]] for the verb ending ''-tsuru'', suggesting that ''tsuru'' may have already existed as an everyday term meaning {{m|en|crane|a crane}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|つる|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|つる|ツル}}
+
+# a [[crane]]: a large, long-legged and long-necked [[bird]], member of the [[family]] or [[clade]] ''[[Gruidae]]''
+# short for {{ja-l|折鶴||orizuru}}: a [[paper]] [[crane]], the archetypical [[origami]] design
+# short for {{ja-l|鶴嘴||tsuruhashi}}: a [[pickaxe]]
+# a {{m|ja|家紋|tr=kamon||family crest}} depicting a [[crane]]
+# {{lb|ja|euphemism|sort=つる}} [[white]] [[hair]]
+
+=====Usage notes=====
+As with many words that name organisms, this word is often written in katakana when used in biology contexts.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|鶴が城|^つる が ^じょう}}: the [[castle]] in [[w:Aizu Wakamatsu|Aizu Wakamatsu]], [[w:Fukushima Prefecture|Fukushima Prefecture]]
+* {{ja-r|鶴三|^つるぞう}}: a male given name
+{{der-mid}}
+* {{ja-r|姉羽鶴|あねはづる}}: a smaller species of [[crane]], ''[[Anthropoides virgo]]''
+* {{ja-r|紅鶴|べにづる}}: [[flamingo]]
+{{der-bottom}}
+
+=====Idioms=====
+* {{ja-r|凍て鶴|いてづる}}: “frozen crane” → a metaphor for something [[stock still]] and unmoving, from the way a crane will [[freeze]] when hunting
+
+=====Synonyms=====
+* {{sense|crane crest}} {{ja-r|鶴紋|つる もん}}
+* {{sense|white hair}} {{ja-r|白髪|しらが}}
+
+===Etymology 3===
+{{ja-kanjitab|つ|yomi=k}}
+{{der|ja|ojp|-|sort=つ}}. Only found in compounds. Uncertain derivation. May be a truncation of ''tsuru'', or an ancient form of its own. Not used in modern Japanese.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|[t͡sɯᵝ]|[d͡zɯᵝ]|lang=ja}}
+
+====Noun====
+{{ja-noun|つ}}
+
+# {{lb|ja|sort=つ|obsolete}} a [[crane]]: a large, long-legged and long-necked [[bird]], member of the [[family]] or [[clade]] ''[[Gruidae]]''
+
+=====Derived terms=====
+* {{ja-r|鶴|たず}}, {{ja-r|田鶴|たず}}: a [[crane]]
+* {{ja-r|葦田鶴|あしたず}}: a [[crane]]
+
+=====Usage notes=====
+Appears as {{ja-l|ず}} (''zu'') in compounds due to [[rendaku]].
+
+===Etymology 4===
+{{ja-kanjitab|かく|yomi=o}}
+From {{der|ja|ltc|-|sort=かく}} {{m|ltc|鶴|tr=hak}}. Compare modern simplified {{cog|cmn|鹤|tr=hè}}. Only found in compounds.
+
+====Pronunciation====
+{{ja-pron|yomi=o|かく}}
+
+====Noun====
+{{ja-noun|かく}}
+
+# a [[crane]]: a large, long-legged and long-necked [[bird]], member of the [[family]] or [[clade]] ''[[Gruidae]]''
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|鶴駕|かくが}}: the [[imperial]] [[prince]]'s [[carriage]]; a [[mythical]] [[sage]]'s [[vehicle]]
+* {{ja-r|鶴膝|かくしつ}}: a [[wasting]] [[disease]] whereby the [[leg]]s [[wither]], resembling a [[crane]]s legs
+* {{ja-r|鶴首|かくしゅ}}: the act of [[wait]]ing [[impatiently]] in [[anticipation]] of something, [[wait]]ing [[with bated breath]]
+* {{ja-r|鶴寿|かくじゅ}}: [[longevity]], [[long]] [[life]]
+* {{ja-r|鶴氅|かくしょう}}: a type of [[robe]] with [[crane]] [[feather]]s woven right into the fabric
+* {{ja-r|鶴髪|かくはつ}}: [[pure]] [[white]] [[hair]], similar to the pure white of a [[crane]]'s [[wing]]
+* {{ja-r|鶴髪童顔|かくはつ どうがん}}: someone with [[white]] [[hair]] but a [[youthful]] [[face]]
+* {{ja-r|鶴望|かくぼう}}: the act of [[wait]]ing [[impatiently]] in [[anticipation]] of something, [[wait]]ing [[with bated breath]]
+* {{ja-r|鶴翼|かくよく}}: a [[military]] [[formation]] with [[wing]]s on the [[flank]]s, similar to the shape of a [[crane]]'s outspread [[wing]]s
+* {{ja-r|鶴林|^かくりん}}: a [[forest]] in India where [[Sakyamuni]] died
+* {{ja-r|鶴林寺|^かくりんじ}}: a [[Buddhist]] [[temple]] in [[w:Hyōgo Prefecture|Hyōgo Prefecture]]
+{{der-mid}}
+* {{ja-r|一鶴|いっかく}}: a [[single]] [[crane]] {{qualifier|rare, only found in idioms}}
+* {{ja-r|雲鶴|うんかく}}: [[cloud]]s and [[crane]]s; a common [[design]] [[pattern]] using clouds and cranes; a kind of [[Korean]] [[celadon]] [[bowl]]
+* {{ja-r|雲中白鶴|うんちゅう はっかく}}: [[white]] [[crane]]s flying in the [[cloud]]s; a euphemism for a person of [[noble]] [[character]]
+* {{ja-r|亀鶴|きかく}}: a [[turtle]] and a [[crane]], symbols of [[longevity]]
+* {{ja-r|群鶴|ぐんかく}}: a [[flock]] of [[crane]]s
+* {{ja-r|玄鶴|げんかく}}: a [[black]] [[crane]]; an [[old]] crane
+* {{ja-r|西鶴|^さいかく}}: a male given name
+* {{ja-r|夜鶴|やかく}}: a [[crane]] in the [[night]], particularly a crane's [[call]]
+{{der-bottom}}
+
+===External links===
+* {{projectlink|wikipedia|lang=ja|折鶴}} {{qualifier|origami}}
+* {{projectlink|wikipedia|Orizuru}}
+
+===References===
+<references/>
+
+[[Category:ja:Cranes (birds)|つる]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=학|eumhun=|rv=hak|mr=hak|y=hak}}
+
+# [[두루미]] (''durumi'') [[crane]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hạc]]|rs=鳥10}}
+
+# {{defn|lang=vi|sort=鳥10}}
+
+[[zh-min-nan:鶴]]
+[[be:鶴]]
+[[et:鶴]]
+[[el:鶴]]
+[[fr:鶴]]
+[[ko:鶴]]
+[[lo:鶴]]
+[[lt:鶴]]
+[[hu:鶴]]
+[[mg:鶴]]
+[[ja:鶴]]
+[[pl:鶴]]
+[[ro:鶴]]
+[[ru:鶴]]
+[[sv:鶴]]
+[[th:鶴]]
+[[zh:鶴]]

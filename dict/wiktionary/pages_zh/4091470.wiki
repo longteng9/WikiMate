@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|つう|がく|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|つうがく|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|つうがく}}
+
+# commuting to [[school]]
+
+====Compounds====
+* {{l/ja|通学路}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|つうがく}}
+
+# [[commute]] to school
+
+====Conjugation====
+{{ja-suru|つうがく}}
+
+===References===
+<references/>
+
+[[hu:通学]]
+[[ja:通学]]
+[[zh:通学]]

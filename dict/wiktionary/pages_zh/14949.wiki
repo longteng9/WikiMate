@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=50|rad=巾|as=12|sn=15|four=42269|canj=LBHDW|ids=⿰巾番}}
+
+# [[pennant]], [[banner]], [[streamer]], [[flag]]
+
+====References====
+* {{Han ref|kx=0336.260|dkj=09086|dj=0643.240|hdz=10754.140|uh=5E61|ud=24161|bh=BC6E|bd=48238}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fān
+|c=faan1
+|mn=hoân
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|三幡|中幡會|八幡|幡信|幡兒|幡布|幡幟|幡幡|幡然|幡然悔悟|幡蓋|幢幡|引路幡|打幡|揚幡招魂|揚幡擂鼓|白幡|白虎幡|紙幡兒|素幡|靈頭幡}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=巾12}}
+
+# {{defn|lang=ja|sort=巾12}}
+
+====Readings====
+* {{ja-readings|on=[[はん]] (han), [[ほん]] (hon)|kun=[[はた]] (hata)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=번|rv=beon|mr=pŏn}}
+
+# {{defn|lang=ko|sort=巾12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=巾12|hanviet=phan}}
+
+# {{defn|lang=vi|sort=巾12}}
+
+[[fr:幡]]
+[[ko:幡]]
+[[li:幡]]
+[[mg:幡]]
+[[ja:幡]]
+[[pl:幡]]
+[[th:幡]]
+[[zh:幡]]

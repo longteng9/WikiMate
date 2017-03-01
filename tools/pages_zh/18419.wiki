@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=78|rad=歹|as=05|sn=9|four=17210|canj=MNBM|ids=⿰歹且}}
+
+# to [[die]]
+
+====References====
+* {{Han ref|kx=0579.340|dkj=16408|dj=0971.370|hdz=21383.160|uh=6B82|ud=27522|bh=CF65|bd=53093}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cú
+|c=cou4
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=歹05}}
+
+# {{defn|lang=ja|sort=歹05}}
+
+====Readings====
+* {{ja-readings|on=[[そ]] (so), [[ぞ]] (zo)|kun=[[しぬ]] (shinu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=歹05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=歹05| hanviet = [[tò]], [[tồ]], [[trồ]], [[tùa]]}}
+
+# {{defn|lang=vi|sort=歹05}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6b82 Nom Foundation]
+
+[[fr:殂]]
+[[hu:殂]]
+[[mg:殂]]
+[[pl:殂]]
+[[th:殂]]
+[[zh:殂]]

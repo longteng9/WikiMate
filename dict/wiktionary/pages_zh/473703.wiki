@@ -1,0 +1,60 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+* borrowed from Japanese
+
+===Pronunciation===
+{{zh-pron
+|m=tàigǔ
+|c=taai3 gu2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|musical instruments}} [[taiko]] drums
+
+====Related terms====
+* {{zh-l|大鼓}} (dàgǔ)
+
+[[Category:zh:Musical instruments|tai4gu3]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|たい|こ|yomi=on}}
+{{wikipedia|Taiko}}
+[[File:L%27ensemble_Koma_(musée_Guimet).jpg|thumb|250px|{{lang|ja|太鼓}}]]
+
+===Etymology===
+[[Sino-Japanese]] compound of {{compound|lang=ja|sort=たいこ|太|tr1=tai|t1=big, fat, thick|鼓|tr2=ko|t2=drum}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|たいこ|acc=0|acc_ref=SMK2}}
+
+===Noun===
+{{ja-noun|たいこ}}
+
+# {{lb|ja|musical instruments|sort=たいこ}} a [[drum]]
+# more specifically, one of various sizes of traditional Japanese drums
+# a [[drumbeat]], the sound of a drum as a [[signal]]
+
+====Synonyms====
+* {{sense|drums in general}} {{ja-r|ドラム}}
+
+===References===
+<references/>
+
+[[Category:ja:Musical instruments|たいこ]]
+
+[[lo:太鼓]]
+[[hu:太鼓]]
+[[mg:太鼓]]
+[[ja:太鼓]]
+[[ru:太鼓]]
+[[sv:太鼓]]
+[[chr:太鼓]]
+[[zh:太鼓]]

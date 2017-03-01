@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|卝}}<!-- may be replaced by zh-forms -->
+==Translingual==
+
+===Han character===
+{{Han char|rn=2|rad=丨|as=04|sn=5|four=22770|canj=VLLLM}}
+
+# [[child]]'s [[hairstyle]] [[bound]] in [[two]] [[tuft]]s
+# [[ore]]
+
+====References====
+* {{Han ref|kx=0079.100|dkj=00077|dj=0161.040|hdz=10052.120|uh=4E31|ud=20017|bh=C963|bd=51555}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|卝}}
+
+===Pronunciation===
+{{zh-pron
+|m=guàn,kuàng
+|c=gwaan3,kong3,kwong3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=丨04}}
+
+# [[young]] or [[tender]]
+
+====Readings====
+{{ja-readings
+|on=[[かん]] (kan), [[けん]] (ken)
+|kun=[[あげまき]] (agemaki), [[おさない]] (丱い, osanai)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=관|rv=gwan|mr=kwan|eumhun=쌍상투|ehrv=ssangsangtu|ehmr=ssangsangt'u|ehy=}}
+
+# {{defn|lang=ko|sort=丨04}}
+
+====References====
+* {{Hanja ref|nav=12882}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quán]]|rs=丨04}}
+
+# {{defn|lang=vi|sort=丨04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e31 Nom Foundation]
+
+[[cs:丱]]
+[[fr:丱]]
+[[ko:丱]]
+[[li:丱]]
+[[hu:丱]]
+[[ja:丱]]
+[[pl:丱]]
+[[th:丱]]
+[[vi:丱]]
+[[zh:丱]]

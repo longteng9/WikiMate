@@ -1,0 +1,56 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tóuxiáng
+|c=tau4 hong4
+|h=pfs=thèu-hòng
+|mn=tâu-hâng
+|ma=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[surrender]]; to [[capitulate]]
+# to [[submit]]; to [[give in]]; to [[yield]]
+
+====Derived terms====
+{{zh-der|無條件投降|拱手投降}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|こう|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|とうこう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうこう}}
+
+# [[surrender]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|とうこう}}
+
+# surrender
+
+====Conjugation====
+{{ja-suru|とうこう}}
+
+===References===
+<references/>
+
+[[zh-min-nan:投降]]
+[[ko:投降]]
+[[hu:投降]]
+[[mg:投降]]
+[[ja:投降]]
+[[ru:投降]]
+[[chr:投降]]
+[[zh:投降]]

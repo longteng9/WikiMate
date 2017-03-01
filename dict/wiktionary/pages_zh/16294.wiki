@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=08|sn=11|four=57082|canj=QHLO|ids=⿰扌欣}}
+
+# [[lift]], [[raise]]
+# [[stir]]
+
+====References====
+* {{Han ref|kx=0436.070|dkj=12230|dj=0785.190|hdz=31899.030|uh=6380|ud=25472|bh=B1C8|bd=45512}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiān
+|c=hin1,hin3
+|h=pfs=hiên
+|md=
+|mn=hian
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手08}}
+
+# {{defn|lang=ja|sort=手08}}
+
+====Readings====
+* {{ja-readings|on=[[きん]] (kin), [[けん]] (ken)|kun=[[かかげる]] (kakageru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=흔|eumhun=|rv=heun|mr=hŭn|y=hun}}
+
+# {{defn|lang=ko|sort=手08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=手08|hiên}}
+
+# {{defn|lang=vi|sort=手08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6380 Nom Foundation]
+
+[[zh-min-nan:掀]]
+[[fr:掀]]
+[[hu:掀]]
+[[mg:掀]]
+[[ja:掀]]
+[[no:掀]]
+[[pl:掀]]
+[[th:掀]]
+[[zh:掀]]

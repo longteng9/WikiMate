@@ -1,0 +1,30 @@
+==Japanese==
+{{ja-kanjitab|ばい|きゃく|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ばいきゃく|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ばいきゃく}}
+
+# [[sell off|selling off]]
+#: {{ja-usex|家を'''売却'''した。|いえ を '''ばいきゃく''' した。|We sold off our home.}}
+
+===Verb===
+{{ja-verb-suru|ばいきゃく}}
+
+# [[sell off]]
+
+====Conjugation====
+{{ja-suru|ばいきゃく}}
+
+====Synonyms====
+* {{ja-r|売り払う|うりはらう}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[kn:売却]]
+[[hu:売却]]
+[[zh:売却]]

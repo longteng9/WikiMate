@@ -1,9 +1,0 @@
-==Japanese==
-{{ja-kanjitab|たん|こう|えん|さん|k4=ざん|し|yomi=on}}
-
-===Noun===
-{{ja-noun|たんこう えんざんし}}
-
-# [[unary operator]] {{gloss|operator taking one operand}}
-
-[[zh:単項演算子]]

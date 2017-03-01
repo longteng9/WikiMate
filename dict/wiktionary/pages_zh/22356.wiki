@@ -1,0 +1,148 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=04|sn=9|four=24900|canj=HDYJ|ids=⿰禾斗}}
+
+====References====
+* {{Han ref|kx=0850.200|dkj=24950|dj=1274.070|hdz=42595.070|uh=79D1|ud=31185|bh=ACEC|bd=44268}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|禾|斗|ls=ic|t1=grain|t2=measuring tool}}.
+
+===Pronunciation===
+{{zh-pron
+|m=kē
+|c=fo1
+|h=pfs=khô
+|md=kuŏ
+|mn=khe/kho/qz:kher/khô
+|w=1khu
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[sort]]; [[class]]; [[kind]]
+# [[law]]; [[regulation]]
+# {{lb|zh|historical}} [[imperial]] [[examination]]
+# [[article]]; [[clause]]
+# [[norms]]; [[rule]]s
+# [[division]]; [[branch]] (of study) {{zh-mw|個}}
+# [[section]]; [[department]]
+# {{lb|zh|taxonomy}} [[family]]
+# to [[pass]] a [[sentence]]
+# to [[check]]; to [[examine]]
+# to [[punish]]; to [[fine]] or [[levy]] [[taxes]]
+
+===Compounds===
+{{zh-der|科白|科班|科處|科第|科幻|科技|科甲|科教|科教片|科舉|科林斯|科盲|科摩羅|科目|科派|科普|科室|科特迪瓦|科頭跣足|科威特|科西嘉|科刑|科學|科研|科長|巍科|前科|偏科|同科|伊科戰爭|坐科|基本學科|大氣科學|兒科|中科院|外科|專業科目|八角楓科|女科|全科醫師|光電科學|出科|報登科|尖端科技|必修科|人猿科|催科|律科|五子登科|國科會|專科|制科|工科|專科學校|作姦犯科|小兒科|專科醫師|人文科學|傷科|併科|宣科|學科|四科|婦產科|大科|兩道三科|外科手術|國防科學|基本科學|地球科學|太空科學|作奸犯科|共同科目|分科|小登科|十字花科|前科犯|商科|升科|專科辭典|單科大學|內科|婦科|力不同科|八科|六科|恩科|佛科擺|科差|殊科|捏怪排科|桑科|科任|科子|科員|科頭|百科辭典|百科全書|科稅|科威特市|科頭箕踞|打諢發科|本科系|猿科|發科|眼科|教科書|科斷|環境科學|撮科打哄|科學精神|發策決科|科牙磕齒|科名|打諢插科|科泛|科員政治|科則|科考|科布多河|禿科子|科學管理|登科記|科配|科系|私科子|科買|科需|科際整合|科試|科罪|科網|科範|科爾沁|科段|科斗書|硬科學|科擾|科房|科幻電影|科布多|科定|科學方法|科學園區|科學中藥|科場|科募|科別|科分|科任老師|科令|禾本科|科斗文|柱科|犯科|祝由科|社會科學|發科打諢|甲科|泌尿外科|易科罰金|收科|發淡科|發俊科|登科錄|登科|插科使砌|應用科學|科學哲學|生物科技|棘針科|玉律金科|科斂|牙科醫學|牙科|科學家|瓜科|照本宣科|科道|科條|撒科打諢|撒科|易科|插科打諢|海桐科|產科|法科|瞧科|理科|武科|文科|新科|科幻小說|本科|橫科暴斂|科技食物|整型外科|科罰|科諢|開科取士|菊科|純粹科學|金科|選修科|術科|自然科學|蓼科|胡桃科|金科玉律|管理科學|行為科學|醫科|通識科目|罰科|錄科|茄科|鶴科|薔薇科|鱟科|高科|莫斯科|鸚鵡科|高科技|芭蕉科|農科|預科|芸香科|雁鴨科|金鏤梅科|跣足科頭|開科|金科玉條|軟科學|迪斯科|軍事科學|草科|資訊科學|賣科|蓴科|耳鼻喉科|葫蘆科|虛科|聯科及第|骨科}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=禾04}}
+
+# [[grade]]
+# [[categorize]]d classes or the text of law
+# graded crimes
+# [[examination]]s graded in classes
+# [[divide]] taxes or crimes
+# a (circular) [[hole]]
+
+====Readings====
+* {{ja-readings|goon=[[か]] (ka)|kanon=[[か]] (ka)|kun=[[しな]] (shina), [[とが]] (toga)|nadzuke=[[しな]] (shina)}}
+
+====Compounds====
+{{top4}}
+* [[科学]]
+* [[科挙]]
+* [[科斗]]
+* [[科白]]
+{{mid4}}
+* [[科名]]
+* [[科目]]
+* [[科料]]
+* [[医科]]
+{{mid4}}
+* [[学科]]
+* [[法科]]
+* [[分科]]
+* [[文科]]
+{{mid4}}
+* [[理科]]
+* [[薬科]]
+{{bottom}}
+
+====References====
+{{ja-kref
+|ku=1842
+|shift=89C8
+|jis=324A
+|euc=B2CA
+|skip=1-5-4
+|freq=531
+|nelson=3272
+|newnelson=4130
+|halpern=1138
+|kld=775
+|heisig=1179
+|tuttle=5d4.3
+}}
+
+===Suffix===
+{{ja-pos|か|suffix}}
+
+# [[department]], [[section]]
+# {{lb|ja|taxonomy|sort=か}} family
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=과|eumhun=|rv=gwa|mr=kwa|y=kwa}}
+
+# {{defn|lang=ko|sort=禾04}}
+
+====Compounds====
+* [[科料]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khoa]]|rs=禾04}}
+
+# {{defn|lang=vi|sort=禾04}}
+
+[[zh-min-nan:科]]
+[[ca:科]]
+[[fr:科]]
+[[ko:科]]
+[[it:科]]
+[[lo:科]]
+[[hu:科]]
+[[mg:科]]
+[[ja:科]]
+[[no:科]]
+[[pl:科]]
+[[pt:科]]
+[[ru:科]]
+[[sv:科]]
+[[th:科]]
+[[chr:科]]
+[[zh:科]]

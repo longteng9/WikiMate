@@ -1,0 +1,126 @@
+{{character info/new}}
+{{also|旦|目|自}}
+
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{liushu|p}}: multiple interpretations: a stonen altar or an erect penis. Original form of [[祖]].
+
+===References===
+* {{cite-web
+|url=http://www.hanziyuan.com/result.php?zi=且
+|title=且
+|work=字源
+|language=Mandarin
+|accessdate=2014-02-24}}
+
+===Han character===
+{{Han char|rn=1|rad=一|as=04|sn=5|four=77100|canj=BM|ids=⿴𠀃𠄠}}
+
+# [[moreover]], [[also]] (post-subject)
+# [[about to]], [[will]] [[soon]] (pre-verb)
+
+====Derived characters====
+* [[祖]] [[姐]] [[阻]] [[狙]] [[租]] [[粗]] [[組]] ([[组]]) [[宜]] [[助]]
+
+====References====
+* {{Han ref|kx=0077.070|dkj=00029|dj=0154.190|hdz=10015.050|uh=4E14|ud=19988|bh=A542|bd=42306}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|𠀃}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiě
+|c=ce2,cou4,zeoi1,ceoi2,ceoi1
+|h=
+|mn=chhiáⁿ/xm,zz:chhiá
+|w=
+|mc=y
+|oc=y
+|ma=Zh-qie.ogg
+|cat=adv,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[and]], [[moreover]]
+#: {{zh-l|而且}}
+# [[and]] (both ... and ...)
+#: {{zh-x|他 的 演講 簡短 且 切中{zhòng} 要害。|His speech was short '''and''' to the point.}}
+# [[for the time being]]
+
+=====Compounds=====
+* {{zh-l|而且}}
+
+====References====
+* {{R:cedict}}
+* {{cite-web
+|url=http://tatoeba.org/eng/sentences/search?query=且&from=cmn&to=und
+|title=Sentences with 且
+|work=Tatoeba
+|accessdate=2014-03-11}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=一04}}
+
+# {{defn|lang=ja|sort=一04}}
+
+====Readings====
+* {{ja-readings|on=[[しゃ]] ([[sha]]), [[しょ]] ([[sho]])|kun=[[かつ]] ([[且つ]], [[katsu]])}}
+
+====Compounds====
+* {{ja-r|苟且|かりそめ}}
+* {{ja-r|且又|かつまた}}
+
+====Related terms====
+* {{ja-r|且つ|かつ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[차]], [[저]], [[조]]|rv=cha, jeo, jo|mr=ch'a, chŏ, cho|eumhun=[[또]], [[공경스러울]], [[도마]]|ehrv=tto, gonggyeongseureoul, doma|ehmr=tto, konggyŏngsǔrǒul, toma|ehy=}}
+
+# {{defn|lang=ko|sort=一04}}
+
+====References====
+* {{Hanja ref|nav=11740}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thả]], [[vả]], [[vã]]|rs=一04}}
+
+# {{defn|lang=vi|sort=一04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e14 Nom Foundation]
+
+[[cs:且]]
+[[fr:且]]
+[[ko:且]]
+[[id:且]]
+[[hu:且]]
+[[mg:且]]
+[[ja:且]]
+[[no:且]]
+[[pl:且]]
+[[th:且]]
+[[uk:且]]
+[[vi:且]]
+[[zh:且]]

@@ -1,0 +1,28 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bìyì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|archaic}} [[my]] [[home]] [[country]] (or [[city]])
+#* '''[[w:Warring States Period|Warring States Period]]:''' [[w:Zuo Qiuming|Zuo Qiuming]], ''[[w:Zuo Zhuan|Zuo Zhuan]]'' ([[:zh:s:春秋左氏傳/宣公#宣公十五年|春秋左氏傳˙宣公十五年]])
+#*: '''敝邑'''[[易子而食]]，[[析骸以爨]]。
+#*:: '''''In the city''' we are exchanging our children and eating them, and splitting up their bones for fuel. ([[w:James Legge|James Legge]])''
+
+===References===
+* {{cite-web
+|url=http://www2.iath.virginia.edu/saxon/servlet/SaxonServlet?source=xwomen/texts/chunqiu.xml&style=xwomen/xsl/dynaxml.xsl&chunk.id=d2.13&toc.depth=1&toc.id=d2.1&doc.lang=english
+|title=BOOK VII. DUKE XUAN
+|work=Chunqiu Zuo zhuan
+|language=English
+|accessdate=2011-02-27}}
+
+[[Category:Mandarin archaic terms|bi4yi4]]
+
+[[zh:敝邑]]

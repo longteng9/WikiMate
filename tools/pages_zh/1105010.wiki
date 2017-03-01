@@ -1,0 +1,30 @@
+{{also|东道主}}
+==Chinese==
+{{zh-forms|s=东道主|type=21}}
+
+===Etymology===
+Attested in ''{{w|Zuo Zhuan}}'' ({{circa2|4th century {{BC}}}}), in the entry for the 30th year of Duke Xi's reign ({{lang|zh|《左傳·僖公三十年》}}):
+{{zh-x|若 捨{shě} ^鄭 以為{wéi} 東道主，行李 之 往來，共 其 乏困，君 亦 無 所 害。|If you would spare Zheng as a '''host of the eastern roads''', we are willing to provide hospitability and aid to your eastbound diplomatic missions.  There could be no harm to you in this.|CL}}  Uttered by Zhu Zhiwu ({{lang|zh|燭之武}}), a Zheng courtier, during his negotiation with the Count Mu of Qin ({{lang|zh|秦穆公}}) who was laying siege to the state of Zheng. Later used idomatically as a generic term for a host.
+
+===Pronunciation===
+{{zh-pron
+|m=dōngdàozhǔ
+|c=dung1 dou6 zyu2
+|mn=qz:tong-tǒ͘-chú/xm,zz:tong-tō͘-chú
+|cat=n,ch
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[host]]
+#* {{zh-x|萬國 爭 推 東道主|Nations vie for the '''host''''s privilege.|ref={{circa|1890}} {{w2|zh|黃遵憲}} ({{w|Huang Zunxian}}), {{lang|zh|〈蘇彝士河〉}} ("Suez Canal")}}
+
+====Usage notes====
+Some dictionaries classify {{zh-l|東道主}} as a [[chengyu]], albeit a three-character one.
+
+{{zh-cat|Advanced}}
+
+[[ko:東道主]]
+[[hu:東道主]]
+[[ja:東道主]]

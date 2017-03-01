@@ -1,0 +1,92 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàlù
+|c=daai6 luk6-2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# any kind of large deer
+# [[moose]]; [[elk]]
+
+{{zh-cat|Mammals}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja|ヘラジカ|大鹿 (the animal)}}
+[[File:Moose_superior.jpg|thumb|250px|{{lang|ja|大鹿}} (''ōjika''): a '''[[moose]]'''.]]
+{{wikipedia|lang=ja|大鹿 (伊丹市)|大鹿 (the district)}}
+</div>
+{{ja-kanjitab|おお|しか|k2=じか|yomi=k|r=y}}
+Compound of {{com|ja|sort=おおしか|大|tr1=ō|t1=big|鹿|tr2=shika|t2=deer}}.<ref>{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> {{rendaku2|sort=おおじか|shika|jika}}
+
+====Pronunciation====
+{{ja-pron|おおじか|acc=h|acc_ref=DJR|y=k}}
+
+====Alternative forms====
+* {{ja-l|麋}}
+
+====Noun====
+{{ja-noun|おおじか|オオジカ|hhira=おほじか}}
+
+# {{synof|lang=ja|箆鹿|tr=herajika||[[moose]]; [[elk]]}}
+# {{lb|ja|Magic: The Gathering}} an elk, a [[creature]] [[type]], formerly part of the [[beast]] type
+
+=====Usage notes=====
+{{U:ja:biology|オオジカ}}
+
+====Proper noun====
+{{ja-pos|proper|おおじか}}
+
+# a [[district]] in [[w:Itami, Hyōgo|Itami]], [[w:Hyōgo Prefecture|Hyōgo Prefecture]]
+
+===Etymology 2===
+<div style="float:right;">
+{{wikipedia|lang=ja|大鹿村|大鹿 (the village)}}
+{{wikipedia|Ōshika, Nagano}}
+</div>
+{{ja-kanjitab|おお|しか|yomi=k}}
+Compound of {{com|ja|sort=おおしか|大|tr1=ō|t1=big|鹿|tr2=shika|t2=deer}}. Appears to be a variation on ''ōjika'' above.
+
+====Pronunciation====
+{{ja-pron|おおしか|acc=h|acc_ref=NHK|y=k|dev=3}}
+
+====Proper noun====
+{{ja-pos|proper|おおしか}}
+
+# a [[village]] in [[Nagano]]
+# {{surname|lang=ja|sort=おおしか}}
+
+===Etymology 3===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+</div>
+{{ja-kanjitab|だい|ろく|yomi=o}}
+Probably coined in Japan from {{etyl|ltc|-}}-derived components, as {{com|ja|sort=たいろく'|大|tr1=dai|t1=great|鹿|tr2=roku|t2=stag, male deer}}.
+
+====Pronunciation====
+{{ja-pron|y=go|だいろく}}
+
+====Noun====
+{{ja-noun|だいろく}}
+
+# {{lb|ja|shogi|sort=たいろく'}} the [[great]] [[stag]], a [[piece]] in [[w:Taikyoku shogi|taikyoku shogi]]
+
+===References===
+<references/>
+
+{{cln|ja|words with multiple readings}}
+{{C|ja|Cervids|Magic: The Gathering|Japan|sort=おおしか}}
+
+[[lt:大鹿]]
+[[ro:大鹿]]
+[[zh:大鹿]]

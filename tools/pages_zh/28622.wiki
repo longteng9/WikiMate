@@ -1,0 +1,106 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=04|sn=8|four=31304|canj=YHE|ids=⿺辶反}}
+
+# [[return]], [[revert]] to, [[restore]]
+
+====References====
+* {{Han ref|kx=1254.140|dkj=38758|dj=1737.070|hdz=63820.010|uh=8FD4|ud=36820|bh=AAF0|bd=43760}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=翻-Cantonese:faan1,番-Cantonese:faan1}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǎn
+|ma=Zh-fan.ogg
+|c=faan2,faan1
+|c_note=faan2 - literary; faan1 - colloquial
+|c-t=fan1
+|h=pfs=fán
+|md=
+|mn=hoán
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[return]] to
+#* {{zh-x|返 鄉下{haa6-2}|to '''go back''' to one's hometown|C}}
+#* {{zh-x|返屋企{kei5-2}|to go home|C}}
+# {{lb|zh|Cantonese}} to [[go]] to
+#* {{zh-x|返工|to '''go to''' work|C}}
+#* {{zh-x|返學|to '''go to''' school|C}}
+# {{lb|zh|Cantonese}} [[back]]
+#* {{zh-x|擠返|to put '''back'''; to return|C}}
+#* {{zh-x|換返 件 衫|to change '''back''' one's clothes|C}}
+#* {{zh-x|打返|to return a hit|C}}
+#* {{zh-x|救 唔 返|unable to be saved (unsalvageable, beyond hope, etc.)|C}}
+#* {{zh-x|諗返 舊陣時{si4-2}|thinking '''back''' to older times|C}}
+#* {{zh-x|去 返轉{zyun3}頭|to go '''back'''; to turn around|C}}
+#* {{zh-x|搵返|to find (something that was lost)|C}}
+#* {{zh-x|整返 好|to repair; to fix|C}}
+#* {{zh-x|好返|to recover (from an illness)|C}}
+
+====Synonyms====
+* {{sense|to return}}
+{{zh-dial|回}}
+
+====Compounds====
+{{zh-der|往返|一去不返|七返九還|不返|二返投唐|倦鳥知返|回光返照|廢然而返|徒勞往返|慈烏返哺|折返|樂而忘返|流連忘返|無功而返|由博返約|留連忘返|積重難返|覺返迷津|返來|返勾|返吟復吟|返哺|返回|返國|返抵|返旆|返景|返本還原|返棹|返正撥亂|返潮|返照|返照回光|返璞歸真|返璧|返程|返老歸童|返老還童|返航|返躬內省|返轡|返鄉|返里|返防|返魂|返魂乏術|返魂草|迴光返照|迷而不返|迷而知返|迷途知返|遣返|還元返本|還淳返樸|還珠返璧|重返|駕返瑤池}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=辵04}}
+
+# to come back, to [[return]], to go back to
+
+====Readings====
+* {{ja-readings|on=[[へん]] (hen), [[はん]] (han), [[ほん]] (hon)|kun=[[かえす]] (kaesu), [[かえる]] (kaeru)}}
+
+====See also====
+* {{ja-r|返る|かえる}}
+* {{ja-r|返す|かえす}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=반|eumhun=|rv=ban|mr=pan|y=pan}}
+
+# {{defn|lang=ko|sort=辵04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phản]]|rs=辵04}}
+
+# {{defn|lang=vi|sort=辵04}}
+
+[[fr:返]]
+[[ko:返]]
+[[it:返]]
+[[hu:返]]
+[[mg:返]]
+[[ja:返]]
+[[no:返]]
+[[pl:返]]
+[[th:返]]
+[[zh:返]]

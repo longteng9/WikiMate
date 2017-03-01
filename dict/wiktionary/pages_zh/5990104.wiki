@@ -1,0 +1,32 @@
+==Chinese==
+{{zh-forms|s=声气}}
+
+===Pronunciation===
+{{zh-pron
+|m=shēngqì
+|c=seng1 hei3
+|m-s=sen1qi4
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[voice]] and [[breath]]
+# {{lb|zh|figurative}} [[common]] [[interest]]s between [[friend]]s
+# [[tone]]; manner of speaking
+# {{lb|zh|dialectal}} [[voice]]
+# [[news]]
+#: {{zh-x|上年{nin4-2} 同 佢 通 完 電話{waa6-2} 之後 就 冇乜 聲氣 喇。|I haven't heard from him since chatting with him on the phone last year.|C}}
+# {{lb|zh|Cantonese}} [[hope]]; [[prospect]]s
+#: {{zh-x|冇 嗮 聲氣|to be hopeless|C}}
+# {{lb|zh|Cantonese}} {{rfdef|zh}}
+#: {{zh-x|你 乜 都 冇 做，就 咪 咁多 聲氣 啦。|You didn't do a thing, so quit nagging.|C}}
+
+====Synonyms====
+{{zh-dial|聲音}}
+
+====Derived terms====
+{{zh-der|聲氣相求|聲氣相投}}
+
+[[mg:聲氣]]

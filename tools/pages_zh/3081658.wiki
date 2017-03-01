@@ -1,0 +1,41 @@
+{{also|试食}}
+==Chinese==
+{{zh-forms|s=试食}}
+
+===Pronunciation===
+{{zh-pron
+|m=shìshí
+|c=si3 sik6
+|h=pfs=chhṳ-sṳ̍t
+|mn=chhì-chia̍h
+|ma=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[test]] [[food]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|しょく|yomi=on}}
+
+===Noun===
+{{ja-noun|ししょく}}
+
+# [[sampling]] food, taking a test taste
+
+===Verb===
+{{ja-verb-suru|tr=trans|ししょく}}
+
+# [[sample]] food, take a test taste
+#: {{ja-usex|当店オリジナルメニューを試食|とうてん オリジナル メニュー を ししょく|sample this store's unique dish}}
+
+====Conjugation====
+{{ja-suru|ししょく}}
+
+[[ko:試食]]
+[[lt:試食]]
+[[zh:試食]]

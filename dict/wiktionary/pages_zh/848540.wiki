@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chuánbó
+|c=syun4 bok6
+|mn=xm,zz:chûn-pek/tw:chûn-pe̍k/qz:chûn-piak
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[boat]]s and [[ship]]s
+# [[shipping]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せん|はく|k2=ぱく|yomi=on}}
+
+===Noun===
+{{ja-noun|せんぱく|count=隻}}
+
+# a [[vessel]]; a [[ship]]
+#: {{ja-usex|'''船舶'''が近くの港に停泊している。|'''せんぱく''' が ちかく の みなと に ていはく している。|A ship is at anchor in a nearby port.}}
+# {{lb|ja|legal|sort=せんぱく}} a ship with no [[oar]]s {{qualifier|commercial law of Japan}}
+
+====Synonyms====
+* {{ja-r|船|ふね}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=선박}}
+
+# {{hanja form of|선박|[[ship]], [[vessel]]}}
+
+[[ko:船舶]]
+[[hr:船舶]]
+[[lo:船舶]]
+[[lt:船舶]]
+[[hu:船舶]]
+[[mg:船舶]]
+[[ja:船舶]]
+[[uz:船舶]]
+[[chr:船舶]]
+[[vi:船舶]]
+[[zh:船舶]]

@@ -1,0 +1,17 @@
+==Japanese==
+{{ja-kanjitab|たい|しょう|さ|しゅう|ごう|yomi=o}}
+
+===Noun===
+{{ja-noun|たいしょうさ しゅうごう}}
+
+# {{lb|ja|set theory}} [[symmetric difference]]
+
+====Synonyms====
+* {{l|ja|対称差}}
+
+====See also====
+* {{l|ja|和集合}}
+* {{l|ja|積集合}}
+* {{l|ja|差集合}}
+
+[[Category:ja:Set theory|たいしょうさしゅうごう]]

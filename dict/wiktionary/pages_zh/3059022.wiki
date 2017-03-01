@@ -1,0 +1,37 @@
+{{also|无明}}
+==Chinese==
+{{zh-forms|s=无明}}
+
+===Pronunciation===
+{{zh-pron
+|m=wúmíng
+|c=mou4 ming4
+|h=pfs=mò-mìn
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|archaic}} [[unable]] to [[see]]; [[blind]]
+# {{lb|zh|Buddhism}} {{non-gloss definition|Literal translation of {{etyl|sa|-}} {{m|sa|अविद्या}}.}} [[ignorant]]; [[unintelligent]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|む|みょう|yomi=on}}
+
+===Etymology===
+From {{etyl|zh|ja}}. See there for more.
+
+===Noun===
+{{ja-noun|むみょう|mumyō}}
+
+# {{lb|ja|sort=むみょう|religion|Buddhism}}: [[avidyā]]: [[unenlightenment]], [[ignorance]] of [[nirvana]] and of the [[fundamental]] state of [[existence]]
+
+====External links====
+* {{pedialite|lang=ja}}
+* {{pedialite|Avidyā}}
+
+[[zh-min-nan:無明]]
+[[ja:無明]]

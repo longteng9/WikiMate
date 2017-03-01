@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=55|rad=廾|as=12|sn=15|four=98444|canj=FKT|ids=⿱敝廾}}
+
+====References====
+* {{Han ref|kx=0354.340|dkj=09644|dj=0670.050|hdz=10518.170|uh=5F0A|ud=24330|bh=B9FA|bd=47610}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=獘}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|敝|廾|c1=p|c2=s|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bì
+|c=bai6
+|mn=pè/piah
+|mc=
+|oc=y
+|cat=n,v,c:intj
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[fraud]]; [[harm]]; [[malpractice]]; [[deceit]]
+# [[drawback]]; [[defect]]
+# {{lb|zh|Cantonese}} {{n-g|used to indicate a realisation that something is wrong}}: [[oh no]]; [[oh]] [[crap]]
+
+====Compounds====
+{{zh-der|凋弊|弊衣簞食|弊衣疏食|弊病|作弊|弊案|利弊|弊倖|利弊參半|徇私作弊|弊政|徇私舞弊|弊車駑馬|弊車羸馬|弊絕風清|弊端|弊竇|弊帚自珍|弊帚千金|弊履|利弊互見|宿弊|弊害|利多於弊|利弊得失|切中時弊|積久弊生|營私舞弊|民力凋弊|流弊|時弊|杜弊|積弊|歲弊|私弊|無私有弊|百弊叢生|疲弊|為法自弊|除弊|補偏救弊|裘弊金盡|興利剔弊|革弊|舞弊|罷弊|風清弊絕|醫時救弊|興利除弊|防弊除害|齒弊舌存|金舌弊口|貪汙舞弊|舌弊耳聾}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=廾12}}
+
+# abuse
+
+====Readings====
+{{ja-readings|goon=[[べ]] (be)|kanon=[[へい]] (hei)|kun=[[つかれる]] (tsukareru), [[くるしむ]] (kurushimu), [[やぶれる]] (yabureru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=폐|eumhun=|rv=pye|mr=p'ye|y=phyey}}
+
+# {{defn|lang=ko|sort=廾12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tệ]], [[giẻ]]|rs=廾12}}
+
+# {{defn|lang=vi|sort=廾12}}
+
+[[fr:弊]]
+[[ko:弊]]
+[[hu:弊]]
+[[mg:弊]]
+[[ja:弊]]
+[[no:弊]]
+[[pl:弊]]
+[[ru:弊]]
+[[th:弊]]
+[[vi:弊]]
+[[zh:弊]]

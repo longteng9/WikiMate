@@ -1,0 +1,90 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=8|rad=亠|as=11|sn=13|four=00106|canj=YWRM|ids=⿱㐭旦 <small>(GTJ)</small>,⿱㐭且 <small>(K)</small>}}
+
+# [[sincere]]
+# [[real]], [[true]]
+# [[truth]]
+
+====Derived characters====
+* [[顫]], [[擅]], [[壇]], [[膻]], [[檀]], [[嬗]], [[氊]], [[氈]], [[儃]], [[饘]], [[鸇]], [[𧾍]], [[䁴]], [[驙]], [[澶]], [[鱣]], [[蟺]], [[𨭖]]
+
+====References====
+* {{Han ref|kx=0089.200|dkj=00328|hdz=10291.060|uh=4EB6|ud=20150|bh=DCB3|bd=56499}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|㐭|旦|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=dǎn
+|c=taan2,sin6,sin4
+|h=pfs=
+|md=
+|mn=chiⁿ
+|w=
+|mc=y
+|oc=y
+|cat=a,n
+}}
+{{attention|zh|needs sorting out}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* {{R:yue:Hanzi}}
+* (''Min Nan'') [http://twblg.dict.edu.tw/holodict_new/default.jsp Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=亠11}}
+
+# {{defn|lang=ja|sort=亠11}}
+
+====Readings====
+* {{ja-readings|kanon=[[たん]] (tan), [[せん]] (sen)|goon=[[たん]] (tan), [[ぜん]] (zen)|kun=[[あつい]] (atsui), [[まこと]] (makoto)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[단]], [[선]]|rv=dan, seon|mr=tan, sŏn|y=tan, sen}}
+
+# {{defn|lang=ko|sort=亠11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|đàn|rs=亠11}}
+
+# {{surname|lang=vi}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4eb6 Nom Foundation]
+
+[[fr:亶]]
+[[ko:亶]]
+[[li:亶]]
+[[hu:亶]]
+[[ja:亶]]
+[[pl:亶]]
+[[th:亶]]
+[[vi:亶]]
+[[zh:亶]]

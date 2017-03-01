@@ -1,0 +1,38 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Emerging markets}}
+{{wikipedia|Newly industrialized country}}
+[[File:Emerging_Countries.png|thumb|250px|{{lang|ja|新興国}} (''shinkō koku''): '''emerging countries''' around the world.]]
+[[File:NewlyIndustrializedCountries.png|thumb|250px|{{lang|ja|新興国}} (''shinkō koku''): '''newly industrialized countries'''.]]
+</div>
+{{ja-kanjitab|しん|こう|こく|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=しんこうこく|新興|tr1=shinkō|t1=burgeoning, rising|国|tr2=koku|t2=country}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|n|し|んこ|うこく}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[ɕĩŋko̞ː ko̞kɯᵝ]}}
+
+===Noun===
+{{ja-noun|しんこう こく}}
+
+# [[emerging]] country, newly [[industrialized]] country
+# {{lb|ja|sort=しんこうこく|dated}} a newly [[independent]] country, no longer a [[colony]]
+
+====Usage notes====
+A country labeled as a {{lang|ja|新興国}} in Japanese could be deemed in English to be either an emerging country or a newly industrialized country, or even both, depending on the context.
+
+The sense of ''no longer a colony'' is no longer used in modern contexts.
+
+====Related terms====
+* {{ja-l|先進国|せんしんこく|senshin koku}} [[developed country]]
+* {{ja-l|発展途上国|はってんとじょうこく|hatten tojō koku}} [[developing]] country
+* {{ja-l|開発途上国|かいはつとじょうこく|kaihatsu tojō koku}} [[developing]] country {{qualifier|less common synonym of {{ja-l|発展途上国}}}}
+* {{ja-l|低開発国|ていかいはつこく|tei kaihatsu koku}} [[developing]] country {{qualifier|literally, ''“low-development country”}}
+* {{ja-l|後進国|こうしんこく|kōshin koku}} [[developing]] country {{qualifier|less common; literally, ''“backward country”}}
+
+===References===
+<references/>

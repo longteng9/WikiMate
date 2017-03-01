@@ -1,0 +1,211 @@
+{{character info/new}}
+{{also|锁}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=10|sn=18|four=89186|canj=CFBC|ids=⿰釒𧴪}}
+
+# [[lock]], [[padlock]]
+# [[shackles]], [[chains]]
+
+===References===
+* {{Han ref|kx=1317.050|dkj=40708|dj=1817.010|hdz=64240.060|uh=9396|ud=37782|bh=C2EA|bd=49898}}
+
+----
+
+==Chinese==
+{{zh-forms|s=锁}}
+
+===Alternative forms===
+* {{zh-l|鎻}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=suǒ
+|c=so2
+|h=pfs=só
+|md=
+|mn=só/qz:só͘
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[lock]]
+#: {{zh-x|鎖門|to lock the doors}}
+# a [[lock]]; a [[padlock]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=金10|style=s|kyu=鎻}}
+
+====Readings====
+{{ja-readings
+|goon=[[さ]] (sa)
+|kanon=[[さ]] (sa)
+|kanyoon=[[じょう]] (jō), from [[じやう]] (jau)
+|kun=[[くさり]] (kusari), [[さす|さ.す]] ({{ja-l|鎖す}}, sa.su), [[とざす|とざ.す]] ({{ja-l|鎖す}}, toza.su), [[つがる|つが.る]] ({{ja-l|鎖る}}, tsuga.ru)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|くさり}}
+Noun derived from the {{m|ja|連用形|tr=ren'yōkei||stem form}} of verb {{m|ja|鏈る|tr=kusaru||to be linked together, to link together}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|くさり|y=k|acc=0|dev=1|acc_ref=NHK,DJR|acc2=3|acc2_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|鐺}}, {{ja-l|鏈}}, {{ja-l|鉧}}, {{ja-l|鏁}}
+
+====Noun====
+{{ja-noun|くさり}}
+
+# a [[chain]]
+
+=====Derived terms=====
+* {{ja-r|鎖鎌|くさりがま}}: a [[chain]] [[sickle]]
+* {{ja-r|鎖分銅|くさり ふんどう}}: a [[weighted]] [[chain]]
+
+=====Related terms=====
+* {{ja-r|鏈る|くさる}}: to be linked together, to link together
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|とざし}}
+Noun derived from the {{m|ja|連用形|tr=ren'yōkei||stem form}} of verb {{m|ja|鎖す|tr=tozasu||to shut and lock a door or gate}}.<ref name="KDJ"/><ref name="DJR"/>
+
+====Pronunciation====
+{{ja-pron|とざし|y=k}}
+
+====Noun====
+{{ja-noun|とざし}}
+
+# the [[close|closing]] and [[lock]]ing of a [[door]] or [[gate]]
+# a door or gate so closed and locked
+# a [[bar]] or other [[device]] used to lock a door or gate
+
+=====Related terms=====
+* {{ja-l|鎖す}}, {{ja-l|閉ざす|とざす|tozasu}}: to close and lock a door or gate
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|つがり}}
+Noun derived from the {{m|ja|連用形|tr=ren'yōkei||stem form}} of verb {{m|ja|連る|tr=tsugaru||to continue, to lead onto the next, to be connected; to connect or link together}}.<ref name="KDJ"/><ref name="DJR"/>
+
+====Pronunciation====
+{{ja-pron|つがり|y=k}}
+
+====Alternative forms====
+* {{ja-l|鎖り}}, {{ja-l|連}}, {{ja-l|連り}}, {{ja-l|繋り}}, {{ja-l|綴り}}, {{ja-l|縋り}}
+
+====Noun====
+{{ja-noun|つがり}}
+
+# a [[connection]], [[linkage]], or [[continuation]]
+# {{lb|ja|rare|sort=つがり}} a [[chain]]
+# a [[string]] of items [[tie]]d together
+# the part of the [[opening]] of a [[drawstring]] [[bag]] through which the string is passed
+
+=====Related terms=====
+* {{ja-l|鎖る}}, {{ja-l|連る}}, {{ja-l|繋る}}, {{ja-l|綴る}}, {{ja-l|縋る}} (''tsugaru''): to continue, to lead onto the next, to be connected; to connect or link together
+
+===Etymology 4===
+{{ja-kanjitab|yomi=o|さ}}
+From {{etyl|ltc|ja|sort=さ}} {{m|ltc|鎻}} or {{m|ltc|鎖|tr=*swa<sup>X</sup>}}. Compare modern simplified {{cog|cmn|锁|tr=suǒ||lock, padlock; shackles, chains}}.
+
+Only used in compounds in modern {{etyl|ja|-}}.
+
+====Pronunciation====
+{{ja-pron|さ|y=o}}
+
+====Affix====
+{{ja-pos|さ|affix}}
+
+# a [[chain]], [[linkage]], or [[continuation]]
+# a [[lock]] or [[barrier]]
+
+=====Derived terms=====
+{{der-top}}
+'''Starting with {{lang|ja|鎖}}:'''
+* {{ja-r|鎖国|さこく}}: national [[isolationism]]; closed [[border]]s
+{{der-mid}}
+'''Ending with {{lang|ja|鎖}}:'''
+* {{ja-r|連鎖|れんさ}}: {{qualifier|metaphorical}} a [[chain]], a [[connection]], a [[linkage]]
+{{der-bottom}}
+
+===Etymology 5===
+{{ja-kanjitab|yomi=o|じょう}}
+Alteration from ''sau'', itself an alternate reading of ''sa'' above, possibly influenced by an early variety of {{etyl|cmn|-}} reading ''suǒ'' or {{etyl|yue|-}} reading ''so²''.<ref name="KDJ"/> The shift from ''sau'' to ''jau'' (modern ''jō'') was probably the influence of the reading of synonymous character {{ja-l|錠}} (''jō'').
+
+{{IPAchar|/sa/}} → {{IPAchar|/sau/}} → {{IPAchar|/d͡ʑau/}} → {{IPAchar|/d͡ʑoː/}}
+
+====Pronunciation====
+{{ja-pron|じょう|y=ky|acc=0|acc_ref=NHK,DJR|acc2=1|acc2_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|錠}}
+
+====Noun====
+{{ja-noun|じょう|hhira=ぢやう}}
+
+# {{qualifier|pitch 0}} a [[metal]] [[bar]] used to [[lock]] [[shut]] a [[gate]], [[door]], [[chest]], or other opening
+# {{qualifier|pitch 0}} a [[key]] used to lock or [[unlock]] such an opening
+# {{qualifier|pitch 1}} a [[pill]] or [[tablet]]
+
+=====Usage notes=====
+The senses have different pitch accents. A low starting pitch is used for the {{m|en|lock}} or {{m|en|key}} meanings, while a high starting pitch is used for the {{m|en|pill}} or {{m|en|tablet}} meanings.
+
+The alternate spelling {{ja-l|錠}} was originally an [[ateji]], but in reference to openings, the meaning was limited to {{m|en|key}}, while the {{m|en|lock}} sense was spelled {{lang|ja|鎖}}. In modern {{etyl|ja|-}}, these characters are largely interchangeable for both {{m|en|lock}} and {{m|en|key}} senses. However, the more common term for {{m|en|key}} is {{ja-l|鍵}} (''kagi'').
+
+The {{m|en|pill}} sense is more commonly spelled {{ja-l|錠}}.
+
+====Counter====
+{{ja-pos|じょう|counter|hhira=ぢやう}}
+
+# [[counter]] for [[pill]]s or [[tablet]]s
+#: {{ja-usex|この薬は一回に三'''鎖'''とのことです。|^この くすり は いっかい に さん'''じょう''' と の こと です。|The instructions are to take three '''pills''' of this medicine for each dose.}}
+
+=====Usage notes=====
+More commonly spelled {{ja-l|錠}}.
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=쇄|eumhun=|rv=swae|mr=swae|y=sway}}
+
+# {{defn|lang=ko|sort=金10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[toả]], [[khoá]], [[soã]], [[tuả]], [[xoã]]|rs=金10}}
+
+# {{defn|lang=vi|sort=金10}}
+
+[[zh-min-nan:鎖]]
+[[fr:鎖]]
+[[ko:鎖]]
+[[lo:鎖]]
+[[hu:鎖]]
+[[mg:鎖]]
+[[ja:鎖]]
+[[pl:鎖]]
+[[th:鎖]]
+[[chr:鎖]]
+[[vi:鎖]]
+[[zh:鎖]]

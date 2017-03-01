@@ -1,0 +1,58 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǒuqiú,er=y
+|c=sau2 kau4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[handball]] {{gloss|team sport}}
+# [[handball]] {{gloss|the offence of touching the ball with hands}}
+
+{{zh-cat|Sports}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|て|k2=だま|たま|r=y|yomi=k}}
+
+===Etymology===
+{{com|ja|手|tr1=te|t1=[[hand]]|球|tr2=tama|t2=[[sphere]]|sort=てだま}}
+
+===Noun===
+{{ja-noun|てだま}}
+
+# {{lb|ja|billiards|snooker|sort=てだま}} a [[cue ball]]
+#* {{quote-book
+|language=Japanese
+|location=Tokyo
+|publisher=Kodansha
+|genre=fiction
+||{{w|前川たけし|Takeshi Maekawa|lang=ja}}
+|{{w|ブレイクショット (漫画)|{{lang|ja|ブレイクショット}}|lang=ja}}
+|trans-title={{w|Break Shot}}
+|date=Mar 17 1990
+|isbn=4-06-311538-0
+|volume=13
+||44
+|chapter={{ruby|{{lang|ja|[氷](ひょう)[解](かい)}}}}
+|trans-chapter=Clear Up
+|{{ruby|{{lang|ja|'''[手](て)[玉](だま)'''が[⑨](ナイン)ボールを[直](ちょく)[撃](げき)}}———{{lang|ja|‼　{{ruby|[⑨](ナイン)}}ボールはコーナーポケットへ[一](いっ)[直](ちょく)[線](せん)}}———{{lang|ja|‼}}}}
+|transliteration='''''Tedama''' ga nain bōru o chokugeki———‼ Nain bōru wa kōnā poketto e itchokusen———‼''
+|translation=The '''cue ball''' hits the ⑨ ball directly———‼ The ⑨ ball's going straight to the corner pocket———‼}}
+
+===See also===
+* {{ja-r|手%玉|て%だま}}
+
+[[de:手球]]
+[[hr:手球]]
+[[hu:手球]]
+[[ja:手球]]
+[[sr:手球]]
+[[th:手球]]
+[[zh:手球]]

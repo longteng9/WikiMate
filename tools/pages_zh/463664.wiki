@@ -1,0 +1,82 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=lìyòng,tl=y
+|c=lei6 jung6
+|h=pfs=li-yung
+|ma=y
+|mn=lī-iōng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[use]]; to [[utilise]]
+#: {{zh-x|他 利用 假{jià}期 的 時間 把 書 讀 完 了。|He finished reading the book '''using''' time from the holiday.}}
+# to [[take advantage of]]; to [[make use of]]; to [[exploit]]
+#: {{zh-x|我 被 他 利用 了。|I was '''taken advantage of''' by him.}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|り|よう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|りよう|y=o|acc=0}}
+
+===Noun===
+{{ja-noun|りよう}}
+
+# [[use]], [[usage]], [[utilization]], [[application]]
+# [[exploitation]], taking advantage of
+
+====Synonyms====
+* {{sense|usage}} {{ja-r|使用|しよう}}, {{ja-r|活用|かつよう}}
+
+====Compounds====
+* {{ja-r|利用者|りようしゃ}}: user
+* {{ja-r|利用価値|りようかち}}: utility value
+
+===Verb===
+{{ja-verb-suru|tr=trans|りよう}}
+
+# [[use]], [[utilize]]
+#* From the {{m|ja||[http://www.debian.org/intro/about.ja.html#what Debian とは一体何ですか?]|[http://www.debian.org/intro/about#what WHAT is Debian?]}} in the {{m|ja||[http://www.debian.org/intro/about.ja.html Debian について]|[http://www.debian.org/intro/about About Debian]}} homepage
+#*: [[w:ja:Debian|Debian]]は、現在[[w:ja:Linuxカーネル|Linuxカーネル]]を'''利用して'''います。
+#*:: [[w:ja:Debian|Debian]]は、げんざい[[w:ja:Linuxカーネル|Linuxカーネル]]を'''りようして'''います。
+#*:: ''[[w:ja:Debian|Debian]] wa, genzai [[w:ja:Linuxカーネル|Linux kāneru]] o '''riyō shite''' imasu.''
+#*::: [[w:Debian|Debian]] is currently '''using''' the [[w:Linux kernel|Linux kernel]].
+# [[exploit]], [[take advantage of]]
+
+====Conjugation====
+{{ja-suru|りよう}}
+
+====Synonyms====
+* {{sense|use}} {{ja-r|使う|つかう}}
+
+===References===
+* {{R:Shogakukan}}
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=이용}}
+
+# {{hanja form of|이용|[[utilization]]}}
+
+[[zh-min-nan:利用]]
+[[ko:利用]]
+[[lo:利用]]
+[[hu:利用]]
+[[mg:利用]]
+[[fj:利用]]
+[[ja:利用]]
+[[ta:利用]]
+[[chr:利用]]
+[[uk:利用]]
+[[zh:利用]]

@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms|t2=投子}}
+
+===Pronunciation===
+{{zh-pron
+|m=tóuzi
+|c=sik1 zi2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun|mw=顆}}
+
+# [[dice]]
+#: {{zh-x|擲 骰子{zi}|''to throw '''dice'''''}}
+
+====Synonyms====
+* {{zh-l|色子}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{ja-kanjitab|yomi=irr|sort=さいころ}}
+Probably from a compound of {{compound|lang=ja|sort=さいころ|采|tr1=[[sai]]|転|tr2=[[koro]]}}. The kanji is from {{etyl|zh|ja|sort=さいころ}} {{m|zh|骰子}}.
+
+===Noun===
+{{ja-noun|さいころ|サイコロ}}
+
+# {{alternative spelling of|賽子|lang=ja}}
+
+[[Category:ja:Games|さいころ]]
+[[it:骰子]]
+[[li:骰子]]
+[[hu:骰子]]
+[[mg:骰子]]
+[[chr:骰子]]
+[[zh:骰子]]

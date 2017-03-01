@@ -1,0 +1,64 @@
+{{character info/new}}
+{{also|轫}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=03|sn=10|four=57020|canj=JJSHI}}
+
+# a block that keeps a wheel from moving
+
+====References====
+* {{Han ref|kx=1240.060|dkj=38190|dj=1716.010|hdz=53516.070|uh=8ED4|ud=36564|bh=B062|bd=45154}}
+
+----
+
+==Chinese==
+{{zh-forms|s=轫}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=rèn
+|c=jan6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|發軔|雲程發軔}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=車03}}
+
+# block that keeps wheel from moving
+
+====Readings====
+* {{ja-readings|on=[[じん]] (jin), [[にん]] (nin), [[じ]] (ji), [[に]] (ni)|kun=[[はどめ]] (hadome)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=인|eumhun=|rv=in|mr=in|y=in}}
+
+# a piece of wood serving as a brake to halt a carriage
+
+[[fr:軔]]
+[[hu:軔]]
+[[mg:軔]]
+[[pl:軔]]
+[[th:軔]]
+[[zh:軔]]

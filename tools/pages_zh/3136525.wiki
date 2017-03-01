@@ -1,0 +1,34 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Mentaiko}}
+{{wikipedia|Alaska pollock}}
+[[File:Mentaiko.jpg|right|thumb|250px|{{lang|ja|明太子}} (''mentaiko''): '''cod roe'''.]]
+</div>
+{{ja-kanjitab|yomi=irreg|めん|たい|こ}}
+
+===Etymology===
+Derived from {{etyl|ko|ja|sort=めんたいこ}} {{m|ko|명태||[[Alaska pollock]]} or {{vern|walleye pollock}}}} (formerly spelled with the [[hanja]] {{l|ko|明太}}) + Japanese {{m|ja|子|tr=ko||[[child]]; [[roe]]}}.
+
+===Pronunciation===
+{{ja-pron|yomi=irreg|めんたいこ|acc=0|acc_ref=DJR|acc2=3|acc2_ref=DJR}}
+
+===Noun===
+{{ja-noun|めんたいこ}}
+
+# the [[marinated]] [[roe]] of {{taxlink|Theragra chalcogramma|species|noshow=1}}, the [[Alaska pollock]] or {{vern|walleye pollock}}
+#: A common ingredient in Japanese [[cuisine]]. Originated from {{m|ko|명란젓}} Korean cuisine<ref>[http://news.nate.com/view/20101214n26574 일본 후쿠오카에서 한식세계화 가능성을 엿보다]</ref>, introduced to Japan after the Russo-Japanese War. The typical [[seasoning]] and [[flavor]] is slightly different in Japan.
+
+====Derived terms====
+* {{ja-r|辛子明太子|からし めんたいこ}}: spicy ''mentaiko'', [[salted]] and [[aged]]
+
+====Synonyms====
+* {{ja-r|鱈子|たらこ}}
+
+====See also====
+* {{m|ko|젓갈}}
+
+====References====
+<references/>
+
+[[hu:明太子]]

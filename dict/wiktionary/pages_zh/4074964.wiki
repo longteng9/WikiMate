@@ -1,0 +1,61 @@
+{{also|终结}}
+==Chinese==
+{{zh-forms|s=终结}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhōngjié
+|c=zung1 git3
+|mn=chiong-kiat
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[end]]; to come to a close; to be [[terminate]]d
+
+===Noun===
+{{zh-noun}}
+
+# [[end]]; [[termination]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅう|けつ|yomi=on}}
+
+===Noun===
+{{ja-noun|しゅうけつ}}
+
+# [[end]]; [[conclusion]]
+
+====Synonyms====
+* {{ja-r|終了|しゅうりょう}}
+* {{ja-r|完結|かんけつ}}
+
+====Antonyms====
+* {{ja-r|勃発|ぼっぱつ}}
+* {{ja-r|到来|とうらい}}
+* {{ja-r|始動|しどう}}
+* {{ja-r|開始|かいし}}
+
+===Verb===
+{{ja-verb-suru|しゅうけつ}}
+
+# [[end]]; come to a [[close]]; be [[conclude]]d
+#: {{ja-usex|戦争が'''終結'''した。|せんそう が '''しゅうけつ''' した。|The war has '''ended'''.}}
+
+====Conjugation====
+{{ja-suru|しゅうけつ}}
+
+====Synonyms====
+* {{ja-r|終わる|おわる}}
+
+[[zh-min-nan:終結]]
+[[ko:終結]]
+[[hu:終結]]
+[[mg:終結]]
+[[ja:終結]]
+[[chr:終結]]
+[[zh:終結]]

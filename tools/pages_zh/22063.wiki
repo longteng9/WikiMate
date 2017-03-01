@@ -1,0 +1,86 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=09|sn=14|four=18632|canj=MRTVI|ids=⿰石兹}}
+
+# [[magnetic]]
+# [[magnetism]]
+# [[porcelain]]
+
+====References====
+* {{Han ref|kx=0834.140|dkj=24364|dj=1251.110|hdz=42445.060|uh=78C1|ud=30913|bh=BACF|bd=47823}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cí
+|c=ci4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[磁铁]]
+* [[磁器]]
+* [[磁石]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=石09}}
+
+# magnet
+
+====Readings====
+* {{ja-readings|goon=[[じ]] (ji)|kanon=[[し]] (shi) {{non-joyo-reading}}|kun=[[じしゃく]] (jishaku), [[やきもの]] (yakimono)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=자|eumhun=|rv=ja|mr=cha|y=ca}}
+
+# {{defn|lang=ko|sort=石09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|từ|rs=石09}}
+
+# {{defn|lang=vi}}
+
+[[fr:磁]]
+[[ko:磁]]
+[[hu:磁]]
+[[mg:磁]]
+[[nl:磁]]
+[[ja:磁]]
+[[no:磁]]
+[[pl:磁]]
+[[ru:磁]]
+[[sr:磁]]
+[[th:磁]]
+[[zh:磁]]

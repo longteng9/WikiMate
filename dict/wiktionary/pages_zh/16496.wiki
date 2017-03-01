@@ -1,0 +1,53 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=11|sn=14|four=57047|canj=QKCE|ids=⿰扌殺}}
+
+# {{defn|Han|sort=手11}}
+
+====References====
+* {{Han ref|kx=0449.090|dkj=12558|dj=0799.330|hdz=31933.050|uh=644B|ud=25675|bh=E1E9|bd=57833}}
+
+----
+
+==Chinese==
+{{zh-forms|s=𢫬}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=sà,shā
+|c=saat3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|拔摋}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手11}}
+
+# {{defn|lang=ja|sort=手11}}
+
+====Readings====
+* {{ja-readings|on=[[さつ]] (satsu), [[さち]] (sachi), [[せつ]] (setsu), [[せち]] (sechi)|kun=[[うつ]] (utsu)}}
+
+[[fr:摋]]
+[[hu:摋]]
+[[pl:摋]]
+[[th:摋]]
+[[zh:摋]]

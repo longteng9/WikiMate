@@ -1,0 +1,89 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=164|rad=酉|as=06|sn=13|four=17664|canj=MWHER|ids=⿰酉各}}
+
+====References====
+* {{Han ref|kx=1282.220|dkj=39847|dj=1782.190|hdz=63581.120|uh=916A|ud=37226|bh=B954|bd=47444}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=酪
+|c=lok3,lou6,lok6
+|h=pfs=lok
+|md=
+|mn=lo̍k
+|w=5loq
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# curdled milk, [[cream]], [[cheese]]
+# fruit juice
+# [[koumiss]]
+
+====Compounds====
+{{zh-der|乳酪|乾酪|優酪乳|奶酪|牛酪|酥酪|酪乳|酪奴|酪梨|酪漿|酪素|酪蛋白|酪農|酪農業|酪酥|酪酸|酸凝酪|酸酪乳}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=酉06}}
+
+# {{defn|lang=ja|sort=酉06}}
+
+====Readings====
+{{ja-readings|goon=[[らく]] (raku)|kanon=[[らく]] (raku)|kun=[[ちちざけ]] (chichizake)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|乾酪|かんらく}}: [[cheese]]
+* {{ja-r|牛酪|ぎゅうらく}}: [[butter]]
+* {{ja-r|酪酸|らくさん}}: [[butyric acid]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[락]]>[[낙]]}}
+
+# {{defn|lang=ko|sort=酉06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lộ]]|rs=酉06}}
+
+# {{defn|lang=vi|sort=酉06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=916a Nom Foundation]
+
+[[fr:酪]]
+[[hu:酪]]
+[[mg:酪]]
+[[ja:酪]]
+[[no:酪]]
+[[pl:酪]]
+[[th:酪]]
+[[vi:酪]]
+[[zh:酪]]

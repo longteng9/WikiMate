@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|弉}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=37|rad=大|as=07|sn=10|four=24430|canj=VGK|ids=⿱壯大}}
+
+# [[large]]
+# [[powerful]]
+# [[stout]], [[thick]]
+
+====References====
+* {{Han ref|kx=0252.080|dkj=05928|dj=0514.030|hdz=10542.020|uh=5958|ud=22872|bh=AE4E|bd=44622}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|壯|大|c1=p|c2=s|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zàng
+|c=zong1,zong6
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=大07}}
+
+# {{defn|lang=ja|sort=大07}}
+
+====Readings====
+* {{ja-readings|on=[[じょう]] (jō), [[そう]] (sō), [[ぞう]] (zō)|kun=[[さかん]] (sakan)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=장|rv=jang|mr=chang}}
+
+# {{defn|lang=ko|sort=大07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tráng]]|rs=大07}}
+
+# {{defn|lang=vi|sort=大07}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5958 Nom Foundation]
+
+[[fr:奘]]
+[[li:奘]]
+[[hu:奘]]
+[[mg:奘]]
+[[ja:奘]]
+[[pl:奘]]
+[[th:奘]]
+[[zh:奘]]

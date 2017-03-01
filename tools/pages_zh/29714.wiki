@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=09|sn=17|four=18109|canj=NKC}}
+
+====References====
+* {{Han ref|kx=1314.240|dkj=40640|dj=1815.100|hdz=64236.210|uh=936A|ud=37738|bh=EEDE|bd=61150}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|敄|金|c1=p|c2=s|t2=metal|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=móu
+|c=mau4
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[iron]] [[pot]]; iron [[pan]]
+# [[metal]] [[cap]]
+
+====Compounds====
+{{zh-der|兜鍪|鞮鍪}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金09}}
+
+# an iron pan
+# metal cap
+
+====Readings====
+* {{ja-readings|on=[[ぼう]] (bō), [[む]] (mu), [[も]] (mo)|kun=[[かま]] (kama)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=무|eumhun=|rv=mu|mr=mu|y=mu}}
+
+# metal cap
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mâu]]|rs=金09}}
+
+# {{defn|lang=vi|sort=金09}}
+
+[[fr:鍪]]
+[[hu:鍪]]
+[[mg:鍪]]
+[[pl:鍪]]
+[[th:鍪]]
+[[zh:鍪]]

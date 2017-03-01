@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=10|sn=13|four=32177|canj=EBHX}}
+
+# [[overflow]]
+# rushing water, a torrent
+
+====References====
+* {{Han ref|kx=0643.060|dkj=18035|dj=1050.130|hdz=31702.080|uh=6ED4|ud=28372|bh=B7CA|bd=47050}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tāo
+|c=tou1
+|mn=qz:tho͘/xm,zz:tho
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|掃地滔天|滔天|滔天之罪|滔天大禍|滔天大罪|滔德|滔滔|滔滔不斷|滔滔不盡|滔滔不竭|滔滔不絕|滔滔而至|滔滔雄辯|滔蕩|白浪滔滔|禍亂滔天|罪惡滔天|雄辯滔滔}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水10}}
+
+# {{defn|lang=ja|sort=水10}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō)|kun=[[はびこる]] (habikoru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=도|eumhun=|rv=do|mr=to|y=to}}
+
+# {{defn|lang=ko|sort=水10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thao]], [[thào]]|rs=水10}}
+
+# {{defn|lang=vi|sort=水10}}
+
+[[fr:滔]]
+[[ko:滔]]
+[[hu:滔]]
+[[mg:滔]]
+[[ja:滔]]
+[[no:滔]]
+[[pl:滔]]
+[[th:滔]]
+[[zh:滔]]

@@ -1,0 +1,38 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=04|sn=8|four=7423|canj=BKI,XBKI|ids=⿰⺼太}}
+
+====References====
+{{Han ref|kx=0977.041|hdz=32047.050|uh=80BD}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+{{zh-wp}}
+
+===Etymology===
+{{bor|zh|en|peptide}}
+
+===Pronunciation===
+{{zh-pron
+|m=tài
+|c=taai3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|organic compound}} [[peptide]]
+
+====Compounds====
+{{zh-der|肽鍵}}
+
+[[fr:肽]]
+[[mg:肽]]
+[[pl:肽]]
+[[th:肽]]
+[[zh:肽]]

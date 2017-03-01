@@ -1,0 +1,95 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=piányi
+|ma=zh-piányi.ogg
+|c=pin4 ji4
+|h=pfs=phièn-ngì
+|mn=pân-gî/xm,qz:piân-gî
+|w=3bi nyi,3bi nyiq
+|cat=a,n,v
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[cheap]]; [[inexpensive]]
+#: {{zh-x|這 是 鎮 上 最 '''便{pián}宜{yi}''' 的 商店。|This is the '''cheapest''' store in town.}}
+#: {{zh-x|用 '''便{pián}宜{yi}''' 的 肉 就 做 不出 好 湯。|'''Cheap''' meat doesn't make good soup.}}
+
+=====Synonyms=====
+{{zh-dial}}
+
+=====Derived terms=====
+{{zh-der|便宜貨|便宜話|便宜無好貨|便宜主義}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[let off|let somebody off]] lightly
+#: {{zh-x|你 不能 這麼 便宜 了 他。|You shouldn't let him off so lightly.}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=piányi
+|ma=zh-piányi.ogg
+|c=pin4 ji4-2,pin4 ji4
+|h=pfs=phièn-ngì
+|mn=pân-gî/xm,qz:piân-gî
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[advantage]] (usually unfairly gained)
+#: {{zh-x|他 每次 幫 我 都 想 佔 我 '''便{pián}宜{yi}'''。|He never helps me without trying to take '''advantage''' of me.}}
+
+=====Derived terms=====
+{{zh-der|討便宜:to seek advantage|佔便宜:to gain extra advantage|揀便宜|撿便宜|沾便宜|落便宜|貪便宜|貪小便宜|小便宜|得便宜是落便宜|得便宜處失便宜|拉便宜手兒|佔盡便宜|便宜不過當家}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=biànyí
+|c=bin6 ji4
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[appropriate]] and [[convenient]]; to be best
+#*: {{zh-x|我 帶 了 外甥女 過去 ， 倒 也 '''便{biàn}宜{yí}'''。|I will take my niece over, that would be '''best'''.|ref='''1784:''' {{w|Cao Xueqin}}, ''{{w|Dream of the Red Chamber}}, Chapter 003'' ([[:zh:s:紅樓夢/第003回|紅樓夢/第003回]])}}
+
+=====Derived terms=====
+{{zh-der|便宜行事|便宜處置|便宜處分|便宜施行|便宜從事}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|べん|ぎ|yomi=o}}
+
+===Noun===
+{{ja-noun|べんぎ}}
+
+# [[convenience]], [[advantage]]
+#: {{ja-usex|ご利用者の'''便宜'''のために詳細な取扱説明書もついてあります。|ご-りようしゃ の '''べんぎ''' の ため に しょうさい な とりあつかい せつめいしょ も ついて あります。|A detailed user manual is also included for the '''convenience''' of users.}}
+# [[facilities]]
+#: {{ja-usex|故郷は田舎とは言っても優れた'''便宜'''を持っていると思う。|ふるさと は いなか と は いって も すぐれた '''べんぎ''' を もって いる と おも.う。|My home town might be countrified, but I'd say it still has excellent '''facilities'''.}}
+
+[[zh-min-nan:便宜]]
+[[fr:便宜]]
+[[ko:便宜]]
+[[sw:便宜]]
+[[hu:便宜]]
+[[mg:便宜]]
+[[fj:便宜]]
+[[ja:便宜]]
+[[ta:便宜]]
+[[chr:便宜]]
+[[uk:便宜]]
+[[zh:便宜]]

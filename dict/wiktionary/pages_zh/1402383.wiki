@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǐzhě
+|c=si3 ze2
+|h=pfs=sṳ́-chá
+|mn=sú-chiá
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[herald]]; [[messenger]]; [[emissary]]; [[envoy]] {{zh-mw|位}}
+#: {{zh-x|派 使者|to dispatch an '''envoy'''}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|しゃ|yomi=o}}
+
+===Noun===
+{{ja-noun|ししゃ}}
+
+# [[herald]], [[messenger]]
+# [[emissary]], [[envoy]]
+
+===Synonyms===
+* {{ja-r|布告者|ふこくしゃ}}: herald {{qualifier|a person}}
+* {{ja-r|前触れ|まえぶれ}}: herald {{qualifier|figurative}}
+* {{ja-r|伝令官|でんれいかん}}
+
+[[fr:使者]]
+[[ko:使者]]
+[[lo:使者]]
+[[hu:使者]]
+[[mg:使者]]
+[[fj:使者]]
+[[ja:使者]]
+[[chr:使者]]
+[[zh:使者]]

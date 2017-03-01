@@ -1,0 +1,70 @@
+{{character info/new}}
+{{also|档}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=13|sn=17|four=49977|canj=DFBW|ids=⿰木當}}
+
+# [[shelf]]
+# [[frame]], [[crosspiece]]
+
+====References====
+* {{Han ref|kx=0556.330|dkj=15665|dj=0946.080|hdz=21301.080|uh=6A94|ud=27284|bh=C0C9|bd=49353}}
+
+----
+
+==Chinese==
+{{zh-forms|s=档}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=档
+|c=dong2,dong3
+|mn=tòng
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一檔子|上檔|下檔|不搭檔|中檔|低檔|低速檔|八點檔|最佳拍檔|包檔|回檔|墊檔|好搭檔|存檔|建檔|拍檔|拔檔|按檔兒|排檔|搭檔|攤檔|斷檔|檔冊|檔口|檔名|檔子|檔子班|檔期|檔案|檔案夾|檔案室|檔案管理|檔次|歸檔|滿檔|空檔|老搭檔|脫檔|自動排檔|行檔|資料檔|趕檔|高檔}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=당|eumhun=|rv=dang|mr=tang|y=tang}}
+
+# {{defn|lang=ko|sort=木13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木13| hanviet = đang}}
+
+# {{defn|lang=vi|sort=木13}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6a94 Nom Foundation]
+
+[[fr:檔]]
+[[ko:檔]]
+[[hu:檔]]
+[[mg:檔]]
+[[pl:檔]]
+[[th:檔]]
+[[zh:檔]]

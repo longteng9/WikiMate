@@ -1,0 +1,96 @@
+{{character info/new}}
+{{also|暎}}
+==Translingual==
+{{Han compound|日|央|c1=s|c2=p|t1=sun|ls=psc}}.
+
+===Han character===
+{{Han char|rn=72|rad=日|as=05|sn=9|four=64034|canj=ALBK|ids=⿰日央}}
+
+# to [[project]]
+# [[reflect]] [[light]]
+
+====References====
+* {{Han ref|kx=0493.010|dkj=13838|dj=0856.010|hdz=21500.060|uh=6620|ud=26144|bh=AC4D|bd=44109}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yìng
+|c=jing2
+|mn=qz,tw,xm,zz:èng/qz,tw,xm,zz:iàⁿ
+|mn_note=èng - literary; iàⁿ - vernacular
+|mc=y
+|oc=y
+|ma=Zh-yìng.ogg
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|反映|放映|上映|映襯|映山紅|映射|映衰|映托|映現|映像|映眼|映照}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=日05}}
+
+# a [[reflection]]; to [[reflect]]
+# a [[projection]]; to [[project]]
+
+====Readings====
+{{ja-readings
+|goon=[[よう]] (yō) {{non-joyo-reading}}, {{qualifier|historical}} [[やう]] (yau)
+|kanon=[[えい]] (ei)
+|kun=[[うつす]] ([[映す]], utsusu), [[うつる]] ([[映る]], utsuru), [[はえる]] ([[映える]], haeru), [[はえ]] ([[映え]], hae) {{non-joyo-reading}}, [[ばえ]] ([[映え]], bae) {{non-joyo-reading}}
+|nanori=[[あきら]] (akira), [[え]] (e), [[てる]] (teru)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|映る|うつる}}: to be [[reflect|reflected]]; to [[appear]] as an [[image]]; to [[match]] or go well with something {{qualifier|in terms of color coordination}}
+* {{ja-r|映画|えいが}}: a [[movie]]
+* {{ja-r|映写|えいしゃ}}: a [[projection]]; to [[project]] something {{qualifier|an image}}
+* {{ja-r|映像|えいぞう}}: an [[image]] {{qualifier|especially one on a screen or in one's mind}}, a [[reflection]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=영|eumhun=|rv=yeong|mr=yŏng|y=yeng}}
+
+# {{defn|lang=ko|sort=日05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ánh]], [[tử]]|rs=日05}}
+
+# {{defn|lang=vi|sort=日05}}
+
+[[fr:映]]
+[[ko:映]]
+[[hu:映]]
+[[mg:映]]
+[[ja:映]]
+[[no:映]]
+[[pl:映]]
+[[th:映]]
+[[uk:映]]
+[[zh:映]]

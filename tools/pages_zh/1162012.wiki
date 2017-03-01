@@ -1,0 +1,61 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=Kǒng Fūzǐ
+|c=hung2 fu1 zi2
+|h=pfs=Khûng Fû-chṳ́
+|mn=Khóng Hu-chú
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# [[Confucius]]
+
+====Synonyms====
+* {{zh-l|孔子}}
+
+===References===
+* {{pedialite|孔子|lang=zh}}
+* {{pedialite|Confucius}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|ふう|し|yomi=on}}
+
+===Proper noun===
+{{ja-pos|proper|こうふうし}}
+
+# [[Confucius]]
+
+====Synonyms====
+* {{ja-r|孔子|^こうし}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Proper noun===
+{{ko-proper noun|hangeul=공부자}}
+
+# {{hanja form of|공부자|[[Confucius]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Proper noun===
+{{vi-hantu|pos=proper noun}}
+
+# {{han tu form of|Khổng Phu Tử|[[Confucius]]}}
+
+[[fr:孔夫子]]
+[[ko:孔夫子]]
+[[hu:孔夫子]]
+[[zh:孔夫子]]

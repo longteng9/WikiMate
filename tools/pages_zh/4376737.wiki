@@ -1,0 +1,17 @@
+==Chinese==
+{{zh-forms|type=21}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=期wàngzhí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[expectation]]s {{gloss|that a person has for someone or something}}
+# {{lb|zh|maths}} [[expectation]]; expected value
+
+[[zh:期望值]]

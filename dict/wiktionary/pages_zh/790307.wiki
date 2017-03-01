@@ -1,0 +1,88 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{wasei kango||きょうわ|republicanism||joint governance}}
+
+===Pronunciation===
+{{zh-pron
+|m=gònghé
+|m-s=gong4ho2
+|c=gung6 wo4
+|h=pfs=khiung-fò
+|md=gê̤ṳng-huò
+|mn=kiōng-hô
+|w=3gon hhu
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[republicanism]]
+
+====Derived terms====
+{{zh-der|共和國}}
+
+====Related terms====
+* {{zh-l|君主制}}
+
+===Descendants===
+{{CJKV|共和|きょうわ|공화|cộng hòa}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{ja-kanjitab|きょう|わ|yomi=o}}
+From {{etyl|ltc|ja}} {{m|ltc|共和|tr=gjowngH hwa}}
+
+===Pronunciation===
+{{ja-pron|きょうわ|acc=h|acc_ref=DJR,NHK,SMK5|y=o}}
+
+===Noun===
+{{ja-noun|きょうわ}}
+
+# [[collaboration]]; [[cooperation]]; working together in [[harmony]]
+# [[republicanism]]
+
+====Derived terms====
+* {{ja-l|共和国}}
+
+===Descendants===
+* Chinese: {{zh-l|共和}}
+* Korean: {{ko-l|공화}}
+* Vietnamese: {{vi-l|cộng hòa}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Hanja===
+{{ko-hanja|hangeul=공화}}
+
+# {{hanja form of|공화|universal harmony, republicanism}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|cộng hòa|[[republic]]}}
+
+[[zh-min-nan:共和]]
+[[fr:共和]]
+[[ko:共和]]
+[[hu:共和]]
+[[mg:共和]]
+[[ja:共和]]
+[[pt:共和]]
+[[zh:共和]]

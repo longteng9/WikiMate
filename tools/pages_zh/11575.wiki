@@ -1,0 +1,109 @@
+{{character info/new}}
+{{also|劃|画|畫}}
+==Translingual==
+{{stroke order|strokes=6}}
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=04|sn=6|four=52000|canj=ILN|ids=⿰戈刂}}
+
+# to [[row]] or [[paddle]] a [[boat]]
+# to [[scratch]]
+
+====References====
+* {{Han ref|kx=0137.180|dkj=01893|dj=0309.060|hdz=10326.020|uh=5212|ud=21010|bh=A645|bd=42565}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=huá
+|c=waa4,waa1
+|h=
+|mn=
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[row]]; to [[paddle]]
+#: {{zh-x|划{huá}船|to row a boat}}
+# to [[calculate]]; to be [[profitable]]; to be a [[good]] [[deal]]
+#: {{zh-x|划{huá}算|to calculate; to weigh the pros and cons}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|mn=kò
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}} {{tcx|Min Nan|lang=zh}}
+
+# to [[row]]; to [[paddle]]
+#: {{zh-x|划船|to row a boat|tr=kò-chûn|MN}}
+
+===Etymology 3===
+{{zh-see|劃}}
+
+====References====
+* {{thcwd|2116}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=刀04}}
+
+# {{defn|lang=ja|sort=刀04}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka), [[げ]] (ge)|kun=[[さおさす]] (saosasu), [[かま]] (kama), [[さく]] (saku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=화|rv=hwa|mr=hwa|y=hwa}}
+
+# {{defn|lang=ko|sort=刀04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hoa]], [[quả]]|rs=刀04}}
+
+# {{defn|lang=vi|sort=刀04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5212 Nom Foundation]
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+[[zh-min-nan:划]]
+[[fr:划]]
+[[ko:划]]
+[[hu:划]]
+[[mg:划]]
+[[nl:划]]
+[[ja:划]]
+[[no:划]]
+[[pl:划]]
+[[th:划]]
+[[chr:划]]
+[[zh:划]]

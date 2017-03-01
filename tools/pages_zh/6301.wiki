@@ -1,0 +1,363 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=05|sn=11|four=53111|canj=LIJP|ids=⿰虫它}}
+
+===References===
+* {{Han ref|kx=1080.200|dkj=32964|dj=1548.360|hdz=42845.080|uh=86C7|ud=34503|bh=B344|bd=45892}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|虫|它|ls=psc|c1=s|c2=p}}.
+
+===Etymology 1===
+From {{inh|zh|sit-pro|*lăj}} ({{zh-ref|Starostin}}).
+{{etystub|lang=zh}}
+
+====Pronunciation====
+{{zh-pron
+|m=shé
+|c=se4
+|h=pfs=sà
+|md=siè
+|mn=chôa/siâ
+|mn_note=chôa - vernacular; siâ - literary
+|w=3zo
+|mc=3
+|oc=1,2
+|ma=y
+|cat=n,a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[snake]]; [[serpent]] {{zh-mw|條}}
+#* {{zh-x|^耶和華 ^神 對 女人 說：「你 做 的 是 甚[什]麼 事 呢？」女人 說：「那 蛇 引誘 我，我 就 吃 了。」|And the Lord God said unto the woman, What is this that thou hast done? And the woman said, The '''serpent''' beguiled me, and I did eat.|ref={{lang|zh|{{w|新標點和合本|lang=zh}}}} (Chinese Union Version with New Punctuation), {{lang|zh|創世記}} (Genesis) 3:13}}
+# [[snake]]-like; [[snaky]]
+# [[emperor]]; [[gentleman]]
+
+====Compounds====
+{{zh-der|夢蛇|一蛇二首|常山蛇|五步蛇|影中蛇|弓蛇|弓影杯蛇|地頭蛇|常山蛇勢|巨蛇座|巴蛇食象|兩頭蛇|土錦蛇|封豕長蛇|佛口蛇心|一龍一蛇|丈八蛇矛|地土蛇|四腳蛇|巴蛇|倒拔蛇|巴蛇吞象|斬蛇|枳首蛇|杯蛇鬼車|春蚓秋蛇|握蛇騎虎|水蛇腰|杯弓蛇影|捕蛇去齒|撥草尋蛇|白花蛇|畫蛇著足|拿死蛇|毒蛇猛獸|盲蛇|窟裡拔蛇|盤蛇|為蛇畫足|百節蛇|百步蛇|白蛇傳|畫蛇添足|為蛇添足|牛鬼蛇神|打草驚蛇|毒蛇|白蛇|海蛇水母|海蛇|眼鏡蛇|歲在龍蛇|斬蛇逐鹿|水蛇|騰蛇|蛇苺|蛇蠍|響尾蛇|赤練蛇|蛇足|筆走龍蛇|蛇麻|蛇蠍心腸|虎頭蛇尾|螣蛇|龜蛇二將|龍頭蛇尾|龍蛇飛動|龍蛇雜處|龍蛇陣|龍蛇混雜|龍蛇字|龍蛇|蟒蛇|蛇行|蛇蠍美人|驚蛇入草|蛇符|養虺成蛇|飛蛇|蛇口蜂針|草花蛇|蛇頭鼠眼|青蛇|靈蛇之珠|虺蛇入夢|軹首蛇|蛇心佛口|龍蛇之章|錦蛇|銀環蛇|金蛇|蛇信|蘄蛇|行行蛇蚓|龍蛇渾雜|靈蛇髻|蛇蛻|蛇神|蛇紋石|蛇皮松|蛇木|蛇吞象|魔術蛇}}
+
+===Etymology 2===
+From {{der|yue|en|sir}}.
+
+====Pronunciation====
+{{zh-pron
+|c=soe4
+|dial=n
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Hong Kong Cantonese}} [[sir]] (used when addressing policemen or male schoolteachers)
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=yí
+|c=ji4
+|dial=n
+|mc=1
+|oc=2,3
+|cat=syllables
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|Only used in certain words.}}
+#: {{zh-x|蛇{yí}蛇{yí}|facile (of words); calmly; leisurely}}
+#: {{zh-x|委{wēi}蛇{yí}|winding; meandering; pretending interest and sympathy}}
+
+{{zh-cat|Elementary|Snakes|Reptiles}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=虫05}}
+
+====Readings====
+{{ja-readings
+|goon=[[い]] (i) {{non-joyo-reading}}, [[じゃ]] (ja), [[た]] (ta) {{non-joyo-reading}}
+|kanon=[[い]] (i) {{non-joyo-reading}}, [[しゃ]] (sha) {{non-joyo-reading}}, [[た]] (ta) {{non-joyo-reading}}
+|kanyoon=[[だ]] (da)
+|kun=[[へび]] (hebi), [[へみ]] (hemi), [[くちなわ]] (kuchinawa)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|雨傘蛇|あまがさへび}}
+* {{ja-r|委蛇|い.い}}, {{ja-r|委蛇|いだ}}
+* {{ja-r|海蛇|うみへび}}
+* {{ja-r|蟒蛇|うわばみ}}
+* {{ja-r|王蛇|おうじゃ}}: [[large]] [[snake]]; [[boa]]
+* {{ja-r|鬼が住むか蛇が住むか|おに が すむ か じゃ が すむ か}}
+* {{ja-r|鬼が出るか蛇が出るか|おに が でる か じゃ が でる か}}
+* {{ja-r|蛙は口ゆえ蛇に吞まるる|かえる は くち ゆえ へび に のまるる}}
+* {{ja-r|金蛇|かなへび}}, {{ja-r|蛇舅母|かなへび}}
+* {{ja-r|がらがら蛇|がらがらへび}}
+* {{ja-r|烏蛇|からすへび}}
+* {{ja-r|川蛇|かわへび}}
+* {{ja-r|銀蛇|ぎんだ}}
+* {{ja-r|鎖蛇|くさりへび}}
+* {{ja-r|草を打って蛇を驚かす|くさ を うって へび を おどろかす}}
+* {{ja-r|縞蛇|しまへび}}
+* {{ja-r|蛇踊り|じゃおどり}}
+* {{ja-r|蛇灰岩|じゃかいがん}}
+* {{ja-r|蛇が蚊を吞んだよう|じゃ が か を のんだよう}}
+* {{ja-r|蛇籠|じゃかご}}, {{ja-r|蛇籠|じゃこ}}
+* {{ja-r|蛇管|じゃかん}}, {{ja-r|蛇管|だかん}}
+* {{ja-r|蛇口|じゃぐち}}: a [[faucet]]
+* {{ja-r|蛇結茨|じゃけついばら}}
+* {{ja-r|蛇籠|じゃかご}}
+* {{ja-r|蛇苔|じゃごけ}}
+* {{ja-r|蛇骨|じゃこつ}}
+* {{ja-r|蛇心|じゃしん}}, {{ja-r|蛇心|だしん}}
+* {{ja-r|蛇身|じゃしん}}
+* {{ja-r|蛇舌|じゃぜつ}}
+* {{ja-r|蛇体|じゃたい}}
+* {{ja-r|蛇卵|じゃだま}}
+* {{ja-r|蛇頭|じゃとう}}
+* {{ja-r|蛇道|じゃどう}}
+* {{ja-r|蛇毒|じゃどく}}, {{ja-r|蛇毒|へびどく}}
+* {{ja-r|蛇之助|じゃ の すけ}}
+* {{ja-r|蛇の鮨|じゃ の すし}}
+* {{ja-r|蛇の鬚|じゃ の ひげ}}
+* {{ja-r|蛇の道は蛇|じゃ の みち は へび}}
+* {{ja-r|蛇の目|じゃ の め}}
+* {{ja-r|蛇は一寸にして人を吞む|じゃ は いっすん に して ひと を のむ}}
+* {{ja-r|蛇腹|じゃばら}}
+* {{ja-r|蛇皮|じゃび}}
+* {{ja-r|蛇虫|じゃむし}}
+* {{ja-r|蛇紋|じゃもん}}
+* {{ja-r|蛇柳|じゃやなぎ}}
+* {{ja-r|春蚓秋蛇|しゅんいんしゅうだ}}
+* {{ja-r|常山の蛇勢|じょうざん の だせい}}
+* {{ja-r|白蛇|しろへび}}, {{ja-r|白蛇|はくじゃ}}
+* {{ja-r|大蛇|だいじゃ}}, {{ja-r|大蛇|おろち}}
+* {{ja-r|蛇蝎|だかつ}}, {{ja-r|蛇蠍|だかつ}}, {{ja-r|蛇蠍|じゃかつ}}
+* {{ja-r|蛇行|だこう}}, {{ja-r|蛇行|じゃこう}}
+* {{ja-r|蛇咬症|だこうしょう}}
+* {{ja-r|蛇足|だそく}}
+* {{ja-r|長蛇|ちょうだ}}, {{ja-r|長蛇|ちょうじゃ}}
+* {{ja-r|毒蛇|どくじゃ}}, {{ja-r|毒蛇|どくへび}}: [[venomous]] [[snake]]
+* {{ja-r|錦蛇|にしきへび}}
+* {{ja-r|杯中の蛇影|はいちゅう の だえい}}
+* {{ja-r|灰吹きから蛇が出る|はいふき から じゃ が でる}}
+* {{ja-r|裸蛇|はだかへび}}
+* {{ja-r|熇尾蛇|ひばかり}}, {{ja-r|竹根蛇|ひばかり}}
+* {{ja-r|百歩蛇|ひゃっぽだ}}
+* {{ja-r|蛇穴に入る|へび あな に いる}}
+* {{ja-r|蛇穴を出ず|へび あな を いず}}
+* {{ja-r|蛇苺|へび.いちご}}, {{ja-r|蛇苺|くちなわいちご}}
+* {{ja-r|蛇貝|へびがい}}
+* {{ja-r|蛇神|へびがみ}}
+* {{ja-r|蛇食鷲|へびくいわし}}
+* {{ja-r|蛇座|^へびざ}}: [[Serpens]]
+* {{ja-r|蛇責め|へびぜめ}}
+* {{ja-r|蛇遣い|へびつかい}}
+* {{ja-r|蛇蜻蛉|へびとんぼ}}
+* {{ja-r|蛇に嚙まれて朽ち縄に怖じる|へび に かまれて くちなわ に おじる}}
+* {{ja-r|蛇に見込まれた蛙のよう|へび に みこまれた かえる の よう}}
+* {{ja-r|蛇の衣|へびのきぬ}}
+* {{ja-r|蛇の生殺し|へび の なまごろし}}
+* {{ja-r|蛇寝御座|へび の ねござ}}
+* {{ja-r|蛇上らず|へびのぼらず}}
+* {{ja-r|蛇婿入り|へびむこいり}}
+* {{ja-r|水蛇座|^みずへびざ}}: [[Hydrus]]
+* {{ja-r|眼鏡蛇|めがねへび}}
+* {{ja-r|盲蛇|めくらへび}}
+* {{ja-r|藪蛇|やぶへび}}
+* {{ja-r|藪をつついて蛇を出す|やぶ を つついて へび を だす}}
+* {{ja-r|赤楝蛇|やまかがし}}, {{ja-r|山楝蛇|やまかがし}}
+* {{ja-r|蟒蛇|やまかがち}}
+* {{ja-r|竜頭蛇尾|りゅうとうだび}}: [[anticlimax]]
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|へみ}}
+{{IPAchar|/pemi/}} → {{IPAchar|/ɸemi/}} → {{IPAchar|/hemi/}}
+
+From {{etyl|ojp|ja|sort=へみ}}. The older form of modern ''hebi'' below.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Possibly cognate with {{cog|ko|뱀||snake}}.
+
+Possibly related to, or influenced by, {{etyl|ojp|-}}-derived verb {{m|ja|食む|tr=hamu||to bite}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|へみ}}
+
+====Noun====
+{{ja-noun|へみ}}
+
+# {{lb|ja|obsolete|sort=へみ}} [[snake]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|へび}}
+{{IPAchar|/hemi/}} → {{IPAchar|/hebi/}}
+
+From earlier ''hemi''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJS">{{R:Daijisen}}</ref> The medial {{IPAchar|/m/}} lost its nasal quality to become a [[plosive]].
+
+====Pronunciation====
+{{ja-pron|yomi=k|へび|acc=1|acc_ref=NHK,DJR,SMK5}}
+
+====Noun====
+{{ja-noun|へび|ヘビ}}
+
+# [[snake]], [[serpent]]
+
+=====Usage notes=====
+{{U:ja:biology|ヘビ}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|くちなわ}}
+{{IPAchar|/kutinapa/}} → {{IPAchar|/kutinaɸa/}} → {{IPAchar|/kutinawa/}} → {{IPAchar|/kut͡ɕinawa/}}
+
+Compound of {{compound|lang=ja|sort=くちなわ|朽ち|tr1=kuchi|t1=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|朽ちる}} ''kuchiru'', “to rot”|縄|tr2=nawa|t2=rope, cord}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref><ref name="SMK5">{{R:Shinmeikai5}}</ref> Literally “rotten rope”, based on the appearance of a snake.
+
+====Pronunciation====
+{{ja-pron|yomi=k|くちなわ|dev=1|acc=0|acc_ref=DJR,NHK,SMK5}}
+
+====Noun====
+{{ja-noun|くちなわ|hhira=くちなは}}
+
+# {{lb|ja|obsolete|sort=くちなわ}} [[snake]]
+
+===Etymology 4===
+{{ja-kanjitab|じゃ|yomi=o}}
+From {{etyl|ltc|ja|sort=しゃ'}} {{m|zh|蛇|tr=zyæ}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|じゃ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|じゃ}}
+
+# [[snake]], [[large]] [[snake]], [[serpent]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|蛇口|じゃぐち}}: a [[faucet]] {{qualifier|from the way a curved faucet may look a bit like a curved snake, with the water emerging from its mouth}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|へび]]
+[[Category:ja:Snakes|へび]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[사]], [[이]]|eumhun=}}
+
+# {{defn|lang=ko|sort=虫05}}
+
+----
+
+==Miyako==
+
+===Kanji===
+{{head|mvi|kanji|hiragana|ぱゔ|romaji|pav}}
+
+===Etymology===
+Cognate with mainland {{cog|ja|蛇|tr=hebi}}.
+
+===Alternative forms===
+* {{l|mvi|波布}}
+
+===Noun===
+{{head|mvi|noun|hiragana|ぱゔ|romaji|pav}}
+
+# [[snake]], [[viper]], [[Okinawan habu]]
+
+[[Category:mvi:Snakes|はゔ'']]
+
+----
+
+==Oki-No-Erabu==
+
+===Kanji===
+{{head|okn|kanji|hiragana|ひび|romaji|hibi}}
+
+===Etymology===
+Cognate with mainland {{cog|ja|蛇|tr=hebi}}.
+
+===Noun===
+{{head|okn|noun|hiragana|ひび|romaji|hibi}}
+
+# [[snake]]
+
+[[Category:okn:Snakes|ひび]]
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{head|ryu|kanji|hiragana|はぶ|romaji|habu}}
+
+===Etymology===
+Cognate with mainland {{cog|ja|蛇|tr=hebi}}.
+
+===Alternative forms===
+* {{l|ryu|波布}}
+
+===Noun===
+{{head|ryu|noun|hiragana|はぶ|romaji|habu}}
+
+# [[snake]], [[viper]], [[Okinawan habu]]
+
+[[Category:ryu:Snakes|はぶ]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|xà, [[thạch]]|rs=虫05}}
+
+# {{defn|lang=vi|sort=虫05}}
+
+[[zh-min-nan:蛇]]
+[[cs:蛇]]
+[[el:蛇]]
+[[es:蛇]]
+[[fr:蛇]]
+[[ko:蛇]]
+[[sw:蛇]]
+[[ku:蛇]]
+[[lo:蛇]]
+[[la:蛇]]
+[[lt:蛇]]
+[[hu:蛇]]
+[[mg:蛇]]
+[[ms:蛇]]
+[[fj:蛇]]
+[[nl:蛇]]
+[[ja:蛇]]
+[[no:蛇]]
+[[pl:蛇]]
+[[ro:蛇]]
+[[ru:蛇]]
+[[sm:蛇]]
+[[fi:蛇]]
+[[sv:蛇]]
+[[th:蛇]]
+[[chr:蛇]]
+[[tr:蛇]]
+[[uk:蛇]]
+[[zh:蛇]]

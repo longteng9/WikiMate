@@ -1,0 +1,54 @@
+{{also|胜负}}
+==Chinese==
+{{zh-forms|s=胜负}}
+
+===Pronunciation===
+{{zh-pron
+|m=shèngfù
+|c=sing3 fu6
+|h=pfs=sṳn-fu
+|mn=qz,xm:sèng-hù/tw,xm,zz:sèng-hū
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[victory]] or [[defeat]]
+
+{{zh-cat|Antonymous}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|ぶ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=a|y=o|しょうぶ}}
+
+===Noun===
+{{ja-noun|しょうぶ}}
+
+# a [[competition]]; a [[game]]; a [[match]]
+#* '''1933''', 戸坂潤, 社会時評:
+#*: {{ja-usex|国%際%競%争に限らず、'''勝%負'''は機%会%均%等でなければならぬ。|^こく%さい% きょう%そう に かぎらず、 '''しょう%ぶ''' は き%かい% きん%とう で なければ ならぬ。|There must be equal opportunity in all '''games''', not only international competitions.}}
+#* {{quote-book|genre=fiction||{{w|Gosho Aoyama}}|{{w|まじっく快斗|{{ruby|{{lang|ja|まじっく[快](かい)[斗](と)}}}}|lang=ja}}|trans-title={{w|Magic Kaito}}|location=Tokyo|publisher=Shogakukan|date=Mar 15 2007|isbn=978-4-09-121005-0|volume=4|chapter={{ruby|{{lang|ja|ゴールデン・アイの[巻](まき)【[前](ぜん)[編](ぺん)】}}}}|trans-chapter=Golden Eye [First Chapter]||108|{{ja-usex|私の名は黒猫…来る日%曜%２１%時…ホテルオーシャンでの君との'''勝%負'''が楽しみだ…|^わたし の な は ^シャ ^ノアール… ^きたる にち%よう% にじゅういち%-じ… ^ホテル ^オーシャン で の きみ との '''しょう%ぶ''' が たのしみ だ…|My name is Chat Noir… The upcoming Sunday at 21… I'm looking forward to the '''match''' with you at Hotel Ocean…}}|language=Japanese}}
+# [[victory]] or [[defeat]], the [[outcome]] of a match
+#* '''1907''', 夏目漱石, 虞美人草:
+#*: {{ja-usex|'''勝%負'''はすでについた。|'''しょう%ぶ''' は すで に ついた。|The '''outcome''' was already decided.}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|しょうぶ}}
+
+# [[compete]]; have a match
+
+====Conjugation====
+{{ja-suru|しょうぶ}}
+
+[[fr:勝負]]
+[[ko:勝負]]
+[[lo:勝負]]
+[[hu:勝負]]
+[[mg:勝負]]
+[[ja:勝負]]
+[[zh:勝負]]

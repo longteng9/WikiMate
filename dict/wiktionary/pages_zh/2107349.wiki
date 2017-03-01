@@ -1,0 +1,30 @@
+==Japanese==
+{{ja-kanjitab|ほう|かい|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ほうかい|y=o|acc=0}}
+
+===Noun===
+{{ja-noun|ほうかい}}
+
+# [[decay]], [[deterioration]], [[disintegration]]
+# [[collapse]]
+
+===Verb===
+{{ja-verb-suru|ほうかい}}
+
+# [[collapse]]
+# decay, [[deteriorate]], [[disintegrate]]
+#: {{ja-usex|組織が'''崩壊'''した。|そしき が '''ほうかい''' した。|The organization deteriorated.}}
+
+====Conjugation====
+{{ja-suru|ほうかい}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[fr:崩壊]]
+[[kn:崩壊]]
+[[mg:崩壊]]
+[[ja:崩壊]]
+[[zh:崩壊]]

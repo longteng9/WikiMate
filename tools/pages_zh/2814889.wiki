@@ -1,0 +1,10 @@
+==Japanese==
+{{ja-kanjitab|かい|すい|おん|yomi=o}}
+
+===Etymology===
+{{compound|海水|温|lang=ja|t1=seawater|t2=temperature|sort=かいすいおん}}
+
+===Noun===
+{{ja-noun|かいすいおん|kyu=海水溫}}
+
+# seawater [[temperature]]

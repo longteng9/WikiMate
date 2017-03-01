@@ -1,0 +1,66 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=微shēngwù
+|c=mei4 sang1 mat6
+|mn=bî-seng-bu̍t
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[microorganism]]; [[microbe]]
+
+====Derived terms====
+{{zh-der|微生物學}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|び|せい|ぶつ|yomi=on}}
+
+===Noun===
+{{ja-noun|びせいぶつ}}
+
+# [[microorganism]], [[microbe]]
+
+====Compounds====
+* {{l/ja|微生物学}}
+* {{l/ja|微生物学者}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Microbiology|ひせいふつ]]
+[[Category:ja:Sciences|ひせいふつ]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=미생물}}
+
+# {{hanja form of|미생물|[[microorganism]], [[microbe]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu|pos=noun}}
+
+# {{han tu form of|vi sinh vật|[[microorganism]], [[microbe]]}}
+
+[[fr:微生物]]
+[[ko:微生物]]
+[[lo:微生物]]
+[[hu:微生物]]
+[[ja:微生物]]
+[[ru:微生物]]
+[[zh:微生物]]

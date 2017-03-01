@@ -1,0 +1,126 @@
+{{character info/new}}
+{{also|蔔|ト}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+{{Han etyl}}
+Perhaps a [[象形|pictogram]] of a crack in an [http://en.wikipedia.org/wiki/Oracle_bone oracle bone], used for divination in ancient China. The word itself (Old Chinese: ''*puk'') may be [[onomatopoeia|onomatopoeic]] in origin.
+
+===Han character===
+{{Han char|rn=25|rad=卜|as=00|sn=2|four=23000|canj=Y|ids=⿰丨丶}}
+
+# [[fortune telling]]
+# [[prophecy]]
+# a [[surname]]
+# {{mul-kangxi radical-def}}
+
+====References====
+* {{Han ref|kx=0157.250|dkj=02774|dj=0361.150|hdz=10091.110|uh=535C|ud=21340|bh=A452|bd=42066}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=bǔ
+|c=buk1
+|h=pfs=puk
+|mn=pok/poh
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=n
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|cmn|literary}} to [[divine]]
+
+====References====
+* {{thcwd|64}}
+
+[[Category:Mandarin literary terms|bu3]]
+
+===Etymology 2===
+{{zh-see|蔔||[[radish]]}}
+
+===Etymology 3===
+{{zh-see|欲|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=8|rs=卜00}}
+
+====Readings====
+* {{ja-readings|goon=[[ほく]] (hoku)|kanon=[[ほく]] (hoku)|kanyoon=[[ぼく]] (boku)|kun=[[うらなう]] (uranau), [[うらない]] (uranai)}}
+
+===Noun===
+{{ja-noun|うらない}}
+
+# {{alternative form of|占い|lang=ja}}
+
+{{ja-noun|ぼく}}
+
+# {{lb|ja|archaic|sort=ほく'}} [[fortune-telling]]
+
+{{ja-noun|うら}}
+
+# {{lb|ja|archaic|sort=うら}} [[fortune-telling]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=복|rv=bok|mr=pok|y=pok}}
+
+# {{defn|lang=ko|sort=卜00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=卜00}}
+
+====Readings====
+* [[音読|âm]]: [[bốc]], [[cốc]], [[bặc]], [[bóc]], [[vốc]]
+* [[意義|nghĩa]] (''literal meaning''): ăn bốc
+
+====Verb====
+{{head|vi|verb|sc=Hant}}{{attention|vi|may need inflection template}}
+
+# [[ăn bốc]] ([[咹卜]], to [[eat]] with the [[fingers]])
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=535c Nôm Foundation]
+* Vietnamese Dictionaries: [http://dict.vietfun.com Viet Fun], [http://www.vietdictionary.com Viet Dictionary]
+
+[[Category:Vietnamese verbs]]
+
+[[Category:CJKV radicals| ]]
+
+[[fr:卜]]
+[[ko:卜]]
+[[li:卜]]
+[[hu:卜]]
+[[mg:卜]]
+[[ms:卜]]
+[[ja:卜]]
+[[no:卜]]
+[[pl:卜]]
+[[ru:卜]]
+[[ta:卜]]
+[[th:卜]]
+[[vi:卜]]
+[[zh:卜]]

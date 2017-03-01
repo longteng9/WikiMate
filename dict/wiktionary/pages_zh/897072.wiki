@@ -1,0 +1,66 @@
+{{also|明}}
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=rìyuè
+|c=jat6 jyut6
+|h=pfs=ngit-ngie̍t
+|mn=ji̍t-goe̍h/ji̍t-ge̍h
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literally}} [[sun]] and [[moon]]
+# {{lb|zh|figurative}} [[life]]; [[livelihood]]
+# {{lb|zh|figurative}} [[time]]; [[time]]s
+
+====Descendants====
+{{CJKV||じつげつ|일월|nhật nguyệt}}
+
+{{zh-cat|Antonymous}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じつ|げつ|yomi=on}}
+
+===Etymology===
+From {{ja-compound|日|じつ|月|げつ|t1=sun|t2=moon}}.
+
+===Pronunciation===
+* {{ja-pron|じつげつ|y=o}}
+
+===Noun===
+{{ja-noun|じつげつ}}
+
+# [[sun]] and [[moon]]
+# [[life]], [[livelihood]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=일월|rv=irweol|hidx=ㅇ}}
+
+# {{hanja form of|일월|sun and moon}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|nhật nguyệt|[[sun]] and [[moon]]}}
+
+[[ko:日月]]
+[[mg:日月]]
+[[th:日月]]
+[[zh:日月]]

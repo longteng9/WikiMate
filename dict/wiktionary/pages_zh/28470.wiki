@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|辖}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=10|sn=17|four=53061|canj=JJJQR|ids=⿰車害}}
+
+# linchpin of wheel
+# [[control]]
+
+====References====
+* {{Han ref|kx=1247.320|dkj=38482|dj=1725.120|hdz=53551.010|uh=8F44|ud=36676|bh=C1D2|bd=49618}}
+
+----
+
+==Chinese==
+{{zh-forms|s=辖}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiá
+|c=hat6
+|h=pfs=
+|md=
+|mn=qz,tw,zz:hat/twv,xm:ha̍t
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|投轄|直轄|省轄市|直轄市|縣轄市|轄地|統轄|都轄|總轄|轄床|轄治|管轄權|管轄|陳遵投轄|院轄市|轄押|轄區|轄境}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=車10}}
+
+# {{defn|lang=ja|sort=車10}}
+
+====Readings====
+* {{ja-readings|goon=[[かい]] (kai), [[げち]] (gechi)|kanon=[[かい]] (kai), [[かつ]] (katsu)|kun=[[くさび]] (kusabi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=할|eumhun= 다스릴 할|rv=hal|mr=hal|y=hal}}
+
+====Definitions====
+# [[linchpin]]
+# to govern; to control
+
+====Compounds====
+# 管轄 (관할)
+# 統轄 (통할)
+# 直轄 (직할)
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hạt]], [[hợt]]|rs=車10}}
+
+# {{defn|lang=vi|sort=車10}}
+
+[[fr:轄]]
+[[ko:轄]]
+[[hu:轄]]
+[[ja:轄]]
+[[pl:轄]]
+[[th:轄]]
+[[zh:轄]]

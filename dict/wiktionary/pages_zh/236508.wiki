@@ -1,0 +1,92 @@
+{{also|飞行机}}
+==Chinese==
+{{zh-forms|s=飞行机|type=21|alt=飛龍機:hoe-lêng-ki; hui-; poe-; -nn̄g-}}
+
+===Etymology===
+{{wasei kango|飛%行%機|ひ%こう%き|airplane}}.
+
+===Pronunciation===
+{{zh-pron
+|m=fēixíngjī
+|c=fei1 hang4 gei1
+|h=pfs=fî-hàng-kî/n:bî-hàng-kî/s:fî-yàng-kî/s:bî-yàng-kî/hì-kho-khí
+|h_note=hì-kho-khí - from Japanese pronunciation
+|mn=tp,kh,hc,tc:hoe-lêng-ki/lk,sx:hui-hêng-ki/tn:poe-lêng-ki/yl:hui-lêng-ki/mg:hoe-nn̄g-ki
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Taiwanese Min Nan and Hakka|dated|_|in|_|Mandarin}} [[airplane]]
+
+====Synonyms====
+{{zh-dial|飛機}}
+
+===External links===
+* [http://www.twl.ncku.edu.tw/~uibun/act/2004/conf/poj/chuliau/lunbun/6%20tio-sun-bun.doc 日製台語再探索 (exploring Taiwanese words of Japanese origin)]
+
+===References===
+* (''Min Nan'') {{thcwd|5609}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひ|こう|き|yomi=on}}
+
+===Etymology===
+{{m|ja|飛行||aviation|tr=ひこう, hikō|sc=Jpan}}
+(from {{m|ja|飛||fly|tr=ひ, hi|sc=Jpan}} + {{m|ja|行||go|tr=こう, kō|sc=Jpan}}) + {{m|ja|機||machine|tr=き, ki|sc=Jpan}}
+
+===Pronunciation===
+{{ja-pron|ひこうき|dev=1|acc=2|y=ko}}
+
+===Noun===
+{{ja-noun|count=機|ひこうき}}
+
+# an [[airplane]]
+
+====Related terms====
+* {{ja-r|航空機|こうくうき}}: [[aircraft]]
+* {{ja-r|飛行船|ひこうせん}}: [[airship]]
+
+===References===
+* {{R:OxfordJapanese}}
+
+[[Category:Japanese basic words|ひこうき]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=비행기}}
+
+# {{hanja form of|비행기|[[airplane]]}}
+
+[[ar:飛行機]]
+[[zh-min-nan:飛行機]]
+[[cs:飛行機]]
+[[fr:飛行機]]
+[[gl:飛行機]]
+[[ko:飛行機]]
+[[ky:飛行機]]
+[[lo:飛行機]]
+[[li:飛行機]]
+[[hu:飛行機]]
+[[mg:飛行機]]
+[[mn:飛行機]]
+[[fj:飛行機]]
+[[nl:飛行機]]
+[[ja:飛行機]]
+[[uz:飛行機]]
+[[km:飛行機]]
+[[pl:飛行機]]
+[[pt:飛行機]]
+[[sh:飛行機]]
+[[sv:飛行機]]
+[[tg:飛行機]]
+[[chr:飛行機]]
+[[uk:飛行機]]
+[[zh:飛行機]]

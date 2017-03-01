@@ -1,0 +1,137 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=05|sn=11|four=88104|canj=HHQM|ids=⿱⺮生}}
+
+# a [[sheng]]; a hand-held free-reed [[mouth organ]] made from a dried [[gourd]] and 13 or more [[bamboo]] [[pipe]]s
+
+====References====
+* {{Han ref|kx=0879.290|dkj=25913|dj=1307.210|hdz=52955.060|uh=7B19|ud=31513|bh=B2C6|bd=45766}}
+
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shēng
+|c=saang1,sang1
+|h=pfs=sên
+|mn=qz:sng/tw,xm,zz:seng
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====See also====
+* {{zh-l|樦}}
+
+====Compounds====
+{{zh-der|芦笙|蘆笙|笙簧|玉帛笙歌|笙磬同音|鳳笙|笙歌匝地|笙詩|笙歌|笙歌鼎沸|葫蘆笙}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+{{zh-cat|Musical instruments}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{wikipedia|Shō}}
+[[File:THOM Chinese Cheng and Japanese Sho.jpg|thumb|right|250px|Chinese ''shēng'' (L) & Japanese ''shō'' (R)]]
+
+===Kanji===
+{{ja-kanji|grade=n|rs=竹05}}
+
+====Readings====
+{{ja-readings
+|goon=[[しょう]] (shō), {{qualifier|historical}} [[しゃう]] (shau)
+|kanon=[[そう]] (sō), {{qualifier|historical}} [[さう]] (sau)
+|kanyoon=[[せい]] (sei)
+|kun=[[ふえ]] (fue)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|しょう|yomi=o}}
+From {{etyl|ltc|ja|sort=しょう}} {{m|ltc|笙|tr={{IPAchar|/*shræng/}}}}. [[呉音#Japanese|Goon]], so likely the original reading as first borrowed from {{etyl|ltc|-}}. Compare modern {{cog|cmn|笙|tr=shēng}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|しょう|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|しょう|hhira=しゃう}}
+
+# {{lb|ja|sort=しょう|musical instrument}} the [[sho]]
+#: A free-[[reed]] [[woodwind]] [[musical]] [[instrument]] consisting of a [[mouthpiece]] and seventeen [[pipe]]s, each similar to an [[w:Organ pipe|organ pipe]]. Developed from the Chinese ''[[shēng]]'' that was introduced to Japan during the [[w:Nara period|Nara Period]]. Traditionally used to provide [[accompaniment]] in [[雅楽#Japanese|''gagaku'']] (traditional Japanese court music), and now also used in some [[contemporary]] music.
+
+====Synonyms====
+* {{ja-r|鳳管|ほうかん}}
+
+=====Derived terms=====
+* {{ja-r|笙の笛|しょう の ふえ}}: a type of [[simplified]] sho used as a [[toy]]
+* {{ja-r|笙歌|しょうか}}, {{ja-r|笙歌|せいか}}: [[singing]] to a sho [[accompaniment]]; to [[sing]] to a sho accompaniment; a [[song]] [[sung]] to a sho accompaniment
+* {{ja-r|笙岩屋|^しょう の ^いわや}}, {{ja-r|笙窟|^しょう の ^いわや}}: a [[cave]] and [[pilgrimage]] [[destination]] in central [[w:Nara Prefecture|Nara Prefecture]]
+* {{ja-r|鳳笙|ほうしょう}}: [[sho]]
+* {{ja-r|蘆笙|ろしょう}}
+
+=====See also=====
+* {{pedialite|Gagaku}}
+
+===Etymology 2===
+{{ja-kanjitab|そう|yomi=o}}
+From {{etyl|ltc|ja|sort=しょう}} {{m|ltc|笙}}. [[漢音#Japanese|Kan'on]], so likely an historically later reading. Compare modern {{cog|yue|笙|tr=saang¹, sang¹}}. Seen in ''[[w:The Tale of Genji|The Tale of Genji]]''.
+
+This reading is obsolete in modern Japanese.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|そう}}
+
+====Noun====
+{{ja-noun|そう|hhira=さう}}
+
+# {{lb|ja|sort=そう|obsolete}} the [[sho]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=생|eumhun=|rv=saeng|mr=saeng|y=sayng}}
+
+# {{defn|lang=ko|sort=竹05}}
+
+====Compounds====
+* [[笙簧]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|sanh|rs=竹05}}
+
+# {{defn|lang=vi|sort=竹05}}
+
+[[fr:笙]]
+[[hu:笙]]
+[[mg:笙]]
+[[ja:笙]]
+[[no:笙]]
+[[pl:笙]]
+[[th:笙]]
+[[zh:笙]]

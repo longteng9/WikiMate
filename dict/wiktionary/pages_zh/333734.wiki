@@ -1,0 +1,38 @@
+{{also|半徑}}
+==Chinese==
+{{zh-see|半徑}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|はん|けい|yomi=on}}
+
+===Etymology===
+{{m|ja|半|tr=han||half}} + {{m|ja|径|tr=kei||diameter}}
+
+===Noun===
+{{ja-noun|はんけい|kyu=半徑}}
+
+# {{lb|ja|geometry|sort=はんけい}} [[radius]]
+
+====Related terms====
+* {{ja-r|円|えん}}: [[circle]]
+* {{ja-r|直径|ちょっけい}}: [[diameter]]
+* {{ja-r|円周|えんしゅう}}: [[circumference]]
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Geometry|はんけい]]
+
+[[ko:半径]]
+[[lo:半径]]
+[[lt:半径]]
+[[hu:半径]]
+[[mg:半径]]
+[[ja:半径]]
+[[pl:半径]]
+[[ru:半径]]
+[[sv:半径]]
+[[chr:半径]]
+[[zh:半径]]

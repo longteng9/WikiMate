@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=66|rad=攴|as=08|sn=12|four=98240|canj=FBOK|ids=⿰㡀攵}}
+
+# [[break]], [[destroy]]
+# [[broken]], [[tattered]]
+
+====Derived terms====
+* {{l|mul|弊}}, {{l|mul|斃}}, {{l|mul|蔽}}, {{l|mul|幣}}, {{l|mul|蹩}}, {{l|mul|彆}}, {{l|mul|鐅}}, {{l|mul|鼈}}, {{l|mul|嫳}}, {{l|mul|撆}}, {{l|mul|潎}}, {{l|mul|獘}}, {{l|mul|鄨}}, {{l|mul|鷩}}, {{l|mul|瞥}}
+
+====References====
+* {{Han ref|kx=0472.110|dkj=13245|dj=0824.190|hdz=21461.040|uh=655D|ud=25949|bh=B1CD|bd=45517}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|㡀|攴|c1=p|c2=s|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bì
+|c=bai6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|凋敝|千金敝帚|如棄敝屣|悉索敝賦|彫敝|季子裘敝|敝屣自珍|民生彫敝|敝眷|敝處|振衰起敝|敝房|敝人|民生凋敝|敝帚自珍|敝塾|視如敝屣|敝帚千金|敝地|敝友|敝號|棄若敝屣|敝鬼|疲敝|敝笱|敝屣王侯|敝屣|敝國|敝膝|敝屣視之|敝蹝|敝屣尊榮|敝上|蠱敝|脣焦舌敝|靡敝|舌敝脣焦|罷敝}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=攴08}}
+
+# {{defn|lang=ja|sort=攴08}}
+
+====Readings====
+* {{ja-readings|goon=[[べ]] (be)|kanon=[[へい]] (hei)|kun=[[やぶれる]] (yabureru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=폐|eumhun=|rv=pye|mr=p'ye|y=phyey}}
+
+# {{defn|lang=ko|sort=攴08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=攴08|hanviet=tệ}}
+
+# {{defn|lang=vi|sort=攴08}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:敝]]
+[[hu:敝]]
+[[mg:敝]]
+[[ja:敝]]
+[[pl:敝]]
+[[th:敝]]
+[[zh:敝]]

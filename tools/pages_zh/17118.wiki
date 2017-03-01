@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=08|sn=12|four=60014|canj=AHOG|ids=⿰日往}}
+
+====References====
+* {{Han ref|kx=0497.311|dkj=14014|hdz=21519.040|uh=6680|ud=26240|bh=D9A4|bd=55716}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wǎng
+|c=wong2
+|mc=y
+|oc=y
+|ma=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{synonym of|光|lang=zh}}
+# {{synonym of|德|lang=zh}}
+# {{synonym of|是|lang=zh}}
+
+{{attention|zh|this is what references say, but it sounds mighty odd to me--please check 06:29, 26 December 2015 (UTC)}}
+
+===Etymology 2===
+{{zh-see|旺|v}}
+
+===References===
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 123]
+* {{R:twedu|B01561}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日08}}
+
+# {{defn|lang=ja|sort=日08}}
+
+====Readings====
+* {{ja-readings|on=[[おう]] (ō), [[きょう]] (kyō), [[ごう]] (gō)|kun=[[かがやきうつくしい]] (kagayakiutsukushii)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=日08|hanviet=vạng}}
+
+# {{defn|lang=vi|sort=日08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6680 Nom Foundation]
+
+[[fr:暀]]
+[[hu:暀]]
+[[pl:暀]]
+[[th:暀]]
+[[zh:暀]]

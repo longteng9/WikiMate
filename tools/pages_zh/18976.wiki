@@ -1,0 +1,70 @@
+{{character info/new}}
+{{also|浃}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=07|sn=10|four=34138|canj=EKOO}}
+
+# [[saturate]], [[drench]]
+# [[damp]], [[wet]]
+
+====References====
+* {{Han ref|kx=0625.170|dkj=17506|dj=1027.030|hdz=31620.070|uh=6D79|ud=28025|bh=AF48|bd=44872}}
+
+----
+
+==Chinese==
+{{zh-forms|s=浃}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiā,jiá
+|c=gaap3,zip3
+|mc=y
+|oc=y
+|cat=
+}}
+{{attention|zh|please check}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|周浹|日浹往來|普浹|汗流浹背|流汗浹背|浹日|浹洽|浹浹|浹渫|浹背|浹辰|浹髓淪肌|浹髓淪膚|淪肌浹髓}}
+
+===References===
+* {{R:twedu|B02110}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水07}}
+
+# {{defn|lang=ja|sort=水07}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[あまねし]] (amaneshi), [[とおる]] (tooru), [[うるおう]] (uruou)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=협|eumhun=|rv=hyeop|mr=hyŏp|y=hyep}}
+
+# {{defn|lang=ko|sort=水07}}
+
+[[fr:浹]]
+[[hu:浹]]
+[[ja:浹]]
+[[pl:浹]]
+[[th:浹]]
+[[zh:浹]]

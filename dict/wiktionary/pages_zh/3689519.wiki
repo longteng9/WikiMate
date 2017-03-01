@@ -1,0 +1,50 @@
+{{also|自衞|自卫}}
+==Chinese==
+{{zh-forms|s=自卫|t2=自衞}}
+
+===Pronunciation===
+{{zh-pron
+|m=zìwèi
+|c=zi6 wai6
+|mn=qz:chīr-ōe/tw,xm,zz:chū-ōe
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[self-defence]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[defend]] oneself
+
+----
+
+==Japanese==
+{{ja-kanjitab|じ|えい}}
+
+===Pronunciation===
+{{ja-pron|じえい|y=on}}
+
+===Noun===
+{{ja-noun|じえい}}
+
+# [[self-defense]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|じえい}}
+
+# [[defend]] oneself on one's own from attack etc.
+#: {{ja-usex|自衛隊は日本を自衛する|じえいたい は ^にほん を じえい する|the JSDF defends Japan}}
+#: {{ja-usex|アカウントを自衛する|アカウント を じえい する|protect one's account}}
+
+====Conjugation====
+{{ja-suru|じえい}}
+
+[[zh-min-nan:自衛]]
+[[ko:自衛]]
+[[hu:自衛]]
+[[ja:自衛]]
+[[zh:自衛]]

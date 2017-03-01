@@ -1,0 +1,112 @@
+{{character info/new}}
+{{also|迹}}
+==Translingual==
+{{ja-forms|跡|[[迹]]|跡}}
+
+===Han character===
+{{Han char|rn=157|rad=足|as=06|sn=13|four=60130|canj=RMYLC|ids=⿰𧾷亦}}
+
+====Descendants====
+* [[迹]]
+
+====References====
+* {{Han ref|kx=1224.160|dkj=37493|dj=1696.070|hdz=63706.020|uh=8DE1|ud=36321|bh=B8F1|bd=47345}}
+
+----
+
+==Chinese==
+{{zh-forms|s=迹|t2=蹟}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|足|alt1=⻊|t1=foot, move|亦|ls=psc|c1=s|c2=p}} – to track on foot.
+
+===Pronunciation===
+{{zh-pron
+|m=迹
+|c=zik1,zek3
+|h=pfs=chiak
+|md=
+|mn=chek/jiah/liah
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[mark]], [[track]], [[trace]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=足06}}
+
+# [[track]]s
+
+====Readings====
+{{ja-readings|kanon=[[せき]] (seki)|goon=[[しゃく]] (shaku)|kun=[[あと]] (ato)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|足跡|あしあと}}
+* {{ja-r|遺跡|いせき}}, {{ja-r|遺跡|ゆいせき}}
+* {{ja-r|奇跡|きせき}}: [[miracle]]
+* {{ja-r|形跡|けいせき}}
+* {{ja-r|史跡|しせき}}
+* {{ja-r|足跡|そくせき}}
+* {{ja-r|焼け跡|やけあと}}
+{{der-bottom}}
+
+{{ja-kanjitab|あと|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|あと|acc=1|acc_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{ja-l|迹}}
+
+===Noun===
+{{ja-noun|あと}}
+
+# a [[track]] or [[trace]]; evidence of something moving, such as [[footprint]]s from a living thing
+# [[remain]]s; [[ruin]]s
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=적}}
+
+# {{defn|lang=ko|sort=足06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tích]]|rs=足06}}
+
+# {{defn|lang=vi|sort=足06}}
+
+[[fr:跡]]
+[[ko:跡]]
+[[hi:跡]]
+[[it:跡]]
+[[lo:跡]]
+[[hu:跡]]
+[[mg:跡]]
+[[ja:跡]]
+[[pl:跡]]
+[[fi:跡]]
+[[th:跡]]
+[[chr:跡]]
+[[zh:跡]]

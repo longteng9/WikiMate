@@ -1,0 +1,64 @@
+==Japanese==
+
+===Etymology===
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|じ|てん|しゃ|yomi=o}}
+Coined in Japan in 1870 in the [[w:Meiji period|Meiji period]] in reference to a patented [[tricycle]] design.<ref>'''1997''', Toshihiko Saitō, {{lang|ja|くるまたちの社会史: 人力車から自動車まで}} (''Kuruma-tachi no Shakai-shi: Jinrikisha Kara Jidōsha Made'', “A Social History of Cars: From Rickshaws to Automobiles”) (in Japanese), [[w:Tokyo|Tōkyō]]: [[w:Chuokoron-Shinsha|Chūōkōron-sha]], ISBN 978-4121013460</ref> Later used to refer to [[bicycle]]s.
+
+Compound of {{cog|zhx}}-derived elements {{compound|lang=ja|sort=してんしゃ'|自|tr1=ji|t1=self|転|tr2=ten|t2=rolling|pos2=simplified modern form of {{ja-l|轉}}|車|tr3=sha|t3=vehicle}}.
+
+===Pronunciation===
+{{ja-pron|じてんしゃ|y=go|acc=2|acc2=0|acc_ref=NHK,DJR|acc2_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|count=台|じてんしゃ|kyu=自轉車|hhira=じてんしや}}
+
+# a [[bicycle]]
+
+====Synonyms====
+* {{qualifier|slang}} {{ja-r|チャリンコ}}
+* {{qualifier|slang}} {{ja-r|チャリ}}
+* {{qualifier|slang}} {{ja-r|ママチャリ}}: a bicycle with extra baskets for groceries and children, generally ridden by young mothers
+
+====Derived terms====
+{{der-top}}
+* {{ja-l|自転車横断帯|じてんしゃおうだんたい|jitensha ōdantai}} {{qualifier|road sign}} [[bicycle]] [[crossing]]
+* {{ja-l|自転車競技|じてんしゃきょうぎ|jitensha kyōgi}}: a [[bicycle]] [[competition]] ([[race]])
+* {{ja-l|自転車競走|じてんしゃきょうそう|jitensha kyōsō}}: a [[bicycle]] [[race]]
+* {{ja-l|自転車操業|じてんしゃそうぎょう|jitensha sōgyō}}: “[[bicycle]] [[operations]]” → a business model that requires regular infusions of external [[capital]] to remain [[viable]] (similar to riding a bicycle, as halting operations means immediate bankruptcy, much as stopping pedaling causes a bicycle rider to fall over)
+* {{ja-l|自転車屋|じてんしゃや|jitensha-ya}}: a [[bike]] [[shop]], a [[bicycle]] [[store]]
+* {{ja-l|自転車旅行|じてんしゃりょこう|jitensha ryokō}}: a [[bicycle]] [[trip]], [[bike]] [[touring]]
+{{der-bottom}}
+
+====Descendants====
+* Korean: {{ko-l|자전거}}
+* Min Nan: {{zh-l|自轉車|tr=chū-choán-chhia}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|してんしゃ']]
+{{catlangcode|ja|Vehicles|Cycling|Two|sort=してんしゃ'}}
+[[af:自転車]]
+[[zh-min-nan:自転車]]
+[[cs:自転車]]
+[[es:自転車]]
+[[eu:自転車]]
+[[fr:自転車]]
+[[ko:自転車]]
+[[sw:自転車]]
+[[lo:自転車]]
+[[lt:自転車]]
+[[li:自転車]]
+[[hu:自転車]]
+[[mg:自転車]]
+[[fj:自転車]]
+[[nl:自転車]]
+[[ja:自転車]]
+[[pl:自転車]]
+[[pt:自転車]]
+[[ru:自転車]]
+[[sv:自転車]]
+[[th:自転車]]
+[[uk:自転車]]
+[[zh:自転車]]

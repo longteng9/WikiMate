@@ -1,0 +1,43 @@
+{{also|製定}}
+==Chinese==
+{{zh-forms|t2=製定}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhìdìng
+|c=zai3 ding6
+|h=pfs=chṳ-thin
+|mn=qz,tw,xm:chè-tēng/zz:chì-tēng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[make]] {{gloss|a plan, policy, law, etc.}}; [[lay down]]; to [[draw up]]; to [[formulate]]; to [[draft]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|てい|yomi=on}}
+
+===Noun===
+{{ja-noun|せいてい}}
+
+# [[enactment]], [[establishment]], [[formulation]], [[institution]]
+
+===Verb===
+{{ja-verb-suru|せいてい}}
+
+# [[enact]]; [[establish]]
+#: {{ja-usex|禁酒法が'''制定'''されたのは1917年である。|きんしゅほう が '''せいてい''' された の は 1917 ねん で ある。|It was in 1917 that the Dry Law was established.}}
+# [[judge]]
+
+====Conjugation====
+{{ja-suru|せいてい}}
+
+[[zh-min-nan:制定]]
+[[ko:制定]]
+[[hu:制定]]
+[[ja:制定]]
+[[zh:制定]]

@@ -1,0 +1,30 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhuōqiú,er=y
+|c=coek3 kau4,zoek3 kau4
+|h=pfs=chok-khiù
+|mn=toh-kiû
+|mn-t=doh4 giu5
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Mainland|Hong Kong|Malaysia|Singapore}} [[snookers]], [[billiards]]
+# {{lb|zh|chiefly|Taiwan|Hong Kong}} [[table tennis]]
+
+====Synonyms====
+* {{sense|billiards}} {{zh-l|撞球}}, {{zh-l|台球}}
+* {{sense|table tennis}} {{zh-l|乒乓球}}
+
+{{zh-cat|Sports}}
+
+[[zh-min-nan:桌球]]
+[[ko:桌球]]
+[[ja:桌球]]
+[[uz:桌球]]
+[[zh:桌球]]

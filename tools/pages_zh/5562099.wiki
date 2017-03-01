@@ -1,0 +1,15 @@
+==Japanese==
+{{ja-kanjitab|yomi=irr|sort=もじれつ|もん|k1=も|じ|れつ}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|もじれつ}}
+
+===Noun===
+{{ja-noun|もじれつ}}
+
+# a [[string]] (computing: sequence of characters)
+
+[[kn:文字列]]
+[[mg:文字列]]
+[[pl:文字列]]
+[[zh:文字列]]

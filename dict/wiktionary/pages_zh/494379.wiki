@@ -1,0 +1,36 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|えん|しゅう|yomi=o}}
+[[Image:Pi_eq_C_over_d.svg|thumb|right|150 px|Circumference and diameter]]
+
+===Pronunciation===
+{{ja-pron|acc=h|y=ko|えんしゅう}}
+
+===Noun===
+{{ja-noun|えんしゅう|hhira=ゑんしう}}
+
+# {{lb|ja|geometry|sort=えんしゅう}} [[circumference]]
+
+====Derived terms====
+* {{ja-r|円%周%角|えん%しゅう%かく|gloss=inscribed angle, angle of circumference}}
+* {{ja-r|円%周%率|えん%しゅう%りつ|gloss=pi}}
+
+===See also===
+* {{ja-r|円|えん|gloss=[[circle]]}}
+* {{ja-r|半%径|はん%けい|gloss=[[radius]]}}
+* {{ja-r|直%径|ちょっ%けい|gloss=[[diameter]]}}
+* {{ja-r|円%弧|えん%こ|gloss=[[circular arc]]}}
+* {{ja-r|周%囲|しゅう%い}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[lo:円周]]
+[[lt:円周]]
+[[hu:円周]]
+[[mg:円周]]
+[[nl:円周]]
+[[ja:円周]]
+[[fi:円周]]
+[[sv:円周]]
+[[zh:円周]]

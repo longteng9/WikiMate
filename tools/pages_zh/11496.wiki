@@ -1,0 +1,72 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=15|rad=冫|as=08|sn=10|four=35127|canj=IMQMB|ids=⿰冫青 <small>(GT)</small>,⿰冫靑 <small>(K)</small>}}
+
+# a [[surname]]
+
+====References====
+* {{Han ref|kx=0132.420|dkj=01666|dj=0296.300|hdz=10298.010|uh=51CA|ud=20938|bh=D0E1|bd=53473}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=qìng
+|c=cing3,zing6
+|mn=chhìn
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[cool]], [[cold]]
+
+=====Compounds=====
+{{zh-der|冬溫夏凊}}
+
+===Etymology 2===
+{{zh-see|清|v}}
+
+===References===
+* {{R:twedu|B00210}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=冫08}}
+
+# {{defn|lang=ja|sort=冫08}}
+
+====Readings====
+* {{ja-readings|on=[[せい]] (sei), [[しゃう]] (shau)|kun=[[さむい]] (samui), [[すずしい]] (suzushii)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=청|rv=cheong|mr=ch'ŏng}}
+
+# {{defn|lang=ko|sort=冫08}}
+
+[[zh-min-nan:凊]]
+[[fr:凊]]
+[[ko:凊]]
+[[hu:凊]]
+[[ja:凊]]
+[[pl:凊]]
+[[th:凊]]
+[[zh:凊]]

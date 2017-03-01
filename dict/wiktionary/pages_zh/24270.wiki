@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=04|sn=8|four=70227|canj=BYHS|ids=⿰月方}}
+
+====References====
+* {{Han ref|kx=0975.120|dkj=29302|dj=1427.030|hdz=32052.040|uh=80AA|ud=32938|bh=AAD5|bd=43733}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fáng
+|c=fong1
+|h=pfs=fòng
+|md=huòng
+|mn=qz,xm,zz:hong/tw:hông/xm,zz:hóng/twv:hông
+|w=1faan
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[animal]] [[fat]]
+
+====Compounds====
+{{zh-der|脂肪腺|血脂肪|脂肪酸|脂肪|脂肪瘤|飽和脂肪}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=肉04}}
+
+# {{defn|lang=ja|sort=肉04}}
+
+====Readings====
+* {{ja-readings|on=[[ぼう]] (bō), [[ほう]] (hō)|kun=[[こえる]] (koeru), [[あぶら]] (abura)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=방}}
+
+# {{defn|lang=ko|sort=肉04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phương]], [[phòng]]|rs=肉04}}
+
+# {{defn|lang=vi|sort=肉04}}
+
+[[fr:肪]]
+[[hu:肪]]
+[[mg:肪]]
+[[ja:肪]]
+[[no:肪]]
+[[pl:肪]]
+[[th:肪]]
+[[zh:肪]]

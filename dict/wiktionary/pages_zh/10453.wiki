@@ -1,0 +1,94 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+Originally {{Han compound|止|t1=foot|一|ls=ic}} – a foot (止) running into a wall or barrier (一), indicating lack, incomplete. Compare {{m|mul|正||complete|sc=Hani}}.
+
+Present form cursive simplification: 止 simplified to [[之]], 一 changed to [[丿]]; compare semi-cursive [[疋]].
+
+===Han character===
+{{Han char|rn=4|rad=丿|as=04|sn=5|four=20307|canj=HINO|ids=⿱丿之}}
+
+# [[lack]]
+# [[poor]]
+
+====Related characters====
+* [[之]], [[疋]], [[正]]
+
+====References====
+* {{Han ref|kx=0082.100|dkj=00133|hdz=10034.030|uh=4E4F|ud=20047|bh=A546|bd=42310}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fá
+|c=fat6
+|mn=ha̍t
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不乏|不乏其人|不虞匱乏|中饋乏人|乏人|乏人問津|乏倦|乏味|乏善可陳|乏困|乏地|乏手|乏月|乏桶|乏樣子|乏煤|乏用|乏角兒|乏貨|乏趣|乏頓|人困馬乏|倦乏|分身乏術|力乏兵衰|力困筋乏|勞乏|匱乏|周急繼乏|回天乏術|回生乏術|困乏|害乏|家道消乏|彈性疲乏|後繼乏人|後繼乏力|承乏|振貧濟乏|春困秋乏|欲振乏力|歇乏|消乏|疲乏|疲乏強度|空乏|窮乏|絕乏|缺乏|謝乏|貧乏|賑窮濟乏|返魂乏術|道乏|銷乏|闕乏|養乏}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=丿04}}
+
+# [[poverty]]
+# [[lack]]
+# [[scarcity]]
+
+====Readings====
+* {{ja-readings|on=[[ぼう]] (bō) > [[ぼふ]] (bofu)|kun=[[とぼしい]] (toboshii)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=핍|rv=pip|mr=p'ip|eumhun=모자랄|ehrv=mojaral|ehmr=mojaral|ehy=}}
+
+# {{defn|lang=ko|sort=丿04}}
+
+====References====
+* {{Hanja ref|nav=12238}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|phạp|rs=丿04}}
+
+# {{defn|lang=vi|sort=丿04}}
+
+[[zh-min-nan:乏]]
+[[fr:乏]]
+[[ko:乏]]
+[[id:乏]]
+[[hu:乏]]
+[[mg:乏]]
+[[ja:乏]]
+[[no:乏]]
+[[pl:乏]]
+[[th:乏]]
+[[uk:乏]]
+[[vi:乏]]
+[[zh:乏]]

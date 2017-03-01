@@ -1,0 +1,51 @@
+{{character info/new}}
+{{also|遙}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=10|sn=14|four=|canj=XYBOU,YBOU|ids=⿺辶䍃}}
+
+# [[faraway]], [[distant]], [[remote]]
+
+====References====
+* {{Han ref|kx=1263.251|hdz=63873.010|uh=9065|ud=36965}}
+
+----
+
+==Chinese==
+{{zh-see|遙}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辵10}}
+
+# [[far off]], [[distant]] {{qualifier|in terms of either space or time}}
+
+====Readings====
+{{ja-readings
+|goon=[[よう]] (yō), {{qualifier|historical}} [[えう]] (eu)
+|kanon=[[よう]] (yō), {{qualifier|historical}} [[えう]] (eu)
+|kun=[[はるか]] ([[遥か]], haruka)
+|nanori=[[はるか]] (haruka)
+}}
+
+{{ja-kanjitab|yomi=irr|はるか}}
+
+===Pronunciation===
+{{ja-pron|はるか}}
+
+===Proper noun===
+{{ja-pos|proper|はるか}}
+
+# {{given name|female|lang=ja|sort=はるか}}
+[[fr:遥]]
+[[hu:遥]]
+[[mg:遥]]
+[[ja:遥]]
+[[no:遥]]
+[[pl:遥]]
+[[th:遥]]
+[[zh:遥]]

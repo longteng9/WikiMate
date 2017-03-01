@@ -1,0 +1,31 @@
+{{also|脣音}}
+==Chinese==
+{{zh-see|脣音}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|おん|yomi=o}}
+
+===Etymology===
+From [[唇]] ([[くちびる]] (シン), ''[[lips]]'') + [[音]] ([[おと]] (オン), ''[[sound]]'')
+
+===Pronunciation===
+{{ja-pron|yomi=goon|しんおん|acc=0|acc_ref=DJR|acc2=1|acc2_ref=DJR}}
+
+===Noun===
+{{ja-noun|しんおん}}
+
+# {{lb|sort=しんおん|ja|phonetics}} [[labial]] [[sound]]
+
+====Related terms====
+* {{ja-r|唇歯音|しんしおん}}
+
+===See also===
+* {{ja-r|舌音|ぜつおん}}
+* {{ja-r|鼻音|びおん}}
+
+===References===
+<references/>
+
+[[zh:唇音]]

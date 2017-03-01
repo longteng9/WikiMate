@@ -1,0 +1,39 @@
+{{also|田凫}}
+==Chinese==
+{{zh-forms|s=田凫}}
+
+===Pronunciation===
+{{zh-pron
+|m=tiánfú
+|c=tin4 fu4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# a [[lapwing]] {{gloss|bird belonging to the subfamily Vanellinae}}
+
+{{zh-cat|Shorebirds}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja|タゲリ}}
+{{ja-kanjitab|た|けり|k2=げり|r=y|yomi=k}}
+
+===Etymology===
+{{compound|lang=ja|田|鳧|tr1=ta|t1=[[field]]|tr2=keri|t2={{w|grey-headed lapwing}}|sort=たげり}}
+
+===Alternative forms===
+* {{ja-l|田計里}}
+
+===Pronunciation===
+{{ja-pron|acc=a|y=k|たげり}}
+
+===Noun===
+{{ja-noun|たげり|タゲリ}}
+
+# a [[northern lapwing]]
+
+[[Category:ja:Shorebirds|たげり]]

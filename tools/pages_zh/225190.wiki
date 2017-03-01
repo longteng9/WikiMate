@@ -1,0 +1,80 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tèshū
+|c=dak6 syu4
+|h=pfs=thi̍t-sû
+|mn=xm,zz,tw:te̍k-sû/qz:tia̍k-sû
+|ma=Zh-tèshu.ogg
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[special]]; [[exceptional]]
+
+====Synonyms====
+* {{zh-l|特別}}
+
+====Antonyms====
+* {{zh-l|平常}}
+* {{zh-l|通常}}
+* {{zh-l|普通}}
+* {{zh-l|一般}}
+
+====Derived terms====
+{{zh-der|特殊化|特殊教育|特殊性|特殊效果}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|とく|しゅ|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|とくしゅ|y=o|acc=0|dev=2|acc_ref=NHK}}
+
+===Adjectival noun===
+{{ja-adj|decl=na|とくしゅ}}
+
+# [[special]], [[exceptional]]
+
+====Synonyms====
+* {{ja-r|特別|とくべつ}}
+
+====Antonyms====
+* {{ja-r|平常|へいじょう}}: [[ordinary]], [[common]]
+* {{ja-r|通常|つうじょう}}: ordinary, common
+{{attention|ja|added by user of questionable reliability; please check}}
+
+====Inflection====
+{{ja-na|とくしゅ}}
+
+===Noun===
+{{ja-noun|とくしゅ}}
+
+# [[specialness]], [[exceptionality]]
+
+====Usage notes====
+Usually used as a topped word with the other following words, to make a proper composite word.
+
+====Compounds====
+* {{ja-r|特殊性|とくしゅせい}}: [[speciality]]
+* {{ja-r|特殊任務|とくしゅ にんむ}}: [[special]] [[assignment]]
+* {{ja-r|特殊合金|とくしゅ ごうきん}}: [[special]] [[alloy]]
+* {{ja-r|特殊産業|とくしゅ さんぎょう}}: [[specific]] [[industry]]
+
+===References===
+<references/>
+
+[[zh-min-nan:特殊]]
+[[ko:特殊]]
+[[lo:特殊]]
+[[hu:特殊]]
+[[ja:特殊]]
+[[chr:特殊]]
+[[zh:特殊]]

@@ -1,0 +1,48 @@
+==Japanese==
+{{ja-kanjitab|忍|坂}}
+
+===Alternative forms===
+* {{l|ja|忍阪}}
+
+===Etymology===
+Historically there was no mechanism to indicate [[geminate]] consonants, so it is difficult to determine if this was really ''ossaka'' or ''osaka''. All three romanized pronunciations are given here: {{IPAchar|/osisaka/}} → {{IPAchar|/ossaka/}} → {{IPAchar|/osaka/}}.
+
+===Proper noun===
+{{ja-pos|proper|おっさか}}
+
+# a geographical region within [[w:Sakurai, Nara|Sakurai]], Japan
+#* {{ja-pos|proper|おしさか}}
+#** c. 5-6th century: [[:ja:w:隅田八幡神社人物画像鏡|Suda Hachiman Jinja Bronze Mirror]]
+#**: 癸未年八月日十大王年男弟王在'''意柴沙加'''宮時斯麻念長寿遣開中費直穢人今州利二人等取白上同二百旱作此竟
+#* {{ja-pos|proper|おっさか}}
+#* {{ja-pos|proper|おさか}}
+#** 712: [[w:Kojiki|Kojiki]] (page 158)
+#**: '''意佐加'''能 意富牟盧夜爾 比登佐波爾 岐伊理袁理 比登佐波爾 伊理袁理登母 美都美都斯 久米能古賀 久夫都都伊 伊斯都都伊母知 宇知弖斯夜麻牟 美都美都斯 久米能古良賀 久夫都都伊 伊斯都都伊母知 伊麻宇多婆余良斯
+#** 720: [[w:Nihon Shoki|Nihon Shoki]] (page 205)
+#**: '''於佐箇'''廼、於朋務露夜珥、比苔瑳破而、異離烏利苔毛、比苔瑳破而、枳伊離烏利苔毛、瀰都瀰都志、倶梅能固邏餓、句鶩都都伊、異志都都伊毛智、于智弖之夜莽務
+#** '''927''': [[w:Engishiki|Engishiki]] (Kojiki, Norito page 392)
+#**: 山口坐皇神等能前爾白久、飛鳥・石寸・'''忍坂'''・長谷・畝火・耳无登、御名者白弖 [...]
+
+====Usage notes====
+* {{lang|ja|忍阪}} is the modern spelling used for the place name, and {{m|ja|おっさか|tr=Ossaka}} is the modern kana rendering.
+
+===References===
+* {{cite-book
+|last=Kurano
+|first=Kenji
+|coauthors=Yūkichi Takeda
+|title=Nihon Koten Bungaku Taikei 1: [[w:Kojiki|Kojiki]], Norito
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|year=1958
+|isbn=4-0006-0001-X
+}}
+* {{cite-book
+|last=Sakamoto
+|first=Tarō
+|coauthors=Ienaga Saburō, Inoue Mitsusada, [[w:Ōno Susumu|Ōno Susumu]]
+|title=Nihon Koten Bungaku Taikei: Nihon Shoki (vol. 1)
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|year=1965
+|isbn=4-000-60067-2}}
+
+[[Category:ja:Place names|おっさか]]

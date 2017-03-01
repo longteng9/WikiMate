@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=09|sn=12|four=|canj=RNSP|ids=⿰口急}}
+
+====References====
+* {{Han ref|kx=0201.121|hdz=10658.111|uh=55BC|ud=21948}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|alt=篋}}
+
+====Pronunciation====
+{{zh-pron
+|m=jiē
+|c=gip1,gep1
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} [[suitcase]]
+
+===Etymology 2===
+{{zh-forms}}
+{{bor|yue|en|cap}}.
+
+====Pronunciation====
+{{zh-pron
+|c=gip1,gep1,kep1
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} {{zh-only|喼帽}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|c=gip1
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} {{zh-only|喼汁}}
+
+----
+
+==Zhuang==
+
+===Noun===
+{{za-head|noun}}
+
+# {{za-sawndip form of|goep}}
+
+[[fr:喼]]
+[[mg:喼]]
+[[pl:喼]]
+[[th:喼]]
+[[zh:喼]]

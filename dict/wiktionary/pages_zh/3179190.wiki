@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tóng一
+|c=tung4 jat1
+|h=pfs=thùng-yit
+|mn=qz,xm,zz:tông-it
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[same]], [[identical]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|どう|いつ|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=とういつ'}} compound {{m|zh|同一|tr=duwng + ʔjit|lit=same + one}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|どういつ|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|どういつ}}
+
+# [[identity]], [[sameness]]
+
+====Derived terms====
+* {{ja-r|同一性|どういつせい|[[identity]]}}
+
+===References===
+<references/>
+
+[[ko:同一]]
+[[lo:同一]]
+[[hu:同一]]
+[[mg:同一]]
+[[ja:同一]]
+[[ru:同一]]
+[[chr:同一]]
+[[zh:同一]]

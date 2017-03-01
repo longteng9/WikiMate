@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|き|にち|yomi=o}}
+
+===Etymology===
+{{affix|sort=きにち|ja|帰|tr1=ki|t1=return|日|tr2=nichi|t2=Japan}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|きにち|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|きにち}}
+
+# [[return]] to [[Japan]]
+
+===Verb===
+{{ja-verb-suru|きにち}}
+
+# [[return]] to [[Japan]]
+
+====Conjugation====
+{{ja-suru|きにち}}
+
+===References===
+<references/>
+
+[[ja:帰日]]

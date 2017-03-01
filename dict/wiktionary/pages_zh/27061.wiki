@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|谊}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=08|sn=15|four=03617|canj=YRJBM|ids=⿰言宜}}
+
+====References====
+* {{Han ref|kx=1166.040|dkj=35605|dj=1631.150|hdz=63992.120|uh=8ABC|ud=35516|bh=BDCB|bd=48587}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谊}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yì,yí
+|c=ji4,ji6
+|mc=y
+|oc=y
+|ma=
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[friendship]]
+#: {{zh-x|友誼|friendship}}
+# [[appropriate]], [[suitable]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言08}}
+
+# {{defn|lang=ja|sort=言08}}
+
+====Readings====
+* {{ja-readings|on=[[ぎ]] (gi)|kun=[[よい]] (yoi), [[よしみ]] (yoshimi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=의|eumhun=|rv=ui|mr=ŭi|y=uy}}
+
+# {{defn|lang=ko|sort=言08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=言08| hanviet = nghị}}
+
+# {{defn|lang=vi|sort=言08}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=8abc Nom Foundation]
+
+[[fr:誼]]
+[[hu:誼]]
+[[ja:誼]]
+[[pl:誼]]
+[[th:誼]]
+[[vi:誼]]
+[[zh:誼]]

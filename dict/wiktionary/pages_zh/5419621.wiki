@@ -1,0 +1,39 @@
+==Japanese==
+<div style="float:right;">
+{| style="float:right;padding:0px;margin-right:-5px;"
+| [[File:Kyoto_chapter.svg|thumb|none|119px|{{lang|ja|市章}} (''shishō''): the '''[[seal]] of the city''' of {{w|Kyoto}}.]]
+| [[File:Tokyo_Tokyo_chapter.svg|thumb|none|119px|{{lang|ja|市章}} (''shishō''): the '''[[seal]] of the city''' of {{w|Tokyo}}.]]
+|-
+| [[File:Fukuoka_Fukuoka_chapter.svg|thumb|none|119px|{{lang|ja|市章}} (''shishō''): the '''[[seal]] of the city''' of {{w|Fukuoka}}.]]
+| [[File:Symbol_of_Morioka,_Iwate.svg|thumb|none|119px|{{lang|ja|市章}} (''shishō''): the '''[[seal]] of the city''' of {{w|Morioka}}.]]
+|-
+| [[File:Symbol_of_Yamagata_Yamagata.svg|thumb|none|119px|{{lang|ja|市章}} (''shishō''): the '''[[seal]] of the city''' of {{w|Yamagata, Yamagata|Yamagata}}.]]
+| [[File:Symbol_of_Yokohama_City.svg|thumb|none|119px|{{lang|ja|市章}} (''shishō''): the '''[[seal]] of the city''' of {{w|Yokohama}}.]]
+|}
+</div>
+{{ja-kanjitab|yomi=o|し|しょう}}
+
+===Etymology===
+{{IPAchar|/ɕiɕjau/}} → {{IPAchar|/ɕiɕjɔː/}} → {{IPAchar|/ɕiɕjoː/}}
+
+May be a coinage in Japan, as a compound of {{etyl|ltc|-}}-derived elements {{compound|lang=ja|sort=ししょう|市|tr1=shi|t1=city|章|tr2=shō|t2=seal, mark, logo}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|ししょう|acc=0|acc_ref=SMK5}}
+
+===Noun===
+{{ja-noun|ししょう|hhira=ししやう}}
+
+# the [[seal]], [[crest]], or [[logo]] of a [[city]]
+
+====Usage notes====
+Sometimes erroneously translated as {{m|en|city}} {{m|en|chapter}}, due to the additional meaning of {{m|en|chapter|pos=of a book or other written document}} for the {{m|ja|章}} kanji.
+
+===See also===
+* {{ja-r|町章|ちょうしょう}}: the [[seal]], [[crest]], or [[logo]] of a [[town]]
+* {{ja-r|村章|そんしょう}}: the [[seal]], [[crest]], or [[logo]] of a [[village]]
+* {{ja-r|市町村章|しちょうそんしょう}}: the [[seal]], [[crest]], or [[logo]] of a [[municipality]] {{qualifier|without specifying size}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}

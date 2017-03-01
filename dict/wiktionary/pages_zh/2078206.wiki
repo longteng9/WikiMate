@@ -1,0 +1,34 @@
+==Japanese==
+{{ja-kanjitab|かつ|k1=かっ|はつ|k2=ぱつ|yomi=o}}
+
+===Etymology===
+{{IPAchar|/*kwatupatu/}} → {{IPAchar|/kwappat͡su/}} → {{IPAchar|/kappat͡su/}}
+
+Probably from {{etyl|ltc|ja|sort=かっぱつ}} compound {{m|zh|活發|tr=kwat pjot|lit=to live + to send forth}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|かっぱつ|acc=0|acc_ref=DJR}}
+
+===Adjective===
+{{ja-adj|infl=na|かっぱつ|kyu=活發|hhira=くわっぱつ}}
+
+# [[active]], [[vigorous]], [[spirited]], [[perky]], [[vivacious]]
+
+====Inflection====
+{{ja-na|かっぱつ}}
+
+===Noun===
+{{ja-adj|infl=na|かっぱつ|kyu=活發|hhira=くわっぱつ}}
+
+# {{lb|ja|sort=かっぱつ|rare}} [[activity]], [[vigor]], [[vivacity]]
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[ko:活発]]
+[[mg:活発]]
+[[ja:活発]]
+[[ru:活発]]
+[[chr:活発]]
+[[zh:活発]]

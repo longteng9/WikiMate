@@ -1,0 +1,94 @@
+{{character info/new}}
+{{also|陔}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=06|sn=9|four=40182|canj=GYVO|ids=⿰土亥}}
+
+# [[border]], [[boundary]], [[frontier]]
+# {{lb|mul|mathematics}} 10<sup>20</sup>
+
+====References====
+* {{Han ref|kx=0227.400|dkj=05040|dj=0463.260|hdz=10441.130|uh=5793|ud=22419|bh=ABB2|bd=43954}}
+
+====See also====
+* ''Chinese numeral'' '''垓 '''
+** '''Last:''' [[京]]
+** '''Next:''' [[秭]]
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gāi
+|c=goi1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|九垓|八垓|半垓|垓下|垓下歌|垓前|垓埏|垓心|垓極|大會垓|鬧垓垓}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土06}}
+
+# {{defn|lang=ja|sort=土06}}
+
+====Readings====
+* {{ja-readings|on=[[がい]] (''gai''), [[かい]] (''kai'')|kun=[[はて]] (''hate'')}}
+
+===Number===
+'''垓''' ([[がい]], [[gai]])
+
+# A number of 10<sup>20</sup> in modern Japanese since 17th century.
+
+[[Category:Japanese numeral symbols|10^20]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=해|rv=hae|mr=hae}}
+
+# {{defn|lang=ko|sort=土06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cai]], [[gay]], [[gây]]|rs=土06}}
+
+# {{defn|lang=vi|sort=土06}}
+
+[[fr:垓]]
+[[ko:垓]]
+[[li:垓]]
+[[hu:垓]]
+[[mg:垓]]
+[[ja:垓]]
+[[pl:垓]]
+[[fi:垓]]
+[[th:垓]]
+[[vi:垓]]
+[[zh:垓]]

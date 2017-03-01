@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhuīxiǎng
+|c=zeoi1 soeng2
+|mn=tui-sióng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[recall]]; to [[recollect]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|つい|そう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ついそう|y=o|acc=0}}
+
+===Noun===
+{{ja-noun|ついそう}}
+
+# [[reminiscence]], [[recollection]]
+
+===Verb===
+{{ja-verb-suru|ついそう}}
+
+# [[reminisce]], [[recollect]]
+
+====Conjugation====
+{{ja-suru|ついそう}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=추상}}
+
+# {{hanja form of|추상|[[reminiscence]], [[recollection]]}}
+
+[[zh:追想]]

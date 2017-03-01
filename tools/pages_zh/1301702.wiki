@@ -1,0 +1,76 @@
+{{also|朝饭}}
+==Chinese==
+{{zh-forms|s=朝饭}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhāofàn
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|obsolete}} [[breakfast]]
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|archaic}} to [[have]] [[breakfast]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|あさ|めし}}
+Compound of {{compound|lang=ja|sort=あさめし|朝|tr1=asa|t1=morning|飯|tr2=meshi|t2=cooked rice or other grains, meal}}.
+
+====Pronunciation====
+* [[kun'yomi|Kun'yomi]].
+* {{IPA|/a̠sa̠ me̞ɕi/|lang=ja}}
+
+====Noun====
+{{ja-noun|あさめし}}
+
+# [[breakfast|Breakfast]].
+#: {{ja-usex|いつも何時に'''朝飯'''を食べますか。|いつも なんじ に '''あさめし''' を たべます か。|When do you usually eat '''breakfast'''?}}
+
+=====Usage notes=====
+This is the most common pronunciation of this term.
+
+=====Derived terms=====
+* {{ja-r|朝飯前|あさめしまえ}}: A [[piece of cake]], something very easy.
+
+===Etymology 2===
+{{ja-kanjitab|あさ|いい}}
+Compound of {{compound|lang=ja|sort=あさいい|朝|tr1=asa|t1=morning|飯|tr2=ī|t2=cooked rice or other grains, meal}}.
+
+====Pronunciation====
+* [[kun'yomi|Kun'yomi]].
+* {{IPA|/a̠sa̠ iː/|lang=ja}}
+
+====Noun====
+{{ja-noun|あさいい|hhira=あさいひ}}
+
+# [[breakfast|Breakfast]].
+
+===Etymology 3===
+{{ja-kanjitab|あさ|はん}}
+Compound of {{compound|lang=ja|sort=あさはん|朝|tr1=asa|t1=morning|飯|tr2=han|t2=cooked rice or other grains, meal}}.
+
+====Pronunciation====
+* [[yutōyomi|Yutōyomi]].
+* {{IPA|/a̠sa̠ haɴ/|lang=ja}}
+
+====Noun====
+{{ja-noun|あさはん}}
+
+# [[breakfast|Breakfast]].
+
+[[ko:朝飯]]
+[[hi:朝飯]]
+[[mg:朝飯]]
+[[fj:朝飯]]
+[[km:朝飯]]
+[[chr:朝飯]]

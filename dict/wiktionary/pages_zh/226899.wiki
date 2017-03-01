@@ -1,0 +1,52 @@
+==Translingual==
+{{rfc}}
+
+===Number===
+'''阿僧祇''' असंख्येय
+
+# 10^56
+
+====See also====
+* ''Chinese number'' (myriad order of magnitude) '''阿僧祇'''
+** '''Last:''' [[恒河沙]]
+** '''Next:''' [[那由他]]
+
+[[Category:Chinese numeral symbols]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=āsēngqí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# the [[number]] 10<sup>56</sup>
+
+===References===
+* [[:zh:w:十進位|Chinese Wikipedia article for 十進位 (decimal)]]
+* [[:w:Asaṃkhyeya|English Wikipedia article for Asaṃkhyeya]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|あ|そう|ぎ|yomi=o}}
+
+===Noun===
+{{ja-noun|あそうぎ}}
+
+# In the traditional Japanese number system, 10<sup>56</sup> or one [[hundred]] [[septendecillion]] of the American system.
+
+[[Category:Japanese numeral symbols|あそうき]]
+
+[[fr:阿僧祇]]
+[[ko:阿僧祇]]
+[[it:阿僧祇]]
+[[ja:阿僧祇]]
+[[pt:阿僧祇]]

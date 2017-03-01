@@ -1,0 +1,141 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+From [[先]] (xiān, Old Chinese *''sɯːn(s)'', "before, ahead") and [[生]] (shēng, OC *''shleːŋ'', *''sreŋs'', "to be born"), i.e. "one who was born earlier". Attested in ''{{w|Shijing}}'' ("first child"), ''{{w|Yili (text)|Yili}}'' ("elder brother"), ''{{w|Classic of Rites}}'' ("teacher"), ''{{w|Mencius (book)|Mengzi}}'' ("a knowledgeable elder").
+
+===Pronunciation===
+{{zh-pron
+|m=xiānshēng,tl=y
+|c=sin1 saang1
+|g=xien1 sen
+|h=pfs=sîn-sâng
+|j=xie1 seng1
+|md=sĭng-săng
+|mn=xm,qz,tp,kh,lk,sx,km,mg,hc:sian-siⁿ/zz,yl,tc:sin-seⁿ/tn:sian-seⁿ/zz:sian-seng
+|mn_note=When following a surname, it is read in the neutral tone
+|mn-t=sing1 sên1
+|w=1xi san
+|ma=zh-xiānsheng.ogg
+|ca=zh-yue-先生.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Beginning Mandarin}} [[mister]], [[sir]]
+#: {{zh-x|王 先生 來 了。|'''Mr.''' Wang came.}}
+#: {{zh-x|王 %先生 來 %矣。|'''Mr.''' Ong came.|MN}}
+# {{lb|zh|formal}} [[husband]]
+# {{lb|zh|Gan|Hakka|Min|dated|_|in|_|Mandarin|&|Jin}} [[doctor]]
+#* {{zh-x|大哥 說：「^今天 請 ^何 先生 來，給 你 診 一 診。」|My elder brother said, "Today, I've invited '''Dr.''' He to come and give you a check up."|ref='''1918:''' {{w|Lu Xun}}, ''[[s:Translation:Call to Arms (Lu Xun)/A Madman's Diary|A Madman's Diary]]''}}
+# {{lb|zh|Cantonese|Gan|Hakka|Min|dated|_|in|_|Mandarin|honorific|_|in|_|Jin}} [[teacher]]
+#* {{zh-x|他 在 學堂 的 時候，先生 問 他：「^直隸 省{Shěng} 的 西邊 是 哪 一 省{shěng}？」^他 說 是 ^陝西。先生 說：「^錯 了，是 ^山西，不是 ^陝西。」^他 說：「^陝西 同 ^山西，不是 差不多 嗎？」|When he went to school, the '''teacher''' asked him: "Which province is west of [[Hebei|Zhili]] Province?" He answered [[Shaanxi]]. The '''teacher''' said: "Wrong, it is [[Shanxi]], not Shaanxi." He said: "Would Shaanxi and Shanxi not be close enough?"|ref='''1924:''' {{w|Hu Shih}}, ''[[wikilivres:差不多先生傳|Life of Mr. Close Enough]]''}}
+#* {{zh-x|'''先{Sian}生{siⁿ}''' 講，學生 恬恬 聽。|The teacher speaks, and the students silently listen.|MN|a=Taiwanese_Kana_Example.ogg}}
+
+====Synonyms====
+* {{sense|doctor}}
+{{zh-dial|醫生}}
+* {{sense|teacher}} {{zh-l|老師}}
+
+====Descendants====
+{{CJKV||せんせい|선생|tiên sinh}}
+
+===See also===
+* {{zh-l|太太}}
+* {{sense|Mr.}} {{zh-l|氏}}
+
+===References===
+*{{qualifier|Min Nan}} {{thcwd|2069}}
+
+{{zh-cat|Family}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せん|せい|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=せんせい}} compound {{m|zh|先生|tr=sen sræng|lit=first + to be born}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|せんせい|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|せんせい}}
+
+# one who was born earlier: an [[elder]]
+# one who excels at a subject: a [[scholar]]
+# one who teaches: a [[teacher]] or [[professor]]
+# [[sensei]] {{gloss|Japanese martial arts teacher}}
+# [[sir]], a polite form of address to teachers, doctors, etc.
+
+====Usage notes====
+This is a term of respect, reserved only for speaking about others, and considered somewhat impolite (immodest) to use when referring to oneself. Instead, the term {{m|ja|教師|tr=kyōshi||teacher|lit=teaching + teacher}} is considered more socially appropriate when referring to oneself.
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|大先生|だいせんせい}}: great teacher, high authority
+{{der-bottom}}
+
+===Suffix===
+{{ja-pos|せんせい|suffix}}
+
+# a title used after the name of teachers, [[doctor]]s, [[lawyer]]s, or certain other [[professional]]s
+
+===See also===
+* {{ja-r|師匠|ししょう}}: a [[master]], a [[teacher]]
+* {{ja-r|医師|いし}}: a medical [[doctor]]
+* {{ja-r|教師|きょうし}}: a teacher
+* {{ja-r|教授|きょうじゅ}}: a professor
+* {{ja-r|弁護士|べんごし}}: an [[attorney]], a [[lawyer]]
+
+===References===
+<references/>
+:* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=선생}}
+
+# {{hanja form of|선생|[[teacher]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|tiên sinh|[[teacher]]}}
+
+[[zh-min-nan:先生]]
+[[el:先生]]
+[[fr:先生]]
+[[ko:先生]]
+[[sw:先生]]
+[[ky:先生]]
+[[lo:先生]]
+[[lv:先生]]
+[[lt:先生]]
+[[li:先生]]
+[[hu:先生]]
+[[mg:先生]]
+[[fj:先生]]
+[[ja:先生]]
+[[pl:先生]]
+[[pt:先生]]
+[[ru:先生]]
+[[fi:先生]]
+[[sv:先生]]
+[[ta:先生]]
+[[th:先生]]
+[[chr:先生]]
+[[uk:先生]]
+[[zh:先生]]

@@ -1,0 +1,99 @@
+{{character info/new}}
+{{also|辉}}
+==Translingual==
+
+===Etymology===
+Semantic [[光]] ("light; bright") + phonetic [[軍]].
+
+===Han character===
+{{Han char|rn=159|rad=車|as=08|sn=15|four=97256|canj=FUBJJ|ids=⿰光軍}}
+
+# [[brightness]], [[lustre]], [[brilliance]]
+
+====References====
+* {{Han ref|kx=1244.300|dkj=38372|dj=1721.190|hdz=53538.100|uh=8F1D|ud=36637|bh=BDF7|bd=48631}}
+
+----
+
+==Chinese==
+{{zh-forms|s=辉}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huī
+|c=fai1
+|ca=yue-輝.oga
+|h=pfs=fî
+|md=
+|mn=hui
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|輝煌|輝光|輝石|輝耀|輝映|輝照}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=車08}}
+
+====Readings====
+* {{ja-readings|kanon=[[き]] (ki)|goon=[[け]] (ke)|kun=[[かがやく]] (kagayaku), [[かがやき]] (kagayaki), [[かがやかしい]] (kagayakashii)}}
+
+====Compounds====
+* [[輝映]]
+* [[輝赫]]
+* [[輝煥]]
+* [[輝輝]]
+* [[輝光]]
+* [[輝煌]]
+* [[輝耀]]
+* [[輝星]]
+
+===Proper noun===
+{{ja-pos|あきら|proper}}
+
+# {{given name|male|lang=ja|sort=あきら}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=휘|eumhun=|rv=hwi|mr=hwi|y=hwi}}
+
+# {{defn|lang=ko|sort=車08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[huy]]|rs=車08}}
+
+# {{defn|lang=vi|sort=車08}}
+
+[[fr:輝]]
+[[ko:輝]]
+[[li:輝]]
+[[hu:輝]]
+[[mg:輝]]
+[[ja:輝]]
+[[pl:輝]]
+[[th:輝]]
+[[chr:輝]]
+[[vi:輝]]
+[[zh:輝]]

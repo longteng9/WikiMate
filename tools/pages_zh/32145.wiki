@@ -1,0 +1,99 @@
+{{character info/new}}
+{{also|鲔}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=06|sn=17|four=24327|canj=NFKB}}
+
+# kind of [[sturgeon]], [[tuna]]
+
+====References====
+* {{Han ref|kx=1469.210|dkj=46126|dj=2002.180|hdz=74685.090|uh=9BAA|ud=39850|bh=C243|bd=49731}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鲔}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wěi
+|c=fui2,wai5
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚06}}
+
+# {{defn|lang=ja|sort=魚06}}
+
+====Readings====
+* {{ja-readings|on=[[い]] (i), [[ゆう]] (yū)|kun=[[まぐろ]] (maguro), [[しび]] (shibi)}}
+
+===Pronunciation===
+* {{ja-pron|まぐろ|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|まぐろ|マグロ}}
+
+# a [[tuna]] {{gloss|type of fish}}
+#* [http://lambda.bugyo.tk/cdr/mwl/index.html マンガで分かるLisp] (Manga Guide to Lisp)
+#*: {{ja-usex|みりん。地域猫。最近までマクロのことを'''マグロ'''と思っていた。|みりん。ち.いきねこ。さいきん まで マクロ の こと を '''マグロ''' と おもっていた。|Mirin: A neighbours' cat. Until recently often confused macros with '''tuna'''.}}
+
+====Usage notes====
+{{U:ja:biology|マグロ}}
+
+===Noun===
+{{ja-noun|しび}}
+
+# a [[tuna]] {{gloss|type of fish}}
+
+===References===
+<references/>
+
+[[Category:ja:Fish|まぐろ]]
+[[Category:ja:Fish|しび]]
+[[Category:Japanese basic words|まぐろ]]
+
+----
+
+==Korean==
+[[File:Tuna Relative Sizes.jpg|thumb|100px|Relative sizes]]
+
+===Hanja===
+{{ko-hanja|hangeul=유|eumhun=|rv=yu|mr=yu|y=yu}}
+
+# ([[다랑어]]) [[tuna]], [[tunny]]
+
+====See also====
+* {{ko-l|참다랑어}}: [[tuna]]
+* {{ko-l|참치}}: [[tuna]]
+
+[[fr:鮪]]
+[[hu:鮪]]
+[[mg:鮪]]
+[[ja:鮪]]
+[[pl:鮪]]
+[[ru:鮪]]
+[[sv:鮪]]
+[[th:鮪]]
+[[vi:鮪]]
+[[zh:鮪]]

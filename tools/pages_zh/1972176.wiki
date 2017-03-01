@@ -1,0 +1,87 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhōnggǔ
+|c=zung1 gu2
+|mn=tiong-kó͘
+|cat=a,n,pn
+}}
+
+===Etymology 1===
+{{zh-compound|中|古|middle|old}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[middle]](-aged) (as in [[Middle English]], [[Middle Chinese]])
+
+====Noun====
+{{zh-noun}}
+
+# [[middle]] [[antiquity]] {{gloss|from 3rd to 9th century}}
+
+====Proper noun====
+{{zh-proper noun}}
+
+# the [[Middle Ages]]
+
+===Etymology 2===
+{{wasei kango||ちゅうこ|secondhand}}
+
+====Adjective====
+{{zh-adj}}
+
+# {{lb|zh|Taiwan}} [[used]]; [[second hand]]
+
+=====Synonyms=====
+* {{sense|used, second hand}} {{zh-l|第二手}}
+
+===Etymology 3===
+{{zh-compound|中|古|Chinese; China; Sino-|Cuba; Cuban}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[Sino-]][[Cuban]]
+
+====Proper noun====
+{{zh-proper noun}}
+
+# [[China]] and [[Cuba]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|ちゅう|こ}}
+
+===Noun===
+{{ja-noun|ちゅうこ}}
+
+# [[medieval]] [[times]]
+# a [[secondhand]] or [[used]] [[item]]
+
+====Synonyms====
+* {{sense|secondhand, used}} {{ja-r|セコハン}}, {{ja-r|セコンド-ハンド}}, {{ja-r|セカンド-ハンド}}
+
+----
+
+==Korean==
+{{ko-hanjatab|中|古}}
+
+===Noun===
+{{ko-noun|hj|rv=junggo|hangeul=중고}}
+
+# {{hanja form of|중고|secondhand}}
+
+[[ko:中古]]
+[[lo:中古]]
+[[hu:中古]]
+[[mg:中古]]
+[[ja:中古]]
+[[uz:中古]]
+[[pt:中古]]
+[[ru:中古]]
+[[chr:中古]]
+[[zh:中古]]

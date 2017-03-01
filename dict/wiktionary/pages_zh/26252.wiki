@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=11|sn=17|four=50143|canj=LIYIJ}}
+
+# [[cricket]]
+
+====References====
+* {{Han ref|kx=1095.310|dkj=33531|dj=1560.160|hdz=42887.180|uh=87C0|ud=34752|bh=C1AC|bd=49580}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shuài
+|c=seot1
+|mn=sut
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|蟋蟀草|鬥蟋蟀|蟋蟀}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫11}}
+
+# {{defn|lang=ja|sort=虫11}}
+
+====Readings====
+* {{ja-readings|kanyoon=[[そつ]] (sotsu)|kanon=[[しゅつ]] (shutsu)|goon=[[しゅち]] (shuchi)|kun=[[こおろぎ]] (koorogi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=솔|eumhun=|rv=sol|mr=sol|y=sol}}
+
+# {{defn|lang=ko|sort=虫11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''蟀''' ([[xuất]], [[suất]])
+
+[[fr:蟀]]
+[[ko:蟀]]
+[[hu:蟀]]
+[[mg:蟀]]
+[[ja:蟀]]
+[[no:蟀]]
+[[pl:蟀]]
+[[th:蟀]]
+[[zh:蟀]]

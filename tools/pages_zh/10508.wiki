@@ -1,0 +1,174 @@
+{{character info/new}}
+{{also|豫|矛}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=6|rad=亅|as=03|sn=4|four=17202|canj=NINN|ids=⿱龴𠄐}}
+
+# [[I]], [[me]]
+# to [[give]]
+# [[beforehand]]
+
+====Derived characters====
+* [[序]] [[豫]] [[野]] [[預]]
+
+====References====
+* {{Han ref|kx=0085.160|dkj=00231|dj=0174.060|hdz=10052.020|uh=4E88|ud=20104|bh=A4A9|bd=42153}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+From {{inh|zh|sit-pro|*g-la}}.
+
+====Pronunciation 1====
+{{zh-forms}}
+{{zh-pron
+|m=yǔ
+|c=jyu5
+|h=pfs=yì
+|mn=xm:ú/qz:ír/zz:í
+|mn_note=literary reading
+|mc=2
+|oc=2,2
+|ma=
+|cat=v
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# (= {{zh-l|*與}}) to [[give]]
+# to [[praise]]; to [[esteem]]
+
+====Pronunciation 2====
+{{zh-forms|alt=互,乎,與,度-Quanzhou}}
+{{zh-pron
+|mn=xm,zz,tw:hō͘/qz:thō͘/lk:hǒ͘
+|mn_note=vernacular reading
+|cat=v,prep
+}}
+
+=====Definitions=====
+{{zh-hanzi}} {{tlb|zh|Hokkien}}
+
+# to [[give]]
+#: {{zh-x|伊 予 我 五 箍。|He '''gave''' me five dollars.|MN}}
+# to [[allow]]
+#: {{zh-x|予 伊 去！|Let it go!|MN}}
+# [[by]] (used in constructing the passive)
+#: {{zh-x|伊 予 人 拍。|He was beaten up ('''by''' someone).|MN}}
+
+======Synonyms======
+{{zh-dial|給}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=yú
+|c=jyu4
+|mn=xm:û/qz:îr/zz:î
+|mc=1
+|oc=1,1
+|ma=
+|cat=pron,propn
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{zh-obsolete}} {{zh-alt-form|余|I, me}}
+# {{surname|lang=zh}}
+
+===Etymology 3===
+{{zh-see|豫|v}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+
+====Alternative forms====
+* {{l|ja|余}}
+
+====Pronunciation====
+* {{IPA|[jo]|lang=ja}}
+
+====Pronoun====
+{{ja-pos|pronoun|よ|kyu=豫}}
+
+# first-person personal pronoun; [[I]], [[me]]
+#* 1802-1814: [[w:Tōkaidōchū Hizakurige|Tōkaidōchū Hizakurige]] (volume 1)
+#*: '''予'''此街道に毫をはせて膝栗毛の書を著す。
+
+===Etymology 2===
+
+====Kanji====
+{{ja-kanji|grade=3|rs=亅03|style=s|kyu=豫}}
+
+# beforehand, in advance
+
+=====Readings=====
+* {{ja-readings|on=[[よ]] (yo), [[しゃ]] (sha)|kun=[[あたえる]] (ataeru), [[あらかじめ]] (arakajime)}}
+
+=====Compounds=====
+* {{ja-r|予報|よほう}}
+* {{ja-r|予約|よやく}}: reservation, appointment
+* {{ja-r|予定|よてい}}: [[schedule]]
+* {{ja-r|予感|よかん}}
+
+===References===
+* {{cite-book
+|last=Asō
+|first=Isoji
+|title=Nihon Koten Bungaku Taikei 62: [[w:Tōkaidōchū Hizakurige|Tōkaidōchū Hizakurige]]
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|date=1958
+|location=[[w:Tōkyō|Tōkyō]]
+|language=Japanese
+|isbn=4-0006-0062-1
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=여|rv=yeo|mr=yŏ}}
+
+# {{defn|lang=ko|sort=亅03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhừ]], [[dư]]|rs=亅03}}
+
+# {{defn|lang=vi|sort=亅03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e88 Nom Foundation]
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:予]]
+[[cs:予]]
+[[fr:予]]
+[[ko:予]]
+[[li:予]]
+[[hu:予]]
+[[mg:予]]
+[[ms:予]]
+[[fj:予]]
+[[ja:予]]
+[[no:予]]
+[[pl:予]]
+[[ru:予]]
+[[th:予]]
+[[vi:予]]
+[[zh:予]]

@@ -1,0 +1,114 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=08|sn=11|four=31114|canj=EMGG}}
+
+# shore, bank, water's edge
+
+====References====
+* {{Han ref|kx=0627.380|dkj=17582|dj=1029.240|hdz=31643.070|uh=6DAF|ud=28079|bh=B250|bd=45648}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yá
+|c=ngaai4,ji4
+|h=pfs=
+|md=
+|mn=qz,tw,xm,zz:gâi/qz,xm:gâ
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+{{zh-der|天涯|生涯|涯涘}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水08}}
+
+# {{l|en|shore}}, {{l|en|horizon}}
+
+====Readings====
+{{ja-readings
+|goon=(''rare'') [[げ]] (ge)
+|kanon=[[がい]] (gai)
+|kun=(''rare'') [[はて]] (hate)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{l|ja|一生涯|tr={{l|ja|いっしょうがい}}, ''{{l|ja|sc=Latn|isshōgai}}''}}: lifetime
+* {{l|ja|境涯|tr={{l|ja|きょうがい}}, ''{{l|ja|sc=Latn|kyōgai}}''}}: circumstances; one's situation in life
+* {{l|ja|公生涯|tr={{l|ja|こうしょうがい}}, ''{{l|ja|sc=Latn|kōshōgai}}''}}: public life
+* {{l|ja|際涯|tr={{l|ja|さいがい}}, ''{{l|ja|sc=Latn|saigai}}''}}: limits; boundary; end
+* {{l|ja|水涯|tr={{l|ja|すいがい}}, ''{{l|ja|sc=Latn|suigai}}''}}: water's edge
+* {{l|ja|全生涯|tr={{l|ja|ぜんしょうがい}}, ''{{l|ja|sc=Latn|zenshōgai}}''}}: one's whole life
+* {{l|ja|天涯|tr={{l|ja|てんがい}}, ''{{l|ja|sc=Latn|tengai}}''}}: horizon; distant land; skyline; heavenly shores; remote region
+* {{l|ja|生涯学習|tr={{l|ja|しょうがいがくしゅう}}, ''{{l|ja|sc=Latn|shōgaigakushū}}''}}: lifelong learning
+{{der-bottom}}
+
+===Etymology===
+By extension from verb {{m|ja|果てる|tr=hateru||to be at an end, to finish, to be done}}.
+
+The ''hate'' reading for {{lang|ja|涯}} is rare, and is not listed in all dictionaries.
+
+===Pronunciation===
+* {{l|ja|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ha̠te̞]}}
+
+===Noun===
+{{ja-noun|はて}}
+
+# the end of the land: the {{l|en|shore}}
+# the end of the visible world: the {{l|en|horizon}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 涯]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[애]], [[의]]|eumhun=|rv=ae, ui|mr=ae, ŭi|y=ay, uy}}
+
+# {{defn|lang=ko|sort=水08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhai]], [[rượi]], [[nhười]], [[rười]], [[nhầy]]|rs=水08}}
+
+# {{defn|lang=vi|sort=水08}}
+
+[[fr:涯]]
+[[ko:涯]]
+[[ku:涯]]
+[[hu:涯]]
+[[mg:涯]]
+[[ja:涯]]
+[[no:涯]]
+[[pl:涯]]
+[[th:涯]]
+[[zh:涯]]

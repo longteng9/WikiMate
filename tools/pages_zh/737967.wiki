@@ -1,0 +1,35 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Originally, a 刺史 was responsible for maintaining order within a given region. By the time of [[w:Emperor Wu of Han|Emperor Wu of Han]], the status of 刺史 was elevated to that of governor of a [[w:Zhou (country subdivision)|Zhou]] ([[province]]).
+
+===Pronunciation===
+{{zh-pron
+|m=cìshǐ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|archaic}} [[w:Zhou (country subdivision)|provincial governor]]; the [[governor]] of a [[w:Zhou (country subdivision)|zhou (country subdivision)]]
+
+====Synonyms====
+* {{l|zh|使君}}
+
+===References===
+* {{pedialite|刺史|lang=zh}}
+* {{cite-book
+|last=
+|first=
+|authorlink=
+|coauthors=
+|year=2007
+|title=[[w:Hanyu Da Cidian|Hanyu Da Cidian 3.0]]
+|language=Mandarin
+|publisher=[[w:Commercial Press|Commercial Press]]
+|location=[[Hong Kong]]
+}}
+
+[[zh:刺史]]

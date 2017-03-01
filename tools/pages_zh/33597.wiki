@@ -1,0 +1,45 @@
+==Japanese==
+{{ja-kanjitab|げん|き|yomi=on}}
+
+===Etymology===
+{{attention|ja|Etymology wrong: the wellness senses and fundamental force senses derived separately. The wellness senses weren't confused with [[減気]], they apparently ''started out'' as [[減気]]. The 元気 spelling for these senses appeared later; quote in the 地蔵菩薩霊験記 from 1033. C.f. Daijirin, Kokugo Dai Jiten.}}
+From {{etyl|ltc|ja|sort=げんき}} compound {{m|zh|元氣|tr=ngjwon khjɨj<sup>H</sup>|lit=first, fundamental, source + vapor, spirit, energy}}. In Chinese cosmology, this represented the fundamental force that [[permeate]]s all matter and life. Early Japanese borrowed this word and meaning. Later, this spelling was [[conflate]]d with the meaning of [[homophone]] {{m|ja|減気|tr=genki||recovery from illness}}, adding in the modern senses related to {{m|en|healthy}} and {{m|en|wellness}}.
+
+===Adjectival noun===
+{{ja-adj|infl=na|kyu=元氣|げんき}}
+
+# [[healthy]]
+# [[energetic]]
+# in a good mood
+
+====Inflection====
+{{ja-na|げんき}}
+
+===Noun===
+{{ja-noun|kyu=元氣|げんき}}
+
+# the fundamental force that permiates through all matter and life
+# [[health]], healthfulness
+#: {{ja-usex|元気になる|げんき に なる|to get well (recover from sickness)}}
+#: {{ja-usex|お元気で！|おげんき で！|good luck (to you)!／Take care of yourself./Stay healthy.}}
+#*: to get well (recover from sickness)
+# good spirits
+# (personal) energy, enthusiasm
+#: {{ja-usex|元気を出す|げんき を だす|to cheer up; to recover one's strength}}
+
+[[Category:Japanese basic words]]
+
+[[fr:元気]]
+[[ko:元気]]
+[[sw:元気]]
+[[lo:元気]]
+[[lt:元気]]
+[[li:元気]]
+[[hu:元気]]
+[[mg:元気]]
+[[ja:元気]]
+[[pl:元気]]
+[[pt:元気]]
+[[ru:元気]]
+[[chr:元気]]
+[[zh:元気]]

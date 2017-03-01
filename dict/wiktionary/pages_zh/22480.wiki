@@ -1,0 +1,93 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=11|sn=16|four=26922|canj=HDHAH|ids=⿰禾⿱⿱白小彡}}
+
+====References====
+* {{Han ref|kx=0859.040|dkj=25251|dj=1284.230|hdz=42628.200|uh=7A46|ud=31302|bh=BF70|bd=49008}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|禾|㣎|ls=psc|c1=s|c2=p|t1=grain}} – standing grain.
+
+===Pronunciation===
+{{zh-pron
+|m=mù
+|c=muk6
+|h=pfs=mu̍k
+|md=mŭk
+|mn=bo̍k
+|w=5moq
+|mc=y
+|oc=y
+|cat=n,a,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} [[standing]] [[grain]]
+# {{lb|zh|historical}} the [[right]] side position in [[ancestral]] [[temple]]s
+# {{lb|zh|figurative}} [[right]] [[side]]
+# [[reverent]]; [[respectful]]
+# [[magnificent]] and [[beautiful]]; [[majestic]]
+# [[solemn]]; [[solemnly]] [[silent]]
+# [[calm]]; [[mild]]; [[gentle]]
+# [[harmonious]]; [[peaceful]]
+# [[pure]]; [[honest]]
+# [[profound]] and [[lasting]]; [[far-reaching]]
+# {{zh-short|穆罕默德|[[Muhammad]]}}
+# {{zh-short|穆斯林|[[Muslim]]}}
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|卡土穆|宓穆|庫穆塔格|於穆|昭穆|沕穆|穆如清風|穆思林|穆民|穆清|穆然|穆斯林|穆穆|緝穆|肅穆|落落穆穆|輯穆|郁穆|雍穆|靜穆}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=禾11}}
+
+# {{defn|lang=ja|sort=禾11}}
+
+====Readings====
+* {{ja-readings|on=[[ぼく]] (boku), [[もく]] (moku)|kun=[[やわらぐ]] (yawaragu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=목|eumhun=|rv=mok|mr=mok|y=mok}}
+
+# {{defn|lang=ko|sort=禾11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mục]]|rs=禾11}}
+
+# {{defn|lang=vi|sort=禾11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=7a46 Nom Foundation]
+
+[[fr:穆]]
+[[ko:穆]]
+[[hu:穆]]
+[[mg:穆]]
+[[ja:穆]]
+[[no:穆]]
+[[pl:穆]]
+[[th:穆]]
+[[zh:穆]]

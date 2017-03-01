@@ -1,0 +1,143 @@
+{{character info/new}}
+{{also|與}}
+
+==Translingual==
+{{stroke order|type=bw|strokes=3}}
+
+{{ja-forms|与|与|[[與]]}}
+
+===Etymology===
+{{Han etyl}}
+
+===Han character===
+{{Han char|rn=1|rad=一|as=03|sn=4|four=21407|canj=YSM|ids=⿱⺊⿹𠃌一,⿺⿹㇉一一,⿺⿻㇉一一}}
+
+# [[and]]
+# [[with]]
+# [[to]]
+# [[for]]
+# [[give]], [[grant]]
+
+====Usage notes====
+A traditional variant of [[與]], 与 is not used in modern (standardized) traditional Chinese.
+
+====Derived characters====
+* [[與]] [[写]]
+
+====Descendants====
+* [[よ]]
+
+===References===
+* {{Han ref|kx=0077.010|dkj=00020|dj=0154.010|hdz=10005.030|uh=4E0E|ud=19982|bh=C94F|bd=51535}}
+
+[[Category:Han characters from which hiragana were derived|よ]]
+
+----
+
+==Chinese==
+{{zh-see|與|sv}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=一03|style=s|kyu=與}}
+
+# [[bestow]], [[impart]], [[award]], [[grant]], [[give]]
+# [[participate]] [[in]]
+# [[provide]]
+# [[cause]]
+# [[gift]]
+# [[godsend]]
+
+====Readings====
+{{ja-readings
+|on=[[よ]] (yo)
+|kun=[[あたう]] ([[与う]], atau), [[あたゆ]] ([[与ゆ]], atayu), [[あたえる]] ([[与える]], ataeru), [[あずかる]] ([[与る]], [[与かる]], azukaru), [[くみす]] ([[与す]], kumisu), [[くみする]] ([[与する]], kumisuru), [[ともに]] (tomo ni)
+|nanori=[[とも]] (tomo), [[ゆ]] (yu)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-l|関与|かんよ|kan'yo}}
+* {{ja-l|給与|きゅうよ|kyūyo}}
+* {{ja-l|供与|きょうよ|kyōyo}}
+* {{ja-l|授与|じゅよ|juyo}}
+* {{ja-l|賞与|しょうよ|shōyo}}
+* {{ja-l|生殺与奪}}
+* {{ja-l|贈与|ぞうよ|zōyo}}
+* {{ja-l|天与|てんよ|ten'yo}}
+* {{ja-l|付与|ふよ|fuyo}}
+* {{ja-l|与格|よかく|yokaku}}: the [[dative case]]
+* {{ja-l|与件}}
+* {{ja-l|与太}}
+* {{ja-l|与太郎}}
+* {{ja-l|与奪}}
+* {{ja-l|与那国||Yonaguni}}
+* {{ja-l|与力|よりき|yoriki}}
+* {{ja-l|与論||Yoron}}
+* {{ja-l|与那原|よなばる|Yonabaru}}
+{{der-bottom}}
+
+===Etymology===
+Compound of {{compound|lang=ja|とも|tr1=tomo|t1=with; both|に|tr2=ni|pos2=adverbial particle}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Use of the single kanji {{lang|ja|与}} to spell this phrase is very rare and archaic, and is an example of [[熟字訓#Japanese|jukujikun]].
+
+===Pronunciation===
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|h|と|もに}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{ja-accent-common|a|と|もに}}<ref name="DJR"/>
+* {{IPA|lang=ja|[to̞mo̞ ni]}}
+
+===Alternative forms===
+* {{l|ja|ともに}}, {{l|ja|共に}}, {{l|ja|倶に}}
+: The more common spellings are {{l|ja|ともに}} and {{l|ja|共に}}.
+
+===Adverb===
+{{ja-pos|adverb|とも に}}
+
+# {{ja-def|共に}} [[together]], [[with]], [[both]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=여|rv=yeo|mr=yŏ}}
+
+# {{defn|lang=ko|sort=一03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dữ]], [[dự]], [[đử]]|rs=一03}}
+
+# {{defn|lang=vi|sort=一03}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e0e Nom Foundation]
+
+[[cs:与]]
+[[el:与]]
+[[fr:与]]
+[[ko:与]]
+[[lt:与]]
+[[li:与]]
+[[hu:与]]
+[[mg:与]]
+[[fj:与]]
+[[ja:与]]
+[[no:与]]
+[[pl:与]]
+[[th:与]]
+[[chr:与]]
+[[uk:与]]
+[[vi:与]]
+[[zh:与]]

@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chāoyīnsù
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[supersonic]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちょう|おん|そく|yomi=o}}
+
+===Etymology===
+{{prefix|超|tr1=chō|t1=super-|音速|tr2=onsoku|t2=speed of sound|lang=ja|sort=ちょうおんそく}}
+
+===Noun===
+{{ja-noun|ちょうおんそく}}
+
+# [[supersonic|Supersonic]] [[speed]].
+#: {{ja-usex|このジェット機は'''超音速'''で飛ぶ。|^この ジェット-き は '''ちょうおんそく''' で とぶ。|This jet plane flies at '''supersonic speeds'''.}}
+
+====Synonyms====
+* {{l|ja|スーパーソニック|tr=sūpāsonikku}}
+
+====Derived terms====
+* {{l|ja|超音速機|tr=chōonsoku-ki}}
+* {{l|ja|超音速流|tr=chōonsoku-ryū}}
+* {{l|ja|超音速旅客機|tr=chōonsoku-ryokakuki}}
+
+[[ko:超音速]]
+[[hu:超音速]]
+[[zh:超音速]]

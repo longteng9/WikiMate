@@ -1,0 +1,75 @@
+{{also|最爱}}
+==Chinese==
+{{zh-forms|s=最爱}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuì'ài
+|c=zeoi3 oi3
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[most]] [[loved]]; [[beloved]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|さい|あい|yomi=on}}
+
+===Etymology 1===
+{{prefix|lang=ja|最|愛|tr1=sai|t1=most|tr2=ai|t2=love}}
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[sa̠.i.a̠.i]}}
+* {{ja-accent-common|h|サ|イアイ}}<ref>{{R:NHK Hatsuon}}</ref>
+
+====Noun====
+{{ja-noun|さいあい}}
+
+# [[beloved]], emotionally [[close]], [[dear]]
+
+====Verb====
+{{ja-verb-suru|さいあい}}
+
+# to be beloved, to be close, to be dear
+
+=====Conjugation=====
+{{ja-suru|さいあい}}
+
+===Etymology 2===
+{{compound|lang=ja|最|愛|tr1=motto|t1=more|tr2=ai|t2=love}}
+
+====Proper noun====
+{{ja-pos|proper|もあい}}
+
+# {{given name|female|lang=ja|sort=もあい}}
+
+====Proper noun====
+{{ja-pos|proper|もあ}}
+
+# {{given name|female|lang=ja|sort=もあ}}
+
+=====Derived terms=====
+* {{m|ja|最愛名|tr=もあな, Moana}}
+
+===Etymology 3===
+
+====Proper noun====
+{{ja-pos|proper|まな}}
+
+# {{given name|female|lang=ja|sort=まな}}
+
+=====Derived terms=====
+* {{m|ja|最愛子|tr=まなこ, Manako}}
+
+===References===
+<references/>
+
+[[mg:最愛]]
+[[tl:最愛]]
+[[chr:最愛]]
+[[zh:最愛]]

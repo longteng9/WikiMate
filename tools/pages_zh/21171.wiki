@@ -1,0 +1,135 @@
+{{character info/new}}
+{{also|异|畀|暴}}
+==Translingual==
+
+===Alternative forms===
+* {{l|mul|異}} – Unicode z-code variants at points U+7570 and U+F962
+
+===Etymology===
+{{Han etyl}}
+{{liushu|i}} – a man with a mask ([[田]]) over his face (different face) – see [http://www.chineseetymology.org/CharacterASP/CharacterEtymology.aspx?characterInput=%E7%95%B0&submitButton1=Etymology Chinese Etymology: 異], by Richard Sears.
+
+Compare {{m|mul|鬼||demon|sc=Hani}}, where the 田 also derives from a face.
+
+Modern form is graphically {{Han compound|田|共}}, though this is not the etymology. Unrelated to visually similar [[暴]].
+
+===Han character===
+{{Han char|rn=102|rad=田|as=06|sn=11|four=60801|canj=WTC|ids=⿱田共}}
+* Shuōwén Jiězì radical №65
+
+# [[different]], [[other]]
+# [[special]], [[uncommon]]
+# [[odd]], [[uncommon]]
+
+====Derived characters====
+* [[冀]] [[翼]] [[戴]] [[糞]] [[㔴]] [[潩]] [[廙]] [[趩]] [[䔬]]
+
+====Synonyms====
+* {{sense|different, special}} {{l|mul|殊}}, {{l|mul|差}}
+* {{sense|odd}} {{l|mul|奇}}, {{l|mul|怪}}
+
+====Antonyms====
+*{{sense|different}} {{l|mul|同}}
+
+====References====
+* {{Han ref|kx=0763.180|dkj=21866|dj=1173.050|hdz=42540.050|uh=7570|ud=30064|bh=B2A7|bd=45735}}
+* {{Han ref|uh=F962}}
+
+----
+
+==Chinese==
+{{zh-forms|s=异}}
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=ji6
+|mn=qz,tw,xm,zz:ī/tw,xm,zz:īⁿ
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[different]], [[other]], [[hetero-]]
+# [[uncommon]], [[unusual]], [[special]], [[strange]], [[surprising]]
+# [[distinguish]], [[separate]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=田07}}
+
+# [[different]], [[other]], [[hetero-]]
+# [[uncommon]], [[special]]
+# [[curious]], [[odd]]
+
+====Readings====
+* {{ja-readings|goon=[[い]] (i)|kanon=[[い]] (i)|kun=[[こと]] (koto), [[ことなる]] (kotonaru), [[あやしい]] (ayashii)}}
+
+====Compounds====
+{{top2}}
+* {{ja-r|異義|いぎ}}
+* {{ja-r|異議|いぎ}}
+* {{ja-r|異教|いきょう}}
+* {{ja-r|異郷|いきょう}}
+* {{ja-r|異境|いきょう}}
+* {{ja-r|異才|いさい}}
+* {{ja-r|異彩|いさい}}
+* {{ja-r|異種|いしゅ}}
+* {{ja-r|異趣|いしゅ}}
+* {{ja-r|異状|いじょう}}
+* {{ja-r|異常|いじょう}}
+* {{ja-r|異色|いしょく}}
+* {{ja-r|異人|いじん}}: [[foreigner]], [[stranger]]
+* {{ja-r|異国人|いこくじん}}: [[foreigner]], [[stranger]]
+{{mid2}}
+* {{ja-r|異相|いそう}}
+* {{ja-r|異俗|いぞく}}
+* {{ja-r|異存|いぞん}}
+* {{ja-r|異端|いたん}}
+* {{ja-r|異途|いと}}
+* {{ja-r|異同|いどう}}
+* {{ja-r|異動|いどう}}
+* {{ja-r|異物|いぶつ}}
+* {{ja-r|異母|いぼ}}
+* {{ja-r|異邦|いほう}}: [[foreign country]]
+* {{ja-r|異邦人|いほうじん}}: [[foreigner]], [[stranger]]
+* {{ja-r|異様|いよう}}
+* {{ja-r|異例|いれい}}
+* {{ja-r|変異|へんい}}
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=이|eumhun=|rv=i|mr=i|y=i}}
+
+# {{defn|lang=ko|sort=田07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dị]]|rs=田07}}
+
+# {{defn|lang=vi|sort=田07}}
+
+[[fr:異]]
+[[ko:異]]
+[[hu:異]]
+[[mg:異]]
+[[ja:異]]
+[[pl:異]]
+[[pt:異]]
+[[th:異]]
+[[uk:異]]
+[[zh:異]]

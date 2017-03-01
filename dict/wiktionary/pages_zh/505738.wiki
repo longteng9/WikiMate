@@ -1,0 +1,53 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=hóngcǎi
+|c=hung4 coi2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{label|zh|anatomy}} [[iris]] {{gloss|of the eye}}
+# [[rainbow]] [[lustre]]
+
+====Synonyms====
+* {{sense|iris}} {{zh-l|虹膜}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|さい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|こうさい|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|こうさい}}
+
+# {{lb|ja|anatomy|sort=こうさい}} [[iris]] {{gloss|part of the eye}}
+
+====Compounds====
+* {{ja-r|虹彩炎|こうさいえん|gloss=iritis}}
+
+===References===
+<references/>
+:* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=홍채}}
+
+# {{hanja form of|홍채|iris, a part of the eye}}
+
+[[ko:虹彩]]
+[[it:虹彩]]
+[[hu:虹彩]]
+[[zh:虹彩]]

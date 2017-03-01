@@ -1,0 +1,53 @@
+{{also|陈谢}}
+==Chinese==
+{{zh-forms|s=陈谢}}
+
+===Pronunciation===
+{{zh-pron
+|m=chénxiè
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|obsolete}} to [[express]] one's [[gratitude]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちん|しゃ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ちんしゃ|y=o}}
+
+===Noun===
+{{ja-noun|ちんしゃ|tr=trans}}
+
+# [[apology]]
+
+====Synonyms====
+* {{ja-r|詫び|わび}}
+* {{ja-r|謝罪|しゃざい}}
+
+===Verb===
+{{ja-verb-suru|ちんしゃ|tr=trans}}
+
+#[[apologize]]
+
+====Conjugation====
+{{ja-suru|ちんしゃ}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=진사}}
+
+# {{hanja form of|진사|[[apology]]}}
+
+[[lo:陳謝]]
+[[mg:陳謝]]
+[[zh:陳謝]]

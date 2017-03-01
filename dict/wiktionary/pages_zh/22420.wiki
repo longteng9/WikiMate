@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|稅}}
+==Translingual==
+
+===Etymology===
+{{Han simp|稅|f=兌|t=兑}}. {{Han compound|禾|兑|ls=psc|c1=s|c2=p}}.
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=07|sn=12|four=|canj=HDCRU,XHDCR}}
+
+====References====
+* {{Han ref|kx=0854.201|dkj=25070|hdz=42609.100|uh=7A0E|ud=31246}}
+
+----
+
+==Chinese==
+{{zh-see|稅}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=禾07}}
+
+# [[tax]]
+
+=====Readings=====
+* {{ja-readings|goon=[[せ]] (se) {{non-joyo-reading}}|kanon=[[せい]] (sei) {{non-joyo-reading}}|kanyoon=[[ぜい]] (zei), [[さい]] (sai) {{non-joyo-reading}}|on=[[だつ]] (datsu), [[えつ]] (etsu)|kun=[[みつぎ]] (mitsugi)|nanori=}}
+
+===Noun===
+{{ja-noun|ぜい}}
+
+# [[tax]]
+
+====Compounds====
+* {{ja-r|税金|ぜいきん|gloss=tax, tax charge}}
+* {{ja-r|税収|ぜいしゅう|gloss=tax revenue}}
+* {{ja-r|税務署|ぜいむしょ|gloss=tax office, revenue office}}
+* {{ja-r|消費税|しょうひぜい|gloss=consumption tax, value added tax, goods and services tax}}
+
+===Etymology===
+From {{m|ja|力|tr=chikara||strength}}. That which is produced from strength, ie labor.
+
+===Pronunciation===
+* {{IPA|[tɕikara]|lang=ja}}
+
+===Noun===
+{{ja-noun|ちから}}
+
+# the collection of grain from the commoners masses to the state; a [[tax]], [[taxes]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[세]], [[탈]]|eumhun=|rv=se, tal|mr=se, t'al|y=sey, thal}}
+
+# {{defn|lang=ko|sort=禾07}}
+
+[[fr:税]]
+[[ko:税]]
+[[kn:税]]
+[[li:税]]
+[[hu:税]]
+[[mg:税]]
+[[nl:税]]
+[[ja:税]]
+[[no:税]]
+[[pl:税]]
+[[ru:税]]
+[[fi:税]]
+[[th:税]]
+[[chr:税]]
+[[zh:税]]

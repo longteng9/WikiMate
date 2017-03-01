@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|丑}}<!-- may be replaced by zh-forms -->
+
+==Translingual==
+
+===Han character===
+{{Han char|rn=1|rad=一|as=03|sn=4|four=|canj=SKM|ids=⿱刃一}}
+
+# the period from 1 to 3 a.m.
+# [[second]] of the [[twelve]] [[earthly branch]]es of the [[w:Chinese zodiac|Chinese zodiac]]
+
+====References====
+* {{Han ref|kx=0077.061|dkj=00028|hdz=10013.021|uh=4E12|ud=19986}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chǒu
+|c=ng5,m5
+|h=
+|mn=
+|w=
+|ma=|ma2=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 61]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=一03}}
+
+# 1:00 AM to 3:00 AM.
+# The [[ox]], the second sign of the Chinese [[zodiac]].
+
+====Readings====
+{{ja-readings
+|on=[[ちゅう]] (chū)
+|kun=[[うし]] (ushi)
+}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[giấu]]|rs=一03}}
+
+# {{defn|lang=vi|sort=一03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e12 Nom Foundation]
+
+[[fr:丒]]
+[[ko:丒]]
+[[hu:丒]]
+[[ja:丒]]
+[[pl:丒]]
+[[th:丒]]
+[[zh:丒]]

@@ -1,0 +1,148 @@
+{{character info/new}}
+{{also|昧}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=05|sn=8|four=65090|canj=RJD|ids=⿰口未}}
+
+====References====
+* {{Han ref|kx=0182.130|dkj=03456|dj=0401.140|hdz=10597.060|uh=5473|ud=21619|bh=A8FD|bd=43261}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|口|未|t1=mouth|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+Schuessler (2007) compared this word with Proto-Monic *''[ʔ]məp'' ("good tasting, have a pleasant flavour, be pleasant") > {{cog|mnw|မိပ်|tr=mìp||to be happy, to enjoy}}. Unger (1992) connects this with {{cog|bo|བྲོད}} (< {{m|bo|བྲོ||to taste}}). Also compare {{etyl|ko|-}} {{ko-l|맛|mas|taste}} / {{ko-l|멋|mes|taste; charm}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wèi,er=y
+|m-s=wei4
+|c=mei6
+|h=pfs=mi
+|md=ê/mê
+|md_note=ê - taste, smell, food; mê - (''figurative'') taste, fun, interest
+|mn=bī
+|mn-t=bhi7
+|w=3mi,3vi
+|w_note=3mi - colloquial; 3vi - literary
+|mc=y
+|oc=y
+|cat=n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[taste]], [[flavor]]
+#*: {{zh-x|甘 橘，大厘 城 有 之，其 味 酸。|Dali City has sweet tangerines, but their flavour is sour.|CL|ref={{RQ:Manshu|7|Tea, Trees, Herbs and Fruits|7}}}}
+# [[smell]], [[odor]] {{zh-mw|m:股|c:陣}}
+#: {{zh-x|點解 你 間 房{fong4-2} 好似 有 陣{zam6} 味 嘅？|Why does your room seem like there is some '''smell'''?|C}}
+# [[food]]
+#: {{zh-x|海味|seafood [i.e. taste of the sea]}}
+# to [[taste]]; to [[reflect]] on, to [[experience]]
+#: {{zh-x|品味|to taste; to appreciate}}
+# [[interest]], [[fun]], [[taste]]
+#: {{zh-x|意味|meaning}}
+#: {{zh-x|趣味|fun; taste}}
+# {{n-g|Classifier for ingredients of a Chinese medicine prescription.}}
+
+===Compounds===
+{{zh-der|風味|海味|味道|味精|味蕾|五味子|意味|鮮味|一味|一味禪|三月不知肉味|不夠味|不彀味|不是味|不是滋味|世味|串味|乏味|五味|人味兒|人情味|低級趣味|個中滋味|入味|六味|其味無窮|兼味|冰冷無味|別有風味|北杜味納河|南味|厚味|厚味臘毒|原味|口味|吃味|吃味兒|合口味|吟味|含味|味兒|味勝易牙|味同嚼蠟|味噌|味噌湯|味外味|味如雞肋|味素|味覺|味覺器|和味|品味|回味|回味無窮|土味|夠味|女人味|家鄉味|尋味|對味|山珍海味|情味|意味深長|找沒味兒|披味|掛味兒|易牙之味|是味兒|有味|有味兒|有味電影|有滋有味兒|枯燥無味|正味|殊滋異味|氣味|氣味相合|氣味相投|沒人味|沒味|沒味兒|沒味道|況味|津津有味|淡然無味|淡而無味|淡薄無味|滋味|滋味兒|滷味|烈味|無味|熟讀玩味|玩味|珍味|珍羞美味|珍饈百味|甘味|甜味|異味|禪味|索然無味|美味|美味可口|耐人尋味|聞韶忘味|脾味|腥味|腥臊味|膏粱厚味|膩味|臊味|臘味|臭味|臭味相投|興味|興味盎然|興味索然|舊時風味|色香味俱全|芝蘭氣味|苜蓿風味|藥味|衠一味|言語無味|語言無味|誦味|調味|調味乳|調味品|調味料|諷味|走味|走味兒|趣味|趣味橫生|蹇味兒|辣味|辨味|道學味|鄉味|野味|銅臭味|霉味|韻味|食不二味|食不兼味|食不甘味|食不知味|食不累味|食不終味|食不遑味|食不重味|食之無味，棄之不甘|食之無味，棄之可惜|食味方丈|食髓知味|餘味|餘味無窮|香味|體味}}
+
+===Descendants===
+{{CJKV||み|j2=び|미|vị}}
+''Others:''
+* Proto-Hmong-Mien: {{l|hmx-pro|*hmeiᴴ||taste; to try}}
+* Vietnamese: {{l|vi|mùi||smell}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=口05}}
+
+====Readings====
+* {{ja-readings|goon=[[み]] ([[mi]])|kanon=[[び]] ([[bi]])|kun=[[あじ]] ([[aji]]), [[あじわう]] ([[味わう]], [[ajiwau]])}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|味方|みかた}}
+* {{ja-r|味噌|みそ}}
+* {{ja-r|味噌汁|みそしる}}
+* {{ja-r|三味線|しゃみせん}}, {{ja-r|三味線|さみせん}}
+* {{ja-r|興味|きょうみ}}
+* {{ja-r|意味|いみ}}
+* {{ja-r|無意味|むいみ}}
+{{mid3}}
+* {{ja-r|甘味|あまみ}}
+* {{ja-r|地味|じみ}}
+* {{ja-r|気味|きみ}}
+* {{ja-r|不気味|ぶきみ}}
+* {{ja-r|趣味|しゅみ}}
+* {{ja-r|赤味|あかみ}}
+* {{ja-r|黒味|くろみ}}
+{{mid3}}
+* {{ja-r|厚味|あつみ}}
+* {{ja-r|不味い|まずい}}
+* {{ja-r|美味しい|おいし.い}}
+* {{ja-r|旨味|うまみ}}
+* {{ja-r|賞味|しょうみ}}
+* {{ja-r|薬味|やくみ}}
+{{bottom}}
+
+===Noun===
+{{ja-noun|あじ}}
+
+# [[flavour]] (UK); [[flavor]] (US)
+
+===Suffix===
+{{ja-pos|み|suffix}}
+
+# (after an [[形容詞|i-adjective]] stem) [[-ness]]; any degree of being
+
+[[Category:ja:Taste]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=미|rv=mi|mr=mi}}
+
+# {{defn|lang=ko|sort=口05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[vị]], [[mùi]], [[mồi]]|rs=口05}}
+
+# {{defn|lang=vi|sort=口05}}
+
+[[zh-min-nan:味]]
+[[fr:味]]
+[[ko:味]]
+[[hi:味]]
+[[it:味]]
+[[lo:味]]
+[[hu:味]]
+[[mg:味]]
+[[ms:味]]
+[[ja:味]]
+[[no:味]]
+[[pl:味]]
+[[pt:味]]
+[[fi:味]]
+[[th:味]]
+[[chr:味]]
+[[vi:味]]
+[[zh:味]]

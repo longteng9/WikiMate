@@ -1,0 +1,89 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=04|sn=10|four=44227|canj=TYHS|ids=⿱艹方}}
+
+# [[fragrant]]
+# [[virtuous]]
+# [[beautiful]]
+# ''A (typically female) [[given name]]''
+
+====See also====
+* {{l|mul|香}}
+
+====References====
+* {{Han ref|kx=1021.020|dkj=30736|dj=1479.030|hdz=53184.060|uh=82B3|ud=33459|bh=AADA|bd=43738}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fāng
+|c=fong1
+|h=pfs=fông
+|md=
+|mn=phang/hong
+|mn_note=phang - vernacular; hong - literary
+|mn-t=pang1/huang1
+|mn-t_note=pang1 - vernacular; huang1 - literary
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[fragrant]]
+
+====Synonyms====
+{{zh-dial|香}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=艸04}}
+
+# {{defn|lang=ja|sort=艸04}}
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō)|kun=[[かんばしい]] (kanbashii), [[かおり]] (kaori)|nanori=[[よし]] (yoshi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=방|eumhun=|rv=bang|mr=pang|y=pang}}
+
+# {{defn|lang=ko|sort=艸04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phương]]|rs=艸04}}
+
+# {{defn|lang=vi|sort=艸04}}
+
+[[zh-min-nan:芳]]
+[[fr:芳]]
+[[ko:芳]]
+[[hu:芳]]
+[[mg:芳]]
+[[ja:芳]]
+[[no:芳]]
+[[pl:芳]]
+[[th:芳]]
+[[zh:芳]]

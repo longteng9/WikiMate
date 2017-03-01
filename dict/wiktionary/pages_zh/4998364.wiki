@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=ròugēng,er=y
+|c=juk6 gang1
+|mn=bah-kiⁿ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[stew]]; [[bouillon]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|にく|こう|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|にくこう}}
+
+====Noun====
+{{ja-noun|にくこう|hhira=にくかう}}
+
+# [[meat]] [[broth]]
+
+=====Synonyms=====
+* {{sense|meat broth}} {{ja-r|肉汁|にくじゅう}}
+
+===Etymology 2===
+{{ja-kanjitab|にく|こう|k1=にっ|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|にっこう}}
+
+====Noun====
+{{ja-noun|にっこう|hhira=にくかう}}
+
+# [[meat]] [[broth]]
+
+[[zh-min-nan:肉羹]]
+[[zh:肉羹]]

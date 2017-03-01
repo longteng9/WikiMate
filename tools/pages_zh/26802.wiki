@@ -1,0 +1,112 @@
+{{character info/new}}
+{{also|覚|觉}}
+==Translingual==
+{{Han simplified forms|覺|覚|觉}}
+
+===Han character===
+{{Han char|rn=147|rad=見|as=13|sn=20|four=77216|canj=HBBUU}}
+
+====References====
+* {{Han ref|kx=1137.230|dkj=34973|dj=1604.290|hdz=63675.080|uh=89BA|ud=35258|bh=C4B1|bd=50353}}
+
+----
+
+==Chinese==
+{{zh-forms|s=觉|alt=覚,斍,𡕚,覐,𧠔,𧠭,𧠷}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|學|見|c1=p|c2=s|t2=see|ls=psc}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=jué
+|c=gok3
+|h=pfs=kok
+|md=gáe̤k/gáuk
+|md_note=gáe̤k - vernacular; gáuk - literary
+|mn=kak
+|w=4koq,4jiaq
+|w_note=4koq - vernacular; 4jiaq - literary
+|mc=2
+|oc=2
+|cat=v,n,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[wake up]] from [[sleep]]
+#: {{zh-x|覺{jué}悟|awareness}}
+# to [[become]] [[aware]]; to [[dawn on]]; to [[awaken]] to
+#: {{zh-x|覺{jué}醒|to come to realize}}
+#: {{zh-x|大覺{jué}|great awakening}}
+# to [[feel]]; to [[think]]
+#: {{zh-x|覺{jué}得|to '''feel''' that; to '''think''' that}}
+# [[sense]]; [[sensation]]; [[feeling]]
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|察覺|慧覺|八大人覺|大覺|嗅覺器|乖覺|壓覺|味覺器|乖覺可喜|冷覺|先覺先知|感覺器官|感覺|後覺|愛新覺羅|後知後覺|不覺|先覺|幻覺|平衡覺|倍覺|伶俐乖覺|大覺醒|味覺|不知不覺|共同感覺|夢覺黃粱|不知覺|不自覺|光覺|先知先覺|嗅覺|溫覺|視覺適應|直覺|發覺|漠然不覺|視覺懸崖|懵然未覺|正覺|視覺藝術|視覺空間|視覺|神鬼不覺|知覺防衛|知覺神經|知覺|睡覺|渾然不覺|獨覺|視覺器|痛覺|覺他|緣覺|運動錯覺|臭覺|自覺|覺得|色覺|超感覺|警覺|自覺形穢|覺劍|覺察|覺寤|覺知|聽覺|聽覺中樞|錯覺|覺悟|肌覺|驚覺|觸覺|覺返迷津|覺發|醒覺|覺道|覺醒|覺書|聰明乖覺|覺海|覺世|覺音|覺王}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=jiào
+|c=gaau3
+|h=pfs=kau
+|w=2kau
+|dial=n
+|mc=1
+|oc=1
+|cat=n,cls
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[sleep]]; [[going]] to [[bed]]; [[nap]]
+# {{zh-classifier|[[period]]s of [[sleep]]}}
+
+====Compounds====
+{{zh-der|fold=1|中覺|困覺|大頭覺|午覺|睡懶覺|晌覺|睡長覺|睡晌覺|睡中覺|睏覺}}
+
+{{zh-cat|Sleep}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=見13|style=ky|shin=覚}}
+
+# {{defn|lang=ja|sort=見13}}
+
+====Readings====
+* {{ja-readings|on=[[かく]] (kaku), [[こう]] (kō)|kun=[[おぼえる]] (oboeru), [[さます]] (samasu), [[さとる]] (satoru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[각]], [[교]]|eumhun=|rv=gak, gyo|mr=kak, kyo|y=kak, kyo}}
+
+# {{defn|lang=ko|sort=見13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[giác]], [[nhác]], [[rác]], [[dác]]|rs=見13}}
+
+# {{defn|lang=vi|sort=見13}}
+
+[[fr:覺]]
+[[ko:覺]]
+[[hu:覺]]
+[[mg:覺]]
+[[ja:覺]]
+[[pl:覺]]
+[[th:覺]]
+[[zh:覺]]

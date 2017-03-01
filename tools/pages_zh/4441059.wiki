@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìchéng
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[completed]]; [[established]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|き|せい|yomi=on}}
+
+===Adjective===
+{{ja-adj|きせい|infl=na}}
+
+# [[established]]
+# [[ready-made]]
+
+====Derived terms====
+* {{ja-r|既成品|きせい ひん|gloss=ready-made goods}}
+* {{ja-r|既成事実|きせい じじつ|gloss=fait accompli}}
+* {{ja-r|既成概念|きせい がいねん|gloss=stereotype}}
+
+====Usage notes====
+* Normally used with {{ja-l|の}} instead of {{ja-l|な}}, as in {{l|ja|[[既成]][[の]][[服]]|tr=kisei no fuku||ready-made cloth}}.
+
+[[ko:既成]]
+[[lo:既成]]
+[[mg:既成]]
+[[ja:既成]]
+[[zh:既成]]

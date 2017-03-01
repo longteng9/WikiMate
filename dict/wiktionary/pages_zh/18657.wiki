@@ -1,0 +1,45 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=04|sn=7|four=33134|canj=EIK|ids=⿰氵犬}}
+
+# {{defn|Han|sort=水04}}
+
+====References====
+* {{Han ref|kx=0608.010|dkj=17161|dj=1001.060|hdz=31561.010|uh=6C71|ud=27761|bh=CB51|bd=52049}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Glyph origin====
+{{Han etym}}
+
+====Pronunciation====
+{{zh-pron
+|m=quǎn
+|c=gyun2
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Etymology 2===
+{{zh-see|汰|v}}
+
+===References===
+* {{R:twedu|B02033}}
+
+[[fr:汱]]
+[[pl:汱]]
+[[th:汱]]
+[[zh:汱]]

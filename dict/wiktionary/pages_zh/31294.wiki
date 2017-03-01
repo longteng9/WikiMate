@@ -1,0 +1,63 @@
+{{character info/new}}
+{{also|飓}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=182|rad=風|as=08|sn=17|four=76218|canj=HNBMC}}
+
+# [[cyclone]], [[typhoon]], [[gale]]
+
+====References====
+* {{Han ref|kx=1413.200|dkj=43876|dj=1935.110|hdz=74486.200|uh=98B6|ud=39094|bh=C1FC|bd=49660}}
+
+----
+==Chinese==
+{{zh-forms|s=飓}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jù
+|c=geoi6
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|颶母|颶風}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=風08}}
+
+# {{defn|lang=ja|sort=風08}}
+
+====Readings====
+* {{ja-readings|on=[[く]] (ku), [[ぐ]] (gu)|kun=[[つむじかせ]] (tsumujikase), [[はやて]] (hayate)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# {{defn|lang=ko|sort=風08}}
+
+[[fr:颶]]
+[[hu:颶]]
+[[ja:颶]]
+[[pl:颶]]
+[[th:颶]]
+[[vi:颶]]
+[[zh:颶]]

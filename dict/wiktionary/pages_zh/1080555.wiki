@@ -1,0 +1,58 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǎocún
+|c=bou2 cyun4
+|h=pfs=pó-chhùn
+|mn=pó-chûn
+|ma=Zh-baocún.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[preserve]]; to [[conserve]]; to [[keep]]
+#: {{zh-x|這 本 書 保存 完好。|The book is in good condition.}}
+# to [[save]] {{gloss|a file}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほ|ぞん|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|ほぞん|y=o|acc=0}}
+
+===Noun===
+{{ja-noun|ほぞん}}
+
+# [[preservation]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|ほぞん}}
+
+# to [[save]], to [[preserve]]
+#: {{ja-usex|開封後は冷暗所に'''保存'''してください。|かいふうご は れいあんしょ に '''ほぞん''' して ください。|Store it in a cool, dark place after opening.}}
+
+====Conjugation====
+{{ja-suru|ほぞん}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:保存]]
+[[fr:保存]]
+[[ko:保存]]
+[[hu:保存]]
+[[mg:保存]]
+[[ja:保存]]
+[[ru:保存]]
+[[sr:保存]]
+[[chr:保存]]
+[[vi:保存]]
+[[zh:保存]]

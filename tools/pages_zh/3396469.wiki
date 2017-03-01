@@ -1,0 +1,52 @@
+{{also|配给}}
+==Chinese==
+{{zh-forms|s=配给}}
+
+===Pronunciation===
+{{zh-pron
+|m=pèijǐ
+|c=pui3 kap1
+|h=pfs=phi-kip/phi-pûn
+|mn=kh,qz,xm,zz:phòe-kip/tp:phè-kip
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[ration]]
+
+====Derived terms====
+{{zh-der|配給制}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|はい|きゅう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|はいきゅう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はいきゅう}}
+
+# [[rationing]], [[distribution]], especially of food
+
+===Verb===
+{{ja-verb-suru|tr=trans|はいきゅう}}
+
+# [[ration]], [[distribute]]
+
+====Conjugation====
+{{ja-suru|はいきゅう}}
+
+===References===
+<references/>
+
+[[zh-min-nan:配給]]
+[[ko:配給]]
+[[hu:配給]]
+[[mg:配給]]
+[[sv:配給]]
+[[chr:配給]]
+[[zh:配給]]

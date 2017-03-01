@@ -1,0 +1,99 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=6}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=03|sn=6|four=64010|canj=RG|ids=⿰口土}}
+
+# [[vomit]], [[spew]] out, [[cough up]]
+
+====References====
+* {{Han ref|kx=0176.030|dkj=03300|dj=0393.030|hdz=10576.050|uh=5410|ud=21520|bh=A652|bd=42578}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|口|t1=mouth|土|ls=psc|c1=s|c2=p}} – spew from your mouth.
+
+===Pronunciation===
+{{zh-pron
+|m=tǔ,tù
+|c=tou3,tou2
+|h=pfs=phôn
+|md=
+|mn=thó͘/thò͘/qz,xm,zz:thóng
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* {{R:twedu|A00503}}
+* {{R:yue:Hanzi}}
+* {{qualifier|Min Nan}} {{R:nan:thcwdq}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=口03}}
+
+# [[vomit]], [[belch]], [[spit]] ([[out]])
+
+====Readings====
+{{ja-readings
+|on=[[と]] (to)
+|kun=[[はく]] ([[吐く]], haku)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|哯吐|つだみ}}: (of an infant, etc) [[spitting]] out [[milk]] after taking a drink
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=토|rv=to|mr=t'o|y=tho}}
+
+# {{defn|lang=ko|sort=口03}}
+
+===Noun===
+吐 ([[토]], to)
+
+# An [[affixal]] [[letter]] used in [[kwukyel]].
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thổ]], [[nhổ]], [[giổ]], [[giỗ]]|rs=口03}}
+
+# {{defn|lang=vi|sort=口03}}
+
+[[fr:吐]]
+[[ko:吐]]
+[[li:吐]]
+[[hu:吐]]
+[[mg:吐]]
+[[ja:吐]]
+[[no:吐]]
+[[pl:吐]]
+[[th:吐]]
+[[chr:吐]]
+[[uk:吐]]
+[[zh:吐]]

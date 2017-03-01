@@ -1,0 +1,47 @@
+{{also|敎材}}
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{compound|教|材|t1=teach|t2=material|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiàocái
+|c=gaau3 coi4
+|h=pfs=kau-chhòi
+|mn=kàu-châi/kàu-chhâi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|education}} [[teaching]] [[material]]s
+
+====Derived terms====
+{{zh-der|反面教材}}
+
+===Descendants===
+{{CJKV||きょうざい|교재|k=敎材}}
+
+{{zh-cat|Elementary|Education}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きょう|ざい|yomi=on}}
+
+===Noun===
+{{ja-noun|きょうざい}}
+
+# {{lb|ja|education|sort=きょうざい}} [[teaching]] [[material]]s
+
+====See also====
+* {{ja-r|教法|gloss=teaching methods|きょうほう}}
+
+[[zh-min-nan:教材]]
+[[lt:教材]]
+[[hu:教材]]
+[[ja:教材]]
+[[zh:教材]]

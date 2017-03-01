@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=124|rad=羽|as=10|sn=16|four=48427|canj=JJOSM}}
+
+# writing brush, pen, pencil
+
+====References====
+* {{Han ref|kx=0958.430|dkj=28780|dj=1405.010|hdz=53353.080|uh=7FF0|ud=32752|bh=BFAB|bd=49067}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|倝|羽|c1=p|c2=s|t2=feather|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=hàn
+|c=hon6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=羽10}}
+
+# {{defn|lang=ja|sort=羽10}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[やまどり]] (yamadori), [[はね]] (hane), [[ふで]] (fude)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=한|eumhun=|rv=han|mr=han|y=han}}
+
+# {{defn|lang=ko|sort=羽10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hàn]]|rs=羽10}}
+
+# {{defn|lang=vi|sort=羽10}}
+
+[[fr:翰]]
+[[hu:翰]]
+[[mg:翰]]
+[[ja:翰]]
+[[no:翰]]
+[[pl:翰]]
+[[sr:翰]]
+[[th:翰]]
+[[zh:翰]]

@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiāohù
+|c=gaau1 wu6
+|mn=kau-hō͘
+|cat=adv,v
+}}
+
+===Adverb===
+{{zh-adv}}
+
+# [[each other]]; [[mutually]]
+# [[alternately]]; [[in turn]]
+
+====Synonyms====
+* {{sense|each other}} {{zh-l|彼此}}, {{zh-l|互相}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[interact]] with [[each other]]
+----
+==Japanese==
+{{ja-kanjitab|こう|ご|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|こうご|y=o}}
+
+===Noun===
+{{ja-noun|こうご}}
+
+# [[alternate]] fashion, being done [[in turn]] or [[by turns]]
+#: {{ja-usex|お湯と冷たい水により交互に体に温冷刺激を与える|お-ゆ と つめたい みず に より こうご に からだ に おんれいしげき を あたえる|alternate hot and cold water stimulates the body thermally}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=교호}}
+
+# {{hanja form of|교호|}}
+
+[[ko:交互]]
+[[li:交互]]
+[[hu:交互]]
+[[zh:交互]]

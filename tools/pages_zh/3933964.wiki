@@ -1,0 +1,60 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=lěngfáng
+|c=laang5 fong4
+|mn=léng-pâng
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[cold]] [[room]]; [[cool]] room
+# {{lb|zh|figurative}} [[deserted]] [[room]]; [[detention]] [[cell]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[cool]] a room; to [[air condition]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|れい|ぼう|yomi=on}}
+
+===Noun===
+{{ja-noun|れいぼう}}
+
+# [[air conditioning]], lowering the indoor air temperature
+# air conditioning, a system producing cooler air
+
+====Antonyms====
+* {{ja-r|暖房|だんぼう}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|れいぼう}}
+
+# air condition, [[cool]] a room
+
+====Conjugation====
+{{ja-suru|れいぼう}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=냉방}}
+
+# {{hanja form of|냉방|[[cooling]]}}
+
+[[fr:冷房]]
+[[ko:冷房]]
+[[it:冷房]]
+[[lo:冷房]]
+[[lt:冷房]]
+[[hu:冷房]]
+[[mg:冷房]]
+[[zh:冷房]]

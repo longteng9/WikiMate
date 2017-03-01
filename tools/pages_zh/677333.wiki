@@ -1,0 +1,55 @@
+{{also|无名}}
+==Chinese==
+{{zh-forms|s=无名}}
+
+===Etymology===
+Literally, ''lacking a name or reputation''.
+
+===Pronunciation===
+{{zh-pron
+|m=wúmíng
+|c=mou4 ming4
+|h=pfs=vù-miàng
+|mn=bû-bêng/qz,xm:bô-miâ
+|cat=a
+}}
+
+===Adjective===
+{{zh-noun}}
+
+# {{lb|zh|attributive}} [[anonymous]]; [[nameless]]
+# [[unknown]]; [[unnotable]]; [[unremarkable]]
+# [[unexplainable]]; [[inexplicable]]
+
+===Derived terms===
+{{zh-der|無名火|無名氏|無名小卒|無名英雄|無名之輩|無名指}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|む|めい|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=むめい}} compound {{m|zh|無名|tr=mju mjieng|lit=not have + name}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|むめい|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|むめい}}
+
+# [[namelessness]], [[anonymity]]
+# [[lack]] of [[fame]], [[unnotability]]
+
+====Usage notes====
+Often used [[attributively]] to modify other nouns, using the particle {{m|ja|の|tr=no}}.
+* {{ja-usex|'''無名'''の手紙、'''無名'''の新人|'''むめい''' の てがみ、 '''むめい''' の しんじん|a '''nameless''' (unsigned) letter; a '''nameless''' (unknown, not famous) new person}}
+
+===References===
+<references/>
+
+[[ko:無名]]
+[[hu:無名]]
+[[ja:無名]]
+[[chr:無名]]
+[[zh:無名]]

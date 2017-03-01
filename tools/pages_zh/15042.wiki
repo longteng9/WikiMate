@@ -1,0 +1,102 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=53|rad=广|as=08|sn=11|four=00227|canj=ILB}}
+
+# [[use]], [[employ]]
+# [[ordinary]], [[common]], [[usual]]
+# [[ordinary]], [[mediocre]]
+
+====Synonyms====
+* {{sense|common}} {{l|mul|平}}
+* {{sense|mediocre}} {{l|mul|凡}}
+
+====Antonyms====
+* {{sense|ordinary}} {{l|mul|偉}} ([[extraordinary]], [[great]])
+
+====References====
+* {{Han ref|kx=0347.300|dkj=09378|dj=0658.050|hdz=20890.050|uh=5EB8|ud=24248|bh=B165|bd=45413}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yōng
+|c=jung4
+|mn=qz,tw,xm,zz:iông/tw:iûⁿ/qz,xm:sông
+|mn_note=iông - literary; sông - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|庸醫|庸器|庸愚|庸言庸行|庸才|庸常|庸人|庸俗|庸夫|庸夫俗子|庸保|庸劣|中庸|平庸|庸闇|庸碌無能|庸庸|凡庸|庸庸碌碌|中庸之道|庸人自擾|功庸|庸材|徵庸|庸行|庸碌|庸中佼佼|平庸之輩|庸詎|居庸關|庸鼓|幽庸|庸言|碌碌庸流|樗櫟庸材|租庸調|無庸|碌碌庸才|昏庸|無庸諱言|登庸|疇庸|無庸贅言|無庸置疑|無庸置辯|毋庸|毋庸置疑|附庸風雅|酬庸|附庸國|附庸|賣庸}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=广08}}
+
+# commonplace
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō)|kun=[[なみ]] (nami), [[つね]] (tsune), [[もちいる]] (mochiiru)}}
+
+====Compounds====
+* [[庸愚]]
+* [[庸君]]
+* [[庸言庸行]]
+* [[庸才]]
+* [[庸常]]
+* [[庸人]]
+* [[庸俗]]
+* [[庸夫]]
+* [[庸劣]]
+* [[中庸]]
+* [[登庸]]
+* [[凡庸]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=용|rv=yong|mr=yong}}
+
+# {{defn|lang=ko|sort=广08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=广08|hanviet=[[dong]], [[dông]], [[dung]], [[giông]]}}
+
+# {{defn|lang=vi|sort=广08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5eb8 Nom Foundation]
+
+[[fr:庸]]
+[[ko:庸]]
+[[hu:庸]]
+[[mg:庸]]
+[[ja:庸]]
+[[no:庸]]
+[[pl:庸]]
+[[th:庸]]
+[[zh:庸]]

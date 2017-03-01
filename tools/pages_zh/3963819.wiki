@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=líhuàn
+|c=lei4 waan6
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[contract]] or [[suffer]] from a [[disease]] or [[illness]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|り|かん|yomi=o}}
+
+===Noun===
+{{ja-noun|りかん}}
+
+# becoming [[infected]]
+
+====Compounds====
+* {{l/ja|罹患率}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|りかん}}
+
+# to [[contract]] a disease
+
+====Conjugation====
+{{ja-suru|りかん}}
+
+[[zh:罹患]]

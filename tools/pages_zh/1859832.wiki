@@ -1,0 +1,30 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=mòshēng
+|c=mak6 sang1
+|ma=Zh-mòsheng.ogg
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[unfamiliar]]; [[strange]]; [[unknown]]
+#: {{zh-x|一個 陌生 的 地方|an '''unfamiliar''' place}}
+#: {{zh-x|一個 陌生 女人 的 來信|a letter from an '''unknown''' woman}}
+
+====See also====
+* {{zh-l|陌路}}
+
+====Derived terms====
+{{zh-der|陌生人|陌生客}}
+
+{{zh-cat|Intermediate}}
+
+[[hu:陌生]]
+[[ja:陌生]]
+[[uk:陌生]]
+[[zh:陌生]]

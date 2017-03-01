@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|じゅん|ばん|yomi=on}}
+
+===Etymology===
+From {{m|ja|順|sc=Jpan|tr=jun||order}} + {{m|ja|番|sc=Jpan|tr=ban||numerical order}}
+
+===Noun===
+{{ja-noun|じゅんばん}}
+# [[order]], [[turn]]
+
+====Derived terms====
+* [[順番列]] (''junbanretsu''): (''computing'') sequence
+* [[順番検査]] (''junban kensa''): (''computing'') sequence check
+* [[順番待ち]] (''junbanmachi''): waiting one's turn
+* [[順番付ける]] (''junbanzugeru''): (''computing'') sequence
+* [[照合順番]] (''shōgō junban''): (''computing'') collating sequence
+* [[論理順番]] (''ronri junban''): (''computing'') sequential logical order
+* [[割付け順番]] (''waritsuke junban''): (''computing'') sequential layout order
+
+[[ko:順番]]
+[[lo:順番]]
+[[lt:順番]]
+[[hu:順番]]
+[[mg:順番]]
+[[zh:順番]]

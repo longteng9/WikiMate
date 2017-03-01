@@ -1,0 +1,42 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=45930|canj=DLBK|ids=⿰木央}}
+
+# {{defn|Han|sort=木05}}
+
+====References====
+* {{Han ref|kx=0518.200|dkj=14615|hdz=21183.040|uh=67CD|ud=26573|bh=CF4B|bd=53067}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yīng,yàng,yāng
+|c=joeng1,joeng2
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:twedu|B01657}}
+* {{R:yue:Hanzi}}
+
+[[fr:柍]]
+[[pl:柍]]
+[[th:柍]]
+[[zh:柍]]

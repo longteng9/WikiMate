@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=03|sn=7|four=47940|canj=DEI|ids=⿰}}
+
+# branch of a tree
+
+====References====
+* {{Han ref|kx=0511.030|dkj=14451|dj=0895.020|hdz=21163.040|uh=6748|ud=26440|bh=CB43|bd=52035}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chā
+|c=caa1,caa3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[fork]] of a [[tree]]
+# [[pitchfork]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木03}}
+
+# fork of a tree
+# [[pitchfork]]
+
+====Readings====
+* {{ja-readings|on=[[さ]] (sa), [[しゃ]] (sha), [[さい]] (sai)|kun=[[えだ]] (eda)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=차|rv=cha|mr=ch'a}}
+
+# [[가지]]: branch
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木03|hanviet=[[soa]], [[xà]], [[xoa]]}}
+
+# {{defn|lang=vi|sort=木03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6748 Nom Foundation]
+
+[[fr:杈]]
+[[hu:杈]]
+[[mg:杈]]
+[[pl:杈]]
+[[th:杈]]
+[[chr:杈]]
+[[zh:杈]]

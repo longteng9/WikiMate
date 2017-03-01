@@ -1,0 +1,77 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shūgān wán
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# A brownish-red pill used in [[traditional Chinese medicine]] "to remove the ''stagnation of the liver [[qi]]'', regulate the stomach function and relieve pain in the treatment of fullness and distension in the chest and hypochondriac regions, epigastric pain and distress, vomiting, belching and acid regurgitation".
+
+Shugan pills have the following herbal ingredients:
+
+{| class="wikitable sortable"
+|-
+!Name
+!Chinese ([[Simplified Chinese|S]])
+!Grams
+|-
+|[[fructus|Fructus]] Toosendan ({{taxlink|Melia toosendan|species|noshow=1}} ⇒ {{taxlink|Melia azederach|species|noshow=1}})
+|川楝子
+| 150
+|-
+|[[rhizoma|Rhizoma]] [[Corydalis]] (processed with vinegar)
+|延胡索 (醋制)
+| 100
+|-
+|{{l|la|radix|Radix}} ''{{taxlink|Paeonia lactiflora|species|noshow=1|Paeoniae Alba}}'' (stir-baked with wine)
+|白芍 (酒炒)
+| 120
+|-
+|Rhizoma Wenyujin [[concisus|Concisum]] ({{taxlink|Curcuma wenyujin|species|noshow=1}})
+|片姜黄
+| 100
+|-
+| {{l|la|radix|Radix}} [[Aucklandia|Aucklandiae]]
+|木香
+| 80
+|-
+|[[lignum|Lignum]] ''{{taxlink|Aquilaria resinata|species|noshow=1|Aquilariae Resinatum}}''
+|沉香
+| 100
+|-
+|Fructus Amomi [[rotundus|Rotundus]]
+|白豆蔻
+| 60
+|-
+|Fructus [[Amomum|Amomi]]
+|砂仁
+| 80
+|-
+|{{l|la|cortex|Cortex}} ''{{taxlink|Magnolia officinalis|species|noshow=1|Magnoliae Officinalis}}'' (processed)
+|厚朴 (姜炙)
+| 60
+|-
+|[[pericarpium|Pericarpium]] [[Citrus reticulata|Citri Reticulatae]]
+|陈皮
+| 80
+|-
+|Fructus [[aurantius|Aurantii]] (stir-baked)
+|枳壳 (炒)
+| 100
+|-
+| [[Poria]], (now {{taxlink|Perenniporia|genus|noshow=1}})
+|茯苓
+| 100
+|-
+|[[cinnabar|Cinnabaris]]
+|硃砂
+| 27
+|}
+
+====References====
+* State Pharmacopoeia Commission of the PRC (2005). "Pharmacopoeia of The People’s Republic of China (Volume I)". Chemical Industry Press. ISBN 7117069821.

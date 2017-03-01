@@ -1,0 +1,55 @@
+{{also|累积}}
+==Chinese==
+{{zh-forms|s=累积}}
+
+===Pronunciation===
+{{zh-pron
+|m=lěijī
+|c=leoi5 zik1,leoi6 zik1
+|h=pfs=lûi-chit
+|mn=lúi-chek/lūi-chek/lūi-che̍k
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[accumulation]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[accumulate]]
+
+===See also===
+* {{zh-l|積累}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|るい|せき|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|るいせき|y=o}}
+
+===Noun===
+{{ja-noun|るいせき|tr=both}}
+
+# [[accumulation]]
+
+====Synonyms====
+* {{ja-r|積み重なる|つみかさなる}}
+* {{ja-r|集積|しゅうせき}}
+
+===Verb===
+{{ja-verb-suru|るいせき|tr=both}}
+
+#[[accumulate]]
+
+====Conjugation====
+{{ja-suru|るいせき}}
+
+[[zh-min-nan:累積]]
+[[hu:累積]]
+[[mg:累積]]
+[[zh:累積]]

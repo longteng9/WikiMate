@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=07|sn=11|four=40913|canj=DYIU|ids=⿰木㐬}}
+
+====References====
+* {{Han ref|kx=0531.070|dkj=14886|dj=0919.080|hdz=21219.060|uh=68B3|ud=26803|bh=AEDE|bd=44766}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shū
+|c=so1
+|mn=qz,xm,zz:so͘/qz,tp,xm:soe/kh,zz:se
+|mn_note=so͘ - literary; soe/se - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[comb]]
+# [[brush]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木07}}
+
+# {{defn|lang=ja|sort=木07}}
+
+====Readings====
+* {{ja-readings|on=[[そ]] (so)|kun=[[くしけずる]] (kushikezuru), [[すく]] (suku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=소|eumhun=|rv=so|mr=so|y=so}}
+
+# [[comb]], [[brush]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sơ]]|rs=木07}}
+
+# {{defn|lang=vi|sort=木07}}
+
+[[zh-min-nan:梳]]
+[[fr:梳]]
+[[ko:梳]]
+[[lt:梳]]
+[[hu:梳]]
+[[mg:梳]]
+[[ja:梳]]
+[[no:梳]]
+[[pl:梳]]
+[[th:梳]]
+[[chr:梳]]
+[[zh:梳]]

@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|しゅう|せき|yomi=on}}
+
+===Noun===
+{{ja-noun|しゅうせき}}
+
+# [[integration]], [[accumulation]]
+
+====Compounds====
+* {{ja-r|集積回路|しゅうせき かいろ}}: IC (Integrated Circuit)
+
+===Verb===
+{{ja-verb-suru|tr=both|しゅうせき}}
+
+# [[accumulate]], [[pile up]]
+
+====Conjugation====
+{{ja-suru|しゅうせき}}
+
+[[ko:集積]]
+[[hu:集積]]
+[[zh:集積]]

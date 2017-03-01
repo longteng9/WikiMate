@@ -1,0 +1,62 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=15|sn=21|four=44666|canj=TWWW|ids=⿱艹畾}}
+
+# [[vine]], [[creeper]]
+# to [[wind]]
+
+====References====
+* {{Han ref|kx=1065.400|dkj=32334|dj=1530.290|hdz=53319.070|uh=85DF|ud=34271|bh=F2D2|bd=62162}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=lěi
+|c=leoi5
+|mn=lúi
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸15}}
+
+# {{defn|lang=ja|sort=艸15}}
+
+====Readings====
+* {{ja-readings|on=[[るい]] (rui), [[ら]] (ra)|kun=[[かずら]] (kazura)|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=艸15| hanviet = luỹ}}
+
+# {{defn|lang=vi|sort=艸15}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=85df Nom Foundation]
+
+[[fr:藟]]
+[[hu:藟]]
+[[pl:藟]]
+[[th:藟]]
+[[zh:藟]]

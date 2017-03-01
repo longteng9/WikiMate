@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|きゅう|こう|yomi=on}}
+
+===Noun===
+{{ja-noun|きゅうこう}}
+
+# [[cancellation]] of a [[lecture]]
+#: {{ja-usex|今日は'''休講'''だ。|きょう は '''きゅうこう''' だ。|Today's lecture is canceled.}}
+
+===Verb===
+{{ja-verb-suru|きゅうこう}}
+
+# [[cancel]] a lecture, cancel a class
+
+====Conjugation====
+{{ja-suru|きゅうこう}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:休講]]
+[[zh:休講]]

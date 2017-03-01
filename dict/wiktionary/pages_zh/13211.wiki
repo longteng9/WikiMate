@@ -1,0 +1,110 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=08|sn=11|four=40114|canj=GOG|ids=⿰土隹}}
+
+# [[heap]], [[pile]], [[crowd]]
+# [[pile up]]
+
+====References====
+* {{Han ref|kx=0232.040|dkj=05211|dj=0469.060|hdz=10454.040|uh=5806|ud=22534|bh=B0EF|bd=45295}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=duī|ma=Zh-dui.ogg
+|c=deoi1,zeoi1
+|h=pfs=tôi
+|md=
+|mn=tui
+|w=
+|mc=y
+|oc=y
+|cat=n,cls
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[heap]], [[pile]], [[mound]]
+
+===Classifier===
+{{zh-cls}}
+
+# {{non-gloss definition|Classifier for piles of things:}} [[pile]], [[lump]], [[heap]], [[clump]], [[mound]]
+#: {{zh-x|一 堆 泥|a pile of dirt}}
+
+===Compounds===
+{{der3
+|{{zh-l|堆疊}}
+|{{zh-l|堆垛}}
+|{{zh-l|堆放}}
+|{{zh-l|堆肥}}
+|{{zh-l|堆焊}}
+|{{zh-l|堆紅}}
+|{{zh-l|堆積}}
+|{{zh-l|堆集}}
+|{{zh-l|堆金積玉}}
+|{{zh-l|堆絹}}
+|{{zh-l|堆摞}}
+|{{zh-l|堆碼}}
+|{{zh-l|堆砌}}
+|{{zh-l|堆笑}}
+|{{zh-l|堆繡}}
+|{{zh-l|堆棧}}
+|{{zh-l|堆子}}
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土08}}
+
+# {{defn|lang=ja|sort=土08}}
+
+====Readings====
+* {{ja-readings|goon=[[たい]] (tai), [[て]] (te)|kanon=[[たい]] (tai)|kanyoon=[[つい]] (tsui)|kun=[[うずたかい]] (uzutakai)}}
+
+====Compounds====
+* {{ja-r|堆積|たいせき}}
+* {{ja-r|堆肥|たいひ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=퇴|rv=toe|mr=t'oe}}
+
+# {{defn|lang=ko|sort=土08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đôi]], [[chui]], [[đồi]], [[doi]], [[nhoi]], [[duôi]], [[đòi]]|rs=土08}}
+
+# {{defn|lang=vi|sort=土08}}
+
+[[fr:堆]]
+[[kn:堆]]
+[[li:堆]]
+[[hu:堆]]
+[[mg:堆]]
+[[ja:堆]]
+[[no:堆]]
+[[pl:堆]]
+[[th:堆]]
+[[chr:堆]]
+[[zh:堆]]

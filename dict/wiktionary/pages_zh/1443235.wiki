@@ -1,0 +1,15 @@
+==Japanese==
+{{ja-kanjitab|yomi=irr|sort=こまうど|こう|k1=こ|ま|ひと|k3=うど}}
+
+===Etymology===
+komabito → komaudo. Compound of {{compound|lang=ja|sort=こまうど|高麗|tr1=koma|t1=[[Goguryeo]]|人|tr2=pito|t2=person}}.
+
+===Noun===
+{{ja-noun|こまうど}}
+
+# person from [[w:Goguryeo|Goguryeo]]
+#* {{RQ:Utsubo Monogatari|Toshikage}}
+#*: 七歳になる年、父が'''高麗人'''にあふに、此七歳なる子、父をもどきて、'''高麗人'''(こまうど)と文をつくりかはしければ [...]
+
+===References===
+* {{R:Utsubo Monogatari 1}}

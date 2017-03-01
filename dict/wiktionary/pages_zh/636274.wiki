@@ -1,0 +1,93 @@
+==Chinese==
+{{zh-forms|on<br>upon|sea}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=Shànghǎi
+|c=soeng6 hoi2
+|h=pfs=Sông-hói
+|md=Siông-hāi
+|mn=xm,tp,kh:Siōng-hái/zz:Siāng-hái/qz:Siǒng-hái
+|mn-t=siang6 hai2
+|w=3zaan he
+|ma=zh-上海.ogg
+|ca=zh-yue-上海.ogg
+|wa=zh-wuu-2-上海.ogg
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{zh-div|市}} [[Shanghai]]
+#: {{zh-x|儂 到 上海 來 了 多少 辰光 了？|How long have you been in '''Shanghai'''?|SH|tr=3non&2tau&3zaan he&3le&0leq&1tu sau&3zen kuaan&0leq}}
+
+====Synonyms====
+* {{q|abbreviation|colloquial}} {{zh-l|滬}}
+
+====Derived terms====
+{{zh-der|上海人|上海話}}
+
+===Descendants===
+{{cjkv|||^상해|Thượng Hải}}
+''Others'':
+* → English: {{l|en|Shanghai}}
+* → French: {{l|fr|Shanghaï}}
+* → Japanese: {{ja-r|上%海|^シャン%ハイ}}
+* → Korean: {{ko-l|^상하이}}
+* → Russian: {{l|ru|Шанха́й}}
+
+{{zh-cat|Cities in China|Municipalities of China}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{wikipedia|lang=ja|上海市}}
+{{ja-kanjitab|しゃん|はい|yomi=irreg}}
+{{borrowing|ja|cmn|上海|tr=Shànghǎi|sort=しゃんはい}}.
+
+===Pronunciation===
+* {{ja-pron|シャンハイ|acc=2}}
+
+===Proper noun===
+{{ja-pos|proper|シャンハイ}}
+
+# [[Shanghai]]
+
+{{catlangcode|ja|Cities|Municipalities of China|China|sort=しゃんはい}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Proper noun===
+{{ko-proper noun|hangeul=상해}}
+
+# {{hanja form of|상해|[[Shanghai]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Proper noun===
+{{vi-hantu}}
+
+# {{han tu form of|Thượng Hải|[[Shanghai]]}}
+
+[[da:上海]]
+[[fr:上海]]
+[[ko:上海]]
+[[li:上海]]
+[[hu:上海]]
+[[mg:上海]]
+[[ja:上海]]
+[[pt:上海]]
+[[ru:上海]]
+[[uk:上海]]
+[[vi:上海]]
+[[zh:上海]]

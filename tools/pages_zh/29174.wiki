@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|医}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=164|rad=酉|as=11|sn=18|four=77601|canj=SEMCW|ids=⿱殹酉}}
+
+====References====
+* {{Han ref|kx=1287.130|dkj=40006|dj=1787.130|hdz=63595.090|uh=91AB|ud=37291|bh=C2E5|bd=49893}}
+
+----
+
+==Chinese==
+{{zh-forms|s=医}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|殹|酉|c1=p|c2=s|ls=psc|t2=liquor}}.
+
+Alternatively, as an {{Han compound|殹|酉|ls=ic|t1=to groan|t2=liquor|nocap=1}} – using liquor to treat a groaning patient.
+
+===Pronunciation===
+{{zh-pron
+|m=yī
+|c=ji1
+|h=pfs=yî
+|md=ĭ
+|mn=i
+|w=1i
+|mc=y
+|oc=y
+|cat=a,n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[medicinal]]; [[medicine]]
+# [[doctor]]
+# to [[cure]]; to [[treat]]
+
+===Compounds===
+{{zh-der|醫道|醫德|醫護|醫科|醫理|醫療|醫生|醫師|醫士|醫書|醫術|醫務|醫務室|醫學|醫藥|醫院|醫治|醫囑|太醫|久病成醫|太醫院|住院醫師|中醫|就醫|全科醫師|主治醫生|復健醫學|家庭醫學|心理醫生|庸醫|御醫|康復醫學|後醫系|家庭醫師|國醫節|世醫|巫醫|延醫|太空醫學|專科醫師|實習醫生|密醫|官醫|博濟醫院|侍醫|割肉醫瘡|儒醫|名醫|上醫|國醫|剜肉醫瘡|盧醫|求醫|獸醫學|核子醫學|新醫|時間醫學|法醫|施醫|疼痛醫學|校醫|神醫|看醫生|牙醫|環境醫學|法醫學|獸醫|牙科醫學|教學醫院|漢醫|瘍醫|醫師節|醫務扶助|醫官|醫經|醫院船|良醫|草澤醫|老醫少卜|西醫|醫宗金鑑|賠償醫學|諱疾忌醫|第三醫學|醫務人員|醫檢師|舊病難醫|老年醫學|開放醫院|臨床醫學|線上牙醫|醫林改錯|預防醫學|醫婆|航空醫學|赤腳醫生|醫時救弊|醫神日|野戰醫院|醫藥費|醫藥分業|醫肚皮|醫療給付|醫方|醫家|醫匠|遠距醫療|醫護人員|臺大醫院|醫門法律|老黃請醫|醫聖|精神醫學|行醫|軍醫|醫卜星相}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=酉11|style=ky|shin=医}}
+
+# {{defn|lang=ja|sort=酉11}}
+
+====Readings====
+* {{ja-readings|on=[[い]] (i)|kun=[[いやす]] (iyasu), [[くすし]] (kusushi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=의|eumhun=|mr=ŭi|y=uy}}
+
+# {{defn|lang=ko|sort=酉11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|y|rs=酉11}}
+
+# {{defn|lang=vi|sort=酉11}}
+
+====Compounds====
+* [[y học]] [[醫學]]
+
+[[fr:醫]]
+[[ko:醫]]
+[[hu:醫]]
+[[mg:醫]]
+[[ja:醫]]
+[[pl:醫]]
+[[th:醫]]
+[[chr:醫]]
+[[vi:醫]]
+[[zh:醫]]

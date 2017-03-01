@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|钤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=04|sn=12|four=88127|canj=COIN}}
+
+# [[lock]], [[latch]]
+# [[stamp]], [[seal]]
+
+====References====
+* {{Han ref|kx=1298.170|dkj=40223|dj=1801.100|hdz=64177.100|uh=9210|ud=37392|bh=B678|bd=46712}}
+
+----
+
+==Chinese==
+{{zh-forms|s=钤}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qián
+|c=kim4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|鈐束|鈐記|鈐鍵}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金04}}
+
+# {{defn|lang=ja|sort=金04}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken), [[げん]] (gen), [[かん]] (kan), [[ごん]] (gon), [[しん]] (shin)|kun=[[すき]] (suki)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=검|eumhun=|rv=geom|mr=kŏm|y=kem}}
+
+# {{defn|lang=ko|sort=金04}}
+
+[[fr:鈐]]
+[[ko:鈐]]
+[[hu:鈐]]
+[[pl:鈐]]
+[[th:鈐]]
+[[vi:鈐]]
+[[zh:鈐]]

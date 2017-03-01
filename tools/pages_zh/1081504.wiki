@@ -1,0 +1,74 @@
+{{also|本质}}
+==Chinese==
+{{zh-forms|s=本质}}
+
+===Pronunciation===
+{{zh-pron
+|m=běn質
+|c=bun2 zat1
+|h=pfs=pún-chṳt
+|mn=pún-chit
+|w=2pen tseq
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[essence]], [[nature]] {{gloss|intrinsic quality}}
+
+====Antonyms====
+* {{zh-l|現象}}
+
+===Descendants===
+{{CJKV|本質|ほんしつ|본질|bản chất}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほん|しつ|yomi=o}}
+
+===Etymology===
+{{rfe|ja}}
+
+===Pronunciation===
+{{ja-pron|ほんしつ|y=o|acc=h|dev=3|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ほんしつ}}
+
+# [[essence]], [[nature]] {{gloss|intrinsic quality}}
+
+====Compounds====
+* {{ja-r|本質的|ほんしつてき}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=본질}}
+
+# {{hanja form of|본질|[[essence]], [[nature]] {{gloss|intrinsic quality}}}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|bản chất|[[essence]], [[nature]] {{gloss|intrinsic quality}}}}
+
+[[ko:本質]]
+[[hu:本質]]
+[[mg:本質]]
+[[ja:本質]]
+[[zh:本質]]

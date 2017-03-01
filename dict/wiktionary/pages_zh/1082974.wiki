@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tōngshāng
+|c=tung1 soeng1
+|h=pfs=thûng-sông
+|mn=xm,qz,tw:thong-siong/zz:thong-siang
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to have [[trade]] [[relations]] {{gloss|of nations, regions, etc.}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|つう|しょう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|つうしょう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|つうしょう}}
+
+# foreign [[commerce]], [[trade]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|つうしょう}}
+
+# engage in international trade
+
+====Conjugation====
+{{ja-suru|つうしょう}}
+
+===References===
+<references/>
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=통상}}
+
+# {{hanja form of|통상}}
+
+[[ko:通商]]
+[[hu:通商]]
+[[ja:通商]]
+[[zh:通商]]

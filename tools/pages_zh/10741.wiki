@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=|canj=ODHE|ids=⿰亻皮}}
+
+# [[wrong]], [[evil]], [[deprave]]d, [[vicious]], [[perverse]], [[heterodox]]
+# [[unnatural]], [[improper]], [[not]] [[right]]
+# (archaic variant of [[彼]]) [[that]], [[there]], [[those]]
+
+====References====
+* {{Han ref|kx=0098.040|dkj=00500|dj=0206.150|hdz=10141.010|uh=4F4A|ud=20298}}
+* [http://yedict.com/htm/4F/4F4A.htm yedict.com (叶典)]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǐ
+|c=bei2
+|mc=y
+|oc=y
+|ma=
+|cat=a,det,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 64]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=피|rv=pi|mr=p'i}}
+
+# {{defn|lang=ko|sort=人05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bè]], [[bề]]|rs=人05}}
+
+# {{defn|lang=vi|sort=人05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f4a Nom Foundation]
+
+[[fr:佊]]
+[[pl:佊]]
+[[th:佊]]
+[[zh:佊]]

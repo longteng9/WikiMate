@@ -1,0 +1,44 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiāohuǒ
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[extinguish]] a [[fire]]
+
+===Derived terms===
+{{zh-der|消火栓}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|か|yomi=on}}
+
+===Noun===
+{{ja-noun|しょうか}}
+
+# {{lb|ja|firefighting|sort=しょうか}} putting out a [[fire]], [[extinguishing]] a fire, fire fighting
+
+====Derived terms====
+* {{ja-def|消火器}} [[fire extinguisher]]
+* {{ja-def|消火栓}} [[fire hydrant]]
+
+===Verb===
+{{ja-verb-suru|しょうか}}
+
+# [[extinguish]] a fire
+
+====Conjugation====
+{{ja-suru|しょうか}}
+
+[[ko:消火]]
+[[lt:消火]]
+[[hu:消火]]
+[[ja:消火]]
+[[zh:消火]]

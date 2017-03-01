@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|潍}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=14|sn=17|four=30114|canj=EVFG}}
+
+# county in Shandong province (modern-day [[Weifang]])
+
+====References====
+* {{Han ref|kx=0657.160|dkj=18533|dj=1067.170|hdz=31775.030|uh=6FF0|ud=28656|bh=C0E5|bd=49381}}
+
+----
+
+==Chinese==
+{{zh-forms|s=潍}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wéi
+|c=wai4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|濰河|濰縣}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水14}}
+
+# {{defn|lang=ja|sort=水14}}
+
+====Readings====
+* {{ja-readings|on=[[い]] (i), [[ゆい]] (yui)|kun=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''濰''' ([[duy]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:濰]]
+[[hu:濰]]
+[[pl:濰]]
+[[th:濰]]
+[[zh:濰]]

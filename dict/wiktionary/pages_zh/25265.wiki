@@ -1,0 +1,117 @@
+{{character info/new}}
+{{also|塟}}
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|茻|t1=grass|死|t2=dead person|ls=ic}} – bury the dead 死 in the grass 茻. Top is now grass radical ([[艹]]), while bottom is simplified to [[廾]], hence graphically {{Han compound|艹|死|廾}}.
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=09|sn=12|four=44441|canj=TMPT|ids=⿳艹死廾}}
+
+# [[bury]], [[inter]]
+
+====Derived characters====
+* [[髒]]
+
+====References====
+* {{Han ref|kx=1046.050|dkj=31448|dj=1507.090|hdz=53246.020|uh=846C|ud=33900|bh=B8AE|bd=47278}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|塟}}
+
+===Pronunciation===
+{{zh-pron
+|m=zàng
+|c=zong3
+|h=pfs=chong
+|mn=chòng
+|mc=y
+|oc=y
+|ma=y
+|cat=v,n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[burial]]
+#: {{zh-x|火葬|cremation (''lit.'' fire '''burial''')}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[bury]]; to [[inter]]
+#: {{zh-x|埋葬|to '''bury'''}}
+#: {{zh-x|^葬 ^花 ^詞|Poem of '''Burying''' Flowers (a poem in ''{{w|Dream of the Red Chamber}}'')}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=艸09}}
+
+# [[funeral]], bury
+
+====Readings====
+{{ja-readings|goon=[[そう]] (sō)|kanon=[[そう]] (sō)|kun=[[ほうむる]] (houmuru)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|葬式|そうしき}}: [[funeral]]
+* {{ja-r|葬儀|そうぎ}}: [[funeral]] [[service]]
+* {{ja-r|土葬|どそう}}: [[burial]], [[interment]]
+* {{ja-r|水葬|すいそう}}: [[sea]] [[burial]]
+* {{ja-r|鳥葬|ちょうそう}}: [[vulture]] [[burial]]
+* {{ja-r|火葬|かそう}}: [[cremation]]
+{{der-bottom}}
+
+{{ja-kanjitab|そう|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=そう}} {{m|zh|葬|tr=tsang<sup>H</sup>||burial}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|そう}}
+
+===Noun===
+{{ja-noun|そう|hhira=さう}}
+
+# [[burial]]
+
+===References===
+*''Jack Halpern's New Japanese-English Character Dictionary''
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=장|eumhun=|rv=jang|mr=chang|y=cang}}
+
+# {{defn|lang=ko|sort=艸09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=艸09| hanviet = táng}}
+
+# {{defn|lang=vi|sort=艸09}}
+
+[[fr:葬]]
+[[ko:葬]]
+[[hu:葬]]
+[[mg:葬]]
+[[ja:葬]]
+[[no:葬]]
+[[pl:葬]]
+[[th:葬]]
+[[zh:葬]]

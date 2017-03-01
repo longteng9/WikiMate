@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuòqǔzhě
+|c=zok3 kuk1 ze2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|music}} [[composer]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|さく|k1=さっ|きょく|しゃ|yomi=o}}
+
+===Etymology===
+{{suffix|作曲|者|lang=ja|t1=musical composition|t2=-er|sort=さっきょくしゃ}}
+
+===Noun===
+{{ja-noun|さっきょくしゃ|count=人}}
+
+# [[composer]]
+
+====Synonyms====
+* {{ja-r|作曲家|さっきょくか}}
+
+===See also===
+* {{ja-r|作詞家|さくしか}}
+* {{ja-r|作詞者|さくししゃ}}
+* {{ja-r|編曲者|へんきょくしゃ}}
+
+[[ko:作曲者]]
+[[ja:作曲者]]
+[[zh:作曲者]]

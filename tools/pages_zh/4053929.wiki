@@ -1,0 +1,43 @@
+{{also|浓度}}
+==Chinese==
+{{zh-forms|s=浓度}}
+
+===Pronunciation===
+{{zh-pron
+|m=nóngdù
+|c=nung4 dou6
+|mn=lông-tō͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[concentration]]; {{l|en|density|id=number of particles or other quantity contained by a given volume}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|のう|ど|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|のうど|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|のうど}}
+
+# [[concentration]], {{l|en|density|id=number of particles or other quantity contained by a given volume}}
+
+===References===
+<references/>
+
+[[zh-min-nan:濃度]]
+[[ko:濃度]]
+[[hu:濃度]]
+[[mg:濃度]]
+[[nl:濃度]]
+[[pl:濃度]]
+[[tl:濃度]]
+[[zh:濃度]]

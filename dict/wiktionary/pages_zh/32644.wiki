@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=08|sn=19|four=|canj=XXXYB,YKHAF}}
+
+# {{defn|Han|sort=鳥08}}
+
+===References===
+* {{Han ref|kx=1493.010|dkj=47030|dj=2023.060|hdz=74643.020|uh=9D7A|ud=40314}}
+
+----
+
+==Japanese==
+[[file:Kuniyoshi Taiba (The End).jpg|thumb|right|200px|鵺(nue)]]
+{{wikipedia|Nue}}
+
+===Etymology===
+/nue<sub>2</sub>/: [nuye] → [nue].
+
+===Alternative forms===
+* {{l|ja|鵼}}
+
+===Noun===
+{{ja-noun|ぬえ}}
+
+# a type of bird, Zoothera dauma; common name: [[w:White's Thrush|White's Thrush]]
+#* '''712''', [[w:Kojiki|Kojiki]]
+#*: [...] 阿遠夜麻邇 '''奴延'''波那伎 佐怒都登理 岐藝斯波登與牟 [...]
+#* {{RQ:Wamyō Ruijushō|7|21}}
+#*: 鵼 唐韵云 鵼 音空 漢語抄云 '''沼江''' 新撰字鏡 鵺 鵼 並訓'''奴江''' 按'''奴延'''見古事記八千戈神歌 万葉集'''奴延'''鳥奴要子鳥即是 [...] 今俗呼鬼都具美 [...] 按關東俗呼虎都具美 恠鳥也
+# a mystical creature with the head of a monkey, the body of a tanuki, the tail of a snake, and the legs of a tiger; similar to a [[w:Chimera (mythology)|chimera]]
+#* {{post|1221}} ''[[w:Heike Monogatari|Heike Monogatari]]'' (volume 4)
+#*: 其時上下手々に火をともいて、これを御らんじみ給ふに、かしらは猿、むくろは狸、尾はくちなは、手足は虎の姿なり。なく聲'''鵼'''にぞにたりける。おそろしなどもをろか也。[...]去る應保のころほひ、二条院御在位の時、'''鵼'''といふ化鳥禁中にないて、しば々々宸襟をなやます事ありき。[...]ころはさ月廿日あまりの、まだよひの事なるに、'''鵼'''たゞ一聲おとづれて、二聲ともなかざりけり。[...]頼政はかりことに、まづおほかぶらをとてつがひ、'''鵼'''の聲しつる内裏のうへへぞいあげたる。'''鵼'''かぶらのをとにおどろいて、虚空にしばしひゝめいたり。二の矢に小鏑ととつがひ、ひふつとゐきて、'''鵼'''とかぶらとならべて前にぞおとしたる。[...]頼政にかづけ給ふとて、「昔の養由は雲の外の鴈をいき。今の頼政は雨のうちに'''鵼'''をゐたり」とぞ感ぜられける。
+
+===Kanji===
+{{ja-kanji|grade=|rs=鳥08}}
+
+# {{defn|lang=ja|sort=鳥08}}
+
+====Readings====
+* {{ja-readings|on=[[や]] (ya)|kun=[[ぬえ]] (nue)}}
+
+===References===
+* {{R:Wamyō Ruijushō}}
+* {{R:Kodai Kayōshū}}
+* {{cite-book
+|last=Takagi
+|first=Ichinosuke
+|coauthors=Masao Ozawa, Kaoru Atsumi, Haruhiko Kindaichi
+|title=Nihon Koten Bungaku Taikei 32: [[w:Heike Monogatari|Heike Monogatari]] 1
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|year_published=1959
+|year=after 1221
+|location=[[w:Tōkyō|Tōkyō]]
+|language=Japanese
+|isbn=4-00-060032-X
+}}
+
+[[Category:ja:Birds|ぬえ]]
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 鵺]]
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[yè]] ([[ye4]])|wg=yeh<sup>4</sup>}}
+
+# {{defn|lang=cmn|sort=鳥08}}
+
+[[fr:鵺]]
+[[hu:鵺]]
+[[ja:鵺]]
+[[pl:鵺]]
+[[th:鵺]]
+[[zh:鵺]]

@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=42940|canj=DHPM,DHVI|ids=⿰木氐}}
+
+# [[root]]
+# [[base]]
+# [[bottom]] of [[object]]
+
+====References====
+* {{Han ref|kx=0520.040|dkj=14640|dj=0908.030|hdz=21186.080|uh=67E2|ud=26594|bh=AC6B|bd=44139}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dǐ
+|c=dai2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|根柢|根深柢固|歸根究柢|歸根結柢|深根固柢|追根究柢}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木05}}
+
+# root
+# founded on
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei)|kun=[[ね]] (ne)}}
+
+====Compounds====
+* {{ja-r|根柢|こんてい}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=저|eumhun=|rv=jeo|mr=chŏ|y=ce}}
+
+# [[root]]
+# [[bottom]], [[base]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đề]], [[đế]], [[để]]|rs=木05}}
+
+# {{defn|lang=vi|sort=木05}}
+
+[[fr:柢]]
+[[ko:柢]]
+[[hu:柢]]
+[[mg:柢]]
+[[ja:柢]]
+[[pl:柢]]
+[[th:柢]]
+[[zh:柢]]

@@ -1,0 +1,77 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàshuǐ
+|c=daai6 seoi2
+|h=pfs=thai-súi
+|mn=tōa-chúi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[flood]]
+
+===Descendants===
+{{CJKV|大水|たいすい}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|おお|みず|yomi=k}}
+Compound of {{compound|大|tr1=ō|t1=great|水|tr2=mizu|t2=water|lang=ja|sort=おおみず}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|おおみず|acc=3|acc_ref=DJR|acc2=1|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|おおみず|hhira=おほみづ}}
+
+# [[flood]]
+
+=====Synonyms=====
+* {{sense|flood}} {{ja-r|洪水|こうずい}}
+
+===Etymology 2===
+{{ja-kanjitab|たい|すい|yomi=o}}
+From {{etyl|ltc|ja|sort=たいすい}} compound {{m|zh|大水|tr=daj<sup>H</sup> sywij<sup>X</sup>|lit=great + water}}. Compare modern {{etyl|cmn|-}} {{zh-l|大水|tr=dàshuǐ|flood}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|たいすい|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|たいすい}}
+
+# [[great]] [[river]] or [[lake]]
+# [[flood]]
+
+=====Synonyms=====
+* {{sense|flood}} {{ja-r|洪水|こうずい}}
+
+===References===
+<references/>
+
+----
+
+==Okinawan==
+
+===Etymology===
+Compound of {{compound|大|tr1=ū|t1=great|水|tr2=miji|t2=water|lang=ryu|sort=ううみじ}}.
+
+===Noun===
+{{head|ryu|noun|hiragana|うーみじ|romaji|ūmiji}}
+
+# [[flood]]
+
+[[fr:大水]]
+[[ko:大水]]
+[[li:大水]]
+[[mg:大水]]
+[[ja:大水]]
+[[zh:大水]]

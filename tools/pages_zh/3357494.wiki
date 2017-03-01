@@ -1,0 +1,78 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|玄武|lang=zh}}
+{{wikipedia|Black Tortoise}}
+{{wikipedia|Xuan Wu (god)}}
+
+===Pronunciation===
+{{zh-pron
+|m=Xuánwǔ
+|c=jyun4 mou5
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{lb|zh|astronomy}} the [[Black Turtle]], a [[Chinese]] [[constellation]] [[making up]] [[one]] of the [[Four Symbols]] of [[Chinese]] [[astronomy]]
+# {{lb|zh|feng shui}} the [[Black Turtle]], a [[representation]] of the [[element]] of [[water]] and [[direction]] [[north]]
+# [[Xuanwu]], a [[Taoist]] [[god]]
+
+====Synonyms====
+* {{zh-l|北方玄武}} (''turtle'')
+
+====Hypernyms====
+* {{zh-l|四象}}
+
+====Hyponyms====
+* {{zh-l|斗}}, {{zh-l|斗宿}}
+* {{zh-l|牛}}, {{zh-l|牛宿}}
+* {{zh-l|女}}, {{zh-l|女宿}}
+* {{zh-l|虛}}, {{zh-l|虛宿}}
+* {{zh-l|危}}, {{zh-l|危宿}}
+* {{zh-l|室}}, {{zh-l|室宿}}
+* {{zh-l|壁}}, {{zh-l|壁宿}}
+
+====See also====
+* {{zh-l|二十八宿}}
+* {{zh-l|白虎}}
+* {{zh-l|青龍}}
+* {{zh-l|朱雀}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{wikipedia|Black Tortoise}}
+
+===Etymology===
+{{ja-kanjitab|げん|む|yomi=o}}
+{{ja-kanjitab|げん|ぶ|yomi=o}}
+From {{etyl|zh|ja|sort=げんぶ}} {{m|zh|玄武}}
+{{rfe|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|げんぶ|acc=a|acc_ref=DJR|y=o}}
+
+===Proper noun===
+{{ja-pos|proper|げんぶ|げんむ}}
+
+# {{w|Black Tortoise}}, one of the [[w:Four Symbols (China)|Four Symbols]] in the [[w:Chinese constellations|Chinese constellations]]
+
+====Coordinate terms====
+* {{l|ja|青竜|tr=[[Seiryū]]||[[azure|Azure]] [[dragon|Dragon]]}}
+* {{l|ja|白虎|tr=[[Byakko]]||[[white|White]] [[tiger|Tiger]]}}
+* {{l|ja|朱雀|tr=[[Suzaku]]||[[vermillion|Vermilion]] [[bird|Bird]]}}
+* {{l|ja|黄竜|tr=[[Kōryū]]||[[yellow|Yellow]] [[dragon|Dragon]]}}
+{{catlangcode|ja|Mythological creatures|Gods|Constellations|Astronomy|Astrology|sort=けんぶ'}}
+
+===Noun===
+{{ja-noun|げんぶ}}
+
+# [[black]]-[[armor]]ed [[warrior]]
+
+===References===
+<references/>
+
+[[ja:玄武]]
+[[zh:玄武]]

@@ -1,0 +1,49 @@
+{{also|机器}}
+==Chinese==
+{{zh-forms|s=机器}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīqì
+|c=gei1 hei3
+|h=pfs=kî-hi
+|mn=ki-khì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun|mw=臺|mw2=部|mw3=架|mw4=個}}
+
+# [[machine]]
+
+====Derived terms====
+{{zh-der|機器翻譯}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|き|き|yomi=on}}
+
+===Alternative forms===
+* {{l/ja|器機}}
+
+===Noun===
+{{ja-noun|きき}}
+
+# [[device]], [[equipment]], [[machinery]], [[machine]]
+
+====Compounds====
+* {{ja-r|コンピュータ機器|コンピュータ きき}}: [[computer]] [[device]]
+* {{ja-r|医療機器|いりょう きき}}: [[medical]] [[equipment]]
+* {{ja-r|工作機器|こうさく きき}}: [[industrial]] [[machinery]]
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:機器]]
+[[ko:機器]]
+[[hu:機器]]
+[[mg:機器]]
+[[ja:機器]]
+[[chr:機器]]
+[[zh:機器]]

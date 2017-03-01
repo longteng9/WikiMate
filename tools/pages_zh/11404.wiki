@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|克}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=10|rad=儿|as=12|sn=14|four=44216|canj=JUJRU|ids=⿰克克}}
+
+# [[fearful]], [[cautious]], [[wary]]
+
+====References====
+* {{Han ref|kx=0125.220|dkj=01395|dj=0266.070|hdz=10274.040|uh=5162|ud=20834|bh=B9B8|bd=47544}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīng
+|c=ging1
+|mn=keng
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=儿12}}
+
+# {{defn|lang=ja|sort=儿12}}
+
+====Readings====
+* {{ja-readings|on=[[きょう]] (kyō)|kun=[[おそれる]] (osoreru), [[つつしむ]] (tsutsushimu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=긍|rv=geung|mr=kŭng}}
+
+# {{defn|lang=ko|sort=儿12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cạnh]], [[ganh]], [[căng]], [[giằng]]|rs=儿12}}
+
+# {{defn|lang=vi|sort=儿12}}
+
+[[fr:兢]]
+[[ko:兢]]
+[[li:兢]]
+[[hu:兢]]
+[[mg:兢]]
+[[ja:兢]]
+[[no:兢]]
+[[pl:兢]]
+[[th:兢]]
+[[zh:兢]]

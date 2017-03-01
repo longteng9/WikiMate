@@ -1,0 +1,62 @@
+{{also|紧迫}}
+==Chinese==
+# {{zh-forms|s=紧迫}}
+
+===Pronunciation===
+{{zh-pron
+|m=jǐnpò
+|ma=Zh-jinpò.ogg
+|c=gan2 baak1
+|mn=kín-pek
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[urgency]]
+
+===Adjective===
+{{zh-adj}}
+
+# [[urgent]]; [[pressing]]; [[critical]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|きん|はく|k2=ぱく|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|きんぱく|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|きんぱく}}
+
+# [[strain]], [[tension]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|きんぱく}}
+
+# to be [[strained]], [[tense]]
+#: {{ja-usex|緊迫した会話|きんぱく した かいわ|tense conversation}}
+
+====Conjugation====
+{{ja-suru|きんぱく}}
+
+===References===
+<references/>
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=긴박}}
+
+# {{hanja form of|긴박}}
+
+[[ko:緊迫]]
+[[hu:緊迫]]
+[[mg:緊迫]]
+[[ja:緊迫]]
+[[chr:緊迫]]
+[[zh:緊迫]]

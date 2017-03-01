@@ -1,0 +1,49 @@
+{{also|取舍}}
+==Chinese==
+{{zh-forms|s=取舍|t2=取舍|alt=趣舍-archaic}}
+
+===Pronunciation===
+{{zh-pron
+|m=qǔshě
+|c=ceoi2 se2
+|mn=qz,xm:chhú-sià/tw:chhú-siá/zz:chhí-sià
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[accept]] or [[reject]]; to make one's choice
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅ|しゃ|yomi=on}}
+
+===Noun===
+{{ja-noun|しゅしゃ}}
+
+# [[choice]], [[option]], [[selection]]
+# [[rejection]] or [[adoption]]
+
+====Derived terms====
+* {{l|ja|取捨選択}}
+* {{l|ja|取捨分別}}
+
+===Verb===
+{{ja-verb-suru|しゅしゃ}}
+
+# [[choose]], [[select]]
+
+====Conjugation====
+{{ja-suru|しゅしゃ}}
+
+===See also===
+* {{l|ja|取り捨てる}}, {{l|ja|取捨てる}}: "throw away"
+
+===References===
+* {{R:Kojien}}
+
+[[ko:取捨]]
+[[mg:取捨]]
+[[zh:取捨]]

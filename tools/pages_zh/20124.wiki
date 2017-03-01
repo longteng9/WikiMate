@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|燻}}
+==Translingual==
+
+===Etymology===
+{{rfe|lang=mul}}
+
+===Han character===
+{{Han char|rn=86|rad=火|as=10|sn=14|four=20331|canj=HGF}}
+
+# [[smoke]], [[fog]], [[vapor]]
+# to smoke, to [[cure]]
+
+====References====
+* {{Han ref|kx=0679.170|dkj=19300|dj=1091.030|hdz=32226.100|uh=718F|ud=29071|bh=E2C0|bd=58048}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|窨}}
+
+===Pronunciation===
+{{zh-pron
+|m=xūn
+|c=fan1
+|mn=qz,tw,xm,zz:hun
+|mc=y
+|oc=y
+|ma=Zh-xun.ogg
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|熏風}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火10}}
+
+# {{defn|lang=ja|sort=火10}}
+
+====Readings====
+* {{ja-readings|on=[[くん]] (kun)|kun=[[ふすべる]] (fusuberu), [[くすべる]] (kusuberu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=훈|eumhun=|rv=hun|mr=hun|y=hwun}}
+
+# {{defn|lang=ko|sort=火10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hun]], [[huân]]|rs=火10}}
+
+# {{defn|lang=vi|sort=火10}}
+
+[[fr:熏]]
+[[ko:熏]]
+[[hu:熏]]
+[[mg:熏]]
+[[ja:熏]]
+[[no:熏]]
+[[pl:熏]]
+[[th:熏]]
+[[vi:熏]]
+[[zh:熏]]

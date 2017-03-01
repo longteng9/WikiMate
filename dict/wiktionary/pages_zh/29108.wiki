@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=164|rad=酉|as=06|sn=13|four=17620|canj=MWBMR|ids=⿰酉同}}
+
+====References====
+{{Han ref|kx=1283.010|dkj=39853|dj=1782.250|hdz=63580.150|uh=916E}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+{{zh-wp}}
+
+===Etymology 1===
+{{bor|zh|en|ketone|ke'''tone'''}}.
+
+====Pronunciation====
+{{zh-pron
+|m=tóng
+|c=tung4
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|organic compound}} [[ketone]]
+
+====Compounds====
+{{zh-der|苯丙酮尿症|丙酮|酮體症}}
+
+===Etymology 2===
+
+====Pronunciation 1====
+{{zh-pron
+|m=tóng
+|c=tung4
+|mc=1
+|oc=1
+|cat=n
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{†}} [[koumiss]]
+# {{†}} [[vinegar]]
+
+====Pronunciation 2====
+{{zh-pron
+|m=dòng
+|mc=2
+|oc=2
+|cat=v
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{†}} {{lb|zh|of alcohol|vinegar}} to [[spoil]]; to [[go bad]]
+
+====Pronunciation 3====
+{{zh-pron
+|m=chóng
+|cat=v
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{†}} {{lb|zh|of alcohol}} to become [[sour]]
+
+[[fr:酮]]
+[[mg:酮]]
+[[pl:酮]]
+[[th:酮]]
+[[zh:酮]]

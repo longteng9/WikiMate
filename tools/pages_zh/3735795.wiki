@@ -1,0 +1,49 @@
+{{also|述语}}
+==Chinese==
+{{zh-forms|s=述语}}
+
+===Pronunciation===
+{{zh-pron
+|m=shùyǔ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|grammar}} [[predicate]]
+
+====Synonyms====
+* {{zh-l|謂語}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じゅつ|ご|yomi=on}}
+
+===Noun===
+{{ja-noun|じゅつご}}
+
+# {{lb|ja|grammar|sort=じゅつご}} [[predicate]]
+
+====See also====
+* {{ja-r|主語|しゅご|gloss=subject}}
+* {{ja-r|目的語|もくてきご|gloss=object}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=술어}}
+
+# {{hanja form of|술어|[[predicate]] {{gloss|grammar}}}}
+
+[[ko:述語]]
+[[hu:述語]]
+[[ja:述語]]
+[[zh:述語]]

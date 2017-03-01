@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|诈}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=05|sn=12|four=08611|canj=YROS}}
+
+# [[cheat]], [[defraud]], [[swindle]]
+# [[trick]]
+# to [[feign]]
+
+====References====
+* {{Han ref|kx=1154.200|dkj=35373|dj=1620.210|hdz=63954.110|uh=8A50|ud=35408|bh=B642|bd=46658}}
+
+----
+
+==Chinese==
+{{zh-forms|s=诈}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhà
+|c=zaa3
+|h=pfs=cha
+|md=
+|mn=qz,tw,xm,zz:chà/qz,tw,xm:chè/zz:chèe
+|mn_note=chà - literary, chè/chèe - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[谲诈]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=言05}}
+
+# {{defn|lang=ja|sort=言05}}
+
+====Readings====
+* {{ja-readings|goon=[[しゃ]] (sha) {{non-joyo-reading}}|kanon=[[さ]] (sa)|kun=[[いつわる]] (itsuwaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|eumhun=|rv=sa|mr=sa|y=sa}}
+
+# {{defn|lang=ko|sort=言05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trá]], [[cha]]|rs=言05}}
+
+# {{defn|lang=vi}}
+
+[[fr:詐]]
+[[ko:詐]]
+[[hu:詐]]
+[[mg:詐]]
+[[ja:詐]]
+[[pl:詐]]
+[[th:詐]]
+[[zh:詐]]

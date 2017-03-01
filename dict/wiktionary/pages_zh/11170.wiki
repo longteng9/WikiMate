@@ -1,0 +1,92 @@
+{{character info/new}}
+{{also|杰}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=10|sn=12|four=25294|canj=ONQD|ids=⿰亻桀}}
+
+# [[hero]]
+# [[outstanding]], [[remarkable]]
+# ''A (typically male) [[given name]]''
+
+====References====
+* {{Han ref|kx=0113.090|dkj=00955|dj=0240.150|hdz=10204.050|uh=5091|ud=20625|bh=B3C7|bd=46023}}
+
+----
+
+==Chinese==
+{{zh-forms|s=杰}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jié
+|c=git6
+|h=pfs=kiet
+|mn=kia̍t
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|傑出|傑作|俊傑|人傑地靈|四傑|怪傑|初唐四傑|地靈人傑|人傑|女中豪傑|傑克|精心傑作|豪傑|英傑|英雄豪傑}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=人10}}
+
+# [[outstanding]]
+
+====Readings====
+* {{ja-readings|goon=[[げち]] (gechi) {{non-joyo-reading}}|kanon=[[けつ]] (ketsu)|kun=[[すぐれる]] (sugureru)}}
+
+====Compounds====
+* [[傑作]]
+* [[傑士]]
+* [[傑出]]
+* [[傑物]]
+* [[英傑]]
+* [[快傑]]
+* [[豪傑]]
+
+===Proper noun===
+{{ja-pos|proper|すぐる}}
+
+# {{given name|male|lang=ja|sort=すぐる}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=걸|rv=geol|mr=kŏl}}
+
+# {{defn|lang=ko|sort=人10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kiệt]]|rs=人10}}
+
+# {{defn|lang=vi|sort=人10}}
+
+[[fr:傑]]
+[[ko:傑]]
+[[hu:傑]]
+[[ja:傑]]
+[[pl:傑]]
+[[th:傑]]
+[[zh:傑]]

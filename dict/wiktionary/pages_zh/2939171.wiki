@@ -1,0 +1,33 @@
+{{also|皮肤炎}}
+==Chinese==
+{{zh-forms|s=皮肤炎|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=pífūyán
+|c=pei4 fu1 jim4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[dermatitis]]
+
+{{zh-cat|Dermatology}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひ|ふ|えん|yomi=o}}
+
+===Etymology===
+{{suffix|皮膚|炎|t1=skin|t2=-itis|lang=ja|sort=ひふえん}}
+
+===Noun===
+{{ja-noun|ひふえん}}
+# [[dermatitis]]
+
+[[Category:ja:Dermatology|ひふえん]]
+
+[[ko:皮膚炎]]

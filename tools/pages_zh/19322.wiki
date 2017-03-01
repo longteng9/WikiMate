@@ -1,0 +1,123 @@
+{{character info/new}}
+{{also|灭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=10|sn=13|four=33150|canj=EIHF}}
+
+# [[extinguish]]
+# [[die]]
+# [[wipe out]], [[eradicate]], being eradicated
+
+====References====
+* {{Han ref|kx=0642.010|dkj=18008|dj=1049.090|hdz=31696.090|uh=6EC5|ud=28357|bh=B7C0|bd=47040}}
+
+----
+
+==Chinese==
+{{zh-forms|s=灭}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|alt1=氵|t1=water|烕|c1=s|c2=p|ls=psc}} – to destroy with water (extinguish, flood). 烕 also has sense of “destroy, extinguish”, hence further connotations of these.
+
+===Pronunciation===
+{{zh-pron
+|m=miè
+|c=mit6
+|h=pfs=me̍t
+|md=
+|mn=bia̍t
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[extinguish]]
+# to [[turn off]] (light, lamp, etc.)
+# to [[die]]
+# to [[wipe out]], to [[eradicate]], being eradicated
+
+====Compounds====
+* [[灭顶]]
+* [[灭火]]
+* [[灭火弹]]
+* [[灭火器]]
+* [[灭迹]]
+* [[灭绝]]
+* [[灭口]]
+* [[灭门]]
+* [[灭亡]]
+* [[灭种]]
+* [[灭族]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水10}}
+
+# [[destroy]]
+# [[fall]]; [[collapse]]; be [[destroyed]]
+# [[die]]; [[perish]]; [[disappear]]
+
+====Readings====
+* {{ja-readings|goon=[[めち]] (mechi), [[めつ]] (metsu)|kanon=[[べつ]] (betsu)|kun=[[ほろびる]] (horobiru), [[ほろぼす]] (horobosu)}}
+
+====Compounds====
+{{top4}}
+* [[滅却]]
+* [[滅相]]
+* [[滅多]]
+{{mid4}}
+* [[滅亡]]
+* [[滅法]]
+* [[滅没]]
+* [[滅裂]]
+{{mid4}}
+* [[潰滅]]
+* [[死滅]]
+* [[消滅]]
+{{mid4}}
+* [[絶滅]]
+* [[殲滅]]
+* [[点滅]]
+{{bottom}}
+
+====References====
+* {{S-JIS|96C5}}
+* {{JIS|4C47}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=멸|eumhun=|rv=myeol|mr=myŏl|y=myel}}
+
+# {{defn|lang=ko|sort=水10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[diệt]], [[dột]], [[riết]]|rs=水10}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:滅]]
+[[fr:滅]]
+[[ko:滅]]
+[[hu:滅]]
+[[ja:滅]]
+[[pl:滅]]
+[[fi:滅]]
+[[th:滅]]
+[[vi:滅]]
+[[zh:滅]]

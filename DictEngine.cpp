@@ -7,6 +7,8 @@
 #include <QApplication>
 #include <QJsonDocument>
 
+static QString wiktionaryDumpDir = "dict/wiktionary/pages_zh/";
+static QString wiktionaryDumpDB = "dict/wiktionary/pages_zh.db";
 
 static QString wiktionaryUrl = "https://en.wiktionary.org/wiki/";
 static QString baiduDictUrl = "http://api.fanyi.baidu.com/api/trans/vip/translate";
@@ -27,11 +29,60 @@ void FetchEntryPatchAsync::start(){
     QThread::currentThread()->quit();
 }
 
+void QueryDumpEntryPatchAsync::start(){
+    if(obj){
+        for(QString word : words){
+            QMap<QString, QString> result = DictEngine::instance()->queryWikiDumpEntry(word);
+            if(result["en_entries"] != ""){
+                QString en_entries = result["en_entries"];
+                if(en_entries.contains("|")){
+                    QStringList trans = en_entries.split("|", QString::SkipEmptyParts);
+                    emit finishOne(word, trans);
+                }else if(en_entries.contains(";")){
+                    QStringList trans = en_entries.split(";", QString::SkipEmptyParts);
+                    emit finishOne(word, trans);
+                }
+            }else if(result["en_entries"] == "" && result["redirection"] != ""){
+                QStringList directs = result["redirection"].split("|", QString::SkipEmptyParts);
+                QMap<QString, QString> tmp;
+                for(QString direct : directs){
+                    tmp = DictEngine::instance()->queryWikiDumpEntry(direct);
+                    if(tmp["en_entries"] != ""){
+                        break;
+                    }
+                }
+                if(tmp["en_entries"] != ""){
+                    QString en_entries = tmp["en_entries"];
+                    if(en_entries.contains("|")){
+                        QStringList trans = en_entries.split("|", QString::SkipEmptyParts);
+                        emit finishOne(word, trans);
+                    }else if(en_entries.contains(";")){
+                        QStringList trans = en_entries.split(";", QString::SkipEmptyParts);
+                        emit finishOne(word, trans);
+                    }
+                }
+            }
+        }
+    }
+    QThread::currentThread()->quit();
+}
+
 DictEngine::DictEngine(QObject *parent)
     : QObject(parent){
+    mDB = QSqlDatabase::addDatabase("QSQLITE");
+    mDB.setDatabaseName(wiktionaryDumpDB);
+    if(!mDB.open()){
+        qDebug() <<"failed to open database: " << wiktionaryDumpDB;
+    }else{
+        qDebug() <<"succeed to open database: " << wiktionaryDumpDB;
+    }
 }
 
 DictEngine::~DictEngine(){
+    if(mDB.isOpen()){
+        mDB.close();
+        qDebug() << "succeed to close database: " << wiktionaryDumpDB;
+    }
 }
 
 DictEngine* DictEngine::instance(){
@@ -39,6 +90,34 @@ DictEngine* DictEngine::instance(){
         mInstance = new DictEngine;
     }
     return mInstance;
+}
+
+QMap<QString, QString> DictEngine::queryWikiDumpEntry(QString word){
+    QMap<QString, QString> result;
+    if(!mDB.isOpen()){
+        if(!mDB.open()){
+            qDebug() <<"failed to open database: " << wiktionaryDumpDB;
+            return result;
+        }
+    }
+
+    QSqlQuery query;
+    if(query.exec(QString("SELECT * from pages_zh WHERE page_title=\"%1\"").arg(word))){
+        while(query.next()){
+            result["page_id"] = query.value("page_id").toString();
+            result["page_title"] = word;
+            result["redirection"] = query.value("redirection").toString();
+            result["en_entries"] = query.value("en_entries").toString();
+            result["tag"] = query.value("tag").toString();
+
+        }
+    }
+
+    return result;
+}
+
+QString DictEngine::fetchWikiPage(QString word){
+    return QString();
 }
 
 QStringList DictEngine::fetchEntry(QString word,
@@ -67,6 +146,22 @@ void DictEngine::fetchEntryPatchAsync(QStringList words,
     worker->to = to;
     connect(worker, &FetchEntryPatchAsync::finishOne, this, &DictEngine::on_requestFinished, Qt::QueuedConnection);
     mLauncher.asyncRun(worker, "start");
+}
+
+void DictEngine::queryDumpEntryPatchAsync(QStringList words,
+                     QString from,
+                     QString to){
+    QueryDumpEntryPatchAsync *worker = new QueryDumpEntryPatchAsync;
+    worker->obj = this;
+    worker->words = words;
+    worker->from = from;
+    worker->to = to;
+    connect(worker, &QueryDumpEntryPatchAsync::finishOne, this, &DictEngine::on_queryFinished, Qt::QueuedConnection);
+    mLauncher.asyncRun(worker, "start");
+}
+
+void DictEngine::on_queryFinished(QString word, QStringList trans_list){
+    emit queryDumpEntryFinished(word, trans_list);
 }
 
 void DictEngine::on_requestFinished(QString word, QStringList trans_list){

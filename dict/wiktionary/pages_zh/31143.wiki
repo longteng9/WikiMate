@@ -1,0 +1,70 @@
+{{character info/new}}
+{{also|颏}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=181|rad=頁|as=06|sn=15|four=01886|canj=YOMBC}}
+
+# [[chin]]
+
+====References====
+* {{Han ref|kx=1403.150|dkj=43456|dj=1920.180|hdz=74370.050|uh=9826|ud=38950|bh=E8B8|bd=59576}}
+
+----
+
+==Chinese==
+{{zh-forms|s=颏}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kē
+|c=hoi4,goi2,hoi5
+|h=pfs=kôi
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|下巴頦|下頦|別頦腮|呆打頦|打頦歌|抬頦|藍點頦|頦下癭}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=頁06}}
+
+# {{defn|lang=ja|sort=頁06}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai), [[がい]] (gai)|kun=[[あご]] (ago)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=해|eumhun=|rv=hae|mr=hae|y=hay}}
+
+# {{defn|lang=ko|sort=頁06}}
+
+[[fr:頦]]
+[[ko:頦]]
+[[hu:頦]]
+[[mg:頦]]
+[[pl:頦]]
+[[ru:頦]]
+[[th:頦]]
+[[zh:頦]]

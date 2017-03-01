@@ -1,0 +1,55 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=02|sn=5|four=41120|canj=GMN|ids=⿰土丁}}
+
+# [[path]]s between [[field]]s
+
+====References====
+* {{Han ref|kx=0223.040|dkj=04872|dj=0455.040|hdz=10417.060|uh=5722|ud=22306|bh=C96E|bd=51566}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|alt=䵺}}
+
+====Pronunciation====
+{{zh-pron
+|m=tǐng
+|c=ting5
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Etymology 2===
+{{zh-see|町|v}}
+
+===References===
+* {{R:twedu|C01602}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土02}}
+
+# {{defn|lang=ja|sort=土02}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei), [[ちょう]] (chō), [[てん]] (ten)|kun=[[たいらか]] (tairaka)}}
+
+[[fr:圢]]
+[[hu:圢]]
+[[pl:圢]]
+[[th:圢]]
+[[zh:圢]]

@@ -1,0 +1,136 @@
+{{character info/new}}
+{{also|镭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=13|sn=21|four=81162|canj=CMBW|ids=⿰釒雷}}
+
+# [[radium]]
+
+====References====
+* {{Han ref|kx=1323.320|dkj=40940|dj=1823.210|hdz=64262.120|uh=9433|ud=37939|bh=C54A|bd=50506}}
+
+----
+
+==Chinese==
+{{zh-forms|s=镭}}
+
+===Etymology 1===
+{{bor|zh|en|radium|'''ra'''dium}}.
+
+====Pronunciation====
+{{zh-pron
+|m=léi
+|c=leoi4
+|h=pfs=lùi
+|md=lòi
+|mn=lûi
+|mn-t=lui5
+|w=3le
+|ma=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[radium]]
+
+=====Synonyms=====
+* {{qualifier|obsolete}} {{zh-l|鈤}}, {{zh-l|銧}}
+
+===Etymology 2===
+{{bor|zh|ms|duit}}.
+
+====Pronunciation====
+{{zh-pron
+|m=
+|c=leoi1
+|h=pfs=
+|md=
+|mn=lui
+|mn-t=lui1
+|w=
+|cat=n,cls
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tlb|zh|chiefly|Singapore|;|Malaysia|;|Mainland|_|Min Nan}}
+
+# [[copper]] [[cash]]; [[coin]]
+# {{zh-classifier|copper cash}}
+#: {{zh-x|五 '''鐳{lui}''' 銅鐳|five copper cash|MN}}
+# {{lb|zh|also|_|slang|_|in|_|Hong Kong}} [[money]]
+{{attention|zh|labels may need clarification/improvements}}
+
+=====Synonyms=====
+{{zh-dial|錢}}
+
+=====Compounds=====
+{{zh-der|銅鐳|鐳水|蘇古鐳|丁鴉鐳|無鐳|食鐳|還鐳|入鐳|咖啡鐳|鐳公|收鐳}}
+
+===Etymology 3===
+Transliteration character.
+
+====Pronunciation====
+{{zh-pron
+|m=léi
+|c=leoi4
+|h=pfs=lùi
+|md=
+|mn=lûi
+|mn-t=
+|w=
+|ma=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only used in|鐳射}}
+
+===Etymology 4===
+
+====Pronunciation====
+{{zh-pron
+|m=léi
+|c=leoi4
+|h=pfs=lùi
+|md=lòi
+|mn=lûi
+|mn-t=lui5
+|w=3le
+|mc=y
+|oc=y
+|ma=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|archaic}} [[bottle]]; [[pitcher]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金13}}
+
+# {{defn|lang=ja|sort=金13}}
+
+====Readings====
+* {{ja-readings|on=[[らい]] (rai)|kun=[[かめ]] (kame), ラジウム (rajiumu)|nanori=}}
+
+[[zh-min-nan:鐳]]
+[[fr:鐳]]
+[[lt:鐳]]
+[[hu:鐳]]
+[[mg:鐳]]
+[[ja:鐳]]
+[[pl:鐳]]
+[[ro:鐳]]
+[[th:鐳]]
+[[zh:鐳]]

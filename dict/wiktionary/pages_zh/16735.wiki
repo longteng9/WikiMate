@@ -1,0 +1,123 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=66|rad=攴|as=03|sn=7|four=18140|canj=MOK|ids=⿰工攵}}
+
+# to [[attack]], [[assault]]
+# [[criticize]]
+
+====References====
+* {{Han ref|kx=0468.160|dkj=13120|dj=0817.050|hdz=21449.060|uh=653B|ud=25915|bh=A7F0|bd=42992}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|工|攴|alt2=攵|c1=p|c2=s|ls=psc}} &ndash; aggression.
+
+===Pronunciation===
+{{zh-pron
+|m=gōng
+|c=gung1
+|h=pfs=kûng
+|mn=kong
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[attack]], [[assault]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[attack]], to [[assault]]
+# to [[criticize]]
+
+====Compounds====
+* [[攻城打援]]
+* [[攻城略地]]
+* [[攻错]]
+* [[攻打]]
+* [[攻读]]
+* [[攻防]]
+* [[攻关]]
+* [[攻击]]
+* [[攻歼]]
+* [[攻坚]]
+* [[攻坚战]]
+* [[攻克]]
+* [[攻破]]
+* [[攻其不备]]
+* [[攻取]]
+* [[攻势]]
+* [[攻守]]
+* [[攻守同盟]]
+* [[攻无不克]]
+* [[攻陷]]
+* [[攻心]]
+* [[攻研]]
+* [[攻占]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=攴03}}
+
+# [[attack]]
+
+====Readings====
+* {{ja-readings|goon=[[く]] (ku) {{non-joyo-reading}}|kanon=[[こう]] (kō)|kun=[[せめる]] (semeru), [[おさめる]] (osameru)}}
+
+====Compounds====
+{{top2}}
+* {{ja-r|攻究|こうきゅう}}
+* {{ja-r|攻撃|こうげき}}
+* {{ja-r|攻勢|こうせい}}
+{{mid2}}
+* {{ja-r|攻防|こうぼう}}
+* {{ja-r|攻略|こうりゃく}}
+* {{ja-r|専攻|せんこう}}
+
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=공|eumhun=|rv=gong|mr=kong|y=kong}}
+
+# {{defn|lang=ko|sort=攴03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[công]]|rs=攴03}}
+
+# {{defn|lang=vi|sort=攴03}}
+
+[[fr:攻]]
+[[ko:攻]]
+[[lt:攻]]
+[[li:攻]]
+[[hu:攻]]
+[[mg:攻]]
+[[ja:攻]]
+[[no:攻]]
+[[pl:攻]]
+[[fi:攻]]
+[[th:攻]]
+[[zh:攻]]

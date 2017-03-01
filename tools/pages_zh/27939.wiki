@@ -1,0 +1,89 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=05|sn=12|four=63144|canj=RMIKE,RMIKK|ids=⿰足犮}}
+
+# [[go]] [[by foot]]
+# [[epilogue]], [[colophon]]
+
+====References====
+* {{Han ref|kx=1223.090|dkj=37446|dj=1694.300|hdz=63694.020|uh=8DCB|ud=36299|bh=B65B|bd=46683}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{theaji|poa̍h}}
+{{zh-pron
+|m=bá
+|c=bat6,but6
+|h=pfs=pak
+|md=
+|mn=poa̍h/poa̍t
+|mn-t=buah8
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Min Nan|of a person}} to [[fall]] [[over]]
+#: {{zh-x|跋著[着]|to stumble|MN-T|tr=buah8 dioh4}}
+
+====See also====
+* {{zh-l|跌}}
+
+===References===
+*{{R:nan:Duffus 1883|fall|102}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=足05}}
+
+# {{defn|lang=ja|sort=足05}}
+
+====Readings====
+* {{ja-readings|goon=[[ばつ]] (batsu)|kanon=[[はつ]] (hatsu)|kun=[[ふむ]] (fumu), [[おくがき]] (okugaki)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=발|eumhun=|rv=bal|mr=pal|y=pal}}
+
+# {{defn|lang=ko|sort=足05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=足05| hanviet = bạt}}
+
+# {{defn|lang=vi|sort=足05}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=8dcb Nom Foundation]
+
+[[zh-min-nan:跋]]
+[[fr:跋]]
+[[hu:跋]]
+[[mg:跋]]
+[[ja:跋]]
+[[no:跋]]
+[[pl:跋]]
+[[th:跋]]
+[[zh:跋]]

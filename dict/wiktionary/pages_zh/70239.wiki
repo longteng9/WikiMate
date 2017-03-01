@@ -1,0 +1,77 @@
+{{also|介紹}}
+
+==Chinese==
+{{zh-forms|s=绍介}}
+
+===Etymology===
+Attestable in ancient Chinese texts. Reintroduced into Taiwanese {{etyl|nan|-}} and {{etyl|hak|-}} from {{der|zh|ja|-}} {{ja-r|紹%介|しょう%かい}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shàojiè
+|c=siu6 gaai3
+|h=pfs=n:seu-kie/s:seu-kiai
+|mn=siāu-kài
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary|or|Taiwanese Min Nan and Hakka}} to [[introduce]]
+
+====Synonyms====
+* {{zh-l|介紹}}
+
+===Descendants===
+{{CJKV||しょうかい|소개}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|かい|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|しょうかい|acc=0}}
+
+===Noun===
+{{ja-noun|しょうかい}}
+
+# [[introduction]]
+
+====Compounds====
+* {{ja-r|自己紹介|じこしょうかい}}
+
+===Verb===
+{{ja-verb-suru|しょうかい}}
+
+# [[introduce]]
+
+====Conjugation====
+{{ja-suru|しょうかい}}
+
+===See also===
+* {{ja-r|初めまして|はじめまして}}
+* {{ja-r|どうぞ よろしく}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:Japanese basic words|しようかい]]
+
+----
+
+==Korean==
+{{ko-hanjatab|紹|介}}
+
+===Noun===
+{{ko-noun|rv=so'gae|hangeul=소개}}
+
+# {{hanja form of|소개|introduction}}
+
+[[fr:紹介]]
+[[ko:紹介]]
+[[li:紹介]]
+[[hu:紹介]]
+[[mg:紹介]]
+[[zh:紹介]]

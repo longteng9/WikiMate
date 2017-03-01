@@ -1,0 +1,112 @@
+{{character info/new}}
+{{also|双}}
+==Translingual==
+{{ja-forms|[[双]]|[[双]]|雙}}
+{{Han simp|䨇|f=双|t=又}}
+===Han character===
+{{Han char|rn=172|rad=隹|as=10|sn=18|four=20407|canj=OGE|ids=⿰雔又}}
+
+====References====
+* {{Han ref|kx=1368.340|dkj=42116|dj=1873.200|hdz=64104.100|uh=96D9|ud=38617|bh=C2F9|bd=49913}}
+
+----
+
+==Chinese==
+{{zh-forms|s=双}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|雔|又|t1=two birds|t2=hand|ls=ic}}.
+
+Represents two birds ({{zh-l|*隹}}) in someone's right hand ({{zh-l|*又}}).
+
+===Pronunciation===
+{{zh-pron
+|m=shuāng
+|c=soeng1,sung1
+|c_note=sung1 - only for "a pair (of chopsticks)"
+|h=pfs=sûng
+|md=sĕ̤ng
+|mn=qz,xm,zz:song/qz:sang/tw,xm,zz:siang
+|mn_note=song - literary; sang/siang - vernacular
+|w=1saan
+|mc=y
+|oc=y
+|ma=y
+|cat=cls,a,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-classifier|a [[pair]] of objects|cat=y}}
+#: {{zh-ant|隻}}
+#: {{zh-x|一 雙 鞋|a '''pair''' of shoes}}
+#: {{zh-x|一 雙 筷子|a '''pair''' of chopsticks|tr=jat1 '''soeng1''' (or '''sung1''') faai3 zi2|C}}
+# [[two-]]; [[double]]; [[twin]]
+#: {{zh-ant|單}}
+#: {{zh-x|雙面|double-sided, two-faced}}
+#: {{zh-x|雙向|bidirectional, two-way}}
+# {{qualifier|number}} [[even]]
+# {{surname|lang=zh}} [[Shuang]]
+
+===Compounds===
+{{zh-der|雙簧|雙喜|一箭雙鵰/一箭双雕|一雙|一雙兩好|並世無雙|乳燕雙雙|儷影雙雙|出雙入對|同卵雙生|同胞雙生|名利雙收|唱雙簧|四雙八輩|國士無雙|天上無雙|天下無雙|寡二少雙|將相雙權|忠孝雙全|忠義雙全|成雙|成雙作對|成雙捉對|才氣無雙|才貌雙全|捉奸捉雙|捉奸見雙|文武雙全|日下無雙|智勇雙全|比翼雙飛|海內無雙|演雙簧|無雙|父母雙亡|牙管一雙|眉峰雙鎖|福壽雙全|福惠雙修|福無雙至|福祿雙全|絕世無雙|綠慘雙蛾|美貌無雙|舉世無雙|色藝無雙|色藝雙絕|花亂雙眼|蓋世無雙|雙中節|雙九|雙亡|雙倍|雙全|雙務契約|雙包|雙十|雙十節|雙向|雙向溝通|雙喜臨門|雙回門|雙套車|雙套飛車|雙子座|雙季稻|雙學位|雙宿雙飛|雙尾蠍|雙層|雙層公路|雙層公車|雙層巴士|雙峰駝|雙差|雙戟|雙手|雙手萬能|雙打|雙扶|雙捻布|雙掛號|雙數|雙料|雙方|雙星|雙曲線|雙月刊|雙柑斗酒|雙核都市|雙棒兒|雙棲雙宿|雙槓|雙款|雙殺|雙氣囊|雙氧水|雙活|雙清|雙球菌|雙環|雙生|雙生子|雙眉直豎|雙眉緊鎖|雙眼皮|雙瞳翦水|雙石頭|雙禮|雙程證|雙立人兒|雙箕紋|雙管|雙管齊下|雙簧管|雙紅|雙線行|雙線道|雙翅類|雙聯市|雙聲|雙聲帶|雙職工|雙胞胎|雙脣|雙脣音|雙腳|雙薪家庭|雙蛾|雙親|雙語|雙調|雙贏|雙身子|雙軌|雙週刊|雙邊|雙邊貿易|雙部句|雙醣|雙重|雙重人格|雙重國籍|雙重身分|雙鉤|雙鉤廓填|雙關|雙關語|雙陸|雙雙|雙雙對對|雙面|雙音節|雙響兒|雙頭汽鍋|雙頭火杖|雙頭馬車|雙飛|雙餉|雙鬟|雙魚|雙魚座|雙鯉|雙鯉魚|雙黃線}}
+
+===Descendants===
+{{CJKV||s=双|そう|쌍|song}}
+''Others'':
+* Proto-Tai: {{l|tai-pro|*soːŋᴬ||two}}
+** Lao: {{l|lo|ສອງ}}
+** Thai: {{l|th|สอง}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=隹10|style=ky|shin=双}}
+
+# {{defn|lang=ja|sort=隹10}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[ふた]] (futa), [[ふたつ]] (futatsu), [[ならぶ]] (narabu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=쌍|eumhun=|rv=ssang|mr=ssang|y=ssang}}
+
+# {{defn|lang=ko|sort=隹10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[song]], [[rông]], [[suông]]|rs=隹10}}
+
+# {{defn|lang=vi|sort=隹10}}
+
+----
+
+==Zhuang==
+
+===Numeral===
+{{za-head|numeral|s=双}}
+
+# {{za-sawndip form of|t|song}}
+
+[[fr:雙]]
+[[ko:雙]]
+[[io:雙]]
+[[li:雙]]
+[[hu:雙]]
+[[mg:雙]]
+[[ms:雙]]
+[[ja:雙]]
+[[pl:雙]]
+[[th:雙]]
+[[zh:雙]]

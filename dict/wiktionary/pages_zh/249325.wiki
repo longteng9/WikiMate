@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=suìdào
+|c=seoi6 dou6
+|h=pfs=sui-tho
+|mn=sūi-tō
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[tunnel]]
+
+====See also====
+* {{zh-l|地下道}}
+* {{zh-l|坑道}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Tunnel}}
+[[File:Nagao Tunnel.JPG|thumb|250px|{{lang|ja|隧道}} (''suidō''): a '''[[tunnel]]'''.]]
+</div>
+{{ja-kanjitab|すい|どう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ずいどう|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|すいどう}}
+
+# {{lb|ja|obsolete|sort=すいどう}} [[tunnel]]
+
+{{ja-kanjitab|ずい|どう|yomi=on}}
+
+{{ja-noun|ずいどう}}
+
+# {{lb|ja|obsolete|sort=すいどう}} [[tunnel]]
+
+====Synonyms====
+* {{ja-r|トンネル}}
+
+===References===
+<references/>
+
+[[ko:隧道]]
+[[lt:隧道]]
+[[hu:隧道]]
+[[mg:隧道]]
+[[ja:隧道]]
+[[ro:隧道]]
+[[uk:隧道]]
+[[zh:隧道]]

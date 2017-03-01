@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=60|rad=彳|as=08|sn=11|four=24221|canj=HOKMR|ids=⿰彳奇}}
+
+# to [[cross]] [[over]]
+
+====References====
+* {{Han ref|kx=0368.140|dkj=10148|dj=0692.090|hdz=20827.040|uh=5F9B|ud=24475|bh=D54E|bd=54606}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|彳|c1=s|t1=to walk with small steps|奇|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jì
+|c=gei3
+|h=pfs=
+|md=
+|mn=kì
+|mn-t=
+|w=
+|mc=2
+|oc=1
+|cat=n,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|literary}} a [[rock]] in the [[water]] for crossing over the water; [[stone]] [[bridge]]
+
+===Pronunciation===
+{{zh-pron
+|m=jì
+|c=kei5
+|h=pfs=
+|md=kiê
+|mn=khiā
+|mn-t=kia6
+|w=
+|mc=1
+|oc=2
+|cat=v,mn:n,mn:cls,mn:a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|literary|or|dialectal}} to [[stand]]
+# {{lb|zh|Min Nan}} to [[live]]; to [[inhabit]]; to [[reside]]
+#* {{zh-x|我 徛 廈門。|I '''live in''' Xiamen.|MN}}
+# {{lb|zh|Min Nan|Wu}} to [[stand]]; to [[set]] [[upright]]
+# {{lb|zh|Min Nan}} [[upright]]; [[vertical]]
+# {{lb|zh|Min Nan}} to [[register]]; to [[indicate]]
+# {{lb|zh|Min Nan}} to [[found]]; to [[open]]; to [[set up]]
+# {{lb|zh|Min Nan}} to be [[in charge]]
+# {{lb|zh|Min Nan}} to [[divide]]; to [[set apart]]
+# {{lb|zh|Min Nan}} to [[rank]]
+# {{lb|zh|Min Nan}} to [[dominate]]; to be a [[champion]]
+# {{lb|zh|Min Nan}} to [[stay]]
+# {{lb|zh|Min Bei|Datian|_|Min Nan|Pucheng|_|Wu}} to [[build]] (a house)
+# {{lb|zh|Min Nan}} [[stand]] {{gloss|something that keeps an object upright}}
+#* {{zh-x|門徛|doorpost|MN}}
+# {{lb|zh|Min Nan}} {{non-gloss definition|Classifier for upright objects.}}
+# {{lb|zh|Min Nan}} [[vertical]] [[stroke]] in a [[Chinese character]] ({{zh-l|丨*}})
+
+===References===
+* {{qualifier|Min Nan}} {{thcwd|7250}}
+* {{qualifier|Min Nan}} {{thcwda|280}}
+
+[[zh-min-nan:徛]]
+[[fr:徛]]
+[[pl:徛]]
+[[th:徛]]
+[[zh:徛]]

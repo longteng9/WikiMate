@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=13|sn=15|four=70227|canj=SJSH|ids=⿱辟刀}}
+
+# [[cut]] apart, [[split]], [[chop]]
+
+====References====
+* {{Han ref|kx=0144.380|dkj=02223|dj=0325.150|hdz=10357.050|uh=5288|ud=21128|bh=BC41|bd=48193}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=pī,pǐ
+|c=pik1,pek3,pek6
+|h=pfs=phiak
+|md=
+|mn=qz:phiak/tw,xm,zz:phek
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|劈腿}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=刀13}}
+
+# {{defn|lang=ja|sort=刀13}}
+
+====Readings====
+* {{ja-readings|on=[[へき]] (heki), [[ひゃく]] (hyaku)|kun=[[さく]] (saku), [[つんざく]] (tsunzaku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=벽|rv=byeok|mr=pyŏk}}
+
+# {{defn|lang=ko|sort=刀13}}
+
+[[fr:劈]]
+[[ko:劈]]
+[[li:劈]]
+[[hu:劈]]
+[[mg:劈]]
+[[ja:劈]]
+[[no:劈]]
+[[pl:劈]]
+[[th:劈]]
+[[zh:劈]]

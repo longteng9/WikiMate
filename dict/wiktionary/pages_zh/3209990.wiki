@@ -1,0 +1,77 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+From {{och-l|清|clear; pure}} and {{och-l|明|bright}}. Attested in ''{{w|Shijing}}'' ("(of governance) to be methodical, orderly"), ''{{w|Xunzi}}'' ("(of water) clear and bright"), ''{{w|Classic of Rites}}'' ("sober, calm"; "(of voice) clear"), ''{{w|:zh:逸周書|Lost Book of Zhou}}'' ("(the date of) Qingming, from brightness, clearness of the scenery"), ''{{w|Guoyu (book)|Guoyu}}'' ("southeasterly winds").
+
+===Pronunciation 1===
+{{zh-pron
+|m=qīngmíng
+|c=cing1 ming4
+|h=pfs=chhîn-mìn
+|mn=chheng-bêng
+|mn-t=cêng1 mêng5
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[clear]] and [[bright]]
+# [[sober]] and [[calm]]; (''of a patient's mind''): [[clear]]
+# {{lb|zh|of a government or administration}} well ordered
+# [[peaceful]] (times)
+
+=====Derived terms=====
+{{zh-der|神志清明}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=Qīngmíng
+|c=cing1 ming4,cing1 ming4-2
+|h=pfs=Chhiâng-miàng
+|mn=xm,kh:Chheng-bêng/xm,tp:Chhiⁿ-miâ/qz:Chhuiⁿ-miâ/zz:Chheⁿ-miâ
+|mn-t=cêng1 mêng5
+|cat=a
+}}
+
+====Proper noun====
+{{zh-proper noun}}
+
+# [[Qingming]] {{gloss|[[fifth]] of the 24 [[solar term]]s in the [[Chinese calendar]], occurring from [[April]] 4 or 5 to 18 or 19}}
+# [[Tomb Sweeping Day]] {{gloss|[[annual]] [[Chinese]] [[festival]] [[observe]]d on the first day of Qingming}}
+
+=====Derived terms=====
+{{zh-der|清明節}}
+
+{{zh-cat|Calendar terms|Festivals}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|めい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|せいめい|y=o}}
+
+===Proper noun===
+{{ja-pos|proper|せいめい}}
+
+# [[Qingming]] ("[[pure|Pure]] [[brightness|Brightness]]"), the [[fifth]] of the 24 [[solar term]]s in the [[Chinese]] [[lunisolar]] [[calendar]], occurring from the 4th or 5th of [[April]] until the 18th or 19th
+
+===See also===
+{{list:solar terms/ja}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Proper noun===
+{{vi-hantu}}
+
+# {{han tu form of|thanh minh}}
+
+[[zh-min-nan:清明]]
+[[ja:清明]]
+[[zh:清明]]

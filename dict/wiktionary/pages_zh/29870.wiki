@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|铙}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=12|sn=20|four=84111|canj=CGGU}}
+
+====References====
+* {{Han ref|kx=1321.300|dkj=40867|dj=1821.220|hdz=64253.120|uh=9403|ud=37891|bh=C4C2|bd=50370}}
+
+----
+
+==Chinese==
+{{zh-forms|s=铙}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|金|堯|c1=s|c2=p|t1=metal|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=náo
+|c=naau6,naau4
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|musical instruments}} [[big]] [[cymbal]]s
+# to [[disturb]]; to [[argue]]; to [[debate]]
+
+====Compounds====
+{{zh-der|鐃歌|鐃吹|鐃鈸}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金12}}
+
+# {{defn|lang=ja|sort=金12}}
+
+====Readings====
+* {{ja-readings|on=[[どう]] (dō)|kun=[[どら]] (dora)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[뇨]]>[[요]]|eumhun=|rv=nyo>yo|mr=nyo>yo|y=nyo>yo}}
+
+# {{defn|lang=ko|sort=金12}}
+
+[[fr:鐃]]
+[[hu:鐃]]
+[[ja:鐃]]
+[[pl:鐃]]
+[[th:鐃]]
+[[zh:鐃]]

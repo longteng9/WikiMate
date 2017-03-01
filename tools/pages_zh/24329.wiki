@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=05|sn=9|four=17227|canj=NOB|ids=⿱疋月}}
+
+# [[all]], [[together]], [[mutually]]
+
+====References====
+* {{Han ref|kx=0980.060|dkj=29406|dj=1432.030|hdz=32064.100|uh=80E5|ud=32997|bh=AD45|bd=44357}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xū
+|c=seoi1
+|mc=y
+|oc=y
+|ma=
+|cat=adv,det
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[Small]] [[officer]].
+#*: {{zh-usex|謂 言 夫 胥 麥 門,遂 使 蓯[苁]{cōng}蓉 緩 步。|{{t-needed|zh}}|ref=Wu Zi Xu}}
+# {{surname|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉05}}
+
+# {{defn|lang=ja|sort=肉05}}
+
+====Readings====
+* {{ja-readings|on=[[しょ]] (sho), [[そ]] (so)|kun=[[あい]] (ai), [[みな]] (mina), [[みる]] (miru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=서|eumhun=|rv=seo|mr=sŏ|y=se}}
+
+# {{defn|lang=ko|sort=肉05}}
+
+[[fr:胥]]
+[[ko:胥]]
+[[hu:胥]]
+[[mg:胥]]
+[[ja:胥]]
+[[pl:胥]]
+[[th:胥]]
+[[zh:胥]]

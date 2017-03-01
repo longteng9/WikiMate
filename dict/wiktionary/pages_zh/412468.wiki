@@ -1,0 +1,28 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Edo}}
+[[File:Edo_1844-1848_Map.jpg|thumb|250px|{{lang|ja|江戸}} (''Edo''): Map of '''[[Edo]]''' from the 1840s.]]
+</div>
+{{ja-kanjitab|え|と|k2=ど|yomi=k}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=えど|江|tr1=e|t1=[[cove]], [[inlet]]|戸|tr2=to|t2=[[entrance]], [[gate]], [[door]]}}. {{rendaku2|sort=えど|to|do}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|えど}}
+
+===Proper noun===
+{{ja-pos|proper|えど}}
+
+# [[Edo]], the former name of [[Tokyo]]
+#: The city was renamed from ''Edo'' to ''Tōkyō'' in 1868.
+# {{surname|lang=ja|sort=えど}}
+
+====Descendants====
+* Russian: {{l|ru|Э́до|g=m}}
+
+[[cs:江戸]]
+[[lo:江戸]]
+[[ja:江戸]]
+[[zh:江戸]]

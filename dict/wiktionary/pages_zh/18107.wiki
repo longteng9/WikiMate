@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=12|sn=16|four=40904|canj=JBMRD}}
+
+# a [[sack]], a [[bag]] [[open]]ing at both [[end]]s
+
+====References====
+* {{Han ref|kx=0553.080|dkj=15533|dj=0941.210|hdz=21289.050|uh=6A50|ud=27216|bh=E9D1|bd=59857}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{theaji|lok/lop/lak}}
+
+===Pronunciation===
+{{zh-pron
+|m=tuó,dù,luò
+|c=tok3
+|mn=lok/lop/lak
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木12}}
+
+# [[sack]]
+# bag opening at both ends
+
+====Readings====
+* {{ja-readings|on=[[たく]] (taku), [[しゃ]] (sha)|kun=[[ふくろ]] (fukuro), [[ふいご]] (fuigo)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=탁|eumhun=|rv=tak|mr=t'ak|y=thak}}
+
+# a sack
+# a bag opening at both ends
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木12| hanviet = thác}}
+
+# {{defn|lang=vi|sort=木12}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6a50 Nom Foundation]
+
+[[zh-min-nan:橐]]
+[[fr:橐]]
+[[hu:橐]]
+[[mg:橐]]
+[[pl:橐]]
+[[th:橐]]
+[[zh:橐]]

@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|斤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=69|rad=斤|as=01|sn=5|four=72231|canj=HMY|ids=⿻斤丶}}
+
+# to [[scold]], [[upbraid]], [[accuse]], [[reproach]]
+
+====Derived characters====
+* [[訴]]
+
+====See also====
+* {{l|mul|斤}} <!-- graphically similar -->
+
+====References====
+* {{Han ref|kx=0479.050|dkj=13535|dj=0837.240|hdz=32022.030|uh=65A5|ud=26021|bh=A5B8|bd=42424}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chì
+|c=cik1
+|h=pfs=
+|md=
+|mn=thek
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|充斥|呵斥|喝斥|嚴斥|屏斥|怒斥|拒斥|指斥|排斥|排斥命題|排斥異己|揮斥|擯斥|斥候|斥力|斥喝|斥土|斥地|斥埴|斥堠|斥大|斥斥|斥罵|斥罷|斥責|斥資|斥賣|斥退|斥逐|斥革|斥騎|斥鷃|斥鹵|申斥|痛斥|直斥|罷斥|訓斥|訶斥|貶斥|遷斥|鄙斥|駁斥}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=斤01}}
+
+# {{defn|lang=ja|sort=斤01}}
+
+====Readings====
+* {{ja-readings|goon=[[しゃく]] (shaku)|kanon=[[せき]] (seki)|kun=[[しりぞける]] (shirizokeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=척|eumhun=|rv=cheok|mr=ch'ŏk|y=chek}}
+
+# {{defn|lang=ko|sort=斤01}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xịch]], [[xệch]], [[xích]], [[sệch]], [[xếch]]|rs=斤01}}
+
+# {{defn|lang=vi|sort=斤01}}
+
+[[fr:斥]]
+[[ko:斥]]
+[[hu:斥]]
+[[mg:斥]]
+[[ja:斥]]
+[[no:斥]]
+[[pl:斥]]
+[[th:斥]]
+[[vi:斥]]
+[[zh:斥]]

@@ -1,0 +1,127 @@
+{{also|结果}}
+==Chinese==
+{{zh-forms|s=结果}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiéguǒ
+|c=git3 gwo2
+|h=pfs=kiet-kó
+|mn=xm,zz,tw:kiat-kó/qz:kiat-kó͘
+|ma=y
+|cat=n,con,v
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[result]] {{zh-mw|個}}
+#: {{zh-x|得出 結果|to obtain a '''result'''}}
+
+=====Antonyms=====
+* {{zh-l|原因}}
+
+=====See also=====
+* {{zh-l|成果}}
+* {{zh-l|後果}}
+* {{zh-l|效果}}
+
+====Conjunction====
+{{zh-con}}
+
+# [[finally]]; [[in the end]]; as a [[result]]
+
+====Verb====
+{{zh-verb}}
+
+# to [[kill]]; to [[finish off]]
+
+===Pronunciation===
+{{zh-pron
+|m=jiēguǒ,jiéguǒ,2nb=Taiwan
+|c=git3 gwo2
+|h=pfs=kiet-kó
+|mn=xm,zz,tw:kiat-kó/qz:kiat-kó͘
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[bear]] [[fruit]]
+
+{{zh-cat|Beginning|Intermediate|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|けつ|k1=けっ|か|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|けっか|y=o|acc=0}}
+
+===Noun===
+{{ja-noun|けっか}}
+
+# the [[result]], [[effect]], [[consequence]]
+# the [[performance]], the [[accomplishment]], the [[achievement]]
+
+====Synonyms====
+* {{sense|effect}} {{ja-r|成果|せいか}}, {{ja-r|余波|よは}}
+
+====Antonyms====
+* {{sense|effect}} {{ja-r|原因|げんいん}}
+
+===Verb===
+{{ja-verb-suru|けっか}}
+
+# {{lb|ja|rare|sort=けっか}} [[bear fruit]]
+
+====Conjugation====
+{{ja-suru|けっか}}
+
+====Synonyms====
+* {{ja-r|結実|けつじつ}}, {{ja-r|実を結ぶ|み を むすぶ}}
+
+===References===
+* {{R:Shogakukan}}
+* {{R:Meikyo}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=결과}}
+
+# {{hanja form of|결과|[[result]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|kết quả|[[result]]}}
+
+[[zh-min-nan:結果]]
+[[fr:結果]]
+[[ko:結果]]
+[[kn:結果]]
+[[ku:結果]]
+[[lo:結果]]
+[[lt:結果]]
+[[li:結果]]
+[[hu:結果]]
+[[mg:結果]]
+[[ja:結果]]
+[[km:結果]]
+[[pl:結果]]
+[[ru:結果]]
+[[sv:結果]]
+[[th:結果]]
+[[chr:結果]]
+[[zh:結果]]

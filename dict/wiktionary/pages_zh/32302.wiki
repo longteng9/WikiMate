@@ -1,0 +1,105 @@
+{{character info/new}}
+{{also|鳕}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=11|sn=22|four=21374|canj=NFMBM,NFMBS|ids=⿰魚雪}}
+
+# [[codfish]]
+
+====Descendants====
+* [[鳕]]
+
+====References====
+* {{Han ref|kx=1477.301|dkj=46470|dj=2009.140|hdz=74710.030|uh=9C48|ud=40008|bh=F7AB|bd=63403}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鳕}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|魚|t1=fish|雪|ls=psc|c1=s|c2=p}} – a kind of fish.
+
+===Pronunciation===
+{{zh-pron
+|m=xuě
+|c=syut3
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|鱈魚}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=魚11}}
+
+# {{defn|lang=ja|sort=魚11}}
+
+====Readings====
+{{ja-readings|on=[[せつ]] (setsu)|kun=[[たら]] (tara)}}
+
+====Compounds====
+* {{ja-r|矢鱈|やたら}}
+* {{ja-r|出鱈目|でたらめ}}
+
+[[file:Pacific cod - cropped.jpg|thumb|right|200px|鱈(tara)]]
+
+===Pronunciation===
+{{ja-pron|たら|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|たら|タラ}}
+
+# [[codfish]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|助宗鱈|すけそうだら}}, {{ja-r|助惣鱈|すけそうだら}}: [[Alaska pollock]]
+* {{ja-r|介党鱈|すけとうだら}}, {{ja-r|鯳|すけとうだら}}: [[Alaska pollock]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Fish|たら]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[설]]|eumhun=|rv=seol|mr=sŏl|y=sel}}
+
+# {{defn|lang=ko|sort=魚11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=魚11|hanviet=tuyết}}
+
+# {{defn|lang=vi|sort=魚11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=9c48 Nom Foundation]
+
+[[fr:鱈]]
+[[hu:鱈]]
+[[ja:鱈]]
+[[pl:鱈]]
+[[ru:鱈]]
+[[sv:鱈]]
+[[th:鱈]]
+[[zh:鱈]]

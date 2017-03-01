@@ -1,0 +1,49 @@
+{{also|语汇}}
+==Chinese==
+{{zh-forms|s=语汇}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǔhuì
+|c=jyu5 wui6,jyu5 wai6
+|mn=kh:gí-lūi/qz:gír-hōe/tp:gú-lūi/xm:gú-hōe/zz:gí-hōe
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[vocabulary]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ご|い|yomi=o}}
+{{wikipedia|lang=ja}}
+
+===Etymology===
+{{compound|lang=ja|sort=ごい|語|tr1=go|t1=word|彙|tr2=i|t2=collection}}
+
+===Noun===
+{{ja-noun|ごい|hhira=ごゐ}}
+
+# [[vocabulary]]
+
+====Derived terms====
+* {{ja-r|語彙素|ごいそ|gloss=[[lexeme]]}}
+* {{ja-r|語彙範疇|ごいはんちゅう|gloss=[[lexical category]]}}
+* {{ja-r|定義語彙|ていぎごい|gloss=[[defining vocabulary]]}}
+* {{ja-r|統制語彙|とうせいごい|gloss=[[controlled vocabulary]]}}
+
+[[Category:ja:Semantics|こい']]
+
+[[fr:語彙]]
+[[ko:語彙]]
+[[it:語彙]]
+[[li:語彙]]
+[[hu:語彙]]
+[[mg:語彙]]
+[[ja:語彙]]
+[[ru:語彙]]
+[[uk:語彙]]
+[[zh:語彙]]

@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|鹜}}
+==Translingual==
+
+===Etymology===
+{{Han compound|敄|鳥|c1=p|c2=s|t2=bird|ls=psc}}
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=09|sn=20|four=18327|canj=NKHAF|ids=⿰敄鳥}}
+
+# [[duck]]
+
+====See also====
+* {{l|mul|鴨}}, {{l|mul|鸭}}
+* {{l|mul|鳧}}, {{l|mul|凫}}
+
+====References====
+* {{Han ref|kx=1495.210|dkj=47142|dj=2025.170|hdz=74648.210|uh=9DA9|ud=40361|bh=F5AD|bd=62893}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=[[mou6]]|y=mou6|sim=鹜}}
+
+# {{defn|lang=yue|sort=鳥09}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鳥09}}
+
+# {{defn|lang=ja|sort=鳥09}}
+
+====Readings====
+* {{ja-readings|on=[[ぼく]] (boku), [[ぶ]] (bu)|kun=[[あひる]] (ahiru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=목|eumhun=|rv=mok|mr=mok|y=mok}}
+
+# {{defn|lang=ko|sort=鳥09}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|sim=鹜|pin=[[wù]] ([[wu4]])|wg=wu<sup>4</sup>}}
+
+# {{defn|lang=cmn|sort=鳥09}}
+
+[[fr:鶩]]
+[[hu:鶩]]
+[[mg:鶩]]
+[[ja:鶩]]
+[[pl:鶩]]
+[[sv:鶩]]
+[[th:鶩]]
+[[zh:鶩]]

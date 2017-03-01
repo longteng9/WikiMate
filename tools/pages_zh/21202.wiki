@@ -1,0 +1,99 @@
+{{character info/new}}
+{{also|踈}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=103|rad=疋|as=07|sn=12|four=10113|canj=NMYIU|ids=⿰[[疋|⺪]][[㐬]]}}
+
+# [[neglect]]
+# [[careless]], [[lax]]
+
+====References====
+* {{Han ref|kx=0767.230|dkj=22000|dj=1178.020|hdz=42750.020|uh=758F|ud=30095|bh=B2A8|bd=45736}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=shū,sū
+|c=so1
+|h=pfs=sô
+|md=
+|mn=so͘/qz,twvt,xm:soe/tw,zz:se
+|mn_note=so͘ - literary; soe/se - vernacular
+|w=
+|mc=
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=shù
+|c=so3
+|h=pfs=
+|md=
+|mn=sò͘
+|mn_note=literary
+|w=
+|mc=
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* {{R:twedu|A02658}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疋07}}
+
+# {{defn|lang=ja|sort=疋07}}
+
+====Readings====
+* {{ja-readings|on=[[そ]] (so), [[しょ]] (sho)|kun=[[とおる]] (tooru), [[うとい]] (utoi), [[まばら]] (mabara)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=소|eumhun=|rv=so|mr=so|y=so}}
+
+# {{defn|lang=ko|sort=疋07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''疏''' ([[sơ]], [[sớ]], [[sờ]], [[sưa]], [[xơ]], [[xờ]])
+
+# {{defn|lang=vi}}
+
+[[fr:疏]]
+[[ko:疏]]
+[[hu:疏]]
+[[mg:疏]]
+[[ja:疏]]
+[[no:疏]]
+[[pl:疏]]
+[[th:疏]]
+[[zh:疏]]

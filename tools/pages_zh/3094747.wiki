@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|とう|か|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|とうか|y=o|acc=1|acc_ref=NHK}}
+
+===Adjectival noun===
+{{ja-adj|decl=な|とうか|kyu=等價}}
+
+# [[equal]] in [[value]]
+
+====Inflection====
+{{ja-na|とうか}}
+
+===Noun===
+{{ja-noun|とうか|kyu=等價}}
+
+# equality of value
+
+===References===
+<references/>
+
+[[hu:等価]]
+[[mg:等価]]
+[[ja:等価]]
+[[zh:等価]]

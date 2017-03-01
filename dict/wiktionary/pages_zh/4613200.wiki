@@ -1,0 +1,31 @@
+==Japanese==
+{{ja-kanjitab|おお|そら|k2=ぞら|yomi=k|r=y}}
+
+===Etymology===
+{{com|ja|大|tr1=ō|t1=[[large]]|空|tr2=sora|t2=[[sky]]|sort=おおぞら}}
+
+===Pronunciation===
+{{ja-pron|acc=3|y=k|おおぞら}}
+
+===Noun===
+{{ja-noun|おおぞら|hhira=おほぞら}}
+
+# [[firmament]]; [[heavens]]
+#* {{quote-book
+|language=Japanese
+|location=Tokyo
+|publisher={{w|Mag Garden}}
+|genre=fiction
+||{{w|Kozue Amano}}
+|{{w|ARIA (漫画)|{{lang|ja|アリア}}|lang=ja}}
+|trans-title={{w|Aria (manga)|Aria}}
+|date=Mar 10 2004
+|isbn=4-86127-016-2
+|volume=4
+||106
+|chapter={{ruby|{{lang|ja|[空](そら)を[泳](およ)ぐ[魚](さかな)}}}}
+|trans-chapter=A Fish That Swims in the Sky
+|{{ja-usex|その日　私が出会った風追配達人さんは　ちょっぴりドジで　だけど子%供のように無%邪%気に笑う　'''大%空'''に生きるまっすぐな素%敵マンなのでした|^その ひ　わたし が であった ^シルフ-さん は　ちょっぴり ドジ で　だけど こ%ども の よう に む%じゃ%き に わらう　'''おお%ぞら''' に いきる まっすぐ な す%てき マン なの でした|That day　I met a Sylph　who was a bit of an airhead　but who had innocent laughs of a child　and he was a lovely fella who lived in the '''skies'''}}}}
+[[lt:大空]]
+[[hu:大空]]
+[[mg:大空]]

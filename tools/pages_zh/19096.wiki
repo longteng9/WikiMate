@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|瘀}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=08|sn=11|four=38133|canj=EYSY}}
+
+# [[mud]], [[sediment]]
+# clog up, silt up
+
+====References====
+* {{Han ref|kx=0630.230|dkj=17665|dj=1033.030|hdz=31660.010|uh=6DE4|ud=28132|bh=B24A|bd=45642}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yū
+|c=jyu1,jyu2,jyu3
+|mn=qz:ir/xm:u/zz:i
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|放淤|淤塞|淤泥|淤溉|淤滯|淤積|淤血|淤閼}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水08}}
+
+# {{defn|lang=ja|sort=水08}}
+
+====Readings====
+* {{ja-readings|on=[[よ]] (yo), [[お]] (o)|kun=[[どろ]] (doro)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=어|eumhun=|rv=eo|mr=ŏ|y=e}}
+
+# {{defn|lang=ko|sort=水08}}
+
+[[fr:淤]]
+[[hu:淤]]
+[[mg:淤]]
+[[ja:淤]]
+[[no:淤]]
+[[pl:淤]]
+[[th:淤]]
+[[zh:淤]]

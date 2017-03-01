@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|吴|呉}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+Ideogrammic compound ([[會意]]): [[口]] ("mouth") + [[夨]]
+<!-- Original meaning was "to shout." -- Is there a reference for that? -->
+
+===Han character===
+{{Han char|rn=30|rad=口|as=04|sn=7|four=26801|canj=RVNK|ids=⿺夨口}}
+
+====References====
+* {{Han ref|kx=0179.040|dkj=03365|dj=0396.150|hdz=10595.080|uh=5433|ud=21555|bh=A764|bd=42852}}
+
+----
+
+==Chinese==
+{{zh-forms|s=吴|alt=呉}}
+
+===Pronunciation===
+{{zh-pron
+|m=wú,yú
+|c=ng4
+|h=pfs=n̂g
+|mn=qz,tw,xm:ngô͘/gô͘
+|w=3hhu
+|mc=y
+|oc=y
+|mna=Taiwanese-The_Consonant_ng.ogg
+|cat=pn,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|historical}} one of the [[w:Warring States period|Warring States]]
+# the territory those states held, around the [[Yangtze]] delta
+# [[Wu]]; the Chinese dialects of that territory, including [[Suzhounese]] and [[Shanghainese]]
+#: {{zh-also|吳語}}
+# {{surname|lang=zh}}
+# a harbor in [[Hiroshima]] Prefecture, Japan
+
+====Descendants====
+* Tagalog: {{l|tl|Go}}, {{l|tl|Wu}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口04}}
+
+# {{defn|lang=ja|sort=口04}}
+
+====Readings====
+* {{ja-readings|on=[[ご]] (go)|kun=[[くれ]] (kure), [[くれる]] (kureru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[오]], [[호]]|mr=o, ho}}
+
+# {{defn|lang=ko|sort=口04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngô]], [[ngo]]|rs=口04}}
+
+# {{defn|lang=vi|sort=口04}}
+
+[[zh-min-nan:吳]]
+[[fr:吳]]
+[[ko:吳]]
+[[li:吳]]
+[[hu:吳]]
+[[ja:吳]]
+[[uz:吳]]
+[[pl:吳]]
+[[th:吳]]
+[[zh:吳]]

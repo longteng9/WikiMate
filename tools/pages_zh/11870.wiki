@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|匦}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=22|rad=匚|as=09|sn=11|four=71711|canj=SJJN|ids=⿷匚軌}}
+
+# small [[box]]
+# [[chest]], [[casket]]
+
+====References====
+* {{Han ref|kx=0154.090|dkj=02639|dj=0346.140|hdz=10087.080|uh=532D|ud=21293|bh=D46F|bd=54383}}
+
+----
+
+==Chinese==
+{{zh-forms|s=匦}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=guǐ
+|c=gwai2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|匭函|匭院|票匭}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=匚09}}
+
+# {{defn|lang=ja|sort=匚09}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[はこ]] (hako), [[くくる]] (kukuru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=궤|rv=gwe|mr=kwe}}
+
+# {{defn|lang=ko|sort=匚09}}
+
+[[fr:匭]]
+[[hu:匭]]
+[[ja:匭]]
+[[pl:匭]]
+[[th:匭]]
+[[zh:匭]]

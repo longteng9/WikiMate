@@ -1,0 +1,46 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|日本語|日本語 (Japanese language)}}
+{{wikipedia|Japanese language}}
+{{wikipedia|lang=ja|大和言葉|和語 (native Japanese word)}}
+{{wikipedia|Yamato kotoba}}
+</div>
+{{ja-kanjitab|わ|ご|yomi=o}}
+
+===Etymology===
+Probably a coinage in Japan of {{etyl|ltc|-}}-derived components, as a compound of {{compound|lang=ja|sort=わご|和|tr1=wa|t1=Japan, Japanese|語|tr2=go|t2=language, word}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|わご|acc=1|acc_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|倭語}} {{qualifier|rare}}
+
+===Noun===
+{{ja-noun|わご}}
+
+# the Japanese language
+# a Japanese word of ancient Japanese origin, such as {{m|ja|見る|tr=miru||to look, to see}}, {{m|ja|光|tr=hikari||shining, brightness}}, or {{m|ja|桜|tr=sakura||cheery tree, cherry blossom}}
+
+====Usage notes====
+''Wago'' may be written in [[kanji]], [[kana]], or both, and are read with the {{m|ja|訓読み|tr=kun’yomi||native Japanese reading|lit=meaning reading}}.  Contrast with {{m|ja|漢語|tr=kango||Japanese word of Chinese origin|lit=Han Chinese word}}.
+
+====Synonyms====
+* {{sense|Japanese language}} {{ja-r|日本語|にほんご}}
+* {{sense|native Japanese word}} {{ja-r|大和言葉|やまと ことば}}
+
+===See also===
+* {{ja-r|漢語|かんご}}: Japanese words of Chinese origin
+* {{ja-r|外来語|がいらいご}}: foreign words {{qualifier|generally more recent borrowings from other languages}}
+
+===References===
+<references/>
+
+[[Category:ja:Grammar|わご]]
+[[Category:ja:Linguistics|わご]]
+
+[[fr:和語]]
+[[it:和語]]
+[[li:和語]]
+[[ja:和語]]
+[[ru:和語]]

@@ -1,0 +1,29 @@
+{{also|文责}}
+==Chinese==
+{{zh-forms|s=文责}}
+
+===Pronunciation===
+{{zh-pron
+|m=wénzé
+|c=man4 zaak3
+|ma=y
+|cat=v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[author]]'s [[responsibility]] to [[assume]] for his own [[writing]]s
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぶん|せき|yomi=on}}
+
+===Noun===
+{{ja-noun|ぶんせき}}
+# [[responsibility]] (for the contents of a document)
+#: {{ja-usex|'''文責'''は著者にのみあります。|'''ぶんせき''' は ちょしゃ に のみ あります。|The author takes the sole responsibility for the contents of the document.}}
+
+[[mg:文責]]
+[[zh:文責]]

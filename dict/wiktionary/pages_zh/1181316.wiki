@@ -1,0 +1,56 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tànzhī
+|c=taam3 zi1
+|mn=thàm-ti
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[find]] [[out]] [[something]] [[after]] [[checking]] [[into]] a [[matter]]
+
+[[Category:Mandarin literary terms|tan4zhi1]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|たん|ち|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|たんち|yomi=o}}
+
+===Noun===
+{{ja-noun|たんち}}
+
+# [[detection]]
+# [[discovery]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|たんち}}
+
+# [[detect]]
+# [[discover]], [[uncover]]
+#* '''1931''', 海野十三, 国際殺人団の崩壊:
+#*: {{ja-usex|それは、わが陸軍の'''探知'''し得た信用の出来る情報です。|それ は、 わが りくぐん の '''たんち''' し えた しんよう の できる じょうほう です。|That's reliable information uncovered by our army.}}
+
+====Conjugation====
+{{ja-suru|たんち}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=탐지}}
+
+# {{hanja form of|탐지|detection}}
+
+[[hu:探知]]
+[[ja:探知]]
+[[zh:探知]]

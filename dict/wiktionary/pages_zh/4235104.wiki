@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=luǎnxíng
+|c=leon5-2 jing4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[oval]]
+
+{{zh-cat|Geometry}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|たまご|かた|k2=がた|yomi=kun}}
+
+====Noun====
+{{ja-noun|たまごがた}}
+
+# [[oval]], [[egg]] {{gloss|something shaped like an egg}}
+
+===Etymology 2===
+{{ja-kanjitab|らん|けい|yomi=on}}
+
+====Noun====
+{{ja-noun|らんけい}}
+
+# [[oval]], [[egg]] {{gloss|something shaped like an egg}}
+
+[[mg:卵形]]
+[[ja:卵形]]
+[[chr:卵形]]
+[[zh:卵形]]

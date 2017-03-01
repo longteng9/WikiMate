@@ -1,0 +1,56 @@
+{{also|职场}}
+==Chinese==
+{{zh-forms|s=职场}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhí場
+|c=zik1 coeng4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[career]]; [[work]] [[arena]]
+# [[workplace]]
+# [[job]] [[market]]
+
+====Synonyms====
+* {{sense|career}} {{zh-l|事業}}, {{zh-l|職業}}
+* {{sense|workplace}} {{zh-l|工作場所}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょく|ば|yomi=j}}
+
+===Etymology===
+Given the mixed Sinitic-Japanese reading, probably coined in Japan as a compound of {{compound|lang=ja|sort=しょくば|職|tr1=shoku|t1=employment, trade, job|pos1=''on'yomi'', from {{etyl|ltc|ja|sort=しょくば}}|場|tr2=ba|t2=place, site|pos2=''kun'yomi'', from {{etyl|ojp|ja|sort=しょくば}}}}.
+
+===Pronunciation===
+{{ja-pron|しょくば|acc=h|acc_ref=DJR|acc2=3|acc2_ref=DJR|y=j}}
+
+===Noun===
+{{ja-noun|しょくば}}
+
+# one's place of [[work]], [[workplace]]
+# one's [[post]], one's [[job]]
+
+===References===
+<references />
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=직장}}
+
+# {{hanja form of|직장|workplace; job}}
+
+[[ko:職場]]
+[[hu:職場]]
+[[ja:職場]]
+[[zh:職場]]

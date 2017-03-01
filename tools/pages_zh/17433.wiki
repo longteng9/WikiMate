@@ -1,0 +1,98 @@
+{{character info/new}}
+{{also|柑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=44904|canj=TMD|ids=⿱甘木}}
+
+====References====
+* {{Han ref|kx=0519.010|dkj=14618|dj=0906.200|hdz=21177.040|uh=67D0|ud=26576|bh=AC59|bd=44121}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mǒu
+|c=mau5
+|h=pfs=mêu
+|mn=bó͘
+|mc=y
+|oc=y
+|ma=Zh-mou.ogg
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# a [[certain]], [[particular]] (person or thing)
+#: {{zh-x|某 年 某 月 某 日|on day '''x''', month '''y''' of year '''z'''}}
+#: {{zh-x|^某 ^科學 的 ^超 ^電磁炮|A '''Certain''' Scientific Railgun}}
+# {{lb|zh|humble|by itself}} [[I]]
+# {{n-g|Used in place of a person's given name, for anonymity purposes.}}
+#: {{zh-x|^張 ^某|a person with the surname of Zhang}}
+# {{n-g|Used in place of someone else's given name, to show dissatisfaction.}}
+# {{n-g|Used in place of one's own given name, to refer to oneself with an intensified emotion.}}
+
+===Compounds===
+{{zh-der|某乙|某些|某人|某個|某家|某日|某某|某甲|某等|某舍|查某}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=木05}}
+
+# a [[certain]] person; a certain object
+
+====Readings====
+* {{ja-readings|on=[[ぼう]] (bō), [[ばい]] (bai)|kun=[[それがし]] (soregashi)}}
+
+===Pronoun===
+{{ja-pos|pronoun|それがし}}
+
+# {{lb|ja|obsolete}} [[someone|Someone]]; [[somebody]]; a certain person.
+# {{lb|ja|obsolete}} [[I]]; [[me]]. (Used by [[samurai]].)
+#* '''1632:''' [[w:Diego Collado|Diego Collado]], ''Niffon no Cotõbani Yô Confesion'', p. 4
+#*: R. '''Sorẽgaxĩ'''ga cotòxi Deus no vòn jifino vie iòri Chriſtian ni nàri maràxitẽ gozàru iùie, ni, mãda confeſion vo mõsaĩdẽ gozàru.
+#*: ''R. Ego ex Dei miſericordia hoc anno Chriſtianus factus, nunquam confeſſionem Sacramentalem feci: vnde hæc, quam modo incipio, erit prima.''
+#*: (Having become Christian out of the mercy of God this year, I have never made sacramental confession; whence, as I am just beginning, it will be the first.)
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[모]], [[매]]|eumhun=|rv=mo, mae|mr=mo, mae|y=mo, may}}
+
+# {{defn|lang=ko|sort=木05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mỗ]], [[mấy]], [[mồi]], [[mới]], [[với]]|rs=木05}}
+
+# {{defn|lang=vi|sort=木05}}
+
+[[zh-min-nan:某]]
+[[fr:某]]
+[[ko:某]]
+[[li:某]]
+[[hu:某]]
+[[mg:某]]
+[[fj:某]]
+[[ja:某]]
+[[no:某]]
+[[pl:某]]
+[[th:某]]
+[[chr:某]]
+[[zh:某]]

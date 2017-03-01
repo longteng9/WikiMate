@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|泻}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=15|sn=18|four=33127|canj=EJHF|ids=⿰氵寫}}
+
+====References====
+* {{Han ref|kx=0658.390|dkj=18596|dj=1068.330|hdz=31780.140|uh=7009|ud=28681|bh=C26D|bd=49773}}
+
+----
+
+==Chinese==
+{{zh-forms|s=泻}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|alt1=氵|寫|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xiè
+|c=se3,se2
+|h=pfs=sia
+|md=
+|mn=sià
+|w=2xia
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[pour]] [[out]]; to [[flow]] [[rapidly]]; to [[pour]] [[down]]
+# to [[leak]]; to [[drain]] off
+# to have [[loose]] [[bowel]]s
+
+===Compounds===
+{{zh-der|一瀉千里|上吐下瀉|下瀉|倒瀉|傾瀉|吐瀉|大雨如瀉|奔瀉|崩瀉|懸河瀉水|水瀉|沖瀉|泄瀉|流瀉|淘瀉|澤瀉|瀉土|瀉底|瀉肚|瀉藥|瀉鹽|狂瀉|直瀉而下|腹瀉|銀河倒瀉}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水15}}
+
+# {{defn|lang=ja|sort=水15}}
+
+====Readings====
+* {{ja-readings|on=[[しゃ]] (sha)|kun=[[そそぐ]] (sosogu), [[はく]] (haku)|nanori=[[だか]] (daka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|eumhun=|rv=sa|mr=sa|y=sa}}
+
+# {{defn|lang=ko|sort=水15}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水15| hanviet = [[tả]], [[dã]], [[tã]]}}
+
+# {{defn|lang=vi|sort=水15}}
+
+[[fr:瀉]]
+[[ko:瀉]]
+[[hu:瀉]]
+[[ja:瀉]]
+[[pl:瀉]]
+[[th:瀉]]
+[[zh:瀉]]

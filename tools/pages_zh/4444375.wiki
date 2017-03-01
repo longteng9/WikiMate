@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=āgē
+|c=aa3 go1
+|mn=a-ko
+|w=4aq ku
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|chiefly|Cantonese|Min|Wu}} [[elder brother]]
+
+===Etymology 2===
+{{bor|zh|mnc|ᠠᡤᡝ|tr=age||elder brother}}. Entered Chinese during the Manchu-ruled {{w|Qing Dynasty}}.
+
+====Pronunciation====
+{{zh-pron
+|m=àge
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|Manchu term of address}} [[son]]
+# {{n-g|Title of a Manchu emperor's son not yet of age.}}
+
+{{zh-cat|Family}}
+
+[[zh-min-nan:阿哥]]
+[[vi:阿哥]]
+[[zh:阿哥]]

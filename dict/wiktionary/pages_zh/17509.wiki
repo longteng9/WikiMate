@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=06|sn=10|four=48914|canj=DOMG|ids=⿰木全}}
+
+====References====
+* {{Han ref|kx=0521.140|dkj=14689|dj=0910.080|hdz=21202.020|uh=6813|ud=26643|bh=AEEA|bd=44778}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|t1=wood|全|ls=psc|c1=s|c2=p}} – a wooden peg.
+
+===Pronunciation===
+{{zh-pron
+|m=shuān
+|c=saan1
+|mn=qz,xm,zz:soan/qz,tw,xm:sng/zz:suiⁿ
+|mn_note=soan - literary; sng/suiⁿ - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[wooden]] [[peg]], [[post]] or [[stick]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=木06}}
+
+# {{defn|lang=ja|sort=木06}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen)|kun=[[せんのき]] (sennoki)}}
+
+====Compounds====
+* {{ja-r|コルク栓|コルク せん}}: [[cork]] (bottle stopper)
+* {{ja-r|消火栓|しょうかせん}}: (firefighting) [[fire hydrant]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|eumhun=|rv=jeon|mr=chŏn|y=cen}}
+
+# {{defn|lang=ko|sort=木06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thoen]], [[thuyên]], [[xuyên]]|rs=木06}}
+
+# {{defn|lang=vi|sort=木06}}
+
+[[fr:栓]]
+[[lo:栓]]
+[[hu:栓]]
+[[mg:栓]]
+[[ja:栓]]
+[[no:栓]]
+[[pl:栓]]
+[[th:栓]]
+[[zh:栓]]

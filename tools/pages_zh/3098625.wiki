@@ -1,0 +1,64 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiānnǚ
+|c=sin1 neoi5-2
+|mn=qz:sian-lír/tp,xm:sian-lú/kh,zz:sian-lí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[fairy]], [[celestial]] [[maiden]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|せん|にょ|yomi=o}}
+From {{etyl|zhx|ja}} {{m|zh|仙女}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|せんにょ|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|せんにょ}}
+
+# a [[nymph]]
+# a [[fay]]; a [[fairy]] or [[female]] [[elf]]
+# a [[female]] [[sage]]
+
+=====Synonyms=====
+* {{sense|nymph}} {{ja-r|ニンフ}}
+* {{sense|fairy}} {{ja-r|妖精|ようせい}}
+
+=====See also=====
+* {{pedialite|lang=ja}}
+
+===Etymology 2===
+{{ja-kanjitab|せん|じょ|yomi=o}}
+From {{etyl|zhx|ja}} {{m|zh|仙女}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|せんじょ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|せんじょ|hhira=せんぢよ}}
+
+# a [[nymph]]
+# a [[fay]]; a [[fairy]] or [[female]] [[elf]]
+# a [[female]] [[sage]]
+
+===References===
+<references/>
+
+[[zh-min-nan:仙女]]
+[[hu:仙女]]
+[[ja:仙女]]
+[[pt:仙女]]
+[[uk:仙女]]
+[[zh:仙女]]

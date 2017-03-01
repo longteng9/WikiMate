@@ -1,0 +1,50 @@
+{{also|透过}}
+==Chinese==
+{{zh-forms|s=透过}}
+
+===Pronunciation===
+{{zh-pron
+|m=tòuguò
+|c=tau3 gwo3
+|cat=v,prep
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[permeate]], to [[go through]], to [[reach]] through
+
+===Preposition===
+{{zh-prep}}
+
+# [[through]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|か|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|とうか|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうか}}
+
+# [[penetration]] of light, radiation, liquid, etc.
+
+===Verb===
+{{ja-verb-suru|tr=intrans|とうか}}
+
+# to [[penetrate]]
+#: {{ja-usex|紫外線は衣服を透過する|しがいせん は いふく を とうか する|ultraviolet rays penetrate clothing}}
+
+====Conjugation====
+{{ja-suru|とうか}}
+
+===References===
+<references/>
+
+[[zh-min-nan:透過]]
+[[ko:透過]]
+[[mg:透過]]
+[[zh:透過]]

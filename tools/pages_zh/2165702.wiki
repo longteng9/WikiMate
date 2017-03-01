@@ -1,0 +1,53 @@
+{{also|玛瑙}}
+==Chinese==
+{{zh-forms|s=玛瑙}}
+
+===Etymology===
+From earlier {{zh-l|*馬腦|tr=mǎnǎo|horse's brain}}, a literal translation of {{der|zh|sa|अश्मगर्भ||emerald [horse + kernel]}} (transcription: {{zh-l|*阿濕嚩揭波}}).
+
+Compare {{cog|bo|རྟ་ཀླད||agate [horse + brain]}}, said to be a Chinese calque, which is later semantically regularised into {{m|bo|རྡོ་ཀླད||agate [stone + brain]}}.
+
+===Pronunciation===
+{{zh-pron
+|m=mǎnǎo
+|c=maa5 nou5
+|h=pfs=mâ-nó
+|md=mā-nō̤
+|mn=xm:má-ló/qz:má-nó͘/qz,tw:bé-ló/zz:bée-ló
+|w=3mo nau
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|mineral}} [[agate]]
+
+====Derived terms====
+{{zh-der|縞瑪瑙|紅瑪瑙|瑪瑙紋}}
+
+{{zh-cat|Gems}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|め|のう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=goon|めのう|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR|acc3=2|acc3_ref=DJR}}
+
+===Noun===
+{{ja-noun|めのう|hhira=めなう}}
+
+# {{lb|ja|mineral|sort=めのう}} [[agate]]
+
+====Derived terms====
+* {{ja-r|縞瑪瑙|しまめのう}}
+
+===References===
+<references/>
+
+[[Category:ja:Gems|めのう]]
+
+[[hu:瑪瑙]]
+[[mg:瑪瑙]]

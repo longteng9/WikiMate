@@ -1,0 +1,141 @@
+{{character info/new}}
+{{also|禅}}
+==Translingual==
+{| class="floatright" border=1 cellpadding="5" cellspacing="0"
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Simplified Chinese|Simplified]]'''
+|<span class="Hans" lang="zh-hans" style="font-size: 175%">[[禅]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Traditional Chinese|Traditional]]'''
+|<span class="Hant" lang="zh-hant" style="font-size: 175%">[[禪]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Japanese]]'''
+|<span class="Jpan" lang="jp" style="font-size: 175%">[[禅]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Korean]]'''
+|<span class="Ko" lang="ko" style="font-size: 175%">[[禅]]</span>
+|}
+
+===Han character===
+{{Han char|rn=113|rad=示|as=12|sn=17|four=36256|canj=IFRRJ|ids=⿰礻單}}
+
+====Descendants====
+* [[禅]] – note difference in simplified Chinese {{lang|und|sc=Hans|禅}} and Japanese shinjitai {{lang|ja|禅}}.
+
+====References====
+* {{Han ref|kx=0846.360|dkj=24835|dj=1267.260|hdz=42408.100|uh=79AA|ud=31146|bh=C149|bd=49481}}
+
+----
+
+==Chinese==
+{{zh-forms|s=禅}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|示|單|ls=psc|c1=s|c2=p}}.
+
+===Etymology 1===
+Short for {{zh-l|*禪那}}, which is a phonetic borrowing from {{bor|zh|sa|ध्यान||[[dhyana]]|notext=1}}.
+
+====Pronunciation====
+{{zh-pron
+|m=chán
+|c=sim4,sin4
+|c_note=sim4 - from [[dissimilation]] of initial and coda. Compare {{zh-l|*蟬}}
+|mn=siân/siān
+|w=3zoe
+|mc=1
+|oc=n,1
+|cat=n,a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Buddhism}} [[dhyana]]; [[deep]] [[meditation]]; [[contemplation]]
+# [[Buddhist]] [[doctrine]]; Buddhist [[teaching]]s
+# relating to [[Buddhism]]; [[Buddhist]]; [[thoughtful]]; [[philosophical]]
+
+====Compounds====
+{{zh-der|fold=1|口頭禪|一味禪|坐禪|悟禪|安禪|四禪八定|參禪|牛頭禪|禪室|禪數|禪客|禪杖|禪七|禪寂|禪那|禪堂|禪宗|禪關|禪門五宗|禪詩|禪號|禪房|禪悅|禪心|禪師|禪寺|禪定|禪宗七祖|禪和子|禪味|禪林|禪學|看話禪|打禪七|打禪|禪床|班禪喇嘛|班禪|禪機|禪椅|枯禪|面壁坐禪|野狐禪|默照禪}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=shàn
+|c=sin6
+|w=3zoe
+|mc=2
+|oc=1,2
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[worship]] ([[nature]])
+# to [[abdicate]]
+# to [[hand over]]
+# to [[inherit]]
+
+====Compounds====
+{{zh-der|fold=1|受禪|封禪|禪位|禪讓}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+{| class="floatright" border=1 cellpadding="5" cellspacing="0"
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[shinjitai]]'''
+|<span class="Jpan" lang="ja" style="font-size: 175%">[[禅]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[kyūjitai]]'''
+|<span class="Jpan" lang="ja" style="font-size: 175%">[[禪]]</span>
+|}
+===Kanji===
+{{ja-kanji|grade=|rs=示12|style=ky|shin=禅}}
+
+# {{defn|lang=ja|sort=示12}}
+
+====Readings====
+* {{ja-readings|on=[[ぜん]] (zen), [[せん]] (sen)|kun=[[ゆずる]] (yuzuru), [[しずか]] (shizuka)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=선|eumhun=|rv=seon|mr=sŏn|y=sen}}
+
+# {{defn|lang=ko|sort=示12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thiền]], [[thiện]], [[xèng]]|rs=示12}}
+
+# {{defn|lang=vi|sort=示12}}
+
+[[zh-min-nan:禪]]
+[[fr:禪]]
+[[ko:禪]]
+[[hu:禪]]
+[[mg:禪]]
+[[ms:禪]]
+[[ja:禪]]
+[[pl:禪]]
+[[th:禪]]
+[[vi:禪]]
+[[zh:禪]]

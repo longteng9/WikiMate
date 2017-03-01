@@ -1,0 +1,9 @@
+==Japanese==
+{{ja-kanjitab|半|正|定|値|行|列}}
+
+===Noun===
+{{ja-noun|はんせいていち ぎょうれつ}}
+
+# {{lb|ja|linear algebra}} [[positive-semidefinite matrix]]
+
+[[Category:ja:Linear algebra|はんせいていちぎょうれつ]]

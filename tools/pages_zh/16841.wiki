@@ -1,0 +1,53 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=69|rad=斤|as=04|sn=8|four=|canj=HLHML|ids=⿰斤斤}}
+
+# [[two]] [[catty]] (about [[one]] [[kilogram]])
+
+====Descendants====
+* [[質]]
+
+====References====
+* {{Han ref|kx=0479.070|dkj=13538|dj=0838.030|hdz=32023.090|uh=65A6|ud=26022}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|斤|斤|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yín
+|c=ngan4,an4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 121]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=斤04}}
+
+# {{defn|lang=ja|sort=斤04}}
+
+====Readings====
+* {{ja-readings|on=[[ぎん]] (gin), [[ごん]] (gon), [[しつ]] (shitsu), [[しち]] (shichi)|kun=[[あきらか]] (akiraka)}}
+
+[[fr:斦]]
+[[hu:斦]]
+[[pl:斦]]
+[[th:斦]]
+[[zh:斦]]

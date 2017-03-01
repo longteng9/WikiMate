@@ -1,0 +1,74 @@
+{{also|公开}}
+==Chinese==
+{{zh-forms|s=公开}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=gōngkāi
+|c=gung1 hoi1
+|h=pfs=kûng-khôi
+|md=gŭng-kăi
+|mn=kong-khai
+|w=1kon khe
+|cat=a,v
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[open]]; [[public]]
+
+=====Antonyms=====
+* {{zh-l|秘密}}
+
+=====Derived terms=====
+{{zh-der|公開化|公開賽|公開信|首次公開募股|首次公開發行}}
+
+====Verb====
+{{zh-verb}}
+
+# to make [[public]]
+
+====Descendants====
+{{CJKV||こうかい|공개|công khai}}
+
+===Pronunciation 2===
+{{zh-pron
+|mn=kong-khui
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|Min Nan}} to [[share]] [[cost]]s
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|かい|yomi=on}}
+
+===Noun===
+{{ja-noun|こうかい|hhira=こうくわい}}
+
+# [[opening]], release, [[exhibition]]
+# [[disclosure]], [[exposure]]
+
+===Verb===
+{{ja-verb-suru|こうかい|hhira=こうくわい}}
+
+# to [[open]] to the public, to [[release]], to [[put]] on [[exhibit]]
+# to [[disclose]], to [[expose]]
+
+====Conjugation====
+{{ja-suru|こうかい}}
+
+[[zh-min-nan:公開]]
+[[ko:公開]]
+[[lo:公開]]
+[[hu:公開]]
+[[mg:公開]]
+[[ja:公開]]
+[[zh:公開]]

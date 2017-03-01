@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=|canj=PTD|ids=⿱世木}}
+
+# a [[table]]
+# [[flat]] [[piece]]s of [[wood]]
+# a [[slip]]
+# a [[leaf]]
+
+====Derived terms====
+* {{l|mul|牒}}, {{l|mul|葉}}, {{l|mul|喋}}, {{l|mul|蝶}}, {{l|mul|碟}}, {{l|mul|諜}}, {{l|mul|䐑}}, {{l|mul|䈎}}, {{l|mul|韘}}, {{l|mul|褋}}, {{l|mul|𧝵}}, {{l|mul|屟}}, {{l|mul|渫}}, {{l|mul|鰈}}, {{l|mul|揲}}, {{l|mul|媟}}, {{l|mul|偞}}, {{l|mul|楪}}, {{l|mul|殜}}, {{l|mul|煠}}, {{l|mul|鍱}}, {{l|mul|惵}}, {{l|mul|堞}}, {{l|mul|艓}}, {{l|mul|蹀}}
+
+====References====
+* {{Han ref|kx=0517.170|dkj=14593|hdz=21178.010|uh=67BC|ud=26556}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=枽}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|世|木|c1=p|c2=s|t2=wood|ls=psc}} {{attention|zh|This etymology is incorrect, can we instead use the etymology found on the French version of this page?}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yè
+|c=jip6
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# a [[table]]
+# [[flat]] [[piece]]s of [[wood]]
+# a [[slip]]
+# a [[leaf]]
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 126]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木05}}
+
+# [[table]]
+# flat pieces of wood
+# [[slip]]
+# [[leaf]]
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō)|kun=[[うすいきふだ]] (usuikifuda), [[まど]] (mado)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=엽|rv=yeop|mr=yŏp}}
+
+# [[table]]
+# flat pieces of wood
+# [[slip]]
+# [[leaf]]
+
+[[fr:枼]]
+[[hu:枼]]
+[[mg:枼]]
+[[pl:枼]]
+[[th:枼]]
+[[vi:枼]]
+[[zh:枼]]

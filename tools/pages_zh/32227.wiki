@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|鲫}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=07|sn=20|four=27320|canj=NFAIL|ids=⿰魚即}}
+
+# ''[[Carassius auratus]]'', [[crucian carp]]
+
+====References====
+* {{Han ref|kx=1474.060|dkj=46304|dj=2006.060|hdz=74693.100|uh=9BFD}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鲫}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jì
+|c=zik1,zak1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|海鯽|老鯽溜|鯽溜|鯽魚|過江之鯽|花鯽|鯽跳|鯽瓜兒}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚07}}
+
+# {{defn|lang=ja|sort=魚07}}
+
+====Readings====
+* {{ja-readings|on=[[せき]] (seki), [[しゃく]] (shaku), [[しょく]] (shoku), [[そく]] (soku), [[ぞく]] (zoku)|kun=[[ふな]] (funa)}}
+
+{{ja-kanjitab|ふな|yomi=k}}
+
+===Noun===
+{{ja-noun|ふな|フナ}}
+
+# {{alternative spelling of|鮒|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=즉|eumhun=|rv=jeuk|mr=chŭk|y=cuk}}
+
+# ''[[Carassius auratus]]'', [[crucian carp]]
+
+===Hanja===
+{{ko-hanja|hangeul=적|eumhun=|rv=jeok|mr=chŏk|y=cek}}
+
+# certain kind of [[squid]] or [[cuttlefish]]
+
+[[fr:鯽]]
+[[hu:鯽]]
+[[mg:鯽]]
+[[pl:鯽]]
+[[th:鯽]]
+[[zh:鯽]]

@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|霑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=05|sn=8|four=31160|canj=EYR|ids=⿰氵占}}
+
+# [[moisten]], [[wet]], [[soak]]
+# to [[touch]]
+
+====References====
+* {{Han ref|kx=0614.120|dkj=17259|dj=1008.030|hdz=31583.060|uh=6CBE|ud=27838|bh=AA67|bd=43623}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhān,tiān
+|c=zim1,tip3
+|h=pfs=
+|md=
+|mn=qz,xm,zz:tiam/qz,xm,zz:chiam/qz,tw,xm,zz:cham
+|mn_note=tiam/chiam - literary, cham - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水05}}
+
+# {{defn|lang=ja|sort=水05}}
+
+====Readings====
+* {{ja-readings|on=[[てん]] (ten)|kun=[[うるおう]] (uruou)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=첨|eumhun=|rv=cheom|mr=ch'ŏm|y=chem}}
+
+# {{defn|lang=ko|sort=水05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chăm]], [[trèm]], [[triêm]], [[chem]], [[thêm]]|rs=水05}}
+
+# {{defn|lang=vi|sort=水05}}
+
+[[fr:沾]]
+[[hu:沾]]
+[[mg:沾]]
+[[ja:沾]]
+[[no:沾]]
+[[pl:沾]]
+[[th:沾]]
+[[zh:沾]]

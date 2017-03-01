@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|黃|黄}}
+==Translingual==
+
+===Etymology===
+{{liushu|p}} – blocks of wood
+
+===Han character===
+{{Han char|rn=13|rad=冂|as=08|sn=10|four=55557|canj=TTGB|ids=⿱井再,⿱𠀎冉}}
+
+# a [[secluded]] [[place]]
+# [[secret]] [[cabinet]]
+
+====Derived terms====
+* {{l|mul|構}}, {{l|mul|篝}}, {{l|mul|溝}}, {{l|mul|媾}}, {{l|mul|遘}}, {{l|mul|講}}, {{l|mul|購}}, {{l|mul|覯}}, {{l|mul|斠}}, {{l|mul|鞲}}, {{l|mul|遘}}, {{l|mul|韝}}
+
+====Descendants====
+* [[勾]] {{qualifier|simplification is compounds, such as [[沟]], from [[溝]], and [[购]], from [[購]]}}
+
+====See also====
+* {{l|mul|再}}, {{l|mul|爯}} <!-- maybe related? -->
+* {{l|mul|黃}}, {{l|mul|黄}} <!-- graphically similar -->
+
+====References====
+* {{Han ref|kx=0129.250|dkj=01540|dj=0291.160|hdz=10100.170|uh=5193|ud=20883|bh=D0E0|bd=53472}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gòu,gōu
+|c=gau3
+|mn=
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=冂08}}
+
+# {{defn|lang=ja|sort=冂08}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[かまえる]] (kamaeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|rv=gu|mr=ku}}
+
+# {{defn|lang=ko|sort=冂08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''冓''' ([[cấu]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:冓]]
+[[li:冓]]
+[[hu:冓]]
+[[ja:冓]]
+[[pl:冓]]
+[[th:冓]]
+[[zh:冓]]

@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shítián
+|c=sek6 tin4
+|h=pfs=sa̍k-thièn
+|cat=n,pn
+}}
+
+===Etymology 1===
+Literally "stone field".
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[uncultivable]] [[land]]
+# {{lb|zh|literary|figurative}} [[useless]] [[thing]]
+
+===Etymology 2===
+From {{der|zh|ja|石田|tr=Ishida}}.
+
+====Proper noun====
+{{zh-proper noun}}
+
+# {{surname|lang=zh|Japanese|dot=:}} [[Ishida]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|いし|だ}}
+
+===Proper noun===
+{{ja-pos|proper|いしだ}}
+
+# {{surname|lang=ja|sort=いしだ}}
+
+[[fr:石田]]
+[[ko:石田]]
+[[zh:石田]]

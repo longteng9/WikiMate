@@ -1,0 +1,50 @@
+{{also|本书}}
+==Chinese==
+{{zh-forms|s=本书}}
+
+===Pronunciation===
+{{zh-pron
+|m=běnshū
+|c=bun2 syu1
+|h=pfs=pún-sû
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# this [[book]]
+# [[original]] [[book]]; original work
+# book of [[genealogy]]
+
+====See also====
+* {{qualifier|not to be confused with}} {{zh-l|書本}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほん|しょ|yomi=on}}
+
+===Etymology===
+May be from {{etyl|ltc|ja|sort=ほんしょ}} compound {{m|zh|本書|tr=pwon<sup>X</sup> syo|lit=trunk; main + writing}}.  Compare modern {{etyl|cmn|-}} reading ''běnshū'', {{etyl|yue|-}} ''bun<sup>2</sup> syu<sup>1</sup>'', {{etyl|hak|-}} ''pún-sû''.
+
+Alternatively, may have been composed in Japan of {{etyl|ltc|-}}-derived components, as a compound of {{m|ja|本|tr=hon||main; this}} + {{m|ja|書|tr=sho||writing; document; book}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|ほんしょ|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ほんしょ}}
+
+# the [[main]] [[text]] {{qualifier|as opposed to [[appendix|appendices]] etc.}}
+# an [[official]] [[document]] {{qualifier|as opposed to a [[draft]]}}
+# an [[original]] document {{qualifier|as opposed to a [[copy]]}}
+# a [[core]] document {{qualifier|as for a school of thought or religion}}
+# [[this]] [[document]], this [[text]], this [[book]] {{qualifier|as previously mentioned in the current context}}
+
+===References===
+<references/>
+
+[[hu:本書]]
+[[mg:本書]]
+[[chr:本書]]

@@ -1,0 +1,123 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=10|sn=14|four=00227|canj=YRBB}}
+
+====References====
+* {{Han ref|kx=0992.010|dkj=29800|dj=1444.040|hdz=32103.080|uh=818F|ud=33167|bh=BB49|bd=47945}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|高|肉|c1=p|c2=s|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gāo
+|c=gou1
+|h=pfs=kò
+|md=
+|mn=ko/kō
+|w=
+|mc=y
+|oc=y
+|cat=n,a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[fat]], [[grease]], [[oil]]
+# [[paste]], [[cream]], [[ointment]]
+# [[sleek]]
+# [[oily]], [[rich]]
+
+===Pronunciation===
+{{zh-pron
+|m=gào
+|c=gou3
+|h=pfs=kò
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[moisten]], to [[grease]], to [[lubricate]]
+# to [[apply]] (cream, ointment)
+# to [[dip]] a brush in ink
+
+====Compounds====
+{{zh-der|狗皮膏|少林風濕跌打膏|膏藥|阿魏化痞膏|二冬膏|刺五加浸膏}}
+
+===References===
+* {{R:cedict}}
+* {{cite-book|last=McNaughton|first=William|year=2005
+|title=Reading & Writing Chinese: Simplified Character Edition|publisher=Tuttle|isbn=978-0804835091
+|page=22|edition=2nd Edition
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉10}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (''kō'')|kun=[[あぶら]] (''abura'')}}
+
+====Compounds====
+* {{ja-r|亜鉛華軟膏|あえんかなんこう}}
+* {{ja-r|按摩膏|あんまこう}}
+* {{ja-r|内股膏薬|うちまたこうやく}}, {{ja-r|内股膏薬|うちまたごうやく}}
+* {{ja-r|眼軟膏|がんなんこう}}
+* {{ja-r|膏血|こうけつ}}
+* {{ja-r|膏肓|こうこう}}
+* {{ja-r|膏薬|こうやく}}
+* {{ja-r|石膏|せっこう}}
+* {{ja-r|石膏像|せっこうぞう}}
+* {{ja-r|軟膏|なんこう}}
+* {{ja-r|絆創膏|ばんそうこう}}
+* {{ja-r|二股膏薬|ふたまたこうやく}}
+
+===Noun===
+{{ja-noun|あぶら}}
+
+# [[oil]]
+
+====Synonyms====
+* {{l|ja|油}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|eumhun=|mr=ko|y=ko}}
+
+# {{defn|lang=ko|sort=肉10}}
+
+[[zh-min-nan:膏]]
+[[fr:膏]]
+[[ko:膏]]
+[[it:膏]]
+[[hu:膏]]
+[[mg:膏]]
+[[ja:膏]]
+[[no:膏]]
+[[pl:膏]]
+[[pt:膏]]
+[[th:膏]]
+[[vi:膏]]
+[[zh:膏]]

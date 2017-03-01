@@ -1,0 +1,36 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Mon (emblem)}}
+{| style="float:right;clear:right;padding:0px;margin-right:-5px;"
+|+ {{lang|ja|家紋}} (''kamon''): Various kinds of '''[[w:Mon (emblem)|mon]]''' or '''family crest'''.
+| [[File:Imperial_Seal_of_Japan.svg|thumb|none|119px|[[imperial|Imperial]] family crest and [[seal]] of Japan.]]
+| [[File:Japanese_crest_Tokugawa_Aoi.svg|thumb|none|119px|Family crest of the [[w:Tokugawa|Tokugawa]] clan.<br/>&nbsp;]]
+|-
+| [[File:Japanese_Crest_Go_Ka.svg|thumb|none|119px|Family crest of the [[w:Oda Nobunaga|Oda]] clan.<br/>&nbsp;]]
+| [[File:Japanese crest Tachi Omodaka.svg|thumb|none|119px|Family crest depicting an upright [[arrowhead]] leaf.]]
+|}
+</div>
+{{ja-kanjitab|か|もん|yomi=on}}
+
+===Etymology===
+The reading is a [[漢音#Japanese|''kan'on'']]-[[呉音#Japanese|''goon'']] combination, suggesting that this term was probably coined in Japan of {{etyl|ltc|ja|sort=かもん}}-derived elements as a compound of {{compound|lang=ja|sort=かもん|家|tr1=ka|t1=house, family, household|紋|tr2=mon|t2=mark, design, pattern}}.
+
+===Pronunciation===
+{{ja-pron|yomi=on|acc=0|acc_ref=DJR|かもん}}
+
+===Noun===
+{{ja-noun|かもん}}
+
+# a [[crest]] for a [[household]] or [[family]]
+#: Similar to the [[heraldic]] [[badge]]s and [[coat of arms|coats of arms]] in European [[heraldic]] tradition. Initially held only by [[aristocratic]] families, then gradually adapted by [[commoner]]s.
+
+====Synonyms====
+* {{ja-r|紋所|もんどころ}}
+* {{ja-r|定紋|じょうもん}}
+
+===References===
+<references/>
+
+[[hu:家紋]]
+[[zh:家紋]]

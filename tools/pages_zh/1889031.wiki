@@ -1,0 +1,39 @@
+{{also|韩文}}
+==Chinese==
+{{zh-forms|s=韩文}}
+
+===Pronunciation===
+{{zh-pron
+|m=hánwén
+|c=hon4 man4-2
+|h=pfs=Hòn-vûn
+|mn=Hân-bûn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# the [[Korean]] language
+# [[Hangeul]] {{gloss|Korean phonetic script}}
+
+====Synonyms====
+* {{zh-l|韓國語}}
+* {{zh-l|韓語}}
+* {{zh-l|朝鮮語}}
+
+{{zh-cat|Languages}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=언문}}
+
+# {{hanja form of|언문|the [[Korean]] [[alphabet]], [[hangeul]]}}
+
+[[ko:韓文]]
+[[mg:韓文]]
+[[zh:韓文]]

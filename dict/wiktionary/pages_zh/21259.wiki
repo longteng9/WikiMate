@@ -1,0 +1,97 @@
+{{character info/new}}
+{{also|癥}}
+==Translingual==
+
+===Etymology===
+{{Han simp|癥|f=徵|t=正}}.
+
+In current form, {{Han compound|疒|t1=disease|正|ls=psc|c1=s|c2=p}} – a kind of disease.
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=05|sn=10|four=00111|canj=KMYM|ids=⿸疒正}}
+
+# [[disease]], [[illness]], [[ailment]]
+
+====References====
+* {{Han ref|kx=0772.111|dkj=22140|dj=1183.010|hdz=42664.050|uh=75C7|ud=30151|bh=AF67|bd=44903}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=zhèng
+|c=zing3
+|mn=chèng
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+=====Compounds=====
+{{zh-der|不孕症|不治之症|不足之症|中懣之症|乾眼症|併發症|侏儒症|偏執症|健忘症|光敏症|克來汀症|冷感症|厭食症|合併症|合指症|呆小症|唐氏症|嗜睡症|嗝症|嚥氣症|塵肺症|多指症|夜尿症|夜盲症|夜驚症|夢行症|夢遊症|大症|失憶症|失語症|妄想症|寒症|實症|對症|對症下藥|尿毒症|崩症|川崎症|巨人症|巨脾症|平足症|後遺症|急症|怯症|恐慌症|恐懼症|恐變症|感染症|憂鬱症|懼高症|敗血症|時症|死症|氮血症|水俁症|流涎症|流行症|消渴症|火症|炎症|無尿症|熱症|狹心症|疑難雜症|病症|症候|症候群|症狀|痰症|痴呆症|癇症|癌症|白化症|石棉症|矽肺症|磨耗症|禿髮症|空調症|絕症|缺氧症|聾啞症|肝硬化症|肥胖症|肺塵矽症|腕隧道症|自閉症|舊症|舞蹈症|菌血症|蒙古症|虛症|蛔蟲症|蠶豆症|躁鬱症|遺忘症|酮體症|險症|隱睪症|雜症|頑症|飛蚊症|高氏症|高血糖症|鬱症}}
+
+===Etymology 2===
+{{zh-see|癥}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=疒05}}
+
+====Readings====
+{{ja-readings
+|goon=[[しょう]] (shō)
+|kanon=[[しょう]] (shō)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|脳症|のうしょう}}: [[encephalopathy]]
+{{der-bottom}}
+
+===Suffix===
+{{ja-pos|suffix|しょう}}
+
+# {{lb|ja|medicine|sort=しょう}} [[illness]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=증|eumhun=|rv=jeung|mr=chŭng|y=cung}}
+
+# {{defn|lang=ko|sort=疒05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chứng]]|rs=疒05}}
+
+# {{defn|lang=vi|sort=疒05}}
+
+[[zh-min-nan:症]]
+[[fr:症]]
+[[ko:症]]
+[[hu:症]]
+[[mg:症]]
+[[fj:症]]
+[[ja:症]]
+[[no:症]]
+[[pl:症]]
+[[th:症]]
+[[chr:症]]
+[[zh:症]]

@@ -1,0 +1,70 @@
+{{also|性别}}
+==Chinese==
+{{zh-forms|s=性别}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=xìngbié
+|c=sing3 bit6
+|h=pfs=sin-phe̍t
+|md=séng-biék
+|mn=sèng-pia̍t
+|w=2xin biq
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[sex]]; [[gender]]
+#: {{zh-x|我 不 能 從 中文 名 中 看 出{chu} 性別。|I can't differentiate '''gender''' in Chinese names.}}
+#: {{zh-x|愛情 不分 性別。|Love is love, regardless of gender.}}
+
+====Derived terms====
+{{zh-der|性別不安症|性別認同|性別研究|性別歧視}}
+
+{{zh-cat|Intermediate|Biology}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|せい|べつ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|せいべつ|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|せいべつ}}
+
+# [[sex]], [[gender]]
+
+====Derived terms====
+* {{ja-r|性別違和|せいべつ いわ|[[gender dysphoria]]}}
+* {{ja-r|性別役割分業|せいべつ やくわり ぶんぎょう}}
+
+====See also====
+* {{ja-r|男性|だんせい|[[male]]}}
+* {{ja-r|女性|じょせい|[[female]]}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=성별}}
+
+# {{hanja form of|성별|[[sex]], [[gender]]}}
+
+[[zh-min-nan:性別]]
+[[ko:性別]]
+[[hu:性別]]
+[[mg:性別]]
+[[ja:性別]]
+[[zh:性別]]

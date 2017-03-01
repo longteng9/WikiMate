@@ -1,0 +1,57 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=06|sn=9|four=54027|canj=QKSS|ids=⿰扌劦}}
+
+# to [[break]], [[snap]]
+# to [[twist]]
+# [[destroy]]
+
+====References====
+* {{Han ref|kx=0428.190|dkj=12009|dj=0777.130|hdz=31877.010|uh=62F9|ud=25337|bh=CEDB|bd=52955}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xié
+|c=hip3
+|mn=hia̍p
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* [http://yedict.com/htm/62/62F9.htm yedict.com (叶典)]
+* (''Min Nan'') {{thcwd|4994}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|hiệp|rs=手06}}
+
+# {{defn|lang=vi|sort=手06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=62f9 Nom Foundation]
+
+[[fr:拹]]
+[[pl:拹]]
+[[th:拹]]
+[[zh:拹]]

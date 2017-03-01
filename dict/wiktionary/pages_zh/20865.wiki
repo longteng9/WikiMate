@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=96|rad=玉|as=09|sn=13|four=11331|canj=MGPH}}
+
+# an ancient stringed musical instrument (long [[zither]])
+# [[dignified]], [[massive]]
+# sound of [[wind]]
+
+====References====
+* {{Han ref|kx=0738.110|dkj=21133|dj=1149.020|hdz=21125.050|uh=745F|ud=29791|bh=B7E6|bd=47078}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=sè
+|c=sat1
+|h=pfs=sit
+|md=
+|mn=sit/qz:siak/tw,xm,zz:sek
+|mn_note=siak,sek - vernacular; sit - literary
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+{{zh-cat|Musical instruments}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=玉09}}
+
+# {{defn|lang=ja|sort=玉09}}
+
+====Readings====
+* {{ja-readings|on=[[しつ]] (shitsu)|kun=[[おおごと]] (oogoto)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=슬|eumhun=|rv=seul|mr=sŭl|y=sul}}
+
+# {{defn|lang=ko|sort=玉09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sắt]]|rs=玉09}}
+
+# {{defn|lang=vi|sort=玉09}}
+
+[[fr:瑟]]
+[[hu:瑟]]
+[[mg:瑟]]
+[[ja:瑟]]
+[[no:瑟]]
+[[pl:瑟]]
+[[th:瑟]]
+[[zh:瑟]]

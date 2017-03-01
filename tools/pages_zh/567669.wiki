@@ -1,0 +1,44 @@
+{{also|龃龉}}
+==Chinese==
+{{zh-forms|s=龃龉}}
+
+===Pronunciation===
+{{zh-pron
+|m=jǔyǔ
+|c=zeoi2 jyu5
+|mc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[irregular]] [[teeth]]; [[unaligned]] teeth
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to have [[discord]]; to [[disagree]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|そ|ご|yomi=o}}
+
+===Noun===
+{{ja-noun|そご|style=ky|shin=𪗱𪘚}}
+
+# [[inconsistency]], [[discrepancy]], [[disagreement]]
+# [[going wrong]]
+
+===Verb===
+{{ja-verb-suru|そご|style=ky|shin=𪗱𪘚}}
+
+# be [[inconsistent]], be [[discrepant]], [[disagree]]
+# [[go wrong]]
+
+====Conjugation====
+{{ja-suru|そご}}
+
+[[ko:齟齬]]
+[[ja:齟齬]]

@@ -1,0 +1,23 @@
+==Japanese==
+
+===Etymology===
+{{ja-kanjitab|あま|てらす|yomi=k}}
+From {{etyl|ojp|ja|sort=あまてらす}}. Compound of {{compound|lang=ja|sort=あまてらす|天|tr1=ama|t1=sky, the heavens|照らす|tr2=terasu|t2=to illuminate something}}.
+
+===Proper noun===
+[[File:Amaterasu cave edit2.jpg|thumb|350 px|The Sun goddess emerging out of a cave, bringing sunlight back to the universe]]
+{{ja-pos|proper|あまてらす|アマテラス}}
+
+# {{lb|ja|Japanese mythology|Shinto|sort=あまてらす}} [[Amaterasu]], the [[Japanese]] [[sun]] [[goddess]]
+# {{lb|ja|poetic|sort=あまてらす}} the [[Sun]]
+
+====Derived terms====
+* {{l|ja|天照大神}}, {{l|ja|天照大御神|tr=[[あまてらすおおみかみ]], ''[[Amaterasu ōmikami]]''}}: The [[great]] [[goddess]] [[Amaterasu]].
+
+====See also====
+* {{pedialite|lang=ja}}
+* {{pedialite|Amaterasu}}
+* {{l|ja|月読|tr=[[つくよみ]], ''[[Tsukuyomi]]''}}: [[Tsukuyomi]], the Japanese moon god.
+* {{l|ja|須佐之男|tr=[[すさのお]], ''[[Susanoo]]''}}: [[Susanoo]], the Japanese storm god.
+* {{l|ja|伊邪那岐}}, {{l|ja|伊弉諾|tr=[[いざなぎ]], ''[[Izanagi]]''}}: [[Izanagi]], the [[father]] of [[Amaterasu]], [[Tsukuyomi]], and [[Susanoo]].
+{{catlangcode|ja|Gods|Japanese mythology|sort=あまてらす}}

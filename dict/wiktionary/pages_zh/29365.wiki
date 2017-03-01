@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|钲}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=05|sn=13|four=81111|canj=CMYM}}
+
+# kind of gong used in ancient times by troops on the march
+
+====References====
+* {{Han ref|kx=1303.030|dkj=40322|dj=1804.060|hdz=64182.030|uh=9266|ud=37478|bh=E0B2|bd=57522}}
+
+----
+
+==Chinese==
+{{zh-forms|s=钲}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhēng
+|c=zing1,zing3
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|金鉦|鉦鼓}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金05}}
+
+# a [[gong]]
+
+====Readings====
+{{ja-readings
+|goon=[[しょう]] (shō)
+|kanon=[[せい]] (sei)
+|kun=[[かね]] (kane)
+}}
+
+===Noun===
+{{ja-noun|どら}}
+
+# {{alternative spelling of|lang=ja|sort=どら|銅鑼}}: a [[gong]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=정|eumhun=|rv=jeong (or jing, in the case of the gong used in Korean traditional music)|mr=chŏng|y=ceng}}
+
+# {{defn|lang=ko|sort=金05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chinh]], [[chiêng]]|rs=金05}}
+
+# {{defn|lang=vi|sort=金05}}
+
+[[fr:鉦]]
+[[hu:鉦]]
+[[ja:鉦]]
+[[pl:鉦]]
+[[th:鉦]]
+[[zh:鉦]]

@@ -1,0 +1,90 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=09|sn=13|four=32306|canj=YHJU}}
+
+# [[hide]], to [[conceal]] oneself
+# [[escape]], [[release]]
+
+====References====
+* {{Han ref|kx=1260.260|dkj=38982|dj=1750.280|hdz=63859.120|uh=9041|ud=36929|bh=B950|bd=47440}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dùn
+|c=deon6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|土遁|奇門遁甲|支遁|支遁買山|望風而遁|棲遁|水遁|深藏遠遁|潛身遠遁|無所遁形|禽奔獸遁|肥遁|逃遁|遁世|遁世逃名|遁世離群|遁佚|遁入空門|遁化|遁北|遁名匿跡|遁形|遁甲|遁藏|遁走|遁跡|遁跡潛形|遁跡銷聲|遁身|遁辭|遁逃|違世遁俗|遜遁|遠遁|遠遁山林|隱遁|高飛遠遁}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辵09}}
+
+# [[escape]]
+
+====Readings====
+{{ja-readings
+|goon=[[しゅん]] (shun), [[どん]] (don)
+|kanon=[[しゅん]] (shun), [[とん]] (ton)
+|kun=[[のがれ]] (nogare), [[のがれる|のが.れる]] ([[遁れる]], noga.reru)
+}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|のがれ}}
+The {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{m|ja|遁れる|tr=nogareru||to run away, to escape}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|のがれ|acc=3|acc_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|遁れ}}, {{ja-l|逃れ}}, {{ja-l|逃}}
+
+===Noun===
+{{ja-noun|のがれ}}
+
+# an [[escape]], a [[dodge]], [[avoidance]], [[evasion]]
+
+====Usage notes====
+The {{ja-l|逃れ}} spelling is more common.
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[둔]], [[돈]]|eumhun=|rv=dun, don|mr=tun, ton|y=twun, ton}}
+
+# {{defn|lang=ko|sort=辵09}}
+
+[[fr:遁]]
+[[ko:遁]]
+[[mg:遁]]
+[[ja:遁]]
+[[pl:遁]]
+[[th:遁]]
+[[zh:遁]]

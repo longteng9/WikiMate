@@ -1,0 +1,29 @@
+==Japanese==
+{{ja-kanjitab|れつ|ご|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|れつご|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|れつご}}
+
+# something that is [[subordinate]] to something else
+#: {{ja-usex|'''劣後'''債|'''れつご''' さい|'''subordinated''' debt}}
+# something that comes [[after]] something else, something that is [[posterior]] to something else
+#: {{ja-usex|'''劣後'''株|'''れつご''' かぶ|'''follow-on''' stock, stock that is issued '''after''' the initial offering}}
+
+===Verb===
+{{ja-verb-suru|れつご}}
+
+# to be [[subordinate]] to something
+#: {{ja-usex|法律は憲法に'''劣後'''する|ほうりつ は けんぽう に '''れつご''' する|laws '''are subordinate''' to the constitution}}
+# to come [[after]] something, to be [[posterior]] to something
+
+====Conjugation====
+{{ja-suru|れつご}}
+
+===References===
+<references/>
+
+[[mg:劣後]]
+[[ja:劣後]]

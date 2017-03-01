@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|かい|ちく|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|かいちく|y=o}}
+
+===Noun===
+{{ja-noun|かいちく}}
+
+# [[reconstruction]] of all or part of a building
+#: {{ja-usex|校舎改築工事が始まりました。|こうしゃ かいちく こうじ が はじまりました。|Reconstruction work has begun on the school building.}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|かいちく}}
+
+# [[rebuilt]] all or part of a building
+
+====Conjugation====
+{{ja-suru|かいちく}}
+
+[[ko:改築]]
+[[hu:改築]]
+[[ja:改築]]
+[[sh:改築]]
+[[zh:改築]]

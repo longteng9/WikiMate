@@ -1,0 +1,50 @@
+{{also|金屬}}
+==Chinese==
+{{zh-see|金屬}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きん|ぞく|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=きんぞく}} compound {{m|zh|金屬|tr=kim dzyowk|lit=metal + be attached to; category}}. Compare modern {{etyl|hak|-}} reading ''kîm-su̍k''.
+
+===Pronunciation===
+{{ja-pron|yomi=o|きんぞく|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|きんぞく}}
+
+# [[metal]]
+#: {{ja-usex|鉄は有用な'''金属'''です。|^てつ は ゆうよう な '''きんぞく''' です。|Iron is a useful '''metal'''.}}
+
+====Compounds====
+* {{ja-r|軽金属|けいきんぞく|gloss=light metals}}
+* {{ja-r|重金属|じゅうきんぞく|gloss=heavy metals}}
+* {{ja-r|非金属|ひきんぞく|gloss=a nonmetal}}
+* {{ja-r|金属疲労|きんぞ くひろう|gloss=metal fatigue}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|きんぞく]]
+[[Category:ja:Chemistry|きんぞく]]
+
+[[zh-min-nan:金属]]
+[[cs:金属]]
+[[fr:金属]]
+[[ko:金属]]
+[[it:金属]]
+[[lt:金属]]
+[[hu:金属]]
+[[mg:金属]]
+[[nl:金属]]
+[[ja:金属]]
+[[pl:金属]]
+[[sh:金属]]
+[[sv:金属]]
+[[th:金属]]
+[[chr:金属]]
+[[vi:金属]]
+[[zh:金属]]

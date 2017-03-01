@@ -1,0 +1,124 @@
+{{character info/new}}
+{{also|灰}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=05|sn=9|four=22289|canj=UKF,UMF|ids=⿱山灰}}
+
+====References====
+* {{Han ref|kx=0668.240|dkj=18953|dj=1077.240|hdz=32195.150|uh=70AD|ud=28845|bh=ACB4|bd=44212}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|火|岸|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+From {{inh|zh|sit-pro|*tal||charcoal; dust; ashes}}. Cognate with {{cog|bo|ཐལ་བ||ashes; dust; dirt}}.
+
+Derivative: {{zh-l|碳|carbon}}.
+
+===Pronunciation===
+{{zh-pron
+|m=tàn
+|c=taan3
+|h=pfs=than
+|md=táng
+|mn=qz,xm,zz:thàn/thòaⁿ
+|mn_note=thàn - literary; thòaⁿ - vernacular
+|w=2the
+|mc=y
+|oc=y
+|ma=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[charcoal]]
+# [[charcoal]] [[fire]]
+# [[coal]]
+# [[coal]]-like [[substance]]
+# {{zh-alt-form|碳|[[carbon]]}}
+# {{lb|zh|ACG|Internet|slang|from {{etyl|ja|zh}} {{ja-r|たん}}}} [[-tan]]
+
+===Compounds===
+{{zh-der|冰炭|冰炭不洽|吞炭|吞炭漆身|塗炭|塗炭生民|塗炭生靈|戴炭簍子|打醋炭|握炭流湯|木炭|木炭畫|民墜塗炭|民生塗炭|泥炭|浮炭|漆身吞炭|瀝青炭|火炭|灰炭|炭化|炭墼|炭層|炭敬|炭火|炭烤|炭疽病|炭盆|炭窩|炭窯|炭筆|炭筆畫|炭簍子|炭米|炭精|炭精棒|炭精筆|炭精紙|焦炭|煤炭|熛炭|熟炭|熾炭|獸炭|生民塗炭|生炭|生靈塗炭|白炭|石炭|石炭紀|紅頭黑炭|草炭|荼炭|褐炭|踐冰履炭|雪中送炭|雪裡送炭|骨炭|麩炭|黑炭}}
+
+===Descendants===
+{{CJKV||たん|탄|thán}}
+''Others'':
+* Khmer: {{l|km|ធ្យូង}}
+* Proto-Hmong-Mien: {{l|hmx-pro|*thanᴴ||charcoal}}
+** White Hmong: {{l|mww|thee}}
+* Lao: {{l|lo|ຖ່ານ}}
+* Thai: {{l|th|ถ่าน}}
+* Vietnamese: {{l|vi|than}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=火05}}
+
+# [[coal]]
+# [[charcoal]]
+
+====Readings====
+* {{ja-readings|goon=[[たん]] (tan)|kanon=[[たん]] (tan)|kun=[[すみ]] (sumi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|炭安|たんあん}}: [[ammonium carbonate]]
+* {{ja-r|採炭|さいたん}}
+* {{ja-r|薪炭|しんたん}}
+* {{ja-r|炭化|たんか}}
+* {{ja-r|炭鉱|たんこう}}
+* {{ja-r|炭酸|たんさん}}
+* {{ja-r|炭素|たんそ}}
+* {{ja-r|炭田|たんでん}}
+* {{ja-r|泥炭|すくも}}, {{ja-r|泥炭|でいたん}}
+* {{ja-r|木炭|もくたん}}
+{{der-bottom}}
+
+===Noun===
+{{ja-noun|すみ}}
+
+# [[charcoal]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=탄|eumhun=|rv=tan|mr=t'an|y=than}}
+
+# {{defn|lang=ko|sort=火05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[than]], [[thán]], [[tro]]|rs=火05}}
+
+# {{defn|lang=vi|sort=火05}}
+
+[[fr:炭]]
+[[ko:炭]]
+[[lo:炭]]
+[[hu:炭]]
+[[mg:炭]]
+[[nl:炭]]
+[[ja:炭]]
+[[no:炭]]
+[[pl:炭]]
+[[th:炭]]
+[[chr:炭]]
+[[zh:炭]]

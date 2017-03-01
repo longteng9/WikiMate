@@ -1,0 +1,33 @@
+{{also|陽氣|阳气}}
+==Japanese==
+{{ja-kanjitab|よう|き|yomi=o}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|ようき|kyu=陽氣}}
+
+# [[cheerful]], [[lively]], [[merry]]
+#: {{ja-usex|その会ではみんなが陽気だった。|その かい で は みんな が ようき だった。|Everyone was '''cheerful''' at the party.}}
+#: {{ja-usex|水夫は'''陽気'''な歌を歌った。|すいふ は '''ようき''' な うた を うたった。|The sailors sang '''merry''' songs.}}
+
+====Inflection====
+{{ja-na|ようき}}
+
+====Antonyms====
+* {{ja-r|陰気|いんき}}: melancholy
+
+===Noun===
+{{ja-noun|ようき|kyu=陽氣}}
+
+# the [[weather]]
+#: {{ja-usex|こんな暖かい'''陽気'''は二月にしては異常だ。|こんな あたたかい '''ようき''' は に がつ に して は いじょう だ。|This warm '''weather''' is abnormal for February.}}
+# [[cheerfulness]], [[hilarity]]
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:陽気]]
+[[hu:陽気]]
+[[mg:陽気]]
+[[ja:陽気]]
+[[chr:陽気]]
+[[zh:陽気]]

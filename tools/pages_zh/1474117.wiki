@@ -1,0 +1,44 @@
+==Japanese==
+{{ja-kanjitab|女|房}}
+
+===Etymology 1===
+{{rfe|ja}}
+
+====Noun====
+{{ja-noun|にゅうぼう|hhira=にうばう}}
+
+# one's wife
+
+===Etymology 2===
+{{rfe|ja}}
+
+====Noun====
+{{ja-noun|にょうぼう|hhira=にょうばう}}
+
+# one's wife
+#* {{cite-book
+|last=Dazai
+|first=Osamu
+|authorlink=w:Osamu Dazai
+|title=[[w:Run, Melos!|Hashire Merosu]]
+|publisher=Shinchō Bunko
+|year_published=2005
+|year=1940
+|language=Japanese
+|isbn=978-4-10-100606-2
+}}
+#*: {{lang|ja|メロスには父も、母も無い。'''女房'''も無い。}}
+
+===Etymology 3===
+From {{m|ja|女房|tr=nyōbō}}.
+
+====Noun====
+{{ja-noun|にょうぼ}}
+
+# one's wife
+
+[[fr:女房]]
+[[li:女房]]
+[[hu:女房]]
+[[pt:女房]]
+[[zh:女房]]

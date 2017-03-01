@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|麥}}
+==Translingual==
+{{stroke order|type=animate}}
+{{stroke order|type=janimate}}
+
+===Han character===
+{{Han char|rn=199|rad=麦|as=00|sn=7|four=|canj=QME|ids=⿱龶夂}}
+
+# [[wheat]], [[barley]], [[oats]]
+# simplified form of KangXi radical number 199
+
+====References====
+* {{Han ref|kx=1512.090|dkj=47718|dj=2041.020|hdz=74600.020|uh=9EA6|ud=40614}}
+
+----
+
+==Chinese==
+{{zh-see|麥}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=麥00|style=s|kyu=麥}}
+
+# [[wheat]]
+# [[barley]]
+
+====Readings====
+{{ja-readings|goon=[[みゃく]] (myaku)|kanon=[[ばく]] (baku)|kun=[[むぎ]] (mugi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|燕麦|えんばく}}: [[oats]]
+* {{ja-r|大麦|おおむぎ}}: [[barley]]
+* {{ja-r|黒麦|くろむぎ}}: [[rye]]
+* {{ja-r|小麦|こむぎ}}: [[wheat]]
+* {{ja-r|蕎麦|そば}}: [[buckwheat]]
+* {{ja-r|麦芽|ばくが}}: [[malt]]
+* {{ja-r|麦酒|ビール}}, {{ja-r|麦酒|ばくしゅ}}: [[beer]]
+{{der-bottom}}
+
+{{ja-kanjitab|むぎ|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|むぎ|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|むぎ}}
+
+# [[wheat]], [[barley]], [[rye]], [[oats]]
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|むぎ]]
+[[Category:ja:Grains|むぎ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=맥|eumhun=|rv=maek|mr=maek|y=mayk}}
+
+# {{defn|lang=ko|sort=麦00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:麦]]
+[[ko:麦]]
+[[it:麦]]
+[[ky:麦]]
+[[lo:麦]]
+[[hu:麦]]
+[[mg:麦]]
+[[ms:麦]]
+[[mn:麦]]
+[[ja:麦]]
+[[no:麦]]
+[[pl:麦]]
+[[pt:麦]]
+[[ru:麦]]
+[[th:麦]]
+[[chr:麦]]
+[[vi:麦]]
+[[zh:麦]]

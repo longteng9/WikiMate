@@ -1,0 +1,73 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=chūbǎn
+|c=ceot1 baan2
+|h=pfs=chhut-pán
+|mn=chhut-pán
+|ma=Zh-chuban.ogg
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[publish]] {{gloss|a book, tape, disc, etc.}}
+
+===Noun===
+{{zh-noun}}
+
+# [[publication]]
+#: {{zh-x|出版 自由|freedom of '''publication'''}}
+
+===See also===
+* {{zh-l|發表}}
+
+===Derived terms===
+{{zh-der|出版物|出版社|出版者}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅつ|はん|k1=しゅっ|k2=ぱん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|しゅっぱん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|しゅっぱん}}
+
+# the selling and distribution of printed works; [[publication]], [[publishing]]
+
+===Verb===
+{{ja-verb-suru|しゅっぱん}}
+
+# [[publish]], [[issue]], [[put out]]
+
+====Conjugation====
+{{ja-suru|しゅっぱん}}
+
+===See also===
+* {{ja-r|発刊|はっかん}}
+* {{ja-r|刊行|かんこう}}
+
+===References===
+<references/>
+
+[[zh-min-nan:出版]]
+[[fr:出版]]
+[[ko:出版]]
+[[lt:出版]]
+[[li:出版]]
+[[hu:出版]]
+[[mg:出版]]
+[[ja:出版]]
+[[chr:出版]]
+[[zh:出版]]

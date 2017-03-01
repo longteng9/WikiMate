@@ -1,0 +1,43 @@
+{{also|脂质}}
+
+==Chinese==
+{{zh-forms|s=脂质}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǐ質
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|organic compound}} [[lipid]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|し|しつ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=1|ししつ|y=ko|acc2=0|dev=2}}
+* {{hmp|lang=ja|sort=ししつ|死失|私室|屍室|紙質|歯質|資質}}
+
+===Noun===
+{{ja-noun|ししつ}}
+
+# {{lb|ja|organic compound|sort=ししつ}} a [[lipid]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=지질|mr=chijil|y=cicil}}
+
+# {{hanja form of|지질|[[lipid]]}}
+
+[[mg:脂質]]
+[[zh:脂質]]

@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{zh-compound|便|器|excrement, urine|device}}
+
+===Pronunciation===
+{{zh-pron
+|m=biànqì
+|mn=piān-khì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# any device used for [[defecation]] or [[urination]]; a [[toilet]] or [[urinal]] in general
+
+====Derived terms====
+{{zh-der|蹲便器|座便器}}
+
+====See also====
+* {{zh-l|夜壺}}
+* {{zh-l|便壺}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|べん|き|yomi=on}}
+
+===Noun===
+{{ja-noun|べんき}}
+# any device used for [[defecation]] or [[urination]]; a [[toilet]] or [[urinal]] in general
+# [[chamber pot]]
+#* '''1947''', 宮本百合子, 道標:
+#*: {{ja-usex|ベッドのわきの小テーブルの上にあるベルを鳴らして'''便器'''をもらった。|ベッド の わき の しょう-テーブル の うえ に ある ベル を ならして '''べんき''' を もらった。|She rang the bell on the small bedside table and was given a '''chamber pot'''.}}
+
+[[ko:便器]]
+[[lo:便器]]
+[[hu:便器]]
+[[mg:便器]]
+[[zh:便器]]

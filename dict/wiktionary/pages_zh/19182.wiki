@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=09|sn=12|four=39120|canj=EBUH}}
+
+# endlessly long, boundless, vast
+# The number 10<sup>-11</sup>
+
+====References====
+* {{Han ref|kx=0635.170|dkj=17794|dj=1043.020|hdz=31673.120|uh=6E3A|ud=28218|bh=B4F9|bd=46329}}
+
+====See also====
+* ''Chinese Numeral'' '''渺'''
+** '''Next:''' [[漠]]
+** '''Last:''' [[埃]]
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=miǎo
+|c=miu5
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|微渺|杳渺|浩渺|深渺|渺不可測|渺不相涉|渺小|渺渺|渺渺冥冥|渺渺茫茫|渺無聲息|渺然|渺視|渺茫|渺邈|煙波浩渺|縹渺|茫茫渺渺|荒渺不經|飄渺|魚沉雁渺}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水09}}
+
+# {{defn|lang=ja|sort=水09}}
+
+====Readings====
+* {{ja-readings|goon=[[みょう]] (myō)|kanon=[[びょう]] (byō)|kun=[[ひろい]] (hiroi), [[はるか]] (haruka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=묘|eumhun=|rv=myo|mr=myo|y=myo}}
+
+# {{defn|lang=ko|sort=水09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[miểu]], [[diễu]], [[diệu]], [[giẻo]]|rs=水09}}
+
+# {{defn|lang=vi|sort=水09}}
+
+[[fr:渺]]
+[[hu:渺]]
+[[mg:渺]]
+[[ja:渺]]
+[[no:渺]]
+[[pl:渺]]
+[[th:渺]]
+[[zh:渺]]

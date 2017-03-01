@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=dēngshānjiā
+|c=dang1 saan1 gaa1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[climber]]; [[mountaineer]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|と|さん|か|k2=ざん|yomi=o|r=y}}
+
+===Etymology===
+{{suffix|登山|家|t1=mountain climbing|t2=-er|lang=ja|sort=とざんか}}
+
+===Pronunciation===
+* {{ja-accent-common|h|と|ざんか}}<ref>{{R:NHK Hatsuon}}</ref>
+
+===Noun===
+{{ja-noun|とざんか}}
+
+# [[climber]], [[mountaineer]]
+
+===References===
+<references/>
+
+[[ko:登山家]]
+[[hu:登山家]]
+[[ja:登山家]]
+[[pt:登山家]]
+[[zh:登山家]]

@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|驶}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=05|sn=15|four=75306|canj=SFLK}}
+
+# to [[sail]], [[drive]], [[pilot]]
+# [[fast]], [[quick]]
+
+====References====
+* {{Han ref|kx=1437.020|dkj=44679|dj=1961.120|hdz=74547.050|uh=99DB|ud=39387|bh=BE70|bd=48752}}
+
+----
+
+==Chinese==
+{{zh-forms|s=驶}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǐ
+|c=sai2,si2
+|h=pfs=sṳ́
+|md=
+|mn=qz:sír/tw,xm,zz:sú/sái
+|mn_note=sír/sú - literary; sái - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to drive, sail, fly etc. a vehicle, vessel, airplane, etc.
+# {{lb|zh|Cantonese}} {{alternative spelling of|使|lang=zh}}
+
+===References===
+*(''Min Nan'') {{thcwd|11572}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬05}}
+
+# {{defn|lang=ja|sort=馬05}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[はせる]] (haseru), [[はやい]] (hayai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|eumhun=|rv=sa|mr=sa|y=sa}}
+
+# {{defn|lang=ko|sort=馬05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sử]]|rs=馬05}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:駛]]
+[[fr:駛]]
+[[hu:駛]]
+[[mg:駛]]
+[[ja:駛]]
+[[pl:駛]]
+[[th:駛]]
+[[chr:駛]]
+[[zh:駛]]

@@ -1,0 +1,63 @@
+{{also|移动}}
+==Chinese==
+{{zh-forms|s=移动}}
+
+===Pronunciation===
+{{zh-pron
+|m=yídòng
+|ma=Zh-yídòng.ogg
+|c=ji4 dung6
+|h=pfs=yì-thung
+|mn=qz:î-tǒng/tw,xm,zz:î-tōng
+|cat=a,v
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[mobile]]; [[movable]]
+#: {{zh-x|移動 網絡|'''mobile''' network}}
+#: {{zh-x|移動 平臺|'''mobile''' platform}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[move]]; to [[shift]]; to [[transfer]]
+
+===Derived terms===
+{{zh-der|瞬間移動|移動靶|移動電話|移動電視|移動通信|移動硬盤}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|い|どう|yomi=on}}
+
+===Noun===
+{{ja-noun|いどう}}
+
+# a [[transfer]]
+# [[migration]]
+
+===Verb===
+{{ja-verb-suru|tr=both|いどう}}
+
+# to transfer, to [[move]]
+# to [[migrate]]
+
+====Conjugation====
+{{ja-suru|いどう}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[fr:移動]]
+[[ko:移動]]
+[[hu:移動]]
+[[mg:移動]]
+[[ja:移動]]
+[[sv:移動]]
+[[chr:移動]]
+[[tr:移動]]
+[[zh:移動]]

@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|饶}}
+==Translingual==
+{{Han simplified forms|饒|𩜙|饶|ex=y}}
+
+===Han character===
+{{Han char|rn=184|rad=食|as=12|sn=21|four=84711|canj=OIGGU|ids=⿰食堯}}
+
+====References====
+* {{Han ref|kx=1425.400|dkj=44400|dj=1951.180|hdz=74472.020|uh=9952|ud=39250|bh=C4C7|bd=50375}}
+
+----
+
+==Chinese==
+{{zh-forms|s=饶}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|食|堯|c1=s|c2=p|t1=food|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=ráo
+|c=jiu4
+|mn=qz,tp,xm:liâu/kh,zz:jiâu
+|mn-t=riao5
+|w=3nyiau
+|mc=y
+|oc=y
+|cat=a,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[abundant]]; [[plentiful]]
+# to [[forgive]]; to [[have mercy]] on
+#: {{zh-x|請 饒 我 一命 吧！|Please forgive me!}}
+
+====Compounds====
+{{zh-der|不饒|假饒|告饒|多嘴饒舌|富饒|寬饒|擔饒|求饒|沃饒|白饒|耽饒|肥饒|討饒|討饒頭|豐饒|饒人|饒侈|饒免|饒命|饒富|饒恕|饒樂|饒沃|饒益|饒舌|饒舌歌曲|饒舌調脣|饒衍|饒讓|饒頭}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=食12|style=ky|shin=𩜙}}
+
+# abundant
+
+====Readings====
+* {{ja-readings|goon=[[にょう]] (nyō)|kanon=[[じょう]] (jō)|kun=[[ゆたか]] (yutaka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=요|eumhun=|rv=yo|mr=yo|y=yo}}
+
+# {{defn|lang=ko|sort=食12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhiêu]], [[nhau]], [[nheo]], [[nhiều]], [[sèo]], [[xèo]]|rs=食12}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:饒]]
+[[fr:饒]]
+[[ko:饒]]
+[[hu:饒]]
+[[mg:饒]]
+[[ja:饒]]
+[[pl:饒]]
+[[th:饒]]
+[[zh:饒]]

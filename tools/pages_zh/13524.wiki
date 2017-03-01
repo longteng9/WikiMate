@@ -1,0 +1,46 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=37|rad=大|as=03|sn=6|four=|canj=KR,XKR|ids=⿱大口}}
+
+# [[name]] of [[fish]] ([[cod]])
+
+====References====
+* {{Han ref|kx=0250.071|dj=0509.150|hdz=10528.021|uh=593B|ud=22843}}
+* [http://hanja.naver.com/hanja?q=%E5%A4%BB Naver Hanja Dictionary]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=huà
+|c=
+|mn=
+|ma=zh-huà.ogg
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=화|rv=hwa|mr=hwa|y=hwa|eumhun=대구|ehrv=daegu|ehmr=taegu|ehy=taykwu}}
+
+# a [[cod]]
+
+[[Category:Korean-only CJKV Characters|大+03]]
+
+[[fr:夻]]
+[[pl:夻]]
+[[th:夻]]
+[[zh:夻]]

@@ -1,0 +1,39 @@
+{{also|比较级}}
+==Chinese==
+{{zh-forms|s=比较级|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǐjiàojí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|grammar}} [[comparative]]
+
+===See also===
+* {{zh-l|最高級}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|比|較|級}}
+
+===Noun===
+{{ja-noun|ひかっきゅう}} (''colloquial'')<br />
+{{ja-noun|ひかくきゅう}}
+
+# {{lb|ja|grammar}} [[comparative]]
+
+====See also====
+* {{ja-r|最上級|さいじょうきゅう}}: {{qualifier|grammar}} [[superlative]]
+
+[[Category:ja:Grammar|ひかくきゅう]]
+
+[[ko:比較級]]
+[[it:比較級]]
+[[lt:比較級]]
+[[hu:比較級]]
+[[ja:比較級]]

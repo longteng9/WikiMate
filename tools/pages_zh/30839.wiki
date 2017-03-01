@@ -1,0 +1,147 @@
+{{character info/new}}
+==Translingual==
+{{Han simplified forms|靈|霊|灵}}
+===Etymology===
+{{Han simp|靈|f=𠱠|t=一|f2=巫|t2=亚}}.
+
+===Han character===
+{{Han char|rn=173|rad=雨|as=7|sn=15|canj=MBMMC|four=10102|ids=⿳⻗一亚}}
+
+# [[spiritual world]]
+# [[spirit]], [[soul]]
+# [[miraculous]], [[mysterious]]
+
+====References====
+* {{Han ref|kx=1375.051|dkj=42309|dj=1884.070|hdz=64063.150|uh=970A|ud=38666}}
+
+----
+
+==Chinese==
+{{zh-see|靈|v}}
+
+===References===
+* {{R:twedu|A04497-010-1}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=雨07|style=s|kyu=靈}}
+
+# [[soul]], [[spirit]]
+
+====Readings====
+{{ja-readings
+|goon=[[りょう]] (ryō), {{qualifier|historical}} [[りやう]] (ryau)
+|kanon=[[れい]] (rei)
+|kanyo={{qualifier|rare, obsolete}} [[ろう]] (rō)
+|kun=[[たま]] (tama), [[すだま]] (sudama), [[ち]] (chi), [[み]] (mi)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|悪霊|あくりょう}}: [[evil]] [[spirit]]
+* {{ja-r|生霊|いきりょう}}
+* {{ja-r|慰霊|いれい}}
+* {{ja-r|英霊|えいれい}}
+* {{ja-r|怨霊|おんりょう}}
+* {{ja-r|交霊|こうれい}}
+* {{ja-r|皇霊|こうれい}}: [[spirits]] of [[past]] [[emperors]]
+* {{ja-r|降霊|こうれい}}
+* {{ja-r|木霊|こだま}}
+* {{ja-r|言霊|ことだま}}
+* {{ja-r|精霊|しょうりょう}}
+* {{ja-r|浄霊|じょうれい}}
+* {{ja-r|死霊|しりょう}}
+* {{ja-r|死霊|しれい}}
+* {{ja-r|心霊|しんれい}}
+* {{ja-r|聖霊|せいれい}}: [[Holy Spirit]]
+* {{ja-r|精霊|せいれい}}
+* {{ja-r|地霊|ちれい}}
+* {{ja-r|幽霊|ゆうれい}}
+* {{ja-r|妖霊|ようれい}}
+* {{ja-r|霊異|れい.い}}: [[miracle]]
+* {{ja-r|霊園|れいえん}}
+{{der-mid}}
+* {{ja-r|霊化|れいか}}
+* {{ja-r|霊感|れいかん}}
+* {{ja-r|霊気|れいき}}
+* {{ja-r|霊鬼|れいき}}
+* {{ja-r|霊魂|れいこん}}
+* {{ja-r|霊山|れいざん}}
+* {{ja-r|霊芝|れいし}}: [[lingzhi]]
+* {{ja-r|霊術|れいじゅつ}}
+* {{ja-r|霊水|れいすい}}: [[miraculous]] [[water]]
+* {{ja-r|霊草|れいそう}}
+* {{ja-r|霊体|れいたい}}
+* {{ja-r|霊長|れいちょう}}
+* {{ja-r|霊肉|れいにく}}: [[spirit]] and [[flesh]]
+* {{ja-r|霊魄|れいはく}}
+* {{ja-r|霊媒|れいばい}}
+* {{ja-r|霊猫|れいびょう}}: [[civet]]
+* {{ja-r|霊魔|れいま}}
+* {{ja-r|霊薬|れいやく}}
+* {{ja-r|霊力|れいりょく}}
+* {{ja-r|直霊|なおひ}}
+* {{ja-r|人間霊|にんげんれい}}
+* {{ja-r|亡霊|ぼうれい}}
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|れい|yomi=o}}
+From {{etyl|ltc|ja|sort=れい}} {{m|zh|靈|tr=leng}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|れい|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|kyu=靈|れい}}
+
+# [[ghost]]
+
+=====Synonyms=====
+* {{ja-r|幽霊|ゆうれい}}, {{ja-r|死霊|しりょう}}, {{ja-r|死霊|しれい}}, {{ja-r|お化け|おばけ}}
+
+===Etymology 2===
+{{ja-kanjitab|たま|yomi=k}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|たま|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|kyu=靈|たま}}
+
+# a [[soul]], a [[spirit]]
+
+=====Synonyms=====
+{{der-top|Synonyms of 霊}}
+* {{ja-r|気|き}}
+* {{ja-r|魂|たましい}}
+* {{ja-r|魄|たましい}}
+* {{ja-r|魂魄|こんぱく}}
+* {{ja-r|精|せい}}
+{{der-mid}}
+* {{ja-r|心|こころ}}
+* {{ja-r|精神|せいしん}}
+* {{ja-r|意気|いき}}
+* {{ja-r|意志|いし}}
+* {{ja-r|お化け|おばけ}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[fr:霊]]
+[[lt:霊]]
+[[li:霊]]
+[[hu:霊]]
+[[mg:霊]]
+[[fj:霊]]
+[[ja:霊]]
+[[pl:霊]]
+[[fi:霊]]
+[[th:霊]]
+[[chr:霊]]
+[[zh:霊]]

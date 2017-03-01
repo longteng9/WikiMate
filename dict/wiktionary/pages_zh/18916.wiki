@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=06|sn=9|four=38161|canj=EOMR|ids=⿰氵合}}
+
+# to blend with, be in harmony
+# to [[penetrate]]
+# to [[cover]]
+# a river in Shenxi
+
+====References====
+* {{Han ref|kx=0622.210|dkj=17426|dj=1019.020|hdz=31612.050|uh=6D3D|ud=27965|bh=ACA2|bd=44194}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qià,xiá
+|c=hap6,haap6,hap1,ap1
+|h=pfs=
+|md=
+|mn=ha̍p/hia̍p/ka̍p
+|mn_note=ha̍p - literary; hia̍p/ka̍p - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* {{R:twedu|A02195}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水06}}
+
+# {{defn|lang=ja|sort=水06}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[うるおす]] (uruosu), [[あまねし]] (amaneshi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=흡|eumhun=|rv=heup|mr=hŭp|y=hup}}
+
+# {{defn|lang=ko|sort=水06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hiệp]]|rs=水06}}
+
+# {{defn|lang=vi|sort=水06}}
+
+[[fr:洽]]
+[[hu:洽]]
+[[mg:洽]]
+[[ja:洽]]
+[[no:洽]]
+[[pl:洽]]
+[[th:洽]]
+[[zh:洽]]

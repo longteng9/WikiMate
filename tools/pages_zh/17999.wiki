@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|椁}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=11|sn=15|four=47927|canj=DYDL|ids=⿰木郭}}
+
+# [[outer]] [[coffin]]
+# [[vault]]
+
+====References====
+* {{Han ref|kx=0547.050|dkj=15362|dj=0935.020|hdz=21268.010|uh=69E8|ud=27112|bh=BCCD|bd=48333}}
+
+----
+
+==Chinese==
+{{zh-forms|s=椁}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=guǒ
+|c=gwok3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|棺槨}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木11}}
+
+# {{defn|lang=ja|sort=木11}}
+
+====Readings====
+* {{ja-readings|on=[[かく]] (kaku)|kun=[[そとひつぎ]] (sotohitsugi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=곽|eumhun=|rv=gwak|mr=kwak|y=kwak}}
+
+# {{defn|lang=ko|sort=木11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木11| hanviet = quạch}}
+
+# {{defn|lang=vi|sort=木11}}
+
+[[fr:槨]]
+[[ko:槨]]
+[[hu:槨]]
+[[ja:槨]]
+[[pl:槨]]
+[[th:槨]]
+[[zh:槨]]

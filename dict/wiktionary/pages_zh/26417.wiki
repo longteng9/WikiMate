@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=144|rad=行|as=03|sn=9|four=21221|canj=HOMJN}}
+
+====References====
+* {{Han ref|kx=1109.010|dkj=34034|dj=1573.050|hdz=20818.030|uh=884E|ud=34894|bh=D0AB|bd=53419}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|行|干|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=kàn
+|c=hon3
+|mc=y
+|oc=y
+|cat=v,a,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[please]]; to [[give]] [[pleasure]]
+# [[pleased]]; [[happy]]
+# [[stable]]
+# [[outspoken]] and [[upright]]
+
+====Compounds====
+{{zh-der|燕衎|衎然|衎衎}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=行03}}
+
+# {{defn|lang=ja|sort=行03}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[よろこぶ]] (yorokobu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[간]]|eumhun=|rv=gan|mr=kan|y=kan}}
+
+# {{defn|lang=ko|sort=行03}}
+
+[[fr:衎]]
+[[hu:衎]]
+[[pl:衎]]
+[[th:衎]]
+[[zh:衎]]

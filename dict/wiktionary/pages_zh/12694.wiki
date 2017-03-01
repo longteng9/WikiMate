@@ -1,0 +1,37 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=11|sn=14|four=63073|canj=RJPU,XRJPU|ids=⿰口密}}
+
+# [[pyrimidine]]
+
+====References====
+* {{Han ref|kx=0206.201|hdz=10679.070|uh=5627|ud=22055|bh=E147|bd=57671}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=mì
+|c=mat6
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嘧啶}}
+
+[[fr:嘧]]
+[[ko:嘧]]
+[[mg:嘧]]
+[[pl:嘧]]
+[[th:嘧]]
+[[zh:嘧]]

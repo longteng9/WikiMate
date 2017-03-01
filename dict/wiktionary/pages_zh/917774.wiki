@@ -1,0 +1,10 @@
+==Japanese==
+{{ja-kanjitab|どう|かん|すう|yomi=on}}
+
+===Noun===
+{{ja-noun|どうかんすう}}
+
+# {{lb|ja|calculus|sort=とうかんすう'}} [[derived function]] - of a function, another function, the value of which for any value of the [[independent variable]] is the [[instantaneous]] [[rate of change]] of the given function at that value of the independent variable.
+
+[[hu:導関数]]
+[[zh:導関数]]

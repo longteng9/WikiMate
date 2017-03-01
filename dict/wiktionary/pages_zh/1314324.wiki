@@ -1,0 +1,16 @@
+==Japanese==
+{{ja-kanjitab|しょう|ひ|ぜい|yomi=on}}
+
+===Etymology===
+From {{ja-r|消費|しょうひ|gloss=[[consumption]]}} + {{ja-r|税|ぜい|gloss=[[tax]]}}
+
+===Pronunciation===
+* Common Accent: {{ja-accent-common|nakadaka|しょ|うひ|ぜい|shòúhízèì}}
+
+===Noun===
+{{ja-noun|しょうひぜい}}
+# a tax added to the price when purchasing goods or services.
+# {{lb|ja|economics|sort=しょうひぜい}} [[consumption tax]], a tax levied on consumption of goods and services.
+# {{lb|ja|legal|sort=しょうひぜい}} an indirect tax levied on consumption by the Japanese national government. (compare {{ja-r|地方消費税|ちほう しょうひぜい|gloss=local consumption tax}})
+
+[[ko:消費税]]

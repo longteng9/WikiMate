@@ -1,0 +1,56 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xùnsù
+|c=seon3 cuk1
+|md=séng-sók
+|mn=sìn-sok
+|w=2xin soq
+|ma=y
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[rapid]]; [[quick]]
+
+====Synonyms====
+* {{zh-l|趕快}}
+* {{zh-l|急速}}
+* {{zh-l|快速}}
+* {{qualifier|Cantonese}} {{zh-l|快脆|tr=faai3 ceoi3}}
+* {{qualifier|Min Nan}} {{zh-l|窸倏|tr=sī-sōa}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じん|そく|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|じんそく}}
+
+# [[rapid]], [[quick]], [[prompt]]
+#* {{RQ:Obama enzetsu}}
+#*: {{ja-usex|場所によっては変革は'''迅速'''に為されようが、別の場所では徐々に為されよう。|ばしょ に よって は へんかく は '''じんそく''' に なされよう が、 べつ の ばしょ で は じょじょ に なされよう。|In some places, change will be swift; in others, gradual.}}
+
+====Inflection====
+{{ja-na|じんそく}}
+
+===Noun===
+{{ja-noun|じんそく}}
+
+# [[speed]], [[promptness]]
+
+[[zh-min-nan:迅速]]
+[[ko:迅速]]
+[[hu:迅速]]
+[[mg:迅速]]
+[[fj:迅速]]
+[[ja:迅速]]
+[[chr:迅速]]
+[[zh:迅速]]

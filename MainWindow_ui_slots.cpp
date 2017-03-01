@@ -4,6 +4,7 @@
 #include <QColor>
 #include <QFileDialog>
 #include "Helper.h"
+#include <QMenu>
 #include "FragmentManager.h"
 #include "FileTableModel.h"
 #include "FileTableView.h"
@@ -22,6 +23,7 @@ void MainWindow::on_lstMenu_currentItemChanged(QListWidgetItem *current, QListWi
         ui->tabCenter->setCurrentIndex(1);
         ui->tabLeftSide->setCurrentIndex(1);
         ui->tabTopTools->setCurrentIndex(1);
+        ui->tabWidget->setCurrentIndex(0);
     }else if(current->text() == "Trans-Mem"){
         ui->tabCenter->setCurrentIndex(2);
         ui->tabLeftSide->setCurrentIndex(2);
@@ -128,16 +130,6 @@ void MainWindow::on_btnRemoveTasks_clicked()
 
 void MainWindow::on_txtOriginal_cursorPositionChanged()
 {
-    /*
-    QTextCursor cursor = ui->txtOriginal->textCursor();
-    int blockNum = cursor.blockNumber();
-    int blockPos = cursor.positionInBlock();
-    int word_begin = 0;
-    int word_len = 0;
-    if(blockNum == 0 && blockPos == 0){
-        return;
-    }
-    */
 }
 
 void MainWindow::on_txtOriginal_selectionChanged()
@@ -192,10 +184,16 @@ void MainWindow::on_btnCommitTMs_clicked()
 
 void MainWindow::on_txtOriginal_customContextMenuRequested(const QPoint &pos)
 {
-
+    QMenu* menu = ui->txtOriginal->createStandardContextMenu();
+    menu->addAction("Add Trans-Mem");
+    menu->exec(pos);
+    connect(menu, &QMenu::triggered, [this](QAction* action){
+        qDebug() << "clicked on:" << action->text();
+    });
 }
 
 void MainWindow::on_tableEntries_itemChanged(QTableWidgetItem *item)
 {
 
 }
+

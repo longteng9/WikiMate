@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|愼|惧}}
+==Translingual==
+{{ja-forms|慎|慎|慎}}
+
+===Alternative forms===
+Note the different forms, corresponds to different forms of [[真]].
+
+===Han character===
+{{Han char|rn=61|rad=心|as=10|sn=13|four=94081|canj=PJBC|ids=⿰忄真}}
+
+# [[act]] with [[care]], [[be]] [[cautious]]
+
+====References====
+* {{Han ref|kx=0398.261|dkj=11024|dj=0735.350|hdz=42336.020|uh=614E|ud=24910|bh=B756|bd=46934}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|心|alt1=忄|t1=heart|真|ls=psc|c1=s|c2=p}} – a behavior trait (heart), care, caution. Note that 真 means “truth, genuine, sincerity”, hence connotations of “acting sincerely, with care”.
+
+===Pronunciation===
+{{zh-pron
+|m=shèn
+|c=san6
+|mn=sīn/twv:sīm
+|mc=
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|慎刑|慎獨|勤慎|慎微|慎終追遠|慎默|慎重其事|慎重|慎謀能斷|慎言|慎終若始|慎思明辨|慎密|慎子|慎始敬終|慎始|慎終如始|小心謹慎|慎小謹微|不慎|慎行|審慎|恪慎|慎防|失慎|慎防杜漸|慎思|明賞慎罰|杜微慎防|淑慎|敬小慎微|明慎|明德慎罰|清慎|敬慎|日慎一日|謹慎|謹謹慎慎|肅慎|謹言慎行|謹小慎微}}
+
+----
+
+==Japanese==
+
+===Proper noun===
+{{ja-pos|proper|しん}}
+
+# {{given name|male|lang=ja|sort=しん}}
+[[Category:Japanese male given names|しん]]
+
+===Kanji===
+{{ja-kanji|grade=c|rs=心10}}
+
+# [[humility]]
+# [[be]] [[careful]]
+# [[discrete]]
+# [[prudent]]
+
+====Readings====
+* {{ja-readings|goon=[[じん]] (jin) {{non-joyo-reading}}|kanon=[[しん]] (shin)|kun=[[つつしむ]] (tsutsushimu), [[つつしみ]] (tsutsushimi)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thận]]|rs=心10}}
+
+# {{defn|lang=vi|sort=心10}}
+
+[[fr:慎]]
+[[li:慎]]
+[[hu:慎]]
+[[mg:慎]]
+[[ja:慎]]
+[[no:慎]]
+[[pl:慎]]
+[[th:慎]]
+[[zh:慎]]

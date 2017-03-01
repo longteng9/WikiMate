@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=06|sn=13|four=64127|canj=RMKMS|ids=⿰⻊夸}}
+# [[straddle]], [[bestride]], [[ride]]
+# [[carry]]
+
+====References====
+* {{Han ref|kx=1225.010|dkj=37504|dj=1696.170|hdz=63700.090|uh=8DE8|ud=36328|bh=B8F3|bd=47347}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kuà
+|c=kwaa1,kwaa3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=verb
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to step across
+# {{lb|zh|transitive}} to cross over (a wall etc.)
+
+====Synonyms====
+* {{qualifier|Sichuanese}} {{zh-l|𡘧|qia2, ka2}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=足06}}
+
+# {{defn|lang=ja|sort=足06}}
+
+====Readings====
+* {{ja-readings|on=[[こ]] (ko), [[か]] (ka)|kun=[[またぐ]] (matagu), [[またがる]] (matagaru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=과|eumhun=|rv=gwa|mr=kwa|y=kwa}}
+
+# {{defn|lang=ko|sort=足06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''跨''' ([[khóa]], [[khoá]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:跨]]
+[[ko:跨]]
+[[lt:跨]]
+[[hu:跨]]
+[[mg:跨]]
+[[ja:跨]]
+[[no:跨]]
+[[pl:跨]]
+[[th:跨]]
+[[zh:跨]]

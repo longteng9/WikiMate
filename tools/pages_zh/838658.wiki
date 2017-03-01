@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chuānxiōng,chuānqiōng,chuāngōng,1nb=Mainland,2nb=Taiwan,3nb=Singapore
+|c=cyun1 gung1
+|h=pfs=chhôn-kiûng
+|mn=chhoan-kiong
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|TCM}} [[rhizome]] of ''[[Ligusticum striatum]]'' {{gloss|a herb}}
+# {{taxlink|Conioselinum|genus|noshow=1}}
+
+====Synonyms====
+* {{zh-l|芎藭}}
+
+====Hypernyms====
+* {{zh-l|活血祛瘀藥}} ("blood-circulation activating and blood-stasis removing" medicinal materials in traditional Chinese medicine)
+* {{zh-l|藥材}}
+
+===References===
+* {{cite-book
+|last=
+|first=
+|authorlink=
+|coauthors=
+|year=
+|title=The Pinyin Chinese-English Dictionary
+|publisher=The Commercial Press
+|location=
+|isbn=0471867969
+}}
+* {{cite-book
+|last=
+|first=
+|authorlink=
+|coauthors=
+|year=
+|title=Far East Chinese-English Dictionary
+|publisher=
+|location=
+|isbn=9576122325
+}}
+
+[[ko:川芎]]
+[[ja:川芎]]
+[[zh:川芎]]

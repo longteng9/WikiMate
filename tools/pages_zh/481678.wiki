@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{wasei kango||せいさく|policy}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhèngcè
+|c=zing3 caak3
+|h=pfs=chṳn-chhet
+|mn=xm,zz,tw:chèng-chhek/qz:chèng-chhiak
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[policy]]
+#: {{zh-x|改革開放 的 政策|China's economic reform '''policy'''}}
+
+====Derived terms====
+{{zh-der|財政政策|方針政策|計劃生育政策|一邊倒政策|隱私政策|愚民政策}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|さく|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|せいさく|acc=h|acc_ref=DJR,NHK,SMK5|y=ko}}
+
+===Noun===
+{{ja-noun|せいさく}}
+
+# [[policy]]
+
+====Synonyms====
+* {{ja-r|施策|しさく}}
+* {{ja-r|方策|ほうさく}}
+
+===Descendants===
+* Chinese: {{zh-l|政策}}
+* Korean: {{ko-l|정책}}
+* Vietnamese: {{vi-l|chính sách}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[ko:政策]]
+[[lo:政策]]
+[[hu:政策]]
+[[mg:政策]]
+[[ja:政策]]
+[[sv:政策]]
+[[th:政策]]
+[[chr:政策]]
+[[zh:政策]]

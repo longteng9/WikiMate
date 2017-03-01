@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīngqiǎo
+|c=zing1 haau2
+|h=pfs=chîn-kháu
+|mn=cheng-khá
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[exquisite]]; [[elaborate]]; [[fine]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|こう|yomi=o}}
+
+===Etymology===
+From {{der|sort=せいこう|ja|ltc|精巧|tr=t͡siᴇŋ  kʰˠau<sup>X</sup>}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|せいこう|acc=0|acc_ref=DJR,NHK}}
+
+===Adjective===
+{{ja-adj|infl=na|せいこう|hhira=せいかう}}
+
+# [[elaborate]], [[delicate]], [[exquisite]]
+
+====Inflection====
+{{ja-na|せいこう}}
+
+===Noun===
+{{ja-noun|せいこう|hhira=せいかう}}
+
+# [[elaborateness]], [[delicateness]], [[exquisiteness]]
+
+===References===
+<references/>
+
+[[zh-min-nan:精巧]]
+[[ko:精巧]]
+[[hu:精巧]]
+[[mn:精巧]]
+[[ja:精巧]]
+[[zh:精巧]]

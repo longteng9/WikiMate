@@ -1,0 +1,34 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jíshù
+|c=zaap6 cuk1
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[cluster]]; [[bundled]] up
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅう|そく|yomi=on}}
+
+===Noun===
+{{ja-noun|しゅうそく}}
+
+# [[convergence]]
+
+===Verb===
+{{ja-verb-suru|しゅうそく}}
+
+# [[converge]]
+
+====Conjugation====
+{{ja-suru|しゅうそく}}
+
+[[zh:集束]]

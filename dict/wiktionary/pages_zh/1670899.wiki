@@ -1,0 +1,73 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Sense "yokan" is from {{etyl|ja|zh}} {{ja-r|羊羹|ようかん}}, in turn from {{etyl|zh|zh}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yánggēng
+|c=joeng4 gang1
+|h=pfs=n:yòng-kâng/s:yô-kháng
+|h_note=yô-kháng - from Japanese pronunciation
+|mn=io-kàng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|rare}} [[lamb]] [[soup]]; lamb [[broth]]
+# [[yokan]]
+
+====Synonyms====
+* {{sense|lamb soup}} {{zh-l|羊湯}}
+
+===References===
+* {{R:nan:tdj|24452|v=1|p=85}}
+
+{{zh-cat|Soups|Desserts}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Yōkan}}
+[[File:Youkan mizuyoukan.jpg|thumb|250px|{{lang|ja|羊羹}} (''yōkan'')]]
+</div>
+{{ja-kanjitab|よう|かん|yomi=o}}
+
+===Etymology===
+{{IPAchar|/yaukan/}} → {{IPAchar|/yɔːkan/}} → {{IPAchar|/yoːkan/}}
+
+Originally from {{etyl|ltc|ja|sort=ようかん}} compound {{m|zh|羊羹|tr=yang kæng|lit=sheep + soup, broth}}.  The {{m|en|gelatin}} meaning arose from the way that sheep meat or other parts would be boiled down to produce [[gelatin]].
+
+===Pronunciation===
+{{ja-pron|ようかん|y=o|acc=1|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|ようかん|hhira=やうかん}}
+
+# a [[gelatin]] made from boiled sheep and used in [[soup]]s
+# [[yokan]], a thick jellied [[dessert]] made of [[adzuki]] (red bean paste), [[agar]], and [[sugar]]
+#* {{RQ:Nippo Jisho|823}}
+#*: '''Yôcan'''. ヤゥカン (羊羹) 豆に粗糖をまぜて,こねたもので作った食物.
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|水羊羹|みず ようかん}}
+* {{ja-r|練り羊羹|ねり ようかん}}
+* {{ja-r|羊羹紙|ようかん かみ}}
+* {{ja-r|羊羹色|ようかん いろ}}: the [[color]] of [[yokan]]
+* {{ja-r|蒸し羊羹|むし ようかん}}: [[steamed]] [[yokan]]
+{{der-bottom}}
+
+===References===
+<references/>
+:* {{R:Nippo Jisho}}
+
+[[Category:ja:Desserts|ようかん]]
+
+[[ko:羊羹]]
+[[zh:羊羹]]

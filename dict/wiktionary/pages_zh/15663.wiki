@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|惬}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=09|sn=12|four=91013|canj=PSKO|ids=⿰忄匧}}
+
+# be [[satisfied]], be [[comfortable]]
+
+====References====
+* {{Han ref|kx=0395.180|dkj=10949|dj=0733.020|hdz=42325.130|uh=611C|ud=24860|bh=B467|bd=46183}}
+
+----
+
+==Chinese==
+{{zh-forms|s=惬}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiè
+|c=hip3,hip6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|愜意|不愜氣|愜懷|愜當|愜氣|愜心|愜貼}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心09}}
+
+# {{defn|lang=ja|sort=心09}}
+
+====Readings====
+* {{ja-readings|on=[[きょう]] (kyō)|kun=[[こころよい]] (kokoroyoi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=협|eumhun=|rv=hyeop|mr=hyŏp|y=hyep}}
+
+# {{defn|lang=ko|sort=心09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心09|hanviet=[[khép]], [[khiếp]], [[thiếp]]}}
+
+# {{defn|lang=vi|sort=心09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=611c Nom Foundation]
+
+[[fr:愜]]
+[[li:愜]]
+[[hu:愜]]
+[[pl:愜]]
+[[th:愜]]
+[[zh:愜]]

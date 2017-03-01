@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=08|sn=14|four=55127|canj=LIQMB|ids=⿰虫青}}
+
+====References====
+* {{Han ref|kx=1088.010|dkj=33203|dj=1554.240|hdz=42858.080|uh=873B}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qīng
+|c=cing1
+|h=pfs=
+|md=
+|mn=qz,xm,zz:chheng
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|蜻蜓}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫08}}
+
+# {{defn|lang=ja|sort=虫08}}
+
+====Readings====
+* {{ja-readings|goon=[[しょう]] (shō)|kanon=[[せい]] (sei)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=청|eumhun=|rv=cheong|mr=ch'ŏng|y=cheng}}
+
+# {{defn|lang=ko|sort=虫08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thanh]]|rs=虫08}}
+
+# {{rfdef|vi}}
+
+[[fr:蜻]]
+[[ko:蜻]]
+[[hu:蜻]]
+[[mg:蜻]]
+[[ja:蜻]]
+[[no:蜻]]
+[[pl:蜻]]
+[[th:蜻]]
+[[vi:蜻]]
+[[zh:蜻]]

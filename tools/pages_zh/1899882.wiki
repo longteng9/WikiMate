@@ -1,0 +1,42 @@
+{{also|目的语}}
+==Chinese==
+{{zh-forms|s=目的语|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=mùdìyǔ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[target language]]
+
+====Antonyms====
+* {{zh-l|原語}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|もく|てき|ご|yomi=on}}
+
+===Noun===
+{{ja-noun|もくてきご}}
+
+# {{lb|ja|grammar|sort=もくてきご}} [[object]]
+
+====See also====
+* {{ja-r|主語|しゅご|gloss=subject}}
+* {{ja-r|述語|じゅつご|gloss=predicate}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[fr:目的語]]
+[[ko:目的語]]
+[[li:目的語]]
+[[hu:目的語]]
+[[mg:目的語]]
+[[chr:目的語]]
+[[zh:目的語]]

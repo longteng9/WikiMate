@@ -1,0 +1,123 @@
+{{character info/new}}
+{{also|丠|坵}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=1|rad=一|as=04|sn=5|four=72101|canj=OM|ids=⿱斤一}}
+
+====Derived characters====
+* [[坵]] [[拞]] [[岴]] [[蚯]] [[駈]] [[邱]] [[茊]] [[岳]] [[虗]]/[[虛]]
+
+====References====
+* {{Han ref|kx=0077.140|dkj=00033|dj=0156.020|hdz=10017.010|uh=4E18|ud=19992|bh=A543|bd=42307}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=丠,𠀉,㐀}}
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|i}} – hill. Earlier form closer to {{zh-l|*丠}}, as in {{och-l|虛}}. Compare {{zh-l|*山}}.
+
+===Pronunciation===
+{{zh-pron
+|m=qiū
+|c=jau1
+|md=kiŭ
+|mn=khu/khiu
+|mn_note=khu - vernacular, khiu - literary
+|w=1qieu
+|mc=y
+|oc=y
+|cat=n,v,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[mound]]; [[hill]]
+# [[grave]]
+# to place a [[coffin]] in a [[temporary]] [[shelter]] pending [[burial]]
+# {{lb|zh|dialectal}} {{zh-classifier|[[field]]s|t=[[plot]]}}
+
+====See also====
+* {{sense|hills}} {{zh-l|山}}
+
+===Compounds===
+{{zh-der|丘疹|九丘|丘山|五比丘|宛丘|丘井|丘壑|丘木|丘八|如丘而止|丘腦|介丘|八索九丘|丘隴|丘中有麻|恩重丘山|寢丘之志|丘嫂|土丘|員丘山|一丘之貉|丘壟|宗廟丘墟|丘陵|巴丘|島狀丘陵|一丘一壑|圜丘|丘墳|丹丘|丘園|太丘道廣|丘墟|下視丘|左丘|丘墓|恥丘|山丘|放情丘壑|狐死首丘|沙丘|泌丘|炎丘|比丘尼|視丘|旄丘|砂丘|皮諾丘|畝丘|狐丘之誡|梧丘之魂|皖南丘陵|比丘|松丘|曹丘|糟丘|胸有丘壑|華屋丘墟|虎丘|融丘|膠東丘陵|麥丘老人|黎丘丈人|零落山丘|首丘夙願|首丘之情|首丘之思|首丘之念|首丘|陵丘|鼻丘|首丘之望|華屋山丘|赫丘利斯}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=一04}}
+
+====Readings====
+* {{ja-readings|goon=[[く]] (ku)|kanon=[[きゅう]] (kyū)|kun=[[おか]] (oka)}}
+
+====Compounds====
+* {{ja-r|丘上|きゅうじょう}}
+* {{ja-r|丘疹|きゅうしん}}
+* {{ja-r|丘辺|おかべ}}
+* {{ja-r|丘陵|きゅうりょう}}
+
+===Alternative forms===
+* {{l/ja|岡}}
+* {{l/ja|壟}}
+
+===Noun===
+{{ja-noun|おか}}
+
+# [[hill]]
+#: {{ja-usex|丘を下る|おか を くだる|to go down a hill}}
+
+====Usage notes====
+The most common [[kanji]] for this word is 丘.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|rv=gu|mr=ku|eumhun=언덕|ehrv=eondeok|ehmr=ǒndǒk|ehy=}}
+
+# [[hill]]
+
+====References====
+* {{Hanja ref|nav=8208}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khâu]], [[kheo]], [[khưu]]|rs=一04}}
+
+# {{defn|lang=vi|sort=一04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e18 Nom Foundation]
+
+[[zh-min-nan:丘]]
+[[cs:丘]]
+[[fr:丘]]
+[[ko:丘]]
+[[id:丘]]
+[[sw:丘]]
+[[lo:丘]]
+[[lt:丘]]
+[[hu:丘]]
+[[mg:丘]]
+[[ja:丘]]
+[[no:丘]]
+[[pl:丘]]
+[[ru:丘]]
+[[sm:丘]]
+[[sv:丘]]
+[[th:丘]]
+[[chr:丘]]
+[[uk:丘]]
+[[vi:丘]]
+[[zh:丘]]

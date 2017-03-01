@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=削chú
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[erase]], to [[delete]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|さく|じょ|yomi=on}}
+
+===Noun===
+{{ja-noun|さくじょ}}
+
+# [[deletion]], [[erasure]], [[removal]]
+# {{lb|ja|computers|sort=さくじょ}} [[deletion]]
+
+====Antonyms====
+* {{ja-r|挿入|そうにゅう}}: [[insertion]]
+
+===Verb===
+{{ja-verb-suru|さくじょ}}
+
+# [[delete]], [[erase]], [[remove]]
+#: {{ja-usex|この部分は'''削除する'''。|この ぶぶん は '''さくじょ する'''。|This part will be '''erased'''.}}
+# {{lb|ja|computers|sort=さくじょする}} [[delete]]
+
+====Conjugation====
+{{ja-suru|さくじょ}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:削除]]
+[[hu:削除]]
+[[mg:削除]]
+[[ja:削除]]
+[[ru:削除]]
+[[chr:削除]]
+[[zh:削除]]

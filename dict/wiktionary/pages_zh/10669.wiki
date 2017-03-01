@@ -1,0 +1,167 @@
+{{character info/new}}
+{{also|會}}
+==Translingual==
+{{ja-forms|[[会]]|[[会]]|[[會]]}}
+{{stroke order|type=animate}}
+
+===Etymology===
+{{Han simp|會|f=曾|t=云}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=04|sn=6|four=8073.1|canj=OMMI|ids=⿱人云}}
+
+====References====
+* {{Han ref|kx=0096.121|dkj=00460|dj=0204.110|hdz=10116.030|uh=4F1A|ud=20250}}
+
+----
+
+==Chinese==
+{{zh-see|會}}
+
+----
+
+==Japanese==
+{{ja-see-also|会する}}
+{| class="floatright" border=1 cellpadding="5" cellspacing="0"
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[shinjitai]]'''
+|<span class="Jpan" lang="ja" style="font-size: 175%">[[会]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[kyūjitai]]'''
+|<span class="Hant" lang="zh-Hant" style="font-size: 175%">[[會]]</span>
+|}
+===Kanji===
+{{ja-kanji|grade=2|rs=人04|style=s|kyu=會}}
+
+====Readings====
+{{ja-readings
+|goon=[[え]] (e) < [[ゑ]] (we)
+|kanon=[[かい]] (kai) < [[くわい]] (kwai)
+|kun=[[あう]] ([[会う]], au) < [[あふ]] (afu)
+|nanori=[[あい]] (ai) < [[あひ]] (ahi), [[い]] (i)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|一期一会|いちごいちえ}}: Treasure every encounter, for it will never recur
+* {{ja-r|会陰|えいん}}: [[perineum]]
+* {{ja-r|会厭|え.えん}}: [[epiglottis]]
+* {{ja-r|会式|えしき}}: temple service (of Nichiren)
+* {{ja-r|会釈|えしゃく}}: [[saluting]]
+* {{ja-r|会得|えとく}}: [[understading]]
+* {{ja-r|会意|かい.い}}: (kanji) [[Ideography]]
+* {{ja-r|会員|かい.いん}}: [[member]]
+* {{ja-r|会館|かいかん}}: (public) [[hall]], [[house]]
+* {{ja-r|会議|かいぎ}}: (business) [[meeting]], [[council]], [[congress]]
+* {{ja-r|会計|かいけい}}: [[accounting]], [[pay]], [[check]]
+* {{ja-r|会計士|かいけいし}}: [[accountant]]
+* {{ja-r|会見|かいけん}}: (public) [[interview]]
+* {{ja-r|会合|かいごう}}: [[meeting]]
+* {{ja-r|会社|かいしゃ}}: [[company]]
+* {{ja-r|会食|かいしょく}}: [[dining]] [[meets]]
+* {{ja-r|会心|かいしん}}: [[satisfaction]]
+* {{ja-r|会飲|かい.いん}}: drinking at party
+* {{ja-r|会席|かいせき}}: meeting, dine
+* {{ja-r|会談|かいだん}}: [[talks]], [[meeting]]
+* {{ja-r|会費|かいひ}}: [[membership fee]]
+* {{ja-r|会報|かいほう}}: [[newsletter]]
+* {{ja-r|会話|かいわ}}: [[conversation]]
+* {{ja-r|会期|かいき}}: [[session]] (of legislature, or of conference)
+* {{ja-r|会者定離|えしゃじょうり}}: people meet, always part
+* {{ja-r|会規|かいき}}: association's rule
+* {{ja-r|会主|かいしゅ}}: [[association]] [[founder]]
+* {{ja-r|会衆|かいしゅう}}: [[meeting]] [[attender]]
+* {{ja-r|会集|かいしゅう}}: [[meeting]], [[gathering]]
+* {{ja-r|会所|かいしょ}}: meeting place, gathering place
+* {{ja-r|会商|かいしょう}}: talks, negotiation
+{{der-mid}}
+* {{ja-r|会場|かいじょう}}: meeting place, party place
+* {{ja-r|会戦|かいせん}}: battle
+* {{ja-r|会葬|かいそう}}: funeral, attendance at a funeral
+* {{ja-r|会則|かいそく}}: association's rule, membership (code)
+* {{ja-r|会長|かいちょう}}: [[chairman]], [[president]]
+* {{ja-r|会頭|かいとう}}: association chairman
+* {{ja-r|会同|かいどう}}: meeting, assembly
+* {{ja-r|会堂|かいどう}}: church, chapel
+* {{ja-r|会読|かいどく}}: study meeting (of a book)
+* {{ja-r|会派|かいは}}: party, gathering
+* {{ja-r|開会|かいかい}}
+* {{ja-r|学会|がっかい}}
+* {{ja-r|教会|きょうかい}}
+* {{ja-r|協会|きょうかい}}
+* {{ja-r|国会|こっかい}}
+* {{ja-r|散会|さんかい}}
+* {{ja-r|司会|しかい}}
+* {{ja-r|集会|しゅうかい}}
+* {{ja-r|照会|しょうかい}}
+* {{ja-r|商会|しょうかい}}
+* {{ja-r|盛会|せいかい}}
+* {{ja-r|総会|そうかい}}
+* {{ja-r|株主総会|かぶぬしそうかい}}
+* {{ja-r|法会|ほうえ}}
+* {{ja-r|閉会|へいかい}}
+* {{ja-r|密会|みっかい}}
+* {{ja-r|民会|みんかい}}
+* {{ja-r|流会|りゅうかい}}
+* {{ja-r|議会|ぎかい}}: (the) [[Diet]]; [[parliament]]; [[congress]]
+* {{ja-r|茶会|ちゃかい}}: [[tea party]]
+{{der-bottom}}
+
+{{ja-kanjitab|かい|yomi=o}}
+
+===Etymology===
+From {{der|ja|ltc|會|tr=ɦuɑi<sup>H</sup>}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|かい|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|kyu=會|かい|hhira=くわい}}
+
+# [[meeting]], [[gathering]]
+#: {{ja-usex|会を催す|かい を もよおす|hold a meeting; throw a party}}
+#: {{ja-usex|会に出る|かい に でる|attend a meeting [party]}}
+# [[society]], [[association]], [[club]]
+#: {{ja-usex|会を組織する|かい を そしき する|form [organize] an association}}
+#: {{ja-usex|会に入る|かい に はいる|join a club}}
+#: {{ja-usex|会を脱退する|かい を だったい する|leave a club}}
+#: {{ja-usex|会を抜ける|かい を ぬける|quit a club}}
+
+===Suffix===
+{{ja-pos|suffix|kyu=會|かい|hhira=くわい}}
+
+# [[meeting]]
+# [[party]]
+
+===References===
+<references/>
+
+[[da:会]]
+[[fr:会]]
+[[ko:会]]
+[[hi:会]]
+[[io:会]]
+[[it:会]]
+[[ku:会]]
+[[ky:会]]
+[[lo:会]]
+[[lt:会]]
+[[li:会]]
+[[hu:会]]
+[[mg:会]]
+[[ms:会]]
+[[fj:会]]
+[[ja:会]]
+[[no:会]]
+[[km:会]]
+[[pl:会]]
+[[pt:会]]
+[[ru:会]]
+[[fi:会]]
+[[sv:会]]
+[[ta:会]]
+[[th:会]]
+[[chr:会]]
+[[uk:会]]
+[[zh:会]]

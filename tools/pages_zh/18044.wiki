@@ -1,0 +1,99 @@
+{{character info/new}}
+{{also|楼}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=11|sn=15|four=45944|canj=DLWV|ids=⿰木婁}}
+
+====References====
+* {{Han ref|kx=0549.310|dkj=15430|dj=0937.240|hdz=21279.040|uh=6A13|ud=27155|bh=BCD3|bd=48339}}
+
+----
+
+==Chinese==
+{{zh-forms|s=楼}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lóu
+|c=lau4,lau4-2
+|h=pfs=lèu
+|mn=lâu
+|w=3leu
+|ma=y
+|mc=y
+|oc=y
+|cat=n,cl,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[building]] (of [[two]] or more [[stories]])
+# [[floor]], [[level]]
+# {{rfdef|lang=zh}}
+#: {{zh-x|9 樓|'''comment''' #9}}
+#: {{zh-x|樓主|OP}}
+# {{surname|lang=zh}} [[Lou]]
+
+====Compounds====
+{{der5
+|{{zh-l|樓板}}
+|{{zh-l|樓層}}
+|{{zh-l|樓道}}
+|{{zh-l|樓頂}}
+|{{zh-l|樓房}}
+|{{zh-l|樓閣}}
+|{{zh-l|樓上}}
+|{{zh-l|樓臺}}
+|{{zh-l|樓梯}}
+|{{zh-l|樓下}}
+}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木11}}
+
+# {{defn|lang=ja|sort=木11}}
+
+====Readings====
+* {{ja-readings|on=[[ろう]] (rō)|kun=[[たかどの]] (takadono)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[루]]>[[누]]|eumhun=|mr=ru>nu|y=lwu>nwu}}
+
+# {{defn|lang=ko|sort=木11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lầu]], [[lâu]]|rs=木11}}
+
+# {{defn|lang=vi|sort=木11}}
+
+[[zh-min-nan:樓]]
+[[fr:樓]]
+[[ko:樓]]
+[[lt:樓]]
+[[hu:樓]]
+[[mg:樓]]
+[[fj:樓]]
+[[ja:樓]]
+[[pl:樓]]
+[[th:樓]]
+[[chr:樓]]
+[[zh:樓]]

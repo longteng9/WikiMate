@@ -1,0 +1,89 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=14|sn=16|four=21227|canj=OMBB|ids=⿰亻需}}
+
+====References====
+* {{Han ref|kx=0119.300|dkj=01220|dj=0253.080|hdz=10230.090|uh=5112|ud=20754|bh=BEA7|bd=48807}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=rú
+|c=jyu4
+|h=pfs=yì
+|md=ṳ̀
+|mn=qz,tp,xm:lû/kh:jû/zz:jî
+|w=3zr
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[scholar]]
+# [[Confucianism]]
+
+====Compounds====
+* {{zh-l|儒艮}}
+* {{zh-l|儒家}}
+* {{zh-l|儒將}}
+* {{zh-l|儒教}}
+* {{zh-l|儒林}}
+* {{zh-l|儒生}}
+* {{zh-l|儒術}}
+* {{zh-l|儒學}}
+* {{zh-l|儒雅}}
+* {{zh-l|儒醫}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=人14}}
+
+# {{defn|lang=ja|sort=人14}}
+
+====Readings====
+* {{ja-readings|goon=[[にゅう]] (nyū) {{non-joyo-reading}}|kanon=[[じゅ]] (ju)|kun=[[やわらか]] (yawaraka), [[うるおす]] (uruosu), [[したがう]] (shitagau)}}
+
+====Compounds====
+* {{ja-r|儒学|じゅがく}}
+* {{ja-r|儒教|じゅきょう}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=유}}
+
+# {{defn|lang=ko|sort=人14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nho]], [[nhu]], [[nhô]]|rs=人14}}
+
+# {{defn|lang=vi|sort=人14}}
+
+[[fr:儒]]
+[[ko:儒]]
+[[hu:儒]]
+[[mg:儒]]
+[[ja:儒]]
+[[no:儒]]
+[[pl:儒]]
+[[th:儒]]
+[[zh:儒]]

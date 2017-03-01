@@ -1,0 +1,73 @@
+{{also|计算}}
+==Chinese==
+{{zh-forms|s=计算}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìsuàn
+|c=gai3 syun3
+|h=pfs=n:kie-son/s:ki-son
+|mn=xm,qz,tw:kè-sǹg/zz:kè-sùiⁿ
+|ma=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[calculate]]; to [[compute]]
+
+====Derived terms====
+{{zh-der|計算尺|計算機|計算器|雲計算}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|けい|さん|yomi=on}}
+
+===Noun===
+{{ja-noun|けいさん}}
+
+# [[calculation]]
+# [[forecast]]
+
+====Compounds====
+* {{l/ja|計算器}}
+* {{l/ja|計算高い}}
+* {{l/ja|計算式}}
+
+===Verb===
+{{ja-verb-suru|けいさん}}
+
+# to [[calculate]]
+
+====Conjugation====
+{{ja-suru|けいさん}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=계산}}
+
+# {{hanja form of|계산|calculation}}
+
+[[zh-min-nan:計算]]
+[[fr:計算]]
+[[ko:計算]]
+[[it:計算]]
+[[lo:計算]]
+[[li:計算]]
+[[hu:計算]]
+[[mg:計算]]
+[[ja:計算]]
+[[pl:計算]]
+[[chr:計算]]
+[[zh:計算]]

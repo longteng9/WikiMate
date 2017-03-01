@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|脓}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=13|sn=17|four=75232|canj=BTWV|ids=⿰⺼農}}
+
+# [[pus]]
+
+====References====
+* {{Han ref|kx=0996.040|dkj=29938|dj=1447.040|hdz=32116.070|uh=81BF|ud=33215|bh=C177|bd=49527}}
+
+----
+
+==Chinese==
+{{zh-forms|s=脓}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=nóng
+|c=nung4
+|h=pfs=nùng
+|mn=lông/lâng
+|mn_note=lông - literary; lâng - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|信口捏膿|化膿|捏膿|灌膿|煨膿|膿包|膿包貨|膿團|膿毒病|膿疱病|膿痂疹|膿胸|膿腫|膿血|膿血債|貢膿|軟膿包}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=肉13}}
+
+# {{defn|lang=ja|sort=肉13}}
+
+====Readings====
+* {{ja-readings|on=[[どう]] (dō), [[のう]] (nō)|kun=[[うみ]] (umi)}}
+
+===Noun===
+{{ja-noun|うみ}}
+
+# [[pus]]
+
+[[Category:ja:Bodily fluids|うみ]]
+[[Category:ja:Pathology|うみ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=농|eumhun=|rv=nong|mr=nong|y=nong}}
+
+# {{defn|lang=ko|sort=肉13}}
+
+[[zh-min-nan:膿]]
+[[fr:膿]]
+[[ko:膿]]
+[[hu:膿]]
+[[mg:膿]]
+[[ja:膿]]
+[[pl:膿]]
+[[sv:膿]]
+[[th:膿]]
+[[zh:膿]]

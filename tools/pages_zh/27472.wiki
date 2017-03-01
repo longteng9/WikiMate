@@ -1,0 +1,119 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=150|rad=谷|as=10|sn=17|four=38668|canj=JRCOR}}
+
+# open up, clear
+# [[exempt]]
+
+====References====
+* {{Han ref|kx=1190.230|dkj=36221|dj=1653.220|hdz=63906.010|uh=8C41|ud=35905|bh=C1C5|bd=49605}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation 1====
+{{zh-pron
+|m=huò
+|c=kut3
+|h=pfs=vok
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=a,v,pn
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# [[open]]; [[clear]]; [[open-minded]]
+# to [[exempt]]; to [[remit]]
+# {{surname|lang=zh}}
+
+====Pronunciation 2====
+{{zh-pron
+|m=huō
+|m-s=ho1
+|c=kut3
+|h=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# to [[slit]]; to [[crack]]
+# to [[give up]]; to [[sacrifice]]; to [[risk]] one's life
+
+===Etymology 2===
+{{zh-forms|alt=呵,喝,惑}}
+
+====Pronunciation====
+{{zh-pron
+|m-s=ho1
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tlb|zh|Sichuanese}}
+
+# to [[cheat]]; to [[fool]]
+# to [[coax]]
+
+====Compounds====
+{{zh-der|豁豁哄哄}}
+
+===Etymology 3===
+{{zh-see|划|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=谷10}}
+
+# [[empty]]
+
+====Readings====
+* {{ja-readings|on=[[かつ]] (katsu)|kun=[[ひらける]] (hirakeru), [[ひろい]] (hiroi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=활|eumhun=|rv=hwal|mr=hwal|y=hwal}}
+
+# drain off
+# [[open]], [[wide]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khoát]], [[hoát]], [[khoạt]]|rs=谷10}}
+
+# {{defn|lang=vi|sort=谷10}}
+
+[[fr:豁]]
+[[hu:豁]]
+[[mg:豁]]
+[[ja:豁]]
+[[no:豁]]
+[[pl:豁]]
+[[th:豁]]
+[[zh:豁]]

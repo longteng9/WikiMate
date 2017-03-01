@@ -1,0 +1,45 @@
+==Japanese==
+{{ja-kanjitab|でん|ごん|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|でんごん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|でんごん|kyu=傳言}}
+
+# [[message]]
+
+====Usage notes====
+There is an implication that '''伝言''' refers to a [[verbal]] message, but this is not always the case; it can also refer to a written message. It is frequently used in association with telephone calls.
+
+====Synonyms====
+* {{l|ja|ＳＭＳ}}
+
+====Idioms====
+* {{ja-r|伝言を頼まれる|でんごん を たのまれる}}: to be charged with a message for someone
+
+====Related terms====
+* {{ja-r|伝言板|でんごんばん}}: [[message board]]
+
+===Verb===
+{{ja-verb-suru|でんごん|kyu=傳言}}
+
+# to send [[word]]; to give a message
+
+====Conjugation====
+{{ja-suru|でんごん}}
+
+===References===
+<references/>
+
+[[Category:ja:Communication|てんこん']]
+
+[[lt:伝言]]
+[[hu:伝言]]
+[[mg:伝言]]
+[[ja:伝言]]
+[[fi:伝言]]
+[[sv:伝言]]
+[[chr:伝言]]
+[[uk:伝言]]
+[[zh:伝言]]

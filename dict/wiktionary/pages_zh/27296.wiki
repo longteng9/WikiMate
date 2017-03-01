@@ -1,0 +1,64 @@
+{{character info/new}}
+{{also|谗}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=17|sn=24|four=07616|canj=YRNRI}}
+
+# [[slander]], [[defame]], [[misrepresent]]
+
+====References====
+* {{Han ref|kx=1187.090|dkj=36137|dj=1651.120|hdz=64032.060|uh=8B92|ud=35730|bh=C5FE|bd=50686}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谗}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chán
+|c=caam4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|讒諂|讒譖|讒佞|讒言|聽讒|讒鼎|讒構|讒人|讒臣|聽讒惑亂|讒害|讒隙|讒間|讒口|進讒|讒言佞語|讒慝}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言17}}
+
+# {{defn|lang=ja|sort=言17}}
+
+====Readings====
+* {{ja-readings|on=[[さん]] (san), [[ざん]] (zan)|kun=[[そしる]] (soshiru), [[いつわる]] (itsuwaru), [[よこしま]] (yokoshima)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=참|eumhun=|rv=cham|mr=ch'am|y=cham}}
+
+# {{defn|lang=ko|sort=言17}}
+
+[[fr:讒]]
+[[hu:讒]]
+[[ja:讒]]
+[[pl:讒]]
+[[th:讒]]
+[[zh:讒]]

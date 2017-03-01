@@ -1,0 +1,108 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=69|rad=斤|as=04|sn=8|four=80221|canj=CKHML|ids=⿱父斤}}
+
+# [[axe]], [[hatchet]]
+# [[chop]], [[hew]]
+
+====References====
+* {{Han ref|kx=0479.080|dkj=13539|dj=0838.040|hdz=32023.100|uh=65A7|ud=26023|bh=A9F2|bd=43506}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǔ
+|c=fu2
+|h=pfs=pú/fú
+|md=
+|mn=pó͘
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|斧斤|斧頭|斧削|斧鑿|斧鑿痕|斧正|斧政|斧子}}
+
+----
+
+==Japanese==
+[[File:Axt zum spalten1.jpg|250px|thumb|斧]]
+===Kanji===
+{{ja-kanji|grade=|rs=斤04}}
+
+====Readings====
+* {{ja-readings|on=[[ふ]] (fu)|kun=[[おの]] (ono)}}
+
+====Compounds====
+* [[斧鉞]]
+* [[斧鑿]]
+* [[斧正]]
+
+===Etymology===
+Originally pronounced ''wono''.
+
+===Pronunciation===
+* {{IPA|/ono/|lang=ja}}
+
+===Noun===
+{{ja-noun|おの|hhira=をの}}
+
+# a tool used to cut down trees; an [[axe]]
+#* {{RQ:Konkōmyō Saishōōkyō Ongi|9 (back)}}
+#*: 斧 '''乎乃'''
+
+===References===
+* {{R:Konkōmyō Saishōōkyō Ongi}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=부|eumhun=|rv=bu|mr=pu|y=pwu}}
+
+# {{defn|lang=ko|sort=斤04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=斤04|hanviet=[[búa]], [[buá]], [[phủ]]}}
+
+# {{defn|lang=vi|sort=斤04}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:斧]]
+[[ko:斧]]
+[[lo:斧]]
+[[lb:斧]]
+[[hu:斧]]
+[[mg:斧]]
+[[ja:斧]]
+[[no:斧]]
+[[pl:斧]]
+[[ru:斧]]
+[[fi:斧]]
+[[sv:斧]]
+[[th:斧]]
+[[tr:斧]]
+[[vi:斧]]
+[[zh:斧]]

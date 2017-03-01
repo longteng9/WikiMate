@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|恻}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=09|sn=12|four=92000|canj=PBCN|ids=⿰忄則}}
+
+# [[feel]] [[anguish]], feel [[compassion]]
+
+====References====
+* {{Han ref|kx=0393.050|dkj=10869|dj=0729.030|hdz=42327.120|uh=60FB|ud=24827|bh=B46C|bd=46188}}
+
+----
+
+==Chinese==
+{{zh-forms|s=恻}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cè
+|c=cak1,caak1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|愴惻|惻怛之心|惻然|惻怛|惻隱之心|惻隱|惻愴|惻惻|悽惻|悱惻|慘惻|憯惻|憫惻|隱惻|纏綿悱惻}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心09}}
+
+# {{defn|lang=ja|sort=心09}}
+
+====Readings====
+* {{ja-readings|on=[[そく]] (soku), [[しょく]] (shoku)|kun=[[いたむ]] (itamu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=측|eumhun=|rv=cheuk|mr=ch'ŭk|y=chuk}}
+
+# {{defn|lang=ko|sort=心09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心09|hanviet=trắc}}
+
+# {{defn|lang=vi|sort=心09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=60fb Nom Foundation]
+
+[[fr:惻]]
+[[li:惻]]
+[[hu:惻]]
+[[ja:惻]]
+[[pl:惻]]
+[[th:惻]]
+[[zh:惻]]

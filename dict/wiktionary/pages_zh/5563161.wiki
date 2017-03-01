@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms|type=21}}
+{{cardinalbox|zh|87|88|89|八十七|八十九}}
+
+===Pronunciation===
+{{zh-pron
+|m=bāshíbā
+|c=baat3 sap6 baat3
+|cat=num
+}}
+
+===Numeral===
+{{zh-num}}
+
+# {{lb|zh|cardinal}} [[eighty-eight]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|や|そ|はち}}
+{{ja-kanjitab|yomi=o|はち|じゅう|はち}}
+{{cardinalbox|ja|87|88|89|八十七|八十九}}
+
+===Etymology===
+{{compound|lang=ja|八十|八|t1=[[eighty]]|t2=[[eight]]|sort=はちじゅうはち}}
+
+===Numeral===
+{{ja-pos|numeral|はちじゅうはち}}
+
+# {{lb|ja|cardinal|sort=はちじゅうはち}} [[eighty-eight]]
+
+===Proper noun===
+{{ja-pos|proper|やそはち}}
+
+# {{surname|lang=ja|sort=やそはち}}
+
+[[hu:八十八]]
+[[tr:八十八]]
+[[zh:八十八]]

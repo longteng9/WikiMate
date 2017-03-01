@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=10|sn=13|four=64061|canj=RJPA|ids=⿰口耆}}
+
+# be [[fond]] of, have [[weakness]] for
+
+====References====
+* {{Han ref|kx=0203.060|dkj=04089|dj=0425.250|hdz=10664.160|uh=55DC|ud=21980|bh=B6DD|bd=46813}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shì
+|c=si3
+|mn=qz,xm,zz:sī
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嗜之如命|嗜好|嗜慾|嗜殺成性|嗜痂之癖|嗜痂成癖|嗜睡症|嗜酒|癖嗜|酷嗜}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口10}}
+
+# {{defn|lang=ja|sort=口10}}
+
+====Readings====
+* {{ja-readings|goon=[[じ]] (ji)|kanon=[[し]] (shi)|kun=[[たしなむ]] (tashinamu), [[たしなみ]] (tashinami)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|rv=gi|mr=ki}}
+
+# {{defn|lang=ko|sort=口10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thị]]|rs=口10}}
+
+# {{defn|lang=vi|sort=口10}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=55dc Nom Foundation]
+
+[[fr:嗜]]
+[[ko:嗜]]
+[[li:嗜]]
+[[hu:嗜]]
+[[mg:嗜]]
+[[ja:嗜]]
+[[no:嗜]]
+[[pl:嗜]]
+[[th:嗜]]
+[[zh:嗜]]

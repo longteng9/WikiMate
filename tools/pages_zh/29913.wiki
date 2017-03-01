@@ -1,0 +1,57 @@
+{{character info/new}}
+{{also|镰}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=13|sn=21|four=80137|canj=CITC}}
+
+# [[sickle]]
+
+====References====
+* {{Han ref|kx=1323.190|dkj=40927|dj=1823.080|hdz=64265.120|uh=942E|ud=37934|bh=C549|bd=50505}}
+
+----
+
+==Chinese==
+{{zh-forms|s=镰}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lián
+|c=lim4
+|mn=nî
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[sickle]]
+#: {{zh-x|鐮刀|sickle}}
+
+====Compounds====
+{{zh-der|掛鐮|打火鐮|火鐮|鐮倉幕府|鉤鐮槍|鐮刀|鐮倉}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金13}}
+
+# {{defn|lang=ja|sort=金13}}
+
+====Readings====
+* {{ja-readings|on=[[れん]] (ren)|kun=[[かま]] (kama)}}
+
+[[fr:鐮]]
+[[hu:鐮]]
+[[mg:鐮]]
+[[pl:鐮]]
+[[th:鐮]]
+[[zh:鐮]]

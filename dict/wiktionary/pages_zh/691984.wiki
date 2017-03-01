@@ -1,0 +1,95 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qīngshān
+|c=cing1 saan1
+|h=pfs=chhiâng-sân
+|mn=chheng-san
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[green]] [[mountains]]; mountains with [[lush]] [[forest]]s
+
+====Derived terms====
+{{zh-der|留得青山在，不怕沒柴燒}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja|青山|青山 (Aoyama)}}
+{{wikipedia|Aoyama}}
+[[File:Aoyama_kamon.jpg|thumb|250px|{{lang|ja|青山}} (''Aoyama''): the '''Aoyama''' family [[crest]].]]
+</div>
+{{ja-kanjitab|yomi=kun|あお|やま}}
+Compound of {{compound|lang=ja|sort=あおやま|青|tr1=ao|t1=blue or green; lush with life|山|tr2=yama|t2=mountain}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|あおやま|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|あおやま|hhira=あをやま}}
+
+# a [[green]] [[lush]] [[mountain]] or [[mountainous]] [[area]]
+# a type of [[fancy]] ''[[kamaboko]]'' ([[fishcake]]) used in [[ceremony|ceremonies]]
+
+====Proper noun====
+{{ja-pos|proper|あおやま|hhira=あをやま}}
+
+# {{surname|lang=ja|sort=あおやま|Japanese [[habitational]]}}
+# a place in the north of [[w:Minato, Tokyo|Minato-ku, Tōkyō]]
+#: So named as the land was deeded to Aoyama Tadanari ({{m|ja|青山忠成}}, d. 1613; [[w:Aoyama Tadanari|Wikipedia article]]) by Tokugawa Ieyasu ({{m|ja|徳川家康}}, d. 1616; [[w:Tokugawa Ieyasu|Wikipedia article]]).
+# various other places in Japan
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|青山菊|あおやまぎく}}: the Aoyama [[chrysanthemum]], a family [[crest]]
+{{der-bottom}}
+
+===Etymology 2===
+<div style="float:right;">
+{{wikipedia|lang=ja|青山|青山 (Seizan)}}
+{{wikipedia|Qingshan}}
+</div>
+{{ja-kanjitab|yomi=o|せい|さん|k2=ざん|r=y}}
+From {{etyl|ltc|ja|sort=せいざん}} {{m|zh|青山|tr=tsheng srɛn|lit=green or blue + mountain or hill}}. Compare modern {{etyl|nan|-}} reading ''chheng-san'', or {{etyl|cmn|-}} reading ''qīngshān''.
+
+The {{m|ja|山}} character is read ''san'' ordinarily. {{rendaku2|sort=せいざん|san|zan}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|せいざん|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|せいざん}}
+
+# a [[green]] [[lush]] [[mountain]] or [[mountainous]] [[area]]
+# {{qualifier|metaphoric}} a [[grave]] or one's final resting place
+# alternate name for the {{ja-r|琵琶|びわ}}, a four-stringed [[lute]] brought to Japan from [[Tang Dynasty]] China
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|青山一髪|せいざん いっぱつ}}: "lush mountains, a single hair" → the mountains are so far away that they recede into the distance, seeming only as tall as a single hair is wide
+* {{ja-r|人間到る処青山有り|にんげん いたる ところ せいざん あり}}; {{ja-r|人間至る所青山有り|じんかん いたる ところ せいざん あり}}: "wherever people go, there are green mountains", "wherever you go in the world, there are green mountains" → get out and see the world, don't be a [[homebody]]
+{{der-bottom}}
+
+====Proper noun====
+{{ja-pos|proper|せいざん}}
+
+# [[Qingshan]], any of several places in China
+
+===References===
+<references/>
+
+[[Category:ja:Place names|あおやま]]
+
+[[zh-min-nan:青山]]
+[[fr:青山]]
+[[ja:青山]]
+[[zh:青山]]

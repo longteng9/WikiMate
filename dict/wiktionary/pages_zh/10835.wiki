@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=06|sn=8|four=28261|canj=OOMR|ids=⿰亻合}}
+
+# to [[conform]] to, to [[fit]] with, to be [[compatible]] with
+# to [[polymerise]]/[[polymerize]]
+# to [[join forces]], to [[give]] [[full]] [[cooperation]]
+# {{lb|zh|Cantonese}} [[intensive]] [[particle]]
+
+====References====
+* {{Han ref|kx=0100.120|dkj=00551|dj=0212.070|hdz=10150.040|uh=4F6E|ud=20334|bh=CBCC|bd=52172}}
+* [http://yedict.com/htm/4F/4F6E.htm yedict.com (叶典)]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{qualifier|Hokkien: and; with}} {{l|zh|甲}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gé,ān
+|c=daap6,gap3
+|h=pfs=
+|md=
+|mn=kah/ha̍h
+|mn-t=gah4/kah4
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|Min Nan}} [[and]]; [[with]]; [[accompanying]]
+# {{lb|zh|Teochew}} [[too]]; [[excessively]]
+#: {{zh-x|佮 濟|'''too''' much|tr='''kah4''' zoi7|MN-T}}
+
+====Synonyms====
+* {{sense|with}}
+{{zh-dial|和}}
+* {{sense|too}}
+{{zh-dial|太}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人06}}
+
+# {{defn|lang=ja|sort=人06}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[あわせる]] (awaseru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=합|eumhun=|rv=hap|mr=hap|y=hap}}
+
+# {{defn|lang=ko|sort=人06}}
+
+[[zh-min-nan:佮]]
+[[fr:佮]]
+[[hu:佮]]
+[[mg:佮]]
+[[pl:佮]]
+[[th:佮]]
+[[zh:佮]]

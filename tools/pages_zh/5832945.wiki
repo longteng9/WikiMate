@@ -1,0 +1,44 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|と|や|yomi=k}}
+Compound of {{affix|sort=とや|ja|鳥|tr1=to|屋|tr2=ya}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|とや|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|塒}}
+
+====Noun====
+{{ja-noun|とや}}
+
+# [[henhouse]]
+
+=====Derived terms=====
+* {{ja-r|鳥屋入り|とやいり}}
+* {{ja-r|鳥屋返る|とやがえる}}
+* {{ja-r|鳥屋掛け|とやがけ}}
+* {{ja-r|鳥屋籠もり|とやごもり}}
+* {{ja-r|鳥屋出|とやで}}
+* {{ja-r|鳥屋に就|とや に つく}}
+
+===Etymology 2===
+{{ja-kanjitab|とり|や|yomi=k}}
+Compound of {{affix|sort=とりや|ja|鳥|tr1=tori|屋|tr2=ya}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|とりや|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|とりや}}
+
+# [[bird]] [[dealer]]
+# [[poulterer]]
+# [[henhouse]]
+
+===References===
+<references/>
+
+[[fi:鳥屋]]
+[[zh:鳥屋]]

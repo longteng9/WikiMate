@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiēxiāo
+|c=cit3 soek3
+|mn=chhiat-siah
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|mechanics}} [[cutting]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|せつ|k1=せっ|さく|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|せっさく|y=on}}
+
+===Noun===
+{{ja-noun|せっさく}}
+
+# [[machining]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|せっさく}}
+
+# [[machine]]
+
+====Conjugation====
+{{ja-suru|せっさく}}
+
+[[hu:切削]]
+[[mg:切削]]
+[[zh:切削]]

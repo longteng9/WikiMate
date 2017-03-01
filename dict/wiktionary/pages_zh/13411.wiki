@@ -1,0 +1,52 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=14|sn=17|four=|canj=ELG,XELG|ids=⿱漸土}}
+
+# [[moat]] around a [[city]]
+# a [[channel]] (waterway)
+
+====References====
+* {{Han ref|kx=0240.310|dkj=05542|dj=0480.190|hdz=10497.080|uh=58CD|ud=22733}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiàn
+|c=cim3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土14}}
+
+# {{defn|lang=ja|sort=土14}}
+
+====Readings====
+* {{ja-readings|on=[[ざん]] (zan)|kun=[[ほり]] (hori), [[あな]] (ana)}}
+
+[[fr:壍]]
+[[hu:壍]]
+[[pl:壍]]
+[[th:壍]]
+[[zh:壍]]

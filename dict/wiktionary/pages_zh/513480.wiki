@@ -1,0 +1,28 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Wasei-eigo}}
+</div>
+{{ja-kanjitab|yomi=o|わ|せい|えい|ご}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=わせいえいご|和製|tr1=wasei|t1=Japanese-made|英語|tr2=eigo|t2=English (language)}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=on|わせい えいご|acc=4|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|わせい えいご}}
+
+# [[Japanese]] [[pseudo-anglicism]]s: Japanese [[coinage]]s using [[English]] [[root]]s, not in use in [[anglophone]] countries nor by English native speakers, but only by speakers of Japanese
+
+===See also===
+* [[Wiktionary:Requested entries (Japanese)/List of gairaigo and wasei-eigo terms|List of gairaigo and wasei-eigo terms]]
+* {{ja-r|和製外来語|わせい がいらいご|gloss=foreign-language terms coined in Japan}}
+
+===References===
+<references/>
+
+[[ko:和製英語]]
+[[ja:和製英語]]
+[[sv:和製英語]]

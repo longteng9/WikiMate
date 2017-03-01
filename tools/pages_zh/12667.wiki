@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=11|sn=14|four=61091|canj=RMWF|ids=⿰口票}}
+
+# [[fast]], [[speedy]]
+
+====References====
+* {{Han ref|kx=0205.130|dkj=04182|dj=0428.070|hdz=10675.010|uh=560C|ud=22028|bh=E149|bd=57673}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=嘌
+|c=piu1,piu3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嘌呤|嘌唱}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=口11}}
+
+# {{defn|lang=ja|sort=口11}}
+
+====Readings====
+{{ja-readings|goon=[[ひょう]] (hyō)|kanon=[[ひょう]] (hyō)|kun=[[はやい]] (hayai), [[ゆれる]] (yureru), [[みだれる]] (midareru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=표|rv=pyo|mr=p'yo}}
+
+# {{defn|lang=ko|sort=口11}}
+
+[[fr:嘌]]
+[[li:嘌]]
+[[hu:嘌]]
+[[mg:嘌]]
+[[pl:嘌]]
+[[th:嘌]]
+[[zh:嘌]]

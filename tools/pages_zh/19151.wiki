@@ -1,0 +1,122 @@
+{{character info/new}}
+{{also|减}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=09|sn=12|four=33150|canj=EIHR}}
+
+# [[decrease]], [[subtract]], [[diminish]]
+
+====References====
+* {{Han ref|kx=0633.420|dkj=17759|dj=1040.020|hdz=31671.070|uh=6E1B|ud=28187|bh=B4EE|bd=46318}}
+
+----
+
+==Chinese==
+{{zh-forms|s=减}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiǎn
+|c=gaam2
+|h=pfs=kám
+|md=
+|mn=kiám
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[subtract]]
+
+====Antonyms====
+* {{zh-l|加|to add}}
+
+====Derived terms====
+* {{zh-l|減肥|to lose weight}}
+* {{l|cmn|减半}}
+* {{l|cmn|减产|tr=jiǎnchǎn}}
+* {{l|cmn|减充血剂}} (jiǎn chōng xiě jì)
+* {{l|cmn|减除}}
+* {{l|cmn|减低}}
+* {{l|cmn|减额}}
+* {{l|cmn|减法}}
+* {{l|cmn|减号}}
+* {{l|cmn|减河}}
+* {{l|cmn|减缓}}
+* {{l|cmn|减价|tr=jiǎnjià}}
+* {{l|cmn|减慢}}
+* {{l|cmn|减免}}
+* {{l|cmn|减轻|tr=jiǎnqīng}}
+* {{l|cmn|减却}}
+* {{l|cmn|减弱|tr=jiǎnruò}}
+* {{l|cmn|减色}}
+* {{l|cmn|减少|tr=jiǎnshǎo}}
+* {{l|cmn|减数}}
+* {{l|cmn|减数分裂}}
+* {{l|cmn|减税}}
+* {{l|cmn|减速|tr=jiǎnsù}}
+* {{l|cmn|减速剂}}
+* {{l|cmn|减速运动}}
+* {{l|cmn|减损}}
+* {{l|cmn|减缩}}
+* {{l|cmn|减退}}
+* {{l|cmn|减薪}}
+* {{l|cmn|减刑}}
+* {{l|cmn|减削}}
+* {{l|cmn|减压}}
+* {{l|cmn|减员}}
+* {{l|cmn|减震器}}
+
+{{zh-cat|Arithmetic}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=水09}}
+
+====Readings====
+* {{ja-readings|goon=[[けん]] (ken) {{non-joyo-reading}}, [[げん]] (gen)|kanon=[[かん]] (kan) {{non-joyo-reading}}|kun=[[へる]] (heru), [[へらす]] (herasu)}}
+
+===Suffix===
+{{ja-pos|suffix|げん}}
+
+# [[reduction]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=감|eumhun=|rv=gam|mr=kam|y=kam}}
+
+# {{defn|lang=ko|sort=水09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[giảm]], [[dởm]], [[xảm]]|rs=水09}}
+
+# {{defn|lang=vi|sort=水09}}
+
+[[es:減]]
+[[fr:減]]
+[[ko:減]]
+[[hu:減]]
+[[mg:減]]
+[[ja:減]]
+[[pl:減]]
+[[th:減]]
+[[chr:減]]
+[[zh:減]]

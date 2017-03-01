@@ -1,0 +1,101 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{zh-compound|傀|儡|({{l|zh|塊}}) chunk, lump|({{l|zh|壘}}) to pile up, to accumulate}} Semantically, "statues made of soil and timber" (''{{w|Liezi}}'') > "puppet" > "(figurative) puppet" (''{{w|Qing Dynasty}}''); also "sulks, pent-up sorrow" (''{{w|Qing Dynasty}}'').
+
+===Pronunciation===
+{{zh-pron
+|m=kuǐlěi,guīlěi
+|c=faai3 leoi5
+|mn=ka-lé
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# (''kuǐlěi'')
+## [[puppet]]
+## {{lb|zh|figurative}} [[puppet]], someone who is [[manipulate]]d by another
+# (''guīlěi'')
+## [[sulks]], [[pent-up]] [[sorrow]]
+
+====Synonyms====
+* {{sense|puppet}} {{zh-l|木偶}}
+
+====Derived terms====
+{{zh-der|傀儡戲}}
+
+====See also====
+* {{pedialite|lang=zh}}
+* {{pedialite|Puppet}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|sort=くぐつ}}
+Perhaps cognate with {{m|ja|裹|tr=kugutsu||hand bag}}. Wandering artisans would put their puppets in hand bags while traveling.
+
+====Pronunciation====
+{{ja-pron|acc=a|acc2=h|くぐつ|y=i}}
+
+====Noun====
+{{ja-noun|くぐつ}}
+
+# a [[puppet]]
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|39-40}}
+#*: 機関 木人 '''久々都'''
+# a [[female]] [[artisan]] who wandered from place to place, [[entertain]]ing and [[perform]]ing with a puppet.
+# a [[prostitute]].
+
+===Etymology 2===
+{{ja-kanjitab|かい|yomi=o|らい}}
+{{IPAchar|kwairai > kairai}}.
+
+====Pronunciation====
+{{ja-pron|acc=h|かいらい|y=ko}}
+
+====Noun====
+{{ja-noun|かいらい|hhira=くわいらい}}
+
+# A [[puppet]]
+# A [[person]] who is [[used]] to [[use]] or [[control]]led as pleased like a puppet by a '[[puppetmaster]]'.
+
+====See also====
+* {{pedialite|lang=ja}}
+* {{pedialite|Puppet}}
+
+===References===
+* {{Shin'yaku Kegonkyō Ongi Shiki}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|rv=goeroe|hangeul=괴뢰}}
+
+# {{hanja form of|괴뢰|puppet}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab|傀|儡}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|quỷ lỗi|puppet}}
+
+[[zh-min-nan:傀儡]]
+[[ko:傀儡]]
+[[hu:傀儡]]
+[[mg:傀儡]]
+[[ja:傀儡]]
+[[sv:傀儡]]
+[[chr:傀儡]]
+[[zh:傀儡]]

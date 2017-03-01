@@ -1,0 +1,146 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=dìzhèn
+|c=dei6 zan3
+|h=pfs=thi-chṳ́n
+|w=3di tsen
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[earthquake]]
+#: {{zh-x|臺灣 發生 地震 了。|There was an '''earthquake''' in Taiwan.}}
+
+====Synonyms====
+* {{qualifier|dialectal}} {{zh-l|地動}}
+* {{qualifier|Min Nan}} {{zh-l|塗牛翻身}}, {{zh-l|地牛翻身}}
+
+===See also===
+* {{zh-l|餘震|aftershock}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|じ|しん|yomi=o}}
+/disin/ > /zisin/. Literally "ground shake".
+
+====Pronunciation====
+* {{ja-pron|じしん|y=o|acc=0|acc_ref=NHK}}
+* {{homophones|lang=ja|自信}} (confidence), [[自身]] (one's self), [[時針]] (hour-hand (of clock or watch)), [[磁針]] (compass), [[磁心]] (magnetic core)
+
+====Noun====
+{{ja-noun|じしん|hhira=ぢしん}}
+
+# shaking of the earth; an [[earthquake]]
+
+=====Related terms=====
+{{top2}}
+* {{ja-r|震源地|しんげんち}}: epicenter
+{{mid2}}
+* {{ja-r|余震|よしん}}: aftershock
+{{bottom}}
+
+=====See also=====
+{{top2}}
+* {{ja-r|速報|そくほう}}: flash news
+* {{ja-r|津波|つなみ}}: tsunami, tidal wave
+{{mid2}}
+* {{ja-r|避難所|ひなんじょ}}: shelter
+{{bottom}}
+
+===Etymology 2===
+/nawi/ > /nai/. Japanese loses labialization before non-open vowels.
+
+====Pronunciation====
+* {{IPA|[nai]|lang=ja}}
+
+====Noun====
+{{ja-noun|ない|hhira=なゐ}}
+
+# {{label|ja|obsolete}} an [[earthquake]]
+#* '''720''', [[w:Nihon Shoki|Nihon Shoki]] (year 415)
+#*:: 五年秋七月丙子朔己丑、'''地震'''。先是、命葛城襲津彦之孫玉田宿禰、主瑞齒別天皇之殯。則當'''地震'''夕、遣尾張連吾襲、察殯宮之消息。時諸人悉聚無闕。
+#* '''1212''', [[w:Hōjōki|Hōjōki]]
+#*: また、同じころかとよ、おびたゝしく大'''地震'''ふること侍き。[...] 恐れのなかに恐るべかりけるは、只'''地震'''なりけりとこそ覺え侍しか。[...] よのつね、驚くほどの'''地震'''、二三十度ふらぬ日はなし。
+
+===Etymology 3===
+/nawi/ > /nai/ > /nae/. Middle Japanese /e/ was realized as [je], hence the below citation.
+
+====Pronunciation====
+* {{IPA|[nae]|lang=ja}}
+
+====Noun====
+{{ja-noun|なえ}}
+
+# an [[earthquake]]
+#* {{RQ:Nippo Jisho|455}}
+#*: '''Naye'''. ナエ(地震) 地震. '''Naye'''ga yuru. (地震が揺る) 地震がする.
+
+===References===
+* {{R:Nippo Jisho}}
+* {{cite-book
+|last=Nishio
+|first=Minoro
+|title=Nihon Koten Bungaku Taikei: Hōjōki, Tsurezuregusa
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|year_published=1957
+|year=1212
+|isbn=4-00-060030-3}}
+* {{cite-book
+|last=Sakamoto
+|first=Tarō
+|coauthors=Ienaga Saburō, Inoue Mitsusada, [[w:Ōno Susumu|Ōno Susumu]]
+|title=Nihon Koten Bungaku Taikei: Nihon Shoki (vol. 1)
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|year_published=1965-1967
+|year=720
+|isbn=4-00-060067-2}}
+
+[[Category:Japanese basic words|ししん']]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=지진}}
+
+# {{hanja form of|지진|[[earthquake]]}}
+
+====Related terms====
+{{top2}}
+* {{l|ko|震源地|tr=[[진원지]], jinwonji||epicenter}}
+{{mid2}}
+* {{l|ko|餘震|tr=[[여진]], yeojin||aftershock}}
+{{bottom}}
+
+[[zh-min-nan:地震]]
+[[cs:地震]]
+[[el:地震]]
+[[es:地震]]
+[[fr:地震]]
+[[ko:地震]]
+[[hr:地震]]
+[[lo:地震]]
+[[lt:地震]]
+[[hu:地震]]
+[[mg:地震]]
+[[ja:地震]]
+[[pl:地震]]
+[[pt:地震]]
+[[ru:地震]]
+[[sv:地震]]
+[[th:地震]]
+[[zh:地震]]

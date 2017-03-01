@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|唉}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=76|rad=欠|as=07|sn=11|four=27482|canj=IKNO|ids=⿰矣欠}}
+
+# a [[sigh]]
+# an [[exclamatory]] [[sound]]
+
+====References====
+* {{Han ref|kx=0568.070|dkj=16090|dj=0956.190|hdz=32140.110|uh=6B38|ud=27448|bh=D5D9|bd=54745}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=āi,ǎi
+|c=aai2,ei6,oi1
+|mn=i/ò
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=欠07}}
+
+# {{defn|lang=ja|sort=欠07}}
+
+====Readings====
+* {{ja-readings|on=[[あい]] (ai), [[かい]] (kai)|kun=[[なげく]] (nageku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=애|eumhun=|rv=ae|mr=ae|y=ay}}
+
+# {{defn|lang=ko|sort=欠07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=欠07| hanviet = ái}}
+
+# {{defn|lang=vi|sort=欠07}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6b38 Nom Foundation]
+
+[[zh-min-nan:欸]]
+[[fr:欸]]
+[[hu:欸]]
+[[ja:欸]]
+[[pl:欸]]
+[[th:欸]]
+[[zh:欸]]

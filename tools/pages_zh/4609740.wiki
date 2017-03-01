@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|yomi=o|ちゅう|か}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ちゅうかそば|中華|tr1=chūka|t1=Chinese|蕎麦|tr2=soba|t2=buckwheat|pos2=used as a [[metonym]] for “buckwheat noodles”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=o|ちゅうか そば|acc=4|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ちゅうか そば}}
+
+# Chinese [[noodle]]s: [[ramen]], mostly traditional ramen in Japan
+
+====Synonyms====
+* {{ja-r|linkto=支那蕎麦|支那 蕎麦|しな そば}}
+* {{ja-r|ラーメン}}
+
+===References===
+<references/>
+
+[[Category:ja:Foods|ちゅうかそば]]
+
+[[ru:中華蕎麦]]

@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|しょう|ふく|yomi=on}}
+
+===Alternative forms===
+* [[承伏]]
+
+===Etymology===
+From {{m|ja|承|sc=Jpan|tr=shō||agree to}} + {{m|ja|服|sc=Jpan|tr=fuku||submit to}}
+
+===Noun===
+{{ja-noun|しょうふく}}
+
+# [[consent]], [[acceptance]]
+
+===Verb===
+{{ja-verb-suru|しょうふく}}
+
+# [[accept]]
+
+====Conjugation====
+{{ja-suru|しょうふく}}
+
+[[ko:承服]]
+[[mg:承服]]
+[[ja:承服]]
+[[zh:承服]]

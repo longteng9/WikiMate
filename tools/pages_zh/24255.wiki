@@ -1,0 +1,105 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=7}}
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=03|sn=7|four=71240|canj=BMJ|ids=⿰月干}}
+
+====References====
+* {{Han ref|kx=0974.090|dkj=29273|dj=1425.310|hdz=32044.030|uh=809D|ud=32925|bh=A878|bd=43128}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|肉|alt1=⺼|t1=body|干|ls=psc|c1=s|c2=p}} – a kind of body part.
+
+===Pronunciation===
+{{zh-pron
+|m=gān
+|c=gon1
+|h=pfs=kôn
+|md=
+|mn=koaⁿ
+|w=
+|ma=zh-gan.ogg
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|anatomy}} [[liver]] {{zh-mw|葉|個}}
+#: {{zh-x|我 不 吃 肚{dǔ} 也不 吃 肝。|I can't eat either tripe or '''liver'''.}}
+#: {{zh-x|身體 的 大部分 膽固醇 是 在 肝 和 腸 內 由 消化 的 食物 製 成 的。|Most of the body's cholesterol is made in the '''liver''' and intestine from digested food.}}
+
+===Compounds===
+{{zh-der|互託肝膽|全無心肝|剌心剌肝|剖心坼肝|剖心析肝|剖肝泣血|剖肝瀝膽|動肝火|壞心肝|大動肝火|夾肝|心疼肝斷|心肝|心肝寶貝|心肝肉|忠肝義膽|感人肺肝|披瀝肝膽|披肝掛膽|披肝瀝膽|披露肝膽|揪心扒肝|摘心去肝|摧心剖肝|摧胸破肝|有肝膽|沙肝兒|瀝膽墮肝|瀝膽披肝|炒肝兒|玻璃心肝|肝功能|肝吸蟲|肝橫膽乍|肝氣|肝火|肝火上炎|肝火旺|肝火盛|肝炎|肝癌|肝硬化症|肝脾|肝腦塗地|肝腫大|肝腸寸斷|肝腸崩裂|肝膽|肝膽塗地|肝膽楚越|肝膽照人|肝膽相照|肝膽胡越|肝臟|肝虛|肝蛭|肝醣|肝風|肝鬱|肝鬲|肺肝|胗肝兒|蝨脛蟣肝|蟲臂鼠肝|豬肝|赤膽忠肝|輸肝剖膽|輸肝瀝膽|隳肝瀝膽|雕肝琢腎|雕肝琢膂|雕肝鏤腎|露膽披肝|驢肝肺|魚肝油|鰵魚肝油|鳳髓龍肝|麟肝鳳髓|鼠肝蟲臂|龍肝豹胎|龍肝鳳髓}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=肉03}}
+
+====Readings====
+* {{ja-readings|goon=[[かん]] (kan)|kun=[[きも]] (kimo)|kanon=[[かん]] (kan)}}
+
+====Compounds====
+* [[肝炎]] (かんえん, kan'en)
+
+===Noun===
+{{ja-noun|きも}}
+
+# the [[liver]]
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki}}
+#*: 心腎肝脯 心人情也 腎音神 訓牟良斗 肝音干 訓'''岐毛'''
+# [[innards]]
+
+===References===
+* {{R:Nara Ibun 3}}
+
+[[Category:Japanese basic words|きも]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=간|eumhun=|rv=gan|mr=kan|y=kan}}
+
+# {{defn|lang=ko|sort=肉03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[can]], [[gan]]|rs=肉03}}
+
+# {{defn|lang=vi|sort=肉03}}
+
+[[zh-min-nan:肝]]
+[[fr:肝]]
+[[ko:肝]]
+[[ku:肝]]
+[[ky:肝]]
+[[lo:肝]]
+[[hu:肝]]
+[[mg:肝]]
+[[ja:肝]]
+[[no:肝]]
+[[pl:肝]]
+[[ro:肝]]
+[[ru:肝]]
+[[sv:肝]]
+[[th:肝]]
+[[chr:肝]]
+[[uk:肝]]
+[[zh:肝]]

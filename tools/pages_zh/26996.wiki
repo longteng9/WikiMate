@@ -1,0 +1,70 @@
+{{character info/new}}
+{{also|诙}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=06|sn=13|four=04689|canj=YRKF}}
+
+# tease, joke with
+# [[ridicule]], [[mock]]
+
+====References====
+* {{Han ref|kx=1159.170|dkj=35462|dj=1625.160|hdz=63963.020|uh=8A7C|ud=35452|bh=B8D9|bd=47321}}
+
+----
+
+==Chinese==
+{{zh-forms|s=诙}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huī
+|c=fui1
+|h=pfs=
+|md=
+|mn=khoe
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[诙谐]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言06}}
+
+# {{defn|lang=ja|sort=言06}}
+
+====Readings====
+* {{ja-readings|goon=[[け]] (ke)|kanon=[[かい]] (kai)|kun=[[たわむれる]] (tawamureru), [[おどける]] (odokeru), [[あざける]] (azakeru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=회|eumhun=|rv=hoe|mr=hoe|y=hoy}}
+
+# {{defn|lang=ko|sort=言06}}
+
+[[fr:詼]]
+[[hu:詼]]
+[[mg:詼]]
+[[ja:詼]]
+[[pl:詼]]
+[[th:詼]]
+[[zh:詼]]

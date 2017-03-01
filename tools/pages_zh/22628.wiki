@@ -1,0 +1,121 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=117|rad=立|as=05|sn=10|four=01160|canj=YTYR}}
+
+====References====
+* {{Han ref|kx=0870.290|dkj=25742|dj=1300.230|hdz=42707.280|uh=7AD9|ud=31449|bh=AFB8|bd=44984}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=佔,趈,跕,𥩠}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|立|占|c1=s|c2=p|ls=psc}}. A relatively late character – not found in ''{{w|Shuowen}}''; found in ''{{w|Guangyun}}''.
+
+===Pronunciation===
+{{zh-pron
+|m=zhàn
+|ma=y
+|c=zaam6
+|h=pfs=chham/cham
+|h_note=cham - "station"
+|md=cáng/câng
+|md_note=cáng - "stand" (literary); câng - "station"; colloquially "stand" is {{zh-l|*徛}}
+|mn=qz:chǎm/tw,xm,zz:chām/qz,xm,zz:chàn
+|mn_note=chǎm/chām - literary; chàn - vernacular (俗)
+|mn-t=zam6
+|w=3ze
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Etymology 1===
+"To stand": A Northern Chinese word attested since the 9-10th centuries. Displaced earlier {{zh-l|立}} in most modern northern Chinese varieties.
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[stand]]
+#: {{zh-x|站起來|'''stand''' up}}
+# to [[stop]], to [[halt]]
+# {{lb|zh|figurative}} to take a firm [[stance]]; to [[uphold]] the stand
+
+=====Synonyms=====
+{{zh-dial}}
+
+===Etymology 2===
+Generally considered to be a Mongolian influence in the {{w|Yuan Dynasty}} – an abbreviation of {{zh-l|站赤|post stations during the Yuan Dynasty}}, from {{der|zh|xng|ᠵᠠᠮᠴᠢ||post station}} (> {{cog|mn|замч||guide; cicerone}}), a derivative of {{der|zh|xng|ᠵᠠᠮ||way, path}} (> {{cog|mn|зам}}).
+
+Mongolian ''ǰam'' is undoubtedly cognate with {{cog|trk-pro|*jam||post station}} (> {{cog|tr|yam}}; ~ {{cog|ru|ям}}) with the same meaning; see {{w|Yam (route)}}. Starostin considers the Turkic form a descendant of {{cog|tut-pro|*ńi̯àmi||trace}} and related to Proto-Mongolian *''ǯim'' ("path, trace"; > {{cog|mn|ᠵᠢᠮ}} / {{l|mn|жим}}). Also compare {{cog|tr|yamçı||post rider}}, {{cog|ru|ямщи́к||drive, coachman}}.
+
+There is no scholarly consensus regarding the direction of borrowing. Generally it is believed that Turkic ''jam'' and Chinese ''zhàn'' are loanwords from Mongolian ''ǰam'', however some (e.g. Tuymebayev in Казахско-монгольские лексические параллели) believe the directionality is reversed (i.e. Chinese "to stand > stand > station" → Middle Mongolian → Turkic → Russian). Whatever the etymology, what is apparent is that the word ''jam'' has been around for a long time and was used by Central Asians to designate a key postal relay station or official.
+
+In Chinese, this word has been competing with the native equivalent {{zh-l|*驛|tr=yì|post station}} since its introduction. Mongol-ruled Yuan Dynasty saw the profusion of use of ''zhàn'', which was deliberately suppressed in the succeeding {{w|Ming Dynasty}} in favour of ''yì''. Both were used in the subsequent {{w|Qing Dynasty}}, with ''zhàn'' eventually predominating in the modern times, being used to render the sense of "station" in modern concepts, such as "train station". Other Sinosphere countries show preference variations too: Vietnamese uses {{lang|zh|站}} ({{m|vi|trạm}}), whereas Japanese and Korean still use {{lang|zh|驛}} for "station" (Japanese {{ja-l|駅|えき|eki}}, Korean {{ko-l|역|驛}}).
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[post]] [[station]]; [[relay]] station
+# [[station]]; [[stand]]
+#: {{zh-x|火車站|railway '''station'''}}
+# {{zh-short|網站|website}}
+#: {{zh-x|站長|sysop}}
+#: {{zh-x|B站|{{w|Bilibili}}|tr=B-zhàn}}
+
+===Compounds===
+{{zh-der|站不住腳|站住|站前區|站台|站員|站姿|站崗|站牌|站穩|站立|站管理|站起|站起來|站軍姿|站長|站點|中站|中繼站|中轉站|互聯網站|停站|停車站|停靠站|公交站|公共汽車站|兵站|加油站|北京站|原子能發電站|單連接站|國際太空站|地熱電站|地鐵站|基站|多站|天后站|太空站|奶站|家壩水電站|小靈通機站|工作站|巴士站|彈藥補給站|急救站|投票站|抽水站|招呼站|收廢站|收費站|核電站|檢查站|氣象站|氣象觀測站|水力發電站|水電站|汽車站|泵站|潮汐電站|灌站|火車站|發射站|發電站|票站|空間站|端站|管理站|糧站|終點站|網站|總站|罰站|航空站|航站|船到碼頭，車到站|補給站|記者站|變電站|貨站|車站|軌道空間站|載人軌道空間站|轉運站|邊防站|配電站|門戶網站|開站|雙連接站|電灌站|電站|驛站}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=立05}}
+
+# {{defn|lang=ja|sort=立05}}
+
+====Readings====
+* {{ja-readings|on=[[たん]] (tan)|kun=[[たつ]] (tatsu), [[たたずむ]] (tatazumu), [[うまつぎ]] (umatsugi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=참|eumhun=|mr=ch'am|y=cham}}
+
+# {{defn|lang=ko|sort=立05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trạm]], [[trậm]]|rs=立05}}
+
+# {{defn|lang=vi|sort=立05}}
+
+[[zh-min-nan:站]]
+[[fr:站]]
+[[ko:站]]
+[[lt:站]]
+[[hu:站]]
+[[mg:站]]
+[[fj:站]]
+[[nl:站]]
+[[ja:站]]
+[[no:站]]
+[[pl:站]]
+[[tl:站]]
+[[ta:站]]
+[[th:站]]
+[[chr:站]]
+[[uk:站]]
+[[zh:站]]

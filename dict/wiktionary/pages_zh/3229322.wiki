@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shàngshù
+|c=soeng6 seot6
+|mn=xm,qz,tp,kh:siōng-su̍t/zz:siāng-su̍t
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[aforementioned]]; [[above-mentioned]]
+#: {{zh-x|上述 事實|the '''aforementioned''' facts}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じょう|じゅつ|yomi=on}}
+
+===Noun===
+{{ja-noun|じょうじゅつ}}
+
+# the [[above-mentioned]]
+
+====Synonyms====
+* {{ja-r|前述|ぜんじゅつ}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|じょうじゅつ}}
+
+# mention previously
+
+====Conjugation====
+{{ja-suru|じょうじゅつ}}
+
+[[ko:上述]]
+[[hu:上述]]
+[[mg:上述]]
+[[ja:上述]]
+[[zh:上述]]

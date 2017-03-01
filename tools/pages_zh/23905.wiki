@@ -1,0 +1,112 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=122|rad=网|as=05|sn=10|four=60747|canj=WLRVP|ids=⿱罒民}}
+
+# animal trap
+
+====References====
+* {{Han ref|kx=0947.270|dkj=28249|dj=1388.190|hdz=42916.150|uh=7F60|ud=32608|bh=D35E|bd=54110}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mín
+|c=man4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-alt-form|緡|fishing line}}
+# {{lb|zh|literary}} [[animal]] [[trap]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=网05}}
+
+====Readings====
+{{ja-readings
+|goon=[[みん]] (min)
+|kanon=[[びん]] (bin)
+|kun=[[あみ]] (ami), [[わな]] (wana)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{l|ja|穴罠}}: a [[trap]] [[hole]]
+* {{ja-r|罠術|わなじゅつ}}: [[trapping]] [[technique]]s
+* {{ja-r|罠猟|わなりょう}}: [[trapping]], a [[hunt]]ing trap
+* {{ja-r|罠猟師|わな りょうし]}}: a [[trapper]]
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|わな|yomi=k}}
+{{rfe|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|わな|acc=1|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|わな}}
+
+# a [[trap]], a [[snare]]
+# a [[trick]], a [[prank]]
+
+====Derived terms====
+{{der-top}}
+* {{l|ja|罠者}}: trapper
+* {{l|ja|罠師}}: trap master; a Master Trapper
+{{der-bottom}}
+
+====Idioms====
+{{der-top|Idioms}}
+* {{l|ja|罠拵えて首突っ込む|わな こしらえて くび つっこむ}}: “set a trap and get (your own) head stuck” → to set a trap but catch yourself: [[hoist by one's own petard]]
+{{der-bottom}}
+
+====See also====
+* {{ja-r|悪ふざけ|わる ふざけ}}: a [[practical joke]], a [[prank]]
+* {{ja-r|計略|けいりゃく}}: a [[stratagem]], [[ruse]]
+* {{ja-r|策略|さくりゃく}}: a [[trick]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=민|eumhun=|rv=min|mr=min|y=min}}
+
+# {{rfdef|lang=ko|sort=网05}}
+
+[[cs:罠]]
+[[fr:罠]]
+[[ko:罠]]
+[[lo:罠]]
+[[mg:罠]]
+[[ja:罠]]
+[[pl:罠]]
+[[sv:罠]]
+[[th:罠]]
+[[chr:罠]]
+[[zh:罠]]

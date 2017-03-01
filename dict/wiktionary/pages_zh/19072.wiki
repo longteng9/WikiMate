@@ -1,0 +1,59 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=08|sn=11|four=39127|canj=EFBR}}
+
+# [[trickle]]
+# flow down
+# [[drip]]
+
+====References====
+* {{Han ref|kx=0629.170|dkj=17629|dj=1031.110|hdz=31648.040|uh=6DCC|ud=28108|bh=B249|bd=45641}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tǎng
+|c=tong2
+|mn=qz,xm,zz:thóng
+|mc=
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一浪淌|淌下|淌板船|淌水|淌眼抹淚|淌淚}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水08}}
+
+# {{defn|lang=ja|sort=水08}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō), [[とう]] (tō)|kun=[[したたる]] (shitataru)}}
+
+[[fr:淌]]
+[[hu:淌]]
+[[mg:淌]]
+[[ja:淌]]
+[[no:淌]]
+[[pl:淌]]
+[[th:淌]]
+[[zh:淌]]

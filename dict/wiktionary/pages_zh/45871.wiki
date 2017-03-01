@@ -1,0 +1,76 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chūshēng
+|ma=Zh-chusheng.ogg
+|c=ceot1 saang1
+|h=pfs=chhut-sên
+|mn=xm,qz,tp:chhut-siⁿ/zz,kh:chhut-seⁿ/xm,zz:chhut-seng/qz:chhut-sng
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to be [[born]]
+#: {{zh-x|你 在 哪兒{r} 出生 的？|Where were you '''born'''?}}
+
+===Noun===
+{{zh-noun}}
+
+# [[birth]]
+
+====Derived terms====
+{{zh-der|出生證/出生证|出生證明書/出生证明书}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅつ|せい|k1=しゅっ|yomi=on}}
+
+===Alternative forms===
+* {{l|ja|しゅっせい|tr=shussei}}
+
+===Noun===
+{{ja-noun|しゅっしょう}}
+
+# [[birth]]
+
+===Verb===
+{{ja-verb-suru|しゅっしょう}}
+
+# [[be born]]
+
+====Synonyms====
+* [[生まれる]] ([[うまれる]], [[umareru]])
+
+====Conjugation====
+{{ja-suru|しゅっしょう}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=출생}}
+
+# {{hanja form of|출생|[[birth]]}}
+
+[[zh-min-nan:出生]]
+[[el:出生]]
+[[ko:出生]]
+[[ku:出生]]
+[[lt:出生]]
+[[hu:出生]]
+[[mg:出生]]
+[[ja:出生]]
+[[sr:出生]]
+[[tl:出生]]
+[[chr:出生]]
+[[uk:出生]]
+[[zh:出生]]

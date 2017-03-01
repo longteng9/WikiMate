@@ -1,0 +1,46 @@
+==Japanese==
+{{ja-kanjitab|きゅう|しゅう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|きゅうしゅう|acc=h|acc_ref=NHK,DJR|y=ko}}
+
+===Noun===
+{{ja-noun|きゅうしゅう}}
+# [[suction]]; [[absorption]]; [[assimilation]]
+# [[merger]]
+
+====Derived terms====
+{{top2}}
+* {{l|ja|吸収剤}} (''kyūshūzai''): an absorbent
+* {{l|ja|吸収性}} (''kyūshūsei''): absorbability, absorbency
+* {{l|ja|吸収体}} (''kyūshūtai''): absorbent
+* {{l|ja|吸収力}} (''kyūshūryoku''): absorbing power
+* {{l|ja|吸収合併}} (''kyūshū gappei''): merger, takeover
+* {{l|ja|吸収線量}} (''kyūshū senryō''): absorbed dose (as of radiation)
+{{mid2}}
+* {{l|ja|吸収不良症候群}} (''kyūshū furyō shōkōgun''): malabsorption syndrome
+* {{l|ja|結腸吸収}} (''ketchō kyūshū''): colon absorption
+* {{l|ja|星間吸収}} (''seikan kyūshū''): interstellar absorption
+* {{l|ja|高分子吸収体}} (''kōbunshi kyōshūtai''): high polymer absorbent
+* {{l|ja|二酸化炭素吸収源}} (''ni-sanka tanso kyūshū-gen''): carbon sink
+* {{l|ja|二酸化炭素の吸収源}} (''ni-sanka tanso no kyūshū-gen''): carbon sink
+{{bottom}}
+
+===Verb===
+{{ja-verb-suru|きゅうしゅう}}
+# to [[suck]]/[[absorb]] a liquid
+# to [[take in]]/[[gobble]]/[[consume]] food or drink
+# {{lb|ja|business|sort=きゅうしゅう}} to [[take over]]/[[absorb]] a [[company]]
+
+====Conjugation====
+{{ja-suru|きゅうしゅう}}
+
+===References===
+<references/>
+
+[[ko:吸収]]
+[[hu:吸収]]
+[[mg:吸収]]
+[[ja:吸収]]
+[[chr:吸収]]
+[[zh:吸収]]

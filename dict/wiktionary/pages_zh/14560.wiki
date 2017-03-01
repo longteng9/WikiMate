@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|峡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=07|sn=10|four=24738|canj=UKOO|ids=⿰山夾}}
+
+# [[gorge]], [[strait]], [[ravine]]
+# [[isthmus]]
+
+====References====
+* {{Han ref|kx=0312.180|dkj=08122|dj=0612.230|hdz=10773.050|uh=5CFD|ud=23805|bh=AE6C|bd=44652}}
+
+----
+
+==Chinese==
+{{zh-forms|s=峡}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiá
+|c=haap6,hap6
+|h=pfs=
+|md=
+|mn=qz:ha̍p/xm,zz:hia̍p/kiap/zz:e̍h
+|mn_note=ha̍p/hia̍p - literary; kiap/e̍h - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|峽谷}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山07}}
+
+# {{defn|lang=ja|sort=山07}}
+
+====Readings====
+* {{ja-readings|on=[[きょう]] (kyō), [[こう]] (kō)|kun=[[はざま]] (hazama)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[협]]|rv=hyeop|mr=hyŏp}}
+
+# {{defn|lang=ko|sort=山07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hạp]], [[giáp]], [[hiệp]], [[kẽm]]|rs=山07}}
+
+# {{defn|lang=vi|sort=山07}}
+
+[[fr:峽]]
+[[ko:峽]]
+[[li:峽]]
+[[hu:峽]]
+[[ja:峽]]
+[[pl:峽]]
+[[th:峽]]
+[[zh:峽]]

@@ -1,0 +1,31 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+From {{zh-l|金*}} (from {{der|zh|en|gin}}) + {{zh-l|酒*|liquor; alcohol}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīnjiǔ
+|c=gam1 zau2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|chiefly|Mainland China}} [[gin]] (liquor)
+
+====Synonyms====
+* {{qualifier|Taiwan}} {{zh-l|琴酒}}
+* {{zh-l|氈酒}}
+
+===References===
+* {{pedialite|金酒|lang=zh}}
+* {{cite-book|last=|first=|authorlink=|coauthors=|year=2007|title=[[w:Hanyu Da Cidian|Hanyu Da Cidian 3.0]]|language=Mandarin|publisher=[[w:Commercial Press|Commercial Press]]|location=[[Hong Kong]]|isbn=9789620702778}}
+
+{{zh-cat|Alcoholic beverages}}
+
+[[mg:金酒]]
+[[chr:金酒]]
+[[zh:金酒]]

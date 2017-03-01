@@ -1,0 +1,96 @@
+{{character info/new}}
+{{also|駄|驮|䭾}}
+==Translingual==
+{{ja-forms|[[駄]]|[[驮]]|馱}}
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=03|sn=12|four=74330|canj=SFK|ids=⿰馬大}}
+
+====References====
+* {{Han ref|kx=1434.070|dkj=44589|dj=1958.120|hdz=74541.050|uh=99B1|ud=39345|bh=B9A4|bd=47524}}
+
+----
+
+==Chinese==
+{{zh-forms|s=驮}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|馬|大|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=tuó
+|c=to4
+|mn=tô/qz:tô͘/xm:tôa
+|mn_note=tô/tô͘ - literary; tôa - vernacular
+|mc=
+|oc=n,1
+|ma=
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[carry]] on one's [[back]]
+
+====Compounds====
+{{zh-der|馱運|佛馱|馱轎|馱馬|馱水棍|馱子|韋馱|騾馱轎}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=duò
+|c=do6
+|mc=
+|oc=n,2
+|ma=
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[load]] [[carried]] by a [[pack animal]]
+
+====Compounds====
+{{zh-der|馱架|馱子|騾馱子}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬02}}
+
+# {{defn|lang=ja|sort=馬02}}
+
+====Readings====
+{{ja-readings|goon=[[だ]] (da)|kanon=[[た]] (ta)|kun=[[のせる]] (noseru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=타|eumhun=|rv=ta|mr=t'a|y=tha}}
+
+# {{defn|lang=ko|sort=馬02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đà]], [[thồ]]|rs=馬02}}
+
+# {{defn|lang=vi|sort=馬02}}
+
+[[fr:馱]]
+[[hu:馱]]
+[[pl:馱]]
+[[th:馱]]
+[[zh:馱]]

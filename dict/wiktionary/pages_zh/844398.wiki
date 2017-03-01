@@ -1,0 +1,39 @@
+{{also|区划|區畫}}
+==Chinese==
+{{zh-see|區畫}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|く|かく|yomi=o}}
+
+===Alternative forms===
+* {{l|ja|区劃}}
+
+===Noun===
+{{ja-noun|くかく|kyu=區畫}}
+
+# a [[section]], especially a [[district]] of area or a [[lot]] of [[land]]
+#: {{ja-usex|この'''区画'''には人がいない。|この '''くかく''' に は ひと が いない。|Nobody is in this section.}}
+
+====Synonyms====
+* {{ja-r|区域|くいき}}, {{ja-r|地区|ちく}}
+
+====Compounds====
+* {{ja-r|区画整理|くかくせいり|gloss=land readjustment}}
+
+===Verb===
+{{ja-verb-suru|くかく|kyu=區畫}}
+
+# to [[mark off]], to separate with a boundary line
+
+====Conjugation====
+{{ja-suru|くかく}}
+
+===References===
+* {{R:Meikyo}}
+
+[[mg:区画]]
+[[ja:区画]]
+[[pl:区画]]
+[[zh:区画]]

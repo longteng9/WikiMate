@@ -1,0 +1,23 @@
+==Japanese==
+
+===Etymology===
+{{wikipedia|lang=ja|サイコロ}}
+{{ja-kanjitab|yomi=irr|sort=さいころ|さい|ころ}}
+Probably from a compound of {{compound|lang=ja|sort=さいころ|采|tr1=[[sai]]|転|tr2=[[koro]]}}
+
+===Pronunciation===
+{{ja-pron|さいころ|acc=3|acc2=o|y=i}}
+
+===Alternative forms===
+* {{ja-l|骰子}}
+
+===Noun===
+{{ja-noun|さいころ|サイコロ}}
+
+# {{lb|ja|games|sort=さいころ}} [[die]]; [[dice]]
+
+====Usage notes====
+* The term is usually written in katakana.
+[[mg:賽子]]
+[[fj:賽子]]
+[[chr:賽子]]

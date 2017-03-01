@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|沤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=11|sn=14|four=31116|canj=ESRR|ids=⿰氵區}}
+
+# [[soak]], [[steep]], [[ret]]
+# [[sodden]], [[soaked]]
+# [[rotten]]
+# [[foam]], [[froth]]
+
+====References====
+* {{Han ref|kx=0646.030|dkj=18139|dj=1055.060|hdz=31719.030|uh=6F1A|ud=28442|bh=E278|bd=57976}}
+
+----
+
+==Chinese==
+{{zh-forms|s=沤}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=òu,ōu
+|c=au3,au1
+|h=pfs=
+|md=
+|mn=au
+|w=
+|mc=y
+|oc=y
+|cat=v,a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水11}}
+
+# [[soak]]
+# [[steep]]
+# [[sodden]]
+# [[soaked]]
+
+====Readings====
+* {{ja-readings|on=[[おう]] (ō), [[う]] (u)|kun=[[ひたす]] (hitasu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# [[soak]]
+# [[fragrance]]
+# [[foam]], [[bubble]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水11| hanviet = âu}}
+
+# {{defn|lang=vi|sort=水11}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6f1a Nom Foundation]
+
+[[zh-min-nan:漚]]
+[[fr:漚]]
+[[hu:漚]]
+[[pl:漚]]
+[[th:漚]]
+[[zh:漚]]

@@ -1,9 +1,0 @@
-==Japanese==
-{{ja-kanjitab|じつ|k1=じっ|こう|か|のう|yomi=on}}
-
-===Noun===
-{{ja-noun|じっこうかのう}}
-
-# {{lb|ja|computing|sort=じっこうかのう}} [[executable]]
-
-[[ko:実行可能]]

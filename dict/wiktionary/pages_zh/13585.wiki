@@ -1,0 +1,142 @@
+{{character info/new}}
+{{also|姦}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=03|sn=6|four=41440|canj=VMJ|ids=⿰女干}}
+
+====References====
+* {{Han ref|kx=0255.040|dkj=06045|dj=0518.040|hdz=21025.010|uh=5978|ud=22904|bh=A66C|bd=42604}}
+
+----
+
+==Chinese==
+{{zh-forms|t2=姦|note=姦: “evil; to commit adultery; to rape”}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|干|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jiān,gān
+|m_note=gān - Mainland, used in the sense “to offend”
+|c=gaan1
+|h=
+|md=găng
+|mn=qz,tw,xm,zz:kan
+|w=1ke,1ji
+|w_note=1ke - vernacular; 1ji - literary
+|mc=y
+|oc=y
+|ma=y
+|cat=v,a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[offend]]; to [[conflict]]
+# to [[stage]] an [[armed]] [[rebellion]] or [[steal]]
+# [[evil]]; [[wicked]]; [[treacherous]]
+# [[self-seeking]]; [[wily]]
+# [[evildoer]]; [[treacherous]] person
+# [[traitor]]; [[betrayer]]
+# to [[commit]] [[adultery]]
+
+====Antonyms====
+* {{sense|evil}} {{zh-l|義|righteous; justice}}
+
+===Compounds===
+{{zh-der|老奸巨猾|漢奸|奸商|奸臣|奸人|剗惡除奸|奸淫|內奸|奸邪|奸黠|姑息養奸|奸險|奸細|剪惡除奸|奸猾|以售其奸|奸賊|奸言|奸俏|奸胥猾吏|奸徒|奸計|奸夫|奸詐|奸同鬼蜮|奸棍|奸頑|呆裡撒奸|大奸似忠|奸黨|奸雄|奸詐不級|奸笑|奸汙|奸巧|奸宄|奸佞|大奸|奸刁|奸慝|作奸犯科|奸騙|奸滑|奸狡|元惡大奸|奸毒|發奸摘隱|摘奸發伏|朋比為奸|狼狽為奸|捉奸見床|私心藏奸|祛蠹除奸|揣奸把猾|洞燭其奸|犯奸|捉奸捉雙|捉奸見雙|發奸擿伏|洞察其奸|擿奸發伏|朋奸|朋比作奸|深奸巨猾|擒奸摘伏|藏奸|賣俏營奸|賢奸倒置|通奸|肆奸植黨|行奸賣俏|除奸|鋤奸|耍奸|詐奸不及|賣奸|賣俏迎奸}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女03}}
+
+# {{defn|lang=ja|sort=女03}}
+
+====Readings====
+{{ja-readings|goon=[[けん]] (ken)|kanon=[[かん]] (kan)|kun=[[おかす]] (okasu)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|奸悪|かんあく}}
+* {{ja-r|奸黠|かんかつ}}
+* {{ja-r|漢奸|かんかん}}
+* {{ja-r|奸譎|かんきつ}}
+* {{ja-r|奸曲|かんきょく}}
+* {{ja-r|奸計|かんけい}}
+* {{ja-r|奸譎|かんけつ}}
+* {{ja-r|奸詐|かんさ}}
+* {{ja-r|奸才|かんさい}}
+* {{ja-r|奸策|かんさく}}
+* {{ja-r|奸邪|かんじゃ}}
+* {{ja-r|奸商|かんしょう}}
+* {{ja-r|奸心|かんしん}}
+* {{ja-r|奸臣|かんしん}}
+* {{ja-r|奸人|かんじん}}
+* {{ja-r|奸賊|かんぞく}}
+* {{ja-r|奸智|かんち}}, {{ja-r|奸知|かんち}}
+* {{ja-r|奸徒|かんと}}
+* {{ja-r|奸盗|かんとう}}
+* {{ja-r|奸匿|かんとく}}, {{ja-r|奸匿|かんちょく}}
+* {{ja-r|奸佞|かんねい}}
+* {{ja-r|奸婦|かんぷ}}
+* {{ja-r|奸物|かんぶつ}}
+* {{ja-r|奸謀|かんぼう}}
+* {{ja-r|奸雄|かんゆう}}
+* {{ja-r|斬奸|ざんかん}}
+* {{ja-r|大奸|たいかん}}
+{{der-bottom}}
+
+{{ja-kanjitab|かん|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=かん}} {{m|zh|奸|tr=kan}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|かん|acc=1|acc_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{ja-l|姦}}, {{ja-l|姧}}
+
+===Adjective===
+{{ja-adj|decl=na|かん}}
+
+# [[wicked]]
+
+====Inflection====
+{{ja-na|かん}}
+
+===Noun===
+{{ja-noun|かん}}
+
+# [[wickedness]], [[wicked]] person
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=간|rv=gan|mr=kan}}
+
+# {{defn|lang=ko|sort=女03}}
+
+[[fr:奸]]
+[[ko:奸]]
+[[li:奸]]
+[[hu:奸]]
+[[mg:奸]]
+[[ja:奸]]
+[[no:奸]]
+[[pl:奸]]
+[[th:奸]]
+[[vi:奸]]
+[[zh:奸]]

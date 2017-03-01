@@ -1,0 +1,86 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=137|rad=舟|as=09|sn=15|four=27447|canj=HYHXE|ids=⿰舟叟}}
+
+# counter for ships, vessels
+
+====References====
+* {{Han ref|kx=1012.110|dkj=30511|dj=1470.300|hdz=53064.070|uh=8258}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|舟|t1=boat|叟|ls=psc|c1=s|c2=p}} – counter for boats.
+
+===Pronunciation===
+{{zh-pron
+|m=sōu
+|c=sau2,sau1
+|h=pfs=
+|md=
+|mn=qz:so/xm,zz:só/xm,zz:só͘
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=舟09}}
+
+# {{defn|lang=ja|sort=舟09}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[ふね]] (fune)}}
+
+{{ja-kanjitab|そう|yomi=o}}
+
+===Counter===
+{{ja-pos|そう|counter}}
+
+# small [[boat]]s
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=소|eumhun=|rv=so|mr=so|y=so}}
+
+# {{defn|lang=ko|sort=舟09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''艘''' ([[sưu]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:艘]]
+[[ko:艘]]
+[[hu:艘]]
+[[mg:艘]]
+[[ja:艘]]
+[[no:艘]]
+[[pl:艘]]
+[[th:艘]]
+[[zh:艘]]

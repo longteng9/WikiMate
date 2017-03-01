@@ -1,0 +1,195 @@
+{{character info/new}}
+{{also|于}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=70|rad=方|as=04|sn=8|four=08233|canj=YSOY|ids=⿰方仒}}
+
+====Descendants====
+* [[お]]
+* [[オ]]
+* [[于]]
+
+====References====
+* {{Han ref|kx=0481.110|dkj=13628|dj=0843.070|hdz=32175.020|uh=65BC|ud=26044|bh=A9F3|bd=43507}}
+
+[[Category:Han characters from which hiragana were derived|お]]
+[[Category:Han characters from which katakana were derived|オ]]
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|s=于|t2=于|alt=扵}}
+
+====Pronunciation====
+{{zh-pron
+|m=yú
+|c=jyu1
+|h=pfs=yì
+|mn=qz:îr/tw,xm:û/twv,zz:î/qz:ir/xm:u/zz:i
+|w=
+|mc=1
+|oc=2
+|ma=
+|cat=prep,pn
+}}
+
+====Preposition====
+{{zh-prep}}
+
+# [[in]], [[at]], [[on]]
+#: {{zh-x|生 於 @1980 年|born '''in''' 1980}}
+# [[than]]
+
+=====Derived terms=====
+* {{zh-l|於今}}
+* {{zh-l|於是}}
+* {{zh-l|關於}}
+
+=====See also=====
+* {{zh-l|在}}
+* {{zh-l|給}}
+* {{zh-l|對}}
+* {{zh-l|從}}
+
+=====Usage notes=====
+* Not to be confused with other uses of {{zh-l|于}}.
+
+===Etymology 2===
+{{zh-forms|alt=扵}}
+
+====Pronunciation====
+{{zh-pron
+|m=wū
+|c=wu1
+|h=pfs=
+|mn=
+|w=
+|mc=2
+|oc=1
+|ma=
+|cat=intj,n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# (= {{zh-l|烏}}) [[crow]]; [[raven]]
+
+====Interjection====
+{{zh-interj}}
+
+# (= {{zh-l|烏}}) [[alas]]!; [[oh]]!
+
+===Etymology 3===
+
+Cognate with {{zh-l|阿}}.
+
+====Pronunciation====
+{{zh-pron
+|m=wū
+|c=wu1
+|h=pfs=
+|mn=
+|w=
+|mc=
+|oc=
+|ma=
+|cat=pref
+}}
+
+====Prefix====
+{{zh-pref}}
+
+# {{zh-only used in|於菟/於檡/於兔/於䖘|tiger}}
+
+===Etymology 4===
+
+====Pronunciation====
+{{zh-pron
+|m=Yū,Yú,2nb=Taiwan
+|c=jyu4
+|h=pfs=
+|mn=
+|w=
+|mc=1
+|oc=2
+|ma=
+|cat=propn
+}}
+
+====Proper noun====
+{{zh-proper noun}}
+
+# {{surname|lang=zh}}
+
+===Etymology 5===
+
+====Pronunciation====
+{{zh-pron
+|m=yú
+|c=jyu1
+|h=pfs=
+|mn=
+|w=
+|mc=1
+|oc=2
+|ma=
+|cat=propn
+}}
+
+====Proper noun====
+{{zh-proper noun}}
+
+# {{only used in|於陵|lang=zh}} <!-- simplified form is 於陵 -->
+# {{zh-only used in|於潛/於潜}}
+
+===References===
+* {{qualifier|Min Nan}} {{thcwdq|於}}
+
+===External links===
+* [http://www.uname.cn/html/Surname/2_2661.shtml uname.cn]
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=方04}}
+
+# {{defn|lang=ja|sort=方04}}
+
+====Readings====
+* {{ja-readings|on=[[お]] (o), [[よ]] (yo)|kun=[[あう]] (au), [[より]] (yori), [[おいて]] (oite)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[어]], [[오]]|eumhun=어조사 어, 감탄사 오|rv=eo, o|mr=ŏ, o|y=e, o}}
+
+# {{defn|lang=ko|sort=方04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ư]], [[ơ]], [[ở]], [[ưa]], [[ô]], [[ờ]], [[ớ]], [[thờ]], [[ứ]]|rs=方04}}
+
+# {{defn|lang=vi|sort=方04}}
+
+[[fr:於]]
+[[ko:於]]
+[[hu:於]]
+[[mg:於]]
+[[ja:於]]
+[[pl:於]]
+[[th:於]]
+[[zh:於]]

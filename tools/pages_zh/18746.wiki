@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=05|sn=8|four=36100|canj=EWO|ids=⿰氵囚}}
+
+# [[swim]], [[float]], [[wade]]
+
+====References====
+* {{Han ref|kx=0615.080|dkj=17270|dj=1009.060|hdz=31587.020|uh=6CC5|ud=27845|bh=AA73|bd=43635}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiú,yōu
+|c=cau4
+|mn=siû/xm,zz:chhiû
+|mn_note=siû - literary; chhiû - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水05}}
+
+# {{defn|lang=ja|sort=水05}}
+
+====Readings====
+* {{ja-readings|on=[[しゅう]] (shū)|kun=[[およぐ]] (oyogu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=쉬|eumhun=|rv=swi|mr=swi|y=swi}}
+
+# {{defn|lang=ko|sort=水05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水05| hanviet = tù}}
+
+# {{defn|lang=vi|sort=水05}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:泅]]
+[[fr:泅]]
+[[hu:泅]]
+[[mg:泅]]
+[[ja:泅]]
+[[pl:泅]]
+[[th:泅]]
+[[zh:泅]]

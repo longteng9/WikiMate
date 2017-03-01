@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|えい|こう|yomi=on}}
+
+===Noun===
+{{ja-noun|えいこう}}
+
+# [[towing]] a ship
+
+===Verb===
+{{ja-verb-suru|tr=trans|えいこう}}
+
+# [[tow]] a ship
+#* '''1934''', 島木健作, 鰊漁場:
+#*: {{ja-usex|夜が明けてから陸地に向って'''曳航'''した|よる が あけて から りくち に むかって '''えいこう''' した|as day broke, we towed it back toward land}}
+
+====Conjugation====
+{{ja-suru|えいこう}}
+
+[[ko:曳航]]

@@ -1,0 +1,30 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=fù膜yán
+|c=fuk1 mok6-2 jim4
+|mn=pak-mo̍͘h-iām
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|diseases}} [[peritonitis]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふく|まく|えん|yomi=on}}
+
+===Etymology===
+{{suffix|腹膜|炎|t1=peritoneum|t2=-itis|lang=ja|sort=ふくまくえん}}
+
+===Noun===
+{{ja-noun|ふくまくえん}}
+# {{lb|ja|pathology|sort=ふくまくえん}} [[peritonitis]]
+
+[[ko:腹膜炎]]
+[[zh:腹膜炎]]

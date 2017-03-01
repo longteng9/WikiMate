@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|こう|えん|かい|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|講演|会}}
+
+===Noun===
+{{ja-noun|こうえんかい}}
+
+# [[lecture|Lecture]].
+
+====Synonyms====
+* {{ja-r|講演|こうえん}}
+*: {{lang|ja|講演会}} differs from {{m|ja|講演}} in that it refers to the congregation of people for the giving and hearing of a lecture, rather than the lecture or address itself. Also, it can be useful to use the longer word when talking, because it avoids confusion with the many homonyms of the shorter word (most notably including {{ja-r|公園|こうえん|gloss=park}}, which is very common, and {{ja-r|公演|こうえん|gloss=public performance}} which is somewhat similar in meaning).
+
+===See also===
+* {{ja-r|講演者|こうえんしゃ}}: lecturer
+* {{ja-r|講演料|こうえんりょう}}: fee for a lecturer
+* {{ja-r|連続講演|れんぞく こうえん}}: lecture series
+
+[[it:講演会]]
+[[hu:講演会]]
+[[fi:講演会]]

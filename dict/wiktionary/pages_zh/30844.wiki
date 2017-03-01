@@ -1,0 +1,69 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=173|rad=雨|as=08|sn=16|four=10404|canj=MBYTV|ids=⿱雨妾}}
+
+# [[light]] [[rain]], [[drizzle]]
+# an [[instant]]
+# [[passing]]
+
+====References====
+* {{Han ref|kx=1375.180|dkj=42322|dj=1884.200|hdz=64068.060|uh=970E}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shà
+|c=saap3
+|mn=sap/tw:tiap/twv:tia̍p
+|mn_note=sap - literary; tiap/tia̍p - 輒 is used in the Mainland.
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一時半霎|一霎|一霎時|半霎|半霎俄延|片霎|霎時|霎霎}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=雨08}}
+
+# {{defn|lang=ja|sort=雨08}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō), [[しょう]] (shō)|kun=[[こさめ]] (kosame)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=삽|eumhun=|rv=sap|mr=sap|y=sap}}
+
+# {{defn|lang=ko|sort=雨08}}
+
+[[fr:霎]]
+[[hu:霎]]
+[[mg:霎]]
+[[ja:霎]]
+[[no:霎]]
+[[pl:霎]]
+[[th:霎]]
+[[zh:霎]]

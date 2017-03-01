@@ -1,0 +1,142 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=05|sn=9|four=73260|canj=BIR|ids=⿰月台}}
+
+====References====
+* {{Han ref|kx=0978.020|dkj=29369|dj=1429.150|hdz=32065.060|uh=80CE|ud=32974|bh=AD4C|bd=44364}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tāi
+|c=toi1
+|h=pfs=thôi
+|md=
+|mn=thai/qz:ther/tw,xm,zz:the
+|mn_note=thai - literary; ther/the - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[fetus]]; [[unborn child]]
+
+====Derived terms====
+* {{zh-l|胎兒}}: fetus
+* {{zh-l|胚胎}}: embryo
+* {{zh-l|懷胎}}: pregnant; pregnancy
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=肉05}}
+
+# {{defn|lang=ja|sort=肉05}}
+
+====Readings====
+{{ja-readings|goon=[[たい]] (tai)|kanon=[[たい]] (tai)|kun=[[はらむ]] (haramu)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|懐胎|かいたい}}
+* {{ja-r|奇胎|きたい}}
+* {{ja-r|鬼胎|きたい}}
+* {{ja-r|金胎|きんたい}}
+* {{ja-r|金胎|こんたい}}
+* {{ja-r|死胎|したい}}
+* {{ja-r|受胎|じゅたい}}
+* {{ja-r|双胎|そうたい}}
+* {{ja-r|胎衣|たい.い}}
+* {{ja-r|胎位|たい.い}}
+* {{ja-r|胎芽|たいが}}
+* {{ja-r|胎教|たいきょう}}
+* {{ja-r|胎金|たいこん}}
+* {{ja-r|胎座|たいざ}}
+* {{ja-r|胎屎|たいし}}
+* {{ja-r|胎児|たいじ}}
+* {{ja-r|胎生|たいしょう}}
+* {{ja-r|胎生|たいせい}}
+* {{ja-r|胎蔵|たいぞう}}
+* {{ja-r|胎中|たいちゅう}}
+* {{ja-r|胎土|たいど}}
+* {{ja-r|胎動|たいどう}}
+* {{ja-r|胎毒|たいどく}}
+* {{ja-r|胎内|たいない}}
+* {{ja-r|胎内|^たいない}}
+* {{ja-r|胎盤|たいばん}}
+* {{ja-r|胎便|たいべん}}
+* {{ja-r|胎膜|たいまく}}
+* {{ja-r|胎孕|たいよう}}
+* {{ja-r|胎卵湿化|たいらんしっけ}}
+* {{ja-r|胎を結ぶ|たい を むすぶ}}
+* {{ja-r|多胎|たたい}}
+* {{ja-r|堕胎|だたい}}
+* {{ja-r|脱胎|だったい}}, {{ja-r|奪胎|だったい}}
+* {{ja-r|電胎版|でんたいばん}}
+* {{ja-r|胚胎|はいたい}}
+* {{ja-r|品胎|ひんたい}}
+* {{ja-r|不胎化|ふたいか}}
+* {{ja-r|母胎|ぼたい}}
+* {{ja-r|籃胎|らんたい}}
+* {{ja-r|露胎|ろたい}}
+{{der-bottom}}
+
+{{ja-kanjitab|たい|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=たい}} {{m|zh|胎|tr=thoj}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|たい|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|たい}}
+
+# [[womb]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=태|eumhun=|rv=tae|mr=t'ae|y=thay}}
+
+# {{defn|lang=ko|sort=肉05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''胎''' ([[thai]])
+
+# {{defn|lang=vi}}
+
+[[fr:胎]]
+[[ko:胎]]
+[[hu:胎]]
+[[mg:胎]]
+[[ja:胎]]
+[[no:胎]]
+[[pl:胎]]
+[[th:胎]]
+[[vi:胎]]
+[[zh:胎]]

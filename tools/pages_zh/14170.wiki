@@ -1,0 +1,63 @@
+{{character info/new}}
+{{also|宮|官}}
+==Translingual==
+
+===Etymology===
+{{Han simp|宮|f=呂|t=吕}} – {{Han compound|宀|吕|ls=ic}}: many rooms under a roof (a palace).
+
+Note that though 宮 (with joined boxes: 呂) is the traditional form, the form 宫 (with unjoined boxes: 吕) dates to oracle script, and was used in succeeding forms as well.
+
+===Han character===
+{{Han char|rn=40|rad=宀|as=06|sn=9|four=|canj=JRR|ids=⿱宀吕}}
+
+# [[palace]]
+# [[temple]]
+# [[dwelling]]
+# [[enclose]]
+# first note in the Chinese pentatonic scale (''do'')
+
+====Synonyms====
+* {{l|mul|殿}}
+* {{l|mul|闕}}, {{l|mul|阙}}
+
+====See also====
+* {{l|mul|宸}}
+
+====References====
+* {{Han ref|kx=0285.101|hdz=20926.030|uh=5BAB|ud=23467}}
+
+----
+
+==Chinese==
+{{zh-see|宮}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=宀06}}
+
+# {{defn|lang=ja|sort=宀06}}
+
+====Readings====
+* {{ja-readings|on=[[きゅう]] (kyū), [[ぐう]] (gū)|kun=[[みや]] (miya), [[いえ]] (ie)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=궁|rv=gung|mr=kung}}
+
+# {{defn|lang=ko|sort=宀06}}
+
+[[fr:宫]]
+[[li:宫]]
+[[hu:宫]]
+[[mg:宫]]
+[[no:宫]]
+[[pl:宫]]
+[[ru:宫]]
+[[th:宫]]
+[[zh:宫]]

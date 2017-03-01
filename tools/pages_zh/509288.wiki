@@ -1,0 +1,11 @@
+==Japanese==
+{{ja-kanjitab|てん|ち|ぎょう|れつ|yomi=on}}
+
+===Noun===
+{{ja-noun|てんち ぎょうれつ}}
+
+# {{lb|ja|linear algebra}} [[transposed]] [[matrix]]
+
+[[Category:ja:Linear algebra|てんちぎょうれつ]]
+
+[[zh:転置行列]]

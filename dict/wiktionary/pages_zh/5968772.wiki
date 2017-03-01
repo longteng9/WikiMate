@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=fūluǎnqì
+|c=fu1 leon2 hei3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[incubator]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ふ|らん|き|yomi=o}}
+
+===Etymology===
+{{suffix|ja|孵卵|tr1=furan|t1=incubation|器|tr2=ki|t2=machine|sort=ふらんき}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|ふらんき|acc=2|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|ふらんき}}
+
+# [[incubator]]
+
+===References===
+<references/>
+
+[[hu:孵卵器]]
+[[chr:孵卵器]]
+[[zh:孵卵器]]

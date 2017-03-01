@@ -1,0 +1,41 @@
+{{also|分针}}
+==Chinese==
+{{zh-forms|s=分针}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēnzhēn
+|c=fan1 zam1
+|mn=hun-chiam
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|clock}} [[minute hand]]
+
+===See also===
+* {{zh-l|時針}}
+* {{zh-l|秒針}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふん|しん|yomi=on}}
+
+===Noun===
+{{ja-noun|ふんしん}}
+# [[minute hand]]
+
+====Synonyms====
+* {{l|ja|長針}}
+
+====Antonyms====
+* {{l|ja|短針}}
+* {{l|ja|時針}}
+
+[[Category:ja:Clocks|ふんしん]]
+
+[[ko:分針]]
+[[hu:分針]]

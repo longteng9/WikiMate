@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|でん|あつ|けい|yomi=on}}
+
+===Etymology===
+{{suffix|電圧|t1=voltage|計|t2=-meter|lang=ja|sort=てんあつけい'}}
+
+===Pronunciation===
+{{ja-pron|でんあつけい|acc=0|dev=4|y=o}}
+* {{a|Osaka}} {{ja-accent-common|heiban||でんあつけい}}
+
+===Noun===
+{{ja-noun|でんあつけい}}
+
+# [[voltmeter]]
+
+====Synonyms====
+* {{ja-r|ボルトメーター}}
+
+===References===
+* {{R:Meikyo}}
+
+{{C|ja|Measuring instruments|sort=てんあつけい}}
+
+[[ko:電圧計]]
+[[hu:電圧計]]
+[[ja:電圧計]]
+[[ru:電圧計]]
+[[zh:電圧計]]

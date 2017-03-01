@@ -1,0 +1,89 @@
+{{also|自动}}
+==Chinese==
+{{zh-forms|s=自动}}
+
+===Etymology===
+From {{etyl|ja|zh}} {{ja-r|自動|じどう}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zìdòng
+|c=zi6 dung6
+|c-t=du5 uung5
+|h=pfs=chhṳ-thung
+|mn=xm,zz,tw:chū-tōng/qz:chīr-tǒng
+|cat=a,adv
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[automatic]] {{gloss|when used as an attributive}}
+# [[voluntary]]; of one's own [[accord]]; on one's [[initiative]]; [[spontaneous]]
+
+====Antonyms====
+* {{sense|of automatic}} {{zh-l|手動}}
+
+===Adverb===
+{{zh-adv}}
+
+# [[automatically]]
+# [[voluntarily]]; of one's own [[accord]]; on one's [[initiative]]; [[spontaneously]]
+
+====Derived terms====
+{{zh-der|自動步槍|自動電梯|自動扶梯|自動櫃員機|自動化|自動控制|自動鏈梯|自動樓梯|自動門|自動取款機|自動鉛筆|自動生產線|自動車}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じ|どう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|じどう|y=o|acc=0}}
+
+===Noun===
+{{ja-noun|じどう}}
+
+# [[automatic]] movement, automatic functioning
+# {{lb|ja|grammar|sort=しどう'}} [[intransitive]] verb ({{abbreviation of|自動詞|lang=ja}})
+
+====Antonyms====
+* {{sense|automatic}} {{ja-r|手動|しゅどう}}
+* {{sense|intransitive verb}} {{ja-r|他動|たどう}}
+
+====Derived terms====
+* {{ja-r|自動販売機|じどう はんばいき}}: [[vending machine]]
+* {{ja-r|自動変速機|じどう へんそくき}}: [[automatic transmission]], [[AT]]
+* {{ja-r|現金自動預払機|げんきん じどう あずけばらいき}}: [[ATM]]
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:Japanese basic words|しどう']]
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Adjective===
+{{vi-hantu}}
+
+# {{han tu form of|tự động|[[automatic]], [[spontaneous]]}}
+
+[[zh-min-nan:自動]]
+[[fr:自動]]
+[[ko:自動]]
+[[ky:自動]]
+[[lt:自動]]
+[[hu:自動]]
+[[mg:自動]]
+[[ms:自動]]
+[[ja:自動]]
+[[pl:自動]]
+[[pt:自動]]
+[[sv:自動]]
+[[chr:自動]]
+[[zh:自動]]

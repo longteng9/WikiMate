@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|谦}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=10|sn=17|four=08637|canj=YRTXC|ids=⿰言兼}}
+
+# [[humble]], [[modest]]
+# 15th [[hexagram]] of the [[I Ching]]
+
+====References====
+* {{Han ref|kx=1175.200|dkj=35821|dj=1639.360|hdz=64009.020|uh=8B19|ud=35609|bh=C1BE|bd=49598}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谦}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiān
+|c=him1
+|h=pfs=
+|md=
+|mn=khiam
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=言10}}
+
+# {{defn|lang=ja|sort=言10}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken)|kun=[[へりくだる]] (herikudaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=겸|eumhun=|rv=gyeom|mr=kyŏm|y=kyem}}
+
+# {{defn|lang=ko|sort=言10}}
+
+[[fr:謙]]
+[[ko:謙]]
+[[hu:謙]]
+[[ja:謙]]
+[[pl:謙]]
+[[th:謙]]
+[[zh:謙]]

@@ -1,0 +1,50 @@
+{{also|急进}}
+==Chinese==
+{{zh-forms|s=急进}}
+
+===Pronunciation===
+{{zh-pron
+|m=jíjìn
+|c=gap1 zeon3
+|mn=kip-chìn
+|cat=v,a
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[advance]] [[rapidly]]
+
+====See also====
+* {{zh-l|漸進}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[radical]]; [[extreme]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|きゅう|しん|yomi=on}}
+
+===Noun===
+{{ja-noun|きゅうしん}}
+
+# [[rapid]] [[progress]]
+
+====Antonyms====
+* {{ja-r|漸進|ぜんしん}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|きゅうしん}}
+
+# [[advance]] rapidly
+#: {{ja-usex|急進する高齢化社会|きゅうしん する こうれいか しゃかい|rapidly ageing society}}
+
+====Conjugation====
+{{ja-suru|きゅうしん}}
+
+[[ko:急進]]
+[[mg:急進]]
+[[zh:急進]]

@@ -1,0 +1,136 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=bw|strokes=7}}
+{{stroke order|type=jbw|strokes=7}}
+
+===Han character===
+{{Han char|rn=102|rad=田|as=02|sn=7|four=61020|canj=WMN|ids=⿰田丁}}
+
+# a [[raise]]d [[path]] between [[field]]s
+
+====References====
+* {{Han ref|kx=0759.070|dkj=21735|dj=1169.070|hdz=42528.050|uh=753A|ud=30010|bh=CB6D|bd=52077}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=圢}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=tǐng
+|c=ting2
+|mn=teng
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# a [[ridge]] or [[boundary]] between [[field]]s
+# a [[field]]
+
+=====Compounds=====
+{{zh-der|町畦|町畽}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=dīng
+|c=
+|mn=teng
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# a local administrative unit in Japan (see below)
+# character used in placenames
+
+=====Compounds=====
+{{zh-der|西門町|東門町|畹町}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=1|rs=田02}}
+
+====Readings====
+* {{ja-readings
+|goon=[[ちょう]] (chō) < [[ちやう]] (tyau)
+|kanon=[[てい]] (tei)
+|kun=[[まち]] (machi)}}
+
+===Noun===
+{{ja-noun|まち}}
+
+# [[town]]
+
+===Proper noun===
+{{ja-pos|まち|proper}}
+
+# {{surname|lang=ja|sort=まち}}
+
+===Suffix===
+{{ja-pos|まち|suffix}}
+
+# A [[Machi]] [[district]]; more detailed than [[都]], [[道]], [[府]], [[県]].
+
+{{ja-pos|suffix|ちょう|hhira=ちやう}}
+
+# A [[Chō]] [[district]]; more detailed than [[市]], [[区]].
+
+====See also====
+* {{ja-r|街|まち}}
+
+[[Category:Grade 1 kanji|田02]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=정|rv=jeong|mr=chŏng|y=ceng|eumhun=밭두둑|ehrv=batduduk|ehmr=|ehy=}}
+
+# A [[ridge]] between [[field]]s.
+# A [[boundary]].
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đinh]], [[thĩnh]], [[tân]]|rs=田02}}
+
+# city
+
+[[cs:町]]
+[[fr:町]]
+[[ko:町]]
+[[hr:町]]
+[[it:町]]
+[[ka:町]]
+[[lo:町]]
+[[lt:町]]
+[[li:町]]
+[[hu:町]]
+[[mg:町]]
+[[ja:町]]
+[[pl:町]]
+[[pt:町]]
+[[ru:町]]
+[[th:町]]
+[[chr:町]]
+[[uk:町]]
+[[zh:町]]

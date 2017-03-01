@@ -1,0 +1,54 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=11|sn=14|four=22514|canj=UQOG|ids=⿱山推}}
+
+# [[high]], [[steep]], [[towering]] (used in [[嶊崣]])
+
+====References====
+* {{Han ref|kx=0319.050|dkj=08431|dj=0619.150|hdz=10792.180|uh=5D8A|ud=23946|bh=E1AA|bd=57770}}
+*[http://yedict.com/htm/5D/5D8A.htm yedict.com (叶典)]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuǐ
+|c=zeoi2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嶊嶉|嶊崣}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山11}}
+
+# {{defn|lang=ja|sort=山11}}
+
+====Readings====
+* {{ja-readings|on=[[すい]] (sui), [[つい]] (tsui), [[さい]] (sai), [[せ]] (se)|kun=}}
+
+[[fr:嶊]]
+[[hu:嶊]]
+[[pl:嶊]]
+[[th:嶊]]
+[[zh:嶊]]

@@ -1,0 +1,126 @@
+{{character info/new}}
+{{also|页|貝}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=181|rad=頁|as=00|sn=9|four=10806|canj=MBUC|ids=⿱丆貝,⿱𦣻八}}
+#{{mul-kangxi radical-def}}
+====See also====
+* {{l|mul|首}} [[敢]]
+
+====References====
+* {{Han ref|kx=1399.010|dkj=43333|dj=1915.060|hdz=74355.010|uh=9801|ud=38913|bh=ADB6|bd=44470}}
+
+----
+
+==Chinese==
+{{zh-forms|s=页}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|卩|首|ls=p|c1=kneeling posture|c2=head}} – head of a kneeling person, emphasising “head”.
+
+{{lang|zh|頁}} and {{och-l|首}} were originally the same pictographic character with the same meaning of “head”, and the graphical difference was that {{lang|zh|頁}} also included the body in addition to the head of the person.
+
+By the {{w|Eastern Han Dynasty}} {{defdate|25–220 CE}}, {{lang|zh|頁}} has been used as an alternative popular form of {{och-l|葉|leaf; page}} to mean “sheet; page (of paper)”, which is its main meaning today.
+
+The original sense of “head” is preserved in the radical {{lang|zh|頁}} (“body part”), used in characters such as {{zh-l|*頭|head}}, {{zh-l|*頸|neck}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=yè
+|c=jip6
+|h=pfs=ya̍p
+|md=hiĕk
+|mn=qz,xm,zz:hia̍t/qz,tw,xm,zz:ia̍h
+|w=5hhiq
+|oc=n,1
+|cat=n,cls
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[page]]; [[sheet]] (of [[paper]])
+# {{lb|zh|computing}} [[page]]
+# {{zh-classifier|[[page]]s}}
+
+====Compounds====
+{{zh-der|冊頁|家頁|庫頁島|扉頁|插頁|書頁|油頁岩|活頁|版權頁|百頁|皮靴頁兒|硬頁岩|篇頁|網頁|缺頁|角頁岩|跨頁|選舉頁|頁岩|頁心|頁數|頁碼|飛頁|首頁|黃頁}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=xié
+|c=kit3,sau2
+|c_note=sau2 - using the pronunciation of {{zh-l|*首}}
+|h=pfs=ket/kiet
+|mn=
+|w=
+|mc=y
+|oc=n,2
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[head]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=頁00}}
+
+# big [[shell]]
+# [[page]]
+# [[leaf]]
+
+====Readings====
+* {{ja-readings|on=[[けつ]] (ketsu), [[よう]] (you), [[けち]] (kechi)|kun=[[かしら]] (kashira), [[ページ]] (pēji)}}
+
+====Compounds====
+* [[頁岩]]
+
+===Noun===
+{{ja-noun|ページ}}
+
+# [[page]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=혈|eumhun=|rv=hyeol|mr=hyŏl|y=hyel}}
+
+# {{defn|lang=ko|sort=頁00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hiệt]], [[hệt]]|rs=頁00}}
+
+# {{defn|lang=vi|sort=頁00}}
+
+[[Category:CJKV radicals| ]]
+
+[[zh-min-nan:頁]]
+[[fr:頁]]
+[[ko:頁]]
+[[lt:頁]]
+[[hu:頁]]
+[[mg:頁]]
+[[ms:頁]]
+[[ja:頁]]
+[[pl:頁]]
+[[pt:頁]]
+[[ru:頁]]
+[[th:頁]]
+[[chr:頁]]
+[[tr:頁]]
+[[zh:頁]]

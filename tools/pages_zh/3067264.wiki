@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|さい|こう|せい|yomi=on}}
+
+===Etymology===
+{{prefix|再|構成|t1=re|t2=configuration|lang=ja|sort=こうせい}}
+
+===Noun===
+{{ja-noun|さいこうせい}}
+
+# [[reconfiguration]], [[restructure]], [[reconstruction]], [[reconstitution]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|さいこうせい}}
+
+# [[reconstruct]], [[reconstitute]], [[reorganize]]
+#: {{ja-usex|三次元画像を再構成する|さんじげん がぞう を さいこうせい する|reconstruct a three-dimensional image}}
+
+====Conjugation====
+{{ja-suru|さいこうせい}}
+
+[[ko:再構成]]

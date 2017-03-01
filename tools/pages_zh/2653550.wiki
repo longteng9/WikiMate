@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|きゅう|こう|yomi=on}}
+
+===Noun===
+{{ja-noun|きゅうこう}}
+
+# [[school]] [[closure]]
+#: {{ja-usex|今日は雪のため'''休校'''です。|きょう は ゆき の ため '''きゅうこう''' です。|The school is closed today due to snow.}}
+
+===Verb===
+{{ja-verb-suru|きゅうこう}}
+
+# close a school temporarily
+
+====Conjugation====
+{{ja-suru|きゅうこう}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:休校]]
+[[hu:休校]]
+[[ja:休校]]
+[[zh:休校]]

@@ -1,0 +1,91 @@
+{{character info/new}}
+{{also|氶}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=1|rad=一|as=05|sn=6|four=17103|canj=NEM,XNEM|ids=⿱氶一}}
+
+===References===
+* {{Han ref|kx=0078.050|dkj=00040|dj=0157.010|hdz=10019.080|uh=4E1E|ud=19998|bh=A5E0|bd=42464}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+
+===Pronunciation===
+{{zh-pron
+|m=chéng
+|c=sing4
+|h=pfs=sṳ̀n
+|mn=sêng/sîn
+|mc=y
+|oc=y
+|ma=
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[assist]], to [[aid]]
+# {{lb|zh|archaic}} a low-level assistant to the governor of a county {{attention|zh|MoE Variant Character Dictionary and Yedict seem to describe a slightly different occupation}}
+
+====See also====
+* {{zh-l|輔佐|to assist}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=一05}}
+
+# to [[help]], to [[rescue]]
+
+====Readings====
+{{ja-readings
+|kanon=[[しょう]] (shō)|goon=[[じょう]] (jō)
+|kun=[[すくう]] ([[丞う]], sukuu) {{qualifier|rare}}, [[たすける]] ([[丞ける]], tasukeru) {{qualifier|rare}}
+|nanori=[[すけ]] (suke)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[승]], [[증]]|rv=seung, jeung|mr=sŭng, chŭng|eumhun=[[정승]], [[나아갈]]|ehrv=jeongseung, naagal|ehmr=chǒngsǔng, naagal|ehy=}}
+
+# {{defn|lang=ko|sort=一05}}
+
+===References===
+* {{Hanja ref|nav=10256}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=一05|hanviet=[[thừa]], [[chẳng]]}}
+
+# {{defn|vi|sort=一05}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e1e Nom Foundation]
+
+[[Category:Vietnamese Han tu]]
+
+[[cs:丞]]
+[[fr:丞]]
+[[ko:丞]]
+[[li:丞]]
+[[mg:丞]]
+[[ja:丞]]
+[[pl:丞]]
+[[th:丞]]
+[[vi:丞]]
+[[zh:丞]]

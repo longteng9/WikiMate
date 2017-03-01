@@ -1,0 +1,91 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=08|sn=11|four=52047|canj=QBBE|ids=⿰扌受}}
+
+====References====
+* {{Han ref|kx=0436.190|dkj=12242|dj=0786.050|hdz=31901.020|uh=6388|ud=25480|bh=B1C2|bd=45506}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|t1=hand|受|ls=psc|c1=s|c2=p}}.
+
+There are actually three “hands” in this character, as {{zh-l|*爫}} also means “hand”. As does {{zh-l|*又}} graphically.
+
+===Etymology===
+Derived from {{och-l|受|id=2|to accept}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shòu
+|c=sau6
+|h=pfs=su
+|md=sêu
+|mn=siū
+|w=3zeu
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[give]] to; to [[transmit]]
+# to [[confer]]; to [[award]]
+# to [[teach]]; to [[instruct]]
+
+===Compounds===
+{{zh-der|傳授|傾囊相授|函授|函授學校|副教授|口傳心授|口授|口授心傳|君權神授|天授|天授地設|客座教授|指授|授予|授人以柄|授人口實|授兵|授受|授命|授官廳|授室|授徒|授意|授手援溺|授旗|授時|授業|授權|授獎|授田|授粉|授職|授職惟賢|授與|授藝|授衣|授記|授課|授銜|授首|改授|敕授|教授|教授學|敬授人時|晉授|正授|沿才授職|禮不親授|私相授受|絳帳授徒|臨危授命|色授魂與|見危授命|親授|誥授|講授|除授|面授|面授機宜|頒授|黃石授書}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=手08}}
+
+# impart
+
+====Readings====
+* {{ja-readings|goon=[[じゅ]] (ju)|kanon=[[しゅう]] (shū)|kun=[[さずける]] (sazukeru), [[さずかる]] (sazukaru)}}
+
+====Verb====
+
+# give
+# grant (a grant is given)
+# bestow
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=手08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thụ]], [[thọ]], [[thò]]|rs=手08}}
+
+# {{defn|lang=vi|sort=手08}}
+
+[[fr:授]]
+[[ko:授]]
+[[hu:授]]
+[[mg:授]]
+[[ja:授]]
+[[no:授]]
+[[pl:授]]
+[[th:授]]
+[[zh:授]]

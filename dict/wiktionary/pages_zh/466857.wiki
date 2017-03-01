@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|おう|よう|yomi=o}}
+
+===Noun===
+{{ja-noun|おうよう|kyu=應用}}
+
+# [[application]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|おうよう|kyu=應用}}
+
+# to [[apply]]
+#* '''1934''', 寺田寅彦, 変った話:
+#*: {{ja-usex|写真電送機械の機構にもやはり同様な原理が'''応用'''されている。|しゃしん でんそう きかい の きこう に も やはり どうよう な げんり が '''おうよう''' されている。|The same principles apply to the mechanism of a fax machine too.}}
+
+====Conjugation====
+{{ja-suru|おうよう}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[hu:応用]]
+[[mg:応用]]
+[[ja:応用]]
+[[sv:応用]]
+[[zh:応用]]

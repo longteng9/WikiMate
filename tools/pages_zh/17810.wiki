@@ -1,0 +1,99 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=09|sn=13|four=45963|canj=DQKA|ids=⿰木春}}
+
+====References====
+* {{Han ref|kx=0538.080|dkj=15090|dj=0925.210|hdz=21242.080|uh=693F|ud=26943|bh=DDCF|bd=56783}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chūn
+|c=ceon1
+|mc=y
+|oc=y
+|ma=
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[Chinese toon]] (''[[Toona sinensis]]''), a type of tree that blooms white flowers in the summer and has edible leaves
+# [[tree of heaven]] (''[[Ailanthus altissima]]'')
+# {{lb|zh|metaphorical}} [[father]]
+# of advanced age
+
+====See also====
+* {{zh-l|香椿}}
+
+===References===
+* {{R:cedict}}
+* {{R:twedu|B01757}}
+
+----
+
+==Japanese==
+{{wikipedia|Tsubaki}}
+
+===Kanji===
+{{ja-kanji|grade=|rs=木09}}
+
+====Readings====
+* {{ja-readings|on=[[ちん]] (chin), [[ちゅん]] (chun)|kun=[[つばき]] (tsubaki)}}
+
+===Noun===
+{{ja-noun|つばき|ツバキ}}
+
+# {{ja-def|ツバキ}} [[camellia]]
+
+===Proper noun===
+{{ja-noun|つばき}}
+
+# {{given name|female|lang=ja|sort=つばき}}.
+
+====Alternative forms====
+* {{l|ja|海石榴}}
+* {{l|ja|山茶}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 椿]]
+[[Category:ja:Trees|sort=つばき]]
+[[Category:ja:Shrubs|sort=つばき]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=춘|eumhun=|rv=chun|mr=ch'un|y=chwun}}
+
+# {{defn|lang=ko|sort=木09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xoan]], [[xuân]], [[dăng]]|rs=木09}}
+
+# {{defn|lang=vi|sort=木09}}
+
+[[fr:椿]]
+[[ko:椿]]
+[[hu:椿]]
+[[mg:椿]]
+[[ja:椿]]
+[[no:椿]]
+[[pl:椿]]
+[[th:椿]]
+[[zh:椿]]

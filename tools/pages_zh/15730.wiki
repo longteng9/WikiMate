@@ -1,0 +1,47 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=11|sn=14|four=90046|canj=PYTJ|ids=⿰忄章}}
+
+# [[terrified]], [[alarmed]]
+
+====References====
+* {{Han ref|kx=0399.040|dkj=11102|dj=0738.210|hdz=42347.120|uh=615E|ud=24926|bh=E1C5|bd=57797}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhāng
+|c=zoeng1
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心11}}
+
+# {{defn|lang=ja|sort=心11}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[おそれる]] (osoreru)}}
+
+[[fr:慞]]
+[[li:慞]]
+[[hu:慞]]
+[[pl:慞]]
+[[th:慞]]
+[[zh:慞]]

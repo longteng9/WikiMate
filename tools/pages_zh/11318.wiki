@@ -1,0 +1,100 @@
+{{character info/new}}
+{{also|侪|㑪}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=14|sn=16|four=20223|canj=OYX|ids=⿰亻齊}}
+
+====References====
+* {{Han ref|kx=0119.380|dkj=01227|dj=0253.140|hdz=10231.140|uh=5115|ud=20757|bh=BEAB|bd=48811}}
+
+----
+
+==Chinese==
+{{zh-forms|s=侪}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|齊|ls=psc|c1=s|c2=p}}.
+
+===Etymology 1===
+From {{och-l|齊}}.
+
+====Pronunciation====
+{{zh-pron
+|m=chái
+|c=caai4,cai4,zai3
+|c_note=zai3 - due to confusion with {{zh-l|*濟}}
+|w=3ze
+|mc=y
+|oc=y
+|cat=n,adv
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[fellow]]s; [[associate]]s; [[company]]; [[companion]]
+# {{†}} to make (two people) [[become]] a [[pair]]; to make people [[marry]]
+# {{†}} [[together]]; with [[each other]]
+# {{lb|zh|Wu}} [[all]]; [[both]]; [[completely]]
+
+====Compounds====
+{{zh-der|吾儕|同儕|儕輩|奴儕|儕居|儕倫|朋儕|詩酒朋儕}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|h=pfs=sà;gd=sa2
+|cat=n,cls
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tlb|zh|Hakka}}
+
+# [[person]]
+# {{zh-classifier|people}}
+#: {{zh-x|食 个 人，婦人家 㧯 細人仔{è} 以外，約 有 五-千 儕。|And they that had eaten were about five thousand '''men''', beside women and children.|H|ref={{lang|zh|{{w|客語聖經：現代台灣客語譯本|現代臺灣客語譯本|lang=zh}}}} ({{w|Hakka Bible: Today's Taiwan Hakka Version|Today's Taiwan Hakka Version}}), {{lang|zh|馬太福音}} (Matthew) 14:21}}
+
+====Compounds====
+{{zh-der|儕儕|別儕|各儕|哪儕|單儕|每儕|逐儕|麼儕|打魚儕食魚屎|坐儕毋知企儕苦|釘礱無㓾雞，三儕人罅挨|飯後一杯茶，餓死醫藥儕}}
+
+===Etymology 3===
+{{zh-see|濟|v|{{qualifier|Min}} many}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人14|style=ky|shin=㑪}}
+
+# [[fellow]]
+# [[together]]
+
+====Readings====
+{{ja-readings
+|goon=[[せい]] (sei)
+|kanon=[[さい]] (sai)
+|kun=[[ともがら]] (tomogara)
+|kanyoon=[[ぜ]] (ze)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=제|rv=je|mr=che}}
+
+# {{defn|lang=ko|sort=人14}}
+
+[[fr:儕]]
+[[ko:儕]]
+[[li:儕]]
+[[hu:儕]]
+[[ja:儕]]
+[[pl:儕]]
+[[th:儕]]
+[[zh:儕]]

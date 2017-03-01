@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|舆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=10|sn=17|four=77801|canj=HXJC}}
+
+====Descendants====
+* [[𢹏]]
+
+====References====
+* {{Han ref|kx=1247.170|dkj=38468|dj=1724.260|hdz=53549.090|uh=8F3F|ud=36671|bh=C1D6|bd=49622}}
+
+----
+
+==Chinese==
+{{zh-forms|s=舆}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|舁|車|t2=carriage|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yú,yù
+|c=jyu4
+|mn=qz:îr/tw,xm:û/twv,zz:î
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[cart]], [[palanquin]]
+# [[public opinion]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=車10}}
+
+# [[palanquin]], [[litter]]
+
+====Readings====
+* {{ja-readings|on=[[よ]] (yo)|kun=[[こし]] (koshi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=여|eumhun=|rv=yeo|mr=yŏ|y=ye}}
+
+# {{defn|lang=ko|sort=車10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dư]]|rs=車10}}
+
+# {{defn|lang=vi|sort=車10}}
+
+[[fr:輿]]
+[[ko:輿]]
+[[hu:輿]]
+[[mg:輿]]
+[[ja:輿]]
+[[pl:輿]]
+[[th:輿]]
+[[zh:輿]]

@@ -1,0 +1,70 @@
+{{character info/new}}
+{{also|诀}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=04|sn=11|four=05630|canj=YRDK}}
+
+# [[take leave]] of, bid [[farewell]]
+
+====References====
+* {{Han ref|kx=1150.070|dkj=35272|dj=1617.050|hdz=63951.050|uh=8A23|ud=35363|bh=B35A|bd=45914}}
+
+----
+
+==Chinese==
+{{zh-forms|s=诀}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jué
+|c=kyut3
+|mn=koat
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|丹訣|五字訣|口訣|妙訣|捏訣|掐訣|歌訣|永訣|祕訣|脈訣|要訣|訣別|訣竅}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言04}}
+
+# {{defn|lang=ja|sort=言04}}
+
+====Readings====
+* {{ja-readings|on=[[けつ]] (ketsu), [[けい]] (kei)|kun=[[わかれる]] (wakareru), [[わかれ]] (wakare)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[결]]|eumhun=|rv=gyeol|mr=kyŏl|y=kyel}}
+
+# {{defn|lang=ko|sort=言04}}
+
+====Compounds====
+* [[口訣]] (구결, gugyeol)
+
+[[fr:訣]]
+[[ko:訣]]
+[[hu:訣]]
+[[mg:訣]]
+[[ja:訣]]
+[[pl:訣]]
+[[th:訣]]
+[[zh:訣]]

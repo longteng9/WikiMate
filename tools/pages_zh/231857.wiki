@@ -1,0 +1,80 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=rùkǒu
+|c=jap6 hau2
+|h=pfs=ngi̍p-héu
+|mn=xm,qz,tp:li̍p-kháu/zz,kh:ji̍p-kháu/qz:li̍p-khió
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[entrance]]; the "in" door
+# [[import]](s)
+
+===Verb===
+{{zh-verb}}
+
+# to [[enter]] the [[mouth]]
+# to import
+
+===Derived terms===
+{{zh-der|出入口}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|い|o1=り|くち|k2=ぐち|r=y|yomi=kun}}
+
+===Alternative forms===
+* (''rarer'') [[入り口]]
+
+===Etymology===
+入 ''[[enter]]'' + 口 ''[[opening]]''
+
+===Noun===
+{{ja-noun|いりぐち}}
+
+# [[entrance]]
+
+====Antonyms====
+* {{ja-r|出口|でぐち}}: [[exit]]
+
+====Related terms====
+* {{l|ja|入口点}}
+* {{l|ja|出入口}}
+* {{l|ja|入る}}
+
+===References===
+* {{R:Kojien}}
+
+[[Category:Japanese basic words]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=입구}}
+
+# {{hanja form of|입구|[[entrance]]}}
+
+[[fr:入口]]
+[[ko:入口]]
+[[it:入口]]
+[[li:入口]]
+[[hu:入口]]
+[[mg:入口]]
+[[nl:入口]]
+[[ja:入口]]
+[[pl:入口]]
+[[pt:入口]]
+[[th:入口]]
+[[chr:入口]]
+[[uk:入口]]
+[[zh:入口]]

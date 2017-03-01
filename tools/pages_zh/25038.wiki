@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=07|sn=13|four=44129|canj=TEFH|ids=⿱艹沙}}
+
+# kind of [[sedge]] [[grass]], used in [[ancient]] [[times]] for [[raincoat]]s
+
+====References====
+* {{Han ref|kx=1033.320|dkj=31040|dj=1493.050|hdz=53224.090|uh=838E|ud=33678|bh=B2EF|bd=45807}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=suō,shā
+|c=so1,saa1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸07}}
+
+# {{defn|lang=ja|sort=艸07}}
+
+====Readings====
+* {{ja-readings|on=[[さ]] (sa), [[しゃ]] (sha)|kun=[[はますげ]] (hamasuge)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|eumhun=|rv=sa|mr=sa|y=sa}}
+
+# {{defn|lang=ko|sort=艸07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[toa]], [[sa]]|rs=艸07}}
+
+# {{defn|lang=vi|sort=艸07}}
+
+[[fr:莎]]
+[[ko:莎]]
+[[hu:莎]]
+[[mg:莎]]
+[[ja:莎]]
+[[pl:莎]]
+[[th:莎]]
+[[zh:莎]]

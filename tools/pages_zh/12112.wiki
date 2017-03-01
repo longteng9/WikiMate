@@ -1,0 +1,59 @@
+{{character info/new}}
+{{also|嚇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=03|sn=6|four=|canj=RMY|ids=⿰口下}}
+
+# [[scare]], [[frighten]]
+# [[intimidate]]
+
+====References====
+* {{Han ref|kx=0177.021|dkj=03306|dj=0394.050|hdz=10577.020|uh=5413|ud=21523}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|c=haa2
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} {{non-gloss definition|grammatical particle used to emphasise an activity which goes on for a brief moment.}} for a while; for a moment
+#* {{zh-x|等 我 諗 吓。|Let me think about it for '''a while'''.|C-GZ|tr=dang2 ngo5 nam2 haa5.}}
+#* {{zh-x|我 聽日 行 吓。|Tomorrow, I will take a '''little''' walk.|C-GZ|tr=ngo5 ting1 jat6 haang4 haa5.}}
+# {{lb|zh|Cantonese}} {{non-gloss definition|used as question tag}}
+
+====See also====
+* {{sense|for a while}} {{qualifier|Mandarin}} {{zh-l|一下}}
+
+===Etymology 2===
+{{zh-see|嚇}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口03}}
+
+# {{defn|lang=ja|sort=口03}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka)|kun=[[おどす]] (odosu)}}
+
+[[fr:吓]]
+[[hu:吓]]
+[[mg:吓]]
+[[ja:吓]]
+[[no:吓]]
+[[pl:吓]]
+[[th:吓]]
+[[zh:吓]]

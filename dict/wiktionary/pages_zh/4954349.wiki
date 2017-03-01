@@ -1,0 +1,44 @@
+{{also|人気|人气}}
+==Chinese==
+{{zh-forms|s=人气}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=rénqì
+|c=jan4 hei3
+|mn=zz,kh:jîn-khì/xm,qz,tp:lîn-khì/tw:lâng-khì
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[presence]] of [[people]]
+#: {{zh-x|人氣 旺|to have a lot of people}}
+# {{lb|zh|dialectal}} [[personality]]; [[character]]
+
+===Etymology 2===
+{{bor|zh|ja|-}} {{ja-r|人気|にんき}}.
+
+====Pronunciation====
+{{zh-pron
+|m=rénqì
+|c=jan4 hei3
+|mn=zz,kh:jîn-khì/xm,qz,tp:lîn-khì
+|cat=n,a
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[popularity]]
+
+====Adjective====
+{{zh-adj}}
+
+# [[popular]]
+
+[[zh-min-nan:人氣]]
+[[ko:人氣]]

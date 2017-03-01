@@ -1,0 +1,32 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|ひと|こえ|k2=ごえ|yomi=k}}
+Compound of {{affix|sort=ひとごえ|ja|人|tr1=hito|t1=human|声|tr2=koe|t2=voice}}. {{rendaku2|sort=ひとごえ|koe|goe}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|ひとごえ|acc=0|dev=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|ひとごえ|hhira=ひとごゑ}}
+
+# [[voice]], [[human]] [[voice]]
+
+===Etymology 2===
+{{ja-kanjitab|じん|せい|yomi=o}}
+From {{der|sort=しんせい'|ja|ltc|人聲|tr=ȵiɪn  ɕiᴇŋ}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|じんせい|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|じんせい}}
+
+# [[voice]], [[human]] [[voice]]
+
+===References===
+<references/>
+
+[[mg:人声]]
+[[ja:人声]]
+[[zh:人声]]

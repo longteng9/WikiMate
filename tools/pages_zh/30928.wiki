@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=175|rad=非|as=07|sn=15|four=24111|canj=HGRLY|ids=⿱告非}}
+
+====References====
+* {{Han ref|kx=1382.290|dkj=42604|dj=1896.070|hdz=64087.170|uh=9760|ud=38752|bh=BE61|bd=48737}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kào
+|c=kaau3
+|mn=khò/khòa
+|mc=y
+|oc=y
+|ma=Zh-kào.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# [[lean on]]
+# [[trust]], [[depend]] on
+# [[come]] [[near]] to
+# {{euphemistic form of|肏|lang=zh}}
+
+====References====
+* (''Min Nan'') {{thcwd|11563}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=非07}}
+
+# {{defn|lang=ja|sort=非07}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[たがう]] (tagau), [[よる]] (yoru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|eumhun=|rv=go|mr=ko|y=ko}}
+
+# {{defn|lang=ko|sort=非07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kháo]], [[khéo]]|rs=非07}}
+
+# {{defn|lang=vi|sort=非07}}
+
+[[zh-min-nan:靠]]
+[[fr:靠]]
+[[hu:靠]]
+[[mg:靠]]
+[[ja:靠]]
+[[no:靠]]
+[[pl:靠]]
+[[th:靠]]
+[[zh:靠]]

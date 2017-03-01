@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|豆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=07|sn=13|four=44108|canj=TMRT}}
+
+# [[bean]], [[beans]], [[pea]], [[peas]]
+# bean-shaped
+
+====References====
+* {{Han ref|kx=1032.010|dkj=30989|dj=1491.160|hdz=53215.110|uh=8373|ud=33651|bh=D75E|bd=55134}}
+
+----
+
+==Chinese==
+{{zh-forms|s=豆}}
+{{attention|zh|is the claim that 豆 is the simplified form correct?}}
+
+===Pronunciation===
+{{zh-pron
+|m=dòu
+|c=dau6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|荳芽菜|荳蔻|荳蔻年華}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸07}}
+
+# {{defn|lang=ja|sort=艸07}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō), [[ず]] (zu)|kun=[[まめ]] (mame)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=두|eumhun=|rv=du|mr=tu|y=twu}}
+
+# {{defn|lang=ko|sort=艸07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đậu]]|rs=艸07}}
+
+# {{defn|lang=vi|sort=艸07}}
+
+[[fr:荳]]
+[[hu:荳]]
+[[mg:荳]]
+[[ja:荳]]
+[[pl:荳]]
+[[th:荳]]
+[[zh:荳]]

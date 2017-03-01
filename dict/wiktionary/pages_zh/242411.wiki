@@ -1,0 +1,104 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuǒyòu,tl=y
+|c=zo2 jau6-2
+|h=pfs=chó-yu
+|ma=Zh-zuoyòu.ogg
+|mn=qz:chó͘-iū/tw,xm,zz:chó-iū
+|cat=n,a,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[left]] and [[right]]
+# left and right [[side]]s; both sides
+# [[entourage]]; [[retinue]]; [[attendant]]s
+
+===Adjective===
+{{zh-adj}}
+
+# [[about]]; [[or so]]; or [[thereabouts]]
+#: {{zh-x|他 身高 可能 在 三 米 '''左右'''。|He was '''about''' three meters tall.}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[control]]; to [[manipulate]]; to [[influence]]
+
+===Derived terms===
+{{zh-der|左右逢源|左右開弓|左右手|左右為難}}
+
+===Descendants===
+{{CJKV||さゆう|좌우}}
+
+{{zh-cat|Antonymous|Elementary}}
+[[Category:Chinese dvandva compounds]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|さ|ゆう|yomi=on}}
+
+===Etymology===
+From {{compound|左|右|tr1=sa|tr2=yū|t1=left|t2=right|lang=ja}}.
+
+===Pronunciation===
+{{ja-pron|yomi=on|さゆう}}
+
+===Noun===
+{{ja-noun|さゆう}}
+
+# left and right
+#: {{ja-usex|横断歩道を渡る前には、左右を確認する。|おうだんほどう を わたる まえ に は、 さゆう を かくにん する。|Check left and right before you cross the crosswalk.}}
+# both sides
+# [[control]]
+# [[influence]]
+
+====Synonyms====
+* {{sense|right and left}} {{ja-r|右左|みぎひだり}}
+* {{sense|control}} {{ja-r|支配|しはい}}
+* {{sense|influence}} {{ja-r|影響|えいきょう}}
+
+====Compounds====
+* {{ja-l|上下左右}}
+* {{ja-l|前後左右}}
+* {{ja-l|左右一対}}
+* {{ja-l|左右軸}}
+* {{ja-l|左右相称}}
+* {{ja-l|左右対称}}
+
+===Verb===
+{{ja-verb-suru|さゆう}}
+
+# to [[sway]], to [[influence]]
+# to have under one's [[control]]
+
+====Conjugation====
+{{ja-suru|さゆう}}
+
+[[Category:Japanese dvandva compounds]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=좌우}}
+
+# {{hanja form of|좌우|left and right}}
+
+[[zh-min-nan:左右]]
+[[fr:左右]]
+[[ko:左右]]
+[[hu:左右]]
+[[mg:左右]]
+[[ja:左右]]
+[[th:左右]]
+[[chr:左右]]
+[[uk:左右]]
+[[zh:左右]]

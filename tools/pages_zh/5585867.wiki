@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms|[[equal]]|[[formula]]}}
+
+===Pronunciation===
+{{zh-pron
+|c=dang2 sik1
+|m=děngshì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|math}} an [[equality]]
+
+===See also===
+* {{zh-l|不等式}}
+* {{zh-l|方程式}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|とう|yomi=o|しき}}
+
+===Pronunciation===
+{{ja-pron|とうしき|acc=h|y=go|dev=3}}
+
+===Noun===
+{{ja-noun|とうしき}}
+
+# {{lb|ja|math|sort=とうしき}} an [[equality]]
+
+===See also===
+* {{ja-r|不%等%式|ふ%とう%しき}}
+* {{ja-r|方%程%式|ほう%てい%しき}}
+
+[[ko:等式]]
+[[ja:等式]]
+[[zh:等式]]

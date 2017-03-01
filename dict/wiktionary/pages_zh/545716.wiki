@@ -1,0 +1,47 @@
+{{also|下門|厦门}}
+==Chinese==
+{{zh-forms|s=厦门|alt=下門-archaic|[[mansion]](s)|[[gate]](s)<br>[[opening]](s)}}
+{{wikipedia|Xiamen}}
+===Etymology===
+A homophone of the original name {{zh-l|下門}} that came into official use for its more elegant sense.
+
+===Pronunciation===
+{{zh-pron
+|m=Xiàmén
+|c=haa6 mun4
+|h=pfs=Ha-mùn
+|md=Â-muòng
+|mn=xm,qz,tw:Ē-mn̂g/zz:Ēe-mûi
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{lb|zh|historical|_|geography}} [[Xiamen]], a [[fortification]] which [[formerly]] [[protect]]ed [[Xiamen]] [[bay|Bay]].
+# {{lb|zh|geography}} [[Xiamen]] [[island|Island]] (廈門[[島]]) in [[Xiamen]] [[bay|Bay]], [[Fujian]].
+# {{lb|zh|geography}} [[Xiamen]] [[bay|Bay]] (廈門[[灣]]) in [[southeastern]] [[Fujian]] at the [[mouth]]s of the [[Jiulong]] and [[Xixi]] [[river]]s on the [[Taiwan Strait]].
+# {{lb|zh|geography}} [[Xiamen]] (廈門[[市]]), the [[sub-provincial]] [[city]] of [[Fujian]] on [[Xiamen]] [[island|Island]] and the [[surround]]ing [[Chinese]] [[mainland]], [[now]] [[including]] its [[mountainous]] [[rural]] [[hinterland]] and [[notionally]] [[including]] the [[nearby]] [[Jinmen]] [[island|Islands]] [[still]] [[controlled]] by the [[Republic of China]] on [[Taiwan]].
+
+====Synonyms====
+* {{sense|island}} {{zh-l|嘉禾}} {{qualifier|historical}}
+* {{sense|city}} {{zh-l|下門}} {{qualifier|historical}}; {{zh-l|思明}} {{qualifier|historical}}
+* {{sense|its hinterland}} {{zh-l|同安}} {{qualifier|historical}}; {{zh-l|思明}} {{qualifier|historical}}
+
+====Hyponyms====
+* {{sense|island}} {{zh-l|思明}} {{qualifier|southern district}}; {{zh-l|湖里}} {{qualifier|northern district}}
+
+{{zh-cat|Cities}}
+
+----
+
+==Japanese==
+{{ja-kanjitab}}
+
+===Proper noun===
+{{ja-pos|proper|シアメン}}
+
+# [[Xiamen]]
+
+[[zh-min-nan:廈門]]
+[[ko:廈門]]

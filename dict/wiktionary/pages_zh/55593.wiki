@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|なか|たか|k2=だか|かた|k3=がた|r=y|yomi=kun}}
+
+===Etymology===
+From {{compound|中|高|型|t1=middle|t2=high (pitch)|t3=form|lang=ja}}, literally "(in the middle the pitch is high)-form".
+
+===Pronunciation===
+{{ja-pron|なかだかがた|acc=h|y=k}}
+
+===Noun===
+{{ja-noun|なかだかがた}}
+# The accent pattern in Japanese in which a syllable that is neither the first nor the last within that word is accented.
+
+====See also====
+* {{ja-r|平板型|へいばん-がた}}
+* {{ja-r|頭高型|あたまだかがた}}
+* {{ja-r|尾高型|おだかがた}}
+
+[[uz:中高型]]

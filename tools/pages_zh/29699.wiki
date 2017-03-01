@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|煅|锻}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=09|sn=17|four=87147|canj=CHJE|ids=⿰釒段}}
+
+====References====
+* {{Han ref|kx=1314.090|dkj=40625|dj=1814.260|hdz=64233.010|uh=935B|ud=37723|bh=C1EB|bd=49643}}
+
+----
+
+==Chinese==
+{{zh-forms|s=锻}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|金|alt1=釒|段|ls=psc|c1=s|c2=p|t1=metal}}.
+
+===Pronunciation===
+{{zh-pron
+|m=duàn
+|c=dyun3
+|h=pfs=thon
+|md=
+|mn=toàn/thoàn
+|mn-t=duêng3/duang3
+|mn-t_note=duêng3 - Chaozhou; duang3 - Shantou
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[forge]]; to [[shape]] [[metal]]
+#: {{zh-x|鍛造|to forge}}
+# to [[temper]]; to [[refine]]
+
+===Compounds===
+{{zh-der|鍛錘|鍛打|鍛工|鍛焊|鍛件|鍛鍊|鍛模|鍛鐵|鍛壓|鍛冶|鍛造|月鍛季煉|日鍛月煉|百鍛千練|鍛矢|鍛燒|鍛接}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=金09}}
+
+# {{defn|lang=ja|sort=金09}}
+
+====Readings====
+* {{ja-readings|goon=[[たん]] (tan)|kanon=[[たん]] (tan)|nanori=[[かじ]] (kaji), [[きたえ]] (kitae)|kun=[[きたえる]] (kitaeru)}}
+
+====Compounds====
+* {{ja-l|鍛冶}}
+* {{ja-l|鍛錬}}, {{ja-l|鍛練}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=단|eumhun=|rv=dan|mr=tan|y=tan}}
+
+# {{defn|lang=ko|sort=金09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đoán]], [[đoàn]]|rs=金09}}
+
+# {{defn|lang=vi|sort=金09}}
+
+[[fr:鍛]]
+[[ko:鍛]]
+[[hu:鍛]]
+[[mg:鍛]]
+[[ja:鍛]]
+[[pl:鍛]]
+[[th:鍛]]
+[[zh:鍛]]

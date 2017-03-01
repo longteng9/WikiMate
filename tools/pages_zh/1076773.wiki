@@ -1,0 +1,30 @@
+{{also|省会}}
+==Chinese==
+{{zh-forms|s=省会}}
+
+===Pronunciation===
+{{zh-pron
+|m=shěnghuì
+|c=saang2 wui6
+|h=pfs=sén-fi
+|mn=qz,tw,xm:séng-hōe/zz:séⁿ-hōe
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[provincial]] [[capital]]
+#: {{zh-x|成都{dū} 是 ^四川 的 '''省{shěng}會'''。|Chengdu is the '''capital''' of Sichuan.}}
+
+====Usage notes====
+When translating the English term ''capital city'', use {{zh-l|首都}} when referring to the capital of a country, {{zh-l|首府}} when referring to the capital of a state or autonomous region, and {{zh-l|省會}} when referring to the capital of a province. Alternative terms for the capital of a country include {{zh-l|國都}}, {{zh-l|京城}}, {{zh-l|京都}}, {{zh-l|京邑}} and {{zh-l|都城}} all of which are more commonly used in literary language.
+
+===See also===
+* {{zh-l|首都}}
+* {{zh-l|首府}}
+
+{{zh-cat|Advanced}}
+
+[[ko:省會]]
+[[ja:省會]]

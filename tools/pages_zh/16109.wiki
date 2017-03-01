@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=05|sn=8|four=54070|canj=QTM|ids=⿰扌甘}}
+
+# to [[clamp]], [[tie down]] or [[pin down]]
+
+====References====
+* {{Han ref|kx=0425.110|dkj=11956|dj=0773.160|hdz=31848.030|uh=62D1|ud=25297|bh=CCB5|bd=52405}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qián
+|c=kim4
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手05}}
+
+# {{defn|lang=ja|sort=手05}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan), [[けん]] (ken)|kun=[[はさむ]] (hasamu), [[つぐむ]] (tsugumu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=겸|eumhun=|rv=gyeom|mr=kyŏm|y=kyem}}
+
+# {{defn|lang=ko|sort=手05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手05|hanviet=[[kiềm]], [[cùm]]}}
+
+# {{defn|lang=vi|sort=手05}}
+
+[[fr:拑]]
+[[hu:拑]]
+[[ja:拑]]
+[[pl:拑]]
+[[th:拑]]
+[[zh:拑]]

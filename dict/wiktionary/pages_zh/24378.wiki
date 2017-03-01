@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=07|sn=11|four=74247|canj=BJBD}}
+
+# [[neck]]
+
+====References====
+* {{Han ref|kx=0982.200|dkj=29497|dj=1435.180|hdz=32076.020|uh=8116|ud=33046|bh=B2E4|bd=45796}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bó
+|c=but6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+* {{zh-l|脖子}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉07}}
+
+# {{defn|lang=ja|sort=肉07}}
+
+====Readings====
+* {{ja-readings|on=[[ほつ]] (hotsu), [[ぼち]] (bochi), [[ぼつ]] (botsu)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=발|eumhun=|rv=bal|mr=pal|y=pal}}
+
+# {{defn|lang=ko|sort=肉07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bột]]|rs=肉07}}
+
+# {{defn|lang=vi|sort=肉07}}
+
+[[fr:脖]]
+[[hu:脖]]
+[[mg:脖]]
+[[no:脖]]
+[[pl:脖]]
+[[th:脖]]
+[[zh:脖]]

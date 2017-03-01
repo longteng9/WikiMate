@@ -1,0 +1,113 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=61|rad=心|as=09|sn=13|four=46330|canj=DUP|ids=⿱相心}}
+
+====References====
+* {{Han ref|kx=0392.260|dkj=10858|dj=0728.100|hdz=42320.110|uh=60F3|ud=24819|bh=B751|bd=46929}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|相|心|t2=heart, mind|ls=psc|c1=p|c2=s}} – to think, to consider.
+
+===Etymology===
+From {{och-l|相|to observe; appearance}} (“appearance > to visualise > to think”).
+
+===Pronunciation===
+{{zh-pron
+|m=xiǎng
+|c=soeng2
+|h=pfs=sióng
+|md=suōng
+|mn=xm,tp,kh,sx,yl,km,mg,hc,tc:siūⁿ/qz,lk:siǔⁿ/zz,tn:siōⁿ/qz,tw,xm:sióng/zz:siáng
+|mn_note=siūⁿ/siǔⁿ/siōⁿ - vernacular; sióng/siáng - literary
+|mn-t=siên6/sion6/siang2
+|mn-t_note=siên6/sion6 - vernacular; siang2 - literary
+|w=2xian
+|mc=y
+|oc=y
+|ma=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[think]] {{gloss|to conceive of something or someone}}
+#* {{zh-x|我 想 她 是 衰老 了。|I think she's going senile.}}
+# to [[think]] about; to [[plan]]; to be [[considering]]
+#* {{zh-x|我 想 在 暑假 打工。|I'm '''planning''' to get a job for the summer.}}
+# to [[think]]; to [[suppose]]; to [[guess]]; to [[reckon]]
+#* {{zh-x|我 想 我 能 給 你 找到 合適 的 尺碼。|I think I can find the right size for you.}}
+# to [[want]]; to [[wish]] for; to [[desire]]
+#* {{zh-x|還 想 喝 一 杯 嗎？|Would you '''like''' another drink?}}
+#* {{zh-x|她 想 當 芭蕾舞 演員。|She '''wants''' to be a ballet dancer.}}
+# to [[miss]] {{gloss|to feel the absence of someone or something}}
+#* {{zh-x|你 走 了 我 會 想 你 的。|I'll '''miss''' you when you're gone.}}
+
+===Compounds===
+{{zh-der|想必|想不到|想不開|想當然|想得開|想得美|想到|想法|想方設法|想家|想開|想來|想念|想起|想起來|想入非非|想睡|想通|想望|想像/想象|想像/想象力|想要|猜想|感想|構想|幻想|回想|空想|理想|夢想|瞑想|思前想後|妄想|心想事成|意想|不堪設想|不想|中心思想|伏想|休想|假想|假想敵|傾想|儘想|冥思苦想|冥想|凝想|前思後想|千思萬想|可想而知|呆想|夢勞魂想|夢想成真|奇想|妄想症|妙想|封建思想|左思右想|巴想|幻想力|幻想曲|幻想派|心無二想|思想|思想史|思想家|思想庫|思想戰|悁想|想一想|想不透|想不通|想來想去|想像|想像力|想前顧後|想度|想慕|想法子|想當然耳|想碴兒|想見|想頭|意想不到|慨想|懷想|懸想|戰略思想|推想|揣想|摹想|料想|暗想|暢想|暮想朝思|有想頭|朝思夕想|朝思暮想|東想西想|沒心想|沒心沒想|沒想到|沒想頭|浮想|浮想聯翩|涉想|渴想|濠濮間想|無想頭|煩想|狂想|狂想曲|獃想|玄想|理想主義|理想化|理想國|異想天開|痴心妄想|痴想|白想想|眠思夢想|瞎想|神仙思想|突發奇想|緬想|老莊思想|聯想|聯想力|胡思亂想|胡想|臆想幣|苦思惡想|茶思飯想|著想|行思坐想|觀想念佛|設想|試想|貪心妄想|追想|退一步想|逸想|遐想|難以想像|非非想|預想|默想}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=心09}}
+
+# [[thought]], [[idea]], [[concept]]
+
+====Readings====
+{{ja-readings
+|goon=[[そう]] (sō) > [[さう]] (sau)
+|kanon=[[しょう]] (shō) {{non-joyo-reading}}
+|kanyoon=[[そ]] (so)
+|kun=[[おもう]] ([[想う]], omou) > [[おもふ]] ([[想ふ]], omofu), [[おもい]] ([[想い]], omoi) > [[おもひ]] ([[想ひ]], omohi)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=상|eumhun=|rv=sang|mr=sang|y=sang}}
+
+# {{defn|lang=ko|sort=心09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|tưởng|rs=心09}}
+
+# {{defn|lang=vi|sort=心09}}
+
+[[zh-min-nan:想]]
+[[da:想]]
+[[fr:想]]
+[[ko:想]]
+[[it:想]]
+[[ku:想]]
+[[lt:想]]
+[[li:想]]
+[[hu:想]]
+[[mg:想]]
+[[fj:想]]
+[[ja:想]]
+[[no:想]]
+[[pl:想]]
+[[ru:想]]
+[[ta:想]]
+[[th:想]]
+[[chr:想]]
+[[uk:想]]
+[[vi:想]]
+[[zh:想]]

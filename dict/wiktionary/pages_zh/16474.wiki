@@ -1,0 +1,101 @@
+{{character info/new}}
+{{also|揾}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=10|sn=13|four=56017|canj=QWOT|ids=⿰扌𥁕}}
+
+# to [[wipe off]]
+# to [[press]] [[down]] with [[knuckle]]s
+# to [[immerse]]
+
+====References====
+* {{Han ref|kx=0448.160|dkj=12520|dj=0799.100|hdz=31932.051|uh=6435|ud=25653|bh=DDAF|bd=56751}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|s=揾}}
+
+====Pronunciation====
+{{zh-pron
+|m=wèn
+|c=wan3,man5
+|h=pfs=vun
+|mn=ùn
+|mc=2+1
+|oc=1+2
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|literary|or|Hakka|Min Nan}} to [[soak]]; to [[dip]]
+#: {{zh-x|搵 豆油|to '''dip''' in soy sauce|MN}}
+# {{lb|zh|literary}} to [[press]] (with one's finger)
+# {{lb|zh|literary}} to [[wipe]] away
+# {{lb|zh|literary}} to [[kiss]]; to [[nibble]]
+
+===Etymology 2===
+{{zh-forms|s=揾}}
+
+====Pronunciation====
+{{zh-pron
+|c=wan2
+|c-t=vun2
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} to [[search]], [[look for]]
+
+=====Synonyms=====
+{{zh-dial|找}}
+
+====Compounds====
+{{zh-der|搵工|搵銀|搵錢|搵食|搵笨|搵丁|搵朝唔得晩|搵兩餐|搵嚟|搵老襯|搵米路|搵世界|搵周公|搵腳|搵著數/揾着数|搵嘢做|搵路|搵佬|搵窿捐}}
+
+===Etymology 3===
+{{zh-forms|s=揾}}
+
+====Pronunciation====
+{{zh-pron
+|h=pfs=vut
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Hakka}} to [[bend]]; to [[turn]]
+
+===References===
+* {{R:twedu|B01377}}
+* {{R:yue:mfccd}}
+* {{thcwda|492}}
+* {{R:hak:DFTH|15278}} <!--vut-->
+* {{R:hak:DFTH|15279}} <!--vun-->
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手10}}
+
+# {{defn|lang=ja|sort=手10}}
+
+====Readings====
+* {{ja-readings|on=[[おん]] (on)|kun=[[しずむ]] (shizumu), [[おさえる]] (osaeru)}}
+
+[[zh-min-nan:搵]]
+[[fr:搵]]
+[[hu:搵]]
+[[pl:搵]]
+[[th:搵]]
+[[zh:搵]]

@@ -1,0 +1,27 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=不qǐ
+|c=bat1 hei2
+|cat=part
+}}
+
+===Particle===
+{{zh-particle}}
+
+# {{lb|zh|used after verbs}} [[cannot]] [[afford]] to ...
+#: {{zh-x|買 不起|'''too expensive to''' buy}}
+#: {{zh-x|玩 不起|'''cannot afford to''' be played}}
+#: {{zh-x|牙醫 貴 到 我 都 看 不起 了。|Dentists are so expensive that I can't afford to go to visit.}}
+# {{lb|zh|used after verbs}} do not [[wish]] to ... (in contempt)
+#: {{zh-x|看不起|to look down upon}}
+
+====See also====
+* {{qualifier|Cantonese}} {{zh-l|唔起|m4 hei2}}, {{zh-l|唔住|m4 zyu6}}
+
+===Derived terms===
+{{zh-der|對不起|看不起|了不起|瞧不起|惹不起|傷不起}}
+
+[[zh:不起]]

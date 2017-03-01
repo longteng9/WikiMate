@@ -1,0 +1,59 @@
+{{also|构成}}
+==Chinese==
+{{zh-forms|s=构成}}
+
+===Pronunciation===
+{{zh-pron
+|m=gòuchéng
+|c=kau3 sing4,gau3 sing4
+|mn=kò͘-sêng
+|ma=y
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[constitute]]; to [[form]]; to [[make up]]
+
+===Noun===
+{{zh-noun}}
+
+# [[constitution]]; [[formation]]; [[make up]]
+
+{{zh-cat|Elementary|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|せい|yomi=on}}
+
+===Noun===
+{{ja-noun|こうせい}}
+
+# [[configuration]], [[structure]], [[construct]], [[constitution]]
+#: {{ja-usex|複雑な'''構成'''をしている。|ふくざつ な '''こうせい''' を して いる。|Its '''structure''' is quite intricate.}}
+
+====Derived terms====
+* {{ja-r|再構成|さいこうせい}}: [[reconstruction]], [[reconstitution]]
+* {{ja-r|構成中|こうせいちゅう}}: being in the [[process]] of [[configuring]]; [[current]]ly [[configuring]]
+
+===Verb===
+{{ja-verb-suru|こうせい}}
+
+# [[compose]]; [[constitute]]
+#: {{ja-usex|この建物は２つの区画から'''構成'''されている。|この たてもの は ふたつ の くかく から '''こうせい''' されて いる。|This building consists of two sections.}}
+# [[configure]]
+
+====Conjugation====
+{{ja-suru|こうせい}}
+
+[[zh-min-nan:構成]]
+[[ko:構成]]
+[[hu:構成]]
+[[mg:構成]]
+[[ja:構成]]
+[[ru:構成]]
+[[sh:構成]]
+[[chr:構成]]
+[[zh:構成]]

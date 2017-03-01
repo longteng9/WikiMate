@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=07|sn=10|four=64047|canj=RJKD|ids=⿰口孝}}
+
+# [[cough]]
+# [[pant]]
+# [[roar]]
+
+====References====
+* {{Han ref|kx=0190.260|dkj=03659|dj=0410.070|hdz=10625.040|uh=54EE|ud=21742|bh=ADFD|bd=44541}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=哮
+|c=haau1
+|mn=hàu/twv:háu/qz,xm,zz:hau
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|哮吼|哮喘|咆哮大怒|大肆咆哮|咆哮山莊|哮闞|哮虎|咆哮|狂哮|訇哮}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口07}}
+
+# {{defn|lang=ja|sort=口07}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[ほえる]] (hoeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=효|rv=hyo|mr=hyo}}
+
+# {{defn|lang=ko|sort=口07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''哮''' ([[hao]])
+
+# {{defn|lang=vi}}
+
+[[fr:哮]]
+[[li:哮]]
+[[hu:哮]]
+[[mg:哮]]
+[[ja:哮]]
+[[no:哮]]
+[[pl:哮]]
+[[th:哮]]
+[[zh:哮]]

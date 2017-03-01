@@ -1,0 +1,97 @@
+{{character info/new}}
+{{also|筞}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=06|sn=12|four=88902|canj=HDB|ids=⿱[[竹|⺮]][[朿]]}}
+
+# [[scheme]], [[plan]]
+# to [[whip]]
+# [[urge]]
+
+====References====
+* {{Han ref|kx=0883.180|dkj=26009|dj=1312.150|hdz=52963.090|uh=7B56|ud=31574|bh=B5A6|bd=46502}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cè
+|c=caak3
+|mn=chhek
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|上策|下策|中策|乘堅策肥|人口政策|先策|公共政策|典策|冒進政策|出此下策|出謀劃策|出謀獻策|利率政策|制策|劃策|勞工政策|南進政策|和解政策|國策|國策顧問|基本國策|大陸政策|失策|奇策|奇謀異策|妙策|姑息政策|孫策|定策|射策|對空策|對策|工業政策|愚民政策|戰國策|手策|扶策|投策|挑包策馬|振策|排外政策|搏手無策|政策|政策分析|政策執行|教戰守策|方策|書策|杖策|束手無策|殖民政策|決策|決策千里|治安策|焦土政策|獻策|玄策|畫策|畫策設謀|發策|發策決科|白澳政策|督策|社會政策|神機妙策|神術妙策|神謀妙策|萬全之策|策劃|策動|策勛|策勵|策反|策名|策命|策問|策士|策應|策文|策書|策望|策杖|策源地|策略|策畫|策立|策策|策試|策論|策蹇|策進|策馬|算無遺策|簡策楮墨|籌策|群策群力|良策|裹糧策馬|計策|詔策|謀無遺策|警策|財政政策|貨幣政策|資策會|贈策|走為上策|遺策|長策|關稅政策|鞭策|風流策|馬策|駝鳥政策|驅策|龜策}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=竹06|grade=6}}
+
+# [[scheme]]; [[plan]]; [[policy]]; [[step]]; [[means]]
+
+====Readings====
+* {{ja-readings|goon=[[しゃく]] (shaku)|kanon=[[さく]] (saku)|kun=[[ふだ]] (fuda), [[ふみ]] (fumi), [[むち]] (muchi), [[つえ]] (tsue), [[かずとり]] (kazutori), [[はかりごと]] (hakarigoto)|nanori=[[かず]] (kazu), [[つか]] (tsuka), [[もり]] (mori)}}
+
+===Noun===
+{{ja-noun|さく}}
+
+# [[plan]]; [[policy]]
+#: 正直は決して最上の'''策'''ではない。
+#:: ''Shoujiki wa kesshite saijou no '''saku''' dewa nai.''
+#:: Honesty is never the best policy.
+
+====Derived Terms====
+* [[策を講ずる]]
+* [[策を施す]]
+
+====Suffix====
+{{ja-pos|さく|suffix}}
+
+# [[plan]]; [[policy]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=책|eumhun=|rv=chaek|mr=ch'aek|y=chayk}}
+
+# {{defn|lang=ko|sort=竹06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sách]]|rs=竹06}}
+
+# {{defn|lang=vi|sort=竹06}}
+
+[[fr:策]]
+[[ko:策]]
+[[lo:策]]
+[[hu:策]]
+[[mg:策]]
+[[ja:策]]
+[[no:策]]
+[[pl:策]]
+[[th:策]]
+[[zh:策]]

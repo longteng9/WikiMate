@@ -1,0 +1,32 @@
+==Japanese==
+{{ja-kanjitab|じゅ|もん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|じゅもん|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|じゅもん|kyu=咒文}}
+
+# an [[incantation]], a [[spell]], an [[enchantment]]
+#: {{ja-usex|彼らはその文句を'''呪文'''のように繰り返した。|^かれら は その もんく を '''じゅもん''' の よう に くりかえした。|They repeated the word like an '''incantation''' → like a broken record.}}
+
+====See also====
+{{der-top|See also}}
+* {{ja-r|魔法|まほう}}: magic
+* {{ja-r|魔術|まじゅつ}}: magic, sorcery
+* {{ja-r|魔力|まりょく}}: magical power
+* {{ja-r|呪法|じゅほう}}: black magic, cursing magic
+* {{ja-r|呪術|じゅじゅつ}}: magic, sorcery
+* {{ja-r|妖法|ようほう}}: illusion; witchcraft
+* {{ja-r|妖術|ようじゅつ}}: illusion; witchcraft
+* {{ja-r|鬼法|きほう}}: black magic, demon magic
+* {{ja-r|鬼術|きじゅつ}}: black magic, demon magic
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[ko:呪文]]
+[[fi:呪文]]
+[[sv:呪文]]
+[[zh:呪文]]

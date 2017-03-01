@@ -1,0 +1,66 @@
+==Chinese==
+{{zh-forms|lit=to clap hands}}
+
+===Pronunciation===
+{{zh-pron
+|m=pāishǒu
+|c=paak3 sau2
+|h=pfs=phok-sú
+|mn=phah-chhiú
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[applaud]]
+# to [[clap]] one's hands
+
+====Synonyms====
+* {{zh-l|鼓掌}}
+* {{qualifier|Min Nan}} {{zh-l|拍噗仔|[[phah-pho̍k-á]]}}
+
+===Descendants===
+{{CJKV||2=はくしゅ|3=박수}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|はく|しゅ|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|はくしゅ|y=o|acc=1|dev=2|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はくしゅ}}
+
+# [[applause]]
+
+===Verb===
+{{ja-verb-suru|はくしゅ}}
+
+# to [[clap]], to [[applaud]]
+
+====Conjugation====
+{{ja-suru|はくしゅ}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=박수}}
+
+# {{hanja form of|박수|[[applause]]}}
+
+[[ko:拍手]]
+[[lt:拍手]]
+[[hu:拍手]]
+[[mg:拍手]]
+[[tl:拍手]]
+[[chr:拍手]]
+[[zh:拍手]]

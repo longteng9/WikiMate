@@ -1,0 +1,47 @@
+{{also|缓冲器}}
+==Chinese==
+{{zh-forms|s=缓冲器|type=21}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=huǎnchōngqì
+|c=wun6 cung1 hei3,wun4 cung1 hei3
+|c_note=wun4 cung1 hei3 - non-standard
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|automotive}} [[bumper]]
+# {{lb|zh|automotive}} [[shock absorber]]
+# {{lb|zh|computer science}} [[buffer]]
+
+====Derived terms====
+{{zh-der|前緩衝器}}
+
+====Synonyms====
+* {{zh-l|保險杠}}
+
+{{zh-cat|Automotive|Computing}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|しょう|き|yomi=on}}
+
+===Noun===
+{{ja-noun|かんしょうき}}
+
+# (''mechanical device'') [[shock absorber]]
+
+====Synonyms====
+* {{ja-r|ショックアブソーバー}}
+
+[[Category:ja:Automotive|かんしょうき]]
+
+[[ko:緩衝器]]
+[[hu:緩衝器]]
+[[chr:緩衝器]]
+[[zh:緩衝器]]

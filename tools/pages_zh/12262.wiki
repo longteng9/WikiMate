@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+===Etymology===
+{{Han etyl}}
+{{Han compound|夂|人|口}}.
+===Han character===
+{{Han char|rn=30|rad=口|as=05|sn=8|four=28604|canj=HOR,HYR|ids=⿱处口 (G), ⿱⿺夂人口 (TJK)}}
+
+# [[fault]], [[defect]]
+# [[error]], [[mistake]]
+
+====References====
+* {{Han ref|kx=0185.060|dkj=03493|dj=0404.060|hdz=10607.060|uh=548E|ud=21646|bh=A953|bd=43347}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiù
+|c=gau3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口05}}
+
+# {{defn|lang=ja|sort=口05}}
+
+====Readings====
+* {{ja-readings|on=[[きゅう]] (kyū), [[こう]] (kō)|kun=[[とが]] (toga), [[とがめる]] (togameru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[구]], [[고]]|rv=gu, go|mr=ku, ko}}
+
+# {{defn|lang=ko|sort=口05}}
+
+[[fr:咎]]
+[[ko:咎]]
+[[li:咎]]
+[[hu:咎]]
+[[mg:咎]]
+[[ja:咎]]
+[[pl:咎]]
+[[th:咎]]
+[[zh:咎]]

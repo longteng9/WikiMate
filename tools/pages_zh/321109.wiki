@@ -1,0 +1,87 @@
+{{also|亲切}}
+==Chinese==
+{{zh-forms|s=亲切}}
+
+===Pronunciation===
+{{zh-pron
+|m=qīnqiè
+|c=can1 cit3
+|h=pfs=chhîn-chhiet
+|mn=chhin-chhiat
+|ma=Zh-qinqiè.ogg
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[kind]]; [[cordial]]; [[amiable]]
+
+====Derived terms====
+{{zh-der|倍感親切|亲切感}}
+
+===Descendants===
+{{CJKV|| しんせつ|친절}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|せつ|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=しんせつ}} compound {{m|zh|親切|tr=tshin tshet|lit=blood relative + close}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|しんせつ|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+===Alternative forms===
+* {{m|ja|深切}} {{qualifier|more common but obsolete form}}
+
+===Adjective===
+{{ja-adj|infl=na|しんせつ}}
+
+# [[kind]], [[helpful]], [[friendly]], [[obliging]]
+
+====Inflection====
+{{ja-na|しんせつ}}
+
+===Noun===
+{{ja-noun|しんせつ}}
+
+# [[kindness]], [[helpfulness]], [[friendliness]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|親切気|しんせつぎ}}: kindheartedness
+* {{ja-r|親切心|しんせつしん}}: kindness
+* {{ja-r|不親切|ふしんせつ}}: unkindness, unfriendliness
+* {{ja-r|老婆親切|ろうば しんせつ}}: excessive solicitude
+{{der-bottom}}
+
+====Antonyms====
+* {{ja-r|羨望|せんぼう}}: [[envy]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=친절}}
+
+# {{hanja form of|친절|[[kindness]], [[gentleness]]}}
+
+[[el:親切]]
+[[fr:親切]]
+[[ko:親切]]
+[[hu:親切]]
+[[mg:親切]]
+[[ja:親切]]
+[[sv:親切]]
+[[chr:親切]]
+[[zh:親切]]

@@ -1,0 +1,135 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=10}}
+
+===Han character===
+{{Han char|rn=68|rad=斗|as=06|sn=10|four=94900|canj=FDYJ|ids=⿰米斗}}
+
+====References====
+* {{Han ref|kx=0478.090|dkj=13501|dj=0836.100|hdz=32253.040|uh=6599|ud=26009|bh=AEC6|bd=44742}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|米|斗|ls=ic|t1=rice|t2=dipper}} – to measure; to gauge.
+
+===Pronunciation===
+{{zh-pron
+|m=liào,er=y
+|c=liu6-2,liu6
+|h=pfs=liau
+|md=lâiu/liêu/lièu
+|md_note=lâiu - vernacular (noun); liêu - literary (verb: “to measure; to consider; to estimate”); lièu - obsolete literary (verb: “to oversee; to manage”), now merged into ''liêu''
+|mn=liāu
+|w=3liau
+|mc=y
+|oc=y
+|ma=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[anticipate]]; to [[predict]]; to [[foresee]]; to [[expect]]
+# to [[oversee]]; to [[manage]]; to [[deal]] with
+# [[material]]; [[matter]]; [[substance]]
+# [[ingredient]]; [[constituent]]; [[component]]
+# [[material]] {{gloss|person or thing suited for a certain purpose}}
+#: {{zh-x|他 不是 當兵 的 料。|He is not born to be a soldier.}}
+
+===Compounds===
+{{zh-der|材料|料酒|坯料|偷工減料|工料|呢料|廣告顏料|六料|呆滯物料|吸聲材料|史料|意料|完全肥料|化學肥料|乾料|急料子|不夠料|世事難料|官料藥|下腳料|布料|塑料|始料不及|不料|宿料|孰料|原料|始料未及|建築材料|佐料|塗料|大料|寬打料帳|執料|四料簡|出人意料|作料|嗑牙料嘴|加料|廢料|合成染料|出乎意料|個人資料|備料|不出所料|丟磚料瓦|不料量|果料兒|料鈔|物料|用料|打料帳|木料|畫料|無機肥料|料到|春寒料峭|料遠若近|挑牙料脣|料件子|敷料|料算|減工偷料|料豆兒|料應|未料|挑脣料嘴|料子|熟料材兒|油料|料毛|料莫|燃料|有機肥料|真材實料|次級資料|水泥熟料|料嘴|料峭|料絲燈|焊料|料持|燃料礦物|漫頭一料|核子燃料|磨料|磕牙料嘴|核能廢料|有氧飲料|石刻史料|料及|焊接材料|發光顏料|直接肥料|才料|知人料事|料草|打料|料器|料敵|料袋|果如所料|料中|生料|料度|核廢料|石化材料|爛料|燃料油|料敵若神|料錢|料想|料事|料貨|染料|氟塑料|照料|料敵制勝|核燃料|料定|料理|料物|料然|料事如神|料羅灣|毛料|料不到|速效肥料|質料|肥料|統計資料|話料|複合肥料|飲料|迭料|納草納料|都料匠|耐火材料|資料傳輸|豈料|麩料|電料|逆料|隱形塗料|資料|資料庫|食料|餌料生物|養料|飼料作物|飼料|防水材料|配料|笑料|顏料|預料|預拌料|草料|鞣料|資料通訊|賣嘴料舌|雙料|複合材料|邊角料|遲效肥料|軟飲料|香料|粗料|金屬材料|語料庫|陶瓷材料|運動飲料|資料索引|飼料奶粉|苦土肥料|香料群島|衣料|非書資料|詎料|調味料|語料|資料處理|資料檔}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=斗06}}
+
+# [[fee]]
+# [[materials]]
+
+====Readings====
+* {{ja-readings|on=[[りょう]] (ryō)|kun=[[はかる]] (hakaru)}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|料金|りょうきん}}
+* {{ja-r|原料|げんりょう}}
+* {{ja-r|料理|りょうり}}
+* {{ja-r|材料|ざいりょう}}
+* {{ja-r|調味料|ちょうみりょう}}
+* {{ja-r|無料|むりょう}}
+{{mid3}}
+* {{ja-r|飲料|いんりょう}}
+* {{ja-r|賃料|ちんりょう}}
+* {{ja-r|有料|ゆうりょう}}
+* {{ja-r|香料|こうりょう}}
+* {{ja-r|史料|しりょう}}
+* {{ja-r|材料費|ざいりょうひ}}
+{{mid3}}
+* {{ja-r|みかじめ料|みかじめりょう}}
+* {{ja-r|挨拶料|あいさつりょう}}
+* {{ja-r|立退料|たちのきりょう}}
+* {{ja-r|料額印面|りょうがくいんめん}}
+{{bottom}}
+
+{{ja-kanjitab|りょう|yomi=o}}
+
+===Suffix===
+{{ja-pos|suffix|りょう}}
+
+# [[fee]], [[cost]]
+# [[material]] of something
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[료]]>[[요]]|eumhun=|rv=ryo>yo|mr=ryo>yo|y=lyo>yo}}
+
+# [[count]]
+# [[fee]], [[price]]
+# [[material]]
+
+====Compounds====
+* {{l|ko|요리}} (料理) [[cooking]]. [[dish]]
+* {{l|ko|요금}} (料金) [[charge]], [[fee]]
+* {{l|ko|자료}} (資料) [[data]]
+* {{l|ko|재료}} (材料) [[material]]
+* {{l|ko|원료}} (原料) [[raw]] [[material]]
+* {{l|ko|연료}} (燃料) [[fuel]]
+* {{l|ko|무료}} (無料) [[free]](for charge)
+* {{l|ko|음료}} (飮料) [[beverage]]
+* {{l|ko|향신료}} (香辛料) [[spice]]
+* {{l|ko|유료}} (有料) pay (for charge)
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[liệu]], [[liều]], [[xệu]], [[lẽo]], [[liêu]]|rs=斗06}}
+
+# {{defn|lang=vi|sort=斗06}}
+
+[[fr:料]]
+[[ko:料]]
+[[it:料]]
+[[li:料]]
+[[hu:料]]
+[[mg:料]]
+[[ja:料]]
+[[no:料]]
+[[pl:料]]
+[[fi:料]]
+[[th:料]]
+[[vi:料]]
+[[zh:料]]

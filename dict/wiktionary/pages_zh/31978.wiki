@@ -1,0 +1,95 @@
+{{character info/new}}
+{{also|须}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=190|rad=髟|as=12|sn=22|four=72286|canj=SHHHC|ids=⿱髟須}}
+
+====Related characters====
+* [[髭]]
+
+====References====
+* {{Han ref|kx=1456.380|dkj=45580|dj=1988.050|hdz=74535.110|uh=9B1A}}
+
+----
+
+==Chinese==
+{{zh-forms|s=须}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|髟|須|c1=s|c2=p|t1=hair|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xū
+|c=sou1
+|mn=qz,tw,xm:su/zz:si/qz,tw,xm,zz:chhiu
+|mn_note=su/si - literary; chhiu - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[beard]], [[whiskers]]
+# [[antennae]], [[feelers]]
+# [[whisker]]-like
+
+====References====
+* (''Min Nan'') {{thcwd|13282}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=髟12}}
+
+# {{defn|lang=ja|sort=髟12}}
+
+====Readings====
+* {{ja-readings|goon=[[す]] (su)|kanon=[[しゅ]] (shu)|kun=[[ひげ]] (hige)}}
+
+===Noun===
+{{ja-noun|ひげ}}
+
+# [[mustache]]; [[beard]]s; [[whisker]]s
+
+====Synonyms====
+* {{ja-r|髭|ひげ}}
+
+[[Category:Japanese basic words|ひげ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=髟12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tu]], [[tua]]|rs=髟12}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:鬚]]
+[[fr:鬚]]
+[[ko:鬚]]
+[[it:鬚]]
+[[hu:鬚]]
+[[mg:鬚]]
+[[ja:鬚]]
+[[pl:鬚]]
+[[th:鬚]]
+[[chr:鬚]]
+[[zh:鬚]]

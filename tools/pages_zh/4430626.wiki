@@ -1,0 +1,17 @@
+==Chinese==
+{{zh-forms|type=112|lit=first-degree equation}}
+
+===Pronunciation===
+{{zh-pron
+|m=一cì fāngchéng
+|c=jat1 ci3 fong1 cing4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|algebra}} [[linear equation]]
+
+====Synonyms====
+* {{zh-l|線性方程}}

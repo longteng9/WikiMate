@@ -1,0 +1,107 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=08|sn=11|four=50061|canj=QIYR|ids=⿰扌店}}
+
+# to [[heft]], [[hold]] or [[weigh]] in [[palm]]
+
+====References====
+* {{Han ref|kx=0436.120|dkj=12235|dj=0785.230|hdz=31903.040|uh=6382|ud=25474|bh=D569|bd=54633}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|alt1=扌|c1=s|t1=hand|店|c2=p|ls=psc}}.
+
+===Etymology 1===
+{{zh-forms|alt=敁}}
+
+====Pronunciation====
+{{zh-pron
+|m=diān
+|c=dim1
+|oc=y
+|ma=Zh-dian.ogg
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[weigh]] in the hand
+# to [[break]]; to [[snap]] off
+# to [[haggle]] over; to [[bother]] about
+# to [[take]]
+
+====Compounds====
+{{zh-der|掂量|掂腳舒腰|掂斤抹兩|掂斤估兩|掂梢折本|掂提|扎掂|掂折|掂掇|掂過兒|掂倈|沒掂三|掂詳|掂斤播兩|掂對}}
+
+===Etymology 2===
+{{zh-forms|alt=𠶧}}
+
+====Pronunciation====
+{{zh-pron
+|c=dim6
+|c-t=iam5
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tlb|zh|Cantonese}}
+
+# [[straight]]; [[upright]]
+# {{lb|zh|of matters}} [[settle]]d; [[steady]]; [[OK]]
+# {{lb|zh|of speech}} [[clear]] and [[smooth]]
+
+====Compounds====
+{{zh-der|掂過轆蔗|橫掂|搞掂|傾掂|斟掂|掂當|唔掂|唔得掂|橫睇掂睇}}
+
+===Etymology 3===
+{{zh-forms|alt=玷}}
+
+====Pronunciation====
+{{zh-pron
+|c=dim3
+|c-t=iam1
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tlb|zh|Cantonese}}
+
+# to [[touch]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手08}}
+
+# {{defn|lang=ja|sort=手08}}
+
+====Readings====
+* {{ja-readings|on=[[てん]] (ten)|kun=[[はかる]] (hakaru)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=手08|giếm}}
+
+# {{defn|lang=vi|sort=手08}}
+
+[[zh-min-nan:掂]]
+[[fr:掂]]
+[[hu:掂]]
+[[mg:掂]]
+[[no:掂]]
+[[uz:掂]]
+[[pl:掂]]
+[[th:掂]]
+[[zh:掂]]

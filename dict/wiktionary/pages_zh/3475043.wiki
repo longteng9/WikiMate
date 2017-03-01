@@ -1,0 +1,43 @@
+{{also|搭载}}
+==Chinese==
+{{zh-forms|s=搭载}}
+
+===Pronunciation===
+{{zh-pron
+|m=dāzài
+|mn=tah-chài
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to transport (people, a payload, etc.)
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|さい|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|とうさい|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうさい}}
+
+# [[loading]] with, being [[equipped]] with
+
+===Verb===
+{{ja-verb-suru|tr=trans|とうさい}}
+
+# to be equipped with
+
+====Conjugation====
+{{ja-suru|とうさい}}
+
+===References===
+<references/>
+
+[[mg:搭載]]
+[[ja:搭載]]
+[[zh:搭載]]

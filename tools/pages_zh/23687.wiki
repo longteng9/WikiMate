@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|纤}}
+==Translingual==
+{{Han simplified forms|纖|繊|纤}}
+===Han character===
+{{Han char|rn=120|rad=糸|as=17|sn=23|four=23950|canj=VFOIM}}
+
+# [[fine]], [[delicate]]
+# [[minute]]
+# [[graceful]]
+# the number 10<sup>-7</sup>
+
+====References====
+* {{Han ref|kx=0943.290|dkj=28072|dj=1383.280|hdz=53469.040|uh=7E96|ud=32406|bh=C5D6|bd=50646}}
+
+====See also====
+* ''Chinese Numeral'' '''纖'''
+** '''Next:''' [[沙]]
+** '''Last:''' [[微]]
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Chinese==
+{{zh-forms|s=纤}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiān
+|c=cim1
+|mn=siam/chhiam
+|mn_note=siam - literary; chhiam - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不染纖塵|人造纖維|光纖|光纖維|光纖通訊|光纖電纜|光纖飛彈|再生纖維|剔齒纖|動物纖維|化學纖維|化纖|合成纖維|合纖|天然纖維|嬝娜纖巧|廉纖|彈性纖維|微纖|春纖|棉纖維|植物纖維|玉手纖纖|玉纖|玻璃纖維|碳纖維|礦物纖維|神經纖維|穠纖合度|窮纖入微|紡纖|繭纖維|纖不盈握|纖人|纖介|纖塵不染|纖妍|纖密|纖小|纖屑|纖巧|纖弱|纖微|纖悉|纖悉無遺|纖手|纖指|纖柔|纖毛|纖毛蟲|纖毛運動|纖毫|纖玉|纖畫|纖瘦|纖穠中度|纖細|纖細畫|纖維|纖維光學|纖維工業|纖維板|纖維植物|纖維素|纖維細胞|纖維蛋白|纖維鏡|纖纖|纖纖弱質|纖纖玉手|纖腰|纖芥不遺|纖阿|纖離|纖雲|纖麗|聚酯纖維|肌纖維|荑手纖纖|面薄腰纖|韌皮纖維|高纖維}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=糸17|style=ky|shin=繊}}
+
+# {{defn|lang=ja|sort=糸17}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen)|kun=[[ほそい]] (hosoi), [[ちいさい]] (chiisai), [[しなやか]] (shinayaka)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=섬|eumhun=|rv=seom|mr=sŏm|y=sem}}
+
+# {{defn|lang=ko|sort=糸17}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''纖''' ([[tiêm]], [[tươm]])
+
+# {{defn|lang=vi}}
+
+[[fr:纖]]
+[[hu:纖]]
+[[mg:纖]]
+[[ja:纖]]
+[[pl:纖]]
+[[th:纖]]
+[[zh:纖]]

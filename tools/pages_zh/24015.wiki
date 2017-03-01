@@ -1,0 +1,136 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=124|rad=羽|as=00|sn=6|four=1712.0|canj=SMSIM|ids=⿰习习 <small>(GTJV)</small>,⿰⿹𠃌⿰丿丿⿹𠃌⿰丿丿 <small>(K)</small>,⿰⿹𠃌⿱丿丿⿹𠃌⿱丿丿 <small>(K)</small>}}
+
+# [[feather]], [[plume]]
+# [[wings]]
+# fifth note in the Chinese pentatonic scale or ''la''
+# {{mul-kangxi radical-def}}
+
+====References====
+* {{Han ref|kx=0955.010|dkj=28614|dj=1400.070|hdz=53341.010|uh=7FBD|ud=32701|bh=A6D0|bd=42704}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǔ
+|c=jyu5
+|h=pfs=yí
+|mn=qz,tw,xm:ú/zz:í
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|羽翅|羽冠|羽毛|羽毛豐滿|羽毛球|羽毛未豐|羽絨|羽扇|羽翼|吉光片羽|嚴羽|天生羽翼|威鳳一羽|射石飲羽|干羽|引商刻羽|愛惜羽毛|應弦飲羽|拂毛羽|插羽|撥風羽|毛羽|沒金飲羽|白羽|移宮換羽|積羽沉舟|羽人|羽儀|羽化|羽化登仙|羽化飛天|羽士|羽客|羽山|羽扇綸巾|羽扇豆|羽旄|羽族|羽書|羽林|羽林軍|羽楫|羽檄|羽檄交馳|羽檄飛馳|羽毛衣|羽流|羽狀脈|羽狀複葉|羽獵|羽球|羽紗|羽緞|羽翮|羽翮已就|羽翮飛肉|羽翼已成|羽聲|羽葆|羽蓋|羽蟲|羽觴|羽蹈烈火|羽量級|羽駕|羽騎|翠羽|翻羽|脫羽|膠羽|自惜羽毛|貂羽|負羽|迅羽|銀杯羽化|鎩羽|鎩羽而歸|鑽皮出羽|關羽|關羽髯|陸羽|霓裳羽衣|項羽|飛書傳羽|飲羽|鴇羽|黨羽}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=羽00}}
+
+# [[feathers]]
+# counter for birds, rabbits
+
+====Readings====
+{{ja-readings
+|goon=[[う]] (u)
+|kanon=[[う]] (u)
+|kun=[[は]] (ha), [[はね]] (hane), [[わ]] (wa)
+|nanori=[[しゅう]] (shū), [[ば]]
+}}
+
+====Compounds====
+{{der-top}}
+* {{ja-r|羽太|はた}}: a [[grouper]]: a fish of subfamily [[Epinephelinae]]
+* {{ja-r|羽田|はねだ}}: a [[surname]]; a place name
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|はね}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|はね|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|はね}}
+
+# a [[feather]]
+# a [[wing]]
+# a [[blade]] (of a fan)
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|わ}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|わ}}
+
+====Counter====
+{{ja-pos|counter|わ}}
+
+# {{non-gloss definition|counter for birds}}
+# {{non-gloss definition|counter for rabbits}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=우|eumhun=|rv=u|mr=u|y=wu}}
+
+# the fifth note in the pentatonic scale; <i>la</i>
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[võ]], [[vũ]]|rs=羽00}}
+
+# {{defn|lang=vi|sort=羽00}}
+
+[[Category:CJKV radicals| ]]
+
+[[af:羽]]
+[[de:羽]]
+[[fr:羽]]
+[[ko:羽]]
+[[is:羽]]
+[[lo:羽]]
+[[lt:羽]]
+[[li:羽]]
+[[hu:羽]]
+[[mg:羽]]
+[[ms:羽]]
+[[ja:羽]]
+[[no:羽]]
+[[pl:羽]]
+[[pt:羽]]
+[[ru:羽]]
+[[fi:羽]]
+[[sv:羽]]
+[[th:羽]]
+[[chr:羽]]
+[[vi:羽]]
+[[zh:羽]]

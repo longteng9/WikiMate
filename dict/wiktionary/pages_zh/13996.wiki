@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|婵}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=12|sn=15|four=46456|canj=VRRJ|ids=⿰女單}}
+
+# [[beautiful]], [[lovely]], [[pretty]], [[graceful]]
+
+====References====
+* {{Han ref|kx=0271.300|dkj=06738|dj=0539.210|hdz=21080.150|uh=5B0B|ud=23307|bh=BC60|bd=48224}}
+
+----
+
+==Chinese==
+{{zh-forms|s=婵}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chán
+|c=sim4,sin4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嬋娟|嬋娟刃|嬋媛|嬋連}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女12}}
+
+# {{defn|lang=ja|sort=女12}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen), [[ぜん]] (zen)|kun=[[ひきつなが]] (hikitsunaga), [[みうち]] (miuchi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=선|rv=seon|mr=sŏn}}
+
+# {{defn|lang=ko|sort=女12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=女12|hanviet=[[thiền]], [[thuyền]]}}
+
+# {{defn|lang=vi|sort=女12}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5b0b Nom Foundation]
+
+[[fr:嬋]]
+[[ko:嬋]]
+[[li:嬋]]
+[[hu:嬋]]
+[[ja:嬋]]
+[[pl:嬋]]
+[[th:嬋]]
+[[vi:嬋]]
+[[zh:嬋]]

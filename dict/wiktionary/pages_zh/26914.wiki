@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|访}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=04|sn=11|four=00627|canj=YRYHS|ids=⿰言方}}
+
+====References====
+* {{Han ref|kx=1150.180|dkj=35284|dj=1617.170|hdz=63950.080|uh=8A2A|ud=35370|bh=B358|bd=45912}}
+
+----
+
+==Chinese==
+{{zh-forms|s=访}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|方|ls=psc|c1=s|c2=p|t1=talk}}.
+
+===Pronunciation===
+{{zh-pron
+|m=fǎng
+|c=fong2
+|h=pfs=
+|md=
+|mn=hóng
+|w=2faan
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[visit]]
+# to [[ask]]; to [[inquire]]
+
+===Compounds===
+{{zh-der|咨訪|出訪|察訪|來訪|回訪|尋幽訪勝|奉訪|家訪|家庭訪問|受訪|上訪|密訪|廉訪|專訪|尋訪|探訪|拜訪|採訪|登門拜訪|明查暗訪|私訪|查三訪四|祕訪|登門造訪|暗訪|校訪|查訪|明察暗訪|搜奇訪古|探奇訪勝|採訪使|緝訪|造訪|訪友|訪尋|訪謁|詢訪|巡訪|訪查|訪聞|訪銷|訪山幫|訪事|體訪|電話訪問|訪獵|細訪|走訪|訪山人|雪夜訪普|訪察|逆訪|訪求|訪問團|重點採訪|訪拿|訪問|訪古|訪古尋幽|跴訪|諏訪|訪落|訪視|訪戴|訪客|訪員|過訪|邀訪|訪談|訪問法}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=言04}}
+
+# {{defn|lang=ja|sort=言04}}
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō)|kun=[[おとずれる]] (otozureru), [[たずねる]] (tazuneru), [[とう]] (tou)|nanori=[[わ]] (wa)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=방|eumhun=|rv=bang|mr=pang|y=pang}}
+
+# [[visit]], [[inquire]]
+
+====words====
+* {{l|ko|방문}}(訪問) [[visit]]
+* {{l|ko|탐방}}(探訪) [[visit]], [[exploration]]
+* {{l|ko|방미}}(訪美) visiting United States
+* {{l|ko|방일}}(訪日) visiting Japan
+* {{l|ko|방중}}(訪中) visiting China
+* {{l|ko|방북}}(訪北) visiting North Korea
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|phỏng|rs=言04}}
+
+# {{defn|lang=vi}}
+
+[[fr:訪]]
+[[ko:訪]]
+[[hu:訪]]
+[[mg:訪]]
+[[ja:訪]]
+[[pl:訪]]
+[[th:訪]]
+[[zh:訪]]

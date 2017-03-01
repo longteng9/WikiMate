@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|ざつ|おん|yomi=on}}
+
+===Etymology===
+{{compound|雑|t1=background|音|t2=sound|lang=ja|sort=さつおん'}}
+
+===Noun===
+{{ja-noun|ざつおん}}
+
+# [[noise]]
+#: {{ja-usex|'''雑音'''がうるさい。|'''ざつおん''' が うるさい。|It is too noisy.}}
+# [[murmur]]
+
+====Synonyms====
+* {{sense|noise}} {{ja-r|ノイズ}}, {{ja-r|騒音|そうおん}}
+
+====Derived terms====
+* {{sense|murmur}} {{ja-r|心雑音|しんざつおん}}
+
+[[it:雑音]]
+[[hu:雑音]]
+[[mg:雑音]]
+[[sv:雑音]]
+[[chr:雑音]]
+[[zh:雑音]]

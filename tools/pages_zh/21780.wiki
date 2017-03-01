@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=109|rad=目|as=12|sn=17|four=60031|canj=BUOGF}}
+
+# glance at, look at, see
+
+====References====
+* {{Han ref|kx=0817.090|dkj=23680|dj=1225.330|hdz=42514.020|uh=77A7|ud=30631|bh=C140|bd=49472}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiáo
+|c=ciu4
+|h=pfs=
+|md=
+|mn=qz,xm,zz:chhiâu
+|mn_note=chhiâu - vernacular (俗)
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|colloquial}} to look at, to take a glance at
+#: {{zh-x|瞧 他 那個 傻 樣兒。|Look at how silly he looks.}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=目12}}
+
+# {{defn|lang=ja|sort=目12}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō), [[じょう]] (jō)|kun=[[ぬすみみる]] (nusumimiru)|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''瞧''' ([[tiều]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:瞧]]
+[[ko:瞧]]
+[[hu:瞧]]
+[[mg:瞧]]
+[[ja:瞧]]
+[[no:瞧]]
+[[pl:瞧]]
+[[th:瞧]]
+[[zh:瞧]]

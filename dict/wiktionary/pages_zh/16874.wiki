@@ -1,0 +1,95 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=10}}
+
+===Alternative forms===
+* {{l|mul|㫄}}
+
+===Han character===
+{{Han char|rn=70|rad=方|as=06|sn=10|four=00227|canj=YBYHS|ids=⿱⿳亠丷冖方}}
+
+# [[side]]
+# by side, [[close]] by, [[near]]
+
+====References====
+* {{Han ref|kx=0482.110|dkj=13637|dj=0844.070|hdz=32179.020|uh=65C1|ud=26049|bh=AEC7|bd=44743}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=páng,bàng,péng
+|c=pong4,bong6
+|h=pfs=phòng
+|mn=pông
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一旁|不走旁門|作舍道旁|偏旁|兩旁|兩氏旁人|冷眼旁觀|反犬旁兒|大權旁落|左道旁門|形聲偏旁|旁人|旁人短長|旁出|旁午|旁及|旁坐|旁壓力|旁妻|旁尊|旁岔兒|旁徵博引|旁心|旁手|旁排|旁推交通|旁支|旁敲側擊|旁死魄|旁求|旁求俊彥|旁注|旁牌|旁生|旁生枝節|旁白|旁的|旁皇|旁礴|旁系|旁系血親|旁紐|旁聽|旁聽席|旁若無人|旁薄|旁行|旁行斜上|旁行書|旁觀|旁觀者|旁觀者清|旁觀袖手|旁訓|旁證|旁譜|旁轉|旁通|旁遮普|旁邊|旁邊人|旁門|旁門左道|旁騖|旁魄|束手旁觀|歧旁|波旁王朝|縮手旁觀|耳旁風|蟲字旁兒|袖手旁觀|觸類旁通|諧聲偏旁|豎心旁|責無旁貸|近旁|邊旁|阿旁}}
+
+===References===
+* {{R:twedu|A01762}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=方06}}
+
+# {{defn|lang=ja|sort=方06}}
+
+====Readings====
+* {{ja-readings|on=[[ほう]] ([[hō]]), [[ぼう]] ([[bō]])|kun=[[かたわら]] ([[katawara]]), [[つくり]] ([[tsukuri]]), [[かたがた]] ([[katagata]])}}
+
+===Noun===
+{{ja-noun|つくり}}
+
+# the right hand part of a [[kanji]] character
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 旁]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[방]], [[팽]]|eumhun=|rv=bang, paeng|mr=pang, p'aeng|y=pang, phayng}}
+
+# {{defn|lang=ko|sort=方06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bàng]], [[bừng]], [[bầng]], [[bường]], [[phàng]]|rs=方06}}
+
+# {{defn|lang=vi|sort=方06}}
+
+[[fr:旁]]
+[[it:旁]]
+[[hu:旁]]
+[[mg:旁]]
+[[ja:旁]]
+[[no:旁]]
+[[pl:旁]]
+[[th:旁]]
+[[uk:旁]]
+[[zh:旁]]

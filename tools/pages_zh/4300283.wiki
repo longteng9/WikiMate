@@ -1,0 +1,87 @@
+{{also|槟榔}}
+==Chinese==
+{{zh-forms|s=槟榔|alt=賓桹,賓郎}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+Described in ''{{w|Qimin Yaoshu}}'' {{defdate|544 {{CE}}}} and ''{{w|Taiping Yulan}}'' {{defdate|983 {{CE}}}}.
+
+Borrowed from a Southern language, possibly a Mon-Khmer language. Compare {{cog|kxm||tr=naːt-phlɤːŋ||a kind of betel leaf bush}}, {{cog|thm||phalʌ̰̂ː|betel}}, {{cog|ms|pinang}}, as well as {{cog|mkh-pro|*mləw|*ml[əw]|betel}}, whence {{cog|km|ម្លូ}}, {{cog|vi|trầu}} (< {{cog|mkh-vie-pro|*b-luː}}), {{cog|th|พลู}} and perhaps Chinese {{och-l|扶留|a leaf chewed together with betel nut}}.
+
+===Pronunciation===
+{{zh-pron
+|m=檳láng
+|c=ban1 long4
+|h=pfs=pîn-lòng/s:pîn-nòng
+|md=bĭng-lòng
+|mn=xm,qz,kh,tp,tc,hc,yl,lk,sx,km,mg:pin-nn̂g/zz,tn:pun-nn̂g
+|w=1pin laan
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[betel nut]]; [[areca nut]]
+
+====Synonyms====
+* (''Min Nan'') {{zh-l|菁仔}}
+
+====Derived terms====
+{{zh-der|檳榔西施|檳城|檳榔嶼|檳榔攤}}
+
+===References===
+*(''Min Nan'') {{thcwd|12549}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja|ビンロウ|檳榔 (Areca palm)}}
+{{wikipedia|Areca catechu}}
+[[File:Palm_I_IMG_2108.jpg|thumb|250px|{{lang|ja|檳榔}} (''binrō''): the '''''[[Areca catechu]]''''', the '''[[areca]]''' or '''[[betel palm]]'''.]]
+</div>
+{{ja-kanjitab|びん|ろう|yomi=on}}
+From {{etyl|zh|ja|sort=びんろう}} {{m|zh|檳榔|tr=bīngláng}}, itself from {{etyl|ms|ja}} {{m|ms|pinang}}.
+
+====Pronunciation====
+{{ja-pron|yomi=on|びんろう|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|びんろう|ビンロウ|hhira=びんらう}}
+
+# ''[[Areca catechu]]'', the [[areca]] or [[betel palm]]
+
+=====Usage notes=====
+As with many terms in biology, this term is often spelled in katakana.
+
+=====Derived terms=====
+* {{ja-r|檳榔子|びんろうじ}}: [[areca nut]], [[betel nut]]
+
+===Etymology 2===
+<div style="float:right;clear:both;">
+{{wikipedia|lang=ja|ビロウ|檳榔 (Chinese fan palm)}}
+{{wikipedia|Livistona chinensis}}
+[[File:Livistona-chinensis.jpg|thumb|250px|{{lang|ja|檳榔}} (''birō''): the '''Chinese fan palm'''.]]
+</div>
+{{ja-kanjitab|び|ろう|yomi=irreg}}
+{{unk.|lang=ja|sort=びろう}}. From {{etyl|zh|ja|sort=びろう}}, but the use of this term as an alternative spelling is of uncertain derivation.
+
+====Pronunciation====
+{{ja-pron|yomi=on|びろう|acc=0|acc_ref=DJR|acc2=1|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|びろう|ビロウ|hhira=びらう}}
+
+# {{alternative spelling of|lang=ja|nocap=1|蒲葵|tr=birō}}: {{taxlink|Livistona chinensis|species|noshow=1|ver=161102}}, the {{vern|Chinese fan palm}}
+
+=====Usage notes=====
+As with many terms in biology, this term is often spelled in katakana.
+
+===References===
+<references/>
+
+[[zh-min-nan:檳榔]]
+[[kn:檳榔]]

@@ -1,0 +1,93 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=08|sn=12|four=47920|canj=DBB|ids=⿰木朋}}
+
+====References====
+* {{Han ref|kx=0533.020|dkj=14941|dj=0921.030|hdz=21235.120|uh=68DA|ud=26842|bh=B4D7|bd=46295}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=péng
+|c=paang4
+|h=
+|mn=pêng/qz,xm,zz:phêng/qz,tp,xm:pîⁿ/kh,zz:pêⁿ
+|mn_note=pêng/phêng - literary, pêⁿ/pîⁿ - vernacular
+|w=
+|mc=y
+|oc=y
+|ma=Zh-péng.ogg
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[tent]], [[awning]]
+# [[booth]]
+# [[shed]]
+
+====Compounds====
+* [[棚车]]
+* [[棚户]]
+* [[棚圈]]
+* [[棚寮]]
+* [[棚子]]
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|8507}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=木08}}
+
+# Shelf
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō)|kun=[[たな]] (tana)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=붕|eumhun=|rv=bung|mr=pung|y=pung}}
+
+# {{defn|lang=ko|sort=木08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bằng]]|rs=木08}}
+
+# {{defn|lang=vi|sort=木08}}
+
+[[zh-min-nan:棚]]
+[[fr:棚]]
+[[ko:棚]]
+[[lo:棚]]
+[[la:棚]]
+[[li:棚]]
+[[hu:棚]]
+[[mg:棚]]
+[[ja:棚]]
+[[no:棚]]
+[[pl:棚]]
+[[sv:棚]]
+[[th:棚]]
+[[chr:棚]]
+[[zh:棚]]

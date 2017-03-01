@@ -1,0 +1,104 @@
+{{character info/new}}
+{{also|點|奌}}
+==Translingual==
+{{stroke order|type=animate}}
+{{stroke order|strokes=9}}
+
+===Etymology===
+{{Han simp|點|f=黑|t=灬}}. Note that 黑 changed from being on the left to being 灬, underneath. Compare [[黙]] (from [[默]]), which retains the [[里]], and [[黒]], which is the simplification in isolation.
+
+Current form is graphically {{Han compound|占|灬}}.
+
+===Hanzi===
+{{Han char|rn=86|rad=火|as=05|sn=9|four=|canj=XYRF,YRF|ids=⿱占灬}}
+
+====Derived characters====
+* Simplification: [[奌]]
+
+====References====
+* {{Han ref|kx=0669.101|dkj=18980|dj=1078.150|hdz=32198.070|uh=70B9|ud=28857}}
+
+----
+
+==Chinese==
+{{zh-see|點}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=火05|style=s|kyu=點}}
+
+====Readings====
+{{ja-readings
+|goon=[[てん]] (ten)
+|kanon=[[てん]] (ten)
+|kun=[[ぼち]] (bochi), [[たてる]] ([[点てる]], tateru), [[さす]] ([[点す]], sasu), [[とぼす]] ([[点す]], tobosu), [[ともす]] ([[点す]], tomosu), [[つける]] ([[点ける]], [[tsukeru]])}}
+{{attention|ja|review readings}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|濁点|だくてん}}
+* {{ja-r|点字|てんじ}}
+* {{ja-r|点火|てんか}}
+* {{ja-r|点検|てんけん}}
+* {{ja-r|点穴|てんけつ}}: [[pressure point]]s
+* {{ja-r|点滅|てんめつ}}
+* {{ja-r|点心|てんしん}}
+* {{ja-r|点数|てんすう}}
+* {{ja-r|自殺点|じさつてん}}: [[own goal]]
+* {{ja-r|半濁点|はんだくてん}}
+{{der-bottom}}
+
+{{ja-kanjitab|てん|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=てん}} {{m|zh|點|tr=tem<sup>X</sup>||point}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|てん|acc=0|acc_ref=DJR}}
+
+===Counter===
+{{ja-pos|てん|counter}}
+
+# items or goods
+
+===Noun===
+{{ja-noun|てん}}
+
+# [[spot]], [[dot]]
+# [[score]], [[grade]], [[mark]](s)
+# [[point]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=점|eumhun=|rv=jeom|mr=chŏm|y=cem}}
+
+# {{defn|lang=ko|sort=火05}}
+
+[[da:点]]
+[[fr:点]]
+[[ko:点]]
+[[it:点]]
+[[kn:点]]
+[[lo:点]]
+[[hu:点]]
+[[mg:点]]
+[[ja:点]]
+[[no:点]]
+[[pl:点]]
+[[ru:点]]
+[[sm:点]]
+[[tl:点]]
+[[ta:点]]
+[[th:点]]
+[[chr:点]]
+[[uk:点]]
+[[zh:点]]

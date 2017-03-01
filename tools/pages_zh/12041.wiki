@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|雙}}
+==Translingual==
+{{stroke order}}
+{{ja-forms|双|双|[[雙]]}}
+===Etymology===
+
+{{Han simp|䨇|f=雔|t=&nbsp;}} also [[䨇]] is the variant form of [[雙]].
+
+===Han character===
+{{Han char|rn=29|rad=又|as=02|sn=4|four=77440|canj=EE,XEE|ids=⿰又又}}
+
+# set of [[two]], [[pair]], [[couple]], [[double]]
+# [[both]]
+# [[twins]]
+
+====References====
+* {{Han ref|kx=0165.170|dkj=03125|dj=0375.020|hdz=10393.090|uh=53CC|ud=21452}}
+
+----
+
+==Chinese==
+{{zh-see|雙}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=又02|style=s|kyu=雙}}
+
+# {{defn|lang=ja|sort=又02}}
+
+====Readings====
+* {{ja-readings|goon=[[そう]] (''sō'')|kanon=[[そう]] (''sō'')|kun=[[ふた]] (''futa''), [[ふたつ]] (''futatsu''), [[たぐい]] (''tagui''), [[ならぶ]] (''narabu'')|nanori=[[なみ]] (''nami''), [[ふ]] (''fu''), [[もろ]] (''moro'')}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|一双|いっそう}}: pair
+* {{ja-r|双子|ふたご}}: twins, a twin
+* {{ja-r|双葉|ふたば}}: bud, sprout
+* {{ja-r|双六|すごろく}}: a child's dice game
+* {{ja-r|双眼|そうがん}}: binocular
+* {{ja-r|双肩|そうけん}}: shoulders
+* {{ja-r|双子葉植物|そうしよう しょくぶつ}}: dicotyledon
+* {{ja-r|双生|そうせい}}: twinning
+* {{ja-r|双清|そうせい}}: [[painting]]s of [[daffodil]]s and [[ume]] flowers
+* {{ja-r|双頭|そうとう}}: double-headed
+* {{ja-r|双璧|そうへき}}: pair of bright jewels
+* {{ja-r|双方|そうほう}}: two way, both parties
+{{der-bottom}}
+
+{{ja-kanjitab|ふた|yomi=k}}
+
+===Noun===
+{{ja-noun|ふた|kyu=雙}}
+
+# [[set]] of [[two]], [[pair]]
+
+----
+
+==Zhuang==
+
+===Numeral===
+{{za-head|numeral|t=雙}}
+
+# {{za-sawndip form of|ts=s|song}}
+
+[[fr:双]]
+[[ko:双]]
+[[io:双]]
+[[lo:双]]
+[[lt:双]]
+[[li:双]]
+[[hu:双]]
+[[mg:双]]
+[[ms:双]]
+[[ja:双]]
+[[no:双]]
+[[pl:双]]
+[[ru:双]]
+[[ta:双]]
+[[th:双]]
+[[uk:双]]
+[[zh:双]]

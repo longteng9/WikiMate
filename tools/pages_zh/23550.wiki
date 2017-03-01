@@ -1,0 +1,111 @@
+{{character info/new}}
+{{also|缝}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=11|sn=17|four=27934|canj=VFYHJ|ids=⿰糹逢}}
+
+====References====
+* {{Han ref|kx=0935.210|dkj=27805|dj=1373.320|hdz=53437.220|uh=7E2B|ud=32299|bh=C15F|bd=49503}}
+
+----
+
+==Chinese==
+{{zh-forms|s=缝|alt=綘}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|糸|alt1=糹|逢|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=féng
+|c=fung4
+|h=pfs=fùng
+|md=pùng/hùng
+|md_note=pùng - vernacular; hùng - literary
+|mn=pâng/hông
+|mn_note=pâng - vernacular; hông - literary
+|w=3von
+|mc=1
+|oc=1,1
+|ma=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[sew]] up; to [[stitch]]
+# to [[patch]]; to [[mend]]
+# to [[sew]]; to [[make]] [[dress]]
+
+====Compounds====
+{{zh-der|fold=1|平針縫|彌縫|縫縫補補|縫針補線|縫合|縫紉|縫製|藏針縫|縫縫連連|縫補|章甫縫掖|縫衣|縫工|縫紉機}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=fèng,er=y
+|c=fung6
+|h=pfs=phung
+|md=póng
+|mn=phāng
+|w=3von
+|mc=2
+|oc=2,2
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[seam]]; [[crack]]; [[narrow]] [[slit]]
+
+====Compounds====
+{{zh-der|fold=1|中縫|塞牙縫|伸縮縫|嚴絲合縫|夾縫|天衣無縫|挨風緝縫|牙縫高低|捱風緝縫|稜縫|找縫子|瞇縫|拔縫|接縫|溜縫兒|沒縫兒|沒棱縫兒|綻縫|縫子|風縫兒|裂縫|鑽頭覓縫|門縫|齒縫|騎縫章|騎縫|縫隙|錯縫兒|隙縫|見縫就鑽|見縫插針|縫兒}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=糸11}}
+
+# {{defn|lang=ja|sort=糸11}}
+
+====Readings====
+* {{ja-readings|goon=[[ぶ]] (bu)|kanon=[[ほう]] (hō)|kun=[[ぬう]] (nuu), [[ぬいめ]] (nuime)}}
+
+====Compounds====
+* [[天衣無縫]] ([[てんいむほう]], [[ten'imuhō]])
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=봉|eumhun=|rv=bong|mr=pong|y=pong}}
+
+# {{defn|lang=ko|sort=糸11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phùng]]|rs=糸11}}
+
+# {{defn|lang=vi|sort=糸11}}
+
+[[zh-min-nan:縫]]
+[[fr:縫]]
+[[ko:縫]]
+[[kn:縫]]
+[[lt:縫]]
+[[hu:縫]]
+[[mg:縫]]
+[[ja:縫]]
+[[pl:縫]]
+[[th:縫]]
+[[chr:縫]]
+[[zh:縫]]

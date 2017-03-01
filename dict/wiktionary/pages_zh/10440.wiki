@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|义|父|Appendix:Variations of "x"}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=4|rad=丿|as=01|sn=2|four=40000|canj=K,XK}}
+
+===References===
+* {{Han ref|kx=0081.100|dkj=00111|dj=0165.010|hdz=10031.030|uh=4E42|ud=20034|bh=C940|bd=51520}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=ngaai6
+|mn=gāi/ngāi
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[govern]], [[control]], [[manage]]
+# [[nurture]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=丿01}}
+
+# {{defn|lang=ja|sort=丿01}}
+
+====Readings====
+* {{ja-readings|on=[[がい]] (gai), [[げ]] (ge)|kun=[[かる]] (karu), [[おさめる]] (osameru), [[おさまる]] (osamaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=예|rv=ye|mr=ye|eumhun=[[벨]], [[징계하다|징계할]]|ehrv=bel, jinggyehal|ehmr=pel, chinggyehal|ehy=}}
+
+# {{defn|lang=ko|sort=丿01}}
+
+===References===
+* {{Hanja ref|nav=9854}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=丿01|hanviet=nghệ, ngải}}
+
+# {{defn|lang=vi|sort=丿01}}
+
+===References===
+* {{R:WinVNKey:Lê Sơn Thanh}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:乂]]
+[[ko:乂]]
+[[li:乂]]
+[[hu:乂]]
+[[ms:乂]]
+[[ja:乂]]
+[[pl:乂]]
+[[th:乂]]
+[[vi:乂]]
+[[zh:乂]]

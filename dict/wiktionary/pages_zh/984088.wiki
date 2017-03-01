@@ -1,0 +1,28 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|え|もん|k2=も|じ|yomi=irr|sort=えもじ}}
+
+===Etymology===
+{{compound|絵|tr1=e|t1=picture|文字|tr2=moji|t2=letter|lang=ja|sort=えもじ}}
+
+Historical reading (possibly anachronistic): /wemozi/: wemozi → emozi → emoji.
+
+===Pronunciation===
+{{ja-pron|y=i|えもじ|acc=2|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+===Noun===
+{{wikipedia|emoji}}
+{{ja-noun|kyu=繪文字|えもじ|hhira=ゑもじ}}
+
+# [[pictograph]]
+# {{lb|ja|Internet|sort=えもじ}} [[emoji]], a special [[emoticon]] used to represent a mood or concept, especially on [[mobile phone]]s
+
+====Coordinate terms====
+* {{ja-r|顔文字|かおもじ}}: a sequence of keyboard characters such as [[(^_^)]]
+
+===References===
+<references/>
+
+[[hu:絵文字]]
+[[sv:絵文字]]
+[[th:絵文字]]

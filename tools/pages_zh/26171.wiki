@@ -1,0 +1,96 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=10|sn=16|four=15236|canj=MBLMI|ids=⿰鬲虫}}
+
+====References====
+* {{Han ref|kx=1092.420|dkj=33384|dj=1557.280|hdz=42877.080|uh=878D|ud=34701|bh=BFC4|bd=49092}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=𧖓}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|鬲|t1=cauldron|蟲|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+“Hot air; steam; heat” > “to melt” > “to blend”.
+
+Sino-Tibetan; compare {{cog|my|လောင်||to burn; to be burnt; to scorch}}. Related to {{och-l|蟲|hot; hot air; hot weather}} (as in {{och-l|蟲蟲}}), {{och-l|爞|hot weather}} and possibly the word family of  *''lVm'': {{och-l|焰|fire}}.
+
+It belongs to a word family comprised of characters meaning “to melt, to smelt, to fuse, to dissolve”. In modern times the various characters have taken on their specialised meanings:
+
+* {{och-l|融|to melt (at normal temperature); to blend}}
+* {{och-l|鎔|to smelt; to melt (at a high temperature)}}
+* {{och-l|熔|to smelt; to melt (at a high temperature)}}
+* {{och-l|溶|to dissolve (in a liquid)}}
+
+===Pronunciation===
+{{zh-pron
+|m=róng
+|c=jung4
+|h=pfs=yùng
+|md=hṳ̀ng/ṳ̀ng
+|md_note=hṳ̀ng - colloquial; ṳ̀ng - literary
+|mn=iông/tw:hiông
+|mn_note=hiông seems like a mistake in Moedict.
+|w=3hhion
+|mc=y
+|oc=y
+|cat=n,v,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} [[hot]] [[air]]; [[steam]] (during cooking)
+# to [[melt]]
+# to [[mix]]; to [[blend]]; to [[fuse]]; to [[harmonise]]
+# {{lb|zh|economics}} to [[circulate]]
+# {{zh-abbrev|融城|[[Fuqing]], [[Fuzhou]]}}
+
+===Compounds===
+{{zh-der|乳水交融|交融|六相圓融|其樂融融|包融|和氣融融|圓融|圓融三諦|孔融|孔融讓梨|心融神會|情景交融|春光融融|暖融融|核融合|樂融融|水乳交融|法融|消融|熙熙融融|王融|祝融|竇融|膠漆相融|融丘|融冶|融券|融化|融匯|融合|融和|融會|融會貫通|融泄|融洽|融為一體|融融|融解|融解熱|融解點|融資|融通|融通物|融風|通融|金融|金融公司|金融卡|金融商品|金融市場|金融業|金融機關|金融赤字|鋁融接劑|顯融|馬融}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=虫10}}
+
+# {{defn|lang=ja|sort=虫10}}
+
+====Readings====
+* {{ja-readings|goon=[[ゆ]] (yu)|kanon=[[ゆう]] (yū)|kun=[[とおる]] (tooru), [[とける]] (tokeru)|nanori=[[あき]] (aki), [[あきら]] (akira), [[あきらか]] (akiraka), [[すけ]] (suke), [[とお]] (tō), [[とおる]] (tōru), [[なかし]] (nakashi), [[ながし]] (nagashi), [[みち]] (michi), [[よし]] (yoshi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=융|eumhun=|rv=yung|mr=yung|y=yung}}
+
+# {{defn|lang=ko|sort=虫10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dung]]|rs=虫10}}
+
+# {{defn|lang=vi|sort=虫10}}
+
+[[fr:融]]
+[[ko:融]]
+[[hu:融]]
+[[mg:融]]
+[[ja:融]]
+[[no:融]]
+[[pl:融]]
+[[th:融]]
+[[zh:融]]

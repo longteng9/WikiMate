@@ -1,0 +1,269 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=05|sn=8|four=42230|canj=KHHVO|ids=⿰犭瓜}}
+
+# species of [[fox]]
+
+====Derived characters====
+* [[𦱄]] [[𠍐]] [[𦻨]]
+
+====References====
+* {{Han ref|kx=0708.290|dkj=20333|dj=1121.120|hdz=21340.140|uh=72D0|ud=29392|bh=AAB0|bd=43696}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|ls=psc|犭|c1=s|t1=dog|瓜|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=hú
+|c=wu4
+|h=pfs=fù
+|j=hu1
+|md=hù
+|mn=hô͘
+|w=3hhu
+|x=fu2
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[fox]]
+
+====Derived terms====
+{{zh-der|白狐|北極狐|狐狸|一狐之腋|九尾狐|令狐|兔死狐悲|兔跡狐蹤|城狐社鼠|封狐|打夜狐|有狐|沙狐|滿腹狐疑|火狐|狐丘之誡|狐仙|狐偃|狐假虎威|狐假鴟張|狐兔之悲|狐埋狐搰|狐奔鼠竄|狐媚|狐媚子|狐媚猿攀|狐媚魔道|狐媚魘道|狐惑|狐憑鼠伏|狐朋狗友|狐朋狗黨|狐步舞|狐死兔悲|狐死兔泣|狐死首丘|狐潛鼠伏|狐濡尾|狐狸尾巴|狐狸狗|狐狸精|狐猴|狐疑|狐疑不決|狐疑未決|狐白|狐群狗黨|狐臊|狐臭|狐藉虎威|狐虎之威|狐裘羔袖|狐裘蒙戎|狐裘龍茸|狐迷|狐騷|狐騷臭|狐魅|狐鳴狗盜|狐鳴魚書|狐鼠之徒|狗黨狐群|狼顧狐疑|玄狐|玄狐蜂|社鼠城狐|篝火狐鳴|老狐狸|與狐謀皮|花狸狐哨|花麗狐哨|董狐|董狐筆|虎威狐假|赤狐|野狐涎|野狐狸|野狐禪|銀狐|雄狐|飛狐|鬼化狐|鬼狐|鬼狐猶|鬼狐由}}
+
+{{zh-cat|Foxes}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=犬05}}
+
+====Readings====
+{{ja-readings
+|goon=[[ぐ]] (gu), [[ご]] (go)
+|kanon=[[こ]] (ko)
+|kun=[[きつね]] (kitsune)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|一狐裘|いっこきゅう}}
+* {{ja-r|一狐裘三十年|いっこきゅう さんじゅうねん}}
+* {{ja-r|狐疑|こぎ}}
+* {{ja-r|狐疑逡巡|こぎしゅんじゅん}}
+* {{ja-r|狐裘|こきゅう}}
+* {{ja-r|狐狗狸|こっくり}}
+* {{ja-r|狐媚|こび}}
+* {{ja-r|狐狸|こり}}
+* {{ja-r|狐狼|ころう}}
+* {{ja-r|豺狼路に当たれり，安んぞ狐狸を問わん|さいろう みち に あたれり，いずくんぞ こり を とわん}}
+* {{ja-r|三狐神|さぐじ}}
+* {{ja-r|城狐社鼠|じょうこしゃそ}}
+* {{ja-r|千金の裘は一狐の腋に非ず|せんきん の きゅう は いっこ の えき に あらず}}
+* {{ja-r|善狐|ぜんこ}}: a [[good]] [[fox]]
+* {{ja-r|天狐|てんこ}}: a [[celestial]] fox
+* {{ja-r|白狐|びゃっこ}}: [[white]] [[fox]]; [[arctic fox]]
+* {{ja-r|野狐|やこ}}: [[field]] or [[wild]] foxes
+* {{ja-r|野狐禅|やこぜん}}
+* {{ja-r|妖狐|ようこ}}: a [[demon]] [[fox]]
+* {{ja-r|狐臭|わきが}}
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|きつね}}
+{{wikipedia|lang=ja}}
+Various theories. The most likely is based on the root form ''kitsu'', which may have originally been [[onomatopoeic]] for the sound of a fox's cry.<ref>'''1937''': ''Daigenkai'' (in Japanese). Reissued in 1984. ISBN 4-572-00062-X</ref> The final ''ne'' syllable appeared for certain by the [[w:Heian period|Heian period]],<ref name="sasama">'''1998''': {{lang|ja|『怪異・きつね百物語』}} (''Yōkai: Kitsune Hyaku Monogatari'', “Phantoms: 100 Fox Tales”; in Japanese). Yoshihiko Sasama. ISBN 4-639-01544-5</ref> but the meaning of the ''ne'' portion remains unclear.
+
+===Pronunciation===
+{{ja-pron|yomi=k|きつね|acc=0|acc_ref=DJR,NHK|dev=1|a=Ja-Kitsune.oga}}
+
+===Noun===
+{{ja-noun|きつね|キツネ}}
+
+# a [[fox]]
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki}}
+#*: 狐狼 上扈反, 倭言'''岐都禰''', 又狐諼獸鬼所乘有三徳, 狐疑不定也, 狼音良, 訓, 似犬也, 倭言大神也
+#* {{quote-video
+|date=July 16 1994
+|actor={{w|lang=ja|清川虹子|Nijiko Kiyokawa}}
+|role=Oroku
+|title={{w|lang=ja|平成狸合戦ぽんぽこ|{{lang|ja|平成狸合戦ぽんぽこ}}}}
+|trans-title={{w|Pom Poko|Heisei Raccoon Dog War Ponpoko}}
+|language=Japanese
+|writer={{w|Isao Takahata}}
+|publisher={{w|Toho}}
+|passage={{ja-usex|程%度の低いものは「擬%態」と呼ばれ、カメレオンなんぞにもできるが、「化け学」はオラたち以%外では、'''キツネ'''と一%部のネコしか身につけておらん‼|^てい%ど の ひくい もの は 「ぎ%たい」 と よばれ、カメレオン なんぞ に も できる が、「ばけがく」 は オラ-たち い%がい で は、 '''キツネ''' と いち%ぶ の ネコ しか み に つけておらん‼|Those lesser kinds like chameleons can make use of "mimicry", but beside us, only '''foxes''' and a few cats can master "metamorphism"‼}}
+}}
+
+====Usage notes====
+{{U:ja:biology|キツネ}}
+
+====Synonyms====
+* {{ja-r|フォックス}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|青狐|あおぎつね}}
+* {{ja-r|赤狐|あかぎつね}}
+* {{ja-r|兎死すれば狐これを悲しむ|うさぎ し すれば きつね これ を かなしむ}}
+* {{ja-r|兎の罠に狐がかかる|うさぎ の わな に きつね が かかる}}
+* {{ja-r|刑部狐|おさかべぎつね}}
+* {{ja-r|御先狐|おさきぎつね}}
+* {{ja-r|尾裂き狐|おさきぎつね}}
+* {{ja-r|雄狐|おすぎつね}}: a [[male]] fox
+* {{ja-r|同じ穴の狐|おなじ あな の きつね}}
+* {{ja-r|北狐|きたきつね}}: {{taxlink|Vulpes vulpes schrenckii|species|noshow=1}}, the {{vern|northern fox}} or {{vern|Hokkaido fox}} of Japan and Sakhalin
+* {{ja-r|狐薊|きつねあざみ}}
+* {{ja-r|狐色|きつねいろ}}
+* {{ja-r|狐饂飩|きつねうどん}}
+* {{ja-r|狐落とし|きつねおとし}}
+* {{ja-r|狐拳|きつねけん}}
+* {{ja-r|狐格子|きつねごうし}}
+* {{ja-r|狐猿|きつねざる}}
+* {{ja-r|狐死して丘に首す|きつね し して おか に しゅす}}, {{ja-r|狐死して丘に首す|きつね し して おか に かしらす}}
+* {{ja-r|狐鮨|きつねずし}}
+* {{ja-r|狐施行|きつねせぎょう}}
+* {{ja-r|狐鯛|きつねだい}}
+* {{ja-r|狐忠信|きつねただのぶ}}
+* {{ja-r|狐塚|きつねづか}}
+* {{ja-r|狐使い|きつねつかい}}
+* {{ja-r|狐憑き|きつねつき}}: possession by a [[kitsune]]
+* {{ja-r|狐釣り|きつねつり}}
+* {{ja-r|狐戸|きつねど}}
+* {{ja-r|狐と狸|きつね と たぬき}}
+* {{ja-r|狐と狸の化かし合い|きつね と たぬき の ばかし あい}}
+* {{ja-r|狐につままれる|きつね に つままれる}}
+* {{ja-r|狐の絵筆|きつね の えふで}}
+* {{ja-r|狐の尾|きつね の お}}
+* {{ja-r|狐の剃刀|きつね の かみそり}}
+* {{ja-r|狐の子は頬白|きつね の こ は つらじろ}}
+* {{ja-r|狐の茶袋|きつね の ちゃぶくろ}}
+* {{ja-r|狐の提灯|きつね の ちょうちん}}
+* {{ja-r|狐の手袋|きつね の てぶくろ}}
+* {{ja-r|狐の牡丹|きつね の ぼたん}}
+* {{ja-r|狐の孫|きつね の まご}}
+* {{ja-r|狐の嫁入り|きつね の よめいり}}: a sun shower
+* {{ja-r|狐火|きつねび}}: [[will o' the wisp]], [[foxfire]]
+* {{ja-r|狐日和|きつねびより}}
+* {{ja-r|狐福|きつねふく}}
+* {{ja-r|狐遍羅|きつねべら}}, {{ja-r|狐倍良|きつねべら}}
+* {{ja-r|狐窓|きつねまど}}
+* {{ja-r|狐飯|きつねめし}}
+* {{ja-r|狐物語|きつねものがたり}}
+* {{ja-r|狐柳|きつねやなぎ}}
+* {{ja-r|狐六方|きつねろっぽう}}
+* {{ja-r|狐罠|きつねわな}}
+* {{ja-r|狐を馬に乗せたよう|きつね を うま に のせた よう}}
+* {{ja-r|九尾の狐|きゅうび の きつね}}
+* {{ja-r|銀狐|ぎんぎつね}}
+* {{ja-r|管狐|くだぎつね}}
+* {{ja-r|源九郎狐|げんくろうぎつね}}
+* {{ja-r|小狐|こぎつね}}, {{ja-r|子狐|こぎつね}}
+* {{ja-r|小狐座|^こぎつねざ}}
+* {{ja-r|小狐丸|こぎつねまる}}
+* {{ja-r|小狐礼三|こぎつねれいざ}}
+* {{ja-r|小人狐猿|こびときつねざる}}
+* {{ja-r|佐渡狐|さどぎつね}}
+* {{ja-r|白狐|しろぎつね}}
+* {{ja-r|師走狐|しわすぎつね}}
+* {{ja-r|釣り狐|つりぎつね}}
+* {{ja-r|虎の威を借る狐|とら の い を かる きつね}}
+* {{ja-r|野狐|のぎつね}}: [[field]] or [[wild]] foxes
+* {{ja-r|灰色狐|はい.いろぎつね}}
+* {{ja-r|袋狐|ふくろぎつね}}
+* {{ja-r|古狐|ふるぎつね}}
+* {{ja-r|北極狐|ほっきょくぎつね}}
+* {{ja-r|牝狐|めぎつね}}
+* {{ja-r|雌狐|めすぎつね}}: a [[female]] fox, a [[vixen]]
+* {{ja-r|ライネケ狐|ライネケぎつね}}
+{{der-bottom}}
+
+===References===
+<references/>
+:* {{R:Nara Ibun 3}}
+
+[[Category:ja:Foxes|きつね]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=호|eumhun=|rv=ho|mr=ho|y=ho}}
+
+# {{defn|lang=ko|sort=犬05}}
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{head|ryu|kanji|hiragana|ちちに|romaji|chichini}}
+
+===Etymology===
+{{IPAchar|/*kit͡sune/}} → {{IPAchar|/t͡ɕit͡sini/}} → {{IPAchar|/t͡ɕit͡ɕini/}}
+
+Cognate with mainland {{cog|ja|狐|tr=kitsune}}.
+
+{{ryu-OG|30|ちつィに}} The phonemes {{IPAchar|/t͡si/}} and {{IPAchar|/t͡ɕi/}} converged in Okinawan during the 20th century.
+
+===Noun===
+{{head|ryu|noun|hiragana|ちちに|romaji|chichini|historical hiragana|ちつィに}}
+
+# [[fox]]
+
+===References===
+<references/>
+
+[[Category:ryu:Foxes|ちちに]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hồ]]|rs=犬05}}
+
+# {{defn|lang=vi|sort=犬05}}
+
+[[cs:狐]]
+[[el:狐]]
+[[fr:狐]]
+[[gl:狐]]
+[[ko:狐]]
+[[hy:狐]]
+[[lo:狐]]
+[[la:狐]]
+[[lt:狐]]
+[[li:狐]]
+[[hu:狐]]
+[[mg:狐]]
+[[nl:狐]]
+[[ja:狐]]
+[[no:狐]]
+[[pl:狐]]
+[[pt:狐]]
+[[ro:狐]]
+[[ru:狐]]
+[[sv:狐]]
+[[th:狐]]
+[[chr:狐]]
+[[tr:狐]]
+[[vi:狐]]
+[[zh:狐]]

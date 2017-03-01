@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms|alt=諸母,多母,諸姆,查娒,查厶,珠母}}
+
+===Pronunciation===
+{{zh-pron
+|m=zābò,1n=imitating Min Nan
+|mn=kh,qz,tp,xm,zz:cha-bó͘
+|mn-t=za1 bhou2
+|mn-t_note=overseas
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|chiefly|Min Nan|Taiwan|Singapore|Malaysia}} [[woman]], [[girl]]
+#* {{zh-x|人人 都 認識 了 我 ^老 '''^查{zā}某{bò}'''。|Everyone knows me, Lao '''Zha Bor''' (old woman).|ref='''2007-10-04''': Seow Hong Koon, [https://www.youtube.com/watch?v=sqC9Nvx3QUA Laozhabor's Rap (老查某 MV)]}}
+#* {{zh-x|我 是 ^馬{Ma}來{lay}西{si}亞{a} 的 '''查{zā}某{bò}'''。|I’m a true Malaysian '''girl'''.|ref='''2014-5-23''': Joyce Chu, [https://www.youtube.com/watch?v=79uuj5hXsOg Malaysia Chabor]}}
+
+====Synonyms====
+* {{zh-l|婦女}}
+* {{zh-l|女性}}
+
+====Antonyms====
+* {{zh-l|查埔|man}}
+
+====Derived terms====
+{{zh-der|查某人|查某囝|查某囡仔}}
+
+====Descendants====
+* English: {{m|en|zha bo}}
+
+===References===
+* {{cite-web
+|author=劉建仁
+|authorlink=
+|date=2011-02-04
+|url=https://taiwanlanguage.wordpress.com/2011/02/04/%E6%9F%A5%E6%9F%90%E2%80%A2%E8%AB%B8%E6%AF%8D%EF%BC%88tsa-b%C9%94%CB%8B%EF%BC%89%E2%94%80%E2%94%80%E5%A5%B3%E4%BA%BA/
+|title=查某•諸母（tsa-bɔˋ）──女人
+|work=台灣話的語源與理據
+|language=Chinese
+|accessdate=2015-10-24
+}}
+* {{thcwd|5111}}
+
+[[zh-min-nan:查某]]
+[[ko:查某]]
+[[mg:查某]]
+[[ja:查某]]

@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|棹}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=14|sn=18|four=47914|canj=DSMG|ids=⿰木翟}}
+
+# [[oar]], [[scull]], [[paddle]]
+# to [[row]]
+
+====References====
+* {{Han ref|kx=0559.110|dkj=15756|dj=0948.260|hdz=21311.090|uh=6AC2|ud=27330|bh=C267|bd=49767}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhào
+|c=zaau6
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木14}}
+
+# {{defn|lang=ja|sort=木14}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō), [[たく]] (taku)|kun=[[かい]] (kai)}}
+
+{{wikipedia|lang=ja}}
+
+===Noun===
+{{ja-noun|かい}}
+
+# [[oar]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=도|eumhun=|rv=do|mr=to|y=to}}
+
+# {{defn|lang=ko|sort=木14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木14| hanviet = trạc}}
+
+# {{defn|lang=vi|sort=木14}}
+
+[[fr:櫂]]
+[[ko:櫂]]
+[[mg:櫂]]
+[[ja:櫂]]
+[[pl:櫂]]
+[[ru:櫂]]
+[[th:櫂]]
+[[chr:櫂]]
+[[zh:櫂]]

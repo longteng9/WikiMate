@@ -1,0 +1,101 @@
+{{character info/new}}
+{{also|戶|户|戸|屍|ㄕ}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+{{Han etyl}}
+{{liushu|p}} - A man with his legs bending, and a side to the front. The picture is variously interpreted as either sitting or lying, with its original meaning being "corpse".
+
+When used as a radical, 尸 is usually derived from a variation of [[人]] or [[亻]], as in [[尾]].
+
+===Han character===
+{{Han char|rn=44|rad=尸|as=00|sn=3|four=77207|canj=S}}
+
+# [[corpse]]
+# to [[impersonate]] the [[dead]]
+# to [[preside]]
+# {{mul-kangxi radical-def}}
+
+====Descendants====
+* [[ㄕ]]
+
+====References====
+* {{Han ref|kx=0299.260|dkj=07630|dj=0595.070|hdz=20963.140|uh=5C38|ud=23608|bh=A472|bd=42098}}
+
+[[Category:CJKV radicals| ]]
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|屍}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=shī
+|c=si1
+|h=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=9|rs=尸00}}
+
+# {{defn|lang=ja|sort=尸00}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[しかばね]] (shikabane), [[かたしろ]] (katashiro)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[시]]|rv=si|mr=si|y=si}}
+
+# {{defn|lang=ko|sort=尸00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thi]]|rs=尸00}}
+
+# {{defn|lang=vi|sort=尸00}}
+
+[[fr:尸]]
+[[ko:尸]]
+[[la:尸]]
+[[li:尸]]
+[[hu:尸]]
+[[mg:尸]]
+[[ms:尸]]
+[[ja:尸]]
+[[no:尸]]
+[[pl:尸]]
+[[ru:尸]]
+[[fi:尸]]
+[[ta:尸]]
+[[th:尸]]
+[[vi:尸]]
+[[zh:尸]]

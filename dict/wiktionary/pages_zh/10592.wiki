@@ -1,0 +1,153 @@
+{{character info/new}}
+{{also|佛}}
+==Translingual==
+
+===Etymology===
+Japanese shinjitai {{Han simp|佛|f=弗|t=厶}}.
+
+===Han character===
+{{Han char|rn=9|rad=人|as=02|sn=4|four=|canj=OI,XOI|ids=⿰亻厶}}
+
+====References====
+* {{Han ref|kx=0092.050|dkj=00364|dj=0195.030|hdz=10110.050|uh=4ECF|ud=20175}}
+
+----
+
+==Chinese==
+{{zh-see|佛|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=人02|style=s|kyu=佛}}
+
+# [[Buddha]]
+# [[France]] (from {{ja-l|仏蘭西}})
+
+====Readings====
+{{ja-readings
+|goon=[[ぶつ]] (butsu)
+|kanon=[[ふつ]] (futsu)
+|kun=[[ほとけ]] (hotoke)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|仏教|ぶっきょう}}: Buddhism
+* {{ja-r|仏像|ぶつぞう}}: Buddhist image
+* {{ja-r|仏壇|ぶつだん}}: household Buddhist altar
+* {{ja-r|仏陀|ぶっだ}}: Buddha
+* {{ja-r|仏様|ほとけさま}}: Buddha, deceased person
+* {{ja-r|仏語|ふつご}}: French language
+* {{ja-r|仏文|ふつぶん}}: French literature
+* {{ja-r|仏印|ふついん}}: French Indochina
+* {{ja-r|仏文学|ふつぶんがく}}: French literature
+{{der-mid}}
+* {{ja-r|仏英辞典|ふつえい じてん}}: French-English dictionary
+* {{ja-r|石仏|せきぶつ}}: stone Buddhist image
+* {{ja-r|大仏|だいぶつ}}: large statue of Buddha
+* {{ja-r|念仏|ねんぶつ}}: Buddhist prayer
+* {{ja-r|神仏|しんぶつ}}: [[Shinto]] gods and Buddha
+* {{ja-r|日仏|にちふつ}}: Japan and France
+* {{ja-r|仏典|ぶってん}}: Buddhist scriptures, sutras
+* {{ja-r|廃仏毀釈|はいぶつ きしゃく}}: anti-Buddhist movement at the beginning of the Meiji era
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|ふつ}}
+Abbreviation of [[ateji]] term {{m|ja|仏蘭西|tr=Furansu||France}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|acc=1|acc_ref=DJR}}
+
+====Proper noun====
+{{ja-pos|proper|ふつ|kyu=佛}}
+
+# {{abbreviation of|lang=ja|sort=ふつ|仏蘭西|nodot=1}}: [[France]]
+#: {{ja-usex|札幌日'''仏'''協会|^さっぽろ ^にち '''^ふつ''' ^きょうかい|The Sapporo Japan-'''France''' Society}}
+
+=====Synonyms=====
+{{der-top}}
+* {{ja-r|フランス}}
+* {{ja-r|仏蘭西|フランス}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|ぶつ}}
+From {{etyl|ltc|ja|sort=ふつ'}} {{m|zh|佛陀|tr=bjut dhɑ||Buddha}}, itself from {{etyl|sa|ja|sort=ぶつ}} {{m|sa|बुद्ध}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|ぶつ|acc=1}}
+
+====Noun====
+{{ja-noun|ぶつ|kyu=佛}}
+
+# [[Buddhism]]
+
+=====Synonyms=====
+{{der-top}}
+* {{ja-r|仏教|ぶっきょう}}
+{{der-bottom}}
+
+====Proper noun====
+{{ja-pos|proper|ぶつ|kyu=佛}}
+
+# {{abbreviation of|lang=ja|sort=ぶつ|仏陀|nodot=1}}: [[Buddha]].
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|ほとけ}}
+Unclear. The ''hoto'' element might be from a Chinese dialect variation on {{etyl|ltc|ja|sort=ぶつ}} {{m|zh|佛陀|tr=bjut dhɑ}},<ref name="DJR">{{R:Daijirin}}</ref> or possibly just the {{m|zh|佛|tr=bjut}} portion,<ref name="DJS">{{R:Daijisen}}</ref> ultimately deriving from {{etyl|sa|ja|sort=ぶつ}} {{m|sa|बुद्ध}}. The ''ke'' element might be the suffix {{m|ja|気|tr=ke||spirit}}.<ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|ほとけ|acc=0|acc_ref=DJR|acc2=3|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|ほとけ|kyu=佛}}
+
+# A [[Buddha]]: an [[enlightened]] or [[awakened]] [[sentient]] being.
+# A [[statue]] or [[image]] of any Buddha.
+# The [[deceased]], a [[departed]] [[soul]].
+# A term that a parent calls a child expressing parental affection: "my dear".
+#* c. 890: [[w:Taketori Monogatari|Taketori Monogatari]]<ref name="Taketori">{{cite-book
+|last=Horiuchi
+|first=Hideaki
+|coauthors=Ken Akiyama
+|title=[[w:Taketori Monogatari|Taketori Monogatari]] , [[w:Ise Monogatari|Ise Monogatari]]
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|year=1997
+|location=Tōkyō
+|isbn=4-00-240017-4
+}}</ref> (page 7)
+#*: {{lang|ja|我子の'''佛'''、變化の人と申しながら、こゝら大さまで養ひ奉る志疎かならず。}}
+#*:: {{lang|ja|わ が こ の '''ほとけ'''、 へんげ の ひと と まうしながら、 ここら おほき さま で やしなひ たてまつる こころざし をろか ならず。}}
+#*:: ''Wa ga ko no '''hotoke''', henge no hito to maushinagara, kokora ohoki sama de yashinahi tatematsuru kokorozashi woroka narazu.''
+#*::: My '''dear''' child, when you are talking about someone who is a manifestation [of a supernatural entity], it would not be dumb to try to bring them up in this grand fashion.
+#* c. 890: [[w:Taketori Monogatari|Taketori Monogatari]]<ref name="Taketori"/> (page 61)
+#*: {{lang|ja|あが'''仏'''、何事思ひたまふぞ。}}
+#*:: {{lang|ja|あ が '''ほとけ'''、 なにごと おもひたまふ ぞ。}}
+#*:: ''A ga '''hotoke''', nanigoto omohitamafu zo.''
+#*::: My '''dear''', what on earth are you thinking about?
+
+====Proper noun====
+{{ja-pos|proper|ほとけ|kyu=佛}}
+
+# [[Sakyamuni]] [[Buddha]], Nepalese spiritual and philosophical teacher and founder of [[Buddhism]]: Siddhartha Gautama.
+# Any of the other Buddhas named in [[Buddhist]] [[scripture]]s.
+
+===References===
+<references/>
+
+[[de:仏]]
+[[fr:仏]]
+[[ko:仏]]
+[[li:仏]]
+[[hu:仏]]
+[[mg:仏]]
+[[ja:仏]]
+[[pl:仏]]
+[[pt:仏]]
+[[th:仏]]
+[[uk:仏]]
+[[zh:仏]]

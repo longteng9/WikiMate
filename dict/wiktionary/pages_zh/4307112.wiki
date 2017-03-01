@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms|to pull; to lead|to lift up}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+{{zh-psm|engine}}. First entered Chinese through {{w|Shanghainese}}. Entered Taiwanese {{etyl|hak|-}} and {{etyl|nan|-}} via {{etyl|ja|zh}} {{ja-r|エンジン}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yǐnqíng
+|c=jan5 king4
+|h=pfs=ên-chín
+|mn=xm,qz,zz:ín-kèng/tw:ia̋n-jín/tw:iân-jín/tw:ian-jín
+|w=1in jjin
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[engine]]
+# {{lb|zh|Taiwanese Min Nan and Hakka}} [[motorcycle]]
+
+====Synonyms====
+* {{sense|engine}} {{zh-l|發動機}}
+* {{sense|motorcycle}}
+{{zh-dial|摩托車}}
+
+====Derived terms====
+{{zh-der|搜索引擎|搜尋引擎}}
+
+[[ko:引擎]]
+[[hu:引擎]]
+[[mg:引擎]]
+[[ja:引擎]]
+[[ru:引擎]]
+[[chr:引擎]]
+[[zh:引擎]]

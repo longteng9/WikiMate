@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|它}}
+{{zh-forms}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=93|rad=牛|as=03|sn=7|four=24512|canj=HQPD|ids=⿰牜也}}
+
+====References====
+* {{Han ref|kx=0697.090|dkj=19931|dj=1109.060|hdz=31803.010|uh=7260|ud=29280|bh=A865|bd=43109}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tā
+|ma=zh-tā.ogg
+|c=taa1
+|h=pfs=kì
+|mn=i
+|w=1ta
+|mc=
+|oc=
+|cat=pron
+}}
+
+===Pronoun===
+{{zh-pronoun}}
+
+# {{lb|zh|archaic}} (animal) [[it]]
+
+====Usage notes====
+* {{zh-l|它}} is now used instead.
+
+====Synonyms====
+* {{zh-l|他}} he, him
+* {{zh-l|她}} she, her
+* {{zh-l|它}} it
+* {{zh-l|祂}} he (deity)
+
+===See also===
+{{cmn-personal pronouns}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=牛03}}
+
+# {{defn|lang=ja|sort=牛03}}
+
+====Readings====
+* {{ja-readings|on=[[た]] (ta), [[だ]] (da)|kun=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tha]]|rs=牛03}}
+
+# {{defn|lang=vi|sort=牛03}}
+
+[[fr:牠]]
+[[hu:牠]]
+[[mg:牠]]
+[[ms:牠]]
+[[pl:牠]]
+[[th:牠]]
+[[chr:牠]]
+[[zh:牠]]

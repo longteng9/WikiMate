@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǎnbì
+|c=jim2 bai3
+|mn=qz,xm,zz:iám-pè
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|usually|military}} to [[cover]]
+
+===Noun===
+{{zh-noun}}
+
+# [[screen]]; [[cover]]
+# {{lb|zh|physics}} [[audio]] [[masking]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|えん|へい|k2=ぺい|yomi=on}}
+
+===Noun===
+{{ja-noun|えんぺい}}
+
+# [[cloaking]], [[concealment]], [[stealth]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|えんぺい}}
+
+# [[cloak]], [[conceal]]
+
+====Conjugation====
+{{ja-suru|えんぺい}}
+
+====Synonyms====
+* {{sense|stealth}} {{ja-r|隠密|おんみつ}}, {{ja-r|隠密|いんみつ}}
+
+[[ko:掩蔽]]
+[[mg:掩蔽]]
+[[zh:掩蔽]]

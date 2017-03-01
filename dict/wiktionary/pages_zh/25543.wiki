@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|芸}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=12|sn=18|four=44131|canj=TMBI|ids=⿱艹雲}}
+
+====References====
+* {{Han ref|kx=1057.390|dkj=31958|dj=1520.250|hdz=53290.020|uh=8553|ud=34131|bh=EAFC|bd=60156}}
+
+----
+
+==Chinese==
+{{zh-forms|s=芸}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艸|雲|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yún
+|c=wan4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[rue]], a [[herb]] used to keep [[insect]]s away
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=艸12|style=ky|shin=芸}}
+
+# [[rue]], the [[herb]]
+
+====Readings====
+{{ja-readings
+|on=[[うん]] (un)
+|kun=(''rare'') [[あぶらな]] (aburana)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=운|eumhun=평지 운|rv=un|mr=un|y=wun}}
+
+# {{defn|lang=ko|sort=艸12}}
+
+----
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[vân]]|rs=艸12}}
+
+# {{defn|lang=vi|sort=艸12}}
+
+[[fr:蕓]]
+[[hu:蕓]]
+[[ja:蕓]]
+[[pl:蕓]]
+[[th:蕓]]
+[[zh:蕓]]

@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=cuòzhé
+|c=co3 zit3
+|ma=Zh-cuòzhé.ogg
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[encounter]] [[difficulties]]; to [[frustrate]]; to [[set back]]
+# to [[discourage]]
+
+===Noun===
+{{zh-noun}}
+
+# [[setback]]; [[obstacle]]; [[frustration]]
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ざ|せつ|yomi=on}}
+
+===Noun===
+{{ja-noun|ざせつ}}
+
+# [[setback]]
+# [[frustration]]
+
+===Verb===
+{{ja-verb-suru|ざせつ}}
+
+# [[fall through]]
+#* '''1943''', 海野十三, 宇宙尖兵:
+#*: {{ja-usex|折角の計画が'''挫折'''することは人類にとって一大損失だ。|せっかく の けいかく が '''ざせつ''' する こと は じんるい に とって いちだい そんしつ だ。|The failure of this much-awaited plan represents an enormous loss to humankind.}}
+# be [[frustrate]]d
+
+====Conjugation====
+{{ja-suru|ざせつ}}
+
+[[ko:挫折]]
+[[hu:挫折]]
+[[mg:挫折]]
+[[ja:挫折]]
+[[chr:挫折]]
+[[zh:挫折]]

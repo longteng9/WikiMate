@@ -1,0 +1,56 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǎojiàn室
+|c=bou2 gin6 sat1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[nurse]]'s [[office]]
+
+====Synonyms====
+* {{zh-l|醫務室}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+[[File:Hitane Elementary School nurses office 2.jpg|thumb|250px|{{lang|ja|保健室}} (''hokenshitsu''): the '''[[nurse]]'s [[office]]''' at a Japanese elementary school.]]
+</div>
+{{ja-kanjitab|yomi=o|ほ|けん|しつ}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ほけんしつ|保健|tr1=hoken|t1=health preservation, health, well-being|室|tr2=shitsu|t2=room}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=o|ほけんしつ|acc=2|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ほけんしつ}}
+
+# a [[nurse]]'s [[office]] {{qualifier|as in a school}}, [[infirmary]] {{qualifier|as in a company}}, [[dispensary]] {{qualifier|chiefly UK}}
+
+====Synonyms====
+{{der-top|Synonyms}}
+{{sense|in some elementary schools}}
+* {{ja-r|衛生室|えいせいしつ}}: literally “hygiene room”
+{{sense|in some universities}}
+* {{ja-r|医務室|いむしつ}}: “medical room”
+* {{ja-r|保健診療所|ほけん しんだんしょ}}: “health examination place”
+* {{ja-r|保健センター|ほけん センター}}: “health center”
+* {{ja-r|健康科学センター|ほけん かがく センター}}: “health science center”
+* {{ja-r|保健管理センター|ほけん かんり センター}}: “health management center”
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[hu:保健室]]
+[[sv:保健室]]
+[[zh:保健室]]

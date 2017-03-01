@@ -1,0 +1,41 @@
+{{also|竹轮}}
+==Chinese==
+{{zh-forms|s=竹轮}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhúlún
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[chikuwa]] {{gloss|tube-shaped fish-paste cake}}
+
+{{zh-cat|Foods}}
+
+----
+<div style="clear:both;"></div><!-- To force proper layout, as the ZH entry text is shorter than its sidebar items -->
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Chikuwa}}
+[[Image:Chikuwa.jpg|thumb|right|250px|{{lang|ja|竹輪}} (''chikuwa''): a piece of '''{{l|en|chikuwa}}''' showing the representative tube shape.]]
+</div>
+{{ja-kanjitab|yomi=j|ちく|わ}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ちくわ|竹|tr1=chiku|t1=bamboo|輪|tr2=wa|t2=ring}}, from the resemblance to a piece of {{l|en|bamboo}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=j|ちくわ|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ちくわ}}
+
+# {{l|en|chikuwa}} {{gloss|tube-shaped fish-paste cake}}, a particular way of preparing {{l|en|kamaboko}}
+
+===References===
+<references/>

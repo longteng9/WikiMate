@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|垄}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=16|sn=19|four=01104|canj=YPG|ids=⿱龍土}}
+
+# [[grave]], [[mound]]
+# [[ridge]] in [[field]]
+
+====References====
+* {{Han ref|kx=0242.050|dkj=05591|dj=0482.010|hdz=10500.040|uh=58DF|ud=22751|bh=C362|bd=50018}}
+
+----
+
+==Chinese==
+{{zh-forms|s=垄}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǒng
+|c=lung5
+|h=pfs=
+|md=
+|mn=lêng
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+* {{zh-l|壟斷}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土16}}
+
+# {{defn|lang=ja|sort=土16}}
+
+====Readings====
+* {{ja-readings|on=[[りょう]] (ryō), [[ろう]] (rō)|kun=[[うね]] (une), [[つか]] (tsuka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=롱|rv=rong|mr=rong}}
+
+# {{defn|lang=ko|sort=土16}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lũng]]|rs=土16}}
+
+# {{defn|lang=vi|sort=土16}}
+
+[[fr:壟]]
+[[li:壟]]
+[[hu:壟]]
+[[ja:壟]]
+[[pl:壟]]
+[[th:壟]]
+[[zh:壟]]

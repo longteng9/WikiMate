@@ -1,0 +1,61 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=11|sn=14|four=44434|canj=VTLO|ids=⿰女𦰩}}
+
+# {{defn|Han|sort=女11}}
+
+====References====
+* {{Han ref|kx=0270.100|dkj=06665|dj=0538.060|hdz=21075.090|uh=5AE8|ud=23272|bh=E17B|bd=57723}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=[[hon1]]|y=hon1}}
+
+# {{defn|lang=yue|sort=女11}}
+
+====References====
+* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 95]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女11}}
+
+# {{defn|lang=ja|sort=女11}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan), [[ぜん]] (zen), [[ねん]] (nen)|kun=[[いかる]] (ikaru), [[つつしむ]] (tsutsushimu)}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[hān]] ([[han1]])|wg=han<sup>1</sup>}}
+
+# {{defn|lang=cmn|sort=女11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=女11|hanviet=nần}}
+
+# {{defn|lang=vi|sort=女11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5ae8 Nom Foundation]
+
+[[fr:嫨]]
+[[hu:嫨]]
+[[pl:嫨]]
+[[th:嫨]]
+[[zh:嫨]]

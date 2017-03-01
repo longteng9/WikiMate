@@ -1,0 +1,90 @@
+{{character info/new}}
+{{also|稾}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=10|sn=15|four=20927|canj=HDYRB}}
+
+====References====
+* {{Han ref|kx=0858.040|dkj=25220|dj=1283.120|hdz=42625.060|uh=7A3F|ud=31295|bh=BD5A|bd=48474}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=稾}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|禾|高|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gǎo,er=y
+|c=gou2
+|h=pfs=
+|md=gō̤
+|mn=kó
+|w=2kau
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[stalk]] of grain; [[straw]]
+# [[draft]]; [[sketch]]; [[manuscript]]
+
+===Compounds===
+{{zh-der|定稿|劍南詩稿|初稿|完稿|底稿|創稿|徵稿|屬草稿|寫稿|審稿|原稿|孫晨稿席|存稿|主稿|乾稿|來稿|投稿|撰稿人|打稿|清稿本|截稿|稿費|稿本|稿子|有底稿|稿砧|稿兒|打底稿|稿紙|稿葬|稿源|稿案|稿底|稿件|打腹稿|手稿|稿約|特稿|改稿|發稿|稿薦|稿酬|會稿|校稿|文稿|清史稿|清稿|畫稿|擬稿|撰稿|脫稿|默稿|縛稿為人|邀稿|退稿|腹稿|起稿|講稿|草稿|芻稿|遺稿|辦稿|轉載稿}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=禾10}}
+
+# manuscript, version, draft
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[わら]] (wara)|nanori=}}
+
+===Verb===
+{{ja-verb-suru|こう}}
+
+# to [[write]] (a [[manuscript]]/[[rough]] [[copy]])
+
+====Conjugation====
+{{ja-suru|こう}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|eumhun=|rv=go|mr=ko|y=ko}}
+
+# {{defn|lang=ko|sort=禾10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cảo]], [[khao]]|rs=禾10}}
+
+# {{defn|lang=vi}}
+
+[[fr:稿]]
+[[ko:稿]]
+[[it:稿]]
+[[hu:稿]]
+[[mg:稿]]
+[[mn:稿]]
+[[ja:稿]]
+[[no:稿]]
+[[pl:稿]]
+[[th:稿]]
+[[zh:稿]]

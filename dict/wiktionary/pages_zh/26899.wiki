@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|譌|讹}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=04|sn=11|four=04610|canj=YROP|ids=⿰言化}}
+
+# [[swindle]], [[cheat]]
+# [[erroneous]], [[wrong]]
+# [[accent]], [[dialect]]
+
+====References====
+* {{Han ref|kx=1149.080|dkj=35256|dj=1616.100|hdz=63947.080|uh=8A1B|ud=35355|bh=B35F|bd=45919}}
+
+----
+
+==Chinese==
+{{zh-forms|s=讹}}
+
+===Alternative forms===
+* {{zh-l|譌}}
+
+===Pronunciation===
+{{zh-pron
+|m=é
+|c=ngo4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言04}}
+
+# {{defn|lang=ja|sort=言04}}
+
+====Readings====
+* {{ja-readings|goon=[[が]] (ga)|kanon=[[が]] (ga)|kanyoon=[[か]] (ka)|kun=[[なまり]] (namari), [[なまる]] (namaru), [[あやまる]] (ayamaru)}}
+
+====Compounds====
+* [[訛音]]
+* [[訛伝]]
+* [[転訛]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=와|eumhun=|rv=wa|mr=wa|y=wa}}
+
+# {{defn|lang=ko|sort=言04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngoa]], [[ngoả]]|rs=言04}}
+
+# {{defn|vi}}
+
+[[fr:訛]]
+[[ko:訛]]
+[[hu:訛]]
+[[mg:訛]]
+[[ja:訛]]
+[[pl:訛]]
+[[th:訛]]
+[[vi:訛]]
+[[zh:訛]]

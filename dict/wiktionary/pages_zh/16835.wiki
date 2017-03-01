@@ -1,0 +1,63 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=68|rad=斗|as=10|sn=14|four=54500|canj=TBYJ|ids=⿰冓斗}}
+
+# [[instrument]] to [[even out]] [[grain]] in a [[measuring]] [[vessel]]
+# [[proofread]]
+# to [[collate]]
+
+====References====
+* {{Han ref|kx=0478.220|dkj=13521|dj=0837.110|hdz=32255.060|uh=65A0|ud=26016|bh=E1F5|bd=57845}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiào
+|c=gaau3,gok3
+|h=pfs=
+|j=
+|md=
+|mn=qz,xm,zz:kàu
+|mn-t=
+|w=
+|mc=y
+|oc=y
+|cat=v,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|斠訂|斠補|斠斛}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=斗10}}
+
+# {{defn|lang=ja|sort=斗10}}
+
+====Readings====
+* {{ja-readings|on=[[かく]] (kaku), [[こう]] (kō), [[きょう]] (kyō)|kun=[[はかる]] (hakaru)}}
+
+[[fr:斠]]
+[[li:斠]]
+[[hu:斠]]
+[[pl:斠]]
+[[ru:斠]]
+[[th:斠]]
+[[zh:斠]]

@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gàozhī
+|c=gou3 zi1
+|mn=kò-ti
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[inform]]; to [[notify]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|こく|ち|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|こくち|y=o|dev=2|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|こくち}}
+
+# [[notice]], [[announcement]]
+
+====Derived terms====
+* {{ja-r|告知者|こくちしゃ}}: herald; announcer
+
+===References===
+<references/>
+
+[[ko:告知]]
+[[hu:告知]]
+[[mg:告知]]
+[[ja:告知]]
+[[zh:告知]]

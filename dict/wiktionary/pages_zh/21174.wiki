@@ -1,0 +1,59 @@
+{{character info/new}}
+{{also|疊}}
+==Translingual==
+{{Han simplified forms|疊|畳|叠}}
+
+===Etymology===
+Japanese shinjitai {{Han simp|疊|f=畾|t=田}}. In current form {{Han compound|田|冝}}.
+
+===Han character===
+{{Han char|rn=102|rad=田|as=07|sn=12|four=60107|canj=WBBM|ids=⿱田冝}}
+
+====References====
+* {{Han ref|kx=0764.041|dkj=21875|hdz=42544.011|uh=7573|ud=30067}}
+
+----
+
+==Chinese==
+{{zh-see|疊|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=田07}}
+
+====Readings====
+* {{ja-readings|goon=[[じょう]] (jō)|kanon=[[ちょう]] (chō) {{non-joyo-reading}}|kun=[[たたむ]] (tatamu), [[たたみ]] (tatami), [[かさねる]] (kasaneru)|nanori=}}
+
+===Noun===
+{{ja-noun|たたみ|kyu=疊}}
+
+# [[tatami]]; a [[tatami]] mat
+# [[repeat]], [[duplicate]]
+# [[repetitious]]
+
+===Counter===
+{{ja-pos|じょう|counter}}
+
+# tatami [[mat]]s
+# units of [[area]] as measured in tatami mats
+
+====See also====
+* {{ja-r|和室|gloss=Japanese-style room|わしつ}}
+* {{ja-r|布団|gloss=[[futon]], sleeping mattress|ふとん}}
+
+[[Category:Japanese basic words|たたみ]]
+
+[[fr:畳]]
+[[ky:畳]]
+[[lo:畳]]
+[[li:畳]]
+[[hu:畳]]
+[[mg:畳]]
+[[ja:畳]]
+[[pl:畳]]
+[[th:畳]]
+[[uk:畳]]
+[[zh:畳]]

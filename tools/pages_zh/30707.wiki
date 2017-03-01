@@ -1,0 +1,94 @@
+{{character info/new}}
+{{also|队}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=170|rad=阜|as=09|sn=12|four=78232|canj=NLTPO|ids=⿰[[阜|⻖]][[㒸]]}}
+
+====References====
+* {{Han ref|kx=1357.040|dkj=41750|dj=1861.040|hdz=64148.090|uh=968A|ud=38538|bh=B6A4|bd=46756}}
+
+----
+
+==Chinese==
+{{zh-forms|s=队}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|阜|㒸|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=duì
+|c=deoi6
+|h=pfs=chhui
+|md=dôi
+|mn=tūi
+|w=3de
+|mc=y
+|oc=y
+|cat=n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[group]]; [[team]]
+#: {{zh-x|樂隊|(musical) band}}
+# {{lb|zh|military}} [[army]] [[unit]]
+#: {{zh-x|軍隊|army}}
+#: {{zh-x|自衛隊|self-defense forces}}
+# {{zh-short|少年先鋒隊|{{w|Young Pioneers of China}}}}
+# {{zh-classifier|objects in [[row]]s|t=[[line]]; [[row]]}}
+
+===Compounds===
+{{zh-der|隊禮|隊列|隊旗|隊日|隊伍|隊形|隊友|隊員|隊長|排隊|儀仗隊|傘兵部隊|中隊|團隊精神|刑警隊|主隊|儀隊|先遣部隊|團隊|壓隊|列隊|幢隊|兩棲部隊|啦啦隊|先頭部隊|工程隊|大隊|小隊|尋行逐隊|客隊|大隊接力|先遣隊|不入隊|商隊|分隊|偵緝隊|先鋒隊|搜索隊|梯隊|支隊|消防隊|空降部隊|樂隊|成群結隊|攻隊|掉隊|登山隊|放腳隊|民族樂隊|插隊|敢死隊|機動部隊|球隊|武裝部隊|種子隊|游擊隊|特種部隊|率隊|營隊|特攻隊|步隊|煙花隊|無敵艦隊|憲兵隊|成群作隊|歸隊|橫隊|押隊|校隊|棒球隊|掩護部隊|義勇艦隊|胭花隊|連隊|縱隊|馬隊|隊部|糾察隊|籃隊|銅管樂隊|莒光連隊|站隊|部隊長|農耕隊|黑衫隊|軍隊|第七艦隊|車隊|第五縱隊|聯隊|飛虎隊|管樂隊|領隊|艦隊|聯合部隊|離隊|隊舞|隊主|陸戰隊|鎮暴隊形|部隊|衛隊|編隊飛行|編隊|船隊|路隊|第三梯隊|裝甲部隊|軍樂隊|隊伍行列|戰隊}}
+
+{{zh-cat|Military}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=阜09}}
+
+# {{defn|lang=ja|sort=阜09}}
+
+====Readings====
+* {{ja-readings|on=[[つい]] (tsui)|kanon=[[たい]] (tai)|goon=[[だい]] (dai)|kun=[[くみ]] (kumi)}}
+
+===Compounds===
+{{der3
+| {{ja-l|艦隊}}
+| {{ja-l|戦隊}}
+| {{ja-l|捜隊}}
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=대|eumhun=|mr=tae|y=tay}}
+
+# {{defn|lang=ko|sort=阜09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đội]], [[đỗi]], [[đòi]], [[đụi]], [[dội]], [[dụi]], [[đọi]], [[đôi]], [[giọi]], [[nhụi]]|rs=阜09}}
+
+# {{defn|lang=vi|sort=阜09}}
+
+[[fr:隊]]
+[[ko:隊]]
+[[hu:隊]]
+[[mg:隊]]
+[[ja:隊]]
+[[pl:隊]]
+[[th:隊]]
+[[chr:隊]]
+[[zh:隊]]

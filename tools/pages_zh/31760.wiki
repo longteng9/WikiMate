@@ -1,0 +1,64 @@
+{{character info/new}}
+{{also|骧}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=17|sn=27|four=70332|canj=SFYRV}}
+
+# gallop about with head uplifted
+
+====References====
+* {{Han ref|kx=1447.030|dkj=45075|dj=1972.180|hdz=74584.060|uh=9A64|ud=39524|bh=F9B3|bd=63923}}
+
+----
+
+==Chinese==
+{{zh-forms|s=骧}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiāng
+|c=soeng1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|龍驤虎視|龍驤虎步|驤騰|騰驤|雲起龍驤}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬17}}
+
+# {{defn|lang=ja|sort=馬17}}
+
+====Readings====
+* {{ja-readings|on=[[じょう]] (jō), [[しょう]] (shō)|kun=[[あがる]] (agaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=양|eumhun=|rv=yang|mr=yang|y=yang}}
+
+# {{defn|lang=ko|sort=馬17}}
+
+[[fr:驤]]
+[[hu:驤]]
+[[ja:驤]]
+[[pl:驤]]
+[[th:驤]]
+[[zh:驤]]

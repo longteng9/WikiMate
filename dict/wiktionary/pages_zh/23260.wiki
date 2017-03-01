@@ -1,0 +1,183 @@
+{{character info/new}}
+{{also|纍}}
+==Translingual==
+{{stroke order|strokes=11}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|ls=psc|田|糸}}.
+
+{{Han simp|纍|f=畾|t=田}}
+
+A popular theory consider this character as an ideogramic compound representing the [[tiredness]] after work.
+In ancient China, men were working in the field [[田]] while women worked in silk farming [[糸]].
+This is a [[mnemonic]] and not the etymology.
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=05|sn=11|four=60903|canj=WVIF|ids=⿱田糸}}
+
+# [[tired]]
+# [[implicate]], [[involve]]
+# [[bother]]
+
+====References====
+* {{Han ref|kx=0919.350|dkj=27343|dj=1351.060|hdz=53381.040|uh=7D2F|ud=32047|bh=B2D6|bd=45782}}
+* {{cite-book
+|last=McNaughton
+|first=William
+|year=2005
+|title=Reading & Writing Chinese: Simplified Character Edition
+|publisher=Tuttle
+|isbn=978-0804835091
+|page=10
+|edition=2nd Edition
+}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=lèi
+|c=leoi6
+|h=pfs=lui
+|mn=lūi
+|mc=y
+|oc=y
+|cat=a,v
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[tired]], [[weary]]
+#* {{zh-x|我 很 累{lèi}。|I'm tired.}}
+# {{lb|zh|of|_|work}} [[hard]]; [[tiring]]
+#* {{zh-x|你 別 工作 得 太 累{lèi}。|Don't work too '''hard'''.}}
+
+=====Synonyms=====
+{{zh-dial}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[strain]], to [[wear out]]
+#* {{zh-x|他 會 累{lèi} 得 精疲力竭 的。|He'll '''wear''' himself out.}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=lěi
+|c=leoi5
+|h=pfs=lûi
+|mn=lūi
+|cat=a,v
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[continuous]], [[repeated]]
+
+====Verb====
+{{zh-verb}}
+
+# to [[accumulate]]
+#* {{zh-x|積累|to accumulate}}
+#* {{zh-x|累計|to accumulate}}
+
+===Etymology 3===
+{{zh-see|纍}}
+
+====Compounds====
+{{attention|zh|Needs to be split appropriately to each pronunciation}}
+{{rel-top}}
+* léi
+** [[累累]]
+** [[累赘]], [[累坠]]
+* lěi
+** [[累次]]
+** [[累代]]
+** [[累犯]]
+** [[累积]]
+** [[累及]]
+** [[累计]]
+** [[累进]]
+** [[累进税]]
+** [[累卵]]
+** [[累年]]
+** [[累日]]
+** [[累时]]
+** [[累世]]
+** [[累月经年]]
+* lèi
+** [[累乏]]
+** [[累活]], [[累活儿]]
+** [[累垮]]
+** [[累人]]
+** [[累死累活]]
+** [[累坏]], [[累壞]]
+{{rel-bottom}}
+
+===References===
+* {{qualifier|Mandarin}} {{R:cedict}}
+* {{cite-web
+|url=http://www.jukuu.com/index.php
+|title=Jukuu
+|work=Jukuu
+|language=Mandarin/English
+|accessdate=2014-03-03}}
+* {{qualifier|Hakka}} {{R:hak:Lau 1997}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=糸05}}
+
+# {{defn|lang=ja|sort=糸05}}
+
+====Readings====
+* {{ja-readings|on=[[るい]] (rui)|kun=[[しばる]] (shibaru), [[かさねる]] (kasaneru), [[わずらわせ]] (wazurawase)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[루]]>[[누]]|eumhun=|rv=ru>nu|mr=ru>nu|y=lwu>nwu}}
+
+# {{defn|lang=ko|sort=糸05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[luỵ]], [[lủi]], [[luỹ]], [[mệt]], [[luy]]|rs=糸05}}
+
+# {{defn|lang=vi|sort=糸05}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+[[da:累]]
+[[fr:累]]
+[[ko:累]]
+[[lt:累]]
+[[hu:累]]
+[[mg:累]]
+[[fj:累]]
+[[ja:累]]
+[[no:累]]
+[[pl:累]]
+[[ta:累]]
+[[th:累]]
+[[chr:累]]
+[[uk:累]]
+[[zh:累]]

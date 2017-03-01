@@ -1,0 +1,44 @@
+{{also|议长}}
+==Chinese==
+{{zh-forms|s=议长}}
+
+===Pronunciation===
+{{zh-pron
+|m=yìzhǎng
+|c=ji5 zoeng2
+|mn=gī-tiúⁿ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[chairman]] (''person presiding over a meeting''), [[speaker]] (''in a parliament'')
+
+====See also====
+* {{zh-l|主席}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぎ|ちょう|yomi=on}}
+{{wikipedia|lang=ja}}
+
+===Etymology===
+{{suffix|議|長|lang=ja|t1=discussion|t2=head|sort=きちょう'}}
+
+===Noun===
+{{ja-noun|ぎちょう}}
+
+# [[chairman]] (person presiding over a meeting), [[speaker]] (in a parliament)
+#: {{ja-usex|歳出削減案について'''議長'''から提案があった。|さいしゅつ さくげん あん に ついて '''ぎちょう''' から ていあん が あった。|The chair decided to discuss budget cuts.}}
+
+[[ko:議長]]
+[[lo:議長]]
+[[hu:議長]]
+[[mg:議長]]
+[[ja:議長]]
+[[sv:議長]]
+[[tl:議長]]
+[[chr:議長]]
+[[zh:議長]]

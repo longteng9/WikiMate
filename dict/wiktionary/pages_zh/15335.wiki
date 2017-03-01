@@ -1,0 +1,99 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=03|sn=7|four=21331|canj=XYMP,YMP|ids=⿱上心}}
+
+====References====
+* {{Han ref|kx=0376.080|dkj=10316|dj=0702.170|hdz=42270.010|uh=5FD0|ud=24528|bh=CAD8|bd=51928}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|上|心|ls=ic|t1=up|t2=heart}} – uneasy. Compare {{och-l|忑}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=tǎn
+|c=taan2
+|h=
+|md=tāng
+|mn=
+|w=2thoe
+|mc=
+|oc=y
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[fearful]]
+#: {{zh-x|忐忑不安|uneasy}}
+
+====Compounds====
+{{zh-der|忑忑忐忐|怵怵忐忐|忐忑不定|忐忑不安|忐忑|忐忐忑忑|忐上忑下}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=kěng
+|c=
+|h=
+|md=
+|mn=
+|w=
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[sincere]]
+#: {{zh-x|心心 忐{kěng}忑{dǎo}|sincere}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心03}}
+
+# {{defn|lang=ja|sort=心03}}
+
+====Readings====
+* {{ja-readings|on=[[くん]] (kun), [[こう]] (kō), [[きょう]] (kyō)|kun=[[むなしい]] (munashii)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=탐|eumhun=|rv=tam|mr=t'am|y=tham}}
+
+# {{defn|lang=ko|sort=心03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心03|hanviet=thảm}}
+
+# {{defn|lang=vi|sort=心03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5fd0 Nom Foundation]
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:忐]]
+[[li:忐]]
+[[hu:忐]]
+[[mg:忐]]
+[[pl:忐]]
+[[th:忐]]
+[[zh:忐]]

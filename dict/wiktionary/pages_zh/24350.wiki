@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=06|sn=10|four=73244|canj=BJV|ids=⿰⺼安}}
+
+====References====
+{{Han ref|kx=0981.090|dkj=29446|dj=1433.030|hdz=32072.050|uh=80FA}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|肉|c1=s|t1=meat|安|c2=p|ls=psc}}.
+
+===Etymology 1===
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+{{bor|zh|en|amine|'''am'''ine}}.
+
+====Pronunciation====
+{{zh-pron
+|m=胺
+|c=on1,on3
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[amine]]
+
+====Compounds====
+{{zh-der|多巴胺:dopamine|抗組織胺|硫胺素|磺胺劑|組織胺|組胺|胺基酸|醯胺類|間胺黃}}
+
+===Etymology 2===
+{{zh-forms|alt=𦛅,餲}}
+
+====Pronunciation====
+{{zh-pron
+|m=è,ān,2nb=Taiwan
+|c=aat3
+|mc=y
+|oc=y
+|cat=v,c:a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-obsolete}} {{lb|zh|of meat}} to [[rot]] and [[smell]]
+# {{lb|zh|Cantonese}} [[smell]]ing of [[urine]]
+#: {{zh-x|一 行 入 個 廁所 就 聞到{dou3-2} 成{seng4} 陣{zam6} 胺{aat3} 味，好似 十 世 冇 洗 過 噉。|The washroom smells '''like urine''' once you walk in, like it's not been washed in ages.|C}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉06}}
+
+# {{defn|lang=ja|sort=肉06}}
+
+====Readings====
+{{ja-readings|goon=[[あち]] (achi)|kanon=[[あつ]] (atsu)|kun=[[におう]] (niou)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ươn]]|rs=肉06}}
+
+# {{defn|lang=vi|sort=肉06}}
+
+[[fr:胺]]
+[[hu:胺]]
+[[mg:胺]]
+[[pl:胺]]
+[[th:胺]]
+[[vi:胺]]
+[[zh:胺]]

@@ -1,0 +1,32 @@
+==Chinese==
+{{zh-forms}}
+{{zh-wp}}
+
+===Etymology===
+{{calque|zh|en|hardware}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yìngjiàn,er=y
+|c=ngaang6 gin6,ngaang6 gin6-2
+|mn=qz:ngǐ-kiǎⁿ/xm:ngī-kiāⁿ/zz:ngēe-kiāⁿ
+|ma=Zh-yìngjiàn.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Mainland|Hong Kong|computing}} [[hardware]]
+
+====Synonyms====
+* {{q|Taiwan}} {{zh-l|硬體}}
+
+====Coordinate terms====
+* {{zh-l|軟件}}
+
+[[ko:硬件]]
+[[hu:硬件]]
+[[ja:硬件]]
+[[chr:硬件]]
+[[zh:硬件]]

@@ -1,0 +1,28 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|映写#.E6.98.A0.E5.86.99.E6.A9.9F|映写機}}
+{{wikipedia|Movie projector}}
+[[File:Projecteur_cin%C3%A9matographique_35mm.jpg|thumb|250px|{{lang|ja|映写機}} (''eishaki''): a 35mm [[movie]] '''[[projector]]''' in operation.]]
+{{wikipedia|Slide projector}}
+[[File:Projecteur_de_diapositives_Prestinox_début_des_années_1960.jpg|thumb|250px|{{lang|ja|映写機}} (''eishaki''): a 1960s [[slide]] '''[[projector]]'''.]]
+</div>
+{{ja-kanjitab|yomi=o|えい|しゃ|き}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=えいしゃき|映写|tr1=eisha|t1=to project; projection|pos1=specific to projecting images|機|tr2=ki|t2=machine, device}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|えいしゃき|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|えいしゃき}}
+
+# a [[projector]] {{qualifier|optical device, such as for movies or slides}}
+
+===References===
+<references/>
+
+[[hu:映写機]]
+[[fi:映写機]]
+[[sv:映写機]]
+[[zh:映写機]]

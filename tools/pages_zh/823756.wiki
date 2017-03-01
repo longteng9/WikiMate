@@ -1,0 +1,54 @@
+{{also|正确}}
+==Chinese==
+{{zh-forms|s=正确}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhèngquè
+|c=zing3 kok3
+|h=pfs=chṳn-khok
+|md=ciáng-káuk
+|mn=chèng-khak
+|ma=y
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[correct]]; [[accurate]]; [[proper]]
+#: {{zh-x|回答 正確。|Your answer is '''correct'''.}}
+#: {{zh-x|這樣 做 是 正確 的。|This is the '''correct''' thing to do.}}
+
+====Antonyms====
+* {{zh-l|錯誤}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|かく|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|せいかく}}
+
+# [[accurate]], [[exact]], [[correct]], [[precise]]
+
+====Inflection====
+{{ja-na|せいかく}}
+
+===Noun===
+{{ja-noun|せいかく}}
+
+# [[accuracy]], [[exactness]], [[correctness]], [[precision]]
+
+[[zh-min-nan:正確]]
+[[ko:正確]]
+[[lb:正確]]
+[[hu:正確]]
+[[mg:正確]]
+[[fj:正確]]
+[[ja:正確]]
+[[chr:正確]]
+[[zh:正確]]

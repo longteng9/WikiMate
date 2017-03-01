@@ -1,0 +1,93 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=144|rad=行|as=07|sn=13|four=21601|canj=HOMRN}}
+
+====References====
+* {{Han ref|kx=1109.240|dkj=34061|dj=1574.050|hdz=20837.070|uh=8859|ud=34905|bh=B8C5|bd=47301}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|行|吾|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=yá
+|c=ngaa4
+|mn=qz,xm,zz:gâ/qz,tw,xm:gê/zz:gêe
+|mn_note=gâ - literary; gê/gêe - vernacular
+|mc=2
+|oc=n,1
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[public]] [[office]]
+# [[official]] [[residence]]
+
+====Compounds====
+{{zh-der|三衙家|三衙|府衙|官衙|判衙|吃衙門飯|捕衙|押衙|散衙|排衙|柳衙|早衙|清水衙門|衙官屈宋|衙內|衙門|蜂衙|衙推|總理衙門|衙役|衙蠹|衙署|衙院人家}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=yú
+|mc=1
+|oc=n,2
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|衙衙|[[walking]]; [[marching]] (of troops)}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=yǔ
+|mc=3
+|oc=n,3
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{surname|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=行07}}
+
+# {{defn|lang=ja|sort=行07}}
+
+====Readings====
+* {{ja-readings|on=[[ぎょ]] (gyo), [[ご]] (go), [[が]] (ga)|kun=[[やくしょ]] (yakusho)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=아|eumhun=|rv=a|mr=a|y=a}}
+
+# {{defn|lang=ko|sort=行07}}
+
+[[fr:衙]]
+[[hu:衙]]
+[[mg:衙]]
+[[ja:衙]]
+[[no:衙]]
+[[pl:衙]]
+[[th:衙]]
+[[zh:衙]]

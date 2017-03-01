@@ -1,0 +1,33 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǒuxiàng
+|c=sau2 soeng3
+|mn=chhiú-siòng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[palmistry]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|て|そう|yomi=ko}}
+
+===Noun===
+{{ja-noun|てそう}}
+
+# [[lines]] of the [[palm]]
+# [[palmistry]], [[palm]] [[reading]]
+#: {{ja-usex|手相を（人に）見てもらう|'''てそう''' を （ひと に） みて もらう|have one's palm read (by someone)}}
+#: {{ja-usex|（人の）手相を見る|（ひと の） '''てそう''' を みる|read (someone's) palm}}
+
+[[hu:手相]]
+[[pl:手相]]
+[[ru:手相]]
+[[zh:手相]]

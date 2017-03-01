@@ -1,0 +1,50 @@
+{{also|忍术}}
+==Chinese==
+{{zh-forms|s=忍术}}
+{{zh-wp}}
+
+===Pronunciation===
+{{zh-pron
+|m=rěnshù
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|martial arts}} [[ninjutsu]]
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Ninjutsu}}
+</div>
+{{ja-kanjitab|yomi=o|にん|じゅつ}}
+
+===Etymology===
+Appears to have been coined in Japan from {{etyl|ltc|-}}-derived components, as a compound of {{compound|lang=ja|sort=にんじゅつ|忍|tr1=nin|t1=patience; enduring, putting up with; secrecy|術|tr2=jutsu|t2=technique}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|にんじゅつ|acc=1|acc_ref=DJR,SMK5}}
+
+===Noun===
+{{ja-noun|にんじゅつ}}
+
+# [[ninjutsu]]
+
+====Synonyms====
+* {{ja-r|忍法|にんぽう}}: [[ninja]] [[arts]]
+
+====Related terms====
+* {{ja-r|忍者|にんじゃ}}: a [[ninja]]
+
+===References===
+<references/>
+
+[[Category:ja:Martial arts|にんじゅつ]]
+
+[[ja:忍術]]
+[[pl:忍術]]
+[[zh:忍術]]

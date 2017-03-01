@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|異}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=102|rad=田|as=03|sn=8|four=60221|canj=WML|ids=⿱田丌}}
+
+====References====
+* {{Han ref|kx=0759.160|dkj=21748|dj=1169.170|hdz=42530.060|uh=7540}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=俾-colloquial Cantonese}}
+
+===Etymology===
+From {{inh|zh|sit-pro|*s-bəj-n/k||to give}}. Cognate with {{cog|bo|སྦྱིན||to give, to bestow}} and {{cog|my|ပေး||to give}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bì
+|c=bei2
+|c-t=ei2
+|mc=y
+|oc=y
+|ma=
+|cat=v,prep
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|literary|or|Cantonese}} to [[give]]
+#: {{zh-x|王 崩，周 人 將 畀 虢{Guó} 公{Gōng} 政。|The king (of Zhou) died. Zhou people will '''give''' Duke of Guo power.}}
+# {{lb|zh|Cantonese}} [[for]]
+#: {{zh-x|原先 係 畀 你 食 嘅。|It was originally '''for''' you to eat.|C}}
+# {{lb|zh|Cantonese}} to [[allow]] (someone or something to do something)
+# {{lb|zh|Cantonese}} to allow (an event to happen)
+# {{lb|zh|Cantonese}} [[to]]
+#: {{zh-x|講 畀 你 知|to tell you|C}}
+
+====Synonyms====
+{{zh-dial|給}}
+
+===Compounds===
+{{zh-der|付畀|投畀豺虎|賦畀}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=田03}}
+
+# to [[give]]
+
+====Readings====
+{{ja-readings
+|on=[[ひ]] (hi)
+|kun=[[あたえるもの]] (ataerumono)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=비|eumhun=|rv=bi|mr=pi|y=pi}}
+
+# to [[give]]
+
+[[fr:畀]]
+[[hu:畀]]
+[[mg:畀]]
+[[pl:畀]]
+[[th:畀]]
+[[zh:畀]]

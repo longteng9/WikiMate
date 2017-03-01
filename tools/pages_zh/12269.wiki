@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=05|sn=8|four=64060|canj=RJR|ids=⿰口古}}
+
+# [[mumble]], [[mutter]], [[murmur]]
+# [[rumble]]
+
+====References====
+{{Han ref|kx=0185.211|dkj=03522|dj=0405.140|hdz=10598.060|uh=5495}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gū
+|c=gu1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|咕啉}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=口05}}
+
+# {{defn|lang=ja|sort=口05}}
+
+====Readings====
+{{ja-readings|goon=[[こ]] (ko)|kanon=[[こ]] (ko)|kun=[[ぶつぶついう]] (butsubutsuiu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|rv=go|mr=ko}}
+
+# {{defn|lang=ko|sort=口05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cô]], [[cổ]]|rs=口05}}
+
+# {{defn|lang=vi|sort=口05}}
+
+[[fr:咕]]
+[[li:咕]]
+[[hu:咕]]
+[[mg:咕]]
+[[no:咕]]
+[[pl:咕]]
+[[th:咕]]
+[[zh:咕]]

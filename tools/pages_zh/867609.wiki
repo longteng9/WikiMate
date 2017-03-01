@@ -1,0 +1,10 @@
+==Japanese==
+{{ja-kanjitab|秘|密|鍵}}
+
+===Noun===
+{{ja-noun|ひみつかぎ}}
+
+# {{lb|ja|cryptography|sort=ひみつかぎ}} [[secret]] [[key]]
+
+====Related terms====
+* {{ja-r|公開鍵|こうかいかぎ}}: [[public key]]

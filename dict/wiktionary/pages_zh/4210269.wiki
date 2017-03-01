@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǚxíng
+|c=lei5 hang4
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[fulfill]] {{gloss|one's promise}}; to [[perform]] {{gloss|one's duty}}; to [[effect]] {{gloss|a contract}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|り|こう|yomi=on}}
+
+===Noun===
+{{ja-noun|りこう}}
+
+# [[execution]], [[fulfillment]], [[implementation]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|りこう}}
+
+# [[carry out]], [[execute]], [[fulfill]], [[keep]]
+#* '''1905''', 夏目漱石, 吾輩は猫である:
+#*: {{ja-usex|「約束なんか'''履行'''した事がない。|「やくそく なんか '''りこう''' した こと が ない。|He's never '''kept''' any of his promises.}}
+
+====Conjugation====
+{{ja-suru|りこう}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=이행}}
+
+# {{hanja form of|이행|[[implementation]]}}
+
+[[zh-min-nan:履行]]
+[[ko:履行]]
+[[hu:履行]]
+[[ja:履行]]
+[[zh:履行]]

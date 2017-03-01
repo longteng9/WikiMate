@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|yomi=o|せん|い|こう|がく}}
+
+===Etymology===
+{{calque|ja|sort=せんいこうがく|繊維|tr1=sen'i|t1=fiber|光学|tr2=kōgaku|t2=optics|etyl lang=en|etyl term=fiber optics}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|せんい こうがく|acc=4}}
+
+===Noun===
+{{ja-noun|せんい こうがく}}
+
+# [[fiber optics]] (US), [[fibre optics]] (UK)
+
+====Usage notes====
+The term {{lang|ja|繊維光学}} (''sen'i kōgaku'') appears to be the most common of the three synonyms.
+
+====Synonyms====
+* {{ja-r|ファイバーオプティックス|ファイバー オプティックス}}
+* {{ja-r|ファイバー光学|ファイバー こうがく}}
+
+[[zh:繊維光学]]

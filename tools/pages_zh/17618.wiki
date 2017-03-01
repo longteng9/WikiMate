@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|杆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=07|sn=11|four=46941|canj=DAMJ|ids=⿰木旱}}
+
+====References====
+* {{Han ref|kx=0527.230|dkj=14823|dj=0916.160|hdz=21213.020|uh=687F|ud=26751|bh=B1EC|bd=45548}}
+
+----
+
+==Chinese==
+{{zh-forms|s=杆}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|旱|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gǎn,er=y
+|c=gon1,gon2,gon3
+|w=2koe
+|mc=
+|oc=y
+|cat=n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[pole]]; [[stick]]; [[club]]; [[rod]]
+# [[lever]]; [[handle]]
+#: {{zh-x|操縱桿{gǎn}|joystick}}
+#: {{zh-x|手-剎{shā}車-桿{gǎn} 已 磨損。|The hand-brake '''lever''' is worn out.}}
+# [[shaft]]; [[barrel]]
+#: {{zh-x|槍桿{gǎn}|gun '''barrel'''}}
+# {{zh-classifier|[[long]], [[cylindrical]] objects, such as [[gun]]s}}
+
+===Compounds===
+{{zh-der|二桿子|光桿司令|巴氏桿菌|布氏桿菌|保險桿|光桿兒|大腸桿菌|拉桿子|桿弟|棒狀桿菌|拿槍桿|推桿|清桿運動|桿秤|槓桿|槓桿定律|控制桿|抱大足桿|桿菌|桿撥|槍桿子|痢疾桿菌|秤桿|桿兒|桿兒上的|測桿|煙袋桿兒|杈桿兒|白桿兵|桿棒|標準桿|打槳桿|拿筆桿|桿錐|旗桿|腰桿子|肉毒桿菌|電線桿|筆桿|鎗桿|電桿|耍筆桿}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木07}}
+
+# {{defn|lang=ja|sort=木07}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan), [[がん]] (gan)|kun=[[てこ]] (teko), [[ぽうる]] (pouru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=한|eumhun=|rv=han|mr=han|y=han}}
+
+# {{defn|lang=ko|sort=木07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cán]]|rs=木07}}
+
+# {{defn|lang=vi|sort=木07}}
+
+[[zh-min-nan:桿]]
+[[fr:桿]]
+[[hu:桿]]
+[[mg:桿]]
+[[ja:桿]]
+[[pl:桿]]
+[[th:桿]]
+[[chr:桿]]
+[[zh:桿]]

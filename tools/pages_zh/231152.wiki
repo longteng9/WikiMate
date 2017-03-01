@@ -1,0 +1,38 @@
+==Japanese==
+{{ja-kanjitab|けん|さく|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|けんさく|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|けんさく}}
+
+# [[retrieval]], [[searching]]
+
+===Verb===
+{{ja-verb-suru|けんさく}}
+
+# to [[search]], to [[retrieve]]
+
+====Conjugation====
+{{ja-suru|けんさく}}
+
+===See also===
+* {{ja-r|探索|たんさく}}
+* {{ja-r|捜索|そうさく}}
+
+===References===
+<references/>
+
+[[fr:検索]]
+[[ko:検索]]
+[[it:検索]]
+[[lo:検索]]
+[[lt:検索]]
+[[hu:検索]]
+[[mg:検索]]
+[[ja:検索]]
+[[fi:検索]]
+[[chr:検索]]
+[[uk:検索]]
+[[zh:検索]]

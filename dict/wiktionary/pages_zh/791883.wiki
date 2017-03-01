@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+{{zh-compound|不|到|no, not|arrive}}
+
+====Pronunciation====
+{{zh-pron
+|m=不dào
+|c=bat1 dou3
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[not]] [[yet]] [[reach]]; to [[not]] [[yet]] [[arrive]] [[at]]
+# to not [[arrive]]; to not [[show]] [[up]]
+
+===Etymology 2===
+{{zh-compound|不|到|-not|can}}
+
+====Pronunciation====
+{{zh-pron
+|m=budào
+|c=bat1 dou3-2
+|cat=part
+}}
+
+====Particle====
+{{zh-particle}}
+
+# [[cannot]]
+#: {{zh-x|我 看 '''不{bu}到''' 你。|I '''can't''' see you.}}
+
+=====Synonyms=====
+* {{zh-l|不能}}
+
+====Derived terms====
+{{zh-der|意想不到}}
+
+===See also===
+* (''Cantonese'') {{zh-l|唔到}}
+
+[[zh:不到]]

@@ -1,0 +1,17 @@
+==Japanese==
+{{rfc|lang=ja}}
+{{ja-kanjitab|固|都|税}}
+
+===Noun===
+{{ja-noun|ことぜい}}
+
+# Abbreviation of "[[固定資産税|'''固'''定資産税]] and [[都市計画税|'''都'''市計画'''税''']]". Both of them are [[Japanese]] [[real estate]] [[tax|taxes]].
+
+====Related terms====
+* {{l|ja|固定資産税}}
+* {{l|ja|都市計画税}}
+
+====Synonyms====
+* {{l|ja|公租公課}}
+
+[[ja:固都税]]

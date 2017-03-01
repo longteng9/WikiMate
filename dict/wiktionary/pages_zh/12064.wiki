@@ -1,0 +1,274 @@
+{{character info/new}}
+{{also|[[ロ]] (katakana)|[[ㅁ]] (hangul) |[[囗]] (wéi)}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=00|sn=3|four=60000|canj=R}}
+# {{mul-kangxi radical-def}}
+# Shuōwén Jiězì radical №22
+
+====Usage notes====
+This character (口) is used ''within'' characters; if a square is instead used as an enclosure (''around'') a character, then the character [[囗]] is used instead.
+
+====References====
+* {{Han ref|kx=0171.010|dkj=03227|dj=0379.170|hdz=10566.140|uh=53E3|ud=21475|bh=A466|bd=42086}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=𠙵,𠮚}}
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|p}} – resembles an open mouth.
+
+===Pronunciation===
+{{zh-pron
+|m=kǒu
+|ma=y
+|m-s=kou2/kou3
+|m-s_note=kou2 - vernacular; kou3 - literary
+|c=hau2
+|h=pfs=khiéu/héu
+|mn=kháu/káu/xm,zz:khó͘/qz,tw:khió
+|mn_note=kháu - vernacular; káu - vernacular (limited, e.g. {{l|zh|啞口}}); khó͘/khió - literary
+|mn-t=kau2
+|w=2kheu
+|mc=y
+|oc=y
+|cat=n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[mouth]] {{zh-mw|c:把}}
+#: {{zh-x|漱 漱 你 的 口。|Rinse your '''mouth''' out.}}
+#* {{zh-x|這 話 出自 你 的 口，聽來 令人 奇怪。|This sounds strange in your '''mouth'''.}}
+# [[entrance]]; [[opening]]; [[mouth]] (of an object)
+#: {{zh-x|入口|entrance}}
+#: {{zh-x|出口|exit}}
+# [[hole]]; [[cut]]
+#: {{zh-x|口子{zi}|hole}}
+#: {{zh-x|傷口|wound}}
+# [[government]] [[organ]]; [[department]]
+# {{zh-classifier|family members, populations and guns}}
+# {{zh-classifier|[[bites]] or [[mouthfuls]]}}
+#: {{zh-x|我 可以 吃 一 口 嗎？|Can I have a '''bite'''?}}
+
+====Synonyms====
+{{zh-dial|嘴}}
+
+===Compounds===
+{{zh-der|口岸|口白|口碑|口碑載道|口北|口不應心|口才|口彩|口稱|口吃|口齒|口臭|口傳|口瘡|口袋|口袋兒|口耳相傳|口風|口風琴|口服|口服心不服|口福|口腹|口乾舌燥|口感|口供|口號|口號兒|口紅|口技|口角|口角春風|口角炎|口徑|口訣|口渴|口口聲聲|口快|口裡|口糧|口令|口蜜腹劍|口密腹劍|口蘑|口沫|口氣|口腔|口琴|口輕|口若懸河|口誦|口愬|口算|口哨兒|口舌|口實|口試|口是心非|口授|口述|口水|口說無憑|口談|口題|口條|口頭|口頭禪|口頭福|口頭交|口頭文學|口頭語|口頭語兒|口味|口味兒|口吻|口誤|口涎|口信|口信兒|口形|口型|口血未乾|口炎|口眼歪斜|口譯|口音|口語|口諭|口燥唇乾|口子|口佔|口罩|口罩兒|口重|口誅筆伐|口拙|口弦|口髭}}
+
+{{zh-cat|Beginning|Anatomy}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=1|rs=口00}}
+
+====Readings====
+* {{ja-readings
+|goon=[[く]] (ku)
+|kanon=[[こう]] (kō)
+|kun=[[くち]] (kuchi)}}
+
+====Compounds====
+{{der5
+| {{ja-l|口演}}
+| {{ja-l|口炎}}
+| {{ja-l|口下手}}
+| {{ja-l|口可笑}}
+| {{ja-l|口火}}
+| {{ja-l|口絵}}
+| {{ja-l|口外}}
+| {{ja-l|口蓋}}
+| {{ja-l|口角}}
+| {{ja-l|口奇麗}}
+| {{ja-l|口気}}
+| {{ja-l|口元}}, {{ja-l|口許}}
+| {{ja-l|口供}}
+| {{ja-l|口琴}}
+| {{ja-l|口金}}
+| {{ja-l|口吟}}
+| {{ja-l|口径}}
+| {{ja-l|口軽}}
+| {{ja-l|口言葉}}
+| {{ja-l|口語}}
+| {{ja-l|口々}}, {{ja-l|口口}}
+| {{ja-l|口巧者}}
+| {{ja-l|口紅}}
+| {{ja-l|口腔}}
+| {{ja-l|口荒}}
+| {{ja-l|口座}}
+| {{ja-l|口才}}
+| {{ja-l|口三味線}}
+| {{ja-l|口耳}}
+| {{ja-l|口実}}
+| {{ja-l|口車}}
+| {{ja-l|口受}}
+| {{ja-l|口授}}
+| {{ja-l|口臭}}
+| {{ja-l|口重}}
+| {{ja-l|口述}}
+| {{ja-l|口承}}
+| {{ja-l|口上}}
+| {{ja-l|口唇}}
+| {{ja-l|口真似}}
+| {{ja-l|口真似}}
+| {{ja-l|口説}}
+| {{ja-l|口舌}}
+| {{ja-l|口先}}
+| {{ja-l|口占}}
+| {{ja-l|口宣}}
+| {{ja-l|口銭}}
+| {{ja-l|口前}}
+| {{ja-l|口早}}
+| {{ja-l|口装}}
+| {{ja-l|口達者}}
+| {{ja-l|口茶}}
+| {{ja-l|口中}}
+| {{ja-l|口忠実}}
+| {{ja-l|口調}}
+| {{ja-l|口笛}}
+| {{ja-l|口伝}}
+| {{ja-l|口答}}
+| {{ja-l|口頭}}
+| {{ja-l|口内}}
+| {{ja-l|口拍子}}
+| {{ja-l|口八丁}}
+| {{ja-l|口碑}}
+| {{ja-l|口不調法}}
+| {{ja-l|口腹}}
+| {{ja-l|口吻}}
+| {{ja-l|口癖}}
+| {{ja-l|口辺}}
+| {{ja-l|口返答}}
+| {{ja-l|口弁}}
+| {{ja-l|口味}}
+| {{ja-l|口約}}
+| {{ja-l|口裏}}
+| {{ja-l|口糧}}
+| {{ja-l|口輪}}
+| {{ja-l|口論}}
+| {{ja-l|口話法}}
+| {{ja-l|口脇}}
+| {{ja-l|口誦}}
+| {{ja-l|蛇口}}
+}}
+
+===Etymology===
+{{ja-kanjitab|くち|yomi=k}}
+
+=====Pronunciation=====
+{{ja-pron|くち|acc=h|y=kun|dev=1|acc_ref=NHK}}
+
+====Noun====
+{{ja-noun|くち}}
+
+# [[mouth]]
+# [[opening]]
+
+===References===
+<references/>
+* ''The Oxford Starter Japanese Dictionary.'' ISBN 0-19-860197-2
+
+[[Category:Japanese basic words|くち]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[구]]|mr=ku|eumhun=입|ehrv=ip|ehmr=ip|ehy=}}
+
+# {{defn|lang=ko|sort=口00}}
+
+====Compounds====
+* [[口訣]] (구결, gugyeol)
+
+====References====
+* {{Hanja ref|nav=8216}}
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{head|ryu|kanji}}
+
+* {{ja-readings|kun=[[ぐち]] (guchi), [[くち]] (kuchi)}}
+
+===Pronunciation===
+* {{IPA|/gut͡ɕi/|lang=ryu}}
+
+===Noun===
+{{head|ryu|noun|hiragana|ぐち|romaji|guchi}}
+
+# [[language]]
+# [[dialect]]
+# [[speech]]
+
+====Compounds====
+{{top2}}
+* [[油口]] ([[あんだぐち]], ''[[andaguchi]]''): [[compliment]]
+* [[油口ゃー]] ([[あんだぐちゃー]], ''[[andaguchā]]''): [[flatterer]]
+* [[沖縄口]] ([[うちなーぐち]], ''[[uchināguchi]]''): [[Okinawan]] [[language]]
+* [[うらんだ口]] ([[うらんだぐち]], ''[[urandaguchi]]''): [[European]] language, [[Western]] language
+* [[書ち口]], [[書口]] ([[かちぐち]], ''[[kachiguchi]]''): [[written]] language
+* [[口しば]] ([[くちしば]], ''[[kuchishiba]]''): [[lips]]
+* [[島口]] ([[しまぐち]], ''[[shimaguchi]]''): [[island]] [[language]], [[local]] language
+* [[唐口]] ([[とーぐち]], ''[[tōguchi]]''): [[Chinese]] language
+* [[那覇口]] ([[なーふぁぐち]], ''[[nāfaguchi]]''): [[Naha]] [[dialect]]
+* [[目口]] ([[みーくち]], ''[[mīkuchi]]''): [[facial expression]]
+* [[大和口]] ([[やまとぅぐち]], ''[[yamatuguchi]]''): standard [[Japanese]] language
+{{bottom}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|khẩu|rs=口00}}
+
+# {{defn|lang=vi|sort=口00}}
+
+[[Category:CJKV radicals| ]]
+
+[[da:口]]
+[[et:口]]
+[[fr:口]]
+[[ko:口]]
+[[it:口]]
+[[ku:口]]
+[[lo:口]]
+[[la:口]]
+[[lt:口]]
+[[li:口]]
+[[hu:口]]
+[[mg:口]]
+[[ms:口]]
+[[fj:口]]
+[[nl:口]]
+[[ja:口]]
+[[no:口]]
+[[km:口]]
+[[pl:口]]
+[[pt:口]]
+[[ru:口]]
+[[sm:口]]
+[[sk:口]]
+[[fi:口]]
+[[sv:口]]
+[[ta:口]]
+[[th:口]]
+[[chr:口]]
+[[tr:口]]
+[[uk:口]]
+[[vi:口]]
+[[zh:口]]

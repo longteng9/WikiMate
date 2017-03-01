@@ -1,0 +1,48 @@
+{{also|违约}}
+==Chinese==
+{{zh-forms|s=违约}}
+
+===Pronunciation===
+{{zh-pron
+|m=wéiyuē
+|c=wai4 joek3
+|h=pfs=vì-yok
+|mn=ûi-iok
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[breach]] a [[contract]]; to [[violate]] an [[agreement]]; to [[break]] a promise
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|legal}} [[breach of contract]]
+#: {{zh-x|違約 責任|liability for '''breach of contract'''}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|い|やく|yomi=on}}
+
+===Noun===
+{{ja-noun|いやく}}
+
+# breach of contract
+
+===Verb===
+{{ja-verb-suru|tr=intrans|いやく}}
+
+# break a contract, [[default]]
+
+====Conjugation====
+{{ja-suru|いやく}}
+
+[[Category:ja:Law|いやく]]
+
+[[zh-min-nan:違約]]
+[[ko:違約]]
+[[hu:違約]]
+[[zh:違約]]

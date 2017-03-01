@@ -1,0 +1,10 @@
+==Japanese==
+{{ja-kanjitab|暗|号|論}}
+
+===Noun===
+{{ja-noun|あんごうろん|kyu=暗號論}}
+# [[cryptography]]
+
+[[Category:ja:Cryptography]]
+
+[[ru:暗号論]]

@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=昔昔
+|c=sik1 sik1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[every]] [[night]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=k|むかし|むかし}}
+
+===Etymology===
+Reduplication of {{m|ja|昔|tr=mukashi||ancient times, a long time ago}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|むかし むかし|acc=0|acc_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|昔々}}
+
+===Noun===
+{{ja-noun|むかし むかし}}
+
+# [[ancient]] times, a very long time ago
+#: {{ja-usex|昔昔、遠いところに…|むかし むかし、 とおい ところ に…|a '''long time ago''' in a place far away...}}
+
+====Usage notes====
+When used to start a [[fairy tale]] or other [[story]], ''mukashi mukashi'' is often glossed as {{m|en|once upon a time}}.
+
+====Synonyms====
+* {{ja-r|大昔|おおむかし}}
+
+===References===
+<references/>
+
+[[es:昔昔]]
+[[zh:昔昔]]

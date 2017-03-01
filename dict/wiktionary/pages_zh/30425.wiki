@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|闸}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=169|rad=門|as=05|sn=13|four=77506|canj=ANWL|ids=⿵門甲}}
+
+# [[sluice]]
+# flood gate, canal lock
+
+====References====
+* {{Han ref|kx=1333.120|dkj=41263|dj=1839.130|hdz=74292.090|uh=9598|ud=38296|bh=B968|bd=47464}}
+
+----
+
+==Chinese==
+{{zh-forms|s=闸}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhá
+|c=zaap6
+|h=pfs=
+|md=
+|mn=qz,xm,zz:cha̍p/qz,tw,xm,zz:cha̍h
+|mn_note=cha̍p - literary; cha̍h - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=門05}}
+
+# {{defn|lang=ja|sort=門05}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[ひのくち]] (hinokuchi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=갑|eumhun=|rv=gap|mr=kap|y=kap}}
+
+# {{defn|lang=ko|sort=門05}}
+
+[[fr:閘]]
+[[ko:閘]]
+[[hu:閘]]
+[[ja:閘]]
+[[pl:閘]]
+[[th:閘]]
+[[zh:閘]]

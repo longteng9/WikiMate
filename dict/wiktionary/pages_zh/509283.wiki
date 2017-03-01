@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēnpèi
+|c=fan1 pui3
+|h=pfs=fûn-phi
+|mn=kh:hun-phòe/tp:hun-phè
+|ma=Zh-fenpèi.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[distribute]]
+# to [[assign]]; to [[allot]]
+# to [[partition]] {{gloss|a hard drive}}
+
+====Synonyms====
+*{{zh-l|分伻}}
+*{{zh-l|分發}}
+*{{zh-l|分攤}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぶん|はい|k2=ぱい|yomi=o}}
+
+===Noun===
+{{ja-noun|ぶんぱい}}
+
+# [[distribution]]; [[allotment]]; [[allotting]]
+
+===Verb===
+{{ja-verb-suru|ぶんぱい}}
+
+# to [[divide]], to [[allot]], to [[share]]
+
+====Conjugation====
+{{ja-suru|ぶんぱい}}
+
+[[zh-min-nan:分配]]
+[[ko:分配]]
+[[hu:分配]]
+[[mg:分配]]
+[[ja:分配]]
+[[chr:分配]]
+[[zh:分配]]

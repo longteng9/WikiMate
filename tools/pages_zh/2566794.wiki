@@ -1,0 +1,59 @@
+{{also|演绎}}
+==Chinese==
+{{zh-forms|s=演绎}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǎnyì
+|c=jin2 jik6
+|mn=ián-e̍k
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[deduce]]
+
+===Noun===
+{{zh-noun}}
+
+# [[deduction]]
+
+===Derived terms===
+{{zh-der|演繹法|演繹推理}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|えん|えき|yomi=o}}
+
+===Pronunciation===
+* {{IPA|lang=ja|[ẽ̞ɴe̞kʲi]}}
+
+===Noun===
+{{ja-noun|えんえき}}
+
+# [[deduction]]: [[extending]] information about one thing to apply to other things
+
+====Compounds====
+* {{ja-r|演繹的|えんえきてき}}: [[deductive]]
+* {{ja-r|演繹法|えんえきほう}}: the [[deductive]] [[method]]
+
+====Antonyms====
+* {{ja-r|帰納|きのう}}: [[induction]]
+
+===Verb===
+{{ja-verb-suru|えんえき}}
+
+# to [[deduce]]: to [[extend]] information about one thing to apply to other things
+
+====Conjugation====
+{{ja-suru|えんえき}}
+
+====Antonyms====
+* {{ja-r|linkto=帰納|帰納する|きのう する}}: to [[induce]]
+
+[[ko:演繹]]
+[[ja:演繹]]
+[[zh:演繹]]

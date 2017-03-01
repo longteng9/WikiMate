@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|ろん|そう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ろんそう|yomi=o}}
+
+===Noun===
+{{ja-noun|ろんそう}}
+# [[argument]]
+#: {{ja-usex|激しい論争が勃発している。|はげし.い ろんそう が ぼっぱつ している。|Fierce arguments have been breaking out.}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|ろんそう}}
+# [[argue]], engage in [[argument]]
+
+====Conjugation====
+{{ja-suru|ろんそう}}
+
+[[lo:論争]]
+[[lt:論争]]
+[[hu:論争]]
+[[mg:論争]]
+[[ja:論争]]
+[[chr:論争]]

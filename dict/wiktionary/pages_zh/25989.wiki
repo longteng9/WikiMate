@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|蚬}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=07|sn=13|four=56110|canj=LIBUU}}
+
+# a variety of bivalves
+
+====References====
+* {{Han ref|kx=1084.110|dkj=33093|dj=1552.030|hdz=42855.080|uh=8706|ud=34566|bh=B8C3|bd=47299}}
+
+----
+
+==Chinese==
+{{zh-forms|s=蚬}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiǎn
+|c=hin2
+|h=pfs=hán
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# a type of clam {{rfgloss|zh}}
+
+{{zh-cat|Bivalves}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫07}}
+
+# {{defn|lang=ja|sort=虫07}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken), [[げん]] (gen)|kun=[[しじみ]] (shijimi)|nanori=}}
+
+===Etymology===
+{{ja-kanjitab|しじみ|yomi=k}}
+{{wikipedia|lang=ja}}
+
+{{rfe|ja}}
+
+===Noun===
+{{ja-noun|しじみ|シジミ}}
+
+# a type of clam {{rfgloss|ja}}
+
+====Usage notes====
+{{U:ja:biology}}
+
+[[Category:ja:Bivalves|しじみ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=현|eumhun=|rv=hyeon|mr=hyŏn|y=hyen}}
+
+# {{defn|lang=ko|sort=虫07}}
+
+[[fr:蜆]]
+[[hu:蜆]]
+[[mg:蜆]]
+[[ja:蜆]]
+[[pl:蜆]]
+[[th:蜆]]
+[[zh:蜆]]

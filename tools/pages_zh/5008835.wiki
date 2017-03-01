@@ -1,0 +1,44 @@
+{{also|颂歌}}
+==Chinese==
+{{zh-forms|s=颂歌}}
+
+===Pronunciation===
+{{zh-pron
+|m=sònggē
+|c=zung6 go1
+|mn=qz,xm,zz:siōng-koa/xm:siòng-koa/xm,zz:siōng-ko/xm:siòng-ko
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[song]]; [[ode]]; [[carol]]
+
+====See also====
+* {{qualifier|not to be confused with}} {{zh-l|歌頌}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|しょう|か}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=しょうか}} compound {{m|zh|頌歌|tr=zjowng<sup>H</sup> ka|lit=praise + song}}.  Compare modern {{etyl|cmn|-}} {{zh-l|頌歌|tr=sònggē|carol}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|しょうか|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|しょうか}}
+
+# an [[ode]], an [[anthem]], a [[hymn]]: a [[song]] of [[praise]]
+
+====Synonyms====
+* {{ja-r|オード}}
+
+===References===
+<references/>
+
+[[hu:頌歌]]
+[[pl:頌歌]]

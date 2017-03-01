@@ -1,0 +1,134 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|示|且|alt1=|c1=s|c2=p|ls=psc}}: two altars.
+
+===Han character===
+{{Han char|rn=113|rad=示|as=05|sn=10|four=37210|canj=IFBM|ids=⿰礻且}}
+
+# [[ancestor]](s), [[progenitor]](s), [[forefather]](s)/[[foremother|mother]](s)
+# [[grandfather]](s)/[[grandmother|mother]](s)
+
+====References====
+* {{Han ref|kx=0841.180|dkj=24664|dj=1260.010|hdz=42391.040|uh=7956|ud=31062|bh=AFAA|bd=44970}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zǔ
+|c=zou2
+|h=pfs=
+|md=
+|mn=chó͘
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[ancestor]]
+# [[grandparent]]
+# [[forefather]]
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{surname|lang=zh}} [[Zu]]
+
+====Compounds====
+* {{zh-l|祖辈|tr=zǔbèi}}
+* {{zh-l|祖产|tr=zǔchǎn}}
+* {{zh-l|祖传|tr=zǔchuán}}
+* {{zh-l|祖代|tr=zǔdài}}
+* {{zh-l|祖坟|tr=zǔfén}}
+* {{zh-l|祖父}}
+* {{zh-l|祖国|tr=zǔguó}}
+* {{zh-l|祖庙|tr=zǔmiào}}
+* {{zh-l|祖母}}
+* {{zh-l|祖母绿|tr=zǔmǔlǜ}}
+* {{zh-l|祖师|tr=zǔshī}}
+* {{zh-l|祖先}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=示05}}
+
+# founder
+
+====Readings====
+{{ja-readings|goon=[[そ]] (so)|kanon=[[そ]] (so)|kun=[[じじ]] (jiji), [[はじめ]] (hajime)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|開祖|かいそ}}
+* {{ja-r|祖忌|そき}}: (''Buddhism'') death anniversary of a sect founder, or the memorial service thereof
+* {{ja-r|祖先|そせん}}
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|そ|yomi=o}}
+From {{etyl|ltc|ja|sort=そ}} {{m|zh|祖|tr=tsu<sup>X</sup>||ancestor}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|そ|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|そ}}
+
+# ancestor
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=示05}}
+
+----
+
+==Vietnamese==
+<!--
+
+This information needs to be split by part of speech; see below
+
+{{head|vi|sc=Hani}} ([[tố]],What is the source for this reading? [[tỏ]], [[chỗ]], [[tổ]])-->
+
+===Noun===
+{{vi-noun|sc=Hani}}
+
+# {{han tu form of|tổ}}
+
+====Compounds====
+* {{l|vi|祖國|sc=Hani}} ([[tố quốc]])
+
+{{attention|vi|please check reading, added based on tổ by non-Vietnamese speaker}}
+
+[[zh-min-nan:祖]]
+[[fr:祖]]
+[[ko:祖]]
+[[hu:祖]]
+[[mg:祖]]
+[[ja:祖]]
+[[no:祖]]
+[[pl:祖]]
+[[pt:祖]]
+[[th:祖]]
+[[vi:祖]]
+[[zh:祖]]

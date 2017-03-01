@@ -1,0 +1,44 @@
+{{also|人马}}
+==Chinese==
+{{zh-forms|s=人马}}
+
+===Pronunciation===
+{{zh-pron
+|m=rénmǎ
+|c=jan4 maa5
+|h=pfs=ngìn-mâ
+|mn=qz,tp,xm:lîn-má/kh,zz:jîn-má/zz:jîn-bée/qz,xm,twv:lâng-bé/zz:lâng-bée
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[troop]]s
+# people and horses
+# {{lb|zh|mythology}} [[centaur]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|じん|ば}}
+
+===Noun===
+{{ja-noun|じんば}}
+
+# [[horse]] and [[rider]]
+# [[centaur]]
+
+====Synonyms====
+* {{sense|centaur}} {{ja-r|ケンタウロス|けんたうろす}}
+
+====Compounds====
+* {{sense|horse and rider}} {{ja-r|人馬一体|じんばいったい}}
+* {{sense|centaur}} {{ja-r|人馬宮|^じんば-きゅう}}
+
+===References===
+* {{R:Kojien}}
+
+[[zh-min-nan:人馬]]
+[[la:人馬]]
+[[hu:人馬]]

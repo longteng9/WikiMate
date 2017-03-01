@@ -1,0 +1,40 @@
+{{also|基准}}
+==Chinese==
+{{zh-forms|s=基准}}
+
+===Etymology===
+{{borrowing|zh|ja|-}} {{ja-r|基準|きじゅん}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jīzhǔn
+|c=gei1 zeon2
+|mn=ki-chún
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[benchmark]]; [[standard]]; [[reference]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|き|じゅん|yomi=on}}
+
+===Alternative forms===
+* {{l|ja|規準}}
+
+===Noun===
+{{ja-noun|きじゅん}}
+
+# [[standard]], [[basis]], [[criterion]], [[norm]], [[guideline]], [[yardstick]]
+
+[[zh-min-nan:基準]]
+[[ko:基準]]
+[[lt:基準]]
+[[ja:基準]]
+[[ru:基準]]
+[[sv:基準]]
+[[zh:基準]]

@@ -1,0 +1,78 @@
+{{also|播种}}
+==Chinese==
+{{zh-forms|s=播种}}
+
+===Pronunciation===
+{{zh-pron
+|m=bōzhòng,bòzhǒng,bōzhǒng,1nb=Standard,2nb=Taiwan,3nb=common variant
+|c=bo3 zung2
+|h=pfs=pô-chung
+|mn=pò͘-chéng
+|ma=Zh-bozhòng.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[sow]] ([[seed]]s)
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|は|しゅ}}
+From {{etyl|ltc|ja|sort=はしゅ}} compound {{m|zh|播種|tr=pa<sup>H</sup> tsyowng<sup>X</sup>|lit=to sow + seed}} or {{m|zh|播種|tr=pa<sup>H</sup> tsyowng<sup>H</sup>|lit=to sow + to sow}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|はしゅ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|はしゅ}}
+
+# [[sowing]], the spreading of [[seed]] on the ground for growing a [[crop]]
+# {{lb|ja|sort=はんしゅ|medicine}} [[dissemination]] {{qualifier|the spreading out of cells within the body, particularly cells of an invasive disease or of cancer}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|播種機|はしゅき}} a [[sower]], a [[device]] or [[machine]] for sowing seeds
+* {{ja-r|播種性|はしゅせい}} [[disseminated]] {{qualifier|said of a disease}}
+{{der-bottom}}
+
+=====Synonyms=====
+* {{sense|sowing}} {{ja-r|種蒔き|たねまき}}
+* {{sense|dissemination}} {{ja-r|散在|さんざい}}, {{ja-r|汎発|はんぱつ}}
+
+====Verb====
+{{ja-verb-suru|はしゅ}}
+
+# to [[sow]], to [[spread]] [[seed]] on the ground for growing a [[crop]]
+# {{lb|ja|sort=はんしゅ|medicine}} to [[disseminate]] {{qualifier|to spread out within the body, particularly for cells of an invasive disease or of cancer}}
+
+=====Conjugation=====
+{{ja-suru|はしゅ}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|はん|しゅ}}
+Variation of ''hashu'' above, using the [[慣用音#Japanese|''kan'yōon'']] of ''han'' for the first character.
+
+====Pronunciation====
+{{ja-pron|yomi=ky|はんしゅ}}
+
+====Noun====
+{{ja-noun|はんしゅ}}
+
+# {{lb|ja|sort=はんしゅ|medicine}} [[dissemination]] {{qualifier|the spreading out of cells within the body, particularly cells of an invasive disease or of cancer}}
+
+=====Usage notes=====
+Although some dictionaries<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="goo">http://dictionary.goo.ne.jp/leaf/jn2/149124/m3u/%E6%92%AD%E7%A8%AE/</ref> list this separate reading with a distinct sense, other dictionaries<ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref> do not list any ''hanshu'' reading, and include the {{m|en|dissemination}} sense under the ''hashu'' reading.
+
+===References===
+<references/>
+
+[[ko:播種]]
+[[hu:播種]]
+[[mg:播種]]

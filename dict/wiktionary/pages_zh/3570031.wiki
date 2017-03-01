@@ -1,0 +1,27 @@
+==Japanese==
+{{ja-kanjitab|お|ね|yomi=k}}
+
+===Etymology===
+From {{etyl|ojp|ja|sort=おね}}. Compound of {{suffix|lang=ja|sort=おね|尾|tr1=o|t1=a mountain ridge|根|tr2=ne|t2=root; something sticking up}}.
+
+===Pronunciation===
+* {{IPA|lang=ja|[o̞.ne̞]}}
+
+===Noun===
+{{ja-noun|おね|hhira=をね}}
+
+# a [[mountain]] [[ridge]]
+#: {{ja-usex|'''尾根'''伝いに歩く|'''おね''' つたい に あるく|to walk along a '''ridge'''}}
+#: {{ja-usex|'''尾根'''まで登る|'''おね''' まで のぼる|to climb up to a '''ridge'''}}
+
+====Synonyms====
+* {{ja-r|峰|みね}}
+* {{ja-r|稜線|りょうせん}}
+* {{ja-r|脊梁|せきりょう}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[hu:尾根]]
+[[ja:尾根]]
+[[zh:尾根]]

@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=09|sn=12|four=96014|canj=PHAG|ids=⿰忄皇}}
+
+# [[fearful]], [[afraid]], [[anxious]], [[nervous]]
+
+====References====
+* {{Han ref|kx=0392.320|dkj=10863|dj=0728.150|hdz=42329.090|uh=60F6|ud=24822|bh=B471|bd=46193}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huáng
+|c=wong4
+|mn=hiâⁿ
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|人心惶惶|回惶|恐惶|恐惶悚懼|恓恓惶惶|恓惶|悽悽惶惶|悽惶|惶怖|惶急|惶恐|惶恐不安|惶悚|惶悚不安|惶惑|惶惶|惶惶不安|惶惶不定|惶惶無措|惶愧|惶汗|惶然|惶遽|愧惶無地|愴惶|慚惶|慞惶|慞惶失次|戰戰惶惶|誠恐誠惶|誠惶誠恐|誠惶誠懼|驚惶|驚惶失措}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心09}}
+
+# {{defn|lang=ja|sort=心09}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[おそれる]] (osoreru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=황|eumhun=|rv=hwang|mr=hwang|y=hwang}}
+
+# {{defn|lang=ko|sort=心09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心09|hanviet=hoàng}}
+
+# {{defn|vi|sort=心09}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:惶]]
+[[li:惶]]
+[[hu:惶]]
+[[mg:惶]]
+[[ja:惶]]
+[[no:惶]]
+[[pl:惶]]
+[[th:惶]]
+[[zh:惶]]

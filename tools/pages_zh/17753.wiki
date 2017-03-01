@@ -1,0 +1,55 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=08|sn=12|four=47920|canj=DBGR|ids=⿰木周}}
+
+# {{defn|Han|sort=木08}}
+
+====References====
+* {{Han ref|kx=0535.230|dkj=15011|dj=0923.130|hdz=21236.010|uh=6906|ud=26886|bh=D9D4|bd=55764}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhòu,chóu,diāo
+|c=zau3,cau4,diu1
+|mn=tiâu
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:twedu|C05203}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木08}}
+
+# {{defn|lang=ja|sort=木08}}
+
+====Readings====
+* {{ja-readings|on=[[ちゅう]] (chū), [[じゅ]] (ju), [[しゅう]] (shū), [[しゅ]] (shu)|kun=}}
+
+[[fr:椆]]
+[[hu:椆]]
+[[pl:椆]]
+[[th:椆]]
+[[zh:椆]]

@@ -1,0 +1,64 @@
+{{character info/new}}
+{{also|挡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=13|sn=16|four=59066|canj=QFBW|ids=⿰扌當}}
+
+# [[obstruct]], [[impede]]
+# to [[stop]]
+# [[resist]]
+
+====References====
+* {{Han ref|kx=0458.110|dkj=12802|dj=0807.020|hdz=31968.030|uh=64CB|ud=25803|bh=BED7|bd=48855}}
+
+----
+
+==Chinese==
+{{zh-forms|s=挡}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dǎng,dàng
+|c=dong2,dong3
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[block off]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手13}}
+
+# {{defn|lang=ja|sort=手13}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō)|kun=[[さける]] (sakeru)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đương]], [[đáng]]|rs=手13}}
+
+# {{defn|lang=vi|sort=手13}}
+
+[[zh-min-nan:擋]]
+[[fr:擋]]
+[[hu:擋]]
+[[pl:擋]]
+[[th:擋]]
+[[zh:擋]]

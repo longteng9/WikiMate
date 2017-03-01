@@ -1,0 +1,40 @@
+==Japanese==
+{{ja-kanjitab|黄|泉|醜|女}}
+
+===Etymology===
+Compound of {{compound|黄泉|tr1=yomo|pos2=genitive marker|つ|tr2=tsu|醜女|tr3=shikome|lang=ja}}.
+
+===Noun===
+{{ja-noun|よもつしこめ}}
+
+# ugly women of the underworld
+#* 712: [[w:Kojiki|Kojiki]]
+#*: 於是伊邪那岐命、見畏而逃還之時、其妹伊邪那美命、言令見辱吾、即遣'''豫母都志許賣'''<small>此六字以音。</small>令追。
+#* 720: [[w:Nihon Shoki|Nihon Shoki]]
+#*: 于時、伊奘冉尊恨曰、何不用要言、令吾恥辱、乃遣'''泉津醜女'''八人、一云、泉津日狹女、追留之。
+
+====Synonyms====
+* {{ja-r|黄泉日狹女|よもつひさめ}} (yomotsuhisame)
+
+===References===
+* {{cite-book
+|last=Kurano
+|first=Kenji
+|coauthors=Yūkichi Takeda
+|title=Nihon Koten Bungaku Taikei 1: [[w:Kojiki|Kojiki]]
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|year=1958
+|location=[[w:Tōkyō|Tōkyō]]
+|isbn=4-00-060001-X
+}}
+* {{cite-book
+|last=Sakamoto
+|first=Tarō
+|coauthors=Ienaga Saburō, Inoue Mitsusada, [[w:Ōno Susumu|Ōno Susumu]]
+|title=Nihon Koten Bungaku Taikei 67: [[w:Nihon Shoki|Nihon Shoki]]
+|volume=1
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|year=1967
+|location=[[w:Tōkyō|Tōkyō]]
+|isbn=4-0006-0067-2
+}}

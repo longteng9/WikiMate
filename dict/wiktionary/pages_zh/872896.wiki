@@ -1,0 +1,29 @@
+{{also|悲觀}}
+==Japanese==
+{{ja-kanjitab|ひ|かん|yomi=on}}
+
+===Noun===
+{{ja-noun|ひかん|kyu=悲觀}}
+
+# [[pessimism]]
+# [[despair]], [[discouragement]]
+
+====Derived terms====
+* {{ja-r|悲観的|ひかんてき}}
+* {{ja-r|悲観論|ひかんろん}}
+* {{ja-r|悲観主義|ひかんしゅぎ}}
+
+===Verb===
+{{ja-verb-suru|tr=both|ひかん}}
+
+# be [[pessimistic]]
+# lose hope, despair, be disappointed
+#: {{ja-usex|選ばれなくても悲観していない。|えらばれなくて も ひかん していない。|I didn't lose hope even after I wasn't selected.}}
+
+====Conjugation====
+{{ja-suru|ひかん}}
+
+[[lt:悲観]]
+[[hu:悲観]]
+[[ja:悲観]]
+[[zh:悲観]]

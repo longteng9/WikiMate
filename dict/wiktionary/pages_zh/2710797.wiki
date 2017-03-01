@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tuīyí
+|c=teoi1 ji4
+|mn=thui-î
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[elapse]]; to [[pass]]; to [[develop]]; to [[evolve]] {{gloss|of time, situations, etc.}}
+#: {{zh-x|隨著[着]{zhe} 時間 的 推移|as time goes by}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|すい|い|yomi=on}}
+
+===Noun===
+{{ja-noun|すい.い}}
+
+# [[transition]]
+
+===Verb===
+{{ja-verb-suru|すい.い}}
+
+# undergo a change
+
+====Conjugation====
+{{ja-suru|すい.い}}
+
+[[ko:推移]]
+[[hu:推移]]
+[[mg:推移]]
+[[zh:推移]]

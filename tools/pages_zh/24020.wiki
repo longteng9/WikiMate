@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=124|rad=羽|as=04|sn=10|four=80127|canj=CISM|ids=⿱公羽}}
+
+# [[old]] [[man]]
+# [[father]], [[father-in-law]]
+
+====References====
+* {{Han ref|kx=0955.210|dkj=28635|dj=1401.010|hdz=53343.100|uh=7FC1|ud=32705|bh=AFCE|bd=45006}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wēng,wěng
+|m-s=ong1
+|c=jung1
+|mn=ong/ang
+|mn_note=ong - literary; ang - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{surname|lang=zh}}
+# {{lb|zh|Min Nan}} [[husband]]
+#: {{zh-x|翁仔某|[[husband and wife|'''husband''' and wife]]|MN}}
+# [[elderly]] [[man]]
+# {{†}} the [[feather]]s of a [[bird]]'s [[neck]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=羽04}}
+
+# {{defn|lang=ja|sort=羽04}}
+
+====Readings====
+* {{ja-readings|goon=[[う]] (u)|kanon=[[おう]] (ō)|kun=[[おきな]] (okina)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=옹|eumhun=|rv=ong|mr=ong|y=ong}}
+
+# {{defn|lang=ko|sort=羽04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ông]]|rs=羽04}}
+
+# {{defn|lang=vi|sort=羽04}}
+
+[[zh-min-nan:翁]]
+[[fr:翁]]
+[[ko:翁]]
+[[hu:翁]]
+[[mg:翁]]
+[[ja:翁]]
+[[no:翁]]
+[[pl:翁]]
+[[th:翁]]
+[[chr:翁]]
+[[zh:翁]]

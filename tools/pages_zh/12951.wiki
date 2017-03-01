@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|圓}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|囗|睘|c1=s|c2=p|t1=circle|ls=psc}}.
+(This etymology is incorrect, can we instead use the etymology found on the French version of this page?)
+
+===Han character===
+{{Han char|rn=31|rad=囗|as=13|sn=16|four=60732|canj=WWLV|ids=⿴囗睘}}
+
+====References====
+* {{Han ref|kx=0221.120|dkj=04851|dj=0453.120|hdz=10726.160|uh=571C|ud=22300|bh=E947|bd=59719}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=huán
+|c=waan4
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[revolve]] around
+
+===Pronunciation 2===
+{{zh-pron
+|m=yuán
+|c=jyun4
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{alternative spelling of|圓|lang=zh}}
+# [[celestial body]]
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=囗13}}
+
+# {{defn|lang=ja|sort=囗13}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan), [[えん]] (en)|kun=[[めぐる]] (meguru), [[まるい]] (marui)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[원]], [[환]]|rv=won, hwan|mr=wŏn, hwan}}
+
+# {{defn|lang=ko|sort=囗13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[viên]]|rs=囗13}}
+
+# {{defn|lang=vi|sort=囗13}}
+
+[[fr:圜]]
+[[li:圜]]
+[[hu:圜]]
+[[mg:圜]]
+[[ja:圜]]
+[[pl:圜]]
+[[th:圜]]
+[[zh:圜]]

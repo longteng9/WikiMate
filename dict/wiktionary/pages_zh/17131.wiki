@@ -1,0 +1,61 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=09|sn=13|four=66027|canj=AAPV|ids=⿰日曷}}
+
+# [[sunstroke]]
+
+====References====
+* {{Han ref|kx=0498.090|dkj=14047|dj=0866.070|hdz=21523.140|uh=668D|ud=26253|bh=B77B|bd=46971}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yē
+|c=hot3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日09}}
+
+# sun-stroke
+
+====Readings====
+* {{ja-readings|on=[[えつ]] (etsu), [[おち]] (ochi), [[あつ]] (atsu), [[あち]] (achi)|kun=[[あつさあたり]] (atsusaatari)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=갈|rv=gal|mr=kal}}
+
+# [[sunstroke]]
+
+[[fr:暍]]
+[[hu:暍]]
+[[pl:暍]]
+[[th:暍]]
+[[vi:暍]]
+[[zh:暍]]

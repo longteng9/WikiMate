@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|辐}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=09|sn=16|four=51066|canj=JJMRW}}
+
+# the spokes of a wheel
+
+====References====
+* {{Han ref|kx=1246.270|dkj=38442|dj=1724.050|hdz=53543.110|uh=8F3B|ud=36667|bh=BFE7|bd=49127}}
+
+----
+
+==Chinese==
+{{zh-forms|s=辐}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fú
+|c=fuk1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|人煙輻輳|光輻射|天緣輻輳|太陽輻射|游離輻射|熱輻射|背景輻射|脫輻|衣冠輻湊|詭麗輻輳|車輻|車馬輻輳|輪輻|輻射|輻射塵|輻射治療|輻射滅菌|輻射熱|輻射病|輻射線|輻射能|輻射落塵|輻射計|輻條|輻湊|輻照|輻狀花冠|輻衡|輻輳}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=車09}}
+
+# {{defn|lang=ja|sort=車09}}
+
+====Readings====
+* {{ja-readings|on=[[ふく]] (fuku)|kun=[[や]] (ya)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[복]], [[폭]]|eumhun=|rv=bok, pok|mr=pok, p'ok|y=pok, phok}}
+
+# {{defn|lang=ko|sort=車09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''輻''' ([[phúc]], [[bức]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:輻]]
+[[hu:輻]]
+[[mg:輻]]
+[[ja:輻]]
+[[pl:輻]]
+[[th:輻]]
+[[zh:輻]]

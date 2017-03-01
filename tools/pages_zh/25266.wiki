@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=09|sn=15|four=44247|canj=TRSE|ids=⿱艹叚}}
+
+# [[reed]] plant
+
+====References====
+* {{Han ref|kx=1046.100|dkj=31449|dj=1507.110|hdz=53257.110|uh=846D|ud=33901|bh=B8B5|bd=47285}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology 1===
+====Pronunciation====
+{{zh-pron
+|m=jiā
+|c=gaa1
+|mn=ka
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[reed]] plant
+
+====Compounds====
+{{zh-der|吹葭|葭灰|葭莩|葭莩之末|葭莩之親|葭葦|蒹葭|蒹葭倚玉}}
+
+===Etymology 2===
+{{zh-see|笳|a}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸09}}
+
+# {{defn|lang=ja|sort=艸09}}
+
+====Readings====
+* {{ja-readings|goon=[[け]] (ke)|kanon=[[か]] (ka)|kun=[[あし]] (ashi), [[よし]] (yoshi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=가|eumhun=|rv=ga|mr=ka|y=ka}}
+
+# {{defn|lang=ko|sort=艸09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=艸09| hanviet = già}}
+
+# {{defn|lang=vi|sort=艸09}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=846d Nom Foundation]
+
+[[fr:葭]]
+[[ko:葭]]
+[[hu:葭]]
+[[mg:葭]]
+[[ja:葭]]
+[[pl:葭]]
+[[th:葭]]
+[[zh:葭]]

@@ -1,0 +1,54 @@
+{{also|区分}}
+==Chinese==
+{{zh-forms|s=区分}}
+
+===Pronunciation===
+{{zh-pron
+|m=qūfēn
+|c=keoi1 fan1
+|mn=qz,tw,xm:khu-hun/zz:khi-hun
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[differentiate]], to [[distinguish]] to [[set apart]]
+
+====Descendants====
+{{CJKV|區分|s=区分|くぶん|구분}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|く|ぶん|yomi=o}}
+
+===Noun===
+{{ja-noun|くぶん|shin=区分}}
+
+# [[division]]
+# [[classification]]
+
+===Verb===
+{{ja-verb-suru|くぶん|shin=区分}}
+
+# to [[divide]]
+# to [[classify]], to [[sort]]
+
+====Conjugation====
+{{ja-suru|くぶん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=구분}}
+
+# {{hanja form of|구분|category; classification; division}}
+
+[[zh-min-nan:區分]]
+[[ko:區分]]
+[[mg:區分]]
+[[ja:區分]]

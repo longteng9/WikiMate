@@ -1,0 +1,10 @@
+==Japanese==
+{{ja-kanjitab|けつ|k1=けっ|てい|き|k3=ぎ|yomi=ok|r=y}}
+
+===Etymology===
+{{compound|lang=ja|sort=けっていぎ|決定|tr1=kettei|t1=decision|木|tr2=ki|t2=tree}}
+
+===Noun===
+{{ja-noun|けっていぎ}}
+
+# {{lb|ja|computing|sort=けっていぎ}} [[decision tree]]

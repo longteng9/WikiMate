@@ -1,0 +1,52 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=06|sn=9|four=47462|canj=VNIR|ids=⿰女名}}
+
+====References====
+* {{Han ref|kx=0261.020|dkj=06237|dj=0527.070|hdz=21047.020|uh=59F3|ud=23027|bh=CE71|bd=52849}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=佲}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mīng
+|c=ming5
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-obsolete}} [[good]]
+
+===References===
+* {{R:twedu|C02087}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女06}}
+
+# {{defn|lang=ja|sort=女06}}
+
+====Readings====
+* {{ja-readings|on=[[べい]] (bei), [[みょう]] (myō)|kun=[[みめよい]] (mimeyoi)}}
+
+[[fr:姳]]
+[[ko:姳]]
+[[hu:姳]]
+[[pl:姳]]
+[[th:姳]]
+[[zh:姳]]

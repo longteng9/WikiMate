@@ -1,0 +1,62 @@
+{{also|评论}}
+==Chinese==
+{{zh-forms|s=评论}}
+
+===Pronunciation===
+{{zh-pron
+|m=pínglùn
+|c=ping4 leon6
+|mn=phêng-lūn
+|ma=y
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[comment]]; [[remark]]
+# [[review]]; [[discussion]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[comment]]; to [[remark]]
+# to [[review]]; to [[discuss]]
+
+====Derived terms====
+{{zh-der|評論家|評論員}}
+
+====Descendants====
+{{CJKV|評論|ひょうろん|평론|bình luận}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひょう|ろん|yomi=o}}
+
+===Noun===
+{{ja-noun|ひょうろん}}
+
+# [[criticism]], [[comment]]
+
+===Verb===
+{{ja-verb-suru|ひょうろん}}
+
+# to [[criticize]], to [[review]]
+
+====Compounds====
+* {{ja-r|評論家|ひょうろんか}}
+
+====Conjugation====
+{{ja-suru|ひょうろん}}
+
+[[zh-min-nan:評論]]
+[[ko:評論]]
+[[hu:評論]]
+[[mg:評論]]
+[[ja:評論]]
+[[tl:評論]]
+[[chr:評論]]
+[[zh:評論]]

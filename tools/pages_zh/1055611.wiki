@@ -1,0 +1,8 @@
+==Japanese==
+{{ja-kanjitab|表|計|算}}
+
+===Noun===
+{{ja-noun|ひょうけいさん}}
+
+# [[spreadsheet]] - [[manual]] [[calculation]] of digits in the grids
+# {{lb|ja|computing|sort=ひょうけいさん}} [[spreadsheet]] - [[automatic]] [[calculation]] of digits in the grids by using computer.

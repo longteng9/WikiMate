@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=11|sn=14|four=90027|canj=PILB|ids=⿰忄庸}}
+
+# [[indolent]], [[easygoing]], [[lazy]]
+
+====References====
+* {{Han ref|kx=0400.120|dkj=11144|dj=0740.070|hdz=42347.090|uh=6175|ud=24949|bh=BA48|bd=47688}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yōng,yóng
+|c=jung4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|意懶心慵|嬌慵|慵惰|心慵意懶|意慵心懶|偎慵墮懶|慵懶|乖慵|疏慵|疏慵愚鈍}}
+
+===References===
+* {{R:twedu|B01165}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心11}}
+
+# {{defn|lang=ja|sort=心11}}
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō), [[しょう]] (shō)|kun=[[ものうい]] (monoui)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=용|eumhun=|rv=yong|mr=yong|y=yong}}
+
+# {{defn|lang=ko|sort=心11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心11|hanviet=thuồng}}
+
+# {{defn|lang=vi|sort=心11}}
+
+[[fr:慵]]
+[[li:慵]]
+[[hu:慵]]
+[[mg:慵]]
+[[ja:慵]]
+[[pl:慵]]
+[[th:慵]]
+[[zh:慵]]

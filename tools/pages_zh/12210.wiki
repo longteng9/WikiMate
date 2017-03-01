@@ -1,0 +1,133 @@
+{{character info/new}}
+{{also|固|週}}
+
+==Translingual==
+{{stroke order|strokes=8}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=05|sn=8|four=77220|canj=BGR|ids=⿵⺆𠮷}}
+
+====Derived characters====
+* [[倜]] [[凋]] [[調]] ([[调]]) [[啁]] [[徟]] [[淍]] [[惆]] [[婤]] [[綢]] ([[绸]]) [[琱]] [[椆]] [[晭]] [[賙]] ([[赒]]) [[禂]] [[碉]] [[睭]] [[稠]] [[皗]] [[裯]] [[蜩]] [[輖]] ([[𫐏]]) [[錭]] [[鯛]] ([[鲷]]) [[騆]] [[㓮]] [[郮]] [[彫]] [[翢]] [[雕]] [[鵰]] ([[𫛲]]) [[奝]] [[霌]] [[週]]
+
+====References====
+* {{Han ref|kx=0181.360|dkj=03441|dj=0400.050|hdz=10606.030|uh=5468}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|週}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=zhōu
+|c=zau1
+|h=pfs=chû
+|md=ciŭ
+|mn=chiu
+|w=1tseu
+|mc=y
+|oc=y
+|ma=y
+|cat=n,pn,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[thorough]]; [[scrupulous]]; [[meticulous]]
+# to [[help]] [[financially]]
+# {{lb|zh|historical}} {{zh-div|朝}} [[Zhou]] [[dynasty|Dynasty]]
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|周全|周禮|岐周|不周|周情孔思|周室|圓周運動|周而不比|周邊|周邊設備|周章狼狽|周氏|不周山|周程張朱|周全方便|周晬|周內|四周|周天|周遊|周密|周詳|周遭|圓周|慮無不周|慮周行果|周置|周覽|周轉|周角|周給|周堂|周濟|周南|周事|周波|後周|周行|周急|周道|周急繼乏|周而復始|周公吐哺|周章|不周風|周延|周緣|寬打周遭|如所周知|宛轉周折|二周|周期彗星|宗周鐘|宗周|夢周公|周正|圓周率|周易|不周到|嫠憂宗周|周旋|周方|周忌|不周延|大費周章|周備|周匝|周圍|周口店|周遍|周遮|周髀|圓周角|周郎癖|周旋到底|八步周行|周朝|周郎顧曲|周頌|周郎|周轉不靈|周身|周誥|周衛|周浹|周流|周折|周恤|周官|周召共和|周召|周原|周年|北周|周至|周書|周到|周率|大費周折|伊周|光周期|不食周粟|假意周旋|周年視差|成周|眾所周知|會合周期|朋黨比周|比周|牙周病|深文周納|禮數周到|智周|白馬歸周|煞費周章|東周|有周|新聞周刊|譙周獨笑|西周|顧曲周郎|試周|逸周書|費周章|莊周夢蝶}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=口05}}
+
+# [[circumference]]
+# [[circuit]]
+# [[lap]]
+
+====Readings====
+{{ja-readings|goon=[[しゅ]] (shu), [[す]] (su)|kanon=[[しゅう]] (shū)|kun=[[まわり]] (mawari), [[あまねし]] (amaneshi), [[めぐる]] (meguru)}}
+
+====Compounds====
+* {{ja-r|周南|^しゅうなん|[[w:Shūnan|Shūnan]]}}
+* {{ja-r|周波数|しゅうはすう}}: [[frequency]]
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|しゅう|yomi=o}}
+
+===Etymology===
+From {{etyl|sort=しゅう|ltc|ja}} {{m|zh|周|tr=tsyuw}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|しゅう|acc=1|acc_ref=DJR,NHK}}
+
+===Counter===
+{{ja-pos|counter|しゅう|hhira=しう}}
+
+# [[lap]]s or [[circuit]]s
+
+===Proper noun===
+{{ja-pos|proper|しゅう|hhira=しう}}
+
+# [[Zhou]]
+
+===Proper noun===
+{{ja-pos|proper|まこと}}
+
+# {{given name|male|lang=ja|sort=まこと}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[주]]|rv=ju|mr=chu}}
+
+# {{defn|lang=ko|sort=口05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chu]], [[châu]]|rs=口05}}
+
+# {{defn|lang=vi|sort=口05}}
+
+[[zh-min-nan:周]]
+[[be:周]]
+[[es:周]]
+[[fr:周]]
+[[ko:周]]
+[[lt:周]]
+[[li:周]]
+[[hu:周]]
+[[mg:周]]
+[[fj:周]]
+[[ja:周]]
+[[no:周]]
+[[pl:周]]
+[[ru:周]]
+[[ta:周]]
+[[th:周]]
+[[chr:周]]
+[[tr:周]]
+[[uk:周]]
+[[zh:周]]

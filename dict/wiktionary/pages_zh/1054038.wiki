@@ -1,0 +1,14 @@
+==Japanese==
+{{ja-kanjitab|が|ぞう|しょ|り|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|sort=がぞうしょり|画像|tr1=gazō|t1=image|処理|tr2=shori|t2=processing}}
+
+===Noun===
+{{ja-noun|がぞうしょり}}
+
+# [[image processing]]
+
+[[Category:ja:Computer graphics|かぞうしょり']]
+
+[[zh:画像処理]]

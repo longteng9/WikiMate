@@ -1,0 +1,99 @@
+{{character info/new}}
+{{also|稲}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=10|sn=15|four=22977|canj=HDBHX|ids=⿰禾舀}}
+
+====References====
+* {{Han ref|kx=0857.290|dkj=25216|dj=1283.090|hdz=42624.110|uh=7A3B|ud=31291|bh=BD5F|bd=48479}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|禾|舀|c1=s|c2=p|ls=psc|t1=grain, cereal, rice}}.
+
+===Etymology===
+Area word (rice culture originated in the south). Often compared with {{cog|hmx-pro|*mbləu||rice plant/paddy}}, whence {{cog|mww|nplej}}.
+
+The relationship with similar-looking Mon-Khmer words is ambiguous; compare {{cog|vi|lúa||paddy rice}}.
+
+===Pronunciation===
+{{zh-pron
+|m=dào
+|c=dou6
+|md=dô̤/dêu
+|md_note=dô̤ - literary; dêu - colloquial (possibly unrelated, written as {{zh-l|粙}})
+|mn=tō/tiū
+|mn_note=tō - literary; tiū - colloquial (possibly unrelated, written as {{zh-l|粙}})
+|w=3dau
+|mc=y
+|oc=y
+|ma=
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[paddy]], [[rice]] {{gloss|''[[Oryza sativa]]''}}
+# {{surname|lang=zh}}
+
+====Synonyms====
+* {{qualifier|Cantonese|Hakka|Gan|Min Zhong}} {{zh-l|*禾}}
+* {{qualifier|Min Dong|Min Nan}} {{zh-l|*粙}}
+* {{qualifier|Min Nan}} {{zh-l|稻仔}}
+
+====Compounds====
+{{zh-der|稻苞蟲|稻草|稻草人|稻穀|稻蝗|稻糠|稻殼|稻米|稻穗|稻田|稻瘟病|稻秧|稻仔|割稻仔|割稻仔尾|斬稻仔尾|佈稻仔|稻埕|大稻埕|稻梁菽麥黍粟}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=禾10|style=ky|shin=稲}}
+
+# {{defn|lang=ja|sort=禾10}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō)|kun=[[いね]] (ine)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=도|eumhun=|rv=do|mr=to|y=to}}
+
+# {{defn|lang=ko|sort=禾10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đạo]]|rs=禾10}}
+
+# {{defn|lang=vi|sort=禾10}}
+
+[[zh-min-nan:稻]]
+[[fr:稻]]
+[[ko:稻]]
+[[lo:稻]]
+[[hu:稻]]
+[[mg:稻]]
+[[nl:稻]]
+[[ja:稻]]
+[[no:稻]]
+[[pl:稻]]
+[[pt:稻]]
+[[ru:稻]]
+[[sm:稻]]
+[[th:稻]]
+[[chr:稻]]
+[[zh:稻]]

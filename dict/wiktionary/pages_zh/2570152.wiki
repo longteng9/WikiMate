@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xíngshì
+|c=jing4 sik1
+|h=pfs=hìn-sṳt
+|mn=qz:hêng-siak/tw,xm:hêng-sek/zz:hêng-sit
+|ma=y
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[form]] {{gloss|visible shape}} {{zh-mw|個}}
+# form {{gloss|as opposed to content}} {{zh-mw|個}}
+
+====Antonyms====
+* {{zh-l|內容}}
+
+====Derived terms====
+{{zh-der|黏附形式|生命形式|形式邏輯|形式主義}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[formal]] {{gloss|concerned with outward form, as opposed to content}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|けい|しき|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|けいしき|acc=0|dev=3|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|けいしき}}
+
+# [[format]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|ソナタ形式|ソナタけいしき}}: [[sonata form]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[zh-min-nan:形式]]
+[[ko:形式]]
+[[lo:形式]]
+[[hu:形式]]
+[[mg:形式]]
+[[ja:形式]]
+[[chr:形式]]
+[[uk:形式]]
+[[zh:形式]]

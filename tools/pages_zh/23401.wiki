@@ -1,0 +1,122 @@
+{{character info/new}}
+{{also|维}}
+==Translingual==
+[[File:Jiao-si-pang-wei.png|48px|right|border]]
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=08|sn=14|four=20914|canj=VFOG|ids=⿰糹隹}}
+
+====Derived terms====
+* {{l|mul|羅}}
+
+====Descendants====
+* [[维]]
+
+====References====
+* {{Han ref|kx=0927.150|dkj=27568|dj=1364.220|hdz=53415.050|uh=7DAD|ud=32173|bh=BAFB|bd=47867}}
+
+----
+
+==Chinese==
+{{zh-forms|s=维}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|糸|t1=thread|隹|c1=s|c2=p|ls=psc|no_och2=1}} – to tie fast, to maintain.
+
+The original pronunciation of {{och-l|隹|tr=*ɢʷi}} was lost after the classical period, but can still be seen in other characters of the phonetic series:
+* {{och-l|惟|to think}},
+* {{och-l|唯|only}},
+* {{och-l|雖|although}},
+* {{och-l|帷|curtain, screen}} and
+* {{och-l|淮|Huai River}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=wéi
+|c=wai4
+|h=pfs=vì
+|md=mì
+|mn=ûi/qz,tw:î/xm,zz:bî
+|mn_note=ûi - literary; î/bî - vernacular
+|w=3vi
+|mc=y
+|oc=y
+|cat=v,n,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[tie]]; to [[fasten]]; to [[tie up]]
+# {{†}} to [[link]]; to [[connect]]
+# to [[hold]] together; to [[maintain]]; to [[preserve]]; to [[safeguard]]
+#: {{zh-x|維持|to maintain}}
+# {{†}} [[thick]] [[rope]] for [[tying]] objects; [[cord]]
+# {{†}} [[corner]]; [[nook]]; [[recess]]
+# {{†}} [[net]]; [[mesh]]; [[netting]]
+# {{lb|zh|geometry}} [[dimension]]
+# {{†}} [[order]]; [[law]]; [[outline]]
+# {{†}} [[long]] and [[thin]] object; [[fibre]]; [[string]]
+#: {{zh-x|纖維|fibre}}
+# {{†}} {{zh-alt-form|惟|to [[think]]; to [[contemplate]]}}
+# {{†}} {{zh-alt-form|唯|[[only]]}}
+# {{†}} {{zh-alt-form|惟|''meaningless particle of interjection''}}
+# {{zh-abbrev|維生素|[[vitamin]]}}
+# {{zh-abbrev|維吾爾|[[Uyghur]]}}
+# {{surname|lang=zh}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=yōng
+|c=jung1
+|dial=n
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{zh-only|盧維|ancient [[river]] in the {{w|Yan Province}}}}
+
+===Compounds===
+{{zh-der|三維空間|伏維尚饗|八維|創業維艱|哈維|四維|國維|地維|坤維|塞爾維亞|孟什維克|屋大維|巴勒維|思維|恭維|恭維話|我武維揚|拉脫維亞|明治維新|步履維艱|物力維艱|玻利維亞|百日維新|睢維|維也納|維京人|維他命|維修|維多米|維天之命|維妙維肖|維持|維摩經|維摩詰|維斗|維新|維新圖強|維新運動|維清|維生|維生素|維管束|維納斯|維縶|維繫|維艱|維護|維那|綱維|縶維|纖維|臭恭維|臺維斯杯|舉步維艱|蘇維埃|進退維谷|維基}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=糸08}}
+
+# {{defn|lang=ja|sort=糸08}}
+
+====Readings====
+* {{ja-readings|goon=[[ゆい]] (yui) {{non-joyo-reading}}|kanon=[[い]] (i)|kun=[[つな]] (tsuna), [[つなぐ]] (tsunagu), [[これ]] (kore)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[유]]|eumhun=|rv=yu|mr=yu|y=yu}}
+
+# {{defn|lang=ko|sort=糸08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[duy]]|rs=糸08}}
+
+# {{defn|lang=vi|sort=糸08}}
+
+[[fr:維]]
+[[ko:維]]
+[[hu:維]]
+[[mg:維]]
+[[ja:維]]
+[[pl:維]]
+[[th:維]]
+[[zh:維]]

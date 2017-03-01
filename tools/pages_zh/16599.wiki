@@ -1,0 +1,129 @@
+{{character info/new}}
+{{also|扑|攴}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=12|sn=15|four=52034|canj=QTCO|ids=⿰扌菐}}
+
+# [[pound]], [[beat]], [[strike]]
+# [[attack]]
+
+====References====
+* {{Han ref|kx=0457.020|dkj=12755|dj=0805.180|hdz=31956.040|uh=64B2|ud=25778|bh=BCB3|bd=48307}}
+
+----
+
+==Chinese==
+{{zh-forms|s=扑}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|菐|c1=s|c2=p|t1=hand|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=pū
+|c=puk1,pok3
+|h=pfs=phu
+|md=
+|mn=phok
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=手12}}
+
+# to [[beat]], to [[strike]]
+
+====Readings====
+{{ja-readings
+|goon=[[ほく]] (hoku) {{non-joyo-reading}}
+|kanon=[[ほく]] (hoku) {{non-joyo-reading}}
+|kanyoon=[[ぼく]] (boku)
+|kun=[[うつ]] ([[撲つ]], utsu) {{non-joyo-reading}}
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* [[大相撲]]
+* [[相撲]]
+* [[打撲]]
+* [[相撲取り]]
+* [[撲滅]]
+* [[アマ相撲]]
+* [[引退相撲]]
+* [[腕相撲]]
+* [[押し相撲]]
+* [[勧進相撲]]
+* [[草相撲]]
+* [[子供相撲]]
+* [[御当地相撲]]
+* [[神事相撲]]
+* [[節会相撲]]
+* [[台覧相撲]]
+* [[天覧相撲]]
+* [[電車道相撲]]
+* [[花相撲]]
+* [[独り相撲]]
+* [[奉納相撲]]
+{{der-mid}}
+* [[前相撲]]
+* [[水入りの相撲]]
+* [[指相撲]]
+* [[四つ相撲]]
+* [[腕白相撲]]
+* [[皆相撲が好き]]
+* [[大相撲さん]]
+* [[相撲にならない]]
+* [[日本相撲協会]]
+* [[撲殺]]
+* [[相撲字]]
+* [[打撲傷]]
+* [[相撲甚句]]
+* [[相撲部屋]]
+* [[相撲文字]]
+* [[国際相撲連盟]]
+* [[日本相撲連盟]]
+* [[相撲庭]]
+* [[撲天鵬]]
+* [[撲風]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[박]], [[복]]|eumhun=|rv=bak, bok|mr=pak, pok|y=pak, pok}}
+
+# {{defn|lang=ko|sort=手12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[vục]], [[buộc]], [[phác]], [[phốc]], [[vọc]]|rs=手12}}
+
+# {{defn|lang=vi|sort=手12}}
+
+[[fr:撲]]
+[[ko:撲]]
+[[li:撲]]
+[[hu:撲]]
+[[ja:撲]]
+[[pl:撲]]
+[[th:撲]]
+[[zh:撲]]

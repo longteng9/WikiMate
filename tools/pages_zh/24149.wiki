@@ -1,0 +1,49 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=128|rad=耳|as=04|sn=10|four=14132|canj=SJKI|ids=⿰耳厷}}
+
+# [[deafness]]
+
+====References====
+* {{Han ref|kx=0966.130|dkj=29025|dj=1414.150|hdz=42784.140|uh=803E|ud=32830|bh=D367|bd=54119}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=hóng
+|c=wang4
+|mn=hông
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=耳04}}
+
+# {{defn|lang=ja|sort=耳04}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[おう]] (ō)|kun=[[ささやく]] (sasayaku)|nanori=}}
+
+[[fr:耾]]
+[[hu:耾]]
+[[pl:耾]]
+[[th:耾]]
+[[zh:耾]]

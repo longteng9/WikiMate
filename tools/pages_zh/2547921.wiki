@@ -1,0 +1,27 @@
+{{also|扩散|擴散}}
+==Japanese==
+{{ja-kanjitab|かく|さん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|かくさん|yomi=o}}
+
+===Noun===
+{{ja-noun|かくさん|kyu=擴散}}
+
+# [[diffusion]], [[scattering]], [[spread]]
+#: {{ja-usex|核'''拡散'''は深刻な軍事上の脅威である。|かく '''かくさん''' は しんこく な ぐんじじょう の きょうい で ある。|Nuclear '''proliferation''' poses a serious military threat.}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|かくさん}}
+
+# to [[scatter]], to [[spread]] {{rfex|ja}}
+
+====Conjugation====
+{{ja-suru|かくさん}}
+
+[[ko:拡散]]
+[[hu:拡散]]
+[[mg:拡散]]
+[[ja:拡散]]
+[[chr:拡散]]
+[[zh:拡散]]

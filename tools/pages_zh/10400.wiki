@@ -1,0 +1,178 @@
+{{character info/new}}
+
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=1|rad=一|as=04|sn=5|four=44717|canj=PT|ids=⿻廿𠃊}}
+
+====Descendants====
+* [[せ]]
+* [[セ]]
+
+===References===
+* {{Han ref|kx=0077.110|dkj=00031|dj=0155.020|hdz=10014.060|uh=4E16|ud=19990|bh=A540|bd=42304}}
+
+[[Category:Han characters from which hiragana were derived|せ]]
+[[Category:Han characters from which katakana were derived|セ]]
+
+----
+
+==Chinese==
+{{zh-forms|alt=丗,卋,㔺}}
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|p}} – three leaves on a branch. The derivative {{och-l|葉}} refers to the original word.
+
+===Etymology===
+{{och-l|世}} is derived from iterative devoicing of {{och-l|葉|leaf}} + *''-s'' suffix, meaning successive foliages of a tree > generations. Compare {{cog|bo|ལོ་མ||leaf}}, Western {{cog|bo|ལོབ་མ||leaf}} and {{cog|bo|ལོ||year}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shì
+|c=sai3
+|h=pfs=sṳ
+|md=sié
+|mn=qz,tw,xm:sè/sì
+|mn_note=sè - literary; sì - literary (Zhangzhou); sì - vernacular
+|w=2sr
+|mc=y
+|oc=y
+|cat=n,cls,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[generation]]
+#: {{zh-x|世代|generation}}
+# for many [[generation]]s; spanning many generations
+# [[era]]; [[period]]; [[time]]; [[epoch]]
+# [[dynasty]]; [[regime]]
+# [[year]]; [[age]]
+# {{zh-classifier|the time of one's life}}
+#: {{zh-x|一生一世|a lifetime, all of one's life}}
+# [[world]]; [[earth]]; [[people]] in the world
+#: {{zh-x|世界|world}}
+# [[worldly]]; [[profane]]; [[secular]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|一世|一世界|三世|三世佛|上世|上新世|下世|不世|不世出|不偶世|世上|世主|世事|世交|世人|世仇|世代|世伯|世侄|世俗|世傳|世儒|世兄|世典|世務|世及|世叔|世味|世好|世婦|世子|世家|世尊|世局|世居|世弟|世德|世恩錄|世情|世態|世故|世教|世族|世業|世母|世法|世父|世牒|世界|世界報|世界性|世界級|世界觀|世界語|世系|世紀|世紀末|世綵堂|世胄|世胙|世臺|世表|世襲|世親|世誼|世講|世譜|世路|世運|世道|世醫|世間|世面|世風|並世|中世|中世紀|中新世|亂世|二世|人世|今世|今世說|來世|傲世|傳世|傾世|元世祖|先世|入世|全世界|再世|再世交|出世|出世作|前世|創世紀|勸世|包世臣|化世|半世|即世|厭世|厭世觀|去世|叔世|古新世|名世|命世|命世才|問世|器世間|嚴世蕃|在世|塵世|夷世|奕世|媚世|季世|安世高|家世|宿世|就世|希世|平世|幻世|度世|張世傑|後世|後半世|徐世昌|御世|慢世|憤世|應世|戴名世|故世|救世|救世主|救世軍|新世界|新世紀|明世|時世|晚世|晻世|暮世|曠世|末世|末世論|李世民|棄世|永世|沒世|治世|泉世|洪積世|浮世|浮世繪|涉世|淑世|清世|清世宗|清世祖|渾世|滿世界|滿世間|濁世|濟世|王世貞|玩世|現世|現世報|現世寶|現世界|用世|當世|百世|百世師|盛世|盡世|矯世|萬世|稀世|立世|累世|絕世|經世|緯世|繫世|老世交|背世|舉世|華胥世|蓋世|處世|虞世南|衰世|袁世凱|見世報|見世面|覺世|觀世音|謝世|警世|警世鐘|跨世紀|身世|轉世|辟世|辭世|近世|近世史|逃世|逝世|逢世|遁世|過世|遯世|遺世|避世|邁世|邪世|郎世寧|醒世|重世|長世|閱世|阿闍世|降世|陰世|陽世|隔世|離世|面世|韓世忠|高世|高世志}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=一04}}
+
+====Readings====
+* {{ja-readings|goon=[[せ]] (se)|kanon=[[せい]] (sei)|kun=[[よ]] (yo)}}
+
+====Compounds====
+* [[世界]] (せかい, sekai)
+* [[世紀]] (せいき, seiki)
+* [[世辞]] (せじ, seji)
+* [[永世]] (えいせい, eisei)
+* [[救世主]] (きゅうせいしゅ, kyūseishu)
+* [[創世記]] (そうせいき, sōseiki)
+* [[創世期]] (そうせいき, sōseiki)
+* [[新世界]] (しんせかい, shinsekai)
+
+===Counter===
+{{ja-pos|せい|counter}}
+
+# [[generation]]s
+
+===Noun===
+{{ja-noun|よ}}
+
+# [[world]], [[society]]
+# [[generation]], [[age]]
+
+===Suffix===
+{{ja-pos|せい|suffix}}
+
+# {{lb|ja|geology|sort=せい}} [[epoch]]
+
+[[Category:Han characters from which katakana were derived|セ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=세|rv=se|mr=se|y=sey|eumhun=인간|ehrv=in-gan|ehmr=in'gan|ehy=}}
+
+# {{defn|lang=ko|sort=一04}}
+
+===References===
+* {{Hanja ref|nav=10081}}
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{head|ryu|kanji}}
+
+* {{ja-readings|kun=[[ゆー]] (yū)|on=[[し]] (shi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* [[アメリカ世]] ([[アメリカゆー]], ''[[amerikayū]]''): [[American]] [[era]] or rule over the Okinawan Islands
+* [[戦世]] ([[いくさゆー]], ''[[ikusayū]]''): [[wartime]], [[war]] [[era]], [[war]] [[period]]
+* [[世界]] ([[しけー]], ''[[shikē]]''): [[world]], [[society]]
+* [[大和世]] ([[やまとぅゆー]], ''[[yamatuyū]]''): [[Japanese]] [[era]] or rule over the Okinawan Islands
+{{der-bottom}}
+
+===Etymology===
+Cognate with mainland {{cog|ja|世|tr=yo}}.
+
+===Pronunciation===
+* {{IPA|/juː/|lang=ryu}}
+
+===Noun===
+{{head|ryu|noun|hiragana|ゆー|romaji|yū}}
+
+# [[age]], [[era]], [[period]], [[time]]; [[rule]]
+# [[world]], [[society]]
+
+====Derived terms====
+* {{l|ryu|アメリカ世}} ([[アメリカゆー]], ''[[amerikayū]]''): [[American]] [[era]] or rule over the Okinawan Islands
+* {{l|ryu|戦世}} ([[いくさゆー]], ''[[ikusayū]]''): [[wartime]], [[war]] [[era]], [[war]] [[period]]
+* {{l|ryu|大和世}} ([[やまとぅゆー]], ''[[yamatuyū]]''): [[Japanese]] [[era]] or rule over the Okinawan Islands
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thế]], [[thá]], [[thé]], [[thể]]|rs=一04}}
+
+# {{defn|lang=vi|sort=一04}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e16 Nom Foundation]
+
+[[zh-min-nan:世]]
+[[cs:世]]
+[[et:世]]
+[[fr:世]]
+[[ko:世]]
+[[id:世]]
+[[it:世]]
+[[hu:世]]
+[[mg:世]]
+[[ms:世]]
+[[nl:世]]
+[[ja:世]]
+[[no:世]]
+[[pl:世]]
+[[ru:世]]
+[[th:世]]
+[[uk:世]]
+[[vi:世]]
+[[zh:世]]

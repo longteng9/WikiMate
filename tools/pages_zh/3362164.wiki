@@ -1,0 +1,36 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gòngshù
+|mn=kiong-su̍t
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[statement]], [[testimony]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|きょう|じゅつ|yomi=on}}
+
+===Noun===
+{{ja-noun|きょうじゅつ}}
+
+# [[affidavit]], [[testimony]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|きょうじゅつ}}
+
+# [[depose]], give a [[statement]]
+#: {{ja-usex|自己の実験した事実を供述する|じこ の じっけん した じじつ を きょうじゅつ する|give a statement of the facts that one knows}}
+
+====Conjugation====
+{{ja-suru|きょうじゅつ}}
+
+[[ko:供述]]
+[[zh:供述]]

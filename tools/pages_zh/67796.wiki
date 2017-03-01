@@ -1,0 +1,88 @@
+{{also|监督}}
+==Chinese==
+{{zh-forms|s=监督}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiāndū
+|c=gaam1 duk1
+|h=pfs=kam-tuk
+|mn=kàm-tok/xm,zz:kam-tok
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+# [[supervision]], [[overseeing]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[supervise]]; to [[superintend]]
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|とく|yomi=on}}
+
+===Noun===
+{{ja-noun|かんとく}}
+
+# [[director]], [[supervisor]], [[manager]], [[superintendent]]
+#: {{ja-usex|キューブリック監督の映画|キューブリック かんとく の えいが|A film directed by Mr. Kubrick}}
+#: {{ja-usex|野球チームの監督|やきゅう チーム の かんとく|A manager of a baseball team}}
+# [[direction]], [[supervision]], [[control]]
+#: {{ja-usex|~の監督の下に|~ の かんとく の もと に|under the direction/supervision of}}
+#: {{ja-usex|試験の監督をする|しけん の かんとく を する|to supervise an exam}}
+
+====Synonyms====
+* {{ja-r|ディレクター}}: [[director]]
+
+====Derived terms====
+{{top2}}
+* {{ja-r|映画監督|えいが かんとく}}: movie director
+* {{ja-r|監督官|かんとくかん}}: director
+* {{ja-r|監督教会|かんとく きょうかい}}: director association
+{{mid2}}
+* {{ja-r|監督者|かんとくしゃ}}: manager
+* {{ja-r|現場監督|げんば かんとく}}: field foreman
+* {{ja-r|奴隷監督|どれい かんとく}}: slave driver
+{{bottom}}
+
+====Related terms====
+* {{ja-r|事務総長|じむ そうちょう}}: head of a department; secretary general
+
+===Verb===
+{{ja-verb-suru|tr=trans|かんとく}}
+
+# to [[direct]]; to [[supervise]]; to [[manage]]
+#: {{ja-usex|子供を'''監督'''する|こども を '''かんとく'''する|to '''supervise''' children}}
+
+====Conjugation====
+{{ja-suru|かんとく}}
+
+===References===
+* {{R:Shogakukan}}
+* {{R:Kojien}}
+* {{R:Meikyo}}
+
+----
+
+==Korean==
+{{ko-hanjatab|監|督}}
+
+===Noun===
+{{ko-noun|rv=gamdok|hangeul=감독}}
+
+# {{hanja form of|감독|direction, supervision}}
+
+[[zh-min-nan:監督]]
+[[ko:監督]]
+[[hu:監督]]
+[[mg:監督]]
+[[ja:監督]]
+[[sv:監督]]
+[[chr:監督]]
+[[zh:監督]]

@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=不hǎo
+|m-s=bu2hao3
+|c=bat1 hou2
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[bad]]; not [[good]]
+#: {{zh-x|我 的 ^日語 不好。|My Japanese is '''not good'''.}}
+# [[inappropriate]]
+# [[ill]]
+
+=====Synonyms=====
+* {{sense|bad}} {{zh-l|不善}}, {{zh-l|差}}, {{zh-l|差勁}}
+* {{sense|inappropriate}} {{zh-l|不便}}
+* {{sense|ill}} {{zh-l|生病}}, {{zh-l|不適}}
+
+====Noun====
+{{zh-noun}}
+
+# [[fault]]
+#: {{zh-x|這 不是 我 的 不好。|This is not my '''fault'''.}}
+
+=====Synonyms=====
+* {{zh-l|錯}}
+
+===Pronunciation===
+{{zh-pron
+|m=不hào
+|c=bat1 hou3
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[dislike]]; to be [[uninterested]] in
+
+[[ko:不好]]
+[[fi:不好]]
+[[zh:不好]]

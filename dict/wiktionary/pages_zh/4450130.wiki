@@ -1,0 +1,49 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|お|こ}}
+{{IPAchar|/woko/}} → {{IPAchar|/oko/}}
+
+From {{etyl|ojp|ja|sort=おこ}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> The {{lang|ja|尾籠}} spelling is [[ateji]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|おこ|acc=1|acc_ref=DJR}}
+
+====Adjective====
+{{ja-adj|infl=na|おこ|hhira=をこ}}
+
+# {{alternative spelling of|lang=ja|痴}}: [[absurd]], [[foolish]]; [[indecent]], [[indelicate]]
+
+====Noun====
+{{ja-noun|おこ|hhira=をこ}}
+
+# {{alternative spelling of|lang=ja|痴}}: [[foolishness]], [[stupidity]]; [[indecency]], [[indelicateness]]
+
+===Etymology 2===
+{{ja-kanjitab|び|ろう|yomi=on}}
+Change in reading from the ''[[kun'yomi]]'' of ''oko'' to the ''[[on'yomi]]'' of ''birō''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|びろう|acc=0|acc_ref=DJR}}
+
+====Adjective====
+{{ja-adj|decl=な|びろう}}
+
+# [[careless]], [[thoughtless]], [[rude]], [[improper]]
+# [[shameful]], [[dishonorable]]
+# [[obscene]]
+# [[dirty]], [[impure]] {{qualifier|with regard to moral character}}
+
+=====Inflection=====
+{{ja-na|びろう}}
+
+====Noun====
+{{ja-noun|びろう}}
+
+# [[carelessness]], [[thoughtlessness]], [[rudeness]], [[impropriety]]
+# [[shamefulness]], [[dishonor]]
+# [[obscenity]]
+# [[dirtiness]], [[impurity]] {{qualifier|with regard to moral character}}
+
+===References===
+<references/>
