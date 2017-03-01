@@ -1,0 +1,147 @@
+{{also|海獭}}
+==Chinese==
+{{zh-forms|s=海獭}}
+
+===Pronunciation===
+{{zh-pron
+|m=hǎitǎ,háitǎ
+|c=hoi2 caat3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[sea otter]]
+
+===Descendants===
+* Korean: {{ko-l|해달}}
+
+{{zh-cat|Mustelids}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|sort=らっこ|yomi=irr}}
+{{bor|ja|ain|sort=らっこ|ラッコ|tr=rakko|t=otter}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> The kanji spelling is from {{der|ja|sort=らっこ|zh|海獺}}, and is {{juku|sort=らっこ}}.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|らっこ|acc=0|acc_ref=DJR|acc2=1|acc2_ref=DJR}}
+
+====Alternative forms====
+* {{l|ja|猟虎}}, {{l|ja|獺虎}}
+
+====Noun====
+{{ja-noun|らっこ|ラッコ}}
+
+# a [[sea otter]]
+
+=====Usage notes=====
+{{U:ja:biology|ラッコ}}
+
+=====See also=====
+* {{ja-r|獺|うそ}}: an [[otter]] {{qualifier|usually refers to a river otter, but can also refer to a sea otter; ''rakko'' is more common for a sea otter}}
+* {{ja-r|川獺|かわうそ}}: a [[river]] [[otter]]
+
+===Etymology 2===
+{{ja-kanjitab|うみ|うそ|yomi=k}}
+Compound of {{compound|ja|sort=うみうそ|海|tr1=umi|t1=sea|獺|tr2=uso|t2=otter}};<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> see {{m|ja|川獺|tr=kawauso}}. Possibly from the superficial similarities between sea otters and (particularly young) sea lions.
+
+====Pronunciation====
+{{ja-pron|yomi=k|うみうそ|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|うみうそ}}
+
+# {{lb|ja|archaic|sort=うみうそ}} a [[sea lion]]
+
+=====Synonyms=====
+* {{ja-r|海驢|あしか}}, {{ja-r|葦鹿|あしか}}
+
+=====Usage notes=====
+The term {{m|ja|海驢|tr=ashika}} is much more common for the {{m|en|sea lion}} sense.
+
+=====See also=====
+* {{ja-r|海豹|あざらし}}: a [[seal]]
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|うみ|おそ}}
+{{IPAchar|/umiwoso/}} → {{IPAchar|/umioso/}}
+
+Rare variant of ''umiuso'' above.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> May be the original form.
+
+====Pronunciation====
+{{ja-pron|yomi=k|うみおそ}}
+
+====Noun====
+{{ja-noun|うみおそ|hhira=うみをそ}}
+
+# {{lb|ja|sort=うみおそ|rare}} a [[sea lion]]
+
+===Etymology 4===
+{{ja-kanjitab|かい|たつ|yomi=o}}
+
+From {{etyl|ltc|ja|sort=かいたつ}} {{m|zh|海獺|tr=xoj<sup>X</sup> that|lit=sea + otter}}. Compare modern {{etyl|yue|-}} reading ''hoi<sup>2</sup> caat<sup>3</sup>''.
+
+Note that the meaning diverged in Japanese from the original Chinese sense. See ''umiuso'' above for more.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|かいたつ}}
+
+====Noun====
+{{ja-noun|かいたつ}}
+
+# {{lb|ja|sort=かいたつ|rare|zoology}} a [[sea lion]]
+# {{lb|ja|sort=かいたつ|rare|zoology}} a [[seal]]
+
+=====Synonyms=====
+* {{sense|sea lion}} {{ja-r|海驢|あしか}}, {{ja-r|葦鹿|あしか}}
+* {{sense|seal}} {{ja-r|海豹|あざらし}}
+
+=====Usage notes=====
+The term {{m|ja|海驢|tr=ashika}} is much more common for the {{m|en|sea lion}} sense. The term {{m|ja|海豹|tr=azarashi}} is much more common for the {{m|en|seal}} sense.
+
+===Etymology 5===
+{{ja-kanjitab|yomi=o|かい|だつ}}
+Rare variant of ''kaitatsu'' above, using the {{m|ja|慣用音|tr=kan'yōon}} of ''datsu'' for the {{m|ja|獺}} character.
+
+====Pronunciation====
+{{ja-pron|yomi=o|かいだつ}}
+
+====Noun====
+{{ja-noun|かいたつ}}
+
+# {{lb|ja|sort=かいたつ|very|_|rare|zoology}} a [[sea lion]]
+# {{lb|ja|sort=かいたつ|very|_|rare|zoology}} a [[seal]]
+
+=====Synonyms=====
+* {{sense|sea lion}} {{ja-r|海驢|あしか}}, {{ja-r|葦鹿|あしか}}
+* {{sense|seal}} {{ja-r|海豹|あざらし}}
+
+=====Usage notes=====
+The term {{m|ja|海驢|tr=ashika}} is much more common for the {{m|en|sea lion}} sense. The term {{m|ja|海豹|tr=azarashi}} is much more common for the {{m|en|seal}} sense.
+
+===References===
+<references/>
+
+[[Category:ja:Mustelids|らっこ]]
+[[Category:ja:Eared seals|うみうそ]]
+[[Category:ja:Eared seals|かいたつ]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=해달|mr=haedal|y=hāytal}}
+
+# {{hanja form of|해달|[[sea otter]]}}
+
+[[zh-min-nan:海獺]]
+[[fr:海獺]]
+[[ja:海獺]]
+[[ro:海獺]]
+[[chr:海獺]]

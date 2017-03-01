@@ -1,0 +1,66 @@
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|愚|人}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yúrén
+|c=jyu4 jan4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[fool]], [[simpleton]]
+#* '''18th century''', Cao Xueqin, ''Dream of the Red Chamber'', [[s:zh:紅樓夢/第065回|chapter 65 (in Chinese)]]:
+#*: {{zh-x|尤二姐 滴淚 說道：“你們 拿 我 作 '''愚人''' 待， 什么 事 我 不 知。|Second Sister You said with tears dripping, “You treat me like a '''fool'''. Whatever it is, I do not know.}}
+#* '''Tang Dynasty''', 毛诗序, ''诗经‧小雅‧鸿雁之什‧鸿雁'', [[s:zh:诗经/鸿雁|third line (in Chinese)]]:
+#*: {{zh-x|鴻雁 于 飛、哀鳴 嗷嗷。維 此 哲人、謂 我 劬勞。維 彼 '''愚人'''、謂 我 宣驕。|The wild geese are flying about, and melancholy is their cry of ao-ao. There were they, wise men, who recognized our pain and toil; If they had been '''stupid men''', They would have said we were proclaiming our insolence.}}
+
+====Synonyms====
+* {{zh-l|白癡}}
+* {{zh-l|傻子}}
+** (''Cantonese'') {{zh-l|傻仔}}
+* {{zh-l|笨蛋}}
+* {{zh-l|蠢人}}
+* {{zh-l|低能}}, {{zh-l|低能兒}}
+* {{zh-l|無知者}}
+* {{zh-l|傻瓜}}
+
+====Derived terms====
+{{zh-der|愚人節}}
+
+===References===
+* {{cite-web|last=Sturgeon|first=Donald J.|date=2009-07-02|url=http://chinese.dsturgeon.net/text.pl?node=15544&if=en|title=Book of Poetry : Minor odes of the kingdom : Decade Of Tong Gong : Hong Yan - Chinese Text Project|work=Chinese Text Project|accessdate=2009-07-25}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぐ|じん|yomi=o}}
+
+{{ja-kanjitab|ぐ|にん|yomi=o}}
+
+===Noun===
+{{ja-noun|ぐじん|ぐにん}}
+
+# [[idiot]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=우인}}
+
+# {{hanja form of|우인|idiot}}
+
+[[mg:愚人]]
+[[ja:愚人]]
+[[pt:愚人]]
+[[chr:愚人]]
+[[zh:愚人]]

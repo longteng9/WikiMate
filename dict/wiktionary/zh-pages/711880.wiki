@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=kānxíng
+|c=hon1-2 hang4
+|mn=khan-hêng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[publish]]; to [[print]] and publish
+#* {{zh-x|刊行 以來，這 本 書 在 ^港、^臺 及 世界 各 地 的 華人 中 始終 擁有 廣大 的 讀者群。|Since '''publication''', this book has acquired a large readership in Taiwan, Hong Kong and Chinese communities the world over.|ref='''1965:''' {{w|Pai Hsien-yung}}, ''Taipei People, Editor's Preface''}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|こう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|かんこう|y=o}}
+
+===Noun===
+{{ja-noun|かんこう}}
+
+# [[publication]]
+
+====Synonyms====
+* {{ja-r|出版|しゅっぱん}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|かんこう}}
+
+# to [[publish]]
+
+====Conjugation====
+{{ja-suru|かんこう}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=간행}}
+
+# {{hanja form of|간행|[[publication]]}}
+
+[[ko:刊行]]
+[[hu:刊行]]
+[[mg:刊行]]
+[[zh:刊行]]

@@ -1,0 +1,111 @@
+{{character info/new}}
+{{also|荤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=09|sn=15|four=44506|canj=TBJJ}}
+
+====References====
+* {{Han ref|kx=1046.230|dkj=31461|dj=1508.020|hdz=53257.040|uh=8477|ud=33911|bh=B8A7|bd=47271}}
+
+----
+
+==Chinese==
+{{zh-forms|s=荤}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hūn
+|c=fan1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[meat]] or [[fish]]
+# [[pungent]] [[food]]
+# strong smelling
+
+====Derived terms====
+{{der-top}}
+{{zh-der|七葷八素|不葷不素|二葷鋪|五葷|冷葷|吃葷飯|戒葷|托葷鹹食|茹葷|葷允|葷湯臘水|葷笑話|葷粥|葷素不忌|葷腥|葷菜|葷辛|葷食|開洋葷|開葷}}
+{{der-bottom}}
+===Pronunciation===
+{{zh-pron
+|m=xūn
+|c=
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# only in {{zh-l|葷粥}}, {{zh-l|葷鬻}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸09}}
+
+# strong smelling
+# strong smelling vegetable, esp. [[garlic]], [[onion]], Chinese chives ([[w:Allium tuberosum|Allium tuberosum]]), Chinese scallion ([[w:Allium chinense|Allium chinense]]), [[w:Allium macrostemon|Allium macrostemon]]
+# meat diet
+
+====Readings====
+* {{ja-readings|on=[[くん]] (kun), [[ぐん]] (gun)|kun=[[なまぐさ]] (namagusa)|nanori=}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|葷粥|くんいく}}
+* {{ja-r|葷菜|くんさい}}
+* {{ja-r|葷酒|くんしゅ}}
+* [[葷酒山門に入るを許さず]] (くんしゅさんもんにいるをゆるさず, ''kunshu sanmon ni iru o yurusazu'')
+* {{ja-r|葷辛|くんしん}}
+* {{ja-r|葷羶|くんせん}}
+* {{ja-r|五葷|ごくん}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=훈|eumhun=|mr=hun|y=hwun}}
+
+# {{defn|lang=ko|sort=艸09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[huân]], [[hôi]]|rs=艸09}}
+
+# {{defn|lang=vi|sort=艸09}}
+
+[[fr:葷]]
+[[ko:葷]]
+[[hu:葷]]
+[[mg:葷]]
+[[ja:葷]]
+[[pl:葷]]
+[[th:葷]]
+[[zh:葷]]

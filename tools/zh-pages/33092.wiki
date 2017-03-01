@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|丵|㡀|t2=damaged clothes|ls=ic}}.
+
+===Han character===
+{{Han char|rn=204|rad=黹|as=00|sn=12|four=32227|canj=TCFB|ids=⿱业㡀}}
+
+# [[embroidery]], [[needlework]]
+# {{mul-kangxi radical-def}}
+
+====Derived terms====
+* {{l|mul|Index:Chinese radical/黹}}
+
+====References====
+* {{Han ref|kx=1522.450|dkj=48248|dj=2058.110|hdz=74738.010|uh=9EF9|ud=40697|bh=DCB0|bd=56496}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǐ
+|c=zi2
+|h=pfs=chṳ́
+|mn=chí
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Min Nan'') [http://twblg.dict.edu.tw/holodict_new/index.html Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=黹00}}
+
+# [[embroidery]], [[needlework]]
+
+====Readings====
+* {{ja-readings|on=[[ち]] (chi)|kun=[[ぬう]] (nuu), [[ぬい]] (nui)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chỉ]]|rs=黹00}}
+
+# {{defn|lang=vi|sort=黹00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:黹]]
+[[ko:黹]]
+[[li:黹]]
+[[hu:黹]]
+[[mg:黹]]
+[[ja:黹]]
+[[pl:黹]]
+[[ru:黹]]
+[[th:黹]]
+[[vi:黹]]
+[[zh:黹]]

@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=04|sn=7|four=22207|canj=UOIN|ids=⿱山今}}
+
+# [[steep]], [[precipitous]]
+# [[peak]]
+
+====Derived characters====
+* [[涔]], [[梣]]
+
+====References====
+* {{Han ref|kx=0308.270|dkj=07937|dj=0608.060|hdz=10763.230|uh=5C91|ud=23697|bh=A7C2|bd=42946}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cén
+|c=sam4
+|mn=gîm
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|岑牟|岑峨|嶔岑|岑樓齊末|岡岑|岑蔚|岑翳|岑樓|岑嶺|岑岑|岑寂|岑崟|寸木岑樓|異苔同岑|森岑|苔岑}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山04}}
+
+# {{defn|lang=ja|sort=山04}}
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin), [[しむ]] (shimu), [[じん]] (jin), [[じむ]] (jimu), [[ぎん]] (gin)|kun=[[みね]] (mine)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[잠]], [[음]]|rv=jam, eum|mr=cham, ŭm}}
+
+# {{defn|lang=ko|sort=山04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sầm]], [[sum]], [[xờm]]|rs=山04}}
+
+# {{defn|lang=vi|sort=山04}}
+
+[[fr:岑]]
+[[ky:岑]]
+[[li:岑]]
+[[hu:岑]]
+[[mg:岑]]
+[[ja:岑]]
+[[pl:岑]]
+[[th:岑]]
+[[zh:岑]]

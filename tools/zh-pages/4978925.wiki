@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shēnmìng
+|mn=sin-miā
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|obsolete}} {{zh-synonym|身家性命}}
+# {{lb|zh|Min Nan}} [[state]] of [[health]]; [[physique]]; [[constitution]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|しん|めい|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|しんめい|acc=0|acc_ref=DJR|acc2=1|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|しんめい}}
+
+# [[body]] and [[life]], one's [[life]]
+
+===Etymology 2===
+{{ja-kanjitab|しん|みょう|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|しんみょう|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|しんみょう|hhira=しんみやう}}
+
+# [[body]] and [[life]], one's [[life]]
+
+===References===
+<references/>
+
+[[zh-min-nan:身命]]
+[[ko:身命]]
+[[zh:身命]]

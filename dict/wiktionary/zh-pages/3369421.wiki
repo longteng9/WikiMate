@@ -1,0 +1,38 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|とり|い|yomi=kun}}
+[[File:Ryosenji_Nara_Japan41n.jpg|thumb|250px|{{lang|ja|鳥居}}: A typical red ''torii'', as seen at the [[w:Ryōsen-ji_(Nara)|Ryōsen-ji]] Buddhist temple in Nara.]]
+{{wikipedia|Torii}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=とりい|鳥|tr1=tori|t1=bird|居|tr2=i|t2=[[sitting]]; a [[seat]]}}. From old legends about birds possessed by ''[[kami]]'' and sitting on tree branches.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|h|と|りい}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[to̞ɾiː]}}
+
+===Noun===
+{{ja-noun|とり.い|hhira=とりゐ}}
+
+# a [[torii]]: a symbolic [[gate]] to a [[Shinto]] [[shrine]] or [[Buddhist]] [[temple]]
+# a similar [[roofless]] [[gate]] to a [[residence]]
+# the [[top]] [[bar]] of a [[railing]]
+# the top [[horizontal]] bar of a [[balance]] [[scale]] for [[measure|measuring]] [[weight]]
+
+====Synonyms====
+* {{sense|shrine gate}} {{ja-l|華表|かひょう|kahyō}}
+
+===Proper noun===
+{{ja-pos|とり.い|proper|hhira=とりゐ}}
+
+# {{surname|lang=ja|sort=とりい}}
+
+===References===
+<references/>
+
+[[cs:鳥居]]
+[[fr:鳥居]]
+[[li:鳥居]]
+[[hu:鳥居]]
+[[zh:鳥居]]

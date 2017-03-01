@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=sǐhuǒshān
+|c=sei2 fo2 saan1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun|mw=個|mw2=座}}
+
+# [[extinct]] [[volcano]]
+
+{{zh-cat|Geology}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|か|さん|k3=ざん|yomi=o|r=y}}
+
+===Pronunciation===
+* {{ja-accent-common|n|し|か|ざん}}<ref>{{R:NHK Hatsuon}}</ref>
+
+===Noun===
+{{ja-noun|しかざん}}
+
+# {{lb|ja|geology|sort=しかざん}} {{lb|ja|obsolete}} [[extinct]] [[volcano]]
+
+====Related terms====
+* {{ja-r|火山|かざん}}: (''[[noun|n.]]'') [[volcano]]
+* {{ja-r|活火山|かつかざん}}: (''[[noun|n.]]'') [[active volcano]]
+* {{ja-r|休火山|きゅうかざん}}: (''[[noun|n.]]'') [[dormant volcano]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=사화산}}
+
+# {{hanja form of|사화산|[[extinct]] [[volcano]]}}
+
+[[ko:死火山]]
+[[ja:死火山]]
+[[zh:死火山]]

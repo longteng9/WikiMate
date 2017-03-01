@@ -1,0 +1,42 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=63|rad=戶|as=08|sn=12|four=30289|canj=HSFF,ISFF|ids=⿸戶炎, ⿸户炎}}
+
+# [[upright]] [[bar]] for [[fasten]]ing [[door]]
+
+====References====
+* {{Han ref|kx=0416.200|dkj=11751|dj=0761.240|hdz=32264.100|uh=624A|ud=25162|bh=D951|bd=55633}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǎn
+|c=jim5
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=염|eumhun=|rv=yeom|mr=yŏm|y=yem}}
+
+# {{defn|lang=ko|sort=戶08}}
+
+[[fr:扊]]
+[[pl:扊]]
+[[th:扊]]
+[[zh:扊]]

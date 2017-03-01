@@ -1,0 +1,43 @@
+{{character info/new}}
+
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|酉|迷|t1=oxygenated functional group|t2=confusion|ls=ic}}, referring to the anesthetic properties of [[diethyl ether]]. {{l|mul|迷}} also acts as the phonetic component.
+
+===Han character===
+{{Han char|rn=164|rad=酉|as=10|sn=17|four=19639|canj=MWYFD|ids=⿰酉迷}}
+
+# [[ether]]
+
+====References====
+* {{Han ref|kx=1285.430|dkj=39960|dj=1786.040|hdz=63592.010|uh=919A|ud=37274|bh=EEC5|bd=61125}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+From {{zh-l|迷|confusion}}, referring to the anesthetic properties of [[diethyl ether]].
+
+===Pronunciation===
+{{zh-pron
+|m=mí
+|c=mai4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|organic chemistry}} [[ether]]
+
+[[fr:醚]]
+[[gl:醚]]
+[[mg:醚]]
+[[ja:醚]]
+[[pl:醚]]
+[[th:醚]]
+[[zh:醚]]

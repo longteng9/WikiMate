@@ -1,0 +1,49 @@
+==Japanese==
+{{ja-kanjitab|とう|ちゃく|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|とうちゃく|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうちゃく}}
+
+# [[arrival]]
+
+====Antonyms====
+* {{ja-r|出発|しゅっぱつ}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|とうちゃく}}
+
+# [[arrive]]
+
+====Conjugation====
+{{ja-suru|とうちゃく}}
+
+====See also====
+* {{ja-r|着く|つく}}
+
+===References===
+<references/>
+
+
+----
+
+==Korean==
+{{ko-hanjatab|到|着}}
+
+===Noun===
+{{ko-noun|rv=dochak|hangeul=도착}}
+
+# {{hanja form of|도착|arrival}}
+
+[[fr:到着]]
+[[ko:到着]]
+[[li:到着]]
+[[hu:到着]]
+[[mg:到着]]
+[[fj:到着]]
+[[ja:到着]]
+[[tl:到着]]
+[[chr:到着]]
+[[zh:到着]]

@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|崄}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=13|sn=16|four=28786|canj=UOMO|ids=⿰山僉}}
+
+# [[high]], [[steep]], [[precipitous]]
+
+====References====
+* {{Han ref|kx=0320.310|dkj=08520|dj=0620.360|hdz=10801.070|uh=5DAE|ud=23982|bh=E964|bd=59748}}
+
+----
+
+==Chinese==
+{{zh-forms|s=崄}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiǎn
+|c=him2
+|mn=hiám
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嶮介|嶮峻|嶮巇|嶮澀|巇嶮}}
+
+===References===
+* {{R:twedu|B00897}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山13}}
+
+# {{defn|lang=ja|sort=山13}}
+
+====Readings====
+* {{ja-readings|goon=[[げん]] (gen)|kanon=[[げん]] (gen)|kanyoon=[[けん]] (ken)|kun=[[けわしい]] (kewashii)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=험|rv=heom|mr=hŏm}}
+
+# {{defn|lang=ko|sort=山13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|kẽm|rs=山13}}
+
+# {{defn|lang=vi|sort=山13}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5dae Nom Foundation]
+
+[[fr:嶮]]
+[[ko:嶮]]
+[[li:嶮]]
+[[hu:嶮]]
+[[ja:嶮]]
+[[pl:嶮]]
+[[th:嶮]]
+[[zh:嶮]]

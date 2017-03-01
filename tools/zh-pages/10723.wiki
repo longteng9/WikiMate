@@ -1,0 +1,115 @@
+{{character info/new}}
+==Translingual==
+===Glyph origin===
+{{Han etym}}
+{{Han compound|alt1=亻|人|申|ls=psc|c1=s|c2=p|t1=man}}.
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=25206|canj=OLWL|ids=⿰亻申}}
+
+# to [[extend]], [[stretch out]], [[open]] up
+# [[trust]]
+# a [[surname]]
+
+====References====
+* {{Han ref|kx=0097.060|dkj=00481|dj=0205.120|hdz=10133.020|uh=4F38|ud=20280|bh=A6F9|bd=42745}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shēn
+|c=san1
+|h=pfs=chhûn/sṳ̂n
+|h_note=chhûn - vernacular; sṳ̂n - literary
+|mn=sin/chhun/qz,xm:chhng
+|mn_note=sin - literary; chhun/chhng - vernacular
+|mn-t=cung1/sing1
+|mn-t_note=cung1 - vernacular; sing1 - literary
+|mc=y
+|oc=y
+|ma=
+|cat=v,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[extend]]
+#: {{zh-x|伸長 兩 隻 手|{{t-needed|zh}}}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=人05}}
+
+# lengthen
+
+====Readings====
+* {{ja-readings|on=[[しん]] ([[shin]])|kun=[[のびる]] ([[伸びる]], [[nobiru]]), [[のばす]] ([[伸ばす]], [[nobasu]])}}
+
+====Compounds====
+{{der5
+| {{ja-l|伸筋}}
+| {{ja-l|伸縮}}
+| {{ja-l|伸張}}
+| {{ja-l|伸長}}, {{ja-l|伸暢}}
+| {{ja-l|伸展}}
+| {{ja-l|伸度}}
+}}
+
+====Idioms====
+* {{ja-r|伸るか反るか|のる か そる か}}: [[sink or swim]]; [[come what may]]
+
+====Related terms====
+* {{l|ja|伸す}}
+* {{l|ja|伸べ広げる}}
+
+===Proper noun===
+{{ja-pos|proper|しん}}
+
+# {{given name|male|lang=ja}}
+
+{{ja-pos|proper|のぶる}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|しん]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=신|rv=sin|mr=sin}}
+
+# {{defn|lang=ko|sort=人05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thân]]|rs=人05}}
+
+# {{defn|lang=vi|sort=人05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f38 Nom Foundation]
+
+[[zh-min-nan:伸]]
+[[fr:伸]]
+[[ko:伸]]
+[[li:伸]]
+[[hu:伸]]
+[[mg:伸]]
+[[ja:伸]]
+[[no:伸]]
+[[pl:伸]]
+[[th:伸]]
+[[uk:伸]]
+[[zh:伸]]

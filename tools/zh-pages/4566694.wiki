@@ -1,0 +1,13 @@
+==Japanese==
+{{ja-kanjitab|がく|かん|せつ|yomi=o}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=がくかんせつ|顎|tr1=gaku|t1=jaw|関節|tr2=kansetsu|t2=joint of the body}}.
+
+===Noun===
+{{ja-noun|がくかんせつ}}
+
+# {{lb|ja|anatomy|sort=がくかんせつ}} [[temporomandibular joint]]
+
+====Derived terms====
+* {{ja-l|顎関節症|がくかんせつしょう|gakukansetsushō}}: temporomandibular joint dysfunction

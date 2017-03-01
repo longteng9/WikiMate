@@ -1,0 +1,19 @@
+==Japanese==
+{{DEFAULTSORT:さんかくかんすう}}
+{{ja-kanjitab|さん|かく|かん|すう|yomi=o}}
+
+===Alternative forms===
+* {{ja-l|三角函数}}
+
+===Etymology===
+{{compound|ja|三角|tr1=sankaku|t1=[[triangle]]|関数|tr2=kansū|t2=[[function]]}}
+
+===Pronunciation===
+{{ja-pron|acc=5|y=o|さんかく かんすう|dev=4}}
+
+===Noun===
+{{ja-noun|さんかく かんすう|hhira=さんかくくわんすう}}
+
+# {{lb|ja|trigonometry}} a [[trigonometric function]]
+
+[[zh:三角関数]]

@@ -1,0 +1,124 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bìyào
+|c=bit1 jiu3
+|h=pfs=pit-yeu
+|mn=pit-iàu
+|ma=y
+|cat=a,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[necessary]]; [[essential]]
+
+===Noun===
+{{zh-noun}}
+
+# [[need]]
+
+====Derived terms====
+{{zh-der|必要產品|必要勞動|必要條件|必要性}}
+
+===Descendants===
+{{CJKV||ひつよう|필요}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひつ|よう|yomi=on}}
+
+===Etymology===
+{{IPAchar|/pitueu/}} → {{IPAchar|/fit͡suyoː/}} → {{IPAchar|/hit͡suyoː/}}
+
+From {{etyl|ltc|ja|sort=ひつよう}} {{m|zh|必要|tr=pjit  ʔjiew<sup>H</sup>|lit=necessity + need}}. Compare modern {{etyl|hak|-}} reading ''pit-yeu''.
+
+===Pronunciation===
+{{ja-pron|yomi=kan|ひつよう|acc=0|acc_ref=DJR}}
+
+===Adjective===
+{{ja-adj|infl=な|ひつよう|hhira=ひつえう}}
+
+# [[needed]], [[necessary]]
+
+====Inflection====
+{{ja-na|ひつよう}}
+
+===Noun===
+{{ja-noun|ひつよう|hhira=ひつえう}}
+
+# [[need]], [[necessity]]
+
+====Antonyms====
+* {{ja-r|不要|ふよう}}
+
+====Derived terms====
+{{der-top}}
+* [[必要メモリ]] (''hitsuyō memori''): (''computing'') required memory size
+* [[必要悪]] (''hitsuyōaku''): necessary evil
+* [[必要語]] (''hitsuyōgo''): (''computing'') key word
+* [[必要事]] (''hitsuyōji''): necessities
+* [[必要性]] (''hitsuyōsei''): necessity
+* [[必要品]] (''hitsuyōhin''): necessities
+* [[必要物]] (''hitsuyōbutsu''): necessities
+* [[必要経費]] (''hitsuyō keihi''): necessary expenses
+{{der-mid}}
+* [[必要次第]] (''hitsuyō shidai''): as necessary
+* [[必要書類]] (''hitsuyō shorui''): necessary documents
+* [[必要条件]] (''hitsuyō jōken''): necessary conditions
+* [[必要十分条件]] (''hitsuyō jūbun jōken''): necessary and sufficient condition
+* [[不必要]] (''fuhitsuyō''): unnecessary
+* [[絶対必要]] (''zettai hitsuyō''): absolutely necessary
+* [[事前に必要]] (''jizen ni hitsuyō na''): prerequisite
+{{der-bottom}}
+
+====Idioms====
+{{der-top|Idioms}}
+* [[必要なし]] (''hitsuyō nashi''): not required
+* [[必要とする]] (''hitsuyō to suru''): need, call for
+* [[必要ならば]] (''hitsuyō naraba''): if necessary
+* [[必要と認める]] (''hitsuyō to mitomeru''): judge as necessary
+* [[必要に応じて]] (''hitsuyō ni ōjite''): as necessary
+* [[必要は発明の母]] (''hitsuyō wa hatsumei no haha''): necessity is the mother of invention
+{{der-bottom}}
+
+===References===
+<references/>
+:* {{R:OxfordJapanese}}
+
+[[Category:Japanese basic words|ひつよう]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=필요}}
+
+# {{hanja form of|필요|[[necessity]]}}
+
+[[zh-min-nan:必要]]
+[[fr:必要]]
+[[ko:必要]]
+[[io:必要]]
+[[ky:必要]]
+[[lo:必要]]
+[[lt:必要]]
+[[hu:必要]]
+[[mg:必要]]
+[[nl:必要]]
+[[ja:必要]]
+[[ro:必要]]
+[[sr:必要]]
+[[fi:必要]]
+[[sv:必要]]
+[[tg:必要]]
+[[chr:必要]]
+[[zh:必要]]

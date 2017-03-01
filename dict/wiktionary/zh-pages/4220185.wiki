@@ -1,0 +1,35 @@
+==Japanese==
+{{ja-kanjitab|さい|こう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|さいこう|yomi=o}}
+
+===Noun===
+{{ja-noun|さいこう}}
+
+# [[reconsideration]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|さいこう}}
+
+# [[reconsider]]
+
+====Conjugation====
+{{ja-suru|さいこう}}
+
+====Synonyms====
+* {{ja-r|考え直す|かんがえなおす}}
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=재고}}
+
+# {{hanja form of|재고}}
+
+[[ko:再考]]
+[[hu:再考]]
+[[ja:再考]]
+[[zh:再考]]

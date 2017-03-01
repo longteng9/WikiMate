@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=běnrén
+|c=bun2 jan4
+|h=pfs=pún-ngìn
+|mn=pún-lâng
+|ma=Zh-benrén.ogg
+|cat=pron
+}}
+
+===Pronoun===
+{{zh-pronoun}}
+
+# [[I]]; [[me]]; [[myself]]; [[oneself]]; [[himself]]; [[herself]]
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほん|にん|yomi=on}}
+
+===Etymology===
+Possibly from {{der|ja|ltc|-|sort=ほんにん}}, or composed in Japan of {{cog|zhx}} elements: {{m|ja|本|tr=hon||main; real; the one under discussion}} + {{m|ja|人|tr=nin||person}}. Compare modern {{cog|zh|本人|tr=běnrén}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|a|ほ|んにん}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[hõ̞ɴnĩɴ]}}
+
+===Noun===
+{{ja-noun|ほんにん}}
+
+# the person themselves, that [[person]] [[himself]] or [[herself]]
+# the person [[in question]], the [[relevant]] person, the person [[concerned]]
+# the [[main]] person, the [[leader]]
+# a [[ringleader]], the lead [[instigator]] or [[conspirator]]
+
+===References===
+<references/>
+
+[[zh-min-nan:本人]]
+[[ko:本人]]
+[[lo:本人]]
+[[hu:本人]]
+[[ja:本人]]
+[[pt:本人]]
+[[zh:本人]]

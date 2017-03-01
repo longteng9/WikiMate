@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|そう|かい|yomi=o}}
+
+===Noun===
+{{ja-noun|そうかい}}
+
+# {{lb|ja|nautical|sort=そうかい}} [[minesweeping]]
+
+====Derived terms====
+* {{ja-r|掃海艇|そうかいてい}}
+
+===Verb===
+{{ja-verb-suru|そうかい}}
+
+# {{lb|ja|nautical|sort=そうかい}} to do [[minesweeping]]
+
+====Conjugation====
+{{ja-suru|そうかい}}
+
+[[ja:掃海]]
+[[zh:掃海]]

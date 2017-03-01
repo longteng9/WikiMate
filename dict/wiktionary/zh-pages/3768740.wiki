@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|けい|ご|yomi=on}}
+
+===Noun===
+{{ja-noun|けいご}}
+
+# [[bodyguard]]
+
+===Verb===
+{{ja-verb-suru|けいご|tr=trans}}
+
+# [[guard]], [[escort]]
+#* '''1930''', [[:w:ja:国枝史郎|国枝史郎]], 十二神貝十郎手柄話:
+#*: {{ja-usex|その後から二人の侍が、一挺の厳めしい駕籠に付き添い、'''警護'''するように現われた。|^その あと から ふたり の さむらい が、 いっちょう の いかめし.い かご に つきそい、 '''けいご''' する よう に あらわれた。|Ever since then, two samurai could be seen alongside the austere litter escorting it.}}
+
+====Conjugation====
+{{ja-suru|けいご}}
+
+[[ko:警護]]

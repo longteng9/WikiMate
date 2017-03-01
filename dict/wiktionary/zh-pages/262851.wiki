@@ -1,0 +1,40 @@
+{{also|后天}}
+==Chinese==
+{{zh-forms|s=后天}}
+
+===Pronunciation===
+{{zh-pron
+|m=hòutiān
+|c=hau6 tin1
+|mn=hō͘-thian
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[day after tomorrow]]
+# [[nurture]] {{gloss|as opposed to nature}}
+#: {{zh-x|先天 與 後天|''nature and '''nurture'''''}}
+
+====Synonyms====
+* {{sense|day after tomorrow}} {{zh-l|後日}}
+
+====Antonyms====
+* {{sense|day after tomorrow}} {{zh-l|前天|day before yesterday}}
+* {{sense|nurture}} {{zh-l|先天}}
+
+====Derived terms====
+{{zh-der|大後天}}
+
+{{zh-cat|Elementary}}
+
+[[zh-min-nan:後天]]
+[[fr:後天]]
+[[ko:後天]]
+[[lt:後天]]
+[[li:後天]]
+[[hu:後天]]
+[[mg:後天]]
+[[ja:後天]]
+[[zh:後天]]

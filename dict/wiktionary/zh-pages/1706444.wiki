@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|期|日|前|投|票}}
+
+===Etymology 1===
+Compound of {{compound|期日|tr1=kijitsu|t1=date|前|tr2=zen|t2=before|投票|tr3=tōhyō|t3=vote|lang=ja}}.
+
+====Pronunciation====
+* {{IPA|/kidʑitsuzen toːçjoː/|lang=ja}}
+
+====Noun====
+{{ja-noun|きじつぜん とうひょう}}
+
+# casting a voting ballot prior to the established date of voting; early voting
+
+===Etymology 2===
+Compound of {{compound|期日|tr1=kijitsu|t1=date|前|tr2=mae|t2=before|投票|tr3=tōhyō|t3=vote|lang=ja}}.
+
+====Pronunciation====
+* {{IPA|/kidʑitsumae toːçjoː/|lang=ja}}
+
+====Noun====
+{{ja-noun|きじつまえ とうひょう}}
+
+# casting a voting ballot prior to the established date of voting; early voting
+
+[[Category:ja:Democracy]]

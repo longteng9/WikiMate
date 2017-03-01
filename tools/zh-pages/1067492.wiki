@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|ぼ|こく|ご|yomi=on}}
+
+===Etymology===
+{{suffix|母国|語|lang=ja|t2=language|sort=ほこくご'}}
+
+===Noun===
+{{ja-noun|ぼこくご|kyu=母國語}}
+
+# [[native language]], [[mother tongue]], [[first language]]
+
+====Antonyms====
+* {{sense|native language}} {{ja-r|外国語|がいこくご}}: [[foreign language]]
+
+====Synonyms====
+* {{sense|native language}} {{ja-r|母語|ぼご}}
+
+[[Category:ja:Languages|ほこくご']]
+
+[[it:母国語]]
+[[lt:母国語]]
+[[hu:母国語]]
+[[ru:母国語]]

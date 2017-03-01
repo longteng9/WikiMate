@@ -1,0 +1,18 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|こう|し|yomi=on}}
+
+====Noun====
+{{ja-noun|こうし}}
+# [[red]] and [[purple]]
+# [[colorful]] [[flower]]s
+
+===Etymology 2===
+{{ja-kanjitab|べに|むらさき|yomi=kun}}
+From {{compound|ja|紅|紫|tr1=beni|tr2=murasaki}}.
+
+====Noun====
+{{ja-noun|べにむらさき}}
+# a [[reddish]] [[purple]]
+#: {{color panel|べにむらさき|B44C97}}

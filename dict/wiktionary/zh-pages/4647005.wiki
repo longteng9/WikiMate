@@ -1,0 +1,66 @@
+{{also|咽下}}
+==Chinese==
+{{zh-forms|s=咽下}}
+
+===Pronunciation===
+{{zh-pron
+|m=yànxià
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[swallow]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|えん|か|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|えんか|y=o}}
+
+====Noun====
+{{ja-noun|えんか}}
+
+# [[swallowing]]
+
+====Verb====
+{{ja-verb-suru|tr=trans|えんか}}
+
+# [[swallow]]
+
+=====Conjugation=====
+{{ja-suru|えんか}}
+
+===Etymology 2===
+{{ja-kanjitab|えん|げ|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|えんげ|y=o|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|えんげ}}
+
+# {{lb|ja|physiology|sort=えんげ}} [[swallowing]]
+
+=====Derived terms=====
+* {{ja-r|嚥下障害|えんげしょうがい}}
+
+====Verb====
+{{ja-verb-suru|tr=trans|えんげ}}
+
+# {{lb|ja|physiology|sort=えんげ}} [[swallow]]
+
+=====Conjugation=====
+{{ja-suru|えんげ}}
+
+===References===
+<references />
+
+[[mg:嚥下]]
+[[ja:嚥下]]
+[[zh:嚥下]]

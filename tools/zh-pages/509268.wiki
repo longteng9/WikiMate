@@ -1,0 +1,90 @@
+{{also|交换}}
+==Chinese==
+{{zh-forms|s=交换}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiāohuàn
+|c=gaau1 wun6
+|h=pfs=kâu-von
+|mn=kau-ōaⁿ
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[exchange]]; to [[swap]]
+
+===Noun===
+{{zh-noun}}
+
+# [[exchange]]; [[swap]]
+
+===Derived terms===
+{{zh-der|哥倫布大交換|交換機|交換價值|交換台}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|かん|yomi=on}}
+
+===Noun===
+{{ja-noun|こうかん}}
+
+# [[exchange]]; [[swap]]; [[give-and-take]]
+# {{lb|ja|mathematics|sort=こうかん}} [[commutation]]
+
+====Synonyms====
+* {{ja-r|取り替え|とりかえ}}, {{ja-r|取り換え|とりかえ}}
+
+====Compounds====
+* {{ja-r|物物交換|ぶつぶつこうかん|gloss=barter}}
+
+===Verb===
+{{ja-verb-suru|こうかん}}
+
+# to [[exchange]]
+
+====Synonyms====
+* {{ja-r|取り替える|とりかえる}}, {{ja-r|取り換える|とりかえる}}
+
+====Conjugation====
+{{ja-suru|こうかん}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=교환}}
+
+# {{hanja form of|교환|[[exchange]], [[swap]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Verb===
+{{vi-hantu}}
+
+# {{han tu form of|giao hoán|to [[exchange]], to [[swap]]}}
+
+[[zh-min-nan:交換]]
+[[fr:交換]]
+[[ko:交換]]
+[[it:交換]]
+[[lo:交換]]
+[[li:交換]]
+[[hu:交換]]
+[[mg:交換]]
+[[ja:交換]]
+[[chr:交換]]
+[[zh:交換]]

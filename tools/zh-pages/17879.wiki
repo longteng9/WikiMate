@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|槪}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=09|sn=13|four=41914|canj=DAIU|ids=⿰木既}}
+
+====References====
+* {{Han ref|kx=0542.191|dkj=15217|dj=0935.040|hdz=21256.080|uh=6982|ud=27010|bh=B7A7|bd=47015}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|槩}}
+
+===Pronunciation===
+{{zh-pron
+|m=gài
+|c=koi2,koi3
+|mc=y
+|oc=y
+|ma=
+|cat=adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[generally]], [[approximately]]
+
+====Derived terms====
+* {{zh-l|大概}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=木09}}
+
+# {{defn|lang=ja|sort=木09}}
+
+====Readings====
+* {{ja-readings|goon=[[かい]] (kai)|kanon=[[かい]] (kai)|kanyoon=[[がい]] (gai)|kun=[[とかき]] (tokaki), [[おおむね]] (oomune), [[おもむき]] (omomuki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=개|eumhun=|rv=gae|mr=kae|y=kay}}
+
+# {{defn|lang=ko|sort=木09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|khái|rs=木09}}
+
+# {{defn|lang=vi|sort=木09}}
+
+[[fr:概]]
+[[ko:概]]
+[[hu:概]]
+[[mg:概]]
+[[ja:概]]
+[[no:概]]
+[[pl:概]]
+[[th:概]]
+[[zh:概]]

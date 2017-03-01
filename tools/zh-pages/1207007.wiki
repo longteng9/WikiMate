@@ -1,0 +1,71 @@
+{{also|过度}}
+==Chinese==
+{{zh-forms|s=过度}}
+
+===Pronunciation===
+{{zh-pron
+|m=guòdù
+|c=gwo3 dou6
+|h=pfs=ko-thu
+|mn=kòe-tō͘/kè-tō͘
+|cat=a,adv
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[excessive]]
+
+===Adverb===
+{{zh-adv}}
+
+# [[excessively]]
+#: {{zh-x|反應 過度|''to overreact''}}
+
+====Derived terms====
+{{zh-der|過度放牧}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=on|か|ど}}
+
+===Etymology===
+{{IPAchar|/kwado/}} → {{IPAchar|/kado/}}
+
+From {{etyl|ltc|ja|sort=かど}} compound {{m|zh|過度|tr=kwa<sup>H</sup>  du<sup>H </sup>|lit=to pass, to go too far + measure, degree}}. Compare modern {{etyl|cmn|-}} reading ''guòdù'', or {{etyl|nan|-}} ''kè-tō͘''.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|かど|acc=1|acc_ref=DJR}}
+
+===Adjective===
+{{ja-adj|infl=na|かど|hhira=くわど}}
+
+# [[excessive]]
+
+====Inflection====
+{{ja-na|かど}}
+
+====Usage notes====
+Often used as a noun modifying another noun, with the particle {{ja-r|の}}, rather than with the adjectival particle {{ja-r|な}}. Compare the use of {{cog|en|excess}} and {{m|en|excessive}}.
+
+: {{ja-usex|'''過度'''のストレス、'''過度'''の食欲|'''かど''' の ストレス、 '''かど''' の しょくよく|'''excess[ive]''' stress, '''excess[ive]''' appetite}}
+
+===Noun===
+{{ja-noun|かど|hhira=くわど}}
+
+# [[excess]]
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[zh-min-nan:過度]]
+[[ko:過度]]
+[[lo:過度]]
+[[hu:過度]]
+[[mg:過度]]
+[[ja:過度]]
+[[chr:過度]]

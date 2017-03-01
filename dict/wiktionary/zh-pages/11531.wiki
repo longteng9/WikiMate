@@ -1,0 +1,131 @@
+{{character info/new}}
+{{also|處}}
+==Translingual==
+{{Han simplified forms|處|処|处}}
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|夂|几|t2=table|ls=ic}}.
+
+===Han character===
+{{Han char|rn=16|rad=几|as=03|sn=5|four=|canj=HEHN|ids=⿺夂几}}
+
+# [[place]], [[locale]]
+# [[department]]
+
+====Derived characters====
+* [[拠]] [[處]]
+
+====References====
+* {{Han ref|kx=0134.050|dkj=01745|dj=0299.150|hdz=10276.130|uh=51E6|ud=20966}}
+
+----
+
+==Chinese==
+{{zh-see|處|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=几03|style=s|kyu=處}}
+
+====Readings====
+* {{ja-readings
+|goon=<!--
+-->[[しょ]] ([[sho]])
+|kanon=<!--
+-->[[しょ]] ([[sho]])
+|kun=<!--
+-->[[おる]] ([[処る]], ''[[oru]]''), <!--
+-->[[か]] / [[が]] (''[[ka]]'', ''[[ga]]''), suffix indicating a place, <!--
+-->[[く]] (''[[ku]]''), suffix indicating a place, <!--
+-->[[こ]] (''[[ko]]''), suffix indicating a place, <!--
+-->[[と]] / [[ど]] (''[[to]]'', ''[[do]]''), suffix indicating a place, <!--
+-->[[ところ]] (''[[tokoro]]''), <!--
+-->[[とこ]] (''[[toko]]''), <!--
+-->[[しょす]] ([[処す]], ''[[shosu]]''), equivalent to しょする, <!--
+-->[[しょする]] ([[処する]], ''[[shosuru]]''), "to [[deal with]]", "to [[sentence]] (for a crime)"
+}}
+
+====Compounds====
+{{top3}}
+* [[彼処]] (asoko)
+* [[何処]] (doko)
+* [[区処]]
+* [[此処]] (koko)
+* [[酒処]]
+* [[死処]]
+* [[住処]]
+* [[随処]]
+* [[善処]]
+{{mid3}}
+* [[其処]] (soko)
+* [[対処]]
+* [[処々]], [[処処]] (tokorodokoro)
+* [[同処]]
+* [[目処]] (medo)
+* [[出処]]
+* [[処遇]]
+* [[処刑]]
+* [[処決]]
+{{mid3}}
+* [[処女]] (shojo)
+* [[処世]]
+* [[処生訓]]
+* [[処断]]
+* [[処置]]
+* [[処罰]]
+* [[処分]] (shobun)
+* [[処方]]
+* [[処理]] (shori)
+{{bottom}}
+
+===Noun===
+{{ja-noun|ところ|kyu=處}}
+
+# [[place]], [[spot]]
+# [[point]] in time
+
+===Suffix===
+{{ja-noun|どころ|kyu=處}}
+
+# place
+
+====Related terms====
+* {{l|ja|至る処}}
+* {{l|ja|住み処}}
+* {{l|ja|御食事処}}, {{l|ja|お食事処}}
+* {{l|ja|止め処}}
+* {{l|ja|捕らえ処}}
+* {{l|ja|泣き処}}
+* {{l|ja|在り処}}
+* {{l|ja|使い処}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=처|rv=cheo|mr=ch'ŏ}}
+
+# {{defn|lang=ko|sort=几03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xứ]], [[xử]]|rs=几03}}
+
+# {{defn|lang=vi}}
+
+[[fr:処]]
+[[li:処]]
+[[hu:処]]
+[[mg:処]]
+[[ja:処]]
+[[pl:処]]
+[[th:処]]
+[[zh:処]]

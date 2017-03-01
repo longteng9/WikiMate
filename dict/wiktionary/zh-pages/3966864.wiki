@@ -1,0 +1,36 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tónghào
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# people with [[similar]] [[interest]]s
+
+----
+
+==Japanese==
+{{ja-kanjitab|どう|こう|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|どうこう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|どうこう}}
+
+# similar [[interest]]s, similar [[taste]]s
+#: {{ja-usex|同好の士の間では見鳥と呼称することも多い。|どうこう の し の あいだ で は みとり と こしょう する こと も おおい。|It is also often known as "birding" among its fans.}}
+
+====Compounds====
+* {{ja-r|同好会|どうこうかい}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[zh:同好]]

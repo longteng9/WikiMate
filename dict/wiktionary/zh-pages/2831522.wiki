@@ -1,0 +1,41 @@
+{{also|震灾}}
+==Chinese==
+{{zh-forms|s=震灾}}
+
+===Etymology===
+From {{etyl|ja|nan}} {{ja-r|震災|しんさい}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhènzāi
+|c=zan3 zoi1
+|h=pfs=
+|mn=chìn-chai/chín-chai
+|cat=n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# [[earthquake]] disaster
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|さい|yomi=on}}
+
+===Noun===
+{{ja-noun|しんさい}}
+
+# [[earthquake]] disaster
+#: {{ja-usex|震災で失われたモノ|しんさい で うしなわれた モノ|what was lost in the disaster}}
+
+===Proper noun===
+{{ja-pos|proper|しんさい}}
+
+# {{abbreviation of|関東大震災|lang=ja}}
+
+[[hu:震災]]
+[[ja:震災]]
+[[pt:震災]]
+[[zh:震災]]

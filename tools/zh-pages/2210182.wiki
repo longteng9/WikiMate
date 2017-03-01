@@ -1,0 +1,30 @@
+==Japanese==
+{{ja-kanjitab|yomi=irr|sort=やまなし}}
+
+===Etymology===
+Unknown. The kanji spelling appears to be [[ateji]], which would normally be read as ''tsukimizato'' (“moon-view village”).
+
+One possible derivation suggests that this comes from an old alternate name for the village of Yamanashi in [[w:Shizuoka Prefecture|Shizuoka Prefecture]] (spelled {{ja-l|山梨}}; annexed into the city of [[w:Fukuroi,_Shizuoka|Fukuroi]] in 1963), such that the old spelling was used for the new name. However, this explanation is probably [[apocryphal]].
+
+An alternative explanation is that the spelling is an old pun.  The area around Yamanashi village is relatively flat, and the story goes that the reading ''yama nashi'' originally meant {{m|ja|山|tr=yama||mountains}} + {{m|ja|無し|tr=nashi||without, lacking, none}}.  The spelling {{lang|ja|月見里}} apparently was in reference to the unobstructed view of the moon.<ref name="tokai">{{cite-web
+|date=2007-06-10
+|url=http://www3.tokai.or.jp/nah_papa3/maturi/yamanasi.html
+|title={{lang|ja|月見里は山梨の古名}} ({{lang|ja|月見里}} ''wa Yamanashi no Komei'', “{{lang|ja|月見里}} Is the Old Name for {{lang|ja|山梨}} &#91;Yamanashi&#93;”)
+|format=HTML
+|publisher={{lang|ja|山梨祭典委員会}} (''Yamanashi Saiten Iinkai'', “Yamanashi Festivals Committee”)
+|language=Japanese
+|accessdate=2015-11-06
+}}</ref>  There is also a line from the [[epitaph]] of early [[w:Heian period|Heian-period]] [[noh]] [[playwright]] {{w|Tachibana no Hayanari}} that uses this spelling and reading, and the sense of “unobstructed view of the moon”:
+
+* {{ja-usex|都をば／今は遥かに／遠江／／月の隈なき／'''月見里'''郷|みやこ を ば ／ いま は はるか に ／ とうとうみ ／／ つき の くま なき ／ '''やまなし''' の さと|Leaving the city now far behind; the distant shallows // '''Yamanashi''' village, with nothing to shade the moon}}
+
+===Pronunciation===
+{{ja-pron|yomi=irr|やまなし}}
+
+===Proper noun===
+{{ja-pos|proper|やまなし}}
+
+# {{surname|lang=ja|sort=やまなし|dot=:}} [[Yamanashi]]
+
+===References===
+<references/>

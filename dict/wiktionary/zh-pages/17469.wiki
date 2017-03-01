@@ -1,0 +1,62 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=42972|canj=DUU|ids=⿰木出}}
+
+====References====
+* {{Han ref|kx=0520.210|dkj=14657|dj=0908.160|hdz=21190.040|uh=67EE|ud=26606|bh=CF4F|bd=53071}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=duò
+|c=deot1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[flat]] [[piece]]s of [[wood]], [[scrap]]s of wood
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木05}}
+
+# {{defn|lang=ja|sort=木05}}
+
+====Readings====
+* {{ja-readings|on=[[とつ]] (totsu), [[じゅつ]] (jutsu), [[だつ]] (datsu)|kun=[[きりはし]] (kirihashi)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木05|hanviet=đốt}}
+
+# {{defn|lang=vi|sort=木05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=67ee Nom Foundation]
+
+[[fr:柮]]
+[[hu:柮]]
+[[ja:柮]]
+[[pl:柮]]
+[[th:柮]]
+[[zh:柮]]

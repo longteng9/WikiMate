@@ -1,0 +1,64 @@
+{{character info/new}}
+{{also|鳄}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=16|sn=27|four=26327|canj=NFMGR|ids=⿰魚噩}}
+
+# [[crocodile]], [[alligator]]
+
+====References====
+* {{Han ref|kx=1480.220|dkj=46597|dj=2012.040|hdz=74720.100|uh=9C77|ud=40055|bh=C673|bd=50803}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鳄}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=è
+|c=ngok6
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|澳洲鱷魚|鱷溪|鱷魚}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚16|style=ky|shin=鰐}}
+
+# {{defn|lang=ja|sort=魚16}}
+
+====Readings====
+* {{ja-readings|on=[[がく]] (gaku)|kun=[[わに]] (wani)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngạc]]|rs=魚16}}
+
+# {{defn|lang=vi|sort=魚16}}
+
+[[fr:鱷]]
+[[hu:鱷]]
+[[mg:鱷]]
+[[ja:鱷]]
+[[pl:鱷]]
+[[th:鱷]]
+[[zh:鱷]]

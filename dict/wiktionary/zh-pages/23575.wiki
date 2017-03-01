@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=11|sn=17|four=77903|canj=SEVIF,XSEVI}}
+
+# [[be]]
+# [[particle]]
+# [[sigh]], [[alas]]
+
+====References====
+* {{Han ref|kx=0937.050|dkj=27853|dj=1376.090|hdz=53442.050|uh=7E44|ud=32324|bh=EDDF|bd=60895}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yī
+|c=ji1,ai1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|繄袼}}
+
+===References===
+* {{R:twedu|B03457}}
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=糸11}}
+
+# {{defn|lang=ja|sort=糸11}}
+
+====Readings====
+* {{ja-readings|on=[[えい]] (ei), [[い]] (i)|kun=[[ほこばくろ]] (hokobakuro)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=예|eumhun=|rv=ye|mr=ye|y=yey}}
+
+# {{defn|lang=ko|sort=糸11}}
+
+[[fr:繄]]
+[[hu:繄]]
+[[pl:繄]]
+[[th:繄]]
+[[zh:繄]]

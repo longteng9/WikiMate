@@ -1,0 +1,60 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Tsunami}}
+</div>
+{{ja-kanjitab|つ|なみ|yomi=k}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=つなみ|津|tr1=tsu|t1=cove, inlet, outlet|波|tr2=nami|t2=wave}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|つなみ|acc=0|acc_ref=NHK,DJR,SMK5}}
+
+===Alternative forms===
+* {{ja-l|津浪}}, {{ja-l|海嘯}}
+
+===Noun===
+{{ja-noun|つなみ}}
+
+# {{lb|ja|oceanography|sort=つなみ}} a [[tsunami]], a [[tidal wave]] {{gloss|large, destructive wave generally caused by a tremendous disturbance in the ocean}}<ref>{{R:Shogakukan}}</ref>
+# {{lb|ja|hydrology|less common|sort=つなみ}} a [[tidal bore]]
+
+====Usage notes====
+The {{m|ja|海嘯}} spelling is specific to the {{m|en|tidal bore}} sense.<ref name="SMK5">{{R:Shinmeikai5}}</ref>
+
+This term is sometimes encountered as the compound {{m|ja|地震津波|tr=jishin tsunami|lit=earthquake tsunami}}, to make the meaning more explicitly clear and disambiguate from the {{m|en|tidal bore}} sense.
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|山津波|やま つなみ}}: “mountain tsunami” → a [[landslide]], a [[landslip]]
+* {{ja-r|津波警報|つなみ けいほう}}: a [[tsunami]] [[warning]]
+{{der-bottom}}
+
+=====Synonyms=====
+{{der-top|Synonyms}}
+* {{sense|tidal bore}} {{ja-r|潮津波|しお つなみ}}
+{{der-bottom}}
+
+===See also===
+* {{ja-r|地震|じしん}}: an [[earthquake]]
+* {{ja-r|洪水|こうずい}}: a [[flood]]
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|つなみ]]
+
+[[zh-min-nan:津波]]
+[[cs:津波]]
+[[fr:津波]]
+[[ko:津波]]
+[[li:津波]]
+[[hu:津波]]
+[[ja:津波]]
+[[pl:津波]]
+[[pt:津波]]
+[[ru:津波]]
+[[fi:津波]]
+[[sv:津波]]
+[[zh:津波]]

@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bìyì
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[withdraw]]; to [[retreat]]; to [[recoil]]
+# {{lb|zh|literary}} to [[cultivate]]; to [[prepare]] [[soil]] for [[planting]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|へき|えき|yomi=o}}
+
+===Noun===
+{{ja-noun|へきえき}}
+
+# [[annoyance]]
+
+===Verb===
+{{ja-verb-suru|へきえき}}
+
+# to be [[annoyed]], to [[shrink]] back
+#: {{ja-usex|同僚の嫌がらせに'''辟易'''する。|どうりょう の いやがらせ に '''へきえき''' する。|I'm annoyed at the harassment by my colleague.}}
+# to be [[fed up]] with
+
+====Conjugation====
+{{ja-suru|へきえき}}
+
+[[mg:辟易]]
+[[ja:辟易]]
+[[zh:辟易]]

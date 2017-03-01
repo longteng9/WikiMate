@@ -1,0 +1,54 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fàngzhì
+|c=fong3 zi3
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[put]] in a certain place; to [[lay]]; to [[place]]; to [[set aside]]
+
+====Synonyms====
+* {{zh-l|安放}}
+* {{zh-l|擱置}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほう|ち|yomi=on}}
+
+===Noun===
+{{ja-noun|ほうち}}
+
+# leaving as-is, a [[neglect]]
+
+===Verb===
+{{ja-verb-suru|ほうち}}
+
+# to [[neglect]], to leave alone
+# to [[abandon]]
+
+====Conjugation====
+{{ja-suru|ほうち}}
+
+====Synonyms====
+* [[放って置く]] ([[ほうっておく]], [[hōtteoku]]): (''informal'') [[leave]]
+* [[断念|断念する]]
+* [[諦める]]
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:放置]]
+[[lt:放置]]
+[[hu:放置]]
+[[mg:放置]]
+[[ja:放置]]
+[[pt:放置]]
+[[chr:放置]]
+[[zh:放置]]

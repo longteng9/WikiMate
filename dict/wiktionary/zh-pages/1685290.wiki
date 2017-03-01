@@ -1,0 +1,71 @@
+{{also|设置}}
+==Chinese==
+{{zh-forms|s=设置}}
+
+===Pronunciation===
+{{zh-pron
+|m=shèzhì
+|c=cit3 zi3
+|mn=siat-tì
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[set up]]; to [[install]]; to [[establish]]
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|computing}} [[settings]]
+#: {{zh-x|系統 設置|system '''settings'''}}
+#: {{zh-x|設置 頁面|page where '''settings''' can be changed}}
+#: {{zh-x|默認 設置|default '''settings'''}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せつ|ち|k1=せっ|yomi=on}}
+
+===Noun===
+{{ja-noun|せっち}}
+
+# [[establishment]], [[foundation]], setting up (a business etc.)
+#: 県の'''設置'''と廃止
+#:: '''Establishment''' and abolition of provinces
+# [[installation]] (of equipment)
+
+====Antonyms====
+* {{sense|establishment}} {{l|ja|廃止}}
+
+===Verb===
+{{ja-verb-suru|せっち}}
+
+# [[set up]], [[establish]], [[found]]
+#* '''1946''', 宮本百合子, 私たちの建設:
+#*: {{ja-usex|なぜならば現に貿易庁というものが'''設置'''された。|なぜならば げんに ぼうえき-ちょう と いう もの が '''せっち''' された。|It's because the office of foreign trade has actually been established.}}
+# [[install]], [[put in]], [[erect]]
+
+====Conjugation====
+{{ja-suru|せっち}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=설치}}
+
+# {{hanja form of|설치|installation}}
+
+[[zh-min-nan:設置]]
+[[ko:設置]]
+[[hu:設置]]
+[[mg:設置]]
+[[ja:設置]]
+[[chr:設置]]
+[[zh:設置]]

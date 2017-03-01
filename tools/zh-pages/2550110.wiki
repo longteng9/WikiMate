@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|げ|ねつ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|げねつ|yomi=o}}
+
+===Noun===
+{{ja-noun|げねつ}}
+# [[antipyretic]], reduction of fever
+#: {{ja-usex|'''解熱'''剤を飲んだ。|'''げねつ'''-ざい を のんだ。|I took antipyretic medicine.}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|げねつ}}
+
+# [[bring down]] a fever
+
+====Conjugation====
+{{ja-suru|げねつ}}
+
+[[zh:解熱]]

@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|sort=からふみ|yomi=k|r=y}}
+{{ja-kanjitab|かん|せき|yomi=o}}
+
+===Etymology 1===
+Compound of {{compound|漢|tr1=kara|t1=Korea, China|文|tr2=fumi|t2=document|lang=ja}}.
+
+====Pronunciation====
+* {{IPA|[karabumi]|lang=ja}}
+
+====Noun====
+{{ja-noun|からぶみ}}
+
+# a Chinese language text written in China or by a Chinese person
+
+===Etymology 2===
+
+====Pronunciation====
+* {{IPA|[kaɴseki]|lang=ja}}
+
+====Noun====
+{{ja-noun|かんせき}}
+
+# a Chinese language text written in China or by a Chinese person
+
+[[zh:漢籍]]

@@ -1,0 +1,117 @@
+{{character info/new}}
+{{also|同|㒰}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=03|sn=5|four=80101|canj=OM,XOM|ids=⿱人工}}
+
+====Descendants====
+* [[々]]
+
+====References====
+* {{Han ref|kx=0093.030|dkj=00378|dj=0196.070|hdz=10111.020|uh=4EDD|ud=20189|bh=C969|bd=51561}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han compound|人|工}}.
+
+{{etystub|zh}}
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=tóng
+|c=tung4
+|mn=tông
+|mc=1
+|oc=2
+|cat=a,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|同}}
+# {{surname|lang=zh}}
+
+===Etymology 2===
+{{zh-forms|alt=同,共}}
+
+From {{m|zh|共}}.
+
+====Pronunciation====
+{{zh-pron
+|mn=zz,tw:kāng/twv:kâng
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Zhangzhou|&|Taiwan Min Nan}} [[same]]
+
+=====Synonyms=====
+* {{zh-l|𫝛|siāng}}
+* {{qualifier|Mandarin}} {{zh-l|同}}
+
+=====Derived terms=====
+{{zh-der|仝款|無仝|相仝}}
+
+===References===
+* {{thcwd|1315}}
+* {{thcwda|367}}
+
+----
+
+==Japanese==
+{{ja-see-also|同}}
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=人03}}
+
+# [[same]]
+
+====Readings====
+* {{ja-readings|on=[[どう]] (dō)|kun=[[おなじ]] (onaji)}}
+
+====Usage notes====
+zokuji ([[俗字]]). Non-standard for [[同]].
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=동|rv=dong|mr=tong}}
+
+# {{defn|lang=ko|sort=人03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''仝''' ([[đồng]], [[giồng]])
+
+# {{defn|lang=vi}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4edd Nom Foundation]
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:仝]]
+[[fr:仝]]
+[[ko:仝]]
+[[li:仝]]
+[[hu:仝]]
+[[mg:仝]]
+[[ja:仝]]
+[[pl:仝]]
+[[th:仝]]
+[[zh:仝]]

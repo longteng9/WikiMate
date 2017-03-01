@@ -1,0 +1,74 @@
+{{also|劳力}}
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|s=劳力}}
+
+====Pronunciation====
+{{zh-pron
+|m=láolì
+|c=lou4 lik6
+|h=pfs=lò-li̍t
+|mn=lô-le̍k
+|cat=n,v
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[labour]]
+# [[manpower]]
+
+====Verb====
+{{zh-verb}}
+
+# to [[labour]]
+
+===Etymology 2===
+{{zh-forms|s=劳力|alt=努力,擼力,魯力}}
+
+====Pronunciation====
+{{zh-pron
+|mn=ló͘-la̍t
+|cat=intj,a
+}}
+
+====Adjective====
+{{zh-adj}} {{tcx|Min Nan|lang=zh}}
+
+# [[laborious]]
+
+====Interjection====
+{{zh-interj}} {{tcx|Min Nan|lang=zh}}
+
+# [[thank you]]; [[sorry]] for causing you [[trouble]]
+
+=====Synonyms=====
+{{zh-dial|謝謝}}
+
+===References===
+* {{qualifier|Min Nan}} {{thcwd|8203}}
+* {{qualifier|Min Nan}} {{thcwd|8204}}
+* {{thcwda|363}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ろう|りょく|yomi=o}}
+
+===Noun===
+{{ja-noun|ろうりょく|shin=労力}}
+
+# [[work]], [[labors]]
+# [[labor]], [[manpower]], number of laborers
+#: {{ja-usex|多大な'''労力'''を必要とした。|ただい な '''ろうりょく''' を ひつよう と した。|It was a laborious job.}}
+
+====Synonyms====
+* {{sense|work}} {{ja-r|骨折り|ほねおり}}
+* {{sense|manpower}} {{ja-r|労働力|ろうどうりょく}}
+
+[[zh-min-nan:勞力]]
+[[ko:勞力]]
+[[hu:勞力]]
+[[mg:勞力]]
+[[ja:勞力]]

@@ -1,0 +1,34 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|カグツチ}}
+{{wikipedia|Kagutsuchi}}
+</div>
+{{ja-kanjitab|か|ぐ|つち}}
+
+===Etymology===
+Originally an {{etyl|ojp|ja|sort=かぐつち}} compound of {{compound|lang=ja|かぐ|tr1=kagu|pos1=obsolete verb root meaning “to shine, to sparkle”, seen in modern verbs {{ja-l|耀う}} ''kagayou'', {{ja-l|輝く}} ''kagayaku'' “to shine, to sparkle”|つ|tr2=tsu|pos2={{etyl|ojp|-}} possessive particle|ち|tr3=chi|t3=power, life force|pos3=found as root component in terms {{ja-l|命}} ''inochi'' “life”, {{ja-l|力}} ''chikara'' “power, strength”}}.<ref>{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|かぐつち}}
+
+===Alternative forms===
+* {{ja-l|軻遇突智}}
+
+===Proper noun===
+{{ja-pos|proper|かぐつち|カグツチ}}
+
+# {{lb|ja|sort=かくつち'|Japanese mythology|Shinto}} [[Kagutsuchi]], the [[Japanese]] [[fire]] [[god]]
+
+====Synonyms====
+* {{ja-r|軻遇突智神|^かぐつち の かみ}}, {{ja-r|迦具土神|^かぐつち の かみ}}
+* {{ja-r|火之迦具土|^ひのかぐつち}}
+* {{ja-r|火之夜藝速|^ひのやぎはやお}}
+* {{ja-r|火之炫毘古|^ひのかかびこ}}
+* {{ja-r|火産霊|^ほむすび}}
+* {{ja-r|火神|^かじん}}
+
+===References===
+<references/>
+
+[[Category:Japanese terms spelled with ateji|かくつち']]
+{{catlangcode|ja|Gods|Japanese mythology|sort=かくつち'}}

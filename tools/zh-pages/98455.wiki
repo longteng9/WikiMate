@@ -1,0 +1,76 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàbiàn
+|c=daai6 bin6
+|mn=tāi-piān
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[defecate]]; to empty one's bowels
+
+===Noun===
+{{zh-noun}}
+
+# [[faeces]]; [[excrement]]
+
+====Synonyms====
+* {{qualifier|Min Nan}} {{zh-l|放屎|tr=[[pàng-sái]]}}
+* {{qualifier|Cantonese|Hakka}} {{zh-l|屙屎}}
+
+====Antonyms====
+* {{zh-l|小便}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|だい|べん|yomi=on}}
+
+===Etymology===
+{{compound|大|t1=big|便|t2=excreta|lang=ja|sort=たいべん'}}
+
+===Pronunciation===
+* {{homophones|lang=ja|代弁}}
+
+===Noun===
+{{ja-noun|だいべん}}
+
+# [[shit]], [[excrement]], [[faeces]]
+
+====Synonyms====
+{{top2}}
+* {{ja-r|うんこ}}
+* {{ja-r|ふん}}
+{{mid2}}
+* {{ja-r|うんち}}
+* {{ja-r|くそ}}
+{{bottom}}
+
+====Antonyms====
+{{top2}}
+* {{ja-r|小便|しょうべん}}
+{{mid2}}
+* {{ja-r|おしっこ}}
+{{bottom}}
+
+===See also===
+{{top2}}
+* [[排泄]]
+{{mid2}}
+{{bottom}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:大便]]
+[[ko:大便]]
+[[hu:大便]]
+[[mg:大便]]
+[[ja:大便]]
+[[chr:大便]]
+[[zh:大便]]

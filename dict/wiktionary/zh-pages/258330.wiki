@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=zēngzǔfù
+|c=zang1 zou2 fu6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[paternal]] [[great-grandfather]]
+
+{{zh-cat|Family}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|曾|祖|父}}
+
+===Etymology 1===
+
+====Noun====
+{{ja-noun|そうそふ}}
+
+# [[great-grandfather]], especially one's grandfather's father
+
+=====Synonyms=====
+* {{l|ja|大祖父}}
+
+===Etymology 2===
+
+====Noun====
+{{ja-noun|ひいじじ|hhira=ひいぢぢ}} {{ja-altread|hira=ひじじ|hhira=ひぢぢ|rom=hijiji}}
+
+# [[great-grandfather]]
+
+===Etymology 3===
+
+====Noun====
+{{ja-noun|ひおおじ|hhira=ひおほぢ}}
+
+# [[great-grandfather]]
+
+[[Category:ja:Family|そうそふ]]
+
+[[hu:曾祖父]]
+[[ja:曾祖父]]
+[[zh:曾祖父]]

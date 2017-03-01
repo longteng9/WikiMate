@@ -1,0 +1,43 @@
+{{character info/new}}
+{{also|钚}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=04|sn=12|four=|canj=CMF}}
+
+# [[plutonium]]
+# {{rfdef|lang=cmn}} <!-- see talk-page: old sense needed -->
+
+====References====
+* {{Han ref|kx=1298.080|dkj=40214|dj=1801.020|hdz=64174.120|uh=9208|ud=37384}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|s=钚}}
+{{wikipedia|lang=zh}}
+
+====Pronunciation====
+{{zh-pron
+|m=bù
+|c=bat1
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Mainland}} [[plutonium]]
+
+=====Synonyms=====
+* {{qualifier|Taiwan}} {{zh-l|鈽}}
+
+===Etymology 2===
+{{zh-see|鈹|v}}
+
+[[fr:鈈]]
+[[pl:鈈]]
+[[th:鈈]]
+[[zh:鈈]]

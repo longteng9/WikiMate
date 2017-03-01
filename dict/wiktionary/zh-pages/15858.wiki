@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|蒙}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=14|sn=17|four=94032|canj=PTBO|ids=⿰忄蒙}}
+
+# (variant of [[蒙]]) [[cover]]
+# [[ignorant]]
+# [[suffer]]
+# [[Mongolia]]
+
+====References====
+* {{Han ref|kx=0406.360|dkj=11375|dj=0747.290|hdz=42360.040|uh=61DE|ud=25054|bh=ECE7|bd=60647}}
+
+----
+
+==Chinese==
+{{zh-forms|s=蒙}}
+
+===Pronunciation===
+{{zh-pron
+|m=méng,měng
+|c=mung5
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|懞懂|懞直|放懞掙}}
+
+===References===
+* {{R:twedu|B01215}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心14}}
+
+# {{defn|lang=ja|sort=心14}}
+
+====Readings====
+* {{ja-readings|on=[[ぼう]] (bō), [[む]] (mu)|kun=[[あつい]] (atsui)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=몽|eumhun=|rv=mong|mr=mong|y=mong}}
+
+# {{defn|lang=ko|sort=心14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心14|hanviet=mong}}
+
+# {{defn|lang=vi|sort=心14}}
+
+[[fr:懞]]
+[[ko:懞]]
+[[li:懞]]
+[[hu:懞]]
+[[ja:懞]]
+[[pl:懞]]
+[[th:懞]]
+[[zh:懞]]

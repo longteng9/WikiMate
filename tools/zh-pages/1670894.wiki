@@ -1,0 +1,53 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yáng膜
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[amnion]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|よう|まく|yomi=on}}
+
+===Etymology===
+/yaumaku/ → /yoːmaku/.
+
+===Pronunciation===
+* {{IPA|[joːmaku]|lang=ja}}
+
+===Noun===
+{{ja-noun|ようまく|hhira=やうまく}}
+
+# an [[amnion]]
+
+====Derived terms====
+{{der-top}}
+* {{l|ja|羊膜嚢}} (yōmakunō)
+* {{l|ja|羊膜帯}} (yōmakutai)
+* {{l|ja|羊膜炎}} (yōmakuen)
+{{der-mid}}
+* {{l|ja|羊膜管}} (yōmakukan)
+* {{l|ja|羊膜腔}} (yōmakukō)
+* {{l|ja|羊膜類}} (yōmakurui)
+{{der-bottom}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=양막}}
+
+# {{hanja form of|양막|[[amnion]]}}
+
+[[hu:羊膜]]
+[[zh:羊膜]]

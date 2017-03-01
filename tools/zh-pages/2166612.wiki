@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shīcè
+|c=sat1 caak3
+|mn=qz:sit-chhiak/tw,xm,zz:sit-chhek
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to make a [[blunder]], to [[slip up]]; to [[miscalculate]]; to be [[unwise]] in a [[move]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しつ|k1=しっ|さく|yomi=on}}
+
+===Alternative forms===
+* {{l/ja|失錯}}
+
+===Noun===
+{{ja-noun|しっさく}}
+# [[blunder]]; [[slip]]; [[error]]
+#* {{RQ:Botchan}}:
+#*: {{ja-usex|今考えるとこれも親譲りの無鉄砲から起った'''失策'''だ。|いま かんがえる と これ も おやゆずり の むてっぽう から おこった '''しっさく''' だ。|When I think of it now, it was a blunder due to my hereditary recklessness.}}
+
+===Verb===
+{{ja-verb-suru|しっさく}}
+
+# make a blunder, [[slip up]]
+
+====Conjugation====
+{{ja-suru|しっさく}}
+
+[[chr:失策]]
+[[zh:失策]]

@@ -1,0 +1,92 @@
+{{character info/new}}
+{{also|简}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=12|sn=18|four=88227|canj=HANA|ids=⿱⺮間}}
+
+====Derived characters====
+* [[𨰝]]
+
+====References====
+* {{Han ref|kx=0901.281|dkj=26520|dj=1325.070|hdz=53017.150|uh=7C21|ud=31777|bh=C2B2|bd=49842}}
+
+----
+
+==Chinese==
+{{zh-forms|s=简}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiǎn
+|c=gaan2
+|mn=kán
+|mc=y
+|oc=y
+|ma=
+|cat=a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[simple]], [[uncomplicated]]
+# [[terse]], [[succinct]]
+# [[letter]]
+
+====Compounds====
+{{zh-der|簡單|簡稱|簡報|簡編|簡便|簡表|簡稱|簡單|簡單機械|簡單勞動|簡單商品生產|簡單協作|簡單再生產|簡短|簡斷截說|簡分數|簡古|簡化|簡化漢字|簡潔|簡捷|簡截|簡介|簡勁|簡況|簡括|簡歷|簡練|簡陋|簡略|簡慢|簡明|簡樸|簡譜|簡任|簡省|簡史|簡縮|簡體|簡體字|簡諧運動|簡寫|簡訊|簡雅|簡要|簡易|簡易師範|簡約|簡則|簡章|簡直|簡裝}}
+
+====References====
+* {{thcwdq}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=竹12}}
+
+# [[simple]]
+# [[terse]], [[brief]], [[succinct]]
+
+====Readings====
+{{ja-readings
+|goon=[[けん]] (ken) {{non-joyo-reading}}
+|kanon=[[かん]] (kan)
+|kun=[[ふだ]] (fuda) {{non-joyo-reading}}, [[えらぶ]] (erabu) {{non-joyo-reading}}
+|nanori=
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=간|eumhun=|rv=gan|mr=kan|y=kan}}
+
+# {{defn|lang=ko|sort=竹12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[giản]], [[dẳng]], [[dớn]], [[giỡn]], [[nhởn]], [[dần]], [[dẵng]], [[giảm]], [[giằn]]|rs=竹12}}
+
+# {{defn|lang=vi|sort=竹12}}
+
+[[zh-min-nan:簡]]
+[[fr:簡]]
+[[ko:簡]]
+[[li:簡]]
+[[hu:簡]]
+[[mg:簡]]
+[[ja:簡]]
+[[pl:簡]]
+[[ru:簡]]
+[[th:簡]]
+[[zh:簡]]

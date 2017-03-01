@@ -1,0 +1,41 @@
+{{also|阴极}}
+==Chinese==
+{{zh-forms|s=阴极}}
+
+===Pronunciation===
+{{zh-pron
+|m=yīnjí
+|c=jam1 gik6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[cathode]]
+
+{{zh-cat|Electricity}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|いん|きょく|yomi=on}}
+
+===Noun===
+{{ja-noun|いんきょく}}
+
+# [[cathode]]
+
+====Synonyms====
+* {{ja-r|カソード}}
+
+====Antonyms====
+* {{ja-r|陽極|ようきょく|anode}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:陰極]]
+[[hu:陰極]]
+[[ja:陰極]]
+[[zh:陰極]]

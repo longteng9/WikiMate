@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|荡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=12|sn=18|four=44127|canj=TEAH}}
+
+# [[pond]], [[pool]]
+# wash away, [[cleanse]]
+
+====References====
+* {{Han ref|kx=1058.420|dkj=32002|dj=1521.270|hdz=53295.160|uh=8569|ud=34153|bh=BFBA|bd=49082}}
+
+----
+
+==Chinese==
+{{zh-forms|s=荡|alt=蘯}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàng
+|c=dong6
+|h=pfs=
+|md=
+|mn=tōng
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[wander]]; to [[roam]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸12}}
+
+# {{defn|lang=ja|sort=艸12}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō)|kun=[[うごく]] (ugoku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[탕]]|eumhun=|rv=tang|mr=t'ang|y=thang}}
+
+# {{defn|lang=ko|sort=艸12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đãng]], [[đẵng]], [[thững]], [[dãng]], [[vảng]]|rs=艸12}}
+
+# {{defn|lang=vi|sort=艸12}}
+
+[[fr:蕩]]
+[[hu:蕩]]
+[[mg:蕩]]
+[[ja:蕩]]
+[[pl:蕩]]
+[[th:蕩]]
+[[zh:蕩]]

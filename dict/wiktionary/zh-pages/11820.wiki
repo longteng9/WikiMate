@@ -1,0 +1,104 @@
+{{character info/new}}
+==Translingual==
+{{stroke order}}
+
+===Han character===
+{{Han char|rn=20|rad=勹|as=01|sn=3|four=27320|canj=PI,XPI|ids=⿹勹丶}}
+
+# [[spoon]], [[ladle]]
+# [[unit]] of [[volume]]
+
+====Derived characters====
+* [[約]], [[釣]], [[酌]], [[灼]], [[豹]], [[杓]], [[靮]], [[妁]], [[扚]], [[汋]], [[尥]], [[䶂]], [[仢]], [[䄪]], [[䋤]], [[旳]], [[芍]], [[玓]], [[礿]], [[瓝]]
+
+====References====
+* {{Han ref|kx=0150.190|dkj=02495|dj=0339.070|hdz=10254.140|uh=52FA|ud=21242|bh=A463|bd=42083}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|p}}: something ({{zh-l|*丶}}) in the spoon ({{zh-l|*勹}}).
+
+===Pronunciation===
+{{zh-pron
+|m=sháo
+|c=zoek3,soek3
+|h=pfs=
+|md=
+|mn=qz,xm:sio̍k/zz:sia̍k/qz,tw,xm:sia̍h/zz:chiak/qz,xm:sio̍h
+|mn_note=sio̍k/sia̍k - literary; sia̍h/chiak/sio̍h - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[spoon]]; [[ladle]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=勹01}}<ref>Removed from the daily use [[w:Jōyō kanji|Jōyō kanji]] by the Japanese government in 2010.
+: The Japan Times (October 21, 2009). ''[http://www.kanjiclinic.com/kc99final.htm Get set for next year's overhaul of joyo kanji].'' Accessed February 23, 2010.</ref>
+
+====Readings====
+{{ja-readings|goon=[[じゃく]] (jaku)|kanon=[[しゃく]] (shaku)}}
+
+====Usage notes====
+<references/>
+
+{{ja-kanjitab|しゃく|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|しゃく|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|しゃく}}
+
+# 18 [[millimeter]]s (a tenth of a {{ja-r|合|ごう}})
+# 0.033 square meters (a hundredth of a [[tsubo]])
+
+====Alternative forms====
+* {{l|ja|せき|tr=seki}}
+
+[[Category:ja:Units of measure|しゃく]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=작|rv=jak|mr=chak}}
+
+# {{defn|lang=ko|sort=勹01}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chước]], [[giuộc]], [[thược]], [[duộc]]|rs=勹01}}
+
+# {{defn|lang=vi|sort=勹01}}
+
+[[fr:勺]]
+[[hu:勺]]
+[[mg:勺]]
+[[ms:勺]]
+[[ja:勺]]
+[[no:勺]]
+[[pl:勺]]
+[[ru:勺]]
+[[th:勺]]
+[[tg:勺]]
+[[chr:勺]]
+[[zh:勺]]

@@ -1,0 +1,99 @@
+{{character info/new}}
+{{also|埓}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=07|sn=10|four=42149|canj=GBDI|ids=⿰土寽}}
+
+# [[enclosure]], [[dike]], [[embankment]]
+
+====References====
+* {{Han ref|kx=0230.030|dkj=05123|dj=0466.030|hdz=10446.030|uh=57D2|ud=22482|bh=D14D|bd=53581}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=埓}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|土|寽|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=liè
+|c=lyut3,lyut6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|壝埒|富埒天子|富埒陶白|馬埒}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土07}}
+
+# {{defn|lang=ja|sort=土07}}
+
+====Readings====
+{{ja-readings|goon=[[れち]] (rechi)|kanon=[[れつ]] (retsu)|kanyoon=[[らち]] (rachi), [[らつ]] (ratsu)|kun=[[かこい]] (kakoi), [[かき]] (kaki)}}
+
+{{ja-kanjitab|らち|yomi=kanyoon}}
+
+===Pronunciation===
+{{ja-pron|yomi=kanyoon|らち|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|らち}}
+
+# a fence built around a stable
+# a fence built around something
+#* {{RQ:Nippo Jisho|523}}
+#*: '''Rachi'''. ラチ (埒) 柵・垣. 比喩. Rachiuo aquru. (埒を明くる) 物事をよく解明する。Rachino aita fito. (埒の明いた人)素直で、道理にはすぐに副する人. Rachiuo coyuru, l, yaburu. (埒を越ゆる、または、破る)規則や禁制条項を破る、または、道理に背く.
+# a partition or limit
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|埒が明く|らち が あく}}
+* {{ja-r|埒を開ける|らち を あける}}
+* {{ja-r|埒がない|らち が ない}}
+* {{ja-r|埒もない|らち も ない}}
+{{der-bottom}}
+
+===References===
+<references/>
+:* {{R:Nippo Jisho}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=랄|rv=ral|mr=ral}}
+
+# {{defn|lang=ko|sort=土07}}
+
+[[zh-min-nan:埒]]
+[[fr:埒]]
+[[li:埒]]
+[[hu:埒]]
+[[mg:埒]]
+[[ja:埒]]
+[[pl:埒]]
+[[th:埒]]
+[[vi:埒]]
+[[zh:埒]]

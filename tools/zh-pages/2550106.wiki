@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yìzhì
+|c=jik1 zai3
+|mn=qz:iak-chè/tw,xm:ek-chè/zz:ek-chì
+|ma=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[inhibit]]
+# to [[suppress]]
+
+====Derived terms====
+{{zh-der|抑制劑|抑制栽培}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|よく|せい|yomi=on}}
+
+===Noun===
+{{ja-noun|よくせい}}
+
+# [[suppression]]
+#: {{ja-usex|人件費の'''抑制'''で利益率が上がった。|じんけん ひ の '''よくせい''' で りえきりつ が あがった。|The profits went up due to the reduction in labor costs.}}
+
+===Verb===
+{{ja-verb-suru|よくせい}}
+
+# [[control]], [[suppress]], [[inhibit]], [[curb]]
+
+====Conjugation====
+{{ja-suru|よくせい}}
+
+[[ko:抑制]]
+[[hu:抑制]]
+[[mg:抑制]]
+[[ja:抑制]]
+[[chr:抑制]]
+[[zh:抑制]]

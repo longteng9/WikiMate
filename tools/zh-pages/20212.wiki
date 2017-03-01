@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|灿}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=13|sn=17|four=97894|canj=FYED}}
+
+# [[vivid]], [[illuminating]]
+# [[bright]]
+
+====References====
+* {{Han ref|kx=0684.300|dkj=19468|dj=1097.070|hdz=32240.150|uh=71E6|ud=29158|bh=C0E9|bd=49385}}
+
+----
+
+==Chinese==
+{{zh-forms|s=灿}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=càn
+|c=caan3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|光燦|光輝燦爛|燈光燦爛|燦然|燦然一新|燦燦|燦爛|燦爛奪目|翠燦|金燦燦|黃燦燦}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火13}}
+
+# {{defn|lang=ja|sort=火13}}
+
+====Readings====
+* {{ja-readings|on=[[さん]] (san)|kun=[[あきらか]] (akiraka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=찬|eumhun=|rv=chan|mr=ch'an|y=chan}}
+
+# {{defn|lang=ko|sort=火13}}
+
+[[fr:燦]]
+[[ko:燦]]
+[[hu:燦]]
+[[ja:燦]]
+[[pl:燦]]
+[[th:燦]]
+[[zh:燦]]

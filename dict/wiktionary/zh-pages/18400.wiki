@@ -1,0 +1,164 @@
+{{character info/new}}
+{{also|齒|齿}}
+==Translingual==
+{{Han simplified forms|齒|歯|齿}}
+
+===Etymology===
+Japanese shinjitai {{Han simp|齒}}.
+
+===Han character===
+{{Han char|rn=211|rad=歯|as=0|sn=12|four=|canj=YMUFD|ids=⿱止⿶凵米}}
+
+====References====
+* {{Han ref|kx=0576.421|dkj=16323|dj=0967.140|hdz=21443.160|uh=6B6F|ud=27503}}
+
+----
+
+==Chinese==
+{{zh-see|齒|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=止08|style=s|kyu=齒}}
+
+# [[tooth]]
+# [[age]]
+
+====Readings====
+{{ja-readings
+|goon=[[し]] (shi)
+|kanon=[[し]] (shi)
+|kun=[[は]] (ha), [[よわい]] (yowai), [[よわいする]] (yowaisuru)}}
+
+====Compounds====
+{{der3
+|{{ja-r|歯ブラシ|はブラシ}}
+|{{ja-r|歯茎|はぐき}}
+|{{ja-r|歯痒い|はがゆい}}
+|{{ja-r|歯医者|はいしゃ}}
+|{{ja-r|歯形|はがた}}
+|{{ja-r|奥歯|おくば}}
+|{{ja-r|下歯|したば}}
+|{{ja-r|臼歯|うすば}}
+|{{ja-r|上歯|うわば}}
+|{{ja-r|仮歯|かし}}
+|{{ja-r|臼歯|きゅうし}}
+|{{ja-r|歯朶|しだ}}
+|{{ja-r|歯牙|しが}}
+|{{ja-r|歯序|しじょ}}
+|{{ja-r|歯槽|ししょう}}
+|{{ja-r|歯列|しれつ}}
+|{{ja-r|歯徳|しとく}}
+}}
+
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|は|yomi=k}}
+pa > ɸa > ha.
+
+====Pronunciation====
+{{ja-pron|yomi=k|は|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|kyu=齒|は}}
+
+# [[tooth]]
+#* {{RQ:Nippo Jisho|191}}
+#*: '''Fa'''. ハ (歯). '''Fa'''ga iru, l, ita. (歯が齭る, または, 齭た) 歯が浮く. '''Fa'''uo nuqu. (歯を抜く) 歯を抜き取る. '''Fa'''ga nuquru. (歯が抜くる) 歯が抜けて落ちる. '''Fa'''uo camu. (歯を嚙む) 歯をかみしめる, 合わせ閉じる. '''Fa'''uo dasu. (歯を出す) 怒って歯をむき出す. '''Fa'''ga vqu. (歯が浮く) 歯が浮く, または, ぐらぐらする. '''Fa'''ga yurugu. (歯が揺ぐ) 歯が動く. '''Fa'''uo curomuru. l, caneuo tçuquru. (歯を黒むる. または, 鉄漿を付くる) 歯を黒く染める.
+
+===Etymology 2===
+{{ja-kanjitab|し|yomi=o}}
+From {{etyl|ltc|ja|sort=し}} {{m|zh|齒|tr=tsyhi<sup>X</sup>}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|し|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|kyu=齒|し}}
+
+# [[tooth]]
+# [[age]]
+
+=====Derived terms=====
+* {{ja-r|歯を没す|し を ぼっす}}: [[die]]
+
+===Etymology 3===
+{{ja-kanjitab|よわい|yomi=k}}
+yopapi > yoɸaɸi > yowawi > yowai.
+
+====Pronunciation====
+{{ja-pron|yomi=k|よわい|acc=0|acc_ref=DJR,NHK|acc2=2|acc2_ref=NHK}}
+
+====Alternative forms====
+* {{ja-l|齢}}
+
+====Noun====
+{{ja-noun|kyu=齒|よわい|hhira=よはひ}}
+
+# [[age]]
+
+===References===
+<references/>
+:* {{R:Nippo Jisho}}
+
+[[Category:Japanese basic words|は]]
+[[Category:ja:Teeth|は]]
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{head|ryu|kanji}}
+
+* {{ja-readings|kun=[[はー]] (hā)}}
+
+===Etymology===
+Derived from Proto-{{etyl|jpx|ryu}} pa. Cognate with {{etyl|xug|-}} phaá, Middle Japanese ɸa, and modern {{etyl|ja|-}} ha.
+
+===Noun===
+{{head|ryu|noun|hiragana|はー|romaji|hā}}
+
+# [[tooth]]
+
+====Compounds====
+{{top2}}
+* [[歯病ん]] ([[はーやん]], ''[[hāyan]]''): [[toothache]]
+* [[歯病み]] ([[はーやみ]] ''[[hāyami]]''): [[toothache]]
+{{bottom}}
+
+===References===
+* {{R:Nippo Jisho}}
+
+[[Category:ryu:Teeth|はあ]]
+
+[[az:歯]]
+[[cs:歯]]
+[[el:歯]]
+[[fr:歯]]
+[[ko:歯]]
+[[ku:歯]]
+[[lo:歯]]
+[[la:歯]]
+[[lt:歯]]
+[[li:歯]]
+[[hu:歯]]
+[[mg:歯]]
+[[fj:歯]]
+[[nl:歯]]
+[[ja:歯]]
+[[uz:歯]]
+[[pl:歯]]
+[[pt:歯]]
+[[ru:歯]]
+[[sm:歯]]
+[[fi:歯]]
+[[sv:歯]]
+[[th:歯]]
+[[chr:歯]]
+[[tr:歯]]
+[[zh:歯]]

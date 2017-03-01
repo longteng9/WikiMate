@@ -1,0 +1,94 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=08|sn=12|four=76240|canj=BHWJ}}
+
+====References====
+* {{Han ref|kx=0985.230|dkj=29579|dj=1438.190|hdz=32089.030|uh=813E|ud=33086|bh=B5CA|bd=46538}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=pí
+|c=pei4
+|mn=pî/tw,xm,zz:phî
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|anatomy}} [[spleen]]
+# [[disposition]]; [[liking]]; [[temperament]]
+
+===Compounds===
+{{zh-der|不傷脾胃|使脾氣|古怪脾氣|噪脾|大發脾氣|巢脾|巨脾症|心脾|感人心脾|投脾胃|暴脾氣|沁人心脾|沁入心脾|沒脾氣|灰脾氣|燥脾|牛脾氣|犯脾氣|痛入心脾|痛澈心脾|發脾寒|發脾氣|硬脾氣|耍脾氣|肝脾|脾味|脾和|脾寒|脾性|脾憋|脾氣|脾氣情性|脾火|脾癉|脾胃|脾腫|脾臟|脾虛|脾鱉|軟調脾|醒脾|長脾氣|鬧脾氣}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉08}}
+
+====Readings====
+* {{ja-readings|on=[[ひ]] (hi), [[はい]] (hai), [[へい]] (hei)|kun=[[ひぞう]] (hizō), [[とまる]] (tomaru), [[もも]] (momo)|nanori=}}
+
+===References===
+* {{R:Wamyō Ruijushō}}
+
+===Pronunciation===
+* {{IPA|[jokoɕi]|lang=ja}}
+
+===Noun===
+{{ja-noun|よこし}}
+
+# {{lb|ja|anatomy}} [[spleen]]
+#* {{RQ:Wamyō Ruijushō|2|35}}
+#*: 脾 白虎通云 脾 俾移反 '''與古之''' [...] 土之精也 色黄 [...] 土藏也 [...]
+
+[[Category:ja:Anatomy|よこし]]
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 脾]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=비|eumhun=|rv=bi|mr=pi|y=pi}}
+
+# {{defn|lang=ko|sort=肉08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tì]], [[tỳ]]|rs=肉08}}
+
+# {{defn|lang=vi|sort=肉08}}
+
+[[zh-min-nan:脾]]
+[[fr:脾]]
+[[ko:脾]]
+[[hu:脾]]
+[[mg:脾]]
+[[ja:脾]]
+[[no:脾]]
+[[pl:脾]]
+[[ru:脾]]
+[[th:脾]]
+[[vi:脾]]
+[[zh:脾]]

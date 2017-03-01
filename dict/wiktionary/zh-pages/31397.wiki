@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|肴}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=184|rad=食|as=08|sn=17|four=84727|canj=OIKKB|ids=⿰飠肴}}
+
+# [[prepare]]d [[meat]]
+# [[food]]
+
+====References====
+* {{Han ref|kx=1421.090|dkj=44199|dj=1946.090|hdz=74460.100|uh=991A|ud=39194|bh=C061|bd=49249}}
+
+----
+
+==Chinese==
+{{zh-forms|s=肴}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yáo
+|c=ngaau4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=食08}}
+
+# {{defn|lang=ja|sort=食08}}
+
+====Readings====
+{{ja-readings|goon=[[ぎょう]] (gyō)|kanon=[[こう]] (kō)|kun=[[そなえる]] (sonaeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=효|eumhun=|rv=hyo|mr=hyo|y=hyo}}
+
+# {{defn|lang=ko|sort=食08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=食08| hanviet = hào}}
+
+# {{defn|lang=vi|sort=食08}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=991a Nom Foundation]
+
+[[fr:餚]]
+[[hu:餚]]
+[[mg:餚]]
+[[ja:餚]]
+[[pl:餚]]
+[[th:餚]]
+[[zh:餚]]

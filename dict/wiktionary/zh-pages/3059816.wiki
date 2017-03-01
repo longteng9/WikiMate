@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiàshān
+|c=haa6 saan1
+|h=pfs=hâ-sân
+|mn=hā-san
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[go]] [[down]] a [[mountain]]; to [[descend]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|げ|さん|k2=ざん|r=y|yomi=o}}
+
+====Noun====
+{{ja-noun|げざん}}
+
+# [[descent]] of a mountain
+
+====Verb====
+{{ja-verb-suru|げざん}}
+
+# to [[descend]] a mountain
+
+=====Conjugation=====
+{{ja-suru|げざん}}
+
+===Etymology 2===
+{{ja-kanjitab|しも|やま|yomi=k}}
+
+====Proper noun====
+{{ja-pos|proper|しもやま}}
+
+# {{surname|lang=ja|sort=しもやま}}
+
+===Anagrams===
+* {{l|ja|山下}}
+
+[[zh-min-nan:下山]]
+[[ko:下山]]
+[[zh:下山]]

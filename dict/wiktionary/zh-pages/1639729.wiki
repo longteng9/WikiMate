@@ -1,0 +1,59 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fánghài
+|h=pfs=fòng-hoi
+|mn=hông-hāi
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[hinder]]; to [[impair]]; to [[interfere]] with; to [[harm]]; to [[damage]]
+
+===Derived terms===
+{{zh-der|妨害公務罪}}
+
+===Descendants===
+{{CJKV||ぼうがい|방해}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぼう|がい|yomi=on}}
+
+===Alternative forms===
+* {{l|ja|妨碍}}
+* {{l|ja|妨礙}}
+
+===Noun===
+{{ja-noun|ぼうがい}}
+# obstructing someone or something; [[obstruction]], [[interference]]
+#: {{ja-usex|'''妨害'''をやめろ。|'''ぼうがい''' を やめろ。|Do not disturb!}}
+
+====Synonyms====
+* {{ja-r|邪魔|じゃま}}
+
+===Verb===
+{{ja-verb-suru|ぼうがい}}
+
+# {{l|en|obstruct|id=To impede, retard, or interfere with}}, [[disturb]], stand [[in the way]]
+
+====Conjugation====
+{{ja-suru|ぼうがい}}
+
+====Synonyms====
+* {{ja-r|妨げる|さまたげる}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:妨害]]
+[[ko:妨害]]
+[[mg:妨害]]
+[[ja:妨害]]
+[[fi:妨害]]
+[[zh:妨害]]

@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|のう|えん|yomi=o}}
+
+===Etymology===
+{{suffix|脳|炎|t1=brain|t2=-itis|lang=ja|sort=のうえん}}
+
+===Pronunciation===
+* {{ja-pron|のうえん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|のうえん|kyu=腦炎}}
+
+# {{lb|ja|pathology|sort=のうえん}} [[encephalitis]]
+
+===References===
+<references/>
+
+[[hu:脳炎]]
+[[zh:脳炎]]

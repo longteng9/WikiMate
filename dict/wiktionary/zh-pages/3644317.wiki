@@ -1,0 +1,59 @@
+{{also|间接}}
+==Chinese==
+{{zh-forms|s=间接}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiànjiē
+|c=gaan3 zip3
+|mn=kàn-chiap
+|cat=a,adv
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[indirect]]
+
+===Adverb===
+{{zh-adv}}
+
+# [[indirectly]]
+
+====Antonyms====
+* {{zh-l|直接}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|せつ|yomi=o}}
+
+===Noun===
+{{ja-noun|かんせつ}}
+
+# [[indirectness]]
+
+====Antonyms====
+* {{ja-r|直接|ちょくせつ}}
+
+====Compounds====
+* {{ja-r|間接的|かんせつてき}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=간접}}
+
+# {{hanja form of|간접|indirectness}}
+
+[[zh-min-nan:間接]]
+[[ko:間接]]
+[[hu:間接]]
+[[mg:間接]]
+[[ja:間接]]
+[[zh:間接]]

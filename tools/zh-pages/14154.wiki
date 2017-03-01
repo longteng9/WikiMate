@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=40|rad=宀|as=05|sn=8|four=30212|canj=JNIU|ids=⿱宀夗}}
+
+====Derived characters====
+* [[腕]] [[碗]] [[婉]] [[椀]] [[蜿]]
+
+====References====
+* {{Han ref|kx=0284.010|dkj=07110|dj=0561.010|hdz=20922.050|uh=5B9B|ud=23451|bh=A97B|bd=43387}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|宀|夗|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wǎn
+|c=jyun1,jyun2
+|mn=oán
+|mc=y
+|oc=y
+|ma=
+|cat=con,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[as if]], [[seem]]
+# [[crooked]], [[winding]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=宀05}}
+
+# allocate
+
+====Readings====
+* {{ja-readings|on=[[えん]] (en)|kun=[[あたかも]] (atakamo), [[あて]] (ate), [[ずつ]] (zutsu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[완]], [[원]]|rv=wan, won|mr=wan, wŏn}}
+
+# {{defn|lang=ko|sort=宀05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[uyển]], [[uốn]]|rs=宀05}}
+
+# {{defn|lang=vi|sort=宀05}}
+
+[[fr:宛]]
+[[ko:宛]]
+[[li:宛]]
+[[hu:宛]]
+[[mg:宛]]
+[[ja:宛]]
+[[no:宛]]
+[[pl:宛]]
+[[th:宛]]
+[[zh:宛]]

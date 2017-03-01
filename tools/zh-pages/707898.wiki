@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms|s=饮酒}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǐnjiǔ
+|c=jam2 zau2
+|h=pfs=yím-chiú
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary|dialectal}} to [[drink]] [[wine]]
+
+====Synonyms====
+* {{zh-l|喝酒}}
+* {{qualifier|non-standard}} {{zh-l|吃酒}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|いん|しゅ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|いんしゅ|y=o}}
+
+===Noun===
+{{ja-noun|いんしゅ|tr=intrans}}
+
+# drinking alcohol
+#: {{ja-usex|飲酒 運転 は 犯罪 です！|いんしゅ うんてん は はんざい です！|Drunk driving is a crime!}}
+
+===Verb===
+{{ja-verb-suru|いんしゅ|tr=intrans}}
+
+#[[drink]] {{gloss|consume alcoholic beverages}}
+
+====Conjugation====
+{{ja-suru|いんしゅ}}
+
+[[hu:飲酒]]
+[[ja:飲酒]]
+[[zh:飲酒]]

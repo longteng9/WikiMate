@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms|alt=塍地-Min vernacular}}
+
+===Pronunciation===
+{{zh-pron
+|m=tiándì
+|c=tin4 dei6
+|h=pfs=thièn-thi
+|md=chèng-{d}ê
+|md_note=vernacular
+|mn=xm,qz,tp:chhân-tōe/zz,kh:chhân-tē/xm,qz,tw:tiân-tē
+|mn_note=chhân-tōe/chhân-tē - vernacular; tiân-tē - literary
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[agricultural]] [[field]]; [[cropland]]; [[farmland]]
+# {{lb|zh|informal}} [[adverse]] or [[disadvantageous]] state or situation
+#: {{zh-x|這 事情 怎麽 會 搞 到 這 種 田地？|How did this matter end up like this?}}
+
+====Synonyms====
+* {{sense|adverse situation}} {{zh-l|地步}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|でん|ち|yomi=on}}
+
+===Noun===
+{{ja-noun|でんち}}
+
+# [[rice paddy]]
+
+[[zh-min-nan:田地]]
+[[ko:田地]]
+[[hu:田地]]
+[[mg:田地]]
+[[ja:田地]]
+[[zh:田地]]

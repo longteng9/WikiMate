@@ -1,0 +1,75 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=kěndìng
+|h=pfs=khén-thin
+|mn=khéng-tēng
+|c=hang2 ding6
+|ma=Zh-kendìng.ogg
+|cat=a,adv,v,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[certain]]; [[affirmative]]; [[positive]]
+
+====Derived terms====
+{{zh-der|肯定命題|肯定性行動}}
+
+===Adverb===
+{{zh-adv}}
+
+# [[surely]]; [[definitely]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[approve]]; to [[confirm]]; to [[affirm]]
+# to be [[certain]]
+
+===Noun===
+{{zh-noun}}
+
+# [[approval]]; [[validation]]; [[affirmation]]
+
+====Derived terms====
+{{zh-der|自我肯定}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|てい|yomi=on}}
+
+===Noun===
+{{ja-noun|こうてい}}
+
+# [[affirmation]]
+
+====Compounds====
+* {{l|ja|肯定的}}
+
+===Verb===
+{{ja-verb-suru|こうてい}}
+
+# [[affirm]], answer yes
+
+====Conjugation====
+{{ja-suru|こうてい}}
+
+[[zh-min-nan:肯定]]
+[[ko:肯定]]
+[[hu:肯定]]
+[[mg:肯定]]
+[[ja:肯定]]
+[[sr:肯定]]
+[[chr:肯定]]
+[[uk:肯定]]
+[[zh:肯定]]

@@ -1,0 +1,34 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhíliú
+|mn=ti̍t-liû
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[direct current]]
+
+====Synonyms====
+* {{zh-l|直流電}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちょく|りゅう|yomi=on}}
+
+===Noun===
+{{ja-noun|ちょくりゅう}}
+
+# [[direct current]]
+
+====Antonyms====
+* {{ja-r|交流|こうりゅう}}
+
+[[ko:直流]]
+[[lo:直流]]
+[[zh:直流]]

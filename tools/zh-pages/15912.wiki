@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|戊|戌}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|人|戈|t2=spear|ls=psc}}.
+
+===Han character===
+{{Han char|rn=62|rad=戈|as=02|sn=6|four=53200|canj=IHI|ids=⿵戊丶}}
+
+# [[defend]] [[border]]s, [[guard]] [[frontier]]s
+
+====Derived characters====
+* [[蔑]], [[幾]]
+
+====References====
+* {{Han ref|kx=0411.060|dkj=11537|dj=0752.100|hdz=21398.030|uh=620D|ud=25101|bh=A6A7|bd=42663}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shù
+|c=syu3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|徭戍|征戍|戍衛|戍守|戍卒|戍鼓|戍樓|戍役|戍邊|番戍|謫戍|衛戍|遣戍}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=戈02}}
+
+# {{defn|lang=ja|sort=戈02}}
+
+====Readings====
+* {{ja-readings|on=[[じゅ]] (ju), [[しゅ]] (shu)|kun=[[まもる]] (mamoru), [[まもり]] (mamori)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[수]]|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=戈02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''戍''' ([[thú]])
+
+# {{defn|lang=vi}}
+
+[[fr:戍]]
+[[ko:戍]]
+[[li:戍]]
+[[hu:戍]]
+[[mg:戍]]
+[[ja:戍]]
+[[pl:戍]]
+[[th:戍]]
+[[zh:戍]]

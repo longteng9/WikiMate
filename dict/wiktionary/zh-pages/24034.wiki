@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=124|rad=羽|as=05|sn=11|four=87320|canj=OISMM|ids=⿰令羽}}
+
+# [[feather]]
+# [[plume]]
+# [[wing]]
+
+====References====
+* {{Han ref|kx=0956.160|dkj=28663|dj=1401.320|hdz=53345.050|uh=7FCE|ud=32718|bh=B2DE|bd=45790}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=líng
+|c=ling4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|白翎雀|翎子|翎毛|翎毛畫|翎花|花翎|藍翎|雁翎刀|雉雞翎|鵝翎扇|鵰翎扇}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=羽05}}
+
+# {{defn|lang=ja|sort=羽05}}
+
+====Readings====
+* {{ja-readings|on=[[れい]] (rei), [[りょう]] (ryō)|kun=[[はね]] (hane)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[령]]>[[영]]|eumhun=|rv=ryeong>yeong|mr=ryŏng>yŏng|y=lyeng>yeng}}
+
+# {{defn|lang=ko|sort=羽05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|linh|rs=羽05}}
+
+# {{defn|lang=vi|sort=羽05}}
+
+====Readings====
+* Nôm: linh, liếng, liệng, lỉnh
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville, 1999
+
+[[fr:翎]]
+[[ko:翎]]
+[[hu:翎]]
+[[mg:翎]]
+[[pl:翎]]
+[[th:翎]]
+[[zh:翎]]

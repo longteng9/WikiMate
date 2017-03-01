@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=fèi癌
+|mn=hì-gâm
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[lung cancer]]
+
+{{zh-cat|Oncology}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|はい|がん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|はいがん|y=o|acc=0|acc_ref=NHK}}
+
+===Alternative forms===
+* {{l/ja|肺がん}}
+
+===Noun===
+{{ja-noun|はいがん}}
+
+# {{lb|ja|disease}} [[lung cancer]]
+
+===References===
+<references/>
+
+[[Category:ja:Diseases|はいがん]]
+
+[[zh-min-nan:肺癌]]
+[[ko:肺癌]]
+[[km:肺癌]]
+[[zh:肺癌]]

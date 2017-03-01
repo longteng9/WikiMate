@@ -1,0 +1,25 @@
+==Chinese==
+{{zh-forms|gloss=-}}
+
+===Alternative forms===
+* {{zh-l|沙西米}}
+
+===Etymology===
+From {{etyl|ja|zh}} {{m|ja|刺身|tr=sashimi}}
+
+===Pronunciation===
+{{zh-pron
+|m=sǎxīmǐ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[sashimi]] {{gloss|dish of slices of raw fish or meat}}
+
+====Synonyms====
+* {{zh-l|生魚片/生鱼片}}
+* {{zh-l|刺身}}
+
+{{zh-cat|Foods}}

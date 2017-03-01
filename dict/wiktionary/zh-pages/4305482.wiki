@@ -1,0 +1,56 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiǎngqǐ
+|c=soeng2 hei2
+|mn=siūⁿ-khí
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[remember]]
+# to [[recall]]
+#: {{zh-x|我 '''想'''不'''起''' 他 的 名字{zi}。|I can't '''recall''' his name.}}
+# to [[think]] of
+#: {{zh-x|我 '''想起''' 你，如何 大 的 痛 都 會 變 小。|When I '''think of''' you, no matter how big the pain is, it still becomes small.}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|そう|き|yomi=o}}
+
+===Etymology===
+{{IPAchar|/sauki/}} → {{IPAchar|/sɔːki/}} → {{IPAchar|/soːki/}}
+
+From {{etyl|ltc|ja|sort=そうき}} compound {{m|zh|想起|tr=sjang<sup>X</sup> kʰɨ<sup>X</sup>|lit=to think + to rise, to stand up}}.  Compare modern {{etyl|cmn|-}} reading ''xiǎngqǐ''.
+
+===Pronunciation===
+{{ja-pron|yomi=on|そうき|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|そうき|hhira=さうき}}
+
+# a [[recollection]]
+
+===Verb===
+{{ja-verb-suru|そうき|hhira=さうき}}
+
+# to [[recall]], to [[remember]]
+
+====Conjugation====
+{{ja-suru|そうき}}
+
+===References===
+<references/>
+
+[[zh-min-nan:想起]]
+[[ko:想起]]
+[[hu:想起]]
+[[mg:想起]]
+[[ja:想起]]
+[[chr:想起]]
+[[zh:想起]]

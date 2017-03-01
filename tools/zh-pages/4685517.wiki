@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǒuxíng
+|c=jau5 jing4
+|mn=qz,tw,xm,zz:iú-hêng/qz:ǔ-hêng/tw,xm,zz:ū-hêng
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[tangible]]; [[visible]]
+
+====Antonyms====
+* {{zh-l|無形}}
+
+===Derived terms===
+{{zh-der|有形損耗|有形資產}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ゆう|けい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ゆうけい|y=o}}
+
+===Noun===
+{{ja-noun|ゆうけい}}
+
+# being [[material]] or [[tangible]]
+
+====Antonyms====
+* {{ja-r|無形|むけい}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=유형}}
+
+# {{hanja form of|유형|}}
+
+[[zh-min-nan:有形]]
+[[ko:有形]]
+[[ja:有形]]
+[[zh:有形]]

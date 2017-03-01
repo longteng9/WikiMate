@@ -1,0 +1,104 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=06|sn=9|four=43242|canj=KHJDI|ids=⿰犭守}}
+
+# [[winter]] [[hunting]]
+# [[imperial]] [[tour]]
+
+====References====
+* {{Han ref|kx=0711.040|dkj=20390|dj=1123.040|hdz=21346.050|uh=72E9|ud=29417|bh=ACBC|bd=44220}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shòu
+|c=sau2,sau3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=犬06}}
+
+====Readings====
+{{ja-readings
+|goon=[[しゅ]] (shu)
+|kanon=[[しゅう]] (shū) {{non-joyo-reading}}
+|kun=[[かる|か-る]] (ka-ru), [[かり|か-り]] (ka-ri), [[かり]] (kari)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|狩猟|しゅりょう}}: [[hunting]]
+* {{ja-r|狩猟期|しゅりょうき}}: [[hunting season]]
+* {{ja-r|狩猟場|しゅりょうば}}: a [[hunting preserve]]
+* {{ja-r|狩人|かりゅうど}}, {{ja-r|狩人|かりゅうど}}: a [[hunter]]
+* {{ja-r|狩漁|しゅぎょ}}: [[hunting]] and [[fishing]]
+{{der-mid}}
+* {{ja-r|狩犬|かりいぬ}}: a [[hunting]] dog; a [[hound]]
+* {{ja-r|狩猟犬|しゅりょうけん}}: a hunting dog; a hound
+* {{ja-r|狩り小屋|かりこや}}: a [[hunting lodge]]
+* {{ja-r|狩猟小屋|しゅりょう こや}}: a [[hunting lodge]]
+{{der-bottom}}
+
+{{ja-kanjitab|かり|yomi=k}}
+
+===Noun===
+{{ja-noun|かり}}
+
+# [[hunting]] (game, deer, ducks, etc.)
+# [[gathering]] (mushrooms, etc.), [[picking]] (strawberries, peaches, etc.)
+
+====Synonyms====
+* {{l|ja|猟}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=犬06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=犬06| hanviet = thú}}
+
+# {{defn|lang=vi|sort=犬06}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=72e9 Nom Foundation]
+
+[[fr:狩]]
+[[ko:狩]]
+[[ku:狩]]
+[[hu:狩]]
+[[mg:狩]]
+[[ja:狩]]
+[[pl:狩]]
+[[th:狩]]
+[[zh:狩]]

@@ -1,0 +1,18 @@
+==Japanese==
+{{ja-kanjitab|り|はん|yomi=on}}
+
+===Noun===
+{{ja-noun|りはん}}
+
+# [[disaffection]], [[alienation]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|りはん}}
+
+# be [[disaffected]], [[alienated]]
+#: {{ja-usex|顧客が離反する傾向|こきゃく が りはん する けいこう|a trend of customers becoming disaffected}}
+
+====Conjugation====
+{{ja-suru|りはん}}
+
+[[zh:離反]]

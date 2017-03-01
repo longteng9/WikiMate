@@ -1,0 +1,58 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiángfú
+|c=hong4 fuk6
+|h=pfs=hòng-fu̍k
+|mn=hâng-ho̍k
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|intransitive}} to [[submit]]; to [[yield]]
+# {{lb|zh|transitive}} to [[subdue]]
+
+===Pronunciation===
+{{zh-pron
+|m=jiàngfú
+|c=gong3 fuk6
+|cat=n,v
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|archaic}} [[mourning]] [[garment]] of a lower level
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|literary}} to take off one's [[court]] [[dress]] and [[ask]] for [[forgiveness]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|ふく|yomi=on}}
+
+===Noun===
+{{ja-noun|こうふく}}
+
+# {{alternative form of|降伏|lang=ja}}
+
+===Verb===
+{{ja-verb-suru|こうふく}}
+
+# {{alternative form of|降伏|lang=ja}}
+
+====Conjugation====
+{{ja-suru|こうふく}}
+
+[[hu:降服]]
+[[mg:降服]]
+[[ja:降服]]
+[[chr:降服]]
+[[zh:降服]]

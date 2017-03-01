@@ -1,0 +1,82 @@
+{{also|影响}}
+==Chinese==
+{{zh-forms|s=影响}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǐngxiǎng
+|c=jing2 hoeng2
+|h=pfs=yáng-hióng
+|ma=Zh-yǐngxiǎng.ogg
+|mn=qz,tw,xm:éng-hióng/zz:éng-hiáng
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to have an effect on; to influence; to [[affect]]; to have an impact on; to [[disturb]]
+
+===Noun===
+{{zh-noun}}
+
+# [[influence]]; [[effect]]; [[impact]]; [[disturbance]] {{zh-mw|m:股}}
+#: {{zh-x|巨大 影響|tremendous '''influence'''}}
+
+====Derived terms====
+{{zh-der|影響力}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|えい|きょう|yomi=on}}
+
+===Noun===
+{{ja-noun|えいきょう}}
+
+# [[influence]], [[effect]]
+#* '''1937''', 甲賀三郎, ドイルを宗とす:
+#*: {{ja-usex|多少の'''影響'''を受けているかも知れぬ。|たしょう の '''えいきょう''' を うけて いる かもしれぬ。|It may perchance be influenced to some degree.}}
+
+====Compounds====
+* {{l/ja|影響力}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|えいきょう}}
+
+# influence, have an effect upon
+#* '''1916''', 和辻哲郎, ある思想家の手紙:
+#*: {{ja-usex|親たちの顔に現われたこういう気持ちはすぐ子供に'''影響'''しました。|おや-たち の かお に あらわれた こう いう きもち は すぐ こども に '''えいきょう''' しました。|The feeling that showed on the parents' faces had an immediate effect on the children.}}
+
+====Conjugation====
+{{ja-suru|えいきょう}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|rv=yeonghyang|hangeul=영향}}
+
+# {{hanja form of|영향|[[influence]]; [[effect]]}}
+
+[[zh-min-nan:影響]]
+[[cs:影響]]
+[[fr:影響]]
+[[ko:影響]]
+[[lo:影響]]
+[[li:影響]]
+[[hu:影響]]
+[[mg:影響]]
+[[ja:影響]]
+[[pt:影響]]
+[[fi:影響]]
+[[chr:影響]]
+[[uk:影響]]
+[[zh:影響]]

@@ -1,0 +1,69 @@
+{{also|积极}}
+==Chinese==
+{{zh-forms|s=积极}}
+
+===Etymology===
+{{wasei kango||せっきょく|positive}}
+
+===Pronunciation===
+{{zh-pron
+|m=jījí
+|ma=Zh-jijí.ogg
+|c=zik1 gik6
+|h=pfs=chit-khi̍t
+|mn=chek-ke̍k
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[positive]]; [[dynamic]]; [[energetic]]
+# [[active]]
+
+====Antonyms====
+* {{zh-l|消極}}
+
+====Derived terms====
+{{zh-der|積極分子|積極性}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せき|きょく|k1=せっ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=h|せっきょく|y=ko}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|せっきょく|hhira=せききよく}}
+
+# [[progressive]], [[active]], [[positive]]
+
+====Inflection====
+{{ja-na|せっきょく}}
+
+====Antonyms====
+* {{ja-r|消極|しょうきょく}}
+
+===Noun===
+{{ja-noun|せっきょく|hhira=せききよく}}
+
+# [[progressiveness]]
+
+====Compounds====
+* {{ja-r|積極的|せっきょくてき}}
+
+===Descendants===
+* Chinese: {{zh-l|積極}}
+* Korean: {{ko-l|적극}}
+* Vietnamese: {{vi-l|tích cực}}
+
+[[ko:積極]]
+[[hu:積極]]
+[[mg:積極]]
+[[ja:積極]]
+[[chr:積極]]
+[[zh:積極]]

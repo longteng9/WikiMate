@@ -1,0 +1,32 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=on|さん|k1=しゃ|み}}
+Abbreviation of {{m|ja|三味線|tr=shamisen}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=o|しゃみ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|しゃみ}}
+
+# {{abbreviation of|lang=ja|sort=しゃみ|三味線|tr=shamisen|dot=:}} {{lb|ja|sort=しゃみ|musical instruments}} a [[shamisen]]: a Japanese [[stringed instrument]] played by [[pluck]]ing, vaguely similar to a [[banjo]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=on|さん|k1=さ|み}}
+Abbreviation of {{m|ja|三味線|tr=samisen}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+This reading appears to be less common than ''shami''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=o|さみ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|さみ}}
+
+# {{abbreviation of|lang=ja|sort=しゃみ|三味線|tr=samisen|dot=:}} {{lb|ja|sort=さみ|musical instruments}} a [[samisen]]: a Japanese [[stringed instrument]] played by [[pluck]]ing, vaguely similar to a [[banjo]]
+
+===References===
+<references/>
+
+[[ja:三味]]

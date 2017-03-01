@@ -1,0 +1,57 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zǐyīn
+|c=zi2 jam1
+|mn=chú-im
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|phonetics}} [[consonant]]
+
+====Synonyms====
+* {{zh-l|輔音}}
+
+====See also====
+* {{zh-l|母音}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|し|おん|yomi=o}}
+{{ja-kanjitab|し|いん|yomi=o}}
+{{rfe|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|し いん|acc=h|acc_ref=NHK,DJR|y=ko}}
+* {{homophone|死因|私印|試飲|子院|支院|枝院|四韻|指印|資蔭|lang=ja|sort=しいん}}
+{{ja-pron|しおん|acc=h|acc_ref=DJR|y=go}}
+* {{homophone|紫苑|紫菀|四恩|師恩|至恩|私恩|歯音|lang=ja|sort=しおん}}
+
+===Noun===
+{{ja-noun|し.いん|しおん}}
+
+# {{lb|ja|phonetics|phonology|sort=しいん}} [[consonant]]
+
+====Related terms====
+* {{ja-r|母音|ぼいん|gloss=[[vowel]]}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[fr:子音]]
+[[ko:子音]]
+[[hu:子音]]
+[[mg:子音]]
+[[ja:子音]]
+[[pl:子音]]
+[[zh:子音]]

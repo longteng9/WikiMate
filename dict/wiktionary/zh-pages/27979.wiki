@@ -1,0 +1,140 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=06|sn=13|four=62113|canj=RMLMO|ids=⿰⻊兆}}
+
+====References====
+* {{Han ref|kx=1226.010|dkj=37533|dj=1697.130|hdz=63703.060|uh=8DF3|ud=36339|bh=B8F5|bd=47349}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tiào
+|c=tiu3
+|h=pfs=thiau/thiàu
+|mn=thiàu/qz,xm,zz:tiâu/tiô/qz,xm,zz:thiô
+|mn_note=thiàu/tiâu - literary; tiô/thiô - vernacular
+|mna=Taiwanese-The_Consonant_th.ogg
+|w=2thiau
+|ma=y
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[jump]], to [[leap]], to [[hop]]
+# to [[pass over]], to skip, to bypass
+#: {{zh-l|跳級|to skip a grade}}
+# to beat, to palpitate, to pulsate
+#: {{zh-l|心跳|heartbeat}}
+# to [[jump]] [<nowiki/>[[into]] or [[from]]<nowiki/>] so as to result in death
+#: {{zh-x|跳河|to commit suicide by jumping into a river}}
+#: {{zh-x|跳樓|to commit suicide by jumping out of a window; to jump to one's death}}
+# to skip a part of a video
+#: {{zh-x|我 絕對 不 跳 這麼 好聽 的 OP。|I will never skip such an awesome opening.}}
+
+====Compounds====
+{{der5
+|{{zh-l|跳班}}
+|{{zh-l|跳板}}
+|{{zh-l|跳槽}}
+|{{zh-l|跳動}}
+|{{zh-l|跳房子}}
+|{{zh-l|跳高}}
+|{{zh-l|跳高兒}}
+|{{zh-l|跳行}}
+|{{zh-l|跳河}}
+|{{zh-l|跳級}}
+|{{zh-l|跳間}}
+|{{zh-l|跳腳}}
+|{{zh-l|跳腳兒}}
+|{{zh-l|跳進黃河洗不清}}
+|{{zh-l|跳井}}
+|{{zh-l|跳樑}}
+|{{zh-l|跳踉}}
+|{{zh-l|跳樓}}
+|{{zh-l|跳馬}}
+|{{zh-l|跳皮筋兒}}
+|{{zh-l|跳棋}}
+|{{zh-l|跳傘}}
+|{{zh-l|跳傘塔}}
+|{{zh-l|跳神}}
+|{{zh-l|跳神兒}}
+|{{zh-l|跳繩}}
+|{{zh-l|跳繩兒}}
+|{{zh-l|跳水}}
+|{{zh-l|跳水池}}
+|{{zh-l|跳臺}}
+|{{zh-l|跳舞}}
+|{{zh-l|跳箱}}
+|{{zh-l|跳鞋}}
+|{{zh-l|跳遠}}
+|{{zh-l|跳遠兒}}
+|{{zh-l|跳躍}}
+|{{zh-l|跳蚤}}
+|{{zh-l|跳蚤市場}}
+|{{zh-l|跳閘}}
+}}
+
+===References===
+* {{R:twedu|a04016}}
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=足06}}
+
+# {{defn|lang=ja|sort=足06}}
+
+====Readings====
+* {{ja-readings|on=[[ちょう]] (chō), [[とう]] (tō)|kun=[[はねる]] (haneru), [[とぶ]] (tobu), [[おどる]] (odoru)}}
+
+====Compounds====
+* [[跳躍]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[조]], [[도]]|eumhun=|mr=cho, to|y=co, to}}
+
+# {{defn|lang=ko|sort=足06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khiêu]], [[khêu]], [[khểu]], [[queo]], [[xệu]], [[xiêu]], [[khoèn]], [[quèo]], [[xeo]], [[xiếu]]|rs=足06}}
+
+# {{defn|lang=vi|sort=足06}}
+
+[[zh-min-nan:跳]]
+[[fr:跳]]
+[[ko:跳]]
+[[lt:跳]]
+[[hu:跳]]
+[[mg:跳]]
+[[ja:跳]]
+[[no:跳]]
+[[pl:跳]]
+[[ta:跳]]
+[[th:跳]]
+[[chr:跳]]
+[[uk:跳]]
+[[zh:跳]]

@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=05|sn=11|four=44601|canj=TYR}}
+
+# [[rush]] or [[straw]] [[matting]]
+
+====References====
+* {{Han ref|kx=1024.050|dkj=30802|dj=1483.050|hdz=53189.060|uh=82EB|ud=33515|bh=D073|bd=53363}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=shàn
+|c=sim3
+|mn=qz,xm:siàm/zz:chiam
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[cover]] with a [[straw]] [[mat]], [[tarpaulin]], etc.
+
+===Pronunciation 2===
+{{zh-pron
+|m=shān
+|c=sim1
+|mn=qz,xm:siam
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[straw]] [[mat]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸05}}
+
+# {{defn|lang=ja|sort=艸05}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen)|kun=[[とま]] (toma)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=점|eumhun=|rv=jeom|mr=chŏm|y=cem}}
+
+# {{defn|lang=ko|sort=艸05}}
+
+[[fr:苫]]
+[[ko:苫]]
+[[hu:苫]]
+[[mg:苫]]
+[[ja:苫]]
+[[pl:苫]]
+[[th:苫]]
+[[zh:苫]]

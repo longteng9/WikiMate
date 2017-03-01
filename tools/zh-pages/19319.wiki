@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=10|sn=13|four=30127|canj=EYBS}}
+
+# [[torrential]]
+# [[voluminous]]
+
+====References====
+* {{Han ref|kx=0641.250|dkj=18003|dj=1049.040|hdz=31706.040|uh=6EC2|ud=28354|bh=B7BC|bd=47036}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=pāng
+|c=pong4,pong1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|大雨滂沱|涕泗滂沱|淜滂|滂喜篇|滂江|滂沛|滂沱|滂沱大雨|滂浩|滂渤|滂湃|滂滂|滂澤|滂濞|滂薄|胡吹亂滂}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水10}}
+
+# {{defn|lang=ja|sort=水10}}
+
+====Readings====
+* {{ja-readings|on=[[ぼう]] (bō), [[ほう]] (hō)|kun=[[ひろい]] (hiroi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=방|eumhun=|rv=bang|mr=pang|y=pang}}
+
+# {{defn|lang=ko|sort=水10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bàng]], [[bẵng]], [[phang]], [[phẳng]]|rs=水10}}
+
+# {{defn|lang=vi|sort=水10}}
+
+[[fr:滂]]
+[[hu:滂]]
+[[mg:滂]]
+[[ms:滂]]
+[[ja:滂]]
+[[pl:滂]]
+[[th:滂]]
+[[zh:滂]]

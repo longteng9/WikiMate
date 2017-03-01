@@ -1,0 +1,120 @@
+{{character info/new}}
+{{also|羮}}<!--What is the difference between these two very similar characters?-->
+==Translingual==
+
+===Han character===
+{{Han char|rn=123|rad=羊|as=13|sn=19|four=80530|canj=TGFTK}}
+
+====References====
+* {{Han ref|kx=0954.250|dkj=28584|dj=1399.190|hdz=53139.130|uh=7FB9|ud=32697|bh=C3BC|bd=50108}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=羮}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=gēng
+|c=gang1
+|c-t=gang1*
+|h=pfs=
+|md=
+|mn=xm,qz,tp,lk,km,mg,hc:kiⁿ/zz,kh,yl,tn,tc:keⁿ
+|w=
+|mc=y
+|oc=y
+|cat=n,cls
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[thick]] [[soup]]; [[broth]]
+#: {{zh-x|魚肚羹|fish maw '''soup'''}}
+# [[vegetable]] [[soup]]
+# [[soup]]s in general
+# {{lb|zh|Cantonese}} [[spoon]] {{zh-mw|隻}}
+# {{lb|zh|Cantonese}} [[spoonful]]
+#* {{zh-x|𢳂 羹 辣椒醬 落去|scoop a '''spoonful''' of hot sauce in|C}}
+
+=====Synonyms=====
+{{zh-dial|勺子}}
+
+=====Descendants=====
+* Tai:
+** Lao: {{l|lo|ແກງ||stew; soup}}
+** Thai: {{l|th|แกง||curry; soup; stew}}
+
+====Compounds====
+{{zh-der|分一杯羹|分我杯羹|分杯羹|吃閉門羹|和羹|土托魚羹|塵飯塗羹|大羹玄酒|太羹|年羹堯|懲羹吹齏|指雁為羹|殘羹|殘羹冷炙|殘羹冷飯|殘羹剩飯|沸羹|爺羹娘飯|爺飯娘羹|百歲羹|簞食豆羹|羊羹|羹匙|羹湯|羹牆|羹牆見堯|羹藜唅糗|羹飯|肉羹|芼羹|蓴羹鱸膾|藜羹|蜩螗沸羹|調羹|豆羹|鉶羹|閉門羹}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=láng
+|c=long4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|不羹}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=羊13}}
+
+# {{defn|lang=ja|sort=羊13}}
+
+====Readings====
+{{ja-readings|goon=[[きょう]] (kyō)|kanon=[[こう]] (kō)|kanyoon=[[かん]] (kan)|kun=[[あつもの]] (atsumono)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|肉羹|にくこう}}: [[meat]] [[broth]]
+* {{ja-r|羊羹|ようかん}}: a gelatin made from boiled sheep and used in soups; a thick jellied dessert made of red bean paste, agar, and sugar
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=갱|eumhun=|rv=gaeng|mr=kaeng|y=kayng}}
+
+# {{defn|lang=ko|sort=羊13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[canh]]|rs=羊13}}
+
+# {{defn|lang=vi|sort=羊13}}
+
+[[zh-min-nan:羹]]
+[[fr:羹]]
+[[ko:羹]]
+[[hu:羹]]
+[[mg:羹]]
+[[ja:羹]]
+[[no:羹]]
+[[pl:羹]]
+[[th:羹]]
+[[vi:羹]]
+[[zh:羹]]

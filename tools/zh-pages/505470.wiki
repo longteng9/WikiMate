@@ -1,0 +1,83 @@
+{{also|质问}}
+==Chinese==
+{{zh-forms|s=质问}}
+
+===Pronunciation===
+{{zh-pron
+|m=质wèn
+|c=zat1 man6
+|h=pfs=chṳt-mun
+|mn=qz,tw,xm,zz:chit-būn/qz,tw,xm:chit-mn̄g/zz:chit-mūi
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[question]]
+# [[interrogation]]
+
+===Verb===
+{{zh-verb}}
+
+# to call to account, to interrogate
+
+----
+
+==Japanese==
+{{ja-kanjitab|しつ|もん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|しつもん|y=o|acc=0|dev=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|しつもん}}
+
+# [[question]]
+
+===Verb===
+{{ja-verb-suru|しつもん}}
+
+# [[ask]] a question
+
+====Conjugation====
+{{ja-suru|しつもん}}
+
+====Synonyms====
+* {{ja-r|聞く|きく}}, {{ja-r|問う|と.う}}, {{ja-r|尋ねる|たずねる}}
+
+====See also====
+* {{ja-r|伺う|うかがう|gloss=ask}} {{qualifier|humble}}
+
+===References===
+* {{R:Shogakukan}}
+<references/>
+
+[[Category:Japanese basic words]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=질문}}
+
+# {{hanja form of|질문|[[question]]}}
+
+[[fr:質問]]
+[[ko:質問]]
+[[it:質問]]
+[[kn:質問]]
+[[lt:質問]]
+[[li:質問]]
+[[hu:質問]]
+[[mg:質問]]
+[[nl:質問]]
+[[ja:質問]]
+[[pt:質問]]
+[[ru:質問]]
+[[sv:質問]]
+[[chr:質問]]
+[[tr:質問]]
+[[zh:質問]]

@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=duǎnbō
+|c=dyun2 bo1
+|mn=té-pho
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[shortwave]] {{gloss|of radio waves}}
+
+====Antonyms====
+* {{zh-l|長波}}
+
+====Derived terms====
+{{zh-der|短波廣播|超短波}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|たん|は|k2=ぱ|yomi=on}}
+
+===Noun===
+{{ja-noun|たんぱ}}
+
+# [[shortwave]] {{gloss|of radio waves}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=단파}}
+
+# {{hanja form of|단파|shortwave}}
+
+[[ko:短波]]
+[[lo:短波]]
+[[hu:短波]]
+[[zh:短波]]

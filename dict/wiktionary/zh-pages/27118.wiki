@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|谙}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=09|sn=16|four=00661|canj=YRYTA|ids=⿰言音}}
+
+====References====
+* {{Han ref|kx=1171.120|dkj=35736|dj=1636.190|hdz=64000.190|uh=8AF3|ud=35571|bh=BFDA|bd=49114}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谙}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=ān
+|m-s=ngan2
+|c=am1,am2
+|mc=y
+|oc=y
+|cat=v,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[learn]] [[by heart]]
+# [[versed]] in, [[fully]] [[acquaint]]ed with
+# {{lb|zh|Sichuanese}} to [[think]], to [[believe]]
+
+====Compounds====
+{{zh-der|不諳|不諳事務|熟諳|知音諳呂|言不諳典|諳事|諳分|諳歷|諳練|諳習}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言09}}
+
+# {{defn|lang=ja|sort=言09}}
+
+====Readings====
+* {{ja-readings|goon=[[おん]] (on)|kanon=[[あん]] (an)|kun=[[そらんじる]] (soranjiru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=암}}
+
+# {{defn|lang=ko|sort=言09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=言09| hanviet = am}}
+
+# {{defn|lang=vi|sort=言09}}
+
+[[fr:諳]]
+[[id:諳]]
+[[hu:諳]]
+[[ja:諳]]
+[[pl:諳]]
+[[th:諳]]
+[[zh:諳]]

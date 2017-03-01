@@ -1,0 +1,206 @@
+{{character info/new}}
+{{also|谁}}
+==Translingual==
+{{stroke order|strokes=15}}
+
+===Han character===
+{{Han char|rn=149|rad=言|as=08|sn=15|four=00614|canj=YROG|ids=⿰言隹}}
+
+====References====
+* {{Han ref|kx=1165.110|dkj=35686|dj=1630.270|hdz=63987.100|uh=8AB0|ud=35504|bh=BDD6|bd=48598}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|t1=speak|隹|ls=psc|c1=s|c2=p}} – to ask “who?”.
+
+===Etymology 1===
+{{zh-forms|s=谁}}
+
+====Pronunciation====
+{{zh-pron
+|m=shéi,shuí,1nc=vernacular,2nc=literary
+|c=seoi4
+|h=pfs=sùi
+|mn=sûi/chûi
+|mn_note=sûi - literary; chûi - vernacular
+|mn-t=sui5
+|mc=y
+|oc=y
+|cat=pron,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[who]]; [[whom]]
+#* {{zh-x|他 是 誰？|'''Who''' is he?}}
+#* {{zh-x|我們 的 老師 是 誰？|'''Who''' is our teacher?}}
+#* {{zh-x|誰 來 了？|'''Who''' has come?}}
+#* {{zh-x|我們 遲到 是 誰 的 過失？|'''Who'''se fault is it that we are late?}}
+#* {{zh-x|他們 邀請 誰 了？|'''Whom''' did they invite?}}
+# [[someone]]; [[anyone]]
+#* {{zh-x|誰 能 幫 我 解開 安全帶？|Can '''someone''' help me to undo my seat belt?}}
+#* {{zh-x|有 誰 願意 跟 我 一起 去 嗎？|Does '''anyone''' want to go with me?}}
+# [[anyone]]; [[whoever]]
+#* {{zh-x|誰 想 學 英文，我 就 教{jiāo} 他。|I'll teach English to '''whoever''' wants to learn it.}}
+# {{surname|lang=zh}}
+
+===Etymology 2===
+{{zh-forms|s=谁|alt=倽}}
+From elision of {{zh-l|啥人|siáⁿ-lâng}}.
+
+====Pronunciation====
+{{zh-pron
+|mn=xm,lk,yl,hc:siâng/qz:sâng/twv:siáng
+|dial=n
+|cat=pron
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Min Nan}} [[who]]; [[whom]]
+
+===Etymology 3===
+{{zh-forms|s=谁}}
+From elision of {{zh-l|底人|tī-lâng}}.
+
+====Pronunciation====
+{{zh-pron
+|mn=xm,km,mg:tiâng
+|mn-t=diang5
+|dial=n
+|cat=pron
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Kinmen|Magong|&|Teochew|_|Min Nan}} [[who]]; [[whom]]
+
+===Etymology 4===
+{{zh-forms|s=谁}}
+From shortening of {{zh-l|是誰|tr=chī-chūi}}, from {{zh-l|是誰|tr=sī-sûi}}.
+
+====Pronunciation====
+{{zh-pron
+|mn=xm,qz:chūi
+|dial=n
+|cat=pron
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Xiamen|&|Quanzhou|_|Min Nan}} [[who]]; [[whom]]
+
+===Etymology 5===
+{{zh-forms|s=谁|alt=孰:chiâ,咜:chôa}}
+From shortening of {{zh-l|是誰|tr=chī-choa̍h}}, from {{zh-l|是誰啊|tr=sī-sûi--ah}}.
+
+====Pronunciation====
+{{zh-pron
+|mn=zz:choa̍h/zz:chôa/tc:chiâ
+|dial=n
+|cat=pron
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Zhangzhou|&|Taichung|_|Min Nan}} [[who]]; [[whom]]
+
+===Synonyms===
+{{zh-dial}}
+
+===See also===
+Question words
+* {{zh-l|嗎|yes/no question particle}}
+* {{zh-l|什麼|what}}
+* {{zh-l|怎麼|how}}
+* {{zh-l|什麼時候|when}}
+* {{zh-l|哪|what, which}}
+* {{zh-l|哪裡}}, {{zh-l|哪兒}} (where)
+* {{zh-l|呢|reciprocal questions particle}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Pronoun===
+{{ja-pos|pronoun|た}}
+
+# interrogative personal pronoun; [[who]]
+
+===Pronoun===
+{{ja-pos|pronoun|たれ}}
+
+# interrogative personal pronoun; [[who]]
+#* {{RQ:Nippo Jisho|614}}
+#*: '''Tare'''. タレ (誰) 誰. 例, '''Tare'''ga maittaca. l, '''tare'''ca maitta. (誰が参つたか. まはは, 誰か参つた) 誰が来たか. '''Tare''' naritomo. (誰なりとも) 誰であろうとも.
+
+===Etymology===
+From earlier /tare/. The voicing of the initial /t-/ to /d-/ is likely due to analogy to the interrogative demonstrative {{m|ja|何処|tr=doko}}.
+
+===Pronoun===
+{{ja-pos|pronoun|だれ}}
+
+# interrogative personal pronoun; [[who]]
+
+====Synonyms====
+* {{ja-r|何方|どなた}} {{qualifier|honorific}}
+
+===Kanji===
+{{ja-kanji|grade=c|rs=言08}}
+
+# interrogative personal pronoun; [[who]]
+
+====Readings====
+* {{ja-readings|on=[[すい]] (sui)|kun=[[だれ]] (dare)}}
+
+===References===
+* {{R:Nippo Jisho}}
+
+[[Category:Japanese basic words]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[수]]|eumhun=|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=言08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thùy]], [[thuỳ]]|rs=言08}}
+
+# {{defn|lang=vi|sort=言08}}
+
+[[zh-min-nan:誰]]
+[[et:誰]]
+[[fr:誰]]
+[[ko:誰]]
+[[lo:誰]]
+[[li:誰]]
+[[hu:誰]]
+[[mg:誰]]
+[[nl:誰]]
+[[ja:誰]]
+[[pl:誰]]
+[[pt:誰]]
+[[fi:誰]]
+[[sv:誰]]
+[[th:誰]]
+[[chr:誰]]
+[[zh:誰]]

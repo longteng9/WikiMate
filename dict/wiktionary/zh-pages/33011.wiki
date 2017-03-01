@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=199|rad=麥|as=05|sn=16|four=47241|canj=JEPRU}}
+
+# sticky rice ball
+
+====References====
+* {{Han ref|kx=1513.080|dkj=47757|dj=2042.060|hdz=74602.120|uh=9EAD|ud=40621|bh=ECB3|bd=60595}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=pào
+|c=paau3
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===Etymology 2===
+{{zh-forms|alt=胖}}
+From {{etyl|ja|nan}} {{m|ja|パン|tr=pan||bread}}, from {{etyl|pt|nan}} {{m|pt|pão||bread}}, from {{etyl|la|nan}} {{m|la|panem}}, [[accusative]] [[singular]] form of {{m|la|panis||bread}}. Compare French {{m|fr|pain}}, Italian {{m|it|pane}}, Romanian {{m|ro|pâine}}, Spanish {{m|es|pan}}.
+
+====Pronunciation====
+{{zh-pron
+|h=pfs=pháng
+|mn=pháng
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|Taiwanese Min Nan and Hakka}} [[bread]]
+
+=====Synonyms=====
+{{zh-dial|麵包}}
+
+=====Derived terms=====
+{{zh-der|俗麭:sio̍k-pháng}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=麥05}}
+
+# {{defn|lang=ja|sort=麥05}}
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō)|kun=[[こなもち]] (konamochi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[포]]|rv=po|mr=p'o}}
+
+# {{defn|lang=ko|sort=麥05}}
+
+[[fr:麭]]
+[[hu:麭]]
+[[mg:麭]]
+[[ja:麭]]
+[[pl:麭]]
+[[th:麭]]
+[[zh:麭]]

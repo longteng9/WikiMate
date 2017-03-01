@@ -1,0 +1,49 @@
+{{also|運転|运转}}
+==Chinese==
+{{zh-forms|s=运转}}
+
+===Etymology===
+Attested in ancient Chinese texts. The sense “to operate” is from {{etyl|ja|zh}} {{ja-r|運轉|うんてん}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yùnzhuǎn
+|c=wan6 zyun2
+|h=pfs=yun-chón
+|mn=ūn-choán
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|intransitive}} to [[revolve]]; to [[orbit]]; to [[turn]] on an axis
+# {{lb|zh|intransitive}} to [[operate]]; to [[run]]
+# {{lb|zh|of fortune}} to [[turn]]; to have a [[lucky break]]
+
+====Derived terms====
+{{zh-der|運轉手|時來運轉}}
+
+===Noun===
+{{zh-noun}}
+
+# [[revolution]]; [[turn]]ing on an [[axis]]
+# [[operation]] {{gloss|of a machine}}; [[running]] {{gloss|of a business}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=운전}}
+
+# {{hanja form of|운전|[[driving]]}}
+
+[[zh-min-nan:運轉]]
+[[ko:運轉]]
+[[hu:運轉]]
+[[mg:運轉]]
+[[ja:運轉]]

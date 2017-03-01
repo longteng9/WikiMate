@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|鳌|鼇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=11|sn=22|four=48336|canj=GKNWF}}
+
+# huge sea turtle
+
+====References====
+* {{Han ref|kx=1476.270|dkj=46416|dj=2008.120|hdz=74704.160|uh=9C32|ud=39986|bh=F7B4|bd=63412}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鳌}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=áo
+|c=ngou4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|占鰲頭|溫鰲妝燕|獨占鰲頭|金鰲玉蝀|鰲山|鰲裡奪尊|鰲頭獨占|鰲魚}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚11}}
+
+# {{defn|lang=ja|sort=魚11}}
+
+====Readings====
+* {{ja-readings|on=[[ごう]] (gō)|kun=[[おおがめ]] (oogame)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=오|eumhun=|rv=o|mr=o|y=o}}
+
+# {{defn|lang=ko|sort=魚11}}
+
+[[zh-min-nan:鰲]]
+[[fr:鰲]]
+[[hu:鰲]]
+[[mg:鰲]]
+[[ja:鰲]]
+[[pl:鰲]]
+[[th:鰲]]
+[[zh:鰲]]

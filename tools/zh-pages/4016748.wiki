@@ -1,0 +1,58 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìnsì
+|c=gan6 ci5
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to be [[similar]] to; to be about the [[same]] as
+# to [[approximate]]
+
+===Noun===
+{{zh-noun}}
+
+# [[approximation]]
+
+===Derived terms===
+{{zh-der|近似值}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きん|じ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|きんじ|yomi=o}}
+
+===Noun===
+{{ja-noun|きんじ}}
+
+# [[approximation]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|きんじ}}
+
+# to [[resemble]] closely
+#* '''1915''', 和辻哲郎, 「ゼエレン・キェルケゴオル」序:
+#*: {{ja-usex|私は自分の問題と彼の問題とがきわめて'''近似'''していることを感じた。|わたし は じぶん の もんだい と かれ の もんだい と が きわめて '''きんじ''' して いる こと を かんじた。|I felt that my problem resembled his problem extremely closely.}}
+
+====Conjugation====
+{{ja-suru|きんじ}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=근사}}
+
+# {{hanja form of|근사}}
+
+[[ko:近似]]
+[[ja:近似]]
+[[zh:近似]]

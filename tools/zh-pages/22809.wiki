@@ -1,0 +1,118 @@
+{{character info/new}}
+{{also|牋|笺}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=08|sn=14|four=88503|canj=HII}}
+
+# [[note]], [[memo]]
+# [[stationery]]
+# [[comments]]
+
+====References====
+* {{Han ref|kx=0887.040|dkj=26122|dj=1315.030|hdz=52981.040|uh=7B8B|ud=31627|bh=BAE0|bd=47840}}
+
+----
+
+==Chinese==
+{{zh-forms|s=笺}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiān
+|c=zin1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|信箋|冷金箋|南箋|擘箋|泥金箋|灑金箋|燕子箋|瑤箋|硯箋|箋函|箋札|箋注|箋紙|花箋|薛濤箋|處方箋|蠟箋|蠻箋|表箋|詩箋|鄭箋|金粟箋|銀箋|長箋|髮箋|魚箋|鸞箋}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=竹08}}
+
+====Readings====
+{{ja-readings
+|goon=[[せん]] (sen)
+|kanon=[[せん]] (sen)
+|kun=[[ふだ]] (fuda)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|せん}}
+From {{etyl|ltc|ja|sort=せん}} {{m|ltc|箋|tr={{IPAchar|/*d͡zen/}}}}. Compare modern {{etyl|cmn|-}} traditional {{m|zh|箋}} and simplified {{m|zh|笺|tr=jiān}}.
+
+====Pronunciation====
+{{ja-pron|yomi=on|せん|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|籖}}
+
+====Noun====
+{{ja-noun|せん}}
+
+# a [[slip]] of [[paper]]
+# a [[label]] made of [[wood]], [[bamboo]], [[ivory]], or [[paper]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|箋注|せんちゅう}}, {{ja-r|箋註|せんちゅう}}: an [[annotation]]
+{{der-mid}}
+* {{ja-r|処方箋|しょほうせん}}: a [[prescription]]
+* {{ja-r|付箋|ふせん}}, {{ja-r|附箋|ふせん}}: a [[tag]], a [[label]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|ふだ}}
+Originally a compound of {{compound|lang=ja|sort=ふだ|文|tr1=fumi|t1=writing|板|tr2=ita|t2=board}}, from the way that thin slices of wood were used for labels.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+{{IPAchar|/fumiita/}} > {{IPAchar|/fumita/}} > {{IPAchar|/funda/}} > {{IPAchar|/fuda/}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|ふだ|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|札}}, {{ja-l|簡}}
+
+====Noun====
+{{ja-noun|ふだ}}
+
+# {{alternative spelling of|lang=ja|sort=ふだ|札|dot=:}} a [[slip]] of [[paper]]; a [[label]]
+
+=====Usage notes=====
+The {{lang|ja|箋}} spelling for ''fuda'' is rare. The {{ja-l|札}} spelling is the most common.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|eumhun=|rv=jeon|mr=chŏn|y=cen}}
+
+# {{defn|lang=ko|sort=竹08}}
+
+[[fr:箋]]
+[[ko:箋]]
+[[hu:箋]]
+[[mg:箋]]
+[[ja:箋]]
+[[pl:箋]]
+[[th:箋]]
+[[vi:箋]]
+[[zh:箋]]

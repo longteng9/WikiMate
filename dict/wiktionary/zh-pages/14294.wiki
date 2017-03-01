@@ -1,0 +1,89 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+From {{l|mul|小}} ‘small’ + {{l|mul|大}} ‘big’ (a pointed object moving from one to the other).
+
+===Han character===
+{{Han char|rn=42|rad=小|as=03|sn=6|four=90430|canj=FK|ids=⿱小大}}
+
+====References====
+* {{Han ref|kx=0297.020|dkj=07480|dj=0591.040|hdz=10562.090|uh=5C16|ud=23574|bh=A679|bd=42617}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiān
+|c=zim1
+|h=pfs=chiâm
+|md=
+|mn=chiam
+|mna=Taiwanese-The_Consonant_ch.ogg
+|w=
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[sharp]]; having a [[sharp]] tip; [[pointy]]
+# [[acute]]
+# [[shrewd]]
+
+====Compounds====
+{{zh-der|尖兵|尖脆|尖刀|尖頂|尖端|尖端放電|尖叫|尖刻|尖冷|尖厲|尖利|尖溜溜|尖峭|尖俏|尖銳|尖酸|尖頭|尖團音|尖細|尖嘯|尖削|尖音|尖子|尖嘴薄舌|尖嘴猴腮}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=小03}}
+
+# {{defn|lang=ja|sort=小03}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen)|kun=[[とがる]] (togaru), [[するどい]] (surudoi)}}
+
+====Compounds====
+* [[尖鋭]]
+* [[尖端]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=첨|rv=cheom|mr=ch'ŏm}}
+
+# {{defn|lang=ko|sort=小03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tiêm]], [[nhọn]], [[tem]]|rs=小03}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:尖]]
+[[fr:尖]]
+[[ko:尖]]
+[[li:尖]]
+[[hu:尖]]
+[[mg:尖]]
+[[ms:尖]]
+[[ja:尖]]
+[[no:尖]]
+[[pl:尖]]
+[[th:尖]]
+[[zh:尖]]

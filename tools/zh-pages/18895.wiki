@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|泄}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=06|sn=9|four=35106|canj=ELWP}}
+
+# [[leak]], [[drip]]
+# vent or release
+
+====References====
+* {{Han ref|kx=0621.200|dkj=17401|dj=1017.120|hdz=31606.090|uh=6D29|ud=27945|bh=ACAA|bd=44202}}
+
+----
+
+==Chinese==
+{{zh-forms|s=泄}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiè
+|c=sit3,jai6
+|h=pfs=siet
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|傾洩|共洩|外洩|宣洩|排洩|水洩不通|洩勁|洩壓|洩密|洩底|洩恨|洩憤|洩氣|洩洩|洩洪|洩漏|洩漏天機|洩漏風聲|洩露|溶溶洩洩|漏洩|漏洩春光|發洩}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水06}}
+
+# {{defn|lang=ja|sort=水06}}
+
+====Readings====
+* {{ja-readings|on=[[えい]] (ei), [[せつ]] (setsu)|kun=[[のびる]] (nobiru), [[もれる]] (moreru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[설]], [[예]]|eumhun=|rv=seol, ye|mr=sŏl, ye|y=sel, yey}}
+
+# {{defn|lang=ko|sort=水06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''洩''' ([[duệ]], [[dáy]], [[tiết]], [[dịa]])
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:洩]]
+[[fr:洩]]
+[[hu:洩]]
+[[ja:洩]]
+[[pl:洩]]
+[[th:洩]]
+[[zh:洩]]

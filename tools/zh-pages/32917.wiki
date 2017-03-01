@@ -1,0 +1,97 @@
+{{character info/new}}
+{{also|醎|咸}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=197|rad=鹵|as=09|sn=20|four=23650|canj=YWIHR|ids=⿰鹵咸}}
+
+====Descendants====
+* [[咸]] – simplified to an existing character.
+
+====See also====
+* {{l|mul|鹽}}
+
+====References====
+* {{Han ref|kx=1507.200|dkj=47553|dj=2035.220|hdz=74610.190|uh=9E79|ud=40569|bh=C4D0|bd=50384}}
+
+----
+
+==Chinese==
+{{zh-forms|s=咸|alt=醎}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|鹵|咸|c1=s|c2=p|t1=salt|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xián
+|c=haam4
+|h=pfs=hàm
+|md=gèng/hàng
+|md_note=gèng - vernacular; hàng - literary
+|mn=kiâm
+|w=3hhe,3hhi
+|w_note=3hhe - vernacular; 3hhi - literary
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[salty]]; [[briny]]
+# [[salted]]
+# [[pickled]]
+
+===Compounds===
+{{zh-der|鹹肉|鹹水|鹹水湖|鹹菜|鹹蛋|八珍鹹粥|半鹹水湖|托葷鹹食|鹹嘴淡舌|鹹水妹|鹹水魚|鹹海|鹹湖|鹹潟|鹹魚|鹹魚翻身|鹹鴨蛋}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鹵09}}
+
+# [[salty]]
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[しおからい]] (shiokarai), [[しおけ]] (shioke)}}
+
+====Compounds====
+* {{ja-r|鹹湖|かんこ}}
+* {{ja-r|鹹水|かんすい}}
+* {{ja-r|鹹水湖|かんすいこ}}
+* {{ja-r|鹹味|かんみ}}
+* {{ja-r|半鹹水|はんかんすい}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=함|eumhun=|rv=ham|mr=ham|y=ham}}
+
+# {{defn|lang=ko|sort=鹵09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hàm]]|rs=鹵09}}
+
+# {{defn|lang=vi|sort=鹵09}}
+
+[[zh-min-nan:鹹]]
+[[fr:鹹]]
+[[ko:鹹]]
+[[hu:鹹]]
+[[mg:鹹]]
+[[ja:鹹]]
+[[pl:鹹]]
+[[th:鹹]]
+[[vi:鹹]]
+[[zh:鹹]]

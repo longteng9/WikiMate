@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=06|sn=9|four=97020|canj=PBMR|ids=⿰忄同}}
+
+# in [[pain]], [[sorrowful]]
+
+====References====
+* {{Han ref|kx=0385.130|dkj=10594|dj=0717.030|hdz=42295.080|uh=606B|ud=24683|bh=ABF0|bd=44016}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dòng
+|c=dung6,tung1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|哀恫|恫喝|恫嚇|恫疑虛喝|恫疑虛猲|恫瘝|恫瘝在抱|恫瘝在身|憁恫|虛聲恫嚇}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心06}}
+
+# {{defn|lang=ja|sort=心06}}
+
+====Readings====
+* {{ja-readings|goon=[[ず]] (zu), [[ずう]] (zū), [[つう]] (tsū)|kanon=[[とう]] (tō)|kanyoon=[[どう]] (dō)|kun=[[いたむ]] (itamu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=통|eumhun=|rv=tong|mr=t'ong|y=thong}}
+
+# {{defn|lang=ko|sort=心06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[động]], [[thông]]|rs=心06}}
+
+# {{defn|lang=vi|sort=心06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=606b Nom Foundation]
+
+[[fr:恫]]
+[[li:恫]]
+[[hu:恫]]
+[[mg:恫]]
+[[ja:恫]]
+[[pl:恫]]
+[[th:恫]]
+[[zh:恫]]

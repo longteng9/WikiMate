@@ -1,0 +1,137 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dìqiú,er=y
+|c=dei6 kau4
+|h=pfs=thi-khiù
+|md=dê-giù
+|mn=xm,qz,zz,kh:tē-kiû/tp:tōe-kiû
+|w=3di jieu
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# the [[Earth]]; [[globe]]; [[world]]; the [[planet]] {{zh-mw|個}}
+
+====Derived terms====
+{{zh-der|地球村|地球化學|地球科學|地球科學家|地球人|地球日|地球外|地球物理學|地球儀}}
+
+====See also====
+* {{list:planets of the Solar System/zh}}
+
+===Descendants===
+{{CJKV|地球|ちきゅう|지구|địa cầu}}
+
+{{zh-cat|Elementary|Planets of the Solar System}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+[[File:The_Earth_seen_from_Apollo_17.jpg|thumb|250px|{{lang|ja|地球}} (''chikyū''): the '''globe''', the '''Earth'''.]]
+{{wikipedia|Earth}}
+</div>
+{{ja-kanjitab|ち|きゅう|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=ちきゅう}} {{m|zh|地球|tr=*dhì gjuw|lit=earth ball}}. Compare modern {{etyl|nan|-}} reading ''tē-kiû''.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|ちきゅう|acc=0|acc_ref=NHK,DJR|dev=1}}
+
+===Noun===
+{{ja-noun|ちきゅう|hhira=ちきう}}
+
+# the [[globe]], the whole [[world]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|地球温暖化|ちきゅう おんだんか}}: [[global warming]]
+* {{ja-r|地球化学|ちきゅう かがく}}:　[[geochemistry]]
+* {{ja-r|地球昭|ちきゅう しょう}}: [[earthshine]], [[illuminate|illuminating]] the dark part of the [[moon]]
+* {{ja-r|地球外|ちきゅうがい}}: [[extraterrestrial]]
+* {{ja-r|地球外生物|ちきゅうがい せいぶつ}}: [[extraterrestrial]] [[life]]
+* {{ja-r|地球外放射線|ちきゅうがい ほうしゃせん}}: [[extraterrestrial]] [[radiation]]
+* {{ja-r|地球環境モニタリングシステム|ちきゅう かんきょう モニタリング システム}}:　the [[w:Global Environment Monitoring System|Global Environment Monitoring System]] (GEMS)
+* {{ja-r|地球観測衛星|ちきゅう かんそく えいせい}}: an earth [[survey]] [[satellite]]
+* {{ja-r|地球儀|ちきゅうぎ}}: a [[terrestrial]] [[globe]]
+* {{ja-r|地球型惑星|ちきゅうがた わくせい}}: a [[terrestrial]] [[planet]], an earth-[[type]] planet
+* {{ja-r|地球磁気|ちきゅう じき}}: [[geomagnetism]], [[terrestrial]] [[magnetism]]
+* {{ja-r|地球周回衛星|ちきゅう しゅうかい えいせい}}: a satellite orbiting the Earth, an earth [[orbiter]]
+* {{ja-r|地球周回軌道|ちきゅう しゅうかい きどう}}: an earth [[orbit]], an orbit [[around]] the earth
+* {{ja-r|地球楕円体|ちきゅう だえんたい}}: an [[earth ellipsoid]]
+* {{ja-r|地球潮汐|ちきゅう ちょうせき}}: an [[earth tide]], a [[terrestrial]] [[tide]]
+* {{ja-r|地球物理学|ちきゅう ぶつりがく}}: [[geophysics]]
+{{der-bottom}}
+
+===Proper noun===
+{{ja-pos|ちきゅう|proper|hhira=ちきう}}
+
+# {{lb|ja|sort=ちきゅう|astronomy|mythology}} [[Earth]], [[Terra]]
+#: {{ja-usex|'''地球'''は２４時間毎に１回自転します。|'''ちきゅう''' は に じゅう よ じかん ごと に いっかい じてん します。|The '''Earth''' rotates once every 24 hours.}}
+#: {{ja-usex|'''地球'''は太陽系の第３惑星です。|'''ちきゅう''' は たいようけい の だいさん わくせい です。|The '''Earth''' is the third planet of the Solar System.}}
+#: {{ja-usex|それでも'''地球'''は動く。|それ で も '''ちきゅう''' は うごく。|And yet it moves.}}
+
+====See also====
+* {{list:planets of the Solar System/ja|sort=ちきゅう}}
+* {{ja-l|ガイア||Gaia}}: [[Gaia]] or [[Gaea]], the [[Greek]] [[goddess]] of the [[Earth]]
+
+===References===
+<references/>
+
+{{topics|ja|Planets of the Solar System}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=지구}}
+
+# {{hanja form of|지구|[[Earth]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|Địa Cầu|[[Earth]]}}
+
+[[af:地球]]
+[[zh-min-nan:地球]]
+[[cs:地球]]
+[[el:地球]]
+[[fr:地球]]
+[[ko:地球]]
+[[sw:地球]]
+[[lo:地球]]
+[[lt:地球]]
+[[li:地球]]
+[[hu:地球]]
+[[mg:地球]]
+[[nl:地球]]
+[[ja:地球]]
+[[km:地球]]
+[[pl:地球]]
+[[pt:地球]]
+[[ru:地球]]
+[[sm:地球]]
+[[fi:地球]]
+[[sv:地球]]
+[[tl:地球]]
+[[th:地球]]
+[[tg:地球]]
+[[chr:地球]]
+[[tr:地球]]
+[[uk:地球]]
+[[zh:地球]]

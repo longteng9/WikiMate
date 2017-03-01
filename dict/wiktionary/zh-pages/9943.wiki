@@ -1,0 +1,85 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=nǚshén
+|c=neoi5 san4
+|h=pfs=ńg-sṳ̀n
+|mn=lí-sîn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[goddess]]
+# {{lb|zh|neologism}} {{qualifier|of a young female, e.g. a {{l|zh|白富美}}}} the goddess of one's heart
+
+====Coordinate terms====
+* {{zh-l|男神}}
+
+====Derived terms====
+{{zh-der|宅男女神}}
+
+{{zh-cat|Gods|Religion}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Goddess}}
+</div>
+
+===Etymology===
+{{ja-kanjitab|め|かみ|k2=がみ|yomi=k}}
+Compound of {{compound|女|tr1=me|t1=woman, female|神|tr2=kami|t2=god, divinity|lang=ja|sort=めがみ}}. {{rendaku2|sort=めがみ|kami|gami}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|めがみ|acc=1|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|めがみ}}
+
+# a [[goddess]]: a [[female]] [[god]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|幸運の女神|こううん の めがみ}}: [[goddess]] of [[luck]]: [[Lady Luck]]
+* {{ja-r|正義の女神|せいぎ の めがみ}}: [[goddess]] of [[justice]]: [[Lady Justice]]
+* {{ja-r|自由の女神|じゆう の めがみ}}: [[goddess]] of [[freedom]]: [[Lady Liberty]], the [[Statue of Liberty]]
+{{der-bottom}}
+
+====Antonyms====
+* {{ja-r|男神|おがみ}}: a [[male]] god
+
+===References===
+<references/>
+
+[[Category:ja:Gods|めかみ']]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[여신]]|eumhun=|rv=yeosin|mr=yŏsin|y=<sup>n</sup>yesin}}
+
+# {{hanja form of|여신|[[goddess]]}}
+
+[[Category:ko:Gods|여신]]
+[[Category:ko:Religion|여신]]
+
+[[zh-min-nan:女神]]
+[[fr:女神]]
+[[ko:女神]]
+[[it:女神]]
+[[la:女神]]
+[[lt:女神]]
+[[li:女神]]
+[[hu:女神]]
+[[ja:女神]]
+[[pt:女神]]
+[[ro:女神]]
+[[zh:女神]]

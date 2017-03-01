@@ -1,0 +1,55 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=109|rad=目|as=05|sn=10|four=|canj=WLE,WLFF}}
+
+# to [[wink]], [[glance]]
+
+====References====
+* {{Han ref|kx=0947.321|dkj=23221|hdz=42915.120|uh=7714|ud=30484}}
+* [http://internationalscientific.org/CharacterEtymology.aspx?characterInput=%E7%9C%94&submitButton1=Etymology Chinese Etymology by Richard Sears - 眔 page]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dà
+|c=daap6
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Chinese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 89]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=目05}}
+
+# {{defn|lang=ja|sort=目05}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō), [[どう]] (dō)|kun=|nanori=}}
+
+[[fr:眔]]
+[[hu:眔]]
+[[pl:眔]]
+[[th:眔]]
+[[zh:眔]]

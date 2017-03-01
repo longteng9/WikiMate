@@ -1,0 +1,92 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=7}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=22240|canj=OHPM,OHVI|ids=⿰亻氐}}
+
+====References====
+* {{Han ref|kx=0098.080|dkj=00504|dj=0207.010|hdz=10137.040|uh=4F4E|ud=20302|bh=A743|bd=42819}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|alt1=亻|t1=man, person|氐|ls=psc|c1=s|c2=p}} – a person lowering themselves, bowing.
+
+===Pronunciation===
+{{zh-pron
+|m=dī
+|c=dai1
+|h=pfs=tâi
+|w=1ti
+|mc=y
+|oc=y
+|ma=y
+|cat=a,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[low]] {{gloss|of height}}
+# [[low]] {{gloss|of quantity}}; [[behind]] [[average]]
+#* {{zh-x|他們 抱怨 工資 過 低。|They complained that the wages were too '''low'''.}}
+# [[low]] {{gloss|of voice}}; [[quiet]]; [[soft]]
+# to [[lower]]; to [[hang]] (one's head); to [[bend]]; to [[bow]]
+
+===Compounds===
+{{zh-der|低體溫症|低B|低壓|低能兒|低俗|低姿態|低鈉鹽|低等|低空|低顏|低速|做小伏低|低唱|低速檔|低等動物|低徊不已|低平|低氣壓|低檔|低額|低收入|低級趣味|低聲|最低工資|低賤|低血糖|低元音|低窪|低利|低啞|低薪|低點|低標準|低聲下氣|低潮|低頭屈膝|不顧高低|低溫|低階|低頭|低壓帶|低亞|低語|低謳|低淺|低年級|低胸|低三下四|低脂|低度|伏低做小|伏低|低能|低矮|低下|低音提琴|低首下心|低迷不振|低幼讀物|低智|低利率|偏低|低聲密語|低價|半低元音|忽高忽低|低姿勢|低鹽飲食|低溫殺菌|低微|低頭受縛|低欄|山高水低|低凹|低溫食品|低劣|低垂|低昂|低頻率|七高八低|壓低|低沉|不知高低|低心|低吟|低回|低估|低處|低級|低音|低溼|低靡|低谷|低徊|夜幕低垂|低地國|低物件|低眉|低迴|低嚷|低收入戶|低低|不識高低|低地|低筋麵粉|低血壓|低鬟|冷低壓|低落|低盪|使低嘴|低廉|低頭不語|低顏下膝|低頭喪氣|低進|低迷|低調|低緯度|低幼兒童|沒高沒低|淺斟低謳|手高手低|比個高低|牙縫高低|服低做小|知高識低|服低捋|眼高手低|眉高眼低|眉眼高低|眉低眼慢|熱帶低壓|斂首低眉|減低|淺斟低酌|淺斟低唱|撳頭低|腳高步低|若高若低|貶低|高高低低|高低槓|風吹草低|言語高低|降低|見高低|附耳低言|菩薩低眉|高低起伏|開低走高|高低不平|逢低承接|高低|開低走軟|輕偎低傍|開高走低|開低走低|調低|隨高就低|超低溫|言高語低}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=人05}}
+
+# low
+# short
+# humble
+
+====Readings====
+* {{ja-readings|goon=[[たい]] (tai)|kanon=[[てい]] (tei)|kun=[[ひくい]] (hikui)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=저|rv=jeo|mr=chŏ}}
+
+# {{defn|lang=ko|sort=人05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đây]], [[đay]], [[đê]]|rs=人05}}
+
+# {{defn|lang=vi|sort=人05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f4e Nom Foundation]
+
+[[zh-min-nan:低]]
+[[fr:低]]
+[[ko:低]]
+[[it:低]]
+[[hu:低]]
+[[mg:低]]
+[[ja:低]]
+[[no:低]]
+[[pl:低]]
+[[ta:低]]
+[[th:低]]
+[[chr:低]]
+[[uk:低]]
+[[zh:低]]

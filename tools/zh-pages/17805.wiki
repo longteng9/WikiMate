@@ -1,0 +1,48 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=09|sn=13|four=|canj=DORD|ids=⿰木保}}
+
+====References====
+* {{Han ref|kx=0538.010|dkj=15083|dj=0925.150|hdz=21251.110|uh=693A|ud=26938}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xí
+|c=hat6
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[beam]] of a [[house]]
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 130]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=보|eumhun=|rv=bo|mr=po|y=po}}
+
+# {{defn|lang=ko|sort=木09}}
+
+[[fr:椺]]
+[[pl:椺]]
+[[th:椺]]
+[[zh:椺]]

@@ -1,0 +1,117 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=7}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=04|sn=7|four=10601|canj=MMR|ids=⿱五口}}
+
+====Derived characters====
+* [[俉]], [[語]] ([[语]]), [[捂]], [[唔]], [[峿]], [[浯]], [[悟]], [[娪]], [[珸]], [[梧]], [[啎]], [[牾]], [[晤]], [[焐]], [[鋙]] ([[铻]]), [[齬]] ([[龉]]), [[鯃]], [[鼯]], [[郚]], [[敔]], [[圄]], [[痦]], [[逜]], [[衙]], [[寤]], [[窹]]
+
+====References====
+* {{Han ref|kx=0180.030|dkj=03379|dj=0398.020|hdz=10585.130|uh=543E|ud=21566|bh=A75E|bd=42846}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|ls=psc|口|五|c1=s|c2=p}}.
+
+===Etymology===
+From {{inh|zh|sit-pro|*ŋa||I}}. Cognate with {{och-l|我|I}}, {{zh-l|俺|(''dialectal Mandarin'') I}}, {{zh-m|𠊎|(''Hakka'') I}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wú
+|c=ng4
+|h=pfs=ǹg/ngâ
+|md=ngù
+|mn=qz,tw,xm:ngô͘/qz,zz:gô͘
+|w=3ngu,3hhngg
+|mc=y
+|oc=y
+|ma=y
+|cat=pron,det,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|literary|or|dialectal}} [[I]]
+#* {{zh-x|吾 觀 全 地球 之 社會，未 有 凌亂 ^舊金山 之 華人 者。|From all the societies '''I''' have seen in the world, there is no society as disorderly as the Chinese community in San Francisco.|ref=February 1904, {{w|Liang Qichao}}, "''[[:zh:s:新大陸遊記|Travel Notes of the New Continent]]''"|CL}}
+# {{lb|zh|literary|or|dialectal}} [[my]]
+#* {{zh-x|吾 皇|'''my''' king|CL}}
+#* {{zh-x|吾 姆|'''my''' mom|H}}
+# {{surname|lang=zh}} [[Wu]]
+
+====Synonyms====
+{{zh-dial|我}}
+
+===Compounds===
+{{zh-der|伊吾|余吾|先吾著鞭|吾人|吾伊|吾儕|吾兄|吾吾|吾子|吾徒|吾愛|吾當|吾輩|吾道東矣|唯吾獨尊|執金吾|左支右吾|支吾|支吾其詞|支支吾吾|故吾|昆吾|東支西吾|江左夷吾|維吾爾|蒼吾讓兄|金吾|金吾不禁}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口04}}
+
+# I, me
+
+====Readings====
+* {{ja-readings|goon=[[ぐ]] (gu)|kanon=[[ご]] (go)|kun=[[われ]] (ware), [[わが]] (waga), [[あ]] (a)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=오|rv=o|mr=o}}
+
+# {{defn|lang=ko|sort=口04}}
+
+----
+
+==Old Japanese==
+
+===Pronoun===
+{{head|ojp|pronoun|tr=wa|kana|わ}}
+
+# [[I]], [[oneself]]
+
+====Descendants====
+* Satsugi dialect: {{l|und|おい|tr=oi}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngô]], [[ngo]]|rs=口04}}
+
+# {{defn|lang=vi|sort=口04}}
+
+====Readings====
+* Nôm: [[ngo]], [[ngô]]
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville, 1999
+
+[[fr:吾]]
+[[ko:吾]]
+[[li:吾]]
+[[hu:吾]]
+[[mg:吾]]
+[[ms:吾]]
+[[ja:吾]]
+[[no:吾]]
+[[pl:吾]]
+[[sr:吾]]
+[[th:吾]]
+[[zh:吾]]

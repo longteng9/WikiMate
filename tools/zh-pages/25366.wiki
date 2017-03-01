@@ -1,0 +1,89 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=10|sn=16|four=44603|canj=TYVW}}
+
+====References====
+* {{Han ref|kx=1051.020|dkj=31642|dj=1512.130|hdz=53269.030|uh=84C4|ud=33988|bh=BB57|bd=47959}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艸|alt1=艹|t1=grass, plant|畜|ls=psc|c1=s|c2=p}} – to cultivate plants, to store grain, to save.
+
+===Pronunciation===
+{{zh-pron
+|m=xù
+|c=cuk1
+|h=pfs=hiuk
+|md=háe̤k/hé̤ṳk
+|md_note=háe̤k - vernacular (“to get or buy for use”); hé̤ṳk - literary (“to store up; to rear; to harbour”)
+|mn=qz,xm,zz:hiok/qz,tw,xm:thiok/tw,zz:hak
+|mn_note=thiok/hiok - literary (“to store up”); hak - vernacular (“to purchase”)
+|w=4xioq
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[store up]]; to [[stockpile]]; to [[accumulate]]; to [[hoard]]
+# to [[raise]]; to [[rear]] (domestic animals)
+# to [[harbour]]; to [[keep]] in [[mind]]; to [[cherish]]
+# to [[grow]] (e.g. a [[beard]])
+# to [[await]]; to [[wait]] for
+# {{lb|zh|Min}} to [[collect]]; to [[get]] or [[buy]] for [[use]]; to [[purchase]]
+# [[storage]]; [[savings]]
+# [[preserved]], [[dried]] [[cabbage]] or [[mustard greens]]
+
+===Compounds===
+{{zh-der|儲蓄銀行|含蓄渾厚|含蓄|強迫儲蓄|儲蓄券|儲蓄存款|俱收並蓄|吞吐含蓄|儲蓄|兼容並蓄|兼收並蓄|抽蓄發電|攔蓄|積蓄|涵蓄|旨蓄|蓄銳養威|蓄髮|萹蓄|蓄水池|蓄足|蓄書|蓄艾|養銳蓄威|蓄電|蓄精蓄銳|蓄銳|蓄意|蓄養|蓄念|蓄洪|蓄電池|蓄縮|養精蓄銳|餘蓄|蘊藉含蓄|蓄火|養威蓄銳|蓄恨|蘊蓄|蓄積|蓄勢待發|蓄志|蓄謀|蓄水|蓄疑}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=艸10}}
+
+# {{defn|lang=ja|sort=艸10}}
+
+====Readings====
+* {{ja-readings|goon=[[ちく]] (chiku), [[きく]] (kiku)|kun=[[たくわえる]] (takuwaeru), [[たくわえ]] (takuwae)|kanon=[[ちく]] (chiku), [[きく]] (kiku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=축|eumhun=|rv=chuk|mr=ch'uk|y=chwuk}}
+
+# {{defn|lang=ko|sort=艸10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''蓄''' ([[súc]])
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:蓄]]
+[[fr:蓄]]
+[[ko:蓄]]
+[[hu:蓄]]
+[[mg:蓄]]
+[[ja:蓄]]
+[[no:蓄]]
+[[pl:蓄]]
+[[th:蓄]]
+[[chr:蓄]]
+[[zh:蓄]]

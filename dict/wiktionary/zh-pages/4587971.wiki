@@ -1,0 +1,21 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shìlǐ
+|c=si5 lei5
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# The [[traditional]] [[li]] or [[Chinese mile]], a [[traditional]] [[Chinese]] [[unit]] of [[distance]] [[equal]] to 1500 [[chi]] ({{zh-l|市尺}}) or 150 [[zhang]] ({{zh-l|市丈}}), [[standardized]] in 1984 as [[half]] of a [[kilometer]] (500 [[meter]]s).
+
+====Usage notes====
+In most contexts, this unit is simply written as {{zh-l|里}}. The form {{lang|zh|市里}} is encountered in modern situations where the writer wishes to be careful to distinguish the traditional li from the {{zh-l|公里}} or [[kilometer]].
+
+{{zh-cat|Units of measure}}
+
+[[zh:市里]]

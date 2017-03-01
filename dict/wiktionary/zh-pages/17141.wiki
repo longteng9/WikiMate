@@ -1,0 +1,122 @@
+{{character info/new}}
+{{also|晻|闇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=09|sn=13|four=60061|canj=AYTA|ids=⿰日音}}
+
+# [[dark]]
+# [[obscure]]
+# [[in secret]], [[covert]]
+
+====References====
+* {{Han ref|kx=0498.270|dkj=14065|dj=0866.200|hdz=21526.060|uh=6697|ud=26263|bh=B774|bd=46964}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+{{attention|zh|alt forms 闇,晻?}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=àn
+|c=am3
+|h=pfs=am
+|mn=àm
+|mc=y
+|oc=y
+|ma=Zh-àn.ogg
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[dark]] {{gloss|without light}}
+#: {{zh-ant|光}}
+
+====Compounds====
+{{zh-der|暗暗|暗壩|暗堡|暗藏|暗查|暗娼|暗場|暗潮|暗沉沉|暗處|暗淡|暗道|暗地裡|暗度陳倉|暗房|暗訪|暗溝|暗害|暗含|暗號|暗號兒|暗合|暗河|暗黑|暗花兒|暗話|暗火|暗疾|暗記|暗記兒|暗間兒|暗箭|暗礁|暗井|暗虧|暗裡|暗流|暗樓子|暗碼|暗碼兒|暗門子|暗盤|暗盤兒|暗泣|暗器|暗槍|暗渠|暗色|暗殺|暗沙|暗砂|暗傷|暗哨|暗哨兒|暗射|暗射地圖|暗示|暗事|暗室|暗送秋波|暗算|暗鎖|暗灘|暗探|暗無天日|暗息|暗喜|暗匣|暗下|暗線|暗線光譜|暗箱|暗笑|暗夜|暗影|暗語|暗喻|暗中|暗轉|暗自|黑暗}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=日09}}
+
+# [[darkness]]
+
+====Readings====
+* {{ja-readings|goon=[[おん]] (on)|kanon=[[あん]] (an)|kun=[[くらい]] (kurai), [[やみ]] (yami)}}
+
+====Compounds====
+{{top2}}
+* {{ja-r|暗影|あんえい}}: [[shadow]], [[gloom]]
+* {{ja-r|暗雲|あんうん}}
+* {{ja-r|暗記|あんき}}
+* {{ja-r|暗愚|あんぐ}}
+* {{ja-r|暗君|あんくん}}
+* {{ja-r|暗号|あんごう}}
+* {{ja-r|暗黒|あんこく}}: darkness
+* {{ja-r|暗殺|あんさつ}}
+* {{ja-r|暗示|あんじ}}
+* {{ja-r|暗室|あんしつ}}
+* {{ja-r|暗礁|あんしょう}}
+* {{ja-r|暗澹|あんたん}}
+{{mid2}}
+* {{ja-r|暗中模索|あんちゅう もさく}}
+* {{ja-r|暗転|あんてん}}
+* {{ja-r|暗譜|あんぷ}}
+* {{ja-r|暗黙|あんもく}}
+* {{ja-r|暗夜|あんや}}
+* {{ja-r|暗躍|あんやく}}
+* {{ja-r|暗闇|くらやみ}}
+* {{ja-r|明暗|めいあん}}
+* {{ja-r|暗影|あんえい}}
+* {{ja-r|暗唱|あんしょう}}
+{{bottom}}
+
+====See also====
+* {{l|ja|闇}} (Non-Tōyō character in place of which this character is written)
+
+[[Category:Tōyō characters which replace non-Tōyō characters]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=암|eumhun=|rv=am|mr=am|y=am}}
+
+# {{defn|lang=ko|sort=日09}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=日09|hanviet=ám}}
+
+# {{defn|lang=vi|sort=日09}}
+
+[[zh-min-nan:暗]]
+[[fr:暗]]
+[[ko:暗]]
+[[lt:暗]]
+[[hu:暗]]
+[[mg:暗]]
+[[ja:暗]]
+[[no:暗]]
+[[pl:暗]]
+[[fi:暗]]
+[[tl:暗]]
+[[th:暗]]
+[[uk:暗]]
+[[zh:暗]]

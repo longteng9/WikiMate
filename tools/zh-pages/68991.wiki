@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{zh-compound|小|篆|small; lesser|seal, chop}} So called from its continued use under later dynasties for chops and to distinguish it from the [[large seal script]] varieties employed under the Zhou prior to Qin conquest and standardization.
+{{wikipedia|Small seal script}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiǎozhuàn
+|c=siu2 syun6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[small seal script]], the [[form]] of [[Chinese character]]s [[based]] on the [[script]] of the [[state]] of [[Qin]] and [[standardize]]d by [[Li Si]] around 220 [[BC]]
+
+====Synonyms====
+* {{zh-l|秦篆}}
+* {{zh-l|篆文}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|てん|yomi=o}}
+
+===Etymology===
+From {{etyl|cmn|ja|sort=しょうてん}} {{m|cmn|小篆}}.{{rfv-etymology|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=ko|しょうてん}}
+
+===Noun===
+{{ja-noun|しょうてん|hhira=せうてん}}
+
+# {{lb|ja|history|sort=しょうてん}} [[small seal script]]
+
+[[Category:ja:Writing|しょうてん]]
+[[ja:小篆]]
+[[zh:小篆]]

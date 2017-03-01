@@ -1,0 +1,29 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|と|す|yomi=k}}
+Compound of {{affix|sort=とす|ja|鳥|tr1=to|t1=bird|栖|tr2=su|t2=nest}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|とす}}
+
+====Proper noun====
+{{ja-pos|proper|とす}}
+
+# [[w:Tosu, Saga|Tosu, Saga]]
+
+===Etymology 2===
+{{ja-kanjitab|sort=とぐら|yomi=irr}}
+Compound of {{affix|sort=とぐら|ja|鳥|tr1=to|座|tr2=kura}}. {{rendaku2|sort=とぐら|kura|gura}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|とぐら}}
+
+====Alternative forms====
+* {{ja-l|塒}}, {{ja-l|鳥座}}
+
+====Noun====
+{{ja-noun|とぐら}}
+
+# [[nest]]

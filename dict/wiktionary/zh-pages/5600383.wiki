@@ -1,0 +1,33 @@
+==Japanese==
+{{DEFAULTSORT:きんがだん'}}
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ぎん|が|だん|yomi=o}}
+
+===Etymology===
+{{com|ja|銀河|団|tr1=ginga|t1=[[galaxy]]|tr2=dan|t2=[[team]]}}
+
+===Pronunciation===
+{{ja-pron|acc=3|y=o|ぎんがだん}}
+
+===Noun===
+{{ja-noun|ぎんがだん}}
+
+# {{lb|ja|astronomy}} a [[galaxy cluster]]
+#* {{quote-book
+|language=Japanese
+|location=Tokyo
+|publisher=Shogakukan
+|genre=fiction
+||{{w|lang=ja|藤子・F・不二雄|Fujiko F. Fujio}}
+|series={{w|lang=ja|大長編ドラえもん|{{lang|ja|大長編ドラえもん}}}}
+|{{w|ドラえもん のび太と銀河超特急|{{ruby|{{lang|ja|大長編ドラえもん のび[太](た)と[銀](ぎん)[河](が)[超特急](エクスプレス)}}}}|lang=ja}}
+|trans-title={{w|Doraemon: Nobita and the Galaxy Super-express|Doraemon Long Stories: Nobita and the Galaxy Express}}
+|date=September 30 2002
+|edition=20th
+|origdate=September 25 1996
+|isbn=4-09-141756-6
+|seriesvolume=16
+|volume=16
+||40
+|{{ja-usex|無%数の'''銀%河%団'''が大%宇%宙のすみずみにまでちらばっています。|^む%すう の '''ぎん%が%だん''' が だい%う%ちゅう の すみずみ に まで ちらばっています。|Countless '''galaxy clusters''' scatter across every corner in the cosmos.}}
+}}

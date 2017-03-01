@@ -1,0 +1,130 @@
+{{character info/new}}
+{{also|气|氣|炁}}
+==Translingual==
+{{Han simplified forms|氣|気|气}}
+{{stroke order|[[File:気-jbw.png|280px]]}}
+
+===Han character===
+{{Han char|rn=84|rad=气|as=02|sn=6|four=80417|canj=ONK|ids=⿹气㐅}}
+
+====References====
+* {{Han ref|kx=0599.041|dkj=17046|dj=0990.170|hdz=32010.031|uh=6C17|ud=27671}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Kanji===
+{{ja-kanji|grade=1|rs=气02|style=s|kyu=氣}}
+
+====Readings====
+{{ja-readings|goon=[[け]] (ke)|kanon=[[き]] (ki)|kun=[[いき]] (iki)}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ja-r|電気|でんき}}
+* {{ja-r|土気|どき}}
+* {{ja-r|怒気|どき}}
+* {{ja-r|元気|げんき}}
+* {{ja-r|本気|ほんき}}
+* {{ja-r|意気|いき}}
+* {{ja-r|陰気|いんき}}
+* {{ja-r|邪気|じゃき}}
+* {{ja-r|蒸気|じょうき|steam}}
+* {{ja-r|火気|かき}}
+* {{ja-r|風気|かざけ}}
+* {{ja-r|気化|きか}}
+{{der-mid3}}
+* {{ja-r|鬼気|きき}}
+* {{ja-r|気味|きみ}}, {{ja-r|気味|-ぎみ}}
+* {{ja-r|気力|きりょく}}
+* {{ja-r|気相|きそう|[[gaseous phase]]}}
+* {{ja-r|気息|きそく}}
+* {{ja-r|気体|きたい}}
+* {{ja-r|空気|くうき}}
+* {{ja-r|熱気|ねっき}}
+* {{ja-r|眠気|ねむけ}}
+* {{ja-r|冷気|れいき}}
+* {{ja-r|霊気|れいき}}
+* {{ja-r|殺気|さっき}}
+{{der-mid3}}
+* {{ja-r|生気|せいき}}
+* {{ja-r|心気|しんき}}
+* {{ja-r|神気|しんき}}
+* {{ja-r|沼気|しょうき}}
+* {{ja-r|水気|すいき}}
+* {{ja-r|帯気音|たいきおん}}
+* {{ja-r|天気|てんき}}
+* {{ja-r|悪気|わるぎ}}
+* {{ja-r|妖気|ようき}}
+* {{ja-r|陽気|ようき}}
+* {{ja-r|勇気|ゆうき}}
+{{der-bottom}}
+
+====Synonyms====
+* {{sense|gas}} {{l|ja|氛}}
+
+===Etymology 1===
+{{ja-kanjitab|き|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|き|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|kyu=氣|き}}
+
+# [[spirit]]; [[mood]]
+# [[inclination]]; [[will]]; [[mood]]; [[urge]]
+#: {{ja-usex|'''気'''が向いたら連絡してね。|'''き''' が むいたら れんらく して ね。|Feel free to contact me if you feel like it (''lit.'' if your '''mood''' faces towards it).}}
+#: {{ja-usex|なんとなくやる'''気'''が出ない。|なん-と-なく やる '''き''' が でない。|I just somehow don't feel like doing it. (''lit.'' My '''urge''' to do it just isn't coming out.)}}
+# [[feeling]]; [[sense]]
+#: {{ja-usex|なんか変な'''気'''がするんだよね。|なんか へん な '''き''' が する ん だよ ね。|Something feels kind of off, doesn't it?}}
+# [[air]], [[gas]]
+
+=====Derived terms=====
+* {{ja-r|気がする|き が する}}
+* {{ja-r|気を付けて|き を つけて}}
+* {{ja-r|気に食わない|き に くわない}}, {{ja-r|気にくわない|き に くわない}}
+* {{ja-r|気がある|き が ある}}
+* {{ja-r|気になる|き に なる}}
+* {{ja-r|気に入る|き に いる}}
+* {{ja-r|気が向く|き が むく}}
+
+===Etymology 2===
+{{ja-kanjitab|け|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=goon|け|acc=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|kyu=氣|け}}
+
+# [[sign]]
+
+===References===
+<references/>
+
+[[Category:Japanese basic words]]
+
+[[cs:気]]
+[[fr:気]]
+[[ko:気]]
+[[it:気]]
+[[lo:気]]
+[[li:気]]
+[[hu:気]]
+[[mg:気]]
+[[ms:気]]
+[[ja:気]]
+[[km:気]]
+[[pl:気]]
+[[pt:気]]
+[[ru:気]]
+[[fi:気]]
+[[sv:気]]
+[[th:気]]
+[[chr:気]]
+[[uk:気]]
+[[vi:気]]
+[[zh:気]]

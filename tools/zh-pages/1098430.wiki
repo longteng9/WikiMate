@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dúxìng
+|c=duk6 sing3
+|mn=to̍k-sèng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[toxicity]]; [[poisonous]]ness
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|どく|せい|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|どくせい|y=o|acc=0|dev=2|acc_ref=NHK}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|どくせい}}
+
+# [[toxic]]
+
+====Inflection====
+{{ja-na|どくせい}}
+
+===Noun===
+{{ja-noun|どくせい}}
+
+# [[toxicity]]
+
+===References===
+<references/>
+
+[[zh-min-nan:毒性]]
+[[ko:毒性]]
+[[ja:毒性]]
+[[zh:毒性]]

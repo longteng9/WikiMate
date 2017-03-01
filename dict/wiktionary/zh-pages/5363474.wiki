@@ -1,0 +1,21 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=chūshǐhuà
+|c=co1 ci2 faa3
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[initialize]]
+
+===Noun===
+{{zh-noun}}
+
+# [[initialization]]
+
+[[zh:初始化]]

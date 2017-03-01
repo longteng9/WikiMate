@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|殁}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=78|rad=歹|as=04|sn=8|four=17247|canj=MNNE}}
+
+# to [[die]]
+# [[death]]
+# [[dead]]
+
+====References====
+* {{Han ref|kx=0579.160|dkj=16385|dj=0971.180|hdz=21382.170|uh=6B7F|ud=27519|bh=AA5C|bd=43612}}
+
+----
+
+==Chinese==
+{{zh-forms|s=殁}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mò
+|c=mut6
+|h=pfs=mut
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|亡歿|歿地|歿而不朽|歿而無朽|歿身|病歿|齎志而歿}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=歹04}}
+
+# [[rejection]] (of a [[manuscript]] or the like)
+# [[death]]
+
+====Readings====
+* {{ja-readings|on=[[ぼつ]] (botsu), [[もち]] (mochi)|kun=[[しぬ]] (shinu)}}
+
+====Compounds====
+* [[死歿]]
+* [[戦歿]]
+* [[病歿]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=몰|eumhun=|rv=mol|mr=mol|y=mol}}
+
+# {{defn|lang=ko|sort=歹04}}
+
+[[fr:歿]]
+[[hu:歿]]
+[[ja:歿]]
+[[pl:歿]]
+[[th:歿]]
+[[zh:歿]]

@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|祍}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=04|sn=10|four=32214|canj=LHG}}
+
+# [[lapel]]
+# hidden lapel of coat
+
+====References====
+* {{Han ref|kx=1113.030|dkj=34146|dj=1578.180|hdz=53078.120|uh=887D|ud=34941|bh=B04D|bd=45133}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=rèn
+|c=jam6,jam5
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|交衽|左衽|披髮左衽|斂衽|斂衽正容|被髮左衽|衾衽|衽席|連衽成帷|續衽|襝衽}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=衣04}}
+
+# {{defn|lang=ja|sort=衣04}}
+
+====Readings====
+* {{ja-readings|on=[[じん]] (jin), [[にん]] (nin)|kun=[[えり]] (eri), [[おくみ]] (okumi), [[も]] (mo)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=임|eumhun=|rv=im|mr=im|y=im}}
+
+# {{defn|lang=ko|sort=衣04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhẫm]], [[khâm]]|rs=衣04}}
+
+# {{defn|lang=vi|sort=衣04}}
+
+[[fr:衽]]
+[[hu:衽]]
+[[mg:衽]]
+[[ja:衽]]
+[[pl:衽]]
+[[th:衽]]
+[[zh:衽]]

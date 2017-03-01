@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=160|rad=辛|as=05|sn=12|four=40401|canj=JRYTJ|ids=⿱古辛}}
+
+# [[crime]], [[criminal]] [[offense]]
+
+====References====
+* {{Han ref|kx=1250.290|dkj=38636|dj=1730.060|hdz=64036.070|uh=8F9C|ud=36764|bh=B664|bd=46692}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gū
+|c=gu1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不辜|保辜限|平白無辜|戕害不辜|死有餘辜|波及無辜|濫殺無辜|無辜|辜人|辜恩背義|辜恩負義|辜汪會談|辜負}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辛05}}
+
+# {{defn|lang=ja|sort=辛05}}
+
+====Readings====
+* {{ja-readings|goon=[[く]] (ku)|kanon=[[こ]] (ko)|kun=[[つみ]] (tsumi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|eumhun=|rv=go|mr=ko|y=ko}}
+
+# {{defn|lang=ko|sort=辛05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=辛05| hanviet = cô}}
+
+# {{defn|lang=vi|sort=辛05}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:辜]]
+[[ko:辜]]
+[[hu:辜]]
+[[mg:辜]]
+[[ja:辜]]
+[[no:辜]]
+[[pl:辜]]
+[[th:辜]]
+[[zh:辜]]

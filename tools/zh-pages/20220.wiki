@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=13|sn=17|four=99407|canj=FFE|ids=⿱⿲火言火又}}
+
+# [[harmonize]], [[blend]]
+# [[adjust]]
+
+====References====
+* {{Han ref|kx=0685.120|dkj=19481|dj=1098.040|hdz=10402.120|uh=71EE|ud=29166|bh=C0E8|bd=49384}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiè
+|c=sit3,sip3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|燮友|疊燮|燮理陰陽|燮和之任|燮和|貼燮}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火13}}
+
+# {{defn|lang=ja|sort=火13}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[やわらげる]] (yawarageru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=섭|eumhun=불꽃|rv=seop|mr=sŏp|y=sep}}
+
+# {{defn|lang=ko|sort=火13}}
+
+[[fr:燮]]
+[[hu:燮]]
+[[mg:燮]]
+[[ja:燮]]
+[[pl:燮]]
+[[th:燮]]
+[[zh:燮]]

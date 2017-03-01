@@ -1,0 +1,80 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bùzú
+|c=bat1 zuk1
+|h=pfs=put-chiuk
+|mn=put-chiok
+|ma=y
+|cat=a,n,v
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[insufficient]]; [[inadequate]]
+
+===Noun===
+{{zh-noun}}
+
+# [[inadequacy]]; [[deficiency]]; [[dearth]]; [[shortage]]; [[want]]; [[lack]]
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} not [[worth]] ... ; no need to ...
+
+===Derived terms===
+{{zh-der|不足之處|成事不足，敗事有餘|美中不足|睡眠不足|微不足道|注意力不足過動症}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふ|そく|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|ふそく}}
+
+# [[insufficient]]
+# [[unsatisfactory]]
+
+====Inflection====
+{{ja-na|ふそく}}
+
+===Noun===
+{{ja-noun|ふそく}}
+
+# [[insufficiency]], [[shortage]], [[deficiency]], [[lack]]
+# [[dissatisfaction]]
+
+====Antonyms====
+* {{ja-r|満足|まんぞく}}
+
+===Verb===
+{{ja-verb-suru|ふそく}}
+
+# [[give out]], [[run short]]
+
+====Conjugation====
+{{ja-suru|ふそく}}
+
+===References===
+* {{R:Shogakukan}}
+* {{R:Meikyo}}
+
+[[zh-min-nan:不足]]
+[[fr:不足]]
+[[ko:不足]]
+[[lo:不足]]
+[[lt:不足]]
+[[hu:不足]]
+[[mg:不足]]
+[[nl:不足]]
+[[ja:不足]]
+[[fi:不足]]
+[[chr:不足]]
+[[zh:不足]]

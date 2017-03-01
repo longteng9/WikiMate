@@ -1,0 +1,39 @@
+==Japanese==
+{{ja-kanjitab|たい|あん|きち|にち|yomi=o}}
+{{ja-kanjitab|たい|あん|きつ|じつ|yomi=o}}
+{{ja-kanjitab|たい|あん|きち|じつ|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|大安|tr1=taian|吉日|tr2=kichijitsu, kitsujitsu, kichinichi|t2=[[auspicious]] [[day]]|sort=たいあんきちじつ}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=o|たいあん きちじつ|dev=5}}
+{{ja-pron|acc=h|y=ko|たいあん きつじつ|dev=5}}
+{{ja-pron|acc=h|y=go|たいあん きちにち|dev=5}}
+
+===Noun===
+{{ja-noun|たいあん きちじつ|たいあん きつじつ|たいあん きちにち}}
+
+# the "taian" day, one of the {{w|Japanese calendar#Rokuy.C5.8D|rokuyō}}; the [[lucky]] [[day]]
+#* {{quote-book
+|language=Japanese
+|location=Tokyo
+|publisher=Kodansha
+|genre=fiction
+||{{w|Rumiko Takahashi}}
+|{{w|らんま1/2|{{lang|ja|らんま½}}|lang=ja}}
+|trans-title={{w|Ranma ½}}
+|origdate=December 15 1994
+|date=February 20 1999
+|edition=9th
+|isbn=4-09-123461-5
+|volume=31
+||59
+|chapter={{ruby|{{lang|ja|[大](たい)[安](あん)[吉](きち)[日](じつ)・[家](か)[族](ぞく)は[留](る)[守](す)！}}}}
+|trans-chapter=Today's a Lucky Day and No One's Home!
+|{{ja-usex|はっ、このシチュエーション。家%族は留%守！ガールフレンドと二%人きり。さらに'''大%安%吉%日'''！これはもしや黄%金の青%春ラブコメパターン。|^はっ、この シチュエーション。^か%ぞく は る%す！ ^ガールフレンド と ふた%り きり。^さら に '''たい%あん% きち%じつ'''！ ^これ は もしや おう%ごん の せい%しゅん ラブコメ パターン。|Gasp, this situation. My family's out! It's only me and my girlfriend! Today's also a Lucky Day! This could be the golden rom-com pattern of youth.}}}}
+
+====Synonyms====
+* {{ja-r|大%安|たい%あん}}
+
+[[Category:ja:Calendar terms|たいあんきちじつ]]

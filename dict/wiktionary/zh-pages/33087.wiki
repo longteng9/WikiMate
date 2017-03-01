@@ -1,0 +1,92 @@
+{{character info/new}}
+{{also|霉}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=203|rad=黑|as=11|sn=23|four=28240|canj=HOUFK,XHOUF|ids=⿲彳⿳山一黑攵}}
+
+# [[mold]], [[mildew]], [[must]]
+# [[bacteria]], [[germ]]s
+# [[fungi]]
+# [dirty]], [[dingy]]
+
+====References====
+* {{Han ref|kx=1521.470|dkj=48196|dj=2057.030|hdz=20851.250|uh=9EF4|ud=40692|bh=C5F0|bd=50672}}
+
+----
+
+==Chinese==
+{{zh-forms|s=霉|t2=霉}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|微|黑|c1=p|c2=s|t2=black|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=méi
+|c=mei4
+|mn=bî/hui
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|黴菌}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=黑11}}
+
+# {{defn|lang=ja|sort=黑11}}
+
+====Readings====
+* {{ja-readings|kanon=[[ばい]] (bai), [[び]] (bi)|goon=[[め]] (me), [[み]] (mi)|on=[[まい]] (mai)|kun=[[かび]] (kabi), [[かびる]] (kabiru)}}
+
+===Noun===
+{{ja-noun|かび|カビ}}
+
+# [[mold]]
+
+[[Category:ja:Fungi|かび]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=미|eumhun=|rv=mi|mr=mi|y=mi}}
+
+# {{defn|lang=ko|sort=黑11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=黑11| hanviet = [[mai]], [[mị]]}}
+
+# {{defn|lang=vi|sort=黑11}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=9ef4 Nom Foundation]
+
+[[zh-min-nan:黴]]
+[[fr:黴]]
+[[hu:黴]]
+[[mg:黴]]
+[[ja:黴]]
+[[pl:黴]]
+[[th:黴]]
+[[vi:黴]]
+[[zh:黴]]

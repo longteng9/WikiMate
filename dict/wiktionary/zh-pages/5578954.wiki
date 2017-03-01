@@ -1,0 +1,36 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+{{wikipedia|lang=yue}}
+
+===Pronunciation===
+{{zh-pron
+|m=zìyīsè
+|c=zi6 jat1 sik1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|mahjong}} all honours
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|yomi=irr|sort=つういいそお}}
+
+===Etymology===
+{{borrowing|ja|cmn|字一色|tr=zìyīsè|sort=つういいそお}}.<ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=irr|ツーイーソー|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ツーイーソー}}
+
+# {{lb|ja|mahjong|sort=つういいそお}} all honours
+
+===References===
+<references/>

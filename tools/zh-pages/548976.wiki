@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|はん|だく|おん|yomi=o}}
+
+===Noun===
+{{ja-noun|はんだくおん}}
+
+# semi-voiced [[sound]]; "stop sound"; the sound of syllables such as ぱ (pa)
+
+{| class="wikitable Jpan" style="margin:auto"
+|+ Table of semi-voiced hiragana
+!あ || い || う || え || お
+|-
+|[[ぱ]] || [[ぴ]] || [[ぷ]] || [[ぺ]] || [[ぽ]]
+|}
+
+====Related terms====
+* {{ja-r|清音|せいおん}}: voiced sound
+* {{ja-r|濁音|だくおん}}: unvoiced sound
+
+[[ja:半濁音]]
+[[zh:半濁音]]

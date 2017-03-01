@@ -1,0 +1,141 @@
+{{character info/new}}
+{{also|读|読}}
+==Translingual==
+{{Han simplified forms|讀|読|读}}
+
+===Han character===
+{{Han char|rn=149|rad=言|as=15|sn=22|four=04686|canj=YRGWC|ids=⿰言賣}}
+
+====References====
+* {{Han ref|kx=1185.270|dkj=36088|dj=1649.090|hdz=64029.010|uh=8B80|ud=35712|bh=C5AA|bd=50602}}
+
+----
+
+==Chinese==
+{{zh-forms|s=读|alt=逗-Etymology 2}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|𧸇|c1=s|c2=p|t1=to say|ls=psc}}.
+
+===Etymology 1===
+“To say aloud, to tell” (''{{w|Shijing}}'') > “to recite” > “to read”.
+
+Cognate with {{cog|bo|ཀློག||to read; to recite}}. {{zh-ref|Starostin}} sets up {{inh|zh|sit-pro|*k-lok||to recite; to give notice}} for this, and also includes {{cog|my|လျှောက်||to tell; to ask; to petition; word-for-word translation; indiscriminately}} and {{cog|lus|thlûk||accent, tone, intonation}}. Related to {{och-l|讟|resentment, slander < to grumble; complaint}}.
+
+{{zh-ref|Sagart (1999)}} argues that “read” cannot be the primary meaning, since existence of the concept “to read” before the invention of writing is questionable. There is likely no writing at the time of the split between Chinese and other Sino-Tibetan languages, therefore the Tibetan word may represent a borrowing from Chinese.
+
+====Pronunciation====
+{{zh-pron
+|m=dú
+|c=duk6
+|h=pfs=thu̍k
+|mn=tha̍k/tho̍k
+|mn_note=tha̍k - vernacular; tho̍k - literary
+|mn-t=tag8
+|md=tĕ̤k
+|w=5doq
+|mc=y
+|oc=y
+|ma=y
+|cat=v,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[say]] [[aloud]]; to [[tell]]
+# to [[read]] (silently); to [[peruse]]
+#: {{zh-syn|看}}
+#: {{zh-x|讀書|to '''read'''; '''reading'''}}
+#: {{zh-x|閱讀|to '''read'''}}
+#* {{zh-x|這 篇 文章 值得{de} 一 讀。|This article is worth '''reading'''.}}
+# to [[read]] [[aloud]]; to read [[out]]
+#: {{zh-x|朗讀|to '''read''' aloud}}
+# to [[study]]
+#: {{zh-x|讀 大學|to '''study''' at a university}}
+# to [[pronounce]] (a character, a word, etc.)
+#: {{zh-syn|唸}}
+#: {{zh-x|這個 字 怎麼 讀？|How do you '''pronounce''' this character?}}
+# [[pronunciation]]
+#: {{zh-x|讀音|'''pronunciation''' (of characters)}}
+#: {{zh-x|異讀|variant '''pronunciation'''}}
+#: {{zh-x|文讀|literary '''reading'''}}
+
+===Etymology 2===
+A late attested reading. {{zh-ref|Starostin}} thinks it is from the *''-s'' pronunciation of Etymology 1.
+
+====Pronunciation====
+{{zh-pron
+|m=dòu
+|c=dau6
+|mn=tāu/tō͘
+|mn_note=tāu - vernacular; tō͘ - literary
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[short]] [[pause]] in reading
+#: {{zh-x|句讀{dòu}|periods and commas, sentences and phrases}}
+
+===Compounds===
+{{zh-der|讀本|讀後感|讀經|讀破|讀破句|讀書|讀書破萬卷|讀書人|讀數|讀死書|讀物|讀音|讀者|一讀會|三讀|三讀會|伏讀|伴讀|低幼讀物|侍讀|俗讀|判讀|十年讀書|半工半讀|又讀|句讀|可讀性|吏讀|唯讀|宣讀|審讀|導讀|就讀|展讀|工讀|工讀生|復讀|悔讀南華|披讀|拜讀|捧讀|掛角讀書|攻讀|教讀|映月讀書|映雪讀書|書讀五車|朗讀|熟讀|熟讀玩味|熟讀精思|牧羊讀書|異讀|百讀不厭|盲人讀物|研讀|破讀|精讀|耕讀|耕讀傳家|耽讀|脣讀|解讀|訓讀|誦讀|課外讀物|諷讀|講讀|讀不捨手|讀卡機|讀友|讀取|讀寫|讀律|讀書三到|讀書三餘|讀書明理|讀書種子|讀書識字|讀會|讀法|讀為|讀畫|讀秒|讀者投書|讀者文摘|讀脣術|讀若|走讀生|輟讀|轉讀|通俗讀物|通讀|速讀|選讀|選讀生|重讀|閱讀|閱讀機|附讀|音讀|飽讀詩書|默讀}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=言15|style=ky|shin=読}}
+
+# {{ja-def|読}} to [[read]]
+
+====Readings====
+{{ja-readings
+|on=[[とく]] (toku), [[とう]] (tō), [[どく]] (doku)
+|kun=[[よむ]] (yomu)
+}}
+
+====Usage notes====
+Very rarely used. Superseded by the ''shinjitai'' form.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[독]], [[두]]|eumhun=|rv=dok, du|mr=tok, tu|y=tok, twu}}
+
+# {{defn|lang=ko|sort=言15}}
+
+====Compounds====
+{{top2}}
+* [[吏讀]] ([[이두]], itwu or idu)
+{{mid2}}
+{{bottom}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=言15| hanviet = [[độc]], [[đọc]], [[đậu]], [[đặt]]}}
+
+# {{defn|lang=vi|sort=言15}}
+
+[[zh-min-nan:讀]]
+[[fr:讀]]
+[[ko:讀]]
+[[lt:讀]]
+[[hu:讀]]
+[[mg:讀]]
+[[fj:讀]]
+[[ja:讀]]
+[[pl:讀]]
+[[th:讀]]
+[[chr:讀]]
+[[zh:讀]]

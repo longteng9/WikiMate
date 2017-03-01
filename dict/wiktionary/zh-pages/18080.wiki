@@ -1,0 +1,61 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=12|sn=16|four=|canj=DASE|ids=⿰木最}}
+
+# [[wooden]] [[joint]]
+
+====References====
+* {{Han ref|kx=0551.240|dkj=15491|hdz=21291.080|uh=6A36|ud=27190}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuī
+|c=zeoi1
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 132]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木12}}
+
+# {{defn|lang=ja|sort=木12}}
+
+====Readings====
+* {{ja-readings|on=[[さい]] (sai)|kun=[[ふし]] (fushi)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木12| hanviet = chuối}}
+
+# {{defn|lang=vi|sort=木12}}
+
+[[fr:樶]]
+[[hu:樶]]
+[[ja:樶]]
+[[pl:樶]]
+[[th:樶]]
+[[zh:樶]]

@@ -1,0 +1,110 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=5|rad=乙|as=01|sn=2|four=47712|canj=PN,PS,XPN}}
+
+====References====
+* {{Han ref|kx=0083.180|dkj=00166|dj=0168.010|hdz=10049.090|uh=4E5C|ud=20060|bh=C941|bd=51521}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|c=mat1
+|c-t=mot2
+|mn-t=mih4
+|cat=pron
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese|Teochew}} [[what]]
+#: {{zh-x|愛 乜個？|tr=ain3 '''mih4''' gai5?|What do you want?|MN-T}}
+# {{lb|zh|Cantonese}} anything; everything
+
+=====Synonyms=====
+* {{zh-l|乜嘢}}, {{zh-l|乜嘢嘢}}
+* {{qualifier|more casual}} {{zh-l|咩}}, {{zh-l|咩嘢}}
+* {{qualifier|emphatic}} {{zh-l|乜鬼}}
+* {{qualifier|literary|Mandarin}} {{zh-l|什麼}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=miē
+|c=me1,me2,me5
+|mn-t=mi1
+|mc=y
+|oc=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to narrow one's eyes and squint
+
+=====Compounds=====
+{{zh-der|乜乜屑屑|乜乜斜斜|乜乜踅踅|乜斜|乜斜眼|乜斜纏帳}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=niè
+|c=ne6
+|mn-t=nian7
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{surname|lang=zh|dot=,}} listed 126th in the ''{{w|Baijiaxing}}''.
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=乙01}}
+
+# {{defn|lang=ja|sort=乙01}}
+
+====Readings====
+* {{ja-readings|on=[[ば]] (ba), [[め]] (me)|kun=[[やぶにらみ]] (yabunirami)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=먀|rv=mya|mr=mya}}
+
+# {{defn|lang=ko|sort=乙01}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=乙01|hanviet=mã, niết, niệt, khiết, mễ|nom=khiết, mã}}
+
+# {{defn|lang=vi|sort=乙01}}
+
+===References===
+* {{R:WinVNKey:Lê Sơn Thanh}}
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e5c Nom Foundation]
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:乜]]
+[[li:乜]]
+[[hu:乜]]
+[[mg:乜]]
+[[ja:乜]]
+[[pl:乜]]
+[[th:乜]]
+[[zh:乜]]

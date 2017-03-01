@@ -1,0 +1,410 @@
+{{character info/new}}
+{{also|鱼|漁|鱻}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=00|sn=11|four=27336|canj=NWF|ids=⿳⺈田灬}}
+#{{mul-kangxi radical-def}}
+====Derived characters====
+* [[Index:Chinese radical/魚]]
+
+====Descendants====
+* [[鱼]], [[𩵋]]
+
+===References===
+* {{Han ref|kx=1465.010|dkj=45956|dj=1998.010|hdz=74674.010|uh=9B5A|ud=39770|bh=B3BD|bd=46013}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鱼|alt=𤉯,𤋳,𩵋}}
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|p}} – pictographic representation of a fish.
+
+===Etymology===
+From {{inh|zh|sit-pro|*s-ŋja}}. Cognate with {{och-l|漁|to fish}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yú
+|ma=y
+|m-s=yu2
+|c=jyu4,jyu4-2
+|c-t=ngui3,ngui3*
+|h=pfs=ǹg
+|md=ngṳ̀
+|mn=xm,zz,kh,tn,tc,yl,hc:hî/tp,mg:hû/qz,lk,sx,km,hc:hîr/xm,tw:gû/qz:gîr/zz:gî
+|mn_note=hî/hû/hîr - vernacular; gû/gîr/gî - literary
+|mn-t=he5
+|w=3hhngg
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[fish]] {{zh-mw|m,c:條|m,h,mn:尾}}
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|箭魚|魷魚|魚鰾|魚叉|魚池|魚翅|魚蟲|魚刺|魚肚|魚肚白|魚餌|魚粉|魚肝油|魚竿|魚缸|魚鉤|魚貫|魚具|魚雷|魚雷艇|魚類|魚鱗|魚龍混雜|魚簍|魚卵|魚米之鄉|魚苗|魚目混珠|魚漂|魚情|魚群探測器|魚肉|魚市|魚水|魚水情|魚死網破|魚塘|魚网|魚尾紋|魚鮮|魚汛|魚秧子|魚鷹|魚油|魚遊釜中|魚躍救球|魚找魚，蝦找蝦|魚子|魚子醬|章魚|鯉魚|鱈魚|鯊魚|鯨魚|鱷魚|鱸魚|鯰魚|鯽魚|鰻魚|比目魚|草魚|金槍魚|梭魚|釣魚|鮭魚|沙丁魚|鰈魚|飛魚|鯡魚|人魚|伯魚|印魚|叉魚|史魚|嘉魚|團魚|射魚|帶魚|恩魚|懸魚|扁魚|打魚|挫魚|捕魚|摸魚|撲魚|放魚|文魚|斑魚|旗魚|木魚|板魚|枯魚|柴魚|水魚|池魚|沙魚|烏魚|狼魚|甲魚|白魚|皋魚|紅魚|絲魚|腳魚|臘魚|臥魚|蟲魚|蠹魚|衣魚|角魚|豚魚|貫魚|醃魚|金魚|銀魚|雙魚|電魚|青魚|香魚|鬥魚|魚丸|魚伯|魚信|魚兒|魚刀|魚口|魚塭|魚封|魚尾|魚拓|魚排|魚書|魚服|魚木|魚板|魚梁|魚梯|魚樂|魚沉|魚爛|魚片|魚狗|魚白|魚眼|魚秧|魚符|魚笱|魚箋|魚粕|魚紋|魚網|魚線|魚繭|魚罟|魚群|魚肥|魚脣|魚腥|魚膠|魚花|魚藤|魚藻|魚虎|魚蝦|魚蝨|魚袋|魚販|魚雁|魚頭|魚鬆|魚鮓|魚鰭|魚鳥|魚麗|魚鼓|魚龍|鮑魚|鮒魚|鮪魚|鯗魚|鯢魚|鯧魚|鰉魚|鰒魚|鰱魚|鰲魚|鰷魚|鱄魚|鱒魚|鱔魚|鱖魚|鷂魚|鹹魚|黃魚|墨魚|黿魚}}
+
+===Descendants===
+{{CJKV||ぎょ|어|ngư}}
+''Others'':
+* Dungan: {{l|dng|йүр}}, {{l|dng|йү}}
+
+{{zh-cat|Beginning|Fish}}
+
+----
+
+==Japanese==
+{{attention|ja|Compounds need expanding; idioms still needed.}}
+{{wikipedia|lang=ja|魚類}}
+{{wikipedia|Fish}}
+
+===Kanji===
+{{ja-kanji|grade=2|rs=魚00}}
+
+# [[fish]]
+
+====Readings====
+{{ja-readings
+|goon=[[ご]] (go) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[ぎょ]] (gyo)
+|kun=[[うお]] (uo), [[いお]] (io), [[お]] (o), [[な]] (na), [[さかな]] (sakana), [[すなどる|すなど.る]] ({{ja-l|魚る}} sunado.ru) {{qualifier|rare}}
+|nanori=[[い]] (i)
+}}
+
+====Compounds====
+{{der-top|Compounds with irregular readings}}
+* {{ja-r|魚屋|ととや}}: a fish [[store]] or [[shop]]; a type of [[bowl]] originally from Korea, used in [[tea ceremony]]
+{{der-bottom}}
+
+===Etymology 1===
+[[File:Macropodus_opercularis_-_front_(aka).jpg|thumb|250px|{{lang|ja|魚}} (''uo'', ''io'', ''o'', ''sakana''): fish]]
+{{ja-kanjitab|うお|yomi=k}}
+From {{etyl|ojp|ja|sort=うお}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The pronunciation shifted from {{IPAchar|/uwo/}} to {{IPAchar|/uo/}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|うお|acc=0|acc_ref=DJR,NHK|a=Ja-uo-fish.oga}}
+
+====Noun====
+{{ja-noun|うお|hhira=うを}}
+
+# [[fish]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|活魚|いけうお}}: live fish and shellfish (kept in a tank in a restaurant)
+* {{ja-r|魚河岸|うおがし}}: riverside fish market
+* {{ja-r|魚座|うおざ}}: [[Pisces]] (constellation), the Fish, the Fishes;
+* {{ja-r|魚印|うおじるし}}: a [[mark]] made on a fish, such as a [[cut]] on a [[fin]], to identify one's own catch when fishing together with others
+* {{ja-r|魚釣り|うおつり}}: [[fishing]]
+* {{ja-r|魚屋|うおや}}: a [[fishmonger]]
+* {{ja-r|魚市場|うお いちば}}: a [[fish]] [[market]]
+* {{ja-r|魚河岸|うおがし}}: a [[riverside]] [[fish]] [[market]]
+{{der-mid}}
+* {{ja-r|雷魚|かみなりうお}}: [[sailfin sandfish]]
+* {{ja-r|川魚|かわうお}}: river fish; [[freshwater]] fish
+* {{ja-r|山椒魚|さんしょううお}}: a [[salamander]]
+* {{ja-r|白魚|しらうお}}: [[icefish]]
+* {{ja-r|刺魚|とげうお}}: a [[stickleback]] fish
+* {{ja-r|飛び魚|とびうお}}: [[flying fish]]
+* {{ja-r|氷魚|ひうお}}): a [[transparent]] [[sweetfish]] [[fingerling]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|いお|yomi=k}}
+Alteration of older ''uo'', appearing from roughly the [[w:Heian period|Heian period]]. Still used in modern {{etyl|ja|-}} some dialects.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The pronunciation shifted from {{IPAchar|/uwo/}} to {{IPAchar|/iwo/}} to {{IPAchar|/io/}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|いお}}
+
+====Noun====
+{{ja-noun|いお|hhira=いを}}
+
+# [[fish]]
+
+===Etymology 3===
+{{ja-kanjitab|お|yomi=k}}
+Shortening of ''uo'', appearing only in compounds.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The pronunciation shifted from {{IPAchar|/uwo/}} to {{IPAchar|/wo/}} to {{IPAchar|/o/}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|お}}
+
+====Noun====
+{{ja-noun|お|hhira=を}}
+
+# [[fish]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|大魚|おうお}}: a [[big]] [[fish]]
+* {{ja-r|鰹|かつお}}: a [[skipjack tuna]]
+* {{ja-r|針魚|はりお}}: Japanese halfbeak
+* {{ja-r|氷魚|ひお}}: a [[transparent]] [[sweetfish]] [[fingerling]]
+{{der-bottom}}
+
+===Etymology 4===
+[[File:GrilledCongridae.jpg|thumb|250px|{{lang|ja|魚}} (''na''): fish as a [[side dish]]]]
+{{ja-kanjitab|な|yomi=k}}
+From {{etyl|ojp|ja|sort=な}}. Cognate with {{m|ja|な|tr=na||a side dish}}, spelled variously in kanji in modern Japanese as {{m|ja|肴|pos=for meat or fish}}, {{m|ja|菜|pos=for vegetables}}, {{m|ja|魚|pos=for fish}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|な}}
+
+====Noun====
+{{ja-noun|な}}
+
+# [[fish]], especially as [[food]]
+#* {{RQ:Man'yōshū|5|869}}
+#*: {{lang|ja|多良志比賣 可尾能美許等能 '''奈'''都良須等 美多々志世利斯 伊志遠多礼美吉}}
+#*: {{lang|ja|足姫　神の命の　'''魚'''釣らすと　み立たしせりし　石を誰れ見き}}
+#*:: {{lang|ja|たらしひめ　かみのみことの　'''な'''つらすと　みたたしせりし　いしをたれみき}}
+#*:: ''tarashi hime kami no mikoto no '''na''' tsurasu to mi-tatashi serishi ishi wo tare miki''
+#*::: who saw the rock that rose up against us as we tried to catch the '''fish''' belonging to the empress?
+#* {{RQ:Man'yōshū|2|131}}
+#*: {{lang|ja|滷者無鞆　鯨'''魚'''取 海邊乎指而 和多豆乃 荒礒乃上尓 香青生　玉藻息津藻 朝羽振 風社依米}}
+#*: {{lang|ja|潟はなくとも　鯨魚取り　海辺を指して　柔田津の　荒礒の上に　か青なる　玉藻沖つ藻 朝羽振る 風こそ寄せめ}}
+#*:: {{lang|ja|かたはなくとも　いさ'''な'''とり　うみへをさして　にきたづの　ありそのうへに　かあをなる　たまもおきつも　あさはふる　かぜこそよせめ}}
+#*:: ''kata wa naku to mo isa'''na''' tori umihe wo sashite Nikitadzu no ariso no uhe ni kaawo naru tamamo oki tsu mo asa ni furu kaze koso yoseme''
+#*::: Even though there is no inlet, the wind that blows in the morning gathers green seaweed pearls and offshore seaweed onto the rocky beaches of Nikitazu along the big-'''fish'''-hunting [metaphor for "sea"] shore...
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|魚|さかな}} {{qualifier|see below}}
+{{der-bottom}}
+
+===Etymology 5===
+[[File:Beer_and_edamame_(boild_green_soybeans).jpg|thumb|250px|{{lang|ja|魚}}, {{l|ja|肴}} (''sakana''): a [[side dish]] served with [[alcoholic]] [[beverage]]s]]
+{{ja-kanjitab|さかな|yomi=k}}
+Compound of {{etyl|ojp|ja|sort=さかな}} elements {{compound|lang=ja|sort=さかな|酒|tr1=saka|t1=sake, rice wine|菜|tr2=na|t2=side dish|pos2=see also ''na'' above}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Likely source of Okinawan ''[[さかな#Okinawan|sakana]]''.
+
+====Pronunciation====
+{{ja-pron|yomi=k|さかな|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|肴}}
+
+====Noun====
+{{ja-noun|さかな}}
+
+# [[fish]]
+# a [[side dish]] served with [[alcoholic]] [[beverage]]s: not necessarily [[fish]], may be a [[vegetable]] or other [[meat]]
+# {{lb|ja|sort=さかな|archaic}} [[entertainment]] at a [[drinking]] [[party]]
+
+=====Usage notes=====
+This is now the most common general word for {{m|en|fish}} in modern standard Japanese. The {{m|en|side dish}} sense is more commonly spelled {{ja-l|肴}}.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|小魚|こざかな}}: small fish
+* {{ja-r|下魚|げざかな}}: inferior fish, cheap fish
+* {{ja-r|魚釣り|さかなつり}}: [[fishing]]
+* {{ja-r|魚屋|さかなや}}: a [[fishmonger]]; a fish [[store]] or [[shop]]
+* {{ja-r|魚河岸|さかながし}}: a [[riverside]] [[fish]] [[market]]
+* {{ja-r|生魚|なまざかな}}: raw fish
+{{der-bottom}}
+
+===Etymology 6===
+{{ja-kanjitab|ぎょ|yomi=o}}
+From {{etyl|ltc|ja|sort=きょ'}} {{m|ltc|魚}} ({{IPAchar|/ŋiɔ/}}). Compare modern {{cog|cmn|魚|tr=yú}}.
+
+Used in compounds.
+
+====Affix====
+{{ja-pos|affix|ぎょ}}
+
+# [[fish]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|魚綾|ぎょりょう}}, {{ja-r|魚陵|ぎょりょう}}, {{ja-r|魚竜|ぎょりょう}}: a kind of high-quality [[twill]]
+* {{ja-r|魚綾|ぎょりゅう}}: an [[ichthyosaur]]; a kind of high-quality [[twill]]
+* {{ja-r|魚影|ぎょえい}}: {{qualifier|fishing terminology}} the [[appearance]] of [[fish]] in the [[water]]
+* {{ja-r|魚塩|ぎょえん}}: general term for [[marine]] [[product]]s: [[fish]] and [[salt]]; a [[purveyor]] of marine products
+* {{ja-r|魚価|ぎょか}}: the [[price]] of [[fish]]
+* {{ja-r|魚類|ぎょるい}}: [[fish]] {{qualifier|as a type of animal in biology}}
+* {{ja-r|魚類学|ぎょるいがく}}: [[ichthyology]]
+* {{ja-r|魚類学者|ぎょるいがくしゃ}}: [[ichthyologist]]
+{{der-mid}}
+* {{ja-r|金魚|きんぎょ}}: [[goldfish]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|さかな]]
+[[Category:ja:Fish]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=어|eumhun=|rv=eo|mr=ŏ|y=e}}
+
+# {{defn|lang=ko|sort=魚00}}
+
+====Compounds====
+* {{l|ko|文魚}}, {{l|ko|문어||octopus}}
+
+----
+
+==Mulam==
+{{attention|mlm}}
+
+===Noun===
+{{head|mlm|noun|tr=məm6}}
+
+# [[fish]]
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{head|ryu|kanji}}
+
+* {{ja-readings|kun=[[いう]] (iu), [[いゆ]] (iyu)}}
+
+===Etymology 1===
+{{IPAchar|/uwo/}} → {{IPAchar|/iwo/}} → {{IPAchar|/io/}} → {{IPAchar|/iu/}}
+
+Cognate with {{etyl|ojp|-}} {{m|ja|魚|tr=uwo}}. Compare modern dialectal mainland Japanese {{m|ja|魚|tr=io}}, first appearing in print and becoming common from the [[w:Heian period|Heian period]], but likely extant earlier.
+
+====Noun====
+{{head|ryu|noun|hiragana|いう|romaji|iu}}
+
+# [[fish]]
+
+===Etymology 2===
+{{IPAchar|/iu/}} → {{IPAchar|/iju/}}
+
+Sound shift from ''iu''.
+
+====Noun====
+{{head|ryu|noun|hiragana|いゆ|romaji|iyu}}
+
+# [[fish]]
+
+=====Derived terms=====
+{{der-top}}
+* {{m|ryu|下がい魚|tr=[[さがいいゆ]], ''[[sagaiiyu]]''}}: fish that is no longer fresh
+* {{m|ryu|田魚|tr=[[たーっいゆ]], ''[[tā'iyu]]''}}: [[crucian carp]] (Carassius carassius)
+{{der-bottom}}
+
+----
+
+==Old Japanese==
+
+===Alternative forms===
+* {{l|ojp|奈}}
+
+===Noun===
+{{head|ojp|noun|tr=na|kana|な}}
+
+# [[fish]]
+#* {{RQ:Man'yōshū|2|131}}
+#*: {{lang|ja|滷者無鞆　鯨'''魚'''取 海邊乎指而 和多豆乃 荒礒乃上尓 香青生　玉藻息津藻 朝羽振 風社依米}}
+#*: {{lang|ja|潟はなくとも　鯨'''魚'''取り　海辺を指して　柔田津の　荒礒の上に　か青なる　玉藻沖つ藻 朝羽振る 風こそ寄せめ}}
+#*:: {{lang|ja|かたはなくとも　いさ'''な'''とり　うみへをさして　にきたづの　ありそのうへに　かあをなる　たまもおきつも　あさはふる　かぜこそよせめ}}
+#*:: ''kata wa naku to mo isa'''na''' tori umihe wo sashite Nikitadzu no ariso no uhe ni kaawo naru tamamo oki tsu mo asa ni furu kaze koso yoseme''
+#*::: Even though there is no inlet, the wind that blows in the morning gathers green seaweed pearls and offshore seaweed onto the rocky beaches of Nikitazu along the big-'''fish'''-hunting [metaphor for "sea"] shore...
+
+====Descendants====
+* Japanese: {{l|ja|魚|tr=na}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngư]], [[ngơ]], [[ngớ]], [[ngừ]]|rs=魚00}}
+
+# {{defn|lang=vi|sort=魚00}}
+
+[[Category:CJKV radicals| ]]
+
+----
+
+==Yonaguni==
+{{attention|yoi}}
+
+===Kanji===
+{{head|yoi|kanji|hiragana|いゆ|romaji|iyu}}
+
+===Noun===
+{{head|yoi|noun|hiragana|いゆ|romaji|iyu}}
+
+# [[fish]]
+
+=====Derived terms=====
+{{der-top}}
+* {{m|yoi|魚ぱし|tr=[[いゆぱし]], ''[[iyupashi]]''}}: [[fishing]]
+{{der-bottom}}
+
+----
+
+==Yoron==
+{{attention|yox}}
+
+===Kanji===
+{{head|yox|kanji|hiragana|っゆー|romaji|'yū}}
+
+===Noun===
+{{head|yox|noun|hiragana|っゆー|romaji|'yū}}
+
+# [[fish]]
+
+[[zh-min-nan:魚]]
+[[cs:魚]]
+[[et:魚]]
+[[el:魚]]
+[[fr:魚]]
+[[fy:魚]]
+[[ko:魚]]
+[[io:魚]]
+[[id:魚]]
+[[it:魚]]
+[[kn:魚]]
+[[ku:魚]]
+[[lo:魚]]
+[[la:魚]]
+[[lt:魚]]
+[[li:魚]]
+[[hu:魚]]
+[[mg:魚]]
+[[ms:魚]]
+[[mn:魚]]
+[[fj:魚]]
+[[nl:魚]]
+[[ja:魚]]
+[[uz:魚]]
+[[km:魚]]
+[[tpi:魚]]
+[[pl:魚]]
+[[pt:魚]]
+[[ro:魚]]
+[[ru:魚]]
+[[sm:魚]]
+[[fi:魚]]
+[[sv:魚]]
+[[th:魚]]
+[[chr:魚]]
+[[tr:魚]]
+[[uk:魚]]
+[[vi:魚]]
+[[zh:魚]]

@@ -1,0 +1,30 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=huǒshānkǒu
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|geology}} [[crater]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|か|さん|k2=ざん|くち|yomi=on}}
+
+===Etymology===
+{{m|ja|火||fire}} + {{m|ja|山||mountain}} + {{m|ja|口||mouth}}.
+{{rfe|lang=ja|the current etymology is too simplistic and only explains the characters. in this case , the three characters have chinese pronunciations so it seems the word was borrowed whole from chinese or less likely created in japan from chinese parts.}}
+
+===Noun===
+{{ja-noun|かざんくち}}
+
+# [[crater]], literally "fire mountain mouth".
+
+[[mg:火山口]]
+[[zh:火山口]]

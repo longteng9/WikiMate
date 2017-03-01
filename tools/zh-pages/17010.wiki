@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|晋}}
+==Translingual==
+{{ja-forms|[[晋]]|[[晋]]|[[晉]]}}
+
+===Han character===
+{{Han char|rn=72|rad=日|as=06|sn=10|four=10601|canj=MIIA|ids=⿱⿳一⿰厶厶一日}}
+
+# [[advance]], [[increase]]
+# [[promote]]
+# Chinese [[feudal]] state of [[Jin]] (11th century BCE–376 BCE), a state of the Zhou Dynasty in northern China
+# Chinese [[w:Jin Dynasty (265–420)|Jin]] [[dynasty]] (265-420)
+# 35th [[hexagram]] of the [[I Ching]]
+
+====References====
+* {{Han ref|kx=0494.310|dkj=13898|dj=0860.070|hdz=21507.030|uh=6649|ud=26185|bh=AECA|bd=44746}}
+
+----
+
+==Chinese==
+{{zh-forms|s=晋}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìn
+|c=zeon3
+|mc=y
+|oc=y
+|ma=
+|cat=v,n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=日06|style=ky|shin=晋}}
+
+# to [[proceed]]
+
+====Readings====
+{{ja-readings
+|on=[[しん]] (shin)
+|kun=[[すすむ|すす-む]] (susu-mu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=진|eumhun=|rv=jin|mr=chin|y=cin}}
+
+# {{defn|lang=ko|sort=日06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tấn]], [[tắn]], [[tớn]]|rs=日06}}
+
+# {{defn|lang=vi|sort=日06}}
+
+[[fr:晉]]
+[[ko:晉]]
+[[hu:晉]]
+[[ms:晉]]
+[[ja:晉]]
+[[pl:晉]]
+[[th:晉]]
+[[zh:晉]]

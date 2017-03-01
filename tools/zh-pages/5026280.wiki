@@ -1,0 +1,24 @@
+{{also|转音}}
+==Chinese==
+{{zh-forms|s=转音}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhuǎnyīn
+|c=zyun3 jam1
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to enter [[hanzi]] (Chinese characters) with [[pinyin]]
+
+===Noun===
+{{zh-noun}}
+
+# [[phonetic]] [[input]] (in computing)
+# {{lb|zh|music}} [[riff]], [[run]]
+# {{lb|zh|music}} [[portamento]]
+
+{{zh-cat|Computing}}

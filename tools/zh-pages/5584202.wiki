@@ -1,0 +1,53 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=bànzhèngshǐ
+|c=bun3 zing3 ci2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|trigonometry}} [[haversine]]; [[haversed sine]]
+
+===See also===
+* {{zh-l|三角函數}}
+* {{zh-l|正弦}}
+* {{zh-l|餘弦}}
+* {{zh-l|正切}}
+* {{zh-l|餘切}}
+* {{zh-l|正割}}
+* {{zh-l|餘割}}
+* {{zh-l|正矢}}
+* {{zh-l|餘矢}}
+* {{zh-l|半餘矢}}
+* {{zh-l|反正弦}}
+* {{zh-l|反餘弦}}
+* {{zh-l|反正切}}
+* {{zh-l|反餘切}}
+----
+==Japanese==
+{{ja-kanjitab|はん|せい|し|yomi=o}}
+
+===Etymology===
+{{compound|ja|半|正矢|tr1=han|t1=[[half]]|tr2=seishi|t2=[[versed sine]]|sort=はんせいし}}
+
+===Noun===
+{{ja-noun|はんせいし}}
+
+# {{lb|ja|trigonometry|sort=はんせいし}} [[haversine]]; [[haversed sine]]
+
+===See also===
+* {{ja-r|三%角%関%数|さん%かく% かん%すう}}
+* {{ja-r|正%弦|せい%げん}}
+* {{ja-r|余%弦|よ%げん}}
+* {{ja-r|正%接|せい%せつ}}
+* {{ja-r|余%接|よ%せつ}}
+* {{ja-r|正%割|せい%かつ}}
+* {{ja-r|余%割|よ%かつ}}
+* {{ja-r|正%矢|せい%し}}
+* {{ja-r|余%矢|よ%し}}
+* {{ja-l|半余矢|はんよし|han'yoshi}}

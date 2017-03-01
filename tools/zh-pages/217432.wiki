@@ -1,0 +1,20 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=zìfújí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# a [[character set]]
+
+====Synonyms====
+* {{zh-l|字集}}
+
+{{zh-cat|Computing}}
+
+[[zh:字符集]]

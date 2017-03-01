@@ -1,0 +1,31 @@
+==Japanese==
+{{ja-kanjitab|へん|じ|yomi=on}}
+
+===Etymology===
+From {{m|ja|返す||to return}} + {{m|ja|事||thing}}. A shift from kun'yomi to on'yomi occurred.
+
+===Noun===
+{{ja-noun|へんじ}}
+
+# [[reply]], [[response]]
+# [[answer]]
+
+===Verb===
+{{ja-verb-suru|へんじ}}
+
+# to reply, [[respond]]
+# [[give]] an answer
+
+====Conjugation====
+{{ja-suru|へんじ}}
+
+====Related terms====
+* {{ja-r|返答|へんとう}}
+
+[[fr:返事]]
+[[lt:返事]]
+[[li:返事]]
+[[mg:返事]]
+[[ja:返事]]
+[[chr:返事]]
+[[zh:返事]]

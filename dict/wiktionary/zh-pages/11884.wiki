@@ -1,0 +1,103 @@
+{{character info/new}}
+{{also|醫}}
+==Translingual==
+{{stroke order|strokes=7}}
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|匸|矢|t1=bag, container|t2=arrow|ls=ic}} – an arrow (矢) in a chest, indicating one of the early practices of doctors which was to pull the arrows out of wounded soldiers’ chests.
+
+Also {{Han simp|醫|f=殳|t=&nbsp;|f2=酉|t2=&nbsp;}}. Compare [[声]] from [[聲]].
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+===Han character===
+{{Han char|rn=23|rad=匸|as=05|sn=7|four=|canj=SOK|ids=⿷匚矢}}
+
+# [[cure]], [[heal]]
+# [[doctor]]
+# [[medical]]
+
+====References====
+* {{Han ref|kx=0155.050|dkj=02680|hdz=10085.030|uh=533B|ud=21307}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|醫}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=yì
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# A [[tool]] for [[storing]] a [[bow]] and [[crossbow]].
+
+===References===
+* {{R:twedu|C00862}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=匸05|style=s|kyu=醫}}
+
+# [[doctor]]
+# [[medicine]], the healing arts
+
+====Readings====
+* {{ja-readings|kanon=[[い]] ([[i]])|goon=[[い]] ([[i]])|kun=[[いやす]] ([[iyasu]]), [[くすし]] ([[kusushi]])}}
+
+====Compounds====
+* {{ja-r|医院|い.いん}}
+* {{ja-r|医学|いがく}}
+* {{ja-r|医師|いし}}
+* {{ja-r|医者|いしゃ}}
+* {{ja-r|医術|いじゅつ}}
+* {{ja-r|医薬|いやく}}
+* {{ja-r|医療|いりょう}}
+
+===Etymology===
+{{ja-kanjitab|い|yomi=o}}
+
+From {{etyl|zhx|ja}}.
+
+====Noun====
+{{ja-noun|い}}
+
+# medicine (vocation), healing, doctor, cure {{attention|ja|what???? --07:14, 29 May 2016 (UTC)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[예]], [[의]]|rv=ye, ui|mr=ye, ŭi}}
+
+# {{defn|lang=ko|sort=匸05}}
+
+[[fr:医]]
+[[ko:医]]
+[[hu:医]]
+[[mg:医]]
+[[ms:医]]
+[[ja:医]]
+[[no:医]]
+[[pl:医]]
+[[ru:医]]
+[[fi:医]]
+[[sv:医]]
+[[th:医]]
+[[chr:医]]
+[[vi:医]]
+[[zh:医]]

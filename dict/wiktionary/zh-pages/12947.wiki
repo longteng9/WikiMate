@@ -1,0 +1,93 @@
+{{character info/new}}
+{{also|团|団}}
+==Translingual==
+{{Han simplified forms|團|団|团}}
+
+===Han character===
+{{Han char|rn=31|rad=囗|as=11|sn=14|four=60343|canj=WJII|ids=⿴囗專}}
+
+====Descendants====
+* [[糰]]
+
+====References====
+* {{Han ref|kx=0221.020|dkj=04834|dj=0452.130|hdz=10725.020|uh=5718|ud=22296|bh=B9CE|bd=47566}}
+
+----
+
+==Chinese==
+{{zh-forms|s=团}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|囗|專|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=tuán,er=y
+|c=tyun4
+|h=pfs=thòn
+|md=tuàng/diòng
+|md_note=tuàng - literary; diòng - vernacular (“united; assembled; to form a circle”, e.g. {{zh-l|*團團}})
+|mn=thoân/qz:tôaⁿ/tw,xm:thn̂g/zz:thûiⁿ/qz:thn̍gh
+|mn_note=thoân - literary; tôaⁿ/thn̂g/thuîⁿ/thn̍gh - vernacular
+|w=3doe
+|mc=y
+|oc=y
+|ma=y
+|cat=n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[sphere]]; [[ball]]; [[circle]]
+# [[mass]]; [[lump]]
+# {{zh-classifier|[[round]] objects}}
+# {{lb|zh|military}} [[regiment]]; [[corps]]
+# {{lb|zh|Mainland}} {{zh-short|共青團|Communist Youth League}}
+
+====Usage notes====
+{{sense|military}} Under the [[w:National Revolutionary Army|National Revolutionary Army]], a regiment of [[infantry]] was composed of three [[battalion]]s ({{zh-l|*營}}) and some miscellaneous [[companies]] ({{zh-l|*連}}). In turn, two regiments formed a [[brigade]] ({{zh-l|*旅}}). Three regiments could be formed into a [[triangular division]], where the brigade structure was absent, as a [[division]] ({{zh-l|*整編師}} / {{zh-l|*編制師}}).
+
+===Compounds===
+{{zh-der|團聚|樂團|商團|一團|一團和氣|一團漆黑|一團火|一團糟|中介社團|主席團|亂成一團|亂集團|交戰團體|交響樂團|人民團體|代表團|企業集團|伙食團|使節團|僑團|公使團|共產集團|共青團|兵團|冷氣團|刓團|初級團體|利益團體|剔團圓|剔團圞|劇團|功能團體|勞工團體|勞軍團|包髻團衫|原子團|合唱團|團丁|團主|團伙|團剝|團勇|團匪|團員|團圍|團圓|團圓節|團團|團團圍住|團團轉|團圞|團坐|團契|團康|團弄|團扇|團扇妾|團拜|團掿|團書|團案|團欒|團沙群島|團牌|團瓢|團礦|團社|團空|團管區|團粒|團結|團結一心|團練|團臉|團臍|團花|團茶|團荷|團著|團藻|團行|團長|團隊|團隊精神|團音|團頭|團頭團臉|團頭聚面|團香扇|團體|團體協約|團體意識|團體操|團體治療|團體行動|團體規範|團體輔導|團魚|團龍|團龍兒|報團|壓力團體|外交團|大兵團|大團圓|大團白臉|大團結|大陪審團|大陸氣團|婦女團體|尖團|尖團字|尖團音|工業團體|師團|年團子|忙作一團|慌成一團|成團打塊|打團|打成一團|指破迷團|採購團|搓粉團朱|擠成一團|救國團|教練團|教育團體|旅行劇團|旅行團|星團|智囊團|暖氣團|月團|東歐集團|柏林劇團|次級團體|歌舞團|正集團|毛團|毛團把戲|民團|民間團體|氣團|水團|溜冰團|漁民團體|漆黑一團|潑毛團|潑花團|球狀星團|畢宿星團|疑團|白團|白團扇|破產財團|社團|秋風團扇|笑成一團|管弦樂團|粉團兒|精誠團結|綜藝團|義和團|考察團|職業團體|膿團|舞團|花團|花團錦簇|草團瓢|蒲團|西歐集團|觀光團|訪問團|謎團|變性氣團|財團|財團法人|軍團|農技團|農民團體|巡迴劇團|鄉團|銀行團|防護團|陪審團|集團|集團結婚|面團團|風團|馬戲團|騎兵團|骨肉團圓|骨肉團圞|麵團|麻做一團|麻團|黃毛團兒|黑漆一團|黨團|龍團}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=囗11|style=ky|shin=団}}
+
+# {{defn|lang=ja|sort=囗11}}
+
+====Readings====
+* {{ja-readings|on=[[だん]] (dan), [[とん]] (ton), [[どん]] (don)|kun=[[まるい]] (marui), [[かたまり]] (katamari)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=단|rv=dan|mr=tan}}
+
+# {{defn|lang=ko|sort=囗11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đoàn]]|rs=囗11}}
+
+# {{defn|lang=vi|sort=囗11}}
+
+[[fr:團]]
+[[ko:團]]
+[[li:團]]
+[[hu:團]]
+[[mg:團]]
+[[ja:團]]
+[[pl:團]]
+[[th:團]]
+[[zh:團]]

@@ -1,0 +1,45 @@
+{{also|云锣}}
+==Chinese==
+{{zh-forms|s=云锣}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+[[雲]] ([[cloud]]) + [[鑼]] ([[gongs]])
+
+===Pronunciation===
+{{zh-pron
+|m=yúnluó
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[yunluo]] (a set of tuned flat gongs in a frame, played with a stick; used in traditional Chinese music)
+
+===See also===
+* {{l|zh|十面鑼}}
+* {{l|zh|雲羅}}
+
+{{zh-cat|Musical instruments}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{ja-kanjitab|うん|ら|yomi=o}}
+From {{etyl|ltc|ja|sort=うんら}} compound {{m|zh|雲鑼|lit=cloud + gong}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|うんら|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|うんら}}
+
+# [[yunluo]]
+
+===References===
+<references/>
+
+[[Category:ja:Musical instruments|うんら]]

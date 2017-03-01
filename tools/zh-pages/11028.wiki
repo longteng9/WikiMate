@@ -1,0 +1,130 @@
+{{character info/new}}
+{{also|藉}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=08|sn=10|four=24261|canj=OTA|ids=⿰亻昔}}
+
+====References====
+* {{Han ref|kx=0108.100|dkj=00781|dj=0230.060|hdz=10171.050|uh=501F|ud=20511|bh=ADC9|bd=44489}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=jiè
+|ma=y
+|c=ze3
+|h=pfs=chia
+|mn=chioh
+|w=2jia
+|mc=y
+|oc=y
+|lc=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[lend]]
+#: {{zh-x|我 沒 有 書，你 能 借 我 一 本 嗎？|I haven' t got any book; can you '''lend''' me one ?}}
+#: {{zh-x|可以\可 唔 可以 借 本 書 畀 我 呀？|Can you lend me a book?|C-GZ}}
+# to [[borrow]]
+#: {{zh-x|我 可以 借 你 的 書 嗎？|Can I '''borrow''' your book?}}
+# to make use of; by means of; to take advantage of (an opportunity)
+#: {{zh-x|他 借 慈善 事業 為名 欺騙 了 他們。|He deceived them '''under''' the veil of charity.}}
+#: {{zh-x|他們 借 雷達 標示 飛機 的 動向。|They plotted aircraft movements '''by''' radar.}}
+#: {{zh-x|她 借 著[着]{zhe} 閃爍 的 燭[烛]{zhú}光 讀書。|She was reading '''by''' the flickering light of the candle.}}
+#: {{zh-x|我 想 借 這 個 機會，對 你們 的 幫助 表示 感謝。|I would like '''to take advantage''' of this opportunity to express my thanks for your help.}}
+
+=====Synonyms=====
+* {{zh-l|貸|to lend on interest, to borrow}}
+
+====Compounds====
+{{zh-der|假借|不借|使用借貸|借一步|借主|借交報仇|借代|借令|借位|借住|借使|借債|借光|借典|借刀殺人|借券|借劍殺人|借助|借勢|借口|借古諷今|借名|借問|借單|借喻|借壽|借契|借妻|借字|借客報仇|借宿|借寇恂|借對|借屍還魂|借手|借提|借據|借支|借故|借方|借書證|借東風|借條|借款|借水推船|借水行舟|借火|借用|借端|借箸|借約|借聽於聾|借腹生子|借花獻佛|借茶活捉|借詞|借調|借貸|借貸無門|借道|借酒澆愁|借重|借錢|借鏡|借鑑|借韻|借題|借題發揮|借風使船|借齒牙|假借義|典借|出借|勒借|告借|商借|國際貸借|大借款|孔明借箭|張良借箸|憑借|拆借|挪借|摘借|東挪西借|求借|浮借|消費借貸|游湖借傘|獎借|租借|租借地|租借法案|背城借一|西原借款|貸借|賒借|那借|附會假借|靦顏借命|預借|館際互借}}
+
+===Etymology 2===
+{{zh-see|藉}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=人08}}
+
+# to [[borrow]]
+
+====Readings====
+{{ja-readings
+|goon=[[しゃ]] (sha), [[しゃく]] (shaku)
+|kanon=[[しゃ]] (sha), [[せき]] (seki) {{non-joyo-reading}}
+|kun=[[かる]] ([[借る]], karu), [[かりる]] ([[借りる]], kariru), [[かり]] (kari)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|貸借|たいしゃく}}: [[debit]] and [[credit]]; a [[loan]]
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|か|o1=り}}
+Originally the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of classical verb {{m|ja|借る|tr=karu||to borrow}}, now also the {{m|ja|連用形|tr=ren'yōkei}} of modern verb {{m|ja|借りる|tr=kariru||to borrow}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|かり|acc=0|acc_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|借り}} {{qualifier|more common in running text}}
+
+===Noun===
+{{ja-noun|かり}}
+
+# [[borrowing]], a [[debt]], a [[loan]] {{qualifier|for the borrower, not the lender}}
+# {{lb|ja|sort=かり|obsolete}} in the {{w|Edo period}}, a [[system]] for arranging [[house call]]s by [[prostitute]]s
+# {{lb|ja|sort=かり|accounting|abbreviation}} [[borrower]], [[debtor]]: short for {{m|ja|借り方|tr=karikata}}
+
+====Antonyms====
+{{sense|borrowing, debt}} {{m|ja|貸し|tr=kashi}}: [[lending]], a [[credit]], a [[loan]] {{qualifier|for the lender, not the borrower}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[차]], [[적]]|mr=ch'a, chŏk}}
+
+# {{defn|lang=ko|sort=人08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tá]]|rs=人08}}
+
+# {{defn|lang=vi|sort=人08}}
+
+[[zh-min-nan:借]]
+[[fr:借]]
+[[ko:借]]
+[[hu:借]]
+[[mg:借]]
+[[ja:借]]
+[[no:借]]
+[[pl:借]]
+[[ta:借]]
+[[th:借]]
+[[chr:借]]
+[[zh:借]]

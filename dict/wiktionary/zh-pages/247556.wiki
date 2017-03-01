@@ -1,0 +1,29 @@
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|麻糬*}}
+
+===Etymology===
+From {{der|zh|en|match}}, probably via {{etyl|ja|zh}} {{ja-r|マッチ}}.
+
+===Pronunciation===
+{{zh-pron
+|m=májí
+|mn=mà-chih
+|cat=a,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|Taiwan}} [[well]]-[[matched]]; going well together
+#: {{zh-x|你 來 陪 我，我 來 陪 你，上\尚{siōng} '''麻{mà}糬{-chih}'''。|You accompany me, and I accompany you, the most '''well-matched'''.|MN|ref={{w2|zh|黃品源}} and {{w2|zh|萬芳}} (Huang Pin Yuan and {{w|One-Fang}}), {{lang|zh|麻糬}} (Well matched)}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Taiwan}} [[match]]; [[wingman]]; [[good]] [[friend]]
+#: {{zh-x|噗仔\博{Pho̍k-}仔 聲 是 '''麻{mà-}吉{chih}'''，友情 贊助 %啦{lah}，歌王 就{tiō}.是 你，就{tiō}.是 我。|{{t-needed|nan}}|MN|ref={{w2|zh|詹雅雯}}, {{lang|zh|心情歌路}}}}
+
+[[zh:麻吉]]

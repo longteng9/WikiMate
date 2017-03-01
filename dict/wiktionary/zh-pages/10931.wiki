@@ -1,0 +1,61 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=07|sn=9|four=26217|canj=ORAU|ids=⿰亻邑}}
+
+# {{defn|Han|sort=人07}}
+
+====References====
+* {{Han ref|kx=0104.160|dkj=00675|dj=0221.010|hdz=10162.050|uh=4FCB|ud=20427|bh=CDE2|bd=52706}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=jap1
+|mc=y
+|oc=y
+|ma=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人07}}
+
+# {{defn|lang=ja|sort=人07}}
+
+====Readings====
+* {{ja-readings|on=[[ちゅう]] (chū), [[じゅう]] (jū), [[ゆう]] (yū)|kun=[[たがやす]] (tagayasu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=읍|rv=eup|mr=ŭp}}
+
+# {{defn|lang=ko|sort=人07}}
+
+[[fr:俋]]
+[[li:俋]]
+[[hu:俋]]
+[[pl:俋]]
+[[th:俋]]
+[[zh:俋]]

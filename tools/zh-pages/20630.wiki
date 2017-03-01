@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|犷}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=15|sn=18|four=40281|canj=KHITC}}
+
+# [[fierce]], [[rude]], [[uncivilized]]
+
+====References====
+* {{Han ref|kx=0721.020|dkj=20774|dj=1132.180|hdz=21374.080|uh=7377|ud=29559|bh=C278|bd=49784}}
+
+----
+
+==Chinese==
+{{zh-forms|s=犷}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=guǎng
+|c=gwong2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|獷俗|獷悍|獷敵|獷獷|粗獷}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=犬15}}
+
+# {{defn|lang=ja|sort=犬15}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[きょう]] (kyō), [[く]] (ku)|kun=[[あらい]] (arai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=광|eumhun=|rv=gwang|mr=kwang|y=kwang}}
+
+# {{defn|lang=ko|sort=犬15}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quánh]]|rs=犬15}}
+
+# {{defn|lang=vi|sort=犬15}}
+
+[[fr:獷]]
+[[hu:獷]]
+[[pl:獷]]
+[[th:獷]]
+[[zh:獷]]

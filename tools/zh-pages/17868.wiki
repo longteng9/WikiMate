@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=09|sn=13|four=41961|canj=DPPA|ids=⿰木皆}}
+
+====References====
+* {{Han ref|kx=0542.050|dkj=15185|dj=0930.010|hdz=21246.130|uh=6977|ud=26999|bh=B7A2|bd=47010}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kǎi,jiē
+|c=kaai2,gaai1
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[model]], [[pattern]]
+# model [[style]] of [[Chinese]] [[writing]]
+
+====Compounds====
+{{zh-der|一代楷模|大楷|奉為楷模|小楷|工楷|恭楷|梁楷|楷則|楷式|楷書|楷模|楷法|楷隸|楷體|模楷|正楷|蠅頭小楷}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木09}}
+
+# {{defn|lang=ja|sort=木09}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai)|kun=[[かた]] (kata), [[のっとる]] (nottoru), [[ただしい]] (tadashii)}}
+
+====Compounds====
+* [[楷書]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=해|eumhun=|rv=hae|mr=hae|y=hay}}
+
+# {{defn|lang=ko|sort=木09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木09| hanviet = [[giai]], [[khai]]}}
+
+# {{defn|lang=vi|sort=木09}}
+
+[[fr:楷]]
+[[hu:楷]]
+[[mg:楷]]
+[[ja:楷]]
+[[no:楷]]
+[[pl:楷]]
+[[th:楷]]
+[[zh:楷]]

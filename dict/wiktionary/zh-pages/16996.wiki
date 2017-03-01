@@ -1,0 +1,62 @@
+{{character info/new}}
+{{also|昂}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=05|sn=9|four=|canj=AMSL|ids=⿱日卭}}
+
+# to [[lift]], to [[raise]]
+
+====References====
+* {{Han ref|kx=0494.181|dkj=13885|dj=0859.060|hdz=21497.051|uh=663B|ud=26171}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=áng
+|c=ngong4,ong4
+|mc=
+|oc=
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 122]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日05}}
+
+# {{defn|lang=ja|sort=日05}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[ごう]] (gō)|kun=[[あがる]] (agaru), [[たかい]] (takai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=앙|eumhun=|rv=ang|mr=ang|y=ang}}
+
+# {{defn|lang=ko|sort=日05}}
+
+[[fr:昻]]
+[[ko:昻]]
+[[hu:昻]]
+[[pl:昻]]
+[[th:昻]]
+[[zh:昻]]

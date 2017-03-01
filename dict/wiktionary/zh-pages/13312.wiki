@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|塡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=10|sn=13|four=41181|canj=GJBC|ids=⿰土真}}
+
+# [[fill in]], [[fill up]]
+# [[make good]]
+
+Variant: [[塡]]
+
+====References====
+* {{Han ref|kx=0236.341|hdz=10470.100|uh=586B|ud=22635|bh=B6F1|bd=46833}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tián
+|c=tin4
+|h=pfs=thièn
+|md=
+|mn=qz,xm,zz:tiân/qz,xm,zz:tiān/tw:thiām/thūn/xm:tēng
+|mn_note=tiân/tiān/thiām - literary; thūn/tēng - vernacular
+|w=
+|mc=
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[fill out]] (a form, etc.)
+
+===Compounds===
+{{zh-der|填報|填飽|填表|填補|填充|填詞|填地|填堵|填發|填房|填方|填海|填空|填料|填滿|填密|填命|填平|填塞|填塞物|填數|填寫|填鴨}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土10}}
+
+# {{defn|lang=ja|sort=土10}}
+
+====Readings====
+* {{ja-readings|on=[[てん]] (ten), [[ちん]] (chin)|kun=[[ふさぐ]] (fusagu), [[うずめる]] (uzumeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[전]], [[진]]|rv=jeon, jin|mr=chŏn, chin}}
+
+# {{defn|lang=ko|sort=土10}}
+
+[[fr:填]]
+[[li:填]]
+[[hu:填]]
+[[mg:填]]
+[[ja:填]]
+[[no:填]]
+[[pl:填]]
+[[th:填]]
+[[zh:填]]

@@ -1,0 +1,58 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=sānzhòng
+|c=saam1 cung4
+|mn=saⁿ-têng/sam-tiông
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[triple]], [[triplicate]]
+
+===Proper noun===
+{{zh-proper noun}}
+
+# [[Sanchong]] {{gloss|city in Taiwan}}
+# [[Mie]] {{gloss|prefecture in Japan}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|さん|じゅう|yomi=on}}
+[[三]] (san) "three" + [[重]] (jū) "[[-fold]], [[-ply]]"
+
+====Noun====
+{{ja-noun|さんじゅう|hhira=さんぢゆう}}
+
+# [[triple]], [[triplicate]]
+
+===Etymology 2===
+{{ja-kanjitab|み|え|yomi=kun}}
+{{wikipedia|Mie Prefecture}}
+
+===Pronunciation===
+* {{ja-pron|みえ|y=k|acc=1|acc_ref=NHK}}
+
+====Proper noun====
+{{ja-pos|みえ|proper|hhira=みへ}}
+
+# [[Mie]], a [[prefecture]] of [[Kinki]], [[Japan]].
+
+=====Synonyms=====
+* {{l|ja|三重県}} (Mie-ken)
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[ko:三重]]
+[[la:三重]]
+[[ru:三重]]
+[[zh:三重]]

@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|蹧}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=119|rad=米|as=11|sn=17|four=95966|canj=FDTWA|ids=⿰米曹}}
+
+====References====
+* {{Han ref|kx=0912.300|dkj=27104|dj=1339.210|hdz=53158.020|uh=7CDF|ud=31967|bh=C156|bd=49494}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|米|曹|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zāo
+|c=zou1
+|mn=tw,xm,zz:cho/qz,tw,xm,zz:chau
+|mn_note=cho/chau(Quanzhou) - literary; chau - vernacular
+|mc=y
+|oc=y
+|ma=Zh-zao.ogg
+|cat=n,v,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[sediment]]; [[dregs]] (of wine)
+# to [[pickle]] in [[wine]]
+# [[awful]]; [[messy]]; in [[bad]] [[shape]]
+# [[rotten]]; [[decay]]ed; [[spoiled]]
+
+===Compounds===
+{{zh-der|不棄糟糠|亂七八糟|一團糟|亂糟糟|烏七八糟|破米糟糖|糟丘|酒糟|糟頭|糟糠不厭|糟糠妻|酒糟頭|糟糕|糟粕|糟心|糟老頭兒|糟蹋|糟糠之妻|糟糠|貧賤糟糠|餔糟歠醨|餔糟啜醨|酒糟鼻|醪糟|鏖糟|糟錢兒|糟坊|糟擾|糟豆腐|糠糟}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=米11}}
+
+# {{defn|lang=ja|sort=米11}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[かす]] (kasu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=米11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tao]]|rs=米11}}
+
+# {{defn|lang=vi|sort=米11}}
+
+[[fr:糟]]
+[[ko:糟]]
+[[hu:糟]]
+[[mg:糟]]
+[[ja:糟]]
+[[no:糟]]
+[[pl:糟]]
+[[th:糟]]
+[[zh:糟]]

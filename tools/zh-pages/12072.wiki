@@ -1,0 +1,127 @@
+{{character info/new}}
+==Translingual==
+{{stroke order}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=02|sn=5|four=64000|canj=RVL|ids=⿰口丩}}
+
+====References====
+* {{Han ref|kx=0172.060|dkj=03240|dj=0383.020|hdz=10573.020|uh=53EB|ud=21483|bh=A573|bd=42355}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=呌}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiào
+|c=giu3
+|mn=kiò
+|mn-t=giê3/gio3
+|mn-t_note=giê3 - Chaozhou
+|w=2qiau
+|mc=y
+|oc=y
+|ma=y
+|cat=v,prep
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[be called]]
+#: {{zh-x|你 叫 什麼 名字？|What is your name?}}
+#* {{zh-x|這 叫 什麼？|How do you '''call''' this? / What '''is it called'''?}}
+# to [[call]]; to [[name]]
+#* {{zh-x|我們 經常 叫 他 的 綽號。|We often '''call''' him by his nickname.}}
+#* {{zh-x|我 可以 叫 他 ^@戴夫 嗎？|May I '''call''' him Dave?}}
+# to [[call]] (someone)
+#: {{zh-x|叫 警察|to call the police}}
+#* {{zh-x|要是 需要 什麼，我 就 叫 你。|I' ll '''call''' you if anything is needed.}}
+# to [[cry]]; to [[shout]]
+#: {{zh-x|狗叫|bark}}
+#* {{zh-x|她 高興 地 叫 起來，投入 了 她 母親 的 懷抱。|With a '''cry''' of joy, she fell into her mother's arms.}}
+# to [[hail]]; to [[greet]]
+# to [[ask]]; to [[order]]
+#* {{zh-x|叫 他 待 在 家裡。|'''Ask''' her to stay home.}}
+#* {{zh-x|醫生 叫 他 休息 幾 天。|The doctor '''told''' him to lay off a couple of days.}}
+# to [[hire]]; to [[call]] (a taxi); to [[order]] (in a restaurant, in a shop)
+#* {{zh-x|我 給 你 叫 什麼 菜？ 肉排 還是 魚？|What shall I '''order''' for you? Steak or fish?}}
+# {{n-g|used in a passive sentence to introduce the agent}}; [[by]]
+#* {{zh-x|莊稼 叫 大水 沖 走 了。|The crops were washed away '''by''' the flood.}}
+
+====Usage notes====
+* {{sense|to call, to be called}} When used for a person, {{lang|zh|叫}} is generally followed by one's given name or full name, as in English.
+
+====Synonyms====
+* {{sense|to be called}} {{zh-l|姓|to be surnamed}}
+* {{sense|to order a dish}} {{zh-l|點}}
+
+===Compounds===
+{{zh-der|嚷叫|叫花子|叫賣|叫苦|大喊大叫|叫號|叫醒|叫菜|尖叫|亂叫|嘶叫|哇哇叫|叫門|喊叫|叫苦不迭|叫名|叫哥哥|叫化|叫吃|叫名頭|喊七叫八|叫嚷|叫絕|叫二排局|吼叫|呼叫|啼叫|叫喊|叫罵|慘叫|叫板|呱呱叫|不叫|叫聒|唱叫|叫聲|叫渴|唱叫揚疾|大嚷大叫|念曲叫曲|大呼小叫|叫喚|叫魂|喊冤叫屈|叫字號|叫化子|呼名叫陣|呼紅叫六|叫驢|叫車|叫子|喜鵲叫吉|叫好|叫做|呼叫器|叫頭|叫陣|叫醒服務|叫街|叫苦連天|叫條子|叫座|叫屈|叫囂|叫化子雞|叫價|人歡馬叫|叫停|刮刮叫|叫吼|叫局|相叫|拍手叫好|洋叫|拍案叫妙|狼號鬼叫|狼嗥鬼叫|括括叫|漫天叫價|把飯叫饑|拍案叫絕|羅成叫關|聲叫聲應|鳴叫|鍋叫門開|鳴冤叫屈|聒聒叫|隳突叫號|謾罵叫囂}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=口02}}
+
+# to [[shout]], to [[scream]]
+# to [[clamor]] for or against something, to make an [[appeal]] for or against something
+
+====Readings====
+{{ja-readings
+|goon=[[きょう]] (kyō), {{qualifier|historical}} [[けう]] (keu)
+|kanon=[[きょう]] (kyō), {{qualifier|historical}} [[けう]] (keu)
+|kun=[[さけぶ]] ([[叫ぶ]], sakebu)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|哀叫|あいきょう}}
+* {{ja-r|阿鼻叫喚|あびきょうかん}}
+* {{ja-r|熱叫|ねっきょう}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=규|mr=kyu}}
+
+# {{defn|lang=ko|sort=口02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khiếu]], [[kêu]], [[kíu]]|rs=口02}}
+
+# {{defn|lang=vi|sort=口02}}
+
+[[zh-min-nan:叫]]
+[[da:叫]]
+[[fr:叫]]
+[[ko:叫]]
+[[io:叫]]
+[[it:叫]]
+[[hu:叫]]
+[[mg:叫]]
+[[ja:叫]]
+[[no:叫]]
+[[pl:叫]]
+[[ta:叫]]
+[[th:叫]]
+[[chr:叫]]
+[[uk:叫]]
+[[zh:叫]]

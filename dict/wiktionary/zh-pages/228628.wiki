@@ -1,0 +1,71 @@
+{{also|进化}}
+==Chinese==
+{{zh-forms|s=进化}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìnhuà
+|ma=y
+|c=zeon3 faa3
+|h=pfs=chin-fa
+|md=céng-huá
+|mn=chìn-hòa
+|w=2jin ho
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[evolve]]
+
+===Noun===
+{{zh-noun}}
+
+# [[evolution]]
+
+====Synonyms====
+* {{zh-l|演化}}
+* {{zh-l|衍化}}
+
+====Derived terms====
+{{zh-der|進化論}}
+
+{{zh-cat|Elementary|Evolutionary theory}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|か|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|しんか|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|しんか}}
+
+# [[evolution]]
+
+====Antonyms====
+* {{ja-r|退化|たいか}}: degeneration
+
+===Verb===
+{{ja-verb-suru|しんか}}
+
+# to [[evolve]]
+
+====Conjugation====
+{{ja-suru|しんか}}
+
+===References===
+<references/>
+
+[[Category:ja:Sciences|しんか]]
+
+[[cs:進化]]
+[[ko:進化]]
+[[lo:進化]]
+[[hu:進化]]
+[[mg:進化]]
+[[ja:進化]]
+[[zh:進化]]

@@ -1,0 +1,28 @@
+{{also|得律风}}
+==Chinese==
+{{zh-forms|s=得律风}}
+
+===Etymology===
+* [[transliteration|Transliteration]] of {{etyl|en|zh}} {{m|en|telephone}}.
+
+===Pronunciation===
+{{zh-pron
+|m=délǜfēng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|archaic}} [[telephone]]
+
+====Usage notes====
+No longer in use; superseded by {{zh-l|電話}}.
+
+====Synonyms====
+* {{zh-l|電話}}
+
+===References===
+* {{cite-book|last=Kane|first=Daniel|coauthors= |year=2006|edition= |title=The Chinese Language: Its History and Current Usage|language=English/Chinese|publisher=Tuttle Publishing|location=Singapore|isbn=0-8048-3853-4}}
+
+[[mg:得律風]]

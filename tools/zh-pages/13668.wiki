@@ -1,0 +1,94 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=8}}
+
+===Han character===
+{{Han char|rn=38|rad=女|as=05|sn=8|four=43460|canj=VIR|ids=⿰女台}}
+
+====References====
+* {{Han ref|kx=0258.160|dkj=06166|dj=0523.220|hdz=21041.120|uh=59CB|ud=22987|bh=A96C|bd=43372}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|台|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shǐ
+|c=ci2
+|h=pfs=chhṳ́/sṳ́
+|md=
+|mn=sí
+|w=
+|mc=y
+|oc=y
+|cat=v,n,a,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[begin]], to [[start]]
+# [[beginning]], [[start]]
+# [[initial]], [[first]]
+# [[then]], only then
+
+===Compounds===
+{{zh-der|一元復始|七始|下車之始|下車伊始|乃始|伊始|倡始|元始|元始天尊|先從隗始|全始全終|初始|創始|原始|原始主義|原始人|原始佛教|原始反終|原始林|原始社會|原始程式|原始藝術|原始要終|原始見終|厲精更始|古始|周而復始|善始令終|善始善終|四始|報本反始|太始|始亂終棄|始作俑者|始創|始基|始料不及|始料未及|始末|始業式|始生魄|始祖|始祖鳥|始終|始終不易|始終不渝|始終如一|始終若一|始願|從始至終|慎始|慎始敬終|慎終如始|慎終若始|才始|旬始|曆始|更始|有始有卒|有始有終|有始無終|未始|本始|正始之音|正始文學|正始玄風|正始體|泰始|渝始|無始無終|無始無邊|甘始|福為禍始|秦始皇|秦始皇陵|終始|終始不渝|終始如一|終而復始|經始|肇始|自始至終|與民更始|託始|請自隗始|貫徹始終|起始|開始|齠始}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=女05}}
+
+====Readings====
+* {{ja-readings|goon=[[し]] (shi)|kanon=[[し]] (shi)|nanori=[[とも]] (tomo), [[はじめ]] (hajime), [[はる]] (haru), [[もと]] (moto)|kun=[[はじめる]] (hajimeru), [[はじめ]] (hajime), [[はじまる]] (hajimaru)}}
+
+====Derived terms====
+* {{ja-r|始め|はじめ}}
+* {{ja-r|始める|はじめる}}
+* {{ja-r|始まる|はじまる}}
+* {{ja-r|始まり|はじまり}}
+
+====See also====
+* {{l|ja|初}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=시|rv=si|mr=si}}
+
+# [[begin]], [[start]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thủy]], [[thuỷ]], [[thỉ]], [[tân]]|rs=女05}}
+
+# {{defn|lang=vi|sort=女05}}
+
+[[fr:始]]
+[[ko:始]]
+[[it:始]]
+[[li:始]]
+[[hu:始]]
+[[mg:始]]
+[[ja:始]]
+[[no:始]]
+[[km:始]]
+[[pl:始]]
+[[pt:始]]
+[[fi:始]]
+[[th:始]]
+[[zh:始]]

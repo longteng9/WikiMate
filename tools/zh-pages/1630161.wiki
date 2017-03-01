@@ -1,0 +1,66 @@
+==Japanese==
+
+===Etymology===
+{{ja-kanjitab|かみ|いち|だん|かつ|よう|yomi=y}}
+A compound of {{m|ja|sc=Jpan|上一段|tr=kami ichidan||upper single grade}} and {{m|ja|sc=Jpan|活用|tr=katsuyō||conjugation}}. [[上二段活用|Upper bigrade]] verbs regularly become upper monograde. The "upper" notation refers to the -i stem which comes before the "lower" -e in Japanese order.
+
+===Pronunciation===
+{{ja-pron|かみ いちだん かつよう|acc=7|acc_ref=DJR|y=y}}
+
+===Noun===
+{{ja-noun|かみ いちだん かつよう|hhira=かみいちだんくわつよう}}
+
+# {{lb|ja|grammar|sort=しもいちだんかつよう}} upper monograde conjugation; a verbal conjugation class in which the verb stem ends in -i and the various inflections are -/-/ru/ru/re/[yo, ro]. Examples:
+{| class="wikitable"
+|-
+!
+! [[未然形|Irrealis]]
+! [[連用形|Adverbial]]
+! [[終止形|Conclusive]]
+! [[連体形|Attributive]]
+! [[已然形|Realis]]
+! [[命令形|Imperative]]
+|-
+! [[見る|mi-]] "to see"
+| mi-
+| mi-
+| mi-ru
+| mi-ru
+| mi-re
+| mi-[yo]<br />mi-[ro]
+|-
+! [[着る|ki-]] "to wear"
+| ki-
+| ki-
+| ki-ru
+| ki-ru
+| ki-re
+| ki-[yo]<br />ki-[ro]
+|-
+! [[似る|ni-]] "to resemble"
+| ni-
+| ni-
+| ni-ru
+| ni-ru
+| ni-re
+| ni-[yo]<br />ni-[ro]
+|}
+
+===See also===
+* {{ja-r|上二段活用|かみ にだん かつよう}}
+
+===Related terms===
+* {{ja-r|五段活用|ごだん かつよう}}
+* {{ja-r|カ行変格活用|カぎょう へんかく かつよう}}
+* {{ja-r|上二段活用|かみ にだん かつよう}}
+* {{ja-r|ナ行変格活用|ナぎょう へんかく かつよう}}
+* {{ja-r|ラ行変格活用|ラぎょう へんかく かつよう}}
+* {{ja-r|サ行変格活用|サぎょう へんかく かつよう}}
+* {{ja-r|下一段活用|しも いちだん かつよう}}
+* {{ja-r|下二段活用|しも にだん かつよう}}
+* {{ja-r|四段活用|よだん かつよう}}
+
+===References===
+<references/>
+
+[[ja:上一段活用]]

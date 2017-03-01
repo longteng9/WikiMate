@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|穉|推}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=08|sn=13|four=20914|canj=HDOG|ids=⿰禾隹}}
+
+# [[young]], [[immature]]
+# [[childhood]]
+
+====References====
+* {{Han ref|kx=0855.090|dkj=25120|dj=1280.140|hdz=42613.100|uh=7A1A|ud=31258|bh=B858|bd=47192}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|禾|t1=grain still on stock|隹|ls=psc|c1=s|c2=p}} – (young) grain.
+
+===Pronunciation===
+{{zh-pron
+|m=zhì
+|c=zi6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|土稚|幼稚|幼稚園|幼稚園病|幼稚教育|幼稚病|稚嫩|稚子|稚拙|稚氣|稚童|稚齒|稚齡|童稚|蒙稚|韶顏稚齒|齠年稚齒|稚弱}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=禾08}}
+
+# {{defn|lang=ja|sort=禾08}}
+
+====Readings====
+* {{ja-readings|goon=[[じ]] (ji)|kanon=[[ち]] (chi)|kun=[[おさない]] (osanai), [[いとけない]] (itokenai)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|稚鮎|ちあゆ}}
+* {{ja-r|稚気|ちき}}
+* {{ja-r|稚魚|ちぎょ}}
+* {{ja-r|稚児|ちご}}
+* {{ja-r|稚子|ちし}}
+* {{ja-r|稚拙|ちせつ}}
+{{der-mid}}
+* {{ja-r|稚嫩|ちどん}}: [[youth]] and [[tenderness]]
+* {{ja-r|丁稚|でっち}}
+* {{ja-r|丁稚奉公|でっちぼうこう}}
+* {{ja-r|幼稚|ようち}}: [[infantility]]
+* {{ja-r|幼稚園|ようちえん}}: [[kindergarten]]
+* {{ja-r|稚鰤|わかさ}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=치|eumhun=|rv=chi|mr=ch'i|y=chi}}
+
+# {{defn|lang=ko|sort=禾08}}
+
+[[fr:稚]]
+[[ko:稚]]
+[[hu:稚]]
+[[mg:稚]]
+[[ja:稚]]
+[[no:稚]]
+[[pl:稚]]
+[[th:稚]]
+[[vi:稚]]
+[[zh:稚]]

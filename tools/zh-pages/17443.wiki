@@ -1,0 +1,86 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+[[木]] (tree) + [[由]] (phonetic)
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=45960|canj=DLW|ids=⿰木由}}
+
+====References====
+* {{Han ref|kx=0519.120|dkj=14629|dj=0907.120|hdz=21182.050|uh=67DA|ud=26586|bh=AC63|bd=44131}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=yòu
+|c=jau2,jau6
+|mn=qz,tw,xm,zz:iū
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[pomelo]]
+# [[grapefruit]]
+
+====Compounds====
+{{zh-der|柚子}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=yóu
+|c=jau2
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[teak]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木05}}
+
+# {{defn|lang=ja|sort=木05}}
+
+====Readings====
+* {{ja-readings|on=[[ゆ]] (yu)|kun=[[ゆず]] (yuzu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[유]], [[축]]|eumhun=|rv=yu, chuk|mr=yu, ch'uk|y=yu, chwuk}}
+
+# {{defn|lang=ko|sort=木05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dâu]], [[dữu]]|rs=木05}}
+
+# {{defn|lang=vi|sort=木05}}
+
+[[zh-min-nan:柚]]
+[[fr:柚]]
+[[mg:柚]]
+[[ja:柚]]
+[[pl:柚]]
+[[th:柚]]
+[[zh:柚]]

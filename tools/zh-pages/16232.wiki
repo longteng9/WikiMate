@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|摀}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=07|sn=10|four=51061|canj=QMMR|ids=⿰扌吾}}
+
+# [[resist]]
+
+====References====
+* {{Han ref|kx=0432.220|dkj=12124|dj=0782.130|hdz=31878.090|uh=6342|ud=25410|bh=AEB8|bd=44728}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wǔ
+|c=wu2,ng6
+|mn=qz,xm,zz:ngō͘/tw:oⁿ
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|捂蓋子|捂捂蓋蓋}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手07}}
+
+# {{defn|lang=ja|sort=手07}}
+
+====Readings====
+* {{ja-readings|on=[[ご]] (go)|kun=[[ふれる]] (fureru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=오|eumhun=|rv=o|mr=o|y=o}}
+
+# {{defn|lang=ko|sort=手07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|ô|rs=手07}}
+
+# {{defn|lang=vi|sort=手07}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6342 Nom Foundation]
+
+[[fr:捂]]
+[[hu:捂]]
+[[mg:捂]]
+[[no:捂]]
+[[pl:捂]]
+[[th:捂]]
+[[zh:捂]]

@@ -1,0 +1,91 @@
+{{character info/new}}
+==Translingual==
+{{stroke order}}
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|畐|刀|alt2=刂|c1=p|c2=s|t2=knife|ls=psc}}.
+===Han character===
+{{Han char|rn=18|rad=刀|as=09|sn=11|four=12600|canj=MWLN|ids=⿰畐刂}}
+
+# [[assist]]
+# [[supplement]]
+# [[assistant]]
+
+====References====
+* {{Han ref|kx=0142.230|dkj=02097|dj=0322.080|hdz=10347.160|uh=526F|ud=21103|bh=B0C6|bd=45254}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fù
+|c=fu3
+|h=pfs=fu
+|mn=hù
+|ma=y
+|mc=y
+|oc=y
+|cat=pref,n
+}}
+
+===Prefix===
+{{zh-pref}}
+
+# {{non-gloss definition|designating somebody/something below another in rank}}
+#: {{zh-x|副作用|[[side effect]]}}
+#: {{zh-x|副總統|[[vice president]]}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|grammar}} {{zh-abbrev|副詞|[[adverb]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=刀09}}
+
+====Readings====
+* {{ja-readings|goon=[[ふく]] (fuku)|kanon=[[ふく]] (fuku)|kun=[[そう]] (sou), [[そえ]] (soe)}}
+
+===Prefix===
+{{ja-pos|prefix|ふく}}
+
+# assistant, [[sub-]], [[vice-]], auxiliary, supplemental
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[부]], [[복]]|rv=bu, bok|mr=pu, pok}}
+
+# {{defn|lang=ko|sort=刀09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phó]], [[pho]]|rs=刀09}}
+
+# {{defn|lang=vi|sort=刀09}}
+
+[[zh-min-nan:副]]
+[[fr:副]]
+[[ko:副]]
+[[hu:副]]
+[[mg:副]]
+[[ja:副]]
+[[no:副]]
+[[pl:副]]
+[[sr:副]]
+[[th:副]]
+[[chr:副]]
+[[zh:副]]

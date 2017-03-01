@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=10|sn=16|four=|canj=TOGE|ids=⿱艹隻}}
+
+# to [[measure]]
+# to [[calculate]]
+
+====Derived characters====
+* [[護]], [[獲]], [[韄]], [[矆]], [[籆]], [[雘]], [[穫]], [[濩]], [[鳠]], [[擭]], [[蠖]], [[鑊]]
+
+====References====
+* {{Han ref|kx=1049.080|dkj=31582|dj=1510.180|hdz=53265.050|uh=84A6|ud=33958}}
+
+===See also===
+* {{l|mul|隻}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|萑|又|t1=grass|t2=hand|ls=ic}}.
+
+While graphically {{Han compound|艹|隻}}, this is not the etymology.
+
+===Pronunciation===
+{{zh-pron
+|m=wò
+|c=wok6
+|mc=
+|oc=y
+|ma=
+|cat=v
+}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 3), p. 192]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸10}}
+
+# {{defn|lang=ja|sort=艸10}}
+
+====Readings====
+* {{ja-readings|on=[[わく]] (waku), [[くわく]] (kuwaku), [[きゃく]] (kyaku), [[かくやく]] (kakuyaku)|kun=[[はかる]] (hakaru), [[ものさし]] (monosashi), [[のり]] (nori)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=확|rv=hwak|mr=hwak}}
+
+# {{defn|lang=ko|sort=艸10}}
+
+[[fr:蒦]]
+[[hu:蒦]]
+[[pl:蒦]]
+[[th:蒦]]
+[[zh:蒦]]

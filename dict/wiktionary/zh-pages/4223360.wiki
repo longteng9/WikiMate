@@ -1,0 +1,46 @@
+{{also|误植}}
+==Chinese==
+{{zh-forms|s=误植}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=wùzhí
+|c=ng6 zik6
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|printing}} to [[misprint]]; to make a [[typographical]] [[error]]
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|printing}} [[typographical]] [[error]]; [[typo]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ご|しょく|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|ごしょく|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ごしょく}}
+
+# [[misprint]], [[typo]]
+
+====Synonyms====
+* {{ja-r|ミスプリント}}
+
+===References===
+<references/>
+
+[[ko:誤植]]
+[[hr:誤植]]
+[[hu:誤植]]
+[[ja:誤植]]
+[[zh:誤植]]

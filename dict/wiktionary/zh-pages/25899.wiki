@@ -1,0 +1,87 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=05|sn=11|four=52111|canj=LIOM|ids=⿰虫丘}}
+
+# [[earthworm]]
+
+====References====
+* {{Han ref|kx=1079.130|dkj=32916|dj=1547.310|hdz=42843.120|uh=86AF}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiū
+|c=jau1
+|h=pfs=
+|md=
+|mn=qz,xm,zz:khiu
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|蚯蚓}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫05}}
+
+# [[earthworm]]
+
+====Readings====
+{{ja-readings|goon=[[く]] (ku)|kanon=[[きゅう]] (kyū)}}
+
+====Compounds====
+* {{ja-r|蚯蚓|みみず}}, {{ja-r|蚯蚓|きゅういん}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# ([[지렁이]]) [[earthworm]], [[rainworm]]
+
+====Synonyms====
+{{top2}}
+* {{l|ko|蚯}} (구, ''gu'')
+* {{l|ko|蚓}} ([[인]], ''in'')
+* {{l|ko|蚯蚓}} ([[구인]], ''guin'')
+{{mid2}}
+* {{l|ko|地龍}} ([[지룡]], ''jiryong'')
+* {{l|ko|地龍子}} ([[지룡자]], ''jiryongja'')
+{{bottom}}
+
+====Compounds====
+* [[蚯蚓]] ([[구인]], ''guin'') [[earthworm]]
+
+[[fr:蚯]]
+[[ko:蚯]]
+[[hu:蚯]]
+[[mg:蚯]]
+[[ja:蚯]]
+[[no:蚯]]
+[[pl:蚯]]
+[[th:蚯]]
+[[vi:蚯]]
+[[zh:蚯]]

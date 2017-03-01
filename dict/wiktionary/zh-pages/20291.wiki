@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=87|rad=爪|as=14|sn=18|four=20746|canj=BWLI|ids=⿳爫罒𡬠}}
+
+====References====
+* {{Han ref|kx=0689.290|dkj=19710|dj=1102.280|hdz=32037.060|uh=7235|ud=29237|bh=C0EF|bd=49391}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jué
+|c=zoek3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[feudal]] [[title]] or [[rank]]
+
+====Compounds====
+* {{zh-l|爵士}}
+
+----
+
+==Japanese==
+===Kanji===
+{{ja-kanji|grade=c|rs=爪14}}
+
+# {{defn|lang=ja|sort=爪14}}
+
+====Readings====
+* {{ja-readings|goon=[[せく]] (seku)|kanon=[[しゃく]] (shaku)|kun=[[さかずき]] (sakazuki)}}
+
+===Derived terms===
+* {{ja-r|公爵|こうしゃく}}: [[duke]]
+* {{ja-r|侯爵|こうしゃく}}: [[marquess]]
+* {{ja-r|伯爵|はくしゃく}}: [[earl]]
+* {{ja-r|子爵|ししゃく}}: [[viscount]]
+* {{ja-r|男爵|だんしゃく}}: [[baron]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=작|eumhun=|rv=jak|mr=chak|y=cak}}
+
+# {{defn|lang=ko|sort=爪14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tước]]|rs=爪14}}
+# {{defn|lang=vi|sort=爪14}}
+
+[[fr:爵]]
+[[ko:爵]]
+[[hu:爵]]
+[[mg:爵]]
+[[ja:爵]]
+[[no:爵]]
+[[pl:爵]]
+[[th:爵]]
+[[zh:爵]]

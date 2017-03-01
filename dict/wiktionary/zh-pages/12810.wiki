@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|嚔}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=14|sn=17|four=64081|canj=RJBO|ids=⿰口疐}}
+
+# [[sneeze]]
+
+====References====
+* {{Han ref|kx=0212.191|dkj=04493|hdz=10695.160|uh=568F|ud=22159|bh=C0A1|bd=49313}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tì
+|c=tai3,dai3
+|h=pfs=
+|md=
+|mn=qz,xm,zz:tè
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+{{ja-see-also|嚏る}}
+
+===Kanji===
+{{ja-kanji|grade=|rs=口14}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei)|kun=[[くさめ]] (kusame), [[くしゃみ]] (kushami)}}
+
+===Noun===
+{{ja-noun|くしゃみ}}
+
+# [[sneeze]]
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 嚏]]
+
+====Usage notes====
+{{ja-uk}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=체|rv=che|mr=ch'e}}
+
+# {{defn|lang=ko|sort=口14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xì]]|rs=口14}}
+
+# {{defn|lang=vi|sort=口14}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=568f Nom Foundation]
+
+[[fr:嚏]]
+[[li:嚏]]
+[[hu:嚏]]
+[[mg:嚏]]
+[[ja:嚏]]
+[[pl:嚏]]
+[[th:嚏]]
+[[zh:嚏]]

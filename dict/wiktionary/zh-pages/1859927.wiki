@@ -1,0 +1,26 @@
+{{also|的话}}
+==Chinese==
+{{zh-forms|s=的话}}
+
+===Pronunciation===
+{{zh-pron
+|m=dehuà
+|c=dik1 waa6,dik1 waa6-2
+|cat=part
+}}
+
+===Particle===
+{{zh-particle}}
+
+# optional particle put at the end of a conditional clause
+#: {{zh-x|如果 沒有 人 捐助 的話，這 個 小孩 就 會 永遠 失明。|If no one offers assistance this kid will become permanently blind.}}
+#: {{zh-x|要是{shi} 考試 不 及格 的話，怎麼.辦？|If I don't pass my exams, what do I do?}}
+#: {{zh-x|你 今天 出去 的話，記得{de} 鎖上 前門。|If you go out today remember to lock the front door.}}
+
+====Usage notes====
+* As per examples above, {{lang|zh|的話／的话}} (dehuà) may be used with or without {{zh-l|如果}} or {{zh-l|要是}} at the beginning of the sentence.
+
+[[zh-min-nan:的話]]
+[[ko:的話]]
+[[ja:的話]]
+[[zh:的話]]

@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=09|sn=12|four=38132|canj=ETVI|ids=⿰氵兹}}
+
+# [[grow]], [[multiply]], [[increase]]
+# [[thrive]]
+
+====References====
+* {{Han ref|kx=0642.150|dkj=17919|dj=1049.190|hdz=31686.060|uh=6ECB|ud=28363|bh=B4FE|bd=46334}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zī
+|c=zi1
+|h=pfs=
+|md=
+|mn=qz:chir/tw,xm,zz:chu
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水09}}
+
+# {{defn|lang=ja|sort=水09}}
+
+====Readings====
+* {{ja-readings|goon=[[し]] (shi) {{non-joyo-reading}}|kanon=[[し]] (shi) {{non-joyo-reading}}|kanyoon=[[じ]] (ji)|kun=[[しげる]] (shigeru), [[ます]] (masu), [[ますます]] (masumasu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=자|eumhun=|rv=ja|mr=cha|y=ca}}
+
+# {{defn|lang=ko|sort=水09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|tư|rs=水09}}
+
+# {{defn|lang=vi}}
+
+[[fr:滋]]
+[[ko:滋]]
+[[hu:滋]]
+[[mg:滋]]
+[[ja:滋]]
+[[no:滋]]
+[[pl:滋]]
+[[th:滋]]
+[[zh:滋]]

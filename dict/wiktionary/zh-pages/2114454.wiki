@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=yán究suǒ
+|c=jin4 gau3 so2
+|h=pfs=ngiên-kiu-só
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[research]] [[institute]] {{zh-mw|m:家|m:個}}
+# [[graduate school]] {{zh-mw|m:家|m:個}}
+
+{{zh-cat|Elementary|Schools}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|けん|きゅう|しょ}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=けんきゅうしょ|研究|tr1=kenkyū|t1=research|所|tr2=sho|t2=place}}.
+
+Sometimes read with [[rendaku]] on the ''sho'' portion, as ''kenkyūjo''.
+
+===Pronunciation===
+{{ja-pron|yomi=o|けんきゅうしょ|acc=0}}
+
+===Noun===
+{{ja-noun|けんきゅうしょ|けんきゅうじょ}}
+
+# [[research]] [[institute]]
+# [[laboratory]]
+
+====Synonyms====
+* {{sense|laboratory}} {{ja-r|ラボ}}, {{ja-r|ラボラトリー}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[fr:研究所]]
+[[lo:研究所]]
+[[hu:研究所]]
+[[mg:研究所]]
+[[ja:研究所]]
+[[chr:研究所]]
+[[zh:研究所]]

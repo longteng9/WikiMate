@@ -1,0 +1,58 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qíngfū
+|c=cing4 fu1
+|mn=chêng-hu
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[extramarital]] [[lover]] of a [[married]] [[woman]]
+
+====Related terms====
+* {{zh-l|情婦}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じょう|ふ|yomi=on}}
+
+===Etymology===
+Probably from {{etyl|ltc|ja|sort=しょうふ'}} compound {{m|ltc|情夫|tr=*dzhiɛng *bio}}. Compare modern {{cog|cmn|情夫|tr=qíngfū}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|a|じょ|うふ}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[d͡ʑʲo̞ːɸɯᵝ]}}
+
+===Noun===
+{{ja-noun|じょうふ}}
+
+# {{lb|ja|sort=しょうふ'|dated}} a male [[lover]], a male [[fling]], a [[paramour]]
+
+====Usage notes====
+Specifically refers to an [[extramarital]] male [[lover]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Dated overtones. Implies a secret relationship. Generally being replaced in modern usage by the term {{ja-l|愛人||aijin}}.<ref name="KDJ"/>
+
+====Synonyms====
+* {{ja-l|隠し男|かくしおとこ|kakushi otoko}}: literally ''[[hidden]] [[man]]''
+* {{ja-l|色男|いろおとこ|iro otoko}}: literally ''"[[colorful]]" [[man]]'' {{qualifier|alluding to a sexual relationship}}
+* {{ja-l|愛人|あいじん|aijin}}: a [[lover]] {{qualifier|often, but not necessarily, refers to an extramarital relationship}}
+* {{ja-l|間男|まおとこ|maotoko}}: a [[paramour]], a [[man]] on the side
+
+====Related terms====
+* {{ja-l|情婦|じょうふ|jōfu}}: a female [[lover]], a female [[fling]], a [[mistress]] {{qualifier|specifically refers to an extramarital female lover}}
+
+===References===
+<references/>
+
+[[ko:情夫]]
+[[ja:情夫]]
+[[pl:情夫]]
+[[zh:情夫]]

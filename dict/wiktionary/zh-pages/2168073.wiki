@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zìmiàn
+|c=zi6 min6-2
+|h=pfs=sṳ-mien
+|mn=qz,xm:lī-bīn/zz:jī-bīn
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[literal]]
+#: {{zh-usex|字面 上 的 意思{si}|literal meaning}}
+#: {{zh-usex|從 字面-上 看|to take (a word or expression) literally}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|じ|つら‎|k2=づら|yomi=j|r=y}}
+
+====Noun====
+{{ja-noun|じづら}}
+
+# [[impression]] derived from or appearance of kanji; [[face]]; [[appearance]] of written words
+
+===Etymology 2===
+{{ja-kanjitab|じ|めん|yomi=o}}
+
+====Noun====
+{{ja-noun|じめん}}
+
+# Same as above.
+
+[[hu:字面]]
+[[chr:字面]]
+[[zh:字面]]

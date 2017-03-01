@@ -1,0 +1,54 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bāo括
+|c=baau1 kut3
+|h=pfs=pâu-koat
+|ma=Zh-baokuò.ogg
+|mn=pau-koat
+|cat=v,prep
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[include]]; to [[consist]] of
+
+===Preposition===
+{{zh-prep}}
+
+# [[including]]
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほう|かつ}}
+
+===Noun===
+{{ja-noun|ほうかつ}}
+
+# [[comprehensiveness]]
+
+====Compounds====
+* {{l/ja|包括的}}
+
+===Verb===
+{{ja-verb-suru|ほうかつ}}
+
+# [[include]], [[comprehend]], [[embrace]]
+
+====Conjugation====
+{{ja-suru|ほうかつ}}
+
+[[zh-min-nan:包括]]
+[[ko:包括]]
+[[hu:包括]]
+[[mg:包括]]
+[[ja:包括]]
+[[chr:包括]]
+[[uk:包括]]
+[[zh:包括]]

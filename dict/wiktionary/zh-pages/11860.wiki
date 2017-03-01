@@ -1,0 +1,87 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etym}}
+
+===Han character===
+{{Han char|rn=22|rad=匚|as=05|sn=7|four=71715|canj=SWL|ids=⿷匚甲}}
+
+# [[small]] [[box]], [[case]], [[coffer]]
+
+====References====
+* {{Han ref|kx=0153.270|dkj=02610|dj=0345.140|hdz=10084.110|uh=5323|ud=21283|bh=A758|bd=42840}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiá
+|c=haap6
+|h=pfs=
+|md=
+|mn=qz,xm,zz:ha̍p/qz,xm,zz:a̍p/a̍h
+|mn_note=ha̍p - literary; a̍p/a̍h - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|匣子}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=匚05}}
+
+# [[box]]
+
+====Readings====
+{{ja-readings
+|on=[[こう]] (kō)
+|kun=[[はこ]] (hako)
+}}
+
+====Compounds====
+* {{ja-r|匣鉢|さや}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[갑]]|rv=gap|mr=kap}}
+
+# {{defn|lang=ko|sort=匚05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hạp]], [[hộp]], [[háp]], [[tráp]]|rs=匚05}}
+
+# {{defn|lang=vi|sort=匚05}}
+
+[[fr:匣]]
+[[ko:匣]]
+[[hu:匣]]
+[[mg:匣]]
+[[ms:匣]]
+[[ja:匣]]
+[[no:匣]]
+[[pl:匣]]
+[[th:匣]]
+[[zh:匣]]

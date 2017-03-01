@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=05|sn=12|four=61117|canj=RMSS}}
+
+# [[distance]]
+# bird's spur
+
+====References====
+* {{Han ref|kx=1224.080|dkj=37481|dj=1695.310|hdz=63690.020|uh=8DDD|ud=36317|bh=B65A|bd=46682}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jù
+|c=geoi6,keoi5
+|h=pfs=
+|md=
+|mn=kī/kū
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+* {{zh-l|距離}}
+* {{zh-l|距今}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=足05}}
+
+# {{defn|lang=ja|sort=足05}}
+
+====Readings====
+* {{ja-readings|goon=[[ご]] (go)|kanon=[[きょ]] (kyo)|kun=[[けづめ]] (kezume), [[たがう]] (tagau), [[へだてる]] (hedateru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=거|eumhun=|rv=geo|mr=kŏ|y=ke}}
+
+# {{defn|lang=ko|sort=足05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cự]], [[cựa]]|rs=足05}}
+
+# {{defn|lang=vi}}
+
+[[fr:距]]
+[[ko:距]]
+[[lo:距]]
+[[hu:距]]
+[[mg:距]]
+[[ja:距]]
+[[no:距]]
+[[pl:距]]
+[[ru:距]]
+[[th:距]]
+[[zh:距]]

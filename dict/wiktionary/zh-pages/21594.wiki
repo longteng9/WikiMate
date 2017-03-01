@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=109|rad=目|as=04|sn=9|four=64012|canj=BULBU}}
+
+# gloat, stare at
+# to delay, to loiter, to hinder
+
+====References====
+* {{Han ref|kx=0802.180|dkj=23189|dj=1218.190|hdz=42477.130|uh=7708|ud=30472|bh=CFE0|bd=53216}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dān
+|c=daam1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|眈眈|虎視眈眈}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=目04}}
+
+# {{defn|lang=ja|sort=目04}}
+
+====Readings====
+* {{ja-readings|on=[[たん]] (tan)|kun=[[にらむ]] (niramu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=탐|eumhun=|rv=tam|mr=t'am|y=tham}}
+
+# {{defn|lang=ko|sort=目04}}
+
+[[fr:眈]]
+[[hu:眈]]
+[[mg:眈]]
+[[ja:眈]]
+[[pl:眈]]
+[[th:眈]]
+[[zh:眈]]

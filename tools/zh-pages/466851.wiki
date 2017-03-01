@@ -1,0 +1,23 @@
+==Japanese==
+
+===Etymology===
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|おう|よう|すう|がく|yomi=o}}
+{{compound|応用|tr1=[[ōyō]]|tr2=[[sūgaku]]|sort=おうようすうがく|t1=[[application]]|数学|t2=[[mathematics]]|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|おうよう すうがく|acc=5|acc_ref=DJR|y=o}}
+
+===Noun===
+{{ja-noun|おうよう すうがく|kyu=應用數學}}
+
+# {{lb|ja|math|sort=おうようすうがく}} [[applied mathematics]]<ref>{{R:Shogakukan}}</ref>
+
+====Antonyms====
+* {{l|ja|純粋数学}}
+
+===References===
+<references/>
+[[Category:ja:Applied mathematics|おうようすうがく]]
+[[sv:応用数学]]
+[[zh:応用数学]]

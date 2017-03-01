@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+===Etymology===
+{{Han etyl}}
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=23211|canj=OJP|ids=⿰亻它}}
+
+# (archaic variant of [[馱]] [[驮]]) [[carry]] on the [[back]]
+# a [[load]]
+# used as a [[surname]]
+# [[other]], [[he]]
+
+====References====
+* {{Han ref|kx=0098.170|dkj=00513|dj=0208.070|hdz=10139.030|uh=4F57|ud=20311|bh=A6EF|bd=42735}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tuó,tuō
+|c=taa4,to1,to4
+|mn=tô
+|mc=y
+|oc=y
+|ma=
+|cat=v,n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人05}}
+
+# {{defn|lang=ja|sort=人05}}
+
+====Readings====
+* {{ja-readings|on=[[た]] (ta)|kun=[[ほか]] (hoka), [[わびる]] (wabiru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=타|rv=ta|mr=t'a}}
+
+# {{defn|lang=ko|sort=人05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đà]]|rs=人05}}
+
+# {{defn|lang=vi|sort=人05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f57 Nom Foundation]
+
+[[zh-min-nan:佗]]
+[[fr:佗]]
+[[li:佗]]
+[[hu:佗]]
+[[mg:佗]]
+[[ja:佗]]
+[[pl:佗]]
+[[th:佗]]
+[[zh:佗]]

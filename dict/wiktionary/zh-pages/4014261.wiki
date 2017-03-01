@@ -1,0 +1,17 @@
+==Japanese==
+{{ja-kanjitab|鍛|冶|神}}
+
+===Etymology===
+{{compound|鍛冶|神|lang=ja}}
+
+===Proper noun===
+{{ja-pos|proper|かじしん|カジシン}}
+
+# {{lb|ja|sort=かじしん|mythology|Shinto}} Kajishin, the [[Japanese]] [[god]] of the [[forge]], [[metalcraft]], and [[blacksmith]]ing
+
+====Synonyms====
+* {{ja-l|天目一箇|あまのまひとつ|Amanomahitotsu}}
+* {{ja-l|天津麻羅|あまつまら|Amatsumara}}
+<!-- NOTE: Amanomahitotsu is an alternate name for Amatsumara. Kajishin just means "forge god", and is basically Amatsumara's title. These three terms all mean the same single god. -->
+
+[[Category:ja:Religion|sort=かじしん]]

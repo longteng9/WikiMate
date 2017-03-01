@@ -1,0 +1,9 @@
+==Japanese==
+{{ja-kanjitab|変|分|法}}
+
+===Noun===
+{{ja-noun|へんぶんほう}}
+
+# {{lb|ja|calculus|sort=へんぶんほう}} [[calculus of variations]] - The form of calculus that deals with the [[maxima]] and [[minima]] of [[definite integral]]s of [[function]]s of many [[variable]]s
+
+[[zh:変分法]]

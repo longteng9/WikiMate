@@ -1,0 +1,76 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=róngjiě
+|c=jung4 gaai2
+|w=3hhion jia
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[melt]]
+
+====Synonyms====
+* {{zh-l|融化}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ゆう|かい|yomi=on|sort=ゆうかい}}
+{{wikipedia|lang=ja}}
+
+===Etymology===
+{{rfe|ja|sort=ゆうかい}}
+
+===Pronunciation===
+* {{ja-pron|ゆうかい|acc=0}}
+
+===Noun===
+{{ja-noun|ゆうかい}}
+
+# [[melting]]; [[fusion]]
+# [[meltdown]]
+
+====Synonyms====
+* {{ja-r|溶%融|よう%ゆう}}, {{ja-r|熔%融|よう%ゆう}}
+
+====Derived terms====
+* {{ja-r|融%解 壊%死|ゆう%かい え%し|gloss=[[liquefactive necrosis]]}}
+* {{ja-r|誘%拐%点|ゆう%かい%てん|gloss=[[melting point]]}}
+* {{ja-r|融%解%熱|ゆう%かい%ねつ|gloss=[[enthalpy of fusion]], [[heat of fusion]], [[latent heat of fusion]]}}
+* {{ja-r|炉%心 融%解|ろ%しん ゆう%かい|gloss=[[nuclear meltdown]]}}
+
+===Verb===
+{{ja-verb-suru|ゆうかい|tr=both}}
+
+# to [[melt]]; to [[fuse]]
+
+====Conjugation====
+{{ja-suru|ゆうかい}}
+
+====Synonyms====
+* {{sense|transitive}}
+** {{ja-r|溶かす|とかす}}, {{ja-r|解かす|とかす}}, {{ja-r|融かす|とかす}}
+* {{sense|intransitive}}
+** {{ja-r|溶ける|とける}}, {{ja-r|解ける|とける}}, {{ja-r|融ける|とける}}
+** {{ja-r|溶%融 する|よう%ゆう する|linkto=溶融}}, {{ja-r|熔%融 する|よう%ゆう する|linkto=熔融}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=융해}}
+
+# {{hanja form of|융해|[[fusion]]; [[melting]]; [[dissolution]]; [[liquefaction]]}}
+
+[[ko:融解]]
+[[hu:融解]]
+[[mg:融解]]
+[[ja:融解]]
+[[zh:融解]]

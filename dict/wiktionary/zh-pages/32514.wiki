@@ -1,0 +1,49 @@
+{{character info/new}}
+{{also|𫛚}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=04|sn=15|four=17427|canj=MTHAF|ids=⿰开鳥}}
+
+# {{defn|Han|sort=鳥04}}
+
+====References====
+* {{Han ref|kx=1483.230|dkj=46706|dj=2015.230|hdz=74617.130|uh=9CFD|ud=40189|bh=E8E6|bd=59622}}
+
+----
+
+==Chinese==
+{{zh-forms|s=𫛚}}
+
+===Etymology===
+The left component of this character was originally {{zh-l|幵}}, and this was an ancient name for the [[Chinese pond heron]]. The ''jiān'' reading comes from the original left component. The left component has been substituted for {{zh-l|开}} in both traditional and simplified Chinese. Mainland ornithologists have used this character in naming [[bittern|bitterns]] and certain other few species of [[heron]], and have given it the reading ''yán''.
+
+===Pronunciation===
+{{zh-pron
+|m=yán,jiān
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[bittern]], and certain other few species of [[heron]]
+
+=====Compounds=====
+* {{zh-l|大麻鳽/大麻𫛚|dàmáyán|[[Eurasian bittern]]}}
+* {{zh-l|小葦鳽/小苇𫛚|xiǎowěiyán|[[little bittern]]}}
+* {{zh-l|黃葦鳽/黄苇𫛚|huángwěiyán|[[yellow bittern]]}}
+* {{zh-l|紫背葦鳽/紫背苇𫛚|zǐbèiwěiyán|[[Von Schrenck's bittern]]}}
+* {{zh-l|栗葦鳽/栗苇𫛚|lìwěiyán|[[cinnamon bittern]]}}
+* {{zh-l|黑葦鳽/黑苇𫛚|hēiwěiyán|[[black bittern]]}}
+* {{zh-l|海南鳽/海南𫛚|hǎinányán|[[white-eared night heron]]}}
+* {{zh-l|栗頭鳽/栗头𫛚|lìtóuyán|[[Japanese night heron]]}}
+* {{zh-l|黑冠鳽/黑冠𫛚|hēiguānyán|[[Malayan night heron]]}}
+
+===References===
+* http://www.sibagu.com/china/ardeidae.html
+
+[[fr:鳽]]
+[[pl:鳽]]
+[[th:鳽]]
+[[zh:鳽]]

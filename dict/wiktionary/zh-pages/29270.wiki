@@ -1,0 +1,122 @@
+{{character info/new}}
+{{also|钠}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=04|sn=12|four=84127|canj=COB|ids=⿰金内,⿰金內}}
+
+====References====
+* {{Han ref|kx=1298.090|dkj=40215|hdz=64176.080|uh=9209|ud=37385|bh=B675|bd=46709}}
+
+----
+
+==Chinese==
+{{zh-forms|s=钠}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|金|內|ls=psc|c1=s|c2=p|t1=metal}}.
+
+===Etymology 1===
+{{bor|zh|NL.|natrium|'''na'''trium}}.
+
+====Pronunciation====
+{{zh-pron
+|m=nà
+|c=naap6
+|h=pfs=na̍p
+|md=
+|mn=la̍p
+|w=
+|mc=
+|oc=
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[sodium]]
+
+====Compounds====
+{{zh-der|鈉玻璃|鈉燈}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=nà
+|c=naap6
+|h=
+|md=
+|mn=
+|w=
+|mc=
+|oc=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[forge]] [[iron]]
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=ruì
+|c=
+|h=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=
+|cat=n,a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|枘|tenon}}
+# {{zh-alt-form|𨧨|sharp; pointed}}
+
+===References===
+* {{R:twedu|a04273}}
+
+{{zh-cat|Chemical elements}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金04}}
+
+# {{defn|lang=ja|sort=金04}}
+
+====Readings====
+* {{ja-readings|on=[[どう]] (dō), [[のう]] (nō)|kun=[[きたえる]] (kitaeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=납|eumhun=|rv=nap|mr=nap|y=nap}}
+
+# {{defn|lang=ko|sort=金04}}
+
+[[es:鈉]]
+[[fr:鈉]]
+[[ko:鈉]]
+[[lt:鈉]]
+[[hu:鈉]]
+[[mg:鈉]]
+[[ja:鈉]]
+[[pl:鈉]]
+[[ro:鈉]]
+[[th:鈉]]
+[[vi:鈉]]
+[[zh:鈉]]

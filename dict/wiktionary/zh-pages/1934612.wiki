@@ -1,0 +1,76 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{wasei kango||はいけい|background}}
+
+===Pronunciation===
+{{zh-pron
+|m=bèijǐng
+|c=bui3 ging2
+|h=pfs=poi-kín
+|mn=qz,tw,xm,zz:pōe-kéng/twv:pòe-kéng
+|ma=Zh-bèijing.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[background]]
+# [[backdrop]]
+# [[context]]
+#: {{zh-x|社會 背景|social '''context'''}}
+
+====Derived terms====
+{{zh-der|背景音樂}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|はい|けい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|はいけい|acc=h|acc_ref=DJR,NHK,SMK5|y=ko}}
+
+===Noun===
+{{ja-noun|はいけい}}
+
+# [[background]]
+
+===Descendants===
+* Chinese: {{zh-l|背景}}
+* Korean: {{ko-l|배경}}
+* Vietnamese: {{vi-l|bối cảnh}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=배경}}
+
+# {{hanja form of|배경|[[background]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|bối cảnh|[[background]]}}
+
+[[ko:背景]]
+[[lo:背景]]
+[[hu:背景]]
+[[mg:背景]]
+[[ja:背景]]
+[[th:背景]]
+[[chr:背景]]
+[[zh:背景]]

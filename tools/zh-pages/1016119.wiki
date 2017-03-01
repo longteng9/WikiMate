@@ -1,0 +1,65 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|md=sŏ̤h-nièng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Min Dong}} the [[year]] before [[last]]
+
+====Synonyms====
+* {{zh-l|前年}}
+
+====Derived terms====
+{{zh-der|昨年暝}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|さく|ねん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|さくねん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|さくねん}}
+
+# [[last year]]
+
+===Adverb===
+{{ja-pos|さくねん|adverb}}
+
+# [[last year]]
+
+====Synonyms====
+* {{ja-r|去年|きょねん}}
+
+===Related terms===
+* {{ja-r|来年|らいねん}}: next year, the coming year
+
+===References===
+<references/>
+
+[[Category:ja:Time|さくねん]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=작년}}
+
+# {{hanja form of|작년|[[last year]]}}
+
+[[fr:昨年]]
+[[ko:昨年]]
+[[lo:昨年]]
+[[hu:昨年]]
+[[ja:昨年]]
+[[zh:昨年]]

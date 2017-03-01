@@ -1,0 +1,57 @@
+==Chinese==
+{{zh-forms|s=道场}}
+
+===Pronunciation===
+{{zh-pron
+|m=dào場
+|c=dou6 coeng4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|religion}} [[Buddhist]] or [[Taoist]] [[rites]] to [[appease]] and [[pray]] for the [[dead]]
+# [[site]] for such rites
+
+====Derived terms====
+{{zh-der|做道場|內道場|水陸道場|沒酒沒漿，做甚麼道場}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|どう|じょう|yomi=o}}
+{{compound|道|t1=[[way]]|lang=ja|場|t2=[[place]]|sort=とうじょう'}}; literally "place of the ways"
+{{rfe|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|どうじょう|acc=a|acc2=h|acc_ref=NHK,DJR|acc2_ref=DJR|y=go}}
+
+===Noun===
+{{ja-noun|どうじょう|hhira=だうぢやう}}
+
+# [[dojo]] {{gloss|place where [[martial art]]s are practiced}}
+
+====Derived terms====
+* {{ja-r|道場破り|どうじょうやぶり}}
+
+====Descendants====
+* English: {{l|en|dojo}}
+* French: {{l|fr|dojo}}
+* Polish: {{l|pl|dojo}}
+
+===References===
+<references/>
+
+{{catlangcode|ja|Go|Shogi|Martial arts|sort=とうじょう'}}
+
+[[zh-min-nan:道場]]
+[[fr:道場]]
+[[lo:道場]]
+[[li:道場]]
+[[pt:道場]]
+[[sv:道場]]
+[[zh:道場]]

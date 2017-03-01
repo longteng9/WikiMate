@@ -1,0 +1,69 @@
+{{character info/new}}
+{{also|赈}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=07|sn=14|four=61832|canj=BCMMV|ids=⿰貝辰}}
+
+# [[relieve]], [[aid]] the [[distressed]]
+# [[rich]]
+
+====Descendants====
+* [[赈]]
+
+====References====
+* {{Han ref|kx=1208.340|dkj=36785|dj=1673.130|hdz=63642.040|uh=8CD1|ud=36049|bh=BBAC|bd=48044}}
+
+----
+
+==Chinese==
+{{zh-forms|s=赈}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|貝|t1=money|辰|ls=psc|c1=s|c2=p}} – having money, giving money (support).
+
+===Pronunciation===
+{{zh-pron
+|m=zhèn
+|c=zan3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|冬賑|助賑|工賑|放賑|濟寒賑貧|賑恤|賑捐|賑款|賑濟|賑災|賑田|賑窮濟乏|賑給|賑贍|隱賑}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=貝07}}
+
+# {{defn|lang=ja|sort=貝07}}
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin)|kun=[[にぎわう]] (nigiwau), [[にぎやか]] (nigiyaka), [[にぎわい]] (nigiwai)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=진|eumhun=|rv=jin|mr=chin|y=cin}}
+
+# {{defn|lang=ko|sort=貝07}}
+
+[[fr:賑]]
+[[ko:賑]]
+[[ja:賑]]
+[[pl:賑]]
+[[th:賑]]
+[[zh:賑]]

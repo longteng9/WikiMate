@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|そう|しゅつ|yomi=on}}
+
+===Noun===
+{{ja-noun|そうしゅつ}}
+
+# [[creation]]
+#: {{ja-usex|雇用の創出が緊急の課題になっています。|こよう の そうしゅつ が きんきゅう の かだい に なって います。|The creation of jobs has become an urgent problem.}}
+
+===Verb===
+{{ja-verb-suru|そうしゅつ}}
+
+# [[create]]
+
+====Conjugation====
+{{ja-suru|そうしゅつ}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:創出]]

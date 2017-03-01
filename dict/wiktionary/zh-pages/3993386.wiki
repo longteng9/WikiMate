@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wěigǔ
+|c=mei5 gwat1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|skeleton}} [[coccyx]]; [[tailbone]]
+
+====Synonyms====
+* {{zh-l|尾骶骨}}
+* {{zh-l|尾閭骨}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|び|こつ|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|sort=ひこつ'|尾|tr1=bi|t1=tail|骨|tr2=kotsu|t2=bone}}
+
+===Noun===
+{{ja-noun|びこつ}}
+
+# {{lb|ja|skeleton|sort=ひこつ'}} [[coccyx]], [[tailbone]]
+
+====Synonyms====
+* {{ja-r|尾骶骨|びていこつ}}, {{ja-r|尾閭骨|びりょこつ}}
+
+[[ja:尾骨]]
+[[zh:尾骨]]

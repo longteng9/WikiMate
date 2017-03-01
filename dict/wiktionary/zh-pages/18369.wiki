@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=76|rad=欠|as=12|sn=16|four=27282|canj=YCNO,YMNO|ids=⿰虚欠}}
+
+# [[blow]] through [[nose]], [[snort]]
+
+====References====
+* {{Han ref|kx=0572.110|dkj=16198|dj=0960.110|hdz=32150.010|uh=6B54|ud=27476|bh=E9DF|bd=59871}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xū
+|c=heoi1
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=欠12}}
+
+# {{defn|lang=ja|sort=欠12}}
+
+====Readings====
+* {{ja-readings|on=[[きょ]] (kyo)|kun=[[すすりなく]] (susurinaku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=허|eumhun=|rv=heo|mr=hŏ|y=he}}
+
+# {{defn|lang=ko|sort=欠12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=欠12| hanviet = hư}}
+
+# {{defn|lang=vi|sort=欠12}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6b54 Nom Foundation]
+
+[[fr:歔]]
+[[hu:歔]]
+[[ja:歔]]
+[[pl:歔]]
+[[th:歔]]
+[[zh:歔]]

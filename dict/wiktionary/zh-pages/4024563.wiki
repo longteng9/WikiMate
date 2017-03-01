@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tōngsuàn
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|obsolete}} to [[count]] everything; to [[add]] up to
+
+----
+
+==Japanese==
+{{ja-kanjitab|つう|さん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|つうさん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|つうさん}}
+
+# [[sum]], [[total]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|つうさん}}
+
+# [[amount]] to, add up to
+
+====Conjugation====
+{{ja-suru|つうさん}}
+
+===References===
+<references/>
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=통산}}
+
+# {{hanja form of|통산}}
+
+[[ko:通算]]
+[[hu:通算]]
+[[mg:通算]]
+[[zh:通算]]

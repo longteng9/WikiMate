@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|zh|{{compound|zh|我|tr1=wǒ|t1=I|等|tr2=děng|t2=et al.}}?}}
+
+===Pronunciation===
+{{zh-pron
+|m=wǒděng
+|c=ngo5 dei6
+|h=pfs=ngài-teu
+|cat=pron
+}}
+
+===Pronoun===
+{{zh-pronoun}}
+
+# {{lb|zh|archaic}} [[we]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|われ|ら|yomi=k}}
+
+===Alternative forms===
+* {{ja-l|我ら}}
+* {{ja-l|吾等}}
+* {{ja-l|吾ら}}
+
+===Pronunciation===
+{{ja-pron|われら|y=k}}
+
+===Pronoun===
+{{ja-pos|pronoun|われら}}
+
+# {{alt form of|我ら|lang=ja}}
+
+[[mg:我等]]
+[[zh:我等]]

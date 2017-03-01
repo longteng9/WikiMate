@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|佑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=113|rad=示|as=05|sn=10|four=34260|canj=IFKR|ids=⿰礻右}}
+
+# [[divine intervention]], [[protection]]
+
+====References====
+* {{Han ref|kx=0841.050|dkj=24652|dj=1259.050|hdz=42391.010|uh=7950|ud=31056|bh=AFA7|bd=44967}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yòu
+|c=jau6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=示05}}
+
+====Readings====
+* {{ja-readings|on=[[ゆう]] (yū)|kun=[[たすける]] (tasukeru), [[すけ]] (suke)}}
+
+===Proper noun===
+{{ja-pos|ひろし|proper}}
+
+# {{given name|male|lang=ja|sort=ひろし}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=우|eumhun=|rv=u|mr=u|y=wu}}
+
+# {{defn|lang=ko|sort=示05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hựu]], [[hữu]]|rs=示05}}
+
+# {{defn|lang=vi|sort=示05}}
+
+[[fr:祐]]
+[[ko:祐]]
+[[li:祐]]
+[[hu:祐]]
+[[mg:祐]]
+[[ja:祐]]
+[[pl:祐]]
+[[th:祐]]
+[[zh:祐]]

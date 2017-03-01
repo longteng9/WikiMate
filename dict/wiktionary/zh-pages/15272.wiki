@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=60|rad=彳|as=07|sn=10|four=28294|canj=HOOMD|ids=⿰彳余}}
+
+# [[slowly]], [[quietly]], [[calmly]]
+# [[composed]], [[dignified]]
+# {{surname|lang=zh}}
+
+====References====
+* {{Han ref|kx=0367.110|dkj=10110|dj=0690.100|hdz=20825.140|uh=5F90|ud=24464|bh=AE7D|bd=44669}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xú
+|c=ceoi4
+|h=pfs=
+|md=
+|mn=qz:sîr/xm:sû/zz:sî/qz,tw,xm,zz:chhî
+|mn_note=sîr/sû/sî - literary; chhî - vernacular
+|w=3xxi
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=彳07}}
+
+# gradually
+
+====Readings====
+* {{ja-readings|goon=[[じょ]] (jo)|kanon=[[しょ]] (sho) {{non-joyo-reading}}|kun=[[おもむろ]] (omomuro)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[서]]|eumhun=천천히|rv=seo|mr=sŏ|y=se}}
+
+# {{defn|lang=ko|sort=彳07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chờ]], [[chừa]], [[giờ]], [[từ]], [[thờ]], [[xờ]]|rs=彳07}}
+
+# {{defn|lang=vi|sort=彳07}}
+
+[[zh-min-nan:徐]]
+[[fr:徐]]
+[[ko:徐]]
+[[hu:徐]]
+[[mg:徐]]
+[[ja:徐]]
+[[no:徐]]
+[[pl:徐]]
+[[th:徐]]
+[[zh:徐]]

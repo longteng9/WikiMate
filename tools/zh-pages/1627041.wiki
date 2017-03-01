@@ -1,0 +1,45 @@
+{{also|糢糊}}
+==Chinese==
+{{zh-forms|t2=糢糊|alt=模胡,麻糊,蠻糊}}
+
+===Etymology===
+Etymology unclear. A literal derivation is unlikely. First attested in the {{w|Tang Dynasty}}. If not a loanword from an Altaic language, it is likely that this is a disyllabic derivative of the Old Chinese root *''m̥aŋ''/''m̥oŋ''/''m̥ɯŋ'' ("unclear, confused"), which had numerous descendants, for example {{zh-l|盲|to be blind}}, {{zh-l|茫|boundless and indistinct}}, {{zh-l|蒙|darkness}}, {{zh-l|夢|dream}}, {{zh-l|昏|dim, confused}}. Compare {{zh-l|馬虎|careless}}, {{zh-l|麻胡|máhú|a mythical ferocious character}}, {{zh-l|瑪呼|mǎhū|(to put on) a mask}}, {{zh-l|糊塗|hútu|confused, obfuscated}}.
+
+===Pronunciation===
+{{zh-pron
+|m=móhu,mōhu,2nb=common variant
+|c=mou4 wu4
+|mn=bô͘-hô͘
+|cat=v,a,adv
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[blur]]; to [[confuse]]; to [[mix up]]
+#: {{zh-x|別 模糊{hu} 這 兩 個 成語 之間 的 差別。|Don't '''mix up''' the differences between these two idioms.}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[blurry]]; [[vague]]; [[obscure]]; [[fuzzy]]
+#: {{zh-x|我 的 電腦 屏幕 突然 變得 模糊{hu} 不清。|My computer screen suddenly went '''blurry'''.}}
+
+===Adverb===
+{{zh-adv}}
+
+# [[vaguely]]; [[dimly]]
+#: {{zh-x|我 '''@模模糊{hu}糊{hu}''' 記得 他 的 樣子{zi}。|I '''vaguely''' remember what he looked like.}}
+
+===References===
+* {{cite-book|last=Davidson|first=Marianne (ed.)|coauthors=Julie Kleeman, Sarah Waldram|year=2006|edition=2nd edition|title=Collins Chinese Dictionary|language=English/Chinese|publisher=Collins|location=Glasgow, New York|isbn=978-0-00-722391-6
+}}
+
+{{zh-cat|Intermediate}}
+
+[[ko:模糊]]
+[[hu:模糊]]
+[[mg:模糊]]
+[[ja:模糊]]
+[[chr:模糊]]
+[[zh:模糊]]

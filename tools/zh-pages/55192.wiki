@@ -1,0 +1,16 @@
+==Japanese==
+{{ja-kanjitab|虎|落|笛}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=もがりぶえ|虎落|tr1=mogari|t1=a type of bamboo fence|笛|tr2=fue|t2=flute}}. The ''fue'' reading for {{l|ja|笛}} changes to ''bue'' due to {{rendaku|もがりぶえ}}.
+
+===Noun===
+{{ja-noun|もがりぶえ}}
+
+# winter [[wind]] blowing through a bamboo fence, making a [[flute]]-like noise
+
+====Related terms====
+* {{ja-r|虎落|もがり}}: a [[fence]] made of [[bamboo]] tied together with [[rope]]
+
+[[la:虎落笛]]
+[[ja:虎落笛]]

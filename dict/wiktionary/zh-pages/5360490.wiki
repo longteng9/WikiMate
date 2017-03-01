@@ -1,0 +1,55 @@
+{{also|织女星}}
+==Chinese==
+{{zh-forms|s=织女星|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=Zhīnǚxīng
+|c=zik1 neoi5 sing1
+|h=pfs=Chṳt-ńg-sên
+|mn=qz:Chit-lír-chhiⁿ/tp,xm:Chit-lú-chhiⁿ/kh,zz:Chit-lí-chheⁿ
+|cat=propn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{lb|zh|star}} [[Vega]]
+
+====Synonyms====
+* {{zh-l|織女一}}
+
+===Descendants===
+{{CJKV|織女星|しょくじょせい|직녀성}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょく|じょ|せい|yomi=o}}
+{{ja-kanjitab|お|o1=り|ひめ|ほし|k3=ぼし|r=y|yomi=irr|sort=おりひめぼし}}
+
+===Etymology===
+{{suffix|ja|織姫|tr1=Orihime|星|tr2=hoshi|t2=[[star]]|sort=おりひめぼし}}. The [[kanji]] is from {{etyl|zh|ja|sort=おりひめぼし}} {{zh-l|織女星}}.
+
+===Alternative forms===
+* {{ja-l|織姫星}}, {{ja-l|おりひめ星}}
+
+===Pronunciation===
+{{ja-pron|おりひめぼし|acc=4|y=irr}}
+{{ja-pron|しょくじょせい|acc=3|y=ko}}
+
+===Proper noun===
+{{ja-pos|proper|おりひめぼし|rom=Orihime-boshi}} {{ja-altread|hira=しょくじょせい|hhira=しょくぢょせい|rom=Shokujosei}}
+
+# {{lb|ja|star|sort=おりひめぼし}} [[Vega]]
+
+====Synonyms====
+* {{ja-l|ベガ}}
+
+===See also===
+* {{ja-l|織姫}}
+
+[[Category:Japanese words with multiple readings]]
+
+[[hu:織女星]]
+[[zh:織女星]]

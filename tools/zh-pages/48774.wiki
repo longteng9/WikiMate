@@ -1,0 +1,35 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{zh-compound|您|好|you|good}}
+
+===Pronunciation===
+{{zh-pron
+|m=nínhǎo
+|c=nei5 hou2
+|cat=intj
+}}
+
+===Interjection===
+{{zh-interj}}
+
+# {{lb|zh|formal}} [[hello]]
+#: {{zh-x|您好，這裡 是 中國 移動，請問 有 什麼 可以 幫 您 的 嗎？|'''Hello''', this is China Mobile, how can I help you?}}
+
+====Usage notes====
+* This form is only used in singular; to address a group of people, use {{zh-l|你們好}}.
+
+===See also===
+* {{zh-l|你好}}
+* {{zh-l|喂}}
+* {{zh-l|幸會}}
+
+[[fr:您好]]
+[[ko:您好]]
+[[lt:您好]]
+[[mg:您好]]
+[[ms:您好]]
+[[ja:您好]]
+[[chr:您好]]
+[[zh:您好]]

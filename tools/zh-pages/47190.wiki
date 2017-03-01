@@ -1,0 +1,81 @@
+{{also|敎授}}
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Re{{borrowing|zh|ja|-|nocap=1}} {{ja-r|教授|きょうじゅ}} for the modern sense of "professor".
+
+===Pronunciation===
+{{zh-pron
+|m=jiàoshòu,er=y
+|c=gaau3 sau6
+|h=pfs=kau-su
+|mn=kàu-siū
+|ma=y
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[professor]]
+
+====See also====
+* {{zh-l|叫獸}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[teach]]; to [[instruct]]
+
+{{zh-cat|Elementary|Education}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きょう|じゅ|yomi=on}}
+{{wikipedia|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|きょうじゅ|y=o}}
+
+===Noun===
+{{ja-noun|きょうじゅ}}
+
+# [[professor]]
+# [[instruction]], [[teaching]]
+
+====Synonyms====
+* {{ja-r|プロフェッサー}}
+
+====Related terms====
+* {{ja-r|大学|だいがく}}
+* {{ja-r|先生|せんせい}}
+* {{ja-r|学生|がくせい}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|きょうじゅ}}
+
+# to [[instruct]], to [[teach]]
+
+====Conjugation====
+{{ja-suru|きょうじゅ}}
+
+[[Category:ja:Education|きょうじゅ]]
+
+[[fr:教授]]
+[[ko:教授]]
+[[io:教授]]
+[[it:教授]]
+[[sw:教授]]
+[[lo:教授]]
+[[lt:教授]]
+[[hu:教授]]
+[[mg:教授]]
+[[ja:教授]]
+[[tl:教授]]
+[[th:教授]]
+[[chr:教授]]
+[[uk:教授]]
+[[vi:教授]]
+[[zh:教授]]

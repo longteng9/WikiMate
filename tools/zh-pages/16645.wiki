@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|挤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=14|sn=17|four=50023|canj=QYX|ids=⿰扌齊}}
+
+# [[crowd]], [[squeeze]], [[push]] [[against]]
+
+====References====
+* {{Han ref|kx=0459.230|dkj=12848|dj=0808.160|hdz=31976.010|uh=64E0|ud=25824|bh=C0BD|bd=49341}}
+
+----
+
+==Chinese==
+{{zh-forms|s=挤}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jǐ |ma=zh-jǐ.ogg
+|c=zai1
+|h=pfs=
+|md=
+|mn=chek
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+{{zh-cat|Beginning}}
+
+====References====
+* (''Min Nan'') {{thcwd|12176}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手14}}
+
+# {{defn|lang=ja|sort=手14}}
+
+====Readings====
+* {{ja-readings|on=[[せい]] (sei), [[さい]] (sai)|kun=[[おす]] (osu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=제|eumhun=|rv=je|mr=che|y=cey}}
+
+# {{defn|lang=ko|sort=手14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手14|hanviet=[[tê]], [[tể]], [[tễ]]}}
+
+# {{defn|lang=vi|sort=手14}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:擠]]
+[[hu:擠]]
+[[mg:擠]]
+[[ja:擠]]
+[[pl:擠]]
+[[th:擠]]
+[[chr:擠]]
+[[zh:擠]]

@@ -1,0 +1,110 @@
+{{character info/new}}
+{{also|狮}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=10|sn=13|four=41227|canj=KHHRB}}
+
+====References====
+* {{Han ref|kx=0717.100|dkj=20609|dj=1128.250|hdz=21363.040|uh=7345|ud=29509|bh=B7E0|bd=47072}}
+
+----
+
+==Chinese==
+{{zh-forms|s=狮|alt=師}}
+
+===Etymology===
+First mentioned in the ''{{w|Book of Han}}'' {{defdate|1st century CE}}, in the description of the "specialties" from the {{och-l|烏弋山離|tr=*ʔˤa lək srar raj|Alexandria}} country in the {{w|Western Regions}}. The country referred to is likely "{{w|Alexandria Prophthasia}}", which was part of the {{w|Parthian Empire}} during the time of Han, speaking an Indo-Iranian language.
+
+Compare {{cog|pal|šgl|tr=šagr, šēr|gloss=lion; (astronomy) Leo}}, {{cog|kho|sarau||lion}}. Related to {{och-l|狻猊}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shī
+|c=si1
+|h=pfs=sṳ̂
+|md=săi
+|mn=qz:sir/tw,xm,zz:su/sai
+|mn_note=sir/su - literary; sai - vernacular
+|w=1sr
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[lion]]
+
+===Compounds===
+{{zh-der|獅子|人中獅子|小獅座|河東獅吼|河東獅子|海獅|獅城|獅子口|獅子吼|獅子山|獅子座|獅子搏兔|獅子會|獅子狗|獅子頭|獅舞|獅蠻|睡獅|石獅子|舞獅|蟻獅|風獅爺}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=犬10}}
+
+# a [[lion]]
+
+====Readings====
+{{ja-readings
+|goon=[[し]] (shi)
+|kanon=[[し]] (shi)
+|kun=(''rare'') [[しし]] (shishi)
+}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=し}} {{m|zh|獅|tr={{IPAchar|/ʃɣiɪ/}}}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|し}}
+
+===Noun===
+{{ja-noun|し}}
+
+# [[lion]]
+
+====Usage notes====
+Very rarely used on its own. The ''shishi'' reading is almost always spelled as {{m|ja|獅子}}.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|eumhun=|rv=sa|mr=sa|y=sa}}
+
+# {{defn|lang=ko|sort=犬10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|sư|rs=犬10}}
+
+# {{defn|lang=vi|sort=犬10}}
+
+====Readings====
+* Nôm: sư
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville, 1999
+
+[[zh-min-nan:獅]]
+[[fr:獅]]
+[[ko:獅]]
+[[lt:獅]]
+[[hu:獅]]
+[[mg:獅]]
+[[ja:獅]]
+[[pl:獅]]
+[[fi:獅]]
+[[th:獅]]
+[[chr:獅]]
+[[zh:獅]]

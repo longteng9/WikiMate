@@ -1,0 +1,29 @@
+==Japanese==
+{{ja-kanjitab|はつ|こう|k1=はっ|yomi=on}}
+
+===Alternative forms===
+* {{l/ja|醱酵}}
+* {{l/ja|醗酵}}
+* {{l/ja|はっ酵}}
+
+===Pronunciation===
+* {{ja-pron|はっこう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はっこう}}
+
+# [[fermentation]]
+
+===Verb===
+{{ja-verb-suru|はっこう}}
+
+# [[ferment]]
+
+====Conjugation====
+{{ja-suru|はっこう}}
+
+===References===
+<references/>
+
+[[ru:発酵]]
+[[zh:発酵]]

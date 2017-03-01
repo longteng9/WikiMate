@@ -1,0 +1,75 @@
+{{also|橄榄}}
+==Chinese==
+{{zh-forms|s=橄榄}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+Borrowed from a Tai-Kadai language in ancient times. Compare {{cog|za|gyamj||olive}}, {{cog|lo|ເຫລືອມ||{{taxlink|Canarium kerrii|species|noshow=1}} Craib}}, {{m|lo|ເກິມ||{{taxlink|Canarium venosum|species|noshow=1}} Craib}}, as well as {{cog|mkh-mvi|tlám||olive}} (from earlier < ''*klam''; Modern {{m|vi|trám}}).
+
+===Pronunciation===
+{{zh-pron
+|m=gǎnlǎn
+|c=gam3 laam5
+|h=pfs=ká-lám/kám-lám
+|md=gā-lāng/gāng-lāng
+|mn=qz,twv:kaⁿ-ná/xm:káⁿ-ná/tw:kan-ná/zz:kán-ná
+|w=2ke le
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[Chinese olive]] ({{taxlink|Canarium album|species|noshow=1}})
+# European [[olive]] ({{taxlink|Olea europaea|species|noshow=1}})
+
+====Usage notes====
+It's easy to confuse the European and Chinese olives, because they're often referred to by the same name. Fortunately, there's little overlap in use: the European olive is packaged for food in brine (it's inedible fresh), or as oil pressed from the fruit. The Chinese olive is dried or candied, or the nuts are eaten. The European olive is foreign and mentioned in the [[Bible]], as well as in the context of the [[Middle East]] and [[Europe]], while the Chinese olive is native and [[East Asia]]n.
+
+====Derived terms====
+{{zh-der|橄欖油:olive oil|橄欖球:rugby|橄欖枝:olive branch|橄欖子:betel nut|橄欖石:olivine|橄欖糖|橄欖僊|橄欖香|橄欖色|油橄欖|洋橄欖}}
+
+====Descendants====
+{{CJKV|橄欖|かんらん|감람|cảm lãm}}
+''Others''
+* → Malay: {{l|ms|kanar||Chinese olive eaten salted or sweet}}
+* → Singaporean English: {{l|en|kana||olives that have been dried and preserved using salt and sugar, eaten as a snack}}
+* → Thai: {{l|th|กาน้า|tr=kānā||{{taxlink|Canarium album|species|noshow=1}}}}
+
+{{zh-cat|Fruits}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|らん|yomi=o}}
+
+===Noun===
+{{ja-noun|かんらん}}
+
+# Chinese white [[olive]]
+
+=====Derived terms=====
+* {{ja-r|橄欖岩|かんらんがん|gloss=peridotite}}
+* {{ja-r|橄欖石|かんらんせき|gloss=olivine, peridot}}
+* {{ja-r|橄欖山|^かんらんざん|gloss=Mount of Olives}}
+* {{ja-r|橄欖油|かんらんゆ|gloss=olive oil}}
+* {{ja-r|橄欖色|かんらんしょく|gloss=olive colour}}
+
+----
+
+==Korean==
+{{ko-hanjatab|}}
+
+===Noun===
+{{ko-noun|hj|hangeul=감람}}
+
+# {{hanja form of|감람|Chinese white [[olive]]}}
+
+[[el:橄欖]]
+[[fr:橄欖]]
+[[hu:橄欖]]
+[[mg:橄欖]]
+[[ja:橄欖]]
+[[tr:橄欖]]

@@ -1,0 +1,47 @@
+==Japanese==
+{{ja-kanjitab|yomi=irr|sort=やんばるくいな|やま|はら|k1=やん|k2=ばる}}
+{{wikipedia|lang=ja}}
+
+===Etymology===
+{{calque|ja|etyl lang=ryu|etyl term=山原水鶏|etyl tr=Yanbaru kumirā|山原|水鶏|t1={{w|Yanbaru}}|tr2=kuina|t2=[[water rail]]|sort=やんばるくいな}}
+
+===Pronunciation===
+{{ja-pron|yomi=irr|やんばる くいな|acc=5|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|^やんばる くいな|^ヤンバル クイナ|hhira=やんばるくひな}}
+
+# an [[Okinawa rail]]
+
+===References===
+<references/>
+
+[[Category:ja:Rallids|やんばるくいな]]
+
+----
+
+==Kunigami==
+
+===Etymology===
+{{compound|xug|山原|t1={{w|Yanbaru}}|水鶏|tr2=fumira|t2=[[water rail]]|sc=Jpan|sort=やんばるふみら}}
+
+===Noun===
+{{head|xug|noun|hiragana|やんばるふみら|tr=Yanbaru fumira|sc=Jpan|sort=やんばるふみら}}
+
+# an [[Okinawa rail]]
+
+[[Category:xug:Rallids|やんばるふみら]]
+
+----
+
+==Okinawan==
+
+===Etymology===
+{{compound|ryu|山原|t1={{w|Yanbaru}}|水鶏|tr2=kumirā|t2=[[water rail]]|sort=やんばるくみらあ}}
+
+===Noun===
+{{head|ryu|noun|hiragana|やんばるくみらー|romaji|Yanbaru kumirā|sort=やんばるくみらあ}}
+
+# an [[Okinawa rail]]
+
+[[Category:ryu:Rallids|やんばるくみらあ]]

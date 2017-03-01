@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=6}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=04|sn=6|four=23234|canj=OIK|ids=⿰亻犬}}
+
+====References====
+* {{Han ref|kx=0095.230|dkj=00438|dj=0202.070|hdz=10119.040|uh=4F0F|ud=20239|bh=A5F1|bd=42481}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fú
+|c=buk6,fuk6
+|mn=ho̍k
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[crouch]], [[crawl]], [[lie]] [[hidden]], [[conceal]]
+# {{zh-abbrev|伏特|volt}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=人04}}
+
+# [[prostrated]]
+# [[bend down]]
+# [[bow]]
+# [[cover]]
+# [[lay pipes]]
+
+====Readings====
+* {{ja-readings|on=[[ふく]] (fuku), [[ふう]] (fū), [[ぶく]] (buku)|kun=[[ふせる]] (fuseru), [[したがう]] (shitagau)|nanori=[[ぶせ]] (buse)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[복]], [[부]]|rv=bok, bu|mr=pok, pu|y=pok, pwu, pwuk}}
+
+# {{defn|lang=ko|sort=人04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|phục|rs=人04}}
+
+# {{defn|lang=vi|sort=人04}}
+
+[[fr:伏]]
+[[ko:伏]]
+[[it:伏]]
+[[hu:伏]]
+[[mg:伏]]
+[[ja:伏]]
+[[no:伏]]
+[[pl:伏]]
+[[th:伏]]
+[[uk:伏]]
+[[zh:伏]]

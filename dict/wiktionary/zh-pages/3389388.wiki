@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|いん|か|おう|ほう|k2=が|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=いんがおうほう|因果|tr1=inga|t1=cause and effect; karmic results, fate; misfortune|応報|tr2=ōhō|t2=retribution}}. Originally from Buddhist contexts, but now more widely used.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|a|い|んがおうほう}}<ref name="DJR"/><ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{ja-accent/down|い}}{{lang|ja|んがお}}{{ja-accent/high|うほう}} ([[頭高型|Atamadaka]] + [[平板型|Heiban]])<ref name="DJR"/><ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[ĩɴŋa̠ o̞ːho̞ː]}}
+
+===Noun===
+{{ja-noun|いんが おうほう|hhira=いんぐわおうほう}}
+
+# [[retribution]], [[karma]]: good [[fortune]] for those who have done good deeds, and [[misfortune]] for those who have done bad deeds
+#: {{ja-usex|lang=ja|もう'''因果応報'''だよ|もう '''いんが おうほう''' だ よ|that's '''just what you deserve'''}}
+
+===References===
+<references/>
+
+[[Category:Yojijukugo|いんがおうほう]]
+
+[[mg:因果応報]]
+[[ja:因果応報]]
+[[zh:因果応報]]

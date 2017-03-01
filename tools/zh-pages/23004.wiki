@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|帘}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=13|sn=19|four=88237|canj=HITC}}
+
+# a [[blind]], [[screen]], [[curtain]]
+
+====References====
+* {{Han ref|kx=0902.040|dkj=26616|dj=1327.140|hdz=53022.120|uh=7C3E|ud=31806|bh=C3AE|bd=50094}}
+
+----
+
+==Chinese==
+{{zh-forms|s=帘}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lián
+|c=lim4
+|h=pfs=
+|md=
+|mn=qz,tw,xm,zz:liâm/qz,tw,xm:nî/tw,zz:lî
+|mn_note=lî,nî - vernacular, hoeh, liâm - literary
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|窗簾}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=8|rs=竹13}}
+
+# {{defn|lang=ja|sort=竹13}}
+
+====Readings====
+* {{ja-readings|on=[[れん]] (ren)|kun=[[すだれ]] (sudare), [[す]] (su)}}
+
+====Compounds====
+* {{ja-r|暖簾|のれん}}: noren, a Japanese curtain
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[렴]]>[[염]]|eumhun=|rv=ryeom>yeom|mr=ryŏm>yŏm|y=lyem>yem}}
+
+# {{defn|lang=ko|sort=竹13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[liêm]]|rs=竹13}}
+
+# {{defn|lang=vi|sort=竹13}}
+
+[[zh-min-nan:簾]]
+[[fr:簾]]
+[[ko:簾]]
+[[lo:簾]]
+[[hu:簾]]
+[[mg:簾]]
+[[ja:簾]]
+[[pl:簾]]
+[[th:簾]]
+[[zh:簾]]

@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=tóupiàoxiāng
+|c=tau4 piu3 soeng1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[ballot box]]
+
+====Synonyms====
+* {{zh-l|票匭}}
+* {{zh-l|票箱}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|ひょう|はこ|k3=ばこ|r=y|yomi=ok}}
+
+===Pronunciation===
+* {{ja-pron|とうひょうばこ|y=j|acc=3|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうひょうばこ}}
+
+# [[ballot box]] {{gloss|a sealed box into which a voter puts his voting slip}}
+
+===References===
+<references/>
+
+[[hu:投票箱]]
+[[chr:投票箱]]
+[[zh:投票箱]]

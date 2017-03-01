@@ -1,0 +1,86 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=09|sn=15|four=44989|canj=THDF}}
+
+# [[wormwood]]
+# {{vern|Chinese catalpa|pedia=1}}
+# [[firewood]]
+
+====References====
+* {{Han ref|kx=1042.270|dkj=31333|dj=1500.370|hdz=53249.200|uh=8429|ud=33833|bh=DFC7|bd=57287}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiāo
+|c=cau1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=8|rs=艸09}}
+
+====Readings====
+* {{ja-readings|on=[[しゅう]] (shū)|kun=[[はぎ]] (hagi)|nanori=[[は]] (ha)}}
+
+===Noun===
+{{ja-noun|はぎ}}
+
+# {{vern|Japanese bush clover|pedia=1}}, genus ''[[Lespedeza]]''. Culturally important as one of the {{m|ja|秋の七草||seven flowers of autumn|tr=aki no nanakusa}}.
+
+===Proper noun===
+{{ja-pos|はぎ|proper}}
+
+# a place name, such as that of Hagi City in [[Yamaguchi]] Prefecture
+# {{given name|female|lang=ja|sort=はぎ}}.
+
+====See also====
+* {{pedialite|Lespedeza}}
+
+[[Category:ja:Cities|はぎ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=추|eumhun=|rv=chu|mr=ch'u|y=chwu}}
+
+# {{defn|lang=ko|sort=艸09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|thèm|rs=艸09}}
+
+# {{defn|lang=vi|sort=艸09}}
+
+[[fr:萩]]
+[[hu:萩]]
+[[mg:萩]]
+[[ja:萩]]
+[[pl:萩]]
+[[th:萩]]
+[[zh:萩]]

@@ -1,0 +1,45 @@
+{{also|无敌}}
+==Chinese==
+{{zh-forms|s=无敌}}
+
+===Pronunciation===
+{{zh-pron
+|m=wúdí
+|c=mou4 dik6
+|mn=qz:bû-tia̍k/xm,zz:bû-te̍k
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|literary}} [[invincible]]; [[unbeatable]]
+
+====Descendants====
+{{CJKV||むてき|무적|vô địch}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|む|てき|yomi=o}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|むてき}}
+
+# [[invincible]]
+#* '''1907''', 夏目漱石, 虞美人草:
+#*: {{ja-usex|しばらくすると、'''無敵'''な音を立てて車輛の戸をはたはたと締めて行く。|しばらく する と、 '''むてき''' な おと を たてて しゃりょう の と を はたはた と しめて いく。|A short while later, the doors of the train car flapped shut with an '''unmatched''' racket.}}
+
+====Inflection====
+{{ja-na|むてき}}
+
+====Compounds====
+* {{l/ja|天下無敵}}
+
+===Noun===
+{{ja-noun|むてき}}
+
+# [[invincibility]]
+
+[[ko:無敵]]
+[[zh:無敵]]

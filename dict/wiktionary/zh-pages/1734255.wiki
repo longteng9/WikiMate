@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|閉|塞|音}}
+
+===Etymology===
+Compound of {{compound|閉塞|tr1=heisoku|t1=blockade|音|tr2=on|t2=sound|lang=ja}}.
+
+===Pronunciation===
+* {{IPA|/heisokuon/|lang=ja}}, {{IPA|/heːsokuon/|lang=ja}}
+
+===Noun===
+{{ja-noun|へいそくおん}}
+
+# an [[obstruent]]
+
+====Synonyms====
+* {{ja-r|閉鎖音|へいさおん}}
+
+[[Category:ja:Phonetics|へいそくおん]]
+
+[[zh:閉塞音]]

@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|戰|战}}
+==Translingual==
+{{Han simplified forms|戰|戦|战}}
+
+===Etymology===
+Japanese shinjitai {{Han simp|戰|f=單|t=単}}.
+
+===Han character===
+{{Han char|rn=62|rad=戈|as=09|sn=13|four=93450|canj=FJI|ids=⿰単戈}}
+
+====References====
+* {{Han ref|kx=0413.241|dkj=11631|dj=0756.230|hdz=21409.041|uh=6226}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=戈08|style=s|kyu=戰}}
+
+====Readings====
+{{ja-readings
+|goon=[[せん]] (sen)
+|kanon=[[せん]] (sen)
+|kun=[[いくさ]] (ikusa), [[おののく|おのの.く]] ([[戦く]], onono.ku), [[おののき]] (ononoki), [[おののき|おのの.き]] ([[戦き]], onono.ki), [[そよぐ|そよ.ぐ]] ([[戦ぐ]], soyo.gu), [[そよぎ]] (soyogi), [[そよぎ|そよ.ぎ]] ([[戦ぎ]], soyo.gi), [[たたかう]] ([[戦う]], tatakau), [[たたかい]] (tatakai), [[たたかい|たたか.い]] ([[戦い]], tataka.i)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|作戦|さくせん}}: [[military]] [[operation]]
+* {{ja-r|休戦|きゅうせん}}: [[truce]]
+* {{ja-r|戦意|せんい}}: [[fighting]] [[spirit]]
+* {{ja-r|戦役|せんえき}}:
+* {{ja-r|戦禍|せんか}}: [[war]] [[damage]]
+* {{ja-r|戦記|せんき}}:
+* {{ja-r|戦況|せんきょう}}:
+* {{ja-r|戦国時代|せんごくじだい}}:
+* {{ja-r|戦士|せんし}}: [[soldier]]
+* {{ja-r|戦死|せんし}}:
+* {{ja-r|戦術|せんじゅつ}}: [[tactic]], [[tactics]]
+* {{ja-r|戦勝|せんしょう}}: [[victory]], [[triumph]]
+* {{ja-r|戦車|せんしゃ}}:
+* {{ja-r|戦前|せんぜん}}: [[pre-war]]
+* {{ja-r|戦場|せんじょう}}: [[battlefield]]
+* {{ja-r|戦陣|せんじん}}:
+* {{ja-r|戦線|せんせん}}: [[frontline]]
+* {{ja-r|戦戦恐恐|せんせんきょうきょう}}:
+* {{ja-r|戦争|せんそう}}: [[war]]
+* {{ja-r|戦闘|せんとう}}: [[battle]], [[combat]]
+* {{ja-r|戦闘機|せんとうき}}: [[fighter plane]]
+* {{ja-r|戦法|せんぽう}}: [[tactic]]
+* {{ja-r|戦没|せんぼつ}}: [[death]] in [[war]]
+* {{ja-r|戦慄|せんりつ}}:
+* {{ja-r|戦略|せんりゃく}}: [[strategy]]
+* {{ja-r|戦隊|せんたい}}: [[military]] [[squadron]]
+{{der-bottom}}
+
+===Noun===
+{{ja-noun|いくさ|kyu=戰}}
+
+# a [[battle]] or [[war]]
+# a [[soldier]] or [[warrior]]
+# [[archery]]
+
+====Alternative forms====
+* {{m|ja|軍}}
+
+===Suffix===
+{{ja-pos|せん|suffix|kyu=戰}}
+
+# [[match]], [[competition]] (in sports, etc.)
+
+[[fr:戦]]
+[[ko:戦]]
+[[it:戦]]
+[[lo:戦]]
+[[hu:戦]]
+[[mg:戦]]
+[[ja:戦]]
+[[pl:戦]]
+[[th:戦]]
+[[chr:戦]]
+[[zh:戦]]

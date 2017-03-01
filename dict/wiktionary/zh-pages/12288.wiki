@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|谘|諮}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=06|sn=9|four=37608|canj=IOR,MOR|ids=⿱次口}}
+
+# [[inquire]], [[consult]], [[discuss]]
+# [[plan]]
+
+====References====
+* {{Han ref|kx=0186.110|dkj=03538|dj=0405.320|hdz=10621.040|uh=54A8|ud=21672|bh=AB74|bd=43892}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zī
+|c=zi1
+|mn=qz:chir/tw,xm,zz:chu
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|咨訪|怨咨|咨咨|咨請|咨呈|咨牙倈嘴|國情咨文|嚌咨|咨文|咨嗟|疇咨之憂}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口06}}
+
+# {{defn|lang=ja|sort=口06}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[はかる]] (hakaru), [[あう]] (au)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=자|rv=ja|mr=cha}}
+
+# {{defn|lang=ko|sort=口06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=口06| hanviet = [[tư]], [[ti]]}}
+
+# {{defn|lang=vi|sort=口06}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=54a8 Nom Foundation]
+
+[[fr:咨]]
+[[li:咨]]
+[[hu:咨]]
+[[mg:咨]]
+[[ja:咨]]
+[[no:咨]]
+[[pl:咨]]
+[[th:咨]]
+[[tg:咨]]
+[[zh:咨]]

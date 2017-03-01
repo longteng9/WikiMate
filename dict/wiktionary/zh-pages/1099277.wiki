@@ -1,0 +1,36 @@
+==Japanese==
+{{ja-kanjitab|けい|しょう|yomi=o}}
+
+===Etymology===
+From {{m|ja|継|sc=Jpan|tr=kei||succeed}} + {{m|ja|承|sc=Jpan|tr=shō||succeed to}}
+
+===Noun===
+{{ja-noun|けいしょう}}
+
+# [[succession]], [[accession]], [[inheritance]]
+
+====Derived terms====
+{{der-top}}
+* [[オーストリア継承戦争]] (''ōsutoria keishō sensō''): War of the Austrian Succession
+* [[スペイン継承戦争]] (''supein keishō sensō''): War of the Spanish Succession
+* [[使徒継承]] (''shito keishō''): apostolic succession
+{{der-mid}}
+* [[束縛継承原理]] (''sokubaku keishō genri''): binding inheritance principle
+* [[皇位継承]] (''kōi keishō''): imperial succession
+* [[継承者]] (''keishōsha''): successor
+{{der-bottom}}
+
+===Verb===
+{{ja-verb-suru|けいしょう}}
+
+# [[succeed]] to, [[accede]] to, [[inherit]]
+
+====Conjugation====
+{{ja-suru|継承|けいしょう}}
+
+[[Category:ja:Programming|けいしょう]]
+
+[[mg:継承]]
+[[ja:継承]]
+[[pl:継承]]
+[[zh:継承]]

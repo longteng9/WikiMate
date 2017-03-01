@@ -1,0 +1,135 @@
+{{character info/new}}
+{{also|妳|您|祢|儞}}
+==Translingual==
+{{stroke order}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=5|sn=7|four=2729.0,2729.2|canj=ONF|ids=⿰亻尔}}
+
+====References====
+* {{Han ref|kx=0100.021|dkj=00471|dj=0205.040|hdz=10137.050|uh=4F60|ud=20320|bh=A741|bd=42817}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=伱,儞,伲,𤙌,汝-Min Nan,㚢-Hakka}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|尔|alt1=亻|ls=psc}}.
+
+===Etymology===
+Ultimately from {{inh|zh|sit-pro|*na-ŋ||you}}.
+
+===Pronunciation===
+{{zh-pron
+|m=nǐ
+|ma=y
+|m-s=nyi3
+|c=nei5
+|ca=yue-你.oga
+|h=pfs=ngì/ǹ/n:ǹg/n:nì;gd=ngi2/n2
+|mn=ní/xm,zz,kh,tn,tc,yl,hc:lí/qz,lk,sx,km,hc:lír/tp,mg:lú
+|mn_note=lí/lír/lú - common substitute for {{zh-l|*汝}}
+|mc=
+|oc=y
+|w=3nyi,2'ni
+|x=nyi3
+|cat=pron
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|informal}} [[you]] {{gloss|the person spoken to or written to}}
+#: {{zh-x|你好|hello}}
+#: {{zh-x|你 今天 好 嗎？|How are '''you''' today?}}
+#: {{zh-x|我 喜歡 你。|I like '''you'''.}}
+
+====Synonyms====
+* {{zh-l|您|you (polite)}}
+* {{zh-l|妳|you (female)}}
+{{zh-dial}}
+
+====Compounds====
+{{zh-der|你好|你們|你來我往|你死我活|你爭我奪|你追我趕|一場官司一場火，任你好漢沒處躲|不是你死，就是我活|不是我，便是你|不瞞你說|不說話，沒人當你是啞吧|你三我四|你丟我撿|你儂我儂|你咱|你家|你家的|你我|你推我擠|你推我讓|你有千條妙計，我有一定之規|你東我西|你生|你知我見|你老|你誇我逞|你謙我讓|你長我短|天知地知，你知我知|有你沒我|有你的|迷你|迷你型計算機|迷你玫瑰|迷你盆景|迷你裙|迷你豬|迷你電腦|閻王叫你三更死，誰敢留人到五更}}
+
+====See also====
+{{cmn-personal pronouns}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人05}}
+
+# {{defn|lang=ja|sort=人05}}
+
+====Readings====
+{{ja-readings
+|goon=[[に]] (ni)
+|kanon=[[じ]] (ji)
+|kun=[[なんじ]] (nanji), [[しかり]] (shikari), [[その]] (sono), [[のみ]] (nomi)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=니|rv=ni|mr=ni}}
+
+# {{defn|lang=ko|sort=人05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nể]], [[né]], [[nẻ]], [[nệ]], [[nễ]], nhĩ|rs=人05}}
+
+# {{defn|lang=vi|sort=人05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f60 Nom Foundation]
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:你]]
+[[da:你]]
+[[de:你]]
+[[et:你]]
+[[el:你]]
+[[es:你]]
+[[fr:你]]
+[[ko:你]]
+[[hi:你]]
+[[io:你]]
+[[it:你]]
+[[ka:你]]
+[[lt:你]]
+[[li:你]]
+[[hu:你]]
+[[mg:你]]
+[[ms:你]]
+[[nl:你]]
+[[ja:你]]
+[[no:你]]
+[[km:你]]
+[[pl:你]]
+[[pt:你]]
+[[ru:你]]
+[[sk:你]]
+[[fi:你]]
+[[ta:你]]
+[[th:你]]
+[[chr:你]]
+[[tr:你]]
+[[uk:你]]
+[[vi:你]]
+[[wa:你]]
+[[zh:你]]

@@ -1,0 +1,64 @@
+{{also|乖离}}
+==Chinese==
+{{zh-forms|s=乖离}}
+
+===Pronunciation===
+{{zh-pron
+|m=guāilí
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[deviate]]
+# to [[separate]]
+# to [[contradict]]
+# to [[leave]]; to [[depart]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|乖|離}}
+
+===Pronunciation===
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|[käiɽi]}}
+
+===Noun===
+{{ja-noun|かいり|hhira=くゎいり}}
+
+# [[deviation]], [[divergence]]
+# [[estrangement]], [[alienation]]
+
+====Synonyms====
+* {{sense|estrangement}} {{ja-r|離反|りはん}}, {{ja-r|離背|りはい}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|かいり|hhira=くゎいり}}
+
+# to [[deviate]], to [[diverge]]
+#: {{ja-usex|実際の収益が期待から大いに'''乖離'''した。|じっさい の しゅうえき が きたい から おおい に '''かいり''' した。|Actual earnings '''diverged''' / '''deviated''' substantially from expectations.}}
+# to become [[estranged]] or [[alienated]], to [[lose touch]]
+#: {{ja-usex|人心から'''乖離'''した政治|じんしん から '''かいり''' した せいじ|politics that has '''fallen out of touch with''' the (will of the) people}}
+
+====Conjugation====
+{{ja-suru|かいり}}
+
+====Synonyms====
+* {{sense|to become estranged}} {{ja-r|linkto=離反|離反する|りはん する}}, {{ja-r|linkto=離背|離背する|りはい する}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=괴리}}
+
+# {{hanja form of|괴리|estrangement}}
+
+[[ko:乖離]]
+[[hu:乖離]]
+[[ja:乖離]]
+[[zh:乖離]]

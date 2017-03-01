@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|潅}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=18|sn=21|four=34114|canj=ETRG}}
+
+# [[pour]]
+# [[water]]
+# [[irrigate]], [[flood]]
+
+====References====
+* {{Han ref|kx=0662.350|dkj=18759|dj=1071.300|hdz=31786.130|uh=704C|ud=28748|bh=C4E9|bd=50409}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|雚|c1=s|c2=p|t1=water|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=guàn
+|c=gun3
+|h=pfs=kon
+|mn=koàn
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[fill]] (with liquid)
+
+====Compounds====
+{{zh-der|倒灌|冬灌|半灌木|叢灌|噴灑灌溉|如湯灌雪|如雷灌耳|抱甕灌圃|排灌|提灌|春灌|海水倒灌|淹灌|溝灌|漫灌|潛灌|澆灌|灌區|灌口二郎|灌唱片|灌園食力|灌夫罵坐|灌救|灌木|灌水|灌注|灌注器|灌溉|灌溉工程|灌溉渠|灌滌|灌漿|灌灌|灌瓜之義|灌籃|灌精兒|灌腸|灌膿|灌輸|灌迷湯|灌酒|灌醉|灌錄|灌音|灌頂|灌香腸|灌黃湯|畦溝灌溉|盤灌法|絳灌|罵坐灌夫|自流灌溉|莽灌夫|負壺灌區|輪流灌溉|醍醐灌頂|錄灌}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水18}}
+
+# {{defn|lang=ja|sort=水18}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[そそぐ]] (sosogu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=관|eumhun=|rv=gwan|mr=kwan|y=kwan}}
+
+# {{defn|lang=ko|sort=水18}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''灌''' ([[quán]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:灌]]
+[[fr:灌]]
+[[ko:灌]]
+[[hu:灌]]
+[[mg:灌]]
+[[ja:灌]]
+[[no:灌]]
+[[pl:灌]]
+[[th:灌]]
+[[zh:灌]]

@@ -1,0 +1,33 @@
+{{also|周长|週長}}
+==Chinese==
+{{zh-forms|s=周长|t2=週長}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhōucháng
+|c=zau1 coeng4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|geometry}} [[perimeter]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|しゅう|ちょう|yomi=o}}
+
+===Noun===
+{{ja-noun|しゅうちょう}}
+
+# {{lb|ja|geometry|sort=しゅうちょう}} a [[perimeter]]
+
+====Synonyms====
+* {{ja-r|周%囲|しゅう%い}}
+
+[[lo:周長]]
+[[mg:周長]]

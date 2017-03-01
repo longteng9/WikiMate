@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|谛}}
+==Translingual==
+
+===Etymology===
+{{rfe|lang=mul|Is {{m|mul|帝|sc=Hani}} the phonetic component of this compound character?}}
+
+===Han character===
+{{Han char|rn=149|rad=言|as=09|sn=16|four=00627|canj=YRYBB|ids=⿰言帝}}
+
+# [[careful]], [[attentive]]
+
+====References====
+* {{Han ref|kx=1170.080|dkj=35716|dj=1635.280|hdz=64001.040|uh=8AE6|ud=35558|bh=BFCD|bd=49101}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谛}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dì
+|c=dai3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|真諦|聖諦}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言09}}
+
+# {{defn|lang=ja|sort=言09}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei), [[たい]] (tai)|kun=[[つまびらか]] (tsumabiraka), [[まこと]] (makoto), [[あきらめる]] (akirameru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=체|eumhun=|rv=che|mr=ch'e|y=chey}}
+
+# {{defn|lang=ko|sort=言09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đế]]|rs=言09}}
+
+# {{defn|lang=vi|sort=言09}}
+
+[[fr:諦]]
+[[ko:諦]]
+[[hu:諦]]
+[[mg:諦]]
+[[ja:諦]]
+[[pl:諦]]
+[[th:諦]]
+[[zh:諦]]

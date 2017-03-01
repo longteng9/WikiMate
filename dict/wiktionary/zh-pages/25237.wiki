@@ -1,0 +1,54 @@
+{{character info/new}}
+{{also|荭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=09|sn=15|four=44911|canj=TVFM}}
+
+# [[herb]]
+
+====References====
+* {{Han ref|kx=1044.180|dkj=31402|dj=1505.120|hdz=53259.070|uh=8452|ud=33874|bh=DFD2|bd=57298}}
+
+----
+
+==Chinese==
+{{zh-forms|s=荭}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hōng
+|c=hung4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:twedu|B03972}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸09}}
+
+# {{defn|lang=ja|sort=艸09}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[ぐ]] (gu)|kun=[[おおたで]] (ootade)|nanori=}}
+
+[[fr:葒]]
+[[hu:葒]]
+[[pl:葒]]
+[[th:葒]]
+[[zh:葒]]

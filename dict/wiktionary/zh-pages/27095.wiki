@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|谍}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=09|sn=16|four=04694|canj=YRPTD}}
+
+# an intelligence report
+# to [[spy]]
+# [[spying]]
+
+====References====
+* {{Han ref|kx=1169.200|dkj=35697|dj=1635.090|hdz=63994.070|uh=8ADC|ud=35548|bh=BFD2|bd=49106}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谍}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dié
+|c=dip6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|保密防諜|北非諜影|匪諜|反間諜|諜報|諜報人員|諜諜|間諜|間諜戰|間諜船|防諜}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言09}}
+
+# {{defn|lang=ja|sort=言09}}
+
+====Readings====
+* {{ja-readings|on=[[ちょう]] (chō)|kun=[[うかがう]] (ukagau), [[しめす]] (shimesu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=첩|eumhun=|rv=cheop|mr=ch'ŏp|y=chep}}
+
+# {{defn|lang=ko|sort=言09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|điệp|rs=言09}}
+
+# {{defn|lang=vi|sort=言09}}
+
+[[fr:諜]]
+[[hu:諜]]
+[[ja:諜]]
+[[pl:諜]]
+[[th:諜]]
+[[zh:諜]]

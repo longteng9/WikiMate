@@ -1,0 +1,99 @@
+{{character info/new}}
+{{also|赤}}
+==Translingual==
+{{stroke order}}
+
+===Han character===
+{{Han char|rn=8|rad=亠|as=04|sn=6|four=00330|canj=YLNC}}
+
+====Derived characters====
+* [[跡]] ([[迹]])
+* [[变]]/[[変]], [[弯]] {{qualifier|as simplification of [[䜌]]}}
+
+====Related characters====
+* [[立]]
+
+====References====
+* {{Han ref|kx=0088.090|dkj=00293|dj=0187.010|hdz=10281.030|uh=4EA6|ud=20134|bh=A5E7|bd=42471}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|i}} – a human figure (compare {{zh-l|*立}}) with water falling from them (roughly from arm pits). Original form of {{och-l|腋|armpit}} or {{och-l|液|liquid, sweat (under the armpits)}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=jik6
+|mn=qz:ia̍k/tw,xm,zz:e̍k/tw,xm,zz:ia̍h
+|mn_note=ia̍k/e̍k - literary; ia̍h - vernacular
+|w=5hhiq
+|mc=y
+|oc=y
+|ma=
+|cat=adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[also]]; [[too]]; [[likewise]]
+#* {{zh-x|...亦 以 皮 為 麻。|...its skin can '''also''' be used as fabric.|CL|ref={{RQ:Manshu|7|Tea, Trees, Herbs and Fruits|7}}}}
+#[[only]]
+
+====See also====
+* {{zh-l|也}}
+
+===Compounds===
+{{zh-der|不亦|不亦樂乎|亦步亦趨|亦然|人云亦云|死亦瞑目|盜亦有道}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=8|rs=亠04}}
+
+# {{defn|lang=ja|sort=亠04}}
+
+====Readings====
+* {{ja-readings|on=[[えき]] (eki), [[やく]] (yaku)|kun=[[また]] (mata)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=역|rv=yeok|mr=yŏk}}
+
+# {{defn|lang=ko|sort=亠04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|diệc|rs=亠04}}
+
+# {{defn|lang=vi|sort=亠04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4ea6 Nom Foundation]
+
+[[zh-min-nan:亦]]
+[[fr:亦]]
+[[ko:亦]]
+[[li:亦]]
+[[hu:亦]]
+[[mg:亦]]
+[[fj:亦]]
+[[ja:亦]]
+[[no:亦]]
+[[pl:亦]]
+[[th:亦]]
+[[chr:亦]]
+[[zh:亦]]

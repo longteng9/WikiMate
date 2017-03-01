@@ -1,0 +1,60 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=shānhújiāo
+|c=saan1 wu4 ziu1
+|mn=sān-ô͘-chiau
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[coral reef]]
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Coral reef}}
+[[File:Maldives_small_island.jpg|thumb|250px|{{lang|ja|珊瑚礁}} (''sango shō''): an [[atoll]] formed from a [[coral reef]]]]
+</div>
+{{ja-kanjitab|さん|ご|しょう|yomi=o}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=さんごしょう|珊瑚|tr1=sango|t1=coral|礁|tr2=shō|t2=reef}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=goon|さんご しょう|acc=3|acc_ref=DJR}}
+
+===Alternative forms===
+* {{l|ja|サンゴ礁}}
+
+===Noun===
+{{ja-noun|さんご しょう|hhira=さんごせう}}
+
+# a [[coral reef]]
+
+====Usage notes====
+As with many biology terms, the ''sango'' part is more commonly written in [[katakana]], as {{l|ja|サンゴ}}. However, due to the large number of [[homophone]]s in Japanese, dictionaries will often list such terms under the [[kanji]] spelling for [[disambiguation]] purposes.
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=산호초}}
+
+# {{hanja form of|산호초|coral reef}}
+
+[[ko:珊瑚礁]]
+[[mg:珊瑚礁]]
+[[ja:珊瑚礁]]
+[[zh:珊瑚礁]]

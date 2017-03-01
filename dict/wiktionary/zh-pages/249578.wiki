@@ -1,0 +1,57 @@
+{{also|太极}}
+==Chinese==
+{{zh-forms|s=太极}}
+
+===Pronunciation===
+{{zh-pron
+|m=tàijí
+|c=taai3 gik6
+|h=pfs=thai-khi̍t
+|mn=qz:thài-kia̍k/tw,xm,zz:thài-ke̍k
+|mn-t=tai3 gêg8
+|w=1tha jiq
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# The Absolute: the condition as it existed before the creation of the world
+# [[tai chi]]; [[taiji]]
+
+====Derived terms====
+{{zh-der|太極拳|打太極|太極劍|太極圖}}
+
+{{zh-cat|Martial arts}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|たい|きょく|yomi=on}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=たいきょく}} {{m|zh|sc=Hani|太極}}.
+
+===Pronunciation===
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|/ta.i.kjo.ku/|[täikjo̞kɯᵝ]|[täikjo̞kɯ̥ᵝ]}}
+
+===Alternative forms===
+* {{l|ja|大極}}
+
+===Noun===
+{{ja-noun|たいきょく}}
+
+# The [[absolute|Absolute]]: the condition as it existed before the creation of the world
+# a [[sword]] [[technique]] in the Yoshioka Kenpō school of [[kendō]]
+# {{lb|ja|sort=たいきょく|uncommon}} short for {{l|ja|太極拳|tr=''Taikyokuken''}}: [[w:Tai Chi Chuan|Tai Chi]]
+
+====Derived terms====
+[[File:Ancient_version_of_the_Taijitu_by_Lai_Zhi-De.svg|thumb|75px|{{l|ja|太極図}}]]
+* {{ja-r|太極拳|^たいきょくけん}}: [[w:Tai Chi Chuan|Tai Chi Chuan]]
+* {{ja-r|太極図|たいきょくず}}: an image of the [[absolute]], most commonly the [[yin-yang]] symbol
+* {{ja-r|太極図門|たいきょくず もん}}: a [[seal]] or [[crest]] using an image of the absolute
+
+[[zh-min-nan:太極]]
+[[ko:太極]]
+[[ja:太極]]

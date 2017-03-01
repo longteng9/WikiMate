@@ -1,0 +1,123 @@
+{{character info/new}}
+==Translingual==
+{{stroke_order}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=07|sn=10|four=67027|canj=RSQL|ids=⿰口那}}
+
+====References====
+* {{Han ref|kx=0190.180|dkj=03651|dj=0410.020|hdz=10623.070|uh=54EA|ud=21738|bh=ADFE|bd=44542}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=nǎ,něi,nǎi
+|ma=y
+|c=naa5
+|h=pfs=nai
+|mn=ná/xm,qz,zz:nó͘
+|mn_note=ná - vernacular; nó͘ - literary
+|w=3no,2'na
+|cat=pron
+}}
+{{attention|hak|nâ/nò}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[which]]; [[what]]; [[how]]
+#: {{zh-x|你 更 喜歡 哪 個，這 個 還是 那 個？|Which do you prefer: this one or that one?}}
+#: {{zh-x|你 是 從 哪 個 國家 來 的？|Which country are you from?}}
+# [[any]]
+#: {{zh-x|除 星期三 以外，我 哪 一 天 都 可以 來。|I can come any day except Wednesday.}}
+# ''as an indefinite determiner''
+#: {{zh-x|他 害怕 哪 天 天 會 塌 下來。|He is afraid that one day the sky will fall down.}}
+
+====Compounds====
+{{zh-der|哪邊|哪個|哪會兒|哪家裡|哪裡|哪門子|哪能|哪怕|哪兒|哪兒的話|哪天|哪些|哪樣}}
+
+====See also====
+* {{zh-l|那}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=na
+|c=naa1,naa3
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|Sentence-final particle, equivalent to {{zh-l|啊|tr=a}}.}}
+
+=====Usage notes=====
+Only used after words ending in -n.
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=哪
+|c=naa4,no4
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|哪吒}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口07}}
+
+# {{defn|lang=ja|sort=口07}}
+
+====Readings====
+* {{ja-readings|on=[[だ]] (da), [[な]] (na)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=나|mr=na}}
+
+# {{defn|lang=ko|sort=口07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ná]], [[nư]], [[na]], [[nạ]]|rs=口07}}
+
+# {{defn|lang=vi|sort=口07}}
+
+[[zh-min-nan:哪]]
+[[fr:哪]]
+[[hu:哪]]
+[[mg:哪]]
+[[fj:哪]]
+[[ja:哪]]
+[[no:哪]]
+[[pl:哪]]
+[[ta:哪]]
+[[th:哪]]
+[[chr:哪]]
+[[uk:哪]]
+[[zh:哪]]

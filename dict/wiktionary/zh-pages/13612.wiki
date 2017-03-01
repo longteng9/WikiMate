@@ -1,0 +1,136 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=04|sn=7|four=44447|canj=VJE|ids=⿰女支}}
+
+# [[prostitute]]
+# [[woman]] who [[entertain]]s
+
+====References====
+* {{Han ref|kx=0256.170|dkj=06083|dj=0520.150|hdz=21029.170|uh=5993|ud=22931|bh=A7B2|bd=42930}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|技}}. Literally a woman who entertains with an ability.
+{{rfe|zh|Err, why not phono-semantic??}}
+
+===Pronunciation===
+{{zh-pron
+|m=jì
+|c=gei6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|妓女}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女04}}
+
+# {{defn|lang=ja|sort=女04}}
+
+====Readings====
+{{ja-readings|goon=[[ぎ]] (gi)|kanon=[[き]] (ki)|kun=[[わざおぎ]] (wazaogi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|愛妓|あいぎ}}
+* {{ja-r|歌妓|かぎ}}
+* {{ja-r|歌舞妓|かぶき}}
+* {{ja-r|官妓|かんぎ}}
+* {{ja-r|妓生|キーセン}}, {{ja-r|妓生|ぎせい}}
+* {{ja-r|妓院|ぎ.いん}}
+* {{ja-r|妓家|ぎか}}
+* {{ja-r|妓楽|ぎがく}}
+* {{ja-r|妓館|ぎかん}}
+* {{ja-r|妓女|ぎじょ}}
+* {{ja-r|妓籍|ぎせき}}
+* {{ja-r|妓名|ぎめい}}
+* {{ja-r|妓夫|ぎゅう}}, {{ja-r|妓夫|ぎふ}}
+* {{ja-r|妓楼|ぎろう}}
+* {{ja-r|芸妓|げいぎ}}
+* {{ja-r|芸娼妓|げいしょうぎ}}
+* {{ja-r|絃妓|げんぎ}}
+* {{ja-r|狎妓|こうぎ}}
+* {{ja-r|小妓|しょうぎ}}
+* {{ja-r|娼妓|しょうぎ}}
+* {{ja-r|新妓|しんこ}}
+* {{ja-r|雛妓|すうぎ}}
+* {{ja-r|声妓|せいぎ}}
+* {{ja-r|美妓|びぎ}}
+* {{ja-r|舞妓|ぶぎ}}: female dancer
+* {{ja-r|舞妓|まいこ}}: dancing girl, particularly a [[maiko]]
+* {{ja-r|名妓|めいぎ}}
+* {{ja-r|老妓|ろうぎ}}
+{{der-bottom}}
+
+{{ja-kanjitab|ぎ|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=き'}} {{m|zh|妓||female entertainer}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|ぎ|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ぎ}}
+
+# female entertainer
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|rv=gi|mr=ki}}
+
+# {{defn|lang=ko|sort=女04}}
+
+====Compounds====
+* [[妓生]] ([[기생]], kisaeng, gisaeng)
+* [[妓女]] ([[기녀]], ginyeo)
+* [[舞妓]] ([[무기]], mugi)
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kĩ]], [[đĩ]], [[kỹ]]|rs=女04}}
+
+# {{defn|lang=vi}}
+
+[[fr:妓]]
+[[ko:妓]]
+[[li:妓]]
+[[hu:妓]]
+[[mg:妓]]
+[[ja:妓]]
+[[no:妓]]
+[[pl:妓]]
+[[th:妓]]
+[[zh:妓]]

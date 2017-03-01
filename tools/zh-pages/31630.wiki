@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|騈|骈}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=06|sn=16|four=78341|canj=SFTT}}
+
+# team of horses
+# [[associate]], [[join]]
+
+====References====
+* {{Han ref|kx=1437.150|dkj=44696|dj=1961.240|hdz=74555.070|uh=99E2|ud=39394|bh=C063|bd=49251}}
+
+----
+
+==Chinese==
+{{zh-forms|s=骈}}
+
+===Alternative forms===
+* {{zh-l|騈}}
+
+===Pronunciation===
+{{zh-pron
+|m=pián
+|c=pin4,ping4
+|h=pfs=
+|md=
+|mn=qz,xm,zz:piân/xm:phiân
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬06}}
+
+# {{defn|lang=ja|sort=馬06}}
+
+====Readings====
+* {{ja-readings|on=[[へん]] (hen), [[べん]] (ben)|kun=[[ならぶ]] (narabu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[변]], [[병]]|eumhun=|rv=byeon, byeong|mr=pyŏn, pyŏng|y=pyen, pyeng}}
+
+# {{defn|lang=ko|sort=馬06}}
+
+[[fr:駢]]
+[[hu:駢]]
+[[ja:駢]]
+[[pl:駢]]
+[[th:駢]]
+[[vi:駢]]
+[[zh:駢]]

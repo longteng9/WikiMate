@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|袜|韈}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=15|sn=21|four=34253|canj=LTWI|ids=⿰衤蔑}}
+
+# [[socks]], [[stockings]]
+
+====References====
+* {{Han ref|kx=1126.400|dkj=34696|dj=1593.410|hdz=53119.100|uh=896A|ud=35178|bh=C4FB|bd=50427}}
+
+----
+
+==Chinese==
+{{zh-forms|s=袜}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=wà
+|c=mat6
+|g=uah6
+|h=pfs=mat
+|j=vah4
+|md=uăk
+|mn=qz,xm,zz:boa̍t/zz,kh,tn,tc,yl:boe̍h/tp,mg,hc:be̍h/qz,lk,hc,km:be̍rh/sx:bēr
+|mn_note=boa̍t - literary; boe̍h/be̍h/be̍rh/bēr - vernacular
+|w=5maq
+|x=ua6
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[socks]]
+
+====Derived terms====
+{{zh-der|襪仔|長襪|大腿襪|手襪|襪帶|襪子}}
+
+{{zh-cat|Footwear|Underwear}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=衣15}}
+
+# {{defn|lang=ja|sort=衣15}}
+
+====Readings====
+{{ja-readings|goon=[[もち]] (mochi)|kanon=[[ばつ]] (batsu)|kanyoon=[[べつ]] (betsu)|kun=[[たび]] (tabi), [[くつした]] (kutsushita)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=말|eumhun=|rv=mal|mr=mal|y=mal}}
+
+# ([[버선]] 말, ''beoseon-''): [[sock]]s, [[footmuff]]s of Korean tradition
+
+====Synonyms====
+* {{l|ko|韈}} ([[말]], ''mal'')
+
+====Compounds====
+* [[洋襪]] ([[양말]], ''yangmal'') Western [[sock]]s, [[stocking]]s
+
+[[Category:Hanja readings|말]]
+
+[[zh-min-nan:襪]]
+[[fr:襪]]
+[[lo:襪]]
+[[hu:襪]]
+[[mg:襪]]
+[[ja:襪]]
+[[pl:襪]]
+[[th:襪]]
+[[zh:襪]]

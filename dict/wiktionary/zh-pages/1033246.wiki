@@ -1,0 +1,25 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=mòfēi
+|c=mok6 fei1
+|h=pfs=mo̍k-fî
+|mn=bo̍k-hui
+|cat=adv
+}}
+
+===Adverb===
+{{zh-adv}}
+
+# {{lb|zh|literary}} it is none other than
+# {{lb|zh|literary}} is it not; can it be that; can it be possible that
+#* {{zh-x|耶和華 說，誰 告訴 你 赤身露體 呢？'''莫非''' 你 吃 了 我 吩咐 你 不可 吃 的 那 樹 上 的 果子 嗎？|And he said, Who told thee that thou wast naked? '''Hast thou''' eaten of the tree, whereof I commanded thee that thou shouldest not eat?}}
+#* {{zh-x|今天 下午 我 心情 太 激動 了，'''莫非''' 是 我 病 了 嗎？|I've been way too nervous this afternoon. Am I sick?}}
+
+====Synonyms====
+* {{sense|can it be possible that}} {{zh-l|難道}}
+
+[[zh-min-nan:莫非]]
+[[zh:莫非]]

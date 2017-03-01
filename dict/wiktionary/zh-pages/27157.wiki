@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|谜}}
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|迷|c1=s|c2=p|ls=psc}}.
+
+===Han character===
+{{Han char|rn=149|rad=言|as=10|sn=17|four=09639|canj=YRYFD|ids=⿰訁迷}}
+
+====References====
+* {{Han ref|kx=1174.310|dkj=35800|dj=1639.160|hdz=64001.080|uh=8B0E|ud=35598|bh=C1BC|bd=49596}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谜|alt=詸,䛧}}
+
+===Alternative forms===
+* {{qualifier|Mandarin}} {{zh-l|謎兒|mèir}} (''[[erhua]]-ed with pronunciation changes'')
+
+===Pronunciation===
+{{zh-pron
+|m=mí,mì,mèi,mèir,2nb=erhua-ed
+|c=mai4,mai6
+|h=pfs=mì
+|mn=bī/bê
+|mn-t=mi6
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[riddle]], [[mystery]], [[enigma]]
+
+====Derived terms====
+{{zh-der|謎底|謎面|謎團|謎語|一謎|商謎|啞謎|囫圇謎|字謎|打啞謎|打燈謎|打謎|撒謎語|燈謎|猜啞謎|猜謎|破謎兒|解謎|詩謎|謎兒|謎學|謎寐|謎言謎語|謎頭|謎題}}
+
+===References===
+* {{R:twedu|A03871}}
+* [http://yedict.com/htm/8C/8C1C.htm yedict.com (叶典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言10}}
+
+# [[puzzle]]
+
+====Readings====
+* {{ja-readings|on=[[めい]] (mei)|kun=[[なぞ]] (nazo)|nanori=}}
+
+===Noun===
+{{ja-noun|なぞ}}
+
+# a [[mystery]]
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 謎]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=미|eumhun=|rv=mi|mr=mi|y=mi}}
+
+# {{defn|lang=ko|sort=言10}}
+
+[[fr:謎]]
+[[lo:謎]]
+[[lt:謎]]
+[[li:謎]]
+[[hu:謎]]
+[[mg:謎]]
+[[ja:謎]]
+[[pl:謎]]
+[[tl:謎]]
+[[th:謎]]
+[[chr:謎]]
+[[zh:謎]]

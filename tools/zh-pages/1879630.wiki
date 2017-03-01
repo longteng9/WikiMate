@@ -1,0 +1,23 @@
+==Chinese==
+{{zh-forms|gloss=-}}
+
+===Etymology===
+[[transliteration|Transliteration]] of {{etyl|fr|zh}} {{m|en|calorie}}.
+
+===Pronunciation===
+{{zh-pron
+|m=kǎlùlǐ
+|c=kaa1 lou6 lei5
+|h=pfs=khà-lo-lí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[calorie]]
+
+====See also====
+* {{zh-l|熱量}}
+
+[[zh:卡路里]]

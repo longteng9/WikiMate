@@ -1,0 +1,129 @@
+{{character info/new}}
+{{also|圆|円|圎|圜}}
+==Translingual==
+{{Han simplified forms|圓|円|圆}}
+
+===Han character===
+{{Han char|rn=31|rad=囗|as=10|sn=13|four=60806|canj=WRBC|ids=⿴囗員}}
+
+# [[circle]]
+
+====References====
+* {{Han ref|kx=0220.090|dkj=04819|dj=0451.140|hdz=10724.070|uh=5713|ud=22291|bh=B6EA|bd=46826}}
+
+----
+
+==Chinese==
+{{zh-forms|s=圆|alt=円-Japanese yen only}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|囗|員|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yuán
+|c=jyun4,jen1
+|c_note=jen1 - "yen" (Hong Kong colloquial borrowing from {{etyl|en|zh}})
+|h=pfs=yèn
+|md=
+|mn=qz,tw,xm,zz:oân/qz,tw,xm,zz:îⁿ
+|mn_note=oân - literary; îⁿ - vernacular
+|w=3hhyoe
+|mc=y
+|oc=y
+|ma=y
+|mna=Taiwanese-The_Vowel_inn.ogg
+|cat=a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|mathematics}} [[circle]]
+# {{lb|cmn|Beginning Mandarin}} [[circular]], [[round]]
+# [[yen]] (Japanese currency)
+
+====Compounds====
+{{der5
+|{{zh-l|圓白菜}}
+|{{zh-l|圓場}}
+|{{zh-l|圓嘟嘟}}
+|{{zh-l|圓骨碌}}
+|{{zh-l|圓鼓鼓}}
+|{{zh-l|圓規}}
+|{{zh-l|圓活}}
+|{{zh-l|圓滿}}
+|{{zh-l|圓夢}}
+|{{zh-l|圓圈}}
+|{{zh-l|圓圈兒}}
+|{{zh-l|圓潤}}
+|{{zh-l|圓珠筆}}
+|{{zh-l|圓錐}}
+|{{zh-l|湯圓}}
+|{{zh-l|桂圓肉}}
+}}
+
+----
+
+==Japanese==
+{{ja-forms|[[円]]|[[圆]]|圓}}
+
+===Kanji===
+{{ja-kanji|grade=8|rs=囗10|style=ky|shin=円}}
+
+# [[round]]; [[circle]]
+# [[yen]]
+
+====Readings====
+{{ja-kanjitab|えん|yomi=o}}
+* {{ja-readings
+|on=[[えん]] (en) < [[ゑん]] (wen)
+|kun=[[まるい]] (marui)}}
+
+===Noun===
+{{ja-noun|えん|shin=円|hhira=ゑん}}
+
+# [[yen]]
+# [[circle]]
+
+[[Category:ja:Currency|えん]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Hanja===
+{{ko-hanja|hangeul=원|eumhun=둥글|mr=wŏn|ehmr=tunggŭl}}
+
+# [[won]], [[circle]]
+
+===Noun===
+{{ko-noun|hj|hangeul=원}}
+
+# {{hanja form of|원|[[won]], [[circle]]}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[viên]], [[vin]]|rs=囗10}}
+
+# {{defn|lang=vi|sort=囗10}}
+
+[[Category:Kennybot testing category]]
+
+[[zh-min-nan:圓]]
+[[fr:圓]]
+[[ko:圓]]
+[[li:圓]]
+[[hu:圓]]
+[[mg:圓]]
+[[ms:圓]]
+[[ja:圓]]
+[[pl:圓]]
+[[th:圓]]
+[[chr:圓]]
+[[zh:圓]]

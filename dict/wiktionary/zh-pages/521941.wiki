@@ -1,0 +1,61 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qǔdé
+|c=ceoi2 dak1
+|ma=zh-qǔdé.ogg
+|mn=qz,tw,xm:chhú-tit/zz:chhí-tit/xm,zz:chhí-tek
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[gain]]; to [[obtain]]
+#: {{zh-x|取得 勝利|to win}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅ|とく|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|しゅとく|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|しゅとく}}
+
+# [[acquisition]]
+
+====Synonyms====
+* {{ja-r|入手|にゅうしゅ}}
+
+===Verb===
+{{ja-verb-suru|しゅとく}}
+
+# [[acquire]]
+
+====Conjugation====
+{{ja-suru|しゅとく}}
+
+====Synonyms====
+* {{ja-r|手に入れる|て に いれる}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[zh-min-nan:取得]]
+[[fr:取得]]
+[[ko:取得]]
+[[hu:取得]]
+[[mg:取得]]
+[[ja:取得]]
+[[ta:取得]]
+[[chr:取得]]
+[[uk:取得]]
+[[zh:取得]]

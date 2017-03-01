@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|砺}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=15|sn=20|four=11627|canj=MRMTB|ids=⿰石厲}}
+
+# [[whetstone]]
+# [[sharpen]]
+
+====References====
+* {{Han ref|kx=0838.230|dkj=24571|dj=1255.250|hdz=42461.050|uh=792A|ud=31018|bh=C472|bd=50290}}
+
+----
+
+==Chinese==
+{{zh-forms|s=砺}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lì
+|c=lai6
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=石15|style=ky|shin=砺}}
+
+# {{defn|lang=ja|sort=石15}}
+
+====Readings====
+* {{ja-readings|on=[[れい]] (rei)|kun=[[あらと]] (arato), [[みがく]] (migaku), [[と]] (to)|nanori=[[と]] (to)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[려]]>[[여]]|eumhun=|rv=ryeo>yeo|mr=ryŏ>yŏ|y=lye>ye}}
+
+# {{defn|lang=ko|sort=石15}}
+
+[[zh-min-nan:礪]]
+[[fr:礪]]
+[[hu:礪]]
+[[ja:礪]]
+[[pl:礪]]
+[[th:礪]]
+[[chr:礪]]
+[[zh:礪]]

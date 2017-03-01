@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=guǐhuǒ
+|c=gwai2 fo2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun|mw=團}}
+
+# [[will-o'-the-wisp]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|鬼|火}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=おにび|鬼|tr1=oni|t1=ghost, devil|火|tr2=hi|t2=fire}}. The ''hi'' changes to ''bi'' due to {{rendaku|おにび}}.
+
+===Noun===
+{{ja-noun|おにび}}
+
+# a [[will o' the wisp]]
+
+====Synonyms====
+* {{ja-r|狐火|きつねび}}
+* {{ja-r|陰火|いんか}}
+* {{ja-r|幽霊火|ゆうれいび}}
+* {{ja-r|野火|やか}}
+
+====See also====
+* {{pedialite|lang=ja}}
+* {{pedialite|Will-o'-the-wisp}}
+
+===Proper noun===
+{{ja-pos|proper|おにび}}
+
+# short for {{l|ja|鬼火焚|tr=''Onibitaki''}}, a [[fire]] ''[[matsuri]]'' (Japanese [[festival]]) held around [[Kyūshū]] on 7 (in some places, 14) January
+
+====Synonyms====
+* {{sense|January fire festivals, not just in Kyūshū}}
+** {{ja-r|左義長|^さぎちょう}}, {{ja-r|三毬杖|^さぎちょう}}
+** {{ja-r|道祖土焼|^さいとやき}}, {{ja-r|塞灯焼|^さいとやき}}
+** {{ja-r|どんど|caps=y}}
+** {{ja-r|どんどやき|caps=y}}
+** {{ja-r|どんどんやき|caps=y}}
+* {{sense|fire festival in general}} {{ja-r|火祭り|ひまつり}}
+
+[[hu:鬼火]]
+[[mg:鬼火]]
+[[zh:鬼火]]

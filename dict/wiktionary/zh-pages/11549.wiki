@@ -1,0 +1,116 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=5}}
+{{stroke order|strokes=5|type=jbw}}
+
+===Han character===
+{{Han char|rn=17|rad=凵|as=03|sn=5|four=77777|canj=BSS}}
+
+# [[protrude]], [[bulge]] out, [[convex]]
+
+====Antonyms====
+* {{l|mul|凹}}
+
+====References====
+* {{Han ref|kx=0135.090|dkj=01809|dj=0301.050|hdz=10307.060|uh=51F8|ud=20984|bh=A559|bd=42329}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tū,tú,dié,1nb=standard in Mainland; variant in Taiwan,2nb=Taiwan,3nb=variant
+|c=dat6
+|h=pfs=thu̍t
+|mn=qz,xm,zz:tu̍t/qz,xm,zz:thu̍t
+|mc=y
+|oc=y
+|ma=Zh-tu.ogg
+|cat=v,a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[convex]]
+
+=====Antonyms=====
+* {{zh-l|凹|concave}}
+
+====Compounds====
+* {{zh-l|凹凸}}
+* {{zh-l|凸版}}
+* {{zh-l|凸輪}}
+* {{zh-l|凸面鏡}}
+* {{zh-l|凸透鏡}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=凵03}}
+[[File:凸-jbw.png|right|thumb]]
+
+====Readings====
+* {{ja-readings|on=[[とつ]] (totsu)|kun=[[でこ]] (deko)}}
+
+====Compounds====
+* {{ja-r|凹凸|おうとつ}}: bumpy, uneven
+* {{ja-r|凸凹|でこぼこ}}: bumpy, uneven
+* {{ja-r|凸版|とっぱん}}: [[letterpress]], relief printing
+
+===Etymology 1===
+
+====Adjectival noun====
+{{ja-adj|infl=な|とつ}}
+
+# [[convex]]
+
+=====Inflection=====
+{{ja-na|とつ}}
+
+===Etymology 2===
+
+====Noun====
+{{ja-noun|でこ}}
+
+# [[forehead]]
+
+=====See also=====
+* {{ja-r|額|ひたい}}
+* {{ja-r|お凸|おでこ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[철]], [[돌]]|rv=cheol, dol|mr=ch'ŏl, tol}}
+
+# {{defn|lang=ko|sort=凵03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đột]]|rs=凵03}}
+
+# {{defn|lang=vi|sort=凵03}}
+
+[[fr:凸]]
+[[ko:凸]]
+[[li:凸]]
+[[hu:凸]]
+[[mg:凸]]
+[[ms:凸]]
+[[ja:凸]]
+[[no:凸]]
+[[pl:凸]]
+[[th:凸]]
+[[zh:凸]]

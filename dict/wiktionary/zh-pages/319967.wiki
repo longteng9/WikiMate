@@ -1,0 +1,95 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dìfāng,tl=y,er=y
+|ma=zh-dìfang.ogg
+|c=dei6 fong1
+|g=ti5 fong
+|h=pfs=thi-fông
+|j=di3 fon2/di3 fon1
+|mn=xm,qz,zz,twk,sx,tc:tē-hng/twt:tōe-hng/xm,qz,zz,twvk:tē-hong/twvt:tōe-hong
+|mn-t=di7 hng1
+|w=3di faan
+|x=di5 fan
+|cat=n,a
+}}
+{{attention|zh|pron needs splitting for toneless?}}
+
+===Noun===
+{{zh-noun}}
+
+# [[place]]; [[region]]; [[area]]
+#: {{zh-x|一個 陌生 的 地方|an unfamiliar '''place'''}}
+#: {{zh-x|我 這個 地方{fang} 有 點 疼。|I've got a pain here (lit.: in this '''place''').}}
+# [[part]]; [[aspect]]
+
+====Synonyms====
+* {{sense|place}} {{zh-l|部位}}, {{zh-l|場地}}, {{zh-l|場所}}, {{zh-l|處所}}, {{zh-l|地點}}, {{zh-l|去處}}, {{zh-l|所在}}, {{zh-l|位置}}
+{{zh-dial}}
+
+===Usage notes===
+* Unlike Mandarin, {{lang|zh|地方}} is rarely used in Min Nan. Use {{zh-l|所在|só͘-chāi}} instead.
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[regional]]; [[local]]
+#: {{zh-x|布袋戲 是 一 種{chióng} 地方 戲劇{kio̍k}。|Glove puppetry is a kind of '''regional''' theatre.|MN}}
+
+===Derived terms===
+{{zh-der|地方保護主義|地方病|地方官|地方話|地方糧票|地方民族主義|地方時|地方稅|地方戲|地方性|地方政府|地方志|地方種群|地方主義}}
+
+{{zh-cat|Beginning}}
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ち|ほう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ちほう|y=o|acc=1|acc2=2|acc_ref=NHK|acc2_ref=NHK}}
+* {{homophones|lang=ja|痴呆}}
+
+===Noun===
+{{ja-noun|ちほう|hhira=ちはう}}
+
+# [[district]], [[province]], [[area]]
+
+===References===
+* {{R:Shogakukan}}
+<references/>
+
+[[Category:Japanese basic words|ちほう]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=지방}}
+
+# {{hanja form of|지방|a geographical region}}
+
+[[zh-min-nan:地方]]
+[[fr:地方]]
+[[ko:地方]]
+[[sw:地方]]
+[[ku:地方]]
+[[lo:地方]]
+[[lt:地方]]
+[[li:地方]]
+[[hu:地方]]
+[[mg:地方]]
+[[fj:地方]]
+[[ja:地方]]
+[[ru:地方]]
+[[fi:地方]]
+[[tl:地方]]
+[[ta:地方]]
+[[chr:地方]]
+[[uk:地方]]
+[[zh:地方]]

@@ -1,0 +1,67 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=shízhǐ
+|c=sik6 zi2
+|mn=si̍t-chí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[index finger]]
+# [[mouth]]s to [[feed]]
+
+====Synonyms====
+{{zh-dial}}
+
+====Derived terms====
+{{zh-der|食指大動|食指浩繁}}
+
+{{zh-cat|Fingers}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=irr|sort=ひとさし}}
+{{ja-kanjitab|ひとさし|ゆび|yomi=irr|sort=ひとさしゆび}}
+{{ja-kanjitab|しょく|し|yomi=o}}
+
+===Etymology===
+From {{der|ja|zh|食指|sort=しょくし}}. The kanji is {{juku|sort=ひとさしゆび}}.
+
+===Alternative forms===
+* {{ja-l|人差し指}}
+* {{ja-l|人差し}}, {{ja-l|人差}}
+
+===Pronunciation===
+{{ja-pron|しょくし|dev=3|acc=1|acc2=0|acc_ref=DJR,SMK5,NHK|acc2_ref=DJR,NHK|y=ko}}
+* {{hmp|lang=ja|食思|喞子|職司|sort=しょくし}}
+{{ja-pron|ひとさしゆび|dev=1|acc=4|y=i}}
+{{ja-pron|ひとさし|dev=1|acc=2|y=i}}
+
+===Noun===
+{{ja-noun|しょくし|hhira=しよくし}}<br>{{ja-altread|hira=ひとさしゆび}}<br>{{ja-altread|hira=ひとさし}}
+
+# an [[index finger]]; a [[forefinger]]
+
+====Idioms====
+* {{ja-r|食%指が動く|しょく%し が うごく|feel a strong desire for}}
+
+===References===
+<references/>
+
+{{C|ja|Fingers|sort=しょくし}}
+[[ko:食指]]
+[[lo:食指]]
+[[lt:食指]]
+[[hu:食指]]
+[[mg:食指]]
+[[ja:食指]]
+[[zh:食指]]

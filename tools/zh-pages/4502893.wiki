@@ -1,0 +1,41 @@
+{{also|杀伤}}
+==Chinese==
+{{zh-forms|s=杀伤}}
+
+===Pronunciation===
+{{zh-pron
+|m=shāshāng
+|c=saat3 soeng1
+|mn=qz,tw,xm:sat-siong/zz:sat-siang
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[hurt]] and [[kill]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|さつ|k1=さっ|しょう|yomi=on}}
+
+===Noun===
+{{ja-noun|さっしょう}}
+
+# An act of [[hurting]] and [[killing]] someone or something.
+#: {{ja-usex|'''殺傷'''沙汰になった。|'''さっしょう''' ざた に なった。|The incident ended in violence.}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|さっしょう}}
+
+# kill or injure
+#: {{ja-usex|一家３人を殺傷した|いっけ さん にん を さっしょう した|a household of three was attacked}}
+
+====Conjugation====
+{{ja-suru|さっしょう}}
+
+[[ko:殺傷]]
+[[hu:殺傷]]
+[[ja:殺傷]]
+[[zh:殺傷]]

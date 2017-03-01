@@ -1,0 +1,59 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=07|sn=9|four=21261|canj=OMMR|ids=⿰亻吾}}
+
+# {{defn|Han|sort=人07}}
+
+====References====
+* {{Han ref|kx=0104.140|dkj=00673|dj=0220.130|hdz=10157.050|uh=4FC9|ud=20425|bh=CDE1|bd=52705}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wǔ
+|c=ng6
+|mc=
+|oc=
+|ma=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人07}}
+
+# {{defn|lang=ja|sort=人07}}
+
+====Readings====
+* {{ja-readings|on=[[ご]] (go)|kun=[[むかえる]] (mukaeru), [[あう]] (au)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=오|rv=o|mr=o}}
+
+# {{defn|lang=ko|sort=人07}}
+
+[[fr:俉]]
+[[li:俉]]
+[[hu:俉]]
+[[ja:俉]]
+[[pl:俉]]
+[[th:俉]]
+[[zh:俉]]

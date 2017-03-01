@@ -1,0 +1,141 @@
+{{character info/new}}
+{{also|慾}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}{{Han compound|谷|欠|t2=blow|ls=psc|c1=p|c2=s}}.
+
+===Han character===
+{{Han char|rn=76|rad=欠|as=07|sn=11|four=87682|canj=CRNO|ids=⿰谷欠}}
+
+# to [[desire]], [[want]], [[long for]] <!-- Is this by simplification of 慾, or is this earlier? -->
+# [[intend]]
+
+====Derived characters====
+* [[慾]]
+
+====References====
+* {{Han ref|kx=0567.360|dkj=16080|dj=0956.100|hdz=32140.070|uh=6B32|ud=27442|bh=B1FD|bd=45565}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=yù
+|c=juk6
+|h=pfs=yu̍k
+|mn=io̍k
+|w=
+|mc=y
+|oc=y
+|ma=y
+|cat=v,n,adv
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[wish]], [[desire]]
+# to [[wish]], to [[desire]], to [[want]]
+#: {{zh-x|工 欲 善 其 事，必 先 利 其 器。|If a workman '''wishes''' to do a good job, he must first sharpen his tools.|ref="Duke Ling of Wei," ''Analects of Confucius'' (《論語·衛靈公》)|CL}}
+#: {{zh-x|如 閣下 欲 以 電郵 聯絡 政府 資訊 中心，請 透過 網頁：XYZ 傳送 問題。|Please send your [[enquiry|enquiries]] and suggestions to the Public Information Centre by email via the homepage: XYZ.}}
+# [[about to]]
+
+====Compounds====
+{{zh-der|欲望}}
+
+===Etymology 2===
+{{zh-forms|alt=卜,要,勃-Min Dong,剝-Min Dong}}
+
+====Pronunciation====
+{{zh-pron
+|md=buóh
+|md_note=semantic (訓用字)
+|mn=xm,zz,tp,yl,tn,kh,hc,tc:beh/qz,lk,sx,km:berh/zz:boeh/mg:boh
+|mn_note=semantic (訓用字)
+|dial=n
+|cat=v,adv,con
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Hokkien|Min Dong}} to [[want]]
+#: {{zh-x|你 欲 佮 我 去 圖書館 無？|Do you '''want''' to go to the library with me?|MN}}
+# {{lb|zh|Hokkien|Min Dong}} [[about to]]
+#: {{zh-x|欲 落雨 矣，咱 著[着] 出去 收衫。|It's '''about to''' rain! Let's go out to bring in the laundry.|MN|tr=Beh lo̍h-hō͘--ah, lán tio̍h chhut-khì siu-saⁿ.}}
+# {{lb|zh|Hokkien}} [[if]]
+#: {{zh-x|欲 我，我 就{tō} 會 較早 睏。|'''If''' I were you, I would've slept earlier.|MN}}
+
+====Compounds====
+{{zh-der|欲暗仔:beh-àm-á, boeh-àm-á|欲呢:beh-nî, boeh-nî|欲知<!-- :beh-tsai, boeh-tsai -->|強欲:kiōng-beh, kiōng-boeh|拄欲:tú beh, tú boeh|咧欲<!-- :teh-beh, teh-boeh, tih-beh, tih-boeh -->|嘛欲:mā beh, mā boeh}}
+
+===See also===
+* {{zh-l|要|tr=yào}}
+
+===References===
+* {{thcwdq|欲}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=欠07}}
+
+# {{defn|lang=ja|sort=欠07}}
+
+====Readings====
+* {{ja-readings|goon=[[よく]] (yoku)|kanon=[[よく]] (yoku)|kun=　1. [[ほしい]] (hoshi-i)}}
+** 　　　2. [[ほっする]] (hos-suru), from [[ほりす]] (hor-i-su)
+** 　　　3. [archaic] [[ほる]] (hor-u)
+** '''[[Manyō-gana]]''': [[よ]] (yo) [back-vowel variant([[甲類]])]
+
+====Usage notes====
+This character was sometimes used to phonetically transcribe the Old Japanese word for “night” (yo). [cf. Manyōshū : 4134]
+
+====Compounds====
+* [[愛欲]]
+* [[強欲]]
+* [[色欲]]
+* [[食欲]]
+* [[性欲]]
+* [[大欲]]
+* [[物欲]]
+* [[無欲]]
+* [[名誉欲]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[욕]]|eumhun=바랄 욕 (para-r yok)|rv=yok|mr=yok|y=yok}}
+
+# {{defn|lang=ko|sort=欠07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dục]], [[giục]]|rs=欠07}}
+
+# {{defn|lang=vi|sort=欠07}}
+
+[[zh-min-nan:欲]]
+[[fr:欲]]
+[[ko:欲]]
+[[lo:欲]]
+[[hu:欲]]
+[[mg:欲]]
+[[ja:欲]]
+[[no:欲]]
+[[pl:欲]]
+[[th:欲]]
+[[zh:欲]]

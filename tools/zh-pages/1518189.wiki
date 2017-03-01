@@ -1,0 +1,44 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=hǎizǎo
+|c=hoi2 zou2
+|mn=hái-chó
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[seaweed]] (A [[herb]] used in [[traditional Chinese medicine]].)
+
+====Synonyms====
+* {{zh-l|海草}}
+* {{zh-l|海帶}}
+* {{zh-l|昆布}}
+
+===References===
+* {{pedialite|海藻|lang=zh}}
+* Nigel Wiseman, "English-Chinese Chinese-English Dictionary of Chinese Medicine", 1995. ISBN 7-5357-1656-3.
+* http://www.trade.gov.bt/administration/mktbriefs/10.pdf
+* http://www.koreantk.com/en/m_sta/med_stat_search.jsp?searchGbn=statis
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|そう|yomi=o}}
+
+===Noun===
+{{ja-noun|かいそう}}
+
+# [[seaweed]]
+
+====Usage notes====
+To be distinguished from {{ja-r|海草|かいそう}}, which means [[seagrass]].
+
+[[zh-min-nan:海藻]]
+[[mg:海藻]]
+[[ja:海藻]]
+[[zh:海藻]]

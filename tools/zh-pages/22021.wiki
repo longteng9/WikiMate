@@ -1,0 +1,94 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=08|sn=13|four=13612|canj=MRJNU|ids=⿰石宛}}
+
+====References====
+* {{Han ref|kx=0832.211|dkj=24306|dj=1249.080|hdz=42440.100|uh=7897}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=盌,椀}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|石|宛|ls=psc|c1=s|c2=p|t1=stone}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wǎn,er=y
+|c=wun2
+|h=pfs=vón
+|md=uāng
+|mn=qz,xm,zz:oán/óaⁿ
+|mn_note=oán - literary; óaⁿ - vernacular
+|mn-t=uan2
+|w=2uoe
+|mc=y
+|oc=y
+|ma=y
+|cat=n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[bowl]] {{zh-mw|m:個|c:隻}}
+# [[bowl]]-like object
+# {{zh-classifier|the [[quantity]] of a [[bowl]]|t=[[bowlful]]}}
+
+===Compounds===
+{{zh-der|七碗茶|五牲看碗|大碗公|大盤大碗|供碗|丟飯碗|碗子|泥飯碗|打碗頭|碗盤|打破飯碗|找飯碗|碗足兒|碗脫|碗粿|碗筷|碗碗腔|碗公|砸飯碗|白定碗|海碗|洗碗機|搶飯碗|瓷飯碗|烘碗機|折碗|舔碗邊|鐵飯碗|箸長碗短|紙飯碗|茶碗|飯碗|電碗|鍋碗瓢盆|金飯碗|蓋碗}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=石08}}
+
+# {{defn|lang=ja|sort=石08}}
+
+====Readings====
+* {{ja-readings|on=[[わん]] (wan)|kun=[[こばち]] (kobachi), [[わん]] (wan)|nanori=}}
+
+====Compounds====
+* {{ja-r|茶碗|ちゃわん}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=완|eumhun=|rv=wan|mr=wan|y=wan}}
+
+# {{defn|lang=ko|sort=石08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[oản]], [[uyển]]|rs=石08}}
+
+# {{defn|lang=vi|sort=石08}}
+
+[[zh-min-nan:碗]]
+[[fr:碗]]
+[[ko:碗]]
+[[kn:碗]]
+[[li:碗]]
+[[hu:碗]]
+[[mg:碗]]
+[[ja:碗]]
+[[no:碗]]
+[[uz:碗]]
+[[pl:碗]]
+[[sr:碗]]
+[[ta:碗]]
+[[th:碗]]
+[[chr:碗]]
+[[uk:碗]]
+[[zh:碗]]

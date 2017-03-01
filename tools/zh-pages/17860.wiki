@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=09|sn=13|four=42964|canj=DHJU|ids=⿰木盾}}
+
+====References====
+* {{Han ref|kx=0541.100|dkj=15173|dj=0928.170|hdz=21252.040|uh=696F|ud=26991|bh=DDE3|bd=56803}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǔn,dùn
+|c=seon5,teon5
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[shield]]
+# [[horizontal]] [[bar]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木09}}
+
+# {{defn|lang=ja|sort=木09}}
+
+====Readings====
+* {{ja-readings|on=[[じゅん]] (jun)|kun=[[たて]] (tate)}}
+
+====Synonyms====
+* (''[[shield]]''): {{l|ja|盾}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=순|eumhun=|rv=sun|mr=sun|y=swun}}
+
+# {{defn|lang=ko|sort=木09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木09| hanviet = thuẫn}}
+
+# {{defn|lang=vi|sort=木09}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=696f Nom Foundation]
+
+[[fr:楯]]
+[[ja:楯]]
+[[pl:楯]]
+[[sv:楯]]
+[[th:楯]]
+[[zh:楯]]

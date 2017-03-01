@@ -1,0 +1,47 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|きぬ|いと|yomi=k}}
+Compound of {{affix|sort=きぬいと|ja|絹|tr1=kinu|t1=silk|糸|tr2=ito|t2=thread}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|きぬいと|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|きぬいと}}
+
+# [[silk]] [[thread]]
+
+=====Derived terms=====
+* {{ja-r|絹糸草|きぬいとそう}}
+
+=====See also=====
+* {{ja-r|絹|きぬ|[[silk]]}}
+* {{ja-r|絹地|きぬじ|[[silk]] [[fabric]]}}
+
+===Etymology 2===
+{{ja-kanjitab|けん|し|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|けんし|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|けんし}}
+
+# [[silk]] [[thread]]
+
+=====Derived terms=====
+* {{ja-r|擬絹糸|ぎけんし}}
+* {{ja-r|絹糸腺|けんしせん|[[sericterium]]}}
+* {{ja-r|絹糸紡績|けんし ぼうせき|[[silk]] [[spinning]]}}
+* {{ja-r|酢酸絹糸|さくさん けんし|[[acetate]] [[fibre]]}}
+* {{ja-r|人造絹糸|じんぞう けんし|[[rayon]]}}
+* {{ja-r|紡績絹糸|ぼうせき けんし|[[spun]] [[silk]]}}
+
+===References===
+<references/>
+
+[[mg:絹糸]]
+[[ja:絹糸]]
+[[chr:絹糸]]
+[[zh:絹糸]]

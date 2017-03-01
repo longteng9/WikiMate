@@ -1,0 +1,139 @@
+{{character info/new}}
+{{also|吉|𠮷}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=02|sn=5|four=40600|canj=JR|ids=⿱十口}}
+
+====Derived characters====
+*{{lang|mul|[[固]] [[周]] [[苦]] [[胡]] [[辜]] [[姑]] [[居]] [[怙]] [[沽]] [[蛄]] [[故]] [[枯]] [[鈷]] [[詁]] [[鴣]]}}
+
+====References====
+* {{Han ref|kx=0171.080|dkj=03233|dj=0380.060|hdz=10568.030|uh=53E4|ud=21476|bh=A56A|bd=42346}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=𠖠-archaic}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|十|t1=ten|口|t2=mouth; generation|ls=ic}} – ten generations; ancient.
+
+===Etymology===
+From {{inh|zh|sit-pro|*r-ga||old}}. Cognate with {{och-l|故|old things; former; dead}} and {{cog|bo|རྒ||to be old; aged}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gǔ
+|m-s=gu3
+|c=gu2
+|h=pfs=kú
+|mn=kó͘
+|w=2ku
+|mc=y
+|oc=y
+|ma=
+|cat=a,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# the [[past]]; [[ancient]] [[times]]
+#: {{zh-x|古今|'''ancient''' and modern '''time'''s}}
+# [[old]]; [[ancient]]
+# [[classic]]; [[old]]-styled
+# [[simple]]; [[unaffected]]; [[unsophisticated]]
+# [[thing]]s in the [[past]]; [[antiquities]]; [[history]]
+# {{lb|zh|Cantonese|Hakka|Min Nan}} [[story]]
+#: {{zh-x|講古|to tell a '''story'''|C}}
+# {{zh-abbrev|古體詩|ancient-style poem}}
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|古奧|古巴|古板|古幣|古剎|古城|古祠|古瓷|古代|古道|古道熱腸|古典|古典主義|古調不彈|古董|古動物學|古都|古爾邦節|古方|古方兒|古風|古怪|古國|古畫|古話|古籍|古記|古跡/古蹟/古迹|古今|古今中外|古井無波|古勁|古舊|古來|古蘭經|古老|古老肉|古曆|古廟|古墓|古樸|古氣|古錢|古琴|古趣|古人|古色古香|古生代|古生界|古生物|古詩|古時|古書|古體詩|古銅色|古玩|古往今來|古為今用|古文|古文字|古物|古昔|古稀|古訓|古雅|古諺|古音|古語|古猿|古遠|古箏|古植物學|古裝|古拙|中古|七古|上古|不古|五古|亙古|仿古|作古|來古|先古|千古|博古|反古|古井|古作|古例|古制|古厝|古史|古堡|古妝|古始|古學|古寫|古寺|古屋|古式|古德|古意|古憋|古早|古晉|古本|古柯|古槧|古樂|古法|古渡|古玉|古磚|古籀|古者|古賢|古賦|古遊|古邈|古鄰|古銅|古門|古陸|古隸|古韻|大古|太古|好古|希古|師古|弔古|往古|待古|復古|慕古|懷古|振古|擬古|敻古|暮古|曠古|汲古|治古|泥古|淳古|特古|玍古|疑古|盤古|萬古|稽古|積古|終古|考古|自古|覽古|訪古|說古|講古|變古|轢古|近古|述古|遠古|邃古|高古}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=口02}}
+
+====Readings====
+* {{ja-readings
+|goon=[[く]] (ku)
+|kanon=[[こ]] (ko)
+|kun=[[ふるい]] ([[古い]], furui), [[いにしえ]] (inishie) > [[いにしへ]] (inishihe)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|古意|こい}}
+* {{ja-r|古雅|こが}}
+* {{ja-r|古稀|こき}}
+* {{ja-r|古今|ここん}}
+* {{ja-r|古参|こさん}}
+* {{ja-r|古址|こし}}
+* {{ja-r|古式|こしき}}
+* {{ja-r|古色|こしょく}}
+* {{ja-r|古称|こしょう}}
+* {{ja-r|古茶|こちゃ}}: [[tea]] from [[last]] [[year]]
+* {{ja-r|古典|こてん}}
+* {{ja-r|古都|こと}}
+* {{ja-r|古風|こふう}}
+* {{ja-r|古文|こぶん}}
+* {{ja-r|古来|こらい}}
+* {{ja-r|名古屋|^なごや}}
+{{der-bottom}}
+
+===Etymology===
+inisipe > inisiɸe > inisiwe > inisie.
+Literally "that which has passed". From the verb {{m|ja|往ぬ|tr=inu|pass}} in adverbial form ''ini'', the past marker {{m|ja|き|tr=ki}} in attributive form ''si'', and {{m|ja|方|tr=pe||time, direction}}.
+
+===Noun===
+{{ja-noun|いにしえ|hhira=いにしへ}}
+
+# the [[past]]
+# [[ancient]] [[time]]s
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|rv=go|mr=ko|eumhun=예|ehrv=ye|ehmr=ye|ehy=}}
+
+# {{defn|lang=ko|sort=口02}}
+
+====References====
+* {{Hanja ref|nav=8041}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cổ]], [[cỗ]], [[kẻ]], [[khương]]|rs=口02}}
+
+# {{defn|lang=vi|sort=口02}}
+
+[[af:古]]
+[[da:古]]
+[[fr:古]]
+[[ko:古]]
+[[it:古]]
+[[li:古]]
+[[hu:古]]
+[[mg:古]]
+[[ms:古]]
+[[ja:古]]
+[[no:古]]
+[[pl:古]]
+[[pt:古]]
+[[ru:古]]
+[[sv:古]]
+[[th:古]]
+[[uk:古]]
+[[vi:古]]
+[[zh:古]]

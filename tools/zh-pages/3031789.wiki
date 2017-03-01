@@ -1,0 +1,17 @@
+==Japanese==
+{{ja-kanjitab|か|どう|yomi=on}}
+
+===Noun===
+{{ja-noun|かどう}}
+
+# [[operation]] (of a [[machine]])
+
+===Verb===
+{{ja-verb-suru|かどう|tr=both}}
+
+# [[run]], [[operate]] (of a machine)
+#* '''2012''', Lombroso (username) (translator), [[:w:Barack Obama|Barack Obama]] (author), [[:s:ja:バラク・オバマの第3回一般教書演説|バラク・オバマの第3回一般教書演説]]:
+#*: {{ja-usex|ミルウォーキー市内にあるマスター・ロックの統合された工場はフル'''稼働'''している。|^ミルウォーキー しない に ある ^マスター・^ロック の とうごう された こうじょう は フル''' かどう''' して いる。|Master Lock’s unionized plant in Milwaukee is running at full capacity.}}
+
+====Conjugation====
+{{ja-suru|かどう}}

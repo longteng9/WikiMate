@@ -1,0 +1,118 @@
+{{character info/new}}
+{{also|形}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=04|sn=6|four=12400|canj=MTLN|ids=⿰开刂}}
+
+# [[punishment]], [[penalty]]
+# [[law]]
+
+====Derived characters====
+* [[侀]] [[硎]] [[鉶]] ([[铏]]) [[荊]] [[型]]
+
+====References====
+* {{Han ref|kx=0137.110|dkj=01886|dj=0308.160|hdz=10324.150|uh=5211|ud=21009|bh=A644|bd=42564}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xíng
+|c=jing4
+|mn=hêng
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|上刑|主刑|九刑|五刑|免刑|八刑|典刑|刑事|刑事主權|刑事學|刑事局|刑事案|刑事犯|刑事訴訟|刑事調查|刑事警察|刑事責任|刑于|刑人|刑具|刑剋|刑名|刑問|刑器|刑場|刑官|刑席|刑庭|刑律|刑憲|刑戮|刑房|刑政|刑書|刑期|刑期無刑|刑杖|刑案|刑求|刑法|刑法學|刑清|刑網|刑罰|刑臣|刑訊|刑警|刑警隊|刑責|刑賞|刑辟|刑部|刑部尚書|刑錯|刑餘|刑馬作誓|刑鼎|刖刑|判刑|剮刑|加刑|動刑|受刑|受刑人|嚴刑|嚴刑峻法|土刑|報應刑|大刑|天刑|官刑|宮刑|寬刑省法|常刑|徒刑|從刑|恤刑|慎刑|懷刑|扑作教刑|挺刑|政簡刑清|斬刑|明刑|明刑弼教|明正典刑|易刑處分|晉鑄刑鼎|有期徒刑|服刑|極刑|死刑|毒刑|決獄斷刑|流刑|淫刑|減刑|濫刑|炮烙之刑|焚如之刑|無期徒刑|熬刑|特別刑法|理刑官|用刑|省刑薄斂|磔刑|祥刑|私刑|科刑|竹刑|笞刑|絞刑|緩刑|繁刑重斂|繁刑重賦|罪刑|義刑義殺|肆刑|肉刑|能力刑|腐刑|臨刑|自由刑|苦刑|處刑|行刑|行刑場|詳刑|象刑|財產刑|贖刑|輕刑|逃刑|遣刑|酷刑|量刑|附加刑|隆刑峻法|電刑|鞭刑|墨刑}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=刀04}}
+
+# [[punishment]]
+# [[regulation]]
+# [[punish]]
+
+====Readings====
+* {{ja-readings|kanon=[[けい]] (kei)|goon=[[ぎょう]] (gyō)|nadzuke=[[のり]] (''nori'')}}
+
+====Compounds====
+{{top4}}
+* {{ja-r|刑部省|ぎょうぶしょう}}
+* {{ja-r|刑事|けいじ}}
+{{mid4}}
+* {{ja-r|刑場|けいじょう}}
+* {{ja-r|刑罰|けいばつ}}
+{{mid4}}
+* {{ja-r|刑法|けいほう}}
+* {{ja-r|刑余|けいよ}}
+{{mid4}}
+* {{ja-r|刑務所|けいむしょ}}
+{{bottom}}
+
+====References====
+* {{S-JIS|8C59}}
+* {{JIS|373A}}
+
+===Noun===
+{{ja-noun|けい}}
+
+# punishment
+
+===Suffix===
+{{ja-pos|suffix|けい}}
+
+# [[punishment]]; [[sentence]]; [[penalty]]
+
+[[Category:ja:Law enforcement|けい]]
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 刑]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=형|rv=hyeong|mr=hyŏng}}
+
+# {{defn|lang=ko|sort=刀04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hình]]|rs=刀04}}
+
+# {{defn|lang=vi|sort=刀04}}
+
+[[fr:刑]]
+[[ko:刑]]
+[[lo:刑]]
+[[hu:刑]]
+[[mg:刑]]
+[[ms:刑]]
+[[ja:刑]]
+[[no:刑]]
+[[pl:刑]]
+[[sr:刑]]
+[[th:刑]]
+[[zh:刑]]

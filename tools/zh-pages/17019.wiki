@@ -1,0 +1,91 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=06|sn=10|four=60404|canj=AJV|ids=⿱日安}}
+
+# [[peaceful]], [[quiet]]
+# [[clear]]
+# [[late]] in the [[day]]
+
+====References====
+* {{Han ref|kx=0495.150|dkj=13914|dj=0860.200|hdz=21509.070|uh=664F|ud=26191|bh=AECB|bd=44747}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yàn
+|m-s=ngan4
+|c=aan3
+|mn=òaⁿ
+|h=pfs=yen
+|x=ngan4
+|mc=y
+|oc=y
+|ma=
+|cat=a,pn
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[late]]; near the end of a period of time
+#: {{zh-x|晏起|to get up '''late'''}}
+# [[late]] in the day
+#: {{zh-x|晏晝|[[afternoon]]|C}}
+# [[sunny]] and [[cloudless]]
+# [[peaceful]], [[tranquil]], [[serene]]
+#: {{zh-x|河清.海晏|the (Yellow) River is clear and the sea is '''calm'''; the world is peaceful and prosperous}}
+
+====Synonyms====
+* {{sense|late}} {{zh-l|晚}}, {{zh-l|遲}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{surname|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日06}}
+
+# {{defn|lang=ja|sort=日06}}
+
+====Readings====
+* {{ja-readings|on=[[あん]] (an)|kun=[[おそい]] (osoi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=안|eumhun=|rv=an|mr=an|y=an}}
+
+# {{defn|lang=ko|sort=日06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[yến]]|rs=日06}}
+
+# {{defn|lang=vi|sort=日06}}
+
+[[zh-min-nan:晏]]
+[[fr:晏]]
+[[mg:晏]]
+[[ja:晏]]
+[[pl:晏]]
+[[th:晏]]
+[[zh:晏]]

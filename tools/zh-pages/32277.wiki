@@ -1,0 +1,90 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=10|sn=21|four=|canj=NFNMM|ids=⿰魚弱}}
+
+# [[sardine]]
+
+====References====
+* {{Han ref|kx=1476.251|dkj=46413|hdz=74708.090|uh=9C2F|ud=39983}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|魚|t1=fish|弱}} – a kind of fish.<!-- presumably a puny, small, weak fish, hence sardine --> A Japanese [[kokuji]] coined in the Nara period.
+
+===Pronunciation===
+{{zh-pron
+|m=ruò
+|c=joek6
+|mc=
+|oc=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 3), page 247]
+
+----
+
+==Japanese==
+[[file:Sardinops melanostictus.jpg|thumb|right|200px|鰯(iwashi)]]
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚10}}
+
+# [[sardine]]
+
+====Readings====
+{{ja-kanjitab|いわし|yomi=k}}
+* {{ja-readings|on=|kun=[[いわし]] (iwashi)}}
+
+===Pronunciation===
+* {{ja-pron|いわし|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|いわし}}
+
+# a [[sardine]] (a fish)
+
+====Derived terms====
+* {{ja-r|鰯雲|いわしぐも}}
+
+====Descendants====
+* Russian: {{l|ru|иваси́|g=f}}
+
+====References====
+<references/>
+
+[[Category:Japanese basic words|いわし]]
+[[Category:ja:Fish|いわし]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[약]]|eumhun=|rv=yak|mr=yak|y=yak}}
+
+# {{defn|lang=ko|sort=魚10}}
+
+[[fr:鰯]]
+[[ko:鰯]]
+[[lo:鰯]]
+[[la:鰯]]
+[[ja:鰯]]
+[[pl:鰯]]
+[[pt:鰯]]
+[[sv:鰯]]
+[[th:鰯]]
+[[zh:鰯]]

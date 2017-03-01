@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=98|rad=瓦|as=12|sn=17|four=81617|canj=CAMVN}}
+
+# [[boiler]] for steaming rice, [[pot]]
+
+====References====
+* {{Han ref|kx=0752.110|dkj=21602|dj=1159.280|hdz=21432.080|uh=7511|ud=29969|bh=ED70|bd=60784}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zèng
+|c=zang6,zang3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|丹甑|墯甑不顧|曲頸甑|甑塵釜魚|甑箄|破甑生塵}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=瓦12}}
+
+# {{defn|lang=ja|sort=瓦12}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[こしき]] (koshiki)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=증|eumhun=|rv=jeung|mr=chŭng|y=cung}}
+
+# {{defn|lang=ko|sort=瓦12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tắng]]|rs=瓦12}}
+
+# {{defn|lang=vi|sort=瓦12}}
+
+[[fr:甑]]
+[[hu:甑]]
+[[mg:甑]]
+[[ja:甑]]
+[[pl:甑]]
+[[th:甑]]
+[[zh:甑]]

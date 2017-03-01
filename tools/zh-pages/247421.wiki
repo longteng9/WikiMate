@@ -1,0 +1,91 @@
+{{also|技术}}
+==Chinese==
+{{zh-forms|s=技术}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìshù
+|c=gei6 seot6
+|h=pfs=kî-su̍t
+|ma=y
+|mn=ki-su̍t/kī-su̍t
+|w=3jji zeq
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[technology]]
+#: {{zh-x|核 技術|nuclear '''technology'''}}
+#: {{zh-x|技術 進步|'''technological''' progress}}
+# [[technique]]; [[skill]]; [[ability]]
+
+====Derived terms====
+{{zh-der|高技術|高新技術|技術改造|技術革命|技術革新|技術含量|技術科學|技術密集|技術密集型|技術市場|技術性|技術學校|技術員|技術轉讓|科學技術|科技|空間技術|信息技術}}
+
+{{zh-cat|Technology}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぎ|じゅつ|yomi=on}}
+{{wikipedia|lang=ja}}
+
+===Etymology===
+Translation of English ''mechanical art'', first used by [[w:Nishi Amane|Nishi Amane]] in the encyclopedia ''[[w:Hyakugaku Renkan|Hyakugaku Renkan]]''.
+
+===Pronunciation===
+* Common Accent: {{ja-accent-common|atamadaka|ぎ|じゅつ|gíjùtsù}}
+
+===Noun===
+{{ja-noun|ぎじゅつ}}
+
+# [[technology]]; [[technique]]; [[technical]]
+
+====Derived terms====
+* {{ja-r|技術者|ぎじゅつしゃ}}
+
+===See also===
+* {{ja-r|技巧|ぎこう}}: [[technique]]
+* {{ja-r|テクノロジー}}: [[technology]]
+* {{ja-r|テクニック}}: [[technique]]
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Technology|ぎじゅつ]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=기술}}
+
+# {{hanja form of|기술|[[technology]], [[technique]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|kĩ thuật|[[technology]], [[technique]]}}
+
+[[zh-min-nan:技術]]
+[[eo:技術]]
+[[ko:技術]]
+[[lo:技術]]
+[[lt:技術]]
+[[hu:技術]]
+[[mg:技術]]
+[[ja:技術]]
+[[pt:技術]]
+[[tl:技術]]
+[[chr:技術]]
+[[zh:技術]]

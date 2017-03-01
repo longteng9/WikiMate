@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|朌|颁}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=181|rad=頁|as=04|sn=13|four=81286|canj=CHMBC|ids=⿰分頁}}
+
+# [[confer]], [[bestow]]
+# [[publish]], [[promulgate]]
+
+====References====
+* {{Han ref|kx=1401.080|dkj=43378|dj=1917.150|hdz=74362.010|uh=9812|ud=38930|bh=B97B|bd=47483}}
+
+----
+
+==Chinese==
+{{zh-forms|s=颁}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bān
+|c=baan1,paan1,fan4
+|h=pfs=pân
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|頒布|頒授|頒斌|頒獎|頒發|頒白|頒行|頒詔|頒贈}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=頁04}}
+
+# distribute, partition
+
+====Readings====
+* {{ja-readings|goon=[[へん]] (hen), [[ぶん]] (bun)|kanon=[[はん]] (han), [[ふん]] (fun)|kun=[[わける]] (wakeru), [[しく]] (shiku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[반]], [[분]]|eumhun=|rv=ban, bun|mr=pan, pun|y=pan, pun}}
+
+# {{defn|lang=ko|sort=頁04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ban]]|rs=頁04}}
+
+# {{defn|lang=vi|sort=頁04}}
+
+[[fr:頒]]
+[[ko:頒]]
+[[hu:頒]]
+[[mg:頒]]
+[[ja:頒]]
+[[pl:頒]]
+[[th:頒]]
+[[zh:頒]]

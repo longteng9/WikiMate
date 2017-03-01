@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|馏}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=184|rad=食|as=10|sn=19|four=87762|canj=OIHHW}}
+
+# [[distill]], [[distillation]]
+
+====References====
+* {{Han ref|kx=1424.050|dkj=44321|dj=1949.350|hdz=74468.100|uh=993E|ud=39230|bh=C348|bd=49992}}
+
+----
+
+==Chinese==
+{{zh-forms|s=馏}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=餾
+|c=lau6,lau4
+|mn=liū
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|乾餾|分餾|木餾油|蒸餾|蒸餾器|蒸餾水|蒸餾法|蒸餾瓶|蒸餾酒|直餾|精餾|饙餾}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=食10}}
+
+# {{defn|lang=ja|sort=食10}}
+
+====Readings====
+* {{ja-readings|on=[[りゅう]] (ryū)|kun=[[むす]] (musu)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lựu]], [[lưu]]|rs=食10}}
+
+# {{defn|lang=vi|sort=食10}}
+
+[[fr:餾]]
+[[hu:餾]]
+[[ja:餾]]
+[[pl:餾]]
+[[th:餾]]
+[[zh:餾]]

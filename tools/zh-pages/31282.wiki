@@ -1,0 +1,40 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+* A Japanese [[kokuji]], formed from {{m|ja|吹き下ろす|tr=fukiorosu}} and {{m|ja|風|tr=kaze}}.
+
+===Han character===
+{{Han char|rn=182|rad=風|as=03|sn=12|four=|canj=MYHN}}
+
+# {{defn|Han|sort=風03}}
+
+====References====
+* {{Han ref|kx=1411.141|dkj=43769|dj=1933.060|hdz=74481.051|uh=98AA}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{wikipedia|Oroshi}}
+===Kanji===
+{{ja-kanji|grade=|rs=風03}}
+
+====Readings====
+{{ja-readings
+|kun=[[おろし]] (oroshi), [[あらし]] (arashi)
+}}
+
+===Noun===
+{{ja-noun|おろし}}
+
+# The wind that blows down from the top of a mountain.
+
+[[Category:Japanese-only CJKV Characters]]
+
+[[fr:颪]]
+[[hu:颪]]
+[[ja:颪]]
+[[pl:颪]]
+[[th:颪]]
+[[zh:颪]]

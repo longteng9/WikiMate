@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|そう|てい|yomi=on}}
+
+===Alternative forms===
+* {{l|ja|装訂}}
+* {{l|ja|装釘}}
+* {{l|ja|装幀}}
+
+===Noun===
+{{ja-noun|そうてい}}
+
+# book binding
+
+===Verb===
+{{ja-verb-suru|tr=trans|そうてい}}
+
+# [[bind]] a book
+
+====Conjugation====
+{{ja-suru|そうてい}}

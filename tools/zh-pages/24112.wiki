@@ -1,0 +1,92 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=127|rad=耒|as=04|sn=10|four=57917|canj=QDAU}}
+
+# [[rake]]
+
+====References====
+* {{Han ref|kx=0963.030|dkj=28911|dj=1411.060|hdz=42771.040|uh=8019|ud=32793|bh=AFD2|bd=45010}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=䎬,䎱}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=pá,bà
+|c=paa4,baa3
+|mn=qz,xm,zz:pâ/qz,xm,zz:phâ/qz,tw,xm:pê/zz:pêe/tw:pē
+|mn_note=pâ/phâ - literary; pê/pêe - vernacular
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|倒打一耙|拽耙扶犁|耙地|耙子|釘耙|釘齒耙|齒耙}}
+
+===References===
+* {{R:twedu|A03261}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=耒04}}
+
+# {{defn|lang=ja|sort=耒04}}
+
+====Readings====
+* {{ja-readings|on=[[は]] (ha)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=파|eumhun=|rv=pa|mr=p'a|y=pha}}
+
+# ([[쇠스랑]]) [[rake]]
+
+====Synonyms====
+* {{l|ko|鈀}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|bá|rs=耒04}}
+
+# {{defn|lang=vi|sort=耒04}}
+
+====Readings====
+* Nôm: bá, bừa
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville, 1999
+
+[[zh-min-nan:耙]]
+[[fr:耙]]
+[[hu:耙]]
+[[mg:耙]]
+[[ja:耙]]
+[[no:耙]]
+[[pl:耙]]
+[[th:耙]]
+[[chr:耙]]
+[[zh:耙]]

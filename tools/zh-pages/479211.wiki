@@ -1,0 +1,70 @@
+{{also|场合}}
+==Chinese==
+{{zh-forms|s=场合}}
+
+===Etymology===
+{{bor|zh|ja|-}} {{ja-r|場合|ば.あい}}.
+
+===Pronunciation===
+{{zh-pron
+|m=場hé
+|c=coeng4 hap6
+|h=pfs=chhòng-ha̍p
+|mn=tiûⁿ-ha̍p
+|ma=Zh-changhé.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[place]]
+# [[occasion]]; [[situation]]
+
+====Derived terms====
+{{zh-der|公開場合}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ば|あい|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|ば.あい|acc=h|y=k}}
+Sometimes pronounced as ばわい ''bawai'' instead of usual ばあい ''baai,'' analyzed as [[epenthesis]].
+
+===Noun===
+{{ja-noun|ば.あい|hhira=ばあひ}}
+
+# [[case]] (as in ''in "that case"''), [[occasion]]
+#* '''1916''', 河上肇, 貧乏物語:
+#*: {{ja-usex|ドイツの'''場合'''が特にそうである。|ドイツ の '''ば.あい''' が とく に そう で ある。|It's particularly the case with Germany.}}
+# [[circumstances]], [[situation]]
+#* '''1917''', 芥川龍之介, 偸盗:
+#*: {{ja-usex|あるいは'''場合'''によっては、殺されてもいい。|あるい は '''ば.あい''' に よって は、 ころされて も い.い。|In some circumstances, it's not bad to be killed.}}
+
+====Synonyms====
+* {{sense|case}} {{ja-r|時|とき}}, {{ja-r|時機|じき}}
+* {{sense|circumstances}} {{ja-r|事情|じじょう}}, {{ja-r|境遇|きょうぐう}}
+
+===Descendants===
+* Chinese: {{zh-l|場合}}
+* Vietnamese: {{vi-l|trường hợp}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:場合]]
+[[fr:場合]]
+[[ko:場合]]
+[[lo:場合]]
+[[li:場合]]
+[[hu:場合]]
+[[mg:場合]]
+[[ja:場合]]
+[[km:場合]]
+[[fi:場合]]
+[[chr:場合]]
+[[zh:場合]]

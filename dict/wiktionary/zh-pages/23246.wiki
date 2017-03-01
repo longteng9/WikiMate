@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|纺}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=04|sn=10|four=20927|canj=VFYHS}}
+
+# [[spin]], [[reel]], [[weave]]
+# reeled pongee
+
+====References====
+* {{Han ref|kx=0918.150|dkj=27305|dj=1349.040|hdz=53376.100|uh=7D21|ud=32033|bh=AFBC|bd=44988}}
+
+----
+
+==Chinese==
+{{zh-forms|s=纺}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǎng
+|c=fong2
+|h=pfs=fóng
+|md=
+|mn=pháng
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=糸04}}
+
+# {{defn|lang=ja|sort=糸04}}
+
+====Readings====
+* {{ja-readings|goon=[[ほう]] (hō)|kanon=[[ほう]] (hō)|kanyoon=[[ぼう]] (bō)|kun=[[つむぐ]] (tsumugu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=방|eumhun=|rv=bang|mr=pang|y=pang}}
+
+# {{defn|lang=ko|sort=糸04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phưởng]], [[vưởng]], [[vướng]]|rs=糸04}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:紡]]
+[[fr:紡]]
+[[hu:紡]]
+[[mg:紡]]
+[[ja:紡]]
+[[pl:紡]]
+[[th:紡]]
+[[chr:紡]]
+[[zh:紡]]

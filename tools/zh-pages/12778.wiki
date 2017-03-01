@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|嗳}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=13|sn=16|four=62047|canj=RBBE|ids=⿰口愛}}
+
+# [[interjection]]
+# [[exclamation]]
+
+====References====
+* {{Han ref|kx=0210.220|dkj=04394|dj=0433.100|hdz=10693.040|uh=566F|ud=22127|bh=BEBC|bd=48828}}
+
+----
+
+==Chinese==
+{{zh-forms|s=嗳}}
+
+===Pronunciation===
+{{zh-pron
+|m=ǎi
+|c=aai1,ngoi3,ngoi2,oi2,oi3
+|h=pfs=ôi
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|噴雲噯霧|噯呀|噯唷|噯喲|噯氣|噯喲喲}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口13}}
+
+# {{defn|lang=ja|sort=口13}}
+
+====Readings====
+* {{ja-readings|on=[[あい]] (ai), [[がい]] (gai)|kun=[[いき]] (iki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=애|rv=ae|mr=ae}}
+
+# {{defn|lang=ko|sort=口13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[áy]]|rs=口13}}
+
+# {{defn|lang=vi|sort=口13}}
+
+[[fr:噯]]
+[[li:噯]]
+[[hu:噯]]
+[[ja:噯]]
+[[pl:噯]]
+[[th:噯]]
+[[zh:噯]]

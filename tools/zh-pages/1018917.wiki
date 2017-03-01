@@ -1,0 +1,30 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|たま|こ|k2=ご}}
+{{wikipedia|Egg}}
+<div class="thumb tright">
+<div class="thumbinner" style="width: 252px;">[[File:Vogeleier.jpg|124px]] [[File:Fried_egg,_sunny_side_up.jpg|123px]] <div class="thumbcaption">{{lang|ja|玉子}}</div></div></div>
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=たまご|玉|tr1=tama|t1=ball|子|tr2=ko|t2=child, small thing}}. {{rendaku2|ko|go|sort=たまご}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|たまご|acc=2|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{ja-l|卵}}
+
+===Noun===
+{{ja-noun|たまご}}
+
+# an [[egg]]
+#: This term in Japanese is nearly as broad in use as {{cog|en|egg}}, indicating an egg as [[lay|laid]] by various [[oviparous]] [[organism]]s, and egg as used in [[cooking]]. For the more specific biological sense of {{m|en|ovum}}, see {{l|ja|卵子|tr=''ranshi''}}.
+
+===References===
+<references/>
+
+[[cs:玉子]]
+[[mg:玉子]]
+[[ja:玉子]]
+[[chr:玉子]]
+[[zh:玉子]]

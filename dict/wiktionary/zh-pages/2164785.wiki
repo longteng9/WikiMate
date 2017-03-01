@@ -1,0 +1,27 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=gǎnrǎnlì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[infectious]] [[capacity]], [[contagiousness]], [[appeal]]; the quality to influence people or make people feel touched
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|せん|りょく|yomi=on}}
+
+===Etymology===
+{{suffix|感染|力|t1=infection|t2=strength|lang=ja|sort=かんせんりょく}}
+
+===Noun===
+{{ja-noun|かんせんりょく}}
+# [[infectious]] [[capacity]]
+
+[[zh:感染力]]

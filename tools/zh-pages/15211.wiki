@@ -1,0 +1,94 @@
+{{character info/new}}
+{{also|噹|當}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+{{Han simp|當|a=噹}}
+
+===Han character===
+{{Han char|rn=42|rad=小|as=03|sn=6|four=|canj=FSM|ids=⿱[[小|⺌]][[彐]]}}
+
+# [[bear]], [[accept]]
+# [[undertake]]
+# [[just]]
+# [[sound]] of [[bells]]
+
+====References====
+* {{Han ref|kx=0297.061|dkj=09913|dj=0591.090|hdz=10562.120|uh=5F53|ud=24403}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|當}}
+
+===Etymology 2===
+{{zh-see|噹}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=小03|style=s|kyu=當}}
+
+# [[hit]]
+# [[right]]
+# [[appropriate]]
+# [[himself]]
+
+====Readings====
+{{ja-readings|goon=[[とう]] (tō)|kanon=[[とう]] (tō)|kun=[[あたる]] (ataru), [[あてる]] (ateru), [[あて]] (ate)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|当来|とうらい}}: [[afterlife]]
+{{der-bottom}}
+
+===Prefix===
+{{ja-pos|とう|prefix}}
+
+# this (business or place)
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=당|eumhun=|rv=dang|mr=tang|y=tang}}
+
+# {{defn|lang=ko|sort=小03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đáng]], [[đương]]|rs=小03}}
+
+# {{defn|lang=vi|sort=小03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5f53 Nom Foundation]
+
+[[fr:当]]
+[[ko:当]]
+[[it:当]]
+[[li:当]]
+[[hu:当]]
+[[mg:当]]
+[[nl:当]]
+[[ja:当]]
+[[no:当]]
+[[pl:当]]
+[[pt:当]]
+[[ru:当]]
+[[fi:当]]
+[[ta:当]]
+[[th:当]]
+[[chr:当]]
+[[uk:当]]
+[[vi:当]]
+[[zh:当]]

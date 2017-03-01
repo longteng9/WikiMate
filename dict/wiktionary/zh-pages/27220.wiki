@@ -1,0 +1,57 @@
+{{character info/new}}
+{{also|訛}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=12|sn=19|four=|canj=YRBHF|ids=⿰言爲}}
+
+# [[false]], [[erroneous]]
+
+====References====
+* {{Han ref|kx=1180.200|dkj=35951|dj=1644.050|hdz=64019.121|uh=8B4C|ud=35660}}
+
+----
+
+==Chinese==
+{{zh-see|訛|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言12}}
+
+# {{defn|lang=ja|sort=言12}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka), [[が]] (ga)|kun=[[なまり]] (namari), [[なまる]] (namaru), [[あやまる]] (ayamaru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=와|eumhun=|rv=wa|mr=wa|y=wa}}
+
+# {{defn|lang=ko|sort=言12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngoa]]|rs=言12}}
+
+# {{defn|lang=vi|sort=言12}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=8b4c Nom Foundation]
+
+[[fr:譌]]
+[[hu:譌]]
+[[mg:譌]]
+[[ja:譌]]
+[[pl:譌]]
+[[th:譌]]
+[[zh:譌]]

@@ -1,0 +1,62 @@
+==Japanese==
+{{ja-kanjitab|ご|だん|かつ|よう|yomi=on}}
+
+===Etymology===
+A compound of {{m|ja|sc=Jpan|五段|tr=godan||five grades}} and {{m|ja|sc=Jpan|活用|tr=katsuyō||conjugation}}. An extension of the [[四段活用]] (yodan katsuyō) conjugation class, the fifth base, -o, is a pseudo base derived from the suffix -o attaching to the [[未然形|irrealis]] conjugation resulting in -au, which phonologically regularly elides into [oː].
+
+===Noun===
+{{ja-noun|ごだん かつよう}}
+
+# {{lb|ja|grammar|sort=こだんかつよう'}} a verbal conjugation class consisting of five alternating bases: -a, -i, -u, -e, -o; see Etymology on note about the fifth base -o. Examples:
+{| class="wikitable"
+|-
+!
+! [[未然形|Irrealis]]
+! [[連用形|Adverbial]]
+! [[終止形|Conclusive]]
+! [[連体形|Attributive]]
+! [[已然形|Realis]]
+! [[命令形|Imperative]]
+|-
+! [[咲く|sak-]]
+| sak-a
+| sak-i
+| sak-u
+| sak-u
+| sak-e
+| sak-e
+|-
+! [[書く|kak-]]
+| kak-a
+| kak-i
+| kak-u
+| kak-u
+| kak-e
+| kak-e
+|-
+! [[読む|yom-]]
+| yom-a
+| yom-i
+| yom-u
+| yom-u
+| yom-e
+| yom-e
+|}
+
+===See also===
+* {{ja-r|四段活用|よだん かつよう}}
+
+===Related terms===
+* {{ja-r|四段活用|よだん かつよう}}
+* {{ja-r|下一段活用|しも いちだん かつよう}}
+* {{ja-r|下二段活用|しも にだん かつよう}}
+* {{ja-r|上一段活用|かみ いちだん かつよう}}
+* {{ja-r|上二段活用|かみ にだん かつよう}}
+* {{ja-r|カ行変格活用|カぎょう へんかく かつよう}}
+* {{ja-r|サ行変格活用|サぎょう へんかく かつよう}}
+* {{ja-r|ナ行変格活用|ナぎょう へんかく かつよう}}
+* {{ja-r|ラ行変格活用|ラぎょう へんかく かつよう}}
+
+[[fr:五段活用]]
+[[mg:五段活用]]
+[[ja:五段活用]]

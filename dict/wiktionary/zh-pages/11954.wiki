@@ -1,0 +1,170 @@
+{{character info/new}}
+{{also|卯|卬}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=26|rad=卩|as=05|sn=7|four=77720|canj=HHSLI|ids=⿰𠂑卪}}
+
+====See also====
+* {{l|mul|sc=Hani|蛋}}
+* {{l|mul|sc=Hani|鮞}}/{{l|mul|sc=Hani|鲕}}
+* {{l|mul|sc=Hani|鯤}}/{{l|mul|sc=Hani|鲲}}
+
+====References====
+* {{Han ref|kx=0159.200|dkj=02857|dj=0365.010|hdz=10313.040|uh=5375|ud=21365|bh=A75A|bd=42842}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{liushu|p}} – [[spawn]], [[egg]].
+
+===Etymology===
+From {{inh|zh|sit-pro|*s-row||egg, nit}}. Cognate with {{cog|bo|སྲོ་མ||egg of a louse, nit, small bubble}}.
+
+{{och-l|鯤}} may represent a doublet resulting from prefix preemption. Compare its variant {{zh-l|𡖉}}.
+
+===Pronunciation===
+{{zh-pron
+|m=luǎn
+|c=leon5,leon5-2
+|h=pfs=lón
+|md=lâung/luāng
+|md_note=lâung - colloquial; luāng - literary
+|mn=xm,tp,kh,tn,sx,km,mg,hc,tc:nn̄g/qz,lk:nňg/zz,yl:nūi/loán
+|mn_note=nn̄g/nňg/nūi - vernacular; loán - literary
+|w=3loe,3lu
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[egg]]; [[ovum]]; [[roe]]; [[spawn]]
+# {{lb|zh|entomology}} [[fertilised]] [[egg]]
+# {{lb|zh|regional}} [[testicles]]
+
+===Compounds===
+{{zh-der|卵圓|卵圓形|卵圓窗|卵翼|卵用雞|卵生|卵白|卵子|卵胎生|卵細胞|卵巢|卵巢窩|卵塊|卵形|卵模|卵母細胞|卵泡|卵石|卵磷脂|卵精巢|卵裂|卵黃|卵黃囊|卵黃管|卵黃腺|事危累卵|危如累卵|受精卵|同卵|排卵|產卵|異卵|以卵投石|以卵擊石|以石投卵|以碫投卵|伏卵|危於累卵|卵囊|卵囊球|卵子移植|卵孔|卵巢囊腫|卵巢炎|卵巢癌|卵核|卵翼之恩|卵育|卵與石鬥|卵袋|同卵雙生|呵脬捧卵|壓卵|孵卵機|完卵|巢傾卵破|巢毀卵破|排卵期|排山壓卵|殺雞取卵|河卵石|泰山壓卵|石卵|累卵|累卵之危|翼卵|若卵投石|覆巢傾卵|覆巢毀卵|覆巢破卵|赤眼卵蜂|輸卵管|重卵|雞卵|魚卵|鵝卵石}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{wikipedia|Egg}}
+
+===Kanji===
+{{ja-kanji|grade=6|rs=卩05}}
+
+# an [[egg]]
+
+====Readings====
+{{ja-readings
+|goon=[[らん]] (ran)
+|kanon=[[らん]] (ran)
+|kun=[[たまご]] (tamago)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|卵焼|たまごやき}}, {{ja-r|卵焼き|たまごやき}}: [[omelet]], [[fried eggs]]
+* {{ja-r|梵卵|ぼんらん}}: [[world egg]]
+* {{ja-r|卵黄|らんおう}}: [[yolk]]
+* {{ja-r|卵殻|らんかく}}: [[eggshell]]
+* {{ja-r|卵子|らんし}}: [[ovum]]
+* {{ja-r|卵生|らんせい}}: [[oviparity]]
+* {{ja-r|卵巣|らんそう}}: [[ovary]]
+* {{ja-r|卵白|らんぱく}}: [[albumen]]
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|たまご|yomi=k}}
+<div class="thumb tright">
+<div class="thumbinner" style="width: 252px;">[[File:Vogeleier.jpg|124px]] [[File:Fried_egg,_sunny_side_up.jpg|123px]] <div class="thumbcaption">{{lang|ja|卵}}</div></div></div>
+Compound of {{compound|lang=ja|sort=たまご|玉|tr1=tama|t1=ball|子|tr2=ko|t2=child, small thing}}. The final ''ko'' voices to ''go'' due to {{rendaku|たまご}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|たまご|acc=2|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{l|ja|玉子}}
+
+====Noun====
+{{ja-noun|たまご}}
+
+# an [[egg]]
+#: This term in Japanese is nearly as broad in use as {{cog|en|egg}}, indicating an egg as [[lay|laid]] by various [[oviparous]] [[organism]]s, and egg as used in [[cooking]]. For the more specific biological sense of {{m|en|ovum}}, see {{l|ja|卵子|tr=''ranshi''}}.
+
+===Etymology 2===
+{{ja-kanjitab|らん|yomi=o}}
+From {{etyl|ltc|ja|sort=らん}} {{m|zh|卵|tr=lwan<sup>X</sup>}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|らん|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|らん}}
+
+# [[ovum]]
+
+===References===
+<references/>
+
+[[Category:ja:Eggs|たまご]]
+[[Category:ja:Foods|たまご]]
+[[Category:Japanese basic words|たまご]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[란]]>[[난]]}}
+
+# [[ovum]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[noãn]]|rs=卩05}}
+
+# [[ovum]]
+
+[[az:卵]]
+[[zh-min-nan:卵]]
+[[de:卵]]
+[[el:卵]]
+[[fr:卵]]
+[[ko:卵]]
+[[hr:卵]]
+[[id:卵]]
+[[kn:卵]]
+[[ku:卵]]
+[[lo:卵]]
+[[lt:卵]]
+[[li:卵]]
+[[hu:卵]]
+[[mg:卵]]
+[[nl:卵]]
+[[ja:卵]]
+[[no:卵]]
+[[uz:卵]]
+[[pl:卵]]
+[[pt:卵]]
+[[ru:卵]]
+[[sm:卵]]
+[[fi:卵]]
+[[sv:卵]]
+[[th:卵]]
+[[tg:卵]]
+[[chr:卵]]
+[[tr:卵]]
+[[vi:卵]]
+[[zh:卵]]

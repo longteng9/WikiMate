@@ -1,0 +1,14 @@
+==Japanese==
+{{ja-kanjitab|がい|せき|yomi=o}}
+
+===Noun===
+{{ja-noun|がいせき}}
+
+# {{lb|ja|mathematics}} [[outer product]]
+
+===See also===
+* {{l|ja|内積}}
+
+[[Category:ja:Mathematics|かいせき']]
+
+[[zh:外積]]

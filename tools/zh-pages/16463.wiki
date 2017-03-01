@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=10|sn=13|four=50067|canj=QILR|ids=⿰扌唐}}
+
+# [[ward off]], [[evade]]
+# [[parry]]
+# to [[block]]
+
+====References====
+* {{Han ref|kx=0448.010|dkj=12505|dj=0798.180|hdz=31936.020|uh=642A|ud=25642|bh=B765|bd=46949}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=táng
+|c=tong4
+|mn=qz,xm,zz:tông/xm,zz:thn̂g/thn̄g/tw:tn̄g
+|mn_note=tông - literary; thn̂g - vernacular; thn̄g/tn̄g - vernacular (俗)
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|搪差使|搪突|搪缸|搪瓷|搪塞|搪抹|搪飢|搪酒吃|敷衍搪塞|推搪}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手10}}
+
+# {{defn|lang=ja|sort=手10}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō), [[どう]] (dō)|kun=[[はる]] (haru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=당|eumhun=|rv=dang|mr=tang|y=tang}}
+
+# {{defn|lang=ko|sort=手10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''搪''' ([[đường]])
+
+# {{defn|vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:搪]]
+[[fr:搪]]
+[[ko:搪]]
+[[hu:搪]]
+[[mg:搪]]
+[[pl:搪]]
+[[th:搪]]
+[[zh:搪]]

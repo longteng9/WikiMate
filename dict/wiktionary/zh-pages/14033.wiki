@@ -1,0 +1,97 @@
+{{character info/new}}
+{{also|婴}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=14|sn=17|four=66404|canj=BCV|ids=⿱賏女}}
+
+====References====
+* {{Han ref|kx=0273.040|dkj=06828|dj=0541.100|hdz=21086.080|uh=5B30|ud=23344|bh=C0A6|bd=49318}}
+
+----
+
+==Chinese==
+{{zh-forms|s=婴}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yīng
+|c=jing1
+|mn=qz,tw,xm,zz:eng/qz,tp,xm:iⁿ/kh,xm,zz:eⁿ
+|mn_note=eng - literary; iⁿ/eⁿ/eeⁿ - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[baby]], [[infant]]
+# [[bother]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女14}}
+
+# young child, newborn child
+# used as western symbol [[w:Sharp_(music)|# sharp]] to mark the [[accidentals]] of musical notes
+# necklace
+# put around one's neck
+
+====Readings====
+* {{ja-readings|goon=[[よう]] (yō)|kanon=[[えい]] (ei)|kun=[[ふれる]] (fureru), [[めぐらす]] (megurasu), [[めぐる]] (meguru), [[かける]] (kakeru), [[かかる]] (kakaru), [[みどりご]] (midorigo)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|晏嬰|あんえい}}
+* {{ja-r|嬰羽|えいう}}
+* {{ja-r|嬰音|えいおん}}
+* {{ja-r|嬰孩|えいがい}}
+* {{ja-r|嬰記号|えいきごう}}
+* {{ja-r|嬰商|えいしょう}}
+* {{ja-r|嬰児|えいじ}}
+* {{ja-r|嬰児|みどりご}}
+* {{ja-r|嬰児殺|えいじさつ}}
+* {{ja-r|嬰幼児|えいようじ}}
+* {{ja-r|嬰児籠|えじこ}}
+* {{ja-r|孩嬰|がいえい}}
+* {{ja-r|孺嬰|じゅえい}}
+* {{ja-r|退嬰|たいえい}}
+* {{ja-r|退嬰的|たいえいてき}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=영|rv=yeong|mr=yŏng}}
+
+# {{defn|lang=ko|sort=女14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[anh]]|rs=女14}}
+
+# {{defn|lang=vi|sort=女14}}
+
+[[fr:嬰]]
+[[ko:嬰]]
+[[li:嬰]]
+[[hu:嬰]]
+[[ja:嬰]]
+[[pl:嬰]]
+[[th:嬰]]
+[[vi:嬰]]
+[[zh:嬰]]

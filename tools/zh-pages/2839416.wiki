@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|ふく|k1=ふっ|きゅう|yomi=on}}
+
+===Noun===
+{{ja-noun|ふっきゅう}}
+
+# [[restoration]]
+#: {{ja-usex|データの'''復旧'''に１日かかった。|データ の '''ふっきゅう''' に いち にち かかった。|It took a whole day to restore the data.}}
+
+===Verb===
+{{ja-verb-suru|ふっきゅう}}
+
+# be [[restored]], [[recover]]
+
+====Conjugation====
+{{ja-suru|ふっきゅう}}
+
+[[hu:復旧]]
+[[mg:復旧]]
+[[ja:復旧]]
+[[zh:復旧]]

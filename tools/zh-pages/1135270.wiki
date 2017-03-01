@@ -1,0 +1,89 @@
+{{also|无人}}
+==Chinese==
+{{zh-forms|s=无人}}
+
+===Pronunciation===
+{{zh-pron
+|m=wúrén
+|c=mou4 jan4
+|h=pfs=mò-ngìn
+|cat=a,v
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[depopulated]]
+# [[unmanned]]
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} [[there]] is [[nobody]]; to [[lack]] [[someone]]
+
+====Derived terms====
+{{zh-der|無人飛機|無人駕駛飛機|無人機|無人航空載具}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|ぶ|にん|yomi=on}}
+
+====Adjectival noun====
+{{ja-adj|infl=な|ぶにん}}
+
+# [[shorthanded]], [[lack]] of [[help]]
+#* '''1920-1935''', [[:w:Shūsei Tokuda|Shūsei Tokuda]], ''闇の花'' (p. 134, in ''[http://books.google.co.jp/books?id=wdd9MM_uAV0C&pg=PA134 徳田秋聲全集]''):
+#*: {{ja-usex|「この夏はどこへもいらっしゃらなかったんですか」「え、家が'''無人'''なものですから」|「この なつ は どこ へ も いらっしゃら なかったん です か」 「え、 いえ が '''ぶにん''' な もの です から」|Didn't you travel anywhere this summer? - Certainly, since our household is '''shorthanded'''.}}
+# [[uninhabited]], [[unmanned]]
+
+=====Inflection=====
+{{ja-na|ぶにん}}
+
+=====Derived terms=====
+* {{m|ja|無人岩||tr=buningan|[[boninite]]}}
+
+====Noun====
+{{ja-noun|ぶにん}}
+
+# being shorthanded
+# being uninhabited
+
+===Etymology 2===
+{{ja-kanjitab|む|じん|yomi=on}}
+
+====Adjectival noun====
+{{ja-adj|infl=な|むじん}}
+
+# Same as above.
+
+=====Inflection=====
+{{ja-na|むじん}}
+
+====Noun====
+{{ja-noun|むじん}}
+
+# Same as above.
+
+===Etymology 3===
+{{ja-kanjitab|む|にん|yomi=on}}
+
+====Adjectival noun====
+{{ja-adj|infl=な|むにん}}
+
+# Same as above.
+
+=====Inflection=====
+{{ja-na|むにん}}
+
+====Noun====
+{{ja-noun|むにん}}
+
+# Same as above.
+
+[[fr:無人]]
+[[ja:無人]]
+[[sv:無人]]
+[[zh:無人]]

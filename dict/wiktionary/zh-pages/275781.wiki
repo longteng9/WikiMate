@@ -1,0 +1,57 @@
+==Japanese==
+{{ja-kanjitab|れん|よう|けい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|れんようけい|acc=h|acc_ref=DJR,NHK,SMK5|y=ko}}
+
+===Noun===
+{{ja-noun|れんようけい}}
+
+# {{lb|ja|grammar|sort=れんようけい}} An inflectional category; the [[conjunctive]] form. This is the base form after which various conjugational endings are added, such as [[て]] (te) or [[ます]] (masu). See [[Appendix:Japanese verbs]] for more details.
+
+====Usage notes====
+As a term describing an inherently Japanese grammatical form, {{lang|ja|連用形}} is sometimes simply transliterated. When rendered into English, the term has been translated different ways by different authors. Alternate glosses include:
+* [[adverbial]]
+* [[base]] form
+* [[conjunctional]]
+* [[continuative]]
+* [[deverbal]] [[noun]]
+* [[infinitive]]
+* [[stem]] form
+
+====Related terms====
+* {{ja-r|已然形|いぜんけい|gloss=[[realis]]}}
+* {{ja-r|仮定形|かていけい|gloss=[[conditional]]}}
+* {{ja-r|終止形|しゅうしけい|gloss=[[conclusive]]}}
+* {{ja-r|未然形|みぜんけい|gloss=[[irrealis]]}}
+* {{ja-r|命令形|めいれいけい|gloss=[[imperative]]}}
+* {{ja-r|連体形|れんたいけい|gloss=[[attributive]]}}
+
+===References===
+<references/>
+* {{cite-book
+|last=Sandness
+|first=Karen
+|title=The Evolution of the Japanese Past and Perfective suffixes
+|publisher=Center for Japanese Studies, University of Michigan
+|year=1999
+|pages=3, 12, 42, others
+|isbn=0-939-51292-0
+}}
+* {{cite-book
+|last=Henderson
+|first=Harold Gould
+|title=Handbook of Japanese Grammar
+|publisher=Houghton Mifflin Co.
+|year=1948
+|page=12
+}}
+* {{cite-book
+|title=Bulletin of the School of Oriental and African Studies, University of London, Volume 6
+|publisher=University of London, School of Oriental and African Studies
+|year=1932
+|page=643
+}}
+
+[[it:連用形]]
+[[pt:連用形]]

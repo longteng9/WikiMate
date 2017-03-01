@@ -1,0 +1,54 @@
+{{also|过程}}
+==Chinese==
+{{zh-forms|s=过程}}
+
+===Pronunciation===
+{{zh-pron
+|m=guòchéng
+|ma=y
+|c=gwo3 cing4
+|h=pfs=ko-chhàng
+|mn=kh:kòe-têng/qz:kèr-thêng/tp:kè-têng/twvt,xm:kè-thêng/twvk,zz:kòe-thêng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[process]]
+#: {{zh-x|認識{shi} 過程|cognitive '''process'''}}
+#: {{zh-x|一個 漫長 的 過程|a long '''process'''}}
+
+====Synonyms====
+* {{zh-l|進程}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|か|てい|yomi=on}}
+
+===Pronunciation===
+* {{IPA|/kateː/|lang=ja}}
+* {{homophones|家庭|仮定|課程|lang=ja|sc=Jpan}}
+
+===Noun===
+{{ja-noun|かてい}}
+
+# [[process]]
+#* {{RQ:Obama enzetsu}}
+#*: {{ja-usex|その'''過程'''では、悪い時期も良い時期もあろう。|その '''かてい''' で は、 わるい じき も よい じき も あろう。|Along the way, there will be good days and there will be bad days.}}
+
+====Synonyms====
+* {{ja-r|プロセス}}
+* {{ja-r|経緯|いきさつ}}
+
+[[zh-min-nan:過程]]
+[[ko:過程]]
+[[lt:過程]]
+[[hu:過程]]
+[[ja:過程]]
+[[tl:過程]]
+[[chr:過程]]
+[[zh:過程]]

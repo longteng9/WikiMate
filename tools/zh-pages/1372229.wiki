@@ -1,0 +1,45 @@
+==Japanese==
+{{ja-kanjitab|五|十|日}}
+
+===Etymology===
+Compound of [[五十|i]] "fifty" and [[日|ka]] "day".
+
+===Noun===
+{{ja-noun|いか}}
+
+# fifty days
+#* c. 1028-1107: [[w:Eiga monogatari|Eiga monogatari]] (volume 1; page 32)
+#*: はかなう御'''五十日'''なども過ぎもていきて、生まれ捨て三月といふに、七月廿三日に東宮にたゝせ給ぬ。
+#* post 11th century: Sagoromo Monogatari (volume 2, page 182)
+#*: まことに、かの若宮の御'''五十日'''にもなりぬれば、かゝる程も、「いかでかは」とて、内裏より、よろづに扱はせ給けり。
+
+===Noun===
+{{ja-noun|ごとおび|hhira=ごとをび}}
+
+# the days of the month that are multiples of 5 or 10: 5th, 10th, 15th, 20th, 25th, 30th. In Japan, financial transactions are most frequent on these days causing institutions and roads to be crowded.
+
+===References===
+* {{cite-book
+|last=Matsumura
+|first=Hiroji
+|coauthor=Yutaka Yamanaka
+|title=Koten Bungaku Taikei 75: Eiga Monogatari Jō
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|date=1964
+|origyear=c. 1028-1107
+|location=Tōkyō
+|isbn=4-0006-0075-3
+}}
+* {{cite-book
+|last=Mitani
+|first=Eiichi
+|coauthor=Yoshiko Sekine
+|title=Koten Bungaku Taikei 79: Sagoromo Monogatari
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|date=1965
+|origyear=post 11th century
+|location=Tōkyō
+|isbn=4-0006-0079-6
+}}
+
+[[ja:五十日]]

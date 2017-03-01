@@ -1,0 +1,196 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shíwù,tl=y
+|c=sik6 mat6
+|h=pfs=sṳ̍t-vu̍t;gd=sed6 vud6
+|j=seh5 veh4
+|md=sĭk-ŭk
+|mn=si̍t-bu̍t/qz,twvt:chia̍h-mn̍gh/xm,zz,twvk:chia̍h-mi̍h
+|mn_note=si̍t-bu̍t - literary; chia̍h-mn̍gh/chia̍h-mi̍h - colloquial
+|w=5zeq veq
+|ma=y
+|mc=2,1
+|oc=1,2;1,1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[food]]
+
+====Synonyms====
+{{zh-dial}}
+
+====Derived terms====
+{{zh-der|食物里程|食物鏈|食物中毒|保護食物|副食物|垃圾食物|太空食物|科技食物|食物療法|食物網|鹽漬食物}}
+
+====Descendants====
+{{CJKV||しょくもつ|식물}}
+
+====See also====
+* {{zh-l|食料}}
+* {{zh-l|食品}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|しょく|もつ|sort=しょくもつ}}
+From {{etyl|ltc|ja|sort=しょくもつ}} {{m|zh|食物|tr=zyik mjut|lit=eat + thing}}. Possible alteration from strict [[呉音#Japanese|goon]] reading ''jikimotsu'', changing [[呉音#Japanese|goon]] ''jiki'' for [[漢音#Japanese|kan'on]] ''shoku''.
+
+====Pronunciation====
+{{ja-pron|yomi=o|しょくもつ|acc=2|acc_ref=DJR,NHK,SMK5}}
+
+====Noun====
+{{ja-noun|しょくもつ}}
+
+# [[food]], [[foodstuff]]
+# {{qualifier|more broadly}} [[food]] and [[drink]]
+
+=====Synonyms=====
+* {{ja-r|食品|しょくひん}}
+* {{ja-r|食べ物|たべもの}}
+
+=====Derived terms=====
+* {{ja-r|食物繊維|しょくもつ せんい}}: [[dietary]] [[fiber]]
+* {{ja-r|食物連鎖|しょくもつ れんさ}}: a [[food chain]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|じき|もつ}}
+From {{etyl|ltc|ja|sort=しょくもつ}} {{m|zh|食物|tr=zyik mjut|lit=eat + thing}}. Possible original reading.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|じきもつ|acc=2}}
+
+====Noun====
+{{ja-noun|じきもつ}}
+
+# {{qualifier|rare}} [[food]], [[foodstuff]]
+
+=====Usage notes=====
+The ''shokumotsu'' reading is more common.
+
+===Etymology 3===
+{{ja-kanjitab|yomi=o|しょく|ぶつ}}
+From {{etyl|zh|ja}} {{m|zh|食物}}. Possible reborrowing, or change influenced by later contact with China after borrowing of earlier [[呉音#Japanese|goon]] reading ''jikimotsu''.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|しょくぶつ|acc=2}}
+
+====Noun====
+{{ja-noun|しょくぶつ}}
+
+# {{qualifier|rare}} [[food]], [[foodstuff]]
+
+=====Usage notes=====
+The ''shokumotsu'' reading is more common.  The ''shokubutsu'' reading is generally avoided, due to the potential for confusion with the more-common term {{m|ja|植物|tr=shokubutsu||plant, plant life}}.
+
+===Etymology 4===
+{{ja-kanjitab|yomi=k|た|o1=べ|もの|sort=たべもの}}
+Compound of {{compound|lang=ja|sort=たべもの|食べ|tr1=tabe|t1=stem noun form of verb {{m|ja|食べる|tr=taberu||to eat}}: eating|物|tr2=mono|t2=thing}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+For disambiguation, this is more commonly written with the [[送り仮名|okurigana]] {{ja-l|べ}} in the middle as {{l|ja|食べ物}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|たべもの|acc=3|acc_ref=DJR,NHK,SMK5|acc2=2|acc2_ref=DJR,NHK,SMK5}}
+
+====Noun====
+{{ja-noun|たべもの}}
+
+# {{ja-def|食べ物}} [[food]] in general; a specific food; one's [[diet]]
+#: See {{l|ja|食べ物}} for more detail.
+
+===Etymology 5===
+{{ja-kanjitab|yomi=k|く|o1=い|もの}}
+Compound of {{compound|lang=ja|sort=くいもの|食い|tr1=kui|t1=stem noun form of informal verb {{m|ja|食う|tr=kuu||to eat}}: eating|物|tr2=mono|t2=thing}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+For disambiguation, this is more commonly written with the [[送り仮名|okurigana]] {{ja-l|い}} in the middle as {{l|ja|食い物}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|くいもの|acc=3|acc_ref=DJR,SMK5,NHK|acc2=4|acc2_ref=NHK}}
+
+====Noun====
+{{ja-noun|くいもの|hhira=くひもの}}
+
+# {{ja-def|食い物}} [[food]]; a [[sexual partner]]; a [[patsy]], someone tricked into being used for someone else's gain
+#: See {{l|ja|食い物}} for more detail.
+
+====Verb====
+{{ja-verb-suru|くいもの|hhira=くひもの}}
+
+# {{ja-def|食い物}} to [[cook]], to [[prepare]] food
+#: See {{l|ja|食い物}} for more detail.
+
+===Etymology 6===
+{{ja-kanjitab|yomi=k|く|o1=らい|もの}}
+Compound of {{compound|lang=ja|sort=くらいもの|食らい|tr1=kurai|t1=stem noun form of informal verb {{m|ja|食らう|tr=kurau||to eat, to drink}}: eating, drinking|物|tr2=mono|t2=thing}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+For disambiguation, this is more commonly written with the [[送り仮名|okurigana]] {{ja-l|ら}}{{ja-l|い}} in the middle as {{l|ja|食らい物}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|くらいもの}}
+
+====Noun====
+{{ja-noun|くらいもの|hhira=くらひもの}}
+
+# {{lb|ja|sort=くらいもの|rare|possibly|_|obsolete}} {{ja-def|食らい物}} [[food]] and [[beverage]]
+
+===Etymology 7===
+{{ja-kanjitab|yomi=k|は|o1=み|もの}}
+Compound of {{compound|lang=ja|sort=はみもの|食み|tr1=hami|t1=stem noun form of verb {{m|ja|食む|tr=hamu||to chew; to eat; to suck down; to incur a loss}}: eating|物|tr2=mono|t2=thing}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+For disambiguation, this is written with the [[送り仮名|okurigana]] {{ja-l|み}} in the middle as {{l|ja|食み物}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|はみもの}}
+
+====Noun====
+{{ja-noun|はみもの}}
+
+# {{lb|ja|sort=はみもの|rare|possibly|_|obsolete}} {{ja-def|食み物}} [[food]]; more specifically, [[fodder]] or [[feed]] for animals
+
+=====Synonyms=====
+* {{sense|fodder, animal food}} {{ja-r|餌|えさ}}
+
+===Etymology 8===
+{{ja-kanjitab|yomi=k|お|o1=し|もの}}
+Compound of {{compound|lang=ja|sort=おしもの|食し|tr1=oshi|t1=stem noun form of [[尊敬語#Japanese|honorific]] verb {{m|ja|食す|tr=osu||to eat, to drink|pos=honorific}}: eating, drinking|物|tr2=mono|t2=thing}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+For disambiguation, this is written with the [[送り仮名|okurigana]] {{ja-l|し}} in the middle as {{l|ja|食し物}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|おしもの}}
+
+====Noun====
+{{ja-noun|おしもの|hhira=をしもの}}
+
+# {{lb|ja|sort=はみもの|rare|possibly|_|obsolete|formal|_|honorific}} {{ja-def|食し物}} {{qualifier|rare}} [[food]] and [[beverage]]
+
+===References===
+<references/>
+
+[[zh-min-nan:食物]]
+[[el:食物]]
+[[fr:食物]]
+[[ko:食物]]
+[[lo:食物]]
+[[lt:食物]]
+[[hu:食物]]
+[[mg:食物]]
+[[fj:食物]]
+[[ja:食物]]
+[[pl:食物]]
+[[pt:食物]]
+[[ru:食物]]
+[[sm:食物]]
+[[sv:食物]]
+[[chr:食物]]
+[[uk:食物]]
+[[zh:食物]]

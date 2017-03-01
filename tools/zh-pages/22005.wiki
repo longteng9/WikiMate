@@ -1,0 +1,132 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=08|sn=13|four=13681|canj=MRJMO|ids=⿰石定}}
+
+====References====
+* {{Han ref|kx=0831.440|dkj=24275|dj=1248.160|hdz=42440.070|uh=7887|ud=30855|bh=DEE4|bd=57060}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|椗}}
+
+===Pronunciation===
+{{zh-pron
+|m=dìng
+|c=ding3
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[anchor]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=石08}}
+
+# [[anchor]]
+
+====Readings====
+{{ja-readings|goon=[[ちょう]] (chō)|kanon=[[てい]] (tei)|kun=[[いかり]] (ikari)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|碇%泊|てい%はく}}
+{{der-bottom}}
+
+===Pronunciation===
+{{ja-kanjitab|yomi=k|いかり}}
+{{ja-pron|y=k|いかり|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|いかり}}
+
+# {{altspell|lang=ja|錨||[[anchor]]}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|碇ヶ関|^いかりヶせき}}
+* {{ja-r|碇%草|いかり%そう}}
+* {{ja-r|碇%綱|いかり%づな}}
+* {{ja-r|碇%伝%馬|いかり%てん%ま}}
+* {{ja-r|碇%知%盛|いかり%とも%もり}}
+* {{ja-r|碇%縄|いかり%なわ}}
+* {{ja-r|碇%防%風|いかり%ぼう%ふう}}
+* {{ja-r|碇%星|いかり%ぼし}}
+* {{ja-r|碇%銛|いかり%もり}}
+* {{ja-r|鉄%碇|かない%かり}}
+* {{ja-r|木%碇|き%いかり}}
+* {{ja-r|花%碇|はな%いかり}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[정]]|eumhun=|rv=jeong|mr=chŏng|y=ceng}} <ref>The radical [[石]] suggests an anchor made of stone.</ref>
+[[Image:Kotwica SS Poznań.JPG|thumb|right| [[땅]]에 [[닿다|닿]]은 [[닻]] ([[anchor]])]]
+
+# ([[닻]]): [[anchor]]
+
+====Synonyms====
+* {{l|ko|椗}} (정, ''jeong'') <ref>The radical [[木]] suggests an anchor made of wood.</ref>
+* {{l|ko|錨}} (묘, ''myo'') <ref>The radical [[金]] suggests an anchor made of iron.</ref>
+
+====Derived terms====
+* {{ko-inline|碇泊|jeongbak|[[anchorage]], [[moorage]]|[[정박]]}}
+
+===References===
+<references />
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{head|ryu|kanji|hiragana|いかい|romaji|ikai|hiragana|いちゃい|romaji|ichai}}
+
+===Alternative forms===
+* {{l|ryu|錨}}
+
+===Noun===
+{{head|ryu|noun|hiragana|いかい|romaji|ikai|hiragana|いちゃい|romaji|ichai}}
+
+# [[anchor]]
+
+[[Category:ryu:Nautical|いかい]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đính]], [[đĩnh]]|rs=石08}}
+
+# {{defn|lang=vi|sort=石08}}
+
+[[zh-min-nan:碇]]
+[[fr:碇]]
+[[hu:碇]]
+[[mg:碇]]
+[[ja:碇]]
+[[pl:碇]]
+[[sv:碇]]
+[[th:碇]]
+[[zh:碇]]

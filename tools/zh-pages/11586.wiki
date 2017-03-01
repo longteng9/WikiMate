@@ -1,0 +1,161 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=05|sn=7|four=37220|canj=LSH|ids=⿰衤刀}}
+
+====References====
+* {{Han ref|kx=0137.330|dkj=01911|dj=0310.010|hdz=10327.220|uh=521D|ud=21021|bh=AAEC|bd=43756}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|衣|刀|alt1=衤|ls=ic|t1=clothes|t2=knife; to cut}} – start making clothes by cutting the cloth.
+
+===Pronunciation===
+{{zh-pron
+|m=chū
+|c=co1
+|h=pfs=chhû
+|md=chĕ̤/chŭ
+|mn=chho͘/chhoe/chhe
+|w=1tshu
+|mc=y
+|oc=y
+|cat=a,n,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[initial]]; [[inceptive]]
+# [[original]]; [[first]]; [[primary]]
+# [[elementary]]; [[basic]]
+# [[beginning]]; [[start]]
+# [[initially]]; [[originally]]
+
+===Compounds===
+{{zh-der|一本初衷|久夢初醒|最初|冬初|凌濛初|初一|初一十五|初七|初中|初乳|初五隔開|初交|初伏|初冬|初出茅廬|初創|初印本|初吉|初唐|初唐四傑|初喪|初夏|初夜|初夜權|初妻|初始|初婚|初學|初學記|初審|初寫黃庭|初小|初度|初弦|初心|初志|初意|初戀|初戰|初文|初日|初旬|初春|初時|初更|初月|初服|初期|初次|初步|初歲|初民|初版|初犯|初獻|初生之犢|初發|初發芙蓉|初眠|初祖|初秋|初秋圖|初稿|初立|初等|初等函數|初等教育|初篁|初級|初級中學|初級團體|初級小學|初級關係|初虧|初衣|初衷|初診|初試|初試啼聲|初試身手|初賽|初速|初選|初選制|初間|初陽|初階|初雪|初霜|初露鋒芒|初露頭角|初頭|初願|劈初頭|厥初|反初服|和好如初|國初|大夢初醒|大年初一|大病初癒|太初|太初曆|如初|如夢初覺|如夢初醒|如醉初醒|完好如初|年初|往初|從初|悔不當初|情竇初開|新硎初試|旭日初升|晴初|月初|本初|民初|民權初步|泰初|瓜字初分|當初|華燈初上|賓之初筵|起初|遂初|開初|黨內初選}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=刀05}}
+
+# [[beginning]], [[start]], [[first]]
+
+====Readings====
+{{ja-readings
+|goon=[[そ]] (so)
+|kanon=[[しょ]] (sho)
+|kun=[[はじめ]] (hajime), [[はつ]] (hatsu), [[うい]] (ui)
+|nanori=[[はじめ]] (hajime), [[し]] (shi), [[もと]] (moto)
+}}
+
+====Compounds====
+* {{ja-r|初雪|はつゆき}}: the first snow
+* {{ja-r|初心|しょしん}}: original intention
+* {{ja-r|初心者|しょしんしゃ}}: beginner
+* {{ja-r|最初|さいしょ}}: first
+* {{ja-r|初速度|しょそくど}}: initial velocity
+* {{ja-r|初夏|しょか}}: the beginning of summer
+* {{ja-r|初春|しょしゅん}}: the beginning of spring
+* {{ja-r|初秋|しょしゅう}}: the beginning of autumn
+* {{ja-r|初冬|しょとう}}: the beginning of winter
+* {{ja-r|初誕生|はつたんじょう}}: first birthday
+* {{ja-r|初々しい|ういういしい}}: innocent
+
+====Derived terms====
+* {{ja-r|初め|はじめ}}
+* {{ja-r|初めて|はじめて}}
+* {{ja-r|初め|-ぞめ}}
+* {{ja-r|書き初め|かきぞめ}}
+
+====See also====
+* {{ja-l|始}}
+
+===Etymology 1===
+{{ja-kanjitab|うい|yomi=k}}
+From {{etyl|ojp|ja|sort=うい}}.
+
+upi > uɸi > uwi > ui.
+
+====Noun====
+{{ja-noun|うい|hhira=うひ}}
+
+# the first; a start
+
+====Prefix====
+{{ja-pos|prefix|うい|hhira=うひ}}
+
+# first
+
+===Etymology 2===
+{{ja-kanjitab|はつ|yomi=k}}
+From {{etyl|ojp|ja|sort=はつ}}.
+
+patu > ɸatu > hatu
+
+====Noun====
+{{ja-noun|はつ}}
+
+# the first; a start
+#: {{ja-usex|今年'''初の'''コンサート|ことし '''はつ の''' コンサート|the '''first''' concert of this year}}
+# first sexual relations
+
+====Prefix====
+{{ja-pos|prefix|はつ}}
+
+# first
+
+===Etymology 3===
+{{ja-kanjitab|sort=はじめ|yomi=k}}
+From {{m|ja|始め|tr=hajime||beginning, first}}.
+
+====Proper noun====
+{{ja-pos|proper|はじめ}}
+
+# {{given name|male|lang=ja|sort=はじめ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=초|rv=cho|mr=ch'o}}
+
+# {{defn|lang=ko|sort=刀05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sơ]]|rs=刀05}}
+
+# {{defn|lang=vi|sort=刀05}}
+
+[[zh-min-nan:初]]
+[[fr:初]]
+[[ko:初]]
+[[it:初]]
+[[lo:初]]
+[[lt:初]]
+[[li:初]]
+[[hu:初]]
+[[mg:初]]
+[[ms:初]]
+[[fj:初]]
+[[ja:初]]
+[[no:初]]
+[[pl:初]]
+[[ru:初]]
+[[th:初]]
+[[chr:初]]
+[[zh:初]]

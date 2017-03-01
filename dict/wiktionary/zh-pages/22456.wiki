@@ -1,0 +1,115 @@
+{{character info/new}}
+{{also|称}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=09|sn=14|four=22957|canj=HDBGB|ids=⿰禾爯}}
+
+====Descendants====
+* [[称]]
+
+====References====
+* {{Han ref|kx=0856.240|dkj=25180|dj=1282.060|hdz=42619.020|uh=7A31|ud=31281|bh=BAD9|bd=47833}}
+
+----
+
+==Chinese==
+{{zh-forms|s=称}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|禾|t1=rice|爯|ls=psc|c1=s|c2=p}} – measure rice.
+
+===Pronunciation 1===
+{{zh-pron
+|m=chēng
+|c=cing1
+|h=pfs=chhṳ̂n
+|md=
+|mn=chheng
+|w=1tshen
+|mc=1
+|oc=1,1
+|cat=v,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[weigh]]
+# to [[call]]; to [[name]]
+# to [[say]]; to [[state]]
+# to [[praise]]; to [[commend]]
+# to be [[call]]ed
+# [[name]]; [[address]]; [[appellation]]; [[designation]]
+# [[reputation]]; [[repute]]; [[standing]]
+
+====Compounds====
+{{zh-der|假稱|北面稱臣|堅稱|侔色揣稱|妄稱|個個稱羨|交口稱贊|名稱|俗稱|供稱|俯首稱臣|宣稱|別稱|口稱|並稱|官稱兒|全稱|堪稱|嘖嘖稱好|僭稱|公稱|交口稱譽|南面稱伯|尊稱|多言繁稱|四海稱臣|嘖嘖稱奇|南面稱王|冒稱|南面稱孤|指稱|擊節稱賞|稱臣|稱臣納貢|稱得起|稱病|稱王封后|稱是|稱疾|稱雄|稱誦|據稱|法稱|稱王稱帝|特稱|稱制|稱道|稱異|稱羨|拍手稱快|稱兵|拍案稱奇|稱詞|稱柴而爨|稱頌|稱賞|稱賀|稱讚|稱譽|稱許|稱號|稱薪量水|稱薪而爨|稱王稱霸|稱揚|稱慶|稱快|稱得上|稱引|稱帝|稱孤道寡|稱奇道異|稱呼|稱名念佛|稱功頌德|稱亂|推稱|稱霸|提稱語|稱觴|戲稱|稱謝|改稱|稱述|稱謂|稱說|暱稱|敬稱|稱謂錄|稱兄道弟|稱賢薦能|稱奇道妙|稱美|眾口稱善|汎稱|指稱詞|稱貸|稱奇道絕|稱便|簡稱|複稱|諱過稱善|見稱|第三人稱|美稱|逞強稱能|聲稱籍甚|謔稱|統稱|額手稱慶|通稱|著稱|道寡稱孤|訛稱|謙稱|號稱|縮屋稱貞|納貢稱臣|職稱|點頭稱善|聲稱|總稱|辯稱|縮稱|親屬稱謂|誑稱|第一人稱|詐稱|額手稱頌|自稱|舊稱|舉觴稱慶}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=稱
+|m_note=chèng - standard in Taiwan; in Mainland, only in the obsolete sense “steelyard”
+|c=cing3,can3
+|h=pfs=
+|md=
+|mn=
+|w=2tsen
+|mc=2
+|oc=2,2
+|cat=v,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[match]]; to [[fit]]
+# [[balanced]]; [[suitable]]
+# {{lb|zh|Mandarin|colloquial}} to [[have]] (money or properties)
+# {{†}} {{zh-alt-form|秤|[[steelyard]]}}
+
+====Compounds====
+{{zh-der|fold=1|對稱|不稱|勻稱|四稱|廝稱|不稱職|報稱|名實相稱|不稱心|倍稱|不相稱|相稱|本末不稱|稱願|稱心|稱體裁衣|稱鎚落井|稱錢|稱意|稱情|稱心滿志|稱心如意|稱家有無|稱職|稱心滿意|稱心快意|稱身|銖兩悉稱|過稱|配稱|躧匾稱鉈|葉面對稱}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=禾09|style=ky|shin=称}}
+
+# {{defn|lang=ja|sort=禾09}}
+
+====Readings====
+* {{ja-readings|goon=[[しょう]] (shō)|kanon=[[しょう]] (shō)|kun=[[はかる]] (hakaru), [[となえる]] (tonaeru), [[たたえる]] (tataeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=칭|eumhun=|rv=ching|mr=ch'ing|y=ching}}
+
+# {{defn|lang=ko|sort=禾09}}
+
+[[Category:Hanja readings|칭]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xưng]], [[xứng]]|rs=禾09}}
+
+# {{defn|lang=vi|sort=禾09}}
+
+[[fr:稱]]
+[[ko:稱]]
+[[hu:稱]]
+[[mg:稱]]
+[[ja:稱]]
+[[pl:稱]]
+[[th:稱]]
+[[chr:稱]]
+[[zh:稱]]

@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=116|rad=穴|as=05|sn=10|four=30211|canj=JCHS|ids=⿱穴乍}}
+
+====References====
+* {{Han ref|kx=0864.140|dkj=25455|dj=1292.120|hdz=42726.060|uh=7A84|ud=31364|bh=AFB6|bd=44982}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǎi
+|c=zaak3
+|h=pfs=chak
+|md=cáh
+|mn=qz:chiak/tw,xm,zz:chek
+|w=4tsaq
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[narrow]], [[tight]] (of rooms, pants, etc.)
+# [[narrow-minded]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=穴05}}
+
+# {{defn|lang=ja|sort=穴05}}
+
+====Readings====
+* {{ja-readings|on=[[さく]] (saku)|kun=[[せまい]] (semai)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=착|eumhun=|mr=ch'ak|y=chak}}
+
+# {{defn|lang=ko|sort=穴05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trách]]|rs=穴05}}
+
+# {{defn|lang=vi|sort=穴05}}
+
+[[fr:窄]]
+[[ko:窄]]
+[[hu:窄]]
+[[mg:窄]]
+[[ja:窄]]
+[[no:窄]]
+[[pl:窄]]
+[[th:窄]]
+[[chr:窄]]
+[[uk:窄]]
+[[vi:窄]]
+[[zh:窄]]

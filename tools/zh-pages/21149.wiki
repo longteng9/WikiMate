@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=102|rad=田|as=05|sn=10|four=23603|canj=IKW|ids=⿳厶大田}}
+
+# [[straw]] [[basket]], [[hamper]]
+
+====References====
+* {{Han ref|kx=0761.060|dkj=21809|dj=1171.020|hdz=42539.060|uh=755A|ud=30042|bh=AF63|bd=44899}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=běn
+|c=bun2
+|h=pfs=
+|md=
+|mn=phún
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=田05}}
+
+# {{defn|lang=ja|sort=田05}}
+
+====Readings====
+* {{ja-readings|on=[[ほん]] (hon)|kun=[[ふご]] (fugo)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=분|eumhun=|rv=bun|mr=pun|y=pun}}
+
+# {{defn|lang=ko|sort=田05}}
+
+[[fr:畚]]
+[[ko:畚]]
+[[hu:畚]]
+[[mg:畚]]
+[[ja:畚]]
+[[pl:畚]]
+[[th:畚]]
+[[zh:畚]]

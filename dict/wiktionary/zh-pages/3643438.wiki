@@ -1,0 +1,75 @@
+{{also|覆盖}}
+==Chinese==
+{{zh-forms|s=覆盖}}
+
+===Pronunciation===
+{{zh-pron
+|m=fùgài
+|c=fuk1 goi3,fuk1 koi3,fau6 goi3
+|ma=y
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[cover]]
+# to [[extend]] to; to [[involve]]; to [[affect]]
+
+===Noun===
+{{zh-noun}}
+
+# [[cover]]
+# [[plant]] cover; [[vegetation]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|ふく|がい}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=ふくがい}} {{m|zh|覆蓋|tr=phjuwk kaj<sup>H</sup>|lit=cover + lid}}. Compare modern {{etyl|yue|-}} reading ''fuk<sup>1</sup> goi<sup>3</sup>''.
+
+===Pronunciation===
+{{ja-pron|yomi=o|ふくがい|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ふくがい}}
+
+# {{lb|ja|sort=ふくがい|rare}} the act of [[covering]]
+# {{lb|ja|sort=ふくがい|rare}} a [[covering]], something that [[cover]]s
+
+====Synonyms====
+* {{sense|covering, in general}} {{ja-r|覆い|おおい}}, {{ja-r|被覆|ひふく}}
+* {{sense|bed covering}} {{ja-r|上掛け|うわがけ}}
+* {{sense|a lid}} {{ja-r|蓋|ふた}}
+
+====Usage notes====
+Rarely used. The synonyms are much more common.
+
+===Verb===
+{{ja-verb-suru|ふくがい|tr=transitive}}
+
+# {{lb|ja|sort=ふくがい|rare}} to [[cover]] something, to [[cover up|cover]] something [[cover up|up]]
+
+====Conjugation====
+{{ja-suru|ふくがい}}
+
+====Synonyms====
+* {{ja-r|覆い被せる|おおいかぶせる}}
+
+====Usage notes====
+Rarely used. The synonym {{ja-r|覆い被せる|おおいかぶせる}} is much more common.
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[Category:Advanced Mandarin|西12覆蓋]]
+
+[[ko:覆蓋]]
+[[hu:覆蓋]]
+[[mg:覆蓋]]
+[[ja:覆蓋]]

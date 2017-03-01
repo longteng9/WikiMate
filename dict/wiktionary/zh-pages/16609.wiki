@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=13|sn=16|four=53035|canj=QIRP|ids=⿰扌感}}
+
+# [[move]], [[shake]]
+
+====References====
+* {{Han ref|kx=0457.200|dkj=12775|dj=0806.030|hdz=31967.070|uh=64BC|ud=25788|bh=BED9|bd=48857}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hàn
+|c=ham6
+|h=pfs=
+|md=
+|mn=hám
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to shake; to vibrate
+# {{lb|zh|Cantonese}} to [[fight]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手13}}
+
+# {{defn|lang=ja|sort=手13}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[うごかす]] (ugokasu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=감|eumhun=|rv=gam|mr=kam|y=kam}}
+
+# {{defn|lang=ko|sort=手13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cắn]], [[hám]]|rs=手13}}
+
+# {{defn|lang=vi|sort=手13}}
+
+[[fr:撼]]
+[[hu:撼]]
+[[mg:撼]]
+[[ja:撼]]
+[[no:撼]]
+[[pl:撼]]
+[[sr:撼]]
+[[th:撼]]
+[[zh:撼]]

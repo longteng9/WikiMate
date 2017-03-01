@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=liúliàng
+|c=lau4 loeng6
+|mn=liû-liāng/liû-liōng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[flow]] [[rate]]; flow [[volume]]
+# [[data]] {{gloss|on a mobile or broadband Internet plan}}
+# [[website]] [[traffic]]
+
+===Derived terms===
+{{zh-der|車流量|流量計}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|りゅう|りょう|yomi=on}}
+
+===Noun===
+{{ja-noun|りゅうりょう}}
+
+# [[flow]] [[rate]]
+# flow [[volume]]
+# [[flux]]
+
+[[zh-min-nan:流量]]
+[[hu:流量]]
+[[mg:流量]]
+[[chr:流量]]
+[[zh:流量]]

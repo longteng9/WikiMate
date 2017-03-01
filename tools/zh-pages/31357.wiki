@@ -1,0 +1,98 @@
+{{character info/new}}
+{{also|饴}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=184|rad=食|as=05|sn=14|four=83760|canj=OIIR|ids=⿰飠台}}
+
+====References====
+* {{Han ref|kx=1418.070|dkj=44080|dj=1942.130|hdz=74449.090|uh=98F4|ud=39156|bh=B97E|bd=47486}}
+
+----
+
+==Chinese==
+{{zh-forms|s=饴}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yí
+|c=ji4
+|mn=î/sū
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[syrup]]
+# a [[kind]] of [[candy]]
+# [[sweet]]-[[meat]]s
+# sweet-[[cake]]s
+
+====Compounds====
+* [[饴糖]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=食05}}
+
+====Readings====
+* {{ja-readings|on=[[い]] ([[i]]), [[し]] ([[shi]])|kun=[[あめ]] ([[ame]])}}
+
+===Noun===
+{{ja-noun|あめ}}
+
+# [[candy]]
+#* {{RQ:Wamyō Ruijushō|4|53}}
+#*: 飴 設文云、飴、音恰'''阿女'''○昌平本下總本有和名二字與釋日本紀引此合本草和名紿糖、新撰字鏡、錫■糖、古本餔、皆訓'''阿女'''按阿女與甘同神武紀、飴訓多加禰
+<!-- Can not find character. Replaced with ■. -->
+
+===References===
+* {{R:Wamyō Ruijushō}}
+
+[[Category:ja:Sweets|あめ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[이]], [[시]]|eumhun=|rv=i, si|mr=i, si|y=i, si}}
+
+# {{defn|lang=ko|sort=食05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=食05|hanviet=di}}
+
+# {{defn|lang=vi|sort=食05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=98f4 Nom Foundation]
+
+[[fr:飴]]
+[[ko:飴]]
+[[it:飴]]
+[[lo:飴]]
+[[li:飴]]
+[[hu:飴]]
+[[mg:飴]]
+[[ja:飴]]
+[[pl:飴]]
+[[pt:飴]]
+[[th:飴]]
+[[uk:飴]]
+[[vi:飴]]
+[[zh:飴]]

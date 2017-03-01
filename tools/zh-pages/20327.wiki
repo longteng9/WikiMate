@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|牍}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=91|rad=片|as=15|sn=19|four=24086|canj=LLGWC,LNGWC}}
+
+# writing tablet
+# [[documents]], [[books]]
+
+====References====
+* {{Han ref|kx=0694.320|dkj=19906|dj=1108.030|hdz=32021.020|uh=7258|ud=29272|bh=C37C|bd=50044}}
+
+----
+
+==Chinese==
+{{zh-forms|s=牍}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|片|賣|c1=s|c2=p|t1=slice|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=dú
+|c=duk6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|公牘|函牘|削牘|剡牘|尺牘|抱牘|文牘|書牘|案牘|案牘勞形|案牘勞煩|牘尾|盈篇累牘|竿牘|簡牘|簡牘學|素牘|累牘連篇|苞苴竿牘|觚牘|讞牘|連篇累牘|連章累牘|長篇累牘}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=片15}}
+
+# {{defn|lang=ja|sort=片15}}
+
+====Readings====
+* {{ja-readings|on=[[とく]] (toku)|kun=[[ふだ]] (fuda), [[かきもの]] (kakimono)}}
+
+====Compounds====
+* {{ja-r|案牘|あんとく}}
+* {{ja-r|芳牘|ほうとく}}
+* {{ja-r|簡牘|かんとく}}
+* {{ja-r|觚牘|ことく}}
+* {{ja-r|尺牘|せきとく}}, {{ja-r|尺牘|しゃくどく}}
+* {{ja-r|書牘|しょとく}}
+* {{ja-r|章牘|しょうとく}}
+* {{ja-r|寸牘|すんとく}}
+* {{ja-r|牘書|とくしょ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=독|eumhun=|rv=dok|mr=tok|y=tok}}
+
+# {{defn|lang=ko|sort=片15}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[độc]]|rs=片15}}
+
+# {{defn|lang=vi|sort=片15}}
+
+[[fr:牘]]
+[[hu:牘]]
+[[ja:牘]]
+[[pl:牘]]
+[[th:牘]]
+[[zh:牘]]

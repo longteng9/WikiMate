@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|垦}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=13|sn=16|four=27104|canj=BVG|ids=⿱⿰豸艮土}}
+
+# [[cultivate]], [[reclaim]], to [[farm]] [[land]]
+
+====References====
+* {{Han ref|kx=0240.030|dkj=05509|dj=0479.230|hdz=10492.040|uh=58BE|ud=22718|bh=BEC1|bd=48833}}
+
+----
+
+==Chinese==
+{{zh-forms|s=垦}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kěn
+|c=han2
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=土13}}
+
+# {{defn|lang=ja|sort=土13}}
+
+====Readings====
+* {{ja-readings|on=[[こん]] (kon)|kun=[[ひらく]] (hiraku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=간|rv=gan|mr=kan}}
+
+# {{defn|lang=ko|sort=土13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khẩn]]|rs=土13}}
+
+# {{defn|lang=vi|sort=土13}}
+
+[[fr:墾]]
+[[ko:墾]]
+[[li:墾]]
+[[hu:墾]]
+[[ja:墾]]
+[[pl:墾]]
+[[th:墾]]
+[[zh:墾]]

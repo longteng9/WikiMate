@@ -1,0 +1,13 @@
+==Japanese==
+{{ja-kanjitab|ぶん|まつ|yomi=on}}
+
+===Noun===
+{{ja-noun|ぶんまつ}}
+# [[end]] of a [[document]]
+#: {{ja-usex|'''文末'''にその一文があるだけで心象が変わるでしょう。|'''ぶんまつ''' に その いちぶん が ある だけ で しんしょう が かわる でしょう。|Adding that one more sentence at the end will alter the impression that reader gets.}}
+
+====Antonyms====
+* {{ja-r|文頭|ぶんとう}}
+
+[[hu:文末]]
+[[zh:文末]]

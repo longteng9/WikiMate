@@ -1,0 +1,44 @@
+{{also|郁积}}
+==Chinese==
+{{zh-forms|s=郁积}}
+
+===Pronunciation===
+{{zh-pron
+|m=yùjī
+|c=wat1 zik1
+|mn=qz:ut-chit/tw,xm,zz:ut-chek
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|of emotions, especially anger or stress}} to [[accumulate]]; to [[build up]]; to be [[smother]]ed
+
+===Noun===
+{{zh-noun}}
+
+# [[buildup]] of emotions, especially [[anger]] or [[stress]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|うつ|k1=うっ|せき|yomi=on}}
+
+===Noun===
+{{ja-noun|うっせき}}
+
+# [[buildup]] of emotions, especially [[anger]] or [[stress]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|うっせき}}
+
+# [[accumulate]], [[suppress]], or [[smother]] emotions, especially [[anger]] or [[stress]]; let emotions [[build up]]
+#: {{ja-usex|'''鬱積'''した不満|'''うっせき''' した ふまん|pent-up discontent}}
+
+====Conjugation====
+{{ja-suru|うっせき}}
+
+[[Category:ja:Emotions|うっせき]]
+
+[[mg:鬱積]]

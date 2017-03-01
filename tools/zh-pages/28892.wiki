@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=163|rad=邑|as=05|sn=8|four=77727|canj=HINL,HMNL,XHMNL|ids=⿰氐⻏}}
+
+# official residence, residence of
+
+====References====
+* {{Han ref|kx=1270.060|dkj=39347|dj=1769.050|hdz=63763.080|uh=90B8|ud=37048|bh=AAF3|bd=43763}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dǐ
+|c=dai2
+|h=pfs=tai
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|壚邸|官邸|府邸|旅邸|朱邸|潛邸|皇邸|私邸|藩邸|邸報|邸弟|邸抄|邸第|邸舍|鳳邸|龍邸}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=邑05}}
+
+# {{defn|lang=ja|sort=邑05}}
+
+====Readings====
+* {{ja-readings|goon=[[たい]] (tai) {{non-joyo-reading}}|kanon=[[てい]] (tei)|kun=[[やしき]] (yashiki)|nanori=}}
+
+===Noun===
+{{ja-noun|やしき}}
+
+# [[estate]], [[grounds]], [[mansion]]
+
+====Alternative forms====
+* {{l|ja|屋敷}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=저|eumhun=|rv=jeo|mr=chŏ|y=ce}}
+
+====Definition====
+
+# [[House]]
+# [[Government office]]
+
+====Compounds====
+
+# [[官邸]] ([[관저]])
+
+[[fr:邸]]
+[[ko:邸]]
+[[hu:邸]]
+[[mg:邸]]
+[[ja:邸]]
+[[pl:邸]]
+[[th:邸]]
+[[zh:邸]]

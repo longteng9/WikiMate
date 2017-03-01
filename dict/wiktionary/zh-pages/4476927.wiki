@@ -1,0 +1,56 @@
+{{also|离别}}
+==Chinese==
+{{zh-forms|s=离别}}
+
+===Pronunciation===
+{{zh-pron
+|m=líbié
+|c=lei4 bit6
+|mn=lī-pia̍t/twv:lî-pia̍t
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[leave]]; to [[go away]] from; to [[part]] with
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|り|べつ|yomi=o}}
+
+===Noun===
+{{ja-noun|りべつ}}
+
+# [[separation]] from a person
+# [[divorce]]
+
+====Synonyms====
+* {{sense|divorce}} {{ja-r|破婚|はこん}}, {{ja-r|離縁|りえん}}, {{ja-r|離婚|りこん}}, {{ja-r|夫婦別れ|ふうふわかれ}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|りべつ}}
+
+# [[separate]] from a person
+#: {{ja-usex|混乱期の中で肉親と離別する|こんらん-き の なか で にくしん と りべつ する|be separated from one's blood relatives during a time of unrest}}
+# get a divorce
+
+====Conjugation====
+{{ja-suru|りべつ}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=이별}}
+
+# {{hanja form of|이별|[[separation]]}}
+
+[[ko:離別]]
+[[hu:離別]]
+[[mg:離別]]
+[[ja:離別]]
+[[zh:離別]]

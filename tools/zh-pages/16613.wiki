@@ -1,0 +1,51 @@
+{{character info/new}}
+{{also|扞}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=13|sn=16|four=|canj=QJJJ,XQJJJ|ids=⿰扌幹}}
+
+====References====
+* {{Han ref|kx=0457.250|dkj=12780|dj=0806.080|hdz=31967.010|uh=64C0|ud=25792}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|幹|c1=s|c2=p|t1=hand|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gǎn
+|c=gon2
+|mc=
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[roll]] [[flat]]
+
+====Compounds====
+{{zh-der|擀麵棍|擀麵|擀麵杖|擀皮}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[gán]], [[cán]]|rs=手13}}
+
+# {{defn|lang=vi|sort=手13}}
+
+[[fr:擀]]
+[[mg:擀]]
+[[pl:擀]]
+[[th:擀]]
+[[chr:擀]]
+[[zh:擀]]

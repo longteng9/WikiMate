@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=78|rad=歹|as=12|sn=16|four=|canj=MNLMC|ids=⿰歹貴}}
+
+# to [[open]] (as an [[ulcer]] or [[sore]])
+# [[burst]]ing of an [[abscess]]
+# [[inflamed]]
+# [[inflammation]]
+
+====References====
+* {{Han ref|kx=0583.180|dkj=16571|dj=0976.060|hdz=21394.150|uh=6BA8|ud=27560}}
+
+----
+
+==Chinese==
+{{zh-forms|s=㱮}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huì,kuì
+|c=kui2
+|mc=y
+|oc=y
+|ma=
+|cat=v,a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=歹12}}
+
+# {{defn|lang=ja|sort=歹12}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai), [[え]] (e), [[こつ]] (kotsu), [[ごち]] (gochi)|kun=[[ただれる]] (tadareru)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=歹12| hanviet = hội}}
+
+# {{defn|lang=vi|sort=歹12}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6ba8 Nom Foundation]
+
+[[fr:殨]]
+[[hu:殨]]
+[[pl:殨]]
+[[th:殨]]
+[[zh:殨]]

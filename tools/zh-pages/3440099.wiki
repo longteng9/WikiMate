@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dìngwèi
+|c=ding6 wai6-2
+|h=pfs=thin-vi
+|mn=tēng-ūi
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[orient]]
+
+===Noun===
+{{zh-noun}}
+
+# [[location]]; [[positioning]]; [[orientation]]
+#: {{zh-x|市場 定位|market '''positioning'''}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てい|い|yomi=on}}
+
+===Noun===
+{{ja-noun|ていい}}
+
+# [[location]]; [[positioning]]
+
+====Derived terms====
+* {{ja-r|反響定位|はんきょう てい.い}}: [[echolocation]]
+
+[[zh-min-nan:定位]]
+[[mg:定位]]
+[[zh:定位]]

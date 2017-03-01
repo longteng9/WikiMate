@@ -1,0 +1,17 @@
+==Japanese==
+{{ja-kanjitab|む|せい|し|いん|yomi=on}}
+
+===Etymology===
+''From'' {{ja-r|無声|むせい|gloss=[[voiceless]]}} + {{ja-r|子音|し.いん|gloss=[[consonant]]}}
+
+===Noun===
+{{ja-noun|むせい し.いん}}
+
+# {{lb|ja|phonetics}} [[voiceless]] [[consonant]]
+
+====Antonyms====
+* {{ja-r|有声子音|ゆうせい しいん}}
+
+[[Category:ja:Phonetics|むせいしいん]]
+
+[[hu:無声子音]]

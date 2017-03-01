@@ -1,0 +1,40 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=155|rad=赤|as=06|sn=13|canj=GCLMI|four=45236|ids=⿰赤虫}}
+
+# {{defn|Han|sort=赤06}}
+
+====References====
+* {{Han ref|kx=1214.050|dkj=37003|dj=1682.040|hdz=53507.130|uh=8D68|ud=36200|bh=E05C|bd=57436}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tóng
+|c=tung4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:twedu|B04839}}
+
+[[fr:赨]]
+[[pl:赨]]
+[[th:赨]]
+[[zh:赨]]

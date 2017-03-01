@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|帳|账}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=08|sn=15|four=61832|canj=BCSMV|ids=⿰貝長}}
+
+# [[accounts]]
+# [[bill]], [[debt]]
+# [[credit]]
+
+====References====
+* {{Han ref|kx=1210.131|dkj=36843|dj=1676.130|hdz=63645.060|uh=8CEC|ud=36076|bh=BDE3|bd=48611}}
+
+----
+
+==Chinese==
+{{zh-forms|s=账}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhàng
+|c=zoeng3
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不對賬|了賬|候賬|吃賠賬|後賬|拉賬|掛賬|渾賬|精鳥賬|賭賬}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=貝08}}
+
+# {{defn|lang=ja|sort=貝08}}
+
+====Readings====
+* {{ja-readings|on=[[ちょう]] (chō)|kun=[[とばり]] (tobari)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=장|eumhun=|rv=jang|mr=chang|y=cang}}
+
+# {{defn|lang=ko|sort=貝08}}
+
+[[fr:賬]]
+[[hu:賬]]
+[[pl:賬]]
+[[th:賬]]
+[[vi:賬]]
+[[zh:賬]]

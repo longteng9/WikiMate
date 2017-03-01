@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=73|rad=曰|as=05|sn=9|four=60727|canj=APVO|ids=⿱曰匃}}
+
+# [[why]]? [[what]]? [[where]]? [[when]]?
+
+====References====
+* {{Han ref|kx=0502.100|dkj=14290|dj=0874.150|hdz=21502.100|uh=66F7|ud=26359|bh=AC54|bd=44116}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hé
+|c=hot3,hot6
+|mn=a̍h
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+#: {{zh-x|時 日 曷 喪，予 及 汝 皆 亡。|'''When''' [will] this sun die? I [shall] die with you.|CL}}
+
+====Compounds====
+{{zh-der|曷鼻}}
+
+===References===
+* {{R:yue:Hanzi}}
+* {{R:nan:thcwdq}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=曰05}}
+
+# {{defn|lang=ja|sort=曰05}}
+
+====Readings====
+* {{ja-readings|on=[[かつ]] (katsu)|kun=[[なに]] (nani), [[なんぞ]] (nanzo), [[いずくんそ]] (izukunso)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=갈|eumhun=|rv=gal|mr=kal|y=kal}}
+
+# {{defn|lang=ko|sort=曰05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hạt]], [[hột]]|rs=曰05}}
+
+# {{defn|lang=vi|sort=曰05}}
+
+[[zh-min-nan:曷]]
+[[fr:曷]]
+[[ko:曷]]
+[[hu:曷]]
+[[mg:曷]]
+[[ms:曷]]
+[[ja:曷]]
+[[pl:曷]]
+[[th:曷]]
+[[zh:曷]]

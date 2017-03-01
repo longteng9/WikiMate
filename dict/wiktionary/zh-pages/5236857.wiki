@@ -1,0 +1,53 @@
+==Chinese==
+{{zh-forms|erect|autumn}}
+
+===Etymology===
+{{zh-compound|立|秋|erect|autumn}}
+
+===Pronunciation===
+{{zh-pron
+|m=Lìqiū
+|c=laap6 cau1
+|mn=Li̍p-chhiu
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# The first day of autumn, one of the {{w|solar terms}}.
+
+===See also===
+{{list:solar terms/zh}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|りつ|k1=りっ|しゅう|yomi=o}}
+
+===Etymology===
+{{etyl|ltc|ja}} {{IPAchar|/*lip̚t͡sʰiu/}} > {{etyl|ja|-}} {{IPAchar|/*ɾit̚t͡ʃʰjuː/}} > {{IPAchar|/ɾiʃːjuː/}}
+
+===Pronunciation===
+{{ja-pron|りっしゅう|y=o}}
+
+===Proper noun===
+{{ja-pos|proper|りっしゅう}}
+
+# The first day of autumn, one of the {{w|solar terms}}.
+
+===See also===
+{{list:solar terms/ja}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Proper noun===
+{{vi-hantu}}
+
+# {{han tu form of|lập thu|The first day of autumn, one of the {{w|solar terms}}}}
+
+[[ja:立秋]]
+[[zh:立秋]]

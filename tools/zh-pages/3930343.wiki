@@ -1,0 +1,44 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=liúniú
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[zebu]] {{gloss|domesticated ox native to Asia and Africa}}
+
+{{zh-cat|Bovines}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|こぶ|うし|yomi=k}}
+
+===Etymology===
+Compound of {{affix|sort=こぶうし|ja|瘤|tr1=kobu|t1=hump|牛|tr2=ushi|t2=ox}}.
+
+===Pronunciation===
+{{ja-pron|yomi=k|こぶ.うし|acc=2|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|こぶ.うし|コブ.ウシ}}
+
+# [[zebu]]
+
+====Synonyms====
+* {{ja-r|犎牛|ほうぎゅう}}, {{ja-r|インド牛|インド.うし}}, {{ja-r|ゼブ}}
+
+===References===
+<references/>
+
+[[Category:ja:Bovines|こぶうし]]
+
+[[mg:瘤牛]]
+[[zh:瘤牛]]

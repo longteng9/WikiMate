@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|鈩|𬬻}}
+==Translingual==
+{{Han simplified forms|鑪|鈩|𬬻}}
+
+===Han character===
+{{Han char|rn=167|rad=金|as=16|sn=24|four=81117|canj=CYPT|ids=⿰金盧}}
+
+====References====
+* {{Han ref|kx=1326.200|dkj=41038|dj=1827.250|hdz=64272.080|uh=946A|ud=37994|bh=C644|bd=50756}}
+
+----
+
+==Chinese==
+{{zh-forms|s=𬬻}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lú
+|c=lou5
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[fireplace]], [[stove]], [[oven]], [[furnace]]
+# [[rutherfordium]] (Rf) (chemical element with atomic number 104)
+
+{{zh-cat|Chemical elements}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金16|style=ky|shin=鈩}}
+
+# {{defn|lang=ja|sort=金16}}
+
+====Readings====
+* {{ja-readings|on=[[ろ]] (ro)|kun=[[たたら]] (tatara), [[いろり]] (irori)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[로]]>[[노]]|eumhun=|rv=ro>no|mr=ro>no|y=lo>no}}
+
+# {{defn|lang=ko|sort=金16}}
+
+[[fr:鑪]]
+[[lt:鑪]]
+[[hu:鑪]]
+[[mg:鑪]]
+[[ja:鑪]]
+[[pl:鑪]]
+[[ro:鑪]]
+[[th:鑪]]
+[[vi:鑪]]
+[[zh:鑪]]

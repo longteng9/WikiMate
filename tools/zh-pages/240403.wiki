@@ -1,0 +1,101 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xìngfú
+|c=hang6 fuk1
+|h=pfs=hen-fuk
+|md=hâing-hók
+|mn=qz:hěng-hok/tw,xm,zz:hēng-hok
+|w=3hhin foq
+|mc=1,2
+|ma=y
+|cat=a,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[happy]]
+#: {{zh-x|從此 過 著{zhe} 幸福 快樂{lè} 的 日子{zi}|to live happily ever after}}
+
+===Noun===
+{{zh-noun}}
+
+# [[happiness]]
+#: {{zh-x|祝 你 幸福。|''Wish you '''happiness'''.''}}
+#: {{zh-x|沒有 成功，哪 來 的 幸福？|How can one be '''happy''' without success?}}
+
+===Descendants===
+{{CJKV||こうふく|행복|hạnh phúc}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|ふく|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|こうふく|y=o|acc=0|dev=3|acc_ref=NHK}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|こうふく|hhira=かうふく}}
+
+# [[happy]]
+
+====Inflection====
+{{ja-na|こうふく}}
+
+===Noun===
+{{ja-noun|こうふく|hhira=かうふく}}
+
+# [[happiness]]
+
+====Compounds====
+* {{ja-r|幸福感|こうふくかん}}: feeling of happiness
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|こうふく]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=행복}}
+
+# {{hanja form of|행복|[[happiness]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|hạnh phúc|[[happiness]]}}
+
+[[zh-min-nan:幸福]]
+[[fr:幸福]]
+[[ko:幸福]]
+[[it:幸福]]
+[[ku:幸福]]
+[[lo:幸福]]
+[[lt:幸福]]
+[[li:幸福]]
+[[hu:幸福]]
+[[mg:幸福]]
+[[ms:幸福]]
+[[fj:幸福]]
+[[ja:幸福]]
+[[pl:幸福]]
+[[ta:幸福]]
+[[chr:幸福]]
+[[uk:幸福]]
+[[zh:幸福]]

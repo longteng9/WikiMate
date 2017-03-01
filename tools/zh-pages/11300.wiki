@@ -1,0 +1,192 @@
+{{character info/new}}
+{{also|侬}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=13|sn=15|four=25232|canj=OTWV|ids=⿰亻農}}
+
+====References====
+* {{Han ref|kx=0118.250|dkj=01176|dj=0251.090|hdz=10225.040|uh=5102|ud=20738|bh=BBFA|bd=48122}}
+
+----
+
+==Chinese==
+{{zh-forms|s=侬}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|alt1=亻|農|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+“Person; I; me > ''suffix for pronouns''” in southeastern dialects.
+
+Its senses of “person; human being” and “''pronoun suffix''” are well-attested in the classical literature, dating back to the {{w|Six Dynasties}}. At the present time, traces of this word are found in regions of [[Jiangsu]] (Northern Wu), [[Anhui]] (Hui), [[Shanghai]] (Northern Wu), [[Zhejiang]] (Southern Wu), [[Jiangxi]] (Gan), [[Fujian]] (Min), [[Guangdong]] (Southern Min, Cantonese), [[Guangxi]] (Cantonese) and [[Hainan]] (Min).
+
+;“Person; human”
+:In Eastern (Min Dong) and Southern Min (Min Nan), it serves as the vernacular readings of {{och-l|人|person}}, by itself or in compounds.
+
+;“I”
+:{{lang|zh|儂}} was used to mean “I” in medieval poetry from the Wu region, before it was displaced by the common Chinese {{ltc-l|我|I}}. Also attested was ancient Wu {{ltc-l|阿儂|I}}, which was abbreviated to {{zh-l|*阿|I}} in certain dialects, such as {{w|Jinhua}}.
+
+;“''Pronoun suffix''”
+:This is widely found in Wu and Min dialects. The structure ‹ ''singular pronoun'' (“I, you, he/she/it”) + {{lang|zh|儂}} › is common, with {{lang|zh|儂}} functioning either as a meaningless particle or a pluraliser. The resulting forms were thus used to mean singular or plural pronouns, and were rather prone to [[elision]] to become a single syllable. Compare the following plural pronouns in Min:
+
+:{| class="wikitable" style="text-align:center"
+|-
+! Original word !! Meaning !! {{w|Fuding}}<br>(Eastern Min)!! {{w|Longyan}}<br>(Southern Min)!! {{w|Xiamen}}<br>(Southern Min)
+|-
+! {{zh-l|*我儂}} !! we
+| ''ue neŋ'' || ''gua laŋ'' || ''gun'' ({{zh-l|*阮}})
+|-
+! {{zh-l|*汝儂}} !! you (''plural'')
+| ''ni neŋ'' || ''li laŋ'' || ''lin'' ({{zh-l|*恁}})
+|-
+! {{zh-l|*伊儂}} !! they
+| ''i neŋ'' || ''i laŋ'' || ''in'' ({{zh-l|*𪜶}})
+|}
+
+:A similar chain of changes happened in the Wu dialects to arrive at the modern divergent dialectal forms for “you (''singular'')”. In Shanghai and some other Wu dialects, the first syllable had become elided, leaving {{lang|zh|儂}} to mean “you (''singular'')”.
+
+:{| class="wikitable" style="text-align:center"
+|-
+! colspan=2 | {{ltc-l|爾儂}}
+|-
+| {{w|Fenghua}} (Zhejiang) || {{IPAchar|/n̩˧˨˦.noŋˑ/}}
+|-
+| {{w|Yuyao}} (Zhejiang) || {{IPAchar|/noŋ˩˩˧/}}
+|-
+| {{w|Shanghai}} (Shanghai) || {{IPAchar|/nʊŋ˨˧/}} ({{lang|zh|儂}})
+|-
+| {{w|Ningbo}} (Zhejiang) || {{IPAchar|/nəu˨˩˧/}}
+|-
+| {{w|Changshu}} (Jiangsu) || {{IPAchar|/nɛ̃˧˩/}}
+|-
+| {{w|Suzhou}} (Jiangsu) || {{IPAchar|/ne̞˧˩/}}
+|-
+| {{w|Shengze}} (Jiangsu) || {{IPAchar|/nə˧˩/}}
+|}
+
+With regard to the etymology of this word, {{zh-ref|Huang (2000)}}, {{zh-ref|Norman (1983)}} and {{zh-ref|Zhou (1986)}} hypothesised that this is the same as {{och-l|農|farmer; peasant}}. The use of this word as a pronoun may have originated as a form of personal deprecation and then come to be used as a full-fledged pronoun. {{zh-ref|Pan and Chen (1995)}} considered this theory implausible, and proposed that this was originally a {{w|Baiyue}} substrate word, possibly of [[Tai-Kadai]] origin. The initial meaning of ''nong'' was possibly a clan name, later developing to mean “person; I”. Compare {{cog|za|Nungz||''a surname''}} and name of the 11<sup>th</sup> century [[Zhuang]] leader {{w|Nong Zhigao}}, as well as the name of the {{w|Nùng}} people in Vietnam.
+
+===Pronunciation===
+{{zh-pron
+|m=nóng
+|c=nung4
+|md=nè̤ng
+|mn=lâng/lông
+|mn_note=lâng - vernacular; lông - literary
+|mn-t=nang5
+|w=3non
+|mc=y
+|oc=y
+|mna=Taiwanese-The_Consonant_l.ogg
+|cat=n,pron,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[person]]; [[human being]]
+# {{n-g|Suffix for pronouns, functioning as a meaningless particle or a pluralising particle.}}
+# {{n-g|Used as a variety of pronouns in different dialects:}} [[I]]; '''[[you]] (''singular'')'''; [[he]], [[she]], [[it]]; [[we]]; [[you]] (''plural''); [[they]]
+#* {{zh-x|哪能 儂 現在 上海言話 講 了 介 好？|How come '''you''' speak Shanghainese so well?|SH}}
+# {{surname|lang=zh}} [[Nong]]
+
+====Synonyms====
+{{zh-dial|你}}
+
+===Compounds===
+{{zh-der|你儂|我儂|伊儂|汝儂|咱儂|儂家|偎儂|你儂我儂|儂人|吳儂|曼儂|渠儂}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|わし|yomi=kun}}
+
+===Kanji===
+{{ja-kanji|grade=|rs=人13}}
+
+====Readings====
+{{ja-readings
+|goon=[[の]] (no), [[のう]] (nō)
+|kanon=[[どう]] (dō)
+|kanyoon=[[のん]] (non)
+|kun=[[わし]] (washi), [[かれ]] (kare)
+}}
+
+====Usage notes====
+This character is seldom used in modern Japanese.
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|わし}}
+Contraction of {{m|ja|私|tr=watashi||I, me}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|わし|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|私}} {{qualifier|more common}}
+
+====Pronoun====
+{{ja-pos|わし|pronoun}}
+
+# [[I]], [[me]] (used by the elderly)
+
+=====Usage notes=====
+The term is generally only used by the elderly, and its use is often considered stereotypical of them. As such, it is frequently used in TV shows and comics to emphasize the age of characters.
+
+More commonly spelled {{m|ja|私}}, or in [[kana#English|kana]] to make the reading explicit.
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|かれ}}
+From {{etyl|ojp|ja|sort=かれ}}. Compound of {{suffix|lang=ja|sort=かれ|彼|tr1=ka|t1=that, yon|れ|tr2=re|pos2=nominalizing suffix for demonstratives}}. Found in the [[w:Man'yōshū|''Man'yōshū'']] compiled around 759.
+
+====Pronunciation====
+{{ja-pron|yomi=k|かれ|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|彼}} {{qualifier|more common}}
+
+====Pronoun====
+{{ja-pos|pronoun|かれ}}
+
+# {{lb|ja|sort=かれ|rare}} third person pronoun: [[he]], [[she]]
+## particularly, male personal third person pronoun: [[he]]
+## by extension from ''he'': [[boyfriend]]
+
+=====Usage notes=====
+Very rare spelling. See the more common spelling {{m|ja|彼}} for more details about the term.
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=농|rv=nong|mr=nong}}
+
+# {{defn|lang=ko|sort=人13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nông]], [[nùng]], [[noọng]]|rs=人13}}
+
+# {{defn|lang=vi|sort=人13}}
+
+[[zh-min-nan:儂]]
+[[fr:儂]]
+[[ko:儂]]
+[[lt:儂]]
+[[li:儂]]
+[[hu:儂]]
+[[mg:儂]]
+[[ja:儂]]
+[[pl:儂]]
+[[ru:儂]]
+[[th:儂]]
+[[zh:儂]]

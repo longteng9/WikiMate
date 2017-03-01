@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|拂}}
+==Translingual==
+
+===Etymology===
+Japanese shinjitai {{Han simp|拂|f=弗|t=厶}}.
+
+===Han character===
+{{Han char|rn=64|rad=手|as=02|sn=5|four=|canj=QI,XXQI|ids=⿰扌厶}}
+
+# to [[shake]] off, to [[brush]] away
+# [[dust]]
+
+====References====
+* {{Han ref|kx=0417.131|dkj=11784|dj=0764.040|hdz=31828.020|uh=6255|ud=25173}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǎn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=手02|style=s|kyu=拂}}
+
+# to [[clear]] [[out]] or [[away]]
+# to [[pay]]
+
+====Readings====
+{{ja-readings
+|goon=[[びち]] (bichi) {{non-joyo-reading}}, [[ほち]] (hochi) {{non-joyo-reading}}
+|kanon=[[ひつ]] (hitsu) {{non-joyo-reading}}, [[ふつ]] (futsu)
+|kanyoon=[[ほつ]] (hotsu) {{non-joyo-reading}}
+|kun=[[はらう]] ([[払う]], harau), [[はらい]] ([[払い]], harai)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[불]], [[필]]|eumhun=|rv=bul, pil|mr=pul, p'il|y=pul, phil}}
+
+# {{defn|lang=ko|sort=手02}}
+
+[[fr:払]]
+[[ko:払]]
+[[li:払]]
+[[hu:払]]
+[[ja:払]]
+[[pl:払]]
+[[th:払]]
+[[uk:払]]
+[[zh:払]]

@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|とう|じ|ろん|yomi=o}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=とうじろん|統辞|tr1=tōji|t1=syntax|pos1=less common on its own than synonym {{m|ja|構文}} ''kōbun''|論|tr2=ron|t2=theory}}.<ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=goon|とうじろん|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|とうじろん}}
+
+# {{lb|ja|linguistics|sort=とうじろん}} {{synof|lang=ja|統語論|tr=tōgoron}}: {{l|en|syntax}} {{qualifier|as a field of study}}, {{l|en|syntactics}}
+
+====Usage notes====
+Use the term {{m|ja|構文|tr=kōbun}} to refer to {{m|en|syntax}} in the {{m|en|grammatical}} {{m|en|structure}} sense, as in ''“the syntax of this sentence...”''
+
+===References===
+<references/>
+
+{{cln|ja|words suffixed with 論|sort=とうじろん}}

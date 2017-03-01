@@ -1,0 +1,27 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shāshì
+|c=saa1 si6-2
+|cat=n
+}}
+
+===Etymology 1===
+{{bor|zh|en|SARS}}, via {{der|cmn|yue|-}}.
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|Mainland China|Hong Kong|pathology}} [[SARS]]
+
+===Etymology 2===
+{{bor|zh|en|Sarsae}}.
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|chiefly|Taiwan}} [[sarsaparilla]] {{gloss|soft drink}}
+
+{{zh-cat|Beverages}}

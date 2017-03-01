@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=06|sn=9|four=55006|canj=QLWP|ids=⿰扌曳}}
+
+# [[drag]], [[tow]]
+# [[throw]]
+# [[twist]]
+
+====References====
+* {{Han ref|kx=0428.230|dkj=12013|dj=0777.170|hdz=31869.030|uh=62FD|ud=25341|bh=ABFB|bd=44027}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhuài,yè,zhuāi
+|c=jai6
+|h=pfs=
+|md=
+|mn=chhōa
+|w=
+|mc=
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手06}}
+
+# {{defn|lang=ja|sort=手06}}
+
+====Readings====
+* {{ja-readings|on=[[えい]] (ei), [[えつ]] (etsu), [[えち]] (echi), [[せい]] (sei)|kun=[[ひく]] (hiku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=예|eumhun=|rv=ye|mr=ye|y=yey}}
+
+# {{defn|lang=ko|sort=手06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dìa]], [[duệ]], [[dấy]]|rs=手06}}
+
+# {{defn|lang=vi|sort=手06}}
+
+[[fr:拽]]
+[[ko:拽]]
+[[hu:拽]]
+[[mg:拽]]
+[[no:拽]]
+[[pl:拽]]
+[[th:拽]]
+[[zh:拽]]

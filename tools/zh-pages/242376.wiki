@@ -1,0 +1,53 @@
+{{also|语言}}
+==Chinese==
+{{zh-forms|s=语言}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǔyán
+|c=jyu5 jin4
+|c-t=ngui4 ngun3
+|h=pfs=ngî-ngièn
+|md=ngṳ̄-ngiòng
+|mn=xm,tp:gú-giân/qz:gír-giân/zz:gí-gân/kh:gí-giân
+|mn-t=ghe2 ngang5
+|w=3nyy hhi
+|mc=1,1
+|ma=y
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|countable|uncountable}} [[language]] {{zh-mw|種|m:門}}
+#: {{zh-x|你 會 說 哪 些 語言？|What '''languages''' do you speak?}}
+#: {{zh-x|少{shǎo}數{shù} 族群 語言|[[minority language|minority '''language''']]}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[linguistic]] {{gloss|relating to languages, or language use}}
+#: {{zh-x|語言 慣例|'''linguistic''' convention}}
+
+====Derived terms====
+{{zh-der|標記語言|共同語言|人工語言|語言關|語言學|語言藝術}}
+
+{{zh-cat|Beginning}}
+
+[[zh-min-nan:語言]]
+[[fr:語言]]
+[[ko:語言]]
+[[hr:語言]]
+[[it:語言]]
+[[lo:語言]]
+[[lt:語言]]
+[[hu:語言]]
+[[mg:語言]]
+[[ms:語言]]
+[[nl:語言]]
+[[ja:語言]]
+[[pl:語言]]
+[[th:語言]]
+[[chr:語言]]
+[[zh:語言]]

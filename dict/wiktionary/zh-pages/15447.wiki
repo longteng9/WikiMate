@@ -1,0 +1,101 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=06|sn=10|four=22331|canj=OGP|ids=⿱任心}}
+
+# [[that]]
+# [[like]] [[this]]
+# [[thus]]
+# [[so]]
+# [[such]]
+
+====References====
+* {{Han ref|kx=0383.160|dkj=10518|dj=0713.070|hdz=42291.030|uh=6041|ud=24641|bh=D1A1|bd=53665}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=[[jam6]]|y=yam6}}
+
+# {{defn|lang=yue|sort=心06}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心06}}
+
+# {{defn|lang=ja|sort=心06}}
+
+====Readings====
+* {{ja-readings|on=[[いん]] (in), [[じん]] (jin), [[にん]] (nin)|kun=[[おもう]] (omou)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=임|eumhun=|rv=im|mr=im|y=im}}
+
+# {{defn|lang=ko|sort=心06}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[nèn]] ([[nen4]]), [[rèn]] ([[ren4]])|wg=nen<sup>4</sup>, jen<sup>4</sup>}}
+
+1. that
+2. like this
+3. thus
+4. so
+5. such
+
+----
+
+==Min Nan==
+
+===Alternative forms===
+* {{l|nan|您}}
+
+===Pronunciation===
+* {{IPA|[ lɪn˥˧ ]|lang=nan}}
+
+===Pronoun===
+{{nan-pronoun|ts|poj=[[lín]] (lin<sup>2</sup>)|pojt=lin2|rs=心06}}
+
+# (''plural'') you
+# {{lb|nan|possessive}} your
+
+===References===
+* {{thcwd|5971}}
+
+===See also===
+* {{qualifier|Mandarin}} {{zh-l|你們|you (plural)}}
+* {{qualifier|Mandarin}} {{zh-l|[[你]][[的]]|nǐ de|your}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhắm]], [[nhẩm]], [[nhậm]], [[nhẫm]]|rs=心06}}
+
+# {{defn|lang=vi|sort=心06}}
+
+[[zh-min-nan:恁]]
+[[fr:恁]]
+[[li:恁]]
+[[hu:恁]]
+[[mg:恁]]
+[[fj:恁]]
+[[ja:恁]]
+[[pl:恁]]
+[[th:恁]]
+[[chr:恁]]
+[[zh:恁]]

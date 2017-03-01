@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|孪}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=39|rad=子|as=19|sn=22|four=22407|canj=VFND|ids=⿱䜌子}}
+
+# [[twin]]s
+
+====References====
+* {{Han ref|kx=0281.090|dkj=07051|dj=0551.090|hdz=21020.130|uh=5B7F|ud=23423|bh=C570|bd=50544}}
+
+----
+
+==Chinese==
+{{zh-forms|s=孪}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=孿
+|c=lyun4,syun3
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|孿子|孿生|孿生兄弟|孿生子}}
+
+===References===
+* {{R:twedu|A01004}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=子19}}
+
+# {{defn|lang=ja|sort=子19}}
+
+====Readings====
+* {{ja-readings|on=[[さん]] (san), [[せん]] (sen), [[れん]] (ren)|kun=[[ふたご]] (futago)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=산|rv=san|mr=san}}
+
+# {{defn|lang=ko|sort=子19}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=子19|hanviet=loan}}
+
+# {{defn|lang=vi|sort=子19}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5b7f Nom Foundation]
+
+[[fr:孿]]
+[[li:孿]]
+[[hu:孿]]
+[[pl:孿]]
+[[th:孿]]
+[[zh:孿]]

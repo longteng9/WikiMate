@@ -1,0 +1,58 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bèigào
+|c=bei6 gou3
+|h=pfs=phi-ko
+|mn=pī-kò
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[defendant]]; the [[accused]]; [[respondent]]
+
+====Antonyms====
+* {{zh-l|原告}}
+
+===Verb===
+{{zh-verb}}
+
+# to be [[sued]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひ|こく|yomi=on}}
+
+===Noun===
+{{ja-noun|ひこく}}
+
+# [[defendant]], the [[accused]]
+
+====Derived terms====
+* {{ja-r|被告側|ひこくがわ}}: the defense
+* {{ja-r|被告席|ひこくせき}}: the dock, the defendant's seat
+* {{ja-r|被告人|ひこくにん}}: accused, defendant, prisoner at the bar
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=피고}}
+
+# {{hanja form of|피고|[[defendant]], the [[accused]]}}
+
+[[ko:被告]]
+[[lo:被告]]
+[[hu:被告]]
+[[mg:被告]]
+[[ja:被告]]
+[[ru:被告]]
+[[chr:被告]]
+[[zh:被告]]

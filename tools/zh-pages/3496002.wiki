@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yánxiū
+|c=jin4 sau1
+|mn=qz,xm,zz:gián-siu
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to do [[research]] [[work]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|けん|しゅう|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|けんしゅう|y=on}}
+
+===Noun===
+{{ja-noun|けんしゅう}}
+
+# work-related, [[in-service]] [[study]] and [[training]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|けんしゅう}}
+
+# study and train for work
+#: {{ja-usex|産婦人科を研修する|さんふじんか を けんしゅう する|do in-service training in gynecology}}
+
+====Conjugation====
+{{ja-suru|けんしゅう}}
+
+[[fr:研修]]
+[[hu:研修]]
+[[mg:研修]]
+[[zh:研修]]

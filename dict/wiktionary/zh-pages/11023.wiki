@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=08|sn=10|four=24221|canj=OKMR|ids=⿰亻奇}}
+# [[rely]] on, [[depend]] on
+# [[lean]] [[heavily]]
+
+====References====
+* {{Han ref|kx=0108.050|dkj=00776|dj=0230.010|hdz=10173.010|uh=501A|ud=20506|bh=ADCA|bd=44490}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǐ
+|c=ji2
+|mn=óa/í
+|mn_note=óa - vernacular, í - literary
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人08}}
+
+# {{defn|lang=ja|sort=人08}}
+
+====Readings====
+* {{ja-readings|on=[[い]] (i), [[き]] (ki)|kun=[[よる]] (yoru), [[たのむ]] (tanomu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[의]], [[기]]|rv=ui, gi|mr=ŭi, ki}}
+
+# {{defn|lang=ko|sort=人08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ỷ]], [[ấy]]|rs=人08}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:倚]]
+[[fr:倚]]
+[[ko:倚]]
+[[li:倚]]
+[[hu:倚]]
+[[mg:倚]]
+[[ja:倚]]
+[[no:倚]]
+[[pl:倚]]
+[[th:倚]]
+[[chr:倚]]
+[[zh:倚]]

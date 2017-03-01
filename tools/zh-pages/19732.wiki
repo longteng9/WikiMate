@@ -1,0 +1,70 @@
+{{character info/new}}
+{{also|濑|瀬}}
+==Translingual==
+{{Han simplified forms|瀨|瀬|濑}}
+
+===Han character===
+{{Han char|rn=85|rad=水|as=16|sn=19|four=31186|canj=EDLC|ids=⿰氵賴}}
+
+# [[swift]] [[current]]
+# [[rapid]]s
+
+====References====
+* {{Han ref|kx=0660.200|dkj=18672|dj=1070.130|hdz=31782.050|uh=7028|ud=28712|bh=C375|bd=50037}}
+
+----
+
+==Chinese==
+{{zh-forms|s=濑}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|賴|alt1=氵|ls=psc|c1=s|c2=p|t1=water}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lài
+|c=laai6
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水16}}
+
+# swift current
+# [[rapids]]
+
+====Readings====
+* {{ja-readings|on=[[らい]] (rai)|kun=[[せ]] (se)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[뢰]]>[[뇌]]|eumhun=|rv=roe>noe|mr=roe>noe|y=loy>noy}}
+
+# [[rapids]]
+# swift current
+# submit to
+# [[dependence]], [[trust]], [[reliance]]
+
+[[zh-min-nan:瀨]]
+[[fr:瀨]]
+[[hu:瀨]]
+[[ja:瀨]]
+[[pl:瀨]]
+[[th:瀨]]
+[[zh:瀨]]

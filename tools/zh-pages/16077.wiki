@@ -1,0 +1,95 @@
+{{character info/new}}
+{{also|抔}}
+==Translingual==
+{{stroke order|strokes=8}}
+{{ja-forms|抱|抱|抱}}
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|手|t1=扌|包|ls=psc|c1=s|c2=p}} – hold in one’s hands. Note that 包 has the meaning of “wrap”, hence connotations of “wrap in one’s hands, embrace”.
+
+===Han character===
+{{Han char|rn=64|rad=手|as=05|sn=8|four=57012|canj=QPRU|ids=⿰扌包}}
+
+# [[embrace]], [[hold]] in [[arm]]s, [[enfold]]
+
+====References====
+* {{Han ref|kx=0423.080|dkj=11917|dj=0771.070|hdz=31856.040|uh=62B1|ud=25265|bh=A9EA|bd=43498}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bào
+|m-s=bao4
+|c=pou5,bou6,paau1
+|h=pfs=
+|md=
+|mn=phō/pō/phāu
+|mn_note=phō, pō - vernacular, phāu - literary
+|w=
+|mc=y
+|oc=y
+|ma=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[heft]] in the [[arms]]; to [[carry]]
+# to [[hug]]; to [[embrace]]
+# {{lb|zh|Sichuan}} to [[incubate]]
+
+====Compounds====
+{{zh-der|擁抱|抱歉|抱笙}}
+
+====References====
+* {{thcwd|3956}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=手05}}
+
+# {{defn|lang=ja|sort=手05}}
+
+====Readings====
+* {{ja-readings|goon=[[ぼう]] (bō)|kanon=[[ほう]] (hō)|kun=[[いだく]] (idaku), [[だく]] (daku), [[かかえる]] (kakaeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=포|eumhun=|rv=po|mr=p'o|y=pho}}
+
+# {{defn|lang=ko|sort=手05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bão]]|rs=手05}}
+
+# {{defn|lang=vi|sort=手05}}
+
+[[zh-min-nan:抱]]
+[[fr:抱]]
+[[ko:抱]]
+[[hu:抱]]
+[[mg:抱]]
+[[ms:抱]]
+[[ja:抱]]
+[[no:抱]]
+[[pl:抱]]
+[[ta:抱]]
+[[th:抱]]
+[[uk:抱]]
+[[zh:抱]]

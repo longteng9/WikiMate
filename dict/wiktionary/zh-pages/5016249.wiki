@@ -1,0 +1,35 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shéyán
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|pathology}} [[glossitis]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぜつ|えん|yomi=o}}
+
+===Etymology===
+{{suffix|舌|tr1=zetsu|t1=tongue|炎|tr2=en|t2=inflammation|lang=ja|sort=せつえん'}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|ぜつえん|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ぜつえん}}
+
+# {{lb|ja|pathology|sort=せつえん'}} [[glossitis]]
+
+===References===
+<references/>
+
+[[vi:舌炎]]
+[[zh:舌炎]]

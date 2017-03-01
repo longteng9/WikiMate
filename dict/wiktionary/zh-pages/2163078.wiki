@@ -1,0 +1,32 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yāoyán
+|c=jiu1 jin4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[heresy]]; [[fallacy]]
+#: 你就别妖言惑众了，弄得人心惶惶 。
+#: Nǐ jiù bié yāoyán huòzhòng le，nòng de rénxīn huánghuáng。
+#:: Don't spread fallacies to deceive people. It is making everyone feel jittery.
+
+----
+
+==Japanese==
+{{ja-kanjitab|およずれ|こと|k2=ごと|yomi=kun}}
+
+===Noun===
+{{ja-noun|およずれごと}}
+
+# [[baseless]] [[rumor]]s about a person
+
+====Synonyms====
+* {{ja-r|妖|およずれ}}
+
+[[zh:妖言]]

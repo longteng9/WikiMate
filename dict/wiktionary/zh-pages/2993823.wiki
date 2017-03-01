@@ -1,0 +1,68 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{zh-compound|相|反|to each other|opposite}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiāngfǎn
+|c=soeng1 faan2
+|h=pfs=siông-fán
+|mn=qz,tw,xm:siong-hoán/twvk,zz:siang-hoán
+|ma=Zh-xiangfan.ogg
+|cat=a,adv
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[opposite]]; [[reverse]]
+
+===Adverb===
+{{zh-adv}}
+
+# [[on the contrary]]
+
+====Synonyms====
+* {{zh-l|反倒}}
+* {{zh-l|反而}}
+* {{zh-l|反之}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|あい|はん|yomi=ko}}
+
+===Noun===
+{{ja-noun|あいはん}}
+
+# [[contradiction]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|あいはん}}
+
+# [[contradict]], [[oppose]], [[compete]], [[conflict]]
+
+====Conjugation====
+{{ja-suru|あいはん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=상반}}
+
+# {{hanja form of|상반|contradiction}}
+
+[[ko:相反]]
+[[hu:相反]]
+[[mg:相反]]
+[[ja:相反]]
+[[chr:相反]]
+[[uk:相反]]
+[[zh:相反]]

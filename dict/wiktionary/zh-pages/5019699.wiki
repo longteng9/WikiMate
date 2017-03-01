@@ -1,0 +1,15 @@
+==Japanese==
+{{ja-kanjitab|ふ|かく|じつ|せい|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ふかくじつせい|不|tr1=fu|t1=un-, non-|確実性|tr2=kakujitsusei|t2=certainty}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|ふかくじつせい}}
+
+===Noun===
+{{ja-noun|ふかくじつせい}}
+
+# [[uncertainty]]
+
+[[ja:不確実性]]

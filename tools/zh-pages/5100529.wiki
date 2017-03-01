@@ -1,0 +1,43 @@
+{{also|鸟笼}}
+==Chinese==
+{{zh-forms|s=鸟笼}}
+
+===Pronunciation===
+{{zh-pron
+|m=niǎolóng,er=y
+|c=niu5 lung4
+|mn=chiáu-lang
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[birdcage]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|とり|かご|yomi=k}}
+
+===Etymology===
+Compound of {{compound|鳥|tr1=tori|t1=bird|籠|tr2=kago|t2=cage|lang=ja|sort=とりかご}}.
+
+===Pronunciation===
+{{ja-pron|yomi=k|とりかご|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|とりかご}}
+
+# [[birdcage]]
+
+===See also===
+* {{ja-r|犬小屋|いぬごや}}: [[kennel]]
+* {{ja-r|牛舎|ぎゅうしゃ}}: [[cattle]] [[barn]]
+* {{ja-r|豚舎|とんしゃ}}: [[pigsty]] {{gloss|enclosure where pigs are kept}}
+
+===References===
+<references/>
+
+[[it:鳥籠]]

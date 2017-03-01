@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|骥}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=17|sn=27|four=71381|canj=SFLPC}}
+
+# thoroughbred horse
+# refined and
+
+====References====
+* {{Han ref|kx=1447.040|dkj=45076|dj=1972.190|hdz=74583.050|uh=9A65|ud=39525|bh=C66B|bd=50795}}
+
+----
+
+==Chinese==
+{{zh-forms|s=骥}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jì
+|c=gei3,kei3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬17}}
+
+# {{defn|lang=ja|sort=馬17}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|eumhun=|rv=gi|mr=ki|y=ki}}
+
+# {{defn|lang=ko|sort=馬17}}
+
+[[fr:驥]]
+[[ko:驥]]
+[[hu:驥]]
+[[mg:驥]]
+[[ja:驥]]
+[[pl:驥]]
+[[th:驥]]
+[[zh:驥]]

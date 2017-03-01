@@ -1,0 +1,42 @@
+{{character info/new}}
+{{also|齊|齐}}
+==Translingual==
+{{Han simplified forms|齊|斉|齐}}
+
+===Etymology===
+{{Han simp|齊}}, in Japanese shinjitai.
+
+Etymologically unrelated to [[文]], but current form classed under that radical.
+
+===Han character===
+{{Han char|rn=210|rad=斉|as=00|sn=8|four=|canj=YKSL|ids=⿵齐二}}
+
+# [[even]], [[uniform]], of [[equal]] [[length]]
+
+====Derived characters====
+* [[済]] [[剤]]
+
+====References====
+* {{Han ref|kx=0477.011|dkj=13454|dj=0834.050|hdz=32170.040|uh=6589|ud=25993}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=文04}}
+
+# {{defn|lang=ja|sort=文04}}
+
+====Readings====
+* {{ja-readings|goon=[[ざい]] (zai), [[し]] (shi)|kanon=[[せい]] (sei), [[し]] (shi)|kanyoon=[[さい]] (sai)|kun=[[そろう]] (sorou), [[ひとしい]] (hitoshii), [[ひとしく]] (hitoshiku)|nanori=[[まさ]] (masa)}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:斉]]
+[[hu:斉]]
+[[ja:斉]]
+[[pl:斉]]
+[[ru:斉]]
+[[th:斉]]
+[[zh:斉]]

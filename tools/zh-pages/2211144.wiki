@@ -1,0 +1,29 @@
+==Chinese==
+{{zh-forms|lit=stopped and subdued}}
+
+===Etymology===
+{{zh-psm|shock}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xiūkè
+|c=jau1 hak1,jau1 haak1
+|mn=qz:hiu-khiak/tw,xm,zz:hiu-khek
+|w=1xieu keq
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|medicine}} [[shock]]
+#: {{zh-x|過敏性 休克|anaphylactic '''shock'''}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|medicine}} to [[go]] into [[shock]]
+
+[[mg:休克]]
+[[chr:休克]]
+[[zh:休克]]

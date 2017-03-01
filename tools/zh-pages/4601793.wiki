@@ -1,0 +1,44 @@
+{{also|客家语}}
+==Chinese==
+{{zh-forms|s=客家语|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=Kèjiāyǔ
+|c=haak3 gaa1 jyu5
+|h=pfs=Hak-kâ-ngî
+|md=káh-gă-ngṳ̄
+|mn=Kheh-ka-gí/Kheh-ka-gú
+|cat=n
+}}
+
+===Proper noun===
+{{zh-propn}}
+
+# [[Hakka]]
+
+====Synonyms====
+* {{zh-l|客家話}}
+* {{zh-l|客語}}
+* {{zh-l|客話}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|はっ|か|ご|yomi=irr}}
+
+===Etymology===
+{{suf|ja|客家|語|tr1=Hakka|t1=[[Hakka]]s|tr2=go|t2=[[language]]|sort=はっかご}}
+
+===Pronunciation===
+{{ja-pron|ハッカご|y=i}}
+
+===Proper noun===
+{{ja-pos|proper|ハッカご}}
+
+# [[Hakka]]
+
+{{C|ja|Languages|sort=はっかご}}
+[[ja:客家語]]
+[[zh:客家語]]

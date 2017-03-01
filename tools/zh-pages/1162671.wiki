@@ -1,0 +1,40 @@
+{{also|福岛}}
+==Chinese==
+{{zh-forms|s=福岛}}
+
+===Pronunciation===
+{{zh-pron
+|m=Fúdǎo
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# [[Fukushima]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふく|しま|yomi=j}}
+
+===Etymology===
+{{compound|福|gloss1=fortune, luck|島|gloss2=island|sc=Jpan|lang=ja|sort=ふくしま}}
+
+===Pronunciation===
+* {{ja-pron|ふくしま|y=j|acc=2|acc_ref=NHK}}
+
+===Proper noun===
+{{ja-pos|ふくしま|proper}}
+
+# [[Fukushima]], a city in the [[tōhoku]] region of [[Japan]]
+# [[Fukushima]], a prefecture in the [[tōhoku]] region of Japan
+# {{surname|lang=ja|sort=ふくしま}}
+
+===References===
+<references/>
+
+[[Category:ja:Cities|ふくしま]]
+
+[[fr:福島]]
+[[ja:福島]]

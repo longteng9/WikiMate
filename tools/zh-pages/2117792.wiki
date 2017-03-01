@@ -1,0 +1,49 @@
+==Japanese==
+{{ja-kanjitab|疱|瘡}}
+
+===Etymology 1===
+Compound of {{compound|疱|tr1=imo|瘡|tr2=kasa|t2=skin disease|lang=ja}}.
+
+====Noun====
+{{ja-noun|いもがさ}}
+# an infectious disease caused by both the Variola major and Variola minor viruses; [[smallpox]]
+#* circa '''1177-1188''', [[w:Iroha Jiruishō|Iroha Jiruishō]]
+#*: 皰瘡 '''イモカサ''' モカサ
+
+=====Synonyms=====
+* {{ja-r|痘瘡|もがさ}}
+* {{ja-r|天然痘|てんねんとう}}
+
+[[Category:ja:Diseases|いもがさ]]
+
+===Etymology 2===
+/pausau/ → /ɸausau/ → /ɸɔːsɔː/ → /hoːsoː/.
+
+====Noun====
+{{ja-noun|ほうそう|hhira=はうさう}}
+# an infectious disease caused by both the Variola major and Variola minor viruses; [[smallpox]]
+
+=====Synonyms=====
+* {{ja-r|痘瘡|もがさ}}
+* {{ja-r|天然痘|てんねんとう}}
+
+=====Derived terms=====
+* {{ja-r|水疱瘡|みずぼうそう}}
+
+[[Category:ja:Diseases|ほうそう]]
+
+===References===
+* {{cite-book
+|last=Tadakane
+|first=Tachibana
+|coauthors=[[w:Masamune Atsuo|Atsuo Masamune]] (ed.)
+|title=[[w:Iroha Jiruishō|Iroha Jiruishō]]
+|publisher=Kazama Shobō
+|year_published=1971
+|year=circa 1177-1188
+|language=Japanese
+}}
+
+[[hu:疱瘡]]
+[[mg:疱瘡]]
+[[ja:疱瘡]]

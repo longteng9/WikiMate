@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|叇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=173|rad=雨|as=16|sn=24|four=15733|canj=MIYLE}}
+
+# cloudy sky
+# not clear
+# [[dark]]
+
+====References====
+* {{Han ref|kx=1380.220|dkj=42530|dj=1889.320|hdz=64081.120|uh=9746|ud=38726|bh=F8CE|bd=63694}}
+
+----
+
+==Chinese==
+{{zh-forms|s=叇}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dài
+|c=doi6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|氤氳靉靆|靉靆}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=雨16}}
+
+# {{defn|lang=ja|sort=雨16}}
+
+====Readings====
+* {{ja-readings|on=[[たい]] (tai)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=체|eumhun=|rv=che|mr=ch'e|y=chey}}
+
+# {{defn|lang=ko|sort=雨16}}
+
+[[fr:靆]]
+[[ko:靆]]
+[[li:靆]]
+[[hu:靆]]
+[[ja:靆]]
+[[pl:靆]]
+[[th:靆]]
+[[zh:靆]]

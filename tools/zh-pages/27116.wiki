@@ -1,0 +1,93 @@
+{{character info/new}}
+{{also|讳}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=09|sn=16|four=04656|canj=YRDMQ|ids=⿰言韋}}
+
+# [[conceal]]
+# [[shun]]
+# [[regard]] as [[taboo]]
+
+====References====
+* {{Han ref|kx=1171.090|dkj=35733|dj=1636.160|hdz=64003.030|uh=8AF1|ud=35569|bh=BFD0|bd=49104}}
+
+----
+
+==Chinese==
+{{zh-forms|s=讳}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huì
+|c=wai5,wai3
+|mn=hùi
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|上諱下諱|不可諱言|不知忌諱|不諱|不諱之變|不諱言|偏諱|內諱|公諱|名諱|國諱|奉諱|官諱|家諱|廟諱|忌諱|抵諱|正言不諱|無可諱言|無庸諱言|犯忌諱|犯諱|直言不諱|直言勿諱|直言無諱|私諱|胎諱|臨文不諱|臺諱|諱名|諱字|諱惡不悛|諱敗推過|諱疾忌醫|諱莫如深|諱言|諱過稱善|諱飾|避諱|隱諱}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言09}}
+
+# {{defn|lang=ja|sort=言09}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[いむ]] (imu), [[いみな]] (imina)|nanori=}}
+
+===Etymology===
+{{ja-kanjitab|いみな|yomi=k}}
+{{wikipedia|lang=ja}}
+
+====Alternative forms====
+* {{ja-l|忌み名}}
+
+====Noun====
+{{ja-noun|いみな}}
+
+# {{rfdef|ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=휘|eumhun=|rv=hwi|mr=hwi|y=hwi}}
+
+# {{defn|lang=ko|sort=言09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=言09| hanviet = húy}}
+
+# {{defn|lang=vi|sort=言09}}
+
+[[fr:諱]]
+[[ko:諱]]
+[[hu:諱]]
+[[mg:諱]]
+[[ja:諱]]
+[[pl:諱]]
+[[th:諱]]
+[[zh:諱]]

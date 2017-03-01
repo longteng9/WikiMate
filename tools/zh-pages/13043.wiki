@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etym}}
+
+===Han character===
+{{Han char|rn=32|rad=土|as=05|sn=8|four=47120|canj=GBR|ids=⿰土冋}}
+
+# [[wilds]], [[wilderness]]
+# the [[outermost]] [[suburbs]]
+
+====References====
+* {{Han ref|kx=0226.290|dkj=04985|dj=0462.070|hdz=10432.030|uh=5770|ud=22384|bh=CBF7|bd=52215}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiōng
+|c=gwing1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土05}}
+
+# [[wilds]]
+
+====Readings====
+* {{ja-readings|on=[[けい]] (kei), [[きょう]] (kyō)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|rv=gyeong|mr=kyŏng}}
+
+# [[field]]
+# [[borderland]], [[vicinity]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quynh]]|rs=土05}}
+
+# {{defn|lang=vi|sort=土05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5770 Nom Foundation]
+
+[[fr:坰]]
+[[ko:坰]]
+[[li:坰]]
+[[hu:坰]]
+[[pl:坰]]
+[[th:坰]]
+[[zh:坰]]

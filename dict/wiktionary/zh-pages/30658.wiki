@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=170|rad=阜|as=07|sn=10|four=71221|canj=NLYLH}}
+
+# [[climb]], [[scale]], [[ascend]]
+# [[proceed]]
+
+====References====
+* {{Han ref|kx=1351.160|dkj=41659|dj=1853.270|hdz=64131.010|uh=965F|ud=38495|bh=D446|bd=54342}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhì
+|c=zik1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|考績黜陟|陟屺|陟岵|陟岵瞻望|陟岵陟屺|陟方|陟罰|陟罰臧否|陟降|陟黜|韋陟朵雲|黜陟|黜陟幽明}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=阜07}}
+
+# {{defn|lang=ja|sort=阜07}}
+
+====Readings====
+* {{ja-readings|on=[[ちょく]] (choku), [[とく]] (toku)|kun=[[のぼる]] (noboru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=척|eumhun=|rv=cheok|mr=ch'ŏk|y=chek}}
+
+# {{defn|lang=ko|sort=阜07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trắc]]|rs=阜07}}
+
+# {{defn|lang=vi|sort=阜07}}
+
+[[fr:陟]]
+[[hu:陟]]
+[[mg:陟]]
+[[ja:陟]]
+[[pl:陟]]
+[[th:陟]]
+[[vi:陟]]
+[[zh:陟]]

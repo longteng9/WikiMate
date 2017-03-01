@@ -1,0 +1,30 @@
+==Chinese==
+{{zh-forms|alt=山砦}}
+
+===Etymology===
+The use of "Shanzhai" to refer to imitation products comes from {{etyl|yue|cmn}} slang, in which "shanzhai factory" ({{zh-l|山寨廠}}) means an ill-equipped, low-end and family-based factory.
+
+===Pronunciation===
+{{zh-pron
+|m=shānzhài
+|c=saan1 zaai6
+|h=pfs=sân-chai
+|mn=qz,tw,xm:soaⁿ-chē/zz:soaⁿ-chēe
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[mountain]] [[fortress]]
+# [[fortified]] [[mountain]] [[village]]
+# {{lb|zh|slang}} [[shanzhai]]; fake or pirated good, especially an electronic one; [[knockoff]]
+
+====Derived terms====
+{{zh-der|山寨主義}}
+
+===References===
+* {{pedialite|shanzhai}}
+* {{pedialite|山寨文化|lang=zh}}
+
+[[zh:山寨]]

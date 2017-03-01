@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|殷}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=10|sn=14|four=77334|canj=HEP|ids=⿱殷心}}
+
+# [[careful]], [[anxious]], [[attentive]]
+
+====References====
+* {{Han ref|kx=0397.230|dkj=11045|dj=0736.160|hdz=42334.060|uh=6147|ud=24903|bh=B9FE|bd=47614}}
+
+----
+
+==Chinese==
+{{zh-forms|s=殷}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yīn
+|c=jan1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|慇懃|慇慇懃懃|慇慇}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心10}}
+
+# {{defn|lang=ja|sort=心10}}
+
+====Readings====
+* {{ja-readings|on=[[いん]] (in)|kun=[[いたむ]] (itamu), [[ねんごろ]] (nengoro)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=은|eumhun=|rv=eun|mr=ŭn|y=un}}
+
+# {{defn|lang=ko|sort=心10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心10|hanviet=ân}}
+
+# {{defn|lang=vi|sort=心10}}
+
+[[fr:慇]]
+[[li:慇]]
+[[hu:慇]]
+[[ja:慇]]
+[[pl:慇]]
+[[th:慇]]
+[[zh:慇]]

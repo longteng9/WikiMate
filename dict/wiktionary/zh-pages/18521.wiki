@@ -1,0 +1,61 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=82|rad=毛|as=06|sn=10|four=23715|canj=HUIJ|ids=⿺毛戎}}
+
+# [[fur]], [[hair]], [[down]]
+# [[camel]] hair
+
+====References====
+* {{Han ref|kx=0593.010|dkj=16819|dj=0985.110|hdz=31996.220|uh=6BE7|ud=27623|bh=D243|bd=53827}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=róng
+|c=jung4
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=毛06}}
+
+# {{defn|lang=ja|sort=毛06}}
+
+====Readings====
+* {{ja-readings|on=[[じゅう]] (jū), [[にゅ]] (nyu)|kun=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=毛06| hanviet = nhung}}
+
+# {{defn|lang=vi|sort=毛06}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6be7 Nom Foundation]
+
+[[fr:毧]]
+[[hu:毧]]
+[[pl:毧]]
+[[th:毧]]
+[[zh:毧]]

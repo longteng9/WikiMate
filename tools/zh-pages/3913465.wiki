@@ -1,0 +1,38 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Jūnihitoe}}
+[[File:Crown_Prince_Akihito_%26_Michiko_Shoda_Wedding_1959-4.jpg|thumb|250px|Empress Michiko on the right, wearing ''jūni-hitoe'' on her wedding day in 1959]]
+[[File:Ajuga_nipponensis_2.jpg|thumb|250px|{{l|ja|ジュウニヒトエ}}, the plant in [[genus]] ''[[Ajuga]]'']]
+</div>
+{{ja-kanjitab|じゅう|に|ひとえ}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=しゅうにひとえ'|十二|tr1=jūni|t1=twelve|単|tr2=hitoe|t2=unlined or single-layer robe}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|じゅうに ひとえ|acc=5|acc_ref=DJR}}
+
+===Alternative forms===
+* {{l|ja|十二一重}}, {{l|ja|十二単衣}}
+
+===Noun===
+{{ja-noun|じゅうに-ひとえ}}
+
+# {{lb|ja|sort=しゅうにひとえ'|clothing}} a [[ceremonial]] twelve-layered robe worn by women of the [[imperial]] [[court]], consisting of twelve single-layer unlined robes worn one over the other
+#: This style became fashionable some time in the tenth century during the {{w|Heian period}}. Starting from the {{w|Muromachi period}}, the term ''jūni-hitoe'' was also used in the popular culture to refer to the five-layer {{m|ja|五重唐衣裳|tr=goe-karaginumo}} style.
+# {{lb|ja|sort=しゅうにひとえ'|botany}} {{taxlink|Ajuga nipponensis|species|noshow=1}}, a [[perennial]] plant in the [[mint]] family and native to Japan
+
+====Usage notes====
+* {{sense|Ajuga nipponensis}} Members of [[genus]] ''[[Ajuga]]'' are also known as {{m|en|bugleweed}}, ''[[ground pine]]'', ''{{vern|carpet bugle}}'', or just {{m|en|bugle}}. {{U:ja:biology|ジュウニヒトエ}}
+
+====Related terms====
+{{rel-top}}
+* {{ja-r|唐衣裳|からぎぬも}}: traditional [[robe]] and [[apron]] clothing
+* {{ja-r|着物|きもの}}: a [[kimono]]
+{{rel-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Clothing|しゅうにひとえ']]

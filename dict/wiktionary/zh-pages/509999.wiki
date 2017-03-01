@@ -1,0 +1,32 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jùgé
+|c=geoi6 gaak3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|grammar}} [[instrumental case]]
+
+====Synonyms====
+* {{zh-l|工具格}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぐ|かく|yomi=o}}
+
+===Noun===
+{{ja-noun|ぐかく}}
+
+# {{lb|ja|grammar}} [[instrumental case]]
+
+[[Category:ja:Grammar|くかく']]
+
+[[it:具格]]
+[[ja:具格]]

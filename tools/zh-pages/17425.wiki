@@ -1,0 +1,61 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=49950|canj=DFQ}}
+
+====References====
+* {{Han ref|kx=0518.130|dkj=14608|dj=0906.130|hdz=21188.050|uh=67C8|ud=26568|bh=CEFD|bd=52989}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bàn,pán
+|c=bun6
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[container]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木05}}
+
+# {{defn|lang=ja|sort=木05}}
+
+====Readings====
+* {{ja-readings|on=[[はん]] (han), [[ばん]] (ban)|kun=[[はち]] (hachi)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木05|hanviet=[[bạn]], [[bàn]]}}
+
+# {{defn|lang=vi|sort=木05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=67c8 Nom Foundation]
+
+[[fr:柈]]
+[[hu:柈]]
+[[pl:柈]]
+[[th:柈]]
+[[zh:柈]]

@@ -1,0 +1,44 @@
+{{also|老汉}}
+==Chinese==
+{{zh-forms|s=老汉}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǎohàn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# an [[old]] person
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|ろう|かん}}
+
+===Etymology===
+{{IPAchar|/raukan/}} → {{IPAchar|/rɔːkan/}} → {{IPAchar|/roːkan/}}
+
+From {{etyl|ltc|ja|sort=ろうかん}} compound {{m|zh|老漢|tr=law<sup>X</sup> xan<sup>H</sup>|lit=old + Han Chinese}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|ろうかん|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ろうかん|hhira=らうかん}}
+
+# an [[old]] [[man]]
+# [[I]], [[me]] {{qualifier|a humble form of self-reference used by males}}
+# an old [[monk]], an old [[priest]], particularly the [[head]] of a [[temple]]
+
+===References===
+<references/>
+
+[[hu:老漢]]
+[[mg:老漢]]
+[[ja:老漢]]

@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=08|sn=11|four=93012|canj=PJNU|ids=⿰忄宛}}
+
+# [[regret]], be [[sorry]]
+# [[alarm]]ed
+
+====References====
+* {{Han ref|kx=0390.150|dkj=10771|dj=0724.130|hdz=42319.050|uh=60CB|ud=24779|bh=B17B|bd=45435}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=惋
+|c=jyun2,wun2
+|mn=qz,xm,zz:oàn/qz,xm,zz:oán
+|mn_note=oàn - literary; oán - vernacular (俗)
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|悵惋|惆惋|惋傷|惋嘆|惋惜|惋愕|惋愴|憤惋|歎惋|驚惋}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心08}}
+
+# {{defn|lang=ja|sort=心08}}
+
+====Readings====
+* {{ja-readings|on=[[わん]] (wan)|kun=[[なげく]] (nageku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=완|eumhun=|rv=wan|mr=wan|y=wan}}
+
+# {{defn|lang=ko|sort=心08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心08|hanviet=uyển}}
+
+# {{defn|lang=vi|sort=心08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=60cb Nom Foundation]
+
+[[fr:惋]]
+[[li:惋]]
+[[hu:惋]]
+[[mg:惋]]
+[[no:惋]]
+[[pl:惋]]
+[[th:惋]]
+[[zh:惋]]

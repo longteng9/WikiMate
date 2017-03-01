@@ -1,0 +1,52 @@
+{{also|草食动物}}
+==Chinese==
+{{zh-forms|s=草食动物|type=22}}
+
+===Pronunciation===
+{{zh-pron
+|m=cǎoshí dòngwù
+|c=cou2 sik6 dung6 mat6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[herbivore]]
+
+====Synonyms====
+* {{zh-l|食草動物}}
+
+====Coordinate terms====
+* {{zh-l|肉食動物}}
+* {{zh-l|雜食動物}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Herbivore}}
+</div>
+{{ja-kanjitab|yomi=o|そう|しょく|どう|ぶつ}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=そうしょくどうぶつ|草食|tr1=sōshoku|t1=grass-eating; herbivorous|動物|tr2=dōbutsu|t2=animal}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=o|そうしょく どうぶつ|acc=5|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|そうしょく どうぶつ|hhira=さうしょくどうぶつ}}
+
+# An [[herbivore]].
+
+====Antonyms====
+* {{ja-r|肉食動物|にくしょく どうぶつ}}: a [[carnivore]]
+
+===References===
+<references/>
+
+[[ko:草食動物]]
+[[hu:草食動物]]
+[[zh:草食動物]]

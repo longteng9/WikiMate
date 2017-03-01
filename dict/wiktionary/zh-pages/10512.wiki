@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{Han simp|行}} – the right side of the character.
+
+===Han character===
+{{Han char|rn=7|rad=二|as=01|sn=3|four=10201|canj=MMN,XMMN|ids=⿱一丁}}
+
+# [[step]] with the [[right]] [[foot]]
+# to [[take]] [[small]] [[step]]s
+# [[Korean]] [[place]] [[name]]
+
+====Related characters====
+* [[彳]]
+
+====References====
+* {{Han ref|kx=0086.050|dkj=00251|dj=0177.030|hdz=10004.040|uh=4E8D|ud=20109|bh=C948|bd=51528}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chù
+|c=cuk1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|彳亍}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=二01}}
+
+# to take [[small]] [[steps]]
+# [[Korean]] place name
+
+====Readings====
+* {{ja-readings|on=[[ちょく]] (choku)|kun=[[たたずむ]] (tatazumu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[촉]], [[마]]|rv=chok, ma|mr=ch'ok, ma}}
+
+# {{defn|lang=ko|sort=二01}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sục]], [[xúc]], [[súc]], [[xục]]|rs=二01}}
+
+# {{defn|lang=vi|sort=二01}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e8d Nom Foundation]
+
+[[fr:亍]]
+[[li:亍]]
+[[hu:亍]]
+[[ja:亍]]
+[[pl:亍]]
+[[th:亍]]
+[[vi:亍]]
+[[zh:亍]]

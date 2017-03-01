@@ -1,0 +1,102 @@
+{{character info/new}}
+{{also|己|已}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=49|rad=己|as=00|sn=3|var=2|four=77717|canj=RU}}
+
+# sixth of twelve [[earthly branch]]es ([[十二支]]): [[snake]] ([[蛇]]) of [[W:Chinese zodiac|Chinese zodiac]]
+
+====Derived characters====
+* [[Index:Chinese radical/己]]
+* {{lang|und|sc=Hani|[[包]]}} {{qualifier|Chinese form}}
+* [[导]]
+
+====References====
+* {{Han ref|kx=0326.120|dkj=08744|dj=0631.010|hdz=20984.020|uh=5DF3|ud=24051|bh=A478|bd=42104}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=sì
+|c=zi6
+|h=
+|mn=chī/sū
+|mn_note=chī - vernacular, sū - literary
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|巳蛇}}
+* {{zh-l|巳時}}
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|210}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Kanji===
+{{ja-kanji|grade=8|rs=己00}}
+
+# sign of the [[snake]]
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[み]] (mi)}}
+
+===Noun===
+{{ja-noun|み}}
+
+# the [[sign]] of the [[snake]] in the Chinese zodiac
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|rv=sa|mr=sa|y=sa}}
+
+# {{defn|lang=ko|sort=己00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tị]], [[anh]]|rs=己00}}
+
+# {{defn|lang=vi|sort=己00}}
+
+[[Category:CJKV radicals| ]]
+
+[[zh-min-nan:巳]]
+[[fr:巳]]
+[[ko:巳]]
+[[li:巳]]
+[[hu:巳]]
+[[mg:巳]]
+[[ms:巳]]
+[[ja:巳]]
+[[no:巳]]
+[[pl:巳]]
+[[th:巳]]
+[[zh:巳]]

@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=78|rad=歹|as=12|sn=16|four=14218|canj=MNGBT|ids=⿰歹壹}}
+
+# to [[die]]
+# [[kill]], [[exterminate]]
+
+====References====
+* {{Han ref|kx=0583.250|dkj=16629|dj=0976.130|hdz=21394.080|uh=6BAA|ud=27562|bh=E9E2|bd=59874}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=ji3,ai3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|摧堅殪敵}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=歹12}}
+
+# {{defn|lang=ja|sort=歹12}}
+
+====Readings====
+* {{ja-readings|on=[[えい]] (ei)|kun=[[たおす]] (taosu)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=歹12| hanviet = ế}}
+
+# {{defn|lang=vi|sort=歹12}}
+
+[[fr:殪]]
+[[ko:殪]]
+[[hu:殪]]
+[[mg:殪]]
+[[ja:殪]]
+[[pl:殪]]
+[[ru:殪]]
+[[th:殪]]
+[[zh:殪]]

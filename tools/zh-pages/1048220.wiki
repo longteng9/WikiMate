@@ -1,0 +1,7 @@
+==Japanese==
+{{ja-kanjitab|かぎ|こう|かん|yomi=o}}
+
+===Noun===
+{{ja-noun|かぎこうかん}}
+
+# {{lb|ja|cryptography|sort=かぎこうかん}} [[key exchange]] - an exchange of peers' keys at initialization phase of connection.

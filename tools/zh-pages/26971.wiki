@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|诣}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=06|sn=13|four=01661|canj=XYRPA,YRPA}}
+
+# [[reach]]
+# [[achievement]], [[accomplishment]]
+
+====References====
+* {{Han ref|kx=1156.210|dkj=35412|dj=1622.030|hdz=63968.050|uh=8A63|ud=35427|bh=B8DA|bd=47322}}
+
+----
+
+==Chinese==
+{{zh-forms|s=诣}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=ngai6
+|mn=gē
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|絕詣|苦心孤詣|詣門|詣闕|超詣|躬詣|造詣}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言06}}
+
+# {{defn|lang=ja|sort=言06}}
+
+====Readings====
+* {{ja-readings|goon=[[げ]] (ge)|kanon=[[げい]] (gei)|kanyoon=[[けい]] (kei)|kun=[[いたる]] (itaru), [[もうでる]] (mōderu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=예|eumhun=|rv=ye|mr=ye|y=yey}}
+
+# {{defn|lang=ko|sort=言06}}
+
+[[fr:詣]]
+[[ko:詣]]
+[[hu:詣]]
+[[mg:詣]]
+[[ja:詣]]
+[[pl:詣]]
+[[th:詣]]
+[[zh:詣]]

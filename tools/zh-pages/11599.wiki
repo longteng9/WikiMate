@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|删}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=05|sn=7|four=72400|canj=BTLN|ids=⿰冊刂}}
+
+# to [[cut]]
+# [[delete]], [[erase]]
+# to [[geld]]
+
+====References====
+* {{Han ref|kx=0138.281|dkj=01917|dj=0311.060|hdz=10328.120|uh=522A|ud=21034|bh=A752|bd=42834}}
+
+----
+
+==Chinese==
+{{zh-forms|s=删}}
+
+===Pronunciation===
+{{zh-pron
+|m=shān
+|c=saan1
+|h=pfs=
+|md=
+|mn=san
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[delete]]
+
+====Compounds====
+* {{zh-l|刪除}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=刀05}}
+
+# {{defn|lang=ja|sort=刀05}}
+
+====Readings====
+* {{ja-readings|on=[[さん]] (san)|kun=[[けずる]] (kezuru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=산|rv=san|mr=san}}
+
+# {{defn|lang=ko|sort=刀05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''刪''' ([[san]])
+
+# {{defn|vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:刪]]
+[[ko:刪]]
+[[hu:刪]]
+[[ja:刪]]
+[[pl:刪]]
+[[th:刪]]
+[[zh:刪]]

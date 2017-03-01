@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=11|sn=15|four=30303|canj=YITF|ids=⿺辶庶}}
+
+====References====
+* {{Han ref|kx=1264.100|dkj=39086|dj=1759.210|hdz=63877.050|uh=906E|ud=36974|bh=BE42|bd=48706}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=𨖥,庶}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhē,zhě
+|c=ze1
+|h=pfs=châ
+|md=
+|mn=jia/lia
+|w=
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[block]]; to [[obstruct]]
+# to [[hide]]; to [[cover up]]; to [[conceal]]
+# {{lb|zh|Cantonese|Hakka}} [[umbrella]]; [[parasol]] {{zh-mw|c:把|h:支}}
+
+====Synonyms====
+{{zh-dial|傘}}
+
+===Compounds===
+{{zh-der|一手遮天|前遮後擁|口沒遮攔|口無遮攔|周遮|奢遮|左遮右攩|後擁前遮|攀轅遮道|旁遮普|東掩西遮|東遮西掩|毗盧遮那|沒遮攔|無遮大會|片雲遮頂|胡遮刺|脣不遮齒|花遮柳掩|花遮柳隱|蔽遮|衣不遮身|遮人眼目|遮人耳目|遮住|遮光板|遮前掩後|遮堂|遮場面|遮天|遮天映日|遮天蓋地|遮天蓋日|遮天蔽日|遮天迷日|遮挽|遮掩|遮擊|遮擋|遮攔|遮斷|遮架|遮止|遮沒|遮溜子|遮眼法|遮瞞|遮箭牌|遮羅|遮羞|遮羞布|遮羞費|遮耳目|遮莫|遮蓋|遮蔭|遮蔽|遮藏|遮說|遮護|遮路|遮道|遮道挽留|遮遮掩掩|遮醜|遮陽|遮雨|遮飾|邀遮|隻手遮天|雨遮|雲遮月}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=辵11}}
+
+# [[intercept]]
+# [[interrupt]]
+# [[obstruct]]
+
+====Readings====
+* {{ja-readings|on=[[しゃ]] (sha)|kun=[[さえぎる]] (saegiru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=차|eumhun=|rv=cha|mr=ch'a|y=cha}}
+
+# {{defn|lang=ko|sort=辵11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[già]], [[dà]]|rs=辵11}}
+
+# {{defn|lang=vi|sort=辵11}}
+
+[[zh-min-nan:遮]]
+[[fr:遮]]
+[[hu:遮]]
+[[mg:遮]]
+[[ja:遮]]
+[[no:遮]]
+[[pl:遮]]
+[[th:遮]]
+[[zh:遮]]

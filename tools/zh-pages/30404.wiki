@@ -1,0 +1,60 @@
+{{character info/new}}
+{{also|闩}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=169|rad=門|as=01|sn=9|four=77107|canj=ANM|ids=⿵門一}}
+
+====References====
+* {{Han ref|kx=1330.030|dkj=41211|dj=1834.030|hdz=74282.030|uh=9582|ud=38274|bh=ADAC|bd=44460}}
+
+----
+
+==Chinese==
+{{zh-forms|s=闩}}
+
+===Pronunciation===
+{{zh-pron
+|m=shuān
+|c=saan1
+|mn=qz,xm,zz:soan/tw,xm:chhòaⁿ
+|mn_note=soan - literary; chhòaⁿ - vernacular (俗)
+|mc=
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[bolt]], [[latch]], [[crossbar]]
+# {{lb|zh|Cantonese}} to [[close]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|閂|yomi=k|sort=かんぬき}}
+[[file:Asso, chiavistello porta Magnocavallo.JPG|thumb|right|200px|閂(kannuki)]]
+
+===Kanji===
+{{ja-kanji|grade=|rs=門01}}
+
+====Readings====
+* {{ja-readings|on=[[さん]] (san), [[せん]] (sen)|kun=[[かんぬき]] (kannuki), {{qualifier|historical}} [[くわんぬき]] (kwannuki)
+|nanori=}}
+===Alternative forms===
+* {{l|ja|貫木}}
+
+===Noun===
+{{ja-noun|かんぬき|hhira=くわんぬき}}
+
+# [[latch]], door [[bolt]], locking bar
+
+[[fr:閂]]
+[[hu:閂]]
+[[mg:閂]]
+[[ja:閂]]
+[[pl:閂]]
+[[th:閂]]
+[[zh:閂]]

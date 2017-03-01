@@ -1,0 +1,76 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīnzhāo
+|c=gam1 ziu1
+|w=1jin tsau
+|x=jin1 zhau1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Cantonese}} [[this morning]]
+#: {{zh-x|我 今朝{ziu1} 食 早餐 嗰陣時 食 得 太 多 喇，到 而家 都 仲 未 肚餓。|I ate too much for breakfast '''this morning''', so I'm still not hungry yet.|C}}
+# {{lb|zh|literary|regional}} [[today]]; [[now]]; at the present time
+#: {{zh-x|年年 都 有 今日，歲 歲 都 有 今朝{ziu1}，恭喜 你，恭喜 你！|{{t-needed|yue}}|C-LIT|ref={{lang|zh|祝壽歌}} (Birthday Song)}}
+
+====Synonyms====
+* {{sense|today}}
+{{zh-dial|今天}}
+
+====Derived terms====
+* {{sense|now|today}} {{zh-l|今朝有酒今朝醉}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|け|さ|yomi=irreg}}
+From {{etyl|ojp|ja|sort=けさ}}. Originally a compound of {{compound|lang=ja|sort=きょう|此|tr1=ke|t1=this|朝|tr2=asa|t2=morning}}.
+
+The initial {{IPAchar|/ke/}} is an alternative form of the initial {{IPAchar|/ko/}} ({{l|ja|此}}, “this”) seen in words such as {{m|ja|ここ|tr=koko||this place → here}} or {{m|ja|これ|tr=kore||this [nominal] → this}}, and the final {{IPAchar|/sa/}} is a contraction from *{{IPAchar|/ke.asa/}} to {{IPAchar|/kesa/}} with the [[medial]] {{IPAchar|-a-}} falling out, as {{etyl|ojp|-}} did not permit vowel clusters.
+
+The use of the kanji {{m|ja|今||now}} instead of {{m|ja|此||this}} is an example of [[熟字訓|jukujikun]].
+
+====Pronunciation====
+{{ja-pron|けさ|yomi=kun|acc=1|acc_ref=DJR}}
+
+====Adverb====
+{{ja-pos|けさ|adverb}}
+
+# [[this morning]]
+
+====Noun====
+{{ja-noun|けさ}}
+
+# [[this morning]]
+
+===Etymology 2===
+{{ja-kanjitab|こん|ちょう|yomi=o}}
+From {{etyl|ltc|ja|sort=こんちょう}} compound {{m|zh|今朝|tr=kim trjew|lit=now morning}}. {{IPAchar|/konteu/}} → {{IPAchar|/kontjoː/}}. The {{IPAchar|/eu/}} → {{IPAchar|/joː/}} sound shift is a regular phonological change.
+
+====Pronunciation====
+{{ja-pron|こんちょう|yomi=goon|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|こんちょう|hhira=こんてう}}
+
+# [[this morning]]
+
+===References===
+<references/>
+
+[[ko:今朝]]
+[[lo:今朝]]
+[[la:今朝]]
+[[hu:今朝]]
+[[ja:今朝]]
+[[pt:今朝]]
+[[ru:今朝]]
+[[sv:今朝]]
+[[zh:今朝]]

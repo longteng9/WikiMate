@@ -1,0 +1,206 @@
+{{character info/new}}
+{{also|〇}}
+==Translingual==
+{{stroke order|strokes=13}}
+{{stroke order|type=animate}}
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|雨|t1=rain|令|ls=psc|c1=s|c2=p}} – original sense “drizzle” (of rain).
+
+===Han character===
+{{Han char|rn=173|rad=雨|as=05|sn=13|four=10307|canj=MBOII|ids=⿱[[雨|⻗]][[令]]}}
+
+====References====
+* {{Han ref|kx=1372.100|dkj=42242|dj=1880.050|hdz=64061.010|uh=96F6|ud=38646|bh=B973|bd=47475}}
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Chinese==
+{{zh-forms|alt=〇-zero}}
+{{cardinalbox|zh||0|1||一}}
+
+===Pronunciation===
+{{zh-pron
+|m=líng
+|ma=y
+|c=ling4
+|h=pfs=làng
+|mn=lêng
+|w=3lin
+|mc=y
+|oc=y
+|cat=num,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[zero]]
+# [[fragment]], [[fraction]]
+#: {{zh-x|零星|fragmentary}}
+
+====Compounds====
+* {{zh-l|零錢}}
+* {{zh-l|零件}}
+* {{zh-l|凋零}}
+
+====See also====
+{{Chinese-numbers}}
+
+{{zh-cat|Beginning}}
+[[Category:Chinese cardinal numbers]]
+
+----
+
+==Japanese==
+{{cardinalbox|ja||0|1||一}}
+
+===Kanji===
+{{ja-kanji|grade=c|rs=雨05}}
+
+====Readings====
+{{ja-readings
+|goon=[[りょう]] (ryō) {{non-joyo-reading}}
+|kanon=[[れい]] (rei)
+|kun={{qualifier|archaic}} [[あゆ|あ.ゆ]] ([[零ゆ]], a.yu), [[あえる|あ.える]] ([[零える]], a.eru), [[あえす|あ.えす]] ([[零えす]], a.esu), [[あやす|あ.やす]] ([[零やす]], a.yasu), {{qualifier|rare}} [[おちる]] (ochiru), [[こぼす|こぼ.す]] ([[零す]], kobo.su), [[こぼし]] (koboshi), {{qualifier|archaic}} [[こぼる|こぼ.る]] ([[零る]], kobo.ru), [[こぼれる|こぼ.れる]] ([[零れる]], kobo.reru), [[こぼれ|こぼ.れ]] ([[零れ]], kobo.re), [[こぼれ]] (kobore), [[ぜろ]] (zero)
+|nanori=[[れい]] (rei)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|れい}}
+From {{etyl|ltc|ja|sort=れい}} {{m|zh|零|tr=leng}} with an original meaning of ''a small rainfall''. The character was later repurposed in 1248 by mathematician [[w:Li Ye (mathematician)|Li Ye]] to mean {{m|en|zero}}, extending from its ''a little bit (of rain)'' meaning to indicate ''a bit more remaining''. In Li Ye's notation, a number like 302 would be represented as {{m|zh|三}}{{m|zh|百}}{{m|zh|零}}{{m|zh|二}}, literally ''three hundred '''and remaining''' two'', with the {{m|zh|零}} character used as a means of skipping the tens place, by indicating ''zero'' tens.<ref>'''1999''', {{lang|ja|「算木」を超えた男: もう一つの近代数学の誕生と関孝和}} (''"Sangi" o Koeta Otoko: Mō Hitotsu no Kindai Sūgaku no Tanjō to Seki Takakazu'', “The Man Who Went Beyond 'Counting Sticks': The Birth of Another Modern Mathematics, and Seki Takakazu”) (in Japanese), Wang Qing-xiang, [[w:Tokyo|Tōkyō]]: [http://www.toyoshoten.co.jp/ Toyo Shoten], ISBN 4-88595-226-3</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|れい|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|〇}}
+
+====Noun====
+{{ja-noun|れい}}
+
+# [[zero]]
+
+====Numeral====
+{{ja-pos|numeral|れい}}
+
+# [[zero]]
+
+=====Usage notes=====
+The {{ja-l|〇}} spelling is more common in numeric notation.
+
+====Proper noun====
+{{ja-pos|proper|れい}}
+
+# {{given name|lang=ja|sort=れい|male}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|こぼし}}
+The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|零す}}, {{m|ja|溢す|tr=kobosu||to spill something}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|こぼし|acc=3|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|こぼし}}
+
+# a [[spill]] {{qualifier|implying intent or fault by someone}}
+# [[grumbling]] {{qualifier|as when one's emotions overflow}}
+
+=====Usage notes=====
+More commonly spelled with the [[okurigana]], as {{m|ja|零し}}. See that entry for more detail.
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|こぼれ}}
+The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|翻れる}}, {{m|ja|零れる|tr=koboreru||to spill, to be left over}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|こぼれ|acc=3|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|こぼれ}}
+
+# a [[spill]] {{qualifier|implying a natural or unintended event}}
+# [[remainder]], [[leftover]]
+
+=====Usage notes=====
+More commonly spelled with the [[okurigana]], as {{m|ja|零れ}}. See that entry for more detail.
+
+===Etymology 4===
+{{ja-kanjitab|yomi=k|ぜろ}}
+From {{etyl|en|ja|sort=ぜろ}} {{m|en|zero}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> or {{etyl|fr|ja|sort=ぜろ}} {{m|fr|zéro}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> The kanji spelling is [[ateji]].
+
+====Pronunciation====
+{{ja-pron|yomi=k|ぜろ|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|〇}}
+
+====Noun====
+{{ja-noun|ぜろ}}
+
+# [[zero]]
+
+====Numeral====
+{{ja-pos|numeral|ぜろ}}
+
+# [[zero]]
+
+=====Usage notes=====
+The {{ja-l|〇}} spelling is more common in numeric notation. The katakana spelling {{ja-l|ゼロ}} is more common in general contexts.
+
+===References===
+<references/>
+
+{{japanese number}}
+
+[[Category:Japanese basic words|れい]]
+[[Category:Japanese numeral symbols|0]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[령]]→[[영]], [[련]]→[[연]]|eumhun=|rv=ryeong→yeong, ryeon→yeon|mr=ryŏng→yŏng, ryŏn→yŏn|y=lyeng→yeng, lyen→yen}}
+
+# {{defn|lang=ko|sort=雨05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=雨05| hanviet = [[lênh]], [[linh]], [[rinh]]}}
+
+# {{defn|lang=vi|sort=雨05}}
+
+[[ca:零]]
+[[da:零]]
+[[et:零]]
+[[fr:零]]
+[[ko:零]]
+[[hr:零]]
+[[it:零]]
+[[ky:零]]
+[[lo:零]]
+[[lt:零]]
+[[li:零]]
+[[hu:零]]
+[[mg:零]]
+[[ms:零]]
+[[ja:零]]
+[[no:零]]
+[[pl:零]]
+[[pt:零]]
+[[ru:零]]
+[[fi:零]]
+[[ta:零]]
+[[th:零]]
+[[chr:零]]
+[[uk:零]]
+[[zh:零]]

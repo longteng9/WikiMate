@@ -1,0 +1,68 @@
+{{also|议决}}
+==Chinese==
+{{zh-forms|s=议决}}
+
+===Etymology===
+{{bor|zh|ja|議決|tr=giketsu}}, from {{der|zh|ltc|議決|tr=ngje<sup>H</sup> kwet}}
+
+===Pronunciation===
+{{zh-pron
+|m=yìjué
+|c=ji5 kyut3
+|mn=gī-koat
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to pass a [[resolution]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぎ|けつ|yomi=o}}
+
+===Etymology===
+From {{der|ja|ltc|議決|tr=ngje<sup>H</sup> kwet|sort=きけつ'}}
+
+===Pronunciation===
+{{ja-pron|acc=0|ぎけつ|y=ko}}
+
+===Noun===
+{{ja-noun|ぎけつ}}
+
+# [[decision]]; [[resolution]]
+# {{lb|ja|Magic: The Gathering}} [[will]] of the [[council]]
+
+====Synonyms====
+* {{ja-r|決%議|けつ%ぎ}}
+
+====Derived terms====
+* {{ja-r|議%決%権|ぎ%けつ%けん}}
+* {{ja-r|議%決%機%関|ぎ%けつ% き%かん}}
+
+{{C|ja|Magic: The Gathering|sort=きけつ'}}
+
+===Verb===
+{{ja-verb-suru|ぎけつ}}
+
+# to pass a resolution
+
+====Conjugation====
+{{ja-suru|ぎけつ}}
+
+===Descendants===
+* Chinese: {{zh-l|議決}}
+* Korean: {{ko-l|의결}}
+* Vietnamese: {{vi-l|nghị quyết}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:議決]]
+[[lo:議決]]
+[[mg:議決]]
+[[ja:議決]]
+[[chr:議決]]
+[[zh:議決]]

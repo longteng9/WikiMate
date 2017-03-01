@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tòngxīn
+|c=tung3 sam1
+|h=pfs=thung-sîm
+|mn=thòng-sim
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[pained]]; [[distressed]]; [[grieved]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|つう|しん|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=つうしん}} {{m|zh|痛心|tr=thuwng<sup>H</sup> sim|lit=pained heart}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|つうしん|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|つうしん}}
+
+# [[emotional]] [[suffering]], [[extreme]] [[worry]] or [[anxiety]]
+
+===Verb===
+{{ja-verb-suru|つうしん|tr=intrans}}
+
+# to [[suffer]] [[emotionally]], to be [[extremely]] [[worried]] or [[anxious]]
+
+====Conjugation====
+{{ja-suru|つうしん}}
+
+===References===
+<references/>
+
+[[hu:痛心]]
+[[zh:痛心]]

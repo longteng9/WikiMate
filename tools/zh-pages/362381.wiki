@@ -1,0 +1,23 @@
+{{also|神经网路}}
+==Chinese==
+{{zh-forms|s=神经网路|type=22}}
+
+===Pronunciation===
+{{zh-pron
+|m=shénjīng wǎnglù
+|c=san4 ging1 mong5 lou6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|chiefly|Taiwanese Mandarin}} [[neural network]]
+
+====Synonyms====
+* {{qualifier|Mainland China|Hong Kong}} {{zh-l|神經網絡}}
+
+{{zh-cat|Anatomy|Computing}}
+
+[[ko:神經網路]]
+[[zh:神經網路]]

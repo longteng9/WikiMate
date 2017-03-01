@@ -1,0 +1,52 @@
+{{also|靑空}}
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qīngkōng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[blue]] [[sky]], [[azure]] sky
+
+----
+
+==Japanese==
+{{ja-kanjitab|あお|そら|r=y|k2=ぞら|yomi=kun}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=あおぞら|青|tr1=ao|t1=blue|空|tr2=sora|t2=sky}}. The ''sora'' changes to ''zora'' due to {{rendaku|あおぞら}}.
+
+The reading was ''aosora'' until roughly the mid-[[w:Meiji period|Meiji Period]]. The shift to [[rendaku]] pronunciation has been relatively recent.
+
+===Pronunciation===
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|/aozoɽa/|[äo̞zo̞ɽä]}}
+
+===Noun===
+{{ja-noun|あおぞら|hhira=あをぞら}}
+
+# a [[blue]] [[sky]], a [[clear]] sky
+# {{qualifier|when preceding another noun}} [[outdoors]], in the [[open]], [[open-air]]
+#: {{ja-usex|'''青空'''市場|'''あおぞら''' いちば|an '''open-air''' market}}
+
+====Synonyms====
+* {{sense|clear sky}} {{ja-r|碧空|へきくう}}, {{ja-r|碧天|へきてん}}
+* {{sense|outdoors}} {{ja-r|屋外|おくがい}}, {{ja-r|露天|ろてん}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:青空]]
+[[hi:青空]]
+[[it:青空]]
+[[sw:青空]]
+[[lo:青空]]
+[[lt:青空]]
+[[ja:青空]]
+[[pt:青空]]
+[[zh:青空]]

@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhīshì
+|mn=ti-sū
+|cat=n,a
+}}
+
+===Etymology 1===
+{{wasei kango||ちじ|governor||sensible, wise}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|obsolete}} the [[magistrate]] or [[governer]] of a [[county]] or medium-size [[town]] during early days of [[Republic of China]]
+# the [[governer]] or [[magistrate]] of a Japanese [[prefecture]]
+
+===Etymology 2===
+
+====Adjective====
+{{zh-adj}}
+
+# [[sensible]], [[reasonable]], [[wise]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ち|じ|yomi=on}}
+
+===Etymology===
+From obsolete {{etyl|zh|ja|sort=ちじ}} {{m|zh|知府|tr=zhīfǔ||governer or magistrate of a county or province}}, which was often referred to as 知某州事 (one who knows matters concerning the county/province), which shortens to 知事.
+
+===Noun===
+{{ja-noun|ちじ}}
+
+# [[governor]]
+
+[[Category:ja:Politics|ちじ]]
+
+[[ko:知事]]
+[[hu:知事]]
+[[mg:知事]]
+[[chr:知事]]
+[[zh:知事]]

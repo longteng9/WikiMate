@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|浊}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=13|sn=16|four=36127|canj=EWLI|ids=⿰氵蜀}}
+
+# [[muddy]], [[turbid]], [[dirty]], [[filthy]]
+
+====References====
+* {{Han ref|kx=0654.190|dkj=18440|dj=1064.160|hdz=31758.030|uh=6FC1|ud=28609|bh=BF42|bd=48962}}
+
+----
+
+==Chinese==
+{{zh-forms|s=浊}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology 1===
+===Pronunciation===
+{{zh-pron
+|m=zhuó
+|c=zuk6
+|mn=qz,tw,xm,zz:cho̍k/qz,tw,xm,zz:ta̍k
+|mn_note=cho̍k - literary; ta̍k - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|乳濁液|五濁惡世|凡胎濁骨|十清九濁|惡濁|懸濁液|揚清抑濁|揚清激濁|汙濁|淟濁|混濁|清塵濁水|清渭濁涇|清濁|清濁同流|清聖濁賢|渾濁|溷濁|激濁揚清|濁世|濁母|濁氣|濁水|濁水溪|濁流|濁涇清渭|濁物|濁聲|濁聲母|濁質凡姿|濁酒|濁酒粗食|濁醪|濁音|濁骨凡胎|白濁|稠濁|紛濁|舉世混濁|行濁言清|言清行濁|貪濁有狀}}
+
+===Etymology 2===
+{{zh-see|醪|v|{{qualifier|Min Nan}} dirty}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水13}}
+
+# {{defn|lang=ja|sort=水13}}
+
+====Readings====
+* {{ja-readings|goon=[[だく]] (daku)|kanon=[[たく]] (taku)|kanyoon=[[じょく]] (joku)|kun=[[にごる|にご-る]] (nigoru), [[にごす|にご-す]] (nigosu), [[にごり|にご-り]] (nigori)}}
+
+====Compounds====
+{{top2}}
+* {{ja-r|濁音|だくおん}}
+* {{ja-r|濁点|だくてん}}
+{{mid2}}
+* {{ja-r|半濁点|はんだくてん}}
+* {{ja-r|連濁|れんだく}}: [[rendaku]], sequential voicing
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[탁]]|eumhun=|rv=tak|mr=t'ak|y=thak}}
+
+# {{defn|lang=ko|sort=水13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trọc]], [[đục]], [[rục]], [[sộc]], [[chọc]], [[trạc]]|rs=水13}}
+
+# {{defn|lang=vi|sort=水13}}
+
+[[fr:濁]]
+[[ko:濁]]
+[[hu:濁]]
+[[ja:濁]]
+[[pl:濁]]
+[[th:濁]]
+[[zh:濁]]

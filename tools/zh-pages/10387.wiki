@@ -1,0 +1,150 @@
+{{character info/new}}
+{{also|𠀋|大}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=1|rad=一|as=02|sn=3|four=50000|canj=JK}}
+
+===References===
+* {{Han ref|kx=0076.040|dkj=00011|dj=0137.080|hdz=10009.020|uh=4E08|ud=19976|bh=A456|bd=42070}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+{{wikipedia|zhang (unit)}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|十|又|ls=ic|t1=ten|t2=hand}} – ten ''chi'' ({{zh-l|*尺}}) is one ''zhang'' ({{lang|zh|丈}}).
+
+===Pronunciation===
+{{zh-pron
+|m=zhàng
+|m-s=zang4
+|c=zoeng6
+|h=pfs=chhong/chhông
+|md=dâung/diông/tiông
+|md_note=dâung - unit of measure; diông/tiông - kinship term
+|mn=xm,tp,kh,yl,tc,hc,sx,km,mg:tiūⁿ/zz,tn:tiōⁿ/qz,lk:tiǔⁿ/xm,zz,tw:tn̄g/qz:tňg/xm,tw:tiōng/zz:tiāng/qz:tiǒng
+|mn_note=tiūⁿ/tiōⁿ/tiǔⁿ, tn̄g/tňg - vernacular; tiōng/tiāng/tiǒng - literary
+|w=3zan
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# A [[unit]] of [[measurement]].
+## The ''[[zhang]]'', a [[traditional]] [[Chinese]] [[unit]] of [[length]] [[equal]] to 10 [[chi]] ({{zh-l|*尺}})
+## The [[mainland China|mainland]] ''[[zhang]]'', a [[unit]] of [[length]] [[standardize]]d in 1984 as 3 <sup>1</sup>/<sub>3</sub> [[meter]]s.
+## The [[Taiwanese]] ''[[zhang]]'', a [[unit]] of [[length]] [[standardize]]d as 3 <sup>1</sup>/<sub>33</sub> [[meter]]s, [[identical]] to the [[Japanese]] [[jō]].
+## The [[Hong Kong]] ''jeuhng'', [[standardize]]d as 3.71475 [[meter]]s.
+# to [[survey]] (land); to [[measure]]
+# [[gentleman]]; [[man]]; [[husband]]
+#: {{zh-x|丈夫|husband}}
+
+====Synonyms====
+* {{sense|mainland zhang}} {{zh-l|市丈}}
+
+====See also====
+* {{zh-l|尺}}, {{zh-l|寸}}, {{zh-l|分}}
+
+===Compounds===
+{{zh-der|一丈青|一落千丈|一跳八丈|丈丈|丈二金剛|丈人|丈人峰|丈人行|丈八燈臺|丈八蛇矛|丈六金身|丈夫|丈夫女|丈夫子|丈室|丈母|丈母娘|丈量|不丈夫|偉丈夫|光焰萬丈|光芒萬丈|公丈|函丈|國丈|大丈夫|大八丈|女丈夫|女中丈夫|妹丈|姊丈|姑丈|姑丈人|姨丈|家丈人|小丈夫|尺水丈波|岳丈|師丈|席間函丈|方丈|方丈之饌|方丈盈前|日高三丈|清丈|火冒三丈|烈丈夫|百丈|百丈山|百丈清規|百丈竿頭|眇小丈夫|萬丈|萬丈深淵|萬丈竿頭|紅塵萬丈|老丈|老丈人|蓑衣丈人|豪情萬丈|賤丈夫|雄心萬丈|食前方丈|食味方丈|黎丘丈人}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+From {{etyl|zh|ja}} {{m|zh|丈|tr=zhang}}
+
+====Noun====
+{{ja-noun|じょう|hhira=ぢやう}}
+
+# [[jō]], a [[traditional]] [[Japanese]] [[unit]] of [[length]] [[based]] on 10 [[shaku]], [[standardize]]d as [[equal]] to 3 <sup>1</sup>/<sub>33</sub> [[meter]]s.
+
+===Etymology 2===
+/take<small>2</small>/: [takye] → [take]. Cognate with {{m|ja|高|tr=taka||height}}, {{m|ja|高い|tr=takai||high}}, and {{m|ja|長ける|tr=takeru||to be high}}.
+
+====Alternative forms====
+* {{l|ja|長}}
+
+====Noun====
+{{ja-noun|たけ}}
+
+# [[height]]
+#* {{RQ:Utsubo Monogatari|Toshikage}}
+#*: [...] いひ教ふる事もなくておほしたつるに、年にもあはず、'''丈'''たかく心かしこし。
+
+====Particle====
+{{ja-pos|particle|だけ}}
+
+# [[only]], [[limit]]
+#: {{ja-usex|ローマ字'''だけ'''の辞書。|^ローマじ '''だけ''' の じしょ。|A rōmaji-'''only''' dictionary.}}
+#: {{ja-usex|寝たい'''だけ'''寝ていい。|^ねたい '''だけ''' ねて い.い。|You can sleep '''as much as''' you want.}}
+
+=====Usage notes=====
+* The Kanji spelling '''丈''' is rarely used.
+
+====Proper noun====
+{{ja-pos|proper|じょう|hhira=ぢやう}}
+
+# {{given name|male|lang=ja|sort=じょう}}
+
+====Kanji====
+{{ja-kanji|grade=c|rs=一02}}
+
+=====Readings=====
+* {{ja-readings|goon=[[じょう]] (''jō''), {{qualifier|historical}} [[ぢやう]] (djau)|kanon=[[ちょう]] (''chō'') {{non-joyo-reading}}|kun=[[たけ]] (''take''), [[だけ]] (''dake'')}}
+
+=====Compounds=====
+* {{ja-r|はちじょう}}
+
+===References===
+* {{R:Utsubo Monogatari 1}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=장|rv=jang|mr=chang|y=cang|eumhun=어른|ehrv=eoleun|ehmr=ǒrǔn|ehy=}}
+
+# {{defn|lang=ko|sort=一02}}
+
+===References===
+* {{Hanja ref|nav=11111}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trượng]]|rs=一02}}
+
+# {{defn|lang=vi|sort=一02}}
+
+[[zh-min-nan:丈]]
+[[cs:丈]]
+[[de:丈]]
+[[et:丈]]
+[[fr:丈]]
+[[ko:丈]]
+[[id:丈]]
+[[it:丈]]
+[[li:丈]]
+[[hu:丈]]
+[[mg:丈]]
+[[ms:丈]]
+[[ja:丈]]
+[[no:丈]]
+[[pl:丈]]
+[[pt:丈]]
+[[th:丈]]
+[[uk:丈]]
+[[vi:丈]]
+[[zh:丈]]

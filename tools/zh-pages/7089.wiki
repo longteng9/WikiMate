@@ -1,0 +1,101 @@
+{{character info/new}}
+{{also|姬}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=06|sn=9|four=41417|canj=VSLL,XVSLL|ids=⿰女臣|alt=姬}}
+
+===References===
+* {{Han ref|kx=0260.220|dkj=06229|dj=0526.210|hdz=21043.040|uh=59EB|ud=23019}}
+
+----
+
+==Chinese==
+{{zh-see|姬|v}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{wikipedia|Hime}}
+
+===Kanji===
+{{ja-kanji|grade=c|rs=女06|style=s|kyu=姬}}
+
+====Readings====
+{{ja-readings
+|goon=[[き]] (ki) {{non-joyo-reading}}
+|kanon=[[き]] (ki) {{non-joyo-reading}}
+|kun=[[ひめ]] (hime)
+|nanori=[[ひめ]] (hime), [[こひめ]] (kohime), [[ひめさき]] (himesaki), [[ぷりんせす]] (purinsesu), [[れもん]] (remon)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|お姫|おひめ}}: [[princess]]
+* {{ja-r|姫様|ひめ-さま}}: [[honorable]] princess {{qualifier|term of address or reference}}
+* {{ja-r|お姫様抱っこ|お-ひめ-さま だっこ}}: {{qualifier|slang}} bridal carry: the manner of carrying a bride over a threshold
+* {{ja-r|歌姫|うたひめ}}: a [[chanteuse]], a female [[singer]]
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|ひめ}}
+From {{etyl|ojp|ja|sort=ひめ}}. Originally {{IPAchar|/pi<sub>1</sub>me<sub>1</sub>/}}. {{IPAchar|*[pime]}} → {{IPAchar|[ɸime]}} → {{IPAchar|[hime]}}. Compound of {{compound|lang=ja|sort=ひめ|日|tr1=hi|t1=sun|女|tr2=me|t2=woman}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> The male equivalent is {{m|ja|彦|tr=hiko}}.
+
+===Pronunciation===
+{{ja-pron|yomi=k|ひめ|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ひめ}}
+
+# {{lb|ja|sort=ひめ|euphemistic}} a woman
+# a [[noblewoman]], a [[lady]], a [[princess]]
+# {{lb|ja|sort=ひめ|slang}} in the Kyōto and Ōsaka areas, a [[prostitute]]
+# short for {{m|ja|姫糊|tr=himenori}}, a kind of [[starch]] [[glue]] made from boiled-down rice
+
+===Prefix===
+{{ja-pos|prefix|ひめ}}
+
+# prefix expressing [[cuteness]] or [[smallness]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|月の姫|つき-の-ひめ}}: the [[princess]] of the [[moon]]: ''Kaguya-hime'' from ''[[w:The Tale of the Bamboo Cutter|The Tale of the Bamboo Cutter]]''
+* {{ja-r|木花之開耶姫|^こ-の-はな-の-さく-ひめ}}: (Shintō): in Japanese mythology, the blossom princess and symbol of delicate earthly life
+{{der-bottom}}
+
+====Synonyms====
+* {{sense|princess}} {{ja-r|プリンセス}}: [[princess]]
+* {{sense|princess}} {{ja-r|皇女|こうじょ}}: an [[imperial]] princess
+* {{sense|princess}} {{ja-r|王女|おうじょ}}: a [[king]]'s [[daughter]]: a [[princess]]
+
+====See also====
+* {{ja-r|女皇|じょこう}}: an [[empress]]
+* {{ja-r|女王|じょ.おう}}: a [[queen]]
+* {{pedialite|Princess}}
+* {{pedialite|Noblewoman}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=희|rv=hui|mr=hŭi|y=huy}}
+
+# {{defn|lang=ko|sort=女06}}
+
+[[cs:姫]]
+[[fr:姫]]
+[[lo:姫]]
+[[li:姫]]
+[[hu:姫]]
+[[mg:姫]]
+[[ja:姫]]
+[[pl:姫]]
+[[sv:姫]]
+[[th:姫]]
+[[chr:姫]]
+[[zh:姫]]

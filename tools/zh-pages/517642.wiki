@@ -1,0 +1,29 @@
+==Japanese==
+{{ja-kanjitab|きょう|どう|yomi=on}}
+
+===Noun===
+{{ja-noun|きょうどう}}
+
+# [[collaboration]]
+
+====Synonyms====
+* {{ja-r|共働|きょうどう}}
+* {{ja-r|協同|きょうどう}}
+* {{ja-r|協調|きょうちょう}}
+* {{ja-r|協力|きょうりょく}}
+* {{ja-r|コラボレーション}}
+
+===Verb===
+{{ja-verb-suru|きょうどう|tr=intrans}}
+
+# to [[collaborate]]
+#* '''1931''', [[:w:Yuriko Miyamoto|Yuriko Miyamoto]], プロレタリア婦人作家と文化活動の問題:
+#*: {{ja-usex|解放軍の進むあらゆるところに'''協働'''する婦人の姿がある。|かいほうぐん の すすむ あらゆる ところ に '''きょうどう''' する ふじん の すがた が ある。|Women can be seen collaborating everywhere the liberating army advances.}}
+
+====Conjugation====
+{{ja-suru|きょうどう}}
+
+===References===
+* {{R:Kojien}}
+
+[[it:協働]]

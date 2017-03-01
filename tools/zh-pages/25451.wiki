@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|衊}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=11|sn=14|four=44253|canj=TWLI|ids=⿳艹罒戍}}
+
+# to [[ignore]], to [[slight]], to [[disregard]]
+# to [[condemn]], to [[disdain]]
+
+====Synonyms====
+* {{sense|ignore}} {{l|mul|藐}}
+* {{sense|condemn}} {{l|mul|鄙}}
+
+====Antonyms====
+* {{l|mul|尊}}
+
+====Derived characters====
+* [[幭]] [[瀎]] [[懱]] [[櫗]] [[礣]] [[襪]] [[蠛]] [[衊]] [[鑖]] [[韈]] [[韤]] [[鱴]]
+
+====References====
+* {{Han ref|kx=1054.030|dkj=31781|dj=1516.260|hdz=53279.080|uh=8511|ud=34065|bh=BDB0|bd=48560}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=miè
+|c=mit6
+|h=pfs=
+|md=
+|mn=bia̍t
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=艸11}}
+
+# {{defn|lang=ja|sort=艸11}}
+
+====Readings====
+* {{ja-readings|on=[[べつ]] (betsu)|kun=[[さげすむ]] (sagesumu), [[ないがしろ]] (naigashiro), [[なみする]] (namisuru), [[ない]] (nai)}}
+
+====Compounds====
+* [[軽蔑]] ([[けいべつ]])
+* [[蔑称]] ([[べっしょう]])
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=멸|eumhun=|rv=myeol|mr=myŏl|y=myel}}
+
+# {{defn|lang=ko|sort=艸11}}
+
+[[fr:蔑]]
+[[ko:蔑]]
+[[hu:蔑]]
+[[mg:蔑]]
+[[ja:蔑]]
+[[no:蔑]]
+[[pl:蔑]]
+[[th:蔑]]
+[[zh:蔑]]

@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=06|sn=10|four=60113|canj=ALMO|ids=⿱日兆}}
+
+# [[morning]], [[dawn]]
+# used as a [[surname]]
+
+====References====
+* {{Han ref|kx=0494.210|dkj=13889|dj=0859.140|hdz=21508.150|uh=6641|ud=26177|bh=AED0|bd=44752}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=[[ciu4]]|y=chiu4}}
+
+# {{defn|lang=yue|sort=日06}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日06}}
+
+# {{defn|lang=ja|sort=日06}}
+
+====Readings====
+* {{ja-readings|on=[[ちょう]] (chō)|kun=[[あさ]] (asa)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=日06}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[cháo]] ([[chao2]])|wg=ch'ao<sup>2</sup>}}
+
+# {{defn|lang=cmn|sort=日06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=日06|hanviet=triều}}
+
+# {{defn|lang=vi|sort=日06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6641 Nom Foundation]
+
+[[fr:晁]]
+[[hu:晁]]
+[[mg:晁]]
+[[ja:晁]]
+[[pl:晁]]
+[[th:晁]]
+[[vi:晁]]
+[[zh:晁]]

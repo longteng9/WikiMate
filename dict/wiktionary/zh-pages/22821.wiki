@@ -1,0 +1,102 @@
+{{character info/new}}
+{{also|祘}}
+==Translingual==
+{{stroke order|strokes=14}}
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=08|sn=14|four=88446|canj=HBUT|ids=⿱⺮⿱目廾}}
+
+====References====
+* {{Han ref|kx=0888.030|dkj=26146|dj=1315.230|hdz=52981.080|uh=7B97|ud=31639|bh=BAE2|bd=47842}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=筭,祘}}
+
+===Glyph origin===
+{{Han etym}}
+In current form, {{Han compound|竹|目|廾|t1=bamboo}}.
+
+The {{lang|zh|目}} portion may have originally represented [[w:Counting_rods|counting rods]] (or possibly an [[abacus]], although the character is believed to predate its invention). Such rods were typically made from bamboo.
+
+===Etymology===
+It has been compared with {{cog|bo|གཤོར||to count, to measure, to weigh}} by {{zh-ref|Gong (1995)}}. The Old Chinese coda was *''-r'', as preserved in Japanese {{ja-r|算盤|そろばん|abacus}}.
+
+===Pronunciation===
+{{zh-pron
+|m=suàn
+|c=syun3
+|h=pfs=son
+|md=sáung
+|mn=xm,qz,lk,sx,tp,tn,kh,km,mg,hc,tc:sǹg/zz,yl:sùiⁿ/soàn
+|mn_note=sǹg/sùiⁿ - colloquial; soàn - literary
+|w=2soe
+|ma=y
+|mc=y
+|oc=y
+|cat=v,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[count]]; to [[calculate]]; to [[figure]]
+# to [[plan]]; to [[arrange]]; to [[design]]
+# to [[guess]]; to [[estimate]]; to [[approximate]]
+# to [[regard]] as; to [[consider]]
+# to [[count]]; to be of [[significance]]
+# to [[let]] it [[pass]]; to [[give up]]
+# [[finally]]; [[eventually]]
+
+===Compounds===
+{{zh-der|算了|算是|上算|不上算|不划算|不合算|不是算|不算|不算什麼|不算數|九章算術|二元運算|估算|何足算|作算|准算|划算|勝算|匡算|卜算|合算|同文算指|周髀算經|單一預算|單式預算|四則運算|基本運算|天算|失算|如意算盤|妙算|宸算|小算盤|就算|屈指一算|巴前算後|布算|年度預算|心算|思前算後|成算|所算|打小算盤|打打算盤|打算|打算盤|打細算盤|打鐵算盤|投資預算|折算|持籌握算|掐指一算|掐算|推算|換算|撥算盤|料算|新法算書|星算|智算|暗算|核算|概算|決算|沒算數|沒算當|沒算盤|法算|清算|減算|滿打滿算|滿打算|演算|演算法則|照算|玄機妙算|玄謀廟算|珠算|盤算|神機妙算|神算|神算妙計|秋後算帳|穩操勝算|筆算|算上|算不了|算不得|算什麼|算來|算來算去|算博士|算卦|算命|算命先生|算器|算子|算學|算帳|算式|算得|算數|算曆|算法|算無遺策|算盤|算盤子兒|算盤珠|算籌|算總帳|算舊帳|算術|算術和|算術級數|算計|算計兒|算起來|算題|算髮|籌算|精打細算|精算師|細算|結算|經濟核算|總算|總預算|老謀深算|複利計算|計算|計算器|計算尺|計算機|說話算話|課算|謀算|赤字預算|追加預算|通算|運算|運算符號|邏輯運算|鐵算盤|長算|長算遠略|關係運算|零基預算|電算器|電算機|預算|驗算|鬼算盤|鶴算龜齡|默算|龜齡鶴算}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=竹08}}
+
+# Counting, calculation
+
+====Readings====
+* {{ja-readings|goon=[[さん]] (san), [[せん]] (sen) {{non-joyo-reading}}|kanon=[[さん]] (san), [[せん]] (sen) {{non-joyo-reading}}|kanyoon=[[そん]] (son) {{non-joyo-reading}}|kun=[[かぞえる]] (kazoeru), [[かず]] (kazu)}}
+
+{{attention|ja|expand on readings}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=산|eumhun=|rv=san|mr=san|y=san}}
+
+# {{rfdef|lang=ko|sort=竹08}}
+
+====Compounds====
+* {{l|ko|算板|tr=[[산판]], sanpan}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[toán]], [[toan]]|rs=竹08}}
+
+# {{rfdef|lang=vi|sort=竹08}}
+
+[[zh-min-nan:算]]
+[[fr:算]]
+[[ko:算]]
+[[hu:算]]
+[[mg:算]]
+[[ja:算]]
+[[no:算]]
+[[pl:算]]
+[[ta:算]]
+[[th:算]]
+[[chr:算]]
+[[uk:算]]
+[[zh:算]]

@@ -1,0 +1,62 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=04|sn=8|four=38304|canj=YOJ}}
+
+# [[obstinate]], [[perverse]]
+
+====References====
+* {{Han ref|kx=1254.150|dkj=38759|dj=1737.090|hdz=63819.100|uh=8FD5|ud=36821|bh=CDD1|bd=52689}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wǔ
+|c=ng6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|乖迕|迕目|錯迕}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辵04}}
+
+# {{defn|lang=ja|sort=辵04}}
+
+====Readings====
+* {{ja-readings|on=[[ご]] (go)|kun=[[であう]] (deau)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=오|eumhun=|rv=o|mr=o|y=o}}
+
+# {{defn|lang=ko|sort=辵04}}
+[[fr:迕]]
+[[hu:迕]]
+[[mg:迕]]
+[[pl:迕]]
+[[th:迕]]
+[[zh:迕]]

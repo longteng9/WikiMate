@@ -1,0 +1,43 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=10|sn=14|four=47972|canj=DBOU|ids=⿰木䍃}}
+
+# {{defn|Han|sort=木10}}
+
+====References====
+* {{Han ref|kx=0543.300|dkj=15251|dj=0931.160|hdz=21265.060|uh=69A3|ud=27043|bh=BA6F|bd=47727}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yáo
+|c=jiu4
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# a type of [[large]] [[tree]]
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|of trees}} to [[shake]], to [[sway]]
+
+===References===
+* {{R:twedu|C05321}}
+
+[[fr:榣]]
+[[pl:榣]]
+[[th:榣]]
+[[zh:榣]]

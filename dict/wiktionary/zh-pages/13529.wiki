@@ -1,0 +1,85 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=37|rad=大|as=04|sn=7|four=10439|canj=MFK|ids=⿱不大}}
+# {{lb|mul|Cantonese}} [[skinny]], [[tiny]]
+# to [[jerk]]
+# [[dangle]]
+
+====References====
+* {{Han ref|kx=0250.161|dkj=05872|dj=0510.030|hdz=10529.080|uh=5940|ud=22848|bh=CAB1|bd=51889}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=ēn
+|c=ngan1
+|h=pfs=ngân
+|w=
+|mc=
+|oc=
+|ma=
+|cat=a,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese|Hakka}} [[skinny]]; [[thin]]; [[meagre]]
+
+====Compounds====
+{{zh-der|奀黐黐|奀雌雌|奀皮|奀挑鬼命|奀嫋鬼命|奀細}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=máng
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=dí
+|cat=
+}}
+{{attention|zh|check dí}}
+{{attention|cmn|check dí}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=大04}}
+
+# {{defn|lang=ja|sort=大04}}
+
+====Readings====
+* {{ja-readings|on=[[ぼう]] (bō)|kun=[[やせる]] (yaseru)}}
+
+[[fr:奀]]
+[[ko:奀]]
+[[hu:奀]]
+[[pl:奀]]
+[[th:奀]]
+[[zh:奀]]

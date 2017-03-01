@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|贺}}
+==Translingual==
+[[File:賀.gif|thumb|賀 in several fonts]]
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=05|sn=12|four=46806|canj=KRBUC|ids=⿱加貝}}
+
+====References====
+* {{Han ref|kx=1207.120|dkj=36725|dj=1671.020|hdz=63636.040|uh=8CC0|ud=36032|bh=B650|bd=46672}}
+
+----
+
+==Chinese==
+{{zh-forms|s=贺}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|加|貝|c1=p|c2=s|t2=shellfish money|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=hè
+|c=ho6,ho3
+|h=pfs=
+|md=
+|mn=hō
+|w=3hhu
+|mc=y
+|oc=y
+|cat=v,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[congratulate]]
+# to [[send]] [[present]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|慶賀|可喜可賀|忭賀|可賀|恭賀新禧|恭賀|弔賀迎送|吐賀|可賀敦|祝賀|拜賀|稱賀|燕賀|燕雀相賀|朝賀|賀歲|賀分|賀蘭山|賀悃|賀儀|賀客|賀年片|賀爾蒙|賀詞|賀年|賀卡|賀房|賀蘭|網路賀卡|電賀|賀喜撮空|賀表|陛賀|賀忱|賀電|賀函|賀后罵殿|致賀|電子賀卡|開賀|賀正|賀壽|賀節|賀年卡|賀喜|賀功|賀禮|道賀}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=貝05}}
+
+# congratulate, greet, celebrate
+
+====Readings====
+* {{ja-readings|goon=[[が]] (ga)|kanon=[[か]] (ka)|kun=[[よろこぶ]] (yorokobu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=하|eumhun=|rv=ha|mr=ha|y=ha}}
+
+# {{defn|lang=ko|sort=貝05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hạ]], [[dặng]]|rs=貝05}}
+
+# {{defn|lang=vi|sort=貝05}}
+
+[[zh-min-nan:賀]]
+[[de:賀]]
+[[fr:賀]]
+[[ko:賀]]
+[[hu:賀]]
+[[mg:賀]]
+[[ja:賀]]
+[[pl:賀]]
+[[th:賀]]
+[[zh:賀]]

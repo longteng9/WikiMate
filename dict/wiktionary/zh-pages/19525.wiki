@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=12|sn=15|four=37127|canj=EHXF}}
+
+# land impregnated with salt from the tide
+
+====References====
+* {{Han ref|kx=0649.160|dkj=18247|dj=1059.100|hdz=31743.090|uh=6F5F|ud=28511|bh=BCF3|bd=48371}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xì
+|c=sik1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水12}}
+
+# {{defn|lang=ja|sort=水12}}
+
+====Readings====
+* {{ja-readings|on=[[せき]] (seki)|kun=[[かた]] (kata)}}
+
+===Noun===
+{{ja-noun|かた}}
+
+# [[lagoon]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[석]]|rv=seok|mr=sŏk|y=sek|eumhun=개펄|ehrv=gaepeol|ehmr=kaep'ǒl|ehy=}}
+
+# tidal flats
+
+====References====
+* {{Hanja ref|nav=10000}}
+
+[[fr:潟]]
+[[ko:潟]]
+[[hu:潟]]
+[[ja:潟]]
+[[pl:潟]]
+[[th:潟]]
+[[zh:潟]]

@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|鼅}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=08|sn=14|four=56100|canj=LIOKR|ids=⿰虫知}}
+
+====References====
+{{Han ref|kx=1085.270|dkj=33134|dj=1552.240|hdz=42862.150|uh=8718}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=鼅,䵹}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|虫|知|c1=s|t1=insect; insect-like creature|c2=p|ls=psc}}. Originally {{och-l|鼅}}, which was originally {{och-l|䵹}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhī
+|c=zi1
+|mn=qz,tw,xm,zz:ti
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-only|蜘蛛}}
+
+====Compounds====
+{{zh-der|棚蜘蛛|水蜘蛛|海蜘蛛|草蜘蛛|蜘蛛|蜘蛛抱蛋|蜘蛛綱}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=虫08}}
+
+# [[spider]]
+
+====Readings====
+{{ja-readings|goon=[[ち]] (chi)|kanon=[[ち]] (chi)|kun=[[くも]] (kumo)}}
+
+====Compounds====
+* {{ja-r|蜘糸|い|[[spiderweb]]}}
+* {{ja-r|蜘蛛|くも}}, {{ja-r|蜘蛛|ちちゅう}}, {{ja-r|蜘蛛|ちちゅ}}, {{ja-r|蜘蛛|ちしゅ|[[spider]]}}
+* {{ja-r|蜘網|ちもう|[[spiderweb]]}}
+* {{ja-r|土蜘|つちぐも|{{taxlink|Atypus karschi|species|noshow=1}}; [[w:tsuchigumo|tsuchigumo]]}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=지|eumhun=|rv=ji|mr=chi|y=ci}}
+
+# [[spider]]
+
+====Compounds====
+* {{ko-l|지주|[[spider]]|蜘蛛}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tri]]|rs=虫08}}
+
+# [[spider]]
+
+====Compounds====
+* {{vi-l|tri chu|蜘蛛|[[spider]]}}
+
+[[zh-min-nan:蜘]]
+[[fr:蜘]]
+[[ko:蜘]]
+[[hu:蜘]]
+[[mg:蜘]]
+[[ja:蜘]]
+[[no:蜘]]
+[[pl:蜘]]
+[[th:蜘]]
+[[zh:蜘]]

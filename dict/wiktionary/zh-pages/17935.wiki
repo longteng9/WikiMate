@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=10|sn=14|four=|canj=DOGJ|ids=⿰木隼}}
+
+====References====
+* {{Han ref|kx=0544.080|dkj=15264|dj=0931.270|hdz=21264.110|uh=69AB|ud=27051|bh=BA67|bd=47719}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=sǔn
+|c=seon2
+|mn=sún
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[mortise]] and [[tenon]]
+# [[fit into]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木10}}
+
+# {{defn|lang=ja|sort=木10}}
+
+====Readings====
+* {{ja-readings|on=[[しゅん]] (shun)|kun=[[ほぞ]] (hozo)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木10| hanviet = chuẩn}}
+
+# {{defn|lang=vi|sort=木10}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=69ab Nom Foundation]
+
+[[zh-min-nan:榫]]
+[[fr:榫]]
+[[hu:榫]]
+[[mg:榫]]
+[[pl:榫]]
+[[th:榫]]
+[[zh:榫]]

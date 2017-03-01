@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=53|rad=广|as=05|sn=8|four=00212|canj=IPRU|ids=⿸广包}}
+
+# [[kitchen]]
+# [[cooking]], [[cuisine]]
+
+====References====
+* {{Han ref|kx=0344.100|dkj=09266|dj=0653.310|hdz=20879.040|uh=5E96|ud=24214|bh=A9B4|bd=43444}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=páo
+|c=paau4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|代庖|尸祝代庖|庖丁|庖丁解牛|庖人|庖代|庖子|庖宰|庖廚|庖犧|庖立|庖羲|庖鼎|治庖|良庖|越俎代庖}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=广05}}
+
+# {{defn|lang=ja|sort=广05}}
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō)|kun=[[くりや]] (kuriya)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=포|rv=po|mr=p'o}}
+
+# {{defn|lang=ko|sort=广05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=广05|hanviet=bào}}
+
+# {{defn|lang=vi|sort=广05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5e96 Nom Foundation]
+
+[[fr:庖]]
+[[hu:庖]]
+[[mg:庖]]
+[[ja:庖]]
+[[pl:庖]]
+[[th:庖]]
+[[vi:庖]]
+[[zh:庖]]

@@ -1,0 +1,31 @@
+==Japanese==
+{{ja-kanjitab|れん|そう|yomi=on}}
+
+===Alternative forms===
+* {{l|ja|聯想}}
+
+===Noun===
+{{ja-noun|れんそう}}
+
+# [[association]] of ideas
+
+====Synonyms====
+* {{ja-r|アソシエーション}}
+
+====Compounds====
+* {{ja-r|連想検査|れんそう けんさ|gloss=Implicit Association Test}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|れんそう}}
+
+# [[associate]], [[connect]]
+
+====Conjugation====
+{{ja-suru|れんそう}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[mg:連想]]
+[[ja:連想]]
+[[chr:連想]]

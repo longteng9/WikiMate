@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|龉}}
+==Translingual==
+{{Han simplified forms|齬|𪘚|龉|ex=true}}
+
+===Han character===
+{{Han char|rn=211|rad=齒|as=07|sn=22|canj=YUMMR|four=21761}}
+
+# uneven teeth
+# to [[disagree]]
+
+====References====
+* {{Han ref|kx=1534.220|dkj=48680|dj=2072.370|hdz=74794.110|uh=9F6C|ud=40812|bh=C5C5|bd=50629}}
+
+----
+
+==Chinese==
+{{zh-forms|s=龉}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǔ
+|c=jyu5
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|齟齬}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=齒07}}
+
+# [[irregular]] [[teeth]]
+
+====Readings====
+* {{ja-readings|on=[[ぎょ]] (gyo), [[ご]] (go)|kun=[[くいちがう]] (kuichigau), [[くいちがい]] (kuichigai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=어|eumhun=|rv=eo|mr=ŏ|y=e}}
+
+# {{defn|lang=ko|sort=齒07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''齬''' ([[ngữ]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:齬]]
+[[hu:齬]]
+[[ja:齬]]
+[[pl:齬]]
+[[th:齬]]
+[[zh:齬]]

@@ -1,0 +1,93 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=11|sn=15|four=74330|canj=SIP,XSIP|ids=⿱尉心}}
+
+====References====
+* {{Han ref|kx=0400.030|dkj=11135|dj=0739.230|hdz=42343.150|uh=6170|ud=24944|bh=BCA2|bd=48290}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|尉|心|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wèi
+|c=wai3
+|h=pfs=vi
+|mn=qz,tw,xm:ùi/zz:ùiⁿ
+|mn-t=uê3
+|mc=y
+|oc=y
+|cat=v,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[comfort]]; to [[console]]; to [[calm]]
+# to be [[relieved]]; [[glad]]
+
+===Compounds===
+{{zh-der|存慰|慰留|慰勞|慰情勝無|慰安婦|慰問金|慰唁|慰勉|勸慰|弔慰|快慰|宣慰|慰藉|告慰|安慰|大慰|寬慰|慰問|慰安|撫慰|欣慰|自慰|聊以自慰|解慰}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=心11}}
+
+# consolation
+
+====Readings====
+* {{ja-readings
+|on=<!--
+--> [[い]] (''i'')
+|kun=<!--
+--> [[なぐさ]] ([[慰]], ''nagusa''), <!--
+--> [[なぐさむ]] ([[慰む]], ''nagusamu''), <!--
+--> [[なぐさみ]] ([[慰み]], ''nagusami''),<!--
+--> [[なぐさめる]] ([[慰める]], ''nagusameru''),<!--
+--> [[なぐさめ]] ([[慰]] / [[慰め]], ''nagusame'')
+}}
+
+====Compounds====
+* {{ja-r|慰霊碑|いれいひ}}
+* {{ja-r|慰労|いろう}}
+* {{ja-r|自慰|じい}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=위|eumhun=[[위로할]] [[위]] (''wirohal, wi'')|rv=wi|mr=wi|y=wi}}
+
+# {{defn|lang=ko|sort=心11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ủy]], [[uý]], [[ủi]]|rs=心11}}
+
+# {{defn|lang=vi|sort=心11}}
+
+[[fr:慰]]
+[[ko:慰]]
+[[li:慰]]
+[[hu:慰]]
+[[mg:慰]]
+[[ja:慰]]
+[[no:慰]]
+[[pl:慰]]
+[[th:慰]]
+[[zh:慰]]

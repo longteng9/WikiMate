@@ -1,0 +1,50 @@
+{{also|学位}}
+==Chinese==
+{{zh-forms|s=学位}}
+
+===Etymology===
+{{wasei kango|学%位|がく%い|academic degree}}
+
+===Pronunciation===
+{{zh-pron
+|m=xuéwèi
+|c=hok6 wai6-2
+|mn=ha̍k-ūi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[academic]] [[degree]]
+
+===Derived terms===
+{{zh-der|博士學位|碩士學位|學士學位|學位證書}}
+
+{{zh-cat|Academic degrees}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|がく|yomi=o|い}}
+
+===Noun===
+{{ja-noun|shin=学位|がくい|hhira=がくゐ}}
+
+# [[academic]] [[degree]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=학위|mr=hagwi|y=hak.wi}}
+
+# {{hanja form of|학위|[[academic]] [[degree]]}}
+
+[[zh-min-nan:學位]]
+[[ko:學位]]
+[[hu:學位]]
+[[ja:學位]]
+[[uk:學位]]

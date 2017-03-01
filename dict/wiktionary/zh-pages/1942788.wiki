@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shēnhuà
+|c=sam1 faa3
+|mn=chhim-hòa
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|transitive|intransitive}} to [[deepen]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|か|yomi=on}}
+
+===Noun===
+{{ja-noun|しんか}}
+
+# [[deepening]]
+
+===Verb===
+{{ja-verb-suru|しんか}}
+
+# to [[deepen]]
+
+====Conjugation====
+{{ja-suru|しんか}}
+
+----
+
+==Korean==
+{{ko-hanjatab|深|化}}
+
+===Noun===
+{{ko-noun|rv=simhwa|hangeul=심화}}
+
+# {{hanja form of|심화|deepening}}
+
+[[ko:深化]]
+[[mg:深化]]
+[[ja:深化]]
+[[zh:深化]]

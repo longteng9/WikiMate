@@ -1,0 +1,31 @@
+{{also|后端}}
+==Chinese==
+{{zh-forms|s=后端}}
+
+===Pronunciation===
+{{zh-pron
+|m=hòuduān
+|c=hau6 dyun1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[posterior]] [[end]]; [[back]] [[end]]
+# {{lb|zh|computing}} [[backend]]
+
+====Antonyms====
+* {{zh-l|前端}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|後|端}}
+
+===Noun===
+{{ja-noun|こうたん}}
+
+# [[posterior]] end, back end
+
+[[ko:後端]]

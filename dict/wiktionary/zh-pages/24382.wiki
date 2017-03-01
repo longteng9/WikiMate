@@ -1,0 +1,90 @@
+{{character info/new}}
+{{also|腳}}
+==Translingual==
+{{stroke order|strokes=11}}
+
+===Etymology===
+{{Han simp|腳|f=卻|t=却}}; in present form it is a {{Han compound|nocap=y|肉|alt1=⺼|t1=meat, body|却|ls=psc|c1=s|c2=p}} – part of the body, the leg.
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=07|sn=11|four=|canj=BGIL|ids=⿰月却}}
+
+====References====
+* {{Han ref|kx=0983.010|dkj=29502|dj=1435.230|hdz=32075.070|uh=811A|ud=33050}}
+
+----
+
+==Chinese==
+{{zh-see|腳}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=肉07}}
+
+# {{defn|lang=ja|sort=肉07}}
+
+====Readings====
+* {{ja-readings|goon=[[かく]] (kaku)|kanon=[[きゃく]] (kyaku)|toon=[[きゃ]] (kya)|kun=[[あし]] (ashi)|nanori=}}
+
+====Compounds====
+{{der-top}}
+* [[脚韻]]
+* {{ja-r|脚気|かっけ}}
+* [[脚光]]
+* [[脚色]]
+* [[脚線美]]
+* {{ja-r|脚注|gloss=[[footnote]]|きゃくちゅう}}
+* [[脚部]]
+* [[脚本]]
+* [[脚力]]
+* {{ja-r|脚註|きゃくちゅう}}
+{{der-bottom}}
+
+{{ja-kanjitab|あし|yomi=k}}
+
+===Noun===
+{{ja-noun|あし}}
+
+# [[leg]]
+# {{alternative form of|足|lang=ja}}
+
+[[Category:Japanese basic words|あし]]
+[[Category:ja:Anatomy|あし]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=각|eumhun=|mr=kak|y=kak}}
+
+# {{defn|lang=ko|sort=肉07}}
+
+[[ast:脚]]
+[[cs:脚]]
+[[fr:脚]]
+[[ko:脚]]
+[[hi:脚]]
+[[it:脚]]
+[[kn:脚]]
+[[lo:脚]]
+[[lt:脚]]
+[[hu:脚]]
+[[mg:脚]]
+[[nl:脚]]
+[[ja:脚]]
+[[no:脚]]
+[[pl:脚]]
+[[ru:脚]]
+[[sm:脚]]
+[[fi:脚]]
+[[sv:脚]]
+[[ta:脚]]
+[[th:脚]]
+[[chr:脚]]
+[[tr:脚]]
+[[uk:脚]]
+[[zh:脚]]

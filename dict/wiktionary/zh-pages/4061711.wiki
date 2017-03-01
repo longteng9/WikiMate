@@ -1,0 +1,99 @@
+{{also|高句丽}}
+==Chinese==
+{{zh-forms|s=高句丽}}
+
+===Pronunciation===
+{{zh-pron
+|m=Gāogōulí
+|c=gou1 ngau1 lai6
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# [[Goguryeo]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|こう|く|り|yomi=on}}
+{{wikipedia|Goguryeo}}
+
+===Etymology 1===
+From {{etyl|oko|ja|sort=こうくり}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|こうくり}}
+
+====Proper noun====
+{{ja-pos|こうくり|proper|hhira=かうくり}}
+
+# the [[Goguryeo]] kingdom of 37 BCE - 668 CE, one of the ancient [[w:Three Kingdoms of Korea|Three Kingdoms of Korea]], located in what is now North Korea and parts of Manchuria and far-eastern Russia
+
+=====Derived terms=====
+* {{ja-r|高句麗古墳|^こうくり こふん}}: a [[Goguryeo]] [[tumulus]] [[tomb]]
+
+=====Synonyms=====
+* {{ja-r|高麗|こま}}
+
+===Etymology 2===
+Alteration from ''Kōkuri''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> This usage developed after the two failed attempts in 1274 and 1281 to invade Japan by the combined forces of the [[Mongol]] [[w:Yuan Dynasty|Yuan Dynasty]] and the [[Goryeo]] kingdom.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Goryeo was a successor kingdom to [[Goguryeo]], but in the popular Japanese language of the time, Goryeo was still referred to as {{lang|ja|高句麗}} (''Kōkuri'' or ''Kokuri'', i.e. “Goguryeo”) instead of {{m|ja|高麗|tr=Kōrai|pos=the Japanese reading of “Goryeo”}}.
+
+The adverb {{m|ja|こくり|tr=kokuri||startedly, startlingly, (jumping up) suddenly}} likely derives from this usage.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|こくり}}
+
+====Noun====
+{{ja-noun|こくり}}
+
+# something very [[unfortunate]] and [[scary]]
+#: {{ja-usex|これは中々天人の子ではないぞ。むくり'''こくり'''が卵よ。|^これ は なかなか てんじん の こ で は ない ぞ。 ^むくり '''こくり''' が たまご よ。|I tell you, this really isn't the child of any heavenly being. This is the spawn of of great '''googly''' moogly.|ref=<ref>c. '''1610''': {{lang|ja|昨日は今日の物語}} (''Kinō wa Kyō no Monogatari'', “The Tale of Yesterday is Today”), [[w:Anrakuan Sakuden|Anrakuan Sakuden]]</ref>}}
+
+=====Usage notes=====
+Generally always seen in combination with {{ja-r|むくり}} or {{ja-r|もくり}}, terms of similar meaning that derive from the word {{m|ja|蒙古|tr=Mōko||Mongolia}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> Compare the English slang phrase {{m|en|googly moogly}}, possibly derived from this Japanese phrase.
+
+=====Derived terms=====
+* {{ja-l|蒙古高句麗}} ({{ja-l|もくりこくり}}, {{ja-l|||mokuri kokuri}}; {{ja-l|むくりこくり}}, {{ja-l|||mukuri kokuri}})
+* {{ja-l|高句麗蒙古}} ({{ja-l|こくりもくり}}, {{ja-l|||kokuri mokuri}}; {{ja-l|こくりむくり}}, {{ja-l|||kokuri mukuri}})
+
+=====Idioms=====
+* {{ja-r|高句麗蒙古遁げる|こくり もくり にげる}}: “Goguryeo and the Mongols, run away” → to run away in complete disarray
+*: Although ''kokuri'' and ''mokuri'' here are both written using the spellings for two proper nouns, in this phrase they are used as adverbs. This might be [[ateji]], or it might be that the adverbs developed from the proper nouns. Note that many other Japanese adverbs can end in ''-ri'', such as {{m|ja|ちょっぴり|tr=choppiri||slightly, a little bit-ly}}, {{m|ja|たっぷり|tr=tappuri||fully, adequately}}, or {{m|ja|ふらり|tr=furari||aimlessly, casually, unexpectedly}}.
+
+====Proper noun====
+{{ja-pos|こくり|proper}}
+
+# the [[Goguryeo]] kingdom of 37 BCE - 668 CE, one of the ancient [[w:Three Kingdoms of Korea|Three Kingdoms of Korea]], located in what is now North Korea and parts of Manchuria and far-eastern Russia
+
+=====Synonyms=====
+* {{ja-r|高麗|こま}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Proper noun===
+{{ko-proper noun|hj|hangeul=고구려}}
+
+# {{hanja form of|고구려|[[Goguryeo]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Proper noun===
+{{vi-hantu}}
+
+# {{han tu form of|Cao Câu Ly|[[Goguryeo]]}}
+
+[[ko:高句麗]]
+[[ja:高句麗]]
+[[zh:高句麗]]

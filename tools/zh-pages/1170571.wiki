@@ -1,0 +1,30 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=héfǎxìng
+|c=hap6 faat3 sing3
+|mn=ha̍p-hoat-sèng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[legality]]; [[lawfulness]]; [[legitimacy]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ごう|ほう|せい|yomi=o}}
+
+===Etymology===
+{{suffix|合法|性|t1=legal|t2=-ity|lang=ja|sort=こうほうせい'}}
+
+===Noun===
+{{ja-noun|ごうほうせい}}
+
+# [[legality]], [[lawfulness]]
+
+[[zh:合法性]]

@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|ち|えん|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|ちえん|yomi=o}}
+
+===Noun===
+{{ja-noun|ちえん|kyu=遲延}}
+
+# [[delay]], [[tardiness]]
+
+===Verb===
+{{ja-verb-suru|ちえん|kyu=遲延|tr=intrans}}
+
+# to become delayed
+#: {{ja-usex|運行状況に応じて遅延証明書を掲載。|うんこう じょうきょう に おうじて ちえん しょうめいしょ を けいさい。|Our publication of a certificate of lateness as per operating conditions.}}
+
+====Conjugation====
+{{ja-suru|ちえん}}
+
+[[hu:遅延]]
+[[mg:遅延]]
+[[ja:遅延]]
+[[chr:遅延]]
+[[zh:遅延]]

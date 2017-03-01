@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|泺}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=05|sn=8|four=36100|canj=EHA|ids=⿰氵白}}
+
+# to [[anchor]] a [[vessel]], to [[moor]]
+# [[lie]] at anchor
+
+====References====
+* {{Han ref|kx=0615.140|dkj=17275|dj=1009.100|hdz=31588.050|uh=6CCA|ud=27850|bh=AA79|bd=43641}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=泊
+|c=bok6
+|h=pfs=
+|md=
+|mn=qz:phiak/xm,zz:phek/qz:piak/xm,zz:pek/xm,zz:pok/tw:po̍k/twv:po̍h
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+{{zh-attn-split}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水05}}
+
+====Readings====
+* {{ja-readings|goon=[[ばく]] (baku) {{non-joyo-reading}}, [[ひゃく]] (hyaku) {{non-joyo-reading}}|kanon=[[はく]] (haku)|kun=[[とまる]] (tomaru), [[とめる]] (tomeru), [[とまり]] (tomari)}}
+
+====Derived terms====
+* {{l|ja|素泊り}}, {{l|ja|素泊まり|tr=[[すどまり]], sudomari}}
+
+===Counter===
+{{ja-pos|はく|counter}}
+
+# nights stayed, [[nights]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=박|eumhun=|rv=bak|mr=pak|y=pak}}
+
+# {{defn|lang=ko|sort=水05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bạc]]|rs=水05}}
+
+# {{defn|lang=vi|sort=水05}}
+
+[[fr:泊]]
+[[ko:泊]]
+[[hu:泊]]
+[[mg:泊]]
+[[ja:泊]]
+[[no:泊]]
+[[pl:泊]]
+[[th:泊]]
+[[zh:泊]]

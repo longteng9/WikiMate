@@ -1,0 +1,138 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+From person [[亻]](who gives you something) and phonetic [[共]]. Meaning to supply.{{Han etyl}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=06|sn=8|four=24281|canj=OTC|ids=⿰亻共}}
+
+====References====
+* {{Han ref|kx=0102.160|dkj=00605|dj=0216.140|hdz=10144.040|uh=4F9B|ud=20379|bh=A8D1|bd=43217}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gōng
+|ma=
+|c=gung1,gung3
+|h=pfs=kiûng
+|md=
+|mn=keng/kèng/kiong
+|w=1kon,2kon,1qion
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[supply]], [[provide]] for
+# to [[offer]] in [[worship]]
+
+====Compounds====
+* {{zh-l|提供}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=人06}}
+
+====Readings====
+* {{ja-readings|goon=[[く]] (ku)|kanon=[[きょう]] (kyō)|kanyoon=[[ぐ]] (gu)|kun=[[そなえる]] ([[供える]], sonaeru), [[とも]] (tomo), [[そなえ]] ([[供え]], sonae)}}
+
+====Compounds====
+{{top2}}
+* [[供物]]
+* [[供宴]]
+* [[供応]]
+* [[供花]]
+* [[供華]]
+* [[供犠]]
+* [[供給]]
+* [[供血]]
+* [[供御]]
+* [[供祭]]
+* [[供出]]
+* [[供述]]
+* [[供進]]
+* [[供人]]
+* [[供勢]]
+* [[供託]]
+{{mid2}}
+* [[供米]]
+* [[供奉]]
+* [[供与]]
+* [[供用]]
+* [[供養]]
+* [[供覧]]
+* [[供料]]
+* [[口供]]
+* [[自供]]
+* [[節供]]
+* [[提供]]
+* [[私供]]
+* [[初節供]]
+* [[子供]]
+* [[試供品]]
+{{bottom}}
+
+{{ja-kanjitab|とも|yomi=k}}
+
+===Noun===
+{{ja-noun|とも}}
+
+# [[attendant]], [[servant]]
+# [[companion]]
+# [[entourage]]
+
+====Derived terms====
+{{der-top}}
+* {{l|ja|人身御供}}
+* {{l|ja|供回り}}
+{{der-mid}}
+* {{l|ja|供待ち}}
+* {{l|ja|供揃い}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=공|mr=kong}}
+
+# {{defn|lang=ko|sort=人06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cung]], [[cúng]], [[củng]], [[cũng]]|rs=人06}}
+
+# {{defn|lang=vi|sort=人06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f9b Nom Foundation]
+
+[[zh-min-nan:供]]
+[[fr:供]]
+[[ko:供]]
+[[li:供]]
+[[hu:供]]
+[[mg:供]]
+[[ja:供]]
+[[no:供]]
+[[km:供]]
+[[pl:供]]
+[[th:供]]
+[[uk:供]]
+[[zh:供]]

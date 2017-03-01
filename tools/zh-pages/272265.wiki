@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiùzhù
+|c=gau3 zo6
+|h=pfs=kiu-chhu
+|mn=kiù-chō͘
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[render]] [[assistance]] (in times of [[distress]]; to [[rescue]]
+
+===Noun===
+{{zh-noun}}
+
+# [[relief]]; [[rescue]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|きゅう|じょ|yomi=on}}
+
+===Noun===
+{{ja-noun|きゅうじょ}}
+
+# [[rescue]]
+
+===Verb===
+{{ja-verb-suru|きゅうじょ}}
+
+# [[save]]; [[rescue]]
+#: {{ja-usex|遭難者は救助された。|そうなんしゃ は きゅうじょ された。|The disaster victim was saved.}}
+
+====Conjugation====
+{{ja-suru|きゅうじょ}}
+
+====Synonyms====
+* {{ja-r|助ける|たすける}}
+* {{ja-r|救う|すくう}}
+
+[[zh-min-nan:救助]]
+[[ko:救助]]
+[[hu:救助]]
+[[mg:救助]]
+[[ja:救助]]
+[[chr:救助]]
+[[zh:救助]]

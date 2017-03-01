@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|さい|けい|こく|yomi=on}}
+
+===Etymology===
+{{compound|最|恵|国|tr1=sai|t1=most|tr2=kei|t2=blessed|tr3=koku|t3=nation|lang=ja}}
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[sa̠.i.ke̞.i.ko̞.kɯ̥ᵝ]}}
+* {{ja-accent-common|n|さ|いけ|いこく}}<ref>{{R:NHK Hatsuon}}</ref>
+
+===Noun===
+{{ja-noun|さいけいこく|kyu=最惠國}}
+# {{m|en|Most Favored Nation}} (MFN)
+
+====Derived terms====
+* {{ja-l|最恵国待遇|さいけいこくたいぐう|saikeikoku taigū}} MFN treatment
+
+===References===
+<references/>

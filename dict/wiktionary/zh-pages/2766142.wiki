@@ -1,0 +1,51 @@
+{{also|否认}}
+==Chinese==
+{{zh-forms|s=否认}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǒurèn
+|c=fau2 jing6
+|h=pfs=féu-ngin
+|mn=hó͘-jīm/hió-jīm/kh:hóⁿ-jīn/tp:hóⁿ-līn
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[deny]] {{gloss|to refuse to admit the truth or existence of something}}; to [[repudiate]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひ|にん|yomi=on}}
+
+===Noun===
+{{ja-noun|ひにん}}
+
+# [[denial]]
+
+====Antonyms====
+* {{ja-r|是認|ぜにん}}
+
+===Verb===
+{{ja-verb-suru|ひにん}}
+
+# [[deny]]
+#: {{ja-usex|容疑者は犯行を'''否認'''している。|ようぎしゃ は はんこう を '''ひにん''' している。|The suspect denies any wrongdoing.}}
+
+====Conjugation====
+{{ja-suru|ひにん}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:否認]]
+[[ko:否認]]
+[[mg:否認]]
+[[ja:否認]]
+[[chr:否認]]
+[[zh:否認]]

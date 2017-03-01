@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|赖|頼}}
+==Translingual==
+{{Han simplified forms|賴|頼|赖}}
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=09|sn=16|four=51986|canj=DLNBC,DLSHC|ids=⿰束⿱刀貝}}
+
+# [[rely]], [[depend on]]
+# [[accuse]] [[falsely]]
+# {{surname|lang=zh}}
+
+====Descendants====
+* [[頼]] [[赖]]
+
+====References====
+* {{Han ref|kx=1210.310|dkj=36861|dj=1676.270|hdz=63651.110|uh=8CF4|ud=36084|bh=BFE0|bd=49120}}
+
+----
+
+==Chinese==
+{{zh-forms|s=赖}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lài
+|c=laai6
+|mn=lōa/nāi
+|mn_note=lōa - vernacular, nāi - literary
+|mc=y
+|oc=y
+|ma=Zh-lài.ogg
+|cat=v,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|11941}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=貝09}}
+
+# {{defn|lang=ja|sort=貝09}}
+
+====Readings====
+* {{ja-readings|on=[[らい]] (rai)|kun=[[たのむ]] (tanomu), [[たよる]] (tayoru), [[たより]] (tayori)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[뢰]]>[[뇌]]|eumhun=|rv=roe>noe|mr=roe>noe|y=loy>noy}}
+
+# {{defn|lang=ko|sort=貝09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lại]], [[nái]], [[trái]]|rs=貝09}}
+
+# {{defn|lang=vi|sort=貝09}}
+
+[[zh-min-nan:賴]]
+[[fr:賴]]
+[[ko:賴]]
+[[hu:賴]]
+[[mg:賴]]
+[[ja:賴]]
+[[pl:賴]]
+[[th:賴]]
+[[zh:賴]]

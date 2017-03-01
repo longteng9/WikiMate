@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|辈}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=08|sn=15|four=11506|canj=LYJWJ|ids=⿱非車}}
+
+====References====
+* {{Han ref|kx=1245.190|dkj=38398|dj=1722.150|hdz=53538.050|uh=8F29|ud=36649|bh=BDFA|bd=48634}}
+
+----
+
+==Chinese==
+{{zh-forms|s=辈}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|車|非|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bèi
+|c=bei3,bui3
+|md=buói
+|mn=pòe
+|w=2pe
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[people]] of a certain [[kind]]; [[class]]
+# [[generation]]
+# [[lifetime]]
+
+====Compounds====
+{{zh-der|一班一輩|一輩|一輩兒|一輩子|上輩|上輩子|下半輩子|下輩|下輩子|人才輩出|儕輩|先輩|八輩子|前輩|半輩子|同輩|名輩|吾輩|四雙八輩|大半輩子|奴輩|小字輩|小輩|屠狗之輩|平庸之輩|平輩|年輩|後生小輩|後輩|我輩|按資排輩|斗筲之輩|晚輩|汝輩|泛泛之輩|流輩|渠輩|父執輩|父輩|班輩|當今無輩|疇輩|祖輩|等閒之輩|群輩|老一輩子|老八輩子|老前輩|老輩|行輩|論資排輩|超群越輩|輩出|輩分|輩子|輩數|輩流|輩行|輩輩兒|這輩子|長輩|隔房同輩|隨輩|頂輩宗圖|鼠輩}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=車08}}
+
+# {{defn|lang=ja|sort=車08}}
+
+====Readings====
+* {{ja-readings|goon=[[へ]] (he) {{non-joyo-reading}}|kanon=[[はい]] (hai)|kun=[[ともがら]] (tomogara)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=배|eumhun=|rv=bae|mr=pae|y=pay}}
+
+# {{defn|lang=ko|sort=車08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bối]]|rs=車08}}
+
+# {{defn|lang=vi|sort=車08}}
+
+[[fr:輩]]
+[[ko:輩]]
+[[hu:輩]]
+[[mg:輩]]
+[[ja:輩]]
+[[pl:輩]]
+[[th:輩]]
+[[chr:輩]]
+[[uk:輩]]
+[[zh:輩]]

@@ -1,0 +1,23 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Genji (era)}}
+</div>
+{{ja-kanjitab|げん|じ|yomi=on}}
+
+===Etymology===
+Compound of {{etyl|ltc|-}}-derived elements {{compound|lang=ja|sort=けんじ'|元|tr1=gen|t1=original|治|tr2=ji|t2=rule, command}}.  The era name was composed based on [[divination]] using the ''[[I Ching]]''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=o|げんじ|acc=1}}
+
+===Proper noun===
+{{ja-pos|proper|げんじ}}
+
+# the {{w|Genji era}} {{qualifier|February 1864–April 1865}}
+
+====Usage notes====
+Preceded by {{ja-r|文久|^ぶんきゅう}} and followed by {{ja-r|慶応|^けいおう}}.  The reigning emperor was {{w|Emperor Kōmei}} ({{lang|ja|孝明}}{{m|ja|天皇}}).
+
+===References===
+<references/>

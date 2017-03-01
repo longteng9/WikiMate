@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|おう|とう|yomi=on}}
+
+===Noun===
+{{ja-noun|おうとう}}
+
+# [[response]]
+#: {{ja-usex|質疑応答|しつぎ おうとう|questions and answers}}
+
+===Verb===
+{{ja-verb-suru|tr=both|おうとう}}
+
+# [[respond]]
+#: {{ja-usex|１号車応答せよ|いちごうしゃ おうとう せよ|Car 1, come in.}}
+
+====Conjugation====
+{{ja-suru|おうとう}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[fr:応答]]
+[[ko:応答]]
+[[li:応答]]
+[[hu:応答]]
+[[mg:応答]]
+[[ja:応答]]
+[[zh:応答]]

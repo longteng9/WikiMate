@@ -1,0 +1,65 @@
+==Chinese==
+{{zh-forms}}
+[[Image:Bufo bufo couple during migration(2005).jpg|thumb|250px|蟾蜍]]
+
+===Pronunciation===
+{{zh-pron
+|m=chánchú
+|c=sim4 ceoi4,sim4 cyu4,sim4 syu4
+|mn=chiuⁿ-chî/chiuⁿ-chû
+|cat=n
+}}
+
+===Noun===
+{{zh-noun|mw=隻}}
+
+# a [[toad]]
+# Jin Chan, the [[Chinese Money Toad]]
+
+====Synonyms====
+* {{sense|a toad}} {{zh-l|癩蛤蟆}}, {{zh-l|疥蛤蟆}}, {{zh-l|蛤蟆}}
+* {{sense|Money Toad}} {{zh-l|金蟾}}
+
+====See also====
+* {{zh-l|青蛙}}
+
+{{zh-cat|Amphibians}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|sort=ひきがえる|yomi=irr}}
+{{compound|蟇|tr1=[[hiki]]|t1=[[toad]]|蛙|tr2=[[kaeru]]|t2=[[frog]]|lang=ja|sort=ひきがえる}}
+
+====Pronunciation====
+{{ja-pron|ひきがえる|acc=3|dev=1|acc_ref=NHK,DJR|y=i}}
+
+====Noun====
+{{ja-noun|ひきがえる|ヒキガエル|hhira=ひきがへる}}
+
+# {{alternative spelling of|蟇蛙|lang=ja}}: [[toad]] {{gloss|[[amphibian]] similar to a [[frog]]}}
+
+===Etymology 2===
+{{ja-kanjitab|せん|じょ|yomi=o}}
+From {{etyl|zh|ja|sort=せんじょ}} {{m|zh|蟾蜍}}
+
+====Pronunciation====
+{{ja-pron|せんじょ|acc=h|acc_ref=DJR|y=go}}
+
+====Noun====
+{{ja-noun|せんじょ|センジョ|hhira=せんじよ}}
+
+# [[toad]] {{gloss|[[amphibian]] similar to a [[frog]]}}
+
+===References===
+<references/>
+[[Category:Japanese words with multiple readings]]
+[[Category:ja:Amphibians|ひきがへる]]
+[[es:蟾蜍]]
+[[ko:蟾蜍]]
+[[mg:蟾蜍]]
+[[ja:蟾蜍]]
+[[chr:蟾蜍]]
+[[zh:蟾蜍]]

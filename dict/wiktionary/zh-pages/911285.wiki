@@ -1,0 +1,29 @@
+==Japanese==
+{{ja-kanjitab|かん|り|しゃ|yomi=o}}
+
+===Etymology===
+{{suffix|管理|者|t1=administrate, manage|t2=-er|lang=ja|sort=かんりしゃ}}
+
+===Noun===
+{{ja-noun|かんりしゃ}}
+
+# [[administrator]], [[manager]]
+
+[[Category:ja:Computing|かんりしゃ]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=관리자}}
+
+# {{ko-hanja form of|관리자|administrator, manager}}
+
+[[ko:管理者]]
+[[hu:管理者]]
+[[mg:管理者]]
+[[mn:管理者]]
+[[ja:管理者]]
+[[chr:管理者]]

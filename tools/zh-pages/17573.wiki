@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=06|sn=10|four=41916|canj=DMAM|ids=⿰木亘}}
+
+====References====
+* {{Han ref|kx=0526.050|dkj=14774|dj=0915.020|hdz=21195.060|uh=6853|ud=26707|bh=AED9|bd=44761}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huán
+|c=wun4
+|mn=hoân
+|mc=y
+|oc=y
+|ma=
+|cat=n,pn
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{vern|Chinese soapberry}} ({{taxlink|Sapindus mukorossi|species|noshow=1}})
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{surname|lang=zh}}
+
+====References====
+* {{qualifier|Min Nan}} [http://kaifangcidian.com/han/minnan/%E6%A1%93 Kaifang Cidian]
+* [http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=1&wdqb=%E6%A1%93 MDBG Chinese-English Dictionary (CC-CEDICT)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木06}}
+
+# {{defn|lang=ja|sort=木06}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan), [[がん]] (gan)|kun=[[たけしい]] (takeshii), [[めぐる]] (meguru), [[うれえる]] (ureeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=환|eumhun=|rv=hwan|mr=hwan|y=hwan}}
+
+# {{defn|lang=ko|sort=木06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木06|hanviet=hoàn}}
+
+# {{defn|lang=vi|sort=木06}}
+
+[[fr:桓]]
+[[hu:桓]]
+[[mg:桓]]
+[[ja:桓]]
+[[pl:桓]]
+[[th:桓]]
+[[zh:桓]]

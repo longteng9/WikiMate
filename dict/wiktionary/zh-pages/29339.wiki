@@ -1,0 +1,60 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=05|sn=13|four=85110|canj=CHQM}}
+
+# to [[rust]]
+
+====References====
+* {{Han ref|kx=1301.040|dkj=40296|dj=1803.060|hdz=64186.130|uh=924E|ud=37454|bh=E0C8|bd=57544}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shēng,jǔ,xú
+|c=sau3
+|mn=qz:sng/xm,zz:seng/qz,tw,xm:siⁿ/zz:seⁿ/qz:san/tw,xm,zz:sian
+|mn_note=sng/seng - literary; siⁿ/seⁿ/san/sian - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金05}}
+
+# {{defn|lang=ja|sort=金05}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō), [[しょう]] (shō), [[せい]] (sei)|kun=[[さび]] (sabi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=생|eumhun=|rv=saeng|mr=saeng|y=sayng}}
+
+# {{defn|lang=ko|sort=金05}}
+
+[[zh-min-nan:鉎]]
+[[fr:鉎]]
+[[ko:鉎]]
+[[hu:鉎]]
+[[pl:鉎]]
+[[th:鉎]]
+[[zh:鉎]]

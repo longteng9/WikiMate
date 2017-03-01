@@ -1,0 +1,67 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=突rán
+|ma=zh-tūrán.ogg
+|c=dat6 jin4
+|h=pfs=thut-yèn
+|mn=qz,tp,xm:tu̍t-liân/kh,zz:tu̍t-jiân
+|mn_note=thu̍t-jiân/thu̍t-liân - unknown dialect
+|cat=adv
+}}
+
+===Adverb===
+{{zh-adv}}
+
+# [[suddenly]]
+
+====Synonyms====
+* {{zh-l|突然間}}
+* {{zh-l|忽然}}, {{zh-l|忽然間}}
+* {{qualifier|Cantonese}} {{zh-l|無啦啦}}, {{zh-l|一吓}}
+* {{qualifier|Min Nan}} {{zh-l|雄雄}}
+
+====See also====
+* {{zh-l|無緣無故|without cause or reason; for no reason at all}}
+
+===References===
+*(''Min Nan'') {{thcwd|5365}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|とつ|ぜん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|とつぜん|y=o|acc=0|acc_ref=NHK}}
+
+===Adjectival noun===
+{{ja-adj|とつぜん|decl=な}}
+
+# [[sudden]]
+
+====Synonyms====
+* {{ja-r|急|きゅう}}
+
+====Inflection====
+{{ja-na|突然|とつぜん|totsuzen}}
+
+===Adverb===
+{{ja-pos|adverb|とつぜん}}
+
+# [[suddenly]]
+
+===References===
+<references/>
+
+[[zh-min-nan:突然]]
+[[ko:突然]]
+[[hu:突然]]
+[[mg:突然]]
+[[ja:突然]]
+[[ta:突然]]
+[[chr:突然]]
+[[uk:突然]]
+[[zh:突然]]

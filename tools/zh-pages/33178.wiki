@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|韲|齑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=210|rad=齊|as=09|sn=23|four=00223|canj=YXLSM,YXLMM}}
+
+# [[break]] or [[smash]] into pieces, [[pulverize]]
+# [[hash]]
+
+====References====
+* {{Han ref|kx=1532.040|dkj=48578|dj=2069.170|hdz=74787.030|uh=9F4F|ud=40783|bh=F87E|bd=63614}}
+
+----
+
+==Chinese==
+{{zh-forms|s=齑}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jī
+|c=zai1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=齊09}}
+
+# {{defn|lang=ja|sort=齊09}}
+
+====Readings====
+* {{ja-readings|on=[[せい]] (sei), [[さい]] (sai)|kun=[[なます]] (namasu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=제|eumhun=|rv=je|mr=che|y=cey}}
+
+# {{defn|lang=ko|sort=齊09}}
+
+[[Category:Uncommon kanji]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''齏''' ([[tê]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:齏]]
+[[hu:齏]]
+[[mg:齏]]
+[[ja:齏]]
+[[pl:齏]]
+[[th:齏]]
+[[zh:齏]]

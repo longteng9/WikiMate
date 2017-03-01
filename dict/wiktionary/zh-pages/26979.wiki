@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|诧}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=06|sn=13|four=03614|canj=YRJHP}}
+
+# to [[brag]]
+# [[exaggerated]]
+# to wonder at
+
+====References====
+* {{Han ref|kx=1157.210|dkj=35431|dj=1623.040|hdz=63972.010|uh=8A6B|ud=35435|bh=B8D2|bd=47314}}
+
+----
+
+==Chinese==
+{{zh-forms|s=诧}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chà
+|c=caa3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|惡詫|希詫|詫異|驚詫}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言06}}
+
+# {{defn|lang=ja|sort=言06}}
+
+====Readings====
+* {{ja-readings|on=[[た]] (ta)|kun=[[かこつ]] (kakotsu), [[わびる]] (wabiru), [[わび]] (wabi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=타|eumhun=|rv=ta|mr=t'a|y=tha}}
+
+# {{defn|lang=ko|sort=言06}}
+
+[[fr:詫]]
+[[mg:詫]]
+[[ja:詫]]
+[[pl:詫]]
+[[th:詫]]
+[[zh:詫]]

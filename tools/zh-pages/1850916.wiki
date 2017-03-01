@@ -1,0 +1,24 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|びんざさら}}
+{{wikipedia|Binzasara}}
+[[File:Binzasara_1.jpg|thumb|250px|{{lang|ja|編木}} (''binzasara''): a '''[[binzasara]]'''.]]
+</div>
+{{ja-kanjitab|yomi=irr|びん|ささら|k2=ざさら|r=y}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ひんざさら'|編|tr1=bin|pos1=irregular reading; possibly refers to the way the instrument is bound together|簓|tr2=ささら|t2=bamboo whisk or broom|pos2=which this instrument resembles}}.  {{rendaku2|sort=ひんざさら'|sasara|zasara}}
+
+===Pronunciation===
+{{ja-pron|yomi=irr|びんざさら|acc=3|acc_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|拍板}}
+
+===Noun===
+{{ja-noun|びんざさら}}
+
+# {{lb|ja|sort=ひんざさら'|music}} a Japanese percussion instrument made of wooden slats
+
+===References===
+<references/>

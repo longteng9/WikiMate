@@ -1,0 +1,60 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{wasei kango||こうちょう|climax||high tide}}
+
+===Pronunciation===
+{{zh-pron
+|m=gāocháo
+|ma=Zh-gaocháo.ogg
+|c=gou1 ciu4
+|mn=ko-tiau
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|oceanography}} [[high tide]]; [[high water]] {{zh-mw|個|次}}
+#: {{zh-x|高潮 時 你 不能 在 這個 海灘 散步。|You can't walk along this beach at '''high tide'''.}}
+# [[climax]]; major [[development]] {{zh-mw|個|次}}
+#: {{zh-x|第 五 場 是 全 劇 的 高潮。|The fifth scene was the '''climax''' of the play.}}
+# [[orgasm]] {{zh-mw|個|次}}
+# [[upsurge]] {{zh-mw|個|次}}
+
+{{zh-cat|Sex}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|たか|しお|yomi=k}}
+{{ja-kanjitab|こう|ちょう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|こうちょう|acc=h|acc_ref=DJR,NHK,SMK5|y=ko}}
+{{ja-pron|たかしお|acc=h|acc_ref=DJR,NHK,SMK5|y=k}}
+
+===Noun===
+{{ja-noun|こうちょう|hhira=かうてう}} {{ja-altread|hira=たかしお|hhira=たかしほ}}
+
+# [[climax]]
+# {{lb|ja|oceanography|sort=こうちょう}} [[high tide]]
+
+====Derived terms====
+* {{ja-r|高潮警報|たかしおけいほう|takashiokeihō}}: [[high tide]] [[warning]]
+
+===Descendants===
+* Chinese: {{zh-l|高潮}}
+* Korean: {{ko-l|고조}}
+* Vietnamese: {{vi-l|cao trào}}
+
+===References===
+<references/>
+
+[[zh-min-nan:高潮]]
+[[gl:高潮]]
+[[ko:高潮]]
+[[hu:高潮]]
+[[ja:高潮]]
+[[zh:高潮]]

@@ -1,0 +1,30 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Kagome lattice}}
+{{wikipedia|Kagome Kagome}}
+[[Image:Tile 3636.svg|thumb|250px|{{lang|ja|籠目}} (''kagome''): a '''[[kagome]] [[lattice]]'''.]]
+</div>
+{{ja-kanjitab|かご|め|yomi=kun}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=かごめ|籠|tr1=kago|t1=basket|目|tr2=me|t2=eye, hole}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=kun|acc=0|acc_ref=DJR|かごめ}}
+
+===Noun===
+{{ja-noun|かごめ}}
+
+# A [[kagome]] [[lattice]]; an [[w:arrangement of lines|arrangement]] of [[lath]]s composed of interlaced triangles such that each point where two laths cross has four neighboring points. Although called a lattice, it is more closely related to [[w:trihexagonal tiling|trihexagonal tiling]] than to a [[w:lattice (group)|mathematical lattice]].
+# Short for {{ja-r|籠目籠目|かごめ かごめ}}: the "''[[bird]]-in-the-[[cage]]''"; a [[Japanese]] children's game, similar to [[English]] children's games, like [[tag]] and [[blind man's buff|blind man's bluff]].
+# Short for {{ja-r|籠目紋|かごめ もん}}: a kind of {{m|ja|家紋|tr=kamon||family crest}} featuring the shape of a [[six]]-pointed star, like the [[Star of David]], appearing in the intersections of a ''kagome'' lattice in the design.
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|籠目籠目|かごめ かごめ}}: [[bird]]-in-the-[[cage]]
+* {{ja-r|籠目紋|かごめ もん}}: a shape like the [[Star of David]], appearing in the intersections of a ''kagome'' lattice
+{{der-bottom}}
+
+===References===
+<references/>

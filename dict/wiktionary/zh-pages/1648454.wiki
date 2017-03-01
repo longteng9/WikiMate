@@ -1,0 +1,68 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=gùzhàng
+|c=gu3 zoeng3
+|h=pfs=ku-chong
+|mn=kò͘-chiong/kò͘-chiòng
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[breakdown]] {{gloss|of a mechanical or electronic device}}; [[malfunction]]; [[fault]]
+# {{lb|zh|computing}} [[bug]]
+# [[obstacle]]; [[hitch]]
+
+{{zh-cat|Computing|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こ|しょう|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|こしょう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|こしょう}}
+
+# [[break]], [[break down]], have a [[fault]], go [[out of order]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|こしょう}}
+
+# [[break]], [[break down]], have a [[fault]]
+
+====Conjugation====
+{{ja-suru|こしょう}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab|故|障}}
+
+===Noun===
+{{ko-noun|rv=gojang|hangeul=고장}}
+
+# {{hanja form of|고장|mechanical breakdown}}
+
+[[ko:故障]]
+[[hu:故障]]
+[[mg:故障]]
+[[ja:故障]]
+[[pt:故障]]
+[[sv:故障]]
+[[tl:故障]]
+[[chr:故障]]
+[[zh:故障]]

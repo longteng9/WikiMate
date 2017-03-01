@@ -1,0 +1,75 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=hángkōng
+|ma=Zh-hángkong.ogg
+|c=hong4 hung1
+|h=pfs=hòng-khûng
+|mn=hâng-khong
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[aviation]]
+# [[airline]]
+# [[airmail]]
+
+====Derived terms====
+{{zh-der|航空兵|航空港|航空公司|航空母艦|航空器|航空攝影|航空信|航空郵件|民用航空|無人航空載具|意大利航空}}
+
+====Descendants====
+{{CJKV||こうくう|항공|hàng không}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|くう|yomi=o}}
+
+===Pronunciation===
+{{ja-accent-common|h|こ|うくう}}<ref>{{R:NHK Hatsuon}}</ref>
+
+===Noun===
+{{ja-noun|こうくう|hhira=かうくう}}
+
+# [[aviation]]
+#* '''1945''', 海野十三, 宇宙戦隊:
+#*: {{ja-usex|今日の'''航空'''戦隊は、やがて「宇宙戦隊」の時代にかわっていくことでしょう。|^こんにち の '''こうくう''' せんたい は、 やがて 「うちゅう せんたい」 の じだい に かわって いく こと でしょう。|Maybe before long the air squadron of today will be replaced with a "space squadron" of tomorrow.}}
+
+====Derived terms====
+* {{ja-r|航空便|gloss=[[airmail]]|こうくうびん}}
+* {{ja-r|航空郵便|gloss=[[airmail]]|こうくうゆうびん}}
+* {{ja-r|航空機|gloss=[[aircraft]]|こうくうき}}
+* {{ja-r|航空母艦|gloss=[[aircraft carrier]]|こうくうぼかん}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=항공}}
+
+# {{hanja form of|항공|aviation}}
+
+[[zh-min-nan:航空]]
+[[fr:航空]]
+[[ko:航空]]
+[[lo:航空]]
+[[hu:航空]]
+[[mg:航空]]
+[[ja:航空]]
+[[ru:航空]]
+[[uk:航空]]
+[[zh:航空]]

@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|寃}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=14|rad=冖|as=08|sn=10|four=37413|canj=BNAI,BNUI|ids=⿱冖兔}}
+
+# [[grievance]], [[injustice]], [[wrong]]
+
+====References====
+* {{Han ref|kx=0130.270|dkj=01587|dj=0293.070|hdz=10305.010|uh=51A4|ud=20900|bh=ADDE|bd=44510}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuān
+|ma=Zh-yuan.ogg
+|c=jyun1
+|h=pfs=
+|md=
+|mn=qz,tw,xm,zz:oan/qz,xm:un
+|mn_note=oan - literary; un - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=冖08}}
+
+====Readings====
+* {{ja-readings|on=[[えん]] (en)|kun=[[かがむ]] (kagamu), [[ぬれぎぬ]] (nureginu)}}
+
+===Noun===
+{{ja-noun|えん}}
+
+# false [[charge]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=원|rv=won|mr=wŏn}}
+
+# {{defn|lang=ko|sort=冖08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[oan]]|rs=冖08}}
+
+# {{defn|lang=vi|sort=冖08}}
+
+[[zh-min-nan:冤]]
+[[fr:冤]]
+[[hu:冤]]
+[[mg:冤]]
+[[ms:冤]]
+[[ja:冤]]
+[[no:冤]]
+[[pl:冤]]
+[[th:冤]]
+[[zh:冤]]

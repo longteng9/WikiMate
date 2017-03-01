@@ -1,0 +1,44 @@
+{{also|管絃}}
+==Chinese==
+{{zh-forms|t2=管絃}}
+
+===Etymology===
+From abbreviation of {{zh-l|管樂|wind instrumental music}} + abbreviation of {{zh-l|弦樂|string instrumental music}}
+
+===Pronunciation===
+{{zh-pron
+|m=guǎnxián
+|c=gun2 jin4,gun2 jyun4
+|mn=koán-hiân
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[orchestral]] [[music]]
+
+====Derived terms====
+{{zh-der|管弦樂|管弦樂團|管弦樂隊}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|げん|yomi=on}}
+
+===Noun===
+{{ja-noun|かんげん}}
+
+# [[wind instrument|wind]] and [[string instrument]]s
+# Japanese court music [[music]]
+
+====Compounds====
+* {{ja-r|管弦楽器|かんげん がっき}}: [[wind instrument|wind]] and [[string instrument|string]] [[instrument]]s
+* {{ja-r|管弦楽|かんげんがく}}: orchestral music
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:管弦]]
+[[sw:管弦]]
+[[zh:管弦]]

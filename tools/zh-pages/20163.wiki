@@ -1,0 +1,48 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=11|sn=15|four=90827|canj=FYCB}}
+
+# [[entropy]]
+
+====References====
+* {{Han ref|kx=0681.141|hdz=32229.140|uh=71B5|ud=29109|bh=E669|bd=58985}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+{{zh-wp}}
+
+===Glyph origin===
+{{Han compound|火|商|c1=s|c2=p|t1=fire|t2=quotient|ls=psc}}
+
+Coined by Chinese physical scientist Hu Gangfu ({{l|zh|w:zh:胡剛復|胡剛復}}) in 1923 to translate the concept of [[entropy]] in thermodynamics, where {{m|zh|商||[[quotient]]}} represents the quotient of [[heat]] and [[temperature]], and {{m|zh|火||fire}} represents its relation to [[thermodynamics]].
+
+===Pronunciation===
+{{zh-pron
+|m=shāng
+|c=soeng1
+|h=pfs=sông
+|md=siŏng
+|mn=siong
+|w=1saan
+|mc=
+|oc=
+|ma=
+|cat=n,pn,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[entropy]] (in [[physics]], [[information theory]], etc.)
+
+{{zh-cat|Physics}}
+
+[[fr:熵]]
+[[mg:熵]]
+[[pl:熵]]
+[[th:熵]]
+[[zh:熵]]

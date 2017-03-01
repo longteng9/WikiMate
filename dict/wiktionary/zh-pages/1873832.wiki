@@ -1,0 +1,31 @@
+{{also|摂氏|摄氏}}
+==Chinese==
+{{zh-forms|s=摄氏}}
+
+===Etymology===
+Abbreviation of {{zh-l|攝爾修斯}} (transliteration of {{etyl|sv|zh}} {{m|sv|Celsius}}) + {{zh-l|氏|family}}
+
+===Pronunciation===
+{{zh-pron
+|m=Shèshì
+|c=sip3 si6
+|mn=Liap-sī
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[Celsius]], [[centigrade]]
+#: {{zh-x|昨天 攝{Shè}氏 九 度。|Yesterday it was nine degrees '''Celsius'''.}}
+
+====Usage notes====
+* As noted in the example given, unlike English, Celsius (攝氏) is put ''before'' the number of degrees in Chinese.
+
+====See also====
+* {{zh-l|華氏}}
+
+[[Category:Mandarin terms derived from English|手18攝氏]]
+
+[[ko:攝氏]]
+[[ja:攝氏]]

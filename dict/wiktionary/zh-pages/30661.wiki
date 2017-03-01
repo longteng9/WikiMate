@@ -1,0 +1,127 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=170|rad=阜|as=07|sn=10|four=73211|canj=NLJMU|ids=⿰阝完}}
+
+====References====
+* {{Han ref|kx=1352.040|dkj=41665|dj=1854.010|hdz=64133.080|uh=9662|ud=38498|bh=B07C|bd=45180}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|阜|完|alt1=阝|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yuàn,er=y
+|m-s=yuan4
+|c=jyun6,jyun6-2
+|h=pfs=yen/yan
+|md=iêng
+|mn=qz,xm,zz:oān/qz,tw,xm,zz:īⁿ
+|mn_note=oān - literary; īⁿ - vernacular
+|w=3hhoe
+|ma=y
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[courtyard]]; [[yard]]
+# [[public]] or [[government]] [[building]]; [[court]]
+#: {{zh-x|電影院|cinema}}
+#: {{zh-x|醫院|hospital}}
+#: {{zh-x|法院|law court}}
+# [[institution]]; [[academy]]
+#: {{zh-x|學院|institute; academy}}
+# [[hospital]]
+# {{lb|zh|Sichuanese}} to go around
+
+===Compounds===
+{{zh-der|院落|院牆|院士|院長|院子|醫院|病院|住院|學院|一院制|三合院|三宮六院|上議院|下議院|下院|中科院|二輪戲院|五院|住院醫師|修道院|健身院|元老院|入院|兩院制|公斷法院|六院|最高法院|出院|別院|劇院|匭院|卑田院|博濟醫院|博物院|參議院|司法院|四合院|國務院|國家劇院|國際法院|地方法院|場院|大學院|大學院校|大專院校|大理院|大行院|大院|大院君|大雜院|太醫院|妓院|孤兒院|孤老院|學院派|宅院|安老院|宮院|察院|寺院|嵩陽書院|嶽麓書院|工學院|工研院|平政院|庭院|廊院|影院|後院|悲天院|悲田院|感化院|應天書院|戲院|托老院|撫院|救濟院|教學醫院|教養院|敬老院|星院|春院|書院|本司三院|本司院|東林書院|棘院|樞密院|檢察院|檢院|歌劇院|法院|淨院|深宅大院|火院|烏龍院|獨門獨院|獨院|理容院|理藩院|理院鵲巢|畫院|當院|瘋人院|療養院|監察院|眾議院|研究院|立法院|經院哲學|美容院|翰林院|老人院|考試院|考院|育幼院|臺大醫院|花院|莊院|行政法院|行政院|行院|衙院人家|規院|試院|諫院|議院|貢院|貴族院|跨院兒|道院|部院|醫院船|野戰醫院|金院本|鎖院|開放醫院|院主|院內感染|院公|院君|院家|院本|院畫|院試|院轄市|院體畫|雜院兒|電影院|養濟院|養老院|香火院|高等法院|高院|麴院}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=阜07}}
+
+# {{defn|lang=ja|sort=阜07}}
+
+====Readings====
+* {{ja-readings|goon=[[えん]] (en)|kanon=[[えん]] (en)|kanyoon=[[いん]] (in)|}}
+
+====Compounds====
+{{der-top}}
+{{top2}}
+* {{ja-r|院生|いんせい}}
+* {{ja-r|院政|いんせい}}
+* {{ja-r|院内感染|いんない かんせん}}
+* {{ja-r|医院|い.いん}}
+* {{ja-r|学院|がくいん}}
+{{mid2}}
+* {{ja-r|寺院|じ.いん}}
+* {{ja-r|退院|たい.いん}}
+* {{ja-r|入院|にゅういん}}
+* {{ja-r|病院|びょういん}}: hospital
+* {{ja-r|大学院|だいがくいん}}
+{{bottom}}
+{{der-bottom}}
+
+===Noun===
+{{ja-noun|いん}}
+
+# {{lb|ja|historical}} Ex-emperor, ex-empress or entitled as equal-to-emperor/empress in cloister (derived from "mansion"; the highly nobles are not addressed directly, but with their residence as substitution)
+
+===Suffix===
+{{ja-pos|いん|suffix}}
+
+# temple
+# institution
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=원|eumhun=|mr=wŏn|y=wen}}
+
+# {{defn|lang=ko|sort=阜07}}
+
+====Compounds====
+* {{l|ko|孤兒院|tr=[[고아원]], goawon||orphanage}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|viện|rs=阜07}}
+
+# {{defn|lang=vi|sort=阜07}}
+
+[[zh-min-nan:院]]
+[[fr:院]]
+[[ko:院]]
+[[lt:院]]
+[[hu:院]]
+[[mg:院]]
+[[ja:院]]
+[[no:院]]
+[[pl:院]]
+[[fi:院]]
+[[th:院]]
+[[uk:院]]
+[[vi:院]]
+[[zh:院]]

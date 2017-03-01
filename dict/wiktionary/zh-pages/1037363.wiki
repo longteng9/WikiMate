@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xīnshēn
+|mn=sim-sin
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[mind]] and [[body]]
+
+====Derived terms====
+{{zh-der|心身俱忘|心身俱瘁}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|しん|yomi=on}}
+
+===Etymology===
+From {{m|ja|心|sc=Jpan|tr=shin||heart}} + {{m|ja|身|sc=Jpan|tr=shin||body}}
+
+===Noun===
+{{ja-noun|しんしん}}
+
+# [[mind]] and [[body]]; [[psychosomatic]].
+
+====Derived terms====
+{{der-top|Derived terms}}
+* [[心身一体]] (''shinshin ittai''): holism
+* [[心身一如]] (''shinshin ichinyo''): body and mind as one
+* [[心身症]] (''shinshinshō''): psychosomatic illness
+* [[心身障害]] (''shinshin shōgai''): mental and physical disorder
+* [[心身障害児]] (''shinshin shōgai-ji''): physically handicapped child
+* [[心身障害者]] (''shinshin shōgaisha''): physically handicapped person
+* [[心身創痍]] (''shinshin sōi''): being wounded in mind and body
+* [[心身爽快]] (''shinshin sōkai''): feeling refreshed in mind and body
+* [[心身二元論]] (''shinshin nigenron''): mind-body dualism
+{{der-bottom}}
+
+====See also====
+* {{pedialite|lang=ja}}
+* {{pedialite|Psychosomatic}}
+
+[[ko:心身]]
+[[lo:心身]]
+[[ja:心身]]
+[[zh:心身]]

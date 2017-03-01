@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|尝}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=11|sn=14|four=90601|canj=FBRPA|ids=⿳龸口旨}}
+
+# [[taste]]
+# [[experience]], [[experiment]]
+
+====References====
+* {{Han ref|kx=0206.090|dkj=04205|dj=0429.070|hdz=21529.090|uh=5617|ud=22039|bh=B9C1|bd=47553}}
+
+----
+
+==Chinese==
+{{zh-forms|s=尝}}
+
+===Pronunciation===
+{{zh-pron
+|m=cháng
+|c=soeng4
+|h=pfs=sòng
+|md=
+|mn=siông
+|w=
+|mc=y
+|oc=y
+|cat=v,adv,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[taste]] {{gloss|try the flavour of}}
+# to [[try]]
+# to [[experience]]
+# [[already]]; [[ever]]
+# {{surname|lang=zh}}
+
+===References===
+* http://zh-cn.oldict.com/%E5%B0%9D/
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口11}}
+
+# {{defn|lang=ja|sort=口11}}
+
+====Readings====
+* {{ja-readings|kanon=[[しょう]] (shō)|goon=[[じょう]] (jō)|kun=[[なめる]] (nameru), [[こころみる]] (kokoromiru), [[かつて]] (katsute)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=상|rv=sang|mr=sang}}
+
+# {{defn|lang=ko|sort=口11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thường]]|rs=口11}}
+
+# {{defn|lang=vi|sort=口11}}
+
+[[fr:嘗]]
+[[ko:嘗]]
+[[li:嘗]]
+[[hu:嘗]]
+[[mg:嘗]]
+[[ja:嘗]]
+[[pl:嘗]]
+[[th:嘗]]
+[[chr:嘗]]
+[[zh:嘗]]

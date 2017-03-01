@@ -1,0 +1,56 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=08|sn=11|four=42114|canj=GHJM|ids=⿰土垂}}
+
+====References====
+* {{Han ref|kx=0231.060|dkj=05190|dj=0467.120|hdz=10454.020|uh=57F5|ud=22517|bh=D8A6|bd=55462}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=duǒ
+|c=do2
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[harden]]ed [[dirt]] or [[clay]]
+# [[cluster]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土08}}
+
+# {{defn|lang=ja|sort=土08}}
+
+====Readings====
+{{ja-readings|goon=[[だ]] (da)|kanon=[[た]] (ta)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|薩埵|さった}}: [[sattva]]
+* {{ja-r|耳埵|みみたぶ}}: [[earlobe]]
+{{der-bottom}}
+
+[[fr:埵]]
+[[hu:埵]]
+[[pl:埵]]
+[[th:埵]]
+[[zh:埵]]

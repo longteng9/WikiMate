@@ -1,0 +1,80 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiǎokǒu
+|c=siu2 hau2
+|mn=sió-kháu
+|cat=mn:adj,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|Min Nan}} [[eat]]ing [[little]], [[eat like a bird|eating like a bird]]
+#: {{zh-x|伊 真 小口，食 半 碗 飯 就 飽 矣。|He eats very little; he was already full after eating half a bowl of rice.|MN|tr=I chin sió-kháu, chia̍h pòaⁿ óaⁿ pn̄g tō pá--ah.}}
+
+====Synonyms====
+* {{zh-l|小食}}
+* {{zh-l|細食}}
+
+====Antonyms====
+* {{zh-l|大食}}
+
+===Noun===
+{{zh-noun}}
+
+# [[small]] [[mouth]]
+#: {{zh-x|櫻桃.小口|a '''small''' cherry-like '''mouth'''}}
+# small [[opening]], small [[entrance]], [[aperture]]
+# [[container]] with a small opening
+# [[child]], [[minor]]
+
+===References===
+* {{thcwd|237}}
+* [http://www.zdic.net/c/f/146/319989.htm zdic.net (漢典)]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|こ|くち|k2=ぐち|yomi=k|r=y}}
+
+Compound of {{compound|lang=ja|sort=こぐち|小|tr1=ko|t1=small, little|口|tr2=kuchi|pos2=mouth}}.
+
+====Noun====
+{{ja-noun|こぐち}}
+
+# small [[lot]], small [[sum]], small [[amount]]
+# [[end]], [[edge]], cut end, [[beginning]]
+# [[clue]]
+# [[section]]
+
+=====Derived terms=====
+* {{ja-r|小口扱い|こぐちあつかい}}: small lot consignment
+* {{ja-r|小口現金|こぐち げんきん}}: petty cash
+
+=====Related terms=====
+* {{ja-r|小口径|しょうこうけい}}: small caliber
+
+====Proper noun====
+{{ja-pos|こぐち|proper}}
+
+# {{surname|lang=ja|sort=こぐち}}
+
+===Etymology 2===
+{{ja-kanjitab|お|くち|k2=ぐち|yomi=k|r=y}}
+
+Compound of {{compound|lang=ja|sort=こぐち|小|tr1=o|t1=small, little|口|tr2=kuchi|pos2=mouth}}.
+
+====Proper noun====
+{{ja-pos|おぐち|proper}}
+
+# {{surname|lang=ja}}
+
+[[zh-min-nan:小口]]
+[[zh:小口]]
+
+[[Category:Japanese surnames|こぐち]]

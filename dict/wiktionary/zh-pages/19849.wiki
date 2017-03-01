@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=04|sn=8|four=27809|canj=BF}}
+
+# [[roast]], [[broil]]
+# [[toast]]
+# [[cauterize]]
+
+====References====
+* {{Han ref|kx=0667.240|dkj=18922|dj=1077.030|hdz=32192.160|uh=7099|ud=28825|bh=AAA5|bd=43685}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhì
+|c=zek3,zik3
+|h=pfs=lat
+|mn=qz:chiak/xm,zz:chek/qz,tw,xm,zz:chià/twv:chia̍h/twv:chòaⁿ
+|mn_note=chiak/chek - literary; chià - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+{{attention|zh|please check}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|冷炙|嘬炙|日炙風吹|日炙風篩|欲炙之色|殘杯冷炙|殘槃冷炙|殘羹冷炙|炎陽炙人|炙冰使燥|炙手可熱|炙熱|炙背|炙膚皸足|炙雞漬酒|炙鳳烹龍|焦炙|膾炙人口|行炙|親炙|餘杯冷炙|鴞炙}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火04}}
+
+# {{defn|lang=ja|sort=火04}}
+
+====Readings====
+* {{ja-readings|on=[[しゃ]] (sha), [[せき]] (seki)|kun=[[あぶる]] ([[炙る]], [[aburu]])}}
+
+====Derived terms====
+* {{ja-r|炙る|あぶる}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[자]], [[적]]|eumhun=|rv=ja, jeok|mr=cha, chŏk|y=ca, cek}}
+
+# {{defn|lang=ko|sort=火04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chá]], [[chả]], [[chích]]|rs=火04}}
+
+# {{defn|lang=vi|sort=火04}}
+
+[[fr:炙]]
+[[ko:炙]]
+[[hu:炙]]
+[[mg:炙]]
+[[ja:炙]]
+[[pl:炙]]
+[[th:炙]]
+[[zh:炙]]

@@ -1,0 +1,57 @@
+{{also|青铜器时代}}
+==Chinese==
+{{zh-forms|s=青铜器时代|type=32}}
+{{wikipedia|lang=zh}}
+{{wikipedia|lang=yue}}
+
+===Pronunciation===
+{{zh-pron
+|m=Qīngtóngqì Shídài
+|c=cing1 tung4 hei3 si4 doi6
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{lb|zh|archaeology}} the [[Bronze Age]]
+
+====Synonyms====
+* {{zh-l|青銅時代}}
+
+====Coordinate terms====
+* {{zh-l|石器時代}}
+* {{zh-l|鐵器時代}}
+{{zh-cat|Time}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|どう|き|じ|だい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|せいどうき じだい|y=o|acc=6}}
+
+===Proper noun===
+{{ja-pos|proper|せいどうき じだい}}
+
+# {{lb|ja|sort=せいどうきじだい|archaeology}} the [[Bronze Age]]
+
+====Coordinate terms====
+* {{ja-l|石器時代}}
+* {{ja-l|鉄器時代}}
+
+[[Category:ja:Time|せいどうきじだい]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Proper noun===
+{{ko-proper noun|hangeul=청동기 시대|mr=Ch'ŏngdonggi Sidae|y=Cengtongki Sitay|rv=Cheongdonggi Sidae}}
+
+# {{hanja form of|청동기 시대|[[Bronze Age]]}}
+[[lo:青銅器時代]]
+[[hu:青銅器時代]]
+[[zh:青銅器時代]]

@@ -1,0 +1,70 @@
+==Chinese==
+{{zh-forms|lit=sweet urine disease}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=tángniàobìng
+|c=tong4 niu6 beng6
+|h=pfs=thòng-ngiau-phiang
+|md=tòng-niêu-bâng
+|mn=qz,xm,tp:thn̂g-liō-pīⁿ/zz,kh:thn̂g-jiō-pēⁿ
+|w=3daan 'nyiau bin
+|ca=zh-yue-糖尿病.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|endocrinology}} [[diabetes mellitus]]; [[diabetes]]
+
+====Synonyms====
+* {{zh-l|渴病}}
+* {{zh-l|消渴症}}
+* {{zh-l|甜尿病}}
+
+{{zh-cat|Diseases}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|とう|にょう|びょう|yomi=o}}
+
+===Etymology===
+{{suffix|t1=glycosuria|t2=disease|糖尿|病|lang=ja|sort=とうにょうびょう}}
+
+===Pronunciation===
+{{ja-pron|とうにょうびょう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうにょうびょう|hhira=たうねうびやう}}
+
+# {{lb|ja|pathology|sort=とうにょうびょう}} [[diabetes]]
+
+===References===
+<references/>
+
+[[Category:ja:Diseases|とうにょうびょう]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=당뇨병}}
+
+# {{hanja form of|당뇨병|[[diabetes]]}}
+
+[[zh-min-nan:糖尿病]]
+[[fr:糖尿病]]
+[[ko:糖尿病]]
+[[hu:糖尿病]]
+[[mg:糖尿病]]
+[[km:糖尿病]]
+[[pl:糖尿病]]
+[[sv:糖尿病]]
+[[uk:糖尿病]]
+[[zh:糖尿病]]

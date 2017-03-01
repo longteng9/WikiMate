@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=06|sn=8|four=27227|canj=ONIN|ids=⿰亻多}}
+
+# [[luxurious]], [[extravagant]]
+
+====References====
+* {{Han ref|kx=0101.190|dkj=00583|dj=0215.010|hdz=10151.080|uh=4F88|ud=20360|bh=A8D7|bd=43223}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chǐ
+|c=ci2
+|mn=chhí
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不侈|侈侈|侈口|侈弇|侈糜|侈言|侈談|侈論|侈離|侈靡|奢侈|奢侈品|汰侈|浮侈|窮奢極侈|豪侈|踰侈|饒侈}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人06}}
+
+# {{defn|lang=ja|sort=人06}}
+
+====Readings====
+* {{ja-readings|goon=[[し]] (shi)|kanon=[[し]] (shi)|on=[[い]] (i)|kun=[[おごる]] (ogoru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=치|rv=chi|mr=ch'i}}
+
+# {{defn|lang=ko|sort=人06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xỉ]], [[ẩy]], [[xảy]], [[xí]], [[đứa]], [[xẩy]], [[xi]]|rs=人06}}
+
+# {{defn|lang=vi|sort=人06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f88 Nom Foundation]
+
+[[fr:侈]]
+[[li:侈]]
+[[hu:侈]]
+[[mg:侈]]
+[[ja:侈]]
+[[no:侈]]
+[[pl:侈]]
+[[th:侈]]
+[[vi:侈]]
+[[zh:侈]]

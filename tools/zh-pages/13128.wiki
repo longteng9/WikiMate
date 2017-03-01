@@ -1,0 +1,115 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=07|sn=10|four=43134|canj=GIOK|ids=⿰土矣}}
+
+====References====
+* {{Han ref|kx=0229.190|dkj=05107|dj=0465.090|hdz=10447.150|uh=57C3|ud=22467|bh=AE4A|bd=44618}}
+
+====See also====
+* ''Chinese Numeral'' '''埃'''
+** '''Next:''' [[渺]]
+** '''Last:''' [[塵]]
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=āi
+|c=oi1,aai1
+|h=pfs=âi
+|mn=ai/ia
+|w=2e,2i
+|w_note=2e - usual pronunciation; 2i - in {{zh-l|*埃及}}
+|mc=y
+|oc=y
+|ma=
+|cat=n,num,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[fine]] [[dust]], [[dirt]]
+#: {{zh-x|塵埃|dust}}
+# [[angstrom]]
+# one [[billionth]], the number 10<sup>-10</sup>
+# (''a phonetic component'')
+#: {{zh-x|^埃及|Egypt}}
+#: {{zh-x|^埃塞俄比亞|Abyssinia}}
+#: {{zh-x|蘇維埃|soviet}}
+# {{zh-abbrev|埃及|Egypt}}
+
+===Compounds===
+{{zh-der|埃及|埃及曆|埃塵|埃滅|塵埃|塵埃傳染|塵埃落定|星際塵埃|涓埃|蘇維埃|雰埃}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=}}
+
+====Readings====
+* {{ja-readings|goon=[[あい]] (ai)|kanon=[[あい]] (ai)|kun=[[ちり]] (chiri), [[ほこり]] (hokori)}}
+
+===Noun===
+{{ja-noun|あい}}
+
+# one [[billionth]]
+
+{{ja-noun|ほこり}}
+
+# [[dust]]
+
+[[Category:Japanese numeral symbols|あい]]
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 埃]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=애|mr=ae}}
+
+# {{defn|lang=ko|sort=土07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ai]]}}
+
+# {{defn|lang=vi|sort=土07}}
+
+[[Category:Kennybot testing category]]
+
+[[fr:埃]]
+[[ko:埃]]
+[[lo:埃]]
+[[li:埃]]
+[[hu:埃]]
+[[mg:埃]]
+[[nl:埃]]
+[[ja:埃]]
+[[no:埃]]
+[[pl:埃]]
+[[pt:埃]]
+[[ru:埃]]
+[[sv:埃]]
+[[th:埃]]
+[[chr:埃]]
+[[vi:埃]]
+[[zh:埃]]

@@ -1,0 +1,52 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=76|rad=欠|as=10|sn=14|four=07282|canj=YBNO|ids=⿰高欠}}
+
+# [[vapor]], [[steam]]
+# [[sigh]]
+
+====References====
+* {{Han ref|kx=0571.010|dkj=16161|dj=0958.320|hdz=32148.090|uh=6B4A|ud=27466|bh=E263|bd=57955}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiāo
+|c=hiu1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=欠10}}
+
+# {{defn|lang=ja|sort=欠10}}
+
+====Readings====
+* {{ja-readings|on=[[きょう]] (kyō), [[こく]] (koku), [[かく]] (kaku)|kun=[[のぼる]] (noboru)}}
+
+[[fr:歊]]
+[[hu:歊]]
+[[pl:歊]]
+[[th:歊]]
+[[zh:歊]]

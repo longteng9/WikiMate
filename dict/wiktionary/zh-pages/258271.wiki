@@ -1,0 +1,56 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=不shì
+|c=bat1 si6
+|mn=put-sī
+|cat=n,v,adv
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[fault]]; [[mistake]]; [[wrongdoing]]
+#: {{zh-x|都 是 我 的 不是。|It's all my '''fault'''.}}
+#: {{zh-x|快 去 賠 個 不是。|Quickly go and apologise.}}
+
+====Synonyms====
+* {{sense|fault; mistake; wrongdoing}} {{zh-l|過錯}}, {{zh-l|過失}}
+
+====Derived terms====
+{{zh-der|賠不是}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[not]] be
+#: {{zh-x|這 不是 我 的 書。|This '''is not''' my book.}}
+#: {{zh-x|這 不是 我 的 書 嗎？|This '''is not''' my book? (e.g. when you are told that the book is not yours.)}}
+#: {{zh-x|不是 我 不 明白，我 只是 不 想 說。|'''It's not that''' I don't know; it's just that I don't want to say it.}}
+# {{n-g|Used in interrogative sentences, to express a certain emotion. Equivalent to “... not ... ?”}}
+#: {{zh-x|我 不是 說 了 別 叫 我 弟弟{di} 嗎？|'''Didn't''' I already tell you not to call me "little bro"?}}
+#: {{zh-x|看，那 不是 ^姚 ^明 嗎？|Look! '''Isn't''' that Yao Ming?}}
+#: {{zh-x|這 不是 我 的 書 嗎？|'''Isn't''' this my book? (e.g. when you find other person holding your book)}}
+
+====Usage notes====
+In sense 2, {{lang|zh|不是}} is usually weakened, pronounced with neutral tone, while in sense 1, {{lang|zh|不是}} is stressed.
+
+====See also====
+* {{zh-l|是不是|tr=shìbushì}}
+
+====Synonyms====
+{{zh-dial}}
+
+{{zh-cat|Intermediate}}
+
+[[ko:不是]]
+[[hu:不是]]
+[[mg:不是]]
+[[fj:不是]]
+[[nl:不是]]
+[[ja:不是]]
+[[sk:不是]]
+[[chr:不是]]
+[[zh:不是]]

@@ -1,0 +1,89 @@
+{{also|礼拜}}
+==Chinese==
+{{zh-forms|s=礼拜}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǐbài
+|c=lai5 baai3
+|h=pfs=lî-pai
+|md=lā̤-bái
+|mn=lé-pài
+|w=3li pa
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|religion}} [[service]], [[prayer]], [[salat]]
+# {{lb|zh|colloquial|regional}} [[week]] {{zh-mw|m,c:個}}
+# {{lb|zh|colloquial|regional}} [[Sunday]], [[day off]]
+
+====Synonyms====
+* {{sense|week}} {{zh-l|星期}}, {{zh-l|週}}
+* {{sense|Sunday}} {{zh-l|禮拜日}}, {{zh-l|禮拜天}}, {{zh-l|星期日}}, {{zh-l|星期天}}
+
+====Derived terms====
+{{zh-der|禮拜一|禮拜二|禮拜三|禮拜四|禮拜五|禮拜六|禮拜日|禮拜天}}
+
+===Descendants===
+{{CJKV|禮拜|s=礼拝|れいはい|j2=らいはい|예배|lễ bái}}
+
+{{zh-cat|Time}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|れい|はい|yomi=o}}
+
+===Noun===
+{{ja-noun|らいはい|れいはい|shin=礼拝}}
+
+# divine [[worship]], religious [[service]]
+
+===Verb===
+{{ja-verb-suru|らいはい|れいはい|shin=礼拝}}
+
+# to [[worship]]
+
+====Conjugation====
+{{ja-suru|らいはい}}
+{{ja-suru|れいはい}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=예배}}
+
+# {{hanja form of|예배|divine [[worship]], religious [[service]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Verb===
+{{vi-hantu|pos=verb}}
+
+# {{han tu form of|lễ bái|to [[worship]]}}
+
+[[zh-min-nan:禮拜]]
+[[fr:禮拜]]
+[[ko:禮拜]]
+[[hr:禮拜]]
+[[sw:禮拜]]
+[[hu:禮拜]]
+[[mg:禮拜]]
+[[fj:禮拜]]
+[[ja:禮拜]]
+[[pt:禮拜]]
+[[tr:禮拜]]

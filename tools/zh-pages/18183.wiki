@@ -1,0 +1,96 @@
+{{character info/new}}
+{{also|栝|桧}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=13|sn=17|four=48966|canj=DOMA|ids=⿰木會}}
+
+# [[Chinese cypress]], [[Chinese juniper]]
+
+====References====
+* {{Han ref|kx=0557.110|dkj=15676|dj=0946.180|hdz=21303.040|uh=6A9C|ud=27292|bh=C0CC|bd=49356}}
+
+----
+
+==Chinese==
+{{zh-forms|s=桧}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=guì,kuài,huì
+|c=kui2
+|mn=kòe
+|mc=y
+|oc=y
+|ma=
+|cat=pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{rfe|lang=ja}}
+
+===Pronunciation===
+{{rfp|lang=ja|Also, how was this pronounced in the eighteenth century? Anything like {{IPAchar|[ɸinoki]}}? Cf. the English {{m|en|finoki}}.}}
+
+===Kanji===
+{{ja-kanji|grade=|rs=木13|style=ky|shin=桧}}
+
+# {{defn|lang=ja|sort=木13}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai)|kun=[[ひのき]] (hinoki)}}
+
+====Descendants====
+* English: {{l|en|hinoki}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[회]], [[괄]]|eumhun=|rv=hoe, gwal|mr=hoe, kwal|y=hoy, kwal}}
+
+# ([[노송]][[나무]]) [[Japanese cypress]] ([[w:Chamaecyparis obtusa|Chamaecyparis obtusa]])
+
+====Compounds====
+* [[檜木]] ([[회목]], ''hoemog'') [[Japanese cypress]]
+
+===See also===
+{{top2}}
+* {{l|ko|柏}} ([[백]], ''baeg'') [[扁柏]] + [[側柏]]
+* {{l|ko|扁柏}} ([[편백]], ''pyeonbaeg'') [[Japanese cypress]]
+* {{l|ko|側柏}} ([[측백]], ''cheugbaeg'') [[oriental thuja]]
+{{mid2}}
+* {{l|ko|栝}} ([[괄]], ''gwal'') [[juniper]]
+* {{l|ko|香木}} ([[향목]], ''hyangmog'') [[juniper]]
+* {{l|ko|老松}} ([[노송]], ''nosong'') [[Japanese cypress]]
+{{bottom}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木13| hanviet = cối}}
+
+# {{defn|lang=vi|sort=木13}}
+
+[[zh-min-nan:檜]]
+[[fr:檜]]
+[[ja:檜]]
+[[uz:檜]]
+[[pl:檜]]
+[[th:檜]]
+[[zh:檜]]

@@ -1,0 +1,54 @@
+{{character info/new}}
+{{also|妹}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=05|sn=8|four=45490|canj=VDJ|ids=⿰女末}}
+
+# [[wife]] of the [[last]] [[ruler]] of the [[w:Xia Dynasty|Xia]] [[dynasty]]
+
+====References====
+* {{Han ref|kx=0257.290|dkj=06139|dj=0522.240|hdz=21034.070|uh=59BA|ud=22970|bh=CC45|bd=52293}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|末|c1=s|c2=p|t1=female, woman|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=mò
+|c=mut6
+|mc=y
+|oc=y
+|ma=
+|cat=pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女05}}
+
+# {{defn|lang=ja|sort=女05}}
+
+====Readings====
+* {{ja-readings|on=[[ばつ]] (batsu), [[まち]] (machi), [[まつ]] (matsu)|kun=[[あざな]] (azana)}}
+
+[[fr:妺]]
+[[li:妺]]
+[[hu:妺]]
+[[pl:妺]]
+[[th:妺]]
+[[zh:妺]]

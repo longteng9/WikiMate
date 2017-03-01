@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=09|sn=15|four=88234|canj=HONK}}
+
+# ancient music instrument
+# [[harp]]
+
+====References====
+* {{Han ref|kx=0893.020|dkj=26272|dj=1320.080|hdz=52993.030|uh=7BCC|ud=31692|bh=BD6A|bd=48490}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hóu
+|c=hau4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|箜篌}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹09}}
+
+# {{defn|lang=ja|sort=竹09}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[ご]] (go)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=후|eumhun=|rv=hu|mr=hu|y=hwu}}
+
+# {{defn|lang=ko|sort=竹09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''篌''' ([[hầu]])
+
+[[fr:篌]]
+[[ko:篌]]
+[[hu:篌]]
+[[mg:篌]]
+[[ja:篌]]
+[[pl:篌]]
+[[th:篌]]
+[[zh:篌]]

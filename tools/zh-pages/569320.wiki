@@ -1,0 +1,30 @@
+==Japanese==
+{{ja-kanjitab|はつ|k1=はっ|しゃ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|はっしゃ|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はっしゃ}}
+
+# [[launch]], [[firing]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|はっしゃ}}
+
+# [[launch]], [[fire]]
+#* '''1948''', 海野十三, 怪星ガン:
+#*: {{ja-usex|「ギンネコ号から、形の小さいロケットが'''発射'''されました。|「^ギンネコ-ごう から、 かたち の ちいさい ロケット が '''はっしゃ''' されました。|A small-scale rocket was fired from the Ginneko.}}
+
+====Conjugation====
+{{ja-suru|はっしゃ}}
+
+===References===
+<references/>
+
+[[ko:発射]]
+[[hu:発射]]
+[[mg:発射]]
+[[ja:発射]]
+[[chr:発射]]
+[[zh:発射]]

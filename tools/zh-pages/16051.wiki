@@ -1,0 +1,86 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=04|sn=7|four=50017|canj=QYHN|ids=⿰扌亢}}
+
+# [[resist]], [[oppose]], [[defy]], [[reject]]
+
+====References====
+* {{Han ref|kx=0422.020|dkj=11889|dj=0769.020|hdz=31843.040|uh=6297|ud=25239|bh=A7DC|bd=42972}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|亢|alt1=扌|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=kàng
+|c=kong3
+|h=pfs=khong
+|md=
+|mn=khòng
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[resist]], to [[oppose]]
+#: {{zh-usex|抗日 戰爭|"War of '''Resistance Against''' Japan" (the {{w|Second Sino-Japanese War}})}}
+
+====Compounds====
+{{zh-der|抗體|反抗|抗日|抗爭|抗議}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=手04}}
+
+# fight against
+# meet head on
+# contravene
+# to disagree with
+
+====Readings====
+* {{ja-readings|goon=[[こう]] (kō), [[ごう]] (gō) {{non-joyo-reading}}|kanon=[[こう]] (kō)|kun=[[あらがう]] (aragau), [[ふせぐ]] (fusegu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=항|eumhun=|rv=hang|mr=hang|y=hang}}
+
+# {{defn|lang=ko|sort=手04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kháng]]|rs=手04}}
+
+# {{defn|lang=vi|sort=手04}}
+
+[[zh-min-nan:抗]]
+[[fr:抗]]
+[[ko:抗]]
+[[hu:抗]]
+[[mg:抗]]
+[[ja:抗]]
+[[no:抗]]
+[[pl:抗]]
+[[ru:抗]]
+[[th:抗]]
+[[zh:抗]]

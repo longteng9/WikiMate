@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=08|sn=12|four=22502|canj=HNQ|ids=⿱制手}}
+
+====References====
+* {{Han ref|kx=0439.010|dkj=12277|dj=0789.010|hdz=31889.040|uh=63A3|ud=25507|bh=B477|bd=46199}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chè
+|c=zai3,cit3
+|mn=chhoah/chhiat
+|mc=y
+|oc=y
+|cat=v,c:n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[drag]], [[pull]]
+# [[hinder]] by [[pulling]] [[back]]
+# {{lb|zh|Cantonese}} [[button]], push button
+
+====Compounds====
+{{zh-der|回頭掣腦|掣光|掣刀|掣後腿|掣曳|掣籤|掣肘|掣脫|掣襟肘見|掣襟露肘|掣電|掣驗|星飛電掣|牽掣|輪掣|轟雷掣電|雷轟電掣|電掣|電掣星馳|電掣風馳|風掣雷行|風馳電掣|飛雲掣電}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手08}}
+
+# {{defn|lang=ja|sort=手08}}
+
+====Readings====
+* {{ja-readings|on=[[せい]] (sei), [[せつ]] (setsu)|kun=[[ひく]] (hiku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[체]], [[철]]}}
+
+# {{defn|lang=ko|sort=手08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xiết]], [[xế]], [[xía]], [[siết]]|rs=手08}}
+
+# {{defn|lang=vi|sort=手08}}
+
+[[zh-min-nan:掣]]
+[[fr:掣]]
+[[hu:掣]]
+[[mg:掣]]
+[[ms:掣]]
+[[ja:掣]]
+[[pl:掣]]
+[[th:掣]]
+[[zh:掣]]

@@ -1,0 +1,120 @@
+{{character info/new}}
+{{also|缺}}
+==Translingual==
+{{stroke order|strokes=4}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=76|rad=欠|as=00|sn=4|four=27802|canj=NO}}
+
+# {{mul-kangxi radical-def}}
+
+====Derived characters====
+* [[Index:Chinese radical/欠]]
+* [[吹]] [[飲]] ([[飮]], [[饮]])
+
+====References====
+* {{Han ref|kx=0565.010|dkj=15991|dj=0953.350|hdz=32133.010|uh=6B20|ud=27424|bh=A4ED|bd=42221}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiàn
+|c=him3
+|h=pfs=khiam
+|mn=khiàm
+|w=2qi
+|mc=y
+|oc=y
+|ma=y
+|cat=v,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[yawn]]
+# to [[lack]]; to be [[deficient]]
+# to [[owe]]
+
+===Compounds===
+{{zh-der|欠安|欠火|欠佳|欠據|欠款|欠情|欠少|欠伸|欠身|欠條|哈欠|下欠|呵欠|尾欠|只欠東風|呵欠連天|官欠|外欠|七拖八欠|兩不相欠|撇欠|欠資|欠收|打呵欠|懸欠|欠債還錢|欠租|短欠|積欠|欠繳|欠妥|拖欠|欠薪|欠稅|打哈欠|欠揍|欠債|欠契|欠資郵票|欠當|欠事|欠缺|欠好|掛欠|索欠|虧欠|風欠|落虧欠|賒欠|缺欠}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=欠00|style=s|kyu=缺}}
+
+# lack, shortage
+# to be absent
+# vacancy
+
+====Readings====
+{{ja-readings|goon=[[こん]] (kon)|kanon=[[けん]] (ken)|kanyoon=[[けち]] (kechi), [[けつ]] (ketsu)|kun=[[かける]] (kakeru), [[あくび]] (akubi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|欠伸|あくび}}
+* {{ja-r|欠員|けついん}}
+* {{ja-r|欠格|けっかく}}
+* {{ja-r|欠陥|けっかん}}
+* {{ja-r|欠勤|けっきん}}
+* {{ja-r|欠如|けつじょ}}
+{{der-mid}}
+* {{ja-r|欠席|けっせき}}
+* {{ja-r|欠席裁判|けっせき さいばん}}
+* {{ja-r|欠損|けっそん}}
+* {{ja-r|欠番|けつばん}}
+* {{ja-r|欠乏|けつぼう}}, {{ja-r|欠乏|けつぼく}}
+* {{ja-r|欠缺|けんけつ|[[lack]]}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[흠]], [[감]]|eumhun=|rv=heum, gam|mr=hŭm, kam|y=hum, kam}}, ''another original reading:'' [[검]] (geom)
+
+# [[하품]] (''hapum'') [[yawn]]
+# [[흉]] (''hyung'') [[defect]], [[deficiency]]
+# [[빚]] (''bij, bit'') [[debt]], [[delinquency]]
+
+====Compounds====
+* {{ko-l|흠결|欠缺|[[deficiency]], [[lack]]}}
+* {{ko-l|흠신|欠伸|[[yawn]] and [[stretch]]}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khiếm]]|rs=欠00}}
+
+# {{defn|lang=vi|sort=欠00}}
+
+[[Category:CJKV radicals| ]]
+
+[[zh-min-nan:欠]]
+[[fr:欠]]
+[[ko:欠]]
+[[li:欠]]
+[[hu:欠]]
+[[mg:欠]]
+[[ms:欠]]
+[[ja:欠]]
+[[no:欠]]
+[[pl:欠]]
+[[ru:欠]]
+[[th:欠]]
+[[chr:欠]]
+[[zh:欠]]

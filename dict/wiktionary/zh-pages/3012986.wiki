@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|はい|とう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|はいとう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はいとう}}
+
+# [[dividend]]
+#: {{ja-usex|これは平和の'''配当'''だ。|これ は へいわ の '''はいとう''' だ。|This is the peace dividend.}}
+
+===Verb===
+{{ja-verb-suru|はいとう}}
+
+# distribute proceeds
+
+====Conjugation====
+{{ja-suru|はいとう}}
+
+===References===
+<references/>
+
+[[lo:配当]]
+[[mg:配当]]
+[[ja:配当]]
+[[chr:配当]]
+[[zh:配当]]

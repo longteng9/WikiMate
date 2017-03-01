@@ -1,0 +1,97 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=04|sn=6|four=27220|canj=OHVL|ids=⿰亻卬}}
+
+# [[raise]] the [[head]] to [[look]]
+# [[look up to]], [[admire]]
+# [[rely on]]
+
+====References====
+* {{Han ref|kx=0094.080|dkj=00400|dj=0199.140|hdz=10125.030|uh=4EF0|ud=20208|bh=A5F5|bd=42485}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǎng
+|c=joeng5,ngong5
+|h=pfs=
+|md=
+|mn=qz,tw,xm:gióng/zz:giáng
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=人04}}
+
+# {{defn|lang=ja|sort=人04}}
+
+====Readings====
+* {{ja-readings|goon=[[ごう]] (gō)|kanon=[[ぎょう]] (gyō)|kanyoon=[[こう]] (kō)|kun=[[あおぐ]] ([[仰ぐ]], aogu), [[おおせ]] ([[仰せ]], oose), [[あおる]] (aoru)}}
+
+====Compounds====
+* [[仰臥]]
+* [[仰角]]
+* [[仰山]]
+* [[仰視]]
+* [[仰天]]
+* [[仰望]]
+* [[仰様]]
+
+====Related terms====
+* {{l|ja|仰々しい}}, {{l|ja|仰仰しい}}
+* {{l|ja|仰けぞる}}
+* {{l|ja|仰っしゃる}}
+* {{l|ja|仰のく}}
+* {{l|ja|仰のける}}
+* {{l|ja|仰向く}}
+* {{l|ja|仰反る}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=앙|rv=ang|mr=ang}}
+
+# {{defn|lang=ko|sort=人04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|ngưỡng|rs=人04}}
+
+# {{defn|lang=vi|sort=人04}}
+
+[[fr:仰]]
+[[ko:仰]]
+[[hu:仰]]
+[[mg:仰]]
+[[ja:仰]]
+[[no:仰]]
+[[pl:仰]]
+[[th:仰]]
+[[uk:仰]]
+[[zh:仰]]

@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|撚}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=05|sn=8|four=51060|canj=QYR|ids=⿰扌占}}
+
+# [[pick up]] with [[finger]]s
+# [[draw]] [[lot]]s
+
+====References====
+* {{Han ref|kx=0424.230|dkj=11945|dj=0773.040|hdz=31851.020|uh=62C8|ud=25288|bh=A9E0|bd=43488}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=拈
+|c=nim1,nim4
+|h=pfs=ngiâm
+|mn=liam/ni
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|信手拈來|吃醋拈酸|弄柳拈花|惹草拈花|拈來|拈弄|拈弓搭箭|拈折|拈掇|拈相|拈筆|拈花弄月|拈花微笑|拈花惹草|拈花摘草|拈花摘葉|拈輕怕重|拈酸吃醋|拈針指|拈頭|拈題分韻|拈香|拈鬮|搭搭拈拈|白拈賊|績麻拈苧}}
+
+===References===
+* {{R:twedu|A01536}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手05}}
+
+# {{defn|lang=ja|sort=手05}}
+
+====Readings====
+* {{ja-readings|on=[[でん]] (den), [[せん]] (sen), [[ねん]] (nen)|kun=[[つまむ]] (tsumamu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[념]]>[[염]]|eumhun=|rv=nyeom>yeom|mr=nyŏm>yŏm|y=nyem>yem}}
+
+# {{defn|lang=ko|sort=手05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chêm]], [[niêm]], [[chiêm]], [[chớm]]|rs=手05}}
+
+# {{defn|lang=vi|sort=手05}}
+
+[[zh-min-nan:拈]]
+[[fr:拈]]
+[[hu:拈]]
+[[mg:拈]]
+[[ja:拈]]
+[[pl:拈]]
+[[th:拈]]
+[[zh:拈]]

@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=39|rad=子|as=04|sn=7|four=18440|canj=NDOK|ids=⿰子攵}}
+
+# be as [[diligent]] as [[possible]]
+# [[hard-working]], [[industrious]]
+
+====References====
+* {{Han ref|kx=0278.100|dkj=06951|dj=0546.030|hdz=21012.020|uh=5B5C|ud=23388|bh=A7B6|bd=42934}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zī
+|c=zi1
+|mn=chû/chu
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|喜孜孜|孜孜|孜孜不倦|孜孜不怠|孜孜矻矻|孜煎|念孜孜|意孜孜|拉孜縣|江孜|苦孜孜}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=子04}}
+
+# {{defn|lang=ja|sort=子04}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[つとめる]] (tsutomeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=자|rv=ja|mr=cha}}
+
+# {{defn|lang=ko|sort=子04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=子04|hanviet=tư}}
+
+# {{defn|lang=vi|sort=子04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5b5c Nom Foundation]
+
+[[fr:孜]]
+[[ko:孜]]
+[[li:孜]]
+[[hu:孜]]
+[[mg:孜]]
+[[ja:孜]]
+[[pl:孜]]
+[[th:孜]]
+[[zh:孜]]

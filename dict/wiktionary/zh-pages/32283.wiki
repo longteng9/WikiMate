@@ -1,0 +1,63 @@
+{{character info/new}}
+{{also|鳘}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=11|sn=22|four=|canj=OKNWF}}
+
+# [[codfish]]
+
+====References====
+* {{Han ref|kx=1476.360|dkj=46426|dj=2008.210|hdz=74710.140|uh=9C35|ud=39989}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鳘}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mǐn
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|鰵魚肝油}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚11}}
+
+# {{defn|lang=ja|sort=魚11}}
+
+====Readings====
+* {{ja-readings|on=[[びん]] (bin), [[みん]] (min)|kun=[[いしもち]] (ishimochi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=민|eumhun=|rv=min|mr=min|y=min}}
+
+# {{defn|lang=ko|sort=魚11}}
+
+[[fr:鰵]]
+[[hu:鰵]]
+[[mg:鰵]]
+[[pl:鰵]]
+[[th:鰵]]
+[[zh:鰵]]

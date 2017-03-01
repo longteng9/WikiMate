@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|晕}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=09|sn=13|four=60506|canj=ABJJ,XABJJ|ids=⿱日軍}}
+
+# [[halo]] in the [[sky]]
+# [[fog]]
+# [[dizzy]], [[faint]]
+
+====References====
+* {{Han ref|kx=0497.370|dkj=14037|dj=0865.280|hdz=21527.010|uh=6688|ud=26248|bh=B777|bd=46967}}
+
+----
+
+==Chinese==
+{{zh-forms|s=晕}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yūn,yùn
+|c=wan6,wan4,jan3
+|h=pfs=
+|md=
+|mn=qz,tw,xm,zz:ūn/qz,tw,xm:hūn/qz,tw,xm:n̄g
+|mn_note=ūn - literary; hūn/n̄g - vernacular
+hūn
+|w=
+|mc=y
+|oc=y
+|cat=a,v
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[dizzy]]; [[lightheaded]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[faint]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日09}}
+
+# {{defn|lang=ja|sort=日09}}
+
+====Readings====
+* {{ja-readings|on=[[うん]] (un)|kun=[[かさ]] (kasa), [[ぼかし]] (bokashi), [[めまい]] (memai)}}
+
+===Noun===
+{{ja-noun|かさ}}
+
+# [[halo]] {{gloss|atmospheric phenomenon}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[훈]], [[운]]|eumhun=|rv=hun, un|mr=hun, un|y=hwun, wun}}
+
+# {{defn|lang=ko|sort=日09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[vừng]], [[quầng]], [[vầng]], [[vựng]]|rs=日09}}
+
+# {{defn|lang=vi|sort=日09}}
+
+[[fr:暈]]
+[[ko:暈]]
+[[hu:暈]]
+[[ja:暈]]
+[[pl:暈]]
+[[th:暈]]
+[[zh:暈]]

@@ -1,0 +1,86 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuìchū|ma=y
+|c=zeoi3 co1
+|h=pfs=chui-chhû
+|mn=qz,tw,xm:chòe-chho͘/zz:chòe-che
+|cat=n,a,adv
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[first]]; [[beginning]]
+
+===Adjective===
+{{zh-adj}}
+
+# [[initial]]; [[first]]
+
+===Adverb===
+{{zh-adv}}
+
+# [[initially]]; [[originally]]
+
+===Descendants===
+{{CJKV||さいしょ|최초}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|さい|しょ|yomi=on}}
+
+===Etymology===
+{{prefix|最|初|lang=ja|tr1=sai|t1=most|tr2=sho|t2=new, first|sort=しょ}}
+
+===Adverb===
+{{ja-pos|adverb|さいしょ}}
+# [[firstly]]
+
+===Noun===
+{{ja-noun|さいしょ}}
+
+# [[first]], the [[beginning]], the [[start]]
+#* '''1912''', 夏目漱石, 行人:
+#*: {{ja-usex|自分は'''最初'''その横顔を見た時、これが病人の顔だろうかと疑った。|じぶん は '''さいしょ''' その よこがお を みた とき、 これ が びょうにん の かお だろう か と うたがった。|When I '''first''' saw the face in profile, I suspected that it might be the face of a sick person.}}
+#* '''1914''', 島田清次郎, 若芽:
+#*: {{ja-usex|これが若い文士が父を見ての'''最初'''の言葉であつた。|これ が わかい ぶんし が ちち を みて の '''さいしょ''' の ことば で あつた。|These were the '''first''' words that the man of letters uttered upon seeing his father.}}
+#* '''1914''', 夏目漱石, こころ:
+#*: {{ja-usex|彼の自白は'''最初'''から最後まで同じ調子で貫いていました。|かれ の じはく は '''さいしょ''' から さいご まで おなじ ちょうし で つらぬいて いました。|He stuck to the same tone in his confession from '''beginning''' to end.}}
+
+====Antonyms====
+* {{ja-r|最後|さいご|gloss=[[last]]}}
+
+====Related terms====
+* {{ja-r|初めて|はじめて|gloss=for the first time}}
+
+====Derived terms====
+* {{ja-r|最初に|さいしょに|gloss=[[firstly]]}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=최초}}
+
+# {{hanja form of|최초|the first}}
+
+[[fr:最初]]
+[[ko:最初]]
+[[lt:最初]]
+[[li:最初]]
+[[hu:最初]]
+[[mg:最初]]
+[[fj:最初]]
+[[ja:最初]]
+[[ta:最初]]
+[[chr:最初]]
+[[uk:最初]]
+[[zh:最初]]

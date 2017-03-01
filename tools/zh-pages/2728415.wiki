@@ -1,0 +1,29 @@
+==Japanese==
+{{ja-kanjitab|ちょく|ぜん|yomi=on}}
+
+===Etymology===
+{{etyl|zhx|ja|sort=ちょくぜん}}, composed of {{m|ja|直|tr=choku||direct, straight}} + {{m|ja|前|tr=zen||front, forward; before}}. Date of borrowing unknown.
+
+===Pronunciation===
+{{ja-pron|ちょくぜん|yomi=o}}
+
+===Noun===
+{{ja-noun|ちょくぜん}}
+
+# [[directly]] in [[front]], directly [[ahead]]
+# [[just]] [[before]]
+#: {{ja-usex|彼女は結婚式の'''直前'''に病気にかかった。|かのじょ は けっこんしき の '''ちょくぜん''' に びょうき に かかった。|She became ill '''just before''' the wedding.}}
+
+====Antonyms====
+* {{ja-r|直後|ちょくご}}
+
+===Verb===
+{{ja-verb-suru|ちょくぜん}}
+
+# to [[go]] [[straight]] [[ahead]]
+# to [[proceed]] [[immediately]]
+
+====Conjugation====
+{{ja-suru|ちょくぜん}}
+
+[[zh:直前]]

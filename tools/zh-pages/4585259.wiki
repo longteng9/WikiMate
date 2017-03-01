@@ -1,0 +1,12 @@
+==Japanese==
+{{ja-kanjitab|くし|さば|yomi=k}}
+
+===Etymology===
+{{compound|lang=ja|sort=くしさば|串|tr1=kushi|t1=proxy|鯖|tr2=saba|t2=server}}
+
+===Noun===
+{{ja-noun|くしさば}}
+# {{lb|ja|slang|computing|sort=くしさば}} [[proxy server]]
+
+====Synonyms====
+* {{sense|proxy}} {{ja-r|プロクシ}}, {{ja-r|プロクシ サーバー}}, {{ja-r|串|くし}}

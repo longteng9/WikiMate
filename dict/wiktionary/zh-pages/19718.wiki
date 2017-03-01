@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=16|sn=19|four=38127|canj=EJJM}}
+
+# [[vast]], [[wide]], [[extensive]]
+
+====References====
+* {{Han ref|kx=0659.480|dkj=18652|dj=1069.230|hdz=31782.010|uh=701A|ud=28698|bh=C376|bd=50038}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hàn
+|c=hon6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|浩瀚|瀚海|瀚漠|瀚瀚}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水16}}
+
+# {{defn|lang=ja|sort=水16}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[ひろい]] (hiroi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=한|eumhun=|rv=han|mr=han|y=han}}
+
+# {{defn|lang=ko|sort=水16}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hãn]], [[hạn]]|rs=水16}}
+
+# {{defn|lang=vi|sort=水16}}
+
+[[fr:瀚]]
+[[hu:瀚]]
+[[mg:瀚]]
+[[ja:瀚]]
+[[pl:瀚]]
+[[sr:瀚]]
+[[th:瀚]]
+[[zh:瀚]]

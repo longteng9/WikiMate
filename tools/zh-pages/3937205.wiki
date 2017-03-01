@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=luóxuánxíng
+|c=lo4 syun4 jing4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# a [[helix]] [[shape]], a [[spiral]] shape
+
+----
+
+==Japanese==
+{{ja-kanjitab|ら|せん|けい|yomi=o}}
+
+===Etymology===
+Compound of {{compound|lang=ja|螺旋|tr1=rasen|t1=spiral; screw|形|tr2=kei|t2=shape}}.
+
+===Pronunciation===
+{{ja-pron|らせんけい|y=o}}
+
+===Noun===
+{{ja-noun|らせんけい}}
+
+# a [[helix]] [[shape]], a [[spiral]] shape
+
+====Synonyms====
+* {{ja-r|螺旋状|らせんじょう}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=나선형}}
+
+# {{hanja form of|나선형|a [[helix]] [[shape]], a [[spiral]] shape}}
+
+[[ko:螺旋形]]
+[[zh:螺旋形]]

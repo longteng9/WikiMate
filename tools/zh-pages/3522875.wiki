@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chìlì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|physics}} [[repulsive]] [[force]], [[repulsion]]
+
+====Antonyms====
+* {{zh-l|引力}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せき|りょく|yomi=o}}
+
+===Noun===
+{{ja-noun|せきりょく}}
+
+# [[repulsive]] [[force]], [[repulsion]]
+
+====Antonyms====
+* {{ja-r|引力|いんりょく}}: [[attractive]] [[force]]
+
+====See also====
+* {{pedialite|lang=ja}}
+* {{pedialite|Repulsive force}}
+
+[[fr:斥力]]
+[[ko:斥力]]
+[[zh:斥力]]

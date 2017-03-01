@@ -1,0 +1,39 @@
+==Japanese==
+{{ja-kanjitab|まん|そく|k2=ぞく|r=y|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|まんぞく}}
+
+# [[happy]], [[satisfying]], [[sufficient]], [[competent]]
+#* {{RQ:Obama enzetsu}}
+#*: {{ja-usex|パレスティナの指導者らは、その問いに対する満足な解答を出さねばならない。|パレスティナ の しどうしゃ-ら は、 その とい に たいする まんぞく な かいとう を ださねば ならない。|Palestinian leaders will have to provide a credible answer to that question.}}
+
+====Inflection====
+{{ja-na|まんぞく}}
+
+===Noun===
+{{ja-noun|まんぞく}}
+
+# [[satisfaction]]; being [[satisfied]]
+
+====Antonyms====
+* {{ja-r|不足|ぶそく}}
+* {{ja-r|不満足|ふまんぞく}}
+
+====Compounds====
+* {{ja-r|満足感|まんぞくかん|gloss=feeling of satisfaction}}
+
+===Verb===
+{{ja-verb-suru|まんぞく}}
+
+# be [[satisfied]], be [[content]]
+
+====Conjugation====
+{{ja-suru|まんぞく}}
+
+[[ku:満足]]
+[[lt:満足]]
+[[mg:満足]]
+[[ja:満足]]
+[[chr:満足]]
+[[zh:満足]]

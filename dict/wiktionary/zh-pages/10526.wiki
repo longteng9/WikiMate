@@ -1,0 +1,123 @@
+{{character info/new}}
+{{also|亞|亚}}
+==Translingual==
+{{Han simplified forms|亞|亜|亚}}
+
+===Han character===
+{{Han char|rn=7|rad=二|as=05|sn=7|four=10107|canj=MLLM,XMLLM|ids=⿱𫝁一}}
+
+====References====
+* {{Han ref|kx=0087.111|dkj=00272|dj=0183.190|hdz=10021.010|uh=4E9C|ud=20124}}
+
+----
+
+==Chinese==
+{{zh-see|亞|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=二05|style=s|kyu=亞}}
+
+# {{abbreviation of|lang=ja|亜細亜|tr=Asia}}
+# rank next
+# come after
+# {{lb|ja|chemistry|sort=あ}} [[-ous]] suffix
+# [[sub-]] prefix
+
+====Readings====
+* {{ja-readings|goon=[[え]] (e)|kanon=[[あ]] (a), [[あつ]] (atsu), [[おう]] (ō)|kun=[[つぐ]] (tsugu), [[みにくい]] (minikui)}}
+
+====Compounds====
+{{der-top|abbreviation for Asia}}
+* [[欧亜]] ([[おうあ]], [[ōa]]) [[Eurasia]]
+* [[亜欧]] ([[あおう]], [[aō]]) [[Eurasia]]
+* [[興亜]] ([[こうあ]], [[kōa]]) [[Asian]] [[development]]
+* [[東南亜]] ([[とうなんあ]], [[Tōnan'a]]) [[Southeast Asia]]
+* [[東亜]] ([[とうあ]], [[Tōa]]) [[East Asia]]
+{{der-bottom}}
+
+{{der-top|-ous (Chemistry)}}
+* [[次亜]] ([[じあ]], [[jia]]) [[hypo-]] [[-ous]] (''chemistry'')
+* [[亜砒酸]] ([[あひさん]], [[ahisan]]) [[arsenious]] [[acid]]
+* [[亜燐酸]] ([[ありんさん]], [[arinsan]]) [[phosphorous acid]]
+* [[亜硫酸]] ([[ありゅうさん]], [[aryūsan]]) [[sulfurous acid]]
+* [[亜硝酸]] ([[あしょうさん]], [[ashōsan]]) [[nitrous acid]]
+* [[亜酸化窒素]] ([[あさんかちっそ]], [[asanka chisso]]) [[nitrous oxide]]
+{{der-bottom}}
+
+{{der-top|second rank, sub-}}
+* [[亜鉛]] ([[あえん]], [[aen]]) [[zinc]]
+* [[亜鉛鉄]] ([[あえんてつ]], [[aentetsu]]) [[galvanized]] [[iron]]
+* [[亜音速]] ([[あおんそく]], [[aonsoku]]) [[subsonic]] [[speed]]
+* [[亜温帯]] ([[あおんたい]], [[aontai]]) [[subtemperate]] [[zone]]
+* [[亜寒帯]] ([[あかんたい]], [[akantai]]) [[subarctic]] [[zone]] (climate zone)
+* [[亜熱帯]] ([[あねったい]], [[anettai]]) [[subtropics]]
+* [[亜大陸]] ([[あたいりく]], [[atairiku]]) [[subcontinent]]
+* [[亜脱臼]] ([[あだっきゅう]], [[adakkyū]]) [[subluxation]]
+* [[亜急性]] ([[あきゅうせい]], [[akyūsei]]) [[subacute]]
+* [[亜成層圏]] ([[あせいそうけん]], [[aseisōken]]) [[substratosphere]]
+* [[亜高山帯]] ([[あこうざんたい]], [[akōzantai]]) [[subalpine]] [[zone]]
+{{der-mid}}
+* [[亜群]] ([[あぐん]], [[agun]]) [[subgroup]]
+* [[亜綱]] ([[あこう]], [[akō]]) [[subclass]]
+* [[亜科]] ([[あか]], [[aka]]) [[suborder]], [[subfamily]] (''[[taxonomy]]'')
+* [[亜種]] ([[あしゅ]], [[ashu]]) [[sub-species]]
+* [[亜属]] ([[あぞく]], [[azoku]]) [[subgroup]], [[subgenus]]
+* [[亜族]] ([[あぞく]], [[azoku]]) [[subgroup]]
+* [[亜目]] ([[あもく]], [[amoku]]) [[suborder]]
+* [[亜門]] ([[あもん]], [[amon]]) [[subphylum]]
+* [[亜流]] ([[ありゅう]], [[aryū]])
+* [[亜聖]] ([[あせい]], [[asei]]) sage of the second order
+{{der-bottom}}
+
+{{der-top|(others)}}
+* [[白亜]] ([[はくあ]], [[hakua]]) [[chalk]]
+* [[白亜紀]] ([[はくあき]], [[hakuaki]]) [[Cretaceous]] [[period]] (''paleontology'')
+* [[白亜質]] ([[はくあしつ]], [[hakuashitsu]]) [[chalky]]
+{{der-mid}}
+* [[亜炭]] ([[あたん]], [[atan]]) [[brown coal]], [[lignite]]
+* [[亜麻]] ([[あま]], [[ama]]) [[flax]]
+* [[亜鈴]] ([[あれい]], [[arei]]) [[dumbbell]]
+{{der-bottom}}
+
+====References====
+{{ja-kref
+|jis=3021
+|ku=1601
+|shift=889f
+|euc=B0A1
+|freq=1509
+|nelson=43
+|newnelson=81
+|halpern=3540
+|kld=2204
+|heisig=1809
+|tuttle=0a7.14
+}}
+
+====Usage notes====
+* [[新字体]] ([[shinjitai]]) new form character
+* Also used phonetically for あ (a)
+* 亜 is put '''before''' a word in the sense of the [[-ous]] suffix.
+
+[[Category:ja:Taxonomy]]
+
+[[ar:亜]]
+[[fr:亜]]
+[[ko:亜]]
+[[id:亜]]
+[[li:亜]]
+[[hu:亜]]
+[[mg:亜]]
+[[ms:亜]]
+[[ja:亜]]
+[[pl:亜]]
+[[pt:亜]]
+[[ru:亜]]
+[[th:亜]]
+[[uk:亜]]
+[[vi:亜]]
+[[zh:亜]]

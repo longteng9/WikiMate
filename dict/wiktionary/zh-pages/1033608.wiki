@@ -1,0 +1,56 @@
+{{also|虛偽|虚伪}}
+==Japanese==
+{{ja-kanjitab|きょ|ぎ|yomi=on}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=きょぎ}} {{m|zh|虛偽}}.
+
+===Pronunciation 1===
+{{rfc-pron-n|Pronunciation 1|lang=ja}}
+* [[漢音#Japanese|Kan'on]]
+* {{IPA|lang=ja|[kʲo̞ɡi]}}
+
+====Noun====
+{{ja-noun|きょぎ}}
+
+# a [[falsehood]], a [[lie]]
+#: {{ja-usex|'''虚偽'''を見破る|'''きょぎ''' を みやぶる|to see through a '''lie'''}}
+#: {{ja-usex|'''虚偽'''の申告|'''きょぎ''' の しんこく|a '''false''' report, a '''false''' (tax) return}}
+#: {{ja-usex|'''虚偽'''の損失計上が発覚されましたので、多くの課徴金を支払いました。|'''きょぎ''' の そんしつけいじょう が はっかく されました ので、 おおく の かちょうきん を しはらいました。|The posting of a '''false''' loss was discovered, so they paid a hefty fine.}}
+
+=====Synonyms=====
+* {{ja-r|嘘|うそ}}, {{ja-r|偽り|いつわり}}, {{ja-r|空言|そらごと}}
+
+=====Antonyms=====
+* {{ja-r|真実|しんじつ}}: the [[truth]]
+
+=====Related terms=====
+* {{ja-r|粉飾|ふんしょく}}: [[embellishment]]
+* {{ja-r|見せ掛け|みせかけ}}: a [[sham]], a [[pretense]], something done up to look good
+
+=====Idioms=====
+* {{ja-r|虚偽の友は公然たる敵よりも悪い|きょぎ の とも は こうぜんたる てき より も わるい}}: [[a false friend is worse than an open enemy]]
+
+=====Derived terms=====
+* {{ja-r|虚偽競売|きょぎ けいばい}}: a [[rigged]] [[auction]], where [[conspirator]]s make [[false]] [[bid]]s to drive up prices
+* {{ja-r|虚偽表示|きょぎ ひょうじ}}: [[false pretense]]s; [[misleading]] [[label]]ing; [[misstatement]]
+
+===Pronunciation 2===
+* [[呉音#Japanese|Goon]]
+* {{IPA|lang=ja|[ko̞ɡi]}}
+
+====Noun====
+{{ja-noun|こぎ}}
+
+# a [[falsehood]], a [[lie]]
+
+=====Usage notes=====
+Less-common reading for {{lang|ja|虚偽}} (''kyogi''). Synonyms, antonyms, etc. are all the same.
+
+[[ko:虚偽]]
+[[hu:虚偽]]
+[[mg:虚偽]]
+[[ja:虚偽]]
+[[chr:虚偽]]
+[[uk:虚偽]]
+[[zh:虚偽]]

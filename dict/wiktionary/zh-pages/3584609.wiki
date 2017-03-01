@@ -1,0 +1,44 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=róngjiē
+|c=jung4 zip3
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[weld]]; to weld together
+
+----
+
+==Japanese==
+{{ja-kanjitab|よう|せつ|yomi=o}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=ようせつ}} {{m|zh|熔接}}.
+
+This word is more commonly spelled as {{l|ja|溶接}} in modern Japanese.
+
+===Alternative forms===
+* {{l|ja|溶接}}
+
+===Pronunciation===
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|[jo̞ːse̞t͡su͍]}}
+
+===Noun===
+{{ja-noun|ようせつ}}
+
+# {{ja-def|溶接}} a [[weld]]; [[welding]]
+
+====Derived terms====
+* {{ja-r|熔接棒|ようせつぼう}}: a [[welding]] [[rod]]
+
+===Verb===
+{{ja-verb-suru|ようせつ}}
+
+# {{ja-def|溶接}} to [[weld]], to [[weld]] together

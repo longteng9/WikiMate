@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|どう|いつ|し|yomi=o}}
+
+===Noun===
+{{ja-noun|どういつし}}
+
+# viewing and treating as one
+
+===Verb===
+{{ja-verb-suru|どういつし}}
+
+# [[regard]] something or someone as the same
+#: {{ja-usex|それと'''同一視'''すべきではない。|^それ と '''どういつし'''すべき で はない。|That should not be regarded as the same.}}
+
+====Conjugation====
+{{ja-suru|どういつし}}
+
+[[ko:同一視]]
+[[zh:同一視]]

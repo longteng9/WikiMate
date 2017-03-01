@@ -1,0 +1,42 @@
+{{also|案内}}
+
+==Chinese==
+{{zh-forms|s=案内}}
+
+===Etymology===
+From {{etyl|ja|zh}} {{ja-r|案内|あんない}}
+
+===Pronunciation===
+{{zh-pron
+|h=pfs=on-nui
+|mn=àn-nāi
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Min Nan|Hakka}} to [[host]]; to [[receive]]; to [[entertain]]
+# {{lb|zh|Min Nan}} to [[guide]]
+
+====Synonyms====
+* {{sense|to host}} {{zh-l|招待}}
+* {{sense|to guide}} {{zh-l|引導}}
+
+====Derived terms====
+{{zh-der|案內狀}}
+
+===References===
+* {{thcwd|31008}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=안내}}
+
+# {{hanja form of|안내|[[guidance]]}}
+
+[[ko:案內]]

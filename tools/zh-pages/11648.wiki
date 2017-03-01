@@ -1,0 +1,113 @@
+{{character info/new}}
+{{also|刚}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=08|sn=10|four=72200|canj=BULN|ids=⿰岡刂}}
+
+# [[hard]], [[tough]], [[rigid]], [[strong]]
+
+====References====
+* {{Han ref|kx=0141.110|dkj=02042|dj=0320.170|hdz=10344.100|uh=525B|ud=21083|bh=ADE8|bd=44520}}
+
+----
+
+==Chinese==
+{{zh-forms|s=刚}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|岡|刀|c1=p|c2=s|t2=knife|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gāng
+|c=gong1
+|h=pfs=kông
+|md=
+|mn=kong
+|w=
+|mc=y
+|oc=y
+|cat=a,adv
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[firm]]; [[strong]]; [[hard]]
+#: {{zh-x|他 的 性格 是 剛 與 柔 的 結合。|His character is a combination of strength and kindness.}}
+
+===Adverb===
+{{zh-adv}}
+
+# [[just]]; [[exactly]]
+#: {{zh-x|剛好|just, exactly}}
+# only a short while ago, [[just]]
+#: {{zh-x|剛才|just now, a moment ago}}
+#: {{zh-x|剛剛|just now, only}}
+#: {{zh-x|他 '''剛''' 回來 。|He has '''just''' come back.}}
+# [[barely]], [[just]]
+#: {{zh-x|一 個 月 1000 元 的 工資，'''剛''' 夠 他 吃飯。|He earn 1000 yuan a month, '''barely''' enough for food.}}
+# [[as soon as]]; only at this moment
+#: {{zh-x|他 剛 做完 工作，鈴 就 響 了.|The moment he finished his work, bell rang.}}
+
+====Compounds====
+{{zh-der|剛愎|剛愎自用|剛才|剛度|剛剛|剛果|剛果紅|剛好|剛架|剛健|剛勁|剛烈|剛毛|剛氣|剛強|剛巧|剛韌|剛柔相濟|剛砂|剛石|剛體|剛性|剛一|剛毅|剛硬|剛勇|剛玉|剛正|剛直}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=刀08}}
+
+# sturdy
+
+====Readings====
+* {{ja-readings|goon=[[こう]] (kō)|kanon=[[こう]] (kō)|kanyoon=[[ごう]] (gō)|kun=[[つよい]] (tsuyoi), [[こわい]] (kowai)}}
+
+===Proper noun===
+{{ja-pos|proper|たけし}}
+
+# {{given name|male|lang=ja}}
+
+{{ja-pos|proper|つよし}}
+
+# {{given name|male|lang=ja}}
+
+{{ja-pos|proper|ごう}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|たけし]]
+[[Category:Japanese male given names|こう']]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=강|rv=gang|mr=kang}}
+
+# {{defn|lang=ko|sort=刀08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cương]], [[cang]]|rs=刀08}}
+
+# {{defn|lang=vi|sort=刀08}}
+
+[[fr:剛]]
+[[ko:剛]]
+[[li:剛]]
+[[hu:剛]]
+[[mg:剛]]
+[[ja:剛]]
+[[pl:剛]]
+[[th:剛]]
+[[chr:剛]]
+[[zh:剛]]

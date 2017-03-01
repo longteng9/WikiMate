@@ -1,0 +1,62 @@
+{{also|卫星}}
+==Chinese==
+{{zh-forms|s=卫星}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=wèixīng
+|ma=Zh-wèixing.ogg
+|c=wai6 sing1
+|mn=xm,qz,tw:ōe-chhiⁿ/kh,zz:ōe-chheⁿ/twvt:ūi-chhiⁿ/twvk:ūi-chheⁿ/xm,qz,twv:ōe-seng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|astronomy}} [[satellite]]; [[moon]]
+# man-made satellite
+#: {{zh-x|衛星 圖像|'''satellite''' image}}
+
+{{zh-cat|Astronomy|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|えい|せい|yomi=on}}
+
+===Noun===
+{{ja-noun|えいせい}}
+
+# {{lb|ja|astronomy|sort=えいせい}} [[satellite]] - an object orbiting a [[celestial]] object.
+# artificial satellite
+
+====Compounds====
+* {{ja-r|人工衛星|じんこうえいせい}}: artificial satellite
+* {{ja-r|気象衛星|きしょうえいせい}}: weather satellite
+* {{ja-r|衛星都市|えいせいとし}}: satellite city
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab|衛|星}}
+
+===Noun===
+{{ko-noun|rv=wiseong|hangeul=위성}}
+
+# {{hanja form of|위성|satellite}}
+
+[[ko:衛星]]
+[[lt:衛星]]
+[[hu:衛星]]
+[[mg:衛星]]
+[[ja:衛星]]
+[[fi:衛星]]
+[[chr:衛星]]
+[[zh:衛星]]

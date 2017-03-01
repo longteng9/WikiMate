@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|ふく|すう|けい|yomi=on}}
+
+===Etymology===
+[[複数]] ''[[plural]]'' + [[形]] ''[[form]]''.
+
+===Noun===
+{{ja-noun|ふくすうけい}}
+
+# {{lb|ja|grammar|sort=ふくすうけい}} a [[plural]] [[form]] of a word
+
+====Antonyms====
+* {{ja-r|単数形|たんすうけい}}: [[singular]] form
+
+===References===
+* {{R:Shogakukan}}
+
+[[it:複数形]]
+[[hu:複数形]]
+[[mg:複数形]]
+[[nl:複数形]]
+[[ja:複数形]]
+[[chr:複数形]]

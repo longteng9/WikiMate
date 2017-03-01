@@ -1,0 +1,58 @@
+{{character info/new}}
+{{also|镤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=12|sn=20|four=82135|canj=CTCO}}
+
+# [[protactinium]]
+
+====References====
+* {{Han ref|kx=1321.130|dkj=40850|dj=1821.050|hdz=64255.140|uh=93F7|ud=37879|bh=F4F5|bd=62709}}
+
+----
+
+==Chinese==
+{{zh-forms|s=镤}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|金|菐|c1=s|c2=p|t1=metal|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=pú
+|c=buk6,pok3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金12}}
+
+# {{defn|lang=ja|sort=金12}}
+
+====Readings====
+* {{ja-readings|on=[[ほく]] (hoku), [[ぼく]] (boku)|kun=[[あらがね]] (aragane)|nanori=}}
+
+[[fr:鏷]]
+[[lt:鏷]]
+[[hu:鏷]]
+[[pl:鏷]]
+[[ro:鏷]]
+[[th:鏷]]
+[[vi:鏷]]
+[[zh:鏷]]

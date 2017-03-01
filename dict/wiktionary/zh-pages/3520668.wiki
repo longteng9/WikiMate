@@ -1,0 +1,97 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fánrén
+|c=faan4 jan4
+|h=pfs=fàm-ngìn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[ordinary]] [[person]]; [[common]] [[people]]
+# [[mortal]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|ぼん|にん}}
+From {{etyl|ltc|ja|sort=ぼんじん}} compound {{m|zh|凡人|tr=bjom nyin}}. Compare modern {{etyl|hak|-}} reading ''fàm-ngìn''.
+
+The [[呉音#Japanese|goon]], so likely the initial borrowing.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|ぼんにん|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ぼんにん}}
+
+# an [[ordinary]] [[person]]
+# a [[commoner]], someone who is not [[nobility]]
+
+=====Usage notes=====
+This reading appears to be somewhat less common than ''bonjin'' below.
+
+The {{m|en|ordinary}} sense of this term is somewhat negative, with overtones of {{m|en|mediocre}}, {{m|en|unremarkable}}, {{m|en|lackluster}}.
+
+=====Synonyms=====
+* {{sense|ordinary person}} {{ja-r|凡人|ぼんじん}} {{qualifier|see below}}; {{ja-r|凡夫|ぼんぶ}} {{qualifier|Buddhist overtones; used more in writing}}
+* {{sense|commoner}} {{ja-r|平民|へいみん}}: a commoner; {{ja-r|臣下|しんか}}: a commoner, a [[subject]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|ぼん|じん}}
+Shift in pronunciation from ''bonnin'' above, using the [[漢音#Japanese|kan'on]] reading of ''jin'' for {{m|ja|人}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|ぼんじん|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ぼんじん}}
+
+# an [[ordinary]] [[person]]
+# a [[commoner]], someone who is not [[nobility]]
+
+=====Usage notes=====
+This appears to be the more common reading.
+
+The {{m|en|ordinary}} sense of this term is somewhat negative, with overtones of {{m|en|mediocre}}, {{m|en|unremarkable}}, {{m|en|lackluster}}.
+
+=====Synonyms=====
+* {{sense|ordinary person}} {{ja-r|凡人|ぼんにん}} {{qualifier|see above}}; {{ja-r|凡夫|ぼんぶ}} {{qualifier|Buddhist overtones; used more in writing}}
+* {{sense|commoner}} {{ja-r|平民|へいみん}}: a commoner; {{ja-r|臣下|しんか}}: a commoner, a [[subject]]
+
+=====Antonyms=====
+* {{sense|ordinary person}} {{ja-r|偉人|いじん}}: a [[magnificent]] person
+
+===Etymology 3===
+{{ja-kanjitab|yomi=o|はん|じん}}
+Shift in pronunciation from ''bonnin'' or ''bonjin'' above, using the [[漢音#Japanese|kan'on]] reading for both characters.
+
+This reading appears in use by the {{m|ja|有職家|tr=yūsokuka||people well acquainted with the rites and ceremonies of the imperial court and nobility}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|はんじん}}
+
+====Noun====
+{{ja-noun|はんじん}}
+
+# {{lb|ja|sort=はんじん|rare|possibly|_|obsolete}} an [[ordinary]] [[person]], a [[commoner]]
+
+=====Usage notes=====
+The ''hanjin'' reading is the least common.
+
+===References===
+<references/>
+
+[[ko:凡人]]
+[[hu:凡人]]
+[[ja:凡人]]
+[[pt:凡人]]
+[[fi:凡人]]
+[[chr:凡人]]
+[[zh:凡人]]

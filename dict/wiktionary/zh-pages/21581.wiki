@@ -1,0 +1,91 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=109|rad=目|as=04|sn=9|four=68027|canj=BUCSH}}
+
+# [[look]]
+# [[look after]]
+# [[expect]], [[hope]] [[for]]
+# [[bright]], [[lucid]] (eyes)
+
+====References====
+* {{Han ref|kx=0801.150|dkj=23167|dj=1218.010|hdz=42476.030|uh=76FC|ud=30460|bh=ACDF|bd=44255}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|目|分|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=pàn
+|c=paan3
+|h=pfs=
+|md=
+|mn=phàn
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[hope]] [[for]], to [[long for]]
+# to [[expect]]
+
+===References===
+* {{R:cedict}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=目04}}
+
+# [[look]]
+# [[gaze]]
+# [[expect]]
+# [[hope]] for
+
+====Readings====
+* {{ja-readings|on=[[はん]] (han), [[へん]] (hen), [[ふん]] (fun), [[ぶん]] (bun)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=반|eumhun=|rv=ban|mr=pan|y=pan}}
+
+# [[look]]
+# [[gaze]]
+# [[expect]]
+# [[hope]] [[for]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''盼''' ([[phán]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:盼]]
+[[ko:盼]]
+[[hu:盼]]
+[[mg:盼]]
+[[no:盼]]
+[[pl:盼]]
+[[th:盼]]
+[[zh:盼]]

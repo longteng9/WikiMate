@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=10|sn=13|four=58011|canj=QTQM|ids=⿰扌差}}
+
+====References====
+* {{Han ref|kx=0446.240|dkj=12476|dj=0797.080|hdz=31923.100|uh=6413|ud=25619|bh=B762|bd=46946}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cuō
+|c=caai1,co1
+|h=pfs=chho
+|mn=chho
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[rub]] between hands
+
+===References===
+* {{qualifier|Min Nan}} [http://kaifangcidian.com/han/minnan/%E6%90%93 Kaifang Cidian]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手10}}
+
+# {{defn|lang=ja|sort=手10}}
+
+====Readings====
+* {{ja-readings|on=[[さ]] (sa), [[さい]] (sai)|kun=[[よる]] (yoru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=차|eumhun=|rv=cha|mr=ch'a|y=cha}}
+
+# {{defn|lang=ko|sort=手10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手10|hanviet=[[sai]], [[tha]], [[xaay]], [[xay]], [[xoay]], [[thoa]], [[xây]]}}
+
+# {{defn|lang=vi|sort=手10}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:搓]]
+[[hu:搓]]
+[[mg:搓]]
+[[ja:搓]]
+[[no:搓]]
+[[pl:搓]]
+[[th:搓]]
+[[chr:搓]]
+[[zh:搓]]

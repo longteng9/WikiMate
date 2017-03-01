@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|さん|しゅつ|yomi=on}}
+
+===Noun===
+{{ja-noun|さんしゅつ}}
+
+# [[production]], [[output]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|さんしゅつ}}
+
+# [[yield]], [[produce]]
+#: {{ja-usex|金が産出される国は限られています。|きん が さんしゅつ される くに は かぎられています。|Gold is produced in only certain countries.}}
+
+====Conjugation====
+{{ja-suru|さんしゅつ}}
+
+[[ko:産出]]
+[[hu:産出]]
+[[mg:産出]]
+[[zh:産出]]

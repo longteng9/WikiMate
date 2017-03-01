@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|雳}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=173|rad=雨|as=16|sn=24|four=10211|canj=MBMHM|ids=⿱[[雨|⻗]][[歷]]}}
+
+====References====
+* {{Han ref|kx=1380.150|dkj=42523|dj=1889.260|hdz=64082.090|uh=9742|ud=38722|bh=C645|bd=50757}}
+
+----
+
+==Chinese==
+{{zh-forms|s=雳}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lì
+|c=lik6,lik1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[thunderclap]], [[crash]]ing [[thunder]]
+
+====Compounds====
+{{zh-der|霹靂}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=雨16}}
+
+# {{defn|lang=ja|sort=雨16}}
+
+====Readings====
+* {{ja-readings|on=[[れき]] (reki), [[りゃく]] (ryaku)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[력]]>[[역]]|eumhun=|rv=ryeok>yeok|mr=ryŏk>yŏk|y=lyek>yek}}
+
+# {{defn|lang=ko|sort=雨16}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=雨16|hanviet=rích}}
+
+# {{defn|lang=vi|sort=雨16}}
+
+[[fr:靂]]
+[[hu:靂]]
+[[ja:靂]]
+[[pl:靂]]
+[[th:靂]]
+[[zh:靂]]

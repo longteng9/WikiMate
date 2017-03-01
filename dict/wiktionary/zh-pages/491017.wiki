@@ -1,0 +1,54 @@
+{{also|调音}}
+==Chinese==
+{{zh-forms|s=调音}}
+
+===Pronunciation===
+{{zh-pron
+|m=tiáoyīn
+|c=tiu4 jam1
+|mn=tiâu-im
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|music}} [[tuning]] (a [[musical]] [[instrument]])
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|music}} to [[tune]] (a [[musical]] [[instrument]])
+
+===References===
+* {{cite-book
+|last=Wu
+|first=Jingrong (ed.)
+|authorlink=
+|coauthors=
+|year=1985
+|title=The Pinyin CHINESE-ENGLISH DICTIONARY
+|language=Mandarin/English
+|publisher=The Commercial Press
+|location=Beijing, Hong Kong
+|isbn=0471867969
+}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちょう|おん|yomi=on}}
+
+===Noun===
+{{ja-noun|ちょうおん}}
+
+# {{lb|ja|music|phonetics}} [[articulation]]
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Music|ちょうおん]]
+[[Category:ja:Phonetics|ちょうおん]]
+
+[[ko:調音]]
+[[mg:調音]]

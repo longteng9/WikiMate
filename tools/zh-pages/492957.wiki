@@ -1,0 +1,98 @@
+{{also|石绵}}
+==Chinese==
+{{zh-forms|s=石绵}}
+
+===Pronunciation===
+{{zh-pron
+|m=shímián
+|c=sek6 min4
+|mn=chio̍h-mî
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|chiefly|Taiwan}} {{zh-alt-form|石棉|abestos}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Asbestos}}
+[[File:Asbestos_with_muscovite.jpg|thumb|250px|{{lang|ja|石綿}} (''ishiwata'', ''sekimen''): a mineral sample showing naturally occurring '''[[asbestos]]''' fibers.]]
+</div>
+{{ja-kanjitab|いし|わた|yomi=kun}}
+Compound of {{compound|lang=ja|sort=いしわた|石|tr1=ishi|t1=stone|綿|tr2=wata|t2=cotton, batting}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The first appearance of this term is unknown.  The material was known in Japan at least as early as 1764, when {{w|Rangaku}} [[scholar]] {{w|Hiraga Gennai}} had asbestos cloth created based on Chinese techniques.  However, he called this cloth {{m|ja|火浣布|tr=kakanpu|lit=fire + wash + cloth}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|いしわた|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|いしわた}}
+
+# [[asbestos]]
+
+=====Usage notes=====
+When used as a standalone noun, the ''ishiwata'' reading appears to be more common.
+
+When used in compounds, the ''sekimen'' reading appears to be more common.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|石綿瓦|いしわたがわら}}: an [[asbestos]] [[roof]] [[tile]], asbestos [[roofing]]
+{{der-bottom}}
+
+====Synonyms====
+* {{ja-r|アスベスト}}
+* {{qualifier|dated}} {{ja-r|石絨|せきじゅう}}
+* {{qualifier|dated}} {{ja-r|温石棉|おんじゃくめん}}
+
+===Etymology 2===
+{{ja-kanjitab|せき|めん|yomi=on}}
+May be a borrowing from {{etyl|ltc|ja|sort=せきめん}} compound {{m|zh|石綿|tr=dzyek miɛn|lit=stone + wool, cotton}}.  Compare modern {{etyl|yue|-}} {{m|zh|石棉|tr=sek<sup>6</sup> min<sup>4</sup>}}.
+
+Alternatively, may have been coined in Japan from {{etyl|ltc|-}}-derived elements as a compound of {{compound|lang=ja|sort=せきめん|石|tr1=seki|t1=stone|綿|tr2=men|t2=cotton, batting}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|めん|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|せきめん}}
+
+# [[asbestos]]
+
+=====Usage notes=====
+When used as a standalone noun, the ''ishiwata'' reading appears to be more common.
+
+When used in compounds, the ''sekimen'' reading appears to be more common.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|石綿糸|せきめんし}}: [[asbestos]] [[thread]]
+* {{ja-r|石綿スレート|せきめん スレート}}: [[asbestos]] [[slate]]
+* {{ja-r|石綿フェルト|せきめん フェルト}}: [[asbestos]] [[felt]]
+{{der-bottom}}
+
+====Synonyms====
+* {{ja-r|アスベスト}}
+* {{ja-r|石絨|せきじゅう}}
+* {{ja-r|温石棉|おんじゃくめん}}
+
+===References===
+<references/>
+
+[[Category:Japanese nouns|いしわた]]
+[[Category:ja:Mineralogy|いしわた]]
+
+[[ca:石綿]]
+[[ko:石綿]]
+[[it:石綿]]
+[[hu:石綿]]
+[[mg:石綿]]
+[[zh:石綿]]

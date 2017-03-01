@@ -1,0 +1,38 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|おお|もん|k2=も|じ|yomi=irr|sort=おおもじ}}
+{{wikipedia|lang=ja}}
+{{compound|ja|大|文字|tr1=ō|t1=[[big]]|tr2=moji|t2=[[letter]]|sort=おおもじ}}
+
+====Pronunciation====
+{{ja-pron|acc=h|y=i|おおもじ}}
+
+====Noun====
+{{ja-noun|おおもじ}}
+
+# {{lb|ja|orthography|typography|sort=おおもじ}} a [[capital letter]]; an [[uppercase]] [[letter]]; a [[majuscule]]
+
+====See also====
+* {{ja-r|小%文%字|こ%も%じ}}
+
+===Etymology 2===
+{{ja-kanjitab|だい|もん|じ|yomi=o}}
+{{rfe|ja}}
+
+====Pronunciation====
+{{ja-pron|acc=h|y=go|だいもんじ|acc2=3}}
+
+====Noun====
+{{ja-noun|だいもんじ}}
+
+# {{rfdef|ja|sort=たいもんじ'}}
+[[fr:大文字]]
+[[ko:大文字]]
+[[hu:大文字]]
+[[mg:大文字]]
+[[fj:大文字]]
+[[ja:大文字]]
+[[tl:大文字]]
+[[chr:大文字]]
+[[zh:大文字]]

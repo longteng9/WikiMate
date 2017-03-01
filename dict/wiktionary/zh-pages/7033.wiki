@@ -1,0 +1,64 @@
+{{character info/new}}
+{{also|說|说}}
+==Translingual==
+{{Han simplified forms|說|説|说}}
+
+===Han character===
+{{Han char|rn=149|rad=言|as=07|sn=14|four=|canj=XYRCR,YRCRU|ids=⿰言兑}}
+
+====References====
+* {{Han ref|kx=1165.051|dkj=35556|hdz=63979.030|uh=8AAC|ud=35500|bh=90E0|bd=37088}}
+
+----
+
+==Chinese==
+{{zh-see|說|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=言07}}
+
+# theory
+# explanation
+
+====Readings====
+{{ja-readings
+|goon=[[えち]] (echi) {{non-joyo-reading}}, [[せ]] (se), [[せち]] (sechi) {{non-joyo-reading}}
+|kanon=[[えつ]] (etsu) {{non-joyo-reading}}, [[せい]] (sei) {{non-joyo-reading}}, [[せつ]] (setsu)
+|kanyoon=[[ぜい]] (zei)
+|kun=[[とく]] ([[説く]], toku)
+|nanori=[[あき]] (aki), [[かぬ]] (kanu), [[かね]] (kane), [[こと]] (koto), [[さとし]] (satoshi), [[つぐ]] (tsugu), [[とき]] (toki), [[とく]] (toku), [[のぶ]] (nobu), [[ひさ]] (hisa)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|説明|せつめい}}: an [[explanation]]; to [[explain]]
+* {{ja-r|逆説|ぎゃくせつ}}: a [[paradox]]
+* {{ja-r|仏説|ぶっせつ}}: the [[saying]]s or [[teaching]]s of [[Buddha]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[설]], [[세]], 열|eumhun=|rv=seol, se, yeol|mr=sŏl, se, yŏl|y=sel, sey, yel}}
+
+# {{defn|lang=ko|sort=言07}}
+
+[[fr:説]]
+[[ko:説]]
+[[it:説]]
+[[lo:説]]
+[[lt:説]]
+[[hu:説]]
+[[mg:説]]
+[[ja:説]]
+[[pl:説]]
+[[fi:説]]
+[[th:説]]
+[[chr:説]]
+[[zh:説]]

@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=rìchū
+|c=jat6 ceot1
+|h=pfs=ngit-chhut
+|mn=ji̍t-chhut/li̍t-chhut
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[sunrise]]
+#: {{zh-x|我 從 日出 到 日落 都 會 愛 著[着]{zhe} 你。|I will love you from '''sunrise''' to sunset.}}
+
+{{zh-cat|Time}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|にち|しゅつ|k1=にっ|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|にっしゅつ|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|にっしゅつ}}
+
+# [[sunrise]]
+
+=====Synonyms=====
+* {{ja-r|日の出|ひので}}
+
+=====See also=====
+* {{ja-r|日没|にちぼつ}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|sort=ひじ}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|ひじ}}
+
+====Proper noun====
+{{ja-pos|proper|ひじ}}
+
+# [[w:Hiji, Ōita|Hiji, Ōita]]
+
+===References===
+<references/>
+
+[[zh-min-nan:日出]]
+[[ko:日出]]
+[[ku:日出]]
+[[mg:日出]]
+[[ja:日出]]
+[[ru:日出]]
+[[zh:日出]]

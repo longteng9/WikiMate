@@ -1,0 +1,92 @@
+{{character info/new}}
+{{also|贬}}
+==Translingual==
+
+===Etymology===
+[[貝]] (possessions) + [[乏]] (to frame), to hold or to choke
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=05|sn=12|four=62837|canj=BCHIO}}
+
+# [[abase]], [[lower]]
+# [[vilify]], [[censure]], [[criticize]]
+
+* Antonym : [[褒]]
+
+====References====
+* {{Han ref|kx=1206.200|dkj=36707|dj=1669.080|hdz=63628.030|uh=8CB6|ud=36022|bh=B653|bd=46675}}
+
+----
+
+==Chinese==
+{{zh-forms|s=贬}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=biǎn
+|c=bin2
+|h=pfs=
+|md=
+|mn=pián
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=貝05}}
+
+# {{defn|lang=ja|sort=貝05}}
+
+====Readings====
+* {{ja-readings|goon=[[へん]] (hen)|kanon=[[へん]] (hen)|kun=[[けな・す]] (kena-su), [[おとし・む]] (otoshi-mu), [[おとし・める]] (otoshi-meru), [[さげす・む]] (sagesu-mu)}}
+
+====Compounds====
+* [[貶竄]]
+* [[貶斥]]
+* [[貶損]]
+* [[貶退]]
+* [[貶謫]]
+* [[貶逐]]
+* [[貶黜]]
+* [[貶流]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[폄]]|eumhun=|rv=pyeom|mr=p'yŏm|y=phyem}}
+
+# {{defn|lang=ko|sort=貝05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''貶''' ([[biếm]], [[bâm]], [[mém]])
+
+# {{defn|lang=vi}}
+
+[[fr:貶]]
+[[ko:貶]]
+[[hu:貶]]
+[[ja:貶]]
+[[pl:貶]]
+[[pt:貶]]
+[[th:貶]]
+[[zh:貶]]

@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǒurén
+|c=jau5 jan4
+|h=pfs=yû-ngìn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# to be there {{gloss|of a person, or people}}; to be [[occupied]]; to be [[manned]]
+#: {{zh-x|你 背後 有人。|'''There is someone''' behind you.}}
+#: {{zh-x|廁所 裡 有人。|The toilet '''is occupied'''.}}
+# [[someone]]; [[some]]; there are people who
+#: {{zh-x|有人 認為{wéi} 讀書 無用。|'''Some''' believe reading is a waste of time.}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|有|人}}
+
+===Noun===
+{{ja-noun|ゆうじん}}
+
+# [[manned]]
+
+===Proper noun===
+{{ja-pos|proper|ありひと}}
+
+# {{given name|male|lang=ja|sort=ありひと}}
+
+[[ko:有人]]
+[[hu:有人]]
+[[mg:有人]]
+[[ja:有人]]
+[[chr:有人]]
+[[zh:有人]]

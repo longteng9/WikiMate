@@ -1,0 +1,71 @@
+{{character info/new}}
+{{also|蠔}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=04|sn=10|four=52115|canj=LIHQU|ids=⿰虫毛}}
+
+====References====
+* {{Han ref|kx=1078.100|dkj=32883|dj=1547.090|hdz=42838.170|uh=869D|ud=34461|bh=D3CC|bd=54220}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|蠔}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=cì
+|c=ci3
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[caterpillar]]s of family [[Limacodidae]] ({{vern|slug moth|pl=s}}; {{vern|cup moth|pl=s}})
+# [[caterpillar]]s of subfamily [[Arctiinae]] ([[tiger moth]]s)
+# [[blister beetle]] (family [[Meloidae]])
+# [[tiger beetle]] (subfamily {{taxlink|Cicindelinae|subfamily|noshow=1}})
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=자|eumhun=|mr=|y=}}
+
+# ({{ko-l|쐐기}}) hairy and poisonous [[caterpillar]]
+
+====Synonyms====
+{{top2}}
+* {{l|ko|蚝}} (자, ''ja'')
+* {{l|ko|蛅}} (점, ''jeom'')
+* {{l|ko|蟖}} (사, ''sa'')
+{{mid2}}
+* {{l|ko|蛅蟖}} ([[점사]], ''jeomsa'')
+{{bottom}}
+
+====Compounds====
+* [[蛅蟖]] ([[점사]], ''jeomsa'')
+
+====Related terms====
+* {{l|ko|毛蟲}} ([[모충]], ''mochung'') [[caterpillar]]
+* {{l|ko|幼蟲}} ([[유충]], ''yuchung'') [[larva]]
+
+====See also====
+* {{l|ko|蛾}} ([[아]], ''a'') [[moth]]
+* {{l|ko|毛}} ([[모]], ''mo'') [[hair]], [[wool]], [[fur]], [[feather]], [[fuzz]]
+
+[[fr:蚝]]
+[[mg:蚝]]
+[[ja:蚝]]
+[[pl:蚝]]
+[[th:蚝]]
+[[chr:蚝]]
+[[zh:蚝]]

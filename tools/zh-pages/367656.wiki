@@ -1,0 +1,81 @@
+{{also|變化|变化}}
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|へん|か|yomi=o}}
+{{compound|変|lang=ja|tr1=[[hen]]|t1=to [[change]]|化|sort=へんか|tr2=[[ka]]|t2=to change into}}
+
+===Pronunciation===
+{{ja-pron|へんか|acc=a|acc_ref=NHK,DJR|y=ko}}
+
+====Noun====
+{{ja-noun|へんか|kyu=變化|hhira=へんくわ}}
+
+# change in [[society]], [[climate]], or [[condition]], [[transformation]], [[variety]]
+# [[variation]]
+# [[declension]]
+
+=====Derived terms=====
+{{top2}}
+* {{l|ja|変化球}} (''henkakyū''): (''baseball'') ball with a change of speed
+* {{l|ja|変化形}} (''henkakei''): variation
+* {{l|ja|格変化}} (''kakuhenka''): (''linguistics'') declension; change of case
+* {{l|ja|大変化}} (''daihenka''): major change
+* {{l|ja|音変化}} (''onpenka''): change in sound
+* {{l|ja|相変化型光ディスク}} (''sōhenka-gatahikeri-disuku''): (''computing'') phase change optical disk
+* {{l|ja|緯度変化}} (''ido henka''): latitude variation
+* {{l|ja|化学変化}} (''kagaku henka''): chemical change
+{{mid2}}
+* {{l|ja|可逆変化}} (''kagyaku henka''): reversible change
+* {{l|ja|環境変化}} (''kankyō henka''): environmental change
+* {{l|ja|経年変化}} (''keinen henka''): change over the years
+* {{l|ja|構造変化}} (''kōzō henka''): structural change
+* {{l|ja|語形変化}} (''gokei henka''): (''linguistics'') inflection of words
+* {{l|ja|語尾変化}} (''gobi henka''): inflection
+* {{l|ja|状態変化}} (''jōtai henka''): (''computing'') state change
+* {{l|ja|非ゼロ復帰変化記録}} (''hizero-fukki-henka-kiroku''): non-return-to-zero recording
+{{bottom}}
+
+====Verb====
+{{ja-verb-suru|へんか|kyu=變化}}
+
+# to [[change]], to [[vary]]
+#: {{ja-usex|気候が変化した。|きこう が '''へんか'''した。|The climate has changed.}}
+
+=====Conjugation=====
+{{ja-suru|へんか}}
+
+=====Synonyms=====
+* {{l|ja|変更}} ([[へんこう]], [[henkō]]): (''noun'') [[change]]
+
+===Etymology 2===
+{{ja-kanjitab|へん|け|k2=げ|yomi=o|r=y}}
+{{compound|変|lang=ja|sort=へんげ|tr1=hen|t1=[[abnormal]]|化|tr2=ke|t2=change oneself into}}
+
+===Pronunciation===
+{{ja-pron|へんげ|acc=a|acc2=h|acc2_ref=NHK,DJR|acc_ref=NHK,DJR|y=go}}
+
+====Noun====
+{{ja-noun|へんげ|kyu=變化}}
+
+# [[goblin]], [[ghost]]; an [[apparition]]
+
+=====Derived terms=====
+* {{l|ja|七変化}} (''shichi henge'') a [[lantana]] (a kind of [[flower]])
+* {{l|ja|妖怪変化}} (''yōkai henge'') a "''[[monstrous]] [[apparition]]''"
+<!-- override the link --> <!-- should be both -->
+
+===References===
+<references/>
+
+[[fr:変化]]
+[[lo:変化]]
+[[lt:変化]]
+[[hu:変化]]
+[[mg:変化]]
+[[fj:変化]]
+[[ja:変化]]
+[[ru:変化]]
+[[tl:変化]]
+[[chr:変化]]
+[[zh:変化]]

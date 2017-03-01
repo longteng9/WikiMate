@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=10|sn=13|four=37180|canj=EBAC}}
+
+# drizzling rain
+# [[dark]], [[obscure]]
+
+====References====
+* {{Han ref|kx=0640.020|dkj=17947|dj=1046.240|hdz=31709.050|uh=6E9F|ud=28319|bh=DE48|bd=56904}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=míng
+|c=ming4,ming5
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|溟沐|溟渤|溟溟|溟漭|溟濛|滄溟|重溟}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水10}}
+
+# {{defn|lang=ja|sort=水10}}
+
+====Readings====
+* {{ja-readings|on=[[めい]] (mei)|kun=[[くらい]] (kurai), [[うみ]] (umi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=명|eumhun=|rv=myeong|mr=myŏng|y=myeng}}
+
+# {{defn|lang=ko|sort=水10}}
+
+[[fr:溟]]
+[[hu:溟]]
+[[mg:溟]]
+[[ja:溟]]
+[[pl:溟]]
+[[th:溟]]
+[[zh:溟]]

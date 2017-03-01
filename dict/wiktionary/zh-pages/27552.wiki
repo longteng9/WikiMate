@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|狸}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=153|rad=豸|as=07|sn=14|four=26214|canj=BHWG|ids=⿰豸里}}
+
+# a [[fox]]-like [[animal]]
+
+====Usage notes====
+This character is used in words for [[animal]]s such as [[civet]]s and the [[mongoose]].
+
+====Derived characters====
+* [[㦟]], [[薶]], [[霾]], [[𩯬]], [[𬥋]]
+
+====References====
+* {{Han ref|kx=1201.250|dkj=36561|dj=1663.220|hdz=63912.120|uh=8C8D|ud=35981|bh=BBA9|bd=48041}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|里|豸|c1=p|c2=s|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lí
+|c=lei4
+|w=3li
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-alt-form|狸}}
+
+====Compounds====
+{{zh-der|佛貍|以貍致鼠|玉面貍|貍貓|香貍}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=豸07}}
+
+====Readings====
+{{ja-readings|goon=[[り]] (ri)|kanon=[[り]] (ri)|kun=[[たぬき]] (tanuki)}}
+
+{{ja-kanjitab|たぬき|yomi=k}}
+
+===Noun===
+{{ja-noun|たぬき|タヌキ}}
+
+# {{alternative spelling of|lang=ja|狸}}
+
+[[Category:ja:Canids|たぬき]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[리]]>[[이]]|eumhun=|rv=ri>i|mr=ri>i|y=li>i}}
+
+# {{defn|lang=ko|sort=豸07}}
+
+[[fr:貍]]
+[[lt:貍]]
+[[hu:貍]]
+[[mg:貍]]
+[[ja:貍]]
+[[pl:貍]]
+[[th:貍]]
+[[zh:貍]]

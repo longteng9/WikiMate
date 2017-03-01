@@ -1,0 +1,57 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+For the institutional sense of "private", re{{borrowing|zh|ja|-|nocap=1}} {{ja-r|私立|しりつ}}.
+
+===Pronunciation===
+{{zh-pron
+|m=sīlì
+|c=si1 laap6,si1 lap6
+|mn=xm,zz,tw:su-li̍p/qz:sir-li̍p
+|cat=v,a
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to be [[run]] [[privately]]
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[private]] {{gloss|of an institution}}
+
+====Antonyms====
+* {{zh-l|國立}}
+* {{zh-l|公立}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|りつ|yomi=on}}
+
+===Noun===
+{{ja-noun|しりつ}}
+
+# [[private]] (e.g. [[institution]])
+
+====Antonyms====
+* {{ja-r|公立|こうりつ}}: public
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=사립}}
+
+# {{hanja form of|사립|[[private]]}}
+
+[[zh-min-nan:私立]]
+[[ko:私立]]
+[[hu:私立]]
+[[ja:私立]]
+[[pl:私立]]
+[[zh:私立]]

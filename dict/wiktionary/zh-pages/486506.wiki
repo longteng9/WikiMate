@@ -1,0 +1,62 @@
+{{also|顔色|颜色}}
+==Chinese==
+{{zh-forms|s=颜色}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=yánsè
+|ma=zh-yánsè.ogg
+|c=ngaan4 sik1
+|md=ngàng-sáik
+|mn=qz:gân-siak/tw,xm,zz:gân-sek
+|mn-t=nguêng5 sêg4/nguang5 sêg4
+|mn-t_note = nguêng5 sêg4 - Chaozhou; nguang5 sêg4 - Shantou
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[colour]]
+#: {{zh-x|要 找出 適合 你 的 '''顏色'''。|Find a '''colour''' that suits you.}}
+# [[face]]; [[look]]; [[expression]]
+# [[good]] [[looks]] {{gloss|of a woman}}
+
+=====Synonyms=====
+* {{sense|colour}} {{zh-l|色彩}}, {{qual|Min Nan|Cantonese}} {{zh-l|色水}}
+* {{sense|face; look; expression}} {{zh-l|臉色}}, {{zh-l|面容}}
+* {{sense|good looks, of a woman}} {{zh-l|姿色}}
+
+=====Derived terms=====
+{{zh-der|給……點兒顏色看|木顏色}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=yánshǎi,yánsè,2nb=Taiwan,tl=y
+|c=ngaan4 sik1
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[pigment]]
+
+===Descendants===
+{{CJKV|顏色|s=顔色|がんしょく|안색|nhan sắc}}
+
+===See also===
+{{table:colors/zh}}
+
+[[fr:顏色]]
+[[ko:顏色]]
+[[it:顏色]]
+[[kn:顏色]]
+[[ku:顏色]]
+[[ky:顏色]]
+[[lt:顏色]]
+[[hu:顏色]]
+[[mg:顏色]]
+[[ja:顏色]]
+[[pl:顏色]]
+[[ru:顏色]]

@@ -1,0 +1,33 @@
+==Japanese==
+{{ja-kanjitab|しょう|わ|yomi=o}}
+
+===Alternative forms===
+* {{l|ja|㍼}}
+
+===Etymology===
+{{rfe|lang=ja}}
+
+===Pronunciation===
+* {{ja-pron|しょうわ|y=o|acc=0|acc2=1|acc_ref=NHK|acc2_ref=NHK}}
+
+===Proper noun===
+{{ja-pos|しょうわ|proper}}
+# The [[Shōwa]] era; the Japanese [[era]] beginning on December 25 1926 and ending on January 7 1989.
+#: {{ja-usex|'''昭和'''元年|'''しょうわ''' がんねん|the first year of Shōwa (1926 by the Gregorian calendar)}}
+
+====Usage notes====
+* Not to be confused with {{m|ja|正和}}, the Shōwa era of 1312–1317, or with {{m|ja|承和}}, the {{l|en|Jōwa}} era of 834–848 (which may also be read {{m|ja||Shōwa|sc=Latinx}}).
+
+====See also====
+* {{ja-r|大正|^たいしょう}}: The [[Taishō]] era; the era preceding the Shōwa era.
+* {{ja-r|平成|^へいせい}}: The [[Heisei]] era; the era following the Shōwa era.
+
+===References===
+* {{R:Kojien}}
+<references/>
+
+[[Category:ja:Time|しょうわ]]
+
+[[fr:昭和]]
+[[ja:昭和]]
+[[zh:昭和]]

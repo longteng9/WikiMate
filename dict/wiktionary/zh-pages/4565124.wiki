@@ -1,0 +1,22 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=lùyóuqì
+|c=lou6 jau4 hei3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[router]] {{gloss|a device that connects local area networks to form a larger internet}}
+#: {{zh-x|無線 寬帶 路由器|''wireless broadband '''router'''''}}
+
+====Synonyms====
+* {{zh-l|路徑器}}
+
+{{zh-cat|Computing}}
+
+[[zh:路由器]]

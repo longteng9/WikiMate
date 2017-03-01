@@ -1,0 +1,35 @@
+{{also|生态学|生態学}}
+==Chinese==
+{{zh-forms|s=生态学|type=21}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+{{bor|zh|ja|-}} {{ja-r|生%態%学|せい%たい%がく}}
+
+===Pronunciation===
+{{zh-pron
+|m=shēngtàixué
+|c=sang1 taai3 hok6
+|mn=seng-thài-ha̍k
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[ecology]]
+
+{{zh-cat|Ecology}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=생태학|mr=saengt'aehak|y=sayngthayhak}}
+
+# {{hanja form of|생태학|[[ecology]]}}
+
+[[ko:生態學]]
+[[ja:生態學]]

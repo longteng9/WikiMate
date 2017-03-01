@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|铸}}
+==Translingual==
+{{Han simplified forms|鑄|鋳|铸}}
+===Han character===
+{{Han char|rn=167|rad=金|as=14|sn=22|four=84141|canj=CGNI|ids=⿰釒壽}}
+
+# [[melt]], [[cast]]
+# [[coin]], [[mint]]
+
+====References====
+* {{Han ref|kx=1324.230|dkj=40972|dj=1825.230|hdz=64266.070|uh=9444|ud=37956|bh=C5B1|bd=50609}}
+
+----
+
+==Chinese==
+{{zh-forms|s=铸}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhù
+|c=zyu3
+|h=pfs=
+|md=
+|mn=chù
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金14}}
+
+# {{defn|lang=ja|sort=金14}}
+
+====Readings====
+* {{ja-readings|on=[[ちゅう]] (chū)|kun=[[いる]] (iru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=주|eumhun=|rv=ju|mr=chu|y=cwu}}
+
+# {{defn|lang=ko|sort=金14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chú]]|rs=金14}}
+
+# {{defn|lang=vi|sort=金14}}
+
+[[fr:鑄]]
+[[ko:鑄]]
+[[hu:鑄]]
+[[mg:鑄]]
+[[fj:鑄]]
+[[ja:鑄]]
+[[pl:鑄]]
+[[th:鑄]]
+[[chr:鑄]]
+[[zh:鑄]]

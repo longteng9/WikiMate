@@ -1,0 +1,44 @@
+{{also|哲学}}
+==Chinese==
+{{zh-forms|s=哲学}}
+{{wikipedia|lang=zh}}
+{{wikipedia|lang=yue}}
+
+===Etymology===
+{{wasei kango|哲学|てつがく|philosophy}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhéxué
+|c=zit3 hok6
+|h=pfs=chet-ho̍k
+|mn=qz,tw,xm,zz:tiat-ha̍k/twv:thiat-ha̍k
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[philosophy]]
+#: {{zh-x|科學技術 哲學|'''philosophy''' of science and technology}}
+#: {{zh-x|馬克思主義 哲學|Marxist '''philosophy'''}}
+
+====Usage notes====
+Though both {{zh-l|哲理}} and {{zh-l|哲學}} can both be translated as ''philosophy'' in English, the former emphasises philosophy as a system of thought, while the later emphasises philosophy as a field of study.
+
+====See also====
+* {{zh-l|哲理}}
+
+====Derived terms====
+{{zh-der|哲學家}}
+
+{{zh-cat|Elementary|Philosophy}}
+
+[[zh-min-nan:哲學]]
+[[fr:哲學]]
+[[ko:哲學]]
+[[io:哲學]]
+[[lo:哲學]]
+[[mg:哲學]]
+[[ja:哲學]]
+[[th:哲學]]

@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|怜}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=12|sn=15|four=99059|canj=PFDQ|ids=⿰忄粦}}
+
+# [[pity]], [[sympathize]]
+
+====References====
+* {{Han ref|kx=0402.120|dkj=11206|dj=0742.140|hdz=42356.070|uh=6190|ud=24976|bh=BCA6|bd=48294}}
+
+----
+
+==Chinese==
+{{zh-forms|s=怜}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|心|alt1=忄|t1=heart|粦|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lián
+|c=lin4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[怜爱]]
+* [[怜悯]]
+* [[怜贫惜老]]
+* [[怜惜]]
+* [[怜香惜玉]]
+* [[怜恤]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心12}}
+
+# {{defn|lang=ja|sort=心12}}
+
+====Readings====
+* {{ja-readings|on=[[れん]] (ren)|kun=[[あわれむ]] (awaremu), [[あわれみ]] (awaremi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[련]], [[연]]|eumhun=|rv=ryeon, yeon|mr=ryŏn, yŏn|y=lyen, yen}}
+
+# {{defn|lang=ko|sort=心12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lân]], [[liên]]|rs=心12}}
+
+# {{defn|lang=vi|sort=心12}}
+
+[[fr:憐]]
+[[ko:憐]]
+[[li:憐]]
+[[hu:憐]]
+[[ja:憐]]
+[[pl:憐]]
+[[th:憐]]
+[[zh:憐]]

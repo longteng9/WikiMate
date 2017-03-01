@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=05|sn=10|four=00133|canj=KHEY|ids=⿸[[疒]][[冬]]}}
+
+====References====
+* {{Han ref|kx=0771.150|dkj=22105|dj=1181.180|hdz=42668.130|uh=75BC|ud=30140|bh=AF6B|bd=44907}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=téng
+|c=tang4,tung3
+|mc=y
+|oc=y
+|mn=qz:thn̂g/xm,zz:thêng/qz:tn̂g/tw:tông/tw:thiàⁿ
+|mn_note=thiàⁿ - 痛 is used in the Mainland
+|ma=zh-téng.ogg
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[aches]], [[pains]]
+# be [[fond]] of
+# [[love]]
+
+===See also===
+* {{zh-l|痛}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒05}}
+
+# {{defn|lang=ja|sort=疒05}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō)|kun=[[うずく]] (uzuku), [[いたむ]] (itamu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=동|eumhun=|rv=dong|mr=tong|y=tong}}
+
+# {{defn|lang=ko|sort=疒05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=疒05|hanviet=đông}}
+
+# {{defn|lang=vi|sort=疒05}}
+
+[[zh-min-nan:疼]]
+[[fr:疼]]
+[[ko:疼]]
+[[hu:疼]]
+[[mg:疼]]
+[[ja:疼]]
+[[no:疼]]
+[[pl:疼]]
+[[ta:疼]]
+[[th:疼]]
+[[chr:疼]]
+[[uk:疼]]
+[[zh:疼]]

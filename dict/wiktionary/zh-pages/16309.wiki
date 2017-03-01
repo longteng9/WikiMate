@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|搯}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=08|sn=11|four=57020|canj=QPOU|ids=⿰扌匋}}
+
+# [[take out]]
+# [[pull out]]
+# [[clean out]]
+
+====References====
+* {{Han ref|kx=0437.090|dkj=12251|dj=0786.130|hdz=31902.060|uh=638F|ud=25487|bh=B1C7|bd=45511}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tāo
+|c=tou4,tou1
+|h=pfs=
+|md=
+|mn=qz:tho͘/xm,zz:tho
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手08}}
+
+# {{defn|lang=ja|sort=手08}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō)|kun=[[えらぶ]] (erabu), [[する]] (suru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=도|eumhun=|rv=do|mr=to|y=to}}
+
+# {{defn|lang=ko|sort=手08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手08|hanviet=đào}}
+
+# {{defn|lang=vi|sort=手08}}
+
+[[fr:掏]]
+[[hu:掏]]
+[[mg:掏]]
+[[ja:掏]]
+[[no:掏]]
+[[pl:掏]]
+[[th:掏]]
+[[zh:掏]]

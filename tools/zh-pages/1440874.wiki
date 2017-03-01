@@ -1,0 +1,54 @@
+{{also|敎科}}
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{wasei kango|教%科|きょう%か|subject, curriculum}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiàokē
+|c=gaau3 fo1
+|mn=xm,zz,tw:kàu-kho/xm,twv:kàu-khe/qz:kàu-kher
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[subject]]; [[course]]; [[discipline]]
+
+====Synonyms====
+* {{zh-l|學科}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{ja-kanjitab|きょう|か|yomi=o}}
+{{compound|sort=きょうか|教|t1=to [[teach]]|tr1=kyō|lang=ja|科|t2=[[section]]; [[department]]|tr2=ka}}
+
+===Pronunciation===
+{{ja-pron|きょうか|acc=a|acc_ref=DJR,NHK,SMK5|y=go}}
+
+===Noun===
+{{ja-noun|きょうか|hhira=けうくわ}}
+
+# [[subject]]; [[curriculum]]
+
+====Compounds====
+* {{ja-r|教科書|きょうかしょ}}: [[textbook]]
+
+===Descendants===
+* Chinese: {{zh-l|教科}}
+* Korean: {{ko-l|교과}}
+
+===References===
+<references/>
+
+[[fr:教科]]
+[[mg:教科]]
+[[ja:教科]]
+[[pl:教科]]
+[[zh:教科]]

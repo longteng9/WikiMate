@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=164|rad=酉|as=07|sn=14|four=12643|canj=MWBDI|ids=⿰酉寽}}
+
+# to [[pour out]] a [[libation]]
+# to [[sprinkle]]
+
+====References====
+* {{Han ref|kx=1283.170|dkj=39872|dj=1783.130|hdz=63584.050|uh=9179|ud=37241|bh=E474|bd=58484}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lèi
+|c=laai6,lyut3,leoi6,loi6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|奠酹|薦酹}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=酉07}}
+
+# {{defn|lang=ja|sort=酉07}}
+
+====Readings====
+* {{ja-readings|on=[[らい]] (rai), [[るい]] (rui), [[らつ]] (ratsu), [[らち]] (rachi)|kun=[[そそぐ]] (sosogu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[뢰]]>[[뇌]]|eumhun=|rv=roe>noe|mr=roe>noe|y=loy>noy}}
+
+# {{defn|lang=ko|sort=酉07}}
+
+[[fr:酹]]
+[[hu:酹]]
+[[mg:酹]]
+[[pl:酹]]
+[[th:酹]]
+[[zh:酹]]

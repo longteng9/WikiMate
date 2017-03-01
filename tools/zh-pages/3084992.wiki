@@ -1,0 +1,67 @@
+{{also|统治}}
+==Chinese==
+{{zh-forms|s=统治}}
+
+===Pronunciation===
+{{zh-pron
+|m=tǒngzhì
+|c=tung2 zi6
+|h=pfs=thúng-chhṳ
+|mn=xm,zz,tw:thóng-tī/qz:thóng-tǐ
+|ma=Zh-tongzhì.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[govern]]; to [[rule]]; to [[control]]; to [[dominate]]; to [[preside]] over
+#: {{zh-x|統治 集團|'''ruling''' circle}}
+
+====Derived terms====
+{{zh-der|統治階級|統治者}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|ち|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|とうち|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうち}}
+
+# [[rule]], [[governance]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|とうち}}
+
+# to [[rule]], to [[govern]]
+
+====Conjugation====
+{{ja-suru|とうち}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=통치}}
+
+# {{hanja form of|통치|[[rule]]}}
+
+[[zh-min-nan:統治]]
+[[ko:統治]]
+[[lo:統治]]
+[[hu:統治]]
+[[mg:統治]]
+[[ja:統治]]
+[[chr:統治]]
+[[zh:統治]]

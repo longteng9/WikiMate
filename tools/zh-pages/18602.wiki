@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=02|sn=5|four=34127|canj=EKS,XEKS|ids=⿰氵力}}
+
+# {{defn|Han|sort=水02}}
+
+====References====
+* {{Han ref|kx=0603.070|dkj=17094|dj=0997.030|hdz=31549.060|uh=6C3B|ud=27707|bh=C9A4|bd=51620}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=lè
+|c=lak6
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Etymology 2===
+{{zh-see|泐|v}}
+
+===References===
+* {{R:twedu|C06063}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水02}}
+
+# {{defn|lang=ja|sort=水02}}
+
+====Readings====
+* {{ja-readings|on=[[ろく]] (roku)|kun=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水02| hanviet = rực}}
+
+# {{defn|lang=vi|sort=水02}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6c3b Nom Foundation]
+
+[[fr:氻]]
+[[hu:氻]]
+[[pl:氻]]
+[[th:氻]]
+[[zh:氻]]

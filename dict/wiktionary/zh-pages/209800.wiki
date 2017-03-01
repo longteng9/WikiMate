@@ -1,0 +1,38 @@
+{{also|俱樂部|俱乐部}}
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Club (organization)}}
+</div>
+{{ja-kanjitab|yomi=irr|sort=くらぶ}}
+
+===Etymology===
+{{borrowing|ja|en|sort=くらぶ|club}}, in reference to an association or group of people.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+The spelling is [[ateji]], apparently from the early {{w|Meiji period}}, chosen for the senses of {{m|ja|倶|tr=ku|pos=[[音読み#Japanese|on'yomi]]; also a [[訓読み#Japanese|kun'yomi]] of ''tomo'' as in “{{l|en|together}}”}} + {{m|ja|楽|tr=ra|pos=irregular [[音読み#Japanese|on'yomi]], usually ''raku''; also a [[訓読み#Japanese|kun'yomi]] of ''tanoshimu'' as in “{{l|en|enjoy|to enjoy}}”}} + {{m|ja|部|tr=bu||part; division; section; department|pos=imparting a sense of “smaller [[group]] of [[people]]”}}.
+
+===Pronunciation===
+{{ja-pron|y=irr|クラブ|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|クラブ}}
+
+# a [[club]] {{gloss|as an association or group of people}}
+
+====Usage notes====
+More commonly spelled in [[katakana]], as {{m|ja|クラブ}}.
+
+====Descendants====
+* Chinese: {{zh-l|俱樂部}}
+* Vietnamese: {{l|vi|câu lạc bộ}}
+
+===References===
+<references/>
+
+[[Category:Japanese terms spelled with ateji|くらぶ]]
+[[fr:倶楽部]]
+[[li:倶楽部]]
+[[mg:倶楽部]]
+[[ja:倶楽部]]
+[[chr:倶楽部]]

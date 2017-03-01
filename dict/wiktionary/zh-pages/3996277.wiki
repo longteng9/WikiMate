@@ -1,0 +1,64 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|きょう|こつ}}
+{{IPAchar|/kepukotu/}} → {{IPAchar|/keɸukot͡su/}} → {{IPAchar|/keukot͡su/}} → {{IPAchar|/kjoːkot͡su/}}
+
+From {{etyl|ltc|ja|sort=きょうこつ}} compound {{m|zh|頰骨|tr=kiep? kwot|lit=cheek + bone}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|きょうこつ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|きょうこつ|kyu=頰骨|hhira=けふこつ}}
+
+# [[cheekbone]]
+
+=====Synonyms=====
+* {{ja-r|顴骨|かんこつ}} {{qualifier|less common, more formal}}
+* {{ja-r|頬骨|ほおぼね}} {{qualifier|see below; more common}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|ほお|ほね|k2=ぼね|r=y}}
+Compound of {{compound|lang=ja|sort=ほおぼね|頬|tr1=hō|t1=cheek, jaw|骨|tr2=hone|t2=bone}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> {{rendaku2|sort=ほおぼね|hone|bone}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|ほおぼね|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ほおぼね|kyu=頰骨|hhira=ほほぼね}}
+
+# [[cheekbone]]
+
+=====Synonyms=====
+* {{ja-r|頬骨|きょうこつ}} {{qualifier|less common, more formal}}
+* {{ja-r|顴骨|かんこつ}} {{qualifier|less common, even more formal}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|つら|ほね|k2=ぼね|r=y}}
+Compound of {{compound|lang=ja|sort=つらぼね|頬|tr1=tsura|t1=face; cheek|骨|tr2=hone|t2=bone}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> {{rendaku2|sort=つらぼね|hone|bone}} The ''tsura'' reading for {{ja-l|頬}} is rare.
+
+====Pronunciation====
+{{ja-pron|yomi=k|つらぼね|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|面骨}} {{qualifier|more common spelling}}
+
+====Noun====
+{{ja-noun|つらぼね|kyu=頰骨}}
+
+# [[cheekbone]]
+# one's [[facial features]], one's [[looks]]
+
+=====Synonyms=====
+* {{sense|cheekbone}} {{ja-r|頬骨|きょうこつ}} {{qualifier|see above; more formal}}
+* {{sense|features}} {{ja-r|顔付き|かおつき}}, {{ja-r|顔立ち|かおだち}}, {{ja-r|面立ち|おもだち}}
+
+=====Usage notes=====
+The {{m|en|cheekbone}} sense is more commonly expressed with the reading ''hōbone''.
+
+===References===
+<references/>
+
+[[mg:頬骨]]
+[[ja:頬骨]]

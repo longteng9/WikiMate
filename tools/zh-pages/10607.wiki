@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|仭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=03|sn=5|four=27220|canj=OSHI|ids=⿰亻刃}}
+
+# [[ancient]] [[unit]] of [[measure]] (8 [[feet]])
+# '[[fathom]]' (unit of [[depth]] measure)
+
+====References====
+* {{Han ref|kx=0093.040|dkj=00379|dj=0197.010|hdz=10115.070|uh=4EDE|ud=20190|bh=A551|bd=42321}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=rèn
+|c=jan6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人03}}
+
+====Readings====
+* {{ja-readings|on=[[じん]] (jin)|kun=[[はかる]] (hakaru)}}
+
+===Noun===
+{{ja-noun|じん}}
+
+# [[ren]], ancient Chinese [[unit of measure]]
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 仞]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=인|rv=in|mr=in}}
+
+# {{defn|lang=ko|sort=人03}}
+
+[[fr:仞]]
+[[ko:仞]]
+[[li:仞]]
+[[hu:仞]]
+[[mg:仞]]
+[[ja:仞]]
+[[pl:仞]]
+[[th:仞]]
+[[zh:仞]]

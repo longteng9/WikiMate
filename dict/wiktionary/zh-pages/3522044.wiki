@@ -1,0 +1,33 @@
+{{also|无策}}
+==Chinese==
+{{zh-forms|s=无策}}
+
+===Pronunciation===
+{{zh-pron
+|m=wúcè
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to have no [[solution]]; to have no [[measure]]
+
+====Derived terms====
+{{zh-der|搏手無策|束手無策}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|む|さく|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|むさく}}
+
+# [[nonresponsive]], [[do-nothing]]
+
+===Noun===
+{{ja-noun|むさく}}
+
+# [[taking]] no [[action]], a lack of policies, taking no measures
+#: {{ja-usex|政府の'''無策'''は非難されるべきだ。|せいふ の '''むさく''' は ひなん される-べき だ。|We should denounce the government for doing nothing on this issue.}}

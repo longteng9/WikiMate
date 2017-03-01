@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=05|sn=11|four=55160|canj=LILW|ids=⿰虫由}}
+
+# [[millipede]]
+
+====References====
+* {{Han ref|kx=1079.150|dkj=32918|dj=1548.010|hdz=42843.020|uh=86B0|ud=34480|bh=D7A5|bd=55205}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yóu
+|c=jau4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|蚰蜒|蚰蜒草|蜒蚰}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=9|rs=虫05}}
+
+# {{defn|lang=ja|sort=虫05}}
+
+====Readings====
+* {{ja-readings|goon=[[ゆ]] (yu)|kanon=[[ゆう]] (yū)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=유|eumhun=|rv=yu|mr=yu|y=yu}}
+
+# {{defn|lang=ko|sort=虫05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[du]], [[chục]], [[do]]|rs=虫05}}
+
+# {{defn|lang=vi}}
+
+[[fr:蚰]]
+[[hu:蚰]]
+[[mg:蚰]]
+[[ja:蚰]]
+[[pl:蚰]]
+[[th:蚰]]
+[[vi:蚰]]
+[[zh:蚰]]

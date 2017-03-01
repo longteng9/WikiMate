@@ -1,0 +1,230 @@
+{{character info/new}}
+{{also|夲}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=75|rad=木|as=01|sn=5|four=50230|canj=DM|ids=⿻木一}}
+
+====Antonyms====
+* {{l|mul|末}}
+
+====Derived characters====
+* [[体]] [[呠]] [[𪰐]] [[泍]] [[砵]] [[鉢]] ([[钵]]) [[缽]] [[絊]] [[躰]] [[骵]] [[翉]] [[苯]] [[笨]]
+
+====See also====
+* {{l|mul|sc=Hant|冊}}, {{l|mul|sc=Hans|册}}
+* {{l|mul|sc=Hant|書}}, {{l|mul|sc=Hans|书}}
+
+===References===
+* {{Han ref|kx=0509.070|dkj=14421|dj=0891.020|hdz=21151.010|uh=672C|ud=26412|bh=A5BB|bd=42427}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=夲}}
+
+===Glyph origin===
+{{Han etym}}
+Derived from {{zh-l|*木|tree}} by the addition of an extra stroke, accentuating the roots.
+
+===Pronunciation===
+{{zh-pron
+|m=běn
+|c=bun2
+|h=pfs=pún
+|md=buōng
+|mn=pún/qz,tw:pńg
+|mn_note=Quanzhou and Taiwan: pún - literary; pńg - vernacular
+|w=2pen
+|mc=y
+|oc=y
+|ma=y
+|cat=n,a,adv,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|of plants}} [[root]]; [[stem]]
+# [[source]]; [[origin]]; [[root]]
+#* {{zh-x|努力 工作 是 成功 之 本。|Hard work is the ultimate '''source''' of success.}}
+# [[foundation]]; [[basis]]
+#* {{zh-x|謙遜 是 美德 之 本。|Humility is the '''foundation''' of all virtue.}}
+# [[edition]]; [[version]]; [[copy]]
+# [[originally]]; [[initially]]
+# [[current]]; [[present]]
+#: {{zh-x|本年|current year}}
+#* {{zh-x|本 財政 年 度 的 全部 投資 預算 已 用完。|We have already used up our total investment budget for the '''current''' fiscal year.}}
+# [[this]]; [[here]]
+#: {{zh-x|本人|I [lit. '''this''' person]}}
+#* {{zh-x|本 函 下面 所 示 系 Y 先生 的 簽名。|You will find the signature of Mr. Y. at the foot '''hereof'''.}}
+# {{zh-classifier|books, periodicals, files|cat=y}}
+#: {{zh-x|一 本 書|a book}}
+#: {{zh-x|一 本 雜誌|a magazine}}
+# [[volume]]
+
+===Compounds===
+{{zh-der|本報|本本主義|本幣|本草|本草綱目|本朝|本初子午線|本處|本島|本底|本底調查|本地|本地化|本地人|本分|本俸|本固枝榮|本國|本行|本家|本屆|本金|本科|本科生|本來|本來面目|本壘|本領|本末|本末倒置|本能|本年度|本票|本期|本錢|本人|本色|本身|本生燈|本事|本市|本台|本題|本體|本體論|本土|本土化|本土派|本位|本位貨幣|本位制|本位主義|本文|本鄉|本相|本星期|本性|本性難移|本義|本意|本應|本影|本源|本月|本著/本着|本徵值|本徵向量|本職|本質|本質上|本週|本週一|本週二|本週三|本週四|本週五|本週六|本子|本字|本族語|本罪}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=1|rs=木01}}
+
+====Readings====
+* {{ja-readings|goon=[[ほん]] (hon)|kanon=[[ほん]] (hon)|kun=[[もと]] (moto)|nadzuke=[[なり]] (nari), [[はじめ]] (hajime), [[もと]] (moto)}}
+
+====Compounds====
+{{der3
+|{{ja-l|本意|ほんい|hon'i}}
+|{{ja-l|本家|ほんけ|honke}}
+|{{ja-l|本懐|ほんかい|honkai}}
+|{{ja-l|本格|ほんかく|honkaku}}
+|{{ja-l|本官|ほんかん|honkan}}
+|{{ja-l|本願|ほんがん|hongan}}
+|{{ja-l|本義|ほんぎ|hongi}}
+|{{ja-l|本業|ほんぎょう|hongyō}}
+|{{ja-l|本源|ほんげん|hongen}}
+|{{ja-l|本旨}}
+|{{ja-l|本地|ほんじ|honji}}
+|{{ja-l|本地垂迹}}
+|{{ja-l|本州|ほんしゅう|Honshū}}
+|{{ja-l|本性}}
+|{{ja-l|本心}}
+|{{ja-l|本籍}}
+|{{ja-l|本草}}
+|{{ja-l|本草学}}
+|{{ja-l|本草綱目}}
+|{{ja-l|本体}}
+|{{ja-l|本態}}
+|{{ja-l|本朝}}
+|{{ja-l|本土}}
+|{{ja-l|本能|ほんのう|hon'nō}}
+|{{ja-l|本分}}
+|{{ja-l|本邦}}
+|{{ja-l|本末|ほんまつ|honmatsu}}
+|{{ja-l|本務}}
+|{{ja-l|本命}}
+|{{ja-l|本望}}
+|{{ja-l|本屋|ほんや|hon'ya}}: [[bookstore]]
+|{{ja-l|本来|ほんらい|honrai}}
+|{{ja-l|本領}}
+|{{ja-l|本論}}
+|{{ja-l|本日|ほんじつ|honjitsu}}: [[today]]
+|{{ja-l|日本|にほん|Nihon}}
+|{{ja-l|日本|にっぽん|Nippon}}
+|{{ja-l|日本人|にほんじん|nihonjin}}
+|{{ja-l|日本人|にっぽんじん|nipponjin}}
+}}
+
+===Etymology 1===
+{{ja-kanjitab|もと|yomi=k}}
+====Counter====
+{{ja-pos|もと|counter}}
+
+# [[blades]] of grass and tree [[trunks]]
+# [[falcons]]
+
+====Noun====
+{{ja-noun|もと|count=個}}
+
+# {{alternative form of|元|lang=ja}}
+
+===Etymology 2===
+{{ja-kanjitab|ほん|yomi=o}}
+====Counter====
+{{ja-pos|ほん|counter}}
+
+# long [[cylindrical]] things such as glasses of drink, pairs of jeans, pens or [[trains]] and [[bus|buses]]
+# [[films]] or TV shows
+# [[home runs]] or [[goals]]
+# [[rounds]] of a match in [[boxing]], [[wrestling]] or [[judo]]
+
+====Noun====
+{{ja-noun|ほん|count=冊}}
+
+# a [[book]]
+# a [[script]]; a [[scenario]]
+
+[[Category:Japanese basic words|ほん]]
+[[Category:ja:Falconry|もと]]
+[[Category:ja:Media|ほん]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=본|eumhun=[[뿌리]] (ppuri)|mr=pon|y=pon}}
+
+# [[stump]], [[root]], [[basis]]
+# [[main]]
+# [[oneself]]
+
+====Compounds====
+* {{l|ko|본관}}(本官)
+* {{l|ko|본전}}(本錢)
+* {{l|ko|근본}}(根本) [[root]], [[basis]]
+* {{l|ko|기본}}(基本) [[basics]]
+* {{l|ko|본사}}(本社) [[headquarters]]
+* {{l|ko|일본}}(日本) [[Japan]]
+* {{l|ko|일본인}}(日本人) [[Japanese]] [[People]]
+* {{l|ko|자본}}(資本) [[capital]]
+* {{l|ko|자본주의}}(資本主義) [[capitalism]]
+* {{l|ko|본인}}(本人) [[oneself]]
+* {{l|ko|본질}}(本質) [[essence]]
+* {{l|ko|사본}}(寫本) [[copy]]
+* {{l|ko|본부}}(本部) [[headquarters]]
+* {{l|ko|본래}}(本來) [[original]]
+* {{l|ko|본체}}(本體) [[main]] [[body]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bản]], [[bộn]], [[bủn]], [[vỏn]], [[vốn]], [[bốn]], [[bổn]], [[bún]], [[pắn]], [[vẩn]], [[tựợng]]|rs=木01}}
+
+# {{defn|lang=vi|sort=木01}}
+
+[[af:本]]
+[[cs:本]]
+[[de:本]]
+[[et:本]]
+[[el:本]]
+[[es:本]]
+[[eu:本]]
+[[fr:本]]
+[[ko:本]]
+[[it:本]]
+[[kn:本]]
+[[lo:本]]
+[[la:本]]
+[[lb:本]]
+[[lt:本]]
+[[li:本]]
+[[hu:本]]
+[[mg:本]]
+[[ms:本]]
+[[fj:本]]
+[[nl:本]]
+[[ja:本]]
+[[no:本]]
+[[uz:本]]
+[[km:本]]
+[[pl:本]]
+[[pt:本]]
+[[ru:本]]
+[[sr:本]]
+[[fi:本]]
+[[sv:本]]
+[[ta:本]]
+[[th:本]]
+[[chr:本]]
+[[tr:本]]
+[[uk:本]]
+[[vi:本]]
+[[zh:本]]

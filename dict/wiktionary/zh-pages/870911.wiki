@@ -1,0 +1,48 @@
+{{also|标准语}}
+==Chinese==
+{{zh-forms|s=标准语|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=biāozhǔnyǔ
+|c=biu1 zeon2 jyu5
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[standard]] [[language]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひょう|じゅん|ご|yomi=o}}
+{{wikipedia|Japanese dialects}}
+
+===Noun===
+{{ja-noun|ひょうじゅんご}}
+
+# the [[standard]] [[language]] (of a country); standard Japanese
+
+====Usage notes====
+Connotation is more normative than {{m|ja|共通語}}; more connotation of ''official'' standard (de jure, official language), rather than de facto lingua franca.
+
+====Synonyms====
+* {{ja-r|共通語|きょうつうご}}
+
+====See also====
+* {{ja-r|方言|ほうげん}}: [[dialect]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=표준어}}
+
+# {{hanja form of|표준어|[[standard]] [[language]], [[South Korean]] standard [[Korean]] language}}
+
+[[pl:標準語]]
+[[sv:標準語]]

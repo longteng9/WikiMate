@@ -1,0 +1,51 @@
+{{also|明了}}
+==Chinese==
+{{zh-forms|s=明了}}
+
+===Pronunciation===
+{{zh-pron
+|m=míngliǎo
+|c=ming4 liu5,ming4 liu4
+|h=pfs=mìn-liàu
+|mn=bêng-liâu
+|cat=a,v
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[clear]]; [[apparent]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[understand]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|めい|りょう|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|めいりょう|infl=na}}
+
+# [[apparent]], [[clear]]
+#: {{ja-usex|'''明瞭'''な口調で答えた。|'''めいりょう''' な くちょう で こたえた。|He/She answered in a clear and distinct manner.}}
+
+====Antonyms====
+* {{ja-r|曖昧|あいまい|ambiguous, obscure}}
+
+====Inflection====
+{{ja-na|めいりょう}}
+
+===Noun===
+{{ja-noun|めいりょう}}
+
+# [[apparency]], [[clarity]]
+
+[[zh-min-nan:明瞭]]
+[[ko:明瞭]]
+[[mg:明瞭]]
+[[ja:明瞭]]
+[[chr:明瞭]]
+[[zh:明瞭]]

@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|赛}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=10|sn=17|four=30806|canj=JTCC|ids=⿱𡨄貝}}
+
+====References====
+* {{Han ref|kx=1211.220|dkj=36886|dj=1677.170|hdz=63655.100|uh=8CFD|ud=36093|bh=C1C9|bd=49609}}
+
+----
+
+==Chinese==
+{{zh-forms|s=赛}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=sài
+|c=coi3
+|h=pfs=chhoi/soi
+|md=suói
+|mn=sài/qz:sèr/tw,xm:sè
+|mn_note=sài - literary; sèr/sè - vernacular
+|w=2se
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[compete]]; to [[contend]]
+# [[competition]]; [[contest]]; [[race]]
+#: {{zh-x|決賽|final}}
+
+===Compounds===
+{{zh-der|比賽|競賽|決賽|半決賽|凡爾賽宮|吉賽爾|友誼賽|單循環賽|合格賽|循環賽|彌賽亞|奧賽羅|徑賽|對抗賽|完全比賽|延長賽|出賽|奧德賽|報賽|單人車賽|吉普賽|吉卜賽人|公開賽|參賽|初賽|凡爾賽|冠軍賽|百米賽跑|拳賽|技能競賽|熱身賽|擂臺賽|演講比賽|田徑賽|球賽|無賽|田賽|淘汰賽|沒賽|法利賽人|春賽|接力賽跑|接力賽|棒球賽|與賽|賽村社|賽璐玢|賽跑|複賽|賽路神|馬賽港|龍舟比賽|賽區|賽神|越野賽跑|表演賽|觀賽|籃賽|調賽|迎神賽會|芭賽|賽會|龜兔賽跑|賽馬|馬賽克|預賽|賽車|賽普勒斯|賽夏族|賭賽|開賽|義賽|龍舟賽|錦標賽|賽璐珞|酬賽|聯賽|賽先生|跳躍比賽|賽鴿|賽願|賽程|障礙賽跑|邀請賽|選拔賽|賽球}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=貝10}}
+
+# {{defn|lang=ja|sort=貝10}}
+
+====Readings====
+* {{ja-readings|on=[[さい]] (sai)|kun=[[しあい]] (shiai), [[きそう]] (kisou), [[むくいまつる]] (mukuimatsuru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=새|eumhun=|rv=sae|mr=sae|y=say}}
+
+# {{defn|lang=ko|sort=貝10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tái]], [[trại]]|rs=貝10}}
+
+# {{defn|lang=vi|sort=貝10}}
+
+[[fr:賽]]
+[[hu:賽]]
+[[ja:賽]]
+[[pl:賽]]
+[[th:賽]]
+[[zh:賽]]

@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēnmǔ
+|c=fan1 mou5
+|mn=hun-bó/hun-bú
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{label|zh|mathematics}} [[denominator]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|分|母}}
+
+===Noun===
+{{ja-noun|ぶんぼ}}
+
+# {{lb|ja|mathematics}} [[denominator]] (''of a [[fraction]]'')
+
+====Related terms====
+* {{ja-r|分子|ぶんし}}: [[numerator]]
+
+[[Category:ja:Mathematics|ふんほ']]
+
+[[cs:分母]]
+[[ko:分母]]
+[[lo:分母]]
+[[hu:分母]]
+[[ja:分母]]
+[[zh:分母]]

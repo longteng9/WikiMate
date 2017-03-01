@@ -1,0 +1,38 @@
+{{also|觀念}}
+==Japanese==
+{{ja-kanjitab|かん|ねん|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|かんねん|yomi=o}}
+
+===Noun===
+{{ja-noun|かんねん|kyu=觀念}}
+
+# [[idea]], [[concept]]
+# [[sense]]
+# [[resignation]], [[acceptance]]
+
+====Compounds====
+* {{l/ja|観念小説}}
+* {{l/ja|観念性}}
+* {{l/ja|観念的}}
+* {{l/ja|観念連合}}
+* {{l/ja|観念論}}
+
+===Verb===
+{{ja-verb-suru|かんねん|kyu=觀念|tr=trans}}
+
+# to [[resign]] to
+#: {{ja-usex|私は運命を'''観念'''した。|わたし は うんめい を '''かんねん''' した。|I have '''resigned''' myself '''to''' fate.}}
+
+====Conjugation====
+{{ja-suru|かんねん}}
+
+[[ko:観念]]
+[[it:観念]]
+[[lo:観念]]
+[[hu:観念]]
+[[mg:観念]]
+[[ja:観念]]
+[[chr:観念]]
+[[zh:観念]]

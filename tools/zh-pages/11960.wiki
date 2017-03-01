@@ -1,0 +1,92 @@
+{{character info/new}}
+{{also|却}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=26|rad=卩|as=07|sn=9|four=87620|canj=CRSL|ids=⿰谷卩}}
+
+====Derived characters====
+* [[腳]]
+
+====References====
+* {{Han ref|kx=0159.280|dkj=02867|dj=0365.110|hdz=10317.020|uh=537B|ud=21371|bh=AB6F|bd=43887}}
+
+----
+
+==Chinese==
+{{zh-forms|s=却}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|谷|卩|ls=ic}} – person 卩 leaving 八 the house 口 – retreat.
+
+===Pronunciation===
+{{zh-pron
+|m=què
+|c=koek3
+|h=pfs=khiok
+|mn=qz,tw,xm:khiok/zz:khiak/twv:khioh
+|w=
+|mc=y
+|oc=y
+|ma=y
+|cat=v,con
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} to [[withdraw]]; to [[retreat]]
+# {{†}} to [[drive]] back (enemy)
+# {{†}} to [[decline]]; to [[refuse]]
+# {{†}} {{lb|zh|particle placed after monosyllabic verbs}} to [[do]] away with
+# {{lb|zh|literary|only sentence-medially}} [[but]]; [[yet]]; [[however]]
+
+===Compounds===
+{{zh-der|卻纔|卻老|卻略|卻少|卻又|冷卻|卻後|卻不道|卻病|冷卻器|卻是|前卻|免卻|忘卻|卻扇|卻之不恭|卻月|剗卻|卻說|卻不|失卻|卻病延年|卻待|卻行|了卻|卻立|卻步|瞞卻|推卻|擺袖卻金|拚卻|盛情難卻|拒卻|杜門卻掃|望而卻步|拋卻|省卻|拼卻|辭卻|趑趄卻顧|閉關卻掃|謝卻|退卻|除卻|闔門卻掃|閉門卻掃|輕水冷卻}}
+
+====References====
+* {{qualifier|Hakka}} {{R:hak:Lau 1997}}
+* {{qualifier|Min Nan}} {{thcwd|4718}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=卩07}}
+
+# {{alternative form of|却|lang=ja}}
+
+====Readings====
+* {{ja-readings|on=[[きゃく]] (kyaku)|kun=[[しりぞく]] (shirizoku), [[しりぞける]] (shirizokeru), [[かえって]] (kaette)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=각|rv=gak|mr=kak}}
+
+# {{defn|lang=ko|sort=卩07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khước]]|rs=卩07}}
+
+# {{defn|lang=vi|sort=卩07}}
+
+[[zh-min-nan:卻]]
+[[fr:卻]]
+[[ko:卻]]
+[[hu:卻]]
+[[mg:卻]]
+[[ms:卻]]
+[[ja:卻]]
+[[pl:卻]]
+[[th:卻]]
+[[chr:卻]]
+[[zh:卻]]

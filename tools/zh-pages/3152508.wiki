@@ -1,0 +1,43 @@
+{{also|连载}}
+==Chinese==
+{{zh-forms|s=连载}}
+
+===Pronunciation===
+{{zh-pron
+|m=lián載
+|mn=liân-chài
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[publish]] in [[instalment]]s; to [[serialise]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|れん|さい|yomi=o}}
+
+===Noun===
+{{ja-noun|れんさい}}
+
+# [[serialization]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|れんさい}}
+
+# to publish serially
+
+====Conjugation====
+{{ja-suru|れんさい}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=연재}}
+
+# {{hanja form of|연재}}
+
+[[ko:連載]]

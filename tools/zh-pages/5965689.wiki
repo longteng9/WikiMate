@@ -1,0 +1,19 @@
+==Chinese==
+{{zh-forms|s=隐性}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǐnxìng
+|c=jan2 sing3
+|mn=ún-sèng
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[hidden]]; [[concealed]]; [[secret]]
+# {{lb|zh|genetics}} [[recessive]]
+
+====Antonyms====
+* {{sense|recessive}} {{zh-l|顯性}}

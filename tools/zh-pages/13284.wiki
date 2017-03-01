@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|垲}}
+==Translingual==
+
+===Etymology===
+{{Han etym}}
+
+===Han character===
+{{Han char|rn=32|rad=土|as=10|sn=13|four=42118|canj=GUMT|ids=⿰土豈}}
+
+# [[high]] and [[dry]] [[place]]
+
+====References====
+* {{Han ref|kx=0235.080|dkj=05326|dj=0473.010|hdz=10472.050|uh=584F|ud=22607|bh=DCE5|bd=56549}}
+
+----
+
+==Chinese==
+{{zh-forms|s=垲}}
+
+===Pronunciation===
+{{zh-pron
+|m=kǎi
+|c=hoi2
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土10}}
+
+# high and dry place
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai), [[がい]] (gai)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=개|rv=gae|mr=kae}}
+
+# [[highland]]
+# high and dry place
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khải]]|rs=土10}}
+
+# {{defn|lang=vi|sort=土10}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=584f Nom Foundation]
+
+[[fr:塏]]
+[[ko:塏]]
+[[li:塏]]
+[[hu:塏]]
+[[pl:塏]]
+[[th:塏]]
+[[zh:塏]]

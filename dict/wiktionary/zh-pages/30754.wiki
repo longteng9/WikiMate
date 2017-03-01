@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|住|佳}}
+==Translingual==
+{{stroke order|type=animate}}
+[[File:Short-tailed Shearwater.jpg|thumb|245px|Short tailed bird]]
+
+===Han character===
+{{Han char|rn=172|rad=隹|as=00|sn=8|four=20214/20215|canj=OG,XOG|ids=⿰亻⿻一主}}
+
+# ''([[obsolete]])'' [[short]]-[[tail]]ed [[bird]], [[dove]]
+# {{mul-kangxi radical-def}}
+
+====Usage notes====
+This character is not used any more. It appears only as a character component.
+
+====Derived characters====
+* [[Index:Chinese radical/隹]]
+* [[萑]], [[唯]], [[誰]], [[維]], [[翟]], [[瞿]], [[進]], [[脽]], [[䍜]], [[椎]], [[帷]], [[崔]], [[惟]], [[淮]], [[推]], [[陮]], [[錐]], [[蜼]], [[婎]], [[騅]], [[碓]], [[㢈]], [[嵟]], [[魋]], [[顀]], [[倠]], [[鵻]], [[奞]], [[猚]], [[𨾔]], [[閵]], [[睢]], [[趡]], [[琟]], [[雅]]
+
+====References====
+{{Han ref|kx=1364.050|dkj=41937|dj=1867.220|hdz=64090.010|uh=96B9|ud=38585|bh=AB41|bd=43841}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{liushu|p}}: a short-tailed bird (e.g. a sparrow). Compare [[鳥]].
+
+===Pronunciation===
+{{zh-pron
+|m=zhuī
+|c=zeoi1
+|mn=chui
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=隹00}}
+
+# old [[bird]]
+
+====Readings====
+* {{ja-readings|on=[[すい]] (sui), [[さい]] (sai)|kun=[[とり]] (tori), [[ふるとり]] (furutori)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=추|eumhun=|rv=chu|mr=ch'u|y=chwu}}
+
+# {{defn|lang=ko|sort=隹00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=隹00|hanviet=[[chuy]]}}
+
+# {{defn|lang=vi|sort=隹00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:隹]]
+[[ko:隹]]
+[[li:隹]]
+[[hu:隹]]
+[[mg:隹]]
+[[ms:隹]]
+[[ja:隹]]
+[[pl:隹]]
+[[ru:隹]]
+[[th:隹]]
+[[zh:隹]]

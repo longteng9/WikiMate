@@ -1,0 +1,54 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chūyǎn
+|mn=chhut-ián
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+# [[appearance]] (for a performance)
+
+===Verb===
+{{zh-verb}}
+# to [[appear]] for a performance
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅつ|えん|yomi=on}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=しゅつえん}} {{m|zh|sc=Hani|出演}}.
+
+===Noun===
+{{ja-noun|しゅつえん}}
+
+# An [[appearance]] (as on a stage or on TV), a [[performance]].
+#: {{ja-usex|あの女優はテレビでの'''出演'''はほとんどないです。|あの じょゆう は テレビ で の '''しゅつえん''' は ほとんど ない です。|That actress has almost no TV '''appearances'''. / That actress almost never '''appears''' on TV.}}
+
+===Verb===
+{{ja-verb-suru|しゅつえん}}
+
+# {{qualifier|intransitive}} To [[appear]] (as on a stage or on TV), to [[perform]].
+#: {{ja-usex|あの 女優 は テレビ に よく '''出演''' する。|あの じょゆう は テレビ に よく '''しゅつえん''' する。|That actress often '''appears''' on TV.}}
+# {{qualifier|transitive}} To [[perform]] something (such as a play).
+#: {{ja-usex|喜劇 を '''出演''' する|きげき を '''しゅつえん''' する|'''perform''' a comedy}}
+
+====Conjugation====
+{{ja-suru|しゅつえん}}
+
+===Derived terms===
+* {{ja-r|出演者|しゅつえんしゃ}}: A [[performer]], a [[cast]] [[member]]; {{qualifier|collectively}} the [[cast]].
+* {{ja-r|出演契約|しゅつえんけいやく}}: A [[booking]] (to appear or perform).
+* {{ja-r|出演料|しゅつえんりょう}}: A [[performance]] or [[appearance]] [[fee]].
+
+===References===
+* {{R:Shogakukan}}
+
+[[hu:出演]]
+[[mg:出演]]
+[[zh:出演]]

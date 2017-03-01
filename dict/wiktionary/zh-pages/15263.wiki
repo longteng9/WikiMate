@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=60|rad=彳|as=06|sn=9|four=27220|canj=HOPA|ids=⿰彳旬}}
+
+# [[comply]] with, [[follow]]
+# [[display]]
+
+====References====
+* {{Han ref|kx=0366.110|dkj=10091|dj=0687.050|hdz=20819.210|uh=5F87|ud=24455|bh=ABE0|bd=44000}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xùn
+|c=seon1,seon6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不徇顏面|徇公忘己|徇公滅私|徇務|徇國忘家|徇國忘己|徇國忘身|徇地|徇情|徇情枉法|徇私|徇私作弊|徇私廢公|徇私舞弊|徇罰|徇義|徇行|徇通|徇首|徇齊|烈士徇名|瞻徇|貪夫徇財}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=彳06}}
+
+# {{defn|lang=ja|sort=彳06}}
+
+====Readings====
+* {{ja-readings|on=[[しゅん]] (shun), [[じゅん]] (jun)|kun=[[となえる]] (tonaeru), [[あまねし]] (amaneshi), [[したがう]] (shitagau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=순|eumhun=|rv=sun|mr=sun|y=swun}}
+
+# {{defn|lang=ko|sort=彳06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=彳06|hanviet=[[toang]], [[toạng]], [[tuân]], [[tuẫn]]}}
+
+# {{defn|lang=vi|sort=彳06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5f87 Nom Foundation]
+
+[[fr:徇]]
+[[hu:徇]]
+[[mg:徇]]
+[[ja:徇]]
+[[pl:徇]]
+[[th:徇]]
+[[zh:徇]]

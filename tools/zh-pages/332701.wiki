@@ -1,0 +1,12 @@
+==Japanese==
+{{ja-kanjitab|しゅつ|じ|すう|yomi=o}}
+
+===Etymology===
+[[出]] ([[out]]) + [[次数]] ([[degree]])
+
+===Noun===
+{{ja-noun|しゅつじすう}}
+
+# {{lb|ja|graph theory}} [[outdegree]]
+
+[[Category:ja:Graph theory|しゆつしすう]]

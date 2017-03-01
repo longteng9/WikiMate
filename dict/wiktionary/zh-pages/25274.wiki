@@ -1,0 +1,101 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=09|sn=15|four=44430|canj=TNOK|ids=⿱艹癸}}
+
+# [[sunflower]]
+# [[measure]]
+
+====References====
+* {{Han ref|kx=1046.200|dkj=31458|dj=1507.180|hdz=53258.140|uh=8475|ud=33909|bh=B8AA|bd=47274}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艸|alt1=艹|t1=grass, plant|癸|ls=psc|c1=s|c2=p}} – a kind of plant.
+
+===Pronunciation===
+{{zh-pron
+|m=kuí
+|c=kwai4
+|mn=khôe
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|錦葵|落葵|蒲葵|蜀葵|憂葵|天竺葵|向日葵|拔葵去織|拔葵|拔葵啖棗|扇葉蒲葵|海葵|洛神葵|龍葵|葵傾|葵花子|葵花|蒲葵扇|魯女憂葵|茙葵|葵扇|露葵|葵藿|鳧葵|蔠葵|菟葵}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=艸09}}
+
+====Readings====
+{{ja-readings|kanon=[[き]] (ki)|goon=[[ぎ]] (gi)|kun=[[あおい]] (aoi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|山葵|わさび}}: [[wasabi]]
+{{der-bottom}}
+
+{{ja-kanjitab|あおい|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|あおい|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|あおい|hhira=あふひ}}
+
+# [[hollyhock]]
+
+===Proper noun===
+{{ja-pos|あおい|proper}}
+
+# {{given name|male|or=female|lang=ja|sort=あおい}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=규|eumhun=|rv=gyu|mr=kyu|y=kyu}}
+
+# {{defn|lang=ko|sort=艸09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quỳ]]|rs=艸09}}
+
+# {{defn|lang=vi|sort=艸09}}
+
+[[fr:葵]]
+[[ko:葵]]
+[[li:葵]]
+[[hu:葵]]
+[[mg:葵]]
+[[ja:葵]]
+[[no:葵]]
+[[pl:葵]]
+[[th:葵]]
+[[vi:葵]]
+[[zh:葵]]

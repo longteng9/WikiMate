@@ -1,0 +1,29 @@
+==Japanese==
+{{DEFAULTSORT:しゅくじくん'}}
+{{ja-kanjitab|じゅく|じ|くん|yomi=o}}
+{{wikipedia|lang=ja}}
+
+===Etymology===
+Compound of {{compound|ja|熟字|tr1=jukuji|t1=compound|訓|tr2=kun|t2=kun'yomi}}{{rfv-etymology|ja}}.
+
+===Pronunciation===
+{{ja-pron|y=go|じゅくじくん|acc=3|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|じゅくじくん}}
+
+# A [[kanji]] [[compound]] whose characters are used for meaning without regard to sound, such as {{ja-r|今日|きょう|today}}.
+
+====Synonyms====
+* {{ja-r|義%訓|ぎ%くん}}
+
+====See also====
+* [[:Category:Japanese terms spelled with jukujikun]]
+* [[:ja:Category:熟字訓]] – category at Japanese wikipedia
+* [[:ja:Wiktionary:常用漢字の一覧#付表]] – a list
+* {{ja-r|当て字|あてじ}}
+
+===References===
+<references/>
+
+[[ja:熟字訓]]

@@ -1,0 +1,110 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=9}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=60|rad=彳|as=06|sn=9|four=27232|canj=HOAV|ids=⿰彳艮}}
+
+====References====
+* {{Han ref|kx=0366.130|dkj=10093|dj=0687.070|hdz=20822.010|uh=5F88|ud=24456|bh=ABDC|bd=43996}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|彳|艮|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=hěn
+|ma=y
+|c=han2
+|h=pfs=hàn
+|mn=hún
+|w=2hen
+|mc=y
+|oc=y
+|cat=v,n,a,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} to [[disobey]]; to [[defy]]
+# to [[try]] to one's [[utmost]]
+# {{†}} {{zh-alt-form|狠|[[cruel]]; [[savage]]; [[inhumane]]}}
+# {{†}} [[struggle]]; [[dispute]]
+# [[very]]; [[rather]]; [[quite]]
+#: {{zh-x|他 很 高興。|He is '''very''' happy.}}
+#: {{zh-x|我 很 喜歡。|I like it '''very much'''.}}
+#: {{zh-x|我 喜歡 得{de} 很。|I like it '''very much'''.}}
+# {{lb|zh|when linking a noun and an adjective}} to [[be]]
+#: {{zh-x|我 很 餓。|I am '''hungry'''.}}
+
+====Usage notes====
+* In Chinese, {{zh-l|是}} cannot be used to mean ''to be'' if it is followed by an adjective. In those case, {{lang|zh|是}} is replaced by {{zh-l|很}}. Depending on the context, it will be translated to ''is very'' or simply to ''to be''.
+*: {{zh-x|他 很 高興。|He is (very) happy.}}
+
+====Synonyms====
+{{zh-dial}}
+
+===Compounds===
+{{zh-der|很少|得很|很多|傲很|很是|鬥很}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=彳06}}
+
+# {{defn|lang=ja|sort=彳06}}
+
+====Readings====
+* {{ja-readings|on=[[こん]] (kon)|kun=[[もとる]] (motoru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=흔|eumhun=|rv=heun|mr=hŭn|y=hun}}
+
+# {{defn|lang=ko|sort=彳06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''很''' ([[ngận]], [[hẩn]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[da:很]]
+[[de:很]]
+[[fr:很]]
+[[ko:很]]
+[[io:很]]
+[[it:很]]
+[[lt:很]]
+[[hu:很]]
+[[mg:很]]
+[[fj:很]]
+[[nl:很]]
+[[ja:很]]
+[[no:很]]
+[[pl:很]]
+[[ta:很]]
+[[th:很]]
+[[chr:很]]
+[[uk:很]]
+[[zh:很]]

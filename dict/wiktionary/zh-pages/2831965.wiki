@@ -1,0 +1,79 @@
+{{also|确认}}
+==Chinese==
+{{zh-forms|s=确认}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=quèrèn
+|c=kok3 jing6
+|h=pfs=khok-ngin
+|mn=qz,tp,xm:khak-līn/kh,zz:khak-jīn
+|ma=Zh-quèrèn.ogg
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[confirmation]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[confirm]]; to [[verify]]; to [[affirm]]; to [[acknowledge]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|かく|にん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|かくにん|y=o}}
+
+===Noun===
+{{ja-noun|かくにん}}
+
+# [[confirmation]]
+#: {{ja-usex|ご予約内容確認|ご-よやく ないよう かくにん|confirmation of the details of one's reservation}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|かくにん}}
+
+# [[confirm]], [[make sure]], [[check]], [[verify]]
+#: {{ja-usex|ブラウザのバージョンを確認する|ブラウザ の バージョン を かくにん する|check the version of your browser}}
+#: {{ja-usex|使えるかどうか確認したい。|つかえる か どう か かくにん したい。|I want to make sure I can use it.}}
+
+====Conjugation====
+{{ja-suru|かくにん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=확인}}
+
+# {{hanja form of|확인|[[confirm]]}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xác nhận]]}}
+# [[confirm]], [[check]], [[verify]]
+
+[[fr:確認]]
+[[ko:確認]]
+[[li:確認]]
+[[hu:確認]]
+[[mg:確認]]
+[[ja:確認]]
+[[sv:確認]]
+[[chr:確認]]
+[[uk:確認]]
+[[zh:確認]]

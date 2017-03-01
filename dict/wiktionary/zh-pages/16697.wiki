@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=17|sn=20|four=53050|canj=QOIM|ids=⿰扌韱}}
+
+# {{defn|Han|sort=手17}}
+
+====References====
+* {{Han ref|kx=0462.500|dkj=12979|dj=0812.090|hdz=31984.150|uh=6515|ud=25877|bh=F44D|bd=62541}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=xiān
+|c=saam1,cim1
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=jiān
+|mc=
+|oc=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Etymology 3===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|mn=chhiám/chhiam
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:yue:mfccd}}
+
+[[zh-min-nan:攕]]
+[[fr:攕]]
+[[pl:攕]]
+[[th:攕]]
+[[zh:攕]]

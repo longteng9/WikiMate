@@ -1,0 +1,114 @@
+{{character info/new}}
+{{also|壮}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=33|rad=士|as=04|sn=7|four=24210|canj=VMG|ids=⿰爿士}}
+
+====Descendants====
+* [[裝]], [[奘]], [[莊]], [[𤞛]]
+
+====References====
+* {{Han ref|kx=0243.020|dkj=05643|dj=0483.040|hdz=10428.070|uh=58EF|ud=22767|bh=A7A7|bd=42919}}
+
+----
+
+==Chinese==
+{{zh-forms|s=壮}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|爿|士|c1=p|c2=s|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhuàng
+|c=zong6,zong1,zong3
+|h=pfs=chong
+|md=
+|mn=qz,tw,xm,zz:chòng/tw,xm,zz:chàng
+|mn_note=chòng - literary; chàng - vernacular
+|w=3zaan,2tsaan
+|w_note=3zaan - Zhuang (ethnicity) sense
+|mc=y
+|oc=y
+|cat=pn,a,v
+}}
+
+===Etymology 1===
+{{rfe|lang=zh}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[strong]]; [[robust]]
+# to [[strengthen]]
+
+====Compounds====
+* {{zh-l|壯大}}
+* {{zh-l|壯膽}}
+* {{zh-l|壯觀}}
+* {{zh-l|壯健}}
+* {{zh-l|壯闊}}
+* {{zh-l|壯麗}}
+* {{zh-l|壯烈}}
+* {{zh-l|壯美}}
+* {{zh-l|壯門面}}
+* {{zh-l|壯年}}
+* {{zh-l|壯實}}
+* {{zh-l|壯行}}
+* {{zh-l|壯志}}
+
+===Etymology 2===
+First written as {{zh-l|獞}} (note the "beast" radical, {{zh-l|犭}}). Following the foundation of the PRC it was written as {{zh-l|僮}} (with a "person" radical, {{zh-l|亻}}). Due to the derogatory connotations of the previous characters, it was officially amended to {{lang|zh|壯}}／{{lang|zh|壮}} ("strong; robust") in 1965.
+
+====Definitions====
+{{zh-hanzi}}
+
+# the [[Zhuang]], an ethnic group living primarily in [[Guangxi]], China
+#: {{zh-x|^廣西 壯族 自治區|Guangxi Zhuang Autonomous Region}}
+
+====Compounds====
+* {{zh-l|壯語}}
+* {{zh-l|壯族}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=士04}}
+
+# {{defn|lang=ja|sort=士04}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[さかん]] (sakan)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=장}}
+
+# {{defn|lang=ko|sort=士04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tráng]], [[trắng]]|rs=士04}}
+
+# {{defn|lang=vi|sort=士04}}
+
+[[fr:壯]]
+[[ko:壯]]
+[[li:壯]]
+[[hu:壯]]
+[[mg:壯]]
+[[ms:壯]]
+[[ja:壯]]
+[[pl:壯]]
+[[th:壯]]
+[[zh:壯]]

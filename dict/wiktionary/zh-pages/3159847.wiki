@@ -1,0 +1,33 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Senses 1-3 are {{zh-compound|棒|子|club, stick|''diminutive suffix''|tr2=zi|nocap=y}}.
+
+The origin of sense (4) is a matter of debate. A similar use was attested in the 17–18th century book ''Liaozuo Travelogue'' (《遼左見聞錄》), where it referred to the "Koreans born of illegitimate affairs between officials and prostitutes", who were discriminated against by the populace. Hence compare Korean {{ko-l|백정|白丁|former outcast group in Korea}}. The 1751 book ''The Picture Album of Subordinate Peoples of the Qing Dynasty'' (《皇清職貢圖》) noted {{zh-l|高麗棒子|Goryeo ''bangzi''}} as a colloquial name for Koreans. See the Chinese Wikipedia page {{w2|zh|高麗棒子}} for more.
+
+===Pronunciation===
+{{zh-pron
+|m=bàngzi
+|c=paang5 zi2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[club]]; [[stick]] {{gloss|short and thick}}
+# {{lb|zh|dialectal}} [[corn]]; [[maize]]
+# {{lb|zh|dialectal}} [[bottle]]
+# {{lb|zh|slang|pejorative}} a [[Korean]] person; [[gook]]
+
+====Synonyms====
+* {{sense|club}} {{zh-l|棒}}, {{zh-l|棍}}, {{zh-l|棍子}}, {{zh-l|杖}}, {{zh-l|棍棒}}
+* {{sense|corn}}
+{{zh-dial|玉米}}
+* {{sense|bottle}} {{zh-l|瓶子}}, {{zh-l|瓶}}
+* {{sense|a Korean person}} {{zh-l|高麗棒子}}, {{zh-l|韓棒子}}, {{zh-l|思密達}}, {{zh-l|二鬼子}}
+
+[[hu:棒子]]
+[[mg:棒子]]
+[[zh:棒子]]

@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=06|sn=9|four=76808|canj=SORC|ids=⿸尺只}}
+
+# [[foot]] [[measure]] during the [[w:Zhou dynasty|Zhou dynasty]]
+
+====References====
+* {{Han ref|kx=0186.150|dkj=03542|dj=0405.360|hdz=10624.010|uh=54AB|ud=21675|bh=ABA4|bd=43940}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǐ
+|c=zi2
+|mn=qz,tw,xm,zz:chí
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口06}}
+
+# {{defn|lang=ja|sort=口06}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[た]] (ta)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=지|rv=ji|mr=chi}}
+
+# {{defn|lang=ko|sort=口06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chỉ]]|rs=口06}}
+
+# {{defn|lang=vi|sort=口06}}
+
+[[fr:咫]]
+[[ko:咫]]
+[[li:咫]]
+[[hu:咫]]
+[[mg:咫]]
+[[ja:咫]]
+[[pl:咫]]
+[[th:咫]]
+[[zh:咫]]

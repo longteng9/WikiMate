@@ -1,0 +1,36 @@
+{{also|將棋}}
+==Chinese==
+{{zh-see|將棋}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|ぎ|yomi=o}}
+
+===Noun===
+{{ja-noun|しょうぎ|kyu=將棋|hhira=しやうぎ}}
+
+# [[shogi]] (Japanese chess)
+# any of several [[w:Shogi variant|shogi variants]] that are (or have been) played in Japan and elsewhere
+# any other [[w:Chess variant|chess variant]] such as western [[chess]], [[xiangqi]] (Chinese chess) [[chaturanga]], janggi (Korean chess), [[shatranj]], [[makruk]], etc.
+
+[[Category:ja:Shogi]]
+
+====Synonyms====
+* {{sense|shogi}} {{l|ja|日本将棋}}, {{l|ja|本将棋}}
+
+====Derived terms====
+* {{ja-r|詰め将棋|つめしょうぎ}}: shogi mating problem
+
+====See also====
+* {{ja-r|王手|おうて}}: [[check]]
+* {{ja-r|詰み|つみ}}: [[checkmate]]
+* {{ja-r|禁じ手|きんじて}}: [[forbidden]] [[move]]s
+* {{ja-r|千日手|せんにちて}}: never-ending moves (''one of the forbidden moves'')
+* {{ja-r|二歩|にふ}}: placing two [[pawn]]s on the same straight line (''one of the forbidden moves'')
+* {{ja-r|持将棋|じしょうぎ}}: impasse, mutual entering kings
+
+[[af:将棋]]
+[[ja:将棋]]
+[[th:将棋]]
+[[zh:将棋]]

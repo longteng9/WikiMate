@@ -1,0 +1,65 @@
+{{also|犹太}}
+==Chinese==
+{{zh-forms|s=犹太}}
+
+===Etymology===
+Ultimately from {{der|zh|he|יְהוּדָה|tr=yehudá}}. Compare {{zh-l|猶大}}.
+
+===Pronunciation===
+{{zh-pron
+|m=Yóutài
+|c=jau4 taai3
+|h=pfs=Yù-thai
+|md=Iù-tái
+|mn=Iû-thài
+|w=3hhieu tha
+|cat=a,pn
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[Jewish]]
+
+====Derived terms====
+{{zh-der|猶太人|猶太教}}
+
+===Proper noun===
+{{zh-propn}}
+
+# [[Judea]]
+
+===Descendants===
+{{cjkv||||Do thái}}
+----
+
+==Japanese==
+{{ja-kanjitab|sort=ゆだや|yomi=irr|ゆ|たい|k2=だや}}
+
+===Etymology===
+From {{der|ja|sort=ゆだや|la|Iūdaea}}.<ref>{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref>{{R:Daijisen}}</ref> Alternatively, originally from {{der|ja|sort=ゆだや|nl|Judea}},<ref name="SMK5">{{R:Shinmeikai5}}</ref> followed by a later shift in pronunciation likely influenced by the ultimate {{etyl|la|-}} [[etymon]] {{m|la|Iūdaea}}.
+
+The spelling is an example of {{ateji|sort=ゆだや}}, from {{der|sort=ゆだや|ja|zh|猶太}}.
+
+===Pronunciation===
+{{ja-pron|y=i|ユダヤ|acc=1|acc_ref=SMK5,NHK}}
+
+===Proper noun===
+{{ja-pos|proper|ユダヤ}}
+
+# {{obsolete spelling of|lang=ja|ユダヤ|sort=ゆだや||[[Judea]]}}
+
+===References===
+<references/>
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Adjective===
+{{vi-hantu}}
+
+# {{han tu form of|Do thái|[[Jewish]]}}
+
+[[ko:猶太]]

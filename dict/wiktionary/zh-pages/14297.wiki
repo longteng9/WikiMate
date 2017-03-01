@@ -1,0 +1,62 @@
+{{character info/new}}
+{{also|尚}}
+==Translingual==
+
+===Alternative forms===
+* {{l|mul|尚}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|八|向|c1=s|c2=p|ls=psc}}.
+
+===Han character===
+{{Han char|rn=42|rad=小|as=05|sn=8|four=|canj=FBR,XXFBR|ids=⿱小冋}}
+
+====References====
+* {{Han ref|kx=0297.110|dkj=07493|hdz=10563.050|uh=5C19|ud=23577}}
+
+----
+
+==Chinese==
+{{zh-see|尚|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=小05}}
+
+# {{alternative form of|尚|lang=ja}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=상|rv=sang|mr=sang}}
+
+# {{defn|lang=ko|sort=小05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=小05|hanviet=[[thượng]], [[chuộng]], [[sượng]], [[thằng]]}}
+
+# {{defn|lang=vi|sort=小05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5c19 Nom Foundation]
+
+[[fr:尙]]
+[[ko:尙]]
+[[li:尙]]
+[[hu:尙]]
+[[pl:尙]]
+[[th:尙]]
+[[zh:尙]]

@@ -1,0 +1,28 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{DEFAULTSORT:のうこうそく}}
+{{ja-kanjitab|のう|こう|そく|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|のうこうそく|acc=3|acc_ref=NHK|y=o}}
+
+===Noun===
+{{ja-noun|kyu=腦梗塞|のうこうそく|hhira=なうかうそく}}
+
+# {{lb|ja|neurology|pathology}} a [[stroke]]; a [[cerebrovascular accident]]; a [[cerebrovascular insult]]
+
+====Hypernyms====
+* {{ja-r|梗%塞|こう%そく|[[infarction]]}}
+
+====Hyponyms====
+* {{ja-r|ラクナ梗%塞|ラクナ こう%そく|[[lacunar]] infarction}}
+
+====Coordinate terms====
+* {{ja-r|心%筋%梗%塞|しん%きん% こう%そく|[[heart attack]]}}
+
+===References===
+<references/>
+
+[[cs:脳梗塞]]
+[[mg:脳梗塞]]
+[[chr:脳梗塞]]

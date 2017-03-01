@@ -1,0 +1,16 @@
+==Japanese==
+{{ja-kanjitab|わ|せい|yomi=on}}
+
+===Etymology===
+{{m|ja|和||Japanese|tr=わ, wa|sc=Jpan}}
++ {{m|ja|製||made|tr=せい, sei|sc=Jpan}}
+
+===Noun===
+{{ja-noun|わせい}}
+
+# Something Japanese-made.
+
+====Derived terms====
+* {{ja-r|和製漢語|わせい かんご}}: Japanese-made Chinese words/compounds
+* {{ja-r|和製英語|わせい えいご}}: Japanese-made English words
+* {{ja-r|和製外来語|わせい がいらいご}}

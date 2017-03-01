@@ -1,0 +1,181 @@
+{{character info/new}}
+{{also|州|巛}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=47|rad=巛|as=00|sn=3|var=2|four=22000|canj=LLL}}
+
+====Descendants====
+* [[つ]]
+* [[ツ]]
+
+====References====
+* {{Han ref|kx=0323.230|dkj=08673|dj=0624.070|hdz=10032.020|uh=5DDD|ud=24029|bh=A474|bd=42100}}
+
+[[Category:Han characters from which hiragana were derived|つ]]
+[[Category:Han characters from which katakana were derived|ツ]]
+
+----
+
+==Chinese==
+{{zh-forms|川}}
+
+===Glyph origin===
+{{Han etym}}
+{{liushu|p}} – compare {{och-l|水}}.
+
+===Pronunciation===
+{{zh-pron
+|m=chuān
+|m-s=cuan1
+|c=cyun1
+|h=pfs=chhôn
+|mn=chhoan
+|w=1tshoe
+|mc=y
+|oc=y
+|cat=n,v,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[river]]; [[stream]]; [[brook]]
+# {{lb|zh|of water}} to [[flow]]
+# to [[boil]] [[food]] for a short time in water
+# {{zh-short|四川|[[Sichuan]] Province, China}}
+
+====See also====
+* {{zh-l|河}}
+* {{zh-l|江}}
+* {{zh-l|溪}}
+
+===Compounds===
+{{zh-der|一馬平川|三川|中川|伊川|信濃川|八水三川|冰川|名山大川|四川|大川|大金川|大陸冰川|山川|川劇|川后|川土|川堂|川崎|川崎症|川柳|川椒|川流|川流不息|川渟嶽峙|川澤|川澤納汙|川瀆|川穀|川端康成|川芎|川貝|川費|川資|川軍|川連|川陸|川鹽|巨川|常川|平川|河川|河川襲奪|流血成川|潁川|百川|百川學海|百川歸海|盤川|眠川|眾川赴海|秦川|秦川女|臨川羨魚|芥川賞|荊川集|跋山涉川|跋涉山川|輞川|逝川|金川|銀川|長川|麓川}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=1|rs=巛00}}
+
+# [[river]]
+
+====Readings====
+{{ja-readings
+|goon=[[せん]] (sen)
+|kanon=[[せん]] (sen)
+|kun=[[かわ]] (kawa), {{qualifier|historical}} [[かは]] (kaha)
+|nanori=[[か]] (ka), [[こ]] (ko), [[さわ]] (sawa)
+}}
+
+====Compounds====
+{{der-top3|Compounds}}
+* {{ja-r|川上|かわかみ}}: upstream
+* {{ja-r|川下|かわしも}}: downstream
+* {{ja-r|川岸|かわぎし}}: river bank
+* {{ja-r|川口|かわぐち}}: mouth of river
+* {{ja-r|川崎|^かわさき}}: Kawasaki
+* {{ja-r|川瀬|かわせ}}: rapids
+* {{ja-r|川蝉|かわせみ}}: kingfisher
+* {{ja-r|川端|かわばた}}: riverbank
+* {{ja-r|川縁|かわぶち}}, {{ja-r|川縁|かわべり}}: riverside
+{{der-mid3}}
+* {{ja-r|川嫁|かわよめ}}: a river [[nymph]]
+* {{ja-r|川原|かわら}}: a riparian plain, the flats alongside a river
+* {{ja-r|川柳|せんりゅう}}: comic haiku
+* {{ja-r|小川|おがわ}}: brook
+* {{ja-r|河川|かせん}}: rivers
+* {{ja-r|山川|さんせん}}: mountains and rivers
+* {{ja-r|滝川|たきがわ}}: rapids
+* {{ja-r|谷川|たにがわ}}: mountain stream
+{{der-mid3}}
+* {{ja-r|堀川|ほりかわ}}: canal
+* {{ja-r|淀川|よどがわ}}: the Yodogawa River in Japan
+* {{ja-r|川下り|かわくだり}}: going downstream
+* {{ja-r|川沿い|かわぞい}}: along the river
+* {{ja-r|ドン川|^ドンがわ}}: the Don River
+* {{ja-r|天の川|あまのがわ}}: Milky Way
+* {{ja-r|江戸川|^えどがわ}}: the Edo River
+* {{ja-r|河川敷|かせんしき}}: riverbed
+{{der-bottom}}
+
+===Noun===
+{{ja-noun|かわ|hhira=かは}}
+
+# [[river]], [[stream]], [[brook]]
+
+====Synonyms====
+* {{ja-r|河川|かせん}}
+
+====Alternative forms====
+* {{l|ja|河}}
+
+===Suffix===
+{{ja-pos|かわ|hhira=かは|suffix}}
+
+# the ... [[river]], used in named of rivers or streams
+
+{{ja-pos|がわ|hhira=がは|suffix}}
+
+# the ... [[river]]
+
+[[Category:Japanese basic words|かわ']]
+[[Category:ja:Rivers]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=천|eumhun=내|rv=cheon|mr=ch'ŏn}}
+
+# {{defn|lang=ko|sort=巛00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xuyên]], [[xiên]]|rs=巛00}}
+
+# {{defn|lang=vi|sort=巛00}}
+
+[[Category:CJKV radicals| ]]
+
+[[cs:川]]
+[[de:川]]
+[[el:川]]
+[[es:川]]
+[[fr:川]]
+[[ko:川]]
+[[it:川]]
+[[kn:川]]
+[[lo:川]]
+[[la:川]]
+[[lb:川]]
+[[lt:川]]
+[[li:川]]
+[[hu:川]]
+[[mg:川]]
+[[ms:川]]
+[[na:川]]
+[[fj:川]]
+[[nl:川]]
+[[ja:川]]
+[[no:川]]
+[[km:川]]
+[[pl:川]]
+[[pt:川]]
+[[ru:川]]
+[[sk:川]]
+[[fi:川]]
+[[sv:川]]
+[[th:川]]
+[[chr:川]]
+[[tr:川]]
+[[uk:川]]
+[[vi:川]]
+[[zh:川]]

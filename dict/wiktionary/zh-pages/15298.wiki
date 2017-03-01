@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=60|rad=彳|as=09|sn=12|four=22264|canj=HOHJU|ids=⿰彳盾}}
+
+# [[obey]], [[comply]] with, [[follow]]
+
+====References====
+* {{Han ref|kx=0369.280|dkj=10187|dj=0696.020|hdz=20835.040|uh=5FAA|ud=24490|bh=B460|bd=46176}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|彳|t1=movement|盾|ls=psc|c1=s|c2=p}} – to follow (movement).
+
+===Pronunciation===
+{{zh-pron
+|m=xún
+|c=ceon4
+|h=pfs=
+|md=
+|mn=sûn
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=彳09}}
+
+# sequential
+
+====Readings====
+* {{ja-readings|goon=[[じゅん]] (jun)|kanon=[[しゅん]] (shun) {{non-joyo-reading}}|kun=[[したがう]] (shitagau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=순|eumhun=|rv=sun|mr=sun|y=swun}}
+
+# {{defn|lang=ko|sort=彳09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tuần]]|rs=彳09}}
+
+# {{defn|lang=vi|sort=彳09}}
+
+[[zh-min-nan:循]]
+[[fr:循]]
+[[ko:循]]
+[[hu:循]]
+[[mg:循]]
+[[ja:循]]
+[[no:循]]
+[[pl:循]]
+[[th:循]]
+[[zh:循]]

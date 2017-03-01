@@ -1,0 +1,69 @@
+{{character info/new}}
+{{also|川|巜|«}}
+==Translingual==
+{{stroke order|type=animate}}
+===Etymology===
+{{Han etyl}}
+===Han character===
+{{Han char|rn=47|rad=巛|as=00|sn=3|four=|canj=VVV,XVVV|ids=⿲𡿨𡿨𡿨}}
+
+# [[river]]
+# {{mul-kangxi radical-def}}
+
+====References====
+* {{Han ref|kx=0323.180|dkj=08669|dj=0624.030|hdz=21097.080|uh=5DDB|ud=24027}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chuān
+|c=cyun1
+|h=pfs=chhon
+|mn=chhoan/chhng
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=n
+}}
+
+====References====
+* [http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=巛00}}
+
+# {{defn|lang=ja|sort=巛00}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen)|kun=[[かわ]] (kawa)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xuyên]], [[sào]]|rs=巛00}}
+
+# {{defn|lang=vi|sort=巛00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:巛]]
+[[ko:巛]]
+[[li:巛]]
+[[hu:巛]]
+[[mg:巛]]
+[[mn:巛]]
+[[ja:巛]]
+[[pl:巛]]
+[[th:巛]]
+[[zh:巛]]

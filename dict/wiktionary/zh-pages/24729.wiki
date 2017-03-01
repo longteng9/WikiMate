@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|櫓|舻}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=137|rad=舟|as=16|sn=22|four=21417|canj=HYYPT|ids=⿰舟盧}}
+
+# [[bow]] or [[prow]] of [[boat]]
+
+====References====
+* {{Han ref|kx=1013.110|dkj=30582|dj=1472.040|hdz=53069.210|uh=826B|ud=33387|bh=F746|bd=63302}}
+
+----
+
+==Chinese==
+{{zh-forms|s=舻}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lú
+|c=lou4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|舳艫|舳艫千里|舳艫啣接|舳艫相繼|軸艫千里}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=舟16}}
+
+# {{defn|lang=ja|sort=舟16}}
+
+====Readings====
+* {{ja-readings|goon=[[る]] (ru)|kanon=[[ろ]] (ro)|kun=[[へさき]] (hesaki), [[とも]] (tomo)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[로]]>[[노]]|eumhun=|rv=ro>no|mr=ro>no|y=lo>no}}
+
+# {{defn|lang=ko|sort=舟16}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lỗ]]|rs=舟16}}
+
+# {{defn|lang=vi|sort=舟16}}
+
+[[fr:艫]]
+[[hu:艫]]
+[[mg:艫]]
+[[ja:艫]]
+[[pl:艫]]
+[[th:艫]]
+[[zh:艫]]

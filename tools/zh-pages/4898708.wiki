@@ -1,0 +1,40 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Semantics}}
+</div>
+{{ja-kanjitab|yomi=o|い|み|ろん}}
+
+===Etymology===
+Combination of {{suffix|ja|sort=いみろん|意味|論|tr1=imi|t1={{l|en|meaning}}|tr2=ron|t2={{l|en|theory}}}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=goon|いみろん|acc=2|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|いみろん}}
+
+# {{l|en|semantics}} {{qualifier|as a field of study}}, {{l|en|semasiology}}
+
+====Usage notes====
+Use the term {{m|ja|意味|tr=imi}} to express the {{m|en|meaning}} sense of {{m|en|semantics}}, as in ''“the '''semantics''' of this conjugation of the verb verb suggest...”''
+
+===Descendants===
+* Korean: {{ko-l|의미론}}
+
+===References===
+<references/>
+
+{{C|ja|Semantics|sort=いみろん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=의미론|mr=ŭimiron|y=ūymilon}}
+
+# {{hanja form of|의미론|[[semantics]]}}
+
+[[ko:意味論]]

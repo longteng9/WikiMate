@@ -1,0 +1,127 @@
+{{character info/new}}
+{{also|沟}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=10|sn=13|four=35147|canj=ETTB|ids=⿰氵冓}}
+
+# [[ditch]], [[drain]], [[narrow]] [[waterway]]
+# 10<sup>32</sup>
+
+====Descendants====
+* [[沟]]
+
+====References====
+* {{Han ref|kx=0639.340|dkj=17944|dj=1046.220|hdz=31692.060|uh=6E9D|ud=28317|bh=B7BE|bd=47038}}
+
+====See also====
+* ''Chinese numeral'' '''溝'''
+** '''Last:''' [[穰]], [[穣]]
+** '''Next:''' [[澗]], [[涧]]
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Chinese==
+{{zh-forms|s=沟}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|冓|c1=s|c2=p|alt1=氵|t1=water|ls=psc}} – a ditch or drain for water.
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=gōu
+|ma=Zh-gou.ogg
+|c=kau1,gau1
+|h=pfs=kiêu
+|md=
+|mn=kau/ko͘
+|mn_note=kau - vernacular; ko͘ - literary
+|mc=y
+|oc=y
+|cat=n,c:v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[ditch]]; [[drain]]; [[narrow]] [[waterway]]
+# {{lb|zh|Cantonese}} to [[mix]]
+#: {{zh-x|溝{kau1}埋|to mix together|C}}
+
+===Etymology 2===
+{{zh-pron
+|m=kòu
+|c=
+|h=
+|md=
+|mn=
+|mc=
+|oc=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only used in|溝瞀}}
+
+===Etymology 3===
+{{zh-see|港|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水10}}
+
+====Readings====
+* {{ja-readings|goon=[[く]] (ku)|kanon=[[こう]] (kō)|kun=[[みぞ]] (mizo)}}
+
+===Noun===
+{{ja-noun|みぞ}}
+
+# a [[ditch]]
+# a [[groove]]
+# a [[gulf]]; a [[gap]]
+
+===Number===
+{{ja-pos|numeral symbol|こう}}
+
+# A number of 10<sup>32</sup> in modern Japanese since 17th century.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# {{defn|lang=ko|sort=水10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|câu|rs=水10}}
+
+# {{defn|lang=vi|sort=水10}}
+
+[[fr:溝]]
+[[ko:溝]]
+[[lo:溝]]
+[[li:溝]]
+[[hu:溝]]
+[[mg:溝]]
+[[ja:溝]]
+[[pl:溝]]
+[[th:溝]]
+[[chr:溝]]
+[[zh:溝]]

@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xuānyán
+|c=syun1 jin4
+|h=pfs=siên-ngièn
+|mn=qz,tw,xm:soan-giân/zz:soan-gân
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[declaration]]; [[manifesto]] {{zh-mw|m:份}}
+
+====Derived terms====
+{{zh-der|世界人權宣言}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せん|げん|yomi=on}}
+
+===Noun===
+{{ja-noun|せんげん}}
+
+# [[declaration]]
+
+===Verb===
+{{ja-verb-suru|せんげん}}
+
+# [[declare]]
+#: {{ja-usex|アザワド解放国民運動（ＭＮＬＡ）は独立を'''宣言'''した。|アザワド かいほう こくみん うんどう （ＭＮＬＡ） は どくりつ を '''せんげん''' した。|Mouvement National pour la Libération de l'Azawad (MNLA) declared independence.}}
+
+====Conjugation====
+{{ja-suru|せんげん}}
+
+[[ko:宣言]]
+[[id:宣言]]
+[[lt:宣言]]
+[[hu:宣言]]
+[[mg:宣言]]
+[[ja:宣言]]
+[[chr:宣言]]
+[[zh:宣言]]

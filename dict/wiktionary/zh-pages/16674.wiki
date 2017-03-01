@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|扰}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=15|sn=18|four=51047|canj=QMBE|ids=⿰扌憂}}
+
+# [[disturb]], [[annoy]], [[agitate]]
+
+====References====
+* {{Han ref|kx=0461.280|dkj=12920|dj=0810.340|hdz=31979.100|uh=64FE|ud=25854|bh=C25A|bd=49754}}
+
+----
+
+==Chinese==
+{{zh-forms|s=扰}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=rǎo
+|c=jiu2,jiu5
+|h=pfs=
+|md=
+|mn=qz,tp,xm:liáu/kh,zz:jiáu/qz:lǎ/xm:lā
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手15}}
+
+# {{defn|lang=ja|sort=手15}}
+
+====Readings====
+{{ja-readings|goon=[[にょう]] (nyō)|kanon=[[じょう]] (jō)|kun=[[みだれる]] (midareru), [[わずらわし]] (wazurawashi)}}
+
+====Compounds====
+* {{ja-r|動擾|どうじょう|gloss=[[motional]] [[disturbance]]}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=요|eumhun=|rv=yo|mr=yo|y=yo}}
+
+# {{defn|lang=ko|sort=手15}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhiễu]], [[nhầu]]|rs=手15}}
+
+# {{defn|lang=vi|sort=手15}}
+
+[[fr:擾]]
+[[ko:擾]]
+[[hu:擾]]
+[[ja:擾]]
+[[pl:擾]]
+[[th:擾]]
+[[vi:擾]]
+[[zh:擾]]

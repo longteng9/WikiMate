@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=06|sn=10|four=94881|canj=FTC|ids=⿰火共}}
+
+# [[bake]], [[roast]]
+# dry by fire
+
+====References====
+* {{Han ref|kx=0670.170|dkj=19012|dj=1079.090|hdz=32198.170|uh=70D8|ud=28888|bh=AF4D|bd=44877}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hōng
+|ma=Zh-hong.ogg
+|c=hung1,hung4,hong3,hung3
+|h=pfs=fûng
+|md=
+|mn=hang/hong
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火06}}
+
+# {{defn|lang=ja|sort=火06}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[ぐ]] (gu), [[きょう]] (kyō), [[く]] (ku)|kun=[[かがりび]] (kagaribi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=홍|eumhun=|rv=hong|mr=hong|y=hong}}
+
+# {{defn|lang=ko|sort=火06}}
+
+[[zh-min-nan:烘]]
+[[fr:烘]]
+[[ko:烘]]
+[[hu:烘]]
+[[mg:烘]]
+[[no:烘]]
+[[pl:烘]]
+[[th:烘]]
+[[chr:烘]]
+[[zh:烘]]

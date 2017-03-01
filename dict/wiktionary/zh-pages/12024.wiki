@@ -1,0 +1,148 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=28|rad=厶|as=03|sn=5|four=40731|canj=GI|ids=⿱土厶}}
+
+====Derived characters====
+* [[却]]
+
+====References====
+* {{Han ref|kx=0164.100|dkj=03070|dj=0372.070|hdz=10384.080|uh=53BB|ud=21435|bh=A568|bd=42344}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=㚎,弆}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|大|t1=man|口|t2=mouth, object|ls=ic}}. Top figure simplified to {{zh-l|*土}}, unrelated to {{zh-l|*士|scholar, gentleman}}, while bottom simplified to {{zh-l|*厶}}. There are various interpretations of the combination of “man” and “mouth, object”. One is that the ideograph represented a man with a hole marked in his crotch, and the inventors of writing had perhaps “anus” (i.e. getting rid of) in mind ({{zh-ref|Schuessler, 2007}}). Another is that it represented a man '''departing''' from a cave or city.
+
+Alternatively, it may be the original character of {{och-l|呿|to open one's mouth}}, the meaning given by the combination of {{zh-l|*大|big}} and {{zh-l|*口|mouth}}. The meaning “to depart” would be an extension of the meaning “to open one's mouth”, as the lips '''depart''' from each other when one's mouth is open.
+
+{{w|Shuowen Jiezi}} interprets the character as a {{Han compound|大|𠙴|t1=man|c1=s|c2=p|ls=psc|nocap=1}}.
+
+In addition, {{lang|zh|去}} is also the original character of {{och-l|盍|to cover}}. The {{zh-l|*大}} is a cover on top of an object {{zh-l|*口}}.
+
+===Etymology===
+There were two pronunciations in Middle Chinese. The rising tone pronunciation originally meant “to put away, to eliminate” (causative of “to go away”), and the falling tone “to go away, to leave, to depart” (anticausative). The merger of the two pronunciations already happened in Old Chinese and most extant dialects do not observe this distinction now.
+
+This word is of Sino-Tibetan origin with the basic meaning of "to get rid of". Compare {{cog|bo|སྐྱག||to spend, to lay out; dung, excrement}}, {{m|bo|རྐྱག||dirt, excrement}}, {{cog|my|ကျ||to fall, to become low}}, {{m|my|ချ||to put down, to bring down, to lower}}.
+
+===Pronunciation===
+{{zh-pron
+|m=qù
+|m-s=qie4/qu4
+|m-s_note=qie4 - vernacular; qu4 - literary
+|c=heoi3
+|h=pfs=hi
+|md=kó̤/ké̤ṳ
+|md_note=ké̤ṳ - "departing tone"
+|mn=xm,zz,yl,tn,kh,hc,tc:khì/qz,lk,sx,km,hc:khìr/xm,tp,mg:khù
+|mn_note=khù - suburbs of Xiamen
+|mn-t=ke3/ku3
+|mn-t_note=ke3 - Chaozhou
+|w=2qi,2qy
+|mc=y
+|oc=y
+|ma=y
+|cat=v,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[go]] to; to [[go away]]; to [[leave]]; to [[depart]]
+#: {{zh-ant|來}}
+#: {{zh-x|你 去 哪兒{r}？|Where are you going?}}
+# {{lb|zh|before or after a verb}} to go [[in order to]] do something
+#* {{zh-x|他 到 辦公室 去 請假。|He went to the office to ask for leave.}}
+#* {{zh-x|他 去 釣魚 了，而 沒 去 打 網球。|He went fishing instead of playing tennis.}}
+# to [[remove]]; to [[get rid of]]
+#* {{zh-x|去掉|to remove}}
+#* {{zh-x|脫去|to throw off}}
+#* {{zh-x|拆去|to remove, to take off}}
+# {{lb|zh|between two verbs}} [[to]]; [[in order to]]
+# {{n-g|Particle used after a verb of motion to indicates movement away from the speaker.}}
+#* {{zh-x|下去|to go down [ant. {{zh-l|下來|to come down}}]}}
+#* {{zh-x|送 去|to send away}}
+# to [[send]]; to [[dispatch]]
+# to [[play]] {{qualifier|a part, a character}}; to [[act]]
+# [[last]]; [[past]]
+#* {{zh-x|去年|last year}}
+# {{zh-short|去聲}}
+# {{lb|zh|neologism}} [[what the hell]]; [[what]]; [[damn]]; [[fuck]]
+#: {{zh-x|我去|what the hell}}
+
+===Compounds===
+{{zh-der|去年|去病|去處|去粗取精|去掉|去根|去寒|去火|去留|去路|去你的|去任|去聲|去世|去暑|去偽存真|去污|去向|去雜去劣|去職|一來二去|一去不返|三不去|上去|下不去|下去|下得去|不去|不去手|不告而去|不如歸去|不知去向|人來客去|人去樓空|以戰去戰|以殺去殺|何去何從|來千去萬|來去|來去分明|來去匆匆|來去自如|來回來去|來情去意|來蹤去影|來蹤去跡|來龍去脈|兜來兜去|出去|刮骨去毒|前去|務實去華|勝殘去殺|化去|去事|去住|去住無門|去來|去函|去勢|去危就安|去國|去天尺五|去官|去就|去就之分|去後|去得|去日|去暗投明|去本就末|去梯言|去歲|去殺勝殘|去泰去甚|去甚去泰|去蕪存菁|去邪從正|去邪歸正|去鄉|去除|否去泰來|回去|大事去矣|大勢已去|大去|大江東去|失去|姘出去|家去|左來右去|已去|平上去入|弄來弄去|想來想去|扭來扭去|抹去|拂衣而去|拂袖而去|拔去一丁|拔葵去織|挺過去|捐殘去殺|捕蛇去齒|掉頭而去|掐頭去尾|掛冠而去|推來推去|揚長而去|揮之不去|摘心去肝|撒手歸去|攪來攪去|放眼望去|故去|春來秋去|春去秋來|時來暫去|晃來晃去|暮去朝來|有來有去|朝來暮去|東來西去|歸去|歸去來兮|歸去來辭|死去活來|沒去就|浮來暫去|減去|滾來滾去|滾出去|生來死去|番來覆去|病去|盡去|直去直來|相去|相去不遠|相去咫尺|相去天淵|相去懸殊|相去無幾|相去萬里|省慾去奢|眉來眼去|眉來語去|看不下去|眼去眉來|破壁飛去|算來算去|絕裾而去|絲來線去|翻來吊去|翻來翻去|翻來覆去|臨去秋波|茹魚去蠅|衡陽雁去|褪去|覆去翻來|言來語去|說不下去|說不過去|說來說去|說得過去|豁出去|賊去關門|走來走去|踅來踅去|踱來踱去|進去|過不去|過去|過去式|過得去|過意不去|除凶去害|除去|除殘去穢|除汙去垢|陳言務去|雁去魚來|離去|霍去病|顛來倒去|高來高去|鳳去樓空|鳳去秦樓|鳳去臺空}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=厶03}}
+# to leave, to go away
+
+====Readings====
+{{ja-readings|goon=[[こ]] (ko)|kanon=[[きょ]] (kyo)|kun=[[さる]] (saru), [[いぬ]] (inu)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|去就|きょしゅう}}
+* {{ja-r|去勢|きょせい}}
+* {{ja-r|去痰|きょたん}}: [[expectoration]]
+* {{ja-r|去年|きょねん}}
+* {{ja-r|去来|きょらい}}
+* {{ja-r|除去|じょきょ}}: [[removal]], [[elimination]], [[disposal]], [[rejection]], [[relief]] (of pain, worry, pressure)
+* {{ja-r|淘去|とうきょ}}: [[washing]] [[away]]
+{{der-bottom}}
+
+====See also====
+* {{l|ja|落ちる}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=거|rv=geo|mr=kŏ}}
+
+# {{defn|lang=ko|sort=厶03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khứ]], [[khử]]|rs=厶03}}
+
+# {{defn|lang=vi|sort=厶03}}
+
+[[zh-min-nan:去]]
+[[da:去]]
+[[de:去]]
+[[fr:去]]
+[[ko:去]]
+[[lt:去]]
+[[li:去]]
+[[hu:去]]
+[[mg:去]]
+[[ms:去]]
+[[nl:去]]
+[[ja:去]]
+[[no:去]]
+[[pl:去]]
+[[ru:去]]
+[[sv:去]]
+[[ta:去]]
+[[th:去]]
+[[chr:去]]
+[[uk:去]]
+[[vi:去]]
+[[zh:去]]

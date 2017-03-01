@@ -1,0 +1,96 @@
+{{character info/new}}
+{{also|腦|脑}}
+==Translingual==
+{{Han simplified forms|腦|脳|脑}}
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=07|sn=11|four=|canj=BFUK|ids=⿰⺼⿱⺍凶}}
+
+===References===
+* {{Han ref|kx=0985.111|dkj=29567|hdz=32082.011|uh=8133|ud=33075}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=肉07|style=s|kyu=腦}}
+
+# [[brain]]
+
+====Readings====
+{{ja-readings
+|goon=[[のう]] (nō)
+|kanon=[[どう]] (dō) {{non-joyo-reading}}
+|kun=[[なずき]] (nazuki)
+}}
+
+=====Compounds=====
+{{der-top|Compounds}}
+* {{ja-r|脳幹|のうかん}}: [[brain stem]]
+* {{ja-r|脳漿|のうしょう}}: [[cerebrospinal fluid]]; [[brains]]
+* {{ja-r|脳症|のうしょう}}: [[encephalopathy]]
+{{der-bottom}}
+
+===Etymology 1===
+[[Image:Chimp Brain in a jar.jpg|thumb|220px|{{lang|ja|脳}} (''nazuki'', ''nō''): a '''[[brain]]''' in a jar.]]
+{{ja-kanjitab|yomi=kun|なずき}}
+{{IPAchar|/naduki/}} → {{IPAchar|/nad͡zuki/}} → {{IPAchar|/nazuki/}}
+
+Originally the noun stem form ''naduki'' of verb {{m|ja|漬く}} (''naduku'', modern ''nazuku'', “to be immersed in water or other liquid”).
+
+====Pronunciation====
+{{ja-pron|なずき|yomi=kun}}
+
+====Alternative forms====
+* {{ja-l|髄}}
+
+====Noun====
+{{ja-noun|なずき|hhira=なづき|style=s|kyu=腦}}
+
+# {{lb|ja|sort=なずき|archaic|anatomy}} the [[brain]]
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|68}}<ref>{{R:Shin'yaku Kegonkyō Ongi Shiki}}</ref>
+#*: {{lang|ja|髄脳 上須年 下'''奈豆技'''}}
+# by extension, the [[head]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=on|のう}}
+{{IPAchar|/nau/}} → {{IPAchar|/noː/}}
+
+From {{etyl|ltc|ja|sort=のう}} {{m|ltc|腦|tr=nɑ̌u||brain}}.
+
+====Pronunciation====
+{{ja-pron|のう|yomi=goon|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|のう|hhira=なう|style=s|kyu=腦}}
+
+# {{lb|ja|sort=のう|anatomy}} [[brain]]
+# {{lb|ja|sort=のう|figurative}} one's [[brains]], one's [[mental]] [[functioning]]
+#: {{ja-usex|あの野郎は生まれつき'''脳'''が弱い。|^あの やろう は うまれつき '''のう''' が よわい。|That guy was born [with weak '''brains'''] → dim-'''witted'''.}}
+
+===References===
+<references/>
+
+[[Category:ja:Neuroanatomy|のう]]
+
+[[be:脳]]
+[[el:脳]]
+[[fr:脳]]
+[[ko:脳]]
+[[hr:脳]]
+[[kn:脳]]
+[[lo:脳]]
+[[li:脳]]
+[[hu:脳]]
+[[mg:脳]]
+[[nl:脳]]
+[[ja:脳]]
+[[pl:脳]]
+[[pt:脳]]
+[[ro:脳]]
+[[ru:脳]]
+[[fi:脳]]
+[[th:脳]]
+[[chr:脳]]
+[[zh:脳]]

@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|けん|えつ|yomi=o}}
+
+===Noun===
+{{ja-noun|けんえつ|kyu=檢閱}}
+
+# [[censorship]]
+#* '''1950''', 宮本百合子, 「広場」について:
+#*: {{ja-usex|当時、'''検閲'''はきびしかった。|とうじ、 '''けんえつ''' は きびしかった。|Censorship was very strict at the time.}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|けんえつ|kyu=檢閱}}
+
+# to [[censor]]
+
+====Conjugation====
+{{ja-suru|けんえつ}}
+
+[[it:検閲]]
+[[hu:検閲]]
+[[sv:検閲]]
+[[zh:検閲]]

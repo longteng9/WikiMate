@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etym}}
+
+===Han character===
+{{Han char|rn=38|rad=女|as=04|sn=7|four=48427|canj=VOIN|ids=⿰女今}}
+
+# [[wife]] of [[mother]]'s [[brother]]
+
+====References====
+* {{Han ref|kx=0256.210|dkj=06087|dj=0521.010|hdz=21032.030|uh=5997|ud=22935|bh=CAB5|bd=51893}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìn
+|c=kam5
+|h=pfs=
+|md=
+|mn=kīm
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|妗母|阿妗}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女04}}
+
+# {{defn|lang=ja|sort=女04}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen), [[けん]] (ken), [[かん]] (kan), [[きん]] (kin), [[ごん]] (gon)|kun=[[うつくしい]] (utsukushii), [[よろこぶさま]] (yorokobusama)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=금|rv=geum|mr=kŭm}}
+
+# {{defn|lang=ko|sort=女04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cấm]]|rs=女04}}
+
+# {{defn|lang=vi|sort=女04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5997 Nom Foundation]
+
+[[zh-min-nan:妗]]
+[[fr:妗]]
+[[li:妗]]
+[[hu:妗]]
+[[mg:妗]]
+[[fj:妗]]
+[[pl:妗]]
+[[th:妗]]
+[[chr:妗]]
+[[zh:妗]]

@@ -1,0 +1,44 @@
+{{also|水平线}}
+==Chinese==
+{{zh-forms|s=水平线|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=shuǐpíngxiàn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[horizontal]] [[line]]; [[level]] line
+# {{lb|zh|figurative}} [[level]]; [[standard]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|すい|へい|せん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|すいへいせん|acc=0}}
+
+===Noun===
+{{ja-noun|すいへいせん|head=[[水平]][[線]]}}
+
+# [[horizon]] (''on water'')
+# a [[horizontal]] or [[level]] line (''perpendicular to the force of gravity'')
+
+====Synonyms====
+* {{sense|horizon}} {{ja-l|地平線|ちへいせん|chiheisen}}: horizon (''on land'')
+
+====Antonyms====
+* {{sense|horizontal line}} {{ja-l|鉛直線|えんちょくせん|enchokusen}}: a plumb line
+
+===References===
+* {{R:Shogakukan}}
+* {{R:Kojien}}
+
+[[ko:水平線]]
+[[hu:水平線]]
+[[mg:水平線]]
+[[ru:水平線]]

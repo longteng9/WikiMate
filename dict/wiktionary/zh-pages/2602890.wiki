@@ -1,0 +1,41 @@
+{{also|理想主义}}
+==Chinese==
+{{zh-forms|s=理想主义|type=22}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǐxiǎngzhǔyì
+|c=lei5 soeng2 zyu2 ji6
+|mn=lí-sióng-chú-gī
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[idealism]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|り|そう|しゅ|ぎ|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=りそうしゅぎ|理想|tr1=risō|t1=ideal|主義|tr2=shugi|t2=-ism}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=o|りそう しゅぎ|acc=4|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|りそう しゅぎ|hhira=りさうしゅぎ}}
+
+# [[idealism]]
+
+====Antonyms====
+* {{ja-r|現実主義|げんじつ しゅぎ}}: [[realism]]
+
+===References===
+<references/>
+
+[[ko:理想主義]]
+[[ja:理想主義]]

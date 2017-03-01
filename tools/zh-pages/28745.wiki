@@ -1,0 +1,141 @@
+{{character info/new}}
+{{also|游}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=09|sn=13|four=38304|canj=YYSD|ids=⿺辶斿}}
+
+====References====
+* {{Han ref|kx=1261.110|dkj=38994|dj=1751.140|hdz=63861.020|uh=904A|ud=36938|bh=B943|bd=47427}}
+
+----
+
+==Chinese==
+{{zh-forms|t2=游|s=游}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|辵|斿|c1=s|c2=p|t1=walk|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yóu
+|c=jau4
+|mn=qz,tw,xm,zz:iû
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[travel]]; to [[tour]]
+#: {{zh-x|遊客|traveler, tourist}}
+#: {{zh-x|旅遊|trip, travel}}
+# to [[wander]]; to [[roam]]
+#: {{zh-x|遊走|wandering, to migrate}}
+#: {{zh-x|遊民|vagrant, vagabond}}
+#: {{zh-x|遊蕩|to roam about}}
+# to [[play]]
+#: {{zh-x|遊玩|to play}}
+# to [[walk]]
+#: {{zh-x|遊行|to march}}
+# to [[associate]] with, to have [[contact]] with
+#: {{zh-x|交遊|to have friendly relationships}}
+# to [[persuade]], to [[convince]]
+#: {{zh-x|遊說{shuì}|to persuade}}
+# to [[move]] freely
+#: {{zh-x|遊刃有餘|to do something skillfully and easily}}
+# {{alternative form of|游|lang=zh}} (all senses).
+#: {{zh-l|游}}: Water-related concepts; surname.
+#: {{zh-l|*遊}}: All other senses.
+
+====Compounds====
+{{der3
+|{{zh-l|遊人}}
+|{{zh-l|遊俠}}
+|{{zh-l|遊刃有餘}}
+|{{zh-l|遊動}}
+|{{zh-l|遊動哨}}
+|{{zh-l|遊園會}}
+|{{zh-l|遊子}}
+|{{zh-l|遊學}}
+|{{zh-l|遊客}}
+|{{zh-l|遊山玩水}}
+|{{zh-l|遊廊}}
+|{{zh-l|遊弋}}
+|{{zh-l|遊戲}}
+|{{zh-l|遊手好閒}}
+|{{zh-l|遊擊}}
+|{{zh-l|遊擊區}}
+|{{zh-l|遊擊戰}}
+|{{zh-l|遊擊隊}}
+|{{zh-l|遊樂}}
+|{{zh-l|遊樂場}}
+|{{zh-l|遊歷}}
+|{{zh-l|遊民}}
+|{{zh-l|遊牧}}
+|{{zh-l|遊玩}}
+|{{zh-l|遊禽}}
+|{{zh-l|遊移}}
+|{{zh-l|遊興}}
+|{{zh-l|遊蕩}}
+|{{zh-l|遊藝}}
+|{{zh-l|遊藝會}}
+|{{zh-l|遊行}}
+|{{zh-l|遊街}}
+|{{zh-l|遊覽}}
+|{{zh-l|遊記}}
+|{{zh-l|遊說}}
+|{{zh-l|遊資}}
+|{{zh-l|遊蹤}}
+|{{zh-l|遊逛}}
+|{{zh-l|遊離}}
+|{{zh-l|遊離電子}}
+|{{zh-l|郊遊}}
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=辵09}}
+
+# [[to]] [[play]]
+
+====Readings====
+* {{ja-readings|goon=[[ゆ]] ([[yu]])|kanon=[[ゆう]] ([[yū]])|kun=[[あそぶ]] ([[遊ぶ]], [[asobu]]), [[あそび]] ([[遊び]], [[asobi]]), [[すさび]] ([[susabi]])}}
+
+====Compounds====
+* [[遊園地]] ([[ゆうえんち]], [[yūenchi]]): [[amusement park]]
+* [[遊戯]] ([[ゆうぎ]], [[yūgi]]): [[play]]
+* [[遊泳]] ([[ゆうえい]], [[yūei]]): [[swimming]] ([[free swim]], not for athletes)
+* [[遊廓]] ([[yūkaku]]), "[[pleasure quarters]]" ([[Yoshiwara]] et. al.)
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=유|eumhun=|rv=yu|mr=yu|y=yu}}
+
+# {{defn|lang=ko|sort=辵09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[du]]|rs=辵09}}
+
+# {{defn|lang=vi|sort=辵09}}
+
+[[fr:遊]]
+[[ko:遊]]
+[[hu:遊]]
+[[mg:遊]]
+[[ja:遊]]
+[[pl:遊]]
+[[fi:遊]]
+[[th:遊]]
+[[zh:遊]]

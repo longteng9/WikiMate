@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|锒|銀}}
+==Translingual==
+===Glyph origin===
+{{Han etym}}
+{{Han compound|金|良|alt1=釒}}.
+
+===Han character===
+{{Han char|rn=167|rad=金|as=07|sn=15|four=83132|canj=CIAV}}
+
+# lock
+# lanthanum
+
+====Descendants====
+* [[锒]]
+
+====References====
+* {{Han ref|kx=1306.220|dkj=40436|dj=1808.310|hdz=64212.090|uh=92C3|ud=37571|bh=E863|bd=59491}}
+
+----
+
+==Chinese==
+{{zh-forms|s=锒}}
+
+===Pronunciation===
+{{zh-pron
+|m=láng
+|c=long4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|釘鈴鐺鋃|鋃鐺|鋃鐺入獄}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金07}}
+
+# {{defn|lang=ja|sort=金07}}
+
+====Readings====
+* {{ja-readings|on=[[ろう]] (rō)|kun=|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lang]]|rs=金07}}
+
+# {{defn|lang=vi|sort=金07}}
+
+[[fr:鋃]]
+[[hu:鋃]]
+[[pl:鋃]]
+[[th:鋃]]
+[[zh:鋃]]

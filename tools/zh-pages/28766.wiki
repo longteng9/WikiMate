@@ -1,0 +1,183 @@
+{{character info/new}}
+{{also|递|逓}}
+==Translingual==
+{{Han simplified forms|遞|逓|递}}
+===Han character===
+{{Han char|rn=162|rad=辵|as=10|sn=14|four=32301|canj=YHYU}}
+
+# hand over, deliver
+# [[substitute]]
+
+====References====
+* {{Han ref|kx=1263.100|dkj=39045|dj=1757.130|hdz=63872.080|uh=905E|ud=36958|bh=BBBC|bd=48060}}
+
+----
+
+==Chinese==
+{{zh-forms|t2=逓|t3=遆|s=递}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=dì
+|c=dai6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[hand over]], [[deliver]]
+# [[substitute]]
+
+====Derived terms====
+{{der5
+| {{zh-l|一遞}}
+| {{zh-l|一遞裡}}
+| {{zh-l|偷貓遞狗}}
+| {{zh-l|傳遞}}
+| {{zh-l|呈遞}}
+| {{zh-l|報酬遞減定律}}
+| {{zh-l|嬗遞}}
+| {{zh-l|寄遞}}
+| {{zh-l|層遞}}
+| {{zh-l|快遞}}
+| {{zh-l|急腳遞}}
+| {{zh-l|急遞鋪}}
+| {{zh-l|投遞}}
+| {{zh-l|投遞員}}
+| {{zh-l|搬脣遞舌}}
+| {{zh-l|更遞}}
+| {{zh-l|流遞}}
+| {{zh-l|演遞}}
+| {{zh-l|火遞}}
+| {{zh-l|短遞}}
+| {{zh-l|總包寄遞}}
+| {{zh-l|衰遞}}
+| {{zh-l|輪遞}}
+| {{zh-l|迢遞}}
+| {{zh-l|速遞}}
+| {{zh-l|遞交}}
+| {{zh-l|遞來}}
+| {{zh-l|遞加}}
+| {{zh-l|遞包袱}}
+| {{zh-l|遞化}}
+| {{zh-l|遞呈紙}}
+| {{zh-l|遞回}}
+| {{zh-l|遞增}}
+| {{zh-l|遞嬗}}
+| {{zh-l|遞局}}
+| {{zh-l|遞延}}
+| {{zh-l|遞手貨}}
+| {{zh-l|遞散}}
+| {{zh-l|遞昇}}
+| {{zh-l|遞春}}
+| {{zh-l|遞服務}}
+| {{zh-l|遞次}}
+| {{zh-l|遞歸}}
+| {{zh-l|遞流}}
+| {{zh-l|遞減}}
+| {{zh-l|遞盤}}
+| {{zh-l|遞眼色}}
+| {{zh-l|遞系詞}}
+| {{zh-l|遞興}}
+| {{zh-l|遞衰}}
+| {{zh-l|遞補}}
+| {{zh-l|遞解}}
+| {{zh-l|遞訓}}
+| {{zh-l|遞變}}
+| {{zh-l|遞述}}
+| {{zh-l|遞送}}
+| {{zh-l|遞遞}}
+| {{zh-l|遞鋪}}
+| {{zh-l|遞鍾}}
+| {{zh-l|遞降}}
+| {{zh-l|遞降解}}
+| {{zh-l|郵遞}}
+| {{zh-l|郵遞員}}
+| {{zh-l|配遞}}
+| {{zh-l|鋪遞}}
+| {{zh-l|關山迢遞}}
+| {{zh-l|飛遞}}
+| {{zh-l|馬遞}}
+| {{zh-l|驛遞}}
+}}
+
+===Etymology 2===
+
+====Alternative forms====
+* {{zh-l|遰}}
+
+====Pronunciation====
+{{zh-pron
+|m=dài
+|c=daai3
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[surround]]
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|c=sai6
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{alternative form of|逝|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辵10}}
+
+# {{defn|lang=ja|sort=辵10}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei)|kun=[[たがいに]] (tagaini), [[かわる]] (kawaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=체|eumhun=갈마들 체 (kalmadeul chye)|rv=che|mr=ch'e|y=chey}}
+
+# {{defn|lang=ko|sort=辵10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''遞''' ([[đệ]])
+
+# {{defn|lang=vi}}
+
+[[fr:遞]]
+[[ko:遞]]
+[[lt:遞]]
+[[hu:遞]]
+[[mg:遞]]
+[[fj:遞]]
+[[ja:遞]]
+[[pl:遞]]
+[[th:遞]]
+[[chr:遞]]
+[[zh:遞]]

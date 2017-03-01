@@ -1,0 +1,107 @@
+{{character info/new}}
+{{also|勧|劝}}
+==Translingual==
+{{Han simplified forms|勸|勧|劝}}
+
+===Han character===
+{{Han char|rn=19|rad=力|as=17|sn=19|four=44227|canj=TGKS|ids=⿰雚力}}
+
+# [[recommend]], [[advise]], [[urge]]
+
+====References====
+* {{Han ref|kx=0150.120|dkj=02486|dj=0338.200|hdz=10382.180|uh=52F8|ud=21240|bh=C455|bd=50261}}
+
+----
+
+==Chinese==
+{{zh-forms|s=劝}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|雚|力|c1=p|c2=s|t2=strength|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=quàn
+|c=hyun3
+|h=pfs=khien
+|md=
+|mn=khoàn/qz,tw,xm:khǹg/zz:khùiⁿ
+|mn_note=khoàn - literary; khǹg/khùiⁿ - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[劝导]]
+* [[劝告]]
+* [[劝和]]
+* [[劝化]]
+* [[劝驾]]
+* [[劝架]]
+* [[劝谏]]
+* [[劝教]]
+* [[劝解]]
+* [[劝戒]]
+* [[劝酒]]
+* [[劝捐]]
+* [[劝开]]
+* [[劝勉]]
+* [[劝募]]
+* [[劝善]]
+* [[劝说]]
+* [[劝退]]
+* [[劝慰]]
+* [[劝降]]
+* [[劝学]]
+* [[劝业场]]
+* [[劝诱]]
+* [[劝止]]
+* [[劝阻]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=力17|style=ky|shin=勧}}
+
+# {{defn|lang=ja|sort=力17}}
+
+====Readings====
+* {{ja-readings|goon=[[こん]] (kon)|kanon=[[けん]] (ken)|kanyoon=[[かん]] (kan)|kun=[[すすめる]] (susumeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=권|rv=gwon|mr=kwŏn}}
+
+# {{defn|lang=ko|sort=力17}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khuyến]], [[khuyên]]|rs=力17}}
+
+# {{defn|lang=vi|sort=力17}}
+
+[[fr:勸]]
+[[ko:勸]]
+[[hu:勸]]
+[[mg:勸]]
+[[ja:勸]]
+[[pl:勸]]
+[[th:勸]]
+[[chr:勸]]
+[[zh:勸]]

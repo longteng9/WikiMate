@@ -1,0 +1,62 @@
+{{also|证明|証明}}
+==Chinese==
+{{zh-forms|s=证明|alt=証明}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhèngmíng
+|c=zing3 ming4
+|h=pfs=chṳn-mìn
+|mn=chèng-bêng
+|ma=y
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|countable|uncountable}} [[proof]]; [[evidence]] {{zh-mw|m:份|m:個}}
+# {{lb|zh|countable}} [[certificate]]; [[testimonial]]; [[reference]] {{zh-mw|m:份|m:個}}
+
+====Usage notes====
+Unlike the English nouns ''proof'' and ''evidence'' which are usually uncountable, the Chinese noun {{zh-l|證明}} can be counted.
+
+====Derived terms====
+{{zh-der|不在場證明|醫療證明|證明人|證明書|證明信}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[prove]]; to [[demonstrate]]; to [[certify]]
+#: {{zh-x|茲 證明|it is hereby '''certified'''}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|めい|yomi=o}}
+
+===Noun===
+{{ja-noun|しょうめい|shin=証明}}
+
+# [[proof]]; [[evidence]]; [[verification]]
+# {{lb|ja|mathematics|sort=しょうめい}} [[proof]]
+
+====Compounds====
+* {{l/ja|證明書}}
+
+===Verb===
+{{ja-verb-suru|しょうめい|shin=証明}}
+
+# to [[prove]]; to [[confirm]]
+# {{lb|ja|mathematics|sort=しょうめい}} to [[prove]]
+
+====Conjugation====
+{{ja-suru|しょうめい}}
+
+[[ko:證明]]
+[[hu:證明]]
+[[mg:證明]]
+[[ja:證明]]
+[[chr:證明]]

@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=cuìxìng
+|c=ceoi3 sing3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[brittleness]]; [[fragility]]
+
+====Antonyms====
+* {{zh-l|韌性}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ぜい|せい|yomi=o}}
+
+===Etymology===
+From {{der|sort=せいせい'|ja|ltc|脆性|tr=t͡sʰiuᴇi<sup>H</sup>  siᴇŋ<sup>H</sup>}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|ぜいせい|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ぜいせい}}
+
+# [[brittleness]]
+
+====Antonyms====
+* {{ja-r|靭性|じんせい|[[toughness]]}}
+
+===References===
+<references/>
+
+[[mg:脆性]]
+[[zh:脆性]]

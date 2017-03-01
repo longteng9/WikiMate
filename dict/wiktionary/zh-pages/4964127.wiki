@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=bìxūpǐn
+|c=bit1 seoi1 ban2
+|mn=pit-su-phín
+|cat=n
+}}
+
+===Noun===
+{{zh-noun|mw=件}}
+
+# [[daily]] [[necessity]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひつ|じゅ|ひん|yomi=o}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ひつじゅひん|必需|tr1=hitsuju|t1=need, requirement, essentialness, indispensability|品|tr2=hin|t2=item, good}}. Compare the formation of {{cog|zh|必需品}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|ひつじゅひん|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ひつじゅひん}}
+
+# [[necessaries]], a [[necessary]] item, [[necessity]], [[essential]] [[goods]]
+
+===References===
+<references/>
+
+[[ko:必需品]]
+[[hu:必需品]]
+[[mg:必需品]]
+[[ja:必需品]]
+[[sv:必需品]]
+[[zh:必需品]]

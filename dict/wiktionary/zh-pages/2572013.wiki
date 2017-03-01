@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jíchéng
+|c=zaap6 sing4
+|mn=chi̍p-sêng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[collect]]; to [[compile]]
+# {{lb|zh|electronics}} to [[integrate]]
+
+====Derived terms====
+{{zh-der|集成電路}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅう|せい|yomi=on}}
+
+===Alternative forms===
+* {{l|ja|聚成}}
+
+====Usage notes====
+The {{lang|ja|集成}} spelling is much more common.
+
+===Pronunciation===
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|[ɕʲɯᵝːse̞ː]}}
+
+===Noun===
+{{ja-noun|しゅうせい|hhira=しふせい}}
+
+# [[collection]] of multiple things into one group: [[aggregation]], [[compilation]]
+
+===Verb===
+{{ja-verb-suru|しゅうせい|hhira=しふせい|tr=transitive}}
+
+# to [[collect]] multiple things together into one group: to [[aggregate]], to [[compile]]
+
+====Conjugation====
+{{ja-suru|しゅうせい}}
+
+[[ko:集成]]
+[[zh:集成]]

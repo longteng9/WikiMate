@@ -1,0 +1,115 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=108|rad=皿|as=11|sn=16|four=77107|canj=HXBT|ids=⿱⿴𦥑水皿}}
+
+# [[wash]]
+
+====Derived characters====
+* [[𤃗]]
+
+====References====
+* {{Han ref|kx=0796.120|dkj=23041|dj=1211.040|hdz=42570.030|uh=76E5}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=guàn
+|c=gun3,gun2,fun2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|盥帨|盥櫛|盥洗|盥洗室|盥漱|盥濯|盥耳山棲}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=皿11}}
+
+====Readings====
+{{ja-readings|goon=[[かん]] (kan)|kanon=[[かん]] (kan)|kun=[[そそぐ]] (sosogu), [[たらい]] (tarai)}}
+
+====Compounds====
+{{der-top|Compounds with 盥}}
+{{top2}}
+* {{ja-r|嗽盥|うがいだらい}}
+* {{ja-r|御盥|おたらい}}
+* {{ja-r|金盥|かなだらい}}
+* {{ja-r|盥洗|かんせん}}
+* {{ja-r|盥漱|かんそう}}
+* {{ja-r|下盥|しもだらい}}
+* {{ja-r|洗足盥|せんそくだらい}}
+* {{ja-r|盥船|たらいぶね}}
+{{mid2}}
+* {{ja-r|手水盥|ちょうずだらい}}
+* {{ja-r|角盥|つのだらい}}
+* {{ja-r|手盥|てだらい}}
+* {{ja-r|半挿盥|はんぞうたらい}}
+* {{ja-r|馬盥|ばだらい}}; or {{ja-r|馬盥|うまだらい}}
+* {{ja-r|鬢盥|びんだらい}}
+* {{ja-r|耳盥|みみだらい}}
+* {{ja-r|我が家楽の釜盥|わがいえらくのかまだらい}}
+{{bottom}}
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|たらい|yomi=k}}
+Sound change from {{m|ja|手洗い|tr=tearai}}.
+
+===Pronunciation===
+{{ja-pron|yomi=k|たらい|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|たらい|hhira=たらひ}}
+{{wikipedia|lang=ja}}
+# [[tub]], [[basin]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|金盥|かなだらい}}
+* {{ja-r|盥船|たらいぶね}}
+* {{ja-r|盥回し|たらいまわし}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Containers|たらい]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=관|eumhun=|rv=gwan|mr=kwan|y=kwan}}
+
+# {{defn|lang=ko|sort=皿11}}
+
+[[fr:盥]]
+[[hu:盥]]
+[[mg:盥]]
+[[ja:盥]]
+[[pl:盥]]
+[[th:盥]]
+[[zh:盥]]

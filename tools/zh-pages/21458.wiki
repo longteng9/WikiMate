@@ -1,0 +1,339 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=8}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rad=白|rn=106|as=03|sn=8|four=27620|canj=HAPI|ids=⿰白勺}}
+
+====References====
+* {{Han ref|kx=0786.070|dkj=22692|dj=1201.090|hdz=42644.160|uh=7684|ud=30340|bh=AABA|bd=43706}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|白|勺|c1=s|c2=p|t1=white|ls=psc}}.
+
+The original form was {{zh-l|*旳}} with the meaning of “bright”, hence the initial {{zh-l|*日}} semantic. See Etymology 1 below.
+
+===Etymology 1===
+“Bright”. Compare {{zh-l|*灼}} and {{zh-l|*旳}}.
+
+The sense of “mark in a target” may be secondary. Alternatively, it may be an independent root on its own. Compare {{cog|bo|རྟགས||mark, sign}}.
+
+====Pronunciation====
+{{zh-pron
+|m=dì,dí
+|m_note=dì - "bright; target"; dí - "true, truly"
+|ma=y
+|c=dik1
+|h=pfs=tit
+|md=dék
+|mn=xm,zz,tw:tek/qz:tiak
+|w=4tiq
+|x=
+|mc=y
+|oc=y
+|cat=n,adv
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[bright]]; [[clear]]; [[distinct]]
+# [[white]]; white-[[colour]]ed
+# [[white]] [[forehead]] of [[horse]]s; white-foreheaded horse
+# [[centre]] of [[target]] for [[archery]]
+# [[aim]]; [[standard]]; [[criterion]]
+# [[target]]; [[objective]]
+#: {{zh-x|目的{dì}|purpose, aim, goal}}
+# {{lb|zh|historical}} [[red]] [[dot]] worn on the [[centre]] of the [[forehead]] by [[women]]; [[bindu]]
+# [[true]], [[real]]
+# [[really]]; [[truly]]; [[certainly]]
+#: {{zh-x|的{dí}確|truly}}
+
+===Etymology 2===
+This glyph was borrowed later to represent ''de'', the possessive marker in Northern Chinese, which resulted from the lenition of the literary possessive marker {{och-l|之}}. Superseded the earlier {{zh-l|*底}} for this meaning. {{lang|zh|之}} is still preserved in many phrases, and in written languages to some extent, especially in Taiwan.
+
+Cognate with the particle sense of {{zh-l|*地}} and {{zh-l|*得}}, which are all homophonic but now have their respective specialised usages.
+
+Compare the stylized Zhuyin variant of {{lang|zh|的}} in Taiwan: {{zh-l|*ㄉ}}.
+
+In contemporary times it is also used to represent unrelated equivalent particles in other Chinese varieties. Examples include Min Nan ''ê'' ({{zh-l|*个}}, {{zh-l|*亓}}, {{zh-l|*兮}} or {{zh-l|*ㄟ}}, derived from {{zh-l|*個}}), Min Dong ''gì'' ({{zh-l|*其}}), Wu ''geq'' ({{zh-l|*個}}) and Cantonese ''ge3'' ({{zh-l|嘅}} < {{zh-l|*個}}).
+
+Languages in the East Asian Sprachbund share a common possessive structure; compare {{etyl|ja|-}} {{ja-r|の}}, {{etyl|ko|-}} {{ko-l|의}}, {{cog|bo|གི}}.
+
+====Pronunciation====
+{{zh-pron
+|m=de,di
+|m-s=ni1
+|ma=y
+|m_note=di - in poetry, songs
+|c=dik1
+|c_note=only in formal writing, vernacular particle = {{zh-l|嘅|tr=ge3}}
+|j=deh
+|md=gì
+|md_note=Etymologically unrelated
+|mn=ê/--ê/xm,zz:tek/qz:tiak/xm,qz,zz:tit
+|mn_note=ê - etymologically unrelated; tek/tiak - literary (only in formal writing); tit - vernacular (only in formal writing)
+|mn-t=di1
+|mn-t_note=only in formal writing, vernacular particle = {{zh-l|個|tr=gai7}}
+|x=di
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tlb|zh|Mandarin|Jin|Xiang}}
+
+# {{n-g|Used after an attribute. Indicates that the previous word has [[possessive|possession]] of the next one. In English it functions like [['s|’s]] (or like the word “[[of]]” but with the position of [[possessor]] and [[possessee]] switched).}} [['s|’s]]; [[of]]
+#: {{zh-x|我 的 書|'''my''' book}}
+#* {{zh-x|這 本 書 是 老 王{Wáng} 的。|This book is Wang'''’s'''.}}
+#* {{zh-x|今天 開會 是 你 的 主席。|You will chair today's meeting.}}
+#* {{zh-x|別 開 他 的 玩笑 了。|Don't make fun of him.}}
+#* {{zh-x|蛇 的 毒|the snake'''’s''' poison}}
+#* {{zh-x|眾人 的 國家|the People'''’s''' Country}}
+# {{n-g|Used to link a noun, an adjective or a phrase to a noun to describe it.}} [[that]]; [[who]]
+#: {{zh-x|紅色 的 氣球|a red balloon}}
+#* {{zh-x|鐵 的 紀律|iron discipline}}
+#* {{zh-x|去 ^北京 的 火車|The train '''that''' goes to Beijing}}
+#* {{zh-x|昨天 來 的 人|The people '''who''' came yesterday}}
+# {{n-g|Used to form a noun phrase or nominal expression.}}
+#* {{zh-x|的話|''particle put at the end of a conditional clause''}}
+#* {{zh-x|我 愛 吃 辣 的。|I like hot (or peppery) food.}}
+#* {{zh-x|菊花 開 了，有 紅 的，有 黃 的。|The chrysanthemums are in bloom; some are red and some yellow.}}
+#* {{zh-x|他 說 他 的，我 幹{gàn} 我 的。|Let him say what he likes; I'll just get on with my work.}}
+#* {{zh-x|火車 上 看 書 的 看 書，聊天 的 聊天。|On the train some people were reading and some were chatting.}}
+#* {{zh-x|我 要 兩 個 三 毛 的。|I want two of the three-cent ones. (i.e. two items worth three cents each)}}
+#* {{zh-x|無緣無故 的 你，著[着]{zháo} 什麼 急？|Why do you get excited for no reason at all?}}
+#* {{zh-x|這裡 用 不 著[着]{zháo} 你，你 只管 睡 你 的 去。|We don't need you here. Just go to bed.}}
+# {{n-g|Used after a verb or between a verb and its object to stress an element of the sentence. It can be used with {{zh-l|是}} to surround the stressed element.}}
+#* {{zh-x|誰 買 的？|Who bought it?}}
+#* {{zh-x|你 嗓子 怎麼 啞 了？——^唱 的。|Why are you so hoarse? —From singing.}}
+#* {{zh-x|是 我 打 的 稿子{zi}，他 上 的 色。|It was I who worked up the sketch and he who filled in the colours.}}
+#* {{zh-x|他 是 昨天 進 的 城。|He went to town yesterday. (It's yesterday that he went to town)}}
+#* {{zh-x|我 是 在 車站 打 的 票。|I bought the ticket at the station. (It's in the station that I bought the ticket)}}
+# {{n-g|Used at the end of a declarative sentence for emphasis.}}
+#* {{zh-x|你們 這 兩 天 真 夠 辛苦 的。|You've really been working hard the past few days.}}
+# {{n-g|Used to express the idea of “of that kind”.}}
+#* {{zh-x|針頭線腦 的|things such as needles and threads}}
+# {{lb|zh|informal}} {{n-g|Used to express multiplication or addition.}} [[and]], [[by]]
+#* {{zh-x|這 間 屋子 是 五 米 的 三 米，合 十五 平方米。|This room is five metres by three, or fifteen square metres.}}
+#* {{zh-x|兩 個 的 三 個，一共 五 個。|Two pieces and three pieces—there are five in all.}}
+
+=====Synonyms=====
+{{zh-dial}}
+
+=====Usage notes=====
+{{hide box|Usage notes|align=left|
+* {{sense|possession particle}} {{lang|zh|的}} is usually omitted when referring to a close relationship (family, close friends) or to an institutional or organizational relationship (school, work).
+*: {{zh-x|這 是 我 媽媽{ma}|This is my mother}}
+*: {{zh-x|這 是 我們 學校|This is our school}}
+* {{sense|particle linking a noun and an adjective}} 的 is omitted if it is used with a single-syllable adjective.
+*: {{zh-x|壞人|bad person}}
+* It must be used when the adjective has more than one syllable or if the adjective is qualified by an adverb.
+*: {{zh-x|奇怪 的 人|strange person}}
+*: {{zh-x|很 好 的 茶|a very good tea}}
+* {{lang|zh|的}} is also omitted when the association is frequent
+*: {{zh-x|中國人|Chinese people}}
+* The particle {{lang|zh|的}} is referred to as {{zh-l|[[白]][[勺]][[的]]}} to differentiate it from {{zh-l|得*}} ({{zh-l|[[雙]][[人]][[得]]/[[双]][[人]][[得]]}}) and {{zh-l|地*}} ({{zh-l|[[土]][[也]][[地]]}}), although {{lang|zh|的}} may be misused to represent the latter two.}}
+
+=====Descendants=====
+* Khmer: {{l|km|ទី|tr=tii}}
+
+===Etymology 3===
+Phonetic syllable used to transcribe certain syllables in foreign loanwords.
+
+====Pronunciation====
+{{zh-pron
+|m=dí,dī
+|c=dik1
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# (''used only as a phonetic element'')
+#: {{zh-x|的{dí}士|taxi}}
+#: {{zh-x|的{Dí}黎波里|Tripoli}}
+#: {{zh-x|打的{dī}|to take/hire a taxi}}
+
+===Compounds===
+{{zh-der|下的|不的|中的|似的|來的|兀的|兜的|出的|唱的|堋的|委的|娘的|家的|小的|忽的|怎的|恁的|撲的|旁的|是的|有的|札的|標的|沒的|準的|溜的|猛的|甚的|的些|的信|的士|的實|的是|的歷|的決|的然|的當|的的|的皪|的盧|的知|的確|的耗|的見|目的|破的|禿的|端的|老的|質的|轟的|這的|鋪的|驀的|鵠的|下死的|不到的|不由的|不道的|乍猛的|乖乖的|你家的|保家的|俺家的|倒水的|倒頭的|偏不的|做公的|做的個|偷偷的|兀的不|到不的|包頭的|匾匾的|可兀的|可可的|囚攮的|地下的|夠瞧的|天殺的|女招的|家裡的|就就的|屋裡的|帶條的|怪不的|怪俊的|怪膩的|悄悄的|懶懶的|我的天|手長的|扒糞的|打眼的|打談的|打鐵的|打雜的|打頭的|扛叉的|把梢的|拍花的|挨刀的|掌案的|掌灶的|撈毛的|撐的慌|收小的|放囊的|散散的|有你的|有機的|有的是|朗格的|標的物|毛毛的|沒忽的|沒揣的|沒斷的|沒的家|沒眼的|沒短的|灶上的|犯的上|狠狠的|獃獃的|玩陰的|當家的|當差的|當直的|痛痛的|的溜溜|的篤戲|皮皮的|目的地|目的物|真格的|瞧香的|磣的慌|突突的|聽事的|肯分的|膩的慌|花的花|落不的|要不的|要飯的|親愛的|說話的|賣腰的|赤緊的|走堂的|走報的|越越的|趕腳的|趕車的|這的是|過路的|遠遠的|重重的|門上的|降降的|陪床的|靜靜的|領家的|顧不的|飽飽的|鬧的慌|鼓鼓的}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=白03|grade=4}}
+
+====Readings====
+{{ja-readings
+|goon=[[ちゃく]] (chaku)
+|kanon=[[てき]] (teki)
+|kun=[[まと]] (mato), [[いくは]] (ikuha) {{non-joyo-reading}}, [[ゆくは]] (yukuha) {{non-joyo-reading}}
+}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|てき}}
+Repurposed from the {{m|en|target}} meaning, probably from [[w:Ming Dynasty|Ming]]- and [[w:Qing Dynasty|Qing]]-era {{der|ja|cmn|sort=てき|-}} use of this character as a possessive or adjectivizing particle,<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> or even earlier in the [[w:Song Dynasty|Song]] and [[w:Yuen Dyanasty|Yuan]] eras.<ref name="DJR">{{R:Daijirin}}</ref><ref name="SMK5">{{R:Shinmeikai5}}</ref> Probably also influenced in the {{w|Meiji period}} by the {{der|ja|en|sort=てき|-}} adjective ending {{m|en|-tic}} (as in {{m|en|spastic}}, {{m|en|plastic}}, or {{m|en|characteristic}}), ultimately deriving from {{der|ja|grc|sort=てき|-τικός}}, used to form adjectives from verbs.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref><ref name="SMK5">{{R:Shinmeikai5}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|てき}}
+
+====Suffix====
+{{ja-pos|suffix|てき}}
+
+# {{l|en|-ive}}, {{l|en|-like}}, {{l|en|-ish}}, {{l|en|-ic}}, {{l|en|-ical}}, {{l|en|-y}}, {{l|en|kind of}}, {{l|en|sort of}}
+#: Used to form {{m|ja|形容動詞|tr=keiyō dōshi||''na'' adjectives}} from nouns. The resulting term has a {{m|ja|平板型|tr=heiban-gata||flat type}} or type 0 [[w:Japanese pitch accent|pitch accent]] pattern.
+#:: {{ja-usex|中国の雰囲気、中国'''的'''な雰囲気|^ちゅうごく の ふんいき、 ^ちゅうごく-'''てき''' な ふんいき|China's atmosphere, a Chinese '''kind of''' atmosphere}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|てき}}
+From {{der|ja|ltc|sort=てき|的|tr=tek|pos=literally “mark in a target”, also meaning “bright”}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|てき|acc=0|acc_ref=DJR}}
+
+====Affix====
+{{ja-pos|affix|てき}}
+
+# {{l|en|target}}
+# {{l|en|bright}}, {{l|en|clear}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|的確|てきかく}}: {{l|en|accurate}}, {{l|en|apt}}, {{l|en|exact}}
+* {{ja-r|的言|てきげん}}: {{l|en|bon mot}}, the {{l|en|right}} {{l|en|word}} or {{l|en|turn of phrase}} for the {{l|en|occasion}}
+* {{ja-r|的殺|てきさつ}}: in {{m|ja|九星|tr=kyūsei|lit=nine stars|pos=an astrology system from ancient China}}, the {{l|en|opposite}} {{l|en|direction}} from the favored direction for one's {{l|en|age}}
+* {{ja-r|的実|てきじつ}}: {{l|en|certain}}, {{l|en|definite}}, {{l|en|actual}}, {{l|en|real}}
+* {{ja-r|的証|てきしょう}}: {{l|en|accurate}} {{l|en|evidence}}
+* {{ja-r|的切|てきせつ}}: {{l|en|fitting}}, {{l|en|appropriate}}
+* {{ja-r|的然|てきぜん}}: {{l|en|clear}}, {{l|en|distinct}}
+* {{ja-r|的中|てきちゅう}}: a {{l|en|hit}}; to be {{l|en|on target}}
+* {{ja-r|的屋|てきや}}, {{ja-r|的野|てきや}}: a {{l|en|hawker}}, a {{l|en|peddler}} of {{l|en|cheap}} and {{l|en|gaudy}} {{l|en|wares}}
+* {{ja-r|的例|てきれい}}: an {{l|en|appropriate}} or {{l|en|fitting}} {{l|en|example}}
+* {{ja-r|的皪|てきれき}}: {{l|en|vividly}} and {{l|en|brightly}} {{l|en|shining}}
+{{der-bottom}}
+
+====Noun====
+{{ja-noun|てき}}
+
+# {{alternative spelling of|lang=ja|sort=てき|敵}}: {{lb|ja|sort=てき|rare}} {{l|en|enemy}}, {{l|en|opponent}}
+
+=====Alternative forms=====
+* {{ja-l|敵}}
+
+====Pronoun====
+{{ja-pos|pronoun|てき}}
+
+# {{lb|ja|sort=てき|archaic|mainly|_|Kansai|somewhat|_|derogatory}} {{l|en|he}}, {{l|en|she}}, {{l|en|it}}, {{l|en|that one}}
+# {{lb|ja|sort=てき|archaic|mainly|_|Kansai|somewhat|_|derogatory}} {{l|en|you}}
+
+=====Alternative forms=====
+* {{ja-l|敵}}
+
+=====Synonyms=====
+* {{sense|derogatory for “he, she, it”}} {{ja-r|あいつ}}
+* {{sense|derogatory for “you”}} {{ja-r|おまえ}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|まと}}
+From {{inh|ja|ojp|sort=まと|-}}. Possibly originally a compound of {{compound|lang=ja|sort=まと|目|tr1=ma|t1=eye|所|tr2=to|t2=place}}. Appears to be {{l|en|cognate}} with {{l|en|homophone}} {{m|ja|円|tr=mato||round|pos=adjective, obsolete in modern Japanese}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|まと|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|まと}}
+
+# a {{l|en|target}}, a {{l|en|mark}}, a {{l|en|bullseye}}
+# an {{l|en|objective}}, an {{l|en|object}} {{qualifier|of doing something}}
+
+=====Synonyms=====
+* {{sense|objective}} {{ja-r|目的|もくてき}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=k|いくは}}
+From {{inh|ja|ojp|sort=いくは|-}}.
+* May be derived from rare archaic verb {{m|ja|いくう|tr=ikuu||to shoot [an arrow] at something|pos=archaic spelling {{ja-l|いくふ}}}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+: The ''ha'' element would presumably derive from the verb ending {{m|ja|ふ|tr=fu}}, which has a {{m|ja|未然形|tr=mizenkei||incomplete form}} of ''ha''. However, this is unlikely, as verb forms ending in ''-fu'' underwent the regular ''f-'' and ''h-'' > ''w-'' shift, which would result in a reading of *''ikuwa'' rather than the correct ''ikuha''.
+* The above phonetic discrepancy suggests that ''ikuha'' may instead be a compound of ''iku'' + ''ha''. The ''iku'' element probably derives from root component {{m|ja|いく|tr=iku}} meaning “shooting [arrows]”, as found in {{m|ja|いくう|tr=ikuu}} and also in {{m|ja|戦|tr=ikusa||a battle|pos=original meaning “the shooting of arrows”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> The ''iku'' element might be related to verb {{m|ja|射る|tr=iru||to shoot an arrow}}, or obsolete verb {{m|ja|生く|tr=iku||to live; to make something live, to make something go}}, likely {{l|en|cognate}} with {{m|ja|行く|tr=iku||to go}}.
+: The ''ha'' element is uncertain. It might be {{m|ja|端|tr=ha||the edge or end of something}}, from the sense “the end [of the arrow's flight]”.
+
+====Pronunciation====
+{{ja-pron|yomi=k|いくは}}
+
+====Noun====
+{{ja-noun|いくは}}
+
+# {{lb|ja|sort=いくは|archery|rare}} an {{l|en|archery}} {{l|en|target}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|的所|いくはどころ}}: the {{l|en|location}} where an {{l|en|archery}} {{l|en|target}} is {{l|en|placed}}
+{{der-bottom}}
+
+===Etymology 5===
+{{ja-kanjitab|yomi=k|ゆくは}}
+From {{inh|ja|ojp|sort=ゆくは|-}}. Alteration of ''ikuha'' above. Compare the ''iku'' <> ''yuku'' alteration in the verb {{m|ja|行く|tr=iku, yuku||to go}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|ゆくは}}
+
+====Noun====
+{{ja-noun|ゆくは}}
+
+# {{lb|ja|sort=ゆくは|archery|rare}} an {{l|en|archery}} {{l|en|target}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=적|eumhun=|mr=chŏk|y=cek}}
+
+# {{defn|lang=ko|sort=白03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đích]], [[đét]], [[đít]], [[điếc]], [[đếch]]|rs=白03}}
+
+# {{defn|lang=vi|sort=白03}}
+
+[[zh-min-nan:的]]
+[[da:的]]
+[[et:的]]
+[[fr:的]]
+[[ko:的]]
+[[it:的]]
+[[lo:的]]
+[[li:的]]
+[[hu:的]]
+[[mk:的]]
+[[mg:的]]
+[[ms:的]]
+[[fj:的]]
+[[ja:的]]
+[[no:的]]
+[[pl:的]]
+[[pt:的]]
+[[sr:的]]
+[[sv:的]]
+[[ta:的]]
+[[th:的]]
+[[chr:的]]
+[[uk:的]]
+[[vi:的]]
+[[zh:的]]

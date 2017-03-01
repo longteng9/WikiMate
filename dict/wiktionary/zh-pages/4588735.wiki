@@ -1,0 +1,72 @@
+{{also|浑名}}
+==Chinese==
+{{zh-forms|s=浑名}}
+
+===Pronunciation===
+{{zh-pron
+|m=húnmíng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[nickname]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|sort=あだな}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|あだな|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{l|ja|綽名}}
+
+====Noun====
+{{ja-noun|あだな}}
+
+# [[nickname]]
+
+=====Synonyms=====
+* {{ja-r|綽号|しゃくごう}}
+
+====Verb====
+{{ja-verb-suru|あだな}}
+
+# to [[nickname]]
+
+====Conjugation====
+{{ja-suru|あだな}}
+
+===Etymology 2===
+{{ja-kanjitab|こん|めい|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|こんめい|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{l|ja|諢名}}
+
+====Noun====
+{{ja-noun|こんめい}}
+
+# [[nickname]]
+
+====Verb====
+{{ja-verb-suru|こんめい}}
+
+# [[nickname]]
+
+====Conjugation====
+{{ja-suru|こんめい}}
+
+===References===
+<references/>
+
+[[Category:ja:Onomastics|あだな]]
+
+[[mg:渾名]]

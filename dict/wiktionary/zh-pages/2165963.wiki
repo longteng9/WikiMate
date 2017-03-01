@@ -1,0 +1,48 @@
+{{also|计量}}
+==Chinese==
+{{zh-forms|s=计量}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìliàng,jìliáng,1nb=mainland China,2nb=Taiwan
+|c=gai3 loeng4
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[measure]]; to [[calculate]]; to [[estimate]]
+
+===Noun===
+{{zh-noun}}
+
+# [[measurement]]
+
+====Derived terms====
+{{zh-der|計量經濟學}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|けい|りょう|yomi=on}}
+
+===Noun===
+{{ja-noun|けいりょう}}
+# [[measurement]]; [[computation]]
+# {{lb|ja|mathematics|physics}} [[metric]]
+
+===Verb===
+{{ja-verb-suru|けいりょう}}
+
+# [[measure]], [[gauge]], [[weigh]]
+
+====Conjugation====
+{{ja-suru|けいりょう}}
+
+[[ko:計量]]
+[[hu:計量]]
+[[mg:計量]]
+[[zh:計量]]

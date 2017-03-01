@@ -1,0 +1,38 @@
+{{also|传说}}
+==Chinese==
+{{zh-forms|s=传说}}
+
+===Pronunciation===
+{{zh-pron
+|m=chuánshuō
+|ma=Zh-chuánshuo.ogg
+|c=cyun4 syut3
+|h=pfs=chhòn-sot
+|mn=qz,xm:toân-soat/kh,tp,zz:thoân-soat
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[legend]]; [[tale]]
+#: {{zh-x|傳說 中 的 英雄|'''legendary''' hero}}
+
+====Derived terms====
+{{zh-der|民間傳說}}
+
+===Verb===
+{{zh-verb}}
+
+# to be [[said]] {{gloss|of folktales, legends, etc.}}
+
+===Descendants===
+{{CJKV|傳說|s=伝説|でんせつ|전설|truyền thuyết}}
+
+[[zh-min-nan:傳說]]
+[[fr:傳說]]
+[[ko:傳說]]
+[[hu:傳說]]
+[[mg:傳說]]
+[[ja:傳說]]
+[[chr:傳說]]

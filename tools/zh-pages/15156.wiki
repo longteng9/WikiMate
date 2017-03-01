@@ -1,0 +1,50 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=57|rad=弓|as=04|sn=7|four=17217|canj=NAU,XNAU|ids=⿰弓巴}}
+
+# the [[part]] of a [[bow]] [[grasp]]ed when [[shoot]]ing
+
+====References====
+* {{Han ref|kx=0357.140|dkj=09734|dj=0673.170|hdz=20992.140|uh=5F1D|ud=24349|bh=CAD3|bd=51923}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bà
+|c=baa3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=弓04}}
+
+# {{defn|lang=ja|sort=弓04}}
+
+====Readings====
+* {{ja-readings|on=[[は]] (ha), [[へ]] (he)|kun=[[ゆずか]] (yuzuka), [[つか]] (tsuka)}}
+
+[[fr:弝]]
+[[hu:弝]]
+[[pl:弝]]
+[[th:弝]]
+[[zh:弝]]

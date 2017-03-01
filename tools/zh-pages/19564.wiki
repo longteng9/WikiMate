@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|浇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=12|sn=15|four=34111|canj=EGGU}}
+
+# [[spray]], [[water]], [[sprinkle]]
+
+====References====
+* {{Han ref|kx=0651.270|dkj=18317|dj=1061.280|hdz=31734.150|uh=6F86|ud=28550|bh=BCE5|bd=48357}}
+
+----
+
+==Chinese==
+{{zh-forms|s=浇}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|堯|c1=s|c2=p|t1=water|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jiāo
+|c=giu1,hiu1,ngou6,jiu6
+|mn=kiau
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|借酒澆愁|冷水澆頭|如湯澆雪|湯澆雪|澆冷水|澆奠|澆季|澆弛|澆愁|澆手|澆梅根|澆水|澆漓|澆灌|澆瓜之惠|澆花|澆薄|澆裹|澆訛|澆鑄|澆頭|澆風薄俗|火上澆油|酒澆壘塊}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水12}}
+
+# {{defn|lang=ja|sort=水12}}
+
+====Readings====
+* {{ja-readings|on=[[ぎょう]] (gyō)|kun=[[そそぐ]] (sosogu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=요|eumhun=|rv=yo|mr=yo|y=yo}}
+
+# {{defn|lang=ko|sort=水12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kiêu]], [[nhão]], [[nghiêu]]|rs=水12}}
+# {{defn|lang=vi|sort=水12}}
+
+====Readings====
+* Nôm: kiêu, nghiêu, nhão
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville, 1999
+
+[[fr:澆]]
+[[hu:澆]]
+[[ja:澆]]
+[[pl:澆]]
+[[th:澆]]
+[[vi:澆]]
+[[zh:澆]]

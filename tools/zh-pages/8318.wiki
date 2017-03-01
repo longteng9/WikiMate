@@ -1,0 +1,113 @@
+{{character info/new}}
+{{also|宀|勹|匸}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+{{Han etyl}}
+{{liushu|p}}: a cover-cloth.
+
+Later expanded to [[冪]].
+
+===Han character===
+{{Han char|rn=14|rad=冖|as=00|sn=2|four=37000|canj=IN,LN,XXLN}}
+
+# [[cover]]
+# {{mul-kangxi radical-def}}
+
+====Usage notes====
+In older forms, often a 3-side enclosure, as in [[匸]]. In modern forms, closer to [[宀]] without the top stroke (shorter sides).
+
+====References====
+* {{Han ref|kx=0130.120|dkj=01565|dj=0292.120|hdz=10302.140|uh=5196|ud=20886}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=mì
+|c=mik6
+|h=pfs=me̍t
+|mn=me̍k
+|w=
+|mc=
+|oc=y
+|ma=|ma2=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{defn|Han|sort=冖00}}
+
+====References====
+* [http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
+* [http://www.chineselanguage.org/dictionaries/?mode=view&module=chardict&query=%E5%86%96 CCDICT (Chineselanguage.org)]
+* [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=24208&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=r|rs=冖00}}
+
+# "[[crown]]" radical (わかんむり, べきかんむり)
+
+====Readings====
+* {{ja-readings|kanon=[[べき]] (beki)|goon=[[みゃく]] (myaku)|kun=[[おおう]] (oou)}}
+
+====References====
+{{ja-kref
+|jis=514C
+|ku=4944
+|shift=996b
+|euc=D1CC
+|freq=''radical''
+|nelson=''not listed''
+|newnelson=398
+|halpern=3353
+|kld=''not listed''
+|heisig=''not listed''
+|tuttle=2i0.1
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=멱|rv=myeok|mr=myŏk|eumhun=덮을|ehrv=deopeul}}
+
+# {{defn|lang=ko|sort=冖00}}
+
+[[Category:CJKV radicals| ]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mịch]]|rs=冖00}}
+
+# {{defn|lang=vi|sort=冖00}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5196 Nom Foundation]
+
+[[fr:冖]]
+[[ko:冖]]
+[[hu:冖]]
+[[mg:冖]]
+[[ms:冖]]
+[[ja:冖]]
+[[pl:冖]]
+[[ru:冖]]
+[[ta:冖]]
+[[th:冖]]
+[[vi:冖]]
+[[zh:冖]]

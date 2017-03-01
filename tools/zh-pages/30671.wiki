@@ -1,0 +1,95 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=170|rad=阜|as=08|sn=11|four=70261|canj=NLYTR|ids=⿰阝咅}}
+
+# accompany, be with, keep company
+
+====References====
+* {{Han ref|kx=1352.180|dkj=41680|dj=1855.010|hdz=64141.070|uh=966A|ud=38506|bh=B3AD|bd=45997}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=péi
+|ma=y
+|c=pui4
+|ca=Yue-pui4.oga
+|h=pfs=phì
+|md=
+|mn=pôe
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[keep someone company]]; to [[accompany]]; to go with
+#: {{zh-x|在 我 去 醫院 探望 媽媽 時，他 一直 陪 著[着]{zhe} 我。|He '''kept''' me '''company''' while I visited mum in hospital.}}
+# to [[help]]; to [[assist]]
+
+====Synonyms====
+* {{sense|to keep someone company}} {{qualifier|more formal}} {{zh-l|陪伴}}, {{qualifier|more formal}} {{zh-l|陪同}}
+* {{sense|to help}} {{zh-l|協助}}
+
+====Compounds====
+* {{zh-l|陪伴}}
+* {{zh-l|陪襯|tr=péichèn}}
+* {{zh-l|陪話}}
+* {{zh-l|陪嫁}}
+* {{zh-l|陪同}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=阜08}}
+
+# {{defn|lang=ja|sort=阜08}}
+
+====Readings====
+* {{ja-readings|goon=[[べ]] (be) {{non-joyo-reading}}|kanon=[[はい]] (hai) {{non-joyo-reading}}|kanyoon=[[ばい]] (bai)|kun=[[したがう]] (shitagau)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=배|eumhun=|rv=bae|mr=pae|y=pay}}
+
+# {{defn|lang=ko|sort=阜08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|bồi|rs=阜08}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:陪]]
+[[fr:陪]]
+[[lt:陪]]
+[[hu:陪]]
+[[mg:陪]]
+[[ja:陪]]
+[[no:陪]]
+[[pl:陪]]
+[[sr:陪]]
+[[th:陪]]
+[[chr:陪]]
+[[uk:陪]]
+[[zh:陪]]

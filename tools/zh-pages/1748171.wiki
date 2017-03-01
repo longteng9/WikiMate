@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|たい|ひ|yomi=o}}
+
+===Etymology===
+From {{m|ja|対|sc=Jpan|tr=tai||place in opposition and compare}} + {{m|ja|比|sc=Jpan|tr=hi||compare}}
+
+===Noun===
+{{ja-noun|たいひ|kyu=對比}}
+
+# [[contrast]], [[comparison]]
+
+===Verb===
+{{ja-verb-suru|たいひ|kyu=對比}}
+
+# to [[contrast]], to [[compare]]
+
+====Conjugation====
+{{ja-suru|たいひ}}
+
+[[hu:対比]]
+[[mg:対比]]
+[[ja:対比]]
+[[zh:対比]]

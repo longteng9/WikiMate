@@ -1,0 +1,12 @@
+==Japanese==
+{{ja-kanjitab|よう|せき|ひ|yomi=o}}
+
+===Etymology===
+From {{m|ja|容|sc=Jpan|tr=yō||have within}} + {{m|ja|積|sc=Jpan|tr=seki||size}} + {{m|ja|比|sc=Jpan|tr=hi||ratio}}
+
+===Noun===
+{{ja-noun|ようせきひ}}
+
+# [[volume]] [[ratio]]
+
+[[zh:容積比]]

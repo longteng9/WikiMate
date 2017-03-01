@@ -1,0 +1,69 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuánshǒu
+|c=jyun4 sau2
+|h=pfs=ngièn-sú
+|mn=goân-siú
+|ma=Zh-yuánshou.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[head of state]] (esp. the king/emperor of China)
+# [[beginning]]
+
+====Synonyms====
+* {{zh-l|國家元首}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=on|げん|しゅ}}
+From {{etyl|ltc|ja|sort=げんしゅ}} compound {{m|zh|元首|tr=ngjwon syuw<sup>X</sup>|lit=first, prime + head}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|げんしゅ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|げんしゅ}}
+
+# [[head of state]] (the chief public representative of a nation), [[ruler]], [[sovereign]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|元首政|げんしゅせい}}: the [[principate]], a type of [[government]] in ancient [[Rome]], established under [[w:Augustus Caesar|Augustus Caesar]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|もと|くび}}
+Compound of {{compound|lang=ja|sort=もとくび|元|tr1=moto|t1=origin, base|首|tr2=kubi|t2=neck, head}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|もとくび}}
+
+====Noun====
+{{ja-noun|もとくび}}
+
+# {{lb|ja|sort=もとくび|rare}} the [[base]] of the [[neck]]
+# {{lb|ja|sort=もとくび|rare}} {{qualifier|by extension upwards}} the [[head]]
+
+=====Usage notes=====
+The [[訓読み#Japanese|kun'yomi]] reading of ''motokubi'' is rare for this term.<ref name="DJR">{{R:Daijirin}}</ref>
+
+===References===
+<references/>
+
+[[ko:元首]]
+[[lo:元首]]
+[[hu:元首]]
+[[mg:元首]]
+[[ja:元首]]
+[[pt:元首]]
+[[zh:元首]]

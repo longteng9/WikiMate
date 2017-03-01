@@ -1,0 +1,54 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=05|sn=8|four=|canj=VIKE,VIKK|ids=⿰女犮}}
+
+# {{defn|Han|sort=女05}}
+
+====References====
+* {{Han ref|kx=0257.130|dkj=06122|dj=0522.090|hdz=21035.110|uh=59AD|ud=22957}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bó
+|c=bat6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:twedu|C02043}}
+* {{R:yue:Jyutping Database}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女05}}
+
+# {{defn|lang=ja|sort=女05}}
+
+====Readings====
+* {{ja-readings|on=[[はつ]] (hatsu), [[ばち]] (bachi)|kun=[[みめよい]] (mimeyoi), [[つま]] (tsuma)}}
+
+[[fr:妭]]
+[[hu:妭]]
+[[pl:妭]]
+[[th:妭]]
+[[zh:妭]]

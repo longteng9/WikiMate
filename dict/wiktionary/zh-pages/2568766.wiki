@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|じ|かく|yomi=o}}
+
+===Pronunciation===
+* {{IPA|lang=ja|[d͡ʑika̠kɯᵝ]}}
+
+===Noun===
+{{ja-noun|じかく|kyu=自覺}}
+
+# {{lb|ja|sort=じかく|Buddhism}} "higher mind": one of the three divisions of the [[w:Noble_Eightfold_Path#The_threefold_division_of_the_path|Noble Eightfold Path]], equivalent to {{m|sa|समाधि|tr=samādhi}}
+# [[self-consciousness]], [[self-awareness]]
+#: {{ja-usex|国民としての'''自覚'''が必要だ。|こくみん として の '''じかく''' が ひつよう だ。|'''(Self-)Awareness''' as citizens of the nation is required. → We need to be '''aware''' of our national identity.}}
+
+===Verb===
+{{ja-verb-suru|じかく|kyu=自覺|tr=trans}}
+
+# to become [[aware]] of, to [[notice]], to [[realize]]
+
+====Conjugation====
+{{ja-suru|じかく}}
+
+[[lt:自覚]]
+[[hu:自覚]]
+[[mg:自覚]]
+[[ja:自覚]]
+[[sv:自覚]]
+[[chr:自覚]]
+[[zh:自覚]]

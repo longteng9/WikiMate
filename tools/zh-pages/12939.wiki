@@ -1,0 +1,49 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=31|rad=囗|as=09|sn=12|four=|canj=WWLS|ids=⿴囗⿱罒方}}
+
+# {{defn|Han|sort=囗09}}
+
+====References====
+* {{Han ref|kx=0220.051|hdz=10722.130|uh=5710|ud=22288}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=kū
+|c=ku1
+|c-t=
+|g=
+|h=pfs=
+|j=
+|md=
+|mn=
+|mn-t=
+|w=
+|x=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===Compounds===
+{{zh-der|圐圙}}
+
+====References====
+* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 85]
+
+[[fr:圐]]
+[[pl:圐]]
+[[th:圐]]
+[[zh:圐]]

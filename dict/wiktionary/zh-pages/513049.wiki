@@ -1,0 +1,94 @@
+==Chinese==
+{{zh-forms|gloss=-}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+from {{etyl|peo|zh}} {{m|peo|𐏃𐎡𐎯𐎢𐏁|tr=hi<sup>n</sup>dūš}} (Persian {{m|fa|هند|tr=hend|sc=fa-Arab}}) from {{etyl|sa|zh}} {{m|sa|सिन्धु||a river, stream|sc=Deva}}.
+
+===Pronunciation===
+{{zh-pron
+|m=Yìndù
+|c=jan3 dou6
+|h=pfs=Yin-thu
+|md=Éng-dô
+|mn=Ìn-tō͘
+|w=2in du
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# [[India]]
+
+====Synonyms====
+* {{zh-l|印|tr=Yìn}} {{qualifier|abbreviation}}
+
+====Derived terms====
+{{zh-der|東印度|印度共和國|印度鱷|印度食魚鱷|印度教|印度人|印度洋}}
+
+====Descendants====
+{{CJKV||インド|인도|Ấn Độ}}
+
+{{zh-cat|Countries}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{ja-kanjitab|いん|ど|yomi=o}}
+from {{etyl|zh|ja|sort=いんど}} {{m|zh|印度}}
+
+===Pronunciation===
+{{ja-pron|インド|y=go|acc=a}}
+
+===Proper noun===
+{{ja-pos|インド|proper}}
+
+# {{rare spelling of|インド|lang=ja|sort=いんど}} (abbr. {{ja-l|印||[[In]]}})
+{{catlangcode|ja|sort=いんど|India|Countries of Asia|Exonyms}}
+
+----
+
+==Korean==
+{{ko-hanjatab|印|度}}
+
+===Proper noun===
+{{ko-proper noun|hj|hangeul=인도|rv=Indo}}
+
+# {{hanja form of|인도|[[India]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab|印|度}}
+
+===Proper noun===
+{{vi-hantu}}
+
+# {{han tu form of|Ấn Độ|[[India]]}}
+
+[[es:印度]]
+[[fr:印度]]
+[[gu:印度]]
+[[ko:印度]]
+[[hi:印度]]
+[[hr:印度]]
+[[lo:印度]]
+[[lt:印度]]
+[[li:印度]]
+[[hu:印度]]
+[[mg:印度]]
+[[nl:印度]]
+[[ja:印度]]
+[[pl:印度]]
+[[pt:印度]]
+[[ro:印度]]
+[[ru:印度]]
+[[fi:印度]]
+[[sv:印度]]
+[[th:印度]]
+[[tr:印度]]
+[[uk:印度]]
+[[zh:印度]]

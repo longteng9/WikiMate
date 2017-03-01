@@ -1,0 +1,138 @@
+{{character info/new}}
+{{also|贡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=03|sn=10|four=10806|canj=MBUC,XMBUC|ids=⿱工貝}}
+
+# [[offer]] [[tribute]]
+# tribute, [[gift]]s
+
+====References====
+* {{Han ref|kx=1205.010|dkj=36665|dj=1666.030|hdz=63624.050|uh=8CA2|ud=36002|bh=B05E|bd=45150}}
+
+----
+
+==Chinese==
+{{zh-forms|s=贡}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gòng
+|c=gung3
+|h=pfs=
+|md=
+|mn=kòng
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|五貢|任土作貢|例貢|優貢|入貢|副貢|土貢|子貢|幣貢|恩貢|拔貢|朝貢|歲貢|王貢彈冠|琛貢|知貢舉|禹貢|稱臣納貢|納貢|納貢稱臣|職貢|自貢市|苞茅不貢|西貢|貢丸|貢元|貢八|貢品|貢士|貢奉|貢官|貢寮|貢水|貢煙|貢獻|貢生|貢監|貢禹|貢禹彈冠|貢稅|貢緞|貢膿|貢舉|貢賦|貢院|賓貢|進貢|鄉貢}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=貝03}}
+
+# [[tribute]]
+# [[support]]
+
+====Readings====
+{{ja-readings
+|goon=[[く]] (ku)
+|kanon=[[こう]] (kō)
+|kun=[[みつぐ]] ([[貢ぐ]], mitsugu), [[みつぎ]] ([[貢ぎ]], mitsugi)
+|nanori=[[みつぐ]] (mitsugu), [[みつぎ]] (mitsugi)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|貢献|こうけん}}: [[contribution]]; to [[contribute]]
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|みつぐ}}
+From the verb {{m|ja|貢ぐ|tr=mitsugu||to support, to finance}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|みつぐ|acc=2|acc_ref=DJR}}
+
+====Proper noun====
+{{ja-pos|proper|みつぐ}}
+
+# {{given name|lang=ja|sort=みつぐ|male|A=a}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|みつぎ}}
+From the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|貢ぐ|tr=mitsugu||to support, to finance}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|みつぎ|acc=0|acc_ref=DJR}}
+
+====Proper noun====
+{{ja-pos|proper|みつぎ}}
+
+# {{given name|lang=ja|sort=みつぎ|male|A=a}}
+# {{surname|lang=ja|sort=みつぎ|A=a|dot=}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=o|こう}}
+From {{etyl|ltc|ja|sort=こう}} {{m|zh|貢|tr=kuwng<sup>H</sup>||tribute}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|こう|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|こう}}
+
+# [[tribute]]
+# [[support]], a [[contribution]] {{qualifier|such as a donation of money}}
+
+====Proper noun====
+{{ja-pos|proper|こう}}
+
+# {{given name|lang=ja|sort=こう|male|A=a}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=공|eumhun=|rv=gong|mr=kong|y=kong}}
+
+# {{defn|lang=ko|sort=貝03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[gòn]], [[cống]], [[cóng]], [[gúng]], [[xống]], [[gỏng]]|rs=貝03}}
+
+# {{defn|lang=vi|sort=貝03}}
+
+[[fr:貢]]
+[[ko:貢]]
+[[li:貢]]
+[[hu:貢]]
+[[mg:貢]]
+[[ja:貢]]
+[[pl:貢]]
+[[th:貢]]
+[[zh:貢]]

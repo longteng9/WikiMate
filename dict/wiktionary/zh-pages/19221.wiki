@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=09|sn=12|four=32189|canj=EUMF|ids=⿰氵炭}}
+
+# {{defn|Han|sort=水09}}
+
+====References====
+* {{Han ref|kx=0637.220|dkj=17851|dj=1044.170|hdz=31678.010|uh=6E60|ud=28256|bh=DA45|bd=55877}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=tàn
+|c=taan3
+|h=
+|mn=thàn
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-obsolete}} [[large]] [[body of water]]
+
+====Compounds====
+* {{zh-l|湠漫}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|mn=thòaⁿ
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}} {{tcx|Min Nan|lang=zh}}
+
+# to [[spread]]; to [[extend]]
+# to [[infect]]
+
+=====Compounds=====
+* {{zh-l|白湠|tr=pe̍h-thòaⁿ}}
+* {{zh-l|生湠|tr=seⁿ-thòaⁿ, siⁿ-thòaⁿ}}
+* {{zh-l|湠欉|tr=thòaⁿ-châng}}
+* {{zh-l|湠種|tr=thòaⁿ-chéng}}
+* {{zh-l|湠草|tr=thòaⁿ-chháu}}
+* {{zh-l|湠開|tr=thòaⁿ--khui}}
+* {{zh-l|湠囝|tr=thòaⁿ-kiáⁿ}}
+* {{zh-l|湠卵|tr=thòaⁿ-nn̄g}}
+* {{zh-l|湠澹|tr=thòaⁿ-tâm}}
+
+===References===
+* {{thcwd|8572}}
+* [http://210.240.194.97/tg/jitian/tgjt.asp Taiwanese Online Character Dictionary (台語線頂字典)]
+
+[[fr:湠]]
+[[pl:湠]]
+[[th:湠]]
+[[zh:湠]]

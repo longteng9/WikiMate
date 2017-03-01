@@ -1,0 +1,25 @@
+==Chinese==
+{{zh-forms|husband|and|wife}}
+
+===Etymology===
+From {{zh-m|翁|tr=ang|husband}} + {{zh-m|仔|á|note=weak form of {{zh-l|佮|tr=kah}}}} + {{zh-m|某|bó͘|wife}}.
+
+===Pronunciation===
+{{zh-pron
+|mn=xm,qz,zz,tp,kh,tn,sx,yl,km,mg,hc,tc:ang-仔-bó͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Min Nan}} [[husband and wife]]
+
+====Synonyms====
+* {{zh-l|翁某}}
+* {{zh-l|夫妻}}
+* {{zh-l|夫婦}}
+
+{{zh-cat|Family}}
+
+[[zh-min-nan:翁仔某]]

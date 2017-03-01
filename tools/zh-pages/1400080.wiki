@@ -1,0 +1,24 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+During the {{w|Han Dynasty}}, the emperor's commode was called {{zh-m|虎子}}. However, the grandfather of {{w|Emperor Gaozu of Tang}} was called {{lang|zh|李虎}} (''Lǐ Hǔ''). Because it was forbidden for common items to contain the {{w|Chinese given name|given names}} of members of the imperial family (see {{w|Naming taboo}}), {{zh-m|虎子|tr=-}} was changed to {{zh-m|馬子}}, which morphed later into {{zh-m|馬桶}}.
+
+===Pronunciation===
+{{zh-pron
+|m=hǔzi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|archaic}} [[nightstool]]; [[closestool]]; [[commode]]; [[toilet]]; [[chamber pot]]
+
+===References===
+* {{pedialite|馬桶|lang=zh}}
+* {{pedialite|Chamber pot}}
+
+[[Category:Mandarin archaic terms|hu3zi]]
+
+[[zh:虎子]]

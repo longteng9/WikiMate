@@ -1,0 +1,100 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=02|sn=5|four=47212|canj=KHSU|ids=⿰犭㔾}}
+
+====References====
+* {{Han ref|kx=0706.020|dkj=20238|dj=1118.170|hdz=21331.080|uh=72AF|ud=29359|bh=A5C7|bd=42439}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+"To pass over" > "to offend against, oppose". Compare {{zh-l|*氾}}.
+
+This character originally had bilabial nasal (*-''m'') final in Old and Middle Chinese, but had undergone [[dissimilation]] (from bilabial plosive *''b''-) to become *-''n'' in most dialects, except for Hakka. Similar dissimilation happened in {{zh-l|*帆}}.
+
+===Pronunciation===
+{{zh-pron
+|m=fàn
+|c=faan6,faan6-2
+|c_note=faan6-2 - noun only
+|h=pfs=fam
+|md=huâng
+|mn=hoān
+|w=3ve
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[commit]] (crime), to [[violate]]
+#: {{zh-x|犯罪|to '''commit''' crime}}
+# [[criminal]]
+#: {{zh-x|罪犯|'''criminal'''}}
+#: {{zh-x|俾 個 犯{faan6-2} 走甩 咗 呀！|The '''criminal''' ran loose!|C}}
+
+====Compounds====
+{{zh-der|犯上|犯上作亂|犯不著|犯人|犯傻|犯勁|犯得上|犯得著|犯愁|犯意|犯戒|犯案|犯毒|犯法|犯渾|犯病|犯罪|犯罪團伙|犯罪學|犯罪現場|犯罪者|犯罪行為|犯罪集團|犯規|犯錯|犯難|主犯|互不侵犯|侵犯|偶犯|傾巢來犯|兇犯|共犯|再犯|冒犯|刑事犯|初犯|同案犯|囚犯|女犯|嫌犯|嫌疑犯|少年犯|從犯|性侵犯|戰犯|政治犯|明知故犯|殺人犯|流竄犯|現行犯|甲級戰犯|疑犯|秋毫無犯|竄犯|累犯|縱火犯|罪犯|脅從犯|良心犯|要犯|觸犯|越獄犯|逃犯|連續犯|進犯|過犯|違犯|重犯}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=犬02}}
+
+# [[crime]]
+# [[sin]]
+# [[offense]]
+
+====Readings====
+* {{ja-readings|goon=[[ぼん]] (bon) {{non-joyo-reading}}|kanon=[[はん]] (han)|kun=[[おかす]] ([[犯す]], okasu)}}
+
+====Compounds====
+* {{ja-r|犯行|はんこう}}
+* {{ja-r|犯罪|はんざい}}
+* {{ja-r|犯人|はんにん}}
+
+===Suffix===
+{{ja-pos|suffix|はん}}
+
+# [[perpetrator]]s of a [[crime]]
+# a crime
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=범|eumhun=|rv=beom|mr=pŏm|y=pem}}
+
+# {{defn|lang=ko|sort=犬02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phạm]]|rs=犬02}}
+
+# {{defn|lang=vi|sort=犬02}}
+
+[[zh-min-nan:犯]]
+[[fr:犯]]
+[[ko:犯]]
+[[hu:犯]]
+[[mg:犯]]
+[[ja:犯]]
+[[no:犯]]
+[[pl:犯]]
+[[ru:犯]]
+[[fi:犯]]
+[[th:犯]]
+[[zh:犯]]

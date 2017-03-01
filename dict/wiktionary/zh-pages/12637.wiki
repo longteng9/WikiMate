@@ -1,0 +1,35 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=10|sn=13|four=|canj=RAMW|ids=⿰口晒}}
+
+# {{lb|mul|Cantonese}} [[verbal]] [[aspect]] marker for [[full]] [[extent]]
+
+====References====
+{{Han ref|kx=0204.111|hdz=10667.071|uh=55EE}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=晒,哂}}
+
+===Pronunciation===
+{{zh-pron
+|m=sài
+|c=saai3
+|cat=part
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} {{n-g|[[verbal|Verbal]] [[aspect]] marker for [[full]] [[extent]].}}
+#: {{zh-x|做 嗮 功課 未 呀？|Have you finished all your homework?|C}}
+#: {{zh-x|今晚 唔 知 點解 個個 都 冇乜 胃口，搞到 食 剩 嗮 啲 餸。|For some reason, everyone is not hungry tonight and left all the food almost untouched.|C}}
+#: {{zh-x|多謝 嗮！|Thank you very much!|C}}
+
+[[fr:嗮]]
+[[pl:嗮]]
+[[th:嗮]]
+[[zh:嗮]]

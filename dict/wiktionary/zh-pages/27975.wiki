@@ -1,0 +1,156 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=13}}
+
+===Han character===
+{{Han char|rn=157|rad=足|as=06|sn=13|four=67164|canj=RMHER|ids=⿰[[足|⻊]][[各]]}}
+
+====Derived characters====
+* [[露]]
+* [[鷺]]
+
+====References====
+* {{Han ref|kx=1225.220|dkj=37524|dj=1697.060|hdz=63704.060|uh=8DEF|ud=36335|bh=B8F4|bd=47348}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|足|各|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lù
+|ma=y
+|c=lou6
+|h=pfs=lu
+|md=diô/lô
+|md_note=diô - colloquial; lô - literary
+|mn=lō͘
+|w=3lu
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[road]], [[path]], [[street]] {{zh-mw|條}}
+# [[pattern]], [[arrangement]]
+# [[way]], [[method]]
+# [[journey]]
+# [[route]]
+# [[kind]], [[type]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|一路|上路|下路|世路|中路|伏路|來路|便路|修路|僻路|先路|公路|出路|分路|利路|剖路|半路|去路|反路|各路|同路|問路|回路|外路|大路|天路|失路|夾路|套路|奪路|子路|季路|官路|對路|小路|岐路|岔路|帶路|平路|引路|彎路|後路|徑路|心路|思路|截路|戲路|探路|擋路|攔路|支路|斷路|旱路|末路|東路|樞路|正路|歧路|歸路|歹路|死路|水路|沒路|沿路|泉路|活路|海路|熟路|狹路|理路|生路|甬路|當路|短路|筆路|管路|築路|紋路|細路|絕路|絲路|網路|線路|老路|背路|腳路|航路|落路|血路|行路|衢路|要路|言路|認路|讓路|財路|貪路|賢路|走路|趕路|跑路|路上|路中|路人|路兒|路加|路劫|路口|路史|路基|路奠|路子|路局|路岐|路引|路徑|路政|路數|路斃|路條|路標|路樹|路檢|路次|路段|路況|路燈|路祭|路程|路竹|路籤|路線|路考|路肩|路衢|路角|路試|路誌|路警|路費|路跑|路軌|路途|路過|路道|路遠|路隅|路隊|路障|路霸|路面|路頭|蹕路|蹡路|輦路|迷路|退路|送路|通路|過路|道路|遠路|遮路|邪路|銷路|鋪路|鐵路|長路|門路|閉路|開路|陌路|陸路|隘路|險路|雲路|電路|順路|領路|頭路|風路|養路|餞路|饋路|首路|馬路|鸞路|黑路}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=足06}}
+
+# {{defn|lang=ja|sort=足06}}
+
+====Readings====
+{{ja-readings|goon=[[る]] (ru) {{non-joyo-reading}}|kanon=[[ろ]] (ro)|kun=[[じ]] (ji), [[みち]] (michi)}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|ち}}
+From {{etyl|ojp|ja|sort=ち}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> May be cognate with {{etyl|ko|-}} {{ko-inline|길||road}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|ち}}
+
+====Alternative forms====
+* {{ja-l|道}}
+
+====Suffix====
+{{ja-pos|suffix|ち}}
+
+# {{lb|ja|sort=ち|obsolete}} attaches to place names, indicating a road to that place
+#: This usage has generally been replaced by ''-ji'' below.
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|じ}}
+Derived as a sound shift from ''chi'' above.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|じ}}
+
+====Alternative forms====
+* {{ja-l|道}}
+
+====Suffix====
+{{ja-pos|suffix|じ}}
+
+# a [[road]], a [[street]]
+#: {{ja-usex|山'''路'''、長'''路'''|やま-'''じ'''、なが-'''じ'''|a mountain '''road''', a long '''road'''}}
+# attaches to place names, indicating a road to that place
+#: {{ja-usex|奈良'''路'''|^なら-'''じ'''|'''Road''' to Nara}}
+# attaches to a time duration, indicating a [[trip]] taking that length of time
+#: {{ja-usex|四日'''路'''|よっか-'''じ'''|a '''trip''' of four days, a four-day-long '''trip'''}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|みち}}
+Originally a compound of {{compound|lang=ja|sort=みち|御|tr1=mi|pos1=honorific prefix|路|tr2=chi|t2=road, street, way}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> The prefix ''mi'' was in reference to the {{m|ja|神|tr=kami||god or spirit}} of roads.
+
+====Pronunciation====
+{{ja-pron|yomi=k|みち|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|道}}, {{ja-l|途}}, {{ja-l|径}}
+
+====Noun====
+{{ja-noun|みち}}
+
+# a [[way]], a [[street]], a [[road]], an [[alley]], a [[path]], a pass for local traffic
+# a [[way]] of doing something
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[로]]>[[노]]|eumhun=|rv=ro>no|mr=ro>no|y=lo>no}}
+
+# {{defn|lang=ko|sort=足06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lộ]], [[lọ]], [[lồ]], [[lựa]], [[trọ]], [[trò]], [[lần]]|rs=足06}}
+
+# {{defn|lang=vi|sort=足06}}
+
+[[zh-min-nan:路]]
+[[fr:路]]
+[[ko:路]]
+[[lt:路]]
+[[hu:路]]
+[[mg:路]]
+[[ml:路]]
+[[fj:路]]
+[[ja:路]]
+[[no:路]]
+[[pl:路]]
+[[ro:路]]
+[[sr:路]]
+[[sv:路]]
+[[ta:路]]
+[[th:路]]
+[[chr:路]]
+[[uk:路]]
+[[zh:路]]

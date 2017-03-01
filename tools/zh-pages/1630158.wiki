@@ -1,0 +1,67 @@
+==Japanese==
+{{ja-kanjitab|かみ|に|だん|かつ|よう|yomi=y}}
+
+===Etymology===
+A compound of {{m|ja|sc=Jpan|上二段|tr=kami nidan||upper dual grade}} and {{m|ja|sc=Jpan|活用|tr=katsuyō||conjugation}}. Eventually changes into [[上一段活用]] (kami ichidan katsuyō) verbs. The "upper" notation refers to the base -i which comes before the "lower" -e in Japanese order.
+
+===Pronunciation===
+{{ja-pron|かみ にだん かつよう|acc=6|acc_ref=DJR|y=y}}
+
+===Noun===
+{{ja-noun|かみ にだん かつよう|hhira=かみにだんくわつよう}}
+
+# {{lb|ja|grammar|sort=かみにだんかつよう}} upper dual grade conjugation; a verbal conjugation class which has the following inflections: i/i/u/uru/ure/i[yo]. Dual refers to the two columns (i and u) of the syllabary table that the conjugation occurs in. Dual grade conjugation occurs in literary Japanese, while the same verbs conjugate as Kami-Ichidan (e.g. 落つ-> 落ちる) in colloquial Japanese.
+Examples:
+{| class="wikitable"
+|-
+!
+! [[未然形|Irrealis]]
+! [[連用形|Adverbial]]
+! [[終止形|Conclusive]]
+! [[連体形|Attributive]]
+! [[已然形|Realis]]
+! [[命令形|Imperative]]
+|-
+! [[起く|ok-]] "to rise"
+| ok-i
+| ok-i
+| ok-u
+| ok-uru
+| ok-ure
+| ok-i[yo]
+|-
+! [[過ぐ|sug-]] "to spend"
+| sug-i
+| sug-i
+| sug-u
+| sug-uru
+| sug-ure
+| sug-i[yo]
+|-
+! [[生く|ik-]] "to live"
+| ik-i
+| ik-i
+| ik-u
+| ik-uru
+| ik-ure
+| ik-i[yo]
+|}
+
+===See also===
+* {{ja-r|上一段活用|かみ いちだん かつよう}}
+
+===Related terms===
+* {{ja-r|五段活用|ごだん かつよう}}
+* {{ja-r|カ行変格活用|カぎょう へんかく かつよう}}
+* {{ja-r|上一段活用|かみ いちだん かつよう}}
+* {{ja-r|ナ行変格活用|ナぎょう へんかく かつよう}}
+* {{ja-r|ラ行変格活用|ラぎょう へんかく かつよう}}
+* {{ja-r|サ行変格活用|サぎょう へんかく かつよう}}
+* {{ja-r|下一段活用|しも いちだん かつよう}}
+* {{ja-r|下二段活用|しも にだん かつよう}}
+* {{ja-r|四段活用|よだん かつよう}}
+
+===References===
+<references/>
+
+[[ja:上二段活用]]

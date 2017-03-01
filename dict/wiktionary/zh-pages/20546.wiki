@@ -1,0 +1,49 @@
+{{character info/new}}
+{{also|獻}}
+==Translingual==
+{{ja-forms|献|献|[[獻]]}}
+===Etymology===
+{{Han simp|獻|f=鬳|t=南}}. Current form {{Han compound|南|犬}}.
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=09|sn=13|four=|canj=JBIK|ids=⿰南犬}}
+
+====References====
+* {{Han ref|kx=0715.040|dkj=20539|dj=1127.050|hdz=21355.020|uh=732E|ud=29486}}
+
+----
+
+==Chinese==
+{{zh-see|獻}}
+
+----
+
+==Japanese==
+{| class="floatright" border=1 cellpadding="5" cellspacing="0"
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[shinjitai]]'''
+|<span class="Jpan" lang="ja" style="font-size: 175%">[[献]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[kyūjitai]]'''
+|<span class="Hant" lang="zh-Hant" style="font-size: 175%">[[獻]]</span>
+|}
+===Kanji===
+{{ja-kanji|grade=c|rs=犬09|style=s|kyu=獻}}
+
+# [[offer]], [[present]]
+# [[show]], [[display]]
+
+====Readings====
+* {{ja-readings|goon=[[こん]] (kon)|kanon=[[けん]] (ken)|kun=[[たてまつる]] (tatematsuru)|nanori=}}
+
+[[fr:献]]
+[[ko:献]]
+[[hu:献]]
+[[mg:献]]
+[[ja:献]]
+[[no:献]]
+[[pl:献]]
+[[th:献]]
+[[zh:献]]

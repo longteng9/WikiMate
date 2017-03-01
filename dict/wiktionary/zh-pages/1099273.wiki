@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|しょう|けい|yomi=on}}
+
+===Etymology===
+From {{m|ja|承|sc=Jpan|tr=shō||succeed to}} + {{m|ja|継|sc=Jpan|tr=daku||succeed}}
+
+===Noun===
+{{ja-noun|しょうけい}}
+
+# [[succession]]
+
+===Verb===
+{{ja-verb-suru|しょうけい}}
+
+# [[succeed]]
+
+====Conjugation====
+{{ja-suru|しょうけい}}
+
+[[mg:承継]]
+[[ja:承継]]

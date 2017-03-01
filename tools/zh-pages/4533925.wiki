@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|わる|き|k2=ぎ|yomi=y|r=y}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=わるぎ|悪|tr1=waru|t1=bad|気|tr2=ki|t2=spirit, intent, mood, will}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> {{rendaku2|sort=わるぎ|ki|gi}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|わるぎ|acc=0|acc_ref=DJR|acc2=3|acc2_ref=DJR}}
+
+===Noun===
+{{ja-noun|わるぎ|kyu=惡氣}}
+
+# [[malice]], [[negative]] [[intent]], [[ill]] [[will]]
+#: {{ja-usex|'''悪気'''はなかった。|'''わるぎ''' は なかった。|There was no '''ill will'''.}}
+# lack of [[trust]], [[suspicion]]
+# [[sneakiness]], [[cunning]]
+
+====Synonyms====
+* {{sense|malice}} {{ja-r|悪意|あくい}}
+* {{sense|cunning}} {{ja-r|悪知恵|わるぢえ}}
+
+===References===
+<references/>
+
+[[mg:悪気]]
+[[zh:悪気]]

@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han compound|㫃|丹|c1=s|c2=p|ls=psc}}
+
+===Han character===
+{{Han char|rn=70|rad=方|as=06|sn=10|four=08247|canj=YSOBY|ids=⿸⿰方𠂉丹}}
+
+# [[silk]] [[banner]] with [[bent]] [[pole]]
+
+====References====
+* {{Han ref|kx=0482.170|dkj=13640|dj=0844.100|hdz=32178.040|uh=65C3|ud=26051|bh=D1D0|bd=53712}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhān
+|c=zin1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嚼旃|廣夏細旃|旃檀|旃荼羅|旃裘|旃毛|戎旃|旃車}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=方06}}
+
+# {{defn|lang=ja|sort=方06}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen)|kun=[[はた]] (hata)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|eumhun=|rv=jeon|mr=chŏn|y=cen}}
+
+# {{defn|lang=ko|sort=方06}}
+
+[[fr:旃]]
+[[ko:旃]]
+[[hu:旃]]
+[[mg:旃]]
+[[ja:旃]]
+[[pl:旃]]
+[[th:旃]]
+[[zh:旃]]

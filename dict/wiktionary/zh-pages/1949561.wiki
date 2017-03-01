@@ -1,0 +1,54 @@
+{{also|呕吐}}
+==Chinese==
+{{zh-forms|s=呕吐}}
+
+===Pronunciation===
+{{zh-pron
+|m=ǒutù
+|c=au2 tou3
+|mn=xm:ó͘-thò͘/qz:ió-thò͘/zz,tw:áu-thò͘
+|ma=Zh-outù.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[vomit]]
+
+====Synonyms====
+* {{qualifier|Cantonese|Min}} {{zh-l|嘔|tr=-}}
+
+====Derived terms====
+{{zh-der|嘔吐物}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|おう|と|yomi=on}}
+
+===Alternative forms===
+* {{l/ja|おう吐}}
+
+===Noun===
+{{ja-noun|おうと}}
+
+# [[vomiting]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|おうと}}
+
+# [[vomit]]
+#: {{ja-usex|少し飲んだ水を'''嘔吐'''する|すこし のんだ みず を '''おうと''' する|vomit the small amount of water that she drank}}
+
+====Conjugation====
+{{ja-suru|おうと}}
+
+[[cs:嘔吐]]
+[[ko:嘔吐]]
+[[lt:嘔吐]]
+[[hu:嘔吐]]
+[[mg:嘔吐]]
+[[ja:嘔吐]]

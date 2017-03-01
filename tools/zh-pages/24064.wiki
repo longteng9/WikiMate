@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=124|rad=羽|as=09|sn=15|four=17220|canj=HBSMM,IBSMM}}
+
+# [[fly]], [[flutter]]
+
+====References====
+* {{Han ref|kx=0958.190|dkj=28762|dj=1404.210|hdz=53353.050|uh=7FE9|ud=32745|bh=BDA1|bd=48545}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=piān
+|c=pin1
+|mn=phian
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|浮想聯翩|翩然|翩然俊雅|翩翩|翩翩起舞|翩翻|翩若驚鴻|翩躚|聯翩|聯聯翩翩|連翩|風度翩翩}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=羽09}}
+
+# {{defn|lang=ja|sort=羽09}}
+
+====Readings====
+* {{ja-readings|on=[[へん]] (hen)|kun=[[ひるがえる]] (hirugaeru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=편|eumhun=|rv=pyeon|mr=p'yŏn|y=phyen}}
+
+# {{defn|lang=ko|sort=羽09}}
+
+[[fr:翩]]
+[[ko:翩]]
+[[hu:翩]]
+[[mg:翩]]
+[[ja:翩]]
+[[no:翩]]
+[[pl:翩]]
+[[th:翩]]
+[[zh:翩]]

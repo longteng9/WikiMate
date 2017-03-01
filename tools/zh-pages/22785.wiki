@@ -1,0 +1,38 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=07|sn=13|four=88601|canj=HHGR|ids=⺮告}}
+
+====References====
+{{Han ref|kx=0886.231|dkj=26099|hdz=52974.060|uh=7B76}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=告-Sichuanese}}
+
+===Pronunciation===
+{{zh-pron
+|m=筶
+|m-s=gao4
+|c=gou2
+|g=
+|cat=n,m:v
+}}
+
+===Definitions===
+{{zh-noun}}
+
+# ancient [[divination]] instrument
+# {{lb|zh|Sichuanese}} to [[try]]
+#: {{zh-x|筶 一下|give it a '''try'''|tr='''gao4''' yi2ha4|M-S}}
+
+===Synonyms===
+* {{sense|to try}} {{q|Sichuanese}} {{zh-l|校}}
+
+[[fr:筶]]
+[[mg:筶]]
+[[pl:筶]]
+[[th:筶]]
+[[zh:筶]]

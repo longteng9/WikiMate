@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|黨}}
+==Translingual==
+{{ja-forms|党|党|[[黨]]}}
+===Glyph origin===
+{{Han etym}}
+{{Han compound|尚|儿|c1=p|c2=s|t2=person|ls=psc}}.
+
+{{Han simp|黨|f=黑|t=儿}}
+
+Originally a surname, then used as a simplified substitute for the homophonous character [[黨]].
+
+===Han character===
+{{Han char|rn=10|rad=儿|as=08|sn=10|four=90216|canj=FBRHU|ids=⿳龸兄}}
+
+# [[political]] [[party]], [[gang]], [[faction]]
+
+====References====
+* {{Han ref|kx=0125.180|dkj=01381|dj=0265.230|hdz=10273.110|uh=515A|ud=20826|bh=D0DE|bd=53470}}
+
+----
+
+==Chinese==
+===Etymology 1===
+{{zh-see|黨}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=dǎng
+|c=dong2
+|mn=tóng
+|cat=pn
+}}
+
+====Proper noun====
+{{zh-proper noun}}
+
+# {{surname|lang=zh}}
+# {{zh-only used in|党項/党项}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=儿08|style=s|kyu=黨}}
+
+====Readings====
+{{ja-kanjitab|とう|yomi=o}}
+* {{ja-readings|goon=[[とう]] (tō)|kanon=[[とう]] (tō)|kun=[[なかま]] (nakama), [[むら]] (mura)}}
+
+===Noun===
+{{ja-noun|とう|kyu=黨}}
+
+# political [[party]]
+
+{{ja-noun|たむら}}
+
+# {{alternative form of|屯|lang=ja}}
+
+===Suffix===
+{{ja-pos|suffix|とう|kyu=黨}}
+
+# political party
+
+[[fr:党]]
+[[ko:党]]
+[[kn:党]]
+[[lo:党]]
+[[li:党]]
+[[hu:党]]
+[[mg:党]]
+[[ja:党]]
+[[no:党]]
+[[pl:党]]
+[[th:党]]
+[[chr:党]]
+[[zh:党]]

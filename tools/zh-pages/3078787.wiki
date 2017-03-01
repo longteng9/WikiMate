@@ -1,0 +1,46 @@
+{{also|优等}}
+==Chinese==
+{{zh-forms|s=优等}}
+
+===Pronunciation===
+{{zh-pron
+|m=yōuděng
+|mn=iu-téng
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# of the [[highest]] [[order]]; [[excellent]]; [[superior]]; [[high-class]]; [[first-rate]]
+
+====Derived terms====
+{{zh-der|優等生}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ゆう|とう|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|yomi=on|acc=0|acc_ref=<ref>{{R:Kenkyusha JEL Pocket}}</ref>|ゆうとう}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|ゆうとう}}
+
+# [[cum laude]]
+#: {{ja-usex|優等で卒業した秀才|ゆうとう で そつぎょう した しゅうさい|a talented student who graduated with honors}}
+
+===Noun===
+{{ja-noun|ゆうとう}}
+
+# {{lb|ja|education|sort=ゆうとう}} [[excellence]]
+
+====Derived terms====
+* {{ja-r|優等生|ゆうとうせい}}: honors student
+
+===References===
+<references />
+
+[[ko:優等]]
+[[zh:優等]]

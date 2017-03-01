@@ -1,0 +1,105 @@
+{{character info/new}}
+{{also|煖}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=09|sn=13|four=62047|canj=ABME|ids=⿰日爰}}
+
+# [[warm]], [[genial]]
+
+====References====
+* {{Han ref|kx=0498.260|dkj=14064|dj=0866.190|hdz=21525.010|uh=6696|ud=26262|bh=B778|bd=46968}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=nuǎn
+|c=nyun5
+|h=pfs=nôn
+|mn=loán/qz:lún
+|mn_note=loán - literary; lún - vernacular
+|mc=y
+|oc=y
+|ma=Zh-nuan.ogg
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[warm]]; [[toasty]]
+
+====Compounds====
+{{zh-der|暖房|暖烘烘|暖呼呼|暖壺|暖和|暖簾|暖流|暖瓶|暖氣|暖融融|暖色|暖水瓶|暖洋洋|暄暖}}
+
+===Pronunciation===
+{{zh-pron
+|m=xuān
+|c=hyun1
+|h=
+|mn=
+|mc=
+|oc=
+|ma=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only used in|暖姝}}
+# {{zh-only used in|暖暖}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=日09}}
+
+* Meaning: warm
+====Readings====
+* {{ja-readings|goon=[[なん]] (nan) {{non-joyo-reading}}|kanon=[[だん]] (dan)|kanyoon=[[のん]] (non) {{non-joyo-reading}}|kun=[[あたたかい]] ([[暖かい]], atatakai), [[あたためる]] ([[暖める]], atatameru), [[あたたまる]] ([[暖まる]], atatamaru)}}
+
+====Compounds====
+* {{ja-r|暖気|だんき}}
+* {{ja-r|暖房|だんぼう}}
+* {{ja-r|暖流|だんりゅう}}
+* {{ja-r|暖炉|だんろ}}
+* {{ja-r|暖簾|のれん}}: noren, a Japanese curtain
+* {{ja-r|温暖|おんだん}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[난]], [[훤]]|eumhun=|rv=nan, hwon|mr=nan, hwŏn|y=nan, hwen}}
+
+# {{defn|lang=ko|sort=日09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hoãn]], [[noãn]]|rs=日09}}
+
+# {{defn|lang=vi|sort=日09}}
+
+[[fr:暖]]
+[[ko:暖]]
+[[hu:暖]]
+[[mg:暖]]
+[[ja:暖]]
+[[no:暖]]
+[[pl:暖]]
+[[th:暖]]
+[[zh:暖]]

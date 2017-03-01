@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhūshì
+|mn=ti-sek/tu-sek/thu-sek/zz:thi-sit
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[stock]] (in a company)
+
+====Synonyms====
+* {{zh-l|股份}}
+
+====Derived terms====
+{{zh-der|株式會社}}
+----
+
+==Japanese==
+{{ja-kanjitab|かぶ|しき|yomi=ko}}
+
+===Noun===
+{{ja-noun|かぶしき}}
+
+# [[stock]] (in a company)
+
+====Derived terms====
+* {{ja-r|株式会社|かぶしき がいしゃ}}, {{ja-r|株式会社|かぶしき かいしゃ}}: stock company
+
+----
+
+==Korean==
+{{ko-hanjatab|株|式}}
+
+===Noun===
+{{ko-noun|rv=jusik|hangeul=주식}}
+# {{hanja form of|주식|stock, share}}
+
+[[ko:株式]]
+[[lo:株式]]
+[[hu:株式]]
+[[mg:株式]]
+[[ja:株式]]
+[[chr:株式]]
+[[zh:株式]]

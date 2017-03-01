@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|そう|しょう|yomi=o}}
+
+===Etymology===
+{{der|sort=そうしょう|ja|ltc|總稱}}
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|そうしょう|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|そうしょう}}
+
+# [[general]] [[term]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|そうしょう}}
+
+# [[mean]] [[collective]]ly
+
+====Conjugation====
+{{ja-suru|そうしょう}}
+
+===References===
+<references/>
+
+[[hu:総称]]
+[[ja:総称]]
+[[zh:総称]]

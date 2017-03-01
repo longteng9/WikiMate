@@ -1,0 +1,27 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiāsùqì
+|c=gaa1 cuk1 hei3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|physics}} [[accelerator]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|か|そく|き|yomi=on}}
+
+===Noun===
+{{ja-noun|かそくき}}
+
+# [[cyclotron]], particle accelerator
+
+[[ky:加速器]]
+[[zh:加速器]]

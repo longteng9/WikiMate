@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=08|sn=14|four=88512|canj=HQSB|ids=⿱⺮㧜}}
+
+# [[hoop]]
+# [[bind]], [[surround]]
+
+====References====
+* {{Han ref|kx=0887.120|dkj=26130|dj=1315.100|hdz=52978.060|uh=7B8D|ud=31629|bh=E354|bd=58196}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gū
+|c=ku1
+|mn=kho͘
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|界箍兒|箍緊|頭箍兒|老牛箍嘴|金箍棒|針箍|箍兒|車箍轆會|緊箍兒|腦箍|緊箍咒|箍桶}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹08}}
+
+====Readings====
+{{ja-readings|goon=[[く]] (ku)|kanon=[[こ]] (ko)|kun=[[たが]] (taga)}}
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|たが|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|たが|acc=2|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|たが}}
+
+# [[hoop]]
+
+====Derived terms====
+* {{ja-r|箍が緩む|たが が ゆるむ}}
+* {{ja-r|箍を締める|たが を しめる}}
+* {{ja-r|箍を外す|たが を はずす}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|eumhun=|rv=go|mr=ko|y=ko}}
+
+# {{defn|lang=ko|sort=竹08}}
+
+[[zh-min-nan:箍]]
+[[fr:箍]]
+[[hu:箍]]
+[[mg:箍]]
+[[ja:箍]]
+[[pl:箍]]
+[[th:箍]]
+[[chr:箍]]
+[[zh:箍]]

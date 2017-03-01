@@ -1,0 +1,62 @@
+{{also|紫外线}}
+==Chinese==
+{{zh-forms|s=紫外线|type=21}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+{{wasei kango|紫%外%線|し%がい%せん}}
+
+===Pronunciation===
+{{zh-pron
+|m=zǐwàixiàn
+|c=zi2 ngoi6 sin3
+|mn=chí-gōa-sòaⁿ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[ultraviolet]] [[radiation]]
+
+{{zh-cat|Light}}
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|し|がい|せん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=0|y=ko|しがいせん}}
+* {{hmp|lang=ja|市街戦}}
+
+===Noun===
+{{ja-noun|しがいせん|hhira=しぐわいせん}}
+
+# [[ultraviolet]] [[radiation]]
+
+===Descendants===
+* Chinese: {{zh-l|紫外線}}
+* Korean: {{ko-l|자외선}}
+* Vietnamese: {{vi-l|tia tử ngoại}}, {{vi-l|tia cực tím}}
+
+===See also===
+* {{ja-r|赤%外%線|せき%がい%せん|[[infrared]] [[radiation]]}}
+
+{{C|ja|Light|sort=しがいせん}}
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|mr=chaoesŏn|y=cāoysen|hangeul=자외선}}
+
+# {{hanja form of|자외선|[[ultraviolet]] [[radiation]]}}
+
+[[zh-min-nan:紫外線]]
+[[ko:紫外線]]
+[[hu:紫外線]]
+[[mg:紫外線]]
+[[ja:紫外線]]
+[[zh:紫外線]]

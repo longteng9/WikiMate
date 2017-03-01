@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=08|sn=12|four=46911|canj=DAPP|ids=⿰木昆}}
+
+====References====
+* {{Han ref|kx=0532.050|dkj=14924|dj=0920.130|hdz=21232.030|uh=68CD|ud=26829|bh=B4D2|bd=46290}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gùn
+|c=gwan3
+|h=pfs=kun
+|mn=kùn |mna=Taiwanese-Tone_3.ogg
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[stick]], [[cudgel]]
+# [[scoundrel]]
+
+====Compounds====
+* {{zh-l|枴棍}}
+* {{zh-l|搞屎棍}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木08}}
+
+# {{defn|lang=ja|sort=木08}}
+
+====Readings====
+* {{ja-readings|goon=[[ごん]] (gon), [[こん]] (kon)|kanon=[[こん]] (kon)|kun=[[つえ]] (tsue)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[곤]], [[혼]]|eumhun=|rv=gon, hon|mr=kon, hon|y=kon, hon}}
+
+# {{defn|lang=ko|sort=木08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木08|hanviet=[[côn]], [[gon]], [[gòn]]}}
+
+# {{defn|lang=vi|sort=木08}}
+
+[[zh-min-nan:棍]]
+[[fr:棍]]
+[[ko:棍]]
+[[li:棍]]
+[[hu:棍]]
+[[mg:棍]]
+[[ja:棍]]
+[[no:棍]]
+[[pl:棍]]
+[[th:棍]]
+[[chr:棍]]
+[[vi:棍]]
+[[zh:棍]]

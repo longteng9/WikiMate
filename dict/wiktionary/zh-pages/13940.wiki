@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|妪}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=11|sn=14|four=41416|canj=VSRR|ids=⿰女區}}
+
+# [[old]] [[woman]], [[hag]]
+
+====Descendants====
+* [[妪]]
+
+====References====
+* {{Han ref|kx=0269.230|dkj=06640|dj=0537.130|hdz=21076.040|uh=5AD7|ud=23255|bh=B9E1|bd=47585}}
+
+----
+
+==Chinese==
+{{zh-forms|s=妪}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|t1=woman|區|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yù
+|c=jyu2,jyu3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|大巫嫗|嫗伏|煦嫗|老嫗|老嫗能解}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女11}}
+
+====Readings====
+* {{ja-readings|kanyoon=[[おう]] (ō)|goon=[[う]] (u)|kanon=[[う]] (u)|kun=[[おうな]] (ōna), [[あたためる]] (atatameru)}}
+
+===Etymology===
+Originally /omi<small>1</small>na/. Likely realized as [omina] (see [[w:Jōdai Tokushu Kanazukai|Jōdai Tokushu Kanazukai]]). The initial /o/ expressed "grown, large" and contrasted with /wo/ "young, youth" found in [[女|womina]] "woman".
+
+===Noun===
+{{ja-noun|おみな}}
+
+# a grown woman
+# an old woman
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|rv=gu|mr=ku}}
+
+# {{defn|lang=ko|sort=女11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ẩu]]|rs=女11}}
+
+# {{defn|lang=vi|sort=女11}}
+
+[[fr:嫗]]
+[[li:嫗]]
+[[hu:嫗]]
+[[mg:嫗]]
+[[ja:嫗]]
+[[pl:嫗]]
+[[th:嫗]]
+[[zh:嫗]]

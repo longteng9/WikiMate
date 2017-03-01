@@ -1,0 +1,103 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{wasei kango|野%球|や%きゅう}}
+
+===Pronunciation===
+{{zh-pron
+|h=pfs=yâ-khiù
+|mn=iá-kiû
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Taiwanese Min Nan and Hakka}} [[baseball]]
+
+====Synonyms====
+* {{zh-l|棒球}}
+
+===References===
+* {{thcwd|8079}}
+
+{{zh-cat|Baseball}}
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|や|きゅう|yomi=o}}
+
+===Etymology===
+{{com|ja|野|球|t1=[[field]]|t2=[[ball]]|sort=やきゅう|tr1=ya|tr2=kyū}}.
+
+===Pronunciation===
+{{ja-pron|acc=h|y=ko|やきゅう}}
+
+===Noun===
+{{ja-noun|やきゅう|hhira=やきう}}
+
+# [[baseball]] {{gloss|ball game}}
+#* {{quote-book|genre=fiction||{{w|Mitsuru Adachi}}|{{w|lang=ja|ショートプログラム (漫画)|{{lang|ja|ショート・プログラム}}}}|trans-title={{w|Short Program (manga)|Short Program}}|location=Tokyo|publisher=Shogakukan|date=Jul 23 2007|isbn=978-4-09-127873-9|volume=3||194|chapter={{lang|ja|白い夏}}|trans-chapter=White Summer|{{ja-usex|やめてくれ……勝つためだけに'''野%球'''をやってるんじゃない……友%達を…一%生の友%達を……|^やめてくれ…… ^かつ ため だけ に '''や%きゅう''' を やってるん じゃ ない…… ^とも%だち を… ^いっ%しょう の とも%だち を……|Just stop…… '''Baseball''' isn't all about winning…… It's where you make friends… the best friends in your life……}}|language=Japanese}}
+
+====Synonyms====
+* {{ja-r|ベースボール|}}
+
+===See also===
+{{top2}}
+*{{ja-r|投%手|とう%しゅ|[[pitcher]]}}
+* {{ja-r|捕%手|ほ%しゅ|[[catcher]]}}
+* {{ja-r|一%塁%手|いち%るい%しゅ|[[first baseman]]}}
+* {{ja-r|二%塁%手|に%るい%しゅ|[[second baseman]]}}
+* {{ja-r|三%塁%手|さん%るい%しゅ|[[third baseman]]}}
+* {{ja-r|遊%撃%手|ゆう%げき%しゅ|[[short stop]]}}
+* {{ja-r|右%翼%手|う%よく%しゅ|[[right fielder]]}}
+* {{ja-r|中%堅%手|ちゅう%けん%しゅ|[[center fielder]]}}
+* {{ja-r|左%翼%手|さ%よく%しゅ|[[left fielder]]}}
+{{mid2}}
+* {{ja-r|ピッチャー||[[pitcher]]}}
+* {{ja-r|キャッチャー||[[catcher]]}}
+* {{ja-r|ファースト||[[first baseman]]}}
+* {{ja-r|セカンド||[[second baseman]]}}
+* {{ja-r|サード||[[third baseman]]}}
+* {{ja-r|ショート||[[short stop]]}}
+* {{ja-r|ライト||[[right fielder]]}}
+* {{ja-r|センター||[[center fielder]]}}
+* {{ja-r|レフト||[[left fielder]]}}
+{{bottom}}
+
+===Descendants===
+* Hakka: {{l|hak|野球|tr=yâ-khiù}}
+* Korean: {{ko-l|야구}}
+* Min Nan: {{l|nan|野球|tr=iá-kiû}}
+
+===References===
+* {{R:Shogakukan}}
+
+{{C|ja|Baseball|sort=やきゅう}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-hanja|hangeul=야구|mr=yagu|y=yākwu}}
+
+# {{hanja form of|야구|[[baseball]]}}
+
+[[zh-min-nan:野球]]
+[[fr:野球]]
+[[ko:野球]]
+[[sw:野球]]
+[[lo:野球]]
+[[lt:野球]]
+[[li:野球]]
+[[hu:野球]]
+[[ja:野球]]
+[[ru:野球]]
+[[sv:野球]]
+[[chr:野球]]
+[[uk:野球]]
+[[zh:野球]]

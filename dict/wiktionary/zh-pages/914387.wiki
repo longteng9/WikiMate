@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bèibàozhě
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[hibakusha]]
+
+----
+
+==Japanese==
+{{was fwotd|2015|August|6|lang=ja}}
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Hibakusha}}
+</div>
+{{ja-kanjitab|ひ|ばく|しゃ|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ひばくしゃ|被爆|tr1=hibaku|t1=the act of being bombed|者|tr2=sha|t2=person}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|ひばくしゃ|acc=2|acc2=3|y=o|dev=3|acc_ref=NHK,SMK5|acc2_ref=NHK,SMK5}}
+
+===Noun===
+{{ja-noun|ひばくしゃ}}
+
+# [[hibakusha]]: a victim of the [[atomic]] bombings of Hiroshima or Nagasaki during World War II
+
+====Usage notes====
+Although this term literally means “someone who was bombed” regardless of the type of bomb, modern usage is generally restricted to the specific sense of someone who experienced the atomic bombings of Hiroshima or Nagasaki.
+
+===References===
+<references/>
+
+[[cs:被爆者]]
+[[es:被爆者]]
+[[hu:被爆者]]
+[[zh:被爆者]]

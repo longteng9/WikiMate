@@ -1,0 +1,105 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=22|rad=匚|as=04|sn=6|four=71712|canj=SHML|ids=⿷匚斤}}
+
+# [[craftsman]], [[artisan]]
+# [[workman]]
+
+====References====
+* {{Han ref|kx=0153.220|dkj=02605|dj=0345.110|hdz=10083.050|uh=5320|ud=21280|bh=A64B|bd=42571}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiàng
+|c=zoeng6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一代宗匠|丁匠|別具匠心|剃頭匠|劣匠|匠人|匠伯|匠作|匠師|匠心|匠心獨具|匠心獨運|匠意|匠成|匠戶|匠氏|匠氣|匠石|匠石斫鼻|匠石運斤|另具匠心|哲匠|大匠|大匠不斲|字匠|宗匠|將作大匠|將匠|小爐兒匠|工匠|巧匠|巨匠|弓匠|心匠|意匠|打鐵匠|把式匠|接骨匠|摟包兒匠|教書匠|木匠|木匠戴枷|桶匠|梓匠|梓匠輪輿|棚匠|機匠|毛毛匠|油漆匠|泥水匠|泥瓦匠|漆匠|獨具匠心|理髮匠|瓦匠|畫匠|皮匠|石匠|篾匠|繡匠|能工巧匠|臭皮匠|良匠|花匠|裱糊匠|解匠|郢匠|郢匠揮斤|都料匠|醫匠|針筆匠|銀匠|銅匠|錫匠|鎖匠|鐵匠|雕刻匠|鞋匠}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=匚04}}
+
+====Readings====
+{{ja-readings
+|goon=[[ぞう]] (zō) < [[ざう]] (zau) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[しょう]] (shō) < [[しやう]] (shau)
+|kun=[[たくみ]] (takumi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|師匠|ししょう}}
+{{der-bottom}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|たくみ|acc=0|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|たくみ}}
+
+# [[artisan]], [[workman]], [[carpenter]]
+
+====Alternative forms====
+* {{l|ja|しょう|tr=shō}}
+
+===Proper noun===
+{{ja-pos|たくみ|proper}}
+
+# {{given name|male|lang=ja|sort=たくみ}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=장|rv=jang|mr=chang}}
+
+# {{defn|lang=ko|sort=匚04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''匠''' ([[tượng]])
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:匠]]
+[[fr:匠]]
+[[ko:匠]]
+[[li:匠]]
+[[hu:匠]]
+[[mg:匠]]
+[[ms:匠]]
+[[ja:匠]]
+[[no:匠]]
+[[pl:匠]]
+[[th:匠]]
+[[vi:匠]]
+[[zh:匠]]

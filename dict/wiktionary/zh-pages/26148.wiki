@@ -1,0 +1,107 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=09|sn=15|four=54194|canj=LIPTD|ids=⿰虫枼}}
+
+# [[butterfly]]
+
+====References====
+* {{Han ref|kx=1091.250|dkj=33333|dj=1556.280|hdz=42868.010|uh=8776|ud=34678|bh=BDBA|bd=48570}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dié
+|c=dip6
+|h=pfs=
+|md=
+|mn=ia̍h/tia̍p
+|mn_note=ia̍h - vernacular, tia̍p - literary
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Min Nan'') {{thcwdq}}
+
+----
+
+==Japanese==
+
+===Etymology===
+tepu > tefu > *tewu > teu > /tyoː/ [choː].
+
+===Noun===
+{{ja-noun|ちょう|hhira=てふ}}
+
+# [[butterfly]]
+
+===Kanji===
+{{ja-kanji|grade=n|rs=虫09}}
+
+=====Readings=====
+* {{ja-readings|goon=[[じょう]] (jō), {{qualifier|historical}} [[でふ]] (defu)|kanon=[[ちょう]] (chō), {{qualifier|historical}} [[てふ]] (tefu)|kun= {{qualifier|historical}}[[かわひらこ]](kawahirako)|nanori=}}
+
+====See also====
+* {{ja-r|蝶々|チョウチョウ}}
+* {{ja-r|蛾|が}}
+* {{ja-r|毛虫|けむし}}
+
+[[Category:Japanese basic words|ちょう]]
+[[Category:ja:Insects|ちょう]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=접|eumhun=|rv=jeop|mr=chŏp|y=cep}}
+
+# {{defn|lang=ko|sort=虫09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[điệp]]|rs=虫09}}
+
+# {{defn|lang=vi|sort=虫09}}
+
+[[cs:蝶]]
+[[fr:蝶]]
+[[ko:蝶]]
+[[is:蝶]]
+[[it:蝶]]
+[[rw:蝶]]
+[[sw:蝶]]
+[[lo:蝶]]
+[[lt:蝶]]
+[[hu:蝶]]
+[[mg:蝶]]
+[[fj:蝶]]
+[[ja:蝶]]
+[[no:蝶]]
+[[pl:蝶]]
+[[ro:蝶]]
+[[ru:蝶]]
+[[sv:蝶]]
+[[th:蝶]]
+[[chr:蝶]]
+[[tr:蝶]]
+[[zh:蝶]]

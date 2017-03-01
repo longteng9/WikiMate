@@ -1,0 +1,59 @@
+{{also|豫備|予備}}
+==Chinese==
+{{zh-forms|s=预备|t2=豫備}}
+
+===Etymology 1===
+{{rfe|zh}}
+
+====Pronunciation====
+{{zh-pron
+|m=yùbèi
+|c=jyu6 bei6
+|h=pfs=yi-phi
+|mn=xm,tp:ū-pī/qz:īr-pī/zz,kh:ī-pī
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[prepare]]; to [[get]] [[ready]]
+#: {{zh-x|各就各位 ，預備 ，跑 ！|On your marks, '''get set''', go!}}
+
+=====Derived terms=====
+{{zh-der|預備隊}}
+
+===Etymology 2===
+{{bor|nan|ja|-}} {{ja-r|預備|よび}}.
+
+====Pronunciation====
+{{zh-pron
+|mn=tw:ió-bih/tw:iú-bih
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|Taiwanese Min Nan}} to [[prepare]]; to [[get]] [[ready]]
+
+===References===
+* {{thcwd|10355}}
+* {{thcwd|31050}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|よ|び|yomi=o}}
+===Noun===
+{{ja-noun|よび}}
+#{{kyujitai spelling of|予備}}
+
+{{attention|ja|may need checking}}
+
+[[zh-min-nan:預備]]
+[[ko:預備]]
+[[hu:預備]]
+[[ja:預備]]

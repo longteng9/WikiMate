@@ -1,0 +1,38 @@
+==Japanese==
+{{ja-kanjitab|ほう|し|yomi=on}}
+
+===Noun===
+{{ja-noun|ほうし}}
+
+# [[attendance]], [[service]] to one's country or community
+#: {{ja-usex|社会に'''奉仕'''する。|しゃかい に '''ほうし''' する。|We strive to serve the community.}}
+# offering goods at a discount
+
+====Synonyms====
+* {{gloss|discounting}} {{ja-r|サービス}}
+
+====Derived terms====
+* {{ja-r|奉仕者|ほうししゃ|gloss=servant, minister}}
+* {{ja-r|奉仕女|ほうしめ|gloss=deaconess}}
+* {{ja-r|奉仕品|ほうしひん|gloss=bargain goods, sale items}}
+* {{ja-r|奉仕活動|ほうし かつどう|gloss=volunteer activity}}
+* {{ja-r|勤労奉仕|きんろう ほうし|gloss=labor service}}
+* {{ja-r|社会奉仕|しゃかい ほうし|gloss=volunteer social service}}
+* {{ja-r|社会奉仕家|しゃかい ほうしか|gloss=social worker}}
+
+===Verb===
+{{ja-verb-suru|ほうし}}
+
+# [[serve]] one's nation or community
+# [[offer]] goods at a discount
+
+====Conjugation====
+{{ja-suru|ほうし}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:奉仕]]
+[[mg:奉仕]]
+[[ja:奉仕]]
+[[zh:奉仕]]

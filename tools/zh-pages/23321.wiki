@@ -1,0 +1,126 @@
+{{character info/new}}
+{{also|给}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=06|sn=12|four=28961|canj=VFOMR|ids=⿰糹合}}
+
+====References====
+* {{Han ref|kx=0923.060|dkj=27432|dj=1357.180|hdz=53394.110|uh=7D66|ud=32102|bh=B5B9|bd=46521}}
+
+----
+
+==Chinese==
+{{zh-forms|s=给}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|糸|合|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=gěi
+|m_note=colloquial
+|c=kap1
+|h=pfs=kip
+|mn=kip
+|w=
+|mc=y
+|oc=y
+|ma=y
+|cat=v,prep
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[give]]
+#: {{zh-x|給 你 一個 吻|'''give''' you a kiss}}
+# [[for]]; for the benefit of
+#: {{zh-x|我 給 你 按摩 吧。|Let me do a massage '''for''' you.}}
+# [[to]]; [[with]] {{gloss|following verbs to indicate the handing over or passing of something}}
+#: {{zh-x|這裡 有 我 一直 想 說 給 你 聽 的 話。|Here are the words I've always wanted to say '''to''' you.}}
+# [[to]] {{gloss|introduce recipient of an action}}
+#: {{zh-x|給 他 道歉！|Apologise '''to''' him!}}
+# [[by]] {{gloss|marker of passive voice}}
+#: {{zh-x|我們 都 給 人 騙 了。|We all '''got''' fool'''ed'''.}}
+# {{n-g|Used in the form of {{zh-l|給[[我]]}} in imperative sentences for emphasis.}}
+#: {{zh-x|你 給我 閉嘴！|Shut '''the fuck''' up!}}
+
+=====Synonyms=====
+{{zh-dial}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=jǐ
+|m_note=literary
+|c=kap1
+|h=pfs=kip
+|mn=kip
+|w=
+|mc=y
+|oc=y
+|ma=y
+|cat=v,n,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[supply]]; to [[provide]]
+#: {{zh-x|給予|to provide; to give}}
+# to [[grant]]; to [[bestow]]
+# [[salary]]; [[pay]]
+# [[abundant]]; [[plenty]]
+# [[nimble]]; [[quick]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|不給|不能自給|交給|人給家足|付給|仰給|仰給於人|供給|保險給付|俸給|傭給|公共給水|利口捷給|加給|取給|口才辨給|口給|口齒便給|呈給|周給|女給|家給|家給人足|家給戶贍|家給民足|恩給制|慧給|戶給人足|捷給|撥給|敏給|日不暇給|日給|月給|有給職|死亡給付|無給職|現金給付|發給|白給|目不暇給|目不給視|給予|給事中|給付|給以|給以顏色|給使|給假|給價|給我記住|給散|給水|給臉|給與|給足|給養|自給|自給自足|薪給|虛給|補給|補給品|補給線|補給證|請給|賑給|辨給|辭給|辯給|配給|配給制度|配給品|配給票|醫療給付|饔飧不給|齊給}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=糸06}}
+
+# {{defn|lang=ja|sort=糸06}}
+
+====Readings====
+* {{ja-readings|goon=[[こう]] (kō)|kanon=[[きゅう]] (kyū)|kun=[[たまう]] (tamau)|nanori=}}
+
+====Compounds====
+* {{ja-r|給料|きゅうりょう}}: [[salary]]
+* {{ja-r|供給|きょうきゅう}}: [[supply]], [[provision]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=급|eumhun=|rv=geup|mr=kŭp|y=kup}}
+
+# {{defn|lang=ko|sort=糸06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cấp]], [[góp]], [[cắp]], [[cóp]], [[cướp]]|rs=糸06}}
+
+# {{defn|lang=vi|sort=糸06}}
+
+[[fr:給]]
+[[ko:給]]
+[[lt:給]]
+[[hu:給]]
+[[mg:給]]
+[[mn:給]]
+[[fj:給]]
+[[ja:給]]
+[[pl:給]]
+[[th:給]]
+[[chr:給]]
+[[zh:給]]

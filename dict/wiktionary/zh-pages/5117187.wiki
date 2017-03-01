@@ -1,0 +1,31 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Salamander}}
+{{wikipedia|Newt}}
+[[File:Salamander-olympus.jpg|thumb|250px|{{lang|ja|井守}} (''imori''): a '''[[salamander]]''' or '''[[newt]]'''.]]
+</div>
+{{ja-kanjitab|い|もり|yomi=k}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=いもり|井|tr1=i|t1=well|守り|tr2=mori|t2=protector, guardian|pos2=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|守る}} ''moru'', “to protect, to guard”}}.
+
+===Pronunciation===
+{{ja-pron|yomi=k|いもり|acc=1|acc_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{ja-l|蠑螈}} {{qualifier|only refers to the animal, not the job}}
+
+===Noun===
+{{ja-noun|いもり|イモリ|hhira=ゐもり}}
+
+# a [[salamander]], a [[newt]]
+# {{lb|ja|sort=いもり|obsolete}} a [[job]] [[title]] in the {{w|Edo period}} and earlier, referring to an assistant to the {{m|ja|井司|tr=ishi|lit=well boss}}, both jobs in charge of aspects of the [[irrigation]] [[system]]
+
+===References===
+<references/>
+
+[[Category:ja:Amphibians|いもり]]
+
+[[cs:井守]]
+[[ja:井守]]

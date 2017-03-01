@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Translation of {{der|zh|sa|शीलखण्डन||violation of morality or virtue}}. Tibetan equivalent is {{m|bo|ཚུལ་ཁྲིམས་ཉམས་པ}}.
+
+===Pronunciation===
+{{zh-pron
+|m=pòjiè
+|c=po3 gaai3
+|mn=phòa-kài
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|religion}} to [[break]] a [[commandment]]
+# {{lb|zh|by extension}} to make an [[exception]]
+
+====Derived terms====
+{{zh-der|破戒人}}
+
+====Descendants====
+{{CJKV||はかい|파계|phá giới}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|は|かい|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|はかい|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はかい}}
+
+# [[breaking]] a [[commandment]], especially a religious commandment
+
+====Antonyms====
+* {{ja-r|持戒|じかい}}
+
+====Compounds====
+* {{ja-r|破戒僧|はかいそう}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[ko:破戒]]
+[[zh:破戒]]

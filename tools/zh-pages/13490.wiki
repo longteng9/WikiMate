@@ -1,0 +1,72 @@
+{{character info/new}}
+==Translingual==
+===Etymology===
+{{Han etyl}}
+===Han character===
+{{Han char|rn=36|rad=夕|as=03|sn=6|four=77210|canj=HNMNI|ids=⿵几歹}}
+
+# [[early]] in the [[morning]], [[dawn]]
+# [[previous]]
+
+====References====
+* {{Han ref|kx=0246.070|dkj=05755|dj=0489.050|hdz=20861.070|uh=5919|ud=22809|bh=A667|bd=42599}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=sù
+|c=suk1
+|mn=siok
+|mc=y
+|oc=y
+|ma=
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=夕03}}
+
+# {{defn|lang=ja|sort=夕03}}
+
+====Readings====
+* {{ja-readings|on=[[しゅく]] (shuku)|kun=[[つとに]] (tsutoni), [[はやい]] (hayai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=숙|rv=suk|mr=suk}}
+
+# {{defn|lang=ko|sort=夕03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[túc]]|rs=夕03}}
+
+# {{defn|lang=vi|sort=夕03}}
+
+[[fr:夙]]
+[[li:夙]]
+[[hu:夙]]
+[[mg:夙]]
+[[ja:夙]]
+[[pl:夙]]
+[[th:夙]]
+[[zh:夙]]

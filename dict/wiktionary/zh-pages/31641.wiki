@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|骇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=06|sn=16|four=70382|canj=SFYVO|ids=⿰馬亥}}
+
+# [[terrify]], [[frighten]], [[scare]]
+# [[shock]]
+
+====References====
+* {{Han ref|kx=1438.080|dkj=44725|dj=1962.280|hdz=74555.050|uh=99ED|ud=39405|bh=C062|bd=49250}}
+
+----
+
+==Chinese==
+{{zh-forms|s=骇}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hài
+|c=haai5,haai6,hoi5,hoi4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬06}}
+
+# {{defn|lang=ja|sort=馬06}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai), [[がい]] (gai)|kun=[[おどろく]] (odoroku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=해|eumhun=|rv=hae|mr=hae|y=hay}}
+
+# {{defn|lang=ko|sort=馬06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hãi]], [[hãy]]|rs=馬06}}
+
+# {{defn|lang=vi|sort=馬06}}
+
+[[fr:駭]]
+[[hu:駭]]
+[[ja:駭]]
+[[pl:駭]]
+[[th:駭]]
+[[zh:駭]]

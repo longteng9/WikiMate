@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|病|臥}}
+
+===Noun===
+{{ja-noun|びょうが}}
+# [[sick]] in [[bed]], being ill in bed
+
+===Verb===
+{{ja-verb-suru|k|hira=びょうが|rom=byōga|hidx=ひょうが'|full=病臥する}}
+
+# be [[sick]] in [[bed]], be ill in bed
+
+====Conjugation====
+{{ja-suru|病臥|びょうが|byōga}}
+
+====Derived terms====
+* {{ja-def|病臥中}} [[bedridden]]
+
+[[ja:病臥]]

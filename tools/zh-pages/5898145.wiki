@@ -1,0 +1,18 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=zǐchéngxù
+|c=zi2 cing4 zeoi6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[subroutine]], [[procedure]] {{gloss|a function coded to perform a specific task}}
+
+{{zh-cat|Computing}}
+
+[[zh:子程序]]

@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|颇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=181|rad=頁|as=05|sn=14|four=41286|canj=DEMBC|ids=⿰皮頁}}
+
+====References====
+* {{Han ref|kx=1402.180|dkj=43415|dj=1919.010|hdz=74366.100|uh=9817|ud=38935|bh=BBE1|bd=48097}}
+
+----
+
+==Chinese==
+{{zh-forms|s=颇}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=頗
+|ma=Zh-po.ogg
+|c=po2,po1
+|h=
+|md=
+|mn=qz,xm,zz:pho/qz,twv:phó͘/tw,xm,zz:phó/twv:phò
+|w=
+|mc=y
+|oc=y
+|cat=a,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[lean]]ing to [[one]] [[side]], [[oblique]]
+# [[very]], [[rather]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=頁05}}
+
+# {{defn|lang=ja|sort=頁05}}
+
+====Readings====
+* {{ja-readings|on=[[は]] (ha)|kun=[[かたよる]] (katayoru), [[すこぶる]] (sukoburu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=파|eumhun=|rv=pa|mr=p'a|y=pha}}
+
+# {{defn|lang=ko|sort=頁05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=頁05| hanviet = [[phở]], [[pha]], [[phả]], [[và]]}}
+
+# {{defn|lang=vi|sort=頁05}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=9817 Nom Foundation]
+
+[[fr:頗]]
+[[ko:頗]]
+[[hu:頗]]
+[[mg:頗]]
+[[ja:頗]]
+[[pl:頗]]
+[[th:頗]]
+[[zh:頗]]

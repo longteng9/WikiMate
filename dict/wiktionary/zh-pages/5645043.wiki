@@ -1,0 +1,24 @@
+==Chinese==
+{{zh-forms|gloss=-}}
+
+===Etymology===
+From a transcription based on the {{etyl|ja|zh}} pronunciation of {{m|zh|寒武|tr=Kanbu}}, contracted from {{der|zh|ja|カンブリア|tr=Kanburia||[[Cambria]]}}
+
+===Pronunciation===
+{{zh-pron
+|m=Hánwǔ
+|c=hon4 mou5
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-propn}}
+
+# the [[Cambrian]]
+
+====Derived terms====
+{{zh-der|寒武紀}}
+
+{{zh-cat|Geology|Time}}
+
+[[zh:寒武]]

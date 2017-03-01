@@ -1,0 +1,99 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=06|sn=12|four=88104|canj=HOMG}}
+
+# bamboo fish trap
+
+===References===
+* {{Han ref|kx=0882.280|dkj=25995|dj=1312.010|hdz=52967.070|uh=7B4C|ud=31564|bh=DAE2|bd=56034}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=cyun4|y=chyun4}}
+
+# {{defn|lang=yue|sort=竹06}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹06}}
+
+====Readings====
+{{ja-readings|goon=[[せん]] (sen)|kanon=[[せん]] (sen)|kun=[[うえ]] (ue), [[うけ]] (uke)}}
+
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|うえ|yomi=k}}
+/uhe<sub>2</sub>/: *upəj → upe → uɸe → uwe → ue.
+
+====Pronunciation====
+{{ja-pron|yomi=k|うえ|acc=2|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|うえ|hhira=うへ}}
+
+# a device placed in a river used to capture fish
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki}}
+#*: 筌 音宣, 訓'''于閇'''也, 謂敎也
+
+===Etymology 2===
+{{ja-kanjitab|うけ|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|うけ|acc=2|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|うけ}}
+
+# a device placed in a river used to capture fish
+
+===Etymology 3===
+{{ja-kanjitab|せん|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|せん|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|せん}}
+
+# a device placed in a river used to capture fish
+
+===References===
+<references/>
+:* {{R:Nara Ibun 3}}
+
+[[Category:ja:Fishing|うえ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|eumhun=|rv=jeon|mr=chŏn|y=cen}}
+
+# {{defn|lang=ko|sort=竹06}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[quán]] ([[quan2]]), [[zhù]] ([[zhu4]])|wg=ch'üan<sup>2</sup>, chu<sup>4</sup>}}
+
+# {{defn|lang=cmn|sort=竹06}}
+
+[[fr:筌]]
+[[hu:筌]]
+[[mg:筌]]
+[[ja:筌]]
+[[pl:筌]]
+[[th:筌]]
+[[zh:筌]]

@@ -1,0 +1,101 @@
+{{character info/new}}
+{{also|將}}
+==Translingual==
+{{stroke order|strokes=9}}
+{{ja-forms|将|将|[[將]]}}
+
+===Etymology===
+{{Han simp|將|f=爿|t=丬}}. In Simplified Chinese, the top right is simplified to [[夕]] (removing the dot), while in Japanese shinjitai it is simplified to variant of [[爫]], as in top of [[采]]. However, these are represented by the same Unicode code point – see {{w|Han unification}}.
+
+===Han character===
+{{Han char|rn=41|rad=寸|as=06|asj=07|sn=9|snj=10|four=|canj=LMNII|ids=⿰丬𪧷, ⿰丬寽}}
+
+# [[will]], [[going to]], [[future]]
+# {{lb|mul|military}} [[general]]
+# to [[desire]], to [[invite]], to [[request]]
+
+====Derived characters====
+* [[奨]] [[醤]]
+
+====References====
+* {{Han ref|kx=0294.111|dkj=07437|hdz=42375.010|uh=5C06|ud=23558}}
+
+----
+
+==Chinese==
+{{zh-see|將}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=寸07|style=s|kyu=將}}
+
+# commander, leader, general
+
+====Readings====
+{{ja-readings|goon=[[そう]] (sō)|kanon=[[しょう]] (shō)|kun=[[ひきいる]] (hikiiru), [[もって]] (motte), [[まさに]] (masani)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|主将|しゅしょう}}: (team) [[captain]]; (national forces) [[commander in chief]]
+* {{ja-r|将家|しょうか}}
+* {{ja-r|将棋|しょうぎ}}: [[shogi]], Japanese chess
+* {{ja-r|将軍|しょうぐん}}: [[shogun]], Japanese military ruler
+* {{ja-r|将校|しょうこう}}: a commissioned [[officer]]
+* {{ja-r|将帥|しょうすい}}
+* {{ja-r|将星|しょうせい}}
+* {{ja-r|将卒|しょうそつ}}: [[officers]] and [[soldiers]]
+* {{ja-r|将門|しょうもん}}
+* {{ja-r|大将|たいしょう}}: (military) [[general]]
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|しょう|yomi=o}}
+From {{etyl|ltc|ja|sort=しょう}} {{m|zh|將|tr=tsjang<sup>H</sup>||leader}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|しょう|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|しょう|hhira=しやう}}
+
+# [[general]]; [[commander]]
+
+====Proper noun====
+{{ja-pos|proper|しょう}}
+
+# {{given name|male|lang=ja|sort=しょう}}
+
+{{ja-pos|proper|まさる}}
+
+# {{given name|male|lang=ja|sort=まさる}}
+
+===Etymology 2===
+{{ja-kanjitab|はた|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|はた|acc=1|acc_ref=DJR,NHK}}
+
+====Adverb====
+{{ja-pos|adverb|はた}}
+
+# [[also]]
+
+===References===
+<references/>
+
+[[fr:将]]
+[[ko:将]]
+[[it:将]]
+[[li:将]]
+[[hu:将]]
+[[mg:将]]
+[[ja:将]]
+[[no:将]]
+[[pl:将]]
+[[th:将]]
+[[tg:将]]
+[[chr:将]]
+[[zh:将]]

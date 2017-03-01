@@ -1,0 +1,129 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{wasei kango|警%察|けい%さつ|police}}
+
+===Pronunciation===
+{{zh-pron
+|m=jǐngchá
+|ma=Zh-jingchá.ogg
+|c=ging2 caat3
+|h=pfs=kín-chhat
+|j=jing2 ca1
+|md=gīng-chák
+|mn=xm,qz,twv:kèng-chhat/zz,tw:kéng-chhat
+|w=2jin tshaq
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|uncountable}} [[police]]
+# {{lb|zh|countable}} [[police officer]] {{zh-mw|名|位}}
+
+====Usage notes====
+* Whilst {{lang|zh|警察}} usually refers to the [[police]] and [[police officer|police officers]] outside mainland China, the equivalent institution in the [[PRC]] is actually called {{zh-l|公安}}, literally, "public security".
+
+====Synonyms====
+* {{sense|police officer}} {{zh-l|警官}}, {{zh-l|警員}}, {{zh-l|警察仔}}
+
+====Derived terms====
+{{zh-der|警察國家|水警|特種警察|特警}}
+
+====See also====
+* {{zh-l|公安}}
+
+{{zh-cat|Beginning|Law enforcement}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|けい|さつ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|けいさつ|acc=h|acc_ref=DJR,NHK,SMK5|y=ko}}
+
+===Noun===
+{{ja-noun|けいさつ}}
+
+# [[police]]
+#: {{ja-usex|警%察に逮%捕される|けい%さつ に たい%ほ される|arrested by the police}}
+
+====Derived terms====
+* {{ja-r|警%察%官|けい%さつ%かん|[[police officer]]}}
+* {{ja-r|警%察%署|けい%さつ%しょ|[[police station]]}}
+
+===Descendants===
+* Chinese: {{zh-l|警察}}
+* Korean: {{ko-l|경찰}}
+* Okinawan: {{l|ryu|警察|tr=kīsachi, chīsachi}}
+* Vietnamese: {{vi-l|cảnh sát}}
+
+===References===
+<references/>
+
+{{C|ja|Law enforcement|sort=けいさつ}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=경찰|mr=kyŏngch'al|y=kyēngchal}}
+
+# {{hanja form of|경찰|[[police]]}}
+
+----
+
+==Okinawan==
+
+===Etymology===
+First used around the beginning of the Meiji period,<ref name="OJ">{{R:Okinawago Jiten}}</ref> {{bor|ryu|ja|警察|tr=keisatsu|nocap=y|sort=きいさち}}
+
+===Noun===
+{{head|ryu|noun|hiragana|きーさち|romaji|kīsachi|hiragana|ちーさち|romaji|chīsachi}}
+
+# [[police]]
+
+===References===
+<references/>
+
+{{C|ryu|Law enforcement|sort=きいさち}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|cảnh sát|[[police]]}}
+
+[[zh-min-nan:警察]]
+[[cy:警察]]
+[[fr:警察]]
+[[ko:警察]]
+[[id:警察]]
+[[it:警察]]
+[[lo:警察]]
+[[lv:警察]]
+[[lt:警察]]
+[[li:警察]]
+[[hu:警察]]
+[[mg:警察]]
+[[nl:警察]]
+[[ja:警察]]
+[[pl:警察]]
+[[pt:警察]]
+[[ru:警察]]
+[[fi:警察]]
+[[sv:警察]]
+[[th:警察]]
+[[chr:警察]]
+[[uk:警察]]
+[[zh:警察]]

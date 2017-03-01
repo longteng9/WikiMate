@@ -1,0 +1,134 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=03|sn=7|four=17332|canj=SIP|ids=⿱刃心}}
+
+====Derived characters====
+* [[認]]
+
+====References====
+* {{Han ref|kx=0376.040|dkj=10312|dj=0702.120|hdz=42271.030|uh=5FCD|ud=24525|bh=A7D4|bd=42964}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|刃|t1=blade|心|t2=heart|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=rěn
+|ma=Zh-ren.ogg
+|c=jan5,jan2
+|h=pfs=ngiûn
+|md=
+|mn=qz,tp,xm:lím/kh,zz:jím/lún
+|mn_note=lím/jím - literary; lún - vernacular
+|w=3nyin,3zen
+|w_note=3nyin - colloquial; 3zen - literary
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[endure]]; to [[bear]]; to [[suffer]]
+# to [[forbear]]
+#: {{zh-x|忍 笑|to stifle a laugh}}
+#: {{zh-x|忍 著[着]{zhe} 眼淚|to hold back tears}}
+
+===Compounds===
+{{zh-der|忍無可忍|不忍|不忍下手|不忍坐視|不忍心|不忍言|不忍釋手|動心忍性|包羞忍恥|吞聲忍氣|吞聲忍讓|含垢忍恥|含垢忍辱|含悲忍淚|含羞忍辱|堅忍|堅忍不拔|容忍|弘忍|強忍|忍不住|忍俊不禁|忍冬|忍受|忍垢|忍垢偷生|忍尤含詬|忍心|忍心害理|忍性|忍恥偷生|忍恥含垢|忍恥含羞|忍氣吞聲|忍痛|忍者|忍者龜|忍耐|忍術|忍讓|忍辱|忍辱偷生|忍辱含垢|忍辱含羞|忍辱求全|忍辱負重|忍飢挨餓|忍饑受渴|忍饑受餓|忮忍|愛不忍釋|慘不忍睹|慘不忍聞|於心不忍|於心何忍|殘忍|氣忍聲吞|濡忍|猜忍|痛不堪忍|百忍|目不忍睹|目不忍視|相忍為國|聲吞氣忍|能忍自安|落忍|隱忍|難以忍受}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=心03}}
+
+# [[patience]], [[endurance]], [[stamina]].
+
+====Readings====
+* {{ja-readings|goon=[[にん]] (nin)|kanon=[[じん]] (jin) {{non-joyo-reading}}|nanori=[[おし]] (oshi), [[しの]] (shino), [[しのぶ]] (shinobu), [[たう]] (tau), [[たふ]] (tafu)|kun=しの (shino)}}
+
+====Compounds====
+* {{ja-r|忍ばせる|しのばせる}}
+* {{ja-r|忍ぶ|しのぶ}}
+* {{ja-r|忍び逢い|しのびあい}}
+* {{ja-r|忍び足|しのびあし}}
+* {{ja-r|忍び入る|しのび.いる}}
+* {{ja-r|忍び難い|しのびがたい}}
+* {{ja-r|忍び込む|しのびこむ}}
+* {{ja-r|忍び声|しのびごえ}}
+* {{ja-r|忍び泣き|しのびなき}}
+* {{ja-r|忍び泣く|しのびなく}}
+* {{ja-r|忍び音|しのびね}}
+* {{ja-r|忍びやか|しのびやか}}
+* {{ja-r|忍び寄る|しのびよる}}
+* {{ja-r|忍び笑い|しのびわらい}}
+* {{ja-r|忍苦|にんく}}
+* {{ja-r|忍者|にんじゃ}}
+* {{ja-r|忍従|にんじゅう}}
+* {{ja-r|忍術|にんじゅつ}}
+* {{ja-r|忍耐|にんたい}}
+* {{ja-r|忍耐強い|にんたいづよい}}
+* {{ja-r|忍耐力|にんたいりょく}}
+* {{ja-r|忍法|にんぽう}}
+* {{ja-r|押忍|おす}}/{{ja-r|押忍|おっす}}
+* {{ja-r|恋い忍ぶ|こいしのぶ}}
+* {{ja-r|堪え忍ぶ|たえしのぶ}}
+* {{ja-r|耐え忍ぶ|たえしのぶ}}
+* {{ja-r|隠忍|いんにん}}
+* {{ja-r|勘忍|かんにん}}
+* {{ja-r|堪忍|かんにん}}
+* {{ja-r|堪忍袋|かんにんぶくろ}}
+* {{ja-r|堅忍|けんにん}}
+* {{ja-r|堅忍不抜|けんにんふばつ}}
+* {{ja-r|残忍|ざんにん}}
+
+===Proper noun===
+{{ja-pos|proper|しのぶ}}
+
+# {{given name|male|or=female|lang=ja}}
+# {{surname|lang=ja}}
+
+[[Category:Japanese surnames|しのぶ]]
+[[Category:Japanese male given names|しのぶ]]
+[[Category:Japanese female given names|しのぶ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=인|eumhun=참다|rv=in|mr=in|y=in}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhẫn]], [[nhịn]], [[những]], [[nhẩn]], [[nhẵn]]|rs=心03}}
+
+# {{defn|lang=vi|sort=心03}}
+
+[[zh-min-nan:忍]]
+[[fr:忍]]
+[[ko:忍]]
+[[li:忍]]
+[[hu:忍]]
+[[mg:忍]]
+[[ms:忍]]
+[[ja:忍]]
+[[no:忍]]
+[[pl:忍]]
+[[fi:忍]]
+[[th:忍]]
+[[zh:忍]]

@@ -1,0 +1,45 @@
+{{character info/new}}
+{{also|嚴|严}}
+==Translingual==
+{{Han simplified forms|嚴|厳|严}}
+
+===Etymology===
+Japanese {{Han simp|嚴|f=吅|t=⺍}} (compare [[単]], from [[單]]).
+
+===Han character===
+{{Han char|rn=27|rad=厂|as=15|sn=17|four=|canj=FMMJK,FMNJK|ids=⿱⺍𠪚}}
+
+# [[strict]], [[rigorous]], [[rigid]]
+# [[stern]]
+
+====References====
+* {{Han ref|kx=0163.131|dkj=03048|hdz=10047.031|uh=53B3|ud=21427}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=厂15|style=s|kyu=嚴}}
+
+====Readings====
+* {{ja-readings|goon=[[ごん]] (gon)|kanon=[[げん]] (gen)|kun=[[きびしい]] (kibishii), [[おごそか]] (ogosoka), [[いつくし]] (itsukushi)}}
+
+===Adjective===
+{{ja-adj|kyu=嚴|decl=tari|げん}}
+
+# [[strict]], [[stern]]
+
+===Adverb===
+{{ja-pos|adverb|kyu=嚴|げん}}
+
+# [[strictly]], [[sternly]]
+
+[[fr:厳]]
+[[ko:厳]]
+[[hu:厳]]
+[[mg:厳]]
+[[ja:厳]]
+[[pl:厳]]
+[[th:厳]]
+[[zh:厳]]

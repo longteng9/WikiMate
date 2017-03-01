@@ -1,0 +1,100 @@
+{{also|自杀}}
+==Chinese==
+{{zh-forms|s=自杀}}
+
+===Pronunciation===
+{{zh-pron
+|m=zìshā
+|c=zi6 saat3
+|h=pfs=chhṳ-sat
+|md=cê̤ṳ-sák
+|mn=qz:chīr-sat/tw,xm,zz:chū-sat
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[commit suicide]]; to [[kill]] oneself; to [[take one's own life]]
+#: {{zh-x|他 去年 自殺 了。|He '''took his own life''' last year.}}
+
+===Noun===
+{{zh-noun}}
+
+# [[suicide]]
+#: {{zh-x|應該 在 媒體 中 報導 關於 自殺 的 新聞 嗎？|Should '''suicides''' be reported in news media?}}
+
+===Synonyms===
+* {{zh-l|自盡}}
+
+====Derived terms====
+{{zh-der|被自殺}}
+
+{{zh-cat|Advanced|Suicide}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じ|さつ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|じさつ|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|じさつ}}
+
+# [[suicide]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|自殺関与罪|じさつかんよざい}}
+* {{ja-r|自殺行為|じさつこうい}}
+* {{ja-r|自殺的|じさつてき}}
+* {{ja-r|自殺点|じさつてん}}: [[own goal]]
+* {{ja-r|自殺幇助罪|じさつほうじょざい}}
+* {{ja-r|飛び降り自殺|とびおりじさつ}}
+* {{ja-r|飛び込み自殺|とびこみじさつ}}
+{{der-bottom}}
+
+====Related terms====
+* {{ja-r|他殺|たさつ}}
+
+===Verb===
+{{ja-verb-suru|じさつ}}
+
+# to [[commit suicide]]
+
+====Conjugation====
+{{ja-suru|じさつ}}
+
+===References===
+<references/>
+:* {{R:Shogakukan}}
+
+[[Category:ja:Suicide|しさつ']]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=자살}}
+
+# {{hanja form of|자살|[[suicide]]}}
+
+[[zh-min-nan:自殺]]
+[[el:自殺]]
+[[fr:自殺]]
+[[ko:自殺]]
+[[lt:自殺]]
+[[li:自殺]]
+[[hu:自殺]]
+[[mg:自殺]]
+[[ja:自殺]]
+[[pl:自殺]]
+[[pt:自殺]]
+[[ru:自殺]]
+[[sv:自殺]]
+[[chr:自殺]]
+[[zh:自殺]]

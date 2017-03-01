@@ -1,0 +1,16 @@
+==Japanese==
+{{ja-kanjitab|ひ|じょう|すう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ひじょうすう|acc=2|y=o}}
+
+===Noun===
+{{ja-noun|ひじょうすう}}
+
+# {{lb|ja|arithmetic|sort=ひじょうすう}} [[multiplicand]]
+
+===See also===
+* {{ja-l|乗数|じょうすう|jōsū}}; {{ja-l|積|せき|seki}}
+
+[[mg:被乗数]]
+[[zh:被乗数]]

@@ -1,0 +1,75 @@
+{{also|农场}}
+==Chinese==
+{{zh-forms|s=农场}}
+
+===Pronunciation===
+{{zh-pron
+|m=nóng場
+|c=nung4 coeng4
+|h=pfs=nùng-chhòng
+|mn=qz,tw,xm:lông-tiûⁿ/zz:lông-tiôⁿ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[farm]] {{zh-mw|家|座}}
+
+====Derived terms====
+{{zh-der|農場主}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|のう|じょう|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|のうじょう|y=o|acc=0|acc2=3|acc_ref=NHK|acc2_ref=NHK}}
+
+===Noun===
+{{ja-noun|のうじょう}}
+
+# [[farm]]
+
+====Synonyms====
+* [[畑]]: [[field]]
+
+====Related terms====
+* [[農業]] ([[のうぎょう]], nōgyō) [[agriculture]]
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=농장}}
+
+# {{hanja form of|농장|[[farm]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|nông trường|[[farm]]}}
+
+[[ko:農場]]
+[[hu:農場]]
+[[mg:農場]]
+[[fj:農場]]
+[[ja:農場]]
+[[fi:農場]]
+[[sv:農場]]
+[[chr:農場]]
+[[zh:農場]]

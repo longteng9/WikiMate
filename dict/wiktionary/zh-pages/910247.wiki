@@ -1,0 +1,76 @@
+{{also|火灾}}
+==Chinese==
+{{zh-forms|s=火灾}}
+
+===Pronunciation===
+{{zh-pron
+|m=huǒzāi
+|c=fo2 zoi1
+|h=pfs=fó-châi
+|mn=hóe-chai/hé-chai
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[fire]] {{gloss|as a disaster}}; [[conflagration]]
+
+====Synonyms====
+* {{qualifier|Cantonese}} {{zh-l|火燭}}
+
+====Derived terms====
+{{zh-der|森林火災}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|か|さい|yomi=o}}
+
+===Etymology===
+{{IPAchar|/kwasai/}} → {{IPAchar|/kasai/}}
+
+From {{etyl|ltc|ja|sort=かさい}} compound {{m|ltc|火災|tr=xwa<sup>X</sup> tsoj}}. Compare modern {{etyl|cmn|-}} reading ''huǒzāi''.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|かさい|acc=0|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|かさい|hhira=くわさい}}
+
+# [[fire]], [[conflagration]] (as in a [[disaster]])
+# {{lb|ja|sort=かさい|Buddhism}} one of the three major [[calamity|calamities]] that destroy the world
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|火災救助袋|かさい きゅうじょ-ぶくろ}}: a cloth [[escape]] [[chute]] installed in tall buildings in Japan to [[facilitate]] escape from a fire
+* {{ja-r|火災警報|かさい けいほう}}: a [[fire alarm]] {{qualifier|a sound, not a device}}
+* {{ja-r|火災避難訓練|かさい ひなん くんれん}}: a [[fire drill]]
+* {{ja-r|火災避難路|かさい ひなんろ}}: a [[fire escape]], a fire escape [[route]]
+* {{ja-r|火災保険|かさい ほけん}}: [[fire]] [[insurance]]
+* {{ja-r|火災報知機|かさい ほうちき}}: a [[fire alarm]] {{qualifier|a device, not a sound}}
+* {{ja-r|火災予防条例|かさい よぼう じょうれい}}: a [[fire]] [[prevention]] [[law]] or [[ordinance]], a [[fire code]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Fire|かさい]]
+
+[[zh-min-nan:火災]]
+[[bg:火災]]
+[[el:火災]]
+[[fr:火災]]
+[[ko:火災]]
+[[ku:火災]]
+[[lt:火災]]
+[[hu:火災]]
+[[mg:火災]]
+[[ja:火災]]
+[[pl:火災]]
+[[ru:火災]]
+[[fi:火災]]
+[[chr:火災]]
+[[zh:火災]]

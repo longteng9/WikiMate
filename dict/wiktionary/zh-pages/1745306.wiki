@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms|s=白带丸}}
+
+===Pronunciation===
+{{zh-pron
+|m=báidàiwán
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# A herbal pill used in [[traditional Chinese medicine]] to "remove ''damp-heat'' and arrest excessive leucorrhea”.
+
+The formulation of the pill is:
+
+{| class="wikitable sortable"
+|-
+!Name
+!Chinese ([[Simplified Chinese|S]])
+!Grams
+|-
+|Cortex Phellodendri (stir-baked with wine)
+|黄柏 (酒炒)
+| 150
+|-
+|Cortex Ailanthi
+|樗白皮
+| 300
+|-
+|Radix Paeoniae Alba
+|白芍
+| 100
+|-
+| {{l|la|radix|Radix}} [[Angelica sinensis|Angelicae Sinensis]]
+|当归
+| 100
+|-
+|Rhizoma Cyperi (processed with vinegar)
+|香附 (醋制)
+| 50
+|}
+
+====References====
+* State Pharmacopoeia Commission of the PRC (2005). "Pharmacopoeia of The People's Republic of China (Volume I)". Chemical Industry Press. ISBN 7117069821.

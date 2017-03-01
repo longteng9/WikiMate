@@ -1,0 +1,31 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|ホオズキ}}
+{{wikipedia|Physalis alkekengi}}
+[[File:PhysalisAlkekengi-balloon.jpg|thumb|250px|{{lang|ja|鬼灯}} (''hōzuki''): the '''[[Chinese lantern]]''' plant, showing the fruit in its distinctive husk.]]
+</div>
+{{ja-kanjitab|yomi=irr|sort=ほおずき}}
+
+===Etymology===
+Probably originally a compound of {{compound|lang=ja|sort=ほおずき|頬|tr1=hō|t1=cheeks|付き|tr2=tsuki|t2=resembling, appearing like|pos2=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|付く}} ''tsuku'' “to stick → to become a certain state or quality”}}, from the way the [[husk]] vaguely resembles [[bulge|bulging]] red cheeks. {{rendaku2|sort=ほおずき|tsuki|zuki}}
+
+The {{lang|ja|鬼灯}} kanji spelling is an example of [[熟字訓#Japanese|jukujikun]], literally meaning “demon's lantern”. The {{ja-l|酸漿}} kanji spelling is from the Chinese term.
+
+===Pronunciation===
+{{ja-pron|yomi=irr|ほおずき|acc=0|acc_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|酸漿}}
+
+===Noun===
+{{ja-noun|ほおずき|ホオズキ|hhira=ほおづき}}
+
+# ''[[Physalis alkekengi]]''
+#: [[vernacular|Vernacular]] names include the [[Chinese lantern]], [[Japanese lantern]], [[bladder cherry]], [[winter cherry]], [[husk tomato]], and the {{vern|strawberry groundcherry|pedia=1}}.
+
+====Usage notes====
+{{U:ja:biology|ホオズキ}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}

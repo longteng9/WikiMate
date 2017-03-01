@@ -1,0 +1,61 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tí'àn
+|c=tai4 on3
+|mn=thê-àn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[proposal]]; [[motion]]
+#: {{zh-x|撤回 提案|to withdraw a '''proposal'''}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てい|あん|yomi=on}}
+
+===Noun===
+{{ja-noun|ていあん}}
+
+# [[proposal]]
+# [[suggestion]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|ていあん}}
+
+# to [[propose]]
+# to [[suggest]]
+
+====Conjugation====
+{{ja-suru|ていあん}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=제안}}
+
+# {{hanja form of|제안|[[proposal]], [[suggestion]]}}
+
+[[zh-min-nan:提案]]
+[[fr:提案]]
+[[ko:提案]]
+[[li:提案]]
+[[hu:提案]]
+[[mg:提案]]
+[[ja:提案]]
+[[chr:提案]]
+[[zh:提案]]

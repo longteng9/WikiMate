@@ -1,0 +1,90 @@
+{{character info/new}}
+{{also|萤|蛍}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=10|sn=16|four=99136|canj=FFBLI}}
+
+====References====
+* {{Han ref|kx=1093.450|dkj=33434|dj=1558.320|hdz=42881.060|uh=87A2|ud=34722|bh=BFC3|bd=49091}}
+
+----
+
+==Chinese==
+{{zh-forms|s=萤}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yíng
+|c=jing4
+|h=pfs=
+|md=
+|mn=qz,tw,xm,zz:êng/qz,tw,xm,zz:iâⁿ
+|mn_note=êng - literary; iâⁿ - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[firefly]]
+
+====Derived terms====
+* {{zh-l|螢光}}
+* {{zh-l|螢幕}}
+* {{zh-l|流螢}}
+* {{zh-l|螢火}}
+
+{{zh-cat|Insects}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫10}}
+
+# {{defn|lang=ja|sort=虫10}}
+
+====Readings====
+* {{ja-readings|on=[[けい]] (kei)|kun=[[ほたる]] (hotaru)|goon=[[ぎょう]] (gyō)}}
+
+===Noun===
+{{ja-kanjitab|ほたる|yomi=k}}
+{{ja-noun|ほたる|ホタル}}
+
+# {{alternative spelling of|蛍|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=형|eumhun=|rv=hyeong|mr=hyŏng|y=hyeng}}
+
+# {{defn|lang=ko|sort=虫10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[huỳnh]]|rs=虫10}}
+
+# {{defn|lang=vi|sort=虫10}}
+
+[[fr:螢]]
+[[ko:螢]]
+[[hu:螢]]
+[[mg:螢]]
+[[ja:螢]]
+[[pl:螢]]
+[[th:螢]]
+[[vi:螢]]
+[[zh:螢]]

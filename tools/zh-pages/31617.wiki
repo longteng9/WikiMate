@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|驾}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=05|sn=15|four=46327|canj=KRSQF}}
+
+====References====
+* {{Han ref|kx=1436.090|dkj=44667|dj=1960.340|hdz=74550.090|uh=99D5|ud=39381|bh=BE72|bd=48754}}
+
+----
+
+==Chinese==
+{{zh-forms|s=驾}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|加|馬|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jià
+|c=gaa3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[drive]]; to [[sail]]; to [[fly]]
+# {{lb|zh|historical}} [[cart]]; [[carriage]]
+# {{lb|zh|historical}} [[emperor]]'s [[carriage]]
+# {{lb|zh|figurative}} [[emperor]]
+
+===Compounds===
+{{zh-der|車駕|征駕|御駕親征|命駕|嚴駕|光駕|千里命駕|並駕齊驅|御駕|凌駕|保駕|崩駕|屈駕|勞駕|尊駕|宮車晏駕|並駕|乘鶴駕雲|別駕|大駕|夙駕|半朝鑾駕|國際駕照|勸駕|大駕光臨|泛駕之馬|方駕|擎天駕海|晏駕|打鑾駕|枉駕|扈駕|稅駕|移駕|星駕|星陳夙駕|法駕|擋駕|泛駕|方駕齊驅|救駕|接駕|搗謊駕舌|無照駕駛|東曦既駕|柯駕|星言夙駕|駕凌|親駕|頂喪駕靈|羽駕|面駕|鶴駕|駕返瑤池|駕輕就熟|覂駕|駕駛盤|臺駕|駑馬十駕|龍駕|齊驅並駕|見駕|駕鶴西歸|駕照|駕靈|駙駕|驚駕|騰雲駕霧|鸞駕|駕駛|駕馭|駕頭|駕霧騰雲|駕長|駕車|駕臨|駕御|駕娘|聖駕|誑駕|速駕|駕說|駕帖|鑾駕|起駕|護駕|軒駕|駕上人|駕駛執照|駕崩}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬05}}
+
+# {{defn|lang=ja|sort=馬05}}
+
+====Readings====
+* {{ja-readings|goon=[[け]] (ke)|kanon=[[か]] (ka)|kanyoon=[[が]] (ga)|kun=[[のる]] (noru), [[しのぐ]] (shinogu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=가|eumhun=[[수레]]|rv=ga|mr=ka|y=ka}}
+
+# {{defn|lang=ko|sort=馬05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|giá|rs=馬05}}
+
+# {{defn|lang=vi|sort=馬05}}
+
+[[fr:駕]]
+[[ko:駕]]
+[[hu:駕]]
+[[mg:駕]]
+[[ja:駕]]
+[[pl:駕]]
+[[th:駕]]
+[[zh:駕]]

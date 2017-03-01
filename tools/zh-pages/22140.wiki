@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|硗}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=12|sn=17|four=14611|canj=MRGGU}}
+
+# hard and infertile
+
+====References====
+* {{Han ref|kx=0837.010|dkj=24494|dj=1254.100|hdz=42455.030|uh=78FD|ud=30973|bh=EDA6|bd=60838}}
+
+----
+
+==Chinese==
+{{zh-forms|s=硗}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|石|堯|c1=s|c2=p|t1=stone|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=qiāo
+|c=haau1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|磽地|磽瘠|磽确|磽薄}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=石12}}
+
+# {{defn|lang=ja|sort=石12}}
+
+====Readings====
+* {{ja-readings|goon=[[きょう]] (kyō)|kanon=[[こう]] (kō)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=교|eumhun=|rv=gyo|mr=kyo|y=kyo}}
+
+# {{defn|lang=ko|sort=石12}}
+
+[[fr:磽]]
+[[hu:磽]]
+[[mg:磽]]
+[[ja:磽]]
+[[pl:磽]]
+[[th:磽]]
+[[zh:磽]]

@@ -1,0 +1,137 @@
+{{character info/new}}
+{{also|圏}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=31|rad=囗|as=08|sn=11|four=60712|canj=WFQU|ids=⿴囗卷}}
+
+====References====
+* {{Han ref|kx=0219.070|dkj=04789|dj=0446.290|hdz=10721.080|uh=5708|ud=22280|bh=B0E9|bd=45289}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=圏}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|囗|卷|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=juàn
+|c=gyun6
+|h=pfs=
+|md=kuòng
+|mn=
+|w=3jjyoe
+|mc=y
+|oc=1,2+4+5
+|cat=n,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[pen]]; [[sty]]; [[fold]]
+# [[state]]; [[city]]
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|fold=1|圈檻|圈肥|獸圈|棚圈|馬圈|豬圈|虎圈|起圈}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=quān,er=y
+|c=hyun1
+|h=pfs=khiên
+|md=kuàng
+|mn=khoan/khng/khoân/tw:khong/tw:khian
+|mn_note=khoan - literary; khng/khong - vernacular; khoân - vernacular (俗); khian - 牽 is used in the Mainland
+|w=1qyoe
+|oc=n,1
+|ma=Zh-quan.ogg
+|cat=v,n,cls
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[enclose]]; to [[encircle]]; to [[circle]]
+# to [[mark]] with a [[circle]]
+# to [[bend]]; to [[angle]]; to [[curve]]
+# [[circle]]; [[ring]]; [[loop]]
+# [[area]]; [[circle]]
+# [[social]] [[circle]]; [[connection]]s; [[group]]
+# [[trap]]; [[trick]]; [[trickery]]
+# {{zh-classifier|[[loop]]s, [[orbit]]s, [[lap]]s of [[race]], etc}}
+
+====Compounds====
+{{zh-der|南極圈|北極圈|岩圈|出圈兒|上圈套|品管圈|圈圈套套|圈點|圈選|大氣圈|商圈|光圈|仿圈|小圈子|影圈|可圈可點|圈套|地圈|圈內|呼拉圈|光圈數|大圓圈線|大圈仔|岩石圈|圓圈|圈弄|圈子陣|圈圈|圈口|兜圈子|圈外人|暴風圈|水圈|杆圈兒|打圈子|玻璃圈|杯圈|游泳圈|極圈|生活圈|火圈|沒圈子跳|甜甜圈|窠羅圈|救生圈|打圈|眼圈|橡皮圈|瓦圈|插圈弄套|活落圈|氣圈|生物圈|自動光圈|輪圈|羅圈腿|風圈|跳牆驀圈|網圈|通勤圈|螺線圈|黑眼圈|羅圈|項圈|電影圈|鑰匙圈|門圈子|經圈|線圈|轉圈|鍋圈兒|羅圈兒架|領圈|羅圈兒揖|花圈}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=juān
+|c=gyun6
+|h=pfs=
+|md=kuŏng
+|mn=
+|w=
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[shut]] in a [[pen]]; to [[pen in]]
+# to [[lock up]]; to [[jail]]
+# to [[confine]]
+
+====Compounds====
+{{zh-der|fold=1|圈馬}}
+
+{{zh-cat|Elementary|Advanced}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=囗08}}
+
+# {{defn|lang=ja|sort=囗08}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken)|kun=[[かこい]] (kakoi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=권}}
+
+# {{defn|lang=ko|sort=囗08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khuyên]], [[khoen]], [[quyên]], [[quyền]]|rs=囗08}}
+
+# {{defn|lang=vi|sort=囗08}}
+
+[[zh-min-nan:圈]]
+[[fr:圈]]
+[[ko:圈]]
+[[li:圈]]
+[[hu:圈]]
+[[mg:圈]]
+[[ja:圈]]
+[[no:圈]]
+[[pl:圈]]
+[[ru:圈]]
+[[th:圈]]
+[[chr:圈]]
+[[zh:圈]]

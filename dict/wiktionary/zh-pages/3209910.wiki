@@ -1,0 +1,18 @@
+==Japanese==
+{{ja-kanjitab|ほう|こう|yomi=on}}
+
+===Noun===
+{{ja-noun|ほうこう}}
+
+# emission of light
+
+===Verb===
+{{ja-verb-suru|tr=trans|ほうこう}}
+
+# [[emit]] light
+#: {{ja-usex|自然光を放光する|しぜんこう を ほうこう する|emit natural light}}
+
+====Conjugation====
+{{ja-suru|ほうこう}}
+
+[[zh:放光]]

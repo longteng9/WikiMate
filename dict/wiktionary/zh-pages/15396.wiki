@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=05|sn=9|four=80331|canj=OHP|ids=⿱乍心}}
+
+====References====
+* {{Han ref|kx=0379.170|dkj=10431|dj=0708.010|hdz=42280.100|uh=600E|ud=24590|bh=ABE7|bd=44007}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zěn
+|c=zam2,zaam2
+|h=pfs=
+|md=
+|mn=qz:chérm/xm,zz:chím/qz:chài/tw,xm,zz:chóaⁿ/xm:chàiⁿ
+|mn_note=chérm/chím - literary; chài/chóaⁿ/chàiⁿ - vernacular (俗)
+|w=
+|mc=
+|oc=
+|cat=pron
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[how]]; [[what]]; [[why]]
+
+====Synonyms====
+* {{q|Cantonese}} {{zh-l|點}}
+
+===Compounds===
+{{zh-der|怎地|怎的|怎敢|怎好|怎麼|怎麼得了|怎麼樣|怎麼著/怎么着|怎奈|怎生|怎樣|怎不|怎麼辦|怎麼會|怎知|不知怎的|不怎麼樣|怎麼搞的}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心05}}
+
+# {{defn|lang=ja|sort=心05}}
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin), [[そ]] (so)|kun=[[いかで]] (ikade)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chẩm]], [[chẩn]], [[tẩn]], [[trẫm]]|rs=心05}}
+
+# {{defn|lang=vi|sort=心05}}
+
+[[zh-min-nan:怎]]
+[[fr:怎]]
+[[hu:怎]]
+[[ja:怎]]
+[[no:怎]]
+[[pl:怎]]
+[[th:怎]]
+[[zh:怎]]

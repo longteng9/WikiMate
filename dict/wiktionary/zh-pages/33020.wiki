@@ -1,0 +1,101 @@
+{{character info/new}}
+{{also|面|麺|麪|麫}}
+==Translingual==
+{{Han simplified forms|麵|麺|面}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|麥|面|c1=s|c2=p|t1=wheat|ls=psc}}.
+
+===Han character===
+{{Han char|rn=199|rad=麥|as=09|sn=20|four=41246|canj=JNMWL|ids=⿰麥面}}
+
+====References====
+* {{Han ref|kx=1514.070|dkj=47827|dj=2043.150|hdz=74605.120|uh=9EB5|ud=40629|bh=C4D1|bd=50385}}
+
+----
+
+==Chinese==
+{{zh-forms|s=面|t2=麪|alt=麺,麫,糆,𪋽}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=miàn
+|c=min6
+|h=pfs=mien
+|mn=mī/biān
+|mn_note=mī - vernacular; biān - literary
+|mn-t=min7
+|w=
+|mc=y
+|oc=y
+|ma=y
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[flour]]
+#: {{zh-x|玉米麵|corn '''flour'''}}
+#: {{zh-x|麵粉|'''flour'''}}
+# [[dough]]
+# [[noodles]] {{zh-mw|c:條}}
+#: {{zh-x|湯麵|'''noodles''' in soup}}
+# {{lb|zh|mainland China}} [[powder]]
+#: {{zh-x|藥麵兒{-r}|medicinal '''powder'''}}
+# {{lb|zh|mainland China|dialectal}} [[soft]] and [[floury]]
+#: {{zh-x|這 塊 番薯 很 麵。|This piece of sweet potato is really '''soft and floury'''.}}
+
+====Compounds====
+{{zh-der|麵筋|擔擔麵|擔仔麵|麵包|麵條|麵粉|意大利麵|方便麵|炒麵|拉麵|牛肉麵|撈麵|涼麵|炸醬麵|醡醬麵|掛麵|公仔麵|千層麵|速食麵|伊麵|冰冰麵|彪彪麵|麵餅|白麵|培根蛋麵|削麵|泡麵|烏龍麵|即食麵|麵包果|麵包圈|麵包圈兒|麵茶|麵的|麵肥|麵館|麵館兒|麵糊|麵坯兒|麵人兒|麵食|麵湯|麵團|麵團兒|湯麵|吃板刀麵|小米麵|下麵|和麵|大滷麵|冷麵|乾麵|光麵|壽麵|切麵|壯麵|一鍋麵|中筋麵粉|刀削麵|快速麵|廣東炒麵|就湯下麵|吃辣麵|伊府麵|兩頭白麵|低筋麵粉|生力麵|油茶麵兒|油麵|捏麵人|搋麵|泡麵哲學|棒子麵|扯麵|擀麵棍|甜麵醬|甜水麵|擀麵|烤麵包機|硬麵|白粉麵|死麵|捵麵|發麵|擀麵杖|燙麵|炒麵塊子|清湯掛麵|溲麵|洋麵|泡麵市場|水麵|杯麵|簳麵杖|麵攤子|麵杖吹火|麵漿|蚵仔麵線|趕麵棍|蕎麥麵|麵線|麵坊|麵塑|雜麵|麵杖|豬腳麵線|黑麵|麵店|麵子藥|麵子|麵包車|麵包樹|索麵|麵碼兒|高筋麵粉|長壽麵|雜合麵兒|陽春麵|重羅麵|過水麵|通心麵|藥麵兒|麵疙瘩|茶麵子}}
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|13088}}
+
+{{zh-cat|Foods}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=麥09|style=ky|shin=麺}}
+
+# [[flour]]
+# [[dough]]
+# [[noodles]]
+
+====Readings====
+{{ja-readings|goon=[[めん]] (men)|kanon=[[べん]] (ben)|kun=[[むぎこ]] (mugiko)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=면|eumhun=|rv=myeon|mr=myŏn|y=myen}}
+
+# [[wheat flour]]
+# [[noodles]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[diện]], [[mì]], [[miến]]|rs=麥09}}
+
+# {{defn|lang=vi|sort=麥09}}
+
+[[zh-min-nan:麵]]
+[[fr:麵]]
+[[ko:麵]]
+[[lo:麵]]
+[[hu:麵]]
+[[mg:麵]]
+[[ja:麵]]
+[[pl:麵]]
+[[th:麵]]
+[[zh:麵]]

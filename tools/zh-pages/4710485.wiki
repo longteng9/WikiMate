@@ -1,0 +1,55 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|ごう|かん|yomi=o}}
+[[音読み|On'yomi]].
+
+===Noun===
+{{ja-noun|ごうかん}}
+
+# [[delighting]] themselves together
+# [[man]] and [[woman]] sleeping in the same bed
+# {{abbreviation of|合歓木|lang=ja|sort=こうかん'}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|合歓綢繆|ごうかんちゅうびゅう}}
+* {{ja-r|合歓木|ごうかんぼく}}: [[silk tree]], specifically [[Persian silk tree]]
+{{der-bottom}}
+
+===Verb===
+{{ja-verb-suru|ごうかん}}
+
+# [[delight]] themselves together
+# sleep in the same bed (of [[man]] and [[woman]])
+
+====Conjugation====
+{{ja-suru|ごうかん}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr}}
+From {{m|ja|眠り|tr=nemuri||sleep}}.
+
+===Noun===
+{{ja-noun|ねむ|ネム}}
+
+# [[silk tree]], specifically [[Persian silk tree]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|合歓木|ねむのき}}: [[silk tree]], specifically [[Persian silk tree]]
+{{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=irr}}
+From {{m|ja|眠り|tr=neburi||sleep}}, which is the old obsolete reading thereof, and in modern form, the bilabial plosive /b/ has become bilabial nasal /m/.
+
+===Noun===
+{{ja-noun|ねぶ|ネブ}}
+
+# [[silk tree]], specifically [[Persian silk tree]]
+
+[[Category:ja:Trees|ねむ]]
+
+[[zh:合歓]]

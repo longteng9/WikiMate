@@ -1,0 +1,27 @@
+==Japanese==
+{{ja-kanjitab|よ|かん|yomi=on}}
+
+===Noun===
+{{ja-noun|よかん}}
+
+# [[prescience]], [[premonition]], [[hunch]]
+#: {{ja-usex|いい'''予感'''がする。|い.い '''よかん''' が する。|Something is telling me that things are going to get better.}}
+# [[foreboding]]
+
+===Verb===
+{{ja-verb-suru|よかん}}
+
+# have a [[feeling]], hunch, premonition
+# have a foreboding
+
+====Conjugation====
+{{ja-suru|よかん}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[lt:予感]]
+[[hu:予感]]
+[[ja:予感]]
+[[fi:予感]]
+[[zh:予感]]

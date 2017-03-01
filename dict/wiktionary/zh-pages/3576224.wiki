@@ -1,0 +1,60 @@
+{{also|开花}}
+==Chinese==
+{{zh-forms|s=开花}}
+
+===Pronunciation===
+{{zh-pron
+|m=kāihuā
+|c=hoi1 faa1
+|h=pfs=khôi-fâ
+|mn=khui-hoe
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[blossom]]
+#: {{zh-x|但 有 一-個 夢，不會 死，記著[着]{zhe} 吧！無論 雨 怎麼 打，自由 仍 是 會 開花！|But there is a dream [which] does not die, remember it! No matter how [heavy] the rain is, freedom will still '''blossom'''!}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|か|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=かいか}} compound {{m|zh|開花|tr=khoj xwæ|lit=to open + flower}}. Compare modern {{etyl|cmn|-}} reading ''kāihuā''.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|かいか|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|かいか|hhira=かいくわ}}
+
+# [[flowering]], [[blossoming]]
+#: {{ja-usex|今年は'''開花'''が早い。|^ことし は '''かいか''' が はやい。|This year's bloom was early.}}
+# {{qualifier|by extension}} showing [[result]]s, bearing fruit, being [[successful]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|かいか}}
+
+# to [[flower]], to [[blossom]], to [[bloom]]
+# {{qualifier|by extension}} to show results, to [[bear fruit]], to be a success
+
+====Conjugation====
+{{ja-suru|かいか}}
+
+====Synonyms====
+* {{sense|bloom}} {{ja-r|咲く|さく}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+:* {{R:Shogakukan}}
+
+[[es:開花]]
+[[ko:開花]]
+[[lo:開花]]
+[[hu:開花]]
+[[mg:開花]]
+[[zh:開花]]

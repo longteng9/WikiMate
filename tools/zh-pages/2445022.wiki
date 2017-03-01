@@ -1,0 +1,33 @@
+{{also|畫面}}
+==Chinese==
+{{zh-see|畫面}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|が|めん|yomi=o}}
+
+===Noun===
+{{ja-noun|がめん|kyu=畫面}}
+
+# [[terminal]] [[screen]], the [[field]] (in TV)
+#* From the [http://www.catch.jp/wiki/index.php?tutorial_1 Emacs tutorial] ([http://cmgm.stanford.edu/classes/unix/emacs.html English])
+#: {{ja-usex|では&#32;<tt>C-v</tt>&#32;（次の'''画面'''を見る）をタイプして次の'''画面'''に進んで下さい。（さあ、やってみましょう。コントロールキーを押しながら&#32;<tt>v</tt>&#32;です）|^で は&#32;<tt>C-v</tt>&#32;（つぎ の '''がめん''' を みる）を タイプ して つぎ の '''がめん''' に すすんで ください。（^さあ、やってみましょう。^コントロールキー を おしながら&#32;<tt>v</tt>&#32;です）|Now type <tt>C-v</tt> (View next '''screen''') to move to the next '''screen'''. (go ahead, do it by depressing the control key and <tt>v</tt> together)}}
+# [[scene]], [[picture]]
+
+====Derived terms====
+* {{ja-r|親画面|おやがめん}}: the main screen
+* {{ja-r|起動画面|きどう がめん}}: a startup screen
+* {{ja-r|子画面|こがめん}}: a sub-screen
+* {{ja-r|初期画面|しょき がめん}}: an opening screen
+* {{ja-r|接触画面|せっしょく がめん}}: a touch sensitive screen, a touch screen
+* {{ja-r|全画面|ぜんがめん}}: full screen
+* {{ja-r|端末画面|たんまつ がめん}}: a terminal screen
+* {{ja-r|大画面|だいがめん}}: a large screen
+
+[[hu:画面]]
+[[mg:画面]]
+[[ja:画面]]
+[[pl:画面]]
+[[chr:画面]]
+[[zh:画面]]

@@ -1,0 +1,122 @@
+{{character info/new}}
+{{also|己|巳}}
+==Translingual==
+{{stroke order|strokes=3}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=49|rad=己|as=00|sn=3|var=1|four=17717|canj=SU,XSU}}
+
+====References====
+* {{Han ref|kx=0326.110|dkj=08743|dj=0630.110|hdz=20984.010|uh=5DF2|ud=24050|bh=A477|bd=42103}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+Significance uncertain. The ancient character is analyzed by some sources as an exhalation of breath, suggesting the completion of an action. {{zh-l|*厶}} (in one of its uses) and {{zh-l|*以}} are ultimately descended from this same character.
+
+===Pronunciation===
+{{zh-pron
+|m=yǐ
+|c=ji5
+|h=pfs=yí
+|md=ī
+|mn=í
+|w=2i
+|mc=
+|oc=y
+|cat=adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[stop]]; to [[finish]]
+#* {{zh-x|此 水 幾時 休，此 恨 何時 已。|When will the river cease to flow? When will this brooding '''end'''?|ref='''Song Dynasty''', {{w2|zh|李之儀}}, {{lang|zh|《卜算子·我住長江頭》}}}}
+# [[already]]; [[have]] [[done]] something
+#* {{zh-x|情義 已 失去，恩愛 都 失去|Friendship has '''already''' gone, and all of the love is gone|C-LIT|ref='''1983''', {{w2|zh|陳百強}}, {{w2|zh|pref=《|偏偏喜歡你 (專輯)|偏偏喜歡你|suf=》}}}}
+
+===Compounds===
+{{zh-der|已故|已婚|已經|已然|已往|已知數|喋喋不已|不已|大勢已去|悶悶不已|已矣|已去|低徊不已|已還|不為已甚|已而|已定|大局已定|墓木已拱|已決|已而不登|不得已|大勢已定|勢不得已|一夔已足|必不得已|情非得已|壯心不已|已甚|不能自已|無已|斃而後已|生生不已|萬不得已|業已|為時已晚|日已銜山|病已成勢|方寸已亂|有加無已|死而後已|早已|木已成舟|而已|逼不得已|芳魂已杳|羽翼已成|羽翮已就|米已成炊|誅求無已|諾已|貪求無已|迫不得已|紛爭不已}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=8|rs=己00}}
+
+# {{defn|lang=ja|sort=己00}}
+
+====Readings====
+* {{ja-readings|goon=[[い]] (i)|kanon=[[い]] (i)|kun=[[すでに]] (sudeni), [[やむ]] (yamu), [[のみ]] (nomi)|nanori=[[み]] (mi)}}
+
+====Compounds====
+May be replaced with 以 in some compounds, eg. 已降→以降.
+
+{{der-top|Compounds}}
+* {{ja-r|已然|いぜん}}
+* {{ja-r|已然形|いぜんけい}}
+* {{ja-r|已上|いじょう}}
+* {{ja-r|已下|いか}}
+* {{ja-r|已前|いぜん}}
+* {{ja-r|已降|いこう}}
+* {{ja-r|已後|いご}}
+* {{ja-r|已来|いらい}}
+* {{ja-r|生滅滅已|しょうめつめつい}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[이]]|rv=i|mr=i}}
+
+# {{defn|lang=ko|sort=己00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dĩ]], [[dãi]]|rs=己00}}
+
+# {{defn|lang=vi|sort=己00}}
+
+[[ar:已]]
+[[zh-min-nan:已]]
+[[da:已]]
+[[de:已]]
+[[et:已]]
+[[el:已]]
+[[es:已]]
+[[fr:已]]
+[[ko:已]]
+[[hy:已]]
+[[io:已]]
+[[it:已]]
+[[csb:已]]
+[[ku:已]]
+[[li:已]]
+[[hu:已]]
+[[mg:已]]
+[[ms:已]]
+[[nl:已]]
+[[ja:已]]
+[[no:已]]
+[[pl:已]]
+[[pt:已]]
+[[ro:已]]
+[[ru:已]]
+[[fi:已]]
+[[sv:已]]
+[[th:已]]
+[[chr:已]]
+[[tr:已]]
+[[vi:已]]
+[[zh:已]]

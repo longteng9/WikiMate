@@ -1,0 +1,67 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǒuxiàn
+|c=jau5 haan6
+|h=pfs=yû-han
+|mn=xm,tp,kh:iú-hān/qz:iú-hǎn/zz:iú-ān/xm:ū-hān/zz:ū-ān
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[limited]]
+
+=====Derived terms=====
+{{zh-der|有限公司|有限責任公司}}
+
+===Pronunciation===
+{{zh-pron
+|mn=iú-hiān
+|cat=a,n
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# {{lb|zh|Min Nan}} very [[little]]
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|Min Nan}} a [[little]] bit
+
+----
+
+==Japanese==
+{{ja-kanjitab|ゆう|げん|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|ゆうげん}}
+
+# [[limited]]; having a [[limit]]
+# [[finite]]
+
+====Antonyms====
+* {{ja-r|無限|むげん}}
+
+====Inflection====
+{{ja-na|ゆうげん}}
+
+===Noun===
+{{ja-noun|ゆうげん}}
+
+# [[limitedness]]
+# [[finity]]
+
+[[zh-min-nan:有限]]
+[[ko:有限]]
+[[hu:有限]]
+[[mg:有限]]
+[[ja:有限]]
+[[th:有限]]
+[[chr:有限]]
+[[zh:有限]]

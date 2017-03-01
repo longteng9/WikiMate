@@ -1,0 +1,88 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=76|rad=欠|as=08|sn=12|four=47982|canj=GFNO|ids=⿰⿱士示欠}}
+
+# [[item]], [[article]]
+# [[clause]]
+# [[fund]]s
+
+====References====
+* {{Han ref|kx=0569.030|dkj=16107|dj=0957.100|hdz=32141.010|uh=6B3E|ud=27454|bh=B4DA|bd=46298}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kuǎn |ma=Zh-kuan.ogg
+|c=fun2
+|h=pfs=khoán
+|md=
+|mn=khoán/khóaⁿ
+|mn_note=khoán - literary, khóaⁿ - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[money]] (of certain kind)
+#: {{zh-x|借款|loan}}
+#: {{zh-x|存款|deposit}}
+# [[model]], [[type]]
+# [[signature]]
+# {{lb|zh|Min Nan}} [[kind]]; [[sort]]; [[manner]]; [[pattern]]; [[style]]
+
+===See also===
+* {{sense|kind}} (''Mandarin'') {{zh-l|樣}}, (''Mandarin'') {{zh-l|樣子}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=欠08}}
+
+# {{defn|lang=ja|sort=欠08}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[まこと]] (makoto), [[しるす]] (shirusu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=관|eumhun=|rv=gwan|mr=kwan|y=kwan}}
+
+# {{defn|lang=ko|sort=欠08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|khoản|rs=欠08}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:款]]
+[[fr:款]]
+[[ko:款]]
+[[hu:款]]
+[[mg:款]]
+[[ja:款]]
+[[no:款]]
+[[pl:款]]
+[[th:款]]
+[[zh:款]]

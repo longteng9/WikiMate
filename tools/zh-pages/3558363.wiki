@@ -1,0 +1,29 @@
+{{also|单数}}
+==Chinese==
+{{zh-forms|s=单数}}
+
+===Pronunciation===
+{{zh-pron
+|m=dānshù
+|c=daan1 sou3
+|mn=tan-sò͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[odd number]]
+# {{lb|zh|grammar}} [[singular]]
+
+====Synonyms====
+* {{sense|odd number}} {{zh-l|奇數}}
+
+====Antonyms====
+* {{sense|odd number}} {{zh-l|雙數}}
+
+====Coordinate terms====
+* {{sense|singular}} {{zh-l|雙數|dual}}, {{zh-l|複數|plural}}, {{zh-l|眾數|plural}}
+
+[[ko:單數]]
+[[ja:單數]]

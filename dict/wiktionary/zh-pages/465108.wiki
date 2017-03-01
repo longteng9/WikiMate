@@ -1,0 +1,54 @@
+{{also|改变}}
+==Chinese==
+{{zh-forms|s=改变}}
+
+===Pronunciation===
+{{zh-pron
+|m=gǎibiàn
+|c=goi2 bin3
+|h=pfs=kói-pien
+|md=gāi-biéng
+|mn=kái-piàn
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|intransitive}} to [[change]] {{gloss|by itself}}
+#: {{zh-x|他 改變 了 很多。|He has '''changed''' a lot.}}
+# {{lb|zh|transitive}} to change {{gloss|something into something else}}
+#: {{zh-x|改變 壞 習慣|to '''change''' a bad habit}}
+
+===Noun===
+{{zh-verb}}
+
+# [[change]]
+
+===Derived terms===
+{{zh-der|改變主意|氣候改變}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|へん|yomi=o}}
+
+===Noun===
+{{ja-noun|かいへん|shin=改変}}
+
+# [[alteration]], a [[change]]
+
+===Verb===
+{{ja-verb-suru|かいへん|shin=改変}}
+
+# to [[alter]], to change
+
+====Conjugation====
+{{ja-suru|かいへん}}
+
+[[zh-min-nan:改變]]
+[[ko:改變]]
+[[lt:改變]]
+[[hu:改變]]
+[[mg:改變]]
+[[ja:改變]]

@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|じゅん|ちょう|yomi=on}}
+
+===Etymology===
+From {{m|ja|順|sc=Jpan|tr=jun||favorable}} + {{m|ja|調|sc=Jpan|tr=chō||tone}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|じゅんちょう}}
+
+# [[satisfactory]]; [[favorable]]
+
+====Inflection====
+{{ja-na|じゅんちょう}}
+
+===Noun===
+{{ja-noun|じゅんちょう}}
+
+# [[favorable]] [[condition]], [[smooth]] [[progress]]
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:順調]]
+[[lo:順調]]
+[[hu:順調]]
+[[zh:順調]]

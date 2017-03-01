@@ -1,0 +1,53 @@
+{{also|蓬莱}}
+==Chinese==
+{{wikipedia|蓬萊|蓬萊|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=pénglái
+|c=pung4 loi4,fung4 loi4
+|mn=hông-lâi
+|mc=y,1
+|oc=y;1
+|cat=pn,n
+}}
+
+===Etymology 1===
+{{zh-forms|s=蓬莱|gloss=-}}
+{{wikipedia|Penglai Island}}
+{{wikipedia|Penglai, Shandong}}
+{{unk.|lang=zh}}.
+
+It bears striking resemblance to a Southeast Asian word for “sea”. Compare {{cog|my|ပင်လယ်||sea; ocean}}, {{cog|shn|ပၢင်ႇလၢႆႇ|tr=paaŋ2 laaj2||sea; ocean}}, {{cog|kac|panglai||sea}}, {{cog|ksw|ပီၣ်လဲၣ်||sea}}. It seems to be a borrowing, possibly from a [[Mon-Khmer]] language; compare {{cog|mkh-pro|*d(n)liʔ|*d[n]liʔ|sea}}, whence {{cog|mkh-okm|danle}}, {{m|mkh-okm|danley||large river; lake; sea}} > {{cog|km|ទន្លេ||river}}, {{cog|th|ทะเล||sea}} ({{zh-ref|Schuessler, 2007}}).
+
+Alternatively, it is possibly a transcription of an earlier [[Austro-Asiatic]] name; cf. {{zh-l|萊國|[[w:state of Lai|Lai]]}}, an ancient [[Dongyi]] tribe, where {{zh-l|萊}} has been argued to transcribe a native word for "[[mountain]]" or "[[wilderness]]".
+
+====Proper noun====
+{{zh-proper noun}}
+
+# {{lb|zh|Chinese mythology}} [[Penglai]] {{gloss|a [[mythical]] [[eastern]] [[isle]] of [[仙|immortals]]}}
+# {{zh-div|市}} [[Penglai]] {{gloss|[[city]] in [[Shandong]], [[China]]}}
+
+=====Synonyms=====
+* {{sense|mythical island}}
+** {{zh-l|蓬萊山}}
+** {{zh-l|蓬萊島}}
+** {{zh-l|蓬萊仙島}}
+** {{zh-l|蓬山}}
+** {{zh-l|蓬丘}}
+** {{zh-l|蓬壺}}
+* {{sense|city}}
+** {{qualifier|historical}} {{zh-l|登州}}
+
+=====Derived terms=====
+{{zh-der|蓬萊宮|蓬萊米}}
+
+===Etymology 2===
+{{zh-forms|s=蓬莱}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[rank]] [[growth]] of [[grass]]
+
+[[zh-min-nan:蓬萊]]

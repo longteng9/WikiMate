@@ -1,0 +1,103 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{zh-compound|明|白|to be bright > clear|to be white > clean, bright}} Attested in ''{{w|Zhuangzi (book)|Zhuangzi}}'' ("clear and clean"), ''{{w|Chu Ci}}'' ("bright and clean"), ''{{w|Mozi}}'' ("to be evident, clear"), ''{{w|Tao Te Ching}}'' ("to know, to understand").
+
+===Pronunciation===
+{{zh-pron
+|m=míngbai
+|c=ming4 baak6
+|h=pfs=mìn-pha̍k
+|md=mìng-bĕk
+|mn=bêng-pe̍k
+|mn-t=mêng5 bêh8
+|w=3min baq
+|mc=y
+|oc=y
+|cat=v,a
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[understand]]; to [[know]]
+#: {{zh-x|我 講 的 話 你 '''明白{bai}''' 了 嗎？|Do you '''understand''' what I said?}}
+#: {{zh-x|你 在 想 什麼，我 心裡{li} 全 '''明白{bai}'''。|I '''know''' for sure what you are thinking.}}
+
+====Synonyms====
+* {{sense|to understand}} {{zh-l|了解}}, {{zh-l|知道}}, {{zh-l|懂}}, {{zh-l|清楚}}
+
+====Usage notes====
+When used as a verb, {{zh-l|明白}} conveys an understanding of a meaning or a situation. To express an ability to understand a language, see {{zh-l|會說|to be able to speak}}, {{zh-l|聽懂|to understand when reading}} or {{zh-l|看懂|to understand by listening}}.
+
+===Adjective===
+{{zh-adj}}
+
+# [[clear]]; [[obvious]]; [[evident]]
+# [[open]]; [[explicit]]; [[frank]]
+# [[sensible]]; [[reasonable]]
+
+====Synonyms====
+* {{sense|clear, obvious}} {{zh-l|清楚}}, {{zh-l|明確}}, {{zh-l|分明}}
+* {{sense|open, explicit}} {{zh-l|公開}}, {{zh-l|明確}}
+* {{sense|sensible, reasonable}} {{zh-l|通情達理}}
+
+===See also===
+* {{qualifier|not to be confused with}} {{zh-l|明日}}
+
+===Derived terms===
+{{zh-der|明白人}}
+
+===Descendants===
+{{CJKV|明白|めいはく|명백|minh bạch}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|めい|はく|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|めいはく}}
+
+# [[clear]], [[obvious]], [[plain]], [[positive]]
+#: {{ja-usex|'''明白'''な安保理決議違反だ。|'''めいはく''' な あんぽり けつぎ いはん だ。|It is a clear violation of Security Council resolutions.}}
+
+====Inflection====
+{{ja-na|めいはく}}
+
+===Noun===
+{{ja-noun|めいはく}}
+
+# [[unmistakableness]], [[unmistakability]]
+
+===References===
+* {{R:Shogakukan}}
+* {{R:Meikyo}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Adjective===
+{{vi-hantu}}
+
+# {{han tu form of|minh bạch}}
+
+[[zh-min-nan:明白]]
+[[da:明白]]
+[[fr:明白]]
+[[ko:明白]]
+[[lt:明白]]
+[[hu:明白]]
+[[mg:明白]]
+[[fj:明白]]
+[[ja:明白]]
+[[pl:明白]]
+[[chr:明白]]
+[[uk:明白]]
+[[vi:明白]]
+[[zh:明白]]

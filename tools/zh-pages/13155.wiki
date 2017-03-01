@@ -1,0 +1,89 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=08|sn=11|four=43150|canj=GIRM|ids=⿰土或}}
+
+====References====
+* {{Han ref|kx=0230.170|dkj=05158|dj=0466.270|hdz=10451.020|uh=57DF|ud=22495|bh=B0EC|bd=45292}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yù
+|c=wik6
+|mn=qz:ia̍k/tw,xm,zz:e̍k/qz:hia̍k/tw,xm,zz:he̍k
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[territory]], [[district]], [[region]], [[land]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=土08}}
+
+# [[range]]
+# [[region]]
+# [[limits]]
+# [[stage]]
+# [[level]]
+
+====Readings====
+* {{ja-readings|goon=[[いき]] (iki)|kanon=[[よく]] (yoku)}}
+
+===Noun===
+{{ja-noun|いき}}
+
+# [[region]], [[level]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=역|rv=yeok|mr=yŏk}}
+
+# {{defn|lang=ko|sort=土08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[vực]], [[bực]], [[vác]], [[vặc]], [[vức]]|rs=土08}}
+
+# {{defn|lang=vi|sort=土08}}
+
+[[Category:Kennybot testing category]]
+
+[[fr:域]]
+[[ko:域]]
+[[lo:域]]
+[[li:域]]
+[[hu:域]]
+[[mg:域]]
+[[ms:域]]
+[[ja:域]]
+[[no:域]]
+[[pl:域]]
+[[tl:域]]
+[[th:域]]
+[[chr:域]]
+[[vi:域]]
+[[zh:域]]

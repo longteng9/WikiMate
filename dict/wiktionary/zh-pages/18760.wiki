@@ -1,0 +1,72 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=05|sn=8|four=32130|canj=ENI,XENI|ids=⿰氵弘}}
+
+# [[clear]], [[deep]] [[pool]] of [[water]]
+
+====References====
+* {{Han ref|kx=0616.090|dkj=17288|dj=1009.210|hdz=31597.020|uh=6CD3|ud=27859|bh=AA6C|bd=43628}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=hóng
+|c=wang4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水05}}
+
+# {{defn|lang=ja|sort=水05}}
+
+====Readings====
+* {{ja-readings|on=[[おう]] (ō)|kun=[[ふかい]] (fukai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=홍|eumhun=|rv=hong|mr=hong|y=hong}}
+
+# {{defn|lang=ko|sort=水05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水05| hanviet = hoằng}}
+
+# {{defn|lang=vi|sort=水05}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6cd3 Nom Foundation]
+
+[[fr:泓]]
+[[ko:泓]]
+[[hu:泓]]
+[[mg:泓]]
+[[ja:泓]]
+[[pl:泓]]
+[[th:泓]]
+[[zh:泓]]

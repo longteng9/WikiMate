@@ -1,0 +1,106 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+[[人]]/[[卩]] (man) on top, lifted by three hands — [[𠬞]] (both hands) + [[手]].
+
+===Han character===
+{{Han char|rn=64|rad=手|as=04|sn=8|four=17232|canj=NNQO|ids=}}
+
+# [[inherit]], [[receive]]
+# [[succeed]]
+
+====References====
+* {{Han ref|kx=0419.190|dkj=11852|dj=0766.110|hdz=10054.030|uh=627F|ud=25215|bh=A9D3|bd=43475}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chéng
+|c=sing4,cing2
+|h=pfs=
+|md=
+|mn=sêng/sîn
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|承辦|承包|承保|承擔|承當|承付|承管|承歡|承繼|承建|承教|承接|承攬|承蒙|承諾|承盤|承前啟後|承情|承認|承上啟下|承受|承順|承托|承望|承襲|承先啟後|承想|承修|承續|承印|承迎|承應|承允|承運|承載|承造|承做|承製|承重|承重孫|承轉|繼承}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=手04}}
+# acquiesce
+
+====Readings====
+{{ja-readings
+|goon=[[じょう]] (jō)
+|kanon=[[しょう]] (shō)
+|kun=[[うけたまわる]] ([[承る]], uketamawaru), [[うけたまわり]] (承, [[承り]], uketamawari), [[うける]] ([[承ける]], ukeru), [[ささげる]] ([[承げる]], sasageru), [[とどめる]] ([[承める]], todomeru), [[たすける]] ([[承ける]], tasukeru), [[こらす]] ([[承らす]], korasu), [[ついで]] ([[承で]], tsuide), [[すくう]] ([[承う]], sukuu)
+|nanori=[[つぐ]] (tsugu), [[こと]] (koto), [[すけ]] (suke), [[つぎ]] (tsugi), [[よし]] (yoshi)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|承諾|しょうだく}}: consent, acquiescence
+* {{ja-r|承知|しょうち}}: consent, acceptance
+* {{ja-r|承認|しょうにん}}: recognition, acknowledgment
+* {{ja-r|承服|しょうふく}}: compliance, consent
+* {{ja-r|承継|しょうけい}}: succession, accession
+* {{ja-r|継承|けいしょう}}: inheritance, succession
+* {{ja-r|伝承|でんしょう}}: transmission, hand down
+* {{ja-r|了承|りょうしょう}}: acknowledgment
+{{der-bottom}}
+
+====Usage notes====
+This may be the only kanji with a six-{{l|en|mora}} reading, of ''uketamawari''.  However, this reading is more often spelled with the final ''-ri'' spelled in kana (as {{m|ja|承り}}) to clarify and disambiguate the reading of the single kanji.
+
+This kanji is also one of very few kanji with five-{{l|en|mora}} readings, and the only verb, namely {{m|ja|承る|tr=uketamawaru|pos=with the kanji comprising the five-mora ''uketamawa-'' part}}. Other kanji with five-mora readings are the nouns {{m|ja|志|tr=kokorozashi}}, {{m|ja|詔}} / {{m|ja|勅|tr=mikotonori}}, and {{m|ja|宰}} / {{m|ja|司|tr=mikotomochi}}. No kanji have a reading of more than six morae.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[승]], [[증]]|eumhun=|rv=seung, jeung|mr=sŭng, jŭng|y=sung, jung}}
+
+# {{defn|lang=ko|sort=手04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thừa]]|rs=手04}}
+
+# {{defn|lang=vi|sort=手04}}
+
+[[zh-min-nan:承]]
+[[fr:承]]
+[[ko:承]]
+[[hu:承]]
+[[mg:承]]
+[[ja:承]]
+[[no:承]]
+[[pl:承]]
+[[pt:承]]
+[[th:承]]
+[[zh:承]]

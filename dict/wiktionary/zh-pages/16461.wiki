@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|搭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=10|sn=13|four=56027|canj=QASM|ids=⿰扌𦐇}}
+
+# [[rub]], [[make]] [[rubbing]]s of an [[inscription]]
+
+====References====
+* {{Han ref|kx=0447.240|dkj=12503|dj=0798.160|hdz=31931.080|uh=6428|ud=25640|bh=DDAD|bd=56749}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tà,tā
+|c=taap3
+|h=pfs=lap
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* {{R:twedu|B01375}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手10}}
+
+# {{defn|lang=ja|sort=手10}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō)|kun=[[うつ]] (utsu), [[する]] (suru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=탑|eumhun=|rv=tap|mr=t'ap|y=thap}}
+
+# {{defn|lang=ko|sort=手10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=手10|thác}}
+
+# {{defn|lang=vi|sort=手10}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6248 Nom Foundation]
+
+[[fr:搨]]
+[[hu:搨]]
+[[ja:搨]]
+[[pl:搨]]
+[[th:搨]]
+[[zh:搨]]

@@ -1,0 +1,49 @@
+{{also|南纬}}
+==Chinese==
+{{zh-forms|s=南纬}}
+
+===Pronunciation===
+{{zh-pron
+|m=nánwěi
+|c=naam4 wai5
+|mn=lâm-ūi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|geography}} [[south]] [[latitude]]
+
+====Antonyms====
+* {{zh-l|北緯}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|なん|い|yomi=o}}
+
+===Etymology===
+''From'' [[南]] (ナン, nan) ([[みなみ]], [[minami]]): (''[[south]]'') + [[緯]] (イ, i): (''[[latitude]]'')
+
+===Pronunciation===
+* {{ja-pron|なんい|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|なんい}}
+
+# {{lb|ja|geography}} [[south]] [[latitude]]
+
+===See also===
+* {{ja-r|緯度|いど}}: [[latitude]]
+* {{ja-r|北緯|ほくい}}: [[north]] [[latitude]]
+
+===References===
+<references/>
+
+[[Category:ja:Geography|なんい]]
+
+[[ko:南緯]]
+[[hu:南緯]]
+[[ja:南緯]]
+[[zh:南緯]]

@@ -1,0 +1,98 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=164|rad=酉|as=07|sn=14|four=14661|canj=MWHGR}}
+
+# [[strong]], [[stimulating]]
+# [[very]]
+
+====References====
+* {{Han ref|kx=1283.140|dkj=39870|dj=1783.100|hdz=63583.100|uh=9177|ud=37239|bh=BBC5|bd=48069}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|酉|告|c1=s|c2=p|ls=psc|t1=wine}}.
+
+===Etymology===
+Original meaning was “cruel”. The sense “cool” is a {{zh-psm|cool|nocap=1}}.
+
+===Pronunciation===
+{{zh-pron
+|m=kù
+|c=huk6
+|h=pfs=khu̍k
+|md=gók
+|mn=khok
+|w=4khoq
+|mc=y
+|oc=y
+|cat=a,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[cruel]]; [[brutal]]; [[savage]]
+#: {{zh-x|殘酷|cruel}}
+# [[extremely]]; to an [[extreme]] [[degree]]
+#: {{zh-x|酷愛|to have a passion for; to ardently love}}
+# {{lb|zh|Mandarin|slang}} [[cool]]; [[awesome]]
+
+====Usage notes====
+Whilst English "cool" may be used in a wide variety of contexts, {{lang|zh|酷}} (and, by extension, {{zh-l|酷斃}}) is usually only used to describe something [[fashionable]] or [[extraordinary]].
+
+====See also====
+* {{zh-l|牛}}
+* {{zh-l|強}}
+* {{zh-l|絕}}
+
+===Compounds===
+{{zh-der|酷刑|酷斃|峻酷|嚴酷|冷酷|慘酷|殘酷|酷暑|苟弟轉酷|貪酷|酷哥|酷嗜|貪殘酷烈|酷好|酷虐|酷愛|酷寒|酷熱|酷吏|酷似|酷妹|酷肖|酷烈|酷斃了}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=酉07}}
+
+# {{defn|lang=ja|sort=酉07}}
+
+====Readings====
+* {{ja-readings|on=[[こく]] (koku), [[かく]] (kaku)|kun=[[きびしい]] (kibishii), [[ひどい]] (hidoi), [[むごい]] (mugoi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=혹|eumhun=|rv=hok|mr=hok|y=hok}}
+
+# {{defn|lang=ko|sort=酉07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khốc]]|rs=酉07}}
+
+# {{defn|lang=vi|sort=酉07}}
+
+[[fr:酷]]
+[[ko:酷]]
+[[hu:酷]]
+[[mg:酷]]
+[[ja:酷]]
+[[no:酷]]
+[[pl:酷]]
+[[fi:酷]]
+[[th:酷]]
+[[chr:酷]]
+[[zh:酷]]

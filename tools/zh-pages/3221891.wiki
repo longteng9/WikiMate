@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiànzào
+|c=gin3 zou6
+|h=pfs=kien-chho
+|mn=kiàn-chō
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+# to [[build]], to [[construct]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|けん|ぞう|yomi=on}}
+
+===Noun===
+{{ja-noun|けんぞう}}
+
+# [[construction]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|けんぞう}}
+
+# [[build]], [[construct]]
+#: {{ja-usex|潜水艦を建造する|せんすいかん を けんぞう する|construct a submarine}}
+
+====Conjugation====
+{{ja-suru|けんぞう}}
+
+[[zh-min-nan:建造]]
+[[ko:建造]]
+[[hu:建造]]
+[[mg:建造]]
+[[fj:建造]]
+[[ja:建造]]
+[[chr:建造]]
+[[zh:建造]]

@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=03|sn=6|four=32170|canj=EU|ids=⿰氵山}}
+
+# [[basket]] for [[catch]]ing [[fish]]
+# [[bamboo]]
+# [[Shantou]] (Swatow)
+
+====References====
+* {{Han ref|kx=0605.090|dkj=17128|dj=0999.020|hdz=31552.030|uh=6C55|ud=27733|bh=A6C2|bd=42690}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shàn
+|c=saan3
+|mn=sòaⁿ
+|mn-t=suan1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|汕汕|汕頭|潮汕}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水03}}
+
+# {{defn|lang=ja|sort=水03}}
+
+====Readings====
+* {{ja-readings|on=[[さん]] (san)|kun=[[すくいあみ]] (sukuiami)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=산|eumhun=|rv=san|mr=san|y=san}}
+
+# {{defn|lang=ko|sort=水03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sươn]], [[sán]], [[sớn]]|rs=水03}}
+
+# {{defn|lang=vi|sort=水03}}
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+
+[[fr:汕]]
+[[ko:汕]]
+[[hu:汕]]
+[[mg:汕]]
+[[ja:汕]]
+[[pl:汕]]
+[[th:汕]]
+[[vi:汕]]
+[[zh:汕]]

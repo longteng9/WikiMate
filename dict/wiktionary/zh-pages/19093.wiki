@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|澹}}
+==Translingual==
+{{stroke order|strokes=11}}
+
+===Han character===
+{{Han char|rn=85|rad=水|as=08|sn=11|four=39189|canj=EFF}}
+jjj
+# [[watered down]], [[bland]], [[modest]], [[essential]]
+
+====References====
+* {{Han ref|kx=0630.180|dkj=17660|dj=1032.170|hdz=31660.080|uh=6DE1|ud=28129|bh=B248|bd=45640}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàn
+|c=taam5,daam6,jim5
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水08}}
+
+# diluted
+# pale
+
+====Readings====
+* {{ja-readings|goon=[[だん]] (dan) {{non-joyo-reading}}|kanon=[[たん]] (tan)|on=[[えん]] (en)|kun=[[あわい]] (awai), [[うすい]] (usui)}}
+
+====Compounds====
+* {{ja-r|淡白|たんぱく}}
+* {{ja-r|冷淡|れいたん}}
+* {{ja-r|淡々|たんたん}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=담|eumhun=|rv=dam|mr=tam|y=tam}}
+
+# {{defn|lang=ko|sort=水08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đạm]], [[đượm]], [[vạm]], [[đặm]]|rs=水08}}
+
+# {{defn|lang=vi|sort=水08}}
+
+[[fr:淡]]
+[[ko:淡]]
+[[it:淡]]
+[[hu:淡]]
+[[mg:淡]]
+[[ja:淡]]
+[[no:淡]]
+[[pl:淡]]
+[[th:淡]]
+[[zh:淡]]

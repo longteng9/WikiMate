@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=12|sn=15|four=34196|canj=EKCF|ids=⿰氵尞}}
+
+# to [[flood]]
+# a [[puddle]]
+# [[without]] [[care]]
+
+====References====
+* {{Han ref|kx=0650.010|dkj=18259|dj=1060.070|hdz=31738.110|uh=6F66|ud=28518|bh=BCE3|bd=48355}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|尞|c1=s|c2=p|t1=water|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lǎo,liáo
+|c=lou5,liu2,liu4
+|mc=y
+|oc=y
+|ma=
+|cat=v,n,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水12}}
+
+# {{defn|lang=ja|sort=水12}}
+
+====Readings====
+* {{ja-readings|on=[[ろう]] (rō)|kun=[[にわたずみ]] (niwatazumi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[료]]>[[요]]|eumhun=|rv=ryo>yo|mr=ryo>yo|y=lyo>yo}}
+
+# {{defn|lang=ko|sort=水12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水12| hanviet = lẻo}}
+
+# {{defn|lang=vi|sort=水12}}
+
+[[fr:潦]]
+[[hu:潦]]
+[[mg:潦]]
+[[ja:潦]]
+[[pl:潦]]
+[[th:潦]]
+[[zh:潦]]

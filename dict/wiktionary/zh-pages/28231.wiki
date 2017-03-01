@@ -1,0 +1,190 @@
+{{also|𪰐}}
+==Chinese==
+{{zh-forms|2=origin|lit=the sun's origin; where the sun originates}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+This appellation comes from Imperial correspondence between the Chinese {{w|Sui Dynasty}} and Japan, and refers to the eastward position of Japan relative to China.
+
+===Pronunciation===
+{{zh-pron
+|m=Rìběn
+|c=jat6 bun2
+|h=pfs=Ngi̍t-pún
+|md=Nĭk-buōng
+|mn=zz,kh:Ji̍t-pún/xm,qz,tp:Li̍t-pún
+|w=5zeq pen
+|mc=y
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# [[Japan]]
+#: {{zh-x|^日本 電視劇|'''Japanese''' TV drama}}
+
+====Synonyms====
+* {{qualifier|official}} {{zh-l|日本國}}
+
+====Derived terms====
+{{zh-der|日本化|日本腦炎|日本人|日本銀行|日本語|日本箏|小日本}}
+
+====Descendants====
+{{CJKV|||일본|Nhật Bản}}
+''Others (incomplete list)''
+* → Malay: {{l|ms|Jepang}}, {{l|ms|Jepun}}
+** Indonesian: {{l|id|Jepang}}
+** → Dutch: {{l|nl|Japan}}
+** → Portuguese: {{l|pt|Japão}}
+*** → English: {{l|en|Japan}}
+* → Tibetan: {{l|bo|ཇི་བེན}}
+
+===See also===
+* {{zh-l|日劇}}
+* {{zh-l|日語}}
+* {{zh-l|日文}}
+* {{zh-l|日|tr=Rì}} {{qualifier|abbreviation}}
+
+{{zh-cat|Countries}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Names of Japan}}
+</div>
+
+===Etymology 1===
+{{ja-kanjitab|にち|k1=に|ほん|yomi=irr|sort=にほん}}
+
+{{IPAchar|/nitipoɴ/}} → {{IPAchar|/nippoɴ/}} → {{IPAchar|/niɸoɴ/}} → {{IPAchar|/nihoɴ/}}
+
+Coined in Japan of [[Sinic]] elements, as compound of {{compound|lang=ja|sort=にほん|日|tr1=nichi|t1=sun|本|tr2=hon|t2=origin}}. The ''hon'' element was apparently pronounced {{IPAchar|/poɴ/}} when first coined. Over time, the initial {{IPAchar|/p/}} [[lenition|lenited]], eventually becoming the {{IPAchar|/h/}} sound in modern Japanese.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+In older texts, this was read as [[訓読み#Japanese|kun'yomi]] as ''hi no moto''. The [[音読み#Japanese|on'yomi]] readings ''nippon'' and ''nihon'' became more common in the {{w|Heian period}}, with both persisting into modern use.<ref name="DJR">{{R:Daijirin}}</ref> The ''nihon'' reading appears to be the most common in everyday Japanese usage.<ref>'''2012''', [http://www.nikkei.com/article/DGXBZO37629750Y1A221C1000000/ ニホンVSニッポン 「日本」の読み方、どっちが優勢?], [[w:The Nikkei|''The Nikkei'']]</ref>
+
+====Pronunciation====
+{{ja-pron|y=irr|acc_ref=NHK,SMK5|acc=2|にほん|audio=ja-nihon(日本).ogg}}
+
+====Proper noun====
+{{ja-pos|proper|にほん}}
+
+# [[Japan]]
+#* {{RQ:Nippo Jisho|463}}
+#*: '''Nifon''' ニホン (日本) 日本.
+
+=====Derived terms=====
+* {{ja-l|日本人|にほんじん|nihonjin}}: a Japanese [[person]], Japanese [[people]]
+* {{ja-l|日本語|にほんご|nihongo}}: the Japanese [[language]]
+
+===Etymology 2===
+{{ja-kanjitab|にち|k1=にっ|ほん|k2=ぽん|yomi=o}}
+{{IPAchar|/nitpoɴ/}} > {{IPAchar|/nippoɴ/}}
+
+====Pronunciation====
+{{ja-pron|y=go|acc_ref=NHK,SMK5|acc=3|にっぽん|audio=ja-nippon(日本).ogg}}
+
+====Proper noun====
+{{ja-pos|proper|にっぽん}}
+
+# [[Japan]]
+#* {{RQ:Nippo Jisho|466}}
+#*: '''Nippon''' ニッポン（日本） Fino moto. (日の本) 日本.
+
+===Etymology 3===
+{{ja-kanjitab|じつ|k1=じっ|ほん|k2=ぽん|yomi=o}}
+{{IPAchar|/zitpon/}} > {{IPAchar|/zippon/}} > {{IPAchar|/d͡ʑippon/}}
+
+{{IPAchar|/zit͡ɕi, zit͡su/}} are the [[漢音#Japanese|kan'on]] readings of {{l|ja|日}}, as compared to the [[呉音#Japanese|goon]] reading {{IPAchar|/nit͡ɕi/}}.
+
+====Pronunciation====
+{{ja-pron|y=ko|acc=3|じっぽん}}
+
+====Proper noun====
+{{ja-pos|proper|じっぽん}}
+
+# {{lb|ja|sort=にっぽん|archaic}} [[Japan]]
+#* {{RQ:Nippo Jisho|365}}
+#*: '''Iippon''' ジッポン (日本) Fino moto. (日の本) 東洋. すなわち、日本.
+#*: (The quoted ''ii'' in ''iippon'' is the 16th century Portuguese romanization representing [ji].)
+
+===Synonyms===
+* {{ja-l|大和|やまと|Yamato}}, {{ja-l|倭|やまと|Yamato}}
+* {{ja-l|日本国|にほんこく|Nihonkoku}}
+* {{ja-l|瑞穂の国|みずほのくに|Mizuho no Kuni}}
+* {{ja-l|和|わ|wa}}
+
+===See also===
+* {{list:prefectures of Japan/ja}}
+
+===References===
+<references/>
+:* {{R:Nippo Jisho}}
+
+[[Category:Japanese words with multiple readings]]
+{{catlangcode|ja|Japan|Countries of Asia|Islands|sort=にほん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Proper noun===
+{{ko-propn|hangeul=일본}}
+
+# {{hanja form of|일본|[[Japan]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Proper noun===
+{{vi-proper noun|sc=Hani}}
+
+# {{han tu form of|Nhật Bản|[[Japan]]}}
+# {{han tu form of|Nhật Bổn|[[Japan]]}}
+
+[[af:日本]]
+[[zh-min-nan:日本]]
+[[cs:日本]]
+[[da:日本]]
+[[de:日本]]
+[[et:日本]]
+[[es:日本]]
+[[eo:日本]]
+[[fr:日本]]
+[[gl:日本]]
+[[ko:日本]]
+[[hi:日本]]
+[[hr:日本]]
+[[sw:日本]]
+[[lo:日本]]
+[[la:日本]]
+[[lv:日本]]
+[[lt:日本]]
+[[li:日本]]
+[[hu:日本]]
+[[mg:日本]]
+[[mn:日本]]
+[[nl:日本]]
+[[ja:日本]]
+[[no:日本]]
+[[uz:日本]]
+[[km:日本]]
+[[pl:日本]]
+[[pt:日本]]
+[[ro:日本]]
+[[ru:日本]]
+[[sm:日本]]
+[[fi:日本]]
+[[sv:日本]]
+[[ta:日本]]
+[[th:日本]]
+[[tg:日本]]
+[[tr:日本]]
+[[uk:日本]]
+[[vi:日本]]
+[[zh:日本]]

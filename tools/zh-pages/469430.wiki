@@ -1,0 +1,65 @@
+{{also|请求}}
+==Chinese==
+{{zh-forms|s=请求}}
+
+===Pronunciation===
+{{zh-pron
+|m=qǐngqiú
+|c=cing2 kau4
+|h=pfs=chhiáng-khiù
+|mn=chhéng-kiû
+|ma=Zh-qingqiú.ogg
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[ask]]; to [[request]]; to [[entreat]]
+
+===Noun===
+{{zh-noun}}
+
+# request; [[requirement]]; [[entreatment]]
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|きゅう|yomi=on}}
+
+===Noun===
+{{ja-noun|せいきゅう}}
+
+# a strong [[request]]
+# a [[demand]], a [[claim]] on the basis of some authority (especially for payment)
+
+====Synonyms====
+* {{sense|a strong request}} {{ja-r|要望|ようぼう}}, {{ja-r|要求|ようきゅう}}
+
+====Derived terms====
+* {{ja-r|請求書|せいきゅうしょ}}
+* {{ja-r|要求権|ようきゅうけん}}
+
+===Verb===
+{{ja-verb-suru|せいきゅう}}
+
+# to [[make]] a demand or strong request
+# to make a demand on the basis of some authority, to make a claim
+
+====Conjugation====
+{{ja-suru|せいきゅう}}
+
+===References===
+* {{R:Shogakukan}}
+* {{R:Kojien}}
+
+[[ko:請求]]
+[[hu:請求]]
+[[mg:請求]]
+[[fj:請求]]
+[[ja:請求]]
+[[no:請求]]
+[[chr:請求]]
+[[zh:請求]]

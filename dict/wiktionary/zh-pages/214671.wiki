@@ -1,0 +1,91 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Reborrowing from {{etym|ja|zh}} {{ja-r|意味|いみ}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yìwèi
+|c=ji3 mei6
+|mn=ì-bī
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[significance]]; [[meaning]]; [[overtone]]
+
+====Derived terms====
+{{zh-der|意味著/意味着}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|い|み|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|いみ|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|いみ}}
+
+# a [[meaning]], a [[significance]], the [[point]]
+#: {{ja-usex|'''意味'''が通らない。|'''いみ''' が とおらない。|To not make any sense.}}
+#: {{ja-usex|'''意味'''を取る。|'''いみ''' を とる。|To understand.}}
+#: {{ja-usex|'''意味'''を捉える。|'''いみ''' を とらえる。|To grasp the '''meaning'''.}}
+# [[meaning]]; [[definition]]
+#: {{ja-usex|「マスをかく」ってどういう意味ですか？|「^マス を かく」 って どう いう いみ です か？|What does "masu o kaku" '''mean'''?}}
+#: {{ja-usex|'''意味'''不明な言葉。|'''いみ''' ふめい な ことば。|A word of unclear '''meaning'''.}}
+
+====Compounds====
+{{der-top}}
+* {{ja-r|無意味|むいみ}}
+* {{ja-r|意味合い|いみあい}}
+* {{ja-r|意味深長|いみしんちょう}}
+* {{ja-r|意味内容|いみ ないよう}}
+* {{ja-r|意味付ける|いみづける}}
+* {{ja-r|意味論|いみろん}}
+{{der-bottom}}
+
+===Verb===
+{{ja-verb-suru|いみ}}
+
+# to [[mean]], [[signify]], [[imply]]
+
+====Conjugation====
+{{ja-suru|いみ}}
+
+===References===
+* {{R:Shogakukan}}
+<references/>
+
+[[Category:Japanese basic words|いみ]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=의미}}
+
+# {{hanja form of|의미|[[meaning]], [[significance]]}}
+
+[[zh-min-nan:意味]]
+[[fr:意味]]
+[[ko:意味]]
+[[lo:意味]]
+[[li:意味]]
+[[hu:意味]]
+[[mg:意味]]
+[[fj:意味]]
+[[ja:意味]]
+[[pl:意味]]
+[[pt:意味]]
+[[sh:意味]]
+[[sv:意味]]
+[[chr:意味]]
+[[uk:意味]]
+[[zh:意味]]

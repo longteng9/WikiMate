@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|獵}}
+==Translingual==
+{{Han simplified forms|獵|猟|猎}}
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=08|sn=11|four=42217,49210|canj=KHFHN|ids=⿰犭鼡}}
+
+# [[hunt]]
+# field [[sport]]s
+
+====References====
+* {{Han ref|kx=0714.051|dkj=20512|dj=1126.050|hdz=21354.141|uh=731F|ud=29471}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=犬08|style=s|kyu=獵}}
+
+# [[hunting]], [[hunt]]
+
+====Readings====
+{{ja-readings|goon=[[りょう]] (ryō)|kanon=[[りょう]] (ryō)|kun=[[かり|か-り]] (ka-ri), [[かる|か-る]] (ka-ru)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|禁猟|きんりょう}}: [[prohibition]] on [[hunting]]
+* {{ja-r|狩猟|しゅりょう}}: [[hunting]]
+* {{ja-r|密猟|みつりょう}}: [[poaching]]
+{{der-mid}}
+* {{ja-r|猟犬|りょうけん}}: a [[hunting dog]]; a [[hound]]
+* {{ja-r|猟師|りょうし}}: a [[hunter]]
+* {{ja-r|猟者|りょうしゃ}}: a [[hunter]]
+{{der-bottom}}
+
+{{ja-kanjitab|りょう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|りょう|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|kyu=獵|りょう|hhira=れふ}}
+
+# [[hunting]]
+# [[game]] {{qualifier|animals that one hunts}}
+
+====Synonyms====
+* {{l|ja|狩}}
+
+====Derived terms====
+* {{ja-r|漁|りょう}}
+
+===References===
+<references/>
+
+[[fr:猟]]
+[[ku:猟]]
+[[hu:猟]]
+[[mg:猟]]
+[[ja:猟]]
+[[pl:猟]]
+[[th:猟]]
+[[vi:猟]]
+[[zh:猟]]

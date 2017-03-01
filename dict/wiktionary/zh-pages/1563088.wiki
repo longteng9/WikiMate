@@ -1,0 +1,101 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia}}
+{{wikipedia|Laozi|lang=en}}
+[[Image:DaodeTianzun.jpg|200px|thumb|right|老子]]
+
+===Pronunciation 1===
+{{zh-pron
+|m=Lǎozǐ
+|c=lou5 zi2
+|h=pfs=Ló-chṳ́
+|mn=Ló-chú
+|md=Lō̤-cṳ̄
+|cat=pn
+}}
+
+====Proper noun====
+{{zh-proper noun}}
+
+# [[Laozi]], a Chinese philosopher, and founder of [[Taoism]] who lived between 604 BCE and 531 BCE
+# ''[[Laozi]]'' {{gloss|also called ''[[Tao Te Ching]]'', a book of philosophy supposedly written by Laozi}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=lǎozi
+|c=lou5 zi2
+|cat=pron,n
+}}
+
+====Pronoun====
+{{zh-pronoun}}
+
+# {{lb|zh|colloquial|male}} [[I]]; [[me]]
+#: {{zh-x|'''老子{zi}''' 才 不 怕 老闆{bǎn} 呢。|'''I''''m not afraid of the boss.}}
+
+====Usage notes====
+When {{zh-l|老子}} is used this way, it often gives off an arrogant, angry, childish or humorous tone.
+
+====Noun====
+{{zh-noun}}
+
+# [[old]] [[man]]
+# {{lb|zh|slang}} [[father]]; [[old man]]
+# {{lb|zh|dated|or|regional}} [[son]]; [[young man]] {{qualifier|i.e. a [[mother]] [[scolding]] [[her]] [[son]]}}
+#*: {{zh-x|最 奇怪 的 是 昨天 街 上 的 那個 女人，打 他 兒子，嘴 裏 說道：「^老子{zi} 呀！我 要 咬 你 幾{jǐ} 口 纔 出氣！」 他 眼睛 卻 看 着{zhe} 我 。|The strangest was a woman on the street yesterday. She was hitting her son. From her mouth, I heard her say, "'''Young man'''! I'd like to take a few bites out of you just to vent my anger!" Yet, her eyes were fixed on me.|ref='''1918''', {{w|Lu Xun}}, ''[[s:A Madman's Diary#3|A Madman's Diary]]''}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|おい|こ|k2=ご|yomi=k|r=y}}
+Compound of {{compound|lang=ja|sort=おいこ|老いる|alt1=老い|tr1=oi|t1=stem of verb ''oiru'', to become old|子|tr2=ko|t2=child}}. The ''ko'' changes to ''go'' due to {{rendaku|おいご}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[o̞iɡo̞]|[o̞iŋo̞]}}
+
+====Noun====
+{{ja-noun|おいご}}
+
+# a [[child]] of older [[parent]]s
+
+=====Synonyms=====
+* {{l|ja|年寄り子|tr={{l|ja|としよりこ}}, ''{{l|ja|sc=Latn|toshiyoriko}}''}}
+
+===Etymology 2===
+{{ja-kanjitab|ろう|し|yomi=o}}
+From {{etyl|ltc|ja|sort=ろうし}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[ro̞ːɕi]}}
+
+====Proper noun====
+{{ja-pos|proper|ろうし|hhira=らうし}}
+
+# [[Laozi]], a philosopher of ancient China
+# the ''[[Tao Te Ching]]'', a book of philosophy supposedly written by Laozi
+
+=====External links=====
+* {{pedia|lang=ja}}
+* {{pedia|Laozi}}
+* {{pedia|lang=ja|老子道徳経}}
+* {{pedia|Tao Te Ching}}
+
+===Etymology 3===
+From the {{etyl|en|ja|sort=らおつう}} pronunciation of {{m|en|Lao-Tsu}}, from {{etyl|zh|ja|sort=らおつう}} {{m|zh|老子|tr=Lǎozi}}.
+
+====Pronunciation====
+* {{IPA|lang=ja|[ɺ̠äo̞t͡sɯᵝː]}}
+
+====Proper noun====
+{{ja-pos|proper|ラオツー}}
+
+# [[Laozi]], a philosopher of ancient China
+
+[[fr:老子]]
+[[ko:老子]]
+[[mg:老子]]
+[[zh:老子]]

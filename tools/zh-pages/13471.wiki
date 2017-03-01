@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=34|rad=夂|as=04|sn=7|four=27504|canj=HEQJ|ids=⿱夂丰}}
+
+# [[resist]]
+
+====Derived characters====
+* [[蜂]]
+
+====References====
+* {{Han ref|kx=0244.220|dkj=05698|dj=0485.090|hdz=20868.070|uh=5906|ud=22790|bh=CAB0|bd=51888}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|夂|t1=foot, walk|丰|t2=bush, brush|ls=psc|c1=s|c2=p}} – also idiomatic, a foot walking through brush, which resists being moved through.
+
+===Pronunciation===
+{{zh-pron
+|m=fēng
+|c=fung1
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=夂04}}
+
+# [[resist]]
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō), [[ふ]] (fu), [[ば]] (ba)|kun=[[さからう]] (sakarau), [[ひく]] (hiku), [[あう]] (au), [[あつい]] (atsui)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[봉]]|rv=bong|mr=pong}}
+
+# [[chisel]]
+# to [[pull]]
+# to [[guide]], [[lead]]
+
+[[fr:夆]]
+[[li:夆]]
+[[hu:夆]]
+[[pl:夆]]
+[[th:夆]]
+[[zh:夆]]

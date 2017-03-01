@@ -1,0 +1,94 @@
+{{character info/new}}
+{{also|裏|里}}
+==Translingual==
+{{Han simplified forms|裡|裏|里}}
+===Glyph origin===
+{{Han etym}}
+{{Han compound|衣|里|c1=s|c2=p|t1=clothes|ls=psc}}.
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=07|sn=13|four=36214|canj=LWG|ids=⿰衤里}}
+
+====References====
+* {{Han ref|kx=1118.131|dkj=34295|hdz=53094.030|uh=88E1|ud=35041|bh=B8CC|bd=47308}}
+
+----
+
+==Chinese==
+{{zh-forms|s=里|t2=裏}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǐ
+|c=leoi5,lei5
+|h=pfs=
+|md=
+|mn=lí
+|w=3li
+|mc=
+|oc=
+|ma=y
+|cat=prep,n
+}}
+{{attention|zh|the Old/Middle Chinese data is available for 裏 but not for 裡}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[in]], [[inside]]
+#* {{zh-x|誰 在 這 房間 裡？|Who is '''inside''' this room?}}
+# [[place]]
+#* {{zh-l|這裡|here}}
+#* {{zh-l|哪裡|where}}
+#* {{zh-l|那裡|there}}
+# [[inside]], [[interior]], [[within]]
+
+===See also===
+* {{zh-l|里}}
+
+===References===
+*{{thcwd|10027}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=衣07}}
+
+# {{defn|lang=ja|sort=衣07}}
+
+====Readings====
+* {{ja-readings|on=[[り]] (ri)|kun=[[うら]] (ura), [[うち]] (uchi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[리]]>[[이]]|eumhun=|mr=ri>i|y=li>i}}
+
+# {{defn|lang=ko|sort=衣07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|lí|rs=衣07}}
+
+# {{defn|lang=vi|sort=衣07}}
+
+[[zh-min-nan:裡]]
+[[fr:裡]]
+[[ko:裡]]
+[[li:裡]]
+[[hu:裡]]
+[[mg:裡]]
+[[fj:裡]]
+[[ja:裡]]
+[[pl:裡]]
+[[pt:裡]]
+[[th:裡]]
+[[chr:裡]]
+[[zh:裡]]

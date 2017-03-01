@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tèjí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[special]] [[program]], [[edition]] or [[collection]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|とく|しゅう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|yomi=kanon|とくしゅう|dev=2|acc=0|acc_ref=NHK,DJR}}
+
+===Alternative forms===
+* {{ja-l|特輯}} {{qualifier|rare}}
+
+===Noun===
+{{ja-noun|とくしゅう|hhira=とくしふ}}
+
+# a [[special]] [[program]], a special [[edition]]
+#: {{ja-usex|北朝鮮の'''特集'''記事が掲載された。|^きた ^ちょうせん の '''とくしゅう''' きじ が けいさい された。|A '''special''' article on North Korea was published.}}
+
+===Verb===
+{{ja-verb-suru|とくしゅう|hhira=とくしふ|tr=transitive}}
+
+# to [[run]] a [[special]] on someone or something, to [[feature]] or [[profile]] someone or something
+#: {{ja-usex|日本の祭りを'''特集'''した雑誌|^にほん の まつり を '''とくしゅう''' した ざっし|a magazine that '''ran a special on''' / '''featured''' Japanese festivals}}
+
+====Conjugation====
+{{ja-suru|とくしゅう}}
+
+===References===
+<references/>
+
+[[fr:特集]]
+[[zh:特集]]

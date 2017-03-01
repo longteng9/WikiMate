@@ -1,0 +1,105 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=05|sn=9|four=98811|canj=FOS|ids=⿰火乍}}
+
+# to [[fry]] in [[oil]]
+# to [[scald]]
+# to [[explode]]
+
+====References====
+* {{Han ref|kx=0669.101|dkj=18979|dj=1078.140|hdz=32196.010|uh=70B8|ud=28856|bh=ACB5|bd=44213}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=zhà |ma=y
+|c=zaa3
+|h=pfs=
+|md=
+|mn=chà/chia̍h
+|w=
+|mc=
+|oc=
+|cat=v
+}}
+{{attention|zh|Min Nan and Old/Middle Chinese needs checking/attention 07:13, 15 January 2016 (UTC)}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[explode]]
+
+===Pronunciation 2===
+{{theaji|chòaⁿ/chia̍h}}
+{{zh-pron
+|m=zhá
+|c=zaa3
+|h=pfs=
+|md=
+|mn=chòaⁿ/chia̍h
+|w=
+|mc=
+|oc=
+|cat=v
+}}
+{{attention|zh|Min Nan and Old/Middle Chinese needs checking/attention 07:13, 15 January 2016 (UTC)}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[fry]] in [[oil]]; to [[deep-fry]]
+
+====See also====
+* {{zh-l|煸}}
+* {{zh-l|炒}}
+* {{zh-l|煎}}
+
+===References===
+* {{thcwd|5191}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火05}}
+
+# {{defn|lang=ja|sort=火05}}
+
+====Readings====
+* {{ja-readings|on=[[さく]] (saku), [[さ]] (sa), [[さつ]] (satsu)|kun=[[あげる]] (ageru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=작|eumhun=|rv=jak|mr=chak|y=cak}}
+
+# {{defn|lang=ko|sort=火05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tạc]]|rs=火05}}
+
+# {{defn|lang=vi|sort=火05}}
+
+[[zh-min-nan:炸]]
+[[fr:炸]]
+[[ko:炸]]
+[[hu:炸]]
+[[mg:炸]]
+[[ja:炸]]
+[[no:炸]]
+[[pl:炸]]
+[[th:炸]]
+[[zh:炸]]

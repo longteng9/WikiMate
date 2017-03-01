@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+Radical: [[肉]] + [[內]]
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=04|sn=8|four=74227|canj=BOB|ids=⿰⺼內}}
+
+# [[fat]]
+# [[seal]] (moon radical DKW: 14342 is different)
+
+====References====
+* {{Han ref|kx=0975.150|dkj=29305|dj=1427.060|hdz=32048.110|uh=80AD|ud=32941|bh=CDB0|bd=52656}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=nà
+|c=neot6,nat6
+|mn=lut
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|膃肭|膃肭臍}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉04}}
+
+# {{defn|lang=ja|sort=肉04}}
+
+====Readings====
+{{ja-readings|goon=[[のち]] (nochi)|kanon=[[どつ]] (dotsu)|kun=[[こえる]] (koeru)}}
+
+====Compounds====
+* {{ja-r|膃肭臍|おっとせい|[[fur seal]]}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=눌|eumhun=|rv=nul|mr=nul|y=nwul}}
+
+# {{defn|lang=ko|sort=肉04}}
+
+[[fr:肭]]
+[[hu:肭]]
+[[mg:肭]]
+[[ja:肭]]
+[[pl:肭]]
+[[th:肭]]
+[[vi:肭]]
+[[zh:肭]]

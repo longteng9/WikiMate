@@ -1,0 +1,51 @@
+{{also|阳极}}
+==Chinese==
+{{zh-forms|s=阳极}}
+
+===Pronunciation===
+{{zh-pron
+|m=yángjí
+|c=joeng4 gik6
+|mn=iông-ke̍k
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[anode]]
+
+{{zh-cat|Electricity}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|よう|きょく|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ようきょく|y=o|acc=0}}
+
+===Noun===
+{{ja-noun|ようきょく|hhira=やうきょく}}
+
+# [[anode]]
+
+====Synonyms====
+* {{ja-r|アノード}}
+
+====Antonyms====
+* {{ja-r|陰極|いんきょく|cathode}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=양극}}
+
+# {{hanja form of|양극|[[anode]]}}
+
+[[ko:陽極]]
+[[hu:陽極]]
+[[zh:陽極]]

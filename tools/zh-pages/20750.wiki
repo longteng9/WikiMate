@@ -1,0 +1,99 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=96|rad=玉|as=06|sn=10|four=11114|canj=MGILG}}
+
+====References====
+* {{Han ref|kx=0731.190|dkj=20976|dj=1142.290|hdz=21113.030|uh=73ED|ud=29677|bh=AF5A|bd=44890}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|𤤴|刀|t1=two jade|t2=knife|ls=ic}} – to cut jade to pieces with knife.
+
+===Pronunciation===
+{{zh-pron
+|m=bān
+|c=baan1
+|h=pfs=pân
+|md=băng
+|mn=pan
+|w=1pe
+|mc=y
+|oc=y
+|ma=y
+|cat=n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|school}} [[class]]; [[group]]; [[grade]]
+# {{lb|zh|military}} [[squad]]
+# [[shift]]; [[workshift]]
+# {{zh-classifier|a [[group]] of [[people]]}}
+#* {{zh-x|跟 班 friend @&#32; hea 到 天光|hanging with friends until dawn|C|ref={{w|Beyond (band)|Beyond}}, {{lang|zh|遊戲}}}}
+# {{zh-classifier|[[schedule]]d forms of [[transportation]], such as [[flight]]s and [[train]]s}}
+
+====Usage notes====
+* {{sense|military}} Under the [[w:National Revolutionary Army|National Revolutionary Army]], a [[platoon]] ({{zh-l|*排}}) was composed of three squads. With the [[infantry]], the [[infantry squad]] would be composed of 14 [[soldier]]s, of 10 [[riflemen]], and one [[light machine gun]] unit.
+
+===Compounds===
+{{zh-der|班子|上班族|彈性上班|小夜班|代班|慢班|加班|一人班|大夜班|一班兒|年班|分班序齒|一班一輩|德爾班|後段班|倒班|序班|常態分班|小班|布利斯班|弄斧班門|一班半點|屈豔班香|唱詩班|仙班|包班制|安親班|女班頭|分班|交班|夜班|下班|一班|中班|同班|南班子|加班車|原班人馬|升班|大班|幫班|三班六房|上班|值班|塞班島|班毛|班兵|探班|班別|班軍|班代|班長|當班|戲班|暑修班|班會|班組|班級|班達海|班首|班艾島|班功行賞|班班可考|白班|班駁|班竹|班代表|拿班|拖班|班房|班達群島|清吟小班|班美之戰|排班|秀出班行|插班|班荊道舊|科班|班荊道故|研習班|換班|班資|減班|班頭|班班|益智班|林班|接班人|班列|晚班|朝班|珠斗爛班|接班|班序|班際|班鳩跌彈|班馬文章|班馬|班香宋豔|班門弄斧|班部|班輪|班車|班衣戲綵|班荊|班范|班禪喇嘛|班禪|班次|班師得勝|班師回朝|班師|班姬詠扇|班基|班圖族|班史|班克斯島|捉班做勢|搭班子|班底|拿班作勢|班導師|放牛班|按部就班|掌班|末班車|班輩|班機|早班|替班|歇班|檔子班|班都斯山|班行|才藝班|捐班|虎體鵷班|能力分班|馬戲班|領導班子|跟班|速成班|西班牙語|西班牙港|西班牙|魯班真人|該班|魯班|跳班|草臺班子|西班|調班|道班|老班底|站班|補班|領班|長班|風流班首|豹尾班|過班|蛾眉班|跕班|開班|脫班|航班|馬班|輪班|編班|補習班}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=玉06}}
+
+# group, party, section
+
+====Readings====
+* {{ja-readings|goon=[[へん]] (hen) {{non-joyo-reading}}|kanon=[[はん]] (han)|kun=[[わける]] (wakeru)}}
+
+===Suffix===
+{{ja-pos|suffix|はん}}
+
+# [[group]], party
+# {{lb|ja|military|sort=はん}} [[section]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=반|eumhun=|rv=ban|mr=pan|y=pan}}
+
+# {{defn|lang=ko|sort=玉06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ban]], [[băn]]|rs=玉06}}
+
+# {{defn|lang=vi|sort=玉06}}
+
+[[zh-min-nan:班]]
+[[da:班]]
+[[fr:班]]
+[[ko:班]]
+[[hu:班]]
+[[mg:班]]
+[[ja:班]]
+[[no:班]]
+[[pl:班]]
+[[sr:班]]
+[[ta:班]]
+[[th:班]]
+[[chr:班]]
+[[uk:班]]
+[[zh:班]]

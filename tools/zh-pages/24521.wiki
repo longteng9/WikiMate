@@ -1,0 +1,37 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han compound|月|雪|ls=psc|c1=s|c2=p}}.
+
+===Han character===
+{{Han char|rn=74|rad=月|as=11|sn=15|four=|canj=BMBM,BMBS|ids=⿰月雪}}
+
+# {{defn|Han|sort=月11}}
+
+====References====
+* {{Han ref|kx=0993.201|hdz=32107.031|uh=81A4|ud=33188}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=月11}}
+
+# {{defn|lang=ja|sort=月11}}
+
+====Readings====
+{{ja-readings
+|on=[[せつ]] (setsu)
+|kun=[[たら]] (tara), [[ゆき]] (yuki), [[そり]] (sori)}}
+
+[[Category:Ghost kanji]]
+[[Category:Japanese-only CJKV Characters|月+11]]
+
+[[fr:膤]]
+[[hu:膤]]
+[[ja:膤]]
+[[pl:膤]]
+[[th:膤]]
+[[zh:膤]]

@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gōngchéng
+|c=gung1 cing4
+|h=pfs=kûng-chhàng
+|mn=kang-têng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|uncountable}} [[engineering]]
+#: {{zh-x|地理 信息 工程|geographic information '''engineering'''}}
+#: {{zh-x|材料 加工 工程|material processing '''engineering'''}}
+#: {{zh-x|基建 工程|capital construction}}
+# {{lb|zh|countable}} [[project]] {{zh-mw|個|項}}
+#: {{zh-x|希望 工程|[[w:Project Hope|Project Hope]]}}
+
+====Derived terms====
+{{zh-der|反向工程|工程兵|工兵|工程師|工程學|逆向工程|水利工程|土木工程|系統工程|遺傳工程}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|工|程}}
+
+===Noun===
+{{ja-noun|こうてい}}
+
+# work [[process]]
+# [[progress]] of work
+
+[[zh-min-nan:工程]]
+[[ko:工程]]
+[[lo:工程]]
+[[hu:工程]]
+[[mg:工程]]
+[[ja:工程]]
+[[th:工程]]
+[[zh:工程]]

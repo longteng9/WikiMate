@@ -1,0 +1,76 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+{{wikipedia|lang=yue}}
+
+===Pronunciation===
+{{zh-pron
+|m=Hǎiwángxīng
+|c=hoi2 wong4 sing1
+|mn=qz,tp,xm:Hái-ông-chhiⁿ/kh,zz:Hái-ông-chheⁿ
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-propn}}
+
+# [[Neptune]] {{gloss|eighth planet of the solar system}}
+
+====See also====
+* {{list:planets of the Solar System/zh}}
+
+{{zh-cat|Planets of the Solar System}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+[[File:Neptune.jpg|thumb|250px|{{lang|ja|海王星}}]]
+{{ja-kanjitab|かい|おう|せい|yomi=o}}
+
+===Etymology===
+From {{etyl|lzh|ja}}. {{compound|ja|sort=かいおうせい|海|tr1=kai|t1=[[sea]]|王|tr2=ō|t2=[[king]]|星|tr3=sei|t3=[[star]]}}, named after {{m|en|Neptune}}, the Roman god of the sea.
+
+===Pronunciation===
+{{ja-pron|かいおうせい|acc=3|acc2=h|acc_ref=NHK,DJR|acc2_ref=NHK,DJR|y=ko}}
+
+===Proper noun===
+{{ja-pos|proper|かいおうせい|hhira=かいわうせい}}
+
+# [[Neptune]] {{gloss|eighth planet of the solar system}}
+
+====See also====
+* {{list:planets of the Solar System/ja|sort=かいおうせい}}
+* {{ja-r|ネプトゥーヌス|caps=1}}
+* {{ja-r|冥%王%星|^めい%おう%せい}}
+
+===References===
+<references/>
+
+{{topics|ja|Planets of the Solar System}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Proper noun===
+{{ko-propn|mr=Haewangsŏng|y=Hāywangseng|hangeul=해왕성}}
+
+# {{hanja form of|해왕성|[[Neptune]]}}
+
+[[af:海王星]]
+[[cs:海王星]]
+[[de:海王星]]
+[[fr:海王星]]
+[[ko:海王星]]
+[[lo:海王星]]
+[[lt:海王星]]
+[[li:海王星]]
+[[hu:海王星]]
+[[ja:海王星]]
+[[oc:海王星]]
+[[pl:海王星]]
+[[pt:海王星]]
+[[sv:海王星]]
+[[zh:海王星]]

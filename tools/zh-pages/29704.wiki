@@ -1,0 +1,63 @@
+{{character info/new}}
+{{also|锽}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=09|sn=17|four=86114|canj=CHAG}}
+
+# [[weapon]]
+
+====References====
+* {{Han ref|kx=1314.140|dkj=40630|dj=1815.010|hdz=64233.070|uh=9360|ud=37728|bh=EEDA|bd=61146}}
+
+----
+
+==Chinese==
+{{zh-forms|s=锽}}
+
+===Pronunciation===
+{{zh-pron
+|m=huáng
+|c=wong4,caang4
+|mc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|鍠聒|鍠鍠|鎗鍠}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金09}}
+
+# {{defn|lang=ja|sort=金09}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[まさかり]] (masakari)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=굉|eumhun=|rv=goeng|mr=koeng|y=koyng}}
+
+# {{defn|lang=ko|sort=金09}}
+
+[[fr:鍠]]
+[[hu:鍠]]
+[[ja:鍠]]
+[[pl:鍠]]
+[[th:鍠]]
+[[zh:鍠]]

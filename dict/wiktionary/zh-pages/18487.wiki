@@ -1,0 +1,86 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=79|rad=殳|as=11|sn=15|four=07247|canj=YOHNE|ids=⿰豙殳}}
+
+# [[resolute]], [[decisive]], [[firm]]
+
+====References====
+* {{Han ref|kx=0587.140|dkj=16673|dj=0979.170|hdz=32165.050|uh=6BC5|ud=27589|bh=BCDD|bd=48349}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=ngai6
+|mn=qz,tw,xm,zz:gē/twv:gī
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=殳11}}
+
+# {{defn|lang=ja|sort=殳11}}
+
+====Readings====
+* {{ja-readings|goon=[[げ]] (ge)|kanon=[[ぎ]] (gi)|kanyoon=[[き]] (ki)|kun=[[つよい]] (tsuyoi), [[たけし]] (takeshi)}}
+
+===Proper noun===
+{{ja-pos|proper|たけし}}
+
+# {{given name|male|lang=ja}}
+
+{{ja-pos|proper|つよし}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|たけし]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=의|eumhun=|rv=ui|mr=ŭi|y=uy}}
+
+# {{defn|lang=ko|sort=殳11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nghị]]|rs=殳11}}
+
+# {{defn|lang=vi|sort=殳11}}
+
+[[zh-min-nan:毅]]
+[[fr:毅]]
+[[li:毅]]
+[[hu:毅]]
+[[mg:毅]]
+[[ja:毅]]
+[[no:毅]]
+[[pl:毅]]
+[[th:毅]]
+[[zh:毅]]

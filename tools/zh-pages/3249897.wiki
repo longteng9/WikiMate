@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chèbīng
+|mn=thiat-peng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[withdraw]] [[troop]]s
+
+----
+
+==Japanese==
+{{ja-kanjitab|てつ|k1=てっ|へい|k2=ぺい|yomi=on}}
+
+===Noun===
+{{ja-noun|てっぺい}}
+
+# [[withdrawal]] of [[troops]]
+
+====Antonyms====
+* {{ja-r|出兵|しゅっぺい}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|てっぺい}}
+
+# [[withdraw]] troops
+
+====Conjugation====
+{{ja-suru|てっぺい}}
+
+[[hu:撤兵]]
+[[ja:撤兵]]
+[[zh:撤兵]]

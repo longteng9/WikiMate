@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=míngshì
+|mn=bêng-sī
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[express]] [[clearly]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|めい|じ|yomi=on}}
+
+===Noun===
+{{ja-noun|めいじ}}
+
+# [[explication]], [[demonstration]], [[manifestation]]
+
+====Antonyms====
+* {{ja-r|暗示|あんじ}}: [[hint]], [[implication]], [[intimation]], [[suggestion]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|めいじ}}
+
+# [[express]] clearly, [[explicate]], [[demonstrate]], [[manifestate]]
+
+====Conjugation====
+{{ja-suru|めいじ}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=명시}}
+
+# {{hanja form of|명시}}
+
+[[ko:明示]]
+[[it:明示]]
+[[mg:明示]]
+[[ja:明示]]
+[[zh:明示]]

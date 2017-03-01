@@ -1,0 +1,56 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chónggāo
+|ma=Zh-chónggao.ogg
+|c=sung4 gou1
+|mn=chông-ko
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[noble]], [[lofty]], [[sublime]]
+
+====Antonyms====
+* {{zh-l|卑鄙|[[mean]]}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|すう|こう|yomi=o}}
+
+===Adjectival noun===
+{{ja-adj|decl=na|すうこう}}
+
+# [[noble]], [[lofty]], [[sublime]], [[spiritual]]
+
+====Synonyms====
+* {{ja-r|立派|りっぱ}}
+* {{ja-r|高潔|こうけつ}}
+* {{ja-r|高邁|こうまい}}
+
+====Antonyms====
+* {{ja-r|卑劣|ひれつ|gloss=[[mean]]}}
+* {{ja-r|下劣|げれつ|gloss=[[vile]]}}
+
+====Inflection====
+{{ja-na|すうこう}}
+
+===Noun===
+{{ja-noun|すうこう}}
+
+# [[nobility]], [[loftiness]], [[sublimity]]
+
+[[ko:崇高]]
+[[hu:崇高]]
+[[mg:崇高]]
+[[ja:崇高]]
+[[fi:崇高]]
+[[chr:崇高]]
+[[zh:崇高]]

@@ -1,0 +1,72 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zàishēng
+|c=zoi3 sang1
+|mn=qz:chài-sng/tw,xm,zz:chài-seng
+|cat=v,n,a
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|archaic}} to [[come]] [[back]] to [[life]] [[after]] [[having]] [[died]]
+# {{lb|zh|archaic}} to [[recover]] [[from]] a [[serious]] [[injury]]
+# {{lb|zh|biology}} to [[regenerate]]
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|biology}} [[regeneration]]
+
+===Adjective===
+{{zh-adj}}
+
+# [[recycled]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|さい|せい|yomi=on}}
+
+===Etymology===
+{{prefix|再|生|lang=ja|t1=re|t2=live, produce|sort=せい}}
+
+===Noun===
+{{ja-noun|さいせい}}
+
+# come to life again
+# [[regeneration]]
+# [[reuse]]
+# [[recycle]]
+# [[reproduction]]
+# [[playback]]
+
+====Synonyms====
+* {{sense|come to life again}} {{ja-r|蘇生|そせい}}, {{ja-r|回生|かいせい}}
+* {{sense|recycle}} {{ja-r|再製|さいせい}}
+
+====Derived terms====
+* {{ja-r|再生繊維|さいせいせんい}}
+* {{ja-r|再生装置|さいせいそうち}}
+* {{ja-r|再生品|さいせいひん}}
+
+===Verb===
+{{ja-verb-suru|さいせい}}
+
+# come back to life
+# [[regenerate]]
+# [[reuse]]
+# play back
+
+====Conjugation====
+{{ja-suru|さいせい}}
+
+[[zh-min-nan:再生]]
+[[ko:再生]]
+[[lo:再生]]
+[[hu:再生]]
+[[ja:再生]]
+[[zh:再生]]

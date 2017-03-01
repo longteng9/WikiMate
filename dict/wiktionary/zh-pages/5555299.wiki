@@ -1,0 +1,42 @@
+{{also|軽銀|轻银}}
+
+==Chinese==
+{{zh-forms|s=轻银}}
+
+===Etymology===
+{{bor|nan|ja|-}} {{ja-r|軽銀|けいぎん}}.
+
+===Pronunciation===
+{{zh-pron
+|mn=kh,tn,tc:khin-gîn/tp:khin-gûn/kh:kheng-gîn/mg:kheng-gûn
+|mn_note=Kaohsiung, Tainan, Taichung: usually with {{zh-l|*仔|á}}
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Taiwanese Min Nan}} [[aluminium]]
+
+====Synonyms====
+* {{zh-l|鋁}}
+* {{zh-l|輕銀仔}}
+* {{zh-l|礬素}}
+* {{l|nan|a-lú-mih}}
+
+====Derived terms====
+{{zh-der|輕銀仔}}
+
+{{zh-cat|Chemical elements}}
+
+[[zh-min-nan:輕銀]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|けい|ぎん|yomi=on}}
+
+===Noun===
+{{ja-noun|けいぎん|shin=軽銀}}
+
+# {{kyujitai spelling of|軽銀}}: [[aluminium]]

@@ -1,0 +1,154 @@
+{{character info/new}}
+{{also|六|冘}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=116|rad=穴|as=00|sn=5|four=30802|canj=JC}}
+
+# {{mul-kangxi radical-def}}
+
+====References====
+* {{Han ref|kx=0862.200|dkj=25406|dj=1288.370|hdz=42718.010|uh=7A74|ud=31348|bh=A5DE|bd=42462}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+
+===Pronunciation===
+{{zh-pron
+|m=穴
+|ma=y
+|c=jyut6
+|h=pfs=hie̍t
+|md=
+|mn=hia̍t
+|w=5hhyq
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[hole]]
+# [[cave]], [[cavern]], [[lair]], [[den]]
+
+====Compounds====
+{{der5
+|{{zh-l|洞穴|cave}}
+|{{zh-l|穴寶蓋兒}}
+|{{zh-l|穴道}}
+|{{zh-l|穴居野處}}
+|{{zh-l|穴頭}}
+|{{zh-l|穴位}}
+|{{zh-l|穴隙}}
+}}
+
+====References====
+* (''Min Nan'') {{thcwd|1869}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=穴00}}
+
+# [[hole]], [[opening]]
+
+====Readings====
+{{ja-readings|goon=[[げち]] (gechi)|kanon=[[けつ]] (ketsu)|kun=[[あな]] (ana)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|穴子|あなご}}: [[conger eel]]
+* {{ja-r|点穴|てんけつ}}: [[pressure point]]s
+* {{ja-r|六穴|ろっけつ}}: the [[six]] [[hole]]s of the human body, which are the [[mouth]], [[eye]]s, [[ear]]s, [[nose]], [[anus]], and [[genital]]s
+{{der-bottom}}
+
+{{ja-kanjitab|あな|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|あな|acc=2|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|あな}}
+
+# [[hole]]
+# [[opening]], [[aperture]]
+# [[pit]]
+# [[cave]], [[cavern]]
+# [[lair]], [[den]], [[burrow]]
+# [[loss]], [[deficit]]
+# [[flaw]], [[defect]]
+
+====Synonyms====
+* {{sense|hole}} {{l/ja|孔}}
+* {{sense|opening}} {{l/ja|口}}
+* {{sense|pit}} {{l/ja|坑}}
+* {{sense|cave}} {{l/ja|洞}}
+* {{sense|lair}} {{l/ja|窟}}
+* {{sense|loss}} {{l/ja|損失}}
+* {{sense|flaw}} {{l/ja|缺点}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=혈|eumhun=구멍|ehrv=gumeong|mr=hyŏl|y=hyel}}
+
+# ([[구멍]] 혈, ''gumeong-''): [[hole]], [[hollow]]
+# ([[구덩이]] 혈, ''gudeong'i-''): [[pit]], [[ditch]]
+# ([[굴]] 혈, ''gul-''): [[cave]], [[cavern]], [[cavity]]; [[den]], [[burrow]], [[sett]]
+# ([[움]] 혈, ''um-''): [[dugout]]
+
+====Synonyms====
+* {{l|ko|孔}} ([[공]], ''gong'') [[hole]]
+* {{l|ko|坑}} ([[갱]], ''gaeng'') [[pit]]
+* {{l|ko|壕}} ([[호]], ''ho'') [[moat]], [[ditch]], [[trench]], [[channel]]
+* {{l|ko|窟}} ([[굴]], ''gul'') [[cave]], [[den]], [[burrow]], [[tunnel]]
+
+====Compounds====
+* [[穴居人]] ([[혈거인]], ''hyeolgeoin'') [[cave dweller]]
+
+[[Category:Hanja readings|혈]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|huyệt|rs=穴00}}
+
+[[Category:CJKV radicals| ]]
+
+# {{defn|lang=vi|sort=穴00}}
+
+[[fr:穴]]
+[[ko:穴]]
+[[hi:穴]]
+[[it:穴]]
+[[lo:穴]]
+[[li:穴]]
+[[hu:穴]]
+[[mg:穴]]
+[[ms:穴]]
+[[ja:穴]]
+[[no:穴]]
+[[pl:穴]]
+[[ru:穴]]
+[[fi:穴]]
+[[sv:穴]]
+[[th:穴]]
+[[chr:穴]]
+[[zh:穴]]

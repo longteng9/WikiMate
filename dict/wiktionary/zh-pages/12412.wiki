@@ -1,0 +1,40 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=07|sn=10|four=|canj=RQYJ|ids=⿰口抖}}
+
+# {{lb|mul|Cantonese}} to [[gasp]]
+# to [[breathe]]
+# to [[rest]]
+
+====References====
+* {{Han ref|kx=0193.051|hdz=10625.051|uh=551E|ud=21790}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dóu
+|c=tau2
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}} {{tcx|Cantonese|lang=zh}}
+
+# to [[breathe]]
+# to [[rest]]
+
+====Derived terms====
+* {{zh-l|唞氣}}
+* {{zh-l|早唞}}
+
+[[fr:唞]]
+[[mg:唞]]
+[[pl:唞]]
+[[th:唞]]
+[[zh:唞]]

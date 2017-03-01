@@ -1,0 +1,87 @@
+{{also|东西}}
+==Chinese==
+{{zh-forms|s=东西}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=dōngxī
+|c=dung1 sai1
+|h=pfs=tûng-sî
+|mn=tang-sai
+|cat=n,adv
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[east]] and [[west]]
+
+====Adverb====
+{{zh-adv}}
+
+# from [[east]] to [[west]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=dōngxi
+|c=dung1 sai1
+|g=dung1 xi
+|h=pfs=tûng-sî
+|mn=qz,xm,zz:tong-si
+|j=dung1 xi3
+|x=dong1 si
+|cat=n
+|ma=zh-dōngxi.ogg
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|chiefly|Mandarin|Gan|Hakka|Jin|Xiang}} [[something]]; [[thing]]; [[stuff]] {{zh-mw|個|件|樣}}
+#: {{zh-x|我 有 東西{xi} 要 給 你。|I have '''something''' for you.}}
+#: {{zh-x|把 我 的 東西{xi} 還{huán}給 我。|Give my '''stuff''' back.}}
+#: {{zh-x|我 還 有 很 多 東西{xi} 要 學。|I still have a lot to learn.}}
+
+====Synonyms====
+{{zh-dial}}
+
+====Derived terms====
+{{zh-der|買東西|不是東西|小東西}}
+
+====Usage notes====
+* In Mandarin, whilst {{lang|zh|東西／东西}} can mean thing in either a physical or abstract sense, {{zh-l|事情}} only means thing in an abstract sense.
+
+{{zh-cat|Beginning|Antonymous}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|さい|k2=ざい|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|とうざい|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうざい}}
+
+# [[east]] and [[west]]
+
+===See also===
+* {{ja-l|南北|なんぼく|nanboku}}: north and south - literally, south and north
+
+===References===
+<references/>
+
+[[zh-min-nan:東西]]
+[[fr:東西]]
+[[ko:東西]]
+[[lt:東西]]
+[[hu:東西]]
+[[mg:東西]]
+[[fj:東西]]
+[[nl:東西]]
+[[ja:東西]]
+[[pl:東西]]
+[[tl:東西]]
+[[chr:東西]]
+[[zh:東西]]

@@ -1,0 +1,34 @@
+==Japanese==
+{{ja-kanjitab|とう|ちょう|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|とうちょう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうちょう}}
+
+# [[climbing]] to the [[summit]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|とうちょう}}
+
+# to [[climb]] to the summit
+
+====Conjugation====
+{{ja-suru|とうちょう}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=등정}}
+
+# {{hanja form of|등정|climb}}
+
+[[ko:登頂]]
+[[zh:登頂]]

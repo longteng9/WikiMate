@@ -1,0 +1,65 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{m|zh|十||ten|tr=shí}} + {{m|zh|分||one tenth|tr=fēn}}, literally "ten out of ten".
+
+===Pronunciation===
+{{zh-pron
+|m=shífēn
+|c=sap6 fan1
+|h=pfs=sṳ̍p-fûn
+|ma=zh-shífēn.ogg
+|mn=cha̍p-hūn/qz,xm,zz:si̍p-hun
+|cat=adv
+}}
+
+===Adverb===
+{{zh-adv}}
+
+# {{lb|zh|Beginning Mandarin}} [[very]]; [[extremely]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|十|分}}
+
+===Etymology 1===
+
+====Alternative forms====
+* {{l|ja|充分}}
+
+====Adjectival noun====
+{{ja-adj|じゅうぶん|decl=な}}
+
+# [[enough]], [[plenty]]
+
+=====Inflection=====
+{{ja-na|十分|じゅうぶん|jūbun}}
+
+====Adverb====
+{{ja-pos|adverb|じゅうぶん}}
+
+# [[fully]], [[thoroughly]]
+
+=====Antonyms=====
+* {{l|ja|不十分}}
+
+===Etymology 2===
+Number 10 plus "minute"
+
+====Noun====
+{{ja-noun|じゅっぷん}}
+
+# [[ten]] [[minutes]]
+
+{{ja-minutes}}
+
+[[ko:十分]]
+[[hu:十分]]
+[[mg:十分]]
+[[ja:十分]]
+[[ta:十分]]
+[[chr:十分]]
+[[uk:十分]]
+[[zh:十分]]

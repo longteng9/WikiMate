@@ -1,0 +1,47 @@
+{{also|惊死}}
+==Chinese==
+{{zh-forms|s=惊死|lit=to fear death}}
+
+===Etymology===
+{{zh-compound|驚|死|to fear; to scare|death}}
+
+===Pronunciation 1===
+{{zh-pron
+|c=geng1 sei2
+|mn=kiaⁿ-sí
+|cat=v,a
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|Min Nan|Cantonese}} to fear death
+
+====Adjective====
+{{zh-adj}}
+
+# {{lb|zh|Min Nan|Cantonese}} [[afraid]]; [[scared]]; [[cowardly]]
+#: {{zh-x|你 做咩 咁 驚死？|Why are you so '''scared'''?|C}}
+
+====Synonyms====
+* {{zh-l|怕死}}
+
+====Descendants====
+* English: [[kiasi]]
+
+===Pronunciation 2===
+{{zh-pron
+|mn=kiaⁿ--sí
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|Min Nan}} to [[scare]] someone [[to death]]
+#: {{zh-x|我 真是 予 你 驚死。|You really '''scared''' me '''to death'''.|tr=Góa chin-sī hō͘ lí kiaⁿ--sí.|MN}}
+
+=====Synonyms=====
+* {{qualifier|Mandarin|Cantonese}} {{zh-l|嚇死}}
+
+[[zh-min-nan:驚死]]

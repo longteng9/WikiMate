@@ -1,0 +1,37 @@
+{{also|国语|國語}}
+==Japanese==
+{{ja-kanjitab|こく|ご|yomi=on}}
+
+===Etymology===
+From {{compound|ja|国|語|tr1=koku|tr2=go|t1=nation|t2=language}}. The sense of "Mandarin" is derived from Taiwanese usage of the identical Chinese word {{zh-l|國語}}.
+
+===Pronunciation===
+* {{ja-pron|こくご|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|kyu=國語|こくご}}
+
+# national language
+#: {{ja-usex|２か'''国語'''放送|にか '''こくご''' ほうそう|bilingual broadcast}}
+# {{lb|ja|specifically}} the [[Japanese]] [[language]]
+#: {{ja-usex|'''国語'''辞典|'''こくご''' じてん|dictionary of the '''national language'''; '''Japanese''' dictionary}}
+# [[Mandarin]]; [[Standard Mandarin]]
+
+====Synonyms====
+* {{ja-r|日本語|にほんご|Japanese}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|こくご]]
+
+[[fr:国語]]
+[[ko:国語]]
+[[it:国語]]
+[[li:国語]]
+[[hu:国語]]
+[[ja:国語]]
+[[pl:国語]]
+[[pt:国語]]
+[[sv:国語]]
+[[zh:国語]]

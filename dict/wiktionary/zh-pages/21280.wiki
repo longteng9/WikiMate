@@ -1,0 +1,97 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=07|sn=12|four=00127|canj=KNIB|ids=⿸疒甬}}
+
+====References====
+* {{Han ref|kx=0773.280|dkj=22195|dj=1184.090|hdz=42677.090|uh=75DB|ud=30171|bh=B568|bd=46440}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tòng
+|c=tung3
+|mn=thòng/qz,tw:thàng/thiàⁿ
+|mn_note=thòng - literary; thàng - vernacular; thiàⁿ - vernacular (俗)
+|mc=y
+|oc=y
+|ma=Zh-tòng.ogg
+|cat=a,v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[hurt]]; to cause [[pain]]
+
+===Adjective===
+{{zh-adj}}
+
+# physically [[sore]]; [[painful]]
+# mentally sore
+
+====Synonyms====
+* {{zh-l|疼}}
+
+====Compounds====
+{{zh-der|痛不欲生|痛陳|痛斥|痛楚|痛處|痛打|痛悼|痛定思痛|通改|痛感|痛恨|痛悔|痛擊|痛殲|痛經|痛覺|痛哭|痛苦|痛快|痛快淋漓|痛罵|痛切|痛入骨髓|痛惡|痛惜|痛心|痛心疾首|痛癢|痛癢相關|痛飲|痛飲黃龍|痛責|疼痛|偏頭痛}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=疒07}}
+
+# [[pain]]
+
+====Readings====
+* {{ja-readings|goon=[[つう]] (tsū)|kanon=[[とう]] (tō)|kun=[[いたむ]] (itamu), [[いたみ]] (itami), [[いたい]] (itai)}}
+
+====Derived terms====
+* {{ja-r|痛み|いたみ}}
+* {{ja-r|痛い|いたい}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=통|eumhun=|rv=tong|mr=t'ong|y=thong}}
+
+# {{defn|lang=ko|sort=疒07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thống]]|rs=疒07}}
+
+# {{defn|lang=vi|sort=疒07}}
+
+[[fr:痛]]
+[[ko:痛]]
+[[li:痛]]
+[[hu:痛]]
+[[mg:痛]]
+[[nl:痛]]
+[[ja:痛]]
+[[no:痛]]
+[[uz:痛]]
+[[pl:痛]]
+[[ru:痛]]
+[[fi:痛]]
+[[th:痛]]
+[[chr:痛]]
+[[tr:痛]]
+[[uk:痛]]
+[[zh:痛]]

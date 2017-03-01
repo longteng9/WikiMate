@@ -1,0 +1,97 @@
+{{character info/new}}
+{{also|苹}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=16|sn=22|four=44286|canj=TYHC|ids=⿱艹頻}}
+
+# [[apple]]
+
+====References====
+* {{Han ref|kx=1068.150|dkj=32435|dj=1534.100|hdz=53325.040|uh=860B|ud=34315|bh=C4AB|bd=50347}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|s=苹}}
+
+====Pronunciation====
+{{zh-pron
+|m=píng
+|c=ping4
+|mn=km,qz,xm,zz:phêng/qz,xm:phiâng/kh,tc,mg:phōng/lk,tn,yl:phông/twd:pêng/twd:pîn/twd:pông
+|mc=
+|oc=
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[apple]]
+
+====Compounds====
+{{zh-der|蘋婆|蘋果|蘋果綠|蘋果臉|蘋果酸}}
+
+===Etymology 2===
+{{zh-forms|s=𬞟}}
+
+====Pronunciation====
+{{zh-pron
+|m=pín
+|c=pan4
+|mc=y
+|oc=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|奉蘋蘩/奉𬞟蘩|白蘋/白𬞟|白蘋洲/白𬞟洲|蘋葉/𬞟叶|蘋風/𬞟风|青蘋/青𬞟|蘋末/𬞟末|蘋藻/𬞟藻|蘋蘩/𬞟蘩}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸16}}
+
+# {{defn|lang=ja|sort=艸16}}
+
+====Readings====
+* {{ja-readings|on=[[ひん]] (hin), [[びん]] (bin)|kun=[[うきくさ]] (ukikusa), [[でんじそ]] (denjiso)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=빈|eumhun=|rv=bin|mr=pin|y=pin}}
+
+# {{defn|lang=ko|sort=艸16}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tần]], [[tằn]], [[thài]]|rs=艸16}}
+
+# {{defn|lang=vi}}
+
+[[fr:蘋]]
+[[hu:蘋]]
+[[mg:蘋]]
+[[ja:蘋]]
+[[pl:蘋]]
+[[th:蘋]]
+[[zh:蘋]]

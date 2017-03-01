@@ -1,0 +1,29 @@
+{{also|点钟}}
+==Chinese==
+{{zh-forms|s=点钟}}
+
+===Pronunciation===
+{{zh-pron
+|m=diǎnzhōng
+|c=dim2 zung1
+|h=pfs=tiám-chûng
+|mn=tiám-cheng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[o'clock]]
+# [[hour]]
+#* {{zh-x|我 那個 鬼 地方 連 請 兩 點鐘 假{jià}，也 要 扣 薪水|They'll deduct my salary even for a two '''hour''' absence. That damn place!|ref='''1947:''' {{w|Ba Jin}}, ''Cold Nights'' ({{lang|zh|寒夜}}), chapter 3 (Bilingual Edition, ISBN 9629960133)}}
+#* {{zh-x|^地球 公轉 的 速度 是 1 點鐘 @1600 公里|The earth's orbital speed is 1600 kilometres per '''hour'''.|MN|ref='''2006:''' [[w:zh-min-nan:Tē-kiû|Tē-kiû]], Min Nan Wikipedia}}
+
+===Usage notes===
+* Unlike Mandarin and Cantonese, this word is not used for {{m|en|o'clock}} in Min Nan.  For {{m|en|o'clock}}, simply use {{lang|nan|tiám}} (ex. {{lang|nan|saⁿ-tiám}} = 3 o'clock).
+
+{{zh-cat|Beginning}}
+
+[[zh-min-nan:點鐘]]
+[[ko:點鐘]]
+[[hu:點鐘]]

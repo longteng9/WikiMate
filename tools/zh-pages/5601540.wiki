@@ -1,0 +1,65 @@
+==Chinese==
+{{zh-forms|type=22}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=xìngrén dòufu
+|c=hang6 jan4 dau6 fu6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[annin tofu]]
+
+{{zh-cat|Desserts}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|あん|にん|どう|ふ|yomi=o}}
+
+From {{m|ja|杏仁|tr=annin}} + {{m|ja|豆腐|tr=dōfu}}.
+
+====Pronunciation====
+{{ja-pron|あんにん どうふ|y=o}}
+
+====Noun====
+{{ja-noun|あんにん どうふ}}
+
+# [[annin tofu]]
+
+===Etymology 2===
+{{ja-kanjitab|きょう|にん|どう|ふ|yomi=o}}
+
+From {{m|ja|杏仁|tr=kyōnin}} + {{m|ja|豆腐|tr=dōfu}}.
+
+====Pronunciation====
+{{ja-pron|きょうにん どうふ|y=o}}
+
+====Noun====
+{{ja-noun|きょうにん どうふ}}
+
+# [[annin tofu]]
+
+===Etymology 3===
+{{ja-kanjitab|しん|れん|どう|ふ|yomi=irr}}
+
+From {{der|ja|cmn|杏仁|tr=xìngrén}} + Japanese {{m|ja|豆腐|tr=dōfu}}.
+
+====Pronunciation====
+{{ja-pron|シンレン ドウフ|y=o}}
+
+====Noun====
+{{ja-noun|シンレン ドウフ}}
+
+# [[annin tofu]]
+
+[[Category:ja:Desserts|あんにんどうふ]]
+
+[[zh:杏仁豆腐]]

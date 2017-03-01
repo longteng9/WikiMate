@@ -1,0 +1,71 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+{{wikipedia|lang=yue}}
+
+===Pronunciation===
+{{zh-pron
+|m=wúgōng
+|c=ng4 gung1
+|mn=giâ-kang
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[centipede]]
+
+====Synonyms====
+* {{qualifier|Min Dong}} {{zh-l|紅蚣}}
+
+====See also====
+* {{zh-l|馬陸}}
+
+{{zh-cat|Arthropods}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=irr|sort=むかで}}
+{{juku|sort=むかで|c=y}}
+
+===Noun===
+{{ja-noun|むかで|ムカデ}}
+
+# {{altspell|百足|lang=ja}}
+
+----
+
+==Miyako==
+
+===Noun===
+{{head|mvi|noun|hiragana|んかじ|sc=Jpan|tr=nkaji|sort=んかじ}}
+
+# {{altspell|百足|lang=mvi|sc=Jpan}}
+
+----
+
+==Oki-No-Erabu==
+
+===Noun===
+{{head|okn|noun|hiragana|むかじ|sc=Jpan|tr=mukaji|sort=むかじ}}
+
+# {{altspell|百足|lang=okn|sc=Jpan}}
+
+----
+
+==Toku-No-Shima==
+
+===Noun===
+{{head|tkn|noun|hiragana|ぬかで|sc=Jpan|tr=nukade|sort=ぬかで}}
+
+# {{altspell|百足|lang=tkn|sc=Jpan}}
+
+[[zh-min-nan:蜈蚣]]
+[[ko:蜈蚣]]
+[[hu:蜈蚣]]
+[[mg:蜈蚣]]
+[[sv:蜈蚣]]
+[[chr:蜈蚣]]
+[[zh:蜈蚣]]

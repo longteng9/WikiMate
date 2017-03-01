@@ -1,0 +1,21 @@
+{{also|局域网}}
+==Chinese==
+{{zh-forms|s=局域网}}
+
+===Pronunciation===
+{{zh-pron
+|m=júyùwǎng
+|c=guk6 wik6 mong5
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|computing}} [[local area network]]; [[LAN]] {{zh-mw|m:個|m:片}}
+
+====Synonyms====
+* {{zh-l|區域網路}}
+
+[[ja:局域網]]
+[[zh:局域網]]

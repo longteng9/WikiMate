@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=12|sn=18|four=44904|canj=TESD}}
+
+# {{defn|Han|sort=艸12}}
+
+====References====
+* {{Han ref|kx=1057.430|dkj=31962|dj=1520.280|hdz=53284.070|uh=8556|ud=34134|bh=EAF8|bd=60152}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qú
+|c=keoi4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|芙蕖|蒗蕖}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸12}}
+
+# [[lotus|Lotus]] flower.<ref name="gakken">{{cite-book|year=2002|author=Akiyasu Tōdō [''et al.'']|title=漢字源|ISBN=978-4053008893|passage=蕖}}</ref>
+# Mother tuber of a [[taro]].<ref name="gakken"/>
+
+====Readings====
+* {{ja-readings|on=[[きょ]] (kyo), [[ご]] (go)|kun=[[おやいも]] (oyaimo)|nanori=}}
+
+====References====
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=거|eumhun=|rv=geo|mr=kŏ|y=ke}}
+
+# {{defn|lang=ko|sort=艸12}}
+
+[[fr:蕖]]
+[[hu:蕖]]
+[[mg:蕖]]
+[[pl:蕖]]
+[[th:蕖]]
+[[zh:蕖]]

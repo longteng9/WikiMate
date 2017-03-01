@@ -1,0 +1,43 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|へん|しん|yomi=on}}
+{{wikipedia|Henshin}}
+{{rfc}}
+
+===Etymology===
+Probably from {{etyl|ltc|ja|sort=へんしん}} as compound {{m|ltc|變身|tr=pjenH syin||change” + “body; self}}. Compare modern {{etyl|cmn|-}} traditional {{m|cmn|變身}} and simplified {{m|cmn|变身|tr=biàn shēn}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|h|へ|んしん}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[hẽ̞ɴɕĩɴ]}}
+
+===Noun===
+{{ja-noun|へんしん}}
+
+# a [[change]] of one's [[body]] into something else:
+## a complete change of one's [[appearance]]
+## a [[metamorphosis]] or [[transformation]] into something else
+# a [[body]] so [[transform]]ed
+
+====Coordinate terms====
+{{der-top|Coordinate terms}}
+* {{l|ja|変化}} ({{l|ja|へんげ}}, ''henge''): lit. a "''[[transformation]]''," a "''[[metamorphosis]]''," a "[[makeover]]"
+* {{l|ja|変形}} ([[へんけい]], '[[henkei]]''): a "''transformation''," "''[[deformation]]''," a "''[[metamorphosis]]''," &/or "''change(ing) shape''"
+* {{l|ja|変移}} ({{l|ja|へんい}}, ''hen'i''): lit. "''[[transmutation]]''"
+* {{l|ja|変貌}} "''[[transfiguring]] one's own [[appearance]]''," a [[glamour]]
+* {{l|ja|変容}} "''[[shapeshift]]ing''"
+* {{l|ja|魔法少女}} (''mahō shōjo''): lit. a "''[[w:Magical girl|Magical Girl]]''," (a manga [[genre]].)
+* {{l|ja|装着}}, ''sōchaku''): lit. "''[[equip]]''"
+* a [[secret]] [[identity]]
+* {{l|ja|分身}} ({{l|ja|ぶんしん}}, ''[[bunshin]]''): lit. "''[[body]] [[double]]''"
+* {{l|ja|変わり身}} ({{l|ja|かわりみ}}, ''[[kawarimi]]''): lit. "''(inter-)[[changeable]] [[body|bod(y/ies)]]''"
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Japanese fiction]]
+
+[[mg:変身]]
+[[ja:変身]]

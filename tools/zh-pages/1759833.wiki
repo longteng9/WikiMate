@@ -1,0 +1,37 @@
+{{also|逻辑}}
+==Chinese==
+{{zh-forms|s=逻辑}}
+
+===Etymology===
+{{bor|zh|en|logic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=luójí,tl=y
+|c=lo4 cap1
+|h=pfs=lò-si̍p
+|mn=xm,qz,zz:lô-chhip/tw:lô-chi̍p/tw:lô-chip
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[logic]]
+#: {{zh-x|這 是 什麼 邏輯？|What kind of '''logic''' is that?}}
+# [[logos]]
+
+====Derived terms====
+{{zh-der|邏輯思維|邏輯性|邏輯學}}
+
+[[Category:Chinese terms derived from English]]
+
+{{zh-cat|Intermediate}}
+
+[[zh-min-nan:邏輯]]
+[[ko:邏輯]]
+[[lt:邏輯]]
+[[hu:邏輯]]
+[[mg:邏輯]]
+[[ja:邏輯]]
+[[th:邏輯]]

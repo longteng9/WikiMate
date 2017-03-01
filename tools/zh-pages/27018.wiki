@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|唉|诶}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=07|sn=14|four=03634|canj=YRIOK}}
+
+# [[berate]]
+# [[sigh]]
+
+====References====
+* {{Han ref|kx=1161.290|dkj=35513|dj=1626.350|hdz=63980.140|uh=8A92|ud=35474|bh=E44D|bd=58445}}
+
+----
+==Chinese==
+{{zh-forms|s=诶}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xī,yì,éi,ěi,èi
+|c=e6,ei6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=intj
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[hey]]
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==E==
+
+===Proper noun===
+{{head|eee|proper noun}}
+
+# [[E]] {{qualifier|language}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言07}}
+
+# an exclamation of confirmation
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki), [[かい]] (kai), [[あい]] (ai), [[い]] (i)|kun=[[ああ]] (aa)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=희|eumhun=|rv=hui|mr=hŭi|y=huy}}
+
+# [[sigh]]
+
+[[fr:誒]]
+[[hu:誒]]
+[[pl:誒]]
+[[th:誒]]
+[[zh:誒]]

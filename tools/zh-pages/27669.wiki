@@ -1,0 +1,54 @@
+{{character info/new}}
+{{also|赅}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=06|sn=13|four=60882|canj=BCYVO|ids=⿰貝亥}}
+
+# [[prepare]]d for
+# [[inclusive]]
+
+====References====
+* {{Han ref|kx=1208.030|dkj=36746|dj=1671.150|hdz=63641.020|uh=8CC5|ud=36037|bh=B8F0|bd=47344}}
+
+----
+
+==Chinese==
+{{zh-forms|s=赅}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gāi
+|c=goi1
+|mc=y
+|oc=y
+|ma=
+|cat=v,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=貝06}}
+
+# {{defn|lang=ja|sort=貝06}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai), [[がい]] (gai)|kun=[[たりる]] (tariru)|nanori=}}
+
+[[fr:賅]]
+[[hu:賅]]
+[[mg:賅]]
+[[pl:賅]]
+[[th:賅]]
+[[zh:賅]]

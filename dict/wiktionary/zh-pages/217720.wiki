@@ -1,0 +1,34 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{zh-compound|柑|橘|large tangerine|orange}}
+
+===Pronunciation===
+{{zh-pron
+|m=gānjú
+|c=gam1 gwat1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[oranges]] and [[tangerines]]
+# {{lb|zh|Cantonese|regional Mandarin}} [[kumquat]]
+# [[citrus]]
+# [[citrus fruit]]
+
+====Synonyms====
+* {{sense|citrus, citrus fruit}} {{zh-l|柑橘類}}, {{zh-l|柑橘屬}}
+
+====See also====
+* {{zh-l|金橘}}
+
+====Derived terms====
+{{zh-der|小柑橘}}
+
+{{zh-cat|Fruits}}
+
+[[ko:柑橘]]
+[[zh:柑橘]]

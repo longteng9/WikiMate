@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|籖|签}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=17|sn=23|four=88153|canj=HOIM|ids=⿱⺮韱}}
+
+# [[tally]]
+# [[lot]]
+# [[marker]]
+
+====References====
+* {{Han ref|kx=0905.160|dkj=26769|dj=1330.110|hdz=53032.150|uh=7C64|ud=31844|bh=C5D2|bd=50642}}
+
+----
+
+==Chinese==
+{{zh-forms|s=签}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|竹|韱|c1=s|c2=p|t1=bamboo|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=qiān
+|c=cim1
+|h=pfs=chhiâm
+|md=
+|mn=chhiam
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹17}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen)|kun=[[くじ]] (kuji), [[かずとり]] (kazutori)}}
+
+===Noun===
+{{ja-noun|くじ}}
+
+# [[lottery]]
+
+[[Category:Japanese terms spelled with 籤]]
+[[Category:Japanese terms written with one Han script character]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[첨]]|eumhun=|rv=cheom|mr=ch'ŏm|y=chem}}
+
+# {{defn|lang=ko|sort=竹17}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thiêm]], [[tiêm]]|rs=竹17}}
+
+# {{defn|lang=vi|sort=竹17}}
+
+[[zh-min-nan:籤]]
+[[fr:籤]]
+[[hu:籤]]
+[[mg:籤]]
+[[ja:籤]]
+[[pl:籤]]
+[[th:籤]]
+[[zh:籤]]

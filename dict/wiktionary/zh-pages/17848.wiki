@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=09|sn=13|four=47967|canj=DAHU|ids=⿰木眉}}
+
+====References====
+* {{Han ref|kx=0540.140|dkj=15155|dj=0928.010|hdz=21257.080|uh=6963|ud=26979|bh=B7B0|bd=47024}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=méi
+|c=mei4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[crossbeam]] above or under a [[gate]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木09}}
+
+# {{defn|lang=ja|sort=木09}}
+
+====Readings====
+* {{ja-readings|on=[[び]] (bi), [[み]] (mi)|kun=[[ひさし]] (hisashi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[미]]|eumhun=|rv=mi|mr=mi|y=mi}}
+
+# {{defn|lang=ko|sort=木09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木09|hanviet=me}}
+
+# {{defn|lang=vi|sort=木09}}
+
+[[fr:楣]]
+[[hu:楣]]
+[[mg:楣]]
+[[pl:楣]]
+[[th:楣]]
+[[zh:楣]]

@@ -1,0 +1,54 @@
+==Chinese==
+{{zh-forms|s=尚书}}
+
+===Etymology===
+Originally, the person in this position was a lowly clerk, responsible for drafting and editing imperial decrees on behalf of the emperor. Later on, the person in this position became more like a [[chief of staff]] who handled all aspects of governance on behalf of the emperor.
+
+===Pronunciation===
+{{zh-pron
+|m=shàngshū
+|c=soeng6 syu1
+|mn=siōng-su
+|cat=n,pn
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|archaic}} position title: [[secretary]]; [[chief of staff]]
+
+====Derived terms====
+{{zh-der|尚書郎|尚書令}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# ''The [[w:Classic of History|Classic of History]]'', a collection of documents and speeches alleged to have been written by rules and officials of the early Zhou Dynasty and before.
+
+====Synonyms====
+* {{zh-l|書經}}
+
+===References===
+* {{pedialite|尚書 (經)|lang=zh}}
+* {{pedialite|尚書 (官職)|lang=zh}}
+* {{pedialite|Classic of History}}
+
+{{zh-cat|Books}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|尚|書}}
+
+===Proper noun===
+{{ja-pos|proper|しょうしょ}}
+
+# "The Classic of History", a collection of documents and speeches alleged to have been written by rules and officials of the early Zhou Dynasty and before.
+
+====Related terms====
+* {{l|ja|書経}}
+
+===References===
+* {{pedialite|Classic of History}}
+
+[[Category:zh:Job titles in Romance of the Three Kingdoms|小05尚書]]

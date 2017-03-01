@@ -1,0 +1,124 @@
+{{character info/new}}
+{{also|螡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=04|sn=10|four=50140|canj=LIYK|ids=⿰虫文}}
+
+====References====
+* {{Han ref|kx=1077.180|dkj=32849|dj=1546.150|hdz=42840.080|uh=868A|ud=34442|bh=B041|bd=45121}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|虫|文|ls=psc|c1=s|c2=p|t1=insect}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wén
+|c=man1,man4
+|h=pfs=mûn
+|mn=bûn
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[mosquito]]
+# {{lb|zh|Cantonese}} (< {{m|zh|文}}) [[dollar]] (Hong Kong or other); [[yuan]]
+#: {{zh-x|兩 百 蚊|two hundred bucks|C}}
+
+====Synonyms====
+* {{sense|mosquito}} {{qualifier|Min Nan}} {{zh-l|蠓|báng}}
+
+====Compounds====
+* {{zh-l|蚊子|mosquito}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=虫04}}
+
+# [[mosquito]]
+
+====Readings====
+{{ja-readings
+|goon=[[もん]] (mon)
+|kanon=[[ぶん]] (bun)
+|kun=[[か]] (ka)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|か|yomi=k}}
+From {{etyl|ojp|ja|sort=か}}. Possibly related to {{m|ja|噛む|tr=kamu||to bite}} or {{m|ja|痒い|tr=kayui||itchy}}, although the ultimate derivation remains unknown.
+
+====Pronunciation====
+{{ja-pron|yomi=k|か|acc=0|acc_ref=DJR,NHK|a=ja-ka.ogg}}
+
+====Noun====
+{{ja-noun|か}}
+
+# [[mosquito]]
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|161}}
+#*: 蚊蟻 上'''可''' 下音疑 訓安利乃古
+
+===Etymology 2===
+{{ja-kanjitab|かあ|yomi=irr}}
+Cognate with {{m|ja|蚊|tr=ka}}. Likely pronounced long due to being a single mora. Elongation of single mora words is still seen in the Ōsaka dialect with words like ''teː'' "hand" from ''te''. The 794 quotation is the oldest extant example of a long vowel in Japanese.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|かあ}}
+
+====Noun====
+{{ja-noun|かあ}}
+
+# [[mosquito]]
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|104}}
+#*: 蚊蝄䖟蜺 [...] 上二字'''加安'''下二字阿牟
+#* {{RQ:Konkōmyō Saishōōkyō Ongi|3 (back)}}
+#*: 蚊 '''加阿'''
+
+===References===
+<references/>
+:* {{Shin'yaku Kegonkyō Ongi Shiki}}
+:* {{R:Konkōmyō Saishōōkyō Ongi}}
+
+[[Category:Japanese basic words|か]]
+[[Category:ja:Dipterans|か]]
+[[Category:ja:Parasites|か]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=문|eumhun=|rv=mun|mr=mun|y=mun}}
+
+# {{defn|lang=ko|sort=虫04}}
+
+[[et:蚊]]
+[[fr:蚊]]
+[[ko:蚊]]
+[[lo:蚊]]
+[[lt:蚊]]
+[[hu:蚊]]
+[[mg:蚊]]
+[[ja:蚊]]
+[[no:蚊]]
+[[pl:蚊]]
+[[ru:蚊]]
+[[fi:蚊]]
+[[sv:蚊]]
+[[th:蚊]]
+[[chr:蚊]]
+[[vi:蚊]]
+[[zh:蚊]]

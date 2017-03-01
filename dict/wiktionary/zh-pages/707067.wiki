@@ -1,0 +1,73 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|おん|どく|yomi=o}}
+Probably coined in Japan of elements borrowed from {{etyl|ltc|ja|sort=おんどく}}, as a compound of {{compound|lang=ja|sort=おんどく|音|tr1=on|t1=sound|読|tr2=doku|t2=reading}}.
+
+====Pronunciation====
+{{ja-pron|yomi=on|acc=0|acc_ref=DJR|おんどく}}
+
+====Noun====
+{{ja-noun|おんどく|kyu=音讀}}
+
+# [[read]]ing [[aloud]]
+# the [[reading]] of a Japanese word written in [[kanji]] that is roughly based on the [[pronunciation]] of the kanji characters in the originating Chinese dialect at the time the word was introduced into Japanese
+
+=====Antonyms=====
+* {{sense|read aloud}} {{ja-l|黙読|もくどく|mokudoku}}
+
+====Verb====
+{{ja-verb-suru|tr=transitive|おんどく|kyu=音讀}}
+
+# to [[read]] [[aloud]]
+# to [[read]] a Japanese word written in [[kanji]] using the [[pronunciation]] based on the original Chinese pronunciation
+
+=====Conjugation=====
+{{ja-suru|おんどく}}
+
+=====Antonyms=====
+* {{sense|read aloud}} {{ja-l|黙読|もくどく|mokudoku}}
+
+===Etymology 2===
+{{ja-kanjitab|おん|よ|o2=み|yomi=j}}
+Compound of {{compound|lang=ja|sort=おんよみ|音|tr1=on|t1=sound|読み|tr2=yomi|t2=reading}}. Originally referred to the sounds (i.e. [[pronunciation]]s) to use when reading Chinese text, as opposed to the meanings of these Chinese words in Japanese (called {{m|ja|訓読み|tr=kun'yomi}} or {{m|ja|訓読|tr=kundoku}}).
+
+Rare alternate for {{ja-l|音読み}}, leaving the [[okurigana]] {{lang|ja|み}} implied.
+
+====Pronunciation====
+{{ja-pron|yomi=j|acc=0|acc_ref=DJR|おんよみ}}
+
+====Noun====
+{{ja-noun|おんよみ|kyu=音讀}}
+
+# {{alternative spelling of|lang=ja|sort=おんよみ|音読み}}: the [[reading]] of a Japanese word written in [[kanji]] that is roughly based on the [[pronunciation]] of the kanji characters in the originating Chinese dialect at the time the word was introduced into Japanese
+
+====Verb====
+{{ja-verb-suru|おんよみ|kyu=音讀}}
+
+# {{alternative spelling of|lang=ja|sort=おんよみ|音読み}}: to [[read]] a Japanese word written in [[kanji]] with the [[pronunciation]] that is roughly based on the pronunciation of the kanji characters in the originating Chinese dialect at the time the word was introduced into Japanese
+
+=====Conjugation=====
+{{ja-suru|おんよみ}}
+
+===References===
+<references/>
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu}}
+
+===Noun===
+音読 (quoc ngu: [[âm đọc]])
+# [[phonetic]] [[reading]]
+
+[[Category:Vietnamese nouns]]
+
+[[ja:音読]]
+[[pl:音読]]
+[[pt:音読]]
+[[vi:音読]]
+[[zh:音読]]

@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|嫔}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=14|sn=17|four=43486|canj=VJMC|ids=⿰女賓}}
+
+====Descendants====
+* [[嫔]]
+
+====References====
+* {{Han ref|kx=0272.370|dkj=06819|dj=0541.020|hdz=21087.190|uh=5B2A|ud=23338|bh=C0A7|bd=49319}}
+
+----
+
+==Chinese==
+{{zh-forms|s=嫔}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|t1=woman|賓|ls=psc|c1=s|c2=p}} – a kind of woman, a court lady or maid. 賓 also means “obey, submit”, hence connotations of “an obedient woman, a maid”.
+
+===Pronunciation===
+{{zh-pron
+|m=pín
+|c=ban3,pan4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[court]] [[lady]]
+# [[palace]] [[maid]]
+# {{lb|mul|archaic}} a posthumous name for [[wife|wives]] in [[w:ancestor veneration in China|Zhou ritual]]
+#* The ''[[w:Book of Rites|Book of Rites]]'', Qu Li II, 122:
+#*: 生曰[[父]]、曰[[母]]、曰[[妻]]，死曰考、曰[[妣]]、曰'''嬪'''。
+#*: ''While alive, the names of '[[父|father]]', '[[母|mother]]', and '[[妻|wife]]' are used; when they are dead, those of '[[考|the completed one]]', '[[妣|the corresponding one]]', and ''''the honored one''''.''
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女14}}
+
+# {{defn|lang=ja|sort=女14}}
+
+====Readings====
+* {{ja-readings|on=[[ひん]] (hin)|kun=[[ひめ]] (hime)}}
+
+====Compounds====
+* [[別嬪]] (べっぴん, beppin)
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=빈|rv=bin|mr=pin}}
+
+# {{defn|lang=ko|sort=女14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''嬪''' ([[tần]])
+
+# {{defn|lang=vi}}
+
+[[fr:嬪]]
+[[ko:嬪]]
+[[li:嬪]]
+[[hu:嬪]]
+[[ja:嬪]]
+[[pl:嬪]]
+[[th:嬪]]
+[[zh:嬪]]

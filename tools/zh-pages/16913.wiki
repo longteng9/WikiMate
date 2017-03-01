@@ -1,0 +1,122 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=6}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=72|rad=日|as=02|sn=6|four=60400|canj=AJ|ids=⿱日十}}
+
+====Derived characters====
+* [[草]] [[章]] [[覃]]
+
+====References====
+* {{Han ref|kx=0489.120|dkj=13742|dj=0850.090|hdz=21483.060|uh=65E9|ud=26089|bh=A6AD|bd=42669}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+One possibility is that {{lang|zh|早}} is a pictograph of [[sun]] ({{zh-l|*日}}) over the [[horizon]]. However, it is also possible that {{lang|zh|早}} was originally a pictograph of a particular type of [[acorn]]. The shells of these [[acorns]] would be used to make a dark-colored [[dye]]. This color indicated the [[darkness]] before [[sunrise]] and the symbol then took on the meaning of ''[[early]]'' or ''[[fast]]''.
+
+===Pronunciation===
+{{zh-pron
+|m=zǎo
+|ma=y
+|c=zou2
+|h=pfs=chó
+|md=cā/cō̤
+|md_note=cā - vernacular; cō̤ - literary
+|mn=qz:chó͘/xm,zz:chó/qz,tw,xm,zz:chá/qz,tw,xm,zz:chái
+|mn_note=chó͘/chó - literary; chá - vernacular; chái - vernacular (for certain words)
+|w=2tsau
+|mc=y
+|oc=y
+|cat=n,a,adv,intj
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[early]]; [[in advance]]; [[soon]]
+#: {{zh-x|我 醒 得 很 早。|I woke up '''early'''.}}
+#* {{zh-x|你 能 不 能 早 一點 來？|Can you be here a little '''earlier'''?}}
+#* {{zh-x|請問，我 今天 早 走 一會兒{r} 行 嗎？|Please could I leave '''early''' today?}}
+# [[long]] [[ago]]; for a long [[time]]
+#: {{zh-x|他 早 走 了。|He left long ago.}}
+#* {{zh-x|這 個 變壓器 已經 燒 毀 了，早 該 拆 換 一 個 新 的 了。|This transformer has burnt out. It should have been replaced a long time ago.}}
+# (early) [[morning]]
+#* {{zh-x|我 今 早 沒 有 見到 他。|I didn't see him this '''morning'''.}}
+# [[good morning]]
+# [[before]]; in the [[past]] time
+#* {{zh-x|現在 這麼 匆忙，你 早 幹{gàn}嗎{má} 去 了。|So now you are in a hurry. What were you doing before?}}
+
+===Compounds===
+{{zh-der|儘早|半早|一早起了|古早|可早|一早|一黑早|大清早|不早不晚|一早起|一大早|不早|屍骨早寒|侵早|及早|大清早上|好早晚|大清早起|大早|多早晚|即早兒|又早|早生貴子|早晌|早期|早賜玉音|早遲|早衰|早來|早年|早茶|早退|早婚|拜早年|早報|早材|早參|早死|早起|早餐會|早就|早慧|早占勿藥|早名必折|早尖|早難道|早場|早飯|早夭|早早|早是|早膳|打早|早出晚歸|早熟|明早|提早|早晨|早衙|早春|早霞|清早|早上|早點兒|早稻|早課|早班|早已|早熟兒童|早點|早先|早產兒|早餐|早霜|早逝|早迷晚寤|次早|早晚|早日|早安|早則|早產|早朝|早操|遲早|絕早|趕早|起早貪黑|遛早兒|老早|起早|黑早|這早晚|還早|遲行早住|言之過早|趁早}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=1|rs=日02}}
+
+====Readings====
+{{ja-readings|goon=[[そう]] (sō)|kanon=[[そう]] (sō)|kanyoon=[[さつ]] (satsu)|kun=[[はやい]] (hayai), [[はや]] (haya), [[さ]] (sa)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|足早|あしばや}}: [[briskness]], [[swift]]-[[footed]][[-ness|ness]], [[fast-paced]][[-ness|ness]]
+{{der-bottom}}
+
+{{ja-kanjitab|はや|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|はや|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|はや}}
+
+# already, now
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=일찍|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=日02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tảo]], [[linh]]|rs=日02}}
+
+# {{defn|lang=vi|sort=日02}}
+
+[[zh-min-nan:早]]
+[[fr:早]]
+[[ko:早]]
+[[hu:早]]
+[[mg:早]]
+[[ms:早]]
+[[ja:早]]
+[[no:早]]
+[[pl:早]]
+[[pt:早]]
+[[ru:早]]
+[[ta:早]]
+[[th:早]]
+[[chr:早]]
+[[uk:早]]
+[[zh:早]]

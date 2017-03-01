@@ -1,0 +1,52 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=76|rad=欠|as=06|sn=10|four=87682|canj=ORNO|ids=⿰合欠}}
+
+# to [[drink]]
+
+====References====
+* {{Han ref|kx=0567.290|dkj=16071|dj=0956.020|hdz=32138.180|uh=6B31|ud=27441|bh=D1F8|bd=53752}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hē,xiá
+|c=hot3,hap6
+|mn=hap
+|mc=y
+|oc=y
+|ma=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|hát}}
+
+# {{nomof|hát|to [[sing]]}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6b31 Nom Foundation]
+
+[[zh-min-nan:欱]]
+[[fr:欱]]
+[[pl:欱]]
+[[th:欱]]
+[[zh:欱]]

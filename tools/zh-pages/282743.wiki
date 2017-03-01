@@ -1,0 +1,140 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chénggōng
+|c=sing4 gung1
+|h=pfs=sṳ̀n-kûng
+|md=sìng-gŭng
+|mn=sêng-kong
+|w=3zen kon
+|ma=Zh-chénggong.ogg
+|mc=y
+|oc=y
+|cat=v,n,a,adv
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[succeed]]; to [[achieve]] [[success]]
+#: {{zh-x|雖然 我們 不敢 說 你 一定 會 成功 ，但是 也 絕對 沒有 人 敢 說 你 一定 不會 成功！|Though we dare not say you'll definitely '''succeed''', no one would dare say you definitely won't!}}
+# {{lb|zh|literary}} to [[complete]] a [[task]]
+#* {{zh-x|東 漸 于 海，西 被 于 流沙，朔 南 暨 聲教 訖 于 四海。禹 錫 玄圭，告 厥 '''成功'''。|On the east, reaching to the sea; on the west, extending to the moving sands; to the utmost limits of the north and south - his fame and influence filled up (all within) the four seas. Yu presented the dark-coloured symbol of his rank, and announced the '''completion of''' his '''work'''.|CL|ref=Shangshu}}
+# {{lb|zh|literary}} to [[gather]] in the [[crop]]s; to [[harvest]]
+# {{lb|zh|literary}} to [[agree]]; to [[allow]]; to [[permit]]
+
+====Antonyms====
+* {{sense|succeed}} {{zh-l|失敗}}
+
+===Noun===
+{{zh-noun}}
+
+# success; [[prosperity]]
+#: {{zh-x|沒有 成功，哪 來 的 幸福？|How can one be happy without '''success'''?}}
+#: {{zh-x|失敗 乃 成功 之 母。|Failure is the mother of '''success'''. (proverb)}}
+#: {{zh-x|最後，預祝 大會 獲得 圓滿 成功！|To conclude, I wish the conference a great '''success'''!}}
+# {{lb|zh|literary}} [[achievement]]s; [[exploit]]s; [[deed]]s
+# {{lb|zh|literary}} [[effect]]; [[outcome]]
+
+===Adjective===
+{{zh-adj}}
+
+# [[successful]]
+#: {{zh-x|一 個 很 成功 的 人|a very '''successful''' person}}
+
+===Adverb===
+{{zh-adv}}
+
+# [[successfully]]
+#: {{zh-x|他 成功 獲得 ^哈佛 大學 獎學金，前往 ^美國 深造。|He '''successfully''' gained a scholarship from the Harvard University, and went to the US to further his studies.}}
+
+===Derived terms===
+{{zh-der|成功率|成功嶺|馬到成功|迄未成功|失敗是成功之母}}
+
+===See also===
+* {{zh-l|功成|tr=gōngchéng}}
+* {{zh-l|功成名就|tr=gōngchéngmíngjiù}}
+
+===Descendants===
+{{CJKV||せいこう|성공|thành công}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|こう|yomi=o}}
+
+===Etymology===
+From {{der|sort=せいこう|ja|ltc|成功|tr=d͡ʑiᴇŋ  kuŋ}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|せいこう|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|せいこう}}
+
+# [[success]]
+# success in life, achievement in the world
+
+====Synonyms====
+* {{sense|success}} {{ja-r|完成|かんせい}}, {{ja-r|成し遂げる|なしとげる}}
+
+====Antonyms====
+* {{sense|success}} {{ja-r|失敗|しっぱい}}
+
+=====Derived terms=====
+* {{ja-r|勤勉は成功の母|きんべん は せいこう の はは}}
+* {{ja-r|失敗は成功のもと|しっぱい は せいこう の もと}}
+* {{ja-r|成功報酬|せいこう ほうしゅう}}
+* {{ja-r|成功裏|せいこうり}}, {{ja-r|成功裡|せいこうり}}
+* {{ja-r|不成功|ふせいこう}}
+
+===Verb===
+{{ja-verb-suru|せいこう}}
+
+# [[succeed]]
+#: {{ja-usex|製品の開発に成功した。|せいひん の かいはつ に せいこう した。|We successfully developed the product.}}
+# be successful in life
+
+====Conjugation====
+{{ja-suru|せいこう}}
+
+===References===
+<references/>
+:* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=성공}}
+
+# {{hanja form of|성공|[[success]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Verb===
+{{vi-hantu|pos=verb}}
+
+# {{han tu form of|thành công|to [[succeed]]}}
+
+[[zh-min-nan:成功]]
+[[fr:成功]]
+[[ko:成功]]
+[[lo:成功]]
+[[lt:成功]]
+[[hu:成功]]
+[[mg:成功]]
+[[ja:成功]]
+[[sr:成功]]
+[[fi:成功]]
+[[uk:成功]]
+[[zh:成功]]

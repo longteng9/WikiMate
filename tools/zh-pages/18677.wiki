@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|源}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=04|sn=7|four=31111|canj=EMMU|ids=⿰氵元}}
+
+# [[name]] of a [[river]] in [[western]] [[Hunan]] [[province]] that flows into [[w:Dongting Lake|Dongting Lake]]
+
+====References====
+* {{Han ref|kx=0610.020|dkj=17186|dj=1002.120|hdz=31558.030|uh=6C85|ud=27781|bh=A84A|bd=43082}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuán
+|c=jyun4
+|mn=goán/goân
+|mc=y
+|oc=y
+|cat=pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|沅江}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水04}}
+
+# {{defn|lang=ja|sort=水04}}
+
+====Readings====
+* {{ja-readings|on=[[げん]] (gen)|kun=[[みなもと]] (minamoto)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=원|eumhun=|rv=won|mr=wŏn|y=wen}}
+
+# {{defn|lang=ko|sort=水04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水04| hanviet = nguyên}}
+
+# {{defn|vi|sort=水04}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:沅]]
+[[hu:沅]]
+[[mg:沅]]
+[[pl:沅]]
+[[th:沅]]
+[[zh:沅]]

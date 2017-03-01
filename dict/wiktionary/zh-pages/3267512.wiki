@@ -1,0 +1,69 @@
+{{also|信托}}
+==Chinese==
+{{zh-forms|s=信托|t2=信托}}
+
+===Etymology===
+In the noun sense, {{borrowing|zh|ja|-|nocap=1}} {{ja-r|信託|しんたく}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xìntuō
+|c=seon3 tok3
+|mn=sìn-thok
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[entrust]]; to [[trust]]
+
+===Noun===
+{{zh-noun}}
+
+# [[trust]] [[bond]]
+
+{{zh-cat|Finance}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|たく|yomi=on}}
+
+===Noun===
+{{ja-noun|しんたく}}
+
+# [[trust]], [[entrustment]]
+#: {{ja-usex|投資信託|とうし しんたく|investment trust|lang=ja}}
+# leaving things up to a trusted party
+
+===Verb===
+{{ja-verb-suru|しんたく}}
+
+# [[set up]] a financial trust
+# [[leave]] in trust
+
+====Conjugation====
+{{ja-suru|しんたく}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Finance|しんたく]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=신탁}}
+
+# {{hanja form of|신탁|[[trust]], [[entrustment]]}}
+
+[[zh-min-nan:信託]]
+[[ko:信託]]
+[[hu:信託]]
+[[mg:信託]]
+[[ja:信託]]
+[[zh:信託]]

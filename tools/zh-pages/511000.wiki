@@ -1,0 +1,45 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr}}
+From {{etyl|nl|ja|sort=からす'}} {{m|nl|glas}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> The kanji are {{juku|sort=からす'}}.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|ガラス|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|ガラス}}
+
+# {{ja-def|ガラス}} [[glass]] {{qualifier|the material}}
+
+=====Usage notes=====
+The kanji form is usually read as {{l|ja|ガラス}}, but is sometimes read as {{l|ja|しょうし}}. The katakana form {{l|ja|ガラス}} is more common.
+
+=====Synonyms=====
+* {{ja-r|玻璃|はり}}: [[crystal]], [[glass]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|しょう|し}}
+Appears to be a coinage in Japan from {{etyl|ltc|ja|sort=しょうし}}-derived elements, as a compound of {{compound|lang=ja|sort=しょうし|硝|tr1=shō|t1=saltpeter; niter|子|tr2=shi|pos2=diminutive suffix}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|しょうし|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|しょうし|hhira=せうし}}
+
+# {{lb|ja|sort=しょうし|archaic|possibly|_|obsolete}} [[glass]] {{qualifier|the material}}
+
+=====Synonyms=====
+* {{ja-r|玻璃|はり}}: [[crystal]], [[glass]]
+
+=====Derived terms=====
+* {{ja-r|硝子体|しょうしたい}}: [[vitreous body]]
+
+===References===
+<references/>
+
+[[hu:硝子]]
+[[mg:硝子]]
+[[ja:硝子]]
+[[chr:硝子]]

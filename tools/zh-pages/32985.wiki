@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=198|rad=鹿|as=08|sn=19|four=|canj=IPWHD|ids=⿸鹿囷}}
+
+====Derived characters====
+* [[攟]]
+
+====References====
+* {{Han ref|kx=1510.280|dkj=47660|hdz=74733.030|uh=9E95|ud=40597}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jūn
+|c=kwan2
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[muntjac]] [[deer]], [[hornless]] river deer
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鹿08}}
+
+# [[roe deer]]
+
+====Readings====
+* {{ja-readings|on=[[きん]] (kin), [[くん]] (kun), [[ぐん]] (gun)|kun=[[のろ]] (noro)}}
+
+{{ja-kanjitab|のろ|yomi=k}}
+
+===Noun===
+{{ja-noun|のろ|ノロ}}
+
+# [[roe deer]]
+
+====Synonyms====
+* {{ja-r|麕鹿|のろじか}}
+
+[[Category:ja:Cervids|のろ]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=鹿08| hanviet = quần}}
+
+# {{defn|lang=vi|sort=鹿08}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=9e95 Nom Foundation]
+
+[[fr:麕]]
+[[hu:麕]]
+[[mg:麕]]
+[[ja:麕]]
+[[pl:麕]]
+[[th:麕]]
+[[zh:麕]]

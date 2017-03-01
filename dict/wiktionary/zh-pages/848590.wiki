@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|とく|k1=とっ|けん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|とっけん|acc=h|acc_ref=DJR,NHK,SMK5|y=ko}}
+
+===Noun===
+{{ja-noun|とっけん|hhira=とくけん}}
+
+# [[privilege]]
+#: {{ja-usex|'''特権'''を失う|'''とっけん''' を うしなう|lose a privilege}}
+
+===Descendants===
+* Chinese: {{zh-l|特權}}
+* Korean: {{ko-l|특권}}
+* Vietnamese: {{vi-l|đặc quyền}}
+
+===References===
+<references/>
+[[hu:特権]]
+[[mg:特権]]
+[[ja:特権]]
+[[chr:特権]]
+[[zh:特権]]

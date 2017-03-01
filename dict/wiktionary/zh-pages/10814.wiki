@@ -1,0 +1,191 @@
+{{character info/new}}
+{{also|佘|尒|餘|馀}}
+==Translingual==
+{{ja-forms|[[余]]|[[余]]/[[馀]]|[[餘]]}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=80904|canj=OMD|ids=⿱亼朩}}
+
+====Derived terms====
+* {{lang|und|sc=Hani|[[除]]}}, {{lang|und|sc=Hani|[[餘]]}}
+
+====References====
+* {{Han ref|kx=0099.020|dkj=00515|dj=0208.090|hdz=10128.040|uh=4F59|ud=20313|bh=A745|bd=42821}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|p}} – [[thatched]] [[cottage]]; [[house]]. Original form of {{och-l|舍|house}}.
+
+===Etymology 1===
+{{zh-see|餘}}
+
+===Etymology 2===
+{{zh-forms}}
+Related to {{och-l|予|I|id=1}}, {{och-l|台|I|id=4}} and {{och-l|朕|my; I}}, forming the ''*l-'' series of first-person Old Chinese personal pronouns. This series is commonly used by {{w|Shang Dynasty}} kings to refer to themselves.
+
+In contrast, Old Chinese also had the ''*ŋ-'' series of first-person pronouns, represented by {{och-l|我|I}} and {{och-l|吾|I}}, which became more widely used over time.
+
+====Pronunciation====
+{{zh-pron
+|m=yú
+|c=jyu4
+|h=pfs=yì
+|mn=xm,tw:û/qz:îr/zz,twv:î
+|w=3hhy
+|mc=y
+|oc=y
+|ma=
+|cat=pron,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[I]]; [[me]]
+# {{surname|lang=zh}}
+
+=====Synonyms=====
+{{zh-dial|我}}
+
+====Compounds====
+{{zh-der|余車|余月|余余|莫余毒也}}
+
+----
+
+==Japanese==
+
+===Suffix===
+{{ja-pos|suffix|よ|kyu=餘}}
+
+# [[over]], [[more]] than
+
+====Synonyms====
+* {{ja-r|以上|いじょう}}
+
+===Kanji===
+{{ja-kanji|grade=5|rs=人05|style=s|kyu=餘}}
+
+====Readings====
+* {{ja-readings|goon=[[よ]] ([[yo]])|kanon=[[よ]] ([[yo]])|kun=[[あまる]] ([[余る]], [[amaru]]), [[われ]] ([[ware]]), [[あまり]] ([[余り]], [[amari]])}}
+
+====Compounds====
+{{der5
+| {{ja-l|余爽}}
+| {{ja-l|余程}}
+| {{ja-l|余意}}
+| {{ja-l|余韻}}
+| {{ja-l|余栄}}
+| {{ja-l|余炎}}
+| {{ja-l|余煙}}
+| {{ja-l|余暇}}
+| {{ja-l|余角}}
+| {{ja-l|余割}}
+| {{ja-l|余寒}}
+| {{ja-l|余儀}}
+| {{ja-l|余技}}
+| {{ja-l|余興}}
+| {{ja-l|余業}}
+| {{ja-l|余薫}}
+| {{ja-l|余慶}}
+| {{ja-l|余計}}
+| {{ja-l|余弦}}
+| {{ja-l|余光}}
+| {{ja-l|余香}}
+| {{ja-l|余罪}}
+| {{ja-l|余財}}
+| {{ja-l|余事}}
+| {{ja-l|余習}}
+| {{ja-l|余臭}}
+| {{ja-l|余所}}
+| {{ja-l|余剰}}
+| {{ja-l|余情}}
+| {{ja-l|余色}}
+| {{ja-l|余震}}
+| {{ja-l|余人}}
+| {{ja-l|余塵}}
+| {{ja-l|余水吐}}
+| {{ja-l|余水路}}
+| {{ja-l|余世}}, {{ja-l|余生}}
+| {{ja-l|余勢}}
+| {{ja-l|余切}}
+| {{ja-l|余接}}
+| {{ja-l|余賊}}
+| {{ja-l|余沢}}
+| {{ja-l|余談}}
+| {{ja-l|余地}}
+| {{ja-l|余滴}}
+| {{ja-l|余党}}
+| {{ja-l|余得}}
+| {{ja-l|余徳}}
+| {{ja-l|余日}}
+| {{ja-l|余熱}}
+| {{ja-l|余念}}
+| {{ja-l|余波}}
+| {{ja-l|余輩}}
+| {{ja-l|余白}}
+| {{ja-l|余病}}
+| {{ja-l|余風}}
+| {{ja-l|余分}}
+| {{ja-l|余憤}}
+| {{ja-l|余聞}}
+| {{ja-l|余弊}}
+| {{ja-l|余芳}}
+| {{ja-l|余命}}
+| {{ja-l|余裕}}
+| {{ja-l|余力}}
+| {{ja-l|余類}}
+| {{ja-l|余齢}}
+| {{ja-l|余烈}}
+| {{ja-l|余禄}}
+| {{ja-l|余録}}
+| {{ja-l|余喘}}
+| {{ja-l|余殃}}
+| {{ja-l|余瀝}}
+| {{ja-l|余燼}}
+| {{ja-l|余蘊}}
+}}
+
+===Related terms===
+* {{l|ja|余す}}
+
+[[Category:Japanese suffixes|よ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=여|rv=yeo|mr=yŏ}}
+
+# {{defn|lang=ko|sort=人05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dư]], [[dờ]]|rs=人05}}
+
+# {{defn|lang=vi|sort=人05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f59 Nom Foundation]
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+[[zh-min-nan:余]]
+[[fr:余]]
+[[ko:余]]
+[[li:余]]
+[[hu:余]]
+[[mg:余]]
+[[ja:余]]
+[[no:余]]
+[[pl:余]]
+[[fi:余]]
+[[th:余]]
+[[zh:余]]

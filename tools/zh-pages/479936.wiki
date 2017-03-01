@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=不'ān
+|c=bat1 on1
+|h=pfs=put-ôn
+|mn=put-an
+|ma=Zh-bù'an.ogg
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[uneasy]]
+# [[unstable]]
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふ|あん|yomi=on}}
+
+===Adjective===
+{{ja-adj|infl=na|ふあん}}
+
+# [[anxious]], [[uneasy]]
+# [[insecure]]
+
+====Inflection====
+{{ja-na|ふあん}}
+
+===Noun===
+{{ja-noun|ふあん}}
+
+# [[anxiety]]; [[uneasiness]]
+#: {{ja-usex|'''不安'''はなかった。|'''ふあん''' は なかった。|There was no uncertainty on this matter.}}
+# [[unrest]]
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:不安]]
+[[fr:不安]]
+[[ko:不安]]
+[[hu:不安]]
+[[mg:不安]]
+[[ja:不安]]
+[[pl:不安]]
+[[sv:不安]]
+[[chr:不安]]
+[[zh:不安]]

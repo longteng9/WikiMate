@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=08|sn=15|four=66100|canj=RMOKR}}
+
+# [[hesitate]], [[undecided]]
+# [[embarrassed]]
+
+====References====
+* {{Han ref|kx=1228.200|dkj=37645|dj=1700.280|hdz=63717.020|uh=8E1F|ud=36383|bh=BDF3|bd=48627}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chí
+|c=ci4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|搔首踟躕|步踟躕|踟躕|踟躅}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=足08}}
+
+# {{defn|lang=ja|sort=足08}}
+
+====Readings====
+* {{ja-readings|kanon=[[ち]] (chi)|goon=[[じ]] (ji)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=지|eumhun=|rv=ji|mr=chi|y=ci}}
+
+# {{defn|lang=ko|sort=足08}}
+
+[[fr:踟]]
+[[hu:踟]]
+[[mg:踟]]
+[[ja:踟]]
+[[pl:踟]]
+[[th:踟]]
+[[zh:踟]]

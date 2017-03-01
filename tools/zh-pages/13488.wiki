@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=36|rad=夕|as=02|sn=5|four=27212|canj=NISU|ids=⿰夕㔾}}
+
+# to [[turn over]] when [[asleep]]
+
+====Derived characters====
+* [[宛]]
+
+====References====
+* {{Han ref|kx=0246.040|dkj=05752|dj=0489.020|hdz=20861.050|uh=5917|ud=22807|bh=C970|bd=51568}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|夕|卩|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yuàn
+|c=jyun3,jyun2
+|h=pfs=
+|md=
+|mn=
+|mn-t=ug8/ngh8/in6/inh8
+|mn-t_note=ug8 - Chaozhou; ngh8 - Shantou, Chenghai; in6 - Jieyang; inh8 - Shantou, Chaoyang
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|Teochew}} to [[sleep]]
+# {{lb|zh|Teochew}} to [[lie down]]
+
+====Synonyms====
+{{zh-dial|睡覺}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=夕02}}
+
+# {{defn|lang=ja|sort=夕02}}
+
+====Readings====
+* {{ja-readings|on=[[えん]] (en), [[おん]] (on)|kun=[[ころがりうす]] (korogariusu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=원|eumhun=|rv=won|mr=wŏn|y=wen}}
+
+# [[누워 뒹굴다]]: lie down
+
+[[fr:夗]]
+[[hu:夗]]
+[[pl:夗]]
+[[th:夗]]
+[[zh:夗]]

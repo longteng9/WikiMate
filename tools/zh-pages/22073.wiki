@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=10|sn=15|four=18611|canj=MRTQM|ids=⿰石差}}
+
+# [[polish]], [[buff]]
+# [[scrutinize]]
+
+====References====
+* {{Han ref|kx=0834.270|dkj=24395|dj=1252.010|hdz=42445.040|uh=78CB|ud=30923|bh=BD52|bd=48466}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cuō
+|c=co1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|互切互磋|切磋|切磋琢磨|如切如磋|磋商|磋磨|磋議}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=石10}}
+
+# {{defn|lang=ja|sort=石10}}
+
+====Readings====
+* {{ja-readings|goon=[[さ]] (sa)|kanon=[[さ]] (sa)|kun=[[みがく]] (migaku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=차|eumhun=|rv=cha|mr=ch'a|y=cha}}
+
+# {{defn|lang=ko|sort=石10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|tha|rs=石10}}
+
+# {{defn|lang=vi|sort=石10}}
+
+====Readings====
+* Nôm: tha, xây
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville
+
+[[fr:磋]]
+[[ko:磋]]
+[[hu:磋]]
+[[mg:磋]]
+[[ja:磋]]
+[[pl:磋]]
+[[th:磋]]
+[[zh:磋]]

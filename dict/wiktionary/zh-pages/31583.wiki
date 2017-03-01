@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|驰}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=03|sn=13|four=74312|canj=SFPD}}
+
+# go quickly or swiftly
+# [[hurry]]
+
+====References====
+* {{Han ref|kx=1434.110|dkj=44593|dj=1958.160|hdz=74542.070|uh=99B3|ud=39347|bh=B9A3|bd=47523}}
+
+----
+
+==Chinese==
+{{zh-forms|s=驰}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chí
+|c=ci4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=馬03}}
+
+# {{defn|lang=ja|sort=馬03}}
+
+====Readings====
+* {{ja-readings|kanon=[[ち]] (chi)|goon=[[じ]] (ji)|kun=[[はせる]] (haseru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=치|eumhun=|rv=chi|mr=ch'i|y=chi}}
+
+# {{defn|lang=ko|sort=馬03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trì]]|rs=馬03}}
+
+# {{defn|lang=vi|sort=馬03}}
+
+[[fr:馳]]
+[[ko:馳]]
+[[hu:馳]]
+[[mg:馳]]
+[[ja:馳]]
+[[pl:馳]]
+[[th:馳]]
+[[zh:馳]]

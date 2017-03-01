@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=堤fáng
+|c=tai4 fong4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[dike]]; [[embankment]]; [[levee]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|てい|ぼう|yomi=on}}
+
+===Etymology===
+{{IPAchar|/teibau/}} → {{IPAchar|/teibɔː/}} → {{IPAchar|/teiboː/}}
+
+From {{etyl|ltc|ja|sort=ていぼう}} compound {{m|zh|堤防|tr=dei? bjang|lit=dike, embankment + dike}}. Compare modern {{etyl|yue|-}} reading ''tai<sup>4</sup> fong<sup>4</sup>''.
+
+===Pronunciation===
+{{ja-pron|yomi=on|ていぼう|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ていぼう|hhira=ていばう}}
+
+# a [[levee]], an [[embankment]] along a body of water, a [[dike]]
+#* '''1949''', 豊島与志雄, 男ぎらい:
+#*: {{ja-usex|小さな道を行き、少しく上ると、河の'''堤防'''の上に出ます。|^ちいさな みち を いき、 すこしく あがる と、 かわ の '''ていぼう''' の うえ に でます。|If you go down the narrow path and go up a little, you'll get to the top of the river embankment.}}
+
+====See also====
+* {{ja-r|盛土|もりつち}}, {{ja-r|盛土|もりど}}: a [[mound]]; a man-made [[embankment]] {{qualifier|not necessarily along a body of water}}, [[banking]]
+
+===Verb===
+{{ja-verb-suru|ていぼう|hhira=ていばう}}
+
+# to [[block off]] with an [[embankment]]
+
+====Conjugation====
+{{ja-suru|ていぼう}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[ko:堤防]]
+[[hu:堤防]]
+[[mg:堤防]]
+[[ja:堤防]]
+[[zh:堤防]]

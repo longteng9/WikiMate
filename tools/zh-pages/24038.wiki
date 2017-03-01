@@ -1,0 +1,106 @@
+{{character info/new}}
+{{also|习}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=124|rad=羽|as=05|sn=11|four=17602|canj=SMHA|ids=⿱羽白}}
+
+====References====
+* {{Han ref|kx=0956.230|dkj=28672|dj=1402.030|hdz=53345.010|uh=7FD2|ud=32722|bh=B2DF|bd=45791}}
+
+----
+
+==Chinese==
+{{zh-forms|s=习}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|羽|t1=wings|日|t2=sun|ls=ic}} – to learn to fly, to practice flying.
+
+In current form, {{zh-l|日|sun}} has changed to {{zh-l|白|white}}, so present form is {{Han compound|羽|t1=wings|白|t2=white}}.
+
+===Etymology===
+Two general semantic fields are found in the senses: "to flap the wings; to flutter" and "to practice". They are generally considered to be the same word, with the link being "to repeatedly flap the wings (in order to learn to fly)", a sense attested in ''{{w|Liji}}''.
+
+Area word:
+* {{inh|zh|sit-pro|*s-lwap||to learn}}: {{cog|bo|སློབ||to learn}}, {{m|bo|སློབས||exercise; training}}; {{cog|lus|tlip||to repeat; to do again; to perfect}},
+* Mon-Khmer: {{cog|km|ធ្លាប់||to become accustomed to; to have the habit of; marker of continuous action in the past}}; Proto-Mon *''le̤p'' ("to know how to, be skilled in") > {{cog|mnw|လေပ်|tr=lèp||to be versed in}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xí
+|c=zaap6,zap6
+|h=pfs=si̍p
+|md=sĭk
+|mn=si̍p
+|mn-t=sib8
+|w=5xxiq
+|ma=y
+|mc=y
+|oc=y
+|cat=v,n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} to [[flap]] (the wings); to [[flutter]]; to [[repeatedly]] flap the wings
+# to [[practice]]; to [[exercise]]; to [[review]]
+#: {{zh-x|練習|to practice}}
+# to [[study]]; to [[learn]]
+#: {{zh-x|學習|to study}}
+# to become [[familiar]] with; to be [[used]] to
+# [[habit]], [[custom]]
+#: {{zh-x|習慣|habit, custom}}
+# [[trusted]] [[follower]]
+# to [[fall]] into a bad [[habit]]
+# [[often]]; [[frequently]]
+# {{surname|lang=zh}}
+#: {{zh-x|@^習 @^近平|'''Xi''' Jinping}}
+
+====Compounds====
+{{zh-der|習以成俗|習以成性|習以為常|習俗|習俗移性|習得性|習得性無助感|習性|習慣|習慣性|習慣成自然|習慣法|習慣用法|習慣用語|習慣自然|習慣若自然|習氣|習水|習水縣|習用|習習|習近平|習題|修習|傳習|刻苦學習|學習|實習|惡習|抓緊學習|溫習|演習|熟習|痼習|相沿成習|研習|積習|練習|聯想學習|自習|舊習|補習|複習|見習|軍事演習|陋習|陳規舊習|陳規陋習|預習}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=羽05}}
+
+# {{defn|lang=ja|sort=羽05}}
+
+====Readings====
+* {{ja-readings|kanon=[[しゅう]] (shū)|goon=[[じゅう]] (jū)|kun=[[ならう]] ([[習う]] narau), [[ならい]] (narai)|nanori=}}
+
+====Compounds====
+* {{ja-r|練習|れんしゅう}}: [[practice]]
+* {{ja-r|慣習|かんしゅう}}
+* {{ja-r|習慣|しゅうかん}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=습|eumhun=|mr=sŭp|y=sup}}
+
+# {{defn|lang=ko|sort=羽05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tập]], [[chập]], [[dập]], [[giặp]], [[tấp]], [[xập]], [[sập]]|rs=羽05}}
+
+# {{defn|lang=vi|sort=羽05}}
+
+[[fr:習]]
+[[ko:習]]
+[[hu:習]]
+[[mg:習]]
+[[ja:習]]
+[[pl:習]]
+[[th:習]]
+[[zh:習]]

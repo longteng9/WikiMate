@@ -1,0 +1,95 @@
+{{character info/new}}
+{{also|䌷|綢}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=05|sn=11|four=25960|canj=VFLW}}
+
+# a kind of thin silk
+
+====References====
+* {{Han ref|kx=0919.300|dkj=27338|dj=1351.010|hdz=53381.020|uh=7D2C|ud=32044|bh=D6E8|bd=55016}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|s=䌷}}
+
+====Pronunciation====
+{{zh-pron
+|m=chōu
+|c=cau1
+|mn=thiu
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+=====Compounds=====
+{{zh-der|紬次|紬繹|綿紬|縐紬|遵紬}}
+
+===Etymology 2===
+{{zh-see|綢|v}}
+
+===Etymology 3===
+{{zh-see|𦂈|v}}
+
+===References===
+* {{R:twedu|C10307}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=糸05}}
+
+====Readings====
+* {{ja-readings|on=[[ちゅう]] (chū)|kun=[[つむぐ]] (tsumugu), [[つむぎ]] (tsumugi)|nanori=}}
+
+===Noun===
+{{ja-noun|つむぎ}}
+
+# [[pongee]]
+
+====Alternative forms====
+* {{l|ja|紡ぎ}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 紬]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=주|eumhun=|rv=ju|mr=chu|y=cwu}}
+
+# {{defn|lang=ko|sort=糸05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''紬''' ([[trừu]], [[dò]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:紬]]
+[[fr:紬]]
+[[mg:紬]]
+[[ja:紬]]
+[[pl:紬]]
+[[th:紬]]
+[[zh:紬]]

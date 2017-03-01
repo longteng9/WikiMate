@@ -1,0 +1,39 @@
+==Japanese==
+{{ja-kanjitab|とう|こう|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|とうこう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうこう}}
+
+# [[attendance]] at school
+
+====Antonyms====
+* {{ja-r|下校|げこう}}
+
+====Derived terms====
+* {{ja-r|不登校|ふとうこう}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|とうこう}}
+
+# to [[go]] to school
+
+====Conjugation====
+{{ja-suru|とうこう}}
+
+===References===
+<references/>
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=등교}}
+
+# {{hanja form of|등교}}
+
+[[ko:登校]]
+[[hu:登校]]
+[[zh:登校]]

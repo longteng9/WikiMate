@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|拣}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=09|sn=12|four=55096|canj=QDWF|ids=⿰扌柬}}
+
+====References====
+* {{Han ref|kx=0440.220|dkj=12315|hdz=31913.080|uh=63C0|ud=25536|bh=B47A|bd=46202}}
+
+----
+
+==Chinese==
+{{zh-forms|s=拣}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|alt1=扌|柬|t1=hands|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jiǎn
+|c=gaan2
+|h=pfs=
+|md=
+|mn=kéng
+|w=2ke
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|literary|or|regional}} to [[choose]]; to [[pick]]
+# {{†}} to [[get]]; to [[obtain]]
+# {{†}} {{zh-alt-form|撿|to [[pick up]]}}
+
+====Synonyms====
+{{zh-dial|選}}
+
+===Compounds===
+{{zh-der|揀選|揀擇|揀字|不揀|披沙揀金|挑三揀四|挑揀|挑毛揀刺|挑肥揀瘦|揀佛燒香|揀便宜|揀別|揀妝|揀破爛|揀精揀肥|揀衣挑食|翻揀}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手09}}
+
+# {{defn|lang=ja|sort=手09}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan), [[けん]] (ken)|kun=[[えらぶ]] (erabu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[간]], [[연]]|eumhun=|rv=gan, yeon|mr=kan, yŏn|y=kan, yen}}
+
+# {{defn|lang=ko|sort=手09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=手09|[[gióng]], [[giáng]], [[giản]], [[kiêm]]}}
+
+# {{defn|lang=vi|sort=手09}}
+
+[[zh-min-nan:揀]]
+[[fr:揀]]
+[[ko:揀]]
+[[hu:揀]]
+[[ja:揀]]
+[[pl:揀]]
+[[th:揀]]
+[[zh:揀]]

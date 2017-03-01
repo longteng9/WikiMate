@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|咛}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=14|sn=17|four=63021|canj=RJPN|ids=⿰口寧}}
+
+# [[enjoin]], [[instruct]]
+# [[charge]]
+
+====References====
+* {{Han ref|kx=0211.230|dkj=04445|dj=0434.180|hdz=10697.180|uh=5680|ud=22144|bh=C07B|bd=49275}}
+
+----
+
+==Chinese==
+{{zh-forms|s=咛}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=níng
+|c=ning4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|叮嚀|嚶嚀}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口14}}
+
+# {{defn|lang=ja|sort=口14}}
+
+====Readings====
+* {{ja-readings|on=[[でい]] (dei), [[にょう]] (nyō), [[ねい]] (nei)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=녕|rv=nyeong|mr=nyŏng}}
+
+# {{defn|lang=ko|sort=口14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ninh]]|rs=口14}}
+
+# {{defn|lang=vi|sort=口14}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5680 Nom Foundation]
+
+[[fr:嚀]]
+[[li:嚀]]
+[[hu:嚀]]
+[[ja:嚀]]
+[[pl:嚀]]
+[[th:嚀]]
+[[zh:嚀]]

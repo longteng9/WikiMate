@@ -1,0 +1,104 @@
+{{character info/new}}
+==Translingual==
+{{ja-forms|[[扉]]|[[扉]]|[[扉]]}}
+
+===Han character===
+{{Han char|rn=63|rad=戶|as=08|sn=12|four=30211|canj=HSLMY,ISLMY|ids=⿸戶非, ⿸户非, ⿸戸非}}
+
+# [[door]] [[panel]]
+
+====References====
+* {{Han ref|kx=0416.190|dkj=11750|dj=0761.230|hdz=32264.080|uh=6249|ud=25161|bh=B476|bd=46198}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēi
+|c=fei1
+|h=pfs=fî
+|md=
+|mn=hui
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* {{qualifier|Hakka}} [http://chinalanguage.com/dictionaries/?mode=view&view=chardict&query=%E6%89%89 CCDICT (Chineselanguage.org)]
+* {{qualifier|Hakka}} {{R:hak:Lau 1997}}
+* {{qualifier|Min Nan}} [http://kaifangcidian.com/han/minnan/%E6%89%89 Kaifang Cidian]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=戶08}}
+
+====Readings====
+* {{ja-readings|on=[[ひ]] (hi)|kun=[[とびら]] (tobira)}}
+
+===Noun===
+{{ja-noun|とびら}}
+
+# [[door]]
+#: {{ja-usex|その'''扉'''は永久に閉ざされた。|その '''とびら''' は えいきゅう に とざされた。|The '''door''' was closed for good.}}
+# [[title page]]
+
+====Alternative forms====
+* {{l|ja|闔}}
+
+[[Category:Japanese basic words|とびら]]
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 扉]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=비|eumhun=|rv=bi|mr=pi|y=pi}}
+
+# {{defn|lang=ko|sort=戶08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''扉''' ([[phi]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:扉]]
+[[ko:扉]]
+[[ky:扉]]
+[[lo:扉]]
+[[lt:扉]]
+[[li:扉]]
+[[hu:扉]]
+[[mg:扉]]
+[[ms:扉]]
+[[ja:扉]]
+[[pl:扉]]
+[[pt:扉]]
+[[ru:扉]]
+[[sv:扉]]
+[[th:扉]]
+[[chr:扉]]
+[[zh:扉]]

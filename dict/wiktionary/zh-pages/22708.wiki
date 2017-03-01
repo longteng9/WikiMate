@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=05|sn=11|four=88106|canj=HAM}}
+
+# a [[coarse]] [[mat]] [[of]] [[rush]]es [[or]] [[bamboo]]
+
+====References====
+* {{Han ref|kx=0881.020|dkj=25941|dj=1308.180|hdz=52954.060|uh=7B2A|ud=31530|bh=D6D4|bd=54996}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=dá
+|c=daat3
+|h=pfs=ta̍p
+|mn=ta̍t
+|mc=y
+|oc=y
+|cat=c:cls
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} {{zh-classifier|places}}
+#: {{zh-x|兩 笪 地方|two places|C}}
+
+{{attention|zh|missing classical definitions}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=dàn
+|mc=
+|oc=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹05}}
+
+# {{defn|lang=ja|sort=竹05}}
+
+====Readings====
+* {{ja-readings|on=[[たん]] (tan), [[たつ]] (tatsu), [[たち]] (tachi)|kun=[[うつ]] (utsu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=갇|eumhun=|rv=t|mr=t|y=t}}
+
+# {{defn|lang=ko|sort=竹05}}
+
+[[fr:笪]]
+[[hu:笪]]
+[[mg:笪]]
+[[pl:笪]]
+[[th:笪]]
+[[zh:笪]]

@@ -1,0 +1,35 @@
+==Chinese==
+{{zh-forms|type=21}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=不děngshì
+|c=bat1 dang2 sik1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|math}} [[inequality]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ふ|とう|しき|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=2|y=go|dev=1,4|ふとうしき}}
+
+===Noun===
+{{ja-noun|ふとうしき}}
+
+# {{lb|ja|math|sort=ふとうしき}} an [[inequality]]
+# [[Futoshiki]], a type of [[logic]] [[puzzle]]
+
+[[ko:不等式]]
+[[lo:不等式]]
+[[ja:不等式]]
+[[zh:不等式]]

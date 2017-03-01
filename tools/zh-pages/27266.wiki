@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|谴}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=14|sn=21|four=05637|canj=YRYLR}}
+
+# [[reprimand]], [[scold]], [[abuse]]
+
+====References====
+* {{Han ref|kx=1184.130|dkj=36043|dj=1647.210|hdz=64024.020|uh=8B74|ud=35700|bh=C4FE|bd=50430}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谴}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiǎn
+|c=hin2
+|h=pfs=khién
+|mn=khián/khiàn
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|天譴|神譴|自譴|陰譴|訶譴|譴責小說|譴責|譴咒|譴何}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言14}}
+
+# {{defn|lang=ja|sort=言14}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken)|kun=[[せめる]] (semeru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=견|eumhun=|rv=gyeon|mr=kyŏn|y=kyen}}
+
+# {{defn|lang=ko|sort=言14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khiển]], [[khiến]]|rs=言14}}
+
+# {{defn|lang=vi|sort=言14}}
+
+[[fr:譴]]
+[[ko:譴]]
+[[hu:譴]]
+[[ja:譴]]
+[[pl:譴]]
+[[th:譴]]
+[[vi:譴]]
+[[zh:譴]]

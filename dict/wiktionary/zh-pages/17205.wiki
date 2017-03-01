@@ -1,0 +1,51 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=73|rad=曰|as=01|sn=5|four=|canj=AL}}
+
+# {{lb|zh|Cantonese}} [[cockroach]]
+
+====References====
+* {{Han ref|kx=0502.011|dkj=14279|hdz=42528.010|uh=66F1|ud=26353}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuē
+|c=gaat6,gat6,gaak6,gaap3
+|mc=
+|oc=
+|ma=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|曱甴}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=曰01}}
+
+# {{defn|lang=ja|sort=曰01}}
+
+====Readings====
+* {{ja-readings|on=[[おう]] (ō)|kun=}}
+
+[[fr:曱]]
+[[hu:曱]]
+[[pl:曱]]
+[[th:曱]]
+[[zh:曱]]

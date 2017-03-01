@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|疟}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=09|sn=15|four=00114|canj=KYPM|ids=⿸疒虐}}
+
+====References====
+* {{Han ref|kx=0778.300|dkj=22419|dj=1188.190|hdz=42683.190|uh=7627|ud=30247|bh=BAC4|bd=47812}}
+
+----
+
+==Chinese==
+{{zh-forms|s=疟}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|病|alt1=疒|虐|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+Perhaps related to {{och-l|虐|to oppress, to coerce, to be violent}}.
+
+Compare {{cog|th|งก ๆ||shivering, shaking (due to fever or fear)}}, {{cog|th|หงก ๆ||shivering (as from ague)}}.
+
+===Pronunciation===
+{{zh-pron
+|m=nüè,yào
+|m_note=nüè - literary; yào - colloquial, only in {{zh-l|*瘧子}}
+|c=joek6
+|md=ngiŏk
+|mn=qz,tw,xm:lio̍k/qz,tw,xm:gio̍k/zz:gia̍k
+|mn_note=gio̍k/gia̍k - literary; lio̍k - vernacular
+|w=5nyiaq
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|medicine}} [[ague]]; [[malaria]]; [[intermittent]] [[fever]] and [[shivering]]
+# {{†}} {{zh-alt-form|虐|[[abuse]]; to be [[abuse]]d}}
+
+===Compounds===
+{{zh-der|寒瘧|牝瘧|瘧原蟲|瘧媒蚊|瘧疾|瘧蚊|癉瘧|逃瘧|瘧子}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒09}}
+
+# {{defn|lang=ja|sort=疒09}}
+
+====Readings====
+* {{ja-readings|goon=[[がく]] (gaku)|kanon=[[ぎゃく]] (gyaku)|kun=[[おこり]] (okori)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=학|eumhun=|rv=hak|mr=hak|y=hak}}
+
+# {{defn|lang=ko|sort=疒09}}
+
+[[fr:瘧]]
+[[ko:瘧]]
+[[hu:瘧]]
+[[ja:瘧]]
+[[pl:瘧]]
+[[th:瘧]]
+[[zh:瘧]]

@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=08|sn=11|four=45117|canj=GGKNI|ids=⿰坴丸}}
+
+====Derived terms====
+* {{l|mul|蓺}}, {{l|mul|勢}}, {{l|mul|熱}}, {{l|mul|摰}}, {{l|mul|槷}}, {{l|mul|褻}}
+
+====See also====
+* {{l|mul|孰}} <!-- reasonably graphically similar; compare 熱, 熟-->
+
+====References====
+* {{Han ref|kx=0231.080|dkj=05192|dj=0467.140|hdz=10455.040|uh=57F6|ud=22518|bh=D4B0|bd=54448}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|坴|丸}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=ngai6,zap1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[art]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土08}}
+
+# [[art]]
+
+====Readings====
+* {{ja-readings|on=[[げい]] (gei), [[せい]] (sei)|kun=[[うえる]] (ueru), [[わざ]] (waza), [[いきほひ]] (ikihohi)}}
+
+===See also===
+* {{l|ja|勢}} - [[摯]] - [[熱]] - [[蟄]] - [[褻]] - [[贄]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=세|rv=se|mr=se}}
+
+# [[grains]]
+# [[skill]]
+# [[art]]
+# [[plant]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đệm]]|rs=土08}}
+
+# {{defn|lang=vi|sort=土08}}
+
+[[fr:埶]]
+[[hu:埶]]
+[[pl:埶]]
+[[th:埶]]
+[[zh:埶]]

@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=19|sn=21|four=26214|canj=OWLG|ids=⿰亻羅}}
+
+# [[bandit]], [[daredevil]]
+# [[smart]]; [[clever]] <!--Unihan for 㑩-->
+
+====References====
+* {{Han ref|kx=0121.380|dkj=01313|dj=0257.020|hdz=10239.030|uh=5138|ud=20792|bh=C4D8|bd=50392}}
+
+----
+
+==Chinese==
+{{zh-forms|s=㑩}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=luó
+|c=lo4
+|h=pfs=
+|md=
+|mn=lô
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人19}}
+
+# {{defn|lang=ja|sort=人19}}
+
+====Readings====
+* {{ja-readings|on=[[ら]] (ra)|kun=[[さばく]] (sabaku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=라|rv=ra|mr=ra}}
+
+# {{defn|lang=ko|sort=人19}}
+
+[[fr:儸]]
+[[li:儸]]
+[[hu:儸]]
+[[pl:儸]]
+[[th:儸]]
+[[vi:儸]]
+[[zh:儸]]

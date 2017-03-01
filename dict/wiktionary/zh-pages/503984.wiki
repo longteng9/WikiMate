@@ -1,0 +1,69 @@
+{{also|简单}}
+==Chinese==
+{{zh-forms|s=简单}}
+
+===Etymology===
+{{borrowing|zh|ja|-}} {{ja-r|簡單|かんたん}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jiǎndān
+|c=gaan2 daan1
+|h=pfs=kién-tân
+|md=gāng-dăng
+|mn=kán-tan
+|w=2ji te
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[simple]]; [[easy]]
+#: {{zh-x|這 道 題 太 簡單 了。|This question is so '''easy'''.}}
+# [[commonplace]]; [[ordinary]]
+# [[sloppy]]; [[careless]]; [[skimpy]]; [[negligent]]
+# [[casual]]; [[oversimplified]]
+
+====Synonyms====
+* {{sense|simple}} {{qualifier|obsolete}} {{zh-l|單簡}}
+* {{sense|simple}} {{zh-l|容易}}
+
+====Derived terms====
+{{zh-der|簡單機械|簡單明瞭|頭腦簡單}}
+
+===Descendants===
+{{CJKV||s=簡単|かんたん|간단|giản đơn}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|たん|yomi=o}}
+
+===Adjectival noun===
+{{ja-adj|かんたん|decl=な|shin=簡単}}
+
+# [[easy]]
+# [[simple]], [[uncomplicated]]
+
+====Inflection====
+{{ja-na|かんたん}}
+
+===Noun===
+{{ja-noun|かんたん|shin=簡単}}
+
+# [[ease]]
+# [[simplicity]]
+
+[[zh-min-nan:簡單]]
+[[fr:簡單]]
+[[ko:簡單]]
+[[lt:簡單]]
+[[hu:簡單]]
+[[mg:簡單]]
+[[fj:簡單]]
+[[ja:簡單]]
+[[chr:簡單]]
+[[zh:簡單]]

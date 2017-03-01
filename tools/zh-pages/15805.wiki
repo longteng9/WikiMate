@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|憇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=12|sn=16|four=24337|canj=HUP,XHUP|ids=⿱⿰舌自心}}
+
+# [[rest]], [[take]] rest
+
+====References====
+* {{Han ref|kx=0403.260|dkj=11246|dj=0743.280|hdz=42350.110|uh=61A9|ud=25001|bh=BECD|bd=48845}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qì
+|c=hei3
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=心12}}
+
+# [[break]]
+# [[rest]] [[period]]
+# [[rest]]
+# [[leisure]]
+
+====Readings====
+* {{ja-readings|goon=[[かい]] (kai)|kanon=[[けい]] (kei)|kun=[[いこい]] (ikoi), [[いこう]] (ikou)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=게|eumhun=|rv=ge|mr=ke|y=key}}
+
+# {{defn|lang=ko|sort=心12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khệ]], [[khị]]|rs=心12}}
+
+# {{defn|lang=vi|sort=心12}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=61a9 Nom Foundation]
+
+[[fr:憩]]
+[[ko:憩]]
+[[li:憩]]
+[[hu:憩]]
+[[mg:憩]]
+[[ja:憩]]
+[[pl:憩]]
+[[th:憩]]
+[[zh:憩]]

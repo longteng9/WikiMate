@@ -1,0 +1,120 @@
+{{character info/new}}
+{{also|勐}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=08|sn=11|four=47217|canj=KHNDT|ids=⿰犭孟}}
+
+====References====
+* {{Han ref|kx=0713.260|dkj=20498|dj=1125.190|hdz=21354.220|uh=731B|ud=29467|bh=B272|bd=45682}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|犬|alt1=犭|孟|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=měng
+|c=maang5
+|h=pfs=mâng
+|mn=béng/mé
+|mn_note=béng - literary; mé - vernacular
+|cat=a,adv
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[ferocious]]; [[fierce]]; [[violent]]; [[powerful]]; [[vigorous]]
+#: {{zh-x|風 吹 得{de} 很 猛。|The wind is blowing very '''hard'''.}}
+#: {{zh-x|猛獸|'''ferocious''' beast}}
+# [[bold]]
+#: {{zh-x|勇猛|bold}}
+# {{lb|zh|slang}} [[awesome]]
+
+===Adverb===
+{{zh-adv}}
+
+# [[suddenly]]; [[quickly]]
+# {{lb|zh|Cantonese}} [[continuously]], [[vigourously]], [[persistently]], [[insistently]]
+#: {{zh-x|佢 猛 打機，都 唔 記得 要 食飯。|He gamed as if there were no tomorrow, such that he even forgot to eat.|C}}
+#: {{zh-x|十 個 女仔，九 個 話 咪{mai5}，明明 係 制，猛 話 唔係|Out of ten girls, nine said no. [They're] obviously willing, [but they] kept saying no.|C|ref={{w|Samuei Hui}}, {{lang|zh|十個女仔}}}}
+
+===References===
+* [http://yedict.com/htm/73/731B.htm yedict.com (叶典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=犬08}}
+
+# {{defn|lang=ja|sort=犬08}}
+
+====Readings====
+{{ja-readings|goon=[[もう]] (mō)|kanon=[[ぼう]] (bō)|kun=[[たけし]] (takeshi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|猛丸|^たけまる}}: ''A male [[given name]]''
+* {{ja-r|猛速|もうそく}}: [[seriously]] [[fast]] [[speed]]
+{{der-bottom}}
+
+{{ja-kanjitab|もう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=goon|もう|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|もう|hhira=まう}}
+
+# [[ferociousness]]
+
+===Proper noun===
+{{ja-pos|proper|たけし}}
+
+# {{given name|male|lang=ja|sort=たけし}}
+
+{{ja-pos|proper|たける}}
+
+# {{given name|male|lang=ja|sort=たける}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=맹|eumhun=|rv=maeng|mr=maeng|y=mayng}}
+
+# {{defn|lang=ko|sort=犬08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mãnh]], [[mạnh]]|rs=犬08}}
+
+# {{defn|lang=vi|sort=犬08}}
+
+[[zh-min-nan:猛]]
+[[fr:猛]]
+[[ko:猛]]
+[[lt:猛]]
+[[li:猛]]
+[[hu:猛]]
+[[mg:猛]]
+[[ja:猛]]
+[[no:猛]]
+[[pl:猛]]
+[[th:猛]]
+[[zh:猛]]

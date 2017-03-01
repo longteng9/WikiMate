@@ -1,0 +1,33 @@
+{{also|鬥爭}}
+==Japanese==
+{{ja-kanjitab|とう|そう|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=とうそう}}. Spelled in traditional characters as {{m|ltc|鬪爭}} or {{m|ltc|鬥爭}}. Compare modern simplified {{cog|cmn|斗争}}.
+
+===Pronunciation===
+* {{ja-pron|とうそう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうそう|hhira=とうさう}}
+
+# a [[struggle]]
+
+====Synonyms====
+* {{ja-r|奮闘|ふんとう}}
+
+===Verb===
+{{ja-verb-suru|とうそう|tr=intrans|hhira=とうさう}}
+
+# to [[struggle]]
+
+====Conjugation====
+{{ja-suru|とうそう}}
+
+===References===
+<references/>
+
+[[mg:闘争]]
+[[ja:闘争]]
+[[chr:闘争]]
+[[zh:闘争]]

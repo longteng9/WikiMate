@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=nìxíng
+|c=jik6 hang4
+|mn=qz:gia̍k-hêng/xm,zz:ge̍k-hêng
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|astronomy}} [[retrograde motion]]
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|of vehicles}} to go in the wrong direction; to drive against traffic
+
+[[Category:zh:Astronomy|ni4xing2]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぎゃく|k1=ぎゃっ|こう|yomi=on}}
+
+===Noun===
+{{ja-noun|ぎゃっこう}}
+
+# going [[backwards]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|ぎゃっこう}}
+
+# go back, [[regress]], [[retrograde]]
+
+[[ko:逆行]]
+[[zh:逆行]]

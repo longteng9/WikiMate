@@ -1,0 +1,55 @@
+{{also|壁纸}}
+==Chinese==
+{{zh-forms|s=壁纸}}
+
+===Pronunciation===
+{{zh-pron
+|m=bìzhǐ
+|c=bik1 zi2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[wallpaper]] {{gloss|decorative paper for walls}}
+# {{lb|zh|computing}} [[wallpaper]]
+
+====Synonyms====
+* {{zh-l|牆紙}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|かべ|かみ|r=y|k2=がみ|yomi=k}}
+
+===Etymology===
+{{com|ja|壁|紙|tr1=kabe|t1=[[wall]]|tr2=kami|t2=[[paper]]|sort=かべがみ}}
+
+===Pronunciation===
+{{ja-pron|かべがみ|y=k|acc=0}}
+
+===Noun===
+{{ja-noun|かべがみ}}
+
+# [[wallpaper]] {{gloss|decorative paper for walls}}
+#: {{ja-usex|'''壁%紙'''を貼る|'''かべ%がみ''' を はる|to put up '''wallpaper'''}}
+# {{lb|ja|computing|sort=かべがみ}} [[wallpaper]]
+
+{{C|ja|Paper|sort=かべがみ}}
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=벽지}}
+
+# {{hanja form of|벽지|[[wallpaper]]}}
+
+[[zh-min-nan:壁紙]]
+[[ko:壁紙]]
+[[hu:壁紙]]
+[[mg:壁紙]]
+[[sv:壁紙]]

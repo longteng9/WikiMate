@@ -1,0 +1,22 @@
+==Japanese==
+
+===Etymology===
+{{wikipedia|lang=ja|ニホンザル}}
+{{ja-kanjitab|に|ほん|k3=ざる|さる|r=y}}
+{{compound|日本|lang=ja|sort=にほんざる|tr1=[[Nihon]]|t1=[[Japan]]|猿|tr2=[[saru]]|t2=[[monkey]]}}
+
+===Pronunciation===
+{{ja-pron|にほんざる|acc=4}}
+
+===Noun===
+{{ja-noun|^にほんざる|^ニホンザル}}
+
+# a [[Japanese macaque]]
+
+===Descendants===
+* Korean: {{l|ko|^일본원숭이}} {{qualifier|calque}}
+* Vietnamese: {{vi-l|khỉ Nhật Bản}} {{qualifier|calque}}
+
+[[Category:ja:Monkeys|にほんざる]]
+
+[[ja:日本猿]]

@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiǎonǚzǐ
+|c=siu2 neoi5 zi2
+|cat=pron
+}}
+
+===Pronoun===
+{{zh-pronoun}}
+
+# {{lb|zh|dated|humble|used by a young woman}} [[I]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab}}
+Originally this was just an alternative name for sand lance, but has come to mean a small one specifically.
+
+====Noun====
+{{ja-noun|こうなご|コウナゴ}}
+
+# [[sand lance]], usually a small sand lance of about 5cm full-length
+
+=====Antonyms=====
+* {{ja-r|大女子|おおなご}}
+
+=====Related terms=====
+* {{ja-r|玉筋魚|いかなご}}
+
+===Etymology 2===
+{{ja-kanjitab}}
+{{prefix|lang=ja|sort=こおなご|小|tr1=ko|t1=small|女子|tr2=onago|t2=female child}}
+
+====Noun====
+{{ja-noun|こ.おなご}}
+
+# {{lb|ja|fiction|sort=こおなご}} little [[girl]]
+
+[[Category:ja:Fish|こうなご]]

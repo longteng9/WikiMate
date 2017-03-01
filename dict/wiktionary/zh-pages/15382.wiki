@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=04|sn=8|four=80332|canj=CSHP|ids=⿱分心}}
+
+# get [[angry]]
+# [[fury]], [[exasperation]]
+
+====References====
+* {{Han ref|kx=0379.020|dkj=10408|dj=0707.080|hdz=42274.060|uh=5FFF|ud=24575|bh=A9C1|bd=43457}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fèn
+|c=fan6,fan2,fan5
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不忿|不忿氣|嗔忿|忿不顧身|忿世嫉俗|忿世嫉邪|忿忿|忿忿不平|忿怒|忿恚|忿恨|忿悁|忿懣|忿懥|忿戾|忿氣|忿然|忿然作色|忿爭|忿發|忿言|忿詈|忿鷙|急忿怨痛|悁忿|悒鬱不忿|惱忿忿|懲忿窒欲|捐忿與瑕|氣不忿|氣忿|氣忿忿|激忿填膺|狷忿|生忿|發忿}}
+
+===References===
+* {{R:twedu|A01319}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心04}}
+
+# be angry
+
+====Readings====
+* {{ja-readings|on=[[ふん]] (fun)|kun=[[いかる]] (ikaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=분|eumhun=|rv=bun|mr=pun|y=pun}}
+
+# get angry
+# [[fury]]
+# [[exasperation]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心04|hanviet=phẫn}}
+
+# {{defn|lang=vi|sort=心04}}
+
+[[fr:忿]]
+[[ko:忿]]
+[[li:忿]]
+[[hu:忿]]
+[[mg:忿]]
+[[ja:忿]]
+[[no:忿]]
+[[pl:忿]]
+[[th:忿]]
+[[zh:忿]]

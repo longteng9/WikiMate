@@ -1,0 +1,36 @@
+{{also|火氣|火气}}
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|か|き|yomi=o}}
+
+====Noun====
+{{ja-noun|かき|かっき|kyu=火氣}}
+
+# [[fire]], [[flame]]
+#: {{ja-usex|'''火気'''厳禁|'''かき''' げんきん|'''flame''' strictly prohibited}}
+
+=====Usage notes=====
+The reading ''kakki'' is less common.
+
+=====See also=====
+* {{ja-r|陽炎|かげろう}}: [[heat haze]]
+
+===Etymology 2===
+{{ja-kanjitab|ほ|け|yomi=y}}
+
+====Noun====
+{{ja-noun|ほけ|kyu=火氣}}
+
+# [[fire]], [[flame]]
+# [[smoke]]
+# [[hot air]]
+# [[steam]], either from hot [[water]] or from one's [[breath]]
+
+=====Synonyms=====
+* {{sense|hot air}} {{ja-r|熱気|ねっき}}
+* {{sense|steam}} {{ja-r|蒸気|じょうき}}, {{ja-r|湯気|ゆげ}}
+
+[[lo:火気]]
+[[mg:火気]]
+[[zh:火気]]

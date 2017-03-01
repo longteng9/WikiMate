@@ -1,0 +1,52 @@
+{{also|减法}}
+==Chinese==
+{{zh-forms|s=减法}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiǎnfǎ
+|c=gaam2 faat3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|arithmetic}} [[subtraction]]
+
+====Antonyms====
+* {{zh-l|加法}}
+
+===See also===
+* {{zh-l|乘法}}
+* {{zh-l|除法}}
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|げん|ほう|k2=ぽう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=h|acc2=a|げんぽう|y=go}}
+
+===Noun===
+{{ja-noun|げんぽう|hhira=げんぱふ}}
+
+# {{lb|ja|arithmetic|sort=けんぽう'}} [[subtraction]]
+
+====Antonyms====
+* {{ja-r|加法|かほう}}
+
+===See also===
+* {{ja-r|乗法|じょうほう}}
+* {{ja-r|除法|じょほう}}
+
+[[zh-min-nan:減法]]
+[[fr:減法]]
+[[ko:減法]]
+[[ky:減法]]
+[[li:減法]]
+[[hu:減法]]
+[[mg:減法]]
+[[ru:減法]]
+[[zh:減法]]

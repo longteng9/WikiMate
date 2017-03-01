@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|駆|驱}}
+==Translingual==
+{{Han simplified forms|驅|駆|驱}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|馬|t1=horse|區|ls=psc|c1=s|c2=p}}.
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=11|sn=21|four=71316|canj=SFSRR|ids=⿰馬區}}
+
+# [[spur on|spur]] a [[horse]] [[spur on|on]]
+# [[expel]], [[drive away]]
+
+====Descendants====
+* [[駆]] [[驱]]
+
+====References====
+* {{Han ref|kx=1444.240|dkj=44968|dj=1968.210|hdz=74574.010|uh=9A45|ud=39493|bh=C558|bd=50520}}
+
+----
+
+==Chinese==
+{{zh-forms|s=驱|alt=駆}}
+
+===Pronunciation===
+{{zh-pron
+|m=qū
+|c=keoi1
+|mn=qz,tw,xm:khu/zz:khi
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[run]] quickly
+#* {{zh-l|並駕齊驅|to keep pace with, to run neck and neck}}
+#* {{zh-l|馳驅|to gallop, to run fast}}
+# to [[expel]]; to [[disperse]]
+#* {{zh-x|夏天 他們 通常 點 香 '''驅''' 蚊。|In summer, they usually burn some coil incense to '''keep away''' the mosquitoes.}}
+# to [[drive]] {{qualifier|a horse, a car}}; to [[urge on]]; to [[spur]]
+#* {{zh-x|他 '''驅''' 馬 向前。|He '''spurred''' his horse forward.}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬11|style=ky|shin=駆}}
+
+# {{defn|lang=ja|sort=馬11}}
+
+====Readings====
+* {{ja-readings|on=[[く]] (ku), [[きゅう]] (kyū)|kun=[[かける]] (kakeru), [[かる]] (karu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# {{defn|lang=ko|sort=馬11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xúi]], [[khu]], [[xù]]|rs=馬11}}
+
+# {{defn|lang=vi|sort=馬11}}
+
+[[zh-min-nan:驅]]
+[[fr:驅]]
+[[ko:驅]]
+[[hu:驅]]
+[[mg:驅]]
+[[ja:驅]]
+[[pl:驅]]
+[[th:驅]]
+[[zh:驅]]

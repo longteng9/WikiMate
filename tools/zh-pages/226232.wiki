@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=píngfāng
+|c=ping4 fong1
+|mn=pêng-hong
+|ma=Zh-píngfang.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[square]] {{gloss|as in ''square foot'', ''square mile'', ''square root''}}; [[second power]]
+
+====Derived terms====
+{{zh-der|平方根|平方公里|平方釐米|平方米|平方千米|平方英呎}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|へい|ほう|yomi=on}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=へいほう}} {{m|zh|平方}}.
+
+===Noun===
+{{ja-noun|へいほう}}
+
+# {{lb|ja|mathematics|sort=へいほう}} The second power of a number etc.; [[square]].
+# A [[square]] area.
+#: {{ja-usex|１０００ '''平方''' メートル|いっせん '''へいほう''' メートル|1,000 '''square''' meters}}
+
+====Derived terms====
+* {{ja-r|平方形|へいほうけい}}: a [[square]], a square [[shape]]
+* {{ja-r|平方根|へいほうこん}}: a [[square root]]
+
+====Coordinate terms====
+* {{sense|mathematics}} {{ja-r|立方|りっぽう}}: third [[power]], [[cube]]
+* {{sense|mathematics}} {{ja-r|乗|じょう}}: -[[power]], as in ''n''th power
+* {{sense|area}} {{ja-r|平米|へいべい}}: a [[square meter]]
+* {{sense|volume}} {{ja-r|立米|りゅうべい}}: a [[cubic meter]]
+
+[[zh-min-nan:平方]]
+[[ko:平方]]
+[[hu:平方]]
+[[mg:平方]]
+[[ja:平方]]
+[[pt:平方]]
+[[chr:平方]]
+[[zh:平方]]

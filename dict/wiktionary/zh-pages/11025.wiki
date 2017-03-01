@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=08|sn=10|four=27220|canj=OBGR|ids=⿰亻周}}
+
+# [[raise]] [[high]]
+# [[unrestrained]]
+
+====References====
+* {{Han ref|kx=0108.070|dkj=00778|dj=0230.030|hdz=10181.070|uh=501C|ud=20508|bh=D0D7|bd=53463}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tì
+|c=tik1
+|mn=qz:thiak/xm,zz:thek
+|mc=y
+|oc=y
+|ma=
+|cat=v,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人08}}
+
+# {{defn|lang=ja|sort=人08}}
+
+====Readings====
+* {{ja-readings|on=[[てき]] (teki), [[ちゃく]] (chaku), [[ちゅう]] (chū), [[う]] (chyu)|kun=[[すぐれる]] (sugureru), [[おろか]] (oroka), [[そむく]] (somuku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=척|rv=cheok|mr=ch'ŏk}}
+
+# {{defn|lang=ko|sort=人08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thích]]|rs=人08}}
+
+# {{defn|lang=vi|sort=人08}}
+
+[[fr:倜]]
+[[li:倜]]
+[[hu:倜]]
+[[mg:倜]]
+[[pl:倜]]
+[[th:倜]]
+[[zh:倜]]

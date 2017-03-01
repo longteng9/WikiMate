@@ -1,0 +1,57 @@
+{{also|丧失}}
+==Chinese==
+{{zh-forms|s=丧失}}
+
+===Pronunciation===
+{{zh-pron
+|m=sàngshī
+|c=song3 sat1
+|h=pfs=sóng-sṳt
+|mn=sòng-sit
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[lose]]
+#: {{zh-x|喪失 尊嚴|''to '''lose''' one's dignity''}}
+
+[[Category:Intermediate Mandarin|口09喪失]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|そう|しつ|yomi=on}}
+
+===Noun===
+{{ja-noun|そうしつ}}
+
+# [[forfeiture]], [[loss]]
+
+===Verb===
+{{ja-verb-suru|そうしつ}}
+
+# [[forfeit]], [[lose]]
+
+====Conjugation====
+{{ja-suru|そうしつ}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab|喪|失}}
+
+===Noun===
+{{ko-noun|rv=sangsil|hangeul=상실}}
+
+# {{hanja form of|상실|[[loss]], [[forfeiture]]}}
+
+[[ko:喪失]]
+[[hu:喪失]]
+[[mg:喪失]]
+[[ja:喪失]]
+[[zh:喪失]]

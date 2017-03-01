@@ -1,0 +1,110 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=04|sn=8|four=48940|canj=DOK|ids=⿰木攵}}
+
+===References===
+* {{Han ref|kx=0516.080|dkj=14554|dj=0904.030|hdz=21171.010|uh=679A|ud=26522|bh=AA54|bd=43604}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|文|ls=psc|c1=s|c2=p|t1=wood}}. Right component distorted into {{zh-l|*攵}}.
+
+===Pronunciation===
+{{zh-pron
+|m=méi
+|c=mui4
+|h=pfs=
+|md=
+|mn=mûi
+|w=3me
+|mc=y
+|oc=y
+|cat=n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[stalk]] of [[shrub]]; [[trunk]] of [[tree]]
+# [[wooden]] [[peg]] (historically used as a [[gag]] for [[marching]] [[soldier]]s to [[prevent]] [[talk]]ing)
+# [[one by one]]; [[each]]
+# {{zh-classifier|[[small]], [[flat]] [[object]]s, such as [[coin]]s, [[stamp]]s, [[badge]]s, [[pearl]]s, [[sporting]] [[medal]]s|cat=y}}
+# {{zh-classifier|[[rocket]]s, [[satellite]]s and certain [[weapon]]s (especially [[bomb]]s)|cat=y}}
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|不可枚舉|不遑枚舉|不勝枚舉|猜枚|枚枚|枚舉|枚卜|馬工枚速|銜枚|鉗馬銜枚}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+pira > ɸira > hira. Cognate with {{m|ja|平|tr=hira||flat}}.
+
+====Alternative forms====
+* {{l|ja|片}}
+
+====Noun====
+{{ja-noun|ひら}}
+
+# an object that is thin and flat
+
+=====Derived terms=====
+* {{ja-r|帷子|かたびら}}
+* {{ja-r|湯帷子|ゆかたびら}}
+
+===Etymology 2===
+{{rfe|lang=ja}}
+
+====Counter====
+{{ja-pos|まい|counter}}
+
+# counter for flat thin objects or sheets
+
+====Kanji====
+{{ja-kanji|grade=6|rs=木04}}
+
+=====Readings=====
+* {{ja-readings|on=[[まい]] (mai), [[ばい]] (bai)|kun=[[ひら]] (hira)}}
+
+[[Category:Japanese terms spelled with 枚]]
+[[Category:Japanese terms written with one Han script character]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=매|eumhun=|rv=mae|mr=mae|y=may}}
+
+# {{defn|lang=ko|sort=木04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木04|hanviet=mai}}
+
+# {{defn|lang=vi|sort=木04}}
+
+[[fr:枚]]
+[[ko:枚]]
+[[ku:枚]]
+[[lo:枚]]
+[[hu:枚]]
+[[mg:枚]]
+[[ja:枚]]
+[[no:枚]]
+[[pl:枚]]
+[[th:枚]]
+[[chr:枚]]
+[[zh:枚]]

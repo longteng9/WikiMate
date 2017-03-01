@@ -1,0 +1,129 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=09|sn=12|four=37120|canj=EJRB|ids=⿰氵胡}}
+
+====References====
+* {{Han ref|kx=0637.040|dkj=17836|dj=1044.050|hdz=31669.030|uh=6E56|ud=28246|bh=B4F2|bd=46322}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|水|胡|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=hú
+|c=wu4
+|h=pfs=fù
+|md=hù
+|mn=ô͘
+|w=3hhu
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[lake]]; [[loch]]
+# {{zh-short|湖北|[[Hubei]] Province}}
+# {{zh-short|湖南|[[Hunan]] Province}}
+
+===Compounds===
+{{zh-der|愛德華湖|天鵝湖|安大略湖|博斯騰湖|伊利湖|巢湖|大熊湖|半鹹水湖|大埤湖|三江五湖|彭蠡湖|休崙湖|太湖|大貝湖|密西根湖|五湖|兩湖|堰塞湖|太湖石|內陸湖|大湖區|大明湖|加爾達湖|大鹽湖|慈湖|千湖國|巴拉頓湖|五湖四海|冰蝕湖|冰磧湖|湖畔詩人|湖海飄零|江湖術士|滷湖|湖筆|牛軛湖|湖海氣|海跡湖|湖沼|玄武湖|江湖騙子|江湖道義|湖山石|昆明湖|琵琶湖|湖田|游湖借傘|拉多加湖|湖澤|澄清湖|江湖義氣|淡水湖|湖光山色|湖膠|湖海|湖色|澎湖群島|湖海之士|湖畔|江湖郎中|甓社湖|湖羊|瘦西湖|湖泊|洪澤湖|湖心亭|洞庭湖|湖學|湖光|浪跡江湖|泖湖|江湖術語|江湖藝人|江湖好漢|湖濱散記|潟湖|江湖|湖縐|鑑湖|茵夢湖|魔鬼湖|西湖|間歇湖|笑傲江湖|鏡泊湖|西湖佳話|騰格里湖|貝加爾湖|蕪湖|興凱湖|鼎湖|闖江湖|鹽湖城|鹽湖|鹹湖|青海湖|鵝湖|鴛鴦湖|鄱陽湖|羊卓雍湖|青草湖|貝爾湖|跑江湖|蘇必略湖|陽湖派|鑑湖女俠|鏡湖|重現江湖|酃湖|老江湖|遊湖|鹹水湖|走江湖|莫愁湖}}
+
+{{zh-cat|Water|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=水09}}
+
+# {{defn|lang=ja|sort=水09}}
+
+====Readings====
+* {{ja-readings|goon=[[ぐ]] (gu) {{non-joyo-reading}}, [[ご]] (go) {{non-joyo-reading}}|kanon=[[こ]] (ko)|kun=[[みずうみ]] (mizuumi)}}
+
+====Compounds====
+{{top2}}
+* [[湖岸]]
+* [[湖沼]]
+* [[湖水]]
+* [[湖底]]
+{{mid2}}
+* [[湖面]]
+* [[塩湖]]
+* [[汽水湖]]
+{{bottom}}
+
+===Etymology===
+{{ja-kanjitab|みずうみ|yomi=k}}
+Compound of {{compound|水|tr1=mizu|t1=[[water]]|海|tr2=umi|t2=[[ocean]]|lang=ja|sort=みずうみ}}.
+
+===Pronunciation===
+{{ja-pron|acc=3|y=k|みず うみ}}
+
+===Noun===
+{{ja-noun|みず.うみ|hhira=みづうみ}}
+
+# a [[lake]] {{gloss|body of water}}
+
+{{topics|ja|Water|Landforms|sort=みずうみ}}
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=호|eumhun=|mr=ho|y=ho}}
+
+# {{defn|lang=ko|sort=水09}}
+
+====Compounds====
+* {{l|ko|湖水|tr=[[호수]], hosu}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hồ]]|rs=水09}}
+
+# [[lake]]
+
+====Usage notes====
+* Chữ Nôm. The modern Vietnamese word for lake is [[hồ]].
+
+====References====
+* [http://www.chunom.org/pages/6E56 www.chunom.org]
+
+[[el:湖]]
+[[fr:湖]]
+[[ko:湖]]
+[[id:湖]]
+[[kn:湖]]
+[[lo:湖]]
+[[lt:湖]]
+[[hu:湖]]
+[[mg:湖]]
+[[ja:湖]]
+[[no:湖]]
+[[pl:湖]]
+[[ru:湖]]
+[[sv:湖]]
+[[tl:湖]]
+[[ta:湖]]
+[[th:湖]]
+[[chr:湖]]
+[[tr:湖]]
+[[uk:湖]]
+[[ug:湖]]
+[[zh:湖]]

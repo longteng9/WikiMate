@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bìngyuán
+|c=beng6 jyun4
+|mn=pēⁿ-goân/pīⁿ-goân
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[cause]] of [[disease]]
+# {{zh-short|病原菌|[[pathogen]]; bacterial pathogen}}
+
+====Synonyms====
+* {{sense|cause of disease}} {{zh-l|病源}}
+
+====Derived terms====
+{{zh-der|病原蟲|病原菌|病原體}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|びょう|げん|yomi=on}}
+
+===Alternative forms===
+* {{l|ja|病源}}
+
+===Noun===
+{{ja-noun|びょうげん}}
+# [[cause]] or [[source]] of a disease, [[pathogenesis]], [[etiology]]
+
+====Derived terms====
+* {{ja-def|病原体}} [[agent]] of disease, [[pathogen]]
+
+[[ja:病原]]
+[[zh:病原]]

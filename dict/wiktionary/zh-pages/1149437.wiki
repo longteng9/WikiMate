@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|ひょう|き|yomi=on}}
+
+===Noun===
+{{ja-noun|ひょうき}}
+# the state of being written on the outside of something
+#: {{ja-usex|この'''表記'''は間違っている。|この '''ひょうき''' は まちがって いる。|This representation is wrong.}}
+# transcription
+
+===Verb===
+{{ja-verb-suru|ひょうき}}
+
+# write on the outside
+# [[transcribe]], [[write]]
+#: {{ja-usex|手書きの数字で'''表記'''してあった。|てがき の すうじ で '''ひょうき''' して あった。|The numbers were handwritten.}}
+
+====Conjugation====
+{{ja-suru|ひょうき}}
+
+[[fr:表記]]
+[[ko:表記]]
+[[hu:表記]]
+[[mg:表記]]
+[[ja:表記]]
+[[chr:表記]]
+[[zh:表記]]

@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|だん|あつ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|だんあつ|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|だんあつ|kyu=彈壓}}
+# [[oppression]]
+#: {{ja-usex|この法律の施行は言論の'''弾圧'''につながる。|この ほうりつ の しこう は げんろん の '''だんあつ''' に つながる。|Enacting this law will eventually lead to more oppression of free speech.}}
+
+===Verb===
+{{ja-verb-suru|だんあつ|kyu=彈壓}}
+# [[oppress]], [[suppress]]
+
+====Conjugation====
+{{ja-suru|だんあつ}}
+
+===References===
+<references/>
+
+[[hu:弾圧]]
+[[mg:弾圧]]
+[[zh:弾圧]]

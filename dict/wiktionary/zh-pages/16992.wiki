@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=04|sn=9|four=|canj=ABT|ids=⿱日皿}}
+
+# to [[feed]] a [[prisoner]]
+
+====References====
+* {{Han ref|kx=0494.090|dkj=13870|dj=0859.030|hdz=21500.090|uh=6637|ud=26167}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wēn
+|c=wan1
+|mc=
+|oc=y
+|ma=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 122]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日05}}
+
+# {{defn|lang=ja|sort=日05}}
+
+====Readings====
+* {{ja-readings|on=[[おん]] (on)|kun=[[めぐむ]] (megumu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=온|eumhun=|rv=on|mr=on|y=on}}
+
+# {{defn|lang=ko|sort=日05}}
+
+[[fr:昷]]
+[[ko:昷]]
+[[hu:昷]]
+[[pl:昷]]
+[[th:昷]]
+[[zh:昷]]

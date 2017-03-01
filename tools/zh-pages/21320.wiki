@@ -1,0 +1,57 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=08|sn=13|four=00132|canj=KMSO}}
+
+# sores from cold
+
+====References====
+* {{Han ref|kx=0776.060|dkj=22298|dj=1186.230|hdz=42679.030|uh=7603|ud=30211|bh=DEC9|bd=57033}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhú
+|c=zuk1,zuk6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+*{{R:twedu|B02770}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒08}}
+
+# {{defn|lang=ja|sort=疒08}}
+
+====Readings====
+* {{ja-readings|on=[[しょく]] (shoku), [[そく]] (soku), [[ちょく]] (choku), [[とく]] (toku)|kun=[[しもやけ]] (shimoyake)|nanori=}}
+
+[[fr:瘃]]
+[[hu:瘃]]
+[[pl:瘃]]
+[[th:瘃]]
+[[zh:瘃]]

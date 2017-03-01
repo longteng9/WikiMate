@@ -1,0 +1,53 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+The {{etyl|och|-}} words for "chopsticks" were {{zh-l|箸*}} (''zhù'', OC *''das'') and {{zh-l|梜*}} (''jiā'', OC *''keːb''). {{zh-l|箸*}} is preserved in Min dialects (Taiwanese ''tī'', ''tū''; Fuzhou ''dê̤ṳ''), {{etyl|ko|-}} {{ko-l|젓가락}} and {{cog|vi|đũa}}. Starting from the Ming Dynasty, the change to {{lang|zh|筷子}} occurred in Mandarin, Wu and some Cantonese dialects. The 15th century book ''Shuyuan Miscellanies'' ({{w2|zh|s:菽園雜記/卷01|《菽園雜記》}}) by {{w|Lu Rong}} ({{w2|zh|陸容}}) mentioned this change:
+:{{zh-x|^如 舟行{háng} 諱「住」……，以「箸」為{wéi}「快兒{r}」|As the mariners feared {{zh-l|住*|to stay}} […], they called {{zh-l|箸*|chopsticks}} {{zh-l|快兒*}} (''lit.'' "quick").|CL}}
+
+The bamboo radical ({{zh-l|竹*}}) was later added to {{zh-l|快*}} to form {{zh-l|筷*}}.
+
+===Pronunciation===
+{{zh-pron
+|m=kuàizi
+|c=faai3 zi2
+|c-t=fai1 du2
+|g=kuai3 zi
+|j=kuai3 zeh
+|w=1khue tsr,1khua tsr
+|x=kuai4 zr
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[chopstick]]s {{zh-mw|雙|對|m:根|m:把|m:副}}
+#: {{zh-x|用 筷子{zi} 吃飯|to eat with '''chopsticks'''}}
+#: {{zh-x|一次性 筷子{zi}|disposable '''chopsticks'''}}
+
+====Synonyms====
+{{zh-dial}}
+
+====Derived terms====
+{{zh-der|筷子架|火筷子}}
+
+====Descendants====
+* Dungan: {{l|dng|куэзы}}
+
+====See also====
+* (''Japanese'') {{ja-r|箸|はし}}
+
+{{zh-cat|Elementary|Cutlery}}
+
+[[fr:筷子]]
+[[ko:筷子]]
+[[it:筷子]]
+[[lo:筷子]]
+[[hu:筷子]]
+[[mg:筷子]]
+[[ja:筷子]]
+[[fi:筷子]]
+[[uk:筷子]]
+[[zh:筷子]]

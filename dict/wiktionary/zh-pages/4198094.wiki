@@ -1,0 +1,51 @@
+{{also|五蕴}}
+==Chinese==
+{{zh-forms|s=五蕴}}
+
+===Pronunciation===
+{{zh-pron
+|m=wǔyùn
+|c=ng5 wan3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Buddhism}} the [[five]] [[skandha]]s
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=on|sort=ごうん}}
+
+===Pronunciation===
+* {{ja-pron|ごうん}}
+
+===Noun===
+{{ja-noun|ご.うん}}
+
+# {{lb|ja|Buddhism|sort=ごうん}} the [[five]] [[skandha]]s
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=오온}}
+
+# {{hanja form of|오온|the [[five]] [[skandha]]s}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu|ngũ uẩn|pos=noun}}
+
+# {{han tu form of|ngũ uẩn|the [[five]] [[skandha]]s}}
+
+[[ja:五蘊]]
+[[zh:五蘊]]

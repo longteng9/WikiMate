@@ -1,0 +1,109 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=14|sn=17|four=53091|canj=QJBF|ids=⿰扌察}}
+
+# [[wipe]], [[scrub]], [[scour]]
+# [[brush]]
+
+====References====
+* {{Han ref|kx=0460.090|dkj=12862|dj=0808.290|hdz=31977.030|uh=64E6|ud=25830|bh=C0BF|bd=49343}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|alt1=扌|t1=hand|察|ls=psc|c1=s|c2=p}} – wipe, scrub by hand.
+
+===Pronunciation===
+{{zh-pron
+|m=cā
+|c=caat3
+|ma=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[wipe]]
+# to [[scour]], to [[scrub]]
+
+====Compounds====
+* {{l|zh|擦棒球}}
+* {{l|zh|擦背}}
+* {{l|zh|擦边}}, {{l|zh|擦边儿}}
+* {{l|zh|擦边球}}
+* {{l|zh|擦布}}
+* {{l|zh|擦黑儿}}
+* {{l|zh|擦痕}}
+* {{l|zh|擦磨}}
+* {{l|zh|擦屁股}}
+* {{l|zh|擦破}}
+* {{l|zh|擦拳摩掌}}
+* {{l|zh|擦伤|tr=cāshāng}}
+* {{l|zh|擦拭}}
+* {{l|zh|擦网球}}
+* {{l|zh|擦洗}}
+* {{l|zh|擦眼抹泪}}
+* {{l|zh|擦音|tr=cāyīn||fricative}}
+* {{l|zh|擦澡}}
+* {{l|zh|擦脂抹粉}}
+* {{l|zh|破擦音|tr=pòcāyīn||affricate}}
+* {{l|zh|破裂摩擦音|tr=pòliè mócāyīn||affricate}}
+* {{l|zh|塞擦音|tr=sècāyīn||affricate}}
+* {{l|zh|嘶擦音|tr=sīcāyīn||sibilant}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=手14}}
+
+# {{defn|lang=ja|sort=手14}}
+
+====Readings====
+* {{ja-readings|goon=[[さち]] (sachi)|kanon=[[さつ]] (satsu)|kun=[[する]] (suru), [[さする]] (sasuru)}}
+
+====Derived terms====
+* {{ja-r|靴擦れ|くつずれ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[찰]]|eumhun=|rv=chal|mr=ch'al|y=chal}}
+
+# {{defn|lang=ko|sort=手14}}
+
+====Compounds====
+* [[麻擦]] ([[마찰]], machal)
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sát]], [[xát]], [[xớt]]|rs=手14}}
+
+# {{defn|lang=vi|sort=手14}}
+
+[[zh-min-nan:擦]]
+[[fr:擦]]
+[[ko:擦]]
+[[hu:擦]]
+[[mg:擦]]
+[[ja:擦]]
+[[no:擦]]
+[[pl:擦]]
+[[ta:擦]]
+[[th:擦]]
+[[chr:擦]]
+[[uk:擦]]
+[[zh:擦]]

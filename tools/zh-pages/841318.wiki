@@ -1,0 +1,86 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=息zǐ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|archaic}} (one's) [[biological]] [[son]]
+# {{lb|zh|dialectal}} [[great-grandson]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=irr|sort=むすこ|むす|こ}}
+
+===Etymology===
+Compound of {{compound|ja|sort=むすこ|生す|tr1=musu|t1=to {{l|en|beget}}|子|tr2=ko|t2={{l|en|child}}}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> The kanji are {{juku|sort=むすこ}}.
+
+===Pronunciation===
+{{ja-pron|yomi=irr|むすこ|dev=2|acc=0|acc_ref=NHK,DJR}}
+
+===Alternative forms===
+* {{ja-l|息}} {{qualifier|rare}}
+
+===Noun===
+{{ja-noun|むすこ}}
+
+# {{lb|ja|humble|sort=むすこ}} a {{l|en|son}} {{gloss|male child}}
+#* {{quote-book
+|language=Japanese
+|location=Tokyo
+|publisher=Kodansha
+|genre=fiction
+||{{w|Yōzaburō Kanari|Yozaburo Kanari}}
+|coauthors={{w|Fumiya Satō|Fumiya Sato}}
+|{{w|金田一少年の事件簿|{{ruby|{{lang|ja|[金](きん)[田](だ)[一](いち)[少](しょう)[年](ねん)の[事](じ)[件](けん)[簿](ぼ)}}}}|lang=ja}}
+|trans-title={{w|The Kindaichi Case Files}}
+|date=Nov 4 1994
+|edition=9th
+|origdate=Jun 17 1993
+|isbn=4-06-311914-9
+|volume=3
+||84
+|chapter={{ruby|{{lang|ja|[異](い)[人](じん)[館](かん)[村](むら)[殺](さつ)[人](じん)[事](じ)[件](けん)⑪}}}}
+|trans-chapter=The Murder Case in the Village of Western-Style Houses ⑪
+|{{ruby|{{lang|ja|[彼](かれ)は‥‥[竜](りゅう)[一](いち)は[私](わたし)の'''[息](むす)[子](こ)'''なんだ‼}}}}
+|transliteration=''Kare wa‥‥ Ryūichi wa watashi no '''musuko''' nanda''
+|translation=He's‥‥ Ryūichi is really my '''son'''‼}}
+# {{lb|ja|vulgar|sort=むすこ}} a {{l|en|cock}}, a {{l|en|dick}} {{gloss|penis}}
+
+====Synonyms====
+* {{ja-r|坊っちゃん|ぼっちゃん}} {{qualifier|honorific}}
+* {{ja-r|息%子さん|むす%こ-さん}} {{qualifier|honorific}}
+
+====Antonyms====
+* {{ja-r|娘|むすめ}}: a {{l|en|daughter}}
+
+===References===
+<references/>
+
+{{C|ja|Family|Male|sort=むすこ}}
+
+[[ast:息子]]
+[[cs:息子]]
+[[fr:息子]]
+[[ko:息子]]
+[[hr:息子]]
+[[kn:息子]]
+[[ku:息子]]
+[[la:息子]]
+[[lt:息子]]
+[[mg:息子]]
+[[fj:息子]]
+[[ja:息子]]
+[[km:息子]]
+[[pl:息子]]
+[[sm:息子]]
+[[sv:息子]]
+[[chr:息子]]
+[[tr:息子]]
+[[zh:息子]]

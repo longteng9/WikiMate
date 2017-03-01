@@ -1,0 +1,35 @@
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|教誡}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiàojiè
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[exhort]]; to [[admonish]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|教|戒}}
+
+===Etymology===
+From {{etyl|zhx|ja}} {{m|cmn|教戒|tr=jiàojiè||exhortation, admonition}}.
+
+===Noun===
+{{ja-noun|きょうかい}}
+
+# [[admonition|Admonition]], [[counseling]].
+
+===Alternative forms===
+* {{l|ja|教誡}}
+
+[[fr:教戒]]
+[[zh:教戒]]

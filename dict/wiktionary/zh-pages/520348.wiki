@@ -1,0 +1,83 @@
+{{also|农民}}
+==Chinese==
+{{zh-forms|s=农民}}
+
+===Pronunciation===
+{{zh-pron
+|m=nóngmín
+|ma=zh-nóngmín.ogg
+|c=nung4 man4
+|h=pfs=nùng-mìn
+|mn=lông-bîn
+|w=3non min
+|x=long2 min2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[farmer]]; [[peasant]]
+#: {{zh-x|農民 起義|'''peasant''' uprising}}
+#: {{zh-x|農民 戰爭|'''peasant''' war}}
+
+====Usage notes====
+* Used in more formal speech in Min Nan. The more colloquial terms are {{zh-l|作穡人}} and {{zh-l|作田人}}.
+
+====Synonyms====
+* {{zh-l|農人}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|のう|みん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|のうみん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|のうみん}}
+
+# [[farmer]]
+# [[peasant]] farmer, [[sharecropper]]
+
+====Synonyms====
+* {{sense|farmer}} {{ja-r|農家|のうか}}
+* {{sense|peasant}} {{ja-r|小作人|こさくにん}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=농민}}
+
+# {{hanja form of|농민|[[farmers]], [[peasantry]]; [[farmer]], [[peasant]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|nông dân|[[peasant]], [[farmer]]}}
+
+[[zh-min-nan:農民]]
+[[ko:農民]]
+[[lo:農民]]
+[[hu:農民]]
+[[mg:農民]]
+[[fj:農民]]
+[[ja:農民]]
+[[tl:農民]]
+[[chr:農民]]
+[[zh:農民]]

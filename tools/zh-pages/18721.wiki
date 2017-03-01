@@ -1,0 +1,41 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=05|sn=8|four=33134|canj=EID,EIJC,XEID|ids=⿰氵术}}
+
+====References====
+* {{Han ref|kx=0613.010|dkj=17237|dj=1006.030|hdz=31582.010|uh=6CAD|ud=27821|bh=CCF5|bd=52469}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|朮|c1=s|c2=p|t1=river|ls=psc}}
+
+===Pronunciation===
+{{zh-pron
+|m=shù
+|c=seot6
+|mn=su̍t
+|mc=y
+|oc=y
+|cat=pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{n-g|name of a river in [[Shandong]]}}
+
+====Compounds====
+{{zh-der|沭河}}
+
+[[fr:沭]]
+[[mg:沭]]
+[[pl:沭]]
+[[th:沭]]
+[[zh:沭]]

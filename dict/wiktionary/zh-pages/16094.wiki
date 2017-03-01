@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|払}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=05|sn=8|four=55027|canj=QLLN|ids=⿰扌弗}}
+
+# [[shake off]], [[brush away]]
+# a tool used for brushing away [[dust]]
+
+====References====
+* {{Han ref|kx=0424.140|dkj=11936|dj=0772.110|hdz=31859.040|uh=62C2|ud=25282|bh=A9D8|bd=43480}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fú
+|c=fat1
+|h=pfs=fin
+|md=
+|mn=hut/put
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手05}}
+
+# {{defn|lang=ja|sort=手05}}
+
+====Readings====
+* {{ja-readings|on=[[ふつ]] (futsu), [[ほつ]] (hotsu), [[ひつ]] (hitsu)|kun=[[はらう]] (harau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[불]], [[필]]|eumhun=|rv=bul, pil|mr=pul, p'il|y=pul, phil}}
+
+# {{defn|lang=ko|sort=手05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phất]], [[phắt]], [[phớt]], [[phứt]], [[phựt]]|rs=手05}}
+
+# {{defn|lang=vi|sort=手05}}
+
+[[zh-min-nan:拂]]
+[[fr:拂]]
+[[ko:拂]]
+[[hu:拂]]
+[[mg:拂]]
+[[ja:拂]]
+[[no:拂]]
+[[pl:拂]]
+[[th:拂]]
+[[zh:拂]]

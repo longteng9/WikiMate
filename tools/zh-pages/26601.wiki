@@ -1,0 +1,108 @@
+{{character info/new}}
+{{also|制}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=08|sn=14|four=22732|canj=HNYHV|ids=⿱制衣}}
+
+====References====
+* {{Han ref|kx=1119.200|dkj=34380|dj=1586.050|hdz=53095.120|uh=88FD|ud=35069|bh=BB73|bd=47987}}
+
+----
+
+==Chinese==
+{{zh-forms|s=制}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|制|衣|t2=clothes|ls=psc|c1=p|c2=s}} – originally to produce cloth.
+
+===Pronunciation===
+{{zh-pron
+|m=zhì
+|c=zai3
+|h=pfs=chṳ
+|mn=qz,tw,xm:chè/zz:chì
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[make]], to [[manufacture]]
+# to [[produce]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=衣08}}
+
+====Readings====
+{{ja-readings|goon=[[せ]] (se)|kanon=[[せい]] (sei)|kun=[[たつ]] (tatsu), [[つくる]] (tsukuru)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|自家製|じかせい}}: home-made
+* {{ja-r|製作|せいさく}}: manufacture, production
+* {{ja-r|製造|せいぞう}}: manufacturing
+* {{ja-r|製品|せいひん}}: [[product]], manufactured good
+* {{ja-r|石製|せきせい}}: [[stonen]]
+* {{ja-r|銅製|どうせい}}: [[coppern]]
+* {{ja-r|和製|わせい}}: Japanese-made
+{{der-bottom}}
+
+{{ja-kanjitab|せい|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=せい}} {{m|zh|製|tr=tsyej<sup>H</sup>}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|せい|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|せい}}
+
+# [[make]]
+
+===Suffix===
+{{ja-pos|せい|suffix}}
+
+# -made
+#: {{ja-usex|日本製|^にほん-せい|made in Japan}}
+# made of
+#: {{ja-usex|木製|もくせい|made of wood}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=제|eumhun=|rv=je|mr=che|y=cey}}
+
+# {{defn|lang=ko|sort=衣08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chế]], [[chẽ]]|rs=衣08}}
+
+# {{defn|lang=vi|sort=衣08}}
+
+[[fr:製]]
+[[ko:製]]
+[[hu:製]]
+[[mg:製]]
+[[ja:製]]
+[[pl:製]]
+[[th:製]]
+[[zh:製]]

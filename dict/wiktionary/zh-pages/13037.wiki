@@ -1,0 +1,117 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=05|sn=8|four=41149|canj=GMFJ|ids=⿰土平}}
+
+# [[level]] [[ground]]
+# Japanese, Taiwanese, and Korean [[measure]] of [[area]]
+
+====References====
+* {{Han ref|kx=0226.220|dkj=04976|dj=0461.340|hdz=10430.090|uh=576A|ud=22378|bh=A957|bd=43351}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=píng
+|c=ping4
+|h=pfs=phiàng/phìn
+|mn=phêng/phiâⁿ/qz,tp:pîⁿ/kh:pêⁿ/xm:phîⁿ/twvk,zz:phêⁿ
+|mn_note=phêng - literary; phiâⁿ/pîⁿ/pêⁿ/phîⁿ/phêⁿ - vernacular
+|w=
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[plain]]; [[flatland]]
+# {{lb|zh|Taiwan}} A traditional unit of areal measure equal to a square six {{zh-l|尺}} on each side. Approximately 3.306 square meters or 35.57 square feet.
+
+=====Derived terms=====
+* {{zh-l|坪數}}
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|3717}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=土05}}
+
+====Readings====
+{{ja-readings
+|goon=[[びょう]] (byō) {{non-joyo-reading}}
+|kanon=[[へい]] (hei) {{non-joyo-reading}}
+|kun=[[つぼ]] ([[tsubo]])
+}}
+
+=====Usage notes=====
+The [[音読み#Japanese|''on'yomi'']] are not used in modern Japanese.
+
+===Etymology===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Pyeong}}
+</div>
+{{ja-kanjitab|yomi=k|つぼ}}
+Cognate with {{m|ja|壺|tr=tsubo||basin}}. The current meaning related to area arose from the way a surrounded area with the base or floor lower than the circumference looks like a basin.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Although the reading is different, this areal measurement meaning for {{lang|ja|坪}} is shared in common with the terms {{ko-inline|평|||坪}} in Korean and {{m|zh|坪|tr=pe<sup>5</sup>}} in Taiwanese.
+
+===Pronunciation===
+{{ja-pron|yomi=k|つぼ|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|つぼ}}
+
+# A [[unit]] of [[areal]] measure, traditionally a square six {{m|ja|尺|tr=shaku|pos=traditional Japanese unit of length, roughly equivalent to the English [[foot]]}} per side, equivalent to the area covered by two standard-sized [[tatami]] mats. In modern usage, standardized at 3.306 [[square metre]]s.
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=평|rv=pyeong|mr=p'yŏng|y=phyeng}}
+
+# [[pyeong]], a traditional unit of measurement
+# {{defn|lang=ko|sort=土05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bình]]|rs=土05}}
+
+# {{defn|lang=vi|sort=土05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=576a Nom Foundation]
+
+[[zh-min-nan:坪]]
+[[fr:坪]]
+[[ko:坪]]
+[[lo:坪]]
+[[hu:坪]]
+[[mg:坪]]
+[[ja:坪]]
+[[no:坪]]
+[[pl:坪]]
+[[th:坪]]
+[[zh:坪]]

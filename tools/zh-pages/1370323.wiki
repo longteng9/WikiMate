@@ -1,0 +1,27 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhōngtáng
+|mn=tiong-tông
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[central]] [[hall]]; [[central]] [[room]]
+# {{lb|zh|literary}} a [[scroll]] [[hung]] in such a [[room]]
+# {{lb|zh|literary}} [[courtyard]]
+# {{lb|zh|historical}} [[prime minister]]; [[chancellor]] {{qualifier|in the Tang dynasty}}
+# {{lb|zh|historical}} [[grand]] [[secretary]]; [[minister]] of [[state]] {{qualifier|in the Ming and Qing dynasties}}
+
+====Synonyms====
+* {{sense|central hall; central room}} {{zh-l|堂屋|tr=tángwū}}
+* {{sense|courtyard}} {{zh-l|庭院}}
+* {{sense|prime minister; chancellor}} {{zh-l|宰相}}
+* {{sense|grand secretary; minister of state}} {{zh-l|大學士|tr=dàxuéshì}}
+
+[[ko:中堂]]
+[[zh:中堂]]

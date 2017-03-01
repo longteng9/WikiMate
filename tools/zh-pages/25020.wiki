@@ -1,0 +1,132 @@
+{{character info/new}}
+{{also|苶|茶}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=07|sn=13|four=44904|canj=TOMD|ids=⿱艹余}}
+
+# [[bitter]] [[vegetable]]
+# [[thistle]]
+# common [[sowthistle]] ({{taxlink|Sonchus oleraceus|species|noshow=1}})
+# [[bitter]] (taste)
+# [[cruel]]
+# [[flowering]] [[grass]] in [[profusion]]
+
+====References====
+* {{Han ref|kx=1032.210|dkj=31008|dj=1492.080|hdz=53221.110|uh=837C|ud=33660|bh=B2FE|bd=45822}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tú
+|c=caa4,tou4,syu1,ce4
+|h=pfs=
+|md=
+|mn=tô͘
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|archaic}} {{taxlink|Sonchus oleraceus|species|noshow=1}}
+# {{lb|zh|archaic}} {{taxlink|Ixeris chinensis|species|noshow=1}}
+# {{lb|zh|archaic}} {{taxlink|Ixeris denticulata|species|noshow=1}}
+
+====Usage notes====
+* {{lang|zh|荼}} can refer to one of several types of [[bitter]] [[tasting]] [[vegetable]]s. Early Chinese texts are rather vague in their description. This makes it difficult to determine which species it originally referred to.
+
+===References===
+* {{cite-web
+|last=
+|first=
+|authorlink=
+|coauthors=
+|date=
+|year=
+|month=
+|url=http://140.111.34.46/cgi-bin/dict/GetContent.cgi?Database=dict&DocNum=43152&GraphicWord=yes&QueryString=荼$
+|title=國語辭典
+|format=
+|work=
+|pages=
+|publisher=
+|language=Chinese
+|accessdate=23 Nov
+|accessyear=2007
+}}
+* {{cite-web
+|last=
+|first=
+|authorlink=
+|coauthors=
+|date=
+|year=
+|month=
+|url=http://baike.baidu.com/view/30711.htm
+|title=苦菜
+|format=
+|work=
+|pages=
+|publisher=Baidu.com
+|language=Mandarin
+|accessdate=23 Nov
+|accessyear=2007
+}}
+* {{cite-web
+|last=
+|first=
+|authorlink=
+|coauthors=
+|date=
+|year=
+|month=
+|url=http://www.pfaf.org/database/plants.php?Ixeris+chinensis
+|title=Ixeris chinensis
+|format=
+|work=
+|pages=
+|publisher=
+|language=English
+|accessdate=23 Nov
+|accessyear=2007
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸07}}
+
+# {{defn|lang=ja|sort=艸07}}
+
+====Readings====
+* {{ja-readings|on=[[と]] (to), [[ど]] (do), [[た]] (ta)|kun=[[にがな]] (nigana)|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đồ]], [[dưa]], [[giưa]]}}
+
+# {{defn|lang=vi|sort=艸07}}
+
+[[fr:荼]]
+[[hu:荼]]
+[[mg:荼]]
+[[ja:荼]]
+[[pl:荼]]
+[[th:荼]]
+[[zh:荼]]

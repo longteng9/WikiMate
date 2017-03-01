@@ -1,0 +1,60 @@
+{{also|抹杀}}
+==Chinese==
+{{zh-forms|s=抹杀}}
+
+===Pronunciation===
+{{zh-pron
+|m=mǒshā
+|c=mut3 saat3
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Advanced Mandarin}} to [[blot]] [[out]]; to [[erase]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|まつ|k1=まっ|さつ|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|まっさつ|yomi=o}}
+
+===Noun===
+{{ja-noun|まっさつ}}
+
+# [[erasure]]
+# [[denial]]
+# killing
+
+===Verb===
+{{ja-verb-suru|tr=trans|まっさつ}}
+
+# to [[wipe out]], to [[erase]]
+#* '''1949''', 宮本百合子, 今日の日本の文化問題:
+#*: {{ja-usex|日本のスポーツは、戦争中全く日常生活から'''抹殺'''されていた。|にほん の スポーツ は、 せんそう-ちゅう まったく にちじょう せいかつ から '''まっさつ''' されて いた。|During the war, sports were completely '''wiped out''' of everyday life in Japan.}}
+# to [[deny]]
+#* '''1945''', 太宰治, 惜別:
+#*: {{ja-usex|もう僕はあの、科学救国論は全部、'''抹殺'''します。|もう ぼく は あの、 かがく きゅうこく ろん は ぜんぶ、 '''まっさつ''' します。|These days I completely '''deny''' all of the arguments that science will save the nation.}}
+# to [[kill]]
+
+====Conjugation====
+{{ja-suru|まっさつ}}
+
+===References===
+* {{R:Shogakukan}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=말살}}
+
+# {{hanja form of|말살}}
+
+[[ko:抹殺]]
+[[hu:抹殺]]
+[[ja:抹殺]]
+[[zh:抹殺]]

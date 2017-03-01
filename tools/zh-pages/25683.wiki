@@ -1,0 +1,124 @@
+{{character info/new}}
+{{also|艺|芸|兿}}
+==Translingual==
+{{Han simplified forms|藝|芸|艺}}
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=15|sn=21|four=44731|canj=TGII|ids=⿱蓺云}}
+
+====Descendants====
+* [[芸]] [[艺]]
+
+====References====
+* {{Han ref|kx=1065.340|dkj=32330|dj=1530.250|hdz=53317.120|uh=85DD|ud=34269|bh=C3C0|bd=50112}}
+
+----
+
+==Chinese==
+{{zh-forms|s=艺}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|蓺|云}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=ngai6
+|h=pfs=ngi
+|mn=gē
+|mna=Taiwanese-The_Vowel_e.ogg
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[art]]
+#* {{zh-x|藝術|art}}
+# [[skill]]; [[talent]]
+#* {{zh-x|技藝|skill}}
+# [[craft]]
+#* {{zh-x|手藝|craftmanship, workmanship}}
+# {{lb|zh|obsolete}} [[limit]], [[bound]], [[norm]]
+#* '''Warring States Period''', [[w:Guoyu_(book)|Discourses of the States (國語)]], Discourses of Jin, Book VIII (晉語八).
+#*: {{zh-x|及 @^桓子，驕 泰 奢侈，貪 欲 無 藝|By the time of [[w:zh:欒桓子|Lord Huan of Luan]], [he was] excessively arrogant and extravagant; [his] greed and desires [knew] no limits.|CL}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|obsolete}} to plant, to grow
+
+====Usage notes====
+* Used only in compounds.
+
+===References===
+* {{R:cedict}}
+* {{thcwd|12869}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=艸15|style=ky|shin=芸}}
+
+# [[technique]], [[art]], [[craft]], [[performance]]
+
+====Readings====
+{{ja-readings
+|goon=[[げ]], (ge)
+|kanon=[[げい]] (gei)
+|kun=(''all rare'') [[うえる]] (ueru), [[のり]] (nori), [[わざ]] (waza)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=예|eumhun=|rv=ye|mr=ye|y=yey}}
+
+# {{defn|lang=ko|sort=艸15}}
+
+----
+
+==Vietnamese==
+
+===Character===
+
+====Readings====
+{{vi-readings|hanviet=nghệ, vân|nom=nghế, vân, nghề, nghệ|rs=艸15}}
+
+===Etymology 1===
+
+====Noun====
+{{vi-noun|sc=Hani|{{vi-l|nghệ}}, {{vi-l|nghề}}|sort=艸15}}
+# [[art]]
+#: {{vi-ruby|善藝|thiện nghệ}}
+#:: artist
+# [[craft]], [[trade]]
+#: {{vi-ruby|藝業|nghề nghiệp}}
+#:: trade
+#: {{vi-ruby|文藝|văn nghề}}
+#:: literature
+# [[talent]], [[ability]]
+#: {{vi-ruby|武藝|vũ nghề}}
+#:: martial arts
+
+===References===
+* {{R:Taberd 1838|p=A338}}
+* {{R:WinVNKey:Lê Sơn Thanh}}
+
+[[zh-min-nan:藝]]
+[[fr:藝]]
+[[ko:藝]]
+[[hu:藝]]
+[[mg:藝]]
+[[ja:藝]]
+[[pl:藝]]
+[[th:藝]]
+[[vi:藝]]
+[[zh:藝]]

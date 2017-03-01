@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=133|rad=至|as=10|sn=16|four=15194|canj=MGQKD|ids=⿰至秦}}
+
+# [[reach]], [[arrive]]
+# [[utmost]], [[superior]]
+
+====References====
+* {{Han ref|kx=1002.110|dkj=30165|dj=1459.060|hdz=42818.030|uh=81FB|ud=33275|bh=BFB2|bd=49074}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhēn
+|c=zeon1
+|mn=chin
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不臻|百福具臻|臻至|臻臻至至|薦臻|饑饉荐臻|饑饉薦臻|齊臻臻}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=至10}}
+
+# {{defn|lang=ja|sort=至10}}
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin)|kun=[[いたる]] (itaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=진|eumhun=|rv=jin|mr=chin|y=cin}}
+
+# {{defn|lang=ko|sort=至10}}
+
+[[fr:臻]]
+[[ko:臻]]
+[[hu:臻]]
+[[mg:臻]]
+[[ja:臻]]
+[[pl:臻]]
+[[th:臻]]
+[[zh:臻]]

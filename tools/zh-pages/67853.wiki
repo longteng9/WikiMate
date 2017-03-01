@@ -1,0 +1,60 @@
+{{also|冠词}}
+==Chinese==
+{{zh-forms|s=冠词}}
+
+===Pronunciation===
+{{zh-pron
+|m=guàncí
+|c=gun3 ci4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# An [[article]], such as the words ''[[the]]'' and ''[[a]]''.
+
+====Derived terms====
+* {{l|cmn|不定冠詞|tr=bùdìng guàncí}}
+* {{l|cmn|定冠詞|tr=dìng guàncí}}
+
+[[Category:zh:Grammar]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|かん|し|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|かんし|acc=h|acc_ref=DJR,NHK,SMK5|y=ko}}
+
+===Noun===
+{{ja-noun|かんし|hhira=くわんし}}
+
+# {{lb|ja|part of speech|sort=かんし}} [[article]]
+
+====Derived terms====
+{{top2}}
+* [[定冠詞]] ([[ていかんし]], [[teikanshi]]): [[definite article]]
+{{mid2}}
+* [[不定冠詞]] ([[ふていかんし]], [[futeikanshi]]): [[indefinite article]]
+{{bottom}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+* {{R:Kojien}}
+* {{R:Meikyo}}
+
+[[ko:冠詞]]
+[[it:冠詞]]
+[[hu:冠詞]]
+[[mg:冠詞]]
+[[nl:冠詞]]
+[[ja:冠詞]]
+[[pl:冠詞]]
+[[pt:冠詞]]
+[[chr:冠詞]]
+[[tr:冠詞]]
+[[zh:冠詞]]

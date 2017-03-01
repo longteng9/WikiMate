@@ -1,0 +1,94 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zìdiǎn
+|ma=Zh-zìdian.ogg
+|c=zi6 din2
+|c-t=du5 en2
+|h=pfs=sṳ-tién
+|md=cê-diēng
+|mn=qz,tp,xm:lī-tián/kh,zz:jī-tián
+|w=3zr ti
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[dictionary]] of [[Chinese character]]s, a Han character dictionary {{zh-mw|本}}
+#: {{zh-x|查 字典|to look up a '''dictionary'''}}
+
+===Derived terms===
+{{zh-der|活字典}}
+
+====Descendants====
+{{CJKV||じてん|자전|tự điển}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じ|てん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|じてん|acc=0|acc_ref=NHK,DJR,SMK5|y=go}}
+* {{homophone|辞典|事典|sort=してん'|lang=ja}}
+
+===Noun===
+{{ja-noun|じてん}}
+
+# [[dictionary]] of [[kanji]]; [[Han]] character dictionary
+
+===References===
+<references/>
+[[Category:ja:Dictionaries|してん']]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=자전|rv=jajeon}}
+
+# {{hanja form of|자전|, a Han character dictionary}}
+
+----
+
+==Vietnamese==
+
+===Noun===
+{{vi-hantu|tự điển}}
+
+# {{han tu form of|tự điển|a Han character dictionary}}
+
+[[af:字典]]
+[[zh-min-nan:字典]]
+[[ca:字典]]
+[[cy:字典]]
+[[da:字典]]
+[[el:字典]]
+[[eu:字典]]
+[[fr:字典]]
+[[ko:字典]]
+[[sw:字典]]
+[[ku:字典]]
+[[lt:字典]]
+[[li:字典]]
+[[hu:字典]]
+[[mg:字典]]
+[[nl:字典]]
+[[ja:字典]]
+[[uz:字典]]
+[[pl:字典]]
+[[pt:字典]]
+[[ro:字典]]
+[[ru:字典]]
+[[fi:字典]]
+[[tl:字典]]
+[[th:字典]]
+[[tr:字典]]
+[[uk:字典]]
+[[vi:字典]]
+[[zh:字典]]

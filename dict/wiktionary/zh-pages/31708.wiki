@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|腾}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=10|sn=20|four=79227|canj=BFQF|ids=⿰月駦}}
+
+====Descendants====
+* [[駦]], [[腾]]
+
+====References====
+* {{Han ref|kx=1442.350|dkj=44915|dj=1967.030|hdz=32125.050|uh=9A30|ud=39472|bh=C4CB|bd=50379}}
+
+----
+
+==Chinese==
+{{zh-forms|s=腾}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|朕|馬|c1=p|c2=s|t2=horse|ls=psc}} – a horses’ gallop, prance.
+
+===Pronunciation===
+{{zh-pron
+|m=téng
+|c=tang4
+|mn=qz:thn̂g/tw,xm,zz:thêng/qz:tn̂g
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[fly]]
+# [[gallop]]
+# [[run]]
+# [[prance]]
+# [[rise]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=馬10}}
+
+# {{defn|lang=ja|sort=馬10}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō)|kun=[[のぼる]] (noboru), [[あがる]] (agaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=등|eumhun=|rv=deung|mr=tŭng|y=tung}}
+
+# {{defn|lang=ko|sort=馬10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đằng]]|rs=馬10}}
+
+# {{defn|lang=vi|sort=馬10}}
+
+[[fr:騰]]
+[[ko:騰]]
+[[hu:騰]]
+[[mg:騰]]
+[[ja:騰]]
+[[pl:騰]]
+[[th:騰]]
+[[zh:騰]]

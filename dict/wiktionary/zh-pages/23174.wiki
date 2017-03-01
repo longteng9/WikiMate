@@ -1,0 +1,174 @@
+{{character info/new}}
+{{also|粪}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=119|rad=米|as=11|sn=17|four=90801|canj=FDWTC|ids=⿱米異}}
+
+====References====
+* {{Han ref|kx=0912.260|dkj=27102|dj=1339.200|hdz=53158.070|uh=7CDE|ud=31966|bh=C154|bd=49492}}
+
+----
+
+==Chinese==
+{{zh-forms|s=粪}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|米|異}}.
+
+===Pronunciation===
+{{zh-pron
+|m=fèn
+|ma=y
+|c=fan3
+|h=pfs=fun/pun
+|md=bóng
+|mn=pùn
+|w=2fen
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[manure]], [[dung]], [[night soil]]
+
+====See also====
+* {{zh-l|屎}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=米11}}
+
+====Readings====
+{{ja-readings
+|goon=[[ふん]] (fun)
+|kanon=[[ふん]] (fun)
+|kun=[[くそ]] (kuso), [[ばば]] (baba)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|くそ}}
+Cognate with {{m|ja|臭い|tr=kusai||stinky, smelly}}, {{m|ja|腐る|tr=kusaru||to rot, to become stinky}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|くそ|acc=2|dev=1|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{l|ja|屎}}
+
+====Noun====
+{{ja-noun|くそ}}
+
+# {{lb|ja|colloquial|sort=くそ}} [[feces]], [[excrement]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|糞っ垂れ|くそったれ}}: [[dingleberry]] {{qualifier|vulgar epithet}}
+* {{ja-r|目糞|めくそ}}: [[rheum]], [[eye]] [[mucus]]
+{{der-bottom}}
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|糞の役にも立たぬ|くそ の やく に も たたぬ}}: “not even good for '''shit'''” (see {{ja-r|役に立つ|やく に たつ}}: “to be useful, to play a role”)
+{{der-bottom}}
+
+====Interjection====
+{{ja-pos|interjection|くそ}}
+
+# {{lb|ja|sort=くそ|expletive}} [[crap]], [[shit]], [[bullshit]]
+
+=====Usage notes=====
+This is not considered as profane as the English glosses. For instance, a child of five using the Japanese interjection ''kuso'' would be unremarkable, whereas it would be very socially inappropriate for a child of five to use the English interjection {{m|en|shit}}.
+
+====Prefix====
+{{ja-pos|prefix|くそ}}
+
+# {{non-gloss definition|A [[derogatory]] prefix.}}
+#: {{ja-usex|'''糞'''爺い|'''くそ'''じじい|'''crappy''' old man}}
+
+====Suffix====
+{{ja-pos|suffix|くそ}}
+
+# [[crappy]], for [[shit]]: {{non-gloss definition|a [[derogatory]] [[emphasis|emphasizing]] suffix.}}
+#: {{ja-usex|下手'''糞'''|へた'''くそ'''|'''crappy''' bad at something; to be '''shit''' at doing something}}
+#: {{ja-usex|襤褸'''糞'''|ぼろ'''くそ'''|broken down '''for shit''', raggedy-'''ass'''}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|ふん}}
+{{IPAchar|/pun/}} → {{IPAchar|/fun/}}
+
+From {{etyl|ltc|ja}} {{m|ltc|糞|tr=pjun<sup>H</sup>}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|ふん|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|ふん|フン}}
+
+# animal [[excrement]], [[droppings]]
+
+=====Usage notes=====
+This noun specifically refers to the excrement of non-human animals; for human excrement, the term {{m|ja|大便|tr=daiben}} is used.
+
+Due to the complicated nature of this kanji, this word is often written in [[katakana]] instead.
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|ばば}}
+Appears to derive from [[baby talk]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> Compare {{cog|en|poopoo}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|ばば|acc=0|acc_ref=DJR|acc2=2|acc2_ref=DJR}}
+
+====Alternative forms====
+* {{l|ja|屎}}
+
+====Noun====
+{{ja-noun|ばば}}
+
+# {{qualifier|children's word}}: [[poopoo]], [[poop]], [[dookie]]
+# {{qualifier|children's word}}: something [[unclean]]
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|猫糞する|ねこばば する}}: “to do a cat-poo”: to [[sweep something under the rug]]: to hide a problem without actually dealing with it {{qualifier|from how a cat will bury its droppings}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=분}}
+
+# {{defn|lang=ko|sort=米11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phẩn]], [[phân]]|rs=米11}}
+
+# {{defn|lang=vi|sort=米11}}
+
+[[zh-min-nan:糞]]
+[[fr:糞]]
+[[ko:糞]]
+[[hu:糞]]
+[[mg:糞]]
+[[ja:糞]]
+[[pl:糞]]
+[[sv:糞]]
+[[th:糞]]
+[[chr:糞]]
+[[zh:糞]]

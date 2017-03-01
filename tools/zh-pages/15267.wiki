@@ -1,0 +1,106 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=60|rad=彳|as=06|sn=9|four=25207|canj=HOLQ|ids=⿰彳聿}}
+
+====Derived characters====
+* [[葎]] [[嵂]] [[箻]]
+
+====References====
+* {{Han ref|kx=0366.170|dkj=10097|dj=0687.110|hdz=20821.010|uh=5F8B|ud=24459|bh=ABDF|bd=43999}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|彳|聿|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lǜ
+|c=leot6
+|h=pfs=li̍t
+|md=lŭk
+|mn=lu̍t
+|w=5liq
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[statute]]; [[principle]]; [[regulation]]; [[discipline]]; [[rule]]; [[law]]
+#: {{zh-x|法律|law}}
+# to [[control]]; to [[keep]] under [[control]]
+
+===Compounds===
+{{zh-der|律動|律己|律例|律令|律師|律詩|律條|旋律|卒律律|律賦|千篇一律|大清律|他律|律藏|嚴於律己|慣性定律|十二律|底特律|律尺|三一律|勃律|倍比定律|必律律|不律頭|心律不整|德律風|律科|律法|律曆志|律宗|律動教學|律動感|律切|律儀|平均律|庫侖定律|四分律|律度|光出律|如律令|定律|刑律|九章律|律呂正義|倍律|律律|不律|協律|因果律|律魁|七律|主旋律|心律|六律|乞留曲律|一律|五律|律呂|漫無紀律|法律漏洞|法律審|法律|戒律|排律|法律學|槓桿定律|本律|曲律|瀛奎律髓|概然律|查理定律|樂律|抱令守律|方頭不律|格律|矛盾律|析律貳端|玉律金科|挾書律|摩西律法|清規戒律|法律行為|析律舞文|時律|新律|排中律|歐姆定律|荊棘律|詞律|運動定律|詩律|黃金律|金科玉律|聲律|韻律操|結合律|竽律|菲律賓|鬱律|餘弦定律|耶律|虎克定律|韻律體操|音律|韻律|赤留出律|週期律|軍律|足律律|醫門法律|自律|紀律|讀律|節律|規律性|規律|赫柏定律}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=彳06}}
+
+# law
+
+====Readings====
+* {{ja-readings|kanon=[[りつ]] (ritsu)|goon=[[りち]] (richi)|kun=[[のり]] (nori)}}
+
+====Compounds====
+* {{ja-l|律儀}} - faithful, honest
+* {{ja-l|律詩}} - Chinese poetry of eight lines, Lüshi
+* {{ja-l|律動}} - rhythmic movement
+* {{ja-l|律法}} - the laws of Judaism, Torah
+* {{ja-l|律令}} - historical legal code based on Confucianism
+* {{ja-l|因果律}} - law of causality
+* {{ja-l|音律}} - musical tuning system
+* {{ja-l|戒律}} - religious commandment
+* {{ja-l|可換律}} - commutative law (in mathematics)
+* {{ja-l|法律}} - law, statute
+
+===Etymology===
+{{ja-kanjitab|りつ|yomi=o}}
+
+====Proper noun====
+{{ja-pos|proper noun|りつ}}
+
+# {{given name|female|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[률]]>[[율]]}}
+
+# {{defn|lang=ko|sort=彳06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[luật]], [[lót]], [[lọt]], [[rút]], [[rụt]], [[sụt]], [[suốt]], [[trót]], [[luốt]], [[rọt]], [[sốt]], [[trốt]], [[trút]]|rs=彳06}}
+
+# {{defn|lang=vi|sort=彳06}}
+
+[[zh-min-nan:律]]
+[[fr:律]]
+[[ko:律]]
+[[hu:律]]
+[[mg:律]]
+[[ja:律]]
+[[no:律]]
+[[pl:律]]
+[[tl:律]]
+[[th:律]]
+[[chr:律]]
+[[zh:律]]

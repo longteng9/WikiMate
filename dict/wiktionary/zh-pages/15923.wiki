@@ -1,0 +1,44 @@
+{{character info/new}}
+{{also|戰|戦}}
+==Translingual==
+{{Han simplified forms|戰|戦|战}}
+
+===Etymology===
+{{Han simp|戰|f=單|t=占}}.
+
+{{Han compound|占|戈|t2=halberd|ls=psc|c1=p|c2=s}} – battling with a halberd.
+
+===Han character===
+{{Han char|rn=62|rad=戈|as=05|sn=9|four=|canj=YRI|ids=⿰占戈}}
+
+====References====
+* {{Han ref|kx=0412.291|dkj=11582|dj=0755.140|hdz=21403.140|uh=6218|ud=25112}}
+
+----
+
+==Chinese==
+{{zh-see|戰}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=戈5|style=}}
+
+# [[fighting]], [[battle]]
+# {{alternative form of|戦|lang=ja}}
+
+====Readings====
+{{ja-readings
+|goon=[[せん]] (sen)
+|kanon=[[せん]] (sen)
+|kun=[[いくさ]] (ikusa), [[おののく|おのの.く]] ([[战く]], onono.ku), [[おののき]] (ononoki), [[おののき|おのの.き]] ([[战き]], onono.ki), [[そよぐ|そよ.ぐ]] ([[战ぐ]], soyo.gu), [[そよぎ]] (soyogi), [[そよぎ|そよ.ぎ]] ([[战ぎ]], soyo.gi), [[たたかう]] ([[战う]], tatakau), [[たたかい]] (tatakai), [[たたかい|たたか.い]] ([[战い]], tataka.i)
+}}
+
+[[fr:战]]
+[[ja:战]]
+[[no:战]]
+[[pl:战]]
+[[th:战]]
+[[zh:战]]

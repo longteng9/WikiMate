@@ -1,0 +1,58 @@
+{{character info/new}}
+{{also|婳}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=12|sn=15|four=45416|canj=VLGM|ids=⿰女畫}}
+
+# [[tranquil]]
+
+====References====
+* {{Han ref|kx=0271.120|dkj=06719|dj=0539.050|hdz=21082.150|uh=5AFF|ud=23295|bh=E554|bd=58708}}
+
+----
+
+==Chinese==
+{{zh-forms|s=婳}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|畫|c1=s|c2=p|t1=female|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=huā
+|c=waak6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|姽嫿}}
+
+===References===
+* {{R:twedu|B00704}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女12}}
+
+# {{defn|lang=ja|sort=女12}}
+
+====Readings====
+* {{ja-readings|on=[[かく]] (kaku), [[ぎゃく]] (gyaku)|kun=[[しとやか]] (shitoyaka), [[みめよい]] (mimeyoi)}}
+
+[[fr:嫿]]
+[[hu:嫿]]
+[[pl:嫿]]
+[[th:嫿]]
+[[zh:嫿]]

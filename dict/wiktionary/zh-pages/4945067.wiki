@@ -1,0 +1,52 @@
+{{also|方法论}}
+==Chinese==
+{{zh-forms|s=方法论|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=fāngfǎlùn
+|c=fong1 faat3 leon6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[methodology]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|yomi=o|ほう|ほう|ろん}}
+
+===Pronunciation===
+{{ja-pron|ほうほうろん|acc=3|acc_ref=DJR,NHK,SMK5|y=o}}
+
+===Noun===
+{{ja-noun|ほうほうろん|hhira=はうはふろん}}
+
+# [[methodology]]
+
+====Descendants====
+* Korean: {{ko-l|방법론}}
+* Vietnamese: {{vi-l|phương pháp luận}}
+
+===References===
+<references/>
+[[Category:ja:Sciences|ほうほうろん]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=방법론|mr=pangbŏmnon|y=pangpeplon}}
+
+# {{hanja form of|방법론|[[methodology]]}}
+
+[[ko:方法論]]
+[[lo:方法論]]
+[[ja:方法論]]
+[[pl:方法論]]

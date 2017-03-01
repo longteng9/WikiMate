@@ -1,0 +1,28 @@
+{{also|思密达}}
+==Chinese==
+{{zh-forms|s=思密达|gloss=-}}
+
+===Etymology===
+From the {{etyl|ko|zh}} formal ({{l|ko|하십시오체|tr=-}}) indicative sentence-final ending {{ko-l|—습니다}}, attached to consonant-ending verb stems. Often used to ridicule the [[w:ja:韓国起源説|Korean creation theory]].
+
+===Pronunciation===
+{{zh-pron
+|m=sīmìdá
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|slang|pejorative}} a [[Korean]] person
+
+===Synonyms===
+* {{zh-l|棒子}}, {{zh-l|高麗棒子}}
+
+===Interjection===
+{{zh-interj}}
+
+# {{lb|zh|slang|pejorative|humorous}} Sentence-final particle, indicating a state or completeness of an action.
+#* {{zh-x|現在 流行 一 個 笑話，無論 世界 各地 出現 任何 傑出 人物 或 某 領域 成就，最終 ^韓國 人 總 會 跳 出來 說：這 其實 都 是 ^韓國 的 '''思密達'''！|A joke that is very popular nowadays is that, whenever outstanding people or notable achievements in any part of the world become widely known, the Koreans will eventually stand up and claim: "This in fact came from Korea - '''seumnida'''!"|ref=2011, ''Qilu Evening News'', "与韩版《仲夏夜之梦》相约"}}
+
+[[zh:思密達]]

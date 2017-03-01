@@ -1,0 +1,56 @@
+{{character info/new}}
+{{also|涝}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=12|sn=15|four=39127|canj=EFFS}}
+
+# [[inundate]], [[flood]]
+# [[torrent]]
+
+====References====
+* {{Han ref|kx=0651.280|dkj=18318|dj=1061.290|hdz=31747.110|uh=6F87|ud=28551|bh=E5FC|bd=58876}}
+
+----
+
+==Chinese==
+{{zh-forms|s=涝}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lào
+|c=lou6,lou4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水12}}
+
+# {{defn|lang=ja|sort=水12}}
+
+====Readings====
+* {{ja-readings|on=[[ろう]] (rō)|kun=[[おおなみ]] (oonami)}}
+
+[[fr:澇]]
+[[hu:澇]]
+[[pl:澇]]
+[[th:澇]]
+[[zh:澇]]

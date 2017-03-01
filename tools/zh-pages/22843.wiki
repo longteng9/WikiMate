@@ -1,0 +1,91 @@
+{{character info/new}}
+{{also|篛}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=09|sn=15|four=88604|canj=HTKR|ids=⿱⺮若}}
+
+====References====
+* {{Han ref|kx=0889.330|dkj=26192|dj=1317.120|hdz=52980.020|uh=7BAC|ud=31660|bh=E6D9|bd=59097}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|竹|若|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation 1===
+{{zh-forms|alt=筪-Min Nan:ha̍h,笚-Min Nan:ha̍h}}
+{{zh-pron
+|m=ruò
+|c=joek6
+|md=niŏh
+|mn=ha̍h/xm,qz:lio̍k/zz:jia̍k
+|mn_note=ha̍h - vernacular; lio̍k/jia̍k - literary
+|mn-t=riag8
+|mn-t_note=literary
+|mc=y
+|oc=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|篛|[[cuticle]] of [[bamboo]] [[plant]]; bamboo [[sheath]]; [[leaf]] of a type of bamboo}}
+
+===Pronunciation 2===
+{{zh-forms|alt=葉}}
+{{zh-pron
+|md=niŏh
+|mn=hio̍h
+|mn_note=vernacular
+|mn-t=hiêh8/hioh8
+|mn-t_note=vernacular (hiêh8 - Chaozhou)
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Min}} [[leaf]]
+
+=====Synonyms=====
+* {{sense|leaf}} {{zh-l|葉}}
+
+====Compounds====
+{{zh-der|茶箬}}
+
+===Pronunciation 3===
+{{zh-forms}}
+{{zh-pron
+|m=nà
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-obsolete}} a type of [[disease]] in [[bamboo]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹09}}
+
+# {{defn|lang=ja|sort=竹09}}
+
+====Readings====
+* {{ja-readings|on=[[じょく]] (joku), [[にゃく]] (nyaku)|kun=[[たけのかわ]] (takenokawa)}}
+
+[[zh-min-nan:箬]]
+[[fr:箬]]
+[[hu:箬]]
+[[mg:箬]]
+[[pl:箬]]
+[[th:箬]]
+[[zh:箬]]

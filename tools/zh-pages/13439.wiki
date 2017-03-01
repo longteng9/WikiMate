@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|坝}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=21|sn=24|four=41127|canj=GMBB|ids=⿰土霸}}
+
+====References====
+* {{Han ref|kx=0242.330|dkj=05630|dj=0482.310|hdz=10502.250|uh=58E9|ud=22761|bh=C5F2|bd=50674}}
+
+----
+
+==Chinese==
+{{zh-forms|s=坝}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bà
+|c=baa3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[dam]]; [[embankment]]
+# {{label|zh|Sichuanese}} flat ground, flag land
+
+===References===
+* 藍勇. 第十三章：歷史時期西南綜合文化區的劃分. 《西南歷史文化地理》. 西南師範大學出版社. 1997. ISBN 7-5621-1603-2.
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土21}}
+
+# {{defn|lang=ja|sort=土21}}
+
+====Readings====
+* {{ja-readings|on=[[は]] (ha), [[へ]] (he)|kun=[[るせき]] (ruseki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=파|rv=pa|mr=p'a}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bá]]|rs=土21}}
+
+# {{defn|lang=vi|sort=土21}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=58e9 Nom Foundation]
+
+[[fr:壩]]
+[[kn:壩]]
+[[li:壩]]
+[[hu:壩]]
+[[pl:壩]]
+[[ta:壩]]
+[[th:壩]]
+[[vi:壩]]
+[[zh:壩]]

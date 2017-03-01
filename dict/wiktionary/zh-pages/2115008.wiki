@@ -1,0 +1,27 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǎnchuàn
+|c=faan2 cyun3
+|mn=hoán-chhoàn
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to play a role one does not usually play in a performance, often of the opposite gender
+#: {{zh-x|在 這 部 電視劇 中 他 反串 了 一 個 女性 角{jué}色。|He '''cross-dressed''' a female role in this TV show.}}
+
+====See also====
+* {{zh-l|扮裝}}
+* {{zh-l|變裝|tr=biànzhuāng}}
+* {{zh-l|易服|tr=yìfú}}
+* {{zh-l|易裝|tr=yìzhuāng}}
+
+[[zh:反串]]

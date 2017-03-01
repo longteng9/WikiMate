@@ -1,0 +1,53 @@
+{{also|中盘}}
+==Chinese==
+{{zh-forms|s=中盘}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhōngpán
+|c=zung1 pun4
+|mn=tiong-pôaⁿ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# the middle stage(s)
+# [[middlegame]]
+
+====Synonyms====
+* {{zh-l|中局}}
+
+{{zh-cat|Board games}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちゅう|ばん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ちゅうばん|y=o}}
+
+===Noun===
+{{ja-noun|ちゅうばん}}
+
+# the middle stage(s)
+# {{lb|ja|board games|sort=ちゅうばん}} [[middlegame]]
+
+[[Category:ja:Board games|ちゅうばん]]
+[[Category:ja:Go|ちゅうばん]]
+[[Category:ja:Shogi|ちゅうばん]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=중반}}
+
+# {{hanja form of|중반|the middle stage(s); [[middlegame]]}}
+
+[[ko:中盤]]
+[[zh:中盤]]

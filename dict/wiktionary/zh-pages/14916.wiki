@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|帧}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=50|rad=巾|as=09|sn=12|four=41286|canj=LBYBC|ids=⿰巾貞}}
+
+# [[picture]], [[scroll]]
+# [[one]] of a [[pair]] of
+
+====References====
+* {{Han ref|kx=0334.060|dkj=08982|dj=0641.100|hdz=10747.050|uh=5E40|ud=24128|bh=B456|bd=46166}}
+
+----
+
+==Chinese==
+{{zh-forms|s=帧}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhèng
+|c=zing3
+|mc=
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}} {{attention|zh|normal defs}}
+# {{lb|zh|computing}} [[frame]]
+#: {{zh-x|掉幀|to drop a frame}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=巾09}}
+
+# {{defn|lang=ja|sort=巾09}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei), [[とう]] (tō), [[ちょう]] (chō)|kun=[[かけもの]] (kakemono)}}
+
+====Compounds====
+* {{ja-r|装幀|そうてい}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[정]], [[탱]]|rv=jeong, taeng|mr=chŏng, t'aeng}}
+
+# {{defn|lang=ko|sort=巾09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=巾09|hanviet=tranh}}
+
+# {{defn|lang=vi|sort=巾09}}
+
+[[fr:幀]]
+[[li:幀]]
+[[hu:幀]]
+[[ja:幀]]
+[[pl:幀]]
+[[th:幀]]
+[[zh:幀]]

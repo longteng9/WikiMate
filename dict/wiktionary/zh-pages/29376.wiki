@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|鑛|礦}}
+==Translingual==
+
+===Etymology===
+Japanese {{Han simp|鑛|f=廣|t=広}}. First attested in 1889<ref>Mari {{smallcaps|Yamashita}}, [http://www.kanken.or.jp/project/data/investigation_incentive_award_2010_yamashita.pdf {{lang|ja|「広」の字体について―略字体の出現時期とその要因―}}], 2011</ref>.
+
+In current form, {{Han compound|金|t1=metal|広}}.
+
+===Han character===
+{{Han char|rn=167|rad=金|as=05|sn=13|four=|canj=CII,XCII|ids=⿰金広}}
+
+# [[mine]]
+# [[mineral]], [[ore]]
+
+====Related characters====
+* [[鑛]] [[礦]] [[砿]]
+
+====See also====
+* {{l|mul|鈎}} <!-- visually similar -->
+
+====References====
+* {{Han ref|kx=1303.101|dkj=40340|dj=1804.150|hdz=64190.111|uh=9271|ud=37489}}
+<references />
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=金05|style=s|kyu=鑛}}
+
+# {{defn|lang=ja|sort=金05}}
+
+====Readings====
+* {{ja-readings|goon=[[こう]] (kō)|kanon=[[こう]] (kō)|kun=[[あらがね]] (aragane)|nanori=[[かね]] (kane)}}
+
+====Compounds====
+* {{ja-l|鉱業}}
+* {{ja-l|鉱石}}
+* {{ja-l|炭鉱}}
+* {{ja-l|鎔鉱炉}}, {{ja-l|溶鉱炉}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=광|eumhun=|rv=gwang|mr=kwang|y=kwang}}
+
+# {{defn|lang=ko|sort=金05}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[kuàng]] ([[kuang4]])|wg=k'uang<sup>4</sup>}}
+
+# {{defn|lang=cmn|sort=金05}}
+
+[[fr:鉱]]
+[[ko:鉱]]
+[[hu:鉱]]
+[[ja:鉱]]
+[[pl:鉱]]
+[[th:鉱]]
+[[zh:鉱]]

@@ -1,0 +1,64 @@
+{{also|批评}}
+==Chinese==
+{{zh-forms|s=批评}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=pīpíng,tl=y
+|c=pai1 ping4
+|h=pfs=phî-phìn
+|mn=qz,tw,xm:phoe-phêng/twvk,zz:phe-phêng
+|ma=y
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[criticize]]
+#: {{zh-x|歡迎 批評 指正|your comments are appreciated}}
+
+===Noun===
+{{zh-noun}}
+
+# [[criticism]]
+
+====Synonyms====
+* {{zh-l|批判}}
+* {{zh-l|評論}}
+
+====Derived terms====
+{{zh-der|自我批評}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひ|ひょう|yomi=on}}
+
+===Noun===
+{{ja-noun|ひひょう}}
+
+# [[criticism]] ([[evaluation]] of craftsmanship, art, etc.); [[critique]]
+
+====Synonyms====
+* {{ja-r|評論|ひょうろん}}
+
+===Verb===
+{{ja-verb-suru|ひひょう}}
+# [[review]], [[evaluate]], [[criticize]]
+
+====Conjugation====
+{{ja-suru|ひひょう}}
+
+[[zh-min-nan:批評]]
+[[ko:批評]]
+[[hu:批評]]
+[[mg:批評]]
+[[ja:批評]]
+[[chr:批評]]
+[[zh:批評]]

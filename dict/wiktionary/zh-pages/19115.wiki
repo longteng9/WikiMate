@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|渇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=08|sn=11|four=36111|canj=EAPP|ids=⿰氵昆}}
+
+====References====
+* {{Han ref|kx=0632.140|dkj=17694|dj=1036.020|hdz=31648.090|uh=6DF7|ud=28151|bh=B256|bd=45654}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|ls=psc|水|昆|c1=s|c2=p|alt1=氵}}.
+
+===Pronunciation===
+{{zh-pron
+|m=hùn,hún
+|c=wan6
+|mc=y
+|oc=y
+|ma=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[mix]]; to [[blend]]; to [[mingle]]
+# to [[bumble]] [[along]]
+
+===Compounds===
+{{zh-der|混亂|混血|一混湯子|二混子|含混|廝混|打混|打混葫蘆|摑混|攪混|流言混語|混一|混一口飯|混世魔王|混事|混人|混作|混俗和光|混元|混充|混入|混冥|混凝|混凝劑|混凝土|混吃混玩|混合|混合使用|混合層|混合林|混合比|混合物|混合疫苗|混合經濟|混合裁判|混合語|混合齒列|混同|混同江|混名|混和|混唚|混嚼舌根|混堂|混夷|混子|混家|混居|混帳|混帳東西|混帳話|混成|混戰|混打|混攪|混日子|混棍|混水|混水摸魚|混汞法|混沌|混沌世界|混淆|混淆不清|混淆是非|混淆視聽|混淆黑白|混淪|混混|混混兒|混混沌沌|混濁|混為一談|混然|混猜|混球|混球兒|混糖|混紡|混纏|混芒|混茫|混號|混蛋|混蟲|混血兒|混話|混說|混賴|混跡|混踐|混身|混造黑白|混錢|混雜|混音|混頭混腦|混飯吃|混鬧|營混子|玄混|玉石混淆|白混|矇混|老混忘|胡廝混|胡拉混扯|胡掄混鬧|胡混|舉世混濁|蒙混|阿混|香水混堂|鬼混|魚目混珠|魚龍混雜|黑白混淆|龍蛇混雜}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=水08}}
+
+# to blend, mix, merge
+# to confuse
+
+====Readings====
+* {{ja-readings|goon=[[こん]] (kon), [[ごん]] (gon) {{non-joyo-reading}}|kanon=[[こん]] (kon)|kun=[[まぜる]] (mazeru), [[まじる]] (majiru), [[まざる]] (mazaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[혼]], [[곤]]|eumhun=|rv=hon, gon|mr=hon, kon|y=hon, kon}}
+
+# ([[섞다|섞을]] [[혼]]): [[mix]], [[confuse]], [[blend]]
+# ([[흐리다|흐릴]] [[혼]]): [[turbid]], [[unclear]]
+# ([[오랑캐]] [[이름]] [[곤]]): (perhaps mixed) [[tribe]]s west of ancient China.
+#* [[混夷]] ([[곤이]], ''gon-i'') tribes west of ancient China
+#* 混夷駾矣 ([[詩經]]) (곤이태의 ([[시경]]), ''gon-i-tae-ui (sigyeong)'') Western tribes ride.
+#* [[西戎]] ([[서융]], ''seo-yung'') tribes west of ancient China
+
+[[Category:Hanja readings|혼]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hổn]], [[hộn]], [[hỗn]], [[xổn]], [[cổn]], [[hỏn]]|rs=水08}}
+
+# {{defn|lang=vi|sort=水08}}
+
+[[fr:混]]
+[[ko:混]]
+[[hu:混]]
+[[mg:混]]
+[[ja:混]]
+[[no:混]]
+[[pl:混]]
+[[th:混]]
+[[zh:混]]

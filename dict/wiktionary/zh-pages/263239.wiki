@@ -1,0 +1,36 @@
+{{also|調查|调查}}
+==Japanese==
+{{ja-kanjitab|ちょう|さ|yomi=on}}
+
+===Etymology===
+From ''chō'' ([[調]], [[investigate]]) + ''sa'' ([[査]], [[look into]])
+
+===Noun===
+{{ja-noun|ちょうさ}}
+
+# [[investigation]], [[examination]], [[inspection]], [[inquiry]], [[enquiry]], [[survey]]
+#: {{ja-usex|国語に関する世論'''調査'''|こくご に かんする よろん '''ちょうさ'''|'''survey''' of public opinion relating to the national language}}
+
+===Verb===
+{{ja-verb-suru|ちょうさ}}
+
+# [[investigate]], [[examine]], [[inspect]], [[inquire]], [[inquire]], [[survey]]
+
+====Conjugation====
+{{ja-suru|ちょうさ}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[cs:調査]]
+[[fr:調査]]
+[[ko:調査]]
+[[lo:調査]]
+[[li:調査]]
+[[hu:調査]]
+[[mg:調査]]
+[[ja:調査]]
+[[pl:調査]]
+[[sv:調査]]
+[[chr:調査]]
+[[zh:調査]]

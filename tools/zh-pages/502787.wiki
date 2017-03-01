@@ -1,0 +1,40 @@
+{{also|分词}}
+==Chinese==
+{{zh-forms|s=分词}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēncí
+|c=fan1 ci4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|grammar}} [[participle]]
+
+====Derived terms====
+{{zh-der|現在分詞|過去分詞}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぶん|し|yomi=on}}
+
+===Noun===
+{{ja-noun|ぶんし}}
+
+# {{lb|ja|grammar|sort=ふんし'}} [[participle]]
+
+===See also===
+* {{ja-r|現在分詞|げんざい ぶんし}}: (''grammar'') [[present participle]]
+* {{ja-r|過去分詞|かこ ぶんし}}: (''grammar'') [[past participle]]
+
+[[Category:ja:Parts of speech|ふんし']]
+
+[[ko:分詞]]
+[[it:分詞]]
+[[lt:分詞]]
+[[nl:分詞]]
+[[ja:分詞]]

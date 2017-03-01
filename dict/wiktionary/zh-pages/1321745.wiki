@@ -1,0 +1,56 @@
+{{also|道敎}}
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàojiào
+|c=dou6 gaau3
+|h=pfs=Tho-kau
+|mn=Tō-kàu
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[Taoism]]; [[Daoism]] {{gloss|as a religion}}
+
+====See also====
+* {{zh-l|道家}}
+
+{{zh-cat|Religion}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|どう|きょう|yomi=on}}
+
+===Etymology===
+From {{m|ja|道|sc=Jpan|tr=dō||way}} + {{m|ja|教|sc=Jpan|tr=kyō||suffix for doctrine}}
+
+===Noun===
+{{ja-noun|どうきょう}}
+
+# [[Taoism]]
+
+===References===
+* {{cite-book|title=Kodansha's ''furigana'' Japanese Dictionary|publisher=Kodansha Inc.|location=Japan|year=1999}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu|pos=noun}}
+
+# {{han tu form of|Đạo giáo|[[Taoism]]}}
+
+[[zh-min-nan:道教]]
+[[fr:道教]]
+[[li:道教]]
+[[hu:道教]]
+[[ja:道教]]
+[[pt:道教]]
+[[zh:道教]]

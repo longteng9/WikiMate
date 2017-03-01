@@ -1,0 +1,128 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=08|sn=12|four=73212|canj=BJNU|ids=⿰月宛}}
+
+# [[wrist]], [[arm]]
+
+====Related characters====
+* [[碗]] [[婉]]
+
+====References====
+* {{Han ref|kx=0987.110|dkj=29631|dj=1440.010|hdz=32092.040|uh=8155|ud=33109|bh=B5C3|bd=46531}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|肉|alt1=⺼|t1=meat, body part|宛|ls=psc|c1=s|c2=p}} – a part of the body.
+
+===Pronunciation===
+{{zh-pron
+|m=wàn
+|c=wun2
+|h=pfs=vón
+|mn=óaⁿ/oán
+|mn_note=óaⁿ - vernacular; oán - literary
+|mn-t=uang2
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=肉08}}
+
+# {{defn|lang=ja|sort=肉08}}
+
+====Readings====
+{{ja-readings|goon=[[わん]] (wan)|kanon=[[わん]] (wan)|kun=[[うで]] (ude), [[かいな]] (kaina)}}
+
+====Compounds====
+* {{ja-r|腕輪|うでわ|[[bracelet]]}}
+* {{ja-r|腕白|わんぱく|[[naughty]]}}
+
+===Etymology 1===
+{{ja-kanjitab|うで|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|うで|acc=2|acc_ref=DJR,NHK,SMK2}}
+
+====Noun====
+{{ja-noun|うで}}
+
+# an [[arm]] ''(of body)''
+
+===Etymology 2===
+From an original form ''kapina'', reduced first to ''kaɸina'', then ''kawina'', then ''kaina''.
+
+====Pronunciation====
+{{ja-pron|yomi=k|かいな|acc=1|acc_ref=DJR,NHK,SMK2|acc2=0|acc2_ref=DJR,NHK,SMK2}}
+
+====Noun====
+{{ja-noun|かいな|hhira=かひな}}
+
+# an arm
+
+===Etymology 3===
+
+====Noun====
+{{ja-noun|ただむき}}
+
+# an arm
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|うで]]
+[[Category:ja:Anatomy|うで]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=완|eumhun=|rv=wan|mr=wan|y=wan}}
+
+# {{defn|lang=ko|sort=肉08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[oản]], [[uyển]]|rs=肉08}}
+
+# {{defn|vi}}
+
+[[fr:腕]]
+[[ko:腕]]
+[[lo:腕]]
+[[lt:腕]]
+[[hu:腕]]
+[[mg:腕]]
+[[fj:腕]]
+[[ja:腕]]
+[[no:腕]]
+[[uz:腕]]
+[[pl:腕]]
+[[pt:腕]]
+[[ru:腕]]
+[[sv:腕]]
+[[th:腕]]
+[[chr:腕]]
+[[tr:腕]]
+[[zh:腕]]

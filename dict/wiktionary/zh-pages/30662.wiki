@@ -1,0 +1,97 @@
+{{character info/new}}
+{{also|阵}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=170|rad=阜|as=07|sn=10|four=75206|canj=NLJWJ|ids=⿰阝車}}
+
+====References====
+* {{Han ref|kx=1352.060|dkj=41667|dj=1854.030|hdz=64129.070|uh=9663|ud=38499|bh=B07D|bd=45181}}
+
+----
+
+==Chinese==
+{{zh-forms|s=阵}}
+
+===Alternative forms===
+* {{zh-l|陳|tr=-}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhèn
+|c=zan6
+|mn=tīn/chūn
+|mn_note=tīn - vernacular, chūn - literary
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# A short moment of time.
+# {{non-gloss definition|Classifier for short periods of an event.}}
+#: {{zh-x|一 陣 雨|a brief spell of rain}}
+# [[column]], [[row]] or [[file]] of [[troops]]
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|6816}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=阜07}}
+
+====Readings====
+* {{ja-readings|goon=[[じん]] (jin)|kanon=[[ちん]] (chin) {{non-joyo-reading}}|kun=[[じんだて]] (jindate), [[いくさ]] (ikusa)|nanori=}}
+
+===Noun===
+{{ja-noun|じん}}
+
+# battle formation
+# [[camp]]
+
+===Suffix===
+{{ja-pos|じん|suffix}}
+
+# group
+#: {{ja-usex|1万人以上の講師陣|1 まん にん いじょう の こうし-じん|a group of over 10,000 teachers}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=진|eumhun=|rv=jin|mr=chin|y=cin}}
+
+# {{defn|lang=ko|sort=阜07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trận]], [[giận]], [[trặn]], [[chận]], [[chặn]], [[chiến]]|rs=阜07}}
+
+# [[battle]], [[fight]]
+
+====Usage notes====
+* Chữ Nôm. The modern Vietnamese word for battle is [[trận]].
+* This character only means silver in Vietnamese chữ Nôm. In Chinese, this character has a different meaning.
+
+====References====
+* [http://www.chunom.org/pages/陣 www.chunom.org]
+
+[[zh-min-nan:陣]]
+[[fr:陣]]
+[[ko:陣]]
+[[hu:陣]]
+[[mg:陣]]
+[[ja:陣]]
+[[pl:陣]]
+[[th:陣]]
+[[zh:陣]]

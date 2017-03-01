@@ -1,0 +1,86 @@
+{{also|唸珠}}
+==Chinese==
+{{zh-forms|t2=唸珠}}
+
+===Pronunciation===
+{{zh-pron
+|m=niànzhū,er=y
+|c=nim6 zyu1
+|mn=liām-chu
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[prayer beads]]; [[rosary]]
+# [[bead]]
+
+====Derived terms====
+{{zh-der|念珠菌|念珠菌症}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|ねん|す|k2=ず|r=y}}
+From {{etyl|ltc|ja|sort=ねんず}} compound {{m|zh|念珠|tr=nem<sup>H</sup> t͡ɕio|lit=thinking + pearls}}, in reference to “beads used for thinking [about the [[Buddha]]]”: that is, [[prayer beads]], a [[rosary]]. The [[呉音#Japanese|goon]] reading, so likely the earliest borrowing. Note that the second character {{ja-l|珠}} has a goon reading of ''su''. {{rendaku2|sort=ねんず|su|zu}}
+
+====Pronunciation====
+{{ja-pron|yomi=goon|ねんず|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ねんず}}
+
+# [[prayer beads]], [[rosary]]
+
+=====Usage notes=====
+The reading ''nenzu'' is a [[homophone]] with several terms of related meanings:
+* the older reading of the term {{m|ja|念誦|tr=nenzu}}, meaning “the act of focusing on the image of the [[Buddha]] within one's mind, and reciting or chanting the [[sutra]]s or the name of [[Buddha]]”.
+* the classical Japanese verb {{m|ja|念ず|tr=nenzu}} (modern {{m|ja|念ずる}} ''nenzuru'' or {{m|ja|念じる}} ''nenjiru'') meaning “to pray, to pray for safety and protection, to recite silently (a prayer, chant, sutra, or the name of Buddha)”.
+* the classical Japanese verb {{m|ja|捻ず}} or {{m|ja|拈ず|tr=nenzu|pos=obsolete in modern Japanese}}, meaning “to twist or twirl, to pinch or pick with the fingers”, much as one would twist or pinch the beads of the rosary.
+
+Both the ''nenzu'' and ''nenju'' readings are still in use. ''Nenju'' appears to be more common.
+
+=====Synonyms=====
+* {{m|ja|数珠|tr=juzu</i>, <i>zuzu}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|ねん|しゅ|k2=じゅ|r=y}}
+Alteration of ''nenzu'' above, using the [[漢音#Japanese|kan'on]] reading of ''shu'' for the {{ja-l|珠}} character.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> {{rendaku2|sort=ねんじゅ|shu|ju}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|ねんじゅ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ねんじゅ}}
+
+# [[prayer beads]], [[rosary]]
+
+=====Usage notes=====
+The reading ''nenju'' is a [[homophone]] with the relatively newer reading of the term {{m|ja|念誦|tr=nenju}}, meaning “the act of focusing on the image of the [[Buddha]] within one's mind, and reciting or chanting the [[sutra]]s or the name of [[Buddha]]”.
+
+Both the ''nenzu'' and ''nenju'' readings are still in use. ''Nenju'' appears to be more common.
+
+=====Synonyms=====
+* {{m|ja|数珠|tr=juzu</i>, <i>zuzu}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=염주}}
+
+# {{hanja form of|염주|[[prayer beads]], [[rosary]]}}
+
+[[zh-min-nan:念珠]]
+[[ko:念珠]]
+[[mg:念珠]]
+[[chr:念珠]]
+[[zh:念珠]]

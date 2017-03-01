@@ -1,0 +1,61 @@
+{{also|开场}}
+==Chinese==
+{{zh-forms|s=开场}}
+
+===Pronunciation===
+{{zh-pron
+|m=kāi場
+|c=hoi1 coeng4
+|h=pfs=khôi-chhòng
+|mn=xm,qz,tw:khui-tiûⁿ/zz:khui-tiôⁿ
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[begin]] (performance)
+# to open a gambling house
+
+===Noun===
+{{zh-noun}}
+
+# curtain-raiser; [[prelude]]
+----
+==Japanese==
+{{ja-kanjitab|かい|じょう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|かいじょう|y=o}}
+
+===Noun===
+{{ja-noun|かいじょう|tr=intrans}}
+
+# opening of an event or public space
+# opening of a new building or facility
+
+====Antonyms====
+* {{ja-r|閉場|へいじょう}}
+
+===Verb===
+{{ja-verb-suru|かいじょう|tr=intrans}}
+
+#[[open]] a store for business, open the curtains of an event, etc.
+# open a building for the first time
+
+====Conjugation====
+{{ja-suru|かいじょう}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=개장}}
+
+# {{hanja form of|개장|}}
+
+[[ko:開場]]
+[[mg:開場]]
+[[zh:開場]]

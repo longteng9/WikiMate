@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=04|sn=9|four=00147|canj=KHNE}}
+
+# [[epidemic]], [[plague]], [[pestilence]]
+
+====References====
+* {{Han ref|kx=0770.180|dkj=22069|dj=1180.180|hdz=42663.080|uh=75AB|ud=30123|bh=ACCC|bd=44236}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=jik6
+|mn=ia̍h/xm,zz,tw:e̍k/qz:ia̍k
+|mn_note=ia̍h - vernacular; e̍k/ia̍k - literary
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|人工免疫|免疫|免疫作用|免疫力|免疫系統|免疫血清|動物檢疫|口服疫苗|口蹄疫|基礎免疫|天然免疫|時疫|晚疫病|檢疫|沙克疫苗|沙賓疫苗|活性疫苗|海港檢疫|混合疫苗|畜疫|疫區|疫氣|疫病|疫癘|疫苗|疫鬼|瘟疫|瘴疫|白喉疫苗|自然免疫|虎疫|被動免疫|防疫|霍亂疫區|驗疫|鼠疫}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=疒04}}
+
+# {{defn|lang=ja|sort=疒04}}
+
+====Readings====
+* {{ja-readings|goon=[[やく]] (yaku)|kanon=[[えき]] (eki)|kun=[[えやみ]] (eyami)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=역|eumhun=|rv=yeok|mr=yŏk|y=yek}}
+
+# {{defn|lang=ko|sort=疒04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dịch]]|rs=疒04}}
+
+# {{defn|lang=vi|sort=疒04}}
+
+[[fr:疫]]
+[[ko:疫]]
+[[hu:疫]]
+[[mg:疫]]
+[[ja:疫]]
+[[no:疫]]
+[[pl:疫]]
+[[th:疫]]
+[[vi:疫]]
+[[zh:疫]]

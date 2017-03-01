@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|辁}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=06|sn=13|four=58014|canj=JJOMG}}
+
+# cart wheel with no spokes
+
+====References====
+* {{Han ref|kx=1243.070|dkj=38304|dj=1719.020|hdz=53530.050|uh=8F07|ud=36615|bh=E079|bd=57465}}
+
+----
+
+==Chinese==
+{{zh-forms|s=辁}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=quán
+|c=cyun4,syun4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|輇才}}
+
+===References===
+* {{R:twedu|B05013}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=車06}}
+
+# {{defn|lang=ja|sort=車06}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen), [[ぜん]] (zen), [[ちゅん]] (chun), [[けん]] (ken), [[げん]] (gen)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|eumhun=|rv=jeon|mr=chŏn|y=cen}}
+
+# {{defn|lang=ko|sort=車06}}
+
+[[fr:輇]]
+[[hu:輇]]
+[[pl:輇]]
+[[th:輇]]
+[[zh:輇]]

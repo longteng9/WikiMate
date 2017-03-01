@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=08|sn=13|four=28932|canj=HDOIP}}
+
+# ripe grain
+# [[harvest]]
+# to know, be familiar with
+
+====References====
+* {{Han ref|kx=0854.340|dkj=25107|dj=1280.010|hdz=42614.070|uh=7A14|ud=31252|bh=B85A|bd=47194}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=rěn
+|c=nam5,jam5,nim1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一稔|五穀豐稔|大稔|小稔|惡稔禍盈|惡稔罪盈|惡稔貫盈|時和歲稔|歲稔年豐|歲豐年稔|民和年稔|熟稔|禍盈惡稔|禍稔惡盈|禍稔蕭牆|稔亂|稔惡不悛|稔知|稔膩|稔色|豐年稔歲|豐稔}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=禾08}}
+
+# {{defn|lang=ja|sort=禾08}}
+
+====Readings====
+* {{ja-readings|goon=[[にん]] (nin)|kanon=[[じん]] (jin)|kanyoon=[[ねん]] (nen)|kun=[[みのる]] (minoru), [[とし]] (toshi), [[みのり]] (minori)|nanori=}}
+
+===Proper noun===
+{{ja-pos|proper|みのる}}
+
+# {{given name|male|lang=ja|sort=みのる}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[임]], [[염]]|eumhun=|rv=im, yeom|mr=im, yŏm|y=im, yem}}
+
+# {{defn|lang=ko|sort=禾08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhẫm]], [[nậm]], [[nẫm]]|rs=禾08}}
+
+# {{defn|lang=vi|sort=禾08}}
+
+[[fr:稔]]
+[[li:稔]]
+[[mg:稔]]
+[[ja:稔]]
+[[pl:稔]]
+[[th:稔]]
+[[vi:稔]]
+[[zh:稔]]

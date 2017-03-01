@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=liángxīn
+|c=loeng4 sam1
+|h=pfs=liòng-sîm
+|mn=liâng-sim/liông-sim
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[conscience]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|りょう|しん|yomi=o}}
+
+===Etymology===
+From {{m|ja|良|sc=Jpan|tr=ryō||good}} + {{m|ja|心|sc=Jpan|tr=shin||heart}}
+
+===Pronunciation===
+* {{homophones|lang=ja|両親}}
+
+===Noun===
+{{ja-noun|りょうしん}}
+# [[conscience]]
+
+====Derived terms====
+* {{l|ja|良心的な}} (''ryōshinteki na''): upright, fair
+* {{l|ja|非良心的な}} (''hiryōshinteki na''): unscrupulous, dishonest
+
+====Idioms====
+* [[良心の呵責]] (''ryōshin no kashaku''): pangs of conscience
+* [[良心が咎める]] (''ryōshin ga togameru''): guilty conscience
+
+[[zh-min-nan:良心]]
+[[ko:良心]]
+[[lt:良心]]
+[[hu:良心]]
+[[mg:良心]]
+[[nl:良心]]
+[[ja:良心]]
+[[pt:良心]]
+[[chr:良心]]
+[[zh:良心]]

@@ -1,0 +1,64 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tíngzhǐ
+|c=ting4 zi2
+|h=pfs=thìn-chṳ́
+|mn=thêng-chí
+|ma=Zh-tíngzhi.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[stop]]; to [[suspend]]
+#: {{zh-x|趕快 停止 你 的 動作，否則 我們 要 開槍 了！|'''Stop''' what you are doing or we'll open fire!}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てい|し|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|ていし|y=o}}
+
+===Noun===
+{{ja-noun|ていし}}
+
+# [[suspension]], [[stoppage]], [[abeyance]]
+# {{lb|ja|medical}} [[arrest]]
+
+===Verb===
+{{ja-verb-suru|tr=both|ていし}}
+
+# {{lb|ja|transitive|sort=ていし}} [[suspend]]
+#: {{ja-usex|アカウントを停止する|アカウント を ていし する|suspend an account}}
+# {{lb|ja|intransitive|sort=ていし}} [[stop]], come to a stop
+#: {{ja-usex|エンジンが停止する|エンジン が ていし する|the engine stalls}}
+
+====Conjugation====
+{{ja-suru|ていし}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Verb===
+{{vi-verb|sc=Hani}}
+
+# {{han tu form of|đình chỉ|to suspend, to recess, to arrest, to cease}}
+
+[[zh-min-nan:停止]]
+[[ko:停止]]
+[[hu:停止]]
+[[mg:停止]]
+[[ja:停止]]
+[[chr:停止]]
+[[uk:停止]]
+[[zh:停止]]

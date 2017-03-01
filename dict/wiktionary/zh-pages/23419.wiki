@@ -1,0 +1,147 @@
+{{character info/new}}
+{{also|绵}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=08|sn=14|four=26927|canj=VFHAB|ids=⿰糹帛}}
+
+# [[cotton]] [[wad]]
+# [[wool]]
+# [[soft]], [[downy]]
+
+====References====
+* {{Han ref|kx=0928.170|dkj=27592|dj=1366.060|hdz=53416.020|uh=7DBF}}
+
+----
+
+==Chinese==
+{{zh-forms|s=绵}}
+
+===Alternative forms===
+* {{zh-l|緜}}
+
+===Pronunciation===
+{{zh-pron
+|m=mián
+|c=min4
+|h=pfs=
+|md=
+|mn=mî/biân |mn_note = mî - vernacular; biân - literary
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[cotton]]
+
+===References===
+* {{thcwd|10784}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=糸08}}
+
+====Readings====
+{{ja-readings
+|goon=[[めん]] (men)
+|kanon=[[べん]] (ben) {{non-joyo-reading}}
+|kun=[[わた]] (wata)
+|nanori=[[う]] (u)
+}}
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja|木綿|木綿 (cotton)}}
+{{wikipedia|Cotton}}
+[[File:CottonPlant.JPG|thumb|250px|{{lang|ja|綿}} (''men'', ''wata''): raw [[cotton]] on the bush.]]
+</div>
+{{ja-kanjitab|yomi=o|めん}}
+From {{etyl|ltc|ja|sort=めん}} {{m|zh|綿|tr=miɛn||wool; cotton; soft, downy}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|めん|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|めん}}
+
+# [[cotton]] {{qualifier|both the fiber and the cloth}}
+
+=====Usage notes=====
+As a standalone noun, the term {{m|ja|木綿|tr=momen||cotton|lit=tree or bush + woolly batting}} is used more often.  This is especially true in speech, to avoid ambiguity with the various homophones, such as {{m|ja|面|tr=men||face}} or {{m|ja|麺|tr=men||noodle}}.
+
+=====Synonyms=====
+* {{ja-r|木綿|もめん}}
+
+===Etymology 2===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+</div>
+{{ja-kanjitab|yomi=k|わた}}
+From {{etyl|ojp|ja|sort=わた}}.  Originally referred to any [[batting]] or [[stuffing]], which was generally unspun [[silk]].  The meaning shifted after the spread of [[cotton]] in the {{w|Muromachi period}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|わた|acc=2|acc_ref=DJR}}
+
+====Alternative forms====
+* {{qualifier|both rare}} {{ja-l|棉}}, {{ja-l|草綿}}
+
+====Noun====
+{{ja-noun|わた}}
+
+# the [[cotton]] plant
+# raw [[cotton]]
+# [[batting]] or [[stuffing]]
+# {{lb|ja|sort=わた|metaphor}} the state of being [[exhausted]] or extremely [[tired]] {{qualifier|likely from the hard work required to pick cotton}}
+#: {{ja-usex|'''綿'''のように疲れた|'''わた''' の よう に つかれた|to be as tired as '''cotton''' → to be [[exhausted]]}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|真綿|まわた}}: [[silk]] [[batting]]; silk [[floss]]
+* {{ja-r|綿菓子|わたがし}}: [[cotton candy]], [[candy floss]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=면|eumhun=|rv=myeon|mr=myŏn|y=myen}}
+
+# {{defn|lang=ko|sort=糸08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=糸08| hanviet = [[miên]], [[men]], [[mền]], [[mên]], [[min]]}}
+
+# {{defn|lang=vi|sort=糸08}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:綿]]
+[[fr:綿]]
+[[ko:綿]]
+[[ku:綿]]
+[[lo:綿]]
+[[hu:綿]]
+[[mg:綿]]
+[[ja:綿]]
+[[km:綿]]
+[[pl:綿]]
+[[ru:綿]]
+[[sv:綿]]
+[[th:綿]]
+[[tr:綿]]
+[[zh:綿]]

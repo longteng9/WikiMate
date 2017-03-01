@@ -1,0 +1,31 @@
+==Japanese==
+{{ja-kanjitab|むろ|まち|yomi=k}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=むろまち|室|tr1=muro|t1=a cellar, a certain kind of storage room|町|tr2=machi|t2=town, district}}.
+
+===Pronunciation===
+* [[訓読み|Kun'yomi]]
+* {{IPA|lang=ja|[mu͍ɽo̞ma̠t͡ɕi]}}
+
+===Proper noun===
+{{ja-pos|proper|むろまち}}
+
+# the Muromachi [[district]] or area along a major street running north and south through the downtown area of [[w:Kyōto|Kyōto]]
+# the north-south [[w:Muromachi Street|Muromachi Street]] in Kyōto
+# the [[w:Muromachi period|Muromachi Period]] in Japan, running from approximately 1336 to 1573; so named for the government offices being located in the Muromachi area of Kyōto
+# the [[w:Muromachi, Tokyo|Muromachi]] area in Nihonbashi, Tōkyō, so named for the area in Kyōto
+
+====Synonyms====
+* {{sense|street in Kyōto}} {{l|ja|室町通|tr=[[むろまちどおり]], ''[[Muromachi-dōri]]''}}
+* {{sense|period in Japan}} {{l|ja|室町時代|tr=[[むろまちじだい]], ''[[Muromachi-jidai]]''}}
+* {{sense|area in Tōkyō}} {{l|ja|日本橋室町|tr=[[にほんばしむろまち]], ''[[Nihonbashi Muromachi]]''}}
+
+====Derived terms====
+* {{l|ja|室町通|tr=[[むろまちどおり]], ''[[Muromachi-dōri]]''}}: [[w:Muromachi Street|Muromachi Street]]
+* {{l|ja|室町時代|tr=[[むろまちじだい]], ''[[Muromachi-jidai]]''}}: the [[w:Muromachi Period|Muromachi Period]]
+* {{l|ja|日本橋室町|tr=[[にほんばしむろまち]], ''[[Nihonbashi Muromachi]]''}}: the [[w:Muromachi, Tokyo|Muromachi]] area in Nihonbashi, Tōkyō
+* {{l|ja|室町殿|tr=[[むろまちどの]], ''[[Muromachi-dono]]''}}: the [[palace]] of the [[Ashikaga]] [[clan]], more often called {{m|ja|花の御所|tr=[[Hana no Gosho]]||Flower Palace}} with the main gate facing Muromachi Street
+* {{l|ja|室町幕府|tr=[[むろまちばくふ]], ''[[Muromachi Bakufu]]''}}: the Muromachi [[shogunate]], also called the [[w:Ashikaga shogunate|Ashikaga shogunate]]
+
+[[zh:室町]]

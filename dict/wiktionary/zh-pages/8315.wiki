@@ -1,0 +1,128 @@
+{{character info/new}}
+{{also|傳}}
+==Translingual==
+{{Han simplified forms|傳|伝|传}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=04|sn=6|four=21231|canj=OMMI,XOMMI|ids=⿰亻云}}
+
+====References====
+* {{Han ref|kx=0096.121|dkj=00462|dj=0204.140|hdz=10117.160|uh=4F1D|ud=20253|bh=C9B4|bd=51636}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=yún
+|c=wan4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only used in|伝伝}}
+
+===Etymology 2===
+{{zh-see|傳|v}}
+
+----
+
+==Japanese==
+
+===Glyph origin===
+{{Han simp|傳|f=專|t=云}}. Compare {{m|ja|転}} from {{m|ja|轉}}.
+
+===Kanji===
+{{ja-kanji|grade=4|rs=人04|style=s|kyu=傳}}
+
+# [[summon]]
+# [[propagate]], [[transmit]]
+
+====Readings====
+* {{ja-readings|goon=[[でん]] (den)|kanon=[[てん]] (ten)|kun=[[つたえる]] ([[伝える]], tsutaeru), [[つたえ]] ([[伝え]], tsutae), [[つたわる]] ([[伝わる]], tsutawaru)}}
+
+====Compounds====
+{{der3|title=Compounds
+| {{ja-l|伝奇}}
+| {{ja-l|伝記}}
+| {{ja-l|伝言}}
+| {{ja-l|伝授}}
+| {{ja-l|伝承}}
+| {{ja-l|伝説}}
+| {{ja-l|伝染}}
+| {{ja-l|伝送}}
+| {{ja-l|伝達}}
+| {{ja-l|伝統}}
+| {{ja-l|伝道}}
+| {{ja-l|伝導}}
+| {{ja-l|伝動}}
+| {{ja-l|伝播}}
+| {{ja-l|伝票}}
+| {{ja-l|伝聞}}
+| {{ja-l|伝来}}
+| {{ja-l|伝令}}
+| {{ja-l|伝音器}}
+| {{ja-l|伝唱}}, {{ja-l|伝誦}}
+| {{ja-l|伝家}}
+| {{ja-l|伝手}}
+| {{ja-l|伝受}}
+| {{ja-l|伝習}}
+| {{ja-l|伝書鳩}}
+| {{ja-l|伝世}}
+| {{ja-l|伝声管}}
+| {{ja-l|伝声器}}
+| {{ja-l|伝線}}
+| {{ja-l|伝奏}}
+| {{ja-l|伝単}}
+| {{ja-l|伝馬}}
+| {{ja-l|伝搬}}
+| {{ja-l|伝法}}
+}}
+
+====Related terms====
+* {{l|ja|伝い}}
+* {{l|ja|伝う}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[전]]|rv=jeon|mr=chŏn|y=cen}}
+
+# {{defn|lang=ko|sort=人04}}
+
+----
+
+==Zhuang==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|ls=psc|人|c1=s|t1=person|云|c2=p|no_och2=y}}.
+
+===Noun===
+{{za-head|noun}}
+
+# {{za-sawndip form of|vunz}}
+
+[[fr:伝]]
+[[ko:伝]]
+[[hu:伝]]
+[[mg:伝]]
+[[ja:伝]]
+[[pl:伝]]
+[[th:伝]]
+[[uk:伝]]
+[[zh:伝]]

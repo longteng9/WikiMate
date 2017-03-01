@@ -1,0 +1,42 @@
+==Japanese==
+{{ja-kanjitab|木|曜}}
+
+===Etymology===
+/mokueu/ > /mokuyoː/. Originally it meant the planet Jupiter<ref name="Amoghavajra" />. A [[calque]] of {{cog|la|dies Iovis}} and its descendants, reinterpreting the day as having been named after the planet [[Jupiter]] (instead of the Roman god). Compare {{m|ja|木星|tr=mokusei|gloss=Jupiter (planet)}}.
+
+===Pronunciation===
+* {{IPA|/mokujoː/|lang=ja}}
+
+===Noun===
+{{ja-noun|もくよう|hhira=もくえう}}
+
+# {{lb|ja|archaic}} planet [[Jupiter]]
+# [[Thursday]]
+
+====Synonyms====
+* {{l|ja|木曜日}} (mokuyōbi)
+
+===See also===
+* {{l|ja|七曜}} (shichiyō)
+
+===References===
+<references>
+<ref name="Amoghavajra">{{w|Amoghavajra}}, [http://www.buddhist-canon.com/SUTRA/JMiJiao/T210398b.htm 文殊師利菩薩及諸仙所說吉凶時日善惡宿曜經, vol. 2, T21, p. 0398b], 759 :<br
+/>日曜太陽胡名蜜波斯名曜森勿天竺名阿儞<small>(泥以反)</small>底耶<small>(二合)</small><br
+/>月曜太陰胡名莫波斯名婁禍森勿天竺名蘇上摩<br
+/>火曜熒惑胡名雲漢波斯名勢森勿天竺名糞盎聲哦囉迦盎<br
+/>水曜辰星胡名咥<small>(丁逸反)</small>波斯名掣森勿天竺名部<small>(引)</small>陀<br
+/>'''木曜'''歲星胡名鶻勿波斯名本森勿天竺名勿哩訶娑跛底<small>(丁以反)</small><br
+/>金曜太白胡名那歇波斯名數森勿天竺名戌羯羅<br
+/>土曜鎮星胡名枳院波斯名翕森勿天竺名賒乃以室折囉</ref>
+</references>
+[[Category:ja:Days of the week|もくよう]]
+
+[[cs:木曜]]
+[[fr:木曜]]
+[[gd:木曜]]
+[[ko:木曜]]
+[[hu:木曜]]
+[[mg:木曜]]
+[[ro:木曜]]
+[[zh:木曜]]

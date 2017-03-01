@@ -1,0 +1,70 @@
+{{also|専門}}
+==Chinese==
+{{zh-forms|s=专门}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhuānmén
+|c=zyun1 mun4
+|c-t=zon1 mon3
+|h=pfs=chôn-mùn
+|mn=choan-bûn/xm,tw:choan-mn̂g/zz:choan-mûi
+|ma=Zh-zhuanmén.ogg
+|cat=a,n
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[special]]
+# [[specialised]]
+# [[technical]]
+
+=====Derived terms=====
+{{zh-der|專門家|專門術語}}
+
+====Noun====
+{{zh-noun}}
+
+# [[specialist]]; [[expert]]
+
+=====Synonyms=====
+* {{zh-l|專家}}
+* {{zh-l|專門家}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhuānmén
+|c=zyun1 mun4-2
+|c-t=zon1 mon3
+|h=pfs=chôn-mùn
+|mn=choan-bûn/xm,tw:choan-mn̂g/zz:choan-mûi
+|ma=Zh-zhuanmén.ogg
+|x=jyenn1 men2
+|cat=adv
+}}
+
+====Adverb====
+{{zh-adv}}
+
+# [[specially]]
+# {{lb|zh|Cantonese|Hakka|Jin}} [[on purpose]]; [[deliberately]]
+# {{lb|zh|Wu|Xiang}} [[always]]
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せん|もん|yomi=on}}
+
+===Noun===
+{{ja-noun|せんもん|shin=専門}}
+
+# [[speciality]]; [[specialty]]; [[subject]] of study; [[expert]]
+
+[[zh-min-nan:專門]]
+[[ko:專門]]
+[[hu:專門]]
+[[mg:專門]]
+[[ja:專門]]

@@ -1,0 +1,23 @@
+{{also|函數}}
+==Chinese==
+{{zh-see|函數}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|すう|yomi=o}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=かんすう}} {{m|zh|sc=Hani|函数}}.
+
+===Noun===
+{{ja-noun|かんすう|kyu=函數}}
+
+# {{lb|ja|mathematics|computer science|sort=かんすう}} [[function]]; {{alternative spelling of|関数|lang=ja}}
+
+[[lt:函数]]
+[[hu:函数]]
+[[mg:函数]]
+[[ja:函数]]
+[[chr:函数]]
+[[zh:函数]]

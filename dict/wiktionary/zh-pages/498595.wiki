@@ -1,0 +1,57 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=shíyīng
+|c=sek6 jing1
+|mn=chio̍h-eng
+|w=5zaq in
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[quartz]]
+
+====Descendants====
+{{CJKV||せきえい|석영|thạch anh}}
+
+====See also====
+* {{zh-l|水晶}}
+
+{{zh-cat|Gems}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せき|えい|yomi=o}}
+
+===Noun===
+{{ja-noun|せきえい}}
+
+# {{lb|ja|mineralogy}} [[quartz]]
+# (''gem'') [[crystal]]
+
+[[Category:ja:Gems|せきえい]]
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu|pos=noun}}
+
+# {{han tu form of|thạch anh|[[quartz]]}}
+
+[[ko:石英]]
+[[hu:石英]]
+[[mg:石英]]
+[[ja:石英]]
+[[pt:石英]]
+[[zh:石英]]

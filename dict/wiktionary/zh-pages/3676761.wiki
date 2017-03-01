@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|げき|ぞう|yomi=on}}
+
+===Noun===
+{{ja-noun|げきぞう}}
+
+# sudden [[increase]]
+
+====Antonyms====
+* {{l|ja|激減}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|げきぞう}}
+
+# [[show]] a sudden increase
+#: {{ja-usex|高齢者による犯罪が激増する|こうれいしゃ に よる はんざい が げきぞう する|crime by the elderly is increasing sharply}}
+
+====Conjugation====
+{{ja-suru|げきぞう}}
+
+[[hu:激増]]
+[[ja:激増]]
+[[zh:激増]]

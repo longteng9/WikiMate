@@ -1,0 +1,38 @@
+{{also|骑都尉}}
+==Chinese==
+{{zh-forms|s=骑都尉|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=騎dūwèi
+|c=kei3 dou1 wai3,gei6 dou1 wai3
+|c_note=kei3 dou1 wai3 - vernacular; gei6 dou1 wai3 - literary
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|archaic}} captain of the cavalry
+
+===References===
+* {{pedialite|Cao Cao}}
+* {{cite-book
+|last=Luo
+|first=Guanzhong
+|authorlink=w:Luo Guanzhong
+|coauthors=
+|year=
+|title=[[s:Romance of the Three Kingdoms/Chapter 1#22|Romance of the Three Kingdoms/Chapter 1]]
+|language=Mandarin/English
+|publisher=
+|location=
+}}
+* {{cite-web
+|url=http://www.chinese-tools.com/tools/chinese-dictionary.html?dico=%E9%83%BD%E5%B0%89
+|title=都尉
+|work=Chinese-Tools.com Chinese Chinese Dictionary
+|language=Mandarin
+|accessdate=2007-12-30}}
+
+[[Category:zh:Job titles in Romance of the Three Kingdoms|馬08騎都尉]]

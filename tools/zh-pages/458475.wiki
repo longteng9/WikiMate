@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Reborrowed into Taiwanese {{etyl|nan|-}} and {{etyl|hak|-}} from {{etyl|ja|zh}} {{ja-r|感心|かんしん}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gǎnxīn
+|c=gam2 sam1
+|h=pfs=kám-sîm
+|mn=kám-sim
+|cat=a
+}}
+
+===Noun===
+{{zh-adj}}
+
+# {{lb|zh|literary|or|Taiwan|_|Min Nan|Hakka}} [[touching]]; [[moving]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|しん|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|かんしん|y=o}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|かんしん}}
+
+# [[admirable]], [[commendable]], [[praiseworthy]]
+#: {{ja-usex|働いている感心な娘|はたらいている かんしん な むすめ|daughter of commendable diligence}}
+
+===Noun===
+{{ja-noun|かんしん}}
+
+# [[admiration]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|かんしん}}
+
+# [[admire]], be deeply [[impressed]]
+
+====Conjugation====
+{{ja-suru|かんしん}}
+
+[[zh-min-nan:感心]]
+[[fr:感心]]
+[[sw:感心]]
+[[hu:感心]]
+[[mg:感心]]
+[[ja:感心]]
+[[chr:感心]]
+[[zh:感心]]

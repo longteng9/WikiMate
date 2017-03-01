@@ -1,0 +1,23 @@
+==Chinese==
+{{zh-forms|alt=*於䖘,烏䖘}}
+
+===Etymology===
+{{zh-l|*於}} is a prefix to indicate respect for the dangerous animal; compare {{zh-l|老|old; venerable}} in {{zh-l|老虎|tiger}}.
+
+{{zh-l|*菟}} is from {{inh|zh|sit-pro|*k-la}}, from {{der|zh|mkh-pro|*klaʔ}}. Cognate with {{och-l|虎}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wūtú
+|c=wu1 tou4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|obsolete|ancient Chu dialect}} [[tiger]]
+
+{{zh-cat|Panthers}}
+
+[[zh:於菟]]

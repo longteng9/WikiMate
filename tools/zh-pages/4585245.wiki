@@ -1,0 +1,10 @@
+==Japanese==
+{{ja-kanjitab|し|ぜん|げん|ご|り|かい|yomi=o}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=しぜんげんごりかい|自然|tr1=shizen|t1=natural|言語|tr2=gengo|t2=language|理解|tr3=rikai|t3=understanding}}. Calque of {{etyl|en|ja|sort=しぜんげんごしょり}} {{m|en|natural language understanding}}. [[Category:Japanese calques|しぜんげんごりかい]]
+
+===Noun===
+{{ja-noun|しぜんげんごりかい}}
+
+# [[natural language understanding]]

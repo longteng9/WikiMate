@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=12|sn=15|four=64018|canj=RGBT|ids=⿰口壹}}
+
+# [[choke]]
+# [[hiccup]]
+
+====References====
+* {{Han ref|kx=0208.280|dkj=04307|dj=0431.200|hdz=10681.030|uh=564E|ud=22094|bh=BC4F|bd=48207}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yē
+|c=jit3
+|mn=eh
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|以噎廢飧|吃飯防噎|哽噎|哽噎難言|嗚噎|噎人|噎嘔|噎膈|噎饑|因噎廢食|打噎|抽噎|抽抽噎噎|氣噎|臉白氣噎|臨噎掘井|見噎廢食}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口12}}
+
+# {{defn|lang=ja|sort=口12}}
+
+====Readings====
+* {{ja-readings|on=[[いつ]] (itsu), [[えつ]] (etsu)|kun=[[むせぶ]] (musebu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=열|rv=yeol|mr=yŏl}}
+
+# {{defn|lang=ko|sort=口12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ế]], [[nhắc]], [[nhắt]], [[nhốt]]|rs=口12}}
+
+# {{defn|lang=vi|sort=口12}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=564e Nom Foundation]
+
+[[fr:噎]]
+[[li:噎]]
+[[hu:噎]]
+[[mg:噎]]
+[[ja:噎]]
+[[pl:噎]]
+[[th:噎]]
+[[zh:噎]]

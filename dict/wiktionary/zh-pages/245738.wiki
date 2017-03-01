@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=kǔlì
+|c=fu2 lik6
+|h=pfs=khú-li̍t
+|mn=khó͘-le̍k/khó͘-lo̍h/ku-lí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[labor]]; [[hard]] [[work]]
+# a [[coolie]]; a laborer
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|yomi=irr|sort=くうりい|くー|りー}}
+
+===Etymology===
+{{ateji|c=y|sort=くうりい}}<br>
+{{borrowing|ja|cmn|苦力|tr=kǔlì|sort=くうりい}}.<ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=irr|クーリー|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|クーリー}}
+
+# a [[coolie]]
+
+===References===
+<references/>
+
+[[zh:苦力]]

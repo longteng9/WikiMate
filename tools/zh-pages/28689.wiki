@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=07|sn=11|four=39308|canj=YKHF|ids=⿺辶狄}}
+
+# [[far]], [[distant]]
+# [[keep]] at a distance
+
+====References====
+* {{Han ref|kx=1257.240|dkj=38886|dj=1743.130|hdz=63843.110|uh=9016|ud=36886|bh=B37C|bd=45948}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tì
+|c=tik1
+|mn=te̍k
+|mc=y
+|oc=y
+|ma=
+|cat=a,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辵07}}
+
+# [[run away|Run away]], [[disappear]], bend to the side, move to the side to avoid.<ref name="gakken">{{cite-book|year=2002|author=Akiyasu Tōdō [''et al.'']|title=漢字源|ISBN=978-4053008893|passage=逖 逷}}</ref>
+# [[far|Far]] in distance.<ref name="gakken"/>
+
+====Readings====
+* {{ja-readings|on=[[てき]] (teki)|kun=[[とおい]] (tooi)|nanori=}}
+
+====References====
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=적|eumhun=|rv=jeok|mr=chŏk|y=cek}}
+
+# {{defn|lang=ko|sort=辵07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=辵07| hanviet = địch}}
+
+# {{defn|lang=vi|sort=辵07}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=9016 Nom Foundation]
+
+[[fr:逖]]
+[[hu:逖]]
+[[mg:逖]]
+[[ja:逖]]
+[[pl:逖]]
+[[th:逖]]
+[[zh:逖]]

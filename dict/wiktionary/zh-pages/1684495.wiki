@@ -1,0 +1,76 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gōngjù
+|c=gung1 geoi6
+|h=pfs=kûng-khí
+|mn=kang-khū
+|ma=Zh-gongjù.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[tool]]; [[instrument]]; [[implement]] {{zh-mw|m:件}}
+#: {{zh-x|生產 工具|'''tools''' used in production}}
+#: {{zh-x|書寫 工具|writing '''implement'''}}
+# [[tool]]; [[means]] to [[achieve]] an [[objective]]
+#: {{zh-x|交流 工具|'''means''' of communication}}
+#: {{zh-x|書 是 傳遞 文明 的 工具。|Books are a '''tool''' for transmitting civilization.}}
+
+====Derived terms====
+{{zh-der|工具鋼|工具書|交通工具}}
+
+====Descendants====
+{{CJKV||こうぐ|공구|công cụ}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|ぐ|yomi=on}}
+{{wikipedia|lang=ja}}
+
+===Pronunciation===
+* {{ja-pron|こうぐ|acc=1|y=o|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|こうぐ}}
+
+# [[tool]]s {{gloss|especially for [[craftsmanship]] or [[carpentry]]}}
+
+====Hypernyms====
+* {{ja-l|道具|どうぐ}}
+
+====Hyponyms====
+* {{ja-l|金槌|かなづち}}, {{ja-l|鉋|かんな}}, {{ja-l|スパナ}}, {{ja-l|鏨|たがね}}, {{ja-l|鋸|のこぎり}}, {{ja-l|鑿|のみ}}, {{ja-l|半田鏝|はんだごて}}, {{ja-l|ペンチ}}, {{ja-l|やすり}}
+
+[[Category:ja:Tools]]
+
+===References===
+<references />
+
+----
+
+==Korean==
+{{ko-hanjatab|工|具}}
+
+===Noun===
+{{ko-noun|rv=gonggu|hangeul=공구}}
+
+# {{hanja form of|공구|[[tool]]}}
+
+[[zh-min-nan:工具]]
+[[ko:工具]]
+[[ku:工具]]
+[[lo:工具]]
+[[hu:工具]]
+[[mg:工具]]
+[[ja:工具]]
+[[chr:工具]]
+[[uk:工具]]
+[[zh:工具]]

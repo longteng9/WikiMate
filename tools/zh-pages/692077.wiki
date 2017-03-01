@@ -1,0 +1,17 @@
+==Japanese==
+{{ja-kanjitab|ほ|しゅう|ごう|yomi=o}}
+
+===Noun===
+{{ja-noun|ほしゅうごう}}
+
+# {{lb|ja|set theory}} [[absolute complement]]
+
+====See also====
+* {{l|ja|差集合}}
+
+[[Category:ja:Set theory|ほしゅうごう]]
+
+[[ko:補集合]]
+[[it:補集合]]
+[[ja:補集合]]
+[[zh:補集合]]

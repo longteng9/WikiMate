@@ -1,0 +1,126 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=7}}
+
+===Han character===
+{{Han char|rn=32|rad=土|as=04|sn=7|four=47120|canj=GPIM,GPMM|ids=⿰土匀}}
+
+# [[equal]], [[even]], [[fair]]
+# [[all]], [[also]]
+# [[key]], [[pitch]] (in Chinese music)
+
+====References====
+* {{Han ref|kx=0224.310|dkj=04916|dj=0459.200|hdz=10425.060|uh=5747|ud=22343|bh=A7A1|bd=42913}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jūn
+|c=gwan1,kwan1
+|h=pfs=kiûn
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=土04}}
+
+# [[gentle]]
+# [[equalize]]
+# [[equally]]
+
+====Readings====
+{{ja-readings
+|goon=[[うん]] (un) {{non-joyo-reading}}, [[きん]] (kin)
+|kanon=[[うん]] (un) {{non-joyo-reading}}, [[きん]] (kin)
+|kanyoon=[[いん]] (in) {{non-joyo-reading}}
+|kun=[[ならす|なら・す]] ([[均す]], nara-su)
+|nanori=[[お]] (o), [[ただ]] (tada), [[なお]] (nao), [[なり]] (nari), [[ひとし]] (hitoshi), [[ひら]] (hira), [[まさ]] (masa)}}
+
+====Compounds====
+{{top4}}
+* [[均一]]
+* [[均衡]]
+{{mid4}}
+* [[均輸法]]
+* [[均斉]]
+{{mid4}}
+* [[均沾]]
+* [[均田]]
+{{mid4}}
+* [[均等]]
+{{bottom}}
+
+====References====
+{{ja-kref
+|ku=2249
+|shift=8BCF
+|jis=3651
+|euc=B6D1
+|skip=1-3-4
+|freq=715
+|nelson=1065
+|newnelson=988
+|halpern=235
+|kld=173
+|heisig=160
+|tuttle=3b4.8
+}}
+
+===Proper noun===
+{{ja-pos|proper|ひとし}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|ひとし]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=균|rv=gyun|mr=kyun}}
+
+# {{defn|lang=ko|sort=土04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quân]]|rs=土04}}
+
+# {{defn|lang=vi|sort=土04}}
+
+[[zh-min-nan:均]]
+[[fr:均]]
+[[ko:均]]
+[[li:均]]
+[[hu:均]]
+[[mg:均]]
+[[ms:均]]
+[[ja:均]]
+[[no:均]]
+[[pl:均]]
+[[th:均]]
+[[zh:均]]

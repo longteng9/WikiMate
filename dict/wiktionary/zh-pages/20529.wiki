@@ -1,0 +1,91 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=08|sn=11|four=45227|canj=KHQMB|ids=⿰犭青}}
+
+===References===
+* {{Han ref|kx=0714.010|dkj=20499|dj=1125.200|hdz=21351.070|uh=731C|ud=29468|bh=B271|bd=45681}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|犬|alt1=犭|青|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=cāi
+|ma=y
+|c=caai1
+|h=pfs=
+|md=chăi
+|mn=chhai
+|w=1tshe,1tshoe
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[guess]]; to [[suppose]]; to [[conjecture]]
+# to [[suspect]]; to have a [[suspicion]]
+# [[suspicion]]; [[jealousy]]
+
+====See also====
+* {{zh-l|估}}
+
+===Compounds===
+{{zh-der|猜不透|猜不著/猜得着|猜測|猜忖|猜得著|猜斷|猜度|猜忌|猜枚|猜謎兒|猜謎|猜摸|猜破|猜拳|猜思|猜題|猜透|猜嫌|猜詳|猜想|猜啞謎|猜疑|猜著/猜着|猜中|慮猜|兩小無猜|左猜|三智五猜|兩無猜疑|猜懼|混猜|猜燈|猜三划五|猜貳|猜調|猜悶兒|猜忍|疑猜|無猜|瞎猜|胡猜}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=犬08}}
+
+# {{defn|lang=ja|sort=犬08}}
+
+====Readings====
+* {{ja-readings|on=[[さい]] (sai)|kun=[[ねたむ]] (netamu)}}
+
+====Compounds====
+* {{ja-r|猜疑|さいぎ}}
+* {{ja-r|猜疑心|さいぎしん}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=시|eumhun=|rv=si|mr=si|y=si}}
+
+# {{defn|lang=ko|sort=犬08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sai]], [[xai]]|rs=犬08}}
+
+# {{defn|lang=vi|sort=犬08}}
+
+[[fr:猜]]
+[[ko:猜]]
+[[lt:猜]]
+[[hu:猜]]
+[[mg:猜]]
+[[ja:猜]]
+[[no:猜]]
+[[pl:猜]]
+[[th:猜]]
+[[chr:猜]]
+[[uk:猜]]
+[[zh:猜]]

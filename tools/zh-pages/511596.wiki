@@ -1,0 +1,66 @@
+{{also|邮便}}
+==Chinese==
+{{zh-forms|s=邮便}}
+
+===Etymology===
+{{bor|nan|ja|-}} {{ja-r|郵便|ゆうびん}}.
+
+===Pronunciation===
+{{zh-pron
+|mn=iû-piān
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Taiwanese Min Nan}} [[postal]] [[service]]
+
+====Derived terms====
+{{zh-der|郵便船|郵便局|郵便箱|郵便筒|郵便桶|郵便電信局}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ゆう|びん|yomi=on}}
+
+===Pronunciation===
+{{ja-accent-common|h|ゆ|うびん}}
+
+===Noun===
+{{ja-noun|ゆうびん|hhira=いうびん}}
+
+# [[postal]] service
+# [[mail]], postal matter
+
+====Derived terms====
+* {{ja-r|郵便葉書|gloss=postal postcard|ゆうびん はがき}}
+* {{ja-r|郵便番号|gloss=postal code|ゆうびん ばんごう}}
+* {{ja-r|郵便局|gloss=post office|ゆうびんきょく}}
+
+====See also====
+* {{m|ja|〒||(postal mark symbol)|sc=Jpan}}
+
+===References===
+* {{R:Shogakukan}}
+* {{R:NHK Hatsuon}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=우편}}
+
+# {{hanja form of|우편|[[mail]], [[post]]}}
+
+[[fr:郵便]]
+[[ko:郵便]]
+[[lo:郵便]]
+[[mg:郵便]]
+[[ja:郵便]]
+[[pl:郵便]]
+[[sm:郵便]]
+[[chr:郵便]]
+[[zh:郵便]]

@@ -1,0 +1,85 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=09|sn=12|four=46181|canj=GAMO|ids=⿰土是}}
+
+# [[dike]]
+
+====References====
+* {{Han ref|kx=0233.200|dkj=05259|dj=0470.360|hdz=10463.010|uh=5824|ud=22564|bh=B3F6|bd=46070}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=堤
+|c=tai4
+|mn=thê
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|土堤|圩堤|埂堤|堤壩|堤封|堤岸|堤岸市|堤防|汴堤|決堤|河堤|海堤|白公堤|白堤|築堤|群蟻潰堤|自然堤|范公堤|西堤|長堤|防沙堤|防波堤|須菩堤}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=土09}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei), [[し]] (shi)|kun=[[つつみ]] (tsutsumi)}}
+
+===Noun===
+{{ja-noun|つつみ}}
+
+# [[dike]]
+
+===Proper noun===
+{{ja-pos|つつみ|proper}}
+
+# {{surname|lang=ja|sort=つつみ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=제|rv=je|mr=che}}
+
+# {{defn|lang=ko|sort=土09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chỉ]], [[đê]]|rs=土09}}
+
+# {{defn|lang=vi|sort=土09}}
+
+[[fr:堤]]
+[[ko:堤]]
+[[hu:堤]]
+[[mg:堤]]
+[[ja:堤]]
+[[no:堤]]
+[[pl:堤]]
+[[ru:堤]]
+[[th:堤]]
+[[zh:堤]]

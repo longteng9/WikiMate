@@ -1,0 +1,32 @@
+{{also|階乗|阶乘}}
+
+==Chinese==
+{{zh-forms|s=阶乘}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiēchéng
+|c=gaai1 sing4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|combinatorics}} [[factorial]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|mr=kyesŭng|y=kyeysung|hangeul=계승}}
+
+# {{hanja form of|계승|[[factorial]]}}
+
+[[ko:階乘]]
+[[lt:階乘]]
+[[ja:階乘]]
+[[zh:階乘]]

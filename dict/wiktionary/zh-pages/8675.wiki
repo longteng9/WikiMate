@@ -1,0 +1,87 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuìjìn
+|c=zeoi3 gan6
+|c-t=dui1 gin5*
+|h=pfs=chui-khiun
+|mn=xm,tp:chòe-kūn/zz,kh:chòe-kīn/qz:chòe-kǔn
+|ma=y
+|cat=adv
+}}
+
+====Adverb====
+{{zh-adv}}
+
+# [[recently]]; [[lately]]
+
+===Pronunciation===
+{{zh-pron
+|m=zuìjìn
+|c=zeoi3 kan5,zeoi3 gan6
+|c_note=zeoi3 kan5 - vernacular; zeoi3 gan6 - literary
+|h=pfs=chui-khiûn
+|mn=xm,tp:chòe-kūn/zz,kh:chòe-kīn/qz:chòe-kǔn
+|ma=y
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[nearest]]
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|さい|きん|yomi=on}}
+
+===Etymology===
+{{prefix|最|近|lang=ja|tr1=sai|t1=most|tr2=kin|t2=close|sort=きん}}
+
+===Pronunciation===
+* {{ja-pron|さいきん|y=on|acc=0|acc_ref=DJR}}
+* {{homophones|lang=ja|細菌}}
+
+===Noun===
+{{ja-noun|さいきん}}
+
+# the [[latest]]; the most [[recent]]
+
+===Adverb===
+{{ja-pos|さいきん|adverb}}
+
+# [[nowadays]]
+# [[recently]]
+#* [http://lambda.bugyo.tk/cdr/mwl/index.html マンガで分かるLisp] (Manga Guide to Lisp)
+#*: {{ja-usex|みりん。地域猫。'''最近'''までマクロのことをマグロと思っていた。|みりん。ち.いきねこ。'''さいきん''' まで マクロ の こと を マグロ と おもっていた。|Mirin: A neighbours' cat. Until '''recently''' often confused macros with tuna.}}
+
+====Derived terms====
+* {{ja-r|極最近|ごくさいきん}} ''adv.'' {{qualifier|uncommon}} very recently
+
+===References===
+<references/>
+
+[[Category:Japanese basic words]]
+
+[[zh-min-nan:最近]]
+[[el:最近]]
+[[fr:最近]]
+[[ko:最近]]
+[[it:最近]]
+[[lt:最近]]
+[[hu:最近]]
+[[mg:最近]]
+[[ja:最近]]
+[[pl:最近]]
+[[sv:最近]]
+[[ta:最近]]
+[[th:最近]]
+[[chr:最近]]
+[[uk:最近]]
+[[vi:最近]]
+[[zh:最近]]

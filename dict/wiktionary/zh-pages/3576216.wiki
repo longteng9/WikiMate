@@ -1,0 +1,37 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{wikipedia|Cherry blossom}}
+[[File:Yokohamahizakura.jpg|thumb|250px|{{lang|ja|桜花}}]]
+
+===Etymology 1===
+{{ja-kanjitab|おう|か|yomi=o}}
+From {{etyl|zhx|ja|sort=おうか}} {{m|zh|櫻花}}.
+
+====Pronunciation====
+* [[音読み|On'yomi]]
+* {{ja-pron|おうか}}
+
+====Noun====
+{{ja-noun|おうか|kyu=櫻花|hhira=あうくわ}}
+
+# a [[cherry]] [[blossom]]
+
+=====Derived terms=====
+* {{ja-r|桜花爛漫|おうか らんまん}}: cherry blossoms in full bloom
+
+===Etymology 2===
+{{ja-kanjitab|さくら|はな|k2=ばな|yomi=k|r=y}}
+From {{etyl|ojp|ja|sort=さくらばな}}. Compound of {{compound|lang=ja|sort=さくらばな|桜|tr1=sakura|t1=cherry tree|花|tr2=hana|t2=blossom, flower}}. The ''hana'' changes to ''bana'' due to {{rendaku|さくらばな}}.
+
+====Pronunciation====
+* [[訓読み|Kun'yomi]]
+* {{ja-pron|さくらばな}}
+
+====Noun====
+{{ja-noun|さくらばな|kyu=櫻花}}
+
+# a [[cherry]] [[blossom]]
+
+[[fr:桜花]]
+[[mg:桜花]]
+[[ja:桜花]]

@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gāoxiào
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|education}} college and university
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|こう|yomi=on}}
+
+===Etymology===
+Contraction of {{m|ja|高等学校||high school|tr=こうとうがっこう, kōtō gakkō|sc=Jpan}}.
+
+===Pronunciation===
+{{ja-pron|こうこう|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|count=校|こうこう}}
+
+# {{lb|ja|education|sort=こうこう}} [[high school]]
+
+====Coordinate terms====
+* {{ja-r|保育所|ほいくしょ|gloss=[[nursery school]]}}
+* {{ja-r|幼稚園|ようちえん|gloss=[[kindergarten]]}}
+* {{ja-r|小学校|しょうがっこう|gloss=[[elementary school]], [[first school]]}}
+* {{ja-r|中学校|ちゅうがっこう|gloss=[[junior high school]]}}
+* {{ja-r|高等学校|こうとうがっこう|gloss=[[high school]]}}
+* {{ja-r|大学校|だいがっこう|gloss=[[college]], [[university]]}}
+* {{ja-r|大学|だいがく|gloss=college, university}}
+* {{ja-r|大学院|だいがくいん|gloss=[[graduate school]]}}
+
+===References===
+<references/>
+
+[[fr:高校]]
+[[ko:高校]]
+[[it:高校]]
+[[lo:高校]]
+[[hu:高校]]
+[[ja:高校]]
+[[pt:高校]]
+[[uk:高校]]
+[[zh:高校]]

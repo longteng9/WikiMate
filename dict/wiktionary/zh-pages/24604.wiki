@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|緻}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=133|rad=至|as=04|sn=10|four=18140|canj=MGOK|ids=⿰至攵}}
+
+====References====
+* {{Han ref|kx=1001.19|dkj=30149|dj=1458.050|hdz=42815.060|uh=81F4|ud=33268|bh=AD50|bd=44368}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=zhì
+|ma=y
+|c=zi3
+|h=pfs=chṳ
+|md=
+|mn=tì
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[send]], [[deliver]], [[present]]
+# to [[cause]]
+
+===Etymology 2===
+{{zh-see|緻||delicate}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=至03}}
+
+# {{defn|lang=ja|sort=至03}}
+
+====Readings====
+* {{ja-readings|on=[[ち]] (chi)|kun=[[いたす]] (itasu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=치|eumhun=|rv=chi|mr=ch'i|y=chi}}
+
+# {{defn|lang=ko|sort=至03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=至03| hanviet = nhí}}
+
+# {{defn|lang=vi|sort=至03}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+[[fr:致]]
+[[ko:致]]
+[[hu:致]]
+[[mg:致]]
+[[ja:致]]
+[[no:致]]
+[[pl:致]]
+[[th:致]]
+[[zh:致]]

@@ -1,0 +1,58 @@
+==Chinese==
+{{zh-forms|s=无聊}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=wúliáo
+|c=mou4 liu4
+|h=pfs=n:mò-liàu/vù-liàu
+|mn=xm,qz,zz,twv:bû-liâu/tw:bô-liâu
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[bored]]
+#: {{zh-x|我 沒 什麼 事 幹，正 無聊 著[着]{zhe}。|I haven't been up to much, just being '''bored'''.}}
+# [[boring]]
+#: {{zh-x|這 部 電影 很 無聊。|This movie is '''boring'''.}}
+
+====Descendants====
+* English: {{l|en|bo liao}}
+
+===References===
+* {{cite-book|last=Davidson|first=Marianne (ed.)|coauthors=Julie Kleeman, Sarah Waldram|year=2006|edition=2nd edition|title=Collins Chinese Dictionary|language=English/Chinese|publisher=Collins|location=Glasgow, New York|isbn=978-0-00-722391-6}}
+
+{{zh-cat|Emotions}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぶ|りょう|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|ぶりょう}}
+
+# [[bored]]
+
+====Inflection====
+{{ja-na|ぶりょう}}
+
+===Noun===
+{{ja-noun|ぶりょう}}
+
+# [[ennui]], [[tedium]]
+#* '''1932''', 魯迅, 阿Ｑ正伝:
+#*: {{ja-usex|もし相手が羊のようなものだったら、彼はかえって勝利の'''無聊'''を感じる。|もし あいて が ヒツジ の よう な もの だったら、 かれ は かえって しょうり の '''ぶりょう''' を かんじる。|Conversely, if his opponent is too weak, he will feel '''tedium''' in winning.}}
+
+[[zh-min-nan:無聊]]
+[[fr:無聊]]
+[[ko:無聊]]
+[[hu:無聊]]
+[[mg:無聊]]
+[[fj:無聊]]
+[[ja:無聊]]

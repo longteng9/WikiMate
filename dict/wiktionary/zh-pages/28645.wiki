@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|廸}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=05|sn=9|four=35306|canj=YLW}}
+
+# [[enlighten]], [[advance]]
+# [[progress]]
+# used in transliteration
+
+====References====
+* {{Han ref|kx=1255.030|dkj=38795|dj=1738.210|hdz=63823.100|uh=8FEA|ud=36842|bh=AD7D|bd=44413}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dí
+|c=dik6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|邦迪}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辵05}}
+
+# {{defn|lang=ja|sort=辵05}}
+
+====Readings====
+* {{ja-readings|on=[[てき]] (teki)|kun=[[みち]] (michi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=적|eumhun=|rv=jeok|mr=chŏk|y=cek}}
+
+# {{defn|lang=ko|sort=辵05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[địch]]|rs=辵05}}
+
+# {{defn|lang=vi|sort=辵05}}
+
+[[fr:迪]]
+[[ko:迪]]
+[[mg:迪]]
+[[ja:迪]]
+[[no:迪]]
+[[pl:迪]]
+[[th:迪]]
+[[zh:迪]]

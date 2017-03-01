@@ -1,0 +1,71 @@
+{{character info/new}}
+{{also|蛰}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=11|sn=17|four=45136|canj=GILMI|ids=⿱執虫}}
+
+# to [[hibernate]]
+
+====References====
+* {{Han ref|kx=1096.020|dkj=33537|dj=1560.220|hdz=42883.010|uh=87C4|ud=34756|bh=EE68|bd=61032}}
+
+----
+
+==Chinese==
+{{zh-forms|s=蛰}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|執|虫|c1=p|c2=s|t2=bug|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=蟄
+|c=zaap6,zat6,zit3,zik6
+|mn=qz,xm,zz:ti̍p/qz,tw,xm,zz:ti̍t
+|mn_note=ti̍p - literary; ti̍t - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|出蟄|啟蟄|蟄伏|蟄居|蟄獸|蟄蟄|蟄蟲|蟄陷|蟄雷|閉蟄|驚蟄}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫11}}
+
+# {{defn|lang=ja|sort=虫11}}
+
+====Readings====
+* {{ja-readings|on=[[ちつ]] (chitsu), [[ちゅう]] (chū)|kun=[[かくれる]] (kakureru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=칩|eumhun=|rv=chip|mr=ch'ip|y=chip}}
+
+# {{defn|lang=ko|sort=虫11}}
+
+[[fr:蟄]]
+[[ko:蟄]]
+[[hu:蟄]]
+[[ja:蟄]]
+[[pl:蟄]]
+[[th:蟄]]
+[[zh:蟄]]

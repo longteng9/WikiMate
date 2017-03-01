@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|劢|励}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=19|rad=力|as=15|sn=17|four=74227|canj=MBKS|ids=⿰厲力}}
+
+# [[strive]]
+# [[encourage]]
+
+====References====
+* {{Han ref|kx=0149.440|dkj=02472|dj=0338.100|hdz=10381.170|uh=52F5|ud=21237|bh=C079|bd=49273}}
+
+----
+
+==Chinese==
+{{zh-forms|s=励}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lì
+|c=lai6
+|h=pfs=
+|md=
+|mn=lē
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=力15}}
+
+# {{defn|lang=ja|sort=力15}}
+
+====Readings====
+* {{ja-readings|on=[[れい]] (rei)|kun=[[はげむ]] (hagemu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=려|rv=ryeo|mr=ryŏ}}
+
+# {{defn|lang=ko|sort=力15}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lệ]], [[lẹ]]|rs=力15}}
+
+# {{defn|lang=vi}}
+
+[[fr:勵]]
+[[ko:勵]]
+[[hu:勵]]
+[[ms:勵]]
+[[ja:勵]]
+[[pl:勵]]
+[[th:勵]]
+[[zh:勵]]

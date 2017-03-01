@@ -1,0 +1,112 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|け|はい|yomi=o}}
+
+From {{inh|ja|ojp|sort=けはい|けわい}}, previously spelled as {{m|ja|けはひ}} and probably originally realized as {{IPAchar|/kepapi/}}.  This derived as a compound of {{compound|lang=ja|気|tr1=ke|t1=atmosphere, spirit; feeling, mood|這い|alt2=這ひ|tr2=hahi</i>, modern <i>hai|t2=creeeping, crawling; spreading|pos2=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|這う}} ''hau'', “to crawl, to creep; to spread along the ground, to spread around”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="Daijisen">{{R:Daijisen}}</ref>
+
+The {{m|ja|配|tr=hai||distribution}} kanji was applied to the ''hai'' portion of the reading as an example of {{jukujikun|sort=けはい}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|けはい|acc=2|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|けはい|kyu=氣配}}
+
+# {{l|en|appearance}}, {{l|en|sign}}, {{l|en|hint}}, {{l|en|air}}, {{l|en|promise}}, {{l|en|shadow}} or {{l|en|presence}}
+#: {{ja-usex|人の'''気%配'''がしない。|ひと の '''け%はい''' が しない。|There is no sign of people.}}
+# the {{l|en|state}}, {{l|en|feeling}}, or {{l|en|sentiment}} of a {{l|en|market}}
+# {{lb|ja|fiction|sort=けはい}} a sort of “{{l|en|aura}}” or “{{l|en|chi}}” radiated from people or things that denotes their nearby presence
+#* {{quote-book
+|genre=fiction
+||{{w|Akinobu Uraku}}
+|{{ruby|{{lang|ja|{{w|lang=ja|東京アンダーグラウンド|[東](とう)[京](きょう)アンダーグラウンド}}}}}}
+|trans-title={{w|Tokyo Underground}}
+|location=Tokyo
+|publisher=Enix
+|date=Aug 22 2002
+|isbn=4-7575-0733-X
+|volume=9
+||128
+|{{ja-usex|不%思%議ですねっ　'''気%配'''を消していたのに|^ふ%し%ぎ です ねっ　'''^け%はい''' を けして いた の に|That's strange, I'm pretty sure I erased my '''aura'''}}{{ja-usex|完%璧すぎんだよ　人ゴミの中で逆に浮いてたぜ|^かん%ぺき すぎん だ よ　ひとゴミ の なか で ぎゃく に ういて た ぜ|On the contrary, doing that too perfectly makes you stand out in a crowded area}}
+|chapter={{ruby|{{lang|ja|[泣](な)き[虫](むし)テイル}}}}
+|trans-chapter=Tail the Crybaby
+|language=Japanese}}
+#* {{quote-book
+|language=Japanese
+|location=Tokyo
+|publisher=Kodansha
+|genre=fiction
+||{{w|Clamp (manga artists)|CLAMP}}
+|{{w|lang=ja|ツバサ-RESERVoir CHRoNiCLE-|{{lang|ja|ツバサ ＲＥＳＥＲＶｏｉｒ ＣＨＲｏＮｉＣＬＥ}}}}
+|trans-title={{w|Tsubasa: Reservoir Chronicle|Tsubasa: RESERVoir CHRoNiCLE}}
+|date=Aug 17 2004
+|isbn=4-06-363416-7
+|volume=7
+||29
+|chapter={{ruby|{{lang|ja|[見](み)えない[未](み)[来](らい)}}}}
+|trans-chapter=The Unseen Future
+|{{ja-usex|黒%鋼さんの'''気%配'''だ昨日の桜%都%国の人%達とは違う　同じ生きているものでも'''気%配'''はそれぞれ違うんだ|^くろ%がね-さん の '''け%はい''' だ きのう の ^おう%と%こく の ひと%たち と は ちがう　^おなじ いきて いる もの で も '''け%はい''' は それぞれ ちがう ん だ|Kurogane-san's '''aura''' is different from other people's from yesterday in Ōtokoku, which means '''aura'''s vary even among the same kind of living beings}}}}
+
+=====Synonyms=====
+{{sense|appearance}}
+* {{ja-r|有%様|あり%さま}}, {{ja-r|様%子|よう%す}}, {{ja-r|景%気|けい%き}}
+{{sense|sign}}
+* {{ja-r|兆し|きざし}}, {{ja-r|様%子|よう%す}}
+{{sense|market sentiment}}
+* {{ja-r|景%気|けい%き}}, {{ja-r|市%況|し%きょう}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|き|はい}}
+
+Possibly a shift from ''kehai'' above, using the [[漢音#Japanese|kan'on]] reading of ''ki'' for {{m|ja|気}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|きはい|acc=2|acc_ref=DJR|acc2=0|acc2_ref=DJR|acc3=1|acc3_ref=DJR}}
+
+====Noun====
+{{ja-noun|きはい|kyu=氣配}}
+
+# {{l|en|thoughtfulness}}, {{l|en|consideration}}
+# the {{l|en|appearance}}, {{l|en|state}}, or {{l|en|condition}} of something
+# {{l|en|mood}}, {{l|en|feeling}}, {{l|en|emotion}}
+# the {{l|en|state}}, {{l|en|feeling}}, or {{l|en|sentiment}} of a {{l|en|market}}
+
+=====Synonyms=====
+{{sense|thoughtfulness, consideration}}
+* {{ja-r|配%慮|はい%りょ}}, {{ja-r|心%遣い|こころ%づかい}}, {{ja-r|心%使い|こころ%づかい}}
+{{sense|appearance, state}}
+* {{ja-r|有%様|あり%さま}}, {{ja-r|様%子|よう%す}}, {{ja-r|景%気|けい%き}}
+{{sense|mood, feeling}}
+* {{ja-r|気%分|き%ぶん}}, {{ja-r|気%持|き%もち}}
+{{sense|market sentiment}}
+* {{ja-r|景%気|けい%き}}, {{ja-r|市%況|し%きょう}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=j|き|くば|o2=り}}
+
+Compound of {{compound|lang=ja|sort=きくばり|気|tr1=ki|t1=atmosphere, spirit; feeling, mood|配り|tr2=kubari|t2=distributing; spreading, as one's attention or care|pos2=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|配る}} ''kubaru'', “to distribute; to spread, as one's attention or care”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|きくばり|acc=2|acc_ref=DJR}}
+
+====Alternative forms====
+* {{m|ja|気配り}}
+
+====Noun====
+{{ja-noun|きくばり|kyu=氣配}}
+
+# {{l|en|thoughtfulness}}, {{l|en|consideration}}
+
+=====Synonyms=====
+* {{ja-r|配%慮|はい%りょ}}
+* {{ja-r|心%遣い|こころ%づかい}}, {{ja-r|心%使い|こころ%づかい}}
+
+===References===
+<references/>
+
+[[ko:気配]]
+[[hu:気配]]
+[[mg:気配]]
+[[ja:気配]]
+[[zh:気配]]

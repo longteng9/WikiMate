@@ -1,0 +1,85 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=07|sn=11|four=41961|canj=DMMR|ids=⿰木吾}}
+
+====References====
+* {{Han ref|kx=0530.110|dkj=14872|dj=0918.090|hdz=21211.020|uh=68A7|ud=26791|bh=B1EF|bd=45551}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wú,wù,yǔ
+|c=ng4
+|mn=qz,tw,xm:ngô͘/twv,zz:gô͘
+|mc=y
+|oc=y
+|ma=
+|cat=pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# Chinese parasol [[tree]] {{gloss|{{taxlink|Firmiana platanifolia|species|noshow=1}}}}, also known as {{taxlink|Sterculia platanifolia|species|noshow=1}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木07}}
+
+# {{defn|lang=ja|sort=木07}}
+
+====Readings====
+{{ja-readings|goon=[[ぐ]] (gu)|kanon=[[ご]] (go)|kun=[[あおぎり]] (aogiri)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|魁梧|かいご}}
+* {{ja-r|梧下|ごか}}
+* {{ja-r|梧窓漫筆|ごそうまんぴつ}}
+* {{ja-r|梧桐|ごとう}}
+* {{ja-r|梧右|ごゆう}}
+* {{ja-r|梧葉|ごよう}}
+* {{ja-r|蒼梧|そうご}}
+* {{ja-r|蒼梧|^そうご}}: [[w:Jiuyi Mountains|Jiuyi Mountains]]
+* {{ja-r|梯梧|でいご}}: [[Indian coral tree]]
+* {{ja-r|碧梧|へきご}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=오|eumhun=|rv=o|mr=o|y=o}}
+
+# {{defn|lang=ko|sort=木07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngô]]|rs=木07}}
+
+# {{defn|lang=vi|sort=木07}}
+
+[[fr:梧]]
+[[hu:梧]]
+[[mg:梧]]
+[[ja:梧]]
+[[no:梧]]
+[[pl:梧]]
+[[th:梧]]
+[[zh:梧]]

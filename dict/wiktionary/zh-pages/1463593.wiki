@@ -1,0 +1,51 @@
+==Japanese==
+{{ja-kanjitab|わか|きみ|k2=ぎみ|r=y|yomi=kun}}
+
+===Etymology===
+Compound of {{compound|若|tr1=waka|t1=youth, child|君|tr2=kimi|t2=lord|lang=ja}}. The medial /k/ voices to /g/ due to the compounding in a phenomenon known as [[w:Rendaku|rendaku]].
+
+===Noun===
+{{ja-noun|わかぎみ}}
+
+# title for a child of a high-ranking aristocrat or noble; used for both male or female children
+#* {{RQ:Utsubo Monogatari|Fujiwara no Kimi}}
+#*: かくて、父母の住み給ふまちには、寝殿には、ありて宮より初め奉りて、こなたの御腹の'''若君'''達、内裏の女御の御腹の女宮たちなど、みな大殿一殿に、髫髪、下仕なむど、かたち心ある中に、勝りたるを、選り侍らはせ給ふ。
+#* {{RQ:Genji Monogatari|Yūgao}}
+#*: 右近、はた、かしがましく言ひ騒がれんを思ひて、君も、「今更にもらさじ」と、忍び給へば、'''若君'''の上をだに、え聞かず、あさましく、ゆくへなくて過ぎ行く。
+# (in contrast to {{m|ja|姫君|tr=himegimi}}) the title for a son of a high-ranking aristocrat or noble
+#* c. 11th century: [[w:Tsutsumi Chūnagon Monogatari|Tsutsumi Chūnagon Monogatari]] (Kai awase)
+#*: まろが御前は、ただ'''若君'''一ところにて、いみじくわりなくおぼゆれば、ただいまも、姉君の御もとに人やらむとて。
+#* c. 12th century: [[w:Torikaebaya Monogatari|Torikaebaya Monogatari]] (volume 1)
+#*: おほかたは、ただ同じ物と見ゆる御かたちの、'''若君'''は、あてにかほりけだかく、なまめかしき方添ひて見え給、姫君は、はなばなとほこりかに、見ても飽く世なく、あたりにもこぼれちる愛敬などぞ、今より似るものなく物し給ふける。
+#* {{RQ:Nippo Jisho|675}}
+#*: '''Vacaguimi'''. ワカギミ (若君) まだ幼い公子、すなわち、大身の主君の子息.
+
+===See also===
+* {{ja-r|姫君|ひめぎみ}}
+
+===References===
+* {{R:Nippo Jisho}}
+* {{R:Utsubo Monogatari 1}}
+* {{cite-book
+|last=Ōtsuki
+|first=Osamu
+|coauthors=Gen'e Imai, Sumiaki Morishita, Masao Karashima
+|title=Shin Nihon Koten Bungaku Taikei 26: Tsutsumi Chūnagon Monogatari, Torikaebaya Monogatari
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|year=1992
+|location=[[w:Tōkyō|Tōkyō]]
+|language=Japanese
+|isbn=4-00-240026-3
+}}
+* {{cite-book
+|last=Yamagishi
+|first=Tokuhei
+|title=Nihon Koten Bungaku Taikei 14: [[w:The Tale of Genji|Genji Monogatari]]
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|year=1958
+|location=[[w:Tōkyō|Tōkyō]]
+|language=Japanese
+|isbn=4-0006-0014-1
+}}
+
+[[zh:若君]]

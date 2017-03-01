@@ -1,0 +1,78 @@
+{{also|高丽}}
+==Chinese==
+{{zh-forms|s=高丽}}
+
+===Pronunciation===
+{{zh-pron
+|m=Gāolí
+|c=gou1 lai6
+|h=pfs=Kô-lì
+|mn=Ko-lê
+|w=1kau li
+|cat=pn,n
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{lb|zh|historical}} [[Goryeo]]
+
+====Derived terms====
+{{zh-der|高麗菜|高麗參|高麗棒子|高麗本|高麗紙|胖高麗}}
+
+====Descendants====
+* → Lao: {{l|lo|ເກົາຫລີ||Korea}}
+* → Thai: {{l|th|เกาหลี||Korea}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Min Nan}} [[Korean]] [[ginseng]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|sort=こま|yomi=irr|こう|k1=こ|ま}}
+{{ja-kanjitab|こう|らい|yomi=o}}
+{{wikipedia|lang=ja}}
+
+===Etymology===
+Ultimately from {{der|ja|ko|고려|sort=こうらい}}<br>{{IPAchar|/ko<small>2</small>ma/ [kwoma] > [koma]}}
+
+===Pronunciation===
+{{ja-pron|acc=h|acc2=a|こうらい|y=go}}
+
+===Proper noun===
+{{ja-pos|proper|こうらい|hhira=かうらい}} {{ja-altread|hira=こま|rom=Koma}}
+
+# {{lb|ja|history|sort=こうらい}} [[Goryeo]]
+
+====Derived terms====
+* {{ja-r|高%麗%人%参|^こう%らい% にん%じん}}
+* {{ja-r|高麗%人|こま%うど}}
+
+{{C|ko|Korea|Countries of Asia|sort=こうらい}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Proper noun===
+{{ko-noun|hj|hangeul=고려}}
+
+# {{hanja form of|고려|[[Goryeo]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Proper noun===
+{{vi-hantu}}
+
+# {{han tu form of|Cao Li|[[Goryeo]]}}
+
+[[ko:高麗]]
+[[mg:高麗]]
+[[zh:高麗]]

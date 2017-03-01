@@ -1,0 +1,66 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiūmián
+|c=jau1 min4
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[dormant]]
+
+====Derived terms====
+{{zh-der|休眠火山}}
+
+===Noun===
+{{zh-noun}}
+
+# [[dormancy]]
+
+===Verb===
+{{zh-verb}}
+
+# to become [[dormant]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|きゅう|みん|yomi=on}}
+
+===Noun===
+{{ja-noun|きゅうみん}}
+
+# [[sleep]], [[dormancy]]
+
+====Synonyms====
+* {{l|ja|睡眠}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|きゅうみん}}
+
+# [[sleep]]; be [[dormant]]
+
+====Synonyms====
+* {{l|ja|休む}}
+* {{l|ja|眠る}}
+* {{l|ja|寝る}}
+
+====Conjugation====
+{{ja-suru|きゅうみん}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=휴면}}
+
+# {{hanja form of|휴면|[[dormancy]]}}
+
+[[ko:休眠]]
+[[mg:休眠]]
+[[chr:休眠]]
+[[zh:休眠]]

@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=lěngkù
+|c=laang5 huk6
+|mn=léng-khok
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[cruel]], [[severe]], [[callous]], [[unfeeling]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|れい|こく|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|れいこく}}
+
+# [[cruel]], [[severe]]
+#: {{ja-usex|'''冷酷'''極まりない。|'''れいこく''' きわまり ない。|It is extremely cruel.}}
+
+====Synonyms====
+* {{l|ja|峻厳}}
+* {{l|ja|残忍}}
+
+====Antonyms====
+* {{l|ja|温和}}
+* {{l|ja|寛大}}
+
+====Inflection====
+{{ja-na|れいこく}}
+
+===Noun===
+{{ja-noun|れいこく}}
+
+# [[cruelty]], [[severity]]
+
+[[ko:冷酷]]
+[[lo:冷酷]]
+[[hu:冷酷]]
+[[mg:冷酷]]
+[[ja:冷酷]]
+[[zh:冷酷]]

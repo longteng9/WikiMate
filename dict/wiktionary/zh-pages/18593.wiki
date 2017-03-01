@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|㲶}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=84|rad=气|as=08|sn=12|four=80917|canj=ONNME,ONVNE|ids=⿹气彔,⿹气录}}
+
+====References====
+* {{Han ref|kx=0600.011|dkj=17072|hdz=32013.070|uh=6C2F|ud=27695|bh=B4E2|bd=46306}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=㲶-obsolete}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|气|c1=s|t1=gas|彔|c2=p|ls=psc}}. {{zh-l|彔*}} is also a reduced form of {{zh-l|綠*|green}}, serving as a semantic component.
+
+===Etymology===
+From {{zh-l|綠|green}}, referring to the colour of chlorine gas.
+
+===Pronunciation===
+{{zh-pron
+|m=lǜ,lù,2nb=variant
+|c=luk6
+|h=pfs=liu̍k
+|md=lṳ̆k
+|mn=le̍k
+|mn-t=lêg8
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[chlorine]]
+
+{{zh-cat|Chemical elements}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=록|eumhun=|rv=rok|mr=rok|y=lok}}
+
+# {{defn|lang=ko|sort=气08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lục]]|rs=气08}}
+
+# {{defn|lang=vi|sort=气08}}
+
+[[de:氯]]
+[[fr:氯]]
+[[lt:氯]]
+[[hu:氯]]
+[[mg:氯]]
+[[ja:氯]]
+[[no:氯]]
+[[pl:氯]]
+[[ro:氯]]
+[[ru:氯]]
+[[th:氯]]
+[[vi:氯]]
+[[zh:氯]]

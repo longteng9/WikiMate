@@ -1,0 +1,69 @@
+{{also|戰鬥}}
+==Japanese==
+{{ja-kanjitab|yomi=o|せん|とう}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=せんとう}} {{m|zh|戰鬪|tr=*jiɛ̀n *təu<sup>H</sup>}}. Compare modern {{etyl|cmn|-}} reading ''zhàndòu''.
+
+===Pronunciation===
+{{ja-pron|yomi=ko|せんとう|acc=0|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|せんとう|kyu=戰鬪}}
+
+# a [[battle]], a [[fight]], [[combat]]
+#: {{ja-usex|'''戦闘'''を開始する|'''せんとう''' を かいし する|to commence '''hostilities''' / to start '''fighting'''}}
+#: {{ja-usex|'''戦闘'''を中止する|'''せんとう''' を ちゅうし する|to suspend '''hostilities''' / to stop '''fighting'''}}
+#: {{ja-usex|'''戦闘'''に参加する|'''せんとう''' に さんか する|to see '''combat''' / to participate in a '''battle''' or '''action'''}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|戦闘的|せんとうてき}}: [[militant]], [[aggressive]], [[combative]]
+* {{ja-r|戦闘員|せんとういん}}: a [[combatant]]
+* {{ja-r|戦闘旗|せんとうき}}: a [[battle]] [[ensign]]: a [[signal]] [[flag]] [[flown]] from the [[mast]] of a [[ship]] to signal the start of [[fighting]]
+* {{ja-r|戦闘機|せんとうき}}: [[fighter plane]]
+* {{ja-r|戦闘艦|せんとうかん}}: archaic term for {{m|ja|戦艦|tr=senkan||a battleship}}
+* {{ja-r|戦闘状態|せんとうじょうたい}}: a [[state]] of [[war]]
+* {{ja-r|戦闘線|せんとうせん}}: the [[line]]s of [[battle]], a [[battle]] [[front]]
+* {{ja-r|戦闘隊形|せんとうたいけい}}: a [[battle]] [[formation]]
+* {{ja-r|戦闘服|せんとうふく}}: a [[combat]] [[uniform]]
+* {{ja-r|戦闘部隊|せんとうぶたい}}: a [[fighting]] [[force]], [[troops]]
+* {{ja-r|戦闘帽|せんとうぼう}}: a [[patrol cap]], a [[field cap]] (see [[w:Patrol cap]])
+* {{ja-r|戦闘力|せんとうりょく}}: [[fighting]] or [[combat]] [[strength]] or [[power]]
+{{der-bottom}}
+
+====Synonyms====
+* {{sense|fight}} {{ja-r|戦い|たたかい}}
+* {{sense|battle}} {{ja-r|戦|いくさ}}
+* {{sense|battle, military engagement}} {{ja-r|会戦|かいせん}}
+
+====Related terms====
+* {{ja-r|戦争|せんそう}}: {{l|en|war}}
+* {{ja-r|戦場|せんじょう}}, {{ja-r|戦地|せんち}}: {{l|en|battlefield}}, {{l|en|battleground}}
+
+===Verb===
+{{ja-verb-suru|せんとう|kyu=戰鬪}}
+
+# to [[fight]], to [[battle]]
+
+====Conjugation====
+{{ja-suru|せんとう}}
+
+===References===
+<references/>
+
+[[Category:ja:War|せんとう]]
+
+[[fr:戦闘]]
+[[ko:戦闘]]
+[[it:戦闘]]
+[[lo:戦闘]]
+[[li:戦闘]]
+[[hu:戦闘]]
+[[mg:戦闘]]
+[[nl:戦闘]]
+[[ja:戦闘]]
+[[fi:戦闘]]
+[[sv:戦闘]]
+[[chr:戦闘]]
+[[zh:戦闘]]

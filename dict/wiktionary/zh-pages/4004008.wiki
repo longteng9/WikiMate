@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|ひる|ま|yomi=kun}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ひるま|昼|tr1=hiru|t1=daytime; noon|間|tr2=ma|t2=space; period}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|ひるま|acc=3|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|ひるま}}
+
+# [[daytime]]
+
+====Usage notes====
+Synonymous with {{m|ja|昼|tr=hiru}}, {{m|ja|お昼|tr=ohiru}}.  The term {{lang|ja|昼間}} (''hiruma'') is used to more specifically indicate the {{m|en|daytime}}, as opposed to the synonyms' possible additional meanings of {{m|en|noon}} or {{m|en|noonday}} {{m|en|meal}} → {{m|en|lunch}}.
+
+===References===
+<references/>
+
+[[hu:昼間]]
+[[mg:昼間]]
+[[chr:昼間]]
+[[uk:昼間]]

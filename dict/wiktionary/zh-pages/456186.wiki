@@ -1,0 +1,31 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=shuǐchéngyán
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|geology}} [[aqueous]] [[rock]]
+
+====Synonyms====
+* {{zh-l|沉積岩}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|すい|せい|がん|yomi=on}}
+
+===Noun===
+{{ja-noun|すいせいがん}}
+
+# {{lb|ja|geology}} [[aqueous]] [[rock]]
+
+[[Category:ja:Geology|すいせいがん]]
+
+[[zh:水成岩]]

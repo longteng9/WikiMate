@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|镀}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=09|sn=17|four=80147|canj=CITE}}
+
+# [[plate]], [[coat]], [[gild]]
+
+====References====
+* {{Han ref|kx=1313.140|dkj=40607|dj=1814.090|hdz=64235.060|uh=934D|ud=37709|bh=C1E1|bd=49633}}
+
+----
+
+==Chinese==
+{{zh-forms|s=镀}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dù
+|c=dou6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|鍍金|鍍鉻鋼|鍍鋅鐵|鍍錫鐵|電鍍}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金09}}
+
+# {{defn|lang=ja|sort=金09}}
+
+====Readings====
+* {{ja-readings|on=[[と]] (to)|kun=[[めっき]] (mekki)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=도|eumhun=|rv=do|mr=to|y=to}}
+
+# {{defn|lang=ko|sort=金09}}
+
+[[fr:鍍]]
+[[ko:鍍]]
+[[hu:鍍]]
+[[mg:鍍]]
+[[ja:鍍]]
+[[pl:鍍]]
+[[th:鍍]]
+[[zh:鍍]]

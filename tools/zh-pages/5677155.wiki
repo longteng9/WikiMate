@@ -1,0 +1,52 @@
+{{also|韩江}}
+==Chinese==
+{{zh-forms|s=韩江}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=Hánjiāng
+|c=hon4 gong1
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{w|Han River (Guangdong)|Han River}} (in Guangdong, China)
+
+===Descendants===
+{{cjkv||s=韓%江|^かん%こう|^한강}}
+
+===See also===
+* {{zh-l|漢江}}
+
+{{zh-cat|Rivers|China}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|yomi=o|かん|こう}}
+
+===Etymology===
+From {{der|ja|zh|韓江|sort=かんこう}}
+
+===Proper noun===
+{{ja-pos|proper|かんこう}}
+
+# {{w|Han River (Guangdong)|Han River}} (in Guangdong, China)
+
+{{C|ja|Rivers|China}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Proper noun===
+{{ko-propn|mr=Han'gang|y=Hankang|hangeul=한강}}
+
+# {{hanja form of|한강|{{w|Han River (Guangdong)|Han River}}}}
+
+[[zh:韓江]]

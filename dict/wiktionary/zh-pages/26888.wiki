@@ -1,0 +1,70 @@
+{{character info/new}}
+{{also|讦}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=03|sn=10|four=01640|canj=YRMJ}}
+
+# expose other's secrets, pry
+
+====References====
+* {{Han ref|kx=1148.010|dkj=35234|dj=1614.140|hdz=63939.120|uh=8A10|ud=35344|bh=B050|bd=45136}}
+
+----
+
+==Chinese==
+{{zh-forms|s=讦}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jié
+|c=kit3,git3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|告訐|攻訐|訐揚|骾訐|訐發|訐告|群起攻訐|訐直}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言03}}
+
+# {{defn|lang=ja|sort=言03}}
+
+====Readings====
+* {{ja-readings|on=[[けつ]] (ketsu)|kun=[[あばく]] (abaku)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=알|eumhun=|rv=al|mr=al|y=al}}
+
+# {{defn|lang=ko|sort=言03}}
+
+[[fr:訐]]
+[[ko:訐]]
+[[hu:訐]]
+[[mg:訐]]
+[[ja:訐]]
+[[pl:訐]]
+[[th:訐]]
+[[vi:訐]]
+[[zh:訐]]

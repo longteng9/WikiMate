@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|厂|厰}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=53|rad=广|as=12|sn=15|four=00248|canj=IFBK|ids=⿸广敞}}
+
+====References====
+* {{Han ref|kx=0350.300|dkj=09490|dj=0662.030|hdz=20901.040|uh=5EE0|ud=24288|bh=BC74|bd=48244}}
+
+----
+
+==Chinese==
+{{zh-forms|s=厂|t2=厰}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|广|敞|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=chǎng
+|ma=y
+|c=cong2
+|mn=xm,qz,lk,sx,tp,yl,kh,km,mg,hc,tc:chhiúⁿ/zz,tn:chhióⁿ/qz,xm:chhióng/zz:chhiáng
+|mn_note=chhiúⁿ/chhióⁿ - vernacular; chhióng/chhiáng - literary
+|w=2tshan
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[factory]]; [[workshop]]; [[mill]]; (industrial) [[plant]]
+#: {{zh-x|工廠|factory}}
+# [[depot]]; [[yard]]
+#: {{zh-x|廠子{zi}|depot, yard}}
+
+===Compounds===
+{{zh-der|廠點掛鉤|廠方|廠房|廠規|廠家|廠礦|廠商|廠長|保稅工廠|保養廠|兵工廠|出廠|印刷廠|地下工廠|工廠|工廠工業|工廠布置|工廠法|工廠衛生|廠址|廠子|廠容|廠棚|廠牌|廠禮拜|廠衛|廠衣|成衣廠|整廠輸出|暖廠|木廠|東廠|核能電廠|核電廠|水廠|活廠經營|煉油廠|煉鋼廠|熱電廠|琉璃廠|發電廠|粥廠|糖廠|紗廠|紡織廠|經廠本|總廠|船廠|藥廠|西廠|設廠|賭錢廠|車廠|車廠子|造幣廠|造船廠|進廠|酒廠|鐵工廠|電宰廠|馬廠}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=广12}}
+
+# {{defn|lang=ja|sort=广12}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[うまや]] (umaya)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=창|mr=ch'ang}}
+
+# {{defn|lang=ko|sort=广12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=广12|hanviet=xưởng}}
+
+# {{defn|lang=vi|sort=广12}}
+
+[[zh-min-nan:廠]]
+[[fr:廠]]
+[[kn:廠]]
+[[hu:廠]]
+[[mg:廠]]
+[[ja:廠]]
+[[pl:廠]]
+[[th:廠]]
+[[chr:廠]]
+[[vi:廠]]
+[[zh:廠]]

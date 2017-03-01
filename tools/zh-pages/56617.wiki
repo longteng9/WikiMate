@@ -1,0 +1,112 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=rénshēng
+|ma=Zh-rénsheng.ogg
+|c=jan4 sang1
+|h=pfs=ngìn-sên
+|mn=zz,kh:jîn-seng/xm,tp:lîn-seng/qz:lîn-sng
+|w=3zen sen
+|mc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[life]] {{gloss|i.e. human life}}
+#: {{zh-x|人生 的 真諦|the true meaning of '''life'''}}
+#: {{zh-x|人生{sang1} 嘅 真諦|the true meaning of '''life'''|C}}
+
+====See also====
+* {{zh-l|生活}}
+* {{zh-l|生命}}
+
+====Derived terms====
+{{zh-der|人生導師|人生觀|人生教練}}
+
+===Descendants===
+{{CJKV||じんせい|인생|nhân sinh}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|じん|せい|yomi=o}}
+
+===Etymology===
+From {{der|sort=しんせい'|ja|ltc|人生|tr=ȵiɪn  ʃˠæŋ}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|じんせい|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|じんせい}}
+
+# [[life]]
+#: {{ja-usex|[[それが人生|それが'''人生''']]|それ が '''じんせい'''|[[such is life|such is '''life''']]}}
+# Literally, person's past. Used when speaking about the former life of a dead person.
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|芸術は長く人生は短し|げいじゅつ は ながく じんせい は みじかし|[[ars longa, vita brevis]]}}
+* {{ja-r|人生意気に感ず|じんせい いき に かんず}}
+* {{ja-r|人生観|じんせいかん}}
+* {{ja-r|人生訓|じんせいくん}}
+* {{ja-r|人生劇場|じんせい げきじょう}}
+* {{ja-r|人生行路|じんせい こうろ}}
+* {{ja-r|人生行路難し|じんせい こうろ かたし}}
+* {{ja-r|人生七十古来稀なり|じんせい しちじゅう こらい まれなり}}
+* {{ja-r|人生朝露の如し|じんせい ちょうろ の ごとし}}
+* {{ja-r|人生哲学|じんせい てつがく}}
+* {{ja-r|人生のための芸術|じんせい の ため の げいじゅつ}}
+* {{ja-r|人生派|じんせいは}}
+* {{ja-r|人生模様|じんせい もよう}}
+* {{ja-r|人生論|じんせいろん}}
+* {{ja-r|人生僅か五十年|じんせい わずか ごじゅうねん}}
+* {{ja-r|自然と人生|しぜん と じんせい}}
+* {{ja-r|実人生|じつじんせい}}
+{{der-bottom}}
+
+===References===
+<references/>
+:* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=인생}}
+
+# {{hanja form of|인생|[[life]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|nhân sinh|[[life]]}}
+
+[[zh-min-nan:人生]]
+[[fr:人生]]
+[[ko:人生]]
+[[lo:人生]]
+[[lt:人生]]
+[[hu:人生]]
+[[mg:人生]]
+[[nl:人生]]
+[[ja:人生]]
+[[pt:人生]]
+[[fi:人生]]
+[[chr:人生]]
+[[uk:人生]]
+[[zh:人生]]

@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=10|sn=13|four=22213|canj=UHUI|ids=⿱山鬼}}
+
+# [[high]]
+# [[rugged]], [[rocky]], [[precipitous]]
+
+====References====
+* {{Han ref|kx=0317.350|dkj=08355|dj=0618.050|hdz=10787.150|uh=5D6C|ud=23916|bh=DD52|bd=56658}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wéi
+|c=ngai4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嵬嵬|嵬瑣|嵬說|嵬嶷|嵬峨|崴嵬|崔嵬|嵬然不動|磪嵬|馬嵬|馬嵬坡|馬嵬亭}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山10}}
+
+# {{defn|lang=ja|sort=山10}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai), [[がい]] (gai), [[ぎ]] (gi)|kun=[[たかい]] (takai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=외|rv=oe|mr=oe}}
+
+# {{defn|lang=ko|sort=山10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngôi]]|rs=山10}}
+
+# {{defn|lang=vi|sort=山10}}
+
+[[fr:嵬]]
+[[li:嵬]]
+[[hu:嵬]]
+[[mg:嵬]]
+[[ja:嵬]]
+[[pl:嵬]]
+[[th:嵬]]
+[[zh:嵬]]

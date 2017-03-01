@@ -1,0 +1,85 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=31|rad=囗|as=02|sn=5|four=60800|canj=WO|ids=⿴囗人}}
+
+====References====
+* {{Han ref|kx=0216.200|dkj=04680|dj=0439.200|hdz=10710.130|uh=56DA|ud=22234|bh=A57D|bd=42365}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|囗|t1=box, enclosure|人|t2=person|ls=ic}} – an enclosed person: confinement, prisoner.
+
+===Pronunciation===
+{{zh-pron
+|m=qiú
+|c=cau4
+|h=pfs=siù
+|md=
+|mn=siû
+|w=3jjieu
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[prisoner]], [[convict]]
+# to [[confine]], to [[imprison]]
+
+===Compounds===
+{{zh-der|俘囚|劫囚|南冠楚囚|囚徒|囚攮的|囚牢|囚犯|囚禁|囚籠|囚糧|囚繫|囚衣|囚車|囚錮鋒|囚首喪面|囚首垢面|報官囚|審囚刷卷|幽囚|幽囚受辱|抱官囚|楚囚|楚囚對泣|楚囚相對|死囚|死囚牢|縱囚|繫囚|纍囚|被囚|詩囚|重囚|錄囚|階下囚}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=囗02}}
+
+# {{defn|lang=ja|sort=囗02}}
+
+====Readings====
+* {{ja-readings|goon=[[じゅ]] (ju)|kanon=[[しゅう]] (shū)|kun=[[とらえる]] (toraeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수}}
+
+# {{defn|lang=ko|sort=囗02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tù]]|rs=囗02}}
+
+# {{defn|lang=vi|sort=囗02}}
+
+[[Category:Kennybot testing category]]
+
+[[zh-min-nan:囚]]
+[[de:囚]]
+[[fr:囚]]
+[[ko:囚]]
+[[li:囚]]
+[[hu:囚]]
+[[mg:囚]]
+[[ms:囚]]
+[[ja:囚]]
+[[no:囚]]
+[[pl:囚]]
+[[th:囚]]
+[[zh:囚]]

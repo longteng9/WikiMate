@@ -1,0 +1,19 @@
+{{also|乱码}}
+==Chinese==
+{{zh-forms|s=乱码|lit=disorderly code}}
+
+===Pronunciation===
+{{zh-pron
+|m=luànmǎ,er=y
+|c=lyun6 maa5
+|mn=loān-bé
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|computing}} [[mojibake]]
+
+[[zh-min-nan:亂碼]]
+[[zh:亂碼]]

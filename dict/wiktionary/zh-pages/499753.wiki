@@ -1,0 +1,29 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|あな|こ|k2=ご|r=y|yomi=k}}
+
+===Etymology===
+Compound of {{compound|穴|tr1=ana|t1=hole|子|tr2=ko|t2=child|lang=ja|sort=あなご}}. {{rendaku2|ko|go|sort=あなご}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|あなご|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|あなご|アナゴ}}
+
+# [[conger eel]]
+
+====Derived terms====
+* {{ja-r|真穴子|ま.あなご}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|あなご]]
+[[Category:ja:Eels|あなご]]
+
+[[hi:穴子]]
+[[it:穴子]]
+[[ja:穴子]]
+[[pt:穴子]]
+[[zh:穴子]]

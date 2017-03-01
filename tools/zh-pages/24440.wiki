@@ -1,0 +1,94 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=08|sn=12|four=73211|canj=BJCM|ids=⿰[[肉|⺼]][[空]]}}
+
+====References====
+* {{Han ref|kx=0987.100|dkj=29630|dj=1439.200|hdz=32092.030|uh=8154|ud=33108|bh=B5C4|bd=46532}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiāng
+|m-s=qiang1
+|c=hong1
+|mn=khang/zz:khiang/qz,tw,xm:khiuⁿ/zz:khioⁿ/qz,xm:khiong
+|mn_note=khang/khiang - literary; khiuⁿ/khioⁿ/khiong - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[chest]] [[cavity]]
+# [[hollow]] in [[body]]
+# [[accent]] of one's [[speech]]
+#: {{zh-x|腔調{diào}|accent}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{zh-l|內腔|[[lumen]] {{gloss|cavity within tubular organ}}}}
+{{der-bottom}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉08}}
+
+# {{defn|lang=ja|sort=肉08}}
+
+====Readings====
+{{ja-readings|goon=[[こう]] (kō)|kanon=[[こう]] (kō)|kanyoon=[[くう]] (kū)|kun=[[うつろ]] (utsuro), [[からだ]] (karada)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|内腔|ないくう}}: [[lumen]] {{gloss|cavity within tubular organ}}
+{{der-bottom}}
+
+====Usage notes====
+The くう reading is favoured especially by medical professionals. こう is the most common on'yomi for a kanji to have, whereas くう is one of the least common, so the homophony difference is vast. Furthermore, the [[空]] component of this kanji is usually read as くう.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=강|eumhun=|rv=gang|mr=kang|y=kang}}
+
+# {{defn|lang=ko|sort=肉08}}
+
+====Compounds====
+* {{ko-l|내강|[[lumen]] {{gloss|cavity within tubular organ}}|內腔}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xoang]], [[khang]], [[xăng]], [[xang]]|rs=肉08}}
+
+# {{defn|lang=vi|sort=肉08}}
+
+[[zh-min-nan:腔]]
+[[fr:腔]]
+[[hu:腔]]
+[[mg:腔]]
+[[ja:腔]]
+[[no:腔]]
+[[pl:腔]]
+[[th:腔]]
+[[chr:腔]]
+[[zh:腔]]

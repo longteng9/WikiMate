@@ -1,0 +1,72 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=12|sn=15|four=37164|canj=ERMR|ids=⿰氵路}}
+
+# [[river]] in [[northern]] [[China]]
+
+====References====
+* {{Han ref|kx=0649.120|dkj=18243|dj=1059.070|hdz=31741.010|uh=6F5E|ud=28510|bh=E9F0|bd=59888}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lù
+|c=lou6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|潞涿君|潞江}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水12}}
+
+# {{defn|lang=ja|sort=水12}}
+
+====Readings====
+* {{ja-readings|on=[[ろ]] (ro), [[る]] (ru)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[로]]>[[노]]|eumhun=|rv=ro>no|mr=ro>no|y=lo>no}}
+
+# {{defn|lang=ko|sort=水12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lộ]]|rs=水12}}
+
+# {{defn|lang=vi|sort=水12}}
+
+[[fr:潞]]
+[[hu:潞]]
+[[mg:潞]]
+[[pl:潞]]
+[[th:潞]]
+[[zh:潞]]

@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=124|rad=羽|as=11|sn=17|four=77127|canj=SESMM|ids=⿱殹羽}}
+
+# [[shade]], [[screen]]
+# to [[hide]], screen
+
+====References====
+* {{Han ref|kx=0959.150|dkj=28796|dj=1405.140|hdz=53355.130|uh=7FF3|ud=32755|bh=C16B|bd=49515}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|殹|羽|c1=p|c2=s|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=ai3
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=羽11}}
+
+# {{defn|lang=ja|sort=羽11}}
+
+====Readings====
+* {{ja-readings|on=[[えい]] (ei)|kun=[[きぬがさ]] (kinugasa), [[かざす]] (kazasu), [[かげる]] (kageru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=예|eumhun=|rv=ye|mr=ye|y=yey}}
+
+# {{defn|lang=ko|sort=羽11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=羽11| hanviet = ế}}
+
+# {{defn|lang=vi|sort=羽11}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=7ff3 Nom Foundation]
+
+[[fr:翳]]
+[[hu:翳]]
+[[mg:翳]]
+[[ja:翳]]
+[[pl:翳]]
+[[th:翳]]
+[[zh:翳]]

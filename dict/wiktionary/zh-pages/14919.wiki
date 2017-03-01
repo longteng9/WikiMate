@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|帏}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=50|rad=巾|as=09|sn=12|four=44256|canj=LBDMQ|ids=⿰巾韋}}
+
+====References====
+* {{Han ref|kx=0334.180|dkj=08993|dj=0641.210|hdz=10748.090|uh=5E43|ud=24131|bh=B457|bd=46167}}
+
+----
+
+==Chinese==
+{{zh-forms|s=帏}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wéi
+|c=wai4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[curtain]] that [[form]]s a [[wall]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=巾09}}
+
+# {{defn|lang=ja|sort=巾09}}
+
+====Readings====
+* {{ja-readings|on=[[い]] (i), [[き]] (ki)|kun=[[とばり]] (tobari), [[においぶく]] (nioibuku), [[ふくろ]] (fukuro)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=위|rv=wi|mr=wi}}
+
+# {{defn|lang=ko|sort=巾09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=巾09|hanviet=vi}}
+
+# {{defn|lang=vi|sort=巾09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5e43 Nom Foundation]
+
+[[fr:幃]]
+[[li:幃]]
+[[hu:幃]]
+[[ja:幃]]
+[[pl:幃]]
+[[th:幃]]
+[[zh:幃]]

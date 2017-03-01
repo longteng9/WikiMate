@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=135|rad=舌|as=04|sn=10|four=22640|canj=HRHVP|ids=⿰舌氏}}
+
+# [[lick]] with the [[tongue]]
+
+====References====
+* {{Han ref|kx=1007.030|dkj=30283|dj=1464.050|hdz=52943.070|uh=8210|ud=33296|bh=AFE7|bd=45031}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shì
+|c=saai5,saai2,laai2
+|mn=qz:sǐ/xm,zz:sī/qz:chǐ/tw,xm,zz:chī/tw:chīⁿ
+|mn_note=sǐ/sī - literary; chǐ/chī/chīⁿ - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* {{R:yue:jyut.net}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=舌04}}
+
+# {{defn|lang=ja|sort=舌04}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi), [[じ]] (ji)|kun=[[なめる]] (nameru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=지|eumhun=|rv=ji|mr=chi|y=ci}}
+
+# {{defn|lang=ko|sort=舌04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=舌04| hanviet = liếm, thỉ}}
+
+# {{defn|lang=vi|sort=舌04}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=8210 Nom Foundation]
+
+[[zh-min-nan:舐]]
+[[fr:舐]]
+[[lt:舐]]
+[[hu:舐]]
+[[mg:舐]]
+[[ja:舐]]
+[[pl:舐]]
+[[th:舐]]
+[[chr:舐]]
+[[zh:舐]]

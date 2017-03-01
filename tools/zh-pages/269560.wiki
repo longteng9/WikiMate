@@ -1,0 +1,78 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiānxíng
+|c=sin1 haang4
+|h=pfs=siên-hàng
+|mn=sian-hêng/qz:suiⁿ-kiâⁿ/tw,xm,zz:seng-kiâⁿ
+|mn_note=sian-hêng - literary; suiⁿ-kiâⁿ/seng-kiâⁿ - vernacular (to go ahead)
+|cat=a,adv
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|Advanced Mandarin}} [[advance]]; [[ahead]] of the [[rest]]
+
+===Adverb===
+{{zh-adv}}
+
+# [[in advance]]; [[beforehand]]
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Advanced Mandarin}} to [[advance]]; to [[move]] [[forward]]
+# to [[go]] ahead of the rest; to [[start off]] before the others
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|さき|ゆき|yomi=kun}}
+Native Japanese readings.
+
+====Alternative forms====
+* {{l|ja|先行き}}
+
+====Noun====
+{{ja-noun|さきゆき}}
+
+# [[future]], [[prospects]]
+# movement in the future of an exchange
+
+===Etymology 2===
+{{ja-kanjitab|せん|こう|yomi=on}}
+
+Sino-Japanese readings.
+
+====Noun====
+{{ja-noun|せんこう}}
+
+# [[preceding]]
+# taking [[priority]]
+
+====Compounds====
+* {{l/ja|先行権}}
+* {{l/ja|先行詞}}
+
+====Verb====
+{{ja-verb-suru|せんこう}}
+
+# [[go]] [[ahead]] of, go in [[front]] of
+# [[precede]]
+# be earlier
+
+=====Conjugation=====
+{{ja-suru|せんこう}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:先行]]
+[[hu:先行]]
+[[ja:先行]]
+[[zh:先行]]

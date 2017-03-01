@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|榄}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=21|sn=25|four=48916|canj=DSWU|ids=⿰木覽}}
+
+====References====
+* {{Han ref|kx=0564.100|dkj=15964|dj=0953.140|hdz=21326.050|uh=6B16|ud=27414|bh=C656|bd=50774}}
+
+----
+
+==Chinese==
+{{zh-forms|s=榄}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǎn
+|c=laam5
+|mn=ná/lám
+|mn_note=ná - vernacular, lám - literary
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[olive]]
+
+====References====
+* (''Min Nan'') [http://twblg.dict.edu.tw/holodict_new/default.jsp Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木21}}
+
+# {{defn|lang=ja|sort=木21}}
+
+====Readings====
+* {{ja-readings|on=[[らん]] (ran)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[람]]>[[남]]|eumhun=|rv=ram>nam|mr=ram>nam|y=lam>nam}}
+
+# {{defn|lang=ko|sort=木21}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lãm]]|rs=木21}}
+
+# {{defn|lang=vi|sort=木21}}
+
+[[fr:欖]]
+[[ko:欖]]
+[[hu:欖]]
+[[ja:欖]]
+[[pl:欖]]
+[[th:欖]]
+[[zh:欖]]

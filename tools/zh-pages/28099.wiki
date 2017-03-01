@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|踨|踪}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=11|sn=18|four=68181|canj=RMHOO}}
+
+# [[footprints]], [[traces]], [[tracks]]
+
+====References====
+* {{Han ref|kx=1232.380|dkj=37823|dj=1704.380|hdz=63735.060|uh=8E64|ud=36452|bh=C2DC|bd=49884}}
+
+----
+
+==Chinese==
+{{zh-forms|s=踪}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zōng
+|c=zung1
+|h=pfs=chiûng
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[踪迹]]
+* [[踪影]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=足11}}
+
+# {{defn|lang=ja|sort=足11}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[あと]] (ato)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=종|eumhun=|rv=jong|mr=chong|y=cong}}
+
+# {{defn|lang=ko|sort=足11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''蹤''' ([[tung]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:蹤]]
+[[ko:蹤]]
+[[hu:蹤]]
+[[mg:蹤]]
+[[ja:蹤]]
+[[pl:蹤]]
+[[th:蹤]]
+[[zh:蹤]]

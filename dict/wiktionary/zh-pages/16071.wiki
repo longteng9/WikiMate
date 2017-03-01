@@ -1,0 +1,88 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=05|sn=8|four=54047|canj=QDHE|ids=⿰扌皮}}
+
+# [[wear]]
+# [[split]]
+# [[crack]]
+
+====References====
+* {{Han ref|kx=0422.200|dkj=11909|dj=0770.170|hdz=31861.010|uh=62AB|ud=25259|bh=A9DC|bd=43484}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=pī
+|c=pei1
+|h=pfs=phî
+|md=
+|mn=phi/xm:phoa
+|mn_note=phi - literary; phoa - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|披肩|pījiān}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=手05}}
+
+# {{defn|lang=ja|sort=手05}}
+
+====Readings====
+* {{ja-readings|on=[[ひ]] (hi)|kun=[[ひらく]] (hiraku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=피|eumhun=|rv=pi|mr=p'i|y=phi}}
+
+# {{defn|lang=ko|sort=手05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手05|hanviet=[[phơ]], [[bờ]], [[pha]], [[phê]], [[phi]], [[phơi]]}}
+
+# {{defn|lang=vi|sort=手05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=62ab Nom Foundation]
+
+[[fr:披]]
+[[ko:披]]
+[[hu:披]]
+[[mg:披]]
+[[ja:披]]
+[[no:披]]
+[[pl:披]]
+[[th:披]]
+[[zh:披]]

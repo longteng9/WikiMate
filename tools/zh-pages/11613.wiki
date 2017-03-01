@@ -1,0 +1,149 @@
+{{character info/new}}
+{{also|劵}}
+==Translingual==
+
+===Alternative forms===
+* {{l|mul|劵}}<!-- 券 has been the simplified chinese variant of 劵 since 1995: http://www.china-language.gov.cn/wenziguifan/managed/003.htm -->
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=06|sn=8|four=90227|canj=FQSH|ids=⿱𠔉刀}}
+
+====Related characters====
+* [[拳]]
+
+====References====
+* {{Han ref|kx=0139.110|dkj=01966|dj=0316.020|hdz=10332.110|uh=5238|ud=21048|bh=A8E9|bd=43241}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=劵}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|𠔉|刀|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=券,er=y,2er=y
+|m_note=juàn(r) - colloquial pronunciation
+|c=gyun3,hyun3
+|c_note=hyun3 - prescribed
+|h=pfs=khién
+|md=guóng
+|mn=kǹg/koàn
+|mn_note=kǹg - vernacular; koàn - literary
+|w=2qyoe
+|mc=y
+|oc=y
+|ma=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|historical}} [[title]] [[deed]]s; [[deed]] of [[trust]]; [[bond]]
+# [[ticket]]; [[pass]]; [[coupon]]; [[voucher]]; [[certificate]]
+#: {{zh-x|入場券|admission ticket}}
+# {{†}} {{lb|zh|figurative}} [[guarantee]]; [[surety]]; [[certainty]]
+# {{†}} to [[agree]]; to [[tally]] with
+# {{†}} to [[copy]]; to [[trace]]
+# {{†}} to [[bore]]; to [[drill]]
+# {{†}} {{zh-alt-form|倦|[[tired]]; [[weary]]}}
+
+====Compounds====
+{{zh-der|fold=1|丹書鐵券|借券|債券|優待券|儲蓄券|兌換券|入場券|公債券|公司債券|券商|券帖|券書|券破|勝券在握|可操左券|合券|國庫券|圖書禮券|墓券|契券|如持左券|宅券|左券|左券在握|幸運券|庫券|彩券|愛國獎券|愛心券|愛心彩券|憑券|折券|招待券|持左券|操券|操左券|文券|有價證券|楮券|獎券|票券|禮券|穩操勝券|穩操左券|立券交易|繻券|融券|試印券|證券|證券市場|還券|金圓券|金書鐵券|銀行券|鐵券|關金券|飛券|馮諼燒券|驛券|點券|券兒|優惠券}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=xuàn,quàn,2nb=standard in Taiwan
+|c=hyun3
+|h=pfs=
+|md=
+|mn=
+|w=
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|architecture}} [[arch]] {{gloss|on bridges, doors, windows}}
+#: {{zh-x|拱券{xuàn}|arch}}
+
+====Compounds====
+{{zh-der|fold=1|券門|拱券}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=刀06}}
+
+====Readings====
+{{ja-readings
+|goon=[[こん]] (kon) {{non-joyo-reading}}
+|kanon=[[けん]] (ken), {{qualifier|historical}} [[くゑん]] (kwen)
+}}
+
+===Etymology===
+{{ja-kanjitab|yomi=o|けん}}
+{{IPAchar|/kwen/}} → {{IPAchar|/ken/}}
+
+From {{etyl|ltc|ja|sort=けん}} {{m|zh|券|tr=khwen<sup>H</sup>?|ticket}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|けん|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|けん|hhira=くゑん}}
+
+# [[ticket]], [[certificate]]
+# [[bond]], [[coupon]]
+
+===Suffix===
+{{ja-pos|suffix|けん|hhira=くゑん}}
+
+# [[ticket]], [[certificate]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=권|mr=kwŏn}}
+
+# {{defn|lang=ko|sort=刀06}}
+
+====Compounds====
+* {{l|ko|旅券|tr=[[여권]], yeogweon}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khoán]]|rs=刀06}}
+
+# {{defn|lang=vi|sort=刀06}}
+
+[[zh-min-nan:券]]
+[[fr:券]]
+[[ko:券]]
+[[lo:券]]
+[[hu:券]]
+[[mg:券]]
+[[ms:券]]
+[[ja:券]]
+[[no:券]]
+[[pl:券]]
+[[th:券]]
+[[chr:券]]
+[[zh:券]]

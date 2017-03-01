@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|よ|げん|しゃ|yomi=on}}
+
+===Etymology===
+Compound of {{compound|予言|tr1=yogen|t1=prediction, foretelling|者|tr2=sha|t2=person|lang=ja|sort=よげんしゃ}}.
+
+===Noun===
+{{ja-noun|よげんしゃ}}
+
+# [[foreteller]]
+
+====Synonyms====
+* {{ja-r|預言者|よげんしゃ}}: a [[prophet]]
+
+====Usage notes====
+In speech, this word is identical to {{l|ja|預言者}}. In writing, {{l|ja|予言者}} is more neutral about the kind of prediction, whereas {{l|ja|預言者}} carries more religious overtones.
+
+[[ku:予言者]]
+[[pl:予言者]]
+[[tr:予言者]]

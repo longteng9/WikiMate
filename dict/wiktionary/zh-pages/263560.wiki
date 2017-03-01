@@ -1,0 +1,93 @@
+==Chinese==
+{{zh-forms|alt=主儂-Min Nan}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǔrén
+|c=zyu2 jan4
+|h=pfs=chú-ngìn
+|md=ciō-nè̤ng
+|mn=qz,tw,xm,zz:chú-lâng/qz,tp,xm:chú-lîn/kh,zz:chú-jîn
+|mn_note=chú-jîn - lit.
+|w=2tsr nyin
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[master]]; [[owner]]
+# [[host]] or [[hostess]]
+
+====Derived terms====
+{{zh-der|主人公|主人翁|主人家|主人娘|主人頭}}
+
+===Descendants===
+{{CJKV|主人|しゅじん|주인|chủ nhân}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅ|じん|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|しゅじん|acc=a}}
+
+===Noun===
+{{ja-noun|しゅじん}}
+
+# {{lb|ja|humble|sort=しゅじん}} (one's own) [[husband]] (use ご主人 to refer to somebody else's husband)
+# someone's [[master]]
+# [[owner]]
+# [[host]] or [[hostess]]
+
+====Synonyms====
+* {{sense|husband}} {{ja-r|夫|おっと|husband}}
+
+====Antonyms====
+* {{sense|husband}} {{ja-r|妻|つま|wife}}, {{ja-r|奥さん|おくさん|another’s wife}}, {{ja-r|家内|かない|one’s own wife}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=주인}}
+
+# {{hanja form of|주인|master or owner; proprietor}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|chủ nhân|master or owner; proprietor}}
+
+[[fr:主人]]
+[[ko:主人]]
+[[sw:主人]]
+[[lo:主人]]
+[[lt:主人]]
+[[li:主人]]
+[[hu:主人]]
+[[mg:主人]]
+[[nl:主人]]
+[[ja:主人]]
+[[pt:主人]]
+[[ro:主人]]
+[[ru:主人]]
+[[sh:主人]]
+[[chr:主人]]
+[[uk:主人]]
+[[zh:主人]]

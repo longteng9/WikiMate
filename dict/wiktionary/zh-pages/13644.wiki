@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|你|您}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=05|sn=8|four=47492|canj=VNF|ids=⿰女尔}}
+
+# [[you]] (f.)
+
+====References====
+* {{Han ref|kx=0257.200|dkj=06130|dj=0522.160|hdz=21039.090|uh=59B3|ud=22963|bh=A970|bd=43376}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|s=你}}
+
+====Glyph origin====
+Derived from {{zh-l|你}}; coined as a parallel to Western languages' gender distinctions. {{rfv-etymology|zh}}
+
+====Pronunciation====
+{{zh-pron
+|m=nǐ
+|c=nei5
+|ma=
+|cat=pron
+}}
+<!-- OC: 嬭, not 妳/你 -->
+
+====Pronoun====
+{{zh-pronoun}}
+
+# [[you]] (female)
+#: {{zh-x|^如果 妳[你]{nǐ} 是 我 的 傳說|"If '''You''' Are My Legend" (''a 1990 song by {{w|Andy Lau}}'')}}
+
+=====Usage notes=====
+This character is mostly used in traditional Chinese when referring to a female person. Although {{lang|zh|妳}} is abandoned in simplified Chinese, it may still be found in some contexts.
+
+=====Related terms=====
+* {{zh-l|她}}
+
+===Etymology 2===
+{{zh-see|嬭|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女05}}
+
+# {{defn|lang=ja|sort=女05}}
+
+====Readings====
+* {{ja-readings|on=[[だい]] (dai), [[ない]] (nai), [[でい]] (dei), [[じ]] (ji)|kun=[[はは]] (haha)}}
+
+[[es:妳]]
+[[fr:妳]]
+[[ko:妳]]
+[[hu:妳]]
+[[mg:妳]]
+[[ms:妳]]
+[[ja:妳]]
+[[pl:妳]]
+[[th:妳]]
+[[zh:妳]]

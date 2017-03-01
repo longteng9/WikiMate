@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|粗|瞇}}
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|目|米|c1=s|c2=p|ls=psc}}.
+
+===Han character===
+{{Han char|rn=109|rad=目|as=06|sn=11|four=69094|canj=BUFD}}
+
+# be blinded
+
+====References====
+* {{Han ref|kx=0806.210|dkj=23289|dj=1222.060|hdz=42488.010|uh=772F|ud=30511|bh=D6A9|bd=54953}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Alternative forms====
+* {{zh-l|瞇*}}
+
+====Pronunciation====
+{{zh-pron
+|m=mí
+|c=mai5
+|h=
+|md=
+|mn=bî/mi
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[get into]] one's eye, to [[blind]]
+
+===Etymology 2===
+{{zh-see|瞇}}
+
+===References===
+* {{R:cedict}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=目06}}
+
+# {{defn|lang=ja|sort=目06}}
+
+====Readings====
+* {{ja-readings|on=[[べい]] (bei), [[まい]] (mai), [[び]] (bi), [[み]] (mi)|kun=[[くるむ]] (kurumu)|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''眯''' ([[mị]], [[mễ]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:眯]]
+[[fr:眯]]
+[[it:眯]]
+[[hu:眯]]
+[[mg:眯]]
+[[ja:眯]]
+[[no:眯]]
+[[pl:眯]]
+[[th:眯]]
+[[zh:眯]]

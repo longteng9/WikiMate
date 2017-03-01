@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|乁|ㄟ|へ}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=4|rad=丿|as=00|sn=1|var=1|four=|canj=MO,XMO}}
+
+# [[stretch]]
+# variant form of the KangXi radical [[Index:Chinese radical/丿|丿]]
+
+====References====
+* {{Han ref|kx=0081.070|dkj=00107|dj=0164.080|hdz=10042.090|uh=4E40|ud=20032}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fú
+|c=fat1
+|mc=y
+|oc=
+|ma=
+|cat=
+}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 61]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=丿00}}
+
+# [[stretch]]
+
+====Readings====
+* {{ja-readings|on=[[ふつ]] (futsu), [[ぶち]] (buchi)|kun=[[まがる]] (magaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=불|rv=bul|mr=pul|y=pwul}}
+
+# {{defn|lang=ko|sort=丿00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=丿00}}
+
+====Readings====
+* [[音読|âm]]: {{l|vi|phật}}
+* [[意義|nghĩa]]: {{l|vi|căng ra}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e40 Nom Foundation]
+
+[[eo:乀]]
+[[fr:乀]]
+[[ko:乀]]
+[[li:乀]]
+[[hu:乀]]
+[[mg:乀]]
+[[ja:乀]]
+[[pl:乀]]
+[[ta:乀]]
+[[th:乀]]
+[[vi:乀]]
+[[zh:乀]]

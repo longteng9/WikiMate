@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|闪}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=169|rad=門|as=02|sn=10|four=77807|canj=ANO}}
+
+====References====
+* {{Han ref|kx=1330.060|dkj=41214|dj=1834.050|hdz=74282.110|uh=9583|ud=38275|bh=B07B|bd=45179}}
+
+----
+
+==Chinese==
+{{zh-forms|s=闪}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǎn
+|c=sim2
+|mn=siám/síⁿ/sihⁿ
+|mn_note=siám - literary; síⁿ/sihⁿ - vernacular
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[dodge]]; to [[evade]]
+#* {{zh-l|閃身|to dodge}}
+#* {{zh-l|閃避|to dodge}}
+# to [[twist]]; to [[sprain]]; to pull a muscle
+# to [[flash]]
+#* {{zh-x|那 司機 為什麼 對 我 '''閃''' 車 燈？|Why is the driver '''flashing''' his lights at me?}}
+# [[lightning]]; [[flash]]
+#* {{zh-l|閃電|lightning}}
+# to [[sparkle]]; to [[shine]]
+# {{lb|zh|dialect}} to [[leave behind]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=門02}}
+
+# {{defn|lang=ja|sort=門02}}
+
+====Readings====
+{{ja-readings|goon=[[せん]] (sen)|kanon=[[せん]] (sen)|kun=[[ひらめく]] (hirameku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=섬|eumhun=|rv=seom|mr=sŏm|y=sem}}
+
+# {{defn|lang=ko|sort=門02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thiểm]]|rs=門02}}
+
+# {{defn|lang=vi|sort=門02}}
+
+[[zh-min-nan:閃]]
+[[fr:閃]]
+[[ko:閃]]
+[[hu:閃]]
+[[mg:閃]]
+[[ja:閃]]
+[[pl:閃]]
+[[th:閃]]
+[[zh:閃]]

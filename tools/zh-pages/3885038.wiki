@@ -1,0 +1,28 @@
+{{also|综合症}}
+==Chinese==
+{{zh-forms|s=综合症|type=21}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+{{zh-compound|綜合|症|composite, combined|symptom}}
+
+===Pronunciation===
+{{zh-pron
+|m=綜hézhèng
+|c=zung3 hap6 zing3,zung1 hap6 zing3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Mainland China}} [[syndrome]]
+
+====Synonyms====
+* {{qualifier|Mainland China|prescriptive}} {{zh-l|綜合徵}}
+* {{qualifier|Taiwan}} {{zh-l|症候群}}
+
+====Derived terms====
+{{zh-der|強制性挖鼻綜合症|唐氏綜合症}}
+
+[[ru:綜合症]]

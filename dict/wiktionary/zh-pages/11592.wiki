@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=05|sn=7|four=|canj=IRLN|ids=⿰台刂}}
+
+====References====
+* {{Han ref|kx=0138.100|dkj=01922|dj=0311.110|hdz=10332.030|uh=5223|ud=21027}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|台|刀|alt2=刂|ls=psc|c1=p|c2=s|t2=knife|no_och1=y}}.
+
+===Etymology 1===
+{{zh-forms|alt=𠛀}}
+
+====Pronunciation====
+{{zh-pron
+|m=zhōng
+|mn=chiong
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[pare]]; to [[scrape]]
+
+===Etymology 2===
+{{zh-forms|alt=殺,杀,刏,𠷂,夷,治,汰}}
+
+Substrate word. Compare:
+* {{cog|hmx-pro|*təjH||to kill}} ~ {{cog|hmx-pro|*dəjH||to die}}
+** {{cog|mww|tua||to kill}}
+** {{cog|mww|tuag||to die}}
+* {{cog|map-pro|*pa-aCay||to kill}} ~ {{cog|map-pro|*ma-aCay||to die}}
+** {{cog|ami|patay||to die; death}}
+** {{cog|ceb|patay||dead; to kill}}
+* {{cog|tai-pro|*p.taːjᴬ||to die}}
+** {{cog|th|ตาย||to die}}
+
+====Pronunciation====
+{{zh-pron
+|md=tài
+|mn=thâi
+|mn-t=tai5
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tlb|zh|Min}}
+
+# to [[kill]]; to [[slaughter]]
+# to [[cut]]
+# to [[cut]] [[open]]
+
+=====Synonyms=====
+* {{sense|to kill}} {{qualifier|Mandarin}} {{zh-l|殺}}
+
+====Compounds====
+{{zh-der|刣死|刣頭|刣儂放火|刣雞教猴|相刣|了錢生理無人做，刣頭生理有人做|好好鱟刣甲屎那流|忍氣求財，激氣相刣|搖人無才，搖豬無刣|膨風水雞刣無肉|刣價}}
+
+[[zh-min-nan:刣]]
+[[fr:刣]]
+[[pl:刣]]
+[[th:刣]]
+[[zh:刣]]

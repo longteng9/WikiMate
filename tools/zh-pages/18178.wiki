@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|蘗}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=13|sn=17|four=70904|canj=SJD|ids=⿱辟木}}
+
+# Amur [[cork]] [[tree]] {{gloss|{{taxlink|Phellodendron amurense|species|noshow=1}}}}
+
+====References====
+* {{Han ref|kx=0557.040|dkj=15669|dj=0946.130|hdz=21306.020|uh=6A97|ud=27287|bh=C0D0|bd=49360}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bò
+|c=baak3,paak3
+|mc=y
+|oc=y
+|ma=
+|cat=pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木13}}
+
+# Amur Maple
+
+====Readings====
+* {{ja-readings|on=[[はく]] (haku), [[びゃく]] (byaku)|kun=[[きわだ]] (kiwada)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=벽|eumhun=|rv=byeok|mr=pyŏk|y=pyek}}
+
+# {{defn|lang=ko|sort=木13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木13| hanviet = bá}}
+
+# {{defn|lang=vi|sort=木13}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6a97 Nom Foundation]
+
+[[fr:檗]]
+[[hu:檗]]
+[[mg:檗]]
+[[ja:檗]]
+[[pl:檗]]
+[[th:檗]]
+[[zh:檗]]

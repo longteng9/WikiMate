@@ -1,0 +1,86 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|甶|t1=head (abbreviated as 田)|禸|t2=tail & the rear|ls=p}} – a monkey with the head, rear and tail. [According the ''[[w:Shuowen Jiezi|Shuowen]]''].
+
+===Han character===
+{{Han char|rn=114|rad=禸|as=04|sn=9|four=60427|canj=WLBI}}
+
+# [[district]]
+# [[mountain]] in [[Zhejiang]] [[province]]
+
+====Derived characters====
+* [[偶]] [[愚]] [[遇]] [[寓]] [[隅]] [[嵎]] [[藕]]
+
+====References====
+* {{Han ref|kx=0848.050|dkj=24886|dj=1269.240|hdz=42533.040|uh=79BA|ud=31162|bh=ACEB|bd=44267}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yú,yù
+|c=jyu6,jyu4
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|禺谷|禺彊|禺中|木禺}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=禸04}}
+
+# {{defn|lang=ja|sort=禸04}}
+
+====Readings====
+* {{ja-readings|on=[[ぐう]] (gū), [[ぐ]] (gu)|kun=[[おながさる]] (onagasaru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=옹|eumhun=|rv=ong|mr=ong|y=ong}}
+
+# {{defn|lang=ko|sort=禸04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngung]], [[ngu]]|rs=禸04}}
+
+# {{defn|lang=vi|sort=禸04}}
+
+[[fr:禺]]
+[[ko:禺]]
+[[hu:禺]]
+[[mg:禺]]
+[[ja:禺]]
+[[pl:禺]]
+[[th:禺]]
+[[zh:禺]]

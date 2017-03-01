@@ -1,0 +1,63 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=09|sn=14|four=00134|canj=KONK}}
+
+# [[warts]], [[pimples]]
+
+====References====
+* {{Han ref|kx=0776.180|dkj=22320|dj=1186.310|hdz=42685.050|uh=760A|ud=30218|bh=E2DF|bd=58079}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hóu
+|c=hau4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|瘊子}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒09}}
+
+# {{defn|lang=ja|sort=疒09}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[ぐ]] (gu)|kun=[[いぼ]] (ibo)|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''瘊''' ([[hầu]])
+
+# {{defn|lang=vi}}
+
+[[fr:瘊]]
+[[hu:瘊]]
+[[mg:瘊]]
+[[pl:瘊]]
+[[th:瘊]]
+[[zh:瘊]]

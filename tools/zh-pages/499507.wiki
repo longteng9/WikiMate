@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|おん|だん|ぜん|せん|yomi=on}}
+
+===Etymology===
+{{compound|温暖|前線|t1=warm|t2=front line|lang=ja|sort=おんだんぜんせん}}
+
+===Noun===
+{{ja-noun|おんだん ぜんせん}}
+
+# {{lb|ja|meteorology|sort=おんだんぜんせん}} [[warm front]]
+
+====Antonyms====
+* {{ja-r|寒冷前線|かんれい ぜんせん|gloss=cold front}}
+
+===References===
+* {{R:Kojien}}
+
+[[Category:ja:Weather|おんだんぜんせん]]
+
+[[hu:温暖前線]]

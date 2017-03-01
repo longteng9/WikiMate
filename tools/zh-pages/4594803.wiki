@@ -1,0 +1,27 @@
+==Chinese==
+{{zh-forms|note=Short for {{zh-l|公共交通}}.}}
+
+===Pronunciation===
+{{zh-pron
+|m=gōngjiāo
+|c=gung1 gaau1
+|w=1kon jiau
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[public transport]]; [[public transit]]; [[public transportation]]
+# {{zh-short|公交車|[[bus]]}}
+#: {{zh-x|你 坐 公交 可以 直接 到。|You can get there directly by '''bus'''.}}
+
+====Synonyms====
+{{zh-dial|公共汽車}}
+
+====Derived terms====
+{{zh-der|公交車}}
+
+[[mg:公交]]
+[[ja:公交]]
+[[zh:公交]]

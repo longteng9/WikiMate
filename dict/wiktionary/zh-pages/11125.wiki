@@ -1,0 +1,103 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=09|sn=11|four=25240|canj=ONKQ|ids=⿰亻建}}
+
+====References====
+* {{Han ref|kx=0111.110|dkj=00875|dj=0237.100|hdz=10184.090|uh=5065}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=徤}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|alt1=亻|t1=person|建|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jiàn
+|c=gin6
+|h=pfs=khien
+|md=giâng/giông
+|md_note=giâng - vernacular; giông - literary
+|mn=qz,tw,xm,zz:kiāⁿ/qz,tw,xm,zz:kiān
+|mn_note=kiāⁿ - vernacular; kiān - literary
+|w=3jji
+|mc=y
+|oc=y
+|cat=a,adv,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[strong]]; [[robust]]; [[vigorous]]
+# [[healthy]]; in good [[health]]
+#: {{zh-x|健康|health; healthy; sound}}
+# [[adeptly]]; [[energetically]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|健步|健存|健兒|健將|健捷|健康|健朗|健美|健美操|健美褲|健美運動|健全|健身|健身房|健實|健談|健忘|健旺|健胃|健在|健壯|伉健|保健|保健操|保健物理|保健粉筆|健仰|健保|健保卡|健兒門診|健力|健力舞|健力運動|健吏|健婦|健康保險|健康教育|健康檢查|健康襪|健康醋|健康食品|健忘症|健檢|健步如飛|健水|健浪|健碩|健筆|健羨|健胃劑|健胸|健舞|健行|健訟|健起|健身院|優生保健|全民健保|凌雲健筆|刁健訟棍|剛健|勇健|四健會|壯健|官健|尖齊圓健|康健|強健|復健|復健中心|復健醫學|心理健康|爽健|矯健|神爽體健|積健為雄|穩健|身輕體健|輕健|雄健|雅健|頑健|馬前健}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=人09}}
+
+# [[strong]], [[robust]], [[healthy]]
+# [[strength]]
+
+====Readings====
+* {{ja-readings|goon=[[ごん]] (gon) {{non-joyo-reading}}|kanon=[[けん]] (ken)|kun=[[すこやか]] (sukoyaka), [[たけし]] (takeshi), [[したたか]] (shitataka)}}
+
+====Compounds====
+* {{ja-r|健康|けんこう}}: [[health]]
+* {{ja-r|健全|けんぜん}}
+* {{ja-r|健闘|けんとう}}: good fight, strenuous effort
+
+===Proper noun===
+{{ja-pos|proper|けん}}
+
+# {{given name|male|lang=ja}}
+
+{{ja-pos|proper|たけし}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|けん]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[건]], [[견]]|rv=geon, gyeon|mr=kŏn, kyŏn}}
+
+# {{defn|lang=ko|sort=人09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kiện]], [[kẹn]], [[lương]]|rs=人09}}
+
+# {{defn|lang=vi|sort=人09}}
+
+[[fr:健]]
+[[ko:健]]
+[[it:健]]
+[[li:健]]
+[[hu:健]]
+[[mg:健]]
+[[ja:健]]
+[[no:健]]
+[[pl:健]]
+[[th:健]]
+[[zh:健]]

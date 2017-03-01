@@ -1,0 +1,42 @@
+{{also|搖籃|摇篮}}
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|よう|らん|yomi=o}}
+From {{etyl|ltc|ja|sort=ようらん}} compound {{m|zh|搖籃|tr=yew lam|lit=shake, rock + basket}}.
+
+====Pronunciation====
+{{ja-pron|yomi=on|ようらん|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ようらん|kyu=搖籃|hhira=えうらん}}
+
+# {{lb|ja|sort=ようらん|archaic}} a [[rocking]] [[cradle]] {{qualifier|for a baby}}
+# {{lb|ja|sort=ようらん|figuratively|by extension}} [[infancy]]; [[early]] [[stage]]s of something
+#: {{ja-usex|'''揺籃'''の地|'''ようらん''' の ち|place of the '''beginning'''<ref>{{R:SanseidōKokugoJiten1974}}</ref>}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|揺籃歌|ようらんか}} a [[lullaby]]
+* {{ja-r|揺籃期|ようらんき}} [[infancy]]; [[early]] [[stage]]s of something
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|ゆり|かご}}
+Compound of {{compound|lang=ja|sort=ゆりかご|揺|tr1=yuri|t1=rocking|pos1=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{ja-l|揺る}} ''yuru'' “to rock; to shake”|籃|tr2=kago|t2=basket}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|ゆりかご|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|揺り籠}} {{qualifier|more common spelling}}
+
+====Noun====
+{{ja-noun|ゆりかご}}
+
+# a [[rocking]] [[cradle]] {{qualifier|for a baby}}
+
+===References===
+<references/>
+
+[[ja:揺籃]]

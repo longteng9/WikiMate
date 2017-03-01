@@ -1,0 +1,54 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=08|sn=12|four=65081|canj=ATBC|ids=⿰日典}}
+
+# {{defn|Han|sort=日08}}
+
+====References====
+* {{Han ref|kx=0496.220|dkj=13974|dj=0862.070|hdz=21518.120|uh=666A|ud=26218|bh=D9A7|bd=55719}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tiǎn
+|c=long4
+|mc=y
+|oc=y
+|ma=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 123]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日08}}
+
+# {{defn|lang=ja|sort=日08}}
+
+====Readings====
+* {{ja-readings|on=[[てん]] (ten)|kun=[[あきらか]] (akiraka)}}
+
+[[fr:晪]]
+[[hu:晪]]
+[[pl:晪]]
+[[th:晪]]
+[[zh:晪]]

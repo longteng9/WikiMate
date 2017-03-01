@@ -1,0 +1,156 @@
+{{character info/new}}
+{{also|杀}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=79|rad=殳|as=07|sn=11|four=47947|canj=KCHNE,KDHNE|ids=⿰杀殳}}
+
+====References====
+* {{Han ref|kx=0585.110|dkj=16638|dj=0978.050|hdz=32157.010|uh=6BBA|ud=27578|bh=B1FE|bd=45566}}
+
+----
+
+==Chinese==
+{{zh-forms|s=杀}}
+
+===Glyph origin===
+{{Han etym}}
+
+In the oracle bone script, it was an {{Han compound|戈||t1=spear|t2=hair|ls=ic|nocap=y}} – a man impaled in the head.
+
+In the bronze script, {{zh-l|*人|man}} was added under the hair to accentuate the killing of the man. In some bronze inscriptions, {{zh-l|*殳|spear}} or {{zh-l|*攴}} was used in place of {{lang|zh|戈}}.
+
+In the bamboo and silk script, symbol representing the man being killed corrupted into {{zh-l|*杀}}: {{Han compound|乂|t1=weapon for killing|𣎳}}. The seal script inherits this: {{Han compound|𣏂|c1=p|殳|c2=s|t2=spear|ls=psc}}.
+
+===Etymology 1===
+From {{inh|zh|sit-pro|*g/b-sat}}.
+
+====Pronunciation====
+{{zh-pron
+|m=shā
+|c=saat3
+|h=pfs=sat
+|md=sák
+|mn=sat/qz,xm,zz:soah
+|mn_note=sat - literary; soah - vernacular
+|w=4saq
+|mc=2
+|oc=1,2
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[kill]]; to [[murder]]
+# to [[hurt]]
+
+=====Synonyms=====
+* {{qualifier|Min}} {{zh-l|*刣}}
+
+====Compounds====
+{{zh-der|凶殺|不教而殺|一概抹殺|慈悲殺人|以殺去殺|妨殺|喊殺|慢性自殺|劫殺|切腹自殺|忒殺|刺殺|宰殺|惡支殺|他殺|天生天殺|卸磨殺驢|一筆抹殺|大殺風景|低溫殺菌|凶殺案|以殺止殺|屠殺|好生惡殺|嚴殺|喊殺連天|封殺|情殺|射殺|姦殺|夾殺|天殺的|合殺|大殺|大屠殺|坑殺|仇殺|勝殘去殺|廝殺|嗜殺成性|剿殺|去殺勝殘|借刀殺人|借劍殺人|殺掠|溷殺|扼殺|殺死|殺氣|格殺|掩殺|殺家達子|殺人償命|殺雞為黍|殺價|收殺|殺人放火|掠殺|殺風景|斫殺|殺人如蓺|殺機|殺身成義|殺坯|殺蟲器|殺生之權|打殺|毒殺|殺雞炊黍|毀車殺馬|殺出重圍|殺人如麻|止殺|殺傷力|抹殺|殺馬毀車|殺傷|殺人罪|畏罪自殺|斬刈殺伐|濫殺無辜|殺伐|接殺|殺雞取卵|搏殺|殺才|殺氣騰騰|捕殺|殺身成名|生殺之權|殺伐決斷|殺妻求將|殺人盈野|曾子殺彘|殘殺|槍殺|殺戮|打打殺殺|暗殺|殺身救國|殺彘教子|殺人滅跡|殺頭|殺青|殺菌|殺生之柄|殺身報國|殺一儆百|殺菌劑|獵殺|牲殺|撲殺|殺身為報|殺害|殺敵致果|氣殺鍾馗|抄殺|打魚殺家|殺一利百|故殺|殺人犯|生殺與奪|生殺大權|生殺予奪|殺身|殺戒|殺身出生|狙殺|按殺|淹殺|殺雞儆猴|殺身之禍|殺威風|殺人越貨|拉殺|殺生與奪|殺口甜|砍殺|殺雞駭猴|殺雞扯脖|殺生|爛殺|拋閃殺人|捐殘去殺|曾參殺人|沒亂殺|殺人如草|殺狗勸夫|殺蟲劑|殺聲震天|殺狗記|殺手鐧|殺手|殺性子|殺威棒|殺千刀|殺剁|殺人如芥|格殺勿論|破殺殺|殺身成仁|春生秋殺|斬盡殺絕|殺人滅口|逼殺|過失殺人|義刑義殺|觸殺|絞殺|誤殺|虐殺|藥殺|誘殺|通殺|衝殺|馬殺雞|荊劉拜殺|躁殺|肅殺|雙殺|覆軍殺將|誅殺|苦殺|鴆殺|追殺|謀殺|趕盡殺絕|誅盡殺絕|虧殺|自相殘殺|自殺}}
+
+===Etymology 2===
+From {{och-l|衰|to diminish; to decay}} + final ''*-t'' ({{zh-ref|Schuessler, 2007}}).
+
+====Pronunciation====
+{{zh-pron
+|m=殺
+|c=saai3
+|h=
+|md=sái
+|mn=
+|w=
+|dial=n
+|mc=1
+|oc=2,1
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[pare]] off; to [[diminish]]; to [[reduce]]; to [[clip]]
+#: {{zh-x|隆殺 之 義 辨 矣。|The principle of increase and dimunution (of sumptuary allowances) is defined.|CL|ref={{w2|zh|荀子}}, {{lang|zh|《樂論》}}}}
+
+====Compounds====
+{{zh-der|fold=1|幽殺|不殺|不豐不殺|噍殺|殺衣縮食|豐殺}}
+
+{{zh-cat|Elementary|Death}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=殳07}}
+
+# to [[kill]]
+
+====Readings====
+{{ja-readings
+|goon=[[せい]] (sei) {{non-joyo-reading}}, [[せち]] (sechi) {{non-joyo-reading}}, [[せつ]] (setsu)
+|kanon=[[さい]] (sai), [[さつ]] (satsu)
+|kun=[[ころす|ころ.す]] ({{ja-l|殺す}}, koro.su), [[そぐ|そ.ぐ]] ({{ja-l|殺ぐ}}, so.gu)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|縊殺|いさつ}}: [[strangling]] to [[death]]
+* {{ja-r|虐殺|ぎゃくさつ}}
+* {{ja-r|人殺し|ひとごろし}}
+* {{ja-r|必殺|ひっさつ}}
+* {{ja-r|殺人|さつじん}}
+* {{ja-r|殺害|さつがい}}
+* {{ja-r|殺気|さっき}}
+* {{ja-r|殺菌|さっきん}}
+* {{ja-r|殺傷|さっしょう}}
+* {{ja-r|殺身|さっしん}}
+* {{ja-r|殺生|せっしょう}}
+* {{ja-r|殺青|さっせい}}
+* {{ja-r|殺節|さっせつ}}
+* {{ja-r|殺到|さっとう}}
+* {{ja-r|殺伐|さつばつ}}
+* {{ja-r|殺風景|さっぷうけい}}
+* {{ja-r|殺戮|さつりく}}
+* {{ja-r|殺略|さつりゃく}}
+* {{ja-r|殺陣|さつじん}}
+* {{ja-r|刺殺|しさつ}}
+* {{ja-r|自殺|じさつ}}: [[suicide]]
+* {{ja-r|相殺|そうさい}}
+* {{ja-r|他殺|たさつ}}
+* {{ja-r|抹殺|まっさつ}}
+* {{ja-r|黙殺|もくさつ}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[살]], [[쇠]]|eumhun=|mr=sal, soe|y=sal, soy}}
+
+# {{defn|lang=ko|sort=殳07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sát]], [[sái]], [[sít]], [[sịt]], [[sướt]], [[sét]], [[sượt]]|rs=殳07}}
+
+# {{defn|lang=vi|sort=殳07}}
+
+[[fr:殺]]
+[[ko:殺]]
+[[lt:殺]]
+[[hu:殺]]
+[[mg:殺]]
+[[fj:殺]]
+[[ja:殺]]
+[[pl:殺]]
+[[pt:殺]]
+[[th:殺]]
+[[chr:殺]]
+[[zh:殺]]

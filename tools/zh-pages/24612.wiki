@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|曰|白|日|鼠}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+{{Han etyl}}
+
+{{liushu|p}}: a mortar
+
+===Han character===
+{{Han char|rn=134|rad=臼|as=00|sn=6|four=77770|canj=HX}}
+
+# [[mortar]]
+# [[bone]] [[joint]] [[socket]]
+# {{mul-kangxi radical-def}}
+
+====References====
+{{Han ref|kx=1003.010|dkj=30173|dj=1459.110|hdz=53037.010|uh=81FC|ud=33276|bh=A6DD|bd=42717}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiù
+|c=kau3,kau5
+|h=pfs=khiu, khíu
+|mn=khū
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=n
+}}
+
+====References====
+* (''Min Nan'') [http://twblg.dict.edu.tw/holodict_new/index.html Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=臼00}}
+
+# [[millstone]]; [[mortar]]
+
+====Readings====
+{{ja-readings|on=[[きゅう]] (kyū)|kun=[[うす]] (usu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# {{defn|lang=ko|sort=臼00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=臼00|hanviet=[[cối]], [[cữu]]}}
+
+# {{defn|lang=vi|sort=臼00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:臼]]
+[[ko:臼]]
+[[hu:臼]]
+[[mg:臼]]
+[[ms:臼]]
+[[ja:臼]]
+[[no:臼]]
+[[pl:臼]]
+[[ru:臼]]
+[[th:臼]]
+[[zh:臼]]

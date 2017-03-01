@@ -1,0 +1,28 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Bladesmithing}}
+{{wikipedia|Japanese swordsmithing}}
+[[File:Blacksmith_Munechika,_helped_by_a_fox_spirit,_forging_the_blade_Ko-Gitsune_Maru,_by_Ogata_Gekkō.jpg|thumb|250px|{{lang|ja|刀工}} (''tōkō''): a [[swordsmith]] at work.]]
+</div>
+{{ja-kanjitab|とう|こう|yomi=o}}
+
+===Etymology===
+Unclear. May be from {{etyl|ltc|ja|sort=とうこう}} compound {{m|ltc|刀工|tr=taw kuwng|lit=knife work}}. Alternatively, may be a {{etyl|ja|-}} coinage based on {{etyl|ltc|-}} components.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|とうこう|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|とうこう|hhira=たうこう}}
+
+# a [[swordsmith]], someone who makes [[sword]]s
+
+====Synonyms====
+* {{ja-r|刀鍛冶|かたな かじ}}
+* {{ja-r|刀匠|とうしょう}}
+
+===References===
+<references/>
+
+[[ja:刀工]]

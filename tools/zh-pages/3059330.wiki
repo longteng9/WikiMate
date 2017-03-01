@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=Yǔtián
+|cat=propn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# [[Haneda]] {{gloss|one of Tokyo's major airports}}
+#: {{zh-x|羽田 機場|'''Haneda''' Airport}}
+
+====See also====
+* {{zh-l|成田}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|は|だ}}
+
+===Proper noun===
+{{ja-pos|はだ|proper}}
+
+# {{surname|lang=ja|sort=はだ}}
+
+{{ja-kanjitab|はね|だ}}
+
+===Proper noun===
+{{ja-pos|はねだ|proper}}
+
+# [[Haneda]], one of Tokyo's major airports
+
+====See also====
+* {{ja-r|成田|^なりた}}
+
+[[zh:羽田]]

@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=12|sn=16|four=49959|canj=DFDQ|ids=⿰木粦}}
+
+# a species of [[tree]] ({{taxlink|Prunus buergeriana|species|noshow=1}}) found in east [[Asia]] (as used in [[橉木]])
+# [[doorstep]], [[sill]], [[threshold]]
+# tree [[bark]]
+
+====References====
+* {{Han ref|kx=0552.280|dkj=15524|dj=0941.150|hdz=21295.080|uh=6A49|ud=27209|bh=E9C0|bd=59840}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lìn
+|c=leon4,leon6
+|mc=y
+|oc=y
+|ma=
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* [http://www.zdic.net/zd/zi/ZdicE6ZdicA9Zdic89.htm zdic.net (Han Dian)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木12}}
+
+# {{defn|lang=ja|sort=木12}}
+
+====Readings====
+* {{ja-readings|on=[[りん]] (rin)|kun=[[しきみ]] (shikimi)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木12| hanviet = săng}}
+
+# {{defn|lang=vi|sort=木12}}
+
+[[fr:橉]]
+[[hu:橉]]
+[[pl:橉]]
+[[th:橉]]
+[[zh:橉]]

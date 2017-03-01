@@ -1,0 +1,18 @@
+==Japanese==
+{{ja-kanjitab|けい|さん|しき|yomi=o}}
+
+===Etymology===
+{{com|ja|計算|式|tr1=keisan|tr2=shiki|t1=calculation|t2=formula}}
+
+===Pronunciation===
+{{ja-pron|けいさんしき|y=o}}
+
+===Noun===
+{{ja-noun|けいさんしき}}
+
+# {{lb|ja|math}} [[formula]]
+
+====Synonyms====
+* {{ja-r|公式|こうしき}}, {{ja-r|式|しき}}
+
+[[mg:計算式]]

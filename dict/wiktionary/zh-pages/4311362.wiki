@@ -1,0 +1,26 @@
+{{also|之内}}
+==Chinese==
+{{zh-forms|s=之内}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhīnèi
+|c=zi1 noi6
+|h=gd=zi1 nui4
+|mn=xm,zz,tw:chi-lāi/qz:chi-lǎi/chi-lōe
+|cat=post
+}}
+
+===Postposition===
+{{zh-post}}
+
+# [[within]]; [[inside]]; [[in]]
+#: {{zh-x|在 這 方圓 十 里 之內 根本 就 沒有 老虎。|There simply isn't a single tiger within the 10-mile radius.}}
+
+====Usage notes====
+* The noun phrase followed by this postposition is usually preceded with {{zh-l|在}}.
+* Usually used with time range expressions, numerical values, abstract or intangible areas or regions (such as one's jurisdiction or the coverage of a cell tower).
+
+[[ko:之內]]
+[[ja:之內]]
+[[zh:之內]]

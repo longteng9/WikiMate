@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|げ|す|yomi=o}}
+
+===Etymology===
+The compound of [[下]] ([[inferior]]) + [[司]] ([[official]]).
+
+===Noun===
+{{ja-noun|げす}}
+
+# {{sense|archaic}} an [[inferior]] [[official]]; a [[petty]] official
+# an inferior [[person]]; a petty person
+#: '''下司'''の後知恵。
+#:: A '''petty person''' becomes wiser after an event.
+# a [[male]] [[dog]] ([[figuratively]], [[to]] [[express]] [[one's]] [[disgust]])
+
+====Related terms====
+* {{ja-r|上司|じょうし}}
+
+====Synonyms====
+* {{sense|inferior official}} {{ja-r|下僚|かりょう}}, {{ja-r|下吏|かり}}, {{ja-r|賎吏|せんり}}
+* {{sense|inferior person}} {{ja-r|賎|しず}}, {{ja-r|下っ端|したっぱ}}, {{ja-r|賎人|せんじん}}
+
+====Antonyms====
+* {{sense|male dog}} {{ja-r|売女|ばいた}}

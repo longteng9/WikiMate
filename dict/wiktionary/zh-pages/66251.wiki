@@ -1,0 +1,57 @@
+{{also|声調|声调}}
+==Chinese==
+{{zh-forms|s=声调}}
+
+===Pronunciation===
+{{zh-pron
+|m=shēngdiào,er=y
+|c=sing1 diu6
+|h=pfs=sâng-thiau
+|mn=siaⁿ-tiāu
+|w=1sen diau
+|md=sĭng-diêu
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[tone]]; [[note]]
+# {{lb|zh|linguistics}} tone
+
+====Derived terms====
+{{zh-der|聲調符號|聲調數字}}
+
+===See also===
+{| class="wikitable" style="text-align:center"
+|+ ''An overview of the major Chinese tonal categories''
+|-
+! !! {{zh-l|平聲}} !! {{zh-l|上聲}} !! {{zh-l|去聲}} !! {{zh-l|入聲}} !! {{zh-l|輕聲}}
+|-
+! {{zh-l|陰}}
+| {{zh-l|陰平}} || {{zh-l|陰上}} || {{zh-l|陰去}} || {{zh-l|陰入}} || —
+|-
+! {{zh-l|陽}}
+| {{zh-l|陽平}} || {{zh-l|陽上}} || {{zh-l|陽去}} || {{zh-l|陽入}} || —
+|}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|thanh điệu|a [[Vietnamese]], [[Chinese]] character or word tone}}
+
+[[zh-min-nan:聲調]]
+[[ko:聲調]]
+[[hu:聲調]]
+[[mg:聲調]]
+[[ja:聲調]]
+[[chr:聲調]]
+[[zh:聲調]]

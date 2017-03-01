@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=09|sn=12|four=93027|canj=PHSB|ids=⿰忄扁}}
+
+# [[narrow-minded]]
+
+====References====
+* {{Han ref|kx=0393.080|dkj=10872|dj=0729.060|hdz=42331.110|uh=60FC|ud=24828|bh=D947|bd=55623}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=biǎn
+|c=bin2,pin2
+|mc=y
+|oc=y
+|cat=a
+}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 109]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心09}}
+
+# [[narrow-minded]]
+
+====Readings====
+* {{ja-readings|on=[[へん]] (hen)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=편|eumhun=|rv=pyeon|mr=p'yŏn|y=phyen}}
+
+# [[narrow-minded]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心09|hanviet=bẽn}}
+
+# {{defn|lang=vi|sort=心09}}
+
+[[fr:惼]]
+[[li:惼]]
+[[hu:惼]]
+[[pl:惼]]
+[[th:惼]]
+[[zh:惼]]

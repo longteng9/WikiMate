@@ -1,0 +1,98 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=19|rad=力|as=05|sn=7|four=47427|canj=VEKS|ids=⿱奴力}}
+
+# to [[exert]], [[strive]], [[make an effort]]
+# to [[pout]]
+
+====References====
+* {{Han ref|kx=0146.280|dkj=02314|dj=0331.010|hdz=10369.040|uh=52AA|ud=21162|bh=A756|bd=42838}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|力|t1=strength|奴|ls=psc|c1=s|c2=p}} – exert one’s strength.
+
+===Pronunciation===
+{{zh-pron
+|m=nǔ
+|c=nou5
+|h=pfs=nú
+|md=
+|mn=qz,tw:ló͘/xm,zz:nó͘/qz:lǒ͘
+|mn_note=ló͘/nó͘ - literary; lǒ͘ - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=力05}}
+
+# [[work]], [[toil]]
+
+====Readings====
+{{ja-readings
+|goon=[[ぬ]] (nu) {{non-joyo-reading}}
+|kanon=[[ど]] (do)
+|kun=[[つとむ]] ([[努む]], tsutomu) {{qualifier|obsolete}}, [[つとめる]] ([[努める]], tsutomeru)
+|nanori=[[つとむ]] (tsutomu)
+}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|つとむ}}
+[[nominalization|Nominalization]] of the classical Japanese verb {{m|ja|努む|tr=tsutomu}} (modern {{m|ja|努める|tr=tsutomeru||to work, to toil}}).
+
+===Pronunciation===
+{{ja-pron|yomi=k|つとむ}}
+
+===Proper noun===
+{{ja-pos|proper|つとむ}}
+
+# {{given name|lang=ja|sort=つとむ|male}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=노|rv=no|mr=no}}
+
+# {{defn|lang=ko|sort=力05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nỗ]]|rs=力05}}
+
+# {{defn|lang=vi|sort=力05}}
+
+[[fr:努]]
+[[ko:努]]
+[[li:努]]
+[[hu:努]]
+[[mg:努]]
+[[ms:努]]
+[[ja:努]]
+[[no:努]]
+[[pl:努]]
+[[th:努]]
+[[zh:努]]

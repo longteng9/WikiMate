@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-see-also|化学}}
+{{ja-kanjitab|化|学|的}}
+
+===Etymology===
+{{suffix|化学|的|lang=ja|t1=chemistry|t2=-like|sort=かがくてき}}
+
+===Pronunciation===
+* {{homophones|lang=ja|科学的}}
+
+===Adjectival noun===
+{{ja-adj|かがくてき|decl=na}}
+
+# [[chemical]]
+
+====Inflection====
+{{ja-na|化学的|かがくてき|kagakuteki}}
+
+====Usage notes====
+* Sometimes pronounced ばけがくてき (''bakegakuteki'') in order to differentiate from phonetically identical [[科学的#Japanese|科学的]] (''kagakuteki''), meaning [[scientific]].
+
+[[lt:化学的]]
+[[sv:化学的]]

@@ -1,0 +1,93 @@
+{{character info/new}}
+{{also|刺}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=07|sn=9|four=52900|canj=DLLN|ids=⿰束刂}}
+
+====References====
+* {{Han ref|kx=0140.140|dkj=02010|dj=0318.050|hdz=10339.060|uh=524C|ud=21068|bh=AB66|bd=43878}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=là
+|c=laat6
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[contradict]]
+# [[slash]], [[cut]] in [[two]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=lá
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[pull]], [[drag]]
+# [[seize]], [[hold]]
+# [[lengthen]]
+
+====References====
+* [http://www.zdic.net/z/16/js/524C.htm zdic.net (Han Dian)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=刀07}}
+
+# {{defn|lang=ja|sort=刀07}}
+
+====Readings====
+* {{ja-readings|goon=[[らち]] (rachi)|kanon=[[らつ]] (ratsu)|kun=[[もとる]] (motoru)}}
+
+====Compounds====
+* [[溌剌]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[랄]]|rv=ral|mr=ral}}
+
+# {{defn|lang=ko|sort=刀07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=刀07|hanviet=[[lạp]], [[lạt]]}}
+
+# {{defn|lang=vi|sort=刀07}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:剌]]
+[[hu:剌]]
+[[mg:剌]]
+[[ja:剌]]
+[[pl:剌]]
+[[th:剌]]
+[[zh:剌]]

@@ -1,0 +1,30 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yīncǐ
+|ma=Zh-yinci.ogg
+|c=jan1 ci2
+|mn=xm,zz,tw:in-chhú/qz:in-chhír
+|w=1in tshr
+|cat=n
+}}
+
+===Conjunction===
+{{zh-con}}
+
+# because of this, [[thus]], [[consequently]]
+#: {{zh-x|拉薩話 有 聲調，但是 藏{Zàng}語.^拼音 不 標 聲調。因此 藏{Zàng}語.^拼音 並 不能 完整 地{de} 記錄 ^拉薩話 的 語音。|The Lhasa dialect has tones, but Tibetan Pinyin does not indicate tone. '''As a result''', Tibetan Pinyin cannot perfectly transcribe the sounds of the Lhasa dialect.|ref='''2008''', ''Chinese Wikipedia'', {{w2|zh|藏語漢語拼音字母音譯轉寫法}}}}
+
+{{zh-cat|Elementary}}
+
+[[zh-min-nan:因此]]
+[[ko:因此]]
+[[li:因此]]
+[[hu:因此]]
+[[mg:因此]]
+[[ja:因此]]
+[[chr:因此]]
+[[uk:因此]]
+[[zh:因此]]

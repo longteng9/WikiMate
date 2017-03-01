@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=huànfǎ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[illusionary]] [[art]]s; [[magic]]; [[sleight of hand]]; [[legerdemain]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|げん|ほう|k2=ぽう|yomi=o}}
+
+===Noun===
+{{ja-noun|げんぽう}}
+
+# [[illusion]][[illusionary|ary]] [[art]]s; [[magic]], [[sleight of hand]], [[legerdemain]]
+
+====Synonyms====
+{{rel-top|Synonyms}}
+* {{ja-r|幻術|げんじゅつ}}: [[illusionary]] [[technique]]s
+* {{ja-r|幻道|げんどう}}
+* {{ja-r|幻導|げんどう}}
+* {{ja-r|魔法|まほう}}: [[magic]]; [[spellcraft]], [[sorcery]]
+* {{ja-r|奇法|きほう}}: [[sleight of hand]]
+{{rel-mid}}
+* {{ja-r|妖法|ようほう}}: [[magic]]; [[spellcraft]], [[sorcery]]
+* {{ja-r|鬼法|きほう}}: [[demonic]] [[magic]]
+* {{ja-r|呪法|じゅほう}}: [[black magic]]
+* {{ja-r|仙法|せんほう}}: [[sage]]/[[hermit]] art(s)
+* {{ja-r|気法|きほう}}: [[magic]]
+{{rel-bottom}}
+
+====See also====
+* {{pedialite|Magic (illusion)}}
+* {{pedialite|奇術|lang=ja}}

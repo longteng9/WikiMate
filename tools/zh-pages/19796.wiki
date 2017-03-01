@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|湾}}
+==Translingual==
+{{stroke order|strokes=25}}
+
+===Han character===
+{{Han char|rn=85|rad=水|as=22|sn=25|four=32127|canj=EVFN}}
+
+====Descendants====
+* {{l|mul|湾}}
+
+====References====
+* {{Han ref|kx=0664.100|dkj=18823|dj=1072.340|hdz=31798.090|uh=7063|ud=28771|bh=C657|bd=50775}}
+
+----
+
+==Chinese==
+{{zh-forms|s=湾}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|alt1=氵|t1=water|彎|ls=psc|c1=s|c2=p}} – a type of water.
+
+===Etymology===
+From {{och-l|彎|bend, curve}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wān
+|c=waan1,waan4
+|h=pfs=vân
+|md=uăng
+|mn=oaiⁿ/oan
+|w=1ue
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|geography}} [[bay]]; [[gulf]]
+
+===Compounds===
+{{zh-der|臺灣/台灣/台湾|排灣|港灣|海灣|一灣子|亞丁灣|大連灣|峽灣|席特拉灣|幾內亞灣|廣州灣|廣東灣|排灣族|料羅灣|暹羅灣|杭州灣|東京灣|波斯灣|灣洄|灣流|灣澴|灣轉|白沙灣|百家灣|肥沃月灣|膠州灣|谷灣|轉灣抹角|遼東灣|金蘭灣|墨西哥灣}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水22|style=ky|shin=湾}}
+
+# {{kyujitai of|湾}}
+
+====Readings====
+* {{ja-readings|on=[[わん]] (wan)|kun=[[いりこむ]] (irikomu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=만|eumhun=|mr=man|y=man}}
+
+# [[bay]], [[gulf]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[loan]], [[loáng]], [[loãng]], [[vịnh]]|rs=水22}}
+
+# [[bay]], [[gulf]]
+
+[[zh-min-nan:灣]]
+[[fr:灣]]
+[[ko:灣]]
+[[hu:灣]]
+[[mg:灣]]
+[[fj:灣]]
+[[ja:灣]]
+[[pl:灣]]
+[[th:灣]]
+[[chr:灣]]
+[[zh:灣]]

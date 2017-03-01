@@ -1,0 +1,79 @@
+{{character info/new}}
+
+==Translingual==
+
+===Han character===
+{{Han char|rn=31|rad=囗|as=03|sn=6|four=26000|canj=HWK|ids=⿱丿龱}}
+
+====References====
+{{Han ref|kx=0216.270|dkj=04691|dj=0444.010|hdz=10713.030|uh=56DF|ud=22239|bh=C9C7|bd=51655}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xìn
+|c=seon3,seon2
+|mn=sìn
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[top]] of the [[head]]
+# [[skull]]
+
+====References====
+* {{thcwd|2136}}
+* {{R:yue:jyut.net}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=囗03}}
+
+# {{defn|lang=ja|sort=囗03}}
+
+====Readings====
+{{ja-readings|on=[[しん]] (shin), [[し]] (shi)|kun=[[ひよめき]] (hiyomeki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=신|rv=sin|mr=sin|y=sin}}
+
+# {{defn|lang=ko|sort=囗03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tín]]|rs=囗03}}
+
+# {{defn|lang=vi|sort=囗03}}
+
+[[zh-min-nan:囟]]
+[[fr:囟]]
+[[ko:囟]]
+[[li:囟]]
+[[hu:囟]]
+[[mg:囟]]
+[[ja:囟]]
+[[pl:囟]]
+[[th:囟]]
+[[zh:囟]]

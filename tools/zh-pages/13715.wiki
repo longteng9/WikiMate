@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|婣}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=06|sn=9|four=46400|canj=WKS|ids=⿱女因}}
+
+# [[marry]]
+# [[marriage]]
+# [[relative]]s by marriage
+
+====References====
+* {{Han ref|kx=0261.160|dkj=06250|dj=0527.190|hdz=21044.080|uh=59FB|ud=23035|bh=ABC3|bd=43971}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|t1=woman|因|ls=psc|c1=s|c2=p}} – marriage of/to a woman.
+
+===Pronunciation===
+{{zh-pron
+|m=yīn
+|c=jan1
+|h=pfs=yîn
+|md=
+|mn=qz,tw,xm,zz:in/qz,tw:ian
+|mn_note=in - literary; ian - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+* {{zh-l|婚姻}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=女06}}
+
+# matrimony
+
+====Readings====
+* {{ja-readings|on=[[いん]] (in)|kun=[[とつぐ]] (totsugu)}}
+
+====Compounds====
+* {{ja-r|婚姻|こんいん}}: marriage, matrimony
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=인|rv=in|mr=in}}
+
+# {{defn|lang=ko|sort=女06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|nhân|rs=女06}}
+
+# {{defn|lang=vi|sort=女06}}
+
+[[fr:姻]]
+[[ko:姻]]
+[[li:姻]]
+[[hu:姻]]
+[[mg:姻]]
+[[ja:姻]]
+[[no:姻]]
+[[pl:姻]]
+[[th:姻]]
+[[zh:姻]]

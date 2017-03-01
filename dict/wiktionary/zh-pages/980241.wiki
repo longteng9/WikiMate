@@ -1,0 +1,32 @@
+==Japanese==
+{{ja-kanjitab|かん|しょく|yomi=on}}
+
+===Etymology===
+{{compound|lang=ja|sort=かんしょく|間|tr1=kan|t1=between|食|tr2=shoku|t2=food}}
+
+===Pronunciation===
+{{ja-pron|かんしょく|y=o}}
+
+===Noun===
+{{ja-noun|かんしょく}}
+
+# an item of [[food]] eaten between [[meal]]s
+
+====See also====
+* {{ja-r|軽食|けいしょく}}
+* {{ja-r|スナック}}
+* {{ja-r|お八つ|おやつ}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|かんしょく}}
+
+# To [[snack]]
+#: {{ja-usex|'''間食する'''と太ることもある。|'''かんしょく する''' と ふとる こと も ある。|'''Snacking''' makes you fat.}}
+
+====Conjugation====
+{{ja-suru|かんしょく}}
+
+[[ko:間食]]
+[[ky:間食]]
+[[ja:間食]]
+[[zh:間食]]

@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|戗}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=62|rad=戈|as=10|sn=14|four=83650|canj=ORI|ids=⿰倉戈}}
+
+# [[support]], [[berm]]
+
+====References====
+* {{Han ref|kx=0413.250|dkj=11632|dj=0756.270|hdz=21410.100|uh=6227|ud=25127|bh=E1D7|bd=57815}}
+
+----
+
+==Chinese==
+{{zh-forms|s=戗}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiāng,qiàng
+|c=coeng3,coeng1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* {{R:twedu|B01237}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=戈10}}
+
+# {{defn|lang=ja|sort=戈10}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[はじめる]] (hajimeru), [[きず]] (kizu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=창|eumhun=|rv=chang|mr=ch'ang|y=chang}}
+
+# {{defn|lang=ko|sort=戈10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=戈10|hanviet=thương}}
+
+# {{defn|lang=vi|sort=戈10}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6227 Nom Foundation]
+
+[[fr:戧]]
+[[hu:戧]]
+[[pl:戧]]
+[[th:戧]]
+[[zh:戧]]

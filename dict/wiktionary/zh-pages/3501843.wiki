@@ -1,0 +1,57 @@
+==Japanese==
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+[[File:Wooden Yuoke.JPG|thumb|250px|{{lang|ja|湯桶}} (''yuoke''): A wooden '''hot-water [[basin]]''' for bathing.]]
+</div>
+{{ja-kanjitab|ゆ|おけ|yomi=k}}
+{{IPAchar|/juwoke/}} → {{IPAchar|/juoke/}}
+
+From {{etyl|ojp|ja|sort=ゆおけ}}. Compound of {{compound|lang=ja|sort=ゆおけ|湯|tr1=yu|t1=warm or hot water|桶|tr2=oke|t2=a bucket or pail; a tub}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> itself a compound of {{m|ja|麻|tr=o||flax, ramie}} + {{m|ja|笥|tr=ke||a container, especially for foodstuffs or tableware}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|ゆおき|acc=0|acc_ref=DJR|acc2=2|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|ゆおけ|hhira=ゆをけ}}
+
+# A [[basin]] or small [[tub]] used to [[douse]] oneself with hot or warm water while [[bathing]].
+# A [[tub]] or [[basin]] for holding hot water, such as when cooking.
+# A tool used during cold-weather {{m|ja|茶道|tr=sadō||tea ceremony}}: a wooden container of warm water with a spout, placed at the entrance for washing and warming the hands of arriving guests.
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|湯桶石|ゆおけ いし}}: A stone to the side of the {{m|ja|手水鉢|tr=chōzubachi||hand-washing basin}} at the entrance to a {{m|ja|茶道|tr=sadō||tea ceremony}} room, on which the ''yuoke'' is placed for cold-weather tea ceremony.
+{{der-bottom}}
+
+===Etymology 2===
+<div style="float:right;">
+[[File:Pail,yutou,soba-yu,katori-city,japan.JPG|thumb|right|250px|{{lang|ja|湯桶}} (''yutō''): A '''''yutō''''' holding [[soba]] [[broth]].]]
+</div>
+{{ja-kanjitab|ゆ|とう|yomi=y}}
+Origin less clear. {{etyl|ojp|ja|sort=ゆとう}} {{m|ja|湯|tr=yu||warm or hot water}} + Chinese-derived [[on'yomi]] {{m|ja|桶|tr=tō||a bucket or pail; a tub}}.
+
+====Pronunciation====
+{{ja-pron|yomi=y|ゆとう|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{l|ja|湯筒}}
+
+====Noun====
+{{ja-noun|ゆとう}}
+
+# {{lb|ja|dated}} A [[lacquerware]] container with a [[spout]] for holding [[broth]] or [[tea]] for consumption after a meal.
+# {{lb|ja|dated}} A type of [[tea caddy]] shaped like a [[pail]].
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|湯桶読み|ゆとうよみ}}: A reading of a kanji compound, consisting of a [[kun'yomi]] for the first kanji and an [[on'yomi]] for the second kanji.
+* {{ja-r|湯桶言葉|ゆとうことば}}: A word read with a ''yutōyomi''.
+* {{ja-r|湯桶石|ゆとう いし}}: A stone to the side of the {{m|ja|手水鉢|tr=chōzubachi||hand-washing basin}} at the entrance to a {{m|ja|茶道|tr=sadō||tea ceremony}} room, on which the ''yuoke'' (see above) is placed for cold-weather tea ceremony.
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[ja:湯桶]]

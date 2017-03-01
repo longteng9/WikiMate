@@ -1,0 +1,17 @@
+{{also|实机}}
+==Chinese==
+{{zh-forms|s=实机}}
+
+===Pronunciation===
+{{zh-pron
+|m=shíjī
+|c=sat6 gei1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[actual]] [[machine]]; actual [[device]]
+#: {{zh-x|實機 操作|to operate on an '''actual machine'''}}
+#: {{zh-x|手機 實機 測試|testing (an app) on an '''actual phone'''}}

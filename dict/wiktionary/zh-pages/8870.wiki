@@ -1,0 +1,133 @@
+==Chinese==
+{{zh-forms|s=中国|lit=middle kingdom; central country}}
+
+===Etymology===
+This word referred to various states and regions throughout history:
+* ''{{w|Western Zhou Dynasty}}'' {{defdate|1046–771 {{BCE}}}}:
+*: the region controlled by the Western Zhou Dynasty, covering the Guanzhong Plain in Shaanxi, as well as the basin between the Yellow River and the Luo River.
+* ''{{w|Eastern Zhou Dynasty}}'' {{defdate|770–221 {{BCE}}}}:
+*: all of the upper reaches of the [[Yellow River]].
+* ''Since {{w|Qin Dynasty}}'' {{defdate|221 {{BCE}}–1911 {{CE}}}}:
+*: the land controlled by the imperial regime of the [[w:Zhongyuan|Central Plain]] - i.e. the ancestors of modern China.
+* ''After the {{w|Xinhai Revolution}}'' {{defdate|1911 {{CE}}}}:
+*: shorthand for {{zh-l|中華民國}}.
+* ''After the founding of the [[People's Republic of China]]'' {{defdate|1949 {{CE}}}}:
+*: shorthand for {{zh-l|中華人民共和國}}.
+
+===Pronunciation===
+{{zh-pron
+|m=Zhōngguó
+|ma=Zh-zhongguo.ogg
+|m-s=Zong1gue2
+|c=zung1 gwok3
+|c-t=zuung1 gok2
+|h=pfs=Chûng-koet;gd=zung1 guêd5
+|g=zung1 guet6
+|j=zung1 gueh4
+|md=Dṳ̆ng-guók
+|mn=Tiong-kok
+|mn-t=dong1 gog4
+|w=1tson koq
+|x=zhong1 gue6
+|mc=1
+|oc=1
+|cat=pn,n
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# [[China]]; the [[Middle Kingdom]]
+#: {{zh-x|中國 的 首都{dū} 是 ^北京 。|The capital of '''China''' is Beijing.}}
+#* {{zh-x|他 現在 在 ^中國 旅行。|He's travelling around '''China''' right now.}}
+#* {{zh-x|你 喜歡 ^中國 文學 嗎？|Do you like '''Chinese''' literature?}}
+#* {{zh-x|中國 和平崛起|'''China''''s peaceful rise}}
+
+====See also====
+* {{zh-l|華}} {{qualifier|abbreviation}}
+* {{zh-l|天下}} {{qualifier|lofty}}
+
+====Derived terms====
+{{zh-der|中國本土|中國城|中國大陸|中國工農紅軍|中國話|中國化|中國畫|中國結|中國內地|中國人民解放軍|中國人|中國式|中國通|中國學|中國語|中國中心主義|中國字}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|archaic}} [[imperial]] [[court]]
+# {{lb|zh|archaic}} [[capital]] of a [[state]]
+# {{lb|zh|archaic}} [[region]] under direct rule of the [[emperor]]
+# {{lb|zh|archaic}} [[w:Zhongyuan|Central Plain]]
+
+===Descendants===
+{{CJKV||ちゅうごく|중국|Trung Quốc|j=中国}}
+''Others'':
+* → Indonesian: {{l|id|Tiongkok}}
+* → Tibetan: {{l|bo|ཀྲུང་གོ}}
+* → Uyghur: {{l|ug|جۇڭگو}}
+* → Zhuang: {{l|za|Cunghgoz}}
+
+{{zh-cat|Countries}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちゅう|こく|k2=ごく|r=y|yomi=on}}
+
+===Proper noun===
+{{ja-pos|ちゅうごく|shin=中国|proper}}
+
+# {{kyujitai spelling of|中国}}: [[China]]
+
+[[Category:ja:Countries|ちゅうごく]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Proper noun===
+{{ko-propn|hangeul=중국}}
+
+# {{hanja form of|중국|China}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Proper noun===
+{{vi-proper noun|sc=Hani}}
+
+# {{han tu form of|Trung Quốc|[[China]]}}
+
+[[Category:Vietnamese proper nouns|Trung Quốc]]
+
+----
+
+==Zhuang==
+
+===Proper noun===
+{{za-head|proper noun|s=中国}}
+
+# {{za-sawndip form of|ts=t|Cunghgoz}}
+
+[[zh-min-nan:中國]]
+[[cs:中國]]
+[[da:中國]]
+[[de:中國]]
+[[fr:中國]]
+[[ko:中國]]
+[[io:中國]]
+[[lo:中國]]
+[[lt:中國]]
+[[hu:中國]]
+[[mg:中國]]
+[[nl:中國]]
+[[ja:中國]]
+[[pl:中國]]
+[[pt:中國]]
+[[ro:中國]]
+[[ru:中國]]
+[[sv:中國]]
+[[th:中國]]
+[[zh:中國]]

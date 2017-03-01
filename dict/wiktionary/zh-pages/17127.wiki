@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|晖}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=09|sn=13|four=67056|canj=ABJJ|ids=⿰日軍}}
+
+# [[sunshine]]
+# [[light]], [[bright]], [[radiant]]
+* When referring to the ''[[guqin]]'' zither:
+# the 13 white dots made of mother-of-pearl inlaid onto the surface board marking the harmonic positions
+# same as [[徽]] (variant)
+
+====References====
+* {{Han ref|kx=0497.380|dkj=14038|dj=0865.290|hdz=21526.100|uh=6689|ud=26249|bh=B775|bd=46965}}
+
+----
+
+==Chinese==
+{{zh-forms|s=晖}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huī
+|c=fai1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|三春暉|吳稚暉|夕暉|夕陽餘暉|寸草春暉|慈暉|斜暉|春暉|暉映|暉暉|朝暉|落暉|餘暉|馳暉|鮑令暉}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日09}}
+
+# {{defn|lang=ja|sort=日09}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[かがやく]] (kagayaku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=휘|eumhun=|rv=hwi|mr=hwi|y=hwi}}
+
+# {{defn|lang=ko|sort=日09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=日09|hanviet=[[hoe]], [[huy]]}}
+
+# {{defn|lang=vi|sort=日09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6689 Nom Foundation]
+
+[[fr:暉]]
+[[ko:暉]]
+[[ja:暉]]
+[[pl:暉]]
+[[th:暉]]
+[[zh:暉]]

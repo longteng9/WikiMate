@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bàonù
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[rage]] violently, to become [[furious]]
+
+===Noun===
+{{zh-noun}}
+
+# [[rage]], [[fury]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぼう|ど|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=ほうど'}} compound {{m|zh|暴怒|tr=baw<sup>H</sup> nu<sup>H</sup>|lit=violent + anger}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|ぼうど|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ぼうど}}
+
+# [[rage]]
+
+===Verb===
+{{ja-verb-suru|ぼうど}}
+
+# [[rage]]
+
+====Conjugation====
+{{ja-suru|ぼうど}}
+
+===References===
+<references/>
+
+[[mg:暴怒]]
+[[chr:暴怒]]
+[[zh:暴怒]]

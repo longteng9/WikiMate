@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=09|sn=13|four=29338|canj=HFP|ids=⿱秋心}}
+
+# [[anxiety]]
+# to [[worry]] about, be [[anxious]]
+
+====References====
+* {{Han ref|kx=0393.210|dkj=10885|dj=0729.180|hdz=42322.080|uh=6101|ud=24833|bh=B754|bd=46932}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chóu
+|c=sau4
+|h=pfs=sèu
+|md=
+|mn=chhiû
+|w=
+|mc=y
+|oc=y
+|ma=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=心09}}
+
+# distress
+
+====Readings====
+* {{ja-readings|goon=[[じゅう]] (jū)|kanon=[[すう]] (sū)|kanyoon=[[しゅう]] (shū)|kun=[[うれい]] (urei), [[うれえる]] (ureeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=心09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sầu]], [[rầu]], [[ràu]], [[xàu]], [[xầu]]|rs=心09}}
+
+# {{defn|lang=vi|sort=心09}}
+
+[[zh-min-nan:愁]]
+[[fr:愁]]
+[[ko:愁]]
+[[li:愁]]
+[[hu:愁]]
+[[mg:愁]]
+[[ja:愁]]
+[[no:愁]]
+[[pl:愁]]
+[[sr:愁]]
+[[th:愁]]
+[[zh:愁]]

@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|径}}
+==Translingual==
+{{Han simplified forms|徑|径|径}}
+
+===Han character===
+{{Han char|rn=60|rad=彳|as=07|sn=10|four=21211|canj=HOMVM|ids=⿰彳巠}}
+
+# [[narrow]] [[path]]
+# [[diameter]]
+# [[direct]]
+
+====References====
+* {{Han ref|kx=0367.190|dkj=10118|dj=0691.030|hdz=20824.070|uh=5F91|ud=24465|bh=AE7C|bd=44668}}
+
+----
+
+==Chinese==
+{{zh-forms|s=径}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìng
+|c=ging3
+|h=pfs=
+|md=
+|mn=qz,tw,xm,zz:kèng
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=彳07}}
+
+# {{defn|lang=ja|sort=彳07}}
+
+====Readings====
+* {{ja-readings|on=[[けい]] (kei)|kun=[[こみち]] (komichi), [[ちかみち]] (chikamichi), [[みち]] (michi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|eumhun=|rv=gyeong|mr=kyŏng|y=kyeng}}
+
+# {{defn|lang=ko|sort=彳07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=彳07|hanviet=[[kính]], [[kinh]]}}
+
+# {{defn|lang=vi|sort=彳07}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5f91 Nom Foundation]
+
+[[fr:徑]]
+[[ko:徑]]
+[[hu:徑]]
+[[ja:徑]]
+[[pl:徑]]
+[[th:徑]]
+[[zh:徑]]

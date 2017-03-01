@@ -1,0 +1,38 @@
+{{also|唔该}}
+==Chinese==
+{{zh-forms|s=唔该}}
+
+===Etymology===
+From the negation particle {{zh-l|唔|tr=m4}} and the character {{zh-l|該|goi1|should}}, literally meaning "[this] should not [be done]", saying that what the other had done was not necessary or it was very kind of them to have done this.
+
+===Pronunciation===
+{{zh-pron
+|c=m4 goi1
+|c-t=m3 goi1
+|ca=zh-yue-唔該.ogg
+|cat=intj
+}}
+
+===Interjection===
+{{zh-interj}} {{tcx|Cantonese|lang=zh|sort=wu2gai1}}
+
+# [[excuse me]] (to get attention)
+#: {{zh-x|唔該，可 唔 可以 要 杯 冰水 呀？|'''Excuse me''', can I have a glass of ice water?|C}}
+# [[please]]
+#: {{zh-x|唔該 你 同 我 睇住 啲 嘢。|'''Please''' keep an eye on my stuff.|C}}
+# [[thank you]]
+#: {{zh-x|唔該 嗮！|'''Thank you''' very much!|C}}
+
+====Synonyms====
+* {{sense|thank you}}
+{{zh-dial|謝謝}}
+
+====Usage notes====
+When {{lang|zh|唔該}}／{{lang|zh|唔该}} is used to mean "thank you," only use it to thank someone for something that you have requested. Using it to thank someone for a gift, patronage, or applause may be offensive. See {{zh-l|多謝|do1 ze6}}.
+
+[[fr:唔該]]
+[[ko:唔該]]
+[[lt:唔該]]
+[[mg:唔該]]
+[[ja:唔該]]
+[[zh:唔該]]

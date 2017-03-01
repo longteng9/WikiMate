@@ -1,0 +1,43 @@
+==Japanese==
+{{wikipedia|dab=仏語 (曖昧さ回避)|仏語|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|ふつ|ご|yomi=o}}
+{{suffix|ja|仏|alt1={{furigana|仏|ふつ}}|tr1=Futsu|gloss1=France|語|alt2={{furigana|語|ご}}|tr2=-go|gloss2=language|sort=ふつご}}.
+
+====Pronunciation====
+{{ja-pron|ふつご|acc=0|dev=1|yomi=on}}
+
+====Proper noun====
+{{ja-pos|proper|ふつご}}
+
+# the [[French]] language
+
+=====Synonyms=====
+* {{ja-r|フランス語|^フランスご}}
+
+===Etymology 2===
+{{ja-kanjitab|ぶつ|ご|yomi=o}}
+{{suffix|ja|仏|alt1={{furigana|仏|ぶつ}}|tr1=Butsu|gloss1=Buddha|語|alt2={{furigana|語|ご}}|tr2=-go|gloss2=words, speech|sort=ふつご'}}.
+
+====Pronunciation====
+{{ja-pron|ぶつご|acc=0|yomi=on}}
+
+====Proper noun====
+{{ja-pos|proper|ぶつご}}
+# the teachings of [[Buddha]]
+# {{non-gloss|a [[technical]] [[term]] for [[Buddhism]]}}
+
+=====Synonyms=====
+* {{sense|Buddhism}} {{ja-r|仏%教|^ぶっ%きょう}}
+
+[[Category:ja:Languages|ふつご]]
+[[Category:Japanese basic words|ふつご]]
+[[Category:ja:Buddhism|ふつご']]
+
+[[fr:仏語]]
+[[hu:仏語]]
+[[mg:仏語]]
+[[ja:仏語]]
+[[uz:仏語]]
+[[pl:仏語]]

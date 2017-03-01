@@ -1,0 +1,97 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=10|sn=16|four=88557|canj=HTTB|ids=⿱竹冓}}
+
+====References====
+* {{Han ref|kx=0894.050|dkj=26320|dj=1321.090|hdz=52997.030|uh=7BDD|ud=31709|bh=EABA|bd=60090}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|竹|冓|c1=s|c2=p|t1=bamboo|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=gōu
+|c=gau1,kau1
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[bamboo]] [[basket]]; bamboo [[frame]]; bamboo [[cage]]
+
+====Compounds====
+{{zh-der|篝火|篝火狐鳴|衣篝|篝燈}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹10}}
+
+# {{defn|lang=ja|sort=竹10}}
+
+====Readings====
+{{ja-readings|goon=[[く]] (ku)|kanon=[[こう]] (kō)|kun=[[かがり]] (kagari), [[ふせご]] (fusego)}}
+
+{{ja-kanjitab|かがり|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|かがり|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|かがり}}
+
+# [[watchfire]], [[fishing]] [[fire]], [[bonfire]]
+# [[iron]] [[basket]] for a [[fire]]
+# [[guardhouse]] during the Kamakura period
+
+====Synonyms====
+* {{sense|watchfire, fishing fire, bonfire}} {{ja-r|篝火|かがりび}}
+* {{sense|iron basket for a fire}} {{ja-r|篝籠|かがりかご}}
+* {{sense|guardhouse during the Kamakura period}} {{ja-r|篝屋|かがりや}}
+
+====Derived terms====
+* {{ja-r|篝筏|かがり.いかだ}}
+* {{ja-r|篝灯籠|かがりどうろう}}
+* {{ja-r|篝船|かがりぶね}}
+* {{ja-r|捨て篝|すてかがり}}
+* {{ja-r|花篝|はなかがり}}
+* {{ja-r|虫篝|むしかがり}}
+
+===References===
+<references/>
+
+[[Category:ja:Fire|かがり]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# {{defn|lang=ko|sort=竹10}}
+
+[[fr:篝]]
+[[ko:篝]]
+[[hu:篝]]
+[[mg:篝]]
+[[ja:篝]]
+[[pl:篝]]
+[[th:篝]]
+[[zh:篝]]

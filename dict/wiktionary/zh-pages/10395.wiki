@@ -1,0 +1,107 @@
+{{character info/new}}
+{{also|醜}}
+
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=1|rad=一|as=03|sn=4|four=17105|canj=NG}}
+
+====References====
+* {{Han ref|kx=0077.040|dkj=00023|dj=0154.040|hdz=10012.070|uh=4E11|ud=19985|bh=A4A1|bd=42145}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=chǒu
+|c=cau2
+|h=pfs=chhú
+|mn=thiú
+|mc=y
+|oc=y
+|ma=Zh-chou.ogg
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[second]] of twelve [[earthly branch]]es ([[十二支]]): [[ox]] ([[牛]]) of [[w:Chinese zodiac|Chinese zodiac]]
+# [[clown]]; [[comedian]]
+
+====Compounds====
+{{zh-der|小丑}}
+
+===Etymology 2===
+{{zh-see|醜||ugly}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=一03}}
+
+# 1:00 AM to 3:00 AM.
+# The [[ox]], the second sign of Chinese [[zodiac]].
+
+====Readings====
+{{ja-readings
+|goon=[[ちゅう]] (chū)|kanon=[[ちゅう]] (chū)
+|kun=[[うし]] (ushi)
+|nanori=[[ひろ]] (hiro)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[축]], [[추]]|rv=chuk, chu|mr=ch'uk, ch'u|eumhun=[[소]], [[이름]]|ehrv=so, ileum|ehmr=so, irǔm|ehy=}}
+
+# {{defn|lang=ko|sort=一03}}
+
+====References====
+* {{Hanja ref|nav=11990}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sửu]], [[giấu]], [[sấu]], [[xấu]]|rs=一03}}
+
+# {{defn|lang=vi|sort=一03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e11&img=1 Nom Foundation]
+
+[[ca:丑]]
+[[cs:丑]]
+[[da:丑]]
+[[fr:丑]]
+[[ko:丑]]
+[[it:丑]]
+[[li:丑]]
+[[hu:丑]]
+[[mg:丑]]
+[[ms:丑]]
+[[ja:丑]]
+[[no:丑]]
+[[pl:丑]]
+[[ru:丑]]
+[[fi:丑]]
+[[th:丑]]
+[[tr:丑]]
+[[uk:丑]]
+[[vi:丑]]
+[[zh:丑]]

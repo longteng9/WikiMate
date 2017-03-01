@@ -1,0 +1,102 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=24260|canj=OJR|ids=⿰亻古}}
+
+====References====
+* {{Han ref|kx=0096.170|dkj=00467|dj=0205.010|hdz=10129.150|uh=4F30|ud=20272|bh=A6F4|bd=42740}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|亻|古|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=gū,gǔ,2nb=variant in Taiwan
+|m-s=gu3
+|c=gu2
+|h=pfs=kû
+|md=gū
+|mn=kó͘
+|w=2ku
+|mc=y
+|oc=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[guess]]; to [[estimate]]
+
+=====See also=====
+* {{zh-l|猜}}
+
+====Compounds====
+{{zh-der|fold=1|公估局|估中|彈觔估兩|估稅|估價單|彈斤估兩|估價行|估倧|估單|估喝|估價|估摸|估計|低估|估倒|估測|估量|估著眼|勘估|估算|估堆兒|估客|抄估|掂斤估兩|推估|略估|難以估計|高估|資產重估|預估|評估|論斤估兩}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=gù
+|c=gu3
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|估衣|[[secondhand]] [[clothes]] for sale}}
+
+====Compounds====
+{{zh-der|fold=1|估衣鋪|估衣}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人05}}
+
+# {{defn|lang=ja|sort=人05}}
+
+====Readings====
+* {{ja-readings|on=[[こ]] (ko)|kun=[[あきなう]] (akinau), [[あたい]] (atai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|rv=go|mr=ko|y=ko}}
+
+# {{defn|lang=ko|sort=人05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cô]], [[cố]]|rs=人05}}
+
+# {{defn|lang=vi|sort=人05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f30 Nom Foundation]
+
+[[zh-min-nan:估]]
+[[fr:估]]
+[[ko:估]]
+[[li:估]]
+[[hu:估]]
+[[mg:估]]
+[[ja:估]]
+[[no:估]]
+[[pl:估]]
+[[th:估]]
+[[zh:估]]

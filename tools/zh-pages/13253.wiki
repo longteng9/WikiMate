@@ -1,0 +1,104 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=09|sn=12|four=41114|canj=GSAV|ids=⿰土匽}}
+
+# [[dam]]
+# [[embankment]], [[dike]], [[bank]]
+
+====References====
+* {{Han ref|kx=0234.040|dkj=05274|dj=0471.120|hdz=10461.050|uh=5830|ud=22576|bh=B3F7|bd=46071}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yàn
+|c=jin2
+|mn=qz,xm,zz:iàn
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|埭堰|堰塞湖|塘堰|都江堰}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土09}}
+
+# {{defn|lang=ja|sort=土09}}
+
+====Readings====
+{{ja-readings|on=[[えん]] (en)|kun=[[せき]] (seki), [[せく]] (seku)}}
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|せき|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|せき|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|せき}}
+
+# [[weir]], [[dam]]
+
+====Usage notes====
+In technical contexts this is distinguished from dam.
+
+====Synonyms====
+* {{ja-r|ダム||[[dam]]}}
+* {{ja-r|堰堤|えんてい|[[dam]]}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=언|rv=eon|mr=ŏn}}
+
+# {{defn|lang=ko|sort=土09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[yển]]|rs=土09}}
+
+# {{defn|lang=vi|sort=土09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5830 Nom Foundation]
+
+[[fr:堰]]
+[[ko:堰]]
+[[li:堰]]
+[[hu:堰]]
+[[mg:堰]]
+[[ja:堰]]
+[[no:堰]]
+[[pl:堰]]
+[[ru:堰]]
+[[th:堰]]
+[[vi:堰]]
+[[zh:堰]]

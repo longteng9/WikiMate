@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǐnlì
+|c=jan5 lik6
+|h=pfs=yín-li̍t
+|mn=qz:ín-lia̍k/tw,xm,zz:ín-le̍k/tw,xm,zz:ín-la̍t
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[gravitation]]
+
+====See also====
+* {{zh-l|重力}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|いん|りょく|yomi=on}}
+
+===Noun===
+{{ja-noun|いんりょく}}
+
+# [[attractive]] [[force]], [[attraction]], [[affinity]], [[magnetism]], [[gravitation]]
+# {{qualifier|metaphoric}} [[attractiveness]], [[allure]], [[magnetism]]
+
+====Derived terms====
+* {{ja-r|引力圏|いんりょくけん}}: [[gravitational field]]
+
+====Antonyms====
+* {{ja-r|斥力|せきりょく}}: [[repulsive]] [[force]]
+
+====See also====
+* {{pedialite|lang=ja}}
+
+[[Category:ja:Physics|いんりよく]]
+
+[[fr:引力]]
+[[ko:引力]]
+[[lt:引力]]
+[[hu:引力]]
+[[ja:引力]]
+[[sv:引力]]
+[[zh:引力]]

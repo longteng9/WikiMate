@@ -1,0 +1,44 @@
+{{also|私语}}
+==Chinese==
+{{zh-forms|s=私语}}
+
+===Pronunciation===
+{{zh-pron
+|m=sīyǔ
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# [literary] to [[whisper]]; to talk in hushed tones
+
+====Derived terms====
+{{zh-der|竊竊私語}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|ご|yomi=on}}
+
+===Noun===
+{{ja-noun|しご}}
+
+# [[whisper]], whispering; [[private]] or [[secret]] [[talk]]
+#* '''1999''' - Kōshun Takami, ''Battle Royale'' (2003, Ōta, Tokyo)
+#*: {{ja-usex|'''私語'''をするんじゃない！|'''しご''' を する ん じゃ ない！|No '''whispering'''!}}
+
+===Verb===
+{{ja-verb-suru|しご}}
+
+# whisper
+
+====Conjugation====
+{{ja-suru|しご}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[hu:私語]]
+[[mg:私語]]
+[[zh:私語]]

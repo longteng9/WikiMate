@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms|type=21|water supply}}
+
+===Etymology===
+{{bor|zh|ja|-}} {{ja-r|水道水|すいどうすい}}.
+
+===Pronunciation===
+{{zh-pron
+|h=pfs=súi-tho-súi
+|mn=tw:chúi-tō-chúi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Taiwanese Min Nan and Hakka}} [[tap water]]
+
+====Synonyms====
+{{zh-dial|自來水}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|水|道|水}}
+
+===Etymology===
+{{compound|水道|t1=tap, water service|水|t2=water|lang=ja|sort=すいどうすい}}.
+
+===Noun===
+{{ja-noun|すいどうすい}}
+
+# [[tap water]], [[running water]].
+
+====Related terms====
+* [[生水]] (namamizu)
+
+[[zh-min-nan:水道水]]
+[[hu:水道水]]

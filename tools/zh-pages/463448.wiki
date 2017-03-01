@@ -1,0 +1,91 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=liúxíng
+|ma=Zh-liúxíng.ogg
+|c=lau4 hang4
+|h=pfs=liù-hàng
+|mn=liû-hêng
+|w=3lieu hhin
+|cat=a,n,v
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[prevalent]]; [[widespread]]
+# {{lb|zh|epidemiology}} [[endemic]]
+# [[popular]]; in [[vogue]]; [[fashionable]]
+
+===Noun===
+{{zh-noun}}
+
+# [[prevalence]]
+# {{lb|zh|epidemiology}} [[endemicity]]
+# [[popularity]]
+
+===Verb===
+{{zh-verb}}
+
+# to become prevalent
+# to [[spread]]; to become endemic
+# to become popular or fashionable
+
+===Derived terms===
+{{zh-der|流行病|流行文化|流行性|流行音樂|大流行病|流行病學|流行學|流行色|流行坎止|流行性感冒|流行歌曲|流行語|流行症}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|りゅう|こう|yomi=on}}
+
+===Noun===
+{{ja-noun|りゅうこう|hhira=りうかう}}
+
+# [[fashion]], [[vogue]]
+# [[prevalence]] (of disease)
+
+===Verb===
+{{ja-verb-suru|りゅうこう|hhira=りうかう}}
+
+# become [[epidemic]], go around
+# become fashionable
+
+====Conjugation====
+{{ja-suru|りゅうこう}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=유행}}
+
+# {{hanja form of|유행|[[fashion]], [[vogue]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|lưu hành|to [[circulate]]}}
+
+[[zh-min-nan:流行]]
+[[ko:流行]]
+[[lt:流行]]
+[[hu:流行]]
+[[mg:流行]]
+[[ja:流行]]
+[[pt:流行]]
+[[ru:流行]]
+[[chr:流行]]
+[[uk:流行]]
+[[zh:流行]]

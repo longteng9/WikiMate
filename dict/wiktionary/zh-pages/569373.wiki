@@ -1,0 +1,54 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=kāndìng
+|c=ham3 ding6,ham1 ding6
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[check]]; to [[scrutinise]]; to [[collate]]
+# to [[survey]]; to [[determine]] by [[measurement]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|じょう|yomi=on}}
+
+===Etymology===
+Probably from {{etyl|ltc|ja|sort=かんじょう}} compound {{m|zh|勘定|tr=khom? deng<sup>H</sup>|lit=investigate + to make something settled}}. Compare modern {{etyl|cmn|-}} {{zh-l|勘定|tr=kāndìng|to demarcate, to examine}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|かんじょう|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|かんじょう|hhira=かんぢやう}}
+
+# [[calculation]]
+# {{lb|ja|restaurant}} [[check]]
+#: {{ja-usex|すみません。お'''勘定'''をおねがいします。|^すみません。 ^お-'''かんじょう''' を おねがい します。|Excuse me. The '''check''', please.}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|かんじょう|hhira=かんぢやう}}
+
+# [[calculate]], [[reckon]]
+
+====Conjugation====
+{{ja-suru|かんじょう}}
+
+===References===
+<references/>
+
+[[cs:勘定]]
+[[fr:勘定]]
+[[ko:勘定]]
+[[li:勘定]]
+[[hu:勘定]]
+[[mg:勘定]]
+[[ja:勘定]]
+[[chr:勘定]]
+[[zh:勘定]]

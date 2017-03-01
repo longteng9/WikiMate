@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|埙|壎}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=10|sn=13|four=46186|canj=GRBC|ids=⿰土員}}
+
+====References====
+* {{Han ref|kx=0236.210|dkj=05360|dj=0474.120|hdz=10472.020|uh=5864|ud=22628|bh=DCE4|bd=56548}}
+
+----
+
+==Chinese==
+{{zh-forms|s=埙}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|土|員|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xūn
+|c=fan1,hyun1
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|musical instrument}} an [[ancient]] [[flute]] made of [[clay]] or [[ceramic]] (egg-shaped holed wind instrument)
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土10}}
+
+# {{alternative form of|壎|lang=ja}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken, from kwen), [[こん]] (kon)|kun=[[つちぶえ]] (tsuchibue)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[훈]]|rv=hun|mr=hun}}
+
+# {{defn|lang=ko|sort=土10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ven]]|rs=土10}}
+
+# {{defn|lang=vi|sort=土10}}
+
+[[fr:塤]]
+[[ko:塤]]
+[[li:塤]]
+[[hu:塤]]
+[[pl:塤]]
+[[th:塤]]
+[[zh:塤]]

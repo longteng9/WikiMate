@@ -1,0 +1,85 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=47933|canj=DHEY|ids=⿰木冬}}
+
+====References====
+* {{Han ref|kx=0518.150|dkj=14610|dj=0906.160|hdz=21187.030|uh=67CA|ud=26570|bh=CF60|bd=53088}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhōng
+|c=dung1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[holly]]
+
+====Derived terms====
+* {{l|zh|柊樹}}, {{l|zh|柊树}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木05}}
+
+# [[holly olive]], ''Osmanthus heterophyllus''
+
+====Readings====
+* {{ja-readings|on=[[しゅう]] (shū)|kun=[[ひいらぎ]] (hiiragi), {{qualifier|historical}} [[ひひらぎ]] (hihiragi)}}
+
+===Noun===
+{{ja-noun|ひいらぎ|hhira=ひひらぎ}}
+
+# [[holly olive]], ''Osmanthus heterophyllus''
+
+===Proper noun===
+{{ja-pos|proper|ひいらぎ|hhira=ひひらぎ}}
+
+# {{surname|lang=ja|sort=ひいらぎ}}
+
+[[Category:Japanese terms spelled with 柊]]
+[[Category:Japanese terms written with one Han script character]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=종|eumhun=|rv=jong|mr=chong|y=cong}}
+
+# {{defn|lang=ko|sort=木05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木05|hanviet=dông}}
+
+# {{defn|lang=vi|sort=木05}}
+
+[[fr:柊]]
+[[ko:柊]]
+[[ja:柊]]
+[[pl:柊]]
+[[sv:柊]]
+[[th:柊]]
+[[zh:柊]]

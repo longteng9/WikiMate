@@ -1,0 +1,44 @@
+{{also|常识}}
+==Chinese==
+{{zh-forms|s=常识}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=cháng識
+|c=soeng4 sik1
+|h=pfs=sòng-sṳt
+|mn=xm,tw:siông-sek/qz:siông-siak/zz:siâng-sit
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[common knowledge]]
+# [[general knowledge]]
+# [[common sense]]
+
+====Descendants====
+{{CJKV||じょうしき|상식|thường thức}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じょう|しき|yomi=on}}
+
+===Noun===
+{{ja-noun|じょうしき}}
+
+# [[common sense]]
+#: {{ja-usex|'''常識'''では考えられない。|'''じょうしき''' で は かんがえられない。|Our common sense tells us that it is unthinkable.}}
+
+[[ko:常識]]
+[[lo:常識]]
+[[hu:常識]]
+[[ja:常識]]
+[[zh:常識]]

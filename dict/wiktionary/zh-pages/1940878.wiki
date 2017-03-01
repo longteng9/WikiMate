@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chōngzú
+|c=cung1 zuk1
+|h=pfs=chhûng-chiuk
+|mn=chhiong-chiok
+|ma=Zh-chongzú.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Elementary Mandarin}} [[adequate]]; [[sufficient]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|じゅう|そく|yomi=on}}
+
+===Noun===
+{{ja-noun|じゅうそく}}
+
+# [[sufficiency]], being enough
+
+===Verb===
+{{ja-verb-suru|tr=both|じゅうそく}}
+
+# [[satisfy]], be [[sufficient]]
+#* '''1919''', 和辻哲郎, 古寺巡礼:
+#*: {{ja-usex|しかし彼らの愛欲がそれで'''充足'''させられたろうとは考え難い。|しかし かれら の あいよく が それ で '''じゅうそく''' させられたろう と は かんがえがたい。|But it's hard to imagine that that alone would satisfy their lust.}}
+
+====Conjugation====
+{{ja-suru|じゅうそく}}
+
+[[zh-min-nan:充足]]
+[[ko:充足]]
+[[hu:充足]]
+[[mg:充足]]
+[[ja:充足]]
+[[ru:充足]]
+[[chr:充足]]
+[[zh:充足]]

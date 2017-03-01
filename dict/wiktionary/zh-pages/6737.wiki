@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|水|冫}}
+==Translingual==
+{{stroke order|type=animate}}
+{{wikipedia|Radical 85}}
+
+===Etymology===
+Radical form {{Han simp|水}} (water).
+
+===Han character===
+{{Han char|rn=85|rad=水|as=00|sn=3|four=|canj=XXYM,YM}}
+
+# [[water]]
+# radical number 85
+
+====Usage notes====
+Simplified to {{m|mul|冫||ice radical|sc=Hani}} in some characters, such as [[次]] (from [[㳄]]).
+
+====Derived characters====
+* [[Index:Chinese radical/水]]
+* [[酒]]
+
+====Descendants====
+* [[冫]] {{qualifier|as simplification, as in 次, from 㳄}}
+
+====References====
+* {{Han ref|kx=0603.011|dkj=17085|dj=0996.010|hdz=31545.011|uh=6C35|ud=27701}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shuǐ
+|c=seoi2
+|mn=chúi
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=r|rs=水00}}
+
+# left "water" radical (みず)
+
+====Readings====
+* {{ja-readings|on=|kun=[[さんずい]] (sanzui)}}
+
+====Synonyms====
+* {{l|ja|水}}
+
+====Usage notes====
+Used only as a radical.
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''氵''' ([[thuỷ]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:氵]]
+[[ko:氵]]
+[[la:氵]]
+[[li:氵]]
+[[ja:氵]]
+[[pl:氵]]
+[[ru:氵]]
+[[ta:氵]]
+[[th:氵]]
+[[zh:氵]]

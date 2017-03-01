@@ -1,0 +1,17 @@
+{{also|解调器}}
+==Chinese==
+{{zh-forms|s=解调器|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiětiáoqì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[demodulator]] {{gloss|any device that demodulates a signal}}
+
+====Derived terms====
+* {{zh-l|調製解調器}}

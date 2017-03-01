@@ -1,0 +1,69 @@
+{{also|體操}}
+==Chinese==
+{{zh-see|體操}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|たい|そう|yomi=o}}
+
+===Etymology===
+{{affix|ja|sort=たいそう|体|tr1=tai|t1=body|操|tr2=sō|t2=control}}
+
+===Pronunciation===
+{{ja-pron|yomi=goon|たいそう|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|kyu=體操|たいそう|hhira=たいさう}}
+
+# [[gymnastics]], [[exercise]]s
+#: {{ja-usex|テレビを見ながら体操をする|テレビ を み ながら たいそう を する|do exercises while watching TV}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|医療体操|いりょう たいそう}}
+* {{ja-r|器械体操|きかい たいそう}}
+* {{ja-r|組み体操|くみ たいそう}}
+* {{ja-r|国民保健体操|こくみんほけん たいそう}}
+* {{ja-r|柔軟体操|じゅうなん たいそう}}
+* {{ja-r|手具体操|しゅぐ たいそう}}
+* {{ja-r|新体操|しんたいそう}}
+* {{ja-r|スウェーデン体操|スウェーデン たいそう}}
+* {{ja-r|ストレッチ体操|ストレッチ たいそう|[[stretching]] {{gloss|exercise}}}}
+* {{ja-r|体操競技|たいそう きょうぎ}}
+* {{ja-r|デンマーク体操|デンマーク たいそう}}
+* {{ja-r|ドイツ体操|ドイツ たいそう}}
+* {{ja-r|徒手体操|としゅ たいそう}}
+* {{ja-r|美容体操|びよう たいそう}}
+* {{ja-r|兵式体操|へいしき たいそう}}
+* {{ja-r|ラジオ体操|ラジオ たいそう}}
+* {{ja-r|律動体操|りつどう たいそう}}
+{{der-bottom}}
+
+===Verb===
+{{ja-verb-suru|kyu=體操|たいそう|hhira=たいさう}}
+
+# do [[gymnastics]], [[exercise]]
+
+====Conjugation====
+{{ja-suru|たいそう}}
+
+===References===
+<references/>
+
+[[Category:ja:Gymnastics|たいそう]]
+[[Category:ja:Physical fitness|たいそう]]
+[[Category:ja:Sports|たいそう]]
+
+[[fr:体操]]
+[[ko:体操]]
+[[li:体操]]
+[[hu:体操]]
+[[mg:体操]]
+[[ja:体操]]
+[[ro:体操]]
+[[sv:体操]]
+[[chr:体操]]
+[[uk:体操]]
+[[zh:体操]]

@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=12|sn=16|four=38304|canj=YTWI}}
+
+# obey, comply with, follow
+# [[honor]]
+
+====References====
+* {{Han ref|kx=1264.260|dkj=39118|dj=1760.250|hdz=63885.010|uh=9075|ud=36981|bh=BFED|bd=49133}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|辵|尊|c1=s|t1=walk|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zūn
+|c=zeon1,zyun1
+|h=pfs=chûn
+|md=
+|mn=qz,tw,xm,zz:chun
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=辵12}}
+
+# {{defn|lang=ja|sort=辵12}}
+
+====Readings====
+* {{ja-readings|on=[[じゅん]] (jun), [[しゅん]] (shun)|kun=[[したがう]] (shitagau)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=준|eumhun=|rv=jun|mr=chun|y=cwun}}
+
+# {{defn|lang=ko|sort=辵12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''遵''' ([[tuân]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:遵]]
+[[ko:遵]]
+[[hu:遵]]
+[[mg:遵]]
+[[ja:遵]]
+[[no:遵]]
+[[pl:遵]]
+[[th:遵]]
+[[vi:遵]]
+[[zh:遵]]

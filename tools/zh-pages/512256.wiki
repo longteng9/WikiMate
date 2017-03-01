@@ -1,0 +1,64 @@
+{{also|论文}}
+==Chinese==
+{{zh-forms|s=论文}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+{{compound|論|t1=[[theory]]|文|t2=[[essay]]|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=lùnwén
+|c=leon6 man4,leon6 man4-2
+|mn=lūn-bûn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[thesis]]; [[dissertation]]; [[paper]]
+#: {{zh-x|請 按時 完成 你 的 論文。|Please complete your '''paper''' on time.}}
+
+====Derived terms====
+{{zh-der|碩士論文}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ろん|ぶん|yomi=o}}
+
+===Noun===
+{{ja-noun|ろんぶん}}
+
+# [[thesis]]; [[dissertation]]; [[article]]
+
+====Holonyms====
+* {{ja-r|論集|ろんしゅう}}
+* {{ja-r|論叢|ろんそう}}
+
+====Derived terms====
+* {{ja-r|博士論文|はかせ ろんぶん}}: Ph.D. thesis
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=논문}}
+
+# {{hanja form of|논문|essay}}
+
+[[zh-min-nan:論文]]
+[[cs:論文]]
+[[ko:論文]]
+[[lo:論文]]
+[[lt:論文]]
+[[hu:論文]]
+[[mg:論文]]
+[[ja:論文]]
+[[chr:論文]]

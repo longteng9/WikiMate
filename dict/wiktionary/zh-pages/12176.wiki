@@ -1,0 +1,109 @@
+{{character info/new}}
+{{also|騃|杏}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=04|sn=7|four=60904|canj=RD|ids=⿱口木}}
+
+====Derived characters====
+* [[保]]
+
+====References====
+* {{Han ref|kx=0181.110|dkj=03395|dj=0399.100|hdz=10585.110|uh=5446|ud=21574|bh=A762|bd=42850}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=獃,騃}}
+
+===Glyph origin===
+{{Han etym}}
+{{liushu|p}} – a child (top is head, bottom is body with arms); variant of {{zh-l|*子}}, notably in {{zh-l|*保}}.
+
+Originally had {{zh-l|*十}} on the bottom, current form graphically {{Han compound|口|木}}.
+
+In sense “dull, stupid”, sense is from “child-like, simple like a child”.
+
+===Pronunciation 1===
+{{zh-pron
+|m=dāi,ái
+|c=daai1,ngoi4
+|h=pfs=ngôi
+|md=ngài
+|mn=tai
+|w=1te,3nge
+|mc=y
+|oc=y
+|ma=Zh-dai.ogg
+|cat=a,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[dull]]; [[wooden]]
+# [[dull-minded]]; [[simple]]; [[stupid]]
+# {{zh-alt-form|待|to [[stay]]}}
+
+====Compounds====
+{{zh-der|呆腦呆頭|呆僗|呆立|呆笑|呆瓜|呆坐|呆小症|呆呆掙掙|呆若木雞|呆鄧鄧|呆鳥|呆滯物料|干呆|呆登登|呆頭木腦|呆答答|呆答孩|呆木大|呆滯|呆住|呆帳|口舌呆鈍|呆子|呆呆鄧鄧|呆掙|呆漢|呆老漢|呆呆地|呆板|呆裡撒奸|呆頭呆腦|呆貨|呆緻緻|呆水位|呆打頦|呆似木雞|呆了一呆|呆不龍咚|呆想|呆著臉|嚇呆|痴呆懵懂|看呆|撇呆打墮|目睜口呆|目瞪神呆|目瞪口呆|目定口呆|目呆口咂|發呆|痴呆症|痴呆|懵懂痴呆|打呆歌|書呆子|老伯呆|賣呆|賣呆兒|裝憨打呆|鄧鄧呆呆|老阿呆}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=bǎo
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{zh-alt-form|保|to [[protect]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=口04}}
+
+# [[amazed]], [[disgusted]], [[shocked]]
+
+====Readings====
+{{ja-readings
+|goon=[[ほ]] (ho), [[がい]] (gai)
+|kanon=[[ほう]] (hō), [[がい]] (gai)
+|kanyoon=[[ぼう]] (bō), [[たい]] (tai)
+|kun=[[あきる]] ([[呆る]], akiru), [[あきれる]] ([[呆れる]], akireru), [[ほける]] ([[呆ける]], hokeru), [[ほうける]] ([[呆ける]], hōkeru), [[ぼけ]] ([[呆け]], boke), [[ぼける]] ([[呆ける]], bokeru)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[매]], [[태]], [[보]]|mr=mae, t'ae, po}}
+
+# {{defn|lang=ko|sort=口04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|ngốc|rs=口04}}
+
+# {{defn|lang=vi|sort=口04}}
+
+[[zh-min-nan:呆]]
+[[fr:呆]]
+[[li:呆]]
+[[hu:呆]]
+[[mg:呆]]
+[[fj:呆]]
+[[ja:呆]]
+[[no:呆]]
+[[pl:呆]]
+[[th:呆]]
+[[chr:呆]]
+[[vi:呆]]
+[[zh:呆]]

@@ -1,0 +1,22 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|しょう|し|たい|yomi=o}}
+
+===Etymology===
+Compound of {{compound|硝子|tr1=shōshi|t1=glass|体|tr2=tai|t2=body|lang=ja|sort=しょうしたい}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|しょうしたい|acc=0|acc_ref=DJR}}
+
+===Alternative forms===
+* {{ja-r|ガラス体|ガラスたい}}
+
+===Noun===
+{{ja-noun|しょうしたい|hhira=せうしたい}}
+
+# {{lb|ja|ophthalmology|sort=しょうしたい}} [[vitreous body]]
+
+===References===
+<references/>
+
+[[Category:ja:Bodily fluids|しょうしたい]]

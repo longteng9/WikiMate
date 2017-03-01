@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms|square|''[[zhang]]''}}
+
+===Pronunciation===
+{{zh-pron
+|m=fāngzhàng,tl=y
+|m_note=toneless - usually the Buddhist senses
+|c=fong1 zoeng6
+|cat=n,cls
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[square]] with [[side]] [[length]] of 1 ''[[zhang]]''
+# {{lb|zh|literary}} a square-''zhang'' [[table]] full of [[food]]; [[plentiful]] [[food]]
+# {{lb|zh|mythology}} a [[mystic]] [[mountain]] in the [[sea]] in Chinese mythology
+# {{lb|zh|Buddhism}} [[abbot]]'s [[room]] or [[quarter]], i.e. a small square-''zhang'' room, as {{w|Vimalakīrti}}'s room is described in the ''{{w|Vimalakīrti Sūtra}}''
+## {{lb|zh|by extension}} [[residence]] of [[Buddhist]] [[abbot]]s, including the [[bedroom]] and its accessory facilities
+## {{lb|zh|by extension}} [[Buddhist]] [[abbot]]
+
+====Derived terms====
+{{zh-der|方丈洲|方丈盈前|方丈之饌|食味方丈|食前方丈}}
+
+===Classifier===
+{{zh-cls}}
+
+# {{zh-classifier|the number of [[area]]s covered by a [[square]] of side length 1 ''[[zhang]]''}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほう|じょう|yomi=o}}
+
+===Noun===
+{{ja-noun|ほうじょう|hhira=はうぢやう}}
+
+# a square {{l|ja|丈|tr=jō}}; an enclosed area 3.03 by 3.03 meters in size
+# such a room or building; often inhabited by Buddhist monks
+
+[[ko:方丈]]
+[[zh:方丈]]

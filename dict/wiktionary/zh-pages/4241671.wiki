@@ -1,0 +1,36 @@
+{{also|证言}}
+==Chinese==
+{{zh-forms|s=证言}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhèngyán
+|c=zing3 jin4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[testimony]]
+
+====Synonyms====
+* {{zh-l|證詞}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|げん|yomi=o}}
+
+===Noun===
+{{ja-noun|しょうげん|shin=証言}}
+
+# [[testimony]]
+
+===Verb===
+{{ja-verb-suru|しょうげん|shin=証言}}
+
+# to [[testify]]
+
+====Conjugation====
+{{ja-suru|しょうげん}}

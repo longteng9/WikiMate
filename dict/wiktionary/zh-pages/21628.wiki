@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=109|rad=目|as=05|sn=10|four=62037|canj=BUHIO}}
+
+====References====
+* {{Han ref|kx=0805.190|dkj=23253|dj=1221.130|hdz=42476.040|uh=7728|ud=30504|bh=AF77|bd=44919}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǎ |ma=Zh-zha.ogg
+|c=zaap3,zaam2
+|h=pfs=
+|md=
+|mn=qz,xm,zz:chap/tw:chha̍p
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[blink]]; to [[wink]]
+#: {{zh-x|佢 碰見 猛男，對 眼 會 猛咁 眨|If she encounters a hunk, her eyes will '''bat''' non-stop|C|ref={{w|Samuei Hui}}, {{lang|zh|尖沙咀Susie}}}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=目05}}
+
+# {{defn|lang=ja|sort=目05}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō), [[しょう]] (shō)|kun=[[またたく]] (matataku)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=잡|eumhun=|rv=jap|mr=chap|y=cap}}
+
+# {{defn|lang=ko|sort=目05}}
+
+[[fr:眨]]
+[[lt:眨]]
+[[hu:眨]]
+[[mg:眨]]
+[[ja:眨]]
+[[no:眨]]
+[[pl:眨]]
+[[th:眨]]
+[[chr:眨]]
+[[zh:眨]]

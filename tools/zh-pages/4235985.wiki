@@ -1,0 +1,21 @@
+{{also|模块}}
+==Chinese==
+{{zh-forms|s=模块}}
+
+===Pronunciation===
+{{zh-pron
+|m=mókuài,er=y
+|c=mou4 faai3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|computing}} [[module]]
+
+====Derived terms====
+{{zh-der|用戶身份模塊}}
+
+[[fr:模塊]]
+[[zh:模塊]]

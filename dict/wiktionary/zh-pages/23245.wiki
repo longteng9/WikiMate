@@ -1,0 +1,106 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{liushu|p}} – hands braiding thread [[糸]].
+
+In modern form, top component looks like [[生]] without the diagonal stroke – compare [[責]], [[青]].
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=04|sn=10|four=50903|canj=QMVIF|ids=⿱龶糸}}
+
+# [[white]] (silk)
+# [[plain]]
+# [[vegetarian]]
+# [[formerly]]
+# [[normally]]
+# [[element]]
+
+====See also====
+* [[責]] [[青]]
+
+====References====
+* {{Han ref|kx=0918.110|dkj=27300|dj=1348.070|hdz=53368.030|uh=7D20|ud=32032|bh=AFC0|bd=44992}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=sù
+|c=sou3
+|h=pfs=su
+|mn=sò͘
+|mc=y
+|oc=y
+|ma=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|護髮素|素白|素不相識|素材|素菜|素餐|素常|素淡|素服|素裹|素潔|素淨|素酒|素來|素昧平生|素面|素描|素樸|素氣|素日|素什錦|素食|素數|素昔|素席|素性|素雅|素養|素油|素願|素志|素質}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=糸04}}
+
+# {{defn|lang=ja|sort=糸04}}
+
+====Readings====
+* {{ja-readings|goon=[[す]] (su)|kanon=[[そ]] (so)|kun=[[しろぎぬ]] (shiroginu), [[きじ]] (kiji), [[もと]] (moto)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|素馨|そけい}}: [[Spanish jasmine]]
+{{der-bottom}}
+
+====Derived terms====
+* {{ja-r|素通り|すどおり}}
+* {{ja-r|素泊り|すどまり}}, {{ja-r|素泊まり|すどまり}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=소|eumhun=|rv=so|mr=so|y=so}}
+
+# {{defn|lang=ko|sort=糸04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tố]], [[tó]]|rs=糸04}}
+
+# {{defn|lang=vi|sort=糸04}}
+
+====Compounds====
+* {{l|vi|生素|tr=[[sinh tố]]}}
+
+[[cs:素]]
+[[el:素]]
+[[fr:素]]
+[[ko:素]]
+[[la:素]]
+[[li:素]]
+[[hu:素]]
+[[mg:素]]
+[[ja:素]]
+[[no:素]]
+[[pl:素]]
+[[th:素]]
+[[chr:素]]
+[[zh:素]]

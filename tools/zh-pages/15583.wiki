@@ -1,0 +1,70 @@
+{{character info/new}}
+{{also|驚}}
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|ls=psc
+|心|c1=s|t1=heart|alt1=忄
+|京|c2=p
+}}
+
+===Han character===
+{{Han char|rn=61|rad=心|as=08|sn=11|four=90096|canj=PYRF|ids=⿰忄京}}
+
+====References====
+* {{Han ref|kx=0390.110|dkj=10767|dj=0724.090|hdz=42318.030|uh=60CA|ud=24778|bh=D561|bd=54625}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=liáng
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# {{zh-obsolete}} [[sorrowful]]
+
+===Etymology 2===
+{{zh-see|驚}}
+
+===Etymology 3===
+{{zh-see|悢|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心08}}
+
+# {{defn|lang=ja|sort=心08}}
+
+====Readings====
+* {{ja-readings|on=[[りょう]] (ryō)|kun=[[かなしむ]] (kanashimu)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kinh]]|rs=心08}}
+
+# {{defn|lang=vi|sort=心08}}
+
+[[fr:惊]]
+[[li:惊]]
+[[hu:惊]]
+[[mg:惊]]
+[[no:惊]]
+[[pl:惊]]
+[[th:惊]]
+[[zh:惊]]

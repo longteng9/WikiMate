@@ -1,0 +1,76 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+</div>
+[[File:Shinsen 002.jpg|thumb|250px|{{lang|ja|神酒}} (''shinshu'', ''miki'', ''miwa''): two bottles of '''{{l|en|sacramental}} {{l|en|sake}}''' used as a {{l|en|Shinto}} {{l|en|offering}}.]]
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|しん|しゅ}}
+
+Possibly from {{der|ja|ltc|sort=しんしゅ|-}} compound {{m|ltc|神酒|tr={{IPAchar|/ʑiɪn t͡sɨu<sup>X</sup>/}}|lit=god + wine}}.
+
+Alternatively, coined in Japan of {{cog|ltc|-}}-derived elements, as a compound of {{compound|lang=ja|sort=しんしゅ|神|tr1=shin|t1=god, spirit|酒|tr2=shu|t2=wine, liquor, alcohol}}.
+
+The individual character readings are [[漢音#Japanese|kan'on]] ''shin'' + [[呉音#Japanese|goon]] ''shu'', suggesting either an innovation in the reading after borrowing, or a Japanese coinage.
+
+====Pronunciation====
+{{ja-pron|yomi=o|しんしゅ|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|しんしゅ}}
+
+# {{l|en|sacramental}} {{l|en|sake}} used in a {{l|en|Shinto}} ceremony
+# {{l|en|ambrosia}}, {{l|en|nectar}}
+
+=====Synonyms=====
+* {{ja-r|聖酒|せいしゅ}}: {{l|en|sacramental}} {{l|en|sake}}, sacramental {{l|en|wine}}
+* {{ja-r|アンブロシア}}: {{l|en|ambrosia}}
+* {{ja-r|ネクター}}: {{l|en|nectar}} of the {{l|en|god}}s
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|み|き}}
+
+From {{inh|ja|ojp|sort=みき|-}}.  Appears in the ''{{w|Kojiki}}'' of 712 CE.  Compound of {{compound|lang=ja|sort=みき|神|tr1=mi|t1=honorific prefix used in spiritual contexts|酒|tr2=ki|t2=wine, liquor, alcohol|pos2=ancient root, not found in many words}}.<ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|みき|acc=0|acc_ref=DJR|acc2=1|acc2_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|御酒}}
+
+====Noun====
+{{ja-noun|みき}}
+
+# {{l|en|sacramental}} {{l|en|sake}} used in a {{l|en|Shinto}} ceremony
+# {{l|en|ambrosia}}, {{l|en|nectar}}
+
+=====Usage notes=====
+In {{l|en|Shinto}} contexts, often prefixed with the honorific ''o-'' as {{m|ja|御神酒}}, {{m|ja|大御酒|tr=omiki}}, or ''ō-'' “great” as {{m|ja|大神酒|tr=ōmiki}}.
+
+=====Synonyms=====
+* {{ja-r|聖酒|せいしゅ}}: {{l|en|sacramental}} {{l|en|sake}}, sacramental {{l|en|wine}}
+* {{ja-r|アンブロシア}}: {{l|en|ambrosia}}
+* {{ja-r|ネクター}}: {{l|en|nectar}} of the {{l|en|god}}s
+
+===Etymology 3===
+{{ja-kanjitab|yomi=irr|み|わ}}
+
+From {{inh|ja|ojp|sort=みわ|-}}.  Appears in the ''{{w|Man'yōshū}}'' of 759 CE.  Compound of {{compound|lang=ja|sort=みき|神|tr1=mi|t1=honorific prefix used in spiritual contexts|わ|tr2=wa|pos2=a morpheme of uncertain derivation}}.<ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>  The final ''wa'' may be related to {{m|ja|泡|tr=awa||bubble}} in reference to the bubbles of {{l|en|fermentation}} (compare {{m|ja|泡盛|tr=awamori|lit=lots of bubbles||Okinawan rice-based strong spirits}}), but this is only speculation.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|みわ}}
+
+====Alternative forms====
+* {{ja-l|御酒}}
+
+====Noun====
+{{ja-noun|みわ}}
+
+# {{lb|ja|sort=みわ|obsolete}} {{l|en|sacramental}} {{l|en|sake}} used in a {{l|en|Shinto}} ceremony
+# {{lb|ja|sort=みわ|obsolete}} {{l|en|ambrosia}}, {{l|en|nectar}}
+
+=====Usage notes=====
+The ''miwa'' reading appears to be obsolete.
+
+===References===
+<references/>

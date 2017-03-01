@@ -1,0 +1,93 @@
+{{character info/new}}
+{{also|〺}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+十(10), repeated three times.
+
+===Han character===
+{{Han char|rn=24|rad=十|as=02|sn=4|four=44000|canj=TJ}}
+
+# [[thirty]], [[thirtieth]]
+
+====References====
+* {{Han ref|kx=0156.010|dkj=02700|dj=0353.020|hdz=10059.030|uh=5345}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+{{rfe|lang=zh|Related to [[卉]]?}}
+===Alternative forms===
+* {{zh-l|𠦃}}, {{zh-l|𠦄}}
+
+===Pronunciation===
+{{zh-pron
+|m=sà
+|c=saa1,saa4
+|h=pfs=
+|md=
+|mn=
+|mn-t=sab4
+|w=
+|mc=
+|oc=y
+|cat=num
+}}
+
+===Numeral===
+{{zh-num}}
+
+# [[thirty]]
+
+====Synonyms====
+* {{zh-l|三十}}
+
+===References===
+* {{R:twedu|a00433}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{rfe|lang=ja|From the {{etyl|ltc|ja}} {{m|ltc|卅}}?}}
+
+===Kanji===
+{{ja-kanji|grade=|rs=十02}}
+
+# [[thirty]]
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[さんじゅう]] (sanjuu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=삽|rv=sap|mr=sap}}
+
+# {{defn|lang=ko|sort=十02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tạp]], [[nẫm]]|rs=十02}}
+
+# {{defn|lang=vi|sort=十02}}
+
+[[fr:卅]]
+[[ko:卅]]
+[[lt:卅]]
+[[li:卅]]
+[[hu:卅]]
+[[mg:卅]]
+[[ja:卅]]
+[[pl:卅]]
+[[ru:卅]]
+[[th:卅]]
+[[zh:卅]]

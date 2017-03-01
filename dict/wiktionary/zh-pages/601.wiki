@@ -1,0 +1,201 @@
+{{character info/new}}
+{{also|國|囯}}
+
+==Translingual==
+{{stroke order|type=animate}}
+{{stroke order|type=janimate}}
+
+===Etymology===
+{{Han simp|國|f=或|t=玉}}
+
+In this simplified form, this character consists of 玉, the Chinese character for [[jade]] (or precious stone or [[gem]]) (representing the emperor), enclosed by the character meaning "erect," "proud," or "upright". In the Kangxi Dictionary of 1716 the character 国 is not included, but other characters like 囯, 囶, 圀 and 䆐 are. 國 is the original character.
+
+===Han character===
+{{Han char|rn=31|rad=囗|as=05|sn=8|four=60103|canj=WMGI|ids=⿴囗玉}}
+
+====References====
+* {{Han ref|kx=0218.041|dkj=04752|dj=0446.070|hdz=10716.070|uh=56FD|ud=22269}}
+
+----
+
+==Chinese==
+{{zh-see|國}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=囗05|style=s|kyu=國}}
+
+====Readings====
+{{ja-readings
+|goon=[[こく]] (koku)
+|kanon=[[こく]] (koku)
+|kun=[[くに]] (kuni)
+|nanori=[[くな]] (kuna), [[こ]] (ko)
+}}
+
+====Compounds====
+{{der-top4|Compounds}}
+* [[国威]]
+* [[国運]]
+* [[国益]]
+* [[国王]]
+* [[国家]]
+* [[国家試験]]
+* [[国歌]]
+* [[国花]]
+* [[国会]]
+* [[国外]]
+* [[国旗]]
+* [[国技]]
+* [[国境]]
+* [[国教]]
+* [[国軍]]
+* [[国見]]
+* [[国言葉]]
+* [[国庫]]
+* [[国語]]
+* [[国構え]]
+* [[国号]]
+* [[国債]]
+{{der-mid4}}
+* [[国際]]
+* [[国際会議]]
+* [[国際関係]]
+* [[国際語]]
+* [[国際主義]]
+* [[国際収支]]
+* [[国際場裏]]
+* [[国際色]]
+* [[国際人]]
+* [[国際的]]
+* [[国際電話]]
+* [[国際連合]]
+* [[国際連盟]]
+* [[国策]]
+* [[国産]]
+* [[国史]]
+* [[国士]]
+* [[国師]]
+* [[国事]]
+* [[国字]]
+* [[国璽]]
+* [[国主]]
+{{der-mid4}}
+* [[国情]]
+* [[国辱]]
+* [[国人]]
+* [[国粋]]
+* [[国粋主義]]
+* [[国是]]
+* [[国勢]]
+* [[国勢調査]]
+* [[国政]]
+* [[国税]]
+* [[国籍]]
+* [[国葬]]
+* [[国造]]
+* [[国造り]]
+* [[国俗]]
+* [[国賊]]
+* [[国体]]
+* [[国定]]
+* [[国定教科書]]
+* [[国定公園]]
+* [[国土]]
+* [[国道]]
+{{der-mid4}}
+* [[国難]]
+* [[国費]]
+* [[国賓]]
+* [[国府]]
+* [[国風]]
+* [[国柄]]
+* [[国宝]]
+* [[国法]]
+* [[国防]]
+* [[国民]]
+* [[国民感情]]
+* [[国民性]]
+* [[国民投票]]
+* [[国務]]
+* [[国務大臣]]
+* [[国名]]
+* [[国有]]
+* [[国立]]
+* [[国立公園]]
+* [[国力]]
+* [[国連]]
+* [[日本国]]
+{{der-bottom}}
+
+===Pronunciation===
+{{ja-kanjitab|くに|yomi=k}}
+{{ja-pron|yomi=k|くに|acc=o|acc_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{ja-l|邦}}
+
+===Noun===
+{{ja-noun|くに|kyu=國}}
+
+# a [[land]], a large [[place]]
+# a [[country]] in general, a [[region]]
+# a [[country]] as in a [[nation]], a [[state]]
+# the [[office]] of [[emperor]], the [[crown]]; [[affair]]s of [[state]]
+# a [[province]] of ancient Japan
+# the [[national]] [[government]] in ancient Japan; the national [[capital]] in ancient Japan
+# one's [[birthplace]]
+
+====Synonyms====
+* {{sense|a land}} {{ja-r|大地|だいち}}, {{ja-r|土地|とち}}, {{ja-r|陸地|りくち}}
+* {{sense|nation}} {{ja-r|国家|こっか}}, {{ja-r|国土|こくど}}
+* {{sense|ancient national government}} {{ja-r|国府|こくふ}}
+* {{sense|birthplace}} {{ja-r|出生地|しゅっしょうち}}, {{ja-r|生国|しょうごく}}, {{ja-r|故郷|ふるさと}}, {{ja-r|故郷|こきょう}}
+
+===References===
+<references/>
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quốc]]|rs=囗05}}
+
+# {{defn|lang=vi|sort=囗05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=56fd Nom Foundation]
+
+[[cs:国]]
+[[de:国]]
+[[el:国]]
+[[fr:国]]
+[[ko:国]]
+[[hr:国]]
+[[it:国]]
+[[ku:国]]
+[[lo:国]]
+[[la:国]]
+[[lt:国]]
+[[li:国]]
+[[hu:国]]
+[[mg:国]]
+[[ms:国]]
+[[ja:国]]
+[[no:国]]
+[[km:国]]
+[[pl:国]]
+[[pt:国]]
+[[ru:国]]
+[[fi:国]]
+[[sv:国]]
+[[ta:国]]
+[[th:国]]
+[[chr:国]]
+[[uk:国]]
+[[vi:国]]
+[[zh:国]]

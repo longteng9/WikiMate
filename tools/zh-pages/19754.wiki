@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|澜}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=17|sn=20|four=37120|canj=EANW|ids=⿰氵闌}}
+
+# [[overflowing]]
+# [[waves]], [[ripples]]
+
+====References====
+* {{Han ref|kx=0661.290|dkj=18722|dj=1071.100|hdz=31790.090|uh=703E|ud=28734|bh=C469|bd=50281}}
+
+----
+
+==Chinese==
+{{zh-forms|s=澜}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|闌|t1=water|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lán
+|c=laan4,laan6
+|mn=nōa
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|力挽狂瀾|安瀾|層瀾|平地波瀾|推波助瀾|文瀾閣|歷瀾|汍瀾|波瀾|波瀾壯闊|波瀾老成|瀾汗|瀾滄江|瀾漫|瀾翻|蒸漚歷瀾|狂瀾|米瀾}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水17}}
+
+# {{defn|lang=ja|sort=水17}}
+
+====Readings====
+* {{ja-readings|on=[[らん]] (ran)|kun=[[なみ]] (nami)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[란]]>[[난]]|eumhun=|rv=ran>nan|mr=ran>nan|y=lan>nan}}
+
+# {{defn|lang=ko|sort=水17}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|lan|rs=水17}}
+
+# {{defn|lang=vi|sort=水17}}
+
+====Readings====
+* Nôm: lan, tràn
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville, 1999
+
+[[zh-min-nan:瀾]]
+[[fr:瀾]]
+[[hu:瀾]]
+[[mg:瀾]]
+[[ja:瀾]]
+[[pl:瀾]]
+[[th:瀾]]
+[[zh:瀾]]

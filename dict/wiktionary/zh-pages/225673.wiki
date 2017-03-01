@@ -1,0 +1,75 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shìjiàn
+|c=si6 gin6-2
+|h=pfs=sṳ-khien
+|mn=qz:sīr-kiǎⁿ/tw,xm,zz:sū-kiāⁿ
+|ma=Zh-shìjiàn.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[event]]; [[incident]]; [[occurrence]] {{zh-mw|個}}
+#: {{zh-x|歷史 事件|historical '''event'''}}
+#: {{zh-x|有 新聞價值 的 事件|newsworthy '''event'''}}
+#: {{zh-x|意外 事件|unexpected mishap}}
+#: {{zh-x|恐襲 事件|terrorist attack}}
+
+====Derived terms====
+{{zh-der|群體性事件|九一一事件|二二八事件|亞羅船事件|交通事件裁決所|六四天安門事件|千島湖事件|古巴事件|史迪威事件|噍吧哖事件|天安門事件|意外事件|永豐艦事件|牡丹社事件|珍珠港事件|盧溝橋事件|美麗島事件|車諾比耳事件|霧社事件|非訟事件}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じ|けん|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|じけん|y=o|acc=1}}
+
+===Noun===
+{{ja-noun|じけん}}
+
+# [[event]], [[incident]]
+# [[matter]], [[affair]]
+# [[case]]
+# [[scandal]]
+
+====Synonyms====
+* {{sense|incident}} {{ja-r|事故|じこ}}
+
+====Derived terms====
+* {{ja-r|難事件|なんじけん}}
+* {{ja-r|殺人事件|さつじん じけん}}
+* {{ja-r|事件記者|じけん きしゃ}}
+
+===References===
+* {{R:Shogakukan}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=사건}}
+
+# {{hanja form of|사건|[[incident]]}}
+
+[[zh-min-nan:事件]]
+[[fr:事件]]
+[[ko:事件]]
+[[ky:事件]]
+[[lo:事件]]
+[[lt:事件]]
+[[li:事件]]
+[[hu:事件]]
+[[mg:事件]]
+[[ja:事件]]
+[[tl:事件]]
+[[chr:事件]]
+[[zh:事件]]

@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|飨}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=184|rad=食|as=13|sn=22|four=27732|canj=VLOIV|ids=⿱鄕食}}
+
+# host banquet
+# [[banquet]]
+
+====References====
+* {{Han ref|kx=1426.150|dkj=44431|dj=1952.180|hdz=74471.140|uh=9957|ud=39255|bh=C557|bd=50519}}
+
+----
+
+==Chinese==
+{{zh-forms|s=飨}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiǎng
+|c=hoeng2
+|mn=hióng
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|伏維尚饗|告饗|大饗|宴饗|尚饗|息饗|椎牛饗士|配饗|饕饗|饗告|饗國|饗宴|饗薦}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=食13}}
+
+# {{defn|lang=ja|sort=食13}}
+
+====Readings====
+* {{ja-readings|on=[[きょう]] (kyō)|kun=[[もてなす]] (motenasu), [[あえ]] (ae), [[うける]] (ukeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=향|eumhun=|rv=hyang|mr=hyang|y=hyang}}
+
+# {{defn|lang=ko|sort=食13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hưởng]]|rs=食13}}
+
+# {{defn|lang=vi|sort=食13}}
+
+[[fr:饗]]
+[[ja:饗]]
+[[pl:饗]]
+[[th:饗]]
+[[zh:饗]]

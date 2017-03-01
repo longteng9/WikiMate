@@ -1,0 +1,157 @@
+{{character info/new}}
+{{also|鸠}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=02|sn=13|four=47027|canj=KNHAF|ids=⿰九鳥}}
+
+# [[pigeon]]
+# [[collect]], [[assemble]]
+
+====References====
+* {{Han ref|kx=1481.100|dkj=46648|dj=2013.120|hdz=74613.130|uh=9CE9|ud=40169|bh=B9A7|bd=47527}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鸠}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiū,qiāng
+|c=kau1,gau1
+|c_note=kau1 - common for non-vulgar senses; gau1 - common for vulgar senses
+|cat=n,c:interfix
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{non-gloss definition|a type of bird}}
+# {{lb|zh|vulgar|Cantonese}} [[penis]] (a substitution for the rarer word [[𨳊]])
+
+===Interfix===
+{{zh-interfix}}
+
+# {{lb|zh|vulgar}} [[fucking]]
+#: {{zh-x|乜 '''鳩''' 事 呀 你？|What the fuck is wrong with you?|C-GZ}}
+
+====Related terms====
+* {{zh-l|斑鳩|[[turtledove]]}}
+* (''Cantonese'') {{zh-l|戇鳩|dumbass}}
+* (''Cantonese five profanities'') {{zh-l|屌}}, {{zh-l|鳩}}, {{zh-l|撚}}, {{zh-l|柒}}, {{zh-l|閪}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=鳥02}}
+
+# [[pigeon]], [[dove]]
+# {{qualifier|in compounds}} to [[gather]] [[together]] {{qualifier|from the way that pigeons flock together}}
+
+====Readings====
+{{ja-readings
+|goon=[[く]] (ku)
+|kanon=[[きゅう]] (kyū), {{qualifier|historical}} [[きう]] (kiu)
+|kun=[[はと]] (hato)
+|nanori=[[やす]] (yasu)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|鳩居|きゅうきょ}}: a [[pigeon]] in a [[magpie]]'s [[nest]]; [[living]] in a [[rented]] [[house]] or [[apartment]]
+* {{ja-r|鳩合|きゅうごう}}: [[flock]]ing together
+* {{ja-r|鳩舎|きゅうしゃ}}: a [[dovecote]]
+* {{ja-r|鳩車|きゅうしゃ}}: a [[pigeon]] [[cart]]: a kind of toy pigeon with wheels on it
+* {{ja-r|鳩首|きゅうしゅ}}: putting heads together, [[consulting]] in a group
+{{der-bottom}}
+
+===Etymology===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Columba (genus)}}
+[[File:Wood_pigeon_(male).jpg|thumb|250px|{{PAGENAME}} (''hato''): a '''[[pigeon]]''', a '''[[dove]]'''.]]
+</div>
+{{ja-kanjitab|はと|yomi=k}}
+Possibly [[onomatopoeia]] from the ''hatahata'' sound of a dove or pigeon's wings in flight.
+
+===Pronunciation===
+{{ja-pron|yomi=k|はと|acc=1|acc_ref=NHK,DJR,SMK5}}
+
+===Alternative forms===
+* {{ja-l|鴿}}
+
+===Noun===
+{{ja-noun|はと|ハト}}
+
+# a [[pigeon]], a [[dove]]: a [[bird]] of [[genus]] [[Columba]]
+
+====Usage notes====
+{{U:ja:biology|ハト}}
+
+====Idioms====
+{{der-top|Idioms}}
+* {{ja-r|鳩が豆鉄砲を食ったよう|はと が まめてっぽう を くった よう}}: “like a pigeon that ate a peashooter” → [[dumbfounded]], [[taken by surprise]]
+{{der-bottom}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|鳩車|はとぐるま}}: a [[pigeon]] [[cart]]: a kind of toy pigeon with wheels on it
+* {{ja-r|鳩小屋|はとごや}}: a [[dovecote]]
+* {{ja-r|鳩根性|はと こんじょう}}: “pigeon-spirited” → appearing [[composed]] while [[harbor#Verb|harboring]] [[resentment]]
+* {{ja-r|鳩座|^はと-ざ}}: the [[Dove]] or [[Columba]] [[constellation]]
+* {{ja-r|鳩酒|はとざけ}}: an old kind of [[medicine]], wherein a pigeon would be tenderized and the bones broken, then the whole carcass would be covered in [[sake]] and [[miso]] and [[stewed]], purportedly used to treat back pain and poor circulation in the extremities
+* {{ja-r|鳩染|はとぞめ}}: “pigeon dyeing” → [[dyeing]], or something [[dyed]], in the colors of the [[turtledove]] or [[Japanese green pigeon]]
+* {{ja-r|鳩派|はとは}}: {{qualifier|politics}} the [[dove]]s {{qualifier|proponents of peace; as opposed to the [[hawk]]s, proponents of war}}
+* {{ja-r|鳩羽色|はとばいろ}}: “pigeon-wing color” → a dark blue-gray
+* {{ja-r|鳩笛|はとぶえ}}: a [[pigeon]] [[flute]]: a flute used to [[imitate]] the call of the dove
+* {{ja-r|鳩吹|はとふき}}: a [[dove]] [[call]], a [[lure]] to [[imitate]] the call of the dove
+* {{ja-r|鳩吹く|はとふく}}: to make a [[dove]] [[call]], such as by blowing a kind of whistle formed by one's cupped hands
+* {{ja-r|鳩麦|はとむぎ}}: “pigeon barley” → [[Job's tears]], [[tear grass]]
+* {{ja-r|鳩胸|はとむね}}: [[pigeon]]-[[breasted]] {{qualifier|similar to the way a pigeon's chest is puffed out}}; {{qualifier|medical}} [[pectus carinatum]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Pigeons|はと]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# {{defn|lang=ko|sort=鳥02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cưu]]|rs=鳥02}}
+
+# {{defn|lang=vi|sort=鳥02}}
+
+[[el:鳩]]
+[[fr:鳩]]
+[[ko:鳩]]
+[[lo:鳩]]
+[[lt:鳩]]
+[[hu:鳩]]
+[[mg:鳩]]
+[[nl:鳩]]
+[[ja:鳩]]
+[[pl:鳩]]
+[[fi:鳩]]
+[[sv:鳩]]
+[[th:鳩]]
+[[chr:鳩]]
+[[tr:鳩]]
+[[zh:鳩]]

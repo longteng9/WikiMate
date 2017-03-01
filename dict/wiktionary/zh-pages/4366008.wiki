@@ -1,0 +1,69 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=deliǎo
+|m-s=de2niao3
+|c=dak1 liu5
+|cat=adv
+}}
+
+====Adverb====
+{{zh-adv}}
+
+# {{lb|zh|in "verb + {{lang|zh|得了}}" structure}} [[capable]] of; [[can]]
+#: {{zh-x|車 進 '''得{de}了{liǎo}''' 公園。|The car '''can''' enter the park.}}
+#: {{zh-x|大丈夫 上 '''得{de}了{liǎo}''' 廳堂，下 '''得{de}了{liǎo}''' 廚房。|A true man '''can''' go up to the hall (meeting noble guests), and '''can''' go down to the kitchen (handling toils are chores).}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=déliǎo
+|c=dak1 liu5
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# {{qualifier|usually|in rhetorical questions|or with negation}} [[awful]], can't handle (a situation)
+#: {{zh-x|這 還 '''得了{liǎo}'''？|This is unbelievable! (''lit.'' Is this still '''controllable'''?)}}
+
+=====See also=====
+* {{zh-l|不得了}}
+* {{zh-l|了得}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=déle
+|c=dak1 liu5
+|cat=intj,v
+}}
+
+====Interjection====
+{{zh-interj}}
+
+# {{lb|zh|swift}} [[all right]]!; [[OK]]!; well then; [[yeah]]!
+# {{lb|zh|loud|usually|interrupting someone's proposal or bragging}} [[c'mon]]!; that's enough!
+
+=====Synonyms=====
+* {{qualifier|Cantonese}} {{zh-l|得喇}}！
+* {{sense|all right}} {{qualifier|more common}} {{zh-l|得}}！
+* {{sense|c'mon}} {{qualifier|more common}} {{zh-l|得了吧}}！
+
+====Verb====
+{{zh-verb}}
+
+# to be [[finished]]; to be [[over]]; to be [[done]] with
+
+{{zh-cat|Elementary}}
+
+[[mg:得了]]
+[[chr:得了]]
+[[zh:得了]]

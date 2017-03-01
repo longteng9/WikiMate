@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|秏}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=127|rad=耒|as=04|sn=10|four=52914|canj=QDHQU|ids=⿰耒毛}}
+
+# [[consume]], [[use up]]
+# [[waste]], [[squander]]
+
+====References====
+* {{Han ref|kx=0963.010|dkj=28909|dj=1411.030|hdz=42771.030|uh=8017|ud=32791|bh=AFD3|bd=45011}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{l|zh|㘪}}, {{l|zh|秏}}
+
+===Pronunciation===
+{{zh-pron
+|m=hào
+|c=hou3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|耗子|mouse, rat}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=耒04}}
+
+# {{defn|lang=ja|sort=耒04}}
+
+====Readings====
+* {{ja-readings|goon=[[こう]] (kō)|kanon=[[こう]] (kō)|kanyoon=[[もう]] (mō)|kun=[[へる]] (heru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=모|eumhun=|rv=mo|mr=mo|y=mo}}
+
+# {{defn|lang=ko|sort=耒04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[háo]], [[hao]], [[gao]], [[hau]]|rs=耒04}}
+
+# {{defn|lang=vi|sort=耒04}}
+
+[[fr:耗]]
+[[ko:耗]]
+[[hu:耗]]
+[[mg:耗]]
+[[ja:耗]]
+[[no:耗]]
+[[pl:耗]]
+[[th:耗]]
+[[zh:耗]]

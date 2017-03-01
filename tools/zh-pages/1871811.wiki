@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|ま|な|yomi=k}}
+
+===Etymology===
+Originally a compound of {{compound|lang=ja|sort=まな|真|tr1=ma|t1=true|魚|tr2=na|t2=fish; side dish}}, from the way that edible fish was often used as the main side dish at meals.  The ''na'' element was variously spelled {{m|ja|菜|lit=vegetables}}, {{m|ja|魚|lit=fish}}, and {{m|ja|肴|lit=side dish}} depending on context.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|まな|acc=1|acc_ref=SMK5}}
+
+===Noun===
+{{ja-noun|まな}}
+
+# {{l|en|fish}} used for eating
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|真%魚の祝い|ま%な の いわい}}: a {{l|en|ceremony}} to mark a {{l|en|child}}'s transition to eating {{l|en|solid}} {{l|en|food}}
+* {{ja-r|まな板|まないた}}: a {{l|en|cutting board}}
+* {{ja-r|真%魚%鰹|ま%な%がつお}}: a {{l|en|harvest fish}}< a {{l|en|silver pomfret}}
+* {{ja-r|真%魚%咋|ま%な%ぐい}}, {{ja-r|真%魚%食い|ま%な%ぐい}}: an excellent {{l|en|meal}} of prepared {{l|en|fish}}
+* {{ja-r|真%魚%箸|ま%な%ばし}}: {{l|en|cooking}} {{l|en|chopsticks}}
+* {{ja-r|真%魚 始|ま%な はじめ}}: a {{l|en|ceremony}} to mark a {{l|en|child}}'s transition to eating {{l|en|solid}} {{l|en|food}}
+{{der-bottom}}
+
+===References===
+<references/>

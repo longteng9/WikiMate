@@ -1,0 +1,68 @@
+{{also|强制}}
+==Chinese==
+{{zh-forms|s=强制}}
+
+===Pronunciation===
+{{zh-pron
+|m=強zhì
+|c=koeng4 zai3,koeng5 zai3
+|mn=xm,qz,tw:kiông-chè/zz:kiâng-chì/twvk:kiâng-chè
+|ma=y
+|cat=v,a,adv,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[enforce]]; to [[force]]; to [[compel]]; to [[coerce]]
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[forceful]]; [[coercive]]
+#: {{zh-x|採取 強制 手段|to adopt '''coercive''' measures}}
+
+===Adverb===
+{{zh-adv}}
+
+# [[forcibly]]
+
+===Noun===
+{{zh-noun}}
+
+# [[compulsion]]
+
+===Derived terms===
+{{zh-der|強制拘留|強制性}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きょう|せい|yomi=on}}
+
+===Noun===
+{{ja-noun|きょうせい}}
+
+# [[compulsion]], [[imposition]], [[enforcement]], [[coercion]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|きょうせい}}
+
+# to [[force]], [[impose]], [[compel]], [[coerce]]
+#: {{ja-usex|労働を'''強制する'''|ろうどう を '''きょうせい する'''|force to work}}
+
+====Conjugation====
+{{ja-suru|きょうせい}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:強制]]
+[[ko:強制]]
+[[lo:強制]]
+[[hu:強制]]
+[[mg:強制]]
+[[ja:強制]]
+[[zh:強制]]

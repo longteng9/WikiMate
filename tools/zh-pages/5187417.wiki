@@ -1,0 +1,27 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+[[Image:Pagoda.svg|thumb|'''五輪塔''']]
+{{ja-kanjitab|ご|りん|とう|yomi=o}}
+
+===Etymology===
+Compound of {{compound|五輪|tr1=gorin|t1=five rings|塔|tr2=tō|t2=tower|lang=ja|sort=こりんとう'}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|ごりんとう|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|ごりんとう|hhira=ごりんたふ}}
+
+# [[five]]-[[ringed]] [[pagoda]]
+
+====Meronyms====
+* {{ja-r|地輪|ちりん}}
+* {{ja-r|水輪|すいりん}}
+* {{ja-r|火輪|かりん}}
+* {{ja-r|風輪|ふうりん}}
+* {{ja-r|空輪|くうりん}}
+
+===References===
+<references/>
+
+[[ko:五輪塔]]

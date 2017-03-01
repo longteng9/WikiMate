@@ -1,0 +1,58 @@
+{{also|书院}}
+==Chinese==
+{{zh-forms|s=书院}}
+
+===Pronunciation===
+{{zh-pron
+|m=shūyuàn
+|c=syu1 jyun6-2
+|h=pfs=sû-yen
+|mn=xm,tw:su-īⁿ/qz:chir-īⁿ/zz:si-īⁿ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|archaic}} an [[academy]] of [[classical]] [[learning]]
+# {{lb|zh|archaic}} a [[residential]] [[library]]; a [[residential]] [[study]]
+----
+==Japanese==
+{{ja-kanjitab|しょ|いん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|しょいん|y=o}}
+
+===Noun===
+{{ja-noun|しょいん}}
+
+# [[study]] {{gloss|room}}
+# [[publishing]] [[firm]]
+
+====Synonyms====
+* {{sense|study}} {{ja-r|書斎|しょさい}}
+* {{sense|publishing firm}} {{ja-r|出版社|しゅっぱんしゃ}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=서원}}
+
+# {{hanja form of|서원|}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu|pos=noun}}
+
+# {{han tu form of|thư viện|library}}
+
+[[ko:書院]]
+[[mg:書院]]
+[[zh:書院]]

@@ -1,0 +1,102 @@
+{{character info/new}}
+{{also|飜}}
+==Translingual==
+
+===Alternative forms===
+* {{l|mul|飜}} {{qualifier|Korean Hanja}}
+* {{l|mul|繙}}<!-- really a variant? -->
+
+===Etymology===
+{{Han simp|飜|f=飛|t=羽}} in Chinese and Japanese.
+
+===Han character===
+{{Han char|rn=124|rad=羽|as=12|sn=18|four=27620|canj=HWSMM|ids=⿰番羽}}
+
+====References====
+* {{Han ref|kx=0959.310|dkj=28814|dj=1406.010|hdz=53358.020|uh=7FFB|ud=32763|bh=C2BD|bd=49853}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=飜}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|番|羽|t2=wings|ls=psc|c1=p|c2=s}} – to flutter.
+
+===Pronunciation===
+{{zh-pron
+|m=fān
+|c=faan1
+|h=pfs=fân
+|mn=hoan
+|w=1fe
+|mc=y
+|oc=y
+|cat=verb
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[fly]]
+# [[turn over]], [[toss]]
+# [[change]]
+# [[reverse]]
+# [[cross over]]
+# [[return]]
+# [[browse]], [[look over]]
+# [[translate]]
+# [[study]] {{attention|zh|1-9 needs checking}}
+# {{lb|zh|Cantonese}} {{zh-alt-form|返|faan1}}
+
+====Compounds====
+{{zh-der|翻案|翻白眼|翻白眼兒|翻版|翻本|翻本兒|翻茬|翻場|翻車魚|翻哧|翻船|翻地|翻動|翻斗|翻斗車|翻番|翻飛|翻覆|翻改|翻蓋|翻個兒|翻跟頭|翻工|翻供|翻滾|翻過兒|翻黃|翻簧|翻悔|翻檢|翻建|翻江倒海|翻漿|翻攪|翻筋斗|翻舊賬|翻捲|翻刻|翻來覆去|翻老賬|翻臉|翻領|翻領兒|翻錄|翻毛|翻弄|翻拍|翻皮|翻然|翻砂|翻曬|翻山越嶺|翻身|翻騰|翻天|翻天覆地|翻蔓兒|翻胃|翻箱倒櫃|翻新|翻修|翻譯|翻印|翻湧|翻閱|翻越|翻雲覆雨|翻造|翻嘴|不准翻印|人仰馬翻|仰翻|倒海翻江|做翻|側手翻|兜翻|兩眼翻白|前空翻|地牛翻身|地覆天翻|天翻地覆|家翻宅亂|後滾翻|打翻|扳翻|抖翻|拖翻|拾翻|捲浪翻波|掀翻|推翻|撲翻身|擁霧翻波|攪海翻江|放翻|易如翻掌|東翻西倒|機器翻譯|江翻海沸|海沸江翻|海沸河翻|海沸波翻|滾翻|滾翻運動|瀾翻|玄黃翻覆|空翻多|窩裡翻|絆翻|翩翻|翻作|翻來吊去|翻來翻去|翻兩番|翻刻本|翻口|翻唱|翻戲|翻手之間|翻手為雲|翻把|翻招|翻掌|翻揀|翻書|翻梢|翻梯子|翻檯|翻毛兒|翻江攪海|翻滾滾|翻然悔悟|翻然改圖|翻照|翻版片|翻空|翻箱倒篋|翻箱倒籠|翻羽|翻老帳|翻股|翻脣弄舌|翻腔|翻臉無情|翻舊帳|翻花頭|翻蔓|翻覆無常|翻調|翻譯員|翻譯官|翻譯小說|翻起|翻跟斗|翻躍|翻身戶|翻車|翻轉|翻過筋斗|翻開|翻面|翻面皮|翻餅|翻鬆|自動翻譯|花樣翻新|蒼黃翻覆|覆去翻來|覆地翻天|覆雨翻雲|錯翻眼皮|雲翻雨覆|飛翻|馬仰人翻|鬧翻|鬧翻身|鷂子翻身|鹹魚翻身}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=羽12}}
+
+# {{defn|lang=ja|sort=羽12}}
+* flip, turn over
+* wave, flutter
+* a change of mind
+
+====Readings====
+* {{ja-readings|on=[[ほん]] (hon), [[はん]] (han)|kun=[[ひるがえる]] (hirugaeru), [[とる]] (toru), [[ひるがえす]] (hirugaesu)}}
+
+====Compounds====
+* {{ja-r|翻訳|ほんやく}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[번]]|eumhun=|rv=beon|mr=pŏn|y=pen}}
+
+# to [[fly]]
+# to [[flutter]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''翻''' ([[phiên]])
+
+# {{defn|lang=vi}}
+
+[[fr:翻]]
+[[hu:翻]]
+[[mg:翻]]
+[[ja:翻]]
+[[no:翻]]
+[[pl:翻]]
+[[ta:翻]]
+[[th:翻]]
+[[uk:翻]]
+[[zh:翻]]

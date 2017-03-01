@@ -1,0 +1,83 @@
+{{also|无花果}}
+==Chinese==
+{{zh-forms|s=无花果|lit=flowerless fruit}}
+{{zh-wp|zh|yue|hak:vù-fâ-kó|cdo:ù-huă-guō}}
+
+===Pronunciation===
+{{zh-pron
+|m=wúhuāguǒ
+|c=mou4 faa1 gwo2
+|h=pfs=vù-fâ-kó
+|md=ù-huă-guō
+|mn=bû-hoa-kó
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[fig]]
+
+{{zh-cat|Fruits|Fig trees}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|sort=いちじく|yomi=irr}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|いちじく|acc=2|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|映日果}}
+
+====Noun====
+{{ja-noun|いちじく|イチジク}}
+
+# [[fig]]
+
+=====Synonyms=====
+* {{ja-r|映日果|えいじつか}}
+
+=====Derived terms=====
+* {{ja-r|無花果果|いちじくか|[[syconium]]}}
+
+===Etymology 2===
+{{ja-kanjitab|む|か|か|yomi=o}}
+From {{der|sort=むかか|ja|ltc|無花果|tr=mɨo  hˠua  kuɑ<sup>X</sup>}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|むかか|acc=2|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|むかか|hhira=むくわくわ}}
+
+# [[fig]]
+
+===References===
+<references/>
+
+[[Category:ja:Fruits|いちじく]]
+[[Category:ja:Fig trees|いちじく]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=무화과}}
+
+# {{hanja form of|무화과|[[fig]]}}
+
+[[az:無花果]]
+[[fa:無花果]]
+[[ko:無花果]]
+[[hu:無花果]]
+[[mg:無花果]]
+[[uz:無花果]]
+[[sv:無花果]]
+[[tl:無花果]]

@@ -1,0 +1,59 @@
+{{character info/new}}
+{{also|不用}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=101|rad=用|as=04|sn=9|four=10227|canj=MFBQ|ids=⿱不用}}
+
+====References====
+* {{Han ref|kx=0756.051|dkj=21713|dj=1166.060|hdz=10025.110|uh=752D}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|alt=甮}}
+Formed from a northern dialectal pronunciation of {{zh-l|不用}}.
+
+====Pronunciation====
+{{zh-pron
+|m=béng
+|c=bung2
+|h=pfs=
+|md=
+|mn=bàng
+|w=2pion
+|mc=
+|oc=
+|ma=y
+|cat=adv
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{contraction of|不用|lang=zh}}
+# {{synonym of|不必|lang=zh}}
+
+===Etymology 2===
+{{zh-see|棄|v}}
+
+===References===
+* {{R:twedu|A02631}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bằng]]|rs=用04}}
+
+# {{defn|lang=vi|sort=用04}}
+
+[[fr:甭]]
+[[mg:甭]]
+[[ja:甭]]
+[[pl:甭]]
+[[th:甭]]
+[[zh:甭]]

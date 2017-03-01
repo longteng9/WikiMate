@@ -1,0 +1,101 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=24|rad=十|as=06|sn=8|four=21406|canj=YAJ|ids=⿱[[卜|⺊]][[早]]}}
+
+====References====
+* {{Han ref|kx=0156.290|dkj=02741|dj=0356.200|hdz=10061.060|uh=5353|ud=21331|bh=A8F4|bd=43252}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+Current form: {{Han compound|卜|日|十}}.
+
+===Etymology===
+Derivative: {{och-l|桌|table}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhuó
+|c=coek3,zoek3,cok3
+|h=
+|mn=toh/tok
+|mn_note=toh - vernacular, tok - literary
+|w=
+|mc=y
+|oc=y
+|ma=
+|cat=a,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[tall]] and [[erect]]
+# [[outstanding]]; [[profound]]; [[brilliant]]; [[lofty]]
+# {{†}} {{zh-original|桌|table}}
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|卓殊|卓立|卓詭|卓識|匾打側卓|堅苦卓絕|卓異|卓著|卓絕群倫|卓犖不羈|卓犖|卓裁|卓絕|卓特|卓爾出群|卓有成效|卓卓|卓爾不群|卓見|卓鷙|卓爾|卓望|卓卓錚錚|卓躒|卓越超群|卓然不群|卓然|卓午|卓越|擦卓兒|挺然卓立|畢卓持螯|超卓|艱苦卓絕|遠見卓識|高才卓識|羊卓雍湖|顏苦孔卓|高卓}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=十06}}
+
+====Readings====
+* {{ja-readings|goon=[[たく]] (taku)|kanon=[[たく]] (taku)|kun=[[すぐれる]] (sugureru)}}
+
+{{ja-kanjitab|たく|yomi=o}}
+
+===Noun===
+{{ja-noun|たく}}
+
+# [[table]], [[desk]]
+
+===Proper noun===
+{{ja-pos|proper|たかし}}
+
+# {{given name|male|lang=ja|sort=たかし}}
+
+{{ja-pos|proper|すぐる}}
+
+# {{given name|male|lang=ja|sort=すぐる}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=탁|rv=tak|mr=t'ak}}
+
+# {{defn|lang=ko|sort=十06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trác]], [[chác]], [[giạt]]|rs=十06}}
+
+# {{defn|lang=vi|sort=十06}}
+
+[[fr:卓]]
+[[ko:卓]]
+[[li:卓]]
+[[hu:卓]]
+[[mg:卓]]
+[[ja:卓]]
+[[no:卓]]
+[[pl:卓]]
+[[th:卓]]
+[[vi:卓]]
+[[zh:卓]]

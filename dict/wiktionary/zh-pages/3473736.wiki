@@ -1,0 +1,35 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yòuxià
+|mn=iū-hā
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} bottom right, lower right
+
+----
+
+==Japanese==
+{{ja-kanjitab|みぎ|した|yomi=k}}
+
+===Etymology===
+From {{compound|ja|右|下|tr1=migi|tr2=shita|t1=right|t2=bottom, down, lower}}.
+
+===Noun===
+{{ja-noun|みぎした}}
+
+# [[bottom right]], lower right
+
+====Related terms====
+* {{ja-r|右上|みぎうえ}}
+* {{ja-r|左上|ひだりうえ}}
+* {{ja-r|左下|ひだりした}}
+
+[[fr:右下]]
+[[zh:右下]]

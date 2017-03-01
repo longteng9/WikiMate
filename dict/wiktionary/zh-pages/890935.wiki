@@ -1,0 +1,58 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=cuìruò
+|c=ceoi3 joek6
+|mn=chhùi-jio̍k/chhùi-lio̍k
+|w=2qoe zaq
+|cat=a,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[vulnerable]]; [[fragile]]
+# [[weak]]
+
+===Noun===
+{{zh-noun}}
+
+# [[vulnerability]]; [[fragility]]
+# [[weakness]]
+
+====Antonyms====
+* {{zh-l|堅強}}
+
+====Derived terms====
+{{zh-der|脆弱性}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|脆|弱}}
+
+===Adjectival noun===
+{{ja-adj|ぜいじゃく|decl=na}}
+
+# [[vulnerable]], [[fragile]], [[destructible]]
+
+====Inflection====
+{{ja-na|脆弱|ぜいじゃく|zeijaku}}
+
+===Noun===
+{{ja-noun|ぜいじゃく}}
+
+# [[vulnerability]], [[destructibility]]
+
+====Derived terms====
+* [[脆弱性]] ([[ぜいじゃくせい]], [[zeijakusei]]): [[vulnerability]]
+
+[[ko:脆弱]]
+[[mg:脆弱]]
+[[ja:脆弱]]
+[[sv:脆弱]]
+[[zh:脆弱]]

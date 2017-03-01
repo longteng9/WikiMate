@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|脏|臓|贓}}
+==Translingual==
+{{Han simplified forms|臟|臓|脏}}
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=18|sn=22|four=74253|canj=BTIS,XBTIS|ids=⿰月藏}}
+
+# [[internal organ]]s, [[viscera]]
+
+====Descendants====
+* [[臓]]
+
+====References====
+* {{Han ref|kx=0998.290|dkj=30046|dj=1449.240|hdz=32126.020|uh=81DF|ud=33247|bh=C5A6|bd=50598}}
+
+----
+
+==Chinese==
+{{zh-forms|s=脏}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|肉|alt1=⺼|t1=body|藏|ls=psc|c1=s|c2=p}} – a kind of body part.
+
+===Pronunciation===
+{{zh-pron
+|m=zàng
+|c=zong6
+|h=pfs=chhong
+|md=
+|mn=qz,tw,xm,zz:chn̄g/qz,tw,xm,zz:chōng
+|mn_note=chn̄g - vernacular; chōng - literary
+|w=
+|mc=
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[internal organ]]s; [[viscera]]
+#: {{zh-x|心臟|the heart}}
+#: {{zh-x|五臟六腑|all the human internal organs (''lit.'' five '''viscera''' and six bowels)}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉18|style=ky|shin=臓}}
+
+# {{defn|lang=ja|sort=肉18}}
+
+====Readings====
+* {{ja-readings|on=[[ぞう]] (zō), [[そう]] (sō)|kun=[[はらわた]] (harawata)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=장|eumhun=|rv=jang|mr=chang|y=cang}}
+
+# {{defn|lang=ko|sort=肉18}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tạng]]|rs=肉18}}
+
+# {{defn|lang=vi|sort=肉18}}
+
+[[fr:臟]]
+[[ko:臟]]
+[[hu:臟]]
+[[mg:臟]]
+[[ja:臟]]
+[[pl:臟]]
+[[th:臟]]
+[[vi:臟]]
+[[zh:臟]]

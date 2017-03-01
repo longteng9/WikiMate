@@ -1,0 +1,32 @@
+==Japanese==
+
+===Etymology===
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|じょ|すう|し|yomi=o}}
+{{compound|sort=しょすうし'|助|t1=[[help]]|tr1=[[jo]]|lang=ja|数詞|t2=[[numeral]]|tr2=[[sūshi]]}}
+
+===Pronunciation===
+{{ja-pron|じょすうし|acc=2|acc_ref=DJR,NHK,SMK5|y=o}}
+
+===Noun===
+{{ja-noun|じょすうし}}
+
+# {{lb|ja|part of speech|sort=しょすうし'}} [[counter]] [[word]], a Japanese part of speech
+
+====Usage notes====
+In Japanese, numerals cannot quantify nouns by themselves, except in certain cases for the numbers from one to ten (and then only using the forms ending in ''-tsu'', such as ''hitotsu'' or ''futatsu''). Instead, {{m|ja|助数詞||counter words|sc=Jpan}} are used after the number to count objects and events.
+
+For example, {{m|ja|匹|tr=hiki|sc=Jpan}} is the counter for small animals:
+* {{ja-usex|犬二'''匹'''|いぬ に'''ひき'''|"two dogs" (literally "dog two-small-animal")}}
+
+====See also====
+* {{ja-r|類別詞|るいべつし}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[hu:助数詞]]
+[[mg:助数詞]]
+[[ja:助数詞]]
+[[zh:助数詞]]

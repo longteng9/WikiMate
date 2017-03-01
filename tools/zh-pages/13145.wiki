@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=07|sn=10|four=46114|canj=GRHG,GRMG|ids=⿰土呈}}
+
+====References====
+* {{Han ref|kx=0230.121|dkj=05150|hdz=10444.100|uh=57D5|ud=22485|bh=D14C|bd=53580}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|土|呈|ls=psc|c1=s|c2=p|no_och2=y}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=chéng
+|c=cing4
+|md=dìng
+|w=3zen
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|historical}} [[large]], [[pear]]-[[shape]]d [[earthenware]] [[alcohol]] [[jar]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=chéng
+|md=diàng
+|mn=tiâⁿ
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Min}} [[yard]]; [[level]] [[open]] [[ground]] (for grain drying, [[thresh]]ing, salt production or freshwater aquaculture)
+
+====Compounds====
+{{zh-der|鹽埕|埕斗|墓埕|廟埕|稻埕|運動埕}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土07}}
+
+# {{defn|lang=ja|sort=土07}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei)|kun=[[びん]] (bin)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trình]], [[chĩnh]], [[chình]]|rs=土07}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:埕]]
+[[fr:埕]]
+[[hu:埕]]
+[[mg:埕]]
+[[pl:埕]]
+[[th:埕]]
+[[zh:埕]]

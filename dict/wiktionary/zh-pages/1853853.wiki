@@ -1,0 +1,35 @@
+{{also|伊妹儿}}
+==Chinese==
+{{zh-forms|s=伊妹儿|alt=伊妹,伊⧸媚兒|gloss=-}}
+
+===Etymology===
+{{bor|zh|en|e-mail}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yīmèir
+|c=ji1 mui6 ji4,ji1 mei6 ji4
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|dated|jocular}} [[email]]
+
+====Synonyms====
+* {{zh-l|電子郵件}}
+
+====Derived terms====
+{{zh-der|伊妹兒地址}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|dated|jocular}} to [[email]]
+
+{{zh-cat|Computing}}
+
+[[ko:伊妹兒]]
+[[hu:伊妹兒]]
+[[zh:伊妹兒]]

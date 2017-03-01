@@ -1,0 +1,28 @@
+==Translingual==
+{{rfc}}
+
+===Han character===
+{{mul-number}}
+
+# 10^42
+
+''Chinese number'' '''百正'''
+* '''Next''': [[千正]] (10^43)
+* '''Last''': [[十正]] (10^41)
+
+[[Category:Chinese numeral symbols]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひゃく|せい|yomi=o}}
+
+===Etymology===
+[[百]] (ひゃく, ''hyaku'': “hundred”) + [[正]] (せい, ''sei'': “10<sup>40</sup>”)
+
+===Number===
+{{ja-pos|number|ひゃくせい}}
+
+# A [[billion]] [[quintillion]], 10<sup>42</sup>, or a [[septillion]] of dated British or Australian English, in modern Japanese since 17th century.
+
+[[Category:Japanese numeral symbols|10^42]]

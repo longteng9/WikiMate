@@ -1,0 +1,36 @@
+{{also|记帐}}
+==Chinese==
+{{zh-forms|s=记帐|t2=記賬}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìzhàng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[keep]] [[accounts]]
+# to [[charge]] to an [[account]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|き|ちょう|yomi=on}}
+
+===Noun===
+{{ja-noun|きちょう}}
+
+# [[registry]], [[entry]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|きちょう}}
+
+# [[register]], [[enter]]
+#: {{ja-usex|銀行の通帳を記帳する|ぎんこう の つうちょう を きちょう する|enter on a bankbook}}
+
+====Conjugation====
+{{ja-suru|きちょう}}
+
+[[zh:記帳]]

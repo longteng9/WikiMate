@@ -1,0 +1,138 @@
+{{character info/new}}
+{{also|桥}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=12|sn=16|four=42927|canj=DHKB|ids=⿰木喬}}
+
+====References====
+* {{Han ref|kx=0553.010|dkj=15526|dj=0941.170|hdz=21292.090|uh=6A4B|ud=27211|bh=BEF4|bd=48884}}
+
+----
+
+==Chinese==
+{{zh-forms|s=桥}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|喬|ls=psc|t1=wood|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=qiáo
+|ma=y
+|c=kiu4
+|h=pfs=khiâu
+|md=giò
+|mn=qz,xm,zz:kiâu/kiô
+|mn_note=kiâu - literary; kiô - vernacular
+|w=3jjiau
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# a [[footbridge]], a ([[small]]) [[bridge]]
+#: {{zh-x|橋樑|bridge}}
+# [[beam]], [[crosspiece]]
+
+====Usage notes====
+Most of the things English terms ''bridges''—as over rivers—are described in modern Chinese as {{zh-l|橋樑}}, whereas {{lang|zh|橋}} is used for small, level crossings, as over canals or small ditches.
+
+===Compounds===
+{{zh-der|二十四橋|便橋|修橋補路|倍力橋|劍橋|劍橋大學|吊橋|土橋|圯橋|圯橋進履|天橋|天然橋|奈何橋|寶帶橋|平橋|廣德從橋|弔橋|引橋|拉線搭橋|拱橋|搭橋|斷橋|星橋|朱雀橋|板橋|梯橋|棧橋|楓橋|楓橋夜泊|橋劇|橋堍|橋墩|橋孔|橋山|橋梁|橋梓|橋洞|橋津|橋牌|橋腦|橋藝|橋頭|橋頭堡|正橋|水渰藍橋|法橋|洛陽橋|浮棧橋|浮橋|灞橋|烏鵲成橋|烏鵲橋|爐橋|牙橋|牽線搭橋|獨木橋|盧溝橋|石橋|秦橋|空橋|立馬蓋橋|立馬造橋|筧橋|紅橋|索橋|緪橋|繩橋|羅鍋橋|腦橋|艦橋|草橋店|藍橋|藍橋會|虹橋|蜜月橋牌|西泠橋|西濱大橋|跳橋|過橋|過橋抽板|過橋拆橋|過橋費|過河拆橋|鄭板橋|鐵橋|門橋|陳橋|陳橋兵變|陸橋|鞭石成橋|飛橋|高架橋|鵲橋|鹽橋}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=木12}}
+
+====Readings====
+{{ja-readings
+|goon=[[ぎょう]] (gyō)
+|kanon=[[きょう]] (kyō)
+|kun=[[はし]] (hashi)
+|nanori=[[ばせ]] (base)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|鉄橋|てっきょう}}
+* {{ja-r|高橋|たかはし}}
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|はし|yomi=k}}
+{{IPAchar|/pasi/}} → {{IPAchar|/ɸasi/}} → {{IPAchar|/hasi/}}
+
+From {{etyl|ojp|ja|sort=はし}}, originally indicating either the area between two things, or a connection between two things.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Cognate with {{m|ja|階|tr=hashi||stairs from a garden up to the house}}, both cognate with root ''hasa'' indicating the narrow area between two things, as in {{m|ja|狭間|pos=classical ''hasama'', modern ''hazama''||narrow gap between two things}} or {{m|ja|挟む|tr=hasamu||to put between two things that are close together, to squeeze between two things}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Cognate also with root ''hoso'' indicating the narrowness of a thing itself, as in {{m|ja|細い|tr=hosoi||narrow, slender}}, {{m|ja|細める|tr=hosomeru||to narrow something, to make something narrow}}.
+
+===Pronunciation===
+{{ja-pron|y=k|はし|acc=o|acc_ref=NHK,DJR,SMK5}}
+
+===Noun===
+{{ja-noun|はし}}
+
+# that which is constructed to connect two points for the purpose of transportation: a [[bridge]]
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|16}}:<ref name="SKOS">{{Shin'yaku Kegonkyō Ongi Shiki}}</ref>
+#*: 旋澓 [...] 梁力將反橋也二字'''波之'''
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|43}}:<ref name="SKOS"/>
+#*: 橋梁 上'''波之'''下宇都波利
+# a [[bridge]]-like [[walkway]] or [[corridor]] between two [[building]]s in a [[manor]], [[palace]], [[castle]], or similar structure
+# a person who acts as a [[bridge]] between different people: a [[mediator]], a [[go-between]]
+
+====Synonyms====
+* {{sense|bridge for traffic}} {{ja-r|橋梁|きょうりょう}}
+* {{sense|corridor}} {{ja-r|渡り廊下|わたりろうか}}, {{ja-r|渡殿|わたどの}}, {{ja-r|長橋|ながはし}}
+* {{sense|mediator}} {{ja-r|仲立ち|なかだち}}, {{ja-r|仲介|ちゅうかい}}
+
+===References===
+<references/>
+[[Category:ja:Bridges|はし]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=교|eumhun=|mr=kyo|y=kyo}}
+
+# {{defn|lang=ko|sort=木12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kiều]], [[cầu]], [[kéo]], [[kèo]]|rs=木12}}
+
+# {{defn|lang=vi|sort=木12}}
+
+[[zh-min-nan:橋]]
+[[fr:橋]]
+[[ko:橋]]
+[[lo:橋]]
+[[lt:橋]]
+[[hu:橋]]
+[[mg:橋]]
+[[fj:橋]]
+[[ja:橋]]
+[[pl:橋]]
+[[pt:橋]]
+[[ru:橋]]
+[[fi:橋]]
+[[sv:橋]]
+[[tl:橋]]
+[[th:橋]]
+[[chr:橋]]
+[[tr:橋]]
+[[zh:橋]]

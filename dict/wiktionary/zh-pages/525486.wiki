@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=hérónghé
+|c=hat6 jung4 hap6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|physics}} [[nuclear fusion]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|かく|ゆう|ごう|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=かくゆうごう|核|tr1=kaku|t1=nucleus|融合|tr2=yūgō|t2=fusion}}.
+
+===Pronunciation===
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|/ka.ku ju.u.ɡo.o/|[käkɯᵝ jɯᵝːɡo̞ː]}}
+
+===Noun===
+{{ja-noun|かく ゆうごう|hhira=かくゆうがふ}}
+
+# {{lb|ja|sort=かくゆうごう|physics}} short for {{l|ja|原子核融合|tr=''genshikaku yūgō''}}: ([[atomic]]) [[nuclear fusion]]
+# {{lb|ja|sort=かくゆうごう|biology}} [[karyogamy]], the [[fusion]] of [[cellular]] [[nuclei]] when a [[sperm]] cell meets an [[egg]] cell
+
+====Derived terms====
+* {{ja-r|原子核融合|げんしかく ゆうごう|gloss=([[atomic]]) [[nuclear fusion]]}}
+* {{ja-r|常温核融合|じょうおん かく ゆうごう|gloss=[[cold fusion]], cold nuclear fusion}}
+* {{ja-r|熱核融合|ねつ かく ゆうごう|gloss=[[thermonuclear]] [[fusion]]}}
+
+===References===
+* {{R:Kojien}}
+
+[[ko:核融合]]
+[[it:核融合]]
+[[hu:核融合]]
+[[ja:核融合]]
+[[zh:核融合]]

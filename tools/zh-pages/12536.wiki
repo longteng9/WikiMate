@@ -1,0 +1,48 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=09|sn=12|four=|canj=RKBL|ids=⿰口郁}}
+
+====References====
+* {{Han ref|kx=0198.140|dkj=03930|dj=0420.030|hdz=10638.100|uh=5590|ud=21904}}
+
+----
+==Chinese==
+{{zh-forms|alt=郁,逳,㤢}}
+
+===Pronunciation===
+{{zh-pron
+|m=yù
+|c=juk1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Cantonese}} to [[move]] (one's body or body parts)
+#: {{zh-x|唔准 喐 啦！|Don't '''move'''!|C}}
+#: {{zh-x|喐 親 手 就 聽{ting3} 打！|If you move, you're going to get spanked!|C}}
+# {{lb|zh|Cantonese}} to [[move]] (something: an item, etc.); to change the location of something
+#: {{zh-x|唔准 喐 佢！|Don't '''move''' it!|C}}
+# {{lb|zh|Cantonese|slang}} to [[hit]]
+#: {{zh-x|喐 佢！|'''Hit''' him!|C}}
+<!--
+# to [[touch]]
+--Unihan
+-->
+
+====Compounds====
+{{zh-der|喐身喐勢|喐啲|喐下|喐手|喐手喐腳|喐動|喐喐貢|喐親}}
+
+[[fr:喐]]
+[[pl:喐]]
+[[th:喐]]
+[[zh:喐]]

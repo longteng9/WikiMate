@@ -1,0 +1,47 @@
+{{also|非难}}
+==Chinese==
+{{zh-forms|s=非难}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēinàn
+|c=fei1 naan6
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[blame]]; to [[censure]]; to [[reproach]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひ|なん|yomi=on}}
+
+===Noun===
+{{ja-noun|ひなん}}
+
+# [[accusation]], [[criticism]], [[blame]]
+#: {{ja-usex|その'''非難'''はあたらない。|その '''ひなん''' は あたらない。|The '''accusation''' is not justified.}}
+
+====Compounds====
+* {{ja-r|非難決議|ひなん けつぎ}}: resolution
+
+===Verb===
+{{ja-verb-suru|ひなん}}
+
+# [[blame]], [[criticize]], [[deprecate]], [[point fingers]]
+#: {{ja-usex|会議の欠席を非難した。|かいぎ の けっせき を ひなん した。|He deprecated the guy's absence of the meeting.}}
+
+====Synonyms====
+* {{ja-r|責める|せめる}}
+
+====Conjugation====
+{{ja-suru|ひなん}}
+
+[[ko:非難]]
+[[mg:非難]]
+[[ja:非難]]
+[[chr:非難]]
+[[zh:非難]]

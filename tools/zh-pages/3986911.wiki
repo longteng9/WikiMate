@@ -1,0 +1,45 @@
+{{also|诉追}}
+==Chinese==
+{{zh-forms|s=诉追}}
+
+===Pronunciation===
+{{zh-pron
+|m=sùzhuī
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|legal}} to [[prosecute]]
+
+====Synonyms====
+* {{zh-l|追訴}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|そ|つい|yomi=on}}
+
+===Noun===
+{{ja-noun|そつい}}
+
+# [[prosecution]], legal [[action]]
+
+====Synonyms====
+* {{ja-r|起訴|きそ}}
+
+===Verb===
+{{ja-verb-suru|そつい}}
+
+# [[prosecute]]
+
+====Conjugation====
+{{ja-suru|そつい}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:訴追]]
+[[mg:訴追]]
+[[ja:訴追]]

@@ -1,0 +1,59 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=mò期
+|c=mut6 kei4
+|h=pfs=ma̍t-khì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[final]] [[period]]; [[terminal]] period; [[last]] stage
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|まつ|き|k1=まっ|yomi=on}}
+
+====Noun====
+{{ja-noun|まっき}}
+
+# [[final]] [[period]]; [[terminal]] period; [[last]] stage.
+# {{sense|illness}} [[terminal]]; approaching [[death]].
+#: {{ja-usex|'''末期'''癌|'''まっき''' がん|'''terminal''' cancer}}
+
+=====Antonyms=====
+* {{sense|all meanings}} {{l|ja|初期}}
+
+===Etymology 2===
+{{ja-kanjitab|まつ|ご|yomi=on}}
+
+====Noun====
+{{ja-noun|まつご}}
+
+# [[dying]]; [[hour]] of [[death]]; [[deathbed]].
+#: {{ja-usex|'''末期'''の水|'''まつご''' の みず|water at the '''deathbed'''}}
+
+=====Synonyms=====
+* {{l|ja|死に際}}
+* {{l|ja|最期}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=말기}}
+
+# {{hanja form of|말기|[[final]] [[period]]; [[terminal]] period; [[last]] stage; {{sense|illness}} [[terminal]]; approaching [[death]]}}
+
+[[ko:末期]]
+[[hu:末期]]
+[[zh:末期]]

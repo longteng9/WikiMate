@@ -1,0 +1,62 @@
+{{character info/new}}
+{{also|鲆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=05|sn=16|four=|canj=NFMFJ}}
+
+# {{defn|Han|sort=魚05}}
+
+====References====
+* {{Han ref|kx=1467.170|dkj=46044|dj=2000.290|hdz=74680.120|uh=9B83|ud=39811}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鲆}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|魚|t1=fish|平|t2=flat|ls=ic}} – a flat fish, a flounder.
+
+===Pronunciation===
+{{zh-pron
+|m=píng
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+[[file:Paralichthys olivaceus.jpg|thumb|right|150px|鮃 (''hirame'')]]
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚05}}
+
+# {{defn|lang=ja|sort=魚05}}
+
+====Readings====
+* {{ja-readings|on=[[ひょう]] (hyō), [[へい]] (hei)|kun=[[ひらめ]] (hirame)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=평|eumhun=|rv=pyeong|mr=p'yŏng|y=phyeng}}
+
+# {{defn|lang=ko|sort=魚05}}
+
+[[fr:鮃]]
+[[ko:鮃]]
+[[hu:鮃]]
+[[ms:鮃]]
+[[ja:鮃]]
+[[pl:鮃]]
+[[th:鮃]]
+[[zh:鮃]]

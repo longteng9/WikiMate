@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|啯}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=11|sn=14|four=66000|canj=RWIM|ids=⿰口國}}
+
+# [[gurgling]] [[sound]]
+# [[chatter]]ing
+
+====References====
+* {{Han ref|kx=0206.010|dkj=04197|dj=0428.210|hdz=10676.090|uh=5613|ud=22035|bh=E14F|bd=57679}}
+
+----
+
+==Chinese==
+{{zh-forms|s=啯}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=guō
+|c=gwok3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嘓啅|嘓嘓|嘓嘓噥噥|嘓噥|嘓都嘓都}}
+
+===References===
+* {{R:twedu|B00416}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口11|style=ky|shin=啯}}
+
+# {{defn|lang=ja|sort=口11}}
+
+====Readings====
+* {{ja-readings|on=[[かく]] (kaku), [[きょく]] (kyoku)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=괵|rv=goek|mr=koek}}
+
+# {{defn|lang=ko|sort=口11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khoắc]], [[khắc]], [[quác]], [[quạc]], [[quắc]]|rs=口11}}
+
+# {{defn|lang=vi|sort=口11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5613 Nom Foundation]
+
+[[fr:嘓]]
+[[li:嘓]]
+[[hu:嘓]]
+[[pl:嘓]]
+[[th:嘓]]
+[[zh:嘓]]

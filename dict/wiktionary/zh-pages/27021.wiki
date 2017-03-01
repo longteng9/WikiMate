@@ -1,0 +1,110 @@
+{{character info/new}}
+{{also|诞}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=07|sn=14|four=02641|canj=YRNKM|ids=⿰言延}}
+
+====Descendants====
+* [[诞]]
+
+====References====
+* {{Han ref|kx=1162.050|dkj=35692|dj=1627.030|hdz=63965.100|uh=8A95|ud=35477|bh=BDCF|bd=48591}}
+
+----
+
+==Chinese==
+{{zh-forms|s=诞|alt=𧩙}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|c1=s|t1=word, speech|延|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=dàn
+|c=daan3,daan6
+|h=pfs=tan
+|mn=tàn
+|mc=y
+|oc=y
+|ma=y
+|cat=v,n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to be [[born]]
+# [[birth]]; [[birthday]]
+# to [[bear]] [[children]]; to [[give birth]] to
+# [[absurd]]; [[ludicrous]]
+
+===Compounds===
+{{zh-der|怪誕不經|怪誕劇|恢誕|冥誕|佛誕節|夸誕|怪誕|佛誕日|媽祖誕辰|壽誕|妄誕|放誕不羈|放誕風流|放誕詭僻|散誕|狂誕|欺誕|漫誕不稽|矯誕|放誕|誕放|聖誕|虛誕|聖誕樹|耶誕卡|誕登道岸|詭誕|華誕|誕生|聖誕百合|耶誕老人|聖誕夜|聖誕節|縱誕|荒誕不經|耶誕夜|誕罔不經|迂誕|陶誕|聖誕紅|聖誕老人|聖誕卡|觀音誕|誕章|閎誕|誕辰|荒誕無稽|誕謾|誕聖|誕妄|誇誕|誑誕|耶誕節|詭譎怪誕|荒誕|耶誕樹}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=言07}}
+
+# {{defn|lang=ja|sort=言07}}
+
+====Readings====
+{{ja-readings|goon=[[だん]] (dan)|kanon=[[たん]] (tan)|kun=[[いつわる]] (itsuwaru)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|生誕|せいたん}}
+* {{ja-r|誕生|たんじょう}}
+* {{ja-r|誕生日|たんじょうび}}
+* {{ja-r|虚誕|きょたん}}
+* {{ja-r|荒誕|こうたん}}
+* {{ja-r|降誕|こうたん}}
+* {{ja-r|御降誕|ごこうたん}}, {{ja-r|ご降誕|ごこうたん}}
+* {{ja-r|再誕|さいたん}}
+* {{ja-r|聖誕祭|せいたんさい}}
+{{der-mid}}
+* {{ja-r|初誕生|はつたんじょう}}
+* {{ja-r|妄誕|もうたん}}, {{ja-r|妄誕|ぼうたん}}: [[groundlessness]], additionally, [[groundless]] talk
+* {{ja-r|誕生祝い|たんじょういわい}}
+* {{ja-r|誕生石|たんじょうせき}}
+* {{ja-r|天皇誕生日|てんのうたんじょうび}}
+* {{ja-r|御誕生日おめでとうございます|おたんじょうびおめでとうございます}}, {{ja-r|お誕生日おめでとうございます|おたんじょうびおめでとうございます}}
+* {{ja-r|誕辰|たんしん}}
+* {{ja-r|生誕百年|せいたんひゃくねん}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=탄|eumhun=|rv=tan|mr=t'an|y=than}}
+
+# {{defn|lang=ko|sort=言07}}
+
+----
+
+==Vietnamese==
+
+===Etymology===
+{{Han compound|言|t1=ngôn|延|t2=diên}}.
+
+===Han character===
+{{vi-hantu|[[đản]]|rs=言07}}
+
+# {{defn|lang=vi|sort=言07}}
+
+[[fr:誕]]
+[[ko:誕]]
+[[lt:誕]]
+[[hu:誕]]
+[[mg:誕]]
+[[ja:誕]]
+[[pl:誕]]
+[[th:誕]]
+[[uk:誕]]
+[[zh:誕]]

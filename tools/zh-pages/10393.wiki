@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|丐}}
+
+==Translingual==
+
+===Han character===
+{{Han char|rn=1|rad=一|as=03|sn=4|four=10727|canj=MLVS}}
+
+====Derived characters====
+* [[沔]], [[眄]], [[麪]], [[髩]]
+
+====References====
+* {{Han ref|kx=0077.020|dkj=00021|dj=0154.020|hdz=10011.050|uh=4E0F|ud=19983|bh=C94D|bd=51533}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=miǎn
+|c=min5
+|h=
+|mn=bián
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=n,a,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[parapet]] for warding off [[arrow]]s
+# [[hidden]] from view
+# {{surname|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=一03}}
+
+# [[parapet]]
+# [[invisible]]
+
+====Readings====
+{{ja-readings|goon=[[めん]] (men)|kanon=[[べん]] (ben)|kun=[[みえぬ]] (mienu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[면]]|rv=myeon|mr=myŏn}}
+
+# {{defn|lang=ko|sort=一03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[miện]]|rs=一03}}
+
+# {{defn|lang=vi|sort=一03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e0f Nom Foundation]
+
+[[fr:丏]]
+[[ko:丏]]
+[[li:丏]]
+[[hu:丏]]
+[[ja:丏]]
+[[pl:丏]]
+[[th:丏]]
+[[vi:丏]]
+[[zh:丏]]

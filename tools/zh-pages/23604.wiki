@@ -1,0 +1,114 @@
+{{character info/new}}
+{{also|绕}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=12|sn=18|four=24911|canj=VFGGU|ids=⿰糹堯}}
+
+# [[entwine]]
+# wind around
+# [[surround]]
+
+====References====
+* {{Han ref|kx=0939.140|dkj=27909|dj=1378.120|hdz=53450.080|uh=7E5E}}
+
+----
+
+==Chinese==
+{{zh-forms|s=绕}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|糸|堯|c1=s|c2=p|t1=rope|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=繞
+|c=jiu2,jiu5
+|h=pfs=
+|md=
+|mn=qz,xm:liáu/zz:jiáu
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=糸12}}
+
+# {{defn|lang=ja|sort=糸12}}
+
+====Readings====
+{{ja-readings|goon=[[にょう]] (nyō)|kanon=[[じょう]] (jō)|kun=[[まとう]] (matou), [[めぐる]] (meguru)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|囲繞|いにょう}}, {{ja-r|囲繞|いじょう}}
+* {{ja-r|右繞|うにょう}}
+* {{ja-r|環繞|かんじょう}}
+* {{ja-r|纏繞|てんじょう}}
+* {{ja-r|繞囲|にょうい}}
+* {{ja-r|繞堂|にょうどう}}
+* {{ja-r|繞仏|にょうぶつ}}
+* {{ja-r|結い繞らす|ゆいめぐらす}}
+* {{ja-r|繚繞|りょうじょう}}
+{{der-bottom}}
+
+{{wikipedia|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|yomi=goon|にょう|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|にょう|hhira=ねう}}
+
+# [[Chinese character]] [[radical]] that covers the left and bottom of a [[Chinese character]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|廴繞|いんにょう}}
+* {{ja-r|延繞|えんにょう}}
+* {{ja-r|乙繞|おつにょう}}
+* {{ja-r|凵繞|かんにょう}}
+* {{ja-r|鬼繞|きにょう}}
+* {{ja-r|支繞|しにょう}}, {{ja-r|支繞|えだにょう}}
+* {{ja-r|之繞|しんにょう}}, {{ja-r|辵|しんにょう}}, {{ja-r|之繞|しんにゅう}}, {{ja-r|辵|しんにゅう}}
+* {{ja-r|夊繞|すいにょう}}
+* {{ja-r|爪繞|そうにょう}}
+* {{ja-r|走繞|そうにょう}}
+* {{ja-r|人繞|にんにょう}}
+* {{ja-r|麥繞|ばくにょう}}
+* {{ja-r|文繞|ぶんにょう}}
+* {{ja-r|攴繞|ぼくにょう}}, {{ja-r|攵繞|ぼくにょう}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=요|eumhun=|rv=yo|mr=yo|y=yo}}
+
+# {{defn|lang=ko|sort=糸12}}
+
+[[fr:繞]]
+[[ko:繞]]
+[[hu:繞]]
+[[mg:繞]]
+[[ja:繞]]
+[[pl:繞]]
+[[th:繞]]
+[[zh:繞]]

@@ -1,0 +1,30 @@
+==Japanese==
+{{ja-kanjitab|てき|たい|yomi=o}}
+
+===Noun===
+{{ja-noun|てきたい|kyu=敵對}}
+
+# [[enmity]], [[hostility]], [[enemyship]]
+
+====Antonyms====
+* {{ja-r|友好|ゆうこう|gloss=[[friendliness]]}}
+
+====Compounds====
+* {{ja-r|敵対的|てきたいてき}}: [[hostile]]
+* {{ja-r|敵対者|てきたいしゃ}}: [[enemy]]
+* {{ja-r|敵対視|てきたいし}}
+
+===Verb===
+{{ja-verb-suru|てきたい|kyu=敵對}}
+
+# be [[hostile]]; [[oppose]]; [[fight]] against
+
+====Conjugation====
+{{ja-suru|てきたい}}
+
+[[ko:敵対]]
+[[mg:敵対]]
+[[ja:敵対]]
+[[fi:敵対]]
+[[chr:敵対]]
+[[zh:敵対]]

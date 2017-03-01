@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=08|sn=12|four=90904|canj=FBRD|ids=⿱龸呆}}
+
+====References====
+* {{Han ref|kx=0533.140|dkj=14953|dj=0921.120|hdz=21231.070|uh=68E0|ud=26848|bh=B4C5|bd=46277}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|尚|木|c1=p|c2=s|t2=tree, wood|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=táng
+|c=tong4
+|mn=tông
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[crabapple]] [[tree]]
+# [[wild]] [[plum]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木08}}
+
+# {{defn|lang=ja|sort=木08}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō), [[どう]] (dō)|kun=[[やまなし]] (yamanashi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=당|eumhun=|rv=dang|mr=tang|y=tang}}
+
+# {{defn|lang=ko|sort=木08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đường]]|rs=木08}}
+
+# {{defn|lang=vi|sort=木08}}
+
+[[fr:棠]]
+[[ko:棠]]
+[[hu:棠]]
+[[mg:棠]]
+[[ja:棠]]
+[[no:棠]]
+[[pl:棠]]
+[[th:棠]]
+[[zh:棠]]

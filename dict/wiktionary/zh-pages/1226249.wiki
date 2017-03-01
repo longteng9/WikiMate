@@ -1,0 +1,41 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|こう|くう|き|yomi=o}}
+
+===Etymology===
+Compound of {{affix|sort=こうくうき|ja|航空|tr1=kōkū|t1=aviation|機|tr2=ki|t2=machine}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|たんようき|acc=3|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|こうくうき|hhira=かうくうき}}
+
+# [[aircraft]]
+
+===References===
+<references/>
+
+[[Category:ja:Aircraft|こうくうき]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=항공기}}
+
+# {{hanja form of|항공기|[[aircraft]]}}
+
+[[fr:航空機]]
+[[lo:航空機]]
+[[li:航空機]]
+[[hu:航空機]]
+[[mg:航空機]]
+[[fj:航空機]]
+[[nl:航空機]]
+[[ja:航空機]]
+[[sh:航空機]]
+[[chr:航空機]]
+[[zh:航空機]]

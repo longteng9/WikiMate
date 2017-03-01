@@ -1,0 +1,53 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=127|rad=耒|as=05|sn=11|four=57977|canj=QDRLR|ids=⿰耒㠯}}
+
+====References====
+{{Han ref|kx=0963.070|dkj=28915|dj=1411.100|hdz=42772.010|uh=801C}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=枱}}
+
+===Glyph origin===
+{{Han compound|耒|㠯|c1=s|t1=plow|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=sì
+|c=zi6,ci5
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|archaic}} [[plowshare]]
+
+====Compounds====
+{{zh-der|良耜|耒耜之勤|耒耜}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=耒05}}
+
+# {{defn|lang=ja|sort=耒05}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[すき]] (suki)|nanori=}}
+
+[[fr:耜]]
+[[hu:耜]]
+[[mg:耜]]
+[[ja:耜]]
+[[pl:耜]]
+[[th:耜]]
+[[zh:耜]]

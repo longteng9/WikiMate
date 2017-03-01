@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|攝}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=12|sn=15|four=56047|canj=QASE|ids=⿰扌最}}
+
+# [[little]] [[bit]], [[small]] [[amount]], [[pinch]]
+
+====References====
+* {{Han ref|kx=0456.180|dkj=12748|dj=0805.120|hdz=31957.020|uh=64AE|ud=25774|bh=BCBC|bd=48316}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cuō
+|c=cyut3
+|h=pfs=chep/chhot
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=手12}}
+
+# {{defn|lang=ja|sort=手12}}
+
+====Readings====
+* {{ja-readings|goon=[[さち]] (sachi) {{non-joyo-reading}}|kanon=[[さつ]] (satsu)|on=[[さい]] (sai)|kun=[[とる]] (toru), [[つまむ]] (tsumamu), [[つまみ]] (tsumami)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=촬|eumhun=|rv=chwal|mr=ch'wal|y=chwal}}
+
+# {{defn|lang=ko|sort=手12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|rs=手12|toát}}
+
+# {{defn|lang=vi|sort=手12}}
+
+[[zh-min-nan:撮]]
+[[fr:撮]]
+[[hu:撮]]
+[[mg:撮]]
+[[ja:撮]]
+[[no:撮]]
+[[pl:撮]]
+[[th:撮]]
+[[zh:撮]]

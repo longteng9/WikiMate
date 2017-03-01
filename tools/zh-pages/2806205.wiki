@@ -1,0 +1,14 @@
+==Japanese==
+{{ja-kanjitab|水|酸|化}}
+
+===Noun===
+{{ja-noun|すいさんか}}
+# {{lb|ja|chemistry|sort=すいさんか}} [[hydroxylation]], [[hydration]]
+
+===Verb===
+{{ja-verb-suru|k|hira=すいさんか|rom=suisanka}}
+
+# [[hydrate]]
+
+====Conjugation====
+{{ja-suru|水酸化|すいさんか|suisanka}}

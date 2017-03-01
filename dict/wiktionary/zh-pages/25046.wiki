@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|茎}}
+==Translingual==
+{{Han simplified forms|莖|茎|茎}}
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=07|sn=13|four=44101|canj=TMVM}}
+
+# [[stem]], [[stalk]]
+
+====References====
+* {{Han ref|kx=1034.090|dkj=31052|dj=1493.140|hdz=53217.070|uh=8396|ud=33686|bh=B2F4|bd=45812}}
+
+----
+
+==Chinese==
+{{zh-forms|s=茎}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艸|alt1=艹|t1=|巠|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jīng
+|c=ging3,ging1,hang4
+|h=pfs=kîn/kóang
+|md=
+|mn=hoâiⁿ
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸07|style=ky|shin=茎}}
+
+====Readings====
+{{ja-readings|goon=[[ぎょう]] (gyō)|kanon=[[こう]] (kō)|kanyoon=[[けい]] (kei)|kun=[[くき]] (kuki), [[なかご]] (nakago)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|eumhun=|rv=gyeong|mr=kyŏng|y=kyeng}}
+
+# {{defn|lang=ko|sort=艸07}}
+
+====Compounds====
+* [[男莖]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hành]], [[kinh]]|rs=艸07}}
+
+# {{defn|lang=vi|sort=艸07}}
+
+[[fr:莖]]
+[[ko:莖]]
+[[hu:莖]]
+[[mg:莖]]
+[[ja:莖]]
+[[pl:莖]]
+[[th:莖]]
+[[chr:莖]]
+[[zh:莖]]

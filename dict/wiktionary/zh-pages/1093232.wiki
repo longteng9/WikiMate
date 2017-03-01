@@ -1,0 +1,76 @@
+{{also|投资}}
+==Chinese==
+{{zh-forms|s=投资}}
+
+===Etymology===
+{{borrowing|zh|ja|-|}} {{ja-r|投資|とうし}}.
+
+===Pronunciation===
+{{zh-pron
+|m=tóuzī
+|c=tau4 zi1
+|h=pfs=thèu-chṳ̂
+|mn=xm,zz,tw:tâu-chu/qz:tâu-chir/qz:tiô-chir
+|ma=Zh-tóuzi.ogg
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[invest]] {{gloss|money}}
+#: {{zh-x|投資 信心|investor confidence}}
+#: {{zh-x|投資 總是 有 風險 因素。|There is always an element of risk when making an investment.}}
+
+===Noun===
+{{zh-noun}}
+
+# [[investment]] {{gloss|of money}} {{zh-mw|筆}}
+#: {{zh-x|股權 投資|equity '''investment'''}}
+
+====Usage notes====
+{{zh-l|投資}} can only refer to the investment of ''money''; for the investment of ''time'', ''energy'' and other things, use {{zh-l|投入}}.
+
+====Derived terms====
+{{zh-der|投資環境|投資回報率|投資家|投資基金|投資人|投資銀行|投資者|外商直接投資}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|し|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|とうし|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうし}}
+
+# [[investment]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|とうし}}
+
+# [[invest]], [[speculate]]
+#: {{ja-usex|株にお金を投資する|かぶ に おかね を とうし する|invest money in stock}}
+
+====Conjugation====
+{{ja-suru|とうし}}
+
+===References===
+<references/>
+
+[[Category:ja:Business|とうし]]
+
+[[zh-min-nan:投資]]
+[[fr:投資]]
+[[ko:投資]]
+[[kn:投資]]
+[[lo:投資]]
+[[li:投資]]
+[[hu:投資]]
+[[mg:投資]]
+[[ja:投資]]
+[[km:投資]]
+[[zh:投資]]

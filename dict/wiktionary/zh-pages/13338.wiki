@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=11|sn=14|four=67104|canj=WNG|ids=⿱野土}}
+
+====References====
+* {{Han ref|kx=0237.200|dkj=05412|dj=0475.260|hdz=10480.060|uh=5885|ud=22661|bh=B9D6|bd=47574}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|野|土|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shù
+|c=seoi5,seoi6
+|md=sê̤ṳ
+|w=3zr
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[villa]]; [[country house]]
+
+====Compounds====
+{{zh-der|別墅}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土11}}
+
+# {{defn|lang=ja|sort=土11}}
+
+====Readings====
+* {{ja-readings|on=[[しょ]] (sho), [[や]] (ya)|kun=[[しもやしき]] (shimoyashiki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[서]]|rv=seo|mr=sŏ}}
+
+# {{defn|lang=ko|sort=土11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thự]]|rs=土11}}
+
+# {{defn|lang=vi|sort=土11}}
+
+[[fr:墅]]
+[[ko:墅]]
+[[li:墅]]
+[[hu:墅]]
+[[mg:墅]]
+[[ja:墅]]
+[[no:墅]]
+[[pl:墅]]
+[[th:墅]]
+[[zh:墅]]

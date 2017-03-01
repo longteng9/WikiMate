@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēifán
+|c=fei1 faan4
+|mn=hui-hoân
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[extraordinary]]
+
+====Synonyms====
+* {{zh-l|出眾}}
+* {{zh-l|了不起}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひ|ぼん|yomi=on}}
+
+===Etymology===
+[[非]] (ひ, ''hi'': “not”) + [[凡]] (ぼん, ''bon'': “ordinary”)
+
+===Adjectival noun===
+{{ja-adj|infl=な|ひぼん}}
+
+# [[singular]], being out of ordinary, especially superior
+#: {{ja-usex|後に偉大な発見をした彼は、子供の頃には既に'''非凡'''な才能を見せていた。|のち に いだい な はっけん を した かれ は、 こども の ころ に は すで に '''ひぼん''' な さいのう を みせて いた。|He who later found a great discovery already had a '''singular''' talent in his childhood.}}
+
+====Inflection====
+{{ja-na|ひぼん}}
+
+===Noun===
+{{ja-noun|ひぼん}}
+
+# being out of ordinary, especially superior
+
+====Antonyms====
+* {{ja-r|平凡|へいぼん}}
+
+[[zh-min-nan:非凡]]
+[[ko:非凡]]
+[[hu:非凡]]
+[[mg:非凡]]
+[[ja:非凡]]
+[[chr:非凡]]
+[[zh:非凡]]

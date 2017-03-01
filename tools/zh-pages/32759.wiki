@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=12|sn=23|four=27627|canj=HWHAF|ids=⿰番鳥}}
+
+# {{defn|Han|sort=鳥12}}
+
+====References====
+* {{Han ref|kx=1500.390|dkj=47335|dj=2030.230|hdz=74661.180|uh=9DED|ud=40429|bh=F873|bd=63603}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=|y=faan1}}
+
+# {{defn|lang=yue|sort=鳥12}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=鳥12}}
+
+# {{defn|lang=ja|sort=鳥12}}
+
+====Readings====
+{{ja-readings|goon=[[ぼん]] (bon)|kanon=[[はん]] (han)|kanyoon=[[ばん]] (ban)}}
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ばん|yomi=kanyoon}}
+
+===Etymology===
+From {{der|sort=はん'|ja|ltc|鷭|tr=bʉɐn}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanyoon|ばん|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|ばん|バン}}
+
+# [[common moorhen]]
+
+====Derived terms====
+* {{ja-r|大鷭|おおばん|[[Eurasian coot]]}}
+
+===References===
+<references/>
+
+[[Category:ja:Rallids|はん']]
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[fán]] ([[fan2]])|wg=fan<sup>2</sup>}}
+
+# {{defn|lang=cmn|sort=鳥12}}
+
+[[fr:鷭]]
+[[hu:鷭]]
+[[mg:鷭]]
+[[ja:鷭]]
+[[pl:鷭]]
+[[th:鷭]]
+[[zh:鷭]]

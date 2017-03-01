@@ -1,0 +1,90 @@
+{{character info/new}}
+{{also|荅}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=06|sn=12|four=88601|canj=HOMR|ids=⿱⺮合}}
+
+# [[answer]], [[reply]]
+# [[return]]
+# [[assent]] to
+
+====References====
+* {{Han ref|kx=0883.130|dkj=26006|dj=1312.120|hdz=52968.010|uh=7B54|ud=31572|bh=B5AA|bd=46506}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dá
+|c=daap3
+|mn=tap
+|mc=y
+|oc=y
+|ma=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一答|一答一合|不答腔|作答|傳答|兜兜答答|兜答|八答鞋|八答麻鞋|加爾各答|口答|呆答孩|呆答答|呈答|問一答十|問官答花|問答|問答題|嘴答谷|回答|報答|外呈答|對答|對答如流|巴答|平不答的|徵答|應答|應答如流|應答如響|批答|搶答|書目答問|桃來李答|溼答答|滴滴答答|滴答|滿口答應|登答|禮無不答|筆答|答信|答允|答兒|答剌|答剌孫|答剌蘇|答剌速|答問|答嘴|答對|答岔兒|答席|答應|答應不迭|答拜|答救|答數|答案|答案卷|答理|答碴兒|答禮|答答|答腔|答覆|答記|答詞|答詢|答話|答謝|答辯|答辯書|答錄機|答非所問|答颯|羞人答答|羞答答|蘇門答臘|裁答|解答|贈答|酬答|雌答|響答影隨|黏涎答答|黏答答|點頭答應}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=竹06}}
+
+====Readings====
+* {{ja-readings
+|goon=[[とう]] (tō) < [[とふ]] (tofu)
+|kanon=[[とう]] (tō) < [[たふ]] (tafu)
+|kun=[[こたえる]] ([[答える]] kotaeru), [[こたえ]] ([[答え]] kotae)}}
+
+===Noun===
+{{ja-noun|こたえ}}
+
+# {{alternative spelling of|答え|lang=ja}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 答]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=답|eumhun=|rv=dap|mr=tap|y=tap}}
+
+# {{defn|lang=ko|sort=竹06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đáp]], [[đớp]], [[hóp]]|rs=竹06}}
+
+# {{defn|lang=vi|sort=竹06}}
+
+[[fr:答]]
+[[ko:答]]
+[[hu:答]]
+[[mg:答]]
+[[ja:答]]
+[[no:答]]
+[[pl:答]]
+[[th:答]]
+[[uk:答]]
+[[zh:答]]

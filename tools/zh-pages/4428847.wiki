@@ -1,0 +1,51 @@
+{{also|识字}}
+==Chinese==
+{{zh-forms|s=识字|lit=to know characters}}
+
+===Pronunciation===
+{{zh-pron
+|m=识zì
+|c=sik1 zi6
+|h=pfs=sṳt-sṳ
+|mn=qz:siak-lī/xm:sek-lī/zz:sit-jī
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[learn]] to [[read]]
+# to [[know]] how to read
+
+===Noun===
+{{zh-noun}}
+
+# [[literacy]]
+
+===See also===
+* (''Min Nan'') {{zh-l|捌字}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しき|じ|yomi=on}}
+
+===Noun===
+{{ja-noun|しきじ}}
+
+# [[literacy]]
+
+====Synonyms====
+* {{ja-r|リテラシー}}
+
+====Antonyms====
+* {{ja-r|非%識%字|ひ%しき%じ|gloss=illiteracy}}
+* {{ja-r|文盲|もんもう|gloss=illiterate, illiteracy}}
+
+====Derived terms====
+* {{ja-r|識%字%率|しき%じ%りつ|gloss=literacy rate}}
+* {{ja-r|非%識%字|ひ%しき%じ|gloss=illiteracy}}
+
+[[ko:識字]]
+[[hu:識字]]
+[[ja:識字]]

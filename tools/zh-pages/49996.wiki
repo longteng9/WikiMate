@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|けい|ど|yomi=on}}
+
+===Noun===
+{{ja-noun|kyu=經度|けいど}}
+
+# {{lb|ja|geography|astronomy}} [[longitude]]
+
+====Related terms====
+* {{ja-r|東経|とうけい}}: [[east]] [[longitude]]
+* {{ja-r|西経|せいけい}}: [[west]] [[longitude]]
+
+===See also===
+* {{ja-r|緯度|いど}}: [[latitude]]
+* {{ja-r|赤道|せきどう}}: [[equator]]
+* {{ja-r|北極点|ほっきょくてん}}: [[North pole]]
+* {{ja-r|南極点|なんきょくてん}}: [[South pole]]
+
+[[Category:ja:Astronomy|けいど]]
+[[Category:ja:Geography|けいど]]
+
+[[it:経度]]
+[[hu:経度]]
+[[mg:経度]]
+[[ja:経度]]
+[[zh:経度]]

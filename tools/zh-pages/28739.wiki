@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|遲|迟}}
+==Translingual==
+{{Han simplified forms|遲|遅|迟}}
+
+===Etymology===
+Japanese shinjitai {{Han simp|遲|f=犀|t=𡱝}}.
+
+In present form {{Han compound|辵|alt1=辶|t1=motion|𡱝|ls=psc|c1=s|c2=p}}.
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=09|sn=13|four=|canj=YSTQ|ids=⿺辶𡱝}}
+
+# [[late]], [[tardy]]
+# [[slow]]
+# [[delay]]
+
+====References====
+* {{Han ref|kx=1261.050|dkj=38989|dj=1751.080|hdz=63868.010|uh=9045|ud=36933}}
+
+----
+==Chinese==
+{{zh-see|遲|v}}
+----
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=辵09|style=s|kyu=遲}}
+
+# {{defn|lang=ja|sort=辵09}}
+
+====Readings====
+* {{ja-readings|goon=[[じ]] (ji)|kanon=[[ち]] (chi)|kun=[[おそい]] (osoi), [[おくれる]] (okureru), [[まつ]] (matsu)|nanori=}}
+
+====Compounds====
+* [[遅い]] ([[おそい]], osoi)
+* [[遅れる]] ([[おくれる]], okureru)
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=지|eumhun=|rv=ji|mr=chi|y=ci}}
+
+# {{defn|lang=ko|sort=辵09}}
+
+----
+
+==Vietnamese==
+
+===Character===
+
+====Readings====
+{{vi-readings|hv=trì|nom=trì|sort=辵09}}
+
+===References===
+* {{R:WinVNKey:Lê Sơn Thanh}}
+
+[[fr:遅]]
+[[ko:遅]]
+[[hu:遅]]
+[[ja:遅]]
+[[pl:遅]]
+[[th:遅]]
+[[uk:遅]]
+[[vi:遅]]
+[[zh:遅]]

@@ -1,0 +1,238 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=09|sn=12|four=52027|canj=QUMB|ids=⿰扌耑}}
+
+# [[put]] [[thing]]s [[under]] [[clothes]]
+
+====References====
+* {{Han ref|kx=0443.130|dkj=12371|dj=0794.130|hdz=31917.060|uh=63E3|ud=25571|bh=B4A2|bd=46242}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=𢭍,𢰚}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|手|c1=s|t1=hand|耑|c2=p|ls=psc}}.
+
+===Etymology 1===
+{{zh-forms|alt=㪜}}
+{{rfe|zh}}
+
+====Pronunciation====
+{{zh-pron
+|m=chuǎi
+|c=ceoi2,cyun2
+|mn=chhóe
+|mc=1
+|oc=1,2
+|cat=v,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[speculate]]; to [[guess]]
+# to [[measure]]; to [[estimate]]; to [[assess]]
+# to [[try]]; to [[attempt]]
+# to [[hold]]; to [[grab]]
+# {{surname|lang=zh}}
+
+===Etymology 2===
+{{zh-forms|alt=找}}
+
+====Pronunciation====
+{{zh-pron
+|mn=xm,tp,mg,hc:chhē/zz,kh,tn,tc,yl:chhōe/qz,hc,sx:chhēr/lk,km:chhěr
+|mn-t=cuê7
+|dial=n
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Min Nan}} to [[look for]]; to [[seek]]
+#* {{zh-x|明知 愛情 是 毒藥，偏偏 一 喙\嘴 共\甲{kā} 啉\喝{lim} 落{lo̍h}；等 到{kah} 情{chêng} 火 一直 燒，'''找{chhōe}''' 無 止痛 的 解藥。|[I] clearly knew love is a poison, [but I] still drank it; by the time the fire of love was ceaselessly burning, [I still] could not '''find''' a painkilling antidote.|TW|ref={{lang|zh|{{w|lang=zh|蕭玉芬}}}}, {{lang|zh|毒藥}}}}
+
+=====Synonyms=====
+{{zh-dial|找}}
+
+===Etymology 3===
+{{zh-forms|alt=慱,𬣍}}
+
+====Pronunciation====
+{{zh-pron
+|h=pfs=thòn;gd=ton2
+|dial=n
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Hakka}} to [[guess]]
+
+===Etymology 4===
+{{zh-forms|alt=挆,挅}}
+
+====Pronunciation====
+{{zh-pron
+|m=duǒ
+|c=
+|mn=
+|mc=2
+|oc=n,1
+|dial=n
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-obsolete}} to [[measure]], to [[estimate]]
+# {{zh-obsolete}} to [[shake]], to [[rock]]
+
+===Etymology 5===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=揣
+|c=
+|mn=
+|dial=n
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only used in|囊揣||掙揣}}
+
+===Etymology 6===
+
+====Pronunciation====
+{{zh-pron
+|m=chuāi,chuǎi,2nb=Taiwan
+|c=
+|mn=
+|dial=n
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[hide]] or [[carry]] something in clothes
+# {{zh-obsolete}} to be [[pregnant]]
+# {{zh-obsolete}} to [[impose]] onto someone
+
+===Etymology 7===
+
+====Pronunciation====
+{{zh-pron
+|m=zhuī
+|c=
+|mn=
+|mc=
+|oc=
+|dial=n
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-obsolete}} to [[strike]]
+
+===Etymology 8===
+
+====Pronunciation====
+{{zh-pron
+|m=chuàn
+|c=
+|mn=
+|mc=
+|oc=
+|dial=n
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-obsolete}} to [[measure]]
+
+===Etymology 9===
+
+====Pronunciation====
+{{zh-pron
+|m=tuán
+|c=tyun4
+|mc=
+|oc=
+|dial=n
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-obsolete}} {{zh-alt-form|團|[[assemble]]d; [[gather]]ed}}
+
+===References===
+* Chinese Linguipedia (中華語文知識庫): [http://chinese-linguipedia.org/clk/search/%E6%8F%A3/91315/187036 chuǎi], [http://chinese-linguipedia.org/clk/search/%E6%8F%A3/91315/187037 chuài/chuǎi], [http://chinese-linguipedia.org/clk/search/%E6%8F%A3/91315/187038 chuāi/chuǎi]
+* {{R:twedu|A01623}}
+* [http://hakka.dict.edu.tw/hakkadict/result_detail.jsp?n_no=13131&soundtype=0&sample=%E6%8F%A3 Dictionary of Frequently-Used Taiwan Hakka (臺灣客家語常用詞辭典)]
+* [http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E6%8F%A3 Multi-function Chinese Character Database]
+* [http://dict.revised.moe.edu.tw/cgi-bin/cbdic/gsweb.cgi?o=dcbdic&searchid=W00000008615 Revised Mandarin Chinese Dictionary (重編國語辭典修定本)]
+* {{thcwd|8434}}
+* [http://www.zdic.net/z/1a/js/63E3.htm ZDIC]
+* Zhou, Changji (ed.). Minnan Fangyan Da Cidian (Chinese). Fuzhou: Fujian People's Publishing House, 2006. ISBN 7-211-03896-9.
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手09}}
+
+# {{defn|lang=ja|sort=手09}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi), [[すい]] (sui), [[たん]] (tan)|kun=[[はかる]] (hakaru), [[こころみる]] (kokoromiru), [[さだめる]] (sadameru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[취]], [[타]]|eumhun=|rv=chwi, ta|mr=ch'wi, t'a|y=chwi, tha}}
+
+# {{defn|lang=ko|sort=手09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手09|hanviet=[[suý]], [[suỷ]]}}
+
+# {{defn|lang=vi|sort=手09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=63e3 Nom Foundation]
+
+[[zh-min-nan:揣]]
+[[fr:揣]]
+[[hu:揣]]
+[[mg:揣]]
+[[ja:揣]]
+[[no:揣]]
+[[pl:揣]]
+[[th:揣]]
+[[zh:揣]]

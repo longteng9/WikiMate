@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=niánmò
+|c=nin4 mut6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[end]] of the [[year]]; the year's end; [[year-end]] period
+
+====Synonyms====
+* {{zh-l|年終}}
+
+====See also====
+* {{zh-l|年初}}
+
+{{zh-cat|Time}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ねん|まつ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ねんまつ|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ねんまつ}}
+
+# [[year-end]]
+#: {{ja-usex|'''年末'''はいつも忙しい。|'''ねんまつ''' は いつも いそがし.い。|The '''year-end''' is always a busy time.}}
+
+===References===
+<references/>
+
+[[ko:年末]]
+[[lt:年末]]
+[[hu:年末]]
+[[ja:年末]]
+[[zh:年末]]

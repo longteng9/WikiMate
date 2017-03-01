@@ -1,0 +1,38 @@
+{{also|伝染|传染}}
+==Chinese==
+{{zh-forms|s=传染}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=chuánrǎn
+|c=cyun4 jim5
+|h=pfs=chhòn-ngiam
+|md=diòng-niēng
+|mn=xm,qz:toân-liám/zz,kh:thoân-jiám/tp:thoân-liám
+|w=3zoe zoe
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[infect]]; to carry a [[contagion]]
+#: {{zh-x|蚊子{zi} '''傳染''' 瘧疾。|Mosquitoes '''carry''' the malaria infection.}}
+
+===Noun===
+{{zh-noun}}
+
+# [[infection]]; [[contagion]]
+
+===Derived terms===
+{{zh-der|傳染病|傳染性|傳染源}}
+
+{{zh-cat|Intermediate}}
+
+[[zh-min-nan:傳染]]
+[[ko:傳染]]
+[[hu:傳染]]
+[[ja:傳染]]

@@ -1,0 +1,111 @@
+{{character info/new}}
+{{also|带|帯}}
+==Translingual==
+{{Han simplified forms|帶|帯|带}}
+
+===Han character===
+{{Han char|rn=50|rad=巾|as=08|sn=11|four=44227|canj=KPBLB}}
+
+# [[belt]], [[girdle]], [[band]], [[strap]]
+# [[zone]]
+
+====References====
+* {{Han ref|kx=0333.060|dkj=08950|dj=0639.080|hdz=10742.120|uh=5E36|ud=24118|bh=B161|bd=45409}}
+
+----
+
+==Chinese==
+{{zh-forms|s=带|alt=帯}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dài
+|c=daai3,daai3-2
+|c_note = daai3 - verb; daai3-2 - noun
+|h=pfs=tai
+|mn=tòa/tài
+|mn_note=tòa - vernacular, tài - literary
+|w=
+|mc=y
+|oc=y
+|ma=zh-dài.ogg
+|cat=n,v
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[belt]]; [[ribbon]]; [[tape]]
+# [[tyre]], [[tire]]
+# [[zone]]; [[area]]; [[belt]]
+# [[cassette]] {{zh-mw|c:餅}}
+#: {{zh-x|錄影帶|video '''cassette'''}}
+#: {{zh-x|聽 帶{daai3-2}|listen to a(n audio) '''cassette'''|C}}
+#: {{zh-x|睇 帶{daai3-2}|watch to a (video) '''cassette'''|C}}
+
+=====Compounds=====
+{{zh-der|貞操帶}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[take]]; to [[bring]] along; to [[carry]]
+# to [[assist]] one in doing something
+# to [[take]] someone somewhere
+# [[bear]]; [[have]]; [[with]]
+# [[lead]]; [[head]]
+
+===References===
+* {{R:twedu|A01176}}
+* (''Min Nan'') {{thcwd|7201}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=巾08|style=ky|shin=帯}}
+
+# {{defn|lang=ja|sort=巾08}}
+
+====Readings====
+{{ja-readings|goon=[[たい]] (tai)|kanon=[[たい]] (tai)|kun=[[おび]] (obi), [[おびる]] (obiru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=대|rv=dae|mr=tae}}
+
+# {{defn|lang=ko|sort=巾08}}
+
+====Compounds====
+* {{ko-l|정조대|[[chastity belt]]|貞操帶}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đai]], [[đái]], [[đới]], [[đáy]]|rs=巾08}}
+
+# {{defn|lang=vi|sort=巾08}}
+
+[[fr:帶]]
+[[ko:帶]]
+[[li:帶]]
+[[hu:帶]]
+[[mg:帶]]
+[[fj:帶]]
+[[nl:帶]]
+[[ja:帶]]
+[[pl:帶]]
+[[th:帶]]
+[[chr:帶]]
+[[zh:帶]]

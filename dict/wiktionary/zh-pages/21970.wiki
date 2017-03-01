@@ -1,0 +1,57 @@
+{{character info/new}}
+{{also|硖}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=07|sn=12|four=14638|canj=MRKOO}}
+
+# <arch> town in Hebei province
+
+====References====
+* {{Han ref|kx=0830.300|dkj=24216|dj=1246.240|hdz=42432.090|uh=7864|ud=30820|bh=DAC6|bd=56006}}
+
+----
+
+==Chinese==
+{{zh-forms|s=硖}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiá
+|c=haap6,gip3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|硤石鎮}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=石07}}
+
+# {{defn|lang=ja|sort=石07}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[ぎょう]] (gyō)|kun=|nanori=}}
+
+[[fr:硤]]
+[[hu:硤]]
+[[pl:硤]]
+[[th:硤]]
+[[zh:硤]]

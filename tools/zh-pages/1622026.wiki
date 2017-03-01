@@ -1,0 +1,59 @@
+{{also|周末}}
+==Chinese==
+{{zh-forms|s=周末|t2=周末}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhōumò
+|ma=Zh-zhoumò.ogg
+|c=zau1 mut6
+|mn=chiu-boa̍t
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[weekend]]
+#: {{zh-x|我 很 高興，因為 週末 到 了！|I'm so happy because the '''weekend''''s here!}}
+#: {{zh-x|你 週末 喜歡 做 些 什麼 呢？|What do you do on the '''weekend'''?}}
+
+===Descendants===
+{{CJKV||しゅうまつ|주말}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅう|まつ|yomi=on}}
+
+===Etymology===
+{{compound|週|末|t1=week|t2=end|lang=ja|sc=Jpan|sort=しゅうまつ}}
+
+===Noun===
+{{ja-noun|しゅうまつ|hhira=しうまつ}}
+
+# [[weekend]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=주말}}
+
+# {{hanja form of|주말|[[weekend]]}}
+
+[[cs:週末]]
+[[el:週末]]
+[[fr:週末]]
+[[ko:週末]]
+[[lt:週末]]
+[[li:週末]]
+[[hu:週末]]
+[[mg:週末]]
+[[ja:週末]]
+[[sv:週末]]
+[[zh:週末]]

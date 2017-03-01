@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=09|sn=12|four=83634|canj=TWIK|ids=⿰酋犬}}
+
+====References====
+* {{Han ref|kx=0716.010|dkj=20558|dj=1127.170|hdz=21355.080|uh=7337|ud=29495|bh=B7DF|bd=47071}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yóu
+|c=jau4
+|mn=iû
+|mc=y
+|oc=y
+|ma=
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[plan]], [[scheme]]
+# plan, [[plot]]
+# [[way]]
+
+===Compounds===
+# [[猷太]]
+# [[猷太人]]
+# [[猷豫]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=犬09}}
+
+# {{defn|lang=ja|sort=犬09}}
+
+====Readings====
+* {{ja-readings|on=[[ゆう]] (yū)|kun=[[はかる]] (hakaru), [[はかりごと]] (hakarigoto)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=유|eumhun=|rv=yu|mr=yu|y=yu}}
+
+# {{defn|lang=ko|sort=犬09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=犬09|hanviet=du}}
+
+# {{defn|lang=vi|sort=犬09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=7337 Nom Foundation]
+
+[[fr:猷]]
+[[hu:猷]]
+[[mg:猷]]
+[[ja:猷]]
+[[pl:猷]]
+[[th:猷]]
+[[zh:猷]]

@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=13|sn=20|four=64164|canj=RMTJA}}
+
+# hesitate, falter, be undecided
+
+====References====
+* {{Han ref|kx=1234.410|dkj=37925|dj=1707.150|hdz=63732.140|uh=8E87|ud=36487|bh=C3DC|bd=50140}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chú
+|c=cyu4,cyu1
+|mn=thû/tû
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|躊躇不決|躇階|躊躇|肚裡躊躇|躊躇滿志|躕躇|躊躇未決}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=足13}}
+
+# {{defn|lang=ja|sort=足13}}
+
+====Readings====
+* {{ja-readings|on=[[ちょ]] (cho), [[ちゃく]] (chaku)|kun=[[ためらう]] (tamerau)|nanori=}}
+
+* [[躊躇]]
+* [[躊躇う]] ([[ためらう]])
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[저]], [[착]]|eumhun=|rv=jeo, chak|mr=chŏ, ch'ak|y=ce, chak}}
+
+# {{defn|lang=ko|sort=足13}}
+
+[[fr:躇]]
+[[hu:躇]]
+[[mg:躇]]
+[[ja:躇]]
+[[pl:躇]]
+[[th:躇]]
+[[zh:躇]]

@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|き|たく|yomi=on}}
+
+===Etymology===
+Compound of {{m|ja|帰||arrive at|tr=ki}} and {{m|ja|宅||home|tr=taku}}.
+
+===Pronunciation===
+{{ja-pron|きたく|yomi=on}}
+
+===Noun===
+{{ja-noun|きたく}}
+
+# returning [[home]]
+
+===Verb===
+{{ja-verb-suru|きたく}}
+
+# return home
+
+====Conjugation====
+{{ja-suru|きたく}}
+
+[[hu:帰宅]]
+[[zh:帰宅]]

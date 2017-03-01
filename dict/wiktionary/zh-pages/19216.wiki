@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+
+===Han character===
+{{Han char|rn=85|rad=水|as=09|sn=12|four=34111|canj=ETMV}}
+
+# [[deep]]
+# [[profound]]
+# [[clear]]
+# [[tranquil]], [[placid]]
+
+====References====
+* {{Han ref|kx=0637.160|dkj=17846|dj=1044.120|hdz=31667.060|uh=6E5B|ud=28251|bh=B4EF|bd=46319}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhàn,dān,chén
+|c=zaam3,daam1,cam4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水09}}
+
+# {{defn|lang=ja|sort=水09}}
+
+====Readings====
+* {{ja-readings|on=[[たん]] (tan), [[ちん]] (chin)|kun=[[たたえる]] (tataeru), [[しずむ]] (shizumu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[담]], [[침]]|eumhun=|rv=dam, chim|mr=tam, ch'im|y=tam, chim}}
+
+# {{defn|lang=ko|sort=水09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trạm]], [[đậm]], [[giặm]], [[sậm]], [[sặm]], [[thấm]], [[xạm]], [[xẩm]]|rs=水09}}
+
+# {{defn|lang=vi|sort=水09}}
+
+[[fr:湛]]
+[[ko:湛]]
+[[hu:湛]]
+[[mg:湛]]
+[[ja:湛]]
+[[pl:湛]]
+[[th:湛]]
+[[vi:湛]]
+[[zh:湛]]

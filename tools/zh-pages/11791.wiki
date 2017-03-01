@@ -1,0 +1,174 @@
+{{character info/new}}
+{{also|胜}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=19|rad=力|as=10|sn=12|four=79227|canj=BFQS|ids=⿰月劵}}
+
+====References====
+* {{Han ref|kx=0148.310|dkj=02409|dj=0335.100|hdz=32090.130|uh=52DD|ud=21213|bh=B3D3|bd=46035}}
+
+----
+
+==Chinese==
+{{zh-forms|s=胜}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|朕|力|c1=p|c2=s|t2=strength|ls=psc}}.
+
+Graphically, the character decomposes as {{Han compound|月|劵}}, though this is not the etymology.
+
+===Pronunciation===
+{{zh-pron
+|m=勝
+|c=sing1,sing3
+|h=pfs=
+|md=
+|mn=sèng
+|w=
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[victory]], [[success]]
+# to [[beat]]
+
+===Antonyms===
+* {{zh-l|敗}}
+
+===See also===
+* {{zh-l|贏}}
+
+====Compounds====
+{{der3
+|{{l|cmn|胜地}}
+|{{l|cmn|胜负}}
+|{{l|cmn|胜过}}
+|{{l|cmn|胜迹}}
+|{{l|cmn|胜景}}
+|{{l|cmn|胜境}}
+|{{l|cmn|胜局}}
+|{{l|cmn|胜利}}
+|{{l|cmn|胜利果实}}
+|{{l|cmn|胜券}}
+|{{l|cmn|胜任}}
+|{{l|cmn|胜似}}
+|{{l|cmn|胜诉}}
+|{{l|cmn|胜算}}
+|{{l|cmn|胜于}}
+|{{l|cmn|胜仗}}
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=力10}}
+
+====Definitions====
+# {{sense|[[win]] a game}} [[かつ]], [[かち]]
+# {{sense|be [[superior]] to}} [[まさる]]
+
+====Readings====
+* {{ja-readings|goon=[[しょう]] (shō)|kanon=[[しょう]] (shō)|kun=[[かつ]] (katsu), [[かち]] (kachi), [[まさる]] (masaru), [[すぐれる]] (sugureru)|nadzuke=[[かち]] (kachi), [[かつ]] (katsu), [[すぐる]] (suguru), [[すぐれ]] (sugure), [[すぐろ]] (suguro), [[とう]] (tō), [[のり]] (nori), [[まさ]] (masa), [[まさる]] (masaru), [[ます]] (masu), [[よし]] (yoshi)}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|勝気|かちき}}
+* {{ja-r|勝鬨|かちどき}}
+* {{ja-r|勝ちを千里の外に決す|かち を せんり の ほか に けっす}}
+* {{ja-r|殘に勝ち殺を去るべし|ざん に かち さつ を さる べし}}
+* {{ja-r|勝引|かちびき}}
+* {{ja-r|勝因|しょういん}}
+* {{ja-r|勝会|しょうかい}}
+* {{ja-r|勝軍|しょうぐん}}
+* {{ja-r|勝景|しょうけい}}
+* {{ja-r|勝国|しょうこく}}
+{{mid3}}
+* {{ja-r|勝算|しょうさん}}
+* {{ja-r|勝事|しょうじ}}
+* {{ja-r|勝状|しょうじょう}}
+* {{ja-r|勝迹|しょうせき}}
+* {{ja-r|勝絶|しょうぜつ}}
+* {{ja-r|勝戦|しょうせん}}
+* {{ja-r|勝訴|しょうそ}}
+* {{ja-r|勝地|しょうち}}
+* {{ja-r|勝致|しょうち}}
+* {{ja-r|勝敗|しょうはい}}
+* {{ja-r|勝負|しょうぶ}}
+* {{ja-r|勝兵|しょうへい}}
+{{mid3}}
+* {{ja-r|勝友|しょうゆう}}
+* {{ja-r|勝遊|しょうゆう}}
+* {{ja-r|勝利|しょうり}}
+* {{ja-r|勝流|しょうりゅう}}
+* {{ja-r|勝麗|しょうれい}}
+* {{ja-r|大勝|たいしょう}}
+* {{ja-r|名勝|めいしょう}}
+* {{ja-r|優勝|ゆうしょう}}
+{{bottom}}
+
+====References====
+{{ja-kref
+|ku=3001
+|shift=8F9F
+|jis=3E21
+|euc=BEA1
+|skip=1-4-8
+|freq=185
+|nelson=3787
+|newnelson=553
+|halpern=1005
+|kld=686
+|heisig=1209
+|tuttle=4b8.4
+}}
+
+===Counter===
+{{ja-pos|しょう|counter}}
+
+# [[win]]s, [[victories]]
+
+====Antonyms====
+* {{l|ja|敗}}
+
+===Proper noun===
+{{ja-pos|まさる|proper}}
+
+# {{given name|male|lang=ja|sort=まさる}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=승|rv=seung|mr=sŭng}}
+
+# {{defn|lang=ko|sort=力10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thắng]], [[sền]]|rs=力10}}
+
+# {{defn|lang=vi|sort=力10}}
+
+[[zh-min-nan:勝]]
+[[fr:勝]]
+[[ko:勝]]
+[[it:勝]]
+[[li:勝]]
+[[hu:勝]]
+[[ja:勝]]
+[[pl:勝]]
+[[ru:勝]]
+[[th:勝]]
+[[zh:勝]]

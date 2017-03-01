@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=02|sn=5|four=57027|canj=QNHS|ids=⿰扌乃}}
+
+# [[throw]], [[hurl]]
+# [[throw away]], [[cast]]
+
+====References====
+* {{Han ref|kx=0417.130|dkj=11782|dj=0764.010|hdz=31828.010|uh=6254|ud=25172|bh=A5B5|bd=42421}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=rēng
+|c=jing4,wing1
+|h=pfs=ìn
+|mn=qz,tp,xm:lêng/kh,zz:jêng
+|mn_note=chêng - unknown dialect
+|mc=y
+|oc=y
+|ma=Zh-reng.ogg
+|cat=v
+}}
+{{attention|zh|please check Hakka and Hokkien}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[throw]]
+# to [[throw away]]
+
+====Compounds====
+{{zh-der|扔下|扔崩|扔掉|扔棄}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手02}}
+
+# {{defn|lang=ja|sort=手02}}
+
+====Readings====
+* {{ja-readings|on=じょう (jō), にょう (nyō)|kun=[[よる]] (yoru), [[ふれる]] (fureru), [[すてる]] (suteru)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手02|hanviet=[[nẫy]], [[nhưng]], [[nảy]], [[nẩy]], [[nới]]}}
+
+# {{defn|lang=vi|sort=手02}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:扔]]
+[[ko:扔]]
+[[li:扔]]
+[[hu:扔]]
+[[mg:扔]]
+[[fj:扔]]
+[[ja:扔]]
+[[no:扔]]
+[[pl:扔]]
+[[th:扔]]
+[[chr:扔]]
+[[uk:扔]]
+[[zh:扔]]

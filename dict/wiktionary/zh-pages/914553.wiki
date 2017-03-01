@@ -1,0 +1,57 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chénglì
+|c=sing4 laap6,sing4 lap6
+|h=pfs=sṳ̀n-li̍p
+|mn=sêng-li̍p
+|ma=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[found]], [[establish]]
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|りつ|yomi=on}}
+
+===Noun===
+{{ja-noun|せいりつ}}
+
+# [[birth]]; [[formation]]; coming into existence
+# [[approval]]
+#: {{ja-usex|その法案の'''成立'''には多くの人が関わった。|その ほうあん の '''せいりつ''' に は おおく の ひと が かかわった。|Many were involved in the passage of the bill.}}
+
+====Antonyms====
+* {{sense|birth}} {{ja-r|消滅|しょうめつ}}, {{ja-r|崩壊|ほうかい}}
+* {{sense|approval}} {{ja-r|通過|つうか}}
+
+===Verb===
+{{ja-verb-suru|せいりつ}}
+
+# [[form]]
+# be [[born]]; come into [[existence]]
+# gain [[approval]]
+
+====Conjugation====
+{{ja-suru|せいりつ}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:成立]]
+[[ko:成立]]
+[[hu:成立]]
+[[mg:成立]]
+[[ja:成立]]
+[[sr:成立]]
+[[chr:成立]]
+[[zh:成立]]

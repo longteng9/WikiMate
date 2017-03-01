@@ -1,0 +1,93 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=141|rad=虍|as=00|sn=6|four=21214|canj=YP}}
+
+# [[tiger]]
+# {{mul-kangxi radical-def}}
+
+====Derived characters====
+* [[Index:Chinese radical/虍]]
+* [[豦]] [[膚]] [[鬳]]
+
+====References====
+* {{Han ref|kx=1073.010|dkj=32674|dj=1539.220|hdz=42819.010|uh=864D|ud=34381|bh=CA4F|bd=51791}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+
+===Pronunciation===
+{{zh-pron
+|m=hū
+|c=fu1,fu2
+|h=pfs=fu
+|mn=ho͘
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* {{qualifier|Min Nan}} [http://kaifangcidian.com/han/minnan/%E8%99%8D Kaifang Cidian]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虍00}}
+
+# {{defn|lang=ja|sort=虍00}}
+
+====Readings====
+* {{ja-readings|on=[[こ]] (ko), [[く]] (ku)|kun=[[とらかんむり]] (torakanmuri)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=호|rv=ho|mr=ho|y=ho|eumhun=[[호피 무늬]]|ehrv=hopi muneui}}
+
+# {{defn|lang=ko|sort=虍00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=虍00|hanviet=[[hô]], [[hổ]]}}
+
+# {{defn|lang=vi|sort=虍00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:虍]]
+[[ko:虍]]
+[[hu:虍]]
+[[mg:虍]]
+[[ms:虍]]
+[[ja:虍]]
+[[pl:虍]]
+[[ru:虍]]
+[[th:虍]]
+[[zh:虍]]

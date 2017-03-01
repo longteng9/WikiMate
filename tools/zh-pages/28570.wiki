@@ -1,0 +1,94 @@
+{{character info/new}}
+{{also|闢}}
+==Translingual==
+{{zh-hanzi-box|辟|辟/[[闢]]}}
+
+===Han character===
+{{Han char|rn=160|rad=辛|as=06|sn=13|four=70641|canj=SRYTJ|ids=⿰⿸尸口辛}}
+
+# [[law]], [[rule]]
+# [[open up]], [[develop]]
+
+====Derived characters====
+* [[璧]], [[薜]], [[避]], [[譬]], [[𪇊]], [[臂]], [[劈]], [[檗]], [[糪]], [[幦]], [[僻]], [[襞]], [[𨐨]], [[䢃]], [[廦]], [[闢]], [[擘]], [[嬖]], [[甓]], [[繴]], [[壁]]
+
+====References====
+* {{Han ref|kx=1251.060|dkj=38642|dj=1730.120|hdz=64037.080|uh=8F9F|ud=36767|bh=B940|bd=47424}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Glyph origin====
+{{Han etym}}
+{{Han compound|卩|口|辛|ls=ic}} – a beheading (口 is the head), the law. Compare [[県]].
+
+====Pronunciation====
+{{zh-pron
+|m=pì
+|c=pik1
+|mn=phiah
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+=====Compounds=====
+{{zh-der|八辟|復辟|刑辟|徵辟|復子明辟|后辟|六通四辟|五辟|三辟|便辟|三徵七辟|大辟|機辟|旋辟|皇辟|百辟|辟纑|辟舉|辟歷施鞭|辟然|舉薦征辟|辟惡除患|辟君三舍|辟引|辟世|辟言|辟穀|辟雍|辟穀絕粒|辟淫|鞭辟入裡|辟廱|辟人之士|鞭辟近裡|辟命|辟惡|辟色|辟匿|辟易|還辟|辟違|辟芷|辟書|辟支佛|辟地|辟召|辟邪|辟咡|群辟|辟邏}}
+
+===Etymology 2===
+{{zh-see|闢}}
+
+====Glyph origin====
+{{Han simp|闢|f=門|t=&nbsp;}}.
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辛06}}
+
+# {{defn|lang=ja|sort=辛06}}
+
+====Readings====
+* {{ja-readings|goon=[[びゃく]] (byaku), [[ひゃく]] (hyaku)|kanon=[[へき]] (heki)|on=[[ひ]] (hi), [[び]] (bi)|kun=[[きみ]] (kimi), [[めす]] (mesu), [[ひらく]] (hiraku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[백]], [[벽]], [[피]], [[비]], [[미]]|eumhun=|rv=baek, byeok, pi, bi, mi|mr=paek, pyŏk, p'i, bi, mi|y=payk, pyek, phi, pi, mi}}
+
+# {{defn|lang=ko|sort=辛06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=辛06| hanviet = [[vếch]], [[tích]], [[bích]], [[thịch]], [[tịch]], [[phích]], [[thí]]}}
+
+# {{defn|lang=vi|sort=辛06}}
+
+[[Category:Vietnamese Han tu]]
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+[[fr:辟]]
+[[ko:辟]]
+[[hu:辟]]
+[[mg:辟]]
+[[ja:辟]]
+[[no:辟]]
+[[pl:辟]]
+[[th:辟]]
+[[zh:辟]]

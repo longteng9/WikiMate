@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|庆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=11|sn=15|four=00247|canj=IXE}}
+{{attention|mul|it would be great to get a "stroke order diagram" for this one}}
+# [[congratulate]], [[celebrate]]
+
+====References====
+* {{Han ref|kx=0400.130|dkj=11145|dj=0740.080|hdz=20903.090|uh=6176|ud=24950|bh=BC79|bd=48249}}
+
+----
+
+==Chinese==
+{{zh-forms|s=庆}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qìng
+|c=hing3
+|h=pfs=khiang
+|md=
+|mn=khèng/qz,xm,zz:khiàⁿ
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|慶祝|慶大霉素|慶典|慶賀|慶壽|慶幸|慶祝}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=心11}}
+
+#jubilation
+
+====Readings====
+* {{ja-readings|goon=[[きょう]] (kyō)|kanon=[[けい]] (kei)|kun=[[よい]] (yoi), [[よろこぶ]] (yorokobu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[경]], [[강]]|eumhun=[[경사]] 경|rv=gyeong, gang|mr=kyŏng, kang|y=kyeng, kang}}
+
+# {{defn|lang=ko|sort=心11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khánh]], [[khương]]|rs=心11}}
+
+# {{defn|lang=vi|sort=心11}}
+
+[[fr:慶]]
+[[ko:慶]]
+[[li:慶]]
+[[hu:慶]]
+[[ja:慶]]
+[[pl:慶]]
+[[th:慶]]
+[[zh:慶]]

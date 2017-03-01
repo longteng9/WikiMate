@@ -1,0 +1,56 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàdìzhèn
+|c=daai6 dei6 zan3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# a large [[earthquake]]; typically has a magnitude 7 or greater
+
+----
+
+==Japanese==
+{{ja-kanjitab|大|地|震}}
+
+===Etymology 1===
+Compound of {{compound|大|tr1=ō|t1=great|地震|tr2=jishin|t2=earthquake|lang=ja}}.
+
+====Pronunciation====
+* {{IPA|[oːdʑiɕiɴ]|lang=ja}}
+
+====Noun====
+{{wikipedia|lang=ja}}
+{{ja-noun|おおじしん|hhira=おほぢしん}}
+
+# a large [[earthquake]]; typically has a magnitude 7 or greater
+#: [[w:ja:2010年チリ大地震|2010年チリ'''大地震''']]。
+#:: 2010ねんチリ'''おおじしん'''。
+#:: ''2010-nen Chiri '''ōjishin'''.''
+#::: [[w:2010 Chile earthquake|2010 Chile '''earthquake''']].
+
+====Usage notes====
+* Both readings [[大地震#Japanese|大地震]] ([[おおじしん#Japanese|おおじしん]], [[ōjishin#Japanese|ōjishin]]) and [[大地震#Japanese|大地震]] ([[だいじしん#Japanese|だいじしん]], [[daijishin#Japanese|daijishin]]) are common. The [[w:NHK|Japan Broadcasting Corporation]] insists on reading it as [[大地震#Japanese|大地震]] ([[おおじしん#Japanese|おおじしん]], [[ōjishin#Japanese|ōjishin]]).
+
+===Etymology 2===
+Compound of {{compound|大|tr1=dai|t1=great|地震|tr2=jishin|t2=earthquake|lang=ja}}.
+
+====Pronunciation====
+* {{IPA|[daidʑiɕiɴ]|lang=ja}}
+
+====Noun====
+{{ja-noun|だいじしん|hhira=だいぢしん}}
+
+# a large [[earthquake]]; typically has a magnitude 7 or greater
+
+====Usage notes====
+* Both readings [[大地震#Japanese|大地震]] ([[おおじしん#Japanese|おおじしん]], [[ōjishin#Japanese|ōjishin]]) and [[大地震#Japanese|大地震]] ([[だいじしん#Japanese|だいじしん]], [[daijishin#Japanese|daijishin]]) are common. The [[w:NHK|Japan Broadcasting Corporation]] insists on reading it as [[大地震#Japanese|大地震]] ([[おおじしん#Japanese|おおじしん]], [[ōjishin#Japanese|ōjishin]]).
+
+[[ko:大地震]]
+[[ja:大地震]]
+[[zh:大地震]]

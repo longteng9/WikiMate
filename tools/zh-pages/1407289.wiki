@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab}}
+
+===Alternative forms===
+* {{l|ja|販人}}
+
+===Etymology 1===
+A compound of the nominalization of the verb {{compound|鬻く|tr1=hisaku|t1=sell|人|tr2=hito|t2=person|lang=ja}}.
+
+====Noun====
+{{ja-noun|ひさきひと}}
+
+# a person who sells items; a peddler
+#* {{RQ:Wamyō Ruijushō|1|105}}
+#*: 師説裨販'''比佐岐比止'''
+
+===Etymology 2===
+A compound of the nominalization of the verb {{compound|鬻く|tr1=hisagu|t1=sell|人|tr2=hito|t2=person|lang=ja}}.
+
+====Noun====
+{{ja-noun|ひさぎひと}}
+
+# a person who sells items; a peddler
+
+===References===
+* {{R:Wamyō Ruijushō}}

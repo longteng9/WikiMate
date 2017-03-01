@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|はつ|k1=はっ|かん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|はっかん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はっかん}}
+
+# [[publication]]
+
+===Verb===
+{{ja-verb-suru|はっかん}}
+
+# [[publish]], [[issue]]
+#* '''1949''', 宮本百合子, 今日の日本の文化問題:
+#*: {{ja-usex|一九四五 年 以後 言論 の 自由 と 出版 の 自由 と の ため に 全国 に 日刊紙 が 続々 と '''発刊''' されはじめた。|1945 ねん いご げんろん の じゆう と しゅっぱん の じゆう と の ため に ぜんこく に にっかんし が ぞくぞく と '''はっこう''' されはじめた。|Due to freedom of speech and freedom of the press after 1945, more and more daily newspapers were published all across the country.}}
+
+====Conjugation====
+{{ja-suru|はっかん}}
+
+===References===
+<references/>
+
+[[mg:発刊]]

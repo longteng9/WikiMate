@@ -1,0 +1,23 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jièzì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|linguistics}} phonetic loan character, a word that takes another's meaning
+
+====Synonyms====
+* {{zh-l|通假字}}
+
+===Verb===
+{{zh-verb}}
+
+# to use one character interchangeably for phonetically related characters
+
+[[zh:借字]]

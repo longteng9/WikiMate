@@ -1,0 +1,31 @@
+{{also|字节}}
+==Chinese==
+{{zh-forms|s=字节|word (computing)}}
+
+===Pronunciation===
+{{zh-pron
+|m=zìjié
+|c=zi6 zit3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|chiefly|mainland China}} [[byte]]
+
+====Synonyms====
+* {{qualifier|Taiwan|Hong Kong|Macau}} {{zh-l|位元組}}
+
+====Derived terms====
+{{zh-der|拍它字節|太字節|千兆字節|千字節|兆字節}}
+
+====Related terms====
+* Previous: {{zh-l|位}}
+* Next: {{zh-l|千字節}}
+
+{{zh-cat|Computing}}
+
+[[lt:字節]]
+[[pt:字節]]
+[[zh:字節]]

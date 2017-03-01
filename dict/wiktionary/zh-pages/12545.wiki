@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=09|sn=12|four=62027|canj=RUMB|ids=⿰口耑}}
+
+# [[pant]], [[gasp]], [[breathe]] [[heavily]]
+
+====References====
+* {{Han ref|kx=0198.300|dkj=03946|dj=0420.180|hdz=10655.050|uh=5598|ud=21912|bh=B3DD|bd=46045}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chuǎn
+|ma=Zh-chuan.ogg
+|c=cyun2
+|h=pfs=
+|md=
+|mn=chhoán
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口09}}
+
+# {{defn|lang=ja|sort=口09}}
+
+====Readings====
+* {{ja-readings|kanyoon=[[ぜん]] (zen)|goon=[[せん]] (sen)|kanon=[[せん]] (sen)|kun=[[あえぐ]] (aegu), [[せき]] (seki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=천|rv=cheon|mr=ch'ŏn}}
+
+# {{defn|lang=ko|sort=口09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''喘''' ([[suyễn]], [[suyển]], [[siễn]])
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:喘]]
+[[fr:喘]]
+[[li:喘]]
+[[hu:喘]]
+[[mg:喘]]
+[[ja:喘]]
+[[no:喘]]
+[[pl:喘]]
+[[th:喘]]
+[[zh:喘]]

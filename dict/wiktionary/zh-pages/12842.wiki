@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|向}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=16|sn=19|four=27227|canj=VLHBR|ids=⿱鄉向}}
+
+# [[guide]], [[direct]]
+# [[incline]] to, [[favor]]
+
+====References====
+* {{Han ref|kx=0213.380|dkj=04565|dj=0436.170|hdz=10698.080|uh=56AE|ud=22190|bh=C251|bd=49745}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiàng
+|c=hoeng2,hoeng3
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口16}}
+
+# {{defn|lang=ja|sort=口16}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[きょう]] (kyō)|kun=[[むかう]] (mukau), [[さきに]] (sakini)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=향|rv=hyang|mr=hyang}}
+
+# {{defn|lang=ko|sort=口16}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hướng]], [[hưởng]]|rs=口16}}
+
+# {{defn|lang=vi|sort=口16}}
+
+[[fr:嚮]]
+[[li:嚮]]
+[[hu:嚮]]
+[[ja:嚮]]
+[[pl:嚮]]
+[[th:嚮]]
+[[zh:嚮]]

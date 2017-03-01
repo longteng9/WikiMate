@@ -1,0 +1,55 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=04|sn=12|four=86100|canj=CA|ids=⿰釒日}}
+
+# A former name of [[germanium]]. (current name is "[[鍺]]")
+# A former name of [[radium]]. (current name is "[[鐳]]")
+
+====References====
+* {{Han ref|kx=1299.191|dkj=40255|hdz=64176.050|uh=9224|ud=37412|bh=DC73|bd=56435}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=rì
+|c=jat6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|obsolete}} {{zh-alt-name|鍺|germanium}}
+# {{lb|zh|obsolete}} {{zh-alt-name|鐳|radium}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金04}}
+
+# {{defn|lang=ja|sort=金04}}
+
+====Readings====
+* {{ja-readings|on=[[じつ]] (jitsu)|kun=[[げるまにゅうむ]] (gerumanyuumu)|nanori=}}
+
+[[fr:鈤]]
+[[hu:鈤]]
+[[mg:鈤]]
+[[ja:鈤]]
+[[pl:鈤]]
+[[th:鈤]]
+[[zh:鈤]]

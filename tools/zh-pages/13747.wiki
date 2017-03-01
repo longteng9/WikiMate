@@ -1,0 +1,152 @@
+{{character info/new}}
+{{also|孃|嬢}}
+==Translingual==
+{{stroke order|strokes=10}}
+
+===Han character===
+{{Han char|rn=38|rad=女|as=07|sn=10|four=43432|canj=VIAV|ids=⿰女良}}
+
+====References====
+* {{Han ref|kx=0262.160|dkj=06304|dj=0529.060|hdz=21054.050|uh=5A18|ud=23064|bh=AE51|bd=44625}}
+
+----
+
+==Chinese==
+{{zh-forms|t2=孃|note={{lang|zh|孃}}: “mother”}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|良|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+This syllable was not attested in pre-[[Tang]] texts. It may ultimately have been a fusion of {{ltc-l|女郎|lady|id=1,1}} ({{zh-ref|Coblin, 1994: 389}}).
+
+===Pronunciation===
+{{zh-pron
+|m=niáng
+|c=noeng4
+|h=pfs=ngiòng
+|md=niòng
+|mn=qz,xm:liông/zz:liâng/qz,tw,xm:niû/zz:niô͘/qz,tw,xm:niâ
+|mn_note=liông/liâng - literary; niû/niô͘/niâ - vernacular
+|w=3nyian
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[woman]], especially a [[young]] [[girl]]
+#: {{zh-x|姑娘{niang}|girl}}
+# {{lb|zh|colloquial}} [[mother]]; [[ma]]
+# [[wife]] of another person
+# [[elderly]] [[lady]]
+# {{lb|zh|religion}} "The [[lady|Lady]]", an [[epithet]] of the [[Fujian]]ese [[sea]] [[goddess]] [[Mazu]] ({{zh-l|媽祖|tr=-}}).
+#* '''2016''', "[https://www.mafengwo.cn/poi/6367504.html Penghu Tianhou Temple]", ''Mafengwo'':
+#*: [[天后]]宫位于澎湖县马公市正义街上，俗称『[[天妃]]宫』、『[[妈祖]]宫』，在明代称为『'''娘'''宫』、『[[妈娘]]宫』、『[[娘妈]]宫』『[[妈]]宫』等...
+
+====Synonyms====
+{{zh-dial|媽媽}}
+{{zh-dial|媽媽-2}}
+
+===Compounds===
+{{zh-der|娘家|娘舅|娘老子|娘娘|娘親|娘兒|娘兒們|娘胎|娘姨|娘子|娘子軍|小姑娘|些娘大|婆娘子|姨娘|女娘|伴娘|夜度娘|伯娘|三娘教子|偷婆娘|乾娘|嬸娘|再長爹娘|回娘家|半老徐娘|兩娘女|堂分姑娘|娘母子|二娘|後娘|出自娘胎|嬌娘|娘的|大娘子|廚娘|夫娘|師娘|娘子關|出娘胎|徐娘半老|大姑娘|小娘子|小娘|娘娘腔|婆娘|娘婆|姑娘氣|姑娘家|姑娘兒|姑娘|奶娘|大腳婆娘|七娘媽|徐娘|大娘|可喜娘|可憎娘|公孫大娘|丁娘十索|二娘子|喜娘|丈母娘|末娘|白娘子|掃晴娘|梅花小娘|泰國新娘|月宮娘娘|新娘花|波娘|新娘|灰姑娘|歹婆娘|泰山娘娘|新娘子|爺娘|爹娘|李三娘|百花娘子|秋娘|看麥娘|祭東施娘|晚娘|新嫁娘|王母娘娘|爺飯娘羹|爺羹娘飯|漁娘|晚娘面孔|正頭娘子|痘疹娘娘|新娘車|老娘兒|花魁娘子|豆娘子|蕭娘|註生娘娘|豆姑娘|麼娘|親娘|鐵娘子|阿娘|老娘|韋娘|紅娘|針線娘|駕娘|重生爺娘|養婆娘|養娘|老大娘|離娘飯|老板娘|陳三五娘|馬頭娘|老婆娘|趙五娘|酒娘子|管家娘子|豆娘|紡織娘|美嬌娘|織布娘|紅姑娘|花娘|老闆娘|老姑娘|細娘|娘媽|媽娘}}
+
+===Descendants===
+{{CJKV||じょう|s=嬢|낭|nương}}
+''Others'':
+* Khmer: {{l|km|នាង||young woman; girl}}
+* Lao: {{l|lo|ນາງ||woman; girl; lady; Mrs.}}
+* Thai: {{l|th|นาง||woman; wife; female lover}}
+* Vietnamese: {{l|vi|nàng||lady; young woman; she}}
+
+{{zh-cat|Family}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=女07}}
+
+====Readings====
+{{ja-readings
+|goon=[[にょう]] (nyō), {{qualifier|historical}} [[にやう]] (nyau)
+|kanon=[[じょう]] (jō), {{qualifier|historical}} [[ぢやう]] (jau)
+|toon=[[にゃん]] (nyan)
+|kun=[[むすめ]] (musume)
+}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|むすめ}}
+Compound of {{compound|lang=ja|sort=むすめ|生す|tr1=musu|t1=to beget|女|tr2=me|t2=female}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=kun|むすめ|acc=3|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|むすめ}}
+
+# {{lb|ja|humble|sort=むすめ}} a female child, a {{l|en|daughter}}
+
+====Synonyms====
+* {{ja-r|娘さん|むすめ-さん}} {{qualifier|honorific}}
+* {{ja-r|お嬢さん|おじょうさん}} {{qualifier|honorific}}
+
+====Antonyms====
+* {{ja-r|息子|むすこ}}: a {{l|en|son}}
+
+===References===
+<references />
+
+[[Category:ja:Family|むすめ]]
+[[Category:Japanese basic words|むすめ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=낭}}
+
+# {{defn|lang=ko|sort=女07}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters|女良]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nương]], [[nàng]], [[nường]]|rs=女07}}
+
+# {{defn|lang=vi|sort=女07}}
+
+[[zh-min-nan:娘]]
+[[cs:娘]]
+[[fr:娘]]
+[[ko:娘]]
+[[hr:娘]]
+[[kn:娘]]
+[[ku:娘]]
+[[lo:娘]]
+[[la:娘]]
+[[lt:娘]]
+[[li:娘]]
+[[hu:娘]]
+[[mg:娘]]
+[[ms:娘]]
+[[fj:娘]]
+[[ja:娘]]
+[[no:娘]]
+[[pl:娘]]
+[[ru:娘]]
+[[sm:娘]]
+[[sv:娘]]
+[[th:娘]]
+[[chr:娘]]
+[[tr:娘]]
+[[uk:娘]]
+[[zh:娘]]

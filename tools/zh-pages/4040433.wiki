@@ -1,0 +1,31 @@
+==Japanese==
+{{ja-kanjitab|や|た|yomi=k|かがみ|sort=やたのかがみ}}
+{{wikipedia|lang=ja}}
+{{wikipedia|Yata no Kagami}}
+[[File:三神器.png|thumb|250px|{{lang|ja|八咫鏡}}: Artist's impressions of the (unseen) [[w:Imperial Regalia of Japan|Imperial Regalia of Japan]], with ''Yata no Kagami'' on the upper right]]
+
+===Alternative forms===
+* {{ja-l|八咫の鏡}}
+
+===Etymology===
+Phrase consisting of {{compound|ja|八|tr1=ya|t1=[[eight]]|咫|tr2=ata|pos2=an ancient unit of [[circumference]]|の|tr3=no|pos3=possessive particle|鏡|tr4=kagami|t4=[[mirror]]|sort=やたのかがみ}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The name is a description of the mirror's size. A circle with a [[diameter]] of one {{m|ja|尺|tr=shaku|pos=ancient [[foot]], unit of [[length]]}} would have a circumference of four [[咫#Japanese|''ata'']]. A circumference of eight ''ata'' would thus mean a mirror with a diameter of two ''shaku''. The ''shaku'' at that time was roughly 23 centimeters, so the mirror would have been roughly 46 centimeters across.
+
+===Pronunciation===
+{{ja-pron|やた の かがみ|acc=o|acc_ref=NHK|y=k}}
+
+===Proper noun===
+{{ja-pos|proper|やたのかがみ|rom=Yata no Kagami}}
+
+# the "Eight-Hand Mirror", one of the three [[sacred]] treasures comprising the [[w:Imperial Regalia of Japan|Imperial Regalia of Japan]]
+
+====Usage notes====
+* The ''ata'' of that time period was around 18 centimeters or 7.25 inches, so note that the {{m|en|hand}} in the English name is not the same as the four-inch unit of measurement.
+
+===See also===
+* {{ja-r|草%薙%剣|^くさ%なぎ の% ^つるぎ}}
+* {{ja-r|八%尺%瓊%勾%玉|^や%さか%に の% ^まが%たま}}
+
+===References===
+<references/>

@@ -1,0 +1,63 @@
+{{also|的确}}
+==Chinese==
+{{zh-forms|s=的确}}
+
+===Pronunciation===
+{{zh-pron
+|m=díquè
+|c=dik1 kok3
+|h=pfs=tit-khok
+|mn=tek-khak
+|cat=adv
+}}
+
+===Adverb===
+{{zh-adv}}
+
+# [[indeed]], [[really]]
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+
+===Alternative forms===
+* {{l|ja|適確}}
+
+===Etymology 1===
+{{ja-kanjitab|てき|かく|yomi=on}}
+
+====Adjectival noun====
+{{ja-adj|infl=な|てきかく}}
+
+# [[precise]]
+# [[accurate]]
+
+=====Inflection=====
+{{ja-na|てきかく}}
+
+====Noun====
+{{ja-noun|てきかく}}
+
+# [[precision]]
+# [[accuracy]]
+
+===Etymology 2===
+{{ja-kanjitab|てき|k1=てっ|かく|yomi=on}}
+
+====Adjectival noun====
+{{ja-adj|infl=な|てっかく}}
+
+# Same as above.
+
+====Noun====
+{{ja-noun|てっかく}}
+# Same as above.
+
+[[zh-min-nan:的確]]
+[[ko:的確]]
+[[hu:的確]]
+[[mg:的確]]
+[[chr:的確]]
+[[zh:的確]]

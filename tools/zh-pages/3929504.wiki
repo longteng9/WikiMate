@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|せん|さく|yomi=on}}
+
+===Noun===
+{{ja-noun|せんさく}}
+
+# [[inquiry]], [[investigation]]
+#: {{ja-usex|'''詮索'''好きの隣人がいて参った。|'''せんさく'''-ずき の りんじん が いて まいった。|We are annoyed by our inquisitive neighbors.}}
+# prying
+
+===Verb===
+{{ja-verb-suru|せんさく}}
+
+# [[inquire]]
+# [[pry]]
+
+====Conjugation====
+{{ja-suru|せんさく}}
+
+[[mg:詮索]]
+[[ja:詮索]]

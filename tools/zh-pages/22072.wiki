@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|石|右}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=10|sn=15|four=10661|canj=MRMRR|ids=⿱石砳}}
+
+# [[pile]] of [[rock]]s or [[stone]]s
+# [[great]]
+# ''A (typically male) [[given name]]''
+
+====Derived characters====
+* [[𠁻]], [[𩯹]]
+
+====References====
+* {{Han ref|kx=0834.260|dkj=24394|dj=1251.230|hdz=42447.030|uh=78CA|ud=30922|bh=BD55|bd=48469}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lěi
+|c=leoi5
+|h=
+|md=
+|mn=lúi
+|w=
+|mc=y
+|oc=y
+|cat=n,a,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=石10}}
+
+# {{defn|lang=ja|sort=石10}}
+
+====Readings====
+* {{ja-readings|on=[[らい]] (rai)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[뢰]]>[[뇌]]|eumhun=|rv=roe>noe|mr=roe>noe|y=loy>noy}}
+
+# {{defn|lang=ko|sort=石10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=石10|hanviet=lối}}
+
+# {{defn|lang=vi|sort=石10}}
+
+[[fr:磊]]
+[[ko:磊]]
+[[hu:磊]]
+[[mg:磊]]
+[[ja:磊]]
+[[no:磊]]
+[[pl:磊]]
+[[th:磊]]
+[[vi:磊]]
+[[zh:磊]]

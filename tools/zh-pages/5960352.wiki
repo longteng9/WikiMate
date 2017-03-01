@@ -1,0 +1,17 @@
+==Chinese==
+{{zh-forms|s=编译器|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=biānyìqì
+|c=pin1 jik6 hei3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|computing}} [[compiler]]
+
+[[id:編譯器]]
+[[zh:編譯器]]

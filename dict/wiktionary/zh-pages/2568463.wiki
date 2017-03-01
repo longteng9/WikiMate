@@ -1,0 +1,27 @@
+==Japanese==
+{{ja-kanjitab|こく|ひょう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|こくひょう|y=o|acc=0|dev=2|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|こくひょう}}
+
+# [[censure]]; harsh criticism
+
+===Verb===
+{{ja-verb-suru|tr=trans|こくひょう}}
+
+# to [[censure]]; to harshly criticize
+#: {{ja-usex|有権者はその政策を'''酷評'''した。|ゆうけんしゃ は その せいさく を '''こくひょう''' した。|The voters were highly critical of the policy.}}
+
+====Conjugation====
+{{ja-suru|こくひょう}}
+
+===References===
+<references/>
+
+[[mg:酷評]]
+[[ja:酷評]]
+[[chr:酷評]]
+[[zh:酷評]]

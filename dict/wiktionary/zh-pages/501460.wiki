@@ -1,0 +1,75 @@
+{{also|动脉}}
+==Chinese==
+{{zh-forms|s=动脉}}
+{{wikipedia|lang=zh}}
+{{wikipedia|lang=yue}}
+
+===Etymology===
+{{wasei kango||どうみゃく|artery||one of the twenty-eight pulses in TCM}}
+
+===Pronunciation===
+{{zh-pron
+|m=dòngmài
+|c=dung6 mak6
+|mn=qz:tǒng-be̍h/tw,xm:tōng-me̍h/zz:tōng-me̍eh
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|anatomy}} [[artery]]
+
+====Derived terms====
+{{zh-der|動脈瘤|動脈硬化|動脈粥樣硬化}}
+
+====Antonyms====
+* {{zh-l|靜脈}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|どう|yomi=o|みゃく}}
+
+===Pronunciation===
+{{ja-pron|どうみゃく|acc=h|acc2=a|y=o}}
+
+===Noun===
+{{ja-noun|どうみゃく}}
+
+# {{lb|ja|anatomy|sort=とうみゃく'}} an [[artery]]
+
+===Descendants===
+* Chinese: {{zh-l|動脈}}
+* Korean: {{ko-l|동맥}}
+* Vietnamese: {{vi-l|động mạch}}
+
+===See also===
+* {{ja-r|静%脈|じょう%みゃく|[[vein]]}}
+* {{ja-r|毛%細%血%管|もう%さい% けっ%かん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=동맥|mr=tongmaek|y=tōngmayk}}
+
+# {{hanja form of|동맥|[[artery]]}}
+
+[[zh-min-nan:動脈]]
+[[cs:動脈]]
+[[el:動脈]]
+[[ko:動脈]]
+[[hu:動脈]]
+[[mg:動脈]]
+[[ja:動脈]]
+[[pl:動脈]]
+[[ru:動脈]]
+[[fi:動脈]]
+[[chr:動脈]]
+[[zh:動脈]]

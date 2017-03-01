@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|详}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=06|sn=13|four=08651|canj=YRTQ|ids=⿰言羊}}
+
+# [[detailed]], [[complete]], [[thorough]]
+
+====See also====
+* {{l|mul|評}} <!-- graphically similar -->
+
+====References====
+* {{Han ref|kx=1158.170|dkj=35446|dj=1624.110|hdz=63971.030|uh=8A73|ud=35443|bh=B8D4|bd=47316}}
+
+----
+
+==Chinese==
+{{zh-forms|s=详}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiáng
+|c=coeng4
+|h=pfs=
+|md=
+|mn=qz,tw,xm:siông/twvk,zz:siâng
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=言06}}
+
+# {{defn|lang=ja|sort=言06}}
+
+====Readings====
+* {{ja-readings|goon=[[ぞう]] (zō)|kanon=[[しょう]] (shō)|on=[[よう]] (yō)|kun=[[くわしい]] (kuwashii), [[つまびらか]] (tsumabiraka)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[상]], [[양]]|eumhun=|rv=sang, yang|mr=sang, yang|y=sang, yang}}
+
+# {{defn|lang=ko|sort=言06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tường]], [[dương]]|rs=言06}}
+
+# {{defn|lang=vi|sort=言06}}
+
+[[fr:詳]]
+[[ko:詳]]
+[[hu:詳]]
+[[mg:詳]]
+[[ja:詳]]
+[[pl:詳]]
+[[th:詳]]
+[[vi:詳]]
+[[zh:詳]]

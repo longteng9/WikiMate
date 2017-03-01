@@ -1,0 +1,41 @@
+{{also|指示代名词}}
+==Chinese==
+{{zh-forms|s=指示代名词|type=23}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǐshì dàimíngcí
+|c=zi2 si6 doi6 ming4 ci4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|grammar}} {{zh-synonym|指示代詞|[[demonstrative pronoun]]}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|じ|だい|めい|し|yomi=on}}
+
+===Etymology===
+From {{ja-r|指示|しじ|gloss=[[demonstrative]]}}: + {{ja-r|代名詞|だいめいし|gloss=[[pronoun]]}}.
+
+===Noun===
+{{ja-noun|しじ だいめいし}}
+
+# {{lb|ja|grammar}} [[demonstrative pronoun]]
+
+===See also===
+* {{ja-r|あれ}}: (''pronoun'') [[that]] (''Mostly in Japanese, the thing is far from the speaker physically'')
+* {{ja-r|これ}}: (''pronoun'') [[this]] (''Mostly in Japanese, the thing is near to the speaker physically'')
+* {{ja-r|それ}}: (''pronoun'') [[it]], [[that]] (''Mostly in Japanese, the thing is pointed by a gesture or the previous sentences'')
+* {{ja-r|どれ}}: (''pronoun'') [[which]] [[one]]
+
+[[Category:ja:Grammar|しじだいめいし]]
+[[Category:ja:Parts of speech|しじだいめいし]]
+
+[[it:指示代名詞]]
+[[hu:指示代名詞]]
+[[ja:指示代名詞]]

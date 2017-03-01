@@ -1,0 +1,33 @@
+==Japanese==
+{{ja-kanjitab|とう|しょ|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|とうしょ|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうしょ}}
+
+# [[letter to the editor]], a written [[contribution]] to a newspaper or other body
+
+===Verb===
+{{ja-verb-suru|tr=both|とうしょ}}
+
+# to [[write]] a letter to the editor or some other body
+
+====Conjugation====
+{{ja-suru|とうしょ}}
+
+===References===
+<references/>
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=투서}}
+
+# {{hanja form of|투서}}
+
+[[ko:投書]]
+[[hu:投書]]
+[[zh:投書]]

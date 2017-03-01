@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=05|sn=8|four=94027|canj=PKLB|ids=⿰忄布}}
+
+# [[terror]], [[fear]]
+# [[frighten]]
+# [[terrified]]
+
+====References====
+* {{Han ref|kx=0380.180|dkj=10450|dj=0708.180|hdz=42284.060|uh=6016|ud=24598|bh=A9C6|bd=43462}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bù
+|c=bou3
+|h=pfs=
+|md=
+|mn=pò͘
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=心05}}
+
+# dreadful
+
+====Readings====
+* {{ja-readings|goon=[[ふ]] (fu)|kanon=[[ほ]] (ho)|kun=[[こわい]] (kowai), [[おそれる]] (osoreru), [[おじる]] (ojiru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=포|eumhun=|rv=po|mr=p'o|y=pho}}
+
+# {{defn|lang=ko|sort=心05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bố]]|rs=心05}}
+
+# {{defn|lang=vi|sort=心05}}
+
+[[fr:怖]]
+[[ko:怖]]
+[[li:怖]]
+[[hu:怖]]
+[[mg:怖]]
+[[ms:怖]]
+[[ja:怖]]
+[[no:怖]]
+[[pl:怖]]
+[[th:怖]]
+[[zh:怖]]

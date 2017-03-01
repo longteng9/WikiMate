@@ -1,0 +1,98 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+===Han character===
+{{Han char|rn=202|rad=黍|as=00|sn=12|four=20132|canj=HDOE}}
+
+# [[glutinous]] [[millet]]
+# {{mul-kangxi radical-def}}
+
+====References====
+* {{Han ref|kx=1517.250|dkj=47991|dj=2049.330|hdz=74759.010|uh=9ECD|ud=40653|bh=B6C1|bd=46785}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǔ
+|c=syu2
+|h=pfs=sú
+|mn=qz:sír/qz,xm:sú/zz:sí/kh:sé/qz,tp:sóe
+|mn_note=sír/sú/sí - literary; sé/sóe - vernacular; sú - vernacular (俗, Quanzhou)
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|9252}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=黍00}}
+
+# [[millet]]
+
+====Readings====
+{{ja-readings
+|goon=[[しょ]] (sho)
+|kanon=[[しょ]] (sho)
+|kun=[[きび]] (kibi)
+}}
+
+===Noun===
+{{ja-noun|きび|キビ}}
+
+# [[millet]]
+
+====Alternative forms====
+* {{ja-l|稷}}
+
+[[Category:ja:Grains|きび]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=서|eumhun=|rv=seo|mr=sŏ|y=se}}
+
+# {{defn|lang=ko|sort=黍00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thử]]|rs=黍00}}
+
+# {{defn|lang=vi|sort=黍00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:黍]]
+[[ko:黍]]
+[[hu:黍]]
+[[mg:黍]]
+[[mn:黍]]
+[[ja:黍]]
+[[pl:黍]]
+[[ru:黍]]
+[[th:黍]]
+[[zh:黍]]

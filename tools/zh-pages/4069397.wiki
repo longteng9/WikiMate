@@ -1,0 +1,30 @@
+==Japanese==
+{{ja-kanjitab|ゆ|ちゃく|yomi=o}}
+
+===Noun===
+{{ja-noun|ゆちゃく}}
+
+# {{lb|ja|medical|sort=ゆちゃく}} [[adhesion]]
+# a [[collusive]] relationship, [[collusion]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|ゆちゃく}}
+
+# {{lb|ja|medical|sort=ゆちゃく}} to [[adhere]]
+# to have a collusive relationship
+
+====Conjugation====
+{{ja-suru|ゆちゃく}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=유착}}
+
+# {{hanja form of|유착|[[adhesion]]}}
+
+[[ko:癒着]]
+[[lo:癒着]]
+[[hu:癒着]]
+[[zh:癒着]]

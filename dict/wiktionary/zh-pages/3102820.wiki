@@ -1,0 +1,52 @@
+{{also|校订}}
+==Chinese==
+{{zh-forms|s=校订}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiàodìng
+|c=gaau3 ding3
+|mn=kàu-tèng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[revise]] {{gloss|a text, work, etc}}
+
+====Derived terms====
+{{zh-der|校訂者}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|てい|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|こうてい|yomi=o}}
+
+===Noun===
+{{ja-noun|こうてい}}
+
+# [[revision]] of a previously published work
+
+===Verb===
+{{ja-verb-suru|tr=trans|こうてい}}
+
+# [[revise]]
+
+====Conjugation====
+{{ja-suru|こうてい}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=교정}}
+
+# {{hanja form of|교정|[[revision]]}}
+
+[[ko:校訂]]
+[[ja:校訂]]
+[[zh:校訂]]

@@ -1,0 +1,18 @@
+==Japanese==
+{{ja-kanjitab|こう|りつ|か|yomi=o}}
+
+===Etymology===
+{{suffix|効率|化|t1=efficiency|t2=making|lang=ja|sort=こうりつか}}
+
+===Noun===
+{{ja-noun|こうりつか|kyu=效率化}}
+
+# [[optimization]]
+
+===Verb===
+{{ja-verb-suru|こうりつか|kyu=效率化}}
+
+# to [[optimize]]
+
+====Conjugation====
+{{ja-suru|こうりつか}}

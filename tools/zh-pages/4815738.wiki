@@ -1,0 +1,35 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|クズリ}}
+{{wikipedia|Wolverine}}
+[[File:Wolverine_on_rock.jpg|thumb|250px|{{lang|ja|屈狸}} (''kuzuri''): a '''[[wolverine]]'''.]]
+</div>
+{{ja-kanjitab|くつ|り|k1=くず|yomi=irr|sort=くずり}}
+
+===Etymology===
+From {{etyl|niv|ja|sort=くずり}}<ref name="KJE">{{R:Kojien}}</ref><ref name="Nipponica">'''1984''', {{lang|ja|[[w:日本大百科全書|日本大百科全書：ニッポニカ]]}} (''Nippon Dai Hyakka Zensho: Nipponica'', “[[w:Encyclopedia Nipponica|Encyclopedia Nipponica]]”) (in Japanese), [[w:Tokyo|Tōkyō]]: [[w:Shogakukan|Shogakukan]], relevant text online [https://kotobank.jp/word/%E3%82%AF%E3%82%BA%E3%83%AA-55382#E6.97.A5.E6.9C.AC.E5.A4.A7.E7.99.BE.E7.A7.91.E5.85.A8.E6.9B.B8.28.E3.83.8B.E3.83.83.E3.83.9D.E3.83.8B.E3.82.AB.29 here].</ref> {{m|niv|к’узр̌|tr=k’uzrš}}.
+
+The kanji spelling is an example of {{ateji|sort=くずり}}, used both for the sound values, and for the meanings:
+* {{m|ja|屈|tr=kuzu|pos=irregular [[音読み#Japanese|on'yomi]]||[[stooped]], [[bent]] [[over]]}}
+* {{m|ja|狸|tr=ri||[[raccoon dog]]|pos=[[音読み#Japanese|on'yomi]]}}
+
+===Pronunciation===
+{{ja-pron|yomi=i|くずり|acc=0|acc_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|貂熊}} {{qualifier|rare}}
+
+===Noun===
+{{ja-noun|くずり|クズリ}}
+
+# a [[wolverine]]
+
+====Usage notes====
+{{U:ja:biology|クズリ}}
+
+When spelled in kanji, the {{lang|ja|屈狸}} spelling appears to be more common.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===References===
+<references/>
+
+[[Category:ja:Mustelids|くずり]]

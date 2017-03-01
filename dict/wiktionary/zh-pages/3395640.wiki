@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|しゅう|わい|yomi=o}}
+
+===Noun===
+{{ja-noun|しゅうわい|kyu=收賄}}
+
+# taking [[bribe]]s, [[graft]], [[corruption]]
+
+====Derived terms====
+{{der-top}}
+* {{l|ja|収賄事件}} (''shūwai jiken''): bribery case, bribery scandal
+* {{l|ja|収賄罪}} (''shūwaizai''): (the crime of) bribery
+* {{l|ja|受託収賄罪}} (''jutaku shūwaizai''): (the crime of) bribery
+{{der-mid}}
+* {{l|ja|斡旋収賄}} (''assen shūwai''): influence peddling
+* {{l|ja|贈収賄}} (''zōshūwai''): bribery, corruption
+{{der-bottom}}
+
+===Verb===
+{{ja-verb-suru|しゅうわい|kyu=收賄}}
+
+# to take bribes
+
+====Conjugation====
+{{ja-suru|しゅうわい}}
+
+[[hu:収賄]]
+[[zh:収賄]]

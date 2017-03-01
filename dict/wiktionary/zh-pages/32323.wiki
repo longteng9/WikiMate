@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|鲼}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=13|sn=24|four=|canj=NFJJC,NFJTC}}
+
+# {{defn|Han|sort=魚13}}
+
+====References====
+* {{Han ref|kx=1478.320|dkj=46519|dj=2010.180|hdz=74712.120|uh=9C5D|ud=40029}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鲼}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fèn
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚13}}
+
+# {{defn|lang=ja|sort=魚13}}
+
+====Readings====
+* {{ja-readings|goon=[[ふん]] (fun)|kanon=[[ぶん]] (bun)|kun=[[えい]] (ei)}}
+
+===Noun===
+{{ja-noun|えい|エイ}}
+
+# [[ray]], a kind of cartilaginous fish.
+
+====Alternative forms====
+* {{l|ja|鱏}}
+
+[[Category:ja:Rays and skates|えい]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=분|eumhun=|rv=bun|mr=pun|y=pun}}
+
+# {{defn|lang=ko|sort=魚13}}
+
+[[fr:鱝]]
+[[hu:鱝]]
+[[mg:鱝]]
+[[ja:鱝]]
+[[pl:鱝]]
+[[ru:鱝]]
+[[th:鱝]]
+[[zh:鱝]]

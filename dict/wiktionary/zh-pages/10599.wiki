@@ -1,0 +1,188 @@
+{{character info/new}}
+{{also|她|祂|牠}}
+==Translingual==
+{{stroke order|stroke=5}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=03|sn=5|four=24212|canj=OPD|ids=⿰亻也}}
+
+===References===
+* {{Han ref|kx=0092.090|dkj=00370|dj=0195.120|hdz=10115.060|uh=4ED6|ud=20182|bh=A54C|bd=42316}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|也|c1=s|c2=p|alt1=亻|t1=man|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=tā
+|ma=zh-tā.ogg
+|c=taa1
+|h=pfs=thâ
+|j=ta1
+|md=tă
+|mn=xm:tha/thaⁿ/tho
+|mn_note=tha/thaⁿ - vernacular; tho - literary
+|w=1ta
+|mc=y
+|oc=y
+|cat=pron,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|Mandarin}} [[he]]; [[him]]; [[she]]; [[her]] {{gloss|originally gender-neutral; nowadays usually referring to males}}
+#: {{zh-x|他 去 了。|'''He''' went away.}}
+#: {{zh-x|我 認識{shi} 他。|I know '''him'''.}}
+#* {{zh-x|萬物 是 藉[借]著[着]{zhe} 他 造 的；凡 被 造 的，沒有 一 樣 不是 藉[借]著[着]{zhe} 他 造 的。|All things were made by '''him'''; and without '''him''' was not any thing made that was made.|ref={{w2|zh|和合本|新標點和合本}} ([[w:Chinese Union Version|Chinese Union Version with New Punctuation]]), {{lang|zh|約翰福音}} (John) 1:3}}
+# [[other]]; [[another]]
+#: {{zh-x|別 無 他 求|have no other request (formal)}}
+
+===See also===
+{{zh-dial}}
+{{cmn-personal pronouns}}
+
+====Compounds====
+{{zh-der|他媽的|他們|他人|他日|他殺|他鄉|吉他|世海他人|之死靡他|他事|他倆|他們倆|他力|他動|他動詞|他國|他姓|他家|他家的事|他山之攻|他山之石|他山攻錯|他年|他律|他心|他志|他懣|他拉他拉|他故|他敘式|他方|他方言語|他方說|他時|他無所有|他瑪羅池|他生|他端|他處|他說|他辰|他遷|他鄉外府|他鄉外縣|假手他人|其他|別無他法|利他|利他主義|安非他命|巽他海峽|巽他群島|排他性|潘他唑新|無他|燕入他家|猶他州 |笑罵由他|維他命|覺他|貝他係數|貝他射線|貝他蛻變|電吉他|非他|馬爾他}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=人03}}
+
+====Readings====
+{{ja-readings
+|goon=[[た]] (ta)
+|kanon=[[た]] (ta)
+|kun=[[ほか]] (hoka)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|他意|たい}}: another meaning (for one's behavior or speech)
+* {{ja-r|他我|たが}}: [[w:other minds|other minds]]
+* {{ja-r|他界|たかい}}: the world after death
+* {{ja-r|他殺|たさつ}}: [[murder]]
+* {{ja-r|他動詞|たどうし}}: [[transitive verb]]
+* {{ja-r|他人|たにん}}: [[unrelated]] [[person]]
+* {{ja-r|他愛|たあい}}: altruism
+* {{ja-r|他家|たけ}}:
+* {{ja-r|他覚症|たかくしょう}}:
+* {{ja-r|他覚的|たかくてき}}:
+* {{ja-r|他郷|たきょう}}:
+* {{ja-r|他見|たけん}}:
+* {{ja-r|他言|たごん}}: telling the other persons
+* {{ja-r|他行|たぎょう}}:
+* {{ja-r|他国|たこく}}: the other country
+* {{ja-r|他山|たざん}}:
+* {{ja-r|他事|たじ}}:
+{{der-mid}}
+* {{ja-r|他社|たしゃ}}: the other company
+* {{ja-r|他者|たしゃ}}:
+* {{ja-r|他出|たしゅつ}}:
+* {{ja-r|他所|たしょ}}:
+* {{ja-r|他称|たしょう}}:
+* {{ja-r|他心|たしん}}:
+* {{ja-r|他生|たしょう}}:
+* {{ja-r|他薦|たせん}}:
+* {{ja-r|他念|たねん}}:
+* {{ja-r|他派|たは}}:
+* {{ja-r|他物|たぶつ}}:
+* {{ja-r|他聞|たぶん}}:
+* {{ja-r|他方|たほう}}:
+* {{ja-r|他面|ためん}}:
+* {{ja-r|他律|たりつ}}:
+* {{ja-r|他流|たりゅう}}:
+* {{ja-r|他力|たりき}}:
+{{der-bottom}}
+
+{{ja-kanjitab|ほか|yomi=k}}
+{{ja-kanjitab|た|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|ほか|acc=0|acc_ref=DJR,NHK}}
+{{ja-pron|yomi=o|た|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|ほか}} {{ja-altread|hira=た}}
+
+# [[another]], [[other]], some other
+#: {{ja-usex|この'''他'''にも行き先がありますか。|この '''ほか''' に も ゆきさき が あります か。|Do you have any '''other''' destinations?}}
+#: {{ja-usex|この事業は'''他'''を利するために開始されました。|この じぎょう は '''た''' を りする ため に かいし されました。|This project was started in order to benefit '''others'''.}}
+
+====Derived terms====
+* {{ja-r|他ならぬ|ほかならぬ}}
+* {{ja-r|その他|そのた}}, {{ja-r|その他|そのほか}}
+
+====Idioms====
+{{der-top|Idioms}}
+* {{ja-r|他でもない|ほか で も ない}}: “there isn't anything else” → “specifically what I want to say is...” {{qualifier|used to emphasize what one is about to say}}
+* {{ja-r|他に累を及ぼす|た に るい を およぼす}}: “extend the involvement (entanglement) to others” → involve others in trouble
+* {{ja-r|他に例を見ない|た に れい を みない}}: “an example not seen in others” → incomparable
+* {{ja-r|他の言に惑わされる|た の げん に まどわされる}}: “to be led astray by others' words”
+{{der-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[타]]|rv=ta|mr=t'a}}
+
+# {{defn|lang=ko|sort=人03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tha]], [[thà]], [[thè]], [[thơ]]|rs=人03}}
+
+# {{defn|lang=vi|sort=人03}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4ed6 Nom Foundation]
+
+[[da:他]]
+[[es:他]]
+[[fr:他]]
+[[ko:他]]
+[[hi:他]]
+[[it:他]]
+[[lo:他]]
+[[lt:他]]
+[[li:他]]
+[[hu:他]]
+[[mg:他]]
+[[ms:他]]
+[[fj:他]]
+[[nl:他]]
+[[ja:他]]
+[[no:他]]
+[[pl:他]]
+[[pt:他]]
+[[ru:他]]
+[[sk:他]]
+[[sr:他]]
+[[fi:他]]
+[[ta:他]]
+[[th:他]]
+[[chr:他]]
+[[tr:他]]
+[[uk:他]]
+[[vi:他]]
+[[zh:他]]

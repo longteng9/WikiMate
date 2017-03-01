@@ -1,0 +1,81 @@
+==Chinese==
+[[File:Chinese jadeite buttons.jpg|thumb|Chinese jadeite buttons.]]
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fěicuì
+|c=fei2 ceoi3
+|h=pfs=fí-chhui/fi-chhui
+|md=hói-chói
+|mn=húi-chhùi
+|w=2fi tshoe
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[jadeite]]
+# [[kingfisher]]
+
+====Synonyms====
+* {{sense|kingfisher}} {{zh-l|翠鳥/翠鸟|cuìniǎo}}, {{zh-l|翡}}, {{zh-l|魚狗/鱼狗}}
+
+===Descendants===
+{{CJKV|翡翠|ひすい|비취|phỉ thúy|v2=phỉ thuý}}
+
+===References===
+* {{pedialite|翡翠|lang=zh}}
+* {{pedialite|jadeite}}
+
+{{zh-cat|Minerals|Birds}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{wikipedia|lang=ja|ヒスイ}}
+{{ja-kanjitab|ひ|すい|yomi=o}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|acc=h|dev=1|y=1|ひすい|y=o}}
+{{ja-pron|acc=a|y=1|ひすい|y=o}}
+
+====Noun====
+{{ja-noun|ひすい}}
+
+# {{l|en|jade|id=gem}} {{gloss|gem}}
+
+=====Compounds=====
+* {{ja-l|翡翠色}}
+
+{{topics|ja|Gems|Rocks|sort=ひすい}}
+
+===Etymology 2===
+{{wikipedia|lang=ja|カワセミ}}
+{{ja-kanjitab|yomi=irr|sort=かわせみ}}
+{{rfe|lang=ja}}
+
+====Alternative forms====
+* {{ja-l|翡翆}}, {{ja-l|魚狗}}, {{ja-l|川蟬}}
+
+====Pronunciation====
+{{ja-pron|かわせみ|acc=h|y=i}}
+
+====Noun====
+{{ja-noun|かわせみ|カワセミ|hhira=かはせみ}}
+
+# a [[common]] [[kingfisher]]
+
+[[Category:ja:Kingfishers|かわせみ]]
+
+[[zh-min-nan:翡翠]]
+[[ko:翡翠]]
+[[mg:翡翠]]
+[[ru:翡翠]]
+[[zh:翡翠]]

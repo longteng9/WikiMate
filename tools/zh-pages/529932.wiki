@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=fāngchéngshì
+|c=fong1 cing4 sik1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|math|chemistry}} [[equation]]
+
+===See also===
+* {{zh-l|等式}}
+
+===Derived terms===
+{{zh-der|方程式賽車}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ほう|てい|yomi=o|しき}}
+
+===Pronunciation===
+{{ja-pron|acc=3|dev=5|y=o|ほうていしき}}
+
+===Noun===
+{{ja-noun|ほうていしき|hhira=はうていしき}}
+
+# {{lb|ja|math|chemistry|sort=ほうていしき}} an [[equation]]
+
+===See also===
+* {{ja-r|等%式|とう%しき}}
+
+[[ko:方程式]]
+[[it:方程式]]
+[[lo:方程式]]
+[[hu:方程式]]
+[[mg:方程式]]
+[[ja:方程式]]
+[[pt:方程式]]
+[[zh:方程式]]

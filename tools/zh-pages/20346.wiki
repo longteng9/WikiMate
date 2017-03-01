@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|攼}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=93|rad=牛|as=04|sn=8|four=28540|canj=HQOK|ids=⿰牜攵}}
+
+====References====
+* {{Han ref|kx=0698.160|dkj=19950|dj=1110.140|hdz=31803.190|uh=7267|ud=29287|bh=AAAA|bd=43690}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|牛|攴|ls=ic|t1=cow|t2=a whip}} – to herd.
+
+===Pronunciation===
+{{zh-pron
+|m=mù
+|c=muk6
+|h=pfs=mu̍k
+|md=mŭk/muŏk
+|md_note=muŏk - only in the sense “to heal; to cure”
+|mn=bo̍k
+|w=5moq
+|mc=y
+|oc=y
+|cat=v,n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[herd]]; to [[tend]]; to [[breed]] [[livestock]]
+# [[herdsman]]; [[herder]]; [[shepherd]]
+# {{†}} to [[govern]]; to [[rule]]
+# {{lb|zh|historical}} [[overlord]]; [[ruler]] (of one of the [[w:Jiuzhou|nine ancient city states]] in China)
+# {{zh-short|畜牧業|animal husbandry}}
+# {{lb|zh|Min Dong}} to [[heal]]; to [[cure]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|牧師|九牧|人牧|十羊九牧|卑以自牧|南牧|司牧|坰牧|如狼牧羊|山牧季移|岳牧|州牧|廣牧|放牧|放牧地|放牧業|方牧|明牧|李牧|杜牧|樵牧|民牧|海洋牧場|游牧|游牧民族|牧主|牧人|牧伯|牧區|牧司|牧圉|牧地|牧場|牧夫座|牧子|牧守|牧工|牧放|牧業|牧歌|牧民|牧瀆|牧牛兒|牧牛放馬|牧田|牧畜|牧神之笛|牧童|牧羊|牧羊犬|牧羊神|牧羊讀書|牧草|牧豎|牧豕聽經|牧豬奴戲|牧野|牧野之戰|牧養納畜|牧馬|田夫牧子|畜牧|畜牧學|畜牧業|耕牧|芻牧|蘇武牧羊|謙卑自牧|謙沖自牧|謙虛自牧|輪牧|農牧|飼牧}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=牛04}}
+
+====Readings====
+* {{ja-readings|goon=[[もく]] (moku)|kanon=[[ぼく]] (boku)|kun=[[まき]] (maki), [[かう]] (kau), [[やしなう]] (yashinau)}}
+
+===Proper noun===
+{{ja-pos|proper|まき}}
+
+# {{surname|lang=ja|sort=まき}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=목|eumhun=|rv=mok|mr=mok|y=mok}}
+
+# {{defn|lang=ko|sort=牛04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mục]], [[mặt]]|rs=牛04}}
+
+# {{defn|lang=vi|sort=牛04}}
+
+[[fr:牧]]
+[[ko:牧]]
+[[hu:牧]]
+[[mg:牧]]
+[[ja:牧]]
+[[no:牧]]
+[[pl:牧]]
+[[th:牧]]
+[[zh:牧]]

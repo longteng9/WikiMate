@@ -1,0 +1,201 @@
+{{character info/new}}
+{{also|亦}}
+==Translingual==
+{{stroke order|type=animate}}
+[[Image:KanjiRedMatrix.svg|thumb|Red Kanji Symbol]]
+
+===Han character===
+{{Han char|rn=155|rad=赤|as=00|sn=7|canj=GLNC|four=40331}}
+#{{mul-kangxi radical-def}}
+====References====
+* {{Han ref|kx=1213.220|dkj=36993|dj=1680.120|hdz=53506.010|uh=8D64|ud=36196|bh=A8AA|bd=43178}}
+
+====Synonyms====
+* {{l|mul|紅}} / [[红]]
+* {{l|mul|朱}}
+* {{l|mul|緋}}
+* {{l|mul|丹}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|大|t1=person, big|火|t2=fire|ls=ic}} – the color of fire (a person by a fire).
+
+===Etymology===
+Connected with {{inh|zh|sit-pro|*krak||blood; red}} in the STEDT database, whence {{cog|bo|ཁྲག||blood}}. Also compare {{och-l|赫|bright red}} and {{och-l|奭|majestic; red}}.
+
+===Pronunciation===
+{{zh-pron
+|m=chì
+|c=cek3,cik3
+|h=pfs=chhak
+|md=chiáh/chék
+|md_note=chiáh - vernacular (“red and bright” (of gold)); chék - literary
+|mn=chhiah/chhek
+|mn_note=chhiah - vernacular, chhek - literary
+|w=4tshaq
+|mc=y
+|oc=y
+|cat=a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|literary|or|poetic}} [[red]]
+#: {{zh-x|赤字|deficit (literally: '''''red''' figures/numbers'')}}
+#: {{zh-x|赤色 的 晚霞|'''red''' sunset clouds}}
+# [[loyal]]
+# [[empty]]
+# [[bare]]; [[naked]]
+# {{lb|zh|politics}} [[revolutionary]]; [[communist]]; [[red]]
+#: {{zh-x|赤色政權|communist regime (literally: '''''red''' regime'')}}
+# [[pure]] [[gold]]
+
+====Synonyms====
+* {{sense|red}} {{zh-l|紅}}
+
+===Compounds===
+{{zh-der|赤白痢|赤背|赤膊|赤膊上陣|赤潮|赤忱|赤誠|赤帶|赤膽忠心|赤道|赤道幾尼亞|赤地|赤光光|赤紅|赤狐|赤腳|赤腳醫生|赤金|赤佬|赤老|赤痢|赤練蛇|赤磷|赤露|赤裸|赤裸裸|赤黴素|赤貧|赤熱|赤日|赤色|赤芍|赤身|赤身裸體|赤手|赤手空拳|赤松|赤條精光|赤條條|赤鐵礦|赤銅礦|赤縣|赤小豆|赤心|赤揚|赤子|赤字|赤足}}
+
+----
+
+==Japanese==
+{{stroke order|strokes=7}}
+
+===Kanji===
+{{ja-kanji|grade=1|rs=赤00}}
+
+# [[red]]
+
+====Readings====
+{{ja-readings
+|goon=[[しゃく]] (shaku)
+|kanon=[[せき]] (seki)
+|kun=[[あか]] (aka), [[あかい]] ([[赤い]], akai), [[あからむ]] ([[赤らむ]], akaramu), [[あからめる]] ([[赤らめる]], akarameru)
+|nanori=[[あ]] (a), [[あこ]] (ako), [[あま]] (ama)
+}}
+
+====References====
+{{ja-kref
+|ku=3254
+|shift=90D4
+|jis=4056
+|euc=C0D6
+|skip=2-3-4
+|freq=584
+|nelson=4534
+|newnelson=5840
+|halpern=2193
+|kld=1389
+|heisig=1743
+|tuttle=3b4.10}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|赤子|あかご}}
+* {{ja-r|赤字|あかじ}}
+* {{ja-r|赤ちゃん|あかちゃん}}
+* {{ja-r|赤土|あかつち}}, {{ja-r|赭土|あかつち}}
+* {{ja-r|赤面|あかつら}}, {{ja-r|赭面|あかつら}}
+* {{ja-r|赤の他人|あか の たにん}}
+* {{ja-r|赤恥|あかはじ}}
+* {{ja-r|赤羽太|あかはた}}
+* {{ja-r|赤裸|あかはだか}}
+* {{ja-r|赤まんま|あかまんま}}
+* {{ja-r|赤身|あかみ}}
+* {{ja-r|赤銅|しゃくどう}}
+* {{ja-r|赤熱|しゃくねつ}}
+* {{ja-r|赤烏|せきう}}
+* {{ja-r|赤外|せきがい}}: [[infrared]]
+* {{ja-r|赤子|せきし}}
+* {{ja-r|赤日|せきじつ}}
+* {{ja-r|赤手|せきしゅ}}
+{{der-mid}}
+* {{ja-r|赤十字|せきじゅうじ}}: the Red Cross
+* {{ja-r|赤心|せきしん}}
+* {{ja-r|赤誠|せきせい}}: [[sincerity]]
+* {{ja-r|赤沈|せきちん}}
+* {{ja-r|赤鉄鉱|せきてっこう}}
+* {{ja-r|赤土|せきど}}
+* {{ja-r|赤道|せきどう}}
+* {{ja-r|赤熱|せきねつ}}
+* {{ja-r|赤飯|せきはん}}
+* {{ja-r|赤貧|せきひん}}
+* {{ja-r|赤面|せきめん}}
+* {{ja-r|赤裸|せきら}}
+* {{ja-r|赤痢|せきり}}
+* {{ja-r|赤燐|せきりん}}
+* {{ja-r|赤化|せっか}}, {{ja-r|赤化|せきか}}
+* {{ja-r|赤禍|せっか}}, {{ja-r|赤禍|せきか}}
+* {{ja-r|赤血球|せっけっきゅう}}
+{{der-bottom}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|あか|acc=1|acc_ref=DJR,NHK|a=Ja-aka-red.ogg}}
+
+===Noun===
+{{ja-noun|あか}}
+
+# the [[colour]] [[red]]
+
+===Prefix===
+{{ja-pos|prefix|あか}}
+
+# [[entirely]]
+
+===Derived terms===
+* {{ja-r|赤い|あかい}}: [[red]] {{qualifier|adjective}}
+
+===References===
+<references/>
+
+[[Category:ja:Colors|あか]]
+[[Category:Japanese basic words|あか]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=적|eumhun=븕을|rv=jeok|mr=chŏk|y=cek}}
+
+# {{defn|lang=ko|sort=赤00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xích]]|rs=赤00}}
+
+# {{defn|lang=vi|sort=赤00}}
+
+[[Category:CJKV radicals| ]]
+
+[[zh-min-nan:赤]]
+[[cs:赤]]
+[[es:赤]]
+[[fr:赤]]
+[[ko:赤]]
+[[hi:赤]]
+[[it:赤]]
+[[li:赤]]
+[[hu:赤]]
+[[mg:赤]]
+[[ms:赤]]
+[[ja:赤]]
+[[no:赤]]
+[[uz:赤]]
+[[tpi:赤]]
+[[pl:赤]]
+[[pt:赤]]
+[[ru:赤]]
+[[th:赤]]
+[[chr:赤]]
+[[tr:赤]]
+[[zh:赤]]

@@ -1,0 +1,63 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=37|rad=大|as=08|sn=11|four=|canj=KOG,XKOG|ids=⿱大隹}}
+
+# the [[stride]] made by a [[person]]
+
+====Descendants====
+* [[奮]], [[奪]]
+
+====References====
+* {{Han ref|kx=0252.200|dkj=05945|dj=0514.160|hdz=10543.130|uh=595E|ud=22878}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|大|隹|t1=spread wings|t2=bird}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xùn
+|c=seon6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=大08}}
+
+# {{defn|lang=ja|sort=大08}}
+
+====Readings====
+* {{ja-readings|on=[[しゅん]] (shun), [[すい]] (sui), [[よう]] (yō)|kun=[[はばたく]] (habataku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=순|rv=sun|mr=sun}}
+
+# {{defn|lang=ko|sort=大08}}
+
+[[fr:奞]]
+[[hu:奞]]
+[[pl:奞]]
+[[th:奞]]
+[[zh:奞]]

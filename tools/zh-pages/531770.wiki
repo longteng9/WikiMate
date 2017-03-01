@@ -1,0 +1,45 @@
+{{also|体育}}
+==Chinese==
+{{zh-forms|s=体育}}
+{{wikipedia|lang=cdo|Tā̤-ṳ̆k}}
+
+===Etymology===
+{{borrowing|zh|ja|-|nocap=0}} {{ja-r|體育|たいいく}}.
+
+===Pronunciation===
+{{zh-pron
+|m=tǐyù,tl=y
+|c=tai2 juk6
+|h=pfs=thí-yuk
+|md=tā̤-ṳ̆k
+|mn=thé-io̍k
+|mn-t=ti2 iog8
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[physical education]] ([[PE]]); [[physical]] [[training]]
+#: {{zh-x|體育 以 堅持 為{wéi} 重{zhòng}。|'''Physical education''' is all about persistence.}}
+# [[sport]]; [[sports]]
+#: {{zh-x|體育 記者|[[sports writer|'''sports''' writer]]}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|たい|いく|yomi=o}}
+
+===Noun===
+{{ja-noun|たい.いく|shin=体育}}
+
+# {{kyujitai spelling of|sort=たいいく|体育}}: [[physical education]] ([[PE]]); [[physical training]] ([[PT]]); [[gymnastics]]; [[athletics]]; physical [[exercise]]
+
+[[ko:體育]]
+[[hu:體育]]
+[[ja:體育]]
+[[chr:體育]]
+[[zh:體育]]

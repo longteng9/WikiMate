@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=13|sn=19|four=88146|canj=HEII}}
+
+# register, account book, notebook
+
+====References====
+* {{Han ref|kx=0902.110|dkj=26623|dj=1327.200|hdz=53023.060|uh=7C3F|ud=31807|bh=C3AF|bd=50095}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bù
+|c=bou6,bou6-2
+|mn=phō͘
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|主簿|作業簿|剪貼簿|功勞簿|卯簿|名簿|坐簿|姻緣簿|學籍簿|對簿|對簿公堂|帳簿|戶口名簿|拍紙簿|業簿|流水簿子|煙花簿|生死簿|留言簿|相簿|簿伍|簿冊|簿子|簿據|簿書|簿本|簿歷|簿籍|簿記|簿記學|簿責|簿錄|緣簿|練習簿|聯絡簿|計簿|貲簿|金蘭簿|錄鬼簿|門簿|電話簿|鹵簿|點鬼簿}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=竹13}}
+
+# register, record book
+
+====Readings====
+{{ja-readings|goon=[[ぶ]] (bu), [[ばく]] (baku)|kanon=[[ほ]] (ho), [[はく]] (haku)|kanyoon=[[ぼ]] (bo)|kun=[[ちょうめん]] (chōmen), [[しゃく]] (shaku)}}
+
+====Compounds====
+* {{ja-r|鹵簿|ろぼ|[[imperial]] [[procession]]}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[부]], [[박]]|eumhun=|rv=bu, bak|mr=pu, pak|y=pu, pak}}
+
+# {{defn|lang=ko|sort=竹13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''簿''' ([[bộ]], [[bạ]], [[bợ]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:簿]]
+[[fr:簿]]
+[[ko:簿]]
+[[hu:簿]]
+[[mg:簿]]
+[[ja:簿]]
+[[no:簿]]
+[[pl:簿]]
+[[th:簿]]
+[[vi:簿]]
+[[zh:簿]]

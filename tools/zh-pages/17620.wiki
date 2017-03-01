@@ -1,0 +1,113 @@
+{{character info/new}}
+{{also|粱|樑}}
+==Translingual==
+===Han character===
+{{Han char|rn=75|rad=木|as=07|sn=11|four=33904|canj=ECD,EID|ids=⿱⿰氵刅木}}
+
+====References====
+* {{Han ref|kx=528.01|dkj=14825|dj=0916.180|hdz=21220.050|uh=6881|ud=26753|bh=B1E7|bd=45543}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=鿄,𣸑,渿,𣹷,𨎛-“bridge for vehicles”}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|水|c1=s|t1=water|刅|c2=p|木|c3=s|t3=wood|ls=psc}} — a bridge.
+
+===Etymology===
+{{rfe|zh|Are the noun senses related to the proper noun senses?}}
+
+===Pronunciation===
+{{zh-pron
+|m=liáng
+|c=loeng4
+|h=pfs=liòng
+|md=liòng
+|mn=xm,qz,tp,kh,lk,sx,yl,km,mg,hc,tc:niû/zz,tn:niô͘/xm,qz,tw:liông/zz:liâng
+|mn_note=niû/niô͘ - vernacular; liông/liâng - literary
+|mn-t=niên5/nion5/liang5
+|mn-t_note=niên5, nion5 - vernacular (niên5 - Chaozhou); liang5 - literary
+|w=3lian
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-alt-form|樑|[[bridge]]; [[roof]] [[beam]]; [[ridge]]}}
+# {{lb|zh|historical}} [[state]] of [[Liang]]
+## An ancient Chinese state during the [[Spring and Autumn]] period
+## An ancient Chinese state of [[Wei]] after moving its capital to Daliang
+## An ancient Chinese state during the [[Han]] dynasty
+## An ancient Chinese state during the [[Jin]] ({{l|zh|晉}}) dynasty
+## One of two ancient Chinese states during the end of the [[Sui]] dynasty
+# {{lb|zh|historical}} Liang dynasty
+## Southern Liang, one of the Southern Dynasties
+## Later Liang of the Five Dynasties
+# {{surname|lang=zh}}
+#* {{zh-x|^梁 @^山伯|[[w:Liang Shanbo|'''Liang''' Shanbo]]}}
+
+====Synonyms====
+* {{sense|state of Wei}} {{zh-l|魏}}, {{zh-l|魏國}}
+* {{sense|state}} {{zh-l|梁國}}
+* {{sense|dynasty}} {{zh-l|梁朝}}
+* {{sense|Southern Liang}} {{zh-l|南梁}}, {{zh-l|蕭梁}}
+* {{sense|Later Liang}} {{zh-l|後梁}}, {{zh-l|朱梁}}
+
+===Compounds===
+{{zh-der|上梁|上梁不正|上梁不正下梁歪|上梁文|偷梁換柱|高梁|光脊梁|刺股懸梁|刺骨懸梁|卑梁之釁|呂梁山|國家棟梁|大廈棟梁|大梁|小醜跳梁|屋梁|山梁|平梁|康梁|強梁|彊梁|彫梁畫棟|後梁|懸梁|懸梁刺股|懸梁刺骨|戳脊梁骨|扛大梁|挑大梁|挑正梁|提梁|摶柱乘梁|撫梁易柱|朝梁暮晉|朝梁暮陳|杞梁妻|杠梁|架海金梁|柏梁臺|柏梁詩|柏梁體|梁上君子|梁園|梁園宴雪|梁子|梁孟|梁山|梁山泊|梁州|梁惠王|梁敬帝|梁書|梁木其壞|梁架|梁柱|梁案|梁棟|梁武帝|梁父吟|梁獄上書|梁皇寶懺|梁皇懺|梁祝|梁簡文帝|梁輈|梁鴻五噫|梁麗|梁龍|棟梁|棟梁之任|棟梁之材|棟梁之臣|椽梁|橋梁|橫梁|歌聲繞梁|汴梁|沒梁桶|沒脊梁|河梁|泰山梁木|津梁|浮梁|漁梁|澤梁|濠梁|烏梁海|無梁斗|玳梁|玳瑁梁|畫梁雕棟|畫棟雕梁|磨脊梁|穀梁傳|結梁子|繞梁|繞梁三日|繞梁之音|繞梁韻永|背梁骨|脊梁|脊梁骨|落月屋梁|豎柱上梁|豎起脊梁|跳梁|跳梁小丑|逼上梁山|過梁|鈑梁|鑿壁懸梁|陸梁|雕梁畫柱|雕梁畫棟|頂梁柱|飛梁|餘妙繞梁|餘音繞梁|餘響繞梁|魚梁|鼻梁|鼻無梁柱|齊梁世界|齊梁體}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木07}}
+
+====Readings====
+* {{ja-readings|goon=[[ろう]] (rō)|kanon=[[りょう]] (ryō)|kun=[[はし]] (hashi), [[はり]] (hari), [[やな]] (yana)}}
+
+===Noun===
+{{ja-noun|はり}}
+
+# [[beam]], [[joist]]
+
+{{ja-noun|やな}}
+
+# fish trap, fish [[weir]]
+
+[[Category:ja:Fishing|やな]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[량]]>[[양]]|eumhun=|rv=ryang>yang|mr=ryang>yang|y=lyang>yang}}
+
+# {{defn|lang=ko|sort=木07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lương]], [[thông]]|rs=木07}}
+
+# {{defn|lang=vi|sort=木07}}
+
+[[zh-min-nan:梁]]
+[[fr:梁]]
+[[ko:梁]]
+[[hu:梁]]
+[[mg:梁]]
+[[ja:梁]]
+[[no:梁]]
+[[pl:梁]]
+[[th:梁]]
+[[chr:梁]]
+[[zh:梁]]

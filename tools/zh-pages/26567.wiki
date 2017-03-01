@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|补}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=07|sn=12|four=33227|canj=LIJB|ids=⿰衤甫}}
+
+# [[mend]], [[patch]], [[fix]], [[repair]], [[restore]]
+
+====References====
+* {{Han ref|kx=1117.300|dkj=34320|dj=1583.220|hdz=53093.050|uh=88DC|ud=35036|bh=B8C9|bd=47305}}
+
+----
+
+==Chinese==
+{{zh-forms|s=补}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǔ
+|c=bou2
+|h=pfs=pú
+|md=
+|mn=pó͘
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[mend]]; to [[repair]]; to [[fix]]
+#: {{zh-x|補衫|to '''mend''' clothes|C}}
+# to make up for a [[deficiency]]
+#: {{zh-x|補鈣|{{t-needed|zh}}}}
+
+====Compounds====
+{{zh-der|補白|補辦|補報|補差|補償|補償貿易|補充|補丁|補釘|補發|補過|補花|補回來|補給|補給線|補假|補交|補角|補景|補酒|補救|補考|補課|補空|補漏|補苗|補偏救弊|補票|補品|補氣|補情|補情兒|補缺|補色|補上|補稅|補台|補體|補貼|補習|補休|補選|補血|補牙|補養|補藥|補液|補遺|補益|補語|補正|補助|補助貨幣|補綴|補足}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=衣07}}
+
+# {{defn|lang=ja|sort=衣07}}
+
+====Readings====
+* {{ja-readings|goon=[[ふ]] (fu)|kanyoon=[[ぶ]] (bu)|kanon=[[ほ]] (ho)|kun=[[おぎなう]] (oginau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=보|eumhun=|rv=bo|mr=po|y=po}}
+
+# {{defn|lang=ko|sort=衣07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bổ]], [[bó]], [[bỏ]], [[bõ]], [[bủa]], [[bù]], [[vỏ]], [[bồ]]|rs=衣07}}
+
+# {{defn|lang=vi|sort=衣07}}
+
+[[zh-min-nan:補]]
+[[fr:補]]
+[[ko:補]]
+[[hu:補]]
+[[mg:補]]
+[[ja:補]]
+[[pl:補]]
+[[th:補]]
+[[zh:補]]

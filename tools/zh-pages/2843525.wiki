@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|げん|はつ|yomi=on|k2=ぱつ}}
+
+===Noun===
+{{ja-noun|げんぱつ}}
+# {{abbreviation of|原子力発電所|lang=ja|skey=けんぱつ}} nuclear power plant
+# {{abbreviation of|原子力発電|lang=ja}} nuclear power generation
+# {{lb|ja|medicine|sort=けんぱつ'}} primary (e.g. primary tumor)
+
+===Verb===
+{{ja-verb-suru|げんぱつ}}
+
+# {{lb|ja|medicine|sort=けんぱつ'}} occur primarily in
+
+====Conjugation====
+{{ja-suru|げんぱつ}}
+
+[[fr:原発]]
+[[hu:原発]]
+[[ru:原発]]
+[[zh:原発]]

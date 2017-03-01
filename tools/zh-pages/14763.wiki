@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|岳}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=14|sn=17|four=22234|canj=UKHK|ids=⿱山獄}}
+
+# [[mountain]] [[peak]], [[summit]]
+
+====References====
+* {{Han ref|kx=0321.280|dkj=08566|dj=0621.290|hdz=10803.040|uh=5DBD|ud=23997|bh=C0AE|bd=49326}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuè
+|c=ngok6
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山14}}
+
+# {{defn|lang=ja|sort=山14}}
+
+====Readings====
+* {{ja-readings|on=[[がく]] (gaku)|kun=[[たけ]] (take)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=악|rv=ak|mr=ak}}
+
+# {{defn|lang=ko|sort=山14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhạc]]|rs=山14}}
+
+# {{defn|lang=vi|sort=山14}}
+
+[[fr:嶽]]
+[[li:嶽]]
+[[hu:嶽]]
+[[ja:嶽]]
+[[pl:嶽]]
+[[th:嶽]]
+[[zh:嶽]]

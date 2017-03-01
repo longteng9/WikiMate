@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|扞}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=07|sn=10|four=56041|canj=QAMJ|ids=⿰扌旱}}
+
+# [[ward off]], [[guard]] [[against]], [[defend]]
+
+====References====
+* {{Han ref|kx=0433.200|dkj=12143|dj=0783.030|hdz=31881.050|uh=634D|ud=25421|bh=AEC2|bd=44738}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hàn
+|c=hon6,hon2,hon5
+|h=pfs=hon
+|mn=hán/hān
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|捍債|捍禦|捍衛|捍難之功|蹌捍}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手07}}
+
+# {{defn|lang=ja|sort=手07}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[ふせぐ]] (fusegu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=한|eumhun=|rv=han|mr=han|y=han}}
+
+# {{defn|lang=ko|sort=手07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cản]], [[hãn]]|rs=手07}}
+
+# {{defn|lang=vi|sort=手07}}
+
+[[fr:捍]]
+[[hu:捍]]
+[[mg:捍]]
+[[ja:捍]]
+[[no:捍]]
+[[pl:捍]]
+[[sr:捍]]
+[[th:捍]]
+[[zh:捍]]

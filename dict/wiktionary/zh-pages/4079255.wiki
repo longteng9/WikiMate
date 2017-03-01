@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|うん|こう|yomi=on}}
+
+===Noun===
+{{ja-noun|うんこう}}
+
+# [[operation]], [[service]] of aircraft or ships
+
+===Verb===
+{{ja-verb-suru|tr=intrans|うんこう}}
+
+# [[operate]], [[fly]] or [[ply]]
+#: {{ja-usex|航空会社が'''運航'''するコードシェア便|こうくう かいしゃ が '''うんこう''' する コードシェア びん|a codeshare flight operated by an airline company}}
+
+====Conjugation====
+{{ja-suru|うんこう}}
+
+[[ko:運航]]
+[[zh:運航]]

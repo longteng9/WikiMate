@@ -1,0 +1,107 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=xīnlǐ
+|c=sam1 lei5
+|h=pfs=sîm-lî
+|mn=kh,qz,tp,xm,zz:sim-lí
+|ma=Zh-xinli.ogg
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[psychology]]
+# [[mentality]]
+
+====Synonyms====
+* {{sense|mentality}} {{zh-l|心目}}, {{zh-l|心態}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[psychological]]; [[mental]]
+#: {{zh-x|心理 問題|'''psychological''' problem}}
+
+====Derived terms====
+{{zh-der|從眾心理|犯罪心理|螃蟹心理|心理防禦機制|心理健康|心理測評|心理學|心理醫生|心理語言學|心理戰|心理障礙|心理諮詢}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|り|yomi=o}}
+
+===Etymology===
+From {{m|ja|心|sc=Jpan|tr=shin||heart}} + {{m|ja|理|sc=Jpan|tr=ri||basic principle}}
+
+===Noun===
+{{ja-noun|しんり}}
+
+# [[mental]] [[state]], [[mentality]]
+# [[psychology]]
+
+====Derived terms====
+{{top2}}
+* [[心理戦]] (''shinrisen''): psychological warfare
+* [[心理戦争]] (''shinri sensō''): psychological warfare
+* [[心理学]] (''shinrigaku''): psychology
+* [[心理学者]] (''shinrigakusha''): psychologist
+* [[心理検査]] (''shinri kensa''): psychological examination
+* [[心理作戦]] (''shinri sakusen''): psychological tactics
+* [[心理主義]] (''shinri shugi''): psychologism
+* [[心理小説]] (''shinri shōsetsu''): psychological novel
+* [[心理状態]] (''shinri jōtai''): state of mind
+* [[心理描写]] (''shinri byōsha''): psychological description
+* [[心理療法]] (''shinri ryōhō''): psychotherapy
+* [[心理的な]] (''shinriteki na''): psychological, mental
+* [[心理言語学]] (''shinri gengokaku''): psycholinguistics
+* [[心理学的な]] (''shinrigakuteki na''): psychological
+* [[群集心理]] (''gunshū shinri''): mass or mob psychology
+* [[集団心理]] (''shūdan shinri''): mass psychology
+* [[深層心理]] (''shinsō shinri''): the deep psyche
+* [[人間心理]] (''ningen shinri''): human psychology
+* [[変態心理]] (''hentai shinri''): abnormal mentality
+* [[超心理学]] (''chō-shinrigaku''): parapsychology
+* [[異常心理学]] (''ijō shinrigaku''): abnormal psychology
+{{mid2}}
+* [[応用心理学]] (''ōyō shinrigaku''): applied psychology
+* [[教育心理学]] (''kyōiku shinrigaku''): educational psychology
+* [[言語心理学]] (''gengo shinrigaku''): psycholinguistics
+* [[社会心理学]] (''shakai shinrigaku''): social psychology
+* [[深層心理学]] (''shinsō shinrigaku''): depth psychology
+* [[実験心理学]] (''jikken shinrigaku''): experimental psychology
+* [[児童心理学]] (''jidō shinrigaku''): child psychology
+* [[認知心理学]] (''ninchi shinrigaku''): cognitive psychology
+* [[発達心理学]] (''hattatsu shinrigaku''): developmental psychology
+* [[犯罪心理学]] (''hanzai shinrigaku''): criminal psychology
+* [[福祉心理学]] (''fukushi shinrigaku''): psychology for human services
+* [[文化心理学]] (''bunka shinrigaku''): cultural psychology
+* [[分析心理学]] (''bunseki shinrigaku''): analytical psychology
+* [[変態心理学]] (''hentai shinrigaku''): abnormal psychology
+* [[臨床心理学]] (''rinshō shinrigaku''): clinical psychology
+* [[臨床心理士]] (''rinshō shinrishi''): clinical psychologist
+* [[児童心理学者]] (''jidō shinrigakusha''): child psychologist
+* [[行動主義心理学]] (''kōdō shugi shinrigaku''): behavioral psychology
+* [[ゲシュタルト心理学]] (''geshutaruto shinrigaku''): Gestalt psychology
+* [[トランスパーソナル心理学]] (''toransupāsonaru shinrigaku''): transpersonal psychology
+{{bottom}}
+
+[[zh-min-nan:心理]]
+[[ko:心理]]
+[[lo:心理]]
+[[hu:心理]]
+[[ja:心理]]
+[[pt:心理]]
+[[ro:心理]]
+[[th:心理]]
+[[uk:心理]]
+[[vi:心理]]
+[[zh:心理]]

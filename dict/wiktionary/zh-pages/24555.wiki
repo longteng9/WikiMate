@@ -1,0 +1,120 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=13|sn=17|four=70236|canj=BYTP}}
+
+====References====
+* {{Han ref|kx=0996.140|dkj=29951|dj=1447.160|hdz=32118.030|uh=81C6|ud=33222|bh=C172|bd=49522}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|肉|意|c1=s|c2=p|t1=body|ls=psc}}.
+
+===Etymology===
+Compare {{cog|tai-pro|*ʔɤkᴰ||chest}}, whence {{cog|th|อก}}. Cognate with {{och-l|意|mind}} and {{och-l|憶|to remember}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=jik1
+|h=pfs=
+|md=
+|mn=ioh
+|w=2i
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[chest]], [[breast]], [[bosom]]
+# [[thought]]
+
+===Compounds===
+{{zh-der|臆想|臆想狂|臆想症|臆斷|臆測|臆度|臆造|臆見|傾吐胸臆|直抒胸臆|胸臆}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=肉13}}
+
+# [[mind]]; [[thought]]
+# repress one's mind
+# [[expect]] many things
+
+====Readings====
+{{ja-readings
+|goon=[[おく]] (oku)
+|kanon=[[よく]] (yoku)
+|kun=[[おくする|おく・する]] ([[臆する]], okusuru), {{qualifier|rare}} [[むね]] (mune), {{qualifier|rare}} [[おもう]] (omou), {{qualifier|rare}} [[おぼえる]] (oboeru)
+|nanori=[[ぞう]] (zō)
+}}
+
+====Compounds====
+{{top4}}
+* [[臆出]]
+* [[臆度]]
+{{mid4}}
+* [[臆断]]
+* [[臆病]]
+{{mid4}}
+* [[臆面]]
+* [[臆見]]
+{{mid4}}
+* [[臆説]]
+* [[臆測]]
+{{bottom}}
+
+====References====
+{{ja-kref
+|ku=1817
+|shift=89AF
+|jis=3231
+|euc=B2B1
+|skip=1-3-13
+|freq=1324
+|nelson=1780
+|newnelson=2001
+|halpern=765
+|kld=530
+|heisig=632
+|tuttle=4k13.5
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=억|eumhun=|rv=eok|mr=ŏk|y=ek}}
+
+# {{defn|lang=ko|sort=肉13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''臆''' ([[ức]])
+
+# {{defn|vi}}
+
+[[zh-min-nan:臆]]
+[[fr:臆]]
+[[li:臆]]
+[[hu:臆]]
+[[mg:臆]]
+[[ja:臆]]
+[[pl:臆]]
+[[th:臆]]
+[[zh:臆]]

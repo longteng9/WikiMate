@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tíshì
+|c=tai4 si6
+|h=pfs=thì-sṳ
+|mn=thê-sī
+|ma=Zh-tíshì.ogg
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[point out]]; to [[draw attention]] to; to [[prompt]]
+
+===Noun===
+{{zh-noun}}
+
+# [[reminder]]; [[notice]]; [[hint]]; [[cue]]; [[prompt]]
+#: {{zh-x|溫馨 提示|friendly '''reminder'''}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てい|じ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ていじ|yomi=o}}
+
+===Noun===
+{{ja-noun|ていじ}}
+
+# [[presentation]] of something, [[production]] of evidence, the [[showing]] of something
+
+===Verb===
+{{ja-verb-suru|tr=trans|ていじ}}
+
+# [[present]], [[lay out]], [[bring out]] a topic, [[set up]] an argument
+
+====Conjugation====
+{{ja-suru|ていじ}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=제시}}
+
+# {{hanja form of|제시|[[presentation]]}}
+
+[[zh-min-nan:提示]]
+[[ko:提示]]
+[[hu:提示]]
+[[mg:提示]]
+[[ja:提示]]
+[[chr:提示]]
+[[zh:提示]]

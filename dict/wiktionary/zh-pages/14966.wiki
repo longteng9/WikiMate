@@ -1,0 +1,128 @@
+{{character info/new}}
+{{also|乾|幹|于|午|千|半|榦}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=51|rad=干|as=00|sn=3|four=10400|canj=MJ}}
+#{{mul-kangxi radical-def}}
+====Derived characters====
+* [[Index:Chinese radical/干]]
+* [[刊]] [[肝]] [[岸]]
+
+====References====
+* {{Han ref|kx=0339.010|dkj=09165|dj=0645.220|hdz=10405.050|uh=5E72|ud=24178|bh=A47A|bd=42106}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{liushu|p}} – a [[pestle]].
+
+Also borrowed phonetically as a simplification of {{zh-l|*乾}} and {{zh-l|*幹}}.
+
+===Etymology 1===
+{{zh-see|乾||dry}}
+
+===Etymology 2===
+{{zh-see|幹||to do, to work}}
+
+===Etymology 3===
+{{zh-forms}}
+
+Sino-Tibetan. Cognate with {{och-l|扞|to shield; to protect}}, {{och-l|閈|gate}}. Compare {{cog|bo|འགལ||to go against, to violate, to contradict}}, {{cog|my|ကာ||shield; to shield; to block}}.
+
+====Pronunciation====
+{{zh-pron
+|m=gān
+|c=gon1
+|h=pfs=kôn
+|md=găng
+|mn=kan
+|w=1koe
+|mc=y
+|oc=y
+|cat=n,a,v,adv
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} a [[shield]]
+# {{†}} to [[request]], to [[ask]]
+# {{†}} to [[offend]], to [[encroach]] on
+# {{†}} to [[interfere]], to [[intervene]]
+# to [[concern]]; to be implicated in; [[implication]]
+#* {{zh-x|這 事 與 我 無 '''干'''{gān}。|It has nothing '''to do''' with me.}}
+# {{†}} [[bank]]; edge of water bodies
+#* {{zh-l|江干}}
+
+====Compounds====
+{{zh-der|干犯:to encroach on|干戈:weapons of war|干支:the Heavenly Stems and Earthly Branches|干連:implication|干擾:to interfere|干擾素:interferon|干涉:to intervene|干涉現象:interference|干係:implication|干預:to intervene|干與:to intervene|干云蔽日:tall trees covering the sun|干證:witness|一干|不干|不氣干|不相干|不肯干休|丹干|何干|俠氣干雲|倒持干戈|倒置干戈|倒載干戈|刺干|加拉干達|動干戈|十干|善罷干休|大動干戈|天干|天干地支|奉干|射干|干仕|干伏|干休|干卿何事|干卿底事|干名犯義|干名采譽|干呆|干城|干寶|干將|干將莫邪|干惹|干戈載戢|干戚|干政|干旄|干時|干櫓|干求|干澤|干瀆|干礙|干祿|干紀|干累|干結|干罰|干罷|干羽|干請|干謁|干證人|干譽|干貝|干進|干雲|干雲蔽日|干青雲|干鳥|干鳥氣|干黷|德干高原|擔干係|擔干紀|斯干|日干|更待干罷|朱干玉戚|東干|染干|欄干|比干|毫不相干|江干|沽名干譽|烏干達 |無干|白干|相干|矯情干譽|義氣干霄|耽干繫|若干|莫干山|豆干|豆腐干|豪氣干雲|邪不干正|長干巷|長干曲|闌干|陰干|非意相干}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=干00}}
+
+# to dry
+# to interfere
+# violence
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[ほす]] (hosu), [[ひる]] (hiru), [[おかす]] (okasu)}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|干戈|かんか}}
+* {{ja-r|干害|かんがい}}
+{{mid3}}
+* {{ja-r|干渉|かんしょう}}
+* {{ja-r|干魃|かんばつ}}
+{{mid3}}
+* {{ja-r|干天|かんてん}}
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[간]], [[강]]|rv=gan, gang|mr=kan, kang}}
+
+# {{defn|lang=ko|sort=干00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[can]], [[cơn]], [[càn]], [[cán]]|rs=干00}}
+
+# {{defn|lang=vi|sort=干00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:干]]
+[[ko:干]]
+[[it:干]]
+[[sw:干]]
+[[ky:干]]
+[[hu:干]]
+[[mg:干]]
+[[ms:干]]
+[[fj:干]]
+[[ja:干]]
+[[no:干]]
+[[pl:干]]
+[[ru:干]]
+[[fi:干]]
+[[ta:干]]
+[[th:干]]
+[[chr:干]]
+[[uk:干]]
+[[zh:干]]

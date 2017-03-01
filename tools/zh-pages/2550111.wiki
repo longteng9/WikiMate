@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|かい|めい|yomi=on}}
+
+===Noun===
+{{ja-noun|かいめい}}
+
+# [[solution]]
+#: {{ja-usex|その疑問の'''解明'''には時間がかかるだろう。|その ぎもん の '''かいめい''' に は じかん が かかる だろう。|Solving the question will take time.}}
+
+===Verb===
+{{ja-verb-suru|かいめい}}
+
+# [[figure out]], [[determine]], [[solve]], [[clarify]]
+
+====Conjugation====
+{{ja-suru|かいめい}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[hu:解明]]
+[[ja:解明]]
+[[zh:解明]]

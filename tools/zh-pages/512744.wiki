@@ -1,0 +1,39 @@
+==Japanese==
+{{ja-kanjitab|し|あい|sort=しあい}}
+
+===Etymology===
+This kanji spelling is an example of {{ja-ateji|sort=しあい}}, but probably {{ja-l|試}} ("test") + {{ja-l|合}} ("fit")
+
+===Noun===
+{{ja-noun|しあい}}
+
+# {{lb|ja|sports}} [[match]], [[game]]
+
+====Synonyms====
+* {{ja-r|勝負|しょうぶ}}, {{ja-r|取り組み|とりくみ}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Sports|しあい]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=시합}}
+
+# {{hanja form of|시합|[[game]], [[contest]], [[match]]}}
+
+[[zh-min-nan:試合]]
+[[fr:試合]]
+[[ko:試合]]
+[[lt:試合]]
+[[li:試合]]
+[[mg:試合]]
+[[ja:試合]]
+[[chr:試合]]
+[[uk:試合]]
+[[zh:試合]]

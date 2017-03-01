@@ -1,0 +1,72 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=116|rad=穴|as=01|sn=6|four=30717|canj=JCN,XJCN|ids=⿱穴乙}}
+
+====References====
+* {{Han ref|kx=0862.220|dkj=25407|dj=1289.010|hdz=42718.020|uh=7A75|ud=31349|bh=CA48|bd=51784}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wā
+|c=waat3
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[deep]] [[hollow]]
+# [[gouge]], [[dig out]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=穴01}}
+
+# {{defn|lang=ja|sort=穴01}}
+
+====Readings====
+* {{ja-readings|on=[[あつ]] (atsu), [[えち]] (echi)|kun=[[あな]] (ana)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=알|eumhun=|rv=al|mr=al|y=al}}
+
+# {{defn|lang=ko|sort=穴01}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=穴01|hanviet=oạt}}
+
+# {{defn|lang=vi|sort=穴01}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=7a75 Nom Foundation]
+
+[[fr:穵]]
+[[hu:穵]]
+[[mg:穵]]
+[[pl:穵]]
+[[th:穵]]
+[[zh:穵]]

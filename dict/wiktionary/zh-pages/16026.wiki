@@ -1,0 +1,99 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=7}}
+
+===Han character===
+{{Han char|rn=64|rad=手|as=04|sn=7|four=53050|canj=QI|ids=⿰扌戈}}
+
+====References====
+* {{Han ref|kx=0419.180|dkj=11851|dj=0766.100|hdz=31835.040|uh=627E|ud=25214|bh=A7E4|bd=42980}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|扌|戈|c1=s|c2=p|ls=psc}}.
+
+Originally a variant form of {{zh-l|*划}}. Borrowed to mean a similar action.
+
+The popular interpretation as a hand ({{zh-l|*扌}}) looking for an halberd ({{zh-l|*戈}}) is a [[mnemonic]] and not the etymology of the character.
+
+===Pronunciation===
+{{zh-pron
+|m=zhǎo
+|c=zaau2
+|h=pfs=cháu
+|mn=chāu
+|mn-t=dao2
+|mc=
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[look for]]; to [[seek]]
+#* {{zh-x|他 決定 出去 找 食物。|He decided to go out to '''search''' for food.}}
+#* {{zh-x|你 找 沒 找 沙發 后面？|Have you '''looked''' behind the sofa?}}
+# to [[ask for]] somebody; to [[call on]] somebody
+#* {{zh-x|有 人 來 找 我 沒有？|Did anybody '''ask''' for me ?}}
+# to [[give]] [[change]]
+#: {{zh-x|不 用 找 了。|Keep the change.}}
+#* {{zh-x|這 是 找 你 的 錢。|Here is your change.}}
+
+====See also====
+{{zh-dial}}
+* {{zh-l|求}}
+
+===Compounds===
+{{zh-der|找彆扭|找病|找補|找不自在|找碴|找茬|找岔子|找刺|找倒霉|找對象|找藉口/找借口|找樂子|找麻煩|找沒趣|找便宜|找平|找婆家|找齊|找錢|找竅門|找事|找死|找臺階/找台階/找台阶|找頭|找尋|找轍|找主|外找|尋找|兩不找|找對頭|找門路|找機會|找上門|找臺階下|找帳|找面子|找沒味兒|找踏級|找野食|找飯碗|找縫子|找到|找絕|找價|找出路|找碴兒|自找苦吃|自找罪受|騎馬找馬|自找|自找麻煩}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手04}}
+
+# {{defn|lang=ja|sort=手04}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka), [[げ]] (ge), [[そう]] (sō)|kun=[[さおさす]] (saosasu), [[たずねる]] (tazuneru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=手04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quơ]], [[hoa]], [[chết]], [[trảo]]|rs=手04}}
+
+# {{defn|lang=vi|sort=手04}}
+
+[[zh-min-nan:找]]
+[[fr:找]]
+[[ko:找]]
+[[lt:找]]
+[[hu:找]]
+[[mg:找]]
+[[ja:找]]
+[[no:找]]
+[[uz:找]]
+[[pl:找]]
+[[ta:找]]
+[[th:找]]
+[[chr:找]]
+[[uk:找]]
+[[zh:找]]

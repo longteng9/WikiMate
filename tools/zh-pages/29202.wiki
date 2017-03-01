@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|采|米}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=165|rad=釆|as=00|sn=7|four=20909|canj=HFD,XHFD|ids=⿻禾丷 or ⿱丿米}}
+
+# {{mul-kangxi radical-def}}
+# Shuōwén Jiězì radical №17
+# To distinguish
+# Distinguished
+
+====References====
+* {{Han ref|kx=1290.040|dkj=40115|dj=1790.080|hdz=63898.010|uh=91C6|ud=37318|bh=A8BC|bd=43196}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=biàn
+|c=bin6
+|h=pfs=phien
+|mn=piān
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{defn|lang=zh}}
+
+====References====
+* [http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=釆00}}
+
+# {{defn|lang=ja|sort=釆00}}
+
+====Readings====
+* {{ja-readings|goon=[[べん]] (ben)|kanon=[[はん]] (han)|on=[[ばん]] (ban), [[へん]] (hen)|kun=[[わかつ]] (wakatsu), [[わかれる]] (wakareru), [[ひずめ]] (hizume)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[변]]|eumhun=|rv=byeon|mr=pyŏn|y=pyen}}
+
+# {{defn|lang=ko|sort=釆00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=釆00|hanviet=[[biện]], [[thái]]}}
+
+# {{defn|lang=vi|sort=釆00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:釆]]
+[[ko:釆]]
+[[hu:釆]]
+[[mg:釆]]
+[[ms:釆]]
+[[ja:釆]]
+[[pl:釆]]
+[[ru:釆]]
+[[th:釆]]
+[[zh:釆]]

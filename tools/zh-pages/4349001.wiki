@@ -1,0 +1,29 @@
+{{also|镭射}}
+==Chinese==
+{{zh-forms|s=镭射}}
+
+===Etymology===
+{{zh-psm|laser}}.
+
+===Pronunciation===
+{{zh-pron
+|m=léishè
+|c=leoi4 se6
+|mn=lûi-siā
+|h=pfs=lùi-sa
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Taiwan|Hong Kong|Macau|Singapore|Malaysia}} [[laser]]
+
+====Synonyms====
+* {{qualifier|Mainland China|Hong Kong|Macau}} {{zh-l|激光}}
+* {{qualifier|Taiwan|Hong Kong|Macau|Singapore|Malaysia}} {{zh-l|雷射}}
+
+====Derived terms====
+{{zh-der|鐳射影碟}}
+
+[[zh:鐳射]]

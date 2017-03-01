@@ -1,0 +1,45 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|にん|き|yomi=on}}
+
+====Pronunciation====
+* {{ja-pron|にんき|y=o|acc=0|acc_ref=NHK}}
+
+====Noun====
+{{ja-noun|にんき|kyu=人氣}}
+
+# [[popularity]]
+
+===Etymology 2===
+{{ja-kanjitab|ひと|け|yomi=ko}}
+
+====Pronunciation====
+* {{ja-pron|ひとけ|y=y|acc=0|dev=1|acc_ref=NHK}}
+
+====Noun====
+{{ja-noun|ひとけ|kyu=人氣}}
+
+# [[presence]] of [[people]]
+
+=====Derived terms=====
+* {{l|ja|人気のない}}
+* {{l|ja|人気がない}}
+
+====Usage notes====
+Used in compounds meaning lack of human presence.
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[fr:人気]]
+[[ko:人気]]
+[[lt:人気]]
+[[li:人気]]
+[[hu:人気]]
+[[mg:人気]]
+[[ja:人気]]
+[[pt:人気]]
+[[chr:人気]]
+[[zh:人気]]

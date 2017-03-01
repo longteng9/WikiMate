@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|𩩍}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=188|rad=骨|as=08|sn=18|four=78241|canj=BBTT}}
+
+# [[pair]] of [[rib|ribs]]
+
+====References====
+* {{Han ref|kx=1449.340|dkj=45204|dj=1976.020|hdz=74413.140|uh=9ABF|ud=39615|bh=EC6B|bd=60523}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=pián
+|c=pin4,ping4,peng1
+|mn=phiaⁿ
+|md=piăng
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} [[rib]]s, particularly in reference to back ribs
+# {{lb|zh|Min Nan|Min Dong}} [[back]] of the body
+
+===Compounds===
+{{rel-top|Compounds with 骿}}
+* [[骿鈀]]
+* [[骿膫]]
+* [[骿骨]]
+* [[骿後]]
+* [[骿支骨]]
+* [[骿條骨]]
+* [[骿脊骨]]
+* [[尻脊骿]]
+{{rel-bottom}}
+
+===References===
+* [http://www.cantonese.sheik.co.uk/dictionary/words/48368/ CantoDict Entry]
+* [http://www.cantonese.sheik.co.uk/phorum/read.php?14,94833,94874#msg-94874 CantoDict Forum Discussion]
+* {{thcwd|1762}}
+* [http://cidian.cuobian.com/modules.php?app=dict_word&id=7189 Fuzhounese Dictionary (福州语词典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=骨08}}
+
+# {{defn|lang=ja|sort=骨08}}
+
+====Readings====
+* {{ja-readings|on=[[へん]] (hen), [[べん]] (ben)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=변|eumhun=|rv=byeon|mr=pyŏn|y=pyen}}
+
+# {{defn|lang=ko|sort=骨08}}
+
+[[fr:骿]]
+[[hu:骿]]
+[[mg:骿]]
+[[pl:骿]]
+[[th:骿]]
+[[zh:骿]]

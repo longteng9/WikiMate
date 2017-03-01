@@ -1,0 +1,47 @@
+{{character info/new}}
+{{also|䒑}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=3|rad=丶|as=01|sn=2|four=80000|canj=IH,XIH|ids=⿰丶丿}}
+
+# This is a ''[[kwukyel]]'' note. ''Kwukyel'' was a system formerly used in Korea whereby correct interpretation of texts written in [[w:Classical Chinese|Classical Chinese]] was aided by small interspersed notes such as this one. The notes represent Korean morphemes but were only used within Chinese text.
+
+====References====
+* {{Han ref|kx=0080.121|dj=0162.211|hdz=10042.091|uh=4E37|ud=20023}}
+
+----
+
+==Korean==
+
+===Etymology===
+The character <big>{{lang|ko|sc=Hant|[[為]] ([[爲]])}}</big> (<big>{{lang|ko|위}}</big>, ''halq wi'') is reduced to its top part.
+
+===Particle===
+{{ko-pos|particle|hangeul=하|y=ha, ho|rv=ha|mr=ha}}
+
+# to do ''(suffix to make verbs)''
+# to be ''(suffix to make adjectives)''
+
+====Usage notes====
+The "ho" reading is was used in [[Middle Korean]] only.
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bát]]|rs=丶01}}
+
+# {{defn|lang=vi|sort=丶01}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e37 Nom Foundation]
+
+[[fr:丷]]
+[[ko:丷]]
+[[pl:丷]]
+[[ta:丷]]
+[[th:丷]]
+[[zh:丷]]

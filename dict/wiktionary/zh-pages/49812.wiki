@@ -1,0 +1,111 @@
+{{also|现在}}
+==Chinese==
+{{zh-forms|s=现在|alt=見在-archaic}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiànzài
+|ma=zh-xiànzài.ogg
+|c=jin6 zoi6
+|g=xien5 'cai5
+|h=pfs=hien-chhai
+|md=hiêng-câi
+|mn=qz:hiān-chǎi/tw,xm,zz:hiān-chāi
+|mn-t=hing7 zai6/hêng7 zai6/hiang7 zai6
+|mn-t_note=hing7 zai6 - Chaozhou; hêng7 zai6 - Jieyang; hiang7 zai6 - Chaoyang, Puning, Huilai
+|w=3hhi ze
+|x=xian5 zai5
+|cat=adv,n
+}}
+
+===Adverb===
+{{zh-adv}}
+
+# [[at present]]; [[now]]
+#: {{zh-x|我 現在 沒有 辦法 工作。|There's no way I can work '''now'''.}}
+
+====Synonyms====
+{{zh-dial}}
+
+===Noun===
+{{zh-noun}}
+
+# the [[present]]; now
+
+===Derived terms===
+{{zh-der|現在時}}
+
+{{zh-cat|Time|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|げん|ざい|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|げんざい|acc=a|y=on|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|げんざい}}
+
+# the [[present]], [[now]]
+
+===Adverb===
+{{ja-pos|げんざい|adverb}}
+
+# now, at present
+#* From the {{m|ja||[http://www.debian.org/intro/about.ja.html#what Debian とは一体何ですか?]|[http://www.debian.org/intro/about#what WHAT is Debian?]}} in the {{m|ja||[http://www.debian.org/intro/about.ja.html Debian について]|[http://www.debian.org/intro/about About Debian]}} homepage
+#*: [[w:ja:Debian|Debian]]は、'''現在'''[[w:ja:Linuxカーネル|Linuxカーネル]]を[[利用する|利用して]]います。
+#*:: [[w:ja:Debian|Debian]]は、'''げんざい'''[[w:ja:Linuxカーネル|Linuxカーネル]]を[[りようする|りようして]]います。
+#*:: ''[[w:ja:Debian|Debian]]wa, '''genzai''' [[w:ja:Linuxカーネル|Linux kāneru]] o [[riyō suru|riyō shite]] imasu.''
+#*::: [[w:Debian|Debian]] is '''currently''' [[use|using]] the [[w:Linux kernel|Linux kernel]].
+
+====Synonyms====
+* {{ja-r|今|いま}}
+* {{ja-r|現時点|げんじてん}}
+
+====See also====
+* {{ja-r|過去|かこ}}: (''[[noun|n.]]'') the [[past]]
+* {{ja-r|未来|みらい}}: (''[[noun|n.]]'') the [[future]]
+
+===References===
+<references />
+
+[[Category:Japanese basic words|けんざい']]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=현재}}
+
+# {{hanja form of|현재|the [[present]] time}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|hiện tại|the [[present]]}}
+
+[[zh-min-nan:現在]]
+[[fr:現在]]
+[[ko:現在]]
+[[io:現在]]
+[[it:現在]]
+[[lt:現在]]
+[[hu:現在]]
+[[mg:現在]]
+[[ja:現在]]
+[[uz:現在]]
+[[pl:現在]]
+[[pt:現在]]
+[[ru:現在]]
+[[tl:現在]]
+[[chr:現在]]
+[[zh:現在]]

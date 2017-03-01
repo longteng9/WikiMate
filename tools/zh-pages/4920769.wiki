@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǐgōng
+|cat=n
+}}
+
+===Etymology===
+{{zh-compound|理|工|from [[理科]]|from [[工科]]}}
+
+===Noun===
+{{zh-noun}}
+
+# [[science]] and [[engineering]] {{gloss|as academic subjects}}
+----
+==Japanese==
+{{ja-kanjitab|り|こう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|りこう|y=o}}
+
+===Noun===
+{{ja-noun|りこう}}
+
+# the academic subjects of [[science]] and [[engineering]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=이공}}
+
+# {{hanja form of|이공|}}
+
+[[zh-min-nan:理工]]
+[[ko:理工]]
+[[zh:理工]]

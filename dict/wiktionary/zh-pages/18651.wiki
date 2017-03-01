@@ -1,0 +1,60 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=04|sn=7|four=35100|canj=ETT,XETT|ids=⿰氵井}}
+
+# [[pit]], [[trap]]
+# the [[appearance]] of a [[small]], [[meander]]ing [[stream]]
+
+====References====
+* {{Han ref|kx=0607.130|dkj=17155|dj=1000.140|hdz=31558.020|uh=6C6B|ud=27755|bh=CB4D|bd=52045}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jǐng
+|c=zeng2
+|mn=chiáⁿ
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水04}}
+
+# {{defn|lang=ja|sort=水04}}
+
+====Readings====
+* {{ja-readings|on=[[けい]] (kei), [[きょう]] (kyō), [[せい]] (sei), [[じょう]] (jō)|kun=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水04| hanviet = giếng}}
+
+# {{defn|lang=vi|sort=水04}}
+
+[[zh-min-nan:汫]]
+[[fr:汫]]
+[[hu:汫]]
+[[pl:汫]]
+[[th:汫]]
+[[zh:汫]]

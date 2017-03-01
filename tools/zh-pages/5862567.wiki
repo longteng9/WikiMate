@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|たて|ふえ|k2=ぶえ|yomi=k}}
+
+===Etymology===
+Compound of {{affix|sort=たてぶえ|ja|縦|tr1=tate|t1=vertical|笛|tr2=fue|t2=flute}}. {{rendaku2|sort=たてぶえ|fue|bue}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|たてぶえ|acc=0|acc_ref=DJR,NHK|acc2=2|acc2_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{ja-l|竪笛}}
+
+===Noun===
+{{ja-noun|たてぶえ}}
+
+# {{lb|sort=たてぶえ|ja|musical instrument}} [[vertical]] [[flute]]
+# {{lb|sort=たてぶえ|ja|musical instrument}} [[recorder]] {{gloss|musical instrument}}
+
+====Synonyms====
+* {{sense|recorder {{gloss|musical instrument}}}} {{ja-r|リコーダー}}, {{ja-r|ブロックフレーテ}}
+
+===References===
+<references/>

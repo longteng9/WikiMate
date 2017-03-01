@@ -1,0 +1,54 @@
+{{also|計画|计划|計畫}}
+==Chinese==
+{{zh-forms|s=计划|alt=計畫-usually as a noun}}
+
+===Etymology===
+Reborrowing from {{etym|ja|zh}} {{ja-r|計畫|けいかく}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jìhuà
+|ma=zh-jìhuà.ogg
+|c=gai3 waak6
+|h=pfs=n:kie-va̍k/s:ki-va̍k
+|mn=xm,zz,twv:kè-e̍k/qz:kè-hia̍k/twv:kè-he̍k/xm:kè-ōa/zz:kè-oa̍h/tw:kè-ōe
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[plan]]
+
+===Noun===
+{{zh-noun}}
+
+# [[plan]] {{zh-mw|m:個|m:項}}
+#: {{zh-x|計劃 跟不{bu}上 變化。|No '''plan''' can anticipate every possible change.}}
+# [[project]]; [[program]] {{zh-mw|m:個|m:項}}
+
+====See also====
+* {{zh-l|打算}}
+* {{zh-l|規劃}}
+
+===Derived terms===
+{{zh-der|保險計劃|計劃單列市|計劃經濟|計劃免疫|計劃生育|計劃生育政策}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=계획}}
+
+# {{hanja form of|계획|a [[plan]]}}
+
+[[ko:計劃]]
+[[hu:計劃]]
+[[mg:計劃]]
+[[ja:計劃]]
+[[chr:計劃]]
+[[zh:計劃]]

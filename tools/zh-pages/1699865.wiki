@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=huǒchéngyán
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[igneous rock]]
+
+====Synonyms====
+* {{zh-l|岩浆岩|tr=yánjiāngyán}}
+
+{{zh-cat|Geology}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|か|せい|がん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|かせいがん|acc=2|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|かせいがん|hhira=くわせいがん}}
+
+# [[igneous rock]]
+
+====Coordinate terms====
+* {{ja-r|堆積岩|たいせきがん}}: [[sedimentary rock]]
+* {{ja-r|変成岩|へんせいがん}}: [[metamorphic rock]]
+
+====See also====
+* {{pedialite|lang=ja}}
+* {{pedialite|Igneous rock}}
+
+===References===
+<references/>
+
+[[ko:火成岩]]
+[[ja:火成岩]]
+[[uz:火成岩]]
+[[zh:火成岩]]

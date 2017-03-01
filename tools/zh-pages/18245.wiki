@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|榈}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=15|sn=19|four=47920|canj=DANR|ids=⿰木閭}}
+
+# [[palm]] [[tree]]
+
+====References====
+* {{Han ref|kx=0560.220|dkj=15815|dj=0949.200|hdz=21311.050|uh=6ADA|ud=27354|bh=C371|bd=50033}}
+
+----
+
+==Chinese==
+{{zh-forms|s=榈}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǘ
+|c=leoi4,leoi3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|棕櫚}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木15}}
+
+# {{defn|lang=ja|sort=木15}}
+
+====Readings====
+* {{ja-readings|on=[[りょ]] (ryo), [[ろ]] (ro)|kun=[[かりん]] (karin)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[려]]>[[여]]|eumhun=|rv=ryeo>yeo|mr=ryŏ>yŏ|y=lye>ye}}
+
+# {{defn|lang=ko|sort=木15}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木15| hanviet = lư}}
+
+# {{defn|lang=vi|sort=木15}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6ada Nom Foundation]
+
+[[fr:櫚]]
+[[hu:櫚]]
+[[ja:櫚]]
+[[pl:櫚]]
+[[th:櫚]]
+[[zh:櫚]]

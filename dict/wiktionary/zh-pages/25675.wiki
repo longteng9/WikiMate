@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=15|sn=21|four=44927|canj=TQDB|ids=⿱艹耦}}
+
+# [[lotus]] [[rhizome]]
+
+====References====
+* {{Han ref|kx=1065.020|dkj=32298|dj=1529.270|hdz=53317.060|uh=85D5|ud=34261|bh=C3C2|bd=50114}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=ǒu
+|c=ngau5
+|mn=qz:gió/xm,zz:ngó͘/tw,xm,zz:ngāu
+|mn_note=gió/ngó͘ - literary; ngāu - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|蓮藕|蕉藕|藕披|藕斷絲連|藕棒兒|藕節|藕粉|藕絲|藕絲兒|藕色|藕花|藕荷|藕覆|藕零兒}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸15}}
+
+# {{defn|lang=ja|sort=艸15}}
+
+====Readings====
+* {{ja-readings|on=[[ぐう]] (gū), [[ごう]] (gō), [[ぐ]] (gu)|kun=[[はすのね]] (hasunone)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=우|eumhun=|rv=u|mr=u|y=wu}}
+
+# {{defn|lang=ko|sort=艸15}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngẫu]], [[ngó]]|rs=艸15}}
+
+# {{defn|lang=vi|sort=艸15}}
+
+[[fr:藕]]
+[[ko:藕]]
+[[hu:藕]]
+[[mg:藕]]
+[[ja:藕]]
+[[no:藕]]
+[[pl:藕]]
+[[th:藕]]
+[[zh:藕]]

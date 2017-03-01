@@ -1,0 +1,38 @@
+{{also|一體化}}
+==Chinese==
+{{zh-see|一體化}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|いつ|k1=いっ|たい|か|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=o|いったいか}}
+
+===Noun===
+{{ja-noun|いったいか|hhira=いつたいくわ}}
+
+# [[unification]]; [[integration]]
+
+===Verb===
+{{ja-verb-suru|いったいか|hhira=いつたいくわ}}
+
+# to [[unify]]; to [[integrate]]
+#* {{quote-book
+|language=Japanese
+|genre=fiction
+||{{w|Hideaki Sorachi}}
+|{{w|lang=ja|銀魂|{{ruby|{{lang|ja|[銀](ぎん)[魂](たま)}}}}}}
+|trans-title={{w|Gin Tama|Silver Soul}}
+|location=Tokyo
+|publisher=Shueisha
+|date=Mar 7 2007
+|isbn=978-4-08-874327-1
+|volume=17
+|chapter={{ruby|{{lang|ja|ゲームは[一](いち)[日](にち)[一](いち)[時](じ)[間](かん)}}}}
+|trans-chapter=Only One Hour of Video Games Per Day
+|||{{ja-usex|なんでも今%度のファミコンはすごいらしいな　ファミコンとディスクシステムが'''一%体%化した'''　ツインファミコンとかいう…|^なん でも こん%ど の ^ファミコン は すごい らし.い な　^ファミコン と ディスク システム が '''いっ%たい%かした'''　^ツイン ^ファミコン とか いう…|I heard this new Famicom is amazing　It '''integrates''' both the Famicom and disc systems　They call it a Twin Famicom}}{{ja-usex|お前　ホントにファミコン買いに来たんかいィィィ‼|^おまえ　ホント に ^ファミコン かい に きたん かいィィィ‼|You seriously came here to buy a Famicom!?}}}}
+[[hu:一体化]]
+[[mg:一体化]]
+[[zh:一体化]]

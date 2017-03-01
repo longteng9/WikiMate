@@ -1,0 +1,88 @@
+{{also|黃泉}}
+==Chinese==
+{{zh-see|黃泉}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|sort=よも}}
+{{IPAchar|/yo<small>2</small>mo<small>2</small>/}}: {{IPAchar|[ywomwo]}} → {{IPAchar|[yomo]}}
+
+Older form of {{m|ja|黄泉}} {{IPAchar|/yo<small>2</small>mi<small>2</small>/}}. [[ablaut|Ablaut]] of cognate {{m|ja|山|tr=yama||mountain}}. Mountains were often used as a place to bury the [[dead]] and were strongly associated with the [[afterlife]].
+
+The kanji {{m|ja|黄||yellow}} and {{m|ja|泉||spring, water source}} are [[ateji]], related to Chinese myths about the [[underworld]] having a yellow spring.
+
+====Pronunciation====
+{{ja-pron|よも|y=i}}
+
+====Noun====
+{{ja-noun|よも}}
+
+# the [[land]] of the [[dead]], the [[afterworld]], the [[underworld]]
+
+=====Derived terms=====
+* {{l|ja|黄泉つ軍|tr={{l|ja|よもついくさ}}, ''{{l|ja|sc=Latn|yomo tsu ikusa}}''}}: the [[army]] of the [[dead]]
+* {{l|ja|黄泉つ神|tr={{l|ja|よもつかみ}}, ''{{l|ja|sc=Latn|yomo tsu kami}}''}}: the [[god]] of the [[dead]]
+* {{l|ja|黄泉つ国|tr={{l|ja|よもつくに}}, ''{{l|ja|sc=Latn|yomo tsu kuni}}''}}: the [[land]] of the [[dead]]
+* {{l|ja|黄泉醜女}}, {{l|ja|黄泉つ醜女|tr={{l|ja|よもつしこめ}}, ''{{l|ja|sc=Latn|yomo tsu shikome}}''}}: a [[demoness]] inhabitant of the [[land]] of the [[dead]]
+* {{l|ja|黄泉つ平坂|tr={{l|ja|よもつひらさか}}, ''{{l|ja|sc=Latn|yomo tsu hirasaka}}''}}: the [[hill]]s of the [[dead]], lying between this world and the afterlife
+* {{l|ja|黄泉竈食}}, {{l|ja|黄泉つ竈食い|tr={{l|ja|よもつへぐい}}, ''{{l|ja|sc=Latn|yomo tsu hegui}}''}}: “[[eating]] from the [[kitchen]] of the [[dead]]” → [[dying]], [[death]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|sort=よみ}}
+{{IPAchar|/yo<small>2</small>mi<small>2</small>/}}: {{IPAchar|[ywomwi]}} → {{IPAchar|[yomi]}}
+
+[[ablaut|Ablaut]] form of older {{m|ja|黄泉}} {{IPAchar|/yo<small>2</small>mo<small>2</small>/}}. See ''yomo'' above.
+
+====Pronunciation====
+{{ja-pron|よみ|acc=a|acc_ref=NHK,DJR|y=i}}
+
+====Noun====
+{{ja-noun|よみ}}
+
+# the [[land]] of the [[dead]], the [[afterworld]], the [[underworld]]
+
+=====Derived terms=====
+* {{l|ja|蘇る|tr={{l|ja|よみがえる}}, ''{{l|ja|sc=Latn|yomigaeru}}''}}: to come back to [[life]], to [[return]] from the [[dead]]
+* {{l|ja|黄泉国}}, {{l|ja|黄泉の国|tr={{l|ja|よみのくに}}, ''{{l|ja|sc=Latn|yomi no kuni}}''}}: the [[land]] of the [[dead]]
+* {{l|ja|黄泉の旅人|tr={{l|ja|よみのたびびと}}, ''{{l|ja|sc=Latn|yomi no tabibito}}''}}: “a [[traveler]] to the land of the [[dead]]” → someone who has died
+* {{l|ja|黄泉戸|tr={{l|ja|よみど}}, ''{{l|ja|sc=Latn|yomido}}''}}: the [[entrance]] to the [[land]] of the [[dead]]
+* {{l|ja|黄泉路}}, {{l|ja|黄泉|tr={{l|ja|よみじ}}, ''{{l|ja|sc=Latn|yomiji}}''}}: the [[road]] to the [[land]] of the [[dead]]
+* {{l|ja|黄泉鳥|tr={{l|ja|よみじどり}}, ''{{l|ja|sc=Latn|yomiji-dori}}''}}: alternate name of the {{m|ja|虎鶫|tr=toratsugumi}} or {{vern|White's thrush}} ({{taxlink|Zoothera dauma|species|noshow=1}})
+
+=====Idioms=====
+* {{l|ja|黄泉路の妨げ|tr={{l|ja|よみじのさまたげ}}, ''{{l|ja|sc=Latn|yomiji no samatage}}''}}: an [[obstacle]] on the way to the [[afterlife]], something [[prevent]]ing [[spiritual]] [[resolution]] after death
+* {{l|ja|黄泉路の障り|tr={{l|ja|よみじのさわり}}, ''{{l|ja|sc=Latn|yomiji no sawari}}''}}: an [[obstacle]] on the way to the [[afterlife]], something [[prevent]]ing [[spiritual]] [[resolution]] after death
+* {{l|ja|黄泉路の絆|tr={{l|ja|よみじのほだし}}, ''{{l|ja|sc=Latn|yomiji no hodashi}}''}}: an [[obstacle]] on the way to the [[afterlife]], something [[prevent]]ing [[spiritual]] [[resolution]] after death
+
+====See also====
+* {{l|ja|山|tr={{l|ja|やま}}, ''{{l|ja|sc=Latn|yama}}''}}: [[mountain]]
+
+===Etymology 3===
+{{ja-kanjitab|こう|せん|yomi=o}}
+From {{etyl|zhx|ja|sort=こうせん}} {{m|zh|黃泉}}. Date of borrowing unknown.
+
+====Pronunciation====
+{{ja-pron|こうせん|acc=h|acc_ref=NHK,DJR|y=ko}}
+
+====Noun====
+{{ja-noun|こうせん|hhira=くわうせん}}
+
+# an [[underground]] [[spring]]
+# the [[underworld]], the [[land]] of the [[dead]]
+
+=====Derived terms=====
+* {{l|ja|黄泉の客|tr={{l|ja|こうせんのきゃく}}, ''{{l|ja|sc=Latn|kōsen no kyaku}}''}}: “a [[visitor]] to the [[land]] of the [[dead]]” → someone who has died
+* {{l|ja|黄泉の旅人|tr={{l|ja|こうせんのたびびと}}, ''{{l|ja|sc=Latn|kōsen no tabibito}}''}}: “a [[traveler]] to the [[land]] of the [[dead]]” → someone who has died
+
+=====Idioms=====
+* {{l|ja|黄泉の路上老少無し|tr={{l|ja|こうせんのろじょうろうしょうなし}}, ''{{l|ja|sc=Latn|kōsen no rojō rōshō nashi}}''}}: “on the road to the land of the dead, there is no old or young” → death comes to all, regardless of age
+
+===References===
+<references/>
+[[Category:Japanese words with multiple readings]]
+[[Category:ja:Death]]
+[[hu:黄泉]]
+[[zh:黄泉]]

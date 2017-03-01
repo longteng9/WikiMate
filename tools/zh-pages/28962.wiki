@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=163|rad=邑|as=07|sn=10|four=47327|canj=GCNL}}
+
+# used as a surname
+# place in modern [[Shanxi]]
+
+====References====
+* {{Han ref|kx=1272.010|dkj=39430|dj=1770.240|hdz=63771.150|uh=90DD|ud=37085|bh=B071|bd=45169}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hǎo
+|c=gok3,kok3
+|h=pfs=
+|md=
+|mn=hok
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=邑07}}
+
+# {{defn|lang=ja|sort=邑07}}
+
+====Readings====
+* {{ja-readings|on=[[かく]] (kaku), [[せき]] (seki), [[しゃく]] (shaku)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=학|eumhun=|rv=hak|mr=hak|y=hak}}
+
+# {{defn|lang=ko|sort=邑07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hác]]|rs=邑07}}
+
+# {{defn|lang=vi|sort=邑07}}
+
+[[zh-min-nan:郝]]
+[[fr:郝]]
+[[ko:郝]]
+[[hu:郝]]
+[[mg:郝]]
+[[pl:郝]]
+[[th:郝]]
+[[zh:郝]]

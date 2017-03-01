@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=10|sn=13|four=61081|canj=RJBC|ids=⿰口真}}
+
+# be [[angry]] at, [[scold]], [[rebuke]]
+
+====References====
+* {{Han ref|kx=0202.300|dkj=04074|dj=0425.110|hdz=10665.090|uh=55D4|ud=21972|bh=DCD2|bd=56530}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chēn
+|c=can1,zan1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嗔忿|嗔睨|嬌嗔|嗔色|嗔責|宜嗔宜喜|嗔怒|宜喜宜嗔|嗔詬|嗔怪|回嗔作喜|嗔道|嗔喝|雷嗔電怒|薄面含嗔|立眉嗔目}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口10}}
+
+# {{defn|lang=ja|sort=口10}}
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin)|kun=[[いかる]] (ikaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=진|rv=jin|mr=chin}}
+
+# {{defn|lang=ko|sort=口10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sân]], [[xin]], [[xân]], [[sun]]|rs=口10}}
+
+# {{defn|lang=vi|sort=口10}}
+
+[[fr:嗔]]
+[[ko:嗔]]
+[[li:嗔]]
+[[hu:嗔]]
+[[mg:嗔]]
+[[ja:嗔]]
+[[pl:嗔]]
+[[th:嗔]]
+[[vi:嗔]]
+[[zh:嗔]]

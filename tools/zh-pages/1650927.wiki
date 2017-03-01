@@ -1,0 +1,45 @@
+{{also|运用}}
+==Chinese==
+{{zh-forms|s=运用}}
+
+===Pronunciation===
+{{zh-pron
+|m=yùnyòng
+|c=wan6 jung6
+|h=pfs=yun-yung
+|mn=qz,tw,xm,zz:ūn-iōng/qz,xm:ūn-ēng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[use]]; to [[apply]]
+
+====Derived terms====
+{{zh-der|運用自如}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|うん|よう|yomi=on}}
+
+===Noun===
+{{ja-noun|うんよう}}
+
+# making use of, [[application]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|うんよう}}
+
+# [[make use of]]
+#: {{ja-usex|お金を運用する|お-かね を うんよう する|use money}}
+
+====Conjugation====
+{{ja-suru|うんよう}}
+
+[[zh-min-nan:運用]]
+[[ko:運用]]
+[[hu:運用]]
+[[ja:運用]]
+[[zh:運用]]

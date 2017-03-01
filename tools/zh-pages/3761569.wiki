@@ -1,0 +1,18 @@
+==Japanese==
+{{ja-kanjitab|は|すう|yomi=y}}
+
+===Pronunciation===
+* {{ja-pron|はすう|y=y|acc=2|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はすう}}
+
+# [[fraction]]
+# [[remainder]]
+#: {{ja-usex|千円未満の端数を切り捨てる|せん えん みまん の はすう を きりすてる|discard amounts under 1000 yen}}
+
+===References===
+<references/>
+
+[[hu:端数]]
+[[zh:端数]]

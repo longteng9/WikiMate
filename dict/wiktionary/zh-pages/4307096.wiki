@@ -1,0 +1,108 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xièdài
+|c=haai6 toi5,haai6 doi6
+|h=pfs=hai-thai/hái-thái
+|cat=a,v
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[slack]], [[sluggish]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[relax]], to [[slack off]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja|懈怠 (法学)|懈怠 (Legal)}}
+{{wikipedia|Laches (equity)}}
+{{wikipedia|Negligence}}
+</div>
+{{ja-kanjitab|yomi=o|かい|たい}}
+From {{etyl|ltc|ja|sort=かいたい}} compound {{m|zh|懈怠|tr=hɛ<sup>X</sup> doi<sup>X</sup>|lit=idle + negligent}}. The [[漢音#Japanese|''kan'on'']], so likely a later borrowing.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|かいたい|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|かいたい}}
+
+# {{lb|ja|sort=かいたい|legal}} [[laches]]: a kind of [[lapse]] wherein an opposing party has neglected to invoke its rights within a certain period of time
+# {{lb|ja|sort=かいたい|civil law}} [[negligence]]
+# [[laziness]], [[idleness]], [[carelessness]]
+
+=====Usage notes=====
+The Japanese Wikipedia article [[:ja:w:懈怠 (法学)|懈怠 (法学)]] describing the legal {{m|en|laches}} and {{m|en|negligence}} senses uses the ''ketai'' reading. However, dictionaries tend to list ''kaitai'' as the primary reading for the legal senses.<ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+=====Synonyms=====
+* {{sense|negligence}} {{ja-r|過失|かしつ}}
+* {{sense|laziness}} {{ja-r|怠慢|たいまん}}
+
+===Etymology 2===
+<div style="float:right;">
+{{wikipedia|lang=ja|懈怠|懈怠 (Buddhism)}}
+{{wikipedia|Kausidya|Kausidya (Buddhist spiritual slothfulness)}}
+</div>
+{{ja-kanjitab|yomi=o|け|たい}}
+From {{etyl|ltc|ja|sort=かいたい}} compound {{m|zh|懈怠|tr=hɛ<sup>X</sup> doi<sup>X</sup>|lit=idle + negligent}}. A mixed reading, so likely a later development within Japanese. Uses the [[呉音#Japanese|''goon'']] of ''ke'' for the first half, and the [[漢音#Japanese|''kan'on'']] of ''tai'' for the second half.
+
+====Pronunciation====
+{{ja-pron|yomi=o|けたい|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|けたい}}
+
+# [[laziness]], [[idleness]], [[carelessness]]
+# {{lb|ja|sort=けたい|legal}} [[laches]]: a kind of [[lapse]] wherein an opposing party has neglected to invoke its rights within a certain period of time
+# {{lb|ja|sort=けたい|civil law}} [[negligence]]
+# {{lb|ja|sort=けたい|Buddhism}} [[spiritual]] [[slothfulness]]: [[kausidya]]
+
+=====Usage notes=====
+The ''kedai'' reading below is more common for the Buddhist ''[[spiritual]] [[slothfulness]]'' sense.
+
+=====Synonyms=====
+* {{sense|laziness}} {{ja-r|怠慢|たいまん}}
+
+====Verb====
+{{ja-verb-suru|けたい}}
+
+# to be [[lazy]], to be [[careless]]
+
+=====Conjugation=====
+{{ja-suru|けたい}}
+
+=====Synonyms=====
+* {{sense|laziness}} {{ja-r|怠慢|たいまん}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=o|け|だい}}
+From {{etyl|ltc|ja|sort=かいたい}} compound {{m|zh|懈怠|tr=hɛ<sup>X</sup> doi<sup>X</sup>|lit=idle + negligent}}. The [[呉音#Japanese|''goon'']], so likely the original borrowing.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|けだい|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|けだい}}
+
+# {{lb|ja|sort=けだい|Buddhism}} [[spiritual]] [[slothfulness]]: [[kausidya]]
+# [[laziness]], [[idleness]], [[carelessness]]
+
+=====Usage notes=====
+The ''ketai'' reading above is more common for the {{m|en|laziness}} sense.
+
+===References===
+<references/>
+
+[[mg:懈怠]]
+[[zh:懈怠]]

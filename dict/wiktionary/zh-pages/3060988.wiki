@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|ろう|どう|しゃ|yomi=on}}
+
+===Etymology===
+{{suffix|労働|者|t1=manual labor|t2=-er|lang=ja|sort=ろうどうしゃ}}
+
+===Noun===
+{{ja-noun|ろうどうしゃ|kyu=勞働者}}
+
+# [[worker]] who performs a physically demanding job, [[manual laborer]]
+#: {{ja-usex|ストは'''労働者'''の権利です。|スト は '''ろうどうしゃ''' の けんり です。|Going on strike is the right of all workers.|lang=ja}}
+
+===References===
+* {{R:Meikyo}}
+
+[[lo:労働者]]
+[[hu:労働者]]
+[[mg:労働者]]
+[[ja:労働者]]
+[[chr:労働者]]

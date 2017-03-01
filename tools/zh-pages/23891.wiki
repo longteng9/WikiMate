@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|⺫|⺲|罓|四|目|网|uni=auto}}
+
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=122|rad=网|as=00|sn=5|four=|canj=WLL}}
+
+# Radical 122
+
+* This character is often referred to as a [[四]][[字]][[頭]] ("character [[四]] character-head") due to its resemblance to [[四]], although it is etymologically related to [[网]].
+
+====References====
+* {{Han ref|kx=0946.241|dkj=28200|dj=1387.120|hdz=42913.011|uh=7F52|ud=32594}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wǎng
+|c=mong5
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{n-g|Component variant of {{zh-l|网*}}.}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=网00}}
+
+# {{defn|lang=ja|sort=网00}}
+
+====Readings====
+* {{ja-readings|on=[[もう]] (mō), [[ぼう]] (bō)|kun=[[よんかしら]] (yonkashira), [[よこめ]] (yokome)|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=网00| hanviet = võng}}
+
+# {{defn|lang=vi|sort=网00}}
+
+[[Category:Vietnamese Han tu]]
+[[Category:CJKV radicals| ]]
+
+[[fr:罒]]
+[[ko:罒]]
+[[hu:罒]]
+[[pl:罒]]
+[[th:罒]]
+[[zh:罒]]

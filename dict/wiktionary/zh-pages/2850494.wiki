@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fàngchū
+|c=fong1 ceot1
+|h=pfs=piong-chhut
+|md=huóng-chók
+|mn=pàng-chhut
+|w=2faan tsheq
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[release]], to [[emit]], to [[let out]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほう|しゅつ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ほうしゅつ|y=o}}
+
+===Noun===
+{{ja-noun|ほうしゅつ}}
+
+# [[release]], [[emission]]
+
+===Verb===
+{{ja-verb-suru|ほうしゅつ}}
+
+# to [[release]], to [[emit]], to [[let out]], to vent, discharge, to give out
+
+====Conjugation====
+{{ja-suru|ほうしゅつ}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=방출}}
+
+# {{hanja form of|방출|[[release]], [[emission]]}}
+
+[[ko:放出]]
+[[hu:放出]]
+[[ja:放出]]
+[[chr:放出]]
+[[zh:放出]]

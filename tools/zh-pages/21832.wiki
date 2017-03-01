@@ -1,0 +1,104 @@
+{{character info/new}}
+{{also|予}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=110|rad=矛|as=00|sn=5|four=17222|canj=NINH}}
+
+# {{mul-kangxi radical-def}}
+
+====Derived characters====
+* [[Index:Chinese radical/矛]]
+* [[柕]] [[敄]] [[務]] [[茅]] [[罞]] [[雺]] [[髳]] [[柔]] [[袤]] [[裦]] [[霿]]
+
+====References====
+* {{Han ref|kx=0821.220|dkj=23846|dj=1233.240|hdz=42764.010|uh=77DB|ud=30683|bh=A5D9|bd=42457}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+
+===Pronunciation===
+{{zh-pron
+|m=máo
+|c=maau4
+|h=pfs=màu
+|md=màu
+|mn=mâu/mô͘/bâu
+|w=3meu
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[spear]]; [[lance]]
+
+===Compounds===
+{{zh-der|丈八蛇矛|亡戟得矛|厹矛|大相矛盾|弓矛之士|挺矛|擲級承矛|杯酒戈矛|矛盾|矛盾律|矛盾相向|矛頭|自相矛盾|衛矛|酋矛|階級矛盾}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=矛00}}
+
+====Readings====
+* {{ja-readings|goon=[[む]] (mu)|kanon=[[ぼう]] (bō)|kun=[[ほこ]] (hoko)|nanori=}}
+
+===Alternative forms===
+{{ja-kanjitab|ほこ|yomi=k}}
+* {{ja-l|鉾}}, {{ja-l|鋒}}, {{ja-l|戈}}, {{ja-l|戟}}
+
+===Pronunciation===
+{{ja-pron|acc=a|y=k|ほこ}}
+
+===Noun===
+{{ja-noun|ほこ}}
+
+# a [[Chinese]] [[spear]]; a [[lance]]; a [[halberd]]
+
+[[Category:ja:Weapons|ほこ]]
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=모|eumhun=|mr=mo|y=mo}}
+
+# {{defn|lang=ko|sort=矛00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=矛00|hanviet=[[mâu]], [[mấu]]}}
+
+# {{defn|lang=vi|sort=矛00}}
+
+[[Category:CJKV radicals| ]]
+
+[[el:矛]]
+[[fr:矛]]
+[[ko:矛]]
+[[lo:矛]]
+[[hu:矛]]
+[[mg:矛]]
+[[ja:矛]]
+[[no:矛]]
+[[pl:矛]]
+[[pt:矛]]
+[[ru:矛]]
+[[th:矛]]
+[[chr:矛]]
+[[vi:矛]]
+[[zh:矛]]

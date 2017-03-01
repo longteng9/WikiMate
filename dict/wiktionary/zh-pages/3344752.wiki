@@ -1,0 +1,35 @@
+{{also|橫斷}}
+==Chinese==
+{{zh-see|橫斷}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|おう|だん|yomi=on}}
+
+===Noun===
+{{ja-noun|おうだん}}
+
+# [[crossing]], [[traversing]], [[intersecting]], especially across the width (not lengthwise)
+# travelling east to west or west to east
+# cutting in a sideways direction
+
+====Compounds====
+* {{sense|cutting sideways}} {{ja-r|横断面|おうだんめん|gloss=cross section}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|おうだん}}
+
+# go [[across]], cross
+# go [[latitudinally]]
+
+{{ja-verb-suru|tr=trans|おうだん}}
+
+# cut in a sideways direction
+
+====Conjugation====
+{{ja-suru|おうだん}}
+
+[[hu:横断]]
+[[mg:横断]]
+[[zh:横断]]

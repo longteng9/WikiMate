@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|馔}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=184|rad=食|as=12|sn=21|four=87781|canj=OIRUC}}
+
+# feed, support, provide for
+# [[food]]
+# fine meats, delicacies
+
+====References====
+* {{Han ref|kx=1425.240|dkj=44386|dj=1951.040|hdz=74474.160|uh=994C|ud=39244|bh=F557|bd=62807}}
+
+----
+
+==Chinese==
+{{zh-forms|s=馔}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhuàn,xuǎn
+|c=zaan6,syun2
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=食12}}
+
+# {{defn|lang=ja|sort=食12}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen), [[ぜん]] (zen)|kun=[[そなえる]] (sonaeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=찬|eumhun=|rv=chan|mr=ch'an|y=chan}}
+
+# {{defn|lang=ko|sort=食12}}
+
+====Compounds====
+* [[飯饌]] ([[반찬]], banchan)
+
+----
+
+==Vietnamese==
+
+===Han character===
+[[soạn]]
+{{head|vi|Han tu|sc=Hant}}{{attention|vi|may need inflection template}}
+
+# {{defn|lang=vi|sort=食12}}
+
+[[fr:饌]]
+[[ko:饌]]
+[[hu:饌]]
+[[mg:饌]]
+[[ja:饌]]
+[[pl:饌]]
+[[th:饌]]
+[[zh:饌]]

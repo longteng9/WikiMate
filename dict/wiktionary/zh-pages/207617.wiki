@@ -1,0 +1,93 @@
+{{also|日记}}
+==Chinese==
+{{zh-forms|s=日记}}
+
+===Pronunciation===
+{{zh-pron
+|m=rìjì
+|c=jat6 gei3
+|mn=qz,tp,xm:li̍t-kì/kh,zz:ji̍t-kì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[diary]] {{zh-mw|本|冊}}
+#: {{zh-x|他 正在 寫 日記 呢。|He's writing in his '''diary'''.}}
+#: {{zh-x|你 寫 日記 嗎？|Do you keep a '''diary'''?}}
+
+====Derived terms====
+{{zh-der|日記本|日記簿|日記賬}}
+
+====Descendants====
+{{CJKV||s=日%記|にっ%き|일기|nhật ký}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|にち|き|k1=にっ|yomi=on}}
+
+===Etymology 1===
+
+====Pronunciation====
+* {{ja-pron|にっき|y=o|acc=0|acc_ref=NHK}}
+
+====Noun====
+{{ja-noun|にっき}}
+
+# a record of events and facts
+# a record of daily events or thoughts; a [[diary]] or [[journal]]<ref>{{R:Shogakukan}}</ref>
+
+====See also====
+* {{ja-r|日記文学|にっき ぶんがく}}
+
+===Etymology 2===
+Originally, there was no means to write the geminate consonant, so it was left out. Pronunciation was likely [nikki] rather than [niki].<ref>{{R:Kojien}}</ref>
+
+====Noun====
+{{ja-noun|にき}}
+
+# a record of events and facts
+# a record of daily events or thoughts; a [[diary]] or [[journal]]
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|にっき]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|rv=ilgi|hangeul=일기}}
+
+# {{hanja form of|일기|diary; journal}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|nhật ký|[[diary]]; [[journal]]}}
+
+[[zh-min-nan:日記]]
+[[ko:日記]]
+[[sw:日記]]
+[[lo:日記]]
+[[lt:日記]]
+[[hu:日記]]
+[[mg:日記]]
+[[ja:日記]]
+[[pt:日記]]
+[[sv:日記]]
+[[th:日記]]
+[[chr:日記]]
+[[zh:日記]]

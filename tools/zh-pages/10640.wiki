@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|倣|彷}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=04|sn=6|four=20227|canj=OYHS|ids=⿰亻方}}
+
+# [[imitate]], [[copy]]
+# [[as if]]
+
+====References====
+* {{Han ref|kx=0095.020|dkj=00420|dj=0201.040|hdz=10125.060|uh=4EFF|ud=20223|bh=A5E9|bd=42473}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǎng
+|c=fong2
+|mc=y
+|oc=y
+|ma=
+|cat=v,con
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人04}}
+
+# [[imitate]]
+# [[copy]]
+# [[as if]]
+# [[stand still]]
+# [[wander]]
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō), [[ぼう]] (bō)|kun=[[さまよう]] (samayou), [[ならう]] (narau), [[くらべる]] (kuraberu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=방|rv=bang|mr=pang|y=pang}}
+
+# [[imitate]]
+# [[similar]] [[to]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phảng]], [[phẳng]], [[phàng]], [[phần]], [[phỏng]]|rs=人04}}
+
+# {{defn|lang=vi|sort=人04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4eff Nom Foundation]
+
+[[fr:仿]]
+[[ko:仿]]
+[[li:仿]]
+[[hu:仿]]
+[[mg:仿]]
+[[ja:仿]]
+[[no:仿]]
+[[pl:仿]]
+[[ru:仿]]
+[[th:仿]]
+[[zh:仿]]

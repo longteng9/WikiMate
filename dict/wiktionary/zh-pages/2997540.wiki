@@ -1,0 +1,52 @@
+{{also|协定}}
+==Chinese==
+{{zh-forms|s=协定}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiédìng
+|c=hip3 ding6
+|mn=hia̍p-tēng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+# [[agreement]], [[treaty]], [[accord]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|きょう|てい|yomi=on}}
+
+===Noun===
+{{ja-noun|きょうてい}}
+
+# [[agreement]]
+#: {{ja-usex|仏独首脳はギリシアの債務問題で'''協定'''を結んだ。|ふつどく しゅのう は ギリシア の さいむもんだい で '''きょうてい''' を むすんだ。|The French and German leaders agreed on a Greek debt package.}}
+
+====Synonyms====
+* {{ja-r|合意|ごうい}}, {{ja-r|取り決め|とりきめ}}
+
+===Verb===
+{{ja-verb-suru|きょうてい}}
+
+# to make an agreement, to [[forge]] a [[pact]]
+
+====Synonyms====
+* {{ja-r|取り決める|とりきめる}}
+
+====Conjugation====
+{{ja-suru|きょうてい}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:協定]]
+[[ko:協定]]
+[[lt:協定]]
+[[hu:協定]]
+[[mg:協定]]
+[[ja:協定]]
+[[chr:協定]]
+[[zh:協定]]

@@ -1,0 +1,140 @@
+{{character info/new}}
+{{also|毬}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=96|rad=玉|as=07|sn=11|four=13132|canj=MGIJE|ids=⿰[[玉|⺩]][[求]]}}
+
+====References====
+* {{Han ref|kx=0732.290|dkj=21011|dj=1144.060|hdz=21114.150|uh=7403|ud=29699|bh=B279|bd=45689}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=毬}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|玉|求|alt1=⺩|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+"Ball", earlier some "kind of jade". Bodman (1980) relates this to Wuming {{cog|za||klau<sup>A2</sup>|ball}}, and relates {{zh-l|俅|gem-adorned}} to {{cog|bo|གྲུ||lustre of gems}}. This character had a softened initial in {{etyl|zhx-min-pro|-}}.
+
+===Pronunciation===
+{{zh-pron
+|m=qiú,er=y
+|c=kau4
+|h=pfs=khiù
+|md=giù
+|mn=kiû
+|mn-t=giu5
+|j=qiou1
+|x=qiou2
+|ma=y
+|mc=y
+|oc=y
+|cat=n,a,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} [[beautiful]] [[jade]]
+# {{†}} [[percussion instrument]] made of jade
+# [[ball]], [[globe]], [[orb]]
+# {{lb|zh|mathematics}} [[sphere]]
+# [[round]], [[spherical]]
+# [[earth]]
+# [[ball]] {{gloss|in sports}}
+# [[ball game]]
+# {{n-g|Classifier for spherical objects.}}
+# {{lb|zh|Teochew|Xiang}} {{n-g|Classifier for stringed objects.}} [[string]]
+# {{lb|zh|dialectal Mandarin|Jin|vulgar}} {{n-g|Expletive. Often used in the form of {{zh-l|……[[個球]]}}. Underlying meaning may be "testes".}}
+
+===Compounds===
+{{zh-der|膠球:glueball|三大球|乒乓球|保齡球|光球|內角球|全球|冰球|切球|削球|北半球|半球|半球體|南半球|卵囊球|合球|四壞球|回力球|地擲球|地球|地球儀|地球史|地球日|地球村|壁球|壘球|壞球|外角球|大球|天球|天球儀|好球|好球帶|小球|巧固球|帶球跑|平擊球|平飛球|彩球|手球|打球|扣球|抄球|投球機|抱球|抽球|拋繡球|持球|捅球|排球|掛球蛋|控球|推球|撞球|擊球區|擦棒球|旋轉球|星球|曲棍球|曲球|月球|月球儀|木球|東半球|松球|松球魚|板牆球|板球|桌球|棉球|棒球|棒球卡|棒球場|棒球賽|棒球隊|槌球|橄欖球|檯球|毽球|氣球|水半球|水球|洋繡球|洗溝球|淋巴球|混球|混球兒|渾球|滾地球|滾球兒|滿球數|煤球|熱氣球|爭球|球僮|球員|球場|球徑|球心|球房|球技|球拍|球杆|球果|球根|球棒|球瓶|球監|球磨機|球童|球膽|球花|球莖|球菌|球藝|球蛋白|球衣|球證|球賽|球迷|球門|球隊|球面|球鞋|球體|環球|界內球|界外球|發球|發球局|白血球|皮球|盤球|眼球|眼球肌|睛球|睛球座|籃板球|籃球|籃球場|糞球|紅血球|網球|網球肘|綵球|練球|繡球|繡球花|罰球|羽毛球|羽球|自由球|蒜球精|藤球|血球|衛生球|西半球|角球|觸身球|變化球|賽球|足球|足球場|跳球|踢球|踢皮球|躲避球|鉛球|鏈球|鏈球菌|鐵球|開球|關鍵球|陸半球|雙球菌|頭頂球|風向球|飄浮球|飛碟球|馬球|高壓球|高球場|高飛球}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=玉07}}
+
+====Readings====
+{{ja-readings
+|goon=[[ぐ]] (gu)
+|kanon=[[きゅう]] (kyū)
+|kun=[[たま]] (tama)
+|nanori=[[く]] (ku)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|きゅう|yomi=o}}
+From {{etyl|ltc|ja|sort=きゅう}} {{m|zh|球|tr=gjuw||ball, sphere, orb}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|きゅう|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|きゅう|hhira=きう}}
+
+# [[sphere]]; [[globe]]; [[orb]]
+# {{lb|ja|baseball|sort=きゅう}} [[pitch]]
+# {{lb|ja|slang|electronics}} [[vacuum tube]], [[valve]]
+#: {{ja-usex|五%球スーパーラジオ|ご%きゅう スーパー ラジオ|five-tube [[superheterodyne receiver]]}}
+
+
+===Etymology 2===
+{{ja-kanjitab|たま|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|たま|acc=2|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|たま|kyu=毬}}
+
+# [[ball]]
+# [[bulb]] {{qualifier|as in a light bulb}}
+# {{lb|ja|sort=たま|slang|electronics}} [[vacuum tube]], [[valve]]
+#: {{ja-usex|球のアンプ|たま の アンプ|tube amplifier}}
+
+===References===
+<references/>
+
+[[Category:ja:Geometry|きゅう]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# {{defn|lang=ko|sort=玉07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cầu]]|rs=玉07}}
+
+# {{defn|lang=vi|sort=玉07}}
+
+[[fr:球]]
+[[ko:球]]
+[[it:球]]
+[[hu:球]]
+[[mg:球]]
+[[fj:球]]
+[[ja:球]]
+[[no:球]]
+[[uz:球]]
+[[pl:球]]
+[[sv:球]]
+[[ta:球]]
+[[th:球]]
+[[chr:球]]
+[[uk:球]]
+[[zh:球]]

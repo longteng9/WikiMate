@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=76|rad=欠|as=08|sn=12|four=97882|canj=FFNO|ids=⿰炎欠}}
+
+# [[sudden]], [[abrupt]], [[quick]]
+
+====References====
+* {{Han ref|kx=0568.160|dkj=16099|dj=0957.020|hdz=32144.040|uh=6B3B|ud=27451|bh=D9DB|bd=55771}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chuā
+|c=fat1,caat3
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 134]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=欠08}}
+
+# {{defn|lang=ja|sort=欠08}}
+
+====Readings====
+* {{ja-readings|on=[[くつ]] (kutsu), [[くち]] (kuchi)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=훌|eumhun=|rv=hul|mr=hul|y=hwul}}
+
+# {{defn|lang=ko|sort=欠08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=欠08| hanviet = hư}}
+
+# {{defn|lang=vi|sort=欠08}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6b3b Nom Foundation]
+
+[[fr:欻]]
+[[hu:欻]]
+[[pl:欻]]
+[[th:欻]]
+[[vi:欻]]
+[[zh:欻]]

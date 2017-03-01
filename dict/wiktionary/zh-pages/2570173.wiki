@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-see|復仇|v}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふく|しゅう|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=ふくしゅう}} compound {{m|zh|復讎|tr=bjuwk dzyuw|lit=return + rivalry}}.  Compare modern {{etyl|cmn|-}} reading ''fùchóu'', {{etyl|yue|-}} ''fuk<sup>6</sup> sau<sup>4</sup>'', {{etyl|nan|-}} ''ho̍k-siû''.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|ふくしゅう|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ふくしゅう|hhira=ふくしう}}
+
+# [[revenge]], [[vengeance]]
+
+====Synonyms====
+* {{ja-r|返報|へんぽう}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|復讐劇|ふくしゅうげき}}: a [[revenge]] [[tragedy]]
+* {{ja-r|復讐心|ふくしゅうしん}}: a [[desire]] for [[revenge]], [[vengeful]] [[thought]]s, a [[vengeful]] [[heart]]
+* {{ja-r|復讐者|ふくしゅうしゃ}}: an [[avenger]]
+* {{ja-r|復讐戦|ふくしゅうせん}}: a [[rematch]], a [[grudge match]], a [[revenge]] [[match]]
+{{der-bottom}}
+
+===Verb===
+{{ja-verb-suru|ふくしゅう|hhira=ふくしう}}
+
+# to [[avenge]] oneself, to get [[revenge]]
+
+====Conjugation====
+{{ja-suru|ふくしゅう}}
+
+====Synonyms====
+* {{ja-r|返報|へんぽう}}
+
+===References===
+<references/>
+
+[[hu:復讐]]
+[[mg:復讐]]
+[[pl:復讐]]
+[[ru:復讐]]
+[[chr:復讐]]
+[[zh:復讐]]

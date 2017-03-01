@@ -1,0 +1,129 @@
+{{character info/new}}
+{{also|铭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=06|sn=14|four=87160|canj=CNIR|ids=⿰金名}}
+
+====Descendants====
+* [[铭]]
+
+====References====
+* {{Han ref|kx=1305.070|dkj=40385|dj=1807.170|hdz=64200.100|uh=9298|ud=37528|bh=BBCA|bd=48074}}
+
+----
+
+==Chinese==
+{{zh-forms|s=铭}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|金|alt1=釒|t1=metal|名|ls=psc|c1=s|c2=p}} – engrave in metal. Note that 名 means “name”, hence connotations of “engrave a name in metal”.
+
+===Pronunciation===
+{{zh-pron
+|m=míng
+|c=ming4,ming5
+|mc=y
+|oc=y
+|ma=
+|cat=v,n,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[inscribe]], [[engrave]]
+# [[inscription]]
+# [[unforgettably]]
+
+===Compounds===
+* {{zh-l|銘文}}
+* {{zh-l|銘傳}}
+* {{zh-l|銘傳商專}}
+* {{zh-l|銘記}}
+* {{zh-l|銘記在心}}
+* {{zh-l|銘謝}}
+* {{zh-l|銘言}}
+* {{zh-l|銘刻}}
+* {{zh-l|銘記}}
+* {{zh-l|銘牌}}
+* {{zh-l|銘感}}
+* {{zh-l|銘肌鏤骨}}
+* {{zh-l|刻骨銘心}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=金06}}
+
+# [[inscription]]
+
+====Readings====
+{{ja-readings
+|goon=[[みょう]] (myō) {{non-joyo-reading}}, {{qualifier|historical}} [[みやう]] (myau)
+|kanon=[[めい]] (mei)
+|nanori=[[たか]] (taka), [[み]] (mi), [[め]] (me)
+}}
+
+{{ja-kanjitab|めい|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=めい}} {{m|zh|銘|tr=meng||inscription}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|めい|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|めい}}
+
+# [[inscription]]
+
+====Derived terms====
+* {{ja-r|無銘|むめい}}
+* {{ja-r|太刀銘|たちめい}}
+* {{ja-r|刀銘|かたなめい}}
+* {{ja-r|刀銘|とうめい}}
+* {{ja-r|表銘|おもてめい}}
+* {{ja-r|裏銘|うらめい}}
+* {{ja-r|二字銘|にじめい}}: (''swords'') an [[inscription]] of two [[character]]s
+* {{ja-r|長銘|ながめい}}, {{ja-r|長銘|ちょうめい}}: (''swords'') an [[inscription]] that includes some personal details about the [[swordsmith]]
+* {{ja-r|受領銘|ずりょうめい}}
+* {{ja-r|折り返し銘|おりかえしめい}}
+* {{ja-r|額銘|がくめい}}: (''swords'') an [[inscription]] where a blade is shortened and a rectangular metal piece bearing the original inscription is cut out from the removed portion and [[embed]]ded in the new [[tang]]
+* {{ja-r|朱銘|しゅめい}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=명|eumhun=|rv=myeong|mr=myŏng|y=myeng}}
+
+# {{defn|lang=ko|sort=金06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=金06|hanviet=minh, triệu}}
+
+# {{defn|lang=vi|sort=金06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=9298 Nom Foundation]
+
+[[fr:銘]]
+[[ko:銘]]
+[[hu:銘]]
+[[mg:銘]]
+[[ja:銘]]
+[[pl:銘]]
+[[th:銘]]
+[[zh:銘]]

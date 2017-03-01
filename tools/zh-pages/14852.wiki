@@ -1,0 +1,107 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=50|rad=巾|as=03|sn=6|four=47210|canj=LBHNI|ids=⿰巾凡}}
+
+====References====
+* {{Han ref|kx=0328.140|dkj=08787|dj=0634.080|hdz=10730.130|uh=5E06|ud=24070|bh=A67C|bd=42620}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|颿}}
+
+===Pronunciation===
+{{zh-pron
+|m=帆
+|c=faan4
+|h=pfs=fàm
+|md=pùng/huàng
+|md_note=pùng - colloquial; huàng - literary
+|mn=phâng/hoân
+|mn_note=phâng - colloquial; hoân - literary
+|w=3ve
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[sail]]
+# [[sailboat]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Kanji===
+{{ja-kanji|grade=c|rs=巾03}}
+
+# {{defn|lang=ja|sort=巾03}}
+
+====Readings====
+{{ja-readings|goon=[[ぼん]] (bon) {{non-joyo-reading}}|kanon=[[はん]] (han)|kun=[[ほ]] (ho)}}
+
+====Compounds====
+* {{ja-r|順風満帆|じゅんぷうまんぱん}}: [[smooth sailing]]
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ほ|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|ほ|acc=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=NHK}}
+
+===Noun===
+{{ja-noun|ほ}}
+
+# {{lb|ja|sort=ほ|nautical}} [[sail]]
+
+====Derived terms====
+* {{ja-r|帆立貝|ほたてがい}}: [[scallop]]
+* {{ja-r|帆木綿|ほもめん}}: [[cotton]] [[canvas]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=범|rv=beom|mr=pŏm}}
+
+# {{defn|lang=ko|sort=巾03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[buồm]], [[buồng]], [[phàm]]|rs=巾03}}
+
+# {{defn|lang=vi|sort=巾03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5e06 Nom Foundation]
+
+[[fr:帆]]
+[[ko:帆]]
+[[li:帆]]
+[[hu:帆]]
+[[mg:帆]]
+[[ja:帆]]
+[[no:帆]]
+[[pl:帆]]
+[[pt:帆]]
+[[ru:帆]]
+[[sv:帆]]
+[[th:帆]]
+[[chr:帆]]
+[[zh:帆]]

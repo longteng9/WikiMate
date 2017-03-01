@@ -1,0 +1,51 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=76|rad=欠|as=12|sn=16|four=|canj=FFNO,XFFNO|ids=⿰焱欠}}
+
+# [[sudden]]
+
+====References====
+* {{Han ref|kx=0572.160|dkj=16202|dj=0960.150|hdz=32151.120|uh=6B58|ud=27480}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chuā,xū
+|c=fat1,caat3
+|mc=
+|oc=
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 134]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=欠12}}
+
+# {{defn|lang=ja|sort=欠12}}
+
+====Readings====
+* {{ja-readings|on=[[くつ]] (kutsu), [[くち]] (kuchi)|kun=}}
+
+[[fr:歘]]
+[[hu:歘]]
+[[pl:歘]]
+[[th:歘]]
+[[zh:歘]]

@@ -1,0 +1,107 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=7}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=28200|canj=OVIO|ids=⿰亻以}}
+
+====References====
+* {{Han ref|kx=0097.100|dkj=00485|dj=0205.160|hdz=10127.020|uh=4F3C|ud=20284|bh=A6FC|bd=42748}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|alt1=亻|t1=person|以|ls=psc|c1=s|c2=p}} – resemblance between people.
+
+===Pronunciation 1===
+{{zh-pron
+|m=sì
+|c=ci5
+|mn=qz:sǐr/tw,xm:sū/zz:sī/tw:sāi
+|mn_note=sǐr/sū/sī - literary; sāi - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=adv,con
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[like]], [[resembling]]
+#: {{zh-x|類似|similar; similar to}}
+#: {{zh-x|相{xiāng}似|similar}}
+# {{n-g|Used in conjunction with another adjective in a comparison that the first object/person is in a better position than the second.}}
+#: {{zh-x|他 的 點子{zi} 真 多，一個 好似 一個。|He has so many ideas, each one '''better than''' the next.}}
+# [[as if]]; it seems that...
+#: {{zh-x|似乎|as if}}
+
+====References====
+* (''Min Nan'') [http://twblg.dict.edu.tw/holodict_new/default.jsp Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+
+===Pronunciation 2===
+{{zh-pron
+|m=shì
+|cat=con
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|似的|like}}
+
+===Compounds===
+{{zh-der|一似|不似|不弱似|似乎|似懂非懂|似是而非|似曾相識|似水如魚|似漆如膠|似玉如花|似的|似箭如梭|似續|似醉如痴|何似|假似|光陰似水|光陰似箭|前程似錦|前途似錦|勝似|匹似|匹似閑|反不似|呆似木雞|大似|大奸似忠|大姦似忠|好似|好語似珠|如夢似幻|如幻似真|如狼似虎|如珠似玉|如痴似醉|如膠似漆|如花似月|如花似玉|如花似錦|如飢似渴|如饑似渴|如魚似水|強似|形似|得似|恰似|恰便似|悄似|情深似海|意意似似|手寫辨似|把似|撥風也似|春深似海|暴雷也似|有鬼似的|木頭似的|歸心似箭|比似|沒命似的|活似真的|渾不似|渾似|潑天也似|爭似|猴子似的|疑似|目似明星|目似點漆|相似|相似形|相似詞|眉似春山|神似|箭也似的|肖似|脣似抹硃|蠶兒似的|譬似閑|貌似|賈似道|近似|近似值|酷似|韶光似箭|類似|飛也似的}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=人05}}
+
+# [[becoming]]
+# [[resemble]]
+# [[counterfeit]]
+# [[imitate]]
+# [[suitable]]
+
+====Readings====
+* {{ja-readings|goon=[[じ]] (ji)|kanon=[[し]] (shi) {{non-joyo-reading}}|kun=[[にる]] (niru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|rv=sa|mr=sa}}
+
+# {{defn|lang=ko|sort=人05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tự]], [[tợ]], [[tựa]], [[từa]]|rs=人05}}
+
+# {{defn|lang=vi|sort=人05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f3c Nom Foundation]
+
+[[fr:似]]
+[[ko:似]]
+[[li:似]]
+[[hu:似]]
+[[mg:似]]
+[[ja:似]]
+[[no:似]]
+[[pl:似]]
+[[th:似]]
+[[uk:似]]
+[[zh:似]]

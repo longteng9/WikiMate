@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|轨}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=02|sn=9|four=54017|canj=JJKN|ids=⿰車九}}
+
+====References====
+* {{Han ref|kx=1239.060|dkj=38176|dj=1713.040|hdz=53512.040|uh=8ECC|ud=36556|bh=AD79|bd=44409}}
+
+----
+
+==Chinese==
+{{zh-forms|s=轨}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|車|九|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=guǐ
+|c=gwai2
+|mn=khúi
+|w=2kue
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[rut]]; [[wheel]] [[track]]
+# [[track]]; [[path]]
+
+====Compounds====
+{{zh-der|一軌|一軌同風|上軌道|不軌|不軌之心|並軌|儀軌|出軌|同軌|同軌同文|單軌|圖為不軌|圖謀不軌|多軌錄音|太空軌道|常軌|心存不軌|心懷不軌|所圖不軌|文軌|方軌|正軌|洪軌|無軌電車|狹軌鐵路|獨軌鐵路|異軌|磁軌|繼軌|脫軌|脫離常軌|臥軌|覆車之軌|覆車繼軌|謀圖不軌|謀為不軌|謀逆不軌|護軌|越軌|路軌|車軌|軌儀|軌制|軌則|軌外行為|軌度|軌枕|軌模|軌漏|軌範|軌距|軌跡|軌躅|軌轍|軌道|軌道交點|軌道炮|軌道電路|軌道面|軌量|軌革|遐軌|鋼軌|鏈軌|鐵軌|陰謀不軌|雙軌|音軌}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=車02}}
+
+# {{defn|lang=ja|sort=車02}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[わだち]] (wadachi), [[みち]] (michi)}}
+
+====Compounds====
+* {{ja-r|軌条|きじょう}}
+* {{ja-r|軌跡|きせき}}
+* {{ja-r|軌道|きどう}}
+* {{ja-r|軌範|きはん}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=궤|eumhun=길}}
+
+# {{defn|lang=ko|sort=車02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quỹ]], [[quẫy]], [[quĩ]]|rs=車02}}
+
+# {{defn|vi}}
+
+[[fr:軌]]
+[[ko:軌]]
+[[hu:軌]]
+[[mg:軌]]
+[[ja:軌]]
+[[pl:軌]]
+[[th:軌]]
+[[chr:軌]]
+[[zh:軌]]

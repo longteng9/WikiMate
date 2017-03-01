@@ -1,0 +1,45 @@
+{{also|竞走}}
+==Chinese==
+{{zh-forms|s=竞走}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìngzǒu
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|sports}} [[race walking]]
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|sports}} to [[race-walk]]; to compete in [[race walking]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|きょう|そう|yomi=on}}
+
+===Noun===
+{{ja-noun|きょうそう|hhira=きやうそう}}
+
+# [[race]]
+#: {{ja-usex|'''競走'''で勝った。|'''きょうそう''' で かった。|We won the race.}}
+
+===Verb===
+{{ja-verb-suru|きょうそう|hhira=きやうそう}}
+
+# to have a race
+
+====Conjugation====
+{{ja-suru|きょうそう}}
+
+[[ko:競走]]
+[[hu:競走]]
+[[mg:競走]]
+[[ja:競走]]
+[[chr:競走]]
+[[zh:競走]]

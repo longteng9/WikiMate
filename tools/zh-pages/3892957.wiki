@@ -1,0 +1,62 @@
+{{also|破绽}}
+==Chinese==
+{{zh-forms|s=破绽}}
+
+===Pronunciation===
+{{zh-pron
+|m=pòzhàn
+|c=po3 zaan6
+|mn=qz:phò͘-tiān/xm,zz:phò-tiān
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# burst, hole or tear in cloth
+# {{lb|zh|idiom}} mistake or gap in a speech or theory; flaw; weak point
+#: {{zh-x|他 不 小心 露出 了 破綻。|He wasn't careful enough to cover all the flaws (in his story/behavior/character).}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|は|たん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|はたん|y=o|acc=0|acc_ref=NHK}}
+
+===Alternative forms===
+* {{l/ja|破たん}}
+
+===Noun===
+{{ja-noun|はたん}}
+
+# [[bankruptcy]], [[ruination]]
+#: 団体の'''破綻'''
+#:: the '''ruination''' of an organization
+# [[failure]], [[breakdown]]
+#: 計画の'''破綻'''
+#:: the '''failure''' of a plan
+
+====Synonyms====
+* {{sense|failure}} {{l|ja|失敗}}
+
+====Antonyms====
+* {{sense|failure}} {{l|ja|成功}}
+
+===Verb===
+{{ja-verb-suru|はたん}}
+
+# go [[bankrupt]]; be [[ruin]]ed
+# [[fall apart]], [[fail]] (applied to a relationship or system)
+
+====Conjugation====
+{{ja-suru|はたん}}
+
+===References===
+<references/>
+
+[[ko:破綻]]
+[[mg:破綻]]
+[[ja:破綻]]
+[[chr:破綻]]

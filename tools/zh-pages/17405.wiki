@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=46927|canj=DRMS|ids=⿰木号}}
+
+====References====
+* {{Han ref|kx=0517.090|dkj=14585|dj=0905.050|hdz=21182.020|uh=67B5|ud=26549|bh=CF4A|bd=53066}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|号|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+Substrate word, possibly from a Tai-Kadai language. Compare {{cog|th|หิว||hungry}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xiāo
+|c=hiu1
+|md=ĕu/hiĕu
+|md_note=ĕu - vernacular (“hungry”); hiĕu - literary
+|mn=qz,xm,zz:hiau/iau
+|mn_note=hiau - literary; iau - vernacular
+|h=pfs=yâu
+|w=1xiau
+|mc=y
+|oc=y
+|ma=
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} [[hollow]] [[stump]] of a [[tree]]
+# {{†}} [[empty]]; [[hollow]]
+# {{†}} {{lb|zh|of silk}} [[thin]]
+# {{lb|zh|literary|or|Hakka|Min}} [[hungry]]
+
+====Synonyms====
+{{zh-dial|餓}}
+
+===Compounds===
+{{zh-der|枵腹從公|枵腹|枵腸轆轆|枵腹重趼|枵然|腹枵}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木05}}
+
+# {{defn|lang=ja|sort=木05}}
+
+====Readings====
+* {{ja-readings|on=[[きょう]] (kyō)|kun=[[うつろ]] (utsuro)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木05|hanviet=hèo}}
+
+# {{defn|lang=vi|sort=木05}}
+
+[[zh-min-nan:枵]]
+[[fr:枵]]
+[[hu:枵]]
+[[mg:枵]]
+[[pl:枵]]
+[[th:枵]]
+[[chr:枵]]
+[[zh:枵]]

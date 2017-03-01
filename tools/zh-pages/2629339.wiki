@@ -1,0 +1,67 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēngyìn
+|c=fung1 jan3
+|h=pfs=fûng-yin
+|mn=hong-ìn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[seal]] (stamp)
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|印章|印章 <br/>(synonym for 封印)}}
+{{wikipedia|Seal (emblem)}}
+[[File:Japanese_fire_prevention_manager_identity_card.jpg|thumb|250px|{{lang|ja|封印}}: a Japanese [[ink]] [[seal]]]]
+[[File:Siegel.jpg|thumb|250px|{{lang|ja|封印}}: a western-style [[wax]] [[seal]]]]
+</div>
+{{ja-kanjitab|ふう|いん|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=ふういん}} compound {{m|ltc|封印|tr=pjowng ʔjinH|lit=to enclose, to seal + stamp, seal}}. Compare modern {{etyl|cmn|-}} {{m|zh|封印|tr=fēngyìn}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|ふういん|acc=0|acc_ref=NHK,DJR,SMK5}}
+
+===Noun===
+{{ja-noun|ふういん}}
+
+# a [[seal]], such as a [[wax]] [[impression]] or [[stamped]] [[pattern]], made across the [[closure]] of an [[envelope]] or on a [[document]] for purposes of [[authentication]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|封印切|^ふういんきり}}: common name of the middle volume of the {{m|ja|浄瑠璃|tr=jōruri||[[narration]] for traditional Japanese puppet theater}} play, {{m|ja|冥途の飛脚|tr=''Meido no Hikyaku''||The Courier of Hell}}: see [[Wikipedia:The Courier for Hell]]
+* {{ja-r|封印付き|ふういん つき}}: something with a [[seal]] [[affix]]ed; something with a metaphorical [[seal of approval]]
+* {{ja-r|封印破棄罪|ふういん はきざい}}: the [[crime]] of [[break]]ing or otherwise [[invalidate|invalidating]] an [[official]] [[seal]]
+* {{ja-r|封印木|ふういん ぼく}}: ''[[Sigillaria]]'', an [[extinct]] [[genus]] of [[tree]]-like [[plant]]: see [[Wikipedia:Sigillaria]]
+{{der-bottom}}
+
+====Synonyms====
+* {{ja-r|印影|いんえい}}
+* {{ja-r|印鑑|いんかん}}
+* {{ja-r|印章|いんしょう}}
+
+===Verb===
+{{ja-verb-suru|ふういん}}
+
+# to [[apply]] a [[seal]] of [[wax]] or [[ink]] to something
+# to [[seal]] something [[shut]]
+
+====Conjugation====
+{{ja-suru|封印|ふういん}}
+
+===References===
+<references/>
+
+[[ko:封印]]
+[[mg:封印]]
+[[zh:封印]]

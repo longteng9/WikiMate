@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=pògé,er=y
+|c=po3 gaak3
+|mn=qz:phò͘-keh/tw:phòa-keh/xm:phò-keh/zz:phòa-keeh/zz:phò-kek
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[break]] the [[rule]] (to employ or admit someone)
+#: {{zh-x|破格 錄取|to grant '''special''' admission (to a university etc.)}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|は|かく|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|はかく|y=o|acc=0|acc_ref=NHK}}
+
+===Adjective===
+{{ja-adj|infl=na|はかく}}
+
+# [[exceptional]], [[special]], above average
+# [[ungrammatical]], [[poor]] (''in terms of writing'')
+
+====Inflection====
+{{ja-na|はかく}}
+
+===Noun===
+{{ja-noun|はかく}}
+
+# [[exceptionalness]]
+#: {{ja-usex|'''破格'''の待遇に喜んだ。|'''はかく''' の たいぐう に よろこんだ。|They were pleased with the exceptional hospitality.}}
+# [[solecism]]
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[zh-min-nan:破格]]
+[[fr:破格]]
+[[ko:破格]]
+[[mg:破格]]
+[[zh:破格]]

@@ -1,0 +1,95 @@
+{{character info/new}}
+{{also|苅}}
+==Translingual==
+
+===Etymology===
+{{Han_compound|刀|alt1=刂|t1=knife|乂|ls=psc|c1=s|c2=p}}
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=02|sn=4|four=42000|canj=KLN|ids=⿰㐅刂}}
+
+# [[cut off]], [[reap]], [[mow]]
+# [[sickle]]
+
+====References====
+* {{Han ref|kx=0136.100|dkj=01859|dj=0307.060|hdz=10323.070|uh=5208|ud=21000|bh=A4C2|bd=42178}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=ngaai6
+|mn=ngāi
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|刈包|刈蓍遺簪|刈鉤|刈香|剷刈|斬刈殺伐}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=刀02}}
+
+# [[reap]], [[cut]] (grass or other plants), [[prune]]
+
+====Readings====
+* {{ja-readings|on=[[がい]] (''gai''), [[かい]] (''kai'')|kun=[[かる]] ([[刈る]], ''karu'')|nanori=[[かっ]] (''kat''), [[かり]] (''kari'')}}
+
+====Compounds====
+{{top2}}
+* [[刈る]] (''karu''): cut, mow, harvest
+* [[刈り込む]] (''karikomu''): cut, dress, prune
+* [[刈り取る]] (''karitoru''): mow, reap, harvest
+* [[刈り入れ]] (''kariire''): harvest
+* [[刈り立て]] (''karitate no''): new mown, newly cut
+{{mid2}}
+* [[稲刈り]] (''inekari''): rice reaping
+* [[草刈り]] (''kusakari''): mowing, mower
+* [[丸刈り]] (''marugari''): close clipping
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=예|rv=ye|mr=ye}}
+
+# {{defn|lang=ko|sort=刀02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngãi]]|rs=刀02}}
+
+# {{defn|lang=vi|sort=刀02}}
+
+[[fr:刈]]
+[[ko:刈]]
+[[hu:刈]]
+[[mg:刈]]
+[[ms:刈]]
+[[ja:刈]]
+[[pl:刈]]
+[[th:刈]]
+[[chr:刈]]
+[[zh:刈]]

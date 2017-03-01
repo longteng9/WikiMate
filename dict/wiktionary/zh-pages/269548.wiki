@@ -1,0 +1,62 @@
+{{also|星云}}
+==Chinese==
+{{zh-forms|s=星云}}
+
+===Pronunciation===
+{{zh-pron
+|m=xīngyún
+|c=sing1 wan4
+|mn=chheⁿ-hûn/chhiⁿ-hûn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|astronomy}} [[nebula]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|せい|うん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=0|y=o|せいうん|acc_ref=NHK,DJR,SMK5}}
+
+===Noun===
+{{ja-noun|せいうん}}
+
+# {{lb|ja|astronomy|sort=せいうん}} a [[nebula]]
+#: {{ja-usex|暗%黒%'''星%雲'''|あん%こく% '''せい%うん'''|a dark '''nebula'''}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=성운}}
+
+# {{hanja form of|성운|[[nebula]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|tinh vân|[[nebula]]}}
+
+[[es:星雲]]
+[[ko:星雲]]
+[[hu:星雲]]
+[[ja:星雲]]
+[[ru:星雲]]
+[[sv:星雲]]
+[[zh:星雲]]

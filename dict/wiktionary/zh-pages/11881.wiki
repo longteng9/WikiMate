@@ -1,0 +1,96 @@
+{{character info/new}}
+{{also|匚|ㄈ|ㄷ|冖}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=23|rad=匸|as=00|sn=2|four=|canj=MV,XMV}}
+
+# [[box]]
+# {{mul-kangxi radical-def}}
+
+====References====
+* {{Han ref|kx=0154.350|dkj=02672|dj=0347.100|hdz=10081.040|uh=5338|ud=21304}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xì
+|c=hai2,hai5,wai5
+|h=pfs=hí
+|mn=hē
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|obsolete}} to [[cover]]; to [[conceal]]
+# {{lb|zh|Cantonese}} {{alternative form of|喺|lang=zh}}
+
+====References====
+* [http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
+* [http://www.chineselanguage.org/dictionaries/?mode=view&module=chardict&query=%E5%8C%B8 CCDICT (Chineselanguage.org)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=匸00}}
+
+# [[enclosure]]
+
+====Readings====
+{{ja-readings
+|goon=[[げ]] (ge)
+|kanon=[[けい]] (kei)
+}}
+
+====Usage notes====
+This character is not used on its own in Japanese. It is only used as a [[radical]] in composing other characters. The Japanese name for this radical is {{m|ja|かくしがまえ|tr=kakushigamae}}.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=혜|rv=hye|mr=hye}}
+
+# {{defn|lang=ko|sort=匸00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phương]]|rs=匸00}}
+
+# {{defn|lang=vi|sort=匸00}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5338 Nom Foundation]
+
+[[Category:CJKV radicals| ]]
+
+[[fr:匸]]
+[[ko:匸]]
+[[hu:匸]]
+[[ms:匸]]
+[[ja:匸]]
+[[pl:匸]]
+[[ru:匸]]
+[[ta:匸]]
+[[th:匸]]
+[[zh:匸]]

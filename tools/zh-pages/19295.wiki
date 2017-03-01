@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|渓|谿}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=10|sn=13|four=32134|canj=EBVK|ids=⿰氵奚}}
+
+====References====
+* {{Han ref|kx=0640.220|dkj=17967|dj=1047.120|hdz=31702.090|uh=6EAA|ud=28330|bh=B7CB|bd=47051}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|alt1=氵|奚|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xī
+|c=kai1
+|h=pfs=hâi
+|md=kă̤
+|mn=khe/khoe
+|mn_note=khe/khoe - literary; khoe - vernacular (Quanzhou, Xiamen)
+|w=1qi
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[stream]]; [[creek]]; [[brook]]; [[rivulet]]; [[rill]]
+# {{lb|zh|Min Dong}} [[unsophisticated]]; [[gauche]]; [[stupid]]
+
+====See also====
+* {{zh-l|川}}
+* {{zh-l|河}}
+* {{zh-l|江}}
+
+===Compounds===
+{{zh-der|八掌溪|大肚溪|大安溪|平溪|廣溪峽|剡溪|下淡水溪|大溪地|大溪|大甲溪|溪鴨|濂溪|溪藤|新店溪|秀姑巒溪|杉林溪|溪壑|溪客|磨針溪|礁溪鄉|磻溪|溪谷|曾文溪|濁水溪|昂昂溪|溪流|溪步|溪頭|溪澗|清溪|浣花溪|浣紗溪|竹溪六逸|苕溪|螺溪硯|若耶溪|蘭陽溪|鱷溪|霅溪|端溪|馬躍檀溪|螺溪石硯}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水10}}
+
+# {{defn|lang=ja|sort=水10}}
+
+====Readings====
+* {{ja-readings|on=[[けい]] (kei)|kun=[[たに]] (tani)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=계|eumhun=시내|rv=gye|mr=kye|y=kyey}}
+
+# {{defn|lang=ko|sort=水10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khê]], [[khe]]|rs=水10}}
+
+# {{defn|lang=vi|sort=水10}}
+
+[[fr:溪]]
+[[ko:溪]]
+[[lo:溪]]
+[[hu:溪]]
+[[mg:溪]]
+[[ja:溪]]
+[[no:溪]]
+[[pl:溪]]
+[[th:溪]]
+[[zh:溪]]

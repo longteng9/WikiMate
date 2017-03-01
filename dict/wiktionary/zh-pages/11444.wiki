@@ -1,0 +1,89 @@
+{{character info/new}}
+==Translingual==
+[[file:Benkan.jpg|thumb|200px|冕]]
+
+===Han character===
+{{Han char|rn=13|rad=冂|as=09|sn=11|four=60416|canj=ANAU|ids=⿱冃免 <small>(GTJV)</small>,⿱日免 <small>(K)</small>}}
+
+# [[crown]]
+# [[ceremonial]] [[cap]]
+
+====References====
+* {{Han ref|kx=0129.300|dkj=01545|hdz=21514.060|uh=5195|ud=20885|bh=B0C3|bd=45251}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=miǎn
+|c=min5
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|冕旒|冕服|冠冕|冠冕堂皇|冠冕衣裳|加冕|北冕座|南州冠冕|弁冕|旒冕|日冕|服冕乘軒|毳冕|沐猴冠冕|無冕王|王冕|紱冕|衛冕|袞冕|裂冠毀冕|軒冕|鷩冕|黻冕}}
+
+----
+
+==Japanese==
+
+===Noun===
+{{ja-noun|べん}}
+
+# [[crown]]
+
+====Synonyms====
+* {{l|ja|冕冠}}
+
+===Kanji===
+{{ja-kanji|grade=|rs=冂09}}
+
+====Readings====
+* {{ja-readings|on=[[べん]] ([[ben]]), [[めん]] ([[men]])|kun=[[かんむり]] ([[kammuri]])}}
+
+====Compounds====
+* [[冕冠]]
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 冕]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=면|rv=myeon|mr=myŏn}}
+
+# {{defn|lang=ko|sort=冂09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[miện]], [[mịn]]|rs=冂09}}
+
+# {{defn|lang=vi|sort=冂09}}
+
+[[fr:冕]]
+[[ko:冕]]
+[[hu:冕]]
+[[mg:冕]]
+[[ja:冕]]
+[[pl:冕]]
+[[ru:冕]]
+[[th:冕]]
+[[zh:冕]]

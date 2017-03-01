@@ -1,0 +1,102 @@
+{{character info/new}}
+{{also|胡|餬}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=119|rad=米|as=09|sn=15|four=97920|canj=FDJRB|ids=⿰米胡}}
+
+# paste, stick on with paste
+
+====References====
+* {{Han ref|kx=0911.090|dkj=27037|dj=1338.080|hdz=53154.030|uh=7CCA|ud=31946|bh=BD6B|bd=48491}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hú
+|c=wu4
+|h=pfs=
+|md=
+|mn=hô͘/khô͘/kô͘
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# A sweet dessert soup
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=米09}}
+
+# [[glue]]
+
+====Readings====
+{{ja-readings|goon=[[ご]] (go)|kanon=[[こ]] (ko)|kun=[[のり]] (nori)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|糊化|こか}}
+* {{ja-r|糊精|こせい}}: [[dextrin]]
+* {{ja-r|糊塗|こと}}
+* {{ja-r|模糊|もこ}}, {{ja-r|糢糊|もこ}}
+{{der-bottom}}
+
+{{ja-kanjitab|のり|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|のり|acc=2|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|のり}}
+
+# [[glue]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=호|eumhun=|rv=ho|mr=ho|y=ho}}
+
+# {{defn|lang=ko|sort=米09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hồ]]|rs=米09}}
+
+# {{defn|lang=vi|sort=米09}}
+
+[[fr:糊]]
+[[ko:糊]]
+[[hr:糊]]
+[[lo:糊]]
+[[li:糊]]
+[[hu:糊]]
+[[mg:糊]]
+[[ja:糊]]
+[[no:糊]]
+[[pl:糊]]
+[[th:糊]]
+[[chr:糊]]
+[[zh:糊]]

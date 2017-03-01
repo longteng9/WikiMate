@@ -1,0 +1,89 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhòngyào
+|c=zung6 jiu3
+|c-t=zuung5 yau1
+|h=pfs=chhung-yeu
+|mn=qz:tiǒng-iàu/tw,xm,zz:tiōng-iàu
+|w=3zon iau
+|ma=y
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[important]]
+#: {{zh-x|重要 的 話 要 說 三 遍。|'''Important''' things should be said three times.}}
+
+====Derived terms====
+{{zh-der|重要性|重要分子}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=on|じゅう|よう}}
+
+===Etymology===
+{{IPAchar|/djuːeu/}} → {{IPAchar|/d͡ʑuːeu/}} → {{IPAchar|/d͡ʑuːjoː/}}
+
+From {{etyl|ltc|ja|sort=じゅうよう}} compound {{m|zh|重要|tr=drjowng<sup>X</sup> ʔjiew<sup>H</sup>|lit=heavy + important}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|じゅうよう|acc=0|acc_ref=DJR}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|じゅうよう|hhira=ぢゅうえう}}
+
+# [[important]], [[significant]]
+#: {{ja-usex|あのテストは'''重要'''だ。|^あの テスト は '''じゅうよう''' だ。|That test is '''important'''.}}
+
+====Inflection====
+{{ja-na|じゅうよう}}
+
+====Synonyms====
+* {{ja-r|大切|たいせつ}}: [[important]]
+* {{ja-r|肝腎|かんじん}}: “liver and kidneys” → [[essential]], [[crucial]]
+* {{ja-r|肝要|かんよう}}: “liver important” → as important as one's liver → [[extremely]] [[important]]
+
+====Antonyms====
+* {{ja-r|些細|ささい}}: [[trifling]], [[minor]], [[trivial]]
+* {{ja-r|軽微|けいび}}: [[slight]], [[minor]], [[light]]
+
+===Noun===
+{{ja-noun|じゅうよう}}
+
+# [[importance]], [[consequence]], [[significance]]
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+:* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=중요}}
+
+# {{hanja form of|중요|importance}}
+
+[[zh-min-nan:重要]]
+[[fr:重要]]
+[[ko:重要]]
+[[lt:重要]]
+[[hu:重要]]
+[[mg:重要]]
+[[ja:重要]]
+[[ta:重要]]
+[[chr:重要]]
+[[uk:重要]]
+[[vi:重要]]
+[[zh:重要]]

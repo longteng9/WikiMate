@@ -1,0 +1,86 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Attestable in pre-Qin texts. Sense "water supply" from {{bor|zh|ja|-|notext=1}} {{ja-r|水道|すいどう}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shuǐdào
+|c=seoi2 dou6
+|h=pfs=súi-tho
+|md=cūi-dô̤
+|mn=chúi-tō
+|w=2sr dau
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[canal]]; [[ditch]]; [[water]] [[course]]; water [[way]]
+# {{lb|zh|Taiwanese Min Nan and Hakka}} [[water]] [[supply]]
+
+====Derived terms====
+{{zh-der|水道口|水道水|水道頭}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|すい|どう|yomi=on}}
+
+===Etymology===
+From [[水]] (''sui'', "water," "cold water") + [[道]] (''dō'', "passage," "duct")
+
+===Pronunciation===
+* {{ja-pron|すいどう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|すいどう}}
+
+# [[water]] [[service]], water [[supply]]
+# [[channel]]
+
+====Derived terms====
+{{top2}}
+* {{l|ja|水道屋}} (''suidōya''): plumber
+* {{l|ja|水道管}} (''suidōkan''): water pipe
+* {{l|ja|水道局}} (''suidōkyoku''): water bureau
+* {{l|ja|水道工事}} (''suidō kōji''): waterworks
+* {{l|ja|水道水}} (''suidōsui''): tap water
+* {{l|ja|水道栓}} (''suidōsen''): hydrant, faucet
+* {{l|ja|水道料}} (''suidōryō''): water rates
+{{mid2}}
+* {{l|ja|水道料金}} (''suidō ryōkin''): water charges
+* {{l|ja|水道の水}} (''suidō no sui''): tap water
+* {{l|ja|水道の栓}} (''suidō no sen''): water spigot
+* {{l|ja|下水道}} (''gesuidō''): drain, sewer
+* {{l|ja|上下水道}} (''jōgesuidō''): water and sewer services
+* {{l|ja|上水道}} (''jōsuidō''): waterworks
+* {{l|ja|中水道}} (''chūsuidō''): gray water system
+{{bottom}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|すいどう]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=수도}}
+
+# {{hanja form of|수도|water supply}}
+
+[[zh-min-nan:水道]]
+[[fr:水道]]
+[[ko:水道]]
+[[lt:水道]]
+[[li:水道]]
+[[hu:水道]]
+[[mg:水道]]
+[[ja:水道]]
+[[zh:水道]]

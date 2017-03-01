@@ -1,0 +1,99 @@
+{{also|言语}}
+==Chinese==
+{{zh-forms|s=言语}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=yányǔ
+|c=jin4 jyu5
+|h=pfs=ngièn-ngî
+|mn=xm,tp:giân-gú/qz:giân-gír/zz:gân-gí/kh:giân-gí
+|mc=1,1
+|oc=3,1;1,1
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[speech]]; [[spoken]] [[language]]
+#: {{zh-x|一 日 不 讀書，言語 無味；三 日 不 讀書，便 覺{jué} 面目可憎。|Not studying for a day, my '''speech''' becomes dull; Not studying for three days, my looks become repulsive.|CL|ref='''{{w|Song Dynasty}}''', {{w|Huang Tingjian}}}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=yányu,yányǔ,yuányu,niányu,1nb=standard in Mainland,1nc=variant in Taiwan,2nb=standard in Taiwan,3nb=colloquial Beijing dialect variant,4nb=colloquial variant from other Mandarin dialects
+|h=pfs=ngièn-ngî
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|colloquial|_|Mandarin|Hakka}} to [[speak]]; to [[say]] a word
+#: {{zh-x|他 一聲 不 言語{yu} 就 走 了。|He left without '''saying''' anything.}}
+#: {{zh-x|你 怎麼 不 言語{yu}？|Why aren't you '''saying''' anything?}}
+
+===Descendants===
+{{CJKV||げんご|언어|ngôn ngữ}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|げん|ご|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|げんご|acc=1}}
+
+===Noun===
+{{ja-noun|げんご}}
+
+# [[language]], [[speech]]
+
+====Derived terms====
+* {{ja-r|言語学|げんごがく|gloss=linguistics}}
+* {{ja-r|計算機言語|けいさんき げんご|gloss=computer language}}
+* {{ja-r|メタ言語|メタ-げんご|gloss=metalanguage}}
+* {{ja-r|多言語話者|たげんご わしゃ|gloss=polyglot}}
+
+[[Category:ja:Languages|げんご]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=언어}}
+
+# {{hanja form of|언어|[[language]]}}
+
+[[ast:言語]]
+[[zh-min-nan:言語]]
+[[bs:言語]]
+[[cs:言語]]
+[[es:言語]]
+[[fr:言語]]
+[[ko:言語]]
+[[hr:言語]]
+[[it:言語]]
+[[lo:言語]]
+[[lt:言語]]
+[[li:言語]]
+[[jbo:言語]]
+[[hu:言語]]
+[[mg:言語]]
+[[ms:言語]]
+[[fj:言語]]
+[[nl:言語]]
+[[ja:言語]]
+[[no:言語]]
+[[uz:言語]]
+[[pl:言語]]
+[[ru:言語]]
+[[th:言語]]
+[[chr:言語]]
+[[tr:言語]]
+[[uk:言語]]
+[[zh:言語]]

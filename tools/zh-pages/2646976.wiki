@@ -1,0 +1,45 @@
+{{also|音质}}
+==Chinese==
+{{zh-forms|s=音质}}
+
+===Pronunciation===
+{{zh-pron
+|m=yīn质
+|c=jam1 zat1
+|mn=im-chit
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[audio]] [[quality]]
+# [[tone]]; [[timbre]]
+
+{{zh-cat|Sound}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|おん|しつ|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=おんしつ}} compound {{m|zh|音質|tr=ʔim tsyit|lit=sound + quality}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|おんしつ|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|おんしつ}}
+
+# [[audio]] [[quality]]
+#: {{ja-usex|ステレオの'''音質'''が悪い。|^ステレオ の '''おんしつ''' が わるい。|The '''quality''' of this stereo is poor.}}
+
+===References===
+<references/>
+
+[[Category:ja:Sound|おんしつ]]
+
+[[zh-min-nan:音質]]
+[[ko:音質]]
+[[zh:音質]]

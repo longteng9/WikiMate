@@ -1,0 +1,110 @@
+{{character info/new}}
+{{also|键}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=09|sn=17|four=85140|canj=CNKQ|ids=⿰金建}}
+
+====References====
+* {{Han ref|kx=1315.140|dkj=40654|dj=1815.230|hdz=64225.070|uh=9375|ud=37749|bh=C1E4|bd=49636}}
+
+----
+
+==Chinese==
+{{zh-forms|s=键}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|金|t1=metal|alt=1釒|建|ls=psc|c1=s|c2=p}} – a metal key.
+
+===Pronunciation===
+{{zh-pron
+|m=jiàn
+|c=gin6
+|mn=kiān
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} [[door]] [[bolt]], [[lock]] bolt
+# [[key]] (in electronic devices)
+# to [[type]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=金09}}
+
+====Readings====
+* {{ja-readings|goon=[[ごん]] (gon)|kanon=[[けん]] (ken)|kun=[[かぎ]] (kagi)|nanori=}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|かぎ|acc=2|acc_ref=SMK2,NHK}}
+
+===Noun===
+{{ja-noun|かぎ}}
+
+# [[key]] {{gloss|tool for opening or locking something}}
+# [[key]]; [[clue]] {{gloss|important fact for solving something}}
+# [[lock]]
+
+{{ja-noun|けん}}
+
+# {{lb|ja|computing|sort=けん}} [[key]]
+# {{lb|ja|music|sort=けん}} [[key]]
+
+====Derived terms====
+* {{ja-r|鍵盤|けんばん}}: keyboard
+* {{ja-r|白鍵|はっけん}}: white key
+* {{ja-r|黒鍵|こっけん}}: black key
+
+====See also====
+* {{ja-r|錠|じょう}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|かぎ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=건|eumhun=|rv=geon|mr=kŏn|y=ken}}
+
+# {{defn|lang=ko|sort=金09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|kiện|rs=金09}}
+
+# {{defn|lang=vi|sort=金09}}
+
+[[fr:鍵]]
+[[ko:鍵]]
+[[it:鍵]]
+[[lo:鍵]]
+[[lt:鍵]]
+[[hu:鍵]]
+[[mg:鍵]]
+[[nl:鍵]]
+[[ja:鍵]]
+[[pl:鍵]]
+[[ru:鍵]]
+[[fi:鍵]]
+[[sv:鍵]]
+[[th:鍵]]
+[[chr:鍵]]
+[[tr:鍵]]
+[[zh:鍵]]

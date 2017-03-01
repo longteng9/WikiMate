@@ -1,0 +1,72 @@
+==Chinese==
+{{zh-forms|s=三味线}}
+
+===Pronunciation===
+{{zh-pron
+|m=sānwèixiàn
+|c=saam1 mei6 sin3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[shamisen]]
+
+====See also====
+* {{zh-l|三弦}}
+
+{{zh-cat|Musical instruments}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Shamisen}}
+[[File:ShamisenBuskerPittStreetSydney.JPG|thumb|250px|{{lang|ja|三味線}} (''shamisen'', ''samisen''): a street performer playing a '''[[shamisen]]'''.]]
+</div>
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|さ|k1=しゃ|み|せん|sort=しゃみせん}}
+Originally from {{der|ja|ryu|sort=しゃみせん|蛇皮線|tr=jabisen|lit=snakeskin strings}}, so named for the way the [[soundbox]] is traditionally covered in [[snakeskin]]. The traditional ''jabisen'' instrument was imported into the Sakai area of Osaka during the [[永禄|Eiroku]] era (1558-1570), then later modified by [[biwa]] [[luthier]]s to have the square-shaped ''shamisen'' soundbox of today.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+The reading ''jabisen'' shifted over time to ''jamisen'' ({{m|ja|蛇味線}}), replacing the {{m|ja|皮|tr=bi||skin, leather}} character with {{m|ja|味|tr=mi}} for phonetic reasons (i.e. as {{ateji|sort=しゃみせん}}). Then ''jabisen'' changed to ''shamisen'', replacing the {{m|ja|蛇|tr=ja||snake}} character with {{m|ja|三|tr=sha</i>, usually read ''san''||three}} for semantic reasons (i.e. as {{juku|sort=しゃみせん}}). The ''sha'' reading for the {{m|ja|三}} character is irregular.
+
+====Pronunciation====
+{{ja-pron|y=i|しゃみせん|acc=0|acc_ref=DJR,SMK5,NHK}}
+
+====Noun====
+{{ja-noun|しゃみせん}}
+
+# {{lb|ja|sort=しゃみせん|musical instruments}} a [[shamisen]]: a Japanese [[stringed instrument]] played by [[pluck]]ing, vaguely similar to a [[banjo]]
+
+=====Synonyms=====
+* {{sense|traditional Okinawan snakeskin shamisen}}: {{ja-r|蛇皮線|じゃびせん}}, {{ja-r|三線|さんしん}}
+* {{sense|shamisen in general}} {{ja-r|三絃|さんげん}}, {{ja-r|三弦|さんげん}}, {{ja-r|三味|しゃみ}}, {{ja-r|三味|さみ}}, {{ja-r|ぺんぺん}}
+
+===Etymology 2===
+{{ja-kanjitab|さん|k1=さ|み|せん}}
+Sound shift from ''shamisen'' above, possibly influenced by the standard ''san'' reading of the initial {{m|ja|三}} character.
+
+This reading appears to be less common than ''shamisen''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=o|さみせん|acc=0|acc_ref=DJR,SMK5}}
+
+====Noun====
+{{ja-noun|さみせん}} {{tlb|ja|uncommon}}
+
+# {{lb|ja|sort=さみせん|musical instruments}} a [[shamisen]]: a Japanese [[stringed instrument]] played by [[pluck]]ing, vaguely similar to a [[banjo]]
+
+===References===
+<references/>
+
+{{cln|ja|words with multiple readings}}
+[[fr:三味線]]
+[[ko:三味線]]
+[[li:三味線]]
+[[hu:三味線]]
+[[ja:三味線]]
+[[tr:三味線]]
+[[zh:三味線]]

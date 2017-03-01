@@ -1,0 +1,28 @@
+{{also|生產|生产}}
+==Japanese==
+{{ja-kanjitab|せい|さん|yomi=on}}
+
+===Noun===
+{{ja-noun|せいさん|kyu=生產}}
+
+# [[production]]
+# [[manufacture]]
+
+====Antonyms====
+* {{ja-r|消費|しょうひ}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|せいさん}}
+
+# [[manufacture]], [[produce]]
+#: {{ja-usex|計画通りに製品を生産できる|けいかくどおり に せいひん を せいさん できる|able to produce goods according to plan}}
+
+====Conjugation====
+{{ja-suru|せいさん}}
+
+[[ko:生産]]
+[[hu:生産]]
+[[mg:生産]]
+[[ja:生産]]
+[[chr:生産]]
+[[zh:生産]]

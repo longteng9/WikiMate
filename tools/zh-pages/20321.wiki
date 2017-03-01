@@ -1,0 +1,69 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=91|rad=片|as=09|sn=13|four=24094|canj=LLPTD,LNPTD}}
+
+# [[documents]], [[records]]
+# [[dispatch]]
+
+====References====
+* {{Han ref|kx=0694.030|dkj=19871|dj=1107.130|hdz=32017.100|uh=7252|ud=29266|bh=B7DE|bd=47070}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dié
+|c=dip6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=片09}}
+
+# {{defn|lang=ja|sort=片09}}
+
+====Readings====
+* {{ja-readings|on=[[ちょう]] (chō), [[じょう]] (jō)|kun=[[ふだ]] (fuda)}}
+
+====Compounds====
+* [[符牒]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=첩|eumhun=|rv=cheop|mr=ch'ŏp|y=chep}}
+
+# {{defn|lang=ko|sort=片09}}
+
+[[fr:牒]]
+[[ko:牒]]
+[[mg:牒]]
+[[ja:牒]]
+[[pl:牒]]
+[[th:牒]]
+[[zh:牒]]

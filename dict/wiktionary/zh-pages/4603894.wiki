@@ -1,0 +1,55 @@
+==Japanese==
+
+===Etymology 1===
+{{wikipedia|lang=ja|ばね}}
+{{ja-kanjitab|yomi=irr|sort=はね'}}
+The kanji are [[jukujikun]]. This term is usually written in hiragana; the kanji spelling is rarely seen.
+
+{{etystub|lang=ja}}
+
+====Alternative forms====
+* {{ja-l|撥条}}; {{ja-l|弾機}}
+
+====Pronunciation====
+{{ja-pron|ばね|acc=a|acc_ref=DJR,NHK|y=i}}
+
+====Noun====
+{{ja-noun|kyu=發條|ばね}}
+
+# [[spring]] {{gloss|device made of flexible material}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|sort=せんまい'}}
+{{rfe|lang=ja|Is it [[cognate]] with {{m|ja|薇|tr=zenmai||Japanese flowering fern}}?}}
+
+====Alternative forms====
+* {{ja-l|撥条}}
+
+====Pronunciation====
+{{ja-pron|ぜんまい|acc=h|acc_ref=DJR,NHK|y=i}}
+* {{homophone|lang=ja|sort=せんまい'|薇|紫萁}}
+
+====Noun====
+{{ja-noun|kyu=發條|ぜんまい}}
+
+# [[spring]] {{gloss|device made of flexible material}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=o|はつ|じょう}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|はつじょう|acc=h|acc2=2|y=o|acc_ref=DJR,SMK5|acc2_ref=DJR,SMK5}}
+
+====Noun====
+{{ja-noun|kyu=發條|はつじょう|hhira=はつでう}}
+
+# [[spring]] {{gloss|device made of flexible material}}
+
+===References===
+<references/>
+
+[[ko:発条]]
+[[mg:発条]]
+[[ja:発条]]
+[[sv:発条]]

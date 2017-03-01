@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiēdì
+|c=zip3 dei6
+|mn=chiap-tē/chiap-tōe
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|electronics}} to make a [[ground]] [[connection]]
+
+====Derived terms====
+{{zh-der|接地線}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|k1=せっ|せつ|ち|yomi=on}}
+
+===Noun===
+{{ja-noun|せっち}}
+
+# [[landing]] an airplane etc.
+# [[earth]], [[ground]] {{gloss|electrical connection}}
+
+===Verb===
+{{ja-verb-suru|せっち}}
+
+# [[land]]
+# make a ground connection
+
+====Conjugation====
+{{ja-suru|せっち}}
+
+[[mg:接地]]
+[[chr:接地]]
+[[zh:接地]]

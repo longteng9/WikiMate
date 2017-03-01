@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=05|sn=8|four=41120|canj=GMNR|ids=⿰土可}}
+
+# [[clod]] of [[earth]], [[lump]] of [[soil]]
+
+====References====
+* {{Han ref|kx=0226.380|dkj=04994|dj=0462.160|hdz=10429.160|uh=5777|ud=22391|bh=A956|bd=43350}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kě
+|c=ho2,ho1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|命途坎坷|坎坷|坷垃}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土05}}
+
+# {{defn|lang=ja|sort=土05}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=가|rv=ga|mr=ka}}
+
+# {{defn|lang=ko|sort=土05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kha]], [[khá]], [[khú]]|rs=土05}}
+
+# {{defn|lang=vi|sort=土05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5777 Nom Foundation]
+
+[[fr:坷]]
+[[li:坷]]
+[[hu:坷]]
+[[mg:坷]]
+[[no:坷]]
+[[pl:坷]]
+[[th:坷]]
+[[zh:坷]]

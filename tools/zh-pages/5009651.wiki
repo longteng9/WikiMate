@@ -1,0 +1,27 @@
+{{also|静鸡鸡}}
+==Chinese==
+{{zh-forms|s=静鸡鸡}}
+{{was fwotd|2016|April|15|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|c=zing6 gai1 gai1
+|cat=adv
+}}
+
+===Adverb===
+{{zh-adv}}
+
+# {{lb|zh|Cantonese}} [[stealthily]], [[quietly]], [[in secret]], [[secretively]]
+#* {{quote-book
+|year=2015
+|author=堂前燕
+|title=黑眼睛
+|url=https://books.google.com/books?id=1EJ3CgAAQBAJ&lpg=PT204&dq=%22%E9%9D%9C%E9%9B%9E%E9%9B%9E%22&pg=PT204#v=onepage&q=%22%E9%9D%9C%E9%9B%9E%E9%9B%9E%22&f=false
+|isbn=9789888288687
+|page=202
+|publisher=日閱堂
+}}
+#*: {{zh-x|第二 日 起身 返工，一個 月 後 無 咗 件 事，一 年 後 政府 靜雞雞 把 議案{on3} 通過，到頭來 一切 都 沒有 改變 過。|On the second day, I got up and went to work; after one month the matter had disappeared, after one year the government '''silently''' passed the motion; in the end nothing changed.|C}}
+
+[[Category:Chinese reduplications]]

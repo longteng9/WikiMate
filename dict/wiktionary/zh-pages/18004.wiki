@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=11|sn=15|four=43950|canj=DIHF|ids=⿰木戚}}
+
+# [[maple]]
+
+====References====
+* {{Han ref|kx=0547.120|dkj=15369|dj=0935.100|hdz=21278.030|uh=69ED|ud=27117|bh=BCD8|bd=48344}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qī
+|c=cik1,zuk1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|槭糖漿|槭樹|歐亞槭|大槭樹}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木11}}
+
+# {{defn|lang=ja|sort=木11}}
+
+====Readings====
+* {{ja-readings|on=[[しゅく]] (shuku), [[さく]] (saku), [[しゃく]] (shaku)|kun=[[かえで]] (kaede)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[색]], [[축]]|eumhun=|rv=saek, chuk|mr=saek, ch'uk|y=sayk, chwuk}}
+
+# {{defn|lang=ko|sort=木11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sắc]], [[túc]]|rs=木11}}
+
+# {{defn|lang=vi|sort=木11}}
+
+[[fr:槭]]
+[[hu:槭]]
+[[mg:槭]]
+[[ja:槭]]
+[[pl:槭]]
+[[th:槭]]
+[[zh:槭]]

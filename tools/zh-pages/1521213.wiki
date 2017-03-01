@@ -1,0 +1,57 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bàoyǔ
+|c=bou6 jyu5
+|h=pfs=phau-yí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+# [[cloudburst]], sudden heavy [[rainstorm]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|暴|雨}}
+
+===Etymology 1===
+Compound of {{compound|群|tr1=mura|t1=gather|雨|tr2=same|t2=rain|lang=ja}}. Literally rain that falls when clouds gather together.
+
+====Noun====
+{{ja-noun|むらさめ}}
+
+# a sudden rain
+#* {{RQ:Wamyō Ruijushō|1|26}}
+#*: '''暴雨''' 楊氏漢語抄云、白雨、和名'''无良佐女''' [...]
+
+====Alternative forms====
+* {{l|ja|群雨}}
+* {{l|ja|叢雨}}
+* {{l|ja|村雨}}
+
+===Etymology 2===
+Compound of {{compound|速|tr1=haya|t1=fast|雨|tr2=same|t2=rain|lang=ja}}.
+
+====Noun====
+{{ja-noun|はやさめ}}
+
+# a sudden and strong rain
+
+====Alternative forms====
+* {{l|ja|速雨}}
+
+===References===
+* {{R:Wamyō Ruijushō}}
+
+[[Category:ja:Rain|むらさめ]]
+
+[[ko:暴雨]]
+[[hu:暴雨]]
+[[ja:暴雨]]
+[[pt:暴雨]]
+[[ru:暴雨]]
+[[zh:暴雨]]

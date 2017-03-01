@@ -1,0 +1,65 @@
+{{also|馅饼}}
+==Chinese==
+{{zh-forms|s=馅饼}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiànbǐng,xiànrbǐng,2nb=Erhua variant
+|c=haam6-2 beng2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun|mw=塊|mw2=張}}
+
+# [[traditional]] [[Chinese]] [[meat]] [[pie]]
+# any kind of [[pie]] or [[pasty]]
+
+====Derived terms====
+{{zh-der|蘋果餡餅|櫻桃餡餅}}
+
+{{zh-cat|Foods}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+<div style="float:right;">
+[[File:Daifuku_1.jpg|thumb|250px|{{lang|ja|餡餅}} (''anmochi''): a pair of [[daifuku]], a kind of '''[[anmochi]]'''.]]
+</div>
+{{ja-kanjitab|yomi=j|あん|もち}}
+Compound of {{compound|lang=ja|sort=あんもち|餡|tr1=an|t1=sweet azuki bean paste|餅|tr2=mochi|t2=mochi, pounded sweet-rice dough}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=j|あんもち|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR|acc3=3|acc3_ref=DJR}}
+
+====Alternative forms====
+{{ja-l|あん餅}}
+
+====Noun====
+{{ja-noun|あんもち}}
+
+# [[anmochi]]: [[mochi]] (a dough made from pounded sweet rice) [[stuffed]] with [[anko]] (sweet red bean paste)
+
+=====Synonyms=====
+* {{ja-l|大福|だいふく}}, {{ja-l|大福餅|だいふく もち}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|あん|も}}
+A [[baby talk|baby-talk]] contraction of ''anmochi'' above.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=irr|あんも}}
+
+====Noun====
+{{ja-noun|あんも}}
+
+# {{lb|ja|sort=あんも|childish}} [[anmochi]]: [[mochi]] (a dough made from pounded sweet rice) [[stuffed]] with [[anko]] (sweet red bean paste)
+
+===References===
+<references/>
+
+[[zh-min-nan:餡餅]]
+[[chr:餡餅]]
+[[zh:餡餅]]

@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=04|sn=8|four=47915|canj=DNG|ids=⿰木丑}}
+
+====References====
+* {{Han ref|kx=0514.070|dkj=14512|dj=0901.110|hdz=21175.070|uh=677B|ud=26491|bh=CCD8|bd=52440}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chǒu,niǔ
+|c=cau2,lau2,nau2
+|mc=y
+|oc=y
+|ma=
+|cat=pn,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# ''[[w:Ligustrum sinense|Ligustrum sinense]]'' (Chinese [[privet]]) — a [[kind]] of [[shrub]] or [[small]] [[tree]]
+# [[handcuffs]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木04}}
+
+# {{defn|lang=ja|sort=木04}}
+
+====Readings====
+* {{ja-readings|on=[[ちゅう]] (chū), [[ちゅ]] (chu), [[しゅう]] (shū), [[にゅ]] (nyu)|kun=[[てかせ]] (tekase)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[뉴]]>[[유]], [[추]]|eumhun=|rv=nyu>yu, chu|mr=nyu>yu, ch'u|y=nyu>yu, chwu}}
+
+# {{defn|lang=ko|sort=木04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木04|hanviet=nữu}}
+
+# {{defn|lang=vi|sort=木04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=677b Nom Foundation]
+
+[[fr:杻]]
+[[hu:杻]]
+[[pl:杻]]
+[[th:杻]]
+[[zh:杻]]

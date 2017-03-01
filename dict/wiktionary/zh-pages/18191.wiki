@@ -1,0 +1,48 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=13|sn=17|four=48936|canj=DYTU,XXDYT|ids=⿰木道}}
+
+# {{defn|Han|sort=木13}}
+
+====References====
+* {{Han ref|kx=0557.230|dkj=15688|hdz=21305.060|uh=6AA4|ud=27300|bh=ED43|bd=60739}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=[[dou6]]|y=dou6}}
+
+# {{defn|lang=yue|sort=木13}}
+
+====References====
+*[http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 133]
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[dào]] ([[dao4]])|wg=tao<sup>4</sup>}}
+
+# {{defn|lang=cmn|sort=木13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木13| hanviet = gạo}}
+
+# {{defn|lang=vi|sort=木13}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6aa4 Nom Foundation]
+
+[[fr:檤]]
+[[pl:檤]]
+[[th:檤]]
+[[zh:檤]]

@@ -1,0 +1,65 @@
+{{also|音响}}
+==Chinese==
+{{zh-forms|s=音响}}
+
+===Pronunciation===
+{{zh-pron
+|m=yīnxiǎng
+|c=jam1 hoeng2
+|h=pfs=yîm-hióng
+|mn=qz,tw,xm:im-hióng/twv,zz:im-hiáng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Advanced Mandarin}} [[sound]]; [[acoustics]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|おん|きょう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|おんきょう|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|おんきょう|hhira=おんきやう}}
+
+# [[sound]]
+
+====Derived terms====
+* {{ja-r|音響学|おんきょうがく}}
+* {{ja-r|音響量子|おんきょうりょうし|[[phonon]]}}
+
+===References===
+<references/>
+
+[[Category:ja:Music|おんきよう]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=음향}}
+
+# {{hanja form of|음향|[[sound]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|âm hưởng|[[sound]]; [[acoustics]]}}
+
+[[ko:音響]]
+[[hu:音響]]
+[[mg:音響]]
+[[ja:音響]]
+[[zh:音響]]

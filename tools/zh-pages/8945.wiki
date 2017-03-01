@@ -1,0 +1,208 @@
+{{character info/new}}
+{{also|伺|向|同|回}}
+==Translingual==
+{{stroke order|type=bw}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=21220|canj=OMNR|ids=⿰亻可}}
+
+====References====
+* {{Han ref|kx=0098.150|dkj=00511|dj=0208.050|hdz=10130.040|uh=4F55|ud=20309|bh=A6F3|bd=42739}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{liushu|p}}: a man carrying something.
+
+===Pronunciation 1===
+{{zh-pron
+|m=hé
+|m-s=ho2
+|c=ho4
+|h=
+|mn=ôa/hô
+|mn_note=ôa - vernacular, hô - literary
+|w=
+|mc=y
+|oc=y
+|ma=
+|cat=adv,det,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|interrogative pronoun asking for the specification of an identity, quantity, quality, etc. of something}} [[what]]; [[which]]
+#: {{zh-x|何處|[[where]] [lit. '''what''' place]}}
+#: {{zh-x|何日|what day; when}}
+#* {{zh-x|王 曰：“何 謂 朝 雲？”|The king said, "'''What''' is this so-called 'Morning Clouds'?"|CL|ref={{lang|zh|宋玉《高唐賦》}}}}
+# {{lb|zh|interrogative pronoun asking for reason, manner, etc. of an action}} [[why]]; [[how]]
+#: {{zh-x|何必|'''why''' must you}}
+#: {{zh-x|何不|'''why''' not}}
+#* {{zh-x|亦 何 憂 令名 不 彰 邪？|'''Why''' do you worry about being not famous?|CL|ref={{lang|zh|劉義慶《世說新語·自新》}}}}
+# {{†}} {{lb|zh|forming emphatic sentences}} [[so]]; [[such]]; [[what]]; [[how]]
+#* {{zh-x|秦皇 掃 六 合，虎視 何 雄 哉。|Qin Shi Huang conquered the six kingdoms with a sweeping victory. '''How''' great he is when he unified the world and looked down upon it.|CL|ref={{lang|zh|李白《古風》}}}}
+# {{surname|lang=zh}}
+
+=====Synonyms=====
+{{zh-dial|什麼}}
+
+====Descendants====
+* {{qualifier|Hokkien dialect}} Tagalog: {{l|tl|Ho}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=hè
+|c=ho6
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{zh-original|*荷|to carry}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=hē
+|c=ho1
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{zh-original|*呵|to scold; to criticise; to denounce}}
+
+===Compounds===
+{{zh-der|不奈何|不知何故|今夕何夕|任何|何不|何之|何事|何人|何人斯|何仙姑|何以|何以克當|何以見得|何休|何似|何但|何傷|何其|何則|何功之有|何去何從|何哉|何啻|何嘗|何在|何堪|何如|何如帖|何妨|何居|何常|何干|何年何月|何彼襛矣|何得|何從|何德何能|何必|何意|何所不為|何承天|何故|何敢|何方|何時|何晏|何景明|何曾|何有|何期|何極|何樂不為|何止|何氏語林|何況|何消|何消說|何滿子|何為|何焯|何物|何用|何由|何當|何種|何等|何紹基|何罪之有|何者|何聊賴|何與|何若|何苦|何苦來|何草不黃|何處|何見之晚|何許|何許人|何謂|何賈|何足|何足掛齒|何足為奇|何足算|何足道哉|何進|何遜|何關|何須|何預|何首烏|何鼓|傅粉何郎|噬臍何及|因何|奈何|奈何橋|如之奈何|如何|如何是好|干卿何事|幾何|幾何圖形|幾何圖案|幾何學|幾何級數|弋人何篡|弋者何慕|弋者何篡|後悔何及|從何說起|悔之何及|情何以堪|成何體統|方何礙|於何|於心何忍|日飲亡何|春秋幾何|更待何時|曾幾何時|有何不可|末奈何|末如之何|末耐何|柰何|沒及奈何|沒奈何|沒極奈何|沒計奈何|為何|無何|無可奈何|無可如何|無奈我何|無如之何|無如奈何|無計奈何|無論如何|百身何贖|相煎何急|立體幾何|緣何|而何|若何|莫可奈何|莫敢誰何|蕭何|解析幾何|該當何罪|誰何|談何容易|譴何|追悔何及}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=人05}}
+
+# [[what]]
+
+====Readings====
+* {{ja-readings
+|goon=[[が]] (ga) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[か]] (ka)
+|kun=[[なに]] (nani), [[なん]] (nan), [[いず]] (izu), [[あが]] (aga)}}
+
+====Compounds====
+* [[如何]], [[奈何]]
+* [[幾何]]
+* [[誰何]]
+* [[何々]], [[何何]]
+* [[何事]]
+* [[何卒]]
+* [[何共]]
+* [[何人]]
+* [[何等]]
+* [[何程]]
+* [[何箇]]
+* [[何回]]
+* [[何故]]
+* [[何歳]], [[何才]]
+* [[何時]]
+* [[何者]]
+* [[何処]]
+* [[何条]]
+* [[何色搨]]
+* [[何点]]
+* [[何度]]
+* [[何奴]]
+* [[何物]]
+* [[何分]]
+* [[何遍]]
+* [[何某]]
+* [[何様]]
+
+===Interjection===
+{{ja-kanjitab|なに|yomi=k}}
+{{ja-pos|interjection|なに}}
+
+# What?, Huh?
+
+===Pronoun===
+{{ja-kanjitab|なん|yomi=k}}
+{{ja-pos|pronoun|なに}} {{ja-altread|hira=なん}}
+
+# [[what]]
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|92}}
+#*: 汝何所爲 '''奈尓'''世牟止曽
+# that thing (used in place of words you can't remember at the moment.)
+
+====Derived terms====
+{{der-top}}
+* {{l|ja|何か}}
+* {{l|ja|何かしら}}
+* {{l|ja|何しろ}}
+{{der-mid}}
+* {{l|ja|何せ}}
+* {{l|ja|何たる}}
+* {{l|ja|何も}}
+{{der-bottom}}
+
+===See also===
+* {{ja-r|何れ|どれ}} which one?
+* {{ja-r|何の|どの}} (of) what?
+* {{ja-r|何処|どこ}} where?
+* {{ja-r|何方|どちら}} which way?
+* {{ja-r|如何|どう}} in what manner?
+
+===References===
+* {{Shin'yaku Kegonkyō Ongi Shiki}}
+
+[[Category:Japanese interrogative pronouns]]
+[[Category:Japanese basic words]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=하|rv=ha|mr=ha}}
+
+# {{defn|lang=ko|sort=人05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hà]], [[gã]]|rs=人05}}
+
+# {{defn|lang=vi|sort=人05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f55 Nom Foundation]
+
+[[zh-min-nan:何]]
+[[et:何]]
+[[fr:何]]
+[[ko:何]]
+[[it:何]]
+[[lo:何]]
+[[li:何]]
+[[hu:何]]
+[[mg:何]]
+[[fj:何]]
+[[nl:何]]
+[[ja:何]]
+[[no:何]]
+[[pl:何]]
+[[pt:何]]
+[[fi:何]]
+[[sv:何]]
+[[th:何]]
+[[chr:何]]
+[[uk:何]]
+[[zh:何]]

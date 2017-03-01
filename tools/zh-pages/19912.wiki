@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=06|sn=10|four=97864|canj=FHER}}
+
+# [[brand]], [[burn]]
+# branding iron
+
+====References====
+* {{Han ref|kx=0670.180|dkj=19014|dj=1079.100|hdz=32200.160|uh=70D9|ud=28889|bh=AF4F|bd=44879}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lào
+|c=lok3,lok6
+|mn=lō
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|烙印|烙燒餅|烙餅|烙花|烙鐵|炮烙之刑|炮烙|烙鐵印兒}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火06}}
+
+# {{defn|lang=ja|sort=火06}}
+
+====Readings====
+* {{ja-readings|on=[[らく]] (raku), [[かく]] (kaku)|kun=[[やく]] (yaku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[락]]>[[낙]]|eumhun=|rv=rak>nak|mr=rak>nak|y=lak>nak}}
+
+# to [[burn]]
+# to [[brand]]
+
+====Synonyms====
+* {{l|ko|燒}} (소, ''so'')
+* {{l|ko|焠}} (쉬, ''swi'')
+* {{l|ko|灼}} (작, ''jag'')
+
+====Compounds====
+* [[烙印]] ([[낙인]], ''nag-in'') [[brand]], [[branding iron]]
+
+[[fr:烙]]
+[[ko:烙]]
+[[hu:烙]]
+[[mg:烙]]
+[[ja:烙]]
+[[no:烙]]
+[[pl:烙]]
+[[th:烙]]
+[[zh:烙]]

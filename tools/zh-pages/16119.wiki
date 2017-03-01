@@ -1,0 +1,94 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=8}}
+
+===Han character===
+{{Han char|rn=64|rad=手|as=05|sn=8|four=57062|canj=QSHR|ids=⿰扌召}}
+
+# [[beckon]], [[summon]]
+# [[recruit]], [[levy]]
+
+====References====
+* {{Han ref|kx=0427.010|dkj=11968|dj=0775.050|hdz=31860.070|uh=62DB|ud=25307|bh=A9DB|bd=43483}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|alt1=扌|t1=hand|召|ls=psc|c1=s|c2=p}} – to beckon with the hand.
+
+===Pronunciation===
+{{zh-pron
+|m=zhāo,qiáo
+|ma=zh-zhao.ogg
+|c=ziu1
+|h=pfs=chêu
+|md=
+|mn=qz,tw,xm,zz:chiau/qz,tw,xm,zz:chio
+|mn_note=chiau - literary; chio - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=v,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[beckon]]
+# to [[recruit]]
+# classifier for moves or blows (especially in martial arts)
+
+====Compounds====
+{{zh-der|招呼|招牌}}
+
+{{zh-cat|Intermediate|Martial arts}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=手05}}
+
+# beckon
+
+====Readings====
+{{ja-readings|goon=[[しょう]] (shō)|kanon=[[しょう]] (shō)|kun=[[まねく]] (maneku), [[まねき]] (maneki)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|招来|しょうらい}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[초]], [[교]]|eumhun=|rv=cho, gyo|mr=ch'o, kyo|y=cho, kyo}}
+
+# {{defn|lang=ko|sort=手05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chiêu]], [[cheo]], [[gieo]], [[treo]], [[chạo]], [[chắp]], [[chiu]], [[giẹo]], [[reo]]|rs=手05}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:招]]
+[[fr:招]]
+[[ko:招]]
+[[hu:招]]
+[[mg:招]]
+[[ja:招]]
+[[no:招]]
+[[pl:招]]
+[[th:招]]
+[[zh:招]]

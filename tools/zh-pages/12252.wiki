@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=05|sn=8|four=62072|canj=RUU|ids=⿰口出}}
+# [[noise]] of [[rage]], [[cry]] out in [[anger]]
+
+====References====
+* {{Han ref|kx=0184.070|dkj=03480|dj=0403.060|hdz=10609.100|uh=5484|ud=21636|bh=A946|bd=43334}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=duò
+|c=deot1,zyut3,cyut3
+|h=pfs=tot
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|咄咄|咄咄怪事|咄咄逼人|咄唶|咄嗟|咄嗟便辦|咄嗟可辦|咄嗟而辦|囊囊咄咄|書空咄咄}}
+
+===References===
+* {{R:twedu|A00549}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口05}}
+
+# [[talk]], [[speech]], [[conversation]], [[tale]]
+
+====Readings====
+* {{ja-readings|on=[[とつ]] (totsu)|kun=[[しかる]] (shikaru), [[はなし]] (hanashi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=돌|rv=dol|mr=tol}}
+
+# {{defn|lang=ko|sort=口05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=口05|hanviet=xót}}
+
+# {{defn|lang=vi|sort=口05}}
+
+[[fr:咄]]
+[[ko:咄]]
+[[li:咄]]
+[[hu:咄]]
+[[mg:咄]]
+[[ja:咄]]
+[[no:咄]]
+[[pl:咄]]
+[[th:咄]]
+[[zh:咄]]

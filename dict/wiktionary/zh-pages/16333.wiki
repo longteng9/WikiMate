@@ -1,0 +1,94 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=08|sn=11|four=53011|canj=QJCM|ids=⿰扌空}}
+
+# [[accuse]], [[charge]]
+# to [[control]]
+
+====References====
+* {{Han ref|kx=0439.070|dkj=12283|dj=0789.070|hdz=31906.090|uh=63A7}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kòng
+|c=hung3
+|h=pfs=
+|md=
+|mn=qz,tw,xm,zz:khàng/qz,tw,xm,zz:khòng
+|mn_note=khàng - vernacular; khòng - literary
+|w=
+|mc=y
+|oc=y
+|cat=v,suf
+}}
+
+===Etymology 1===
+{{rfe|lang=zh}}
+
+====Verb====
+{{zh-verb}}
+
+# {{rfdef|lang=zh}}
+
+===Etymology 2===
+From {{etyl|ja|zh}} {{m|ja|コン|tr=kon|pos=abbreviation of {{m|ja|コンプレックス}} ''konpurekkusu''}}, from {{etyl|en|zh}} {{m|en|complex}}.
+
+====Suffix====
+{{zh-suf}}
+
+# {{lb|zh|ACG|internet slang}} [[-lover]]; [[-phile]]
+#: {{zh-x|巨乳 控|someone who likes large breasts}}
+
+=====Compounds=====
+{{zh-der|蘿莉控|妹控|兄控|大叔控}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=手08}}
+
+# {{defn|lang=ja|sort=手08}}
+
+====Readings====
+* {{ja-readings|goon=[[くう]] (kū) {{non-joyo-reading}}|kanon=[[こう]] (kō)|kun=[[ひかえる]] (hikaeru), [[ひかえ]] (hikae)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[공]], [[강]]|eumhun=|rv=gong, gang|mr=kong, kang|y=kong, kang}}
+
+# {{defn|lang=ko|sort=手08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|khống|rs=手08}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:控]]
+[[fr:控]]
+[[ko:控]]
+[[hu:控]]
+[[mg:控]]
+[[ja:控]]
+[[no:控]]
+[[pl:控]]
+[[th:控]]
+[[zh:控]]

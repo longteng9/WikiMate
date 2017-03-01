@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|咽}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=16|sn=19|four=64031|canj=RTLF|ids=⿰口燕}}
+
+# [[swallow]], [[gulp]]
+
+====References====
+* {{Han ref|kx=0213.180|dkj=04545|dj=0435.440|hdz=10701.150|uh=56A5|ud=22181|bh=C360|bd=50016}}
+
+----
+
+==Chinese==
+{{zh-forms|s=咽}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yàn
+|c=jin3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|狼吞虎嚥/狼吞虎咽}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口16}}
+
+# {{defn|lang=ja|sort=口16}}
+
+====Readings====
+* {{ja-readings|on=[[えん]] (en)|kun=[[のむ]] (nomu), [[のど]] (nodo)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=연|rv=yeon|mr=yŏn}}
+
+# {{defn|lang=ko|sort=口16}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[yết]], [[en]], [[ẻn]]|rs=口16}}
+
+# {{defn|vi}}
+
+[[fr:嚥]]
+[[li:嚥]]
+[[hu:嚥]]
+[[ja:嚥]]
+[[pl:嚥]]
+[[th:嚥]]
+[[zh:嚥]]

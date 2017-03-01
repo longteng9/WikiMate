@@ -1,0 +1,62 @@
+{{also|前置词}}
+==Chinese==
+{{zh-forms|s=前置词|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiánzhìcí
+|c=cin4 zi3 ci4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[preposition]]
+
+====Synonyms====
+* {{zh-l|介詞}}
+
+{{zh-cat|Grammar}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぜん|ち|し|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ぜんちし|acc=3|acc_ref=DJR,NHK,SMK5|y=o}}
+
+===Noun===
+{{ja-noun|ぜんちし}}
+
+# {{lb|ja|part of speech|sort=せんちし'}} [[preposition]]
+
+====Antonyms====
+* {{ja-r|後置詞|こうちし|gloss=[[postposition]]}}
+
+===See also===
+* {{ja-r|介詞|かいし}}: (''Chinese grammar'') [[preposition]]
+
+===References===
+<references/>
+* {{R:Kojien}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=전치사}}
+
+# {{hanja form of|전치사|[[preposition]]}}
+
+[[cs:前置詞]]
+[[fr:前置詞]]
+[[ko:前置詞]]
+[[it:前置詞]]
+[[mg:前置詞]]
+[[ja:前置詞]]
+[[sv:前置詞]]
+[[zh:前置詞]]

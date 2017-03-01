@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|亏}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=141|rad=虍|as=11|sn=15|four=21227|canj=YGMMS|ids=⿰⿸虍隹亏}}
+
+====References====
+* {{Han ref|kx=1075.420|dkj=32770|dj=1544.220|hdz=42830.140|uh=8667|ud=34407|bh=C1AB|bd=49579}}
+
+----
+
+==Chinese==
+{{zh-forms|s=亏}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kuī
+|c=kwai1
+|mn=khui
+|mc=y
+|oc=y
+|ma=
+|cat=v,n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[lose]], [[fail]]
+# [[damage]]
+# [[deficient]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虍11}}
+
+# {{defn|lang=ja|sort=虍11}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[かける]] (kakeru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=휴|eumhun=|rv=hyu|mr=hyu|y=hyu}}
+
+# {{defn|lang=ko|sort=虍11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khuy]], [[khuya]], [[khuây]]|rs=虍11}}
+
+# {{defn|lang=vi|sort=虍11}}
+
+[[fr:虧]]
+[[ko:虧]]
+[[hu:虧]]
+[[mg:虧]]
+[[ja:虧]]
+[[pl:虧]]
+[[th:虧]]
+[[zh:虧]]

@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=12|sn=15|four=41117|canj=GYPC,GYPM|ids=⿰土虚}}
+
+# [[high]] [[mound]]
+# [[hilly]] [[countryside]]
+# [[wasteland]]
+
+====References====
+* {{Han ref|kx=0238.280|dkj=05457|dj=0477.130|hdz=10479.120|uh=589F|ud=22687|bh=BC56|bd=48214}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xū
+|c=heoi1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|墟落|墟墓|墟市|廢墟|宗廟丘墟|墟里|丘墟|殷墟|社稷為墟|破墟|殷墟書契|村墟|殷墟卜辭|歸墟|華屋丘墟|趁墟|趕墟}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土12}}
+
+# {{defn|lang=ja|sort=土12}}
+
+====Readings====
+* {{ja-readings|goon=[[こ]] (ko)|kanon=[[きょ]] (kyo)|kun=[[あと]] (ato)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=허|rv=heo|mr=hŏ}}
+
+# {{defn|lang=ko|sort=土12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hư]], [[khư]]|rs=土12}}
+
+# {{defn|lang=vi|sort=土12}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=589f Nom Foundation]
+
+[[zh-min-nan:墟]]
+[[fr:墟]]
+[[li:墟]]
+[[hu:墟]]
+[[mg:墟]]
+[[ja:墟]]
+[[no:墟]]
+[[pl:墟]]
+[[th:墟]]
+[[zh:墟]]

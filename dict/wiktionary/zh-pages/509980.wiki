@@ -1,0 +1,49 @@
+{{also|钝角}}
+==Chinese==
+{{zh-forms|s=钝角}}
+
+===Pronunciation===
+{{zh-pron
+|m=dùnjiǎo
+|c=deon6 gok3
+|mn=tūn-kak
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[obtuse angle]] {{gloss|angle that is greater than 90 degrees and less than 180 degrees}}
+
+====Antonyms====
+* {{zh-l|锐角}}
+
+{{zh-cat|Geometry}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|どん|かく|yomi=o}}
+
+===Noun===
+{{ja-noun|どんかく}}
+
+# {{lb|ja|geometry}} [[obtuse]] [[angle]]
+
+====Antonyms====
+* {{ja-r|鋭角|えいかく|gloss=[[acute]] angle}}
+
+====Compounds====
+* {{ja-r|鈍角三角形|どんかく さんかっけい|gloss=obtuse triangle}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Geometry|とんかく']]
+
+[[cs:鈍角]]
+[[ko:鈍角]]
+[[hu:鈍角]]
+[[mg:鈍角]]
+[[ja:鈍角]]
+[[zh:鈍角]]

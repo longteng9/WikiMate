@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=mièměng
+|c=mit6 mung5
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[midge]]
+
+{{zh-cat|Dipterans}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=irr|sort=まくなぎ}}
+
+===Pronunciation===
+{{ja-pron|yomi=irr|まくなぎ}}
+
+===Noun===
+{{ja-noun|まくなぎ}}
+
+# a kind of [[biting midge]]
+
+====Synonyms====
+* {{sense|a kind of biting midge}} {{ja-r|目纏い|めまとい}}
+
+====Hypernyms====
+* {{ja-r|糠蚊|ぬかか}}
+
+[[Category:ja:Dipterans|まくなぎ]]
+[[Category:ja:Parasites|まくなぎ]]
+
+[[zh:蠛蠓]]

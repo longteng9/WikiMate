@@ -1,0 +1,73 @@
+{{also|汉语}}
+==Chinese==
+{{zh-forms|s=汉语}}
+
+===Pronunciation===
+{{zh-pron
+|m=Hànyǔ
+|ma=zh-hànyǔ.ogg
+|c=hon3 jyu5
+|h=pfs=Hon-ngî
+|mn=zz,kh:Hàn-gí/qz:Hàn-gír/xm,tp:Hàn-gú
+|md=Háng-ngṳ̄
+|w=2hoe nyy
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# the [[Chinese]] language
+#: {{zh-x|你 會 說 ^漢語 嗎？|Can you speak Chinese?}}
+
+====Synonyms====
+* {{zh-l|中文}}
+* {{qualifier|uncommon}} {{zh-l|中國話}}
+
+====Derived terms====
+{{zh-der|漢語拼音|漢語水平考試|上古漢語|中古漢語}}
+
+{{zh-cat|Languages|Beginning}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|かん|ご|yomi=o}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=かんご}} {{m|zh|sc=Hani|漢語}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|かんご|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|かんご}}
+
+# A [[kango]]: a Japanese word of Chinese origin, or a Japanese word coined along Chinese lines (a Sino-Japanese word) (such as {{l|ja|社会}} or {{l|ja|共和国}}).
+#: ''Kango'' are written in [[kanji]], and read with the ''on'yomi'' ({{l|ja|音読み}}). Contrast with ''wago'' ({{l|ja|和語}}).
+# The ancient Chinese [[language]], the language of the [[Han]] ({{m|zh|sc=Hani|漢}}) [[ethnicity]].
+# {{qualifier|less commonly}} The Chinese language.
+
+===See also===
+* {{ja-r|音読み|おんよみ}}
+* {{ja-r|和語|わご}}
+
+===References===
+<references/>
+
+[[Category:ja:Grammar|かんご]]
+[[Category:ja:Linguistics|かんご]]
+
+[[el:漢語]]
+[[fr:漢語]]
+[[ko:漢語]]
+[[it:漢語]]
+[[lo:漢語]]
+[[lt:漢語]]
+[[li:漢語]]
+[[hu:漢語]]
+[[ja:漢語]]
+[[pl:漢語]]
+[[ru:漢語]]
+[[zh:漢語]]

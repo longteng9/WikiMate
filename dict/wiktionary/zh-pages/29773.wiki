@@ -1,0 +1,59 @@
+{{character info/new}}
+{{also|钨}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=10|sn=18|four=87127|canj=CHRF}}
+
+# [[tungsten]], [[wolfram]]
+
+====References====
+* {{Han ref|kx=1317.260|dkj=40729|dj=1817.220|hdz=64243.020|uh=93A2|ud=37794|bh=C2EB|bd=49899}}
+
+----
+
+==Chinese==
+{{zh-forms|s=钨}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wū
+|c=wu1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[钨钢]]
+* [[钨砂]]
+* [[钨丝]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ô]]|rs=金10}}
+
+# {{defn|lang=vi|sort=金10}}
+
+[[fr:鎢]]
+[[lt:鎢]]
+[[pl:鎢]]
+[[ro:鎢]]
+[[th:鎢]]
+[[vi:鎢]]
+[[zh:鎢]]

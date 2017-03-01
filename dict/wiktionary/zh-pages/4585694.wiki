@@ -1,0 +1,10 @@
+==Japanese==
+{{ja-kanjitab|た|じゅう|けい|しょう|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|sort=たじゅうけいしょう|多重|tr1=tajū|t1=multiple|継承|tr2=keishō|t2=inheritance}}
+
+===Noun===
+{{ja-noun|たじゅうけいしょう}}
+
+# {{lb|ja|programming|object-oriented|sort=たじゅうけいしょう}} [[multiple inheritance]]

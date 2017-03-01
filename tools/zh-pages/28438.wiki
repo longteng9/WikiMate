@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|辇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=08|sn=15|four=55506|canj=QOJWJ|ids=⿱㚘車}}
+
+====References====
+* {{Han ref|kx=1245.130|dkj=38393|dj=1722.110|hdz=53536.130|uh=8F26|ud=36646|bh=BDFB|bd=48635}}
+
+----
+
+==Chinese==
+{{zh-forms|s=辇}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=niǎn
+|c=lin5
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[handcart]]
+# [[imperial]] [[carriage]]
+# to [[transport]] by [[carriage]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=車08}}
+
+# {{defn|lang=ja|sort=車08}}
+
+====Readings====
+* {{ja-readings|on=[[れん]] (ren)|kun=[[てぐるま]] (teguruma), [[たごし]] (tagoshi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[련]]>[[연]]|eumhun=|rv=ryeon>yeon|mr=ryŏn>yŏn|y=lyen>yen}}
+
+# {{defn|lang=ko|sort=車08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=車08| hanviet = [[lén]], [[lẻn]], [[liễn]], [[rịn]]}}
+
+# {{defn|lang=vi|sort=車08}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=8f26 Nom Foundation]
+
+[[zh-min-nan:輦]]
+[[fr:輦]]
+[[ko:輦]]
+[[hu:輦]]
+[[mg:輦]]
+[[ja:輦]]
+[[pl:輦]]
+[[th:輦]]
+[[zh:輦]]

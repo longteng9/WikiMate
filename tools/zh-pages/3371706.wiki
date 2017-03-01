@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wòxuán
+|c=waat3 syun4
+|mn=oat-soân
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[mediate]], to smooth things over
+
+----
+
+==Japanese==
+{{ja-kanjitab|あつ|k1=あっ|せん|yomi=o}}
+
+===Noun===
+{{ja-noun|あっせん}}
+
+# [[recommendation]], [[mediation]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|あっせん}}
+
+# to [[mediate]]
+#: {{ja-usex|ろくな人間を'''斡旋'''しない。|ろく な にんげん を '''あっせん''' しない。|Their recommended people are always bad as they could be.}}
+
+====Conjugation====
+{{ja-suru|あっせん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=알선}}
+
+# {{hanja form of|알선|mediation}}
+
+[[ko:斡旋]]
+[[hi:斡旋]]
+[[lo:斡旋]]
+[[mg:斡旋]]
+[[ja:斡旋]]
+[[zh:斡旋]]

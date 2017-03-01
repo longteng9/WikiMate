@@ -1,0 +1,27 @@
+==Chinese==
+{{zh-forms|type=21}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+{{zh-compound|氨基|酸|amino group|acid}}
+
+===Pronunciation===
+{{zh-pron
+|m=ānjīsuān
+|c=on1 gei1 syun1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Mainland China|biochemistry}} [[amino acid]]
+
+====Synonyms====
+* {{zh-l|胺基酸}}
+
+====Derived terms====
+{{zh-der|必需氨基酸|非必需氨基酸}}
+
+[[hu:氨基酸]]
+[[zh:氨基酸]]

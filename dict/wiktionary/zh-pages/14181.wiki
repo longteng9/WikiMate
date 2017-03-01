@@ -1,0 +1,272 @@
+{{character info/new}}
+{{also|傢|冢|冡}}
+==Translingual==
+{{stroke order|strokes=10}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=40|rad=宀|as=07|sn=10|four=30232|canj=JMSO|ids=⿱宀豕}}
+
+====Derived characters====
+* [[傢]] [[嫁]] [[稼]]
+
+===References===
+* {{Han ref|kx=0286.170|dkj=07169|dj=0566.030|hdz=20930.150|uh=5BB6|ud=23478|bh=AE61|bd=44641}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|宀|豕|c1=s|c2=p|t1=roof|t2=pig|ls=psc|no_och2=y}}.
+
+{{lang|zh|豕}} is an abbreviation of {{och-l|豭|male pig, boar}} (''{{w|Shuowen Jiezi}}''), a homophone of {{zh-l|家}} in {{w|Old Chinese}}. See {{zh-l|*豭}} for more on the glyph composition.
+
+===Pronunciation===
+{{zh-pron
+|m=jiā,jia
+|ma=y
+|c=gaa1
+|h=pfs=kâ
+|md=gă
+|mn=ke/ka
+|mn_note=ke - vernacular; ka - literary
+|w=1ka,1jia
+|w_note=1jia is literary
+|mc=y
+|oc=y
+|cat=n,suf,cls,pron
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[home]]
+#: {{zh-x|我 的 家 就 在 這裡。|My '''home''' is here.}}
+# [[house]]
+# [[family]]; [[household]]
+#: {{zh-x|家庭|family}}
+#: {{zh-x|家族|clan; family}}
+# {{lb|zh|polite|for family member}} [[my]]
+# [[domesticated]]; [[domestic]]
+# {{n-g|Classifier for families, businesses and companies.}}
+# [[school of thought]]; [[philosophical]] [[school]]
+#: {{zh-x|^儒家|Confucian school}}
+#: {{zh-x|^道家|Daoist School}}
+# {{n-g|Suffix denoting a person with a certain occupation or social standing.}} [[-er]]
+# {{n-g|Suffix denoting specialist in a certain activity or field.}} [[-ist]]; [[-er]]
+#: {{zh-x|藝術家|artist}}
+#: {{zh-x|科學家|scientist}}
+# {{surname|lang=zh}}
+
+====Synonyms====
+{{zh-dial}}
+{{zh-dial|房子}}
+
+====Compounds====
+{{zh-der|家財|家蠶|家產|家長里短|家長里短兒|家常|家常便飯|家常話|家仇|家醜|家畜|家傳|家祠|家慈|家大業大|家當|家當兒|家道|家底|家底兒|家電|家丁|家法|家訪|家風|家父|家鴿|家館|家規|家戶|傢伙|家雞|家給人足|家計|家祭|家家|家家兒|家家戶戶|家教|家姐|家景|家境|家居|家具|家眷|家君|家口|家累|家裡|家門|家廟|家母|家娘|家奴|家貧如洗|家破人亡|家譜|家雀兒|家禽|家人|家舍|家生子|家生子兒|家聲|家甚|家史|家世|家事|家室|家書|家屬|家鼠|家數|家私|家天下|家庭|家庭病床|家庭承包|家庭婦女|家庭教育|家庭手工業|家庭影院|家徒四壁|家兔|家蚊|家屋|家無擔石|家無儋石|家務|家弦胡誦|家鄉|家小|家信|家兄|家學|家訓|家鴨|家嚴|家宴|家燕|家養|家業|家蠅|家用|家魚|家喻戶曉|家園|家院|家宅|家長|家長制|家珍|家種|家主|家傳|家資|家子|家族}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=宀07}}
+
+====Readings====
+{{ja-readings
+|goon=[[け]] (ke), [[く]] (ku) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[か]] (ka), [[こ]] (ko) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kun=[[いえ]] (ie), [[や]] (ya), [[うち]] (uchi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|家屋|かおく}}
+* {{ja-r|家具|かぐ}}
+* {{ja-r|家族|かぞく}}
+* {{ja-r|家庭|かてい}}
+{{der-mid}}
+* {{ja-r|家禽|かきん}}: [[domestic]] [[fowl]]s, [[poultry]]
+* {{ja-r|家守|やもり}}: [[gecko]]
+* {{ja-r|家守|やもり}}: [[guarding]] a [[house]], or a person who does such; real estate agent in the Edo period
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|いえ|yomi=k}}
+/ihe<small>1</small>/: [ipe] → [iɸe] → [iwe] → [ie]. Possibly related to {{m|ja|廬|tr=io||temporary hut}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|いえ|acc=2|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|いえ|hhira=いへ}}
+
+# a [[house]]
+# one's own [[home]]
+# a [[home]]; a [[household]]
+# a [[family]]
+
+====Suffix====
+{{ja-pos|か|suffix}}
+# (as suffix) an [[expert]], [[professional]], [[performer]]
+
+===Etymology 2===
+{{ja-kanjitab|うち|yomi=k}}
+Cognate with {{m|ja|内|tr=uchi}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|うち|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|うち}}
+
+# a house
+# one's house
+
+=====Descendants=====
+* English: {{l|en|hooch}}
+
+====Suffix====
+{{ja-pos|け|suffix}}
+
+# a suffix representing relationship to a family
+#: {{ja-usex|平'''家'''|たいら-'''け'''|the Taira family}}
+
+===Etymology 3===
+A contraction of [[家|uchi]] → chi. Often following the genitive case marker [[の|no]] which contracts to ''n''.
+
+====Noun====
+{{ja-noun|ち}}
+
+# house
+#: {{ja-usex|俺ん'''家'''に来ない？|おれ ん '''ち''' に こない？|Wanna come to my place?}}
+
+{{ja-kanjitab|や|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|や|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|や}}
+
+# house
+
+====Suffix====
+{{ja-pos|や|suffix}}
+
+# house of something, place where some business is conducted
+# person who does that thing
+
+=====See also=====
+* {{ja-r|者|-しゃ}}
+* {{ja-r|手|-しゅ}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|いえ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[가]], [[고]]|mr=ka, ko}}
+
+# home; family; household
+
+====Compounds====
+{{der-top}}
+* {{ko-inline|가구|||家口}}
+* {{ko-inline|가장|||家長}}
+* {{ko-inline|가정|||家庭}}
+* {{ko-inline|가족|||家族}}
+* {{ko-inline|작가|||作家}}
+{{der-bottom}}
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{head|ryu|kanji|hiragana|やー|romaji|yā}}
+
+====Compounds====
+* {{l|ryu|家内|tr=[[ちねー]], ''[[chinē]]''||[[household]]}}
+* {{l|ryu|家鴨|tr=[[あひる]], ''[[ahiru]]'', [[あひらー]], ''[[ahirā]]'', [[あふぃらー]], ''[[afirā]]''||[[domestic duck]]}}
+
+===Noun===
+{{head|ryu|noun|hiragana|やー|romaji|yā}}
+
+# [[house]]
+
+====Derived terms====
+* {{l|ryu|新家|tr=[[みーやー]], ''[[mīyā]]''||[[new]] [[house]]}}
+* {{l|ryu|家人衆|tr=[[やーにんじゅ]], ''[[yāninju]]''||[[family]]}}
+
+[[Category:ryu:Buildings|やあ]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[gia]], [[nhà]]|rs=宀07}}
+
+# {{defn|lang=vi|sort=宀07}}
+
+----
+
+==Yonaguni==
+
+===Kanji===
+{{head|yoi|kanji|hiragana|だー|romaji|dā}}
+
+===Noun===
+{{head|yoi|noun|hiragana|だー|romaji|dā}}
+
+# [[house]]
+
+[[Category:yoi:Buildings|たあ']]
+
+[[zh-min-nan:家]]
+[[da:家]]
+[[de:家]]
+[[et:家]]
+[[es:家]]
+[[fr:家]]
+[[ko:家]]
+[[it:家]]
+[[sw:家]]
+[[ku:家]]
+[[lo:家]]
+[[la:家]]
+[[lt:家]]
+[[li:家]]
+[[hu:家]]
+[[mg:家]]
+[[ms:家]]
+[[fj:家]]
+[[nl:家]]
+[[ja:家]]
+[[no:家]]
+[[oc:家]]
+[[km:家]]
+[[pl:家]]
+[[pt:家]]
+[[ru:家]]
+[[sm:家]]
+[[fi:家]]
+[[sv:家]]
+[[ta:家]]
+[[th:家]]
+[[chr:家]]
+[[tr:家]]
+[[uk:家]]
+[[ug:家]]
+[[vi:家]]
+[[zh:家]]

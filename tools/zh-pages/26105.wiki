@@ -1,0 +1,102 @@
+{{character info/new}}
+{{also|蠍}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=09|sn=15|four=56127|canj=LIAPV|ids=⿰虫曷}}
+
+# [[scorpion]]
+# [[bedbug]]
+
+====References====
+* {{Han ref|kx=1088.400|dkj=33254|dj=1555.140|hdz=42870.030|uh=874E|ud=34638|bh=E7B2|bd=59314}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=hé
+|c=hot3,hot6
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+=====Compounds=====
+{{zh-der|磨蝎|蝎蝎螫螫}}
+
+===Etymology 2===
+{{zh-see|蠍|sv}}
+
+===Etymology 3===
+{{zh-see|虹|v}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫09}}
+
+# [[scorpion]]
+
+====Readings====
+{{ja-readings|goon=[[がち]] (gachi)|kanon=[[かつ]] (katsu)|kun=[[すくもむし]] (sukumomushi), [[さそり]] (sasori)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|蛇蝎|だかつ}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=갈|eumhun=|rv=gal|mr=kal|y=kal}}
+
+# {{defn|lang=ko|sort=虫09}}
+
+====Readings 1====
+* Name : [[전갈]](scorpion), [[빈대]](bedbug)
+* Sound : [[갈]] (''gal'')
+
+====Readings 2====
+* Name : [[나무굼뱅이]](the larva of a longicorn)
+* Sound : [[할]] (''hal'')
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hạt]], [[rết]], [[rít]], [[yết]]|rs=虫09}}
+
+# {{defn|lang=vi|sort=虫09}}
+
+[[fr:蝎]]
+[[ko:蝎]]
+[[hu:蝎]]
+[[mg:蝎]]
+[[ja:蝎]]
+[[no:蝎]]
+[[pl:蝎]]
+[[ru:蝎]]
+[[th:蝎]]
+[[zh:蝎]]

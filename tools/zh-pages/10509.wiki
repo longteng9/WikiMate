@@ -1,0 +1,70 @@
+{{character info/new}}
+{{also|爭}}<!-- may be replaced by zh-forms -->
+==Translingual==
+{{stroke order}}
+
+===Han character===
+{{Han char|rn=6|rad=亅|as=05|sn=6|four=|canj=NSD|ids=⿱⺈⿻⺕亅}}
+
+# [[dispute]], [[fight]]
+# [[contend]]
+# [[strive]]
+
+====References====
+* {{Han ref|kx=0137.301|dkj=00236|hdz=10324.120|uh=4E89|ud=20105}}
+
+----
+
+==Chinese==
+{{zh-see|爭}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=亅05|style=s|kyu=爭}}
+
+# conflict; quarrel
+
+====Readings====
+* {{ja-readings
+|goon=[[しょう]] (''[[shō]]'')
+|kanon=[[そう]] (''[[sō]]'')
+|kun=[[あらそう]] ([[争う]], arasou), [[あらそい]] (争 / [[争い]], arasoi), [[あらがう]] ([[争う]], aragau), [[あらがい]] (争 / [[争い]], aragai), [[いかで]] ([[争で]], ikade), [[いそう]] ([[争う]], isou), [[いそわく]] ([[争わく]], isowaku), [[すまう]] ([[争う]], sumau), [[すまい]] (争 / [[争い]], sumai)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|争議|そうぎ}}
+* {{ja-r|争訟|そうしょう}}
+* {{ja-r|争奪|そうだつ}}
+* {{ja-r|争端|そうたん}}
+* {{ja-r|争点|そうてん}}
+* {{ja-r|争闘|そうとう}}
+* {{ja-r|争覇|そうは}}
+* {{ja-r|争乱|そうらん}}
+* {{ja-r|争論|そうろん}}: [[verbal]] [[fight]], [[argument]]
+* {{ja-r|競争|きょうそう}}: [[competition]]
+{{der-mid}}
+* {{ja-r|係争|けいそう}}
+* {{ja-r|繋争|けいそう}}
+* {{ja-r|訌争|こうそう}}
+* {{ja-r|抗争|こうそう}}: [[fighting]], [[resistance]], [[antagonism]]; [[contention]]
+* {{ja-r|政争|せいそう}}
+* {{ja-r|党争|とうそう}}
+* {{ja-r|闘争|とうそう}}: [[struggle]]
+* {{ja-r|内争|ないそう}}: [[internal]] [[strife]]
+* {{ja-r|紛争|ふんそう}}: [[conflict]], [[dispute]], [[disturbance]]
+* {{ja-r|論争|ろんそう}}: [[argument]], [[dispute]], [[controversy]]
+{{der-bottom}}
+
+[[fr:争]]
+[[ko:争]]
+[[hu:争]]
+[[mg:争]]
+[[ja:争]]
+[[no:争]]
+[[pl:争]]
+[[th:争]]
+[[zh:争]]

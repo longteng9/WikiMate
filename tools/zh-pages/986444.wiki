@@ -1,0 +1,57 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wángzuò
+|c=wong4 zo6
+|mn=ông-chō
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[throne]]
+
+====Synonyms====
+* {{zh-l|寶座}}
+* {{zh-l|皇位}}
+* {{zh-l|王位}}
+* {{zh-l|御座}}
+
+----
+
+==Japanese==
+{{ja-kanjitab}}
+
+===Noun===
+{{ja-noun|おうざ}}
+
+# [[throne]]
+# {{sense|figuratively}} [[championship]]
+
+===Proper noun===
+{{ja-pos|proper|おうざ}}
+
+# A Japanese [[go]] [[tournament]], and the title conferred to its winner.
+# A Japanese [[shogi]] [[tournament]], and the title conferred to its winner.
+
+[[Category:ja:Go|おうざ]]
+[[Category:ja:Shogi|おうざ]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|rv=wangjwa|hangeul=왕좌}}
+
+# {{hanja form of|왕좌|throne}}
+
+[[ko:王座]]
+[[hu:王座]]
+[[mg:王座]]
+[[nl:王座]]
+[[zh:王座]]

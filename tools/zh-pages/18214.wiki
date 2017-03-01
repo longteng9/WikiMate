@@ -1,0 +1,98 @@
+{{character info/new}}
+{{also|槛}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=14|sn=18|four=48917|canj=DSIT,DSMT|ids=⿰木監}}
+
+====References====
+* {{Han ref|kx=0558.470|dkj=15745|dj=0948.160|hdz=21307.140|uh=6ABB|ud=27323|bh=C265|bd=49765}}
+
+----
+
+==Chinese==
+{{zh-forms|s=槛}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|監|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+{{inh|zh|sit-pro|*kram||fence, garden}}. Cognate with {{cog|my|ခြံ||fence; garden; to surround}}. Also compare {{cog|bo|ཁྲམ||notched wood}} (> {{m|bo|ཁྲམ་ཁ||cut, notch [in wood]}}, {{m|bo|ཁྲམ་ཤིང||tallystick}}).
+
+===Pronunciation 1===
+{{zh-pron
+|m=jiàn
+|c=haam5
+|md=kāng
+|mc=y
+|oc=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[fence]]
+# [[cage]] (for animal or prisoner)
+# [[railing]]
+# {{zh-alt-form|*艦|warship}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=kǎn,er=y
+|c=laam6
+|md=kāng
+|w=2khe
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[doorsill]]
+#: {{zh-x|門檻|doorsill}}
+
+===Compounds===
+{{zh-der|圈檻|對了檻兒|攀庭檻|朱雲折檻|檻檻|檻猿籠鳥|檻車|窗檻|籠鳥檻猿|老門檻|軒檻|鐵門檻|門檻|門檻條款|隔門檻兒}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木14}}
+
+# {{defn|lang=ja|sort=木14}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[おり]] (ori), [[てすり]] (tesuri), [[いたがこい]] (ita-gakoi), [[おばしま]] (obashima)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=함|eumhun=|rv=ham|mr=ham|y=ham}}
+
+# {{defn|lang=ko|sort=木14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木14| hanviet = [[giám]], [[hạm]], [[hậm]], [[tràm]], [[cạm]]}}
+
+# {{defn|lang=vi|sort=木14}}
+
+[[fr:檻]]
+[[ko:檻]]
+[[lo:檻]]
+[[lt:檻]]
+[[hu:檻]]
+[[ja:檻]]
+[[pl:檻]]
+[[sv:檻]]
+[[th:檻]]
+[[zh:檻]]

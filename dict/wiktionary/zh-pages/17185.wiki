@@ -1,0 +1,86 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=15|sn=19|four=66032|canj=AATE|ids=⿰日暴}}
+
+# to [[sun]], [[air]] in the sun, [[expose]] or [[dry]] in the sun
+
+====Related characters====
+* [[爆]]
+
+====References====
+* {{Han ref|kx=0501.180|dkj=14239|dj=0871.280|hdz=21540.130|uh=66DD|ud=26333|bh=C36E|bd=50030}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|日|暴|ls=psc|c1=s|t1=sun|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=pù
+|c=buk6
+|mn=pho̍k/qz,xm,zz:po̍k/pha̍k
+|mn_note=pho̍k/po̍k - literary; pha̍k - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日15}}
+
+# {{defn|lang=ja|sort=日15}}
+
+====Readings====
+{{ja-readings|goon=[[ぼく]] (boku)|kanon=[[ほく]] (hoku)|kanyoon=[[ばく]] (baku)|kun=[[さら]] (sara), [[さらす]] (sarasu)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|曝白|ばくはく}}: [[whitening]] in [[exposure]] to the [[sun]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[포]], [[폭]]|eumhun=|rv=po, pok|mr=p'o, p'ok|y=pho, phok}}
+
+# {{defn|lang=ko|sort=日15}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=日15|hanviet=bộc}}
+
+# {{defn|lang=vi|sort=日15}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=66dd Nom Foundation]
+
+[[zh-min-nan:曝]]
+[[fr:曝]]
+[[mg:曝]]
+[[ja:曝]]
+[[no:曝]]
+[[pl:曝]]
+[[th:曝]]
+[[zh:曝]]

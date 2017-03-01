@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|桿}}
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|干|c1=s|c2=p|ls=psc}}.
+
+===Han character===
+{{Han char|rn=75|rad=木|as=03|sn=7|four=41940|canj=DMJ|ids=⿰木干}}
+
+====References====
+* {{Han ref|kx=0511.010|dkj=14449|dj=0894.200|hdz=21156.120|uh=6746|ud=26438|bh=A7FD|bd=43005}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gān
+|c=gon1
+|mc=y
+|oc=y
+|ma=
+|cat=cls
+}}
+
+===Noun===
+{{zh-noun|mw=條|mw2=根}}
+
+# [[pole]], [[staff]], [[rod]]
+#* {{zh-l|旗杆|flag pole}}
+#* {{zh-l|桅杆|mast}}
+
+===Etymology 2===
+{{zh-see|桿}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木03}}
+
+# {{defn|lang=ja|sort=木03}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[てこ]] (teko), [[てすり]] (tesuri)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=간|eumhun=|rv=gan|mr=kan|y=kan}}
+
+# {{defn|lang=ko|sort=木03}}
+
+===References===
+* {{cite-web
+|url=http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=0&wdqb=杆
+|title=杆
+|work=MDBG English to Chinese dictionary ( Based on CC-CEDICT )
+|language=Mandarin/English
+|accessdate=2014-03-19}}
+* {{cite-web
+|url=http://www.jukuu.com/index.php
+|title=Jukuu
+|work=Jukuu
+|language=Mandarin/English
+|accessdate=2014-03-19}}
+
+[[zh-min-nan:杆]]
+[[fr:杆]]
+[[ko:杆]]
+[[hu:杆]]
+[[mg:杆]]
+[[ja:杆]]
+[[no:杆]]
+[[pl:杆]]
+[[th:杆]]
+[[chr:杆]]
+[[zh:杆]]

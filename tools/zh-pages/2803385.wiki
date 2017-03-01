@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiàngshuǐ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|meteorology}} [[precipitation]]; [[fallen]] [[rain]] (and [[snow]])
+
+====Derived terms====
+{{zh-der|降水量}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|すい|yomi=on}}
+
+===Noun===
+{{ja-noun|こうすい}}
+
+# fallen rain, [[precipitation]]
+
+====Derived terms====
+* {{ja-def|降水量}} volume of precipitation
+* {{ja-def|無降水}} [[drought]]
+* {{ja-def|降水確率}} chance of precipitation
+
+----
+
+==Korean==
+{{ko-hanjatab|降|水}}
+
+===Noun===
+{{ko-noun|rv=gangsu|hangeul=강수}}
+
+# {{hanja form of|강수|[[precipitation]]}}
+
+[[cs:降水]]
+[[ko:降水]]
+[[hu:降水]]
+[[ja:降水]]
+[[zh:降水]]

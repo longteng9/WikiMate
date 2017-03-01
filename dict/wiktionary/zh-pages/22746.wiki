@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=06|sn=12|four=88253|canj=HOI}}
+
+# [[wooden]] [[raft]]
+
+====References====
+* {{Han ref|kx=0883.070|dkj=26000|dj=1312.050|hdz=52967.020|uh=7B4F|ud=31567|bh=B5AD|bd=46509}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fá
+|c=fat6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|作筏子|寶筏|扎筏子|排筏|救生筏|木筏|津筏|皮筏|竹筏|筏基|筏子|膠筏}}
+
+===References===
+* {{R:twedu|A03005}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹06}}
+
+# {{defn|lang=ja|sort=竹06}}
+
+====Readings====
+* {{ja-readings|on=[[ばつ]] (batsu), [[はつ]] (hatsu)|kun=[[いかだ]] (ikada)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=벌|eumhun=|rv=beol|mr=pŏl|y=pel}}
+
+# {{defn|lang=ko|sort=竹06}}
+
+[[fr:筏]]
+[[lo:筏]]
+[[hu:筏]]
+[[mg:筏]]
+[[ja:筏]]
+[[no:筏]]
+[[pl:筏]]
+[[ru:筏]]
+[[sv:筏]]
+[[th:筏]]
+[[zh:筏]]

@@ -1,0 +1,83 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiǎorén
+|c=siu2 jan4
+|h=pfs=séu-ngìn
+|mn=zz,kh:siáu-jîn/xm,qz,tp:siáu-lîn
+|w=2xiau nyin,2xiau zen
+|w_note=2xiau nyin - vernacular; 2xiau zen - literary
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[villain]]
+# {{lb|zh|archaic}} [[person]] of [[low]] [[position]]
+# {{lb|zh|dialectal|_|Mandarin|Wu}} [[child]]; [[kid]]
+# {{&lit|小|人|lang=zh}}
+
+====Synonyms====
+{{zh-dial|小孩}}
+
+====Derived terms====
+{{zh-der|大人不記小人過|大人不計小人過|打小人}}
+
+[[Category:Mandarin archaic terms|xiao3ren2]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|しょう|にん|yomi=o}}
+From [[小]] (''shō'', "small," "little") + [[人]] (''nin'', "human being")
+
+====Noun====
+{{ja-noun|しょうにん}}
+
+# [[child]], [[small]] [[person]]
+
+=====Antonyms=====
+* {{ja-r|大人|おとな}}
+
+===Etymology 2===
+{{ja-kanjitab|こ|ひと|k2=びと|yomi=k|r=y}}
+From [[小]] (''ko'', "small," "little") + [[人]] (''hito'', "man"). The word ''hito'' changes to ''bito'' due to [[rendaku]].
+
+====Noun====
+{{ja-noun|こびと}}
+
+# [[dwarf]]
+
+=====Antonyms=====
+* {{ja-r|巨人|きょじん}}
+
+===Etymology 3===
+{{ja-kanjitab|しょう|じん|yomi=o}}
+From [[小]] (''shō'', "small," "little") + [[人]] (''jin'', "human being")
+
+====Noun====
+{{ja-noun|しょうじん}}
+
+# [[narrow-minded]] person, [[mean]] person
+
+=====Antonyms=====
+* {{ja-r|君子|くんし}}
+
+=====Compounds=====
+* {{ja-r|小人数|こにんずう}}: small number of people
+* {{ja-r|小人河馬|こびと かば}}: pygmy hippopotamus
+* {{ja-r|小人閑居|しょうじん かんきょ}}: idle hands...
+
+[[fr:小人]]
+[[ko:小人]]
+[[hu:小人]]
+[[mg:小人]]
+[[pl:小人]]
+[[ru:小人]]
+[[zh:小人]]

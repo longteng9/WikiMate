@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=sòngyīn
+|c=sung3 jam1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# Japanese approximation of Chinese character pronunciations during the [[Song]] [[dynasty]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|そう|おん|yomi=o}}
+
+===Etymology===
+Compound of {{compound|宋|tr1=sō|t1=Song dynasty|音|tr2=on|t2=sound|lang=ja|sort=そうおん}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|そうおん|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|そうおん}}
+
+# Japanese approximation of Chinese character pronunciations during the [[Song]] [[dynasty]]
+
+===See also===
+* {{ja-r|呉音|ご.おん}}
+* {{ja-r|漢音|かんおん}}
+* {{ja-r|唐音|とうおん}}
+
+===References===
+<references/>
+
+[[ja:宋音]]

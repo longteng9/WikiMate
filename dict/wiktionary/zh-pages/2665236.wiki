@@ -1,0 +1,35 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gōngsī
+|mn=kong-su
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[public]] and [[private]]; [[official]] and private
+
+{{zh-cat|Antonymous}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|し|yomi=on}}
+
+===Noun===
+{{ja-noun|こうし}}
+
+# [[public]] and [[private]], [[official]] and private
+#: {{ja-usex|'''公私'''を混同するべきではない。|'''こうし''' を こんどう する べき で は ない。|Do not mix your public and private life.}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:公私]]
+[[lo:公私]]
+[[hu:公私]]
+[[zh:公私]]

@@ -1,0 +1,58 @@
+{{character info/new}}
+==Translingual==
+===Etymology===
+[[kokuji|Kokuji]], Japan-derived kanji: {{ja-l|辶}} + {{ja-l|入}}.
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=02|sn=6|four=|canj=YO|ids=⿺辶入}}
+
+# [[crowd]] into, [[go]] into
+
+====References====
+* {{Han ref|kx=1253.131|dkj=38712|dj=1735.120|hdz=63815.021|uh=8FBC|ud=36796}}
+
+----
+
+==Chinese==
+{{zh-see|迂|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=辵02}}
+
+# {{defn|lang=ja|sort=辵02}}
+
+====Readings====
+* {{ja-readings|on=|kun=[[こむ]] (komu), [[こみ]] (komi)}}
+
+====Compounds====
+* {{ja-r|込む|こむ}}
+* {{ja-r|ねじ込む|ねじこむ}}
+* {{ja-r|飲み込む|のみこむ}}
+* {{ja-r|巻き込む|まきこむ}}
+* {{ja-r|申込書|もうしこみしょ}}
+* {{ja-r|潜り込む|もぐりこむ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=입|eumhun=|rv=ip|mr=ip|y=ip}}
+
+# {{defn|lang=ko|sort=辵02}}
+
+[[Category:Japanese-only CJKV Characters]]
+
+[[fr:込]]
+[[ko:込]]
+[[it:込]]
+[[hu:込]]
+[[mg:込]]
+[[ja:込]]
+[[pl:込]]
+[[th:込]]
+[[zh:込]]

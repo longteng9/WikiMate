@@ -1,0 +1,29 @@
+==Chinese==
+{{zh-forms|gloss=-}}
+
+===Etymology===
+{{bor|zh|hbo|שָׂטָן|tr=Śāṭān}}.
+
+===Pronunciation===
+{{zh-pron
+|m=Sādàn
+|c=saat3 daan6
+|h=pfs=Sat-than
+|md=Sák-táng
+|mn=Sat-tàn
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{lb|zh|religion}} [[Satan]]; [[shaitan]]
+
+====Synonyms====
+* {{zh-l|撒旦}}
+* {{qualifier|Catholic}} {{zh-l|撒殫}}
+
+====Derived terms====
+{{zh-der|撒但教}}
+
+[[zh:撒但]]

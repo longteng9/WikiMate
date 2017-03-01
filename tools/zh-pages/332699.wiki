@@ -1,0 +1,22 @@
+{{also|次數}}
+==Chinese==
+{{zh-see|次數}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じ|すう|yomi=o}}
+
+===Noun===
+{{ja-noun|じすう}}
+
+# {{lb|ja|arithmetic|sort=しすう'}} [[degree]] (''of the power of a number, or a variable'')
+# {{lb|ja|graph theory|sort=しすう'}} the number of [[edges]] that a [[vertex]] takes part in; [[degree]]
+
+===References===
+* {{R:Kojien}}
+
+[[mg:次数]]
+[[ja:次数]]
+[[chr:次数]]
+[[zh:次数]]

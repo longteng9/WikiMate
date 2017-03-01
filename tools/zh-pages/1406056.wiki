@@ -1,0 +1,59 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Alternative forms===
+* {{l|ja|阿房}}
+
+===Etymology 1===
+{{ja-kanjitab|あ|ほう|yomi=o}}
+[apau] → [aɸau] → [aɸoː] → [ahoː].
+
+===Pronunciation===
+{{ja-pron|yomi=o|あほう|acc=2|acc_ref=DJR}}
+
+====Adjectival noun====
+{{ja-adj|decl=na|あほう|hhira=あはう}}
+
+# foolish
+#* {{RQ:Nippo Jisho|13}}
+#*: '''Afŏna.''' アハゥナ (阿房な) 馬鹿な(者、または、こと).
+
+====Noun====
+{{ja-noun|あほう|hhira=あはう}}
+
+# a foolish person or action
+#* {{RQ:Nippo Jisho|13}}
+#*: '''Afŏ''' アハゥ (阿房) Vtçuqe (虚)に同じ. 愚かな人、馬鹿者. また、馬鹿なこと. '''Afŏ'''uo yŭ. (阿房を言ふ) 馬鹿なことを言う.
+
+===Etymology 2===
+{{ja-kanjitab|あ|ほ|yomi=o}}
+A contraction from ahō → aho.
+
+===Pronunciation===
+{{ja-pron|yomi=o|あほ}}
+
+====Adjectival noun====
+{{ja-adj|decl=na|あほ}}
+
+# {{lb|ja|Kansai}} foolish
+
+=====Synonyms=====
+* {{l|ja|馬鹿}}
+
+====Noun====
+{{ja-noun|あほ}}
+
+# {{lb|ja|Kansai}} a foolish person or action
+
+=====Synonyms=====
+* {{l|ja|馬鹿}}
+
+===References===
+<references/>
+:* {{R:Nippo Jisho}}
+
+[[mg:阿呆]]
+[[ja:阿呆]]
+[[pl:阿呆]]
+[[chr:阿呆]]
+[[zh:阿呆]]

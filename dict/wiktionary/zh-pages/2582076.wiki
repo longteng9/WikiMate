@@ -1,0 +1,42 @@
+{{also|书面}}
+==Chinese==
+{{zh-forms|s=书面}}
+
+===Pronunciation===
+{{zh-pron
+|m=shūmiàn
+|c=syu1 min6-2,syu1 min6
+|mn=xm,tw:su-bīn/qz:chir-bīn/zz:si-bīn/xm:su-biān/qz:sir-biān/zz:si-biān
+|cat=a,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[in writing]]; in [[written]] form
+
+====Antonyms====
+* {{zh-l|口頭}}
+
+===Noun===
+{{zh-noun}}
+
+# [[book]] [[cover]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょ|めん|yomi=o}}
+
+===Noun===
+{{ja-noun|しょめん}}
+
+# written [[document]], [[writing]]
+#: {{ja-usex|'''書面'''で連絡します。|'''しょめん''' で れんらく します。|We will let you know in writing.}}
+
+[[zh-min-nan:書面]]
+[[ko:書面]]
+[[hu:書面]]
+[[mg:書面]]
+[[ja:書面]]
+[[zh:書面]]

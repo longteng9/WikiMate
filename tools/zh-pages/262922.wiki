@@ -1,0 +1,76 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Combination of {{zh-l|名|given name}} and {{zh-l|字|courtesy name, given to an individual at adulthood}}. Originally two different types of names in ancient China, in modern Chinese the two characters form a single word.
+
+===Pronunciation===
+{{zh-pron
+|m=míngzi
+|ma=y
+|c=ming4 zi6
+|h=pfs=miàng-sṳ
+|md=miàng-cê
+|mn=miâ-jī/miâ-lī
+|w=3min zr
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[full name]]
+#: {{zh-x|你 叫 什麼 '''名字{zi}'''？|What's your '''name'''?}}
+# [[given name]]
+
+====Synonyms====
+* {{sense|given name}} {{zh-l|名}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|みょう|じ|yomi=on}}
+
+===Alternative forms===
+* {{ja-r|苗字|みょうじ}}
+
+===Pronunciation===
+* {{ja-pron|みょうじ|y=o|acc=1}}
+
+===Noun===
+{{ja-noun|みょうじ}}
+
+# [[surname]], [[family name]]
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=명자}}
+
+# {{hanja form of|명자|the characters of one´s name, fame}}
+
+[[zh-min-nan:名字]]
+[[es:名字]]
+[[fr:名字]]
+[[ko:名字]]
+[[lo:名字]]
+[[lt:名字]]
+[[li:名字]]
+[[hu:名字]]
+[[mg:名字]]
+[[ja:名字]]
+[[pl:名字]]
+[[ru:名字]]
+[[sm:名字]]
+[[ta:名字]]
+[[chr:名字]]
+[[uk:名字]]
+[[zh:名字]]

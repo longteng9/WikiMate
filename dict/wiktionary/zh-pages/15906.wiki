@@ -1,0 +1,106 @@
+{{character info/new}}
+{{also|戆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=24|sn=28|four=07338|canj=XYCP,YCP|ids=⿱贛心}}
+
+====References====
+* {{Han ref|kx=0409.310|dkj=11525|dj=0751.300|hdz=42373.040|uh=6207|ud=25095|bh=F9BA|bd=63930}}
+
+----
+
+==Chinese==
+{{zh-forms|s=戆}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|贛|心|ls=psc|c1=p|c2=s}}.
+
+===Etymology 1===
+“Stupid”. Attested abundantly in Old Chinese, but obsolete in modern varieties. Compared with Proto-Mon *''trɔɔʔ'' (> {{cog|mnw|သ္ဒိုဟ်||tr=tɜ̀h|foolish, stupid}}) by {{zh-ref|Schuessler (2007)}}.
+
+====Pronunciation====
+{{zh-pron
+|m=zhuàng
+|c=zong3
+|mc=y
+|oc=y
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[stupid]]
+# {{†}} [[blunt]] and [[tactless]]
+
+===Etymology 2===
+Dialectally preserved word for “stupid”, attested since Middle Chinese. Relationship to Etymology 1 is unknown.
+
+Compare Proto-Central Chin *''ŋoŋ'' (“dull, stupid”) > {{cog|lus|ngawng||dull, stupid}}, Proto-Tai-Kadai *''ŋV:ŋ.T'' (“stupid”) > {{cog|za|nguengh||stupid}}, as well as {{cog|mkh-okm|lṅaṅya||stupid, obtuse, ignorant}} > {{cog|km|ល្ងង់}}).
+
+{{zh-ref|Bauer (1996)}} suggests that this root may have entered Old Southern Chinese during the period of its early contact with Tai-speaking peoples in southern China.
+
+====Pronunciation====
+{{zh-pron
+|m=gàng
+|c=ngong6
+|c-t=ngong5
+|h=pfs=ngong
+|md=ngâung
+|mn=gōng
+|w=3gaan
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese|Hakka|Min|Wu}} [[stupid]]; [[foolish]]; [[simple]]; [[simple-minded]]
+# {{lb|zh|dialectal Mandarin}} [[stubborn]]; [[bull-headed]]
+# {{lb|zh|dialectal Mandarin}} [[frank]]; [[honest]]; [[straight]]
+
+=====Synonyms=====
+{{zh-dial|傻}}
+
+===Compounds===
+{{zh-der|戇大|戇大呆|戇囝|戇Q|戇居|戇鳩|戇喪|假戇|霎戇|戇居佬|戇居居|戇直|詐戇|戇馬|戇正|戇狗|戇仔|戇頭|戇佬|戇妹|戇婆|戇戇|戇頭子|戇吼吼|戇搭搭|戇頭戇腦|戇神|戇膽|戇話|戇錢|戇的|戇人|愚戇|戇小子}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心24}}
+
+# {{defn|lang=ja|sort=心24}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō), [[ちゅう]] (chū), [[しゅ]] (shu), [[こう]] (kō), [[く]] (ku)|kun=[[おろか]] (oroka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=당|eumhun=|rv=dang|mr=tang|y=tang}}
+
+# {{defn|lang=ko|sort=心24}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tráng]]|rs=心24}}
+
+# {{defn|lang=vi|sort=心24}}
+
+[[zh-min-nan:戇]]
+[[fr:戇]]
+[[hu:戇]]
+[[pl:戇]]
+[[th:戇]]
+[[vi:戇]]
+[[zh:戇]]

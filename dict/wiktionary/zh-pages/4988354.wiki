@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=líyuán
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[commoner]]; [[ordinary]] [[person]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|れい|げん}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=れいげん}} compound {{m|zh|黎元|tr=lej ngjwon|lit=black [in reference to black hair: i.e. bareheaded, i.e. not nobility] + head}}. Compare modern {{etyl|cmn|-}} reading ''líyuán''.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|れいげん|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|れいげん}}
+
+# {{lb|ja|sort=れいげん|uncommon}} a [[commoner]], an [[ordinary]] person {{qualifier|in contrast to the [[aristocracy]] or [[nobility]]}}
+
+====Synonyms====
+* {{ja-r|庶民|しょみん}} {{qualifier|most common}}
+* {{ja-r|黎民|れいみん}}
+* {{ja-r|黎庶|れいしょ}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[zh:黎元]]

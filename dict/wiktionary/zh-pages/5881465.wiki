@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|でん|じ|き|yomi=o}}
+
+===Etymology===
+Compound of {{compound|電気|tr1=denki|t1=electricity|磁気|tr2=jiki|t2=magnetism|lang=ja|sort=でんじき}}.
+
+===Noun===
+{{ja-noun|でんじき}}
+
+# [[electromagnetism]]
+
+====Derived terms====
+* {{ja-l|電磁気学|でんじきがく|denjikigaku}}: the study of [[electromagnetism]]
+
+====See also====
+* {{pedialite|lang=ja}}
+* {{pedialite|electromagnetism}}
+
+[[fr:電磁気]]
+[[hu:電磁気]]
+[[mg:電磁気]]
+[[ja:電磁気]]
+[[zh:電磁気]]

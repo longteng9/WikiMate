@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=09|sn=12|four=31160|canj=EMWL}}
+
+# [[flushed]] with drink, [[drunk]]
+
+====References====
+* {{Han ref|kx=0636.260|dkj=17826|dj=1043.240|hdz=31672.030|uh=6E4E|ud=28238|bh=B542|bd=46402}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|𩈳}}
+
+===Pronunciation===
+{{zh-pron
+|m=miǎn
+|c=min5
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水09}}
+
+# {{defn|lang=ja|sort=水09}}
+
+====Readings====
+* {{ja-readings|on=[[べん]] (ben), [[めん]] (men)|kun=[[おぼれる]] (oboreru), [[しずむ]] (shizumu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=면|eumhun=|rv=myeon|mr=myŏn|y=myen}}
+
+# {{defn|lang=ko|sort=水09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[giờn]]|rs=水09}}
+
+# {{defn|lang=vi|sort=水09}}
+
+[[fr:湎]]
+[[hu:湎]]
+[[mg:湎]]
+[[ja:湎]]
+[[pl:湎]]
+[[th:湎]]
+[[zh:湎]]

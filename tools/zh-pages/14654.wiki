@@ -1,0 +1,102 @@
+{{character info/new}}
+{{also|岚}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=09|sn=12|four=22217|canj=UHNI|ids=⿱山風}}
+
+# [[mountain]] [[mist]], mountain [[haze]]
+
+====References====
+* {{Han ref|kx=0316.250|dkj=08289|dj=0617.040|hdz=10788.090|uh=5D50|ud=23888|bh=B450|bd=46160}}
+
+----
+
+==Chinese==
+{{zh-forms|s=岚}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lán
+|c=laam4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|山嵐|嵐翠鮮明|嵐氣|煙嵐雲岫|煙嵐}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山09}}
+
+# [[storm]]
+
+====Readings====
+* {{ja-readings|goon=[[らん]] (ran)|kanon=[[らん]] (ran)|kun=[[あらし]] (arashi)}}
+
+{{ja-kanjitab|あらし|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|あらし|acc=1|acc_ref=SMK2}}
+
+===Noun===
+{{ja-noun|あらし}}
+
+# a [[storm]]; weather condition
+# a difficult problem; a [[difficulty]]
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|あらし]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[람]]|rv=ram|mr=ram}}
+
+# {{defn|lang=ko|sort=山09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lam]]|rs=山09}}
+
+# {{defn|lang=vi|sort=山09}}
+
+[[fr:嵐]]
+[[ko:嵐]]
+[[hr:嵐]]
+[[it:嵐]]
+[[lo:嵐]]
+[[lt:嵐]]
+[[li:嵐]]
+[[hu:嵐]]
+[[mg:嵐]]
+[[nl:嵐]]
+[[ja:嵐]]
+[[pl:嵐]]
+[[ru:嵐]]
+[[fi:嵐]]
+[[sv:嵐]]
+[[th:嵐]]
+[[chr:嵐]]
+[[tr:嵐]]
+[[zh:嵐]]

@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=míxìn
+|ma=y
+|c=mai4 seon3
+|h=pfs=mì-sin
+|mn=bê-sìn
+|cat=a,n,v
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[superstitious]]
+#: {{zh-x|他 好 迷信 哦！|He is quite '''superstitious'''!}}
+
+===Noun===
+{{zh-noun}}
+
+# [[superstition]]
+
+===Verb===
+{{zh-verb}}
+
+# to have [[blind]] [[faith]] in
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|めい|しん|yomi=on}}
+
+===Noun===
+{{ja-noun|めいしん}}
+
+# [[superstition]]
+#: {{ja-usex|迷信を信じる。|めいしん を しんじる。|She is superstitious.}}
+
+====Derived terms====
+* {{l|ja|迷信的}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=미신}}
+
+# {{hanja form of|미신|superstition}}
+
+[[zh-min-nan:迷信]]
+[[ko:迷信]]
+[[hu:迷信]]
+[[mg:迷信]]
+[[ja:迷信]]
+[[sv:迷信]]
+[[zh:迷信]]

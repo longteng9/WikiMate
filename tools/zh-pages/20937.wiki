@@ -1,0 +1,93 @@
+{{character info/new}}
+{{also|壁}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=96|rad=玉|as=13|sn=17|four=70103|canj=SJMGI}}
+
+# piece of jade with hole in it
+
+====See also====
+* {{l|mul|壁}} <!-- visually similar, sometimes confused (in Japan) -->
+
+====References====
+* {{Han ref|kx=0742.290|dkj=21269|dj=1151.350|hdz=21142.160|uh=74A7|ud=29863|bh=C27A|bd=49786}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|辟|玉|t2=jewel|ls=psc|c1=p|c2=s}} – a type of jewel, jade.
+
+===Pronunciation===
+{{zh-pron
+|m=bì
+|c=bik3,bik1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=玉13}}
+
+# [[ball]], [[sphere]]
+
+====Readings====
+{{ja-readings
+|goon=[[ひゃく]] (hyaku)
+|kanon=[[へき]] (heki)
+|kun=[[たま]] (tama)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* [[完璧]] ([[かんぺき]], kanpeki)
+* [[圭璧]] ([[けいへき]], keiheki)
+* [[双璧]] ([[そうへき]], sōheki)
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=벽|eumhun=|rv=byeok|mr=pyŏk|y=pyek}}
+
+# {{defn|lang=ko|sort=玉13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bích]], [[bệch]], [[bịch]], [[vách]]|rs=玉13}}
+
+# {{defn|lang=vi|sort=玉13}}
+
+[[fr:璧]]
+[[ko:璧]]
+[[id:璧]]
+[[hu:璧]]
+[[mg:璧]]
+[[ja:璧]]
+[[no:璧]]
+[[pl:璧]]
+[[th:璧]]
+[[zh:璧]]

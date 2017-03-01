@@ -1,0 +1,76 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhīchí
+|c=zi1 ci4
+|h=pfs=chṳ̂-chhṳ̀
+|ma=Zh-zhichí.ogg
+|mn=chi-chhî/qz,xm:ki-chhî
+|cat=n,v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[support]]; to [[back]]
+#: {{zh-x|大多數 人 對 提案 持 支持 意見。|Most people expressed '''support''' for the proposal.}}
+# to [[sustain]]; to [[hold out]]
+
+===Noun===
+{{zh-noun}}
+
+# [[support]]; [[backing]]
+
+====Derived terms====
+{{zh-der|精神支持|支持者}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|じ|yomi=on}}
+
+===Noun===
+{{ja-noun|しじ}}
+
+# [[support]]
+#: {{ja-usex|'''支持'''を得る|'''しじ''' を える|to gain '''support'''}}
+#: {{ja-usex|'''支持'''を失う|'''しじ''' を うしなう|to lose '''support'''}}
+
+====Compounds====
+* [[支持基盤]]
+* [[支持杭]]
+* [[支持者]]
+* [[支持団体]]
+* [[支持率]]
+* [[支持力]]
+* [[支持線]]
+* [[支持層]]
+* [[支持母体]]
+* [[精神的支持]]
+
+===Verb===
+{{ja-verb-suru|しじ}}
+
+# [[support]]
+#: {{ja-usex|動議を'''支持'''する|どうぎ を '''しじ''' する|to '''second''' a motion}}
+
+====Conjugation====
+{{ja-suru|しじ}}
+
+===References===
+* {{R:OxfordJapanese}}
+
+[[zh-min-nan:支持]]
+[[ko:支持]]
+[[hu:支持]]
+[[mg:支持]]
+[[ja:支持]]
+[[pt:支持]]
+[[th:支持]]
+[[chr:支持]]
+[[uk:支持]]
+[[zh:支持]]

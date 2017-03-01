@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms|type=21}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhōng'ěryán
+|c=zung1 ji5 jim4
+|mn=tiong-ní-iām
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[otitis media]], inflammation of the middle ear
+
+{{zh-cat|Pathology}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちゅう|じ|えん|yomi=on}}
+
+===Etymology===
+{{suffix|中耳|炎|t1=middle ear|t2=-itis|lang=ja|sort=ちゅうじえん}}
+
+===Noun===
+{{ja-noun|ちゅうじえん}}
+
+# {{lb|ja|pathology|sort=ちゅうじえん}} [[otitis media]], inflammation of the middle ear
+
+[[fr:中耳炎]]
+[[ko:中耳炎]]
+[[li:中耳炎]]
+[[fi:中耳炎]]
+[[zh:中耳炎]]

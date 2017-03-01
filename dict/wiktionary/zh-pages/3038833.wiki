@@ -1,0 +1,31 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|あお|k1=おお|き|k2=ぎ|r=y|yomi=irr|sort=おおぎ}}
+{{ja-kanjitab|あお|き|yomi=k}}
+
+===Etymology===
+{{compound|lang=ja|青|木|tr1=ao|t1=[[green]]|tr2=ki|t2=[[tree]]|sort=あおき}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=k|あおき}}
+
+===Noun===
+{{wikipedia|lang=ja|アオキ (植物)}}
+{{ja-noun|あおき|アオキ|hhira=あをき}}
+
+# {{w|Aucuba japonica|Japanese laurel}}
+
+===Proper noun===
+{{wikipedia|lang=ja|青木氏}}
+{{ja-pos|あおき|proper|hhira=あをき}}
+
+# {{surname|lang=ja|sort=あおき}}
+
+{{ja-pos|あおき|proper|hhira=あをき}} {{ja-altread|hira=おおぎ|rom=Ōgi}}
+
+# a [[place name]]
+
+{{topics|ja|Plants|Japan|sort=あおき}}
+
+[[cs:青木]]
+[[fr:青木]]

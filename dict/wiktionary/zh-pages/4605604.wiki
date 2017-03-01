@@ -1,0 +1,33 @@
+{{also|餘割}}
+==Chinese==
+{{zh-see|餘割}}
+
+[[zh:余割]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|よ|かつ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=ko|よかつ}}
+
+===Noun===
+{{ja-noun|よかつ}}
+
+# {{lb|ja|trigonometry|sort=よかつ}} [[cosecant]]
+
+====Synonyms====
+* {{ja-r|コセカント}}
+
+===See also===
+* {{ja-r|三%角%関%数|さん%かく% かん%すう}}
+* {{ja-r|正%弦|せい%げん}}
+* {{ja-r|余%弦|よ%げん}}
+* {{ja-r|正%接|せい%せつ}}
+* {{ja-r|余%接|よ%せつ}}
+* {{ja-r|正%割|せい%かつ}}
+* {{ja-r|正%矢|せい%し}}
+* {{ja-r|余%矢|よ%し}}
+* {{ja-r|半%正%矢|はん%せい%し}}
+* {{ja-l|半余矢|はんよし|han'yoshi}}

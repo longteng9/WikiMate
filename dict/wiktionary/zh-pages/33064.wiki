@@ -1,0 +1,72 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=203|rad=黑|as=05|sn=17|four=64327|canj=WFVIS|ids=⿰黑幼}}
+
+# [[black]]
+
+====References====
+* {{Han ref|kx=1519.270|dkj=48082|dj=2053.150|hdz=74748.020|uh=9EDD|ud=40669|bh=C24B|bd=49739}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǒu
+|c=jau2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|黝黑|黝黝|黑黝黝|黝黯|黝銅礦|黝暗|黝堊|黑黝|黝糾}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=黑05}}
+
+# [[bluish]] black, [[black]]
+# [[dimly]] [[lit]], [[dark]], black
+
+====Readings====
+* {{ja-readings|on=[[ゆう]] (yū)|kun=[[あおぐろ]] (aoguro), [[あおぐろい]] (aoguroi), [[くらい]] (kurai)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|黝然|ゆうぜん}}; or {{ja-r|黝然|ようぜん}}
+* {{ja-r|黝銅鉱|ゆうどうこう}}
+* {{ja-r|黝簾石|ゆうれんせき}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=유|eumhun=|rv=yu|mr=yu|y=yu}}
+
+# {{defn|lang=ko|sort=黑05}}
+
+[[fr:黝]]
+[[hu:黝]]
+[[mg:黝]]
+[[ja:黝]]
+[[pl:黝]]
+[[th:黝]]
+[[zh:黝]]

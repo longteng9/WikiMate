@@ -1,0 +1,107 @@
+{{character info/new}}
+{{also|隹}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=20214|canj=OYG|ids=⿰亻主}}
+
+====References====
+* {{Han ref|kx=0098.090|dkj=00505|dj=0207.020|hdz=10137.090|uh=4F4F|ud=20303|bh=A6ED|bd=42733}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|alt1=亻|主|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhù
+|c=zyu6
+|h=pfs=chhu
+|md=cê̤ṳ
+|mn=qz,tw,xm,zz:chū/qz:tiū
+|mn_note=chū - literary; tiū - vernacular
+|w=3zr
+|mc=y
+|oc=y
+|ma=zh-zhù.ogg
+|cat=v,suf
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[live]], to [[dwell]], to [[reside]]
+# to [[stay]]
+# to [[stop]], to [[cease]]
+# {{n-g|Verb suffix indicating [[firmness]], [[steadiness]] or coming to a halt.}}
+
+====Compounds====
+{{zh-der|不住|不住口|不住嘴|不住眼|不停住|且住|久停久住|住口|住嘴|住址|住坐|住宅|住宅區|住宅單元|住宅旅社|住客|住家|住宿|住屋|住戶|住所|住手|住持|住民|住紮|住腳|住處|住閒|住院|住院醫師|保不住|保住|借住|停住|僵住|凍住|勒住|原住民|去住|去住無門|吃不住|吃得住|呆住|咬住|問住|喝住|噤住|嚇住|嚥住|困住|國民住宅|圍住|團團圍住|坐不住|塞住|壓不住|壓住|夜住曉行|安住|寬住|封住|對不住|小住|就此打住|居住|居住密度|居住環境|居住自由|常住|幫住|平價住宅|忍不住|怔住|愣住|憋不住|截住|戳得住|扎住|打住|打住話頭|扯住|扶住|把不住|把住|把持不住|把腳不住|抓住|抵不住|抵住|招架不住|拴住|拿不住|拿住|拿得住|拿把不住|按捺不住|挺住|捉住|捉腳不住|捉身不住|捧住|掌不住|掐住|掛不住|掩不住|掩住|摀不住|摀住|摟住|摳住|撐不住|撐得住|擋不住|擋住|擱不住|擱得住|攔住|攫住|架不住|楞住|款住|止不住|止住|沉不住氣|沉住氣|沉得住氣|沒住頭|煞住|熬不住|留住|留客住|白住|白吃白住|瞞住|矇住|禁不住|禁得住|移住|穩住|立不住腳|站不住|站不住腳|站住|站住腳|站得住|管不住|絆住|給我記住|綁住|縛住|繫住|纏住|罩不住|罩得住|耐不住|蒙住|蓋住|衣食住行|裹住|記住|貧民住宅|起住|遮住|遲行早住|長住|閒住|閣不住|限制住居|隔不住|難住了|靠不住|靠得住|頂針捱住|食衣住行|養不住|鯁住|黏住}}
+
+===References===
+* {{R:cedict}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+===Noun===
+{{ja-kanjitab|じゅう|yomi=on}}
+{{ja-noun|じゅう}}
+# [[dwelling]]; [[living]]
+
+===Kanji===
+{{ja-kanji|grade=3|rs=人05}}
+
+# [[dwelling]], [[reside]]
+
+====Readings====
+* {{ja-readings|goon=[[じゅう]] (jū)|kanon=[[ちゅう]] (chū) {{non-joyo-reading}}|kun=[[すむ]] (sumu), [[とどまる]] (todomaru), [[やむ]] (yamu)}}
+
+====Compounds====
+* {{ja-r|住む|すむ}}: to [[live]] in
+* {{ja-r|住所|じゅうしょ}}: [[address]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=주|mr=chu}}
+
+# {{defn|lang=ko|sort=人05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trú]], [[trọ]], [[giọ]]|rs=人05}}
+
+# {{defn|lang=vi|sort=人05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f4f Nom Foundation]
+
+[[zh-min-nan:住]]
+[[fr:住]]
+[[ko:住]]
+[[it:住]]
+[[li:住]]
+[[hu:住]]
+[[mg:住]]
+[[ja:住]]
+[[no:住]]
+[[pl:住]]
+[[sr:住]]
+[[th:住]]
+[[chr:住]]
+[[uk:住]]
+[[vi:住]]
+[[zh:住]]

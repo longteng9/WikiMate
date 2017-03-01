@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|渍}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=11|sn=14|four=35186|canj=EQMC}}
+
+# [[soak]], [[steep]]
+# [[dye]]
+# [[stains]]
+# [[sodden]]
+
+====References====
+* {{Han ref|kx=0647.010|dkj=18167|dj=1057.010|hdz=31712.070|uh=6F2C|ud=28460|bh=BA7B|bd=47739}}
+
+----
+
+==Chinese==
+{{zh-forms|s=渍}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zì
+|c=zi3,zi6,zik1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|水漬|汗漬|油漬|油漬罐頭|浸漬|炙雞漬酒|血漬|醃漬|醋漬物|鹽漬食物}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水11}}
+
+# [[soak]]ing, [[steep#Verb|steep]]ing, [[pickling]], [[pickle]]
+
+====Readings====
+{{ja-readings
+|on=[[し]] (shi)
+|kun=[[あわたす|あわた.す]] (awata.su), [[つく|つ.く]] (tsu.ku), [[つかる|つ.かる]] (tsu.karu), [[つける|つ.ける]] (tsu.keru), [[つけ|つ.け]] (tsu.ke), [[つけ]] (tsuke), [[なずく|なず.く]] (nazu.ku), [[ひつ|ひ.つ]] (hi.tsu), [[ひず|ひ.ず]] (hi.zu), [[ひずつ|ひず.つ]] (hizu.tsu), [[ひたる|ひた.る]] (hita.ru), [[ひたす|ひた.す]] (hita.su)
+}}
+
+{{attention|ja|key=つけ|comment=Needs POSes, etyms, pronunciations, etc.}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=지|eumhun=|rv=ji|mr=chi|y=ci}}
+
+# {{defn|lang=ko|sort=水11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tí]], [[tứ]]|rs=水11}}
+
+# {{defn|lang=vi|sort=水11}}
+
+[[fr:漬]]
+[[ko:漬]]
+[[hu:漬]]
+[[ja:漬]]
+[[pl:漬]]
+[[th:漬]]
+[[zh:漬]]

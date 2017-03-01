@@ -1,0 +1,12 @@
+==Japanese==
+{{DEFAULTSORT:しょうほうぎじゅつ'}}
+{{ja-kanjitab|じょう|ほう|ぎ|じゅつ|yomi=o}}
+{{wikipedia|lang=ja}}
+
+===Etymology===
+{{cal|etyl lang=en|etyl term=information technology|ja|情報|技術|tr1=jōhō|tr2=gijutsu|t1=[[information]]|t2=[[technology]]}}
+
+===Noun===
+{{ja-noun|じょうほう ぎじゅつ}}
+
+# {{lb|ja|computing}} [[information technology]] {{gl|the practice of creating and/or studying computer systems and applications}}

@@ -1,0 +1,123 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=8}}
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=04|sn=8|four=37302|canj=YHVL|ids=⿺辶卬}}
+
+====References====
+* {{Han ref|kx=1254.030|dkj=38748|dj=1736.130|hdz=63821.090|uh=8FCE|ud=36814|bh=AAEF|bd=43759}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|辵|卬|alt1=辶|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+From {{inh|zh|sit-pro|*ŋra-k/ŋ||to meet; to encounter}}. Cognate with {{cog|my|ငြင်း||to refuse to obey; to argue}}. Within Chinese, it is related to:
+
+* {{och-l|禦|to defend}}
+* {{och-l|迕|to meet; to go against}}
+* {{och-l|迓|to receive; to defend}}
+* {{och-l|溯|to go upstream}}
+* {{och-l|逆|to greet; to go against; to resist}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=yíng
+|c=jing4
+|h=pfs=
+|md=ngiàng/ngìng
+|md_note=ngiàng - colloquial ("to parade through the streets; to become dry; to stick up"); ngìng - literary ("to welcome, to meet, to face, to flatter")
+|mn=ngiâ/gêng
+|mn_note=ngiâ - colloquial ("to parade through the streets; to meet, to greet"); gêng - literary
+|w=3nyin
+|mc=1
+|oc=1,1
+|cat=v,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[receive]]; to [[welcome]]; to [[greet]]; to [[meet]]
+#: {{zh-x|歡迎|welcome}}
+# to [[flatter]]; to [[ingratiate]] with
+# to [[face]]; to [[go]] against; to do something in face of ...; to [[forge]] [[ahead]]
+# {{lb|zh|Min}} to [[escort]] (a god, hero etc.) through the streets; to [[parade]] through the streets
+# {{lb|zh|Min Dong|of food}} to become [[dry]] (due to exposure to the wind)
+# {{lb|zh|Min Dong|of hair}} to [[stick]] up; to become [[erect]]
+# {{surname|lang=zh}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=yìng
+|c=jing6
+|mc=2
+|oc=2,2
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[prepare]] to [[greet]] a guest before their arrival
+
+===Compounds===
+{{zh-der|歡迎|迎接|迎面|迎敵|迎養|迎戰|迎神|迎駕|迎謁|逢迎|有失遠迎|迎迓|出迎|倒屣相迎|倒屣而迎|倒屣迎之|倒屣迎賓|倒履相迎|善氣迎人|大迎枕|失迎|夾道歡迎|奉迎|奔走逢迎|弔賀迎送|恭迎|承迎|承順逢迎|揣合逢迎|擁彗迎門|曲意逢迎|水送山迎|竭誠歡迎|親迎|賣俏迎奸|迎來送往|迎候|迎刃而解|迎合|迎向|迎妝|迎姦賣俏|迎娶|迎婿日|迎年|迎意承旨|迎手|迎擊|迎新|迎新送故|迎新送舊|迎春|迎春花|迎會|迎歡買俏|迎睇|迎神賽會|迎紫姑|迎親|迎賓|迎阿|迎靈|迎頭|迎頭兒|迎頭棒喝|迎頭痛擊|迎頭趕上|迎風|迎風冒雪|迎風待月|迎風搖曳|送往迎來|送故迎新|送舊迎新|逢迎色笑|遠迎|郊迎|阿諛逢迎}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=辵04}}
+
+# [[welcome]]
+# to [[meet]]
+# to [[greet]]
+
+====Readings====
+* {{ja-readings|goon=[[ぎょう]] (gyō)|kanon=[[げい]] (gei)|kun=[[むかえる]] (mukaeru)|nanori=}}
+
+===Proper noun===
+{{ja-kanjitab|むかい|yomi=k}}
+{{ja-kanjitab|むかえ|yomi=k}}
+{{ja-pos|proper|むかえ|むかい}}
+
+# {{surname|lang=ja|sort=むかえ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=영|eumhun=|rv=yeong|mr=yŏng|y=yeng}}
+
+# to [[meet]]
+# to [[greet]]
+# [[welcome]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nghênh]], [[ngảnh]], [[nghểnh]], [[nghiêng]], [[nginh]]|rs=辵04}}
+
+# {{defn|lang=vi|sort=辵04}}
+
+[[fr:迎]]
+[[ko:迎]]
+[[hu:迎]]
+[[mg:迎]]
+[[ms:迎]]
+[[ja:迎]]
+[[no:迎]]
+[[pl:迎]]
+[[th:迎]]
+[[zh:迎]]

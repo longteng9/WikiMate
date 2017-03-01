@@ -1,0 +1,135 @@
+{{character info/new}}
+{{also|罚|罸}}
+==Translingual==
+{| class="floatright" border=1 cellpadding="5" cellspacing="0"
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Simplified Chinese|Simplified]]'''
+|<span class="Hans" lang="zh-hans" style="font-size: 175%">[[罚]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Traditional Chinese|Traditional]]'''
+|<span class="Hant" lang="zh-hant" style="font-size: 175%">[[罰]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Japanese]]'''
+|<span class="Jpan" lang="jp" style="font-size: 175%">[[罰]]</span>
+|- valign="center"
+| bgcolor="#dfefff"|
+'''[[Korean]]'''
+|<span class="Ko" lang="ko" style="font-size: 175%">[[罸]]</span>
+|}
+===Etymology===
+{{Han etyl}}
+{{Han compound|詈|刀|c1=s|c2=s|t1=abuse|t2=knife|ls=ic}}.
+
+===Han character===
+{{Han char|rn=122|rad=网|as=09|sn=14|four=60620|canj=WLYRN|ids=⿱罒䚯}}
+
+# [[penalty]], [[fine]]
+# [[punish]], [[penalize]]
+
+====References====
+* {{Han ref|kx=0948.330|dkj=28315|dj=1390.130|hdz=42923.030|uh=7F70|ud=32624|bh=BB40|bd=47936}}
+
+----
+
+==Chinese==
+{{zh-forms|s=罚}}
+
+===Pronunciation===
+{{zh-pron
+|m=fá
+|c=fat6
+|h=pfs=fa̍t
+|md=
+|mn=hoa̍t
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[punish]], to [[fine]], to [[sentence]]
+# [[punishment]]
+
+====Derived terms====
+* {{zh-l|罰站}}
+* {{zh-l|罰企}}
+* {{zh-l|罰球}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=网09}}
+
+# [[punishment]]
+# [[punish]]
+
+====Readings====
+* {{ja-readings|kanon=[[はつ]] (''hatsu'')|goon=[[ぼち]] (''bochi'')|kanyoon=[[ばつ]] (''batsu''), [[ばち]] (''bachi'')}}
+
+====Alternative forms====
+* [[罸]] (Old character)
+
+====Compounds====
+* {{ja-r|罰金|ばっきん}}
+* {{ja-r|罰則|ばっそく}}
+* {{ja-r|罰俸|ばっぽう}}
+* {{ja-r|神罰|しんばつ}}: [[divine punishment]]
+* {{ja-r|罰ゲーム|ばつゲーム}}: "punishment game", as when one loses a bet and has to do something embarrassing
+
+====References====
+* {{S-JIS|E3AD}}
+* {{JIS|662F}}
+
+===Noun===
+{{ja-noun|ばち}}
+
+# (divine) [[punishment]]; a [[curse]]
+
+===Noun===
+{{ja-noun|ばつ}}
+
+# a [[punishment]]; a [[penalty]]
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 罰]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=벌|eumhun=|rv=beol|mr=pŏl|y=pel}}
+
+# {{defn|lang=ko|sort=网09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phạt]], [[ảng]], [[ang]], [[ương]]|rs=网09}}
+
+# {{defn|lang=vi|sort=网09}}
+
+[[zh-min-nan:罰]]
+[[cs:罰]]
+[[fr:罰]]
+[[ko:罰]]
+[[lo:罰]]
+[[hu:罰]]
+[[mg:罰]]
+[[nl:罰]]
+[[ja:罰]]
+[[pl:罰]]
+[[fi:罰]]
+[[th:罰]]
+[[chr:罰]]
+[[zh:罰]]

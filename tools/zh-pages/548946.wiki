@@ -1,0 +1,63 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàwáng,dàiwáng
+|m_note=dàwáng - "(metaphorical) king of"; dàwáng, dàiwáng - the remaining senses
+|c=daai6 wong4
+|h=pfs=thai-vòng
+|mn=tāi-ông
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|historical}} [[monarch]]
+# {{lb|zh|historical|novel}} [[ringleader]]
+# {{lb|zh|metaphorical}} [[king]] (of)
+#: {{zh-x|鹹濕 大王|'''king''' of perversion|C}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|だい|おう|yomi=o}}
+
+===Etymology===
+{{com|ja|大|王|tr1=dai|t1=[[great]]|tr2=ō|t2=[[king]]|sort=たいおう'}}, from {{der|ja|zh|大王}}
+
+===Pronunciation===
+{{ja-pron|acc=3|y=go|だいおう}}
+
+===Noun===
+{{ja-noun|だいおう|hhira=だいわう}}
+
+# {{lb|ja|monarchy|sort=たいおう'}} a "[[great]] [[king]]" (used in titles of some monarchs, and also as a translation of {{etyl|en|-}} "the Great")
+#* {{quote-book
+|language=Japanese
+|genre=fiction
+||{{w|Motohiro Katou}}
+|{{w|Q.E.D. 証明終了|{{ruby|{{lang|ja|Q.E.D. [証](しょう)[明](めい)[終](しゅう)[了](りょう)}}}}|lang=ja}}
+|trans-title={{w|Q.E.D. (manga)|Q.E.D. Quod Erat Demonstrandum}}
+|location=Tokyo
+|publisher=Kodansha
+|date=March 10 2001
+|edition=9th
+|origdate=December 16 1998
+|isbn=4-06-333656-X
+|volume=1
+||102
+|chapter={{ruby|{{lang|ja|ミネルヴァの[梟](ふくろう)}}}}
+|trans-chapter=<nowiki></nowiki>{{w|Owl of Athena|Owl of Minerva}}
+|{{ruby|{{lang|ja|クラブの[Ｋ](キング)はマケドニアのアレクサンダー'''[大](だい)[王](おう)'''}}}}
+|transliteration=''Kurabu no kingu wa Makedonia no Arekusandā '''Daiō'''''
+|translation=The king of clubs is Alexander '''the Great''' of Macedonia}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:大王]]
+[[ko:大王]]
+[[chr:大王]]
+[[zh:大王]]

@@ -1,0 +1,91 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gōngxián
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[bowstring]]
+
+[[Category:zh:Archery]]
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|弦 (弓)}}
+{{wikipedia|Bowstring}}
+[[File:Tsurumaki_string_holder_1.JPG|thumb|250px|{{lang|ja|弓弦}}: Japanese '''bowstring''' and {{m|ja|弦巻|tr=tsurumaki||woven bowstring winder}}.]]
+</div>
+{{ja-kanjitab|弓|弦}}
+
+===Etymology 1===
+From {{etyl|ojp|ja|sort=ゆづる}}. Compound of {{compound|lang=ja|sort=ゆづる|弓|tr1=yu|t1=bow|弦|tr2=tsuru|t2=string, line}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> {{rendaku2|sort=ゆづる|tsuru|zuru}}
+
+Probably the original reading, given the etymology of the ''yu'' and ''yumi'' readings for {{ja-l|弓}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|ゆずる|acc=1|acc_ref=NHK,DJR|acc2=0|acc2_ref=NHK,DJR}}
+* {{IPA|lang=ja|[jɯ̃ᵝd͡zɯᵝɾ̠ɯᵝ]}} {{qualifier|dialectal pronunciation}}
+
+====Noun====
+{{ja-noun|ゆづる}}
+
+# a [[bowstring]]
+#* {{RQ:Manyoshu|11|2638}}; [http://etext.lib.virginia.edu/japanese/manyoshu/Man11Yo.html#2638 text here]
+#*: 梓弓 末之腹野尓 鷹田為 君之'''弓食'''之 将絶跡念甕屋
+#*:: 梓弓 末のはら野に 鳥狩する 君が'''弓弦'''の 絶えむと思へや<br/>あづさゆみ すゑのはらのに とがりする きみが'''ゆづる'''の たえむとおもへや
+#*:: ''Azusa yumi / sue no harano ni / togari suru / kimi ga '''yuzuru''' no / taemu to omoe ya''
+#*::: Think about your '''bowstring''' snapping as you go off hunting birds in the far fields with your catalpa bow
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-l|弓弦を鳴らす|ゆづるをならす|yuzuru o narasu}}: “to make the bowstring sing” → to [[strum]] or [[thrum]] a bowstring, done to [[ward]] off [[evil]]
+{{der-bottom}}
+
+===Etymology 2===
+From {{etyl|ojp|ja|sort=ゆみづる}}. Compound of {{compound|lang=ja|sort=ゆみづる|弓|tr1=yumi|t1=bow|弦|tr2=tsuru|t2=string, line}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> {{rendaku2|sort=ゆみづる|tsuru|zuru}}
+
+Probably a later reading, given the etymology of the ''yu'' and ''yumi'' readings for {{ja-l|弓}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|acc=0|acc_ref=NHK,DJR}}
+* {{IPA|lang=ja|[jɯ̃ᵝmid͡zɯᵝɾ̠ɯᵝ]}} {{qualifier|dialectal pronunciation}}
+
+====Noun====
+{{ja-noun|ゆみづる}}
+
+# a [[bowstring]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|弓弦打ち|ゆみづる うち}}, {{ja-r|弓弦打|ゆみづる うち}}: [[striking]] or [[strum]]ming a bowstring, done to [[ward]] off [[evil]]
+* {{ja-r|弓弦師|ゆみづるし}}: a [[master]] [[maker]] of bowstrings
+* {{ja-r|弓弦袋|ゆみづるぶくろ}}: a [[pouch]] for a [[spare]] bowstring
+{{der-bottom}}
+
+===Etymology 3===
+{{IPAchar|/jumizuru/}} → {{IPAchar|/junzuru/}}
+
+Alteration from ''yumizuru'' reading.<ref name="KDJ"/>
+
+====Pronunciation====
+{{ja-pron|yomi=k|ゆんずる|acc=0|acc_ref=NHK}}
+* {{IPA|lang=ja|[jɯ̃ᵝɴd͡zɯᵝɾ̠ɯᵝ]}} {{qualifier|dialectal pronunciation}}
+
+====Noun====
+{{ja-noun|ゆんづる}}
+
+# a [[bowstring]]
+
+===References===
+<references/>
+
+[[mg:弓弦]]
+[[chr:弓弦]]
+[[zh:弓弦]]

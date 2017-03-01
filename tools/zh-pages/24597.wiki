@@ -1,0 +1,119 @@
+{{character info/new}}
+==Translingual==
+{{ja-forms|臭|臭|臭}}
+
+===Alternative forms===
+In Japanese, the bottom character is simplified to [[大]], rather than the traditional {{m|mul|犬||dog|sc=Hani}}.
+
+===Han character===
+{{Han char|rn=132|rad=自|as=04|sn=10|four=26430|canj=HUIK|ids=⿱自犬}}
+
+====References====
+* {{Han ref|kx=1000.200|dkj=30103|dj=1456.070|hdz=53047.040|uh=81ED|ud=33261|bh=AFE4|bd=45028}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|犬|t1=dog|自|t2=nose|ls=ic}}, referring to the dog's strong sense of smell.
+
+===Pronunciation 1===
+{{zh-pron
+|m=chòu
+|c=cau3
+|h=pfs=chhu
+|mn=chhàu
+|w=2tsheu
+|mc=y
+|oc=y
+|ma=y
+|cat=n,a,adv
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[bad]] [[smell]]
+#: {{zh-x|體臭|body '''odour'''}}
+# bad [[name]]; bad [[reputation]]
+#: {{zh-x|遺臭萬年|to go down in history as a byword of '''infamy'''}}
+# [[smelly]]; [[stinky]]
+#: {{zh-x|臭豆腐{fu}|'''stinky''' tofu}}
+#: {{zh-x|有人 覺得 榴槤 很 臭，也 有人 覺得 很 香。|Some people think durian is stinky, while others think it smells good.}}
+# [[ugly]]; [[repulsive]]
+#: {{zh-x|臭架子{zi}|'''stinking''' pretension}}
+# [[fiercely]]
+#: {{zh-x|臭罵|to scold '''fiercely'''}}
+# [[bad]]; [[poor]] (luck, skill, etc)
+
+====Compounds====
+{{zh-der|fold=1|惡臭|不知香臭|口臭|捧臭腳|播惡遺臭|狐騷臭|發臭|狐臭|渾身銅臭|淫汙穢臭|體臭|臭街爛巷|臭乎乎|臭嚼|臭腳丫子|臭名昭著|臭鼬|臭架子|臭蓋|臭名|胡臭|臭恭維|臭罵|臭死|臭皮囊|臭烘烘|臭肉來蠅|逐臭之夫|臭蟲|臭泥|腥臭|腐臭|臭氣沖天|脫臭|臭豆腐|臭不可聞|臭么|臭腺|臭氧層|臭打|臭不可當|臭椿|臭名昭彰|臭頭|臭短臊長|臭氣|腋臭|附膻逐臭|防臭劑|臭錢|臭名遠揚|餿臭|臭皮匠|遺臭萬載|遺臭萬年|遺臭萬代|遺臭千年|遺臭|逐臭|臭氧|臭美|臭侷|臭排場}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=xiù
+|c=cau3
+|w=2xieu
+|ma=y
+|cat=n,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[odour]]
+#: {{zh-x|無色 無臭{xiù}|colourless and '''odour'''less}}
+#* {{zh-x|羴：羊 臭{xiù} 也。|The character 羴: sheep's smell.|ref=Shuowen}}
+# {{†}} {{zh-original|嗅|to [[smell]]}}
+
+====Compounds====
+{{zh-der|fold=1|無臭|口尚乳臭|崔烈銅臭|無聲無臭|臭覺|銅臭味|臭味相投|銅臭|蘭臭|臭味}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=自04}}
+
+# stinking, ill-smelling, stink
+# odor, savor, fragrance, be fragrant
+# suspicious looking
+# glow, be bright
+
+====Readings====
+* {{ja-readings|goon=[[しゅ]] (shu), [[く]] (ku)|kanon=[[しゅう]] (shū), [[きゅう]] (kyū)|kun=[[くさい]] (kusai), [[におい]] (nioi), [[かぐ]] (kagu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[취]], [[후]]|eumhun=|rv=chwi, hu|mr=ch'wi, hu|y=chwi, hwu}}
+
+# {{defn|lang=ko|sort=自04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xú]], [[xó]], [[xũ]], [[xấu]], [[khứu]]|rs=自04}}
+
+# {{defn|lang=vi|sort=自04}}
+
+[[zh-min-nan:臭]]
+[[fr:臭]]
+[[ko:臭]]
+[[it:臭]]
+[[hu:臭]]
+[[mg:臭]]
+[[ja:臭]]
+[[no:臭]]
+[[pl:臭]]
+[[th:臭]]
+[[chr:臭]]
+[[zh:臭]]

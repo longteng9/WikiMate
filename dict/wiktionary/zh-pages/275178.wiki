@@ -1,0 +1,71 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wǔqián
+|c=ng5 cin4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[a.m.]], [[morning]], before noon
+
+====Synonyms====
+{{zh-dial|上午}}
+
+{{zh-cat|Time}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ご|ぜん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ごぜん|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ごぜん}}
+
+# [[a.m.]], [[morning]]
+
+====Antonyms====
+* {{ja-r|午後|ごご}}: [[afternoon]]
+
+====See also====
+* {{ja-r|正午|しょうご}}: [[noon]]
+
+===References===
+<references/>
+
+[[Category:ja:Time|こせん']]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=오전}}
+
+# {{hanja form of|오전|[[morning]]; before noon}}
+
+====Antonyms====
+* {{l|ko|午後}} ([[오후]], ohu)
+
+[[fr:午前]]
+[[ko:午前]]
+[[it:午前]]
+[[sw:午前]]
+[[lo:午前]]
+[[lt:午前]]
+[[hu:午前]]
+[[mg:午前]]
+[[fj:午前]]
+[[ja:午前]]
+[[pt:午前]]
+[[fi:午前]]
+[[chr:午前]]
+[[zh:午前]]

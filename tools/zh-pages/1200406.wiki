@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+{{zh-compound|大*|都*|big|all}}
+
+====Pronunciation====
+{{zh-pron
+|m=dàdōu
+|c=daai6 dou1
+|cat=adv
+}}
+
+====Adverb====
+{{zh-adv}}
+
+# [[generally]]; [[for the most part]]; [[on the whole]]
+
+===Etymology 2===
+{{wikipedia|Khanbalik}}
+{{zh-compound|大*|都*|big|city, capital}}
+
+====Pronunciation====
+{{zh-pron
+|m=Dàdū
+|c=daai6 dou1
+|cat=pn
+}}
+
+====Proper noun====
+{{zh-proper noun}}
+
+# {{lb|zh|historic}} [[Khanbalik]], the [[capital]] of the [[Mongolian]] [[Yuan]] [[dynasty]] at the site of modern [[downtown]] [[Beijing]], [[China]]
+
+=====Synonyms=====
+* {{zh-l|元大都}}
+* {{zh-l|汗八里}}
+
+[[ko:大都]]
+[[hu:大都]]
+[[ja:大都]]
+[[zh:大都]]

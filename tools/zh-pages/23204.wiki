@@ -1,0 +1,139 @@
+{{character info/new}}
+{{also|系|丝}}
+==Translingual==
+{{Han simplified forms|絲|糸|丝}}
+{{stroke order|type=bw|strokes=6}}
+{{stroke order|type=animate}}
+{{stroke order|type=alternative}}
+
+===Etymology===
+{{Han etyl}}
+
+{{liushu|p}}: silk.
+
+===Alternative forms===
+* {{zh-l|糹/纟}} (when used as a left Chinese radical)
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=00|sn=6|four=22903|canj=VIF|ids=⿱幺小}}
+
+# {{mul-kangxi radical-def}}
+# Shuōwén Jiězì radical №467
+
+====Usage notes====
+When used as a left Chinese radical, Japanese [[shinjitai]] and traditional Chinese use a compressed form of 糸 (with [[小]] on the bottom), with traditional Chinese also using [[糹]] (with three dots on the bottom), and simplified Chinese uses [[纟]] (with [[一]] on the bottom).
+
+====References====
+* {{Han ref|kx=0915.010|dkj=27221|dj=1341.360|hdz=53361.010|uh=7CF8|ud=31992|bh=A6CD|bd=42701}}
+
+[[Category:CJKV radicals| ]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=mì
+|c=mik6
+|h=pfs=met
+|w=5miq
+|mc=y
+|oc=y
+|ma=y
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{†}} [[thin]] [[silk]]
+# {{†}} {{non-gloss definition|A length unit, equal to the width of five parallel threads of silk.}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=sī
+|c=si1
+|h=pfs=sṳ̂
+|mn=si
+|w=1sr
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{†}} {{zh-alt-form|絲|[[silk]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=1|rs=糸00|style=s|kyu=絲}}
+
+====Readings====
+'''Kyujitai'''
+{{ja-readings
+|goon=[[みゃく]] (myaku)
+|kanon=[[べき]] (beki)}}
+'''Shinjitai''' (simplification of {{l|ja|絲}})
+{{ja-readings
+|goon=[[し]] (shi)
+|kanon=[[し]] (shi)
+|kun=[[いと]] (ito)}}
+
+===Noun===
+{{ja-noun|いと|kyu=絲}}
+
+# [[thread]]
+
+====Coordinate terms====
+* {{ja-r|紐|ひも}}: string
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=멱|eumhun=가는 실|rv=myeok|mr=myŏk|y=myek|ehrv=ganeun sil}}
+
+# {{defn|lang=ko|sort=糸00}}
+
+[[Category:Grade 1 kanji]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mịch]]|rs=糸00}}
+
+# {{defn|lang=vi|sort=糸00}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=7cf8 Nom Foundation]
+
+[[et:糸]]
+[[fr:糸]]
+[[ko:糸]]
+[[lo:糸]]
+[[lt:糸]]
+[[li:糸]]
+[[hu:糸]]
+[[mg:糸]]
+[[ms:糸]]
+[[nl:糸]]
+[[ja:糸]]
+[[km:糸]]
+[[pl:糸]]
+[[pt:糸]]
+[[ru:糸]]
+[[fi:糸]]
+[[sv:糸]]
+[[ta:糸]]
+[[th:糸]]
+[[chr:糸]]
+[[uk:糸]]
+[[zh:糸]]

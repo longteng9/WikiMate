@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|讯}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+
+===Han character===
+{{Han char|rn=149|rad=言|as=03|sn=10|four=07610|canj=YRNJ}}
+
+# [[inquire]]
+# [[ask]]
+# [[examine]]
+# [[reproach]]
+
+====References====
+* {{Han ref|kx=1147.040|dkj=35224|dj=1614.040|hdz=63942.100|uh=8A0A|ud=35338|bh=B054|bd=45140}}
+
+----
+
+==Chinese==
+{{zh-forms|s=讯}}
+
+===Pronunciation===
+{{zh-pron
+|m=xùn
+|c=seon3
+|h=pfs=
+|md=
+|mn=qz,tw,xm,zz:sìn
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=言03}}
+
+# [[ask]]; [[question]]
+
+====Readings====
+* {{ja-readings|on=[[じん]] (jin), [[しん]] (shin), [[しゅん]] (shun)|kun=[[きく]] ([[訊く]], kiku), [[とう]] ([[訊う]], tou), [[たずねる]] ([[訊ねる]], tazuneru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=신|eumhun=|rv=sin|mr=sin|y=sin}}
+
+# {{defn|lang=ko|sort=言03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tấn]]|rs=言03}}
+
+# {{defn|lang=vi|sort=言03}}
+
+[[fr:訊]]
+[[hu:訊]]
+[[mg:訊]]
+[[ja:訊]]
+[[pl:訊]]
+[[th:訊]]
+[[zh:訊]]

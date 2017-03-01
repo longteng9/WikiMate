@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|亙}}<!-- may be replaced by zh-forms -->
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+
+===Han character===
+{{Han char|rn=7|rad=二|as=04|sn=6|four=10106|canj=MAM|ids=⿱一旦}}
+
+# [[extend]] [[across]], [[through]]
+# [[from]]
+
+====References====
+* {{Han ref|kx=0087.040|dkj=00262|dj=0183.100|hdz=10017.160|uh=4E98|ud=20120}}
+
+----
+
+==Chinese==
+{{zh-see|亙|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=二04}}
+
+# [[span]]
+# [[request]]
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen), [[かん]] (kan), [[こう]] (kō)|kun=[[もとめる]] (motomeru), [[わたる]] ([[亘る]], wataru)|nanori=[[せん]] (sen), [[のぶ]] (nobu), [[とおる]] (tōru), [[わたり]] (watari), [[ひろし]] (hiroshi)}}
+
+====Compounds====
+* [[亘古]] - こうこ - forever, from ancient times.
+* [[連亘]] - れんこう - extending in a row
+
+====References====
+{{ja-kref
+|jis=4F4B
+|ku=4743
+|shift=986a
+|euc=
+|freq=1728
+|nelson=30
+|newnelson=79
+|halpern=1939
+|kld=1232
+|heisig=32
+|tuttle=4c2.4
+}}
+
+===Proper noun===
+{{ja-pos|proper|わたる}}
+
+# {{given name|male|lang=ja|sort=わたる}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[선]], [[환]]|rv=seon, hwan|mr=sŏn, hwan}}
+
+# {{defn|lang=ko|sort=二04}}
+
+[[fr:亘]]
+[[ko:亘]]
+[[li:亘]]
+[[hu:亘]]
+[[mg:亘]]
+[[ja:亘]]
+[[pl:亘]]
+[[th:亘]]
+[[zh:亘]]

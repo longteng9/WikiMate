@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|ちょう|しん|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|ちょうしん|y=on}}
+
+===Noun===
+{{ja-noun|ちょうしん}}
+
+# [[auscultation]] {{gloss|diagnosis by stethoscope or similar auditory device}}
+
+====Compounds====
+* {{l/ja|聴診器}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|ちょうしん}}
+
+# [[auscultate]]
+
+====Conjugation====
+{{ja-suru|ちょうしん}}
+
+[[ja:聴診]]
+[[zh:聴診]]

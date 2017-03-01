@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=lìzǐ,tl=y
+|c=lap1 zi2
+|mn=lia̍p-chú
+|w=5liq tsr
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|physics}} [[particle]]
+
+====Derived terms====
+{{zh-der|反粒子}}
+
+===Noun===
+{{zh-noun}}
+
+# [[grain]]; [[pellet]]; [[granule]]
+
+[[Category:zh:Physics|li4zi3]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|りゅう|し|yomi=on}}
+
+===Noun===
+{{ja-noun|りゅうし}}
+
+# A body with very small size; a [[particle]].
+# {{lb|ja|physics}} A [[particle]].
+
+[[Category:ja:Physics|りゆうし]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=입자}}
+
+# {{hanja form of|입자|[[particle]]}}
+
+[[zh-min-nan:粒子]]
+[[ky:粒子]]
+[[hu:粒子]]
+[[mg:粒子]]
+[[zh:粒子]]

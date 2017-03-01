@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=héfāng
+|c=ho4 fong1
+|mn=hô-hong
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[where]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=irr}}
+===Pronoun===
+{{ja-pos|pronoun|どちら}}
+# [[which]] way?
+# which one? (of two alternatives)
+
+====See also====
+{{Japanese demonstratives}}
+
+====Usage notes====
+The hiragana spelling ([[どちら]]) is preferred to the kanji spelling ([[何方]]), which is rarely used.
+
+===Pronoun===
+{{ja-pos|pronoun|どなた}}
+# [[who]]? {{qualifier|honorific}}
+
+====Usage notes====
+The hiragana spelling ([[どなた]]) is preferred to the kanji spelling ([[何方]]).
+
+====Synonyms====
+* {{ja-r|誰|だれ}} {{qualifier|plain}}
+
+[[hu:何方]]
+[[mg:何方]]
+[[pl:何方]]
+[[zh:何方]]

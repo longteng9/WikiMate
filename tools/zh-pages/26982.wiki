@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|诠}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=06|sn=13|four=08614|canj=YROMG}}
+
+# explain, expound, comment on
+
+====References====
+* {{Han ref|kx=1158.040|dkj=35435|dj=1624.010|hdz=63967.030|uh=8A6E|ud=35438|bh=B8E0|bd=47328}}
+
+----
+
+==Chinese==
+{{zh-forms|s=诠}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=quán
+|c=cyun4
+|mn=qz:choân/tw:chhoan/xm,zz:chhoân
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|真詮|詞詮|詮次|詮注|詮說|詮證|詮釋}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言06}}
+
+# {{defn|lang=ja|sort=言06}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen)|kun=[[のり]] (nori)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|eumhun=|rv=jeon|mr=chŏn|y=cen}}
+
+# {{defn|lang=ko|sort=言06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thuyên]]|rs=言06}}
+
+# {{defn|lang=vi|sort=言06}}
+
+[[fr:詮]]
+[[hu:詮]]
+[[mg:詮]]
+[[ja:詮]]
+[[pl:詮]]
+[[th:詮]]
+[[zh:詮]]

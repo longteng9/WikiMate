@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=huākuí
+|c=faa1 fui1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[plum blossom]]
+# {{lb|zh|literary|dated}} the most famous [[courtesan]] in a [[brothel]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=irr|sort=おいらん}}
+
+===Etymology===
+A contraction of {{m|ja|己等|tr=oira}} and the possessive marker {{m|ja|の|tr=no}} (oira no → oira n → oiran). Young assistants used to call their elder courtesans ''oira no'', an ellipse for ''oira no [[姉|neesan]]''. The kanji are {{juku|sort=おいらん}}, from {{der|ja|zh|花魁}}.
+
+===Pronunciation===
+{{ja-pron|acc=0|y=i|おいらん}}
+
+===Noun===
+{{ja-noun|おいらん}}
+
+# {{lb|ja|archaic|slang|sort=おいらん}} an [[oiran]]
+
+====Derived terms====
+* {{ja-r|花魁%鳥|オイラン%ドリ}}
+
+{{C|ja|Occupations|sort=おいらん}}
+[[ko:花魁]]
+[[sv:花魁]]
+[[zh:花魁]]

@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|勗}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=19|rad=力|as=09|sn=11|four=64627|canj=AUKS|ids=⿰冒力}}
+
+# [[enjoin]], [[advise]], [[preach]] to
+# [[encourage]]
+
+====References====
+* {{Han ref|kx=0148.170|dkj=02391|dj=0334.010|hdz=10375.040|uh=52D6|ud=21206|bh=D46D|bd=54381}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=勗}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xù
+|c=juk1
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|荀勖}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=力09}}
+
+# [[enjoin]]
+# [[advise]]
+# preach to
+
+====Readings====
+* {{ja-readings|on=[[きゃく]] (kyaku), [[こく]] (koku), [[ぼう]] (bō)|kun=[[つとめる]] (tsutomeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=욱|rv=uk|mr=uk|y=wuk}}
+
+# to exert oneself
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=力09|hanviet=húc}}
+
+# {{defn|lang=vi|sort=力09}}
+
+[[fr:勖]]
+[[hu:勖]]
+[[mg:勖]]
+[[ja:勖]]
+[[pl:勖]]
+[[th:勖]]
+[[zh:勖]]

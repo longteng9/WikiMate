@@ -1,0 +1,124 @@
+{{character info/new}}
+{{also|刊}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=05|sn=7|four=92500|canj=FQLN|ids=⿰半刂}}
+
+# [[judge]]
+# [[discriminate]]
+# [[conclude]]
+
+====References====
+* {{Han ref|kx=0138.110|dkj=01923|dj=0311.120|hdz=10331.050|uh=5224|ud=21028|bh=A750|bd=42832}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|半|t1=half (cow)|刀|t2=knife|alt2=刂|ls=psc|c2=s|c1=p}} – to cut fine distinctions 刀 (to judge, to discriminate). Phonetic (半) is also a cow cut in half, hence “divide a cow”.
+
+===Pronunciation===
+{{zh-pron
+|m=pàn
+|c=pun3
+|h=pfs=phan
+|md=
+|mn=qz,xm,zz:phoàn/tw:phàn/phòaⁿ
+|mn_note=phoàn/phàn - literary; phòaⁿ - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=刀05}}
+
+====Readings====
+{{ja-readings
+|goon=[[はん]] (han)
+|kanon=[[はん]] (han)
+|kanyoon=[[ばん]] (ban)
+|kun=[[わかる]] (wakaru), [[わかれる]] (wakareru), [[わかつ]] (wakatsu)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|判然|はんぜん}}: [[clearness]]
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|はん|yomi=o}}
+From {{etyl|ltc|ja|sort=はん}} {{m|zh|判|tr=phan<sup>H</sup>}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|はん|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|はん}}
+
+# [[stamp]], [[seal]]
+# [[judgement]]
+
+====Suffix====
+{{ja-pos|suffix|はん}}
+
+# [[size]] of paper or books
+
+===Etymology 2===
+{{ja-kanjitab|ばん|yomi=kanyoon}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanyoon|ばん|acc=1|acc_ref=NHK}}
+
+====Suffix====
+{{ja-pos|suffix|ばん}}
+
+# [[size]] of paper or books
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=판|rv=pan|mr=p'an}}
+
+# {{defn|lang=ko|sort=刀05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''判''' ([[phán]])
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:判]]
+[[fr:判]]
+[[ko:判]]
+[[li:判]]
+[[hu:判]]
+[[mg:判]]
+[[ms:判]]
+[[ja:判]]
+[[no:判]]
+[[pl:判]]
+[[th:判]]
+[[chr:判]]
+[[zh:判]]

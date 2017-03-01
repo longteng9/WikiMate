@@ -1,0 +1,39 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=07|sn=11|four=42927|canj=DUCH|ids=⿰木⿱山分}}
+
+====References====
+* {{Han ref|kx=0530.070|dkj=14868|dj=0918.060|hdz=21215.040|uh=68A4|ud=26788|bh=D5CF|bd=54735}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fén,fēn
+|c=fan4,fan1
+|oc=y
+|mc=y
+|cat=n
+}} <!--it seems like the pronunciation is different from 棻-->
+
+===Noun===
+{{zh-noun}}
+
+# {{synonym of|棻||[[aromatic]] wood|lang=zh}}
+
+===References===
+* {{R:twedu|C05141}}
+* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 128]
+
+[[fr:梤]]
+[[pl:梤]]
+[[th:梤]]
+[[zh:梤]]

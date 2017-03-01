@@ -1,0 +1,53 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=09|sn=12|four=55034|canj=QQKK|ids=⿰扌奏}}
+
+# [[hit]], [[beat]]
+# [[smash]], [[break]]
+
+====References====
+* {{Han ref|kx=0441.150|dkj=12337|dj=0792.100|hdz=31911.040|uh=63CD|ud=25549|bh=B47E|bd=46206}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zòu
+|c=zau3,cau3
+|h=pfs=
+|md=
+|mn=qz:chò/xm,zz:chò͘
+|w=
+|mc=
+|oc=
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|colloquial}} to [[hit]]; to [[beat]]; to [[strike]]
+#: {{zh-usex|我 要 揍 你！|I'll '''go''' you!}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tẩu]], [[tấu]]|rs=手09}}
+
+# {{defn|lang=vi|sort=手09}}
+
+[[zh-min-nan:揍]]
+[[fr:揍]]
+[[hu:揍]]
+[[mg:揍]]
+[[no:揍]]
+[[pl:揍]]
+[[th:揍]]
+[[zh:揍]]

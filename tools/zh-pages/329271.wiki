@@ -1,0 +1,84 @@
+{{also|质量}}
+==Chinese==
+{{zh-forms|s=质量}}
+
+===Etymology===
+{{wasei kango||しつりょう|mass, quality}}
+
+===Pronunciation===
+{{zh-pron
+|m=質liàng,tl=y
+|c=zat1 loeng6
+|h=pfs=chṳt-liong
+|md=cék-liông
+|mn=qz,xm,zz:chit-liōng/twv,zz:chit-liāng
+|w=4tseq lian
+|ma=Zh-zhìliàng.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|physics}} [[mass]]
+# {{lb|zh|Mainland China}} [[quality]]; [[standard]]; [[grade]]
+#: {{zh-x|教學 質量|'''quality''' of instruction}}
+# [[quality]] and [[quantity]]
+
+====See also====
+* {{zh-l|數量}}
+
+====Synonyms====
+* {{sense|quality}}
+{{zh-dial}}
+
+====Derived terms====
+{{zh-der|生活質量|質量數}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しつ|りょう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|しつりょう|acc=2|dev=1|acc_ref=DJR,NHK,SMK5|y=ko}}
+
+===Noun===
+{{ja-noun|しつりょう|hhira=しつりやう}}
+
+# {{lb|ja|physics|sort=しつりょう}} [[mass]]
+# [[quality]] and [[quantity]]
+
+===Descendants===
+* Chinese: {{zh-l|質量}}
+* Korean: {{ko-l|질량}}
+* Vietnamese: {{vi-l|chất lượng}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=jillyang|mr=chillyang|y=cillyang|hangeul=질량}}
+
+# {{hanja form of|질량|[[mass]]}}
+
+[[zh-min-nan:質量]]
+[[fr:質量]]
+[[ko:質量]]
+[[lo:質量]]
+[[hu:質量]]
+[[mg:質量]]
+[[ja:質量]]
+[[pl:質量]]
+[[pt:質量]]
+[[tl:質量]]
+[[chr:質量]]
+[[zh:質量]]

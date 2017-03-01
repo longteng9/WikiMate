@@ -1,0 +1,16 @@
+==Japanese==
+{{ja-kanjitab|でん|のう|yomi=o}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=てんのう'}} {{m|cmn|電腦}} (literally, "[[electronic]] [[brain]]").
+
+===Noun===
+{{ja-noun|でんのう|kyu=電腦}}
+
+# Chinese term for {{m|en|computer}}.
+
+====Usage notes====
+Not used much in Japanese. The terms {{ja-r|コンピュータ}} and {{ja-r|パソコン}} are much more common.
+
+[[mg:電脳]]
+[[ja:電脳]]

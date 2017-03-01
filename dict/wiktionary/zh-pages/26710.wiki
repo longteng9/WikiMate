@@ -1,0 +1,97 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=13|sn=19|four=34291|canj=LDDF|ids=⿰衤禁}}
+
+# [[lapel]], [[collar]]
+
+====References====
+* {{Han ref|kx=1125.350|dkj=34647|dj=1593.050|hdz=53117.070|uh=895F|ud=35167|bh=C3CC|bd=50124}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīn
+|c=kam1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|襟兄|襟弟}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=衣13}}
+
+====Readings====
+* {{ja-readings|on=[[きん]] (kin)|kun=[[えり]] (eri)|nanori=}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|えり|acc=2|acc_ref=SMK2,NHK}}
+
+===Noun===
+{{ja-noun|えり}}
+
+# a [[neckband]]; a [[collar]]; a [[lapel]]
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|えり]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=금|eumhun=|rv=geum|mr=kŭm|y=kum}}
+
+# {{defn|lang=ko|sort=衣13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khâm]], [[câm]]|rs=衣13}}
+
+# {{defn|lang=vi|sort=衣13}}
+
+[[cs:襟]]
+[[fr:襟]]
+[[ko:襟]]
+[[it:襟]]
+[[lo:襟]]
+[[hu:襟]]
+[[mg:襟]]
+[[ja:襟]]
+[[no:襟]]
+[[pl:襟]]
+[[fi:襟]]
+[[sv:襟]]
+[[th:襟]]
+[[chr:襟]]
+[[vi:襟]]
+[[zh:襟]]

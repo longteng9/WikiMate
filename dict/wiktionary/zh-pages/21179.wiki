@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=102|rad=田|as=08|sn=13|four=64021|canj=WKMR}}
+
+# [[odd]], [[fractional]], [[remainder]], [[odds]]
+
+====References====
+* {{Han ref|kx=0765.030|dkj=21893|dj=1176.030|hdz=42545.130|uh=7578|ud=30072|bh=B7EE|bd=47086}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jī
+|c=gei1,kei1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=田08}}
+
+# {{defn|lang=ja|sort=田08}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[はした]] (hashita), [[めずらしい]] (mezurashii), [[かたわ]] (katawa)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|eumhun=|rv=gi|mr=ki|y=ki}}
+
+# {{defn|lang=ko|sort=田08}}
+
+[[fr:畸]]
+[[ko:畸]]
+[[hu:畸]]
+[[mg:畸]]
+[[ja:畸]]
+[[no:畸]]
+[[uz:畸]]
+[[pl:畸]]
+[[th:畸]]
+[[zh:畸]]

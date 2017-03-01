@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|贳}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=05|sn=12|four=44806|canj=PTBUC|ids=⿱世貝}}
+
+====Descendants====
+* [[贳]]
+
+====References====
+* {{Han ref|kx=1206.100|dkj=36699|dj=1668.170|hdz=63631.030|uh=8CB0|ud=36016|bh=DBEA|bd=56298}}
+
+----
+
+==Chinese==
+{{zh-forms|s=贳}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|世|貝}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shì
+|c=sai3
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[borrow]]
+# to [[pardon]]
+# to [[loan]], [[lease]], [[lend]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=貝05}}
+
+# {{defn|lang=ja|sort=貝05}}
+
+====Readings====
+* {{ja-readings|on=[[せい]] (sei), [[しゃ]] (sha)|kun=[[もらう]] (morau), [[もらい]] (morai)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=세|eumhun=|rv=se|mr=se|y=sey}}
+
+# {{defn|lang=ko|sort=貝05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=貝05|hanviet=thởi}}
+
+# {{defn|lang=vi|sort=貝05}}
+
+[[fr:貰]]
+[[ja:貰]]
+[[pl:貰]]
+[[th:貰]]
+[[zh:貰]]

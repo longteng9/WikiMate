@@ -1,0 +1,56 @@
+{{also|并行}}
+==Chinese==
+{{zh-forms|s=并行}}
+
+===Pronunciation===
+{{zh-pron
+|m=bìngxíng
+|c=bing6 hang4
+|mn=pēng-hêng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[go]] [[side by side]]; to [[walk]] side by side
+# to [[carry on]] [[simultaneously]]
+
+====Derived terms====
+{{zh-der|並行不悖|勢力並行|恩威並行}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|へい|こう|yomi=o}}
+
+===Noun===
+{{ja-noun|へいこう}}
+
+# going [[side by side]]
+# being [[concurrent]]
+# {{lb|ja|uncommon|sort=へいこう}} being [[parallel]]
+
+====Alternative forms====
+* {{ja-l|平行}} (a more common form for sense 3 ("parallel"))
+
+====Synonyms====
+* {{ja-l|並列|へいれつ}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|へいこう}}
+
+# [[side by side]]
+# [[concurrent]]
+# [[parallel]]
+
+===Verb===
+{{ja-verb-suru|へいこう}}
+
+# go side by side
+# be concurrent
+
+====Conjugation====
+{{ja-suru|へいこう}}
+
+[[zh:並行]]

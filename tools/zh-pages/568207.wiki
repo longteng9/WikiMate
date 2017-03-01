@@ -1,0 +1,39 @@
+{{also|指数}}
+==Chinese==
+{{zh-forms|s=指数}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǐshù
+|c=zi2 sou3
+|mn=chí-sò͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|economics}} [[index]]
+# {{lb|zh|mathematics}} [[exponent]]
+
+====Derived terms====
+{{zh-der|防曬指數|指數函數}}
+
+{{zh-cat|Economics}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|すう|yomi=o}}
+
+===Noun===
+{{ja-noun|shin=指数|しすう}}
+
+# {{lb|ja|economics|sort=しすう}} [[index]] - a single number calculated from an array of prices or of quantities.
+# {{lb|ja|mathematics|sort=しすう}} [[exponent]], [[power]] - a [[product]] of [[equal]] [[factor]]s. Notation and usage: ''x''<sup>''n''</sup>, read as "''x'' to the power of {{g|n}}" or "''x'' to the {{g|n}}th power", denotes ''x'' &times; ''x'' &times; ... &times; ''x'', in which ''x'' appears {{g|n}} times, where {{g|n}} is called the [[exponent]]; the definition is extended to non-[[integer]] and [[complex]] exponents.
+
+[[zh-min-nan:指數]]
+[[ko:指數]]
+[[hu:指數]]
+[[mg:指數]]
+[[ja:指數]]

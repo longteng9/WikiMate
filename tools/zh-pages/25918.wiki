@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=05|sn=11|four=50114|canj=LIYG}}
+
+# insects that eat books, clothes
+
+====References====
+* {{Han ref|kx=1080.040|dkj=32947|dj=1548.220|hdz=42845.020|uh=86C0|ud=34496|bh=B345|bd=45893}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhù
+|c=zyu3
+|h=pfs=chu
+|mn=qz,xm,zz:chù/qz,tw,xm,zz:chiù
+|mn_note=chù - literary; chiù - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|蛀牙|蛀蝕|蛀蟲}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫05}}
+
+# {{defn|lang=ja|sort=虫05}}
+
+====Readings====
+* {{ja-readings|on=[[しゅ]] (shu)|kun=[[きくいむし]] (kikuimushi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=주|eumhun=|rv=ju|mr=chu|y=cwu}}
+
+# {{defn|lang=ko|sort=虫05}}
+
+[[zh-min-nan:蛀]]
+[[fr:蛀]]
+[[hu:蛀]]
+[[mg:蛀]]
+[[no:蛀]]
+[[pl:蛀]]
+[[th:蛀]]
+[[zh:蛀]]

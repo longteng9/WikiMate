@@ -1,0 +1,104 @@
+{{character info/new}}
+{{also|鬻}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=119|rad=米|as=06|sn=12|four=17227|canj=NFDN|ids=⿲弓米弓}}
+
+====References====
+* {{Han ref|kx=0908.360|dkj=26938|dj=1334.270|hdz=21000.040|uh=7CA5|ud=31909|bh=B5B0|bd=46512}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=zhōu
+|c=zuk1
+|h=pfs=chuk
+|md=cé̤ṳk
+|mn=qz,tw,xm,zz:chiok
+|w=4tsoq
+|mc=2
+|oc=1,1
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[congee]]; [[rice]] [[gruel]]
+
+=====Descendants=====
+* English: {{l|en|jook}}, {{l|en|zhou}}
+
+====Compounds====
+{{zh-der|fold=1|一鍋粥|八寶粥|廣東粥|八珍鹹粥|佛粥|僧多粥少|吃舊鍋粥|斷虀畫粥|放粥|福德粥|碌粥|白粥|煮粥焚鬚|福壽粥|粥少僧多|饘粥|粥飯僧|粥廠|豆粥|缹粥|落解粥|米粥|臘八粥}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=yù
+|c=juk6
+|mc=1
+|oc=n,2
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{zh-alt-form|育|to [[give birth]]; to [[rear]]}}
+# {{†}} {{zh-original|鬻|to [[sell]]}}
+
+====Compounds====
+{{zh-der|fold=1|葷粥}}
+
+{{zh-cat|Foods}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=米06}}
+
+# {{defn|lang=ja|sort=米06}}
+
+====Readings====
+* {{ja-readings|on=[[しゅく]] (shuku), [[いく]] (iku)|kun=[[かゆ]] (kayu), [[ひさぐ]] (hisagu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[죽]], [[육]]|eumhun=미음|rv=juk, yuk|mr=chuk, yuk|y=cwuk, yuk}}
+
+# [[congee]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+粥 ([[cháo]])
+
+# {{defn|vi}}
+
+[[fr:粥]]
+[[lo:粥]]
+[[hu:粥]]
+[[mg:粥]]
+[[ja:粥]]
+[[no:粥]]
+[[pl:粥]]
+[[ru:粥]]
+[[th:粥]]
+[[uk:粥]]
+[[vi:粥]]
+[[zh:粥]]

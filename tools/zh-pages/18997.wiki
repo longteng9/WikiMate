@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=07|sn=10|four=32141|canj=ENKM,ENKV|ids=⿰氵延}}
+
+# [[saliva]]
+
+====References====
+* {{Han ref|kx=0626.210|dkj=17536|dj=1029.020|hdz=31610.010|uh=6D8E|ud=28046|bh=B243|bd=45635}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xián
+|c=jin4
+|mn=siân/twv:iân
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[saliva]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水07}}
+
+# {{defn|lang=ja|sort=水07}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen), [[えん]] (en)|kun=[[よだれ]] (yodare)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=연|eumhun=|rv=yeon|mr=yŏn|y=yen}}
+
+# {{defn|lang=ko|sort=水07}}
+
+[[fr:涎]]
+[[ko:涎]]
+[[lo:涎]]
+[[hu:涎]]
+[[mg:涎]]
+[[ja:涎]]
+[[pl:涎]]
+[[th:涎]]
+[[vi:涎]]
+[[zh:涎]]

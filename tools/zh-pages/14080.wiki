@@ -1,0 +1,111 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=39|rad=子|as=04|sn=7|four=44407|canj=JKND|ids=⿱耂子}}
+
+====Derived characters====
+* [[教]] [[酵]] [[痚]]
+
+====Related characters====
+* [[老]]
+
+====References====
+* {{Han ref|kx=0278.110|dkj=06952|dj=0546.040|hdz=21011.040|uh=5B5D|ud=23389|bh=A7B5|bd=42933}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|耂|子|ls=psc|c1=p|c2=s}}.
+
+Alternative explanation: {{Han compound|耂|t1=an old man with long hair, bent over|子|t2=a child|ls=ic}} – an old man and a child, filial piety between generations. Compare top component to {{och-l|老|old}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xiào
+|c=haau3
+|h=pfs=hau
+|md=háu/há
+|mn_note=háu - literary; há - vernacular
+|mn=hàu/hà
+|mn_note=hàu - literary; hà - vernacular
+|mn-t=hao3/ha3
+|mn-t_note=hao3 - literary; ha3 - vernacular
+|w=2hau,2xiau
+|w_note=2hau - vernacular; 2xiau - literary
+|mc=y
+|oc=y
+|cat=v,n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to do one's [[filial]] [[duty]]; to [[show]] [[filial piety]]
+# [[filial piety]]
+# [[mourning]]
+# [[mourning]] [[dress]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|孝道|孝服|孝敬|孝男|孝女|孝順|孝堂|孝心|孝行|孝衣|孝子|孝子賢孫|孝幔|孝弟|忠孝賢良|二十四孝|忠孝兩全|孝滿|慈孫孝子|子孝孫賢|事親至孝|孝養|忤逆不孝|忠孝雙全|忠孝節義|忠孝|守孝|孝思|愚孝|孝行可嘉|做孝|弔孝|孝陵|帶孝|孝白|孝經|孝廉方正|忠臣孝子|忠孝節烈|孝友|孝廉|孝袍|孝經序|不孝|孝慈|孝鳥|孝親|孝悌|孝布|孝家|孝子慈孫|孝事|大逆不孝|孝先便腹|克敦孝行|孝弟力田|不孝子|仁孝|穿孝|戴孝|父嚴子孝|盡孝|有孝|移孝作忠|掛孝|移孝為忠|穿麻掛孝|服孝|秦孝公|暖孝|教孝月|父慈子孝|熱孝|火山孝子|滿孝|披麻帶孝|挂孝|母慈子孝|除孝|舉孝廉|純孝|魏孝文帝|至孝|達孝|重孝|行孝|謝孝|節孝|脫孝}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=子04}}
+
+# {{defn|lang=ja|sort=子04}}
+
+====Readings====
+Source : [http://www.mahou.org/Kanji/3927/?jouyou mahou kanji dictionary - 孝 (Takashi)]
+* {{ja-readings|goon=[[きょう]] (kyō)|kanon=[[こう]] (kō)|kun=|nanori=[[たか]] (taka) , [[たかし]] (takashi), [[のり]] (nori), [[よし]] (yoshi)}}
+
+====Compounds====
+* [[孝敬]]
+* [[孝行]]
+* [[孝情]]
+* [[孝心]]
+
+===Proper noun===
+{{ja-pos|proper|たかし}}
+
+# {{given name|male|lang=ja|sort=たかし}}
+
+[[Category:Japanese male given names|たかし]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=효|rv=hyo|mr=hyo|y=hyo}}
+
+# {{defn|lang=ko|sort=子04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hiếu]], [[hếu]]|rs=子04}}
+
+# {{defn|lang=vi|sort=子04}}
+
+[[fr:孝]]
+[[ko:孝]]
+[[li:孝]]
+[[hu:孝]]
+[[mg:孝]]
+[[ms:孝]]
+[[ja:孝]]
+[[no:孝]]
+[[pl:孝]]
+[[th:孝]]
+[[zh:孝]]

@@ -1,0 +1,97 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=8}}
+{{stroke order|strokes=8|type=jbw}}
+
+===Han character===
+{{Han char|rn=38|rad=女|as=05|sn=8|four=45410|canj=VHQM|ids=⿰女生}}
+
+====References====
+* {{Han ref|kx=0259.050|dkj=06178|dj=0524.090|hdz=21037.120|uh=59D3|ud=22995|bh=A96D|bd=43373}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|生|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+Specialised form of {{zh-l|性}}: “human nature; what is inborn” > “surname; clan name”.
+
+===Pronunciation===
+{{zh-pron
+|m=xìng
+|ma=y
+|c=sing3,seng3
+|h=pfs=siang
+|mn=qz,tw,xm,zz:sèng/qz,tp,xm:sìⁿ/kh,zz:sèⁿ
+|mn_note=sèng - literary; sèⁿ, sìⁿ - vernacular
+|w=2xin
+|md=sáng
+|mc=y
+|oc=y
+|cat=n,v,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[surname]]; [[family name]]; [[clan]] name
+#: {{zh-ant|名}}
+#: {{zh-x|你 的 姓 怎麼 拼寫？|How do you spell your '''last name'''?}}
+# to have the [[surname]] of
+#: {{zh-x|您 貴姓？|What is your surname? [formal]}}
+#: {{zh-x|我 姓 ^陳。|My surname is Chen.}}
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|一姓|二姓|他姓|內姓|兩姓之好|冒姓|出姓|千家姓|右姓|同姓|四姓|國姓|國姓爺|國姓鄉|外姓|大姓|姓名|姓名條例|姓名權|姓族|姓氏|姓系|子姓|宗姓|客姓|尊姓大名|平等百姓|平章百姓|平頭百姓|庶姓|復姓|指名道姓|揚名顯姓|改名換姓|改名易姓|改姓更名|族姓|易姓|更名改姓|更姓|有名有姓|本姓|漢姓|異姓|百姓|百姓之心|百家姓|萬姓|萬姓統譜|種姓|緣姓|老百姓|複姓|覆姓|變名易姓|貴姓|賜姓|隱姓埋名|頂名冒姓|顯姓揚名|風姓|高姓}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=女05}}
+
+# [[surname]]
+
+====Readings====
+* {{ja-readings|goon=[[しょう]] (shō)|kanon=[[せい]] (sei)|kun=[[かばね]] (kabane)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=성|rv=seong|mr=sŏng}}
+
+# {{defn|lang=ko|sort=女05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tính]]|rs=女05}}
+
+# {{defn|lang=vi|sort=女05}}
+
+[[zh-min-nan:姓]]
+[[fr:姓]]
+[[ko:姓]]
+[[lo:姓]]
+[[lt:姓]]
+[[hu:姓]]
+[[mg:姓]]
+[[ms:姓]]
+[[ja:姓]]
+[[no:姓]]
+[[pl:姓]]
+[[ta:姓]]
+[[th:姓]]
+[[uk:姓]]
+[[zh:姓]]

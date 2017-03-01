@@ -1,0 +1,107 @@
+{{character info/new}}
+{{also|觔|斥}}
+==Translingual==
+{{stroke order|strokes=4}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=69|rad=斤|as=00|sn=4|four=72221|canj=HML}}
+
+# {{mul-kangxi radical-def}}
+
+====References====
+* {{Han ref|kx=0479.040|dkj=13534|dj=0837.230|hdz=32022.010|uh=65A4|ud=26020|bh=A4E7|bd=42215}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīn
+|c=gan1
+|h=pfs=kîn
+|md=gṳ̆ng
+|mn=zz,tn,kh,tc,yl:kin/sx:kirn/xm,qz,tp,hc,km,mg:kun
+|w=1jin
+|mc=y
+|oc=y
+|ma=y
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[catty]], a unit of [[weight]]
+## {{lb|zh|Mainland}} [[catty]] or ''jin'', a traditional unit of weight, equal to 0.5 [[kilogram]]s
+## {{lb|zh|Hong Kong}} [[catty]] or [[kan]], a traditional unit of weight, legally defined as equal to 0.60478982 [[kilogram]]s ({{zh-l|*公斤}} or sometimes approximated as 500 grams)
+## {{lb|zh|Taiwan}} [[catty]], a traditional unit of weight, equal to 0.6&nbsp;[[kilogram]]s, also equal to 16&nbsp;[[tael]]s
+# [[axe]]; [[ax]]
+# [[keen]]; [[shrewd]]
+
+====See also====
+* {{zh-l|擔}}, {{zh-l|兩}}, {{zh-l|錢}}, {{zh-l|分}}, {{zh-l|金衡兩}}, {{zh-l|金衡錢}}, {{zh-l|金衡分}}
+* {{zh-l|公斤}}, {{zh-l|克}}
+* {{zh-l|臺斤}}
+
+===Compounds===
+{{zh-der|公斤|千斤|幾斤幾兩|八兩半斤|分斤撥兩|不識斤兩|匠石運斤|彈斤估兩|宋斤魯削|市斤|千斤頂|半斤八兩|分斤較兩|偷斤減兩|分斤掰兩|斤兩|搬斤播兩|斤斸|沒眼斤|掂斤抹兩|斤斤|掂斤估兩|斧斤|斤斤計較|斤斧|短斤缺兩|有斤兩|秤斤注兩|掂斤播兩|運斤成風|肉重千斤|缺斤少兩|郢匠揮斤|缺斤短兩|臺斤|輟斤|邀斤|論斤估兩}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=斤00}}
+
+# [[counter]] for loaves of [[bread]]
+
+====Readings====
+{{ja-readings|goon=[[こん]] (kon)|kanon=[[きん]] (kin)|kun=[[おの]] (ono)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|斤量|きんりょう}}: [[weight]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=근|eumhun=|rv=geun|mr=kŭn|y=kun}}
+
+# {{defn|lang=ko|sort=斤00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cân]], [[rìu]], [[gần]]|rs=斤00}}
+
+# {{defn|lang=vi|sort=斤00}}
+
+[[Category:CJKV radicals| ]]
+
+[[zh-min-nan:斤]]
+[[fr:斤]]
+[[ko:斤]]
+[[li:斤]]
+[[hu:斤]]
+[[mg:斤]]
+[[ms:斤]]
+[[ja:斤]]
+[[no:斤]]
+[[pl:斤]]
+[[pt:斤]]
+[[ru:斤]]
+[[ta:斤]]
+[[th:斤]]
+[[uk:斤]]
+[[zh:斤]]

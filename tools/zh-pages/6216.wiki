@@ -1,0 +1,98 @@
+{{also|明白}}
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=míngrì
+|c=ming4 jat6
+|g='miang4 nyit6
+|h=pfs=mìn-ngit
+|mn=xm,qz:miâ-li̍t/zz:miâ-ji̍t
+|x=min2 r6/min2 nyi6
+|x_note=min2 r6 - vernacular; min2 nyi6 - literary
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[tomorrow]]
+
+====Synonyms====
+{{zh-dial|明天}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|みょう|にち}}
+{{ja-kanjitab|yomi=irr|sort=あす}}
+
+===Etymology===
+* For the {{furigana|明日|あした}} and {{furigana|明日|あす}} form:
+*: From the stem "''as-''", related to {{ja-r|朝|あさ}}, {{ja-r|朝|あした}}, and {{ja-r|明後日|あさって}}.
+* For the {{furigana|明 日|みょう にち}} form:
+*: From {{etyl|ltc|ja}} {{IPAchar|/*miaŋȵiɪt̚/}} > {{etyl|ja|-}} {{IPAchar|/mjauniti/}} > {{IPAchar|/mjounit͡ʃi/}}
+
+===Pronunciation===
+{{ja-pron|あした|y=i|dev=2|acc=o|acc_note=''as a noun''|acc_ref=NHK,DJR|acc2=h|acc2_note=''as an adverb''|acc2_ref=NHK}}
+{{ja-pron|あす|y=i|acc=o|acc_note=''as a noun''|acc_ref=NHK,DJR,SMK5|acc2=h|acc2_note=''as an adverb''|acc2_ref=NHK}}
+{{ja-pron|みょうにち|y=go|acc=a|acc_ref=NHK,DJR,SMK5}}
+
+===Noun===
+{{ja-noun|あした}} {{qualifier|colloquial}}<br />
+{{ja-noun|あす}} {{qualifier|polite}}<br />
+{{ja-noun|みょうにち|hhira=みやうにち}} {{qualifier|formal}}
+
+# [[tomorrow]]
+
+====Usage notes====
+Note that the pronunciation differs depending on register, which also happens for the antonym "yesterday" and the coordinate term "today". Corresponding in formality to ashita/asu/myōnichi "tomorrow" are {{ja-r|昨日|きのう}}/{{ja-r|昨日|きそ}} (rare)/{{ja-r|昨日|さくじつ}} "yesterday" and {{ja-r|今日|きょう}}/{{ja-r|今日|こんにち}}/{{ja-r|本日|ほんじつ}} "today".
+
+====Antonyms====
+* {{ja-r|昨日|きのう}}, {{ja-r|昨日|さくじつ}}, {{ja-r|昨日|きそ}}
+
+====Coordinate terms====
+* {{ja-r|今日|きょう}}, {{ja-r|今日|こんにち}}, {{ja-r|今日|こんじつ}}, {{ja-r|本日|ほんじつ}}
+
+====Related terms====
+* {{ja-l|明静}}
+
+===References===
+<references/>
+<!-- override -->
+
+[[Category:Japanese words with multiple readings]]
+[[Category:Japanese basic words|あす]]
+[[Category:ja:Time|あす]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=명일}}
+
+# {{hanja form of|명일|the next day}}
+
+[[cs:明日]]
+[[fr:明日]]
+[[ko:明日]]
+[[it:明日]]
+[[lo:明日]]
+[[la:明日]]
+[[lt:明日]]
+[[li:明日]]
+[[hu:明日]]
+[[mg:明日]]
+[[fj:明日]]
+[[ja:明日]]
+[[pl:明日]]
+[[pt:明日]]
+[[fi:明日]]
+[[sv:明日]]
+[[tr:明日]]
+[[uk:明日]]
+[[ug:明日]]
+[[zh:明日]]

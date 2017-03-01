@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|柁}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=137|rad=舟|as=05|sn=11|four=23411|canj=HYJP|ids=⿰舟它}}
+
+====References====
+* {{Han ref|kx=1010.100|dkj=30400|dj=1468.080|hdz=53060.060|uh=8235|ud=33333|bh=B2EB|bd=45803}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=duò
+|c=to4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[rudder]], [[helm]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=舟05}}
+
+# {{defn|lang=ja|sort=舟05}}
+
+====Readings====
+* {{ja-readings|kanon=[[た]] (ta)|goon=[[だ]] (da)|kun=[[かじ]] (kaji)}}
+
+{{wikipedia|lang=ja}}
+
+===Noun===
+{{ja-noun|かじ}}
+
+# {{lb|ja|nautical|aeronautics|sort=かじ}} [[rudder]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=타|eumhun=|rv=ta|mr=t'a|y=tha}}
+
+# {{defn|lang=ko|sort=舟05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=舟05|hanviet=đà}}
+
+# {{defn|lang=vi|sort=舟05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=8235 Nom Foundation]
+
+[[fr:舵]]
+[[hu:舵]]
+[[mg:舵]]
+[[ja:舵]]
+[[no:舵]]
+[[pl:舵]]
+[[sv:舵]]
+[[th:舵]]
+[[zh:舵]]

@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|膑|髕}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=14|sn=18|four=73286|canj=BJMC}}
+
+# the kneecap
+
+====References====
+* {{Han ref|kx=0997.020|dkj=29977|dj=1448.070|hdz=32121.110|uh=81CF|ud=33231|bh=C2C1|bd=49857}}
+
+----
+
+==Chinese==
+{{zh-forms|s=膑}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bìn
+|c=ban3,pan5
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-alt-form|髕}} {{attention|zh|if this is just an alt form why does it have compounds}}
+
+====Compounds====
+{{zh-der|孫臏|臏腳|臏足|舉鼎絕臏}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉14}}
+
+# the kneecap
+
+====Readings====
+* {{ja-readings|on=[[ひん]] (hin), [[びん]] (bin)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=빈|eumhun=|rv=bin|mr=pin|y=pin}}
+
+# [[kneecap]]
+
+[[fr:臏]]
+[[hu:臏]]
+[[mg:臏]]
+[[pl:臏]]
+[[th:臏]]
+[[zh:臏]]

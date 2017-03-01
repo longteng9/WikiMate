@@ -1,0 +1,54 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zàochuán
+|c=zou6 syun4
+|h=pfs=chho-sòn
+|mn=xm,zz,tw:chō-chûn/qz:chǒ-chûn
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[shipbuilding]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[build]] a [[ship]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぞう|せん|yomi=o}}
+
+===Noun===
+{{ja-noun|ぞうせん}}
+
+# [[shipbuilding]]
+
+===Verb===
+{{ja-verb-suru|ぞうせん}}
+
+# to [[build]] a [[ship]]
+
+====Conjugation====
+{{ja-suru|ぞうせん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=조선}}
+
+# {{hanja form of|조선|shipbuilding}}
+
+[[zh-min-nan:造船]]
+[[ko:造船]]
+[[hu:造船]]
+[[zh:造船]]

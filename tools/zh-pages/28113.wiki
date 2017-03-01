@@ -1,0 +1,90 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=12|sn=19|four=68146|canj=RMTWI|ids=⿰⻊尊}}
+
+# [[squat]], [[crouch]]
+# [[idle]] [[about]]
+# [[stay]] (somewhere)
+
+====References====
+* {{Han ref|kx=1233.320|dkj=37874|dj=1705.420|hdz=63741.070|uh=8E72|ud=36466|bh=C3DB|bd=50139}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|足|尊|c1=s|t1=foot|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=dūn
+|c=cyun4,deon1
+|h=pfs=
+|md=
+|mn=khû
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+* {{zh-l|蹲廁}}
+* {{zh-l|蹲式廁所}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=足12}}
+
+# {{defn|lang=ja|sort=足12}}
+
+====Readings====
+* {{ja-readings|on=[[そん]] (son), [[しゅん]] (shun)|kun=[[つくばう]] (tsukubau), [[うずくまる]] (uzukumaru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=준|eumhun=|rv=jun|mr=chun|y=cwun}}
+
+# {{defn|lang=ko|sort=足12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=足12| hanviet = đôn, tôn}}
+
+# {{defn|lang=vi|sort=足12}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint= Nom Foundation]
+
+[[fr:蹲]]
+[[ko:蹲]]
+[[hu:蹲]]
+[[mg:蹲]]
+[[ja:蹲]]
+[[no:蹲]]
+[[pl:蹲]]
+[[th:蹲]]
+[[chr:蹲]]
+[[zh:蹲]]

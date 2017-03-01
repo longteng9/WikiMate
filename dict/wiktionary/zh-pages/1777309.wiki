@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàixíng
+|c=doi6 hang4
+|mn=tāi-hêng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[act]] on someone's behalf
+
+----
+
+==Japanese==
+{{ja-kanjitab|だい|こう|yomi=o}}
+
+===Noun===
+{{ja-noun|だいこう}}
+
+# the act of [[stand in for|standing in for]] someone
+
+===Verb===
+{{ja-verb-suru|だいこう}}
+
+# [[act]] for [[another]], [[execute]] for another, execute [[business]] for another
+
+====Conjugation====
+{{ja-suru|だいこう}}
+
+[[ko:代行]]
+[[ja:代行]]
+[[zh:代行]]

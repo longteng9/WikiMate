@@ -1,0 +1,109 @@
+{{character info/new}}
+{{also|發|发}}
+==Translingual==
+{{ja-forms|[[発]]/[[髪]]|[[发]]/[[发]]|[[發]]/[[髮]]|}}
+
+===Etymology===
+Japanese shinjitai {{Han simp|發|nocap=y}}.
+
+===Han character===
+{{Han char|rn=105|rad=癶|as=04|sn=9|four=|canj=NOMKP|ids=⿱癶⿻二儿}}
+
+====References====
+* {{Han ref|kx=0784.021|dkj=22662|dj=1193.120|hdz=42760.041|uh=767A|ud=30330}}
+
+----
+
+==Chinese==
+{{zh-see|發|v}}
+===Usage notes===
+This is the simplified form of {{l|zh|發}} that was used in Singapore from 1969 to 1976. Singapore, like the PRC, now uses {{l|zh|发}}.
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=癶04|style=s|kyu=發}}
+
+# [[set off]]; [[depart]]; [[start]] from; [[emit]]; [[discharge]]; [[disclose]]; [[occur]]
+
+====Readings====
+{{ja-readings
+|goon=[[ほち]] (hochi), [[ほつ]] (hotsu)
+|kanon=[[はつ]] (hatsu)
+|kun=<!--
+-->[[あばく|あば.く]] ({{l|ja|発く}}, aba.ku), <!--
+-->(''rare'') [[おこる|おこ.る]] ({{l|ja|発る}}, oko.ru), <!--
+-->(''rare'') [[つかわす|つか.わす]] ({{l|ja|発わす}}, tsuka.wasu), <!--
+-->[[たつ|た.つ]] ({{l|ja|発つ}}, ta.tsu), <!--
+-->(''rare'') [[はなつ|はな.つ]] ({{l|ja|発つ}}, hana.tsu)
+|nanori=[[ば]] (ba), [[わ]] (wa)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|発案|はつあん}}:
+* {{ja-r|発意|はつい}}:
+* {{ja-r|発育|はついく}}:
+* {{ja-r|発煙|はつえん}}:
+* {{ja-r|発音|はつおん}}:
+* {{ja-r|発覚|はっかく}}:
+* {{ja-r|発揮|はっき}}:
+* {{ja-r|発狂|はっきょう}}:
+* {{ja-r|発見|はっけん}}:
+* {{ja-r|発言|はつげん}}:
+* {{ja-r|発光|はっこう}}:
+* {{ja-r|発行|はっこう}}:
+* {{ja-r|発効|はっこう}}:
+* {{ja-r|発酵|はっこう}}:
+* {{ja-r|発散|はっさん}}:
+* {{ja-r|発情|はつじょう}}:
+* {{ja-r|発情期|はつじょうき}}:
+* {{ja-r|発信|はっしん}}:
+* {{ja-r|発達|はったつ}}:
+* {{ja-r|発展|はってん}}:
+{{der-mid}}
+* {{ja-r|発熱|はつねつ}}:
+* {{ja-r|発破|はっぱ}}:
+* {{ja-r|発表|はっぴょう}}:
+* {{ja-r|発憤|はっぷん}}:
+* {{ja-r|発明|はつめい}}:
+* {{ja-r|発令|はつれい}}:
+* {{ja-r|発露|はつろ}}:
+* {{ja-r|発作|ほっさ}}:
+* {{ja-r|発足|ほっそく}}:
+* {{ja-r|発句|はっく}}:
+* {{ja-r|発心|ほっしん}}:
+* {{ja-r|発疹|はっしん}}:
+* {{ja-r|一念発起|いちねん ほっき}}:
+* {{ja-r|自発|じはつ}}:
+* {{ja-r|蒸発|じょうはつ}}:
+* {{ja-r|即発|そくはつ}}: [[immediate]] [[explosion]]
+* {{ja-r|大発会|だいほっかい}}:
+* {{ja-r|発泡|はっぽう}}:
+* {{ja-r|発泡酒|はっぽうしゅ}}:
+{{der-bottom}}
+
+{{ja-kanjitab|はつ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|はつ|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|はつ}}
+
+# departure
+
+===References===
+<references/>
+
+[[fr:発]]
+[[ko:発]]
+[[it:発]]
+[[lo:発]]
+[[li:発]]
+[[hu:発]]
+[[ja:発]]
+[[pl:発]]
+[[th:発]]
+[[zh:発]]

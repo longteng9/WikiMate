@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms|[[sky]]<br>[[heavenly]]<br>[[Heaven]]<br>{{nowrap|(''as a Chinese god'')}}|[[pole]]<br>[[pestle]]}}
+{{wikipedia|lang=zh}}
+{{wikipedia|Heavenly Stems|lang=en}}
+
+===Pronunciation===
+{{zh-pron
+|m=tiāngān
+|c=tin1 gon1
+|h=pfs=thiên-kôn
+|mn=thian-kan
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# A [[heavenly stem]]: [[one]] of the [[ten]] [[term]]s [[use]]d in [[East Asia]]n [[culture]]s to [[represent]]
+## {{lb|zh|historical|_|or|_|astrology}} A [[day]] of the [[traditional]] [[ten]]-[[day]] [[week]].
+## {{lb|zh|mythology}} [[one|One]] of the [[ten]] [[sun]]s [[thought]] to [[appear]] in [[succession]] on its [[appoint]]ed [[day]] of the [[traditional]] [[week]].
+## {{lb|zh|historical|_|religion}} The [[ancestor]] [[venerate]]d with a [[ritual]] on the [[appoint]]ed [[day]] of the [[traditional]] [[week]].
+## {{lb|zh|formal}} An [[ordinal]], [[use]]d in [[similar]] [[context]]s to [[Roman numeral]]s in [[English]] [[number]]ing and [[outlining]].
+# The [[set]] of [[ten]] [[heavenly stem]]s as a [[whole]].
+
+====Synonyms====
+* {{sense|as a set}} {{zh-l|十干}}
+
+====Hyponyms====
+* {{zh-l|甲|first}}
+* {{zh-l|乙|second}}
+* {{zh-l|丙|third}}
+* {{zh-l|丁|fourth}}
+* {{zh-l|戊|fifth}}
+* {{zh-l|己|sixth}}
+* {{zh-l|庚|seventh}}
+* {{zh-l|辛|eighth}}
+* {{zh-l|壬|ninth}}
+* {{zh-l|癸|tenth}}
+
+====Derived terms====
+{{zh-der|干支|十干}}
+
+====See also====
+* {{zh-l|地支}}
+
+[[ko:天干]]
+[[hu:天干]]
+[[zh:天干]]

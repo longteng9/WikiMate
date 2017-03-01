@@ -1,0 +1,61 @@
+{{character info/new}}
+{{also|垭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=08|sn=11|four=41112|canj=GMLM|ids=⿰土亞}}
+
+# [[character]] used in [[place]] [[name]]s
+
+====References====
+* {{Han ref|kx=0230.250|dkj=05216|hdz=10449.050|uh=57E1|ud=22497|bh=D4C1|bd=54465}}
+
+----
+
+==Chinese==
+{{zh-forms|s=垭}}
+
+===Pronunciation===
+{{zh-pron
+|m=yà
+|c=aa3
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土08}}
+
+# {{defn|lang=ja|sort=土08}}
+
+====Readings====
+* {{ja-readings|on=[[お]] (o), [[う]] (u)|kun=[[さと]] (sato)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ái]]|rs=土08}}
+
+# {{defn|lang=vi|sort=土08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=57e1 Nom Foundation]
+
+[[fr:埡]]
+[[hu:埡]]
+[[pl:埡]]
+[[th:埡]]
+[[zh:埡]]

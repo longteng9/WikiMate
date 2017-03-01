@@ -1,0 +1,33 @@
+==Japanese==
+{{ja-kanjitab|むつ|つき|yomi=k|sort=むつき}}
+
+===Etymology===
+{{compound|lang=ja|睦|tr1=mutsu|t1=[[affectionate]]|月|tr2=tsuki|t2=[[month]]|sort=むつき}}{{rfv-etymology|lang=ja}}
+{{rfe|ja}}
+
+===Pronunciation===
+{{ja-pron|むつき|y=k|acc=1|dev=2|acc_ref=NHK,SMK5,DJR}}
+* {{homophone|lang=ja|襁褓|sort=むつき}}
+
+===Noun===
+{{ja-noun|むつき}}
+
+# {{lb|ja|archaic|sort=むつき}} the [[first]] [[month]] of the [[lunar calendar]]
+# {{lb|ja|poetic|sort=むつき}} [[January]]
+
+===See also===
+{{list:Japanese calendar months/ja}}
+
+===References===
+<references/>
+
+[[Category:ja:Japanese months|むつき]]
+[[br:睦月]]
+[[es:睦月]]
+[[fr:睦月]]
+[[lt:睦月]]
+[[hu:睦月]]
+[[mg:睦月]]
+[[ja:睦月]]
+[[ro:睦月]]
+[[zh:睦月]]

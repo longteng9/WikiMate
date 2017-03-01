@@ -1,0 +1,98 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=153|rad=豸|as=05|sn=12|four=27262|canj=BHSHR|ids=⿰豸召}}
+
+# [[marten]], [[sable]], [[mink]]
+
+====References====
+* {{Han ref|kx=1200.270|dkj=36528|dj=1662.270|hdz=63910.080|uh=8C82|ud=35970|bh=B649|bd=46665}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=diāo
+|c=diu1
+|mn=tiau
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|帶膆貂掛|狗尾續貂|狗續貂尾|珥貂|紫貂|續貂|貂寺|貂珥|貂璫|貂皮大衣|貂羽|貂蟬|貂蟬冠|貂裘|貂裘換酒|貂覆額|貂錦|金貂|金貂換酒|黑貂}}
+
+----
+
+==Japanese==
+{{wikispecies|Martes melampus}}
+
+===Kanji===
+{{ja-kanji|grade=|rs=豸05}}
+
+====Readings====
+* {{ja-readings|goon=[[ちょう]] (chō)|kanon=[[ちょう]] (chō)|kun=[[てん]] (ten), [[いたち]] (itachi)}}
+
+===Etymology===
+{{ja-kanjitab|てん|yomi=k}}
+{{rfe|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|テン|acc=a|acc_ref=NHK|y=k}}
+
+===Noun===
+{{ja-noun|てん|テン}}
+
+# [[Japanese marten]], ''[[Martes melampus]]''
+
+====Alternative forms====
+* {{l|ja|黄鼬}}
+
+===References===
+<references/>
+
+[[Category:ja:Mustelids|てん]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=초|eumhun=|rv=cho|mr=ch'o|y=cho}}
+
+# ([[담비]] 초, ''dambi-''): [[marten]], [[sable]]
+
+[[Category:Hanja readings|초]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[điêu]]|rs=豸05}}
+
+# {{defn|lang=vi|sort=豸05}}
+
+[[fr:貂]]
+[[ko:貂]]
+[[hu:貂]]
+[[mg:貂]]
+[[ja:貂]]
+[[pl:貂]]
+[[ro:貂]]
+[[ru:貂]]
+[[th:貂]]
+[[zh:貂]]

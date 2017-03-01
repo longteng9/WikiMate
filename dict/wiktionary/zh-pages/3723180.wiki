@@ -1,0 +1,44 @@
+{{also|祓魔师}}
+==Chinese==
+{{zh-forms|s=祓魔师}}
+
+===Pronunciation===
+{{zh-pron
+|m=fúmóshī
+|c=fat1 mo1 si1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# an [[exorcist]]
+
+====Synonyms====
+* {{zh-l|驅魔師}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふつ|ま|し|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ふつまし|祓魔|tr1=futsuma|t1=exorcism|師|tr2=shi|t2=master, practitioner}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[ɸɯᵝt͡sɯᵝma̠ɕi]}}
+
+===Alternative forms===
+* {{ja-l|祓魔士}}
+
+===Noun===
+{{ja-noun|ふつまし}}
+
+# {{lb|ja|sort=ふつまし|Christianity}} an [[exorcist]]
+
+====Related terms====
+* {{ja-r|祓魔術|ふつまじゅつ}}: [[exorcism]] {{qualifier|the technique}}
+
+====Synonyms====
+* {{ja-r|破魔師|はまし}} {{qualifier|Buddhism}}

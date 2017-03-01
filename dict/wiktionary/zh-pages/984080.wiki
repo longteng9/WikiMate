@@ -1,0 +1,23 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|かお|もん|k2=も|じ|yomi=irr|sort=かおもじ}}
+
+===Etymology===
+{{compound|顔|tr1=kao|t1=face|文字|tr2=moji|t2=letter|lang=ja|sort=かおもじ}}
+
+===Pronunciation===
+{{ja-pron|yomi=y|かおもじ|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|kyu=顏文字|かおもじ|hhira=かほもじ}}
+
+# {{lb|ja|Internet|sort=かおもじ}} [[smiley]], a sequence of keyboard characters used to represent a person's mood or emotion, especially [[(^_^)]] or [[(;_;)]] or other smiling depiction
+
+====Coordinate terms====
+* {{ja-r|絵文字|えもじ}}: one special character
+
+===References===
+<references/>
+
+[[hu:顔文字]]
+[[ja:顔文字]]

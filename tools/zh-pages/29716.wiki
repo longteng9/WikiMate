@@ -1,0 +1,95 @@
+{{character info/new}}
+{{also|锹}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=09|sn=17|four=89180|canj=CHDF}}
+
+# [[shovel]]
+
+====References====
+* {{Han ref|kx=1315.030|dkj=40643|dj=1815.130|hdz=64231.160|uh=936C|ud=37740|bh=C1EA|bd=49642}}
+
+----
+
+==Chinese==
+{{zh-forms|s=锹}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|金|t1=metal|秋|ls=psc|c1=s|c2=p}} – a metal shovel.
+
+===Pronunciation===
+{{zh-pron
+|m=qiāo
+|c=ciu1
+|h=pfs=
+|md=
+|mn=chhiau/tw:chhiu
+|w=
+|mc=
+|oc=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金09}}
+
+====Readings====
+* {{ja-readings|goon=[[しょう]] (shō)|kanon=[[しょう]] (shō)|kanyoon=[[しゅう]] (shū)|kun=[[すき]] (suki), [[くわ]] (kuwa)|nanori=}}
+
+{{wikipedia|lang=ja}}
+
+===Noun===
+{{ja-noun|くわ}}
+
+# [[hoe]]
+
+[[Category:ja:Tools|くわ]]
+
+----
+
+==Korean==
+[[File:Shovels.jpg|thumb|鍬]]
+
+===Hanja===
+{{ko-hanja|hangeul=초|eumhun=|rv=cho|mr=ch'o|y=cho}}
+
+# ([[가래]] 초): a [[spade]], [[shovel]], [[ploughshare]]
+
+====Synonyms====
+* {{sense|spade, shovel, ploughshare}} {{l|ko|鍤}} ([[가래]] 삽), [[鍬]] ([[가래]] 초), [[鏵]] ([[가래]] 화), [[鋘]] ([[가래]] 화)
+
+====See also====
+* {{sense|spade, shovel, ploughshare}} {{l|ko|鋤}} ([[호미]] 서), [[鉏]] ([[호미]] 서), [[錤]] ([[호미]] 기), [[鎡]] ([[호미]] 자), [[鎒]] ([[호미]] 호), [[钁]] ([[괭이]] 곽), [[钃]] ([[괭이]]/[[호미]] 촉)
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thâu]]|rs=金09}}
+
+# {{defn|lang=vi|sort=金09}}
+
+[[fr:鍬]]
+[[ko:鍬]]
+[[lt:鍬]]
+[[hu:鍬]]
+[[mg:鍬]]
+[[ja:鍬]]
+[[uz:鍬]]
+[[pl:鍬]]
+[[ru:鍬]]
+[[th:鍬]]
+[[chr:鍬]]
+[[zh:鍬]]

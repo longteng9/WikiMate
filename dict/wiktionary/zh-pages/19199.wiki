@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|凑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=09|sn=12|four=35134|canj=EQKK|ids=⿰氵奏}}
+
+====References====
+* {{Han ref|kx=0636.220|dkj=17822|dj=1043.200|hdz=31666.090|uh=6E4A|ud=28234|bh=B4EA|bd=46314}}
+
+----
+
+==Chinese==
+{{zh-forms|s=凑}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=còu
+|c=cau3
+|mc=y
+|oc=y
+|ma=Zh-còu.ogg
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[piece together]], [[assemble]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水09}}
+
+# {{defn|lang=ja|sort=水09}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[みなと]] (minato), [[あつまる]] (atsumaru)}}
+
+===Proper noun===
+{{ja-pos|proper|みなと}}
+
+# {{surname|lang=ja|sort=みなと}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=주|eumhun=|rv=ju|mr=chu|y=cwu}}
+
+# {{defn|lang=ko|sort=水09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水09|hanviet=tấu}}
+
+# {{defn|lang=vi|sort=水09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6e4a Nom Foundation]
+
+[[fr:湊]]
+[[ko:湊]]
+[[hu:湊]]
+[[mg:湊]]
+[[ja:湊]]
+[[pl:湊]]
+[[th:湊]]
+[[zh:湊]]

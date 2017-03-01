@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=rénkǒng,er=y
+|c=jan4 hung2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[manhole]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|じん|こう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|じんこう|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|じんこう}}
+
+# [[manhole]]
+
+====Synonyms====
+* {{ja-r|マンホール}}
+
+====Derived terms====
+* {{ja-r|人孔蓋|じんこうぶた}}: [[manhole cover]]
+
+===References===
+<references/>
+
+[[ja:人孔]]
+[[zh:人孔]]

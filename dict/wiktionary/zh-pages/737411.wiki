@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǐnhuǒ
+|mn=ín-hóe/ín-hé
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[kindle]]; to [[light]] a [[fire]]; to [[ignite]]
+
+====Derived terms====
+{{zh-der|引火燒身|引火線|引火自焚|引火點}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|いん|か|yomi=on}}
+
+===Noun===
+{{ja-noun|いんか}}
+
+# catching fire, burning
+#: {{ja-usex|本製品 は 発火、 '''引火'''、 爆発等 の 恐れ が あります。|ほんせいひん は はっか、 '''いんか'''、 ばくはつ など の おそれ が あります。|This product may ignite, '''catch fire''', or explode.}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|いんか}}
+
+# to [[catch fire]]
+
+====Synonyms====
+* {{ja-r|点火|てんか}}, {{ja-r|発火|はっか}}
+
+====Conjugation====
+{{ja-suru|いんか}}
+
+[[Category:ja:Fire|いんか]]
+
+[[ko:引火]]
+[[hu:引火]]
+[[mg:引火]]
+[[chr:引火]]
+[[zh:引火]]

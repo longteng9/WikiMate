@@ -1,0 +1,56 @@
+{{also|离合词}}
+==Chinese==
+{{zh-forms|s=离合词}}
+
+===Pronunciation===
+{{zh-pron
+|m=líhécí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[separable]] [[verb]]
+
+===Usage notes===
+* a type of Chinese verb which consists of two parts. The two parts may go together, or other words may be placed between the two parts. For example: [[睡覺]] (''shuìjiào'', to sleep) vs. [[睡]][[午|<font color="green">'''午'''</font>]][[覺]] (''shuì wǔ jiào'', take a noon nap).
+
+'''Examples of separable verbs:'''
+* [[畢業]]
+* [[創業]]
+* [[革命]]
+* [[鼓掌]]
+* [[盡力]]
+* [[參軍]]
+* [[決口]]
+* [[罷工]]
+* [[閉幕]]
+* [[保險]]
+* [[報名]]
+* [[貶值]]
+* [[投資]]
+* [[安心]]
+* [[稱心]]
+* [[洗澡]]
+* [[如意]]
+* [[睡覺]]
+* [[游泳]]
+
+[[Category:zh:Grammar|隹11離合詞]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|り|ごう|し|yomi=on}}
+
+===Noun===
+{{ja-noun|りごうし}}
+# (''Chinese grammar'') {{lb|ja|grammar|sort=りごうし}} [[separable verb]]
+
+====Related terms====
+* {{ja-r|分離動詞|ぶんりどうし}}: {{qualifier|in other languages' grammars}} [[separable verb]]
+
+[[Category:ja:Parts of speech|りごうし]]
+
+[[it:離合詞]]

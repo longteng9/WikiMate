@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zāipéi
+|c=zoi1 pui4
+|h=pfs=châi-phì
+|mn=chai-pôe
+|ma=Zh-zaipéi.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Advanced Mandarin}} to [[cultivate]]; to [[foster]]; to [[nurture]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|さい|ばい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|さいばい|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|さいばい}}
+
+# [[cultivation]], [[culture]]
+
+====Derived terms====
+* {{ja-r|葡萄栽培|ぶどうさいばい|gloss=[[viticulture]]}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|さいばい}}
+
+# [[cultivate]], [[grow]] plants
+#: {{ja-usex|畑で栽培するのが望ましい。|はたけ で さいばい する の が のぞまし.い。|It's preferable to grow them in a field.}}
+
+====Conjugation====
+{{ja-suru|さいばい}}
+
+===References===
+<references/>
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=재배}}
+
+# {{hanja form of|재배}}
+
+[[zh-min-nan:栽培]]
+[[ko:栽培]]
+[[hu:栽培]]
+[[mg:栽培]]
+[[ja:栽培]]
+[[ru:栽培]]
+[[chr:栽培]]
+[[zh:栽培]]

@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=11|sn=17|four=48136|canj=GKLMI,QKLMI,XGKLM}}
+
+# [[nipper]]s, [[pincer]]s, [[claw]]s (of [[crustacean]]s)
+
+====References====
+* {{Han ref|kx=1094.530|dkj=33496|dj=1559.270|hdz=42875.070|uh=87AF|ud=34735|bh=EE67|bd=61031}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|敖|虫|t2=insect|ls=psc|c1=p|c2=s}} – part of an insect, its pincers.
+
+===Pronunciation===
+{{zh-pron
+|m=áo
+|c=ngou4,gong6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[pincer]]; [[nipper]]; [[claw]]
+
+====Derived terms====
+* {{zh-l|大螯蝦}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫11}}
+
+# {{defn|lang=ja|sort=虫11}}
+
+====Readings====
+* {{ja-readings|on=[[ごう]] (gō)|kun=[[はさみ]] (hasami)|nanori=}}
+
+===Noun===
+{{ja-noun|はさみ|ハサミ}}
+
+# [[chela]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''螯''' ([[ngao]])
+
+# {{defn|vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:螯]]
+[[hu:螯]]
+[[mg:螯]]
+[[ja:螯]]
+[[pl:螯]]
+[[th:螯]]
+[[zh:螯]]

@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=07|sn=11|four=00332|canj=YRNF|ids=⿱亨灬}}
+
+====References====
+* {{Han ref|kx=0671.210|dkj=19049|dj=1080.160|hdz=32207.040|uh=70F9|ud=28921|bh=B269|bd=45673}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|亨|灬|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=pēng
+|c=paang1
+|mn=qz:phng/tw,xm,zz:pheng
+|w=1phan
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[boil]]; to [[cook]]
+#* {{zh-x|以 椒、姜、桂 和 烹 而 飲 之|...use pepper, ginger or tumeric, and cinnamon (ie. ''Cinnamomum cassia'') to boil as a drink.|CL|ref={{RQ:Manshu|7|Tea, Trees, Herbs and Fruits|7}}}}
+# to [[forge]]; to [[smelt]]
+# {{lb|zh|cooking}} to [[fry]] quickly in [[hot]] [[oil]] and [[stir]] in [[sauce]]
+# to [[brew]]; to [[infuse]]
+
+===Compounds===
+{{zh-der|兔死狗烹|兔盡狗烹|割烹|大烹|大烹五鼎|如烹小鮮|炙鳳烹龍|炮鳳烹龍|炮龍烹鳳|炰鳳烹龍|烹分|烹勁兒|烹宰|烹滅|烹炮|烹煮|烹犬藏弓|烹茗|烹茶|烹調|烹飪|烹飪鼎鼐|烹龍炮鳳|烹龍煮鳳|牛鼎烹雞|狗烹錡釜|走狗烹|鑊烹}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=火07}}
+
+# {{defn|lang=ja|sort=火07}}
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō)|kun=[[にる]] (niru)}}
+
+====Compounds====
+* {{ja-r|割烹|かっぽう}}
+* {{ja-r|割烹着|かっぽうぎ}}
+* {{ja-r|割烹店|かっぽうてん}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=팽|eumhun=|rv=paeng|mr=p'aeng|y=phayng}}
+
+# {{defn|lang=ko|sort=火07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''烹''' ([[phanh]])
+
+[[fr:烹]]
+[[hu:烹]]
+[[mg:烹]]
+[[ja:烹]]
+[[no:烹]]
+[[pl:烹]]
+[[th:烹]]
+[[uk:烹]]
+[[zh:烹]]

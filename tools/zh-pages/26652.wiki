@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=10|sn=16|four=31243|canj=LMVI}}
+
+====References====
+* {{Han ref|kx=1122.150|dkj=34495|dj=1590.090|hdz=53107.080|uh=8925|ud=35109|bh=BFC8|bd=49096}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|衣|辱|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=rù
+|c=juk6
+|mn=qz,tp,xm:lio̍k/kh,zz:jio̍k
+|w=5nyioq,5zoq
+|w_note=5nyioq - vernacular; 5zoq - literary
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[cotton]]-padded [[mattress]]; mattress; [[cushion]]
+# [[bedding]]
+
+====Compounds====
+{{zh-der|坐褥|床褥|氣褥子|產褥期|產褥熱|芙蓉褥|衾褥妝奩|被褥|褥單|褥套|褥子|褥瘡|重裀疊褥|電熱褥}}
+
+===Descendants===
+{{CJKV||じょく|욕|nhục}}
+''Others'':
+* Korean: {{ko-l|요}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=衣10}}
+
+# {{defn|lang=ja|sort=衣10}}
+
+====Readings====
+* {{ja-readings|on=[[じょく]] (joku)|kun=[[しとね]] (shitone)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=욕|eumhun=|rv=yok|mr=yok|y=yok}}
+
+# {{defn|lang=ko|sort=衣10}}
+
+----
+
+==Vietnamese==
+
+===Character===
+====Readings====
+{{vi-readings|hv=nhục|nom=nhục|rs=艸08}}
+
+[[fr:褥]]
+[[hu:褥]]
+[[mg:褥]]
+[[ja:褥]]
+[[no:褥]]
+[[pl:褥]]
+[[th:褥]]
+[[vi:褥]]
+[[zh:褥]]

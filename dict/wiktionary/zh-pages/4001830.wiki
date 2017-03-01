@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|けつ|べつ|yomi=o}}
+
+===Alternative forms===
+* {{l/ja|訣別}}
+
+===Pronunciation===
+* {{ja-pron|けつべつ|yomi=o}}
+
+===Noun===
+{{ja-noun|けつべつ}}
+
+# [[separation]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|けつべつ}}
+
+# [[part]], say farewell
+#: {{ja-usex|下半身太りと決別する８つの秘策。|かはんしん ふとり と けつべつ する やっつ の ひさく。|Eight secrets to saying goodbye to a fat lower body.}}
+
+====Conjugation====
+{{ja-suru|けつべつ}}
+
+[[mg:決別]]
+[[zh:決別]]

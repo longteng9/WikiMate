@@ -1,0 +1,97 @@
+{{character info/new}}
+{{also|胁}}
+==Translingual==
+
+===Alternative forms===
+* {{l|mul|脇}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|劦|肉|c1=p|c2=s|ls=psc}}.
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=06|sn=10|four=40227|canj=KSKSB|ids=⿱劦月}}
+
+# [[rib]]s
+# [[armpit]]s
+# [[flank]]
+# [[threaten]]
+
+====References====
+* {{Han ref|kx=0982.020|dkj=29466|dj=1434.070|hdz=32073.090|uh=8105|ud=33029|bh=AFD9|bd=45017}}
+
+----
+
+==Chinese==
+{{zh-forms|s=胁}}
+
+===Alternative forms===
+* {{zh-l|脇}}
+
+===Pronunciation===
+{{zh-pron
+|m=xié
+|c=hip3
+|h=pfs=hia̍p
+|mn=hia̍p
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=肉06}}
+
+# {{defn|lang=ja|sort=肉06}}
+
+====Readings====
+* {{ja-readings|goon=[[こう]] (kō)|kanon=[[きょう]] (kyō)|on=[[きゅう]] (kyū)|kun=[[おびやかす]] (obiyakasu), [[おどす]] (odosu), [[おどかす]] (odokasu)}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|脅威|きょうい}}
+{{mid3}}
+* {{ja-r|脅喝|きょうかつ}}
+{{mid3}}
+* {{ja-r|脅迫|きょうはく}}
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=협|eumhun=|rv=hyeop|mr=hyŏp|y=hyep}}
+
+# {{defn|lang=ko|sort=肉06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|hiếp|rs=肉06}}
+
+# {{defn|lang=vi}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+[[fr:脅]]
+[[ko:脅]]
+[[hu:脅]]
+[[mg:脅]]
+[[ja:脅]]
+[[pl:脅]]
+[[th:脅]]
+[[vi:脅]]
+[[zh:脅]]

@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|鳣}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=13|sn=24|canj=NFYWM|four=20316}}
+
+# [[sturgeon]]
+
+====References====
+* {{Han ref|kx=1479.050|dkj=46533|dj=2010.310|hdz=74718.030|uh=9C63|ud=40035|bh=F8D6|bd=63702}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Glyph origin====
+{{Han etym}}
+
+====Pronunciation====
+{{zh-pron
+|m=zhān
+|c=zin1
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+=====Compounds=====
+{{zh-der|鱣堂|鱣舍}}
+
+===References===
+* {{R:twedu|B06022}}
+* {{R:yue:Hanzi}}
+
+===Etymology 2===
+{{zh-see|鱔|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚13}}
+
+# [[carp]]
+# [[sturgeon]]
+
+====Readings====
+* {{ja-readings|on=[[たん]] (tan), [[せん]] (sen), [[ぜん]] (zen), [[だん]] (dan)|kun=[[こい]] (koi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|eumhun=|rv=jeon|mr=chŏn|y=cen}}
+
+# [[carp]]
+# [[sturgeon]]
+
+[[fr:鱣]]
+[[ko:鱣]]
+[[hu:鱣]]
+[[mg:鱣]]
+[[pl:鱣]]
+[[th:鱣]]
+[[vi:鱣]]
+[[zh:鱣]]

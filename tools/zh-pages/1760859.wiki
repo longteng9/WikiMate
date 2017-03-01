@@ -1,0 +1,27 @@
+==Japanese==
+{{ja-kanjitab|半|切}}
+
+===Etymology 1===
+From {{m|ja|半|sc=Jpan}} (''han'', "half") + {{m|ja|切|sc=Jpan}} (''setsu'', "cut," "sever")
+
+====Noun====
+{{ja-noun|はんせつ}}
+
+# [[half]] [[size]]
+
+====Verb====
+{{ja-verb-suru|はんせつ}}
+
+# divide in half
+
+===Etymology 2===
+From {{m|ja|半|sc=Jpan|tr=han}} + {{m|ja|切|sc=Jpan|tr=kiri}}
+
+====Noun====
+{{ja-noun|はんぎり}}
+
+# {{qualifier|obscure}} flat-bottomed wooden bowl for preparing sushi rice
+
+[[ko:半切]]
+[[ja:半切]]
+[[zh:半切]]

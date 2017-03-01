@@ -1,0 +1,57 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhàoshè
+|c=ziu3 se6
+|mn=qz,tw,xm,zz:chiò-siā
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[shining]] of light
+
+===Verb===
+{{zh-verb}}
+
+# to [[shine]] on, to [[emit]] light on
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|しゃ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|しょうしゃ|y=o}}
+
+===Noun===
+{{ja-noun|しょうしゃ|tr=both}}
+
+# [[exposure]] to light
+# [[irradiation]]
+
+===Verb===
+{{ja-verb-suru|しょうしゃ|tr=both}}
+
+#[[expose]] to light
+# [[irradiate]]
+
+====Conjugation====
+{{ja-suru|しょうしゃ}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=조사}}
+
+# {{hanja form of|조사|}}
+
+[[zh-min-nan:照射]]
+[[hu:照射]]
+[[ja:照射]]
+[[zh:照射]]

@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|たい|しょう|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|たいしょう|y=o}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|たいしょう|kyu=對稱}}
+
+# {{lb|ja|mathematics|sort=たいしょう}} [[symmetric]]
+
+====Inflection====
+{{ja-na|たいしょう}}
+
+===Noun===
+{{ja-noun|たいしょう|kyu=對稱}}
+
+# {{lb|ja|mathematics|sort=たいしょう}} [[symmetry]]
+
+===References===
+* {{R:Shogakukan}}
+
+[[hu:対称]]
+[[mg:対称]]
+[[ja:対称]]
+[[zh:対称]]

@@ -1,0 +1,61 @@
+==Chinese==
+{{zh-forms|s=电视}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+{{wasei kango||でんし|television}}, based on {{ja-r|電話|でんわ|telephone}}.<ref name="Miyajima">Tatsuo Miyajima, ''“Terebi” to “denshi”'', in [http://www2.ipcku.kansai-u.ac.jp/~shkky/data/2008Beijing-papers.pdf 西学東漸と東亜近代新語新概念], 2008.</ref>
+
+===Pronunciation===
+{{zh-pron
+|m=diànshì
+|c=din6 si6
+|h=pfs=thien-sṳ
+|md=diêng-sê
+|mn=tiān-sī
+|mn-t=diang6 si6
+|w=3di zr
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[television]]; [[TV]]; the [[small screen]]
+#: {{zh-x|我 喜歡 看 電視。|I like to watch '''TV'''.}}
+#: {{zh-x|我 好 鍾意 睇 電視。|I like to watch '''TV'''.|C}}
+# [[television set]]; [[TV set]]
+
+====Derived terms====
+{{zh-der|電視差轉臺|電視電話|電視發射塔|電視櫃|電視會議|電視機|電視劇|電視連續劇|電視片|電視頻道|電視手機|電視塔|電視臺|電視網|電視系列片|電視小品|電視綜合徵|音樂電視}}
+
+===Descendants===
+* Lü: {{l|khb|ᦶᦎᧃᧈᦉᦹᧈ}}
+
+===References===
+<references/>
+
+{{zh-cat|Beginning|Television}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|でん|し|yomi=on}}
+
+===Noun===
+{{ja-noun|でんし}}
+
+# {{lb|ja|obsolete|sort=でんし}} [[television]]
+
+[[zh-min-nan:電視]]
+[[fr:電視]]
+[[ko:電視]]
+[[ky:電視]]
+[[lo:電視]]
+[[hu:電視]]
+[[mg:電視]]
+[[ja:電視]]
+[[uz:電視]]
+[[pl:電視]]
+[[pt:電視]]
+[[th:電視]]

@@ -1,0 +1,84 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=suǒyǒu
+|c=so2 jau5
+|h=pfs=só-yû
+|ma=y
+|mn=xm,zz,tp,kh:só͘-ū/qz:só͘-ǔ/zz:sé-ū/xm,qz:só͘-iú/zz:sé-iú
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[all]]
+#: {{zh-x|我 不 懂 所有 這些 是 什麼 目的。|I don't get the point of '''all''' this.}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=suǒyǒu
+|c=so2 jau5
+|h=pfs=só-yû
+|ma=y
+|mn=xm,qz,tp,kh:só͘-iú/zz:sé-iú
+|cat=n,v
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[possession]]s
+
+====Verb====
+{{zh-verb}}
+
+# to [[own]]; to [[possess]]
+
+====Derived terms====
+{{zh-der|版權所有|所有權|所有者|所有制|所有主}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょ|ゆう|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|しょゆう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|しょゆう}}
+
+# [[possession]], the ownership of something
+# something that one owns
+
+====Compounds====
+* {{l|ja|所有物}} possessions
+* {{l|ja|所有格}} possessive case
+
+===Verb===
+{{ja-verb-suru|しょゆう}}
+
+# to [[possess]]
+
+====Conjugation====
+{{ja-suru|しょゆう}}
+
+===References===
+<references/>
+
+[[zh-min-nan:所有]]
+[[ko:所有]]
+[[lo:所有]]
+[[hu:所有]]
+[[mg:所有]]
+[[ja:所有]]
+[[ru:所有]]
+[[ta:所有]]
+[[chr:所有]]
+[[uk:所有]]
+[[zh:所有]]

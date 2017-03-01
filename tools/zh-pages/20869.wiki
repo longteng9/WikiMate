@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|琐}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=96|rad=玉|as=10|sn=14|four=19186|canj=MGFBC}}
+
+# [[fragments]]
+# [[trifling]], [[petty]]
+# [[troublesome]]
+
+====References====
+* {{Han ref|kx=0738.230|dkj=21147|dj=1149.070|hdz=21130.150|uh=7463|ud=29795|bh=BABE|bd=47806}}
+
+----
+
+==Chinese==
+{{zh-forms|s=琐}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=suǒ
+|c=so2
+|mn=só
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|北夢瑣言|委瑣|孱瑣|嵬瑣|煩瑣|猥瑣|瑣事|瑣務|瑣尾流離|瑣屑|瑣才|瑣瑣|瑣碎|瑣窗|瑣細|瑣聞|瑣賤|瑣闈|瑣闥|繁瑣|聯瑣}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=玉10}}
+
+# {{defn|lang=ja|sort=玉10}}
+
+====Readings====
+* {{ja-readings|on=[[さ]] (sa)|kun=[[ちいさい]] (chiisai)}}
+
+====Compounds====
+* {{ja-r|瑣事|さじ}}
+* {{ja-r|瑣末|さまつ}}
+* {{ja-r|煩瑣|はんさ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=쇄|eumhun=|rv=swae|mr=swae|y=sway}}
+
+# {{defn|lang=ko|sort=玉10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|toả|rs=玉10}}
+
+# {{defn|lang=vi|sort=玉10}}
+
+[[fr:瑣]]
+[[ko:瑣]]
+[[hu:瑣]]
+[[ja:瑣]]
+[[pl:瑣]]
+[[th:瑣]]
+[[zh:瑣]]

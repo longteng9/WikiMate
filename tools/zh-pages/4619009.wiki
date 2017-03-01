@@ -1,0 +1,53 @@
+{{also|唾弃}}
+==Chinese==
+{{zh-forms|s=唾弃}}
+
+===Pronunciation===
+{{zh-pron
+|m=tuòqì
+|c=toe3 hei3
+|mn=qz:thò͘-khì/xm,zz:thò-khì
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[disdain]]; to [[spurn]]; to [[despise]]; to [[cast aside]]
+
+====Synonyms====
+* {{zh-l|鄙棄}}
+
+====Antonyms====
+* {{zh-l|敬愛}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|だ|き|yomi=on}}
+<!--===Pronunciation===
+{{ja-pron|yomi=kanon|だき|acc=3|acc_ref=DJR}}-->
+
+===Noun===
+{{ja-noun|だき}}
+
+# [[disdain]], [[abomination]], [[aversion]]
+#: {{ja-usex|戦争への'''唾棄'''|せんそう へ の '''だき'''|the '''disdain''' for wars}}
+
+====Related terms====
+* {{ja-r|軽蔑|けいべつ|gloss=[[contempt]]}}
+* {{ja-r|憎悪|ぞうお|gloss=[[hatred]]}}
+* {{ja-r|反感|はんかん|gloss=[[antipathy]]}}
+
+====Antonyms====
+* {{ja-r|敬愛|けいあい|gloss=[[adoration]]}}
+
+===Verb===
+{{ja-verb-suru|だき|tr=trans}}
+
+# to [[disdain]]; to [[abominate]]
+
+====Conjugation====
+{{ja-suru|だき}}
+
+[[ja:唾棄]]

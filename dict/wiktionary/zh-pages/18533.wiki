@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=82|rad=毛|as=08|sn=12|four=20714|canj=HUHUU|ids=⿱毛㲎}}
+
+# [[fine]] [[hair]] or [[fur]] on [[animal]]s
+
+====References====
+* {{Han ref|kx=0594.190|dkj=16872|dj=0986.180|hdz=32000.040|uh=6BF3|ud=27635|bh=D9E5|bd=55781}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cuì
+|c=ceoi3
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[fine]] fur or [[hair]] on animals
+#* [http://ctext.org/shuo-wen-jie-zi/cui-bu Shuo Wen Jie Zi] (a dictionary in East Han Dynasty)
+#* {{zh-x|毳：獸 細 毛 也。从 三 毛。凡 毳 之 屬 皆 从 毳。|[The character] 毳 [means] animals' fine fur indeed. [The character is] composed [of] three 毛s. All that belongs to the radical 毳 are composed of 毳.|CL}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=毛08}}
+
+# {{defn|lang=ja|sort=毛08}}
+
+====Readings====
+* {{ja-readings|goon=[[さい]] (sai), [[せち]] (sechi)|kanon=[[せい]] (sei), [[せつ]] (setsu)|kanyoon=[[ぜい]] (zei)|kun=[[けば]] (keba), [[むくげ]] (mukuge)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[취]], [[절]]|eumhun=|rv=chwi, jeol|mr=ch'wi, chŏl|y=chwi, cel}}
+
+# {{defn|lang=ko|sort=毛08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=毛08| hanviet = [[tuyệt]], [[xồi]]}}
+
+# {{defn|lang=vi|sort=毛08}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6bf3 Nom Foundation]
+
+[[fr:毳]]
+[[ko:毳]]
+[[hu:毳]]
+[[mg:毳]]
+[[ja:毳]]
+[[pl:毳]]
+[[th:毳]]
+[[zh:毳]]

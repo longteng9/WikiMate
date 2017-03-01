@@ -1,0 +1,90 @@
+{{character info/new}}
+{{also|墙|墻}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=90|rad=爿|as=13|sn=17|four=24261|canj=VMGOW|ids=⿰爿嗇}}
+
+====References====
+* {{Han ref|kx=0692.290|dkj=19806|dj=1105.200|hdz=42378.220|uh=7246|ud=29254|bh=C0F0|bd=49392}}
+
+----
+
+==Chinese==
+{{zh-forms|s=墙|t2=墻}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|爿|嗇|c1=s|c2=p|t1=wood|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=qiáng
+|c=coeng4
+|mn=qz,xm:chhiông/zz:chhiâng/qz,tw,xm:chhiûⁿ/zz:chhiôⁿ
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[wall]] {{zh-mw|m:面|m:堵|c:埲}}
+#: {{zh-x|牆 上 有 張 地圖。|There is a map on the '''wall'''.}}
+
+===Compounds===
+{{zh-der|亂作蕭牆|佛跳牆|兄弟鬩牆|哭牆|圍牆|圜牆|土牆|垣牆|城牆|堵牆|女兒牆|女牆|宮牆|宮牆外望|山牆|巖牆之下|巴南牆望|引水入牆|彫牆|忝列門牆|打牆腳|扶牆摸壁|承重牆|拆牆腳|挖牆根|挖牆腳|挖牆角|排牆倒|撞牆|撞牆期|擋土牆|擋油牆|攔門牆兒|朽木糞牆|東牆|板牆球|柏林圍牆|桃李門牆|民主牆|沙牆|泥牆|照牆|爬牆虎|牆上泥皮|牆上草|牆垛子|牆垣|牆壁|牆外漢|牆宇|牆有茨|牆根|牆腳|牆花路柳|牆花路草|牆衣|牆裙|牆角|牆鈴|牆面|牆面而立|牆頭|牆頭草|牆頭馬上|牆風壁耳|狗急跳牆|矮牆|矮牆淺屋|磚牆|禍發蕭牆|禍稔蕭牆|禍起蕭牆|稟牆|粉牆|紅杏出牆|累牆|羹牆|羹牆見堯|聽牆根|蕭牆|蕭牆之禍|蕭牆禍起|見堯於牆|觸事面牆|變起蕭牆|路柳牆花|跳牆和尚|跳牆頭|跳牆驀圈|踰牆|踰牆避命|踰牆鑽穴|踰牆鑽隙|逐出門牆|鄰女窺牆|釁發蕭牆|釁起蕭牆|銅牆鐵壁|鐵壁銅牆|鑽穴踰牆|鑽隙踰牆|門牆|門牆桃李|防火牆|防音牆|隔牆有耳|隔音牆|隙大牆壞|電視牆|面牆|面牆而立|頹牆壞壁|風火牆|飛牆走壁|騎牆|騎牆之見|鬩牆|鬩牆之禍|鬼打牆}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=爿13}}
+
+# {{defn|lang=ja|sort=爿13}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[かき]] (kaki)}}
+
+====Compounds====
+* [[垣牆]] ([[えんしょう]], enshō)
+* [[牆壁]] ([[しょうへき]], shōheki)
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=장|eumhun=|rv=jang|mr=chang|y=cang}}
+
+# {{defn|lang=ko|sort=爿13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|tường|rs=爿13}}
+
+# {{defn|lang=vi|sort=爿13}}
+
+====Readings====
+* Nôm: tường
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville, 1999
+
+[[zh-min-nan:牆]]
+[[fr:牆]]
+[[ko:牆]]
+[[hu:牆]]
+[[mg:牆]]
+[[ja:牆]]
+[[pl:牆]]
+[[th:牆]]
+[[chr:牆]]
+[[zh:牆]]

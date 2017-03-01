@@ -1,0 +1,96 @@
+{{character info/new}}
+{{also|燐}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=12|sn=17|four=19659|canj=MRFDQ|ids=⿰石粦}}
+
+# [[phosphorus]]
+
+====References====
+* {{Han ref|kx=0836.290|dkj=24481|dj=1253.270|hdz=42457.070|uh=78F7|ud=30967|bh=C143|bd=49475}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|石|t1=stone|粦|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lín,lìn
+|c=leon4,leon6
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[phosphorus]]
+# [[water]] [[rush]]ing [[between]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=石12}}
+
+# [[phosphorus]] (element)
+# water rushing between rocks
+
+====Readings====
+* {{ja-readings|on=[[りん]] (rin), [[ろう]] (rō), [[りょう]] (ryō)|kun=[[ながれる]] (nagareru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[린]]>[[인]]|eumhun=|rv=rin>in|mr=rin>in|y=lin>in}}
+
+# water flowing between stones
+# [[steep]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|lân, lấn|rs=石12}}
+
+# {{defn|lang=vi|sort=石12}}
+
+====Readings====
+* Nôm: lân, lấn
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville, 1999
+
+{{zh-cat|Chemical elements}}
+
+[[ast:磷]]
+[[de:磷]]
+[[fr:磷]]
+[[ko:磷]]
+[[io:磷]]
+[[lt:磷]]
+[[hu:磷]]
+[[mg:磷]]
+[[ja:磷]]
+[[no:磷]]
+[[pl:磷]]
+[[ro:磷]]
+[[ru:磷]]
+[[th:磷]]
+[[tg:磷]]
+[[vi:磷]]
+[[zh:磷]]

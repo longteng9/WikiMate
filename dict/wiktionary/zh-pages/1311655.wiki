@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bōxíng
+|c=bo1 jing4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[wavy]] [[form]]; [[rippled]] [[shape]]
+# {{lb|zh|physics}} [[waveform]]
+
+====Derived terms====
+{{zh-der|波形板}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|は|けい|yomi=on}}
+
+====Noun====
+{{ja-noun|はけい}}
+# [[waveform]]
+# [[wavy]] form, [[rippled]] shape, [[ripple]] mark, [[wave]]
+
+===Etymology 2===
+{{ja-kanjitab|なみ|かた|k2=がた|r=y|yomi=kun}}
+
+====Noun====
+{{ja-noun|なみがた}}
+# [[wavy]] form, [[rippled]] shape, [[ripple]] mark, [[wave]]
+
+[[fi:波形]]
+[[zh:波形]]

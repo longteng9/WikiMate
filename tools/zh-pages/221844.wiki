@@ -1,0 +1,12 @@
+==Japanese==
+{{ja-kanjitab|しゅう|たん|そく|ど|yomi=on}}
+
+===Etymology===
+From {{m|ja|終端||[[terminal]]|tr=shūtan}} + {{m|ja|速度||[[velocity]]|tr=sokudo}}.
+
+===Noun===
+{{ja-noun|しゅうたん そくど}}
+
+# {{lb|ja|physics|sort=しゆうたんそくと}} [[terminal velocity]]
+
+[[zh:終端速度]]

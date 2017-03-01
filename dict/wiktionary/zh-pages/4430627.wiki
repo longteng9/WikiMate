@@ -1,0 +1,19 @@
+==Chinese==
+{{zh-forms|type=112}}
+
+===Etymology===
+{{zh-compound|三|次|方程|three; third|degree|equation}}
+
+===Pronunciation===
+{{zh-pron
+|m=sān cì fāngchéng
+|c=saam1 ci3 fong1 cing4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|algebra}} [[cubic equation]]
+
+[[zh:三次方程]]

@@ -1,0 +1,95 @@
+{{also|服务}}
+==Chinese==
+{{zh-forms|s=服务}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=fúwù,tl=y
+|c=fuk6 mou6
+|h=pfs=fu̍k-vu
+|md=hŭk-ô
+|mn=ho̍k-bū
+|mn-t=hog8 bhu6
+|w=3vu voq
+|ma=y
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[service]]
+#: {{zh-x|優質 服務|quality '''service'''}}
+#: {{zh-x|服務 水平|quality of '''service'''}}
+#: {{zh-x|送餐 服務|food delivery '''service'''}}
+#: {{zh-x|客制化 服務|customized '''service'''}}
+#: {{zh-x|服務 部門|'''service''' department}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[serve]]
+#: {{zh-x|為 人民 服務|to '''serve''' the people}}
+
+====Derived terms====
+{{zh-der|長期服務假|服務器|服務臺|服務行業|服務性|服務員|服務站|顧客服務|客服|客房服務|社區服務|微笑服務|自我服務|自助服務}}
+
+===Descendants===
+{{CJKV||ふくむ|복무|phục vụ}}
+
+{{zh-cat|Beginning}}
+* Tagalog: {{l|tl|hukbo}}
+----
+
+==Japanese==
+{{ja-kanjitab|ふく|む|yomi=on}}
+
+===Noun===
+{{ja-noun|ふくむ}}
+
+# [[service]], [[duty]]
+
+===Verb===
+{{ja-verb-suru|ふくむ}}
+
+# to [[serve]], to do public [[service]], to do [[duty]]
+
+====Conjugation====
+{{ja-suru|ふくむ}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=복무}}
+
+# {{hanja form of|복무|[[service]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Verb===
+{{vi-hantu|pos=verb}}
+
+# {{han tu form of|phục vụ|to [[serve]]}}
+
+[[zh-min-nan:服務]]
+[[fr:服務]]
+[[ko:服務]]
+[[id:服務]]
+[[sw:服務]]
+[[hu:服務]]
+[[mg:服務]]
+[[ja:服務]]
+[[chr:服務]]
+[[zh:服務]]

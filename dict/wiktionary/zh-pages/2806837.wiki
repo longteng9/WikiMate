@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=xīn室
+|c=sam1 sat1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|cardiology}} a [[ventricle]]
+
+===See also===
+* {{zh-l|心房}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|しつ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=ko|dev=3|しんしつ}}
+
+===Noun===
+{{ja-noun|しんしつ}}
+
+# {{lb|ja|cardiology|sort=しんしつ}} a [[ventricle]]
+
+===See also===
+* {{ja-r|心%房|しん%ぼう}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=심실|mr=simsil|y=simsil}}
+
+# {{hanja form of|심실|[[cardiac]] [[ventricle]]}}
+[[ko:心室]]
+[[hu:心室]]
+[[nl:心室]]
+[[ja:心室]]
+[[zh:心室]]

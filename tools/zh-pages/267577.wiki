@@ -1,0 +1,53 @@
+{{also|复数|複数}}
+==Chinese==
+{{zh-forms|s=复数}}
+
+===Pronunciation===
+{{zh-pron
+|m=fùshù
+|c=fuk1 sou3
+|h=pfs=fuk-su
+|mn=ho̍k-sò͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|mathematics}} [[complex number]]
+# {{lb|zh|grammar}} [[plural]]
+
+====Synonyms====
+* {{sense|plural}} {{zh-l|眾數}}
+
+====Coordinate terms====
+* {{sense|complex number}} {{zh-l|實數|real number}}, {{zh-l|虛數|imaginary number}}
+* {{sense|plural}} {{zh-l|單數|singular}}, {{zh-l|雙數|dual}}
+
+===See also===
+* {{qualifier|Japanese}} {{ja-l|複素数}}
+
+{{zh-cat|Complex analysis}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふく|すう|yomi=o}}
+
+===Noun===
+{{ja-noun|ふくすう|shin=複数}}
+
+# {{lb|ja|mathematics}} [[plural]]
+
+[[zh-min-nan:複數]]
+[[ko:複數]]
+[[lo:複數]]
+[[lt:複數]]
+[[hu:複數]]
+[[mg:複數]]
+[[nl:複數]]
+[[ja:複數]]
+[[uz:複數]]
+[[tl:複數]]
+[[chr:複數]]
+[[zh:複數]]

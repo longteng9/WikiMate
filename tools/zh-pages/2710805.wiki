@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tuīdìng
+|mn=chhui-tēng/thui-tēng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[choose]]; to [[elect]]
+# to [[determine]]; to [[deduce]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|すい|てい|yomi=on}}
+
+===Noun===
+{{ja-noun|すいてい}}
+
+# [[estimation]]
+#: {{ja-usex|'''推定'''では数千人がデモに参加した。|'''すいてい''' で は すうせんにん が デモ に さんか した。|According to the estimate, thousands of people participated in the protests.}}
+# [[inference]], [[presumption]]
+
+===Verb===
+{{ja-verb-suru|すいてい}}
+
+# [[estimate]]
+# [[infer]], [[presume]]
+
+====Conjugation====
+{{ja-suru|すいてい}}
+
+[[ko:推定]]
+[[hu:推定]]
+[[mg:推定]]
+[[ja:推定]]
+[[sv:推定]]
+[[zh:推定]]

@@ -1,0 +1,96 @@
+{{character info/new}}
+{{also|杠}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=10|sn=14|four=41986|canj=DMBC|ids=⿰木貢}}
+
+====References====
+* {{Han ref|kx=0546.251|dkj=15343|dj=0934.150|hdz=21260.040|uh=69D3|ud=27091|bh=BA62|bd=47714}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gàng
+|c=gong3,gung3,lung5
+|mn=kǹg
+|mc=
+|oc=
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[lever]], [[pole]], [[crowbar]]
+# [[sharpen]]
+# {{lb|zh|Cantonese}} [[wardrobe]], [[trunk]]
+
+====Compounds====
+* {{zh-l|槓桿|[[lever]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木10}}
+
+# {{defn|lang=ja|sort=木10}}
+
+====Readings====
+{{ja-readings|goon=[[こう]] (kō)|kanon=[[こう]] (kō)|kun=[[てこ]] (teko)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|槓子|カンツ}}
+* {{ja-r|槓桿|こうかん}}: [[lever]]
+{{der-bottom}}
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|かん|yomi=irr}}
+
+===Etymology===
+From {{etyl|cmn|ja|sort=かん}} {{zh-l|槓|tr=gàng}}.
+
+===Pronunciation===
+{{ja-pron|yomi=irr|カン}}
+
+===Noun===
+{{ja-noun|かん|カン}}
+
+# {{lb|ja|mahjong|sort=かん}} quad
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=공|eumhun=|rv=gong|mr=kong|y=kong}}
+
+# {{defn|lang=ko|sort=木10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cổng]]|rs=木10}}
+
+# {{defn|lang=vi|sort=木10}}
+
+[[zh-min-nan:槓]]
+[[fr:槓]]
+[[hu:槓]]
+[[mg:槓]]
+[[ja:槓]]
+[[pl:槓]]
+[[th:槓]]
+[[tg:槓]]
+[[vi:槓]]
+[[zh:槓]]

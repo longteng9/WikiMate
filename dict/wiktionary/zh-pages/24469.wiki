@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=09|sn=13|four=75240|canj=BNKQ}}
+
+# [[tendon]]s
+
+====References====
+* {{Han ref|kx=0989.160|dkj=29708|dj=1441.200|hdz=32092.100|uh=8171|ud=33137|bh=B878|bd=47224}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiàn
+|c=gin3,gin1,gin6
+|h=pfs=
+|md=
+|mn=kiān
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|肌腱}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉09}}
+
+====Readings====
+* {{ja-readings|goon=[[けん]] (ken)|on=[[きん]] (kin)|kanon=[[こん]] (kon)}}
+
+===Noun===
+{{ja-noun|けん}}
+
+# {{lb|ja|anatomy|sort=けん}} [[tendon]]
+
+====See also====
+* {{ja-r|筋|すじ}}
+
+[[Category:ja:Muscles|けん]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=건|eumhun=|rv=geon|mr=kŏn|y=ken}}
+
+# {{defn|lang=ko|sort=肉09}}
+
+===See also===
+* {{l|ko|심줄|tr=simjul}}
+* {{l|ko|힘줄|tr=himjul}}
+
+[[fr:腱]]
+[[ko:腱]]
+[[hu:腱]]
+[[mg:腱]]
+[[nl:腱]]
+[[ja:腱]]
+[[pl:腱]]
+[[ru:腱]]
+[[th:腱]]
+[[zh:腱]]

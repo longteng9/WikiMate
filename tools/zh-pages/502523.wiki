@@ -1,0 +1,53 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìndào
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[shortcut]] {{qualifier|an alternative route}}
+
+====Synonyms====
+* {{zh-l|捷徑}}
+* {{zh-l|近路}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちか|みち|yomi=kun}}
+
+===Pronunciation===
+* {{ja-pron|ちかみち|yomi=k}}
+
+===Noun===
+{{ja-noun|ちかみち}}
+
+# a [[shortcut]]
+
+====Synonyms====
+* {{ja-r|捷径|しょうけい}}
+* {{ja-r|早道|はやみち}}
+* {{ja-r|間道|かんどう}}
+
+====Antonyms====
+* {{ja-r|遠回り|とおまわり}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|ちかみち}}
+
+# [[take]] a shortcut
+
+====Conjugation====
+{{ja-suru|ちかみち}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:近道]]
+[[mg:近道]]
+[[zh:近道]]

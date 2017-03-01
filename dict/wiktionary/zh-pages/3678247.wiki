@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jùngōng
+|c=zeon3 gung1
+|h=pfs=chun-kûng
+|mn=chùn-kang
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[complete]] a [[project]]; to [[finish]] [[construction]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|竣|工}}
+
+===Noun===
+{{ja-noun|しゅんこう}}
+
+# completion of construction
+
+====Antonyms====
+* {{l|ja|着工}}
+
+===Verb===
+{{ja-verb-suru|k|hira=しゅんこう|rom=shunkō}}
+
+# [[finish]] construction
+
+====Conjugation====
+{{ja-suru|竣工|しゅんこう|shunkō}}
+
+[[ja:竣工]]
+[[vi:竣工]]
+[[zh:竣工]]

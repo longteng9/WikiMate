@@ -1,0 +1,53 @@
+{{also|转换}}
+==Chinese==
+{{zh-forms|s=转换}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhuǎnhuàn
+|c=zyun2 wun6
+|h=pfs=chón-von
+|mn=choán-ōaⁿ
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[change]]; to [[transform]]; to [[convert]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てん|かん|yomi=o}}
+
+===Noun===
+{{ja-noun|shin=転換|てんかん|hhira=てんくわん}}
+
+# {{kyujitai spelling of|転換|lang=ja}}
+
+===Verb===
+{{ja-verb-suru|shin=転換|てんかん|hhira=てんくわん}}
+
+# {{kyujitai spelling of|転換|lang=ja}}
+
+====Conjugation====
+{{ja-suru|てんかん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=전환}}
+
+# {{hanja form of|전환|change, switch, changeover}}
+
+[[zh-min-nan:轉換]]
+[[ko:轉換]]
+[[hu:轉換]]
+[[mg:轉換]]
+[[ja:轉換]]

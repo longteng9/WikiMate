@@ -1,0 +1,101 @@
+{{character info/new}}
+{{also|毎}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=80|rad=毋|as=03|sn=7|four=80507|canj=OWYI|ids=⿱𠂉母}}
+
+====Derived characters====
+* {{m|mul|海|sc=Hani}} {{qualifier|in Chinese form}}, [[晦]], [[莓]], [[毓]]
+
+====Descendants====
+* [[毎]]
+
+====References====
+* {{Han ref|kx=0589.020|dkj=16725|dj=0981.030|hdz=42381.020|uh=6BCF|ud=27599|bh=A843|bd=43075}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+''{{w|Shuowen}}'': {{Han compound|屮|母|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=měi
+|c=mui5
+|h=pfs=mî
+|md=muōi
+|mn=xm,qz,tw:múi/zz:bóe
+|w=3me,2'me
+|mc=y
+|oc=y
+|ma=y
+|cat=pron,adv,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[every]]; [[each]]
+#: {{zh-x|每日|every day; daily}}
+#: {{zh-x|每次|every time}}
+# [[every time]]; [[each]] [[time]]
+# [[often]]; [[frequently]]
+# {{†}} {{zh-alt-form|們|''[[plural]] [[marker]]''}}
+# {{†}} [[flourishingly]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|咱每|俺每|每戰皆北|每朝逐日|每隔|每日逐朝|每夜|我每|每日|每逢|每況愈下|每回|每次|每朝每日|每下愈況|每天|每人|每當|每每|每年|每常間|每位|每事問|每戰必勝|每飯不忘|每常|逐朝每日}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=毋03}}
+
+# [[every]]
+# [[each]]
+
+====Readings====
+* {{ja-readings|on=[[まい]] (mai), [[ばい]] (bai)|kun=[[つね]] (tsune)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=매|eumhun=|rv=mae|mr=mae|y=may}}
+
+# [[always]]
+# [[every time]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mỗi]], [[mọi]], [[mủi]]|rs=毋03}}
+
+# {{defn|lang=vi|sort=毋03}}
+
+[[zh-min-nan:每]]
+[[fr:每]]
+[[ko:每]]
+[[lt:每]]
+[[hu:每]]
+[[mg:每]]
+[[ja:每]]
+[[no:每]]
+[[pl:每]]
+[[ru:每]]
+[[ta:每]]
+[[th:每]]
+[[chr:每]]
+[[uk:每]]
+[[zh:每]]

@@ -1,0 +1,30 @@
+==Japanese==
+{{ja-kanjitab|かわ|はた|k2=ばた|r=y|yomi=k}}
+
+===Etymology===
+[[川]] (kawa) "river" + [[側]]/[[端]]/[[傍]] (hata) "edge"
+
+===Noun===
+{{ja-noun|かわばた|hhira=かはばた}}
+
+# [[riverbank|Riverbank]].
+#* '''1593:''' ''Esopono fabulas'' ([[w:Aesop's Fables|Aesop's Fables]]), "Vôcameto, fitcujino tatoyeno coto" (The Wolf and The Lamb)
+#*: Aru '''cauabata'''ni vôcamemo, fitcujimo mizzuuo nomuni, ... <!-- should fitcujimo be fitçujimo? -->
+#*: (= ある川端にオオカメも、ヒツジも水を飲むに、…)
+#*: (On a certain riverbank, a wolf and a sheep go to drink water) <!--"go to" implicit from に-->
+#* '''1632:''' [[w:Diego Collado|Diego Collado]], ''Dictionarium Sive Thesauri Linguae Iaponicae Compendium'', p. 117 (mislabelled 118)
+#*: ''Ripa, æ: ribera y orilla de rio.'' '''cavãbata'''.
+
+====Synonyms====
+* {{ja-r|川縁|かわべり}}
+
+===Proper noun===
+{{ja-pos|proper|かわばた}}
+
+# {{surname|lang=ja}}
+
+[[Category:Japanese surnames|かわばた]]
+
+[[fr:川端]]
+[[la:川端]]
+[[zh:川端]]

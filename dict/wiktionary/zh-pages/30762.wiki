@@ -1,0 +1,126 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=172|rad=隹|as=03|sn=11|four=90214|canj=FOG|ids=⿱小隹}}
+
+====References====
+* {{Han ref|kx=1364.200|dkj=41954|dj=1868.110|hdz=64091.070|uh=96C0|ud=38592|bh=B3B6|bd=46006}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|小|隹|t1=small|t2=bird|ls=ic}} – a small bird, a sparrow. Note that the upper part looks like [[少]], but what looks like the bottom of 少 is actually the upper left stroke of 隹, extended.
+
+===Pronunciation===
+{{zh-pron
+|m=què,qiāo
+|ma=
+|c=zoek3,zoek3-2
+|h=
+|md=
+|mn=qz,tw,xm:chhiok/twvk,zz:chhiak/xm:chiok/qz,tw,xm:chiah/xm:chioh/zz:chhehⁿ/tw:chhek
+|mn_note=chhiok/chhiak/chiok - literary; chiah/chioh/chhehⁿ/chhek - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[sparrow]]
+# {{lb|zh|Cantonese}} [[bird]]
+#: {{zh-x|雀竇|'''bird''' nest|C}}
+
+====See also====
+* {{qualifier|Mandarin}} {{zh-l|鳥}}
+
+====Compounds====
+* {{zh-l|雀巢}}
+* {{zh-l|麻雀}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=隹03}}
+
+# [[sparrow]]
+
+====Readings====
+{{ja-readings|kanon=[[しゃく]] (shaku)|kanyoon=[[じゃく]] (jaku)|goon=[[さく]] (saku)|kun=[[すずめ]] (suzume)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|雀%羅|じゃく%ら|[[sparrow]] [[net]]}}
+* {{ja-r|雀%蜂|すずめ%ばち}}
+{{der-bottom}}
+
+{{wikipedia|lang=ja|スズメ}}
+{{ja-kanjitab|すずめ|yomi=k}}
+
+===Etymology===
+{{rfe|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|すずめ|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|すずめ|スズメ}}
+
+# a {{w|Eurasian tree sparrow}}
+
+====Synonyms====
+* {{ja-r|黄%雀|こう%じゃく}}
+
+===References===
+<references/>
+
+{{cln|ja|basic words|sort=すずめ}}
+{{C|ja|True sparrows|sort=すずめ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[작]]|eumhun=|rv=jak|mr=chak|y=cak}}
+
+# {{defn|lang=ko|sort=隹03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tước]]|rs=隹03}}
+
+# {{defn|lang=vi|sort=隹03}}
+
+[[cs:雀]]
+[[fr:雀]]
+[[ko:雀]]
+[[ku:雀]]
+[[lo:雀]]
+[[lt:雀]]
+[[li:雀]]
+[[hu:雀]]
+[[mg:雀]]
+[[ja:雀]]
+[[no:雀]]
+[[pl:雀]]
+[[ro:雀]]
+[[ru:雀]]
+[[sm:雀]]
+[[sv:雀]]
+[[th:雀]]
+[[chr:雀]]
+[[vi:雀]]
+[[zh:雀]]

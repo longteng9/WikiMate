@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|沧}}
+==Translingual==
+===Etymology===
+{{Han etyl}}
+===Han character===
+{{Han char|rn=85|rad=水|as=10|sn=13|four=38167|canj=EOIR|ids=⿰氵倉}}
+
+# [[blue]], [[dark]] [[green]]
+# [[cold]]
+
+====References====
+* {{Han ref|kx=0641.290|dkj=18007|dj=1049.080|hdz=31703.010|uh=6EC4|ud=28356|bh=B7C9|bd=47049}}
+
+----
+
+==Chinese==
+{{zh-forms|s=沧}}
+
+===Pronunciation===
+{{zh-pron
+|m=cāng
+|c=cong1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水10}}
+
+# {{defn|lang=ja|sort=水10}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[さむい]] (samui)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=창|eumhun=|rv=chang|mr=ch'ang|y=chang}}
+
+# {{defn|lang=ko|sort=水10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thương]]|rs=水10}}
+
+# {{defn|lang=vi|sort=水10}}
+
+[[fr:滄]]
+[[ko:滄]]
+[[hu:滄]]
+[[ja:滄]]
+[[pl:滄]]
+[[th:滄]]
+[[zh:滄]]

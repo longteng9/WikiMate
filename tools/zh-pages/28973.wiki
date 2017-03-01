@@ -1,0 +1,143 @@
+{{character info/new}}
+{{also|卩}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=163|rad=邑|as=08|sn=11|four=07627|canj=YRNL|ids=⿰咅⻏}}
+
+====Descendants====
+* [[へ]]
+* [[ヘ]]
+
+====References====
+* {{Han ref|kx=1272.170|dkj=39460|dj=1771.120|hdz=63780.090|uh=90E8|ud=37096|bh=B3A1|bd=45985}}
+
+[[Category:Han characters from which hiragana were derived|へ]]
+[[Category:Han characters from which katakana were derived|ヘ]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|咅|邑|alt2=阝|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bù
+|ma=y
+|c=bou6
+|h=pfs=phu
+|md=buô
+|mn=pō͘/phō
+|w=3bu
+|mc=y
+|oc=y
+|ma=
+|cat=n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[part]]; [[division]]; [[section]]
+# [[department]]; [[ministry]]
+#: {{zh-x|教育部|'''ministry''' of education}}
+# {{zh-classifier|works of literature, films, machines (cars, telephones...), etc|cat=y}}
+#: {{zh-x|我 想 去 看 一 部 電影。|I want to see a movie.}}
+
+===Compounds===
+{{zh-der|一部|一部分|三部九候|三部曲|三門幹部|下部|不管部會|丙部|中央黨部|中部|中部地方|二部制|交通部|俱樂部|傘兵部隊|儲備幹部|先遣部隊|先頭部隊|內政部|內部|全部|兩棲部隊|兩部鼓吹|公共部門|六部|兵部|兵部尚書|分別部居|分部|刑部|刑部尚書|北部|北部地方|南贍部洲|南部|南部地方|史部|司令部|吏部|單部句|四部|回部|國防部|坐部伎|外交部|外部|夜間部|大學部|大眾部|大部|大部分|天龍八部|子部|學部|密集部署|小賣部|局部|局部雨|工部|幹部|底部|庫部|戶部|戶部尚書|指揮部|按部就班|掩蔽部|掩護部隊|支部|敗部|敗部復活|教育部|日間部|木質部|本部|杜工部|東南部|東部|根部|案部|樂部|機動部隊|武裝部隊|比部|毘婆沙部|水部|法務部|法部|活化部位|特種部隊|班部|甕間吏部|發音部位|百部|相部宗|禮部|禮部尚書|禮部試|空降部隊|紫式部|細部|經濟部|經部|編輯部|總部|聯勤總部|聯合部隊|聲部|肋部|背部|胸部|胸部停球|腦部|腰部|腹部|臀部|臉部|花部|裝甲部隊|西部|西部地方|西部片|說部|財政部|販賣部|足部|部下|部件|部伍|部位|部分|部分法|部列|部勒|部務|部卒|部員|部執異論|部堂|部將|部尺|部屬|部帙|部從|部族|部曲|部曹|部會|部會首長|部派佛教|部照|部眾|部縣|部署|部落|部落同盟|部落社會|部長|部門|部院|部陣|部陳|部隊|部隊長|部類|部首|部黨|釋部|鈞部|銓部|門診部|陰部|隊部|雅部|集部|雙部句|零部件|雷部|面部|鞍部|鞠部|鞠部頭|韌皮部|音部記號|韻部|領導幹部|頭部|頸部|黨部}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=邑08}}
+
+====Readings====
+* {{ja-readings|goon=[[ぶ]] (bu)|kanon=[[ほ]] (ho), [[ほう]] (hō)|kanyoon=[[ふ]] (fu)|kun=[[わける]] (wakeru), [[すべる]] (suberu), [[つかさ]] (tsukasa), [[へ]] (he-), [[べ]] (-be)}}
+
+====Compounds====
+* {{ja-r|部長|ぶちょう}}: division head
+* {{ja-r|部門|ぶもん}}: [[division]], [[group]], [[branch]]
+* {{ja-r|部屋|へや}}: [[room]] of a [[house]] or [[hotel]], [[chamber]], [[apartment]], [[flat]]
+* {{ja-r|細部|さいぶ}}: [[details]], [[minor]]
+* {{ja-r|全部|ぜんぶ}}: [[everything]], [[all]]
+* {{ja-r|部活動|ぶかつどう}}
+
+===Counter===
+{{ja-pos|ぶ|counter}}
+
+# copies of a [[newspaper]] or [[magazine]]
+
+===Noun===
+{{ja-noun|ぶ}}
+
+# [[division]], [[divide]], a [[part]]
+# [[section]], [[bureau]], [[department]]
+
+===Suffix===
+{{ja-pos|ぶ|suffix}}
+
+# [[division]], [[bureau]]
+# [[school]] [[club]]
+#: {{ja-usex|野球'''部'''|やきゅう'''ぶ'''|baseball '''club'''}}
+#: {{ja-usex|茶道'''部'''|さどう'''ぶ'''|tea ceremony '''club'''}}
+# [[category]]
+
+====Usage notes====
+This is a level higher than {{m|ja|-課|tr=-ka||department}}, since for example {{m|ja|部長|tr=buchō||division head}} is the boss of a {{m|ja|課長|tr=kachō||department head}}.
+
+====See also====
+* {{ja-r|部活動|ぶかつどう}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=부|eumhun=|mr=pu|y=pu}}
+
+====Definitions====
+
+# group, team
+
+====Compounds====
+
+# [[全部]] ([[전부]])
+# [[內部]] ([[내부]])
+# [[部首]] ([[부수]])
+# [[部分]] ([[부분]])
+# [[部隊]] ([[부대]])
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=邑08|hanviet=[[bộ]], [[bõ]], [[duyên]]}}
+
+# {{defn|lang=vi|sort=邑08}}
+
+[[zh-min-nan:部]]
+[[fr:部]]
+[[ko:部]]
+[[it:部]]
+[[li:部]]
+[[hu:部]]
+[[mg:部]]
+[[ms:部]]
+[[ja:部]]
+[[no:部]]
+[[km:部]]
+[[pl:部]]
+[[ru:部]]
+[[fi:部]]
+[[th:部]]
+[[chr:部]]
+[[uk:部]]
+[[zh:部]]

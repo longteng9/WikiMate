@@ -1,0 +1,91 @@
+{{character info/new}}
+{{also|驹}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=05|sn=15|four=77320|canj=SFPR|ids=⿰馬句}}
+
+# [[colt]]
+# [[fleet]], [[swift]]
+# [[sun]]
+# {{surname|lang=zh}}
+
+====References====
+* {{Han ref|kx=1436.050|dkj=44663|dj=1960.300|hdz=74549.020|uh=99D2|ud=39378|bh=BE73|bd=48755}}
+
+----
+
+==Chinese==
+{{zh-forms|s=驹}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|馬|句|c1=s|c2=p|t1=horse|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jū
+|c=keoi1
+|h=pfs=
+|md=
+|mn=ku
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=馬05}}
+
+====Readings====
+* {{ja-readings|on=[[く]] (ku)|kun=[[こま]] (koma)}}
+
+===Noun===
+{{ja-noun|こま}}
+
+# {{lb|ja|rare|sort=こま}} [[horse]]
+# {{lb|ja|shogi|chess|sort=こま}} [[piece]]; [[man]]
+# [[bridge]] (of a musical instrument)
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 駒]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# {{defn|lang=ko|sort=馬05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[câu]]|rs=馬05}}
+
+# {{defn|lang=vi|sort=馬05}}
+
+[[zh-min-nan:駒]]
+[[fr:駒]]
+[[ko:駒]]
+[[lo:駒]]
+[[hu:駒]]
+[[mg:駒]]
+[[ja:駒]]
+[[pl:駒]]
+[[th:駒]]
+[[chr:駒]]
+[[zh:駒]]

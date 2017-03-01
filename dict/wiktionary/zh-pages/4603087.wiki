@@ -1,0 +1,63 @@
+{{also|泻下药}}
+==Chinese==
+{{zh-forms|s=泻下药}}
+
+===Pronunciation===
+{{zh-pron
+|m=xièxiàyào
+|c=se3 haa6 joek6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[cathartical|Cathartical]] ''[[w:Materia medica|materia medica]]'' in [[traditional Chinese medicine]]. This term refers to herbs and other medicinal substances that are used as [[purgative]]s or [[laxative]]s.
+
+====Hyponyms====
+{{rel-top|hyponyms}}
+
+攻下藥 (purgatives for cartharsis)
+
+* [[番瀉葉]], ''flower of the the ''[[Senna]]''
+* [[芒硝]], ''[[natrii sulfas]] (a naturally occurring mineral)''
+* [[大黃]], ''root and rhizome of the ''[[Rheum]]''
+* [[蘆薈]], [[aloe vera]]
+
+潤下藥 (purgatives for laxation)
+* [[大麻仁]],[[火麻仁]], seed of the [[hemp]]
+* [[郁李仁]], ''seed of the ''[[Prunus]]''
+
+峻下藥 (purgatives for drastic hydragogue)
+* [[牽牛子]], ''seed of the ''{{taxlink|Pharbitis|genus|noshow=1}}''
+* [[芫花]], ''flower of the ''{{taxlink|Daphne genkwa|species|noshow=1}}
+* [[甘遂]], ''root of the ''{{taxlink|Euphorbia kansui|species|noshow=1}}
+* [[大戟]], ''root of the ''{{taxlink|Euphorbia pekinensis|species|noshow=1}}
+
+峻下逐水藥
+* [[千金子]]
+* [[商陸]]
+* [[巴豆]]
+
+{{rel-bottom}}
+
+====See also====
+* [[藥材]] (medicinal materials in traditional Chinese medicine)
+
+===References===
+* {{pedialite|瀉下藥|lang=zh}}
+* {{cite-book
+|last=Ou
+|first=Ming
+|authorlink=
+|coauthors=Li Yanwen
+|year=1994
+|title=The Traditional Chinese Drug and Its Usage
+|publisher=Hai Feng Publishing Co.
+|location=
+|isbn=9622381995
+}}
+* Bo-Young Park, Byung-Sun Min, Kyung-Seop Ahn, Ok-Kyong Kwon, Hyouk Joung, Ki-Hwan Bae, Hyeong-Kyu Lee, Sei-Ryang Oh, "Daphnane diterpene esters isolated from flower buds of Daphne [[genkwa]] induce apoptosis in human myelocytic HL-60 cells and suppress tumor growth in Lewis lung carcinoma (LLC)-inoculated mouse model", Journal of Ethnopharmacology, Volume 111, Issue 3, 22 May 2007, Pages 496-503.
+* Iris H. Hall, Yei-Fei Liou, C. Brent Oswald, Kuo-Hsiung Lee, "The effects of [[genkwadaphnin]] and Gnidilatidin on the growth of P-388, L-1210 leukemia and KB carcinoma cells in Vitro", European Journal of Cancer and Clinical Oncology, Volume 22, Issue 1, January 1986, Pages 45-52
+* Noureddine Mazoir, Ahmed Benharref, María Bailén, Matías Reina, Azucena González-Coloma, "Bioactive triterpene derivatives from latex of two [[euphorbia]] species",Phytochemistry, Volume 69, Issue 6, April 2008, Pages 1328-1338.
+* M. Gallant, F. Odei-Addo, C.L. Frost, R.-A. Levendal, "Biological effects of THC and a lipophilic [[cannabis]] extract on normal and insulin resistant 3T3-L1 adipocytes", Phytomedicine. April 2009.

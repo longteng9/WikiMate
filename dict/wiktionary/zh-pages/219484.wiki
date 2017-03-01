@@ -1,0 +1,59 @@
+{{also|无用}}
+==Chinese==
+{{zh-forms|s=无用}}
+
+===Pronunciation===
+{{zh-pron
+|m=wúyòng
+|c=mou4 jung6
+|h=pfs=mò-yung
+|mn=xm,qz,zz:bû-iōng/tw,zz:bô-iōng/xm,qz:bô-ēng
+|mn-t=bho5 êng7
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to be [[useless]]; to be of no [[use]]; to be a [[waste of time]]
+#: {{zh-x|有人 認為{wéi} 讀書 無用。|Some believe reading '''is a waste of time'''.}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|む|よう|yomi=on}}
+
+===Etymology===
+{{prefix|無|用|lang=ja|t1=non-|t2=use|sort=よう}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|むよう}}
+
+# [[useless]]
+# [[unnecessary]]; [[needless]]
+# [[prohibited]], [[no]] (...ing)
+
+====Inflection====
+{{ja-na|むよう}}
+
+====Antonyms====
+* {{ja-r|有用|ゆうよう}}
+
+===Noun===
+{{ja-noun|むよう}}
+
+# [[uselessness]]
+# [[needlessness]]
+# being prohibited
+
+====Compounds====
+* {{ja-r|問答無用|もんどうむよう}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:無用]]
+[[hu:無用]]
+[[mg:無用]]
+[[chr:無用]]
+[[zh:無用]]

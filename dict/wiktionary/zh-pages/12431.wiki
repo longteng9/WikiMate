@@ -1,0 +1,95 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=11}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=08|sn=11|four=66060|canj=RAA|ids=⿰口昌}}
+
+====References====
+* {{Han ref|kx=0193.210|dkj=03765|dj=0414.010|hdz=10640.080|uh=5531|ud=21809|bh=B0DB|bd=45275}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|口|昌|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=chàng
+|c=coeng3
+|h=pfs=chhong
+|md=chióng
+|mn=chhiùⁿ/chhiàng/chhiòng
+|w=2tshaan
+|ma=y
+|mc=y
+|oc=y
+|cat=v,n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[sing]]
+#: {{zh-x|唱歌|to '''sing''' a song}}
+# to [[chant]]
+# to [[call]]
+# [[song]]
+# {{surname|lang=zh}}
+
+====Derived terms====
+{{zh-der|獨唱|一吹一唱|一唱一和|一唱三歎|一唱百和|一搭一唱|主唱|二重唱|代唱|伴唱|伴唱帶|伴唱影碟|伴唱機|低唱|千古絕唱|合唱|合唱團|吟唱|哼唱|唄唱|唱作|唱作俱佳|唱作念打|唱反調|唱叫|唱叫揚疾|唱名|唱和|唱哩嗹|唱喏|唱好|唱對臺戲|唱工|唱念|唱戲|唱揚|唱曲|唱書|唱本|唱機|唱歌|唱段|唱洋梆子|唱片|唱獨角戲|唱的|唱盤|唱票|唱空城計|唱籌量沙|唱籍|唱紅白臉|唱腔|唱詞|唱詩班|唱論|唱賺|唱遊|唱針|唱門詞兒|唱陽關|唱雙簧|唱頭|唱題目|唱高調|單弦說唱|嘌唱|大合唱|夫唱婦隨|妍唱|對唱|小唱|帶動唱|帶唱帶演|彈唱|彼唱此和|搬唱|數位唱片|數字唱片|更唱|歌唱|歡唱|此唱彼和|沒戲唱|淺斟低唱|清唱|清唱劇|滑唱|滾唱|漁唱|演唱|激光唱機|激光唱片|灌唱片|男唱女隨|絕唱|練唱|美聲唱法|翻唱|聯唱|臚唱|表唱|說唱|說唱文學|說學逗唱|講唱文學|賣唱|走唱|輪唱|輪唱曲|連說帶唱|酬唱|重唱|野唱|鐳射唱片|雞唱|雷射唱片|雷射唱盤|電唱機|領唱|類比唱片|首唱|首唱義兵|首唱義舉|駐唱|高唱|高唱入雲|鳴唱|點唱|點唱機|齊唱}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=口08}}
+# chant
+# choir
+
+====Readings====
+* {{ja-readings|goon=[[しょう]] (shō)|kanon=[[しょう]] (shō)|kun=[[となえる]] (tonaeru), [[うたう]] (utau), [[うた]] (uta)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=창|mr=ch'ang}}
+
+# {{defn|lang=ko|sort=口08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xướng]], [[xẳng]], [[xang]], [[sướng]], [[xắng]], [[xẵng]]|rs=口08}}
+
+# {{defn|lang=vi|sort=口08}}
+
+[[zh-min-nan:唱]]
+[[fr:唱]]
+[[ko:唱]]
+[[hu:唱]]
+[[mg:唱]]
+[[fj:唱]]
+[[ja:唱]]
+[[no:唱]]
+[[pl:唱]]
+[[ru:唱]]
+[[ta:唱]]
+[[th:唱]]
+[[chr:唱]]
+[[uk:唱]]
+[[vi:唱]]
+[[zh:唱]]

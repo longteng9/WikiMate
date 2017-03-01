@@ -1,0 +1,12 @@
+==Japanese==
+{{ja-kanjitab|うえ|さん|かく|ぎょう|れつ}}
+
+===Noun===
+{{ja-noun|うえ さんかく ぎょうれつ}}
+
+# {{lb|ja|linear algebra}} [[upper triangular matrix]]
+
+====Antonyms====
+* {{l|ja|下三角行列}}
+
+[[Category:ja:Linear algebra|うえさんかくぎょうれつ]]

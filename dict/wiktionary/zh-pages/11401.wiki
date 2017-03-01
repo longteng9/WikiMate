@@ -1,0 +1,56 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=10|rad=儿|as=10|sn=12|four=24211|canj=HUHGU,XHUHG|ids=⿰先先}}
+
+# to [[advance]]
+
+====References====
+* {{Han ref|kx=0125.210|dkj=01391|dj=0266.030|hdz=10274.020|uh=515F|ud=20831|bh=D860|bd=55392}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shēn
+|c=san1
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=9|rs=儿10}}
+
+# {{defn|lang=ja|sort=儿10}}
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin)|kun=[[すすむ]] (susumu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=신|rv=sin|mr=sin}}
+
+# {{defn|lang=ko|sort=儿10}}
+
+[[fr:兟]]
+[[li:兟]]
+[[hu:兟]]
+[[pl:兟]]
+[[th:兟]]
+[[zh:兟]]

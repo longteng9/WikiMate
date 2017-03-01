@@ -1,0 +1,15 @@
+==Chinese==
+{{zh-forms|type=22}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=liàngzǐ wèiyuán
+|c=loeng6 zi2 wai6 jyun4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|sort=里05|zh|computing}} [[qubit]]

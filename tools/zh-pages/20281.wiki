@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|爪}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+Combining form of [[爪]].
+
+===Han character===
+{{Han char|rn=87|rad=爪|as=00|sn=4|four=|canj=HF,XHF}}
+
+# radical 87
+
+====Usage notes====
+As a combining character, often written differently, where the strokes do not connect, as in [[采]].
+
+====References====
+* {{Han ref|kx=0688.281|dkj=19655|dj=1101.140|hdz=32030.021|uh=722B|ud=29227}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǎo
+|c=zaau2
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=r|rs=爪00}}
+
+# {{defn|lang=ja|sort=爪00}}
+
+====Readings====
+* {{ja-readings|on=|kun=[[つめかんむり]] (tsumekammuri), [[つめがしら]] (tsumegashira)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[làm]]|rs=爪00}}
+
+# to do; to make
+
+[[Category:CJKV radicals| ]]
+
+[[fr:爫]]
+[[ko:爫]]
+[[li:爫]]
+[[hu:爫]]
+[[pl:爫]]
+[[th:爫]]
+[[vi:爫]]
+[[zh:爫]]

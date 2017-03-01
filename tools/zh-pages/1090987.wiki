@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tuīlǐ
+|c=teoi1 lei5
+|mn=thui-lí/twvk:chhui-lí
+|ma=Zh-tuili.ogg
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Advanced Mandarin}} [[inference]]; [[reasoning]]
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Advanced Mandarin}} to [[infer]]; to [[reason]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|すい|り|yomi=on}}
+
+===Noun===
+{{ja-noun|すいり}}
+
+# [[deduction]], [[inference]]
+
+====Compounds====
+* {{l/ja|推理小説}}
+
+===Verb===
+{{ja-verb-suru|すいり}}
+
+# [[deduce]], [[infer]]
+
+====Conjugation====
+{{ja-suru|すいり}}
+
+[[ko:推理]]
+[[hu:推理]]
+[[ja:推理]]
+[[zh:推理]]

@@ -1,0 +1,68 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wàijiāo
+|ma=Zh-wàijiao.ogg
+|c=ngoi6 gaau1
+|h=pfs=ngoi-kâu
+|mn=gōa-kau
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[diplomacy]]; [[foreign affairs]]
+#: {{zh-x|外交 史|history of '''foreign affairs'''}}
+
+====Derived terms====
+{{zh-der|外交官|外交豁免權|外交家|外交特權|外交團|外交學}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|がい|こう|yomi=o}}
+{{wikipedia|lang=ja}}
+
+===Pronunciation===
+* {{ja-pron|がいこう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|がいこう}}
+
+# {{lb|ja|diplomacy|sort=*}} [[diplomacy]] (art of conducting international relations)
+
+====Derived terms====
+* [[外交家]]
+* [[外交史]]
+* [[外交官]]
+* [[外交団]]
+* [[外交術]]
+* [[外交特権]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=외교}}
+
+# {{hanja form of|외교|[[diplomacy]]}}
+
+[[ko:外交]]
+[[lo:外交]]
+[[lt:外交]]
+[[li:外交]]
+[[hu:外交]]
+[[ja:外交]]
+[[ru:外交]]
+[[uk:外交]]
+[[zh:外交]]

@@ -1,0 +1,37 @@
+{{also|原书}}
+==Chinese==
+{{zh-forms|s=原书}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuánshū
+|c=jyun4 syu1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[original]] [[version]] of a [[text]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|げん|しょ|yomi=on}}
+
+===Noun===
+{{ja-noun|げんしょ}}
+# The [[original]], [[untranslated]] version of a [[text]].
+# A foreign book written in a foreign language, especially from Europe or America.
+
+====Synonyms====
+* {{sense|original text}} {{ja-r|原本|げんぽん}}
+* {{sense|foreign book}} {{ja-r|洋書|ようしょ}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:原書]]
+[[it:原書]]
+[[hu:原書]]
+[[zh:原書]]

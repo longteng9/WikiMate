@@ -1,0 +1,20 @@
+==Chinese==
+{{zh-forms|s=定义域|type=21}}
+{{zh-wp}}
+
+===Pronunciation===
+{{zh-pron
+|m=dìngyìyù
+|c=ding6 ji6 wik6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|mathematics}} [[domain]] (of a [[function]])
+
+[[mg:定義域]]
+[[ja:定義域]]
+[[sv:定義域]]
+[[zh:定義域]]

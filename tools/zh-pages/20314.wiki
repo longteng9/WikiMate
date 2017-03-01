@@ -1,0 +1,110 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=91|rad=片|as=08|sn=12|four=26040|canj=LLHHJ|ids=⿰片卑}}
+
+====References====
+* {{Han ref|kx=0693.340|dkj=19854|dj=1106.280|hdz=32016.280|uh=724C|ud=29260|bh=B550|bd=46416}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|片|卑|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=pái
+|c=paai4,paai4-2
+|h=pfs=phài
+|md=bà̤
+|mn=pâi
+|w=3ba
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[board]]; [[plate]]
+# {{†}} [[census]] [[plate]]
+# [[signboard]]; [[placard]]; [[sign]]; [[tablet]]
+# [[brand]]; [[trademark]]
+# {{†}} [[nameplate]]
+# {{†}} ''Name of a type of historical [[document]]s delivered to the lower levels.''
+# [[playing card]]s; [[card]]s; [[dominoes]]; [[mahjong]]; etc.
+#: {{zh-x|打牌|to play '''cards'''}}
+# [[list]] (of prices)
+# [[shield]]
+# [[memorial]] (gateway or building)
+# [[pitch]] (style) of ancient Chinese poetry (''ci'') or music (''qu'')
+# [[manner]]; [[air]]; [[shape]]
+# {{lb|zh|Min Nan}} [[plaque]]; memorial [[tablet]]
+# {{lb|zh|Jilu Mandarin}} ''Classifier for card games.'' [[round]]
+
+===Compounds===
+{{zh-der|牌位|牌價|牌匾|牌坊|牌子|牌戲|牌樓|牌照|牌號|偉士牌|優諾牌|冒牌|叫牌|名牌|和牌|品牌|多米諾骨牌|大牌|將牌|廠牌|廣告牌|打牌|招牌|掛牌|摘牌|撲克牌|擋箭牌|攤牌|旗牌|月份牌|標牌|標語牌|橋牌|殼牌|汽車號牌|洗牌|無將牌|無牌|獎牌|王牌|玩牌|登機牌|發牌|盾牌|站牌|符牌|紅牌|紙牌|老牌|萬智牌|虎牌|虎頭牌|號牌|號碼牌|車牌|車號牌|金牌|銀牌|銅牌|門牌|雙牌|雜牌|頭牌|餐牌|骨牌|麻將牌|黃牌|狗牌}}
+
+===Descendants===
+{{CJKV||はい|패|bài}}
+''Others'':
+* Burmese: {{l|my|ဖဲ||playing cards; game of cards}}
+* Khmer: {{l|km|បៀ||playing cards}}
+* Lao: {{l|lo|ໄພ້||playing cards}}
+* Shan: {{l|shn|ၽၢႆႉ|tr=pʰaaj5||domino, playing cards}}
+* Thai: {{l|th|ไพ่||playing cards}}
+* White Hmong: {{l|mww|phaib||playing cards}}
+* Zhuang: {{l|za|bej||playing cards}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=片08}}
+
+# {{defn|lang=ja|sort=片08}}
+
+====Readings====
+* {{ja-readings|on=[[はい]] (hai)|kun=[[ふだ]] (fuda)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[패]], [[배]]|eumhun=|rv=pae, bae|mr=p'ae, pae|y=phay, pay}}
+
+# {{defn|lang=ko|sort=片08}}
+
+====Compounds====
+* {{lang|ko|[[깡牌]]}} ({{lang|ko|깡패}})
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bài]], [[bìa]], [[bời]]|rs=片08}}
+
+# {{defn|lang=vi|sort=片08}}
+
+[[zh-min-nan:牌]]
+[[fr:牌]]
+[[hu:牌]]
+[[mg:牌]]
+[[ja:牌]]
+[[no:牌]]
+[[pl:牌]]
+[[tl:牌]]
+[[th:牌]]
+[[chr:牌]]
+[[vi:牌]]
+[[zh:牌]]

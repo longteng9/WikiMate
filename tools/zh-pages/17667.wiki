@@ -1,0 +1,105 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=07|sn=11|four=48927|canj=DCNH|ids=⿰木弟}}
+
+====References====
+* {{Han ref|kx=0531.020|dkj=14881|dj=0919.030|hdz=21220.020|uh=68AF|ud=26799|bh=B1E8|bd=45544}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|t1=wood, tree|弟|ls=psc|c1=s|c2=p}} – a wooden ladder.
+
+===Pronunciation===
+{{zh-pron
+|m=tī
+|c=tai1
+|h=pfs=thôi
+|mn=thui/the
+|mn_note=thui - vernacular; the - literary
+|mn-t=tui1
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[ladder]]; [[steps]]; [[stairs]]
+# ladder-shaped [[object]]
+# to [[climb]]
+# to [[lean]] against
+
+===Compounds===
+{{zh-der|人梯|去梯言|回旋梯|天梯|太平梯|安全梯|扶梯|抽梯子|拔短梯|搭梯子|摺梯|木拐梯子|梯凳|梯媒|梯子|梯山|梯山航海|梯己|梯形|梯恩梯|梯桄|梯橋|梯次|梯氣|梯河|梯田|梯級|梯航|梯衝|梯隊|樓梯|氣壓梯度|滑梯|滑稽突梯|登梯|登雲梯|盤梯|禍梯|突梯|突梯滑稽|第三梯隊|等腰梯形|緪梯|繩梯|翻梯子|胡梯|航海梯山|舷梯|軟梯|鉤梯|階梯|雲梯|雲梯車|電扶梯|電梯|飛梯|魚梯}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木07}}
+
+# {{defn|lang=ja|sort=木07}}
+
+====Readings====
+{{ja-readings|goon=[[たい]] (tai)|kanon=[[てい]] (tei)|kun=[[はしご]] (hashigo)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|雲梯|うんてい}}
+* {{ja-r|階梯|かいてい}}
+* {{ja-r|魚梯|ぎょてい}}
+* {{ja-r|雲の梯|くも の かけはし}}
+* {{ja-r|舷梯|げんてい}}
+* {{ja-r|古言梯|こげんてい}}
+* {{ja-r|索梯|さくてい}}
+* {{ja-r|桟梯|さんてい}}
+* {{ja-r|梯形|ていけい}}
+* {{ja-r|梯梧|でいご}}, {{ja-r|梯姑|でいご}}: [[Indian coral tree]]
+* {{ja-r|梯尺|ていしゃく}}
+* {{ja-r|梯状|ていじょう}}
+* {{ja-r|梯陣|ていじん}}
+* {{ja-r|梯隊|ていたい}}
+* {{ja-r|梯団|ていだん}}
+* {{ja-r|梯子|はしご}}, {{ja-r|梯子|ていし}}: [[ladder]]
+* {{ja-r|梯立て|はしたて}}
+* {{ja-r|梯の子|はし の こ}}
+* {{ja-r|磐梯山|^ばんだいさん}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=제|eumhun=|rv=je|mr=che|y=cey}}
+
+# {{defn|lang=ko|sort=木07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thê]]|rs=木07}}
+
+# {{defn|lang=vi|sort=木07}}
+
+[[fr:梯]]
+[[ko:梯]]
+[[hu:梯]]
+[[mg:梯]]
+[[ja:梯]]
+[[no:梯]]
+[[pl:梯]]
+[[th:梯]]
+[[zh:梯]]

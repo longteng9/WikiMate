@@ -1,0 +1,162 @@
+{{character info/new}}
+{{also|鲸}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=08|sn=19|four=20396|canj=NFYRF|ids=⿰魚京}}
+
+===References===
+* {{Han ref|kx=1473.120|dkj=46257|dj=2005.090|hdz=74698.060|uh=9BE8|ud=39912|bh=C448|bd=50248}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鲸}}
+===Glyph origin===
+{{Han etym}}
+{{Han compound|魚|京|c1=s|c2=p|t1=fish|ls=psc}}.
+===Pronunciation===
+{{zh-pron
+|m=jīng
+|c=king4
+|h=pfs=kîn
+|md=
+|mn=keng
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[whale]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=魚08}}
+
+====Readings====
+{{ja-readings
+|goon=[[ぎょう]] (gyō) < {{qualifier|historical}} [[ぎやう]] (gyau)
+|kanon=[[けい]] (kei) {{non-joyo-reading}}
+|kanyoon=[[げい]] (gei)
+|kun=[[くじら]] (kujira), [[おくじら]] (okujira), [[いさ]] (isa), [[いさな]] (isana)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|鯨骨|げいこつ}}: [[whale]] [[bone]]
+* {{ja-r|鯨肉|げいにく}}: [[whale]] [[meat]]
+* {{ja-r|鯨油|げいゆ}}: [[whale]] [[oil]]
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|くじら|yomi=k}}
+From {{etyl|ojp|ja|sort=くじら}}. {{IPAchar|/kudira/}} → {{IPAchar|/kud͡ʑira/}}
+
+Ultimate derivation unclear. Theories include an alteration from {{ja-l|口}}{{ja-l|広}} (''kuchibiro'') in reference to the wide mouth; an alteration from {{ja-l|口}}{{ja-l|開く}} (''kuchibiraku'') in reference to the gaping mouth; and an alteration from {{ja-l|黒白}} (''kuroshiro'') in reference to the black-and-white coloration of certain [[cetacean]]s.
+
+====Pronunciation====
+{{ja-pron|yomi=k|くじら|acc=0|acc_ref=NHK,DJR}}
+
+====Noun====
+{{ja-noun|くじら|クジラ|hhira=くぢら}}
+
+# a large marine mammal belonging to order [[w:Cetacea|Cetacea]]: a [[whale]]
+#: {{ux|ja|ref=<ref>{{RQ:Wamyō Ruijushō|8|3}}</ref>|鯨 鯢 唐韻云、大魚、雄曰鯨、渠京反、雌曰鯢、音蜺、'''久知良''' [...]}}
+#: {{ux|ja|ref=<ref>{{RQ:Nippo Jisho|165}}</ref>|'''Cujira'''. (鯨) 鯨.}}
+
+=====Usage notes=====
+{{U:ja:biology|クジラ}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|ゴジラ|caps=1}}: [[Godzilla]]
+* {{ja-r|鯨取り|くじら とり}}: [[whaling]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|いさ}}
+From {{etyl|ojp|ja|sort=いさ}}. Root ''isa'' (“powerful?”) shared with verb {{m|ja|勇む|tr=isamu||to be courageous, to be in high spirits}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|いさ}}
+
+====Noun====
+{{ja-noun|いさ}}
+
+# {{lb|ja|archaic|sort=いさ}} a large marine mammal belonging to order [[w:Cetacea|Cetacea]]: a [[whale]]
+
+=====Derived terms=====
+* {{ja-r|鯨|いさな}}, {{ja-r|勇魚|いさな}}: [[whale]] {{qualifier|see below}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|いさな}}
+From cognate ''isa'' above, suffixed with {{m|ja|魚|tr=-na||fish}}. Sometimes spelled as {{ja-l|勇魚}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|いさな}}
+
+====Alternative forms====
+* {{ja-l|勇魚}}
+
+====Noun====
+{{ja-noun|いさな}}
+
+# {{lb|ja|archaic|sort=いさな}} a large marine mammal belonging to order [[w:Cetacea|Cetacea]]: a [[whale]]
+#* {{RQ:Manyoshu|13|3339}}; [http://etext.virginia.edu/japanese/manyoshu/Man13Yo.html#3339 text here]
+#*: 玉桙之 道尓出立 葦引乃 野行山行 潦 川徃渉 '''鯨名'''取 海路丹出而...
+#*:: 玉桙の 道に出で立ち あしひきの 野行き山行き にはたづみ 川行き渡り '''鯨魚'''取り 海道に出でて...<br/>たまほこの みちにいでたち あしひきの のゆきやまゆき にはたづみ かはゆきわたり '''いさな'''とり うみぢにいでて...
+#*:: ''Tamahoko no / michi ni idetachi / ashi hiki no / no yuki yama yuki / niwatazumi / kawa yuki watari / '''isana''' tori umiji ni idete...''
+#*:: Heading out on the jeweled-spear road, going through the alluring fields and mountains, crossing the puddles and rivers, taking to the '''whal'''ing sea road ...
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|鯨取り|いさな とり}}, {{ja-r|勇魚取り|いさな とり}}: [[whaling]]; an [[epithet]] for the [[sea]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Whales|くじら]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|eumhun=|rv=gyeong|mr=kyŏng|y=kyeng}}
+
+# {{defn|lang=ko|sort=魚08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kình]], [[kềnh]]|rs=魚08}}
+
+# {{defn|lang=vi|sort=魚08}}
+
+[[el:鯨]]
+[[es:鯨]]
+[[fr:鯨]]
+[[ko:鯨]]
+[[la:鯨]]
+[[lt:鯨]]
+[[hu:鯨]]
+[[mg:鯨]]
+[[ja:鯨]]
+[[pl:鯨]]
+[[pt:鯨]]
+[[ro:鯨]]
+[[sv:鯨]]
+[[th:鯨]]
+[[tg:鯨]]
+[[chr:鯨]]
+[[zh:鯨]]

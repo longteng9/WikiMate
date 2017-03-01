@@ -1,0 +1,92 @@
+{{character info/new}}
+{{also|泖}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=05|sn=8|four=44222|canj=TNIH|ids=⿱艹矛}}
+
+# [[reed]]s, [[rush]]es, [[grass]]
+# {{surname|lang=zh}}
+
+====Derived characters====
+* [[𡹰]] [[𧍟]] [[鶜]] [[𧓿]]
+
+====References====
+* {{Han ref|kx=1026.040|dkj=30836|dj=1485.130|hdz=53199.010|uh=8305}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=máo
+|c=maau4
+|h=
+|mn=hm̂/mâu
+|mn_note=hm̂ - vernacular, mâu - literary
+|w=
+|mc=y
+|oc=y
+|ma=
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[茅台酒]]
+
+====References====
+* (''Min Nan'') [http://twblg.dict.edu.tw/holodict_new/index.html Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸05}}
+
+# {{defn|lang=ja|sort=艸05}}
+
+====Readings====
+{{ja-readings|goon=[[みょう]] (myō)|kanon=[[ぼう]] (bō)|kun=[[かや]] (kaya), [[ち]] (chi)}}
+
+====Compounds====
+* {{ja-r|茅蜩|ひぐらし}}, {{ja-r|茅蜩|ぼうちょう}}: [[evening cicada]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=모|eumhun=|rv=mo|mr=mo|y=mo}}
+
+# {{defn|lang=ko|sort=艸05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mao]]|rs=艸05}}
+
+# {{defn|lang=vi|sort=艸05}}
+
+[[zh-min-nan:茅]]
+[[fr:茅]]
+[[ko:茅]]
+[[hu:茅]]
+[[mg:茅]]
+[[ja:茅]]
+[[no:茅]]
+[[pl:茅]]
+[[th:茅]]
+[[zh:茅]]

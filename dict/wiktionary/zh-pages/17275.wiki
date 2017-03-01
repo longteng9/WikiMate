@@ -1,0 +1,132 @@
+{{character info/new}}
+{{also|機}}
+==Translingual==
+{{stroke order}}
+{{ja-forms|机/[[機]]|机/机|机/[[機]]}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|几|c1=s|c2=p|ls=psc}}.
+
+Also {{Han simp|機|f=幾|t=几}}.
+
+===Han character===
+{{Han char|rn=75|rad=木|as=02|sn=6|four=47910|canj=DHN|ids=⿰木几}}
+
+====References====
+* {{Han ref|kx=0510.120|dkj=14435|hdz=21155.040|uh=673A|ud=26426|bh=C9F3|bd=51699}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|機}}
+
+===Etymology 2===
+{{zh-forms}}
+
+{{rfe|zh|Should all the senses here be put under the same etymology?}}
+
+====Pronunciation====
+{{zh-pron
+|m=jī,jǐ,2nb=variant,2a=y
+|c=gei1,gei2
+|c_note=gei2 - variant
+|mc=y
+|oc=y
+|ma=y
+|cat=n,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|几|small table; stool}}
+# {{†}} [[alder]]
+# {{surname|lang=zh}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=wèi
+|mc=
+|oc=
+|ma=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[chopping board]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=木02}}
+
+# [[desk]], [[table]]
+
+====Readings====
+* {{ja-readings|goon=[[き]] (ki)|kanon=[[き]] (ki)|kun=[[つくえ]] (tsukue)}}
+
+====Compounds====
+* {{ja-r|机下|きか}}
+* {{ja-r|机上|きじょう}}
+* {{ja-r|机辺|きへん}}
+* {{ja-r|経机|きょうつくえ}}
+
+===Noun===
+{{ja-noun|つくえ}}
+
+# [[desk]]; [[table]]
+
+[[Category:Japanese basic words|つくえ]]
+[[Category:ja:Furniture|つくえ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[궤]]|eumhun=|rv=gwe|mr=kwe|y=kwey}}
+
+# [[desk]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木02|hanviet=cơ}}
+
+# {{defn|lang=vi|sort=木02}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+[[be:机]]
+[[fr:机]]
+[[ko:机]]
+[[sw:机]]
+[[ky:机]]
+[[lo:机]]
+[[lt:机]]
+[[hu:机]]
+[[mg:机]]
+[[fj:机]]
+[[ja:机]]
+[[no:机]]
+[[pl:机]]
+[[pt:机]]
+[[ru:机]]
+[[sv:机]]
+[[tl:机]]
+[[th:机]]
+[[chr:机]]
+[[uk:机]]
+[[vi:机]]
+[[zh:机]]

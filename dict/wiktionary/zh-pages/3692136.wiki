@@ -1,0 +1,59 @@
+{{also|记述}}
+==Chinese==
+{{zh-forms|s=记述}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìshù
+|c=gei3 seot6
+|mn=kì-su̍t
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[describe]], to write an account of events
+
+===Noun===
+{{zh-noun}}
+
+# [[description]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|き|じゅつ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|きじゅつ|y=o|dev=4}}
+
+===Noun===
+{{ja-noun|きじゅつ}}
+
+# [[description]]
+
+===Verb===
+{{ja-verb-suru|きじゅつ}}
+
+# to [[describe]]
+
+====Conjugation====
+{{ja-suru|きじゅつ}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=기술}}
+
+# {{hanja form of|기술|[[description]]}}
+
+[[ko:記述]]
+[[hu:記述]]
+[[mg:記述]]
+[[ja:記述]]
+[[chr:記述]]
+[[zh:記述]]

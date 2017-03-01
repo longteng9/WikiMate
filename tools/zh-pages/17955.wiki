@@ -1,0 +1,61 @@
+{{character info/new}}
+{{also|桤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=10|sn=14|four=42918|canj=DUMT|ids=⿰木豈}}
+
+====References====
+* {{Han ref|kx=0545.150|dkj=15298|dj=0933.060|hdz=21264.040|uh=69BF|ud=27071|bh=E24E|bd=57934}}
+
+----
+
+==Chinese==
+{{zh-forms|s=桤}}
+
+===Pronunciation===
+{{zh-pron
+|m=qī
+|c=kei1,hei1
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[alder]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木10}}
+
+# {{defn|lang=ja|sort=木10}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki), [[かい]] (kai), [[がい]] (gai)|kun=[[はんのき]] (hannoki)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木10| hanviet = khi}}
+
+# {{defn|lang=vi|sort=木10}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=69bf Nom Foundation]
+
+[[fr:榿]]
+[[hu:榿]]
+[[ja:榿]]
+[[pl:榿]]
+[[th:榿]]
+[[vi:榿]]
+[[zh:榿]]

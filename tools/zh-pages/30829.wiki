@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=14}}
+
+===Han character===
+{{Han char|rn=173|rad=雨|as=06|sn=14|four=10227|canj=MBMBL|ids=⿱⻗而}}
+
+====References====
+* {{Han ref|kx=1373.240|dkj=42275|dj=1883.020|hdz=64062.020|uh=9700|ud=38656|bh=BBDD|bd=48093}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|雨|而|ls=psc|c1=s|c2=p|t1=rain}} – to wait till the rain is over.
+
+===Pronunciation===
+{{zh-pron
+|m=xū
+|c=seoi1
+|h=pfs=sî
+|md=sṳ̆
+|mn=qz,tw,xm:su/zz:si
+|w=1xy
+|mc=y
+|oc=y
+|cat=v,n,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[await]]
+# to [[need]]; to [[require]]
+# [[necessaries]]; [[necessities]]
+# [[should]]; [[ought to]]; [[must]]
+# [[fifth]] [[hexagram]] of the [[I Ching]]
+
+===Compounds===
+{{zh-der|需求|需要|供需失調|不需要|不時之需|急需|供需|供需失衡|必需品|亟需|契需|必需|科需|軍需|需款孔急|需用|需索|需才孔亟}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=雨06}}
+
+# {{defn|lang=ja|sort=雨06}}
+
+====Readings====
+* {{ja-readings|goon=[[す]] (su)|kanon=[[しゅ]] (shu)|kanyoon=[[じゅ]] (ju)|kun=[[ぬれる]] (nureru), [[まつ]] (matsu), [[もとめる]] (motomeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=雨06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhu]]|rs=雨06}}
+
+# {{defn|lang=vi|sort=雨06}}
+
+[[fr:需]]
+[[ko:需]]
+[[hu:需]]
+[[mg:需]]
+[[ja:需]]
+[[no:需]]
+[[pl:需]]
+[[th:需]]
+[[uk:需]]
+[[zh:需]]

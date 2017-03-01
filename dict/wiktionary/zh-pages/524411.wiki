@@ -1,0 +1,58 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chūlì
+|c=ceot1 lik6
+|h=pfs=chhut-li̍t
+|mn=chhut-la̍t
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[exert]] oneself; to make an [[effort]]; to put one's [[energy]] into
+
+===Noun===
+{{zh-noun}}
+
+# [[output power]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅつ|りょく|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|しゅつりょく|y=o|acc=2|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|しゅつりょく}}
+# [[generating]] [[power]], [[output]]
+#* {{ja-usex|一平方メートルの太陽光発電パネルの'''出力'''は約一ワットである|いちへいほう メートル の たいようこう はつでん パネル の '''しゅつりょく''' は やく いち ワット である|The '''output power''' of a one square meter solar panel is about one watt}}
+# output of information or data
+
+====Antonyms====
+* {{ja-r|入力|にゅうりょく}}
+
+===Verb===
+{{ja-verb-suru|しゅつりょく}}
+
+# [[put out]], [[generate]]
+# [[read out]]
+# [[output]] (of data, etc)
+
+====Conjugation====
+{{ja-suru|しゅつりょく}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[zh-min-nan:出力]]
+[[ko:出力]]
+[[hu:出力]]
+[[uk:出力]]
+[[zh:出力]]

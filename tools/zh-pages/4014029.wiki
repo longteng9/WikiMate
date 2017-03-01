@@ -1,0 +1,35 @@
+{{also|解离}}
+==Chinese==
+{{zh-forms|s=解离}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiělí
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|chemistry|physics|or|psychology}} to [[dissociate]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|り|yomi=on}}
+
+===Noun===
+{{ja-noun|かいり}}
+
+# [[dissociation]] (in psychology or physics)
+
+===Verb===
+{{ja-verb-suru|かいり}}
+
+# [[dissociate]]
+
+====Conjugation====
+{{ja-suru|かいり}}
+
+[[hu:解離]]
+[[zh:解離]]

@@ -1,0 +1,38 @@
+==Japanese==
+{{ja-kanjitab|家|内}}
+
+===Etymology===
+Literally ‘inside the house’ from the Sino-Japanese (on'yomi) readings of
+{{m|ja|家||house|tr=か, ka|sc=Jpan}}
++ {{m|ja|内||inside|tr=ない, nai|sc=Jpan}}.
+
+===Noun===
+{{ja-noun|かない}}
+
+# {{lb|ja|humble|sort=かない}} (one's own) [[wife]]
+
+====Synonyms====
+* {{sense|one’s own wife}} {{qualifier|more gender-neutral}} {{ja-r|妻|つま}}
+* {{sense|another’s wife}} {{ja-r|奥さん|おくさん}}
+
+===Usage notes===
+* This word should only be used in reference to the speaker’s own wife, whereas {{lang|ja|奥さん}} (okusan) is a polite term used to refer to someone else’s wife.
+
+{{lang|ja|妻}} (tsuma) is a more general term for a wife, and can also mean spouse.
+
+{{lang|ja|家内}} is offensive to some, literally meaning “in the house”, thus carrying connotations of traditional gender roles; in this case, {{lang|ja|妻}} is preferred.
+
+[[Category:ja:Family|かない]]
+
+[[cs:家内]]
+[[fr:家内]]
+[[sw:家内]]
+[[lt:家内]]
+[[li:家内]]
+[[hu:家内]]
+[[mg:家内]]
+[[pl:家内]]
+[[pt:家内]]
+[[ro:家内]]
+[[chr:家内]]
+[[zh:家内]]

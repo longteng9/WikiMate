@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=14|sn=17|four=71404|canj=MKV|ids=⿸厭女}}
+
+====References====
+* {{Han ref|kx=0273.010|dkj=06825|dj=0541.070|hdz=21086.060|uh=5B2E|ud=23342|bh=ECD6|bd=60630}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|厭|女|c1=p|c2=s|t2=female|ls=psc}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=yān
+|c=jim1
+|mc=1
+|oc=n,1
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[fine]]; [[good]]
+# [[calm]]; [[tranquil]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=yàn
+|c=jim3
+|mc=2
+|oc=n,2
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|嬮嬱|[[beauty]]}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女14}}
+
+# {{defn|lang=ja|sort=女14}}
+
+====Readings====
+* {{ja-readings|on=[[えん]] (en), [[えふ]] (efu)|kun=[[みめよい]] (mimeyoi)}}
+
+[[fr:嬮]]
+[[hu:嬮]]
+[[pl:嬮]]
+[[th:嬮]]
+[[zh:嬮]]

@@ -1,0 +1,219 @@
+{{character info/new}}
+{{also|间|閒|閑}}<!-- may be replaced by zh-forms -->
+==Translingual==
+{{stroke order|type=bw|strokes=12}}
+
+===Han character===
+{{Han char|rn=169|rad=門|as=04|sn=12|four=77607|canj=ANA|ids=⿵門日}}
+
+====References====
+* {{Han ref|kx=1333.010|dkj=41249|dj=1839.010|hdz=74288.060|uh=9593|ud=38291|bh=B6A1|bd=46753}}
+
+----
+
+==Chinese==
+{{zh-forms|s=间|alt=閒*}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|門|日|ls=ic|t1=door|t2=sun}}. Originally {{och-l|閒}}, moonlight peeking through a door, thus “between”.
+
+===Pronunciation 1===
+{{zh-pron
+|m=jiān
+|c=gaan1
+|h=pfs=kiên
+|md=găng
+|mn=keng/kan
+|mn_note=keng - vernacular; kan - literary
+|w=1ke,1ji
+|w_note=1ke - vernacular; 1ji - literary
+|mc=1
+|oc=1,1
+|ma=y
+|cat=n,post,cls
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[room]]
+#* {{zh-x|房間|room}}
+#* {{zh-x|衛生間|bathroom, toilet}}
+#* {{zh-x|衣帽間|cloakroom}}
+#* {{zh-x|雙人間|double room}}
+# {{n-g|within a definite time period or place}}
+#* {{zh-x|時間|time, period}}
+#* {{zh-x|晚間|evening, night}}
+#* {{zh-x|世間|world, earth}}
+#* {{zh-x|空間|space}}
+# [[section]] of a [[room]]; lateral space between two [[pairs]] of [[pillar]]s
+# {{senseid|zh|among}} [[among]]; [[between]]
+#* {{zh-x|小 鳥 們 在 樹枝 間 唱 歌。|The birds were singing '''among''' the branches of the tree.}}
+#* {{zh-x|兩 個 公司 間 的 談判 非常 成功。|The negotiations '''between''' the two companies were successful.}}
+#* {{zh-x|兩 點 間 直線 最 短。|The shortest distance '''between''' two points is a straight line.}}
+# {{zh-classifier|smallest [[unit]]s of [[housing]], such as [[room]]s and [[shopfront]]s}}
+# {{lb|zh|Cantonese}} {{zh-classifier|[[building]]s in general, including [[school]]s, [[bank]]s, [[cinema]]s, [[hospital]]s, [[shop]]s, [[factories]]}}
+
+====Compounds====
+{{zh-der|中間派|北京時間|一時之間|一念之間|其間|不時間|塵間|年間|天地世間|夜間部|單間|中間地帶|中間|不間不界|尖峰時間|席間函丈|墦間|凡間|中間商|伯仲之間|中間宿主|初間|一時間|五陰世間|季孟之間|亭子間|廁身其間|區間車|夜間|往常間|套間|外間|廣廈萬間|三維空間|中間砧木|字裡行間|一瞬間|工間操|世間|俯仰之間|居間|三度空間|家間|中間產品|坐間|中間人|坊間|天上人間|十畝之間|大菜間|夏令時間|器世間|堂間處燕|墦間酒肉|午間|不間不架|四度空間|彈指之間|停屍間|冷藏間|區間|太平間|不在人間|天地間|空間|民間藝術|環球時間|猛然間|空間曲線|生存空間|瞬間|民間工藝|時間醫學|時間性|漏刻之間|晨間|民間信仰|桑間之音|標準時間|此間|梢間|時間電價|期間|民間合會|空間圖形|相對時間|桑間濮上|窗間過馬|空間藝術|空間時代|空間感|空間分析|種間雜交|游戲人間|視覺空間|瞬息之間|瞬間目標|生活空間|空間美|濠濮間想|時間藝術|眉間尺|眉間赤|有情世間|白日間|明間|民間|甕間吏部|淺間山|方寸之間|滿世間|無意間|濮上桑間|矢石之間|時間|時間表|洗手間|民間團體|民間歌舞|民間文學|每常間|空間主義|暗間兒|晚間|房間|翻手之間|黃金時間|絕對時間|老年間|跳間|草間求活|立談之間|適間|籬壁間物|間量|終食之間|虛擬空間|間奏曲|開房間|驀忽間|花間集|胞間層|隔間|網頁空間|巡指間|舍間|間腦|轉眼之間|陽間|陰間|間架|間奏|開間|鄉間小路|開放空間|錄音間|行間|酒吧間|鄭衛桑間|鄉間|遊戲人間|間關|這其間|陡然間|衣帽間|裡間|胞間連絲|肋間肌|趕時間}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=jiàn
+|c=gaan3
+|h=pfs=kam
+|md=gáng
+|mn=kàn
+|w=2ji
+|mc=2
+|oc=2,2
+|cat=n,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[opening]]; [[gap]]; [[break]]
+# to [[separate]]; to [[partition]]
+# to [[alternate]]
+
+====Compounds====
+{{zh-der|內間|乘間投隙|得間|乘間|乖間|反間諜|反間細作|少間|反間|合作無間|半間不界|一間|反間計|為間|相間|無間|挑撥離間|有間|疏不間親|當間|熟間|物我無間|病間|未達一間|間入|間接經驗|間接選舉|間裂|間歇湖|間深裡|間行|間雜|間歇噴泉|間接|間接照明|遠不間親|間歇泉|間接灸|間日|間阻|間有|間壁|間闊|間接民權|間斷不繼|間諜船|親密無間|間別|間色|間出|讒間|離間|隱間|間接證據|陰陽間隔|間道|間隙|間隔號|間隔|間諜戰|間歇|間斷|間接貿易|間接稅|間接推論|間接成本|間或|間不容髮|間不容息|間歇熱|間作|間接推理|間胺黃|間接正犯|間諜|間條掃描|間捕|間歲}}
+
+----
+
+==Japanese==
+[[File:Japanese ryakuji KAN.png|thumb|right|100px|{{w|Ryakuji}} for 間, based on ryakuji for [[門#Japanese|門]]; compare also [[開#Japanese|開]].]]
+
+===Kanji===
+{{ja-kanji|grade=2|rs=門04}}
+
+====Readings====
+{{ja-readings|goon=[[けん]] (ken)|kanon=[[かん]] (kan)|kun=[[あいだ]] (aida), [[ま]] (ma), [[あい]] (ai)|nanori=[[ちか]] (chika)}}
+
+====Compounds====
+* {{ja-r|間性|かんせい}}: [[intersex]]
+* {{ja-r|人間|にんげん}}
+* {{ja-r|時間|じかん}}
+
+====References====
+{{ja-kref
+|ku=2054
+|shift=8ad4
+|jis=3456
+|euc=B4D6
+|freq=33
+|nelson=4949
+|newnelson=6391
+|halpern=3323
+|kld=2094
+|heisig=1620
+|tuttle=8e4.3
+}}
+
+===Etymology 1===
+{{ja-kanjitab|あいだ|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|あいだ|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|あいだ|hhira=あひだ}}
+
+# a space
+# a while; an [[interval]]
+# between
+# during
+
+=====Derived terms=====
+* {{ja-r|この間|この あいだ}}
+* {{ja-r|間中|あいだじゅう}}
+
+===Etymology 2===
+{{ja-kanjitab|ま|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|ま|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|ま}}
+
+# [[space]]; [[room]]
+
+=====Derived terms=====
+* {{ja-r|床の間|とこ の ま}}
+* {{ja-r|茶の間|ちゃ の ま}}
+* {{ja-r|束の間|つかの ま}}
+* {{ja-r|間に合う|ま に あう}}
+
+=====Synonyms=====
+* {{ja-r|中|なか}}
+
+===Etymology 3===
+{{ja-kanjitab|あい|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|あい|acc=1|acc_ref=DJR,NHK|acc2=0|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|あい|hhira=あひ}}
+
+# [[interval]]
+
+===Etymology 4===
+{{ja-kanjitab|かん|yomi=o}}
+From {{etyl|ltc|ja|sort=かん}} {{m|zh|間|tr=kɛn||interval}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|かん|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|かん}}
+
+# [[interval]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=간|rv=gan|mr=kan|y=kan|eumhun=사이|ehrv=sai|ehmr=sai}}
+
+# {{defn|lang=ko|sort=門04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[gian]], [[dán]], [[gián]]|rs=門04}}
+
+# {{defn|lang=vi|sort=門04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=9593&img=1 Nom Foundation]
+
+[[zh-min-nan:間]]
+[[fr:間]]
+[[ko:間]]
+[[it:間]]
+[[lo:間]]
+[[lt:間]]
+[[li:間]]
+[[hu:間]]
+[[mg:間]]
+[[fj:間]]
+[[ja:間]]
+[[uz:間]]
+[[km:間]]
+[[pl:間]]
+[[ru:間]]
+[[fi:間]]
+[[th:間]]
+[[chr:間]]
+[[uk:間]]
+[[zh:間]]

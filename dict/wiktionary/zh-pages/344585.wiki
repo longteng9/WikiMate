@@ -1,0 +1,87 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zìjǐ
+|c=zi6 gei2,zi6 gei2-1
+|c-t=du5 gei2
+|h=pfs=chhṳ-kí
+|mn=xm,zz,tw:chū-kí/qz:chīr-kí
+|ma=y
+|w=3zr ji
+|cat=n,adv
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[self]]; [[oneself]]
+#: {{zh-x|他 到 自己 的 地方 來，自己 的 人 倒{dào} 不 接待 他。|He came unto his '''own''', and his '''own''' received him not.|ref={{w2|zh|和合本|新標點和合本}} ([[w:Chinese Union Version|Chinese Union Version with New Punctuation]]), {{lang|zh|約翰福音}} (John) 1:11}}
+
+====Synonyms====
+{{zh-dial}}
+* {{zh-l|自我}}
+
+====Derived terms====
+{{zh-der|自己人|打自己嘴巴|搬起石頭砸自己的腳|吃著自己的飯，替人家趕獐子|回家吃自己|威福自己|搬石頭砸自己的腳|撒泡尿自己照照|燈臺不照自己|與人方便，自己方便|金窩銀窩不如自己的狗窩|長他人志氣，滅自己威風}}
+
+===Adverb===
+{{zh-adv}}
+
+# by oneself
+#: {{zh-x|自己 拿 吧！|Help '''yourself'''!}}
+
+===Descendants===
+{{CJKV||じこ|자기|tự kỷ}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じ|こ|yomi=on}}
+
+===Noun===
+{{ja-noun|じこ}}
+
+# [[self]]; [[oneself]]
+
+====Synonyms====
+* {{ja-r|自分|じぶん}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab|自|己}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=자기}}
+
+# {{hanja form of|자기|[[oneself]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|tự kỷ|}}
+
+[[zh-min-nan:自己]]
+[[fr:自己]]
+[[ko:自己]]
+[[li:自己]]
+[[hu:自己]]
+[[mg:自己]]
+[[ja:自己]]
+[[ta:自己]]
+[[chr:自己]]
+[[uk:自己]]
+[[vi:自己]]
+[[zh:自己]]

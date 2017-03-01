@@ -1,0 +1,97 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=rénxíng
+|c=jan4 jing4
+|h=pfs=ngìn-hìn
+|mn=lâng-hêng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[human]] [[shape]] or [[appearance]]
+# [[doll]]; [[puppet]]
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Doll}}
+[[File:Hinamatsuri16.jpg|thumb|250px|{{lang|ja|人形}} (''ningyō'', ''hitogata''): a '''[[doll]]''' for [[Hina matsuri]].]]
+</div>
+
+===Etymology 1===
+{{ja-kanjitab|yomi=on|にん|ぎょう}}
+From {{etyl|ltc|ja|sort=にんぎょう}} compound {{m|zh|人形|tr=nyin heng|lit=person shape}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|にんぎょう|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|にんぎょう|hhira=にんぎやう}}
+
+# [[doll]], [[puppet]]
+# a [[picture]] of someone's [[appearance]]
+# a [[figurative]] [[puppet]], such as someone who [[carry out|carries out]] actions for someone else
+# {{qualifier|less common}} a [[tailor]]'s [[dummy]], a [[mannequin]]
+
+=====Usage notes=====
+For the general sense of {{m|en|doll}}, the ''ningyō'' reading appears to be more common.
+
+=====Derived terms=====
+* {{ja-r|人形家|にんぎょうか}}: a [[dollmaker]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=kun|ひと|かた|k2=がた}}
+Compound of {{compound|lang=ja|sort=ひとがた|人|tr1=hito|t1=person|形|tr2=kata|t2=shape, form}}. {{rendaku2|sort=ひとがた|kata|gata}}
+
+====Pronunciation====
+{{ja-pron|yomi=kun|ひとがた|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|人像}} {{qualifier|less common}}
+
+====Noun====
+{{ja-noun|ひとがた}}
+
+# a [[human]] [[shape]]
+# a [[doll]]
+# a [[tailor]]'s [[dummy]], a [[mannequin]]
+# a [[proxy]], a [[representative]]
+# a person's [[appearance]]
+# a [[description]] or [[sketch]] of a person, as in a [[wanted]] poster created by the [[police]]
+
+===References===
+<references/>
+* {{R:Kokugo Dai Jiten}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=인형}}
+
+# {{hanja form of|인형|[[doll]], [[puppet]]}}
+
+[[el:人形]]
+[[fr:人形]]
+[[ko:人形]]
+[[kn:人形]]
+[[lo:人形]]
+[[lt:人形]]
+[[li:人形]]
+[[hu:人形]]
+[[mg:人形]]
+[[ja:人形]]
+[[uz:人形]]
+[[sv:人形]]
+[[chr:人形]]
+[[uk:人形]]
+[[zh:人形]]

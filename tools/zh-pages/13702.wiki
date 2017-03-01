@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=06|sn=9|four=41416|canj=VMAM|ids=⿰女亘}}
+
+# [[lady]]
+
+====References====
+* {{Han ref|kx=0260.260|dkj=06232|dj=0527.020|hdz=21043.030|uh=59EE|ud=23022|bh=CE64|bd=52836}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=héng
+|c=hang4
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|姮娥}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女06}}
+
+# {{defn|lang=ja|sort=女06}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[ごう]] (gō), [[じょう]] (jō)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=항|rv=hang|mr=hang}}
+
+# {{defn|lang=ko|sort=女06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hằng]]|rs=女06}}
+
+# {{defn|lang=vi|sort=女06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=59ee Nom Foundation]
+
+[[fr:姮]]
+[[li:姮]]
+[[hu:姮]]
+[[pl:姮]]
+[[th:姮]]
+[[zh:姮]]

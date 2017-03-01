@@ -1,0 +1,91 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǒudìng
+|c=fau2 ding6
+|mn=hóⁿ-tēng/hó͘-tēng
+|ma=Zh-foudìng.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[negate]]; to [[deny]]
+
+===Derived terms===
+{{zh-der|否定詞}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひ|てい|yomi=on}}
+
+===Noun===
+{{ja-noun|ひてい}}
+
+# [[denial]], [[negation]]
+
+===Verb===
+{{ja-verb-suru|ひてい}}
+
+# to [[deny]], [[negate]]
+#* {{RQ:Obama enzetsu}}
+#*: {{ja-usex|彼らの声は、変革を'''否定'''することはできないということを教えてくれる。|かれら の こえ は、 へんかく を '''ひてい''' する こと は できない と いう こと を おしえて くれる。|And their voices tell us that change cannot be denied.}}
+
+====Conjugation====
+{{ja-suru|ひてい}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=부정}}
+
+# {{hanja form of|부정|negation}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Verb===
+{{vi-hantu}}
+
+# {{han tu form of|phủ định|to [[deny]]}}
+
+[[ar:否定]]
+[[zh-min-nan:否定]]
+[[bg:否定]]
+[[cs:否定]]
+[[da:否定]]
+[[et:否定]]
+[[el:否定]]
+[[eo:否定]]
+[[fr:否定]]
+[[ko:否定]]
+[[hi:否定]]
+[[io:否定]]
+[[is:否定]]
+[[it:否定]]
+[[ku:否定]]
+[[hu:否定]]
+[[mg:否定]]
+[[nl:否定]]
+[[ja:否定]]
+[[no:否定]]
+[[pl:否定]]
+[[pt:否定]]
+[[ro:否定]]
+[[ru:否定]]
+[[fi:否定]]
+[[chr:否定]]
+[[tr:否定]]
+[[vi:否定]]
+[[zh:否定]]

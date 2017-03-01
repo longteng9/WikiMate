@@ -1,0 +1,31 @@
+==Japanese==
+{{ja-kanjitab|にが|て|yomi=k}}
+
+===Pronunciation===
+* {{ja-pron|にがて|y=k|acc=0|acc_ref=NHK}}
+
+===Adjectival noun===
+{{ja-adj|にがて|decl=na}}
+
+# [[bad]] (at), [[poor]] (at), [[weak]] (at), uncomfortable with
+# hard to get along with (of a person)
+
+====Inflection====
+{{ja-na|苦手|にがて|nigate}}
+
+===Noun===
+{{ja-noun|にがて}}
+
+# [[weak]] point
+
+====Synonyms====
+* {{l|ja|不得意}}
+* {{l|ja|下手}}
+
+===References===
+<references/>
+
+[[lt:苦手]]
+[[hu:苦手]]
+[[mg:苦手]]
+[[zh:苦手]]

@@ -1,0 +1,88 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=08|sn=10|four=29227|canj=OFBR|ids=⿰亻尚 <small>(GTV)</small>,⿰亻尙 <small>(JK)</small>}}
+
+====References====
+* {{Han ref|kx=0108.030|dkj=00774|dj=0229.140|hdz=10177.010|uh=5018|ud=20504|bh=ADD5|bd=44501}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=tǎng
+|c=tong2
+|h=pfs=
+|md=
+|mn=qz,xm,zz:thóng
+|w=
+|mc=y
+|oc=y
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[if]]; [[supposing]]; [[in case]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=cháng
+|c=soeng4
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only used in|倘佯}}
+
+===References===
+* {{R:cedict}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人08}}
+
+# {{defn|lang=ja|sort=人08}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō), [[とう]] (tō)|kun=[[もし]] (moshi), [[たちもとほる]] (tachimotohoru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=당|rv=dang|mr=tang}}
+
+# {{defn|lang=ko|sort=人08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thảng]], [[thẳng]], [[người]], [[thoáng]], [[thoảng]], [[thằng]], [[thoang]], [[thoắng]]|rs=人08}}
+
+# {{defn|lang=vi|sort=人08}}
+
+[[fr:倘]]
+[[ko:倘]]
+[[li:倘]]
+[[hu:倘]]
+[[mg:倘]]
+[[ja:倘]]
+[[no:倘]]
+[[pl:倘]]
+[[th:倘]]
+[[zh:倘]]

@@ -1,0 +1,55 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=09|sn=19|four=76381|canj=SFAMO}}
+
+# [[horse]]
+
+====References====
+* {{Han ref|kx=1441.350|dkj=44863|dj=1966.010|hdz=74565.040|uh=9A20|ud=39456|bh=F3BB|bd=62395}}
+
+----
+
+==Chinese==
+{{zh-forms|s=𫘨}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tí
+|c=tai4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬09}}
+
+# {{defn|lang=ja|sort=馬09}}
+
+====Readings====
+* {{ja-readings|kanon=[[てい]] (tei)|goon=[[だい]] (dai)}}
+
+[[fr:騠]]
+[[hu:騠]]
+[[mg:騠]]
+[[pl:騠]]
+[[th:騠]]
+[[zh:騠]]

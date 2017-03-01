@@ -1,0 +1,56 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=05|sn=11|four=88621|canj=HMNR|ids=⿱[[竹|⺮]][[可]]}}
+
+# {{lb|zh|military|archaic}} (conjecture) ''gě'' &mdash; an Nanzhao era southwest Chinese polearm, potentially phonosemantically derived from [[戈]] (an ancient term for a halberd)
+{{zh-x|朱笴，出 麗水，裝 以 金 穹 鐵 簜，所 指 無 不 洞 也。|The 'pearl '''polearm'''' is a product of Lí​shuǐ​, and is decorated with a golden [[fuller]] and an iron guard, and they are always hollow.|CL|ref={{RQ:Manshu|7|Weaponry|21}}}}
+
+====References====
+* {{Han ref|kx=0881.120|dkj=25951|dj=1310.010|hdz=52953.130|uh=7B34|ud=31540|bh=D6CD|bd=54989}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gě,gǎn
+|c=gon2,go2,gou2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-obsolete}} [[arrow]] [[shaft]]
+# {{zh-obsolete}} [[arrow]]
+
+===References===
+* {{R:twedu|B03177}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹05}}
+
+# {{defn|lang=ja|sort=竹05}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka), [[こう]] (kō), [[かん]] (kan)|kun=[[やがら]] (yagara)|nanori=}}
+
+[[fr:笴]]
+[[hu:笴]]
+[[pl:笴]]
+[[th:笴]]
+[[zh:笴]]

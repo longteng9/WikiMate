@@ -1,0 +1,208 @@
+{{character info/new}}
+{{also|脑|胷}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=06|sn=10|four=77220|canj=BPUK|ids=⿰月匈}}
+
+====References====
+* {{Han ref|kx=0981.050|dkj=29442|dj=1432.320|hdz=32070.010|uh=80F8|ud=33016|bh=AFDD|bd=45021}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiōng
+|ma=Zh-xiong.ogg
+|c=hung1
+|h=pfs=hiûng
+|mn=qz,tw,xm,zz:hiong/qz,tw,xm,zz:heng
+|mn_note=hiong - literary; heng - vernacular
+|w=1xion
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[chest]]; [[thorax]]
+# [[breast]]; [[bosom]]
+# {{lb|zh|figurative}} [[mind]]; [[heart of hearts]]; [[thought]]
+
+===Compounds===
+{{zh-der|胸部|胸腹|胸膈|胸骨|胸花|胸懷|胸襟|胸坎|胸口|胸廓|胸膜|胸膜炎|胸脯|胸前|胸腔|胸膛|胸圍|胸無城府|胸無點墨|胸無宿物|胸像|胸臆|胸有成竹|胸章|胸罩|胸針|胸中無數|胸中有數|胸椎|人工氣胸|低胸|健胸|兜胸|劈胸|大胸肌|小胸肌|心胸|心胸狹窄|怒氣填胸|成竹在胸|打胸廝撞|批胸|抬頭挺胸|抹胸|拍胸脯|挺胸|挺胸凸肚|挺胸疊肚|挺起胸膛|捶胸|捶胸跌腳|捶胸跌足|捶胸頓腳|捶胸頓足|搔耳捶胸|摧胸破肝|擴胸器|攀胸|昂首挺胸|束胸|氣夯胸脯|氣滿填胸|氣胸|穿胸|粉頸酥胸|義憤填胸|胸中柴棘|胸中甲兵|胸宇|胸廝撞|胸有丘壑|胸有定見|胸有甲兵|胸次|胸無大志|胸甲|胸管|胸肌|胸脊|胸腺|胸衣|胸部停球|胸鰭|膿胸|袒胸|袒胸露背|護胸|跌腳搥胸|酥胸|鋪胸納地|雞胸|靠胸貼肉|頓足捶胸|鬼行胸臆}}
+
+{{zh-cat|Anatomy|Elementary}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=肉06}}
+
+====Readings====
+{{ja-readings
+|goon=[[く]] (ku)
+|kanon=[[きょう]] (kyō)
+|kun=[[むね]] (mune), [[むな]] (muna)
+|nanori=
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|胸囲|きょうい}}: chest [[girth]]
+* {{ja-r|胸像|きょうぞう}}: bust {{qualifier|sculpture}}
+* {{ja-r|豊胸|ほうきょう}}: an [[ample]] [[bosom]], large [[breasts]]
+* {{ja-r|胸中|きょうちゅう}}: one's thoughts, one's mind
+* {{ja-r|胸騒ぎ|むなさわぎ}}: noisy thoughts: a bad feeling about something, [[uneasiness]], [[foreboding]]
+* {{ja-r|胸元|むなもと}}: neckline
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|むな}}
+From {{etyl|ojp|ja|sort=むな}}. Possibly the original form of ''mune'' below.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Cognate with {{m|ja|棟|tr=muna||main roofline, roof ridge}}, from the underlying idea of ''central or main portion''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Possibly also cognate with {{m|ja|空}}, {{m|ja|虚|tr=muna||emptiness, void}}, from the idea of ''cavity''.
+
+Seldom used in isolation even in {{etyl|ojp|-}}. Only found as the first element of compounds in modern Japanese.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|むな}}
+
+====Noun====
+{{ja-noun|むな}}
+
+# [[chest]], [[breast]]
+#* {{RQ:Kojiki|''Kamitsumaki'' (“First Volume”)}}
+#*: {{lang|ja|奴婆多麻能　久路岐美祁斯遠 / 麻都夫佐尓　登理與曾比 / 淤岐都登理　'''牟那'''美流登岐 / 波多多藝母　許禮婆布佐波受 / 幣都那美　　曾迩奴岐宇弖}}
+#*:: {{lang|ja|ぬばたまの　くろきみけしを / まつぶさに とりよそひ / おきつとり '''むな'''みるとき / はたたぎも これはふさはず / へつなみ そにだきうて}}
+#*:: ''nubatama no kuroki mikeshi o / matsubusa ni toriyosohi / oki tsu tori '''muna''' miru toki / hatatagi mo kore wa fusawazu / he tsu nami so ni dakiute''
+#*::: I put on black iris-seed garments with schisandra, and though I fluff up my garments like when the ocean birds look at their '''chests''', I say this is not good and I cast them off into the sea's waves...
+# [[heart]], [[inner]] [[thought]]s
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|胸当て|むな.あて}}: a [[bib]]: a [[cloth]] covering the [[chest]] to protect from dirt or food
+* {{ja-r|胸当て錐|むな.あてぎり}}: a [[breast]] [[drill]], [[gimlet]], or [[awl]], with a flat end for pushing with the [[chest]]
+* {{ja-r|胸板|むないた}}: “chest board” → the flat area of the chest; a part of the [[breastplate]] in traditional Japanese [[armor]]
+* {{ja-r|胸繋|むながい}}, {{ja-r|鞅|むながい}}: part of [[riding]] [[tack]], a [[cord]] or [[strap]] running around the [[chest]] and through the {{m|ja|四緒手|tr=shiode||tie-downs}} on the front of the saddle
+* {{ja-r|鞅|むなかき}}: older form of ''munagai'' above
+* {{ja-r|胸金物|むな かなもの}}: [[metal]] [[fitting]]s on the {{m|ja|胸板|tr=munaita||breastplate}}
+* {{ja-r|胸勘定|むな かんじょう}}: [[thinking]] in one's [[head]] to [[figure out|figure something out]] before doing it
+* {{ja-r|胸糞|むな くそ}}: “chest shit” → a [[bad]] [[feeling]], a strong [[dislike]]
+* {{ja-r|胸倉|むなぐら}}, {{ja-r|胸座|むなぐら}}: the area where the [[collar]] of a [[kimono]] or other [[robe]] [[overlap]]s in front
+* {{ja-r|胸苦しい|むなぐるし.い}}: a feeling of [[uncomfortable]] [[pressure]] in the chest, as when [[anxious]] or [[distressed]]
+* {{ja-r|胸黒|むなぐろ}}: “black breast” → ''[[Pluvialis fulva]]'', the {{vern|Pacific golden plover}}
+* {{ja-r|胸気|むなけ}}: [[unpleasant]] and [[upsetting]]
+* {{ja-r|胸毛|むなげ}}: [[chest hair]]
+* {{ja-r|胸先|むな さき}}: the [[solar plexus]], the area just below the [[sternum]]
+* {{ja-r|胸騒ぎ|むな さわぎ}}: “chest noise” → [[uneasiness]], [[foreboding]]
+* {{ja-r|胸算|むなざん}}: [[thinking]] in one's [[head]] to [[figure out|figure something out]] before doing it
+* {{ja-r|胸算用|むなざんよう}}: [[thinking]] in one's [[head]] to [[figure out|figure something out]] before doing it
+* {{ja-r|胸簾|むな すだれ}}: “chest screen” → the [[rib]]s
+* {{ja-r|胸底|むな そこ}}: the [[bottom]] of one's [[heart]], one's [[innermost]] [[thought]]s
+* {{ja-r|胸高|むなだか}}: [[tying]] one's {{m|ja|帯|tr=obi||sash}} high on one's chest instead of at the waist
+* {{ja-r|胸乳|むなち}}: [[breast]], [[boob]]
+* {{ja-r|胸突き|むなつき}}: a [[steep]] [[slope]], as on a [[hill]] or [[mountain]]
+* {{ja-r|胸突き八丁|むなつき はっちょう}}: a very [[steep]] [[street]] or [[path]]; the last hard [[push]] before reaching a [[goal]]
+* {{ja-r|胸尽くし|むなづくし}}: the [[bottom]] of the [[chest]], the area just below the [[sternum]]
+* {{ja-r|胸積り|むなづもり}}: [[thinking]] in one's [[head]] to [[figure out|figure something out]] before doing it
+* {{ja-r|胸づわらし|むなづわらし}}: very [[sad]] or [[uneasy]] in a way that makes one's chest [[constrict]]
+* {{ja-r|胸鬚|むな ひげ}}: “chest beard” → [[chest hair]]
+* {{ja-r|胸紐|むな ひも}}: a [[cord]] across the [[chest]] for holding a [[kimono]] or [[haori]] closed
+* {{ja-r|胸鰭|むなびれ}}: “chest fin” → [[pectoral fin]]
+* {{ja-r|胸骨|むなぼね}}: the [[breastbone]], the [[sternum]]
+* {{ja-r|胸元|むなもと}}, {{ja-r|胸許|むなもと}}: the [[chest]]; the area in front of the chest
+* {{ja-r|胸焼け|むなやけ}}: [[heartburn]] {{qualifier|indigestion}}
+* {{ja-r|胸分く|むなわく}}: to push through bushes or scrub using one's chest, to [[bushwhack]]
+* {{ja-r|胸分け|むなわけ}}: pushing through bushes or scrub using one's chest, [[bushwhacking]]; the [[breadth]] of the chest
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|むね|yomi=k}}
+Sound shift from ''muna'' above, from the fusion of ''muna'' with the emphatic nominal particle {{m|ja|い|tr=i}}: {{IPAchar|/muna i/}} → {{IPAchar|/mune/}}. Similar to the phonetic process observed in the shift from {{m|ja|神|tr=kamu||spirit, god|pos=older form used in compounds}} to {{m|ja|神|tr=kami|pos=newer form, used as a standalone noun}}.
+
+Alternatively, may be a compound of {{compound|lang=ja|sort=むね|身|tr1=mu|t1=body|根|tr2=ne|t2=root}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Cognate with {{m|ja|棟|tr=mune||main roofline, roof ridge}} and {{m|ja|宗}}, {{m|ja|旨|tr=mune||gist, main idea, primary part}}, from the underlying idea of ''central or main portion''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Notably, {{m|ja|棟}} and {{m|ja|宗}} also have an older reading ''muna'' that is only used in compounds (for {{m|ja|宗}}, possibly only in place names). Meanwhile, {{m|ja|旨|tr=mune}} appears later in the textual record (in the ''[[w:Uji_Shūi_Monogatari|Uji Shūi Monogatari]]'' of the early 1200s), and this reading is used as a standalone noun rather than in compounds. This is consistent with other nouns that have paired vowel forms, and suggests that ''muna'' is probably the original form, and that the compound derivation is a [[folk etymology]].
+
+====Pronunciation====
+{{ja-pron|yomi=k|むね|acc=2|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|むね}}
+
+# [[chest]], [[breast]]
+# [[heart]], [[inner]] [[thought]]s
+#: {{ja-usex|'''胸'''の中の熱い思い|'''むね''' の なか の あつい おもい|the passion in one's '''heart'''}}
+# [[bosom]], [[breasts]]
+#: {{ja-usex|彼女はどんな服を着ても'''胸'''が目立ちます。|かのじょ は どんな ふく を きて も '''むね''' が めだちます。|No matter what clothes she wears, her '''chest''' always stands out.}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|胸が騒ぐ|むね が さわぐ}}: “one's chest is noisy” → to be [[unsettled]], to be [[uneasy]]
+* {{ja-r|胸を貸す|むね を かす}} “lend a chest” → a more powerful person partners with a less powerful person, such as for practicing
+* {{ja-r|胸を借りる|むね を かりる}} “borrow a chest” → a less powerful person partners with a more powerful person, such as for practicing
+* {{ja-r|胸を撫で下ろす|むね を なでおろす}}:
+{{der-bottom}}
+
+=====Synonyms=====
+{{der-top|Synonyms}}
+* {{sense|heart}} {{ja-r|心|こころ}}
+* {{sense|breasts}} {{ja-r|おっぱい}}, {{ja-r|乳|ちち}}, {{ja-r|乳房|ちぶさ}}, {{ja-r|乳房|にゅうぼう}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|むね]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=흉|eumhun=|rv=hyung|mr=hyung|y=hyung}}
+
+# {{defn|lang=ko|sort=肉06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hung]], [[hông]]|rs=肉06}}
+
+# {{defn|lang=vi|sort=肉06}}
+
+[[zh-min-nan:胸]]
+[[be:胸]]
+[[fr:胸]]
+[[ko:胸]]
+[[ky:胸]]
+[[lo:胸]]
+[[lt:胸]]
+[[hu:胸]]
+[[mg:胸]]
+[[ja:胸]]
+[[no:胸]]
+[[pl:胸]]
+[[pt:胸]]
+[[ru:胸]]
+[[sv:胸]]
+[[th:胸]]
+[[chr:胸]]
+[[zh:胸]]

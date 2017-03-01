@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=miànmiàn
+|c=min6 min6
+|h=pfs=mien-mien
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[each]] and [[every]] [[aspect]]
+# {{lb|zh|literary}} [[face]] to [[face]]
+
+====Derived terms====
+* {{sense|every aspect}} {{zh-l|面面俱到}}
+* {{sense|face to face}} {{zh-l|面面相覷}}
+
+===References===
+* {{cite-book|last=|first=|authorlink=|coauthors=|year=2007|title=[[w:Hanyu Da Cidian|Hanyu Da Cidian 3.0]]|language=Mandarin|publisher=[[w:Commercial Press|Commercial Press]]|location=[[Hong Kong]]|isbn=9789620702778}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|面}}
+
+===Alternative forms===
+* {{l|ja|面々}}
+
+===Noun===
+{{ja-noun|めんめん}}
+
+# [[each]], [[every]] one
+
+[[ko:面面]]
+[[mg:面面]]
+[[zh:面面]]

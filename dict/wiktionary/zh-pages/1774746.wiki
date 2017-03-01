@@ -1,0 +1,29 @@
+==Japanese==
+{{ja-kanjitab|締|切}}
+
+===Etymology===
+From {{m|ja|締める|sc=Jpan}} (''shimeru'', "fasten," "lock," "shut") + {{m|ja|切る|sc=Jpan}} (''kiru'', "cut off by a partition")
+
+===Pronunciation===
+* {{IPA|/ɕi.me.ki.ri/|lang=ja}}
+
+===Noun===
+{{ja-noun|しめきり}}
+
+# [[closing]] [[day]], [[deadline]]
+# [[closed|Closed]], No Entrance
+
+====Alternative forms====
+* {{l|ja|締切}} is the most common form
+* {{l|ja|締め切り}}: next most common
+* {{l|ja|締切り}}
+* {{l|ja|〆切}}
+* {{l|ja|〆切り}}: least common
+
+====Derived terms====
+* {{l|ja|申込締切}} (''mōshikomi shimekiri''): application deadline
+* {{l|ja|締切日}} (''shimekiribi''): time limit, closing day, deadline
+
+[[ko:締切]]
+[[mg:締切]]
+[[zh:締切]]

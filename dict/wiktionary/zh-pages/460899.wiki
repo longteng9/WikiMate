@@ -1,0 +1,146 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Attested in Old Chinese; original meanings were “to be able to, competent”, “can be achieved, possible”.
+
+===Pronunciation===
+{{zh-pron
+|m=kěnéng
+|c=ho2 nang4
+|h=pfs=khó-nèn
+|md=kō̤-nèng
+|mn=tw,xm,zz:khó-lêng/qz:khóⁿ-nn̂g
+|mna=Taiwanese-Alternation2to1Word.ogg
+|mn-t=ko2 lêng5/ko2 nêng5
+|mn-t_note=ko2 lêng5 - Chaozhou
+|w=2khu nen
+|mc=1,2
+|oc=1,1;3,3
+|ma=y
+|cat=a,adv,n,v
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[possible]]; [[probable]]; [[likely]]
+
+====Usage notes====
+Chinese does not have different words for ''possible'' and ''probable'' in the way that English does. To express the sense that something is probable - i.e. likely to happen, as opposed to just being a possibility among others - consider adding {{zh-l|很}} before {{lang|zh|可能}} or {{zh-l|有可能}}.
+
+===Adverb===
+{{zh-adv}}
+
+# [[maybe]]; [[perhaps]]; [[probably]]; [[might]], [[may]]
+#: {{zh-x|可能 我 會 去。|'''Perhaps''' I will go.}}
+#: {{zh-x|他 可能 被 開除 了。|He '''may''' have been fired.}}
+
+====Synonyms====
+* {{zh-l|或許}}
+* {{zh-l|也許}}
+
+===Noun===
+{{zh-noun}}
+
+# [[possibility]]; [[probability]] {{zh-mw|個}}
+#: {{zh-x|什麼 事 都 有 發生 的 可能。|Anything has a '''possibility''' of happening.}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to be [[competent]] to; to have the [[ability]] to
+#: {{zh-x|孟 ^莊 子 之 孝 也，其他 可能 也。|The filial piety of {{w|Mencius|Meng}} {{w|Zhuangzi|Zhuang}}, in other matters, was what other men '''are competent to'''.|CL|ref=Analects}}
+# {{lb|zh|literary}} can be [[achieve]]d; to be [[possible]]
+#: {{zh-x|養，可能 也，敬 為{wéi} 難。|One '''may be able''' to support them; the difficulty is in doing so with the proper reverence.|CL|ref=Liji}}
+
+===Derived terms===
+{{zh-der|不可能|儘可能|可能性|有可能}}
+
+===Descendants===
+{{CJKV||かのう|가능|khả năng}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|か|のう|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=かのう}} compound {{m|zh|可能|tr=kha<sup>X</sup> nong|lit=may, can + able, ability}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|かのう|acc=0|acc_ref=DJR}}
+
+===Adjective===
+{{ja-adj|infl=na|かのう}}
+
+# [[possible]]
+# [[feasible]]
+
+====Inflection====
+{{ja-na|かのう}}
+
+====Derived terms====
+* {{ja-r|可%能%性|か%のう%せい}}: (possibility, feasibility)
+
+====Synonyms====
+* {{ja-r|できる}}
+* {{sense|possible}} {{ja-r|ありうる}}, {{ja-r|起こりうる|おこりうる}}
+
+====Antonyms====
+{{sense|possible}}
+* {{ja-r|ありえない}}, {{ja-r|不%可%能|ふ%か%のう}}: [[impossible]]
+* {{ja-r|必%然%的|ひつ%ぜん%てき}}: [[inevitable]]
+
+===Noun===
+{{ja-noun|かのう}}
+
+# [[possibility]], good [[chance]]
+#: {{ja-usex|可能の|かのう の|possible}}
+# [[feasibility]]
+
+====Antonyms====
+* {{sense|possibility}} {{ja-r|不%可%能|ふ%か%のう}}: [[impossible]]; {{ja-r|必%然%的|ひつ%ぜん%てき}}: [[inevitable]]
+* {{sense|feasibility}} {{ja-r|不%可%能|ふ%か%のう}}: ([[infeasibility]])
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+:* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=가능}}
+
+# {{hanja form of|가능|possible}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu|pos=noun}}
+
+# {{han tu form of|khả năng|ability; capability; competence}}
+
+[[zh-min-nan:可能]]
+[[fr:可能]]
+[[ko:可能]]
+[[it:可能]]
+[[lt:可能]]
+[[li:可能]]
+[[hu:可能]]
+[[mg:可能]]
+[[fj:可能]]
+[[ja:可能]]
+[[ta:可能]]
+[[chr:可能]]
+[[uk:可能]]
+[[zh:可能]]

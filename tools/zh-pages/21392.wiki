@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|疗}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=12|sn=17|four=00196|canj=KKCF|ids=⿸疒尞}}
+
+# be [[heal]]ed, [[cure]]d, [[recover]]
+
+====References====
+* {{Han ref|kx=0780.190|dkj=22500|dj=1189.340|hdz=42696.100|uh=7642|ud=30274|bh=C0F8|bd=49400}}
+
+----
+
+==Chinese==
+{{zh-forms|s=疗}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|疒|尞|c1=s|c2=p|t1=disease|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=liáo
+|c=liu4,liu6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|光療|冷療|刮骨療毒|化學治療|化學療法|吸入治療|團體治療|基因治療|尿療法|心理治療|心理療法|放療|根管治療|民俗療法|氣功療法|水療|水療法|治療|泥療|浴療|煮字療飢|熱療|營療|物理治療|牽引療法|理療|療傷|療效|療方|療治|療法|療病|療瘡剜肉|療程|療補|療貧|療飢|療養|療養所|療養院|睡眠療法|職能治療|舞蹈治療|芳香療法|藥物治療|蠟療|血清療法|診療|診療所|語言治療|輻射治療|運動治療|遠距醫療|醫療|醫療給付|電療|音樂治療|食物療法|食療|飲食療法}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=疒12}}
+
+# [[heal]]
+# [[cure]]
+
+====Readings====
+* {{ja-readings|on=[[りょう]] (ryō)|kun=[[いやす]] (iyasu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[료]]>[[요]]|eumhun=|rv=ryo>yo|mr=ryo>yo|y=lyo>yo}}
+
+# {{defn|lang=ko|sort=疒12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[liệu]]|rs=疒12}}
+
+# {{defn|lang=vi|sort=疒12}}
+
+[[fr:療]]
+[[ko:療]]
+[[hu:療]]
+[[ja:療]]
+[[pl:療]]
+[[th:療]]
+[[vi:療]]
+[[zh:療]]

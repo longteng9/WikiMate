@@ -1,0 +1,92 @@
+{{character info/new}}
+{{also|脉}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=06|sn=10|four=72232|canj=BHHV|ids=⿰月𠂢}}
+
+====References====
+* {{Han ref|kx=0982.050|dkj=29470|dj=1434.100|hdz=32068.090|uh=8108|ud=33032|bh=AFDF|bd=45023}}
+
+----
+
+==Chinese==
+{{zh-forms|s=脉}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|肉|alt1=⺼|𠂢|c1=s|c2=p|t1=body|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=脈
+|m_note=mò - also used in Mainland in {{zh-l|*脈脈}}
+|m-s=me2
+|c=mak6,maak6
+|h=pfs=mak/ma̍k
+|md=măh/mĕk
+|md_note=măh - vernacular; mĕk - literary
+|mn=xm,tp,kh,tn,lk,mg,tc:me̍h/qz,km,hc:be̍h/zz:me̍eh/sx,yl,tc:mē/xm,zz,tw:be̍k/qz:bia̍k
+|w=5maq
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|TCM}} [[blood vessel]]s; [[vein]]s and [[arteries]]
+# {{lb|zh|TCM}} [[pulse]]
+# [[vein]] of a [[leaf]]
+# something linking up to form a [[blood vessel]]-like [[network]], such as [[mountain range]]s
+
+===Compounds===
+{{zh-der|動脈|脈衝|脈動|脈動電流|脈壓|脈息|脈搏|脈絡|脈絡膜|脈脈|脈象|靜脈|筋脈|葉脈|山脈|節脈|動脈硬化|一脈相通|任脈|主脈|主動脈|一脈|巴嶺山脈|上大動脈|中央山脈|促脈|一脈相承|句脈|大白山脈|急脈緩受|含情脈脈|侏羅山脈|微脈|代脈|千山山脈|動脈瘤|大別山脈|平行脈|冠狀動脈|一脈相傳|主動脈弓|崑崙山脈|尺脈|完達山脈|一脈相連|不整脈|國脈|命脈|安南山脈|大動脈|動脈輸血|側脈|大雪山脈|候脈|喜脈|人脈|張脈|來龍去脈|土脈|六脈|地脈|大巴山脈|切脈|岩脈|同出一脈|大靜脈|平脈|平行葉脈|六脈調和|奇經八脈|懸絲診脈|憑脈|濇脈|氣脈|掌狀脈|礦脈|百脈根|看脈|橈動脈|支脈|沉脈|海岸山脈|直脈|水脈|按脈|浮脈|溶溶脈脈|捉脈|把脈|泉脈|脈衝式|脈管|褶曲山脈|評脈|龍脈|經脈|血脈賁張|落脈|靜脈注射|血脈|肺動脈|頸動脈|羽狀脈|脈石礦物|脈膊|診脈|門靜脈|脈經|脈診|脈衝星|脈不制肉|翅脈|頸動脈竇|脈訣|脈門|鷲峰山脈|脈動星|頸靜脈|脈絡貫通|靜脈瘤|靜脈曲張|號脈|遲脈|關脈|靜脈血|網狀脈|結脈|請脈|脈望|脈理|脈禮|脈波體|脈案|肺靜脈}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=肉06}}
+
+# {{defn|lang=ja|sort=肉06}}
+
+====Readings====
+* {{ja-readings|goon=[[みゃく]] (myaku)|kanon=[[ばく]] (baku)|kun=[[すじ]] (suji)|nanori=}}
+
+===Noun===
+{{ja-noun|みゃく}}
+
+# [[pulse]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=맥|eumhun=|rv=maek|mr=maek|y=mayk}}
+
+# {{defn|lang=ko|sort=肉06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mạch]]|rs=肉06}}
+
+# {{defn|lang=vi|sort=肉06}}
+
+[[zh-min-nan:脈]]
+[[fr:脈]]
+[[ko:脈]]
+[[lo:脈]]
+[[hu:脈]]
+[[mg:脈]]
+[[ja:脈]]
+[[pl:脈]]
+[[th:脈]]
+[[chr:脈]]
+[[zh:脈]]

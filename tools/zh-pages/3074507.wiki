@@ -1,0 +1,29 @@
+==Japanese==
+{{ja-kanjitab|あま|くだ|o2=り|yomi=kun}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=あまくだり|天|tr1=ama|t1=heaven, heavens|降る|alt2=降り|tr2=kudari|t2=the {{m|ja|連用形|tr=ren'yōkei|pos=stem or continuative form}} of verb {{ja-l|降る}} ''kudaru'' “to descend, to come down”}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|h|あ|まくだり}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[a̠ma̠kɯᵝda̠ɾi]}}
+
+===Noun===
+{{ja-noun|あまくだり}}
+
+# Coming down to earth from heaven.
+# The entity making such a visit; an [[avatar]].
+# In Japan's postwar period, the practice of awarding a high-level bureaucrat with a high-paying job after retirement (also spelled {{l|ja|天下り}}): a kind of {{m|en|golden parachute}}. Related to {{m|en|regulatory capture}}.
+
+====Synonyms====
+* {{sense|someone descended from heaven}} {{ja-l|天降人|あまくだりびと|amakudaribito}}; {{ja-l|天人}} ({{ja-l|てんにん}}, {{ja-l|||tennin}}; {{ja-l|あまびと}}, {{ja-l|||amabito}}; {{ja-l|あめひと}}, {{ja-l|||amehito}})
+* {{sense|avatar of a god}} {{ja-l|化身|けしん|keshin}}, {{ja-l|権化|ごんげ|gonge}}
+
+====See also====
+* {{pedialite|Golden parachute}}
+* {{pedialite|Regulatory capture}}
+* {{pedialite|Avatar}}
+
+===References===
+<references/>

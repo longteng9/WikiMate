@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=diāoxióng
+|c=diu1 hung4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[wolverine]] {{gloss|''[[Gulo gulo]]''}}
+
+====Synonyms====
+* {{zh-l|狼獾}}
+
+{{zh-cat|Mammals}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=irr|sort=くずり}}
+
+===Etymology===
+From {{der|ja|sort=くずり|niv|к’узр̌|tr=k’uzrš}}<ref name="KJE">{{R:Kojien}}</ref><ref name="Nipponica">'''1984''', {{lang|ja|[[w:日本大百科全書|日本大百科全書：ニッポニカ]]}} (''Nippon Dai Hyakka Zensho: Nipponica'', “[[w:Encyclopedia Nipponica|Encyclopedia Nipponica]]”) (in Japanese), [[w:Tokyo|Tōkyō]]: [[w:Shogakukan|Shogakukan]], relevant text online [https://kotobank.jp/word/%E3%82%AF%E3%82%BA%E3%83%AA-55382#E6.97.A5.E6.9C.AC.E5.A4.A7.E7.99.BE.E7.A7.91.E5.85.A8.E6.9B.B8.28.E3.83.8B.E3.83.83.E3.83.9D.E3.83.8B.E3.82.AB.29 here].</ref>
+
+The kanji spelling is from {{der|ja|zh|sort=くずり|貂熊}}, and is {{juku|sort=くずり}}.
+
+===Pronunciation===
+{{ja-pron|y=i|くずり|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|くずり|クズリ}}
+
+# {{alternative spelling of|lang=ja|屈狸||[[wolverine]]}}
+
+====Usage notes====
+{{U:ja:biology|クズリ}}
+
+When spelled in kanji, the {{m|ja|屈狸}} spelling appears to be more common.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===References===
+<references/>
+
+[[hu:貂熊]]
+[[mg:貂熊]]
+[[ro:貂熊]]
+[[th:貂熊]]
+[[chr:貂熊]]
+[[zh:貂熊]]

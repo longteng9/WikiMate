@@ -1,0 +1,29 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiāofángjú
+|c=siu1 fong4 guk6,siu1 fong4 guk6-2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[fire department]]; fire department [[bureau]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|ぼう|きょく|yomi=on}}
+
+===Etymology===
+{{suffix|消防|局|lang=ja|t1=fire department|t2=bureau|sort=しょうぼうきょく}}
+
+===Noun===
+{{ja-noun|しょうぼうきょく}}
+
+# fire department bureau
+
+[[zh:消防局]]

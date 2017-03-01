@@ -1,0 +1,70 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xìnyòng
+|c=seon3 jung6
+|h=pfs=sin-yung
+|mn=sìn-iōng
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|finance}} [[credit]]; [[creditworthiness]]
+# [[trustworthiness]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[trust]]
+
+====Derived terms====
+{{zh-der|信用貸款|信用等級評定|信用額度|信用合作社|信用卡|信用評級|信用證|信用狀}}
+
+===Descendants===
+{{CJKV||しんよう|신용}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|よう|yomi=on}}
+
+===Noun===
+{{ja-noun|しんよう}}
+
+# [[belief]], [[trust]], [[confidence]]
+# [[reliance]]
+
+===Verb===
+{{ja-verb-suru|しんよう}}
+
+# [[believe]], trust
+# [[rely on]]
+
+====Conjugation====
+{{ja-suru|しんよう}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=신용}}
+
+# {{hanja form of|신용|[[credit]], [[credibility]], [[confidence]], [[trust]]}}
+
+[[zh-min-nan:信用]]
+[[ko:信用]]
+[[lo:信用]]
+[[hu:信用]]
+[[mg:信用]]
+[[ja:信用]]
+[[ru:信用]]
+[[chr:信用]]
+[[zh:信用]]

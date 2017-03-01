@@ -1,0 +1,111 @@
+{{character info/new}}
+{{also|歴|历}}
+==Translingual==
+{{Han simplified forms|歷|歴|历}}
+
+===Han character===
+{{Han char|rn=77|rad=止|as=12|sn=16|four=71211|canj=MHDM,MDYLM|ids=⿸厤止}}
+
+====Related characters====
+* [[曆]], [[磿]]
+
+====References====
+* {{Han ref|kx=0577.140|dkj=16340|dj=0968.090|hdz=21445.090|uh=6B77|ud=27511|bh=BEFA|bd=48890}}
+
+----
+
+==Chinese==
+{{zh-forms|s=历}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|厤|止|c1=p|c2=s|t2=stay|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lì
+|c=lik6
+|h=pfs=li̍t
+|mn=le̍k
+|mc=y
+|oc=y
+|ma=y
+|cat=v,a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[take place]]
+# [[past]]
+# [[history]]
+
+====Compounds====
+{{der3|title=Compounds
+|{{zh-l|歷朝}}
+|{{zh-l|歷程}}
+|{{zh-l|歷次}}
+|{{zh-l|歷代}}
+|{{zh-l|曆法}}
+|{{zh-l|歷訪}}
+|{{zh-l|歷屆}}
+|{{zh-l|歷盡}}
+|{{zh-l|歷經}}
+|{{zh-l|歷久}}
+|{{zh-l|歷來}}
+|{{zh-l|歷歷}}
+|{{zh-l|歷練}}
+|{{zh-l|歷年}}
+|{{zh-l|歷任}}
+|{{zh-l|歷時}}
+|{{zh-l|歷史}}
+|{{zh-l|歷史觀}}
+|{{zh-l|歷史唯物主義}}
+|{{zh-l|歷史唯心主義}}
+|{{zh-l|歷史性}}
+|{{zh-l|歷數}}
+|{{zh-l|歷險}}
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=止12}}
+
+# [[take place]], [[past]], [[history]]
+
+====Readings====
+* {{ja-readings|on=[[れき]] (reki), [[りゃく]] (ryaku)|kun=[[へる]] (heru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[력]]>[[역]]|eumhun=|rv=ryeok>yeok|mr=ryŏk>yŏk|y=lyek>yek}}
+
+# [[go through]]
+# [[experience]]
+# [[undergo]]
+# [[use up]]
+# [[exhaust]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lịch]], [[lếch]], [[lệch]], [[rếch]]|rs=止12}}
+
+# {{defn|lang=vi|sort=止12}}
+
+[[fr:歷]]
+[[ko:歷]]
+[[hu:歷]]
+[[mg:歷]]
+[[ja:歷]]
+[[pl:歷]]
+[[th:歷]]
+[[zh:歷]]

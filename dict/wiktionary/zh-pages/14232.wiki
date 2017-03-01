@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|审}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=40|rad=宀|as=12|sn=15|four=30609|canj=JHDW|ids=⿱宀番}}
+
+# to [[examine]], to [[investigate]]
+# to [[judge]]
+# [[trial]]
+
+====References====
+* {{Han ref|kx=0291.220|dkj=07316|dj=0577.210|hdz=20954.050|uh=5BE9|ud=23529|bh=BC66|bd=48230}}
+
+----
+
+==Chinese==
+{{zh-forms|s=审}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shěn
+|c=sam2
+|h=pfs=
+|md=
+|mn=sím
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|審定|審察|審判}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=宀12}}
+
+# examine
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin)|kun=[[つまびらか]] (tsumabiraka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=심|rv=sim|mr=sim}}
+
+# {{defn|lang=ko|sort=宀12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thẩm]], [[săm]], [[sẩm]], [[thắm]], [[thẳm]], [[thấm]], [[thủm]], [[thẫm]]|rs=宀12}}
+
+# {{defn|lang=vi|sort=宀12}}
+
+[[fr:審]]
+[[ko:審]]
+[[li:審]]
+[[hu:審]]
+[[ms:審]]
+[[ja:審]]
+[[pl:審]]
+[[th:審]]
+[[zh:審]]

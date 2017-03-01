@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qǐmáo
+|c=hei2 mou4
+|mn=khí-mo͘
+|cat=v,n
+}}
+
+===Etymology 1===
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|of woollen cloth}} to [[pill]]; [[fluff]]
+
+===Etymology 2===
+From {{etyl|ja|zh}} {{ja-r|気持ち|きもち}}.
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|Min Nan|dialectal Mandarin}} to feel nervous; to be scared
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|Min Nan|dialectal Mandarin}} [[emotion]], [[mood]]
+
+=====Synonyms=====
+* {{zh-l|起毛摺|khi-mó͘-chih}}
+
+=====Derived terms=====
+{{zh-der|起毛䆀:khí-mo͘ bái|起毛婸:khí-mo͘ giang}}
+
+===References===
+* {{thcwd|6713}}
+* {{thcwd|31066}}
+
+[[zh-min-nan:起毛]]
+[[zh:起毛]]

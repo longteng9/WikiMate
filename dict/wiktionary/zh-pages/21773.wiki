@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=109|rad=目|as=11|sn=16|four=69014|canj=BUFBG|ids=⿰目堂}}
+
+====References====
+* {{Han ref|kx=0816.110|dkj=23651|dj=1229.070|hdz=42510.070|uh=77A0|ud=30624|bh=BF65|bd=48997}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|目|堂|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=chēng,zhèng
+|c=caang1,zaang1,tong4
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[stare]] at; to [[gaze]] at; to [[glare]] at
+
+===Compounds===
+{{zh-der|目瞠口哆|瞠視|瞠目結舌|瞠目而視|瞠目|瞠乎其後|瞠乎後矣}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=目11}}
+
+# {{defn|lang=ja|sort=目11}}
+
+====Readings====
+* {{ja-readings|goon=[[ちょう]] (chō)|kanyoon=[[どう]] (dō)|kanon=[[とう]] (tō)|kun=[[みはる]] (miharu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[당]], [[청]]|eumhun=|rv=dang, cheong|mr=tang, ch'ŏng|y=tang, cheng}}
+
+# {{defn|lang=ko|sort=目11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=目11| hanviet = xanh}}
+
+# {{defn|lang=vi|sort=目11}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=77a0 Nom Foundation]
+
+[[fr:瞠]]
+[[hu:瞠]]
+[[mg:瞠]]
+[[ja:瞠]]
+[[pl:瞠]]
+[[th:瞠]]
+[[zh:瞠]]

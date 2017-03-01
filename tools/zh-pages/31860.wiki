@@ -1,0 +1,59 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=188|rad=骨|as=10|sn=20|four=73242|canj=BBIBI}}
+
+====References====
+* {{Han ref|kx=1450.190|dkj=45241|dj=1976.370|hdz=74416.040|uh=9AC6|ud=39622|bh=F566|bd=62822}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|骨|尃|c1=s|c2=p|t1=bone|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bó
+|c=bok3
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|anatomy}} [[shoulder blade]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=骨10}}
+
+# {{defn|lang=ja|sort=骨10}}
+
+====Readings====
+* {{ja-readings|on=[[はく]] (haku)|kun=[[かいがらぼね]] (kaigarabone)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=박|eumhun=|rv=bak|mr=pak|y=pak}}
+
+# {{defn|lang=ko|sort=骨10}}
+
+[[fr:髆]]
+[[hu:髆]]
+[[mg:髆]]
+[[pl:髆]]
+[[th:髆]]
+[[zh:髆]]

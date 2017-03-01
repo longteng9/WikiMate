@@ -1,0 +1,27 @@
+{{also|上声}}
+==Chinese==
+{{zh-forms|s=上声}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǎngshēng
+|c=soeng5 sing1
+|h=pfs=sóng-sâng
+|mn=xm,qz,tw:sióng-siaⁿ/zz:siáng-siaⁿ/twv:chiūⁿ-siaⁿ/twv:siōng-siaⁿ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|linguistics}} [[rising]] [[tone]] {{gloss|one of the four tones in Middle Chinese; corresponds to tone 3 in Beijing Mandarin, tones 2 and 5 in Guangzhou Cantonese}}
+
+====Coordinate terms====
+* {{zh-l|平聲}}
+* {{zh-l|去聲}}
+* {{zh-l|入聲}}
+
+[[zh-min-nan:上聲]]
+[[ko:上聲]]
+[[hu:上聲]]

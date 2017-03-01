@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=102|rad=田|as=06|sn=11|four=64014|canj=WGG}}
+
+# sections in vegetable farm
+
+====References====
+* {{Han ref|kx=0762.110|dkj=21842|dj=1172.100|hdz=42539.090|uh=7566|ud=30054|bh=B2A5|bd=45733}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qí
+|c=kwai4
+|mn=qz,xm,zz:hê/qz,xm,zz:kî
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|分畦|圃畦|夏畦|田畦|町畦|畛畦|畦丁|畦作|畦溝灌溉|畦田|畦畛|畦逕|稻畦|花畦|菜畦|飄畦|麥畦}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=田06}}
+
+# {{defn|lang=ja|sort=田06}}
+
+====Readings====
+* {{ja-readings|on=[[けい]] (kei)|kun=[[うね]] (une)|nanori=}}
+
+===Noun===
+{{ja-noun|あぜ}}
+
+# {{alternative form of|畔|lang=ja}}
+
+{{ja-noun|うね}}
+
+# {{alternative form of|畔|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=휴|eumhun=|rv=hyu|mr=hyu|y=hyu}}
+
+# {{defn|lang=ko|sort=田06}}
+
+[[fr:畦]]
+[[hu:畦]]
+[[mg:畦]]
+[[ja:畦]]
+[[pl:畦]]
+[[th:畦]]
+[[zh:畦]]

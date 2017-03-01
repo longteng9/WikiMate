@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=96|rad=玉|as=05|sn=9|four=14147|canj=MGDHE}}
+
+# [[glass]]
+
+====References====
+* {{Han ref|kx=0729.050|dkj=20899|dj=1140.280|hdz=21109.020|uh=73BB|ud=29627|bh=ACC1|bd=44225}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bō
+|c=bo1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|琉璃}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=玉05}}
+
+# [[glass]]
+
+====Readings====
+* {{ja-readings|on=[[は]] (ha)}}
+
+====Compounds====
+* [[玻璃]] ([[はり]], hari)
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=파|eumhun=|rv=pa|mr=p'a|y=pha}}
+
+# {{defn|lang=ko|sort=玉05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[pha]]|rs=玉05}}
+
+# {{defn|lang=vi|sort=玉05}}
+
+[[fr:玻]]
+[[ko:玻]]
+[[hu:玻]]
+[[mg:玻]]
+[[ja:玻]]
+[[no:玻]]
+[[pl:玻]]
+[[th:玻]]
+[[zh:玻]]

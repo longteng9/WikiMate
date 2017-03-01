@@ -1,0 +1,36 @@
+==Chinese==
+{{zh-forms|alt=蝍且}}
+
+===Pronunciation===
+{{zh-pron
+|m=jíjū
+|c=zik1 zeoi1
+|mc=2+3,2
+|oc=n,1+3;n,1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} {{zh-alt-name|蜈蚣|[[centipede]]}}
+# {{lb|zh|literary}} {{zh-alt-name|蟋蟀|[[cricket]]}}
+
+====Derived terms====
+{{zh-der|蝍蛆鉗帶|蝍蛆甘帶}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=irr|sort=むかで}}
+
+===Etymology===
+{{juku|sort=むかで|c=y}}
+
+===Noun===
+{{ja-noun|むかで|ムカデ}}
+
+# {{alternative spelling of|百足|lang=ja}}
+
+[[mg:蝍蛆]]
+[[zh:蝍蛆]]

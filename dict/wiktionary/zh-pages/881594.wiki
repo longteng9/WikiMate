@@ -1,0 +1,31 @@
+{{also|小數}}
+==Chinese==
+{{zh-see|小數}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|すう|yomi=on}}
+
+===Etymology===
+From [[小]] (''shō'', "small," "little") + [[数]] (''sū'', "number")
+
+===Noun===
+{{ja-noun|しょうすう|kyu=小數}}
+
+# [[decimal fraction]], [[decimal]], [[fraction]]
+
+====Compounds====
+* [[小数点]] (''shōsūten''): decimal point
+* [[循環小数]] (''junkan shōsū''): recurring decimal
+* [[無限小数]] (''mugen shōsū''): infinite decimals
+* [[浮動小数点]] (''fudō shōsūten''): floating point representation
+* [[浮動小数点演算機構]] (''fudō shōsūten enzan kikō''): floating-point arithmetic unit
+
+[[fr:小数]]
+[[ko:小数]]
+[[hu:小数]]
+[[ja:小数]]
+[[fi:小数]]
+[[th:小数]]
+[[zh:小数]]

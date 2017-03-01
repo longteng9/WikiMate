@@ -1,0 +1,86 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=04|sn=7|four=62010|canj=RNDU|ids=⿰口孔}}
+
+====References====
+* {{Han ref|kx=0180.010|dkj=03377|dj=0397.100|hdz=10596.070|uh=543C|ud=21564|bh=A771|bd=42865}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=吽}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hǒu
+|ma=Zh-hou.ogg
+|c=hau3,haau1,hau2
+|h=pfs=hô
+|md=
+|mn=háu
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# (of a large animal) to [[roar]]
+# (of people) to [[shout]]
+# (of inanimate objects such as cars) to [[squeal]]
+
+===References===
+* [http://www.zdic.net/z/16/js/543C.htm zdic.net (Han Dian)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口04}}
+
+# {{defn|lang=ja|sort=口04}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[く]] (ku)|kun=[[ほえる]] (hoeru)}}
+
+====Derived terms====
+* {{ja-r|吼える|ほえる}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=후|rv=hu|mr=hu|y=hwu}}
+
+# {{defn|lang=ko|sort=口04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hống]], [[hổng]], [[khỏng]], [[rống]]|rs=口04}}
+
+# {{defn|lang=vi}}
+
+[[fr:吼]]
+[[ko:吼]]
+[[li:吼]]
+[[hu:吼]]
+[[mg:吼]]
+[[fj:吼]]
+[[ja:吼]]
+[[no:吼]]
+[[pl:吼]]
+[[th:吼]]
+[[chr:吼]]
+[[zh:吼]]

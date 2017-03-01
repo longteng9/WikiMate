@@ -1,0 +1,29 @@
+{{also|纽约}}
+==Chinese==
+{{zh-forms|s=纽约|gloss=-}}
+
+===Etymology===
+{{bor|zh|en|New York}}, via a southern dialect (e.g. {{cog|yue|-}}, probably {{cog|yue-tai|-}}) which retains ''-k'' in {{zh-l|約|tr=-}}.
+
+===Pronunciation===
+{{zh-pron
+|m=Niǔyuē
+|c=nau2 joek3
+|h=pfs=Niú-yok
+|mn=Niú-iok
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# [[New York]]
+#: {{zh-x|^紐約 市|New York City}}
+#: {{zh-x|^紐約 州|New York State}}
+
+{{zh-cat|Cities|New York}}
+
+[[fr:紐約]]
+[[lt:紐約]]
+[[hu:紐約]]
+[[ja:紐約]]

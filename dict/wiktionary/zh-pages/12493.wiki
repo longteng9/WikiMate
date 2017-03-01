@@ -1,0 +1,115 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=08|sn=11|four=60018|canj=RQYT|ids=⿰口拉}}
+
+# final [[particle]] of [[assertion]]
+
+====References====
+* {{Han ref|kx=0196.261|dkj=03882|dj=0418.170|hdz=10636.050|uh=5566|ud=21862|bh=B0D5|bd=45269}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=la
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{contraction of|[[了]][[啊]]|tr=le a|lang=zh}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=lā
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Etymology 3===
+{{zh-forms|alt=喇,罅}}
+
+====Pronunciation====
+{{zh-pron
+|c=laa1
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{label|zh|Cantonese}} {{non-gloss definition|Placed at the end of a sentence in imperatives making it sound more like a request than an order.}}
+#: {{zh-x|離開！|Leave!|C}}
+#: {{zh-x|離開 啦！|Leave '''(please)'''!|C}}
+
+=====Usage notes=====
+* The first sentence is very impersonal and straight forward, whilst the second has been softened down by the particle {{lang|zh|啦}}.
+* The usage of this particle is usually spoken, but its written form can be used in some informal writing. With more formal settings of writing, the Mandarin particle {{zh-l|吧|baa6}} is used instead.
+
+=====Synonyms=====
+* {{q|Mandarin}} {{zh-l|吧}}
+
+===Etymology 4===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|mn=--lah
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Compounds===
+{{zh-der|嘰哩呱啦|啪啦|嘩啦|哩哩啦啦|啦啦隊|嘩啦啦|嘎啦|劈里啪啦|㕷啦|唏哩花啦|吹啦|稀里嘩啦}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口08}}
+
+# {{defn|lang=ja|sort=口08}}
+
+====Readings====
+* {{ja-readings|on=[[ろう]] < [[らふ]] (rō < rafu)|kun=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lạp]], [[láp]]|rs=口08}}
+
+# {{defn|lang=vi|sort=口08}}
+
+[[zh-min-nan:啦]]
+[[fr:啦]]
+[[ko:啦]]
+[[hu:啦]]
+[[mg:啦]]
+[[ja:啦]]
+[[no:啦]]
+[[pl:啦]]
+[[th:啦]]
+[[uk:啦]]
+[[zh:啦]]

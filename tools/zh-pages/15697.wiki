@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|忾}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=10|sn=13|four=98017|canj=POND|ids=⿰忄氣}}
+
+# [[anger]], [[wrath]], [[hatred]], [[enmity]]
+
+====References====
+* {{Han ref|kx=0397.050|dkj=11029|dj=0736.010|hdz=42337.050|uh=613E|ud=24894|bh=B75A|bd=46938}}
+
+----
+
+==Chinese==
+{{zh-forms|s=忾}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kài,xì
+|c=koi3,hei3
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|愾憤|同仇敵愾|敵愾|憤愾|敵愾同仇}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心10}}
+
+# {{defn|lang=ja|sort=心10}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki), [[がい]] (gai), [[きつ]] (kitsu)|kun=[[ためいき]] (tameiki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[개]], [[희]]|eumhun=|rv=gae, hui|mr=kae, hŭi|y=kay, huy}}
+
+# {{defn|lang=ko|sort=心10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心10|hanviet=khái}}
+
+# {{defn|lang=vi|sort=心10}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=613e Nom Foundation]
+
+[[fr:愾]]
+[[ko:愾]]
+[[li:愾]]
+[[hu:愾]]
+[[ja:愾]]
+[[pl:愾]]
+[[th:愾]]
+[[vi:愾]]
+[[zh:愾]]

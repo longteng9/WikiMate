@@ -1,0 +1,58 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=17|sn=20|four=23750|canj=UYTI|ids=⿰山戲}}
+
+# a [[crack]]
+# [[hazardous]]
+
+====References====
+* {{Han ref|kx=0322.200|dkj=08614|dj=0622.310|hdz=10806.120|uh=5DC7|ud=24007|bh=F445|bd=62533}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xī
+|c=hei3,hei1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嶮巇|巇嶮|抵巇|險巇}}
+
+===References===
+* {{R:twedu|B00907}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山17}}
+
+# {{defn|lang=ja|sort=山17}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[けわしい]] (kewashii)}}
+
+[[fr:巇]]
+[[hu:巇]]
+[[pl:巇]]
+[[th:巇]]
+[[zh:巇]]

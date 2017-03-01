@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=163|rad=邑|as=06|sn=9|four=07427|canj=YKNL}}
+
+# [[suburbs]]
+# waste land, open spaces
+
+====References====
+* {{Han ref|kx=1271.110|dkj=39392|dj=1769.270|hdz=63769.060|uh=90CA|ud=37066|bh=ADA5|bd=44453}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiāo
+|c=gaau1
+|h=pfs=
+|md=
+|mn=kau
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|郊游|jiāoyóu|[[outing]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=邑06}}
+
+# {{defn|lang=ja|sort=邑06}}
+
+====Readings====
+* {{ja-readings|goon=[[きょう]] (kyō) {{non-joyo-reading}}|kanon=[[こう]] (kō)|kun=[[まつる]] (matsuru), [[いなか]] (inaka)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=교|eumhun=|rv=gyo|mr=kyo|y=kyo}}
+
+# {{defn|lang=ko|sort=邑06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[giao]]|rs=邑06}}
+
+# {{defn|lang=vi|sort=邑06}}
+
+[[fr:郊]]
+[[ko:郊]]
+[[hu:郊]]
+[[mg:郊]]
+[[ja:郊]]
+[[no:郊]]
+[[pl:郊]]
+[[th:郊]]
+[[zh:郊]]

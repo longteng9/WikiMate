@@ -1,0 +1,61 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=17|sn=21|four=47913|canj=DNRI|ids=⿰木毚}}
+
+# [[sandalwood]]
+# [[comet]]
+
+====References====
+* {{Han ref|kx=0562.340|dkj=15903|dj=0951.130|hdz=21321.110|uh=6B03|ud=27395|bh=F5D0|bd=62928}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chán
+|c=caam4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木17}}
+
+# {{defn|lang=ja|sort=木17}}
+
+====Readings====
+* {{ja-readings|on=[[さん]] (san), [[せん]] (sen)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=참|eumhun=|rv=cham|mr=ch'am|y=cham}}
+
+# {{defn|lang=ko|sort=木17}}
+
+[[fr:欃]]
+[[hu:欃]]
+[[pl:欃]]
+[[th:欃]]
+[[zh:欃]]

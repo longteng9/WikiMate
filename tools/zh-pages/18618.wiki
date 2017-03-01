@@ -1,0 +1,58 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=03|sn=6|four=37120|canj=EPI|ids=⿰氵勺}}
+
+# to [[pour]]
+
+====References====
+* {{Han ref|kx=0604.110|dkj=17116|dj=0998.060|hdz=31553.010|uh=6C4B|ud=27723|bh=C9FE|bd=51710}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhuó
+|c=joek6,soek3,zoek3
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水03}}
+
+# {{defn|lang=ja|sort=水03}}
+
+====Readings====
+* {{ja-readings|on=[[さく]] (saku), [[ざく]] (zaku), [[しゃく]] (shaku), [[じゃく]] (jaku)|kun=[[うるおう]] (uruou)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=작|eumhun=|rv=jak|mr=chak|y=cak}}
+
+# {{defn|lang=ko|sort=水03}}
+
+[[fr:汋]]
+[[ko:汋]]
+[[hu:汋]]
+[[pl:汋]]
+[[th:汋]]
+[[zh:汋]]

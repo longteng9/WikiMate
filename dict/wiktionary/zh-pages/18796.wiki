@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=05|sn=8|four=30118|canj=EYT|ids=⿰氵立}}
+
+====References====
+* {{Han ref|kx=0617.090|dkj=17309|dj=1012.070|hdz=31593.020|uh=6CE3|ud=27875|bh=AA5F|bd=43615}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qì
+|c=jap1
+|h=pfs=
+|md=
+|mn=khip
+|w=
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[cry]], [[sob]], [[weep]]
+# [[tears]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=水05}}
+
+# to {{l|en|cry}}, to {{l|en|weep}}
+
+====Readings====
+{{ja-readings
+|goon=[[こう]] (kō) {{non-joyo-reading}}, {{qualifier|historical}} [[こふ]] (kofu)
+|kanon=[[きゅう]] (kyū), {{qualifier|historical}} [[きふ]] (kifu)
+|kun=[[なく]] ([[泣く]], naku), [[なき]] ([[泣き]], naki)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=읍}}
+
+# {{defn|lang=ko|sort=水05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khắp]], [[khấp]], [[lớp]], [[rắp]], [[rập]], [[khóc]]|rs=水05}}
+
+# {{defn|lang=vi}}
+
+[[fr:泣]]
+[[ko:泣]]
+[[hu:泣]]
+[[mg:泣]]
+[[ja:泣]]
+[[no:泣]]
+[[pl:泣]]
+[[ru:泣]]
+[[th:泣]]
+[[zh:泣]]

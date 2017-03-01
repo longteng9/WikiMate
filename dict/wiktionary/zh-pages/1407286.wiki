@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab}}
+
+===Alternative forms===
+* {{l|ja|販女}}
+
+===Etymology 1===
+A compound of the nominalization of the verb {{compound|鬻く|tr1=hisaku|t1=sell|女|tr2=me|t2=woman|lang=ja}}.
+
+====Noun====
+{{ja-noun|ひさきめ}}
+
+# a female peddler
+#* {{RQ:Wamyō Ruijushō|1|105}}
+#*: 俗云販婦'''比佐岐女'''、裨販也
+
+===Etymology 2===
+A compound of the nominalization of the verb {{compound|鬻く|tr1=hisagu|t1=sell|女|tr2=me|t2=woman|lang=ja}}.
+
+====Noun====
+{{ja-noun|ひさぎめ}}
+
+# a female peddler
+
+===References===
+* {{R:Wamyō Ruijushō}}

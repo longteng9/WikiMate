@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|けん|てん|yomi=o}}
+{{wikipedia|lang=ja}}
+{{examples-right|1={{lang|1=ja|sc=Jpan|2={{ruby|1=[春](はる)[美](み)ちゃんもしかして<span style="font-size:150%">[フ](・)[ラ](・)[メ](・)[ン](・)[コ](・)</span>と[勘](かん)[違](ちが)いしてない？}}}}<br>''Harumi-chan moshi ka shite '''FURAMENKO''' to kanchigai shite nai?''<br>Harumi-chan, are you being confused with '''FLAMENCO'''?}}
+
+===Pronunciation===
+{{ja-pron|acc=h|acc2=3|acc3=a|y=ko|けんてん|acc_ref=SMK5,NHK,DJR|acc2_ref=SMK5,NHK,DJR|acc3_ref=SMK5}}
+
+===Noun===
+{{ja-noun|けんてん}}
+
+# {{lb|ja|typography|sort=けんてん}} a [[dot]] or similar [[mark]] [[attach]]ed to a [[character]] to display [[emphasis]]
+
+====Synonyms====
+* {{ja-r|傍%点|ぼう%てん}}
+* {{ja-r|脇%点|わき%てん}}
+
+===References===
+<references/>
+* [https://helpx.adobe.com/indesign/using/formatting-cjk-characters.html#apply_kenten InDesign Help / Format CJK characters]

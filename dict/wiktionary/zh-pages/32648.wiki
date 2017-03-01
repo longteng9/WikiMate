@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|鹍}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=08|sn=19|four=|canj=APHAF}}
+
+# a bird resembling the crane
+
+====References====
+* {{Han ref|kx=1493.060|dkj=47036|dj=2023.120|hdz=74640.090|uh=9D7E|ud=40318}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鹍}}
+
+===Pronunciation===
+{{zh-pron
+|m=kūn
+|c=
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鳥08}}
+
+# {{defn|lang=ja|sort=鳥08}}
+
+====Readings====
+* {{ja-readings|on=[[こん]] (kon), [[うん]] (un)|kun=[[しゃも]] (shamo)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=곤|eumhun=|rv=gon|mr=kon|y=kon}}
+
+# [[swan]]
+
+====Synonyms====
+* {{l|ko|鶤}} (곤, gon)
+* {{l|ko|鵠}} (곡, gog, gok)
+
+[[Category:Hanja readings|곤]]
+
+[[fr:鵾]]
+[[hu:鵾]]
+[[pl:鵾]]
+[[th:鵾]]
+[[zh:鵾]]

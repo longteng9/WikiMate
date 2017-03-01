@@ -1,0 +1,30 @@
+==Japanese==
+{{ja-kanjitab|とう|さん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|とうさん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうさん}}
+# [[corporate]] [[bankruptcy]]
+#: {{ja-usex|円安の影響による企業の倒産|えんやす の えいきょう に よる きぎょう の とうさん|businesses going bankrupt due to a weak yen}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|とうさん}}
+
+# for a business to [[go bankrupt]]
+
+====Conjugation====
+{{ja-suru|とうさん}}
+
+===References===
+<references/>
+
+[[ko:倒産]]
+[[lo:倒産]]
+[[hu:倒産]]
+[[mg:倒産]]
+[[ja:倒産]]
+[[fi:倒産]]
+[[chr:倒産]]
+[[zh:倒産]]

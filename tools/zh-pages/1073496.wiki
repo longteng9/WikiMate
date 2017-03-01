@@ -1,0 +1,37 @@
+{{also|冷卻}}
+==Chinese==
+{{zh-see|冷卻}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|れい|きゃく|yomi=on}}
+
+===Noun===
+{{ja-noun|れいきゃく}}
+
+# [[refrigeration]], the process of transferring heat from an object in order to cool it
+# a drop in temperature
+
+===Verb===
+{{ja-verb-suru|tr=both|れいきゃく}}
+
+# {{lb|ja|transitive|sort=れいきゃく}} [[refrigerate]], [[cool]], [[cool down]]
+# {{lb|ja|intransitive|sort=れいきゃく}} drop in temperature
+
+====Conjugation====
+{{ja-suru|れいきゃく}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=냉각}}
+
+# {{hanja form of|냉각|[[cooling]]}}
+
+[[ko:冷却]]
+[[lo:冷却]]
+[[hu:冷却]]
+[[ja:冷却]]
+[[zh:冷却]]

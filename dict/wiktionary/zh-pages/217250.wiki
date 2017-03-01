@@ -1,0 +1,107 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=pǔtōng
+|c=pou2 tung1
+|c-t=pu2 huung1
+|h=pfs=phû-thûng
+|md=puō-tŭng
+|mn=phó͘-thong
+|w=2phu thon
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[ordinary]]; [[plain]]; [[average]]
+# [[common]]; [[universal]]; [[widespread]]
+
+====Derived terms====
+{{zh-der|普通法|普通話|普通教育|普通名詞|普通人|普通郵票}}
+
+===Descendants===
+{{CJKV|普通|ふつう|보통|phổ thông}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふ|つう|yomi=on}}
+
+===Etymology===
+{{IPAchar|/putuː/}} → {{IPAchar|/fut͡suː/}}
+
+From {{etyl|ltc|ja|sort=ふつう}} compound {{m|zh|普通|tr=pʰuo<sup>X</sup> thuwng|lit=ordinary + through}}. Compare modern {{etyl|hak|-}} ''phû-thûng'', {{etyl|yue|-}} ''pou<sup>2</sup> tung<sup>1</sup>'', {{etyl|cmn|-}} ''pǔtōng''.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|ふつう|acc=0|acc_ref=DJR}}
+
+===Adjective===
+{{ja-adj|infl=na|ふつう}}
+
+# [[common]], [[ordinary]]
+
+====Inflection====
+{{ja-na|ふつう}}
+
+====Usage notes====
+The form {{lang|ja|普通}}{{ja-l|の}} is replacing {{lang|ja|普通な}} in modern Japanese. See the usage notes below.
+
+===Noun===
+{{ja-noun|ふつう}}
+
+# the [[common]], the [[ordinary]], [[nothing special]]
+
+====Usage notes====
+As a noun, it is usually used with the possessive particle {{ja-l|の||no}}, which makes it function as an adjective.
+
+{{lang|ja|普通}} is widely used for a variety of purposes. For example, to display modesty, one can use it respond to flattery (“oh, I’m nothing special”). Similarly, if a restaurant is okay, but not particularly noteworthy, it can be described as {{lang|ja|普通}}.
+
+{{lang|ja|普通}} is also used in various conventional senses – a {{ja-l|普通列車}} is a ''[[local]]'' [[train]] (as opposed to the {{ja-l|特急列車}} or “''special express'' train”), while an average student is a {{lang|ja|普通の}}{{ja-l|学生}} (''futsū no gakusei'').
+
+===See also===
+* {{ja-r|凡才|ぼんさい}}: mediocrity, ordinary ability
+
+===References===
+<references/>
+:* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=보통}}
+
+# {{hanja form of|보통|[[normality]]; [[usually]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Adjective===
+{{head|vi|adjective|sc=Hani}}
+
+# {{han tu form of|{{l|vi|phổ thông}}|[[common]], [[ordinary]]}}
+
+[[zh-min-nan:普通]]
+[[fr:普通]]
+[[ko:普通]]
+[[lo:普通]]
+[[lt:普通]]
+[[li:普通]]
+[[hu:普通]]
+[[mg:普通]]
+[[ja:普通]]
+[[fi:普通]]
+[[chr:普通]]
+[[zh:普通]]

@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|柽}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=13|sn=17|four=46914|canj=DSRG|ids=⿰木聖}}
+
+# [[type]] of [[willow]]
+# [[tamarisk]]
+
+====References====
+* {{Han ref|kx=0556.180|dkj=15650|dj=0945.340|hdz=21299.030|uh=6A89|ud=27273|bh=ECF7|bd=60663}}
+
+----
+
+==Chinese==
+{{zh-forms|s=柽}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chēng
+|c=cing1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|檉柏|檉柳}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木13}}
+
+# {{defn|lang=ja|sort=木13}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei), [[ちょう]] (chō)|kun=[[かわらやなぎ]] (kawarayanagi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=정|eumhun=|rv=jeong|mr=chŏng|y=ceng}}
+
+# {{defn|lang=ko|sort=木13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木13| hanviet = sanh}}
+
+# {{defn|lang=vi|sort=木13}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6a89 Nom Foundation]
+
+[[fr:檉]]
+[[hu:檉]]
+[[pl:檉]]
+[[th:檉]]
+[[vi:檉]]
+[[zh:檉]]

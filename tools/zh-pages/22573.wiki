@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=116|rad=穴|as=08|sn=13|four=30408|canj=JCYOJ}}
+
+# to [[rush]] out of a [[den]]
+# [[rustling]], [[whispering]]
+
+====References====
+* {{Han ref|kx=0866.420|dkj=25561|dj=1295.050|hdz=42734.100|uh=7AA3|ud=31395|bh=DF42|bd=57154}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=sū
+|c=seot1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|屑窣|勃窣|悉窣|窣磕|窣窣|窣地|窸窣|窸窸窣窣}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=穴08}}
+
+# {{defn|lang=ja|sort=穴08}}
+
+====Readings====
+* {{ja-readings|on=[[そつ]] (sotsu), [[そち]] (sochi)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=솔|eumhun=|rv=sol|mr=sol|y=sol}}
+
+# {{defn|lang=ko|sort=穴08}}
+
+[[fr:窣]]
+[[hu:窣]]
+[[mg:窣]]
+[[pl:窣]]
+[[th:窣]]
+[[zh:窣]]

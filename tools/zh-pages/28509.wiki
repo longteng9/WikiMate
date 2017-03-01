@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|辔}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=15|sn=22|canj=VFR|four=22609|ids=⿱𦆕口}}
+
+====References====
+* {{Han ref|kx=1249.370|dkj=38587|dj=1728.280|hdz=53561.090|uh=8F61|ud=36705|bh=C5AF|bd=50607}}
+
+----
+
+==Chinese==
+{{zh-forms|s=辔}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|絲|軎|t1=rope|t2=carriage part|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=pèi
+|c=bei3
+|mn=xm:pì
+|w=2phi
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[bridle]] of [[horse]]
+# [[rein]]s
+
+====Compounds====
+{{zh-der|並轡|奉轡|按轡|攬轡|攬轡澄清|紆轡|絕轡|聯轡|詭銜竊轡|轡勒|轡銜|轡頭|返轡|銜轡|長轡遠御|長轡遠馭|鞍轡|韁轡|頓轡|飛轡}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=車15}}
+
+# {{defn|lang=ja|sort=車15}}
+
+====Readings====
+* {{ja-readings|goon=[[ひ]] (hi)|kanon=[[ひ]] (hi)|kun=[[くつわ]] (kutsuwa), [[たづな]] (tazuna)}}
+
+===Noun===
+{{ja-noun|くつわ}}
+
+# {{l|en|bit|id=metal in horse's mouth}} {{gloss|metal in horse's mouth}}
+
+====Synonyms====
+* {{ja-r|馬銜|はみ}}
+
+[[Category:ja:Horse tack|くつわ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=비|eumhun=고삐}}
+
+# {{defn|lang=ko|sort=車15}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bí]]|rs=車15}}
+
+# {{defn|lang=vi|sort=車15}}
+
+[[fr:轡]]
+[[hu:轡]]
+[[mg:轡]]
+[[ja:轡]]
+[[pl:轡]]
+[[th:轡]]
+[[chr:轡]]
+[[zh:轡]]

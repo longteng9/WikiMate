@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|颔}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=181|rad=頁|as=07|sn=16|four=81686|canj=ORMBC,XORMB}}
+
+# [[chin]], [[jowl]]
+# give nod
+
+====References====
+* {{Han ref|kx=1405.100|dkj=43512|dj=1922.160|hdz=74375.130|uh=9837|ud=38967|bh=C058|bd=49240}}
+
+----
+
+==Chinese==
+{{zh-forms|s=颔}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hàn
+|c=ham5
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|下頷|燕頷虎頭|燕頷虎頸|燕頷虎鬚|虎頭燕頷|頷下之珠|頷下腺|頷聯|頷頤|頷頭|頷首|顑頷|頷骨}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=頁07}}
+
+# {{defn|lang=ja|sort=頁07}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan), [[がん]] (gan)|kun=[[あご]] (ago), [[うなずく]] (unazuku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=암|eumhun=|rv=am|mr=am|y=am}}
+
+# {{defn|lang=ko|sort=頁07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hạm]], [[ham]], [[hàm]], [[hợm]]|rs=頁07}}
+
+# {{defn|lang=vi|sort=頁07}}
+
+[[zh-min-nan:頷]]
+[[fr:頷]]
+[[lo:頷]]
+[[lt:頷]]
+[[hu:頷]]
+[[mg:頷]]
+[[ja:頷]]
+[[pl:頷]]
+[[ro:頷]]
+[[th:頷]]
+[[chr:頷]]
+[[zh:頷]]

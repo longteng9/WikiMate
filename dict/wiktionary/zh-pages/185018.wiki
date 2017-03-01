@@ -1,0 +1,58 @@
+==Chinese==
+{{zh-forms|type=22}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǎikēshìdiǎn
+|c=bak3 fo1 si6 din2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[encyclopedia]]
+
+----
+
+==Japanese==
+
+===Etymology===
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ひゃく|k1=ひゃっ|か|じ|てん|yomi=o}}
+{{compound|百科|t1=[[all]] [[category|categories]]|lang=ja|sort=ひゃっかじてん|事典|t2=[[subject]]-[[book]]|tr1=[[hyakka]]|tr2=[[jiten]]}}
+
+===Pronunciation===
+{{ja-pron|ひゃっか じてん|acc=4|acc_ref=DJR,NHK,SMK5|y=go}}
+
+===Noun===
+{{ja-noun|ひゃっか じてん|hhira=ひやくくわじてん}}
+
+# [[encyclopaedia]]
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+[[Category:ja:Dictionaries|ひゃっかじてん]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=백과사전}}
+
+# {{hanja form of|백과사전|[[encyclopaedia]]}}
+
+[[eo:百科事典]]
+[[ko:百科事典]]
+[[lo:百科事典]]
+[[lt:百科事典]]
+[[hu:百科事典]]
+[[mg:百科事典]]
+[[ja:百科事典]]
+[[ro:百科事典]]
+[[ru:百科事典]]
+[[tl:百科事典]]
+[[zh:百科事典]]

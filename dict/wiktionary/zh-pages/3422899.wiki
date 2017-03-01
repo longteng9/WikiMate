@@ -1,0 +1,37 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+[[File:Brooklyn_Museum_-_Long_Scroll.jpg|thumb|250px|{{lang|ja|巻物}} (''makimono''): a '''horizontal scroll'''.]]
+{{wikipedia|Scroll}}
+</div>
+{{ja-kanjitab|ま|o1=き|もの|yomi=kun}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=まきもの|巻く|alt1=巻き|tr1=maki|t1=rolling|pos1=the {{m|ja|連用形|tr=ren'yōkei||stem or continuative form}} of verb {{ja-l|巻く}} ''maku'', “to roll, to wind”|物|tr2=mono|t2=thing}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|h|ま|きもの}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[ma̠kimo̞no̞]}}
+
+===Alternative forms===
+* {{ja-l|巻き物}}
+
+===Noun===
+{{ja-noun|まきもの}}
+
+# a [[scroll]], a long [[wound-up]] document, painting, or drawing that unrolls [[horizontally]]
+# a [[roll]] of [[cloth]]
+# a [[food]] that has been [[wound]] into a shape resembling a [[scroll]], such as a [[sushi]] roll or a roll of [[scrambled eggs]]
+
+====Synonyms====
+* {{sense|wound-up document, painting, or drawing}} {{ja-r|スクロール}}
+
+====Related terms====
+* {{ja-r|掛物|かけもの}}: a [[hanging]] [[scroll]], a scroll that unrolls [[vertically]] for hanging on a wall
+
+===References===
+<references/>
+
+[[fr:巻物]]
+[[zh:巻物]]

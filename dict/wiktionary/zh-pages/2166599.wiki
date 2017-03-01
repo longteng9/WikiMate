@@ -1,0 +1,38 @@
+{{also|取缔}}
+==Chinese==
+{{zh-forms|s=取缔}}
+
+===Etymology 1===
+{{der|zh|ja|-}} {{m|ja|取締る||to control|tr=torishimaru}}
+
+====Pronunciation====
+{{zh-pron
+|m=qǔdì
+|c=ceoi2 dai3,ceoi2 dai6,ceoi2 tai3
+|mn=xm,qz,tw:chhú-tè/zz:chhí-tè/tw:chhú-thè/zz:chhí-thè
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[ban]]; to [[prohibit]] (publications, customs, etc.); to [[outlaw]]; to [[suppress]] (violators)
+
+=====Synonyms=====
+* {{zh-l|取消}}
+* {{zh-l|撤消}}
+
+===Etymology 2===
+{{zh-see|取替|v}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|と|o1=り|し|o2=まり|yomi=kun}}
+
+===Noun===
+{{ja-noun|とりしまり}}
+# {{alternative form of|取り締まり|lang=ja}}
+
+[[zh-min-nan:取締]]
+[[ja:取締]]

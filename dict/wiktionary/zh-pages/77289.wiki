@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=wàichū血
+|c=ngoi6 ceot1 hyut3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[external]] [[bleeding]]; external [[haemorrhage]]
+
+====Antonyms====
+* {{zh-l|內出血}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|がい|しゅつ|k2=しゅっ|けつ}}
+
+===Etymology===
+From {{ja-r|外|がい|gloss=outside}} + {{ja-r|出血|しゅっけつ|gloss=bleeding}}
+
+===Noun===
+{{ja-noun|がいしゅっけつ}}
+
+# [[external]] [[bleeding]]
+
+====Antonyms====
+* {{ja-r|内出血|ないしゅっけつ}}
+
+===References===
+* {{R:Kojien}}
+
+[[ko:外出血]]
+[[mg:外出血]]
+[[zh:外出血]]

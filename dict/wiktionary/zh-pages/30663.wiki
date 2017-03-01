@@ -1,0 +1,88 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=170|rad=阜|as=07|sn=10|four=78294|canj=NLOMD|ids=⿰⻖余}}
+
+====References====
+* {{Han ref|kx=1352.080|dkj=41669|dj=1854.050|hdz=64132.050|uh=9664|ud=38500|bh=B0A3|bd=45219}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|阜|alt1=阝|余|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=chú
+|c=ceoi4
+|c-t=cui3
+|h=pfs=chhù
+|mn=tî/tû
+|mc=y
+|oc=y
+|cat=v,prep
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[remove]]; to [[get rid of]]
+# to [[exclude]]
+# {{lb|zh|archaic}} to be assigned to a new post; to stop serving in one post, and begin serving in another
+# [[except]]
+# {{lb|zh|math}} to [[divide]]; [[division]]
+
+===Compounds===
+{{zh-der|七除八扣|乘除|併除|免除|切除|別除權|刪除|削除|剔除|剗惡除奸|剗草除根|剗除|剪惡除奸|剪草除根|剪除|割除|剷除|剿除|加減乘除|勦除|勾除|化除|卸除|去除|堂除|大掃除|大除夕|小除夕|屋除|屏除|差除|庭除|廢除|復除|成除服|戒除|所除|手到病除|扣除|扣除額|拆除|拔除|拜除|挖除|振弱除暴|捐除|掃除|掃除天下|排除|排除萬難|摒除|摘除|撤除|擯除|攘除|整除|斬草除根|斷怪除妖|斷除|日月其除|服除|杜漸除微|東蕩西除|根除|歲除|歸除|消除|清除|滌除|灶上騷除|為民除害|為民除患|真除|破除|祓除|祛蠹除奸|祛除|祛風除熱|禁姦除猾|糞除|罪以功除|美除|翦草除根|翦除|聽除|脫除|興利除害|興利除弊|芟除|藥到病除|蠲除|被除數|西除東蕩|解除|討逆除暴|辟惡除患|退除役|遷除|鏟除|開除|防弊除害|防除|除凶去害|除卻|除去|除召|除名|除喪|除地|除塵|除夕|除外|除夜|除奸|除孝|除害|除弊|除役|除息|除患興利|除惡務本|除惡務盡|除惡扶善|除拜|除授|除掉|除數|除日|除暴|除暴安良|除書|除月|除服|除根|除權|除權判決|除此之外|除殘去穢|除汙|除汙去垢|除汰|除法|除溼|除溼機|除疾遺類|除籍|除紅捉綠|除罪|除舊布新|除舊更新|除草|除草劑|除號|除蟲菊|除阻|除霜|除霧器|除靈|除非|階除|革除|驅除}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=阜07}}
+
+# {{defn|lang=ja|sort=阜07}}
+
+====Readings====
+* {{ja-readings|goon=[[じょ]] (jo)|kanon=[[ちょ]] (cho) {{non-joyo-reading}}|kanyoon=[[じ]] (ji)|kun=[[のぞく]] (nozoku), [[はらう]] (harau)}}
+
+====Compounds====
+* {{ja-r|掃除|そうじ}}: [[clean]], [[sweep]] up
+* {{ja-r|駆除|くじょ}}: exterminate
+* {{ja-r|削除|さくじょ}}: delete
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=제|eumhun=[[덜다|덜]]|rv=je|mr=che|y=cey}}
+
+# {{defn|lang=ko|sort=阜07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trừ]], [[chờ]], [[chừ]], [[chừa]], [[hờ]], [[khừ]], [[xờ]], [[dơ]], [[giờ]]|rs=阜07}}
+
+# {{defn|lang=vi|sort=阜07}}
+
+[[fr:除]]
+[[ko:除]]
+[[hu:除]]
+[[mg:除]]
+[[ja:除]]
+[[no:除]]
+[[pl:除]]
+[[ru:除]]
+[[th:除]]
+[[chr:除]]
+[[zh:除]]

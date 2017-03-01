@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|せき|しゅう|ごう|yomi=o}}
+
+===Noun===
+{{ja-noun|せきしゅうごう}}
+
+# {{lb|ja|set theory}} [[intersection]]
+
+====Synonyms====
+* {{l|ja|積}}
+
+====See also====
+* {{l|ja|和集合}}
+* {{l|ja|差集合}}
+* {{l|ja|対称差集合}}
+
+[[Category:ja:Set theory|せきしゅうごう]]
+
+[[mg:積集合]]

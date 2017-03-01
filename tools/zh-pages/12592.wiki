@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|口臭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=10|sn=13|four=66034|canj=RHUK|ids=⿰口臭}}
+
+====References====
+* {{Han ref|kx=0201.360|dkj=04048|dj=0424.270|hdz=10668.120|uh=55C5|ud=21957|bh=B6E5|bd=46821}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han simp|齅|f=鼻|t=口}}; in current form: {{Han compound|口|臭|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xiù
+|c=cau3,hung3
+|mn=qz,xm,zz:hiù
+|mn_note=hiu - unknown dialect
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[smell]]; to [[scent]]
+
+===Compounds===
+{{zh-der|嗅覺|嗅覺器}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口10}}
+
+# smell (sniff)
+
+====Readings====
+* {{ja-readings|on=[[きゅう]] (kyū)|kun=[[かぐ]] ([[嗅ぐ]], kagu)}}
+
+====Compounds====
+* {{ja-r|嗅覚|きゅうかく}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=후}}
+
+# {{defn|lang=ko|sort=口10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khứu]]|rs=口10}}
+
+# {{defn|lang=vi|sort=口10}}
+
+[[fr:嗅]]
+[[ko:嗅]]
+[[lt:嗅]]
+[[li:嗅]]
+[[hu:嗅]]
+[[mg:嗅]]
+[[ja:嗅]]
+[[no:嗅]]
+[[pl:嗅]]
+[[ru:嗅]]
+[[th:嗅]]
+[[chr:嗅]]
+[[zh:嗅]]

@@ -1,0 +1,52 @@
+{{also|选择|選擇}}
+==Japanese==
+{{ja-kanjitab|せん|じゃく|k2=ちゃく|yomi=irr|sort=せんちゃく}}
+{{ja-kanjitab|せん|じゃく|yomi=o}}
+{{ja-kanjitab|せん|たく|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=ko|せんたく}}
+{{ja-pron|acc=h|y=go|せんじゃく}}
+{{ja-pron|acc=h|y=i|せんちゃく}}
+
+===Noun===
+{{ja-noun|せんたく|kyu=選擇}}<br>{{ja-altread|hira=せんじゃく}}<br>{{ja-altread|hira=せんちゃく}}
+
+# a [[selection]]; a [[choice]]; an [[option]]
+#* '''2002''', episode [[w:List of Hellsing episodes|Hellfire]] of the [[w:Hellsing (TV series)|Hellsing anime]]
+#*: {{ja-usex|お前の'''選択'''だ。|^おまえ の '''せんたく''' だ。|It's your '''choice'''.}}
+
+====Compounds====
+* {{ja-r|選択肢|せんたくし|gloss=option}}
+
+===Verb===
+{{ja-verb-suru|せんたく|kyu=選擇}}
+
+# to [[select]]; to [[choose]]
+#* {{quote-book
+|language=Japanese
+|location=Tokyo
+|publisher=Shogakukan
+|author={{w|Mohiro Kitoh}}
+|title={{w|ぼくらの|{{lang|ja|ぼくらの}}|lang=ja}}
+|trans-title={{w|Bokurano: Ours|Our}}
+|date=February 1 2007
+|isbn=4-09-188349-4
+|volume=6
+|page=55
+|chapter={{ruby|{{lang|ja|「[切](きり)[江](え)[洋](よう)[介](すけ)」③}}}}
+|trans-chapter="Yōsuke Kirie" ③
+|passage={{ja-usex|イルカの死を悲しんでも、家%畜の豚の死にいちいち涙を流す人はいない。それはそこに順%番をつけているからよね。だから知%人の死と他%人の死、どちらかを'''選%択しなくて'''はいけなくなったら、私は迷わず他%人の死を選ぶ。|^イルカ の し を かなしんで も、か%ちく の ぶた の し に いち.いち なみだ を ながす ひと は いない。^それ は そこ に じゅん%ばん を つけている から よ ね。^だから ち%じん の し と た%じん の し、どちら か を '''せん%たくしなくて''' は いけなく なったら、わたし は まよわず た%じん の し を えらぶ。|People may feel sad when a dolphin dies, but no one sheds tears over a livestock pig. It's because those things aren't equally important to them. That's why, if I have to '''choose''' who to die between a friend and a stranger, I will always choose the the stranger.}}}}
+====Conjugation====
+{{ja-suru|せんたく}}
+
+====Synonyms====
+* {{ja-r|選ぶ|えらぶ}}
+
+[[ko:選択]]
+[[hu:選択]]
+[[mg:選択]]
+[[ja:選択]]
+[[sv:選択]]
+[[chr:選択]]
+[[zh:選択]]

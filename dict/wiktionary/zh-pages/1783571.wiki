@@ -1,0 +1,32 @@
+{{also|斷食}}
+==Chinese==
+{{zh-see|斷食}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|だん|じき|yomi=o}}
+
+===Etymology===
+{{compound|断|t1=abstain|食|t2=eating|lang=ja|sort=たんじき'}}.
+
+===Noun===
+{{ja-noun|だんじき|kyu=斷食}}
+
+# [[fast]], [[fasting]]. Abstaining from food.
+
+===Verb===
+{{ja-verb-suru|だんじき|kyu=斷食}}
+
+# to [[fast]], to abstain from food
+
+====Conjugation====
+{{ja-suru|だんじき}}
+
+====Related terms====
+* {{l|ja|断食月}}
+* {{l|ja|絶食}}
+
+[[hu:断食]]
+[[mg:断食]]
+[[zh:断食]]

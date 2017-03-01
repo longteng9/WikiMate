@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=11|sn=14|four=22202|canj=UIIH|ids=⿱山參}}
+
+# [[uneven]]
+# [[name]] of a [[mountain]] [[range]] ([[w:Wudang Mountains|Wudang Mountains]] or Wudangshan)
+
+====References====
+* {{Han ref|kx=0318.160|dkj=08398|dj=0618.340|hdz=10796.030|uh=5D7E|ud=23934|bh=E1AD|bd=57773}}
+* [http://www.zdic.net/zd/zi/ZdicE5ZdicB5ZdicBE.htm zdic.net (Han Dian)]
+
+----
+
+==Chinese==
+{{zh-forms|s=㟥}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cēn
+|c=cam1,caam1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|嵾嵯}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山11}}
+
+# [[uneven]]
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin), [[さん]] (san), [[そん]] (son)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=참|eumhun=|rv=cham|mr=ch'am|y=cham}}
+
+# [[uneven]]
+
+[[fr:嵾]]
+[[ky:嵾]]
+[[hu:嵾]]
+[[pl:嵾]]
+[[th:嵾]]
+[[zh:嵾]]

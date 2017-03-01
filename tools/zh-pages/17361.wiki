@@ -1,0 +1,122 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=04|sn=8|four=48927|canj=DCSH|ids=⿰木分}}
+
+===References===
+* {{Han ref|kx=0515.040|dkj=14534|dj=0903.040|hdz=21173.040|uh=678C|ud=26508|bh=CCDE|bd=52446}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fén
+|c=fan1,fan4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[variety]] of [[elm]] with [[small]] [[seed]]s
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木04}}
+
+# a [[wooden]] [[shake]] {{gloss|as used in roofing}}
+# a [[pine]] tree {{qualifier|rare}}
+
+====Readings====
+{{ja-readings
+|goon=[[ぶん]] (bun)
+|kanon=[[ふん]] (fun)
+|kun=[[そぎ]] (sogi), [[まつ]] (matsu)
+|nanori=[[すぎ]] (sugi), [[へぎ]] (hegi)
+}}
+
+{{wikipedia|lang=ja|こけら葺}}
+[[File:Wooden shingles Sweden.JPG|thumb|250px|{{lang|ja|枌}}: ''sogi'' on a roof]]
+{{wikipedia|Shake_(shingle)|Shake (shingle)}}
+
+===Etymology 1===
+Abbreviation of {{l|ja|枌板}}, {{l|ja|削板|tr=''sogiita''}}, itself a compound of {{m|ja|削ぎ|tr=sogi||shaving, chipping|pos=stem noun form of verb {{l|ja|削ぐ|tr=sogu}}, “to chip or shave off”}} + {{m|ja|板|tr=ita||board, plank}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[so̞ɡi]|[so̞ŋi]}}
+
+====Alternative forms====
+* {{l|ja|削}}, {{l|ja|削ぎ}}
+
+====Noun====
+{{ja-noun|そぎ|hhira=そき}}
+
+# a [[wooden]] [[shake#Noun|shake]] or large [[shingle]]: a thin [[board]] or [[plank]] of wood chipped or shaved off a larger piece and used as [[roofing]] or [[siding]]
+
+=====Synonyms=====
+* {{l|ja|削ぎ板}}, {{l|ja|削板}}, {{l|ja|殺ぎ板}}, {{l|ja|殺板}}, {{l|ja|枌板|tr={{l|ja|そぎいた}}, ''{{l|ja|sc=Latn|sogiita}}''; {{l|ja|そぎた}}, ''{{l|ja|sc=Latn|sogita}}''}}
+
+=====Related terms=====
+* {{l|ja|杮|tr={{l|ja|こけら}}, ''{{l|ja|sc=Latn|kokera}}''}}: wood chips; a [[shingle]] (smaller than a ''sogi'')
+* {{l|ja|杮葺|tr={{l|ja|こけらぶき}}, ''{{l|ja|sc=Latn|kokerabuki}}''}}: [[shingling]]; a [[shingled]] [[roof]]
+
+===Etymology 2===
+Uncommon alternate spelling for {{m|ja|松|tr=matsu||pine tree}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ma̠t͡sɯᵝ]|[ma̠t͡sɯ̥ᵝ]}}
+
+====Noun====
+{{ja-noun|まつ}}
+
+# {{alternative spelling of|lang=ja|松|dot=:}} {{lb|ja|rare|sort=まつ}} a [[pine]] tree
+
+=====Usage notes=====
+Seldom used. The spelling {{l|ja|松}} is much more common.
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 枌]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[분]]|eumhun=|rv=bun|mr=pun|y=pun}}
+
+# {{defn|lang=ko|sort=木04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木04|hanviet=phần}}
+
+# {{defn|lang=vi|sort=木04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=678c Nom Foundation]
+
+[[fr:枌]]
+[[ko:枌]]
+[[hu:枌]]
+[[ja:枌]]
+[[pl:枌]]
+[[th:枌]]
+[[zh:枌]]

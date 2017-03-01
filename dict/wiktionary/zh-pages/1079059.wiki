@@ -1,0 +1,59 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǎwò
+|c=baa2 ngaak1
+|mn=pá-ak
+|ma=Zh-bawò.ogg
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|archaic}} to [[shake hands]]
+# to [[grasp]]; to [[control]]; to [[seize]]
+# to have a firm [[hold]] on a situation; to be [[sure]] of something
+
+===Noun===
+{{zh-noun}}
+
+# [[assurance]]; [[certainty]]
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|は|あく|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|はあく|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|は.あく}}
+
+# control
+# [[grasp]] {{gloss|understanding}}
+
+===Verb===
+{{ja-verb-suru|は.あく}}
+
+# to have under control
+# to [[grasp]] {{gloss|to understand}}
+
+====Conjugation====
+{{ja-suru|は.あく}}
+
+===References===
+<references/>
+
+[[zh-min-nan:把握]]
+[[ko:把握]]
+[[hu:把握]]
+[[mg:把握]]
+[[ja:把握]]
+[[chr:把握]]
+[[zh:把握]]

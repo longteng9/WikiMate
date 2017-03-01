@@ -1,0 +1,109 @@
+{{character info/new}}
+{{also|担}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=13|sn=16|four=57061|canj=QNCR|ids=⿰扌詹}}
+
+====Descendants====
+* [[担]]
+
+====References====
+* {{Han ref|kx=0459.010|dkj=12828|dj=0807.230|hdz=31971.030|uh=64D4|ud=25812|bh=BEE1|bd=48865}}
+
+----
+
+==Chinese==
+{{zh-forms|s=担}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|alt1=扌|t1=hand|詹|ls=psc|c1=s|c2=p}} – to carry by hand.
+
+===Pronunciation 1===
+{{zh-pron
+|m=dān
+|c=daam1
+|h=pfs=tâm
+|md=dăng
+|mn=taⁿ/tam
+|mn_note=taⁿ - vernacular; tam - literary
+|w=1te,1'ne
+|w_note=1'ne - variant, possibly influenced by {{zh-l|*拿}}, used in e.g. {{zh-l|*擔伊做脫}}
+|mc=1
+|oc=1,1
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[carry]] on a [[shoulder pole]]
+# to [[bear]]; to [[shoulder]]; to [[undertake]]
+
+====Compounds====
+{{zh-der|fold=1|慷慨擔承|受怕擔憂|分擔|擔待|擔夫|擔險|擔心|擔任|擔保權|牽羊擔酒|承擔|擔飢受凍|擔簦|擔保|擔孤受寡|擔荷|擔雪填井|擔驚受怕|擔架|擔湯擔水|擔人情|擔雪塞井|擔糞|擔風袖月|擔帶|擔保物權|擔隔夜憂|擔誤|擔干係|沒擔當|擔免|擔保放款|擔不起|擔酒牽羊|擔憂|擔錯|擔湯運水|擔驚受恐|擔仗|擔負公徒|擔閣|擔綱|擔干紀|擔肩|擔負|擔扶|擔擱|擔水|擔保品|擔不是|析圭擔爵|枉擔虛名|擔當不過|擔驚|擔饒|擔雪填河|擔當不起|擔當|擔戴|擔承|荷擔|連帶負擔|躡蹻擔簦|訴訟擔保|負笈擔簦|負擔}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=dàn
+|c=daam3
+|h=pfs=tam
+|md=dáng
+|mn=tàⁿ
+|w=2te
+|mc=2
+|oc=2+3,2
+|cat=n,cls
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[carrying]] [[pole]] with [[load]]s on [[both]] [[end]]s
+# [[burden]]; [[load]]; [[responsibilities]]
+# ''[[dan]]''; a unit of [[weight]] equal to 50 [[kilogram]]s
+# {{zh-classifier|things carried on a [[shoulder pole]]|t=[[load]]}}
+
+====Compounds====
+{{zh-der|fold=1|卸擔子|仙人擔|家無擔石|公擔|剃頭擔子|擔杖|春盛擔子|挑擔子|石擔|擔兒|挑擔|擔腳|擔子|擔石|挑重擔|生意擔子|擔擔麵|擔仔麵|擔子菌|磨擔|貨郎擔兒|調書擔兒|肩擔之家|趕飯擔|重擔|籮擔|扁擔}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手13}}
+
+# {{defn|lang=ja|sort=手13}}
+
+====Readings====
+* {{ja-readings|goon=[[たん]] (tan)|kanon=[[たん]] (tan)|on=[[けつ]] (ketsu), [[せん]] (sen)|kun=[[になう]] (ninau), [[かつぐ]] (katsugu), [[おう]] (ou)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=담|eumhun=|rv=dam|mr=tam|y=tam}}
+
+# {{defn|lang=ko|sort=手13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手13|hanviet=[[đâm]], [[đảm]], [[tạ]]}}
+
+# {{defn|lang=vi|sort=手13}}
+
+[[zh-min-nan:擔]]
+[[fr:擔]]
+[[ko:擔]]
+[[hu:擔]]
+[[mg:擔]]
+[[ja:擔]]
+[[pl:擔]]
+[[th:擔]]
+[[zh:擔]]

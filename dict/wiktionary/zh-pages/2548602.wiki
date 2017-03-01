@@ -1,0 +1,44 @@
+==Japanese==
+{{ja-kanjitab|てん|かん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|てんかん|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|kyu=轉換|てんかん|hhira=てんくわん}}
+
+# [[change]]
+#: {{ja-usex|発想の'''転換'''が必要なときが来ている。|はっそう の '''てんかん''' が ひつよう な とき が きて いる。|It is time to '''change''' our way of thinking.}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|音位転換|おんいてんかん}}: [[metathesis]] {{gloss|the transposition of letters, syllables or sounds within a word}}
+* {{ja-r|形質転換|けいしつてんかん}}
+* {{ja-r|人口転換|じんこうてんかん}}
+* {{ja-r|性転換|せいてんかん}}: [[sex change]]
+* {{ja-r|転換株式|てんかんかぶしき}}
+* {{ja-r|転換期|てんかんき}}
+* {{ja-r|転換社債|てんかんしゃさい}}
+* {{ja-r|転換性障害|てんかんせいしょうがい}}
+* {{ja-r|転換制度|てんかんせいど}}
+* {{ja-r|転換法|てんかんほう}}
+* {{ja-r|転換炉|てんかんろ}}
+* {{ja-r|配置転換|はいちてんかん}}
+* {{ja-r|方向転換|ほうこうてんかん}}
+{{der-bottom}}
+
+===Verb===
+{{ja-verb-suru|kyu=轉換|てんかん|hhira=てんくわん}}
+
+# [[convert]], [[change]], [[divert]]
+
+====Conjugation====
+{{ja-suru|てんかん}}
+
+===References===
+<references/>
+
+[[hu:転換]]
+[[mg:転換]]
+[[ja:転換]]
+[[zh:転換]]

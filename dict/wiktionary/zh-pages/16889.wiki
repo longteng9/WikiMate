@@ -1,0 +1,61 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=70|rad=方|as=08|sn=12|four=08213|canj=YSOLO|ids=⿸⿰方𠂉兆}}
+
+====References====
+* {{Han ref|kx=0484.120|dkj=13668|dj=0846.100|hdz=32183.010|uh=65D0|ud=26064|bh=D97D|bd=55677}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|㫃|兆|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhào
+|c=siu6
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[embroidered]] [[pennant]]
+
+====Compounds====
+{{zh-der|丹旐}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=方08}}
+
+# an embroidered pennant
+
+====Readings====
+* {{ja-readings|on=[[ちょう]] (chō), [[じょう]] (jō)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}
+
+# [[기]]: banner, flag
+
+[[fr:旐]]
+[[hu:旐]]
+[[pl:旐]]
+[[th:旐]]
+[[zh:旐]]

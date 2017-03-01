@@ -1,0 +1,43 @@
+{{also|采集}}
+==Chinese==
+{{zh-forms|s=采集|t2=采集}}
+
+===Pronunciation===
+{{zh-pron
+|m=cǎijí
+|c=coi2 zaap6
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[gather]]; to [[collect]]; to [[harvest]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|さい|しゅう|yomi=on}}
+
+===Noun===
+{{ja-noun|さいしゅう}}
+
+# [[gathering]], [[collection]]
+#: {{ja-usex|昆虫（植物）'''採集'''に出かけた。|こんちゅう （しょくぶつ） '''さいしゅう''' に でかけた。|We went out to collect insects (plants).}}
+
+===Verb===
+{{ja-verb-suru|さいしゅう}}
+
+# [[collect]], [[gather]], [[pick]]
+
+====Conjugation====
+{{ja-suru|さいしゅう}}
+
+[[zh-min-nan:採集]]
+[[ko:採集]]
+[[hu:採集]]
+[[mg:採集]]
+[[ja:採集]]
+[[zh:採集]]

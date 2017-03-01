@@ -1,0 +1,32 @@
+==Japanese==
+{{ja-kanjitab|あん|か|yomi=o}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|あんか|kyu=安價}}
+
+# [[inexpensive]] (''with high quality'')
+# {{lb|ja|archaic}} [[cheap]] (''with low quality'')
+
+====Synonyms====
+* {{ja-r|廉価|れんか}}
+* {{ja-r|低価格|ていかかく}}
+* {{ja-r|手頃|てごろ}}
+* {{ja-r|安上がり|やすあがり}}
+
+====Antonyms====
+* {{ja-r|高価|こうか}}
+
+====Inflection====
+{{ja-na|安価|あんか}}
+
+===Noun===
+{{ja-noun|あんか|kyu=安價}}
+
+# [[inexpensiveness]], low [[price]]
+
+[[lo:安価]]
+[[mg:安価]]
+[[fj:安価]]
+[[ja:安価]]
+[[chr:安価]]
+[[zh:安価]]

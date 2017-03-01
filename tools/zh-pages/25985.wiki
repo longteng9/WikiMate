@@ -1,0 +1,139 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=07|sn=13|four=57154|canj=LIHEJ}}
+
+====References====
+* {{Han ref|kx=1084.060|dkj=33088|dj=1551.230|hdz=42857.070|uh=8702|ud=34562|bh=B8C1|bd=47297}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han simp|蠭}}. {{Han compound|虫|t1=insect|夆|ls=psc|c1=s|c2=p}} – a kind of insect.
+
+===Etymology===
+Sino-Tibetan; cognate with {{cog|bo|བུང་བ||bee}}. May be ultimately of onomatopoeic origin. Compare {{cog|mkh-pro|*huŋ|*ʔu(ə)ŋ ~ hu(ə)ŋ|bee, wasp, hornet}}, whence {{cog|vi|ong||bee}}.
+
+===Pronunciation===
+{{zh-pron
+|m=fēng
+|c=fung1
+|h=pfs=phûng/s:fûng
+|md=pŭng
+|mn=phang/hong
+|mn_note=phang - vernacular; hong - literary
+|w=1fon
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{w|Apoidea}} ([[wasp]]s and [[bee]]s)
+# [[swarm]]
+
+===Compounds===
+{{zh-der|蜂巢|蜂刺|蜂毒|蜂房|蜂糕|蜂集|蜂聚|蜂蠟|蜂蜜|蜂鳴器|蜂鳥|蜂農|蜂起|蜂王|蜂王漿|蜂窩|蜂窩煤|蜂舞|蜂箱|蜂響器|蜂擁|蜂子|一窩蜂|剔蠍撩蜂|吐飯成蜂|土蜂|女王蜂|寄生蜂|小蜂|山蜂|工蜂|招蜂引蝶|捅馬蜂窩|掇蜂譖子|撩蜂吃螫|撩蜂撥刺|浪蝶游蜂|浪蝶狂蜂|熊蜂|狂蜂浪蝶|狼猛蜂毒|玄狐蜂|盜賊蜂起|稷蜂社鼠|細腰蜂|胡蜂|葉蜂|虎頭蜂|蛇口蜂針|蜂出|蜂午並起|蜂屯蟻聚|蜂巢胃|蜂擁而上|蜂擁而至|蜂湧|蜂湧而出|蜂準|蜂炮|蜂王乳|蜂目豺聲|蜂窩兒|蜂糖|蜂腰|蜂腰削背|蜂膠|蜂蒙|蜂蠆有毒|蜂衙|蜂門|蜂黃|蜜蜂|蝶粉蜂黃|螞蜂|螞蜂兒子|蟻聚蜂屯|蠟蜂|赤眼卵蜂|遊蜂戲蝶|遊蜂浪蝶|鋸蜂|長腳蜂|隧蜂|雄蜂|雌蜂|青蜂|養蜂|馬蜂|鹽水蜂炮|麇集蜂萃|黃蜂}}
+
+===Descendants===
+{{CJKV||ほう|봉|phong}}
+''Others'':
+* Lao: {{l|lo|ເຜິ້ງ||bee}}
+* Thai: {{l|th|ผึ้ง||bee}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫07}}
+
+# [[bee]], [[wasp]], [[hornet]]
+
+====Readings====
+{{ja-readings
+|goon=[[ふ]] (fu), [[ふう]] (fū)
+|kanon=[[ほう]] (hō)
+|kun=[[はち]] (hachi)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|蜂起|ほうき}}: [[rebellion]], [[uprising]], [[revolt]]
+{{der-bottom}}
+
+===Etymology===
+{{wikipedia|lang=ja|ハチ}}
+{{ja-kanjitab|はち|yomi=k}}
+{{IPAchar|/pati/}} → {{IPAchar|/fati/}} → {{IPAchar|/fat͡ɕi/}} → {{IPAchar|/hat͡ɕi/}}
+
+From {{etyl|ojp|ja|sort=はち}}. Possibly cognate with {{cog|ko|벌||bee, wasp, hornet}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kun|はち|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|はち|ハチ}}
+
+# a [[bee]], a [[wasp]], a [[hornet]] or the like
+# {{lb|ja|zoology|sort=はち}} a [[wasp]]
+
+====Derived terms====
+* {{ja-r|花%蜂|ハナ%バチ|[[bee]]}}
+* {{ja-r|蜜%蜂|ミツ%バチ|[[honeybee]]}}
+* {{ja-r|雀%蜂|スズメ%バチ}}, {{ja-r|胡%蜂|スズメ%バチ|[[yellow jacket]]}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|はち]]
+[[Category:ja:Insects|はち]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=봉|rv=bong|mr=pong|y=pong|eumhun=벌|ehrv=beol|ehmr=pŏl|ehy=pel}}
+
+# {{defn|lang=ko|sort=虫07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phong]], [[ong]]|rs=虫07}}
+
+# {{defn|lang=vi|sort=虫07}}
+
+[[zh-min-nan:蜂]]
+[[el:蜂]]
+[[es:蜂]]
+[[fr:蜂]]
+[[ko:蜂]]
+[[lo:蜂]]
+[[la:蜂]]
+[[lt:蜂]]
+[[li:蜂]]
+[[hu:蜂]]
+[[mg:蜂]]
+[[ja:蜂]]
+[[no:蜂]]
+[[pl:蜂]]
+[[ro:蜂]]
+[[ru:蜂]]
+[[fi:蜂]]
+[[sv:蜂]]
+[[tl:蜂]]
+[[th:蜂]]
+[[chr:蜂]]
+[[tr:蜂]]
+[[vi:蜂]]
+[[zh:蜂]]

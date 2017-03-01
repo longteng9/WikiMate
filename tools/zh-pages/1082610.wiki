@@ -1,0 +1,67 @@
+{{also|标准|標准}}
+==Chinese==
+{{zh-forms|s=标准|t2=標准}}
+
+===Pronunciation===
+{{zh-pron
+|m=biāozhǔn
+|c=biu1 zeon2
+|h=pfs=phêu-chún
+|md=biĕu-cūng
+|mn=phiau-chún/piau-chún
+|w=1piau tsen
+|mc=1,1
+|oc=1,1;1,1
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[standard]]; [[criterion]]
+#: {{zh-x|法定 標準|legal '''standard'''}}
+#: {{zh-x|評分 標準|scoring '''criteria'''}}
+#: {{zh-x|合乎 標準|to conform to the '''standard'''}}
+#: {{zh-x|統一 標準|to unify '''standards'''}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[standard]]
+#: {{zh-x|標準 的 普通話|standard Mandarin}}
+
+===Derived terms===
+{{zh-der|標準大氣壓|標準粉|標準化|標準化考試|標準間|標準件|標準時|標準時區|標準像|標準音|標準語|生活標準}}
+
+===Descendants===
+{{CJKV|標準|ひょうじゅん|표준|tiêu chuẩn}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひょう|じゅん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc_ref=NHK|acc=0|ひょうじゅん}}
+
+===Noun===
+{{ja-noun|ひょうじゅん}}
+
+# [[standard]], [[level]], the mark, [[norm]]
+
+====Derived terms====
+* {{ja-r|標準化|ひょうじゅんか}}
+* {{ja-r|標準語|ひょうじゅんご}}
+
+===References===
+<references/>
+
+[[zh-min-nan:標準]]
+[[ko:標準]]
+[[hu:標準]]
+[[mg:標準]]
+[[ja:標準]]
+[[chr:標準]]
+[[zh:標準]]

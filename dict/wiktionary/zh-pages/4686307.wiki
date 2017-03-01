@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms|type=21}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=pángguāngyán
+|c=pong4 gwong1 jim4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|pathology}} [[cystitis]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ぼう|こう|えん|yomi=o}}
+
+===Etymology===
+{{suffix|lang=ja|sort=ほうこうえん'|膀胱|tr1=bōkō|t1=urinary bladder|炎|tr2=en|t2=inflammation}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|ぼうこうえん|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ぼうこうえん|hhira=ばうくわうえん}}
+
+# {{lb|ja|pathology|sort=ほうこうえん'}} [[cystitis]]
+
+===References===
+<references/>
+
+[[ko:膀胱炎]]
+[[zh:膀胱炎]]

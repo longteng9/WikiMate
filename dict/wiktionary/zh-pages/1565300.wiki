@@ -1,0 +1,74 @@
+{{also|治疗}}
+==Chinese==
+{{zh-forms|s=治疗}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhìliáo
+|c=zi6 liu4
+|h=pfs=chhṳ-liàu
+|mn=xm,zz,tw:tī-liâu/qz:tǐ-liâu
+|ma=y
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[treat]]
+
+===Noun===
+{{zh-noun}}
+
+# [[treatment]]; [[therapy]]
+#: {{zh-x|接受 治療|to accept '''treatment'''}}
+#: {{zh-x|拒絕 治療|to refuse '''treatment'''}}
+
+====See also====
+* {{zh-l|治癒}}
+
+====Derived terms====
+{{zh-der|精神治療|物理治療}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ち|りょう|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|ちりょう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ちりょう}}
+
+# medical {{l|en|treatment|id=medical care for an illness or injury}}
+# [[cure]]
+
+====Derived terms====
+* {{ja-r|鍼治療|しんちりょう}}: [[acupuncture]]
+
+===Verb===
+{{ja-verb-suru|ちりょう}}
+
+# [[treat]] (medically)
+# [[cure]]
+
+====Conjugation====
+{{ja-suru|ちりょう}}
+
+===References===
+<references/>
+
+[[zh-min-nan:治療]]
+[[cs:治療]]
+[[ko:治療]]
+[[lo:治療]]
+[[hu:治療]]
+[[mg:治療]]
+[[ja:治療]]
+[[fi:治療]]
+[[th:治療]]
+[[chr:治療]]
+[[zh:治療]]

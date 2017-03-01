@@ -1,0 +1,80 @@
+{{also|资本}}
+==Chinese==
+{{zh-forms|s=资本}}
+
+===Pronunciation===
+{{zh-pron
+|m=zīběn
+|ma=Zh-ziben.ogg
+|c=zi1 bun2
+|h=pfs=chṳ̂-pún
+|md=cṳ̆-buōng
+|mn=xm,zz,tw:chu-pún/qz:chir-pún
+|w=1tsr pen
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|economics|business|finance}} [[capital]]
+#: {{zh-x|實收 資本|paid-in '''capital'''}}
+# [[right]]; [[privilege]]; [[prerogative]]
+#: {{zh-x|吹噓 的 '''資本'''|[[bragging rights|bragging '''rights''']]}}
+
+====See also====
+* {{zh-l|資產}}
+
+====Derived terms====
+{{zh-der|買辦資本|資本家|資本階級|資本密集|資本密集型|資本市場|資本主義}}
+
+===Descendants===
+{{CJKV|資本|しほん|자본|tư bản}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|ほん|yomi=o}}
+
+===Noun===
+{{ja-noun|しほん}}
+
+# {{lb|ja|economics|business|finance|sort=しほん}} [[capital]]
+
+====Derived terms====
+* {{l|ja|資本主義}}
+* {{l|ja|資本家}}
+* {{l|ja|資本金}}
+
+[[Category:ja:Economics|しほん]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=자본}}
+
+# {{hanja form of|자본|(economics, business, finance) [[capital]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|tư bản|(economics, business, finance) [[capital]]}}
+
+[[zh-min-nan:資本]]
+[[fr:資本]]
+[[ko:資本]]
+[[hu:資本]]
+[[mg:資本]]
+[[fj:資本]]
+[[ja:資本]]
+[[km:資本]]
+[[chr:資本]]
+[[zh:資本]]

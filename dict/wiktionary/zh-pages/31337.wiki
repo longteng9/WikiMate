@@ -1,0 +1,59 @@
+{{character info/new}}
+{{also|食|𩙿}}
+==Translingual==
+{{Han simplified forms|𩙿|飠|饣}}
+===Han character===
+{{Han char|rn=184|rad=食|as=00|sn=9|four=|canj=OIAI}}
+
+# Kangxi radical 184 "eat"
+
+====References====
+* {{Han ref|kx=1415.291|hdz=74440.011|uh=98E0|ud=39136}}
+
+----
+
+==Chinese==
+{{zh-forms|s=饣|t2=𩙿}}
+
+===Pronunciation===
+{{zh-pron
+|m=shí
+|c=
+|mc=
+|oc
+|ma=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=r|rs=飠00}}
+
+# KangXi radical 184 "eat, food"
+
+====Readings====
+{{ja-readings|kun=[[しょくへん]] (shokuhen)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thực]]|rs=食00}}
+
+# {{defn|lang=vi|sort=食00}}
+
+[[fr:飠]]
+[[ko:飠]]
+[[pl:飠]]
+[[ta:飠]]
+[[th:飠]]
+[[zh:飠]]

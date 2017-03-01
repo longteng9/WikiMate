@@ -1,0 +1,48 @@
+{{also|單位|单位}}
+==Japanese==
+{{ja-kanjitab|たん|い|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=たんい}} {{m|ltc|單位|tr=tan hwij<sup>H</sup>}}
+
+===Pronunciation===
+{{ja-pron|たんい|y=o|acc=1}}
+
+===Noun===
+{{ja-noun|たんい|kyu=單位}}
+
+# [[unit of measure]]
+# [[unit]] {{gloss|an organized group}}
+# academic [[credit]]
+
+====Hyponyms====
+* {{ja-r|長さ|ながさ|gloss=[[length]]}}
+* {{ja-r|重さ|おもさ|gloss=[[weight]]}}
+* {{ja-r|重量|じゅうりょう|gloss=[[weight]]}}
+* {{ja-r|質量|しつりょう|gloss=[[mass]]}}
+* {{ja-r|面積|めんせき|gloss=[[area]]}}
+* {{ja-r|体積|たいせき|gloss=[[volume]]}}
+* {{ja-r|温度|おんど|gloss=[[temperature]]}}
+* {{ja-r|時間|じかん|gloss=[[time]]}}
+* {{ja-r|明るさ|あかるさ|gloss=[[brightness]]}}
+* {{ja-r|光度|こうど|gloss=[[luminosity]]}}
+
+===Descendants===
+* Chinese: {{zh-l|單位}}
+* Korean: {{ko-l|단위}}
+* Vietnamese: {{vi-l|đơn vị}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Units of measure|たんい]]
+
+[[fr:単位]]
+[[ko:単位]]
+[[lo:単位]]
+[[hu:単位]]
+[[mg:単位]]
+[[ja:単位]]
+[[sv:単位]]
+[[chr:単位]]
+[[zh:単位]]

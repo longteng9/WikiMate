@@ -1,0 +1,53 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=12|sn=16|four=|canj=DHUJ|ids=⿰木臯}}
+
+# a [[spar]]
+
+====References====
+* {{Han ref|kx=0555.311|dkj=15620|hdz=21293.080|uh=6A70|ud=27248}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gāo
+|c=gou1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 132]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木12| hanviet = [[cao]], [[cau]]}}
+
+# {{defn|lang=vi|sort=木12}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6a70 Nom Foundation]
+
+[[fr:橰]]
+[[pl:橰]]
+[[th:橰]]
+[[zh:橰]]

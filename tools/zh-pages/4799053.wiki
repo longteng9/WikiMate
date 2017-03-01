@@ -1,0 +1,42 @@
+{{also|空肠}}
+==Chinese==
+{{zh-forms|s=空肠}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=kōngcháng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|anatomy}} [[jejunum]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|くう|ちょう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|くうちょう|acc=0|acc2=1|acc_ref=DJR|acc2_ref=DJR}}
+
+===Noun===
+{{ja-noun|くうちょう|hhira=くうちやう}}
+
+# {{lb|ja|anatomy|sort=くうちょう}} [[jejunum]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|rv=hanja|hangeul=공장}}
+
+# {{hanja form of|공장|[[jejunum]]}}

@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiēchú
+|c=cit3 ceoi4
+|mn=qz:chhiat-tîr/tw,xm:chhiat-tû/twvk,zz:chhiat-tî
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|medicine}} to [[excise]]; to [[cut out]]; to [[remove]] (organ or other tissue)
+
+----
+
+==Japanese==
+{{ja-kanjitab|せつ|じょ|yomi=o}}
+
+===Etymology===
+{{compound|切|tr1=setsu|t1=cut, sever|除|tr2=jo|t2=rid of, clear away|lang=ja|sort=せつじょ}}
+
+===Noun===
+{{ja-noun|せつじょ}}
+
+# [[cutting off]], [[excision]], [[-tomy]]
+
+====Compounds====
+* [[乳房切除]] (''nyūbō setsujo''): mastectomy
+* [[乳房切除術]] (''nyūbō setsujo-jutsu''): mastectomy
+* [[女性器切除]] (''joseiki setsujo''): female circumcision
+* [[女性性器切除]] (''josei seiki setsujo''): female circumcision
+
+===Verb===
+{{ja-verb-suru|せつじょ}}
+
+# to [[cut off]], to [[excise]]
+
+====Conjugation====
+{{ja-suru|せつじょ}}
+
+[[zh-min-nan:切除]]
+[[hu:切除]]
+[[zh:切除]]

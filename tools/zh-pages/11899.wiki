@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|ᚓ}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=24|rad=十|as=03|sn=5|four=44000|canj=TT,XXTT}}
+
+# [[forty]] ([[40]])
+# [[fortieth]]
+
+====References====
+* {{Han ref|kx=0156.140|dkj=02712|dj=0355.040|hdz=10060.020|uh=534C|ud=21324|bh=C96D|bd=51565}}
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xì
+|c=se3
+|mn=siap/siak
+|mn_note=siak - Quanzhou
+|mn-t=siab4
+|mc=y
+|oc=y
+|ma=
+|cat=num
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[forty]]
+
+====Compounds====
+* {{zh-l|上卌袂攝}}, {{zh-l|卌工}}, {{zh-l|卌九日}}, {{zh-l|卌九日烏}}
+
+====References====
+* {{thcwd|1398}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=十03}}
+
+# [[forty]]
+
+====Readings====
+* {{ja-readings|on=[[しゅう]] (shū)|kun=[[よんじゅう]] (yonjuu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=십|rv=sip|mr=sip|y=sip}}
+
+# {{defn|lang=ko|sort=十03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tấp]]|rs=十03}}
+
+# {{defn|lang=vi|sort=十03}}
+
+[[zh-min-nan:卌]]
+[[fr:卌]]
+[[ko:卌]]
+[[lt:卌]]
+[[li:卌]]
+[[hu:卌]]
+[[pl:卌]]
+[[ru:卌]]
+[[th:卌]]
+[[zh:卌]]

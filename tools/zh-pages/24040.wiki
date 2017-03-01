@@ -1,0 +1,86 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=124|rad=羽|as=06|sn=12|four=87520|canj=TQSMM|ids=⿰羊羽}}
+
+# [[soar]], [[glide]], [[hover]]
+# [[detailed]]
+
+====References====
+* {{Han ref|kx=0956.400|dkj=28689|dj=1402.170|hdz=53348.060|uh=7FD4|ud=32724|bh=B5BE|bd=46526}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiáng
+|c=coeng4
+|mn=qz,tw,xm:siông/zz:siâng
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|回翔|徊翔|滑翔|滑翔機|滑翔翼|翔實|翔步|翔洽|翔翔|翔舞|翔貴|翔踊|翔集|翔鴻|翱翔|迴翔|飛翔|高翔遠引|高飛遠翔|鸞翔鳳翥|鸞翔鳳集}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=羽06}}
+
+# [[fly]]
+
+====Readings====
+{{ja-readings|goon=[[ぞう]] (zō)|kanon=[[しょう]] (shō)|kun=[[かける]] (kakeru)}}
+
+====Compounds====
+* {{ja-r|高翔|こうしょう|[[flying]] [[high]]}}
+
+===Proper noun===
+{{ja-pos|proper|しょう}}
+
+# {{given name|male|lang=ja|sort=しょう}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=상|eumhun=|rv=sang|mr=sang|y=sang}}
+
+# {{defn|lang=ko|sort=羽06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[vũ]], [[võ]], [[tường]]|rs=羽06}}
+
+# {{defn|lang=vi|sort=羽06}}
+
+[[fr:翔]]
+[[ko:翔]]
+[[li:翔]]
+[[hu:翔]]
+[[mg:翔]]
+[[ja:翔]]
+[[no:翔]]
+[[pl:翔]]
+[[th:翔]]
+[[zh:翔]]

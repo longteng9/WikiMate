@@ -1,0 +1,90 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēicháng,tl=y
+|ma=y
+|c=fei1 soeng4
+|h=pfs=fî-sòng
+|mn=xm,qz,tw:hui-siông/zz:hui-siâng
+|w=1fi zan
+|cat=adv,a
+}}
+
+===Adverb===
+{{zh-adv}}
+
+# [[extremely]]; [[very]]; [[highly]]
+#: {{zh-x|非常 感謝|to be '''extremely''' grateful}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|literary}} [[unusual]]; [[special]]; not the [[run of the mill]]; [[extraordinary]]; [[exceptional]]
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひ|じょう|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|ひじょう}}
+
+# [[extraordinary]], [[unusual]]
+
+====Inflection====
+{{ja-na|ひじょう}}
+
+===Noun===
+{{ja-noun|ひじょう}}
+
+# [[emergency]]
+
+====Compounds====
+{{der-top}}
+* [[非常に]]
+* [[非常ブレーキ]]
+* [[非常階段]]
+* [[非常勤]]
+* [[非常警戒]]
+* [[非常呼集]]
+* [[非常口]]
+* [[非常事態]]
+* [[非常時]]
+* [[非常手段]]
+* [[非常召集]]
+* [[非常信号]]
+* [[非常線]]
+* [[非常用]]
+{{der-bottom}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=비상}}
+
+# [[emergency]]
+
+[[zh-min-nan:非常]]
+[[fr:非常]]
+[[ko:非常]]
+[[lt:非常]]
+[[hu:非常]]
+[[mg:非常]]
+[[fj:非常]]
+[[nl:非常]]
+[[ja:非常]]
+[[pl:非常]]
+[[ta:非常]]
+[[chr:非常]]
+[[uk:非常]]
+[[zh:非常]]

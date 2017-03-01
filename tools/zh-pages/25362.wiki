@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|荪}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=10|sn=16|four=44493|canj=TNDF}}
+
+# aromatic grass
+# [[iris]], [[flower]]
+
+====References====
+* {{Han ref|kx=1050.260|dkj=31635|dj=1512.080|hdz=53272.160|uh=84C0|ud=33984|bh=BB5E|bd=47966}}
+
+----
+
+==Chinese==
+{{zh-forms|s=荪}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=sūn
+|c=syun1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸10}}
+
+# {{defn|lang=ja|sort=艸10}}
+
+====Readings====
+* {{ja-readings|on=[[そん]] (son)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=소|eumhun=|rv=so|mr=so|y=so}}
+
+# {{defn|lang=ko|sort=艸10}}
+
+[[fr:蓀]]
+[[hu:蓀]]
+[[pl:蓀]]
+[[th:蓀]]
+[[zh:蓀]]

@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|糭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=119|rad=米|as=08|sn=14|four=93991|canj=FDJMF|ids=⿰米宗}}
+
+====References====
+* {{Han ref|kx=0910.060|dkj=26993|dj=1336.060|hdz=53153.050|uh=7CBD|ud=31933|bh=BAEA|bd=47850}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zòng
+|c=zung3,zung3-2
+|mn=chàng
+|w=2tson
+|cat=n
+|h=pfs=chung}}
+
+===Noun===
+{{zh-noun}}
+
+# [[zongzi]]: [[dumpling|dumpling(s)]] made of glutinous rice, wrapped in leaves
+# [[sticky]] [[rice]]
+
+====Compounds====
+* {{zh-l|粽子}}
+* {{zh-l|肉粽}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=米08}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[ちまき]] (chimaki)|nanori=}}
+
+===Noun===
+{{ja-noun|ちまき}}
+
+# rice cake wrapped in bamboo leaves
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 粽]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[종]]|eumhun=|rv=|mr=chong|y=cong}}
+
+# {{defn|lang=ko|sort=米08}}
+
+[[zh-min-nan:粽]]
+[[fr:粽]]
+[[hu:粽]]
+[[mg:粽]]
+[[ja:粽]]
+[[pl:粽]]
+[[th:粽]]
+[[zh:粽]]

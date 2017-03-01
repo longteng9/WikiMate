@@ -1,0 +1,107 @@
+{{character info/new}}
+{{also|层}}<!-- may be replaced by zh-forms -->
+==Translingual==
+
+===Han character===
+{{Han char|rn=44|rad=尸|as=12|sn=15|four=77266|canj=SCWA|ids=⿸尸曾}}
+
+====References====
+* {{Han ref|kx=0303.400|dkj=07798|dj=0601.340|hdz=20981.030|uh=5C64|ud=23652|bh=BC68|bd=48232}}
+
+----
+
+==Chinese==
+{{zh-forms|s=层}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|尸|曾|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{theaji|chàn}}
+{{zh-pron
+|m=céng|ma=y
+|c=cang4
+|h=pfs=chhèn
+|md=
+|mn=chân/chàn
+|mn_note=chân - classifier; chàn - story/level
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[story]], [[layer]], [[floor]], [[stratum]]
+
+===Compounds===
+* [[层报]]
+* [[层层]]
+* [[层出不穷]]
+* [[层次]]
+* [[层次分明]]
+* [[层叠]]
+* [[层见叠出]]
+* [[层浪]]
+* [[层理]]
+* [[层林]]
+* [[层流]]
+* [[层峦]]
+* [[层面]]
+* [[层压]]
+* [[层云]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=尸12}}
+
+# [[layer]], [[level]]
+
+====Readings====
+{{ja-readings
+|goon=[[ぞう]] (zō) {{non-joyo-reading}}
+|kanon=[[そう]] (sō)
+|kun=[[こし]] (koshi) {{non-joyo-reading}}
+}}
+
+====Synonyms====
+* {{l|ja|階層}} ([[かいそう]], kaisō)
+* {{l|ja|段階}} ([[だんかい]], dankai)
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=층|rv=cheung|mr=ch'ŭng}}
+
+# {{defn|lang=ko|sort=尸12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tằng]], [[tầng]], [[tàng]], [[từng]]|rs=尸12}}
+
+# {{defn|lang=vi|sort=尸12}}
+
+[[zh-min-nan:層]]
+[[fr:層]]
+[[ko:層]]
+[[kn:層]]
+[[lt:層]]
+[[hu:層]]
+[[mg:層]]
+[[ja:層]]
+[[pl:層]]
+[[fi:層]]
+[[th:層]]
+[[chr:層]]
+[[zh:層]]

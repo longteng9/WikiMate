@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|ほん|きょく|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ほんきょく|本|tr1=hon|t1=main; current, this|曲|tr2=kyoku|t2=piece(s) of music}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|h|ほ|んきょく}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[hõ̞ŋkjo̞kɯᵝ]}}
+
+===Noun===
+{{ja-noun|ほんきょく}}
+
+# {{lb|ja|music|sort=ほんきょく}} those pieces of traditional Japanese music composed primarily for the {{m|ja|尺八|tr=shakuhachi}} flute, but also including the {{m|ja|胡弓|tr=kokyū||Japanese bowed lute with three or four strings}}, and the {{m|ja|琴|tr=koto}}
+# [[this]] piece of music, the [[relevant]] piece of music {{qualifier|as established earlier in the conversation}}
+
+====Antonyms====
+* {{sense|traditional Japanese music}} {{ja-l|外曲|がいきょく|gaikyoku}}: those pieces of traditional Japanese music composed for other instruments than the ''shakuhachi'', ''kokyū'', and ''koto''
+
+===References===
+<references/>

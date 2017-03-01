@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=11|sn=14|four=97062|canj=PSMA|ids=⿰忄習}}
+
+# [[fear]]
+# [[terrified]], [[fearful]]
+
+====References====
+* {{Han ref|kx=0400.110|dkj=11143|dj=0740.060|hdz=42348.090|uh=6174|ud=24948|bh=E1CD|bd=57805}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Glyph origin====
+{{Han etym}}
+
+====Pronunciation====
+{{zh-pron
+|m=zhé
+|c=zip3
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+=====Compounds=====
+{{zh-der|慴伏|慴息|振慴|懾慴}}
+
+===References===
+* {{R:twedu|B01173}}
+* {{R:yue:mfccd}}
+
+===Etymology 2===
+{{zh-see|懾|v}}
+
+{{attention|zh|please check the entirety of this entry}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心11}}
+
+# {{defn|lang=ja|sort=心11}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō), [[しゅう]] (shū)|kun=[[おそれる]] (osoreru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[습]], [[접]]|eumhun=|rv=seup, jeop|mr=sŭp, chŏp|y=sup, cep}}
+
+# {{defn|lang=ko|sort=心11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心11|hanviet=[[tiệp]], [[điệp]]}}
+
+# {{defn|lang=vi|sort=心11}}
+
+[[fr:慴]]
+[[hu:慴]]
+[[ja:慴]]
+[[pl:慴]]
+[[th:慴]]
+[[zh:慴]]

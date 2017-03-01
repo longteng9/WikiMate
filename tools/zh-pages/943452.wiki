@@ -1,0 +1,26 @@
+{{also|定數}}
+==Chinese==
+{{zh-see|定數}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てい|すう|yomi=on}}
+
+===Noun===
+{{ja-noun|ていすう}}
+
+# {{lb|ja|algebra|sort=ていすう}} [[constant]]
+
+====Antonyms====
+* {{ja-r|変数|へんすう}}: [[variable]]
+
+[[Category:ja:Programming|ていすう]]
+
+[[cs:定数]]
+[[li:定数]]
+[[hu:定数]]
+[[mg:定数]]
+[[sv:定数]]
+[[chr:定数]]
+[[zh:定数]]

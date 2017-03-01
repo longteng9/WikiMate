@@ -1,0 +1,50 @@
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+{{zh-wp}}
+
+====Pronunciation====
+{{zh-pron
+|m=zhēngzhēng,dīngdīng
+|c=zaang1 zaang1,ding1 ding1
+|cat=adv
+}}
+
+====Adverb====
+{{zh-adv}}
+
+# {{lb|zh|onomatopoeia}} the sound of [[clank]]ing or [[clang]]ing
+# {{lb|zh|onomatopoeia}} the [[pitter-patter]] sound of [[rain]]
+# {{lb|zh|onomatopoeia}} the sound of [[logging]]
+#* {{zh-x|伐木 丁{zhēng}丁{zhēng}，鳥 鳴 嚶嚶。|Logging ''zhengzheng'', birds ''yingying''.|ref=Shijing}}
+# {{lb|zh|onomatopoeia}} the sound of playing a [[musical instrument]]
+# {{lb|zh|onomatopoeia}} the sound of playing a game of [[chess]]
+
+===Etymology 2===
+{{zh-forms|alt=虰虰}}
+
+====Pronunciation====
+{{zh-pron
+|g=din1 din
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|dialectal|_|Mandarin|Gan|dialectal|_|Jin}} [[dragonfly]]
+
+=====Synonyms=====
+{{zh-dial|蜻蜓}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちょう|ちょう|yomi=on}}
+
+===Adverb===
+{{ja-pos|ちょうちょう|adverb|チョウチョウ}}
+# {{alternative spelling of|丁々|lang=ja|sort=ちょうちょう}}
+
+[[zh:丁丁]]

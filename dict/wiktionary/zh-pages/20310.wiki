@@ -1,0 +1,95 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=91|rad=片|as=04|sn=8|four=21047|canj=LLHE,LNHE,XLNHE|ids=⿰片反}}
+
+====References====
+* {{Han ref|kx=0693.030|dkj=19817|dj=1106.030|hdz=32015.040|uh=7248|ud=29256|bh=AAA9|bd=43689}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǎn
+|c=baan2
+|h=pfs=pán
+|mn=pán
+|mn-t=bang2/boin2/bain2
+|mn-t_note=bang2 - literary; boin2/bain2 - vernacular (boin2 - Chaozhou)
+|w=2pe
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[printing]] [[block]]s
+#: {{zh-l|活字版}}
+# [[edition]]
+#: {{zh-x|英文 版|English '''version'''}}
+
+====Compounds====
+{{zh-der|三色版|仕版|圖版|寫真版|套版|出版自由|冷式排版|乾刻版|出版|凹版|孔版印刷|再版|出版品|凹版畫|心版|底版|孔版畫|平版畫|平版|修版|凸版|嵌版構造|出版界|凸版印刷|凹版印刷|套色版畫|傅說版築|套印版畫|孔版|增訂版|四六版紙|刻版印書|出版法|原版|出版節|平版印刷|停版|初版|版尹|版權頁|手版|照相凹版|版本學|版權所有|玉版|真筆版|版次|殿版|戶版|木版畫|拼合版畫|改版|排版|版蕩|滿版|版畫|木版印刷|打字排版|版權|版式|木版|版本|石版屋|祝版|碑版|石版路|石版石|石版畫|石版印刷|版口|版圖|版稅|濃縮版|新版|珂羅版|玻璃版|玉版紙|照相製版|版面設計|版面|版築飯牛|版築|版牙|版樣|版屋|版刻|版樁|版心|照相版|照相平版|照相凸版|打屁版|洋版|石版|海外版|活字版|泥版|版輿|盜版|版籍|拼版|電腦排版|續版|第一版|銅版|鋅版|餖版|絕版|謄寫鋼版|銅版畫|航空版|製版|翻版|鋼版|雕版印刷|菊版|重版|龜版|墨版版畫|聚珍版|墨版|膠版印刷|頭版|翻版片|阿膠版|雕版|網目版|膠版|絕版書|簡版|鏤版|銅版紙|網版|雲版|節略版|鉛版|紙版|線上出版}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=片04}}
+
+# [[edition]], [[version]]
+# [[revision]]
+
+====Readings====
+* {{ja-readings|goon=[[へん]] (hen) {{non-joyo-reading}}|kanon=[[はん]] (han), [[ばん]] (ban)|kun=[[いた]] (ita), [[ふだ]] (fuda)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=판|eumhun=|rv=pan|mr=p'an|y=phan}}
+
+# {{defn|lang=ko|sort=片04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bản]], [[bảng]], [[bỡn]], [[phản]], [[ván]]|rs=片04}}
+
+# [[copy]], [[edition]]
+
+====Compounds====
+* {{l|vi|出版|tr=[[xuất bản]]}}
+* {{l|vi|版圖|tr=[[bản đồ]]}}
+
+====Usage notes====
+* Chữ Nôm. The modern Vietnamese equivalent is [[bản]].
+
+====References====
+* [http://www.chunom.org/pages/版 www.chunom.org]
+
+[[fr:版]]
+[[ko:版]]
+[[it:版]]
+[[hu:版]]
+[[mg:版]]
+[[ja:版]]
+[[no:版]]
+[[pl:版]]
+[[fi:版]]
+[[th:版]]
+[[chr:版]]
+[[zh:版]]

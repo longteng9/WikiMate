@@ -1,0 +1,33 @@
+{{also|叶柄}}
+==Chinese==
+{{zh-forms|s=叶柄}}
+
+===Pronunciation===
+{{zh-pron
+|m=yèbǐng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|botany}} [[petiole]], leaf stalk
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|よう|へい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|ようへい|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ようへい|hhira=えふへい}}
+
+# {{lb|ja|botany|sort=ようへい}} [[petiole]], leaf stalk
+
+===References===
+<references/>
+
+[[zh:葉柄]]

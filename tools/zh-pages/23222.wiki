@@ -1,0 +1,69 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=04|sn=10|four=00903|canj=YKVIF}}
+
+# [[confused]], [[disorder]]
+
+====References====
+* {{Han ref|kx=0916.150|dkj=27261|dj=1345.150|hdz=53376.060|uh=7D0A|ud=32010|bh=AFBF|bd=44991}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=紊
+|c=man6,man5,leon6
+|mn=būn
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|有條不紊|淆紊|紊亂}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=糸04}}
+
+# {{defn|lang=ja|sort=糸04}}
+
+====Readings====
+* {{ja-readings|on=[[びん]] (bin), [[ぶん]] (bun)|kun=[[みだれる]] (midareru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=문|eumhun=|rv=mun|mr=mun|y=mun}}
+
+# {{defn|lang=ko|sort=糸04}}
+
+[[fr:紊]]
+[[hu:紊]]
+[[mg:紊]]
+[[ja:紊]]
+[[no:紊]]
+[[pl:紊]]
+[[th:紊]]
+[[zh:紊]]

@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=76|rad=欠|as=15|sn=19|four=77682|canj=EWNO|ids=⿰⿱叕酉欠}}
+
+# [[sip]], [[drink]], [[suck]]
+
+====References====
+* {{Han ref|kx=0573.020|dkj=16228|dj=0961.010|hdz=32153.110|uh=6B60|ud=27488|bh=F259|bd=62041}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chuò
+|c=zyut3
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=欠15}}
+
+# {{defn|lang=ja|sort=欠15}}
+
+====Readings====
+* {{ja-readings|on=[[せつ]] (setsu), [[せち]] (sechi)|kun=[[のむ]] (nomu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=철|eumhun=|rv=cheol|mr=ch'ŏl|y=chel}}
+
+# {{defn|lang=ko|sort=欠15}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=欠15| hanviet = [[xoét]], [[xuyết]]}}
+
+# {{defn|lang=vi|sort=欠15}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6b60 Nom Foundation]
+
+[[fr:歠]]
+[[hu:歠]]
+[[ja:歠]]
+[[pl:歠]]
+[[th:歠]]
+[[zh:歠]]

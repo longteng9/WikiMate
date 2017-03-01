@@ -1,0 +1,55 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=164|rad=酉|as=06|sn=13|four=11681|canj=MWPA|ids=⿰酉旨}}
+
+====References====
+{{Han ref|kx=1283.051|dkj=39861|hdz=63581.100|uh=916F}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+{{zh-wp}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|酉|旨|c1=s|c2=p|t1=oxygenated functional group|ls=psc}}. Modelled after {{zh-l|脂|lipid}} with a radical input from other oxygenated organic compounds such as {{zh-l|醇|alcohol}} and {{zh-l|酸|acid}}, referring to ester linkages in lipids like [[glyceride]]s.
+
+===Etymology===
+From {{zh-l|脂|lipid}}, referring to ester linkages in lipids like [[glyceride]]s.
+
+===Pronunciation===
+{{zh-pron
+|m=zhǐ
+|c=zi2
+|h=
+|md=
+|mn=chí
+|w=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|organic compound}} [[ester]]
+
+====Synonyms====
+* {{zh-l|𨤎}} {{qualifier|obsolete}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chỉ]]|rs=酉06}}
+
+# {{defn|lang=vi|sort=酉06}}
+
+[[fr:酯]]
+[[mg:酯]]
+[[pl:酯]]
+[[th:酯]]
+[[zh:酯]]

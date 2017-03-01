@@ -1,0 +1,117 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=44|rad=尸|as=05|sn=8|four=77264|canj=SJR|ids=⿸尸古}}
+
+====References====
+* {{Han ref|kx=0300.300|dkj=07663|dj=0597.080|hdz=20968.040|uh=5C45|ud=23621|bh=A97E|bd=43390}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|尸|古|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jū
+|c=geoi1
+|h=pfs=kî
+|mn=ki/ku
+|mn-t=ge1/gi1
+|mc=y
+|oc=y
+|ma=Zh-ju.ogg
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[live]]; to [[dwell]]; to [[reside]]
+# to [[occupy]]; to [[rank]]
+# to [[claim]]
+# to [[stay]] [[put]]
+# [[house]]; [[residence]]; [[dwelling]]
+# [[restaurant]]
+
+===Compounds===
+{{zh-der|不居|世居|久居|介居|仙居|位居要津|何居|僑居|僦居|儕居|內地雜居|六一居士|共居|分別部居|分居|分財各居|別有居心|功成不居|匿居|卜居|同居|同居人|同居各爨|喪居|囤積居奇|土居|外僑居留|奇貨可居|姘居|孀居|安居|安居樂業|定居|客居|家居|宸居|寄居|寄居蟹|寓居|寡居|對門而居|尸居餘氣|尸居龍見|居下訕上|居不重席|居不重茵|居中|居中調停|居之不疑|居人|居仁由義|居今稽古|居住|居住密度|居住環境|居住自由|居停|居停主人|居其大半|居功|居功自傲|居功自恃|居喪|居址|居士|居士屩|居多|居大不易|居奇|居孀|居安思危|居安慮危|居安資深|居官|居室|居家|居居|居常|居庸關|居延海|居心|居心不良|居心叵測|居心無愧|居息|居憂|居所|居攝|居易|居業|居次|居止|居正|居民|居民樓|居無定所|居無求安|居然|居留|居留權|居留證|居積|居第|居處|居諸|居貞|居貧|居賣|居里|居里夫人|居間|居首|居高|居高不下|居高思危|居高臨下|屏居|屯積居奇|山居|巖居穴處|巖居谷飲|巢居穴處|巢木居野|帝居|平居|幽居|康居|張居正|後來居上|徙居|恥居人下|恥居王後|惡濕居下|愚公之居|推燥居濕|故居|散居|斗居|新居|旅居|日居月諸|村居野店|東坡居士|析居|樂業安居|歲月不居|比鄰而居|民居|水上居民|水居|泰然居之|洞居|深居九重|深居簡出|混居|溫居|潛居|火居道士|煙火鄰居|煢居|燕居|爰居|狼居胥山|獨居|獨居監禁|甘居中游|白居易|移居|穴居|穴居野處|窟居|窮大失居|端居|索居|結夏安居|群居|群居和一|群居穴處|老鄰居|聚居|自居|舊居|荒居|蓬室居|蕩析離居|薛居正|蝸居|蝸居蟻垤|蟄居|蠹居棋處|街坊鄰居|謫居|變動不居|起居|起居室|起居注|躍居|辭尊居卑|退居|退居幕後|送往事居|逸居|遷居|鄉居|鄰居|里居|長居|閑居|閒居|限制住居|隱居|集居|雜居|離群索居|青蓮居士|飲食起居|香山居士|鰥居|鳩居|鳩居鵲巢|鶉居|齋居蔬食}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=尸05}}
+
+# to [[sit]]
+
+====Readings====
+{{ja-readings|goon=[[こ]] (ko)|kanon=[[きょ]] (kyo)|kun=[[いる]] ([[居る]], iru), [[おる]] ([[居る]], oru), [[おく]] (oku)}}
+
+===Etymology 1===
+{{ja-kanjitab|きょ|yomi=o}}
+From {{etyl|ltc|ja|sort=きょ}} {{m|zh|居|tr=kjo}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|きょ|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|きょ}}
+
+# [[residence]]
+
+===Etymology 2===
+{{ja-kanjitab|い|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|い}}
+
+====Noun====
+{{ja-noun|い|hhira=ゐ}}
+
+# [[residence]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|居眠り|いねむり}}
+* {{ja-r|居留守|いるす}}: [[pretending]] to be [[absent]] from [[home]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[거]], [[기]]|rv=geo, gi|mr=kŏ, ki}}
+
+# {{defn|lang=ko|sort=尸05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cư]]|rs=尸05}}
+
+# {{defn|lang=vi|sort=尸05}}
+
+[[fr:居]]
+[[ko:居]]
+[[li:居]]
+[[hu:居]]
+[[mg:居]]
+[[ja:居]]
+[[no:居]]
+[[pl:居]]
+[[th:居]]
+[[vi:居]]
+[[zh:居]]

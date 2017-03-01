@@ -1,0 +1,120 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=07|sn=10|four=52000|canj=QRSN|ids=⿰扌别,⿰扌別}}
+
+====References====
+* {{Han ref|kx=0433.180|dkj=12141|dj=0783.010|hdz=31883.050|uh=634C|ud=25420|bh=AEC3|bd=44739}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+From {{inh|zh|sit-pro|*b-r-gjat ~ b-g-rjat|*b-r-gjat|eight}}.
+
+====Pronunciation====
+{{zh-pron
+|m=bā
+|c=baat3
+|cat=num
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# an [[:w:Chinese numbers#Numeral characters|accounting version]] of the numeral eight that is otherwise written as {{zh-l|八|tr=-}}
+
+===Etymology 2===
+From {{inh|zh|sit-pro|*brat ~ prat|*brat|cut apart, cut open}}. Cognate to {{zh-m|*別}}.
+
+====Pronunciation====
+{{zh-pron
+|m=bā
+|c=baat3
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-form|朳|toothless rake}}
+# {{zh-alt-form|扒|to break open, split open}}
+
+===Etymology 3===
+{{zh-forms|alt=別,八,仈,白,識-"to know",曾-"already"}}
+Min dialectal word for "to know".
+
+Austroasiatic substrate influence; may be related to {{zh-m|*別|to split; to differentiate}}. Cognate with {{cog|vi|biết||to know}}, {{cog|mtq|mắt||to know}}, Proto-Bahnaric ''*băt'' ("to remember, to know"), {{cog|hmx-pro|*pei||to know}} ({{cog|mww|paub||to know, to understand}}).
+
+Many variant written forms exist, but {{lang|zh|捌}} is [http://twblg.dict.edu.tw/holodict_new/iongji/pdf/annesia294pdf.pdf recommended] by Taiwan's Ministry of Education.
+
+====Pronunciation====
+{{zh-pron
+|md=báik
+|mn=xm,qz,zz,tp,lk,sx,km,mg,hc:pat/xm,zz,kh,tn,yl,tc:bat
+|mn_note=Zhangzhou: pat - only “to know”
+|mn-t=bag4
+|cat=v,adv
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tlb|zh|Min}}
+
+# to [[know]]; to [[recognise]]; to be [[familiar]] with
+#: {{zh-x|捌字|to '''know''' how to read|tr=báik-cê|MD}}
+# to [[know]] (somebody)
+#: {{zh-x|伓捌|to not '''know''' (someone)|tr=n̂g-báik|MD}}
+# [[already]]; [[previously]]
+#: {{zh-x|捌曾|''a term denoting past tense''|tr=báik-cèng|MD}}
+#: {{zh-x|捌{bat} 做 %過{kòe}|to have done something '''already'''|MN}}
+
+====Compounds====
+{{zh-der|捌字|捌貨|捌想|毋捌|相捌}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手07}}
+
+# an [[:w:Japanese numerals#Formal numbers|accounting version]] of the numeral eight that is otherwise written as [[八]].
+
+====Readings====
+{{ja-readings|on=[[はつ]] (hatsu), [[はち]] (hachi), [[べつ]] (betsu)|kun=[[さばく]] (sabaku), [[さばける]] (sabakeru), [[はけ]] (hake), [[さばき]] (sabaki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=팔|eumhun=|rv=pal|mr=p'al|y=phal}}
+
+# {{defn|lang=ko|sort=手07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bịt]], [[bát]], [[bít]], [[xốc]], [[bắt]]|rs=手07}}
+
+# {{defn|lang=vi|sort=手07}}
+
+[[fr:捌]]
+[[ko:捌]]
+[[li:捌]]
+[[hu:捌]]
+[[mg:捌]]
+[[ja:捌]]
+[[no:捌]]
+[[pl:捌]]
+[[th:捌]]
+[[chr:捌]]
+[[uk:捌]]
+[[zh:捌]]

@@ -1,0 +1,53 @@
+{{also|警备}}
+==Chinese==
+{{zh-forms|s=警备}}
+
+===Pronunciation===
+{{zh-pron
+|m=jǐngbèi
+|c=ging2 bei6
+|mn=kéng-pī
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[guard]]; to [[garrison]]
+
+====Derived terms====
+{{zh-der|警備區|警備隊}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|けい|び|yomi=on}}
+
+===Etymology===
+From ''kei'' ([[警]], [[guard]] against) + ''bi'' ([[備]], [[preparations]])
+
+===Noun===
+{{ja-noun|けいび}}
+
+# security [[guard]]
+# [[patrol]]
+# [[defense]], [[guard]], [[guarding]], [[policing]], [[security]]
+
+====Compounds====
+* {{l/ja|警備員}}
+
+===Verb===
+{{ja-verb-suru|けいび}}
+
+# keep guard, stand guard, [[defend]]
+
+====Conjugation====
+{{ja-suru|けいび}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:警備]]
+[[hu:警備]]
+[[ja:警備]]
+[[zh:警備]]

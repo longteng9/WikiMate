@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=19|sn=22|four=64086|canj=RHUC|ids=⿰口贊}}
+
+# {{defn|Han|sort=口19}}
+
+====References====
+* {{Han ref|kx=0215.160|dkj=04634|dj=0438.150|hdz=10708.050|uh=56CB|ud=22219|bh=F6D9|bd=63193}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=[[zaan3]]|y=jaan3}}
+
+# {{defn|lang=yue|sort=口19}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口19}}
+
+# {{defn|lang=ja|sort=口19}}
+
+====Readings====
+* {{ja-readings|on=[[さつ]] (satsu), [[ざち]] (zachi)|kun=[[こえ]] (koe)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[찰]], [[찬]]|rv=chal, chan|mr=ch'al, ch'an}}
+
+# {{defn|lang=ko|sort=口19}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[zàn]] ([[zan4]])|wg=tsan<sup>4</sup>}}
+
+# {{defn|lang=cmn|sort=口19}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[toản]]|rs=口19}}
+
+# {{defn|lang=vi|sort=口19}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=56cb Nom Foundation]
+
+[[fr:囋]]
+[[li:囋]]
+[[hu:囋]]
+[[pl:囋]]
+[[th:囋]]
+[[zh:囋]]

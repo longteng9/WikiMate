@@ -1,0 +1,49 @@
+==Japanese==
+{{ja-kanjitab|かく|じつ|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|かくじつ}}
+
+# [[certain]], [[reliable]]
+#: この人に順えば'''確実'''だ。
+#:: ''kono hito ni shitagaeba '''kakujitsu''' da.''
+#:: He is a '''reliable''' fellow.
+# certain, [[inevitable]], [[necessary]]
+#: 外務大臣の辞任は'''確実'''だ。
+#:: ''gaimu daijin no jinin wa '''kakujitsu''' da.''
+#:: The resignation of the foreign minister is '''inevitable'''.
+
+====Usage notes====
+Used particularly of sources of information (“trustworthiness”), rather than for physical activities, such as bus services, for which {{m|ja|確か}} is used instead.
+
+====Synonyms====
+* {{sense|reliable}} [[確か]], [[当てになる]]
+* {{sense|inevitable}} [[必至]], [[必然的]]
+
+====Antonyms====
+* {{sense|reliable}} [[不確実]], [[当てにならない]]
+* {{sense|inevitable}} [[不可能]], [[可能]], [[偶発的]]
+
+====Compounds====
+* [[確実性]]
+* [[確実度]]
+
+===Noun===
+{{ja-noun|かくじつ}}
+
+# [[certainty]], [[reliability]]
+# certainty, [[inevitability]], [[necessity]]
+# [[soundness]]
+
+====Synonyms====
+* {{sense|inevitability}} [[必至]], [[必然]]
+
+====Antonyms====
+* {{sense|reliability}} [[不確実]]
+* {{sense|inevitability}} [[不可能]], [[可能]], [[偶然]]
+
+[[ko:確実]]
+[[hu:確実]]
+[[ja:確実]]
+[[chr:確実]]
+[[zh:確実]]

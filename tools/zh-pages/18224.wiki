@@ -1,0 +1,50 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=14|sn=18|four=40923|canj=DYX|ids=⿰木齊}}
+
+# a type of [[tree]] [[suitable]] for use to [[make]] [[axle]]s for [[large]] [[cart]]s
+
+====References====
+* {{Han ref|kx=0559.140|dkj=15759|dj=0948.290|hdz=21310.030|uh=6AC5|ud=27333|bh=EFDD|bd=61405}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jī
+|c=zai1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木14| hanviet = tầy}}
+
+# {{defn|lang=vi|sort=木14}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6ac5 Nom Foundation]
+
+[[fr:櫅]]
+[[pl:櫅]]
+[[th:櫅]]
+[[zh:櫅]]

@@ -1,0 +1,50 @@
+{{also|预言|予言}}
+==Chinese==
+{{zh-forms|s=预言}}
+
+===Pronunciation===
+{{zh-pron
+|m=yùyán
+|c=jyu6 jin4
+|h=pfs=yi-ngièn
+|mn=qz:īr-giân/tp,xm:ū-giân/kh:ī-giân/zz:ī-gân
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[predict]]; to [[foretell]]; to make a [[prophecy]]
+
+===Noun===
+{{zh-noun}}
+
+# [[prophecy]]; [[prediction]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|よ|げん|yomi=on}}
+
+===Noun===
+{{ja-noun|よげん|kyu=豫言}}
+
+# {{alternative form of|予言|lang=ja}}
+
+====Compounds====
+* {{ja-r|預言者|よげんしゃ}}: prophet
+
+===Verb===
+{{ja-verb-suru|よげん}}
+
+# {{alternative form of|予言|lang=ja}}
+
+====Conjugation====
+{{ja-suru|よげん}}
+
+[[zh-min-nan:預言]]
+[[ko:預言]]
+[[mg:預言]]
+[[ja:預言]]

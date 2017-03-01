@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=03|sn=5|four=21211|canj=OMMM|ids=⿰亻三}}
+
+# (colloquial) [[three]] (cannot be followed by a [[measure]] [[word]])
+
+====References====
+* {{Han ref|kx=0094.051|dkj=00397|hdz=10112.010|uh=4EE8|ud=20200|bh=C965|bd=51557}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+[[contraction|Contraction]] of {{zh-l|三個}}.
+
+===Pronunciation===
+{{zh-pron
+|m=sā
+|c=saam1
+|mc=
+|oc=
+|ma=
+|cat=num
+}}
+
+===Numeral===
+{{zh-num}}
+
+# {{lb|zh|colloquial|chiefly|Mandarin}} [[three]]
+
+====Usage notes====
+{{lang|zh|仨}} is not followed by the classifier {{zh-l|個}}.
+
+====Related terms====
+* {{zh-l|倆}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人03}}
+
+# {{defn|lang=ja|sort=人03}}
+
+====Readings====
+{{ja-readings|goon=[[さ]] (sa)|kanon=[[さ]] (sa)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tam]]|rs=人03}}
+
+# {{defn|lang=vi|sort=人03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4ee8 Nom Foundation]
+
+[[fr:仨]]
+[[hu:仨]]
+[[mg:仨]]
+[[pl:仨]]
+[[th:仨]]
+[[zh:仨]]

@@ -1,0 +1,168 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=05|sn=8|four=37162|canj=ESHR|ids=⿰氵召}}
+
+# [[lake]]
+# [[fishpond]]
+# [[swamp]]s
+
+====References====
+* {{Han ref|kx=0614.090|dkj=17257|dj=1008.010|hdz=31597.050|uh=6CBC|ud=27836|bh=AA68|bd=43624}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǎo
+|c=ziu2
+|h=pfs=
+|md=
+|mn=qz,xm,zz:chiáu/qz,tw,xm,zz:chiau
+|mn_note=chiáu - literary; chiau - vernacular (俗)
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|沼澤|泥沼}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=水05}}
+
+====Readings====
+{{ja-readings
+|goon=[[しょう]] (shō) < [[せう]] (seu) {{qualifier|historical}}
+|kanon=[[しょう]] (shō) < [[せう]] (seu) {{qualifier|historical}}
+|kun=[[ぬ]] (nu), [[ぬま]] (numa)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|ぬ|yomi=k}}
+From {{inh|ja|ojp|-|sort=ぬ}}. Root of the {{cog|ojp|-}} verb {{m|ja|ぬる|tr=nuru|t=to become loose; to become wet}} and modern {{cog|ja|濡れる|tr=nureru|t=to become wet}}, adverb {{m|ja|ぬるぬる|tr=nurunuru|t=loosely; lukewarmly; oozingly}}.
+
+May be cognate with {{cog|ko|늪|t=swamp, bog, marsh}}, {{cog|mn|нам|t=low-lying}}, {{m|mn|намаг|t=swamp, bog, marsh}}, {{m|mn|норох|t=to become wet}}.
+
+Generally only used in compounds in modern {{cog|ja|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|y=k|ぬ}}
+
+====Noun====
+{{ja-noun|ぬ}}
+
+# a [[swamp]], a [[bog]], a [[marsh]], a [[wetland]]
+
+=====Derived terms=====
+* {{ja-r|小沼|おぬ}}: a [[swamp]], particularly a [[small]] one
+* {{ja-r|隠沼|こもりぬ}}: a [[hidden]] [[bog]]
+
+=====See also=====
+* {{ja-r|沼間|^ぬま}}: a [[surname]]
+
+===Etymology 2===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Marsh}}
+[[File:Beautiful_marsh_wetland_landscape.jpg|thumb|250px|{{lang|ja|沼}} (''numa''): a '''[[marsh]]''', a '''[[wetland]]'''.]]
+</div>
+{{ja-kanjitab|ぬま|yomi=k}}
+Appears to be a compound of {{compound|lang=ja|sort=ぬま|沼|tr1=nu|t1=swamp|間|tr2=ma|t2=space, area}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|acc=o|acc_ref=NHK,DJR|ぬま}}
+
+====Noun====
+{{ja-noun|ぬま}}
+
+# a [[swamp]], a [[bog]], a [[marsh]], a [[wetland]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|鹿沼|^かぬま}}: [[w:Kanuma, Tochigi|Kanuma, Tochigi]]
+{{der-bottom}}
+
+=====See also=====
+* {{ja-r|沼間|^ぬま}}: a [[surname]]
+
+===Etymology 3===
+{{ja-kanjitab|しょう|yomi=o}}
+{{IPAchar|/seu/}} → {{IPAchar|/ɕeu/}} → {{IPAchar|/ɕʲoː/}}
+
+From {{der|ja|ltc|sort=しよう|沼|tr=tsyew<sup>X</sup>||swamp}}. Compare modern {{cog|cmn|沼|tr=zhǎo}}.
+
+Only ever used in compounds.
+
+====Pronunciation====
+{{ja-pron|yomi=o|しょう}}
+
+====Affix====
+{{ja-pos|affix|しょう|hhira=せう}}
+
+# a [[swamp]], a [[bog]], a [[marsh]], a [[wetland]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|沼気|しょうき}}: [[swamp gas]], [[methane]]
+* {{ja-r|沼湖|しょうこ}}: [[marsh]]es and [[lake]]s
+* {{ja-r|沼沢|しょうたく}}: [[marsh]]es and [[bog]]s
+* {{ja-r|沼地|しょうち}}: [[clabber]], [[marshy]] [[soil]], marshy [[ground]]; a [[swampy]] [[place]]
+* {{ja-r|沼池|しょうち}}: [[marsh]]es and [[pond]]s
+* {{ja-r|沼鉄鉱|しょうてっこう}}: [[bog iron]]
+{{der-mid}}
+* {{ja-r|湖沼|こしょう}}: [[lake]]s and [[marsh]]es
+{{der-bottom}}
+
+===References===
+<references/>
+{{catlangcode|ja|Landforms|Water|sort=ぬま}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=소|eumhun=|rv=so|mr=so|y=so}}
+
+# {{defn|lang=ko|sort=水05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水05| hanviet = trẻo}}
+
+# {{defn|lang=vi|sort=水05}}
+
+[[fr:沼]]
+[[ko:沼]]
+[[li:沼]]
+[[hu:沼]]
+[[mg:沼]]
+[[ja:沼]]
+[[no:沼]]
+[[pl:沼]]
+[[ru:沼]]
+[[th:沼]]
+[[chr:沼]]
+[[vi:沼]]
+[[zh:沼]]

@@ -1,0 +1,63 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=06|sn=10|four=24339|canj=ODF,XODF|ids=⿱休灬}}
+
+# [[boast]]
+
+====References====
+* {{Han ref|kx=0669.210|dkj=18991|dj=1078.240|hdz=32202.010|uh=70CB|ud=28875|bh=D26E|bd=53870}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiāo
+|c=haau1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|咆烋|炰烋}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火06}}
+
+# {{defn|lang=ja|sort=火06}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[きゅう]] (kyū), [[きょう]] (kyō)|kun=[[さいわい]] (saiwai), [[めでたい]] (medetai), [[よい]] (yoi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[효]], [[휴]]|eumhun=|rv=hyo, hyu|mr=hyo, hyu|y=hyo, hyu}}
+
+# {{defn|lang=ko|sort=火06}}
+
+[[fr:烋]]
+[[hu:烋]]
+[[ja:烋]]
+[[pl:烋]]
+[[th:烋]]
+[[zh:烋]]

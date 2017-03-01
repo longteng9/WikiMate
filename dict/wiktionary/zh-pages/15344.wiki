@@ -1,0 +1,105 @@
+{{character info/new}}
+{{also|忘}}
+==Translingual==
+{{stroke order|strokes=6}}
+
+===Han character===
+{{Han char|rn=61|rad=心|as=03|sn=6|four=90010|canj=PYV|ids=⿰忄亡}}
+
+====References====
+* {{Han ref|kx=0377.010|dkj=10334|dj=0703.100|hdz=42272.160|uh=5FD9|ud=24537|bh=A6A3|bd=42659}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|忄|亡|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=máng
+|c=mong4
+|h=pfs=mông
+|md=mòng
+|mn=bâng/bông
+|mn_note=bâng - vernacular, bông - literary
+|w=3maan
+|mc=y
+|oc=y
+|cat=a,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[busy]]; [[bustling]]
+#: {{zh-x|你 最近 忙 嗎？|Are you '''busy''' lately?}}
+# [[hurried]]; [[rushed]]; [[flustered]]
+# to [[hurry]]; to [[rush]]
+# to be [[busy]] with something
+#: {{zh-x|我 最近 忙 著[着]{zhe} 考試。|I've been '''busy with''' exams as of late.}}
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|不忙不暴|不慌不忙|不用忙|不荒不忙|不著忙|不要忙|促忙|促忙促急|倉忙|公忙|冗忙|匆匆忙忙|匆忙|大力幫忙|大忙人|奔忙|幫倒忙|幫忙|心忙意急|忙上加忙|忙不擇價|忙不迭地|忙不迭的|忙不過來|忙中有錯|忙亂|忙了手腳|忙作一團|忙併|忙劫|忙劫劫|忙哈哈|忙工|忙忙|忙忙劫劫|忙忙叨叨|忙忙急急|忙忙碌碌|忙惚兒|忙手忙腳|忙投急趁|忙月|忙活|忙熱|忙碌|忙裡偷閒|忙迫|忙逼|急忙|急急忙忙|意急心忙|慌忙|慌忙無措|慌慌忙忙|慌手忙腳|手忙腳亂|手慌腳忙|擺忙|春忙|會家不忙|添忙|無事忙|煩忙|疾忙|白忙|百忙中|百般忙亂|瞎忙|窮忙|繁忙|胡擄忙亂|腳忙手亂|荒忙|著忙|趕忙|農忙|連忙|鬧忙}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=心03}}
+
+# busy
+
+====Readings====
+* {{ja-readings|goon=[[もう]] (mō)|kanon=[[ぼう]] (bō)|kun=[[いそがしい]] (isogashii)}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|多忙|たぼう}}
+{{mid3}}
+* {{ja-r|忙殺|ぼうさつ}}
+{{mid3}}
+* {{ja-r|忙中閑|ぼうちゅうかん}}
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=망|eumhun=|mr=mang|y=mang}}
+
+# {{defn|lang=ko|sort=心03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mang]]|rs=心03}}
+
+# {{defn|lang=vi|sort=心03}}
+
+[[da:忙]]
+[[fr:忙]]
+[[ko:忙]]
+[[lt:忙]]
+[[li:忙]]
+[[hu:忙]]
+[[mg:忙]]
+[[ms:忙]]
+[[fj:忙]]
+[[ja:忙]]
+[[no:忙]]
+[[pl:忙]]
+[[ta:忙]]
+[[th:忙]]
+[[chr:忙]]
+[[uk:忙]]
+[[vi:忙]]
+[[zh:忙]]

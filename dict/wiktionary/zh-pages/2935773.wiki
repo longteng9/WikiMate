@@ -1,0 +1,51 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|しょう|しょう|yomi=o}}
+{{IPAchar|/sepuɕʲau/}} → {{IPAchar|/seɸuɕʲau/}} → {{IPAchar|/seuɕʲau/}} → {{IPAchar|/ɕʲɔːɕʲɔː/}} → {{IPAchar|/ɕʲoːɕʲoː/}}
+
+From {{etyl|ltc|ja|sort=しょうしょう}} compound {{m|zh|攝政|tr=syep tsyeng<sup>H</sup>|lit=grasp + government}}. Compare modern {{etyl|cmn|-}} traditional {{m|zh|攝政}} and simplified {{m|zh|摄政|tr=shèzhèng||to act as a regent}}.
+
+The [[呉音#Japanese|goon]], so likely the reading as first borrowed.
+
+====Pronunciation====
+{{ja-pron|yomi=go|しょうしょう}}
+
+====Noun====
+{{ja-noun|しょうしょう|kyu=攝政|hhir=せふしやう}}
+
+# {{lb|ja|sort=しょうしょう|archaic}} the [[chief]] [[advisor]] to the emperor, similar to a [[viceroy]] or [[vizier]]
+
+=====Synonyms=====
+* {{sense|viceroy}} {{ja-r|関白|かんぱく}}
+
+===Etymology 2===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Regency}}
+</div>
+{{ja-kanjitab|せつ|k1=せっ|しょう|yomi=o}}
+Shift in reading of ''shōshō'' above, using the [[慣用読み#Japanese|kan'yōyomi]] of ''setsu'' for the {{ja-l|摂}} character.
+
+====Pronunciation====
+{{ja-pron|yomi=kanyoon|せっしょう|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|せっしょう|kyu=攝政|hhira=せっしゃう}}
+
+# a [[regent]]: one who [[rules]] in the place of a [[monarch]] because the monarch is too [[young]], [[absent]], or [[disabled]]
+# [[regency]]: the [[position]] or [[station]] of a regent
+# {{lb|ja|sort=せっしょう|archaic}} the [[chief]] [[advisor]] to the emperor, similar to a [[viceroy]] or [[vizier]]
+
+=====Synonyms=====
+* {{sense|viceroy}} {{ja-r|関白|かんぱく}}
+
+=====Derived terms=====
+* {{ja-r|摂政 皇太子|linkto=摂政皇太子|せっしょう こうたいし}}: the Prince Regent
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[ja:摂政]]
+[[zh:摂政]]

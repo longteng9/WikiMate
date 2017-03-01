@@ -1,0 +1,93 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=68|rad=斗|as=07|sn=11|four=84900|canj=ODYJ|ids=⿰余斗}}
+
+# the [[Xie]] River in ancient [[China]]
+
+====References====
+* {{Han ref|kx=0478.150|dkj=13509|dj=0836.180|hdz=32253.090|uh=659C|ud=26012|bh=B1D7|bd=45527}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xié
+|c=ce4
+|h=pfs=
+|md=
+|mn=siâ/chhiâ
+|mn_note=siâ - literary; chhiâ - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[tilted]]
+#: {{zh-x|^比薩.^斜塔|the '''Leaning''' Tower of Pisa}}
+# [[sloping]], [[inclined]]
+# [[oblique]]; [[slanting]]
+#: {{zh-x|斜體|oblique type}}
+# {{lb|zh|Chinese calligraphy}} a bend to the right (such as in {{m|mul|㇂}}, {{m|mul|㇃}}{{,}} or {{m|mul|㇠}})
+
+====Coordinate terms====
+* {{list:basic character strokes/zh}}
+
+====Compounds====
+{{zh-der|斜溫層|斜面|斜坡|一溜歪斜|乜乜斜斜|乜斜|乜斜眼|乜斜纏帳|偏斜|傾斜|傾斜流|傾斜角|內斜視|刺斜|同斜層|向斜層|喎斜|單斜層|單斜脊|大陸斜坡|挑斜岔兒|攲斜|斜射|斜度|斜度標|斜暉|斜漢|斜照|斜眼|斜睨|斜視|斜紋|斜紋夜蛾|斜線|斜腳雨|斜角|斜谷|斜邊|斜長石|斜陽|斜風細雨|斜高|旁行斜上|歪斜|比薩斜塔|狹斜|目不斜視|背斜層|蹀里蹀斜|迆邐歪斜|陡斜}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=斗07}}
+
+# {{defn|lang=ja|sort=斗07}}
+
+====Readings====
+* {{ja-readings|goon=[[じゃ]] (ja), [[や]] (ya)|kanon=[[しゃ]] (sha), [[や]] (ya)|kun=[[ななめ]] (naname)}}
+
+====Compounds====
+* {{ja-r|斜面|しゃめん}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[사]], [[야]]|eumhun=|rv=sa, ya|mr=sa, ya|y=sa, ya}}
+
+# {{defn|lang=ko|sort=斗07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=斗07|hanviet=tà}}
+
+# {{defn|lang=vi|sort=斗07}}
+
+[[zh-min-nan:斜]]
+[[fr:斜]]
+[[ko:斜]]
+[[li:斜]]
+[[hu:斜]]
+[[mg:斜]]
+[[ja:斜]]
+[[no:斜]]
+[[pl:斜]]
+[[th:斜]]
+[[zh:斜]]

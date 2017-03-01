@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=09|sn=12|four=42447|canj=VBME|ids=⿰女爰}}
+
+# [[beauty]], [[beautiful]] [[woman]]
+
+====References====
+* {{Han ref|kx=0267.110|dkj=06516|dj=0534.130|hdz=21067.120|uh=5A9B|ud=23195|bh=B444|bd=46148}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuàn,yuán
+|c=jyun6,wun4,jyun4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=女09}}
+
+# princess
+
+====Readings====
+{{ja-readings|goon=[[おん]] (on), from [[をん]]|kanon=[[えん]] (en), from [[ゑん]]|kun=[[ひめ]] (hime)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|名媛|めいえん}}: [[famous]] [[woman]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=원|rv=won|mr=wŏn}}
+
+# {{defn|lang=ko|sort=女09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[viện]]|rs=女09}}
+
+# {{defn|lang=vi|sort=女09}}
+
+[[es:媛]]
+[[fr:媛]]
+[[li:媛]]
+[[hu:媛]]
+[[mg:媛]]
+[[ja:媛]]
+[[pl:媛]]
+[[th:媛]]
+[[zh:媛]]

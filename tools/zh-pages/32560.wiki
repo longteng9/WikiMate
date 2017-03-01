@@ -1,0 +1,178 @@
+{{character info/new}}
+{{also|鸭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=05|sn=16|four=67527|canj=WLHAF|ids=⿰甲鳥}}
+
+====References====
+* {{Han ref|kx=1487.080|dkj=46823|dj=2018.130|hdz=74623.070|uh=9D28|ud=40232|bh=C06E|bd=49262}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鸭}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|甲|鳥|ls=psc|c1=p|c2=s}}.
+
+===Etymology===
+''{{w|Shuowen}}'' commented that {{lang|zh|鴨}} is the colloquial name for {{och-l|鶩|duck}}. Probably onomatopoeic in origin.
+
+Also meaning "duck" in Old Chinese is {{och-l|鴄}}, which is a Tai-Kadai loanword.
+
+===Pronunciation===
+{{zh-pron
+|m=yā
+|m-s=ya2
+|c=aap3,aap3-2
+|h=pfs=ap
+|md=ák
+|mn=ah/ap
+|mn_note=ah - vernacular; ap - literary
+|w=4aq
+|mc=y
+|oc=y
+|ma=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[duck]]
+#: {{zh-x|^北京.烤鴨|[[Peking duck]]}}
+# {{lb|zh|slang}} [[male]] [[prostitute]]
+
+====Synonyms====
+* {{sense|bird}} {{zh-l|鴨子}}, {{q|Min Nan}} {{zh-l|鴨咪}}, {{q|Min Nan}} {{zh-l|鴨咪仔}}
+
+===Compounds===
+{{zh-der|北京鴨|寶鴨|家鴨|土番鴨|填鴨|唐老鴨|吃鴨蛋|溪鴨|旱鴨子|放水鴨|拿鴨子|番鴨|撒鴨子|睡鴨|燒鴨子|烤鴨|水鴨|正番鴨|板鴨|鹹鴨蛋|鴨嘴龍|鴨蛋粉|鴨跖草|麻鴨|鴨兒梨|腳鴨子|鴨嘴帽|鵝行鴨步|鴨信|鴨蛋青|鴨蛋圓|鴨綠江|鴨黃兒|鴨頭丸帖|鴨霸|鴨蛋臉兒|鴨蛋臉|鴨舌帽|鴨腳|鴨絨|鴨票|鴨瘟|鴨步鵝行|鴨條|鴨子上架|鴨嘴筆|鴨嘴獸|鴨兒芹|鬥鴨|筍鴨|醜小鴨|綠頭鴨|雞同鴨講|雁鴨科|鴨黃|鴨頭|菜鴨|臘鴨|銀鴨|鴨子|野鴨|鴨子兒|金鴨|薑母鴨|鴨子聽雷|鴨兒廣梨|鴨舌草|鴨掌|鴨蛋|鴨子腿|北京烤鴨}}
+
+{{zh-cat|Birds}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=鳥05}}
+
+====Readings====
+{{ja-readings
+|goon=[[よう]] (yō), {{qualifier|historical}} [[えふ]] (efu)
+|kanon=[[おう]] (ō), {{qualifier|historical}} [[あふ]] (afu)
+|kun=[[かも]] (kamo), [[あひる]] (ahiru)
+|nanori=[[かも]] (kamo)
+}}
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja|カモ}}
+{{wikipedia|Duck}}
+[[File:Anas_crecca_landing_on_the_water.JPG|thumb|250px|{{lang|ja|鴨}} (''kamo''): a pair of '''[[duck]]s'''.]]
+</div>
+{{ja-kanjitab|yomi=k|かも}}
+{{unk.|lang=ja|sort=かも}}. Possibly alteration of {{etyl|ojp|ja|sort=かも}} {{m|ja|浮かむ|tr=ukamu||to float}}, modern {{m|ja|浮かぶ|tr=ukabu}}. Alternatively, may derive from {{etyl|ltc|ja|sort=かも}} {{m|zh|雁|tr={{IPAchar|/ngænH/}}||a type of wild goose}}, borrowed with the [[漢音#Japanese|kan'on]] reading ''gan'', with initial ''g'' changing to ''k'' due to the avoidance of voiced stops at the start of Japanese words, and final ''n'' changing to ''mu'' due to apparent lack of final ''n'' in {{etyl|ojp|-}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kun|かも|acc=1|acc_ref=NHK,DJR}}
+
+====Alternative forms====
+* {{ja-l|鳧}}
+
+====Noun====
+{{ja-noun|かも|カモ}}
+
+# a [[duck]]
+# {{lb|ja|sort=かも|slang}} {{qualifier|from the way ducks return to the same place and are thus easy to hunt}} a [[mark]] or easy [[target]] for a [[swindle]], someone who is likely to lose at [[gambling]] or other competition
+# {{lb|ja|sort=かも|slang}} {{qualifier|from the good flavor of duck meat}} short for {{m|ja|鴨の味|tr=kamo no aji||duck flavor}}: a very good [[flavor]]; by extension, any remarkably good [[sensation]] or [[feeling]], particularly describing happy [[married]] [[life]]
+# {{lb|ja|sort=かも|slang}} {{qualifier|from the uniform of black clothing}} short for {{m|ja|黒鴨|tr=kurogamo||black duck}}: a [[male]] [[servant]], such as a [[butler]] or [[chauffeur]] (compare English {{m|en|penguin}})
+
+=====Usage notes=====
+{{U:ja:biology|カモ}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|鴨る|かもる}}: “to make a duck of someone”: to [[skillfully]] or [[cunningly]] beat out an opponent, such as in [[gambling]] or a [[swindle]]
+* {{ja-r|黒鴨|くろがも}}: [[common]] [[scoter]]
+* {{ja-r|鴨嘴|かものはし}}: [[platypus]]
+{{der-bottom}}
+
+=====Synonyms=====
+* {{ja-r|家鴨|あひる}}, {{ja-r|鶩|あひる}}: a [[duck]], especially [[domesticated]]
+
+[[Category:ja:Ducks|かも]]
+
+===Etymology 2===
+Probably from the ''duck'' sense above, in reference to the {{m|ja|鴨川|tr=Kamogawa|lit=duck river}} flowing through {{w|Kyoto}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|かも}}
+
+====Alternative forms====
+* {{ja-l|賀茂}}
+
+====Proper noun====
+{{ja-pos|proper|かも}}
+
+# {{surname|lang=ja|sort=かも}}
+# any of various places, particularly in {{w|Kyoto}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[압]]|eumhun=[[오리]]|rv=ap|mr=ap|y=ap}}
+
+# {{defn|lang=ko|sort=鳥05}}
+
+----
+
+==Middle Vietnamese==
+
+===Alternative forms===
+* {{l|mkh-mvi|𩿠}}
+* {{l|mkh-mvi|𪆧}}
+
+===Etymology===
+From {{etyl|mkh-vie-pro|mkh-mvi}} {{m|mkh-vie-pro|*viːt}}
+
+===Noun===
+{{head|mkh-mvi|noun|tr=uịt}}
+
+# [[duck]], [[drake]]
+
+====Descendants====
+* Vietnamese: {{l|vi|vịt}} ([[鴨]])
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[áp]], [[vịt]]|rs=鳥05}}
+
+# {{defn|lang=vi|sort=鳥05}}
+
+[[es:鴨]]
+[[fr:鴨]]
+[[lo:鴨]]
+[[lt:鴨]]
+[[hu:鴨]]
+[[mg:鴨]]
+[[ja:鴨]]
+[[pl:鴨]]
+[[ro:鴨]]
+[[ru:鴨]]
+[[sv:鴨]]
+[[th:鴨]]
+[[chr:鴨]]
+[[tr:鴨]]
+[[zh:鴨]]

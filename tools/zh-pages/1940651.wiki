@@ -1,0 +1,73 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tìdāo
+|c=tai3 dou1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun|mw=把}}
+
+# [[razor]]
+
+====Derived terms====
+{{zh-der|奧卡姆剃刀}}
+
+{{zh-cat|Hair}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|sort=かみそり|yomi=irr}}
+
+===Pronunciation===
+{{ja-pron|yomi=irr|かみそり|acc=3|acc_ref=DJR,NHK|acc2=4|acc2_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|かみそり}}
+
+# [[razor]]
+
+====Derived terms====
+* {{ja-r|剃刀貝|かみそりがい}}
+* {{ja-r|剃刀気触れ|かみそり かぶれ}}
+* {{ja-r|剃刀の刃を渡る|かみそり の は を わたる}}
+* {{ja-r|剃刀負け|かみそり まけ}}
+* {{ja-r|狐の剃刀|きつね の かみそり}}
+* {{ja-r|西洋剃刀|せいよう かみそり}}
+* {{ja-r|電気剃刀|でんき かみそり}}
+
+===References===
+<references/>
+
+[[Category:ja:Hair|かみそり]]
+
+----
+
+==Okinawan==
+
+===Etymology===
+Cognate with mainland {{cog|ja|剃刀|tr=kamisori}}. Attested in 沖縄語典 as かんすい.<ref name="OG">{{R:Okinawa Goten|28}}</ref>
+
+===Noun===
+{{head|ryu|noun|hiragana|かんすい|romaji|kansui}}
+
+# [[razor]]
+
+===References===
+<references/>
+
+[[Category:ryu:Hair|かんすい]]
+
+[[ko:剃刀]]
+[[lo:剃刀]]
+[[hu:剃刀]]
+[[mg:剃刀]]
+[[pt:剃刀]]
+[[ru:剃刀]]
+[[sv:剃刀]]
+[[chr:剃刀]]
+[[zh:剃刀]]

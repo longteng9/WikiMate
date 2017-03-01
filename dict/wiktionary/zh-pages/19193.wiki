@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=09|sn=12|four=37167|canj=EAHU|ids=⿰氵眉}}
+
+# [[water]]'s [[edge]], [[shore]], [[bank]]
+
+====References====
+* {{Han ref|kx=0636.090|dkj=17809|dj=1043.140|hdz=31690.070|uh=6E44|ud=28228|bh=B544|bd=46404}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=méi
+|c=mei4
+|mn=bî
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水09}}
+
+# {{defn|lang=ja|sort=水09}}
+
+====Readings====
+* {{ja-readings|on=[[び]] (bi), [[み]] (mi), [[だん]] (dan), [[なん]] (nan)|kun=[[みずぎわ]] (mizugiwa)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=미|eumhun=|rv=mi|mr=mi|y=mi}}
+
+# {{defn|lang=ko|sort=水09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水09| hanviet = mưa}}
+
+# {{defn|lang=vi|sort=水09}}
+
+[[fr:湄]]
+[[hu:湄]]
+[[mg:湄]]
+[[pl:湄]]
+[[th:湄]]
+[[zh:湄]]

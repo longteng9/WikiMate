@@ -1,0 +1,32 @@
+{{also|菜单}}
+==Chinese==
+{{zh-forms|s=菜单}}
+
+===Etymology===
+{{rfe|lang=zh|Lit. "dish list"?}}
+
+===Pronunciation===
+{{zh-pron
+|m=càidān
+|c=coi3 daan1
+|mn=chhài-toaⁿ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[menu]] {{gloss|a selection of dishes}} {{zh-mw|張}}
+# {{lb|zh|computing}} [[menu]] {{gloss|a list from which the user may select an operation to be performed}}
+
+====Synonyms====
+* {{sense|a selection of dishes}} {{zh-l|食單}}
+* {{sense|a list from which the user may select an operation to be performed}} {{zh-l|選單}}
+
+[[zh-min-nan:菜單]]
+[[fr:菜單]]
+[[ko:菜單]]
+[[hu:菜單]]
+[[mg:菜單]]
+[[ja:菜單]]
+[[th:菜單]]

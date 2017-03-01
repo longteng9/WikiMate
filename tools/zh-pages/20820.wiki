@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=96|rad=玉|as=08|sn=12|four=11111|canj=MGLMY}}
+
+# [[necklace]]
+
+====References====
+* {{Han ref|kx=0735.080|dkj=21075|dj=1147.060|hdz=21121.030|uh=7432|ud=29746|bh=DAAA|bd=55978}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bèi
+|c=bei3,pui3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=玉08}}
+
+# string of many pearls
+
+====Readings====
+* {{ja-readings|on=[[はい]] (hai)|kun=[[つらぬく]] (tsuranuku)|nanori=}}
+
+====Compounds====
+* {{ja-r|珈琲|コーヒー}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=배|eumhun=|rv=bae|mr=pae|y=pay}}
+
+# {{defn|lang=ko|sort=玉08}}
+
+[[fr:琲]]
+[[hu:琲]]
+[[ja:琲]]
+[[pl:琲]]
+[[th:琲]]
+[[vi:琲]]
+[[zh:琲]]

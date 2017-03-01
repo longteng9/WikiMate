@@ -1,0 +1,146 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=41|rad=寸|as=07|sn=10|four=24200|canj=HHDI|ids=⿰身寸}}
+
+====References====
+* {{Han ref|kx=0294.130|dkj=07434|dj=0582.080|hdz=10506.100|uh=5C04|ud=23556|bh=AE67|bd=44647}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|弓|寸|t1=bow|t2=hand, wrist|ls=ic}}. 弓 was assimilated to 身 in the clerical script period.
+
+===Pronunciation 1===
+{{zh-pron
+|m=shè
+|c=se6
+|h=pfs=sa
+|mn=siā
+|mc=2
+|oc=1,1
+|ma=y
+|cat=v,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[shoot]], to [[launch]], to [[eject]]
+# to [[guess]]
+# to [[allude]] to
+# to [[emit]]
+# {{lb|zh|colloquial}} to [[ejaculate]]
+# {{†}} [[archery]]
+
+====Compounds====
+{{zh-der|射程|射電天文學|射電望遠鏡|射擊|射箭|射界|射精|射口|射獵|射流技術|射門|射頻|射手|射線|射影|一射|亂反射|伽瑪射線|侖琴射線|光華射目|光輻射|入射線|入射角|制壓射擊|占射|反射|反射線|反射角|反射運動|反射鏡|后羿射日|君射臣決|含沙射影|噴射|噴射引擎|噴射推進|噴射機|噴射氣流|噴射泵|噴射飛機|大氣折射|太陽輻射|如皋射雉|姑射神人|宇宙射線|實彈射擊|射中|射侯|射利|射工|射控雷達|射日|射柳|射殺|射水器|射沓|射流|射生|射石飲羽|射禮|射策|射精管|射糧|射聲|射覆|射鉤|射魚|射魚指天|射鵰手|對空射擊|巴氏反射|平射炮|弋不射宿|彈射|影射|投射|投射作用|折射|折射線|折射角|掃射|掩護射擊|攢射|放射|放射化學|放射性|放射汙染|放射源|放射線|散射|斜射|日射角|映射|暗射|暗射地圖|曲射炮|有效射程|李廣射虎|條件反射|水射流|注射|注射劑|注射器|注射筒|游離輻射|漫反射|照射|照明射擊|熱輻射|發射|發射器|發射控制|發射星雲|發射機|發射臺|發射點|皮下注射|直射|破壞射擊|神射手|繞射|聊城射書|肌肉注射|背景輻射|膝反射|藐姑射|衍射|豔射|貝他射線|輻射|輻射塵|輻射治療|輻射滅菌|輻射熱|輻射病|輻射線|輻射能|輻射落塵|輻射計|轅門射戟|連射|邀名射利|鄉射禮|野戰射擊|金光四射|錢王射潮|鐳射|鐳射唱片|鐳射氣|阿伐射線|陰極射線|陽極射線|雷射|雷射刀|雷射唱片|雷射唱盤|雷射攝影|雷射音響|靜脈注射|預防注射|飛靶射擊|騎射|高射炮}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=shí,shè
+|c=sik6,se6
+|mn=se̍k
+|dial=n
+|mc=4
+|oc=2,3
+|ma=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[hit]] with [[bow]] and [[arrow]]
+
+===Pronunciation 3===
+{{zh-pron
+|m=yè
+|c=je6
+|mn=ià
+|dial=n
+|mc=1
+|oc=n,2
+|ma=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|Used in the compounds {{zh-l|射干}} and {{zh-l|僕射}}.}}
+
+===Pronunciation 4===
+{{zh-pron
+|m=yì,shè
+|c=jik6
+|mn=e̍k
+|dial=n
+|mc=3
+|oc=n,4
+|ma=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|無射}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=寸07}}
+
+====Readings====
+* {{ja-readings|kanon=[[しゃ]] (sha), [[や]] (ya), [[えき]] (eki)|on=[[せき]] (seki)|goon=[[じゃ]] (ja), [[や]] (ya), [[やく]] (yaku)|kun=[[いる]] (iru), [[あてる]] (ateru), [[さす]] (sasu), [[いとう]] (itō), [[あきる]] (akiru)|nanori=[[い]] (i), [[いり]] (iri)}}
+
+====Compounds====
+* [[射撃]]
+* [[射光]]
+* [[射幸心]]
+* [[射程]]
+* [[射的]]
+* [[射覆]]
+* [[射利]]
+* [[射手座]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[사]], [[석]]|rv=sa, seok|mr=sa, sŏk}}
+
+# {{defn|lang=ko|sort=寸07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xạ]], [[dạ]], [[dịch]]|rs=寸07}}
+
+# {{defn|lang=vi|sort=寸07}}
+
+[[fr:射]]
+[[ko:射]]
+[[it:射]]
+[[lt:射]]
+[[li:射]]
+[[hu:射]]
+[[mg:射]]
+[[ja:射]]
+[[no:射]]
+[[pl:射]]
+[[th:射]]
+[[chr:射]]
+[[vi:射]]
+[[zh:射]]

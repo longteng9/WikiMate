@@ -1,0 +1,36 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dòumiáo,er=y
+|c=dau6 miu4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|immunology}} ([[smallpox]]) [[vaccine]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|びょう|yomi=on}}
+
+===Noun===
+{{ja-noun|とうびょう}}
+
+# {{lb|ja|rare|immunology}} [[vaccine]]
+
+====Synonyms====
+* {{qualifier|more common}} {{ja-r|ワクチン}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Immunology|とうびょう]]
+
+[[ko:痘苗]]
+[[mg:痘苗]]
+[[zh:痘苗]]

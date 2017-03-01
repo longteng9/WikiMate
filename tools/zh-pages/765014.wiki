@@ -1,0 +1,16 @@
+==Japanese==
+{{ja-kanjitab|へん|かく|yomi=o}}
+
+===Etymology===
+{{compound|変|格|t1=change/strange|t2=grammatical [[Appendix:Glossary#case|case]]|lang=ja}}
+
+===Noun===
+{{ja-noun|へんかく|kyu=變格}}
+
+# [[irregularity]]
+# {{lb|ja|grammar|sort=へんかく}} [[irregular]] conjugation
+# {{lb|ja|grammar|sort=へんかく}} [[translative]] case
+
+[[mg:変格]]
+[[ja:変格]]
+[[zh:変格]]

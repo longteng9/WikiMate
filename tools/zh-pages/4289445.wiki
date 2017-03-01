@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|へん|そく|yomi=on}}
+
+===Noun===
+{{ja-noun|へんそく}}
+
+# changing gears
+
+====Compounds====
+* {{l/ja|変速機構}}, {{l/ja|変速機}}
+
+===Verb===
+{{ja-verb-suru|へんそく}}
+
+# [[change]] [[gear]]s, [[shift]] gears
+
+====Conjugation====
+{{ja-suru|へんそく}}
+
+[[zh:変速]]

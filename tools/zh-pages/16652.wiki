@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|舉|挙|举}}
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|與|手|c1=p|c2=s|t2=hand|ls=psc}}.
+
+===Han character===
+{{Han char|rn=64|rad=手|as=14|sn=18|four=|canj=HCQ,XHCQ|ids=⿱與手}}
+
+# [[raise]], [[lift up]]
+# [[recommend]]
+
+Variant:
+* [[舉]] (U+8209); The bottom part displays as [[𠀆]].
+* [[𦦙]] (U+26999); The bottom part displays as [[丰]].
+
+====References====
+* {{Han ref|kx=0460.100|dkj=12863|dj=0808.300|hdz=31966.010|uh=64E7|ud=25831}}
+
+----
+
+==Chinese==
+{{zh-see|舉|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手14|style=ky|shin=挙}}
+
+# {{defn|lang=ja|sort=手14}}
+
+====Readings====
+* {{ja-readings|on=[[きょ]] (kyo)|kun=[[あげる]] (ageru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=거|eumhun=|rv=geo|mr=kŏ|y=ke}}
+
+# {{defn|lang=ko|sort=手14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手14|hanviet=[[cử]], [[cửa]]}}
+
+# {{defn|lang=vi|sort=手14}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=64e7 Nom Foundation]
+
+[[fr:擧]]
+[[ko:擧]]
+[[hu:擧]]
+[[mg:擧]]
+[[ms:擧]]
+[[ja:擧]]
+[[pl:擧]]
+[[th:擧]]
+[[zh:擧]]

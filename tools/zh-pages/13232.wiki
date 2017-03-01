@@ -1,0 +1,61 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+
+===Han character===
+{{Han char|rn=32|rad=土|as=09|sn=12|four=41166|canj=GMRW|ids=⿰土畐}}
+
+# {{defn|Han|sort=土09}}
+
+====References====
+* {{Han ref|kx=0233.030|dkj=05242|dj=0470.220|hdz=10461.030|uh=581B|ud=22555|bh=D8AA|bd=55466}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=|y=pik1}}
+
+# {{defn|lang=yue|sort=土09}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土09}}
+
+# {{defn|lang=ja|sort=土09}}
+
+====Readings====
+* {{ja-readings|on=[[ひよく]] (hiyoku), [[ひき]] (hiki)|kun=[[つちくれ]] (tsuchikure)}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[bì]] ([[bi4]])|wg=pi<sup>4</sup>}}
+
+# {{defn|lang=cmn|sort=土09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bực]], [[bậc]], [[bức]]|rs=土09}}
+
+# {{defn|lang=vi|sort=土09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=581b Nom Foundation]
+
+[[fr:堛]]
+[[hu:堛]]
+[[pl:堛]]
+[[th:堛]]
+[[zh:堛]]

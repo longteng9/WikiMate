@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǐliào
+|c=si2 liu6-2
+|mn=qz:sír-liāu/tw,xm,zz:sú-liāu
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[historical]] [[record]]s, [[data]] or [[material]]s
+
+====Derived terms====
+{{zh-der|史料編纂法}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|りょう|yomi=o}}
+
+===Etymology===
+{{suffix|史|料|lang=ja|t1=history|t2=resources|sort=しりょう}}
+
+===Noun===
+{{ja-noun|しりょう}}
+
+# [[history]] [[resources]], historical records, archives
+
+[[zh-min-nan:史料]]
+[[ko:史料]]
+[[hu:史料]]
+[[ja:史料]]
+[[zh:史料]]

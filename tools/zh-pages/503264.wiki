@@ -1,0 +1,28 @@
+{{also|著作權}}
+
+==Japanese==
+{{ja-kanjitab|ちょ|さく|けん|yomi=on}}
+
+===Etymology===
+{{suffix|著作|権|lang=ja|t1=literary work|t2=right|sort=ちょさくけん}}
+
+===Noun===
+{{ja-noun|ちょさくけん|kyu=著作權}}
+
+# [[copyright]]
+#: {{ja-usex|Ａ社はＢ社を'''著作権'''侵害で訴えた。|Ａ-しゃ は Ｂ-しゃ を '''ちょさくけん''' しんがい で うったえた。|Company A sued Company B for '''copyright''' violation.}}
+
+===See also===
+* {{ja-r|版権|はんけん}}: [[publish]]ing [[right]]s
+* {{ja-r|特許権|とっきょけん}}: [[patent]], [[patent]] [[right]]s
+* {{ja-r|肖像権|しょうぞうけん}}: [[publicity]] [[right]]s, [[portrait]] [[right]]s
+
+[[Category:ja:Copyright]]
+[[Category:ja:Law|ちょさくけん]]
+
+[[lo:著作権]]
+[[hu:著作権]]
+[[mg:著作権]]
+[[sv:著作権]]
+[[tl:著作権]]
+[[zh:著作権]]

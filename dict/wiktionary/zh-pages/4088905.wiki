@@ -1,0 +1,7 @@
+==Japanese==
+{{ja-kanjitab|べき|しゅう|ごう|yomi=on}}
+
+===Noun===
+{{ja-noun|べきしゅうごう}}
+
+# [[power set]] {{gloss|set of all subsets of a set}}

@@ -1,0 +1,41 @@
+{{also|音节文字}}
+==Chinese==
+{{zh-forms|s=音节文字|type=22}}
+
+===Pronunciation===
+{{zh-pron
+|m=yīnjié wénzì
+|c=jam1 zit3 man4 zi6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# syllabic [[character]], [[syllabary]]
+
+{{zh-cat|Linguistics}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|おん|せつ|もん|k3=も|じ|yomi=irr|sort=おんせつもじ}}
+
+===Noun===
+{{ja-noun|おんせつもじ}}
+
+# syllabic [[character]], [[syllabary]]
+
+----
+
+==Korean==
+{{ko-hanjatab|}}
+
+===Noun===
+{{ko-noun|hj|hangeul=음절문자}}
+
+# {{hanja form of|음절문자|syllabic [[character]], [[syllabary]]}}
+
+[[ko:音節文字]]
+[[ja:音節文字]]
+[[zh:音節文字]]

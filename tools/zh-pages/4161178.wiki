@@ -1,0 +1,27 @@
+{{also|黑貓}}
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Black cat}}
+[[File:A_Black_Cat.jpg|250px|right|thumb|{{lang|ja|黒猫}} (''kuroneko''): a '''[[black cat]]'''.]]
+</div>
+{{ja-kanjitab|くろ|ねこ|yomi=k}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=くろねこ|黒|tr1=kuro|t1=black|猫|tr2=neko|t2=cat}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|くろ ねこ}}
+
+===Noun===
+{{ja-noun|くろ ねこ|kyu=黑貓}}
+
+# a [[black cat]]
+#* {{RQ:I am a cat}}:
+#*: {{ja-usex|彼は純粋の'''黒猫'''である。|かれ は じゅんすい の '''くろねこ''' で ある。|He is an unmixed black cat.}}
+
+====Antonyms====
+* {{ja-r|白猫|しろねこ}}: a [[white]] [[cat]]
+
+===References===
+<references/>

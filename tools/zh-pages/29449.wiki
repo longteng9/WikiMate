@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|铬}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=06|sn=14|four=87164|canj=CHER|ids=⿰金各}}
+
+====References====
+* {{Han ref|kx=1303.200|dkj=40350|dj=1804.240|hdz=64200.080|uh=927B|ud=37499|bh=BBCC|bd=48076}}
+
+----
+
+==Chinese==
+{{zh-forms|s=铬}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=luò,gē,gè
+|c=lok3,gok3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[chromium]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金06}}
+
+# {{defn|lang=ja|sort=金06}}
+
+====Readings====
+* {{ja-readings|on=[[らく]] (raku), [[かく]] (kaku), [[きゃく]] (kyaku)|kun=[[もる]] (moru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=락|eumhun=|rv=rak|mr=rak|y=lak}}
+
+# {{defn|lang=ko|sort=金06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=金06|hanviet=[[lạc]], [[các]]}}
+
+# {{defn|lang=vi|sort=金06}}
+
+[[Category:Vietnamese Han tu]]
+
+{{zh-cat|Chemical elements}}
+
+[[fr:鉻]]
+[[lt:鉻]]
+[[hu:鉻]]
+[[mg:鉻]]
+[[pl:鉻]]
+[[ru:鉻]]
+[[th:鉻]]
+[[vi:鉻]]
+[[zh:鉻]]

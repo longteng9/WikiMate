@@ -1,0 +1,106 @@
+{{also|禀告}}
+==Chinese==
+{{zh-forms|s=禀告}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǐnggào
+|c=ban2 gou3
+|mn=pín-kò
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[report]] {{gloss|to one's superior}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|ひん|こく}}
+{{IPAchar|/pinkoku/}} → {{IPAchar|/finkoku/}} → {{IPAchar|/hinkoku/}}
+
+From {{der|ltc|ja|sort=ひんこく|-}} compound {{m|zh|稟告|tr=pim<sup>X</sup> kowk|lit=report, petition + inform}}. Compare modern {{cog|nan|-}} reading ''pín-kò'' or {{cog|cmn|-}} ''bǐnggào''.
+
+The [[呉音#Japanese|goon]] reading, so likely the original borrowing.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|ひんこく|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ひんこく}}
+
+# {{lb|ja|sort=ひんこく|rare|possibly|_|obsolete}} {{l|en|reporting}} {{qualifier|especially to a superior}}
+# {{lb|ja|sort=ひんこく|rare|possibly|_|obsolete}} a {{l|en|report}} {{qualifier|especially to a superior}}
+
+=====Synonyms=====
+* {{ja-r|上申|じょうしん}}
+* {{ja-r|報告|ほうこく}} {{qualifier|lacks the “to a superior” sense}}
+
+====Verb====
+{{ja-verb-suru|ひんこく}}
+
+# {{lb|ja|sort=ひんこく|rare|possibly|_|obsolete}} to {{l|en|report}}, to {{l|en|make}} a {{l|en|report}} {{qualifier|especially to a superior}}
+
+=====Conjugation=====
+{{ja-suru|ひんこく}}
+
+=====Synonyms=====
+* {{ja-r|上申|じょうしん}}
+* {{ja-r|報告|ほうこく}} {{qualifier|lacks the “to a superior” sense}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|りん|こく}}
+
+Appears to be a shift in pronunciation within Japanese, likely influenced by the alternative {{der|ltc|ja|sort=りんこく|-}} reading ''lim<sup>X</sup>'' for the {{m|zh|稟}} character. The ''rin'' reading in Japanese is sometimes treated as [[慣用音#Japanese|kan'yōon]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=goon|りんこく|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|りんこく}}
+
+# a {{l|en|proposal}}, {{l|en|proposing}}
+# {{l|en|notification}}, {{l|en|notifying}}, {{l|en|informing}}, {{l|en|telling}}
+# a {{l|en|declaration}}, {{l|en|declaring}}
+
+=====Synonyms=====
+* {{sense|proposal}} {{ja-r|申し出|もうしで}}, {{ja-r|提案|ていあん}}
+* {{sense|notification}} {{ja-r|通知|つうち}}, {{ja-r|告知|こくち}}
+* {{sense|declaration}} {{ja-r|申し告げる|もうしつげる}}, {{ja-r|申告|しんこく}}
+
+====Verb====
+{{ja-verb-suru|りんこく}}
+
+# to {{l|en|propose}}, to {{l|en|make}} a {{l|en|proposal}}
+# to {{l|en|notify}}, to {{l|en|inform}}, to {{l|en|tell}}
+# to {{l|en|declare}}, to {{l|en|make}} a {{l|en|declaration}}
+
+=====Conjugation=====
+{{ja-suru|りんこく}}
+
+=====Synonyms=====
+* {{sense|propose}} {{ja-r|申し出る|もうしでる}}, {{ja-r|提案|ていあん}}
+* {{sense|inform}} {{ja-r|申し上げる|もうしあげる}}
+* {{sense|notify}} {{ja-r|通知|つうち}}, {{ja-r|告知|こくち}}
+* {{sense|declare}} {{ja-r|申し告げる|もうしつげる}}, {{ja-r|申告|しんこく}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=품고}}
+
+# {{hanja form of|품고|[[notice]]; [[notification]]; [[report]] (to one's [[superior]])}}
+
+[[zh-min-nan:稟告]]
+[[hu:稟告]]
+[[mg:稟告]]

@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|塚|家|冡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=14|rad=冖|as=08|sn=10|four=37232|canj=BMSO,XBMSO|ids=⿱冖豖}}
+
+# [[burial mound]], [[mausoleum]]
+# [[grand]]
+
+====Derived terms====
+* {{l|mul|塚}}
+
+====References====
+* {{Han ref|kx=0130.250|dkj=01585|dj=0293.050|hdz=10304.090|uh=51A2|ud=20898|bh=ADE0|bd=44512}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|勹|t1=wrap|豖|ls=psc|c1=s|c2=p}} – wrapped in a burial [[shroud]]. Top component now simplified to [[冖]].
+
+===Pronunciation===
+{{zh-pron
+|m=zhǒng
+|c=cung2
+|mn=thióng
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|冢中枯骨|冢嗣|冢土|冢墓|冢婦|冢子|冢宰|冢息|冢藏|叢冢|喪冢|大冢宰|嶓冢|汲冢古文|發冢|筆冢|衣冠冢|青冢|香冢}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=冖08}}
+
+# {{defn|lang=ja|sort=冖08}}
+
+====Readings====
+* {{ja-readings|on=[[ちょう]] (chō), [[ちゅ]] (chu)|kun=[[つか]] (tsuka), [[おか]] (oka), [[やしろ]] (yashiro)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=총|rv=chong|mr=ch'ong}}
+
+# {{defn|lang=ko|sort=冖08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''冢''' ([[trủng]], [[trổng]], [[trũng]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:冢]]
+[[ko:冢]]
+[[hu:冢]]
+[[mg:冢]]
+[[ms:冢]]
+[[ja:冢]]
+[[pl:冢]]
+[[th:冢]]
+[[vi:冢]]
+[[zh:冢]]

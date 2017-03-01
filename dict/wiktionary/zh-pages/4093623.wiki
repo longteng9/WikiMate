@@ -1,0 +1,36 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chūháng
+|c=ceot1 hong4
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|of plane}} to [[take off]]; {{lb|zh|of ship}} to [[set sail]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅつ|こう|k1=しゅっ|yomi=on}}
+
+===Noun===
+{{ja-noun|しゅっこう}}
+
+# [[sailing]], a ship casting off
+
+===Verb===
+{{ja-verb-suru|しゅっこう}}
+
+# [[cast off]], [[unanchor]]
+
+====Conjugation====
+{{ja-suru|しゅっこう}}
+
+[[lt:出航]]
+[[mg:出航]]
+[[zh:出航]]

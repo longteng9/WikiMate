@@ -1,0 +1,113 @@
+{{character info/new}}
+{{also|兇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=17|rad=凵|as=02|sn=4|four=22770|canj=UK|ids=⿶凵㐅}}
+
+# [[culprit]], [[sinister]]
+# [[murder]]
+# [[fierce]], [[violent]]
+# [[bad]]
+# [[sad]]
+
+====References====
+* {{Han ref|kx=0135.020|dkj=01803|dj=0300.280|hdz=10306.190|uh=51F6|ud=20982|bh=A4BF|bd=42175}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology 1===
+{{zh-forms|alt=㐫,㓙,兇}}
+
+====Pronunciation====
+{{zh-pron
+|m=xiōng
+|c=hung1
+|h=pfs=hiûng
+|mn=hiong
+|w=
+|mc=y
+|oc=y
+|ma=Zh-xiong.ogg
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+1 fierce; ferocious
+2 terrible; fearful
+3 inauspicious
+
+=====Compounds=====
+* {{zh-l|凶宅}}
+
+===Etymology 2===
+{{zh-see|兇}}
+
+===References===
+* {{thcwd|592}}
+
+----
+
+==Japanese==
+
+===Noun===
+{{ja-noun|きょう}}
+
+# [[ill]] [[fortune]]
+
+====Alternative forms====
+* {{l|ja|兇}}
+
+===Kanji===
+{{ja-kanji|grade=c|rs=凵02}}
+
+# ill fortune
+
+====Readings====
+* {{ja-readings|goon=[[ぐ]] (gu), [[ぐう]] (gū)|kanon=[[きょう]] (kyō)|kun=[[わるい]] (warui)}}
+
+====Compounds====
+* [[凶悪]]
+* [[凶漢]]
+* [[凶器]]
+* [[凶行]]
+* [[凶刃]]
+* [[凶変]]
+* [[凶暴]]
+* [[元凶]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=흉|rv=hyung|mr=hyung|y=hyung}}
+
+# {{defn|lang=ko|sort=凵02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|hung|rs=凵02}}
+
+# {{defn|lang=vi}}
+
+[[fr:凶]]
+[[ko:凶]]
+[[hu:凶]]
+[[mg:凶]]
+[[ms:凶]]
+[[ja:凶]]
+[[no:凶]]
+[[pl:凶]]
+[[th:凶]]
+[[vi:凶]]
+[[zh:凶]]

@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|はい|た|てき|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|はいたてき|y=o|acc=0|acc_ref=NHK}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|はいたてき}}
+
+# [[exclusive]]
+#: {{ja-usex|排他的経済水域|はいたてき けいざい すい.いき|exclusive economic zone}}
+
+====Inflection====
+{{ja-na|はいたてき}}
+
+===References===
+<references/>
+
+[[ko:排他的]]

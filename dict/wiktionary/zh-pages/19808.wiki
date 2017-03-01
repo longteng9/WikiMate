@@ -1,0 +1,136 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=6}}
+
+===Han character===
+{{Han char|rn=86|rad=火|as=02|sn=6|four=71289|canj=KF|ids=⿸𠂇火 <small>(GTKV)</small>,⿸厂火 <small>(J)</small>}}
+
+====See also====
+* {{l|mul|炭}} <!-- visually similar -->
+
+====References====
+* {{Han ref|kx=0665.090|dkj=18859|dj=1075.050|hdz=32188.040|uh=7070|ud=28784|bh=A6C7|bd=42695}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|又|t1=hand|火|t2=fire|ls=ic}} – fire that can be touched with the hand (ash). {{zh-l|*又}} has been modified to {{zh-l|*𠂇}}; compare {{zh-l|*左|left}}, {{zh-l|*右|right}}.
+
+===Pronunciation===
+{{zh-pron
+|m=huī
+|c=fui1
+|h=pfs=fôi
+|md=ŭ
+|mn=hoe/he
+|w=1hue
+|mc=y
+|oc=y
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[lime]]; [[mortar]]
+#* {{zh-l|灰泥|plaster, mortar}}
+#* {{zh-l|石灰|lime}}
+#* {{zh-l|灰岩|limestone}}
+# [[dust]]; [[ash]];
+#* {{zh-x|電腦 屏幕 上 有 一 層 '''灰'''。|There's a layer of '''dust''' on the computer screen.}}
+#* {{zh-x|他 吹 乾淨 這 本 書 上 的 '''灰'''。|He blew out the '''dust''' on the book.}}
+# [[grey]]
+#* {{zh-l|灰色|gray color}}
+# [[disheartened]]
+
+====Compounds====
+{{der5
+|{{zh-l|灰暗}}
+|{{zh-l|灰白}}
+|{{zh-l|灰不喇唧}}
+|{{zh-l|灰布喇唧的}}
+|{{zh-l|灰不蹓丟}}
+|{{zh-l|灰不蹓秋}}
+|{{zh-l|灰塵}}
+|{{zh-l|灰飛菸滅}}
+|{{zh-l|灰飛煙滅}}
+|{{zh-l|灰燼}}
+|{{zh-l|灰燼}}
+|{{zh-l|灰錳氧}}
+|{{zh-l|灰色}}
+|{{zh-l|灰鼠}}
+|{{zh-l|灰頭土臉兒}}
+|{{zh-l|灰心}}
+|{{zh-l|灰塵}}
+}}
+
+{{zh-cat|Beginning|Colors}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=火02}}
+
+# {{defn|lang=ja|sort=火02}}
+
+====Readings====
+* {{ja-readings|goon=[[け]] (ke) {{non-joyo-reading}}|kanon=[[かい]] (kai)|kanyoon=[[けい]] (kei) {{non-joyo-reading}}|kun=[[はい]] (hai)}}
+
+===Noun===
+{{ja-noun|はい}}
+
+# [[ash]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=회|eumhun=|mr=hoe|y=hoy}}
+
+# {{defn|lang=ko|sort=火02}}
+
+----
+
+==Mulam==
+
+===Noun===
+{{head|mlm|noun|tr=pu1}}
+
+# [[ash]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hôi]], [[hoi]], [[khôi]], [[vôi]], [[hui]]|rs=火02}}
+
+# {{defn|lang=vi|sort=火02}}
+
+[[cs:灰]]
+[[fr:灰]]
+[[ko:灰]]
+[[lo:灰]]
+[[lt:灰]]
+[[li:灰]]
+[[hu:灰]]
+[[mg:灰]]
+[[nl:灰]]
+[[ja:灰]]
+[[no:灰]]
+[[pl:灰]]
+[[ru:灰]]
+[[fi:灰]]
+[[sv:灰]]
+[[th:灰]]
+[[chr:灰]]
+[[tr:灰]]
+[[uk:灰]]
+[[zh:灰]]

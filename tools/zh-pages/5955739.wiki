@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|うき|す|とり|k3=どり|yomi=k}}
+
+===Etymology===
+{{affix|sort=うきすどり|ja|浮巣|tr1=ukisu|t1=floating nest|鳥|tr2=tori|t2=bird}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|うきすどり|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|うきすどり}}
+
+# [[grebe]]
+## [[little grebe]]
+# [[vagrant]]
+
+====Synonyms====
+* {{sense|grebe}} {{ja-r|鸊鷉|かいつぶり}}, {{ja-r|鳰|にお}}, {{ja-r|鳰鳥|におどり}}, {{ja-r|息長鳥|しながどり}}, {{ja-r|潜り|むぐり}}
+
+===References===
+<references/>
+
+[[Category:ja:Grebes|うきすどり]]

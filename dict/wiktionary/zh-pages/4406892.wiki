@@ -1,0 +1,50 @@
+{{also|册子}}
+==Chinese==
+{{zh-forms|s=册子}}
+
+===Pronunciation===
+{{zh-pron
+|m=cèzi
+|c=caak3 zi2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[book]] {{zh-mw|本}}
+# [[volume]] {{zh-mw|本}}
+
+====Derived terms====
+{{zh-der|小冊子}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|さつ|k1=さっ|し|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|さっし|y=o}}
+
+===Noun===
+{{ja-noun|さっし}}
+
+# [[book]], [[booklet]]
+
+====Derived terms====
+* {{l/ja|小冊子}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=책자}}
+
+# {{hanja form of|책자|}}
+
+[[fr:冊子]]
+[[hu:冊子]]
+[[mg:冊子]]
+[[zh:冊子]]

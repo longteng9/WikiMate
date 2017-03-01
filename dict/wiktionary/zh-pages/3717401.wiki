@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wàichū
+|c=ngoi6 ceot1
+|mn=gōa-chhut
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[go out]]
+# to [[set out]] on a trip or journey
+
+====See also====
+* {{zh-l|出門}}
+* {{zh-l|出去}}
+* {{zh-l|出行}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|がい|しゅつ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|がいしゅつ|y=o}}
+
+===Noun===
+{{ja-noun|がいしゅつ}}
+
+# [[going out]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|がいしゅつ}}
+
+# to [[go out]]
+#: {{ja-usex|外出する機会が少ない方|がいしゅつ する きかい が すくない かた|those with few opportunities to get out of the house}}
+
+====Conjugation====
+{{ja-suru|がいしゅつ}}
+
+[[fr:外出]]
+[[ko:外出]]
+[[li:外出]]
+[[hu:外出]]
+[[mg:外出]]
+[[ja:外出]]
+[[chr:外出]]
+[[zh:外出]]

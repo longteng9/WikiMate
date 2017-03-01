@@ -1,0 +1,39 @@
+{{also|疑问词}}
+==Chinese==
+{{zh-forms|s=疑问词|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=yíwèncí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|grammar}} [[interrogative|Interrogative]]s or [[question]] [[word]]s, including the [[interrogative pronoun]], [[interrogative adverb]], and [[interrogative adjective]].
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぎ|もん|し|yomi=on}}
+
+===Noun===
+{{ja-noun|ぎもんし}}
+
+# {{lb|ja|grammar|sort=きもんし'}} [[interrogative]], including the [[interrogative pronoun]], [[interrogative adverb]], and [[interrogative adjective]].
+
+====Hyponyms====
+* {{ja-r|疑問代名詞|ぎもんだいめいし}}: interrogative pronoun
+* {{ja-r|疑問副詞|ぎもんふくし}}: interrogative adverb
+* {{ja-r|疑問形容詞|ぎもんけいようし}}: interrogative adjective
+
+===References===
+* {{R:Kojien}}
+
+[[Category:ja:Parts of speech|きもんし']]
+
+[[fr:疑問詞]]
+[[ko:疑問詞]]
+[[it:疑問詞]]
+[[hu:疑問詞]]

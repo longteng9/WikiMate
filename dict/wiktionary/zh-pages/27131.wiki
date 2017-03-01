@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|诺}}
+==Translingual==
+
+===Etymology===
+{{Han etym}}
+
+===Han character===
+{{Han char|rn=149|rad=言|as=09|sn=16|four=04664|canj=YRTKR|ids=⿰訁若}}
+
+# [[promise]]
+# [[assent]], [[approve]]
+
+====References====
+* {{Han ref|kx=1173.020|dkj=35687|dj=1638.010|hdz=63984.010|uh=8AFE|ud=35582|bh=BFD5|bd=49109}}
+
+----
+
+==Chinese==
+{{zh-forms|s=诺}}
+
+===Pronunciation===
+{{zh-pron
+|m=nuò
+|c=nok6
+|h=pfs=nok
+|md=
+|mn=qz,xm:lio̍k/qz,tw,xm:lo̍k/zz:jia̍k/qz,zz:hio̍h
+|mn_note=lio̍k/lo̍k/jia̍k - literary; hio̍h - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+* {{zh-l|承諾}}
+* {{zh-l|諾言}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=言09}}
+
+agreement, consent, assent
+
+====Readings====
+* {{ja-readings|goon=[[なく]] (naku)|kanon=[[だく]] (daku)|kun=[[うべなう]] (ubenau)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[낙]], [[락]]>낙|eumhun=|rv=nak, rak>nak|mr=nak, rak>nak|y=nak, lak>nak}}
+
+# {{defn|lang=ko|sort=言09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nặc]]|rs=言09}}
+
+# {{defn|lang=vi|sort=言09}}
+
+[[zh-min-nan:諾]]
+[[fr:諾]]
+[[ko:諾]]
+[[hu:諾]]
+[[ja:諾]]
+[[pl:諾]]
+[[pt:諾]]
+[[th:諾]]
+[[zh:諾]]

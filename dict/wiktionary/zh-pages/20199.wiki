@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|烫}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=12|sn=16|four=36809|canj=EHF}}
+
+====References====
+* {{Han ref|kx=0684.010|dkj=19435|dj=1096.040|hdz=32238.030|uh=71D9|ud=29145|bh=BF53|bd=48979}}
+
+----
+
+==Chinese==
+{{zh-forms|s=烫}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|湯|火|ls=psc|c1=p|c2=s}}.
+
+===Etymology===
+From {{och-l|湯|hot water}}.
+
+===Pronunciation===
+{{zh-pron
+|m=tàng
+|c=tong3
+|h=pfs=
+|md=táung/táuk/tâung
+|md_note=táung, táuk - to put into boiling water, to scald; tâung - to heat up, to warm
+|mn=thǹg/thòng
+|mn_note=thǹg - vernacular; thòng - literary
+|w=2thaan
+|oc=y
+|cat=a,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[hot]] (because of high temperature)
+# to [[warm]]; to [[heat]] something up (using hot water or fire)
+# to [[burn]]; to [[injure]] (with high temperature)
+# {{lb|zh|cooking}} to [[blanch]]
+# {{lb|zh|chiefly|Cantonese}} to [[iron]]
+#: {{zh-x|燙 恤衫|to '''iron''' a shirt|C}}
+
+===Compounds===
+{{zh-der|光燙|冷燙|洗燙|滾燙|火燙|燙傷|燙手|燙手山芋|燙花|燙蠟|燙酒|燙金|燙馬|燙髮|燙麵|發燙|電燙|燙衫}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火12}}
+
+# {{defn|lang=ja|sort=火12}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō), [[どう]] (dō)|kun=[[あたためる]] (atatameru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=탕|eumhun=|rv=tang|mr=t'ang|y=thang}}
+
+# {{defn|lang=ko|sort=火12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[năng]], [[nãng]], [[nắng]]|rs=火12}}
+
+# {{defn|lang=vi|sort=火12}}
+
+[[zh-min-nan:燙]]
+[[fr:燙]]
+[[hu:燙]]
+[[pl:燙]]
+[[th:燙]]
+[[zh:燙]]

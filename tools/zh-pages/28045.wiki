@@ -1,0 +1,168 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=09|sn=16|four=62114|canj=RMHJG|ids=⿰足重}}
+
+# [[heel]]
+# [[follow]]
+# [[visit]], call on
+
+===References===
+* {{Han ref|kx=1229.220|dkj=37686|dj=1701.250|hdz=63723.080|uh=8E35|ud=36405|bh=BFE6|bd=49126}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǒng
+|c=zung2,dung2
+|h=pfs=chúng
+|md=
+|mn=chióng
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===References===
+* [http://www.chinalanguage.com/dictionaries/?mode=view&view=chardict&query=%E8%B8%B5 CCDICT (Chineselanguage.org)]
+* {{R:hak:Lau 1997}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+
+====Pronunciation====
+* {{IPA|/kubiisu/|lang=ja}}
+
+====Noun====
+{{ja-noun|くび.いす|hhira=くびひす}}
+
+# the bottom of the foot; the [[heel]]
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|127}}
+#*: 足跟 ゝ各痕反 下'''久比ゝ須'''
+
+===Etymology 2===
+kubiisu → kubisu.
+
+====Pronunciation====
+* {{IPA|/kubisu/|lang=ja}}
+
+====Noun====
+{{ja-noun|くびす}}
+
+# heel
+
+===Etymology 3===
+
+====Pronunciation====
+* {{IPA|/kakato/|lang=ja}}
+
+====Noun====
+{{ja-noun|かかと}}
+
+# the [[heel]]
+
+===Etymology 4===
+
+====Pronunciation====
+* {{IPA|/akuto/|lang=ja}}
+
+====Noun====
+{{ja-noun|あくと}}
+
+# heel
+
+===Etymology 5===
+
+====Pronunciation====
+* {{IPA|/aɡuto/|lang=ja}}
+
+====Noun====
+{{ja-noun|あぐと}}
+
+# heel
+
+====Kanji====
+{{ja-kanji|grade=|rs=足09}}
+
+# {{defn|lang=ja|sort=足09}}
+
+=====Readings=====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[つぐ]] (tsugu), [[くびす]] (kubisu)|nanori=}}
+
+===References===
+* {{Shin'yaku Kegonkyō Ongi Shiki}}
+
+[[Category:Japanese basic words|かかと]]
+[[Category:Japanese basic words|きびす]]
+[[Category:Japanese terms spelled with 踵]]
+[[Category:Japanese terms written with one Han script character]]
+
+----
+
+==Kikai==
+{{attention|kzg}}
+
+===Kanji===
+{{head|kzg|kanji|hiragana|あどぅ|romaji|adu}}
+
+===Noun===
+{{head|kzg|noun|hiragana|あどぅ|romaji|adu}}
+
+# [[heel]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=종|eumhun=|rv=jong|mr=chong|y=cong}}
+
+# {{defn|lang=ko|sort=足09}}
+
+----
+
+==Okinawan==
+{{attention|ryu}}
+
+===Kanji===
+{{head|ryu|kanji|hiragana|あどぅ|romaji|adu}}
+
+===Noun===
+{{head|ryu|noun|hiragana|あどぅ|romaji|adu}}
+
+# [[heel]]
+
+[[es:踵]]
+[[fr:踵]]
+[[ko:踵]]
+[[hi:踵]]
+[[it:踵]]
+[[lo:踵]]
+[[lt:踵]]
+[[hu:踵]]
+[[mg:踵]]
+[[ja:踵]]
+[[pl:踵]]
+[[pt:踵]]
+[[ru:踵]]
+[[sv:踵]]
+[[th:踵]]
+[[chr:踵]]
+[[zh:踵]]

@@ -1,0 +1,60 @@
+{{also|成败}}
+==Chinese==
+{{zh-forms|s=成败}}
+
+===Pronunciation===
+{{zh-pron
+|m=chéngbài
+|c=sing4 baai6
+|mn=sêng-pāi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[success]] and/or [[failure]]
+
+====Derived terms====
+{{zh-der|不以成敗論英雄}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|せい|はい|k2=ばい|yomi=o|r=y}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|acc2=a|せいばい|y=ko}}
+
+====Noun====
+{{ja-noun|せいばい}}
+
+# [[punishment]]
+
+====Verb====
+{{ja-verb-suru|せいばい}}
+
+# to [[punish]]
+
+=====Conjugation=====
+{{ja-suru|せいばい}}
+
+===Etymology 2===
+{{ja-kanjitab|せい|はい|yomi=o}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|acc=h|acc2=a|せいはい|y=ko}}
+
+====Noun====
+{{ja-noun|せいはい}}
+
+# [[success]] or [[failure]]
+
+[[zh-min-nan:成敗]]
+[[hu:成敗]]
+[[mg:成敗]]
+[[zh:成敗]]

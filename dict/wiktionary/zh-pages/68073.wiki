@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bùshǒu
+|c=bou6 sau2
+|mn=pō͘-siú
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[radical]] {{qualifier|of a Chinese character, as used in a traditional Chinese dictionary}}
+
+====See also====
+* {{l|cmn|偏旁|tr=piānpáng}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぶ|しゅ|yomi=on}}
+
+===Noun===
+{{ja-noun|ぶしゅ}}
+
+# an element of a [[kanji]] character; a kanji [[radical]].
+#: {{ja-usex|部首とは、漢字を構成する主な要素のひとつです。|ぶしゅ と は、かんじ を こうせい する おも な ようそ の ひとつ です。|Radicals are an important element for organizing kanji characters.}}
+
+====Hyponyms====
+* [[草冠]]
+
+===See also===
+* [[偏]] (へん)
+* [[旁]] (つくり)
+* [[冠]] (かんむり)
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab|部|首}}
+
+===Noun===
+{{ko-noun|rv=busu|hangeul=부수}}
+
+# {{hanja form of|부수|hanja [[radical]]}}
+
+[[fr:部首]]
+[[ko:部首]]
+[[hu:部首]]
+[[mg:部首]]
+[[ms:部首]]
+[[ja:部首]]
+[[ru:部首]]
+[[fi:部首]]
+[[chr:部首]]
+[[uk:部首]]
+[[zh:部首]]

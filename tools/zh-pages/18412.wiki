@@ -1,0 +1,280 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{stroke order|strokes=6}}
+{{Han char|rn=78|rad=歹|as=02|sn=6|four=10212|canj=MNP|ids=⿸歹匕 or ⿱一⿰夕匕}}
+
+====References====
+* {{Han ref|kx=0578.220|dkj=16365|dj=0970.070|hdz=21380.060|uh=6B7B|ud=27515|bh=A6BA|bd=42682}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=𣦸,𣦹,𠒁,𠑾,𦭀}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|歹|人|ls=ic}}.
+
+===Etymology===
+From {{inh|zh|sit-pro|*səj}}.
+
+===Pronunciation===
+{{zh-pron
+|m=sǐ
+|ma=y
+|c=sei2,si2
+|c-t=lhi2
+|h=pfs=sí
+|md=sī
+|mn=sí/qz:sír/tw,xm,zz:sú
+|mn_note=sí - vernacular, sú - literary
+|mn-t=si2
+|w=2xi,2sr
+|w_note=2xi - colloquial; 2sr - literary
+|mc=y
+|oc=y
+|cat=v,a,n,adv,pref
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[die]], [[death]], [[dead]].
+#: {{zh-x|餓死|to '''die''' of starvation}}
+#: {{zh-x|佢 兩 年 前 已經 死 咗。|He already '''died''' two years ago.|C}}
+#: {{zh-x|高校 學生 食堂 吃 出 死 老鼠。|A '''dead''' mouse was found in college cafeteria food.}}
+# [[inactive]]
+#: {{zh-x|死結|'''encased''' knot}}
+#: {{zh-x|死機|(of a computer system) to '''crash'''}}
+#: {{zh-x|路 被 垃圾 堵 死 了。|The road is '''blocked''' by wastes.}}
+# {{lb|zh|only in compounds}} [[deadly]]; [[fatal]]; [[killing]]
+#: {{zh-x|死刑|'''capital''' punishment}}
+#: {{zh-x|死戰|'''deadly''' battle}}
+# {{lb|zh|colloquial}} [[very]]; [[bloody]]; [[totally]]
+#* {{zh-x|我 累{lèi} 死 了。|I'm '''dead''' tired.}}
+#* {{zh-x|他 死 鸭子 嘴 硬。|He is pretty stubborn.}}
+#* {{zh-x|嘈 死！|You're being '''really''' noisy!|C}}
+# {{lb|zh|offensive}} [[damned]]; [[damn]]
+#* {{zh-x|呢{nei1}個 死 阿伯 唔識 揸車。|This '''damn''' geezer can't drive.|C}}
+#* {{zh-x|死 鬼佬|'''goddamn''' white|C}}
+# {{lb|zh|slang|offensive}} to [[disappear]]; to [[go]]
+#* {{zh-x|嗰 枝 死人 原子筆 '''死''' 咗 去 邊 呀？|Where's that goddamn pen?|C-GZ}}
+#* {{zh-x|你 這個 死人 '''死''' 到 哪裡 去 了，打 手機 也 不 接。|Where the hell have you '''been'''? Why are you not answering my calls? (said by wife)}}
+#* {{zh-x|佢哋 今次 死 咗 去 邊 呀？|Where'd they fuck off to this time?|C}}
+
+====Usage notes====
+* The adjective 死 ("dead, inactive, etc.") can not be used as a [[predicative adjective]]. The sentence *這隻狗死 generally does not mean "This dog is dead". For the meaning "is dead", usually the verb 死 in the perfect aspect ("to have died") is used instead:
+*: {{zh-x|這 隻 狗 死 了。|This dog has '''died'''.}}
+* The verb 死 ("to die") lacks a present meaning and denotes either past (in perfect aspect) or future (not in perfect aspect) events. It can not be modified by the progressive aspect marker [[正在]] or [[着]].
+*: {{zh-x|不死|"will not die", immortal}}
+*: {{zh-x|没 死|"did not die", alive}}
+
+====Synonyms====
+* {{sense|to die}} {{zh-l|過身}}, {{qualifier|Cantonese slang}} {{zh-l|瓜|gwaa1}}, {{qualifier|Cantonese slang}} {{zh-l|釘|deng1}}
+
+====Compounds====
+{{zh-der|死不了|死不冥目|死不瞑目|死中求生|死乞白賴|死亡|死亡人數|死亡率|死亡筆記|死人|死仗|死信|死傷|死傷者|死刑|死別|死到臨頭|死區|死去|死去活來|死命|死囚|死因|死守|死寂|死對頭|死屍|死巷|死後|死心|死心塌地|死心眼兒|死戰|死敵|死文字|死於安樂|死於非命|死有餘辜|死期|死板|死棋|死機|死機藍屏|死死|死水|死活不顧|死海|死海古卷|死海經卷|死灰復燃|死無對證|死無葬身之地|死生|死產|死症|死皮賴臉|死硬|死神|死穴|死結|死結難解|死絕|死緩|死罪|死者|死而不僵|死而後已|死而無悔|死衚衕|死裡逃生|死角|死訊|死記|死記硬背|死賬|死路|死難|死難者|死馬當活馬醫|死鬼|死麵|死點|死黨|亂石砸死|人死|作死|假死|傷心致死|兇死|冒死|冤死|凍死|出生入死|刺死|勒死|半死|卡死|去死|吊死|哀莫大於心死|垂死|堵死|壞死|大難不死|安樂死|害死|將死|尋死|弄死|心肌梗死|愛莫大於心死|慘死|打死|打蛇不死|扼死|找死|拚死|拼死|捨生忘死|掐死|揍死|摔死|撞死|早死|昧死|會死|束手待死|梗死|橫死|殉死|殊死|殺死|氣死|治死|淹死|溺死|瀕死|炸死|無名戰死|燒死|猝死|生死|生老病死|疼死|病死|砍死|砸死|絞死|縊死|臨死|致死|處死|要死|詐死|該死|誓死|貧血性壞死|貪生怕死|賊死|賜死|赴死|逼死|過勞死|醉生夢死|釘死|長生不死|養生送死|餓死|驟死}}
+
+{{zh-cat|Beginning|Intermediate|Death}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Kanji===
+{{ja-kanji|grade=3|rs=歹02}}
+
+# [[death]]
+# to [[die]]
+
+====Readings====
+{{ja-readings
+|goon=[[し]] (shi)
+|kanon=[[し]] (shi)
+|kun=[[しぬ|し.ぬ]] ({{ja-l|死ぬ}}, shi.nu), [[ころす|ころ.す]] ({{ja-l|死す}}, koro.su) {{non-joyo-reading}}
+}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|し}}
+Appears to be a [[conflation]] of {{etyl|ltc|ja|sort=し}} {{m|ltc|死|tr=sij<sup>X</sup>}} (compare modern {{etyl|cmn|-}} reading ''sǐ'') with an {{etyl|ojp|ja|sort=し}} root that happened to have a similar pronunciation to the {{etyl|ltc|-}} and was probably cognate with {{m|ja|去る|tr=saru||to go, to go away}}.
+
+In kanji compounds, this would be considered as {{m|ja|音読み|sc=Latn|on'yomi}}; on its own, this could be considered as either {{m|ja|音読み|sc=Latn|on'yomi}} or {{m|ja|訓読み|sc=Latn|kun'yomi}}.
+
+====Pronunciation====
+{{ja-pron|し|acc=1|acc_ref=DJR,NHK,SMK5}}
+
+====Noun====
+{{ja-noun|し}}
+
+# [[death]]
+
+=====Derived terms=====
+{{der-top}}
+{{l|ja|sc=Latn|訓読み|Kun'yomi}}:
+* {{ja-r|死ぬ|しぬ}}: to [[die]]
+
+{{l|ja|sc=Latn|音読み|On'yomi}}:
+* {{ja-r|死因|し.いん}}: [[cause]] of [[death]]
+* {{ja-r|死王|しおう}}: a dead [[king]]
+* {{ja-r|死王|^しおう}}: the [[Buddhist]] [[king]] of the [[dead]]
+* {{ja-r|死火|しか}}: a dead [[flame]], a [[fire]] that has [[gone out]]; {{qualifier|Buddhism}} the [[flame]] of [[death]]
+* {{ja-r|死火山|しかざん}}: an [[extinct]] [[volcano]]
+* {{ja-r|死花|しか}}: [[paper]] [[flower]]s used for a [[funeral]]
+* {{ja-r|死花花|しかばな}}: a [[decoration]] used at [[funeral]]s consisting of white [[paper]] [[fringe]]s on vertical [[stake]]s
+* {{ja-r|死貨|しか}}: a [[currency]] that is no longer [[circulate]]d; any [[asset]] that is [[hoard]]ed and not [[circulate]]d
+* {{ja-r|死海|^しかい}}: the [[Dead Sea]]
+* {{ja-r|死灰|しかい}}: [[cold]], [[dead]] [[ash]]es; the [[ash]]es remaining after [[cremation]]
+* {{ja-r|死界|しかい}}: the [[underworld]], the [[world]] of the [[dead]]; a [[blind spot]], somewhere [[out of view]]
+* {{ja-r|死骸|しがい}}: a [[corpse]], a [[cadaver]]; a [[carcass]]
+* {{ja-r|死角|しかく}}: a [[blind spot]], somewhere [[out of view]]; [[dead]] [[ground]] where launched [[projectile]]s do not fall
+* {{ja-r|死学|しがく}}: a [[field]] of [[study]] that has no [[practical]] [[use]]
+* {{ja-r|死活|しかつ}}: [[life]] and [[death]]
+* {{ja-r|死勘定|し かんじょう}}: a [[dead]] [[account]], a [[trading]] account that has no [[activity]]
+* {{ja-r|死期|しき}}, {{ja-r|死期|しご}}: the [[time]] of [[death]], the [[moment]] of one's death
+* {{ja-r|死球|しきゅう}}: in [[baseball]], a [[pitch]] that hits the [[batter]], resulting in a free [[walk]]
+* {{ja-r|死去|しきょ}}: one's [[death]], one's [[passing]]
+* {{ja-r|死境|しきょう}}: one's [[place]] of [[death]]; a [[deadly]] place
+* {{ja-r|死菌|しきん}}: a [[dead]] [[bacterium]] or [[inactive]] [[virus]] used as the [[basis]] for a [[vaccine]]
+* {{ja-r|死句|しく}}: a [[plain]] [[phrase]] or [[line]] in a [[poem]], containing no [[imply|implied]] [[meaning]]s; {{qualifier|Buddhism}} an [[ascetic]]'s [[unsaid]] [[word]]s or [[phrase]]s, due to [[mental]] [[mistake]]s
+* {{ja-r|死苦|しく}}: {{qualifier|Buddhism}} the [[suffering]]s of [[death]]
+* {{ja-r|死刑|しけい}}: [[capital punishment]], the [[death penalty]], [[execution]]
+* {{ja-r|死結|しけつ}}: a kind of [[fragrant]] [[wood]] used in [[incense]] that is only fragrant years after [[harvest]]ing
+* {{ja-r|死後|しご}}: the [[time]] [[after]] one's [[death]]
+* {{ja-r|死語|しご}}: a [[dead language]]
+* {{ja-r|死罪|しざい}}: a [[capital crime]], a [[capital punishment]]
+* {{ja-r|死屍|しし}}: a [[dead]] [[body]], a [[corpse]]
+* {{ja-r|死守|ししゅ}}: [[defense]] to the [[last]] [[man]]
+* {{ja-r|不死|ふし}}: [[undying]], [[immortality]]
+* {{ja-r|不老不死|ふろう ふし}}: [[agelessness]] and [[immortality]]
+* {{ja-r|死所|ししょ}}: a [[place]] of [[death]], the [[place]] where one [[dies]]
+* {{ja-r|死生|ししょう}}, {{ja-r|死生|しせい}}: [[life]] and [[death]]
+* {{ja-r|死相|しそう}}: an [[appearance]] as if one were already [[dead]], the [[shadow]] of [[death]], the [[look]] of death
+* {{ja-r|死蔵|しぞう}}: [[put away|putting]] something [[put away|away]] and never using it
+* {{ja-r|死地|しち}}: a [[dead]] [[place]]; a [[place]] so [[dangerous]] that one [[expect]]s to [[die]] there
+* {{ja-r|死闘|しとう}}: a [[fight]] to the [[death]]
+* {{ja-r|死人|しにん}}: a [[dead]] [[person]]l; a [[corpse]]
+* {{ja-r|死者|ししゃ}}: the [[dead]]
+* {{ja-r|死体|したい}}: a [[cadaver]]
+* {{ja-r|死物|しぶつ}}: something [[unused]], [[useless]], or [[unusable]]
+* {{ja-r|死文|しぶん}}: a [[dead]] [[law]], a [[law]] that is on the [[books]] but never [[enforced]]; a [[document]] that is purely [[formal]] and [[empty]] of [[meaning]]
+* {{ja-r|死別|しべつ}}: [[bereavement]]
+* {{ja-r|死没|しぼつ}}: [[death]], [[dying]]
+* {{ja-r|死命|しめい}}: [[life]] and [[death]], [[fate]]
+* {{ja-r|死霊|しりょう}}, {{ja-r|死霊|しれい}}: the [[spirit]] of a [[dead]] [[person]], a [[ghost]]
+* {{ja-r|死力|しりょく}}: [[strength]] or [[exertion]] as if one were [[avoid]]ing [[imminent]] [[death]]: with all one's [[might]]
+* {{ja-r|死去|しきょ}}: [[passing]], [[death]]
+* {{ja-r|死刑|しけい}}: the [[death]] [[penalty]], [[execution]]
+* {{ja-r|死傷|ししょう}}: a [[mortal]] [[wound]] or [[injury]], [[casualty]]
+* {{ja-r|死亡|しぼう}}: [[passing]], [[death]]
+* {{ja-r|死滅|しめつ}}: [[extinction]], [[die out|dying out]]
+* {{ja-r|頓死|とんし}}: [[sudden]] [[death]]
+{{der-bottom}}
+
+====Verb====
+{{ja-verb-suru|し}}
+
+# to [[die]]
+#: Considered somewhat more [[archaic]] or [[formal]] than {{m|ja|死ぬ|tr=shinu}}.
+
+=====Conjugation=====
+{{ja-suru|し}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|しに}}
+The {{m|ja|連用形|tr=ren'yōkei||stem form}} of verb {{m|ja|死ぬ|tr=shinu||to die}}.<ref name="DJR">{{R:Daijirin}}</ref><ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|しに|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|しに}}
+
+# [[death]], [[dying]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|死後|しにあと}}: the [[time]] [[after]] one's [[death]], particularly referring to the time after the death of one's [[spouse]]
+* {{ja-r|死一倍|しに.いちばい}}: a kind of [[loan]] whereby the [[borrower]] must repay [[double]] the loan amount upon the [[death]] of the borrower's [[parent]]s and subsequent [[inheritance]] of parental [[asset]]s
+* {{ja-r|死軍|しにいくさ}}: a [[fight to the death]]
+* {{ja-r|死絵|しにえ}}: a [[print]] or [[poster]] of a famous [[actor]] created on the occasion of that actor's [[death]], noting the actor's [[posthumous]] [[name]], place of [[burial]], and [[time]] of death
+* {{ja-r|死顔|しにがお}}: the [[face]] or [[facial]] [[expression]] of a [[dead]] [[person]]
+* {{ja-r|死覚悟|しにかくご}}: being [[prepared]] to [[die]], [[readiness]] to die
+* {{ja-r|死学問|しにがくもん}}: a [[field]] of [[study]] that has no [[practical]] [[use]]
+* {{ja-r|死掛|しにかけ}}: [[dying]], the [[act]] of dying
+* {{ja-r|死金|しにがね}}: [[money]] [[save]]d in reserve to cover the [[cost]]s of one's own death; [[money]] that is [[hoard]]ed but not [[use]]d; [[money]] [[spent]] to no [[effect]], [[waste]]d money
+* {{ja-r|死神|しにがみ}}: the [[god]] of [[death]], [[Death]]
+* {{ja-r|死極|しにぎわめ}}: [[determination]] or [[resolution]] to [[die]]
+* {{ja-r|死狂|しにぐるい}}: [[crazy]] enough to [[die]]; [[crazy]] because one is [[unready]] to [[die]] and [[fear]]s [[death]]
+* {{ja-r|死気|しにげ}}: a [[sense]] of [[death]], [[deathliness]]
+* {{ja-r|死業|しにごう}}: the [[karma]] of one's [[previous]] [[life]] that causes one's death in this life; a [[death]] attributed to [[karma]]
+* {{ja-r|死外|しにはずれ}}: the act of just barely avoiding death
+* {{ja-r|死花|しにばな}}: [[posthumous]] [[fame]] or [[honor]]; an [[exceptional]] and [[memorable]] way of [[dying]]
+{{der-bottom}}
+
+====Prefix====
+{{ja-pos|しに|prefix}}
+
+# [[bloody]], [[stupid]], [[goddamn]]
+#: Used as a [[negative]] or [[pejorative]] [[intensifier]].
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|死戯|しにたわけ}}: [[bloody]] [[foolishness]], [[goddamn]] [[mess around|messing around]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Death|し]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[사]]|eumhun=|mr=sa|y=sa}}
+
+# die
+# death
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tử]], [[long]]|rs=歹02}}
+
+# {{defn|lang=vi|sort=歹02}}
+
+====Compounds====
+* [[tử vong]] [死亡]
+* [[tự tử]] [自死]
+
+[[zh-min-nan:死]]
+[[cs:死]]
+[[el:死]]
+[[fr:死]]
+[[ko:死]]
+[[it:死]]
+[[ku:死]]
+[[lo:死]]
+[[lt:死]]
+[[li:死]]
+[[hu:死]]
+[[mg:死]]
+[[fj:死]]
+[[nl:死]]
+[[ja:死]]
+[[no:死]]
+[[pl:死]]
+[[ru:死]]
+[[sv:死]]
+[[ta:死]]
+[[th:死]]
+[[chr:死]]
+[[tr:死]]
+[[uk:死]]
+[[zh:死]]

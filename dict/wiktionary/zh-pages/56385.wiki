@@ -1,0 +1,102 @@
+{{also|辭書|辞书}}
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|じ|しょ}}
+A repurposing of older term {{m|ja|辞書|tr=jisho||letter of resignation|pos=see below}}, based on a reanalysis of the constituent characters {{m|ja|辞|tr=ji||resignation, quitting; word}} + {{m|ja|書|tr=sho||writing, record, document, book}}. Influenced by {{etyl|ltc|-}}-derived term {{m|ja|辞典|tr=jiten||dictionary}}, wherein the {{m|ja|辞}} character expresses the meaning {{m|en|word}} from {{etyl|ltc|ja|sort=じしょ}} {{m|zh|辭|tr=zi}}, instead of the meaning {{m|en|resignation}} or {{m|en|quitting}} from {{etyl|ltc|-}} {{m|zh|辤|tr=zi}}. Note that both of these older character forms were later conflated in both {{etyl|ja|-}} and {{etyl|zh|-}} into the simplified version [[辞]], with the {{m|en|word}} meaning becoming dominant in {{etyl|zh|-}}.
+
+First appearance in Japanese with the {{m|en|dictionary}} sense might be the 1595 publication by the Jesuits of the {{lang|ja|羅葡日辞書}} (''Ra-Ho-Nichi Jisho'', “Latin-Portuguese-Japanese Dictionary”), alternate title ''{{lang|la|Dictionarium Latino Lusitanicum, ac Iaponicum}}''.<ref name="Nipponica">'''1984''', {{lang|ja|[[w:日本大百科全書|日本大百科全書：ニッポニカ]]}} (''Nippon Dai Hyakka Zensho: Nipponica'', “[[w:Encyclopedia Nipponica|Encyclopedia Nipponica]]”) (in Japanese), [[w:Tokyo|Tōkyō]]: [[w:Shogakukan|Shogakukan]], relevant text online [https://kotobank.jp/word/%E8%BE%9E%E5%85%B8-74325#西欧系日本語辞典 here]. Note the [[typo]] in the Latin name as listed in this source, showing ''Dictionaricum'' instead of the correct {{m|la|dictionarium|Dictionarium}}.</ref>
+
+Compare modern {{etyl|cmn|-}} {{m|zh|辭書|tr=císhū||dictionary, lexicon}}, possibly reborrowed from or otherwise influenced by the Japanese.
+
+====Pronunciation====
+{{ja-pron|y=go|じしょ|acc=1|acc_ref=NHK,DJR,SMK5}}
+
+====Noun====
+{{ja-noun|じしょ|kyu=辭書}}
+
+# a [[dictionary]] {{gloss|publication that explains the meanings of an ordered list of words}}
+
+=====Synonyms=====
+{{der-top|Synonyms}}
+* {{ja-r|辞典|じてん}}
+* {{ja-r|辞林|じりん}}
+* {{ja-r|字引|じびき}}
+* {{ja-r|辞彙|じ.い}}
+{{der-bottom}}
+
+=====See also=====
+{{der-top|See also}}
+* {{ja-r|事典|じてん}}
+* {{ja-r|字典|じてん}}
+{{der-bottom}}
+
+[[Category:Japanese basic words|ししょ']]
+[[Category:ja:Dictionaries|ししょ']]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|じ|しょ}}
+From {{etyl|ltc|ja|sort=じしょ}} compound {{m|zh|辤書|tr=zi syo|lit=quit + writing}}.
+
+====Pronunciation====
+{{ja-pron|y=go|じしょ|acc=1|acc_ref=NHK,DJR,SMK5}}
+
+====Noun====
+{{ja-noun|じしょ|kyu=辤書}}
+
+# a [[letter]] of [[resignation]]
+# a formal document of [[abdication]] when one [[emperor]] [[step down|steps down]] and a new emperor [[ascend]]s the [[throne]]
+
+=====Synonyms=====
+{{der-top|Synonyms}}
+* {{sense|resignation}} {{ja-r|辞表|じひょう}}
+* {{sense|abdication}} {{ja-r|御報書|ごほうしょ}}
+{{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=irr|じ|そ|sort=しそ'}}
+The {{m|ja|直音表記|tr=chokuon hyōki|lit=straight-sound spelling}} of ''jisho'' above. Most common from the [[w:Heian period|Heian]] through the [[w:Muromachi period|Muromachi]] periods.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+It is unclear if the pronunciation itself also shifted, or just the spelling.
+
+====Pronunciation====
+{{ja-pron|y=i|じそ}}
+
+====Noun====
+{{ja-noun|じそ|kyu=辤書}}
+
+# {{lb|ja|sort=しそ'|obsolete}} a [[letter]] of [[resignation]]
+
+===References===
+<references/>
+
+[[zh-min-nan:辞書]]
+[[ca:辞書]]
+[[cy:辞書]]
+[[et:辞書]]
+[[el:辞書]]
+[[eu:辞書]]
+[[fr:辞書]]
+[[ko:辞書]]
+[[id:辞書]]
+[[sw:辞書]]
+[[ku:辞書]]
+[[lo:辞書]]
+[[lt:辞書]]
+[[li:辞書]]
+[[hu:辞書]]
+[[mg:辞書]]
+[[mn:辞書]]
+[[nl:辞書]]
+[[ja:辞書]]
+[[uz:辞書]]
+[[km:辞書]]
+[[pl:辞書]]
+[[pt:辞書]]
+[[ro:辞書]]
+[[sh:辞書]]
+[[sv:辞書]]
+[[tl:辞書]]
+[[tr:辞書]]
+[[uk:辞書]]
+[[zh:辞書]]

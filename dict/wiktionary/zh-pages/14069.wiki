@@ -1,0 +1,58 @@
+{{character info/new}}
+{{also|孑|子}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=39|rad=子|as=00|sn=3|var=3|four=17400|canj=NNO}}
+
+# [[beautiful]]
+
+====References====
+* {{Han ref|kx=0277.081|hdz=21008.020|uh=5B53|ud=23379|bh=A46E|bd=42094}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jué
+|c=kyut3
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-obsolete}} [[missing]] one's [[right]] [[arm]]
+
+=====Related terms=====
+* {{zh-l|孒|missing one's left arm}}
+
+====Compounds====
+{{zh-der|孑孓}}
+
+===References===
+* {{R:twedu|A00984}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quyết]]|rs=子00}}
+
+# {{defn|lang=vi|sort=子00}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5b53 Nom Foundation]
+
+[[fr:孓]]
+[[mg:孓]]
+[[ms:孓]]
+[[pl:孓]]
+[[th:孓]]
+[[zh:孓]]

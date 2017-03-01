@@ -1,0 +1,48 @@
+{{also|手动}}
+==Chinese==
+{{zh-forms|s=手动}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǒudòng
+|c=sau2 dung6
+|mn=chhiú-tōng
+|cat=a,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|of machines|cars}} [[manual]] {{gloss|used as an attributive}}
+
+====Antonyms====
+* {{zh-l|自動}}
+
+===Noun===
+{{zh-noun}}
+
+# [[hand]] [[movement]]
+
+===See also===
+* {{qualifier|not to be confused with}} {{zh-l|動手}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅ|どう|yomi=on}}
+
+===Noun===
+{{ja-noun|しゅどう}}
+
+# worked by hand, hand-powered
+#: {{ja-usex|手動より電動車椅子|しゅどう より でんどう くるまいす|hand-powered wheelchair rather than a motorized one}}
+# {{lb|ja|figuratively}} being [[manual]] (in operation)
+#: {{ja-usex|無線LANの設定を手動で行う|むせん LAN の せってい を しゅどう で おこなう|set up wireless LAN manually}}
+
+====Antonyms====
+* {{ja-r|自動|じどう}}
+
+[[zh-min-nan:手動]]
+[[ko:手動]]
+[[chr:手動]]
+[[zh:手動]]

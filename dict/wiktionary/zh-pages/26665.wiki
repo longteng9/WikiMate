@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|綯|裤}}
+==Translingual==
+{{ja-forms|[[袴]]|[[裤]]|褲}}
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=10|sn=16|four=34227|canj=LIJJ|ids=⿰衤庫}}
+
+# [[trousers]], [[pants]]
+
+====References====
+* {{Han ref|kx=1122.391|dkj=34523|dj=1590.250|hdz=53108.080|uh=8932|ud=35122|bh=BFC7|bd=49095}}
+
+----
+
+==Chinese==
+{{zh-forms|s=裤}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kù
+|c=fu3
+|h=pfs=fu
+|md=
+|mn=khò͘
+|mn-t=kou3
+|w=
+|mc=
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[pants]], [[trousers]] {{zh-mw|c:條}}
+
+====Compounds====
+{{zh-der|褲衩|褲衩兒|褲帶|褲襠|褲兜|褲兜儿|褲管|褲腳|褲腳兒|褲筒|褲頭|褲頭兒|褲腿|褲腿兒|褲襪|褲線|褲腰|褲子}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=衣10}}, 袴
+
+# {{defn|lang=ja|sort=衣10}}
+
+====Readings====
+* {{ja-readings|on=[[こ]] (ko)|kun=[[ずぼん]] (zubon), [[hakama|はかま]] (hakama)|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khố]]|rs=衣10}}
+
+# {{defn|lang=vi|sort=衣10}}
+
+[[zh-min-nan:褲]]
+[[fr:褲]]
+[[lo:褲]]
+[[hu:褲]]
+[[mg:褲]]
+[[pl:褲]]
+[[th:褲]]
+[[vi:褲]]
+[[zh:褲]]

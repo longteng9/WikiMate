@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=201|rad=黃|as=05|sn=17|four=40814|canj=TCYG}}
+
+# [[yellow]]
+# [[augment]], [[increase]]
+
+====References====
+* {{Han ref|kx=1516.120|dkj=47937|dj=2048.110|hdz=74597.100|uh=9EC8|ud=40648|bh=EFAE|bd=61358}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=斢}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tǒu
+|c=tau2
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[yellow]]
+# {{zh-only|黈益}}
+
+====Compounds====
+{{zh-der|黈益|黈纊}}
+
+===References===
+* {{R:twedu|B06238}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=黃05}}
+
+# {{defn|lang=ja|sort=黃05}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō), [[つ]] (tsu)|kun=[[きいろ]] (kiiro)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=주|eumhun=|rv=ju|mr=chu|y=cwu}}
+
+# [[누른빛]]: [[yellowy]]
+
+[[fr:黈]]
+[[hu:黈]]
+[[pl:黈]]
+[[th:黈]]
+[[zh:黈]]

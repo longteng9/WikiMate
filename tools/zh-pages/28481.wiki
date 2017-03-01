@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|辙}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=12|sn=19|four=58040|canj=JJYBK|ids=⿲車育攵}}
+
+====Related characters====
+* [[徹]] [[撤]]
+
+====References====
+* {{Han ref|kx=1248.230|dkj=38524|dj=1727.100|hdz=53557.010|uh=8F4D|ud=36685|bh=C2E1|bd=49889}}
+
+----
+
+==Chinese==
+{{zh-forms|s=辙}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|車|t1=wagon|徹|ls=psc|c1=s|c2=p}} (彳 removed from phonetic) – wagon tracks.
+
+===Pronunciation===
+{{zh-pron
+|m=chè
+|c=cit3
+|mn=tia̍t
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[wagon]] [[rut]]s, [[wheel]] [[track]]s
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=車12}}
+
+# {{defn|lang=ja|sort=車12}}
+
+====Readings====
+* {{ja-readings|on=[[てつ]] (tetsu)|kun=[[わだち]] (wadachi)|nanori=}}
+
+===Noun===
+{{ja-noun|わだち}}
+
+# wheel [[rut]], [[furrow]]
+
+{{ja-noun|てつ}}
+
+# wheel [[rut]], [[furrow]]
+# another person's mistake
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=철|eumhun=|rv=cheol|mr=ch'ŏl|y=chel}}
+
+# {{defn|lang=ko|sort=車12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[triệt]]|rs=車12}}
+
+# {{defn|lang=vi|sort=車12}}
+
+[[fr:轍]]
+[[hu:轍]]
+[[ja:轍]]
+[[pl:轍]]
+[[th:轍]]
+[[zh:轍]]

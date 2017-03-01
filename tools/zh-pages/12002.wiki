@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=27|rad=厂|as=10|sn=12|four=71282|canj=MTUO|ids=⿸厂欮}}
+
+# (personal pronoun) [[he]], [[she]], [[it]]
+
+====References====
+* {{Han ref|kx=0162.220|dkj=02992|dj=0370.080|hdz=10076.130|uh=53A5|ud=21413|bh=B3D6|bd=46038}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jué
+|c=kyut3
+|h=pfs=kiâ
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|允執厥中|克盡厥職|凋厥|刁厥|刁天厥地|厥初|厥功甚偉|厥功至偉|厥弛|厥後|厥疾勿瘳|厥角|大放厥詞|大放厥辭|大肆厥辭|寒厥|昏厥|暈厥|痰厥|突厥|突厥文|突厥語族|繩厥祖武|詒厥|詒厥之謀|詒厥孫謀|貽厥|貽厥孫謀|驚厥}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=厂10}}
+
+# {{defn|lang=ja|sort=厂10}}
+
+====Readings====
+* {{ja-readings|on=[[けつ]] (ketsu), [[くつ]] (kutsu)|kun=[[その]] (sono), [[それ]] (sore)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[궐]], [[굴]]|rv=gwol, gul|mr=kwŏl, kul}}
+
+# [[he]], [[she]], [[it]], [[they]]
+# [[barbarian]] [[tribe]] or [[country]], ''eg.'', [[突]][[厥#Korean|厥]] ([[돌궐]], ''originally'', [[돌굴]]), compare [[蕃]][[國]] ([[번국]]), [[藩]][[國]] ([[번국]])
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cột]], [[quyết]]|rs=厂10}}
+
+# {{defn|lang=vi|sort=厂10}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=53a5 Nom Foundation]
+
+[[fr:厥]]
+[[ko:厥]]
+[[hu:厥]]
+[[mg:厥]]
+[[ja:厥]]
+[[pl:厥]]
+[[th:厥]]
+[[zh:厥]]

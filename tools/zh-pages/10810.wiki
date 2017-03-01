@@ -1,0 +1,106 @@
+{{character info/new}}
+{{also|占|估}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=21260|canj=OYR|ids=⿰亻占}}
+
+# [[occupy]] by [[force]], [[usurp]]
+# [[possess]]
+
+====References====
+* {{Han ref|kx=0098.140|dkj=00510|dj=0208.040|hdz=10131.090|uh=4F54|ud=20308|bh=A6FB|bd=42747}}
+
+----
+
+==Chinese==
+{{zh-forms|s=占|t2=占}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhàn
+|c=zim3
+|h=pfs=cham/chiam
+|mn=chiàm
+|mc=y
+|oc=y
+|ma=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===Compounds===
+{{der3|title=Compounds
+| {{zh-l|佔據}}
+| {{zh-l|佔領}}
+| {{zh-l|佔領者}}
+| {{zh-l|佔滿}}
+| {{zh-l|佔便宜}}
+| {{zh-l|佔上風}}
+| {{zh-l|佔為己有}}
+| {{zh-l|佔下風}}
+| {{zh-l|佔先}}
+| {{zh-l|佔線}}
+| {{zh-l|佔用}}
+| {{zh-l|佔優}}
+| {{zh-l|佔優勢}}
+| {{zh-l|佔有}}
+| {{zh-l|佔有率}}
+| {{zh-l|佔主導地位}}
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人05}}
+
+# [[possess]], [[usurp]], [[occupy]] by [[force]]
+
+====Readings====
+{{ja-readings
+|goon=[[ちん]] (chin)
+|kanon=[[せん]] (sen)
+|kun=[[みる|み.る]] (mi.ru), [[うかがう|うかが.う]] (ukaga.u), [[しめる|しめ.る]] (shime.ru)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=점|rv=jeom|mr=chŏm}}
+
+# [[occupy]]
+# [[seize]]
+# [[take]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chiêm]], [[chiếm]]|rs=人05}}
+
+# {{defn|lang=vi|sort=人05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f54 Nom Foundation]
+
+[[fr:佔]]
+[[ko:佔]]
+[[li:佔]]
+[[hu:佔]]
+[[mg:佔]]
+[[ja:佔]]
+[[pl:佔]]
+[[th:佔]]
+[[zh:佔]]

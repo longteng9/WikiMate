@@ -1,0 +1,44 @@
+==Japanese==
+{{ja-kanjitab|真|面}}
+
+===Etymology 1===
+From {{etyl|ojp|ja}} {{m|ja|真||real, true, straight|tr=ma}} + {{m|ja|つ||possessive particle|tr=tsu}} + {{m|ja|面||face, facing|tr=mo}}.
+
+====Adjectival noun====
+{{ja-adj|infl=na|まとも}}
+
+# [[direct]], [[straight]]
+# [[honest]], [[proper]]
+
+=====Inflection=====
+{{ja-na|まとも}}
+
+====Alternative forms====
+* {{ja-l|正面}}
+* {{ja-l|真とも}}
+
+===Etymology 2===
+From {{etyl|ojp|ja}} {{m|ja|真||real, true, straight|tr=ma}} + {{m|ja|面||face, facing|tr=omote}}.
+
+====Noun====
+{{ja-noun|まおもて}}
+
+# The [[front]]. Compare {{ja-l|正面}}.
+
+===Etymology 3===
+From {{etyl|ojp|ja}} prefix {{m|ja|真||real, true, straight|tr=ma}} + {{m|ja|ほ||excellence|tr=ho}}.
+
+====Adjective====
+{{ja-adj|infl=nari|まほ}}
+
+# {{lb|ja|archaic}} [[excellent]], [[ample]], [[complete]]
+# {{lb|ja|archaic}} [[proper]], [[genuine]]
+# {{lb|ja|archaic}} [[straightforward]], [[honest]]
+
+====Alternative forms====
+* {{ja-l|真秀}}
+
+====Antonyms====
+* {{ja-l|片秀|かたほ|kataho}}
+
+[[mg:真面]]

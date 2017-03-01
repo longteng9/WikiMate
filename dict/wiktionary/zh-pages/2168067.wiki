@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fènggōng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[perform]] [[official]] [[duties]]
+
+===Derived terms===
+{{zh-der|奉公守法}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほう|こう|yomi=on}}
+
+===Noun===
+{{ja-noun|ほうこう}}
+# [[service]] to a master
+# [[apprenticeship]]
+# [[public]] [[duty]], [[service]] to one's country, etc.
+
+===Verb===
+{{ja-verb-suru|ほうこう}}
+
+# [[serve]] a master
+#* '''1928''', 林芙美子, 放浪記（初出）:
+#*: {{ja-usex|十五位の時だったかしら、私はトルコ人の楽器屋に'''奉公'''していたのを思い出した。|じゅうご-い の とき だった かしら、 わたし は トルコ-じん の がっきや に '''ほうこう''' していた の を おもいだした。|That reminds me of when I was fifteen and I worked for a Turkish music shop owner.}}
+# [[apprentice]]
+# serve the public, one's country, etc.
+
+====Conjugation====
+{{ja-suru|ほうこう}}
+
+[[zh:奉公]]

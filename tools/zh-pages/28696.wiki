@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=07|sn=11|four=32302|canj=YQHL}}
+
+# pass away
+# [[die]]
+
+====References====
+* {{Han ref|kx=1258.080|dkj=38895|dj=1746.020|hdz=63835.080|uh=901D|ud=36893|bh=B375|bd=45941}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shì
+|c=sai6
+|h=pfs=
+|md=
+|mn=qz,tw,xm:sē/zz:sī/xm:sè/qz,tw:chōa/tw,xm:sōa
+|mn_note=sē/sī - literary; chōa/sōa - vernacular; sè - vernacular (俗)
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+* {{zh-l|逝去}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=辵07}}
+
+# {{defn|lang=ja|sort=辵07}}
+
+====Readings====
+* {{ja-readings|on=[[せい]] (sei), [[せつ]] (setsu)|kun=[[ゆく]] (yuku)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=서|eumhun=|rv=seo|mr=sŏ|y=se}}
+
+# {{defn|lang=ko|sort=辵07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''逝''' ([[thệ]], [[thể]])
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:逝]]
+[[fr:逝]]
+[[ko:逝]]
+[[hu:逝]]
+[[mg:逝]]
+[[ja:逝]]
+[[no:逝]]
+[[pl:逝]]
+[[th:逝]]
+[[zh:逝]]

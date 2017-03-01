@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tōngqín
+|c=tung1 kan4
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[commute]] to [[work]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|つう|きん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|つうきん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|つうきん}}
+
+# [[commuting]] to work
+
+===Verb===
+{{ja-verb-suru|tr=intrans|つうきん}}
+
+# [[commute]] to work, go to work
+
+====Conjugation====
+{{ja-suru|つうきん}}
+
+===References===
+<references/>
+
+[[zh-min-nan:通勤]]
+[[hu:通勤]]
+[[ja:通勤]]
+[[zh:通勤]]

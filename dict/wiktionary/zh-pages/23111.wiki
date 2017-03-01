@@ -1,0 +1,94 @@
+{{character info/new}}
+{{also|栗}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=119|rad=米|as=06|sn=12|four=10904|canj=MWFD|ids=⿱覀米}}
+
+# [[unhusked]] [[millet]]
+# [[grain]]
+
+====References====
+* {{Han ref|kx=0908.140|dkj=26922|dj=1334.150|hdz=53146.170|uh=7C9F|ud=31903|bh=B5AF|bd=46511}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=sù
+|c=suk1
+|h=
+|mn=siok/qz:chhiak/tw,xm,zz:chhek
+|mn_note=siok - literary; chhiak/chhek - vernacular
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|8851}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=米06}}
+
+# {{defn|lang=ja|sort=米06}}
+
+====Readings====
+* {{ja-readings|goon=[[そく]] (soku)|kanon=[[しょく]] (shoku)|kanyoon=[[ぞく]] (zoku)|kun=[[あわ]] (awa), [[もみ]] (momi)|nanori=}}
+
+===Etymology===
+{{ja-kanjitab|あわ|yomi=k}}
+From {{inh|ja|jpx-pro|*àpá||millet}}, which, according to the controversial Altaic hypothesis, is possibly from {{der|ja|tut-pro|*àrp`á||barley, millet}}. Compare {{cog|tr|arpa||barley}}, {{cog|mn|арвай||barley}}.
+
+====Noun====
+{{ja-noun|あわ|アワ}}
+
+# [[foxtail millet]]
+
+[[Category:ja:Grains|あわ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=속|eumhun=|rv=sok|mr=sok|y=sok}}
+
+# {{defn|lang=ko|sort=米06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thóc]], [[túc]]|rs=米06}}
+
+# {{defn|lang=vi|sort=米06}}
+
+[[zh-min-nan:粟]]
+[[fr:粟]]
+[[ko:粟]]
+[[hu:粟]]
+[[mg:粟]]
+[[ja:粟]]
+[[no:粟]]
+[[pl:粟]]
+[[th:粟]]
+[[zh:粟]]

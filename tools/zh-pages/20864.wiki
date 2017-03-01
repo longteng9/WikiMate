@@ -1,0 +1,87 @@
+{{character info/new}}
+==Translingual==
+===Etymology===
+{{Han etyl}}
+===Han character===
+{{Han char|rn=96|rad=玉|as=09|sn=13|four=12127|canj=MGUMB|ids=⿰𤣩耑}}
+
+# [[felicitous]] [[omen]]
+# [[auspicious]]
+
+====References====
+* {{Han ref|kx=0738.090|dkj=21131|dj=1148.280|hdz=21126.100|uh=745E|ud=29790|bh=B7E7|bd=47079}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=ruì
+|c=seoi6
+|h=pfs=sui
+|md=
+|mn=sūi
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|符瑞|瑞典|瑞符|瑞气|瑞签|瑞士|瑞雪|瑞芝|祥瑞}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=玉09}}
+
+# {{defn|lang=ja|sort=玉09}}
+
+====Readings====
+* {{ja-readings|kanon=[[すい]] (sui)|goon=[[ずい]] (zui)|kun=[[しるし]] (shirushi), [[みず]] (mizu) > [[みづ]] (midu)}}
+
+====Compounds====
+* [[瑞気]]
+* [[瑞祥]]
+* [[瑞兆]]
+* [[瑞鶴]]
+* [[瑞夢]]
+* [[瑞垣]]
+* [[瑞穂国]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=서|eumhun=|rv=seo|mr=sŏ|y=se}}
+
+# {{defn|lang=ko|sort=玉09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thuỵ]], [[thụy]]|rs=玉09}}
+
+# {{defn|lang=vi|sort=玉09}}
+
+[[fr:瑞]]
+[[ko:瑞]]
+[[hu:瑞]]
+[[mg:瑞]]
+[[ja:瑞]]
+[[no:瑞]]
+[[pl:瑞]]
+[[th:瑞]]
+[[zh:瑞]]

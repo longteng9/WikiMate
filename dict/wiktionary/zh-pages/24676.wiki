@@ -1,0 +1,94 @@
+{{character info/new}}
+{{also|艊}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=137|rad=舟|as=05|sn=11|four=26400|canj=HYHA|ids=⿰舟白}}
+
+# large, ocean-going vessel
+
+====References====
+* {{Han ref|kx=1010.120|dkj=30402|dj=1468.100|hdz=53059.100|uh=8236|ud=33334|bh=B2ED|bd=45805}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bó
+|c=bok6,baak3,paak3,baak6
+|mn=pe̍k
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|市舶司|賈舶|舶商|蕃舶|舶來|舶位|舶來品|舶物|船舶}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=舟05}}
+
+# [[oceanliner]]
+# [[ship]]
+# [[large]] [[watercraft]]
+
+====Readings====
+{{ja-readings|goon=[[びゃく]] (byaku) {{non-joyo-reading}}|kanon=[[はく]] (haku)|kun=[[おおぶね]] (ōbune)}}
+
+{{ja-kanjitab|つむ|yomi=irr}}
+
+===Pronunciation===
+{{ja-pron|yomi=irr|つむ}}
+
+===Noun===
+{{ja-noun|つむ}}
+
+# [[large]] [[ship]]
+
+[[Category:ja:Watercraft|つむ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=박|eumhun=|rv=bak|mr=pak|y=pak}}
+
+# {{defn|lang=ko|sort=舟05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bách]]|rs=舟05}}
+
+# {{defn|lang=vi|sort=舟05}}
+
+[[fr:舶]]
+[[ko:舶]]
+[[hu:舶]]
+[[mg:舶]]
+[[ja:舶]]
+[[no:舶]]
+[[pl:舶]]
+[[th:舶]]
+[[zh:舶]]

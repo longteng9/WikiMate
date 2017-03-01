@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=11|sn=16|four=47601|canj=GEMR|ids=⿱殸石}}
+
+====References====
+* {{Han ref|kx=0836.020|dkj=24454|dj=1253.110|hdz=42451.020|uh=78EC|ud=30956|bh=BF6B|bd=49003}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|殸|石|t2=stone|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=qìng
+|c=hing3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[stone]] [[chime]]s
+# [[invert]]ed [[bell]] (a [[Buddhist]] [[percussion]] [[instrument]])
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=石16|grade=}}
+
+# {{defn|lang=ja|sort=石11}}
+
+====Readings====
+{{ja-readings|goon=[[きょう]] (kyō)|kanon=[[けい]] (kei)|kun=[[うちいし]] (uchiishi), [[むなしい]] (munashii), [[つきる]] (tsukiru)}}
+
+====Compounds====
+* {{ja-r|方磬|ほうけい}}: hōkyō, an instrument similar to the Chinese [[w:fangxiang|fangxiang]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|eumhun=|rv=gyeong|mr=kyŏng|y=kyeng}}
+
+# {{defn|lang=ko|sort=石11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khánh]]|rs=石11}}
+
+# {{defn|lang=vi|sort=石11}}
+
+[[fr:磬]]
+[[ko:磬]]
+[[hu:磬]]
+[[mg:磬]]
+[[ja:磬]]
+[[pl:磬]]
+[[th:磬]]
+[[zh:磬]]

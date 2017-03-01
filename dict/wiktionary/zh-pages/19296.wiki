@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|温}}
+==Translingual==
+{{ja-forms|[[温]]|[[温]]|溫}}
+===Han character===
+{{Han char|rn=85|rad=水|as=10|sn=13|four=36117|canj=EWOT|ids=⿰氵𥁕}}
+
+====References====
+* {{Han ref|kx=0640.230|dkj=17968|hdz=31699.080|uh=6EAB|ud=28331|bh=B7C5|bd=47045}}
+
+----
+
+==Chinese==
+{{zh-forms|s=温}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|氵|alt1=水|𥁕|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wēn
+|c=wan1
+|h=pfs=vûn
+|md=ŭng
+|mn=un
+|w=1un
+|mc=y
+|oc=y
+|cat=a,v,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[lukewarm]]; [[warm]] (''of temperature'')
+# [[tepid]]; [[mild]]; [[soft]]; [[tender]]; [[gentle]]
+# [[irresolute]]; [[indecisive]]; [[weak]]
+# to [[warm]] up; to [[raise]] the [[temperature]] of
+# to [[revise]]; to [[review]]; to [[go over]]; to [[brush up]]
+# [[temperature]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|三溫暖|低溫|低溫殺菌|低溫食品|保溫|保溫瓶|保溫箱|候溫|冬溫夏凊|別後寒溫|北溫帶|同溫層|囊溫郎當|基礎體溫|室溫|寒溫|寒溫序|常溫|常溫動物|常溫層|平均溫度|弼馬溫|恆溫|恆溫動物|恆溫層|扇枕溫席|扇枕溫衾|扇枕溫被|挾冰求溫|斜溫層|朱溫|桓溫|款語溫言|氣溫|水溫|溫克|溫八叉|溫卷|溫厚|溫吞吞|溫和|溫和飲食|溫哥華|溫婉|溫存|溫室|溫室效應|溫尼伯|溫居|溫嶠|溫差|溫布頓|溫席扇枕|溫帶|溫帶植物|溫帶氣旋|溫床|溫度|溫度表|溫度計|溫庭筠|溫情|溫情主義|溫故知新|溫文|溫文儒雅|溫文爾雅|溫暖|溫暾|溫書|溫柔|溫柔敦厚|溫柔鄉|溫毛|溫水|溫泉|溫泉浴|溫淳|溫湯|溫溫|溫潤|溫潤如玉|溫煦|溫熱|溫習|溫良|溫血動物|溫覺|溫酒|溫雅|溫順|溫飽|溫香豔玉|溫香軟玉|溫馨|溫馴|溫鰲妝燕|燃犀溫嶠|爾雅溫文|玉軟香溫|等溫線|絕對溫度|腼腆溫柔|舊夢重溫|色思溫|色溫|華氏溫標|薩爾溫江|變溫|變溫動物|變溫層|超低溫|軟玉溫香|軟語溫存|軟香溫玉|逆溫|逆溫層|鄂溫克族|重溫舊夢|重溫舊業|降溫|餘溫|香溫玉軟|香潤玉溫|馬克吐溫|體溫|體溫計|高溫|高溫消毒|高空逆溫}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水10|style=ky|shin=温}}
+
+# [[lukewarm]]
+# [[warm]]
+# [[tepid]]
+# [[mild]]
+
+====Readings====
+* {{ja-readings|goon=[[おん]] (on)|kanon=[[おん]] (on)|toon=[[うん]] (un)|kun=[[あたたか]] (atataka), [[あたためる]] (atatameru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=온|eumhun=|rv=on|mr=on|y=on}}
+
+# [[warm]]
+# [[heat up]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ôn]]|rs=水10}}
+
+# {{defn|lang=vi|sort=水10}}
+
+[[zh-min-nan:溫]]
+[[fr:溫]]
+[[ko:溫]]
+[[hu:溫]]
+[[ja:溫]]
+[[pl:溫]]
+[[th:溫]]
+[[vi:溫]]
+[[zh:溫]]

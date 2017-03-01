@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|鹥}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=11|sn=22|four=77327|canj=SEHAF}}
+
+# [[seagull]]
+
+====References====
+* {{Han ref|kx=1499.060|dkj=47267|dj=2029.030|hdz=74656.080|uh=9DD6|ud=40406|bh=F7C3|bd=63427}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鹥}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yī
+|c=ji1,ai1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|鳧鷖}}
+
+===References===
+* {{R:twedu|B06169}}
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鳥11}}
+
+# {{defn|lang=ja|sort=鳥11}}
+
+====Readings====
+* {{ja-readings|on=[[えい]] (ei)|kun=[[かもめ]] (kamome)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=예|eumhun=|rv=ye|mr=ye|y=yey}}
+
+# {{defn|lang=ko|sort=鳥11}}
+
+[[fr:鷖]]
+[[hu:鷖]]
+[[mg:鷖]]
+[[pl:鷖]]
+[[th:鷖]]
+[[zh:鷖]]

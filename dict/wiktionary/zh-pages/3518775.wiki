@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|ぶ|ぶん|かん|し|yomi=on}}
+
+===Etymology===
+From {{compound|ja|部分|冠詞|tr1=bubun|tr2=kanshi|t1=part|t2=article}}.
+
+===Pronunciation===
+{{ja-pron|ぶぶん かんし|y=on}}
+
+===Noun===
+{{ja-noun|ぶぶんかんし}}
+
+# {{lb|ja|grammar|sort=ふぶんかんし'}} the [[partitive]] [[article]]
+
+====See also====
+* {{ja-r|定冠詞|ていかんし|gloss=definite article}}
+* {{ja-r|不定冠詞|ふていかんし|gloss=indefinite article}}
+
+[[Category:ja:Parts of speech|ふぶんかんし']]

@@ -1,0 +1,86 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=08|sn=14|four=44777|canj=TJRR}}
+
+# coarse grass, {{taxlink|Themeda forskalii|species|noshow=1}}
+
+====References====
+* {{Han ref|kx=1036.510|dkj=31142|dj=1495.120|hdz=53240.100|uh=83C5|ud=33733|bh=B5D5|bd=46549}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艸|alt1=艹|官|ls=psc|c1=s|c2=p}} – a type of grass.
+
+===Pronunciation===
+{{zh-pron
+|m=jiān
+|c=gaan1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|草菅人命|菅屨}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸08}}
+
+# {{defn|lang=ja|sort=艸08}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan), [[けん]] (ken)|kun=[[すげ]] (suge), [[すが]] (suga)|nanori=}}
+
+===Proper noun===
+{{ja-pos|proper|かん}}
+
+# {{surname|lang=ja|sort=かん}}
+
+{{ja-pos|proper|すが}}
+
+# {{surname|lang=ja|sort=すが}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 菅]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=관|eumhun=|rv=gwan|mr=kwan|y=kwan}}
+
+# {{defn|lang=ko|sort=艸08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[gian]]|rs=艸08}}
+
+# {{defn|lang=vi|sort=艸08}}
+
+[[fr:菅]]
+[[hu:菅]]
+[[mg:菅]]
+[[ja:菅]]
+[[pl:菅]]
+[[th:菅]]
+[[zh:菅]]

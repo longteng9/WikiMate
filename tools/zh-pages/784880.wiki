@@ -1,0 +1,89 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=mófǎ
+|c=mo1 faat3
+|mn=mô͘-hoat
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[magic]]; [[wizardry]]; [[witchcraft]]; [[sorcery]]
+
+====Derived terms====
+{{zh-der|白魔法|黑魔法}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+</div>
+
+===Etymology===
+{{ja-kanjitab|ま|ほう|yomi=o}}
+Apparently from {{etyl|ltc|ja|sort=まほう}} compound {{m|zh|魔法|tr=muɑ pjop|lit=devil, magic + law, method}}. Compare modern {{etyl|nan|-}} reading ''mô͘-hoat''.
+
+===Pronunciation===
+{{ja-pron|まほう|acc=h|acc_ref=NHK,DJR|y=go}}
+
+===Noun===
+{{ja-noun|まほう}}
+
+# The [[art]]s of [[magic]], [[spellcraft]], [[witchcraft]], [[wizardry]], [[sorcery]].
+# [[spellwork|Spellwork]] such as [[magical]] [[formula]]s, [[incantation]]s, [[spells]], etc.
+# An [[organize]]d [[body]] or [[system]] of magical use, i.e. [[Wicca]], the [[Kabballah]] and [[陰陽道|Onmyōdō]].
+
+====Usage notes====
+The term for {{m|en|magic}} as a trick performed by a modern [[magician]] is {{ja-r|手品|てじな}}.
+
+====Derived terms====
+{{der-top|Derived terms}}
+* {{ja-r|魔法師|まほうし}}, {{ja-r|魔法士|まほうし}}: magic [[master]] or [[specialist]], sorcerer
+* {{ja-r|魔法円|まほうえん}}: [[magic circle]]
+* {{ja-r|魔法少女|まほうしょうじょ}}: [[magical]] [[girl]]
+* {{ja-r|魔法使い|まほうつかい}}: [[magician]]
+* {{ja-r|魔法瓶|まほうびん}}: [[vacuum flask]]
+* {{ja-r|魔法の杖|まほう の つえ}}: lit. a [[magic wand]]
+{{der-bottom}}
+
+====Synonyms====
+* {{ja-r|魔術|まじゅつ}}
+* {{ja-r|妖術|ようじゅつ}}
+* {{ja-r|幻術|げんじゅつ}}
+* {{ja-r|呪術|じゅじゅつ}}
+
+===References===
+<references/>
+
+{{catlangcode|ja|Japanese fiction|Fantasy|sort=まほう|Mysticism|Occult}}
+
+----
+
+==Korean==
+{{ko-hanjatab|魔|法}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=마법}}
+
+# {{hanja form of|마법|magic}}
+
+[[zh-min-nan:魔法]]
+[[fr:魔法]]
+[[ko:魔法]]
+[[it:魔法]]
+[[li:魔法]]
+[[hu:魔法]]
+[[mg:魔法]]
+[[ja:魔法]]
+[[pl:魔法]]
+[[pt:魔法]]
+[[ru:魔法]]
+[[fi:魔法]]
+[[sv:魔法]]
+[[chr:魔法]]
+[[zh:魔法]]

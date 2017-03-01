@@ -1,0 +1,31 @@
+{{also|软体}}
+==Chinese==
+{{zh-forms|s=软体}}
+
+===Etymology===
+{{calque|zh|en|software}}.
+
+===Pronunciation===
+{{zh-pron
+|m=ruǎntǐ
+|c=jyun5 tai2
+|mn=nńg-thé
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Taiwan|computing}} [[software]] {{zh-mw|m:個|m:套}}
+
+====Synonyms====
+* {{zh-l|軟件}}
+
+====Coordinate terms====
+* {{zh-l|硬體}}
+
+[[zh-min-nan:軟體]]
+[[ko:軟體]]
+[[lt:軟體]]
+[[ja:軟體]]
+[[zh:軟體]]

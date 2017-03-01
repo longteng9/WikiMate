@@ -1,0 +1,93 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǎnyìng
+|c=faan2 jing2
+|h=pfs=fán-yang
+|md=huāng-ióng
+|mn=hoán-èng
+|w=2fe in
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literally}} to [[reflect]]; to [[mirror]]
+# {{lb|zh|figuratively}} to [[indicate]]; to reflect
+#: {{zh-x|它 從 根本 上 反映 的 是 對 公共 利益 的 漠視 和 輕慢。|ref=2011-09-29, ''Southern Rural News'', [http://nf.nfdaily.cn/nfbcb/content/2011-09/29/content_30655845.htm “搓板路”反映的是对公共利益的漠视和轻慢]|It essentially '''reflects''' the indifference to and disregard for public interest.}}
+# to [[express]] an [[opinion]] (usually criticism) to a higher [[echelon]]; to [[report]]
+
+===Noun===
+{{zh-noun}}
+
+# [[reflection]]; [[image]]; [[indication]]
+
+====Usage notes====
+Sometimes erroneously used interchangeably with its Mandarin homophone {{zh-l|反應}}.
+
+====Synonyms====
+* {{sense|to reflect}} {{zh-l|反照}}, {{zh-l|反射}}
+* {{sense|to indicate}} {{zh-l|表明}}, {{zh-l|顯示}}, {{zh-l|說明}}, {{zh-l|體現}}
+* {{sense|to report}} {{zh-l|報告}}, {{zh-l|轉達}}, {{zh-l|稟告}}
+
+====Descendants====
+{{CJKV||はんえい|반영|phản ánh}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|はん|えい|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|yomi=o|はんえい|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はんえい}}
+
+# [[reflection]]
+
+===Verb===
+{{ja-verb-suru|はんえい}}
+
+# to [[reflect]]
+
+====Conjugation====
+{{ja-suru|はんえい}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=반영}}
+
+# {{hanja form of|반영|reflection}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Verb===
+{{vi-verb|sc=Hani}}
+
+# {{han tu form of|phản ánh|to reflect}}
+
+[[zh-min-nan:反映]]
+[[ko:反映]]
+[[hu:反映]]
+[[mg:反映]]
+[[ja:反映]]
+[[pl:反映]]
+[[chr:反映]]
+[[uk:反映]]
+[[zh:反映]]

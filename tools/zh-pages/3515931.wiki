@@ -1,0 +1,67 @@
+{{also|隱密|隐密}}
+==Chinese==
+{{zh-see|隱密|v}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|おん|みつ|yomi=on}}
+
+===Etymology 1===
+From {{etyl|ltc|ja|sort=おんみつ}} {{m|zh|隠密}}.
+
+====Pronunciation====
+* [[音読み|On'yomi]]: [[呉音|go'on]]
+* {{IPA|lang=ja|/oɴ mitsu/|[õ̞ɴmit͡sɯᵝ]|[õ̞ɴmit͡sɯ̥ᵝ]}}
+: Note that the [[漢音|kan'on]] reading of ''inmitsu'' is more common.
+
+====Adjectival noun====
+{{ja-adj|おんみつ|decl=na}}
+
+# [[stealthy]], [[covert]], [[undercover]]
+
+=====Inflection=====
+{{ja-na|隠密|おんみつ|onmitsu}}
+
+=====Synonyms=====
+* {{l|ja|密か}}, {{l|ja|窃か}}, {{l|ja|秘か|tr=[[ひそか]], ''[[hisoka]]''}}
+* {{l|ja|忍びやか|tr=[[しのびやか]], ''[[shinobiyaka]]''}}
+
+====Noun====
+{{ja-noun|おんみつ}}
+
+# [[stealth]]
+# A [[spy]] or [[undercover]] [[detective]]. In former times, included [[warrior]]s or [[ninja]] sent to gather information.
+
+=====See also=====
+* {{pedialite|lang=ja}}
+* {{pedialite|Onmitsu}}
+
+===Etymology 2===
+Alternative reading of {{m|ja|隠密}}.
+
+====Alternative forms====
+* {{l|ja|陰密}}
+
+====Pronunciation====
+* [[音読み|On'yomi]]: [[漢音|kan'on]]
+* {{IPA|lang=ja|/iɴ mitsu/|[ĩɴmit͡sɯᵝ]|[ĩɴmit͡sɯ̥ᵝ]}}
+
+====Adjectival noun====
+{{ja-adj|いんみつ|decl=na}}
+
+# [[stealthy]], [[covert]], [[undercover]]
+
+=====Declension=====
+{{ja-na|隠密|いんみつ|inmitsu}}
+
+=====Synonyms=====
+* {{l|ja|密か}}, {{l|ja|窃か}}, {{l|ja|秘か|tr=[[ひそか]], ''[[hisoka]]''}}
+* {{l|ja|忍びやか|tr=[[しのびやか]], ''[[shinobiyaka]]''}}
+
+====Noun====
+{{ja-noun|いんみつ}}
+
+# [[stealth]]
+
+[[mg:隠密]]

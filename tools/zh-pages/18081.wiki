@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=12|sn=16|four=|canj=DDSJE|ids=⿱林取}}
+
+# [[bushy]]
+# [[grove]]
+# [[crowded]]
+
+====References====
+* {{Han ref|kx=0551.250|dkj=15492|dj=0940.020|hdz=21288.180|uh=6A37|ud=27191}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=cóng
+|c=cung4
+|mc=
+|oc=
+|ma=
+|cat=a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 132]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木12}}
+
+# {{defn|lang=ja|sort=木12}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō), [[ず]] (zu)|kun=[[むらがる]] (muragaru)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木12| hanviet = tùng}}
+
+# {{defn|lang=vi|sort=木12}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6a37 Nom Foundation]
+
+[[fr:樷]]
+[[hu:樷]]
+[[pl:樷]]
+[[th:樷]]
+[[zh:樷]]

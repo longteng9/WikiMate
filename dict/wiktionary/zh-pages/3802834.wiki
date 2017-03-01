@@ -1,0 +1,39 @@
+{{also|赑屃}}
+==Japanese==
+{{ja-kanjitab|yomi=on|sort=ひいき}}
+
+===Etymology 1===
+
+====Noun====
+{{ja-noun|ひいき}}
+
+# [[favor]], [[partiality]], [[patronage]]
+#* {{RQ:Botchan}}:
+#*: {{ja-usex|母は兄ばかり'''贔屓'''にしていた。|はは は あに ばかり '''ひいき''' に していた。|mother always sided with my big brother.}}
+
+=====Synonyms=====
+* {{ja-r|優遇|ゆうぐう}}
+* {{ja-r|寵愛|ちょうあい}}
+
+=====Antonyms=====
+* {{ja-r|差別|さべつ|gloss=[[discrimination]]}}
+* {{ja-r|冷遇|れいぐう|gloss=[[disfavor]]}}
+
+====Verb====
+{{ja-verb-suru|ひいき}}
+
+# to [[favor]]; to be [[partial]] to
+
+=====Conjugation=====
+{{ja-suru|ひいき}}
+
+===Etymology 2===
+
+====Suffix====
+{{ja-pos|びいき|suffix}}
+
+# [[-phile]]
+
+[[mg:贔屓]]
+[[ja:贔屓]]
+[[zh:贔屓]]

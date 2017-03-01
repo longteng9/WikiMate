@@ -1,0 +1,57 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xìngmíng
+|c=sing3 ming4
+|h=pfs=siang-miàng
+|md=séng-mìng
+|mn=qz,tp,xm:sìⁿ-miâ/kh,zz:sèⁿ-miâ/qz,xm,zz:sèng-bêng
+|w=2xin min
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[full name]]
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|めい|yomi=on}}
+
+===Etymology===
+[[姓]] (セイ): ([[family name]]) + [[名]]: (メイ): (([[first name|first]]) [[name]])
+
+===Noun===
+{{ja-noun|せいめい}}
+
+# [[full name]] (''of a person'')
+
+====Synonyms====
+* {{ja-r|氏名|しめい}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=성명}}
+
+# {{hanja form of|성명|[[full name]] (''of a person'')}}
+
+[[zh-min-nan:姓名]]
+[[ko:姓名]]
+[[hu:姓名]]
+[[ja:姓名]]
+[[pl:姓名]]
+[[uk:姓名]]
+[[zh:姓名]]

@@ -1,0 +1,68 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dīxià
+|c=dai1 haa6
+|mn=kē-hā
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# in a [[low]] [[position]]
+
+===Derived terms===
+{{zh-der|低下階層}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てい|か|yomi=o}}
+
+===Pronunciation===
+* {{ja-accent-common|h|て|いか}}
+
+===Noun===
+{{ja-noun|ていか}}
+
+# a [[fall]]
+#: {{ja-usex|物価の低下が続いている。|ぶっか の ていか が つづいて いる。|Prices are continuing to fall.}}
+# a [[decline]], a [[deterioration]]
+#: {{ja-usex|道徳的関心の低下|どうとくてき かんしん の ていか|a decline in concern about morals}}
+
+====Synonyms====
+* {{ja-r|下落|げらく}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|ていか}}
+
+# [[fall]], [[drop]]
+#: {{ja-usex|夜は気温が零度に低下する。|よる は きおん が れいど に ていか する。|The temperature falls below zero at night.}}
+# [[decline]], [[deteriorate]]
+#: {{ja-usex|このごろの子供は体力が低下している。|この ごろ の こども は たいりょく が ていか して いる。|Children today have less physical strength than they used to.}}
+
+====Conjugation====
+{{ja-suru|ていか}}
+
+===References===
+* {{R:Shogakukan}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=저하}}
+
+# {{hanja form of|저하|[[lowering]]}}
+
+[[ko:低下]]
+[[hu:低下]]
+[[mg:低下]]
+[[ja:低下]]
+[[chr:低下]]
+[[zh:低下]]

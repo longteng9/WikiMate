@@ -1,0 +1,61 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=táosè,er=1
+|c=tou4 sik1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[peach]] [[colour]]; [[pink]] colour
+# {{lb|zh|figurative}} [[illicit]] [[love]]; [[gossip]]; [[sex]]
+
+====Derived terms====
+{{zh-der|桃色案件|桃色新聞|桃色糾紛}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Pink}}
+{| style="float:right;clear:both;padding:4px;margin-right:-5px;"
+| <div class="thumb tnone"><div class="thumbinner" style="width:252px;"><div style="display:inline-block;width:120px;height:84px;background-color:#F58F98;border:1px solid #CCCCCC">&nbsp;</div><div style="display:inline-block;width:120px;height:84px;background-color:#E38698;border:1px solid #CCCCCC">&nbsp;</div><div class="thumbcaption">{{lang|ja|桃色}} (''momoiro'')<br/>Two shades of '''[[peach]]''' '''[[pink]]'''.</div></div></div>
+|}
+</div>
+{{ja-kanjitab|yomi=k|もも|いろ}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ももいろ|桃|tr1=momo|t1=peach|色|tr2=iro|t2=color}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|ももいろ|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ももいろ}}
+
+# {{sense|color}} [[pink]]; [[peach]]
+
+====Synonyms====
+* {{ja-r|ピーチ}}
+* {{ja-r|ピンク}}
+
+===See also===
+{{table:colors/ja}}
+
+===References===
+<references/>
+
+[[fr:桃色]]
+[[ko:桃色]]
+[[li:桃色]]
+[[mg:桃色]]
+[[ja:桃色]]
+[[pl:桃色]]
+[[sv:桃色]]
+[[chr:桃色]]
+[[zh:桃色]]

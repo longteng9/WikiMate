@@ -1,0 +1,51 @@
+{{also|波动}}
+==Chinese==
+{{zh-forms|s=波动}}
+
+===Pronunciation===
+{{zh-pron
+|m=bōdòng
+|c=bo1 dung6
+|mn=pho-tōng
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[undulate]]; to [[fluctuate]]
+#: {{zh-x|情緒 波動|''to have a mood swing''}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|physics}} [[wave]] [[motion]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|は|どう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|はどう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はどう}}
+
+# [[surge]], [[fluctuation]], [[undulation]], [[pulsation]]
+
+====Related terms====
+* {{ja-r|波立つ|なみだつ}}: (''verb'') [[surge]], [[fluctuate]], [[undulate]]
+* {{ja-r|波打つ|なみうつ}}: (''verb'') [[surge]], [[fluctuate]], [[undulate]]
+
+===References===
+<references/>
+
+[[zh-min-nan:波動]]
+[[ko:波動]]
+[[lo:波動]]
+[[hu:波動]]
+[[ja:波動]]
+[[zh:波動]]

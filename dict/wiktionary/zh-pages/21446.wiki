@@ -1,0 +1,89 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+{{Han etyl}}
+
+===Han character===
+{{Han char|rn=105|rad=癶|as=00|sn=5|four=|canj=NIYO}}
+
+# [[legs]]
+# {{mul-kangxi radical-def}}
+
+====Derived characters====
+* [[Index:Chinese radical/癶]]
+
+====References====
+* {{Han ref|kx=0783.300|dkj=22657|dj=1193.080|hdz=42760.010|uh=7676|ud=30326}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bō
+|c=but6
+|h=pfs=pat/phat
+|mn=poat
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* [http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=癶00}}
+
+# {{defn|lang=ja|sort=癶00}}
+
+====Readings====
+* {{ja-readings|on=[[はつ]] (hatsu), [[はち]] (hachi)|kun=[[そむく]] (somuku)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=발|rv=bal|mr=pal|y=pal|eumhun=등질}}
+
+# {{defn|lang=ko|sort=癶00}}
+
+====References====
+*[http://hanja.naver.com/hanja?q=%E7%99%B6 Naver Hanja Dictionary]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=癶00| hanviet = bát}}
+
+# {{defn|lang=vi|sort=癶00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:癶]]
+[[ko:癶]]
+[[hu:癶]]
+[[mg:癶]]
+[[ja:癶]]
+[[pl:癶]]
+[[ru:癶]]
+[[th:癶]]
+[[zh:癶]]

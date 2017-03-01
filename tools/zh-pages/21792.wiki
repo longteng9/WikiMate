@@ -1,0 +1,110 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=109|rad=目|as=12|sn=17|four=60014|canj=BUYTG|ids=⿰目童}}
+
+====References====
+* {{Han ref|kx=0818.040|dkj=23707|dj=1230.140|hdz=42514.120|uh=77B3|ud=30643|bh=C0FB|bd=49403}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|目|童|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+From {{och-l|童|child}}. Compare English {{m|en|pupil||‘child’ > student; pupil of eye}} for a similar semantic development.
+
+===Pronunciation===
+{{zh-pron
+|m=tóng
+|c=tung4
+|h=pfs=
+|md=dùng
+|mn=tông
+|w=3don
+|mc=y
+|oc=y
+|cat=a,n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} [[inexperienced]]; [[ignorant]]
+# {{lb|zh|anatomy}} [[pupil]] of [[eye]]
+# {{†}} [[sight]]; [[vision]]; [[view]]
+# {{†}} to [[see]]
+
+===Compounds===
+{{zh-der|瞳孔|瞳人|瞳人兒|瞳仁|瞳仁兒|瞳矇|瞳子|打瞳|重瞳|雙瞳翦水}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=目12}}
+
+====Readings====
+* {{ja-readings|on=[[どう]] (dō), [[とう]] (tō)|kun=[[ひとみ]] (hitomi)}}
+
+====Compounds====
+* [[瞳孔]]
+* [[瞳人]]
+
+===Noun===
+{{ja-noun|ひとみ}}
+
+# {{lb|ja|anatomy|sort=ひとみ}} [[pupil]]
+
+===Proper noun===
+{{ja-pos|proper|ひとみ}}
+
+# {{given name|female|lang=ja|sort=ひとみ}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 瞳]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=동|eumhun=|rv=dong|mr=tong|y=tong}}
+
+# {{defn|lang=ko|sort=目12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|đồng|rs=目12}}
+
+# {{defn|lang=vi|sort=目12}}
+
+====Readings====
+* Nôm: đồng, tròng
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville, 1999
+
+[[fr:瞳]]
+[[ko:瞳]]
+[[lo:瞳]]
+[[hu:瞳]]
+[[mg:瞳]]
+[[ja:瞳]]
+[[no:瞳]]
+[[pl:瞳]]
+[[ru:瞳]]
+[[sv:瞳]]
+[[th:瞳]]
+[[zh:瞳]]

@@ -1,0 +1,31 @@
+==Japanese==
+{{ja-kanjitab|こく|さい|けい|じ|けい|さつ|き|こう|yomi=o}}
+{{wikipedia|lang=ja}}
+
+===Etymology===
+{{compound|ja|国際|刑事|警察|機構|tr1=kokusai|t1=[[international]]|tr2=keiji|t2=[[criminal]] [[matter]]|tr3=keisatsu|t3=[[police]]|tr4=kikō|t4=[[organization]]}}
+
+===Proper noun===
+{{ja-pos|proper|こくさい けいじ けいさつ きこう}}
+
+# the [[International Criminal Police Organization]]
+#*{{quote-book
+||{{w|Gosho Aoyama}}
+|{{w|lang=ja|まじっく快斗|{{ruby|{{lang|ja|まじっく[快](かい)[斗](と)}}}}}}
+|trans-title={{w|Magic Kaito}}
+|||{{ruby|{{lang|ja|じゃあまさか、やって[来](く)るっていうのは…<br>ああ、'''[国](こく)[際](さい)[刑](けい)[事](じ)[警](けい)[察](さつ)[機](き)[構](こう)'''…[ICPO](インターポール)だよ！}}}}
+|transliteration=''Jā masaka, yatte kurutte iu no wa…<br>Ā, '''Kokusai Keiji Keisatsu Kikō'''… Intāpōru da yo!''
+|translation=Then that would be…<br>Yeah, the '''International Criminal Police Organization'''… The Interpol!
+|chapter={{ruby|{{lang|ja|ダーク・ナイトの[巻](まき)【[前](ぜん)[編](ぺん)】}}}}
+|trans-chapter=Dark Knight [First Chapter]
+|genre=fiction
+|language=Japanese
+|location=Tokyo
+|publisher=Shogakukan
+|date=Mar 15 2007
+|volume=4}}
+
+====Synonyms====
+* {{ja-r|caps=y|インターポール}}
+
+{{C|ja|Organizations|Law enforcement}}

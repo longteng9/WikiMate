@@ -1,0 +1,238 @@
+{{character info/new}}
+{{also|着}}
+==Translingual==
+{{ja-forms|[[着]]|[[着]]|[[着]]/[[著]]}}
+===Han character===
+{{Han char|rn=140|rad=艸|as=08|sn=14|four=44604|canj=TJKA|ids=⿱艹者}}
+
+====References====
+* {{Han ref|kx=1044.260|dkj=31302|dj=1505.190|hdz=53228.020|uh=8457|ud=33879|bh=B5DB|bd=46555}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艹|者|c1=s|c2=p|ls=psc}}.
+
+===Etymology===
+From {{inh|zh|sit-pro|*s-ta-t||to put; to place}}. Cognate with {{cog|bo|སྟད||to put on; to lay on}}, {{m|bo|སྟ་གོན||preparation; arrangement}}, {{cog|my|ထား||to put; to place}}.
+
+===Pronunciation 1===
+{{zh-forms|s=着|t2=着|note=See {{zh-l|着#Usage notes}}.}}
+{{zh-pron
+|m=zhuó,zháo,zhāo
+|m_note=zhuó - literary; zháo - colloquial; zhāo - colloquial [senses: "move, step"; "all right"]
+|c=zoek3,zoek6
+|c_note=zoek3 - literary; zoek6 - colloquial
+|h=pfs=chok/chho̍k
+|h_note=chok - literary; chho̍k - colloquial
+|md=ciŏk/diŏh |mda=Cdo right.ogg
+|md_note=ciŏk - literary; diŏh - colloquial
+|mn=qz,tw,xm,zz:tio̍h/twv:to̍h/qz,tw,xm:tio̍k/zz:chia̍k
+|mn_note=tio̍h - colloquial; to̍h - colloquial [sense: "to burn"]; tio̍k/chia̍k - literary
+|w=4tsaq
+|j=zeh4
+|x=zho6
+|mc=4+5+2
+|oc=3+2,4+5+1
+|cat=v,n,part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[attach]]
+#* {{zh-x|附著[着]{zhuó}|to attach}}
+# {{†}} to [[touch]]; to [[contact]]
+#* {{zh-x|著[着]{zhuó}陸|to land}}
+# to [[wear]]; to [[put on]]; to be [[dress]]ed in; [[clothing]]
+#* {{zh-x|衣著[着]{zhuó}|clothing}}
+#* {{zh-x|冇著[着]衫|naked|C}}
+# {{†}} {{lb|zh|dialectal Mandarin|Jin|Wu}} to [[put]]; to [[place]]
+# {{†}} to [[arrange]]
+# {{†}} to [[blossom]] or [[bear]] [[fruit]]
+# {{†}} something to [[depend]] on; something to [[fall back]] on; [[desired]] [[end]]; a sense of [[belonging]]
+# to [[catch fire]]; to [[burn]]; to [[combust]]; to be [[ignite]]d
+#* {{zh-x|火 @'''著[着]{zháo}''' 得{de} 很 歡。|The fire is burning cheerfully.}}
+#* {{zh-x|窗簾 首先 @'''著[着]{zháo}''' 了 火。|First the curtains '''caught on''' fire.}}
+## {{lb|zh|Cantonese}} to [[turn on]] (a light)
+##* {{zh-x|著[着]{zoek6} 燈|to turn on the lights|C}}
+# {{†}} to [[love]] [[deeply]]; to [[cling]] to and be reluctant to leave
+# {{†}} to [[make]] (someone to); to [[order]]
+# {{†}} to [[cost]]
+# {{†}} to [[live]] in a fixed place
+# {{†}} {{n-g|Name of an ancient drinking vessel.}}
+# {{†}} {{lb|zh|Min|Wu}} to [[need]] to; to [[ought]] to; [[should]]
+# to be [[affect]]ed by; to be [[trouble]]d with
+#* {{zh-x|著[着]{zháo}涼|to catch a cold}}
+#* {{zh-x|著[着]{zháo}急|to worry}}
+#* {{zh-x|著[着]{zháo}魔|[[enchanted]]; [[bewitched]]}}
+#* {{zh-x|著[着]病|to become sick|MN}}
+# {{†}} {{lb|zh|Hakka|Min}} to [[get]]; to [[receive]]
+#* {{zh-x|著[着]獎|to win a prize|H}}
+# {{lb|zh|dialectal Mandarin|Wu}} to [[fall asleep]]
+#* {{zh-x|他 頭 一 沾 枕{zhěn}頭{tou} 就 '''著[着]{zháo}'''。|He '''falls asleep''' as soon as his head hits the pillow.}}
+# {{†}} to [[fall into]] a [[trap]]; to be [[trap]]ped
+# {{n-g|Particle denoting that an action was "appropriately done"; "not done in vain".}}
+# {{n-g|Particle denoting the success or continuation of an action.}}
+#* {{zh-x|書 找 '''著[着]{zháo}''' 了。|The book was ('''successfully''') found.}}
+#* {{zh-x|書 找 不 '''著[着]{zháo}'''。|The book cannot be ('''successfully''') found.}}
+#* {{zh-x|他 把 發動機 起 '''著[着]{zháo}''' 了。|He ('''successfully''') started the engine.}}
+#* {{zh-x|油燈 沒 油 了，點 不 '''著[着]{zháo}''' 了。|There is no oil in the lamp, I can't light it.}}
+# {{lb|zh|Beijing Mandarin}} {{n-g|Particle used after verbs to denote the severity of the event.}}
+# {{lb|zh|Cantonese}} [[one by one]]
+# {{lb|zh|Cantonese|Hakka|Min}} [[correct]]; [[right]]
+# {{lb|zh|Min Dong}} [[at]]; [[in]] (a place)
+# {{lb|zh|Min}} it's now ...'s [[turn]]
+# {{lb|zh|dialectal Mandarin|Xiang}} (''zhāo'') [[all right]]; [[OK]]; that's exactly what I was thinking
+# {{zh-alt-form|招|[[move]] (in [[Go]] games); [[step]]; [[trick]]; [[device]]}}
+
+====Compounds====
+{{zh-der|一著|不地著|不犯著|不用著急|不著|不著一字|不著不落|不著人|不著家|不著忙|不著急|不著情|不著意|不著疼熱|不著痕跡|不著痛癢|不著筋節|不著腳|不著要|不著親|不著調|不著邊際|乾著急|佛頭著糞|做我不著|先吾著鞭|兩頭不著|刮著|剗著|劈著|十捉九著|合不著|合得著|喫著不盡|土著|地著|執著|大處著眼|失著|安著|少吃無著|巴著|彈著點|抹不著影|拔著短籌|搔著癢處|摸不著|摸著|摸門不著|摸頭不著|撥著癢處|有著落|末著|棋高一著|次著|歪打正著|歸著|沉著|沉著痛快|沒著沒落|沒著落|湯著|烏雲著頂|無著|照相著色|犯不著|犯得著|猛著先鞭|猛著祖鞭|用不著|畫蛇著足|當著不著|睡不著|睡著|矇著|知心著意|知疼著熱|碰著|祖鞭先著|穿紅著綠|穿著|膠著|膠著狀態|花巾著目|著人|著先鞭|著力|著即|著地|著實|著己|著床|著志|著忙|著急|著惱|著想|著意|著慌|著手|著手回春|著手成春|著手腳|著摸|著數|著棋|著水|著涼|著火|著火點|著然|著甚|著甚來由|著生植物|著用|著疼熱|著眼|著眼點|著筆|著糞佛頭|著緊|著肉|著腳|著腳書樓|著色|著花|著莫|著著失敗|著著進逼|著落|著處|著衣|著衣鏡|著跡|著身|著迷|著道|著重|著重兒|著陸|著雨|著題|著風|著魔|著墨|衣著|說得著|貫手著棼|過得著|道著|銀質沉著|附著|附著力|陰著兒|高著兒|黏著|黏著劑|黏著力|點著}}
+
+===Pronunciation 2===
+{{zh-forms|s=着|t2=着|note=See {{zh-l|着#Usage notes}}.}}
+{{zh-pron
+|m=zhe
+|ma=y
+|c=zoek6
+|dial=n
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tcx|Mandarin|lang=zh}}
+
+# {{n-g|Particle indicating the continuation of an action or a state. Often used with {{zh-l|正在}} or {{zh-l|正}}.}}
+#* {{zh-x|我們 上 '''著[着]{zhe}''' 漢語 課。|We '''are''' attend'''ing''' a Chinese lesson.}}
+#* {{zh-x|我們 正在 上 '''著[着]{zhe}''' 漢語 課。|We '''are''' attend'''ing''' a Chinese lesson.}}
+#* {{zh-x|貓 看 '''著[着]{zhe}''' 魚。|The cat '''is''' look'''ing''' at the fish.}}
+# {{n-g|Particle used after some adjectives to denote comparison of levels.}}
+# {{n-g|Particle denoting a command, request or advice.}}
+
+====Compounds====
+{{zh-der|乾著|儘著|團著|光著眼|怎麼著|忖著勁兒|喪著臉|悠著|哭喪著臉|巴噠著嘴|來著|夾著尾巴|合著|估著眼|可著|奓著膽子|單注著|向著|呆著臉|乍著膽子|拿著腔兒|放著|斂著|滿打著|接著|矇著鍋兒|歪著|板著臉|火著心兒|懷著身子|捻著鼻子|打著|放精神著|挨著|抓著癢處|憑著|獃著臉|破著|捏著鼻子|硬著頭皮|皮著臉|提溜著心|眼看著|瞪著眼|打著竄鼓|白閒著|直著身子|拉絆著|搿著口兒|看著辦|掮著|扯著脖子|活著|明擺著|懷著鬼胎|花搭著|記著|粘著|走著瞧|老著臉|緊接著|麻胡著臉|跟著|逞著|麻著膽子|趕著|鬧著玩兒|髭髭著|者著|這麼著|豁著|緊著|那麼著|長著臉|逞著勁兒|耐著性子|苦著臉|老著臉皮|說著玩兒|腆著臉|綽著經兒|落著臉|耗著}}
+
+===Pronunciation 3===
+{{zh-forms}}
+{{zh-pron
+|m=zhù
+|c=zyu3
+|md=dé̤ṳ
+|mn=qz:tìr/tw,xm:tù/twv,zz:tì
+|w=2tsr
+|dial=n
+|mc=3
+|oc=1,2
+|cat=a,v,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[notable]]; [[remarkable]]; [[striking]]
+#* {{zh-x|顯著|remarkable}}
+# {{†}} [[famous]]; [[well-known]]
+#* {{zh-x|著名|famous}}
+# {{†}} to [[show]]; to [[manifest]]
+# {{†}} to [[praise]]; to speak [[approvingly]] of
+# {{†}} to [[write]]; to [[compose]]
+#* {{zh-x|著書|to write a book}}
+# {{†}} literary [[work]]; [[composition]]; [[book]]
+#* {{zh-x|名著|literary masterpiece}}
+#* {{zh-x|巨著|monumental work}}
+# {{†}} to [[record]]; to [[document]]
+# {{†}} to [[establish]]; to [[set up]]; to [[build up]]
+# {{†}} [[achievement]]s; [[attainment]]s
+# {{†}} [[aboriginal]]; [[native]] [[inhabitant]]s
+#* {{zh-x|土著|aborigine}}
+# {{†}} [[precedence]]; [[order]]
+# {{†}} the [[space]] between the front [[gate]] and the [[screen]]s/[[shield]]s
+# {{†}} {{zh-alt-form|佇|to [[remain]] (at a place); to be [[held up]]}}
+# {{†}} {{zh-alt-form|貯|to [[store]]}}
+# {{†}} {{zh-alt-form|褚|to [[stuff]] a lined [[garment]] with [[cotton]]}}
+
+====Compounds====
+{{zh-der|fold=1|大著|仰屋著書|劣跡昭著|巨著|卓著|彰著|彰明較著|名著|恩威並著|專著|原著|刻著|以微知著|睹微知著|積微成著|矜張顯著|白著|玄著|視微知著|炳著|昭著|焯著|拙著|撰著|著述|臭名昭著|著作|較著|著述等身|著作權|著作等身|著作權法|編著|著稱|遐邇著聞|罪惡昭著|遺著|鉅著|著書立說|雜著|著書|著作郎|譯著|著者|顯著|論著|見微知著|著作自由|著錄|著論|著績|著名|著作物}}
+
+===Pronunciation 4===
+{{zh-forms|s=着}}
+{{zh-pron
+|m=chú
+|dial=n
+|mc=1
+|oc=n,3
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{zh-only|著雍/着雍|''alternative name for the fifth [[heavenly stem]]''}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=艸08}}
+
+# [[renowned]]
+# [[publish]]
+# [[write]]
+# [[remarkable]]
+# [[phenomenal]]
+# [[put on]]
+# [[don]]
+# [[wear]]
+# [[arrival]]
+# [[finish]] [[a]] [[race]]
+# [[counter]] [[for]] [[suits]] [[of]] [[clothing]]
+# [[literary]] [[work]]
+
+====Readings====
+* {{ja-readings|goon=[[じゃく]] (jaku) {{non-joyo-reading}}, [[ちょ]] (cho)|kanon=[[ちゃく]] (chaku) {{non-joyo-reading}}, [[ちょ]] (cho)|kun=[[あらわす]] (arawasu), [[いちじるし]] (ichijirushi), [[つく]] (tsuku)|nanori=}}
+
+===Noun===
+{{ja-noun|ちょ}}
+
+# [[book]]
+
+===Suffix===
+{{ja-pos|suffix|ちょ}}
+
+# [[by]], the author of a book
+# [[striking]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[저]], [[착]]|eumhun=|rv=jeo, chak|mr=chŏ, ch'ak|y=ce, chak}}
+
+# {{defn|lang=ko|sort=艸08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trứ]], [[nước]], [[trước]], [[chước]]|rs=艸08}}
+
+# {{defn|lang=vi|sort=艸08}}
+
+[[zh-min-nan:著]]
+[[fr:著]]
+[[ko:著]]
+[[it:著]]
+[[hu:著]]
+[[mg:著]]
+[[ja:著]]
+[[no:著]]
+[[pl:著]]
+[[th:著]]
+[[chr:著]]
+[[zh:著]]

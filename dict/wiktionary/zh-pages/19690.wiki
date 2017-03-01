@@ -1,0 +1,70 @@
+{{character info/new}}
+{{also|滤|沪}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=15|sn=18|four=31136|canj=EYPP|ids=⿰氵慮}}
+
+# [[strain]] out, [[filter]]
+
+====See also====
+* {{l|mul|彔}}
+
+====References====
+* {{Han ref|kx=0658.080|dkj=18565|dj=1068.110|hdz=31777.150|uh=6FFE|ud=28670|bh=C26F|bd=49775}}
+
+----
+
+==Chinese==
+{{zh-forms|s=滤}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǜ
+|c=leoi6
+|h=pfs=li
+|mn=lī/lū
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|濾光鏡|濾嘴|濾器|濾子|濾心|濾材|濾水器|濾水池|濾泡|濾泡期|濾波|濾波器|濾液|濾紙|濾色鏡|濾過作用|濾食|過濾}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水15}}
+
+# {{defn|lang=ja|sort=水15}}
+
+====Readings====
+* {{ja-readings|on=[[りょ]] (ryo), [[ろ]] (ro)|kun=[[こす]] (kosu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[려]]>[[여]]|eumhun=|rv=ryeo>yeo|mr=ryŏ>yŏ|y=lye>ye}}
+
+# {{defn|lang=ko|sort=水15}}
+
+[[zh-min-nan:濾]]
+[[fr:濾]]
+[[hu:濾]]
+[[mg:濾]]
+[[ja:濾]]
+[[pl:濾]]
+[[th:濾]]
+[[zh:濾]]

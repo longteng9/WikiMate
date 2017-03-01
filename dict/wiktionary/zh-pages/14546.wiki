@@ -1,0 +1,100 @@
+{{character info/new}}
+{{also|峯}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=07|sn=10|four=27754|canj=UHEJ|ids=⿰山夆}}
+
+# [[peak]], [[summit]]
+# [[hump]] of a [[camel]]
+
+====References====
+* {{Han ref|kx=0311.310|dkj=08094|dj=0612.010|hdz=10775.180|uh=5CF0|ud=23792|bh=AE70|bd=44656}}
+
+----
+
+==Chinese==
+{{zh-forms|t2=峯}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēng
+|m-s=fong1
+|c=fung1
+|h=pfs=fûng
+|md=
+|mn=hong
+|w=
+|mc=
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[peak]]; [[summit]]
+
+====Compounds====
+* {{zh-l|峰巒}}
+* {{zh-l|高峰}}
+* {{zh-l|山峰}}
+* {{zh-l|駝峰}}
+* {{zh-l|珠穆朗瑪峰|Mount Everest}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=山07}}
+
+====Readings====
+* {{ja-readings|goon=[[ふ]] (fu)|kanon=[[ほう]] (hō)|kanyoon=[[ぶ]] (bu)|kun=[[みね]] (mine)}}
+
+{{ja-kanjitab|みね|yomi=k}}
+
+===Noun===
+{{ja-noun|みね}}
+
+# [[peak]], [[ridge]]
+
+===Proper noun===
+{{ja-pos|proper|みね}}
+
+# {{surname|lang=ja|sort=みね}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=봉|rv=bong|mr=pong}}
+
+# {{defn|lang=ko|sort=山07}}
+
+====Compounds====
+* [[最高峰]] (최고봉)
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phong]]|rs=山07}}
+
+# {{defn|lang=vi|sort=山07}}
+
+[[fr:峰]]
+[[ko:峰]]
+[[li:峰]]
+[[hu:峰]]
+[[mg:峰]]
+[[ja:峰]]
+[[no:峰]]
+[[pl:峰]]
+[[th:峰]]
+[[zh:峰]]

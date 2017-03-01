@@ -1,0 +1,72 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=09|sn=13|four=49980|canj=DHDF|ids=⿰木秋}}
+
+====References====
+* {{Han ref|kx=0542.070|dkj=15186|dj=0930.020|hdz=21251.010|uh=6978|ud=27000|bh=DDDF|bd=56799}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiū
+|c=cau1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{taxlink|Mallotus japonicus|species|noshow=1}}, a [[deciduous]] [[tree]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木09}}
+
+# {{defn|lang=ja|sort=木09}}
+
+====Readings====
+* {{ja-readings|on=[[しゅう]] (shū)|kun=[[ひさぎ]] (hisagi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=추|eumhun=|rv=chu|mr=ch'u|y=chwu}}
+
+# {{defn|lang=ko|sort=木09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木09| hanviet = thu}}
+
+# {{defn|lang=vi|sort=木09}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6978 Nom Foundation]
+
+[[fr:楸]]
+[[hu:楸]]
+[[mg:楸]]
+[[ja:楸]]
+[[pl:楸]]
+[[th:楸]]
+[[zh:楸]]

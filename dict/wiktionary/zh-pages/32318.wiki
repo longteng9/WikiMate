@@ -1,0 +1,63 @@
+{{character info/new}}
+{{also|鲟}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=12|sn=23|four=27346|canj=NFSMI}}
+
+# [[sturgeon]]
+
+====References====
+* {{Han ref|kx=1478.240|dkj=46504|dj=2010.030|hdz=74715.060|uh=9C58|ud=40024|bh=F858|bd=63576}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鲟}}
+
+===Pronunciation===
+{{zh-pron
+|m=xún
+|c=cam4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh|sort=魚12}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚12}}
+
+# {{defn|lang=ja|sort=魚12}}
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin), [[じん]] (jin)|kun=[[ちょうざめ]] (chouzame), [[かじき]] (kajiki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=심|eumhun=|rv=sim|mr=sim|y=sim}}
+
+# {{defn|lang=ko|sort=魚12}}
+
+[[fr:鱘]]
+[[hu:鱘]]
+[[ja:鱘]]
+[[pl:鱘]]
+[[th:鱘]]
+[[vi:鱘]]
+[[zh:鱘]]

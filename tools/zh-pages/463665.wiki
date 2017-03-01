@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|り|よう|しゃ|yomi=o}}
+
+===Etymology===
+{{suffix|利用|者|t1=use|t2=-er|lang=ja|sort=りようしゃ}}
+
+===Noun===
+{{ja-noun|りようしゃ}}
+
+# [[user]]
+
+====Synonyms====
+* {{ja-r|ユーザー}}, {{ja-r|使用者|しようしゃ}}
+
+====Derived terms====
+* {{ja-r|利用者名|りようしゃめい|gloss=[[username]]}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Computing|りようしゃ]]
+
+[[fr:利用者]]
+[[hu:利用者]]
+[[ms:利用者]]
+[[ja:利用者]]
+[[chr:利用者]]
+[[zh:利用者]]

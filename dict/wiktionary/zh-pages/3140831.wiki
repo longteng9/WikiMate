@@ -1,0 +1,36 @@
+==Japanese==
+{{ja-kanjitab|ちゅう|しゃ|じょう|yomi=o}}
+
+===Etymology===
+{{suffix|駐車|場|t1=(car) parking|t2=place|lang=ja|sort=ちゅうしゃじょう}}
+
+===Pronunciation===
+{{ja-pron|ちゅうしゃじょう|acc=0|acc_ref=SMK2,NHK}}
+
+===Noun===
+{{ja-noun|ちゅうしゃじょう}}
+
+# [[parking lot]]
+
+====Synonyms====
+* {{ja-r|パーキング}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=주차장}}
+
+# {{hanja form of|주차장|parking lot}}
+
+[[cs:駐車場]]
+[[ko:駐車場]]
+[[hu:駐車場]]
+[[mg:駐車場]]
+[[sv:駐車場]]
+[[zh:駐車場]]

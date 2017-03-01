@@ -1,0 +1,62 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=07|sn=11|four=|canj=DMCW,XDMCW|ids=⿰木酉}}
+
+====References====
+* {{Han ref|kx=0528.070|dkj=14829|dj=0916.210|hdz=21211.030|uh=6884|ud=26756}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǒu
+|c=jau5
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# a [[soft]] [[wood]]
+# to [[lay]] in [[store]]s of [[firewood]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木07}}
+
+# {{defn|lang=ja|sort=木07}}
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō), [[ゆ]] (yu)|kun=[[やく]] (yaku)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木07|hanviet=[[giậu]], [[đậu]]}}
+
+# {{defn|lang=vi|sort=木07}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6884 Nom Foundation]
+
+[[fr:梄]]
+[[hu:梄]]
+[[pl:梄]]
+[[th:梄]]
+[[zh:梄]]

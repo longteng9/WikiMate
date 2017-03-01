@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=08|sn=14|four=44809|canj=TFF|ids=⿱艹炎}}
+
+# [[rush]] or [[sedge]] (plants)
+
+====References====
+* {{Han ref|kx=1040.130|dkj=31240|dj=1499.060|hdz=53239.070|uh=83FC|ud=33788|bh=DB65|bd=56165}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tǎn
+|c=taam2
+|mn=thám/tām
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸08}}
+
+# {{defn|lang=ja|sort=艸08}}
+
+====Readings====
+* {{ja-readings|on=[[たん]] (tan)|kun=[[おぎ]] (ogi)|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=艸08| hanviet = thảm}}
+
+# {{defn|lang=vi|sort=艸08}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=83fc Nom Foundation]
+
+[[fr:菼]]
+[[hu:菼]]
+[[pl:菼]]
+[[th:菼]]
+[[zh:菼]]

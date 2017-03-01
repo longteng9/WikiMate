@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms|gloss=-}}
+
+===Etymology===
+{{bor|zh|ja|-}} {{ja-r|瓦斯|ガス}}, from {{der|zh|nl|gas}}.
+
+See also {{zh-l|*嘎斯}} (> {{zh-l|*嘎斯罐}}).
+
+===Pronunciation===
+{{zh-pron
+|m=wǎsī
+|c=ngaa5 si1
+|h=pfs=ngá-sṳ̂/ka-sṳ́
+|h_note=ka-sṳ́ - from Japanese pronunciation
+|mn=xm,zz,twd:óa-su/qz,km:óa-sir/twv,twr:óa-suh/kh,tp,tn,tc,yl,lk,sx,mg,hc:gá-suh
+|mn_note=gá-suh - from Japanese pronunciation
+|cat=n
+}}
+{{attention|nan|Lukang doesn't seem to normally have 55 as a tone (with or without sandhi), but it exists in this word}}
+
+===Noun===
+{{zh-noun}}
+
+# [[fuel]] [[gas]]; [[gas]] (in mining or the military)
+
+----
+
+==Japanese==
+{{ja-kanjitab}}
+
+===Etymology===
+[[ateji|Ateji]]. This kanji spelling is rare. For full etymology, see {{ja-l|ガス}}.
+
+===Noun===
+{{ja-noun|がす|ガス}}
+
+# {{rare spelling of|ガス|lang=ja|sort=がす}}
+[[Category:Japanese terms spelled with ateji|がす]]
+
+[[zh-min-nan:瓦斯]]
+[[hu:瓦斯]]
+[[mg:瓦斯]]
+[[zh:瓦斯]]

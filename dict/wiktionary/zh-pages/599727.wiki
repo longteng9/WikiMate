@@ -1,0 +1,48 @@
+{{also|债务}}
+==Chinese==
+{{zh-forms|s=债务}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhàiwù,tl=y
+|c=zaai3 mou6
+|h=pfs=chai-vu
+|mn=qz,tw,xm:chè-bū/zz:chèe-bū
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[debt]]
+#: {{zh-x|對外 債務|foreign '''debt'''}}
+
+====Derived terms====
+{{zh-der|債務者|債務人}}
+
+====See also====
+* {{zh-l|債權}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|さい|む|yomi=on}}
+
+===Noun===
+{{ja-noun|さいむ}}
+
+# [[debt]]
+# [[obligation]], [[liability]]
+
+====Antonyms====
+* {{l|ja|債権}}
+
+[[ko:債務]]
+[[lo:債務]]
+[[hu:債務]]
+[[mg:債務]]
+[[ja:債務]]
+[[chr:債務]]
+[[zh:債務]]

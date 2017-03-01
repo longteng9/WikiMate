@@ -1,0 +1,65 @@
+==Chinese==
+{{zh-forms|alt=畜牲-less common}}
+
+===Etymology===
+{{zh-compound|畜|生|domestic animal, livestock|([[牲]]) domestic animal}} Variant: {{l|cmn|畜牲}}. First attested in ''{{w|Han Feizi (book)|Han Feizi}}'' (circa 2nd century BC). The expletive sense was attested in the ''{{w|Book of Sui}}'' (7th century AD). Influenced, through Buddhism, by Sanskrit {{m|sa|तिर्यग्योनि||animal creation}} and Pali {{m|pi|tiracchānayoni||the realm of the brute creation}} during the {{w|Six Dynasties}} times, as this word was used as a translation of the Sanskrit and Pali terms. Compare {{l|zh|牲畜}}.
+
+===Pronunciation===
+{{zh-pron
+|m=chùsheng,er=y
+|c=cuk1 saang1
+|cat=n
+|mn=thiok-seng/thek-seⁿ/thek-siⁿ
+|mn_note=thiok-seng: literal reading; thek-seⁿ: colliqual reading in Zhangzhou dialect; thek-siⁿ: colliqual reading in Quanzhou dialect
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[domestic]] [[animal]]; [[livestock]]; [[brute]]
+# {{lb|zh|offensive}} [[beast]], [[bugger]], a contemptible person; [[brute]]
+
+====Descendants====
+{{CJKV|畜生|ちくしょう|축생|súc sinh|v2=súc sanh}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちく|しょう|yomi=on}}
+
+===Etymology===
+{{IPAchar|/tikusjau/}} → {{IPAchar|/t͡ɕikusjoː/}}
+
+From {{etyl|ltc|ja|sort=ちくしょう}} {{m|zh|畜生}}, {{m|zh|畜牲|tr=trhjuw<sup>H</sup> sræng|lit=livestock + livestock; sacrificial animal}}, itself influenced by {{etyl|sa|ja|sort=ちくしょう}} {{m|sa|तिर्यग्योनि||animal creation}}.<ref>{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=goon|ちくしょう|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ちくしょう|hhira=ちくしやう}}
+
+# {{lb|ja|Buddhism|sort=ちくしょう}} [[beast]]: a generic term for animals, birds, fish and insects, as the reincarnated form of one who had bad karma in a previous life
+# a derogative term for a person
+
+====Derived terms====
+* {{ja-r|此ん畜生|こんちくしょう}}
+
+===Interjection===
+{{ja-pos|ちくしょう|interjection}}
+
+# an expression of strong anger or frustration: [[damn]], [[dammit]], [[fuck]], [[shit]]
+
+===References===
+<references/>
+
+[[zh-min-nan:畜生]]
+[[fr:畜生]]
+[[ko:畜生]]
+[[la:畜生]]
+[[hu:畜生]]
+[[mg:畜生]]
+[[ja:畜生]]
+[[fi:畜生]]
+[[sv:畜生]]
+[[chr:畜生]]
+[[zh:畜生]]

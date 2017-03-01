@@ -1,0 +1,51 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=16|sn=19|four=34132|canj=ENLB|ids=⿰氵隨}}
+
+====References====
+* {{Han ref|kx=0660.130|dkj=18665|dj=1070.060|hdz=31774.080|uh=7021|ud=28705|bh=F261|bd=62049}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=suǐ
+|c=seoi5
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[slippery]], [[smooth]]
+
+===Pronunciation 2===
+{{zh-pron
+|c=soe4
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tcx|lang=zh|Cantonese}}
+
+# to [[slide]] down, to [[slip]]
+# to [[collapse]] (sideways)
+
+===Compounds===
+{{zh-der|滫瀡}}
+
+[[fr:瀡]]
+[[pl:瀡]]
+[[th:瀡]]
+[[zh:瀡]]

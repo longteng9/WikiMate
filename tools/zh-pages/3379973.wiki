@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|とう|しゅう|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|とうしゅう|y=o|acc=0|acc_ref=NHK}}
+
+===Alternative forms===
+* {{l|ja|蹈襲}}
+
+===Noun===
+{{ja-noun|とうしゅう}}
+
+# [[emulation]], [[following in someone's footsteps]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|とうしゅう}}
+
+# to [[emulate]], to [[follow in someone's footsteps]]
+
+====Conjugation====
+{{ja-suru|とうしゅう}}
+
+===References===
+<references/>
+
+[[ko:踏襲]]
+[[ja:踏襲]]
+[[zh:踏襲]]

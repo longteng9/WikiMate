@@ -1,0 +1,32 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=jièyīn
+|c=gaai3 jam1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|phonetics}} [[glide]], [[semivowel]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|おん|yomi=on}}
+
+===Noun===
+{{ja-noun|かいおん}}
+
+# {{lb|ja|phonetics|sort=かいおん}} [[medial]]
+
+====Holonyms====
+* {{l|ja|韻母}}
+
+====Coordinate terms====
+* {{l|ja|主母音}}
+* {{l|ja|韻尾}}

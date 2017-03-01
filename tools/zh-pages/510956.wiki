@@ -1,0 +1,46 @@
+{{also|北纬}}
+==Chinese==
+{{zh-forms|s=北纬}}
+
+===Pronunciation===
+{{zh-pron
+|m=běiwěi
+|c=bak1 wai5
+|mn=pak-hūi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|geography}} [[north]] [[latitude]]
+
+====Antonyms====
+* {{zh-l|南緯}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほく|い|yomi=o}}
+
+===Etymology===
+''From'' [[北]] (ホク, hoku) ([[きた]], [[kita]]): (''[[north]]'') + [[緯]] (イ, i): (''[[latitude]]'')
+
+===Noun===
+{{ja-noun|ほくい}}
+
+# {{lb|ja|geography}} [[north]] [[latitude]]
+
+===See also===
+* {{ja-r|緯度|いど}}: [[latitude]]
+* {{ja-r|南緯|なんい}}: [[south]] [[latitude]]
+
+[[Category:ja:Geography|ほくい]]
+
+[[zh-min-nan:北緯]]
+[[ko:北緯]]
+[[it:北緯]]
+[[hu:北緯]]
+[[ja:北緯]]
+[[pt:北緯]]
+[[zh:北緯]]

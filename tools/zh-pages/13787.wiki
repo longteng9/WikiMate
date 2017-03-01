@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|娿}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=08|sn=11|four=41420|canj=VNLR|ids=⿰女阿}}
+
+# be [[beautiful]], be [[graceful]]
+
+====References====
+* {{Han ref|kx=0263.470|dkj=06382|dj=0530.320|hdz=21054.080|uh=5A40|ud=23104|bh=B0FE|bd=45310}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=ē
+|c=o1,o2
+|mc=
+|oc=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|婀娜|婀娜多姿|媕婀}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女08}}
+
+# {{defn|lang=ja|sort=女08}}
+
+====Readings====
+* {{ja-readings|on=[[あ]] (a)|kun=[[たおやか]] (taoyaka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=아|rv=a|mr=a}}
+
+# {{defn|lang=ko|sort=女08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[a]]|rs=女08}}
+
+# {{defn|lang=vi|sort=女08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5a40 Nom Foundation]
+
+[[fr:婀]]
+[[li:婀]]
+[[hu:婀]]
+[[mg:婀]]
+[[ja:婀]]
+[[pl:婀]]
+[[th:婀]]
+[[zh:婀]]

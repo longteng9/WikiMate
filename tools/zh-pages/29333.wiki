@@ -1,0 +1,70 @@
+{{character info/new}}
+{{also|铊}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=05|sn=13|four=83111|canj=CJP}}
+
+# [[thallium]]
+
+====References====
+* {{Han ref|kx=1300.180|dkj=40289|dj=1802.300|hdz=64191.030|uh=9248|ud=37448|bh=E0AE|bd=57518}}
+
+----
+
+==Chinese==
+{{zh-forms|s=铊}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tā,sá
+|c=taa1,to4,si1
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|躧匾稱鉈}}
+
+===References===
+* {{R:twedu|B05298}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金05}}
+
+# {{defn|lang=ja|sort=金05}}
+
+====Readings====
+* {{ja-readings|goon=[[せ]] (se), [[じゃ]] (ja)|kanon=[[し]] (shi), [[しゃ]] (sha)|on=[[た]] (ta)|kun=[[ほこ]] (hoko), [[なた]] (nata)|nanori=}}
+
+{{ja-kanjitab|なた|yomi=k}}
+
+===Noun===
+{{ja-noun|なた}}
+
+# [[hatchet]]
+
+[[fr:鉈]]
+[[lt:鉈]]
+[[hu:鉈]]
+[[ja:鉈]]
+[[pl:鉈]]
+[[ro:鉈]]
+[[th:鉈]]
+[[vi:鉈]]
+[[zh:鉈]]

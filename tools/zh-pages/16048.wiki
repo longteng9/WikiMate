@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=04|sn=7|four=51090|canj=QMF|ids=⿰扌不}}
+
+# [[take]] or [[hold]] [[up]] in both [[hand]]s
+
+====References====
+* {{Han ref|kx=0421.120|dkj=11886|dj=0768.120|hdz=31834.050|uh=6294|ud=25236|bh=CAEB|bd=51947}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|㧵}}
+
+===Pronunciation===
+{{zh-pron
+|m=póu
+|c=pau4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=v,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[hold]] with [[cup]]ped [[hand]]s
+# {{n-g|classifier for handfuls of things}}
+
+===References===
+* {{R:twedu|B01258}}
+* [http://yedict.com/zsCONTENT.ASP?uni=6294 yedict.com (叶典)]
+* {{w|Lin Yutang|Yutang, Lin}}, ''[http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/ Chinese-English Dictionary of Modern Usage]''.
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手04}}
+
+# {{defn|lang=ja|sort=手04}}
+
+====Readings====
+* {{ja-readings|on=[[ほう]] (hō), [[はい]] (hai)|kun=[[すくう]] (sukuu), [[など]] (nado)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=부|eumhun=|rv=bu|mr=pu|y=pu}}
+
+# {{defn|lang=ko|sort=手04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手04|hanviet=bồi}}
+
+# {{defn|lang=vi|sort=手04}}
+
+[[zh-min-nan:抔]]
+[[fr:抔]]
+[[hu:抔]]
+[[ja:抔]]
+[[pl:抔]]
+[[th:抔]]
+[[zh:抔]]

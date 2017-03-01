@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|锰}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=08|sn=16|four=87117|canj=CNDT|ids=⿰金孟}}
+
+====References====
+* {{Han ref|kx=1313.051|dkj=40589|hdz=64227.050|uh=9333|ud=37683|bh=BFF8|bd=49144}}
+
+----
+
+==Chinese==
+{{zh-forms|s=锰}}
+
+===Pronunciation===
+{{zh-pron
+|m=měng
+|c=maang5
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[manganese]]
+
+====Compounds====
+{{zh-der|錳鋼|錳結核|錳礦球}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金08}}
+
+# {{defn|lang=ja|sort=金08}}
+
+====Readings====
+* {{ja-readings|on=[[もう]] (mō)|kun=[[まんがん]] (mangan)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=맹|eumhun=|rv=maeng|mr=maeng|y=mayng}}
+
+# {{defn|lang=ko|sort=金08}}
+
+{{zh-cat|Chemical elements}}
+
+[[fr:錳]]
+[[ko:錳]]
+[[lt:錳]]
+[[hu:錳]]
+[[mg:錳]]
+[[ja:錳]]
+[[pl:錳]]
+[[ro:錳]]
+[[th:錳]]
+[[vi:錳]]
+[[zh:錳]]

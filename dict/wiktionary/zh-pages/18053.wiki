@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=11|sn=15|four=47922|canj=DSMH|ids=⿰木翏}}
+
+# [[bend]]ing [[branch]]es, [[bent]] [[limb]]s
+
+====References====
+* {{Han ref|kx=0550.150|dkj=15445|dj=0938.090|hdz=21285.120|uh=6A1B|ud=27163|bh=E5D6|bd=58838}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiū
+|c=gau1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木11}}
+
+# {{defn|lang=ja|sort=木11}}
+
+====Readings====
+* {{ja-readings|on=[[きゅう]] (kyū)|kun=[[つが]] (tsuga)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=규|eumhun=|rv=gyu|mr=kyu|y=kyu}}
+
+# {{defn|lang=ko|sort=木11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木11| hanviet = cù}}
+
+# {{defn|lang=vi|sort=木11}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6a1b Nom Foundation]
+
+[[fr:樛]]
+[[hu:樛]]
+[[ja:樛]]
+[[pl:樛]]
+[[th:樛]]
+[[zh:樛]]

@@ -1,0 +1,50 @@
+{{also|牛马}}
+==Chinese==
+{{zh-forms|s=牛马}}
+
+===Pronunciation===
+{{zh-pron
+|m=niúmǎ
+|c=ngau4 maa5
+|mn=qz,tw,xm:gû-bé/zz:gû-bée
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[oxen]] and [[horse]]s; [[beast of burden|beasts of burden]]
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|ぎゅう|ば|yomi=o}}
+From {{etyl|ltc|ja|sort=きゅうば'}} compound {{m|zh|牛馬|tr=ngjuw mæ<sup>X</sup>|lit=ox + horse}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ぎゅうば|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|ぎゅうば|hhira=ぎうば}}
+
+# [[ox]]en and [[horse]]s, [[beast of burden|beasts of burden]]
+
+===Etymology 2===
+{{ja-kanjitab|うし|うま|yomi=k}}
+Compound of {{affix|sort=うしうま|ja|牛|tr1=ushi|t1=ox|馬|tr2=uma|t2=horse}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|うしうま|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|うしうま}}
+
+# a [[small]] [[breed]] of [[horse]], [[extinct]] since 1947
+
+===References===
+<references/>
+
+[[ko:牛馬]]
+[[hu:牛馬]]

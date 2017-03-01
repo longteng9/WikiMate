@@ -1,0 +1,105 @@
+{{character info/new}}
+{{also|硃}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=02|sn=6|four=25900|canj=HJD|ids=⿰丿未}}
+
+====Derived characters====
+* [[珠]] [[株]] [[殊]]
+
+====References====
+* {{Han ref|kx=0509.130|dkj=14424|dj=0893.040|hdz=21154.030|uh=6731|ud=26417|bh=A6B6|bd=42678}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhū,shū
+|c=zyu1
+|h=
+|mn=chu
+|w=
+|mc=y
+|oc=y
+|ma=
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[cinnabar]], [[vermilion]]
+# {{surname|lang=zh}}
+
+====Compounds====
+* {{zh-l|朱砂|cinnabar}}
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|2451}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=木02}}
+
+# [[vermilion]]
+# [[cinnabar]]
+# [[scarlet]]
+# [[red]]
+# [[bloody]]
+
+====Readings====
+* {{ja-readings|goon=[[す]] (su) {{non-joyo-reading}}|kanon=[[しゅ]] (shu)|kun=[[あか]] (aka), [[あけ]] (ake)}}
+
+===Noun===
+{{ja-noun|あけ}}
+
+# [[crimson]]
+
+{{ja-noun|あか}}
+
+# {{alternative form of|赤|lang=ja}}
+
+{{ja-noun|しゅ}}
+
+# [[vermilion]]
+
+[[Category:ja:Reds|あけ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=주|eumhun=|rv=ju|mr=chu|y=cwu}}
+
+# {{defn|lang=ko|sort=木02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cho]], [[chẩu]], [[chõ]], [[chu]], [[chau]], [[châu]], [[choa]]|rs=木02}}
+
+# {{defn|lang=vi|sort=木02}}
+
+[[zh-min-nan:朱]]
+[[fr:朱]]
+[[ko:朱]]
+[[hu:朱]]
+[[mg:朱]]
+[[ja:朱]]
+[[no:朱]]
+[[pl:朱]]
+[[th:朱]]
+[[zh:朱]]

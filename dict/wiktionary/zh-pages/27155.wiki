@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=10|sn=17|four=|canj=YRMRR}}
+
+# [[slander]], [[defame]]
+
+====References====
+* {{Han ref|kx=1174.280|dkj=35797|dj=1639.130|hdz=64005.040|uh=8B0C|ud=35596}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gē
+|c=
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# variant of [[歌]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言10}}
+
+# {{defn|lang=ja|sort=言10}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka)|kun=[[うたう]] (utau), [[うた]] (uta)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=가|eumhun=|rv=ga|mr=ka|y=ka}}
+
+# {{defn|lang=ko|sort=言10}}
+
+[[fr:謌]]
+[[hu:謌]]
+[[ja:謌]]
+[[pl:謌]]
+[[th:謌]]
+[[zh:謌]]

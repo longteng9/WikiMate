@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yángmáo
+|c=joeng4 mou4
+|h=pfs=yòng-mô
+|mn=qz,tw,xm:iûⁿ-mn̂g/zz:iôⁿ-mô͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[wool]], [[fleece]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|よう|もう|yomi=on}}
+
+===Etymology===
+From {{m|ja|羊|sc=Jpan}} (sheep) and {{m|ja|毛|sc=Jpan}} (hair)
+
+===Noun===
+{{ja-noun|ようもう}}
+
+# [[wool]], [[fleece]]
+#: {{ja-usex|'''羊毛'''を刈る。|'''ようもう''' を かる。|I'll shear some sheep.}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=양모}}
+
+# {{hanja form of|양모|[[wool]], [[fleece]]}}
+
+[[zh-min-nan:羊毛]]
+[[ko:羊毛]]
+[[hu:羊毛]]
+[[mg:羊毛]]
+[[chr:羊毛]]
+[[tr:羊毛]]
+[[zh:羊毛]]

@@ -1,0 +1,44 @@
+{{also|改窜}}
+==Chinese==
+{{zh-forms|s=改窜}}
+
+===Pronunciation===
+{{zh-pron
+|m=gǎicuàn
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|obsolete}} to [[alter]], to [[falsify]]
+
+====Synonyms====
+* {{zh-l|竄改}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|ざん|yomi=o}}
+{{wikipedia|lang=ja}}
+
+===Alternative forms===
+* {{l/ja|改ざん}}
+
+===Pronunciation===
+{{ja-pron|かいざん|y=o}}
+
+===Noun===
+{{ja-noun|かいざん}}
+
+# [[alteration]] of a document, [[falsification]] of records
+
+===Verb===
+{{ja-verb-suru|tr=trans|かいざん}}
+
+# [[alter]] a document, [[falsify]] records, [[cook the books]]
+
+====Conjugation====
+{{ja-suru|かいざん}}
+
+[[mg:改竄]]

@@ -1,0 +1,81 @@
+==Chinese==
+{{zh-forms|lit=southern capital}}
+{{zh-wp|zh|en:Nanjing}}
+
+===Pronunciation===
+{{zh-pron
+|m=Nánjīng
+|ma=Chinese-Nanjing.ogg
+|c=naam4 ging1
+|h=pfs=Nàm-kîn
+|mn=Lâm-kiaⁿ
+|w=3noe jin
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{zh-div|市}} [[Nanjing]] {{gloss|city in the [[Jiangsu]] Province of eastern China}}
+
+====Synonyms====
+* {{zh-l|金陵}}
+
+{{zh-cat|Cities}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|なん|きん|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|なんきん}}
+
+====Proper noun====
+{{ja-pos|proper|なんきん|ナンキン}}
+
+# [[Nanjing]]
+
+=====Synonyms=====
+* {{sense|Nanjing}} {{ja-r|金陵|^きんりょう}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|南京錠|なんきんじょう}}: [[padlock]]
+{{der-bottom}}
+
+====Noun====
+{{ja-noun|なんきん}}
+
+# [[pumpkin]], [[squash]]
+
+=====Synonyms=====
+* {{sense|pumpkin, squash}} {{ja-r|南瓜|かぼちゃ}}, {{ja-r|唐茄子|とうなす}}
+
+===Etymology 2===
+{{ja-kanjitab|なん|きょう|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|なんきょう|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|なんきょう|hhira=なんきやう}}
+
+# a southern capital
+
+===References===
+<references/>
+
+[[Category:ja:Cities|なんきん]]
+[[Category:ja:Gourd family plants|なんきん]]
+[[Category:ja:Vegetables|なんきん]]
+
+[[fr:南京]]
+[[ko:南京]]
+[[mg:南京]]
+[[ja:南京]]
+[[vi:南京]]
+[[zh:南京]]

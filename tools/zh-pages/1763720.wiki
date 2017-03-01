@@ -1,0 +1,12 @@
+==Japanese==
+{{ja-kanjitab|きん|せい|たい|yomi=on}}
+
+===Etymology===
+{{suffix|禁制|帯|lang=ja|t1=forbidding|t2=band|sort=きんせいたい}}
+
+===Noun===
+{{ja-noun|きんせいたい}}
+
+# {{lb|ja|physics|sort=きんせいたい}} [[valence band]]; a highest [[range]] of [[electron]] [[energies]] in an [[insulator]] or [[semiconductor]] that can be populated; it corresponds to the valence electrons of the constituent [[atom]]s
+
+[[zh:禁制帯]]

@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=62|rad=戈|as=08|sn=12|four=43450|canj=JJI|ids=⿰𠦝戈}}
+
+# [[halberd]] [[w:ji (polearm)|with crescent blade]]
+
+====References====
+* {{Han ref|kx=0413.090|dkj=11606|dj=0755.360|hdz=21407.070|uh=621F|ud=25119|bh=B475|bd=46197}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jǐ
+|c=gik1
+|mn=kek
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=戈08}}
+
+# {{defn|lang=ja|sort=戈08}}
+
+====Readings====
+* {{ja-readings|kanon=[[けき]] (keki)|goon=[[きゃく]]|kanyoon=[[げき]] (geki)|kun=[[ほこ]] (hoko)}}
+
+===Noun===
+{{ja-kanjitab|ほこ|yomi=k}}
+{{ja-noun|ほこ}}
+
+# {{alternative spelling of|矛|lang=ja}}
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=극|eumhun=|rv=geuk|mr=kŭk|y=kuk}}
+
+# {{defn|lang=ko|sort=戈08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kích]]|rs=戈08}}
+
+# {{defn|lang=vi|sort=戈08}}
+
+[[es:戟]]
+[[fr:戟]]
+[[ko:戟]]
+[[mg:戟]]
+[[ja:戟]]
+[[pl:戟]]
+[[th:戟]]
+[[vi:戟]]
+[[zh:戟]]

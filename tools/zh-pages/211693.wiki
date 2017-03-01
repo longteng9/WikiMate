@@ -1,0 +1,81 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=dúshé
+|c=duk6 se4
+|h=pfs=thu̍k-sà
+|mn=to̍k-chôa
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[venomous]] [[snake]], [[viper]]
+
+{{zh-cat|Snakes}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Venomous snake}}
+[[File:Indiancobra.jpg|thumb|250px|{{lang|ja|毒蛇}} (''dokuja'', ''dokuhebi''): a [[cobra]], an iconic and well-known '''[[venomous]] [[snake]]'''.]]
+</div>
+
+===Etymology 1===
+{{ja-kanjitab|どく|じゃ|yomi=o}}
+From {{etyl|ltc|ja|sort=とくじゃ'}} compound {{m|zh|毒蛇|tr=dowk zyæ|lit=poison + snake}}.  Compare modern {{etyl|cmn|-}} reading ''dúshé'', {{etyl|yue|-}} ''duk<sup>6</sup> se<sup>4</sup>''.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|どくじゃ|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|どくじゃ}}
+
+# [[venomous]] [[snake]]
+# a [[game]] [[piece]] in dai dai shogi and taikyoku shogi
+
+=====Derived terms=====
+* {{ja-r|毒蛇の口|どくじゃ の くち}}
+
+===Etymology 2===
+{{ja-kanjitab|どく|へび|yomi=j}}
+Apparent shift from ''dokuja'' above, to use the [[訓読み#Japanese|kun'yomi]] of ''hebi'' for the second character.
+
+====Pronunciation====
+{{ja-pron|yomi=j|どくへび|acc=0|dev=2|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|どくへび}}
+
+# [[venomous]] [[snake]]
+
+===References===
+<references/>
+
+[[Category:ja:Snakes|とくじゃ']]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=독사}}
+
+# {{hanja form of|독사|[[venomous]] [[snake]]}}
+
+[[Category:ko:Reptiles|독사]]
+
+[[zh-min-nan:毒蛇]]
+[[ko:毒蛇]]
+[[la:毒蛇]]
+[[hu:毒蛇]]
+[[ja:毒蛇]]
+[[chr:毒蛇]]
+[[zh:毒蛇]]

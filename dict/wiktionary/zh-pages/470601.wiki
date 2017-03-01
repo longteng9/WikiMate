@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tígōng
+|ma=Zh-tígong.ogg
+|c=tai4 gung1
+|h=pfs=thì-kiûng
+|mn=thê-kiong
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[provide]]; to [[offer]]; to [[supply]]
+#: {{zh-x|你 的{de} 飯館 '''提供''' 送餐 服務 嗎{ma}？|Does your restaurant '''provide''' a delivery service?}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てい|きょう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ていきょう|yomi=o}}
+
+===Noun===
+{{ja-noun|ていきょう}}
+
+# [[offer]]
+# [[sponsorship]] (e.g. of a TV program)
+
+===Verb===
+{{ja-verb-suru|tr=trans|ていきょう}}
+
+# to offer
+# to [[sponsor]]
+
+====Conjugation====
+{{ja-suru|ていきょう}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=제공}}
+
+# {{hanja form of|제공|[[offer]]}}
+
+[[zh-min-nan:提供]]
+[[ko:提供]]
+[[hu:提供]]
+[[mg:提供]]
+[[ja:提供]]
+[[pt:提供]]
+[[chr:提供]]
+[[uk:提供]]
+[[vi:提供]]
+[[zh:提供]]

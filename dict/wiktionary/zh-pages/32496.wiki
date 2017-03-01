@@ -1,0 +1,95 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+Japanese [[kokuji]] ({{ja-l|国字}}), a Chinese character originally invented in Japan.
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=02|sn=13|canj=OHAF|ids=⿰入鳥}}
+
+====References====
+{{Han ref|kx=1482.021|dkj=46658|dj=2013.210|hdz=74613.121|uh=9CF0}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=鳥02}}
+
+====Readings====
+{{ja-readings|kun=[[にお]] (nio)}}
+
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|にお|yomi=k}}
+From 水に入る鳥.
+
+====Pronunciation====
+{{ja-pron|yomi=k|にお|acc=1|acc_ref=NHK}}
+
+====Noun====
+{{ja-noun|にお|hhira=にほ}}
+
+# [[grebe]]
+## [[little grebe]]
+
+=====Synonyms=====
+* {{sense|grebe}} {{ja-r|鸊鷉|かいつぶり}}, {{ja-r|鳰鳥|におどり}}, {{ja-r|浮巣鳥|うきすどり}}, {{ja-r|息長鳥|しながどり}}, {{ja-r|潜り|むぐり}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|鳰貝|におがい}}
+* {{ja-r|鳰照る|におてる}}
+* {{ja-r|鳰照るや|におてる や}}
+* {{ja-r|鳰鳥|におどり|[[grebe]]; [[little grebe]]}}
+* {{ja-r|鳰鳥の|におどり の}}
+* {{ja-r|鳰の浮き巣|にお の うきす}}
+* {{ja-r|鳰の海|^にお の ^うみ}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|sort=かいつぶり|yomi=irr}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|かいつぶり|acc=3|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|鸊鷉}}
+
+====Noun====
+{{ja-noun|かいつぶり|カイツブリ}}
+
+# [[grebe]]
+## [[little grebe]]
+
+===Etymology 3===
+{{ja-kanjitab|sort=かいつむり|yomi=irr}}
+Alteration of ''kaitsuburi''.<ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=irr|かいつむり|acc=3|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|鸊鷉}}
+
+====Noun====
+{{ja-noun|かいつむり}}
+
+# [[grebe]]
+## [[little grebe]]
+
+===References===
+<references/>
+
+[[Category:Japanese-only CJKV Characters|鳰+02]]
+[[Category:ja:Grebes|にお]]
+
+[[fr:鳰]]
+[[hu:鳰]]
+[[mg:鳰]]
+[[ja:鳰]]
+[[pl:鳰]]
+[[th:鳰]]
+[[zh:鳰]]

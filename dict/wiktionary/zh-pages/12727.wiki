@@ -1,0 +1,62 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=12|sn=15|four=63014|canj=RYFU|ids=⿰口就}}
+
+# {{defn|Han|sort=口12}}
+
+====References====
+* {{Han ref|kx=0208.180|dkj=04298|dj=0431.130|hdz=10685.170|uh=5648|ud=22088|bh=E4F6|bd=58614}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=[[zuk1]]|y=juk1}}
+
+# {{defn|lang=yue|sort=口12}}
+
+====References====
+* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 83]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口12}}
+
+# {{defn|lang=ja|sort=口12}}
+
+====Readings====
+* {{ja-readings|on=[[しゅく]] (shuku), [[そう]] (sō), [[こう]] (kō), [[ごう]] (gō)|kun=[[こえ]] (koe), [[くらう]] (kurau), [[やわらか]] (yawaraka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=축|rv=chuk|mr=ch'uk}}
+
+# {{defn|lang=ko|sort=口12}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[cù]] ([[cu4]])|wg=ts'u<sup>4</sup>}}
+
+# {{defn|lang=cmn|sort=口12}}
+
+[[fr:噈]]
+[[li:噈]]
+[[hu:噈]]
+[[pl:噈]]
+[[th:噈]]
+[[zh:噈]]

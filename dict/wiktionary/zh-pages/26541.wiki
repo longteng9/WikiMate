@@ -1,0 +1,39 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=06|sn=12|four=|canj=LHON}}
+
+# {{defn|Han|sort=衣06}}
+
+====References====
+* {{Han ref|kx=1116.341|dkj=34283|hdz=53089.081|uh=88C4|ud=35012}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=衣06}}
+
+# The distance in the seam of a kimono from the back to the end of the sleeve.<ref name="gakken">{{cite-book|year=2002|author=Akiyasu Tōdō [''et al.'']|title=漢字源|ISBN=978-4053008893|passage=裄}}</ref>
+
+====Readings====
+* {{ja-readings|on=|kun=[[ゆき]] (yuki)|nanori=}}
+
+====References====
+<references/>
+
+===Noun===
+{{ja-noun|ゆき}}
+# {{lb|ja|sewing|sort=ゆき}} the distance in a kimono from the back to the end of the sleave
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 裄]]
+
+[[fr:裄]]
+[[hu:裄]]
+[[ja:裄]]
+[[pl:裄]]
+[[th:裄]]
+[[zh:裄]]

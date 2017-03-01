@@ -1,0 +1,91 @@
+{{character info/new}}
+{{also|帐|賬}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=50|rad=巾|as=08|sn=11|four=41232|canj=LBSMV|ids=⿰巾長}}
+
+# [[tent]]
+# [[screen]], [[mosquito net]]
+
+====References====
+* {{Han ref|kx=0332.200|dkj=08939|dj=0638.190|hdz=10742.080|uh=5E33|ud=24115|bh=B162|bd=45410}}
+
+----
+
+==Chinese==
+{{zh-forms|s=帐}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhàng
+|c=zoeng3
+|mn=qz,tw,xm:tiòng/zz:tiàng/qz,tw,xm:tiùⁿ/zz:tiòⁿ
+|mn_note=tiòng/tiàng - literary; tiùⁿ/tiòⁿ - vernacular
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|帳飲|大帳|幔帳|帳簷|單帳|九華帳|帳鉤|入帳|交帳|冷帳不問|倒反帳|帳本|帳款|帳棚|對帳|帳紋|勾帳|帳幕|帳冊|分類帳|慢帳|壞帳|惠帳|人頭帳目|上帳|床帳|乜斜纏帳|呆帳|回爐復帳|報帳|哈帳|帳下|廬帳|帳務|序時帳|幃帳|帳面價值|帳簿|帳篷|帳房|帳戶|帳子|帳單|帳主子|帳中歌|小帳|坐帳|客帳司|了帳|倒帳|宕帳|中軍帳|夾帳|不認帳|升帳|寬打料帳|坐床撒帳|付帳|帳目|帳籍|打料帳|演帳|打夾帳|毳帳|現金帳|查帳|押帳|收帳|欺瞞夾帳|混帳話|漂帳|找帳|放帳|應付帳款|玉帳|抵帳|應收帳款|秋後算帳|有帳|祖帳|百子帳|打帳|瞎帳|盤帳|甲帳|歸帳路頭|流年帳|營帳|攏帳|查帳員|撒帳|爛帳|拆帳|清帳|混帳|流水帳|沒帳|流蘇帳|打爛帳|折帳|沖帳|斗帳|混帳東西|會帳|日記帳|馬帳|芙蓉帳|算總帳|落帳|絳帳|陳帳|總帳|簽帳|花帳|這筆帳|糊塗帳|該帳|進帳|翻舊帳|裁衣合帳|籍帳|認帳|老帳|轉帳交易|要帳|立帳子|開帳|黼帳|賴帳|轉帳|舊帳|討帳|虎帳|連珠帳|開花帳|過帳|纏帳|覆帳|資本帳|結帳日|繐帳|結帳|翻老帳|簽帳卡|絳帳授徒|閻王帳|經帳|隔壁帳|虛帳|錦帳|銷金帳|銷帳|算帳|紗帳|還帳|算舊帳|賒帳|買帳|設帳|記帳|計帳|賠帳|蚊帳|管帳}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=巾08}}
+
+# [[curtain]]
+
+=====Readings=====
+* {{ja-readings|on=[[ちょう]] (chō) > [[ちやう]]  (tyau)|kun=[[とばり]] (tobari), [[はり]] (hari)}}
+
+=====Compounds=====
+* {{ja-r|手帳|てちょう}}
+
+===Etymology===
+{{ja-kanjitab|とばり|yomi=k}}
+
+====Noun====
+{{ja-noun|とばり}}
+
+# [[curtain]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=장|rv=jang|mr=chang|y=cang}}
+
+# {{defn|lang=ko}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trướng]], [[trương]]}}
+
+# {{defn|lang=vi}}
+
+[[fr:帳]]
+[[ko:帳]]
+[[li:帳]]
+[[hu:帳]]
+[[mg:帳]]
+[[ja:帳]]
+[[pl:帳]]
+[[th:帳]]
+[[zh:帳]]

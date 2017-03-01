@@ -1,0 +1,43 @@
+{{also|陪审}}
+==Chinese==
+{{zh-forms|s=陪审}}
+
+===Pronunciation===
+{{zh-pron
+|m=péishěn
+|c=pui4 sam2
+|mn=pôe-sím
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|law}} to [[serve]] on a [[jury]]
+# {{lb|zh|law}} to serve as an [[assessor]] in a [[court]] [[trial]]
+
+====Derived terms====
+{{zh-der|陪審員|陪審團|大陪審團|陪審制}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ばい|しん|yomi=on}}
+
+===Pronunciation===
+* {{IPA|[baiɕin]|lang=ja}}
+
+===Noun===
+{{ja-noun|ばいしん}}
+
+# [[jury]]
+
+====Derived terms====
+* {{l|ja|陪審員}} (baishin'in)
+* {{l|ja|陪審員席}} (baishin'inseki)
+* {{l|ja|陪審裁判}} (baishin saiban)
+
+[[ko:陪審]]
+[[hu:陪審]]
+[[fi:陪審]]
+[[chr:陪審]]

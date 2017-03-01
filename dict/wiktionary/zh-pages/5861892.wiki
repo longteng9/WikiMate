@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|らい|はん|yomi=o}}
+
+===Etymology===
+{{affix|sort=らいはん|ja|来|tr1=rai|t1=come|阪|tr2=han|t2=Ōsaka}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|らいはん|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|らいはん}}
+
+# [[come|coming]] to [[Ōsaka]]
+
+===Verb===
+{{ja-verb-suru|らいはん}}
+
+# [[come]] to [[Ōsaka]]
+
+====Conjugation====
+{{ja-suru|らいはん}}
+
+===References===
+<references/>
+
+[[mg:来阪]]

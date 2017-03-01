@@ -1,0 +1,129 @@
+{{character info/new}}
+{{also|灾|烖}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=03|sn=7|four=22809|canj=VVF|ids=⿱巛火}}
+
+====References====
+* {{Han ref|kx=0666.180|dkj=18879|dj=1075.230|hdz=32190.060|uh=707D|ud=28797|bh=A861|bd=43105}}
+
+----
+
+==Chinese==
+{{zh-forms|s=灾}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zāi
+|c=zoi1
+|mn=qz,tw,xm,zz:chai/qz:cher/tw,xm,zz:che
+|mn_note=chai - literary, cher/che - vernacular
+|mc=y
+|oc=y
+|ma=Zh-zai.ogg
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[calamity]]; [[disaster]]; [[catastrophe]]
+# [[stricken]]; disaster-affected; disaster-[[afflicted]]
+
+===Compounds===
+{{zh-der|三災八難|兵災|兵災保險|凌災|回祿之災|壓災|多災多難|多病多災|大災難|天災|天災人禍|天災地孽|天災地變|天災物怪|天然災害|妖災|害天災|幸災樂禍|惹災招禍|惹禍招災|招災|招災攬禍|攘災|放災|救災|救災恤患|旱災|月值年災|樂禍幸災|橫災飛禍|橫禍非災|橫禍飛災|水災|氾濫成災|求福禳災|泛濫成災|洪災|浮災|消災|消災解厄|滅頂之災|澇災|火災|火災保險|火災損失|火災消防|災區|災厄|災害|災害救濟|災患|災情|災戾|災梨禍棗|災殃|災民|災沴|災異|災病|災眚|災祥|災禍|災胞|災荒|災變|災迍|災障|災難|災黎|無妄之災|牢獄之災|當災|眚災|破財消災|禍棗災梨|福盡災生|福過災生|自然災害|舞馬之災|蝗災|蟲災|血光之災|被災蒙禍|賑災|輕災浮難|轉災為福|迍災|逃災躲難|逃災避難|防災|降災|非災|風災|飛災|飛災橫禍|馬舞之災|鬧災}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=火03}}
+
+====Readings====
+{{ja-readings
+|goon=[[さい]] (sai)
+|kanon=[[さい]] (sai)
+|kun=[[わざわい]] (wazawai), [[わざわい|わざわ.い]] ([[災い]], wazawa.i)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|さい}}
+From {{etyl|ltc|ja|sort=さい}} {{m|zh|災|tr=tsoj||calamity}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|さい}}
+
+====Noun====
+{{ja-noun|さい}}
+
+# an [[act of God]], a [[disaster]], a [[calamity]]
+
+=====Usage notes=====
+Seldom used on its own. Most often used in compounds.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|災害|さいがい}}: [[disaster]], [[calamity]] {{qualifier|emphasis on the damage therefrom}}
+* {{ja-r|災難|さいなん}}: [[misfortune]], [[disaster]], [[catastrophe]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|わざわい}}
+{{IPAchar|/wazapapi/}} → {{IPAchar|/wazaɸaɸi/}} → {{IPAchar|/wazawahi/}} → {{IPAchar|/wazawai/}}
+
+From {{etyl|ojp|ja|sort=わざわい}}. Originally a compound of {{m|ja|業|tr=waza||deed, doings}}, in reference to the doings of the {{m|ja|神|tr=kami||gods, spirits}} + {{m|ja|這う|這い|tr=hai|lit=crawling|spreading widely}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Compare the etymology of [[幸#sakiwai|幸]] (''sakiwai'', “good fortune”). Compare also the connotations of the English term {{m|en|act of God}} in reference to [[disaster]]s.
+
+Often spelled {{m|ja|災い}} with the trailing [[okurigana]] {{m|ja|い}} to make the reading more explicit.
+
+====Pronunciation====
+{{ja-pron|yomi=k|わざわい|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|災い}}, {{ja-l|禍}}, {{ja-l|殃}}
+
+====Noun====
+{{ja-noun|わざわい|hhira=わざはひ}}
+
+# an [[act of God]], a [[disaster]], a [[calamity]]
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|災を転じて福と為す|わざわい を てんじて ふく と なす}}: “to turn a calamity into good fortune”
+{{der-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=재|eumhun=|rv=jae|mr=chae|y=cay}}
+
+# {{defn|lang=ko|sort=火03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tai]]|rs=火03}}
+
+# {{defn|lang=vi|sort=火03}}
+
+[[zh-min-nan:災]]
+[[fr:災]]
+[[ko:災]]
+[[hu:災]]
+[[mg:災]]
+[[ja:災]]
+[[pl:災]]
+[[th:災]]
+[[vi:災]]
+[[zh:災]]

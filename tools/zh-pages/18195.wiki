@@ -1,0 +1,45 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=13|sn=17|four=48982|canj=DTGO|ids=⿰木羨,⿰木羡}}
+
+====References====
+* {{Han ref|kx=0558.091|dkj=15707|hdz=21295.070|uh=6AA8|ud=27304|bh=ED42|bd=60738}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+An Austroasiatic substrate loanword; compare Khmer {{m|km|ស្វាយ||mango}}, Vietnamese {{m|vi|xoài||mango}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shē
+|c=ce1,se1
+|h=pfs=sôn
+|md=suông
+|mn=xm,zz,kh,tp,tn,tc,sx,yl,km,hc:soāiⁿ/qz,mg:soān/lk:soǎiⁿ
+|mc=
+|oc=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|Hakka|Min}} [[mango]]
+
+====Synonyms====
+{{zh-dial|芒果}}
+
+====Compounds====
+{{zh-der|檨仔|番檨|香檨|肉檨|木檨|蘋果檨|生檨仔|檨仔青|土檨仔}}
+
+[[fr:檨]]
+[[mg:檨]]
+[[pl:檨]]
+[[th:檨]]
+[[zh:檨]]

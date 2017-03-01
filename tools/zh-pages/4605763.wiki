@@ -1,0 +1,35 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhèngqiē
+|c=zing3 cit3
+|mn=chèng-chhiat
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|trigonometry}} [[tangent]]
+
+===See also===
+* {{zh-l|三角函數}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|せつ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=ko|せいせつ}}
+
+===Noun===
+{{ja-noun|せいせつ}}
+
+# {{alternative spelling of|lang=ja|正接}}
+
+[[mg:正切]]
+[[zh:正切]]

@@ -1,0 +1,64 @@
+{{character info/new}}
+{{also|災}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=06|sn=10|four=|canj=JIF|ids=⿹[[𢦏]][[火]]}}
+
+====References====
+* {{Han ref|kx=0670.130|dkj=19008|dj=1079.080|hdz=32198.160|uh=70D6|ud=28886}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|火|𢦔|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zāi
+|c=zoi1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[calamities]] from [[Heaven]], as [[flood]]s, [[famine]]s, [[pestilence]], etc.
+# [[misery]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火06}}
+
+# {{defn|lang=ja|sort=火06}}
+
+====Readings====
+* {{ja-readings|on=[[さい]] (sai)|kun=[[わざわあい]] (wazawaai)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=火06|hanviet=tai}}
+
+# {{defn|lang=vi|sort=火06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=70d6 Nom Foundation]
+
+[[fr:烖]]
+[[hu:烖]]
+[[pl:烖]]
+[[th:烖]]
+[[zh:烖]]

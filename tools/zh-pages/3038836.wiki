@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=chìsōng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{vern|Japanese red pine}} ({{taxlink|Pinus densiflora|species|noshow=1}})
+
+{{zh-cat|Pines}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja|アカマツ}}
+{{ja-kanjitab|あか|まつ|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|acc=h|acc2=2|y=k|あかまつ}}
+
+===Noun===
+{{ja-noun|あかまつ|アカマツ}}
+
+# {{vern|Japanese red pine}} ({{taxlink|Pinus densiflora|species|noshow=1}}), also known as the {{vern|Japanese umbrella pine}} or the tanyosho [[pine]]
+
+[[Category:ja:Pines|あかまつ]]
+
+===Proper noun===
+{{ja-pos|あかまつ|proper}}
+
+# {{surname|lang=ja|sort=あかまつ}}
+
+[[ko:赤松]]
+[[hi:赤松]]
+[[zh:赤松]]

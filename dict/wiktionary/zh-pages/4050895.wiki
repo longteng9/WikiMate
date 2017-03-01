@@ -1,0 +1,88 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Kiseru}}
+[[File:Kiseru_(Japanese_smoking_pipe).jpg|thumb|250px|{{lang|ja|煙管}} (''kiseru''): a traditional Japanese smoking pipe]]
+{{commonscat|Kiseru}}
+</div>
+{{ja-kanjitab|yomi=irr|sort=きせる}}
+
+===Etymology 1===
+From {{etyl|km|ja|sort=きせる}} {{m|km|ខ្សៀរ|tr=khsiěrô}} or {{m|km|ខ្សៀ|tr=khsiě||a pipe for smoking}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> Tobacco trade from Europe first went through Southeast Asia before reaching Japan. One source<ref>{{cite-book
+|last=Suzuki
+|first=Tatsuya
+|title={{lang|ja|喫煙伝来史の研究}} (''Kitsuen Denraishi no Kenkyū'', “Research into the History of the Introduction of Smoking”)
+|url=http://www.shibunkaku.co.jp/shuppan/shosai.php?code=4784210180
+|format=[[w:A5|A5]]-sized hardbound
+|accessdate=2013-06-06
+|accessyear=2013
+|accessmonth=June
+|year=1999
+|month=November
+|publisher=Shibunkaku
+|location=[[w:Tokyo|Tōkyō]]
+|language=Japanese
+|isbn=4-7842-1018-0
+}}</ref> suggests that the {{etyl|km|-}} word itself was a borrowing from {{cog|es|que}} {{m|es|sorber}} or {{cog|pt|que}} {{m|pt|sorver}}, “that which is sucked upon”.
+
+Variant readings include ''kiseri'' and ''kisero''<ref name="KDJ"/>, although these are rare.
+
+The kanji spelling {{lang|ja|煙管}} is an example of {{ateji|sort=きせる}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|きせる|acc=h|dev=1|acc_ref=NHK}}
+
+====Noun====
+{{ja-noun|きせる|キセル}} {{ja-altread|kata=キセリ|rom=kiseri}} {{ja-altread|kata=キセロ|rom=kisero}}
+
+# a [[tobacco]] [[pipe]] with a [[metal]] [[stem]]
+# {{lb|ja|sort=きせる|slang}} a way of [[cheating]] on one's [[train]] [[fare]]
+#: The train rider purchases two tickets, one for a short distance at the start of the journey, and one for a short distance at the end of the journey. In this way, the rider can avoid having to pay full fare for the total distance traveled.
+#: A pun on the way that there is {{m|ja|金|tr=kane||metal; money}} on both ends, but not in the middle, similar to a ''kiseru'' pipe.
+# {{lb|ja|sort=きせる|slang}} a way of [[buy]]ing [[vote]]s for an [[election]]
+#: The vote buyer pays the voter part before the election and part after (assuming the election buyer wins).
+#: A pun on the way that there is {{m|ja|金|tr=kane||metal; money}} on both ends, but not in the middle, similar to a ''kiseru'' pipe.
+# {{lb|ja|sort=きせる|obsolete}} during the {{w|Edo period}}, someone who sold [[slow match]] to [[theater]]-goers to use to light their [[pipe]]s
+
+=====Synonyms=====
+* {{sense|fare dodging}} {{ja-r|不%正%乗%車|ふ%せい% じょう%しゃ}} {{qualifier|official, formal}}, {{ja-r|ただ乗り|ただのり}} {{qualifier|not paying any fare at all}}
+* {{sense|slow match seller}} {{ja-r|火%縄%売|ひ%なわ%うり}}
+
+====Verb====
+{{ja-verb-suru|きせる}}
+
+# {{lb|ja|sort=きせる|slang}} to [[cheat]] on one's [[train]] [[fare]]
+
+=====Conjugation=====
+{{ja-suru|きせる}}
+
+===Etymology 2===
+<div style="float:right;">
+[[File:Steam_Boiler_2_English_version.png|thumb|250px|{{lang|ja|煙管}} (''enkan'', “fire tube”): the red horizontal lines are the fire tubes]]
+</div>
+{{ja-kanjitab|えん|かん|yomi=o}}
+From {{etyl|ltc|ja|sort=えんかん}} {{m|zh|煙管|tr=ʔen kwanX}}. Compare modern {{etyl|cmn|-}} {{zh-l|煙管|tr=yānguǎn}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|えんかん|acc=0|acc_ref=NHK,DJR}}
+
+====Noun====
+{{ja-noun|えんかん|hhira=えんくわん}}
+
+# a [[fire tube]] or [[boiler tube]] in a [[steam engine]]: a [[pipe]] that [[conduct]]s hot [[gas]]ses from [[combustion]] to heat the [[boiler]]
+# a [[smokestack]] or [[chimney]]
+# a [[tobacco]] [[pipe]] with a [[metal]] [[stem]] (same as above; ''kiseru'' reading more common)
+
+=====Synonyms=====
+* {{sense|fire tube}} {{ja-l|ファイアチューブ||faia chūbu}}
+* {{sense|smokestack, chimney}} {{ja-l|煙筒|えんとう|entō}}, {{ja-l|煙突|えんとつ|entotsu}}
+
+=====External links=====
+* {{pedia|lang=ja|蒸気機関車の構成要素}} -- {{sense|fire tube}} see #28 in the diagram
+* {{pedia|Fire-tube boiler}}
+
+===References===
+<references/>
+
+[[lo:煙管]]
+[[zh:煙管]]

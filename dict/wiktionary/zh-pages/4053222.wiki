@@ -1,0 +1,18 @@
+==Japanese==
+{{ja-kanjitab|ざ|しょう|yomi=o}}
+
+===Noun===
+{{ja-noun|ざしょう}}
+
+# running aground
+
+===Verb===
+{{ja-verb-suru|tr=intrans|ざしょう}}
+
+# to [[run aground]], to become [[stranded]]
+#: {{ja-usex|５０頭のイルカが座礁した|ごじゅう とう の イルカ が ざしょう した|fifty dolphins were stranded}}
+
+====Conjugation====
+{{ja-suru|ざしょう}}
+
+[[zh:座礁]]

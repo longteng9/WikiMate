@@ -1,0 +1,61 @@
+{{character info/new}}
+{{also|勝}}
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|肉|生|c1=s|c2=p|t1=meat|t2=fresh|ls=psc}}.
+
+Also {{Han simp|勝|f=劵|t=生|nocap}}.
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=05|sn=9|four=75210|canj=BHQM|ids=⿰月生}}
+
+====References====
+* {{Han ref|kx=0979.070|dkj=29394|dj=1430.230|hdz=32060.070|uh=80DC|ud=32988|bh=D060|bd=53344}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|勝}}
+
+===Etymology 2===
+{{zh-see|腥|v}}
+
+===Etymology 3===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=shēng
+|c=saang1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|chemistry}} {{synonym of|肽|lang=zh}} {{gloss|[[peptide]]}}.
+
+===References===
+* {{R:twedu|B03635}}
+
+[[fr:胜]]
+[[mg:胜]]
+[[ja:胜]]
+[[no:胜]]
+[[pl:胜]]
+[[ru:胜]]
+[[sr:胜]]
+[[th:胜]]
+[[zh:胜]]

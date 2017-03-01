@@ -1,0 +1,57 @@
+==Chinese==
+{{wikipedia}}
+{{zh-forms}}
+
+===Etymology===
+From [[角]] ("angle") + [[度]] ("degree")
+
+===Pronunciation===
+{{zh-pron
+|m=jiǎodù
+|c=gok3 dou6
+|mn=kak-tō͘
+|ma=Zh-jiaodù.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|geometry}} [[angle]]
+# [[perspective]]; [[point of view]]; [[angle]]
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かく|ど|yomi=on}}
+
+===Noun===
+{{ja-noun|かくど}}
+
+# {{l|en|angle|id=geometrical figure}} {{gloss|geometrical figure}}
+# {{l|en|angle|id=measure of such a figure}} {{gloss|measure of such a figure}}
+# {{l|en|angle|id=viewpoint}} {{gloss|viewpoint}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|giác độ|[[angle]]}}
+
+[[zh-min-nan:角度]]
+[[ko:角度]]
+[[lo:角度]]
+[[lt:角度]]
+[[hu:角度]]
+[[mg:角度]]
+[[ja:角度]]
+[[sr:角度]]
+[[sv:角度]]
+[[chr:角度]]
+[[zh:角度]]

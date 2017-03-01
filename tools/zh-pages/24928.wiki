@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=06|sn=12|four=44904|canj=THJD}}
+
+# [[dogwood]]
+
+====References====
+* {{Han ref|kx=1028.280|dkj=30910|dj=1487.230|hdz=53204.110|uh=8331|ud=33585|bh=AFFC|bd=45052}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhū
+|c=zyu1,syu4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|吳茱萸|山茱萸|茱萸|茱萸會|茱麗葉|食茱萸}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸06}}
+
+# {{defn|lang=ja|sort=艸06}}
+
+====Readings====
+* {{ja-readings|on=[[しゅ]] (shu)|kun=[[ぐみ]] (gumi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=艸06}}
+
+[[fr:茱]]
+[[ko:茱]]
+[[hu:茱]]
+[[mg:茱]]
+[[ja:茱]]
+[[pl:茱]]
+[[th:茱]]
+[[vi:茱]]
+[[zh:茱]]

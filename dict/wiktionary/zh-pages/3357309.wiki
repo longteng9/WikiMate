@@ -1,0 +1,60 @@
+{{also|通报}}
+==Chinese==
+{{zh-forms|s=通报}}
+
+===Pronunciation===
+{{zh-pron
+|m=tōngbào
+|c=tung1 bou3
+|h=pfs=thûng-po
+|mn=thong-pò
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+# [[communique]], [[notification]]
+# [[bulletin]], [[publication]], [[journal]]
+
+===Verb===
+{{zh-verb}}
+# to [[notify]], to [[inform]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|つう|ほう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|つうほう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|つうほう}}
+
+# a report, notification
+
+===Verb===
+{{ja-verb-suru|tr=trans|つうほう}}
+
+# [[report]], [[notify]]
+#: {{ja-usex|海洋調査を行う場合は、互いに、事前にその内容を'''通報'''することになっています。|かいよう ちょうさ を おこなう ば.あい は、 おたがい に、 じぜん に その ないよう を '''つうほう''' する こと に なって います。|Before going on an oceanic investigation, they both report the information to each other.}}
+
+====Conjugation====
+{{ja-suru|つうほう}}
+
+===References===
+<references/>
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=통보}}
+
+# {{hanja form of|통보|[[notification]]}}
+
+[[zh-min-nan:通報]]
+[[ko:通報]]
+[[mg:通報]]
+[[ja:通報]]
+[[zh:通報]]

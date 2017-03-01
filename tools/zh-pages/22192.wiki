@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|砾}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=15|sn=20|four=12694|canj=MRVID}}
+
+# [[gravel]], [[pebbles]]
+
+====References====
+* {{Han ref|kx=0838.240|dkj=24572|dj=1255.260|hdz=42463.040|uh=792B|ud=31019|bh=C474|bd=50292}}
+
+----
+
+==Chinese==
+{{zh-forms|s=砾}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lì
+|c=lik1,lik6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|土礫|沙礫|瓦礫|石礫|砂礫|砂礫礦床|磧礫|礫岩|礫石|礫耕栽培|角礫岩|飛沙揚礫|飛沙走礫|飛砂揚礫|飛礫}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=石15}}
+
+====Readings====
+* {{ja-readings|on=[[れき]] (reki)|kun=[[こいし]] (koishi)|nanori=}}
+
+===Noun===
+{{ja-noun|れき}}
+
+# [[gravel]]
+
+{{ja-noun|こいし}}
+
+# small stone, [[pebble]]
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 礫]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[력]]>[[역]]|eumhun=|rv=ryeok>yeok|mr=ryŏk>yŏk|y=lyek>yek}}
+
+# {{defn|lang=ko|sort=石15}}
+
+[[fr:礫]]
+[[hu:礫]]
+[[mg:礫]]
+[[ja:礫]]
+[[pl:礫]]
+[[th:礫]]
+[[zh:礫]]

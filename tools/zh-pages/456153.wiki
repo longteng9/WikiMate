@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shuǐwèi
+|c=seoi2 wai6
+|h=pfs=súi-vi
+|mn=chúi-ūi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[water level]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|すい|い|yomi=on}}
+
+===Noun===
+{{ja-noun|すい.い}}
+
+# [[water level]]
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|rv=suwi|hangeul=수위}}
+
+# {{hanja form of|수위|water level}}
+
+[[zh-min-nan:水位]]
+[[ko:水位]]
+[[sw:水位]]
+[[hu:水位]]
+[[zh:水位]]

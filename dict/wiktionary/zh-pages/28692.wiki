@@ -1,0 +1,135 @@
+{{character info/new}}
+{{also|这}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=07|sn=11|four=30306|canj=YYMR|ids=⿺辶言}}
+
+====References====
+* {{Han ref|kx=1258.010|dkj=38889|dj=1743.150|hdz=63844.050|uh=9019|ud=36889|bh=B36F|bd=45935}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|辶|言|c1=s|c2=p|t1=walk|ls=psc}}.
+
+The character was originally a verb meaning “to meet”, whose modern pronunciation is ''yàn''. It was later borrowed for the [[proximal]] [[demonstrative]] “this/here”, by a confusion in medieval handwriting with {{zh-l|遮|this}}.
+
+===Etymology 1===
+{{zh-forms|s=这|alt=遮-archaic,者-archaic,只-archaic,拓-archaic,迓-Hakka}}
+Derived from {{och-l|者|one which}}, around the [[Tang]] Dynasty.
+
+:{{och-l|者|one which}} > {{ltc-l|者|this (''possessive case'')}} > {{ltc-l|者|this (''general demonstrative'')}} > Mandarin {{lang|zh|這}} (''zhè'').
+
+====Pronunciation====
+{{zh-pron
+|m=zhè,zhèi
+|m_note=zhèi - colloquial contraction of {{m|zh|這[[一]]|tr=zhèyī}}, used when it is followed by classifier or numeral + classifier
+|c=ze2,ze3,ze5
+|h=pfs=ché/n:liá/yá
+|h_note=ché - literary. ''liá'' and ''yá'' may be etymologically unrelated to the Mandarin readings
+|md=ciē
+|md_note=literary
+|mn=chit/che
+|mn_note=che - refers to singular item in close distance. ''chit'' and ''che'' may be etymologically unrelated to the Mandarin readings
+|w=2tse,4tseq
+|ma=y
+|cat=pron,adv,part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[this]]; [[these]]
+#: {{zh-x|看 這 本 書。|Read '''this''' book.}}
+#: {{zh-x|這 是 一 個 老 故事。|'''This''' is an old story.}}
+#* {{zh-x|這 不 是 你 的 書，這 是 我 的 書。|This is not your book, it's mine.}}
+#* {{zh-x|這 個 就 很 好 ，就 買 這 個 吧。|This is really good. Buy this one.}}
+# {{zh-synonym|這樣|[[like]] [[this]]; [[such]]}}
+#: {{zh-x|這 可 不行！|'''This''' is not okay!}}
+# [[at]] [[this]] [[moment]]; [[right away]]; [[at once]]
+#: {{zh-x|我 這 就 去。|I'll go '''now'''.}}
+# {{n-g|[[filler]] particle usually used when the speaker is tongue-tied.}}
+# {{n-g|meaningless particle in a sentence.}}
+
+=====Synonyms=====
+{{zh-dial}}
+
+=====See also=====
+* {{zh-l|那|that, those}}
+
+====Compounds====
+{{zh-der|fold=1|如此這般|這下|這下子|這些|這些兒|這些時|這個|這個擋口|這個當兒|這個那個|這們|這兒|這兩天|這其間|這口氣|這咱|這回|這回事|這塊兒|這壁廂|這天|這家子|這山望著那山高/这山望着那山高|這年|這廂|這廝|這忽兒|這搭|這搭兒|這早晚|這早晚兒|這時候|這會兒|這會子|這樣|這樣一來|這次|這步田地|這注|這溜兒|這番|這當兒|這的|這的是|這程子|這筆帳|這等|這般|這般如此|這般說來|這般這般|這號事|這行子|這裡|這輩子|這邊|這陣兒|這頭|這麼|這麼些|這麼樣|這麼著/这么着|這麼點兒}}
+
+===Etymology 2===
+{{zh-forms|s=这|alt=訝}}
+Original meaning of this character. It is part of the {{och-l|迎|to face, to meet}} word family; see there for more.
+
+====Pronunciation====
+{{zh-pron
+|m=yàn
+|c=jin6
+|mc=y
+|oc=y
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[welcome]]; to [[greet]]; to [[receive]]
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=辵07}}
+
+# [[crawl]]
+
+====Readings====
+* {{ja-readings|on=[[げん]] (gen), [[しゃ]] (sha)|kun=[[はう]] (hau), [[はい]] (hai), [[むかえる]] (mukaeru)}}
+
+====Compounds====
+* {{ja-r|這い回る|はいまわる}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[저]], [[언]]|eumhun=|rv=jeo, eon|mr=chŏ, ŏn|y=ce, en}}
+
+# {{defn|lang=ko|sort=辵07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=辵07| hanviet = [[giá]], [[gió]]}}
+
+# {{defn|lang=vi|sort=辵07}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:這]]
+[[da:這]]
+[[fr:這]]
+[[ko:這]]
+[[hu:這]]
+[[mg:這]]
+[[ja:這]]
+[[pl:這]]
+[[fi:這]]
+[[th:這]]
+[[chr:這]]
+[[vi:這]]
+[[zh:這]]

@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms|s=记入}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìrù
+|c=gei3 jap6
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[log]], to [[post]], to [[fill in]], to [[enter]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|き|にゅう|yomi=on}}
+
+===Etymology===
+From {{etyl|zhx|ja}} {{m|zh|記入}}.
+
+===Noun===
+{{ja-noun|きにゅう|hhira=きにふ}}
+
+# An [[entry]].
+# [[fill in|Filling in]], [[fill out|filling out]] (such as [[form]]s or [[papers]]).
+
+===Verb===
+{{ja-verb-suru|tr=transitive|きにゅう|hhira=きにふ}}
+
+# To [[fill in]], to [[fill out]] (such as [[form]]s or [[papers]]), to [[enter]] (such as into a field on a form).
+
+====Conjugation====
+{{ja-suru|きにゅう}}
+
+[[ko:記入]]
+[[hu:記入]]
+[[mg:記入]]
+[[pl:記入]]
+[[chr:記入]]
+[[zh:記入]]

@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=míngxī
+|c=ming4 sik1
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[clear]]; [[lucid]]; [[distinct]]; [[explicit]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|めい|せき|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|めいせき|infl=na}}
+
+# [[clear]]
+#: {{ja-usex|彼には'''明晰'''な目標がないようだ。|かれ に は '''めいせき''' な もくひょう が ない よう だ。|He doesn't seem to have a clear purpose.}}
+#: {{ja-usex|頭脳'''明晰'''な彼女にも理解できなかった。|ずのう '''めいせき''' な かのじょ に も りかい できなかった。|However brilliant she was, she could not understand that.}}
+
+====Inflection====
+{{ja-na|めいせき}}
+
+===Noun===
+{{ja-noun|めいせき}}
+
+# [[clarity]]
+
+[[ko:明晰]]
+[[mg:明晰]]
+[[ja:明晰]]
+[[zh:明晰]]

@@ -1,0 +1,131 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=98|rad=瓦|as=00|sn=5|four=10717|canj=MVNI}}
+#{{mul-kangxi radical-def}}
+====References====
+* {{Han ref|kx=0747.360|dkj=21438|dj=1156.050|hdz=21421.030|uh=74E6|ud=29926|bh=A5CB|bd=42443}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{liushu|p}} – fired earthenware pottery, or a tile.
+
+===Pronunciation 1===
+{{zh-pron
+|m=wǎ
+|c=ngaa5,ngaa6
+|h=pfs=ngá
+|md=nguâ/nguā
+|md_note=nguâ - colloquial (“tile”); nguā - literary (“watt”)
+|mn=xm,zz,tp,sx,yl,tn,kh,hc,tc:hiā/km,mg:huā/qz,lk:hiǎ/lk:huǎ/qz,zz,tw:óa/qz,xm:góa
+|mn_note=hiā, huā, hiǎ, huǎ - vernacular; óa, góa - literary; óa - vernacular (俗, Quanzhou)
+|w=3ngo
+|mc=1
+|oc=1,1
+|ma=Zh-wa.ogg
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[earthenware]]; earthenware [[pottery]]
+# [[tile]] {{gloss|roof covering}}
+# {{lb|zh|historical}} [[back]] of [[shield]] (arching, as if it is covered by tile)
+# {{lb|zh|historical}} [[amusement park]]; [[market]]
+# {{lb|zh|historical|dialectal}} [[protecting]] [[plate]] of [[wheel]]
+# {{lb|zh|music}} {{zh-alt-name|土|[[earth]]}}
+# {{n-g|Ancient placename in modern {{w|Hua County}}, [[Henan]].}}
+# {{zh-short|瓦特|[[watt]]}}
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|三瓦兩舍|三瓦四舍|上無片瓦遮身，下無立錐之地|丟下瓦磚兒，一個個要著地|丟磚料瓦|伊洛瓦底江|催淚瓦斯|冰散瓦解|冰消瓦解|化瓦糧|千瓦|千瓦時|南瓦子|反打瓦|史瓦濟蘭|吃瓦片兒|各人自掃檐前雪，莫管他家瓦上霜|各人自掃門前雪，休管他人瓦上霜|各人自掃門前雪，莫管他家瓦上霜|吐瓦魯|哈瓦那|單浪瓦房子|土崩瓦解|土雞瓦犬|大小金瓦寺|天然瓦斯|密涅瓦|寧可玉碎，不為瓦全|寧可玉碎，不能瓦全|寧為玉碎，不為瓦全|小青瓦|屋瓦|弄瓦|弄瓦之喜|德拉瓦河|打瓦|摩爾多瓦|日內瓦|日內瓦公約|明瓦|望風瓦解|朱瓦碧甍|朱甍碧瓦|板瓦|根椽片瓦|毀方瓦合|毀瓦畫墁|毒瓦斯|泥瓦匠|泥豬瓦狗|液化瓦斯|液體瓦斯|添磚加瓦|滴水瓦|片瓦根椽|片瓦無存|琉璃瓦|瓦全|瓦剌|瓦匠|瓦合|瓦合之卒|瓦器|瓦器蚌盤|瓦圈|瓦塊|瓦壟|瓦壟子|瓦子|瓦屋|瓦市|瓦影龜魚|瓦斯|瓦斯中毒|瓦斯彈|瓦斯槍|瓦斯爐|瓦斯車|瓦松|瓦棺篆鼎|瓦楞|瓦楞子|瓦楞帽|瓦楞紙|瓦溝|瓦灶繩床|瓦片|瓦特|瓦特表|瓦獸|瓦當|瓦當文|瓦盆|瓦碴兒|瓦礫|瓦窯|瓦罐|瓦罐不離井上破|瓦舍|瓦解|瓦解冰泮|瓦解冰消|瓦解冰銷|瓦解土崩|瓦解星散|瓦解星飛|瓦解雲散|瓦釜之鳴|瓦釜雷鳴|瓷瓦兒|石棉瓦|破瓦頹垣|硯瓦|碧瓦|碧瓦朱甍|磚瓦|窩瓦河|繩床瓦灶|纍瓦結繩|缸瓦|薩爾瓦多|蘇瓦|虛舟飄瓦|赤瓦不剌海|銅瓦|阿瓦|陶犬瓦雞|雷鳴瓦釜|青瓦臺|飛磚擲瓦|鴛鴦瓦}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=wà
+|dial=n
+|mc=2
+|oc=n,2
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[tile]]; to [[cover]] with tiles
+
+====Compounds====
+{{zh-der|瓦刀}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=瓦00}}
+
+====Readings====
+* {{ja-readings|goon=[[げ]] (ge)|kanon=[[が]] (ga)|kun=[[かわら]] (kawara), [[グラム]] (guramu)}}
+
+====Compounds====
+* [[瓦解]]
+* [[瓦礫]]
+
+===Noun===
+[[Image:Tiled roof in Dubrovnik-edit.jpg|thumb]]
+{{ja-noun|かわら}}
+
+# [[roof tile]]s
+{{ja-noun|グラム}}
+# {{lb|ja|dated}} {{n-g|Symbol for [[gramme]]}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 瓦]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=와|eumhun=|rv=wa|mr=wa|y=wa}}
+
+# {{defn|lang=ko|sort=瓦00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngõa]], [[ngói]], [[ngoa]]|rs=瓦00}}
+
+# {{defn|lang=vi|sort=瓦00}}
+
+[[Category:CJKV radicals| ]]
+
+[[af:瓦]]
+[[zh-min-nan:瓦]]
+[[es:瓦]]
+[[fr:瓦]]
+[[ko:瓦]]
+[[is:瓦]]
+[[lo:瓦]]
+[[hu:瓦]]
+[[mg:瓦]]
+[[ms:瓦]]
+[[ja:瓦]]
+[[no:瓦]]
+[[pl:瓦]]
+[[ru:瓦]]
+[[th:瓦]]
+[[chr:瓦]]
+[[vi:瓦]]
+[[zh:瓦]]

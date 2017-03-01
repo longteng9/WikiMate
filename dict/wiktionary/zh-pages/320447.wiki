@@ -1,0 +1,20 @@
+{{also|原始码}}
+==Chinese==
+{{zh-forms|s=原始码|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuánshǐ mǎ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|computing}} [[source code]]
+
+====Synonyms====
+* {{zh-l|源碼}}
+* {{qualifier|Taiwan}} {{zh-l|原始程式}}
+
+{{zh-cat|Computing}}

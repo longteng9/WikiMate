@@ -1,0 +1,69 @@
+{{character info/new}}
+{{also|镂}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=11|sn=19|four=85144|canj=CLLV}}
+
+# [[carve]], [[inlay]], [[engrave]], [[tattoo]]
+
+====References====
+* {{Han ref|kx=1320.180|dkj=40820|dj=1820.110|hdz=64248.120|uh=93E4|ud=37860|bh=C3F3|bd=50163}}
+
+----
+
+==Chinese==
+{{zh-forms|s=镂}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lòu
+|c=lau6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|刻鏤|刻鏤刀|刻骨鏤心|吹影鏤塵|彫章鏤句|炊沙鏤冰|畫脂鏤冰|精雕細鏤|虯鏤亮槅|金鏤|金鏤梅科|金鏤玉衣|鈒鏤|銗鏤|銘心鏤骨|銘肌鏤骨|錯彩鏤金|鏤冰|鏤冰雕朽|鏤刻|鏤塵吹影|鏤彩摛文|鏤心刻骨|鏤月裁雲|鏤榜|鏤版|鏤空|鏤花|鏤身|鏤金錯采|鏤骨銘心|鏤骨銘肌|雕肝鏤腎|雕蚶鏤蛤|雕鏤|雕章鏤句}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金11}}
+
+# {{defn|lang=ja|sort=金11}}
+
+====Readings====
+* {{ja-readings|on=[[ろう]] (rō), [[る]] (ru)|kun=[[ちりばめる]] (chiribameru)}}
+
+====Compounds====
+* {{ja-r|彫心鏤骨|ちょうしんるこつ}}
+* {{ja-r|鏤刻|るこく}}
+* {{ja-r|鏤骨|るこつ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[루]]>[[누]]|eumhun=|rv=ru>nu|mr=ru>nu|y=lwu>nwu}}
+
+# {{defn|lang=ko|sort=金11}}
+[[fr:鏤]]
+[[hu:鏤]]
+[[mg:鏤]]
+[[ja:鏤]]
+[[pl:鏤]]
+[[th:鏤]]
+[[zh:鏤]]

@@ -1,0 +1,42 @@
+{{also|世界银行}}
+==Chinese==
+{{zh-forms|s=世界银行|type=22}}
+
+===Pronunciation===
+{{zh-pron
+|m=Shìjiè Yínháng
+|c=sai3 gaai3 ngan4 hong4
+|cat=propn
+}}
+
+===Proper noun===
+{{zh-propn}}
+
+# the [[World Bank]]
+
+{{zh-cat|Organizations}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|せ|かい|ぎん|こう|yomi=o}}
+
+===Etymology===
+{{compound|世界|t1=[[world]]|銀行|t2=[[bank]]|lang=ja|sort=せかいぎんこう|tr1=sekai|tr2=ginkō}}
+
+===Pronunciation===
+{{ja-pron|せかい ぎんこう|acc=4|acc_ref=NHK,DJR,SMK5|y=o}}
+
+===Proper noun===
+{{ja-pos|proper|せかい ぎんこう|hhira=せかいぎんかう}}
+
+# the [[World Bank]]
+
+===References===
+<references/>
+
+{{C|ja|Organizations|sort=せかいぎんこう}}
+
+[[lo:世界銀行]]
+[[hu:世界銀行]]

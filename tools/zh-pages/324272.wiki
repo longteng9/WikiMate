@@ -1,0 +1,35 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|ハイエナ}}
+{{wikipedia|Hyena}}
+[[File:Crocuta-hejda.jpg|thumb|250px|{{lang|ja|鬣犬}} (''tategamiinu''): a '''[[hyena]]'''.]]
+</div>
+{{ja-kanjitab|たてがみ|いぬ|yomi=k}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=たてがみいぬ|鬣|tr1=tategami|t1=standing hair” → “[[mane]]|犬|tr2=inu|t2=dog}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Compare {{cog|zh|鬣狗}}.
+
+===Pronunciation===
+{{ja-pron|yomi=k|たてがみいぬ|acc=4|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|たてがみ.いぬ|タテガミ.イヌ}}
+
+# {{lb|ja|sort=たてがみいぬ|rare}} [[hyena]]
+
+====Usage notes====
+This term is rarely used anymore, having been replaced by {{ja-r|ハイエナ}} borrowed from English.
+
+{{U:ja:biology|タテガミイヌ}}
+
+====Synonyms====
+* {{ja-r|ハイエナ}}
+
+===References===
+<references/>
+
+[[Category:ja:Mammals|たてがみいぬ]]
+
+[[sw:鬣犬]]
+[[ja:鬣犬]]
+[[ro:鬣犬]]

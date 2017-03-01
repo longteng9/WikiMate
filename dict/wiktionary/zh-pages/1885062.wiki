@@ -1,0 +1,63 @@
+{{also|到达}}
+==Chinese==
+{{zh-forms|s=到达}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàodá
+|c=dou3 daat6
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[arrive]] at a destination
+#: {{zh-x|公共汽車 於 上午 九 點 '''到達''' ^上海。|The bus will '''arrive''' in Shanghai at 9am.}}
+# to [[reach]] a certain phase
+#: {{zh-x|恭喜 '''到達''' 最後 一 個 階段。|Congratulations on '''getting''' to the final stage.}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|たつ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|とうたつ|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうたつ}}
+
+# [[arrival]]
+# [[attainment]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|とうたつ}}
+
+# [[arrive]], [[reach]]
+# [[attain]]
+
+====Conjugation====
+{{ja-suru|とうたつ}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=도달}}
+
+# {{hanja form of|도달|[[arrival]]}}
+
+[[ko:到達]]
+[[hu:到達]]
+[[mg:到達]]
+[[fj:到達]]
+[[ja:到達]]
+[[tl:到達]]
+[[chr:到達]]
+[[zh:到達]]

@@ -1,0 +1,71 @@
+{{character info/new}}
+{{also|隸|康}}
+==Translingual==
+{{stroke order|type=animate}}
+{{Han simplified forms|隸|隷|隶}}
+
+===Etymology===
+As independent character, {{Han simp|隸|f=柰|t=&nbsp;}}.
+
+While graphically similar to 肀 + 水, compare composition to right side of [[様]]: a single long vertical, and two strokes (冫) at bottom left.
+
+===Han character===
+{{Han char|rn=171|rad=隶|as=00|sn=8|four=|canj=LE}}
+#{{mul-kangxi radical-def}}
+====See also====
+* {{l|mul|康}} [[聿]]
+
+====References====
+* {{Han ref|kx=1363.220|dkj=41923|dj=1867.100|hdz=74323.010|uh=96B6|ud=38582}}
+
+----
+
+==Chinese==
+{{zh-see|隸}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=隶00}}
+
+# {{defn|lang=ja|sort=隶00}}
+
+====Readings====
+* {{ja-readings|kanon=[[い]] (i), [[たい]] (tai)|goon=[[い]] (i), [[だい]] (dai)|kun=[[およぶ]] (oyobu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[이]], [[시]], [[제]], [[대]], [[태]]|eumhun=|rv=i, si, je, dae, tae|mr=i, si, che, tae, t'ae|y=i, si, cey, tay, thay}}
+
+# {{defn|lang=ko|sort=隶00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đãi]], [[lệ]]|rs=隶00}}
+
+# {{defn|lang=vi|sort=隶00}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=96b6 Nom Foundation]
+
+[[Category:CJKV radicals| ]]
+
+[[fr:隶]]
+[[ko:隶]]
+[[hu:隶]]
+[[mg:隶]]
+[[ms:隶]]
+[[ja:隶]]
+[[no:隶]]
+[[pl:隶]]
+[[ru:隶]]
+[[th:隶]]
+[[zh:隶]]

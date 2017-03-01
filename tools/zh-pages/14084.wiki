@@ -1,0 +1,100 @@
+{{character info/new}}
+{{also|盂}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=39|rad=子|as=05|sn=8|four=17107|canj=NDBT|ids=⿱子皿}}
+
+# [[eldest]] [[brother]]
+# used as a [[surname]]
+# {{lb|zh|figuratively}} [[first]] in [[series]]
+# {{lb|zh|figuratively}} [[great]], [[eminent]]
+
+====Derived characters====
+* [[猛]]
+
+====References====
+* {{Han ref|kx=0278.160|dkj=06960|dj=0546.110|hdz=21013.030|uh=5B5F|ud=23391|bh=A973|bd=43379}}
+* [http://english.people.com.cn/200507/18/eng20050718_196788.html Chinese surname history: Meng]
+
+===See also===
+* {{l|mul|盂}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{m|zh|子||[[child]]; [[son]]}} + phonetic {{och-l|皿}}
+
+===Pronunciation===
+{{zh-pron
+|m=mèng
+|c=maang6
+|h=pfs=men
+|mn=bēng
+|mc=y
+|oc=y
+|ma=
+|cat=a,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=子05}}
+
+# {{defn|lang=ja|sort=子05}}
+
+====Readings====
+* {{ja-readings|goon=[[みょう]] (myō), [[もう]] (mō)|kanon=[[ぼう]] (bō), [[もう]] (mō)|kanyoon=[[まん]] (man)|kun=[[かしら]] (kashira), [[はじめ]] (hajime)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[맹]], [[망]]|rv=maeng, mang|mr=maeng, mang}}
+
+# {{defn|lang=ko|sort=子05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mạnh]]|rs=子05}}
+
+# {{defn|lang=vi|sort=子05}}
+
+----
+
+==Zhuang==
+
+===Pronoun===
+{{za-head|pronoun}}
+
+# {{za-sawndip form of|mwngz}}
+
+[[zh-min-nan:孟]]
+[[fr:孟]]
+[[ko:孟]]
+[[li:孟]]
+[[hu:孟]]
+[[mg:孟]]
+[[ms:孟]]
+[[ja:孟]]
+[[no:孟]]
+[[pl:孟]]
+[[th:孟]]
+[[vi:孟]]
+[[zh:孟]]

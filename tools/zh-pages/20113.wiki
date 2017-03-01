@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=10|sn=14|four=96830|canj=FHUP}}
+
+# put out, extinguish, quash
+
+====References====
+* {{Han ref|kx=0679.030|dkj=19287|dj=1090.260|hdz=32223.130|uh=7184|ud=29060|bh=BAB6|bd=47798}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=熄
+|c=sik1
+|h=pfs=sit
+|md=
+|mn=qz:siak/xm,zz:sek/sit
+|mn_note=siak/sek - literary; sit - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|of a fire or light (source)}} to [[go out]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火10}}
+
+# {{defn|lang=ja|sort=火10}}
+
+====Readings====
+* {{ja-readings|on=[[そく]] (soku)|kun=[[きえる]] (kieru), [[やむ]] (yamu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=식|eumhun=|rv=sik|mr=sik|y=sik}}
+
+# {{defn|lang=ko|sort=火10}}
+
+[[zh-min-nan:熄]]
+[[fr:熄]]
+[[hu:熄]]
+[[mg:熄]]
+[[ja:熄]]
+[[no:熄]]
+[[pl:熄]]
+[[th:熄]]
+[[zh:熄]]

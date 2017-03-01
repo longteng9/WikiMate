@@ -1,0 +1,92 @@
+{{character info/new}}
+{{also|凃|涂}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=10|sn=13|four=38104|canj=EDG|ids=⿱涂土}}
+
+# [[smear]], [[daub]], [[apply]], [[spread]]
+# [[paint]]
+
+====References====
+* {{Han ref|kx=0235.200|dkj=05338|dj=0473.120|hdz=10474.080|uh=5857|ud=22615|bh=B6EE|bd=46830}}
+
+----
+
+==Chinese==
+{{zh-forms|s=涂}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tú
+|c=tou4
+|h=pfs=
+|md=
+|mn=tô͘/thô͘
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[daub]], to [[smear]], to [[apply]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=土10}}
+
+# [[paint]]
+
+====Readings====
+* {{ja-readings|on=[[と]] (to)|kun=[[ぬる]] (nuru), [[どろ]] (doro), [[まみれる]] (mamireru)}}
+
+====Compounds====
+{{top2}}
+* {{ja-r|塗装|とそう}}
+* {{ja-r|塗料|とりょう}}
+* {{ja-r|糊塗|こと}}
+{{bottom}}
+
+===Noun===
+{{ja-noun|ぬり}}
+
+# {{alternative spelling of|塗り|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=도|rv=do|mr=to}}
+
+# {{defn|lang=ko|sort=土10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đồ]]|rs=土10}}
+
+# {{defn|lang=vi|sort=土10}}
+
+[[zh-min-nan:塗]]
+[[fr:塗]]
+[[ko:塗]]
+[[li:塗]]
+[[hu:塗]]
+[[mg:塗]]
+[[ja:塗]]
+[[pl:塗]]
+[[th:塗]]
+[[chr:塗]]
+[[zh:塗]]

@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|那}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=163|rad=邑|as=04|sn=7|four=57027|canj=QJNL|ids=⿰[[丰]][[邑|⻏]]}}
+
+====References====
+* {{Han ref|kx=1269.050|dkj=39310|dj=1768.010|hdz=63756.140|uh=90A6|ud=37030|bh=A8B9|bd=43193}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+===Glyph origin===
+{{Han etym}}
+{{Han compound|丰|邑|c1=p|c2=s|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bāng
+|c=bong1
+|h=pfs=pâng
+|md=
+|mn=pang
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[nation]], [[country]], [[state]]
+
+====Compounds====
+{{zh-der|邦迪}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=邑04}}
+
+# home country (usually refers to Japan)
+
+====Readings====
+* {{ja-readings|goon=[[ほう]] (hō)|kanon=[[ほう]] (hō)|kun=[[くに]] (kuni)|nanori=}}
+
+====Compounds====
+* {{ja-r|連邦|れんぽう}}
+* {{ja-r|異邦|いほう}}
+* {{ja-r|邦楽|ほうがく}}
+* {{ja-r|邦人|ほうじん}}
+
+===Noun===
+{{ja-noun|くに}}
+# {{alternative spelling of|国|lang=ja}}
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=방|eumhun=|rv=bang|mr=pang|y=pang}}
+
+# {{defn|lang=ko|sort=邑04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[vâng]], [[bang]], [[bương]]|rs=邑04}}
+
+# {{defn|lang=vi|sort=邑04}}
+
+[[fr:邦]]
+[[ko:邦]]
+[[hu:邦]]
+[[mg:邦]]
+[[ja:邦]]
+[[no:邦]]
+[[pl:邦]]
+[[th:邦]]
+[[zh:邦]]

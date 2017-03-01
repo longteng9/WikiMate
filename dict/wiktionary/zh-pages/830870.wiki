@@ -1,0 +1,33 @@
+{{also|东经}}
+==Chinese==
+{{zh-forms|s=东经}}
+
+===Pronunciation===
+{{zh-pron
+|m=dōngjīng
+|c=dung1 ging1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|geography}} [[east]] [[longitude]]
+
+====Antonyms====
+* {{zh-l|西經}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|けい|yomi=o}}
+
+===Noun===
+{{ja-noun|shin=東経|とうけい}}
+
+# {{kyujitai spelling of|東経}}
+
+===See also===
+* [[西經]] ([[せいけい]], [[seikei]]): [[west]] [[longitude]]
+
+[[ko:東經]]

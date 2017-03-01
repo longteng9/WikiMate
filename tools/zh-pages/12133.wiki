@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=04|sn=7|four=68027|canj=RCSH|ids=⿰口分}}
+
+# [[order]], [[command]], [[instruct]]
+
+====References====
+{{Han ref|kx=0178.110|dkj=03347|dj=0395.160|hdz=10592.030|uh=5429}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēn
+|c=fan1
+|mc=
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|吩咐:to order, to command|吩嗪|噻吩|卟吩}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=口04}}
+
+# {{defn|lang=ja|sort=口04}}
+
+====Readings====
+{{ja-readings|goon=[[ふん]] (fun)|kanon=[[ふん]] (fun)|kun=[[ふく]] (fuku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=분|rv=bun|mr=pun}}
+
+# {{defn|lang=ko|sort=口04}}
+
+[[fr:吩]]
+[[ko:吩]]
+[[li:吩]]
+[[hu:吩]]
+[[mg:吩]]
+[[ja:吩]]
+[[no:吩]]
+[[pl:吩]]
+[[th:吩]]
+[[zh:吩]]

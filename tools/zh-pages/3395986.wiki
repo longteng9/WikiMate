@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhìxiàng
+|c=zi3 hoeng3
+|h=pfs=chṳ-hiong
+|mn=qz,tw,xm:chì-hiòng/zz:chì-hiàng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[aspiration]]; [[ideal]]; [[ambition]]; [[goal]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|こう|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|しこう|yomi=o}}
+
+===Noun===
+{{ja-noun|しこう}}
+
+# [[intention]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|しこう}}
+
+# [[aspire]]
+
+====Conjugation====
+{{ja-suru|しこう}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=지향}}
+
+# {{hanja form of|지향}}
+
+[[ko:志向]]
+[[hu:志向]]
+[[mg:志向]]
+[[chr:志向]]
+[[zh:志向]]

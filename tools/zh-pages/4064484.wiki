@@ -1,0 +1,90 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǎizú
+|c=baak3 zuk1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|poetic}} [[centipede]]
+# {{lb|zh|poetic}} [[diplopod]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja|ムカデ}}
+{{ja-kanjitab|yomi=irr|sort=むかで}}
+
+===Alternative forms===
+* {{ja-l|蜈蚣}}, {{ja-l|蜈蜙}}, {{ja-l|蝍蛆}}
+
+===Etymology===
+The kanji are {{juku|sort=むかで}}.
+{{rfe|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|acc=h|むかで|y=i}}
+
+===Noun===
+{{ja-noun|むかで|ムカデ}} {{qualifier|standard}}<br>{{ja-altread|hira=むかぜ}} {{qualifier|{{w|Kagoshima dialect}}}}
+
+# a [[centipede]]
+
+===See also===
+* {{ja-r|馬陸|ヤスデ}}
+
+{{C|ja|Arthropods|Hundred|sort=むかで}}
+
+----
+
+==Miyako==
+
+===Alternative forms===
+* {{l|mvi|蜈蚣|sc=Jpan}}
+
+===Noun===
+{{head|mvi|noun|hiragana|んかじ|tr=nkaji|sc=Jpan|sort=んかじ}}
+
+# a [[centipede]]
+
+{{C|mvi|Arthropods|Hundred|sort=んかじ}}
+
+----
+
+==Oki-No-Erabu==
+
+===Alternative forms===
+* {{l|okn|蜈蚣|sc=Jpan}}
+
+===Noun===
+{{head|okn|noun|hiragana|むかじ|tr=mukaji|sc=Jpan|sort=むかじ}}
+
+# a [[centipede]]
+
+{{C|okn|Arthropods|Hundred|sort=むかじ}}
+
+----
+
+==Toku-No-Shima==
+
+===Alternative forms===
+* {{l|tkn|蜈蚣|sc=Jpan}}
+
+===Noun===
+{{head|tkn|noun|hiragana|ぬかで|sc=Jpan|tr=nukade|sort=ぬかで}}
+
+# a [[centipede]]
+
+{{C|tkn|Arthropods|Hundred|sort=ぬかで}}
+
+[[cs:百足]]
+[[mg:百足]]
+[[ja:百足]]
+[[sv:百足]]
+[[chr:百足]]
+[[zh:百足]]

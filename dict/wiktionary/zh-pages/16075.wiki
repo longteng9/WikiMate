@@ -1,0 +1,52 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=05|sn=8|four=57010|canj=QBM|ids=⿰扌且}}
+
+# {{lb|zh|Cantonese}} to [[grasp]], [[hold]] {{attention|yue|alt form of 揸?}}
+
+====References====
+* {{Han ref|kx=0423.050|dkj=11914|dj=0771.030|hdz=31851.060|uh=62AF|ud=25263|bh=CCBC|bd=52412}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhā
+|c=zaa1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:twedu|C04152}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''抯''' ([[vả]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:抯]]
+[[pl:抯]]
+[[th:抯]]
+[[vi:抯]]
+[[zh:抯]]

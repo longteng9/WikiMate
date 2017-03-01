@@ -1,0 +1,55 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=49|rad=己|as=06|sn=9|four=|canj=SLRU|ids=⿰𦣝巳}}
+
+# {{lb|mul|archaic}} [[wide]] [[chin]]
+# [[grow]]
+
+====References====
+* {{Han ref|kx=0327.100|dkj=08757|dj=0631.160|hdz=20986.080|uh=5DF8|ud=24056}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|𦣞|巳|c1=s|c2=p|t1=chin|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yí
+|c=ji4
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 102]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=己06}}
+
+# ''hiroi ago'': [[broad]] [[chin]] {{lb|ja|archaic}}
+# ''ōkii'': [[big]]
+
+====Readings====
+{{ja-readings
+|on=[[い]] (i), [[き]] (ki)
+|kun=[[ひろいあご]] (hiroi ago), [[おおきい]] (ōkii)
+}}
+
+[[fr:巸]]
+[[hu:巸]]
+[[pl:巸]]
+[[th:巸]]
+[[zh:巸]]

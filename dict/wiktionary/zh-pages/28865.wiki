@@ -1,0 +1,162 @@
+{{character info/new}}
+{{also|哪}}
+==Translingual==
+{{stroke order|stroke=6}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=163|rad=邑|as=04|sn=7|four=17527|canj=SQNL|ids=⿰冄阝}}
+
+====References====
+* {{Han ref|kx=1268.300|dkj=39305|dj=1767.210|hdz=63760.040|uh=90A3|ud=37027|bh=A8BA|bd=43194}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|冉|邑|c1=p|c2=s|alt1=冄|alt2=阝|t1=fur|t2=city|ls=psc}}.
+
+Originally the name of a city; later borrowed for a [[w:Demonstrative#Distal_and_proximal_demonstratives|distal demonstrative]].
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=nà,nèi
+|m_note=nèi - colloquial contraction of {{m|zh|那[[一]]|tr=nàyī}}, used when it is followed by classifier or numeral + classifier
+|c=naa5,no5
+|c_note=no5 - rare
+|h=pfs=na
+|mn=xm,qz,zz:nā/xm,qz,zz:nō͘
+|mn_note=nā - vernacular; nō͘ - literary
+|mc=y
+|oc=y
+|ma=y
+|cat=pron,con
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[that]]; [[those]]
+#: {{zh-ant|這}}
+#: {{zh-x|那 人 是 誰？|Who is '''that''' person?}}
+#: {{zh-x|那 是 什麼？|What's '''that'''?}}
+#* {{zh-x|你 為什麼 特別 挑{tiāo} 了 那 一 個 呢？|Why did you choose '''that''' one in particular?}}
+#* {{zh-x|那 年 我 將近 十 歲，住 在 ^四川 ^成都 郊區 的 ^百花橋。|'''That''' year, I was about ten years old, living in Sichuan Province in a suburb of Chengdu city called Hundred Flowers.|ref=[http://www.pinyin.info/readings/pinyin/dashui_guohuo_english.html Dàshuǐ Guòhòu (After the Flood)]}}
+# {{n-g|Used after {{zh-l|咋}}, {{zh-l|咋就}}.}} [[so]]; [[that]]
+# [[then]]; in that case
+#: {{zh-x|那 我 呢？|('''Then''') what about me?}}
+#* {{zh-x|嗯，我 明白 了，那 我 最好 也 打扮 一 下。|Oh, I see. I'd better dress up '''then'''.}}
+#* {{zh-x|你 不 喜歡 這 份 工作？那 你 怎麼 不 辭掉 呢？|You don' t like your job? '''In that case''' why don' t you leave?}}
+
+=====Synonyms=====
+{{zh-dial}}
+
+====Compounds====
+{{zh-der|fold=1|檀那|禪那|支那|剎那|布那喀|兀那|式叉摩那|巴特那|圭亞那|安闍那|哈瓦那市|密支那|一剎那|印度支那|格瑞那達|打那麼|波札那|波隆那|末那|毗盧遮那|痴那|萬那杜|波布那|桑那浴|那麼|那些|規那|那當兒|那不勒斯|那樣子|那廝|這個那個|那樣|那壁廂|緊那羅|阿那含|那堝兒|魯米那|那會子|西那畫派|那達慕|那就|那兒|麼那|維那|那咱|那麼點兒|那頭兒|那是|那裡|那溜兒|那麼著|那下|那樁兒|貝那芬托|那起人|那般|那末|那時|那搭|那密比亞|那天|那哈兒|那卡西|辛辛那提|那更|那爛陀|麥地那|那話兒}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=nǎ,něi
+|c=naa5
+|mn=ná/xm,qz,zz:nó͘
+|mn_note=ná - vernacular; nó͘ - literary
+|ma=y
+|cat=pron
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|dated}} {{zh-alt-form|哪|which; where}}
+
+====Compounds====
+{{zh-der|fold=1|那哼|那爭|那得|那個|那怕|那等|那匡}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=Nā,Nuó
+|c=no1
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{surname|lang=zh}} [[Na]]; [[Nuo]]
+
+===Pronunciation 4===
+{{zh-pron
+|m=nuó
+|c=no4,no6
+|cat=a,adv,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[beautiful]]
+# {{†}} [[how]]
+# {{†}} [[many]]
+# {{†}} {{zh-alt-form|挪|to move}}
+
+====Compounds====
+{{zh-der|fold=1|禪那|婆那娑|無那|掇那|那步|那借|騰那|那動}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=邑04}}
+
+# [[what]]
+
+====Readings====
+* {{ja-readings|kanon=[[だ]] (da)|goon=[[な]] (na)|kun=[[なんぞ]] (nanzo), [[なに]] (nani),[[いかん]] (ikan), [[やす]] (yasu), [[とも]] (tomo),}}
+
+====Compounds====
+* {{ja-r|与那原|よなばる}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=나|eumhun=|rv=na|mr=na|y=na}}
+
+# {{defn|lang=ko|sort=邑04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[na]], [[ná]], [[nả]], [[nà]]|rs=邑04}}
+
+# {{defn|lang=vi|sort=邑04}}
+
+[[zh-min-nan:那]]
+[[da:那]]
+[[de:那]]
+[[fr:那]]
+[[ko:那]]
+[[lt:那]]
+[[li:那]]
+[[hu:那]]
+[[mg:那]]
+[[ja:那]]
+[[no:那]]
+[[pl:那]]
+[[ta:那]]
+[[th:那]]
+[[chr:那]]
+[[uk:那]]
+[[zh:那]]

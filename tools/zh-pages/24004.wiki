@@ -1,0 +1,51 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=123|rad=羊|as=12|sn=18|four=|canj=TQTQQ|ids=⿱羊⿰⺶羊/⿱羊⿰羊羊}}
+
+# [[rank]] [[odour]] of [[sheep]] or [[goat]]s
+
+====References====
+* {{Han ref|kx=0954.080|dkj=28566|dj=1399.040|hdz=53139.020|uh=7FB4|ud=32692}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shān
+|c=zin1,saan1,sin1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[odour]] of [[sheep]]
+#* [http://ctext.org/shuo-wen-jie-zi/shan-bu Shuo Wen Jie Zi] (a dictionary in East Han Dynasty)
+#* {{zh-x|羴：羊 臭 也。|The character 羴: sheep's smell indeed.|CL}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=羊12}}
+
+# {{defn|lang=ja|sort=羊12}}
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen)|kun=[[なまぐさい]] (namagusai)|nanori=}}
+
+[[fr:羴]]
+[[hu:羴]]
+[[mg:羴]]
+[[pl:羴]]
+[[th:羴]]
+[[zh:羴]]

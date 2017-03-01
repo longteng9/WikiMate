@@ -1,0 +1,202 @@
+{{character info/new}}
+{{also|女子}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=38|rad=女|as=03|sn=6|four=47447|canj=VND|ids=⿰女子}}
+
+====References====
+* {{Han ref|kx=0255.110|dkj=06053|dj=0518.120|hdz=21028.010|uh=597D|ud=22909|bh=A66E|bd=42606}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|女|子|t1=woman|t2=child|ls=ic}}.
+
+The widely accepted meaning of this character is that the characters for "'''female'''" (女) and "'''child'''" (子) were put together to form a compound because it was good for a woman to have a child. Similarly, it has been proposed that the compound originally refers to the mutual affection between the mother and child, which then extended to mean "good". These theories are supported by the smaller 子 found in some oracle bones and bronze inscriptions.
+
+However, broader interpretations of the second character 子 could lead to other theories. 子 could also mean "son", so it may have meant two children, a boy and a girl next to each other, which is a good fortune to have a boy and a girl. 子 could also mean "man", so it may have referred to the love between a man and a woman, which is good. {{w|Duan Yucai}}, in his annotated version of ''{{w|Shuowen}}'', interpreted it as originally referring to the beauty of {{zh-l|女子|woman}}. Lastly, it could mean that the "attitude" of a girl was considered good.
+
+===Etymology===
+The two pronunciations are cognate – pronunciation 2 is the ''*-s'' suffixed form, or exoactive/putative of pronunciation 1, literally "to consider good".
+
+This word has been compared with {{inh|zh|sit-pro|*hu||to raise; to rear; to nourish}}: Proto-Lolo-Burmese *''hu<sup>3</sup>'', Abor-Miri ''u'', Qiang (Mawo) ''χu'', which is only attested in a limited number of languages. If this is correct, it may be related to {{och-l|畜|to raise; to rear; domesticated animal}}. Alternatively, compare {{cog|bo|མཁོ||necessary, important}}.
+
+Cognate with {{cog|bca|hux||good}}, which may be a loanword from Chinese.
+
+===Pronunciation 1===
+{{zh-pron
+|m=hǎo
+|ma=y
+|c=hou2
+|ca=y
+|h=pfs=hó
+|md=hō̤
+|mn=hó
+|mn-t=ho2/hao2
+|mn-t_note=ho2 - vernacular; hao2 - literary
+|w=2hau
+|mc=1
+|oc=1,1
+|cat=a,adv,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[good]]; [[well]]
+#* {{zh-ant|壞}}
+#* {{zh-x|你 好 嗎？|How are you?}}
+#* {{zh-x|真 是 個 好 主意！|That's a '''good''' idea!}}
+# [[nice]]; [[kind]]
+#* {{zh-x|他們 對 我 很 好。|They are very '''kind''' to me.}}
+# [[friendly]]; [[close]]; [[acquainted]]
+#* {{zh-x|好 朋友|'''good''' friend}}
+# [[done]]; [[ready]]
+#* {{zh-x|我 就 要 好 了。|I'll be '''ready''' very soon.}}
+# to be [[good]] to, [[easy]] to
+#* {{zh-x|這 水龍頭 好 擰。|This tap turns '''easily'''.}}
+# (making it) [[convenient]], [[easy]] for
+#* {{zh-x|把 東西 收拾 乾淨，我 好 打掃 房間。|{{t-needed|zh}}}}
+#* {{zh-x|他們 用 鏡子 反射 陽光，好 讓 救援 飛機 發現。|{{t-needed|zh}}}}
+# [[so that]]
+# to [[recover]] from an [[illness]]
+#* {{zh-x|佢 病 咗 幾 個 月 都 仲 未 好。|He's been sick for several months and still hasn't '''recovered'''.|C}}
+#* {{zh-x|好返|to get better; to recover; to heal|C}}
+# {{lb|zh|somewhat|dialectal}} [[very]]; [[quite]]; [[rather]]; [[so]]
+#* {{zh-x|我 好 興奮 啊！|I'm '''so''' excited!}}
+#* {{zh-x|好 幾 天|quite a few days}}
+#* {{zh-x|我 個 中文 老師 '''好''' 好 人 㗎！|My Chinese teacher is a '''very''' nice person!|tr=ngo5 go3 zung1 man4 lou5 si1 '''hou2''' hou2 jan4 gaa2!|C-GZ}}
+# a pleasure to <small>VERB</small>
+#: {{zh-x|好吃|delicious}}
+#* {{zh-x|好用|a joy to use}}
+#* {{zh-x|好聽|pleasant-sounding}}
+# {{n-g|Particle used after verbs to denote the completion or near-completion of an action.}}
+# {{n-g|Particle denoting agreement, support or wish to terminate a conversation.}}
+# {{n-g|Particle denoting dissatisfaction in ironical sentences.}}
+
+=====Synonyms=====
+* {{sense|very}}
+{{zh-dial|很}}
+
+====Compounds====
+{{zh-der|好比|好不|好不容易|好吃|好醜|好處|好處費|好歹|好的|好端端|好多|好法|好感|好過|好漢|好好|好好先生|好喝|好話|好壞|好貨|好幾|好傢伙|好景不長|好久|好看|好賴|好了傷疤忘了痛|好力寶|好臉|好馬不吃回頭草|好孬|好評|好氣|好球|好兒|好惹|好人|好人好事|好人家|好日子|好容易|好上加好|好生|好聲好氣|好使|好事|好事不出門，惡事傳千里|好事不宜遲|好事多磨|好手|好受|好說|好說歹說|好說話|好死|好似|好天|好聽|好玩|好聞|好戲|好像|好小子|好笑|好些|好心|好心不得好報|好性|好樣|好意|好意思|好用|好友|好運|好在|好找|好轉|好自為之|好走|好食}}
+
+====Descendants====
+{{CJKV||こう|호|hảo}}
+''Others:''
+* Vietnamese: {{l|vi|hẩu||kind, good, delicious}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=hào,a=y
+|c=hou3
+|h=pfs=hau
+|md=hó̤
+|mn=hòⁿ
+|mn-t=haon3
+|w=2hau
+|mc=2
+|oc=2,2
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to be [[fond]] of; to [[like]]
+# to have a [[tendency]] to; to be [[prone]] to; [[good]] to; [[easy]] to
+# {{lb|zh|dialectal Mandarin|Wu}} [[can]]; to be able to
+#* {{zh-also|會|可以}}
+#* {{zh-x|儂 好 流利 個 講 上海話 𠲎？|'''Can''' you speak Shanghainese fluently?|SH}}
+
+=====Synonyms=====
+{{zh-dial|喜歡}}
+
+====Compounds====
+{{zh-der|好吃|好大喜功|好動|好高騖遠|好客|好奇|好強|好色|好尚|好勝|好事|好為人師|好惡|好行小惠|好學|好逸惡勞|好戰|好整以暇}}
+
+====Descendants====
+{{CJKV||こう|호|hiếu}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=女03}}
+
+# fondness; what one likes
+
+====Readings====
+* {{ja-readings|goon=[[こう]] (kō)|kanon=[[こう]] (kō)|kun=[[このみ]] (konomi), [[このむ]] (konomu), [[すく]] (suku), [[すめよい]] (sumeyoi), [[すめよし]] (sumeyoshi), [[よい]] (yoi), [[よし]] (yoshi), [[よしみ]] (yoshimi), [[よろし]] (yoroshi), [[よろしい]] (yoroshii)}}
+
+====Compounds====
+{{der5
+| {{ja-r|好き|すき}}
+| {{ja-r|好物|こうぶつ}}
+| {{ja-r|良好|りょうこう}}
+| {{ja-r|愛好|あいこう}}
+| {{ja-r|良好|りょうこう}}
+| {{ja-r|友好|ゆうこう}}
+| {{ja-r|嗜好品|しこうひん}}
+| {{ja-r|好感|こうかん}}
+| {{ja-r|好転|こうてん}}
+| {{ja-r|好事|こうず}}
+}}
+
+===Proper noun===
+{{ja-pos|proper|よしみ}}
+
+# {{given name|male|lang=ja|sort=よしみ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=호|rv=ho|mr=ho}}
+
+# to [[like]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[háo]], [[háu]], [[hảo]], [[hão]], [[hếu]], [[hiếu]], [[hấu]], [[hẩu]]|rs=女03}}
+
+# {{defn|lang=vi|sort=女03}}
+
+[[zh-min-nan:好]]
+[[da:好]]
+[[el:好]]
+[[fr:好]]
+[[ko:好]]
+[[it:好]]
+[[lt:好]]
+[[li:好]]
+[[hu:好]]
+[[mg:好]]
+[[ms:好]]
+[[ja:好]]
+[[no:好]]
+[[uz:好]]
+[[km:好]]
+[[pl:好]]
+[[ru:好]]
+[[ta:好]]
+[[th:好]]
+[[chr:好]]
+[[uk:好]]
+[[ug:好]]
+[[vi:好]]
+[[zh:好]]

@@ -1,0 +1,40 @@
+{{also|乌梅}}
+==Chinese==
+{{zh-forms|s=乌梅}}
+
+===Pronunciation===
+{{zh-pron
+|m=wūméi
+|mn=o͘-m̂/o͘-mûi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[smoked]] [[ume]] (used in [[traditional Chinese medicine]])
+
+====Compounds====
+*{{zh-l|烏梅酒}}
+*{{qual|Min Nan}} {{zh-l|烏梅仔酒}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|烏|梅}}
+
+===Etymology===
+From {{etyl|zhx|ja|sort=うばい}} {{m|zh|烏梅}}.
+
+===Pronunciation===
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|/u.ba.i/|[ɯᵝbäi]}}
+
+===Noun===
+{{ja-noun|うばい}}
+
+# {{lb|ja|sort=うばい|medicine}} an [[unripe]] Japanese [[ume]] that has been [[smoked]] over a [[fire]] until black, used as a [[pigment]] and in [[traditional]] [[medicine]]s to treat [[inflammation]] of the [[throat]]
+
+====Synonyms====
+* {{ja-r|燻梅|ふすべうめ}}
+* {{ja-r|梅干し|うめぼし}}, {{ja-r|梅干|うめぼし}} {{qualifier|used less commonly for this sense}}

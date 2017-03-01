@@ -1,0 +1,46 @@
+==Japanese==
+{{ja-kanjitab|めん|せつ|yomi=o}}
+
+===Noun===
+{{ja-noun|めんせつ}}
+
+# [[interview]]
+
+====Usage notes====
+This mostly refers to interviews for the purpose of evaluation of talents or skills for employment or promotion at a company or educational assessment at a school.
+
+====Derived terms====
+* {{ja-r|面接官|めんせつかん}}: [[interviewer]]
+* {{ja-r|面接試験|めんせ つしけん}}: [[interview]], [[oral]] [[examination]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|めんせつ}}
+
+# to [[interview]]
+
+====Conjugation====
+{{ja-suru|めんせつ}}
+
+===References===
+* {{R:Shogakukan}}
+* {{R:Kojien}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=면접}}
+
+# {{hanja form of|면접|interview}}
+
+[[fr:面接]]
+[[ko:面接]]
+[[it:面接]]
+[[lo:面接]]
+[[li:面接]]
+[[hu:面接]]
+[[mg:面接]]
+[[chr:面接]]
+[[zh:面接]]

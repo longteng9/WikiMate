@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhǐjīn
+|c=zi2 gam1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[now]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ただ|いま|yomi=k}}
+
+===Alternative forms===
+* {{l|ja|ただ今}}, {{l|ja|ただいま}}
+
+===Adverb===
+{{ja-pos|adverb|ただいま}}
+
+# [[presently]], [[right away]], [[right now]], [[just now]]
+
+===Interjection===
+{{ja-pos|interjection|ただいま}}
+
+# [[hello]]; here I am; I'm home (''said by a person coming back home, a stock phrase required by the Japanese etiquette'')
+#: {{ja-usex|'''只今'''参上|'''ただいま'''さんじょう|Here I am; visiting.}}
+
+====See also====
+* {{l|ja|お帰りなさい}}, {{l|ja|お帰り}}
+* {{l|ja|行ってきます}}, {{l|ja|いってきます}}
+* {{l|ja|いってらっしゃい}}
+
+[[Category:Japanese phrasebook|ただいま]]
+
+[[fr:只今]]
+[[ko:只今]]
+[[li:只今]]
+[[hu:只今]]
+[[mg:只今]]
+[[ja:只今]]
+[[th:只今]]
+[[zh:只今]]

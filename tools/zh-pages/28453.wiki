@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|辏}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=09|sn=16|four=55034|canj=JJQKK|ids=⿰車奏}}
+
+====References====
+* {{Han ref|kx=1246.140|dkj=38429|dj=1723.230|hdz=53543.040|uh=8F33|ud=36659|bh=BFEA|bd=49130}}
+
+----
+
+==Chinese==
+{{zh-forms|s=辏}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=còu
+|c=cau3
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[hub]]s of [[wheel]]
+# [[converge]] [[around]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=車09}}
+
+# {{defn|lang=ja|sort=車09}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[あつまる]] (atsumaru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=주|eumhun=|rv=ju|mr=chu|y=cwu}}
+
+# {{defn|lang=ko|sort=車09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=車09|hanviet=[[tấu]], [[thấu]]}}
+
+# {{defn|lang=vi|sort=車09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=8f33 Nom Foundation]
+
+[[fr:輳]]
+[[hu:輳]]
+[[mg:輳]]
+[[ja:輳]]
+[[pl:輳]]
+[[th:輳]]
+[[zh:輳]]

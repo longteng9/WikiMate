@@ -1,0 +1,38 @@
+==Japanese==
+{{ja-kanjitab|は|き|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|はき|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はき}}
+
+# [[destruction]] (of a recorded material)
+#: {{ja-usex|書類の'''破棄'''を命じた。|しょるい の '''はき''' を めいじた。|They ordered the '''destruction''' of documents.}}
+# [[annulment]], [[cancellation]], [[nullification]], [[reversal]] (of a contract, treaty, etc.)
+#: {{ja-usex|市民たちは二市の合併の'''破棄'''を要求した。|しみんたち は にし の がっぺい の '''はき''' を ようきゅう した。|Citizens demanded the '''annulment''' of the combination of two cities.}}
+
+====Synonyms====
+* {{sense|destruction}} {{ja-r|毀棄|きき}}, {{ja-r|廃棄|はいき}}
+* {{sense|annulment}} {{ja-r|廃棄|はいき}}, {{ja-r|撤回|てっかい}}, {{ja-r|取り消し|とりけし}}
+
+====Antonyms====
+* {{sense|destruction}} {{ja-r|作成|さくせい|gloss=[[production]]}}
+* {{sense|annulment}} {{ja-r|締結|ていけつ|gloss=[[conclusion]]}}
+
+===Verb===
+{{ja-verb-suru|はき}}
+
+# [[destroy]] (a recorded material)
+# [[annul]], [[cancel]], [[nullify]], [[reverse]]
+
+====Conjugation====
+{{ja-suru|はき}}
+
+===References===
+<references/>
+
+[[ko:破棄]]
+[[mg:破棄]]
+[[ja:破棄]]
+[[zh:破棄]]

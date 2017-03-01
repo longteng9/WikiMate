@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|ゆう|せい|おん|yomi=on}}
+{{wikipedia|Sonant}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ゆうせいおと|有声|tr1=yūsei|t1=[[voiced]]|音|tr2=on|t2=[[sound]]}}.
+
+===Noun===
+{{ja-noun|ゆうせいおん}}
+
+# {{lb|ja|phonetics|sort=ゆうせいおん}} [[sonant]], [[voiced]] [[sound]]
+
+====Antonyms====
+* {{ja-r|無声音|むせいおん}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[chr:有声音]]
+[[zh:有声音]]

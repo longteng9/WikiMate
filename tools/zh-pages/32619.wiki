@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|鹉}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=07|sn=18|four=17127|canj=MMHAF|ids=⿰武鳥}}
+
+====References====
+* {{Han ref|kx=1491.080|dkj=46963|dj=2021.260|hdz=74638.100|uh=9D61|ud=40289|bh=C44D|bd=50253}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鹉}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=wǔ
+|c=mou5
+|mn=bú
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|貓噬鸚鵡|金鸚鵡|鸚鵡|鸚鵡學舌|鸚鵡杯|鸚鵡洲|鸚鵡熱|鸚鵡病|鸚鵡目|鸚鵡科|鸚鵡螺}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鳥07}}
+
+# {{defn|lang=ja|sort=鳥07}}
+
+====Readings====
+* {{ja-readings|kanon=[[ぶ]] (bu)|goon=[[む]] (mu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=무|eumhun=|rv=mu|mr=mu|y=mu}}
+
+# {{defn|lang=ko|sort=鳥07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=鳥07|hanviet=vũ, thịnh}}
+
+# {{defn|lang=vi|sort=鳥07}}
+
+[[fr:鵡]]
+[[hu:鵡]]
+[[ja:鵡]]
+[[pl:鵡]]
+[[th:鵡]]
+[[zh:鵡]]

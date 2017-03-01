@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|蘋}}
+==Translingual==
+
+===Etymology===
+{{Han simp|蘋|f=頻|t=平}}
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=05|sn=8|four=44409|canj=TMFJ|ids=⿱艹平}}
+
+# [[artemisia]]
+# [[duckweed]]
+# [[apple]]
+
+====References====
+* {{Han ref|kx=1025.100|dkj=30823|dj=1484.160|hdz=53189.040|uh=82F9}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-see|蘋|s|apple}}
+
+===Etymology 2===
+{{zh-see|萍|v}}
+
+===Etymology 3===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=píng
+|c=ping4
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-alt-name|藾蕭}}
+
+=====Compounds=====
+{{zh-der|苹縈}}
+
+===References===
+* {{R:twedu|B03814}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸05}}
+
+# {{defn|lang=ja|sort=艸05}}
+
+====Readings====
+{{ja-readings|goon=[[びょう]] (byō)|kanon=[[へい]] (hei)|kanyoon=[[ひょう]] (hyō)|kun=[[うきくさ]] (ukikusa), [[よもぎ]] (yomogi), [[あし]] (ashi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|苹果|へいか}}, {{ja-r|苹果|ひょうか}}: [[apple]] (fruit)
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=평|eumhun=|rv=pyeong|mr=p'yŏng|y=phyeng}}
+
+# {{defn|lang=ko|sort=艸05}}
+
+
+[[da:苹]]
+[[fr:苹]]
+[[ko:苹]]
+[[hu:苹]]
+[[mg:苹]]
+[[ja:苹]]
+[[no:苹]]
+[[pl:苹]]
+[[th:苹]]
+[[vi:苹]]
+[[zh:苹]]

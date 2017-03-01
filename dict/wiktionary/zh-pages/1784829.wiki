@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shēngshuǐ
+|c=saang1 seoi2
+|mn=qz,tp,xm:chhiⁿ-chúi/kh,zz:chheⁿ-chúi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[unboiled]] [[water]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|なま|みず|yomi=kun}}
+
+===Etymology===
+{{compound|生|t1=raw|水|t2=water|lang=ja|sort=なまみず}}
+
+===Pronunciation===
+* {{ja-pron|なまみず|y=k|acc=2|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|なまみず}}
+
+# [[raw]] water, [[unboiled]] water
+# [[tap water]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=생수}}
+
+# {{hanja form of|생수|[[mineral water]] (natural, spring)}}
+
+[[zh:生水]]

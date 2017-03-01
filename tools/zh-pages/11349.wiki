@@ -1,0 +1,167 @@
+{{character info/new}}
+{{also|优}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=15|sn=17|four=21247|canj=OMBE|ids=⿰亻憂}}
+
+====References====
+* {{Han ref|kx=0120.280|dkj=01261|dj=0254.260|hdz=10233.040|uh=512A|ud=20778|bh=C075|bd=49269}}
+
+----
+
+==Chinese==
+{{zh-forms|s=优}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yōu
+|c=jau1
+|mn=qz,tw,xm,zz:iu
+|mc=y
+|oc=y
+|ma=Zh-you.ogg
+|cat=a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[excellent]], [[superior]]
+# [[actor]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=人15}}
+
+====Definitions====
+# [[a]] [[person]] [[with]] [[lithe]] [[movements]]
+# [[kind]] (adj.), [[favor]]
+# [[good]], [[excellent]], [[surpass]], [[superior]]
+## [[the]] [[best]] [[possible]] [[grade]] [[on]] [[school]] [[results]]
+# [[rich]], [[wealthy]]
+# [[a]] [[sufficient]] [[amount]] [[for]] [[a]] [[certain]] [[thing]]
+# [[tenderness]], [[gentleness]]
+# [[actor]]
+
+; Antonyms
+* {{sense|good, excellent, superior}} [[劣]] ([[bad]], [[poor]], [[inferior]])
+
+====Readings====
+* {{ja-readings|kanon=[[ゆう]] ([[yū]])|goon=[[う]] ([[u]])|kun=[[やさしい]] ([[yasashii]]), [[すぐれる]] ([[sugureru]]), [[ゆたか]] (yutaka), [[ゆうに]] (yūni), [[わざおぎ]] ([[wazaogi]])|nadzuke=[[かつ]] (katsu), [[ひろ]] (hiro), [[まさ]] (masa), [[まさる]] (masaru), [[ゆたか]] (yutaka)}}
+
+====Compounds====
+{{der3
+| {{ja-r|優渥|ゆうあく}}
+| {{ja-r|優位|ゆうい}}
+| {{ja-r|優越|ゆうえつ}}
+| {{ja-r|優越感|ゆうえつかん}}
+| {{ja-r|優艶|ゆうえん}}
+| {{ja-r|優婉|ゆうえん}}
+| {{ja-r|優雅|ゆうが}}
+| {{ja-r|優遇|ゆうぐう}}
+| {{ja-r|優形|やさがた}}
+| {{ja-r|優弧|ゆうこ}}
+| {{ja-r|優姿|ゆうし}}
+| {{ja-r|優者|ゆうしゃ}}
+| {{ja-r|優秀|ゆうしゅう}}
+| {{ja-r|優柔不断|ゆうじゅうふだん}}
+| {{ja-r|優駿|ゆうしゅん}}
+| {{ja-r|優女|ゆうおんな}}
+| {{ja-r|優勝|ゆうしょう}}
+| {{ja-r|優勢|ゆうせい}}
+| {{ja-r|優性|ゆうせい}}
+| {{ja-r|優生|ゆうせい}}
+| {{ja-r|優先|ゆうせん}}
+| {{ja-r|優待|ゆうたい}}
+| {{ja-r|優退|ゆうたい}}
+| {{ja-r|優男|やさおとこ}}
+| {{ja-r|優長|ゆうちょう}}
+| {{ja-r|優等|ゆうとう}}
+| {{ja-r|優曇華|うどんげ}}
+| {{ja-r|優美|ゆうび}}
+| {{ja-r|優々閑々|ゆうゆうかんかん}}, {{ja-r|優優閑閑|ゆうゆうかんかん}}
+| {{ja-r|優利|ゆうり}}
+| {{ja-r|優良|ゆうりょう}}
+| {{ja-r|優劣|ゆうれつ}}
+| {{ja-r|優諚|ゆうじょう}}
+| {{ja-r|優男|やさおとこ}}
+}}
+
+====References====
+{{ja-kref
+|ku=4505
+|shift=9744
+|jis=4D25
+|euc=CDA5
+|skip=1-2-15
+|freq=334
+|nelson=564
+|newnelson=334
+|halpern=177
+|kld=130
+|heisig=993
+|tuttle=2a15.1
+}}
+
+===Adverb===
+{{ja-pos|adverb|ゆう}}
+
+# [[enough]], [[amply]]
+# [[easily]], [[skillfully]]
+
+===Noun===
+{{ja-noun|ゆう}}
+
+# A (letter grade); [[excellence]]
+# [[gentleness]]
+
+===Proper noun===
+{{ja-pos|proper|まさる}}
+
+# {{given name|male|lang=ja|sort=まさる}}
+
+{{ja-pos|proper|ゆう}}
+
+# {{given name|female|lang=ja|sort=ゆう}}
+
+===Related terms===
+* {{l|ja|優しげ}}
+* {{l|ja|優る}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 優]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=우}}
+
+# {{defn|lang=ko|sort=人15}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ưu]]|rs=人15}}
+
+# {{defn|lang=vi|sort=人15}}
+
+[[fr:優]]
+[[ko:優]]
+[[li:優]]
+[[hu:優]]
+[[mg:優]]
+[[ja:優]]
+[[pl:優]]
+[[th:優]]
+[[zh:優]]

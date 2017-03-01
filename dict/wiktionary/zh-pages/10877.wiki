@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=06|sn=8|four=23214|canj=OJHP|ids=⿰亻宅}}
+
+# [[disappointed]], [[forlorn]]
+
+====References====
+* {{Han ref|kx=0102.130|dkj=00602|dj=0216.110|hdz=10154.030|uh=4F98|ud=20376|bh=CBB2|bd=52146}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chà
+|c=caa3
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人06}}
+
+# {{defn|lang=ja|sort=人06}}
+
+====Readings====
+* {{ja-readings|on=[[た]] (ta)|kun=[[ほこる]] (hokoru), [[わびる]] (wabiru), [[わびしい]] (wabishii)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=차|rv=cha|mr=ch'a}}
+
+# {{defn|lang=ko|sort=人06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sá]]|rs=人06}}
+
+# {{defn|lang=vi|sort=人06}}
+
+[[fr:侘]]
+[[ko:侘]]
+[[ky:侘]]
+[[li:侘]]
+[[hu:侘]]
+[[ja:侘]]
+[[pl:侘]]
+[[th:侘]]
+[[zh:侘]]

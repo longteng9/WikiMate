@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|滥}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=14|sn=17|four=38117|canj=ESIT,ESMT|ids=⿰氵監}}
+
+# [[flood]], [[overflow]]
+# [[excessive]]
+
+====References====
+* {{Han ref|kx=0657.030|dkj=18521|dj=1067.080|hdz=31766.090|uh=6FEB|ud=28651|bh=C0DD|bd=49373}}
+
+----
+
+==Chinese==
+{{zh-forms|s=滥}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=làn
+|c=haam5,laam6
+|h=pfs=
+|md=
+|mn=lām
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水14}}
+
+# {{defn|lang=ja|sort=水14}}
+
+====Readings====
+* {{ja-readings|on=[[らん]] (ran)|kun=[[みだれる]] (midareru), [[みだりに]] (midarini)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[람]]>[[남]], [[함]]|eumhun=|rv=ram>nam, ham|mr=ram>nam, ham|y=lam>nam, ham}}
+
+# {{defn|lang=ko|sort=水14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lạm]], [[giậm]], [[làm]], [[lặm]], [[lòm]], [[lộm]], [[lợm]], [[lụm]], [[luộm]], [[trộm]]|rs=水14}}
+
+# {{defn|lang=vi|sort=水14}}
+
+[[zh-min-nan:濫]]
+[[fr:濫]]
+[[ko:濫]]
+[[hu:濫]]
+[[ja:濫]]
+[[pl:濫]]
+[[th:濫]]
+[[zh:濫]]

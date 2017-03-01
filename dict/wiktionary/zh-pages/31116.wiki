@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|颂}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=181|rad=頁|as=04|sn=13|four=81786|canj=CIMBC|ids=⿰公頁}}
+
+====References====
+* {{Han ref|kx=1400.120|dkj=43365|dj=1917.020|hdz=74362.030|uh=980C}}
+
+----
+
+==Chinese==
+{{zh-forms|s=颂}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=sòng
+|c=zung6
+|h=pfs=siung
+|mn=siōng/xm:siòng/twv:chhēng
+|mn_note=siōng - literary; siòng - vernacular (俗)
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[laud]], [[acclaim]]
+# [[hymn]]
+# [[ode]]
+
+====Compounds====
+{{zh-der|三一頌|贊頌|頌贊}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=頁04}}
+
+# {{defn|lang=ja|sort=頁04}}
+
+====Readings====
+{{ja-readings|goon=[[じゅ]] (ju), [[ず]] (zu)|kanon=[[しょう]] (shō)|kun=[[ほめる]] (homeru), [[たたえる]] (tataeru), [[かたち]] (katachi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|頌寿|しょうじゅ}}: [[celebration]] of [[longevity]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[송]], [[용]]|eumhun=|rv=song, yong|mr=song, yong|y=song, yong}}
+
+# {{defn|lang=ko|sort=頁04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''頌''' ([[tụng]])
+
+# {{defn|vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:頌]]
+[[ko:頌]]
+[[hu:頌]]
+[[mg:頌]]
+[[ja:頌]]
+[[pl:頌]]
+[[th:頌]]
+[[zh:頌]]

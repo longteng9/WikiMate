@@ -1,0 +1,48 @@
+{{also|东路}}
+==Chinese==
+{{zh-forms|s=东路}}
+
+===Pronunciation===
+{{zh-pron
+|m=dōnglù
+|c=dung1 lou6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[eastern]] [[road]]
+# {{lb|zh|literary}} the [[road]] [[home]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|あずま|じ}}
+
+===Etymology===
+/adumadi/ > /azumazi/.
+
+===Pronunciation===
+* {{IPA|/azumadʑi/|lang=ja}}
+
+===Noun===
+{{ja-noun|あずまじ|hhira=あづまぢ}}
+
+# a road or path from the capital to the eastern regions
+#* c. 1060: ''Sarashina Nikki''
+#*: '''あづま路'''の道のはてよりも、猶奥つかたに生い出でたる人、いか許かはあやしかりけむを、いかにおもひはじめける事にか、世中に物語といふ物のあんなるを [...]
+
+===References===
+* {{cite-book
+|last=Hasegawa
+|first=Masaharu
+|coauthors=Yūichirō Imanishi, Hiroshi Itō, Hiroshi Yoshioka
+|title=Shin Nihon Koten Bungaku Taikei 24: Tosa Nikki, Kagerō Nikki, Murasaki Shikibu Nikki, Sarashina Nikki
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|year=1989
+|location=[[w:Tokyo|Tōkyō]]
+|isbn=4-00-240024-7
+}}
+
+[[hi:東路]]

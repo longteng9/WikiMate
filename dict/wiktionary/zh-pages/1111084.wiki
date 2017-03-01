@@ -1,0 +1,64 @@
+{{also|软化}}
+==Chinese==
+{{zh-forms|s=软化}}
+
+===Pronunciation===
+{{zh-pron
+|m=ruǎnhuà
+|c=jyun5 faa3
+|h=pfs=ngiôn-fa
+|mn=qz,xm,zz:loán-hòa/tw:nńg-hòa
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[soften]]; to [[weaken]]
+# to [[persuade]] using [[soft]] [[tactics]]
+
+====Antonyms====
+* {{zh-l|硬化}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|なん|か|yomi=o}}
+
+===Etymology===
+From {{m|ja|軟|sc=Jpan|tr=nan||soft}} + {{m|ja|化|sc=Jpan|tr=ka||become}}
+
+===Pronunciation===
+* {{ja-pron|なんか|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|なんか}}
+
+# [[softening]]
+# [[weakening]]
+
+====Derived terms====
+* [[骨軟化症]] (''kotsunankashō''): osteomalacia
+* [[脳軟化症]] (''nōnankashō''): softening of the brain
+
+===Verb===
+{{ja-verb-suru|tr=intrans|なんか}}
+
+# [[soften]]
+# [[weaken]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=연화}}
+
+# {{hanja form of|연화}}
+
+[[ko:軟化]]
+[[zh:軟化]]

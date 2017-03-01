@@ -1,0 +1,113 @@
+{{character info/new}}
+{{also|鳟}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=12|sn=23|four=28346|canj=NFTWI|ids=⿰魚尊}}
+
+# [[barbel]]
+
+===References===
+* {{Han ref|kx=1478.120|dkj=46492|dj=2009.330|hdz=74715.030|uh=9C52|ud=40018|bh=F857|bd=63575}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鳟}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|魚|尊|c1=s|t1=fish|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zūn
+|c=zyun6,zyun1,zeon1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=魚12}}
+
+====Readings====
+{{ja-readings
+|goon=[[ぞん]] (zon)
+|kanon=[[そん]] (son)
+|kun=[[ます]] (masu)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|鯇鱒|あめます}}
+* {{ja-r|樺太鱒|からふとます}}
+* {{ja-r|河鱒|かわます}}
+* {{ja-r|銀鱒|ぎんます}}
+* {{ja-r|国鱒|くにます}}
+* {{ja-r|黒鱒|くろます}}
+* {{ja-r|鮭鱒|けいそん}}: [[salmon]]s and [[trout]]s
+* {{ja-r|桜鱒|さくらます}}
+* {{ja-r|五月鱒|さつきます}}, {{ja-r|皐月鱒|さつきます}}
+* {{ja-r|背張鱒|せっぱります}}
+* {{ja-r|虹鱒|にじます}}: [[rainbow trout]]
+* {{ja-r|姫鱒|ひめます}}
+* {{ja-r|琵琶鱒|びわます}}
+* {{ja-r|紅鱒|べにます}}
+* {{ja-r|鱒茸|ますたけ}}
+* {{ja-r|鱒の介|ます の すけ}}
+* {{ja-r|養鱒|ようそん}}: [[trout]] [[farm]]ing
+{{der-bottom}}
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ます|yomi=k}}
+
+===Etymology===
+Generally thought to derive from a Korean dialectal term for the fish, which would have entered Japanese as {{l|ja|松}}{{l|ja|魚}} (''matsu no uo'', "pine fish", possibly in reference to wooded streams where it can be caught), combining with or being influenced by the verb {{l|ja|増す}} (''masu'', "to be [[excellent]], [[superior]]", in reference to the size, flavor, and other favorable characteristics of the fish).
+
+===Pronunciation===
+{{ja-pron|yomi=k|ます|acc=0|acc_ref=DJR|acc2=2|acc2_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|ます|マス}}
+
+# [[trout]], [[sea trout]]: more specifically, fish belonging to [[genera]] of the [[family]] ''[[Salmonidae]]'': ''[[Salmo]]'', ''[[Oncorhynchus]]'', ''[[Coregonus]]'', or ''[[Salvelinus]]''
+
+====Usage notes====
+{{U:ja:biology|マス}}
+
+===References===
+<references/>
+
+[[Category:ja:Salmonids|ます]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=준|eumhun=|rv=jun|mr=chun|y=cwun}}
+
+# {{defn|lang=ko|sort=魚12}}
+
+[[el:鱒]]
+[[fr:鱒]]
+[[gl:鱒]]
+[[ja:鱒]]
+[[no:鱒]]
+[[pl:鱒]]
+[[th:鱒]]
+[[zh:鱒]]

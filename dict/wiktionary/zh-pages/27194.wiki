@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|𧦅|讴}}
+==Translingual==
+{{Han simplified forms|謳|𧦅|讴|ex=y}}
+
+===Han character===
+{{Han char|rn=149|rad=言|as=11|sn=18|four=01616|canj=YRSRR}}
+
+# to [[sing]]
+# [[songs]]
+
+====References====
+* {{Han ref|kx=1178.090|dkj=35885|dj=1642.130|hdz=64011.110|uh=8B33|ud=35635|bh=F0DD|bd=61661}}
+
+----
+
+==Chinese==
+{{zh-forms|s=讴}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=ōu
+|c=au1
+|h=pfs=
+|md=
+|mn=qz:io/tw,xm,zz:o͘
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言11|style=ky|shin=𧦅}}
+
+# {{defn|lang=ja|sort=言11}}
+
+====Readings====
+* {{ja-readings|goon=[[う]] (u)|kanon=[[おう]] (ō)|kun=[[うたう|うた.う]] ([[謳う]], utau)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# {{defn|lang=ko|sort=言11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|âu|rs=言11}}
+
+# {{defn|lang=vi}}
+
+[[fr:謳]]
+[[hu:謳]]
+[[ja:謳]]
+[[pl:謳]]
+[[th:謳]]
+[[zh:謳]]

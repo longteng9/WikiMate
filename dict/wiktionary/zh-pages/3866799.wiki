@@ -1,0 +1,38 @@
+{{also|胆囊|胆嚢}}
+==Chinese==
+{{zh-forms|s=胆囊}}
+{{wikipedia|lang=zh|膽囊}}
+
+===Etymology===
+{{zh-compound|膽|囊|gall|bag, pocket}}
+
+===Pronunciation===
+{{zh-pron
+|m=dǎnnáng
+|c=daam2 nong4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|anatomy}} [[gall bladder]]
+
+====Synonyms====
+* {{zh-l|苦膽}}
+
+====Derived terms====
+{{zh-der|膽囊炎}}
+
+----
+
+==Korean==
+{{ko-hanjatab|膽|囊}}
+
+===Noun===
+{{ko-noun|rv=damnang|hangeul=담낭}}
+
+# {{hanja form of|담낭|gall bladder}}
+
+[[ko:膽囊]]
+[[hu:膽囊]]

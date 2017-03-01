@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|魉}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=194|rad=鬼|as=08|sn=18|four=21212|canj=HIMLB|ids=⿺鬼兩}}
+
+# a kind of monster
+
+====References====
+* {{Han ref|kx=1462.390|dkj=45870|dj=1996.190|hdz=74433.170|uh=9B4E|ud=39758|bh=C352|bd=50002}}
+
+----
+
+==Chinese==
+{{zh-forms|s=魉}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=liǎng
+|c=loeng5
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鬼08}}
+
+# {{defn|lang=ja|sort=鬼08}}
+
+====Readings====
+* {{ja-readings|goon=[[ろう]] (rō)|kanon=[[りょう]] (ryō)|kun=[[こだま]] (kodama), [[すたま]] (sutama)}}
+
+====Compounds====
+{{der-top|Compounds with 魎}}
+* {{ja-r|魑魅魍魎|ちみもうりょう}}
+* {{ja-r|魍魎|もうりょう}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[량]]>[[양]]|eumhun=|rv=ryang>yang|mr=ryang>yang|y=lyang>yang}}
+
+# {{defn|lang=ko|sort=鬼08}}
+
+[[fr:魎]]
+[[ko:魎]]
+[[hu:魎]]
+[[ja:魎]]
+[[pl:魎]]
+[[th:魎]]
+[[zh:魎]]

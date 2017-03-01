@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=píyīn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{label|zh|music}} [[arpeggio]]
+
+====Synonyms====
+* {{zh-l|琶音}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|び|おん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=goon|びおん|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|びおん}}
+
+# {{lb|ja|music|sort=ひおん'}} [[arpeggio]]
+
+====Synonyms====
+* {{ja-r|アルペッジョ}}
+
+===References===
+<references/>
+
+[[ko:琵音]]
+[[ja:琵音]]

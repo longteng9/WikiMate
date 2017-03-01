@@ -1,0 +1,102 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Alternative forms===
+There are typographical differences in this character in different fonts – in Japanese printing, the last two strokes may connect to the top stroke, as in right of [[衣]], while in handwriting and many other fonts, those strokes connect to the central curving stroke.
+
+Depending on the font, the character {{lang|ja|家}} (Japanese)/{{lang|und|sc=Hant|家}} (Traditional Chinese) may also have either of these variations.
+
+===Etymology===
+{{Han etyl}}
+{{liushu|p}} – a pig. Similar origin to [[亥]] and [[犭]].
+
+===Han character===
+{{Han char|rn=152|rad=豕|as=00|sn=7|four=10232|canj=MSHO}}
+
+# a [[pig]], [[boar]]
+# {{mul-kangxi radical-def}}
+
+====Synonyms====
+* {{l|mul|亥}} {{qualifier|in sense “Zodiac year of pig”}}
+
+====Derived characters====
+* [[Index:Chinese radical/豕]]
+* [[㒸]], [[家]], [[逐]], [[圂]], [[冡]], [[彖]]
+
+====Related characters====
+* [[亥]] [[犭]]
+
+====References====
+* {{Han ref|kx=1194.040|dkj=36337|dj=1657.010|hdz=63610.010|uh=8C55|ud=35925|bh=A8A8|bd=43176}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǐ
+|c=ci2
+|h=pfs=chhí
+|mn=sí
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* [http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=豕00}}
+
+# {{defn|lang=ja|sort=豕00}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[いのこ]] (inoko)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=시|eumhun=|rv=si|mr=si|y=si}}
+
+# {{defn|lang=ko|sort=豕00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thỉ]]|rs=豕00}}
+
+# {{defn|lang=vi|sort=豕00}}
+
+[[Category:CJKV radicals| ]]
+
+[[el:豕]]
+[[fr:豕]]
+[[ko:豕]]
+[[lt:豕]]
+[[li:豕]]
+[[hu:豕]]
+[[mg:豕]]
+[[ms:豕]]
+[[ja:豕]]
+[[pl:豕]]
+[[ru:豕]]
+[[th:豕]]
+[[zh:豕]]

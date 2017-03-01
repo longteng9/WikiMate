@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shuǐróngxìng
+|c=seoi2 jung4 sing3
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[water-soluble]]
+
+====Derived terms====
+{{zh-der|水溶性維生素}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|すい|よう|せい|yomi=on}}
+
+===Noun===
+{{ja-noun|すいようせい|head=[[水溶]][[性]]}}
+
+# being [[water-soluble]]
+
+====Compounds====
+* {{l|ja|水溶性物質}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Sciences|すいようせい]]
+
+[[ko:水溶性]]
+[[sw:水溶性]]
+[[hu:水溶性]]
+[[ja:水溶性]]
+[[zh:水溶性]]

@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|啓|启}}
+==Translingual==
+{{Han simplified forms|啟|啓|启}}
+
+===Han character===
+{{Han char|rn=66|rad=攴|as=07|sn=11|four=38604|canj=HROK|ids=⿰启攵}}
+
+# [[open]]
+# [[begin]], [[commence]]
+# [[explain]]
+
+====References====
+* {{Han ref|kx=0196.261|dkj=03821|hdz=21463.080|uh=555F|ud=21855|bh=B1D2|bd=45522}}
+
+----
+
+==Chinese==
+{{zh-forms|s=启|t2=啓}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qǐ
+|c=kai2
+|h=pfs=khí
+|md=
+|mn=khé
+|w=
+|mc=
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=攴07}}
+
+# {{defn|lang=ja|sort=攴07}}
+
+====Readings====
+* {{ja-readings|on=[[けい]] (kei)|kun=[[ひらく]] (hiraku), [[もうす]] (mousu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=계|rv=gye|mr=kye}}
+
+# {{defn|lang=ko|sort=攴07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khải]], [[khơi]], [[khui]]|rs=攴07}}
+
+# {{defn|lang=vi|sort=攴07}}
+
+[[fr:啟]]
+[[li:啟]]
+[[hu:啟]]
+[[ja:啟]]
+[[pl:啟]]
+[[th:啟]]
+[[zh:啟]]

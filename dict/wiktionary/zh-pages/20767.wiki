@@ -1,0 +1,113 @@
+{{character info/new}}
+{{also|现}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=96|rad=玉|as=07|sn=11|four=16110|canj=MGBUU|ids=⿰𤣩見}}
+
+====References====
+* {{Han ref|kx=0732.220|dkj=21004|dj=1143.180|hdz=21116.030|uh=73FE|ud=29694|bh=B27B|bd=45691}}
+
+----
+
+==Chinese==
+{{zh-forms|s=现}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|玉|見|ls=psc|c1=s|c2=p|t1=jewel}}.
+
+===Etymology===
+Endopassive of {{och-l|見|tr=*keːns}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xiàn
+|c=jin6
+|c-t=yen5
+|g=xien5
+|h=pfs=hien
+|md=hiêng
+|mn=hiān/tw:hiàn
+|mn_note=hiàn - vernacular, probably substitute for {{zh-l|*獻}}
+|mn-t=hing7/hêng7/hiang7
+|mn-t_note=hing7 - Chaozhou; hêng7 - Jieyang; hiang7 - Chaoyang, Puning, Huilai
+|w=3hhi
+|x=xian5
+|mc=y
+|oc=y
+|ma=y
+|cat=v,adv,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[present]]; [[current]]
+# to [[appear]]; to [[manifest]]; to become [[visible]]
+# [[now]]
+
+====Compounds====
+{{zh-der|現在|現代|一切現成|丟人現眼|乍現|兌現|公告現值|再現|凝血現象|出現|吃現成|吃現成飯|呈現|圖窮匕現|安於現狀|實現|封鎖現場|展現|平分售現|忽隱忽現|愛現|應物現形|打嘴現世|投現|撿現成|映現|曇花一現|曙光乍現|毛細現象|活現|活神活現|活靈活現|活龍活現|浮現|湊現成|湧現|犯罪現場|現下|現世|現世報|現世寶|現世現報|現世界|現今|現代主義|現代人|現代化|現代史|現代建築|現代繪畫|現代舞|現代芭蕾|現代藝術|現代詩|現任|現值|現出|現出原身|現前|現勢|現址|現場|現場節目|現大洋|現存|現實|現實主義|現弄|現形|現役|現役軍人|現成|現成話|現成飯|現時|現時報|現期|現款|現況|現洋|現狀|現現成成|現眼|現職|現行|現行法|現行犯|現象|現貨|現貨市場|現買現賣|現賣|現身|現身說法|現金|現金帳|現金救助|現金給付|現金股利|現鈔|現錢|現階段|發現|發現學習|社會現象|神氣活現|競合現象|第一現場|節目現場|聖嬰現象|自我實現|自我表現|自然現象|良心發現|若隱若現|虹吸現象|表現|表現主義|貼現|貼現率|貼現窗口|退化現象|退現|重現|重現江湖|重貼現率|針孔現象|閃現|隱現|顯現|體現}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=玉07}}
+
+# present
+# existing
+
+====Readings====
+* {{ja-readings|goon=[[げん]] (gen)|kanon=[[けん]] (ken)|kun=[[あらわれる]] (arawareru), [[あらわす]] (arawasu), [[うつつ]] (utsutsu)}}
+
+====Compounds====
+{{top2}}
+* {{ja-r|現代|げんだい}}: the present day, modern times
+* {{ja-r|現金|げんきん}}: cash
+{{mid2}}
+* {{ja-r|現在地|げんざいち}}: you are here
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[현]]|eumhun=}}
+
+# [[current]], [[present]], [[existing]]
+# [[appear]]
+
+====compounds====
+* {{l|ko|현대}}(現代) [[modern]], [[Hyundai]]
+* {{l|ko|출현}}(出現) [[appear]]
+* {{l|ko|구현}}(具現) [[realization]]
+* {{l|ko|현실}}(現實) [[reality]]
+* {{l|ko|표현}}(表現) [[description]]
+* {{l|ko|현재}}(現在) [[present]]
+* {{l|ko|현금}}(現金) [[cash]]
+* {{l|ko|현존}}(現存) [[existing]]
+* {{l|ko|현상}}(現像) [[phenomenon]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hiện]], [[hẹn]], [[kén]]|rs=玉07}}
+
+# {{defn|lang=vi|sort=玉07}}
+
+[[fr:現]]
+[[ko:現]]
+[[it:現]]
+[[hu:現]]
+[[mg:現]]
+[[ja:現]]
+[[pl:現]]
+[[fi:現]]
+[[th:現]]
+[[zh:現]]

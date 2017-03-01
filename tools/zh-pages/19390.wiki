@@ -1,0 +1,106 @@
+{{character info/new}}
+{{also|柒}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=11|sn=14|four=34132|canj=EDOE|ids=⿰氵桼}}
+
+====References====
+* {{Han ref|kx=0644.280|dkj=18108|dj=1053.050|hdz=31716.090|uh=6F06|ud=28422|bh=BAA3|bd=47779}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=溙}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qī
+|c=cat1
+|h=pfs=chhit
+|mn=qz,xm,zz:chhit/chhat
+|mn_note=chhit - literary; chhat - vernacular
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{vern|varnish tree}} ({{taxlink|Toxicodendron vernicifluum|species|noshow=1|ver=161006}})
+# [[varnish]], [[lacquer]], [[paint]]
+
+====Compounds====
+{{zh-der|漆器|油漆|如膠如漆|大漆|一團漆黑|底漆|噴漆器|如膠投漆|如膠似漆|噴漆|夜光漆|似漆如膠|吞炭漆身|填漆|建漆|亮漆|亮光漆|漆書|火漆|漆皮|歙漆阿膠|楚漆器|油漆匠|朱漆|漆匠|漆身吞炭|眼若點漆|漆桶底脫|漆皮兒|磨漆畫|洋乾漆|漆工|生漆|瓷漆|漆畫|目似點漆|烤漆|漆布|漆黑一團|漆毒疹|漆樹|漆宅|漆黑|漆器雕|水粉漆|水泥漆|柿漆|漆砂硯|陳雷膠漆|調合漆|罩漆|防水漆|黑漆一團|蟲漆|雷陳膠漆|雕漆|膠漆相投|點漆|黑漆皮燈|黑漆板凳|金漆馬桶|鬢髯如漆|膠漆相融|鬢如漆|金漆|雕花漆彩|黑漆漆|透明漆|膠漆|膠漆之情}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水11}}
+
+====Readings====
+{{ja-readings
+|goon=[[しち]] (shichi) {{non-joyo-reading}}
+|kanon=[[しつ]] (shitsu)
+|kun=[[うるし]] (urushi)
+|nanori=[[うる]] (uru)
+}}
+
+===Etymology===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Lacquer}}
+[[File:Wajimanurie.JPG|thumb|250px|{{lang|ja|漆}} (''urushi''): a traditional red '''[[lacquer]]'''ware serving set.]]
+</div>
+{{ja-kanjitab|yomi=k|うるし}}
+Appears to be derived from {{etyl|ojp|ja|sort=うるし}} root ''uru'', as in terms such as classical Japanese {{m|ja|潤う|tr=urufu}} → modern {{m|ja|潤う|tr=uruou||to be moist}}, {{m|ja|うるうる|tr=uruuru||wetly, moistly|pos=adverb}}. Probably from the way that a lacquered surface [[glisten]]s as if [[wet]].
+
+===Pronunciation===
+{{ja-pron|yomi=k|うるし|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|うるし}}
+
+# [[lacquer]], [[varnish]]
+# {{taxlink|Toxicodendron vernicifluum|species|noshow=1}}, the {{vern|lacquer tree}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=칠|eumhun=|rv=chil|mr=ch'il|y=chil}}
+
+# {{defn|lang=ko|sort=水11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tất]]|rs=水11}}
+
+# {{defn|lang=vi|sort=水11}}
+
+[[fr:漆]]
+[[ko:漆]]
+[[li:漆]]
+[[hu:漆]]
+[[mg:漆]]
+[[ja:漆]]
+[[no:漆]]
+[[pl:漆]]
+[[ru:漆]]
+[[th:漆]]
+[[chr:漆]]
+[[vi:漆]]
+[[zh:漆]]

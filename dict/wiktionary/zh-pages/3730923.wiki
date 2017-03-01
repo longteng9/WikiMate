@@ -1,0 +1,37 @@
+==Japanese==
+[[File:Kompas Sofia.JPG|thumb|right|A simple dry magnetic portable compass.]]
+{{ja-kanjitab|ら|しん|ばん|yomi=on}}
+
+===Etymology===
+Most likely from {{etyl|ltc|ja|sort=らしんばん}} compound {{m|ltc|羅針盤|tr=la *jim ban|lit=catching needle board||[magnetic] compass}}. Compare modern {{etyl|cmn|-}} traditional {{m|cmn|羅針盤}} and simplified {{m|cmn|罗针盘|tr=luózhēnpán}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|h|ら|しんばん}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[ɺ̠a̠ɕĩmbã̠ɴ]}}
+
+===Noun===
+{{ja-noun|らしんばん}}
+
+# a [[compass]], a [[mariner's compass]]
+#: Note that this term does not mean the kind of compass used to draw a circle.
+
+====Synonyms====
+* {{ja-l|羅針儀|らしんぎ|rashingi}}
+* {{ja-l|羅盤|らばん|raban}}
+* {{ja-l|コンパス||konpasu}}
+
+====See also====
+* {{pedialite|lang=ja}}
+* {{pedialite|Mariner's compass}}
+
+===References===
+<references/>
+
+[[fr:羅針盤]]
+[[ko:羅針盤]]
+[[li:羅針盤]]
+[[hu:羅針盤]]
+[[mg:羅針盤]]
+[[sv:羅針盤]]
+[[zh:羅針盤]]

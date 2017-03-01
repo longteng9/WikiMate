@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jièrù
+|c=gaai3 jap6
+|mn=zz,kh:kài-ji̍p/xm,qz,tp:kài-li̍p
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[intervene]]; to [[get]] [[involved]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|にゅう|yomi=on}}
+
+===Etymology===
+[[介]] ([[かい]], ''[[kai]]'', "[[force]] in") + [[入]] ([[にゅう]], ''[[nyū]]'', "[[enter]]")
+
+===Noun===
+{{ja-noun|かいにゅう}}
+
+# an [[intervention]]
+#: {{ja-usex|'''介入'''に踏み切った|'''かいにゅう''' に ふみきった|They moved to intervene.}}
+
+===Verb===
+{{ja-verb-suru|かいにゅう}}
+
+# [[intervene]], [[step in]] (an argument), [[edge in]] (a market)
+
+====Conjugation====
+{{ja-suru|かいにゅう}}
+
+====References====
+* {{R:Shogakukan}}
+
+[[zh-min-nan:介入]]
+[[ko:介入]]
+[[it:介入]]
+[[li:介入]]
+[[hu:介入]]
+[[zh:介入]]

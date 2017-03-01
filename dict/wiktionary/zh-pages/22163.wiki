@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|础}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=13|sn=18|four=14681|canj=MRDDO}}
+
+# foundation stone, [[plinth]]
+
+====References====
+* {{Han ref|kx=0837.290|dkj=24522|dj=1254.260|hdz=42458.130|uh=790E|ud=30990|bh=C2A6|bd=49830}}
+
+----
+
+==Chinese==
+{{zh-forms|s=础}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|石|t1=stone|楚|ls=psc|c1=s|c2=p}} – a kind of stone, a [[plinth]].
+
+===Pronunciation===
+{{zh-pron
+|m=chǔ
+|c=co2
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=石13}}
+
+# [[cornerstone]]
+
+====Readings====
+* {{ja-readings|on=[[そ]] (so), [[しょ]] (sho)|kun=[[いしずえ]] (ishizue)|nanori=}}
+
+===Noun===
+{{ja-noun|いしずえ}}
+
+# foundation stone
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=초|eumhun=|rv=cho|mr=ch'o|y=cho}}
+
+# {{defn|lang=ko|sort=石13}}
+
+[[fr:礎]]
+[[ko:礎]]
+[[lo:礎]]
+[[hu:礎]]
+[[mg:礎]]
+[[ja:礎]]
+[[pl:礎]]
+[[th:礎]]
+[[zh:礎]]

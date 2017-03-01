@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=fùzuòyòng,tl=y
+|c=fu3 zok3 jung6
+|mn=hù-chok-iōng
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[side effect]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふく|さ|よう|yomi=on}}
+
+===Etymology===
+{{prefix|副|作用|lang=ja|t1=side|t2=effect|sort=さよう}}
+
+===Noun===
+{{ja-noun|ふくさよう}}
+
+# [[side effect]]
+
+====Related terms====
+* {{ja-r|後遺症|こういしょう}}: [[aftereffect]]
+
+[[Category:ja:Medicine|ふくさよう]]
+
+[[ko:副作用]]
+[[id:副作用]]
+[[hu:副作用]]
+[[ja:副作用]]
+[[zh:副作用]]

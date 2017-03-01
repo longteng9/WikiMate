@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=08|sn=11|four=34127|canj=EKKB}}
+
+====References====
+* {{Han ref|kx=0629.070|dkj=17619|dj=1031.030|hdz=31654.010|uh=6DC6|ud=28102|bh=B263|bd=45667}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|肴|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=淆
+|c=ngaau4
+|mn=qz,xm,zz:hâu/qz:gâu/xm,zz:ngâu
+|mn_note=hâu - literary; gâu/ngâu - vernacular (俗)
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[confused]]; in [[disarray]]; [[mixed up]]
+
+====Compounds====
+{{zh-der|淆亂|淆惑|淆紊|淆雜|混淆|混淆不清|混淆是非|混淆視聽|混淆黑白|玉石混淆|良莠淆雜|黑白混淆}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水08}}
+
+# {{defn|lang=ja|sort=水08}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[まじる]] (majiru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=효|eumhun=|rv=hyo|mr=hyo|y=hyo}}
+
+# {{defn|lang=ko|sort=水08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''淆''' ([[hào]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:淆]]
+[[hu:淆]]
+[[mg:淆]]
+[[ja:淆]]
+[[no:淆]]
+[[pl:淆]]
+[[th:淆]]
+[[zh:淆]]

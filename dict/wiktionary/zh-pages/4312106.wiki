@@ -1,0 +1,49 @@
+{{also|通译}}
+==Chinese==
+{{zh-forms|s=通译}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=tōngyì
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|dated}} to [[translate]], to [[interpret]]
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|dated}} [[translator]], [[interpreter]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|つう|やく|yomi=o}}
+
+===Pronunciation===
+* [[音読み|On'yomi]]
+* {{IPA|lang=ja|/t͡su.u.ja.ku/|[t͡sɯᵝːjäkɯᵝ]}}
+
+===Noun===
+{{ja-noun|つうやく|shin=通訳}}
+
+# [[interpreting]], [[interpretation]]: the [[facilitation]] of [[spoken]] [[conversation]] between two or more parties that do not all speak a [[common]] [[language]]
+# an [[interpreter]]: someone who [[interpret]]s [[speech]] in the language of the speaker into the language of the listener
+
+===Verb===
+{{ja-verb-suru|つうやく|shin=通訳}}
+
+# to [[interpret]]: to listen to [[speech]] in one language and then [[convey]] the meaning of that speech in the language of the listener
+
+====Conjugation====
+{{ja-suru|つうやく}}
+
+[[zh-min-nan:通譯]]
+[[ko:通譯]]
+[[mg:通譯]]

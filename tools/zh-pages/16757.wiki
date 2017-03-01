@@ -1,0 +1,86 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=66|rad=攴|as=07|sn=11|four=48140|canj=IEOK|ids=⿰求攵}}
+
+# [[save]], [[rescue]], [[relieve]]
+# [[help]], [[aid]]
+
+====References====
+* {{Han ref|kx=0471.090|dkj=13221|dj=0823.090|hdz=21460.010|uh=6551|ud=25937|bh=B1CF|bd=45519}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiù
+|c=gau3
+|h=pfs=kiu
+|md=
+|mn=kiù
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[save]]; to [[rescue]]; to [[help]]
+
+====Derived terms====
+* {{zh-l|救命}}
+* {{zh-l|救人}}
+* {{zh-l|救護}}
+* {{zh-l|救生}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=攴07}}
+
+# {{defn|lang=ja|sort=攴07}}
+
+====Readings====
+* {{ja-readings|goon=[[く]] (ku)|kanon=[[きゅう]] (kyū)|kun=[[すくう]] (sukuu), [[すくい]] (sukui)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=|rv=gu|mr=ku|y=kwu}}
+
+# {{defn|lang=ko|sort=攴07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|cứu|rs=攴07}}
+
+# Chữ Nôm character for ʽcứuʼ. [[help]].
+
+[[zh-min-nan:救]]
+[[fr:救]]
+[[ko:救]]
+[[li:救]]
+[[hu:救]]
+[[mg:救]]
+[[ja:救]]
+[[no:救]]
+[[pl:救]]
+[[th:救]]
+[[chr:救]]
+[[zh:救]]

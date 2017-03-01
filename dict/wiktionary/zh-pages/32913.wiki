@@ -1,0 +1,104 @@
+{{character info/new}}
+{{also|卤|滷|歯}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+{{Han etyl}}
+{{liushu|p}} – a bag of salt. Compare [[西]].
+
+===Han character===
+{{Han char|rn=197|rad=鹵|as=00|sn=11|four=21600|canj=YWII|ids=⿴占𠂭}}
+
+# [[saline]] [[soil]]
+# [[natural]] [[salt]], [[rock]]
+# {{mul-kangxi radical-def}}
+
+====Derived characters====
+* [[Index:Chinese radical/鹵]]
+* [[滷]], [[𢲸]], [[𣤓]], [[𣰹]], [[𤂈]]
+
+====Descendants====
+* [[卤]]
+
+====References====
+* {{Han ref|kx=1507.010|dkj=47528|dj=2035.010|hdz=74609.010|uh=9E75|ud=40565|bh=B3BF|bd=46015}}
+
+----
+
+==Chinese==
+{{zh-forms|s=卤}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=lǔ
+|c=lou5
+|h=pfs=lû
+|mn=ló͘/lō͘
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|鹵水|鹵化|鹵莽|鹵素|鹵族|三鹵甲烷|光鹵石|磧鹵|流血漂鹵|潟鹵|澤鹵|斥鹵|鹵莽滅裂|莽鹵|鹵化物|鹵鈍|粗鹵|鹵化銀|鹵素燈|鹵地|鹵人|鹵簿|頑鹵|舄鹵}}
+
+===Etymology 2===
+{{zh-see|滷|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鹵00}}
+
+# [[salt]]
+
+====Readings====
+{{ja-readings|goon=[[る]] (ru)|kanon=[[ろ]] (ro)|kun=[[しお]] (shio), [[しおち]] (shiochi), [[たて]] (tate)}}
+
+====Compounds====
+* {{ja-r|粗鹵|そろ}}, {{ja-r|疎鹵|そろ}}, {{ja-r|麁鹵|そろ}}
+* {{ja-r|鹵獲|ろかく}}
+* {{ja-r|鹵石|ろせき}}
+* {{ja-r|鹵簿|ろぼ|[[imperial]] [[procession]]}}
+* {{ja-r|鹵莽|ろもう}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[로]]>[[노]]|eumhun=|rv=ro>no|mr=ro>no|y=lo>no}}
+
+# {{defn|lang=ko|sort=鹵00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lỗ]]|rs=鹵00}}
+
+# {{defn|lang=vi|sort=鹵00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:鹵]]
+[[ko:鹵]]
+[[lt:鹵]]
+[[hu:鹵]]
+[[ja:鹵]]
+[[pl:鹵]]
+[[ru:鹵]]
+[[th:鹵]]
+[[zh:鹵]]

@@ -1,0 +1,60 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuòwén,er=y
+|c=zok3 man4-2
+|mn=chok-bûn
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[essay]]; [[composition]]
+
+===Verb===
+{{zh-verb}}
+
+# to write an [[essay]] or [[composition]]
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|さく|ぶん|yomi=on}}
+
+===Noun===
+{{ja-noun|さくぶん}}
+
+# [[writing]], [[essay]], [[composition]]
+#: {{ja-usex|'''作文'''を書く|'''さくぶん''' を かく|to write an ''essay''}}
+#: {{ja-usex|'''作文'''の題|'''さくぶん''' の だい|the subject of a '''composition'''}}
+
+====Derived terms====
+* {{l|ja|英作文}}
+* {{l|ja|自由作文}}
+
+===Verb===
+{{ja-verb-suru|さくぶん}}
+
+# [[write]] a composition
+
+====Conjugation====
+{{ja-suru|さくぶん}}
+
+===References===
+* {{R:OxfordJapanese}}
+
+[[zh-min-nan:作文]]
+[[ko:作文]]
+[[lt:作文]]
+[[hu:作文]]
+[[mg:作文]]
+[[ja:作文]]
+[[pt:作文]]
+[[uk:作文]]
+[[zh:作文]]

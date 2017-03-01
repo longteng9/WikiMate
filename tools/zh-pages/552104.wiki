@@ -1,0 +1,56 @@
+==Chinese==
+{{zh-forms|lit=proper style}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhèngshì
+|c=zing3 sik1
+|h=pfs=chṳn-sṳt
+|mn=qz:chèng-siak/tw,xm:chèng-sek/zz:chèng-sit
+|ma=y
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[official]]
+#: {{zh-x|正式 報告|'''official''' report}}
+# [[formal]]
+#: {{zh-x|這 個 單詞 很 正式。|This word is very '''formal'''.}}
+# [[real]]; [[substantial]]
+#: {{zh-x|一 份 正式 的 工作|a '''real''' job}}
+
+====Antonyms====
+* {{zh-l|非正式}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|正|式}}
+
+===Adjectival noun===
+{{ja-adj|せいしき|decl=な}}
+
+# [[formal]], [[official]]
+
+====Inflection====
+{{ja-na|正式|せいしき|seishiki}}
+
+===Noun===
+{{ja-noun|せいしき}}
+
+# [[formality]]
+
+[[Category:Japanese basic words|せいしき]]
+
+[[zh-min-nan:正式]]
+[[ko:正式]]
+[[hu:正式]]
+[[mg:正式]]
+[[ja:正式]]
+[[chr:正式]]
+[[uk:正式]]
+[[zh:正式]]

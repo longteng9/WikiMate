@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=37|rad=大|as=05|sn=8|four=40716|canj=KLWU|ids=⿱大电}}
+
+====References====
+* {{Han ref|kx=0250.210|dkj=05881|dj=0510.080|hdz=10534.030|uh=5944|ud=22852|bh=A961|bd=43361}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǎn,yān
+|c=jim1,jim2
+|mn=qz,xm,zz:iám/tw:am
+|mn_note=iam - unknown dialect
+|mc=y
+|oc=y
+|ma=
+|cat=a,v,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[before long]], [[soon]], [[erelong]]
+# [[remain]], [[tarry]]
+# [[feeble]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=大05}}
+
+# {{defn|lang=ja|sort=大05}}
+
+====Readings====
+* {{ja-readings|on=[[えん]] (en)|kun=[[おおう]] (oou), [[たちまち]] (tachimachi)|nanori=[[あま]] (ama)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=엄|rv=eom|mr=ŏm}}
+
+# {{defn|lang=ko|sort=大05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|ăm|rs=大05}}
+
+# {{defn|lang=vi|sort=大05}}
+
+[[fr:奄]]
+[[li:奄]]
+[[hu:奄]]
+[[mg:奄]]
+[[ja:奄]]
+[[pl:奄]]
+[[th:奄]]
+[[vi:奄]]
+[[zh:奄]]

@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|纤}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=11|sn=17|four=20953|canj=VFYVQ}}
+
+# tow line
+
+====References====
+* {{Han ref|kx=0936.050|dkj=27827|dj=1375.030|hdz=53448.040|uh=7E34|ud=32308|bh=C164|bd=49508}}
+
+----
+
+==Chinese==
+{{zh-forms|s=纤}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiān
+|c=hin1,hin3
+|mn=khian
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|內縴|扯篷拉縴|扯縴|拉縴|縴夫|縴戶|縴手|跎縴}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=糸11}}
+
+# {{defn|lang=ja|sort=糸11}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken)|kun=[[わた]] (wata)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=견|eumhun=|rv=gyeon|mr=kyŏn|y=kyen}}
+
+# {{defn|lang=ko|sort=糸11}}
+
+[[fr:縴]]
+[[hu:縴]]
+[[pl:縴]]
+[[th:縴]]
+[[zh:縴]]

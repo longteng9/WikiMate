@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|晔|曅}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=10|sn=14|four=64054|canj=ATMJ|ids=⿰日華}}
+
+# [[bright]]
+# [[radiant]]
+# [[thriving]]
+
+====References====
+* {{Han ref|kx=0500.080|dkj=14169|dj=0870.060|hdz=21528.070|uh=66C4|ud=26308|bh=BEE7|bd=48871}}
+
+----
+
+==Chinese==
+{{zh-forms|s=晔}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yè
+|c=jip6
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日10}}
+
+# {{defn|lang=ja|sort=日10}}
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō)|kun=[[かがやく]] (kagayaku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=엽|eumhun=|rv=yeop|mr=yŏp|y=yep}}
+
+# {{defn|lang=ko|sort=日10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[diệp]]|rs=日10}}
+
+# {{defn|lang=vi|sort=日10}}
+
+[[fr:曄]]
+[[hu:曄]]
+[[ja:曄]]
+[[pl:曄]]
+[[th:曄]]
+[[zh:曄]]

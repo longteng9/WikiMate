@@ -1,0 +1,21 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=chāowénjiàn
+|c=ciu1 man4 gin6-2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[hypertext]]
+
+====Synonyms====
+* {{zh-l|超文本}}
+
+{{zh-cat|Computing}}
+
+[[zh:超文件]]

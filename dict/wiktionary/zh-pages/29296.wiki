@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|钙}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=04|sn=12|four=81127|canj=CMYS|ids=⿰金丐}}
+
+====References====
+* {{Han ref|kx=1299.191|dkj=40254|hdz=64174.060|uh=9223|ud=37411|bh=B674|bd=46708}}
+
+----
+
+==Chinese==
+{{zh-forms|s=钙}}
+
+===Pronunciation===
+{{zh-pron
+|m=gài
+|c=koi3
+|h=pfs=
+|md=
+|mn=kài
+|w=2ke
+|ma=y
+|mc=
+|oc=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[calcium]] (Ca)
+
+====Compounds====
+{{zh-der|氧化鈣|氯化鈣|硫酸鈣|碳酸鈣|磷酸鈣|鈣化作用|鈣片|鈣質}}
+
+{{zh-cat|Chemical elements}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金04}}
+
+# {{defn|lang=ja|sort=金04}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai)|kun=[[かるしうむ]] (karushiumu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=개|eumhun=|mr=kae|y=kay}}
+
+# {{defn|lang=ko|sort=金04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cái]]|rs=金04}}
+
+# {{defn|lang=vi|sort=金04}}
+
+[[fr:鈣]]
+[[ko:鈣]]
+[[lt:鈣]]
+[[hu:鈣]]
+[[mg:鈣]]
+[[ja:鈣]]
+[[pl:鈣]]
+[[th:鈣]]
+[[zh:鈣]]

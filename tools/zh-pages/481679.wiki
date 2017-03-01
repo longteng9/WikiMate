@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=hùntóng
+|c=wan6 tung4
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[confuse]]; to [[mix]] up
+
+----
+
+==Japanese==
+{{ja-kanjitab|こん|どう|yomi=on}}
+
+===Noun===
+{{ja-noun|こんどう}}
+
+# [[confusion]], [[mixing up]]
+
+====Synonyms====
+* {{l|ja|ごちゃ混ぜ}}
+
+====Antonyms====
+* {{l|ja|区別}}
+
+===Verb===
+{{ja-verb-suru|こんどう}}
+
+# [[confuse]] with, [[mix up]] with
+
+====Conjugation====
+{{ja-suru|こんどう}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:混同]]
+[[it:混同]]
+[[hu:混同]]
+[[mg:混同]]
+[[ja:混同]]
+[[chr:混同]]
+[[zh:混同]]

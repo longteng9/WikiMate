@@ -1,0 +1,61 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=xínglǐ,tl=y
+|c=hang4 lei5
+|h=pfs=n:hàng-lí/n:hèn-lí
+|mn=hêng-lí
+|mn-t=hêng5 li2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[luggage]]; [[baggage]]
+#: {{zh-x|行李 傳送帶|[[baggage carousel|'''baggage''' carousel]]}}
+#: {{zh-x|請 把 他 的 行李{li} 拿 回家。|Please take his '''luggage''' back home.}}
+
+====Derived terms====
+{{zh-der|行李車|行李袋|行李房|行李捲兒|行李箱}}
+
+===References===
+* {{R:nan:Duffus 1883|baggage|16}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|り|yomi=o}}
+
+===Noun===
+{{ja-noun|こうり}}
+
+# [[wicker]] trunk
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu|pos=noun}}
+
+# {{han tu form of|hành lí|[[luggage]]; [[baggage]]}}
+
+[[zh-min-nan:行李]]
+[[ko:行李]]
+[[lt:行李]]
+[[hu:行李]]
+[[mg:行李]]
+[[fj:行李]]
+[[ja:行李]]
+[[chr:行李]]
+[[uk:行李]]
+[[zh:行李]]

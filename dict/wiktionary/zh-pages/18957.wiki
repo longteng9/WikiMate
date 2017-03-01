@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=07|sn=10|four=33127|canj=EIJB}}
+
+====References====
+* {{Han ref|kx=0624.110|dkj=17475|dj=1021.250|hdz=31619.120|uh=6D66|ud=28006|bh=AEFA|bd=44794}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=pǔ
+|c=pou4,pou2
+|h=pfs=
+|md=
+|mn=phó͘/tw:pó͘
+|w=
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[riverbank]]; [[shore]]
+# {{surname|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水07}}
+
+# {{defn|lang=ja|sort=水07}}
+
+====Readings====
+* {{ja-readings|goon=[[ふ]] (fu)|kanon=[[ほ]] (ho)|kun=[[うら]] (ura)|nanori=[[ら]] (ra)}}
+
+===Proper noun===
+{{ja-pos|うら|proper}}
+
+# {{surname|lang=ja|sort=うら}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[포]]|eumhun=|rv=po|mr=p'o|y=pho}}
+
+# {{defn|lang=ko|sort=水07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phổ]], [[phố]]|rs=水07}}
+
+# {{defn|lang=vi|sort=水07}}
+
+[[da:浦]]
+[[fr:浦]]
+[[ko:浦]]
+[[hu:浦]]
+[[mg:浦]]
+[[ja:浦]]
+[[no:浦]]
+[[pl:浦]]
+[[ru:浦]]
+[[th:浦]]
+[[zh:浦]]

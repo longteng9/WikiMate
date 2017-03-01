@@ -1,0 +1,87 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=06|sn=8|four=72200|canj=SBLN|ids=⿰𡰯刂}}
+
+====References====
+* {{Han ref|kx=0139.090|dkj=01964|dj=0316.010|hdz=10337.050|uh=5237|ud=21047|bh=A8EA|bd=43242}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shuā
+|c=caat3,saat3,caat3-2
+|c-t=cat1,cat1-4*
+|h=pfs=sot
+|md=
+|mn=soat/qz:serh/tw,xm,zz:seh/soa
+|mn_note=soat - literary; serh/seh - vernacular; soa - vernacular (俗)
+|w=4seq
+|mc=y
+|oc=y
+|cat=v,n
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[brush]]; to [[clean]] or [[paint]] with [[brush]]
+# [[brush]] {{gloss|tool}}
+# to [[scrub]]
+# {{lb|zh|colloquial}} to [[eliminate]]
+
+===Compounds===
+{{zh-der|兩把刷子|凸版印刷|凹版印刷|刷刷|刷卡|刷印|刷卷|刷子|刷恥|刷扮|刷拉|刷括|刷新|刷洗|刷照|刷牙|刷白|刷選|剔抽禿刷|剗刷|印刷|印刷品|印刷廠|印刷機|印刷術|印刷電路|印刷體|塗刷|孔版印刷|審囚刷卷|平版印刷|拘刷|括刷|振刷|敦蹄刷腳|木版印刷|板刷|根刷|水刷石|沖刷|洗刷|海綿刷|溜刷|牙刷|瓶刷子樹|眉刷|眼禿刷|石版印刷|立體印刷|粉刷|糊刷|膠版印刷|鋼絲刷|閉眉刷眼|雕版印刷|雨刷|鞋刷}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=刀06}}
+
+# {{defn|lang=ja|sort=刀06}}
+
+====Readings====
+* {{ja-readings|goon=[[せち]] (sechi) {{non-joyo-reading}}|kanon=[[さつ]] (satsu)|kun=[[する]] (suru), [[はく]] (haku), [[はけ]] (hake)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=쇄|mr=swae|y=sway}}
+
+# {{defn|lang=ko|sort=刀06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xoát]], [[loát]], [[loạt]], [[loét]], [[nhoét]], [[soát]]|rs=刀06}}
+
+# {{defn|lang=vi}}
+
+[[fr:刷]]
+[[ko:刷]]
+[[hu:刷]]
+[[mg:刷]]
+[[ja:刷]]
+[[no:刷]]
+[[pl:刷]]
+[[th:刷]]
+[[chr:刷]]
+[[vi:刷]]
+[[zh:刷]]

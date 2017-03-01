@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=chóngzòu
+|mn=têng-chàu
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|music}} an ensemble of two or more musicians, each playing a separate part
+
+[[Category:zh:Music|chong2zou4]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|じゅう|そう|yomi=on}}
+
+===Noun===
+{{ja-noun|じゅうそう}}
+
+# {{l|en|ensemble|id=a group of musicians, dancers etc who perform together; the chorus of a ballet company}}
+
+====Compounds====
+* {{l/ja|二重奏}}
+* {{l/ja|三重奏}}
+* {{l/ja|四重奏}}
+* {{l/ja|五重奏}}
+* {{l/ja|六重奏}}
+
+===Verb===
+{{ja-verb-suru|じゅうそう}}
+
+# play in an ensemble
+
+====Conjugation====
+{{ja-suru|じゅうそう}}
+
+[[hu:重奏]]
+[[zh:重奏]]

@@ -1,0 +1,53 @@
+{{also|颚骨}}
+==Chinese==
+{{zh-forms|s=颚骨}}
+
+===Pronunciation===
+{{zh-pron
+|m=ègǔ
+|c=ngok6 gwat1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{zh-alt-name|頜骨|[[jawbone]]}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|がく|こつ|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|がくこつ|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|がくこつ}}
+
+# [[jawbone]]
+
+=====Hyponyms=====
+* {{ja-r|下顎骨|かがくこつ}}
+* {{ja-r|上顎骨|じょうがくこつ}}
+
+===Etymology 2===
+{{ja-kanjitab|がく|こつ|k1=がっ|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|がっこつ|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|がっこつ|hhira=がくこつ}}
+
+# [[jawbone]]
+
+===References===
+<references/>
+
+[[Category:ja:Skeleton|かくこつ']]
+
+[[hu:顎骨]]

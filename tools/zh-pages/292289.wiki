@@ -1,0 +1,54 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tiānwén
+|c=tin1 man4
+|h=pfs=thiên-vùn
+|ma=Zh-tianwén.ogg
+|md=tiĕng-ùng
+|mn=thian-bûn
+|w=1thi ven
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[astronomy]]
+# {{lb|zh|literary}} [[celestial]] [[objects]] ([[star]]s, [[moon]] etc.); the [[heavens]]
+
+====Derived terms====
+{{zh-der|天文學/天文学}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てん|もん|yomi=o}}
+
+===Noun===
+{{ja-noun|てんもん}}
+
+# {{lb|ja|colloquial|sort=てんもん}} [[astronomy]]
+
+====Synonyms====
+* [[天文学]]
+
+====Compounds====
+* [[天文台]] ([[てんもんだい]], tenmondai): astronomical observatory
+
+[[Category:ja:Astronomy|てんもん]]
+
+[[zh-min-nan:天文]]
+[[fr:天文]]
+[[ko:天文]]
+[[lo:天文]]
+[[li:天文]]
+[[hu:天文]]
+[[nl:天文]]
+[[ja:天文]]
+[[uk:天文]]
+[[zh:天文]]

@@ -1,0 +1,52 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|いち|k1=いっ|すん|yomi=o}}
+From {{etyl|ltc|ja|sort=いっすん}} compound {{m|zh|一寸|tr=yit tshwon<sup>H</sup>|lit=one thumb, one inch}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|いっすん|acc=3|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|いっすん}}
+
+# one ''sun'': a unit of length equivalent to a tenth of a {{m|ja|尺|tr=shaku|pos=traditional Japanese foot as a unit of length}}, or approximately 3.03 centimeters
+# a short amount of time, distance, or mass
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|一寸先|いっすん さき}}: just a little bit ahead, just a moment in the future
+{{der-bottom}}
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|一寸先は闇|いっすん さき は やみ}}: “just a moment in the future is darkness” → the future is unknowable
+* {{ja-r|一寸の光陰軽んずべからず|いっすん の こういん かろんず べからず}}: “a moment of light and dark should not be taken lightly” → every moment is precious
+* {{ja-r|一寸の虫にも五分の魂|いっすん の むし に も ごぶ の たましい}}: “even a bug only an inch long is half [full of] soul” → even the smallest is worthy of respect
+* {{ja-r|一寸下は地獄|いっすん した は じごく}}: “an inch below is hell” → an allusion to the dangers of being on a boat, where only an inch of wood is between oneself and the deep ocean
+* {{ja-r|一寸延びれば尋延びる|いっすん の びれば ひろ のびる}}: “if it'll stretch an inch, it'll stretch for six feet” → if one can just get past the hardest part, the rest is relatively easy
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr}}
+From {{m|ja|ちっと|tr=chitto}}, itself a [[geminate]]d [[emphatic]] form of {{etyl|ojp|ja|sort=ちょっと}} {{m|ja|ちと|tr=chito}}, originally composed of {{m|ja|ち|tr=chi||small|pos=not used in isolation; cognate with the ''chi'' in {{m|ja|小さい}} ''chīsai''}} + {{m|ja|と|tr=to|pos=adverbial particle}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=irr|ちょっと|acc=1|acc_ref=DJR||acc2=0|acc2_ref=DJR}}
+
+====Adverb====
+{{ja-pos|adverb|ちょっと}}
+
+# [[slightly]], [[a little]], [[a bit]]
+# {{n-g|an indirect expression of refusal}}
+
+=====Usage notes=====
+Usually spelled in [[hiragana]], as {{m|ja|ちょっと}}.
+
+===References===
+<references/>
+
+[[Category:ja:Units of measure|いっすん]]
+
+[[ja:一寸]]
+[[zh:一寸]]

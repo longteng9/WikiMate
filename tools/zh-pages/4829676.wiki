@@ -1,0 +1,95 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǔshǔ
+|c=suk6 syu2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[sorghum]]
+
+====Synonyms====
+* {{zh-l|高粱}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|sort=もろこしきび}}
+Compound of {{compound|lang=ja|sort=もろこしきび|唐|tr1=morokoshi|t1=China in general; {{qualifier|by extension}} foreign|黍|tr2=kibi|t2=millet}}.
+
+The spelling is from {{etyl|zh|-}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> See ''shokusho'' below.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|もろこし きび|acc=5}}
+
+====Alternative forms====
+* {{ja-l|唐黍}}
+
+====Noun====
+{{ja-noun|もろこし きび}}
+
+# [[sorghum]]
+
+=====Usage notes=====
+The longer term ''morokoshi kibi'' has been largely replaced by the shorter form ''morokoshi'' below.
+
+=====Synonyms=====
+* {{ja-r|蜀黍|もろこし}}, {{ja-r|唐黍|もろこし}}
+* {{ja-r|唐黍|とうきび}}
+* {{ja-r|高黍|たかきび}}
+
+===Etymology 2===
+<div style="float:right;">
+{{wikipedia|lang=ja|モロコシ|蜀黍}}
+{{wikipedia|Sorghum bicolor}}
+[[File:Sorghum.jpg|thumb|250px|{{lang|ja|蜀黍}} (''morokoshi kibi'', ''morokoshi'', ''shokusho''): '''[[sorghum]]'''.]]
+</div>
+{{ja-kanjitab|yomi=irr|sort=もろこし}}
+Abbreviation of ''morokoshi kibi'' above, with the abbreviated reading then re-applied to the entire kanji compound.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=irr|もろこし|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|唐黍}}
+
+====Noun====
+{{ja-noun|もろこし}}
+
+# [[sorghum]]
+# [[maize]], [[corn]] {{qualifier|especially [[corn on the cob]]}}
+
+=====Synonyms=====
+* {{sense|sorghum}} {{ja-r|蜀黍|もろこし}}, {{ja-r|唐黍|もろこし}}, {{ja-r|唐黍|とうきび}}, {{ja-r|高黍|たかきび}}
+* {{sense|maize}} {{ja-r|玉蜀黍|とうもろこし}}, {{ja-r|唐黍|とうきび}}
+
+=====Usage notes=====
+The term {{m|ja|玉蜀黍|tr=tōmorokoshi}} is more common for the {{m|en|maize}} sense.
+
+===Etymology 3===
+{{ja-kanjitab|yomi=o|しょく|しょ}}
+From {{etyl|ltc|ja|sort=しょくしょ}} compound {{m|zh|蜀黍|tr=dzyowk syo<sup>X</sup>|lit=Shu (old place name) + millet}}. The ancient [[w:Shu (state)|state of Shu]] is roughly analogous to modern [[w:Sichuan|Sichuan]] province.
+
+This reading appears to be rare, and may be obsolete.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|しょくしょ}}
+
+====Noun====
+{{ja-noun|しょくしょ}}
+
+# {{lb|ja|sort=しょくしょ|rare|possibly|_|obsolete}} [[sorghum]]
+
+===References===
+<references/>
+
+[[fr:蜀黍]]
+[[mg:蜀黍]]
+[[zh:蜀黍]]

@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms|s=宫崎}}
+
+===Etymology===
+{{borrowing|zh|ja|宮崎|tr=Miyazaki}}
+
+===Pronunciation===
+{{zh-pron
+|m=Gōngqí
+|c=gung1 kei4
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-propn}}
+
+# [[Miyazaki]], [[Japan]]
+
+{{zh-cat|Cities|Japan}}
+----
+
+==Japanese==
+{{ja-kanjitab|みや|さき|yomi=k}}
+{{ja-kanjitab|みや|さき|k2=ざき|yomi=k|r=y}}
+{{wikipedia|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|みやざき|y=k|acc=2|acc_ref=NHK}}
+
+===Proper noun===
+{{ja-pos|みやざき|proper|みやさき}}
+
+# a [[place name]], such as that of [[Miyazaki]] Prefecture or Miyazaki City
+# {{surname|lang=ja|sort=みやさき}}
+
+===References===
+<references/>
+
+{{topics|ja|Cities|Japan|sort=みやさき}}
+
+[[fr:宮崎]]
+[[la:宮崎]]

@@ -1,0 +1,103 @@
+{{character info/new}}
+==Translingual==
+
+===Alternative forms===
+Note that there are two Unicode z-variants, with code points U+52A3 and U+F99D.
+
+===Han character===
+{{Han char|rn=19|rad=力|as=04|sn=6|four=90427|canj=FHKS|ids=⿱少力}}
+
+====References====
+* {{Han ref|kx=0146.170|dkj=02302|dj=0330.060|hdz=10367.050|uh=52A3|ud=21155|bh=A648|bd=42568}}
+* {{Han ref|uh=F99D}}
+* [http://www.zhongwen.com/d/166/x72.htm Zhongwen: 劣]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|少|t1=little, less|力|t2=strength|ls=ic}}. 少 also functions as phonetic.
+
+===Pronunciation===
+{{zh-pron
+|m=liè
+|c=lyut3
+|mc=y
+|oc=y
+|ma=Zh-liè.ogg
+|cat=a,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[bad]], [[poor]], [[inferior]]
+# [[slightly]]
+
+====Antonyms====
+* {{l|zh|優}}
+
+====Compounds====
+* [[惡劣]]
+* [[低劣]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=力04}}
+
+====Definitions====
+# [[bad]], [[poor]], [[inferior]]
+
+* Antonyms : [[優]]
+
+====Readings====
+* {{ja-readings|on=[[れつ]] (retsu)|kun=[[おとる]] (otoru)}}
+
+====Compounds====
+* [[劣悪]]
+* [[劣位]]
+* [[劣後]]
+* [[劣等]]
+* [[愚劣]]
+* [[下劣]]
+* [[拙劣]]
+* [[卑劣]]
+* [[優劣]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=렬|rv=ryeol|mr=ryŏl}}
+
+# {{defn|lang=ko|sort=力04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=力04|hanviet=[[liệt]], [[lẹt]]}}
+
+# {{defn|lang=vi|sort=力04}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:劣]]
+[[ko:劣]]
+[[hu:劣]]
+[[mg:劣]]
+[[ms:劣]]
+[[ja:劣]]
+[[no:劣]]
+[[pl:劣]]
+[[th:劣]]
+[[vi:劣]]
+[[zh:劣]]

@@ -1,0 +1,209 @@
+{{character info/new}}
+{{also|万}}
+==Translingual==
+{{stroke order|[[File:方-orderPRC.gif|100px]]}}
+{{stroke order|type=tbw|strokes=4}}
+{{stroke order|type=tanimate}}
+
+===Han character===
+{{Han char|rn=70|rad=方|as=00|sn=4|four=00227|canj=YHS|ids=⿱丶万}}
+#{{mul-kangxi radical-def}}
+====Derived characters====
+* [[Index:Chinese radical/方]]
+* [[坊]] [[防]] [[妨]] [[肪]] [[芳]] [[房]] [[放]] [[訪]]
+
+====See also====
+* {{l|mul|敫}}
+
+====References====
+* {{Han ref|kx=0481.030|dkj=13620|dj=0842.050|hdz=32172.010|uh=65B9}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|i}} – the hilt. As in {{lang|zh|方}} itself, {{och-l|放}} and {{och-l|旁}}. Compare {{zh-l|*刀}}.
+
+It is unrelated to {{och-l|㫃|fluttering flag}}, from which characters like {{och-l|旗|flag}} and {{och-l|旅|troops}} are derived.
+
+===Pronunciation===
+{{zh-pron
+|m=fāng
+|c=fong1
+|h=pfs=fong
+|md=huŏng
+|mn=hng/png/hong
+|mn_note=hng, png - vernacular, hong - literary
+|w=1faan
+|mc=y
+|oc=y
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[square]]; [[rectangle]]
+# [[aspect]]; [[side]]
+# [[place]]; [[region]]
+# [[method]]; [[way]]
+# [[prescription]]
+# {{lb|zh|math}} [[power]]
+#* {{zh-x|2 的 3 次方 是 8。|2 to the 3rd '''power''' is 8.}}
+# [[aspect]]; [[side]]
+#: {{zh-x|方面|[[aspect]]; [[side]]}}
+# [[region]]
+# {{lb|zh|literary}} [[just]] [[now]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|方向|魔方|地方|方法|方響|一方|一方面|七方|三次方|上方|下方|不方|不方便|丹方|乘方|九方|九方皋|五方|五方佛|他方|他方說|付方|仙方|何方|侯方域|借方|偏方|偶方|全方位|八方|公方|前方|勞方|北方|北方人|北方話|十方|半官方|南方|反方向|古方|右方|吃十方|同方|周方|單方|單方面|四方|四方步|土方|地方上|地方官|地方志|地方戲|地方稅|坍方|塌方|填方|外方|多方|大後方|大方|大方向|大方家|天方|天方教|妙方|孔方|孔方兄|官方|寶方|對方|小地方|尚方|局方|左方|己方|平方|平方根|後方|成方兒|我方|戒方|挖方|收方|敵方|斗方|新方言|方丈|方且|方人|方今|方伯|方位|方位詞|方何礙|方便|方便麵|方俗|方信道|方兒|方內|方冊|方几|方劑|方勝|方名|方向燈|方向盤|方向舵|方命|方單|方國|方圓|方土|方城|方堙|方塊|方塊字|方塊舞|方士|方壺|方夏|方外|方外人|方天戟|方子|方字|方孝孺|方家|方寸|方將|方尖塔|方岳|方嶽|方州|方巾|方巾氣|方幅|方式|方弼|方彝|方形|方心|方志|方情|方才|方技|方技略|方明|方書|方會|方根|方格|方格紙|方框|方框圖|方案|方桌|方正|方步|方比|方照|方牧|方物|方略|方相|方相氏|方知|方磚|方礙|方程|方程式|方筆|方策|方糖|方纔|方罫|方聞|方舞|方舟|方苞|方蓬|方藥|方行|方術|方解石|方言|方言學|方言志|方軌|方軒|方輦|方輿|方近|方連|方里|方針|方鉛礦|方鍼|方鎮|方關|方陣|方隅|方面|方面官|方音|方頭|方駕|方鼎|春方|時方|有方|朔方|李方桂|東北方|東南方|東方|東方人|東方熱|東方騎|校方|檢方|正方|正方形|正方體|殊方|比方|比方說|滓方|漢藥方|炎方|無方|生地方|男方|界方|畢方|異方|療方|百方|知方|石方|祕方|禁方|萬方|秋方|立方|立方根|立方體|端方|經方|義方|老地方|老方子|聖惠方|職方|肘後方|良方|蔣方震|藥方|處方|處方箋|複方|西方|見方|說方便|買方|貸方|資方|賣方|走方|跑五方|踱方步|遊方|遐方|遠方|邁方步|邊方|鄉方|配方|醫方|長方|長方形|長方體|開平方|開方|開立方|開藥方|陟方|雙方|零方案|驗方|鬼方}}
+
+{{zh-cat|Elementary|Intermediate}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=方00}}
+
+# [[direction]]
+# [[person]]
+# [[alternative]]
+
+====Readings====
+{{ja-readings|goon=[[ほう]] (hō) > [[はう]] (hau)|kanon=[[ほう]] (hō) > [[はう]] (hau)|kun=[[かた]] (kata), [[ならべる]] (naraberu), [[くらべる]] (kuraberu)}}
+
+====Compounds====
+{{der-top}}
+* {{ja-r|方正|ほうせい}}
+* {{ja-r|方響|ほうきょう}}: hōkyō, an instrument similar to the Chinese [[w:fangxiang|fangxiang]]
+* {{ja-r|方形|ほうけい}}
+* {{ja-r|方磬|ほうけい}}: hōkyō, an instrument similar to the Chinese [[w:fangxiang|fangxiang]]
+* {{ja-r|方式|ほうしき}}
+* {{ja-r|方術|ほうじゅつ}}
+* {{ja-r|方法|ほうほう}}: [[way]], [[method]], [[manner]]
+* {{ja-r|方面|ほうめん}}
+* {{ja-r|方針|ほうしん}}
+* {{ja-r|夕方|ゆうがた}}
+* {{ja-r|味方|みかた}}
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|ほう|yomi=o}}
+From {{etyl|ltc|ja|sort=ほう}} {{m|zh|方|tr=pjang}}.
+
+====Pronunciation====
+{{ja-pron|yomi=o|ほう|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|ほう|hhira=はう}}
+
+# [[direction]], [[way]], [[side]]
+# [[moreso]] ''(preceded by ''～の'', often followed by ''～が'')''
+#: {{ja-usex|この時計の'''方'''がそのより高いです。|この とけい の '''ほう''' が その より たかい です。|This watch is '''more''' expensive than that [one].}}
+
+===Etymology 2===
+{{ja-kanjitab|かた|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|かた|acc=2|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|かた}}
+
+# {{lb|ja|polite}} [[person]]
+#: {{ja-usex|あの'''方'''。|あの '''かた'''。|That '''person'''. (polite)}}
+#: {{ja-usex|あの'''方'''はどなたですか。|あの '''かた''' は どなた です か。|Who is that '''gentleman'''? (formal)}}
+
+=====Synonyms=====
+* {{qualifier|plain}} {{ja-r|人|ひと}}
+
+====Suffix====
+{{ja-pos|かた|suffix}}
+
+# [[way]], [[method]] (of doing)
+
+===Etymology 3===
+pe > ɸe > we > e.
+
+====Suffix====
+{{ja-pos|え|suffix|hhira=へ}}
+
+# a suffix expressing location, direction, or time
+
+=====Derived terms=====
+* {{ja-r|古|いにしえ}}
+* {{ja-r|行方|ゆくえ}}
+
+===Etymology 4===
+{{ja-kanjitab|さま|yomi=irr}}
+
+From {{etyl|ojp|ja|sort=さま}}. Originally a compound of {{compound|lang=ja|sort=さま|さ|tr1=sa|t1=that|pos1=pronominal indicating a person, place, thing, or direction in the middle distance|ま|tr2=ma|t2=likeness, way, similarity|pos2=suffix indicating a quality}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=irr|さま|acc=2|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|様}}
+
+====Noun====
+{{ja-noun|さま}}
+
+# a person's [[appearance]] {{qualifier|as of body, or style, or face, etc.}}
+# the [[state]] or [[situation]] of a thing
+# the general [[trend]], [[tenor]], or [[feel]] of a thing
+# one's [[social]] [[station]], [[status]], or [[quality]]
+# the [[way]] or [[means]] of doing something, [[how]] one does something
+# the [[reason]] or [[circumstances]] for something
+
+===References===
+<references/>
+
+[[Category:Japanese basic words]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=방|eumhun=모|rv=bang|mr=pang|y=pang}}
+
+# {{defn|lang=ko|sort=方00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phương]], [[vuông]], [[quách]]|rs=方00}}
+
+# {{defn|lang=vi|sort=方00}}
+
+[[Category:CJKV radicals| ]]
+
+[[zh-min-nan:方]]
+[[de:方]]
+[[fr:方]]
+[[ko:方]]
+[[it:方]]
+[[li:方]]
+[[hu:方]]
+[[mg:方]]
+[[ms:方]]
+[[ja:方]]
+[[no:方]]
+[[uz:方]]
+[[km:方]]
+[[pl:方]]
+[[pt:方]]
+[[ru:方]]
+[[fi:方]]
+[[th:方]]
+[[chr:方]]
+[[uk:方]]
+[[zh:方]]

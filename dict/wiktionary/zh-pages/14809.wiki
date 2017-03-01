@@ -1,0 +1,110 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=48|rad=工|as=04|sn=7|four=10108|canj=MOO|ids=⿻工从}}
+
+====References====
+* {{Han ref|kx=0325.190|dkj=08728|dj=0629.070|hdz=10412.080|uh=5DEB|ud=24043|bh=A7C5|bd=42949}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology===
+This word initially referred to spirit medium/shaman of either sex, but eventually female when contrasted with {{och-l|覡|male shaman}}. Various hypotheses exist regarding its etymology:
+# Cognate with {{cog|bo|འབའ་པོ||magician, sorcerer}}, {{m|bo|འབའ་མོ||sorcereress}}.
+# Cognate with {{och-l|誣|to deceive}}.
+# Cognate with {{och-l|舞|to dance}}.
+# Cognate with {{och-l|母|female}}.
+# Victor Mair proposes that this is a loanword from {{cog|peo|𐎶𐎦𐎢𐏁|tr=maguš}}, a word represented by the [[☩]] ({{w|cross potent}}) which is graphically similar to the Chinese bronze inscription form ({{zh-ref|Mair, 1990; Mair, 2012}}).
+
+{{cog|th|หมอ||doctor}} < {{cog|tai-pro|*ʰmo:ᴬ||shaman}} is generally assumed to be a Sino-Tibetan loan. More at {{w|Wu (shaman)}}, {{w|Magi#In Chinese sources}}, {{m|en|magus}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wū
+|c=mou4
+|h=pfs=mù
+|md=ŭ
+|mn=bû
+|w=3vu
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[shaman]]; [[witch]]; [[sorcerer]]; [[wizard]]
+# [[witch doctor]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|巫術:shamanism; witchcraft; sorcery|巫師:sorcerer|巫醫:witch doctor|巫山:[[Wushan]]|巫婆:witch; [[sorceress]]|巫毒教:[[voodoo]]|小巫見大巫|大巫嫗|女巫|巫咸|巫山之夢|巫山之會|巫山洛浦|巫山雲雨|巫峰|巫峽|巫祝|巫蠱|巫蠱之獄|巫覡|祝巫|神巫|雲雨巫山}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=8|rs=工04}}
+
+# [[shaman]]
+# [[witch]], [[sorcerer]]
+
+====Readings====
+{{ja-readings
+|goon=[[む]] (mu)
+|kanon=[[ぶ]] (bu)
+|kanyoon=[[ふ]] (fu)
+|kun=[[みこ]] (miko), [[かんなぎ]] (kannagi)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|巫医|ふい}}: a [[shrine]] [[maiden]] and a [[doctor]]; someone who is both a shrine maiden and a doctor
+* {{ja-r|巫山|^ふざん}}: [[Wushan]], the Wu Mountains, a [[mountainous]] area in China along the {{w|Wu Gorge}}
+* {{ja-r|巫術|ふじゅつ}}: [[shamanism]]; [[witchcraft]], [[sorcery]]
+* {{ja-r|巫女|みこ}}: a [[shrine]] [[maiden]]
+{{der-bottom}}
+
+====Usage notes====
+This is the only kanji added to the jinmeiyō kanji list on 7 January 2015 by the Japanese government; previously classified as hyōgaiji.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=무|rv=mu|mr=mu}}
+
+# Shaman, Relating to Shamanism
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[vu]]|rs=工04}}
+
+# {{defn|lang=vi|sort=工04}}
+
+[[fr:巫]]
+[[ko:巫]]
+[[li:巫]]
+[[hu:巫]]
+[[mg:巫]]
+[[ja:巫]]
+[[no:巫]]
+[[pl:巫]]
+[[pt:巫]]
+[[sr:巫]]
+[[th:巫]]
+[[vi:巫]]
+[[zh:巫]]

@@ -1,0 +1,12 @@
+==Japanese==
+{{ja-kanjitab|たい|しょう|ぎょう|れつ|yomi=on}}
+
+===Noun===
+{{ja-noun|たいしょう ぎょうれつ}}
+
+# {{lb|ja|linear algebra|mathematics}} [[symmetric matrix]]
+
+===See also===
+* {{l|ja|交代行列}}
+
+[[Category:ja:Linear algebra|たいしょうぎょうれつ]]

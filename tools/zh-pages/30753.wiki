@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|隶}}
+==Translingual==
+{{Han simplified forms|隸|隷|隶}}
+
+===Han character===
+{{Han char|rn=171|rad=隶|as=09|sn=17|four=45932|canj=DFLE|ids=⿰柰隶}}
+
+# [[be]] [[subservient]] to
+# [[servant]]
+
+====References====
+* {{Han ref|kx=1363.300|dkj=41932|dj=1867.170|hdz=74323.100|uh=96B8|ud=38584|bh=C1F5|bd=49653}}
+
+----
+
+==Chinese==
+{{zh-forms|s=隶}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|柰|隶}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lì
+|c=dai6,lai6,doi6
+|mn=lē
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|下隸|今隸|分隸|分隸偶存|北直隸|古隸|司隸|司隸校尉|奚隸|女隸|奴隸|徒隸|楷隸|氓隸|漢隸|漢隸字源|皁隸|直隸|秦隸|罪隸|草隸|萌隸|配隸|隸人|隸僕|隸定|隸屬|隸書|隸篆|隸草|隸變|隸辨|隸農|隸釋}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=隶09|style=ky|shin=隷}}
+
+# {{defn|lang=ja|sort=隶09}}
+
+====Readings====
+* {{ja-readings|on=[[れい]] (rei), [[い]] (i)|kun=[[しもべ]] (shimobe), [[したがう]] (shitagau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[례]]>[[예]]|eumhun=|rv=rye>ye|mr=rye>ye|y=lyey>yey}}
+
+# {{defn|lang=ko|sort=隶09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=隶09|hanviet=lệ}}
+
+# {{defn|lang=vi|sort=隶09}}
+
+[[fr:隸]]
+[[hu:隸]]
+[[mg:隸]]
+[[ms:隸]]
+[[ja:隸]]
+[[pl:隸]]
+[[th:隸]]
+[[zh:隸]]

@@ -1,0 +1,43 @@
+==Japanese==
+{{ja-kanjitab|お|ふだ|yomi=kun}}
+
+===Etymology 1===
+From {{prefix|lang=ja|sort=おふだ|御|tr1=o|t1=honorific prefix|札|tr2=fuda|t2=tag, note}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[o̞ɸɯᵝda̠]}}
+
+====Noun====
+[[File:Koujin yama.png|thumb|Ofuda, [[issue]]d by a Shinto shrine.]]
+{{ja-noun|おふだ}}
+
+# a type of {{ja-l|護符||gofu}}: a [[talisman]] or [[amulet]] [[issue]]d by a [[Shinto]] [[shrine]]
+
+====Related terms====
+* {{ja-l|護符|ごふ|gofu}}: a protective charm [[issue]]d by a [[Shinto]] [[shrine]]
+* {{ja-l|神札|しんさつ|shinsatsu}}: a protective charm [[issue]]d by a [[Shinto]] [[shrine]]
+* {{ja-l|御守}}, {{ja-l|お守り|おまもり|omamori}}: a protective charm [[issue]]d by a [[Shinto]] [[shrine]]
+* {{ja-l|破魔矢|はまや|hamaya}}: a [[decorative]] [[arrow]] used as a [[ward]] against [[evil]]
+* {{ja-l|縁起物|えんぎもの|engimono}}: a [[good luck]] [[charm]]
+
+=====External links=====
+* {{pedia|Ofuda}}
+
+===Etymology 2===
+From {{prefix|lang=ja|sort=おさつ|御|tr1=o|t1=honorific prefix|札|tr2=satsu|t2=note, bank note}}. [[yutōyomi|Yutōyomi]], mixing the [[kun'yomi]] ''o'' with the [[on'yomi]] ''satsu''.
+
+====Noun====
+{{ja-noun|おさつ}}
+
+# A polite term ({{ja-l|丁寧語||teineigo}}) for paper [[money]].
+
+===Etymology 3===
+From {{prefix|lang=ja|sort=きょさつ'|御|tr1=gyo|t1=honorific prefix|札|tr2=satsu|t2=note}}. [[on'yomi|On'yomi]].
+
+====Noun====
+{{ja-noun|ぎょさつ}}
+
+# A polite term ({{l|ja|丁寧語|tr=''teineigo''}}) for referring to someone else's [[note]] or [[letter]].
+
+[[zh:御札]]

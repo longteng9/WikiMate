@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{zh-compound|共|存|t1=co-|t2=exist}}
+
+===Pronunciation===
+{{zh-pron
+|m=gòngcún
+|c=gung6 cyun4
+|h=pfs=khiung-chhùn
+|mn=kiōng-chûn
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[coexist]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|きょう|ぞん|yomi=on}}
+
+===Etymology===
+{{compound|共|存|t1=[[co-]]|t2=[[exist]]|lang=ja}}
+
+===Noun===
+{{ja-noun|きょうぞん}}
+
+# [[coexistence]]
+
+====Synonyms====
+* {{ja-r|共在|きょうざい|kyōzai}}
+
+===Verb===
+{{ja-verb-suru|きょうぞん}}
+
+# to [[coexist]]
+
+====Synonyms====
+* {{ja-r|共在|きょうざい|kyōzai}}
+
+====Conjugation====
+{{ja-suru|きょうぞん}}
+
+[[zh-min-nan:共存]]
+[[ko:共存]]
+[[hu:共存]]
+[[ja:共存]]
+[[zh:共存]]

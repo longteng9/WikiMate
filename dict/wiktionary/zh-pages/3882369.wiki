@@ -1,0 +1,53 @@
+{{also|抽象名词}}
+==Chinese==
+{{zh-forms|s=抽象名词|type=22}}
+
+===Etymology===
+{{zh-compound|抽象|名詞|abstract|noun}}
+
+===Pronunciation===
+{{zh-pron
+|m=chōuxiàng míngcí
+|c=cau1 zoeng6 ming4 ci4
+|mn=thiu-siōng bêng-sû
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|grammar}} [[abstract noun]]
+
+====Antonyms====
+* {{zh-l|具體名詞}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちゅう|しょう|めい|し|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ちゅうしょうめいし|抽象|tr1=chūshō|t1=abstract|名詞|tr2=meishi|t2=noun}}.<ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|ちゅうしょう めいし|acc=5|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ちゅうしょう めいし|hhira=ちうしやうめいし}}
+
+# {{lb|ja|grammar|sort=ちゅうしょうめいし}} [[abstract noun]] {{gloss|a noun that denotes an abstract concept}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab|抽|象|名|詞}}
+
+===Noun===
+{{ko-noun|rv=chusangmyeongsa|hangeul=추상명사}}
+
+# {{hanja form of|추상명사|abstract noun}}
+
+[[ko:抽象名詞]]

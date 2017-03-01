@@ -1,0 +1,70 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=08|sn=12|four=96811|canj=FAPP}}
+
+# [[fire]], [[flames]]
+# [[bright]], [[shining]]
+
+====References====
+* {{Han ref|kx=0673.160|dkj=19103|dj=1081.170|hdz=32209.040|uh=711C|ud=28956|bh=B54F|bd=46415}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kūn
+|c=wan6,kwan1,gwan1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|焜燿|焜黃|燒火焜}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火08}}
+
+# {{defn|lang=ja|sort=火08}}
+
+====Readings====
+* {{ja-readings|on=[[こん]] (kon)|kun=[[かがやく]] (kagayaku)}}
+
+====Compounds====
+* {{ja-r|焜炉|こんろ}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=혼|eumhun=|rv=hon|mr=hon|y=hon}}
+
+# {{defn|lang=ko|sort=火08}}
+
+[[fr:焜]]
+[[hu:焜]]
+[[ja:焜]]
+[[pl:焜]]
+[[th:焜]]
+[[zh:焜]]

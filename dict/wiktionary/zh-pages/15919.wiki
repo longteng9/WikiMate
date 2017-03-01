@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|戋|㦮}}
+==Translingual==
+{{Han simplified forms|戔|㦮|戋}}
+===Han character===
+{{Han char|rn=62|rad=戈|as=04|sn=8|four=53503|canj=II|ids=⿱戈戈}}
+
+====Derived characters====
+* [[錢]], [[綫]], [[淺]], [[㹽]], [[俴]], [[帴]], [[賤]], [[棧]], [[餞]], [[虦]], [[箋]], [[殘]], [[諓]], [[踐]], [[𧗸]], [[㣤]], [[琖]], [[䧖]], [[醆]]
+
+====Descendants====
+* [[戋]]
+
+====References====
+* {{Han ref|kx=0412.140|dkj=11559|dj=0754.120|hdz=21402.060|uh=6214|ud=25108|bh=CCB1|bd=52401}}
+
+----
+
+==Chinese==
+{{zh-forms|s=戋}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|戈|戈|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jiān
+|c=zin1
+|mn=chân/chian
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{zh-only used in|戔戔|the [[appearance]] of being small; the appearance of accumulation}}
+
+===References===
+* {{R:twedu|B01231}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=戈04}}
+
+# {{defn|lang=ja|sort=戈04}}
+
+====Readings====
+* {{ja-readings|on=[[さん]] (san), [[せん]] (sen), [[ざん]] (zan)|kun=[[そこなう]] (sokonau), [[あまり]] (amari), [[せまい]] (semai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=잔|eumhun=|rv=jan|mr=chan|y=can}}
+
+# {{defn|lang=ko|sort=戈04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=戈04|hanviet=tiên}}
+
+# {{defn|lang=vi|sort=戈04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6214 Nom Foundation]
+
+[[fr:戔]]
+[[hu:戔]]
+[[ja:戔]]
+[[pl:戔]]
+[[th:戔]]
+[[zh:戔]]

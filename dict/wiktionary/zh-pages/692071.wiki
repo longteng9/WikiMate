@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|わ|しゅう|ごう|yomi=o}}
+
+===Noun===
+{{ja-noun|わしゅうごう}}
+
+# {{lb|ja|set theory}} [[union]]
+
+====Synonyms====
+* {{l|ja|和}}
+
+====See also====
+* {{l|ja|積集合}}
+* {{l|ja|差集合}}
+* {{l|ja|対称差集合}}
+
+[[Category:ja:Set theory|わしゅうごう]]
+
+[[mg:和集合]]
+[[ja:和集合]]
+[[chr:和集合]]

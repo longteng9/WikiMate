@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|评}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=05|sn=12|four=01649|canj=YRMFJ|ids=⿰言平}}
+
+# [[appraise]], [[criticize]], [[evaluate]]
+
+====See also====
+* {{l|mul|詳}} <!-- graphically similar -->
+
+====References====
+* {{Han ref|kx=1155.090|dkj=35383|dj=1620.300|hdz=63953.030|uh=8A55|ud=35413|bh=B5FB|bd=46587}}
+
+----
+
+==Chinese==
+{{zh-forms|s=评}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=píng
+|c=ping4
+|h=pfs=
+|md=
+|mn=phêng
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=言05}}
+
+# {{defn|lang=ja|sort=言05}}
+
+====Readings====
+* {{ja-readings|goon=[[びょう]] (byō)|kanon=[[へい]] (hei)|kanyoon=[[ひょう]] (hyō)|kun=[[はかる]] (hakaru), [[あげつらう]] (agetsurau)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=평|eumhun=|rv=pyeong|mr=p'yŏng|y=phyeng}}
+
+# {{defn|lang=ko|sort=言05}}
+
+[[Category:Hanja readings|평]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bình]], [[bằng]], [[bừng]]|rs=言05}}
+
+# {{defn|lang=vi|sort=言05}}
+
+[[zh-min-nan:評]]
+[[fr:評]]
+[[ko:評]]
+[[hu:評]]
+[[mg:評]]
+[[ja:評]]
+[[pl:評]]
+[[th:評]]
+[[vi:評]]
+[[zh:評]]

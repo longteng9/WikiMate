@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=19|rad=力|as=09|sn=11|four=44727|canj=TVKS|ids=⿰甚力}}
+
+# [[investigate]]
+# [[compare]]
+# [[collate]]
+
+====References====
+* {{Han ref|kx=0148.190|dkj=02393|dj=0334.030|hdz=10373.180|uh=52D8|ud=21208|bh=B0C9|bd=45257}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|力|t1=strong|甚|ls=psc|c1=s|c2=p}} – to look at carefully, strongly.
+
+===Pronunciation===
+{{zh-pron
+|m=kān
+|c=ham3,ham1
+|mn=khàm
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|制勘|勘估|勘合|勘問|勘婚|勘察|勘探|勘查|勘檢|勘正|勘測|勘誤|勘誤表|勘驗|契勘|察勘|對勘|履勘|打勘|拷勘|探勘|推勘|查勘|校勘|校勘學|根勘|歸勘|磨勘|禁勘|踏勘|錯勘|震波測勘|駁勘|點勘}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=力09}}
+
+====Readings====
+* {{ja-readings|goon=[[こん]] (kon)|kanon=[[かん]] (kan)|kun=[[かんがえる]] (kangaeru)}}
+
+====Compounds====
+{{ja-kanjitab|かん|yomi=o}}
+* {{ja-r|勘定|かんじょう}}: bill, check
+
+===Noun===
+{{ja-noun|かん}}
+
+# [[intuition]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=감|rv=gam|mr=kam}}
+
+# {{defn|lang=ko|sort=力09}}
+
+[[fr:勘]]
+[[ko:勘]]
+[[hu:勘]]
+[[mg:勘]]
+[[ja:勘]]
+[[no:勘]]
+[[pl:勘]]
+[[th:勘]]
+[[zh:勘]]

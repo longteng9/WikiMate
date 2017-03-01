@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=34|rad=夂|as=01|sn=4|four=17227|canj=NHSE,NSHE|ids=⿵乃又}}
+
+# {{lb|mul|literally}} to [[purchase]] ([[excessively]])
+# {{lb|mul|figuratively}} to [[exceed]], [[augment]]
+
+====References====
+* {{Han ref|kx=0244.190|dkj=05693|dj=0485.030|hdz=10393.060|uh=5903|ud=22787|bh=C95A|bd=51546}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|𠄎|t1=strain|夂|t2=go slowly|ls=ic}} – straining and slowly moving (because having trouble with the abundance of goods carried).
+
+From the ''[[w:Shuowen Jiezi|Shuowen]]'': “秦以市買多得爲夃。[[從|从]]𠄎从夂，益至也。从乃。[...]乃，難意也。” (“During the [[w:Qin Dynasty|Qin]], purchasing too much at the market was known as 夃. Derived from 𠄎 and 夂. It means "to exceed/augment." [𠄎 is] from 乃. [...] [In this context] 乃 means strain/trouble/difficulty”)
+
+===Pronunciation===
+{{zh-pron
+|m=gū,gǔ,yíng
+|c=gu2,gwu2
+|mn=go/gó
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi|pin=[[gū]] ([[gu1]]) or [[gǔ]] ([[gu3]])|wg=ku<sup>1</sup> or ku<sup>3</sup>}}
+: {{lb|cmn|archaic}} of [[賈]], to [[buy]] (excessively/abundantly)
+
+{{zh-hanzi|pin=[[yíng]] ([[ying2]])|wg=ying<sup>2</sup>}}
+: {{lb|cmn|archaic}} of [[赢]], to [[augment]], [[increase]], [[add]]
+
+===Usage notes===
+The "[[yíng]]" reading is only used for the "to augment, increase, add" definition.
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 90]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=夂01}}
+
+# {{defn|lang=ja|sort=夂01}}
+
+====Readings====
+* {{ja-readings|on=[[こ]] (ko), [[く]] (ku), [[えい]] (ei)|kun=[[もうける]] (moukeru), [[うる]] (uru), [[しばらく]] (shibaraku)}}
+
+[[fr:夃]]
+[[hu:夃]]
+[[pl:夃]]
+[[th:夃]]
+[[zh:夃]]

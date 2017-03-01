@@ -1,0 +1,40 @@
+{{also|并科}}
+==Chinese==
+{{zh-forms|s=并科}}
+
+===Pronunciation===
+{{zh-pron
+|m=bìngkē
+|mn=pèng-kho
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|of punishment}} to [[cumulatively]] [[impose]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|へい|か|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|へいか|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|へいか|hhira=へいくわ}}
+
+# cumulative imposition (of punishment)
+
+===Verb===
+{{ja-verb-suru|へいか|hhira=へいくわ}}
+
+# cumulatively impose (of punishment)
+
+====Conjugation====
+{{ja-suru|へいか}}
+
+===References===
+<references/>

@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|出}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=211|rad=齒|as=05|sn=20|four=27720|canj=YUPR|ids=⿰齒句}}
+
+====References====
+* {{Han ref|kx=1533.281|dkj=48638|dj=2071.370|hdz=74791.090|uh=9F63|ud=40803|bh=C4D5|bd=50389}}
+
+----
+
+==Chinese==
+{{zh-forms|s=出}}
+
+===Pronunciation===
+{{zh-pron
+|m=chū
+|c=ceot1
+|h=pfs=chhut
+|mn=chhut
+|cat=cls,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-classifier|plays|cat=y|t=[[act]]; [[stanza]]; [[time]], [[occasion]]}}
+# {{lb|zh|colloquial}} [[trouble]]; [[hassle]]
+# {{lb|zh|Min Nan}} [[drama]]; [[play]]
+
+====Compounds====
+{{zh-der|齣兒|齣子}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=齒05}}
+
+# {{l|en|act}}; {{l|en|scene}}
+# {{l|en|section}}; {{l|en|passage}}; {{l|en|paragraph}}
+
+====Readings====
+{{ja-readings|goon=[[すち]] (suchi)|kanon=[[しゅつ]] (shutsu)|on=[[せつ]] (setsu)|kun=[[くぎり]] (kugiri), [[こま]] (koma)}}
+
+{{ja-kanjitab|こま|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|こま|acc=0|acc_ref=DJR|acc2=1|acc2_ref=DJR}}
+
+===Noun===
+{{ja-noun|こま|コマ}}
+
+# {{lb|ja|film|animation|manga|sort=こま}} a [[frame]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=척|eumhun=|rv=cheok|mr=ch'ŏk|y=chek}}
+
+# {{defn|lang=ko|sort=齒05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xuất]]|rs=齒05}}
+
+# {{defn|lang=vi|sort=齒05}}
+
+[[fr:齣]]
+[[hu:齣]]
+[[mg:齣]]
+[[ja:齣]]
+[[pl:齣]]
+[[th:齣]]
+[[zh:齣]]

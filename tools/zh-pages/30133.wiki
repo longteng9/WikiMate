@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|镊}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=18|sn=26|four=81141|canj=CSJJ}}
+
+# [[tweezers]], [[forceps]], [[pincers]]
+
+====References====
+* {{Han ref|kx=1327.150|dkj=41069|dj=1828.190|hdz=64274.100|uh=9477|ud=38007|bh=C668|bd=50792}}
+
+----
+
+==Chinese==
+{{zh-forms|s=镊}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=niè
+|c=nip6
+|mn=qz,xm,zz:liap/qz:nih
+|mn_note=liap - literary; nih - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|刀鑷工|寶鑷|鑷子}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金18}}
+
+# {{defn|lang=ja|sort=金18}}
+
+====Readings====
+* {{ja-readings|on=[[じょう]] (jō)|kun=[[けぬき]] (kenuki), [[くぎぬき]] (kuginuki)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=섭|eumhun=|rv=seop|mr=sŏp|y=sep}}
+
+# {{defn|lang=ko|sort=金18}}
+
+[[fr:鑷]]
+[[hu:鑷]]
+[[mg:鑷]]
+[[ja:鑷]]
+[[pl:鑷]]
+[[th:鑷]]
+[[vi:鑷]]
+[[zh:鑷]]

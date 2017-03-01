@@ -1,0 +1,36 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīngchéng
+|c=ging1 sing4
+|h=pfs=kîn-sàng
+|mn=kiaⁿ-siâⁿ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[capital]] [[city]] {{gloss|of a country}}
+
+====Usage notes====
+When translating the English term ''capital city'', use {{zh-l|首都}} when referring to the capital of a country, {{zh-l|首府}} when referring to the capital of a state or autonomous region, and {{zh-l|省會}} when referring to the capital of a province. Alternative terms for the capital of a country include {{zh-l|國都}}, {{zh-l|京城}}, {{zh-l|京都}}, {{zh-l|京邑}} and {{zh-l|都城}} all of which are more commonly used in literary language.
+
+====Synonyms====
+* {{zh-l|都城}}
+* {{zh-l|國都}}
+* {{zh-l|京都}}
+* {{zh-l|京邑}}
+* {{zh-l|首都}}
+
+===See also===
+* {{zh-l|省會}}
+* {{zh-l|首府}}
+
+[[ko:京城]]
+[[hu:京城]]
+[[mg:京城]]
+[[ro:京城]]
+[[zh:京城]]

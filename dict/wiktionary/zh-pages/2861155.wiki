@@ -1,0 +1,17 @@
+==Japanese==
+{{ja-kanjitab|つう|しん|もう|yomi=on}}
+
+===Etymology===
+{{suffix|通信|網|lang=ja|t1=communication|t2=network|sort=つうしんもう}}
+
+===Noun===
+{{ja-noun|つうしんもう}}
+
+# communications network
+#* {{quote-web|author=NHK|title=地震 携帯電話つながりにくい|site=NHK ニュース|url=http://www3.nhk.or.jp/news/html/20110408/t10015171261000.html|accessdate=2011-04-08|year=2011}}
+#*: 東北地方で携帯電話の通信が集中しているため、'''通信網'''を守るための発信規制をしており、携帯電話はつながりにくくなっているということです。
+#*:: In the Tohoku area, because of overwhelming cell phone usage, protective limitations in the communications network's transmission capacity have made it difficult for calls to go through.
+
+[[ko:通信網]]
+[[hu:通信網]]
+[[zh:通信網]]

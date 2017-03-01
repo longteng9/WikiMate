@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wǔjì
+|c=mou5 gei6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[maiko]] {{gloss|apprentice geisha}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|sort=まいこ}}
+Compound of {{compound|舞|tr1=mai|t1=dancing|子|tr2=ko|t2=child|lang=ja|sort=まいこ}}.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|まいこ|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|舞子}}
+
+====Noun====
+{{ja-noun|まいこ|hhira=まひこ}}
+
+# dancing girl, particularly a [[maiko]]
+
+===Etymology 2===
+{{ja-kanjitab|ぶ|ぎ|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|ぶぎ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ぶぎ}}
+
+# female dancer
+
+===References===
+<references/>
+
+[[zh:舞妓]]

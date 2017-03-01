@@ -1,0 +1,58 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=05|sn=9|four=75200|canj=BLWL|ids=⿰⺼申}}
+
+====References====
+{{Han ref|kx=0977.050|dkj=29347|dj=1428.140|hdz=32059.060|uh=80C2}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+{{zh-wp|zh|yue}}
+
+===Etymology 1===
+From {{m|zh|砷|tr=shēn|t=arsenic}}.
+
+====Pronunciation====
+{{zh-pron
+|m=shèn,shēn,2nb=Taiwan
+|c=san6
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|chemistry}} [[arsine]]
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=shēn
+|c=seon3
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# the [[flesh]] of the [[back]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thăn]]|rs=肉05}}
+
+# {{defn|lang=vi|sort=肉05}}
+
+[[fr:胂]]
+[[mg:胂]]
+[[pl:胂]]
+[[th:胂]]
+[[zh:胂]]

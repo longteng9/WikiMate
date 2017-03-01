@@ -1,0 +1,30 @@
+{{also|动画|動畫}}
+==Japanese==
+{{ja-kanjitab|どう|が|yomi=on}}
+
+===Alternative forms===
+* {{l|ja|動画像|tr=dōgazō|sc=Jpan}}
+
+===Etymology===
+''From'' [[動]] ([[どう]], ''[[moving]]'') + [[画]] ([[が]], ''[[picture]]'')
+
+===Pronunciation===
+* {{ja-pron|どうが|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|どうが|kyu=動畫}}
+
+# [[moving picture]]
+# [[video]]
+
+====Antonyms====
+* {{l|ja|静止画|tr=seishiga|sc=Jpan}}
+
+===References===
+<references/>
+
+[[Category:ja:Computing|とうが']]
+
+[[hu:動画]]
+[[pl:動画]]
+[[sv:動画]]

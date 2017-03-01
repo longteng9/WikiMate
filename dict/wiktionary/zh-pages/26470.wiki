@@ -1,0 +1,86 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=04|sn=10|four=40732|canj=GRHV|ids=⿱𠮷𧘇}}
+
+# [[robe]]
+# {{surname|lang=zh}}
+
+====Derived characters====
+* [[睘]], [[遠]], [[園]], [[轅]], [[猿]]
+
+====References====
+* {{Han ref|kx=1113.080|dkj=34152|dj=1579.030|hdz=10444.110|uh=8881|ud=34945|bh=B04B|bd=45131}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|叀|衣|c1=p|c2=s|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yuán
+|c=jyun4
+|mn=oân
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# the [[appearance]] of a [[robe]] being [[long]] {{attention|zh|please check}}
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|袁世凱|袁大頭|袁安臥雪|袁宏|袁宏道|袁崇煥|袁枚|袁樞|袁盎|袁紹|袁術|袁頭}}
+
+====References====
+* {{R:twedu|A03714}}
+* {{thcwd|41148}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=衣04}}
+
+# [[long kimono]]
+
+====Readings====
+* {{ja-readings|on=[[えん]] (en), [[おん]] (on)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=원|eumhun=|rv=won|mr=wŏn|y=wen}}
+
+# {{defn|lang=ko|sort=衣04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[viên]]|rs=衣04}}
+
+# {{defn|lang=vi|sort=衣04}}
+
+[[zh-min-nan:袁]]
+[[fr:袁]]
+[[hu:袁]]
+[[mg:袁]]
+[[ja:袁]]
+[[no:袁]]
+[[pl:袁]]
+[[th:袁]]
+[[zh:袁]]

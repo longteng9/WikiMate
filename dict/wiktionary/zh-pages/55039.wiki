@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yòngyán
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[declinable]] [[word]]s (in [[Japanese]] and [[Korean]])
+
+====Antonyms====
+* {{zh-l|體言}}
+
+{{zh-cat|Grammar}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|よう|げん|yomi=on}}
+
+===Noun===
+{{ja-noun|ようげん}}
+
+# {{lb|ja|grammar|sort=ようげん}} [[declinable]] [[word]]; (''general term of the declinable parts of speech'') ([[自立語]]); in Japanese, this means verbs ([[動詞]]) and adjectives ([[形容詞]], [[形容動詞]]).
+
+====Antonyms====
+* {{ja-r|体言|たいげん}}: [[indeclinable]] [[word]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=용언}}
+
+# {{hanja form of|용언|[[declinable]] [[word]] (in [[Korean]] or [[Japanese]])}}
+
+[[ko:用言]]
+[[it:用言]]
+[[lt:用言]]
+[[ja:用言]]
+[[ru:用言]]
+[[zh:用言]]

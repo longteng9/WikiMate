@@ -1,0 +1,197 @@
+{{character info/new}}
+{{also|真|俱|倶}}
+==Translingual==
+{{stroke order|strokes=8}}
+{{ja-forms|具|具|具}}
+
+===Alternative forms===
+Form differs between China and Japan – in China the top component is connected with the long horizontal line, while Japan they are separate.
+
+The same difference occurs in the characters [[真]] and [[直]], which are unrelated etymologically but graphically similar in their current forms.
+
+===Han character===
+{{Han char|rn=12|rad=八|as=06|sn=8|four=60801|canj=BMMC|ids=⿳目一八 <small>(J)</small>,⿱⿻且一八 <small>(GTKV)</small>}}
+
+====References====
+* {{Han ref|kx=0128.010|dkj=01473|dj=0286.110|hdz=10246.040|uh=5177|ud=20855|bh=A8E3|bd=43235}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|貝|t1=shell, money|廾|t2=two hands|ls=ic}}.
+
+In current form, resembles {{Han compound|目|兀}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jù
+|c=geoi6
+|h=pfs=khî/khí/khi
+|h_note=khî - vernacular; khí - literary
+|md=gê̤ṳ
+|mn=khū/kū
+|mn_note=khū - vernacular; kū - literary
+|mn-t=gu6
+|w=2jy
+|mc=y
+|oc=y
+|ma=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[tool]]; [[implement]]
+# to [[possess]]; to [[have]]
+# to [[provide]]; to [[furnish]]
+
+===Compounds===
+{{zh-der|不具|不具之人|不具名|交通工具|假面具|免洗餐具|具保|具備|具名|具壽|具官|具慶|具戒|具文|具有|具然|具爾|具狀|具獄|具眼|具瞻|具結|具臣|具舉|具草|具象|具足戒|具陳|具領|具體|具體化|具體名詞|具體而微|兼具|冥具|凶具|刀具|刑具|別具一格|別具匠心|別具慧眼|別具爐錘|別具肺腸|別具隻眼|募資工具|匠心獨具|十相具足|口具|另具匠心|名正具|問事獄具|喪具|器具|坐具|填充玩具|夾具|完具|家具|寒具|寢具|工具|工具工程|工具書|工具機|工具鋼|廚具|形同具文|徒具|性具|慧眼獨具|戒具|戰具|戲具|才具|拜具|擬具|教具|文具|明式家具|服具|槥具|模具|模型玩具|機具|治具|漁具|濟勝之具|火具|炊具|煙具|照明器具|燈具|獨具一格|獨具匠心|獨具慧眼|獨具隻眼|獵具|玩具|生產工具|用具|畫具|百福具臻|眾目具瞻|視同具文|繪具|耕具|聲控玩具|胎具|臥具|茗具|茶具|草具|草具之陳|薄具|賭具|農具|運輸工具|道具|都市家具|量具|釣具|錨具|防毒面具|防護面具|陽具|隻眼獨具|雨具|電動玩具|面具|食具|餐具|龍具}}
+
+----
+
+==Japanese==
+
+===Counter===
+{{ja-pos|ぐ|counter}}
+
+# sets (armor, furniture)
+
+===Noun===
+{{ja-noun|ぐ}}
+
+# [[tool]]
+# [[means]]
+# [[ingredients]]
+# [[base]]
+
+====Derived terms====
+* {{l|ja|留め具}}
+
+===Suffix===
+{{ja-pos|ぐ|suffix}}
+
+# tool, ingredient
+
+===Kanji===
+{{ja-kanji|grade=3|rs=八06}}
+
+====Readings====
+* {{ja-readings|goon=[[ぐ]] ([[gu]])|kanon=[[く]] ([[ku]])|kun=[[そなえる]] ([[具える]], [[sonaeru]]), [[そなえ]] ([[具え]], [[sonae]]), [[つぶさに]] ([[具に]], [[tsubusani]])}}
+
+====Compounds====
+{{der5
+| {{ja-l|雨具}}
+| {{ja-l|淫具}}
+| {{ja-l|運動具}}
+| {{ja-l|絵具}}
+| {{ja-l|玩具}}
+| {{ja-l|家具}}
+| {{ja-l|不具}}
+| {{ja-l|金具}}
+| {{ja-l|革具}}
+| {{ja-l|機具}}
+| {{ja-l|器具}}
+| {{ja-l|弓具}}
+| {{ja-l|救命具}}
+| {{ja-l|兇具}}, {{ja-l|凶具}}
+| {{ja-l|教具}}
+| {{ja-l|漁具}}
+| {{ja-l|敬具}}
+| {{ja-l|刑具}}
+| {{ja-l|耕具}}
+| {{ja-l|香具}}
+| {{ja-l|校具}}
+| {{ja-l|工具}}
+| {{ja-l|拷問具}}
+| {{ja-l|祭具}}
+| {{ja-l|索具}}
+| {{ja-l|蚕具}}
+| {{ja-l|寝具}}
+| {{ja-l|治具}}
+| {{ja-l|船具}}
+| {{ja-l|装具}}
+| {{ja-l|喪具}}
+| {{ja-l|葬具}}
+| {{ja-l|装身具}}
+| {{ja-l|建具}}
+| {{ja-l|綱具}}
+| {{ja-l|道具}}
+| {{ja-l|忍具}}
+| {{ja-l|農具}}
+| {{ja-l|拝具}}
+| {{ja-l|馬具}}
+| {{ja-l|筆記具}}
+| {{ja-l|表具}}
+| {{ja-l|武具}}
+| {{ja-l|武装具}}
+| {{ja-l|仏具}}
+| {{ja-l|文具}}
+| {{ja-l|文房具}}
+| {{ja-l|法具}}
+| {{ja-l|防寒具}}
+| {{ja-l|防具}}
+| {{ja-l|民具}}
+| {{ja-l|夜具}}
+| {{ja-l|要具}}
+| {{ja-l|用具}}
+| {{ja-l|猟具}}
+| {{ja-l|具案}}
+| {{ja-l|具眼}}
+| {{ja-l|具現}}
+| {{ja-l|具合}}
+| {{ja-l|彫刻具座}}
+| {{ja-l|具象}}
+| {{ja-l|具申}}
+| {{ja-l|具足}}
+| {{ja-l|具体}}
+| {{ja-l|具陳}}
+| {{ja-l|具備}}
+| {{ja-l|具有}}
+| {{ja-l|具志堅}}
+}}
+
+===Related terms===
+* {{l|ja|具する}}
+* {{l|ja|具わる}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 具]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|mr=ku|eumhun=[[갖추다|갖출]]|ehrv=gatchuda|ehmr=katch'uda|ehy=kacchwuta}}
+
+# {{defn|lang=ko|sort=八06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cụ]], [[cỗ]], [[gỗ]]|rs=八06}}
+
+# {{defn|lang=vi|sort=八06}}
+
+[[ast:具]]
+[[fr:具]]
+[[ko:具]]
+[[sw:具]]
+[[ku:具]]
+[[lo:具]]
+[[hu:具]]
+[[mg:具]]
+[[ms:具]]
+[[ja:具]]
+[[no:具]]
+[[pl:具]]
+[[th:具]]
+[[zh:具]]

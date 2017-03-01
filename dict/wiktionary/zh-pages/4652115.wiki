@@ -1,0 +1,45 @@
+{{also|耳聋}}
+==Chinese==
+{{zh-forms|s=耳聋}}
+
+===Pronunciation===
+{{zh-pron
+|m=ěrlóng
+|c=ji5 lung4
+|h=pfs=ngí-lûng/s:ngí-nûng
+|mn=hīⁿ-lâng/hī-lâng
+|mn-t=hin6 lang5
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[deaf]]
+
+====Synonyms====
+* {{zh-l|聾}}, {{qualifier|Min Nan}} {{zh-l|臭耳聾}}
+
+===References===
+* {{R:nan:Duffus 1883|deaf|64}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=on|じ|ろう}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=じろう}} compound {{m|zh|耳聾|tr=nyi<sup>X</sup> luwng|lit=ear + deaf}}. Compare modern {{etyl|yue|-}} reading ''ji<sup>5</sup> lung<sup>4</sup>''.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|じろう|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|じろう}}
+
+# [[deafness]]
+
+===References===
+<references/>
+
+[[mg:耳聾]]

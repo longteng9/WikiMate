@@ -1,0 +1,34 @@
+{{also|傳承|传承}}
+==Japanese==
+{{ja-kanjitab|でん|しょう|yomi=o}}
+
+===Etymology===
+From {{m|ja|伝|sc=Jpan|tr=den||transmit}} + {{m|ja|承|sc=Jpan|tr=shō||succeed to}}
+
+===Noun===
+{{ja-noun|でんしょう|kyu=傳承}}
+
+# [[tradition]], [[legend]]
+
+====Derived terms====
+{{der-top}}
+* [[伝承叙事詩]] (''denshō jojishi''): oral epic
+* [[伝承文学]] (''denshō bungaku''): oral literature
+{{der-mid}}
+* [[先祖伝承]] (''senzo denshō''): legend, folk tale
+* [[民間伝承]] (''minkan denshō''): folklore
+{{der-bottom}}
+
+===Verb===
+{{ja-verb-suru|でんしょう|kyu=傳承}}
+
+# to [[carry on]] the tradition of
+
+====Conjugation====
+{{ja-suru|でんしょう}}
+
+[[ko:伝承]]
+[[li:伝承]]
+[[mg:伝承]]
+[[ru:伝承]]
+[[zh:伝承]]

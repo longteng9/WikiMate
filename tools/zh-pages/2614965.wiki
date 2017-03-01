@@ -1,0 +1,63 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tōngxíng
+|c=tung1 haang4,tung1 hang4
+|c_note=tung1 haang4 - vernacular; tung1 hang4 - literary
+|h=pfs=thûng-hàng
+|mn=thong-hêng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|traffic}} to [[pass through]] {{gloss|any line of transport}}; to [[transit]]
+# to be [[generally]] [[accepted]] {{gloss|of currency, writing systems, etc.}}; to be of [[current]] or [[standard]] [[use]]
+
+====Derived terms====
+{{zh-der|通行證}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|つう|こう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|つうこう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|つうこう}}
+
+# [[traffic]], [[passage]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|つうこう}}
+
+# [[pass]], [[go through]]
+
+====Conjugation====
+{{ja-suru|つうこう}}
+
+===References===
+<references/>
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=통행}}
+
+# {{hanja form of|통행|[[passage]]}}
+
+[[zh-min-nan:通行]]
+[[ko:通行]]
+[[lt:通行]]
+[[hu:通行]]
+[[mg:通行]]
+[[ja:通行]]
+[[zh:通行]]

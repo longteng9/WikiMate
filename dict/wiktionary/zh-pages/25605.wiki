@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|姜}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=13|sn=19|four=44106|canj=TMWM|ids=⿱艹畺}}
+
+====References====
+* {{Han ref|kx=1061.090|dkj=32110|dj=1525.070|hdz=53300.090|uh=8591|ud=34193|bh=C1A4|bd=49572}}
+
+----
+
+==Chinese==
+{{zh-forms|s=姜|alt=䕬,姜,𦷗,𧅁}}
+
+===Glyph origin===
+{{Han etym}}
+Originally as {{och-l|𧅁}} or {{och-l|䕬}}: {{Han compound|艸|alt1=艹|彊|ls=psc|c1=s|c2=p}}.
+
+Note that the simplified form {{och-l|姜}} is also a traditional character on its own.
+
+===Etymology===
+From {{inh|zh|sit-pro|*kjaŋ||ginger}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jiāng
+|c=goeng1
+|h=pfs=kiông
+|md=giŏng
+|mn=qz,tw,xm:kiuⁿ/zz:kioⁿ/qz,xm:khiuⁿ
+|w=1jian
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[ginger]]
+#* {{zh-x|以 椒、姜、桂 和 烹 而 飲 之|...use pepper, ginger/turmeric and cinnamon (ie. ''Cinnamomum cassia'') to boil as a drink.|CL|ref={{RQ:Manshu|7|Tea, Trees, Herbs and Fruits|7}}}}
+
+===Compounds===
+{{zh-der|乾薑|咬薑呷醋|毛薑|生薑|薑桂|薑桂老辣|薑母鴨|薑湯|薑黃|野薑花|薑還是老的辣|人老精，薑老辣|吃蔥吃蒜不吃薑|薑是老的辣}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸13}}
+
+# {{defn|lang=ja|sort=艸13}}
+
+====Readings====
+{{ja-readings|goon=[[こう]] (kō)|kanon=[[きょう]] (kyō)|kun=[[はじかみ]] (hajikami)}}
+
+====Compounds====
+* {{ja-r|薑黄|きょうおう}}: [[wild turmeric]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=강|eumhun=|rv=gang|mr=kang|y=kang}}
+
+# {{defn|lang=ko|sort=艸13}}
+
+[[fr:薑]]
+[[lo:薑]]
+[[hu:薑]]
+[[mg:薑]]
+[[ja:薑]]
+[[pl:薑]]
+[[th:薑]]
+[[zh:薑]]

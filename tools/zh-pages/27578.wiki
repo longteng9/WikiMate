@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|貊}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=153|rad=豸|as=11|sn=18|four=24234|canj=BHTAK|ids=⿰豸莫}}
+
+# [[panther]]
+# [[tapir]]
+
+====References====
+* {{Han ref|kx=1203.110|dkj=36621|dj=1664.220|hdz=63915.160|uh=8C98|ud=35992|bh=F0F1|bd=61681}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=mò
+|c=mak6,mok6
+|mn=bek
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=豸11}}
+
+# {{defn|lang=ja|sort=豸11}}
+
+====Readings====
+* {{ja-readings|kanon=[[ばく]] (baku)|goon=[[みゃく]] (myaku)}}
+
+===Noun===
+{{ja-noun|ばく|バク}}
+
+# {{alternative spelling of|獏|lang=ja||[[tapir]]}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[맥]]|eumhun=|rv=maek|mr=maek|y=mayk}}
+
+# {{defn|lang=ko|sort=豸11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=豸11| hanviet = mạc}}
+
+# {{defn|lang=vi|sort=豸11}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=8c98 Nom Foundation]
+
+[[fr:貘]]
+[[hu:貘]]
+[[mg:貘]]
+[[ja:貘]]
+[[pl:貘]]
+[[ro:貘]]
+[[ru:貘]]
+[[th:貘]]
+[[zh:貘]]

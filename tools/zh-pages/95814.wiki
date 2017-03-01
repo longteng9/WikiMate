@@ -1,0 +1,68 @@
+{{also|解决}}
+==Chinese==
+{{zh-forms|s=解决}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiějué
+|c=gaai2 kyut3
+|h=pfs=n:kié-kiet/s:kiái-kiat
+|mn=kái-koat
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[solve]]; to [[resolve]]; to [[settle]]
+#: {{zh-x|解決 問題|to '''solve''' a problem}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|けつ|yomi=on}}
+
+===Etymology===
+[[解]] (かい, ''kai'': “solution”) + [[決]] (けつ, ''ketsu'': “decisive”)
+
+===Pronunciation===
+* {{ja-pron|かいけつ|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|かいけつ}}
+
+# a [[conclusion]] to a problem, [[solution]]
+# {{lb|ja|music|sort=かいけつ}} [[progression|Progression]] from [[dissonance]] to [[consonance]]; a chord to which such progression is made; [[resolution]]
+
+====Antonyms====
+* {{sense|solution}} {{ja-r|対立|たいりつ}}
+
+====Compounds====
+* {{ja-r|問題解決|もんだい かいけつ}}: [[solve|solving]] [[problem]]
+* {{ja-r|解決方法|かいけつ ほうほう}}: [[solution]]
+* {{ja-r|解決手段|かいけつ しゅだん}}: [[means]] of [[solution]]
+
+===Verb===
+{{ja-verb-suru|tr=both|かいけつ}}
+
+# to [[resolve]] (''a problem, a trouble, a criminal case'')
+#: {{ja-usex|彼らはその問題を１日で'''解決した'''。|^かれら は その もんだい を いちにち で '''かいけつ した'''。|They '''resolved''' the problem in a day.}}
+#: {{ja-usex|問題は'''解決した'''。|^もんだい は '''かいけつ した'''。|The problem '''was resolved'''.}}
+
+====Conjugation====
+{{ja-suru|かいけつ}}
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[zh-min-nan:解決]]
+[[ko:解決]]
+[[lt:解決]]
+[[hu:解決]]
+[[mg:解決]]
+[[ja:解決]]
+[[chr:解決]]
+[[zh:解決]]

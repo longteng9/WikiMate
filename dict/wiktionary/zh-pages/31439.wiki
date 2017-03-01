@@ -1,0 +1,41 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=184|rad=食|as=10|sn=19|four=|canj=OIABT,OIWOT|ids=⿰飠昷}}
+
+====References====
+* {{Han ref|kx=1424.171|dkj=44339|dj=1950.070|hdz=74467.171|uh=9942|ud=39234}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=食10|grade=}}
+
+# {{only used in|饂飩|lang=ja}}
+
+====Readings====
+* {{ja-readings|on=[[うん]] (un)|kun=[[うどん]] (udon)}}
+
+===Noun===
+{{ja-noun|うん}}
+
+# {{only used in|饂飩|lang=ja}}
+# {{rfv-sense}} [[w:udon|udon]] Japanese noodles
+
+====Derived terms====
+* {{ja-r|饂飩|うどん}}
+
+====Usage notes====
+* This character is indigenous to Japan. It is not used in Chinese.
+* This character is not used alone. It must pair up with {{ja-l|飩}} to form {{ja-l|饂飩}}.
+** However, {{lang|ja|饂飩}} is usually written in kana as {{ja-l|うどん}}.
+
+[[fr:饂]]
+[[hu:饂]]
+[[ja:饂]]
+[[pl:饂]]
+[[th:饂]]
+[[zh:饂]]

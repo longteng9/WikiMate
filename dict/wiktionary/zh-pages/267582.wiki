@@ -1,0 +1,60 @@
+{{also|単位|单位}}
+==Chinese==
+{{zh-forms|s=单位}}
+
+===Etymology===
+{{wasei kango|単%位|たん%い}}
+
+===Pronunciation===
+{{zh-pron
+|m=dānwèi
+|c=daan1 wai6-2
+|h=pfs=tân-vi
+|mn=tan-ūi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[unit of measure]] {{zh-mw|個}}
+#: {{zh-x|長度 單位|'''unit''' of length}}
+# [[unit]] {{gloss|in an organisation}} {{zh-mw|個}}
+#: {{zh-x|行政 單位|administrative '''unit'''}}
+# {{lb|zh|by extension}} [[workplace]] {{zh-mw|個}}
+
+====See also====
+* {{zh-l|量詞}}
+
+====Derived terms====
+{{zh-der|單位犯罪|省級行政單位|事業單位|T單位}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|たん|い|yomi=o}}
+
+===Noun===
+{{ja-noun|たんい|shin=単位}}
+
+# {{kyujitai of|単位}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=단위}}
+
+# {{ko-hanja form of|단위|unit; counter}}
+
+[[zh-min-nan:單位]]
+[[ko:單位]]
+[[hu:單位]]
+[[mg:單位]]
+[[ja:單位]]
+[[chr:單位]]
+[[zh:單位]]

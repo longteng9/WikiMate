@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|けん|とう|yomi=on}}
+
+===Noun===
+{{ja-noun|けんとう}}
+# [[estimate]]; [[guess]]
+# [[direction]]
+# [[about]], or so {{gloss|a numerical approximation}}
+
+====Synonyms====
+* {{sense|estimate}} {{ja-r|見通し|みとおし}}, {{ja-r|予想|よそう}}, {{ja-r|予測|よそく}}
+* {{sense|direction}} {{ja-r|方向|ほうこう}}
+* {{sense|about}} {{ja-r|およそ}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[it:見当]]
+[[hu:見当]]
+[[sv:見当]]
+[[zh:見当]]

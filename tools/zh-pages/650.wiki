@@ -1,0 +1,125 @@
+{{character info/new}}
+{{also|丣|西}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+{{liushu|p}}: an ancient vase used in making and storing fermented millet liquors. See [[酒]].
+
+{{Han etyl}}
+
+===Han character===
+{{Han char|rn=164|rad=酉|as=00|sn=7|four=10600|canj=MCWM}}
+
+# tenth of twelve [[earthly branch]]es ([[十二支]]): [[rooster]] ([[鷄]]) of [[W:Chinese zodiac|Chinese zodiac]]
+# a [[wine]] [[vessel]]
+# {{mul-kangxi radical-def}}
+
+====Derived characters====
+* [[Index:Chinese radical/酉]]
+
+====References====
+* {{Han ref|kx=1280.020|dkj=39763|dj=1778.360|hdz=63572.010|uh=9149|ud=37193|bh=A8BB|bd=43195}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=丣}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǒu
+|c=jau5
+|h=pfs=yu
+|mn=iú
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Usage notes====
+Although it remains associated with liquor, the character alone is mostly used as the tenth earthly branch in the Chinese cyclical calendar.
+
+====Compounds====
+{{zh-der|三酉|卯酉|卯酉參辰|卯酉子午|參辰卯酉|子午卯酉|才貫二酉|書畫卯酉|書通二酉|酉字牌|酉時|酉陽雜俎|鬼酉上車}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=酉00}}
+
+# "[[sake]]" radical (さけづぐり)
+# "bird of the zodiac" radical (ひよみのとり, とりへん)
+# [[rooster]] (tenth sign of the Chinese [[zodiac]])
+
+====Readings====
+* {{ja-readings|on=[[ゆう]] (yū)|kun=[[とり]] (tori)|nanori=[[なが]] (naga), [[みのる]] (minoru)}}
+
+====Compounds====
+* {{ja-r|酉年|とりどし}}: [[w:Rooster (zodiac)|Year of the Rooster]]
+
+====References====
+{{ja-kref
+|jis=4653
+|ku=3851
+|shift=93D1
+|euc=C6D3
+|freq=2468
+|nelson=4775
+|newnelson=6157
+|halpern=3544
+|kld=2207
+|heisig=1427
+|tuttle=2254
+}}
+
+===Noun===
+{{ja-noun|とり}}
+
+# [[rooster]] (tenth sign of the Chinese [[zodiac]])
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 酉]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=유|eumhun=|rv=yu|mr=yu|y=yu}}
+
+# {{defn|lang=ko|sort=酉00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dấu]], [[dậu]], [[giấu]], [[giậu]]|rs=酉00}}
+
+# {{defn|lang=vi|sort=酉00}}
+
+[[Category:CJKV radicals| ]]
+
+[[zh-min-nan:酉]]
+[[fr:酉]]
+[[ko:酉]]
+[[la:酉]]
+[[li:酉]]
+[[hu:酉]]
+[[mg:酉]]
+[[ms:酉]]
+[[ja:酉]]
+[[no:酉]]
+[[pl:酉]]
+[[ru:酉]]
+[[th:酉]]
+[[zh:酉]]

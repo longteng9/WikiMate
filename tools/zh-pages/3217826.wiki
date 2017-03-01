@@ -1,0 +1,56 @@
+{{also|惯用}}
+==Chinese==
+{{zh-forms|s=惯用}}
+
+===Pronunciation===
+{{zh-pron
+|m=guànyòng
+|c=gwaan3 jung6
+|cat=v,a
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to use consistently; to practice habitually
+
+===Adjective===
+{{zh-adj}}
+
+# customary; habitual
+
+====Derived terms====
+{{zh-der|慣用語}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|よう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|かんよう|yomi=o}}
+
+===Noun===
+{{ja-noun|かんよう}}
+
+# everyday use, common [[usage]]
+
+====Compounds====
+* {{ja-r|慣用句|かんようく|gloss=idiom}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|かんよう}}
+
+# use customarily, use commonly
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=관용}}
+
+# {{hanja form of|관용|usage}}
+
+[[ko:慣用]]
+[[ja:慣用]]
+[[zh:慣用]]

@@ -1,0 +1,60 @@
+{{also|颞顬}}
+==Chinese==
+{{zh-forms|s=颞顬}}
+
+===Pronunciation===
+{{zh-pron
+|m=nièrú
+|c=nip6 jyu4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[temple]] {{gloss|region of skull}}
+
+{{zh-cat|Anatomy}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|sort=こめかみ}}
+
+====Pronunciation====
+{{ja-pron|yomi=irr|こめかみ|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{l|ja|蟀谷}}
+
+====Noun====
+{{ja-noun|こめかみ}}
+
+# {{lb|ja|anatomy|sort=こめかみ}} [[temple]] {{gloss|region of skull}}
+
+===Etymology 2===
+{{ja-kanjitab|しょう|じゅ|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|しょうじゅ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|しょうじゅ|hhira=せふじゅ}}
+
+# {{lb|ja|anatomy|sort=しょうじゅ}} [[temple]] {{gloss|region of skull}}
+
+=====Derived terms=====
+* {{ja-r|顳顬骨|しょうじゅこつ|gloss=[[temporal bone]]}}
+
+===References===
+<references/>
+
+[[Category:Japanese terms using characters outside JIS X 0208]]
+
+[[it:顳顬]]
+[[mg:顳顬]]
+[[ru:顳顬]]
+[[sv:顳顬]]
+[[chr:顳顬]]

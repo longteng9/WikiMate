@@ -1,0 +1,63 @@
+{{character info/new}}
+{{also|箸}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=07|sn=13|four=88934|canj=HPDK|ids=⿱⺮快}}
+
+# [[chopstick]]s
+
+====References====
+* {{Han ref|kx=0886.231|dkj=26100|dj=1314.180|hdz=52975.150|uh=7B77|ud=31607|bh=B85F|bd=47199}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+From {{zh-l|快}}, originally euphemistic for {{zh-l|箸}}, homophonous to {{zh-l|住|to stay; to stop}}. See {{zh-l|筷子}} for more.
+
+===Pronunciation===
+{{zh-pron
+|m=kuài
+|c=faai3
+|h=pfs=khoai
+|md=
+|mn=
+|w=1khue
+|mc=
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[chopstick]]s
+
+====Synonyms====
+{{zh-dial|筷子}}
+
+====Compounds====
+{{zh-der|公筷|筷兒|筷子|碗筷}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹07}}
+
+# {{defn|lang=ja|sort=竹07}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai)|kun=[[はし]] (hashi)}}
+
+[[fr:筷]]
+[[hu:筷]]
+[[no:筷]]
+[[pl:筷]]
+[[sr:筷]]
+[[th:筷]]
+[[zh:筷]]

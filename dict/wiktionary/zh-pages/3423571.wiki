@@ -1,0 +1,36 @@
+==Japanese==
+{{ja-kanjitab|ばい|しゅう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ばいしゅう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ばいしゅう}}
+# [[buying up]], [[purchasing]]
+# [[bribing]]
+
+====Derived terms====
+{{der-top}}
+* {{l|ja|企業買収}} (''kigyō baishū''): corporate acquisition
+* {{l|ja|敵対的企業買収}} (''tekitai-teki kigyō baishū''): hostile buyout
+{{der-mid}}
+* {{l|ja|敵対的買収}} (''tekitai-teki baishū''): hostile takeover
+* {{l|ja|買収工作}} (''baishū kōsaku''): bribery scheme, acquisition maneuver
+{{der-bottom}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|ばいしゅう}}
+
+# [[buy up]], [[purchase]]
+# [[bribe]]
+
+====Conjugation====
+{{ja-suru|ばいしゅう}}
+
+===References===
+<references/>
+
+[[hu:買収]]
+[[ja:買収]]
+[[ru:買収]]
+[[zh:買収]]

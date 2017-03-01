@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|缕}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=11|sn=17|four=25944|canj=VFLLV|ids=⿰糹婁}}
+
+# [[thread]]
+# [[detailed]], [[precise]]
+
+====References====
+* {{Han ref|kx=0936.100|dkj=27832|dj=1375.080|hdz=53442.120|uh=7E37|ud=32311|bh=C15C|bd=49500}}
+
+----
+
+==Chinese==
+{{zh-forms|s=缕}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǚ
+|c=lau5,leoi5
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=糸11}}
+
+# {{defn|lang=ja|sort=糸11}}
+
+====Readings====
+{{ja-readings|goon=[[る]] (ru)|kanon=[[る]] (ru), [[ろう]] (rō)|kun=[[いと]] (ito)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|繁縷|はこべ}}, {{ja-r|繁縷|はこべら}}: [[chickweed]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[루]]>[[누]]|eumhun=|rv=ru>nu|mr=ru>nu|y=lwu>nwu}}
+
+# {{defn|lang=ko|sort=糸11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lũ]], [[lụa]], [[lũ]], [[lú]]|rs=糸11}}
+
+# {{defn|lang=vi|sort=糸11}}
+
+[[fr:縷]]
+[[ko:縷]]
+[[hu:縷]]
+[[mg:縷]]
+[[ja:縷]]
+[[pl:縷]]
+[[th:縷]]
+[[zh:縷]]

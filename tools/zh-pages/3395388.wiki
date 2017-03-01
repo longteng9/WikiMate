@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|ま|もう|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|まもう|yomi=o}}
+
+===Noun===
+{{ja-noun|まもう}}
+
+# [[abrasion]]
+#: {{ja-usex|金属部品の摩耗を防止する|きんぞく ぶひん の まもう を ぼうし する|to prevent abrasion of the metallic components}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|まもう}}
+
+# be [[worn]]
+
+====Conjugation====
+{{ja-suru|まもう}}
+
+[[mg:摩耗]]
+[[chr:摩耗]]

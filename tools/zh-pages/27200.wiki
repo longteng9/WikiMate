@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|谨}}
+==Translingual==
+{{ja-forms|謹|[[谨]]|謹}}
+
+===Alternative forms===
+Note slightly different form in Japanese, at top of right component [[堇]].
+
+===Han character===
+{{Han char|rn=149|rad=言|as=11|sn=18|four=04614|canj=YRTLM|ids=⿰言堇}}
+
+# [[prudent]], [[cautious]]
+# [[attentive]]
+
+====Descendants====
+* [[谨]]
+
+====References====
+* {{Han ref|kx=1178.230|dkj=35850|dj=1642.280|hdz=64010.130|uh=8B39|ud=35641|bh=C2D4|bd=49876}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谨}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|t1=speech|堇|ls=psc|c1=s|c2=p}} – to speak caution.
+
+===Pronunciation===
+{{zh-pron
+|m=jǐn
+|c=gan2
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=言11}}
+
+# {{defn|lang=ja|sort=言11}}
+
+====Readings====
+* {{ja-readings|goon=[[こん]] (kon)|kanon=[[きん]] (kin)|kun=[[つつしむ]] (tsutsushimu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=근|eumhun=|rv=geun|mr=kŭn|y=kun}}
+
+# {{defn|lang=ko|sort=言11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|hv=cẩn|nom=[[ngẩn]], [[kín]], [[ghín]], [[cẩn]]|rs=言11}}
+
+# {{defn|lang=vi|sort=言11}}
+
+====References====
+* {{R:WinVNKey:Lê Sơn Thanh}}
+
+[[fr:謹]]
+[[ko:謹]]
+[[hu:謹]]
+[[mg:謹]]
+[[ja:謹]]
+[[pl:謹]]
+[[th:謹]]
+[[vi:謹]]
+[[zh:謹]]

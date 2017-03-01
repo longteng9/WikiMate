@@ -1,0 +1,31 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|yomi=o|ぎ|ぞく}}
+
+===Pronunciation===
+{{ja-pron|ぎぞく|y=go|acc=a|acc2=h}}
+
+===Noun===
+{{ja-noun|ぎぞく}}
+
+# a {{w|gentleman thief}}
+#* {{quote-book
+|language=Japanese
+|location=Tokyo
+|publisher=Kodansha
+|author={{w|Hiroyuki Takei}}
+|coauthors={{w|Stan Lee}}; Daigo; Bob
+|title={{w|機巧童子ULTIMO|{{ruby|{{lang|ja|[機巧童子](カラクリドウジ) [ULTIMO](ウルティモ)}}}}|lang=ja}}
+|trans-title={{w|Karakuri Dôji Ultimo|Mechakid Ultimo}}
+|date=July 3 2009
+|volume=1
+|page=15
+|chapter={{ruby|{{lang|ja|[南](なん)[蛮](ばん)[翁](おきな)[霧](きりの)[峠](とうげ)}}}}
+|trans-chapter=Nanban-Okina Misty Pass
+|passage={{ja-usex|なるほど　君らは'''義%賊'''というワケだ|^なるほど　きみら は '''ぎ%ぞく''' と いう ワケ だ|I see, so you lot call yourselves '''gentleman thieves'''}}
+}}
+
+{{C|ja|Crime|sort=きぞく'}}
+
+[[ko:義賊]]
+[[zh:義賊]]

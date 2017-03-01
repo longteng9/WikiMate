@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|闲|閒|間}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=169|rad=門|as=04|sn=12|four=77904|canj=AND|ids=⿵門木}}
+
+# [[fence]], [[barrier]]
+# [[defend]]
+# [[idle]] [[time]]
+
+====References====
+* {{Han ref|kx=1332.020|dkj=41247|dj=1837.140|hdz=74287.030|uh=9591|ud=38289|bh=B67E|bd=46718}}
+
+----
+
+==Chinese==
+{{zh-forms|s=闲}}
+
+===Alternative forms===
+* {{zh-l|閒}}
+
+===Pronunciation===
+{{zh-pron
+|m=xián
+|c=haan4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=門04}}
+
+# {{defn|lang=ja|sort=門04}}
+
+====Readings====
+* {{ja-readings|goon=[[げん]] (gen)|kanon=[[かん]] (kan)|kun=[[しきり]] (shikiri), [[しずか]] (shizuka), [[ならう]] (narau)|nanori=}}
+
+====Compounds====
+* [[閑人]]/[[暇人]] ([[ひまじん]], [[himajin]])
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=한|eumhun=|rv=han|mr=han|y=han}}
+
+# {{defn|lang=ko|sort=門04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhàn]], [[hèn]]|rs=門04}}
+
+# {{defn|lang=vi|sort=門04}}
+
+[[fr:閑]]
+[[ko:閑]]
+[[hu:閑]]
+[[mg:閑]]
+[[ja:閑]]
+[[pl:閑]]
+[[th:閑]]
+[[zh:閑]]

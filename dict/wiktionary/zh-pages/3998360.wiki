@@ -1,0 +1,18 @@
+==Japanese==
+{{ja-kanjitab|たん|がん|yomi=o}}
+{{wikipedia|lang=ja}}
+
+===Noun===
+{{ja-noun|たんがん|kyu=單眼}}
+
+# [[simple]] [[eye]]
+#: {{ja-usex|複数の'''単眼'''を持つ。|ふくすう の '''たんがん''' を もつ。|It has multiple simple eyes.}}
+# a [[monocular]] lens
+
+====Antonyms====
+* {{sense|simple eye}} {{ja-r|複眼|ふくがん}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh:単眼]]

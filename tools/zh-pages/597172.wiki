@@ -1,0 +1,44 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chūxīn
+|c=co1 sam1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# one’s initial intention
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょ|しん|yomi=on}}
+{{wikipedia|Shoshin}}
+
+===Etymology===
+From {{m|ja|初|sc=Jpan|tr=sho||beginning stages}} + {{m|ja|心|sc=Jpan|tr=shin||heart}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|しょしん}}
+
+# [[immature]], [[naive]]
+
+====Inflection====
+{{ja-na|しょしん}}
+
+===Noun===
+{{ja-noun|しょしん}}
+
+# [[immaturity]], [[naiveté]]
+# [[original]] [[intention]], original [[object]]
+# {{lb|ja|Buddhism|sort=しょしん}} open, eager attitude to learning, as if one is a beginner
+
+====Derived terms====
+* {{ja-r|初心者|しょしんしゃ}}: beginner
+
+[[mg:初心]]
+[[zh:初心]]

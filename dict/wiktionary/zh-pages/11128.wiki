@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=09|sn=11|four=21294|canj=OYPD|ids=⿰亻柴}}
+
+# [[uneven]]
+
+====References====
+* {{Han ref|kx=0111.190|dkj=00883|dj=0237.160|hdz=10202.070|uh=5068|ud=20584|bh=D85B|bd=55387}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=cī
+|c=ci1,zi1
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|偨池|偨傂}}
+
+===References===
+* {{R:twedu|B00136}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人09}}
+
+# {{defn|lang=ja|sort=人09}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[そろわない]] (sorowanai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=치|rv=chi|mr=ch'i}}
+
+# {{defn|lang=ko|sort=人09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thày]]|rs=人09}}
+
+# {{defn|lang=vi|sort=人09}}
+
+[[fr:偨]]
+[[li:偨]]
+[[hu:偨]]
+[[pl:偨]]
+[[th:偨]]
+[[zh:偨]]

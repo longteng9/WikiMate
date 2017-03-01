@@ -1,0 +1,58 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=dùzi
+|ma=Zh-dùzi.ogg
+|c=tou5 zi2
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|anatomy}} [[abdomen]]; [[belly]]; [[stomach]] {{zh-mw|m:個}}
+#: {{zh-x|你 肚子{zi} 餓 了 嗎？|Are you hungry?}}
+#: {{zh-x|他 打 了 我 肚子{zi} 一 拳。|He punched me in the '''stomach'''.}}
+# {{lb|zh|figuratively}} [[heart]]; innermost being {{zh-mw|m:個}}
+# an [[object]] shaped like a belly; a [[round]] and [[protrude|protruding]] object {{zh-mw|m:個}}
+#: {{zh-x|腿肚子{zi}|calf {{gloss|back of the leg below the knee}}}}
+
+=====Synonyms=====
+* {{sense|abdomen}}
+** {{qualifier|formal}} {{zh-l|腹部}}
+** {{qualifier|Cantonese}} {{zh-l|肚|tr=tou5}}
+** {{qualifier|Min Nan}} {{zh-l|腹肚|tr=pak-tó͘}}
+** {{qualifier|Hakka}} {{zh-l|肚屎|tr=tú-sṳ́}}
+
+=====Derived terms=====
+{{zh-der|餓肚子|拉肚子}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=dǔzi
+|c=tou5 zi2
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[tripe]]
+
+=====See also=====
+* {{zh-l|百葉}}
+
+{{zh-cat|Elementary}}
+
+[[fr:肚子]]
+[[lt:肚子]]
+[[hu:肚子]]
+[[mg:肚子]]
+[[fj:肚子]]
+[[ja:肚子]]
+[[ro:肚子]]
+[[chr:肚子]]
+[[uk:肚子]]
+[[zh:肚子]]

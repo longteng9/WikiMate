@@ -1,0 +1,20 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Shortening of {{zh-m|摩托車|motorcycle|note=from {{der|zh|en|motorcycle|motor(cycle)}} + {{zh-l|車|vehicle}}}} + shortening of {{zh-m|的士|taxi|note=from {{etyl|yue|zh}}, from {{der|zh|en|taxi}}}}.
+
+===Pronunciation===
+{{zh-pron
+|m=módī
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[motorcycle taxi]]
+
+{{zh-cat|Vehicles}}
+
+[[zh:摩的]]

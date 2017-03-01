@@ -1,0 +1,36 @@
+==Chinese==
+{{zh-forms|Japanese}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=wōkòu
+|c=wo1 kau3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|historical}} [[wokou]], [[Japanese]] [[pirate]]s that raided Japan's neighbouring countries in the [[Late Middle Ages]]
+
+===See also===
+* {{zh-l|流寇}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|わ|こう|yomi=o}}
+
+===Etymology===
+From {{etyl|zh|ja}} {{m|zh|倭|tr=wō||Japanese}} + {{m|zh|寇|tr=kòu||bandit, brigand}}.
+
+===Noun===
+{{ja-noun|わこう}}
+# {{lb|ja|historical|sort=わこう}} [[wokou]], [[Japanese]] [[pirate]]s that raided Japan's neighbouring countries in the [[Late Middle Ages]].
+
+[[fr:倭寇]]
+[[ko:倭寇]]
+[[mg:倭寇]]
+[[pt:倭寇]]
+[[zh:倭寇]]

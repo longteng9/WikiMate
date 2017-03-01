@@ -1,0 +1,54 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=08|sn=14|four=54181|canj=LITMC}}
+
+# {{defn|Han|sort=虫08}}
+
+====References====
+* {{Han ref|kx=1086.020|dkj=33145|dj=1553.080|hdz=42859.070|uh=871E|ud=34590|bh=E3DB|bd=58331}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qí
+|c=kei4
+|mn=khî
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|毛蜞|蟛蜞}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫08}}
+
+# {{defn|lang=ja|sort=虫08}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki), [[ぎ]] (gi)|kun=[[ひる]] (hiru)|nanori=}}
+
+[[fr:蜞]]
+[[hu:蜞]]
+[[mg:蜞]]
+[[pl:蜞]]
+[[th:蜞]]
+[[zh:蜞]]

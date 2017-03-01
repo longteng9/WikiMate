@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìshēng
+|mn=kià-seⁿ/kià-siⁿ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|ecology}} [[parasitism]]
+
+====Derived terms====
+{{zh-der|寄生蟲:[[parasite]]}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|き|せい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|きせい|y=ko|acc=h|dev=1}}
+
+===Noun===
+{{ja-noun|きせい}}
+
+# {{lb|ja|ecology}} [[parasitism]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|きせい}}
+
+# {{lb|ja|ecology|sort=きせい}} to be [[parasitic]]
+
+====Conjugation====
+{{ja-suru|きせい}}
+
+[[ko:寄生]]
+[[lt:寄生]]
+[[hu:寄生]]
+[[ru:寄生]]
+[[zh:寄生]]

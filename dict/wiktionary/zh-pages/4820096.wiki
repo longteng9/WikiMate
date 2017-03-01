@@ -1,0 +1,33 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=Xīnjiāpō
+|cat=pn
+}}
+{{attention|zh|needs Min Nan (same as 新加坡?)}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{lb|zh|dated}} {{zh-alt-name|新加坡|Singapore}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{ja-kanjitab|しん|か|k2=が|ぽーる|yomi=irr|r=y|sort=しんがぽおる}}
+[[ateji|Ateji]], with 「[[新]]」 and 「[[坡]]」 from {{etyl|zh|ja|sort=しんがぽおる}} {{m|zh|新加坡}}
+
+===Proper noun===
+{{ja-pos|proper|シンガポール}}
+
+# {{rare spelling of|シンガポール|lang=ja|sort=しんがぽおる}}
+[[Category:Japanese terms spelled with ateji|しんがぽおる]]
+{{catlangcode|ja|sort=しんがぽおる|Islands|Singapore|Countries of Asia|Exonyms}}
+
+[[lt:新嘉坡]]
+[[ja:新嘉坡]]
+[[zh:新嘉坡]]

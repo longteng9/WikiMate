@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=09|sn=11|four=21261|canj=OPPA|ids=⿰亻皆}}
+
+# [[together]]
+# be [[in order]]
+
+====References====
+* {{Han ref|kx=0110.230|dkj=00855|dj=0236.070|hdz=10188.120|uh=5055|ud=20565|bh=B0BA|bd=45242}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xié,jiē
+|c=gaai1,haai4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|偕偕|偕同|偕老|偕行|君子偕老|期頤偕老|白頭偕老|百年偕老|相偕|與民偕樂|計偕}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人09}}
+
+# {{defn|lang=ja|sort=人09}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai)|kun=[[ともに]] (tomoni)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[해]], [[혜]]|rv=hae, hye|mr=hae, hye}}
+
+# {{defn|lang=ko|sort=人09}}
+
+[[fr:偕]]
+[[li:偕]]
+[[hu:偕]]
+[[mg:偕]]
+[[ja:偕]]
+[[pl:偕]]
+[[th:偕]]
+[[zh:偕]]

@@ -1,0 +1,30 @@
+==Japanese==
+{{ja-kanjitab|しょ|り|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|しょり|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|しょり|kyu=處理}}
+
+# [[processing]]
+
+===Verb===
+{{ja-verb-suru|しょり|kyu=處理}}
+
+# [[process]]
+
+====Conjugation====
+{{ja-suru|処理|しょり|shori}}
+
+====Derived terms====
+* {{ja-r|並列処理|へいれつ しょり}}: [[parallel]] [[processing]]
+
+===References===
+<references/>
+
+[[hu:処理]]
+[[mg:処理]]
+[[ja:処理]]
+[[chr:処理]]
+[[zh:処理]]

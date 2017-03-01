@@ -1,0 +1,64 @@
+{{character info/new}}
+{{also|总|總}}
+==Translingual==
+{{Han simplified forms|總|総|总}}
+
+===Etymology===
+{{Han simp|總|f=悤|t=忩}}. Present form {{Han compound|糸|t1=rope, bind|忩|ls=psc|c1=s|c2=p}}.
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=08|sn=14|four=|canj=VFCIP|ids=⿰糹忩}}
+
+# [[collect]]
+# [[overall]], [[altogether]]
+
+====References====
+* {{Han ref|kx=0929.240|dkj=27620|dj=1367.160|hdz=53417.070|uh=7DCF|ud=32207}}
+
+----
+
+==Chinese==
+{{zh-see|總|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=糸08|style=s|kyu=總}}
+
+# {{defn|lang=ja|sort=糸08}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[ふさ]] (fusa), [[すべる]] (suberu), [[すべて]] (subete)|nanori=}}
+
+====Compounds====
+* {{ja-r|総合|そうごう}}: synthesis, consolidation
+
+===Etymology===
+{{ja-kanjitab|そう|yomi=o}}
+
+====Prefix====
+{{ja-pos|prefix|そう}}
+
+# [[overall]]
+#: {{ja-x|'''総'''工費|'''そう'''-こうひ|'''overall''' construction cost}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=총|eumhun=|rv=chong|mr=ch'ong|y=chong}}
+
+# {{defn|lang=ko|sort=糸08}}
+
+[[fr:総]]
+[[ko:総]]
+[[hu:総]]
+[[mg:総]]
+[[ja:総]]
+[[pl:総]]
+[[ru:総]]
+[[th:総]]
+[[zh:総]]

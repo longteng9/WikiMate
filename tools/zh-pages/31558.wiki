@@ -1,0 +1,125 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=186|rad=香|as=00|sn=9|four=20609|canj=HDA|ids=⿱禾日}}
+#{{mul-kangxi radical-def}}
+====See also====
+* {{l|mul|芳}}
+
+====References====
+* {{Han ref|kx=1428.210|dkj=44518|dj=1955.020|hdz=74423.010|uh=9999|ud=39321|bh=ADBB|bd=44475}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|i}} - grain ({{zh-l|*禾}}) over a mouth (originally {{zh-l|*口}}). The large and small seal script forms are more specific about what kind of grain, and uses {{zh-l|*黍}} (glutinous millet) instead of {{lang|zh|禾}}. Bottom is unrelated to {{zh-l|*日}}, and is instead {{zh-l|*甘}} or {{zh-l|*曰}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xiāng
+|c=hoeng1
+|h=pfs=hiông
+|md=hiŏng
+|mn=xm,qz,tp,kh,lk,sx,yl,km,mg,hc,tc:hiuⁿ/zz,tn:hioⁿ/xm,qz,tw:hiong/zz,tw:hiang
+|mn_note=hiuⁿ/hioⁿ - vernacular; hiong/hiang - literary (Taiwanese: hiang - only used in certain words, e.g. {{zh-l|*香油}}, {{zh-l|*五香}})
+|w=1xian
+|mc=y
+|oc=y
+|ma=y
+|cat=a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[fragrant]]; [[fragrance]]
+# {{lb|zh|of|food}} [[aromatic]]; [[delicious]]-smelling
+# {{lb|zh|of eating}} [[enjoyable]]; {{lb|zh|of sleep}} [[sound]]
+# [[popular]]
+# [[perfume]]
+# {{lb|zh|religion}} [[joss stick]]; [[incense]] {{zh-mw|m:束|支}}
+# {{lb|zh|figurative}} [[woman]]
+# {{lb|zh|dialectal}} to [[kiss]]
+
+====Synonyms====
+{{zh-dial}}
+
+====Antonyms====
+* {{sense|fragrant|fragrance}} {{zh-l|臭}}
+
+===Compounds===
+{{zh-der|沉香|大茴香|丁香|茴香|藿香|迦南香|龍涎香|木香|乳香|上沉香|麝香|麝香片|松香|蘇合香|土木香|香案|香檳|香檳酒|香波|香餑餑兒|香菜|香草|香腸|香橙|香椿|香醇|香純|香餌|香粉|香港|香灰|香蕉|香料|香爐|香噴噴|香片|香氣|香色|香水|香甜|香味|香消玉沉|香菸|香煙|香艷|香油|香皂|小茴香|芸香|香冮|七香|上香|五香|仇香|信香|偷香|凝香|刈香|印香|吃香|噴香|國香|土香|埋香|天香|安香|尋香|幽香|心香|悶香|憐香|拈香|提香|斗香|暗香|書香|梅香|楓香|檀香|油香|清香|炷香|焚香|熏香|燒香|瑞香|瓣香|異香|盤香|稻香|篆香|線香|聽香|膩香|臂香|花香|芳香|藏香|蘭香|蘹香|蚊香|蜜香|行香|親香|進香|酒香|阿香|降香|頭香|香串|香乾|香亭|香公|香冢|香分|香包|香印|香囊|香奩|香妃|香客|香山|香巢|香市|香帛|香房|香扇|香斗|香會|香染|香樟|香櫞|香毬|香汗|香湯|香澤|香火|香燈|香燭|香瓜|香界|香稻|香筒|香筵|香篆|香精|香紙|香纓|香肉|香脆|香腮|香花|香茅|香茶|香菇|香菌|香蒲|香蓼|香蕈|香薷|香袋|香豔|香貍|香車|香酥|香鋪|香錢|香閨|香附|香頌|香頭|香願|香餅|香魚|香麝|香麞|馨香|高香|黃香|點香|龍香}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=香00}}
+
+====Readings====
+* {{ja-readings|goon=[[こう]] (kō)|kanon=[[きょう]] (kyō)|kun=[[かおる|かお.る]] (kao.ru), [[かおり|かお.り]] (kao.ri), [[か]] (ka)}}
+
+====Compounds====
+* [[香気]]
+* [[香具師]]
+* [[香車]]
+* [[香水]]
+* [[香道]]
+* [[香草]]
+* [[香箱]]
+* [[香木]]
+* [[香霧]]
+* [[香料]]
+* [[香炉]]
+
+===Noun===
+{{ja-noun|きょう}}
+
+# [[fragrance]]
+# {{lb|ja|shogi}} [[lance]] (abbreviation of [[香車]])
+
+[[Category:ja:Shogi|きょう]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=향|eumhun=|rv=hyang|mr=hyang|y=hyang}}
+
+# {{defn|lang=ko|sort=香00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hương]], [[nhang]], [[hồng]]|rs=香00}}
+
+# [[incense]]
+# [[fragrance]]
+# [[odour]]
+
+[[Category:CJKV radicals| ]]
+
+[[zh-min-nan:香]]
+[[fr:香]]
+[[ko:香]]
+[[hu:香]]
+[[mg:香]]
+[[ms:香]]
+[[ja:香]]
+[[no:香]]
+[[pl:香]]
+[[ru:香]]
+[[ta:香]]
+[[th:香]]
+[[uk:香]]
+[[zh:香]]

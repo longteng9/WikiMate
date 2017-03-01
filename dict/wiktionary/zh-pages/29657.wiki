@@ -1,0 +1,54 @@
+{{character info/new}}
+{{also|錄}}
+==Translingual==
+{{Han simplified forms|錄|録|录}}
+
+===Etymology===
+{{Han simp|錄|f=彔|t=录}}.
+
+Note the long bottom stroke on 彐, which should not be written as [[ヨ]] – the bottom stroke should extend to the right, past the vertical.
+
+===Han character===
+{{Han char|rn=167|rad=金|as=08|sn=16|four=|canj=CNME}}
+
+# [[copy]]
+
+====References====
+* {{Han ref|kx=1313.051|dkj=40519|dj=1811.070|hdz=64225.100|uh=9332|ud=37682}}
+
+----
+
+==Chinese==
+{{zh-see|錄|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=金08|style=s|kyu=錄}}
+
+# {{defn|lang=ja|sort=金08}}
+
+====Readings====
+* {{ja-readings|goon=[[ろく]] (roku)|kanon=[[りょう]] (ryoku)|on=[[りょ]] (ryo)|kun=[[しるす]] (shirusu)|nanori=}}
+
+====Compounds====
+* {{ja-r|記録|きろく}}
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[록]]>[[녹]], [[여]]|eumhun=|rv=rok>nok, yeo|mr=rok>nok, yŏ|y=lok>nok, ye}}
+
+# {{defn|lang=ko|sort=金08}}
+
+[[fr:録]]
+[[it:録]]
+[[hu:録]]
+[[mg:録]]
+[[ja:録]]
+[[pl:録]]
+[[th:録]]
+[[zh:録]]

@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|く|ろう|yomi=o}}
+
+===Noun===
+{{ja-noun|くろう|kyu=苦勞}}
+
+# [[toil]], [[hardship]]
+# [[worry]], [[anxiety]]
+
+===Verb===
+{{ja-verb-suru|くろう|kyu=苦勞}}
+
+# to toil, to work hard
+#: {{ja-usex|分からせるのに'''苦労'''している。|わからせる のに '''くろう''' して いる。|It takes forever for them to understand.}}
+# to worry
+
+====Conjugation====
+{{ja-suru|くろう}}
+
+[[ko:苦労]]
+[[ja:苦労]]
+[[zh:苦労]]

@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|咏}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=06|sn=13|four=03632|canj=YRINE}}
+
+# [[sing]], [[hum]], [[chant]]
+
+====References====
+* {{Han ref|kx=1156.180|dkj=35409|dj=1621.220|hdz=63957.080|uh=8A60|ud=35424|bh=B5FA|bd=46586}}
+
+----
+
+==Chinese==
+{{zh-forms|s=咏}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǒng
+|c=wing6
+|mn=qz,xm,zz:éng
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一觴一詠|一詠一觴|南樓詠謔|吟詠|吟詠性情|吟詠情性|吟風詠月|嘯詠|嘲風詠月|歌詠|玉臺新詠|班姬詠扇|聖詠|行吟坐詠|觴詠|詠史詩|詠嘆|詠嘆調|詠懷|詠懷古蹟|詠歎|詠物詩|詠絮|詠贊|詠雪之慧|詠雪之才|誦詠|題詠}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=言05}}
+
+# {{defn|lang=ja|sort=言05}}
+
+====Readings====
+* {{ja-readings|on=[[えい]] (ei)|kun=[[よむ]] (yomu), [[うたう]] (utau), [[ながめる]] (nagameru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=영|eumhun=|rv=yeong|mr=yŏng|y=yeng}}
+
+# {{defn|lang=ko|sort=言05}}
+
+====References====
+* {{Hanja ref|nav=9846}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[vịnh]], [[vẳng]], [[vạnh]]|rs=言05}}
+
+# {{defn|lang=vi|sort=言05}}
+
+[[fr:詠]]
+[[ko:詠]]
+[[hu:詠]]
+[[mg:詠]]
+[[ja:詠]]
+[[pl:詠]]
+[[th:詠]]
+[[zh:詠]]

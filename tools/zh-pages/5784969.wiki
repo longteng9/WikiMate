@@ -1,0 +1,26 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wánwán,er=1
+|c=waan4-2 jyun4
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|informal}} [[done for]]; [[finished]]; [[ended]]; [[used up]]; [[died]]; [[outdated]]; [[broken]]; gone for the dogs; [[ruined]]
+#: {{zh-x|這{zhèi}下 算是 '''玩兒{r}完''' 了。|We are (finally) '''screwed''' this time. [somewhat jocular]}}
+
+====Synonyms====
+* {{qualifier|Cantonese}} {{zh-l|冇呢支歌仔唱}}
+* {{qualifier|Cantonese}} {{zh-l|冇嗰支歌仔唱}}
+* {{qualifier|Cantonese}} {{zh-l|冇嗮}}
+* {{qualifier|Cantonese}} {{sense|broken}} {{zh-l|爛咗}}
+* {{qualifier|Cantonese}} {{sense|outdated}} {{zh-l|過時}}
+* {{zh-l|終止}}
+* {{qualifier|Mandarin}} {{zh-l|完蛋}}
+
+[[zh:玩完]]

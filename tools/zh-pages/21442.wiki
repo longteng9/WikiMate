@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|癫}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=19|sn=24|four=00186|canj=KJCC}}
+
+# [[crazy]], [[mad]]
+# [[madness]], [[mania]], [[insanity]]
+
+====References====
+* {{Han ref|kx=0783.170|dkj=22643|dj=1192.350|hdz=42705.030|uh=7672|ud=30322|bh=C5F6|bd=50678}}
+
+----
+
+==Chinese==
+{{zh-forms|s=癫}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=diān
+|c=din1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[crazy]]; [[nuts]]; [[mad]]
+#: {{zh-x|癲狗病|rabies (''lit.'' '''mad''' dog sickness)|C}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Cantonese}}{{attention|zh|maybe?}} to [[go mad]]; to [[display]] [[insane]] [[behavior]]
+
+===See also===
+* {{zh-l|狂}}, {{zh-l|瘋}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒19}}
+
+# {{defn|lang=ja|sort=疒19}}
+
+====Readings====
+* {{ja-readings|on=[[てん]] (ten)|kun=[[くるう]] (kuruu), [[てんかん]] (tenkan)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|eumhun=|rv=jeon|mr=chŏn|y=cen}}
+
+# {{defn|lang=ko|sort=疒19}}
+
+[[fr:癲]]
+[[hu:癲]]
+[[ja:癲]]
+[[pl:癲]]
+[[th:癲]]
+[[zh:癲]]

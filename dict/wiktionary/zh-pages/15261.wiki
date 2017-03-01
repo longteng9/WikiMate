@@ -1,0 +1,95 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=60|rad=彳|as=06|sn=9|four=24241|canj=HOGDI|ids=⿰彳寺}}
+
+====References====
+* {{Han ref|kx=0366.050|dkj=10085|dj=0686.110|hdz=20818.070|uh=5F85|ud=24453|bh=ABDD|bd=43997}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|彳|寺|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=dài
+|c=daai1,doi6
+|h=pfs=thai
+|md=
+|mn=tāi/thāi
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[treat]]; to [[entertain]]; to [[receive]]
+# to [[wait]]
+# {{lb|zh|Wuhan}} [[progressive aspect]] particle
+#* {{zh-x|待 搞 麽 事 啊?|tr=tai35 kau42 mo42 sɿ35 a |What are you doing?|M-W}}
+
+===Compounds===
+{{zh-der|待不見|待人接物|待機|另眼相待|席珍待聘|坐以待斃|待業|待人處世|久待|待慢|亟待|急不可待|倚馬可待|待人處事|待斃|交待|待質|延頸待刃|待媒|可待|刮目相待|可待因|寬待|另眼看待|慢待|含苞待放|厚待|待考|怕不待|安坐待斃|待賈|待詔|待見|待罪羔羊|待產室|待理不理|待機而動|待東|待期|待時而舉|待時而動|待時守分|待時|待旦|待承|待年|待客廳|待客|待字閨中|待字|待好|待報|待售|待古|待制|待到|待價藏珠|待價而沽|待人|待一會兒|企足而待|嗷嗷待哺|待遇|待命|優待月票|待查|優待|優待券|坐而待旦|屈己待人|待產|吐哺待賢|待中|急待|待剛來|以禮相待|守株待兔|善待|對待|恭己待人|不待|待機位置|守先待後|差別待遇|只待|優惠待遇|少待|坐而待斃|便待|偏待|卻待|待罪|不待蓍龜|以逸待勞|待不了|坐以待旦|待茶|待月西廂|不待要|嚴陣以待|包待制|待漏|待物|停待|以佚待勞|待伏|擔待|招待|敢待|推誠待物|相待如賓|枕戈待旦|拭目以待|折節待士|正待|欲待|決不待時|當待|拭目而待|整裝待發|懶待|相待|留待|用逸待勞|祗待|招待券|百端待舉|看待|相待而成|束手待斃|接待|接待員|款待|直待|指日可待|更待何時|百廢待舉|更待干罷|斂手待斃|有待|期待|枕戈待敵|時不我待|掃榻以待|招待所|特惠待遇|賓待|管待|虐待狂|蹺足而待|等待|翹足而待|須待|被虐待狂|虛左以待|計日而待|處世待人|虛位以待|韞櫝待價|韜晦待時|靜待|館待|迎風待月|紅絲待選|蓄勢待發|耽待|逸以待勞|迫不及待|虐待|蘊奇待價|虧待|苦待|藏器待時|自不待言|薄待}}
+
+===References===
+* Zhang, Shiliang (2015). ''The Wuhan dialect : a hybrid Southwestern Mandarin variety of Sinitic'' (Thesis). The University of Hong Kong.
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=彳06}}
+
+# wait
+
+====Readings====
+* {{ja-readings|goon=[[だい]] (dai)|kanon=[[たい]] (tai)|kun=[[まつ]] (matsu)}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|待機|たいき}}
+* {{ja-r|待望|たいぼう}}
+{{mid3}}
+* {{ja-r|待合室|まちあいしつ}}
+* {{ja-r|期待|きたい}}
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=대}}
+
+# {{defn|lang=ko|sort=彳06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đãi]], [[đảy]], [[đậy]], [[đẩy]], [[đẫy]], [[đợi]], [[rãi]], [[dợi]], [[đất]], [[được]]|rs=彳06}}
+
+# {{defn|lang=vi|sort=彳06}}
+
+[[fr:待]]
+[[ko:待]]
+[[hu:待]]
+[[mg:待]]
+[[ja:待]]
+[[no:待]]
+[[pl:待]]
+[[th:待]]
+[[chr:待]]
+[[uk:待]]
+[[zh:待]]

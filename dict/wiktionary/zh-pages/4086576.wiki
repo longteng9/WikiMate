@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|おん|げん|yomi=on}}
+
+===Etymology===
+Literally "source of [a] sound."
+
+===Noun===
+{{ja-noun|おんげん}}
+
+# [[source]] of a [[sound]]
+# {{lb|ja|computing}} [[device]] or [[chip]] that [[produce]]s [[sound]]
+#* Japanese Wikipedia, {{w2|ja|YM2612}}
+#*: {{ja-usex|YM2612(OPN2)は1988年にヤマハが開発した4オペレータ、同時発音数6音ステレオのFM音源機能を持ったFM音源チップ。|YM2612 (OPN2) は 1988-ねん に ヤマハ が かいはつ した 4 オペレータ、どうじ はつおん すう 6-おん ステレオ の FM おんげん きのう を もった FM おんげん チップ。|{{t-needed|ja}}}}
+# {{lb|ja|music}} [[commercially]]-[[sold]] or -[[offered]] [[recording]] {{attention|ja|please check}}
+#* Japanese Wikipedia, {{w2|ja|ふわふわ時間}}
+#*: {{ja-usex|表題曲「ふわふわ時間」とは、原作中に登場した曲「ふわふわタイム」を音源化したもの。|^ひょうだいきょく 「^ふわふわ ^タイム」 と は、げんさく-ちゅう に とうじょう した きょく 「^ふわふわ ^タイム」 を おんげんか した もの。|The central song{{attention|ja|check transl. of "表題曲"}} "Fuwa Fuwa Time" is a CD version of the "Fuwa Fuwa Time" that appeared in the original work.}}
+
+[[hu:音源]]
+[[ja:音源]]
+[[zh:音源]]

@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=170|rad=阜|as=10|sn=13|four=78217|canj=NLTCT|ids=⿰[[阜|⻖]][[益]]}}
+
+# [[narrow]], [[confined]]
+# a [[strategic]] [[pass]]
+
+====References====
+* {{Han ref|kx=1358.240|dkj=41791|dj=1862.250|hdz=64152.150|uh=9698|ud=38552|bh=B969|bd=47465}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=āi,ē
+|c=aai3,ai3,ak1,ngaai3,ngak1
+|mn=e̍h
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|困隘|山隘|湫隘|狹隘|褊隘|要隘|迫隘|邊隘|關隘|阻隘|隘口|隘害|隘巷|隘懾|隘窘|隘路|隘險|險隘}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=阜10}}
+
+# [[narrow]]
+
+====Readings====
+* {{ja-readings|kanon=[[あい]] (ai), [[あく]] (aku)|goon=[[え]] (e), [[やく]] (yaku)|kun=[[せまい]] (semai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[애]], [[액]]|eumhun=|rv=ae, aek|mr=ae, aek|y=ay, ayk}}
+
+# {{defn|lang=ko|sort=阜10}}
+
+[[fr:隘]]
+[[ko:隘]]
+[[hu:隘]]
+[[mg:隘]]
+[[ja:隘]]
+[[no:隘]]
+[[pl:隘]]
+[[ru:隘]]
+[[th:隘]]
+[[zh:隘]]

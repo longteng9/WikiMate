@@ -1,0 +1,61 @@
+==Chinese==
+{{zh-forms|alt=心晟-Min Nan:sim-chiâⁿ}}
+
+===Pronunciation===
+{{zh-pron
+|m=xīnqíng
+|c=sam1 cing4
+|h=pfs=sîm-chhìn
+|mn=sim-chêng/qz,twv:sim-chiâⁿ
+|mn_note=sim-chêng - literary; sim-chiâⁿ - vernacular
+|ma=Zh-xinqíng.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[mood]], [[frame of mind]], [[temper]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|じょう|yomi=on}}
+
+===Etymology===
+From {{m|ja|心|sc=Jpan|tr=shin||heart}} + {{m|ja|情|sc=Jpan|tr=jō||emotion}}
+
+===Noun===
+{{ja-noun|しんじょう}}
+
+# one's [[heart]], one's [[feeling]]s
+
+====Derived terms====
+{{der-top}}
+* [[心情吐露]] (''shinjō toro''): expression of one's feelings
+* [[心情的]] (''shinjōteki''): sentimental
+{{der-mid}}
+* [[心情論]] (''shinjōron''): emotionalism, sentimentality
+* [[消費者心情]] (''shōhisha shinjō''): consumer sentiment
+{{der-bottom}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|rv=simjeong|hangeul=심정}}
+
+# {{hanja form of|심정|feeling}}
+
+[[zh-min-nan:心情]]
+[[ko:心情]]
+[[hu:心情]]
+[[mg:心情]]
+[[ja:心情]]
+[[pt:心情]]
+[[sr:心情]]
+[[chr:心情]]
+[[uk:心情]]
+[[zh:心情]]

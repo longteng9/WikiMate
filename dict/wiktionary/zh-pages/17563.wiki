@@ -1,0 +1,72 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=06|sn=10|four=43944|canj=DJV|ids=⿰木安}}
+
+====References====
+* {{Han ref|kx=0525.100|dkj=14763|dj=0914.050|hdz=21207.070|uh=6849|ud=26697|bh=D1DB|bd=53723}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=ān,àn
+|c=on1,on3
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[eucalyptus]]
+
+===Noun===
+{{zh-see|案|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木06}}
+
+# {{defn|lang=ja|sort=木06}}
+
+====Readings====
+* {{ja-readings|on=[[あん]] (an)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=안|eumhun=|rv=an|mr=an|y=an}}
+
+# {{defn|lang=ko|sort=木06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木06|hanviet=an}}
+
+# {{defn|lang=vi|sort=木06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6849 Nom Foundation]
+
+[[fr:桉]]
+[[hu:桉]]
+[[mg:桉]]
+[[pl:桉]]
+[[th:桉]]
+[[vi:桉]]
+[[zh:桉]]

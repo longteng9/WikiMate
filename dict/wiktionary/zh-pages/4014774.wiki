@@ -1,0 +1,37 @@
+{{also|追擊}}
+==Japanese==
+{{ja-kanjitab|つい|げき|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|ついげき|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ついげき|kyu=追擊}}
+
+# [[pursuit]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|ついげき|kyu=追擊}}
+
+# [[chase]], [[pursue]]
+
+====Conjugation====
+{{ja-suru|ついげき}}
+
+===References===
+<references/>
+<!--
+todo: move to 追擊
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=추격}}
+
+# {{hanja form of|추격|chase, pursuit}}
+-->
+
+[[mg:追撃]]
+[[ja:追撃]]
+[[zh:追撃]]

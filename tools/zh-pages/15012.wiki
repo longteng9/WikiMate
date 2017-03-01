@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|痒}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=53|rad=广|as=06|sn=9|four=00251|canj=ITQ|ids=⿸广羊}}
+
+# [[village]] [[school]]
+# [[teach]]
+
+====References====
+* {{Han ref|kx=0345.110|dkj=09298|dj=0655.010|hdz=20883.090|uh=5EA0|ud=24224|bh=ABD6|bd=43990}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiáng
+|c=coeng4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|上庠|入庠|庠序|庠生|膠庠|遊庠|邑庠|郡庠}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=广06}}
+
+# {{defn|lang=ja|sort=广06}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[まなびや]] (manabiya)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=상|rv=sang|mr=sang}}
+
+# {{defn|lang=ko|sort=广06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=广06|hanviet=tường}}
+
+# {{defn|lang=vi|sort=广06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5ea0 Nom Foundation]
+
+[[fr:庠]]
+[[ko:庠]]
+[[hu:庠]]
+[[mg:庠]]
+[[ja:庠]]
+[[pl:庠]]
+[[th:庠]]
+[[zh:庠]]

@@ -1,0 +1,62 @@
+{{also|书店}}
+==Chinese==
+{{zh-forms|s=书店}}
+
+===Pronunciation===
+{{zh-pron
+|m=shūdiàn
+|c=syu1 dim3
+|h=pfs=sû-tiam
+|mn=xm:su-tiàm/qz:chir-tiàm/qz:chir-tùiⁿ/zz:si-tiàm/tw:chu-tiàm
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[bookshop]]; [[bookstore]] {{zh-mw|m:家|間}}
+
+====Synonyms====
+* {{zh-l|書局}}
+* {{zh-l|書鋪}}
+* {{zh-l|書坊}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょ|てん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|しょてん|acc=0}}
+
+===Noun===
+{{ja-noun|しょてん}}
+
+# [[bookstore]], [[bookshop]]
+# book [[publisher]]
+
+====Synonyms====
+* {{sense|bookstore}} {{ja-r|本屋|ほんや}}
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab|書|店}}
+
+===Noun===
+{{ko-noun|rv=seojeom|hangeul=서점}}
+
+# {{hanja form of|서점|[[bookstore]], [[bookshop]]}}
+
+====See also====
+* {{l|ko|冊房}} ([[책방]], chaekbang)
+
+[[ko:書店]]
+[[hu:書店]]
+[[fj:書店]]
+[[ja:書店]]
+[[ru:書店]]
+[[zh:書店]]

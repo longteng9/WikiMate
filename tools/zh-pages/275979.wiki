@@ -1,0 +1,25 @@
+{{also|万维网}}
+==Chinese==
+{{zh-forms|s=万维网|lit=ten thousand-dimensional web}}
+
+===Etymology===
+Ingenious {{zh-psm|World Wide Web|nocap=1}}, so that the resulting Mandarin pronunciation also has a similar phonological shape (''w-w-w-'').
+
+===Pronunciation===
+{{zh-pron
+|m=wànwéiwǎng
+|c=maan6 wai4 mong5
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{lb|zh|computing}} [[World Wide Web]]; [[WWW]]
+
+====Synonyms====
+* {{zh-l|互聯網}}
+* {{zh-l|因特網}}
+* {{zh-l|網際網路}}
+
+[[ja:萬維網]]

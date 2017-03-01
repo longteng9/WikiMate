@@ -1,0 +1,55 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=19|sn=23|canj=VFA|four=22603|ids=⿱䜌日}}
+
+# [[dusk]], [[twilight]]
+
+====References====
+* {{Han ref|kx=0501.430|dkj=14265|hdz=21542.170|uh=66EB|ud=26347|bh=F7DF|bd=63455}}
+* [http://yedict.com/htm/66/66EB.htm yedict.com (叶典)]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=luán
+|c=lyun4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[dusk]]
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 124]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日19}}
+
+# {{defn|lang=ja|sort=日19}}
+
+====Readings====
+* {{ja-readings|on=[[らん]] (ran), [[ばん]] (ban), [[まん]] (man), [[れん]] (ren)|kun=[[たそがれ]] (tasogare)}}
+
+[[fr:曫]]
+[[hu:曫]]
+[[pl:曫]]
+[[th:曫]]
+[[zh:曫]]

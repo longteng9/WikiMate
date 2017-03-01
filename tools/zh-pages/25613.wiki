@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=13|sn=19|four=44414|canj=TOKG}}
+
+# [[weed]]
+# [[shave]]
+
+====References====
+* {{Han ref|kx=1061.200|dkj=32121|dj=1525.150|hdz=53302.070|uh=8599|ud=34201|bh=EE4B|bd=61003}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tì
+|c=tai3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|刊薙|草薙禽獮|薙髮|薙髮令}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸13}}
+
+# {{defn|lang=ja|sort=艸13}}
+
+====Readings====
+* {{ja-readings|goon=[[たい]] (tai), [[じ]] (ji)|kanon=[[てい]] (tei), [[ち]] (chi)|kun=[[かる]] (karu), [[なぐ]] (nagu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=치|eumhun=|rv=chi|mr=ch'i|y=chi}}
+
+# {{defn|lang=ko|sort=艸13}}
+
+[[fr:薙]]
+[[mg:薙]]
+[[ja:薙]]
+[[pl:薙]]
+[[th:薙]]
+[[zh:薙]]

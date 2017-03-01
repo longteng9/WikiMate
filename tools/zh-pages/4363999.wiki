@@ -1,0 +1,76 @@
+{{also|红毛}}
+==Chinese==
+{{zh-forms|s=红毛}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=hóngmáo
+|c=hung4 mou4
+|mn=qz,xm,tw:âng-mn̂g/zz:âng-mô͘/zz:âng-mo͘
+|mn-t=ang5 mo5
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[red]] [[hair]] (on animals)
+# {{lb|zh|derogatory|Singapore|Malaysia|Taiwan|chiefly|Hokkien}} a red-haired person; by extension, a [[Caucasian]] person, a [[white]] person; [[ang moh]]
+
+====Derived terms====
+{{zh-der|紅毛塗|紅毛草|紅毛番|紅毛國|紅毛人|紅毛樓|紅毛話|紅毛婆|紅毛城|紅毛泥|紅毛茄|紅毛冬節}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|こう|もう|yomi=o}}
+Possibly coined in Japan of {{etyl|ltc|ja|sort=こうもう}}-derived elements {{compound|lang=ja|sort=こうもう|紅|tr1=kō|t1=red, crimson|毛|tr2=mō|t2=hair}}.
+
+Alternately, possibly from {{etyl|ltc|ja|sort=こうもう}} compound {{m|ltc|紅毛|tr=*hung *mɑu}}.
+
+Compare modern {{etyl|zh|-}} simplified {{m|zh|红毛}} and traditional {{m|zh|紅毛|tr=hóngmáo}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|h|こ|うもう}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[ko̞ːmo̞ː]}}
+
+====Noun====
+{{ja-noun|こうもう}}
+
+# [[red]] [[hair]]
+# during the [[w:Edo period|Edo period]], an [[epithet]] for the [[Dutch]], contrasting with the term {{m|ja|南蛮|tr=nanban|lit=Southern barbarians}} used for the [[Spanish]] and [[Portuguese]]
+# in modern times, an [[epithet]] for [[Westerner]]s or [[European]]s
+
+=====Synonyms=====
+* {{sense|red hair}} {{ja-l|赤毛|あかげ|akage}} {{qualifier|more general term for a [[redhead]]}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|紅毛画|こうもうが|kōmōga}}: during the [[w:Edo period|Edo period]], western pictures that were imported into Japan through Dutch-controlled Nagasaki; those Japanese-produced pictures that were influenced by western artwork
+* {{ja-l|紅毛人|こうもうじん|kōmōjin}}: during the [[w:Edo period|Edo period]], an [[epithet]] for a [[Dutch]] person, contrasting with the term {{m|ja|南蛮|tr=nanban|lit=Southern barbarians}} used for the [[Spanish]] and [[Portuguese]]
+* {{ja-l|紅毛船|こうもうせん|kōmōsen}}: an [[epithet]] for European trading ships that visited Japan in the late 1600s, primarily from the [[Netherlands]], contrasting with the term {{m|ja|南蛮船|tr=nanbansen|lit=Southern barbarian ship}} used for ships from [[Spain]] and [[Portugal]]
+* {{ja-l|紅毛碧眼|こうもうへきがん|kōmō hekigan}}: literally “red hair, blue eyes” → a [[Westerner]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|sort=おらんだ}}
+By extension from the ''red hair'' meaning being applied to the [[Dutch]], used as [[jukujikun]] for {{m|ja|オランダ|tr=Oranda||Holland}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+* {{l|ja|sc=Latn|慣用読み|Kan'yōyomi}}
+* {{ja-pron|おらんだ}}
+
+====Proper noun====
+{{ja-pos|proper|おらんだ}}
+
+# {{lb|ja|sort=おらんだ|obsolete}} [[Holland]], the [[Netherlands]]
+
+=====Usage notes=====
+This reading was used primarily during the [[w:Edo period|Edo period]], and has since fallen out of use.
+
+===References===
+<references/>

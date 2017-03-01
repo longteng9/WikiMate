@@ -1,0 +1,85 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=08|sn=11|four=38132|canj=EOIP|ids=⿰氵念}}
+
+# [[fish]]
+# [[still]]
+
+====References====
+* {{Han ref|kx=0631.170|dkj=17685|dj=1034.060|hdz=31655.040|uh=6DF0|ud=28144|bh=D5F9|bd=54777}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=niǎn
+|c=naam5
+|mc=3
+|oc=1
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=niǎn
+|c=nim5
+|mc=2
+|oc=2
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=shěn
+|c=sam2
+|mc=1
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水08}}
+
+# {{defn|lang=ja|sort=水08}}
+
+====Readings====
+* {{ja-readings|on=[[でん]] (den), [[だん]] (dan), [[ねん]] (nen), [[あん]] (an), [[おん]] (on)|kun=[[にごる]] (nigoru)}}
+
+----
+
+==Zhuang==
+
+===Noun===
+{{za-head|noun}}
+
+# {{za-sawndip form of|raemx}}
+
+[[fr:淰]]
+[[hu:淰]]
+[[mg:淰]]
+[[pl:淰]]
+[[th:淰]]
+[[zh:淰]]

@@ -1,0 +1,54 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=141|rad=虍|as=08|sn=12|four=21281|canj=YPTCC,YPTMC}}
+
+# support structure for bell
+
+====References====
+* {{Han ref|kx=1075.080|dkj=32734|dj=1543.130|hdz=42828.120|uh=8661|ud=34401|bh=E3D4|bd=58324}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=鐻}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jù
+|c=geoi6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|栒虡|簨虡|筍虡}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虍08}}
+
+# {{defn|lang=ja|sort=虍08}}
+
+====Readings====
+* {{ja-readings|on=[[きょ]] (kyo), [[ご]] (go)|kun=[[はしる]] (hashiru)|nanori=}}
+
+[[fr:虡]]
+[[hu:虡]]
+[[mg:虡]]
+[[pl:虡]]
+[[th:虡]]
+[[zh:虡]]

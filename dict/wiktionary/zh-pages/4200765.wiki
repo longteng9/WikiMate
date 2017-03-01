@@ -1,0 +1,29 @@
+{{also|升华|昇華}}
+==Chinese==
+{{zh-forms|s=升华|t2=昇華}}
+
+===Etymology===
+{{bor|zh|ja|昇華|tr=shōka}}
+
+===Pronunciation===
+{{zh-pron
+|m=shēnghuá
+|c=sing1 waa4
+|mn=seng-hôa
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|physics|_|&|_|psychology}} [[sublimation]]
+# {{lb|zh|literal|_|&|_|figurative}} [[purification]]; [[distillation]]
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|physics|_|&|_|psychology}} to [[sublimate]]
+# {{lb|zh|literal|_|&|_|figurative}} to [[purify]]; to [[distill]]
+# to [[elevate]] to the [[sublime]]; to [[raise]] to a [[higher]] [[level]]
+
+{{zh-cat|Chemical processes|Weather}}

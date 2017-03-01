@@ -1,0 +1,93 @@
+{{character info/new}}
+{{also|讎|仇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=16|sn=23|four=|canj=OGYMR|ids=⿱雔言}}
+
+# [[enemy]], [[rival]], [[opponent]]
+
+====References====
+* {{Han ref|kx=1187.030|dkj=36125|hdz=64031.030|uh=8B90|ud=35728}}
+
+----
+
+==Chinese==
+{{zh-see|讎|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言16}}
+
+# [[enemy]]
+# [[revenge]], [[vengeance]]
+
+====Readings====
+{{ja-readings
+|goon=[[じゅ]] (ju), [[ず]] (zu)
+|on=[[しゅう]] (shū), {{qualifier|historical}} [[しう]] (shiu)
+|kun=[[あだ]] (ada), [[むくいる]] ([[讐いる]], mukuiru)
+}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|あだ}}
+{{IPAchar|/ata/}} → {{IPAchar|/ada/}}
+
+A sound shift in the {{w|Edo period}} from earlier form ''ata'', itself from classical verb {{m|ja|当つ|tr=atsu}}, which became modern {{m|ja|当たる|tr=ataru||to be against}}.
+
+===Pronunciation===
+{{ja-pron|yomi=k|あだ|acc=2|acc_ref=DJR}}
+
+===Alternative forms===
+* {{ja-l|仇}}, {{qualifier|rare}} {{ja-l|寇}}
+
+===Noun===
+{{ja-noun|あだ}}
+
+# an [[opponent]], an [[enemy]], a [[foe]]
+# [[harm]], [[injury]]
+# [[terrible]] [[treatment]] (of someone or something)
+# [[hate]] towards someone, a [[grudge]]
+
+====Usage notes====
+The spelling {{m|ja|仇}} is much more common.
+
+====Synonyms====
+* {{sense|enemy}} {{m|ja|敵|tr=kataki}}, {{m|ja|敵|tr=teki}}
+* {{sense|harm}} {{m|ja|危害|tr=kigai}}
+* {{sense|hate}} {{m|ja|怨み|tr=urami}}
+* {{sense|grudge}} {{m|ja|怨恨|tr=enkon}}, {{m|ja|遺恨|tr=ikon}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=言16}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=言16|hanviet=[[cừu]], [[thù]]}}
+
+# {{defn|lang=vi|sort=言16}}
+
+[[fr:讐]]
+[[ko:讐]]
+[[hu:讐]]
+[[mg:讐]]
+[[ja:讐]]
+[[pl:讐]]
+[[th:讐]]
+[[vi:讐]]
+[[zh:讐]]

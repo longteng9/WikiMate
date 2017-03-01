@@ -1,0 +1,29 @@
+{{also|惯性系}}
+==Chinese==
+{{zh-forms|s=惯性系|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=guànxìngxì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[inertial system]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|せい|けい}}
+
+===Pronunciation===
+{{ja-pron|かんせいけい|y=on}}
+
+===Noun===
+{{ja-noun|かんせいけい}}
+
+# inertial frame of reference
+
+{{wikipedia|lang=ja|慣性系}}

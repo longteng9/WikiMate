@@ -1,0 +1,101 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǒudū
+|c=sau2 dou1
+|h=pfs=sú-tû
+|md=siū-dŭ
+|mn=siú-to͘
+|w=2seu tu
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[capital]]; capital city {{gloss|of a country}} {{zh-mw|個}}
+#: {{zh-x|倫敦 是 ^英國 的 '''首都{dū}'''。|London is the '''capital''' of the UK.}}
+
+====Usage notes====
+When translating the English term ''capital city'', use {{zh-l|首都}} when referring to the capital of a country, {{zh-l|首府}} when referring to the capital of a state or autonomous region, and {{zh-l|省會}} when referring to the capital of a province. Alternative terms for the capital of a country include {{zh-l|國都}}, {{zh-l|京城}}, {{zh-l|京都}}, {{zh-l|京邑}} and {{zh-l|都城}} all of which are more commonly used in literary language.
+
+====Synonyms====
+* {{zh-l|都城}}
+* {{zh-l|國都}}
+* {{zh-l|京都}}
+* {{zh-l|京城}}
+* {{zh-l|京邑}}
+
+====See also====
+* {{zh-l|省會}}
+* {{zh-l|首府}}
+
+===Descendants===
+{{CJKV|首都|しゅと|수도|thủ đô}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅ|と|yomi=on}}
+{{wikipedia|lang=ja}}
+
+===Pronunciation===
+* {{ja-pron|しゅと|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|しゅと}}
+# [[capital]], capital city
+#: {{ja-usex|東京は日本の首都です。|^とうきょう は ^にっぽん の しゅと です。|Tokyo is the '''capital''' of [[Japan]].}}
+#: {{ja-usex|京都は かつて日本の首都でした。|^きょうと は かつて ^にっぽん の しゅと でした。|Kyoto was once Japan's '''capital'''.}}
+
+====Compounds====
+* {{ja-r|首都圏|しゅとけん}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=수도}}
+
+# {{hanja form of|수도|the capital of a country}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|thủ đô|[[capital]], [[capital city]]}}
+
+[[zh-min-nan:首都]]
+[[cs:首都]]
+[[fr:首都]]
+[[fy:首都]]
+[[ko:首都]]
+[[hr:首都]]
+[[lo:首都]]
+[[lb:首都]]
+[[lt:首都]]
+[[hu:首都]]
+[[mg:首都]]
+[[ja:首都]]
+[[pl:首都]]
+[[ru:首都]]
+[[fi:首都]]
+[[ta:首都]]
+[[th:首都]]
+[[tr:首都]]
+[[uk:首都]]
+[[zh:首都]]

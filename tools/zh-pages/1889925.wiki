@@ -1,0 +1,69 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=déyì,tl=y
+|ma=y
+|c=dak1 ji3
+|c-t=ak2 yi1,dak2 yi1
+|h=pfs=tet-yi
+|mn=xm,zz,tw:tek-ì/qz:tiak-ì/zz,twv:tit-ì
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|often pejorative}} [[smug]]; [[proud]]; [[self-satisfied]]
+#: {{zh-x|瞧 他 那個 得意 的 樣兒{r}。|Look at him, looking so '''smug'''.}}
+# {{lb|zh|Cantonese}} [[cute]]; [[adorable]]
+#: {{zh-x|嘩{waa3}，個 B{bi4}B{bi1} 太 得意 喇！我 忍 唔 住 啜{zyut3-1} 咗 佢 一 啖 面珠墩。|Wow, the baby's too '''cute'''! I couldn't help but kiss his cheek.|C}}
+# {{lb|zh|Cantonese}} [[interesting]]; [[peculiar]]
+#: {{zh-x|你 諗 埋 嗮 啲 嘢 都 夠 嗮 得意 㗎 喇。|The stuff you think about is quite '''peculiar'''.|C}}
+
+====Synonyms====
+* {{sense|cute}}
+{{zh-dial|可愛}}
+
+====Derived terms====
+{{zh-der|得意忘形|得意洋洋}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|とく|い|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|とくい|y=o|acc=0|acc2=2|acc_ref=NHK|acc2_ref=NHK}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|とくい}}
+
+# [[triumphant]], [[proud]]
+# [[skilled]]
+
+====Inflection====
+{{ja-na|とくい}}
+
+===Noun===
+{{ja-noun|とくい}}
+
+# [[strong point]]
+# [[triumph]]
+# regular customer
+
+===References===
+<references/>
+
+[[zh-min-nan:得意]]
+[[ko:得意]]
+[[lt:得意]]
+[[hu:得意]]
+[[mg:得意]]
+[[ja:得意]]
+[[sr:得意]]
+[[uk:得意]]
+[[zh:得意]]

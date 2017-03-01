@@ -1,0 +1,44 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qīngshuǐ
+|h=pfs=chhîn-súi
+|mn=chheng-chúi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[fresh water]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|せい|すい|yomi=o}}
+{{ja-kanjitab|きよ|みず|yomi=k}}
+{{ja-kanjitab|し|みず|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=k|しみず}}
+{{ja-pron|acc=h|y=ko|せいすい}}
+
+===Noun===
+{{ja-noun|しみず|hhira=しみづ}}
+
+# [[springwater]]
+
+[[Category:ja:Water|しみず]]
+
+===Proper noun===
+{{ja-pos|proper|しみず}}<br>
+{{ja-altread|hira=きよみず|hhira=きよみづ|rom=Kiyomizu}}
+
+# {{surname|lang=ja|sort=しみず}}
+
+[[fr:清水]]
+[[mg:清水]]
+[[zh:清水]]

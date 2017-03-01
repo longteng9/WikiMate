@@ -1,0 +1,111 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=09|sn=13|four=37304|canj=YRSE|ids=⿺辶叚}}
+
+# [[afar]], [[distant]]
+# [[old]], [[advanced]] in
+
+====References====
+* {{Han ref|kx=1261.250|dkj=39005|dj=1754.040|hdz=63867.040|uh=9050|ud=36944|bh=B949|bd=47433}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=xiá
+|c=haa4
+|h=pfs=
+|md=
+|mn=qz,xm:hâ/qz,xm:hā/qz:hě/xm:hē/zz:hēe/xm:hê
+|mn_note=hâ/hā - literary; hě/hē/hēe/hê - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[far]]
+# [[durable]]
+
+===Etymology 2===
+{{zh-forms|alt=彼}}
+
+====Pronunciation====
+{{zh-pron
+|mn=hia/hiâ
+|cat=pron
+}}
+
+====Pronoun====
+{{zh-pronoun}}
+
+# [[there]]
+
+===Etymology 3===
+{{zh-forms|alt=許,赫}}
+
+====Pronunciation====
+{{zh-pron
+|mn=hiah
+|cat=adv
+}}
+
+====Adverb====
+{{zh-adv}}
+
+# [[so]]; [[that]]
+
+=====Compounds=====
+* {{zh-l|遐爾}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辵09}}
+
+# {{defn|lang=ja|sort=辵09}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka)|kun=[[とおい]] (tooi), [[なんぞ]] (nanzo)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=하|eumhun=|rv=ha|mr=ha|y=ha}}
+
+# {{defn|lang=ko|sort=辵09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=辵09| hanviet = hà}}
+
+# {{defn|lang=vi|sort=辵09}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=9050 Nom Foundation]
+
+[[zh-min-nan:遐]]
+[[fr:遐]]
+[[hu:遐]]
+[[mg:遐]]
+[[ja:遐]]
+[[pl:遐]]
+[[th:遐]]
+[[zh:遐]]

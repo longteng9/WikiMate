@@ -1,0 +1,79 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=mìgān
+|c=mat6 gam1
+|mn=bi̍t-kam
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[mandarin orange]]
+# [[tangerine]]
+
+====Synonyms====
+* {{zh-l|柑子}}
+* {{zh-l|橘子}}
+* {{zh-l|甌柑}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|みつ|k1=みっ|かん}}
+Probably from {{etyl|ltc|ja|sort=みかん}} compound {{m|zh|蜜柑|tr=}}. Compare modern {{etyl|cmn|-}} reading ''mìgān''.
+
+Obsolete reading.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|みっかん}}
+
+====Noun====
+{{ja-noun|みっかん}}
+
+# {{lb|ja|sort=みっかん|obsolete}} a [[mandarin orange]], ''[[Citrus unshiu]]'' (fruit)
+# {{lb|ja|sort=みっかん|obsolete}} [[citrus]] [[fruit]] in general
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|sort=みかん}}
+{{IPAchar|/mikkan/}} → {{IPAchar|/mikan/}}
+
+Shift in pronunciation from ''mikkan'' above. This change occurred sometime after the 1603 publication of the {{etyl|ja|-}}-{{etyl|pt|-}} ''Nippo Jisho''<ref name="NPJ">'''1603''', {{lang|ja|日葡辞書}} (''[[w:Nippo Jisho|Nippo Jisho]]''): ''{{lang|pt|Vocabulario da Lingoa de Iapam}}'' (in Portuguese), [[w:Nagasaki|Nagasaki]]: [[w:Society of Jesus|Society of Jesus]]</ref>, which still lists the reading as ''mikkan''.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|みかん|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|みかん|ミカン}}
+
+# a [[mandarin orange]], ''[[Citrus unshiu]]'' (fruit)
+# [[citrus]] [[fruit]] in general
+
+=====Usage notes=====
+{{U:ja:biology|ミカン}}
+
+=====See also=====
+* {{ja-r|オレンジ}}: an orange (specifically ''[[Citrus sinensis]]'')
+
+===References===
+<references/>
+
+[[Category:ja:Fruits|みかん]]
+[[Category:ja:Trees|みかん]]
+[[Category:Japanese basic words|みかん]]
+
+[[zh-min-nan:蜜柑]]
+[[cs:蜜柑]]
+[[fr:蜜柑]]
+[[ko:蜜柑]]
+[[ky:蜜柑]]
+[[hu:蜜柑]]
+[[ja:蜜柑]]
+[[ru:蜜柑]]
+[[sv:蜜柑]]
+[[zh:蜜柑]]

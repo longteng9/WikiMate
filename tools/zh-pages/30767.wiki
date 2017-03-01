@@ -1,0 +1,118 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=172|rad=隹|as=04|sn=12|four=70214|canj=MHOG|ids=⿰牙隹}}
+
+====References====
+* {{Han ref|kx=1365.140|dkj=41973|dj=1869.020|hdz=64094.020|uh=96C5}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǎ
+|ma=
+|c=ngaa5
+|h=pfs=ngá
+|md=
+|mn=qz,tw,xm:ngá/zz:ngée
+|mn_note=ngá - literary; ngée - vernacular
+|mn-t=ngia2
+|w=
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[elegant]], [[graceful]], [[refined]]
+# {{lb|zh|Teochew}} [[pretty]]
+
+====Compounds====
+{{zh-der|典雅|高雅|雅淡|雅歌|雅觀|雅號|雅潔|雅靜|雅麗|雅量|雅趣|雅士|雅俗共賞|雅玩|雅望|雅興|雅言|雅意|雅樂|雅正|雅致|雅座|雅座兒}}
+
+===References===
+* {{R:nan:Duffus 1883|beautiful|19}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=隹04}}
+
+# {{defn|lang=ja|sort=隹04}}
+
+====Readings====
+{{ja-readings|goon=[[え]] (e), [[げ]] (ge)|kanon=[[あ]] (a), [[が]] (ga)|kun=[[みやびやか]] (miyabiyaka), [[つね]] (tsune)|nanori=[[まさ]] (masa)}}
+
+====Compounds====
+* {{ja-r|雅歌|がか|[[elegant]] [[song]]}}, {{ja-r|雅歌|^がか|[[Song of Songs]]}}
+
+{{ja-kanjitab|が|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=か'}} {{m|zh|雅|tr=ngæ<sup>X</sup>||elegant}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|が|acc=1|acc_ref=DJR}}
+
+===Adjective===
+{{ja-adj|infl=na|が}}
+
+# [[elegant]]
+
+====Inflection====
+{{ja-na|が}}
+
+===Noun===
+{{ja-noun|が}}
+
+# [[elegance]]
+
+====Antonyms====
+* {{ja-r|俗|ぞく}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=아|eumhun=|rv=a|mr=a|y=a}}
+
+# [[elegant]], [[neat]], [[tidy]]
+
+====Compounds====
+* {{ko-l|아가|[[elegant]] [[song]]|雅歌}}, {{ko-l|^아가|[[Song of Songs]]|雅歌}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhã]]|rs=隹04}}
+
+# {{defn|lang=vi|sort=隹04}}
+
+[[fr:雅]]
+[[ko:雅]]
+[[hu:雅]]
+[[mg:雅]]
+[[ja:雅]]
+[[no:雅]]
+[[pl:雅]]
+[[th:雅]]
+[[vi:雅]]
+[[zh:雅]]

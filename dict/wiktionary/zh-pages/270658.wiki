@@ -1,0 +1,95 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=hǎixiàng
+|c=hoi2 zoeng6
+|mn=hái-chhiūⁿ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[walrus]]
+
+{{zh-cat|Pinnipeds}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja|セイウチ|海象 (Walrus)}}
+{{wikipedia|Walrus}}
+[[File:Noaa-walrus22.jpg|thumb|250px|{{lang|ja|海象}} (''seiuchi'', ''kaizō''): a '''[[walrus]]'''.]]
+</div>
+{{ja-kanjitab|yomi=irr|sort=せいうち}}
+{{bor|ja|ru|сивуч||{{l|en|Steller sea lion}}}}.<ref>{{R:Kokugo Dai Jiten}}</ref><ref>{{R:Daijisen}}</ref><ref>{{R:Kojien}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="SMK5">{{R:Shinmeikai5}}</ref>
+
+The kanji are {{juku|sort=せいうち}}, from {{der|ja|ltc|海象|sort=せいうち}}. See ''kaizō'' below.
+
+====Pronunciation====
+{{ja-pron|acc=0|セイウチ|y=i|acc_ref=DJR,SMK5}}
+
+====Noun====
+{{ja-noun|セイウチ}}
+
+# a {{l|en|walrus}}
+
+=====Usage notes=====
+{{U:ja:biology|セイウチ}} Not to be confused with {{m|ja|象海豹|tr=zō azarashi||{{l|en|elephant seal}}}}.
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|かい|ぞう}}
+{{IPAchar|/kaizau/}} → {{IPAchar|/kaizɔː/}} → {{IPAchar|/kaizoː/}}
+
+From {{der|ja|ltc|海象|tr=xoj<sup>X</sup> zjang<sup>X</sup>|lit=[[sea]] [[elephant]]|sort=かいぞう}}. Compare {{cog|yue|海象|tr=hoi<sup>2</sup> zoeng<sup>6</sup>}}, {{cog|vi|hải tượng}}.
+
+The [[呉音#Japanese|goon]] reading, so likely the initial borrowing.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|かいぞう|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|かいぞう|hhira=かいざう}}
+
+# {{lb|ja|sort=かいぞう|rare}} a {{l|en|walrus}}
+
+=====Usage notes=====
+This reading is much less common than ''seiuchi''.
+
+===Etymology 3===
+{{ja-kanjitab|yomi=o|かい|しょう}}
+{{IPAchar|/kaiɕau/}} → {{IPAchar|/kaiɕɔː/}} → {{IPAchar|/kaiɕoː/}}
+
+From {{der|ja|ltc|sort=かいしょう|海象|tr=xoj<sup>X</sup> zjang<sup>X</sup>|lit=sea + [[phenomenon]]}}. Alternatively, may have been coined in Japan as a compound of {{cog|ltc|-}}-derived roots.
+
+The [[漢音#Japanese|kan'on]] reading, so likely either a later borrowing, or a later innovation in Japan.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|かいしょう|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|かいしょう|hhira=かいしやう}}
+
+# a {{l|en|marine}} {{l|en|phenomenon}}
+
+===References===
+<references/>
+
+{{C|ja|Pinnipeds|sort=せいうち}}
+
+[[da:海象]]
+[[ko:海象]]
+[[lt:海象]]
+[[hu:海象]]
+[[nl:海象]]
+[[ja:海象]]
+[[ru:海象]]
+[[sv:海象]]
+[[vi:海象]]
+[[zh:海象]]

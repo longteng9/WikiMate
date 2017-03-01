@@ -1,0 +1,31 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Schizophrenia}}
+</div>{{ja-kanjitab|とう|ごう|しつ|k3=しっ|ちょう|しょう|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=とうごうしっちょうしょう|統合|tr1=tōgō|t1=comprehensive|失調|tr2=shitchō|t2=disharmony, imbalance|pos2=especially implying the loss of a previous harmony or balance|症|tr3=shō|t3=disorder}}.
+
+Coined in 2002 by the Japanese Society of Psychiatry and Neurology as a replacement for the older term {{m|ja|精神分裂病|tr=seishin bunretsu byō|lit=mind/intellect split/break disease}}, due to confusion regarding the term and the diagnosis. See {{ja-l|精神分裂病}} for more.
+
+===Pronunciation===
+{{ja-pron|とうごう しっちょう しょう|accent=h|yomi=on}}
+
+===Noun===
+{{ja-noun|とうごう しっちょう しょう}}
+
+# [[schizophrenia]]
+
+====Synonyms====
+* {{ja-l|精神分裂病|せいしんぶんれつびょう|seishin bunretsu byō}} {{qualifier|dated, deprecated, potentially offensive}}
+
+====Derived terms====
+* {{ja-l|統合失調症患者|とうごうしっちょうしょうかんじゃ|tōgō shitchō shō kanja}}: a [[schizophrene]], a person suffering from [[schizophrenia]]
+
+===References===
+<references/>
+
+[[cs:統合失調症]]
+[[hu:統合失調症]]
+[[ru:統合失調症]]

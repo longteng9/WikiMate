@@ -1,0 +1,70 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=mángmù
+|c=maang4 muk6
+|mn=bông-bo̍k
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[blind]] {{gloss|unable to see}}
+# {{lb|zh|figurative}} [[blind]]; [[ignorant]]; [[lacking]] [[understanding]]
+#: {{zh-x|不能 盲目 地{de} 跟從 別人，要 有 自己 的 風格。|Don't follow others '''blindly''', you should have your own style.}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|もう|もく|yomi=on}}
+
+===Etymology===
+{{IPAchar|/maumoku/}} → {{IPAchar|/mɔːmoku/}} → {{IPAchar|/moːmoku/}}
+
+From {{etyl|ltc|ja|sort=もうもく}} compound {{m|zh|盲目|tr=mæng mjuwk|lit=blind + eye}}.  Compare modern {{etyl|yue|-}} reading ''maang<sup>4</sup> muk<sup>6</sup>''.
+
+===Pronunciation===
+{{ja-pron|yomi=o|もうもく|acc=0|acc_ref=DJR,SMK5,NHK}}
+
+===Adjective===
+{{ja-adj|もうもく|hhira=まうもく}}
+
+# [[blind]]
+#: {{ja-usex|恋は'''盲目'''、'''盲目'''な愛情|こい は '''もうもく'''、 '''もうもく''' な あいじょう|love is '''blind''', '''blind''' love}}
+
+====Inflection====
+{{ja-na|もうもく}}
+
+====Usage notes====
+Also used with the particle {{ja-r|の}}, as a noun modifying another noun.
+* {{ja-usex|'''盲目'''の法師|'''もうもく''' の ほうし|a '''blind''' monk}}
+
+The adjective form with {{ja-r|な}} is used to describe mental or emotional blindness, while the noun form can be used attributively with {{ja-r|の}} to describe physical blindness.
+
+===Noun===
+{{ja-noun|もうもく|hhira=まうもく}}
+
+# [[blindness]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|盲%目%的|もう%もく%てき}}: [[blind]] {{qualifier|specifically as an adjective}}
+* {{ja-r|盲%目 飛%行|もう%もく ひ%こう}}: [[blind]] [[flying]], [[instrument]] flying
+* {{ja-r|盲%目 着%陸|もう%もく ちゃく%りく}}: a [[blind]] [[landing]]
+{{der-bottom}}
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[fr:盲目]]
+[[ko:盲目]]
+[[hu:盲目]]
+[[mg:盲目]]
+[[fj:盲目]]
+[[ja:盲目]]
+[[chr:盲目]]
+[[zh:盲目]]

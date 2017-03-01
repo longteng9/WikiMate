@@ -1,0 +1,16 @@
+==Japanese==
+{{ja-kanjitab|じゅん|すい|すう|がく|yomi=on}}
+
+===Etymology===
+[[純粋]] ''[[pure]]'' + [[数学]] ''[[mathematics]]''.
+
+===Noun===
+{{ja-noun|じゅんすい すうがく}}
+
+# {{lb|ja|mathematics|sort=しゅんすいすうがく'}} [[pure mathematics]]
+
+====Antonyms====
+* {{l|ja|応用数学}}
+
+===References===
+* {{R:Shogakukan}}

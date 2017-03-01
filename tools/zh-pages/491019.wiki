@@ -1,0 +1,16 @@
+==Japanese==
+{{ja-kanjitab|ちょう|おん|い|ち|yomi=on}}
+
+===Etymology===
+From {{ja-r|調音|ちょうおん|gloss=[[articulation]]}} + {{ja-r|位置|いち|gloss=[[position]]}}
+
+===Noun===
+{{ja-noun|ちょうおん いち}}
+
+# {{lb|ja|phonetics}} [[place of articulation]]
+
+====Synonyms====
+* {{ja-r|調音部位|ちょうおん ぶい}}
+* {{ja-r|調音の位置|ちょうおん の いち}}
+
+[[Category:ja:Phonetics|ちょうおんいち]]

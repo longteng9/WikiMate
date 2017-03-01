@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+
+===Han character===
+{{Han char|rn=85|rad=水|as=03|sn=6|four=37110|canj=ENJ|ids=⿰氵卂}}
+
+# [[high]] [[water]], [[flood]] [[tide]]s
+
+====References====
+* {{Han ref|kx=0605.160|dkj=17135|dj=0999.070|hdz=31554.070|uh=6C5B|ud=27739|bh=A6C4|bd=42692}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xùn
+|c=seon3
+|h=pfs=sun
+|md=
+|mn=sìn
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水03}}
+
+# {{defn|lang=ja|sort=水03}}
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin), [[さん]] (san), [[しゃ]] (sha)|kun=[[そそぐ]] (sosogu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=신|eumhun=|rv=sin|mr=sin|y=sin}}
+
+# {{defn|lang=ko|sort=水03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水03| hanviet = vàm}}
+
+# {{defn|lang=vi|sort=水03}}
+
+[[fr:汛]]
+[[hu:汛]]
+[[mg:汛]]
+[[no:汛]]
+[[pl:汛]]
+[[th:汛]]
+[[zh:汛]]

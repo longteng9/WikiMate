@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=188|rad=骨|as=06|sn=16|four=70282|canj=BBYVO}}
+
+# [[skeleton]], [[body]]
+# leg bone
+
+====References====
+* {{Han ref|kx=1448.500|dkj=45164|dj=1975.080|hdz=74412.010|uh=9AB8|ud=39608|bh=C065|bd=49253}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hái
+|c=hoi4,haai4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=骨06}}
+
+# [[corpse]]
+
+====Readings====
+* {{ja-readings|goon=[[げ]] (ge)|kanon=[[かい]] (kai)|kanyoon=[[がい]] (gai)|kun=[[むくろ]] (mukuro)}}
+
+===Noun===
+{{ja-noun|むくろ}}
+
+# [[corpse]]
+
+====Synonyms====
+* See also [[Wikisaurus:しかばね]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=해|eumhun=|rv=hae|mr=hae|y=hay}}
+
+# {{defn|lang=ko|sort=骨06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hài]]|rs=骨06}}
+
+# {{defn|lang=vi|sort=骨06}}
+
+[[fr:骸]]
+[[ko:骸]]
+[[hu:骸]]
+[[mg:骸]]
+[[ja:骸]]
+[[pl:骸]]
+[[th:骸]]
+[[zh:骸]]

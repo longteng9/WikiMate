@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|やま|つ|なみ|yomi=k}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=やまつなみ|山|tr1=yama|t1=mountain|津波|tr2=tsunami|t2=tidal wave}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|やま つなみ|acc=3|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|やま つなみ}}
+
+# [[landslide]], [[landslip]]
+
+====Synonyms====
+* {{ja-r|山崩れ|やま くずれ}}
+
+===References===
+<references/>
+
+[[ko:山津波]]
+[[zh:山津波]]

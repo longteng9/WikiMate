@@ -1,0 +1,69 @@
+{{also|纬度}}
+==Chinese==
+{{zh-forms|s=纬度}}
+
+===Pronunciation===
+{{zh-pron
+|m=wěidù
+|c=wai5 dou6
+|mn=qz,xm,zz:úi-tō͘
+|mn_note=hūi-tō͘ - probably Taiwanese
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[latitude]] (degree)
+
+{{zh-cat|Geography}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|い|ど|yomi=on}}
+
+===Noun===
+{{ja-noun|いど}}
+
+# {{lb|ja|geography|astronomy|sort=いど}} [[latitude]]
+
+====Related terms====
+* {{ja-r|北緯|ほくい}}: [[north]] [[latitude]]
+* {{ja-r|南緯|なんい}}: [[south]] [[latitude]]
+
+===See also===
+* {{ja-r|経度|けいど}}: [[longitude]]
+* {{ja-r|赤道|せきどう}}: [[equator]]
+* {{ja-r|北極|ほっきょく}}: [[North Pole]]
+* {{ja-r|南極|なんきょく}}: [[South Pole]]
+
+===References===
+* {{R:Shogakukan}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=위도}}
+
+# {{hanja form of|위도|[[latitude]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|vĩ độ|[[latitude]]}}
+
+[[ko:緯度]]
+[[it:緯度]]
+[[hu:緯度]]
+[[mg:緯度]]
+[[ja:緯度]]
+[[zh:緯度]]

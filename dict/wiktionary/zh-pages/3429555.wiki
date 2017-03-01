@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bùpǐn
+|c=bou6 ban2
+|mn=pō͘-phín
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[part]], [[component]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぶ|ひん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ぶひん|y=o}}
+
+===Noun===
+{{ja-noun|ぶひん}}
+
+# [[part]], [[component]]
+#: {{ja-usex|パソコン'''部品'''|パソコン '''ぶひん'''|computer '''parts'''}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=부품}}
+
+# {{hanja form of|부품|[[part]], [[component]]}}
+
+[[ko:部品]]
+[[lo:部品]]
+[[hu:部品]]
+[[ja:部品]]
+[[fi:部品]]
+[[zh:部品]]

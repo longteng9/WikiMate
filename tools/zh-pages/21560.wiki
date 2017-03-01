@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|卢}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=108|rad=皿|as=11|sn=16|four=21217|canj=YPWBT|ids=⿸虍⿱田皿}}
+
+# used as a [[surname]]
+# [[cottage]], [[hut]]
+# [[black]]
+
+====References====
+* {{Han ref|kx=0797.060|dkj=23050|dj=1212.060|hdz=42569.110|uh=76E7|ud=30439|bh=BF63|bd=48995}}
+* [http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=F933&useutf8=true Unihan data for U+F933]
+
+----
+
+==Chinese==
+{{zh-forms|s=卢}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lú
+|c=lou4,leoi4
+|mn=lô͘
+|mc=y
+|oc=y
+|cat=n,a,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{surname |lang=zh}}
+# {{zh-short|盧森堡}}
+# [[rice]] [[vessel]]
+# [[black]]
+# {{lb|zh|Taiwan|_|slang}} troublesome / fussy
+
+====Compounds====
+{{zh-der|出手得盧|北俱盧洲|呼盧|呼盧喝雉|喝雉呼盧|嘴盧都|掩口盧胡|掩口胡盧|梟盧|毗盧遮那|湛盧|滑鐵盧|狄良突盧|當盧|的盧|盧令|盧前|盧同|盧安達|盧家少婦|盧布|盧摯|盧文弨|盧梭|盧森堡|盧比|盧溝曉月|盧溝橋|盧照鄰|盧犬|盧稜伽|盧綸|盧胡|盧醫|胡盧|胡盧提|胡胡盧盧|韓盧|韓盧逐㕙|韓盧逐塊|韓盧逐逡|鹿盧}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=皿11}}
+
+# {{defn|lang=ja|sort=皿11}}
+
+====Readings====
+* {{ja-readings|on=[[ろ]] (ro), [[りょ]] (ryo)|kun=[[めしびつ]] (meshibitsu), [[すびつ]] (subitsu), [[くろい]] (kuroi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[로]]>[[노]]|eumhun=밥그릇|rv=ro>no|mr=ro>no|y=<sup>l</sup>no (lo, no)}}
+
+# {{defn|lang=ko|sort=皿11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lư]], [[lờ]], [[lừ]], [[lô]], [[lơ]], [[lợ]], [[lu]], [[lũ]], [[lứa]]|rs=皿11}}
+
+# {{defn|lang=vi|sort=皿11}}
+
+[[zh-min-nan:盧]]
+[[fr:盧]]
+[[ko:盧]]
+[[hu:盧]]
+[[ja:盧]]
+[[pl:盧]]
+[[th:盧]]
+[[zh:盧]]

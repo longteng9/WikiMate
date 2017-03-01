@@ -1,0 +1,24 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|分銅鎖}}
+[[Image:manriki.JPG|right|thumb|250px|{{lang|ja|鎖分銅}}: Antique Japanese ''kusari fundō'']]
+{{wikipedia|Kusari-fundo}}
+</div>
+{{ja-kanjitab|鎖|分|銅}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=くさりふんどう|鎖|tr1=kusari|t1=chain|分銅|tr2=fundō|t2=weight}}.
+
+===Pronunciation===
+* {{IPA|lang=ja|[kɯᵝsa̠ɾi ɸɯ̃ᵝɴdo̞ː]}}
+
+===Noun===
+{{ja-noun|くさり ふんどう}}
+
+# a [[chain]] with a [[weight]] on one or both ends, such as might be used on a [[pulley]] to help lift loads
+# {{lb|ja|weaponry|sort=くさりふんどう}} a [[Japanese]] [[martial art]]s [[chain]] [[weapon]], consisting of or based on such a weighted chain
+
+====Synonyms====
+* {{ja-l|分銅鎖|ふんどうさ|fundōsa}}
+
+[[zh:鎖分銅]]

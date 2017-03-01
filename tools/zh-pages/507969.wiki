@@ -1,0 +1,57 @@
+{{also|电流}}
+==Chinese==
+{{zh-forms|s=电流}}
+
+===Etymology===
+{{wasei kango||でんりゅう|electric current}}
+
+===Pronunciation===
+{{zh-pron
+|m=diànliú
+|c=din6 lau4
+|mn=tiān-liû
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[electric current]]
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|でん|りゅう|yom=o}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=o|でんりゅう}}
+
+===Noun===
+{{ja-noun|でんりゅう|hhira=でんりう}}
+
+# [[electric current]]
+
+===Descendants===
+* Chinese: {{zh-l|電流}}
+* Korean: {{ko-l|전류}}
+
+===See also===
+* {{ja-r|電圧|でんあつ}}: [[voltage]]
+* {{ja-r|電力|でんりょく}}: [[electric power]]
+
+[[Category:ja:Physics|てんりゅう']]
+
+[[zh-min-nan:電流]]
+[[ko:電流]]
+[[lo:電流]]
+[[hu:電流]]
+[[nl:電流]]
+[[ja:電流]]
+[[pl:電流]]
+[[pt:電流]]
+[[fi:電流]]
+[[sv:電流]]
+[[chr:電流]]
+[[zh:電流]]

@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yán期
+|c=jin4 kei4
+|h=pfs=yèn-khì
+|mn=iân-kî
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[postpone]]; to [[defer]]; to [[delay]]; to [[extend]]
+
+====Synonyms====
+* {{zh-l|延遲}}
+* {{zh-l|延後}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|えん|き|yomi=on}}
+
+===Noun===
+{{ja-noun|えんき}}
+
+# [[postponement]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|えんき}}
+
+# [[postpone]], [[put off]]
+#: {{ja-usex|終了を一日延期する|しゅうりょう を いち にち えんき する|postpone the ending by one day}}
+
+====Conjugation====
+{{ja-suru|えんき}}
+
+[[zh-min-nan:延期]]
+[[ko:延期]]
+[[hu:延期]]
+[[mg:延期]]
+[[ja:延期]]
+[[chr:延期]]
+[[zh:延期]]

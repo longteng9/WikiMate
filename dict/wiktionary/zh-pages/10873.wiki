@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=06|sn=8|four=23250|canj=OIHQ|ids=⿰亻牟}}
+
+# [[equal]]
+
+====References====
+* {{Han ref|kx=0102.080|dkj=00597|dj=0216.070|hdz=10154.130|uh=4F94|ud=20372|bh=CBC6|bd=52166}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=móu
+|c=mau4
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人06}}
+
+# {{defn|lang=ja|sort=人06}}
+
+====Readings====
+* {{ja-readings|on=[[ぼう]] (bō), [[む]] (mu)|kun=[[ひとしい]] (hitoshii), [[そろう]] (sorou), [[したがう]] (shitagau), [[つとめる]] (tsutomeru), [[とる]] (toru), [[はかる]] (hakaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=모|rv=mo|mr=mo}}
+
+# {{defn|lang=ko|sort=人06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mầu]], [[mâu]]|rs=人06}}
+
+# {{defn|lang=vi|sort=人06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f94 Nom Foundation]
+
+[[fr:侔]]
+[[li:侔]]
+[[hu:侔]]
+[[mg:侔]]
+[[ja:侔]]
+[[pl:侔]]
+[[th:侔]]
+[[zh:侔]]

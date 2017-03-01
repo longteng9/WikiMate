@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|秆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=07|sn=12|four=26941|canj=HDAMJ}}
+
+# stalk of grain
+# [[straw]]
+
+====References====
+* {{Han ref|kx=0854.030|dkj=25074|dj=1278.160|hdz=42607.010|uh=7A08|ud=31240|bh=B57A|bd=46458}}
+
+----
+
+==Chinese==
+{{zh-forms|s=秆}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gǎn
+|c=gon2
+|mn=koáiⁿ
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|稈子|莖稈}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=禾07}}
+
+# {{defn|lang=ja|sort=禾07}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[わら]] (wara)|nanori=}}
+
+===Noun===
+{{ja-noun|かん}}
+
+# {{lb|ja|botany|sort=かん}} [[culm]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=간|eumhun=|rv=gan|mr=kan|y=kan}}
+
+# {{defn|lang=ko|sort=禾07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cán]]|rs=禾07}}
+
+# {{defn|lang=vi|sort=禾07}}
+
+[[fr:稈]]
+[[ko:稈]]
+[[hu:稈]]
+[[mg:稈]]
+[[ja:稈]]
+[[pl:稈]]
+[[th:稈]]
+[[zh:稈]]

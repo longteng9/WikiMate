@@ -1,0 +1,333 @@
+{{character info/new}}
+{{also|付|伐}}
+==Translingual==
+{{stroke order|strokes=5}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=03|sn=5|four=23240|canj=OIP|ids=⿰亻弋}}
+
+====Derived characters====
+* [[袋]] [[貸]]
+
+====References====
+* {{Han ref|kx=0093.110|dkj=00386|dj=0197.070|hdz=10113.050|uh=4EE3|ud=20195|bh=A54E|bd=42318}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|弋|alt1=亻|c1=s|c2=p|t1=person|ls=psc}}.
+
+弋 and 代 were near-homophones in Old Chinese; [http://lodel.ehess.fr/crlao/document.php?id=1217 Baxter-Sagart] give *[[w:International Phonetic Alphabet|lək]] for 弋 and *[[w:International Phonetic Alphabet|lˤək-s]] for 代 (the -s is a suffix). See also [[式]].
+
+===Pronunciation===
+{{zh-pron
+|m=dài
+|c=doi6
+|h=pfs=thoi/thai
+|mn=xm,zz,tw:tē/qz:tēr/tāi/tài
+|mn_note=tē/tēr - vernacular; tāi - literary; tài - literary (limited, e.g. {{l|zh|交代}})
+|mc=y
+|oc=y
+|ma=
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[replace]], [[replacement]] (of person or generation)
+# [[era]]
+# [[generation]]
+# {{lb|zh|grammar}} {{zh-abbrev|代名詞|dot=;}} {{zh-abbrev|代詞|[[pronoun]]|nocap=y}}
+{{attention|zh|needs expansion}}
+
+====Compounds====
+{{zh-der|現代|代辦|代筆|代表|代詞|代償|代稱|代代花|代父|代溝|代購|代號|代價|代金|代課|代勞|代理|代碼|代培|代乳粉|代名詞|代書|代數|代替|代為|代銷|代謝|代言人|代用|年代}}
+
+----
+
+==Japanese==
+
+===Noun===
+{{ja-noun|しろ}}
+
+# {{lb|ja|archaic}} [[substitution]]
+# {{lb|ja|archaic}} [[price]], [[cost]], [[charge]]
+# {{lb|ja|historical}} [[shiro]], a unit of land
+
+{{ja-noun|だい}}
+
+# [[price]]
+# [[generation]] of a family
+# [[reign]] of a royal
+# [[decade]]
+# [[era]]
+
+{{ja-noun|よ}}
+
+# [[world]], [[society]]
+# {{lb|ja|archaic}} [[age]], [[generation]], [[era]] of [[rule]]
+
+====Alternative forms====
+* {{l|ja|台}} (alternative form for ''dai'' only)
+* {{l|ja|世}} (alternative form for ''yo'' only)
+
+===Counter===
+{{ja-pos|だい|counter}}
+
+# [[generation]] of a royal family
+# [[era]], [[age]], [[decade]]
+
+===Suffix===
+{{ja-pos|だい|suffix}}
+
+# [[charge]], [[fare]], [[rate]], [[fee]], [[price]], [[rent]]
+# (''indicating years spanning a specific period'') [[-ies]], -[[hundred]]s
+
+===Kanji===
+{{ja-kanji|grade=3|rs=人03}}
+
+====Readings====
+* {{ja-readings|goon=[[だい]] (''dai'')|kanon=[[たい]] (''tai'')|kun=[[かわる]] ([[代わる]], ''kawaru''), [[かわる]] ([[代る]], ''kawaru''), [[かわり]] ([[代り]], ''kawari''), [[かわり]] ([[代わり]], ''kawari''), -[[がわり]] ([[代り]], ''-gawari''), -[[がわり]] ([[代わり]], ''-gawari''), [[かえる]] ([[代える]], ''kaeru''), [[よ]] (''yo''), [[しろ]] (''shiro'')|nanori=[[す]]}}
+
+====Compounds====
+{{rel-top3|compounds containing "代"}}
+* [[代わる]], [[代る]] (''kawaru''): succeed, relieve
+* [[代わり]], [[代り]] (''kawari''): substitute, replacement
+* [[代わり]], [[代り]] (''-gawari''): substitute for
+* [[代える]] (''kaeru''): replace, exchange
+* [[代え]] (''kae''): change, alteration
+* [[代代]], [[代々]] (''daidai'', ''yoyo''): for generations
+* [[代案]] (''daian''): alternate plan
+* [[代位]] (''daii''): subrogation, substitution
+* [[代印]] (''daiin''): signing by proxy
+* [[代員]] (''daiin''): proxy
+* [[代演]] (''daien''): substitute for another
+* [[代価]] (''daika''): price, cost
+* [[代官]] (''daikan''): Edo-period prefectural governor
+* [[代艦]] (''daikan''): replacement warship
+* [[代願]] (''daigan''): praying by proxy
+* [[代議]] (''daigi''): representing others in a conference
+* [[代休]] (''daikyū''): compensatory holiday
+* [[代金]] (''daikin''): price, payment
+* [[代言]] (''daigen''): advocacy
+* [[代行]] (''daikō''): acting as agent
+* [[代講]] (''daikō''): substitute lecturing
+* [[代作]] (''daisaku''): ghost-writing
+* [[代参]] (''daisan''): visiting a temple for another
+* [[代謝]] (''taisha''): renewal, regeneration
+* [[代車]] (''daisha''): loaner vehicle
+* [[代署]] (''daisho''): sign for another
+* [[代書]] (''daisho''): amanuensis, scribe
+* [[代償]] (''daishō''): compensation, indemnification
+* [[代将]] (''daishō''): brigadier general
+* [[代親]] (''daishin''): godparent
+* [[代診]] (''daishin''): doctor's assistance
+* [[代人]] (''dainin''): substitute, deputy
+* [[代数]] (''daisū''): algebra
+* [[代僧]] (''daisō''): substitute priest
+* [[代走]] (''daisō''): substitute runner
+* [[代打]] (''daida''): pinch-hitting
+* [[代替]] (''daitai'', ''daigae''): substitution, alternation
+* [[代地]] (''daichi''): substitute land
+* [[代置]] (''daichi''): replace
+* [[代読]] (''daidoku''): reading for another
+* [[代入]] (''dainyū''): substitution, assignment
+* [[代任]] (''dainin''): agency, acting official
+* [[代納]] (''dainō''): payment for another
+* [[代筆]] (''daihitsu''): amanuensis
+* [[代表]] (''daihyō''): representative, representation
+* [[代品]] (''daihin''): substitute article
+* [[代父]] (''daifu''): godfather
+* [[代物]] (''daibutsu''): substitute
+* [[代返]] (''daihen''): answer a roll call for another
+* [[代弁]] (''daiben''): pay by proxy
+* [[代母]] (''daibo''): godmother
+* [[代務]] (''daimu''): vicarious management
+* [[代役]] (''daiyaku''): substitute, substitution
+* [[代用]] (''daiyō''): substitution
+* [[代理]] (''dairi''): representation, agency
+* [[代赭]] (''taisha''): red ocher
+* [[代物]] (''shiromono''): thing, article
+* [[代掻き]], [[代き]] (''shirokaki''): preparing a rice field for planting
+* [[代引き]] (''daibiki''): cash on delivery
+* [[代待ち]] (''daimachi''): waiting in place of someone else
+* [[代替え]] (''daigae''): substitution, alternation
+* [[代稽古]] (''daigeiko''): substitute teaching
+* [[代執行]] (''daishikkō''): carrying out by proxy
+* [[代神楽]] (''daikagura''): grand kagura performance
+* [[代諾者]] (''daidakusha''): legal representative
+{{rel-mid3}}
+* [[代当主]] (''daitōshu''): n-th generation head of a family
+* [[代動詞]] (''daidōshi''): pro-verb
+* [[代燃車]] (''dainensha''): car running on substitute fuel
+* [[代名詞]] (''daimeishi''): pronoun
+* [[代理人]] (''dairinin''): representative, deputy
+* [[代議士]] (''daigishi''): member of the Diet
+* [[代替エネルギー]] (''daitai enerugī''): alternative energy
+* [[代名動詞]] (''daimei-dōshi''): pronominal verb
+* [[代が変わる]] (''dai ga kawaru''): change hands
+* [[揚代]], [[揚げ代]] (''agedai''): fee paid for a geisha
+* [[足代]] (''ashidai''): traveling expenses
+* [[阿代]] (''ashiro''): Ophidion asiro
+* [[網代]] (''ajiro''): wickerwork
+* [[網代]] (''amishiro''): dividing up a fishing catch
+* [[幾代]] (''ikuyo''): generations, ages
+* [[一代]] (''ichidai''): generation, lifetime
+* [[永代]] (''eitai''): permanence, eternity
+* [[往代]] (''ōdai''): ancient times
+* [[形代]] (''katashiro''): representation of a sacred object
+* [[壁代]] (''kabeshiro''): separating curtain
+* [[神代]] (''kamiyo'', ''jindai''): ancient time
+* [[関代]] (''kandai''): relative pronoun
+* [[希代]], [[稀代]] (''kidai'', ''kitai''): rarity, uncommonness
+* [[近代]] (''kindai''): present day
+* [[玉代]] (''gyokudai''): time charge for a geisha
+* [[薬代]] (''kusuridai''): charge for medicine
+* [[車代]] (''kurumadai''): carfare, cartage fee
+* [[現代]] (''gendai''): nowadays, modern era
+* [[更代]] (''kōtai''): exchange
+* [[後代]] (''kōdai''): posterity
+* [[古代]] (''kodai''): ancient times
+* [[五代]] (''godai''): Five Dynasties
+* [[歳代]] (''-saidai''): decade
+* [[酒代]] (''sakudai''): alcohol expenses
+* [[月代]] (''sakayaki'', ''tsumashiro''): shaved part of the forehead
+* [[三代]] (''sandai''): three generations
+* [[誌代]] (''shidai''): magazine's price
+* [[昭代]] (''shōdai''): glorious reign
+* [[初代]] (''shodai''): first generation
+* [[身代]] (''shindai''): fortune, property
+* [[次代]] (''jidai''): the next era
+* [[時代]] (''jidai''): period, epoch
+* [[重代]] (''jūdai''): successive generations
+* [[上代]] (''jōdai'', ''uwadai''): ancient times
+* [[城代]] (''jōdai''): chamberlain
+* [[聖代]] (''seidai''): magnificent imperial reign
+* [[盛代]] (''seidai''): prosperous era
+* [[世代]] (''sedai''): generation, the world
+* [[先代]] (''sendai''): family predecessor
+* [[舌代]] (''zetsudai'', ''shitadai''): a notice
+* [[前代]] (''zendai''): previous generation
+* [[総代]] (''sōdai''): representative
+* [[大代]] (''daidai''): main telephone number
+* [[地代]] (''chidai'', ''jidai''): land rent
+* [[茶代]] (''chadai''): a tip
+* [[帳代]] (''chōdai''): curtained sleeping platform
+* [[手代]] (''tedai''): sales clerk
+* [[当代]] (''tōdai''): the present age
+* [[名代]] (''nadai''): well-known, fame
+* [[名代]] (''myōdai''): proxy, representative
+* [[苗代]] (''nawashiro'', ''naeshiro''): rice nursery
+* [[年代]] (''nendai''): age, era
+* [[糊代]] (''norishiro''): overlap width
+* [[花代]] (''hanadai''): price of flowers
+* [[場代]] (''badai''): rent, cover charge
+{{rel-mid3}}
+* [[番代]] (''bandai''): taking turns
+* [[本代]] (''hondai''): money for books
+* [[間代]] (''madai''): room rent
+* [[末代]] (''matsudai''): forever, in perpetuity
+* [[御代]] (''miyo''): imperial reign
+* [[明代]] (''mindai''): Ming dynasty
+* [[無代]] (''mudai''): free of charge
+* [[餅代]] (''mochidai''): money to see one over the New Year
+* [[宿代]] (''yadodai''): hotel charges
+* [[力代]] (''chikarashiro''): tax paid to avoid forced labor
+* [[依代]], [[依り代]], [[憑代]] (''yorishiro''): object representative of a divine spirit
+* [[累代]] (''ruidai''): successive generations
+* [[歴代]] (''rekidai''): successive generations
+* [[交代]] (''kōtai''): alternation, change
+* [[十代]], [[10代]] (''jūdai''): the teens
+* [[千代]] (''sendai'', ''chiyo''): thousand years
+* [[万代]] (''bandai'', ''mandai'', ''yorozuyo''): thousands of years
+* [[雪代]] (''yukishiro''): snow water
+* [[譜代]] (''fudai''): successive generations
+* [[田代芋]], [[田代薯]] (''tashiroimo''): taccad
+* [[何代目]] (''nandaime''): what ordinal number
+* [[親の代]] (''oya no dai''): parents' generation
+* [[食い代]] (''kuishiro''): food expenses
+* [[薬の代]] (''kusuri no shiro''): cost of medicine
+* [[削り代]] (''kezurishiro''): cutting stock
+* [[綴じ代]] (''dojishiro''): binding margin
+* [[取り代]], [[取代]] (''torishiro''): portion, one's share
+* [[縫い代]] (''nuishiro''): margin for a seam
+* [[飲み代]], [[飲代]], [[呑み代]] (''nomishiro''): drink money
+* [[君が代]] (''kimi ga yo''): Imperial reign
+* [[締め代]] (''shimeshiro''): interference, jamming
+* [[身の代金]], [[身代金]] (''minoshirokin''): ransom
+* [[バイト代]] (''baitodai''): earnings from a part-time job
+* [[切符代]] (''kippudai''): ticket price
+* [[化粧代]] (''keshōdai''): lady's pin money
+* [[研削代]] (''kensakushiro''): grinding allowance
+* [[師範代]] (''shihandai''): assistant instructor
+* [[修理代]] (''jūridai''): cost of repairs
+* [[手術代]] (''shujutsudai''): surgery costs
+* [[食事代]] (''shokujidai''): cost of a meal
+* [[線香代]] (''senkōdai''): fee for a geisha's time
+* [[洗濯代]] (''sentakudai''): laundry charges
+* [[昼食代]] (''chūshokudai''): lunch price
+* [[治療代]] (''chiryōdai''): medical fees
+* [[電気代]] (''denkidai''): electric utility expense
+* [[暖簾代]] (''norendai''): goodwill
+* [[風呂代]] (''furodai''): fee charged at a public bath
+* [[部屋代]] (''heyadai''): room rent
+* [[弁当代]] (''bentōdai''): lunch money
+* [[御霊代]] (''mitamashiro''): symbol for the spirit of the dead
+* [[始生代]] (''shiseidai''): Archean
+* [[原生代]] (''genseidai''): Proterozoic
+* [[顕生代]] (''kenseidai''): Phanerozoic
+* [[古生代]] (''koseidai''): Paleozoic
+* [[中生代]] (''chūseidai''): Mesozoic
+* [[新生代]] (''shinseidai''): Cenozoic
+* [[大正の代]] (''taishō no yo''): Taisho era
+* [[天神七代]] (''tenjin-shichidai''): seven generations of celestial deities
+* [[強直間代発作]] (''kyōchoku-kandai-hossa''): tonic-clonic seizure
+* [[千九百年代]] (''sen kyūhyaku-nen dai''): the 1900's
+* [[明治天皇の代に]] (''meiji tennō no yo ni''): under Emperor Meiji's rule
+{{rel-bottom}}
+
+[[Category:ja:Units of measure|しろ]]
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 代]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=대|rv=dae|mr=tae}}
+
+# {{defn|lang=ko|sort=人03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đại]], [[đời]], [[rượi]], [[đãi]]|rs=人03}}
+
+# {{defn|lang=vi|sort=人03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4ee3 Nom Foundation]
+
+[[fr:代]]
+[[ko:代]]
+[[it:代]]
+[[hu:代]]
+[[mg:代]]
+[[ja:代]]
+[[no:代]]
+[[pl:代]]
+[[pt:代]]
+[[ru:代]]
+[[fi:代]]
+[[th:代]]
+[[chr:代]]
+[[uk:代]]
+[[zh:代]]

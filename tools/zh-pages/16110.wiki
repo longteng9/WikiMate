@@ -1,0 +1,85 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=05|sn=8|four=51017|canj=QSS|ids=⿰扌巨}}
+
+# [[ward]] off with [[hand]], [[defend]]
+
+====References====
+* {{Han ref|kx=0425.120|dkj=11957|dj=0774.010|hdz=31835.010|uh=62D2|ud=25298|bh=A9DA|bd=43482}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jù
+|c=keoi5
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=手05}}
+
+# {{defn|lang=ja|sort=手05}}
+
+====Readings====
+* {{ja-readings|goon=[[ご]] (go)|kanon=[[きょ]] (kyo)|kun=[[こばむ]] (kobamu), [[ふせぐ]] (fusegu)}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|拒否|きょひ}}
+{{mid3}}
+* {{ja-r|拒否権|きょひけん}}
+{{mid3}}
+* {{ja-r|拒絶|きょぜつ}}
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[거]], [[구]]|eumhun=|rv=geo, gu|mr=kŏ, ku|y=ke, kwu}}
+
+# {{defn|lang=ko|sort=手05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|cự|rs=手05}}
+
+# {{defn|lang=vi|sort=手05}}
+
+[[fr:拒]]
+[[ko:拒]]
+[[hu:拒]]
+[[mg:拒]]
+[[ja:拒]]
+[[no:拒]]
+[[pl:拒]]
+[[th:拒]]
+[[zh:拒]]

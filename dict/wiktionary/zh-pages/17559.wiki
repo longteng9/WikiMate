@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=06|sn=10|four=47912|canj=DNMU|ids=⿰木危}}
+
+====References====
+* {{Han ref|kx=0525.060|dkj=14759|dj=0914.010|hdz=21203.010|uh=6845|ud=26693|bh=AEE9|bd=44777}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|危|c1=s|c2=p|t1=wood|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wéi
+|c=wai4,ngai4
+|mn=qz,twv,xm,zz:gûi/tw:ûi
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[mast]] of a [[ship]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木06}}
+
+# {{defn|lang=ja|sort=木06}}
+
+====Readings====
+* {{ja-readings|on=[[がい]] (gai)|kun=[[くちなし]] (kuchinashi)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木06|hanviet=ngôi}}
+
+# {{defn|lang=vi|sort=木06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6845 Nom Foundation]
+
+[[fr:桅]]
+[[hu:桅]]
+[[mg:桅]]
+[[pl:桅]]
+[[th:桅]]
+[[zh:桅]]

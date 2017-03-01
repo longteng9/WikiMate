@@ -1,0 +1,79 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhèngmiàn
+|c=zing3 min6
+|h=pfs=chṳn-mien
+|mn=qz,tw,xm,zz:chiàⁿ-bīn/xm,zz:chèng-biān
+|cat=a,adv,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[positive]]
+
+===Adverb===
+{{zh-adv}}
+
+# [[face-to-face]]
+
+===Noun===
+{{zh-noun}}
+
+# [[front]], [[façade]]
+
+====Antonyms====
+* {{qualifier|of front}} {{zh-l|側面/侧面}}, {{zh-l|背面}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|めん|yomi=o}}
+
+===Etymology 1===
+From {{etyl|zhx|ja}} {{m|cmn|正面}}.
+
+====Noun====
+{{ja-noun|しょうめん}}
+
+# [[front]], [[façade]]
+
+===Etymology 2===
+From {{etyl|ojp|ja}} {{m|ja|真||real, true, straight|tr=ma}} + {{m|ja|つ||possessive particle|tr=tsu}} + {{m|ja|面||face, facing|tr=mo}}.
+
+{{ja-kanjitab|yomi=irr|sort=まとも}}
+
+====Adjectival noun====
+{{ja-adj|まとも|decl=na}}
+
+# [[direct]], [[straight]]
+# [[honest]], [[proper]]
+
+=====Inflection=====
+{{ja-na|まとも}}
+
+====Alternative forms====
+* {{l|ja|真面}}
+* {{l|ja|真とも}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=정면}}
+
+# {{hanja form of|정면|[[front]], [[façade]]}}
+
+[[zh-min-nan:正面]]
+[[ko:正面]]
+[[hu:正面]]
+[[mg:正面]]
+[[ja:正面]]
+[[tl:正面]]
+[[chr:正面]]
+[[zh:正面]]

@@ -1,0 +1,165 @@
+{{character info/new}}
+{{also|叧}}
+==Translingual==
+{{stroke order|strokes=5}}
+
+===Etymology===
+{{Han etyl}}{{Han compound|刀|口|c1=p|c2=s|t2=mouth|ls=psc}} – to call out (with one’s mouth).
+
+===Han character===
+{{Han char|rn=30|rad=口|as=02|sn=5|four=17602|canj=SHR|ids=⿱刀口}}
+
+# [[imperial]] [[decree]]
+# [[summon]]
+# to [[call]] [[together]], to [[convene]], to [[summon]]
+# [[temple]] or [[monastery]] (used in [[placename]]s in [[Inner Mongolia]])
+
+====Derived characters====
+Widely used as phonetic:
+{{top2}}
+* chāo
+*# [[弨]]
+*# [[怊]]
+*# [[欩]]
+*# [[超]]
+* chǎo
+*# [[眧]]
+* sháo
+*# [[招]]
+*# [[牊]]
+*# [[苕]]
+*# [[玿]]
+*# [[韶]]
+* shào
+*# [[佋]]
+*# [[劭]]
+*# [[卲]]
+*# [[紹]] ([[绍]])
+*# [[邵]]
+*# [[綤]]
+*# [[袑]]
+{{mid2}}
+* zhāo
+*# [[招]]
+*# [[昭]]
+*# [[巶]]
+*# [[妱]]
+*# [[鉊]]
+*# [[鍣]]
+*# [[駋]]
+* zhǎo
+*# [[菬]]
+*# [[沼]]
+* zhào
+*# [[詔]] ([[诏]])
+*# [[照]]
+*# [[炤]]
+*# [[燳]]
+{{bottom}}
+
+Indirect characters:
+{{top2}}
+*# [[綤]]
+*# [[鍣]]
+*# [[菬]]
+*# [[照]]
+*# [[燳]]
+{{bottom}}
+
+====See also====
+* {{l|mul|喫}}, {{l|mul|吃}}
+* {{l|mul|食}}
+* {{l|mul|頂}}
+
+====References====
+* {{Han ref|kx=0172.070|dkj=03241|dj=0383.030|hdz=10574.030|uh=53EC|ud=21484|bh=A56C|bd=42348}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=zhào
+|c=ziu6
+|h=pfs=chheu
+|md=
+|mn=qz,tw,xm,zz:tiāu/qz,tw,xm,zz:tiàu
+|mn_note=tiāu - literary; tiàu - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[imperial]] [[decree]]
+# [[summon]]
+# to [[call]] [[together]], to [[convene]], to [[summon]]
+# [[temple]] or [[monastery]] (used in [[placename]]s in [[Inner Mongolia]])
+
+===Compounds===
+{{zh-der|召开|召募|宣召}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=Shào
+|c=siu6
+|cat=pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{surname|lang=zh}} ([[Shao]])
+# [[name]] of an [[ancient]] [[state]] that [[exist]]ed in what is now [[Shaanxi]] [[province]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=口02}}
+
+# To seduce.
+
+====Readings====
+* {{ja-readings|goon=[[しょう]] (shō)|kanon=[[しょう]] (shō)|kun=[[めす]] (mesu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[소]], [[조]]|rv=so, jo|mr=so, cho}}
+
+# {{defn|lang=ko|sort=口02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=口02| hanviet = chịu, chẹo, giẹo, trịu, triệu, xạu, trẹo, dịu, gieo, trĩu}}
+
+# {{defn|lang=vi|sort=口02}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=53ec Nom Foundation]
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville, 1999
+
+
+[[fr:召]]
+[[ko:召]]
+[[hu:召]]
+[[mg:召]]
+[[ja:召]]
+[[no:召]]
+[[pl:召]]
+[[th:召]]
+[[zh:召]]

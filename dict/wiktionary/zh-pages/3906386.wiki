@@ -1,0 +1,41 @@
+{{also|葉緑素|叶绿素}}
+==Chinese==
+{{zh-forms|s=叶绿素}}
+{{wikipedia|lang=zh|葉綠素}}
+
+===Etymology===
+{{zh-compound|葉|綠|素|leaf|green|substance}}
+
+===Pronunciation===
+{{zh-pron
+|m=yèlǜsù
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|biochemistry}} [[chlorophyll]]
+
+----
+
+==Korean==
+{{ko-hanjatab|葉|綠|素}}
+
+===Noun===
+{{ko-noun|rv=yeomnokso|hangeul=엽록소}}
+
+# {{hanja form of|엽록소|[[chlorophyll]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab|葉|綠|素}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|diệp lục tố|[[chlorophyll]]}}
+
+[[ko:葉綠素]]
+[[ja:葉綠素]]

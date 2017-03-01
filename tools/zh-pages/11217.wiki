@@ -1,0 +1,108 @@
+{{character info/new}}
+{{also|倾}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=11|sn=13|four=21286|canj=OPMC|ids=⿰亻頃}}
+
+# [[upset]], [[pour]] out, [[overflow]]
+# [[lean]], [[bend]], [[incline]]
+
+====References====
+* {{Han ref|kx=0115.100|dkj=01038|dj=0245.080|hdz=10212.100|uh=50BE|ud=20670|bh=B6C9|bd=46793}}
+
+----
+
+==Chinese==
+{{zh-forms|s=倾}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|頃|c1=s|c2=p|t1=man|ls=psc}}.
+
+(Note that it is not [[化]] + [[頁]].)
+
+===Pronunciation===
+{{zh-pron
+|m=qīng
+|c=king1
+|h=pfs=
+|md=
+|mn=kheng
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}} {{attention|zh|needs normal non-Cantonese meanings}}
+# {{lb|zh|Cantonese}} to [[chat]]; to [[converse]]
+#: {{zh-x|傾 下{haa5} 講 下{haa5}　講 點至 下嫁|{{t-needed|yue}}|C|ref={{w2|zh|鄺美雲}} (lyricist {{lang|zh|鄧偉雄}}), {{lang|zh|戀愛專家}}}}
+
+====Derived terms====
+{{zh-der|傾訴|傾心|傾偈|一見傾心|一顧傾人|一顧傾城|倒山傾海|倒廩傾囷|傾世|傾亡|傾倒|傾側|傾力|傾動|傾危|傾卸卡車|傾卸機|傾吐|傾向|傾囊|傾囊相授|傾國|傾國傾城|傾圮|傾城|傾城傾國|傾奪|傾宮|傾家|傾家盡產|傾家竭產|傾家蕩產|傾崩|傾巢|傾巢出動|傾巢而出|傾心吐膽|傾想|傾慕|傾斜|傾斜流|傾斜角|傾注|傾洩|傾瀉|傾盆|傾盆大雨|傾移斷層|傾筐倒庋|傾筐倒篋|傾箱倒篋|傾耳|傾耳拭目|傾耳注目|傾聽|傾腸倒腹|傾蓋|傾蓋定交|傾蓋相逢|傾蓋而語|傾襟|傾覆|傾覆重器|傾角|傾談|傾身營救|傾軋|傾送|傾銀罐|傾銷|傾銷關稅|傾陷|傾頹|勢傾朝野|反傾銷稅|右傾|吐膽傾心|器滿則傾|大廈將傾|大雨傾盆|巢傾卵破|左傾|意氣相傾|扶傾濟弱|扶危定傾|扶危翼傾|扶急持傾|拭目傾耳|敗業傾家|權傾中外|權傾天下|濟弱扶傾|玉山傾倒|玉山傾頹|盆傾甕倒|磁傾角|程孔傾蓋|繼絕扶傾|葵傾|蕩產傾家|覆巢傾卵}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=人11}}
+
+====Readings====
+* {{ja-readings|goon=[[きょう]] (kyō)|kanon=[[けい]] (kei)|kun=[[かたむく]] ([[傾く]], katamuku), [[かたむける]] ([[傾ける]], katamukeru), [[くつがえす]] (kutsugaesu)}}
+
+====Compounds====
+* [[傾角]]
+* [[傾向]]
+* [[傾国]]
+* [[傾差]]
+* [[傾斜]]
+* [[傾城]]
+* [[傾注]]
+* [[傾聴]]
+* [[傾度]]
+* [[傾倒]]
+* [[傾覆]]
+* [[傾瀉]]
+
+====Related terms====
+* [[傾ぐ]]
+* [[傾らか]]
+* [[傾れる]]
+
+===Noun===
+{{ja-noun|ななめ}}
+
+# {{lb|ja|obsolete|sort=ななめ}} {{alternative form of|斜め|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|rv=gyeong|mr=kyŏng}}
+
+# {{defn|lang=ko|sort=人11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khuynh]], [[khoanh]], [[khuâng]], [[khuỳnh]]|rs=人11}}
+
+# {{defn|lang=vi}}
+
+[[et:傾]]
+[[fr:傾]]
+[[ko:傾]]
+[[hu:傾]]
+[[mg:傾]]
+[[ja:傾]]
+[[pl:傾]]
+[[th:傾]]
+[[zh:傾]]

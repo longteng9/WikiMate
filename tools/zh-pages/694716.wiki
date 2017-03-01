@@ -1,0 +1,63 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jūmín
+|c=geoi1 man4
+|h=pfs=kî-mìn
+|mn=ki-bîn/ku-bîn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[resident]]; [[inhabitant]]
+#: {{zh-x|居民 身份證|'''resident''' identity card}}
+
+====Derived terms====
+{{zh-der|居民區}}
+
+====See also====
+* {{zh-l|公民}}
+* {{zh-l|居留}}
+* {{zh-l|居住}}
+* {{zh-l|平民}}
+* {{zh-l|市民}}
+* {{zh-l|移民}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きょ|みん|yomi=on}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=きょみん}} compound {{m|ltc|居民|tr=*giu *min}}. Compare modern {{cog|zh|居民|tr=jūmín}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|h|きょ|みん}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[kjo̞mĩɴ]}}
+
+===Noun===
+{{ja-noun|きょみん}}
+
+# [[resident]], [[inhabitant]] (of a particular area)
+
+====Synonyms====
+* {{ja-l|住民|じゅうみん|jūmin}}
+
+===References===
+<references/>
+
+[[zh-min-nan:居民]]
+[[ko:居民]]
+[[lt:居民]]
+[[hu:居民]]
+[[ja:居民]]
+[[tl:居民]]
+[[chr:居民]]
+[[zh:居民]]

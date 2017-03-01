@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|浜|滨}}
+==Translingual==
+{{Han simplified forms|濱|浜|滨}}
+
+===Han character===
+{{Han char|rn=85|rad=水|as=14|sn=17|four=33186|canj=EJMC}}
+
+====References====
+* {{Han ref|kx=0657.200|dkj=18537|dj=1067.190|hdz=31773.070|uh=6FF1|ud=28657|bh=C0D8|bd=49368}}
+
+----
+==Chinese==
+{{zh-forms|s=滨}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bīn
+|c=ban1
+|h=pfs=
+|md=
+|mn=pin
+|w=1pin
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[shore]]; [[beach]]; [[coast]]; [[bank]]
+# to [[border]] on; to be [[adjacent]] to
+
+===Compounds===
+{{zh-der|哈爾濱|問諸水濱|濱豇豆|濱海|江濱|濱海公路|橫濱|濱江|水濱|海濱|率土之濱|濱線|濱外|河濱|湖濱散記|長濱文化|西濱大橋}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水14}}
+
+# {{defn|lang=ja|sort=水14}}
+
+====Readings====
+* {{ja-readings|on=[[ひん]] (hin), [[ほう]] (hō)|kun=[[はま]] (hama)}}
+
+===Noun===
+{{ja-noun|はま|shin=浜}}
+# [[beach]], [[seashore]]
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 濱]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=빈|eumhun=물가|rv=bin|mr=pin|y=pin}}
+
+# {{defn|lang=ko|sort=水14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tân]]|rs=水14}}
+
+# {{defn|lang=vi|sort=水14}}
+
+[[fr:濱]]
+[[ko:濱]]
+[[hu:濱]]
+[[ja:濱]]
+[[pl:濱]]
+[[th:濱]]
+[[zh:濱]]

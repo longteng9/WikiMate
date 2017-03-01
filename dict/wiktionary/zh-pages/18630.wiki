@@ -1,0 +1,171 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=03|sn=6|four=31140|canj=EMJ|ids=⿰氵干}}
+
+# [[perspiration]], [[sweat]]
+
+====References====
+* {{Han ref|kx=0605.110|dkj=17130|dj=0999.040|hdz=31550.060|uh=6C57|ud=27735|bh=A6BD|bd=42685}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|干|c1=s|c2=p|ls=psc}}.
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=hàn
+|c=hon6
+|h=pfs=hon
+|mn=kōaⁿ/hān
+|mn_note=kōaⁿ - vernacular; hān - literary
+|mc=3
+|oc=y,3
+|cat=n,v,symbols
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[sweat]]; [[perspiration]] {{zh-mw|滴}}
+#: {{zh-x|我 正 流 著[着]{zhe} 汗。|I'm dripping with sweat.}}
+#: {{zh-x|出 了 一 頭 大 汗|The head is sweating a lot.}}
+#* {{zh-x|他 去 跑步 流 了 一 身 汗。|He is drenched in '''sweat''' after running.}}
+# {{lb|zh|literary}} to [[sweat]]; to [[perspire]]
+# {{lb|zh|literary}} [[condensation]] on [[bamboo]] when put over [[fire]]
+# {{lb|zh|internet slang}} {{n-g|Word used to express [[embarrassment]], [[speechlessness]] or [[helplessness]].}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=hán
+|c=hon4
+|mc=1
+|oc=n,2
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|可汗||汗國}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=gān
+|mc=2
+|oc=n,1
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|餘汗/馀汗}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水03}}
+
+# [[sweat]]
+
+====Readings====
+* {{ja-readings|goon=[[がん]] (gan)|kanon=[[かん]] (kan)|kun=[[あせ]] (ase)}}
+
+===Noun===
+{{ja-noun|あせ}}
+
+# [[sweat]]
+
+====Pronunciation====
+{{ja-pron|yomi=k|あせ|acc=1|acc_ref=SMK2}}
+
+====Derived terms====
+* {{ja-r|汗をかく|あせ を かく}}
+
+[[Category:Japanese basic words|あせ]]
+[[Category:ja:Bodily fluids|あせ]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=한|eumhun=|rv=han|mr=han|y=han}}
+
+# ([[땀]] 한, ''ttam-''): [[sweat]]
+# ([[물]] [[질펀하다|질펀할]] 한, ''mul-jilpeonhal-''): [[flood]]
+# ([[되]] [[임금]] 한, ''doe-imgeum-''): [[khan]]
+
+====Synonyms====
+* [[單]] ([[선]], ''seon'') [[w:Xiongnu|Xiongnu]] [[king]]
+* [[單于]] ([[선우]], ''seon-u'') [[w:Xiongnu|Xiongnu]] [[king]]
+
+====Compounds====
+* [[可汗]] ([[가한]], ''gahan'') [[khagan]], [[khan]] of [[khan]]s
+
+====See also====
+* [[干]] ([[간]], ''gan'') (''translingual'') [[dry]]
+
+[[Category:Hanja readings|한]]
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{head|ryu|kanji}}
+
+====Readings====
+* Native: あし (ashi)
+
+===Noun===
+{{head|ryu|noun|hiragana|あし|romaji|ashi}}
+
+# [[sweat]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水03| hanviet = [[cạn]], [[hãn]], [[khan]]}}
+
+# {{defn|lang=vi|sort=水03}}
+
+[[zh-min-nan:汗]]
+[[fr:汗]]
+[[ko:汗]]
+[[hi:汗]]
+[[it:汗]]
+[[lo:汗]]
+[[li:汗]]
+[[hu:汗]]
+[[mg:汗]]
+[[ja:汗]]
+[[no:汗]]
+[[pl:汗]]
+[[ru:汗]]
+[[sr:汗]]
+[[fi:汗]]
+[[sv:汗]]
+[[th:汗]]
+[[uk:汗]]
+[[zh:汗]]

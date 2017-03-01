@@ -1,0 +1,30 @@
+==Japanese==
+{{ja-kanjitab|り|りく|yomi=on}}
+
+===Noun===
+{{ja-noun|りりく}}
+
+# [[takeoff]]
+
+====Antonyms====
+* {{ja-r|着陸|ちゃくりく}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|りりく}}
+
+# for an airplane to [[take off]]
+
+====Conjugation====
+{{ja-suru|りりく}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=이륙}}
+
+# {{hanja form of|이륙|[[takeoff]]}}
+
+[[ko:離陸]]
+[[ja:離陸]]
+[[zh:離陸]]

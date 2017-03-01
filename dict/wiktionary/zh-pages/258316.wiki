@@ -1,0 +1,68 @@
+{{also|纳豆}}
+==Chinese==
+{{zh-forms|s=纳豆}}
+
+===Etymology===
+From {{etyl|ja|zh}} {{m|ja|納豆|tr=nattō}}.
+
+===Pronunciation===
+{{zh-pron
+|m=nàdòu
+|c=naap6 dau6-2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[natto]]
+
+{{zh-cat|Foods}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Nattō}}
+[[Image:Natto mixed.jpg|thumb|250px|{{lang|ja|納豆}} (''nattō''): a small bowl of '''[[natto]]''', or '''[[fermented]] [[soybean]]s'''.]]
+</div>
+{{ja-kanjitab|納|豆}}
+
+===Etymology===
+Possibly by extension from {{m|ja|納所|tr=nassho||[[temple]] office for receiving [[donation]]s}}, and originally meaning beans ({{l|ja|豆}}) from or in the {{m|ja|納所}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+* {{ja-pron|なっとう|y=o|acc=3|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|なっとう}}
+
+# [[natto]] (a traditional Japanese food product made from fermented soybeans)
+
+====Idioms====
+{{der-top|Idioms}}
+* {{ja-r|納豆も豆なら豆腐も豆|なっとう も まめ なら とうふ も まめ}}: "if nattō is also beans, then tōfu is also beans" → a metaphor for how the same starting point can produce different results
+{{der-bottom}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|納豆烏帽子|なっとう えぼし}}: common alternate word for {{m|ja|折烏帽子|tr=ori eboshi}}, a type of {{m|ja|烏帽子|tr=eboshi||traditional Japanese formal black peaked hat}}
+* {{ja-r|納豆菌|なっとう きん}}: ''[[Bacillus subtilis]]'' var. ''natto''
+* {{ja-r|納豆汁|なっとう じる}}: a type of [[miso]] [[soup]] made with ground nattō, commonly served in winter
+* {{ja-r|納豆売り|なっとう うり}}: a nattō seller
+* {{ja-r|納豆肥|なっとうごえ}}: a type of [[fertilizer]] made from [[ferment]]ed and [[compost]]ed soybeans, commonly used to fertilize [[tea]] [[bush]]es
+{{der-bottom}}
+
+===See also===
+* {{ja-r|ねばねば}}: [[sticky]], [[gooey]] {{qualifier|used to describe the texture of things such as nattō and okra}}
+
+===References===
+<references/>
+
+[[Category:ja:Foods|なつとう]]
+
+[[ko:納豆]]
+[[hu:納豆]]
+[[ja:納豆]]
+[[zh:納豆]]

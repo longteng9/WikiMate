@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shāntián
+|c=saan1 tin4
+|cat=v,n,pn
+}}
+
+===Etymology 1===
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|archaic}} to [[hunt]] in the [[mountain]]
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|archaic}} [[low]]-[[quality]] [[farmland]]
+
+===Etymology 2===
+From {{der|zh|ja|山田|tr=Yamada}}.
+
+====Proper noun====
+{{zh-proper noun}}
+
+# {{surname|lang=zh|Japanese|dot=:}} [[Yamada]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|やま|だ}}
+
+===Etymology===
+{{compound|lang=ja|山|田|tr1=yama|t1=[[mountain]]|tr2=ta|t2=[[rice]] [[field]]|sort=やまだ}}
+
+===Proper noun===
+{{ja-pos|proper|やまだ}}
+
+# a [[place name]]
+# {{surname|lang=ja|[[habitational]]|sort=やまだ}}
+
+====Usage notes====
+This name is used as the stereotypical Japanese family name in {{lang|ja|山田[[太郎]]}} ''Yamada Tarō'' (male) and {{lang|ja|山田[[花子]]}} ''Yamada Hanako'' (female), similar to [[John]] and [[Jane]] [[Smith]] in English.
+
+[[fr:山田]]
+[[ko:山田]]
+[[ja:山田]]

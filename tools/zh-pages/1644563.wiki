@@ -1,0 +1,34 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tèhuà
+|c=dak6 faa3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[specialization]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|とく|k1=とっ|か|yomi=o}}
+
+===Noun===
+{{ja-noun|とっか}}
+
+# [[specialization]]
+
+===Verb===
+{{ja-verb-suru|とっか}}
+
+# to [[specialize]]
+
+====Conjugation====
+{{ja-suru|とっか}}
+
+[[zh:特化]]

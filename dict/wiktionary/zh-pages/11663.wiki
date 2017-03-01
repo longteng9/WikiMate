@@ -1,0 +1,87 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=09|sn=11|four=80227|canj=TBNH|ids=⿱前刀}}
+
+# [[scissors]]
+# [[cut]], [[divide]], [[separate]]
+
+====References====
+* {{Han ref|kx=0142.130|dkj=02088|dj=0322.010|hdz=10347.090|uh=526A|ud=21098|bh=B0C5|bd=45253}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=前,𣦃}}
+
+===Glyph origin===
+Originally {{zh-l|*𣦃}} or {{zh-l|*前}}, a {{Han compound|歬|c1=p|刀|t2=knife|c2=s|ls=psc|nocap=y}}. Since {{zh-l|*前}} has replaced {{zh-l|*歬}}, an additional {{zh-l|*刀}} has been added.
+
+===Pronunciation===
+{{zh-pron
+|m=jiǎn
+|c=zin2
+|h=pfs=chién
+|md=
+|mn=chián
+|w=
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[cut]] (paper, etc.)
+#: {{zh-x|剪草機|lawnmower (''lit.'' grass-'''cutting''' machine)}}
+#: {{zh-x|剪刀|scissors (''lit.'' '''cutting''' knife)}}
+
+====Derived terms====
+{{zh-der|剪草機|剪紙|剪刀|剪子|修剪|倒背剪|冒雨剪韭|剪伐|剪報|剪夏羅|剪子股|剪床|剪影|剪徑|剪惡除奸|剪手|剪拂|剪接|剪撲|剪春羅|剪枝|剪燈新話|剪燭西窗|剪直|剪票|剪票口|剪票夾|剪秋羅|剪窗花|剪筒|剪絕|剪綵|剪綹|剪草除根|剪莽擁篲|剪裁|剪貼|剪貼簿|剪輯|剪除|剪頭|剪髮|剪髮披緇|反剪|夾剪|夾剪艙|并州剪|指甲剪|新聞剪影|杭剪|火剪|燕剪|背剪|茅茨不剪|裁剪|討惡剪暴|跑蹄剪尾|鉸剪|鋼剪|風剪}}
+
+====See also====
+* {{zh-l|切|to slice}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=刀09}}
+
+# {{defn|lang=ja|sort=刀09}} <!-- line may be deleted if/when POS headers are added -->
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen)|kun=[[きる]] (kiru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|rv=jeon|mr=chŏn}}
+
+# {{defn|lang=ko|sort=刀09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tiện]], [[tiễn]]|rs=刀09}}
+
+# {{defn|lang=vi|sort=刀09}}
+
+[[fr:剪]]
+[[ko:剪]]
+[[lt:剪]]
+[[hu:剪]]
+[[mg:剪]]
+[[ja:剪]]
+[[no:剪]]
+[[pl:剪]]
+[[th:剪]]
+[[vi:剪]]
+[[zh:剪]]

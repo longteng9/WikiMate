@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gǎizàng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|archaic}} to [[change]] the [[location]] of a [[funeral]]; to [[reschedule]] a [[funeral]]
+
+[[Category:Mandarin archaic terms|gai3zang4]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|そう|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|かいそう|y=o}}
+
+===Noun===
+{{ja-noun|かいそう}}
+
+# [[reburial]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|かいそう}}
+
+# to [[rebury]] the remains of a person
+
+====Conjugation====
+{{ja-suru|かいそう}}
+
+[[zh:改葬]]

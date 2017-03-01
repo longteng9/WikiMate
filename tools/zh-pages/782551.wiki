@@ -1,0 +1,32 @@
+{{also|裁判员}}
+==Chinese==
+{{zh-forms|s=裁判员|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=cáipànyuán
+|c=coi4 pun3 jyun4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[referee]]; [[umpire]]; [[judge]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|さい|ばん|いん|yomi=on}}
+
+===Etymology===
+{{suffix|裁判|員|t1=court|t2=member|lang=ja|sort=さいばんいん}}
+
+===Noun===
+{{ja-noun|さいばんいん}}
+
+# a [[citizen]] chosen to serve as a [[judge]] for a single case alongside professional judges and other citizen judges
+
+===References===
+* {{pedialite|Juries in Japan}}
+* {{pedialite|lang=ja|裁判員}}

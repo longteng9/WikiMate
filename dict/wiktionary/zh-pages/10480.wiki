@@ -1,0 +1,31 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Graphical manipulations on {{zh-l|兵|soldier}}, converting it into a similar-sounding onomatopoeia. First attested in {{w|Ming Dynasty}} and referred to the sound of collisions (during a fight). Later used as a {{translit|zh|en|ping pong|nocap=y}}.
+
+===Pronunciation===
+{{zh-pron
+|m=pīngpāng,tl=y
+|c=bing1 bam1
+|md=pĭng-pŏng
+|mn=qz,xm,zz:phin-phong/tw:phín-phóng
+|w=1phin phan
+|h=pfs=phîn-phóng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{n-g|Sound of collision, the sound made from the impact of an object.}}
+# [[table tennis]], [[ping pong]]
+
+====Derived terms====
+{{zh-der|乒乓球|乒乓波|乒乒乓乓|乒乓外交}}
+
+{{zh-cat|Games|Sports}}
+
+[[ko:乒乓]]
+[[hu:乒乓]]
+[[zh:乒乓]]

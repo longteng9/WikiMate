@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǒulǐ
+|c=jau5 lei5
+|h=pfs=yû-lî
+|mn=ū-lí
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[reasonable]]
+# {{lb|zh|mathematics}} [[rational]]
+
+====Derived terms====
+{{zh-der|有理化|有理式|有理數}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ゆう|り}}
+
+===Noun===
+{{ja-noun|ゆうり}}
+
+# [[reasonable]]
+# {{lb|ja|mathematics|sort=ゆうり}} [[rational]]
+
+====Derived terms====
+* {{ja-r|有理化|ゆうりか}}
+
+[[hu:有理]]
+[[mg:有理]]
+[[zh:有理]]

@@ -1,0 +1,99 @@
+{{character info/new}}
+{{also|隻}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=02|sn=5|four=60800|canj=RC|ids=⿱口八}}
+
+====References====
+* {{Han ref|kx=0172.050|dkj=03239|dj=0383.010|hdz=10570.030|uh=53EA|ud=21482|bh=A575|bd=42357}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{liushu|ic}}: {{zh-l|*口|mouth}} + airflow, an interjection.
+
+===Etymology 1===
+{{zh-forms|t2=祇|alt=衹}}
+
+====Pronunciation====
+{{zh-pron
+|m=zhǐ
+|ma=y
+|c=zi2
+|h=pfs=chṳ́/chṳt
+|mn=chí
+|w=2tsr,4tseq
+|mc=y
+|oc=y
+|cat=adv
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[only]]; [[just]]; [[simply]]
+#: {{zh-x|我 只 去 過 一 次。|I've '''only''' been there once.}}
+#: {{zh-x|湯 裡 只 放 了 一點兒{r} 胡椒粉。|There was '''just''' a hint of pepper in the soup.}}
+
+=====Synonyms=====
+* {{zh-l|單}}
+
+====Compounds====
+{{zh-der|fold=1|只知其一，不知其二|只爭旦夕|只許州官放火，不許百姓點燈|弱水三千，只取一瓢飲|只道|只可|只有|只須|好漢只怕病來磨|只顧|只知有己，不知有人|只消|只合|只當|只教|只有出的氣，沒有進的氣|只要功夫深，鐵杵磨成針|只甚|只在|不怕官，只怕管|只此一家，別無分店|不管講雞講鴨，我只講鵝|天下無難事，只怕有心人|世上無難事，只怕有心人|只管|只認錢不認人|只索|只欠東風|不怕縣官，只怕現管|只是|只能|不圖打點，只圖混水|不只|只怕|只待|只重衣衫不重人|不管生癬生瘡，我只生癩|只可意會，不可言傳|只好|僅只|只會|只見樹木，不見森林|只見|只要|只今|只得|萬事俱備，只欠東風|破蒸籠，只會撒氣|是非只為多開口|敢只是|逢人只說三分話|肐膊只折在袖子裡|英雄只怕病來磨|賊沒種，只怕哄|豈只|蚊子遭扇打，只為嘴傷人}}
+
+===Etymology 2===
+{{zh-see|隻}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口02}}
+
+# only, simply
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[ただ]] (tada)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=지|rv=ji|mr=chi|y=ci}}
+
+# {{defn|lang=ko|sort=口02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chỉ]], [[chích]]|rs=口02}}
+
+# {{defn|lang=vi|sort=口02}}
+
+[[zh-min-nan:只]]
+[[fr:只]]
+[[ko:只]]
+[[li:只]]
+[[hu:只]]
+[[mg:只]]
+[[ms:只]]
+[[fj:只]]
+[[ja:只]]
+[[no:只]]
+[[pl:只]]
+[[sr:只]]
+[[ta:只]]
+[[th:只]]
+[[chr:只]]
+[[uk:只]]
+[[vi:只]]
+[[zh:只]]

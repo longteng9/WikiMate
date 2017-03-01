@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=13|sn=16|four=36194|canj=ERRD}}
+
+# [[wash]], [[bathe]]
+
+====References====
+* {{Han ref|kx=0652.400|dkj=18379|dj=1062.290|hdz=31756.050|uh=6FA1|ud=28577|bh=BEFE|bd=48894}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zǎo
+|c=zou2,cou3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|冷水澡|搓澡|擦澡|洗澡|澡堂|澡盆|澡盤|澡豆|澡身浴德|澡雪}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水13}}
+
+# {{defn|lang=ja|sort=水13}}
+
+====Readings====
+* {{ja-readings|on=[[そう]] (sō)|kun=[[あらう]] (arau)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=水13}}
+
+[[da:澡]]
+[[fr:澡]]
+[[ko:澡]]
+[[hu:澡]]
+[[mg:澡]]
+[[ja:澡]]
+[[no:澡]]
+[[pl:澡]]
+[[th:澡]]
+[[zh:澡]]

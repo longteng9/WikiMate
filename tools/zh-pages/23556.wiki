@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|纵|縦}}
+==Translingual==
+{{Han simplified forms|縱|縦|纵}}
+===Han character===
+{{Han char|rn=120|rad=糸|as=11|sn=17|four=28981|canj=VFHOO|ids=⿰糹從}}
+
+# [[indulge]] in, [[give]] [[free rein]] to
+# [[even if]]
+
+====References====
+* {{Han ref|kx=0935.310|dkj=27819|dj=1374.090|hdz=53445.020|uh=7E31|ud=32305|bh=C161|bd=49505}}
+
+----
+
+==Chinese==
+{{zh-forms|s=纵}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zòng
+|c=zung3,zung1,zung2
+|h=pfs=chiúng/chiûng
+|mn=qz,tw,xm,zz:chhiòng/qz,xm,zz:chiòng/tw:chhiong/twv:chhióng
+|md=
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[set]] [[loose]]; to [[give]] [[free rein]] to
+
+====References====
+* (''Min Nan'') [http://twblg.dict.edu.tw/holodict_new/index.html Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=糸11}}
+
+# {{defn|lang=ja|sort=糸11}}
+
+====Readings====
+* {{ja-readings|on=[[じゅう]] (jū), [[しょう]] (shō)|kun=[[たて]] (tate)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[종]], [[총]]|eumhun=|rv=jong, chong|mr=chong, ch'ong|y=cong, chong}}
+
+# {{defn|lang=ko|sort=糸11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[túng]], [[tung]]|rs=糸11}}
+
+# {{defn|lang=vi|sort=糸11}}
+
+[[fr:縱]]
+[[ko:縱]]
+[[hu:縱]]
+[[mg:縱]]
+[[ja:縱]]
+[[pl:縱]]
+[[th:縱]]
+[[zh:縱]]

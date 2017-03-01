@@ -1,0 +1,115 @@
+{{character info/new}}
+{{also|攴|枝}}
+==Translingual==
+{{stroke order|strokes=4}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=65|rad=支|as=00|sn=4|four=40407|canj=JE|ids=⿱十又}}
+#{{mul-kangxi radical-def}}
+====Derived characters====
+* [[技]] [[鼓]] [[伎]] [[翅]] [[妓]] [[枝]] [[肢]] ([[Index:Chinese radical/鼓]])
+
+====See also====
+* {{l|mul|攴}} {{qualifier|graphically similar, appears as variant, as in [[鼓]], [[鼔]]}}
+
+====References====
+* {{Han ref|kx=0467.010|dkj=13061|dj=0814.130|hdz=21327.140|uh=652F|ud=25903|bh=A4E4|bd=42212}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{Han etyl}}
+{{liushu|p}}: branches for support.
+
+===Pronunciation===
+{{zh-pron
+|m=zhī
+|ma=zh-zhī.ogg
+|m-s=zi1
+|c=zi1
+|h=pfs=kî/chṳ̂
+|h_note=kî - vernacular; chṳ̂ - literary
+|md=ciĕ
+|mn=ki/chi
+|mn_note=ki - vernacular; chi - literary
+|mn-t=gi1/zin1
+|mn-t_note=gi1 - vernacular, zin1 - literary
+|w=1tsr
+|mc=y
+|oc=y
+|cat=v,n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[support]]; to [[bear]]; to [[sustain]]
+# to [[disburse]]; to [[pay]]; to [[defray]]
+# to [[prop up]]; to [[put up]]
+# to [[send]] [[away]]; to [[put off]] [[somebody]]
+# [[branch]]; [[offshoot]]; [[subdivision]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|支持|支配|政府開支|分支|支店|支出|支援|收支|精神支持|支氣管炎|支流|支氣管|支票|支柱|支那|支部|開支|支局|支派|支吾|支線|大月支|支節|技術支援|支領|支隊|列支敦斯登|支解|地支|支應|支吾其詞|支那語|列支敦士登|支離破碎|支架|支票簿|支持者|支用|支支吾吾|支子|支點|支撐|支撥|支費|支付憑單|車支子|支頤|支路|不支|支根|支離|支絀|支脈|支援部隊|支書|支氣管氣喘|支取|令支|支使|支孽|支款|支庶|支移|支那通|支行|支渠|支差|支前|一木難支|不支倒地|不蔓不支|乾支剌|乾支支|人頭支票|借支|入不支出|公共支出|冒支銀|分支機關|利息支出|劃線支票|力竭難支|動支|十二支|千支萬派|印度支那|各支支|國際收支|墊支|天干地支|失支脫節|嫡支嫡派|寅支卯糧|密支那|對支|小支氣管|屁支支|左右支絀|左支右吾|左支右絀|干支|度支|形單影支|惡支殺|憋支支|措支剌|支付|支付命令|支分|支劃|支助|支單|支嘴兒|支婆|支對|支屬|支手舞腳|支支喳喳|支會|支架子|支楞|支樁|支爐兒|支理|支當|支破|支票機|支空頭|支薪|支襯|支調|支謙|支讖|支轉|支遁|支遁買山|支遣|支邊|支郎|支開|支騰|支骸|收支平衡|旁支|旅行支票|月支|本支|本支百世|東支西吾|條支|樂不可支|活支|活支剌|濫支|焉支山|燕支|燕支山|特支|獨力難支|獨木難支|破碎支離|移轉支付|空頭支票|統收統支|經費支絀|胡支對|胡支扯葉|菩提流支|補償支付|語支|貿易收支|超支|軋支票|辟支佛|近支|透支|遠期支票|郅支|配水支管|鏡支兒|關支|雞骨支床|預支|額支}}
+
+{{zh-cat|Beginning|Intermediate}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=支00}}
+
+# little pieces separated; a [[branch]]
+# [[hand|hands]] and [[leg|legs]]
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[ささえる]] (sasaeru), [[えだ]] (eda), [[つかえる]] (tsukaeru)|nadzuke=[[えだ]] (''eda''), [[なか]] (''naka''), [[もろ]] (''moro''), [[ゆた]] (''yuta'')}}
+
+====Derived terms====
+* {{ja-r|支払う|しはらう}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=지|eumhun=}}
+
+# {{defn|lang=ko|sort=支00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chi]], [[chề]], [[xê]], [[chia]], [[giê]], [[xài]]|rs=支00}}
+
+# {{defn|lang=vi|sort=支00}}
+
+[[Category:CJKV radicals| ]]
+
+[[zh-min-nan:支]]
+[[fr:支]]
+[[ko:支]]
+[[kn:支]]
+[[sw:支]]
+[[li:支]]
+[[hu:支]]
+[[mg:支]]
+[[ms:支]]
+[[fj:支]]
+[[ja:支]]
+[[no:支]]
+[[pl:支]]
+[[ru:支]]
+[[tl:支]]
+[[ta:支]]
+[[th:支]]
+[[chr:支]]
+[[zh:支]]

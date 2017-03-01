@@ -1,0 +1,159 @@
+{{character info/new}}
+{{also|胁|脅}}
+==Translingual==
+
+===Alternative forms===
+* {{l|mul|脅}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|肉|劦|c1=s|c2=p|ls=psc}}.
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=06|sn=10|four=|canj=BKSS|ids=⿰月劦}}
+
+# [[rib]]s, [[armpit]]s
+# [[flank]]
+# [[threaten]] (archaic usage in Japan)
+
+====References====
+* {{Han ref|kx=0982.040|dkj=29467|dj=1434.080|hdz=32073.080|uh=8107|ud=33031}}
+
+----
+
+==Chinese==
+{{zh-see|脅|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=肉06}}
+
+====Readings====
+{{ja-readings
+|goon=[[こう]] (kō) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}, [[こふ]] (kofu) {{qualifier|historical}}
+|kanon=[[きょう]] (kyō) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}, [[けふ]] (kefu) {{qualifier|historical}}
+|kun=[[わき]] (waki), [[わけ]] (wake) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}, [[かたわら]] (katawara) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+}}
+
+===Etymology 1===
+Nominalization of verb {{m|ja|分く|tr=waku||to split, to divide}}, from the {{m|ja|連用形|tr=ren'yōkei||stem form}} of ''waki''.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> Came to refer to the space between where two things split off from each other, and then, by extension, came to refer to the side of something.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|o|わ|き}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[ɰᵝa̠ki]}}
+
+====Alternative forms====
+* {{ja-l|腋}} {{qualifier|less common}}, {{ja-l|掖}} {{qualifier|less common}}
+
+====Noun====
+{{ja-noun|わき}}
+
+# {{lb|ja|sort=わき|anatomy}} the [[armpit]], the [[underarm]]
+# the [[underarm]] area of [[clothing]]
+# the [[side]] of something (this sense may also be spelled {{ja-l|傍}} or {{ja-l|側}}).
+#: {{ja-usex|'''脇'''から口を出す|'''わき''' から くち を だす|“to put one's mouth in from the '''side'''” → to jump into a conversation}}
+#* {{quote-magazine
+|lang=ja|
+|year=2003
+|author={{lang|ja|川本三郎}} (Saburō Kawamoto)
+|title={{lang|ja|高層ビルの足元にムラがある}} (''Kōsō Biru no Ashimoto ni Mura ga Aru'', “Villages at the Feet of Skyscrapers”)
+|magazine={{lang|ja|風の旅人}} (''Kaze no Tabibito'', “Wind Travelers”)
+|publisher=[http://www.eurasia.co.jp/ Eurasia Travel Co., Ltd.]
+|location=[[w:Tōkyō|Tōkyō]]
+|url=http://books.google.com/books?id=OdhHKOt56eEC&lpg=PA103&dq=%E3%83%93%E3%83%AB%E3%81%AE%E8%84%87&pg=PA103#v=onepage&q=%E3%83%93%E3%83%AB%E3%81%AE%E8%84%87&f=false
+|accessdate=2013-06-17
+|volume=5
+|issn=9784901919081
+|page=103
+|passage=大きなビルの'''脇'''には、小さな飲食店が並ぶ昔ながらのマーケットのような町が残っている。|tr=おおきなびるのわきには、ちいさないんしょくてんがならぶむかしながらのまーけっとのようなまちがのこっている。<br/>''Ōkina biru no '''waki''' ni wa, chīsana inshokuten ga narabu mukashi nagara no māketto no yō na machi ga nokotte iru.''
+|translation=To the '''side''' of large buildings, streets remain that are like old-time markets, with rows of small restaurants.}}
+# a [[tangent]], such as in a [[conversation]]
+#: {{ja-usex|話題から'''脇'''へそれてしまう|わだい から '''わき''' へ それて しまう|“to wander away from the topic and off onto a '''tangent'''” → to stray off-topic}}
+# something in a [[secondary]] and [[supporting]] role:
+## in ancient Japan, an [[assistant]] to the {{m|ja|春宮坊|tr=Tōgūbō|pos=rank title; responsible for administering eastern provinces}}
+## in the [[medieval]] period, old name for {{m|ja|関脇|tr=sekiwake|pos=sumō rank}}
+## in {{m|ja|能楽|tr=nōgaku||[[Noh]] theatre}}, the [[supporting]] [[role]] played alongside the main [[protagonist]]
+## in {{m|ja|浄瑠璃|tr=jōruri|pos=recitation accompanying a puppet show}}, the supporting [[reciter]]
+## in {{m|ja|邦楽|tr=hōgaku|pos=traditional Japanese music}}, the [[accompaniment]]
+# something of lesser importance, something on the [[back burner]] (often used in constructions such as {{lang|ja|脇に}}{{ja-l|する}} (''waki ni suru'', “to put off to the side”), {{lang|ja|脇に}}{{ja-l|なる}} (''waki ni naru'', “to become off to the side”).)
+# short for {{ja-l|脇能||wakinō}}: a type of [[Noh]] theatre, performed first in a series of performances, wherein a god or spirit prays for a peaceful [[reign]] for the [[emperor]]
+# short for {{ja-l|脇句||wakiku}}: the two seven-[[syllable]] lines of [[poetry]] following the {{m|ja|発句|tr=hakku|pos=the first three lines of a ''[[renga]]'', of 17 syllables and later serving as the ''[[haiku]]'' form}}
+# short for {{ja-l|脇百姓||wakibyakushō}}: lower-ranking [[commoner]]s in the [[w:Edo period|Edo period]] and earlier
+# somewhere, someone, or something [[else]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|脇の御膳|わきのごぜん|waki no gozen}}: a type of fancy [[banquet]] dish for [[nobility]]
+
+{{der-bottom}}
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-l|脇が甘い|わきがあまい|waki ga amai}}: “to have [[sweet]] armpits” → in [[sumo]], to be [[susceptible]] to [[underarm]] [[hold]]s and [[throw]]s
+* {{ja-l|脇からはそうもあるまいと見ゆるもの|わきからはそうもあるまいとみゆるもの|waki kara wa sō mo aru mai to miyuru mono}}: “from the sidelines, it might not look like it could be that way” → it's generally difficult for someone uninvolved in a serious matter to understand all the particulars
+* {{ja-l|脇を掻く|わきをかく|waki o kaku}}: “to scratch one's armpit” → to get [[worked up]], to get into a [[state]]
+* {{ja-l|脇を詰める|わきをつめる|waki o tsumeru}}: “to fill in the underarms” → to become an adult {{qualifier|from the way that children's clothes would have openings in the underarms and along other seams, to allow for alteration as the child grew}}
+* {{ja-l|脇を塞ぐ|わきをふさぐ|waki o fusagu}}: “to close off the underarms” → to become an adult {{qualifier|from the way that children's clothes would have openings in the underarms and along other seams, to allow for alteration as the child grew}}
+{{der-bottom}}
+
+=====Synonyms=====
+{{der-top|Synonyms}}
+* {{sense|armpit}} {{ja-l|脇の下|わきのした|waki no shita}}, {{ja-l|脇壺|わきつぼ|wakitsubo}}
+* {{sense|side}} {{ja-l|側面|そくめん|sokumen}}, {{ja-l|傍|そば|soba}}, {{ja-l|側|そば|soba}}, {{ja-l|横|よこ|yoko}}
+* {{sense|sumo}} {{ja-l|関脇|せきわけ|sekiwake}} {{qualifier|modern}}, {{ja-l|脇手|わきて|wakite}}
+* {{sense|Noh}} {{ja-l|脇師|わきし|wakishi}}
+* {{sense|Jōruri}} {{ja-l|脇語り|わきがたり|wakigatari}}, {{ja-l|脇太夫|わきたゆう|waki tayū}}
+* {{sense|accompaniment, depending on instrument}} {{ja-l|脇唄|わきうた|waki uta}}, {{ja-l|脇三味線|わきじゃみせん|wakijamisen}}, {{ja-l|脇太鼓|わきだいこ|wakidaiko}}, etc.
+* {{sense|lesser importance}} {{ja-l|二の次|にのつぎ|ni no tsugi}}, {{ja-l|後回し|あとまわし|atomawashi}}
+* {{sense|else}} {{ja-l|よそ||yoso}}, {{ja-l|ほか||hoka}}
+{{der-bottom}}
+
+===Etymology 2===
+Alteration from ''katahara'' ({{ja-l|片腹}}, “side of the belly, one's sides”), coming to mean the [[side]] of something.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|h|か|たわら}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{ja-accent-common|n|か|たわ|ら}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[ka̠ta̠ɰᵝa̠ɺ̠a̠]}}
+
+====Alternative forms====
+* {{ja-l|傍ら}} {{qualifier|most common}}, {{ja-l|傍}}, {{ja-l|側ら}}, {{ja-l|側}}, {{ja-l|旁}}
+
+====Adverb====
+{{ja-pos|adverb|かたわら|hhira=かたはら}}
+
+# {{alternative spelling of|lang=ja|sort=かたわら|傍ら|dot=:}} [[besides]]; [[while]]
+
+====Noun====
+{{ja-noun|かたわら|hhira=かたはら}}
+
+# {{alternative spelling of|lang=ja|sort=かたわら|傍ら|dot=:}} the [[side]] of something; a place [[nearby]]; a [[person]] nearby; the area [[alongside]] something; a [[remote]] partially [[built-up]] area along a major [[highway]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=협|eumhun=|rv=hyeop|mr=hyŏp|y=hyep}}
+
+# {{defn|lang=ko|sort=肉06}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters|肉6]]
+
+[[fr:脇]]
+[[lo:脇]]
+[[hu:脇]]
+[[ja:脇]]
+[[pl:脇]]
+[[pt:脇]]
+[[th:脇]]
+[[vi:脇]]
+[[zh:脇]]

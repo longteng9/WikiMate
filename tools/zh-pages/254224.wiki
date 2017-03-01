@@ -1,0 +1,65 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|Literary Chinese}}
+
+===Pronunciation===
+{{zh-pron
+|m=wényán
+|c=man4 jin4
+|h=pfs=vùn-ngièn
+|mn=qz,tw,xm:bûn-giân/zz:bûn-gân
+|w=3ven hhe
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[Literary Chinese]]; literary language used from the fall of the {{w|Han dynasty}} (220 {{C.E.}}) to the early 20th century.
+# [[Classical Chinese]]; literary language used in old China
+
+====Usage notes====
+Careful usage distinguishes between {{zh-l|文言}} (literary writing, used from the fall of the {{w|Han dynasty}} (220 {{C.E.}}) to the early 20th century) on the one hand, and {{m|zh|古文||Ancient Writing}} or, formally, {{m|zh|[[古典]][[漢語]]||[[Classical Chinese]]}} (Classical Chinese, used from the {{w|Zhou Dynasty}} (1045 {{B.C.E.}}) (especially the {{w|Spring and Autumn Period}}), through to the end of the {{w|Han Dynasty}} (220 {{C.E.}})) on the other. However, the terms are often conflated.
+
+====Derived terms====
+{{zh-der|文言文}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぶん|げん|yomi=on}}
+
+===Noun===
+{{ja-noun|ぶんげん}}<br>
+{{ja-noun|もんごん}}
+
+# wording (esp. of written text); classical Chinese literary style; traditional written Chinese
+# [[Classical Chinese]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=문언}}
+
+# {{hanja form of|문언|[[Classical Chinese]] wording}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|văn ngôn|[[Classical Chinese]] wording}}
+
+[[zh-min-nan:文言]]
+[[ko:文言]]
+[[hu:文言]]
+[[ja:文言]]
+[[zh:文言]]

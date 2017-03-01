@@ -1,0 +1,104 @@
+{{character info/new}}
+{{also|猫}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=153|rad=豸|as=08|sn=15|four=44260|canj=BHTW|ids=⿰豸苗}}
+
+====References====
+* {{Han ref|kx=1202.300|dkj=36595|dj=1664.050|hdz=63914.040|uh=8C93|ud=35987|bh=BFDF|bd=49119}}
+
+----
+
+==Chinese==
+{{zh-forms|s=猫}}
+[[Image:Cat03.jpg|thumb|{{l|zh|[[一]][[隻]]貓}}／{{l|zh|[[一]][[只]]猫}}]]
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|豸|苗|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+[[onomatopoetic|Onomatopoetic]]. Compare {{zh-l|喵|[[meow]], the [[onomatopoeic]] cry of a cat}}.
+
+===Pronunciation===
+{{zh-pron
+|m=māo,máo,er=y
+|m_note=máo - “to bend over”
+|m-s=mao1
+|c=maau1
+|c-t=miu2
+|h=pfs=meu
+|md=mà/mièu
+|md_note=mà - vernacular; mièu - literary
+|mn=bâ/niau
+|w=3mau,3miau
+|mc=y
+|oc=y
+|ma=Zh-mao.ogg
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[cat]] {{zh-mw|m,c:隻}}
+# {{lb|zh|dialectal}} to [[hide]] oneself
+# {{lb|zh|Mandarin|colloquial}} to [[bend over]]; to [[stoop]]
+
+===Compounds===
+{{zh-der|貓咪|貓頭鷹|熊貓|薛定諤的貓|夜貓子|三腳貓|偷貓遞狗|加菲貓|咬人貓|小貓熊|山貓|憋死貓|捉鼠拿貓|暹羅貓|木貓|照貓畫虎|狸貓|病貓|窮鼠齧貓|老鼠見貓|花貓巧嘴|藏貓兒|豹貓|貍貓|貓兒|貓兒洗臉|貓兒眼|貓兒臉|貓兒頭|貓兒食|貓哭老鼠|貓哭耗子|貓噬鸚鵡|貓尾紅|貓嶼|貓溺|貓熊|貓猴|貓眼石|貓耳朵|貓鼠同眠|貓鼻頭|躲貓貓|郎貓|醉貓兒|野貓|鐵貓|鐵貓兒|阿貓阿狗|靈貓|黃貓黑尾|黑貓}}
+
+{{zh-cat|Beginning|Mammals|Cats}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=豸08}}
+
+====Readings====
+* {{ja-readings|on=[[びょう]] (byō)|kun=[[ねこ]] (neko)}}
+
+===Noun===
+{{ja-noun|shin=猫|count=匹|ねこ|ネコ}}
+
+# [[cat]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=묘|eumhun=|mr=myo|y=myo}}
+
+# [[cat]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mèo]], [[miêu]]|rs=豸08}}
+
+# {{defn|lang=vi|sort=豸08}}
+
+[[zh-min-nan:貓]]
+[[fr:貓]]
+[[ga:貓]]
+[[ko:貓]]
+[[hi:貓]]
+[[ku:貓]]
+[[lo:貓]]
+[[lt:貓]]
+[[hu:貓]]
+[[mg:貓]]
+[[ms:貓]]
+[[fj:貓]]
+[[ja:貓]]
+[[pl:貓]]
+[[ro:貓]]
+[[th:貓]]
+[[chr:貓]]
+[[zh:貓]]

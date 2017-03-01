@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=04|sn=8|four=47922|canj=DNIN,XDNIN|ids=⿰木予}}
+
+====References====
+* {{Han ref|kx=0514.080|dkj=14513|dj=0901.120|hdz=21176.040|uh=677C|ud=26492|bh=AA56|bd=43606}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhù,shù
+|c=cyu5
+|mc=y
+|oc=y
+|ma=
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[shuttle]] of a [[loom]]
+# [[narrow]]
+# [[long]]-[[head]]ed
+# a [[scrub oak]]
+# [[thin]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木04}}
+
+# {{defn|lang=ja|sort=木04}}
+
+====Readings====
+* {{ja-readings|on=[[ちょ]] (cho), [[しょ]] (sho)|kun=[[ひ]] (hi), [[どんぐり]] (donguri)}}
+
+===Noun===
+{{ja-noun|ひ}}
+
+# {{alternative form of|梭|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=저|eumhun=|rv=jeo|mr=chŏ|y=ce}}
+
+# {{defn|lang=ko|sort=木04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木04|hanviet=trữ}}
+
+# {{defn|lang=vi|sort=木04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=677c Nom Foundation]
+
+[[fr:杼]]
+[[hu:杼]]
+[[mg:杼]]
+[[ja:杼]]
+[[pl:杼]]
+[[th:杼]]
+[[zh:杼]]

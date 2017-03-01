@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|阕}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=169|rad=門|as=09|sn=17|four=77431|canj=ANNOK}}
+
+# [[cease]], [[end]], [[exhaust]], [[stop]]
+# [[word]], [[turn]], [[gap]]
+
+====References====
+* {{Han ref|kx=1339.010|dkj=41430|dj=1844.050|hdz=74311.020|uh=95CB|ud=38347|bh=C1F0|bd=49648}}
+
+----
+
+==Chinese==
+{{zh-forms|s=阕}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=què
+|c=kyut3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=門09}}
+
+# {{defn|lang=ja|sort=門09}}
+
+====Readings====
+* {{ja-readings|on=[[けつ]] (ketsu), [[けち]] (kechi), [[けい]] (kei), [[け]] (ke)|kun=[[とじる]] (tojiru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=결|eumhun=|rv=gyeol|mr=kyŏl|y=kyel}}
+
+# {{defn|lang=ko|sort=門09}}
+
+[[fr:闋]]
+[[ko:闋]]
+[[hu:闋]]
+[[pl:闋]]
+[[th:闋]]
+[[zh:闋]]

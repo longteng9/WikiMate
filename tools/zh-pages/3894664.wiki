@@ -1,0 +1,74 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tèsè
+|ma=y
+|c=dak6 sik1
+|h=pfs=ti̍t-set
+|mn=qz:tia̍k-siak/tw,xm,zz:te̍k-sek
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[something]] [[special]]; [[characteristic]]; [[distinguishing]] [[quality]]
+
+====See also====
+* {{zh-l|風格}}
+* {{zh-l|色彩}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|とく|しょく|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|とくしょく|y=o|acc=0|dev=2|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とくしょく}}
+
+# special [[characteristic]], distinguishing [[feature]]
+
+====Synonyms====
+* {{ja-r|特徴|とくちょう}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=특색}}
+
+# {{hanja form of|특색|{{rfdef|ko}}}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu|pos=noun}}
+
+# {{han tu form of|đặc sắc|distinctive, outstanding, characteristic}}
+
+[[zh-min-nan:特色]]
+[[fr:特色]]
+[[ko:特色]]
+[[lt:特色]]
+[[hu:特色]]
+[[mg:特色]]
+[[ja:特色]]
+[[pl:特色]]
+[[ru:特色]]
+[[uk:特色]]
+[[zh:特色]]

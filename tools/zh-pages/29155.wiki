@@ -1,0 +1,51 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=164|rad=酉|as=10|sn=17|four=14614|canj=MWTOG|ids=⿰酉荃}}
+
+# [[aldehyde]]
+
+====References====
+* {{Han ref|kx=1286.050|dkj=39965|dj=1786.080|hdz=63589.030|uh=919B|ud=37275|bh=EEC7|bd=61127}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|酉|荃|t1=oxygenated functional group|t2=fragrant plant|ls=ic}}, referring to the fragrance of many aldehydes. {{zh-m|荃}} also acts as a phonetic component.
+
+===Etymology===
+From {{zh-m|荃|fragrant plant}}, referring to the fragrance of many aldehydes.
+
+===Pronunciation===
+{{zh-pron
+|m=quán
+|c=cyun4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[aldehyde]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thuyên]]|rs=酉10}}
+
+# {{defn|lang=vi|sort=酉10}}
+
+[[fr:醛]]
+[[hu:醛]]
+[[mg:醛]]
+[[pl:醛]]
+[[th:醛]]
+[[vi:醛]]
+[[zh:醛]]

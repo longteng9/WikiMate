@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|なん|さい|yomi=o}}
+
+===Alternative forms===
+* {{l|ja|何才}} {{qualifier|informal}}
+
+===Etymology===
+{{compound|何|tr1=なん, nan|t1=what|歳|tr2=さい, sai|t2=age|lang=ja|sort=なんさい}}
+
+===Noun===
+{{ja-noun|なんさい}}
+
+# What age, how old
+#* '''何歳'''[[です]]か？
+#*: '''なんさい'''[[です]]か？
+#*: '''''Nansai''' [[desu]] ka?
+#*: '''What age''' [[are]] you?
+
+====Synonyms====
+* {{l|ja|お幾つ}} {{qualifier|polite}}

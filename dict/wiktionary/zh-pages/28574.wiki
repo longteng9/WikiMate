@@ -1,0 +1,109 @@
+{{character info/new}}
+{{also|辢}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=160|rad=辛|as=07|sn=14|four=05496|canj=YJDL|ids=⿰辛束}}
+
+====References====
+* {{Han ref|kx=1251.120|dkj=38646|dj=1731.040|hdz=64040.010|uh=8FA3|ud=36771|bh=BBB6|bd=48054}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|辛|束|ls=psc|c1=s|c2=p|no_och2=1}}. The latter is an abbreviation of {{och-l|剌}}.
+
+===Etymology===
+Possibly cognate with {{och-l|厲}}, {{och-l|烈}}.
+
+===Pronunciation===
+{{zh-pron
+|m=là
+|m-s=na2
+|c=laat6,lat6
+|h=
+|mn=loa̍h
+|w=5laq
+|mc=
+|oc=y
+|ma=y
+|cat=a,w:v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[spicy]]; [[hot]]; [[peppery]]; [[pungent]]; [[hot]]
+# [[cruel]]; [[vicious]]
+#: {{zh-x|毒辣|sinister}}
+# {{lb|zh|Shanghai}} to [[be]]; to be located at
+
+====Synonyms====
+*{{sense|at}}
+{{zh-dial|在}}
+
+===Compounds===
+{{zh-der|吃香喝辣|心狠手辣|吃辣麵|哈辣|大辣酥|光辣撻|甜酸苦辣|滑辣|潑辣|毒辣|火焦火辣|火辣|托辣斯|甜辣醬|放屁辣臊|撲辣|火辣辣|甜不辣|熱辣辣|潑辣貨|清光滑辣|麻辣火鍋|辣菜|辣豁豁|酸甜苦辣|辣瓣兒醬|辣貨|麻辣|虎辣八|辣手摧花|黃湯辣水|鳳辣子|辣椒醬|辣椒|觀賞辣椒|辣燥|辣妹|辣拐子|薑桂老辣|辣實|辣絲絲|酸辣湯|辣酥酥|老辣|辣醬|辣手|辣子|辣味|辣乎乎|辛辣|蹼辣|辣浪|辣氣|辣菜根子}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=辛07}}
+
+# {{defn|lang=ja|sort=辛07}}
+
+====Readings====
+{{ja-readings|goon=[[らち]] (rachi)|kanon=[[らつ]] (ratsu)|kun=[[からい]] (karai), [[きびしい]] (kibishii), [[むごい]] (mugoi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|悪辣|あくらつ}}
+* {{ja-r|苛辣|からつ}}
+* {{ja-r|辛辣|しんらつ}}
+* {{ja-r|酸辣湯|サンラータン}}: [[hot and sour soup]]
+* {{ja-r|辣醤|ラージャン}}
+* {{ja-r|辣白菜|ラーバイサイ}}
+* {{ja-r|辣油|ラーユ}}: [[chili oil]]
+* {{ja-r|辣韮|らっきょう}}, {{ja-r|辣韭|らっきょう}}
+* {{ja-r|辣腕|らつわん}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[랄]]>[[날]]|eumhun=매울}}
+
+# {{defn|lang=ko|sort=辛07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lượt]], [[lát]], [[lạt]], [[lướt]], [[nhạt]], [[nhợt]]|rs=辛07}}
+
+# {{defn|lang=vi|sort=辛07}}
+
+[[zh-min-nan:辣]]
+[[fr:辣]]
+[[ko:辣]]
+[[hu:辣]]
+[[mg:辣]]
+[[ja:辣]]
+[[no:辣]]
+[[pl:辣]]
+[[th:辣]]
+[[chr:辣]]
+[[uk:辣]]
+[[vi:辣]]
+[[zh:辣]]

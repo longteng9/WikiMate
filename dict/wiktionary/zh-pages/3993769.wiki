@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=hūnshuì
+|c=fan1 seoi6
+|mn=hun-sūi
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[lethargic]] [[sleep]]; [[lethargy]]
+# [[coma]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|こん|すい|yomi=on}}
+
+===Noun===
+{{ja-noun|こんすい}}
+
+# a [[stupor]], a deep sleep
+#* '''1949''', 永井隆, 長崎の鐘:
+#*: {{ja-usex|私は二度言い遺し、そのまま最後の'''昏睡'''に落ちていった。|わたし は にど い.いのこし、 その まま さいご の '''こんすい''' に おちて いった。|I repeated my final words twice and fell into my final sleep.}}
+# [[coma]]
+
+===Verb===
+{{ja-verb-suru|こんすい|tr=intrans}}
+
+# go into a deep sleep
+
+====Conjugation====
+{{ja-suru|こんすい}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=혼수}}
+
+# {{hanja form of|혼수|[[coma]]}}
+
+[[ko:昏睡]]
+[[hu:昏睡]]
+[[zh:昏睡]]

@@ -1,0 +1,61 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=173|rad=雨|as=10|sn=18|four=10806|canj=MBRBC}}
+
+# [[fall]]
+
+====References====
+* {{Han ref|kx=1377.170|dkj=42393|dj=1886.160|hdz=64072.130|uh=9723|ud=38691|bh=F176|bd=61814}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǔn
+|c=wan5
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=雨10}}
+
+# {{defn|lang=ja|sort=雨10}}
+
+====Readings====
+* {{ja-readings|on=[[いん]] (in), [[こん]] (kon), [[うん]] (un)|kun=[[あめ]] (ame)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=운|eumhun=|rv=un|mr=un|y=wun}}
+
+# {{defn|lang=ko|sort=雨10}}
+
+[[fr:霣]]
+[[li:霣]]
+[[hu:霣]]
+[[mg:霣]]
+[[pl:霣]]
+[[th:霣]]
+[[zh:霣]]

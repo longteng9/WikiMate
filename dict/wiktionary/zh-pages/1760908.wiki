@@ -1,0 +1,139 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gǒu pí gāo
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# A black plaster used in [[traditional Chinese medicine]] "to dispel wind-cold, soothe the tendons, promote blood circulation and relieve pain in the treatment of rheumatic or rheumatoid arthritis with pain in the shoulders, arms, back and legs and numbness of the limbs and traumatic injuries".
+
+Goupi plaster has the following ingredients:
+
+{| class="wikitable sortable"
+|-
+!Name
+!Chinese ([[Simplified Chinese|S]])
+!Grams
+|-
+| {{l|la|radix|Radix}} [[Aconitum|Aconitii]]
+|生川乌
+|80
+|-
+| {{l|la|radix|Radix}} [[Aconitum|Aconiti]] {{l|la|preparatus|Preparata}}
+|制川乌
+| 40
+|-
+|Rhizoma et Radix Notopterygii
+|羌活
+| 20
+|-
+|Radix Angelicae Pubescentis
+|独活
+| 20
+|-
+|Caulis Sinomenii
+|青风藤
+| 30
+|-
+|Cortex Periplocae
+|香加皮
+| 30
+|-
+|Radix Saposhnikoviae
+|防风
+| 30
+|-
+|Radix Smilacis
+|土茯苓
+| 30
+|-
+|Rhizoma Atractylodis
+|苍术
+| 20
+|-
+|Fructus Cnidii
+|蛇床子
+| 20
+|-
+|Herba Ephedrae
+|麻黄
+| 30
+|-
+|Rhizoma Alpiniae Officinarum
+|高良姜
+| 9
+|-
+|Fructus Foeniculi
+|小茴香
+| 20
+|-
+|Cortex Ramuli Cinnamomi
+|桂枝
+| 10
+|-
+| {{l|la|radix|Radix}} [[Angelica sinensis|Angelicae Sinensis]]
+|当归
+| 20
+|-
+|Radix Paeoniae Rubra
+|赤芍
+| 30
+|-
+|Fructus Chaenomelis
+|木瓜
+| 30
+|-
+|Lignum Sappan
+|苏木
+| 30
+|-
+|Radix et Rhizoma Rhei
+|大黄
+| 30
+|-
+| {{l|la|radix|Radix}} {{l|mul|Dipsacus|Dipsaci}}
+|续断
+| 40
+|-
+|Rhizoma Chuanxiong
+|川芎
+| 30
+|-
+| {{l|la|radix|Radix}} {{l|mul|Angelica dahurica|Angelicae Dahuricae}}
+|白芷
+| 30
+|-
+| {{l|la|olibanum|Olibanum}}
+|乳香
+| 30
+|-
+| Myrrha (''[[Commiphora myrrha]]'')
+|没药
+| 34
+|-
+|Borneolum Syntheticum
+|冰片
+| 17
+|-
+|Camphora
+|樟脑
+| 34
+|-
+|Flos Caryophylli
+|丁香
+| 17
+|-
+| {{l|la|cortex|Cortex}} {{l|mul|Cinnamomum|Cinnamomi}}
+|桂皮
+| 11
+|}
+
+====References====
+* State Pharmacopoeia Commission of the PRC (2005). "Pharmacopoeia of The People's Republic of China (Volume I)". Chemical Industry Press. ISBN 7117069821.
+
+[[zh:狗皮膏]]

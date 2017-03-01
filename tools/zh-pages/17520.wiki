@@ -1,0 +1,63 @@
+{{character info/new}}
+{{also|刊}}
+
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=06|sn=10|four=|canj=MJD|ids=⿱幵木}}
+
+# [[publication]], [[periodical]]
+# [[publish]]
+
+====References====
+* {{Han ref|kx=0522.210|dkj=14708|dj=0910.220|hdz=21193.020|uh=681E|ud=26654}}
+
+----
+
+==Chinese==
+{{zh-see|刊|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木06}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[しおり]] (shiori)}}
+
+===Etymology===
+{{ja-kanjitab|しおり|yomi=k}}
+{{rfe|ja}}
+
+====Noun====
+{{ja-noun|しおり}}
+
+# [[bookmark]]
+
+=====Alternative forms=====
+* {{l|ja|枝折}}
+
+====Proper noun====
+{{ja-pos|proper|しおり}}
+
+# {{given name|female|lang=ja|sort=しおり}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=간|eumhun=|rv=gan|mr=kan|y=kan}}
+
+# {{defn|lang=ko|sort=木06}}
+
+[[fr:栞]]
+[[hr:栞]]
+[[li:栞]]
+[[mg:栞]]
+[[ja:栞]]
+[[pl:栞]]
+[[th:栞]]
+[[zh:栞]]

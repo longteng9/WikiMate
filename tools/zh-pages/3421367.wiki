@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chūbīng
+|c=ceot1 bing1
+|h=pfs=chhut-pîn
+|mn=chhut-peng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[dispatch]] [[troops]]; to [[send]] [[troops]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅつ|へい|k1=しゅっ|k2=ぺい|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|しゅっぺい|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|しゅっぺい}}
+
+# the dispatching of troops
+
+====Antonyms====
+* {{ja-r|撤兵|てっぺい}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|しゅっぺい}}
+
+# for [[troops]] to [[dispatch]]
+
+====Conjugation====
+{{ja-suru|しゅっぺい}}
+
+===References===
+<references/>
+
+[[zh:出兵]]

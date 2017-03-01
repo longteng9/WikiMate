@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|钐}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=03|sn=11|four=82122|canj=CHHH}}
+
+# [[samarium]]
+
+====References====
+* {{Han ref|kx=1296.140|dkj=40173|dj=1800.010|hdz=64172.050|uh=91E4|ud=37348|bh=D7FC|bd=55292}}
+
+----
+
+==Chinese==
+{{zh-forms|s=钐}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shān,shàn
+|c=saam1,saam3,sin3
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金03}}
+
+# {{defn|lang=ja|sort=金03}}
+
+====Readings====
+* {{ja-readings|on=[[さん]] (san), [[せん]] (sen)|kun=[[おおがま]] (oogama)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=삼|eumhun=|rv=sam|mr=sam|y=sam}}
+
+# {{defn|lang=ko|sort=金03}}
+
+[[fr:釤]]
+[[ko:釤]]
+[[lt:釤]]
+[[hu:釤]]
+[[mg:釤]]
+[[pl:釤]]
+[[ro:釤]]
+[[th:釤]]
+[[zh:釤]]

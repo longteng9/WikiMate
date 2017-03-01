@@ -1,0 +1,126 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=13|sn=17|four=40916|canj=DYWM|ids=⿰木亶}}
+
+# [[sandalwood]], [[hardwood]]
+# used as a [[surname]]
+
+====References====
+* {{Han ref|kx=0555.390|dkj=15632|dj=0945.220|hdz=21305.010|uh=6A80|ud=27264|bh=C0C8|bd=49352}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|亶|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=tán
+|c=taan4
+|mn=qz,xm,zz:tân/tôaⁿ
+|mn_note=tân - literary; tôaⁿ - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|伐檀|印度黃檀|旃檀|栴檀|檀信|檀口|檀弓|檀施|檀暈妝|檀木靴|檀板|檀林|檀槽|檀欒|檀粉|檀越|檀車|檀那|檀郎|檀郎謝女|檀香|檀香山|檀香扇|毚檀|白檀|紫檀|邏逤檀|阿檀|馬躍檀溪|黑檀木}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木13}}
+
+# {{defn|lang=ja|sort=木13}}
+
+====Readings====
+{{ja-readings|goon=[[だん]] (dan)|kanon=[[たん]] (tan)|kun=[[まゆみ]] (mayumi)}}
+
+====Compounds====
+* {{ja-r|白檀|びゃくだん}}: [[Indian sandalwood]] ({{taxlink|Santalum album|species|noshow=1}})
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|まゆみ|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|まゆみ|acc=0|acc_ref=DJR,NHK|acc2=1|acc2_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{ja-l|真弓}}, {{ja-l|檀弓}}
+
+===Noun===
+{{ja-noun|まゆみ|マユミ}}
+
+# {{taxlink|Euonymus hamiltonianus|species|noshow=1}}
+# a [[bow]] made from the [[wood]] of {{taxlink|Euonymus hamiltonianus|species|noshow=1}}
+
+===Proper noun===
+{{ja-pos|proper|だん}}
+
+# {{surname|lang=ja|sort=たん'}}
+
+===References===
+<references/>
+
+[[Category:ja:Trees|まゆみ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=단|eumhun=|rv=dan|mr=tan|y=tan}}
+
+# ([[박달나무]]): [[birch]]
+# ([[단향목]]): [[sandalwood]]
+
+====Synonyms====
+# {{sense|birch}} [[橽]], [[樺]]
+# {{sense|sandalwood}} [[栴]], [[楝]], [[栲]], [[栝]]
+
+====Compounds====
+{{top2}}
+* [[檀君]] ([[단군]], ''dangun'') [[w:Dangun|Dangun]]
+* [[檀紀]] ([[단기]], ''dangi'') [[w:Dangun|Dangun]] era
+* [[檀木]] ([[단목]], ''danmog'') [[birch]]
+* [[檀香]] ([[단향]], ''danhyang'') [[sandalwood]]
+* [[檀香木]] ([[단향목]], ''danhyangmog'') [[sandalwood]]
+{{mid2}}
+* [[白檀]] ([[백단]], ''baegdan'') {{vern|white sandalwood}}
+* [[栴檀]] ([[전단]], ''jeondan'') [[sandalwood]]
+* [[紫檀]] ([[자단]], ''jadan'') [[rosewood]]
+* [[黑檀]] ([[흑단]], ''heugdan'') [[ebony]]
+{{bottom}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đàn]], [[trầm]]|rs=木13}}
+
+# {{defn|lang=vi|sort=木13}}
+
+[[fr:檀]]
+[[ko:檀]]
+[[hu:檀]]
+[[mg:檀]]
+[[ja:檀]]
+[[no:檀]]
+[[pl:檀]]
+[[th:檀]]
+[[zh:檀]]

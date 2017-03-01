@@ -1,0 +1,34 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=guāzòu
+|c=gwaat3 zau3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|music}} a [[glissando]]
+
+====Synonyms====
+* {{zh-l|滑奏}}
+* {{zh-l|滑奏部}}
+
+===References===
+* {{cite-web
+|url=http://www.kuke.com/static/lib_jy/lib_term_g.jsp
+|title=glissando
+|work=Basic music terminology
+|language=Mandarin/English
+|accessdate=2008-04-21}}
+* {{cite-web
+|url=http://v.youku.com/v_show/id_co00XOTc5MDQ2OA==.html
+|title=Video: basic guzheng playing techniques practice - glissando
+|work=Youku.com
+|language=Mandarin
+|accessdate=2008-04-21}}
+
+[[Category:zh:Music|gua1zou4]]

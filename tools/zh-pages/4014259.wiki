@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|天|津|麻|羅}}
+
+===Etymology===
+Phrase consisting of {{compound|lang=ja|sort=あまつまら|天|tr1=ama|t1=heaven|つ|tr2=tsu|pos2={{etyl|ojp|ja|sort=あまつまら}} possessive particle|まら|tr3=mara}}. The {{ja-l|津}} is [[ateji]]. The ''mara'' portion is of unknown origin, but theories include:
+* Alteration from {{ja-l|目}}{{ja-l|占}} (''meura'', “eye divination”), suggesting {{m|en|one-eyed}}, from how a [[smith]] will [[visually]] check the [[temperature]] of the working [[metal]] by looking at it with one eye, or possibly from the way that many smiths lose an eye in the course of their work.
+* From a {{etyl|mn|-}} word ''mara'' meaning {{m|en|iron}}.
+* From {{etyl|sa|-}}-derived Buddhist term {{m|ja|摩羅|tr=mara||penis}}, by metaphor for a smith's [[hammer]].
+The second theory is problematic, as there does not appear to be any {{etyl|mn|-}} term with a pronunciation similar to ''mara'' that means {{m|en|iron}}, or even {{m|en|steel}} or {{m|en|metal}} or {{m|en|smith}}. The third theory is problematic as the Buddhist term came into Japanese later than the formative period for myths naming Amatsumara. Thus, if the first theory is accepted as the most likely, Amatsumara is likely the same god as {{m|ja|天目一個|tr=Amanomahitotsu|lit=heaven's one-eyed}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[a̠ma̠t͡sɯᵝma̠ɺ̠a̠]}}
+
+===Proper noun===
+{{ja-pos|proper|あまつまら|アマツマラ}}
+
+# {{lb|ja|sort=あまつまら|mythology|Shinto}} Amatsumara, the [[Japanese]] [[god]] of the [[forge]], [[metalcraft]], and [[blacksmith]]ing
+
+====Synonyms====
+* {{ja-l|天目一箇|あまのまひとつ|Amanomahitotsu}}
+* {{ja-l|鍛冶神|かじしん|Kajishin}}
+<!-- NOTE: Amanomahitotsu is an alternate name for Amatsumara. Kajishin just means "forge god", and is basically Amatsumara's title. These three terms all mean the same single god. -->
+
+====See also====
+* {{pedia|lang=ja}}
+
+[[Category:ja:Religion|sort=あまつまら]]

@@ -1,0 +1,58 @@
+{{also|渗透}}
+==Chinese==
+{{zh-forms|s=渗透}}
+
+===Pronunciation===
+{{zh-pron
+|m=shèntòu
+|c=sam3 tau3
+|mn=qz:sìm-thiò/xm:sìm-thàu/tw,zz:siàm-thàu
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[seep]]; to [[seep]] through; to [[permeate]]; to [[penetrate]]
+# {{lb|zh|physiology}} to [[osmose]]
+# {{lb|zh|figurative|politics}} to [[infiltrate]]
+
+===Noun===
+{{zh-noun}}
+
+# [[permeation]]; [[penetration]]
+# {{lb|zh|physiology}} [[osmosis]]
+# {{lb|zh|figurative|politics}} [[infiltration]]
+
+===Derived terms===
+{{zh-der|滲透作用|滲透壓|偽裝滲透|反滲透|海上滲透}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|とう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|しんとう|y=o}}
+
+===Noun===
+{{ja-noun|しんとう}}
+
+# [[penetration]]
+# [[permeation]]
+
+===Verb===
+{{ja-verb-suru|しんとう}}
+
+#to [[penetrate]]; to [[permeate]]
+
+====Conjugation====
+{{ja-suru|しんとう}}
+
+[[ko:滲透]]
+[[hu:滲透]]
+[[mg:滲透]]
+[[ja:滲透]]
+[[tl:滲透]]

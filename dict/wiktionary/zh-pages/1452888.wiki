@@ -1,0 +1,46 @@
+{{also|电力}}
+==Chinese==
+{{zh-forms|s=电力}}
+
+===Pronunciation===
+{{zh-pron
+|m=diànlì
+|c=din6 lik6
+|mn=tiān-le̍k
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[electric]] [[power]]; [[electricity]]
+
+===Derived terms===
+{{zh-der|電力網|電力線}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|でん|りょく|yomi=o}}
+
+===Etymology===
+From {{compound|ja|電|力|tr1=den|tr2=ryoku|t1=electric|t2=power}}.
+
+===Noun===
+{{ja-noun|でんりょく}}
+
+# [[electricity]]
+#: {{ja-usex|'''電力'''がない状態で生活する。|'''でんりょく''' が ない じょうたい で せいかつ する。|To live without '''electricity'''.}}
+
+[[zh-min-nan:電力]]
+[[ko:電力]]
+[[lo:電力]]
+[[hu:電力]]
+[[mg:電力]]
+[[ja:電力]]
+[[pt:電力]]
+[[chr:電力]]
+[[uk:電力]]
+[[zh:電力]]

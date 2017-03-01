@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=170|rad=阜|as=05|sn=8|four=73211|canj=NLJP|ids=⿰[[阜|⻖]][[它]]}}
+
+====References====
+* {{Han ref|kx=1348.070|dkj=41600|dj=1850.030|hdz=64123.090|uh=9640|ud=38464|bh=AAFB|bd=43771}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tuó,duò
+|c=to4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[steep]] [[bank]], [[rough]] [[terrain]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=阜05}}
+
+# {{defn|lang=ja|sort=阜05}}
+
+====Readings====
+* {{ja-readings|goon=[[だ]] (da)|kanon=[[た]] (ta)|kun=[[けわしい]] (kewashii)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=타|eumhun=|rv=ta|mr=t'a|y=tha}}
+
+# {{defn|lang=ko|sort=阜05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=阜05|hanviet=đà}}
+
+# {{defn|lang=vi|sort=阜05}}
+
+[[fr:陀]]
+[[mg:陀]]
+[[ja:陀]]
+[[pl:陀]]
+[[th:陀]]
+[[zh:陀]]

@@ -1,0 +1,35 @@
+{{also|笔顺}}
+==Chinese==
+{{zh-forms|s=笔顺}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǐshùn
+|c=bat1 seon6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# the [[stroke order]] in which [[Chinese character|Chinese characters]] are written
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひつ|じゅん|yomi=on}}
+
+===Etymology===
+From {{m|ja|筆|sc=Jpan|tr=hitsu||brush, writing}} + {{m|ja|順|sc=Jpan|tr=jun||order}}
+
+===Noun===
+{{ja-noun|ひつじゅん}}
+
+# [[stroke]] [[order]], stroke order in writing [[Chinese character]]s
+
+====See also====
+* {{ja-r|書順|かきじゅん}}, {{ja-r|書き順|かきじゅん}}
+
+[[ko:筆順]]
+[[ja:筆順]]
+[[zh:筆順]]

@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|骓}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=08|sn=18|four=70314|canj=SFOG|ids=⿰馬隹}}
+
+# piebald horse
+
+====References====
+* {{Han ref|kx=1440.080|dkj=44788|dj=1964.070|hdz=74562.060|uh=9A05|ud=39429|bh=F1B6|bd=61878}}
+
+----
+
+==Chinese==
+{{zh-forms|s=骓}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhuī
+|c=zeoi1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬08}}
+
+# {{defn|lang=ja|sort=馬08}}
+
+====Readings====
+* {{ja-readings|on=[[すい]] (sui)|kun=[[あしげ]] (ashige)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=추|eumhun=|rv=chu|mr=ch'u|y=chwu}}
+
+# {{defn|lang=ko|sort=馬08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''騅''' ([[choai]], [[chuy]])
+
+# {{defn|vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:騅]]
+[[hu:騅]]
+[[ja:騅]]
+[[pl:騅]]
+[[th:騅]]
+[[zh:騅]]

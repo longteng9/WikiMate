@@ -1,0 +1,62 @@
+{{also|协议}}
+==Chinese==
+{{zh-forms|s=协议}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiéyì
+|c=hip3 ji5
+|mn=hia̍p-gī
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[agree]] on
+
+===Noun===
+{{zh-noun}}
+
+# [[agreement]]; [[accord]]; [[bargain]]; [[settlement]]
+#: {{zh-x|本 協議 自 雙方 簽署 之 日 起 生效。|This '''agreement''' shall come into effect upon the date of signing of both parties.}}
+
+===Derived terms===
+{{zh-der|婚前協議|文件傳輸協議|協議書}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きょう|ぎ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|きょうぎ|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|きょうぎ|hhira=けふぎ}}
+
+# [[consultation]], [[conference]], [[deliberation]], [[discussion]], [[negotiation]]
+
+===Verb===
+{{ja-verb-suru|きょうぎ|hhira=けふぎ}}
+
+# to [[confer]], to [[discuss]]
+
+====Conjugation====
+{{ja-suru|きょうぎ}}
+
+===References===
+<references/>
+
+[[zh-min-nan:協議]]
+[[ko:協議]]
+[[hu:協議]]
+[[mg:協議]]
+[[ja:協議]]
+[[chr:協議]]
+[[zh:協議]]

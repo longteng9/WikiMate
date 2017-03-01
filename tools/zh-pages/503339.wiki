@@ -1,0 +1,165 @@
+==Japanese==
+{{wikipedia|lang=ja|モグラ}}
+{{wikipedia|Mole (animal)}}
+[[Image:Close-up of mole.jpg|thumb|250px|{{PAGENAME}} (''mogura'', ''moguramochi'', ''mugura'', ''muguramochi'', ''uguramochi'', ''uguromochi'', ''ugoromochi'', ''doryū''): a '''[[mole]]'''.]]
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|sort=もぐら}}
+A surface analysis suggests a derivation from the verb {{m|ja|潜る|tr=moguru||to go underneath or into something, such as water or the ground}}.
+
+However, the modern ''mogura'' reading appears to be relatively recent. The older form of this noun was variously ''ugoromochi'', ''uguromochi'', or ''uguramochi'', deriving from now-obsolete verb {{m|ja|墳つ|tr=ugumotsu</i>, <i>uguromotsu</i>, <i>ugomotsu</i>, <i>ugoromotsu||to become a pile or small hill, as of soil}}. This verb itself appears to be a compound deriving from obsolete {{m|ja|穿ぐ|tr=ugu||to dig a hole|pos=a {{m|ja|下二段|tr=shimo nidan}} or “lower bigrade” conjugation verb}} + {{m|ja|持つ|tr=motsu||to have in hand; to carry, to bring}}, with an underlying idea of “that which digs and brings up the dirt [to form a molehill]”. The verb ''ugu'' had a {{m|ja|連体形|tr=rentaikei||attributive form}} of ''uguru'', attaching only to nouns, suggesting that the original parsing of this might have been “digging bringer”.
+
+The shift in sound from ''uguru'' to the variants ''uguro'' and ''ugoro'' may be a reflection of the morpheme ''-ro'' that appears in numerous words indicating a hollow interior. Compare {{m|ja|空ろ|tr=utsuro||a hollow, an emptiness}}, {{m|ja|室|tr=muro||a room; an excavated dwelling on the side of a mountain}}, {{m|ja|袋|tr=fukuro||a bag}}, possibly even {{m|ja|所|tr=tokoro||a place}}. The ''ugoromochi'' reading appears in the {{m|ja|本草和名|tr=Honzō Wamyō}}, a [[pharmacopoeia]] compiled some time in the years 901-923.
+
+The ''uguramochi'' variant was either dialectal, or a later development.
+
+With the beginning of the [[w:Edo period|Edo period]] and the shift in the political and cultural center to Edo, ''uguramochi'' was superseded by the eastern dialectal form ''muguramochi''. The 1603 {{m|ja|日葡辞書|tr=Nippo Jisho||Japanese-Portuguese Dictionary}} lists one variant as ''mugura'', indicating that the ''mochi'' portion could be dropped. This ''mugura'' then became ''mogura'', possibly influenced by the verb {{m|ja|潜る|tr=moguru}}.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|もぐら|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{l|ja|モグラ}}
+* {{l|ja|鼹鼠}}
+* {{l|ja|鼴}}
+
+====Noun====
+{{ja-noun|もぐら|モグラ|kyu=土龍}}
+
+# {{lb|ja|sort=もぐら|animal}}: a [[mole]]
+
+=====Usage notes=====
+Given the irregularity of the kanji reading, the {{ja-l|もぐら}} spelling may be more common for this word in general use.
+
+{{U:ja:biology|モグラ}}
+
+====Synonyms====
+* {{ja-r|田鼠|でんそ}}
+
+====Derived terms====
+* {{ja-r|針土竜|はりもぐら}}: [[echidna]]
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|sort=もぐらもち}}
+Likely a shift in pronunciation from earlier eastern dialectal form ''muguramochi'', possibly influenced by the verb {{m|ja|潜る|tr=moguru}}.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|もぐらもち|acc=3|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|鼹鼠}}
+
+====Noun====
+{{ja-noun|もぐらもち}}
+
+# {{lb|ja|sort=もぐらもち|animal}}: a [[mole]]
+
+=====Usage notes=====
+The {{ja-l|もぐら}} reading further above is more common for this word.
+
+===Etymology 3===
+{{ja-kanjitab|yomi=irr|sort=むぐら}}
+Shortening of earlier eastern dialectal form ''muguramochi''.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|むぐら}}
+
+====Alternative forms====
+* {{ja-l|鼹鼠}}
+
+====Noun====
+{{ja-noun|むぐら}}
+
+# {{lb|ja|sort=むぐら|animal|rare|possibly|_|obsolete}}: a [[mole]]
+
+=====Usage notes=====
+The {{ja-l|もぐら}} reading further above is more common for this word.
+
+===Etymology 4===
+{{ja-kanjitab|yomi=irr|sort=むぐらもち}}
+Eastern dialectal form of earlier ''uguramochi'' reading. Appears in the {{m|ja|日葡辞書|tr=Nippo Jisho||Japanese-Portuguese Dictionary}} published in 1603.<ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=irr|むぐらもち}}
+
+====Alternative forms====
+* {{ja-l|鼹鼠}}
+
+====Noun====
+{{ja-noun|むぐらもち}}
+
+# {{lb|ja|sort=むぐらもち|animal|rare|possibly|_|obsolete}}: a [[mole]]
+
+===Etymology 5===
+{{ja-kanjitab|yomi=irr|sort=うぐらもち}}
+Older western Japanese dialectal reading. Also appears with this reading in the {{m|ja|日葡辞書|tr=Nippo Jisho||Japanese-Portuguese Dictionary}} published in 1603.<ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=irr|うぐらもち}}
+
+====Noun====
+{{ja-noun|うぐらもち}}
+
+# {{lb|ja|sort=うぐらもち|animal|rare|possibly|_|obsolete}}: a [[mole]]
+
+===Etymology 6===
+{{ja-kanjitab|yomi=irr|sort=うぐろもち}}
+Variant of older western Japanese dialectal reading. Appears with this reading in the [[w:Gyokuyō Wakashū|{{lang|ja|玉葉和歌集}}]] (''Gyokuyō Wakashū'', “Collection of Jeweled Leaves”) poetry compilation, completed in 1313-1314.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=irr|うぐろもち}}
+
+====Alternative forms====
+* {{ja-l|墳}}
+* {{ja-l|鼹鼠}}
+
+====Noun====
+{{ja-noun|うぐろもち}}
+
+# {{lb|ja|sort=うぐろもち|animal|rare|possibly|_|obsolete}}: a [[mole]]
+
+===Etymology 7===
+{{ja-kanjitab|yomi=irr|sort=うごろもち}}
+May be the oldest form. Appears with this reading in the {{m|ja|本草和名|tr=Honzō Wamyō}}, a [[pharmacopoeia]] compiled some time in the years 901-923.<ref name="DJR">{{R:Daijirin}}</ref>
+
+Derived as the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|墳つ|tr=ugumotsu</i>, <i>uguromotsu</i>, <i>ugomotsu</i>, <i>ugoromotsu||to become a pile or small hill, as of soil}}. See above for further details.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|うごろもち}}
+
+====Alternative forms====
+* {{ja-l|鼹鼠}}
+
+====Noun====
+{{ja-noun|うごろもち}}
+
+# {{lb|ja|sort=うぐろもち|animal|obsolete}}: a [[mole]]
+
+===Etymology 8===
+{{ja-kanjitab|yomi=o|ど|りゅう}}
+From {{etyl|ltc|ja|sort=どりゅう}} compound {{m|zh|土龍|tr=thu<sup>X</sup> ljowng|lit=earth + dragon}}. Compare modern {{etyl|cmn|-}} reading ''tǔlóng''.
+
+====Pronunciation====
+{{ja-pron|yomi=o|どりゅう|acc=1|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|どりゅう}}
+
+# {{lb|ja|sort=どりゅう|animal|rare}}: a [[mole]]
+# {{lb|ja|sort=どりゅう|rare}}: an [[earthworm]]
+# {{lb|ja|sort=どりゅう|metaphor}}: an [[outstanding]] [[horse]], an [[excellent]] horse, a [[famous]] horse {{qualifier|by metaphor from the meaning of the kanji}}
+
+=====Synonyms=====
+* {{sense|earthworm}} {{ja-r|蚯蚓|みみず}}
+* {{sense|excellent horse}} {{ja-r|竜馬|りゅうめ}}
+
+===References===
+<references/>
+:* {{R:Honzo Wamyo}}
+:* {{R:Nippo Jisho}}
+
+[[Category:ja:Mammals|もぐら]]
+
+[[ko:土竜]]
+[[it:土竜]]
+[[chr:土竜]]

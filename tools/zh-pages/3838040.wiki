@@ -1,0 +1,60 @@
+{{also|夸张}}
+==Chinese==
+{{zh-forms|s=夸张}}
+
+===Pronunciation===
+{{zh-pron
+|m=kuāzhāng
+|c=kwaa1 zoeng1
+|mn=khoa-tiong
+|cat=v,a,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[exaggerate]]; to [[overstate]]
+#: {{zh-x|用不著[着]{zháo} 這麼 誇張 吧！|There's no need to '''exaggerate''' it so!}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[exaggerated]]; [[overstated]]; [[over-the-top]]
+#: {{zh-x|沒 那麼 誇張 吧。|It can't be that '''over-the-top''' surely.}}
+
+===Noun===
+{{zh-noun}}
+
+# [[exaggeration]]; [[hyperbole]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|こ|ちょう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|こちょう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|こちょう}}
+
+# [[exaggeration]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|こちょう}}
+
+# to [[exaggerate]]
+
+====Conjugation====
+{{ja-suru|こちょう}}
+
+===References===
+<references/>
+
+[[ko:誇張]]
+[[hu:誇張]]
+[[mg:誇張]]
+[[ja:誇張]]
+[[ru:誇張]]
+[[chr:誇張]]
+[[zh:誇張]]

@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chètuì
+|c=cit3 teoi3
+|h=pfs=chhat-thui
+|mn=xm,zz,tp,kh,yl,tn,mg,tc:thiat-thè/qz,lk,sx,km,hc:thiat-thèr/hc,tc:thiat-thòe
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[withdraw]]; to [[pull out]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てつ|k1=てっ|たい|yomi=on}}
+
+===Noun===
+{{ja-noun|てったい}}
+
+# [[evacuation]], [[withdrawal]]
+#: {{ja-usex|'''撤退'''を宣言した。|'''てったい''' を せんげん した。|They announced the withdrawal of the forces.}}
+
+===Verb===
+{{ja-verb-suru|てったい}}
+
+# [[evacuate]]; [[withdraw]]; fall back
+#: {{ja-usex|国連軍はイラクから'''撤退'''した。|こくれん ぐん は イラク から '''てったい''' した。|UN forces have retreated from Iraq.}}
+
+====Conjugation====
+{{ja-suru|てったい}}
+
+[[zh-min-nan:撤退]]
+[[ko:撤退]]
+[[hu:撤退]]
+[[ja:撤退]]
+[[chr:撤退]]
+[[zh:撤退]]

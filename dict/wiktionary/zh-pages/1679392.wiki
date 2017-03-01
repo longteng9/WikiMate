@@ -1,0 +1,40 @@
+{{also|天妇罗}}
+==Chinese==
+{{zh-forms|s=天妇罗|gloss=-}}
+
+===Etymology===
+From {{etyl|ja|zh}} {{ja-r|天麩羅|てんぷら}}.
+
+===Pronunciation===
+{{zh-pron
+|m=tiānfùluó
+|c=tin1 fu5 lo4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[tempura]]
+
+====Synonyms====
+* {{zh-l|天麩羅}}
+* {{zh-l|甜不辣}}
+* {{zh-l|天富羅}}
+
+{{zh-cat|Foods}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|yomi=o|てん|ふ|k2=ぷ|ら}}
+
+===Noun===
+{{ja-noun|てんぷら|テンプラ}}
+
+# {{alternative spelling of|lang=ja|sort=てんぷら|天麩羅}}: [[tempura]]: a Japanese dish made from seafood, chicken, or vegetables dipped in [[batter]] and [[deep-fried]]
+
+====Usage notes====
+This spelling swaps out the {{m|ja|麩}} character meaning {{m|en|wheat}} {{m|en|gluten}} in reference to the [[batter]] used in making tempura, for the more-common character {{m|ja|婦}} of the same reading, but meaning {{m|en|wife}}.
+
+[[zh:天婦羅]]

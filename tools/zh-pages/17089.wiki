@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|暨}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=12|sn=16|four=|canj=HUAM|ids=⿱旣旦}}
+
+# [[and]]
+# [[attain]]
+
+====References====
+* {{Han ref|kx=0500.020|dkj=14165|hdz=21531.070|uh=66C1|ud=26305}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jì
+|c=kei3
+|mc=y
+|oc=y
+|ma=
+|cat=con,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 123]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日12}}
+
+# {{defn|lang=ja|sort=日12}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[およぶ]] (oyobu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|eumhun=|rv=gi|mr=ki|y=ki}}
+
+# {{defn|lang=ko|sort=日12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=日12|hanviet=hí}}
+
+# {{defn|lang=vi|sort=日12}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=66c1 Nom Foundation]
+
+[[fr:曁]]
+[[hu:曁]]
+[[ja:曁]]
+[[pl:曁]]
+[[th:曁]]
+[[zh:曁]]

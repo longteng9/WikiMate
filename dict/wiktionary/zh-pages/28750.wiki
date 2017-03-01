@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=09|sn=13|four=36302|canj=YAPV}}
+
+# [[stop]], [[suppress]], [[curb]], [[check]]
+# a [[bar]]
+
+====References====
+* {{Han ref|kx=1261.240|dkj=39004|dj=1754.030|hdz=63858.020|uh=904F|ud=36943|bh=B94B|bd=47435}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=è
+|c=aat3
+|h=pfs=
+|md=
+|mn=at
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辵09}}
+
+# {{defn|lang=ja|sort=辵09}}
+
+====Readings====
+* {{ja-readings|on=[[あつ]] (atsu)|kun=[[とどめる]] (todomeru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=알|eumhun=|rv=al|mr=al|y=al}}
+
+# {{defn|lang=ko|sort=辵09}}
+
+[[fr:遏]]
+[[hu:遏]]
+[[mg:遏]]
+[[ja:遏]]
+[[no:遏]]
+[[pl:遏]]
+[[th:遏]]
+[[zh:遏]]

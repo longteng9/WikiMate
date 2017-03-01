@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=119|rad=米|as=10|sn=16|four=98931|canj=FDTGF|ids=⿰米羔}}
+
+# [[cake]]s, [[pastry]]
+
+====References====
+* {{Han ref|kx=0911.370|dkj=27069|dj=1338.280|hdz=53157.090|uh=7CD5|ud=31957|bh=BF7C|bd=49020}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gāo
+|c=gou1
+|h=pfs=kâu
+|mn=ko
+|w=1kau
+|mc=
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[cake]]
+
+====Compounds====
+{{zh-der|馬拉糕|蛋糕|粘糕|年糕|糟糕|山楂糕|冰糕|太陽糕|千層糕|扒糕|海綿蛋糕|槽糕|發糕|棗糕|炸糕|梨糕|起司蛋糕|糕乾|糕點|茯苓糕|綠豆糕|糕餅|絲糕|筒仔米糕|花糕|金糕紙|馬來糕|芙蓉糕|雪糕|雲片糕|蘿蔔糕|糕元寶|蜜糕|金糕|蜜橙糕}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=米10}}
+
+# {{defn|lang=ja|sort=米10}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[こなもち]] (konamochi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[고]]|eumhun=|rv=go|mr=ko|y=ko}}
+
+# {{defn|lang=ko|sort=米10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cao]]|rs=米10}}
+
+# {{defn|lang=vi|sort=米10}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=7cd5 Nom Foundation]
+
+[[zh-min-nan:糕]]
+[[fr:糕]]
+[[hu:糕]]
+[[mg:糕]]
+[[ms:糕]]
+[[ja:糕]]
+[[no:糕]]
+[[pl:糕]]
+[[th:糕]]
+[[zh:糕]]

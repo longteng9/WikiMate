@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǎoyù
+|c=bou2 juk6
+|mn=pó-io̍k
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[nursing]], [[childcare]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほ|いく|yomi=on}}
+
+===Noun===
+{{ja-noun|ほいく}}
+
+# [[nursing]], [[childcare]] for [[infants]]
+
+====Synonyms====
+* {{ja-r|託児|たくじ}}
+
+====Derived terms====
+* {{ja-r|保育園|ほいくえん|gloss=nursery school}}
+* {{ja-r|保育所|ほいくしょ|gloss=nursery school}}
+* {{ja-r|保育器|ほいくき|gloss=incubator}}
+
+===Verb===
+{{ja-verb-suru|ほいく}}
+
+# [[take care]] of an infant, [[nurse]] an infant
+
+====Conjugation====
+{{ja-suru|ほいく}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[zh-min-nan:保育]]
+[[ko:保育]]
+[[it:保育]]
+[[mg:保育]]
+[[zh:保育]]

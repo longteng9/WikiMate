@@ -1,0 +1,50 @@
+{{also|标准化}}
+==Chinese==
+{{zh-forms|s=标准化|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=biāozhǔnhuà
+|c=biu1 zeon2 faa3
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[standardise]]
+
+===Noun===
+{{zh-noun}}
+
+# [[standardisation]]
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[standardized]]
+#: {{zh-x|標準化 考試|'''standardized''' test}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひょう|じゅん|か|yomi=o}}
+
+===Etymology===
+{{suffix|標準|化|lang=ja|sort=ひょうじゅんか}}
+
+===Noun===
+{{ja-noun|ひょうじゅんか}}
+
+# [[standardization]]
+
+===Verb===
+{{ja-verb-suru|ひょうじゅんか}}
+
+# to [[standardize]]
+
+====Conjugation====
+{{ja-suru|ひょうじゅんか}}
+
+[[hu:標準化]]
+[[zh:標準化]]

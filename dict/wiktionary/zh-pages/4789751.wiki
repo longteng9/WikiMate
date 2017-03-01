@@ -1,0 +1,18 @@
+==Japanese==
+{{ja-kanjitab|けん|しん|yomi=on}}
+
+===Noun===
+{{ja-noun|けんしん}}
+
+# reading a meter, especially a gas meter, water meter, electric meter, etc.
+#: {{ja-usex|水道やガスメーターの検針を行っています。|すいどう や ガス メーター の けんしん を おこなっています。|We inspect water meters, gas meters, etc.}}
+
+===Verb===
+{{ja-verb-suru|けんしん|tr=both}}
+
+# read a meter
+
+====Conjugation====
+{{ja-suru|けんしん}}
+
+[[zh:検針]]

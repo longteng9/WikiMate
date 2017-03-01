@@ -1,0 +1,125 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Reborrowing from {{etym|ja|zh}} {{ja-r|法律|ほうりつ}}.
+
+===Pronunciation===
+{{zh-pron
+|m=fǎlǜ
+|c=faat3 leot6
+|h=pfs=fap-li̍t
+|md=huák-lŭk
+|mn=hoat-lu̍t
+|w=4faq liq
+|ma=Zh-falu.ogg
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[law]]
+# [[law]]; [[act]]; [[statute]]
+
+====Derived terms====
+{{zh-der|法律實證主義|法律事務所|法律學}}
+
+====See also====
+* {{zh-l|成文法}}
+* {{zh-l|法案}}
+* {{zh-l|法學/法学}}
+* {{zh-l|立法}}
+* {{zh-l|民法}}
+* {{zh-l|普通法}}
+* {{zh-l|守法}}
+* {{zh-l|憲法法/宪法法}}
+* {{zh-l|刑法}}
+* {{zh-l|執法/执法}}
+
+====Descendants====
+{{CJKV|法律|ほうりつ|법률|pháp luật}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほう|りつ|yomi=on}}
+{{wikipedia|lang=ja}}
+
+===Pronunciation===
+* {{ja-pron|ほうりつ|y=o|acc=0}}
+
+===Noun===
+{{ja-noun|ほうりつ}}
+
+# The field, profession, and study of [[law]]. The rule of law. (Synonym: [[法学]])
+#* [[政治]]より[[法律]]を[[学ぶ|学び]]たい。
+#*: [[せいじ]]より'''ほうりつ'''を[[まなぶ|まなび]]たい。
+#*: [[seiji]] yori '''hōritsu''' o [[manabu|manabi]]tai.
+#*: ''I would rather study '''law''' than politics.''
+#* [[法律]][[事務所]]
+#*: '''ほうりつ'''[[じむしょ]]
+#*: '''hōritsu''' jimusho
+#*: a '''law''' [[firm]]; a '''law''' office
+# A [[statute]]. An [[act]] of a [[legislature]].
+#* その[[法律]]は[[不当]]だ。
+#*: その'''ほうりつ'''は[[ふとう]]だ。
+#*: sono '''hōritsu''' wa [[futō]] da.
+#*: ''That '''law''' is unjust.''
+
+====Synonyms====
+* {{ja-r|法|ほう}}
+* {{ja-r|法令|ほうれい}}
+
+====Related terms====
+* {{ja-r|六法|ろっぽう}}: [[six codes]]
+* {{ja-r|憲法|けんぽう}}: [[constitution]]
+* {{ja-r|民法|みんぽう}}: [[civil law]]
+* {{ja-r|商法|しょうほう}}: [[commercial law]]
+* {{ja-r|刑法|けいほう}}: [[criminal law]]
+* {{ja-r|民事訴訟法|みんじ そしょうほう}}: [[civil procedure code]]
+* {{ja-r|刑事訴訟法|けいじ そしょうほう}}: [[criminal procedure code]]
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Law]]
+
+----
+
+==Korean==
+{{ko-hanjatab|法|律}}
+
+===Noun===
+{{ko-noun|hangeul=법률}}
+
+# {{hanja form of|법률|[[law]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|pháp luật|[[law]]}}
+
+[[zh-min-nan:法律]]
+[[fr:法律]]
+[[ko:法律]]
+[[it:法律]]
+[[lo:法律]]
+[[lt:法律]]
+[[hu:法律]]
+[[mg:法律]]
+[[ja:法律]]
+[[pt:法律]]
+[[th:法律]]
+[[chr:法律]]
+[[uk:法律]]
+[[zh:法律]]

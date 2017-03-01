@@ -1,0 +1,91 @@
+{{character info/new}}
+{{also|辧|辨|辯|瓣|办}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=160|rad=辛|as=09|sn=16|four=00441|canj=YJKSJ|ids=⿴辡力}}
+
+====References====
+* {{Han ref|kx=1251.180|dkj=38655|dj=1731.100|hdz=64042.050|uh=8FA6|ud=36774|bh=BFEC|bd=49132}}
+
+----
+
+==Chinese==
+{{zh-forms|s=办}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|辡|力|c1=p|c2=s|t2=strength|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bàn
+|c=baan6
+|h=pfs=phan
+|md=bâing
+|mn=pān
+|w=3be
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[deal]] with; to [[handle]]; to [[manage]]; to [[take care of]]
+# to [[prepare]]; to [[get]] something [[ready]]
+# to [[process]]; to [[obtain]] (e.g. a visa/passport)
+# to [[set up]]; to [[run]]
+# to [[bring]] to [[justice]]; to [[punish]]
+# {{zh-short|辦公室|[[office]]}}
+
+===Compounds===
+{{zh-der|辦法|辦公室|咄嗟而辦|仿辦|停辦|主辦|夙辦|多多益辦|備辦|催辦|咄嗟便辦|包辦|一手包辦|代辦|怎麼辦|夥辦|委辦|交辦|公事公辦|幹辦|好辦|兼辦|協辦|官辦|官督商辦|官商合辦|安辦|創辦|偵辦|合辦|咄嗟可辦|嚴辦|幫辦|創辦人|公私皆辦|拿辦|承辦|治辦|沒辦法|擬辦|措辦|督辦|書辦|批辦|核辦|查辦|究辦|礙難照辦|洽辦|懲辦|申辦|法辦|看著辦|營辦|照辦|採辦|接辦|排辦|辦事細則|辦事員|開辦|訊辦|老辦|靜辦|閱辦|辦報|試辦|辦公處|迭辦|辦貨|革職查辦|辦心|經辦|辦事|趕辦|辦理|開辦費|辦妥|辦不到|總辦|辦備|買辦|購辦|辦差|辦學|辦公廳|自有辦法|辦事處|署辦|辦酒席|辦公桌|重辦|置辦|籌辦|遵辦|辦稿|辦桌|辦案|辦抽|辦好|辦到|辦人|舉辦|辦公|興辦}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辛09}}
+
+# [[manage]]
+# [[do]]
+# [[handle]]
+# [[deal with]]
+
+====Readings====
+* {{ja-readings|on=[[はん]] (han), [[べん]] (ben)|kun=[[つとめる]] (tsutomeru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[판]], [[변]]|eumhun=|rv=pan, byeon|mr=p'an, pyŏn|y=phan, pyen}}
+
+# [[manage]]
+# [[do]]
+# [[handle]]
+# [[deal with]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[biện]], [[bạn]]|rs=辛09}}
+
+# {{defn|lang=vi|sort=辛09}}
+
+[[zh-min-nan:辦]]
+[[fr:辦]]
+[[ko:辦]]
+[[li:辦]]
+[[hu:辦]]
+[[mg:辦]]
+[[ja:辦]]
+[[pl:辦]]
+[[th:辦]]
+[[zh:辦]]

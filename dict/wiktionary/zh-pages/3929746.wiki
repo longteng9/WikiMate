@@ -1,0 +1,29 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=rùgé
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|grammar}} [[illative case]] {{gloss|case used to indicate movement into something}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|にゅう|かく|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|にゅうかく|y=on}}
+
+===Noun===
+{{ja-noun|にゅうかく}}
+
+# {{lb|ja|grammar|sort=にゅうかく}} [[illative case]] {{gloss|case used to indicate movement into something}}
+
+[[ja:入格]]
+[[zh:入格]]

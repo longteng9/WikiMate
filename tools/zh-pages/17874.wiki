@@ -1,0 +1,103 @@
+{{character info/new}}
+{{also|樂|乐}}
+==Translingual==
+{{Han simplified forms|樂|楽|乐}}
+
+===Etymology===
+Pictogram ([[象形]]) – a white bird flapping its wings on top of a tree, having fun. Compare [[白]], [[木]]
+
+===Han character===
+{{Han char|rn=75|rad=木|as=09|sn=13|four=|canj=IOD,XIOD}}
+
+====References====
+* {{Han ref|kx=0542.191|dkj=15213|dj=0930.200|hdz=80020.140|uh=697D|ud=27005}}
+
+----
+
+==Chinese==
+{{zh-see|樂|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=木09|style=s|kyu=樂}}
+
+# comfort, ease
+# [[music]]
+
+====Readings====
+{{ja-readings
+|goon=[[がく]] (gaku), [[らく]] (raku)
+|kanon=[[がく]] (gaku), [[らく]] (raku)
+|kun=[[たのしい]] (tanoshii), [[たのしむ]] (tanoshimu)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|音楽|おんがく}}: [[music]]
+* {{ja-r|神楽|かぐら}}: [[kagura]]
+* {{ja-r|室内楽|しつないがく}}: [[chamber music]]
+* {{ja-r|楽しい|たのし.い}}: fun, [[delightful]]
+* {{ja-r|舞楽|ぶがく}}: music for traditional court dances
+* {{ja-r|楽天|らくてん}}: [[optimism]]
+* {{ja-r|楽天家|らくてんか}}: [[optimist]]
+* {{ja-r|楽天主義|らくてんしゅぎ}}: [[optimism]]
+* {{ja-r|楽天主義者|らくてんしゅぎしゃ}}: [[optimist]]
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|らく|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|らく|acc=2|acc_ref=DJR,NHK}}
+
+====Adjectival noun====
+{{ja-adj|kyu=樂|infl=na|らく}}
+
+# [[comfortable]], [[easy]]
+
+=====Inflection=====
+{{ja-na|らく}}
+
+====Noun====
+{{ja-noun|kyu=樂|らく}}
+
+# [[comfort]], [[ease]]
+
+===Etymology 2===
+{{ja-kanjitab|らく|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|らく|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|kyu=樂|らく}}
+
+# {{abbreviation of|千秋楽|lang=ja}}
+
+===Etymology 3===
+{{ja-kanjitab|がく|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|がく|acc=1|acc_ref=DJR,NHK,|acc2=0|acc2_ref=NHK}}
+
+====Noun====
+{{ja-noun|kyu=樂|がく}}
+
+# [[music]]
+
+===References===
+<references/>
+
+[[fr:楽]]
+[[ko:楽]]
+[[it:楽]]
+[[lo:楽]]
+[[hu:楽]]
+[[mg:楽]]
+[[ja:楽]]
+[[pl:楽]]
+[[th:楽]]
+[[vi:楽]]
+[[zh:楽]]

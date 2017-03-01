@@ -1,0 +1,57 @@
+{{also|连浊}}
+==Chinese==
+{{zh-forms|s=连浊}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+{{wasei kango|連%濁|れん%だく|sequential voicing}}
+
+===Pronunciation===
+{{zh-pron
+|m=liánzhuó
+|c=lin4 zuk6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|linguistics}} [[rendaku]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|れん|だく|yomi=o}}
+
+===Etymology===
+From {{compound|ja|連|濁|tr1=ren|tr2=daku|t1=[[continuous]], [[sequential]]|t2=[[voicing]]}}.
+
+===Pronunciation===
+{{ja-pron|yomi=go|れんだく|acc=0|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|れんだく}}
+
+# {{lb|ja|linguistics|sort=れんだく}} a morphological change of an initial syllable of the second word of a compound in Japanese from an [[unvoiced]] sound to a corresponding [[voiced]] one (more precisely, a change to the sound of corresponding kana with a [[濁点]]).
+
+====Related terms====
+* {{ja-r|連声|れんじょう}}
+
+====See also====
+* [[:Category:Japanese rendaku]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=연탁}}
+
+# {{hanja form of|연탁|rendaku}}
+
+[[fr:連濁]]

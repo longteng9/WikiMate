@@ -1,0 +1,109 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=05|sn=8|four=37111|canj=ESP|ids=⿰氵尼}}
+
+# [[mud]], [[mire]]
+# [[earth]], [[clay]]
+# [[plaster]]
+
+====References====
+* {{Han ref|kx=0617.110|dkj=17311|dj=1012.080|hdz=31595.080|uh=6CE5|ud=27877|bh=AA64|bd=43620}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=ní,nì,nǐ,niè,nìng
+|m-s=nyi2
+|c=nai4,nei6
+|h=pfs=nài/nì
+|h_note=nài - colloquial; nì - literary
+|mn=qz:lê/xm:nê/nî/qz:lî
+|mn_note=lê/nê - literary; nî/lî - vernacular
+|mn-t=ni5
+|w=
+|mc=y
+|oc=y
+|ma=y
+|cat=n
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# dirt
+# mud
+# clay
+
+===References===
+* {{qualifier|Hakka}} {{R:hak:Lau 1997}}
+* {{qualifier|Min Nan}} [http://twblg.dict.edu.tw/holodict_new/index.html Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水05}}
+
+====Readings====
+* {{ja-readings|goon=[[ない]] (nai) {{non-joyo-reading}}|kanon=[[でい]] (dei)|kun=[[どろ]] (doro), [[なずむ]] (nazumu)}}
+
+====Noun====
+{{ja-noun|どろ}}
+
+# [[mud]]
+
+=====Derived terms=====
+* {{ja-r|泥沼|どろぬま}}: [[bog]]
+* {{ja-r|泥仕合|どろじあい}}: [[mudslinging]]
+
+[[Category:Japanese basic words|とろ']]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[니]]>[[이]]|eumhun=|rv=ni>i|mr=ni>i|y=ni>i}}
+
+# {{defn|lang=ko|sort=水05}}
+
+----
+
+==Vietnamese==
+
+===Character===
+
+====Readings====
+{{vi-readings|rs=一00| hanviet = nề, nê, nệ, nè, nể, nễ, nơi}}
+
+===References===
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6ce5 Nom Foundation]
+* {{R:WinVNKey:Lê Sơn Thanh}}
+
+[[ca:泥]]
+[[fr:泥]]
+[[ko:泥]]
+[[lo:泥]]
+[[hu:泥]]
+[[mg:泥]]
+[[ms:泥]]
+[[ja:泥]]
+[[no:泥]]
+[[pl:泥]]
+[[fi:泥]]
+[[sv:泥]]
+[[th:泥]]
+[[chr:泥]]
+[[vi:泥]]
+[[zh:泥]]

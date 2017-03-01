@@ -1,0 +1,122 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=06|sn=10|four=45990|canj=DHJD|ids=⿰木朱}}
+
+====References====
+* {{Han ref|kx=0523.110|dkj=14723|dj=0911.090|hdz=21199.100|uh=682A|ud=26666|bh=AEE8|bd=44776}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhū
+|c=zyu1
+|mn=qz,xm:chu/twv,zz:ti/qz,xm,tw:tu/twv:lu
+|mc=y
+|oc=y
+|ma=
+|cat=cls,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[measure word]] for [[tree]]s
+# [[root]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=木06}}
+
+====Readings====
+{{ja-readings|goon=[[ちゅう]] (chū)|kanon=[[ちゅう]] (chū)|kanyoon=[[しゅ]] (shu)|kun=[[かぶ]] (kabu)}}
+
+{{wikipedia|lang=ja}}
+
+===Etymology 1===
+{{ja-kanjitab|かぶ|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|かぶ|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|かぶ}}
+
+# [[stump]] of a tree
+# [[stock]] (in a company)
+# [[share]](s) of stock
+
+====Suffix====
+{{ja-pos|suffix|かぶ}}
+
+# Abbreviation for {{ja-r|株式会社|かぶしき がいしゃ|stock company}}; [[inc.]]
+
+=====Coordinate terms=====
+* {{ja-r|社|しゃ}}: [[co.]]
+* {{ja-r|有|ゆう}}: [[Ltd.]]
+
+===Etymology 2===
+{{ja-kanjitab|しゅ|yomi=kanyoon}}
+From {{etyl|ltc|ja|sort=しゅ}} {{m|zh|株|tr=trju}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanyoon|しゅ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|しゅ}}
+
+# [[stump]] of a tree
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|岩株|がんしゅ}}
+* {{ja-r|雌雄異株|しゆういしゅ}}
+* {{ja-r|雌雄同株|しゆうどうしゅ}}
+* {{ja-r|雌雄別株|しゆうべっしゅ}}
+* {{ja-r|守株|しゅしゅ}}
+* {{ja-r|株を削り根を掘る|しゅ を けずり ね を ほる}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=주|eumhun=|rv=ju|mr=chu|y=cwu}}
+
+# {{defn|lang=ko|sort=木06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chò]], [[châu]], [[chu]]|rs=木06}}
+
+# {{defn|lang=vi|sort=木06}}
+
+[[fr:株]]
+[[ko:株]]
+[[lo:株]]
+[[hu:株]]
+[[mg:株]]
+[[ja:株]]
+[[no:株]]
+[[pl:株]]
+[[th:株]]
+[[chr:株]]
+[[zh:株]]

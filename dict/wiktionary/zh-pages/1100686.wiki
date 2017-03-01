@@ -1,0 +1,43 @@
+{{also|误差}}
+==Chinese==
+{{zh-forms|s=误差}}
+
+===Pronunciation===
+{{zh-pron
+|m=wùchā
+|c=ng6 caa1
+|mn=qz,tw,zz:gō͘-chha/xm:ngō͘-chha
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[error]] {{gloss|such as a numerical one}}
+# [[difference]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ご|さ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ごさ|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ごさ}}
+
+# {{l|en|error|id=difference between a measured or calculated value and a true one}} {{gloss|difference between a measured or calculated value and a true one}}
+
+===References===
+<references/>
+
+[[ko:誤差]]
+[[it:誤差]]
+[[hu:誤差]]
+[[mg:誤差]]
+[[ja:誤差]]
+[[chr:誤差]]
+[[zh:誤差]]

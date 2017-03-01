@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuìdàhuà
+|c=zeoi3 daai6 faa3
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[maximize]]
+
+===Noun===
+{{zh-noun}}
+
+# [[maximization]]
+
+====Antonyms====
+* {{zh-l|最小化}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|さい|だい|か|yomi=on}}
+
+===Noun===
+{{ja-noun|さいだいか}}
+
+# [[maximization]]
+
+====Derived terms====
+* {{ja-r|最大化ブタン|さいだいか ブタン}}: maximize button
+
+===Verb===
+{{ja-verb-suru|さいだいか}}
+
+# [[maximize]]
+
+====Conjugation====
+{{ja-suru|さいだいか}}
+
+[[zh:最大化]]

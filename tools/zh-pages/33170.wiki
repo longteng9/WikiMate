@@ -1,0 +1,54 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=209|rad=鼻|as=11|sn=25|four=21217|canj=HLYPM}}
+
+# {{defn|Han|sort=鼻11}}
+
+====References====
+* {{Han ref|kx=1530.400|dkj=48547|dj=2067.390|hdz=74781.160|uh=9F47|ud=40775|bh=F966|bd=63846}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhā
+|c=zaa1
+|h=
+|md=
+|mn=qz,tw,xm,zz:cha
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鼻11}}
+
+# {{defn|lang=ja|sort=鼻11}}
+
+====Readings====
+* {{ja-readings|on=[[さ]] (sa), [[しゃ]] (sha)|kun=[[あかばな]] (akabana)}}
+
+[[Category:Uncommon kanji]]
+
+[[fr:齇]]
+[[hu:齇]]
+[[ja:齇]]
+[[pl:齇]]
+[[th:齇]]
+[[zh:齇]]

@@ -1,0 +1,91 @@
+{{character info/new}}
+{{also|昙}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=12|sn=16|four=60731|canj=AMBI|ids=⿱日雲}}
+
+# [[become]] [[cloudy]], [[overcast]]
+
+====References====
+* {{Han ref|kx=0500.130|dkj=14172|dj=0870.090|hdz=21536.040|uh=66C7|ud=26311|bh=BEE8|bd=48872}}
+
+----
+
+==Chinese==
+{{zh-forms|s=昙}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|日|雲|ls=ic}}, presumably “sun behind clouds”.
+
+===Pronunciation===
+{{zh-pron
+|m=tán
+|c=taam4
+|mn=thâm
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|優曇華|悉曇|曇曇|曇花|曇花一現|曇鸞|毘曇宗|阿毗曇}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=日12}}
+
+# {{defn|lang=ja|sort=日12}}
+
+====Readings====
+* {{ja-readings|on=[[どん]] (don), [[たん]] (tan)|kun=[[くもる]] (kumoru), [[くもり]] (kumori)}}
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|曇らす|くもらす}}: to encloud; to make dim or dull
+* {{ja-r|曇らせる|くもらせる}}: to cloud; to make dim or dull;
+* {{ja-r|曇り|くもり}}, {{ja-r|曇|くもり}}: cloudiness; cloudy weather; shadow
+* {{ja-r|曇りがち|くもりがち}}: broken cloud; mainly cloudy
+* {{ja-r|曇りガラス|くもりガラス}}: frosted glass
+{{der-mid}}
+* {{ja-r|曇り勝ち|くもりがち}}: mostly cloudy
+* {{ja-r|曇り声|くもりごえ}}: depressed voice
+* {{ja-r|曇り空|くもりぞら}}: cloudy sky
+* {{ja-r|曇る|くもる}}: to become cloudy; to become dim
+* {{ja-r|曇度|くもりど}}: opacity
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=담|eumhun=|rv=dam|mr=tam|y=tam}}
+
+# {{defn|lang=ko|sort=日12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đàm]]|rs=日12}}
+
+# {{defn|lang=vi|sort=日12}}
+
+[[fr:曇]]
+[[ko:曇]]
+[[hu:曇]]
+[[ja:曇]]
+[[pl:曇]]
+[[th:曇]]
+[[zh:曇]]

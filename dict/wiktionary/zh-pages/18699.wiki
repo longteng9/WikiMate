@@ -1,0 +1,130 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=04|sn=7|four=39120|canj=EFH|ids=⿰氵少}}
+
+# [[sand]], [[gravel]], [[pebble]]s
+# [[granulated]]
+# the [[number]] 10<sup>-8</sup>
+
+====References====
+* {{Han ref|kx=0611.210|dkj=17212|dj=1005.030|hdz=31562.090|uh=6C99|ud=27801|bh=A846|bd=43078}}
+
+====See also====
+* ''Chinese Numeral'' '''沙'''
+** '''Next:''' [[塵]]
+** '''Last:''' [[纖]]
+* {{l|mul|砂}}
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shā
+|c=saa1
+|h=
+|mn=qz,tw,xm:sa/zz:see/soa/tw:se
+|mn_note=sa/see - literary; soa/se - vernacular
+|w=
+|mc=y
+|oc=y
+|ma=
+|cat=n,a,num
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[sand]]
+
+====Compounds====
+* {{zh-l|豆沙}}
+* {{zh-l|喇沙|La Salle; laksa}}
+* {{zh-l|叻沙}}
+* {{zh-l|沙漠}}
+* {{zh-l|沙發}}
+* {{zh-l|沙文主義}}
+* {{qualifier|Min Nan}} {{zh-l|塗沙|[[thô͘-soa]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水04}}
+
+====Readings====
+* {{ja-readings|goon=[[しゃ]] (sha)|kanon=[[さ]] (sa)|kun=[[すな]] (suna), [[よなげる]] (yonageru)}}
+
+===Etymology 1===
+
+====Noun====
+{{ja-noun|すな}}
+# [[sand]]
+
+===Etymology 2===
+
+====Noun====
+{{ja-noun|いさご}}
+# small rock
+# sand
+
+===Etymology 3===
+
+====Noun====
+{{ja-noun|さ|しゃ}}
+# Number of units, 1 of 100 million parts.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|eumhun=|rv=sa|mr=sa|y=sa}} [모래 사]
+
+# {{defn|lang=ko|sort=水04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sa]], [[sá]], [[nhểu]], [[xoà]], [[xa]], [[sà]]|rs=水04}}
+
+# {{defn|lang=vi|sort=水04}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6c99 Nom Foundation]
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville
+
+[[fr:沙]]
+[[ko:沙]]
+[[kn:沙]]
+[[lo:沙]]
+[[lt:沙]]
+[[li:沙]]
+[[hu:沙]]
+[[mg:沙]]
+[[fj:沙]]
+[[ja:沙]]
+[[no:沙]]
+[[pl:沙]]
+[[pt:沙]]
+[[ro:沙]]
+[[sm:沙]]
+[[tl:沙]]
+[[th:沙]]
+[[uk:沙]]
+[[zh:沙]]

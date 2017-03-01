@@ -1,0 +1,93 @@
+{{character info/new}}
+{{also|昻}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+
+===Han character===
+{{Han char|rn=72|rad=日|as=04|sn=8|four=60127|canj=AHVL|ids=⿱日卬}}
+
+# [[rise]], [[raise]]
+# [[proud]], [[bold]]
+# [[upright]]
+
+====References====
+* {{Han ref|kx=0490.330|dkj=13783|dj=0851.320|hdz=21495.030|uh=6602|ud=26114|bh=A9F9|bd=43513}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=áng
+|m-s=ngang2
+|c=ngong4,ngong5
+|mc=y
+|oc=y
+|ma=
+|cat=v,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|昂昂|昂奮|昂貴|昂然|昂首|昂首闊步|昂揚|慷慨激昂|人物軒昂|器宇軒昂|低昂|意氣軒昂|德昂族|昂藏|氣昂昂|昂首挺胸|激昂|昂頭挺立|昂首挺立|氣宇軒昂|氣宇昂昂|昂昂溪|激昂慷慨|昂首望天|應昂|波昂|瞵視昂藏|昂昂烈烈|軒昂自若|鬥志昂揚|聳壑昂霄|筋骨昂然|高昂鬥志|高昂|里昂|軒昂氣宇|鬥志高昂|軒昂}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日04}}
+
+# {{defn|lang=ja|sort=日04}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[ごう]] (gō)|kun=[[あがる]] (agaru), [[たかい]] (takai)}}
+
+====Compounds====
+* [[意気軒昂]] ([[いきけんこう]], ikikenkō)
+* [[軒昂]] ([[けんこう]], kenkō)
+* [[激昂]] ([[げきこう]], gekikō ''and'' [[げっこう]], gekkō)
+* [[昂進]] ([[こうしん]], kōshin)
+* [[昂然]] ([[こうぜん]], kōzen)
+* [[昂騰]] ([[こうとう]], kōtō)
+* [[昂奮]] ([[こうふん]], kōfun)
+* [[昂揚]] ([[こうよう]], kōyō)
+* [[心悸昂進]] ([[しんきこうしん]], shinkikōshin)
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=앙|eumhun=|rv=ang|mr=ang|y=ang}}
+
+# {{defn|lang=ko|sort=日04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=日04|hanviet=[[ngang]], [[ngáng]], [[ngàng]], [[ngãng]]}}
+
+# {{defn|lang=vi|sort=日04}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:昂]]
+[[fr:昂]]
+[[hu:昂]]
+[[mg:昂]]
+[[ja:昂]]
+[[no:昂]]
+[[pl:昂]]
+[[th:昂]]
+[[zh:昂]]

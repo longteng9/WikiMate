@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=|canj=DWYI|ids=⿰木母}}
+
+====References====
+* {{Han ref|kx=0521.121|dkj=14686|hdz=21192.030|uh=6802|ud=26626}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=méi
+|c=mui4
+|mc=
+|oc=
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# a [[kind]] of [[evergreen]] [[tree]], [[hemlock]], the genus ''[[Tsuga]]''
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=木05}}
+
+# [[hemlock]] (tree)
+
+====Readings====
+* {{ja-readings|on=|kun=[[とが]] (toga), [[つが]] (tsuga)}}
+
+====Compounds====
+* [[栂椹]] (togasawara)
+
+===Noun===
+{{ja-noun|つが|ツガ}}
+
+# [[hemlock]] (tree), the genus ''[[Tsuga]]''
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 栂]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[매]]|eumhun=|rv=mae|mr=mae|y=may}}
+
+# {{defn|lang=ko|sort=木05}}
+
+[[fr:栂]]
+[[hu:栂]]
+[[ja:栂]]
+[[pl:栂]]
+[[th:栂]]
+[[zh:栂]]

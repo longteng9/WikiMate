@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|赐}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=08|sn=15|four=66827|canj=BCAPH|ids=⿰貝易}}
+
+# [[give]] or [[bestow]] [[favor]]s
+# [[appoint]]
+
+====Descendants====
+* [[赐]]
+
+====References====
+* {{Han ref|kx=1209.150|dkj=36809|dj=1674.050|hdz=63648.020|uh=8CDC|ud=36060|bh=BDE7|bd=48615}}
+
+----
+
+==Chinese==
+{{zh-forms|s=赐}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|貝|t1=shell, money|易|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=赐
+|c=ci3
+|h=pfs=su
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不吝賜教|天官賜福|天賜|天賜遐齡|封侯賜爵|御賜|恩賜|惠賜|拜賜|敕賜|早賜玉音|欽賜|白毫之賜|綈袍之賜|賜予|賜假|賜光|賜卹|賜名|賜告|賜姓|賜宴|賜履|賜帛|賜復|賜教|賜死|賜爵|賜環|賜示|賜福|賜紫|賜酺|賜顧|賞賜|速賜康}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=貝08}}
+
+# {{defn|lang=ja|sort=貝08}}
+
+====Readings====
+* {{ja-readings|goon=[[し]] (shi)|kun=[[たまわる]] (tamawaru), [[たまう]] (tamau), [[たまもの]] (tamamono)|kanon=[[し]] (shi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|eumhun=|rv=sa|mr=sa|y=sa}}
+
+# {{defn|lang=ko|sort=貝08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tứ]]|rs=貝08}}
+
+# {{defn|lang=vi|sort=貝08}}
+
+[[fr:賜]]
+[[ko:賜]]
+[[hu:賜]]
+[[mg:賜]]
+[[ja:賜]]
+[[pl:賜]]
+[[th:賜]]
+[[zh:賜]]

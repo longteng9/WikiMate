@@ -1,0 +1,25 @@
+{{also|插苏}}
+==Chinese==
+{{zh-forms|s=插苏|2=''phonetic''}}
+
+===Etymology===
+{{zh-l|蘇|sou1}} is from {{bor|zh|en|notext=1|socket}}.
+
+===Pronunciation===
+{{zh-pron
+|c=caap3 sou1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}} {{tlb|zh|Cantonese}}
+
+# [[electrical]] [[socket]]
+# [[electrical]] [[plug]]
+
+====Synonyms====
+* {{sense|socket}} {{zh-l|插座}}
+* {{sense|plug}} {{zh-l|插頭}}
+
+====Derived terms====
+{{zh-der|萬能插蘇}}

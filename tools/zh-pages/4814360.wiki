@@ -1,0 +1,34 @@
+==Chinese==
+
+===Pronunciation 1===
+{{zh-forms}}
+{{zh-pron
+|m=jiāsī
+|c=gaa1 si1
+|mn=xm,qz,tw:ke-si/qz:ka-sir/zz:kee-si
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[family]] [[property]]
+
+===Pronunciation 2===
+{{zh-forms|alt=傢俬-more common for Cantonese}}
+{{zh-pron
+|c=gaa1 si1
+|md=gă-sĭ
+|mn=xm,qz,tp,kh,tn,lk,yl,km,mg,tc:ke-si/zz:kee-si
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|Cantonese|Min}} [[furniture]]
+# {{lb|zh|Min}} [[tool]]; [[utensil]]
+# {{lb|zh|Min Nan}} [[weapon]]
+
+[[zh-min-nan:家私]]
+[[zh:家私]]

@@ -1,0 +1,32 @@
+==Japanese==
+{{ja-kanjitab|てい|げん|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|ていげん|yomi=o}}
+
+===Noun===
+{{ja-noun|ていげん}}
+
+# [[motion]], formal [[proposal]], [[recommendation]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|ていげん}}
+
+# to make a [[proposal]], to [[recommend]]
+
+====Conjugation====
+{{ja-suru|ていげん}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=제언}}
+
+# {{hanja form of|제언|[[recommendation]]}}
+
+[[fr:提言]]
+[[ko:提言]]
+[[hu:提言]]
+[[mg:提言]]
+[[zh:提言]]

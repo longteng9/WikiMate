@@ -1,0 +1,14 @@
+==Japanese==
+{{ja-kanjitab|けい|かく|てき|yomi=on}}
+
+===Etymology===
+{{suffix|計画|的|lang=ja|t1=plan|t2=-ish|sort=けいかくてき}}
+
+===Adjectival noun===
+{{ja-adj|けいかくてき|infl=な}}
+
+# [[systematic]]
+#: {{ja-usex|これは'''計画的'''な犯行だ。|これ は '''けいかくてき''' な はんこう だ。|This is a planned incident.}}
+
+====Inflection====
+{{ja-na|けいかくてき}}

@@ -1,0 +1,69 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=173|rad=雨|as=14|sn=22|four=10214|canj=MBBHG}}
+
+====References====
+* {{Han ref|kx=1379.300|dkj=42507|dj=1889.140|hdz=64081.070|uh=973E|ud=38718|bh=C5B5|bd=50613}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|雨|貍|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=mái
+|c=maai4,lei4,mai4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[misty]]; [[foggy]]
+# [[dust]] [[storm]]
+
+====Compounds====
+{{zh-der|風霾|陰霾|霾晦}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=雨14}}
+
+# {{defn|lang=ja|sort=雨14}}
+
+====Readings====
+* {{ja-readings|on=[[ばい]] (bai)|kun=[[つちふる]] (tsuchifuru), [[つちぐもり]] (tsuchigumori)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=매|eumhun=|rv=mae|mr=mae|y=may}}
+
+# {{defn|lang=ko|sort=雨14}}
+
+[[fr:霾]]
+[[hu:霾]]
+[[mg:霾]]
+[[ja:霾]]
+[[pl:霾]]
+[[th:霾]]
+[[chr:霾]]
+[[vi:霾]]
+[[zh:霾]]

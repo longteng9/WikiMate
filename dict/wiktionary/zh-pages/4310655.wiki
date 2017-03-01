@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|たい|くん|yomi=on}}
+
+===Etymology===
+Probably from {{etyl|ltc|ja|sort=たいくん}} compound {{m|ltc|大勳|tr=*dhɑ̀i *xiuən}}. Compare modern {{etyl|cmn|-}} traditional {{m|cmn|大勳}} and simplified {{m|cmn|大勋|tr=dà xūn}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|h|た|いくん}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[ta̠ikɯ̃ᵝɴ]}}
+
+===Noun===
+{{ja-noun|たいくん}}
+
+# a [[great]] [[deed]], [[distinguished]] [[service]], an [[excellent]] [[accomplishment]], a [[brilliant]] [[exploit]]
+
+====Synonyms====
+* {{ja-l|偉勲|いくん|ikun}}
+* {{ja-l|大功|たいこう|taikō}}
+
+====Usage notes====
+* Although the term {{m|ja|大勲位|tr=dai-kun'i||[[w:Order of the Chrysanthemum|Order of the Chrysanthemum]]}} looks as if it might be derived from {{lang|ja|大勲}} (''taikun''), it is actually composed of {{m|ja|大|tr=dai||great, big}} + {{m|ja|勲位|tr=kun'i||Order of Merit}}.
+
+===References===
+<references/>

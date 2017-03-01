@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|せん|きょ|yomi=o}}
+
+===Noun===
+{{ja-noun|せんきょ|kyu=占據}}
+
+# [[occupation]] {{gloss|act, process or state of possessing a place}}
+
+====Synonyms====
+* {{ja-r|占領|せんりょう}}
+
+===Verb===
+{{ja-verb-suru|せんきょ|kyu=占據}}
+
+# to [[occupy]]
+#: {{ja-usex|デモ隊はウォール街を'''占拠'''した。|デモたい は ウォールがい を '''せんきょ''' した。|The protesters occupied Wall Street.}}
+
+====Conjugation====
+{{ja-suru|せんきょ}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[mg:占拠]]
+[[zh:占拠]]

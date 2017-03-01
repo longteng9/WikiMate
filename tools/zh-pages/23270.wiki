@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|绍}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=05|sn=11|four=27962|canj=VFSHR}}
+
+# [[continue]], [[carry on]]; [[hand down]]; to [[join]]
+
+====References====
+* {{Han ref|kx=0920.160|dkj=27361|dj=1352.130|hdz=53388.010|uh=7D39|ud=32057|bh=B2D0|bd=45776}}
+
+----
+
+==Chinese==
+{{zh-forms|s=绍}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|ls=psc|糸|c1=s|召|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shào
+|c=siu6
+|h=
+|md=
+|mn=siāu
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{surname|lang=zh}}
+# [[continue]], [[carry on]]
+
+===Compounds===
+* {{zh-l|介紹}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=糸05|grade=7}}
+
+# [[introduce]]
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō), [[じょう]] (jō)|kun=[[つぐ]] (tsugu)}}
+
+====Compounds====
+* [[紹介]]
+* [[紹恢]]
+* [[紹興酒]]
+* [[紹述]]
+* [[紹復]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[소]]|eumhun=|rv=so|mr=so|y=so}}
+
+# {{defn|lang=ko|sort=糸05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thiệu]], [[chão]]|rs=糸05}}
+
+# {{defn|lang=vi|sort=糸05}}
+
+[[fr:紹]]
+[[ko:紹]]
+[[hu:紹]]
+[[mg:紹]]
+[[ja:紹]]
+[[pl:紹]]
+[[th:紹]]
+[[zh:紹]]

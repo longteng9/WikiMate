@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|神|降}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=かみおろし|神|tr1=kami|t1=god, spirit|降|tr2=oroshi|t2=bringing down}}, the stem noun form of verb {{l|ja|降ろす|tr=''orosu''}}, "to take down, to lower, to bring down".
+
+===Noun===
+{{ja-noun|かみおろし}}
+
+# Calling down a god to a [[place]] of [[worship]] at the start of a [[festival]].
+# An [[avatar]], particularly a {{m|ja|巫女|tr=miko||shrine maiden}} who has [[pray]]ed and [[invite]]d a god to [[enter]] her [[body]] to be an [[oracle]].
+# Listing the names of gods and making a [[solemn]] [[oath]] on a [[written]] [[vow]] to the gods. Also, the place on the [[document]] where the [[name]]s of the gods are written.
+
+====Synonyms====
+* {{sense|calling down a god}} {{ja-r|口寄せ|くちよせ}}
+
+====Related terms====
+* {{sense|oracle}} {{ja-r|託宣|たくせん}}
+* {{sense|written oath}} {{ja-r|起請文|きしょうもん}}
+* {{sense|medium}} {{ja-r|神媒|しんばい}}
+* {{sense|descending from heaven}} {{ja-r|天降|あまくだり}}
+* {{sense|spirit possession}} {{ja-r|憑依|ひょうい}}

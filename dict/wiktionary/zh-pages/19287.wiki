@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=10|sn=13|four=38117|canj=ETCT}}
+
+# [[overflow]], [[brim over]]
+# [[full]]
+
+====References====
+* {{Han ref|kx=0640.060|dkj=17951|dj=1047.040|hdz=31707.050|uh=6EA2|ud=28322|bh=B7B8|bd=47032}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|alt1=氵|t1=water|益|ls=psc|c1=s|c2=p}} – an overflowing liquid, water. 益 also has sense of “increase”, hence connotation of “increase to point of overflowing”.
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=jat6
+|mn=qz:iak/tw,xm,zz:ek/ioh
+|mn_note=iak/ek - literary; ioh - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|充溢|名溢縹囊|天才橫溢|情溢於表|排洪溢道|掩惡溢美|橫溢|泛溢|洋溢|流溢|海不波溢|湓溢|溢價|溢惡|溢收|溢於言表|溢泌|溢波|溢洪道|溢流|溢滿|溢目|溢美|溢血|溢譽|溢額|滿溢|滿而不溢|漫溢|盈溢|腦溢血|衍溢|車馬駢溢|醜聲四溢|闐溢|飄溢|香氣四溢}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水10}}
+
+# {{defn|lang=ja|sort=水10}}
+
+====Readings====
+* {{ja-readings|on=[[いつ]] (itsu)|kun=[[あふれる]] (afureru), [[みちる]] (michiru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[일]]|eumhun=|rv=il|mr=il|y=il}}
+
+# {{defn|lang=ko|sort=水10}}
+
+====Compounds====
+* [[海溢]] ([[해일]])
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dật]], [[ải]]|rs=水10}}
+
+# {{defn|lang=vi|sort=水10}}
+
+[[zh-min-nan:溢]]
+[[fr:溢]]
+[[hu:溢]]
+[[mg:溢]]
+[[ja:溢]]
+[[no:溢]]
+[[pl:溢]]
+[[th:溢]]
+[[zh:溢]]

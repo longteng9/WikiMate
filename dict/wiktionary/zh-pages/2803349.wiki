@@ -1,0 +1,31 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuánzǐliàng
+|c=jyun4 zi2 loeng6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[atomic weight]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|げん|し|りょう|yomi=o}}
+
+===Etymology===
+{{suffix|原子|量|lang=ja|t1=atom|t2=weight|sort=けんしりょう'}}
+
+===Noun===
+{{ja-noun|げんしりょう}}
+
+# [[atomic weight]]
+
+[[ko:原子量]]
+[[ja:原子量]]
+[[zh:原子量]]

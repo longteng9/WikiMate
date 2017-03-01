@@ -1,0 +1,73 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=shuǐpào,er=y
+|c=seoi2 pou5
+|h=pfs=súi-phô
+|mn=chúi-pho
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[bubble]] {{zh-mw|個}}
+# {{lb|zh|Cantonese}} [[lifebuoy]] {{zh-mw|個}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=shuǐpào,er=y
+|c=seoi2 pok1,seoi2 paau3
+|mn=chúi-phā
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{zh-alt-form|水疱|blister}}
+
+----
+
+==Japanese==
+
+===Alternative forms===
+* {{l/ja|水沫}}
+
+===Etymology 1===
+{{ja-kanjitab|すい|ほう|yomi=on}}
+
+====Noun====
+{{ja-noun|すいほう}}
+
+# [[bubble]]
+# [[foam]]
+
+===Etymology 2===
+
+====Noun====
+{{ja-noun|みなわ}}
+
+# [[bubble]]
+# [[foam]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|rv=supo|hangeul=수포}}
+
+# {{hanja form of|수포|bubble}}
+
+[[ko:水泡]]
+[[mg:水泡]]
+[[zh:水泡]]

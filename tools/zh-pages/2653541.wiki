@@ -1,0 +1,51 @@
+{{also|休业}}
+==Chinese==
+{{zh-forms|s=休业}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiūyè
+|c=jau1 jip6
+|mn=qz,xm,zz:hiu-gia̍p
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to be ([[temporarily]]) [[closed]] for [[business]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|きゅう|ぎょう|yomi=on}}
+
+===Noun===
+{{ja-noun|きゅうぎょう}}
+
+# temporary [[business]] [[closure]]
+#: {{ja-usex|明日は'''休業'''します。|あした は '''きゅうぎょう''' します。|This store will be closed tomorrow.}}
+
+====Derived terms====
+* {{ja-r|休業日|きゅうぎょうび}}
+
+====Coordinate terms====
+* {{ja-r|休館|gloss=library or museum closure|きゅうかん}}
+
+===Verb===
+{{ja-verb-suru|きゅうぎょう}}
+
+# be closed for business, [[shut down]]
+
+====Conjugation====
+{{ja-suru|きゅうぎょう}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:休業]]
+[[hu:休業]]
+[[mg:休業]]
+[[ja:休業]]
+[[chr:休業]]
+[[zh:休業]]

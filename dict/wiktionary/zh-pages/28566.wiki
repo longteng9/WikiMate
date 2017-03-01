@@ -1,0 +1,119 @@
+{{character info/new}}
+{{also|幸|羍}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=160|rad=辛|as=00|sn=7|four=00401|canj=YTJ|ids=⿱立十}}
+
+# {{mul-kangxi radical-def}}
+
+===See also===
+* {{l|mul|鹹}}
+
+===References===
+* {{Han ref|kx=1250.250|dkj=38630|dj=1729.310|hdz=64036.010|uh=8F9B|ud=36763|bh=A8AF|bd=43183}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{liushu|p}} – Picture of a tool used to mark slaves and criminals.
+
+===Etymology===
+From {{inh|zh|sit-pro|*m-sin||liver; heart; bile; bitter}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xīn
+|c=san1
+|h=pfs=sîn
+|md=sĭng
+|mn=sin
+|w=1xin
+|mc=y
+|oc=y
+|cat=a,n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[spicy]]; [[hot]]; [[pungent]]
+#: {{zh-x|辛辣|spicy}}
+# [[hard]]; [[laborious]]; [[toilsome]]
+#: {{zh-x|辛苦|laborious}}
+# [[suffering]]; [[hardship]]; [[misery]]
+#: {{zh-x|辛酸|bitter}}
+# The [[eighth]] of the ten [[heavenly stems]].
+# {{lb|zh|in a list}} [[eighth]]; number 8; VIII
+# {{lb|zh|organic chemistry}} [[octa-]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|千辛百苦|悲辛|備嘗辛苦|千辛萬苦|后辛|不辭辛勞|庚辛|含辛茹苦|停辛佇苦|萬苦千辛|歷盡艱辛|祕辛|戴奧辛|白辛樹|艱辛|細辛|辛丑和約|辛盤|辛亥革命|辛酸|葷辛|辛勤|高辛氏|酸辛|苦辛|辛苦|辛辣|辛辛那提|辛辛苦苦|辛螫|辛巴威|辛安驛|辛夷|辛巴達|辛勞|赫爾辛基|茹苦含辛}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=辛00}}
+
+# [[spicy]]
+# [[bitter]]
+# [[hot]]
+# [[acrid]]
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin)|kun=[[からい]] (karai), [[つらい]] (tsurai), [[かのと]] (kanoto)}}
+
+====Compounds====
+* [[辛党]]
+* [[辛味]]
+* [[辛気]]
+* [[辛気臭い]]
+* [[辛苦]]
+* [[辛酸]]
+* [[辛勝]]
+* [[辛抱]]
+* [[辛辣]]
+* [[辛労]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=신|eumhun=|rv=sin|mr=shin, sin|y=sin}}
+
+# {{defn|lang=ko|sort=辛00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tân]], [[tăn]], [[tơn]], [[tăng]]|rs=辛00}}
+
+# {{defn|lang=vi|sort=辛00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:辛]]
+[[ko:辛]]
+[[li:辛]]
+[[hu:辛]]
+[[mg:辛]]
+[[ms:辛]]
+[[ja:辛]]
+[[no:辛]]
+[[pl:辛]]
+[[pt:辛]]
+[[ru:辛]]
+[[th:辛]]
+[[vi:辛]]
+[[zh:辛]]

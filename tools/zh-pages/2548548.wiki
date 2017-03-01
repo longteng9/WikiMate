@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|けつ|k1=けっ|かい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|けっかい|acc=h|acc_ref=NHK|y=ko}}
+* {{homophone|血塊|lang=ja|sort=けっかい}}
+
+===Noun===
+{{ja-noun|けっかい}}
+# [[collapse]]
+#: {{ja-usex|ダム'''決壊'''の原因は、建設資金の横流しにある。|ダム '''けっかい''' の げんいん は、 けんせつ しきん の よこながし に ある。|The cause of the dam '''collapse''' is corruption.}}
+
+===Verb===
+{{ja-verb-suru|けっかい}}
+
+# [[collapse]]
+#: {{ja-usex|ダムが'''決壊'''した。|ダム が '''けっかい''' した。|The dam collapsed.}}
+
+====Conjugation====
+{{ja-suru|けっかい}}
+
+===References===
+<references/>
+[[mg:決壊]]
+[[zh:決壊]]

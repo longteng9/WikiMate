@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|骋}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=07|sn=17|four=75327|canj=SFLWS|ids=⿰馬甹}}
+
+# (of a [[horse]]) [[gallop]]
+# [[hasten]], [[hurry]]
+# give [[free rein]] to, [[free]] from [[constraint]]s
+
+====References====
+* {{Han ref|kx=1439.280|dkj=44778|dj=1963.380|hdz=74557.060|uh=9A01|ud=39425|bh=C1FE|bd=49662}}
+
+----
+
+==Chinese==
+{{zh-forms|s=骋}}
+
+===Alternative forms===
+* {{zh-l|𩧢}}
+
+===Pronunciation===
+{{zh-pron
+|m=chěng
+|c=ping3,cing2
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬07}}
+
+# {{defn|lang=ja|sort=馬07}}
+
+====Readings====
+* {{ja-readings|goon=[[ちょう]] (chō)|kanon=[[てい]] (tei)|kun=[[はせる]] (haseru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=빙, 정|eumhun=|rv=bing, jeong|mr=ping, chŏng|y=ping, ceng}}
+
+# {{defn|lang=ko|sort=馬07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''騁''' ([[sính]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:騁]]
+[[li:騁]]
+[[hu:騁]]
+[[mg:騁]]
+[[ja:騁]]
+[[pl:騁]]
+[[th:騁]]
+[[zh:騁]]

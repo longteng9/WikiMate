@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms|s=参考}}
+
+===Pronunciation===
+{{zh-pron
+|m=cānkǎo
+|c=caam1 haau2
+|h=pfs=chhâm-kháu
+|md=chăng-kō̤
+|mn=xm,zz,tw:chham-khó/qz:chham-khóⁿ
+|ma=Zh-cankao.ogg
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[reference]]
+
+===Noun===
+{{zh-noun}}
+
+# [[reference]]
+#: {{zh-x|參考 答案|'''reference''' answer}}
+#: {{zh-x|參考 翻譯|'''reference''' translation}}
+
+====Derived terms====
+{{zh-der|參考書|參考文獻|僅供參考}}
+
+{{zh-cat|Elementary}}
+
+[[zh-min-nan:參考]]
+[[ko:參考]]
+[[hu:參考]]
+[[mg:參考]]
+[[ja:參考]]
+[[chr:參考]]

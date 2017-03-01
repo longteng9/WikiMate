@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=bàopò
+|c=baau3 po3
+|mn=xm,zz:po̍k-phò/qz:po̍k-phò͘/tw:po̍k-phòa/twv:pho̍k-phòa
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[blow up]]; to [[demolish]] (using explosives)
+
+====Synonyms====
+* {{qualifier|Min Nan}} {{zh-l|煏破|piak-phòa}}
+
+====Derived terms====
+{{zh-der|爆破小組|爆破筒}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ばく|は|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|ばくは|y=o|acc=0|acc2=1|dev=2|acc_ref=NHK|acc2_ref=NHK}}
+
+===Noun===
+{{ja-noun|ばくは}}
+
+# [[blast]], [[destruction]] by bombing
+
+===Verb===
+{{ja-verb-suru|ばくは}}
+
+# [[blast]], [[destroy]] by bombing
+
+====Conjugation====
+{{ja-suru|ばくは}}
+
+===References===
+<references/>
+
+[[ko:爆破]]
+[[hu:爆破]]
+[[mg:爆破]]
+[[ja:爆破]]
+[[zh:爆破]]

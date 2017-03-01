@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=chūshēnglǜ
+|c=ceot1 sang1 leot6-2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[birthrate]]
+
+====Antonyms====
+* {{zh-l|死亡率}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅつ|しょう|りつ|k1=しゅっ|yomi=on}}
+
+===Etymology===
+{{suffix|出生|率|t1=birth|t2=rate|lang=ja|sort=しゅっしょうりつ}}
+
+===Noun===
+{{ja-noun|しゅっしょうりつ}}
+
+# [[birthrate]]
+
+====Antonyms====
+* [[死亡率]]
+
+[[lo:出生率]]
+[[hu:出生率]]
+[[zh:出生率]]

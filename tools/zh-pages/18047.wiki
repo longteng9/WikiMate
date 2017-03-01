@@ -1,0 +1,55 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=11|sn=15|four=47982|canj=DDLO|ids=⿰木欶}}
+
+# [[shrub]]
+# {{lb|zh|metaphor}} [[superficial]], [[shallow]]
+
+====Usage notes====
+:Both definitions are used in [[樸樕]].
+
+====References====
+* {{Han ref|kx=0550.050|dkj=15435|dj=0938.010|hdz=21276.020|uh=6A15|ud=27157|bh=E5CF|bd=58831}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=sù
+|c=sok3,cuk1
+|mc=y
+|oc=y
+|ma=
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木11}}
+
+# {{defn|lang=ja|sort=木11}}
+
+====Readings====
+* {{ja-readings|on=[[そく]] (soku)|kun=[[しば]] (shiba)}}
+
+[[fr:樕]]
+[[hu:樕]]
+[[pl:樕]]
+[[th:樕]]
+[[zh:樕]]

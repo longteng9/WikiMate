@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|尜}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=11|sn=14|four=61053|canj=RMUI|ids=⿰口戛}}
+
+# [[sound]] of [[laughter]]
+# [[bad]], [[malevolent]]
+
+====References====
+* {{Han ref|kx=0205.150|dkj=04184|dj=0428.090|hdz=10675.060|uh=560E|ud=22030|bh=B9C7|bd=47559}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=gá
+|c=gaa4,gaa1,gat1,gaa2
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+=====Compounds=====
+{{zh-der|嘎兒|嘎叭|嘎吱|嘎啦|嘎嘎|嘎嘎兒|嘎嘎兒天|嘎嘎棗兒|嘎嘎渣渣|嘎巴|嘎巴兒|嘎巴流星|嘎渣兒|嘎調|嘰嘰嘎嘎}}
+
+===Etymology 2===
+{{zh-forms|alt=戛,朒}}
+
+====Pronunciation====
+{{zh-pron
+|m-s=ga3
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{zh-only|嘎嘎|{{lb|zh|Sichuanese|childish}} [[meat]]}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口11}}
+
+# {{defn|lang=ja|sort=口11}}
+
+====Readings====
+* {{ja-readings|on=[[かつ]] (katsu), [[けち]] (kechi)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=알|rv=al|mr=al}}
+
+# {{defn|lang=ko|sort=口11}}
+
+[[fr:嘎]]
+[[li:嘎]]
+[[hu:嘎]]
+[[mg:嘎]]
+[[pl:嘎]]
+[[th:嘎]]
+[[zh:嘎]]

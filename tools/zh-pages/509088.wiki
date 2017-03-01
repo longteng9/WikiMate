@@ -1,0 +1,53 @@
+{{also|线形}}
+==Chinese==
+{{zh-forms|s=线形}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiànxíng
+|c=sin3 jing4
+|mn=sòaⁿ-hêng
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[line]]-shaped; [[linear]]
+# {{lb|zh|attributive|mathematics}} {{zh-alt-name|線性|[[linear]]}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せん|けい|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|せんけい}}
+
+# {{lb|ja|mathematics|sort=せんけいな}} [[linear]]
+
+====Inflection====
+{{ja-na|せんけい}}
+
+===Noun===
+{{ja-noun|せんけい}}
+
+# {{lb|ja|mathematics}} being [[linear]]
+
+====Alternative forms====
+* {{ja-r|線型|せんけい}}
+
+====Antonyms====
+* {{ja-r|非線形|ひせんけい|gloss=nonlinear}}
+
+====Derived terms====
+* {{ja-r|線形性|せんけいせい|gloss=linearity}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Mathematics|せんけい]]
+
+[[mg:線形]]
+[[sv:線形]]
+[[zh:線形]]

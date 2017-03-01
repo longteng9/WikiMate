@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=16|sn=21|four=00186|canj=KHDC|ids=⿸疒積}}
+
+# [[spasms]], [[convulsions]], [[hysteria]]
+
+====References====
+* {{Han ref|kx=0783.011|dkj=22626|dj=1192.210|hdz=42703.141|uh=766A|ud=30314|bh=F5DF|bd=62943}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒16}}
+
+# {{defn|lang=ja|sort=疒16}}
+
+====Readings====
+{{ja-readings|kanyoon=[[しゃく]] (shaku)|kun=[[さしこみ]] (sashikomi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|癇癪|かんしゃく}}
+* {{ja-r|気癪|きじゃく}}
+* {{ja-r|小癪|こしゃく}}
+* {{ja-r|癪に障る|しゃく に さわる}}
+* {{ja-r|癪の種|しゃく の たね}}
+* {{ja-r|癪の虫|しゃく の むし}}
+* {{ja-r|癪持ち|しゃくもち}}
+* {{ja-r|癪を言う|しゃく を いう}}
+* {{ja-r|癪気|しゃっき}}, {{ja-r|癪気|しゃっけ}}
+* {{ja-r|疝癪|せんしゃく}}
+{{der-bottom}}
+
+{{ja-kanjitab|しゃく|yomi=kanyoon}}
+
+===Pronunciation===
+{{ja-pron|yomi=kanyoon|しゃく|acc=0|acc_ref=DJR,NHK}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|しゃく}}
+
+# annoying
+
+====Inflection====
+{{ja-na|しゃく}}
+
+===Noun===
+{{ja-noun|しゃく}}
+
+# cramps
+# annoyance
+
+===References===
+<references/>
+
+[[Category:Japanese-only CJKV Characters|疒+16]]
+
+[[fr:癪]]
+[[hu:癪]]
+[[ja:癪]]
+[[pl:癪]]
+[[th:癪]]
+[[zh:癪]]

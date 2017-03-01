@@ -1,0 +1,54 @@
+{{character info/new}}
+{{also|體}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=158|rad=身|as=05|sn=12|four=|canj=HHDM}}
+
+# [[body]]
+# [[group]], [[class]], [[body]], [[unit]]
+
+====References====
+* {{Han ref|kx=1237.230|dkj=38065|dj=1711.030|hdz=63809.120|uh=8EB0|ud=36528}}
+
+----
+
+==Chinese==
+{{zh-see|體|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=身05}}
+
+# {{l|en|body}}
+# {{l|en|shape}}
+
+====Readings====
+{{ja-readings
+|goon=[[たい]] (tai)
+|kanon=[[てい]] (tei)
+|kun=[[からだ]] (karada), [[かたち]] (katachi)
+}}
+
+===Noun===
+{{ja-kanjitab|からだ|yomi=kun}}
+{{ja-noun|からだ}}
+
+# {{alternative form of|lang=ja|体}}: {{l|en|body}}
+
+===Noun===
+{{ja-kanjitab|かたち|yomi=kun}}
+{{ja-noun|かたち}}
+
+# {{lb|ja|sort=かたち|rare}} {{alternative form of|lang=ja|形}}: {{l|en|shape}}
+
+[[fr:躰]]
+[[hu:躰]]
+[[mg:躰]]
+[[ja:躰]]
+[[pl:躰]]
+[[th:躰]]
+[[zh:躰]]

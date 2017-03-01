@@ -1,0 +1,121 @@
+{{character info/new}}
+{{also|柰}}
+==Translingual==
+
+===Etymology===
+A variant of [[柰]].
+
+===Han character===
+{{Han char|rn=37|rad=大|as=05|sn=8|four=40901|canj=KMMF|ids=⿱大示}}
+
+====Derived characters====
+* [[捺]]
+
+====Descendants====
+* [[な]]
+* [[ナ]]
+
+====References====
+* {{Han ref|kx=0251.010|dkj=05893|dj=0511.010|hdz=10532.020|uh=5948|ud=22856|bh=A960|bd=43360}}
+
+[[Category:Han characters from which hiragana were derived|な]]
+[[Category:Han characters from which katakana were derived|ナ]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=nài
+|c=noi6
+|h=pfs=nai
+|mn=nāi/xm,tw:ta/zz:tai/qz:tā
+|mn_note=nāi - literary; ta/tai/tā - vernacular (limited, e.g. {{zh-l|*無奈何}})
+|mc=y
+|oc=y
+|ma=
+|cat=adv,v,pref
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[how]], [[why]] (used in [[rhetorical question]]s)
+# [[bear]], [[stand]], [[endure]]
+# The [[Appendix:SI units|SI unit]] prefix [[nano-]]
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=凵03}}
+
+# {{abbreviation of|lang=ja|sort=な|奈良|nodot=1}}: the city of [[Nara]]
+# [[what]]
+# {{lb|ja|sort=からなし|obsolete}} [[apple tree]]
+
+====Readings====
+{{ja-readings
+|goon=[[な]] (na), [[ない]] (nai)
+|kanon=[[だ]] (da), [[だい]] (dai)
+|kun=[[いかん]] (ikan), [[からなし]] (karanashi)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[내]], [[나]]|rv=nae, na|mr=nae, na}}
+
+# {{defn|lang=ko|sort=大05}}
+
+----
+
+==Old Japanese==
+
+===Alternative forms===
+* {{l|ojp|魚}}
+
+===Noun===
+{{head|ojp|noun|tr=na|kana|な}}
+
+# [[fish]]
+#* {{RQ:Man'yōshū|5|869}}
+#*: {{lang|ja|多良志比賣 可尾能美許等能 '''奈'''都良須等 美多々志世利斯 伊志遠多礼美吉}}
+#*: {{lang|ja|足姫　神の命の　'''魚'''釣らすと　み立たしせりし　石を誰れ見き}}
+#*:: {{lang|ja|たらしひめ　かみのみことの　'''な'''つらすと　みたたしせりし　いしをたれみき}}
+#*:: ''tarashi hime kami no mikoto no '''na''' tsurasu to mi-tatashi serishi ishi wo tare miki''
+#*::: who saw the rock that rose up against us as we tried to catch the '''fish''' belonging to the empress?
+
+====Descendants====
+* Japanese: {{l|ja|魚|tr=na}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nại]], [[nhự]]|rs=大05}}
+
+# {{defn|lang=vi|sort=大05}}
+
+[[fr:奈]]
+[[ko:奈]]
+[[li:奈]]
+[[hu:奈]]
+[[mg:奈]]
+[[ja:奈]]
+[[no:奈]]
+[[pl:奈]]
+[[th:奈]]
+[[zh:奈]]

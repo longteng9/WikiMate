@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=07|sn=11|four=33302|canj=YIJB}}
+
+# flee, run away, leave debt unsettled
+
+====References====
+* {{Han ref|kx=1257.080|dkj=38871|dj=1742.110|hdz=63837.010|uh=900B|ud=36875|bh=D7E3|bd=55267}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bū
+|c=bou1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|宿逋|林逋|畢逋|逋人|逋客|逋峭|逋慢|逋懸|逋播|逋民|逋留|逋租|逋脫|逋蕩|逋負|逋逃|逋逃藪|逋髮}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辵07}}
+
+# {{defn|lang=ja|sort=辵07}}
+
+====Readings====
+* {{ja-readings|on=[[ほ]] (ho), [[ふ]] (fu)|kun=[[のがれる]] (nogareru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=포|eumhun=|rv=po|mr=p'o|y=pho}}
+
+# {{defn|lang=ko|sort=辵07}}
+
+[[fr:逋]]
+[[ko:逋]]
+[[hu:逋]]
+[[mg:逋]]
+[[ja:逋]]
+[[pl:逋]]
+[[th:逋]]
+[[zh:逋]]

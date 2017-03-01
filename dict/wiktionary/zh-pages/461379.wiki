@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|ほ|だい|yomi=on}}
+
+===Etymology===
+{{rfe|lang=ja}}
+
+===Noun===
+{{ja-noun|ほだい}}
+
+# {{lb|ja|mathematics|sort=ほだい}} {{l|en|lemma}}
+
+====Synonyms====
+* {{ja-r|補助定理|ほじょ ていり}}
+
+===See also===
+* {{ja-r|定理|ていり}}: theorem
+
+===References===
+* {{R:Kojien}}
+
+[[it:補題]]
+[[zh:補題]]

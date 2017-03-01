@@ -1,0 +1,135 @@
+{{character info/new}}
+{{also|亿}}<!-- may be replaced by zh-forms -->
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|人|意|c1=s|c2=p|ls=psc}}.
+
+===Han character===
+{{Han char|rn=9|rad=人|as=13|sn=15|four=20236|canj=OYTP|ids=⿰亻意}}
+
+====See also====
+* ''Chinese Numeral'' '''億'''
+*: '''Last:''' [[万]], [[萬]]; '''Next:''' [[兆]].
+
+====References====
+* {{Han ref|kx=0118.270|dkj=01178|dj=0252.010|hdz=10227.060|uh=5104|ud=20740|bh=BBF5|bd=48117}}
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Chinese==
+{{zh-forms|s=亿}}
+{{cardinalbox|zh|9999,9999|1,0000,0000|1,0000,0001}}
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|ma=y
+|c=jik1
+|h=pfs=yi/n:yit
+|mn=xm,zz,tp,kh:ek/qz:iak
+|mn-t=êg8
+|w=3hhi
+|mc=y
+|oc=y
+|cat=num,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[hundred]] [[million]], 100,000,000, 100×10<big>⁶</big>, 1×10<big>⁸</big>
+# {{lb|zh|obsolete}} [[hundred]] [[thousand]], 100,000, 100×10<big>³</big>, 1×10<big>⁵</big>
+# [[many]]
+# {{surname|lang=zh}}
+
+====See also====
+{{Chinese-numbers}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Noun===
+{{ja-noun|おく}}
+# a [[hundred]] [[million]], 10<sup>8</sup>
+
+====Pronunciation====
+{{ja-pron|おく|acc=1|acc_ref=SMK2,NHK}}
+
+====Derived terms====
+* [[億ション]]
+
+===Kanji===
+{{ja-kanji|grade=4|rs=人13}}
+
+====Readings====
+* {{ja-readings|goon=[[おく]] (oku)|kanon=[[よく]] (yoku)|nanori=[[お]] (o), [[かた]] (kata)}}
+
+====Compounds====
+{{top4}}
+* [[巨億]]
+* [[億劫]]
+{{mid4}}
+* [[億兆]]
+{{mid4}}
+* [[十万億土]]
+{{mid4}}
+* [[億万]]
+{{bottom}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|おく]]
+[[Category:Japanese numeral symbols| e]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=억|mr=ŏk}}
+
+===Noun===
+{{ko-noun|hangeul=억}}
+
+# {{hanja form of|억|a [[hundred]] [[million]], 10<sup>8</sup>}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|ức|rs=人13}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|ức|a [[hundred]] [[million]], 10<sup>8</sup>}}
+
+[[zh-min-nan:億]]
+[[cs:億]]
+[[de:億]]
+[[es:億]]
+[[fr:億]]
+[[ko:億]]
+[[ky:億]]
+[[lo:億]]
+[[li:億]]
+[[hu:億]]
+[[mg:億]]
+[[ms:億]]
+[[ja:億]]
+[[pl:億]]
+[[fi:億]]
+[[sv:億]]
+[[th:億]]
+[[vi:億]]
+[[zh:億]]

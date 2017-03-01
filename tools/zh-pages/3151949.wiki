@@ -1,0 +1,66 @@
+{{also|无形}}
+==Chinese==
+{{zh-forms|s=无形}}
+
+===Pronunciation===
+{{zh-pron
+|m=wúxíng
+|c=mou4 jing4
+|mn=bû-hêng/tw:bô-hêng
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[invisible]]; [[intangible]]; [[formless]]
+
+====Antonyms====
+* {{zh-l|有形}}
+
+===Derived terms===
+{{zh-der|無形損耗|無形中|無形資產}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|む|ぎょう|yomi=o}}
+From {{etyl|ltc|ja|sort=むぎょう}} compound {{m|zh|無形|tr=mju heng|lit=without shape}}. The [[呉音#Japanese|''goon'']], so likely the initial borrowing.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|むぎょう|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|むぎょう|hhira=むぎやう}}
+
+# {{lb|ja|Buddhism|sort=むぎょう}}: [[formlessness]], [[bodylessness]]; something that is [[shapeless]] and [[invisible]]
+
+===Etymology 2===
+{{ja-kanjitab|む|けい|yomi=o}}
+From {{etyl|ltc|ja|sort=むぎょう}} compound {{m|zh|無形|tr=mju heng|lit=without shape}}. A combined reading, using the [[呉音#Japanese|''goon'']] for {{m|ja|無|tr=mu}} but the [[漢音#Japanese|''kan'on'']] for {{m|ja|形|tr=kei}}, so this reading likely represents a later development in Japan.
+
+===Pronunciation===
+{{ja-pron|yomi=on|むけい|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|むけい}}
+
+# [[formlessness]], [[shapelessness]], [[invisibility]], [[intangibility]], [[incorporeality]]
+#: {{ja-usex|'''無形'''の力、'''無形'''固定資産|'''むけい''' の ちから、 '''むけい''' こてい しさん|an '''invisible''' force, '''intangible''' fixed assets}}
+
+=====Antonyms=====
+* {{ja-r|有形|ゆうけい}}: [[tangible]], having a [[shape]] or [[form]]
+
+=====See also=====
+* {{ja-r|無見|むけん}}: the belief that everything in this world is [[null]] and [[void]], without [[substance]]
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+[[zh-min-nan:無形]]
+[[ko:無形]]
+[[mg:無形]]
+[[zh:無形]]

@@ -1,0 +1,23 @@
+{{also|伊妹儿地址}}
+==Chinese==
+{{zh-forms|s=伊妹儿地址|type=32}}
+
+===Etymology===
+From {{zh-l|伊妹兒}} ([[transliteration]] of {{etyl|en|zh}} {{m|en|e-mail}}) + {{zh-l|地址|address}}, a partial [[calque]] of {{etyl|en|zh}} {{m|en|e-mail address}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yīmèir dìzhǐ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[e-mail address]]
+
+====Synonyms====
+* {{zh-l|電子郵件地址}}
+* {{zh-l|電郵地址}}
+
+{{zh-cat|Computing}}

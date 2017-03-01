@@ -1,0 +1,49 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+From {{der|zh|ja|-}} {{ja-r|高雄|たかお}} with the creation of Takao Prefecture in 1920, from {{der|zh|nan|-}} {{zh-m|打狗|Táⁿ-káu}}, from {{der|zh|fos|takau|gloss=bamboo forest}}.
+
+===Pronunciation===
+{{zh-pron
+|m=Gāoxióng
+|c=gou1 hung4
+|h=pfs=Kô-kiùng
+|md=Gŏ̤-hṳ̀ng
+|mn=Ko-hiông
+|mna=Taiwanese-Alternation1to7Word.ogg
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# [[Kaohsiung]] (a city located in southwestern [[Taiwan]])
+
+[[Category:Chinese twice-borrowed terms]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|たか|お|yomi=k}}
+
+===Etymology 1===
+
+====Proper noun====
+{{ja-pos|proper|たかお}}
+
+# {{given name|male|lang=ja|sort=たかお}}
+
+===Etymology 2===
+From {{der|ja|nan|打狗|tr=Tá-káu}}.
+
+====Proper noun====
+{{ja-pos|proper|たかお}}
+
+# [[Kaohsiung]] (a city located in southwestern [[Taiwan]])
+
+[[Category:ja:Cities|たかお]]
+
+[[zh-min-nan:高雄]]
+[[ja:高雄]]
+[[zh:高雄]]

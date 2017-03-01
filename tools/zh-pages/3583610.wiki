@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=páichì
+|c=paai4 cik1
+|h=pfs=phài-chhṳt
+|mn=qz:pâi-thiak/tw,xm,zz:pâi-thek/twv:pâi-the̍k
+|ma=Zh-páichì.ogg
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+# to [[reject]], to [[exclude]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|はい|せき|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|はいせき|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はいせき}}
+
+# [[rejection]], [[exclusion]], [[boycott]]
+
+===Verb===
+{{ja-verb-suru|はいせき}}
+
+# [[reject]], [[exclude]], boycott
+
+====Conjugation====
+{{ja-suru|はいせき}}
+
+===References===
+<references/>
+
+[[ko:排斥]]
+[[hu:排斥]]
+[[mg:排斥]]
+[[ja:排斥]]
+[[zh:排斥]]

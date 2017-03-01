@@ -1,0 +1,154 @@
+{{character info/new}}
+{{also|昰}}
+==Translingual==
+{{stroke order|strokes=9}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=72|rad=日|as=05|sn=9|four=60801|canj=AMYO|ids=⿱日⿱一龰}}
+
+====Derived characters====
+* [[提]]
+
+====References====
+* {{Han ref|kx=0493.260|dkj=13859|dj=0858.060|hdz=21497.050|uh=662F|ud=26159|bh=AC4F|bd=44111}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|早|正|ls=ic}}, logic of compound unclear. It has been suggested that {{zh-l|*早}} looks like a spoon, so {{zh-l|*是}} may have been the original character for {{och-l|匙|spoon}}. As early as in late bronze inscriptions, {{zh-l|*早}} was replaced with {{zh-l|*日}} to give {{zh-l|*昰}}, which carried over to the small seal script, and ''{{w|Shuowen}}'' considers this a compound of {{zh-l|*日}} + {{zh-l|*正}} (i.e. “right” as the upright sun).
+
+===Etymology===
+“This [an independent pronoun] > be right, correct, to be, so”. From {{inh|zh|sit-pro|*m-daj ~ *m-di||that; this}}. Cognate with {{cog|bo|དེ||that}}, {{cog|kac|dai}}, {{m|kac|ndai||this}}.
+
+Cognate with {{och-l|寔|this}}, {{och-l|實|this}} and {{och-l|諟|to examine, to consider}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shì
+|c=si6
+|h=pfs=sṳ
+|md=sê
+|mn=qz,lk:sǐ/tw,xm,zz:sī
+|mn-t=si6
+|mc=y
+|oc=y
+|w=3zr
+|ma=y
+|cat=v,n,a,adv,det,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|obsolete}} [[this]]; this [[thing]]
+#* {{zh-x|是日|'''this''' day}}
+#* {{zh-x|是 可 忍 ， 孰 不 可 忍 ？|If '''this''' can be tolerated, what cannot?|ref=Analects}}
+# {{lb|zh|copulative}} to be.
+## {{n-g|indicating that the subject and object are the same.}}
+##: {{zh-x|泰晤士河 是 ^英國 第二 長 的 河流。|The River Thames '''is''' the second longest river in the UK.}}
+## {{n-g|indicating that the subject has the qualities described by a noun or noun phrase.}}
+##: {{zh-x|我 是 老師|I '''am''' a teacher}}
+##: {{zh-x|我 是 中國人|I '''am''' Chinese.}}
+## {{n-g|indicating a place being occupied by the object, where the place forms the subject.}}
+##: {{zh-x|房子 前面 是 禾場。|The threshing floor '''is''' in front of the house.}}
+##: {{zh-x|到處 都 是|to '''be''' everywhere}}
+# {{n-g|a particle emphasizing the word following it.}}
+#: {{zh-x|我 是 昨天 買 的 票。|'''It was''' yesterday when I bought the ticket.}}
+#: {{zh-x|我 買 票 是 在 昨天。|'''It was''' yesterday when I bought the ticket.}}
+# {{n-g|a particle showing agreement. In this meaning, 是 is stressed.}} [[truly]]; [[indeed]].
+#: {{zh-x|天氣 是 冷。|It is '''indeed''' cold.}}
+#: {{zh-x|是 ， 長{zhǎng}官 。|'''Yes''', sir.}}
+# {{lb|zh|only in compounds}} [[true]], [[correct]]
+#* {{zh-x|不是|fault; mistake; wrongdoing}}
+#* {{zh-x|你 說 得{de} 是|What you said is '''right'''}}
+#* {{zh-x|各 行 其 是|to have each going his own way, i.e., doing what he considers '''right'''}}
+#* {{zh-x|共 商 國 是|to discuss national affairs }} (This is a fossil word from Ancient Chinese where 是 originally means "what is right (for the country)", i.e., "laws and policies")
+# {{surname|lang=zh}}
+
+====Usage notes====
+{{hide box|Usage notes|align=left|
+When translated as "[[be|to be]]", {{lang|zh|是}} is used only to link two nouns or nominal expressions.
+: {{zh-x|我 是 老師|I '''am''' a teacher}}
+: {{zh-x|泰晤士河 是 ^英國 第二 長 的 河流。|The River Thames '''is''' the second longest river in the UK.}}
+{{lang|zh|是}} cannot be used to link a noun and an adjective. The following sentence is wrong:
+: {{zh-x|這 是 好|*This '''is''' good}}
+The correct sentence is
+: {{zh-x|這 很 好|This '''is (very)''' good}}
+Here, {{zh-l|很}} is used as a filler to link a noun and an adjective and is not interpreted as "very". Not using it would sound unnatural.
+A way to use {{lang|zh|是}} with an adjective is to use {{zh-l|的}} after the adjective to turn it into a noun.
+: {{zh-x|那 隻 猫 是 黑 的|This cat is black (This cat is a black one)}}}}
+
+====Synonyms====
+{{zh-dial|是}}
+
+====Compounds====
+{{zh-der|是不是|是以|是否|是啥說啥|是故|是的|是非|是非不分|是非分明|是非曲直|是非自有公論|是非莫辨|乃是|也就是|事實求是|事求是|但是|便是|倒是|值得注意的是|假假若是|光是|凡是|利是|原因是|只是|可不是|可是|多得是|如是|實事求是|尤其是|就是|或是|於是|既是|有的是|橫是|正是|比比皆是|求是|為的是|煞是|獨行其是|盡是|硬是|確是|積非成是|算是|總是|老是|而是|自以為是|自行其是|若是|莫不是|莫衷一是|要不是|要是|賠不是|還是|那倒是|那是|重要的是|雖是}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=日05}}
+
+# justice, right
+
+====Readings====
+* {{ja-readings|goon=[[ぜ]] (ze)|nanori=[[これ]] (kore), [[すなお]] (sunao), [[ただし]] (tadashi), [[つな]] (tsuna), [[ゆき]] (yuki), [[よし]] (yoshi)|kanon=[[し]] (shi)|kun=[[これ]] (kore), [[この]] (kono), [[ここ]] (koko)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=시|eumhun=바를|rv=|mr=si|y=si}}
+
+# {{defn|lang=ko|sort=日05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thị]]|rs=日05}}
+
+# {{defn|lang=vi|sort=日05}}
+
+[[zh-min-nan:是]]
+[[da:是]]
+[[de:是]]
+[[et:是]]
+[[el:是]]
+[[fr:是]]
+[[ko:是]]
+[[it:是]]
+[[li:是]]
+[[hu:是]]
+[[mg:是]]
+[[ms:是]]
+[[fj:是]]
+[[nl:是]]
+[[ja:是]]
+[[no:是]]
+[[nn:是]]
+[[pl:是]]
+[[sk:是]]
+[[sr:是]]
+[[fi:是]]
+[[ta:是]]
+[[th:是]]
+[[chr:是]]
+[[tr:是]]
+[[uk:是]]
+[[vi:是]]
+[[zh:是]]

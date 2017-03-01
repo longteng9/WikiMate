@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms|s=梦中}}
+
+===Pronunciation===
+{{zh-pron
+|m=mèngzhōng
+|c=mung6 zung1
+|h=pfs=mung-chûng
+|cat=adv
+}}
+
+===Adverb===
+{{zh-adv}}
+
+# in a [[dream]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|む|ちゅう|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|むちゅう}}
+
+# [[absorbed]] {{gloss|fully occupied with one's thoughts; engrossed}}
+#: {{ja-usex|子どもが夢中で遊んでいる|こども が むちゅう で あそんでいる|the children are completely absorbed in playing}}
+
+====Inflection====
+{{ja-na|むちゅう}}
+
+===Noun===
+{{ja-noun|むちゅう}}
+
+# a [[trance]], [[absorption]] in something or someone
+#: {{ja-usex|ゲームアプリに夢中になる|ゲーム アプリ に むちゅう に なる|become totally absorbed in a gaming app}}
+
+[[zh-min-nan:夢中]]
+[[ko:夢中]]
+[[mg:夢中]]
+[[ja:夢中]]
+[[zh:夢中]]

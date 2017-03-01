@@ -1,0 +1,108 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=53|rad=广|as=10|sn=13|four=00237|canj=ITXC|ids=⿸广兼}}
+
+# [[clean]], [[upright]], [[honorable]], [[honest]]
+# [[inexpensive]]
+
+====Synonyms====
+* {{sense|clean}} {{l|mul|清}}, {{l|mul|潔}}
+
+====Antonyms====
+* {{sense|inexpensive}} {{l|mul|貴}}
+
+====Derived characters====
+* [[濂]], [[嬚]], [[燫]], [[臁]], [[鐮]] ([[镰]]), [[蠊]], [[譧]], [[劆]], [[薕]], [[簾]]
+
+====See also====
+* {{l|mul|亷}}
+
+====References====
+* {{Han ref|kx=0349.080|dkj=09436|dj=0659.320|hdz=20896.010|uh=5EC9|ud=24265|bh=B747|bd=46919}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{l|zh|亷}}, {{l|zh|㢘}}, {{l|zh|槏}}, {{l|zh|𠪊}}, {{l|zh|𤎉}}, {{l|zh|𠪕}}, {{l|zh|𢉧}}, {{l|zh|𢋯}}, {{l|zh|𠔳}}
+
+===Pronunciation===
+{{zh-pron
+|m=lián
+|c=lim4
+|mn=liâm
+|h=pfs=liàm
+|mc=y
+|oc=y
+|ma=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=广10}}
+
+====Readings====
+* {{ja-readings|on=[[れん]] (ren)|kun=[[かど]] (kado), [[やすい]] (yasui)}}
+
+===Noun===
+{{ja-noun|かど}}
+
+# [[grounds]], [[suspicion]]
+
+===Proper noun===
+{{ja-pos|proper|れん}}
+
+# {{given name|male|or=female|lang=ja|sort=れん}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 廉]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=렴|rv=ryeom|mr=ryŏm|y=lyem}}
+
+====Definitions====
+
+# honest, pure
+# to spy on
+
+====Compounds====
+
+# [[淸廉]] ([[청렴]])
+# [[廉探]] ([[염탐]])
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[liêm]], [[rèm]]|rs=广10}}
+
+# {{defn|lang=vi|sort=广10}}
+
+[[fr:廉]]
+[[ko:廉]]
+[[li:廉]]
+[[hu:廉]]
+[[mg:廉]]
+[[ja:廉]]
+[[no:廉]]
+[[pl:廉]]
+[[th:廉]]
+[[zh:廉]]

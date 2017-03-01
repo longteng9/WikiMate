@@ -1,0 +1,51 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=15|sn=19|four=41947|canj=DMBE|ids=⿰木憂}}
+
+# a [[type]] of [[hoe]]
+
+====References====
+* {{Han ref|kx=0559.290|dkj=15787|dj=0949.040|hdz=21313.040|uh=6ACC|ud=27340|bh=F24E|bd=62030}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yōu
+|c=jau1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木15}}
+
+# {{defn|lang=ja|sort=木15}}
+
+====Readings====
+* {{ja-readings|on=[[ゆう]] (yū), [[う]] (u)|kun=[[ならす]] (narasu)}}
+
+[[fr:櫌]]
+[[hu:櫌]]
+[[pl:櫌]]
+[[th:櫌]]
+[[zh:櫌]]

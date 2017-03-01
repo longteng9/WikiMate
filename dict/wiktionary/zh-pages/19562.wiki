@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|澂}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=12|sn=15|four=32118|canj=ENOT}}
+
+# purify water by allowing sediment to settle
+# [[clear]], [[pure]]
+
+====References====
+* {{Han ref|kx=0651.240|dkj=18315|dj=1061.260|hdz=31750.060|uh=6F84|ud=28548|bh=BCE1|bd=48353}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|alt1=氵|t1=water|登|ls=psc|c1=s|c2=p}} – clear water.
+
+===Pronunciation===
+{{zh-pron
+|m=chéng
+|c=cing4,dang6
+|h=pfs=chhṳ̀n
+|mn=têng
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|佛圖澄|吳澄|掏澄|攬轡澄清|泓澄|淘澄|淘澄飛跌|清澄|澄心|澄心堂紙|澄思寂慮|澄明|澄泥硯|澄淨|澄清|澄清天下|澄清湖|澄源正本|澄澈|澄澹精致|澄瑩|澄空|澄觀|澄邁縣|碧澄澄|空水澄鮮|端本澄源|許景澄|黃澄澄}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水12}}
+
+# {{defn|lang=ja|sort=水12}}
+
+====Readings====
+* {{ja-readings|goon=[[じょう]] (jō)|kanon=[[ちょう]] (chō)|kun=[[すむ]] (sumu), [[すます]] (sumasu), [[すみ]] (sumi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=징|eumhun=|rv=jing|mr=ching|y=cing}}
+
+# {{defn|lang=ko|sort=水12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trừng]], [[chừng]], [[xừng]]|rs=水12}}
+
+# {{defn|lang=vi|sort=水12}}
+
+[[fr:澄]]
+[[hu:澄]]
+[[mg:澄]]
+[[ms:澄]]
+[[ja:澄]]
+[[no:澄]]
+[[pl:澄]]
+[[th:澄]]
+[[zh:澄]]

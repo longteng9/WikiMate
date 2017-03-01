@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=06|sn=9|four=54027|canj=QKMS|ids=⿰扌夸}}
+
+# [[carry]]
+
+====References====
+* {{Han ref|kx=0430.130|dkj=12051|dj=0780.060|hdz=31868.040|uh=630E|ud=25358|bh=CED8|bd=52952}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=kuà
+|m-s=kua3
+|c=kwaa3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=
+|oc=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+# to carry (esp. [[slung]] over the arm, shoulder or side)
+# {{lb|zh|Sichuan}} to get [[undressed]]
+
+===Synonyms===
+* {{qualifier|Standard Mandarin}} {{zh-l|脫}} (sense 2)
+
+===Etymology 2===
+{{rfv}}
+====Pronunciation====
+{{zh-pron
+|m=kū
+|c=fu1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+{{attention|zh|check pronunciation distribution}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|khoá|rs=手06}}
+
+# {{defn|lang=vi|sort=手06}}
+
+[[fr:挎]]
+[[hu:挎]]
+[[mg:挎]]
+[[no:挎]]
+[[pl:挎]]
+[[th:挎]]
+[[zh:挎]]

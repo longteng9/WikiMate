@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chūqín
+|c=ceot1 kan4
+|mn=xm,qz,zz,tp:chhut-khûn/kh:chhut-khîn
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to go to work; to start work; to show up on time for work
+# to be out on [[duty]]
+# to take a [[business trip]]
+
+====See also====
+* {{zh-l|上班}}
+* {{zh-l|出差}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅつ|きん|k1=しゅっ|yomi=on}}
+
+===Noun===
+{{ja-noun|しゅっきん}}
+
+# going to work
+
+===Verb===
+{{ja-verb-suru|しゅっきん}}
+
+# go to work
+
+====Conjugation====
+{{ja-suru|しゅっきん}}
+
+----
+
+==Korean==
+
+===Noun===
+{{ko-noun|hangeul=출근}}
+
+# {{hanja form of|출근|going to [[work]]}}
+
+[[zh-min-nan:出勤]]
+[[hu:出勤]]
+[[zh:出勤]]

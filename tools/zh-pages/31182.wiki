@@ -1,0 +1,154 @@
+{{character info/new}}
+{{also|额}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=181|rad=頁|as=09|sn=18|four=31686|canj=JRMBC|ids=⿰客頁}}
+
+====Descendants====
+* [[额]]
+
+====References====
+* {{Han ref|kx=1406.400|dkj=43586|dj=1924.170|hdz=74384.040|uh=984D|ud=38989|bh=C342|bd=49986}}
+
+----
+
+==Chinese==
+{{zh-forms|s=额}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|客|頁|t2=head|ls=psc|c1=p|c2=s}} – the front of the head.
+
+===Pronunciation===
+{{zh-pron
+|m=é
+|m-s=nge2
+|c=ngaak6,ngaak6-2
+|h=pfs=ngiak
+|md=ngiăh*ngiĕh/ngiăh
+|md_note=ngiăh*ngiĕh - "forehead"; ngiăh - "board; amount"
+|mn=gia̍h/hia̍h
+|w=
+|mc=y
+|oc=y
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[forehead]]
+# [[top]] [[part]]
+# [[horizontal]] [[inscribed]] [[board]]; [[tablet]], [[plaque]]
+# [[amount]]
+
+===Compounds===
+{{zh-der|以手加額|低額|信用額度|免稅額|全額|全額交割|兵額|凸額|前額|匾額|名額|員額|增額國代|大額|學額|定額|寬減額|小額|巨額|差額|差額選舉|扁額|扣除額|投資額|抹額|數額|榜額|款額|毛額|浮額|溢額|滿額|焦頭爛額|燋頭爛額|營業額|爛額焦頭|獎額|產額|疾首蹙額|白額虎|白額雁|碑額|票額|稅額|空額|篆額|總額|缺額|舉手加額|舉手扣額|貂覆額|貿易差額|貿易額|資本額|超額|超額貸款|足額|蹙額|蹙額愁眉|蹙額顰眉|輓額|進口配額|逾額|配額|金額|鉅額|銅頭鐵額|限額|面額|題額|額分|額外|額外之人|額子|額定|額度|額徵|額我略曆|額手|額手稱慶|額手稱頌|額支|額數|額滿|額濟納河|額爾德尼|額角|額頭|額顱|額風痧|額駙|額黃|顰眉蹙額|餘額|餘額交割|高額|點額|龍門點額}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=頁09}}
+
+# {{defn|lang=ja|sort=頁09}}
+
+====Readings====
+{{ja-readings|goon=[[ぎゃく]] (gyaku)|kanon=[[がく]] (gaku)|kun=[[ひたい]] (hitai), [[ぬか]] (nuka)}}
+
+====Compounds====
+* {{ja-r|猫額|びょうがく}}: [[cat]]'s [[forehead]], [[tininess]] as that of a cat's forehead
+
+===Etymology 1===
+{{ja-kanjitab|ひたい|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|ひたい|acc=0|dev=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|ひたい|hhira=ひたひ}}
+
+# [[forehead]]
+
+=====Synonyms=====
+* {{ja-r|お凸|おでこ}}
+* {{ja-r|凸|でこ}}
+
+=====Derived terms=====
+* {{ja-r|猫の額|ねこ の ひたい}}: [[tininess]]
+* {{ja-r|猫額|ねこびたい}}: [[tininess]]
+
+===Etymology 2===
+{{ja-kanjitab|がく|yomi=o}}
+From {{etyl|ltc|ja|sort=かく'}} {{m|zh|額|tr=ngæk}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|がく|acc=0|acc_ref=DJR,NHK|acc2=2|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|がく}}
+
+# [[framed]] [[picture]]
+# [[sum]], [[amount]]
+
+=====Derived terms=====
+* {{ja-r|額銘|がくめい}}: (''swords'') an [[inscription]] where a blade is shortened and a rectangular metal piece bearing the original inscription is cut out from the removed portion and [[embed]]ded in the new [[tang]]
+
+===Etymology 3===
+{{ja-kanjitab|ぬか|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|ぬか}}
+
+====Noun====
+{{ja-noun|ぬか}}
+
+# [[forehead]]
+# [[kowtowing]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|額を突く|ぬか を つく}}: [[kowtow]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Anatomy|ひたい]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=액|eumhun=|rv=aek|mr=aek|y=ayk}}
+
+# {{defn|lang=ko|sort=頁09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngạch]], [[nghệch]], [[nghách]], [[nghạch]]|rs=頁09}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:額]]
+[[et:額]]
+[[fr:額]]
+[[ko:額]]
+[[lo:額]]
+[[lt:額]]
+[[li:額]]
+[[hu:額]]
+[[mg:額]]
+[[ja:額]]
+[[pl:額]]
+[[ru:額]]
+[[sv:額]]
+[[th:額]]
+[[chr:額]]
+[[vi:額]]
+[[zh:額]]

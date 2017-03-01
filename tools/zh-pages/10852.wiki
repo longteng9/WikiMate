@@ -1,0 +1,148 @@
+{{character info/new}}
+{{also|便}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=06|sn=8|four=25206|canj=OJLK|ids=⿰亻吏}}
+
+# [[cause]], [[send]] on a [[mission]], [[order]]
+# [[envoy]], [[messenger]], [[ambassador]]
+
+====References====
+* {{Han ref|kx=0101.050|dkj=00573|dj=0213.120|hdz=10145.020|uh=4F7F|ud=20351|bh=A8CF|bd=43215}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=駛:''sai2''; Cantonese “need”,洗:''sai2''; Cantonese “need”}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|吏|ls=psc|c1=s|c2=p|alt1=亻}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=shǐ
+|c=sai2,si2
+|c_note=sai2 - vernacular; si2 - literary
+|h=pfs=sṳ́
+|md=sāi/sṳ̄
+|md_note=sāi - vernacular; sṳ̄ - literary
+|mn=sái/xm,zz,tw:sú/qz:sír
+|mn_note=sái - vernacular; sú/sír - literary
+|mn-t=sai2
+|w=2sr
+|mc=1
+|oc=1,1
+|cat=v,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[order]] to do
+# to [[send]]; to [[dispatch]]
+# to [[let]]; to [[make]]; to [[cause]] to
+# to [[use]]; to [[employ]]
+# to [[play]]; to play with; to [[resort]] to; to [[dally]] with
+# to [[indulge]]
+# {{lb|zh|Cantonese}} [[need]] to [do something]; [[have to]]
+#: {{zh-x|你 唔使 攞{lo2} 咁 多！|You don't need to get so much!|C}}
+# {{lb|zh|Cantonese}} [[need]] [something]; [[require]]; [[want]] [[strongly]]
+
+=====Synonyms=====
+* {{qualifier|Cantonese}} {{sense|need}} {{zh-l|需要}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=shǐ,shì,2nb=rare variant
+|c=si3
+|h=pfs=sṳ́
+|md=sái/sé̤ṳ
+|md_note=sái - vernacular; sé̤ṳ - literary
+|mn=sài/xm,zz,tw:sù/qz:sìr
+|mn_note=sài - vernacular; sù/sìr - literary
+|mn-t=sai3
+|w=2sr
+|mc=2
+|oc=2,2
+|cat=v,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|historical}} to [[send]] as an [[envoy]] [[abroad]]
+# [[envoy]]; [[messenger]]
+
+===Compounds===
+{{zh-der|使用|使得|唔使|唔使客氣|使乜|使錢|使巧兒|使數|使君子|倘使|借使|官使|使館|公使館|公使團|使用借貸|使費|使心作倖|使嘴使舌|動使|不聽使|使命|僕使|使心眼兒|呼奴使婢|不中使|中使|使性子|器使|任賢使能|使用率|和平使者|使乖|使臣|向使|使心用腹|使用錢|唆使|使女|假使|使喚|密使|五瘟使|但使|來使|庫大使|使蚊負山|小使|信使|使長|使酒|公使|廉使|占風使帆|奉使|使脾氣|使君|役使動物|使君有婦|使眼色|使節團|三司使|君臣佐使|大使|不聽使喚|內使|使絆子|勾使鬼|布政使|使貪使愚|差使|使用權|左使|大使館|使然|即使|使羊將狼|使臂使指|主使者|使命感|使不得|使勁|尊賢使能|使絆兒|就使|嗾使|使氣|國使|使令|如臂使指|專使|使壞|任使|十二使徒|使徒|役使|天使魚|天使|促使|使節|使星|強使|借風使船|勾欄使者|不辱使命|出使|全權公使|勾使|使者|使低嘴|主使|白衣天使|敕使|按察使|搪差使|看風使帆|星使|指使|看風使舵|支使|目使頤令|神差鬼使|祈使句|矜才使氣|目指氣使|監齋使者|白差使|插科使砌|番使|相風使帆|特使|炙冰使燥|混合使用|看風使船|氤氳大使|樞密使|河伯使者|採訪使|觀察使|護花使者|節度使|見風使帆|鹽鐵使|迫使|節使|鬼使神差|錢可使鬼|鹽運使|花鳥使|行使|鹺使|草根大使|驛使|驅使|駐外使節|頤指氣使|致使動詞|縱使|給使|綠衣使者|隨才器使|負才使氣|赤衣使者|鋪堂使費|巡按使|逼使|遣唐使|轉運使|箕帚之使|巡迴大使|見風使舵|設使|親善大使|舉賢使能|若使|致使|飛鳥使}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=人06}}
+
+====Readings====
+* {{ja-readings|goon=[[し]] (shi)|kanon=[[し]] (shi)|kun=[[つか]] (tsuka), [[しむ]] (shimu), [[せしむ]] (seshimu), [[しめば]] (shimeba)}}
+
+====Compounds====
+{{top2}}
+* {{ja-r|大使館|たいしかん}}: embassy
+{{mid2}}
+* {{ja-r|天使|てんし}}: angel
+{{bottom}}
+
+====Usage notes====
+[[使う]] (tsukau) is the most common word for "to [[use]]."
+
+===Noun===
+{{ja-noun|し}}
+
+# [[messenger]]
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 使]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[사]], [[시]]|rv=sa, si|mr=sa, si}}
+
+# {{defn|lang=ko|sort=人06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sứ]], [[sử]], [[sửa]], [[thửa]]|rs=人06}}
+
+# {{defn|lang=vi|sort=人06}}
+
+====Compounds====
+* [[使者]] (sứ giả)
+* [[使用]] (sử dụng)
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4f7f Nom Foundation]
+
+[[zh-min-nan:使]]
+[[fr:使]]
+[[ko:使]]
+[[it:使]]
+[[hu:使]]
+[[mg:使]]
+[[ja:使]]
+[[no:使]]
+[[pl:使]]
+[[ru:使]]
+[[th:使]]
+[[chr:使]]
+[[uk:使]]
+[[vi:使]]
+[[zh:使]]

@@ -1,0 +1,31 @@
+==Japanese==
+{{ja-kanjitab|かく|とう|ぎ|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=かくとうぎ|格闘|tr1=kakutō|t1=fighting, grappling|技|tr2=gi|t2=skill}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[ka̠kɯ̥ᵝto̞ːŋi]}}
+
+===Noun===
+{{ja-noun|かくとうぎ}}
+
+# a [[combat sport]], such as [[boxing]], [[judo]], or [[wrestling]]
+
+====Synonyms====
+* {{ja-l|格技}}, {{ja-l|挌技|かくぎ|kakugi}}
+* {{ja-l|体技|たいぎ|taigi}}
+
+====Derived terms====
+* {{ja-l|総合格闘技|そうごうかくとうぎ|sōgō kakutōgi}}: [[mixed martial arts]]
+* {{ja-l|異種格闘技戦|いしゅかくとうぎせん|ishu kakutōgi sen}}: a [[combat sport]] [[match]] where [[opponent]]s [[compete]] against each other using different [[style]]s of [[martial arts]]
+
+====Related terms====
+* {{ja-l|武道|ぶどう|budō}}, {{ja-l|武術|ぶじゅつ|bujutsu}}: [[martial arts]]
+
+====External links====
+* {{pedia|lang=ja}}
+* {{pedia|Combat sport}}
+
+[[ja:格闘技]]

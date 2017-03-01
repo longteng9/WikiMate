@@ -1,0 +1,43 @@
+{{also|外用药}}
+==Chinese==
+{{zh-forms|s=外用药|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=wàiyòng yào
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[w:Materia medica|Materia medica]]'' in [[traditional Chinese medicine]] that are used for external application on the body.
+
+====Hyponyms====
+{{rel-top|hyponyms}}
+
+* {{l|zh|硫磺}}, ''[[sulphur]]''
+* {{l|zh|雄黄}}, ''[[realgar]]''
+* {{l|zh|瓜蒂}}, ''[[muskmelon]] pedicle''
+* {{l|zh|马钱子}}, ''seed of the [[vomit nut]]''
+* {{l|zh|五指山参}}, ''{{vern|arrowleaf abelmoschus}}'' ({{taxlink|Abelmoschus sagittifolius|species|noshow=1}})
+
+{{rel-bottom}}
+
+====See also====
+* {{l|zh|药材}} (medicinal materials in traditional Chinese medicine)
+
+===References===
+* {{pedialite|外用药|lang=zh}}
+* {{cite-book
+|last=Ou
+|first=Ming
+|authorlink=
+|coauthors=Li Yanwen
+|year=1994
+|title=The Traditional Chinese Drug and Its Usage
+|publisher=Hai Feng Publishing Co.
+|location=
+|isbn=9622381995
+}}
+* http://www.ars-grin.gov/misc/mmpnd/List_bot.html#sec.02

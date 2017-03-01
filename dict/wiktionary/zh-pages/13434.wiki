@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|壌}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=17|sn=20|four=40132|canj=GYRV|ids=⿰土襄}}
+
+# [[soil]], [[loam]], [[earth]]
+# [[land]], [[area]], [[territory]]
+# [[rich]]{{rfv-sense}}
+
+====References====
+* {{Han ref|kx=0242.170|dkj=05608|dj=0482.130|hdz=10501.110|uh=58E4|ud=22756|bh=C45B|bd=50267}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=rǎng
+|c=joeng6,joeng5
+|mn=kh:jióng/qz,tp,xm:lióng/twvk,zz:jiáng
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|僻壤|僻壤窮鄉|判如天壤|土壤|土壤保持|土壤學|土壤汙染|土壤沖蝕|土壤細流|墳壤|壤土|壤地|壤壤|壤子|壤父|天壤|天壤之判|天壤之別|天壤王郎|封壤|平壤|息壤|接壤|擊壤|擊壤歌|擊壤鼓腹|朽壤|泉壤|浩壤|熙熙壤壤|皋壤|穹壤|窮山僻壤|窮鄉僻壤|糞壤|糞壤窟室|紅壤|膏壤|蓋壤|豐壤|迥隔霄壤|遐方絕壤|霄壤|霄壤之別|霄壤之殊|黃壤|鼠壤}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土17}}
+
+# {{defn|lang=ja|sort=土17}}
+
+====Readings====
+* {{ja-readings|on=[[じょう]] (jō)|kun=[[つち]] (tsuchi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=양|rv=yang|mr=yang}}
+
+# {{defn|lang=ko|sort=土17}}
+
+====Compounds====
+* [[平壤市]] ([[평양]])
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhưỡng]]|rs=土17}}
+
+# {{defn|lang=vi|sort=土17}}
+
+[[fr:壤]]
+[[ko:壤]]
+[[li:壤]]
+[[hu:壤]]
+[[mg:壤]]
+[[ja:壤]]
+[[no:壤]]
+[[pl:壤]]
+[[th:壤]]
+[[zh:壤]]

@@ -1,0 +1,89 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=70|rad=方|as=07|sn=11|four=08234|canj=YSOOK|ids=⿸⿰方𠂉矢}}
+
+====References====
+* {{Han ref|kx=0484.030|dkj=13661|dj=0846.030|hdz=32181.010|uh=65CF|ud=26063|bh=B1DA|bd=45530}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|㫃|矢|t1=flag|t2=arrow|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zú
+|c=zuk6
+|h=pfs=chhu̍k
+|md=cŭk
+|mn=qz,tw,xm,zz:cho̍k/twv:cha̍k
+|w=5zoq
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[clan]]; [[family]] [[clan]]; [[tribe]]
+# [[ethnic group]]; [[nationality]]
+# [[group]] or [[class]] of things with common features
+# {{lb|zh|historical}} to [[impose]] a [[death penalty]] on an [[offender]] and his [[entire]] [[family]], and even on the [[families]] of his [[mother]] and [[wife]]
+
+===Compounds===
+{{zh-der|氏族:clan|三族|上班族|不夜族|不婚族|世嗣宦族|世族|中華民族|九族|五族|五族共和|京族|仡佬族|佤族|侗族|俄羅斯族|保安族|偶族|傈僳族|傜族|傣族|僮族|公族|冠族|勢族|十族|卑南族|印歐民族|厄魯特族|右族|合族|同族|名族|哈尼族|哈薩克族|單身貴族|回族|國族|土家族|土族|土族語|基諾族|堂族|塔吉克族|塔塔爾族|士族|壯族|外族|大和民族|大家族|大族|夷三族|夷九族|姓族|姻族廣茂|宗族|家族|家族同盟|少數民族|崩龍族|巨人族|布依族|布朗族|布立吞族|布農族|布里亞族|平埔族|彝族|德昂族|怒族|悴族|意飛族|戚族|房族|拉丁民族|拉祜族|拜衣族|排灣族|撒拉族|撞族|撣族|斯拉夫族|族人|族伯|族兄弟|族叔|族姓|族弟|族望|族生|族田|族群|族葬|族親|族誅|族譜|族長|族類|族黨|星族|普米族|景頗族|曹族|月光族|望族|朝鮮族|本族|東鄉族|毀宗夷族|毛南族|民族|民族主義|民族同化|民族國家|民族性|民族性格|民族意識|民族文化|民族樂器|民族樂隊|民族精神|民族習性|民族自決|民族舞|民族英雄|民族藝師|民族音樂|水族|水族箱|水族館|泰坦族|泰系各族|泰雅族|游牧民族|滅族|滅族之禍|滿族|漢族|漢民族|火腿族|爪哇族|犵狫族|獨龍族|王族|珞巴族|班圖族|瑤族|甲族|異族|畬族|白族|皇族|眷族|矮人族|種族|種族主義|種族偏見|種族平等|種族歧視|種族迫害|種族隔離|突厥語族|系族|紅脣族|納西族|素族|維吾爾族|羌族|羽族|舊族|苗族|苗瑤語族|英語民族|華族|蒙古族|蒙族|藏族|蠻族|血親家族|衣纓之族|裕固族|親族|詞族|語族|貴族|貴族子弟|貴族學校|貴族政治|貴族文學|貴族院|賽夏族|赤族|赫哲族|追星族|通古斯族|達斡爾族|遺族|邊疆民族|邦族|邵族|部族|鄂倫春族|鄂溫克族|鄒族|配偶家族|銀髮族|錫伯族|門巴族|閃族|阿昌族|阿美族|雅美族|頂客族|香腸族|高山族|魯凱族|鹵族|麼些族|黎族|鼎族}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=方07}}
+
+# [[tribe]]
+# [[family]]
+
+====Readings====
+* {{ja-readings|goon=[[ぞく]] (zoku)|kanon=[[そく]] (soku)|on=[[そう]] (sō)|kun=[[やから]] (yakara)}}
+
+[[Category:ja:Taxonomy]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[족]], [[주]]|eumhun=|rv=jok, ju|mr=chok, chu|y=cok, cwu}}
+
+# {{defn|lang=ko|sort=方07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{head|vi|Han tu|sc=Hant}}{{attention|vi|may need inflection template}}
+
+====Noun====
+{{vi-hantu|tộc|rs=方07|pos=noun}}
+
+# [[family]], [[clan]]
+
+[[zh-min-nan:族]]
+[[fr:族]]
+[[ko:族]]
+[[lo:族]]
+[[hu:族]]
+[[mg:族]]
+[[ja:族]]
+[[no:族]]
+[[pl:族]]
+[[th:族]]
+[[zh:族]]

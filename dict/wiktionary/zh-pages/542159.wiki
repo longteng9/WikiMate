@@ -1,0 +1,53 @@
+{{also|条件}}
+==Chinese==
+{{zh-forms|s=条件}}
+
+===Pronunciation===
+{{zh-pron
+|m=tiáojiàn
+|c=tiu4 gin6-2
+|h=pfs=thiàu-khien
+|md=dèu-iông
+|mn=qz:tiâu-kiǎⁿ/tw,xm,zz:tiâu-kiāⁿ
+|w=3diau jji
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[condition]]; [[term]]; [[requirement]]
+# [[prerequisite]]
+
+====Derived terms====
+{{zh-der|工作條件|條件反射|無條件|物質條件}}
+
+===Descendants===
+{{CJKV||s=条件|じょうけん|조건|điều kiện}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=조건}}
+
+# {{hanja form of|조건|[[condition]]}}
+----
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu|pos=noun}}
+
+# {{han tu form of|điều kiện|condition}}
+
+[[zh-min-nan:條件]]
+[[fr:條件]]
+[[ko:條件]]
+[[hu:條件]]
+[[mg:條件]]
+[[ja:條件]]
+[[tl:條件]]

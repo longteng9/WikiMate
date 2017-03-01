@@ -1,0 +1,32 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Netsuke}}
+[[Image:Kokei's dog shaped netsuke.jpg|thumb|250px|{{lang|ja|根付}} (''netsuke''): a '''[[netsuke]]'''.]]
+</div>
+{{ja-kanjitab|ね|つ|o2=け|yomi=kun}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ねつけ|根|tr1=ne|t1=root, base|付け|tr2=tsuke|t2=attachment, attacher}}, the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|付ける|tr=tsukeru||to attach}}, from the way the ''netsuke'' was attached to the end of the drawstring of a coin purse or pouch to prevent the drawstring from slipping through one's {{m|ja|帯|tr=obi||sash, belt}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+See the {{m|ja|提げ物|tr=sagemono}} entry for an illustration of how ''netsuke'' were used.
+
+===Pronunciation===
+{{ja-pron|yomi=k|ねつけ|dev=2|acc1=0|acc_ref=DJR,NHK|acc2=3|acc2_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{ja-l|根付け}}
+
+===Noun===
+{{ja-noun|ねつけ}}
+
+# A [[netsuke]]; miniature sculptures that serve as a fastener for a [[sagemono]] (a [[pouch]], like a [[coin purse]], tobacco pouch, or [[pillbox]]).
+
+====Coordinate terms====
+* {{ja-r|着物|きもの}}
+* {{ja-r|帯|おび}}
+* {{ja-r|提げ物|さげもの}}
+* {{ja-r|印籠|いんろう}}
+
+===References===
+<references/>

@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|閲|阅}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=169|rad=門|as=07|sn=15|four=77216|canj=ANCRU|ids=⿵門兌}}
+
+====References====
+* {{Han ref|kx=1336.070|dkj=41341|dj=1841.240|hdz=74301.070|uh=95B1|ud=38321|bh=BE5C|bd=48732}}
+
+----
+
+==Chinese==
+{{zh-forms|s=阅}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|門|兌|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yuè
+|c=jyut6
+|h=pfs=ye̍t
+|md=
+|mn=qz,tw,xm,zz:oa̍t/qz:iat/tw,xm,zz:ia̍t
+|mn_note=oa̍t - literary; iat/ia̍t - colloquial
+|w=5hhyq
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[examine]]; to [[inspect]]; to [[review]]
+# to [[read]]; to [[peruse]]
+# to [[experience]]; to [[go through]]
+
+===Compounds===
+{{zh-der|人工閱卷|傳閱|共閱|參閱|受閱|大閱|審閱|批閱|披閱|拆閱|拜閱|掘閱|搜閱|查閱|校閱|核閱|檢閱|檢閱場|簡閱|線上訂閱|翻閱|訂閱|評閱|調閱|貌閱|賞閱|贈閱|選閱|閥閱|閱世|閱兵|閱兵臺|閱卷|閱實|閱年|閱歷|閱聽人|閱處|閱覽|閱覽室|閱讀|閱讀機|閱辦|點閱|點閱召集}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=門07|style=ky|shin=閲}}
+
+# [[review]]
+# [[inspection]]
+# [[revision]]
+
+====Readings====
+* {{ja-readings|on=[[えつ]] (etsu)|kun=[[けみする]] (kemisuru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=열|eumhun=|rv=yeol|mr=yŏl|y=yel}}
+
+# [[inspect]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[duyệt]]|rs=門07}}
+
+# {{defn|lang=vi|sort=門07}}
+
+[[fr:閱]]
+[[ko:閱]]
+[[hu:閱]]
+[[mg:閱]]
+[[pl:閱]]
+[[th:閱]]
+[[zh:閱]]

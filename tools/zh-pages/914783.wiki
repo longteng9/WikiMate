@@ -1,0 +1,58 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiǎoxuě
+|c=siu2 syut3
+|mn=siáu-soat
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[light]] [[snowfall]]; light [[snow]]
+# 20th of the 24 [[solar term]]s.
+
+====Antonyms====
+* {{zh-l|大雪}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|こ|ゆき|yomi=kun}}
+From [[小]] (''ko'', "small," "light") + [[雪]] (''yuki'', "snow," "snowfall")
+
+====Noun====
+{{ja-noun|こゆき}}
+
+# light [[snowfall]]
+
+===Etymology 2===
+{{ja-kanjitab|しょう|せつ|yomi=on}}
+From [[小]] (''shō'', "small," "little") + [[雪]] (''setsu'', "snow," "snowfall")
+
+====Noun====
+{{ja-noun|しょうせつ}}
+
+# ''lit.'' "minor snow;" a solar term denoting approximately November 22; one of the 24 ''nijūshi sekki''
+
+====See also====
+{{list:solar terms/ja}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Proper noun===
+{{vi-hantu}}
+
+# {{han tu form of|tiểu tuyết|''lit.'' "minor snow;" a solar term denoting approximately November 22}}
+
+[[ko:小雪]]
+[[ja:小雪]]
+[[zh:小雪]]

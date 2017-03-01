@@ -1,0 +1,98 @@
+{{character info/new}}
+{{also|甚}}
+==Translingual==
+{{stroke order}}
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=02|sn=4|four=24200|canj=OJ|ids=⿰亻十}}
+
+# [[file]] of [[ten]] [[soldier]]s
+# [[10]]
+
+====References====
+* {{Han ref|kx=0091.060|dkj=00348|dj=0192.060|hdz=10108.020|uh=4EC0|ud=20160|bh=A4B0|bd=42160}}
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shén,shí
+|c=sap6,sam6,zaap6
+|h=pfs=sṳ̍p
+|mc=y
+|oc=y
+|ma=
+|cat=n,num,a
+}}
+
+===Numeral===
+{{zh-num}}
+
+# [[ten]] (used in fractions)
+
+===Adjective===
+{{zh-adj}}
+
+# [[miscellaneous]], [[assorted]]
+
+===Compounds===
+* {{zh-l|什麼}}
+* {{zh-l|什麼樣}}
+* {{zh-l|什麼什麼}}
+* {{zh-l|什錦}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人02}}
+
+# {{defn|lang=ja|sort=人02}}
+
+====Readings====
+* {{ja-readings|on=[[しゅう]] (shū), [[じゅう]] (jū)|kun=[[くみ]] (kumi), [[とお]] (too), [[まじる]] (majiru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[십]], [[집]]|rv=sip, jip|mr=sip, chip}}
+
+# {{defn|lang=ko|sort=人02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thập]], [[lặt]], [[thậm]]|rs=人02}}
+
+# {{defn|lang=vi|sort=人02}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4ec0 Nom Foundation]
+
+[[fr:什]]
+[[ko:什]]
+[[li:什]]
+[[hu:什]]
+[[mg:什]]
+[[ms:什]]
+[[ja:什]]
+[[no:什]]
+[[pl:什]]
+[[ru:什]]
+[[th:什]]
+[[zh:什]]

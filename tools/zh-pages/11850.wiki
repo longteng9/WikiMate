@@ -1,0 +1,312 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=21|rad=匕|as=09|sn=11|four=61801|canj=AOP|ids=⿺是匕}}
+
+====References====
+* {{Han ref|kx=0153.050|dkj=02590|dj=0344.200|hdz=10263.020|uh=5319|ud=21273|bh=B0CD|bd=45261}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=chí
+|c=ci4
+|h=pfs=chhì
+|md=siè
+|mn=sî
+|w=3zr
+|mc=y
+|oc=y
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[spoon]]
+
+=====Derived terms=====
+{{zh-der|匙子|飯匙|湯匙|煎匙|匙羹|茶匙|羹匙}}
+
+====See also====
+* {{zh-l|勺}}, {{zh-l|勺子}}
+* {{zh-l|調羹}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=shi
+|c=si4
+|h=pfs=sì
+|md=siè
+|mn=sî
+|w=3zr
+|dial=n
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[key]]
+
+=====Synonyms=====
+{{zh-dial|鑰匙}}
+
+=====Derived terms=====
+{{zh-der|鑰匙|鎖匙|匙匣}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=匕09}}
+
+# [[spoon]]
+
+====Readings====
+{{ja-readings
+|goon=[[じ]] (ji)
+|kanon=[[し]] (shi)
+|kanyoon=[[ひ]] (hi)
+|kun=[[かい]] (kai), [[さじ]] (saji), [[しゃじ]] (shaji), [[すくい]] (sukui)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|じ}}
+From {{etyl|ltc|ja|sort=じ}} {{m|ltc|匙|tr=zhiɛ||spoon}}. The [[呉音#Japanese|''goon'']], so likely the earliest borrowing from {{etyl|ltc|-}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|じ}}
+
+====Suffix====
+{{ja-pos|suffix|じ}}
+
+# [[spoon]], [[scoop]]
+
+=====Usage notes=====
+Only found in compounds.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|香匙|きょうじ}}: a [[spoon]] or [[scoop]] used to scoop out [[incense]]
+* {{ja-r|火匙|こじ}}: a [[pair]] of [[tongs]] or [[chopsticks]] (usually metal), used to handle [[live]] [[coal]]s or [[burning]] [[incense]]
+* {{ja-r|匙|さじ}}: a [[spoon]] or [[scoop]]
+* {{ja-r|匙|しゃじ}}: a [[spoon]] or [[scoop]]
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=o|し}}
+From {{etyl|ltc|ja|sort=じ}} {{m|zh|匙|tr=zhiɛ||spoon}}. The [[漢音#Japanese|''kan'on'']], so a later borrowing. Compare modern {{cog|yue|匙|tr=ci<sup>4</sup>}}, {{cog|nan|匙|tr=sî}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|し}}
+
+====Suffix====
+{{ja-pos|suffix|し}}
+
+# [[spoon]], [[scoop]]
+
+=====Usage notes=====
+Only found in compounds.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|円匙|えんし}}: a [[spoon]]-shaped [[spade]] for [[digging]]
+* {{ja-r|鑰匙|やくし}}: a [[key]] {{qualifier|from the vague similarity in shape to a [[spoon]], with the bowl of the spoon as the handle of the key}}
+{{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=o|ひ}}
+Likely an alteration of the [[漢音#Japanese|''kan'on'']] reading ''shi'': {{IPAchar|/si/}} → {{IPAchar|/hi/}}
+
+====Pronunciation====
+{{ja-pron|yomi=ky|ひ}}
+
+====Alternative forms====
+* {{l|ja|匕}}
+
+====Affix====
+{{ja-pos|affix|ひ}}
+
+# [[spoon]], [[scoop]]
+
+=====Usage notes=====
+Only found in compounds.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|円匙|えんぴ}}: a [[spoon]]-shaped [[spade]] for [[digging]]
+* {{ja-r|匙量|ひりょう}}: a [[spoonful]], as when [[measuring]] [[medicine]]
+{{der-bottom}}
+
+===Etymology 4===
+{{ja-kanjitab|yomi=k|かい}}
+From {{etyl|ojp|ja|sort=かい}} {{m|ja|貝|tr=kai||shellfish, clam; clam shell}}, from the way that clam shells were used as [[scoop]]s.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|かい}}
+
+====Alternative forms====
+* {{l|ja|匕}}
+
+====Noun====
+{{ja-noun|かい|hhira=かひ}}
+
+# {{lb|ja|sort=かい|obsolete}} a [[scoop]] for [[food]]
+# {{lb|ja|sort=かい|archaic|rare}} a [[wooden]] [[sword]] for [[training]]
+#: This sense developed from an [[ateji]] spelling of {{ja-l|木刀}} (literally, “wooden blade”) applied to the ''[[food]] [[scoop]]'' meaning.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|飯匙|いいがい}}: {{qualifier|obsolete}} a [[rice]] [[scoop]]
+* {{ja-r|御台匙|おだいがい}}: {{qualifier|obsolete}} a [[rice]] [[scoop]]
+* {{ja-r|匙笥|かいげ}}: a small [[bucket]] or [[basin]] used in the bath to scoop water from the tub to pour over oneself
+* {{ja-r|切匙|せっかい}}, {{ja-r|狭匙|せっかい}}, {{ja-r|刷匙|せっかい}}: a [[scoop]] used to scrape off ground material stuck to the inner surface of a [[mortar]]
+{{der-bottom}}
+
+===Etymology 5===
+[[File:Chinese spoons.jpg|thumb|250px|{{lang|ja|匙}} (''saji''): a '''[[spoon]]'''.]]
+{{ja-kanjitab|yomi=k|さじ}}
+Originally a compound of {{compound|lang=ja|sort=さじ|茶|tr1=sa|t1=tea|pos=the [[唐音#Japanese|''tōon'']] or Tang reading|匙|tr2=ji|t2=spoon, scoop}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref> This [[音読み#Japanese|''on'yomi'']] reading for a two-character term was then applied to the single-character {{lang|ja|匙}} spelling, and re-interpreted as [[訓読み#Japanese|''kun'yomi'']].
+
+====Pronunciation====
+{{ja-pron|yomi=k|さじ|acc=1|acc_ref=DJR|acc2=2|acc2_ref=DJR}}
+
+====Alternative forms====
+* {{l|ja|匕}}
+
+====Noun====
+{{ja-noun|さじ}}
+
+# [[spoon]], [[scoop]] used for food
+#: {{ja-usex|私たちは'''さじ'''でスープを飲む。|^わたしたち は '''さじ''' で スープ を のむ。|We eat soup with a '''spoon'''.}}
+# more specifically, a spoon or scoop used for [[compounding]] [[medicine]]
+# by extension, [[medicine]]
+# by further extension, a [[doctor]]
+
+=====Usage notes=====
+In modern Japanese, the term {{ja-r|スプーン}} is used to refer to spoons in general, including spoons as found in the Western world. The term ''saji'' generally refers more to the broad, usually flat-bottomed Asian-style spoon shown at right.
+
+The ''saji'' reading is the most common in modern Japanese when using this term as a standalone noun.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|石匙|いし さじ}}: {{qualifier|neolithic}} a [[stone]] [[spoon]] or [[scoop]]
+* {{ja-r|大匙|おおさじ}}: a large [[spoon]] or [[scoop]], a [[ladle]]; a [[tablespoon]], a unit of measure of 15ml
+* {{ja-r|御匙|おさじ}}: a [[spoon]] {{qualifier|polite speech}}; a [[doctor]] {{qualifier|especially one tending to a high-ranking [[samurai]] family}}
+* {{ja-r|御匙医師|おさじ いし}}: a [[doctor]] {{qualifier|especially one tending to a high-ranking [[samurai]] family}}
+* {{ja-r|香匙|こう さじ}}: an [[incense]] [[scoop]]
+* {{ja-r|小匙|こさじ}}: a small [[spoon]] or [[scoop]]; a [[teaspoon]], a unit of measure of 5ml
+* {{ja-l|匙沢瀉}}, {{ja-r|匙面高|さじおもだか}}: a [[perennial]] [[flowering]] [[plant]], {{taxlink|Alisma plantago-aquatica var. orientale|subspecies|noshow=1}} ({{vern|common water plantain}}, {{vern|mad-dog weed}})
+* {{ja-r|匙加減|さじかげん}}: literally, “spoon moderation”: the degree of [[skill]] in [[compounding]] [[medicine]]; a [[doctor]]'s method of [[treatment]]; the [[balance]] of [[flavor]]s in a [[dish]]; [[knack]] or [[finesse]] in doing something
+* {{ja-r|匙が回る|さじ が まわる}}: {{sense|idiom}} “the spoon goes around” → to be [[skillful]] at compounding medicine
+* {{ja-r|匙先|さじさき}}: literally, “spoon tip”: the degree of [[skill]] in [[compounding]] [[medicine]]; a [[doctor]]'s [[skill]] in treatment
+* {{ja-r|匙を投げる|さじ を なげる}}: {{sense|idiom}} “throw the spoon” → [[throw in the towel]]
+* {{ja-r|茶匙|ちゃ さじ}}: a [[teaspoon]] {{qualifier|a spoon used for tea}}; a [[teaspoon]], a unit of measure of 5ml
+* {{ja-r|角匙|つの さじ}}: a [[spoon]] made from [[horn]], such as a [[cow]]'s horn, used historically when working with [[medicine]]s
+* {{ja-r|灰匙|はい さじ}}: a [[spoon]] or [[scoop]] used to scoop out ashes from the [[brazier]] used for [[tea ceremony]]
+* {{ja-r|浜匙|はまさじ}}: a [[perennial]] [[plant]], {{taxlink|Limonium tetragonum|species|noshow=1}} ({{vern|autumn statice}} or {{vern|square-stem statice}})
+* {{ja-r|一匙飯|ひとさじ めし}}: a single [[scoop]] of cooked rice {{qualifier|viewed as inadequate and bad luck to eat just this amount, with some superstitions that eating just this would cause one to become a stepmother or stepchild}}
+{{der-bottom}}
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|匙の先より口の先|さじ の さき より くち の さき}}: “not so much the tip of their spoon, as the tip of their tongue” → a [[pejorative]] comment about a [[doctor]], stating that they are better at [[flattery]] and speaking nicely, than they are at actual [[medical]] [[treatment]]
+{{der-bottom}}
+
+=====Synonyms=====
+{{der-top|Synonyms}}
+* {{sense|spoon, scoop}} {{ja-r|スプーン}}; {{ja-r|蓮華|れんげ}}: literally, “lotus leaf” from the similarity shape
+* {{sense|medicine}} {{ja-r|薬|くすり}}
+* {{sense|doctor}} {{ja-r|医者|いしゃ}}
+{{der-bottom}}
+
+===Etymology 6===
+{{ja-kanjitab|yomi=k|しゃじ}}
+Appears to be an alteration of ''saji'' above: {{IPAchar|[sad͡ʑi]}} → {{IPAchar|[ɕad͡ʑi]}}<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref><ref name="DJS">{{R:Daijisen}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|しゃじ|acc=2|acc_ref=DJR|acc2=1|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|しゃじ}}
+
+# [[spoon]]
+
+=====Usage notes=====
+This reading does not appear to be as common as the ''saji'' reading above. May be [[dialectal]].
+
+===Etymology 7===
+{{ja-kanjitab|yomi=k|すくい}}
+Alternate spelling of {{m|ja|掬い|tr=sukui||scoop}}, the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|掬う|tr=sukuu||to scoop}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Rare. Only found in compounds.
+
+====Pronunciation====
+{{ja-pron|yomi=k|すくい}}
+
+====Noun====
+{{ja-noun|すくい|hhira=すくひ}}
+
+# {{lb|ja|sort=すくい|rare}} a [[scoop]]
+
+=====Usage notes=====
+Although the general term ''sukui'' can serve as a standalone noun, this particular {{lang|ja|匙}} spelling for ''sukui'' is only found in compounds.
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|香匙|こうすくい}}: an [[incense]] [[scoop]]
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Cutlery|さじ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=시|rv=si|mr=si}}
+
+# {{defn|lang=ko|sort=匕09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thi]], [[thìa]], [[thì]], [[chuỷ]]|rs=匕09}}
+
+# {{defn|lang=vi|sort=匕09}}
+
+[[be:匙]]
+[[cs:匙]]
+[[fr:匙]]
+[[ko:匙]]
+[[hr:匙]]
+[[lo:匙]]
+[[la:匙]]
+[[hu:匙]]
+[[mg:匙]]
+[[ms:匙]]
+[[ja:匙]]
+[[no:匙]]
+[[pl:匙]]
+[[ru:匙]]
+[[sv:匙]]
+[[th:匙]]
+[[tg:匙]]
+[[chr:匙]]
+[[tr:匙]]
+[[zh:匙]]

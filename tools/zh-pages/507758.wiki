@@ -1,0 +1,75 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=píngjūn
+|c=ping4 gwan1
+|h=pfs=phìn-kiûn
+|mn=qz,tp,xm:pêng-kun/kh,zz:pêng-kin
+|ma=Zh-píngjun.ogg
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[average]]; [[mean]]
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} average; mean
+
+===Derived terms===
+{{zh-der|平均壽命|平均數|平均值|平均主義}}
+
+{{zh-cat|Elementary|Mathematics}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|へい|きん|yomi=on}}
+
+===Noun===
+{{ja-noun|へいきん}}
+
+# [[average]], [[mean]]
+# [[balance]], [[uniformity]]
+# balance {{gloss|having equal weight on all sides}}
+
+====Synonyms====
+* {{sense|average}} {{ja-r|アベレージ}}
+* {{sense|balance}} {{ja-r|均衡|きんこう}}, {{ja-r|均整|きんせい}}
+
+====Related terms====
+* {{ja-r|平均値|へいきんち|gloss=average value}}
+* {{ja-r|平均点|へいきんてん|gloss=average mark}}
+* {{ja-r|平均的|へいきんてき|gloss=average}}
+
+===Verb===
+{{ja-verb-suru|へいきん}}
+
+# to [[average]]
+# to balance, to make [[uniform]]
+# to balance {{gloss|prevent from falling}}
+
+====Conjugation====
+{{ja-suru|へいきん}}
+
+====Synonyms====
+* {{sense|balance}} {{ja-r|釣り合う|つりあう}}
+
+===References===
+* {{R:Meikyo}}
+
+[[zh-min-nan:平均]]
+[[fr:平均]]
+[[ko:平均]]
+[[hu:平均]]
+[[mg:平均]]
+[[nl:平均]]
+[[ja:平均]]
+[[pt:平均]]
+[[chr:平均]]
+[[zh:平均]]

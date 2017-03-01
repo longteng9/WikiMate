@@ -1,0 +1,91 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=19|rad=力|as=07|sn=9|four=24212|canj=NUKS|ids=⿺免力}}
+
+# [[endeavour]], [[make an effort]]
+# [[urge]]
+
+====References====
+* {{Han ref|kx=0147.370|dkj=02384|dj=0333.020|hdz=10372.030|uh=52C9|ud=21193|bh=AB6A|bd=43882}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|免|力|t2=strong|ls=psc|c1=p|c2=s}} – make a strong effort.
+
+===Pronunciation===
+{{zh-pron
+|m=miǎn
+|c=min5
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|勉力|勉勵|勉強|勉為其難|勤勉|互勉|慰勉|強勉|勉思|奮勉|困知勉行|嘉勉|勸勉|勉生|僶勉|戒勉|獎勉|淬勉|勗勉|期勉|訓勉|黽勉|自勉}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=力07|style=s|kyu=勉}}
+
+====Readings====
+* {{ja-readings|on=[[べん]] (ben)|kun=[[つとめる]] (tsutomeru)}}
+
+====Compounds====
+* {{ja-r|勉学|べんがく}}: study
+* {{ja-r|勉強|べんきょう}}: study, studies
+* {{ja-r|勉励|べんれい}}: effort, striving
+
+===Proper noun===
+{{ja-pos|proper|つとむ}}
+
+# {{given name|male|lang=ja}}
+
+====Usage notes====
+* [[勉]] is the [[kyūjitai]] form of [[勉]] with one stroke reduction.
+
+[[Category:Japanese male given names|つとむ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=면|rv=myeon|mr=myŏn}}
+
+# {{defn|lang=ko|sort=力07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[miễn]], [[mến]], [[mễn]], [[mịn]]|rs=力07}}
+
+# {{defn|lang=vi|sort=力07}}
+
+[[fr:勉]]
+[[ko:勉]]
+[[li:勉]]
+[[hu:勉]]
+[[mg:勉]]
+[[ja:勉]]
+[[no:勉]]
+[[pl:勉]]
+[[sv:勉]]
+[[th:勉]]
+[[zh:勉]]

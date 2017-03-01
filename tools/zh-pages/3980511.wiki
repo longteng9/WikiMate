@@ -1,0 +1,45 @@
+{{also|驻屯}}
+==Chinese==
+{{zh-forms|s=驻屯}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhùtún
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[be]] [[stationed]]; to be [[quartered]] {{gloss|of troops}}
+
+====Synonyms====
+* {{zh-l|駐紮}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちゅう|とん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ちゅうとん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ちゅうとん}}
+
+# [[stationing]] of troops
+
+===Verb===
+{{ja-verb-suru|tr=intrans|ちゅうとん}}
+
+# be [[stationed]] at
+#: {{ja-usex|宮城県大和駐屯地に駐屯しています。|^みやぎ けん ^たいわ ちゅうとんち に ちゅうとん しています。|They are stationed at Camp Taiwa in Miyagi Prefecture.}}
+
+====Conjugation====
+{{ja-suru|ちゅうとん}}
+
+===References===
+<references/>
+
+[[ko:駐屯]]
+[[zh:駐屯]]

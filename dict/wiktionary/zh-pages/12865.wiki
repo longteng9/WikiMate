@@ -1,0 +1,71 @@
+{{character info/new}}
+{{also|冁}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=19|sn=22|four=67532|canj=RJSTV|ids=⿰單展}}
+
+# [[smile]]
+
+====References====
+* {{Han ref|kx=0215.060|dkj=04625|dj=0438.080|hdz=10707.170|uh=56C5|ud=22213|bh=F6D8|bd=63192}}
+
+----
+
+==Chinese==
+{{zh-forms|s=冁}}
+
+===Pronunciation===
+{{zh-pron
+|m=chǎn
+|c=cin2,zin2
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-only|囅然}}
+
+====Compounds====
+{{zh-der|囅然}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口19}}
+
+# {{defn|lang=ja|sort=口19}}
+
+====Readings====
+* {{ja-readings|on=[[てん]] (ten), [[てつ]] (tetsu), [[てち]] (techi)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[천]], [[철]]|rv=cheon, cheol|mr=ch'ŏn, ch'ŏl}}
+
+# {{defn|lang=ko|sort=口19}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|xiên|rs=口19}}
+
+# {{defn|lang=vi}}
+
+[[fr:囅]]
+[[li:囅]]
+[[hu:囅]]
+[[pl:囅]]
+[[th:囅]]
+[[zh:囅]]

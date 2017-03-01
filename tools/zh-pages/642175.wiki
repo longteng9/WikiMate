@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|かん|しん|k2=じん|yomi=o|r=y}}
+
+====Alternative forms====
+* {{l|ja|肝腎}}
+
+===Etymology===
+From {{m|ja|肝|sc=Jpan|tr=kan||main part}} + {{m|ja|心|sc=Jpan|tr=shin||heart of a matter}}
+
+===Adjectival noun===
+{{ja-adj|decl=na|かんじん}}
+
+# [[vital]], [[essential]], [[main]]
+
+====Inflection====
+{{ja-na|かんじん}}
+
+===Noun===
+{{ja-noun|かんじん}}
+
+# that which is [[essential]] or [[fundamental]]
+
+[[chr:肝心]]
+[[zh:肝心]]

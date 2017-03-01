@@ -1,0 +1,128 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=03|sn=5|four=24210|canj=OG|ids=⿰亻士}}
+
+# {{lb|zh|noun}} [[official]]
+# [[serve]] in [[government]]
+
+====References====
+* {{Han ref|kx=0092.070|dkj=00368|dj=0195.100|hdz=10112.030|uh=4ED5|ud=20181|bh=A54B|bd=42315}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shì
+|c=si6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不仕|仕女|仕宦|仕版|仕紳|仕譯|仕途|仕進|出仕|學優而仕|將仕郎|干仕|強仕|懸車致仕|求仕|筮仕|膴仕|致仕|貴仕}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=人03}}
+
+====Readings====
+* {{ja-readings
+|goon=[[じ]] (''ji'')
+|kanon=[[し]] (''shi'')
+|kun=[[つかえる]] ([[仕える]], ''tsukaeru''), [[つかまつる]] ([[仕る]], ''tsukamatsuru'')
+|nanori=[[つこう]] (''tsukō'')
+}}
+
+====Compounds====
+{{top3}}
+* [[仕える]] (''tsukaeru''): serve, work for, attend
+* [[仕方]] (''shikata''): way, method, means
+* [[仕草]] (''shigusa''): action, acting, gesture
+* [[仕事]] (''shigoto''): work, job, business
+* [[仕手]] (''shite''): doer, performer
+* [[仕様]] (''shiyō''): way, method, means
+* [[仕業]] (''shiwaza''): deed, act, action
+* [[仕上げ]] (''shiage''): end, finishing touches
+* [[仕入れ]] (''shiire''): stocking, buying up
+* [[仕打ち]] (''shiuchi''): treatment, behavior, action
+{{mid3}}
+* [[仕送り]] (''shiokuri''): allowance, remittance
+* [[仕掛け]] (''shikake''): device, contrivance, trick
+* [[仕切り]] (''shikiri''): partition, division, boundary
+* [[仕切る]] (''shikiru''): partition, divide, mark off
+* [[仕組み]] (''shikumi''): structure, construction, arrangement
+* [[仕込み]] (''shikomi''): training, stocking up
+* [[仕立て]] (''shitate''): tailoring, dressmaking, sewing
+* [[仕舞う]] (''shimau''): finish, do something completely
+* [[仕事中]] (''shigotochū''): at work, working
+* [[仕事場]] (''shigotoba''): place where one works
+{{mid3}}
+* [[仕上がり]] (''shiagari''): finish, end, completion
+* [[仕上げる]] (''shiageru''): finish up, complete
+* [[仕入れる]] (''shiireru''): lay in stock, replenish stock
+* [[仕掛ける]] (''shikakeru''): commence, lay, set
+* [[仕立てる]] (''shitateru''): tailor, make, prepare
+* [[仕方ない]] (''shikata nai''): it can't be helped
+* [[仕事始め]] (''shigotohajime''): resuming work after New Year's vacation
+* [[仕方がない]] (''shikata ga nai''): it can't be helped
+* [[お仕舞い]] (''oshimai''): the end, closing
+* [[奉仕]] (''hōshi''): attendance, service, ministry
+{{bottom}}
+
+===Noun===
+{{ja-noun|し}}
+
+# [[official]], [[civil service]]
+#* '''仕'''を[[致す]]<br>'''し'''をいたす<br>'' '''shi''' o itasu''<br>to resign from '''public office'''
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|rv=sa|mr=sa}}
+
+# {{defn|lang=ko|sort=人03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sĩ]], [[sải]], [[sảy]], [[sãi]], [[sẻ]], [[sễ]], [[sẽ]], [[sì]], [[sẩy]], [[sè]], [[sõi]], [[sỡi]], [[xảy]]|rs=人03}}
+
+# {{defn|lang=vi|sort=人03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4ed5 Nom Foundation]
+
+[[fr:仕]]
+[[ko:仕]]
+[[id:仕]]
+[[it:仕]]
+[[hu:仕]]
+[[mg:仕]]
+[[ms:仕]]
+[[ja:仕]]
+[[pl:仕]]
+[[ru:仕]]
+[[th:仕]]
+[[uk:仕]]
+[[zh:仕]]

@@ -1,0 +1,56 @@
+{{also|台風|台风}}
+==Chinese==
+{{zh-forms|s=台风}}
+
+===Etymology===
+From {{der|zh|en|typhoon}}, in turn from Cantonese or Hakka {{zh-l|*大風|windstorm}}.
+
+===Pronunciation===
+{{zh-pron
+|m=táifēng,tl=y,er=y
+|ma=Zh-táifeng.ogg
+|c=toi4 fung1
+|mn=xm,zz,tw:thai-hong/qz:thai-hoang
+|h=pfs=thòi-fûng
+|w=3de fon
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[typhoon]]
+
+====Synonyms====
+{{zh-dial}}
+
+====Usage notes====
+* Not to be confused with {{zh-l|臺風}}.
+
+{{zh-cat|Weather|twice-borrowed}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|たい|ふう|yomi=on}}
+
+===Noun===
+{{ja-noun|たいふう}}
+
+# {{rare form of|台風|lang=ja}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=태풍}}
+
+# {{hanja form of|태풍|[[typhoon]]}}
+
+[[cs:颱風]]
+[[fr:颱風]]
+[[ko:颱風]]
+[[hu:颱風]]
+[[ja:颱風]]

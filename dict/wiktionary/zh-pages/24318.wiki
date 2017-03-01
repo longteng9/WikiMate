@@ -1,0 +1,87 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=05|sn=9|four=71219|canj=BMFM|ids=⿰月丕}}
+
+# [[embryo]]
+# [[unfinished]] things
+
+====References====
+* {{Han ref|kx=0979.030|dkj=29390|dj=1430.180|hdz=32057.020|uh=80DA|ud=32986|bh=AD46|bd=44358}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=pēi
+|c=pui1
+|mn=kh,qz,xm,zz:phoe/qz:pher/tp,xm:phe/qz:phi
+|mn_note=phoe - literary; pher/phe - vernacular; phi - vernacular (俗)
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|中胚層|做胚|外胚層|拉胚|粗胚|美人胚子|胚乳|胚囊|胚培養法|胚子|胚層|胚形成|胚柄|胚根|胚根鞘|胚珠|胚盤|胚胎|胚胎學|胚芽|胚芽米|胚芽鞘|胚葉|胚軸|胼胚種|鋼胚}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉05}}
+
+# [[embryo]]
+
+====Readings====
+* {{ja-readings|goon=[[へ]] (he)|kanon=[[はい]] (hai)|kun=[[はらむ]] (haramu)}}
+
+{{ja-kanjitab|はい|yomi=o}}
+
+===Noun===
+{{ja-noun|はい}}
+
+# [[embryo]]
+
+[[Category:ja:Biology|はい]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=배|eumhun=|rv=bae|mr=pae|y=pay}}
+
+# {{defn|lang=ko|sort=肉05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phôi]], [[phui]]|rs=肉05}}
+
+# {{defn|lang=vi|sort=肉05}}
+
+[[zh-min-nan:胚]]
+[[fr:胚]]
+[[ko:胚]]
+[[hu:胚]]
+[[mg:胚]]
+[[ja:胚]]
+[[no:胚]]
+[[pl:胚]]
+[[th:胚]]
+[[zh:胚]]

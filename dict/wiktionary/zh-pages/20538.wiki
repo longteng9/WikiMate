@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=09|sn=12|four=46232|canj=KHWMV|ids=⿰犭畏}}
+
+# [[vulgar]], [[low]], [[cheap]]
+# [[wanton]]
+# [[obscene]]
+
+====References====
+* {{Han ref|kx=0714.120|dkj=20519|dj=1126.100|hdz=21357.030|uh=7325|ud=29477|bh=B554|bd=46420}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|犭|畏|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wěi
+|c=wai2,wui2,wui1
+|mn=úi/tw:óe
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|淫猥|煩猥|猥獕|猥瑣|猥當大任|猥褻|猥賤|貪猥無厭|鄙猥}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=犬09}}
+
+# {{defn|lang=ja|sort=犬09}}
+
+====Readings====
+* {{ja-readings|on=[[わい]] (wai)|kun=[[みだり]] (midari), [[みだりに]] (midarini)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=외|eumhun=|rv=oe|mr=oe|y=oy}}
+
+# {{defn|lang=ko|sort=犬09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=犬09| hanviet = ổi}}
+
+# {{defn|lang=vi|sort=犬09}}
+
+[[fr:猥]]
+[[hu:猥]]
+[[mg:猥]]
+[[ja:猥]]
+[[pl:猥]]
+[[th:猥]]
+[[vi:猥]]
+[[zh:猥]]

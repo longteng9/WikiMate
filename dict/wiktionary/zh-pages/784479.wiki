@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=xínglù
+|c=hang4 lou6
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|literary}} [[path]]; [[road]]
+# {{lb|zh|literary}} [[pedestrian]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=xínglù
+|c=haang4 lou6
+|h=pfs=hàng-lu
+|mn=kiâⁿ-lō͘
+|mn-t=gian5 lou7
+|cat=n
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|chiefly|Cantonese|Min Nan|Hakka}} to [[walk]]; to get somewhere by foot
+#: {{zh-x|行路 唔 睇路|to not pay attention where one is walking|C}}
+
+=====Synonyms=====
+* {{qualifier|Mandarin}} {{zh-l|走路}}
+
+=====Derived terms=====
+{{zh-der|行路唔帶眼:to not pay attention to where one is walking}}
+
+[[zh-min-nan:行路]]
+[[mg:行路]]
+[[zh:行路]]

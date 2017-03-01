@@ -1,0 +1,63 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=12|sn=15|four=44496|canj=VKCF|ids=⿰女尞}}
+
+# [[play]] with
+
+====References====
+* {{Han ref|kx=0271.100|dkj=06717|dj=0539.040|hdz=21080.060|uh=5AFD|ud=23293|bh=E556|bd=58710}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|尞|c1=s|c2=p|t1=female|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=liáo
+|c=liu4
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[play]] with
+# {{lb|yue|Cantonese}} [[provoke]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女12}}
+
+# {{defn|lang=ja|sort=女12}}
+
+====Readings====
+* {{ja-readings|on=[[れう]] (reu), [[らう]] (rau)|kun=[[たわむれる]] (tawamureru), [[みめよい]] (mimeyoi), [[たわれる]] (tawareru), [[みだれる]] (midareru), [[さとい]] (satoi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=료|rv=ryo|mr=ryo}}
+
+# {{defn|lang=ko|sort=女12}}
+
+[[fr:嫽]]
+[[li:嫽]]
+[[hu:嫽]]
+[[pl:嫽]]
+[[th:嫽]]
+[[zh:嫽]]

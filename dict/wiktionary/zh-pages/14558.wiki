@@ -1,0 +1,87 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=07|sn=10|four=23747|canj=UICE|ids=⿰山夋}}
+
+# [[high]], [[steep]], [[towering]] (mountains)
+# [[harsh]], [[severe]]
+
+====References====
+* {{Han ref|kx=0312.120|dkj=08116|dj=0612.170|hdz=10776.160|uh=5CFB|ud=23803|bh=AE6D|bd=44653}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jùn
+|c=zeon3
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山07}}
+
+# {{defn|lang=ja|sort=山07}}
+
+====Readings====
+* {{ja-readings|on=[[しゅん]] (shun)|kun=[[たかい]] (takai), [[けわしい]] (kewashii)}}
+
+===Proper noun===
+{{ja-pos|proper|しゅん}}
+
+# {{given name|male|lang=ja}}
+
+{{ja-pos|proper|たかし}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|しゅん]]
+[[Category:Japanese male given names|たかし]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=준|rv=jun|mr=chun}}
+
+# {{defn|lang=ko|sort=山07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tuấn]]|rs=山07}}
+
+# {{defn|lang=vi|sort=山07}}
+
+[[fr:峻]]
+[[ko:峻]]
+[[li:峻]]
+[[hu:峻]]
+[[mg:峻]]
+[[ja:峻]]
+[[no:峻]]
+[[pl:峻]]
+[[th:峻]]
+[[zh:峻]]

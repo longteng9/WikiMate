@@ -1,0 +1,84 @@
+{{also|发展|発展}}
+==Chinese==
+{{zh-forms|s=发展}}
+
+===Pronunciation===
+{{zh-pron
+|m=fāzhǎn
+|ma=y
+|c=faat3 zin2
+|h=pfs=fat-chán
+|md=huák-diēng
+|mn=hoat-tián
+|w=4faq tsoe
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[develop]]; to [[expand]]; to [[go along]]
+#: {{zh-x|發展 起來{lai}|to begin to '''develop'''}}
+
+===Noun===
+{{zh-noun}}
+
+# [[development]]
+#: {{zh-x|健康 發展|sound '''development'''}}
+#: {{zh-x|發展 不 平衡|unbalanced '''development'''}}
+#: {{zh-x|社會 經濟 發展|socio-economic '''development'''}}
+#: {{zh-x|馬克思主義 發展 史|the history of Marxism}}
+
+===See also===
+* {{zh-l|發達}}
+
+===Derived terms===
+{{zh-der|發展中國家|可持續發展}}
+
+===Descendants===
+{{CJKV|發展|s=発展|はってん|발전|phát triển}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|はつ|k2=はっ|てん|yomi=on}}
+
+===Noun===
+{{ja-noun|はってん|shin=発展}}
+
+# [[development]]
+
+===Verb===
+{{ja-verb-suru|はってん|shin=発展}}
+
+# to [[develop]]
+
+====Conjugation====
+{{ja-suru|はってん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=발전}}
+
+# {{hanja form of|발전|[[development]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|phát triển|[[development]]}}
+
+[[zh-min-nan:發展]]
+[[ko:發展]]
+[[hu:發展]]
+[[ja:發展]]

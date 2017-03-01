@@ -1,0 +1,97 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=11|sn=14|four=48440|canj=VDLK|ids=⿰女敕}}
+
+====References====
+* {{Han ref|kx=0270.110|dkj=06666|dj=0538.070|hdz=21075.150|uh=5AE9|ud=23273|bh=B9E0|bd=47584}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=nèn
+|ma=Zh-nèn.ogg
+|c=nyun6
+|h=pfs=nun
+|md=nâung
+|mn=lūn
+|w=3nen
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[tender]]; [[delicate]]
+# [[inexperienced]]; [[unskilled]]
+
+====Compounds====
+* {{zh-l|嫩紅}}
+* {{zh-l|嫩黃}}
+* {{zh-l|嫩綠}}
+* {{zh-l|嫩氣}}
+* {{zh-l|嫩弱}}
+* {{zh-l|嫩生}}
+* {{zh-l|嫩生生}}
+* {{zh-l|嫩芽}}
+* {{zh-l|嫩葉}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女11}}
+
+# {{defn|lang=ja|sort=女11}}
+
+====Readings====
+{{ja-readings|goon=[[のん]] (non)|kanon=[[どん]] (don)|kun=[[わかい]] (wakai)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|稚嫩|ちどん}}: [[youth]] and [[tenderness]]
+* {{ja-r|嫩芽|どんが}}: [[young]] [[shoot]]
+* {{ja-r|嫩草|どんそう}} [[young]] [[grass]]
+* {{ja-r|嫩葉|どんよう}}: [[young]] [[leaves]]
+* {{ja-r|嫩緑|どんりょく}}: tender [[green]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=눈|mr=nun}}
+
+# {{defn|lang=ko|sort=女11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[non]], [[nộn]], [[nỏn]], [[nồn]], [[nõn]], [[nọn]]|rs=女11}}
+
+# {{defn|lang=vi|sort=女11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5ae9 Nom Foundation]
+
+[[fr:嫩]]
+[[ko:嫩]]
+[[li:嫩]]
+[[hu:嫩]]
+[[mg:嫩]]
+[[ja:嫩]]
+[[no:嫩]]
+[[pl:嫩]]
+[[th:嫩]]
+[[zh:嫩]]

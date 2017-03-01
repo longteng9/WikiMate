@@ -1,0 +1,38 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=huǒshānhuī
+|c=fo2 saan1 fui1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|geology}} [[volcanic ash]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|か|さん|はい|k2=ざん|k3=ばい|yomi=j|r=y}}
+
+===Pronunciation===
+* {{ja-accent-common|n|か|ざ|んばい}}<ref>{{R:NHK Hatsuon}}</ref>
+
+===Noun===
+{{ja-noun|かざんばい}}
+
+# {{lb|ja|geology}} [[volcanic ash]]
+
+====Related terms====
+* {{ja-r|火山|かざん}}: volcano
+
+===References===
+<references/>
+
+[[ko:火山灰]]
+[[hu:火山灰]]
+[[ja:火山灰]]
+[[zh:火山灰]]

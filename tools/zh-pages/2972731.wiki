@@ -1,0 +1,34 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|ハツカネズミ|二十日鼠}}
+{{wikipedia|House mouse}}
+{{wikispecies|Mus musculus}}
+[[File:House_mouse.jpg|thumb|250px|{{lang|ja|二十日鼠}} (''hatsuka nezumi''): the common '''[[house mouse]]'''.]]
+</div>
+
+===Etymology===
+{{ja-kanjitab|yomi=irr|sort=はつかねずみ}}
+Compound of {{compound|lang=ja|sort=はつかねずみ|二十日|tr1=hatsuka|t1=twenty days|鼠|tr2=nezumi|t2=rat, mouse}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> so named for the [[gestation]] period of roughly 20 days.
+
+===Pronunciation===
+{{ja-pron|はつか ねずみ|acc=4|acc_ref=NHK,DJR|y=i|dev=2}}
+
+===Alternative forms===
+* {{l|ja|廿日鼠}}, {{l|ja|鼷}}
+
+===Noun===
+{{ja-noun|はつか ねずみ|ハツカ ネズミ}}
+
+# ''[[Mus musculus]]'', the common [[house mouse]]
+
+====Usage notes====
+{{U:ja:biology|ハツカネズミ}} The generic Japanese term for {{m|en|mouse}} or {{m|en|rat}} is {{m|ja|鼠|tr=nezumi}}.
+
+===References===
+<references/>
+
+[[Category:ja:Rodents|はつかねすみ']]
+[[fr:二十日鼠]]
+[[mg:二十日鼠]]
+[[ja:二十日鼠]]
+[[sv:二十日鼠]]

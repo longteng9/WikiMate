@@ -1,0 +1,97 @@
+{{character info/new}}
+{{also|纪}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=03|sn=9|four=27917|canj=VFSU|ids=⿰糹己}}
+
+# [[record]], [[annal]], [[historical]] [[account]]
+# [[century]]
+
+====References====
+* {{Han ref|kx=0915.130|dkj=27234|dj=1342.120|hdz=53366.090|uh=7D00|ud=32000|bh=ACF6|bd=44278}}
+
+----
+
+==Chinese==
+{{zh-forms|s=纪}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jì
+|c=gei2,gei3
+|h=pfs=
+|md=
+|mn=kí/kì
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|紀念品}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=糸03}}
+
+# {{defn|lang=ja|sort=糸03}}
+
+====Readings====
+* {{ja-readings|goon=[[こ]] (ko)|kanon=[[き]] (ki)|kun=[[おさめる]] (osameru), [[のり]] (nori), [[しるす]] (shirusu)}}
+
+====Compounds====
+{{top2}}
+* [[紀元]]
+* [[紀元前]]
+* [[紀行]]
+* [[記紀]]
+* [[世紀]]
+* [[千年紀]]
+{{mid2}}
+* [[三畳紀]]
+* [[二畳紀]]
+* [[白亜紀]]
+* [[ペルム紀]]
+* [[紀伊]]
+* [[紀州]]
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|eumhun=|rv=gi|mr=ki|y=ki}}
+
+# {{defn|lang=ko|sort=糸03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kỉ]], [[kỷ]], [[kỹ]], [[kĩ]]|rs=糸03}}
+
+# {{defn|lang=vi|sort=糸03}}
+
+[[fr:紀]]
+[[ko:紀]]
+[[hu:紀]]
+[[mg:紀]]
+[[ja:紀]]
+[[pl:紀]]
+[[th:紀]]
+[[zh:紀]]

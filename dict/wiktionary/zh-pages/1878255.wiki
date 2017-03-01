@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiǔjīng
+|c=zau2 zing1
+|mn=chiú-cheng
+|ma=Zh-jiujing.ogg
+|h=pfs=chiú-chîn
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|common}} [[alcohol]]; [[ethanol]]
+
+====Synonyms====
+* {{qualifier|chemistry}} {{zh-l|乙醇}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[alcoholic]] {{gloss|when used as an attributive meaning "containing alcohol"}}
+#: {{zh-x|酒精 飲料|'''alcoholic''' beverage}}
+
+====Derived terms====
+{{zh-der|酒精中毒|變性酒精|酒精去氫酶|酒精溫度計|酒精燈}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅ|せい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|しゅせい|acc=0|y=o}}
+
+===Noun===
+{{ja-noun|しゅせい}}
+
+# [[alcohol]]
+
+[[zh-min-nan:酒精]]
+[[hu:酒精]]
+[[mg:酒精]]
+[[ja:酒精]]
+[[th:酒精]]
+[[chr:酒精]]
+[[zh:酒精]]

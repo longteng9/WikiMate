@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+According to ancient convention, the most important person in a room would be seated on the north side facing south. All subordinates would therefore be facing north, in [[deference]] to the most important person (such as the emperor).
+
+===Pronunciation===
+{{zh-pron
+|m=běimiàn
+|c=bak1 min6
+|h=pfs=pet-mien
+|mn=pak-bīn
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Elementary Mandarin}} [[north]]; [[north]] [[side]]
+# {{lb|zh|literary}} [[official]] in [[feudal]] [[court]]
+
+====Synonyms====
+* {{sense|north}} {{zh-l|北邊}}
+
+====Coordinate terms====
+* {{sense|north}}
+** {{zh-l|東面}}
+** {{zh-l|南面}}
+** {{zh-l|西面}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[face]] [[north]] (in [[deference]] to the [[emperor]] or [[one]]'s [[superior]])
+# {{lb|zh|literary|of an apprentice}} to [[follow]] a [[master]]
+
+[[zh-min-nan:北面]]
+[[ko:北面]]
+[[ja:北面]]
+[[zh:北面]]

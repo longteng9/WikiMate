@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|がい|せつ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|がいせつ|y=o}}
+
+===Noun===
+{{ja-noun|がいせつ|tr=trans}}
+
+# [[outline]]
+
+===Verb===
+{{ja-verb-suru|がいせつ|tr=trans}}
+
+#give an outline, [[state]] generally
+#: {{ja-usex|具体的にどのような内容なのかを概説する。|ぐたいてき に どの よう な ないよう な の か を がいせつ する。|We'll outline specifically what sort of subject it is.}}
+
+====Conjugation====
+{{ja-suru|がいせつ}}
+
+[[hu:概説]]
+[[mg:概説]]
+[[zh:概説]]

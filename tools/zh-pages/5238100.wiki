@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|あし|はや|k2=ばや|yomi=k}}
+
+===Etymology===
+Compound of {{compound|足|tr1=ashi|t1=foot|早|tr2=haya|t2=fast|lang=ja|sort=あしばや}}. {{rendaku2|haya|baya|sort=あしばや}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|あしばや|acc=0|acc_ref=DJR,NHK}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|あしばや}}
+
+# [[brisk]], [[swift]]-[[footed]], [[fast-paced]]
+
+====Inflection====
+{{ja-na|あしばや}}
+
+===Noun===
+{{ja-noun|あしばや}}
+
+# [[briskness]], [[swift]]-[[footed]][[-ness|ness]], [[fast-paced]][[-ness|ness]]
+
+===References===
+<references/>
+
+[[hi:足早]]
+[[mg:足早]]
+[[zh:足早]]

@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|们}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=08|sn=10|four=27220|canj=OAN|ids=⿰亻門}}
+
+====References====
+* {{Han ref|kx=0107.260|dkj=00766|dj=0229.060|hdz=10185.020|uh=5011|ud=20497|bh=ADCC|bd=44492}}
+
+----
+
+==Chinese==
+{{zh-forms|s=们}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|亻|門|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+From the previous pronoun plural particle {{zh-l|*每}}, as in {{zh-l|我每}}. Compare {{zh-l|*您}}.
+
+===Pronunciation===
+{{zh-pron
+|m=men,mén,1nc=vernacular,2nc=literary
+|ma=y
+|c=mun4
+|mn=bûn
+|w=3men
+|mc=
+|oc=
+|cat=suf
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{n-g|Suffix indicating [[plural]] for pronouns, some animated nouns and personifications.}}
+#: {{zh-x|我們|we}}
+#: {{zh-x|孩子{zi}們|children}}
+
+===Compounds===
+{{zh-der|人們|他們|他們倆|你們|俺們|咱們|哥們兒|哥兒們|圖們江|她們|娘兒們|孩兒們|它們|小哥兒們|小姐們兒|我們|渠們|爺們|爺們兒|爺兒們|牠們|老哥兒們|諾們罕|這們|鐵哥們}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人08}}
+
+# {{defn|lang=ja|sort=人08}}
+
+====Readings====
+* {{ja-readings|on=[[もん]] (mon)|kun=[[ともがら]] (tomogara)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=문|mr=mun}}
+
+# {{defn|lang=ko|sort=人08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[món]], [[môn]], [[mon]]|rs=人08}}
+
+# {{defn|lang=vi|sort=人08}}
+
+[[da:們]]
+[[fr:們]]
+[[ko:們]]
+[[li:們]]
+[[hu:們]]
+[[ms:們]]
+[[ja:們]]
+[[pl:們]]
+[[ta:們]]
+[[th:們]]
+[[zh:們]]

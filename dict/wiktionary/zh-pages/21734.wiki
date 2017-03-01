@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=109|rad=目|as=09|sn=14|four=64060|canj=BUJKA}}
+
+====References====
+* {{Han ref|kx=0812.300|dkj=23519|dj=1227.070|hdz=42494.030|uh=7779|ud=30585|bh=B840|bd=47168}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=覩}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|目|者|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+From {{inh|zh|sit-pro|*l-ta-s/t||to see, to look}}; cognate with {{cog|bo|ལྟ||to look at, to see}} ({{zh-ref|LaPolla, 1994}}). It has also been connected with {{cog|tai-pro|*p.taːᴬ||eye}} ({{zh-ref|Unger, 1990}}).
+
+===Pronunciation===
+{{zh-pron
+|m=dǔ
+|c=dou2
+|h=pfs=
+|md=dū
+|mn=tó͘
+|w=2tu
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[see]]; to [[look]] at
+# to [[witness]]; to [[observe]]
+
+===Compounds===
+{{zh-der|一睹|不睹|不睹事|不睹是|先睹為快|大睹是|慘不忍睹|拔睹兒|撥雲睹日|有目共睹|熟視無睹|目不忍睹|目大不睹|目所未睹|目睹|目睹耳聞|眾目共睹|睹微知著|睹景傷情|睹物傷情|睹物思人|睹物懷人|睹物生情|睹物興悲|睹物興情|瞥睹|視若無睹|耳聞目睹|親眼目睹|親睹|逆睹|重睹天日}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=目09}}
+
+# {{defn|lang=ja|sort=目09}}
+
+====Readings====
+* {{ja-readings|on=[[と]] (to)|kun=[[みる]] (miru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=도|eumhun=|rv=do|mr=to|y=to}}
+
+# {{defn|lang=ko|sort=目09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''睹''' ([[đổ]], [[đủ]])
+
+# {{defn|lang=vi}}
+
+[[fr:睹]]
+[[ko:睹]]
+[[hu:睹]]
+[[mg:睹]]
+[[ja:睹]]
+[[no:睹]]
+[[pl:睹]]
+[[th:睹]]
+[[zh:睹]]

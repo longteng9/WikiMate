@@ -1,0 +1,39 @@
+{{also|天鵝絨}}
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=o|てん|が|じゅう}}
+The 1734 work {{lang|ja|本朝世事綺談}} (''Honchō Seji Kidan'', “Embellished Tales of Everyday Japan”; also listed as {{lang|ja|本朝世事談綺}}, with the last two characters swapped) describes this kanji spelling as arising from how [[velvet]] shines and shimmers in a way reminiscent of a swan's [[plumage]]: {{m|ja|天鵞|tr=tenga||swan|pos=obsolete}} + {{m|ja|絨|tr=jū||thick fabric}}.
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|てんがじゅう|acc=3|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|てんがじゅう}}
+
+# {{lb|ja|sort=てんがじゅう|rare|archaic}} [[velvet]]
+
+=====Usage notes=====
+The kanji spelling and [[音読み#Japanese|on'yomi]] of ''tengajū'' are not used much in modern Japanese, and have been superseded by the borrowed term {{m|ja|ビロード}}.
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|sort=びろおど}}
+
+From {{etyl|pt|ja|sort=ひろおど'}} {{m|pt|veludo||velvet}}<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>. The term was borrowed when Portuguese traders and missionaries first introduced velvet to Japan in the 1500s.
+
+====Pronunciation====
+{{ja-pron|yomi=irr|ビロード|acc=0|acc_ref=DJR,NHK}}
+
+====Alternative forms====
+* {{ja-l|ビロード}} {{qualifier|more common spelling}}
+
+====Noun====
+{{ja-noun|ビロード}}
+
+# {{alternative spelling of|lang=ja|sort=びろおど|ビロード}}: [[velvet]]
+
+=====Usage notes=====
+The katakana spelling {{m|ja|ビロード}} is more common for this term.
+
+===References===
+<references/>

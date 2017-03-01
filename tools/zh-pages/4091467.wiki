@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|たん|さ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|たんさ|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|たんさ}}
+
+# [[exploration]], usually scientific exploration
+
+====Compounds====
+* {{l/ja|探査機}}
+
+===Verb===
+{{ja-verb-suru|たんさ}}
+
+# [[explore]], [[probe]]
+
+====Conjugation====
+{{ja-suru|たんさ}}
+
+===References===
+<references/>
+
+[[zh:探査]]

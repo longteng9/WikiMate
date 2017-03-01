@@ -1,0 +1,61 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=hégé
+|c=hap6 gaak3
+|h=pfs=ha̍p-kiet
+|mn=ha̍p-keh
+|cat=v,a
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[qualify]]; to reach standard; to [[pass]]
+
+===Adjective===
+{{zh-adj}}
+
+# [[qualified]]; up to standard
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ごう|かく|yomi=on}}
+
+===Noun===
+{{ja-noun|ごうかく}}
+
+# [[passing]] (as in a test)
+# [[suitability]], [[eligibility]]
+
+===Verb===
+{{ja-verb-suru|ごうかく}}
+
+# to [[pass]] {{gloss|a test}}
+
+====Conjugation====
+{{ja-suru|ごうかく}}
+
+====Derived terms====
+* {{l|ja|不合格}}
+* {{l|ja|合格者}}
+* {{l|ja|合格率}}
+* {{l|ja|合格点}}
+
+[[zh-min-nan:合格]]
+[[fr:合格]]
+[[ko:合格]]
+[[lo:合格]]
+[[lt:合格]]
+[[hu:合格]]
+[[mg:合格]]
+[[ja:合格]]
+[[pt:合格]]
+[[chr:合格]]
+[[uk:合格]]
+[[zh:合格]]

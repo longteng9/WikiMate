@@ -1,0 +1,77 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=10|sn=13|four=79232|canj=BFQE}}
+
+====Derived characters====
+* [[藤]]
+
+====References====
+* {{Han ref|kx=0643.070|dkj=18036|dj=1050.140|hdz=32108.210|uh=6ED5|ud=28373|bh=BCF0|bd=48368}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|朕|水|c1=p|c2=s|t2=water|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=téng
+|c=tang4
+|mc=y
+|oc=y
+|ma=
+|cat=pn,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# an [[ancient]] [[state]] in [[Shandong]] [[province]]
+# [[water]] [[burst]]ing [[forth]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水10}}
+
+# {{defn|lang=ja|sort=水10}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō)|kun=[[わく]] (waku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=등|eumhun=|rv=deung|mr=tŭng|y=tung}}
+
+# {{defn|lang=ko|sort=水10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水10|hanviet=đằng}}
+
+# {{defn|lang=vi|sort=水10}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6ed5 Nom Foundation]
+
+[[fr:滕]]
+[[hu:滕]]
+[[mg:滕]]
+[[ja:滕]]
+[[pl:滕]]
+[[th:滕]]
+[[zh:滕]]

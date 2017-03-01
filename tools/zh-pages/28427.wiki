@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|辋}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=08|sn=15|four=57020|canj=JJBTV}}
+
+# exterior [[rim]] of [[wheel]], [[felly]]
+
+====References====
+* {{Han ref|kx=1244.310|dkj=38373|dj=1721.200|hdz=53539.080|uh=8F1E|ud=36638|bh=BDFE|bd=48638}}
+
+----
+
+==Chinese==
+{{zh-forms|s=辋}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|車|罔|c1=s|c2=p|t1=carriage|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wǎng
+|c=mong5
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|輞川}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=車08}}
+
+# {{defn|lang=ja|sort=車08}}
+
+====Readings====
+* {{ja-readings|on=[[ぼう]] (bō), [[もう]] (mō)|kun=[[わ]] (wa)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=망|eumhun=|rv=mang|mr=mang|y=mang}}
+
+# {{defn|lang=ko|sort=車08}}
+
+[[fr:輞]]
+[[hu:輞]]
+[[pl:輞]]
+[[th:輞]]
+[[vi:輞]]
+[[zh:輞]]

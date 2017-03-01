@@ -1,0 +1,132 @@
+{{character info/new}}
+{{also|爪}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=97|rad=瓜|as=00|sn=5|snj=6|four=72230|canj=HVIO}}
+
+# {{mul-kangxi radical-def}}
+
+====Derived characters====
+* [[Index:Chinese radical/瓜]]
+* [[弧]] [[狐]] [[孤]] [[蛌]] [[瓣]] [[𩂡]]
+
+====References====
+* {{Han ref|kx=0746.010|dkj=21371|dj=1154.140|hdz=42654.010|uh=74DC|ud=29916|bh=A5CA|bd=42442}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+
+===Pronunciation===
+{{zh-pron
+|m=guā
+|m-s=gua1
+|c=gwaa1
+|h=pfs=kôa
+|md=guă
+|mn=koe/koa
+|mn_note=koe - vernacular, koa - literary
+|mn-t=guê1
+|w=1ko
+|mc=y
+|oc=y
+|cat=n,c:v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[melon]]
+# [[gourd]]
+# {{lb|zh|Cantonese|_|slang|humorous}} to [[die]]
+
+===Compounds===
+{{zh-der|西瓜|瓜蒂|瓜分|瓜李之嫌|瓜連|瓜紐|瓜農|瓜皮帽|瓜剖豆分|瓜仁|瓜熟蒂落|瓜藤|瓜田李下|瓜條|瓜蔓|瓜子|瓜子臉|佛手瓜|南瓜|及瓜而代|呆瓜|傻瓜相機|傻瓜|刺瓜|地瓜簽|匏瓜|及瓜|哈密瓜|地若瓜分|倭瓜|一瓜一蒂|嗑瓜子|匏瓜空懸|尼加拉瓜|寒瓜|地瓜|厄瓜多|劉全進瓜|冬瓜|瓜代|瓜田之嫌|浮瓜避暑|番木瓜|瓜子殼|瓜果筵|稍瓜打驢|瓜瓞|滾瓜爛熟|東瓜茄子|破瓜|瓜瓞綿綿|打瓜子|瓜子金|瓜秧|打響瓜兒|水底納瓜|番瓜|瓜月|浮瓜沉李|有瓜葛|木瓜|沉李浮瓜|木瓜酵素|滾瓜溜圓|種瓜得瓜|瓜搭|故侯瓜|砍瓜切菜|矮冬瓜|瓜期|瓜蔓抄|澆瓜之惠|癩瓜|王瓜|甜瓜|甘瓜苦蒂|瓜葛之親|瓜葛|瓜祭|瓜瓤|瓜洲|瓜棚|瓜架|瓜果|瓜時|瓜字初分|瓜地馬拉|瓜分豆剖|瓜子仁|瓜科|灌瓜之義|投瓜|滾瓜兒|瓠瓜|洋香瓜|水裡納瓜|抱蔓摘瓜|瓟瓜|東陵瓜|李下瓜田|醉瓜|綿綿瓜瓞|黃瓜|絲瓜絡|金瓜|頂瓜皮|絲瓜|腦袋瓜|老王賣瓜|順藤摸瓜|豆剖瓜分|蒲瓜|苦瓜臉|腦瓜頂兒|腦袋瓜子|老醃瓜|菜瓜布|苦瓜|鯽瓜兒|馬鈴瓜|香瓜|醬瓜|花瓜|馬拿瓜|金瓜石|糖瓜|老倭瓜|越瓜|西瓜子兒|西瓜帽|花木瓜|菜瓜|阿空卡瓜|胡瓜}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=瓜00}}
+
+# {{defn|lang=ja|sort=瓜00}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka)|kun=[[うり]] (uri)}}
+
+====Compounds====
+* {{ja-l|胡瓜|きゅうり|kyūri}}: cucumber
+* {{ja-l|西瓜|すいか|suika}}: watermelon
+* {{ja-l|南瓜|かぼちゃ|kabocha}}: a Japanese pumpkin
+
+----
+
+==Kikai==
+{{attention|kzg}}
+
+===Kanji===
+{{head|kzg|kanji|hiragana|うい|romaji|ui}}
+
+===Noun===
+{{head|kzg|noun|hiragana|うい|romaji|ui}}
+
+# [[gourd]]
+
+====Compounds====
+{{top2}}
+* [[胡瓜]] ([[きうい]], ''[[kiui]]''): [[cucumber]]
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[과]]|eumhun=|rv=gwa|mr=kwa|y=kwa}}
+
+# {{defn|lang=ko|sort=瓜00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[qua]], [[dưa]]|rs=瓜00}}
+
+# {{defn|lang=vi|sort=瓜00}}
+
+----
+
+==Yoron==
+{{attention|yox}}
+
+===Kanji===
+{{head|yox|kanji|hiragana|うい|romaji|ui}}
+
+===Noun===
+{{head|yox|noun|hiragana|うい|romaji|ui}}
+
+# [[cucumber]], [[gourd]]
+
+[[Category:CJKV radicals| ]]
+
+[[fr:瓜]]
+[[ko:瓜]]
+[[lt:瓜]]
+[[li:瓜]]
+[[hu:瓜]]
+[[mg:瓜]]
+[[ms:瓜]]
+[[ja:瓜]]
+[[no:瓜]]
+[[pl:瓜]]
+[[ru:瓜]]
+[[th:瓜]]
+[[zh:瓜]]

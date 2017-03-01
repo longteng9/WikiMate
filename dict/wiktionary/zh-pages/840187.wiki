@@ -1,0 +1,63 @@
+{{also|伝統|传统}}
+==Chinese==
+{{zh-forms|s=传统}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=chuántǒng
+|ma=Zh-chuántong.ogg
+|c=cyun4 tung2
+|h=pfs=chhòn-thúng
+|md=diòng-tūng
+|mn=qz,xm:toân-thóng/zz,tw:thoân-thóng
+|w=3zoe thon
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|countable|uncountable}} [[tradition]] {{zh-mw|個}}
+#: {{zh-x|我們 應該 繼承 這些 傳統。|We should carry on these '''traditions'''.}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[traditional]] {{gloss|part of a tradition; long-established}}
+#: {{zh-x|孝順 是 中華民族 的 傳統 美德。|Filial piety is a '''traditional''' virtue of the Chinese people.}}
+# traditional {{gloss|adhering to tradition; old-fashioned or conservative}}
+#: {{zh-x|她 的 父母 很 傳統。|Her parents are very '''traditional'''.}}
+
+===Derived terms===
+{{zh-der|傳統產業|傳統工業|傳統家庭|傳統教育|傳統農業|傳統主義|口頭傳統}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=전통}}
+
+# {{hanja form of|전통|[[tradition]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu|pos=noun}}
+
+# {{han tu form of|truyền thống|[[tradition]]}}
+
+[[ko:傳統]]
+[[hu:傳統]]
+[[mg:傳統]]
+[[ja:傳統]]
+[[chr:傳統]]

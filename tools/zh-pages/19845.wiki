@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=04|sn=8|four=90817|canj=FYHN|ids=⿰火亢}}
+
+# [[bake]] or [[dry]] by the heat of a fire
+
+====References====
+* {{Han ref|kx=0667.200|dkj=18918|dj=1076.280|hdz=32193.030|uh=7095|ud=28821|bh=AAA1|bd=43681}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kàng
+|c=kong3,hong3
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火04}}
+
+# the brick-bed in northern China
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[あぶる]] (aburu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=항|eumhun=|rv=hang|mr=hang|y=hang}}
+
+# [[hypocaust]]
+# [[hypocaust]] [[floor]]
+
+====Synonyms====
+* {{qualifier|obsolete}} {{ko-l|구돌}}
+* {{ko-l|구들}} (''literally'' "[[fire]]d or [[heat]]ed [[stone]]")
+* {{ko-l|온돌|溫突}} (''literally'' "[[warm]] [[stone]]")
+* {{ko-l|바닥난방|바닥煖房}}: [[underfloor heating]]
+
+[[zh-min-nan:炕]]
+[[fr:炕]]
+[[hu:炕]]
+[[mg:炕]]
+[[no:炕]]
+[[pl:炕]]
+[[th:炕]]
+[[zh:炕]]

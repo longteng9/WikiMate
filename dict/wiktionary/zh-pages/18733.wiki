@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=05|sn=8|four=35127|canj=ELLN|ids=⿰氵弗}}
+
+# [[boil]], [[bubble up]], [[gush]]
+
+====References====
+* {{Han ref|kx=0614.020|dkj=17251|dj=1007.060|hdz=31597.010|uh=6CB8|ud=27832|bh=AA6D|bd=43629}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|alt1=氵|t1=water|弗|ls=psc|c1=s|c2=p}}. 弗 also has meaning of “straighten, correct”, hence connotation of “correct, purify water by boiling”.
+
+===Pronunciation===
+{{zh-pron
+|m=fèi
+|c=fai3
+|mn=hùi
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to boil
+
+====Compounds====
+{{zh-der|人聲鼎沸|以指撓沸|以湯止沸|以湯沃沸|四海鼎沸|天下鼎沸|扇火止沸|抽薪止沸|揚湯止沸|救火揚沸|民怨沸騰|江翻海沸|沸反盈天|沸水|沸沸|沸沸揚揚|沸泉|沸涫|沸湯|沸然|沸熱|沸羹|沸騰|沸點|沸鼎|海沸山搖|海沸山裂|海沸江翻|海沸河翻|海沸波翻|煮沸|物論沸騰|物議沸騰|百沸湯|笙歌鼎沸|蜩沸|蜩螗沸羹|蟲鳴水沸|觱沸|麋沸|麋沸蟻動|麋沸蟻聚|麻沸|麻沸散|鼎沸|鼎沸不絕}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=水05}}
+
+# {{defn|lang=ja|sort=水05}}
+
+====Readings====
+* {{ja-readings|on=[[ふつ]] (futsu)|kun=[[わく]] (waku), [[わかす]] (wakasu)}}
+
+====Derived terms====
+* {{ja-r|沸かす|わかす}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[비]], [[불]]|eumhun=|rv=bi, bul|mr=pi, pul|y=pi, pul}}
+
+# {{defn|lang=ko|sort=水05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phí]], [[phất]]|rs=水05}}
+
+# {{defn|lang=vi|sort=水05}}
+
+[[fr:沸]]
+[[ko:沸]]
+[[hu:沸]]
+[[mg:沸]]
+[[ja:沸]]
+[[no:沸]]
+[[pl:沸]]
+[[fi:沸]]
+[[th:沸]]
+[[zh:沸]]

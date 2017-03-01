@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dépiào
+|c=dak1 piu3
+|mn=tit-phiò
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[receive]] [[vote]]s
+
+====Derived terms====
+{{zh-der|得票率}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|とく|ひょう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|とくひょう|y=o|acc=0|dev=2|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とくひょう}}
+
+# gaining [[vote]]s
+# a [[total]] of votes obtained
+
+===Verb===
+{{ja-verb-suru|tr=both|とくひょう}}
+
+# [[gain]] votes
+
+====Conjugation====
+{{ja-suru|とくひょう}}
+
+====Derived terms====
+* {{l|ja|得票率}} (''tokuhyōritsu'')
+
+===References===
+<references/>
+
+[[zh-min-nan:得票]]
+[[ko:得票]]
+[[zh:得票]]

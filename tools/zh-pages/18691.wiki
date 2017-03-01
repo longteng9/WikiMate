@@ -1,0 +1,85 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=04|sn=8|four=12603|canj=EA,XEA|ids=⿱水日}}
+
+# [[connected]], [[joined]]
+# [[repeated]]
+
+====References====
+* {{Han ref|kx=0611.150|dkj=17206|dj=1004.050|hdz=31556.080|uh=6C93|ud=27795|bh=CCEE|bd=52462}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tà,dá
+|c=daap6
+|mn=ta̍p/ta̍uh
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|叨沓|合沓|噂沓|射沓|庢沓|拉沓|拖沓|指沓|板沓|沓合|沓拖|沓沓|沓至|沓雜|泄沓|泄泄沓沓|紛沓|紛沓而來|紛紜雜沓|紛至沓來|蓬沓|重沓|雜沓|颯沓|麇至沓來}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水04}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō)|kun=[[くつ]] (kutsu)}}
+
+===Noun===
+{{ja-noun|くつ}}
+
+# {{alternative form of|靴|lang=ja}}
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 沓]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=답|eumhun=|rv=dap|mr=tap|y=tap}}
+
+# {{defn|lang=ko|sort=水04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đạp]], [[đệp]], [[đôm]], [[đốp]], [[độp]]|rs=水04}}
+
+# {{defn|lang=vi|sort=水04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6c93 Nom Foundation]
+
+[[zh-min-nan:沓]]
+[[fr:沓]]
+[[mg:沓]]
+[[ja:沓]]
+[[pl:沓]]
+[[th:沓]]
+[[zh:沓]]

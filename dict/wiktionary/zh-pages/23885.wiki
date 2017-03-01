@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|罂}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=121|rad=缶|as=14|sn=20|four=66772|canj=BCOJU}}
+
+# long necked jar or bottle
+
+====References====
+* {{Han ref|kx=0946.060|dkj=28185|dj=1386.310|hdz=52939.140|uh=7F4C|ud=32588|bh=C4A2|bd=50338}}
+
+----
+
+==Chinese==
+{{zh-forms|s=罂|alt=罃}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yīng
+|c=aang1,ang1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|罌子桐|罌粟|罌粟花}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=缶14}}
+
+# {{defn|lang=ja|sort=缶14}}
+
+====Readings====
+* {{ja-readings|on=[[おう]] (ō), [[えい]] (ei)|kun=[[もたい]] (motai)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=앵|eumhun=|rv=aeng|mr=aeng|y=ayng}}
+
+# {{defn|lang=ko|sort=缶14}}
+
+[[fr:罌]]
+[[hu:罌]]
+[[ja:罌]]
+[[pl:罌]]
+[[th:罌]]
+[[zh:罌]]

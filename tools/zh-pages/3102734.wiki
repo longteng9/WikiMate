@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chuíliǔ
+|c=seoi4 lau5
+|mn=sûi-liú
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[weeping willow]]
+
+{{zh-cat|Willows and poplars}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|すい|りゅう|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=すいりゅう}} compound {{m|zh|垂柳|tr=dzywe ljuw<sup>X</sup>|lit=hang down + willow}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|すいりゅう|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|すいりゅう|hhira=すいりう}}
+
+# [[weeping willow]]
+
+===References===
+<references/>
+
+[[Category:ja:Willows and poplars|すいりゅう]]
+
+[[zh:垂柳]]

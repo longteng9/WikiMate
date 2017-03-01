@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=12|sn=15|four=48046|canj=QTWI|ids=⿰扌尊}}
+
+====References====
+* {{Han ref|kx=0454.220|dkj=12712|dj=0804.020|hdz=31962.070|uh=6499|ud=25753|bh=BCC1|bd=48321}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|尊|c1=s|t1=hand|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zǔn
+|c=zyun2
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[save]]; to [[economize]]
+# to [[abide]] by; to [[comply]] with
+
+====Compounds====
+{{zh-der|撙省|撙銜|撙節|東撙西節|撙詘|撙撙}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手12}}
+
+# {{defn|lang=ja|sort=手12}}
+
+====Readings====
+* {{ja-readings|on=[[そん]] (son)|kun=[[おさえる]] (osaeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=준|eumhun=|rv=jun|mr=chun|y=cwun}}
+
+# {{defn|lang=ko|sort=手12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手12|hanviet=tổn}}
+
+# {{defn|lang=vi|sort=手12}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6499 Nom Foundation]
+
+[[fr:撙]]
+[[hu:撙]]
+[[mg:撙]]
+[[pl:撙]]
+[[th:撙]]
+[[zh:撙]]

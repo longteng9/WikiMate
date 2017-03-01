@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|車}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=08|sn=10|four=|canj=JJO|ids=⿰𠦝人}}
+
+# [[sunrise]]
+# [[dawn]]
+
+====Derived characters====
+* [[朝]], [[翰]], [[雗]], [[乾]], [[幹]], [[斡]], [[䮧]], [[㲦]], [[榦]], [[鶾]]
+
+====References====
+* {{Han ref|kx=0108.080|dkj=00779|dj=0230.040|hdz=10169.040|uh=501D|ud=20509}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|旦|㫃|c1=s|c2=p|t1=sunrise|ls=psc}}.
+
+Note that 倝 is not derived from [[車]].
+
+===Pronunciation===
+{{zh-pron
+|m=gàn
+|c=gon3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 66]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人08}}
+
+# {{defn|lang=ja|sort=人08}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[かがやく]] (kagayaku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=간|rv=gan|mr=kan}}
+
+# {{defn|lang=ko|sort=人08}}
+
+[[fr:倝]]
+[[li:倝]]
+[[hu:倝]]
+[[pl:倝]]
+[[th:倝]]
+[[vi:倝]]
+[[zh:倝]]

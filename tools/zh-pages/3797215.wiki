@@ -1,0 +1,60 @@
+{{also|结核}}
+==Chinese==
+{{zh-forms|s=结核}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiéhé
+|c=git3 hat6
+|mn=kiat-hu̍t
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|pathology}} [[tubercle]]
+# {{lb|zh|pathology}} [[tuberculosis]]
+#: → {{zh-l|肺結核}}
+# {{lb|zh|mineralogy}} [[nodule]]
+
+====Derived terms====
+{{zh-der|肺結核|結核病|結核桿菌|錳結核}}
+
+{{zh-cat|Diseases}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|けつ|k1=けっ|かく|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|けっかく|y=ko|acc=h}}
+
+===Noun===
+{{ja-noun|けっかく}}
+
+# {{lb|ja|pathology|sort=けっかく}} [[tuberculosis]]
+
+[[Category:ja:Diseases|けっかく]]
+
+----
+
+==Korean==
+
+===Noun===
+{{ko-noun|hangeul=결핵}}
+
+# {{hanja form of|결핵|[[tuberculosis]]}}
+
+[[cs:結核]]
+[[fr:結核]]
+[[ko:結核]]
+[[li:結核]]
+[[hu:結核]]
+[[mg:結核]]
+[[km:結核]]
+[[fi:結核]]
+[[zh:結核]]

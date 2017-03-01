@@ -1,0 +1,55 @@
+{{also|明确}}
+==Chinese==
+{{zh-forms|s=明确}}
+
+===Pronunciation===
+{{zh-pron
+|m=míngquè
+|c=ming4 kok3
+|h=pfs=mìn-khok
+|mn=bêng-khak
+|ma=Zh-míngquè.ogg
+|cat=a,v
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[explicit]]; [[clear-cut]]
+
+===Verb===
+{{zh-verb}}
+
+# to make [[explicit]]; to make [[clear]]
+
+[[Category:Elementary Mandarin|日04明確]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|めい|かく|yomi=on}}
+
+===Adjective===
+{{ja-adj|infl=な|めいかく}}
+
+# [[clear]], [[definite]], [[precise]]
+
+====Antonyms====
+* {{ja-r|不明確|ふめいかく}}
+
+====Inflection====
+{{ja-na|めいかく}}
+
+===Noun===
+{{ja-noun|めいかく}}
+
+# [[precision]], [[accuracy]]
+
+[[zh-min-nan:明確]]
+[[ko:明確]]
+[[lo:明確]]
+[[hu:明確]]
+[[mg:明確]]
+[[ja:明確]]
+[[chr:明確]]
+[[zh:明確]]

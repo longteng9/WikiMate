@@ -1,0 +1,145 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=206|rad=鼎|as=00|sn=13|four=22221|canj=BUVML}}
+
+# {{mul-kangxi radical-def}}
+
+====References====
+* {{Han ref|kx=1525.080|dkj=48315|dj=2060.200|hdz=74740.010|uh=9F0E|ud=40718|bh=B9A9|bd=47529}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+[[Image:Liu Ding.jpg|200px|thumb|right|[[w:ding (vessel)|ding tripod]]]]
+
+===Glyph origin===
+{{Han etym}}
+{{liushu|p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=dǐng
+|c=ding2
+|h=pfs=tín
+|md=diāng/dīng
+|md_note=diāng - vernacular; dīng - literary
+|mn=tiáⁿ/téng
+|mn_note=tiáⁿ - vernacular; téng - literary
+|w=2tin
+|mc=y
+|oc=y
+|cat=n,a,adv,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[ding]] {{gloss|[[ancient]] [[large]], [[three]]-[[leg]]ged [[bronze]] [[cauldron]] for [[cooking]] or [[sacrificial]] [[ritual]]s}}
+# {{lb|zh|figurative}} [[throne]]; [[monarchy]]
+# {{lb|zh|figurative|historical}} [[important]] [[figure]]s in the [[government]]
+# {{lb|zh|figurative}} [[big]]; [[great]]
+# {{lb|zh|figurative}} [[tripartite]] [[balance]] of [[force]]s
+# {{lb|zh|historical}} [[ancient]] [[instrument]] of [[torture]]
+# {{lb|zh|literary}} [[just]] (at this time); [[meanwhile]]
+# {{lb|zh|Min}} [[wok]]; [[pot]]
+# 50th [[hexagram]] of the [[I Ching]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|人聲鼎沸|一代鼎臣|一言九鼎|三分鼎立|三分鼎足|三牲五鼎|三足鼎立|三鼎甲|丹鼎|九鼎|九鼎大呂|刀鋸鼎鑊|刑鼎|列鼎|列鼎而食|列鼎重裀|功銘鼎彝|問鼎|嘗鼎一臠|四海鼎沸|夏鼎|大名鼎鼎|大烹五鼎|天下鼎沸|定鼎|定鼎訏謨|寶鼎|寶鼎勛章|幕燕鼎魚|庖鼎|扛鼎|扛鼎士|扛鼎拔山|折鼎覆餗|拔山扛鼎|拔山舉鼎|擊鐘陳鼎|擊鐘鼎食|方鼎|易順鼎|春秋鼎盛|晉鑄刑鼎|曶鼎|染指於鼎|楚莊問鼎|槐鼎|毛公鼎|沸鼎|湯鼎|潛圖問鼎|烹飪鼎鼐|牛鼎烹雞|瓦棺篆鼎|移鼎|立鼎安爐|笙歌鼎沸|筆力扛鼎|舉鼎拔山|舉鼎絕臏|舉鼎觀畫|茶鼎|藍蔭鼎|覆鼎|觀鼎|調和鼎鼐|調鼎|讒鼎|負鼎|負鼎之願|贗鼎|身膏鼎鑊|遷鼎|郜鼎|重裀列鼎|金鼎獎|鐘鳴鼎食|鐘鼎|鐘鼎之家|鐘鼎文|鐘鼎款識|鐘鼎高門|鑄鼎象物|陳鼎擊鐘|革故鼎新|革舊鼎新|香火鼎盛|鳴鐘列鼎|鼎位|鼎俎|鼎元|鼎元之分|鼎力|鼎力玉成|鼎力相助|鼎峙|鼎席|鼎彝|鼎折足|鼎新|鼎新革故|鼎族|鼎沸|鼎沸不絕|鼎湖|鼎甲|鼎盛|鼎祚|鼎立|鼎臣|鼎足|鼎足三分|鼎足之勢|鼎足而立|鼎輔|鼎邊銼|鼎鍾|鼎鑊|鼎鑊刀鋸|鼎革|鼎食|鼎食鳴鐘|鼎鼎|鼎鼎大名|鼎鼎有名|鼎鼐|鼎鼐臣|鼎鼐調和|龜鼎}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=鼎00}}
+[[File:Liu_Ding.jpg|thumb|250px|{{lang|ja|鼎}} (''kanae'', ''tei''): ceremonial tripod kettle]]
+
+====Readings====
+{{ja-readings
+|goon=[[ちょう]] (chō)
+|kanon=[[てい]] (tei)
+|kun=[[かなえ]] (kanae)
+|nanori=[[かね]] (kane)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|かなえ|yomi=kun}}
+Originally a compound of {{compound|lang=ja|sort=かなえ|金|tr1=kana|t1=metal|瓮|tr2=he|t2=a pot or pan for holding food or beverages}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|h|か|なえ}}<ref name="DJR"/><ref name="SMK">{{R:Shinmeikai5}}</ref>
+* {{IPA|lang=ja|[ka̠na̠e̞]}}
+
+====Alternative forms====
+* {{ja-l|釜}} {{qualifier|less common}}
+
+====Noun====
+{{ja-noun|かなえ|hhira=かなへ}}
+
+# a three-legged [[kettle]], a [[tripod]] kettle, used for [[cooking]] and later for [[ceremonial]] purposes in ancient China, and often made of [[bronze]]
+# a [[symbol]] of a [[king]] or other high [[authority]]
+
+=====Idioms=====
+* {{ja-r|鼎の軽重を問う|かなえ の けいじゅう を とう}}: "to ask about the weight of a kettle" ⇒ to [[question]] a person's [[ability]]
+* {{ja-r|鼎の沸くが如し|かなえ の わく が ごとし}}: "just like a boiling kettle" ⇒ a metaphor for a noisy busy situation
+* {{ja-r|鼎の中の一切れの肉|かなえ の なか の ひときれ の にく}}: "single slice of meat [from] in the kettle" ⇒ to get a read on the whole from a small sample
+* {{ja-r|鼎を扛ぐ|かなえ を あぐ}}: "to lift a kettle" ⇒ to be physically strong
+* {{ja-r|鼎を定む|かなえ を さだむ}}: "to settle the kettle" ⇒ to control the imperial capital, to ascend the throne
+
+===Etymology 2===
+{{ja-kanjitab|てい|yomi=on}}
+From {{etyl|ltc|ja|sort=てい}} {{m|ltc|鼎|tr=*děng}}. Compare modern {{cog|cmn|鼎|tr=dǐng}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|a|て|い}}<ref name="DJR"/>
+* {{IPA|lang=ja|[te̞ː]}}
+
+====Noun====
+{{ja-noun|てい}}
+
+# a three-legged [[kettle]], a [[tripod]] kettle, used for [[cooking]] and later for [[ceremonial]] purposes in ancient China, and often made of [[bronze]]
+# one of the [[I Ching]] [[hexagram]]s
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=정|eumhun=|rv=jeong|mr=chŏng|y=ceng}}
+
+# {{defn|lang=ko|sort=鼎00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đỉnh]], [[đềnh]], [[đểnh]], [[đễnh]]|rs=鼎00}}
+
+# {{defn|lang=vi|sort=鼎00}}
+
+[[Category:CJKV radicals| ]]
+
+[[zh-min-nan:鼎]]
+[[fr:鼎]]
+[[ko:鼎]]
+[[hu:鼎]]
+[[mg:鼎]]
+[[ja:鼎]]
+[[no:鼎]]
+[[pl:鼎]]
+[[ru:鼎]]
+[[th:鼎]]
+[[zh:鼎]]

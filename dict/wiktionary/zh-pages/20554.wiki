@@ -1,0 +1,98 @@
+{{character info/new}}
+{{also|犹}}
+==Translingual==
+
+===Alternative forms===
+* {{l|mul|犹}} ([[Simplified Chinese]])
+* {{l|mul|由}} (As seen in [[wikisource:Preface to the Poems Composed at the Orchid Pavilion|Preface to the Poems Composed at the Orchid Pavilion]], by [[wikipedia:Wang Xizhi|Wang Xizhi]])
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=09|sn=12|four=48261|canj=KHTCW}}
+
+===References===
+* {{Han ref|kx=0715.200|dkj=20557|dj=1127.160|hdz=21359.090|uh=7336|ud=29494|bh=B553|bd=46419}}
+
+----
+
+==Chinese==
+{{zh-forms|s=犹}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|犬|酋|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{theaji|iáu/iah/ah/á/iá}}
+{{zh-pron
+|m=yóu
+|c=jau4
+|h=pfs=yù
+|md=iù
+|mn=iáu/iah/ah/á/iá/iu/iû
+|w=3hhieu
+|mc=y
+|oc=y
+|cat=adv,n,a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{senseid|zh|still}} {{lb|zh|literary}} [[still]]; [[yet]]; as before
+# [[Jew]], [[Jewish]]
+
+===Synonyms===
+* {{qualifier|Min Nan}} {{zh-l|猶閣}}
+
+===Derived terms===
+* {{zh-l|猶太}}
+* {{qualifier|Min Nan}} {{zh-l|猶是}}
+* {{qualifier|Min Nan}} {{zh-l|猶未}}
+* {{qualifier|Min Nan}} {{zh-l|猶閣咧}}
+* {{qualifier|Min Nan}} {{zh-l|猶毋過}}
+* {{qualifier|Min Nan}} {{zh-l|猶有}}
+* {{qualifier|Min Nan}} {{zh-l|猶原}}
+
+===References===
+* {{cite-web|url=http://dict.revised.moe.edu.tw/cgi-bin/newDict/dict/index.html|title=猶|work=Guoyu Cidian On-line Mandarin Dictionary (國語辭典)|language=Mandarin|accessdate=2011-10-19}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=犬09}}
+
+# {{defn|lang=ja|sort=犬09}}
+
+====Readings====
+* {{ja-readings|goon=[[ゆ]] (yu)|kanon=[[ゆう]] (yū)|kun=[[なお]] (nao)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=유|eumhun=|mr=yu|y=yu}}
+
+# {{defn|lang=ko|sort=犬09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[do]]|rs=犬09}}
+
+# {{defn|lang=vi|sort=犬09}}
+
+[[zh-min-nan:猶]]
+[[fr:猶]]
+[[ko:猶]]
+[[hu:猶]]
+[[mg:猶]]
+[[ja:猶]]
+[[pl:猶]]
+[[th:猶]]
+[[vi:猶]]
+[[zh:猶]]

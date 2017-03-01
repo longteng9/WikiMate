@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=09|sn=20|four=|canj=NFRSE|ids=⿰魚叚}}
+
+# [[shrimp]], [[prawn]]
+
+====See also====
+* {{l|mul|sc=Hani|虾}}
+* {{l|mul|sc=Hani|蝦}}
+
+====References====
+* {{Han ref|kx=1475.100|dkj=46346|dj=2006.340|hdz=74704.050|uh=9C15|ud=39957}}
+
+----
+
+==Chinese==
+{{zh-forms|s=𫚥}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiā
+|c=haa1
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-obsolete}} [[giant salamander]]
+# [[goby]]
+# {{zh-alt-form|蝦|shrimp; prawn; lobster}}
+
+====Compounds====
+{{zh-der|鰕魚|鰕虎魚}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚09}}
+
+# {{defn|lang=ja|sort=魚09}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka)|kun=[[えび]] (ebi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=하|eumhun=|rv=ha|mr=ha|y=ha}}
+
+# {{defn|lang=ko|sort=魚09}}
+
+[[fr:鰕]]
+[[la:鰕]]
+[[hu:鰕]]
+[[mg:鰕]]
+[[ja:鰕]]
+[[pl:鰕]]
+[[th:鰕]]
+[[zh:鰕]]

@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|鹘}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=196|rad=鳥|as=10|sn=21|four=77227|canj=BBHAF}}
+
+# a kind of [[pigeon]]
+# [[falcon]]
+
+====References====
+* {{Han ref|kx=1496.320|dkj=47198|dj=2026.230|hdz=74646.070|uh=9DBB|ud=40379|bh=F6BC|bd=63164}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鹘}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gǔ,hú
+|c=wat6,gwat1
+|mn=kut
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|俊鶻|兔起鶻落|回鶻|回鶻文|海鶻|蒼鶻|鶻入鴉群|鶻崙吞棗|鶻淪|鶻突|鶻鳩|鶻鴒|鶻鴒眼|鶻鵃|鷹覷鶻望}}
+
+===References===
+* {{R:twedu|B06148}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鳥10}}
+
+# {{defn|lang=ja|sort=鳥10}}
+
+====Readings====
+* {{ja-readings|goon=[[ごち]] (gochi), [[こち]] (kochi)|kanon=[[こつ]] (kotsu)|on=[[かつ]] (katsu)|kun=[[はやぶさ]] (hayabusa)}}
+
+===Noun===
+{{ja-kanjitab|はやぶさ|yomi=k}}
+{{ja-noun|はやぶさ|ハヤブサ}}
+
+# {{alternative spelling of|隼|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=골|eumhun=|rv=gol|mr=kol|y=kol}}
+
+# {{defn|lang=ko|sort=鳥10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''鶻''' ([[cốt]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:鶻]]
+[[hu:鶻]]
+[[ja:鶻]]
+[[pl:鶻]]
+[[th:鶻]]
+[[vi:鶻]]
+[[zh:鶻]]

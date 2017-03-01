@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|舣}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=137|rad=舟|as=13|sn=19|four=28453|canj=HYTGI|ids=⿰舟義}}
+
+====References====
+* {{Han ref|kx=1012.520|dkj=30565|dj=1471.240|hdz=53069.030|uh=8264|ud=33380|bh=F2C3|bd=62147}}
+
+----
+
+==Chinese==
+{{zh-forms|s=舣}}
+
+===Alternative forms===
+* {{zh-l|檥}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǐ
+|c=ngai5
+|h=pfs=
+|md=
+|mn=gí
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[moor]] a [[boat]] to the [[bank]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=舟13}}
+
+# {{defn|lang=ja|sort=舟13}}
+
+====Readings====
+* {{ja-readings|on=[[ぎ]] (gi)|kun=[[ふなよそおい]] (funayosooi)|nanori=}}
+
+====Compounds====
+* {{ja-r|艤舟|ぎしゅう}}
+* {{ja-r|艤装|ぎそう}}: [[fitting-out]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=의|eumhun=|rv=ui|mr=ŭi|y=uy}}
+
+# {{defn|lang=ko|sort=舟13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=舟13| hanviet = [[ghé]], [[nghi]], [[nghĩ]]}}
+
+# {{defn|lang=vi|sort=舟13}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=8264 Nom Foundation]
+
+[[fr:艤]]
+[[ko:艤]]
+[[hu:艤]]
+[[mg:艤]]
+[[ja:艤]]
+[[pl:艤]]
+[[th:艤]]
+[[zh:艤]]

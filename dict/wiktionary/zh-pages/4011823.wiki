@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=nǎizhì
+|c=naai5 zi3
+|cat=con
+}}
+
+===Conjunction===
+{{zh-con}}
+
+# [[even]]; [[even if]]; go so far as to; to the extent that
+
+====Synonyms====
+* {{zh-l|乃至於}}
+* {{zh-l|甚而}}
+* {{zh-l|甚至}}
+* {{zh-l|甚至於}}
+* {{zh-l|以至}}
+* {{zh-l|以至於}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ない|し|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ないし|y=o}}
+
+===Adverb===
+{{ja-pos|adverb|ないし}}
+
+# from ... to ...
+# [[or]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=내지}}
+
+# {{hanja form of|내지|from ... to ...; [[or]]}}
+
+[[ko:乃至]]
+[[ja:乃至]]
+[[zh:乃至]]

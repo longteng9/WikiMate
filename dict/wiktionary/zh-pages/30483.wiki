@@ -1,0 +1,54 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=169|rad=門|as=10|sn=18|four=77904|canj=ANHUD}}
+
+# the doorsill
+
+====References====
+* {{Han ref|kx=1339.140|dkj=41449|dj=1844.200|hdz=74313.050|uh=95D1|ud=38353|bh=F16E|bd=61806}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=niè
+|c=jit6
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|obsolete}} short wooden column in the middle of a doorway {{attention|zh|please check}}
+#* {{zh-usex|君入門，介拂闑{niè}。|{{t-needed|zh}}|ref=Liji}}
+
+===References===
+*{{R:twedu|B05511}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=門10}}
+
+# {{defn|lang=ja|sort=門10}}
+
+====Readings====
+{{ja-readings|on=[[げつ]] (getsu), [[げち]] (gechi), [[けい]] (kei), [[き]] (ki)|kun=[[しきみ]] (shikimi)|nanori=}}
+
+[[fr:闑]]
+[[hu:闑]]
+[[pl:闑]]
+[[th:闑]]
+[[zh:闑]]

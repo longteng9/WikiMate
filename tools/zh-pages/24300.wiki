@@ -1,0 +1,54 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=05|sn=9|four=73247|canj=BIKE,BIKK}}
+
+# {{defn|Han|sort=肉05}}
+
+====References====
+* {{Han ref|kx=0977.150|dkj=29357|dj=1429.060|hdz=32057.070|uh=80C8|ud=32968|bh=D05A|bd=53338}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bá
+|c=bat6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:twedu|B03629}}
+* {{R:yue:jyut.net}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=肉05}}
+
+# {{defn|lang=ja|sort=肉05}}
+
+====Readings====
+* {{ja-readings|on=[[はつ]] (hatsu), [[ばち]] (bachi), [[はい]] (hai), [[ばい]] (bai)|kun=|nanori=}}
+
+[[fr:胈]]
+[[hu:胈]]
+[[pl:胈]]
+[[th:胈]]
+[[zh:胈]]

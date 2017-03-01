@@ -1,0 +1,63 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=zìbái
+|c=zi6 baak6
+|mn=qz:chīr-pia̍k/tw,xm,zz:chū-pe̍k/twv:chū-pe̍h
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[confession]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[confess]]
+# to [[make]] oneself [[clear]]; to [[justify]] one's [[position]]
+# to [[brag]]
+
+====Synonyms====
+* {{sense|confess}} {{zh-l|承認}}, {{zh-l|供認|tr=gòngrèn}}, {{zh-l|交代}}, {{zh-l|坦白}}, {{zh-l|自供}}
+
+====Derived terms====
+{{zh-der|自白書}}
+
+====See also====
+* {{zh-l|供詞}}
+* {{zh-l|供狀}}
+* {{zh-l|自供狀}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じ|はく|yomi=on}}
+
+===Noun===
+{{ja-noun|じはく}}
+
+# [[confession]]
+#* '''1926''', 平林初之輔, 予審調書:
+#*: {{ja-usex|ところが、あなたの小細工が犯人の'''自白'''を早めたのです。|ところが、 あなた の こざいく が はんにん の '''じはく''' を はやめた の です。|By the way, your trick made the criminal confess earlier.}}
+
+===Verb===
+{{ja-verb-suru|じはく}}
+
+# [[confess]]
+
+====Conjugation====
+{{ja-suru|じはく}}
+
+[[ko:自白]]
+[[hu:自白]]
+[[mg:自白]]
+[[ja:自白]]
+[[chr:自白]]
+[[zh:自白]]

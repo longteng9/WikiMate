@@ -1,0 +1,151 @@
+{{character info/new}}
+{{also|礼}}
+==Translingual==
+{{ja-forms|[[礼]]|[[礼]]|禮}}
+
+===Alternative forms===
+* {{l|mul|𥜨}}
+* {{l|mul|𥜪}}
+
+===Han character===
+{{Han char|rn=113|rad=示|as=13|sn=18|four=35218|canj=IFTWT|ids=⿰礻豊}}
+
+# [[social]] [[custom]]
+# [[manners]]
+# [[courtesy]]
+# [[rites]]
+# [[proper]] social [[behavior]] (in Confucianism)
+# [[propriety]]
+# [[politeness]]
+# [[gift]]
+
+====Descendants====
+* [[礼]]
+* [[れ]]
+* [[レ]]
+
+====Usage notes====
+Note that a correct Japanese kyūjitai glyph uses [[示]] on the left, rather than the simplification [[礻]]. The Unicode codepoint is the same, only the appearance of the glyph differs between fonts.
+
+====References====
+* {{Han ref|kx=0847.070|dkj=24844|dj=1268.090|hdz=42409.140|uh=79AE|ud=31150|bh=C2A7|bd=49831}}
+
+[[Category:Han characters from which hiragana were derived|れ]]
+[[Category:Han characters from which katakana were derived|レ]]
+
+----
+
+==Chinese==
+{{zh-forms|s=礼|alt=礼}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|示|alt1=礻|t1=altar|豊|ls=psc|c1=s|c2=p}} – performing rites at the altar.
+
+In Japanese kyūjitai, {{Han compound|示|t1=altar|豊|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lǐ
+|c=lai5
+|h=pfs=lî
+|md=
+|mn=lé
+|mn-t=loi2/li2
+|mn-t_note=loi1 - vernacular; li2 - literary
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[present]], [[gift]]
+# [[etiquette]]
+# [[salute]]
+
+====Usage notes====
+Usually, a single 禮 refers to gift that involves more serious social interaction. For gifts between friends, 禮物 is used instead.
+
+====Compounds====
+{{der3|title=Compounds
+|{{zh-l|禮物}}
+|{{zh-l|禮儀}}
+|{{zh-l|禮貌}}
+|{{zh-l|彬彬有禮}}
+|{{zh-l|禮多人不怪}}
+|{{zh-l|以禮待人}}
+|{{zh-l|以禮相待}}
+|{{zh-l|有禮}}
+|{{zh-l|無禮}}
+|{{zh-l|無禮貌}}
+|{{qualifier|Cantonese}} {{zh-l|冇禮}}
+|{{zh-l|禮教}}
+|{{zh-l|禮堂}}
+|{{zh-l|典禮}}
+|{{zh-l|禮拜}}
+|{{zh-l|送禮}}
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=示13|style=ky|shin=礼}}
+
+# [[propriety]], [[courtesy]], [[politeness]], [[etiquette]]
+
+====Readings====
+{{ja-readings
+|goon=[[らい]] (rai)
+|kanon=[[れい]] (rei)
+|nanori=[[ひろ]] (hiro), [[れ]] (re)
+}}
+
+====Usage notes====
+This spelling has been [[supersede]]d in modern Japanese by the [[shinjitai]] form {{m|ja|礼}}.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[례]]>[[예]]|rv=rye>ye|eumhun=[[례도]], [[예도]]|ehrv=ryedo, yedo|ehmr=ryedo, yedo|y=lyey>yey}}
+
+# [[manners]], [[etiquette]]
+
+====compounds====
+
+* {{l|ko|무례}} (無禮) [[rudeness]]
+* {{l|ko|예절}} (禮節) [[manners]], [[etiquette]]
+* {{l|ko|예식}} (禮式) [[ceremony]]
+* {{l|ko|예의}} (禮儀) [[manners]], [[etiquette]]
+* {{l|ko|혼례}} (婚禮) [[wedding]]
+* {{l|ko|예배}} (禮拜) [[worship]]
+* {{l|ko|결례}} (缺禮) [[discourtesy]]
+* {{l|ko|다례}} (茶禮) = 다도(茶道) [[tea ceremony]]
+* {{l|ko|사례}} (謝禮) [[return]], [[reward]]
+* {{l|ko|답례}} (答禮) [[return]], [[reward]]
+* {{l|ko|경례}} (敬禮) [[salute]]
+* {{l|ko|세례}} (洗禮) [[baptism]]
+* {{l|ko|장례}} (葬禮) [[funeral]]
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lễ]], [[thanh]], [[lạy]], [[lẩy]], [[lẫy]], [[lẻ]], [[lể]], [[rẩy]], [[lãi]], [[lấy]], [[lỡi]], [[lởi]], [[rẽ]]|rs=示13}}
+
+# {{defn|lang=vi|sort=示13}}
+
+[[fr:禮]]
+[[ko:禮]]
+[[hu:禮]]
+[[mg:禮]]
+[[ja:禮]]
+[[pl:禮]]
+[[th:禮]]
+[[zh:禮]]

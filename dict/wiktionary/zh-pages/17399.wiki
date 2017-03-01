@@ -1,0 +1,64 @@
+{{character info/new}}
+{{also|台}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=|canj=DIR|ids=⿰木台}}
+
+====References====
+* {{Han ref|kx=0517.050|dkj=14581|dj=0905.020|hdz=21191.060|uh=67B1|ud=26545}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han compound|木|台|c1=s|t1=wood|c2=p|ls=psc}}.
+
+===Etymology 1===
+{{zh-see|檯|v}}
+
+===Etymology 2===
+{{zh-forms|alt=鈶,𣙼,𨐠}}
+
+====Pronunciation====
+{{zh-pron
+|m=sì,yí
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{zh-alt-form|耜|[[plowshare]]}}
+
+===Etymology 3===
+{{zh-see|柌|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木05}}
+
+# {{defn|lang=ja|sort=木05}}
+
+====Readings====
+* {{ja-readings|on=[[い]] (i), [[し]] (shi), [[じ]] (ji)|kun=[[すき]] (suki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=대|eumhun=|rv=dae|mr=tae|y=tay}}
+
+# {{defn|lang=ko|sort=木05}}
+
+[[fr:枱]]
+[[hu:枱]]
+[[pl:枱]]
+[[pt:枱]]
+[[th:枱]]
+[[zh:枱]]

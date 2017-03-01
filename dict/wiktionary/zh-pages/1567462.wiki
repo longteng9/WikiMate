@@ -1,0 +1,46 @@
+{{also|电化}}
+==Chinese==
+{{zh-forms|s=电化}}
+
+===Pronunciation===
+{{zh-pron
+|m=diànhuà
+|c=din6 faa3
+|mn=tiān-hòa
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[electrify]]
+
+===Noun===
+{{zh-noun}}
+
+# [[electrification]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|でん|か|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|でんか|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|でんか}}
+# [[electrification]]
+
+===Verb===
+{{ja-verb-suru|でんか}}
+
+# [[electrify]]
+
+====Conjugation====
+{{ja-suru|でんか}}
+
+===References===
+<references/>
+
+[[zh:電化]]

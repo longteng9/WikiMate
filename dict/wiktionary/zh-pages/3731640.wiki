@@ -1,0 +1,63 @@
+==Chinese==
+{{zh-forms}}
+{{zh-wp}}
+
+===Pronunciation===
+{{zh-pron
+|m=dúsù
+|c=duk6 sou3
+|mn=to̍k-sò͘
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|biochemistry}} [[toxin]]
+
+====Derived terms====
+{{zh-der|變性毒素|尿毒素|天然毒素|外毒素|內毒素|類毒素|黃麴毒素}}
+
+----
+
+==Japanese==
+{{wp|lang=ja}}
+{{ja-kanjitab|どく|そ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|どくそ|acc=1|dev=2|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|どくそ}}
+
+# [[toxin]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|外毒素|がいどくそ|[[exotoxin]]}}
+* {{ja-r|抗毒素|こうどくそ|[[antitoxin]]}}
+* {{ja-r|細菌毒素|さいきん どくそ|[[bacterial]] [[toxin]]}}
+* {{ja-r|生物毒素兵器禁止条約|^せいぶつ ^どくそ ^へいき ^きんし ^じょうやく|[[w:Biological Weapons Convention|Biological Weapons Convention]]}}
+* {{ja-r|毒素血症|どくそけっしょう|[[toxemia]]}}
+* {{ja-r|内毒素|ないどくそ|[[endotoxin]]}}
+* {{ja-r|ベロ毒素|ベロどくそ|[[verotoxin]]}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=독소}}
+
+# {{hanja form of|독소|[[toxin]]}}
+
+[[ca:毒素]]
+[[ko:毒素]]
+[[hu:毒素]]
+[[pl:毒素]]
+[[zh:毒素]]

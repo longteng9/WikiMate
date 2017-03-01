@@ -1,0 +1,82 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǒuhǎo
+|c=jau5 hou2
+|mn=iú-hó
+|ma=Zh-yǒuhǎo.ogg
+|cat=a,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|Beginning Mandarin}} [[friendly]]; [[amicable]]
+
+===Noun===
+{{zh-noun}}
+
+# [[friendship]]
+
+====Derived terms====
+{{zh-der|友好城市:[[yǒuhǎo chéngshì]]}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ゆう|こう|yomi=on}}
+
+===Etymology 1===
+From {{etyl|zhx|ja|sort=ゆうこう}} {{m|zh|sc=Hani|友好}}.
+
+====Pronunciation====
+{{ja-pron|yomi=on|ゆうこう|acc=0|acc_ref=<ref>{{R:Kenkyusha JEL Pocket}}</ref><ref name="DJR">{{R:Daijirin}}</ref>}}
+
+====Noun====
+{{ja-noun|ゆうこう|hhira=いうかう}}
+
+# [[friendship]], [[amity]]
+
+=====Antonyms=====
+* {{ja-r|敵対|てきたい}}: [[hostility]], [[antipathy]]
+
+=====Synonyms=====
+* {{ja-r|親交|しんこう}}
+* {{ja-r|親睦|しんぼく}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|友好的|ゆうこうてき}}: [[friendly]], [[amicable]]
+* {{ja-r|友好国|ゆうこう こく}}: a friendly [[nation]]
+* {{ja-r|友好条約|ゆうこう じょうやく}}: a [[friendship]] [[treaty]], a [[treaty]] of [[amity]]
+{{der-bottom}}
+
+===Etymology 2===
+Compound of {{compound|lang=ja|sort=ともよし|友|tr1=tomo|t1=friend|好|tr2=yoshi|t2=good}}. The {{l|ja|好}} kanji used for the ''yoshi'' reading is an example of [[熟字訓#Japanese|jukujikun]].
+
+====Pronunciation====
+{{ja-pron|yomi=k|ともよし}}
+
+====Proper noun====
+{{ja-pos|proper|ともよし}}
+
+# {{given name|male|lang=ja|sort=ともよし}}
+
+===References===
+<references />
+
+[[fr:友好]]
+[[ko:友好]]
+[[io:友好]]
+[[lt:友好]]
+[[li:友好]]
+[[hu:友好]]
+[[mg:友好]]
+[[ja:友好]]
+[[ru:友好]]
+[[ta:友好]]
+[[chr:友好]]
+[[uk:友好]]
+[[zh:友好]]

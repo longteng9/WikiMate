@@ -1,0 +1,33 @@
+==Japanese==
+{{ja-kanjitab|けん|お|yomi=o}}
+
+===Noun===
+{{ja-noun|けんお|kyu=嫌惡}}
+
+# [[hatred]], [[dislike]]
+#: {{ja-usex|自己'''嫌悪'''|じこ '''けんお'''|self-'''hatred'''}}
+#: {{ja-usex|'''嫌悪'''の念を抑えることができなかった。|'''けんお''' の ねん を おさえる こと が できなかった。|I couldn't suppress my hatred.}}
+
+====Synonyms====
+* {{ja-r|嫌厭|けんえん}}
+* {{ja-r|厭悪|えんお}}
+
+====Antonyms====
+* {{ja-r|愛好|あいこう|gloss=[[love]]}}
+
+===Verb===
+{{ja-verb-suru|けんお|kyu=嫌惡}}
+
+# to [[hate]]; to [[dislike]]; to [[despise]]; to [[detest]]
+
+====Conjugation====
+{{ja-suru|けんお}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[hu:嫌悪]]
+[[mg:嫌悪]]
+[[ja:嫌悪]]
+[[chr:嫌悪]]
+[[zh:嫌悪]]

@@ -1,0 +1,97 @@
+{{character info/new}}
+==Translingual==
+{{ja-forms|[[弁]]|瓣|瓣}}
+
+===Alternative forms===
+* {{l|mul|弁}} (Japanese simplified form which also covers [[辨]] and [[辯]]<!-- and possibly [[辧]]-->)
+
+===Han character===
+{{Han char|rn=97|rad=瓜|as=14|sn=19|four=00441|canj=YJHOJ|ids=⿲辛瓜辛}}
+
+====References====
+* {{Han ref|kx=0747.260|dkj=21425|dj=1155.270|hdz=64043.120|uh=74E3|ud=29923|bh=C3A4|bd=50084}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|辡|瓜|c1=p|c2=s|t2=melon|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bàn,er=y
+|m-s=ban4
+|c=baan6,faan6
+|mn=bān/pān
+|w=2pe,3be
+|mc=y
+|oc=y
+|ma=
+|cat=n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} [[melon]] [[seed]]s
+# [[petal]]
+# [[segment]]; [[section]]; [[piece]]; [[clove]] (of garlic)
+# {{lb|zh|medicine}} {{zh-short|瓣膜|[[valve]]}}
+# {{zh-classifier|[[piece]]s and [[segment]]s, such as those of (cut-up) [[fruit]]s or [[petal]]s}}
+
+===Compounds===
+{{zh-der|二尖瓣|三尖瓣|三瓣嘴|乳瓣|心瓣膜|半月瓣|心臟瓣|一瓣心香|八瓣兒五|合瓣花冠|瓣鰓類|旗瓣|瓣香|瓣膜|活瓣|離瓣花冠|辣瓣兒醬|花瓣|脣瓣|花葯瓣|蒜瓣兒|重瓣胃|迴盲瓣|豆瓣醬|翼瓣|蒜瓣骨朵|豬心瓣膜}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=瓜14|style=ky|shin=弁}}
+
+# {{defn|lang=ja|sort=瓜14}}
+
+====Readings====
+* {{ja-readings|on=[[べん]] (ben)|kun=[[はなびら]] (hanabira)}}
+
+====Compounds====
+* [[安全瓣]] (あんぜんべん)
+* [[花瓣]]
+* [[豆瓣醤]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[판]]|eumhun=|rv=pan|mr=p'an|y=phan}}
+
+# {{defn|lang=ko|sort=瓜14}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=瓜14| hanviet = [[bẹ]], [[biện]]}}
+
+# {{defn|lang=vi|sort=瓜14}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:瓣]]
+[[fr:瓣]]
+[[li:瓣]]
+[[hu:瓣]]
+[[mg:瓣]]
+[[ja:瓣]]
+[[no:瓣]]
+[[pl:瓣]]
+[[th:瓣]]
+[[vi:瓣]]
+[[zh:瓣]]

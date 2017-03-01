@@ -1,0 +1,61 @@
+{{character info/new}}
+{{also|舍}}
+==Translingual==
+{{ja-forms|舎|[[舍]]|[[舍]]}}
+
+===Etymology===
+Japanese shinjitai {{Han simp|舍|f=舌|t=𠮷}}.
+
+Current form {{Han compound|人|𠮷}}.
+
+===Han character===
+{{Han char|rn=135|rad=舌|as=02|sn=8|four=|canj=OGR,XXOGR|ids=⿱𠆢𠮷}}
+
+# [[house]], [[dwelling]]
+# [[dwell]], [[reside]]
+
+====Derived characters====
+* {{lang|ja|[[捨]]}} {{qualifier|Japanese form features same form}}
+* [[舗]]
+
+====See also====
+* {{l|mul|吉}}
+
+====References====
+* {{Han ref|kx=1006.231|dkj=30278|dj=1464.010|hdz=10141.071|uh=820E|ud=33294}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=舌02|style=s|kyu=舍}}
+
+====Readings====
+{{ja-readings|goon=[[しゃ]] (sha)|kanon=[[しゃ]] (sha)|kun=[[やどる]] (yadoru)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|豚舎|とんしゃ}}: [[pigsty]] {{gloss|enclosure where pigs are kept}}
+{{der-bottom}}
+
+{{ja-kanjitab|しゃ|yomi=o}}
+
+===Noun===
+{{ja-noun|kyu=舍|しゃ}}
+
+# [[inn]]; [[hut]]; [[house]]; [[mansion]]
+
+===Suffix===
+{{ja-pos|suffix|kyu=舍|しゃ}}
+
+# house
+
+[[fr:舎]]
+[[hu:舎]]
+[[mg:舎]]
+[[ja:舎]]
+[[pl:舎]]
+[[th:舎]]
+[[vi:舎]]
+[[zh:舎]]

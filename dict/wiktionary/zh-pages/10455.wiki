@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Alternative forms===
+* {{l|mul|㐺}}
+
+===Etymology===
+{{Han simp|㐺}} – {{Han compound|人|人|人|t1=man|ls=ic}} – many men are standing. Significantly abstracted.
+
+===Han character===
+{{Han char|rn=4|rad=丿|as=05|sn=6|four=|canj=OHHO}}
+
+# [[stand]] [[side by side]]
+
+====Derived terms====
+* {{l|mul|衆}} ([[眾]]), [[聚]], [[臮]]
+
+====See also====
+* {{l|mul|衣}} [[𠂢]] <!-- graphically similar -->
+
+====References====
+* {{Han ref|kx=0082.150|dkj=00139|dj=0166.100|hdz=10038.050|uh=4E51|ud=20049}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|alt=众,㐺}}
+
+====Pronunciation====
+{{zh-pron
+|m=yín
+|c=jam4
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===Etymology 2===
+{{zh-see|攀|v}}
+
+===Etymology 3===
+{{zh-see|眾|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=丿05}}
+
+# {{defn|lang=ja|sort=丿05}}
+
+====Readings====
+* {{ja-readings|on=[[ぎん]] (gin), [[ごん]] (gon)|kun=[[ならびたつ]] (narabitatsu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=임|rv=im|mr=im}}
+
+# {{defn|lang=ko|sort=丿05}}
+
+[[fr:乑]]
+[[li:乑]]
+[[hu:乑]]
+[[pl:乑]]
+[[th:乑]]
+[[zh:乑]]

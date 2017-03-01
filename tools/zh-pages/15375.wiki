@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=04|sn=7|four=97015|canj=PNG|ids=⿰忄丑}}
+
+# [[blush]], be [[bashful]], be [[ashamed]]
+
+====References====
+* {{Han ref|kx=0378.270|dkj=10397|dj=0706.260|hdz=42279.010|uh=5FF8|ud=24568|bh=A7D7|bd=42967}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=niǔ
+|c=nuk6,nau5,nau2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|忸忸怩怩|忸怩|忸怩作態|忸捏}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心04}}
+
+# {{defn|lang=ja|sort=心04}}
+
+====Readings====
+* {{ja-readings|on=[[じく]] (jiku), [[じゅう]] (jū)|kun=[[はじる]] (hajiru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[뉴]]>[[유]]|eumhun=|rv=nyu>yu|mr=nyu>yu|y=nyu>yu}}
+
+# {{defn|lang=ko|sort=心04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心04|hanviet=[[ngượng]], [[nữu]]}}
+
+# {{defn|lang=vi|sort=心04}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5ff8 Nom Foundation]
+
+[[fr:忸]]
+[[li:忸]]
+[[hu:忸]]
+[[mg:忸]]
+[[ja:忸]]
+[[pl:忸]]
+[[th:忸]]
+[[zh:忸]]

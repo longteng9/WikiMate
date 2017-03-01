@@ -1,0 +1,99 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=48|rad=工|as=02|sn=5|four=11127|canj=MMVS|ids=⿰工丂}}
+
+# [[skillful]], [[ingenious]], [[clever]]
+
+* Antonym : '''[[拙]]'''
+
+====References====
+* {{Han ref|kx=0325.090|dkj=08721|dj=0628.010|hdz=10412.010|uh=5DE7|ud=24039|bh=A5A9|bd=42409}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiǎo
+|c=haau2,kiu2
+|h=
+|mn=kháu/khiáu/khá
+|mn_note=kháu - literary; khiáu/khá - vernacular
+|w=
+|mc=y
+|oc=y
+|ma=Zh-qiao.ogg
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===Compounds===
+* {{zh-l|巧克力}}
+
+===See also===
+* {{qualifier|Mandarin}} {{zh-l|聰明}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=工02}}
+
+# adroit
+
+====Readings====
+* {{ja-readings|goon=[[きょう]] (kyō)|kanon=[[こう]] (kō) > [[かう]] (kau)|kun=[[うまい]] (umai), [[たくみ]] (takumi), [[さとい]] (satoi)}}
+
+===Proper noun===
+{{ja-pos|proper|たくみ}}
+
+# {{given name|male|lang=ja}}
+
+{{ja-pos|proper|こう|hhira=かう}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|たくみ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=교|rv=gyo|mr=kyo}}
+
+# {{defn|lang=ko|sort=工02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xảo]], [[nghiệp]]|rs=工02}}
+
+# {{defn|lang=vi|sort=工02}}
+
+[[zh-min-nan:巧]]
+[[fr:巧]]
+[[ko:巧]]
+[[li:巧]]
+[[hu:巧]]
+[[mg:巧]]
+[[ja:巧]]
+[[no:巧]]
+[[pl:巧]]
+[[th:巧]]
+[[vi:巧]]
+[[zh:巧]]

@@ -1,0 +1,24 @@
+{{also|銳角|锐角}}
+==Japanese==
+{{ja-kanjitab|えい|かく|yomi=o}}
+
+===Noun===
+{{ja-noun|えいかく|kyu=銳角}}
+
+# {{lb|ja|geometry}} [[acute]] [[angle]]
+
+====Antonyms====
+* {{ja-r|鈍角|どんかく|gloss=[[obtuse]] angle}}
+
+====Compounds====
+* {{ja-r|鋭角三角形|えいかく さんかっけい|gloss=acute triangle}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Geometry|えいかく]]
+
+[[cs:鋭角]]
+[[hu:鋭角]]
+[[ja:鋭角]]
+[[zh:鋭角]]

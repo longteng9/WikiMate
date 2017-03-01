@@ -1,0 +1,48 @@
+{{character info/new}}
+{{also|觀}}
+==Translingual==
+{{Han simplified forms|觀|観|观}}
+
+===Etymology===
+Japanese shinjitai {{Han simp|觀|f=艹|t=𠂉|f2=吅|t2=一}}. Compare [[権]].
+
+===Han character===
+{{Han char|rn=147|rad=見|as=11|sn=18|four=|canj=OGBUU}}
+
+====Related characters====
+* [[権]]
+
+====References====
+* {{Han ref|kx=1137.091|dkj=34955|dj=1604.140|hdz=63674.080|uh=89B3|ud=35251}}
+
+----
+
+==Japanese==
+===Etymology===
+From {{etyl|ltc|ja|sort=かん}} {{m|zh|觀|tr=kwan||look}}
+====Suffix====
+{{ja-pos|suffix|かん}}
+# [[look]], [[appearance]]
+# [[sight]]
+# {{lb|ja|Buddhism|sort=かん}} observation meditation
+===Kanji===
+{{ja-kanji|grade=4|rs=見11|style=s|kyu=觀}}
+
+# [[see]], [[observe]], [[view]]
+# [[appearance]]
+
+====Readings====
+* {{ja-readings|goon=[[かん]] ([[kan]])|kun=[[みる]] ([[観る]], [[miru]]), [[しめす]] ([[shimesu]])|kanon=[[かん]] ([[kan]])}}
+
+====Compounds====
+* {{ja-r|観音|^かんのん}}
+* {{ja-r|観念|かんねん}}
+
+[[fr:観]]
+[[ko:観]]
+[[hu:観]]
+[[mg:観]]
+[[ja:観]]
+[[pl:観]]
+[[th:観]]
+[[zh:観]]

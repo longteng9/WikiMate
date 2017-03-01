@@ -1,0 +1,71 @@
+{{character info/new}}
+{{also|枥}}
+==Translingual==
+===Han character===
+{{Han char|rn=75|rad=木|as=16|sn=20|four=41911|canj=DMHM|ids=⿰木歷}}
+
+====References====
+* {{Han ref|kx=0561.160|dkj=15846|dj=0950.070|hdz=21316.110|uh=6AEA|ud=27370|bh=F455|bd=62549}}
+----
+
+==Chinese==
+{{zh-forms|s=枥}}
+
+===Alternative forms===
+* {{zh-l|𫞒}}
+
+===Pronunciation===
+{{zh-pron
+|m=lì
+|c=lik1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[type]] of [[oak]]
+# [[stable]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木16}}
+
+# {{defn|lang=ja|sort=木16}}
+
+====Readings====
+* {{ja-readings|on=[[れき]] (reki)|kun=[[かいばおけ]] (kaibaoke), [[くぬぎ]] (kunugi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[력]]>[[역]]|eumhun=|rv=ryeok>yeok|mr=ryŏk>yŏk|y=lyek>yek}}
+
+# {{defn|lang=ko|sort=木16}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木16| hanviet = lịch}}
+
+# {{defn|lang=vi|sort=木16}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6aea Nom Foundation]
+
+[[fr:櫪]]
+[[hu:櫪]]
+[[ja:櫪]]
+[[pl:櫪]]
+[[th:櫪]]
+[[zh:櫪]]

@@ -1,0 +1,68 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuòyòng,tl=y
+|c=zok3 jung6
+|h=pfs=chok-yung
+|mn=chok-iōng/twv:chò-iōng
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[function]]; [[role]]; [[purpose]]
+#: {{zh-x|它 在 這個 過程 中 起 什麼 作用？|What '''role''' does it play in this process?}}
+#: {{zh-x|拐杖 的 作用 是 幫助 行動 不便 的 人。|The '''purpose''' of walking sticks is to assist those those with mobility issues.}}
+#: {{zh-x|空調 的 作用 是 製冷。|The '''function''' of air conditioning is to lower the temperature.}}
+# [[effect]]; [[action]]
+#: {{zh-x|這個 藥 的 作用 很 強，讓 我 有點 不舒服。|The '''effect''' of this drug is quite strong and has made me a bit ill.}}
+#: {{zh-x|在 這個 技術 的 作用 下，人們 可以 生活 得{de} 更 方便。|(The '''effects''' of) This technology can make our lives more convenient.}}
+#: {{zh-x|服食 這 藥 也 有 增強 免疫力 的 作用。|Taking this drug also has the '''effect''' of strengthening immunity.}}
+
+====Derived terms====
+{{zh-der|副作用|光合作用|呼吸作用|相互作用|作用力}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[act on]]; to [[affect]]
+
+===Descendants===
+{{CJKV|作用|さよう|작용|tác dụng}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|さ|よう|yomi=on}}
+
+===Noun===
+{{ja-noun|さよう}}
+
+# [[action]], [[operation]]
+# [[effect]]
+# [[function]]
+
+===Verb===
+{{ja-verb-suru|さよう}}
+
+# [[act]] on
+
+====Conjugation====
+{{ja-suru|さよう}}
+
+[[zh-min-nan:作用]]
+[[ko:作用]]
+[[hu:作用]]
+[[mg:作用]]
+[[ja:作用]]
+[[th:作用]]
+[[chr:作用]]
+[[uk:作用]]
+[[zh:作用]]

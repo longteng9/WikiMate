@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|鯖|缶}}
+
+===Pronunciation===
+* {{a|Common accent}} {{ja-accent-common|heiban|さ|ばかん|sàbákáń}}
+
+===Etymology 1===
+{{m|ja|鯖||mackerel|tr=saba|sc=Jpan}} + {{m|ja|缶||can|tr=kan|sc=Jpan}}, from {{m|ja|缶詰||canned food|tr=kanzume|sc=Jpan}}
+
+====Noun====
+{{ja-noun|さばかん}}
+# [[can|Canned]] [[mackerel]].
+
+===Etymology 2===
+{{m|ja|鯖||mackerel|tr=saba|sc=Jpan}} [[w:ateji|ateji]] for {{m|ja|サーバー||server|tr=sābā|sc=Jpan}} + {{m|ja|缶||can|tr=kan|sc=Jpan}} ateji for {{m|ja|管理者||administrator|tr=kanrisha|sc=Jpan}}
+
+====Noun====
+{{ja-noun|さばかん}}
+# {{lb|ja|slang|computing|sort=さばかん}} [[server]] [[administrator]]

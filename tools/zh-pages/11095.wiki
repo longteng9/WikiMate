@@ -1,0 +1,112 @@
+{{character info/new}}
+{{also|仮|段}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=09|sn=11|four=27247|canj=ORYE|ids=⿰亻叚}}
+
+====References====
+* {{Han ref|kx=0110.030|dkj=00835|dj=0233.160|hdz=10196.020|uh=5047|ud=20551|bh=B0B2|bd=45234}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|alt1=亻|叚|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=jiǎ
+|c=gaa2
+|h=pfs=ká
+|md=gā
+|mn=ké
+|w=2ka,2jia
+|w_note=2ka - vernacular; 2jia - literary
+|dial=n
+|mc=1
+|oc=1+2,1
+|cat=a,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[fake]]; not [[real]]; [[artificial]]
+#: {{zh-x|假貨|counterfeit goods}}
+# [[falsehood]]; [[deception]]
+# to [[fake]]; to [[pretend]]
+# to [[lend]]; to [[borrow]]; to [[loan]]
+# [[if]]; [[assuming]]
+
+====Compounds====
+{{zh-der|假借|假話|假唱|假裝|造假|真假|假貨|假如|假若|假設|假意|假性|通假|假定|假名|假冒|假聲|假使|作假|便假若|假稱|假力|不假|假牙|假榻|不假思索|假寓|假貸|假山|平假名|假惺惺|假死|假充|假對|假子|假面具|假捏|假座|寬假|假道學|假面劇|假處分|假館|假以顏色|假局子|不假辭色|假象|假決議|假嗓子|假寵|將假當真|假正經|假性近視|假以辭色|假饒|假寐|假仙|強文假醋|以假為真|弄虛作假|弄假成真|假扮|優假|假分數|假撇清|久假不歸|假扣押|喬文假醋|假洋鬼子|假力於人|假父|假戲真做|將假作真|假釋|假髮|假果|假借義|假手他人|假食|假廝兒|假公濟私|天假之年|假道|假造|天假因緣|假根|假手|因公假私|假途滅虢|假想敵|天假良緣|假執行|假平等|假批子|假托|假想|假節|假仁假義|假言命題|假葉|假息|假女|假似|假招子|假意周旋|假鈔|搬假戲|摻假|撇假|狐假虎威|片假名|狐假鴟張|真真假假|當真假|理論假設|攙假|調假|附會假借|糊假棺|虛情假意|衿假|裝假|虎威狐假|虛假|酸文假醋|言真道假}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=jià
+|c=gaa3
+|h=pfs=ka
+|md=gá
+|mn=ká
+|w=2ka
+|mc=2
+|oc=n,2
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[vacation]]
+#: {{zh-x|病假{jià}|sick leave}}
+#: {{zh-x|假{jià}日|holiday}}
+
+====Compounds====
+{{zh-der|fold=1|暑假|放假|假日|寒假|休假|病假|假期|請假|春假|銷假|准假|予假|例假|事假|度假村|參假|年假|彈性放假|度假勝地|乞假|例假日|告假|告謊假|國定假日|不假外出|假樂|公假|假日花市|放假日|渡假|求假|產假|節假|長假|補假|賜假|給假|連續假日|續假|羅馬假期}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人09|style=ky|shin=仮}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka), [[け]] (ke)|kun=[[かり]] (kari)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[가]], [[하]]|rv=ga, ha|mr=ka, ha}}
+
+# {{defn|lang=ko|sort=人09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[giả]], [[giá]], [[hạ]]|rs=人09}}
+
+# {{defn|lang=vi|sort=人09}}
+
+[[zh-min-nan:假]]
+[[fr:假]]
+[[ko:假]]
+[[li:假]]
+[[hu:假]]
+[[mg:假]]
+[[ms:假]]
+[[ja:假]]
+[[no:假]]
+[[pl:假]]
+[[th:假]]
+[[chr:假]]
+[[uk:假]]
+[[zh:假]]

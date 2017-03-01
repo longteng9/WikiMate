@@ -1,0 +1,30 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=tèshūxìng
+|mn=te̍k-sû-sèng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[specialness]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|とく|しゅ|せい|yomi=o}}
+
+===Etymology===
+{{suffix|特殊|性|lang=ja|t1=special|t2=-ness|sort=とくしゅせい}}
+
+===Noun===
+{{ja-noun|とくしゅせい}}
+
+# [[distinctiveness]], [[particularity]]
+
+[[ko:特殊性]]
+[[zh:特殊性]]

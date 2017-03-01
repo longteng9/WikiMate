@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=děngfēn
+|c=dang2 fan1
+|mn=téng-hun
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[divide]] into [[equal]] [[part]]s
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|ぶん|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|とうぶん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうぶん}}
+
+# division into equal parts
+
+===Verb===
+{{ja-verb-suru|tr=trans|とうぶん}}
+
+# to [[divide]] into equal parts
+
+====Conjugation====
+{{ja-suru|とうぶん}}
+
+===References===
+<references/>
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=등분}}
+
+# {{hanja form of|등분}}
+
+[[ko:等分]]
+[[zh:等分]]

@@ -1,0 +1,94 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Alternative forms===
+* {{l|mul|辶}} (when used as a Chinese radical)
+* {{l|mul|⻌}} (simplified form of radical)
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|彳|止|t1=walk|t2="foot" or "to stop"|ls=ic}}.
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=00|sn=7|four=20801|canj=HHHO|ids=⿱彡龰}}
+
+# [[walk]]
+# [[walking]]
+# {{mul-kangxi radical-def}}
+
+====Descendants====
+* [[徒]], [[徙]], [[從]]
+* [[Index:Chinese radical/辵]]
+
+====References====
+* {{Han ref|kx=1253.110|dkj=38700|dj=1735.010|hdz=63815.010|uh=8FB5|ud=36789}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chuò
+|c=coek3
+|h=pfs=chhok
+|mn=thiok
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* [http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辵00}}
+
+# {{defn|lang=ja|sort=辵00}}
+
+====Readings====
+* {{ja-readings|on=[[ちゃく]] (chaku)|kun=[[しんにょう]] (shinnyou)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[착]]|eumhun=|rv=chak|mr=ch'ak|y=chak}}
+
+# {{defn|lang=ko|sort=辵00}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[xước]], [[sước]], [[xích]]|rs=辵00}}
+
+# {{defn|lang=vi|sort=辵00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:辵]]
+[[ko:辵]]
+[[li:辵]]
+[[hu:辵]]
+[[mg:辵]]
+[[ja:辵]]
+[[pl:辵]]
+[[ru:辵]]
+[[th:辵]]
+[[zh:辵]]

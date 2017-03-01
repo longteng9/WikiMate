@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|かく|てい|yomi=on}}
+
+===Alternative forms===
+* {{l/ja|劃定}}
+
+===Pronunciation===
+{{ja-pron|かくてい|y=o}}
+
+===Noun===
+{{ja-noun|かくてい}}
+
+# [[demarcation]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|かくてい}}
+
+# [[demarcate]], draw a border between, [[delimit]], [[mark off]]
+#: {{ja-usex|範囲をどのように画定するか|はんい を どの よう に かくてい する か|how to delimit the scope}}
+
+====Conjugation====
+{{ja-suru|かくてい}}
+
+[[ja:画定]]
+[[zh:画定]]

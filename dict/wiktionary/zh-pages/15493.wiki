@@ -1,0 +1,151 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=10}}
+
+===Han character===
+{{Han char|rn=61|rad=心|as=06|sn=10|four=26330|canj=HUP|ids=⿱自心}}
+
+====References====
+* {{Han ref|kx=0385.200|dkj=10601|dj=0717.100|hdz=42291.040|uh=606F|ud=24687|bh=AEA7|bd=44711}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|自|t1=nose|心|t2=heart|ls=ic}} – to breath (life) through one’s nose. Note that this uses the older meaning of {{lang|zh|自}}, as “nose”, rather than “self”.
+
+===Pronunciation===
+{{zh-pron
+|m=息
+|c=sik1,sak1
+|c_note=sik1 - usual pronunciation; sak1 - only in the sense “great-grandchild”
+|h=pfs=
+|md=sék
+|mn=qz:siak/tw,xm:sek/twv,zz:sit
+|w=4xiq
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[breathe]]; to [[pant]]
+# to [[sigh]]; to [[blow]]
+# to [[stop]]; to [[subside]]; to [[cease]]
+# to put a [[stop]] to; to [[stop]]
+# to [[rest]]; to have a rest
+# to [[grow]]; to [[develop]]
+# to [[calm]] down; to [[appease]]
+# [[breath]]; [[life]]
+# one's [[own]] [[children]]
+# {{lb|zh|Cantonese}} [[great-grandchild]]
+# [[interest]]; [[dividend]]s
+# [[message]]; [[news]]
+
+===Compounds===
+{{zh-der|偃旗息鼓|奔流不息|息怒|屏息凝氣|嘆息|息夫人|姑息政策|保境息民|利息收入|息交|息影|一息奄奄|息錢|息款|息陰|息交絕游|息耗|息哀|休息室|內幕消息|加息|息黥補劓|大腸息肉|寢息|娩息|官宦氣息|息饗|姑息養奸|息喘|安息香|息爭|悚息|息靜|息胞|息肉|息男|息燈|息滅|息氣|息息相關|息息相通|息心|息影林泉|息影園林|息媯|息女|息壤|息兵|息偃|息肩|怠息|利息|帖息|太息|含息|循環不息|一息尚存|屏氣攝息|少息|微息|惕息|弱息|卷旗息鼓|姑息|兒息|息息|動息|庥息|年息|息詞|平息|作息|慴息|利息支出|川流不息|宴息|孳息|屏聲息氣|屏息|休息|屏氣斂息|仰天太息|將息|咳聲嘆息|息徒|寧息|停息|出息|休養生息|奄奄一息|安息香樹|安息|保息|人亡政息|半價倍息|小道消息|子息|息賁|喘息|奄息|喙息|官息|息心靜氣|屏息凝視|息土|壓子息|居息|仰息|息訟|利息費用|嗣息|導引胎息|哱息|好消息|安息日|一息|仰人鼻息|和息|安息年|息事寧人|冢息|不息|偃兵息甲|假息|信息|息穀|歇息|有出息|拆息|月息|流光瞬息|消息|毫無聲息|探消息|消息兒|氣息奄奄|無息貸款|杳無信息|止息|浮生瞬息|本息|瞬息|搖頭嘆息|憩息|春消息|窒息|稍息|掩旗息鼓|無聲無息|禽息鳥視|視息|歎息|棲息地|棲息|瞬息萬變|瞬息之間|生生不息|發息|構訟不息|數息|生息蕃庶|生息|懾息|杳無消息|打息氣|栖息|淹淹一息|渺無聲息|沒出息|氣息|瞬息千變|普通利息|擫息|與時消息|蘇息|脈息|調息|股息股利|賤息|耳消耳息|自強不息|經久不息|股息|透消息|貼息|鼻息|除息|胎息|與民休息|馬路消息|養息|風息|風平波息|頓息|跂行喙息|臥旗息鼓|間不容息|綿綿不息|調養生息|解訟息爭|蕃息|脅息|聲息|退息|走漏消息|雀息|訊息|蚡息|苟延殘息|花息|行息}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=心06}}
+
+# [[breath]]
+# [[live]]
+# [[give birth]]
+# [[nurture]]
+# [[spread]], [[multiply]]
+# [[rest]]
+# [[come to an end]]
+
+====Readings====
+{{ja-readings|goon=[[そく]] (soku)|kanon=[[しょく]] (shoku)|kun=[[いき]] (iki), [[やすむ]] (yasumu), [[やめる]] (yameru)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|子息|しそく}}: (''honorific'') [[son]]
+* {{ja-r|息女|そくじょ}}: (''honorific'') [[daughter]]
+* {{ja-r|息男|そくなん}}: (''honorific'') [[son]]
+* {{ja-r|息子|むすこ}}: [[son]]; (''slang'', ''vulgar'') [[penis]]
+* {{ja-r|利息|りそく}}: [[interest]]
+* {{ja-r|令息|れいそく}}: (''honorific'') [[son]]
+{{der-bottom}}
+
+{{ja-kanjitab|いき|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|いき|acc=1|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|いき}}
+
+# [[breath]]
+#: {{ja-usex|'''息''' を する|'''いき''' を する|'''breath'''e}}
+
+====See also====
+* {{ja-r|吐く|はく}}
+* {{ja-r|呼吸|こきゅう}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=식|eumhun=|rv=sik|mr=sik|y=sik}}
+
+# {{defn|lang=ko|sort=心06}}
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{head|ryu|kanji}}
+
+* {{ja-readings|kun=[[いーち]] (īchi)}}
+
+===Etymology===
+Cognate with mainland {{cog|ja|息|tr=iki}}.
+
+===Noun===
+{{head|ryu|noun|hiragana|いーち|romaji|īchi}}
+
+# [[breath]]
+
+====Compounds====
+{{top2}}
+* [[一息]] ([[ちゅいーち]], ''[[chuīchi]]''): a [[single]] [[breath]], [[puff]]; a [[pause]]; a [[small]] [[effort]]
+{{bottom}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tức]]|rs=心06}}
+
+# {{defn|lang=vi|sort=心06}}
+
+[[fr:息]]
+[[ko:息]]
+[[it:息]]
+[[li:息]]
+[[hu:息]]
+[[mg:息]]
+[[ja:息]]
+[[no:息]]
+[[km:息]]
+[[pl:息]]
+[[th:息]]
+[[chr:息]]
+[[zh:息]]

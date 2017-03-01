@@ -1,0 +1,105 @@
+{{character info/new}}
+{{also|试}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=06|sn=13|four=03640|canj=YRIPM|ids=⿰言式}}
+
+====References====
+* {{Han ref|kx=1157.030|dkj=35415|dj=1622.060|hdz=63960.120|uh=8A66|ud=35430|bh=B8D5|bd=47317}}
+
+----
+
+==Chinese==
+{{zh-forms|s=试}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|式|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shì
+|c=si3,si5
+|h=pfs=chhṳ/sṳ
+|mn=chhì/sì
+|mn_note=chhì - vernacular; sì - literary
+|mc=y
+|oc=y
+|ma=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[test]]; to [[try]]; to [[experiment]]
+# [[test]]; [[examination]]
+# [[experiment]]
+
+===Compounds===
+{{zh-der|試驗|一試|主試|以身試法|免試|免試升學|典試|初試|初試啼聲|初試身手|升等考試|及鋒而試|口試|召試|嘗試|國家考試|地下核試|小試|小試牛刀|小試鋒芒|屢試不爽|廣用試紙|廷試|應試|打試|挑試|教師甄試|新硎初試|日省月試|日試萬言|春試|普通考試|會試|期終考試|核子試爆|核子試驗|模擬考試|檢定考試|歲試|殿試|比試|測試|火花試驗|牛刀小試|特種考試|甄試|留學考試|畢業考試|疲勞試驗|發硎新試|監試|石蕊試紙|禮部試|秋試|科試|童子試|筆試|策試|義試|考試|考試委員|考試權|考試院|船模試驗|複試|覆試|診斷試劑|試一試|試兒|試刀|試刊|試劑|試印券|試卷|試周|試問|試圖|試場|試婚|試官|試工|試帖|試想|試探|試播|試新|試晬|試演|試燈|試片|試產|試用|試看|試穿|試管|試管動物|試管嬰兒|試紙|試腳|試航|試藥|試行|試試|試試看|試車|試辦|試金石|試銷|試鏡|試院|試音|試題|試風頭|試飛|試飛員|試驗室|試驗田|試點|課試|赴試|路試|躍躍欲試|輕輕試試|都試|鄉試|銓定考試|院試|面試|高等考試}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=言06}}
+
+# [[trial]]
+# [[experiment]]
+
+====Readings====
+* {{ja-readings|goon=[[し]] (shi)|kanon=[[し]] (shi)|kun=[[こころみる]] (kokoromiru), [[ためす]] (tamesu)}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|試合|しあい}}
+* {{ja-r|水試|すいし}}
+* {{ja-r|口試|こうし}}
+* {{ja-r|試行錯誤|しこうさくご}}
+* {{ja-r|考試|こうし}}
+{{mid3}}
+* {{ja-r|試用|しよう}}
+* {{ja-r|試飲|し.いん}}
+* {{ja-r|入試|にゅうし}}
+* {{ja-r|試験場|しけんじょう}}
+* {{ja-r|試験|しけん}}
+{{mid3}}
+* {{ja-r|筆試|ひっし}}
+* {{ja-r|試行|しこう}}
+* {{ja-r|試製|しせい}}
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=시|eumhun=|rv=si|mr=si|y=si}}
+
+# {{defn|lang=ko|sort=言06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thí]], [[thử]], [[thi]], [[thía]]|rs=言06}}
+
+# {{defn|lang=vi|sort=言06}}
+
+[[zh-min-nan:試]]
+[[fr:試]]
+[[ko:試]]
+[[li:試]]
+[[hu:試]]
+[[mg:試]]
+[[fj:試]]
+[[ja:試]]
+[[pl:試]]
+[[th:試]]
+[[chr:試]]
+[[uk:試]]
+[[zh:試]]

@@ -1,0 +1,108 @@
+{{character info/new}}
+{{also|译|訳}}
+==Translingual==
+{{Han simplified forms|譯|訳|译}}
+
+===Han character===
+{{Han char|rn=149|rad=言|as=13|sn=20|four=06641|canj=YRWLJ|ids=⿰言睪}}
+
+# [[translate]]
+# [[decode]]
+# [[encode]]
+
+====Descendants====
+* [[訳]] [[译]]
+
+====References====
+* {{Han ref|kx=1183.190|dkj=36023|dj=1646.140|hdz=64024.060|uh=8B6F|ud=35695|bh=C4B6|bd=50358}}
+
+----
+
+==Chinese==
+{{zh-forms|s=译}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|睪|c1=s|c2=p|t1=say|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=jik6
+|h=pfs=
+|md=
+|mn=qz:ia̍k/tw,xm,zz:e̍k
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+===Compounds===
+{{der3
+|{{zh-l|翻譯}}
+|{{zh-l|譯本}}
+|{{zh-l|譯筆}}
+|{{zh-l|譯稿}}
+|{{zh-l|譯名}}
+|{{zh-l|譯述}}
+|{{zh-l|譯文}}
+|{{zh-l|譯音}}
+|{{zh-l|譯員}}
+|{{zh-l|譯者}}
+|{{zh-l|譯作}}
+}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言13|style=ky|shin=訳}}
+
+# {{defn|lang=ja|sort=言13}}
+
+====Readings====
+* {{ja-readings|on=[[やく]] (yaku), [[えき]] (eki)|kun=[[わけ]] (wake)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[역]]|eumhun=|rv=yeok|mr=yŏk|y=yek}}
+
+# {{defn|lang=ko|sort=言13}}
+
+====Compounds====
+* [[飜譯]] ([[번역]], beonyeok)
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dịch]]|rs=言13}}
+
+# to [[translate]]
+
+====Usage notes====
+* Chữ Nôm. The modern Vietnamese equivalent is [[dịch]].
+
+====References====
+* [http://www.chunom.org/pages/譯 www.chunom.org]
+
+[[fr:譯]]
+[[ko:譯]]
+[[hu:譯]]
+[[mg:譯]]
+[[ja:譯]]
+[[pl:譯]]
+[[th:譯]]
+[[chr:譯]]
+[[zh:譯]]

@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|褛}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=11|sn=17|four=35244|canj=LLLV|ids=⿰衤婁}}
+
+# [[lapel]], [[collar]]
+# [[tattered]], [[threadbare]]
+
+====References====
+* {{Han ref|kx=1123.050|dkj=34530|dj=1590.310|hdz=53112.010|uh=8938|ud=35128|bh=C1B9|bd=49593}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|s=褛}}
+
+====Pronunciation====
+{{zh-pron
+|m=lǚ
+|c=leoi5,lau5
+|mc=y
+|oc=y
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+=====Compounds=====
+{{zh-der|晨褸|篳路襤褸|衣衫藍褸|衣衫襤褸|褸裂|褸襤簞瓢|襤褸}}
+
+===Etymology 2===
+{{zh-forms|s=褛|alt=摟}}
+{{wikipedia|lang=zh}}
+From {{zh-l|摟|lau1|to drape}}.
+
+====Pronunciation====
+{{zh-pron
+|c=lau1
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} [[coat]]
+
+=====Compounds=====
+{{zh-der|大褸|短褸|風褸|乾濕褸|絨褸|雨褸|褸裙|褸席|棉褸|毛巾褸|皮褸|雪褸|太空褸|著褸|中褸}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=衣11}}
+
+# {{defn|lang=ja|sort=衣11}}
+
+====Readings====
+* {{ja-readings|on=[[ろう]] (rō), [[る]] (ru)|kun=[[ぼろ]] (boro), [[つづる]] (tsuzuru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[루]]>[[누]]|eumhun=|rv=ru>nu|mr=ru>nu|y=lwu>nwu}}
+
+# {{defn|lang=ko|sort=衣11}}
+
+[[fr:褸]]
+[[hu:褸]]
+[[mg:褸]]
+[[ja:褸]]
+[[pl:褸]]
+[[th:褸]]
+[[vi:褸]]
+[[zh:褸]]

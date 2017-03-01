@@ -1,0 +1,113 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=Jīnxīng
+|c=gam1 sing1
+|h=pfs=Kîm-sên
+|mn=qz,tp,xm:Kim-chhiⁿ/kh,zz:Kim-chheⁿ
+|w=1jin xin
+|cat=pn
+}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{lb|zh|planet}} [[Venus]]
+
+====See also====
+* {{list:planets of the Solar System/zh}}
+
+{{zh-cat|Planets of the Solar System}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja|金星|金星 (Kinsei)}}
+{{wikipedia|Venus (planet)}}
+[[File:Venus-real_color.jpg|thumb|250px|{{lang|ja|金星}}]]
+</div>
+{{ja-kanjitab|きん|せい|yomi=on}}
+From {{etyl|ltc|ja|sort=きんせい}} {{m|ltc|金星|tr=kim seng||metal star; Venus|pos=in reference to {{w|Wu Xing}}}}.
+
+====Pronunciation====
+{{ja-pron|きんせい|acc=h|acc_ref=NHK,DJR|y=ko}}
+
+====Proper noun====
+{{ja-pos|proper|きんせい}}
+
+# {{lb|ja|sort=きんせい|astronomy}} [[Venus]]
+
+=====Synonyms=====
+* {{ja-l|金曜|きんよう}} ''(archaic)''
+
+=====Derived terms=====
+* {{ja-l|金星丘|きんせいきゅう|Kinsei kyū}}: {{qualifier|[[palmistry]]}} a [[mount]] of Venus
+* {{ja-l|金星草|きんせいそう|Kinsei sō}}: “Venus grass”: alternate name for {{ja-l|栗葉欄|クリハラン|kuriha ran}}, a type of [[fern]] of [[genus]] {{taxlink|Neocheiropteris|genus|noshow=1|ver=161017}}; alternate name for {{ja-l|三手裏星|ミツデウラボシ|mitsude uraboshi}}, a type of fern of genus {{taxlink|Selliguea|genus|noshow=1|ver=161017}}
+
+=====See also=====
+* {{list:planets of the Solar System/ja|sort=きんせい}}
+* {{ja-l|ビーナス|Bīnasu}}: Venus, the [[Roman]] [[goddess]]
+
+===Etymology 2===
+<div style="float:right;">
+{{wikipedia|lang=ja|金星 (相撲)|金星 (Kinboshi)}}
+{{wikipedia|Kinboshi}}
+</div>
+{{ja-kanjitab|きん|ほし|k2=ぼし|yomi=j|r=y}}
+Compound of {{compound|lang=ja|sort=きんぼし|金|tr1=kin|t1=gold|星|tr2=hoshi|t2=star}}. {{rendaku2|sort=きんぼし|hoshi|boshi}}
+
+====Pronunciation====
+{{ja-pron|きんぼし|acc=a|acc_ref=NHK,DJR|y=j}}
+
+====Noun====
+{{ja-noun|きんぼし}}
+
+# {{lb|ja|sort=きんぼし|sumo}} a [[win]] by a ''[[力士#Japanese|rikishi]]'' of the lower ''[[前頭#Japanese|maegashira]]'' rank over a ''[[横綱#Japanese|yokozuna]]''
+# {{lb|ja|sort=きんぼし|sumo}} a gold star mark displayed on the name and [[ranking]] [[board]] at a sumo competition indicating such a win
+# {{lb|ja|sort=きんぼし|metaphor}} a great [[deed]]
+
+=====See also=====
+* {{ja-l|銀星|きんぼし|ginboshi}}: {{qualifier|sumo}} a win by a ''[[力士#Japanese|rikishi]]'' of the lower ''[[前頭#Japanese|maegashira]]'' rank over an ''[[大関#Japanese|ōzeki]]''; a [[silver]] [[star]]
+
+===References===
+<references/>
+* {{R:Kokugo Dai Jiten}}
+* {{R:Daijirin}}
+
+{{topics|ja|Planets of the Solar System}}
+
+----
+
+==Korean==
+{{ko-hanjatab|金|星}}
+
+===Proper noun===
+{{ko-noun|rv=Geumseong|hangeul=금성}}
+
+# {{hanja form of|금성|Venus}}
+
+[[af:金星]]
+[[zh-min-nan:金星]]
+[[cs:金星]]
+[[de:金星]]
+[[es:金星]]
+[[fr:金星]]
+[[ko:金星]]
+[[sw:金星]]
+[[lo:金星]]
+[[lt:金星]]
+[[li:金星]]
+[[hu:金星]]
+[[mg:金星]]
+[[nl:金星]]
+[[ja:金星]]
+[[oc:金星]]
+[[pl:金星]]
+[[pt:金星]]
+[[sv:金星]]
+[[zh:金星]]

@@ -1,0 +1,62 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=08|sn=12|four=43911|canj=DJCM|ids=⿰木空}}
+
+====References====
+* {{Han ref|kx=0536.080|dkj=15021|dj=0923.210|hdz=21239.010|uh=690C|ud=26892|bh=D9AA|bd=55722}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiāng
+|c=hong1
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[ancient]] [[wooden]] [[musical instrument]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木08}}
+
+# {{defn|lang=ja|sort=木08}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[きょう]] (kyō), [[く]] (ku)|kun=[[むなしい]] (munashii)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木08|hanviet=khung}}
+
+# {{defn|lang=vi|sort=木08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=690c Nom Foundation]
+
+[[fr:椌]]
+[[hu:椌]]
+[[ja:椌]]
+[[pl:椌]]
+[[th:椌]]
+[[zh:椌]]

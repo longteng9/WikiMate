@@ -1,0 +1,35 @@
+{{also|数位}}
+==Chinese==
+{{zh-forms|s=数位}}
+
+===Pronunciation===
+{{zh-pron
+|m=shùwèi
+|c=sou3 wai6-2
+|mn=sò͘-ūi
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[digit]]; [[number]]
+
+====Synonyms====
+* {{zh-l|數字}}
+* {{zh-l|數目字}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive|Taiwan}} [[digital]]
+
+====Synonyms====
+* {{zh-l|數字}}
+* {{qualifier|Mainland|Hong Kong}} {{zh-l|數碼}}
+
+====Derived terms====
+{{zh-der|數位唱片|數位計算機|數位影碟|數位控制|數位詞|數位化錄音帶|數位快速篆刻系統|數位化|數位電視|數位藝術|數位影像|數位照像|數位板|數位電腦|數位通信|數位相機}}
+
+[[zh-min-nan:數位]]
+[[mg:數位]]

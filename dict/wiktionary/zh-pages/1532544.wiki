@@ -1,0 +1,58 @@
+{{also|祛风药}}
+==Chinese==
+{{zh-forms|s=祛风药}}
+
+===Pronunciation===
+{{zh-pron
+|m=qūfēng yào
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# "Wind-eliminating" ''[[w:Materia medica|materia medica]]'' in [[traditional Chinese medicine]]. This term refers to herbs and other medicinal substances that are used to eliminate "wind" in the body.
+
+====Hyponyms====
+{{rel-top|hyponyms}}
+*祛风湿药
+** [[木瓜]], ''fruit of the ''[[Chaenomeles]]
+** [[五加皮]], ''bark of the ''[[Acanthopanax]]
+** [[虎骨]], ''bone of the [[tiger]]''
+** [[威灵仙]], ''root of the ''[[Clematis]]
+** [[桑寄生]], ''branchlet of the {{taxlink|Taxillus|genus|noshow=1}}''
+** [[乌梢蛇]], ''[[Zaocys]]''
+** [[独活]], ''root of the {{taxlink|Angelica pubescens|species|noshow=1}}''
+*祛风湿清热药
+** [[秦艽]], ''root of the {{taxlink|Gentiana macrophylla|species|noshow=1}}''
+** [[防己]], ''root of the {{taxlink|Stephania tetrandra|species|noshow=1}}''
+** [[络石藤]], ''star jasmine''
+** [[臭梧桐]]
+** [[豨薟草]]
+*祛风湿散寒药
+** [[松节]]
+** [[海风藤]]
+** [[寻骨风]]
+** [[蚕沙]]
+** [[海桐皮]]
+** [[桑枝]]
+** [[徐长卿]]
+** [[白花蛇]], [[Agkistrodon]]'' or ''[[Bungarus]]
+{{rel-bottom}}
+
+====See also====
+* {{zh-l|藥材}} (medicinal materials in traditional Chinese medicine)
+
+===References===
+* {{pedialite|祛风药|lang=zh}}
+* {{cite-book| last = Ou
+| first = Ming
+| authorlink =
+| coauthors = Li Yanwen
+| year = 1994
+| title = The Traditional Chinese Drug and Its Usage
+| publisher = Hai Feng Publishing Co.
+| location =
+|isbn= 9622381995
+}}
+* Shuhu Du, Lina Chen, Kunfang Ma, Hongjian Ji, "Qualitative and quantitative analysis of Chinese herb fructus [[chaenomelis]]", Journal of Nanjing Medical University, Volume 21, Issue 1, January 2007, Pages 51-54.

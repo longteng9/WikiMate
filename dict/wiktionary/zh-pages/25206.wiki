@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|莴}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=09|sn=15|four=44227|canj=TBBR}}
+
+====References====
+* {{Han ref|kx=1042.470|dkj=31351|dj=1503.110|hdz=53234.140|uh=8435|ud=33845|bh=B8B1|bd=47281}}
+
+----
+
+==Chinese==
+{{zh-forms|s=莴}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艸|咼|c1=s|c2=p|t1=herbage|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=wō
+|c=wo1
+|mc=
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[lettuce]]
+
+====Compounds====
+{{zh-der|萵苣}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸09}}
+
+# {{defn|lang=ja|sort=艸09}}
+
+====Readings====
+* {{ja-readings|goon=[[わ]] (wa)|kanon=[[わ]] (wa)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=와|eumhun=|rv=wa|mr=wa|y=wa}}
+
+# {{defn|lang=ko|sort=艸09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[oa]]|rs=艸09}}
+
+# {{defn|lang=vi|sort=艸09}}
+
+[[fr:萵]]
+[[hu:萵]]
+[[mg:萵]]
+[[ja:萵]]
+[[pl:萵]]
+[[th:萵]]
+[[vi:萵]]
+[[zh:萵]]

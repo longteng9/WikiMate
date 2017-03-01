@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=07|sn=11|four=46960|canj=DRHR,DRR|ids=⿰木呂, ⿰木吕}}
+
+====References====
+* {{Han ref|kx=0530.010|dkj=14862|dj=0918.020|hdz=21199.020|uh=68A0|ud=26784|bh=D5CD|bd=54733}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǚ
+|c=leoi5
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# a [[small]] [[beam]] [[support]]ing the [[rafter]]s at the [[eave]]s
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木07}}
+
+# {{defn|lang=ja|sort=木07}}
+
+====Readings====
+* {{ja-readings|on=[[りょ]] (ryo)|kun=[[ひさし]] (hisashi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[려]]>[[여]]|eumhun=|rv=ryeo>yeo|mr=ryŏ>yŏ|y=lye>ye}}
+
+# {{defn|lang=ko|sort=木07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木07|hanviet=lữ}}
+
+# {{defn|lang=vi|sort=木07}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=68a0 Nom Foundation]
+
+[[fr:梠]]
+[[hu:梠]]
+[[ja:梠]]
+[[pl:梠]]
+[[th:梠]]
+[[zh:梠]]

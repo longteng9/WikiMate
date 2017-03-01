@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|弥}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=57|rad=弓|as=14|sn=17|four=11227|canj=NMFB|ids=⿰弓爾}}
+
+# [[extensive]], [[full]]
+# [[fill]]
+# [[complete]]
+
+====References====
+* {{Han ref|kx=0361.110|dkj=09877|dj=0679.090|hdz=21004.030|uh=5F4C|ud=24396|bh=C0B1|bd=49329}}
+
+----
+
+==Chinese==
+{{zh-forms|s=弥}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mí
+|c=mei4,nei4
+|h=pfs=mì
+|mn=mí/nî
+|mn_note=mí - vulgar
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=a,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* {{thcwdq|彌}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=弓14}}
+
+# {{defn|lang=ja|sort=弓14}}
+
+====Readings====
+* {{ja-readings|on=[[び]] (bi), [[み]] (mi), [[げい]] (gei)|kun=[[ひさしい]] (hisashii), [[わたる]] (wataru), [[あまねし]] (amaneshi), [[いよいよ]] (iyoiyo)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=미|eumhun=|rv=mi|mr=mi|y=mi}}
+
+# {{defn|lang=ko|sort=弓14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[di]]|rs=弓14}}
+
+# {{defn|lang=vi|sort=弓14}}
+
+[[fr:彌]]
+[[ko:彌]]
+[[hu:彌]]
+[[ja:彌]]
+[[pl:彌]]
+[[th:彌]]
+[[zh:彌]]

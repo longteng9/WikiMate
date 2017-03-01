@@ -1,0 +1,50 @@
+{{character info/new}}
+{{also|杩}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=10|sn=14|four=41927|canj=DSQF|ids=⿰木馬}}
+
+====References====
+* {{Han ref|kx=0544.050|dkj=15261|dj=0931.240|hdz=21260.020|uh=69AA|ud=27050|bh=E259|bd=57945}}
+
+----
+
+==Chinese==
+{{zh-forms|s=杩}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mà
+|c=maa5,maa6
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[headboard]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木10| hanviet = mớ}}
+
+# {{defn|lang=vi|sort=木10}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=69aa Nom Foundation]
+
+[[fr:榪]]
+[[pl:榪]]
+[[th:榪]]
+[[vi:榪]]
+[[zh:榪]]

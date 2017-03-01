@@ -1,0 +1,25 @@
+{{also|优盘}}
+==Chinese==
+{{zh-forms|s=优盘}}
+
+===Etymology===
+From {{der|zh|en|USB|'''U'''SB}} + {{zh-l|盤|disc; drive}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yōupán
+|c=jau1 pun4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Mainland}} [[USB]] [[flash drive]], [[memory stick]]
+
+====Synonyms====
+* {{zh-l|閃存盤}}
+
+{{zh-cat|Computing}}
+
+[[zh:優盤]]

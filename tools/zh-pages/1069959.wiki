@@ -1,0 +1,51 @@
+{{also|陈列}}
+==Chinese==
+{{zh-forms|s=陈列}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=chénliè
+|c=can4 lit6
+|mn=tīn-lia̍t
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[display]]; to [[exhibit]]
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ちん|れつ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ちんれつ|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|ちんれつ}}
+
+# [[exhibition]], [[display]]
+
+===Verb===
+{{ja-verb-suru|ちんれつ}}
+
+# [[display]]
+
+====Conjugation====
+{{ja-suru|ちんれつ}}
+
+===References===
+<references/>
+
+[[zh-min-nan:陳列]]
+[[ko:陳列]]
+[[hu:陳列]]
+[[ja:陳列]]
+[[zh:陳列]]

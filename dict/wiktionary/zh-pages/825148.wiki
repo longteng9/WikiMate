@@ -1,0 +1,40 @@
+{{also|时空}}
+==Chinese==
+{{zh-forms|s=时空}}
+
+===Pronunciation===
+{{zh-pron
+|m=shí-kōng
+|c=si4 hung1
+|mn=sî-khong
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[time]] and [[space]]
+# {{lb|zh|physics}} [[spacetime]] {{gloss|four dimensional continuum}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じ|くう|yomi=o}}
+
+===Noun===
+{{ja-noun|じくう}}
+
+# [[time]] and [[space]]
+# {{lb|ja|physics|sort=しくう'}} [[spacetime]] {{gloss|four dimensional continuum}}
+
+====See also====
+* {{ja-r|時間|じかん}}: [[time]]
+* {{ja-r|空間|くうかん}}: [[space]]
+* {{ja-r|時空間|じくうかん}}: [[spacetime]]
+
+[[Category:ja:Astrophysics|しくう']]
+
+[[ko:時空]]
+[[lt:時空]]
+[[ja:時空]]
+[[th:時空]]

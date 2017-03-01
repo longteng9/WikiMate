@@ -1,0 +1,82 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=32|rad=土|as=10|sn=13|four=40167|canj=GILR|ids=⿰土唐}}
+
+# [[pond]]
+# [[tank]]
+# [[dike]], [[embankment]]
+
+====References====
+* {{Han ref|kx=0235.220|dkj=05340|dj=0473.140|hdz=10473.200|uh=5858|ud=22616|bh=B6ED|bd=46829}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=táng
+|c=tong4
+|mn=tông/tn̂g
+|mn_note=tông - literary; tn̂g - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|官塘|塘沽新港|塘鵝|塘沽|塘堰|塘坳|回塘|坳塘|橫塘|泥塘|瞿塘峽|池塘|海塘|火塘|水塘|提塘|陂塘|錢塘潮|葦塘|魚塘|蠣塘|錢塘江|荷塘|雷塘}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土10}}
+
+# {{defn|lang=ja|sort=土10}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō)|kun=[[つつみ]] (tsutsumi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=당|rv=dang|mr=tang}}
+
+# {{defn|lang=ko|sort=土10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đường]], [[đàng]]|rs=土10}}
+
+# {{defn|lang=vi|sort=土10}}
+
+[[fr:塘]]
+[[ko:塘]]
+[[li:塘]]
+[[hu:塘]]
+[[mg:塘]]
+[[ja:塘]]
+[[no:塘]]
+[[pl:塘]]
+[[th:塘]]
+[[vi:塘]]
+[[zh:塘]]

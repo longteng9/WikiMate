@@ -1,0 +1,93 @@
+{{character info/new}}
+{{also|埼|﨑|嵜}}
+==Translingual==
+===Glyph origin===
+{{Han etym}}
+{{Han compound|山|奇|ls=psc|c1=s|c2=p|t1=mountain}}.
+===Alternative forms===
+* {{l|mul|﨑}} [[嵜]]
+
+===Han character===
+{{Han char|rn=46|rad=山|as=08|sn=11|four=24721|canj=UKMR|ids=⿰山奇}}
+
+# [[rough]], [[uneven]], [[jagged]], [[rugged]]
+
+====Related characters====
+
+====References====
+* {{Han ref|kx=0313.190|dkj=08169|dj=0614.150|hdz=10778.100|uh=5D0E|ud=23822|bh=B154|bd=45396}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=崎
+|c=kei4,kei1
+|mn=kiā
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# steep, precipitous
+
+====Compounds====
+{{zh-der|崎崟|崎嶇|崎嶇不平|崎嶇鳥道|崛崎|嶔崎|嶔崎歷落|嶔崎磊落|嶢崎|川崎|川崎症|長崎}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+===Noun===
+{{ja-noun|さき}}
+# {{lb|ja|geography|sort=さき}} small [[peninsula]]
+# {{lb|ja|geography|sort=さき}} [[cape]]
+
+===Kanji===
+{{ja-kanji|grade=c|rs=山08}}
+
+# [[peninsula]]; [[promontory]]; [[cape]]; [[spit]]
+
+====Readings====
+* {{ja-readings|goon=[[き]] (ki)|kanon=[[き]] (ki)|kun=[[さき]] (saki), [[けわしい]] (kewashii)}}
+
+====Compounds====
+* {{ja-r|長崎|^ながさき}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|rv=gi|mr=ki}}
+
+# {{defn|lang=ko|sort=山08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khi]], [[kì]], [[tiên]]|rs=山08}}
+
+# {{defn|lang=vi|sort=山08}}
+
+[[zh-min-nan:崎]]
+[[fr:崎]]
+[[ko:崎]]
+[[li:崎]]
+[[hu:崎]]
+[[mg:崎]]
+[[ja:崎]]
+[[no:崎]]
+[[pl:崎]]
+[[th:崎]]
+[[zh:崎]]

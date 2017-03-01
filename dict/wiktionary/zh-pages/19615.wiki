@@ -1,0 +1,137 @@
+{{character info/new}}
+{{also|淡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=13|sn=16|four=37161|canj=ENCR|ids=⿰氵詹}}
+
+====References====
+* {{Han ref|kx=0653.360|dkj=18421|dj=1064.010|hdz=31762.010|uh=6FB9|ud=28601|bh=BF46|bd=48966}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|氵|alt1=水|詹|ls=psc|c1=s|c2=p}}.
+
+===Etymology 1===
+{{zh-forms}}
+Related to {{och-l|淡}}.
+
+====Pronunciation====
+{{zh-pron
+|m=dàn
+|c=daam6,taam5
+|h=pfs=
+|md=
+|mn=xm,zz,tw:tām/qz:tǎm
+|mn-t=dan6
+|w=
+|mc=2+3
+|oc=1,2+3
+|cat=a
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# [[calm]] and [[indifferent]] to [[fame]] and [[fortune]]
+# [[quiet]]; [[tranquil]]
+# [[light]] (of taste); [[insipid]]
+# {{lb|zh|of water}} to [[ripple]]
+# {{surname|lang=zh}}
+
+====Compounds====
+{{zh-der|恬澹|慘澹|慘澹經營|暗澹|清澹|澄澹精致|澹彩|澹泊|澹泊寡欲|澹泊明志|澹淡|澹淡經營|澹澉|澹澹|澹然|澹蕩|澹話}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=tán
+|c=taam4
+|mn=tâm
+|mn-t=tam5
+|mc=1
+|oc=n,1
+|cat=pn
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{zh-only|澹臺|a [[surname]]}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=dān
+|cat=pn
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{zh-only|澹林}}
+
+===Etymology 4===
+{{zh-forms|alt=霑,淫}}
+
+====Pronunciation====
+{{zh-pron
+|mn=tâm
+|cat=a
+}}
+
+=====Definitions=====
+{{zh-hanzi}}
+
+# {{lb|zh|Min Nan}} [[wet]]
+
+====Compounds====
+{{zh-der|澹漉漉|澹糊糊|澹濕|澹耳}}
+
+===Etymology 5===
+{{zh-see|贍|v}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水13}}
+
+# {{defn|lang=ja|sort=水13}}
+
+====Readings====
+* {{ja-readings|goon=[[だん]] (dan), [[ぜん]] (zen)|kanon=[[たん]] (tan), [[せん]] (sen)|kun=[[あわい]] (awai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[담]], [[섬]]|eumhun=|rv=dam, seom|mr=tam, sŏm|y=tam, sem}}
+
+# {{defn|lang=ko|sort=水13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đạm]]|rs=水13}}
+
+# {{defn|lang=vi|sort=水13}}
+
+[[zh-min-nan:澹]]
+[[fr:澹]]
+[[hu:澹]]
+[[mg:澹]]
+[[ja:澹]]
+[[pl:澹]]
+[[th:澹]]
+[[zh:澹]]

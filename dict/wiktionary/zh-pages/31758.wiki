@@ -1,0 +1,105 @@
+{{character info/new}}
+{{also|驴}}
+==Translingual==
+
+===Alternative forms===
+* {{l|mul|䮫}}
+* {{l|mul|馿}}
+* {{l|mul|驴}}
+* {{l|mul|𩢉}}
+* {{l|mul|𩢬}}
+* {{l|mul|𩧥}}
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|盧|馬|t2=horse|ls=psc|c1=p|c2=s}}.
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=16|sn=26|four=71317|canj=SFYPT|ids=⿰馬盧}}
+
+# [[donkey]], [[ass]]
+
+====References====
+* {{Han ref|kx=1446.400|dkj=45069|dj=1972.130|hdz=74583.070|uh=9A62|ud=39522|bh=C66A|bd=50794}}
+
+----
+
+==Chinese==
+{{zh-forms|s=驴}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǘ
+|c=leoi4,lou4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬16}}
+
+# {{defn|lang=ja|sort=馬16}}
+
+====Readings====
+* {{ja-readings|kanon=[[りょ]] (ryo)|goon=[[ろ]] (ro)|kun=[[うさぎうま]] (usagiuma)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[려]]>[[여]]|eumhun=|rv=ryeo>yeo|mr=ryŏ>yŏ|y=lye>ye}}
+
+# {{defn|lang=ko|sort=馬16}}
+
+----
+
+==Middle Vietnamese==
+
+===Etymology===
+{{rfe|lang=mkh-mvi}}
+
+===Noun===
+{{head|mkh-mvi|noun|tr=lừa}}
+
+# [[donkey]], [[ass]]
+
+====Descendants====
+* Vietnamese: {{l|vi|lừa}} ([[驢]])
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lư]], [[lừa]]|rs=馬16}}
+
+# {{defn|lang=vi|sort=馬16}}
+
+[[zh-min-nan:驢]]
+[[fr:驢]]
+[[ko:驢]]
+[[kn:驢]]
+[[lt:驢]]
+[[hu:驢]]
+[[mg:驢]]
+[[nl:驢]]
+[[ja:驢]]
+[[pl:驢]]
+[[ro:驢]]
+[[ru:驢]]
+[[th:驢]]
+[[chr:驢]]
+[[tr:驢]]
+[[zh:驢]]

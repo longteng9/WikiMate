@@ -1,0 +1,33 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|きく|きん|yomi=o}}
+{{affix|sort=きくきん|ja|麴|tr1=kiku|t1=malt|菌|tr2=kin|t2=fungus}}
+
+====Pronunciation====
+{{ja-pron|yomi=o|きくきん|acc=0|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|きくきん}}
+
+# [[aspergillus]]
+
+=====Synonyms=====
+* {{ja-r|麹黴|こうじかび}}, {{ja-r|アスペルギルス}}
+
+===Etymology 2===
+{{ja-kanjitab|こうじ|きん|yomi=y}}
+{{affix|sort=こうじきん|ja|麴|tr1=kōji|t1=malt|菌|tr2=kin|t2=fungus}}
+
+====Pronunciation====
+{{ja-pron|yomi=y|こうじきん|acc=0|acc_ref=DJR,NHK|acc2=3|acc2_ref=NHK}}
+
+====Noun====
+{{ja-noun|こうじきん|hhira=かうじきん}}
+
+# [[aspergillus]]
+
+===References===
+<references/>
+
+[[Category:ja:Fungi|きくきん]]

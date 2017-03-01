@@ -1,0 +1,16 @@
+==Japanese==
+{{ja-kanjitab|税|収}}
+
+===Noun===
+{{ja-noun|ぜいしゅう}}
+
+# [[revenue]], [[yield]] of [[taxes]], [[tax revenue]]s
+#: {{ja-usex|近年、'''税収'''が伸び悩んでいる。|きんねん、'''ぜいしゅう''' が のび なやんでいる。|The revenue has not shown any significant increase over the years.}}
+
+====Derived terms====
+* {{l|ja|税収増}} (''zeishūzō''): increased tax revenue
+* {{l|ja|税収入}} (''zeishūnyū''): tax revenue
+* {{l|ja|税収不足}} (''zeishū fusoku''): tax revenue shortfall
+
+[[mg:税収]]
+[[ja:税収]]

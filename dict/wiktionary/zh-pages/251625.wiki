@@ -1,0 +1,89 @@
+{{also|约束}}
+==Chinese==
+{{zh-forms|s=约束}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuēshù
+|ma=Zh-yueshù.ogg
+|c=joek3 cuk1
+|h=pfs=yok-suk
+|mn=qz,tw,xm:iok-sok/zz:iak-sok
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[restrict]]; to [[restrain]]
+# {{lb|zh|literary}} to [[agree]] [[upon]]; to [[appoint]]; to [[settle]] [[on]]
+
+====Synonyms====
+* {{sense|restrict}} {{zh-l|束縛}}, {{zh-l|限制}}
+
+===Noun===
+{{zh-noun}}
+
+# [[restriction]]; [[constraint]]
+
+===Derived terms===
+{{zh-der|約束服|約束力}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|やく|そく|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|やくそく|acc=0|acc_ref=SMK2,NHK}}
+
+===Noun===
+{{ja-noun|やくそく}}
+
+# a [[promise]]
+# an [[appointment]] or social [[engagement]] (the meeting itself)
+# a [[convention]]; something that is [[conventional]]
+# something that is [[preordained]]
+
+===Verb===
+{{ja-verb-suru|やくそく}}
+
+# to [[promise]], make a promise
+# make an appointment or engagement
+# be predestined, [[wait]]
+
+====Conjugation====
+{{ja-suru|やくそく}}
+
+===See also===
+* {{ja-r|予約|よやく}}
+* {{ja-r|ランデブー}}
+
+===References===
+* {{R:Shogakukan}}
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=약속}}
+
+# {{hanja form of|약속|[[promise]]}}
+
+[[zh-min-nan:約束]]
+[[fr:約束]]
+[[ko:約束]]
+[[hu:約束]]
+[[mg:約束]]
+[[fj:約束]]
+[[ja:約束]]
+[[pt:約束]]
+[[ru:約束]]
+[[sv:約束]]
+[[chr:約束]]
+[[zh:約束]]

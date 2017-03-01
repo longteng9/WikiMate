@@ -1,0 +1,30 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Kadomatsu}}
+[[File:Pair gate with pine branches for the New Year,kadomatsu,katori-city,japan.JPG|thumb|250px|{{lang|ja|門松}} (''kadomatsu''): a pair of '''pine branch decorations for a gate''', set out for New Years.]]
+</div>
+{{ja-kanjitab|yomi=k|かど|まつ}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=かどまつ|門|tr1=kado|t1=gate|松|tr2=matsu|t2=pine}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+Although the term literally means just ''gate pine'', bamboo became part of the traditional design starting from roughly the [[w:Kamakura period|Kamakura]] or [[w:Muromachi period|Muromachi period]]s. Compare the [[symbolism]] of the [[evergreen]] pine [[Christmas tree]] as a representation of life in the midst of winter.
+
+===Pronunciation===
+{{ja-pron|かどまつ|yomi=k|acc=2|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+===Noun===
+{{ja-noun|かどまつ}}
+
+# a [[traditional]] [[decoration]] placed in [[pair]]s in [[front]] of [[home]]s in celebration of [[New Years]]
+
+====See also====
+* {{ja-r|お正月|おしょうがつ}}: [[New Years]]
+* {{ja-r|松竹梅|しょうちくばい}}: [[pine]], [[bamboo]], and [[plum]] {{qualifier|as auspicious symbols}}
+
+===References===
+<references/>
+
+[[ja:門松]]
+[[zh:門松]]

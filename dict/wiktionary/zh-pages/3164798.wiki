@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=mèizi
+|m-s=mei4zi3
+|c=mui6 zi2
+|g=mi5 zi
+|h=pfs=moi-chṳ́
+|w=3me tsr
+|x=mei5 zr/mai5 zr
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|dialectal|_|Mandarin|dialectal|_|Cantonese|Gan|Jin|Min Bei|Wu|Xiang}} [[younger sister]]
+# {{lb|zh|Hakka|Xiang}} [[daughter]]
+# {{lb|zh|dialectal|_|Mandarin|Gan|Hakka|Xiang}} [[young]] [[lady]]; [[miss]]
+# {{lb|zh|Xinzhou|_|Jin|endearing}} {{non-gloss definition|A term of address used by a young husband to his wife.}}
+# {{lb|zh|Lower Yangtze Mandarin|including|_|Hong'an}} [[sister-in-law]] {{gloss|wife's sister}}
+# {{lb|zh|Dabu|_|Hakka|dated}} [[slavegirl]]
+
+=====Synonyms=====
+* {{sense|daughter}}
+{{zh-dial|女兒}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=mèizi
+|c=mui6 zi2
+|x=mei4 zr
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|Xiang|affectionate}} [[little]] [[girl]]
+# {{lb|zh|neologism|colloquial}} [[young]] [[female]] (usually one who is [[intimate]] to the speaker), [[babe]]; [[girlfriend]]
+
+=====Synonyms=====
+* {{sense|young female}} {{zh-l|妹紙}} {{qualifier|jocular variant}}
+
+[[zh:妹子]]

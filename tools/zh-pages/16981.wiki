@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+===Glyph origin===
+{{Han etym}}
+{{Han compound|日|召|ls=psc|c1=s|c2=p|t1=sun}}.
+===Han character===
+{{Han char|rn=72|rad=日|as=05|sn=9|four=67062|canj=ASHR|ids=⿰日召}}
+
+# [[bright]], [[luminous]]
+# [[illustrious]]
+
+====Derived characters====
+* [[照]]
+
+====References====
+* {{Han ref|kx=0493.220|dkj=13855|dj=0858.020|hdz=21504.090|uh=662D|ud=26157|bh=AC4C|bd=44108}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhāo
+|c=ciu1,ziu1
+|h=pfs=
+|md=
+|mn=qz,tw,xm,zz:chiau
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=日05}}
+
+# [[shining]]
+
+====Readings====
+* {{ja-readings|goon=[[しょう]] (shō)|kanon=[[しょう]] (shō)|kun=[[あきらか]] (akiraka)|nanori=[[あき]] (aki)}}
+
+===Proper noun===
+{{ja-pos|あきら|proper}}
+
+# {{given name|male|lang=ja|sort=あきら}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[소]], [[조]]|eumhun=|rv=so, jo|mr=so, cho|y=so, co}}
+
+# {{defn|lang=ko|sort=日05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chiu]], [[chiêu]]|rs=日05}}
+
+# {{defn|lang=vi|sort=日05}}
+
+[[fr:昭]]
+[[ko:昭]]
+[[hu:昭]]
+[[mg:昭]]
+[[ja:昭]]
+[[no:昭]]
+[[pl:昭]]
+[[th:昭]]
+[[zh:昭]]

@@ -1,0 +1,102 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=一rén
+|c=jat1 jan4
+|cat=n,adv
+}}
+
+===Noun===
+{{zh-noun}}
+
+# a [[person]]; one person; someone
+
+===Adverb===
+{{zh-adv}}
+
+# by one person; [[alone]]
+
+===Derived terms===
+{{zh-der|一人得道，雞犬升天}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|ひと|り|yomi=k}}
+{{suffix|ja|一|tr1=hito|gloss1=one|人|tr2=-ri|gloss2=person|sort=ひとり}}.
+<br>pitori → ɸitori → hitori.
+
+===Pronunciation===
+* {{ja-pron|ひとり|y=k|dev=1|acc=2|acc_ref=NHK}}
+
+====Noun====
+{{ja-noun|ひとり}}
+
+# one [[person]]
+
+===Etymology 2===
+pidari → ɸidari. Apophonic form of {{m|ja|一人|tr=hitori}}.
+
+====Noun====
+{{ja-noun|ひだり}}
+
+# one [[person]]
+#* 720: [[w:Nihon Shoki|Nihon Shoki]] (page 205)
+#*: 又歌之曰 愛瀰詩烏 '''毗儾利''' 毛々那比苔 比苔破易陪廼毛 多牟伽 毛勢儒
+
+=====Synonyms=====
+* {{ja-r|独り|ひとり}}, {{ja-r|独りぼっち|ひとりぼっち}}: [[alone]]
+
+=====See also=====
+* {{ja-r|自分|じぶん}}
+
+===Etymology 3===
+{{ja-kanjitab|かず|ひと}}
+
+====Proper noun====
+{{ja-pos|proper|かずひと}}
+
+# {{given name|male|lang=ja|sort=かずひと}}
+
+===Etymology 4===
+{{ja-kanjitab|かず|と}}
+
+====Proper noun====
+{{ja-pos|proper|かずと}}
+
+# {{given name|male|lang=ja|sort=かずと}}
+
+===References===
+<references/>
+* {{cite-book
+|last=Sakamoto
+|first=Tarō
+|coauthors=Ienaga Saburō, Inoue Mitsusada, [[w:Ōno Susumu|Ōno Susumu]]
+|title=Nihon Koten Bungaku Taikei: Nihon Shoki (vol. 1)
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|year=1965
+|isbn=4-000-60067-2}}
+
+[[Category:Japanese basic words|ひとり]]
+
+[[af:一人]]
+[[zh-min-nan:一人]]
+[[fr:一人]]
+[[ko:一人]]
+[[lo:一人]]
+[[la:一人]]
+[[lt:一人]]
+[[li:一人]]
+[[hu:一人]]
+[[mg:一人]]
+[[fj:一人]]
+[[ja:一人]]
+[[pl:一人]]
+[[pt:一人]]
+[[sv:一人]]
+[[chr:一人]]
+[[zh:一人]]

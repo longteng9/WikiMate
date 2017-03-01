@@ -1,0 +1,36 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēnzhǎng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to [[divide]] ([[official]]) [[responsibilities]]
+
+[[Category:Mandarin literary terms|fen1zhang3]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぶん|しょう|yomi=o}}
+
+===Noun===
+{{ja-noun|ぶんしょう}}
+
+# [[division]] of [[work]] or [[duties]]
+
+===Verb===
+{{ja-verb-suru|ぶんしょう}}
+
+# to [[divide]] duties
+
+====Conjugation====
+{{ja-suru|ぶんしょう}}
+
+[[ja:分掌]]
+[[zh:分掌]]

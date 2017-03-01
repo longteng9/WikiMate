@@ -1,0 +1,58 @@
+{{character info/new}}
+{{also|擊|击}}
+==Translingual==
+{{Han simplified forms|擊|撃|击}}
+
+===Etymology===
+{{Han simp|擊|f=𣪠|t=軗}}.
+
+===Han character===
+{{Han char|rn=64|rad=手|as=11|sn=15|four=|canj=JEQ,XJEQ|ids=⿱軗手}}
+
+# [[strike]], [[hit]], [[beat]]
+# [[attack]], [[fight]]
+
+====References====
+* {{Han ref|kx=0453.191|dkj=12674|hdz=31940.021|uh=6483|ud=25731}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=手11|style=s|kyu=擊}}
+
+# {{defn|lang=ja|sort=手11|ja|attack}}
+
+====Readings====
+* {{ja-readings|goon=[[きゃく]] (kyaku) {{non-joyo-reading}}|kanon=[[けき]] (keki) {{non-joyo-reading}}|kanyoon=[[げき]] (geki)|kun=[[うつ]] (utsu)}}
+
+====Compounds====
+{{der3
+|{{ja-r|撃つ|うつ}}
+|{{ja-r|攻撃|こうげき}}
+|{{ja-r|遊撃手|ゆうげきしゅ}}
+|{{ja-r|突撃|とつげき}}
+|{{ja-r|襲撃|しゅうげき}}
+|{{ja-r|目撃|もくげき}}
+|{{ja-r|雷撃|らいげき}}
+|{{ja-r|撃退|げきたい|gloss=[[repel]]}}
+|{{ja-r|銃撃|じゅうげき}}
+|{{ja-r|衝撃|しょうげき}}
+|{{ja-r|迎撃|らいげき}}
+|{{ja-r|目撃者|もくげきしゃ}}
+|{{ja-r|邀撃|ようげき}}
+|{{ja-r|駁撃|ばくげき}}
+|{{ja-r|相撃ち|あいうち}}
+|{{ja-r|出撃|しゅつげき}}
+|{{ja-r|進撃|しんげき}}
+|{{ja-r|電撃|でんげき}}}}
+
+[[fr:撃]]
+[[ko:撃]]
+[[li:撃]]
+[[hu:撃]]
+[[ja:撃]]
+[[pl:撃]]
+[[th:撃]]
+[[zh:撃]]

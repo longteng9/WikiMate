@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|粝}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=119|rad=米|as=14|sn=20|four=91927|canj=FDMTB|ids=⿰米厲}}
+
+# [[unpolished]] [[rice]]
+# [[brown rice]]
+
+====References====
+* {{Han ref|kx=0913.470|dkj=27181|dj=1341.030|hdz=53162.210|uh=7CF2|ud=31986|bh=F5E6|bd=62950}}
+
+----
+
+==Chinese==
+{{zh-forms|s=粝}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lì
+|c=lai6
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=米14}}
+
+# {{defn|lang=ja|sort=米14}}
+
+====Readings====
+* {{ja-readings|on=[[れい]] (rei), [[らつ]] (ratsu), [[らい]] (rai)|kun=[[くろごめ]] (kurogome), [[あらい]] (arai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[려]]>[[여]]|eumhun=|rv=ryeo>yeo|mr=ryŏ>yŏ|y=lye>ye}}
+
+# {{defn|lang=ko|sort=米14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lệ]]|rs=米14}}
+
+# {{defn|lang=vi|sort=米14}}
+
+[[fr:糲]]
+[[hu:糲]]
+[[ja:糲]]
+[[pl:糲]]
+[[th:糲]]
+[[zh:糲]]

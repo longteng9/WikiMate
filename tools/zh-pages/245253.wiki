@@ -1,0 +1,27 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+From {{zh-l|阿|tr=a|prefix showing familiarity}} + short form of {{zh-l|唐山|Tn̂g-soaⁿ|mainland China}}.
+
+====Pronunciation====
+{{zh-pron
+|mn=a-soaⁿ
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# {{lb|zh|Min Nan|Taiwan|dated}} [[w:mainlanders#Chinese mainlanders (Taiwan)|mainlander]]
+#* {{zh-x|這個 阿山-仔，加{ke} 來 是 加{ke} 損蕩 %的 %啦{lah}|These '''mainlanders''' are coming here in droves and creating more turmoil. (This episode takes place in 1949 as refugees from the Mainland are fleeing from {{w|Mao Zedong}}'s forces to [[Taiwan]].)|TW|ref='''2003:''' {{lang|zh|公視文學大戲『家』}} ({{w|Taiwan Public Television Service Foundation}}—''Family''), episode one}}
+
+====Usage notes====
+This term was primarily used to describe non-{{w|Hoklo people}} from Mainland China, a large number of whom had emigrated to Taiwan after 1949. This term later came to be replaced by {{zh-l|外省人|[[gōa-séng-lâng]]}}.
+
+====Synonyms====
+* {{zh-l|外省人}}
+* {{zh-l|唐山人}}
+* {{zh-l|大陸人}}
+* {{qualifier|Min Nan|Hakka}} {{zh-l|阿山仔}}
+* {{qualifier|Min Nan|slang}} {{zh-l|阿陸仔|[[a-lio̍k-á]]}}, {{zh-l|阿六仔|[[a-la̍k-á]]}}

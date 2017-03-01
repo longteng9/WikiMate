@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=128|rad=耳|as=07|sn=13|four=15127|canj=SJLWS}}
+
+# [[engage]], [[employ]]
+# [[betroth]]
+
+====References====
+* {{Han ref|kx=0967.290|dkj=29079|dj=1417.040|hdz=42789.070|uh=8058|ud=32856|bh=B875|bd=47221}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=聘
+|ma=y
+|c=ping3
+|h=pfs=
+|md=
+|mn=phèng
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=耳07}}
+
+# {{defn|lang=ja|sort=耳07}}
+
+====Readings====
+* {{ja-readings|goon=[[ひょう]] (hyō)|kanon=[[へい]] (hei)|kun=[[とう]] (tou), [[めす]] (mesu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=빙|eumhun=|rv=bing|mr=ping|y=ping}}
+
+# {{defn|lang=ko|sort=耳07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sính]], [[sánh]]|rs=耳07}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:聘]]
+[[fr:聘]]
+[[ko:聘]]
+[[hu:聘]]
+[[mg:聘]]
+[[ja:聘]]
+[[no:聘]]
+[[pl:聘]]
+[[th:聘]]
+[[zh:聘]]

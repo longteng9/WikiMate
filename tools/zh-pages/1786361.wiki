@@ -1,0 +1,59 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qīlí sǎn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# A vermilion to purplish-red powder used in [[traditional Chinese medicine]] "to remove blood stasis, promote the subsidence of swelling, to relieve pain and arrest bleeding in the treatment of traumatic injuries with blood stasis and pain, or traumatic bleeding".
+
+Qili powder has the following herbal ingredients:
+
+{| class="wikitable sortable"
+|-
+!Name
+!Chinese ([[Simplified Chinese|S]])
+!Grams
+|-
+|Sanguis Draxonis
+|血竭
+| 500
+|-
+| {{l|la|olibanum|Olibanum}} (processed)
+|乳香 (制)
+| 75
+|-
+| Myrrha (''[[Commiphora myrrha]]'') (processed)
+|没药 (制)
+| 75
+|-
+|Flos Carthami
+|红花
+| 75
+|-
+|Catechu
+|儿茶
+| 120
+|-
+|Borneolum Syntheticum
+|冰片
+| 6
+|-
+|Moschus
+|麝香
+| 6
+|-
+|Cinnabaris
+|硃砂
+| 60
+|}
+
+====References====
+* State Pharmacopoeia Commission of the PRC (2005). "Pharmacopoeia of The People’s Republic of China (Volume I)". Chemical Industry Press. ISBN 7117069821.
+
+[[zh:七厘散]]

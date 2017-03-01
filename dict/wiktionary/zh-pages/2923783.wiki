@@ -1,0 +1,52 @@
+{{also|综合|総合}}
+==Chinese==
+{{zh-forms|s=综合}}
+
+===Etymology===
+For senses of "synthesis", {{borrowing|zh|ja|-|nocap=1}} {{ja-r|綜合|そうごう}}.
+
+===Pronunciation===
+{{zh-pron
+|m=綜hé
+|c=zung3 hap6,zung1 hap6
+|h=pfs=chûng-ha̍p
+|mn=chong-ha̍p
+|cat=v,a
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[compile]], to [[assemble]], to [[put]] together
+# to [[synthesize]]
+
+===Adjective===
+{{zh-adj}}
+
+# [[comprehensive]], [[whole]], [[all-encompassing]]
+# [[mixed]], [[varied]]
+# [[synthesized]]
+
+====Derived terms====
+{{zh-der|綜合症|綜合徵|農業綜合企業|綜合語|多式綜合語}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|そう|ごう|yomi=o}}
+
+===Noun===
+{{ja-noun|そうごう}}
+
+# {{alternative form of|総合|lang=ja}}
+
+===Verb===
+{{ja-verb-suru|そうごう}}
+
+# {{alternative form of|総合|lang=ja}}
+
+[[zh-min-nan:綜合]]
+[[ko:綜合]]
+[[hu:綜合]]
+[[mg:綜合]]
+[[ja:綜合]]

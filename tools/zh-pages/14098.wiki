@@ -1,0 +1,126 @@
+{{character info/new}}
+{{also|孙}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=39|rad=子|as=07|sn=10|four=12493|canj=NDHVF|ids=⿰子系}}
+
+====Descendants====
+* [[遜]], [[愻]], [[蓀]]
+
+===References===
+* {{Han ref|kx=0279.230|dkj=06987|dj=0548.190|hdz=21016.050|uh=5B6B|ud=23403|bh=AE5D|bd=44637}}
+
+----
+
+==Chinese==
+{{zh-forms|s=孙}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|子|系|t1=son|t2=continue|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=sūn
+|c=syun1
+|h=pfs=sûn
+|md=sŏng
+|mn=sun/qz,xm:sng/zz:suiⁿ
+|w=1sen
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[grandchild]]
+# [[descendant]]
+# {{surname|lang=zh|dot=,}} listed third in the ''{{w|Baijiaxing}}''
+
+====Descendants====
+* {{qualifier|Hokkien dialect}} Tagalog: {{l|tl|Suan}}
+
+===Compounds===
+{{zh-der|不肖子孫|亞馬孫河|仍孫|來孫|兒孫|內孫|公子王孫|公孫樹|參孫|叔孫|吃子孫飯|名落孫山|含飴弄孫|土行孫|外孫|外孫女|多子多孫|天孫|太孫|女孫|姪孫|嫡孫|嫡孫承重|子子孫孫|子孝孫賢|子孫|子孫桶|子孫滿堂|孝子慈孫|孝子賢孫|孫兒|孫女|孫女婿|孫子|孫子兵法|孫山之外|孫康映雪|孫悟空|孫晨稿席|孫枝|孫竹|孫絡|封祖蔭孫|徒子徒孫|徠孫|德流子孫|慈孫孝子|慶流子孫|打剌孫|承重孫|抱子弄孫|斷子絕孫|曾孫|桂子蘭孫|毓子孕孫|炎黃子孫|烏孫|燕啄皇孫|猞猁孫|猴孫王|玄孫|王孫|王孫公子|百子千孫|祖孫|竹孫|答剌孫|系孫|絕子絕孫|耳孫|落孫山|裝孫子|西姆孫線|詒厥孫謀|貽厥孫謀|適孫|重孫|重孫女|重孫媳|長孫|長孫媳|雲孫|龍孫|龍孫帝子}}
+
+----
+
+==Japanese==
+===Kanji===
+{{ja-kanji|grade=4|rs=子07}}
+
+# {{defn|lang=ja|sort=子07}}
+
+=====Readings=====
+* {{ja-readings|goon=[[そん]] (son)|kanon=[[そん]] (son)|kun=[[まご]] (mago)|nanori=[[さね]] (sane), [[ただ]] (tada), [[ひこ]] (hiko), [[ひろ]] (hiro)}}
+
+===Etymology 1===
+{{ja-kanjitab|むまご|yomi=k}}
+{{rfe|lang=ja}}
+
+====Noun====
+{{ja-noun|むまご}}
+
+# a [[grandchild]]
+
+===Etymology 2===
+{{ja-kanjitab|うまご|yomi=k}}
+{{IPAchar|mumago → umago}}.
+
+====Noun====
+{{ja-noun|うまご}}
+
+# a [[grandchild]]
+
+===Etymology 3===
+{{ja-kanjitab|まご|yomi=k}}
+{{IPAchar|umago → mago}}.
+
+====Pronunciation====
+{{ja-pron|acc=2|y=k|まご}}
+
+====Noun====
+{{ja-noun|まご}}
+
+# a [[grandchild]]
+
+[[Category:Japanese basic words|まこ]]
+[[Category:ja:Family|まご]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=손|rv=son|mr=son}}
+
+# [[grandson]]
+# {{surname|lang=ko}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=子07|hanviet=[[tôn]], [[cháu]], [[tun]]}}
+
+# {{defn|vi}}
+
+[[zh-min-nan:孫]]
+[[fr:孫]]
+[[ko:孫]]
+[[lo:孫]]
+[[li:孫]]
+[[hu:孫]]
+[[mg:孫]]
+[[ms:孫]]
+[[ja:孫]]
+[[pl:孫]]
+[[sv:孫]]
+[[th:孫]]
+[[chr:孫]]
+[[vi:孫]]
+[[zh:孫]]

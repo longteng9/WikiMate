@@ -1,0 +1,86 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=141|rad=虍|as=07|sn=11|four=21281|canj=YPRMK,YPRVK|ids=⿸虍吳}}
+
+# [[concern]]ed about, [[anxious]], [[worried]]
+# [[fear]], [[danger]], [[risk]]
+# an [[ancient]] [[people]] of [[China]], led by [[w:Shun (Chinese leader)|Shun]]
+# their [[state]]
+# the [[capital]] of the state
+# a Chinese [[surname]], adopted by its rulers and people
+
+====References====
+* {{Han ref|kx=1074.240|dkj=32723|dj=1543.040|hdz=42827.020|uh=865E|ud=34398|bh=B8B7|bd=47287}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yú
+|c=jyu4
+|h=pfs=
+|md=
+|mn=gû
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=虍07}}
+
+# {{defn|lang=ja|sort=虍07}}
+
+====Readings====
+* {{ja-readings|on=[[ぐ]] (gu)|kun=[[おそれ]] (osore), [[うれえる]] (ureeru), [[おもんぱかる]] (omompakaru)|nanori=}}
+
+===Noun===
+{{ja-noun|おそれ}}
+
+# {{alternative form of|恐れ|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=우|eumhun=|rv=u|mr=u|y=wu}}
+
+# {{defn|lang=ko|sort=虍07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngu]]|rs=虍07}}
+
+# {{defn|lang=vi|sort=虍07}}
+
+[[fr:虞]]
+[[ko:虞]]
+[[li:虞]]
+[[hu:虞]]
+[[mg:虞]]
+[[ja:虞]]
+[[pl:虞]]
+[[th:虞]]
+[[zh:虞]]

@@ -1,0 +1,16 @@
+{{also|调制解调器|調制解調器}}
+==Chinese==
+{{zh-forms|s=调制解调器|t2=調制解調器|type=23}}
+
+===Pronunciation===
+{{zh-pron
+|m=tiáozhì jiětiáoqì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[modem]] {{gloss|a device that encodes digital computer signals into analog/analogue telephone signals and vice versa and allows computers to communicate over a phone line}}
+
+{{zh-cat|Computing}}

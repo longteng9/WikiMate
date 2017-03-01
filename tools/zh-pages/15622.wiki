@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|悩|恼}}
+==Translingual==
+{{Han simplified forms|惱|悩|恼}}
+
+===Han character===
+{{Han char|rn=61|rad=心|as=09|sn=12|four=92063|canj=PVVW|ids=⿰忄𡿺}}
+
+# [[anger]]ed, [[filled]] with [[hate]]
+
+====References====
+* {{Han ref|kx=0392.240|dkj=10856|dj=0728.080|hdz=42332.160|uh=60F1|ud=24817|bh=B46F|bd=46191}}
+
+----
+
+==Chinese==
+{{zh-forms|s=恼|alt=㛴}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=nǎo
+|c=nou5
+|h=pfs=nâu
+|mn=qz:nó͘/tw,xm,zz:náu/qz,tw:ló/tw:ló͘
+|mn_note=nó͘/náu - literary; ló/ló͘ - vernacular
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心09}}
+
+# {{defn|lang=ja|sort=心09}}
+
+====Readings====
+* {{ja-readings|on=[[のう]] (nō)|kun=[[なやむ]] (nayamu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=뇌|eumhun=|rv=noe|mr=noe|y=noy}}
+
+# {{defn|lang=ko|sort=心09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[não]], [[náo]]|rs=心09}}
+
+# {{defn|lang=vi|sort=心09}}
+
+[[zh-min-nan:惱]]
+[[fr:惱]]
+[[ko:惱]]
+[[li:惱]]
+[[hu:惱]]
+[[ja:惱]]
+[[pl:惱]]
+[[th:惱]]
+[[zh:惱]]

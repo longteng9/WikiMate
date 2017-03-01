@@ -1,0 +1,40 @@
+{{also|实数}}
+==Chinese==
+{{zh-forms|s=实数}}
+
+===Pronunciation===
+{{zh-pron
+|m=shíshù
+|c=sat6 sou3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[actual]] [[value]]
+# {{lb|zh|mathematics}} [[real number]]
+
+====Coordinate terms====
+* {{sense|real number}} {{zh-l|複數|complex number}}, {{zh-l|虛數|imaginary number}}
+
+{{zh-cat|Computing|Mathematics}}
+
+----
+
+==Korean==
+{{ko-hanjatab|實|數}}
+
+===Pronunciation===
+* {{homophones|失手|lang=ko|sc=Kore}}
+
+===Noun===
+{{ko-noun|rv=silsu|hangeul=실수}}
+
+# {{hanja form of|실수|real number}}
+
+[[ko:實數]]
+[[lo:實數]]
+[[lt:實數]]
+[[ja:實數]]
+[[pt:實數]]

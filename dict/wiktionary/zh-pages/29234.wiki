@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|扣}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=03|sn=11|four=86100|canj=CR|ids=⿰金口}}
+
+====References====
+* {{Han ref|kx=1296.160|dkj=40175|dj=1800.030|hdz=64171.090|uh=91E6|ud=37350|bh=B3A7|bd=45991}}
+
+----
+
+==Chinese==
+{{zh-forms|s=扣|t2=扣|alt=𬬪-nonstandard simplified}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=kòu
+|ma=y
+|c=kau3
+|h=pfs=khieu
+|md=
+|mn=khà/khàu/khiò
+|w=2kheu
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[button]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金03}}
+
+# [[button]]
+
+====Readings====
+{{ja-readings
+|goon=[[く]] (ku)
+|kanon=[[こう]] (kō)
+|kun=[[ボタン]] (botan)
+|nanori=
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=구|eumhun=}}
+
+# {{defn|lang=ko|sort=金03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khấu]], [[khẩu]]|rs=金03}}
+
+# {{defn|lang=vi|sort=金03}}
+
+[[fr:釦]]
+[[ko:釦]]
+[[hu:釦]]
+[[mg:釦]]
+[[ja:釦]]
+[[pl:釦]]
+[[th:釦]]
+[[zh:釦]]

@@ -1,0 +1,62 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fǎnshè
+|c=faan2 se6
+|h=pfs=fán-sa
+|ma=Zh-fanshè.ogg
+|mn=hoán-siā
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[reflect]]
+
+===Noun===
+{{zh-noun}}
+
+# [[reflection]] {{gloss|from a mirror, etc.}}
+# [[reflex]] {{gloss|automatic response from an organism}}
+
+====Derived terms====
+{{zh-der|條件反射|制約反射}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|はん|しゃ|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|はんしゃ|y=on}}
+
+===Noun===
+{{ja-noun|はんしゃ}}
+
+# [[reflection]], [[reverberation]]
+# [[reflex]] {{gloss|automatic response}}
+
+====Compounds====
+* {{ja-r|反射的|はんしゃてき|gloss=[[reflective]]}}
+
+===Verb===
+{{ja-verb-suru|tr=both|はんしゃ}}
+
+# [[reflect]], light, sound, radio waves, etc.
+
+====Conjugation====
+{{ja-suru|はんしゃ}}
+
+[[zh-min-nan:反射]]
+[[ko:反射]]
+[[lo:反射]]
+[[hu:反射]]
+[[mg:反射]]
+[[ja:反射]]
+[[chr:反射]]
+[[zh:反射]]

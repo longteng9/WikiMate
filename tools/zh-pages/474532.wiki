@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|c=hou2 sik6
+|h=pfs=hó-sṳ̍t
+|md=hō̤-siăh*siĕh
+|mn=hó-chia̍h
+|mn-t=ho2 ziah8
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# {{lb|zh|dialectal|Cantonese|Min|Hakka}} [[delicious]]
+#: {{zh-x|嗰 間 餐廳 嘅 菜 好 好食 㗎！|The food at that restaurant is '''excellent'''!|tr=go2 gaan1 caan1 teng1 ge3 coi3 hou2 '''hou2 sik6''' gaa2!|C-GZ}}
+
+=====Synonyms=====
+* {{qualifier|Cantonese}} {{zh-l|好味|hou2 mei6}}
+* {{qualifier|Mandarin}} {{zh-l|好吃}}
+
+===Pronunciation 2===
+{{zh-pron
+|c=hou3 sik6
+|h=pfs=hau-sṳ̍t
+|md=
+|mn=
+|cat=v
+}}
+
+====Verb====
+{{zh-verb}}
+
+# {{lb|zh|Cantonese|Hakka}} to be [[fond]] of [[eat]]ing; to be [[gluttonous]]
+
+=====Synonyms=====
+* {{qualifier|Mandarin}} {{zh-l|好吃|hàochī}}
+
+=====Derived terms=====
+{{zh-der|好食懶做|好食懶飛}}
+
+[[ko:好食]]
+[[mg:好食]]
+[[ja:好食]]

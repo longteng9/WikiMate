@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shuǐshēng
+|c=seoi2 sang1
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[aquatic]] (life)
+
+====Antonyms====
+* {{zh-l|陸生}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|すい|せい|yomi=on}}
+
+===Noun===
+{{ja-noun|すいせい}}
+
+# {{lb|ja|biology|sort=すいせい}} [[aquatic]] ([[life]])
+
+====Antonyms====
+* {{ja-r|陸生|りくせい}}: [[terrestrial]] ([[life]])
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:水生]]
+[[mg:水生]]
+[[ja:水生]]
+[[pt:水生]]
+[[zh:水生]]

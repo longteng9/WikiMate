@@ -1,0 +1,75 @@
+{{character info/new}}
+{{also|颢}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=181|rad=頁|as=12|sn=21|four=61986|canj=AFMBC,XAFMB}}
+
+# [[luminous]]
+# [[white]], [[hoary]]
+
+====References====
+* {{Han ref|kx=1409.300|dkj=43682|dj=1927.420|hdz=74391.080|uh=9865|ud=39013|bh=C556|bd=50518}}
+
+----
+
+==Chinese==
+{{zh-forms|s=颢}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hào
+|c=hou6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|崔顥|程顥|顥氣|顥穹|顥顥}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=頁12}}
+
+# {{defn|lang=ja|sort=頁12}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[ごう]] (gō)|kun=[[しろい]] (shiroi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=호|eumhun=|rv=ho|mr=ho|y=ho}}
+
+# {{defn|lang=ko|sort=頁12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hạo]]|rs=頁12}}
+
+# {{defn|lang=vi|sort=頁12}}
+
+[[fr:顥]]
+[[ko:顥]]
+[[hu:顥]]
+[[pl:顥]]
+[[th:顥]]
+[[vi:顥]]
+[[zh:顥]]

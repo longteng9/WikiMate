@@ -1,0 +1,50 @@
+{{also|具体}}
+==Chinese==
+{{zh-forms|s=具体}}
+
+===Etymology===
+{{rfe|lang=zh|Japanese sources list this as coming from Mencius.  C.f. http://www.weblio.jp/content/%E3%81%90%E3%81%9F%E3%81%84}}
+Attestable in ancient Chinese texts. Used in {{w|Mencius}}'s writings with a meaning close to the literal sense, ''the entirety is arranged, in order''. Re{{borrowing|zh|ja|-|nocap=1}} {{ja-r|具体|ぐたい}}, which was repurposed in the 1881 work {{lang|ja|哲学字彙}} (''Tetsugaku Jii'', “Dictionary of Philosophy”) by {{w|Inoue Tetsujirō}} as a translation of the {{etyl|en|-}} term {{m|en|concrete}}, as opposed to {{m|en|abstract}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jùtǐ
+|c=geoi6 tai2
+|h=pfs=khi-thí
+|mn=xm,qz,tw:kū-thé/zz:kī-thé/twv:khū-thé
+|ma=Zh-jùti.ogg
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[specific]]; [[particular]]; [[concrete]]
+#: {{zh-x|具體 位置|'''specific''' location}}
+
+====Antonyms====
+* {{zh-l|抽象}}
+
+===Derived terms===
+{{zh-der|具體而微|具體勞動|具體名詞}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぐ|たい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ぐたい|y=o}}
+
+===Noun===
+{{ja-noun|ぐたい|shin=具体}}
+
+# {{kyujitai spelling of|具体}}
+
+[[zh-min-nan:具體]]
+[[ko:具體]]
+[[lt:具體]]
+[[hu:具體]]
+[[ja:具體]]

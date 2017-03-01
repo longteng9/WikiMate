@@ -1,0 +1,87 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=11|sn=15|four=45966|canj=DTWA|ids=⿰木曹}}
+
+# [[trough]]
+# [[manger]]
+# [[vat]], [[tank]]
+# [[groove]]
+# a [[distillery]]
+
+====References====
+* {{Han ref|kx=0548.140|dkj=15393|dj=0935.300|hdz=21275.120|uh=69FD|ud=27133|bh=BCD1|bd=48337}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|t1=wood|曹|ls=psc|c1=s|c2=p}} – a wooden trough or vat.
+
+===Pronunciation===
+{{zh-pron
+|m=cáo
+|c=cou4
+|h=
+|mn=chô
+|w=
+|mc=y
+|oc=y
+|ma=Zh-cáo.ogg
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|11143}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=木11}}
+
+# (''archaic'') [[basin]], [[tub]]
+# body of a traditional Japanese stringed instrument (such as [[biwa]] or [[kugo]])
+
+====Readings====
+* {{ja-readings|goon=[[ぞう]] (zō) {{non-joyo-reading}}|kanon=[[そう]] (sō)|kun=[[かいばおけ]] (kaibaoke), [[おけ]] (oke)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|eumhun=|rv=jo|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=木11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tàu]]|rs=木11}}
+
+# {{defn|lang=vi|sort=木11}}
+
+[[zh-min-nan:槽]]
+[[fr:槽]]
+[[hu:槽]]
+[[mg:槽]]
+[[ja:槽]]
+[[no:槽]]
+[[pl:槽]]
+[[th:槽]]
+[[chr:槽]]
+[[vi:槽]]
+[[zh:槽]]

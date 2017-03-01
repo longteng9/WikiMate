@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|轴}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=05|sn=12|four=55060|canj=JJLW|ids=⿰車由}}
+
+# [[axle]], [[axletree]]
+# [[pivot]]
+# [[axis]]
+
+====References====
+* {{Han ref|kx=1242.130|dkj=38269|dj=1718.040|hdz=53520.120|uh=8EF8|ud=36600|bh=B662|bd=46690}}
+
+----
+
+==Chinese==
+{{zh-forms|s=轴}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhóu
+|c=zuk6,zau6
+|h=pfs=
+|md=
+|mn=qz:tia̍k/tw,xm,zz:te̍k
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=車05}}
+
+# {{defn|lang=ja|sort=車05}}
+
+====Readings====
+* {{ja-readings|goon=[[じく]] (jiku)|kanon=[[ちく]] (chiku) {{non-joyo-reading}}|kun=[[しんぎ]] (shingi), [[まきもの]] (makimono)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=축|eumhun=|rv=chuk|mr=ch'uk|y=chwuk}}
+
+# {{defn|lang=ko|sort=車05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trục]]|rs=車05}}
+
+# {{defn|lang=vi|sort=車05}}
+
+[[fr:軸]]
+[[ko:軸]]
+[[lo:軸]]
+[[li:軸]]
+[[hu:軸]]
+[[mg:軸]]
+[[ja:軸]]
+[[pl:軸]]
+[[th:軸]]
+[[chr:軸]]
+[[vi:軸]]
+[[zh:軸]]

@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|杳|果}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=04|sn=8|four=60904|canj=AD|ids=⿱日木}}
+
+# [[bright]] [[sun]]
+# [[brilliant]]
+# [[high]]
+
+====References====
+* {{Han ref|kx=0513.130|dkj=14500|dj=0901.010|hdz=21169.020|uh=6772|ud=26482|bh=AA58|bd=43608}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gǎo
+|c=gou2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|杲杲}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木04}}
+
+# {{defn|lang=ja|sort=木04}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō)|kun=[[あきらか]] (akiraka)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|eumhun=|rv=go|mr=ko|y=ko}}
+
+# {{defn|lang=ko|sort=木04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木04|hanviet=[[kiểu]], [[cảo]]}}
+
+# {{defn|lang=vi|sort=木04}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:杲]]
+[[ko:杲]]
+[[hu:杲]]
+[[mg:杲]]
+[[ja:杲]]
+[[pl:杲]]
+[[th:杲]]
+[[vi:杲]]
+[[zh:杲]]

@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|か|o2=け|もの|yomi=kun}}
+
+===Alternative forms===
+* {{ja-r|掛け物|かけもの}}
+
+===Etymology===
+{{compound|ja|掛|alt1={{furigana|掛|かけ}}|tr1=kake|t1=hanging|物|alt2={{furigana|物|もの}}|tr2=mono|t2=thing}}.
+
+===Pronunciation===
+{{ja-pron|かけもの|acc=2|yomi=kun}}
+
+===Noun===
+{{ja-noun|かけもの}}
+
+# A hanging scroll, a [[scroll]] that [[unroll]]s [[vertically]] for hanging on a wall; a [[wall hanging]].
+
+====Derived terms====
+* {{ja-r|掛%物 掛け|かけ%もの かけ}}: a [[hanging]] [[rod]].
+
+====Coordinate terms====
+* {{ja-r|巻%物|まき%もの}}: a scroll that [[unrolls]] [[horizontally]].
+
+====See also====
+* {{pedialite|lang=ja}}
+* {{pedialite|Wall hanging}}
+
+[[zh:掛物]]

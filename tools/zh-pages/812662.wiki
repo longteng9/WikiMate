@@ -1,0 +1,64 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=táohuā
+|c=tou4 faa1
+|h=pfs=thò-fâ
+|mn=qz,tw,xm:thô-hoe/zz:thô-hoa
+|w=3dau ho
+|mc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# peach blossom
+
+{{zh-cat|Advanced|Flowers}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|とう|か|yomi=o}}
+From {{etyl|ltc|ja|sort=とうか}} compound {{m|ltc|桃花|tr=daw xwæ}}. Compare modern {{cog|zh|桃花|tr=táohuā}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[to̞ːka̠]}}
+
+====Noun====
+{{ja-noun|とうか|hhira=たうくわ}}
+
+# a [[peach]] [[blossom]]
+
+====Proper noun====
+{{ja-pos|proper|とうか|hhira=たうくわ}}
+
+# {{given name|female|lang=ja|sort=とうか}}
+
+===Etymology 2===
+{{ja-kanjitab|もも|か|yomi=y}}
+A given name. Compound of {{compound|lang=ja|sort=ももか|桃|tr1=momo|t1=peach|pos1={{l|ja|sc=Latn|訓読み|''kun'yomi''}}|花|tr2=ka|t2=flower|pos2={{l|ja|sc=Latn|音読み|''on'yomi''}}}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|湯桶読み|Yutōyomi}}
+* {{IPA|lang=ja|[mo̞mo̞ka̠]}}
+
+====Proper noun====
+{{ja-pos|proper|ももか|hhira=もゝくわ}}
+
+# {{given name|female|lang=ja|sort=ももか}}
+
+[[Category:ja:Flowers|とうか]]
+
+[[zh-min-nan:桃花]]
+[[ko:桃花]]
+[[hu:桃花]]
+[[ja:桃花]]
+[[uk:桃花]]
+[[zh:桃花]]

@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|慑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=18|sn=21|four=91041|canj=PSJJ|ids=⿰忄聶}}
+
+# [[afraid]], [[scared]], [[fearful]]
+
+====References====
+* {{Han ref|kx=0409.020|dkj=11498|dj=0751.070|hdz=42371.060|uh=61FE|ud=25086|bh=C4E0|bd=50400}}
+
+----
+
+==Chinese==
+{{zh-forms|s=慑}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=懾
+|c=zip3,sip3
+|mn=liap
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|心驚膽懾|懾人|懾人心魄|懾息|懾慴|懾服|膽懾|臨難不懾|臨難無懾|鎮懾|隘懾|震懾}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心18}}
+
+# {{defn|lang=ja|sort=心18}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[おそれる]] (osoreru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=섭|eumhun=|rv=seop|mr=sŏp|y=sep}}
+
+# {{defn|lang=ko|sort=心18}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhiếp]], [[phập]]|rs=心18}}
+
+# {{defn|lang=vi|sort=心18}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=61fe Nom Foundation]
+
+[[fr:懾]]
+[[ko:懾]]
+[[li:懾]]
+[[hu:懾]]
+[[ja:懾]]
+[[pl:懾]]
+[[th:懾]]
+[[zh:懾]]

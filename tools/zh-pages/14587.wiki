@@ -1,0 +1,64 @@
+{{character info/new}}
+{{also|崃}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=08|sn=11|four=24798|canj=UDOO|ids=⿰山來}}
+
+# [[mountain]] in [[Sichuan]] [[province]]
+
+====References====
+* {{Han ref|kx=0313.180|dkj=08168|dj=0614.140|hdz=10777.170|uh=5D0D|ud=23821|bh=D4FB|bd=54523}}
+
+----
+
+==Chinese==
+{{zh-forms|s=崃}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lái
+|c=loi4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|邛崍山|邛崍縣}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山08}}
+
+# {{defn|lang=ja|sort=山08}}
+
+====Readings====
+* {{ja-readings|on=[[らい]] (rai)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=래|rv=rae|mr=rae}}
+
+# {{defn|lang=ko|sort=山08}}
+
+[[fr:崍]]
+[[li:崍]]
+[[hu:崍]]
+[[pl:崍]]
+[[th:崍]]
+[[zh:崍]]

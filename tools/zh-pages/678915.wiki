@@ -1,0 +1,75 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=shēnglǐ
+|ma=Zh-shengli.ogg
+|c=sang1 lei5
+|h=pfs=sên-lî
+|md=sĕng-lī
+|mn=qz:sng-lí/tw,xm,zz:seng-lí
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[physiology]]
+# {{lb|zh|Hakka|Min}} [[business]]; [[trade]]; [[buying]] and [[selling]]
+
+====Synonyms====
+* {{sense|business}} {{zh-l|生意}}, {{zh-l|買賣}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[physiological]]
+#: {{zh-x|生理 需要|'''biological''' need}}
+
+===Derived terms===
+{{zh-der|生理鹽水}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|り|yomi=on}}
+
+===Noun===
+{{ja-noun|せいり}}
+
+# [[physiology]]
+# [[menstruation]], a woman's [[period]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=생리}}
+
+# {{hanja form of|생리|[[physiology]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|sinh lý|[[physiology]]}}
+
+[[zh-min-nan:生理]]
+[[fy:生理]]
+[[ko:生理]]
+[[hu:生理]]
+[[ja:生理]]
+[[pt:生理]]
+[[fi:生理]]
+[[sv:生理]]
+[[th:生理]]
+[[zh:生理]]

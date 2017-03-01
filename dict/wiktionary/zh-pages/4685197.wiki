@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|yomi=o|てん|が}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=てんが}} compound {{m|zh|天鵞|tr=then nga||swan|lit=heavenly + goose}}. The second character {{m|zh|鵞}} has apparently been [[supersede]]d in modern {{etyl|zh|-}} by the alternative form {{m|zh|鵝}}. Compare modern {{etyl|yue|-}} {{m|zh|天鵝|tr=tin<sup>1</sup> ngo<sup>4</sup>}}.
+
+This word appears in the 1734 work {{lang|ja|本朝世事綺談}} (''Honchō Seji Kidan'', “Embellished Tales of Everyday Japan”; also listed as {{lang|ja|本朝世事談綺}}, with the last two characters swapped), in a description of the kanji spelling of {{m|ja|天鵞絨|tr=tengajū</i>, alternative reading <i>birōdo||velvet|pos=archaic, largely replaced by the borrowed term {{m|ja|ビロード|tr=birōdo}}}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|てんが}}
+
+===Noun===
+{{ja-noun|てんが}}
+
+# {{lb|ja|sort=てんが|rare|obsolete}} a [[swan]]
+
+====Usage notes====
+This term has been replaced in modern Japanese by {{m|ja|白鳥|tr=hakuchō||swan|lit=white bird}}.
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|天鵞絨|てんがじゅう}}: [[velvet]]
+{{der-bottom}}

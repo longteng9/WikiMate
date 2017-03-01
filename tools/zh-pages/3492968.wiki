@@ -1,0 +1,103 @@
+{{also|锻冶}}
+==Chinese==
+{{zh-forms|s=锻冶}}
+
+===Pronunciation===
+{{zh-pron
+|m=duànyě
+|c=dyun3 je5
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[forge]] and [[smelt]] (metal)
+# {{lb|zh|figurative}} to [[steel]] oneself or to [[measure]] one's words
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=irr|sort=かぬち}}
+{{IPAchar|/kanauchi/}} → {{IPAchar|/kanuchi/}}
+
+From {{etyl|ojp|ja|sort=かぬち}}. Contraction of older compound {{compound|lang=ja|sort=かぬち|金|tr1=kana|t2=metal|pos2=ancient combining form|打ち|tr2=uchi||t2=striking, striker|pos2=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|打つ}} ''utsu'', “to hit, to strike”}}.
+
+====Pronunciation====
+{{ja-pron|かぬち|y=i}}
+
+====Noun====
+{{ja-noun|かぬち}}
+
+# [[smithing]]
+# a [[metalsmith]], a [[smith]]
+# short for {{ja-l|鍛冶司||kanuchizukasa}}, the official imperial court metalsmith or overseer of metalsmiths in the ''[[w:Ritsuryō|Ritsuryō]]'' system of ancient Japan
+
+=====Synonyms=====
+* {{sense|smith}} {{ja-r|鍛冶屋|かじや}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|鍛冶司|かぬちづかさ|kanuchizukasa}}: the official imperial court metalsmith or overseer of metalsmiths in the ''Ritsuryō'' system of ancient Japan
+* {{ja-l|鍛冶部|かぬちべ|kanuchibe}}: the imperial smith in ancient Japan, superseded by the office of ''kanuchizukasa'' when the ''Ritsuryō'' system was promulgated; under the ''Ritsuryō'' system, a junior smith working under the ''kanuchizukasa''
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr|sort=かじ}}
+{{IPAchar|/kanuchi/ → /kanji/ → /kaji/}}
+
+====Pronunciation====
+{{ja-pron|かじ|acc=a|y=i}}
+
+====Noun====
+{{ja-noun|かじ|hhira=かぢ}}
+
+# [[smithing]]
+# a [[metalsmith]], a [[smith]]
+# short for {{ja-l|鍛冶の司||kaji no tsukasa}}, the official imperial court metalsmith or overseer of metalsmiths in the ''[[w:Ritsuryō|Ritsuryō]]'' system of ancient Japan.
+
+=====Synonyms=====
+* {{sense|smith}} {{ja-r|鍛冶屋|かじや}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|鍛冶神|かじしん|Kajishin}}: the Japanese [[god]] of the [[forge]], [[metalcraft]], and [[blacksmith]]ing
+* {{ja-l|鍛冶の司|かじのつかさ|kaji no tsukasa}}: the official imperial court metalsmith or overseer of metalsmiths in the ''[[w:Ritsuryō|Ritsuryō]]'' system of ancient Japan
+* {{ja-l|鍛冶屋|かじや|kajiya}}: a [[metalsmith]]; a metalsmith's house or shop; a [[crowbar]] for removing [[nail]]s
+* {{ja-l|鍛冶橋狩野|かじばしかのう|Kajibashi Kanō}}: one of the four ''Kanō'' schools in the Edo Period, founded by [[Kanō Tan'yū]]
+* {{ja-l|鍛冶橋門|かじばしもん|Kajibashi Mon}}: one of the gates in the Edo city walls
+* {{ja-l|鍛冶始|かじはじめ|kajihajime}}: the first smithing work of the year
+* {{ja-l|鍛冶匠|かじたくみ|kajitakumi}}: a professional smith, a master smith
+* {{ja-l|鍛冶場|かじば|kajiba}}: a [[smithy]], a [[forge]]
+* {{ja-l|鍛冶炭|かじずみ|kajizumi}}: soft charcoal used for smithing
+* {{ja-l|鍛冶町|かじちょう|Kajichō}}: a place in Chiyoda, Tokyo, from land gifted to noted smiths in the Edo Period
+* {{ja-l|鍛冶被|かじかぶり|kajikaburi}}: a cleaning cloth folded in half twice and worn on the head by a smith while working
+* {{ja-l|鍛冶者|かじしゃ|kajisha}}: a [[smith]] {{qualifier|rare}}
+* {{ja-l|鍛冶師|かじし|kajishi}}: a [[smith]]
+{{der-bottom}}
+
+=====Idioms=====
+* {{ja-l|鍛冶の明日に紺屋の明後日|かじのあしたにこんやのあさって|kaji no ashita ni kon'ya no asatte}}: "a smith's tomorrow, but a dyer's day after tomorrow": a metaphor for someone who makes promises easily but always breaks them
+
+===Etymology 3===
+{{ja-kanjitab|たん|yomi=o|や}}
+From {{etyl|ltc|ja|sort=たんや}} {{m|ltc|鍛冶|tr={{IPAchar|/tuɑn ja/}}|lit=to forge + to fuse (metals)}}. Compare modern {{cog|cmn|锻冶|tr=duànyě}}.
+
+====Pronunciation====
+{{ja-pron|たんや|y=goon}}
+
+====Noun====
+{{ja-noun|たんや}}
+
+# [[smithing]]
+# a [[metalsmith]], a [[smith]]
+
+===See also===
+* {{pedialite|lang=ja}}
+* {{pedialite|Blacksmithing}}
+
+[[la:鍛冶]]
+[[mg:鍛冶]]
+[[ja:鍛冶]]

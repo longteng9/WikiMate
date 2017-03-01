@@ -1,0 +1,43 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=huízhé
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[diffract]]
+
+===Noun===
+{{zh-noun}}
+
+# [[diffraction]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|せつ|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|かいせつ|y=on}}
+
+===Noun===
+{{ja-noun|かいせつ}}
+
+# [[diffraction]]
+
+===Verb===
+{{ja-verb-suru|tr=intrans|かいせつ}}
+
+# [[diffract]]
+
+====Conjugation====
+{{ja-suru|かいせつ}}
+
+[[ko:回折]]
+[[ja:回折]]
+[[zh:回折]]

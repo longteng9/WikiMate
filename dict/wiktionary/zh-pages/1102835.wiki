@@ -1,0 +1,46 @@
+{{also|呜咽}}
+==Chinese==
+{{zh-forms|s=呜咽}}
+
+===Pronunciation===
+{{zh-pron
+|m=wūyè
+|c=wu1 jit3
+|mn=qz,xm,zz:o͘-iat
+|cat=v,a
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Advanced Mandarin|literary}} to [[sob]]; to [[whimper]]
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|Advanced Mandarin|literary}} [[low]] and [[deep]] {{qualifier|of a sound}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|お|えつ|yomi=o}}
+
+===Noun===
+{{ja-noun|おえつ}}
+
+# [[sobbing]]
+
+===Verb===
+{{ja-verb-suru|おえつ}}
+
+# to [[sob]]
+
+====Conjugation====
+{{ja-suru|tr=intrans|おえつ}}
+
+[[ko:嗚咽]]
+[[mg:嗚咽]]
+[[ja:嗚咽]]
+
+====Alternative forms====
+* {{ja-r|鳴咽|おえつ}}

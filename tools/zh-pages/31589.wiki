@@ -1,0 +1,64 @@
+{{character info/new}}
+{{also|驲}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=04|sn=14|four=76300|canj=SFA|ids=⿰馬日}}
+
+# post horse, relay horse
+
+====References====
+* {{Han ref|kx=1434.230|dkj=44604|dj=1959.110|hdz=74543.160|uh=99B9|ud=39353|bh=E4D4|bd=58580}}
+
+----
+
+==Chinese==
+{{zh-forms|s=驲}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=rì
+|c=jat6,jik6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=馬04}}
+
+# {{defn|lang=ja|sort=馬04}}
+
+====Readings====
+* {{ja-readings|on=[[じつ]] (jitsu), [[にち]] (nichi)|kun=[[はやうま]] (hayauma)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=일|eumhun=|rv=il|mr=il|y=il}}
+
+# {{defn|lang=ko|sort=馬04}}
+
+[[fr:馹]]
+[[hu:馹]]
+[[pl:馹]]
+[[th:馹]]
+[[zh:馹]]

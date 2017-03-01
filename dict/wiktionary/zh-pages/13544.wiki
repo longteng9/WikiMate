@@ -1,0 +1,92 @@
+{{character info/new}}
+{{also|秦|奉|泰}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+
+===Han character===
+{{Han char|rn=37|rad=大|as=06|sn=9|four=50430|canj=QKHK|ids=⿱𡗗天}}
+
+====References====
+* {{Han ref|kx=0251.150|dkj=05915|dj=0512.140|hdz=10537.010|uh=594F|ud=22863|bh=ABB5|bd=43957}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zòu
+|ma=Zh-zòu.ogg
+|c=zau3,cau3
+|mn=qz:chò/xm,zz:chò͘/qz,tw,xm,zz:chàu/twv:cháu
+|mn_note=chò/chò͘ - literary; chàu - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[play]] (music)
+# [[memorialize]] an [[emperor]]
+# [[report]]
+
+====Compounds====
+{{zh-der|吹奏樂器|奏功|奏捷|奏凱|奏鳴麯|奏效|奏樂}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=大06}}
+
+# {{defn|lang=ja|sort=大06}}
+
+====Readings====
+{{ja-readings|goon=[[す]] (su)|kanon=[[そう]] (sō)|kun=[[かなでる]] (kanaderu), [[すすめる]] (susumeru)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|奏楽|そうがく}}
+* {{ja-r|奏功|そうこう}}
+* {{ja-r|奏効|そうこう}}
+* {{ja-r|奏上|そうじょう}}
+* {{ja-r|奏鳴曲|そうめいきょく}}: [[sonata]]
+* {{ja-r|奏聞|そうもん}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=주|rv=ju|mr=chu}}
+
+# {{defn|lang=ko|sort=大06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tấu]], [[táu]], [[tâu]], [[thần]]|rs=大06}}
+
+# {{defn|lang=vi|sort=大06}}
+
+[[zh-min-nan:奏]]
+[[fr:奏]]
+[[ko:奏]]
+[[li:奏]]
+[[hu:奏]]
+[[mg:奏]]
+[[ja:奏]]
+[[no:奏]]
+[[pl:奏]]
+[[th:奏]]
+[[zh:奏]]

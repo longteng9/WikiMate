@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|堑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=11|sn=14|four=52104|canj=JLG|ids=⿱斬土}}
+
+# [[moat]], [[trench]], [[pit]], [[cavity]]
+
+====References====
+* {{Han ref|kx=0237.030|dkj=05394|dj=0475.090|hdz=10478.080|uh=5879|ud=22649|bh=B9D5|bd=47573}}
+
+----
+
+==Chinese==
+{{zh-forms|s=堑}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiàn
+|c=cim3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|地塹|坑塹|塹坑|塹壕|壕塹|壘塹|天塹|欲塹|溝塹|長江天塹|高城深塹|高壁深塹|高壘深塹}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土11}}
+
+# {{defn|lang=ja|sort=土11}}
+
+====Readings====
+* {{ja-readings|goon=[[せん]] (sen)|kanon=[[せん]] (sen)|kanyoon=[[ざん]] (zan)|kun=[[ほり]] (hori)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=참|rv=cham|mr=ch'am}}
+
+# {{defn|lang=ko|sort=土11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khiếm]]|rs=土11}}
+
+# {{defn|lang=vi|sort=土11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5879 Nom Foundation]
+
+[[fr:塹]]
+[[li:塹]]
+[[hu:塹]]
+[[ja:塹]]
+[[pl:塹]]
+[[th:塹]]
+[[zh:塹]]

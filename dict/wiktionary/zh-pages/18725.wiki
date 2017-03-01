@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|沲}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=05|sn=8|four=33111|canj=EJP|ids=⿰氵它}}
+
+# used in [[placename]]s in [[Sichuan]] [[province]] ([[石盘沱]], [[金钢沱]])
+# [[tearful]]
+# to [[branch]] (of a [[river]])
+# rivers, [[stream]]s, [[waterway]]s
+# [[flow]]
+
+====References====
+* {{Han ref|kx=0613.070|dkj=17243|dj=1006.060|hdz=31594.020|uh=6CB1|ud=27825|bh=AA62|bd=43618}}
+* [http://yedict.com/htm/6C/6CB1.htm yedict.com (叶典)]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tuó
+|c=to4
+|mc=y
+|oc=y
+|cat=pn,a,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|大雨滂沱|沱江|沱茶|涕泗滂沱|涾沱|滂沱|滂沱大雨|滹沱河|潭沱}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水05}}
+
+# {{defn|lang=ja|sort=水05}}
+
+====Readings====
+* {{ja-readings|on=[[た]] (ta), [[だ]] (da)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=타|eumhun=|rv=ta|mr=t'a|y=tha}}
+
+# {{defn|lang=ko|sort=水05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水05| hanviet = đờ, đà, đừ}}
+
+# {{defn|lang=vi|sort=水05}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6cb1 Nom Foundation]
+
+[[fr:沱]]
+[[hu:沱]]
+[[mg:沱]]
+[[ja:沱]]
+[[pl:沱]]
+[[th:沱]]
+[[zh:沱]]

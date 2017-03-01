@@ -1,0 +1,84 @@
+{{character info/new}}
+{{also|閇|闭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=169|rad=門|as=03|sn=11|four=77247|canj=ANDH|ids=⿵門才}}
+
+====References====
+* {{Han ref|kx=1330.140|dkj=41222|dj=1835.050|hdz=74283.080|uh=9589|ud=38281|bh=B3AC|bd=45996}}
+
+----
+
+==Chinese==
+{{zh-forms|s=闭}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bì
+|c=bai3
+|h=pfs=
+|md=
+|mn=pì
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[shut]], [[close]]
+# [[obstruct]], [[block up]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=門03}}
+
+# [[close]], [[shut]]
+
+====Readings====
+* {{ja-readings|goon=[[はい]] (hai)|kanon=[[へい]] (hei)|on=[[へつ]] (hetsu)|kun=[[とじる]] ([[閉じる]], tojiru), [[しめる]] ([[閉まる]], shimeru), [[とざす]] ([[閉ざす]], tozasu)}}
+
+====Antonyms====
+* {{sense|to shut, close}} {{l|ja|開}}
+
+====Derived terms====
+* {{ja-r|閉じる|とじる}}
+* {{ja-r|閉める|しめる}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[폐]], [[별]]|eumhun=|rv=pye, byeol|mr=p'ye, pyŏl|y=phyey, pyel}}
+
+# {{defn|lang=ko|sort=門03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bế]], [[bấy]], [[bé]]|rs=門03}}
+
+# {{defn|lang=vi}}
+
+[[fr:閉]]
+[[ko:閉]]
+[[hu:閉]]
+[[mg:閉]]
+[[ja:閉]]
+[[pl:閉]]
+[[th:閉]]
+[[chr:閉]]
+[[uk:閉]]
+[[zh:閉]]

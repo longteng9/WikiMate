@@ -1,0 +1,143 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=17904|canj=NHD|ids=⿱矛木}}
+
+====References====
+* {{Han ref|kx=0519.050|dkj=14622|dj=0907.040|hdz=21192.020|uh=67D4|ud=26580|bh=AC58|bd=44120}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|矛|木|t2=tree|ls=ic}} – wood soft enough that it can easily be cut.
+
+===Pronunciation===
+{{zh-pron
+|m=róu
+|c=jau4
+|mn=qz,tp,xm:liû/kh,zz:jiû
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[soft]]
+# [[gentle]], [[pliant]]
+
+====Compounds====
+* [[柔肠寸断]]
+* [[柔道]] (róudào)
+* [[柔和]]
+* [[柔滑]]
+* [[柔麻]]
+* [[柔美]]
+* [[柔媚]]
+* [[柔嫩]]
+* [[柔懦]]
+* [[柔情]]
+* [[柔韧]]
+* [[柔软]]
+* [[柔软体操]]
+* [[柔润]]
+* [[柔弱]]
+* [[柔声]]
+* [[柔顺]]
+* [[柔婉]]
+* [[柔细]]
+* [[柔中有刚]]
+* [[柔術]] (róushù)
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=木05}}
+
+# {{defn|lang=ja|sort=木05}}
+
+====Readings====
+{{ja-readings|goon=[[にゅう]] (nyū) < [[にう]] (niu)|kanon=[[じゅう]] (jū) < [[じう]] (jiu)|kun=[[やわらかい]] (yawarakai) < [[やはらかい]] (yaharakai), [[やわらげる]] (yawarageru) < [[やはらげる]] (yaharageru), [[やわらぐ]] (yawaragu) < [[やはらぐ]] (yaharagu)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|柔術|じゅうじゅつ}}
+* {{ja-r|柔順|じゅうじゅん}}
+* {{ja-r|柔道|じゅうどう}}
+* {{ja-r|柔軟|じゅうなん}}
+* {{ja-r|柔和|にゅうわ}}: [[gentleness]], [[meekness]], [[mildness]]
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|やわ|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|やわ|acc=1|acc_ref=DJR,NHK}}
+
+====Adjectival noun====
+{{ja-adj|infl=na|やわ|hhira=やは}}
+
+# [[weak]]
+
+===Etymology 2===
+
+====Noun====
+{{ja-noun|やわら|hhira=やはら}}
+
+# A [[small]] [[handheld]] [[metal]] [[weapon]]; like a 'fist-iron'; either one or two small, thick sticks which stick out about an inch from each side of the hand--usually used in pairs to initiate throws, bone breaks, and pressure point strikes; inspired from the [[vajra]]/[[kongō]].
+
+====See also====
+* {{pedialite|柔|lang=ja}}
+
+===Etymology 3===
+{{ja-kanjitab|じゅう|yomi=o}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|じゅう|acc=1|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|じゅう|hhira=じう}}
+
+# [[softness]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[유]]|eumhun=|rv=yu|mr=yu|y=yu}}
+
+# {{defn|lang=ko|sort=木05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhu]]|rs=木05}}
+
+# {{defn|lang=vi|sort=木05}}
+
+[[fr:柔]]
+[[ko:柔]]
+[[hu:柔]]
+[[mg:柔]]
+[[ja:柔]]
+[[no:柔]]
+[[pl:柔]]
+[[th:柔]]
+[[uk:柔]]
+[[vi:柔]]
+[[zh:柔]]

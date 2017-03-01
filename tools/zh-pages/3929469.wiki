@@ -1,0 +1,33 @@
+{{also|别字}}
+==Chinese==
+{{zh-forms|s=别字}}
+
+===Pronunciation===
+{{zh-pron
+|m=biézì
+|c=bit6 zi6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[typo]], misspelt word or character
+# [[variant]] or alternative form of a [[word]] or [[character]]
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|べつ|じ|yomi=o}}
+
+===Noun===
+{{ja-noun|べつじ}}
+
+# [[different]] [[character]]
+#: {{ja-x|同形 '''別字'''|どうけい '''べつじ'''|heteronymous character; '''unrelated character''' with an identical shape}}
+
+[[hr:別字]]
+[[hu:別字]]
+[[ja:別字]]

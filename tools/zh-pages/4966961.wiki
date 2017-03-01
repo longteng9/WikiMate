@@ -1,0 +1,44 @@
+{{also|老视}}
+==Chinese==
+{{zh-forms|s=老视}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǎoshì
+|c=lou5 si6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{synonym of|老花|lang=zh}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ろう|し|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=h|y=ko|ろうし}}
+* {{homophone|lang=ja|老死|牢死|浪死|sort=ろうし}}
+
+===Noun===
+{{ja-noun|ろうし|hhira=らうし}}
+
+# {{lb|ja|pathology|sort=ろうし}} [[presbyopia]]
+
+====Synonyms====
+* {{ja-r|老%眼|ろう%がん}}
+
+===See also===
+* {{ja-r|近%視|きん%し}}
+* {{ja-r|遠%視|えん%し}}
+* {{ja-r|乱%視|らん%し}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[Category:ja:Eye|ろうし]]
+[[fr:老視]]

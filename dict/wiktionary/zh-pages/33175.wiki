@@ -1,0 +1,51 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=210|rad=齊|as=04|sn=18|four=00223|canj=XYXF,YXF}}
+
+# {{defn|Han|sort=齊04}} great [[anger]], [[violent]] [[anger]]
+
+====References====
+* {{Han ref|kx=1531.140|dkj=48567|dj=2069.070|hdz=74786.040|uh=9F4C|ud=40780|bh=F1E9|bd=61929}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jì
+|c=zai1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:twedu|B06301}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''齌''' ([[tễ]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:齌]]
+[[pl:齌]]
+[[th:齌]]
+[[zh:齌]]

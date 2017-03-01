@@ -1,0 +1,45 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiúxīn,er=1
+|c=kau4 sam1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[center]] of a [[sphere]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|きゅう|しん|yomi=on}}
+
+===Noun===
+{{ja-noun|きゅうしん}}
+
+# [[center]] of a [[sphere]]
+
+====See also====
+* {{ja-r|中心|ちゅうしん}}: [[center]]
+
+[[Category:ja:Geometry|きゅうしん]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=구심}}
+
+# {{hanja form of|구심|center of a sphere}}
+
+[[ko:球心]]
+[[mg:球心]]
+[[ja:球心]]
+[[chr:球心]]
+[[zh:球心]]

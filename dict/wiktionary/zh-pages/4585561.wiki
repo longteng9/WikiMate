@@ -1,0 +1,12 @@
+==Japanese==
+{{ja-kanjitab|せい|き|ひょう|げん|yomi=o}}
+
+===Etymology===
+{{compound|lang=ja|sort=せいきひょうげん|正規|tr1=seiki|t1=regular|表現|tr2=hyōgen|t2=expression}}
+
+===Noun===
+{{ja-noun|せいきひょうげん}}
+
+# {{lb|ja|computing|sort=せいきひょうげん}} [[regular expression]]
+
+[[pl:正規表現]]

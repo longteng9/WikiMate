@@ -1,0 +1,70 @@
+{{also|缩小}}
+==Chinese==
+{{zh-forms|s=缩小}}
+
+===Pronunciation===
+{{zh-pron
+|m=suōxiǎo
+|c=suk1 siu2
+|mn=qz,xm,zz:sok-siáu/tw:sok-sió/xm,zz:siok-siáu
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[shrink]], to [[decrease]] in [[size]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅく|しょう|yomi=on}}
+
+===Etymology===
+From [[縮]] (''shuku'', "shrink," "reduce," "shorten") + [[小]] (''shō'', "small," "little")
+
+===Noun===
+{{ja-noun|しゅくしょう}}
+
+# [[minification]], [[condensation]]
+# [[shortening]]
+# [[reduction]], [[curtailment]], [[cut]]
+
+====Synonyms====
+* {{sense|condense}} [[凝縮]]
+* {{sense|shortening}} [[短縮]]
+* {{sense|reduction}} [[削減]]
+
+====Antonyms====
+* [[拡大]]
+
+====Compounds====
+* [[縮小命令セットコンピュータ]] (''shukushō meirei setto konpyūta''): Reduced Instruction Set Computer
+* [[拡大縮小]] (''kakudai shukushō''): scaling, zooming
+* [[軍備縮小]] (''gunbi shukushō''): reduction of armaments, disarmament
+* [[景気縮小]] (''keiki shukushō''): economic contraction
+* [[輸出縮小]] (''shushutsu shukushō''): export reduction, export contraction
+* [[瞳孔縮小]] (''dōkō shukushō''): pupil contraction
+* [[左心縮小術]] (''sashin-shukushōjutsu''): reduction left ventriculoplasty, Batista procedure
+
+===Verb===
+{{ja-verb-suru|しゅくしょう}}
+
+# [[minify]], [[condense]]
+# [[shorten]]
+# [[reduce]], [[curtail]], [[cut down]]
+#: {{ja-usex|事業の規模を縮小した。|じぎょう の きぼ を しゅくしょう した。|The company reduced their business.}}
+
+====Conjugation====
+{{ja-suru|しゅくしょう}}
+
+====Synonyms====
+* {{ja-r|縮める|ちぢめる}}
+
+[[zh-min-nan:縮小]]
+[[ko:縮小]]
+[[hu:縮小]]
+[[mg:縮小]]
+[[ja:縮小]]
+[[chr:縮小]]
+[[zh:縮小]]

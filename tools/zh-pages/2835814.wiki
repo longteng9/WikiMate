@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|ひ|さい|yomi=o}}
+
+===Noun===
+{{ja-noun|ひさい}}
+
+# suffering from a disaster, affected by a disaster
+
+====Derived terms====
+* {{ja-r|被災地|ひさいち}}: disaster-stricken area
+* {{ja-r|被災者|ひさいしゃ}}: disaster victim
+
+===Verb===
+{{ja-verb-suru|ひさい}}
+
+# suffer from a disaster, be hit by a disaster, be visited by a natural disaster
+#: {{ja-usex|熊本地震で'''被災された'''皆様へ|^くまもと じしん で '''ひさい された''' みなさま へ|To everyone '''affected''' by the Kumamoto earthquake}}
+
+====Conjugation====
+{{ja-suru|ひさい}}
+
+[[ja:被災]]
+[[zh:被災]]

@@ -1,0 +1,67 @@
+{{also|强化}}
+==Chinese==
+{{zh-forms|s=强化}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiánghuà
+|c=koeng4 faa3
+|mn=qz,tw,xm:kiông-hòa/zz:kiâng-hòa
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[strengthen]]
+
+===Noun===
+{{zh-noun}}
+
+# [[strengthening]]
+
+===Derived terms===
+{{zh-der|強化食品}}
+
+===Descendants===
+{{CJKV||きょうか|강화|cường hoá}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きょう|か|yomi=o}}
+
+===Etymology===
+From {{m|ja|強|sc=Jpan|tr=kyō||strengthen}} + {{m|ja|化|sc=Jpan|tr=ka||cause to become}}
+
+===Noun===
+{{ja-noun|きょうか}}
+
+# [[strengthen]]ing, [[intensify|intensification]], [[buildup]], [[reinforcement]], [[augment]]ing
+
+====Derived terms====
+{{der-top}}
+* [[強化合宿]] (''kyōka gasshuku''): training camp
+* [[強化米]] (''kyōkamai''): fortified rice
+* [[強化食品]] (''kyōka shokuhin''): fortified foods
+{{der-mid}}
+* [[機能強化]] (''kinō kyōka''): (''computing'') functional enhancement
+* [[警備強化]] (''keibi kyōka''): increased or beefed up security
+* [[関係強化]] (''kankei kyōka''): strengthening of relations
+{{der-bottom}}
+
+===Verb===
+{{ja-verb-suru|きょうか}}
+
+# to [[strengthen]]
+
+====Conjugation====
+{{ja-suru|きょうか}}
+
+[[zh-min-nan:強化]]
+[[ko:強化]]
+[[mg:強化]]
+[[ja:強化]]
+[[zh:強化]]

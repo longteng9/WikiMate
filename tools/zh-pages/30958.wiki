@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=177|rad=革|as=05|sn=14|four=46510|canj=TJAM}}
+
+# [[tartars]]
+
+====References====
+* {{Han ref|kx=1386.200|dkj=42764|dj=1900.380|hdz=74330.070|uh=977C|ud=38780|bh=BBDE|bd=48094}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dá
+|c=daat3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|韃靼|韃靼海峽}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=革05}}
+
+# tanned skin
+# [[tartars]]
+
+====Readings====
+* {{ja-readings|on=[[たん]] (tan)|kanon=[[たつ]] (tatsu)|goon=[[たち]] (tachi)|kun=[[なめしがわ]] (nameshigawa)}}
+
+====Compounds====
+{{der-top|Compounds with 靼}}
+* {{ja-r|韃靼|だったん}}
+* {{ja-r|鐙靼|みずお}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=달|eumhun=|rv=dal|mr=tal|y=tal}}
+
+# {{defn|lang=ko|sort=革05}}
+
+[[fr:靼]]
+[[hu:靼]]
+[[mg:靼]]
+[[ja:靼]]
+[[pl:靼]]
+[[th:靼]]
+[[zh:靼]]

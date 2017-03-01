@@ -1,0 +1,129 @@
+{{character info/new}}
+{{also|冢}}
+==Translingual==
+
+===Alternative forms===
+* There are two Unicode z-variants, at code points U+585A and U+FA10
+
+===Han character===
+{{Han char|rn=32|rad=土|as=09|sn=12|four=47132|canj=GBMO|ids=⿰土冢}}
+
+# [[cemetery]]
+# [[tomb]], [[burial]] [[mound]]
+
+====References====
+* {{Han ref|kx=0236.020|dkj=05345|dj=0473.180|hdz=10476.070|uh=585A|ud=22618|bh=B6EF|bd=46831}}
+* {{Han ref|uh=FA10}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|土|t1=earth|冢|ls=psc|c1=s|c2=p}} – an earthen mound, a tomb of earth.
+
+===Pronunciation===
+{{zh-pron
+|m=zhǒng
+|c=cung2
+|h=pfs=
+|md=
+|mn=thióng
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# variant of {{zh-l|冢}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=土10}}
+
+# [[mound]], [[hillock]], [[tumulus]] {{qualifier|implies a manmade origin}}
+
+====Readings====
+{{ja-readings
+|goon=[[ちゅう]] (chū) {{non-joyo-reading}}
+|kanon=[[ちょう]] (chō) {{non-joyo-reading}}
+|kun=[[つか]] (tsuka)
+}}
+
+===Etymology===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Mound}}
+</div>
+{{ja-kanjitab|つか|yomi=k}}
+Cognate with {{etyl|ojp|ja|sort=つか}} verb {{m|ja|築く|tr=tsuku||to build up using earth and/or stone}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+The {{IPAchar|/a/}} ending may indicate that ''tsuka'' developed as the [[nominalization]] of the {{m|ja|未然形|tr=mizenkei||[[irrealis]] form}} of the verb, suggesting an original meaning of "that which is being built up into an [[earthworks]] (but isn't finished yet)". The irrealis is also the root form for constructing the passive form of all Japanese verbs, so the original meaning might instead have been just the passive sense of "that which is built up into an earthworks".
+
+===Pronunciation===
+{{ja-pron|yomi=k|つか|acc=2|dev=1|acc_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{ja-l|冢}}
+
+===Noun===
+{{ja-noun|つか}}
+
+# a [[mound]] or [[hillock]], generally [[manmade]]
+# a [[grave]], a [[tumulus]] or [[burial mound]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|蟻塚|ありづか}}, {{ja-r|垤|ありづか}}: [[anthill]]
+* {{ja-r|一里塚|いちりづか}}: a [[milestone]]
+* {{ja-r|鶯塚|^うぐいすづか}}: the [[kabuki]] [[play]], ''Mukashigatari Uguisuzuka''
+* {{ja-r|鰻塚|うなぎづか}}
+* {{ja-r|貝塚|かいづか}}: a [[shell]] [[mound]] or [[midden]]
+* {{ja-r|狐塚|きつねづか}}: [[foxhole]]
+{{der-bottom}}
+
+====Synonyms====
+* {{sense|grave, small burial mound}} {{ja-r|墓|はか}}
+* {{sense|tumulus, large burial mound}} {{ja-r|古墳|こふん}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=총|rv=chong|mr=ch'ong}}
+
+# {{defn|lang=ko|sort=土0}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trủng]]|rs=土0}}
+
+# {{defn|lang=vi|sort=土0}}
+
+[[zh-min-nan:塚]]
+[[fr:塚]]
+[[ko:塚]]
+[[li:塚]]
+[[hu:塚]]
+[[mg:塚]]
+[[ja:塚]]
+[[pl:塚]]
+[[th:塚]]
+[[chr:塚]]
+[[vi:塚]]
+[[zh:塚]]

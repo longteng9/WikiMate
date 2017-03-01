@@ -1,0 +1,90 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=06|sn=9|four=40448|canj=VYCK|ids=⿰女交}}
+
+# [[graceful]]
+# [[beautiful]]
+
+====References====
+* {{Han ref|kx=0260.060|dkj=06214|dj=0526.060|hdz=21047.050|uh=59E3|ud=23011|bh=ABBB|bd=43963}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiāo
+|c=gaau2,haau4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|夸姣|姣好|姣媚|姣美|姣麗|娥姣}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女06}}
+
+# [[beautiful]]
+# [[handsome]]
+# [[pretty]]
+
+====Readings====
+{{ja-readings
+|goon=[[きょう]] (kyō)
+|kanon=[[こう]] (kō)
+|kun=[[みめよい|みめよ.い]] ([[姣い]], mimeyo.i), [[うつくしい|うつく.しい]] ([[姣しい]], utsuku.shii), [[いさぎよい|いさぎよ.い]] ([[姣い]], isagiyo.i)
+}}
+
+=====Usage notes=====
+This kanji is very rare in Japanese.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=교|rv=gyo|mr=kyo}}
+
+# [[lovely]], [[charming]]
+# [[lewdness]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[giảo]]|rs=女06}}
+
+# {{defn|lang=vi|sort=女06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=59e3 Nom Foundation]
+
+[[fr:姣]]
+[[li:姣]]
+[[hu:姣]]
+[[mg:姣]]
+[[pl:姣]]
+[[th:姣]]
+[[zh:姣]]

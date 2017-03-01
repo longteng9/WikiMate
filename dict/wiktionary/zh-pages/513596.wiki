@@ -1,0 +1,31 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=huāfěnzhèng
+|c=faa1 fan2 zing3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|immunology}} [[hay fever]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|花|粉|症}}
+
+===Etymology===
+From [[花粉]] ([[かふん]], [[kafun]]):(''[[pollen]]'') + [[症]] (ショウ, shō):(''[[disease]], [[syndrome]]'')
+
+===Noun===
+{{ja-noun|かふんしょう}}
+
+# {{lb|ja|disease|sort=かふんしょう}} [[hay fever]]
+
+[[hu:花粉症]]
+[[sv:花粉症]]
+[[zh:花粉症]]

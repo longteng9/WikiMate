@@ -1,0 +1,27 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=kěróngxìng
+|c=ho2 jung4 sing3
+|mn=khó-iông-sèng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|chemistry}} [[solubility]] {{gloss|whether a substance is soluble or not}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|か|よう|せい|yomi=on}}
+
+===Noun===
+{{ja-noun|かようせい}}
+
+# {{lb|ja|chemistry|sort=かようせい}} [[solubility]]
+
+[[zh:可溶性]]

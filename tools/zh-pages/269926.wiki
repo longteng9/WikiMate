@@ -1,0 +1,51 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qīngōng
+|c=cam1 gung1
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# an [[invasion]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[invade]]
+
+====Synonyms====
+* {{zh-l|侵占|qīnzhàn}}
+* {{zh-l|侵略}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|こう|yomi=on}}
+
+===Pronunciation===
+* {{homophones|lang=ja|信仰|親交|進行|振興|進攻|新港}}
+
+===Noun===
+{{ja-noun|しんこう}}
+
+# an [[invasion]]
+
+====Synonyms====
+* {{ja-r|侵略|しんりゃく}}
+
+===Verb===
+{{ja-verb-suru|しんこう}}
+
+# [[invade]], militarily go into
+
+====Conjugation====
+{{ja-suru|しんこう}}
+
+[[ko:侵攻]]
+[[mg:侵攻]]
+[[zh:侵攻]]

@@ -1,0 +1,62 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=11|sn=16|four=00191|canj=KBOF|ids=⿸疒祭}}
+
+====References====
+* {{Han ref|kx=0779.260|dkj=22458|dj=1189.130|hdz=42694.060|uh=7635|ud=30261|bh=EA71|bd=60017}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhài
+|c=zaai3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# a [[wasting]] [[disease]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒11}}
+
+# {{defn|lang=ja|sort=疒11}}
+
+====Readings====
+* {{ja-readings|on=[[さい]] (sai), [[せい]] (sei)|kun=[[やむ]] (yamu)|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=疒11| hanviet = trái}}
+
+# {{defn|lang=vi|sort=疒11}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=7635 Nom Foundation]
+
+[[fr:瘵]]
+[[hu:瘵]]
+[[mg:瘵]]
+[[pl:瘵]]
+[[th:瘵]]
+[[zh:瘵]]

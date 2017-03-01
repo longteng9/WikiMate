@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=bèihàizhě
+|c=bei6 hoi6 ze2
+|mn=pī-hāi-chiá
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[victim]], [[casualty]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ひ|がい|しゃ|yomi=o}}
+
+===Etymology===
+{{suffix|被害|者|lang=ja|t1=damage|t2=person|sort=ひがいしゃ}}
+
+===Pronunciation===
+{{ja-pron|ひがいしゃ|y=o}}
+
+===Noun===
+{{ja-noun|ひがいしゃ}}
+
+# [[victim]], [[casualty]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=피해자}}
+
+# {{hanja form of|피해자|[[victim]], [[casualty]]}}
+
+[[zh-min-nan:被害者]]
+[[ko:被害者]]
+[[lo:被害者]]
+[[hu:被害者]]
+[[zh:被害者]]

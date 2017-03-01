@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=gōngyǎn
+|c=gung1 jin2,gung1 jin5
+|mn=kong-ián
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[put on]] a [[public]] [[performance]] (of a play, concert, etc.); to [[perform]] in public
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|えん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|こうえん|yomi=o}}
+
+===Noun===
+{{ja-noun|こうえん}}
+
+# [[public]] musical or theatrical [[performance]] such as a [[concert]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|こうえん}}
+
+# [[put on]] {{gloss|give a public performance of a play, concert, etc.}}
+#: {{ja-usex|演劇を公演します。|えんげき を こうえん します。|We're putting on a play.}}
+
+====Conjugation====
+{{ja-suru|こうえん}}
+
+----
+
+==Korean==
+{{ko-hanjatab|公|演}}
+
+===Noun===
+{{ko-noun|rv=gongyeon|hangeul=공연}}
+
+# {{hanja form of|공연|[[public]] [[performance]]}}
+
+[[zh-min-nan:公演]]
+[[ko:公演]]
+[[mg:公演]]
+[[zh:公演]]

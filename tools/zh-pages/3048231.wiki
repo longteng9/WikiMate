@@ -1,0 +1,24 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xuànrǎn
+|c=syun3 jim5
+|mn=qz,xm:soan-liám/zz:soan-jiám/xm:soàn-liám
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[color]] a drawing
+# to [[overdo]]; to exaggerate; to embellish
+# {{lb|zh|computing}} to [[render]]
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|computing}} [[rendering]]
+
+[[zh:渲染]]

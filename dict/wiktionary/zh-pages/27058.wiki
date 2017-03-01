@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|诽}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=08|sn=15|four=01611|canj=YRLMY}}
+
+# [[slander]], [[vilify]], [[condemn]]
+
+====References====
+* {{Han ref|kx=1165.270|dkj=35601|dj=1631.110|hdz=63985.030|uh=8AB9|ud=35513|bh=BDDA|bd=48602}}
+
+----
+
+==Chinese==
+{{zh-forms|s=诽}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fěi
+|c=fei2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|口頭誹謗|腹誹|腹誹心謗|誹言|誹語|誹誹|誹謗|誹謗之木|誹謗罪}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言08}}
+
+# {{defn|lang=ja|sort=言08}}
+
+====Readings====
+* {{ja-readings|on=[[ひ]] (hi)|kun=[[そしる]] (soshiru), [[そしり]] (soshiri)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=비|eumhun=|rv=bi|mr=pi|y=pi}}
+
+# {{defn|lang=ko|sort=言08}}
+
+[[fr:誹]]
+[[ko:誹]]
+[[hu:誹]]
+[[ja:誹]]
+[[pl:誹]]
+[[th:誹]]
+[[zh:誹]]

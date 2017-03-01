@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|䜣|訴}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=04|sn=11|four=02621|canj=YRHML|ids=⿰言斤}}
+
+# [[pleased]], [[delighted]]
+# [[happy]]
+
+====References====
+* {{Han ref|kx=1150.060|dkj=35271|dj=1617.040|hdz=63948.050|uh=8A22|ud=35362|bh=B360|bd=45920}}
+
+----
+
+==Chinese==
+{{zh-forms|s=䜣}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xīn,xī,yín
+|c=jan1
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言04}}
+
+# {{defn|lang=ja|sort=言04}}
+
+====Readings====
+* {{ja-readings|on=[[きん]] (kin), [[こん]] (kon), [[き]] (ki), [[いん]] (in), [[ごん]] (gon)|kun=[[よろこぶ]] (yorokobu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=흔|eumhun=|rv=heun|mr=hŭn|y=hun}}
+
+# {{defn|lang=ko|sort=言04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=言04| hanviet = hân}}
+
+# {{defn|lang=vi|sort=言04}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=8a22 Nom Foundation]
+
+[[fr:訢]]
+[[hu:訢]]
+[[mg:訢]]
+[[ja:訢]]
+[[pl:訢]]
+[[th:訢]]
+[[zh:訢]]

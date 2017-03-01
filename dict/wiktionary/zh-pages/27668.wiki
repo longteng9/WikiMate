@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|贿}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=06|sn=13|four=64827|canj=BCKB}}
+
+# [[bribe]]
+# [[bribes]]
+# [[riches]], [[wealth]]
+
+====References====
+* {{Han ref|kx=1208.020|dkj=36745|dj=1671.140|hdz=63638.030|uh=8CC4|ud=36036|bh=B8EC|bd=47340}}
+
+----
+
+==Chinese==
+{{zh-forms|s=贿}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huì,huǐ
+|c=kui2,fui2
+|mn=hé
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|受賄|攬權納賄|招權納賄|收賄|貨賄公行|賄貨公行|賄款|索賄|貪財好賄|賄賂并行|行賄|苞苴賄賂|納賄|賄選|財賄|賄賂|貪賄|貨賄|賄賂公行}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=貝06}}
+
+# to pay
+# to supply
+
+====Readings====
+* {{ja-readings|goon=[[け]] (ke) {{non-joyo-reading}}|kanon=[[かい]] (kai) {{non-joyo-reading}}|kanyoon=[[わい]] (wai)|kun=[[まかなう]] (makanau), [[まいなう]] (mainau), [[まかない]] (makanai)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=회|eumhun=|rv=hoe|mr=hoe|y=hoy}}
+
+# {{defn|lang=ko|sort=貝06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|hối|rs=貝06}}
+
+# {{defn|lang=vi}}
+
+[[fr:賄]]
+[[hu:賄]]
+[[mg:賄]]
+[[ja:賄]]
+[[pl:賄]]
+[[ru:賄]]
+[[th:賄]]
+[[zh:賄]]

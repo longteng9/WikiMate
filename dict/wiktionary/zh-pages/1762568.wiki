@@ -1,0 +1,33 @@
+{{also|数据}}
+==Chinese==
+{{zh-forms|s=数据}}
+
+===Pronunciation===
+{{zh-pron
+|m=shùjù,tl=y
+|c=sou3 geoi3
+|mn=xm,tp:sò͘-kù/qz:sò͘-kìr/zz,kh:sò͘-kì
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[piece]]s of [[information]]; [[data]]
+#: {{zh-x|數據 輸入|'''data''' entry}}
+#: {{zh-x|輸入 數據|to input '''data'''}}
+#: {{zh-x|觀測 數據|observational '''data'''}}
+#: {{zh-x|字母 數據|alphabetical '''data'''}}
+#: {{zh-x|數字 數據|numerical '''data'''}}
+#: {{zh-x|已 校{jiào} 數據|corrected '''data'''}}
+
+====Derived terms====
+{{zh-der|數據集|數據庫|數據挖掘|數據流}}
+
+{{zh-cat|Intermediate}}
+
+[[zh-min-nan:數據]]
+[[ko:數據]]
+[[lt:數據]]
+[[hu:數據]]
+[[ja:數據]]

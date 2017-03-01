@@ -1,0 +1,23 @@
+==Japanese==
+{{ja-kanjitab|ちょ|ぞう|yomi=on}}
+
+===Noun===
+{{ja-noun|ちょぞう|kyu=貯藏}}
+
+# the act of [[storing]], [[storage]]
+
+====Derived terms====
+* {{ja-r|貯蔵庫|ちょぞうこ}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|ちょぞう}}
+
+# [[store]]
+#: {{ja-usex|野菜や果実を貯蔵する場合|やさい や かじつ を ちょぞう する ばあい|when storing items like fruit or vegetables}}
+
+====Conjugation====
+{{ja-suru|ちょぞう}}
+
+[[hu:貯蔵]]
+[[chr:貯蔵]]
+[[zh:貯蔵]]

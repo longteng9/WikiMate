@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|糞|袋}}
+
+===Etymology===
+Compound of {{compound|糞|tr1=kuso|t1=shit|袋|tr2=fukuro|t2=bag|lang=ja}}. Literally "bag of shit".
+
+===Pronunciation===
+* {{IPA|[kusobukuro]|lang=ja}}
+
+===Alternative forms===
+* {{l|ja|糞嚢}}
+
+===Noun===
+{{ja-noun|くそぶくろ}}
+
+# {{lb|ja|anatomy}} [[stomach]]
+#* {{RQ:Wamyō Ruijushō|2|37}}
+#*: 胃 中黄子云 音渭 '''久曾布久路''' [...] 釋名 胃圍也 圍受食物也
+# {{lb|ja|anatomy}} [[intestine|intestines]]
+
+===References===
+* {{R:Wamyō Ruijushō}}
+
+{{attention|ja|the listed senses are archaic}}
+
+[[Category:ja:Anatomy|くそぶくろ]]
+
+[[mg:糞袋]]

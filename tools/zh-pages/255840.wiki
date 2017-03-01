@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=héyì
+|c=hap6 ji3
+|h=pfs=ha̍p-yi/kak-yi
+|mn=
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to be pleased (with); to suit; to be to one's liking
+
+====Synonyms====
+{{zh-dial|喜歡}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ごう|い|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|ごうい|yomi=o}}
+
+===Noun===
+{{ja-noun|ごうい}}
+
+# [[agreement]]
+
+====Compounds====
+* {{l/ja|合意書}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|ごうい}}
+
+# [[agree]]
+
+====Conjugation====
+{{ja-suru|ごうい}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:合意]]
+[[lo:合意]]
+[[hu:合意]]
+[[mg:合意]]
+[[ja:合意]]
+[[tl:合意]]
+[[chr:合意]]
+[[zh:合意]]

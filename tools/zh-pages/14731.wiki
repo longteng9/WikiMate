@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=12|sn=15|four=22718|canj=UNOT|ids=⿰山登}}
+
+# [[path]] [[lead]]ing up a [[mountain]]
+
+====References====
+* {{Han ref|kx=0320.020|dkj=08482|dj=0620.090|hdz=10799.170|uh=5D9D|ud=23965|bh=BC6A|bd=48234}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=dèng
+|c=dang3
+|mn=tèng
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山12}}
+
+# {{defn|lang=ja|sort=山12}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō)|kun=[[さかみち]] (sakamichi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=등|rv=deung|mr=tŭng}}
+
+# {{defn|lang=ko|sort=山12}}
+
+[[fr:嶝]]
+[[li:嶝]]
+[[hu:嶝]]
+[[mg:嶝]]
+[[ja:嶝]]
+[[pl:嶝]]
+[[th:嶝]]
+[[zh:嶝]]

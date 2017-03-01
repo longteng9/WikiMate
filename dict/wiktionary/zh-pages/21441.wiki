@@ -1,0 +1,76 @@
+{{character info/new}}
+{{also|瘫}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=19|sn=24|four=00114|canj=KTOG}}
+
+# [[paralysis]], [[palsy]], [[numbness]]
+
+====References====
+* {{Han ref|kx=0783.160|dkj=22642|dj=1192.340|hdz=42705.020|uh=7671|ud=30321|bh=C5F5|bd=50677}}
+
+----
+
+==Chinese==
+{{zh-forms|s=瘫}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tān
+|c=taan2,taan1
+|mn=qz,xm,zz:than/qz,xm,zz:thoaⁿ
+|mn_note=than - literary; thoaⁿ - vernacular
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|交通癱瘓|偏癱|半癱兒|單癱|截癱|癱倒|癱子|癱瘓|癱軟|風癱}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒19}}
+
+# {{defn|lang=ja|sort=疒19}}
+
+====Readings====
+* {{ja-readings|on=[[たん]] (tan)|kun=[[しびれる]] (shibireru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=탄|eumhun=|rv=tan|mr=t'an|y=than}}
+
+# {{defn|lang=ko|sort=疒19}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[than]]|rs=疒19}}
+
+# {{defn|lang=vi|sort=疒19}}
+
+[[fr:癱]]
+[[hu:癱]]
+[[pl:癱]]
+[[th:癱]]
+[[zh:癱]]

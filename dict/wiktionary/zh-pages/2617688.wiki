@@ -1,0 +1,18 @@
+{{also|风险价值}}
+==Chinese==
+{{zh-forms|s=风险价值|type=22}}
+
+===Etymology===
+{{calque|zh|en|Value at Risk}}.
+
+===Pronunciation===
+{{zh-pron
+|m=fēngxiǎn jiàzhí
+|c=fung1 him2 gaa3 zik6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|finance|banking}} [[Value at Risk]]

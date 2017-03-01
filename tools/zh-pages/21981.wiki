@@ -1,0 +1,109 @@
+{{character info/new}}
+{{also|砚}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=112|rad=石|as=07|sn=12|four=16610|canj=MRBUU|ids=⿰石見}}
+
+====References====
+* {{Han ref|kx=0831.080|dkj=24233|dj=1247.060|hdz=42433.050|uh=786F}}
+
+----
+
+==Chinese==
+{{zh-forms|s=砚}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=yàn
+|c=jin6
+|h=pfs=yen
+|md=
+|mn=qz,xm,zz:giān/qz,tw,xm,zz:hīⁿ
+|mn_note=giān - literary; hīⁿ - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[inkstone]]
+
+====Derived terms====
+* {{zh-l|硯臺|[[inkstone]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=石07}}
+
+# [[inkstone]]
+
+====Readings====
+{{ja-readings|goon=[[げん]] (gen)|kanon=[[げん]] (gen)|kanyoon=[[けん]] (ken)|kun=[[すずり]] (suzuri)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|硯海|けんかい}}
+* {{ja-r|硯材|けんざい}}
+* {{ja-r|硯池|けんち}}
+* {{ja-r|硯滴|けんてき}}
+* {{ja-r|硯田|けんでん}}
+* {{ja-r|硯北|けんぽく}}
+* {{ja-r|筆硯|ひっけん}}
+{{der-bottom}}
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|すずり|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|すずり|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|すずり}}
+
+# [[inkstone]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|硯箱|すずりばこ}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=연|eumhun=|rv=yeon|mr=yŏn|y=yen}}
+
+# {{defn|lang=ko|sort=石07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nghiền]], [[nghiên]], [[nghiễn]], [[nghẽn]], [[khố]]|rs=石07}}
+
+# {{defn|lang=vi|sort=石07}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=786f Nom Foundation]
+
+[[zh-min-nan:硯]]
+[[fr:硯]]
+[[ko:硯]]
+[[hu:硯]]
+[[ja:硯]]
+[[pl:硯]]
+[[th:硯]]
+[[zh:硯]]

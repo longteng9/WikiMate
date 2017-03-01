@@ -1,0 +1,138 @@
+{{character info/new}}
+{{also|え}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=4|rad=丿|as=03|sn=3|four=30307|canj=INO}}
+
+====Derived characters====
+* [[乏]] [[芝]]
+
+====Descendants====
+* [[し]]
+* [[シ]]
+
+====References====
+* {{Han ref|kx=0082.040|dkj=00125|dj=|hdz=10043.010|uh=4E4B|ud=20043|bh=A4A7|bd=42151}}
+
+[[Category:Han characters from which hiragana were derived|し]]
+[[Category:Han characters from which katakana were derived|シ]]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|止|一|t1=foot|t2=the beginning place|ls=ic}} – meaning “to go”.
+
+===Pronunciation===
+{{zh-pron
+|m=zhī
+|m-s=zi1
+|c=zi1
+|h=
+|mn=chi
+|w=1tsr
+|mc=y
+|oc=y
+|ma=
+|cat=part,pron,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{n-g|Indicates that the previous word has [[possessive|possession]] of the next one.}}
+#: {{zh-x|生命 之 道|the way '''of''' life}}
+#: {{zh-x|^美國 之 聲|Voice '''of''' America}}
+# {{n-g|Indicates that the previous word [[modify|modifies]] the next one.}}
+#* {{zh-x|尺寸之功|a minor contribution}}
+# {{†}} [[this|This]].
+#* {{zh-x|之 子 于 歸。|'''This''' girl is to get married.|ref=Shijing}}
+# {{†}} To [[sprout]], to [[come about]].
+#* {{zh-x|如 語{yù} 焉 而未 之然。|As though you have said something to your parents but their reply has not yet '''come'''.|ref=Liji}}
+# {{†}} To [[go]].
+#* {{zh-x|吾 欲 之 楚。|I want to '''go to''' Chu.|ref=Zhanguoce}}
+# {{n-g|The third-person pronoun: [[him]], [[her]], [[it]], [[them]], when it appears in a non-subject position in the sentence.}}
+#* {{zh-x|好{hào} 一一 聽 之。|He preferred to listen to '''them''' one-by-one.|ref=Hanfeizi}}
+#* {{zh-x|我們 不能 對 此 事 聽之任之。|We cannot pass '''this matter''' by without protest.}}
+#* {{zh-x|甘 橘，大厘 城 有 之，其 味 酸。|Dali City has sweet tangerines, but their flavour is sour.|CL|ref={{RQ:Manshu|7|Tea, Trees, Herbs and Fruits|7}}}}
+
+====Synonyms====
+{{zh-dial|的}}
+
+===Compounds===
+{{zh-der|之後|之前|久之|之外|之子|之江|之無|何之|兼之|均之|敬之|總之|過之|頃之}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=8|rs=丿03}}
+
+====Readings====
+{{ja-readings
+|goon=[[し]] (shi)|kanon=[[し]] (shi)
+|kun=[[ゆく]] (yuku), [[これ]] (kore), [[の]] (no)
+|nanori=[[ゆき]] (yuki)
+}}
+
+====Usage notes====
+Formerly used to represent the possessive particle {{ja-r|の}}. In modern Japanese, this character is seldom used, and most commonly found in names, such as {{m|ja|龍之介|tr=Ryūnosuke}}.
+
+===See also===
+* {{m|ja|乃}}
+* {{m|ja|の}}
+
+===Proper noun===
+{{ja-pos|すすむ|proper}}
+
+# {{given name|male|lang=ja|sort=すすむ}}
+
+[[Category:Han characters from which katakana were derived|シ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=지|rv=ji|mr=chi|eumhun=갈|ehrv=gal|ehmr=kal|ehy=}}
+
+# {{defn|lang=ko|sort=丿03}}
+
+====References====
+* {{Hanja ref|nav=11639}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chi]], [[giây]], [[gì]], [[vương]]|rs=丿03}}
+
+# {{defn|lang=vi|sort=丿03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4e4b Nom Foundation]
+
+[[fr:之]]
+[[ko:之]]
+[[la:之]]
+[[li:之]]
+[[hu:之]]
+[[mg:之]]
+[[fj:之]]
+[[ja:之]]
+[[no:之]]
+[[pl:之]]
+[[pt:之]]
+[[ru:之]]
+[[th:之]]
+[[chr:之]]
+[[uk:之]]
+[[vi:之]]
+[[zh:之]]

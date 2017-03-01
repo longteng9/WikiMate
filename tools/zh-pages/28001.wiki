@@ -1,0 +1,88 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=07|sn=14|four=63132|canj=RMIAV}}
+
+# [[hop]], [[jump]]
+# [[hurriedly]], [[urgently]]
+
+====References====
+* {{Han ref|kx=1227.010|dkj=37585|dj=1699.010|hdz=63710.090|uh=8E09|ud=36361|bh=E457|bd=58455}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=liàng
+|c=loeng4
+|mn=
+|mc=
+|oc=
+|cat=
+}}
+{{attention|nan|unassigned reading: lōng}}
+{{attention|zh|unassigned: middle/old chinese}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=liàng
+|c=long4,loeng6
+|mn=
+|mc=
+|oc=
+|cat=
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Compounds===
+{{zh-der|踉踉蹌蹌|蹌踉|踉蹡|跳踉|踉踉蹡蹡|踉蹌|蹌蹌踉踉}}
+
+===References===
+* {{R:twedu|B04898}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=足07}}
+
+# {{defn|lang=ja|sort=足07}}
+
+====Readings====
+* {{ja-readings|on=[[りょう]] (ryō), [[ろう]] (rō)|kun=[[おどる]] (odoru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[량]]>[[양]]|eumhun=|rv=ryang>yang|mr=ryang>yang|y=lyang>yang}}
+
+# {{defn|lang=ko|sort=足07}}
+
+[[fr:踉]]
+[[ko:踉]]
+[[hu:踉]]
+[[mg:踉]]
+[[ja:踉]]
+[[pl:踉]]
+[[th:踉]]
+[[zh:踉]]

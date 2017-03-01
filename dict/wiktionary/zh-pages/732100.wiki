@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fùrèn
+|c=fu6 jam6
+|mn=hù-jīm
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|literary}} to take up one's new post; to depart for one's new post
+
+[[Category:Mandarin literary terms|fu4ren4]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふ|にん|yomi=o}}
+
+===Noun===
+{{ja-noun|ふにん}}
+
+# taking up a new [[post]]
+
+====Compounds====
+* {{l/ja|単身赴任}}
+
+===Verb===
+{{ja-verb-suru|ふにん}}
+
+# to [[take up]] a new post
+
+====Conjugation====
+{{ja-suru|ふにん}}
+
+[[ko:赴任]]
+[[hu:赴任]]
+[[zh:赴任]]

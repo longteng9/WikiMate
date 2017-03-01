@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=11|sn=15|four=44914|canj=DTLM|ids=⿰木堇}}
+
+# {{lb|zh|botany}} a type of rose known as {{vern|Chinese hibiscus}}, {{vern|Chinese rose}}, {{vern|Hawaiian hibiscus}}, {{vern|shoeblackplant}} {{gloss|''[[Hibiscus rosa-sinensis]]''}}
+
+====References====
+* {{Han ref|kx=0548.160|dkj=15395|dj=0936.020|hdz=21273.060|uh=69FF|ud=27135|bh=E5D3|bd=58835}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jǐn,qín
+|c=gan2
+|mc=y
+|oc=y
+|ma=
+|cat=pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木11}}
+
+# {{defn|lang=ja|sort=木11}}
+
+====Readings====
+* {{ja-readings|on=[[きん]] (kin)|kun=[[むくげ]] (mukuge), [[あさがお]] (asagao)}}
+
+[[Category:ja:Flowers]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=근|eumhun=|rv=geun|mr=kŭn|y=kun}}
+
+# {{defn|lang=ko|sort=木11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cẩn]], [[cận]]|rs=槿00}}
+
+# {{vern|Chinese hibiscus}}, {{vern|Chinese rose}}, {{vern|Hawaiian hibiscus}}, {{vern|shoeblackplant}}
+
+[[fr:槿]]
+[[ko:槿]]
+[[kn:槿]]
+[[hu:槿]]
+[[mg:槿]]
+[[ja:槿]]
+[[pl:槿]]
+[[th:槿]]
+[[zh:槿]]

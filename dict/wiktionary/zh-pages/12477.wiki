@@ -1,0 +1,105 @@
+{{character info/new}}
+{{also|唖|哑}}
+==Translingual==
+{{Han simplified forms|啞|唖|哑}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=08|sn=11|four=61017|canj=RMLM|ids=⿰口亞}}
+
+# to [[laugh]]
+# [[dumb]], [[mute]]
+# [[become]] [[hoarse]]
+
+===References===
+* {{Han ref|kx=0196.150|dkj=03835|dj=0417.240|hdz=10636.070|uh=555E|ud=21854|bh=B0D7|bd=45271}}
+
+----
+
+==Chinese==
+{{zh-forms|s=哑}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|ls=psc|口|c1=s|t1=mouth|亞|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yǎ
+|c=aa2,ak1,aa1
+|h=pfs=á
+|md=
+|mn=qz,tw,xm,zz:á/qz,tw,xm:é/zz:ée
+|mn_note=á - literary; é/ée - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[mute]] {{gloss|unable to speak}}
+
+===See also===
+* {{zh-l|聾|deaf}}, {{zh-l|盲|blind}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=9|rs=口08|style=ky|shin=唖}}
+
+# mute, dumb
+# become [[hoarse]]
+
+====Readings====
+{{ja-readings
+|kanon=[[あ]] (a), [[あく]] (aku)
+|goon={{qualifier|rare}}: [[え]] (e), [[やく]] (yaku)
+|kun=[[おし]] (oshi)
+}}
+
+====References====
+{{ja-kref
+|ku=1508
+|shift=3671
+|jis=2F28
+|euc=
+|freq=''not ranked''
+|nelson=''not listed''
+|newnelson=827
+|halpern=''not listed''
+|kld=''not listed''
+|heisig=''not listed''
+|tuttle=''not listed''
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=아|rv=a|mr=a}}
+
+# [[deaf]]
+# [[mute]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[á]], [[ạ]], [[ớ]]|rs=口08}}
+
+# {{defn|lang=vi|sort=口08}}
+
+[[fr:啞]]
+[[li:啞]]
+[[hu:啞]]
+[[mg:啞]]
+[[ja:啞]]
+[[pl:啞]]
+[[th:啞]]
+[[zh:啞]]

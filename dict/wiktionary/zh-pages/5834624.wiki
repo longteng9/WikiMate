@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fánfū
+|c=faan4 fu1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[ordinary]] [[person]], [[mortal]] person
+# {{lb|zh|Buddhism}} an [[unenlightened]] person
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぼん|ふ|k2=ぷ|yomi=o}}
+
+===Etymology===
+Probably from {{der|ja|ltc|sort=ほんぷ'|凡夫|tr={{IPAchar|/bɨɐm pɨo/}}|lit=ordinary, common; worldly, mortal + man, person, fellow}}.
+
+===Pronunciation===
+{{ja-pron|yomi=goon|ぼんぷ|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ぼんぷ}}
+
+# [[ordinary]] [[person]], [[mortal]] person
+# {{lb|ja|Buddhism}} an [[unenlightened]] person
+
+====Usage notes====
+May be found in some dialects or historical contexts with the reading ''bonbu''.
+
+===References===
+<references/>
+:* {{R:Kokugo Dai Jiten}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=범부}}
+
+# {{hanja form of|범부|[[ordinary]] [[person]], [[mortal]] person; (Buddhism) an [[unenlightened]] person}}
+
+[[ko:凡夫]]
+[[zh:凡夫]]

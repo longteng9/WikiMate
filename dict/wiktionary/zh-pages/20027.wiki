@@ -1,0 +1,74 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=08|sn=12|four=90889|canj=FFF|ids=⿱火炏}}
+
+# [[flame]]s
+
+====References====
+* {{Han ref|kx=0675.050|dkj=19142|dj=1086.160|hdz=32211.030|uh=7131|ud=28977|bh=DA5D|bd=55901}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yàn
+|c=jim6
+|mn=iāⁿ
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Min Nan'') [http://twblg.dict.edu.tw/holodict_new/default.jsp Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火08}}
+
+# {{defn|lang=ja|sort=火08}}
+
+====Readings====
+* {{ja-readings|on=[[えん]] (en), [[けき]] (keki), [[きゃく]] (kyaku)|kun=[[ほのお]] (honoo)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=혁|eumhun=|rv=hyeok|mr=hyŏk|y=hyek}}
+
+# {{defn|lang=ko|sort=火08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=火08| hanviet = yên}}
+
+# {{defn|lang=vi|sort=火08}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=7131 Nom Foundation]
+
+[[fr:焱]]
+[[hu:焱]]
+[[mg:焱]]
+[[pl:焱]]
+[[th:焱]]
+[[zh:焱]]

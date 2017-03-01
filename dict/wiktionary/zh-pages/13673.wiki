@@ -1,0 +1,89 @@
+{{character info/new}}
+{{also|姊|姉}}
+==Translingual==
+{{stroke order}}
+
+===Han character===
+{{Han char|rn=38|rad=女|as=05|sn=8|four=47410|canj=VBM|ids=⿰女且}}
+
+====References====
+* {{Han ref|kx=0258.270|dkj=06172|dj=0524.040|hdz=21036.080|uh=59D0|ud=22992|bh=A96A|bd=43370}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|且|c1=s|c2=p|t1=woman|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jiě
+|c=ze2
+|h=pfs=chiá
+|md=ciā
+|mn=ché/chí/chiá
+|w=2ji,2jia
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[elder]] [[sister]]
+#: {{zh-usex|姐姐|elder sister}}
+#: {{zh-usex|姐妹|sisters}}
+# [[young]] [[lady]]
+#: {{zh-usex|小姐|young lady, Miss}}
+# {{lb|zh|Sichuanese}} [[mother]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女05}}
+
+# {{defn|lang=ja|sort=女05}}
+
+====Readings====
+* {{ja-readings|on=[[そ]] (so), [[しゃ]] (sha)|kun=[[あね]] (ane), [[あねご]] (anego), [[ねえ]] (nee), [[ねえさん]] (neesan)}}
+
+===Noun===
+{{ja-noun|あね}}
+
+# {{alternative form of|姉|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=저}}
+
+# {{defn|lang=ko|sort=女05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thư]], [[tỉ]], [[tả]]|rs=女05}}
+
+# {{defn|lang=vi|sort=女05}}
+
+[[fr:姐]]
+[[ko:姐]]
+[[hi:姐]]
+[[li:姐]]
+[[hu:姐]]
+[[mg:姐]]
+[[ja:姐]]
+[[no:姐]]
+[[pl:姐]]
+[[th:姐]]
+[[zh:姐]]

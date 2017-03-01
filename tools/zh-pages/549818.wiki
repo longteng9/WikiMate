@@ -1,0 +1,15 @@
+==Japanese==
+{{ja-kanjitab|おん|けん|は|yomi=on}}
+
+===Etymology===
+{{suffix|穏健|派|t1=moderate|t2=wing|lang=ja|sort=おんけんは}}
+
+===Noun===
+{{ja-noun|おんけんは}}
+
+# [[pacifist]]
+# [[moderates]]
+
+====Antonyms====
+* {{sense|pacifist}} {{l|ja|強硬派}} ([[bellicist]]; one who prefers violence)
+* {{sense|moderates}} {{l|ja|急進派}} ([[extremist]])

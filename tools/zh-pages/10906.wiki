@@ -1,0 +1,63 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=07|sn=9|four=21232|canj=OMMV,XOMMV|ids=⿰亻辰}}
+
+# [[page]], boy [[servant]]
+
+====References====
+* {{Han ref|kx=0103.140|dkj=00641|dj=0218.260|hdz=10158.050|uh=4FB2|ud=20402|bh=CDE0|bd=52704}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|辰|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhèn
+|c=zan3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[page]], boy [[servant]]
+#* [http://ctext.org/shuo-wen-jie-zi/ren-bu1#n31619 Shuo Wen Jie Zi] (a dictionary in East Han Dynasty)
+#* {{zh-x|侲{zhèn}：僮 子 也。从 人 辰 聲。|[The character] 侲: servant boy indeed. [The character's] radical: human, "辰" sound.|CL}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人07}}
+
+# {{defn|lang=ja|sort=人07}}
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin)|kun=[[わらべ]] (warabe), [[よいわらべ]] (yoiwarabe), [[うまかい]] (umakai), [[はしため]] (hashitame)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=진|rv=jin|mr=chin}}
+
+# {{defn|lang=ko|sort=人07}}
+
+[[fr:侲]]
+[[ko:侲]]
+[[li:侲]]
+[[hu:侲]]
+[[mg:侲]]
+[[pl:侲]]
+[[th:侲]]
+[[zh:侲]]

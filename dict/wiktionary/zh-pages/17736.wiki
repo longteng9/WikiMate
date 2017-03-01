@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=08|sn=12|four=46994|canj=DWD|ids=⿰木果}}
+
+====References====
+* {{Han ref|kx=0534.200|dkj=14983|dj=0922.150|hdz=21232.010|uh=68F5|ud=26869|bh=B4CA|bd=46282}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=kē
+|c=fo2,fo1,po1
+|mc=y
+|oc=y
+|ma=zh-kē.ogg
+|cat=cls
+}}
+
+===Classifier===
+{{zh-cls}}
+
+# {{zh-classifier|trees|cat=1}}
+#: {{zh-x|有 一 棵 芒果 樹|There is a mango tree}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木08}}
+
+# {{defn|lang=ja|sort=木08}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan), [[か]] (ka)|kun=[[きぎれ]] (kigire)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木08|hanviet=[[quả]], [[khỏa]]}}
+
+# {{defn|lang=vi|sort=木08}}
+
+[[fr:棵]]
+[[ko:棵]]
+[[hu:棵]]
+[[mg:棵]]
+[[ja:棵]]
+[[no:棵]]
+[[pl:棵]]
+[[th:棵]]
+[[uk:棵]]
+[[zh:棵]]

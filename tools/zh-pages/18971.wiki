@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|溶}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=07|sn=10|four=38168|canj=ECOR|ids=⿰氵谷}}
+
+====References====
+* {{Han ref|kx=0625.090|dkj=17496|dj=1023.060|hdz=31629.030|uh=6D74|ud=28020|bh=AF44|bd=44868}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|水|alt1=氵|t1=water|谷|ls=psc|c1=s|c2=p}} – bathe in water.
+
+===Pronunciation===
+{{zh-pron
+|m=yù
+|c=juk6
+|h=pfs=
+|md=
+|mn=qz,tw,xm,zz:io̍k/qz:ia̍k/tw,xm,zz:e̍k
+|mn_note=io̍k - literary; ia̍k/e̍k - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[bathe]]; to [[wash]]; to take a [[bath]]
+# to [[bathe]] (in the sun)
+# [[bath]]
+
+===Compounds===
+{{zh-der|沐浴露|浴液|淋浴|三浴三熏|三釁三浴|公共浴場|冷水浴|冷浴|出浴|土耳其浴|坐浴|日光浴|桑那浴|森林浴|永浴愛河|沐浴|沐浴春風|沐浴焚香|沐浴鹽|泡沫浴|浴佛|浴佛節|浴堂|浴場|浴室|浴巾|浴帽|浴德|浴日|浴池|浴火重生|浴療|浴盆|浴缸|浴蘭時節|浴血|浴血奮戰|浴衣|浴袍|浴鐵|海水浴|海水浴場|浸浴|淴浴|溫泉浴|澡身浴德|蒸氣浴|空氣浴|芬蘭浴|藥浴|衛浴設備|補天浴日|避火浴血|釁浴|風浴|齋戒沐浴}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=水07}}
+
+# {{defn|lang=ja|sort=水07}}
+
+====Readings====
+* {{ja-readings|kanon=[[よく]] (''yoku'')|goon=on=[[よく]] (''yoku'')|kun=[[あびる]] ([[浴びる]], ''[[abiru]]''), [[あびせる]] ([[浴びせる]], ''[[abiseru]]'')|nanori=[[あみ]] (''ami''), [[えき]] (''eki''), [[さこ]] (''sako'')}}
+
+====Compounds====
+* [[浴衣]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=욕|eumhun=|rv=yok|mr=yok|y=yok}}
+
+# {{defn|lang=ko|sort=水07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''浴''' ([[dục]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:浴]]
+[[ko:浴]]
+[[hu:浴]]
+[[mg:浴]]
+[[ja:浴]]
+[[no:浴]]
+[[pl:浴]]
+[[th:浴]]
+[[zh:浴]]

@@ -1,0 +1,60 @@
+{{also|纲领}}
+==Chinese==
+{{zh-forms|s=纲领}}
+
+===Etymology===
+{{wasei kango||こうりょう|doctrine||general principles}}
+
+===Pronunciation===
+{{zh-pron
+|m=gānglǐng
+|c=gong1 ling5
+|mn=kong-léng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[guiding]] [[principle]]; [[creed]]; [[doctrine]]; [[program]]
+
+====See also====
+* {{zh-l|總綱}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こう|りょう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|こうりょう|acc=h|acc2=3|acc_ref=DJR,NHK,SMK5|acc2_ref=DJR,NHK|y=go}}
+
+===Noun===
+{{ja-noun|こうりょう|hhira=かうりやう}}
+
+# [[guiding]] [[principle]], [[code]], [[principles]]
+#: {{ja-usex|党の'''綱領'''を示した。|とう の '''こうりょう''' を しめした。|They presented the party's guiding principles.}}
+
+===Descendants===
+* Chinese: {{zh-l|綱領}}
+* Korean: {{ko-l|강령}}
+* Vietnamese: {{vi-l|cương lĩnh}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=강령}}
+
+# {{hanja form of|강령|general principles}}
+
+[[ko:綱領]]
+[[hu:綱領]]
+[[zh:綱領]]

@@ -1,0 +1,39 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|かね|め|yomi=k}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|かねめ|acc=h|acc_ref=NHK,DJR|y=k}}
+
+====Noun====
+{{ja-noun|かねめ}}
+
+# {{lb|ja|money|sort=かねめ}} [[value]]
+
+===Etymology 2===
+{{ja-kanjitab|きん|め|yomi=j}}
+{{rfe|lang=ja}}
+
+====Pronunciation====
+{{ja-pron|きんめ|acc=o|acc_ref=DJR|y=j}}
+
+====Noun====
+{{ja-noun|きんめ}}
+
+# {{lb|ja|history|sort=きんめ}} a [[unit]] of [[gold]] [[coinage]] in the [[Edo]] [[period]]
+# {{lb|ja|of a [[cat]]|_|or|_|a [[splendid]] [[alfonsino]]}} a [[golden]] [[eye]]
+
+====Derived terms====
+* {{ja-r|金目鯛|きんめだい}}: splendid alfonsino
+
+====Alternative forms====
+* {{sense|golden eye}} {{ja-l|金眼}}
+
+===References===
+<references/>
+{{catlangcode|ja|sort=きんめ|Units of measure|Eye|Cats|Fish}}
+
+[[mg:金目]]
+[[zh:金目]]

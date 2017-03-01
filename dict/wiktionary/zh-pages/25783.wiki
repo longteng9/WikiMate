@@ -1,0 +1,116 @@
+{{character info/new}}
+{{also|萝}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=19|sn=22|four=44914|canj=TWLG|ids=⿱艹羅}}
+
+# {{lb|zh|botany}} [[creeping|Creeping]] or [[trailing]] [[plant]]s.
+
+====References====
+* {{Han ref|kx=1071.370|dkj=32590|dj=1538.070|hdz=53336.110|uh=863F|ud=34367|bh=C5DA|bd=50650}}
+
+----
+
+==Chinese==
+{{zh-forms|s=萝}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艸|羅|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=luó
+|c=lo4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+* {{zh-l|蘿蔔|[[radish]]es, [[carrot]]s}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸19}}
+
+# {{defn|lang=ja|sort=艸19}}
+
+====Readings====
+{{ja-readings|goon=[[ら]] (ra)|kanon=[[ら]] (ra)|kun=[[つた]] (tsuta)}}
+
+====Compounds====
+* {{ja-r|蘿藦|ががいも}}, {{ja-r|蘿藦|らま}}: {{taxlink|Metaplexis japonica|species|noshow=1}}
+* {{ja-r|松蘿|しょうら}}
+* {{ja-r|女蘿|じょら}}
+* {{ja-r|蘿蔔|すずしろ}}, {{ja-r|蘿蔔|らふく}}: [[daikon]]
+* {{ja-r|海蘿|ふのり}}
+* {{ja-r|松の蘿|まつ の こけ}}
+* {{ja-r|緑蘿|りょくら}}: [[lush]] green [[ivy]] or [[vines]]
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|かげ|yomi=irr}}
+
+===Pronunciation===
+{{ja-pron|yomi=irr|かげ}}
+
+===Noun===
+{{ja-noun|かげ}}
+
+# {{vern|wolf's-foot clubmoss}} (''[[Lycopodium clavatum]]'')
+
+====Synonyms====
+* {{sense|wolf's-foot clubmoss}} {{ja-r|日陰の蔓|ひかげ の かずら}}, {{ja-r|日陰草|ひかげぐさ}}, {{ja-r|山蔓|やまかずら}}, {{ja-r|山蔓陰|やまかずらかげ}}, {{ja-r|玉蔭|たまかげ}}
+
+[[Category:ja:Spore plants|かげ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[라]]>[[나]]|eumhun=|rv=ra>na|mr=ra>na|y=la>na}}
+
+# {{defn|lang=ko|sort=艸19}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[la]], [[lá]]|rs=艸19}}
+
+# [[leaf]]
+
+====Compounds====
+* {{l|vi|𩇢蘿𣘃|tr=[[xanh lá cây]]}}
+
+====Usage notes====
+* Chữ Nôm. The modern Vietnamese word for leaf is [[lá]].
+* This character only means leaf in Vietnamese chữ Nôm. In Chinese, this character has a different meaning. [[葉]] means silver in Chinese and Japanese.
+* This is the regular form of this character. The common form is [[𦲿]].
+
+====References====
+* [http://www.chunom.org/pages/蘿 www.chunom.org]
+
+[[fr:蘿]]
+[[ko:蘿]]
+[[hu:蘿]]
+[[mg:蘿]]
+[[ja:蘿]]
+[[pl:蘿]]
+[[th:蘿]]
+[[zh:蘿]]

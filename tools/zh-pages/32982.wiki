@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=198|rad=鹿|as=08|sn=19|four=04281|canj=IPTMC|ids=⿰鹿其}}
+
+# legendary auspicious animal
+
+====References====
+* {{Han ref|kx=1510.240|dkj=47657|dj=2039.010|hdz=74731.190|uh=9E92|ud=40594|bh=C451|bd=50257}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qí
+|c=kei4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鹿08}}
+
+# {{defn|lang=ja|sort=鹿08}}
+
+====Readings====
+* {{ja-readings|goon=[[ぎ]] (gi), [[ご]] (go)|kanon=[[き]] (ki)|kun=}}
+
+====Compounds====
+* {{ja-r|麒麟|きりん}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|eumhun=|rv=gi|mr=ki|y=ki}}
+
+# {{defn|lang=ko|sort=鹿08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[kì]], [[kỳ]]|rs=鹿08}}
+
+# {{defn|lang=vi|sort=鹿08}}
+
+[[fr:麒]]
+[[ko:麒]]
+[[li:麒]]
+[[mg:麒]]
+[[ja:麒]]
+[[pl:麒]]
+[[th:麒]]
+[[uk:麒]]
+[[zh:麒]]

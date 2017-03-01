@@ -1,0 +1,31 @@
+==Japanese==
+{{ja-kanjitab|けい|おう|yomi=on}}
+
+===Etymology===
+{{rfe|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|けいおう}}
+
+===Proper noun===
+{{ja-pos|proper|けいおう}}
+
+# {{l|en|Keiō}} era {{gloss|April 1865–September 1868|lang=ja}}
+# {{lb|ja|short form|fully {{lang|ja|「慶應[[義塾]][[大学]]」}}}} {{w|Keio University}} {{gloss|the oldest institute of higher education in Japan (est. 1858), located in Minato, Tokyo|lang=ja}}
+
+====Usage notes====
+* {{m|ja||慶応|Keiō era}} is preceded by {{ja-l|元治|げんじ|[[Genji]]}} and followed by {{ja-l|明治|めいじ|[[Meiji]]}}.
+
+====Synonyms====
+* {{sense|Keio University}} {{ja-l|慶應|けいおう|Keiō}}, {{ja-l|慶大|けいだい|Keidai}}
+* {{sense|Keiō era}} {{ja-l|慶應|けいおう|Keiō}}
+
+===External links===
+; Era
+* {{pedia|Keiō|lang=en}}
+* {{pedia|慶応|lang=ja}}
+; University
+* {{pedia|Keio University|lang=en}}
+* {{pedia|慶應義塾大学|lang=ja}}
+
+[[Category:ja:Time|けいおう]]

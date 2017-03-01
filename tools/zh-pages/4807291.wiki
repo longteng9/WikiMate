@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+From {{etyl|ja|zh}} {{m|ja|和文|tr=wabun}}.
+
+===Pronunciation===
+{{zh-pron
+|m=héwén
+|c=wo4 man4
+|mn=hô-bûn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[Japanese]] written language
+# [[Japanese]] text
+# [[Japanese]] characters, Japanese writing system
+
+====Synonyms====
+* {{sense|Japanese language}} {{zh-l|日文}}, {{zh-l|日語}}, {{zh-l|日本語}}
+
+{{zh-cat|Languages}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|わ|ぶん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|わぶん|y=o|acc=h|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|わぶん}}
+
+# [[Japanese]] text; sentence in Japanese
+#: {{ja-usex|和文英訳|わぶん えいやく|Japanese-English translation}}
+#: {{ja-usex|和文タイプライター|わぶん タイプライター|Japanese typewriter; a typewriter that can type using Japanese characters}}
+
+===References===
+<references/>
+
+[[hu:和文]]
+[[zh:和文]]

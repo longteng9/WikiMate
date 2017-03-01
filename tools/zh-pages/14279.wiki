@@ -1,0 +1,178 @@
+{{character info/new}}
+{{also|将}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=41|rad=寸|as=08|sn=11|four=27242|canj=VMBDI}}
+
+====Descendants====
+* [[将]]
+
+====References====
+* {{Han ref|kx=0294.160|dkj=07438|dj=0583.040|hdz=42375.100|uh=5C07|ud=23559|bh=B14E|bd=45390}}
+
+----
+
+==Chinese==
+{{zh-forms|s=将|alt=摪,𢪇,𢪽,𤕭,獎}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|爿|肉|alt2=⺼|t1=bed; small table|t2=meat|寸|t3=hand|ls=psc|c1=p|c2=s|c3=s}} – to offer meat as tribute by putting it on the table.
+
+The {{lang|zh|⺼}} component is on its side, hence resembles {{zh-l|*夕}} with an added dot; compare {{zh-l|*祭}}, {{zh-l|*然}}.
+
+''{{w|Shuowen}}'' considers the phonetic component of {{lang|zh|將}} to be {{och-l|醬|sauce}} (abbreviated).
+
+===Etymology===
+A conflation of two roots: “to take; to hold” and “will; be going to; near”.
+
+;“to take; to hold” (Pronunciations 1, 2 and 3)
+Sino-Tibetan: compare {{cog|bo|འཆང||to hold, to keep, to carry}}.
+
+;“will; be going to; near” (Pronunciation 1)
+Austroasiatic: compare {{cog|km|ចង់||to want, to wish; to approach, to draw near; about to (do something), on the point of}} < {{cog|mkh-okm|caṅa||to wish, to want}}. Cognate with {{och-l|且|about to; on the point of; moreover; also}} ({{zh-ref|Wu, 2015}}).
+
+===Pronunciation 1===
+{{zh-pron
+|m=jiāng
+|c=zoeng1
+|h=pfs=chiông
+|md=ciŏng
+|mn=chiong
+|w=1jian
+|mc=1
+|oc=1,1
+|cat=v,part,adv,con
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[will]]; [[going to]]
+#: {{zh-x|將來|future [lit. '''will''' come]}}
+#: {{zh-x|人類 將 滅絕 嗎？|'''Will''' humans go extinct?}}
+# {{†}} [[soon]]; in the [[near]] [[future]]
+# {{†}} [[nearly]]; [[almost]]
+# {{†}} [[just]]; just [[now]]
+# {{†}} [[certainly]]; [[surely]]
+# {{†}} to [[take]]; to [[hold]]; to [[fetch]]
+# {{†}} [[by]]; [[by means of]]; [[with]]
+# {{†}} [[also]]; [[half]] ... half ...; [[or]]
+# {{†}} [[if]]; in the case that ...
+# {{n-g|Particle introducing the object of the verb, used in the same fashion as {{zh-l|*把}} but more formal.}}
+#: {{zh-x|將 飯 做 好|to make the food ready}}
+#: {{zh-x|將 醫生 請 來|to send for a doctor}}
+#* {{zh-x|恨{hūn} 你 絕情 將{chiong} 阮{gún} 放{pàng}|{{t-needed|nan}}|ref={{w2|zh|黃敏}} (lyricist), {{lang|zh|碎心戀}}|MN}}
+# {{†}} to [[support]]; to [[assist]]
+# {{†}} to [[advance]]; to [[go]]
+# {{†}} to [[take]] [[orders]]; to [[follow]]
+# {{†}} to [[see off]]; to [[send off]]
+# {{†}} to [[take]] [[along]]; to [[bring]]
+# {{†}} to [[use]]; to [[utilise]]
+# {{†}} to [[handle]]; to [[deal with]]
+# {{†}} to [[eat]]; to [[have]]
+# {{†}} to [[lead]]; to [[guide]]
+#: {{zh-x|將軍|military general}}
+# {{†}} to [[submit]] to; to be [[obedient]] to
+# {{†}} to [[provide]] for
+# {{†}} to [[recuperate]]; to [[maintain]]; to [[take care]] of one's [[health]]
+# {{†}} to [[express]]; to [[convey]]
+# {{lb|zh|dialectal}} to [[incite]] someone to [[action]]
+# {{lb|zh|dialectal|of animals}} to [[bear]] (an offspring); to [[give birth]]
+# {{lb|zh|chess}} to [[check]]
+#: {{zh-x|將死|to checkmate}}
+# {{lb|zh|obsolete|or|dialectal}} {{n-g|Particle placed after the verb and before a resultative phrase ({{zh-l|*進來}}, {{zh-l|*起來}}, {{zh-l|*進去}} etc.).}}
+#: {{zh-x|走 將 出來|to walk out}}
+#: {{zh-x|唱 將 起來|to start to sing}}
+#* {{zh-x|ref=''c.'' '''1330 - 1400:''' [[w:Luo Guanzhong|Luo Guanzhong]], ''[[w:Romance of the Three Kingdoms|Romance of the Three Kingdoms]], Chapter 1'' ([[:zh:s:三國演義/第001回|三國演義/第001回]])|方 陞 座，殿 角 狂風 驟 起，只 見 一 條 大 青 蛇，從 梁 上 飛 將 下來，蟠 於 椅 上。|''He was just climbing onto his throne when a gust of wind suddenly arose out of the corner of the hall, and they spotted a big green snake fly down from the rafters, and coil up on the seat.''|CL}}
+
+====Compounds====
+{{zh-der|將本圖利|將才|將錯就錯|將計就計|將將|將近|將軍|將息|將心比心|將信將疑|將養|將要|不將|將來|將機就機|將機就計|反將|將功折罪|將功折過|將功補過|將功贖罪|將勤補拙|即將|國將不國|夜漏將傳|大廈將傾|將事|將仕郎|將仲子|將作大匠|將假作真|將假當真|將出|將匠|將命|將就|將本求利|望眼將穿|無將大車|日就月將|捋臂將拳|方將|恩將仇報|陰陽不將|將愛|將攝|將晚|將次|將進酒|干將莫邪|扶將|將臨期|將毋|將為|將無|將無同|將食|玉山將崩|草率將事|將養|將艾|將蝦釣鱉|將謂|將護|將身|計將安出|將雛|將離|將順|我將|相將|行將|行將就木|輸將}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=jiàng
+|c=zoeng3
+|h=pfs=chiong
+|md=cióng
+|mn=chiòng
+|w=2jian
+|mc=2
+|oc=2,2
+|cat=v,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[command]]; to [[lead]]
+# {{lb|zh|military}} [[general]]
+# [[high]]-[[rank]]ing [[military]] [[officer]]
+# {{lb|zh|Chinese chess}} [[chief]]; [[commander in chief]]
+# {{lb|zh|figurative}} [[dab hand]] (at something); [[capable]] person
+
+====Compounds====
+{{zh-der|將才|將官|將領|將令|將門|將士|將帥|將校|上將|中將|主將|使羊將狼|偏將|健將|儒將|八家將|兵不由將|兵多將廣|兵少將微|兵強將勇|兵強將盛|兵微將寡|兵敗將亡|兵精將勇|兵荒將亂|麻將|點將|損軍折將|損兵折將|損將折兵|老將|大將|調兵遣將|謀臣武將|謀臣猛將|走馬換將|軍多將廣|挾人捉將|捉將挾人|敗兵折將|敗將殘兵|敗軍之將|敗軍折將|斬將奪旗|斬將搴旗|拘神遣將|拜將封侯|副將|勇將|反將計|名將|准將|出入將相|出將入相|別將|楊家將|武將|殘兵敗將|殘軍敗將|參將|呼家將|哼哈二將|執旗將|天將|女將|客將司|家將|宿將|宿將舊卒|寡將|將令|將佐|將傍|將兵|將兵長史|將印|將吏|王侯將相|登壇拜將|登臺拜將|百將傳|點兵派將|點將錄|龍城飛將|龜蛇二將|覆軍殺將|過關斬將|遣兵調將|精兵猛將|將將|將相|將相和|將相器|將相雙權|搴旗取將|收軍點將|梟將|韓信將兵|爪牙之將|良將賢相|殺妻求將|築壇拜將|戰將|驍將|愛將|悍將|將帶|將弁|將指|將星|將略|小將|良將|猛將|牙將|將遇良才|激將|激將法|將銳兵驍|幹將|馬將|馬將牌|將門|福將|虎將|蝦兵蟹將|裨將|邊將|部將|闖將|降將|雄將|飛將}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=qiāng
+|c=coeng1
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to [[ask]]; to [[request]]; to [[invite]]
+# {{†}} {{zh-only|*將將}}
+
+====Compounds====
+{{zh-der|將伯|將伯之助|將將}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=寸08|style=ky|shin=将}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō), [[そう]] (sō)|kun=[[ひきいる]] (hikiiru), [[もって]] (motte), [[はた]] (hata)}}
+
+===Proper noun===
+{{ja-pos|proper|まさる|shin=将}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|まさる]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=장|rv=jang|mr=chang|y=cang}}
+
+# {{defn|lang=ko|sort=寸08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tướng]], [[tương]]|rs=寸08}}
+
+# {{defn|lang=vi|sort=寸08}}
+
+[[fr:將]]
+[[ko:將]]
+[[li:將]]
+[[hu:將]]
+[[mg:將]]
+[[ja:將]]
+[[pl:將]]
+[[th:將]]
+[[chr:將]]
+[[zh:將]]

@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|けい|じょう|yomi=o}}
+
+===Noun===
+{{ja-noun|けいじょう}}
+
+# budgeting, [[adding up]]
+# appropriation
+
+===Verb===
+{{ja-verb-suru|tr=trans|けいじょう}}
+
+# to [[add up]]
+#* '''1920''', 徳田秋聲, 或売笑婦の話:
+#*: {{ja-usex|そして彼女は胸算で、五百円ばかりを'''計上'''した。|そして かのじょ は むねさん で、 ご ひゃく えん ばかり を '''けいじょう''' した。|Then she estimated that it added up to about five hundred yen.}}
+# to [[appropriate]]
+
+====Conjugation====
+{{ja-suru|けいじょう}}
+
+[[zh:計上]]

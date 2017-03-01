@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|侣}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=07|sn=9|four=26260|canj=ORHR|ids=⿰亻呂}}
+
+====References====
+* {{Han ref|kx=0103.200|dkj=00647|dj=0219.010|hdz=10147.120|uh=4FB6|ud=20406|bh=AB51|bd=43857}}
+
+----
+
+==Chinese==
+{{zh-forms|s=侣}}
+
+===Pronunciation===
+{{zh-pron
+|m=lǚ
+|c=leoi5
+|mc=
+|oc=
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[companion]]
+# [[associate]] with
+
+----
+
+==Japanese==
+
+===Noun===
+{{ja-noun|とも}}
+: [[友]] (とも, tomo)
+: [[朋]] (とも, tomo)
+: [[伴]] (とも, tomo)
+
+# [[companion]], [[follower]]
+
+===Kanji===
+{{ja-kanji|grade=|rs=人07}}
+
+====Readings====
+* {{ja-readings|goon=[[ろ]] (ro)|kanon=[[りょ]] (ryo)|kun=[[とも]] (tomo)}}
+
+====Compounds====
+* [[侶伴]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=려|rv=ryeo|mr=ryŏ}}
+
+# {{defn|lang=ko|sort=人07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lứa]], [[lữ]]|rs=人07}}
+
+# {{defn|lang=vi|sort=人07}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4fb6 Nom Foundation]
+
+[[fr:侶]]
+[[ko:侶]]
+[[it:侶]]
+[[li:侶]]
+[[hu:侶]]
+[[mg:侶]]
+[[ja:侶]]
+[[pl:侶]]
+[[th:侶]]
+[[zh:侶]]

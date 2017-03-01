@@ -1,0 +1,96 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=38|rad=女|as=03|sn=6|four=46400|canj=VR|ids=⿰女口}}
+
+====Derived characters====
+* [[茹]]
+
+====References====
+* {{Han ref|kx=0255.210|dkj=06060|hdz=21025.090|uh=5982|ud=22914|bh=A670|bd=42608}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|女|口|ls=psc|c1=p|c2=s|t1=woman|t2=mouth}}. Also interpreted as {{liushu|ic|nocap=1}}: a woman obeying an order.
+
+===Pronunciation===
+{{zh-pron
+|m=rú
+|c=jyu4
+|h=pfs=yì
+|md=ṳ̀
+|mn=qz:lîr/tp,qz,xm:lû/kh,zz:jû/zz:jî
+|w=3zr
+|mc=y
+|oc=y
+|ma=y
+|cat=con
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[if]]; [[supposing]]
+#* {{zh-x|作者 水平 有限，如 有 錯漏，望 大家 指正。|The author's ability has its limits; feedback regarding errors and omissions is welcome.}}
+# [[as if]]; [[as though]]
+# [[like]]; [[as]]
+# [[such as]]; [[for example]]
+# {{lb|zh|usually with {{zh-l|*不}}}} as [[good]] as
+
+===Compounds===
+{{zh-der|如果|如意|如一|如兄|如常|如廁|如雷|如許|如初|一如|如柴|命如紙|不如意|例如|十如是|如何|如寄|如弟|不如|如故|假如|九如鄉|不弱如|如今|恰如|恍如|如舊|儼如|如同|如是|如來藏|如泥|匹如|如椽筆|如律令|宛如|如字|如願|如雲|如雨|如約|如次|如期|如晤|如斯|如數|如擬|如兄弟|如來|不如歸|如夫人|六如|九如|何如帖|且如|如此|何如|匹如閒|匹如閑|勃如|倒不如|明如翦|洒如|把如|白如玉|猶如|有如|皦如|癢如如|真如|柳如是|無如|煞強如|焚如|比如|晏如|紛如煙|蔑如|艾如張|賁如|醉如泥|遠不如|譬如閒|馬相如|門如市|紞如|顏如玉|鬢如漆|自如|邠如|闕如|莫如|過如|藹如|純如|裕如|觖如|翕如|譬如|謐如|至如|索強如}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=女03}}
+
+# to seem
+
+====Readings====
+* {{ja-readings|goon=[[にょ]] (nyo)|kanon=[[じょ]] (jo)|kun=[[ごとく]] (gotoku), [[しく]] (shiku), [[ゆく]] (yuku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=여|eumhun=같을|rv=yeo|mr=yŏ}}
+
+# {{defn|lang=ko|sort=女03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[như]], [[nhơ]], [[dừ]], [[nhừ]], [[rừ]], [[nhượng]]|rs=女03}}
+
+# {{defn|lang=vi|sort=女03}}
+
+[[zh-min-nan:如]]
+[[da:如]]
+[[fr:如]]
+[[ko:如]]
+[[lt:如]]
+[[li:如]]
+[[hu:如]]
+[[mg:如]]
+[[fj:如]]
+[[ja:如]]
+[[no:如]]
+[[pl:如]]
+[[th:如]]
+[[chr:如]]
+[[uk:如]]
+[[vi:如]]
+[[zh:如]]

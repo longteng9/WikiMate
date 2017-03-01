@@ -1,0 +1,70 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dòuyóu
+|c=dau6 jau4
+|h=pfs=theu-yù
+|mn=tāu-iû
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Min Nan|Hakka}} [[soy sauce]]
+# [[soya bean]] [[oil]]
+
+====Synonyms====
+{{zh-dial|醬油}}
+
+====Descendants====
+{{top2}}
+* Tagalog: {{l|tl|toyo}}
+{{mid2}}
+{{bottom}}
+
+{{zh-cat|Condiments}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|まめ|あぶら|yomi=k}}
+
+====Pronunciation====
+{{ja-pron|まめあぶら|acc=3|acc2=0|acc_ref=DJR|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|まめあぶら}}
+
+# [[soybean oil]]
+
+=====Synonyms=====
+* {{ja-r|大豆油|だいずゆ}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=irr}}
+
+====Alternative forms====
+* {{ja-r|豆汁|ご}}
+
+====Pronunciation====
+{{ja-pron|ご|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|ご}}
+
+# [[grind|ground]] [[soybean]] juice, used for making [[tofu]] etc.
+
+===References===
+<references />
+
+[[zh-min-nan:豆油]]
+[[fr:豆油]]
+[[ko:豆油]]
+[[ja:豆油]]
+[[th:豆油]]
+[[zh:豆油]]

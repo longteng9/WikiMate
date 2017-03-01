@@ -1,0 +1,98 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{liushu|i}} – an animal (离, bottom) being captured by a mouth (亼, top); compare [[离]]. In current form, graphically {{Han compound|人|离}}.
+
+===Han character===
+{{Han char|rn=114|rad=禸|as=08|sn=13|four=80427|canj=OYUB|ids=⿱𠆢离}}
+
+====Derived characters====
+* [[擒]] [[噙]] [[檎]] [[蠄]]
+
+====References====
+* {{Han ref|kx=0848.130|dkj=24893|dj=1270.060|hdz=10199.040|uh=79BD}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qín
+|c=kam4
+|mn=khîm
+|mc=y
+|oc=y
+|ma=
+|cat=n,v,pn
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[bird]]s, [[fowl]]
+#: {{zh-x|禽流感|[[bird flu]]}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[capture]]; to [[catch]]
+
+===Proper noun===
+{{zh-proper noun}}
+
+# {{surname|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=8|rs=禸08}}
+
+# [[bird]]
+# {{qualifier|more specifically}} [[chicken]]
+
+====Readings====
+{{ja-readings
+|goon=[[ごん]] (gon)
+|kanon=[[きん]] (kin)
+|kun=[[とり]] (tori)
+}}
+
+====Compounds====
+* {{ja-r|家禽|かきん}}: [[domestic]] [[fowl]], [[poultry]]
+
+====Usage notes====
+Rarely used in modern Japanese.  The character {{m|ja|鳥}} is used instead to spell the ''tori'' reading.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=금|eumhun=|rv=geum|mr=kŭm|y=kum}}
+
+# {{defn|lang=ko|sort=禸08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|cầm|rs=禸08}}
+
+# {{defn|lang=vi}}
+
+[[fr:禽]]
+[[ko:禽]]
+[[hu:禽]]
+[[mg:禽]]
+[[ja:禽]]
+[[no:禽]]
+[[pl:禽]]
+[[th:禽]]
+[[zh:禽]]

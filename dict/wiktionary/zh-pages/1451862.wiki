@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|い|やく|yomi=o}}
+
+===Noun===
+{{ja-noun|いやく|kyu=意譯}}
+
+# [[liberal]] translation
+
+====Antonyms====
+* {{ja-r|直訳|gloss=[[literal]] translation|ちょくやく}}
+
+====Hypernyms====
+* {{ja-r|翻訳|gloss=[[translation]]|ほんやく}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|いやく|kyu=意譯}}
+
+# to translate liberally, to translate the meaning
+
+====Conjugation====
+{{ja-suru|いやく}}
+
+[[ja:意訳]]
+[[zh:意訳]]

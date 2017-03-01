@@ -1,0 +1,183 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=06|sn=10|four=42913|canj=DLMO|ids=⿰木兆}}
+
+====References====
+* {{Han ref|kx=0525.040|dkj=14757|dj=0913.080|hdz=21202.070|uh=6843}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|木|兆|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=táo,er=y
+|c=tou4,tou4-2
+|h=pfs=thò
+|md=tò̤
+|mn=thô/qz:thô͘/tô
+|mn_note=thô - literary; tô - vernacular
+|w=3dau
+|mc=y
+|oc=y
+|ma=y
+|cat=n,a,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[peach]] [[tree]]
+#: {{zh-x|桃花|peach flower}}
+# [[peach]] {{gloss|fruit}}
+# [[peach]]-shaped [[object]]
+# [[birthday]]
+# {{zh-short|核桃|[[walnut]]; made of walnut}}
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|蟠桃|桃子|仙桃|油桃|扁桃|僵李代桃|夭桃穠李|小胡桃|園有桃|土偶桃梗|世外桃源|山櫻桃|山核桃|公門桃李|妖桃|夾竹桃|夭桃襛李|壽桃|人面桃花|命帶桃花|分桃|凡桃俗李|桃源|桃李門牆|桃汛|桃紅柳綠|櫻桃小口|桃李之教|桃紅|方桃譬李|桃色案件|毛桃|桃杌|桃蚜|木桃|桃花水|桃色|桃來李答|桃花扇|桃花運|杏臉桃腮|打櫻桃|桃葉珊瑚|桃李|楊桃|李代桃僵|棉桃|桃葉歌|桃符|月桃|桃竹|櫻桃|桃園結義|核桃|桃花人面|斷袖分桃|扁桃腺|柳綠桃紅|桃園盟|桃花面|桃花妝|桃花過渡|桃仁|桃花劫|碧桃花下|桃花薄命|桃花星|桃柳爭妍|投桃報李|桃花眼|濃桃豔李|打桃|王母蟠桃|桃李滿門|獼猴桃|桃葉渡|桃羞杏讓|桃腮杏臉|桃太郎|桃花源記|桃之夭夭|桃李爭妍|桃弧棘矢|桃花紙|桃花汛|櫻桃宴|桃人|水蜜桃|桃色新聞|桃花源詩|桃源圖|桃花心木|桃酥|桃花源|桃花|桃色糾紛|桃膠|桃灼呈祥|桃源行|桃核雕|桃月|桃夭|桃李爭輝|扁桃腺炎|胡桃|色豔桃李|豔如桃李|胡桃科|羊桃|葦戟桃杖|蒲桃|鬼畫桃符|胡桃木|麻核桃|餘桃啗君|金絲桃|面如桃花|胡桃鉗|蟠桃會|門牆桃李}}
+
+{{zh-cat|Fruits}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=木06}}
+
+# [[peach]]
+
+====Readings====
+{{ja-readings
+|goon=[[どう]] (dō), {{qualifier|historical}} [[だう]] (dau)
+|kanon=[[とう]] (tō), {{qualifier|historical}} [[たう]] (tau)
+|kun=[[もも]] (momo)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|月桃|げっとう}}: [[shell ginger]]
+* {{ja-r|桃花|とうか}}: [[peach]] [[blossom]] [[flower]]
+* {{ja-r|桃果|とうか}}: peach ([[fruit]])
+* {{ja-r|桃矢|^とうや}}: “peach arrow” → a male given name
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|yomi=k|もも}}
+From {{etyl|ojp|ja|sort=もも}}. Brought to Japan in antiquity, with pits found in prehistoric sites from the [[w:Yayoi period|Yayoi period]], 300 BCE - 300 CE. Mentioned as a [[food]] in documents from the [[w:Nara period|Nara]] and [[w:Heian period|Heian]] periods.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+Ultimate derivation unknown. Theories include the following.
+* Possibly derived originally from a reduplication of {{m|ja|実|tr=</i>Old Japanese ''mu'', modern Japanese ''mi''||fruit}}, from the way that peaches often grow in clusters. However, the vowel shift seems unlikely given regular Japanese phonetic shifts. In addition, most reduplicated terms in Japanese have the {{m|ja|頭高型|tr=atamadaka-gata}} pitch accent pattern, starting high and falling.
+* Possibly cognate with {{etyl|ojp|-}} {{m|ja|百|tr=momo||hundred; lots}}. However, this term also has the {{m|ja|頭高型|tr=atamadaka-gata}} pitch accent pattern.
+* Possibly a reduplication of {{m|ja|毛|tr=mo||hair}}, from the way that peaches are [[hairy]]. The term is spelled as {{lang|ja|毛毛}} in some ancient documents. However, {{m|ja|毛}} was commonly used as [[man'yōgana]] for its phonetic value, in which cases its original Chinese meaning of {{m|en|hair}} is usually ignored.
+None of the above possibilities seems very compelling. Given the archaeological evidence, this term probably originated before the Japanese ancestor population migrated to the Japanese [[archipelago]].
+
+Possibly related to {{m|ja|梅|tr=</i>ancient ''mume'', modern ''ume''||Japanese apricot, Japanese plum}}.
+
+===Pronunciation===
+{{ja-pron|yomi=k|もも|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|もも|モモ}}
+
+# [[peach]]
+# [[peach]] tree
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|桃色|もも いろ}}: pink
+* {{ja-r|桃色鸚哥|もも いろ いんこ}}: “pink parakeet” → {{taxlink|Eolophus roseicapillus|species|noshow=1}}: [[galah]], {{vern|rose-breasted cockatoo}}
+* {{ja-r|桃色遊戯|もも いろ ゆうぎ}}: “pink playing” → sex play
+* {{ja-r|桃尻|ももじり}}: “peach butt” → from the way that the end of a peach is often pointy, and thus difficult to place stably: somebody who is bad at horse-riding; a fidgety, restless person
+* {{ja-r|桃園|ももぞの}}: a peach orchard
+* {{ja-r|桃割れ|もも われ}}: “split peach” → a hairstyle of Meiji and Taisho era, featuring a bun resembling a halved peach
+{{der-bottom}}
+
+====Idioms====
+{{der-top|Idioms}}
+* {{ja-r|桃栗三年柿八年|もも くり さん ねん かき はち ねん}}: “peach and chestnut take three years [to bear fruit], persimmons take eight” → it often takes time to bear the fruit of one's actions
+{{der-bottom}}
+
+====Descendants====
+* Ainu: {{m|ain|モマ|tr=moma||Japanese peach, Japanese apricot}}
+
+===Proper noun===
+{{ja-pos|proper|もも}}
+
+# {{given name|female|lang=ja|sort=もも}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|もも]]
+[[Category:ja:Fruits|もも]]
+[[Category:ja:Trees|もも]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=도|eumhun=|rv=do|mr=to|y=to}}
+
+# {{defn|lang=ko|sort=木06}}
+
+----
+
+==Okinawan==
+
+===Kanji===
+{{head|ryu|kanji|hiragana|むむ|romaji|mumu}}
+
+===Etymology===
+Cognate with mainland {{cog|ja|桃|tr=momo}}.
+
+===Noun===
+{{head|ryu|noun|hiragana|むむ|romaji|mumu}}
+
+# [[peach]]
+
+[[Category:ryu:Fruits|むむ]]
+[[Category:ryu:Trees|むむ]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đào]], [[hồng]]|rs=木06}}
+
+# {{defn|lang=vi|sort=木06}}
+
+[[zh-min-nan:桃]]
+[[cs:桃]]
+[[fr:桃]]
+[[gl:桃]]
+[[ko:桃]]
+[[it:桃]]
+[[ky:桃]]
+[[lo:桃]]
+[[lt:桃]]
+[[hu:桃]]
+[[mg:桃]]
+[[nl:桃]]
+[[ja:桃]]
+[[no:桃]]
+[[uz:桃]]
+[[pl:桃]]
+[[ru:桃]]
+[[sv:桃]]
+[[th:桃]]
+[[chr:桃]]
+[[tr:桃]]
+[[zh:桃]]

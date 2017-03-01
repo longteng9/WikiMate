@@ -1,0 +1,58 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiàngxíng
+|c=zoeng6 jing4
+|mn=qz:siǒng-hêng/tw,xm:siōng-hêng/zz:chhiāng-hêng
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# (''{{w|Chinese character classification}}'') [[pictogram]], one of the six classifications of Chinese characters ({{zh-l|六書}})
+
+====See also====
+* {{zh-l|六書}}
+
+====Derived terms====
+{{zh-der|象形文字}}
+
+====See also====
+* [[:Category:Han pictograms]]
+* {{pedia|Chinese character classification#Pictograms|pictograms}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|けい|yomi=on}}
+
+===Noun===
+{{ja-noun|しょうけい}}
+
+# (''[[w:Chinese character classification|Chinese character classification]]'') [[pictogram]], particularly in the sense of {{l|ja|六書}} [[w:Chinese character classification#Pictograms|pictograms]].
+
+===See also===
+* [[:Category:Han pictograms]]
+* {{pedia|Chinese character classification#Pictograms|pictograms}}
+* {{m|ja|六書|sc=Jpan}}
+* {{m|ja|指事|sc=Jpan}}
+* {{m|ja|會意|sc=Jpan}}
+* {{m|ja|形聲|sc=Jpan}}
+* {{m|ja|假借|sc=Jpan}}
+* {{m|ja|転注|sc=Jpan}}
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|tượng hình|(''{{w|Chinese character classification}}'') [[pictogram]], one of the six classifications of Chinese characters 六書 (lục thư)}}
+[[ko:象形]]
+[[ja:象形]]
+[[tl:象形]]
+[[zh:象形]]

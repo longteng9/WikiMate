@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms|type=21}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhēnkōngguǎn,er=y
+|c=zan1 hung1 gun2
+|mn=chin-khong-koán
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|electronics}} [[vacuum tube]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|くう|かん|yomi=o}}
+{{wikipedia|lang=ja}}
+[[File:Elektronenroehren-auswahl.jpg|thumb|200px|真空管]]
+
+===Etymology===
+{{compound|ja|sort=しんくうかん|真空|tr1=shinkū|t1=vacuum|管|tr2=kan|t2=tube}}, {{calque|ja|en|vacuum tube}}
+
+===Pronunciation===
+{{ja-pron|しんくうかん|y=o|acc=0}}
+* {{a|Osaka}} {{ja-accent-common|heiban||しんくうかん}}
+
+===Noun===
+{{ja-noun|しんくうかん}}
+
+# {{lb|ja|electronics|sort=しんくうかん}} [[vacuum tube]]
+
+====Hyponyms====
+* {{ja-r|整%流%管|せい%りゅう%かん}}
+* {{ja-r|二%極%管|に%きょく%かん}}
+* {{ja-r|三%極%管|さん%きょく%かん}}
+* {{ja-r|四%極%管|よん%きょく%かん}}
+* {{ja-r|五%極%管|ご%きょく%かん}}
+
+[[fr:真空管]]
+[[lo:真空管]]
+[[hu:真空管]]
+[[zh:真空管]]

@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=121|rad=缶|as=11|sn=17|four=47774|canj=GEOJU|ids=⿱殸缶}}
+
+====References====
+* {{Han ref|kx=0945.450|dkj=28167|dj=1386.180|hdz=52938.140|uh=7F44|ud=32580|bh=C16A|bd=49514}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|殸|缶|c1=p|c2=s|t2=pottery|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=qìng
+|c=hing3
+|mn=qz,xm,zz:khèng
+|mc=y
+|oc=y
+|ma=
+|cat=a,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[empty]]
+# [[exhaust]], [[run out]], [[use up]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=缶11}}
+
+# [[exhaust]]
+# [[run out]]
+# [[use up]]
+# [[empty]]
+
+====Readings====
+* {{ja-readings|on=[[けい]] (kei), [[きょう]] (kyō)|kun=[[むなしい]] (munashii)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|eumhun=|rv=gyeong|mr=kyŏng|y=kyeng}}
+
+# [[empty]]
+# [[exhaust]]
+# a kind of Korean musical instrument made of stone or jade
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khánh]]|rs=缶11}}
+
+# {{defn|lang=vi|sort=缶11}}
+
+[[fr:罄]]
+[[hu:罄]]
+[[mg:罄]]
+[[pl:罄]]
+[[th:罄]]
+[[zh:罄]]

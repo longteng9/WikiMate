@@ -1,0 +1,50 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=12|sn=16|four=91846|canj=FMWJ}}
+
+# [[smoke]], [[fumes]]
+# [[tobacco]], [[opium]]
+
+====References====
+* {{Han ref|kx=0682.040|dkj=19391|dj=1094.050|hdz=32232.130|uh=71C2|ud=29122|bh=EA48|bd=59976}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+
+===Etymology 1===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=tán,qián
+|c=taam4,cim4
+|w=3doe,3xxi
+|mc=y
+|oc=y
+|cat=w:v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Shanghai}} to simmer with low heat
+# {{lb|zh|Shanghai}} to simmer slowly
+{{attention|zh|missing MSC}}
+
+=====Derived terms=====
+{{zh-der|燂爍|腌燂鮮}}
+
+===Etymology 2===
+{{zh-see|燖|v}}
+
+[[fr:燂]]
+[[mg:燂]]
+[[pl:燂]]
+[[th:燂]]
+[[zh:燂]]

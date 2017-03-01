@@ -1,0 +1,27 @@
+==Japanese==
+{{ja-kanjitab|へん|かん|yomi=on}}
+
+===Noun===
+{{ja-noun|へんかん}}
+# [[conversion]], [[change]]
+# {{lb|ja|math|genetics|sort=へんかん}} [[transformation]]
+# {{lb|ja|computing|sort=へんかん}} conversion
+#: {{ja-usex|データの'''変換'''作業に追われた。|データ の '''へんかん''' さぎょう に おわれた。|We were occupied with the job of converting the data.|lang=ja}}
+
+===Verb===
+{{ja-verb-suru|へんかん}}
+
+# [[convert]], change
+# {{lb|ja|math|genetics|sort=へんかん}} [[transform]]
+# {{lb|ja|computing|sort=へんかん}} [[convert]]
+
+====Conjugation====
+{{ja-suru|へんかん}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[hu:変換]]
+[[mg:変換]]
+[[ja:変換]]
+[[zh:変換]]

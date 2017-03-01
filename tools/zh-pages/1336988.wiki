@@ -1,0 +1,67 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chūxí
+|ma=Zh-chuxí.ogg
+|c=ceot1 zik6
+|h=pfs=chhut-si̍t
+|mn=chhut-se̍k
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[attend]]; to [[be]] [[present]]
+# {{lb|zh|archaic}} to [[leave]] [[one]]'s [[seat]]; to [[stand]] [[up]]
+
+===Noun===
+{{zh-noun}}
+
+# [[presence]]; [[attendance]]
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゅつ|せき|k1=しゅっ|yomi=on}}
+
+===Noun===
+{{ja-noun|しゅっせき}}
+
+# [[attendance#English-the_state_of_attending|attendance]], [[presence]]
+
+====See also====
+* {{ja-r|降臨|こうりん}}, {{ja-r|来臨|らいりん}}
+
+===Verb===
+{{ja-verb-suru|しゅっせき}}
+
+# [[attend#English-to_be_present_at|attend]], be [[present]]
+
+====Conjugation====
+{{ja-suru|しゅっせき}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=출석}}
+
+# {{hanja form of|출석|[[presence]], [[attendance]]}}
+
+[[zh-min-nan:出席]]
+[[fr:出席]]
+[[ko:出席]]
+[[lt:出席]]
+[[li:出席]]
+[[hu:出席]]
+[[mg:出席]]
+[[ja:出席]]
+[[chr:出席]]
+[[zh:出席]]

@@ -1,0 +1,35 @@
+{{also|弹性}}
+==Japanese==
+{{ja-kanjitab|だん|せい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|だんせい|yomi=o}}
+
+===Noun===
+{{ja-noun|だんせい|kyu=彈性}}
+
+# [[elasticity]]
+
+===Synonyms===
+* {{ja-r|弾力|だんりょく}}
+* {{ja-r|柔軟性|じゅうなんせい}}
+
+====Antonyms====
+* {{ja-r|硬質|こうしつ}}
+
+===Derived terms===
+{{top2}}
+* {{ja-r|弾性係数|だんせいけいすう}}: [[elastic modulus]]
+* {{ja-r|弾性曲線|だんせいきょくせん}}: [[elastic curve]]
+* {{ja-r|弾性変形|だんせいへんけい}}[[elastic deformation]]
+{{mid2}}
+* {{ja-r|弾性率|だんせいりつ}}: [[elastic modulus]]
+* {{ja-r|弾性力|だんせいりょく}}: [[elastic force]]
+* {{ja-r|弾性体|だんせいたい}}: [[elastic body]]
+{{bottom}}
+
+[[ko:弾性]]
+[[mg:弾性]]
+[[ja:弾性]]
+[[ru:弾性]]
+[[zh:弾性]]

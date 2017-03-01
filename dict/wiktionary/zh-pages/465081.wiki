@@ -1,0 +1,45 @@
+==Japanese==
+{{ja-kanjitab|ご|はん|yomi=on}}
+
+===Etymology===
+Compound of {{prefix|lang=ja|sort=こはん'|御|tr1=go|pos1=honorific prefix|飯|tr2=han|t2=cooked rice}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|a|ご|はん}}<ref name="DJR"/><ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[ɡo̞hã̠ɴ]}}
+
+===Alternative forms===
+* {{ja-l|ご飯}}
+
+===Noun===
+{{ja-noun|ごはん}}
+
+# [[cooked]] [[rice]]
+# a [[meal]] of any sort
+
+====Usage notes====
+The honorific prefix {{ja-l|御||go}} is more commonly spelled in hiragana as {{ja-l|ご}}, due in part to the complexity of the character.
+
+====Synonyms====
+* {{sense|meal}} {{ja-r|食事|しょくじ}}, {{ja-r|めし}}
+
+====Derived terms====
+* {{ja-r|朝ご飯|あさごはん}}: breakfast
+* {{ja-r|昼ご飯|ひるごはん}}: lunch
+* {{ja-r|夕ご飯|ゆうごはん}}: dinner
+
+===References===
+<references/>
+
+[[cs:御飯]]
+[[fr:御飯]]
+[[ko:御飯]]
+[[it:御飯]]
+[[hu:御飯]]
+[[mg:御飯]]
+[[ja:御飯]]
+[[pl:御飯]]
+[[pt:御飯]]
+[[ru:御飯]]
+[[sv:御飯]]

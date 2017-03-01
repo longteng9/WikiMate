@@ -1,0 +1,80 @@
+{{character info/new}}
+{{also|狭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=07|sn=10|four=44238|canj=KHKOO|ids=⿰犭夾}}
+
+====Descendants====
+* [[狭]]
+
+====References====
+* {{Han ref|kx=0711.300|dkj=20428|dj=1123.280|hdz=21348.040|uh=72F9|ud=29433|bh=AF55|bd=44885}}
+
+----
+
+==Chinese==
+{{zh-forms|s=狭}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|犬|alt1=犭|t1=dog|夾|ls=psc|c1=s|c2=p}} – narrow-minded, like a dog.
+
+===Pronunciation===
+{{zh-pron
+|m=xiá
+|c=haap6,gip6
+|mn=qz,xm,zz:ha̍p/hia̍p/qz,tp,xm:oe̍h/zz:e̍h
+|mn_note=ha̍p - literary; hia̍p/oe̍h/e̍h - vernacular
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[narrow]]; [[limited]]
+# [[narrow-minded]]
+
+===Compounds===
+{{zh-der|偏狹小器|心胸狹窄|促狹鬼|寬狹|天窄地狹|促狹|偏狹|冤家路狹|相逢狹路|狹斜|狹心症|狷狹|狹窄|狹軌鐵路|狹小|狹路|窄狹|狹隘|狹路相逢|狹義|狹韻|狹長|褊狹|西狹頌|褊狹小器}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=犬07}}
+
+# {{defn|lang=ja|sort=犬07}}
+
+====Readings====
+* {{ja-readings|on=[[きょう]] (kyō), [[こう]] (kō)|kun=[[せまい]] (semai), [[せばめる]] (sebameru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=협|eumhun=|rv=hyeop|mr=hyŏp|y=hyep}}
+
+# {{defn|lang=ko|sort=犬07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|hẹp|rs=犬07}}
+
+# {{defn|lang=vi|sort=犬07}}
+
+[[zh-min-nan:狹]]
+[[fr:狹]]
+[[ko:狹]]
+[[hu:狹]]
+[[ja:狹]]
+[[pl:狹]]
+[[th:狹]]
+[[zh:狹]]

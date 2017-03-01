@@ -1,0 +1,36 @@
+==Japanese==
+{{ja-kanjitab|不|空|成|就|如|来}}
+[[File:Tibet,_amoghasiddhi,_il_jina_del_nord,_xvi-xvii_sec.JPG|thumb|250px|{{lang|ja|不空成就如来}}: a Tibetan statue of [[w:Amoghasiddhi|Amoghasiddhi]].]]
+
+===Etymology===
+From {{etyl|ltc|ja|sort=ふくうじょうじゅにょらい}} {{m|ltc|不空成就如來|tr=pjuw khuwng dzyeng dzjuwH njo loj}}. Compare modern {{cog|cmn|不空成就佛|tr=bùkōng chéngjiù fō}}, exchanging {{m|cmn|如來|tr=rúlái}} for roughly [[synonymous]] {{m|cmn|佛|tr=fō}}.
+
+The {{etyl|ltc|-}} term itself is a compound of {{m|ltc|不空成就}} + {{m|ltc|如來}}:
+* {{m|ltc|不空成就}} is a translation of {{etyl|sa|ja|sort=ふくうじょうじゅにょらい}} {{m|sa|अमोघसिद्धि|tr=amoghasiddhi}}, the name of this entity, and a compound of {{m|sa|अमोघ|tr=amogha||not [[in vain]]}} + {{m|sa|सिद्धि|tr=siddhi||perfection; accomplishment, attainment; success}}.
+* {{m|ltc|如來}} is an abbreviation of either {{m|ltc|如去如來}} or {{m|ltc|如來如去||coming from suchness, going back into suchness}}, translations of {{etyl|sa|ja|sort=たいにちにょらい'}} {{m|sa|तथागत|tr=tathāgata||coming from suchness, going back into suchness; thus coming, thus going|pos=exact meaning uncertain, see {{pedia|Tathāgata}}}}<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[ɸɯᵝkɯᵝːd͡ʑʲo̞ːd͡ʑʲɯᵝ njo̞ɺ̠a̠i]}}
+
+===Proper noun===
+{{ja-pos|proper|ふくうじょうじゅ にょらい}}
+
+# {{lb|ja|sort=ふくうじょうじゅにょらい|religion|Buddhism}} [[Fukūjōju Nyorai]]: the [[Buddha]] of the [[North]], called [[Amoghasiddhi]]; the [[embodiment]] of the [[accomplishment]] of the Buddhist [[path]] and the [[overcoming]] of [[envy]], one of the Five Dhyani Buddhas, and an important entity in [[Shingon]] Buddhism
+
+====Coordinate terms====
+{{ja-five-dhyani}}
+
+====Related terms====
+* {{ja-l|如来|にょらい|nyorai}}: a [[buddha]], a [[bodhisattva]]
+* {{ja-l|仏|ぶつ|butsu}}: a [[buddha]]; {{ja-l|仏|ぶつ|Butsu}}: the [[Buddha]]
+* {{ja-l|仏陀}} ({{ja-l|ぶっだ}}, {{ja-l|||budda}}; {{ja-l|ぶつだ}}, {{ja-l|||butsuda}}): a [[buddha]]; {{ja-l|仏陀}} ({{ja-l|||Budda}}, {{ja-l|||Butsuda}}): the [[Buddha]]
+* {{ja-l|菩薩|ぼさつ|bosatsu}}: a [[bodhisattva]]
+
+====External links====
+* {{pedia|lang=ja}}
+* {{pedia|Amoghasiddhi}}
+* {{pedia|Five Dhyani Buddhas}}
+
+===References===
+<references/>

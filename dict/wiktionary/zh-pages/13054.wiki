@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=05|sn=8|four=42140|canj=GHPM,GHVI|ids=⿰土氐}}
+
+# [[islet]], small [[body]] of [[land]] in [[water]]
+# [[embankment]]
+# to [[stop]]
+# [[hillside]]
+
+====References====
+* {{Han ref|kx=0227.050|dkj=05001|dj=0462.220|hdz=10433.100|uh=577B|ud=22395|bh=CBFB|bd=52219}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chí,dǐ
+|c=ci4,dai2
+|mc=y
+|oc=y
+|ma=
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=土05}}
+
+# an islet
+# rock in a river
+# embankment
+# to stop
+
+====Readings====
+* {{ja-readings|on=[[ち]] (chi), [[し]] (shi), [[てい]] (tei), [[たい]] (tai)|kun=[[なぎさ]] (nagisa), [[さか]] (saka), [[にわ]] (niwa), [[とまる]] (tomaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[지]], [[저]]|rv=ji, jeo|y=ci, ce|mr=chi, chŏ}}
+
+# an islet
+# a rock in a river
+# an embankment
+# to stop
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đế]]|rs=土05}}
+
+# {{defn|lang=vi|sort=土05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=577b Nom Foundation]
+
+[[fr:坻]]
+[[li:坻]]
+[[hu:坻]]
+[[mg:坻]]
+[[pl:坻]]
+[[th:坻]]
+[[zh:坻]]

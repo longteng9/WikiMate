@@ -1,0 +1,37 @@
+==Chinese==
+{{zh-forms|type=211}}
+
+===Pronunciation===
+{{zh-pron
+|m=sīkōng yuàn cáo
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|archaic}} ''Assistant to [[w:Government of the Han Dynasty#Excellency of Works|Excellency of Works]]''
+
+===Usage notes===
+This is the term used in the Mao Zonggang edition of the [[w:Romance of the Three Kingdoms|Romance of the Three Kingdoms]]. The original term used in the [[w:Records of the Three Kingdoms|Records of the Three Kingdoms]] was [[司空倉曹掾]].
+
+===Related terms===
+* {{l|zh|劉曄}}
+
+===References===
+* {{pedialite|司空|lang=zh}}
+* {{pedialite|Government of the Han Dynasty#Excellency of Works}}
+* {{cite-book
+|last=Luo
+|first=Guanzhong
+|authorlink=w:Luo Guanzhong
+|coauthors=
+|year=2006
+|title=Annotated [[s:Romance of the Three Kingdoms/Chapter 14#23|Romance of the Three Kingdoms/Chapter 14]], page 178, note 35
+|language=Mandarin
+|publisher=
+|location=
+|isbn=957911305X
+}}
+
+[[Category:Mandarin archaic terms|si1kong1yuan4cao2]]

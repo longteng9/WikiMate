@@ -1,0 +1,113 @@
+{{character info/new}}
+{{also|碥}}
+==Translingual==
+{{ja-forms|扁|扁|扁}}
+
+===Han character===
+{{Han char|rn=63|rad=戶|as=05|sn=9|four=30227|canj=HSBT,ISBT,XISBT|ids=⿸戶冊, ⿸户冊, ⿸戸冊}}
+
+# {{qualifier|adjective}} [[flat]]
+# [[tablet]], [[signboard]]
+
+====Derived characters====
+* [[偏]] [[諞]] ([[谝]]) [[揙]] [[徧]] [[猵]] [[惼]] [[媥]] [[騙]] ([[骗]]) [[編]] ([[编]]) [[楄]] [[犏]] [[牑]] [[斒]] [[煸]] [[碥]] [[稨]] [[褊]] [[蝙]] [[艑]] [[糄]] [[蹁]] [[鍽]] [[鯿]] ([[鳊]]) [[甂]] [[翩]] [[騗]] [[鶣]] [[萹]] [[篇]] [[匾]] [[遍]]
+
+====References====
+* {{Han ref|kx=0415.220|dkj=11724|dj=0760.090|hdz=32261.110|uh=6241}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|戶|冊|ls=ic}}.
+
+Due to differences in form of radical, Japanese form rather analyzed as {{Han compound|戸|冊}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=biǎn
+|m-s=bian3
+|c=bin2,pin1
+|h=pfs=pién
+|mn=pián/píⁿ
+|mc=y
+|oc=y
+|ma=Zh-bian.ogg
+|cat=a,n
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[flat]] and [[thin]] (like a pancake)
+#: {{zh-x|呢{ni1}個 枕頭 已經 坐 到 扁 晒。|This pillow has been sat on until it's all flat.|C}} {{attention|yue|unhappy with this usex translation}}
+#: {{zh-x|踩扁|to trample flat}}
+
+====See also====
+* {{zh-l|薄}}
+* {{zh-l|平|flat; smooth; level}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=piān
+|c=pin1,bin2
+|mn=qz,xm,zz:phian
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=戶05}}
+
+# [[flat]] {{qualifier|adjective}}
+
+====Readings====
+{{ja-readings
+|goon=[[へん]] (hen)
+|kanon=[[へん]] (hen)
+|kun=[[ひらたい]] (hiratai) {{qualifier|rare}}
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[편]], [[변]]|eumhun=작을|rv=pyeon, byeon|mr=p'yŏn, pyŏn|y=phyen, pyen}}
+
+# {{defn|lang=ko|sort=戶05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+扁 ([[biển]], [[bẽn]], [[bên]], [[thiên]])
+
+# {{defn|lang=vi|sort=戶05}}
+
+[[zh-min-nan:扁]]
+[[fr:扁]]
+[[ko:扁]]
+[[hu:扁]]
+[[mg:扁]]
+[[ms:扁]]
+[[ja:扁]]
+[[no:扁]]
+[[pl:扁]]
+[[th:扁]]
+[[vi:扁]]
+[[zh:扁]]

@@ -1,0 +1,21 @@
+{{also|根数}}
+==Chinese==
+{{zh-forms|s=根数}}
+
+===Pronunciation===
+{{zh-pron
+|m=gēnshù
+|c=gan1 sou3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|math}} [[root]]; [[radical]]
+#: {{zh-x|根號 四 是 一.個 根數。|The square root of four is a '''radical'''.}}
+
+====Derived terms====
+{{zh-der|不盡根數:[[surd]]}}
+
+[[ko:根數]]

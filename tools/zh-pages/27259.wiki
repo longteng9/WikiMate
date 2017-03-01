@@ -1,0 +1,68 @@
+{{character info/new}}
+{{also|毁}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=13|sn=20|four=07647|canj=YRHGE,YRHME|ids=⿰言毀}}
+
+# to [[slander]]
+# to [[defame]]
+
+====References====
+* {{Han ref|kx=1183.170|dkj=36020|dj=1646.110|hdz=64025.010|uh=8B6D|ud=35693|bh=F4D5|bd=62677}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=huǐ
+|c=wai2
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[譭謗]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言13}}
+
+# {{defn|lang=ja|sort=言13}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=言13| hanviet = huỷ}}
+
+# {{defn|lang=vi|sort=言13}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=8b6d Nom Foundation]
+
+[[fr:譭]]
+[[hu:譭]]
+[[pl:譭]]
+[[th:譭]]
+[[zh:譭]]

@@ -1,0 +1,81 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=08|sn=11|four=50047|canj=QYOK|ids=⿰扌夜}}
+
+# [[support]] with the [[arm]]s
+# [[stick]] in, [[tuck in]]
+# [[fold up]]
+
+====References====
+* {{Han ref|kx=0437.190|dkj=12262|dj=0787.080|hdz=31903.050|uh=6396|ud=25494|bh=B1B3|bd=45491}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yē,yè,yì
+|c=jik6,jat6
+|h=pfs=
+|md=
+|mn=qz:ia̍k/xm,zz:e̍k/qz:iǎ/tw,xm,zz:iā
+|mn_note=ia̍k/e̍k - literary; iǎ/iā - vernacular (俗)
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手08}}
+
+# {{defn|lang=ja|sort=手08}}
+
+====Readings====
+* {{ja-readings|on=[[えき]] (eki)|kun=[[わきばさむ]] (wakibasamu), [[たすける]] (tasukeru), [[わき]] (waki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=액|eumhun=|rv=aek|mr=aek|y=ayk}}
+
+# {{defn|lang=ko|sort=手08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=手08|hanviet=dịch}}
+
+# {{defn|lang=vi|sort=手08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6396 Nom Foundation]
+
+[[fr:掖]]
+[[ko:掖]]
+[[hu:掖]]
+[[mg:掖]]
+[[ja:掖]]
+[[pl:掖]]
+[[th:掖]]
+[[zh:掖]]

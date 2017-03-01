@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=144|rad=行|as=05|sn=11|four=21732|canj=HOYIN|ids=⿲彳玄亍}}
+
+# [[brag]]
+# [[show off]], [[promote]] [[oneself]]
+
+====References====
+* {{Han ref|kx=1109.110|dkj=34045|dj=1573.120|hdz=20831.080|uh=8852}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|行|玄|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=xuàn
+|c=jyun6
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=行05}}
+
+# {{defn|lang=ja|sort=行05}}
+
+====Readings====
+* {{ja-readings|on=[[けん]] (ken), [[げん]] (gen)|kun=[[てらう]] (terau)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=현|eumhun=|rv=hyeon|mr=hyŏn|y=hyen}}
+
+# {{defn|lang=ko|sort=行05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=行05| hanviet = huyễn}}
+
+# {{defn|lang=vi|sort=行05}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=8852 Nom Foundation]
+
+[[fr:衒]]
+[[hu:衒]]
+[[mg:衒]]
+[[ja:衒]]
+[[pl:衒]]
+[[th:衒]]
+[[zh:衒]]

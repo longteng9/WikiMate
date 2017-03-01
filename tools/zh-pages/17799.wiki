@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=09|sn=13|four=47947|canj=DHJE|ids=⿰木段}}
+
+====References====
+* {{Han ref|kx=0537.230|dkj=15075|hdz=21251.080|uh=6934|ud=26932|bh=DDE0|bd=56800}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=duàn
+|c=dyun6
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[poplar]], [[aspen]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木09}}
+
+# {{defn|lang=ja|sort=木09}}
+
+====Readings====
+* {{ja-readings|on=[[たん]] (tan), [[だん]] (dan)|kun=[[むくげ]] (mukuge), [[くい]] (kui), [[とどまつ]] (todomatsu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=단|eumhun=|rv=dan|mr=tan|y=tan}}
+
+# {{defn|lang=ko|sort=木09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木09|hanviet=đoàn}}
+
+# {{defn|lang=vi|sort=木09}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6934 Nom Foundation]
+
+[[fr:椴]]
+[[hu:椴]]
+[[mg:椴]]
+[[ja:椴]]
+[[pl:椴]]
+[[th:椴]]
+[[vi:椴]]
+[[zh:椴]]

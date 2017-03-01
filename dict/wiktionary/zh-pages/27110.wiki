@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|谏|諌}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=09|sn=16|four=05696|canj=YRDWF|ids=⿰訁柬}}
+
+# [[remonstrate]], [[admonish]]
+
+====References====
+* {{Han ref|kx=1170.170|dkj=35724|dj=1636.060|hdz=63995.090|uh=8AEB|ud=35563|bh=BFCF|bd=49103}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谏}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|柬|t1=say|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jiàn
+|c=gaan3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|主文譎諫|兵諫|切諫|勸諫|大諫|大諫章|尸諫|幾諫|強諫|從諫如流|忠諫|愎諫|拒諫飾非|杜諫|正言直諫|犯顏苦諫|百諫圖|直言極諫|直言正諫|直諫|筆諫|箴諫|納諫|納諫如流|苦諫|規諫|諍諫|諫勸|諫官|諫書|諫爭如流|諫而剖腹|諫臣|諫草|諫言|諫訓|諫諍|諫議|諫議大夫|諫逐客書|諫過|諫阻|諫院|諫章|諫鼓|諷諫|譎諫|進諫|飾非拒諫}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言09}}
+
+# [[admonish]]
+# [[dissuade]]
+
+====Readings====
+* {{ja-readings|goon=[[けん]] (ken)|kanon=[[かん]] (kan)|kun=[[いさめる]] (isameru), [[いさめ]] (isame)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=간|eumhun=|rv=gan|mr=kan|y=kan}}
+
+# [[remonstrate]]
+# [[admonish]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''諫''' ([[gián]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:諫]]
+[[ko:諫]]
+[[hu:諫]]
+[[ja:諫]]
+[[pl:諫]]
+[[th:諫]]
+[[zh:諫]]

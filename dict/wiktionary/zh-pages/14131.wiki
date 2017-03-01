@@ -1,0 +1,238 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=40|rad=宀|as=03|sn=6|four=30342|canj=JDI|ids=⿱宀寸}}
+
+====References====
+* {{Han ref|kx=0282.050|dkj=07071|dj=0552.040|hdz=20912.030|uh=5B88|ud=23432|bh=A675|bd=42613}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shǒu
+|c=sau2
+|h=pfs=sú
+|mn=siú/chiú/twv:chiúⁿ
+|mn_note=siú - literary; chiú/chiúⁿ - vernacular
+|mc=y
+|oc=y
+|ma=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[defend]]; to [[protect]]; to [[guard]]; to [[conserve]]
+
+===Compounds===
+{{zh-der|保守派|守拙|守約施博|守舍|一麾出守|守時|守庚申|守門員|不守小節|因循守舊|堅守|典守|守口如瓶|固守|不守細行|守禦|守護神|守財奴|守護|保殘守缺|保守主義|城守|不守|安分守紀|守株伺兔|守備|奈守|守備率|守陵|恪守成憲|守業|守勢|守望|守錢奴|坐守|守宮|恪守成式|恪守|失守|守節不回|怠忽職守|廝守|以攻為守|守活寡|守孝|守夜|守密|待時守分|守正不阿|守財虜|守府|安分守己|一錢太守|守制|守衛|守身|守約|信守|守舊|官守|安貧守道|守靈|守道安貧|守身若玉|守身如玉|守藏|守經達權|守節不移|守節|守視|守法|守死善道|守正不移|守正不撓|守株待兔|守望相助|守更|守常|守寡|守宮砂|守土|守則|守分|守候|守信|守正不回|守把|守先待後|安守本分|守錢虜|守死|保守|執守|守貞|困守|嚴守|守歲|太守|忠於職守|信守不渝|創業守成|不守婦道|守喪|守成|守吏|奉公守法|伏櫪守株|不守本分|盯人防守|教戰守策|攻守同盟|看守所|拘俗守常|杜門株守|盡忠職守|擅離職守|有虧職守|棄守|扼守|戰守|攻守|持盈守虛|操守|才守|戍守|知白守黑|白髮相守|括囊守祿|把守|持盈守成|有守|拒守|清淨守節|抱令守律|神守|留守|據守|神不守舍|拘守|砥節守公|看守內閣|看守|撤守|監守自盜|白頭相守|監守|知雄守雌|甘貧守志|甘貧守分|獨守尺寸|牧守|熬清守淡|甘貧守節|株守|獨守空房|活守寡|法守|抱殘守缺|死守|正己守道|易守難攻|抱誠守真|閉關自守|義守大學|魂不守舍|職守|補殘守缺|謹守|緊守|駐守|墨守成規|靜守|墨守成法|墨守|黃堂太守|魂不守宅|鰥守|長相廝守|郡守|順守|習故守常|行監坐守|青年守則|巡守|逆取順守|謫守|防守|鎮守|遵守|自守|退守}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=宀03}}
+
+# [[protect]], [[defend]], [[watch]] over
+
+====Synonyms====
+* {{sense|[[protect]]}} {{ja-l|衛}}, {{ja-l|仗}}
+
+====Readings====
+{{ja-readings
+|goon=[[しゅ]] (shu), [[す]] (su)
+|kanon=[[しゅう]] (shū)
+|kun=[[かみ]] (kami), [[こう]] (kō), [[もる|も.る]] ({{l|ja|守る}}, mo.ru), [[もり]] (mori), [[もり|も.り]] ({{l|ja|守り}}, mo.ri), [[まもる|まも.る]] ({{l|ja|守る}}, mamo.ru), [[まもり]] (mamori), [[まもり|まも.り]] ({{l|ja|守り}}, mamo.ri), [[まぼる|まぼ.る]] ({{l|ja|守る}}, mabo.ru), [[まぶる|まぶ.る]] ({{l|ja|守る}}, mabu.ru)
+|nanori=[[う]] (u), [[し]] (shi), [[て]] (te), [[まもる]] (mamoru), [[も]] (mo)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|井守|いもり}}: [[salamander]], [[newt]]
+* {{ja-r|守衛|しゅえい}}
+* {{ja-r|守禦|しゅぎょ}}
+* {{ja-r|守護|しゅご}}
+* {{ja-r|守株|しゅしゅ}}
+* {{ja-r|守戍|しゅじゅ}}
+* {{ja-r|守備|しゅび}}
+{{der-mid}}
+* {{ja-r|死守|ししゅ}}
+* {{ja-r|肥後守|ひごのかみ}}
+* {{ja-r|守護神|しゅごしん}}: a [[tutelary deity]]
+* {{ja-r|守宮|やもり}}, {{ja-r|守宮|しゅきゅう}}, {{ja-r|家守|やもり}}: [[gecko]]
+* {{ja-r|家守|やもり}}: [[guarding]] a [[house]], or a person who does such; real estate agent in the Edo period
+* {{ja-r|留守|るす}}: [[absence]]
+{{der-bottom}}
+
+===Etymology 1===
+{{ja-kanjitab|もり|yomi=k}}
+The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|守る|tr=moru||to protect, to watch over}}. Also spelled with the [[okurigana]] {{ja-l|り}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|もり|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|守り}}
+
+====Noun====
+{{ja-noun|もり}}
+
+# a [[watchman]], a [[keeper]] {{gloss|as of a lighthouse}}, a [[caretaker]]
+# a [[nursemaid]], a [[babysitter]]
+
+===Etymology 2===
+{{ja-kanjitab|まもる|yomi=k}}
+From verb {{m|ja|守る|tr=mamoru||to protect}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|まもる}}
+
+====Proper noun====
+{{ja-pos|proper|まもる}}
+
+# {{given name|lang=ja|sort=まもる|male}}
+
+===Etymology 3===
+{{ja-kanjitab|まもり|yomi=k}}
+The {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|守る|tr=mamoru||to protect}}. Also spelled with the [[okurigana]] {{ja-l|り}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|まもり}}
+
+====Alternative forms====
+* {{ja-l|守り}}
+
+====Noun====
+{{ja-noun|まもり}}
+
+# standing [[watch]], standing [[guard]]
+# a [[watchman]], a [[guard]] {{gloss|especially at a [[castle]] or [[fort]]}}
+# [[divine]] [[protection]] from [[misfortune]]
+# a [[god]] or [[spirit]] providing such protection
+# a [[ward]], [[charm]], [[talisman]], or other item providing divine protection
+# short for {{l|ja|守り刀}}, {{m|ja|守刀|tr=mamorigatana||protection sword|pos=sword always kept at one's side for personal protection}}
+# a [[seal]] or [[coat of arms]] using a {{m|ja|守り札|tr=mamorifuda||charm tag}}, {{m|ja|守り袋|tr=mamoribukuro||charm bag}}, or similar charm for the design
+
+=====Synonyms=====
+* {{sense|watchman}} {{ja-r|守備|しゅび}}; {{ja-r|警備|けいび}}; {{ja-r|警護|けいご}}
+* {{sense|divine protector}} {{ja-r|守り神|まもりがみ}}; {{ja-r|守護神|しゅごしん}}
+* {{sense|charm}} {{ja-r|お守り|おまもり}}; {{ja-r|守り札|まもりふだ}}; {{ja-r|護符|ごふ}}; {{ja-r|守り袋|まもりぶくろ}}
+
+===Etymology 4===
+{{ja-kanjitab|まぼり|yomi=k}}
+Alteration of ''mamori''.
+
+====Pronunciation====
+{{ja-pron|yomi=k|まぼり}}
+
+====Noun====
+{{ja-noun|まぼり}}
+
+# see ''mamori'' above
+
+===Etymology 5===
+{{ja-kanjitab|まぶり|yomi=k}}
+Alteration of ''mabori''.
+
+====Pronunciation====
+{{ja-pron|yomi=k|まぶり}}
+
+====Noun====
+{{ja-noun|まぶり}}
+
+# see ''mamori'' above
+
+===Etymology 6===
+{{ja-kanjitab|しゅ|yomi=o}}
+From {{etyl|ltc|ja|sort=しゅ}}.
+
+====Pronunciation====
+{{ja-pron|yomi=goon|しゅ|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|しゅ}}
+
+# {{lb|ja|sort=しゅ|archaic}} used when listing an official's titles when there are two or more (compare English {{m|en|cum}})
+# short for {{m|ja|守護|tr=shugo||protection, protector}}
+# {{lb|ja|sort=しゅ|archaic}} short for {{m|ja|国守|tr=kokushu||head administrator of a ''kuni'' in the old {{w|Ritsuryō}} system}}
+
+===Etymology 7===
+{{ja-kanjitab|かみ|yomi=k}}
+From the sense of being ''above'' in rank and status. Essentially of the same meaning as {{m|ja|上|tr=kami||above}}, but spelled {{lang|ja|守}} to convey a sense of “[[watch]]ing” or “[[oversee]]ing”.  This spelling is an example of [[熟字訓#Japanese|jukujikun]] or [[ateji]] used for the [[meaning]].
+
+====Pronunciation====
+{{ja-pron|yomi=k|かみ}}
+
+====Alternative forms====
+* {{ja-l|長官}}
+
+====Noun====
+{{ja-noun|かみ}}
+
+# {{lb|ja|sort=かみ|archaic}} under the old {{w|Ritsuryō}} system of ancient Japan, the highest of the four ranks of [[civil servant]] staff, and general term for head [[administrator]]s of government departments
+# {{lb|ja|sort=かみ|archaic}} in the first year of the new {{w|Meiji era}} government established in 1868, the [[title]] of the seven heads of all government [[bureau]]s except the {{m|ja|総裁局|tr=Sōsai Kyoku||Bureau of the President}}, whose head was titled {{m|ja|総裁|tr=Sōsai||president” or “director general}}
+
+===Etymology 8===
+{{ja-kanjitab|こう|yomi=k}}
+Alteration of ''kami''.
+
+{{IPAchar|/kami/}} → {{IPAchar|/kamu/}} → {{IPAchar|/kau/}} → {{IPAchar|/kɔː/}} → {{IPAchar|/koː/}}
+
+====Pronunciation====
+{{ja-pron|yomi=k|こう}}
+
+====Noun====
+{{ja-noun|こう|hhira=かう}}
+
+# {{lb|ja|sort=こう|obsolete}} see ''kami'' above; used in obsolete titles
+
+=====Derived terms=====
+The following are all titles in the old {{w|Ritsuryō}} system.
+* {{ja-r|守の君|こう の きみ}}
+* {{ja-r|守の殿|こう の との}}
+* {{ja-r|守の主|こう の ぬし}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|rv=su|mr=su}}
+
+# {{defn|lang=ko|sort=宀03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thú]], [[thủ]]|rs=宀03}}
+
+# {{defn|lang=vi|sort=宀03}}
+
+[[zh-min-nan:守]]
+[[fr:守]]
+[[ko:守]]
+[[li:守]]
+[[hu:守]]
+[[mg:守]]
+[[ja:守]]
+[[no:守]]
+[[pl:守]]
+[[ru:守]]
+[[th:守]]
+[[chr:守]]
+[[zh:守]]

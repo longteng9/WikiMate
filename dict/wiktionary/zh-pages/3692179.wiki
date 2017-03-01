@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|とう|かん|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|とうかん|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうかん}}
+
+# posting a letter
+
+===Verb===
+{{ja-verb-suru|tr=trans|とうかん}}
+
+# to [[post]] a letter, to [[mail]] a letter
+
+====Conjugation====
+{{ja-suru|とうかん}}
+
+===References===
+<references/>
+
+[[ja:投函]]
+[[zh:投函]]

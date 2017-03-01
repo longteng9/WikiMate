@@ -1,0 +1,26 @@
+==Japanese==
+{{ja-kanjitab|てつ|k1=てっ|きょ|yomi=on}}
+
+===Noun===
+{{ja-noun|てっきょ}}
+
+# [[removal]], [[dismantlement]] and removal
+
+===Verb===
+{{ja-verb-suru|てっきょ|tr=trans}}
+
+# [[remove]]
+#: {{ja-usex|建物を'''撤去'''した。|たてもの を '''てっきょ''' した。|We removed the buildings.}}
+
+====Conjugation====
+{{ja-suru|てっきょ}}
+
+====Synonyms====
+* {{ja-r|取り払う|とりはらう}}, {{ja-r|取り去る|とりさる}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:撤去]]
+[[mg:撤去]]
+[[zh:撤去]]

@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|ぶつ|そう|k1=ぶっ|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|ぶっそう}}
+
+# [[insecure]], [[turbulent]]
+#: {{ja-usex|物騒な世の中になった|ぶっそう な よ の なか に なった|the world has turned upside down}}
+# [[dangerous]]
+
+====Antonyms====
+* {{sense|turbulent}} {{ja-r|平静|へいせい|gloss=calm}}
+
+====Inflection====
+{{ja-na|ぶっそう}}
+
+===Noun===
+{{ja-noun|ぶっそう}}
+
+# [[turbulence]]
+# [[danger]]
+
+[[ko:物騒]]
+[[hu:物騒]]
+[[zh:物騒]]

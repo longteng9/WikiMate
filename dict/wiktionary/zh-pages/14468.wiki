@@ -1,0 +1,115 @@
+{{character info/new}}
+{{also|巖|礹|巗|碞|嵒|嵓}}
+==Translingual==
+{{Han simp|巖|f=嚴|t=石}}
+===Han character===
+{{Han char|rn=46|rad=山|as=05|sn=8|four=22601|canj=UMR|ids=⿱山石}}
+
+====References====
+* {{Han ref|kx=0309.190|dkj=07985|dj=0609.130|hdz=10766.070|uh=5CA9|ud=23721|bh=A9A5|bd=43429}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yán
+|c=ngaam4
+|mn=qz,tw,xm,zz:gâm/twv,xm,zz:giâm
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[cliff]]
+# [[rock]], [[stone]]
+# [[mountain]]
+
+===Compounds===
+{{zh-der|偉晶岩|冰岩|冰磧岩|凝灰岩|噴出岩|大岩桐|安山岩|岩圈|岩基|岩壁|岩層|岩岸|岩床|岩心|岩棉|岩洞|岩溶|岩漿|岩石|岩石圈|岩石學|岩礁|岩羊|岩脈|岩鹽|巉岩|懸岩|攀岩|斑岩|板岩|水成岩|沉積岩|油頁岩|泥板岩|流紋岩|深成岩|火山岩|火成岩|熔岩|片岩|片麻岩|玄武岩|玢岩|瘦岩岩|白雲岩|石灰岩|石英岩|矽質岩|砂岩|硬頁岩|磨變岩|礁岩|礫岩|粒變岩|粗面岩|粘板岩|結晶岩|膨土岩|花崗岩|角礫岩|角頁岩|輝綠岩|輝長岩|頁岩|骨岩岩|黑曜岩}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=山05}}
+
+====Readings====
+{{ja-readings
+|goon=[[げん]] (gen) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[がん]] (gan)|kun=[[いわ]] (iwa) < [[いは]] (iha)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|岩漿|がんしょう}}: [[magma]]
+* {{ja-r|松脂岩|しょうしがん}}: [[pitchstone]]
+{{der-bottom}}
+
+===Etymology===
+{{ja-kanjitab|いわ|yomi=k}}
+ipa > iɸa > iwa.
+
+===Pronunciation===
+{{ja-pron|yomi=k|いわ|acc=2|acc_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{l|ja|巌}}
+* {{l|ja|磐}}
+
+===Noun===
+{{ja-noun|いわ|hhira=いは}}
+
+# [[rock]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|巌|いわお}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=암|rv=am|mr=am}}
+
+# {{defn|lang=ko|sort=山05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nham]], [[nhàm]], [[nhem]]|rs=山05}}
+
+# {{defn|lang=vi|sort=山05}}
+
+[[de:岩]]
+[[fr:岩]]
+[[ko:岩]]
+[[it:岩]]
+[[lo:岩]]
+[[li:岩]]
+[[hu:岩]]
+[[mg:岩]]
+[[ja:岩]]
+[[no:岩]]
+[[pl:岩]]
+[[pt:岩]]
+[[sv:岩]]
+[[th:岩]]
+[[chr:岩]]
+[[tr:岩]]
+[[uk:岩]]
+[[vi:岩]]
+[[zh:岩]]

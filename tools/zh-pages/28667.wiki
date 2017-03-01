@@ -1,0 +1,114 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=06|sn=10|four=37303|canj=YAV|ids=⿺辶艮}}
+
+====References====
+* {{Han ref|kx=1256.140|dkj=38839|dj=1740.040|hdz=63834.040|uh=9000|ud=36864|bh=B068|bd=45160}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|辵|alt1=辶|t1=move|夊|t2=walk|日|t3=sun|ls=ic}} – to walk away from the sun, to retreat.
+
+Current form is essentially {{Han compound|辶|艮}}, where the unrelated {{lang|zh|艮}} is a simplification of {{Han compound|日|夊}} – in careful writing the form may be slightly different (notably in the lower right component being separated and convex, rather than attached and concave), reflecting different etymology.
+
+Cognate with {{och-l|褪}}.
+
+===Pronunciation===
+{{zh-pron
+|m=tuì
+|c=teoi3
+|h=pfs=thui
+|md=tó̤i
+|mn=qz,xm,zz,hc,tc:thòe/qz,lk,sx,km,hc:thèr/tw,xm,zz:thè
+|mn_note=thòe - literary; thèr/thè - vernacular
+|w=2the
+|ma=y
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[step back]]; to move backwards
+# to [[withdraw]]; to [[leave]]
+# to cause to move backward
+# to [[recede]]; to [[fade]]; to [[ebb]]
+# to [[return]] (a purchase, etc.); to [[refund]]
+# to [[cancel]]; to [[call off]]
+
+===Compounds===
+{{zh-der|退避|退避三舍|退兵|退步|退潮|退出|退佃|退股|退化|退回|退婚|退火|退伙|退居|退款|退路|退落|退票|退瓶|退坡|退色|退守|退庭|退團|退位|退伍|退席|退休|退一步|退役|退贓|退走|退租|吐退|屏退|不退|倒退|引退|多退少補|後退|叱退|延退|急流勇退|功遂身退|恬退|告退|功成身退|以退為進|後退色|不識進退|不知進退|勇退激流|勇退|斥退|撤退|有進無退|早退|打退堂鼓|打退|敗退|沖退|知難而退|旅進旅退|減退|留退步|故退|祛退|擊退|消退|病退|牛餼退敵|海退|素退|退化現象|節節敗退|退筆|進銳退速|退後|退休金|退件|退費|退徙三舍|退冰|退親|進退無門|退稿|退保|進寸退尺|簽退|退怯怯|退老|進退失據|退房|退還|進退首鼠|謙退|退有後言|退錢|身退功成|退省|退貨|黜退|革退|退送紙|車無退表|退一步想|退卻|退賠|退食|頤指進退|辭退|退藏於密|退思補過|退送|退軍|退故|退場|衰退|隱退|進退|逃避退縮|遽退|進退有常|進退無據|進退維谷|進退無路|進退存亡|進退兩難|進退中繩|退隱|退選|退身步兒|退讓|退職|退縮|退稅|退現|退燒|退敵|退悔|退息|退居幕後|退學|退婚書|退如山移|退堂鼓|退前縮後|退換|退除役|趨前退後|罷退|退熱|退針|退堂}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=辵06}}
+
+# [[retreat]], [[withdraw]]
+# [[cause]] to [[retreat]] or [[withdraw]]: to [[drive out]]
+
+====Readings====
+{{ja-readings
+|goon=[[たい]] (tai)
+|kanon=[[たい]] (tai)
+|kun=[[そく|そ.く]] (so.ku), [[そき]] (soki), [[そき|そ.き]] (so.ki), [[しりぞく|しりぞ.く]] (shirizo.ku), [[しりぞける|しりぞ.ける]] (shirizo.keru), [[どく|ど.く]] (do.ku), [[どかす|ど.かす]] (do.kasu), [[どける|ど.ける]] (do.keru), [[のく|の.く]] (no.ku), [[のかす|の.かす]] (no.kasu), [[のける|の.ける]] (no.keru), [[のけ]] (noke), [[のけ|の.け]] (no.ke), [[ひく|ひ.く]] (hi.ku), [[ひける|ひ.ける]] (hi.keru), [[ひけ]] (hike), [[ひけ|ひ.け]] (hi.ke), [[しさる|しさ.る]] (shisa.ru), [[すさる|すさ.る]] (susa.ru)
+}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|退院|たいいん}}
+* {{ja-r|退屈|たいくつ}}
+* {{ja-r|退却|たいきゃく}}
+* {{ja-r|退職|たいしょく}}
+* {{ja-r|退治屋|たいじや}}: [[exterminator]]
+* {{ja-r|撃退|げきたい}}: to [[repel]] {{qualifier|by force}}, to [[beat]] [[back]], to [[get rid of]], to [[force]] [[away]], to [[reject]] forcefully
+* {{ja-r|退陣|たいじん}}
+* {{ja-r|退任|たいにん}}
+* {{ja-r|退避|たいひ}}
+* {{ja-r|退色|たいしょく}}
+* {{ja-r|退勢|たいせい}}
+* {{ja-r|退廃|たいはい}}
+* {{ja-r|隠退|いんたい}}
+* {{ja-r|衰退|すいたい}}
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[퇴]]|eumhun=|rv=toe|mr=t'oe|y=thoy}}
+
+# {{defn|lang=ko|sort=辵06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thối]], [[thoái]], [[thói]], [[thủi]], [[thui]], [[thúi]], [[thụi]]|rs=辵06}}
+
+# {{defn|lang=vi|sort=辵06}}
+
+[[fr:退]]
+[[ko:退]]
+[[hu:退]]
+[[mg:退]]
+[[ja:退]]
+[[no:退]]
+[[pl:退]]
+[[ta:退]]
+[[th:退]]
+[[uk:退]]
+[[zh:退]]

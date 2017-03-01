@@ -1,0 +1,272 @@
+{{character info/new}}
+{{also|艺}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=04|sn=10|four=44307|canj=TINO|ids=⿱艹之}}
+
+# [[sesame]]
+# a [[purplish]] or [[brown]] [[mushroom]] (''[[Ganoderma lucidum]]'') used in [[traditional Chinese medicine|traditional Asian medicine]] and believed to have miraculous powers
+# 'a divine and felicitous plant' (Karlgren)
+
+====References====
+* {{Han ref|kx=1019.150|dkj=30699|dj=1477.030|hdz=53176.050|uh=829D|ud=33437|bh=AADB|bd=43739}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|艸|alt1=艹|t1=grass|之|ls=psc|c1=s|c2=p}} – a type of plant.
+
+===Pronunciation===
+{{zh-pron
+|m=zhī
+|m-s=zi1
+|c=zi1
+|h=pfs=
+|md=
+|mn=qz,tw,xm,zz:chi
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|靈芝|三芝|劉蘭芝|張芝|得挹芝眉|焚芝|焚芝鋤蕙|王仙芝|紫芝|紫芝眉宇|肉芝|芝儀|芝加哥|芝宇|芝標|芝焚蕙嘆|芝田|芝眉|芝艾俱焚|芝草無根|芝蘭|芝蘭之化|芝蘭之室|芝蘭氣味|芝蘭玉樹|芝顏|芝麻|芝麻官|芝麻小事|芝麻油|芝麻秸|芝麻糊|芝麻綠豆|芝麻醬|鄭芝龍|野芝麻|雲芝|龍芝茶}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=艸04}}
+
+# [[turf]], [[lawn]], [[grass]]
+
+====Readings====
+* {{ja-readings
+|goon=[[し]] (shi) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[し]] (shi) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kun=[[しざま]] (shizama), [[しば]] (shiba)
+|nanori=[[こげ]] (koge), [[しは]] (shiha), [[しば]] (shiba), [[しはざき]] (shihazaki), [[しばさき]] (shibasaki), [[しばざき]] (shibazaki), [[しばたか]] (shibataka)
+}}
+
+===Etymology 1===
+{{wikipedia|lang=ja}}
+[[File:Grass.jpg|thumb|250px|{{lang|ja|芝}}: common [[grass]], especially as found in [[lawn]]s.]]
+{{wikipedia|Grass}}
+{{wikipedia|Lawn}}
+From {{etyl|ojp|ja|sort=しば}}. One of the oldest attested words in the Japanese language, used in the ''[[w:Man'yōshū|Man'yōshū]]'' and ''[[w:Nihon_Shoki|Nihon Shoki]]''.
+
+This character usually means a type of {{m|en|fungus}} in Chinese. However, it was also used phonetically in {{m|ltc|芝麻|tr=*chimæ||sesame}} (modern {{cog|cmn|芝麻|tr=zhīmá}}), and it seems that the Japanese use of this character for the sense of {{m|en|grass}} may have come from this ''sesame'' sense in Chinese.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|h|し|ば}}<ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[ɕiba̠]}}
+
+====Noun====
+{{ja-noun|しば}}
+
+# [[grass]], [[turf]]
+#: {{lang|ja|'''芝'''付乃 御宇良佐伎奈流 根都古具佐 安比見受安良婆 安礼古非米夜母。}}<ref>{{RQ:Manyoshu|14|3508}}; [http://etext.lib.virginia.edu/japanese/manyoshu/Man14Yo.html]</ref>
+#: {{ja-usex|'''芝'''付の　御宇良崎なる　ねつこ草　相見ずあらば　我れ恋ひめやも。|'''しば'''つきの　みうらさきなる　ねつこぐさ　あひみずあらば　あれこひめやも。|The anemone flowers on '''grass'''y Miura Point; if we hadn't seen each other, I probably wouldn't be so in love.}}
+# short for {{ja-l|芝見||shibami}}: [[hiding]] in the [[grass]] and [[spying]] on one's [[enemies]] or [[scouting]] out the situation; a [[spy]] in the [[grass]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|芝草|しばくさ|shibakusa}} longer form of {{ja-l|芝||shiba}}:
+* {{ja-l|芝居|しばい|shibai}}:
+* {{ja-l|芝屋|しばや|shibaya}} archaic alternate for {{ja-l|芝居||shibai}}:
+* {{ja-l|芝生|しばふ|shibafu}}:
+* {{ja-l|芝地|しばち|shibachi}} alternate for {{ja-l|芝生||shibafu}}:
+* {{ja-l|芝芋|しばいも|shibaimo}}:
+* {{ja-l|芝引|しばひき|shibahiki}}:
+* {{ja-l|芝浦|しばうら|shibaura}}:
+* {{ja-l|芝浜|しばはま|shibahama}}: alternate for {{ja-l|芝浦||shibaura}}, or a type of ''[[rakugo]]''
+* {{ja-l|芝火|しばび|shibabi}}:
+* {{ja-l|芝蝦}}, {{ja-l|芝海老|しばえび|shiba ebi}}:
+* {{ja-l|芝刈|しばかり|shiba kari}}:
+* {{ja-l|芝刈機|しばかりき|shiba kariki}}:
+* {{ja-l|芝起|しばおこし|shiba okoshi}}:
+* {{ja-l|芝の砌|しばのみぎり|shiba no migiri}}:
+* {{ja-l|芝居唄|しばいうた|shibai uta}}:
+* {{ja-l|芝居絵|しばいえ|shibai e}}:
+* {{ja-l|芝居掛|しばいがかり|shibaigakari}}:
+* {{ja-l|芝居気}} ({{ja-l|しばいぎ}}, {{ja-l|||shibaigi}}; {{ja-l|しばいげ}}, {{ja-l|||shibaige}})
+* {{ja-l|芝居心|しばいごころ|shibaigokoro}} alternate for {{ja-l|芝居気||shibaigi}}:
+* {{ja-l|芝居座|しばいざ|shibaiza}}:
+* {{ja-l|芝居子|しばいこ|shibaiko}}:
+* {{ja-l|芝居者|しばいもの|shibai mono}}:
+* {{ja-l|芝居酒盛|しばいさかもり|shibai sakamori}}:
+* {{ja-l|芝酒盛|しばさかもり|shiba sakamori}} alternate for {{ja-l|芝居酒盛||shibai sakamori}}:
+* {{ja-l|芝居小屋|しばいごや|shibaigoya}}:
+* {{ja-l|芝居染みる|しばいじみる|shibaijimiru}}:
+* {{ja-l|芝居銭|しばいせん|shibaisen}}:
+* {{ja-l|芝居茶屋|しばいぢゃや|shibaijaya}}:
+* {{ja-l|芝居町|しばいまち|shibai machi}}:
+* {{ja-l|芝居唐人|しばいとうじん|shibai tōjin}}:
+* {{ja-l|芝居鳶|しばいとんび|shibai tonbi}}:
+* {{ja-l|芝居番付|しばいばんづけ|shibai banzuke}}:
+* {{ja-l|芝居話|しばいばなし|shibaibanashi}}:
+* {{ja-l|芝魚}}, {{ja-l|芝肴|しばざかな|shibazakana}}:
+* {{ja-l|芝競|しばくらべ|shiba kurabe}}:
+{{der-mid}}
+* {{ja-l|芝繋|しばつなぎ|shiba tsunagi}}:
+* {{ja-l|芝見|しばみ|shibami}}:
+* {{ja-l|芝原|しばはら|shibahara}}:
+* {{ja-l|芝公園|しばこうえん|shiba kōen}}:
+* {{ja-l|芝采|しばざい|shibazai}}:
+* {{ja-l|芝菜|しばな|shibana}}:
+* {{ja-l|芝桜|しばざくら|shibazakura}}:
+* {{ja-l|芝山|しばやま|shibayama}}:
+* {{ja-l|芝山古墳群|しばやまこふんぐん|Shibayama Kofun-gun}}: a group of ''[[kofun]]'' tombs in [[w:Chiba Prefecture|Chiba Prefecture]]
+* {{ja-l|芝煮|しばに|shibani}}:
+* {{ja-l|芝手|しばて|shibate}}:
+* {{ja-l|芝手水|しばちょうず|shibachōzu}}:
+* {{ja-l|芝焼|しばやき|shibayaki}} alternate for {{ja-l|野焼||noyaki}}:
+* {{ja-l|芝大神宮|しばだいじんぐう|Shiba Daijingū}}:
+* {{ja-l|芝神明|しばしんめい|Shiba Shinmei}} alternate for {{ja-l|芝大神宮||Shiba Daijingū}}:
+* {{ja-l|芝神明祭|しばしんめいまつり|Shiba Shinmei Matsuri}}:
+* {{ja-l|芝菅|しばすげ|shibasuge}}:
+* {{ja-l|芝摺|しばすり|shibasuri}}:
+* {{ja-l|芝切|しばきり|shibakiri}}:
+* {{ja-l|芝切神事|しばきりしんじ|Shibakiri Shinji}}:
+* {{ja-l|芝全交|しばぜんこう|Shiba Zenkō}}:
+* {{ja-l|芝祐泰|しばすけひろ|Shiba Sukehiro}}:
+* {{ja-l|芝打|しばうち|shiba uchi}}:
+* {{ja-l|芝打長|しばうちなが|shiba uchinaga}}:
+* {{ja-l|芝茸|しばたけ|shibatake}}: alternate for {{ja-l|網茸||amitake}}, a type of mushroom
+* {{ja-l|芝築地|しばついじ|shibatsuiji}}:
+* {{ja-l|芝田楽|しばでんがく|shiba dengaku}}:
+* {{ja-l|芝土居|しばどい|shiba doi}}:
+* {{ja-l|芝突|しばつき|shibatsuki}}:
+* {{ja-l|芝能|しばのう|Shiba Nō}}: alternate for {{ja-l|薪能||Takigi Nō}}, a type of [[Noh]] play
+* {{ja-l|芝派|しばは|shibaha}}:
+* {{ja-l|芝野|しばの|shibano}}:
+* {{ja-l|芝矢|しばや|shibaya}}:
+* {{ja-l|芝蘭堂|しらんどう|Shirandō}}: an academy of Western learning in the late [[w:Edo period|Edo period]]
+* {{ja-l|芝離宮|しばりきゅう|Shiba Rikyū}}: an [[imperial]] [[villa]], formerly located on the shores of the bay in [[w:Minato, Tokyo|Minato-ku, Tōkyō]], later converted into a [[park]]
+* {{ja-l|芝露|しばつゆ|shiba tsuyu}}: [[dew]] on [[grass]]
+{{der-bottom}}
+
+====Proper noun====
+{{ja-pos|しば|proper}}
+
+# {{surname|lang=ja|sort=しば}}
+
+====Verb====
+{{ja-verb-suru|しば}}
+
+# short for {{ja-l|芝見||shibami}}: to [[hide]] in the [[grass]] and [[spy]] on one's [[enemies]] or [[scout]] out the situation
+
+=====Conjugation=====
+{{ja-suru|しば}}
+
+===Etymology 2===
+Compound of {{compound|lang=ja|sort=しざま|し|tr1=shi|pos1=adjectival ending|様|tr2=sama|t2=kind, type}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref> {{rendaku2|sort=しざま|sama|zama}} The kanji {{ja-l|芝}} was used as an [[ateji]], probably based on its {{l|ja|sc=Latn|音読み|''on'yomi''}} of ''shi''.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ɕiza̠ma̠]}}
+
+====Noun====
+{{ja-noun|しざま}}
+
+# {{lb|ja|sort=しざま|grammar|obsolete}} “''shi''-type”, referring to the ''i'' adjective in Japanese grammar, specifically the {{m|ja|ク活用|tr=ku katsuyō||''ku'' inflection}}, corresponding to modern Japanese adjectives ending in ''-i'' but not ''-shii''
+#: This is the [[nomenclature]] used in the [[grammar]] devised by {{lang|ja|富士谷成章}} ([[w:Fujitani Nariakira|Fujitani Nariakira]]), a classical Japanese [[scholar]] and [[grammarian]] in the middle [[w:Edo period|Edo period]]. Modern ''i'' adjectives still had the {{m|ja|終止形|tr=shūshikei||terminal form}} ending in ''-shi'' in the mid-Edo period, hence Fujitani's description of these as the “''shi''-type” of adjective.
+
+===Etymology 3===
+From {{etyl|ltc|ja|sort=し}} {{m|ltc|芝|tr=*chi}}. Compare modern {{cog|cmn|芝|tr=zhī}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{IPA|lang=ja|[ɕi]}}
+
+====Affix====
+{{ja-pos|し|affix}}
+
+# the {{ja-l|万年茸||mannentake}} [[mushroom]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|芝翫下駄|しかんげた|Shikan geta}}: a type of ''[[geta]]'' [[sandal]] popular in the [[w:Edo period|Edo period]]
+* {{ja-l|芝翫縞|しかんじま|Shikanjima}}: a particular [[stripe]]d [[pattern]] for [[kimono]], popular in the [[w:Edo period|Edo period]]
+* {{ja-l|芝翫茶|しかんちゃ|Shikan cha}}: a [[color]] for [[dying]] [[cloth]], a slightly [[reddish]]-[[purple]] shade of [[chestnut]]
+* {{ja-l|芝仙延年|しせんえんねん|shisen ennen}}: a [[theme]] for traditional [[painting]] in China, Korea, and Japan, depicting the {{ja-l|万年茸||mannentake}} [[mushroom]], [[pine]]s, and [[rocky]] [[crag]]s
+* {{ja-l|芝仙祝寿|しせんしゅくじゅ|shisen shukuju}}: a [[theme]] for traditional [[painting]] in China, Korea, and Japan, depicting the {{ja-l|万年茸||mannentake}} [[mushroom]], [[crane]]s (the birds), [[bamboo]], and [[plum]] trees
+* {{ja-l|芝草|しそう|shisō}}: alternate for {{ja-l|万年茸||mannentake}}, a type of [[mushroom]]
+* {{ja-l|芝眉|しび|shibi}}: an [[honorific]] term for referring to someone else's [[face]]
+* {{ja-l|芝蘭|しらん|shiran}}: [[fragrant]] [[grass]]; {{qualifier|metaphorically}} an [[excellent]] person
+{{der-mid}}
+* {{ja-l|霊芝|れいし|reishi}}: alternate for {{ja-l|万年茸||mannentake}}, a type of mushroom
+{{der-bottom}}
+
+===Etymology 4===
+Used as [[ateji]] in various surnames.
+
+{{collapse-top|title=Names|width=96%|class=Derived terms|background=#FFFFFF}}
+
+====Proper noun====
+{{ja-pos|しはざき|proper}}
+
+# {{surname|lang=ja|sort=しはざき}}
+
+====Proper noun====
+{{ja-pos|しばさき|proper}}
+
+# {{surname|lang=ja|sort=しばさき}}
+
+====Proper noun====
+{{ja-pos|しばざき|proper}}
+
+# {{surname|lang=ja|sort=しばざき}}
+
+====Proper noun====
+{{ja-pos|しばたか|proper}}
+
+# {{surname|lang=ja|sort=しばたか}}
+{{collapse-bottom}}<!-- this closes the Names section -->
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=지|eumhun=|rv=ji|mr=chi|y=ci}}
+
+# {{defn|lang=ko|sort=艸04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chi]], [[liện]], [[liên]]|rs=艸04}}
+
+# {{defn|lang=vi|sort=艸04}}
+
+[[fr:芝]]
+[[ko:芝]]
+[[lo:芝]]
+[[hu:芝]]
+[[mg:芝]]
+[[ja:芝]]
+[[no:芝]]
+[[pl:芝]]
+[[sv:芝]]
+[[th:芝]]
+[[vi:芝]]
+[[zh:芝]]

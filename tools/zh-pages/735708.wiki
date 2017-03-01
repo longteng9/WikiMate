@@ -1,0 +1,45 @@
+{{also|允许}}
+==Chinese==
+{{zh-forms|s=允许}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǔnxǔ
+|c=wan5 heoi2
+|mn=xm,tp:ún-hú/qz:ún-hír/zz,kh:ín-hí/twv:ún-hí
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[permit]]; to [[allow]]
+#: {{zh-x|如果 天氣 允許 的話|if the weather '''permits'''}}
+
+====Synonyms====
+* {{zh-l|允准}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|いん|きょ|yomi=on}}
+
+===Noun===
+{{ja-noun|いんきょ}}
+
+# [[permission]], [[license]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|いんきょ}}
+
+# [[permit]]
+
+====Conjugation====
+{{ja-suru|いんきょ}}
+
+[[ko:允許]]
+[[hu:允許]]
+[[mg:允許]]
+[[ja:允許]]

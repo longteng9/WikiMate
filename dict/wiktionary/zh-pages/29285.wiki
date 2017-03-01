@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|鈙}}
+==Translingual==
+
+===Etymology===
+{{Han compound|金|支|c1=s|c2=p|ls=psc}}
+
+===Han character===
+{{Han char|rn=167|rad=金|as=04|sn=12|four=|canj=CJE|ids=⿰金支}}
+
+# {{defn|Han|sort=金04}}
+
+====References====
+* {{Han ref|kx=1299.040|dkj=40232|dj=1801.180|hdz=64174.110|uh=9218|ud=37400}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金04}}
+
+# {{defn|lang=ja|sort=金04}}
+
+====Readings====
+* {{ja-readings|on=[[ぎ]] (gi), [[き]] (ki)|kun=[[かま]] (kama)|nanori=}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[jǐ]] ([[ji3]])|wg=chi<sup>3</sup>}}
+
+# {{defn|lang=cmn|sort=金04}}
+
+----
+
+==Vietnamese==
+
+===Character===
+{{rfc-header|Character|lang=vi}}
+
+====Readings====
+{{vi-readings|nom=chìa, chịa, chì, chùy|rs=金04}}
+
+====Compounds====
+* {{vi-l|鈘銙|chìa khóa}}
+* {{vi-l|鈘𥔦|chìa vôi}}
+
+===Etymology 1===
+
+====Noun====
+{{vi-noun|sc=Hani|chùy|rs=金04}}
+
+# [[iron]] {{l|en|club}}
+#* '''1892:''' ''[http://namkyluctinh.org/a-tgtpham/nvsam/vannom/nvsam-mathanh%5Bn%5D.pdf Mã Thành tân truyện tạo lục diễn ca thi]'', line 271
+#*: {{vi-ruby|鉄鈘卞打無共才|thiết chùy bèn đánh vô cùng tài hay}}
+#*:: So skilled at hitting with a club.
+
+===Etymology 2===
+
+====Noun====
+{{vi-noun|sc=Hani|chìa|rs=金04}}
+
+# {{l|en|key}}
+
+=====Synonyms=====
+* {{vi-l|鈘銙|chìa khóa}}
+
+====Verb====
+{{vi-verb|sc=Hani|chìa|rs=金04}}
+
+# to [[stretch]]
+#: {{vi-ruby|鈘囉|chìa ra}}
+#:: to [[stretch out]]
+
+===References===
+* {{R:Taberd 1838|chìa|p=64}}
+
+[[fr:鈘]]
+[[hu:鈘]]
+[[mg:鈘]]
+[[pl:鈘]]
+[[th:鈘]]
+[[zh:鈘]]

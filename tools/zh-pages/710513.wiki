@@ -1,0 +1,71 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tiāndì
+|c=tin1 dei6
+|h=pfs=thiên-thi
+|mn=qz,tp,xm:thiⁿ-tōe/kh,zz:thiⁿ-tē/twvt:thian-tōe/qz,twvk,xm,zz:thian-tē
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[heaven]] and [[earth]]; the [[world]]; the [[universe]]
+#: {{zh-x|天下 莫 大於 秋豪 之 末，而 大山 為{wéi} 小；莫 壽於 殤子，而 ^彭祖 為{wéi} 夭。天地 與 我 並存，而 萬物 與 我 為 一。|There is nothing under the canopy of heaven greater than the tip of an autumn spikelet. A vast mountain is a small thing. Neither is there any age greater than that of a child cut off in infancy. P'êng Tsu himself died young. '''The universe''' and I came into being together; and I, and everything therein, are {{sc|One}}.|CL|ref={{circa|369 {{B.C.E.}} – 286 {{B.C.E.}}}} {{w2|zh|莊子}} ({{w|Zhuangzi (book)|''Zhuangzi''}}), {{w2|zh|s:莊子/齊物論|齊物論}} ([[s:Chuang_Tzŭ_(Giles)/Chapter_2|The Identity of Contraries]])}}
+
+====Descendants====
+{{CJKV||てんち|천지|thiên địa}}
+
+===See also===
+* {{pedialite|Tianxia}}
+
+{{zh-cat|Advanced|Antonymous}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|てん|ち|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|てんち|y=o|acc=1|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|てんち}}
+
+# [[heaven|Heaven]] and [[earth]]; and all things in them.
+
+====Synonyms====
+* {{ja-r|宇宙|うちゅう}}: the [[universe]]
+* {{ja-r|自然|しぜん}}: [[nature]]
+* {{ja-r|世界|せかい}}: the [[world]]
+* {{ja-r|万象|ばんしょう}}: all things, all of the universe, every [[manifestation]] of [[nature]]
+* {{ja-r|万物|ばんぶつ}}: all things, all of the universe, every manifestation of nature
+
+====See also====
+* {{pedialite|lang=ja}}
+* {{ja-r|天変地異|てんぺんち.い}}: [[turmoil]] throughout heaven and earth
+
+===References===
+<references/>
+
+[[Category:Japanese dvandva compounds]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=천지|rv=cheonji|hidx=ㅊ}}
+
+# {{hanja form of|천지|heaven and earth}}
+
+[[zh-min-nan:天地]]
+[[ko:天地]]
+[[hu:天地]]
+[[ms:天地]]
+[[ja:天地]]
+[[zh:天地]]

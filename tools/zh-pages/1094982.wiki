@@ -1,0 +1,26 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|まん|ほ|k2=ぽ|けい|yomi=o}}
+
+===Etymology===
+Genericised trademark<ref name="DJR">{{R:Daijirin}}</ref>, from {{affix|ja|sort=まんぽけい|万|tr1=man|t1=ten thousand|歩|tr2=ho|t2=step|計|tr3=kei|t3=meter}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|まんぽけい|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|まんぽけい}}
+
+# [[pedometer]]
+
+====Synonyms====
+* {{ja-r|歩数計|ほすうけい}}, {{ja-r|ペドメーター}}, {{ja-r|計歩器|けいほき}}
+
+===References===
+<references/>
+
+[[Category:Japanese genericized trademarks|まんぽけい]]
+[[Category:ja:Measuring instruments|まんぽけい]]
+
+[[bg:万歩計]]
+[[hu:万歩計]]

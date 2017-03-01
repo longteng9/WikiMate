@@ -1,0 +1,153 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=04|sn=7|four=67017|canj=RAU|ids=⿰口巴}}
+
+====References====
+* {{Han ref|kx=0178.040|dkj=03341|dj=0395.120|hdz=10596.060|uh=5427|ud=21543|bh=A761|bd=42849}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology 1===
+
+====Alternative forms====
+* {{zh-l|罷|tr=-}}
+
+====Pronunciation====
+{{zh-pron
+|m=ba
+|c=baa6
+|h=
+|mn=pā
+|mc=y
+|oc=y
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{non-gloss definition|Emphatic final particle; used at the end of a sentence to indicate a suggested action; often used to express [[imperative mood]]:}} [[let us]] ...; why don't you ...
+#: {{zh-x|走 吧！|'''Let's''' go!}}
+#: {{zh-x|你 有 時間 再 做 吧。|Do it when you have time.}}
+#: {{zh-x|大家 去 工作 吧。|Get to work, everybody.}}
+# {{non-gloss definition|Used at the end of a sentence used to concede a point.}}
+#: {{zh-x|好 吧！|Alright!}}
+
+{{zh-cat|Beginning}}
+
+====Usage notes====
+* {{lang|zh|吧}} is not usually used as a modal particle in Min Nan. The particle {{zh-l|乎|hohⁿ}} provides a similar effect.
+
+===Etymology 2===
+{{onomatopoeic|zh}}.
+
+====Pronunciation====
+{{zh-pron
+|m=bā
+|c=baa1
+|h=
+|mn=
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|onomatopoeia}} sound of [[crackling]]; [[crack]]
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m=bā
+|c=baa1
+|h=
+|mn=
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[smoke]]
+
+===Etymology 4===
+{{bor|zh|en|bar}}.
+
+====Pronunciation====
+{{zh-pron
+|m=bā
+|c=baa1
+|h=pfs=pâ
+|mn=pa
+|cat=n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[bar]]
+#: {{zh-x|酒吧{bā}|bar; pub}}
+#: {{zh-x|貼吧{bā}|internet board (''lit.'' posting '''bar''')}}
+#: {{zh-x|迪吧{bā}|disco}}
+# {{zh-abbrev|貼吧|internet board}}
+# {{non-gloss definition|[[transliteration]] character}}
+#: {{zh-x|迪吧{bā}|diva}}
+
+====Compounds====
+{{zh-der|吧臺|迪吧|酒吧|貼吧|網吧}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=}}
+
+# {{defn|lang=ja|sort=口04}}
+
+====Readings====
+* {{ja-readings|on=[[は]] (ha), [[へ]] (he)|kun=[[おおくちのさま]] (ookuchinosama)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=파|mr=p'a}}
+
+# {{defn|lang=ko|sort=口04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[và]], [[ba]], [[bơ]], [[vài]]}}
+
+# [[and]], [[with]], as well as
+
+===See also===
+* {{l|vi|𡝕}}
+
+[[da:吧]]
+[[fr:吧]]
+[[ko:吧]]
+[[lt:吧]]
+[[li:吧]]
+[[hu:吧]]
+[[mg:吧]]
+[[ja:吧]]
+[[no:吧]]
+[[pl:吧]]
+[[fi:吧]]
+[[ta:吧]]
+[[th:吧]]
+[[uk:吧]]
+[[zh:吧]]

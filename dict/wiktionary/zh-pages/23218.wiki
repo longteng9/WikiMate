@@ -1,0 +1,70 @@
+{{character info/new}}
+{{also|纡}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=03|sn=9|four=21940|canj=VFMD}}
+
+# [[bend]], [[turn]], [[twist]]
+# [[distort]]
+
+====Descendants====
+* [[纡]]
+
+====References====
+* {{Han ref|kx=0916.020|dkj=27244|dj=1344.010|hdz=53362.100|uh=7D06|ud=32006|bh=ACFA|bd=44282}}
+
+----
+
+==Chinese==
+{{zh-forms|s=纡}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|糸|t1=|于}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yū
+|c=jyu1
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|曲折縈紆|盤紆|紆尊降貴|紆徐|紆曲|紆朱懷金|紆行|紆軫|紆轡|紆迴|紆青拖紫|紆餘|紆體|紆鬱|縈紆|降貴紆尊|鬱紆}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=糸03}}
+
+# {{defn|lang=ja|sort=糸03}}
+
+====Readings====
+* {{ja-readings|on=[[う]] (u)|kun=[[まがる]] (magaru), [[めぐる]] (meguru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=우|eumhun=|rv=u|mr=u|y=wu}}
+
+# {{defn|lang=ko|sort=糸03}}
+
+[[fr:紆]]
+[[ko:紆]]
+[[hu:紆]]
+[[ja:紆]]
+[[pl:紆]]
+[[th:紆]]
+[[zh:紆]]

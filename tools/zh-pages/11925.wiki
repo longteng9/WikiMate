@@ -1,0 +1,95 @@
+{{character info/new}}
+{{also|愽}}
+==Translingual==
+{{stroke order|strokes=12}}
+
+===Han character===
+{{Han char|rn=24|rad=十|as=10|sn=12|four=43046|canj=JIBI|ids=⿰十尃}}
+
+====References====
+* {{Han ref|kx=0157.130|dkj=02761|dj=0360.100|hdz=10066.020|uh=535A|ud=21338|bh=B3D5|bd=46037}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|十|尃|c1=s|c2=p|t1=|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bó
+|c=bok3
+|h=pfs=pok
+|md=báuk
+|mn=xm,qz,zz,tw:phok/xm:pok
+|w=4poq
+|mc=y
+|oc=y
+|cat=v,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[gamble]], [[play]] [[game]]s
+# [[wide]], [[broad]], [[rich]], [[abundant]], [[plentiful]]
+
+====Compounds====
+* {{zh-l|博客}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=十10}}
+
+====Readings====
+* {{ja-readings|goon=[[はく]] (haku)|kanon=[[はく]] (haku)|kanyoon=[[ばく]] (baku)|kun=[[ひろい]] (hiroi), [[ひろめる]] (hiromeru)|nanori=[[とおる]] (tōru), [[はか]] (haka), [[ひろ]] (hiro), [[ひろし]] (hiroshi), [[ひろむ]] (hiromu)}}
+
+===Proper noun===
+{{ja-pos|proper|ひろし}}
+
+# {{given name|male|lang=ja|sort=ひろし}}
+
+===Suffix===
+{{ja-pos|suffix|はく}}
+
+# [[doctor]], PhD
+# [[exposition]], fair
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=박|eumhun=넓을|mr=pak}}
+
+# {{defn|lang=ko|sort=十10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bác]], [[mác]], [[bạc]], [[vác]]|rs=十10}}
+
+# {{defn|lang=vi|sort=十10}}
+
+[[af:博]]
+[[zh-min-nan:博]]
+[[fr:博]]
+[[ko:博]]
+[[is:博]]
+[[li:博]]
+[[hu:博]]
+[[mg:博]]
+[[ms:博]]
+[[ja:博]]
+[[no:博]]
+[[pl:博]]
+[[th:博]]
+[[zh:博]]

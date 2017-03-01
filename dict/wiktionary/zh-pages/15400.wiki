@@ -1,0 +1,89 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=05|sn=9|four=47334|canj=VEP|ids=⿱奴心}}
+
+====References====
+* {{Han ref|kx=0380.080|dkj=10439|dj=0708.080|hdz=42282.030|uh=6012|ud=24594|bh=ABE3|bd=44003}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|心|t1=heart|奴|t2=slave|ls=psc|c1=s|c2=p}} – angry.
+
+===Pronunciation===
+{{zh-pron
+|m=nù
+|c=nou6
+|mn=nō͘/qz,twv:lō͘
+|mc=y
+|oc=y
+|ma=Zh-nù.ogg
+|cat=n,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[angry]]
+# [[anger]], [[rage]], [[passion]]
+
+=====Compounds=====
+{{zh-der|怒不可遏|怒潮|怒叱|怒斥|怒沖沖|怒髮衝冠|怒放|怒號|怒喝|怒吼|怒火|怒目|怒氣|怒氣沖沖|怒容|怒色|怒視|怒濤|怒形於色|怒族|不怒自威|人怨神怒|勃然大怒|動怒|含怒|吼怒|咆哮大怒|喜怒哀樂|喜怒無常|嗔怒|天怒|天怒人怨|嬉笑怒罵|室怒市色|布衣之怒|心花怒放|心花怒發|心花怒開|忿怒|怒不可抑|怒子|怒張|怒惡|怒氣填胸|怒氣攻心|怒氣沖天|怒氣沖發|怒氣衝衝|怒江|怒濤排壑|怒火中燒|怒烘烘|怒猊抉石|怒猊渴驥|怒目切齒|怒目咬牙|怒目攢眉|怒目橫眉|怒目相向|怒目而視|怒突|怒罵|怒臂當車|怒蛙|怒馬|恚怒|恨怒|息怒|惱怒|惱羞成怒|惱羞變怒|慍怒|憤怒|憤怒痙攣|戟指怒目|拍案怒罵|拗怒|春筍怒發|暴怒|橫眉怒目|沖天之怒|滿腔怒火|激怒|發威動怒|發怒|盛怒|眾怒|眾怒難任|眾怒難犯|睜眉怒目|神怒人怨|神怒人棄|神怒天誅|神怒民怨|神怒民痛|神怒鬼怨|突怒|羞怒|老羞成怒|老羞變怒|臺意怒|藏怒|衝冠髮怒|觸怒|赫斯之怒|遷怒|金剛怒目|雷嗔電怒|雷霆之怒|震怒|鮮車怒馬}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=心05}}
+
+# [[anger]], [[fury]]
+
+====Readings====
+{{ja-readings|goon=[[ぬ]] (nu) {{non-joyo-reading}}|kanon=[[ど]] (do)|kun=[[いかる]] (ikaru), [[おこる]] (okoru)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|怒号|どごう}}
+* {{ja-r|怒張|どちょう}}
+* {{ja-r|怒涛|どとう}}
+* {{ja-r|怒気|どき}}
+* {{ja-r|怒髪|どはつ}}
+* {{ja-r|暴怒|ぼうど}}: [[rage]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=노|eumhun=|rv=no|mr=no|y=no}}
+
+# {{defn|lang=ko|sort=心05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|nộ|rs=心05}}
+
+# {{defn|lang=vi|sort=心05}}
+
+[[fr:怒]]
+[[ko:怒]]
+[[li:怒]]
+[[hu:怒]]
+[[mg:怒]]
+[[ja:怒]]
+[[no:怒]]
+[[pl:怒]]
+[[ru:怒]]
+[[th:怒]]
+[[zh:怒]]

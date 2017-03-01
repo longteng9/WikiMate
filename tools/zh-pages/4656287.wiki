@@ -1,0 +1,12 @@
+==Japanese==
+{{ja-kanjitab|こつ|えん|yomi=o}}
+
+===Etymology===
+{{suffix|lang=ja|sort=こつえん|骨|tr1=kotsu|t1=bone|炎|tr2=en|t2=inflammation}}
+
+===Noun===
+{{ja-noun|こつえん}}
+
+# {{lb|ja|pathology|sort=こつえん}} [[osteitis]]
+
+[[zh:骨炎]]

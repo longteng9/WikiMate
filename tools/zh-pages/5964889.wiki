@@ -1,0 +1,23 @@
+==Chinese==
+{{zh-forms}}
+{{zh-wp|zh:網頁抓取}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhuāqǔ
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[catch]]; to [[fetch]]; to [[grab]]
+# {{lb|zh|computing}} to [[crawl]] {{qualifier|a website}}
+#: {{zh-x|請求 @&#32; Google @&#32; 重{chóng}新 抓取 您 的 網址|Ask Google to re-'''crawl''' your URLs|ref=[https://support.google.com/webmasters/answer/6065812?hl=zh-Hans]}}
+# {{lb|zh|computing}} to [[scrape]] {{qualifier|a website}}
+
+====See also====
+* {{zh-l|爬蟲}}
+
+[[ko:抓取]]
+[[zh:抓取]]

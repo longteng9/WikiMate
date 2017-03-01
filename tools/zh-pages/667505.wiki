@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qíngtiān
+|c=cing4 tin1
+|mn=qz,xm,zz:chêng-thian
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|weather}} clear weather; fine weather
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|てん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|せいてん|y=o}}
+
+===Noun===
+{{ja-noun|せいてん}}
+
+# [[clear]] [[sky|skies]]
+#: {{ja-usex|明日は晴天です。|^あした は せいてん です。|Tomorrow will have '''blue skies'''.}}
+
+====Antonyms====
+* {{ja-r|曇天|どんてん}}: cloudy skies
+
+[[fr:晴天]]
+[[ko:晴天]]
+[[hu:晴天]]
+[[ja:晴天]]
+[[uk:晴天]]
+[[zh:晴天]]

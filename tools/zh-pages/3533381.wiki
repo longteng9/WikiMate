@@ -1,0 +1,57 @@
+{{also|振动}}
+==Chinese==
+{{zh-forms|s=振动}}
+
+===Etymology===
+From {{etyl|ja|nan}} {{ja-r|振動|しんどう}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhèndòng
+|c=zan3 dung6
+|mn=qz:chín-tǒng/twv,xm,zz:chín-tōng/qz:tín-tǎng/tw,xm,zz:tín-tāng/twv:chín-tāng
+|mn_note=chín-tōng - from Japanese
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[vibrate]], to [[tremble]]
+# {{lb|zh|physics}} to [[oscillate]]
+# {{lb|zh|Min Nan}} to [[move]]
+
+===Noun===
+{{zh-noun}}
+
+# [[vibration]], [[tremor]]
+# {{lb|zh|physics}} [[oscillation]]
+
+===See also===
+* {{zh-l|震動}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|どう|yomi=o}}
+
+===Noun===
+{{ja-noun|しんどう}}
+
+# [[oscillation]], [[vibration]]
+
+===Verb===
+{{ja-verb-suru|しんどう}}
+
+# [[oscillate]], [[vibrate]]
+
+====Conjugation====
+{{ja-suru|しんどう}}
+
+[[zh-min-nan:振動]]
+[[ko:振動]]
+[[kn:振動]]
+[[hu:振動]]
+[[mg:振動]]
+[[ja:振動]]
+[[zh:振動]]

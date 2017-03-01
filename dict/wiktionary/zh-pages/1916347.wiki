@@ -1,0 +1,33 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhīmíngdù
+|c=zi1 ming4 dou6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[celebrity]] [[rating]]; [[popularity]]; [[profile]]; [[familiarity]] in the [[public]] [[consciousness]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ち|めい|ど|yomi=on}}
+
+===Etymology===
+Compound of {{ja-r|知名|ちめい|gloss=well-known}} and {{ja-r|度|ど|gloss=degree}}.
+
+===Pronunciation===
+* {{IPA|[tɕimeːdo]|lang=ja}}, {{IPA|[tɕimeido]|lang=ja}}
+
+===Noun===
+{{ja-noun|ちめいど}}
+
+# the degree in which one known in society; well-known
+
+[[zh-min-nan:知名度]]
+[[zh:知名度]]

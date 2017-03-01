@@ -1,0 +1,80 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=07|sn=10|four=56027|canj=QRB|ids=⿰扌肙}}
+
+# [[contribute]]
+# [[give up]], [[renounce]]
+
+====References====
+* {{Han ref|kx=0434.020|dkj=12150|dj=0783.090|hdz=31882.060|uh=6350|ud=25424|bh=AEBD|bd=44733}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=juān
+|ma=Zh-juan.ogg
+|c=gyun1
+|h=pfs=kiên
+|md=
+|mn=koan
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手07}}
+
+# {{defn|lang=ja|sort=手07}}
+
+====Readings====
+* {{ja-readings|on=[[えん]] (en), [[けん]] (ken)|kun=[[すてる]] (suteru), [[あたえる]] (ataeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=연|eumhun=|rv=yeon|mr=yŏn|y=yen}}
+
+# {{defn|lang=ko|sort=手07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quyên]], [[quen]], [[quên]]|rs=手07}}
+
+# {{defn|lang=vi|sort=手07}}
+
+[[fr:捐]]
+[[ko:捐]]
+[[hu:捐]]
+[[mg:捐]]
+[[ja:捐]]
+[[no:捐]]
+[[pl:捐]]
+[[ru:捐]]
+[[th:捐]]
+[[vi:捐]]
+[[zh:捐]]

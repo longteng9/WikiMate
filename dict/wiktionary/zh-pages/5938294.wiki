@@ -1,0 +1,15 @@
+{{also|偏误}}
+==Chinese==
+{{zh-forms|s=偏误}}
+
+===Pronunciation===
+{{zh-pron
+|m=piānwù
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|statistics}} [[bias]]
+#: {{zh-x|認知.偏誤|cognitive '''bias'''}}

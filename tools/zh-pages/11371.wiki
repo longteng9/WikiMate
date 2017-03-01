@@ -1,0 +1,90 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=10|rad=儿|as=02|sn=4|four=23210|canj=IHU|ids=⿱厶儿}}
+
+# to [[grant]], to [[allow]], to [[consent]]
+
+====References====
+* {{Han ref|kx=0123.030|dkj=01338|dj=0258.010|hdz=10265.030|uh=5141|ud=20801|bh=A4B9|bd=42169}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yǔn
+|c=jyun4,wan5
+|c-t=vun4
+|mn=qz,tp,xm:ún/kh,zz:ín
+|mn-t=rung2
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不允|中允|依允|俞允|俯允|允准|允執其中|允執厥中|允婚|允從|允承|允文允武|允洽|允當|允許|允諾|公允|平允|慨允|慨然允諾|慨然應允|應允|明允|滿口應允|祝允明|答允|葷允|虞允文|面允}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=儿02}}
+
+# {{defn|lang=ja|sort=儿02}}
+
+====Readings====
+* {{ja-readings|on=[[いん]] (in)|kun=[[まこと]] (makoto), [[ゆるす]] (yurusu), [[じょう]] (jou)}}
+
+===Proper noun===
+{{ja-pos|proper|まこと}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|まこと]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=윤|rv=yun|mr=yun}}
+
+# {{defn|lang=ko|sort=儿02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[doãn]], [[duẫn]]|rs=儿02}}
+
+# {{defn|lang=vi|sort=儿02}}
+
+[[zh-min-nan:允]]
+[[fr:允]]
+[[ko:允]]
+[[li:允]]
+[[hu:允]]
+[[mg:允]]
+[[ja:允]]
+[[no:允]]
+[[pl:允]]
+[[th:允]]
+[[zh:允]]

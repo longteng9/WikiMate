@@ -1,0 +1,57 @@
+{{also|面谈}}
+==Chinese==
+{{zh-forms|s=面谈}}
+
+===Etymology===
+{{l|cmn|面|tr=miàn}}, as in {{l|cmn|當面|tr=dāngmiàn}}, "face-to-face" + {{l|cmn|談|tr=tán}}, as in {{l|cmn|交談|tr=jiāotán}}, "to converse"
+
+===Pronunciation===
+{{zh-pron
+|m=miàntán
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[face-to-face]] [[meeting]]; [[interview]]
+
+===Verb===
+{{zh-verb}}
+
+# to have a face-to-face meeting; to conduct an interview
+----
+==Japanese==
+{{ja-kanjitab|めん|だん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|めんだん|y=o}}
+
+===Noun===
+{{ja-noun|めんだん|tr=intrans}}
+
+# [[interview]]
+
+===Verb===
+{{ja-verb-suru|めんだん|tr=intrans}}
+
+#have an interview, [[talk over]] {{gloss|discuss}}
+
+====Conjugation====
+{{ja-suru|めんだん}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=면담}}
+
+# {{hanja form of|면담|}}
+
+[[zh-min-nan:面談]]
+[[ko:面談]]
+[[hu:面談]]
+[[mg:面談]]
+[[zh:面談]]

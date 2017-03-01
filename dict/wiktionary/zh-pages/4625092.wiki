@@ -1,0 +1,34 @@
+{{also|香连片}}
+==Chinese==
+{{zh-forms|s=香连片}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiānglián piàn
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# A sugar-coated tablet used in [[traditional Chinese medicine]] "to eliminate ''damp-heat'', promote the flow of [[qi]] and relieve pain, in the treatment of dysentery with tenesmus, abdominal pain and diarrhea".
+
+Xianglian tablets have the following herbal ingredients:
+
+{| class="wikitable sortable"
+|-
+!Name
+!Chinese ([[Simplified Chinese|S]])
+!Grams
+|-
+|[[rhizoma|Rhizoma]] ''{{taxlink|Coptis|genus|noshow=1|Coptidis}}'' (processed with {{l|la|fructus|Fructus}} [[Evodia|Evodiae]])
+|黄连 (吴茱萸)
+| 800
+|-
+| {{l|la|radix|Radix}} [[Aucklandia|Aucklandiae]]
+|木香
+| 200
+|}
+
+====References====
+* State Pharmacopoeia Commission of the PRC (2005). "Pharmacopoeia of The People’s Republic of China (Volume I)". Chemical Industry Press. ISBN 7117069821.

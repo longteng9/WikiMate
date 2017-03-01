@@ -1,0 +1,86 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|和服|和服 (traditional Japanese clothing)}}
+{{wikipedia|Kimono}}
+[[Image:Kimono lady at Gion, Kyoto.jpg|thumb|250px|{{lang|ja|着物}} (''kimono''): A [[maiko]] off duty, dressed in '''[[kimono]]''' in Gion, Kyoto.]]
+[[File:JimmyWales_wearing_Kimono.jpg|thumb|250px|{{lang|ja|着物}} (''kimono''): Jimmy Wales wearing a men's '''[[kimono]]'''.]]
+</div>
+{{ja-kanjitab|き|もの|yomi=kun}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=きもの|着|tr1=ki|pos1=the {{m|ja|連用形|tr=ren'yōkei||continuative or stem form}} of verb {{m|ja|着る|tr=kiru||to wear on the upper body}}|物|tr2=mono|t2=thing}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=k|きもの|acc=0|acc_ref=NHK,DJR}}
+
+===Noun===
+{{ja-noun|きもの}}
+
+# a [[kimono]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|着物地|きものじ}}: kimono [[cloth]]
+* {{ja-r|着物姿|きもの すがた}}: one's [[appearance]] in a kimono, how one [[look]]s while wearing a kimono
+* {{ja-r|着物道楽|きもの どうらく}}: [[wear]]ing many different kimono for [[fun]], as a [[diversion]] or [[hobby]]
+{{der-bottom}}
+
+====Related terms====
+{{rel-top}}
+* {{ja-r|長着|ながぎ}}: a [[specific]] [[synonym]] for what is typically called 'kimono'.
+* {{ja-r|晴れ着|はれぎ}}:
+* {{ja-r|振袖|ふりそで}}: long-sleeved kimono
+* {{ja-r|留袖|とめそで}}:
+* {{ja-r|羽織|はおり}}: a [[short]] [[overcoat]] for [[formal]] [[kimono]]
+* {{ja-r|小袖|こそで}}: a [[robe]] smaller than a [[kimono]]
+* {{ja-r|水干|すいかん}}: a kimono [[tunic]]
+* {{ja-r|袴|はかま}}: [[traditional]] Japanese [[trousers]]
+* {{ja-r|訪問着|ほうもんぎ}}:
+* {{ja-r|打ち掛け|うちかけ}}:
+* {{ja-r|襦袢|じゅばん}}:
+* {{ja-r|帯|おび}}: a broad [[sash]] [[belt]]
+* {{ja-r|帯締め|おびじめ}}: a rope belt to bind the obi
+* {{ja-r|帯留め|おびどめ}}: a buckle to bind the obi
+* {{ja-r|足袋|たび}}: Japanese traditional socks
+* {{ja-r|草履|ぞうり}}: Japanese sandals
+* {{ja-r|簪|かんざし}}: a Japanese showy hairpin
+* {{ja-r|提げ物|さげもの}}: a [[carry]]ing [[pouch]] (like a coin pouch)
+* {{ja-r|十二単|じゅうに ひとえ}}, {{ja-r|十二単衣|じゅうに ひとえ}}, {{ja-l|十二一重|じゅうに ひとえ}}: a [[ceremonial]] twelve-layered kimono worn by women of the [[imperial]] [[court]]
+* {{ja-r|単衣|ひとえ}}: an unlined kimono
+* {{ja-l|五衣小袿|いつつぎぬこうちき|itsutsuginu kouchiki}}: little cloak over robes
+* {{ja-r|緋袴|ひばかま}}: a red hakama
+* {{ja-r|長袴|ながばかま}}: devided skirt
+* {{ja-r|五衣|いつぎぬ}}: robes
+* {{ja-l|小袿|こうちき|kouchiki}}: little cloak
+{{rel-bottom}}
+
+====Synonyms====
+* {{ja-r|衣|ころも}} {{qualifier|robe-like garment in general}}
+* {{ja-r|衣服|いふく}} {{qualifier|clothes in general}}
+
+====Descendants====
+* Russian: {{l|ru|кимоно́|g=n}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|きもの]]
+[[Category:ja:Clothing|きもの]]
+
+[[zh-min-nan:着物]]
+[[cs:着物]]
+[[fr:着物]]
+[[ko:着物]]
+[[lo:着物]]
+[[la:着物]]
+[[li:着物]]
+[[hu:着物]]
+[[mg:着物]]
+[[ja:着物]]
+[[pl:着物]]
+[[pt:着物]]
+[[ru:着物]]
+[[fi:着物]]
+[[sv:着物]]
+[[uk:着物]]
+[[zh:着物]]

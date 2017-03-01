@@ -1,0 +1,98 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=190|rad=髟|as=05|sn=15|four=72111|canj=SHYMP}}
+
+# [[mustache]]
+
+====Related characters====
+* [[鬚]]
+
+====References====
+* {{Han ref|kx=1453.200|dkj=45399|dj=1984.030|hdz=74524.040|uh=9AED|ud=39661|bh=C068|bd=49256}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|髟|此|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zī
+|c=zi1
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=髟05}}
+
+# {{defn|lang=ja|sort=髟05}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[ひげ]] (hige)}}
+
+====Compounds====
+* {{ja-r|頬髭|ほおひげ}}
+* {{ja-r|口髭|くちひげ}}
+
+===Noun===
+{{ja-noun|ひげ}}
+
+# [[mustache]]; [[beard]]
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki}}
+#*: 鬚髻 上栗喩反 頤毛也 倭云加末智乃'''比偈''' 又花蘂之本也 髻髪也
+# [[whisker]]
+#* {{RQ:I am a cat}}:
+#*: {{ja-usex|彼の鼻の先からぴんと突張っている長い'''髭'''をびりびりと震わせて非常に笑った。|かれ の はな の さき から ぴん と つっぱっている ながい '''ひげ''' を びりびり と ふるわせて ひじょう に わらった。|He stuck out his whiskers and laughed so hard that they trembled.}}
+
+====Synonyms====
+* {{ja-r|鬚|ひげ}}
+
+===References===
+* {{R:Nara Ibun 3}}
+
+[[Category:Japanese basic words|ひげ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=자|eumhun=|rv=ja|mr=cha|y=ca}}
+
+# {{defn|lang=ko|sort=髟05}}
+
+[[fr:髭]]
+[[it:髭]]
+[[lo:髭]]
+[[hu:髭]]
+[[mg:髭]]
+[[nl:髭]]
+[[ja:髭]]
+[[pl:髭]]
+[[ru:髭]]
+[[sv:髭]]
+[[th:髭]]
+[[tr:髭]]
+[[vi:髭]]
+[[zh:髭]]

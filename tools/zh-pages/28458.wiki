@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|輪|输}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=09|sn=16|four=58021|canj=JJOMN|ids=⿰車俞}}
+
+====References====
+* {{Han ref|kx=1246.230|dkj=38438|dj=1723.310|hdz=53546.010|uh=8F38}}
+
+----
+
+==Chinese==
+{{zh-forms|s=输}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|車|俞|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shū
+|c=syu1
+|h=pfs=sû
+|md=
+|mn=su
+|w=1sr
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[transport]]; to [[carry]]; to [[haul]]
+# to [[lose]]; to be [[beaten]]; to be [[defeated]]
+#: {{zh-syn|敗}}
+#: {{zh-ant|贏}}
+
+===Compounds===
+{{zh-der|輸不起|輸入|輸出:export; to export|輸卵管:[[Fallopian tube]]|輸家|輸尿管|輸氧|輸油管|輸液:to have an intravenous injection|輸理|輸精管:[[vas deferens]]|輸血:[[blood transfusion]]; to transfuse blood|輸贏|輸送:to transport; to convey; to carry|輸電|不服輸|不見輸贏|不輸|伏輸|傳輸|全血輸血|公路運輸|公輸|公輸子|公輸般|利益輸送|動脈輸血|十賭九輸|反輸一帖|同步傳輸|問輸|均輸|大敗虧輸|大眾運輸|平行輸入|手寫輸入|打輸|捐輸|整廠輸出|服輸|樂輸|灌輸|自體輸血|虧輸|詐敗佯輸|認輸|資料傳輸|輸入法|輸實|輸寫|輸將|輸征|輸心|輸捐|輸服甘結|輸糧|輸肝剖膽|輸肝瀝膽|輸誠|輸身|輸送帶|輸錢|運輸|運輸工具|運輸成本|運輸業|運輸機|運輸費}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=車09}}
+
+# {{defn|lang=ja|sort=車09}}
+
+====Readings====
+* {{ja-readings|kanyoon=[[ゆ]] (yu)|goon=[[す]] (su)|kanon=[[しゅ]] (shu)|kun=[[おくる]] (okuru), [[いたす]] (itasu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=車09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thâu]], [[thua]]|rs=車09}}
+
+# {{defn|lang=vi|sort=車09}}
+
+[[zh-min-nan:輸]]
+[[fr:輸]]
+[[ko:輸]]
+[[hu:輸]]
+[[mg:輸]]
+[[nl:輸]]
+[[ja:輸]]
+[[pl:輸]]
+[[th:輸]]
+[[chr:輸]]
+[[zh:輸]]

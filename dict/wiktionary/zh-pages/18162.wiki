@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|槜}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=13|sn=17|four=40927|canj=DOGS|ids=⿰木雋}}
+
+# [[wooden]] [[rammer]] or [[pestle]]
+# [[ancient]] [[place]] in modern-day [[Zhejiang]] [[province]]
+
+====References====
+* {{Han ref|kx=0556.120|dkj=15644|dj=0945.300|hdz=21302.130|uh=6A87|ud=27271|bh=ECFC|bd=60668}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuì
+|c=zeoi3
+|mc=y
+|oc=y
+|ma=
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木13}}
+
+# {{defn|lang=ja|sort=木13}}
+
+====Readings====
+* {{ja-readings|on=[[すい]] (sui), [[さい]] (sai), [[ずい]] (zui)|kun=[[つく]] (tsuku)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木13| hanviet = tuy}}
+
+# {{defn|lang=vi|sort=木13}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6a87 Nom Foundation]
+
+[[fr:檇]]
+[[hu:檇]]
+[[pl:檇]]
+[[th:檇]]
+[[zh:檇]]

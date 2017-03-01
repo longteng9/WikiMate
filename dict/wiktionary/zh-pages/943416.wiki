@@ -1,0 +1,57 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=pèiliè
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[arrangement]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|はい|れつ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|はいれつ|y=o|acc=0|acc_ref=NHK}}
+
+===Alternative forms===
+* {{l|ja|排列}}
+
+===Noun===
+{{ja-noun|はいれつ}}
+
+# [[arrangement]], [[alignment]], [[placement]]
+# {{lb|ja|mathematics|programming|sort=はいれつ}} [[array]], [[table]]
+# {{lb|ja|genetics|sort=はいれつ}} [[sequence]] (of DNA)
+
+====Compounds====
+* [[一次元配列]] ([[いちじげんはいれつ]], ichijigenhairetsu): 1-dimensional array, [[vector]]
+* [[二次元配列]] ([[にじげんはいれつ]], nijigenhairetsu): 2-dimensional array
+* [[多次元配列]] ([[たじげんはいれつ]], tajigenhairetsu): [[multidimensional array]]
+
+====Related terms====
+* [[ベクトル]] (bekutoru): [[vector]]
+* [[行列]] ([[ぎょうれつ]], gyōretsu): [[matrix]]
+
+===Verb===
+{{ja-verb-suru|はいれつ}}
+
+# put [[in order]], [[arrange]], [[lay out]]
+
+====Conjugation====
+{{ja-suru|はいれつ}}
+
+===References===
+<references/>
+
+[[mg:配列]]
+[[ja:配列]]
+[[pl:配列]]
+[[chr:配列]]
+[[zh:配列]]

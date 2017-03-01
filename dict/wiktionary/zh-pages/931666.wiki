@@ -1,0 +1,64 @@
+{{also|放弃}}
+==Chinese==
+{{zh-forms|s=放弃}}
+
+===Pronunciation===
+{{zh-pron
+|m=fàngqì
+|c=fong3 hei3
+|h=pfs=fong-hi/s:piong-hi
+|mn=hòng-khì
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[give up]]; to [[renounce]]; to [[abandon]]
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほう|き|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|ほうき|acc=1|acc_ref=DJR}}
+
+===Alternative forms===
+* [[抛棄]]
+
+===Noun===
+{{ja-noun|ほうき|hhira=はうき}}
+
+# [[abandonment]], [[giving up]]
+# [[renunciation]]
+
+====Antonyms====
+* {{sense|abandonment, giving up}} {{ja-r|維持|いじ}}, {{ja-r|護持|ごじ}}
+* {{sense|renunciation}} {{ja-r|簒奪|さんだつ}}, {{ja-r|横取り|よこどり}}
+
+===Verb===
+{{ja-verb-suru|ほうき|hhira=はうき}}
+
+# [[abandon]], [[give up]]
+#: {{ja-usex|核施設を'''放棄'''する|かく しせつ を '''ほうき''' する。|'''abandon''' a nuclear plant}}
+# [[renounce]]
+
+====Conjugation====
+{{ja-suru|ほうき}}
+
+===References===
+<references/>
+
+[[zh-min-nan:放棄]]
+[[ko:放棄]]
+[[it:放棄]]
+[[lt:放棄]]
+[[hu:放棄]]
+[[mg:放棄]]
+[[fj:放棄]]
+[[ja:放棄]]
+[[chr:放棄]]
+[[zh:放棄]]

@@ -1,0 +1,144 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=06|sn=9|four=68061|canj=ROMR|ids=⿰口合}}
+
+# [[sound]] of [[laughter]], [[yawn]]ing; often used for [[transliteration]]
+
+====References====
+* {{Han ref|kx=0189.060|dkj=03594|dj=0408.120|hdz=10619.050|uh=54C8|ud=21704|bh=ABA2|bd=43938}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|口|合|c1=s|c2=p|t1=mouth|ls=psc}}.
+
+===Etymology 1===
+
+====Pronunciation====
+{{zh-pron
+|m=hā
+|c=haa1,kaa1,haai1,haa5
+|c_note=kaa1, haai1, haa5 - rare
+|m-s=ha1
+|h=pfs=hâ
+|md=
+|mn=ha
+|w=
+|mc=
+|oc= <!--data is present, but it says itself that it's unrelated to "ha" (perhaps merits its own etymology section?)-->
+|cat=n
+}}
+{{attention|zh|more pronunciations needed}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|onomatopoeia}} [[sound]] of [[laughter]]
+# to [[breathe out]]
+# to [[bend]]; to [[stoop]]
+# {{zh-short|哈薩克斯坦|Kazakhstan}}
+# {{zh-short|哈爾濱|Harbin}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=hǎ
+|m-s=ha3
+|cat=v,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|dialectal}} to [[scold]]; [[reprimand]]
+# [[Pekingese]]; [[pug]]
+#* {{zh-x|哈{hǎ}巴{ba}狗|Chinese pug}}
+
+===Etymology 3===
+
+====Pronunciation====
+{{zh-pron
+|m-s=ha3
+|cat=a
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Sichuanese|Wuhan|Shuangfeng}} [[silly]]; [[stupid]]
+
+====Synonyms====
+{{zh-dial|傻}}
+
+===Etymology 4===
+
+====Pronunciation====
+{{zh-pron
+|m-s=ha2
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Sichuanese}} to [[tickle]]
+
+===Compounds===
+{{zh-der|哈勃|哈爾濱:Harbin|哈欠:yawn|哈日族:Taiwanese Japanophile|哈囉}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口06}}
+
+# {{defn|lang=ja|sort=口06}}
+
+====Readings====
+{{ja-readings
+| goon=[[そう]] (sō)
+| kanon=[[ごう]] (gō)
+| kanyoon=[[は]] (ha)
+| kun=[[のむ]] (nomu), [[すする]] (susuru), [[くう]] (kuu)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=합|rv=hap|mr=hap}}
+
+# {{defn|lang=ko|sort=口06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cáp]], [[hóp]], [[hộp]], [[ngáp]], [[họp]], [[hớp]], [[ngớp]]|rs=口06}}
+
+# {{defn|lang=vi|sort=口06}}
+
+[[zh-min-nan:哈]]
+[[da:哈]]
+[[fr:哈]]
+[[li:哈]]
+[[hu:哈]]
+[[mg:哈]]
+[[ja:哈]]
+[[no:哈]]
+[[pl:哈]]
+[[th:哈]]
+[[zh:哈]]

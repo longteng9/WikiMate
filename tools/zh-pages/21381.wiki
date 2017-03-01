@@ -1,0 +1,69 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=104|rad=疒|as=11|sn=16|four=00127|canj=KKRB|ids=⿸疒𦙲}}
+
+# lameness, paralysis of hands, leg
+
+====References====
+* {{Han ref|kx=0779.320|dkj=22464|dj=1189.170|hdz=42695.020|uh=7638|ud=30264|bh=BF61|bd=48993}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qué
+|ma=y
+|c=ke4,koe4
+|h=pfs=
+|md=
+|mn=qz,xm,zz:kiô/qz:khêr/tp,xm:khê/kh,zz:khôe
+|mn_note=kiô - literary; khêr/khê/khôe - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=疒11}}
+
+# {{defn|lang=ja|sort=疒11}}
+
+====Readings====
+* {{ja-readings|on=[[か]] (ka)|kun=|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[qua]], [[cài]]|rs=疒11}}
+
+# {{defn|lang=vi|sort=疒11}}
+
+[[zh-min-nan:瘸]]
+[[fr:瘸]]
+[[hu:瘸]]
+[[mg:瘸]]
+[[no:瘸]]
+[[pl:瘸]]
+[[th:瘸]]
+[[chr:瘸]]
+[[zh:瘸]]

@@ -1,0 +1,108 @@
+{{character info/new}}
+{{also|兹|玆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=06|sn=12|four=44732|canj=TVII,XTVII|ids=⿱艹𢆶}}
+
+====References====
+* {{Han ref|kx=1028.290|dkj=30911|dj=1487.240|hdz=53212.160|uh=8332}}
+
+----
+
+==Chinese==
+{{zh-forms|s=兹}}
+
+===Etymology 1===
+{{rfe|lang=zh|Especially regarding "this"; any relation to 此 or 之?}}
+
+====Alternative forms====
+* {{zh-l|玆}}
+
+====Pronunciation====
+{{zh-pron
+|m=zī
+|c=zi1
+|mc=
+|oc=y
+|ma=
+|cat=pron,n,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[this]]
+# [[year]]; [[time]]
+# the [[present]]; [[now]]
+# (={{zh-l|滋}}) more than
+# {{surname|lang=zh}}
+
+===Etymology 2===
+{{rfe|lang=zh}}
+
+====Alternative forms====
+* {{zh-l|玆}}
+
+====Pronunciation====
+{{zh-pron
+|m=cí
+|c=ci4
+|mc=
+|oc=
+|ma=
+|cat=pn
+}}
+
+====Proper noun====
+{{zh-proper noun}}
+
+# {{zh-only used in|龜茲}}
+
+====Derived terms====
+* {{zh-l|龜茲}}
+
+===Etymology 3===
+{{zh-see|玆|v}}
+
+===References===
+* {{R:twedu|A03473}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸06}}
+
+# {{defn|lang=ja|sort=艸06}}
+
+====Readings====
+* {{ja-readings|on=[[じ]] (ji), [[し]] (shi)|kun=[[しげる]] (shigeru), [[ます]] (masu), [[むしろ]] (mushiro)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=자|eumhun=|rv=ja|mr=cha|y=ca}}
+
+# {{defn|lang=ko|sort=艸06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tư]]|rs=艸06}}
+
+# {{defn|lang=vi|sort=艸06}}
+
+[[fr:茲]]
+[[ko:茲]]
+[[hu:茲]]
+[[mg:茲]]
+[[ja:茲]]
+[[pl:茲]]
+[[th:茲]]
+[[zh:茲]]

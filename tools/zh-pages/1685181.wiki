@@ -1,0 +1,30 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chéngxù
+|c=cing4 zeoi6
+|h=pfs=chhàng-si
+|mn=xm,tp,kh:thêng-sū/tp,kh:têng-sū/zz:thêng-sī/qz:thêng-sǐr
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[procedure]]; [[sequence]]
+#: {{zh-x|法定 程序|legal '''procedure'''}}
+# [[computer program]]
+
+{{zh-cat|Intermediate}}
+
+[[zh-min-nan:程序]]
+[[ko:程序]]
+[[kn:程序]]
+[[hu:程序]]
+[[mg:程序]]
+[[ja:程序]]
+[[chr:程序]]
+[[zh:程序]]

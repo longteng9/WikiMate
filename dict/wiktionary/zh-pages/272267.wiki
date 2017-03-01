@@ -1,0 +1,33 @@
+{{also|斷念}}
+==Chinese==
+{{zh-see|斷念}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|だん|ねん|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|だんねん|yomi=o}}
+
+===Noun===
+{{ja-noun|だんねん}}
+
+# [[giving up]], [[abandonment]], [[resignation]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|だんねん}}
+
+# [[give up]]
+#: {{ja-usex|開発を断念した。|かいはつ を だんねん した。|He gave up the development.}}
+
+====Conjugation====
+{{ja-suru|だんねん}}
+
+====Synonyms====
+* {{ja-r|諦める|あきらめる}}
+
+[[mg:断念]]
+[[ja:断念]]
+[[chr:断念]]
+[[zh:断念]]

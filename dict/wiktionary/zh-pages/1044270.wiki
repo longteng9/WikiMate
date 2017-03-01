@@ -1,0 +1,66 @@
+{{also|圣火}}
+==Chinese==
+{{zh-forms|s=圣火}}
+
+===Pronunciation===
+{{zh-pron
+|m=shènghuǒ
+|c=sing3 fo2
+|h=pfs=sṳn-fó
+|mn=sèng-hóe/sèng-hé
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[holy]] [[fire]]
+# {{zh-abbrev|奧運聖火}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|か|yomi=o}}
+
+===Etymology===
+From {{etyl|ltc|ja|sort=せいか}} compound {{m|ja|聖火|tr=syengH xwaX|lit=holy or sacred fire}}. Compare modern {{etyl|cmn|-}} traditional {{m|cmn|聖火}} and simplified {{m|cmn|圣火|tr=shènghuǒ||sacred fire; Olympic flame}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|a|せ|いか}}<ref name="DJR">{{R:Daijirin}}</ref><ref name="SMK5">{{R:Shinmeikai5}}</ref><ref name="NHK">{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[se̞ːka̠]}}
+
+===Noun===
+{{ja-noun|せいか|hhira=せいくわ}}
+
+# a [[sacred]] [[fire]] or [[flame]]
+# the [[Olympic]] [[torch]]
+
+====Derived terms====
+* {{ja-l|聖火リレー|せいかりれー|seika rirē}}: Olympic torch [[relay]]
+
+====Coordinate terms====
+* {{ja-l|聖水|せいすい|seisui}}: [[holy water]]
+* {{ja-l|聖酒|せいしゅ|seishu}}: [[sacramental]] [[wine]]
+* {{ja-l|聖香|きよか|kiyoka}}: [[sacramental]] [[incense]]
+* {{ja-l|聖地|せいち|seichi}}: [[hallow]]ed [[ground]], [[holy]] [[place]]; the [[Holy Land]]
+* {{ja-l|聖地面|せいちめん|seichimen}}: [[hallow]]ed [[ground]]
+
+====Antonyms====
+* {{ja-l|業火|ごうか|gōka}}: [[hellfire]]
+
+====External links====
+* {{pedialite|lang=ja}}
+* {{pedialite|Sacred fire}}
+* {{pedialite|Eternal flame}}
+
+===References===
+<references/>
+
+[[zh-min-nan:聖火]]
+[[fr:聖火]]
+[[ko:聖火]]
+[[hu:聖火]]
+[[mg:聖火]]
+[[ja:聖火]]
+[[zh:聖火]]

@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=81|rad=比|as=05|sn=9|four=21331|canj=PPPH|ids=⿱比必}}
+
+# [[guard]] [[against]], [[take care]]
+# [[caution]]
+
+====References====
+* {{Han ref|kx=0591.040|dkj=16750|dj=0983.050|hdz=21418.030|uh=6BD6|ud=27606|bh=CF68|bd=53096}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bì
+|c=bei3
+|mn=pì
+|mc=y
+|oc=y
+|ma=
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=比05}}
+
+# {{defn|lang=ja|sort=比05}}
+
+====Readings====
+* {{ja-readings|on=[[ひ]] (hi)|kun=[[つつしむ]] (tsutsushimu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=비|eumhun=|rv=bi|mr=pi|y=pi}}
+
+# {{defn|lang=ko|sort=比05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=比05| hanviet = bí}}
+
+# {{defn|lang=vi|sort=比05}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6bd6 Nom Foundation]
+
+[[fr:毖]]
+[[ko:毖]]
+[[hu:毖]]
+[[mg:毖]]
+[[pl:毖]]
+[[th:毖]]
+[[zh:毖]]

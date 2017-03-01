@@ -1,0 +1,72 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=11|sn=14|four=65071|canj=RQJM,RQJS|ids=⿰口彗}}
+
+# [[tiny]]
+# [[chirp]]ing, [[whistling]]
+# [[shrill]] [[sound]], [[sharp]]
+
+====References====
+* {{Han ref|kx=0205.270|dkj=04196|dj=0428.200|hdz=10672.080|uh=5612|ud=22034|bh=E14A|bd=57674}}
+* [http://minhakka.ling.sinica.edu.tw/bkg/hakyin/search.php?DETAIL=1&LIMIT=id=6374&dbname=su_tian_1&graph=2 Academia Sinica - Hakka-English Dictionary]
+* [http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=1&wdqb=%E5%98%92 MDBG Chinese-English Dictionary (CC-CEDICT)]
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=|y=wai3}}
+
+# {{defn|lang=yue|sort=口11}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口11}}
+
+# {{defn|lang=ja|sort=口11}}
+
+====Readings====
+* {{ja-readings|on=[[けい]] (kei), [[け]] (ke)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=혜|rv=hye|mr=hye}}
+
+# {{defn|lang=ko|sort=口11}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[huì]] ([[hui4]]), [[ǒu]] ([[ou3]]), [[òu]] ([[ou4]])|wg=hui<sup>4</sup>, ou<sup>3</sup>, ou<sup>4</sup>}}
+
+# {{defn|lang=cmn|sort=口11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[toé]]|rs=口11}}
+
+# {{defn|lang=vi|sort=口11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5612 Nom Foundation]
+
+[[fr:嘒]]
+[[li:嘒]]
+[[hu:嘒]]
+[[pl:嘒]]
+[[th:嘒]]
+[[zh:嘒]]

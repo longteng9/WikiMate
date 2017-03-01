@@ -1,0 +1,107 @@
+{{character info/new}}
+{{also|焼|烧}}
+==Translingual==
+{{Han simplified forms|燒|焼|烧}}
+
+===Han character===
+{{Han char|rn=86|rad=火|as=12|sn=16|four=94811|canj=FGGU|ids=⿰火堯}}
+
+# [[burn]]
+# [[bake]]
+# [[heat]]
+# [[roast]]
+
+====Descendants====
+* [[焼]], [[烧]]
+
+====References====
+* {{Han ref|kx=0683.080|dkj=19420|dj=1095.080|hdz=32231.070|uh=71D2|ud=29138|bh=BF4E|bd=48974}}
+
+----
+
+==Chinese==
+{{zh-forms|s=烧|alt=焼}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|火|堯|c1=s|c2=p|t1=fire|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shāo
+|c=siu1
+|h=pfs=sêu
+|md=
+|mn=siau/sio
+|mn_note=siau - literary; sio - vernacular
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[burn]]
+#: {{zh-x|燃燒|to burn}}
+# to [[roast]]
+#: {{zh-x|燒肉|[[siu yuk]]}}
+# {{lb|zh|Cantonese}} to [[set off]] (firecrackers)
+#: {{zh-x|燒 炮{paau3}仗{zoeng6-2}|to '''set off''' firecrackers|C}}
+# {{lb|zh|Cantonese|electronics}} to [[burn out]]
+
+===Compounds===
+{{zh-der|紅燒|紅燒肉|火燒兒|燒杯|燒餅|燒菜|燒飯|燒高香|燒鍋|燒焊|燒化|燒荒|燒毀|燒火|燒鹼|燒結|燒酒|燒炕|燒烤|燒墾|燒料|燒賣|燒瓶|燒殺搶掠|燒傷|燒香|燒心|燒窯|燒紙|燒灼|不伏燒埋|不服燒埋|串燒|二度燒傷|交趾燒|割燒|叉燒|叉燒包|吃燒餅|堆花燒酒|完全燃燒|屠燒|山田燒墾|延燒|引火燒身|怒火中燒|惹火燒身|扛子火燒|揀佛燒香|摧燒|槓子火燒|湯燒火熱|火燒|火燒屁股|火燒心|火燒火燎|火燒眉毛|火燒祆廟|火燒車|火燒雲|灼燒|灼背燒頂|烙燒餅|焚燒|煮鶴燒琴|燃燒|燒丹鍊汞|燒冷灶|燒刀子|燒利市|燒包|燒喇嘛|燒埋|燒埋錢|燒夷彈|燒尾|燒春|燒果|燒水|燒活|燒火焜|燒焦|燒煉|燒王船|燒眉之急|燒石膏|燒箱庫|燒紙引鬼|燒肉|燒臘|燒葬|燒藍|燒豬|燒銲|燒錄|燒錄器|燒錄機|燒頭香|燒餅歌|燒香磕頭|燒鴨子|燜燒鍋|發燒|發燒友|發燒客|發燒度|發高燒|白燒|磕頭燒香|裡外發燒|赤舌燒城|退燒|酥燒|釉燒|野燒|銅鑼燒|鍛燒|鐵板燒|飢火燒腸|馮諼燒券|高燒|麥燒}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火12|style=ky|shin=焼}}
+
+# {{defn|lang=ja|sort=火12}}
+
+====Readings====
+{{ja-readings|goon=[[しょう]] (shō)|kanon=[[しょう]] (shō)|kun=[[やく]] (yaku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[소]]|eumhun=|rv=so|mr=so|y=so}}
+
+# to [[burn]]
+# [[fire]]
+
+====Synonyms====
+* {{l|ko|烙}} (낙, ''nag'')
+* {{l|ko|焠}} (쉬, ''swi'')
+* {{l|ko|灼}} (작, ''jag'')
+
+====Compounds====
+* [[燒印]] ([[소인]], ''soin'') [[brand]], [[branding iron]]
+* [[燒酒]] ([[소주]], ''soju'')
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thiêu]], [[thiu]], [[sao]]|rs=火12}}
+
+# {{defn|lang=vi|sort=火12}}
+
+[[zh-min-nan:燒]]
+[[fr:燒]]
+[[ko:燒]]
+[[li:燒]]
+[[hu:燒]]
+[[mg:燒]]
+[[ja:燒]]
+[[pl:燒]]
+[[th:燒]]
+[[chr:燒]]
+[[zh:燒]]

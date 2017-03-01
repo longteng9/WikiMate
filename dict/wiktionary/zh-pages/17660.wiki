@@ -1,0 +1,192 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=07|sn=11|four=22904|canj=HND,XHND|ids=⿱利木}}
+
+====References====
+* {{Han ref|kx=0530.120|dkj=14873|dj=0918.100|hdz=21215.100|uh=68A8|ud=26792|bh=B1F9|bd=45561}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|利|木|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lí
+|c=lei4,lei4-2
+|h=pfs=lì
+|md=lì/lài
+|md_note=lì - “pear”; lài - used in {{zh-l|*黃梨}}
+|mn=lâi
+|w=3li
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[pear]]
+# {{†}} {{zh-alt-form|剺|to [[cut]]}}
+
+====Synonyms====
+* {{zh-l|梨子}}
+
+===Compounds===
+{{zh-der|梨乾兒|梨膏|梨木|梨園|梨園戲|梨園子弟|交梨火棗|不查梨|孔融讓梨|梨頰微渦|梨花大鼓|白梨|梨雲|梨棗|災梨禍棗|梨花片|破麥破梨|梨樹|梨花簡|查梨|禍棗災梨|棠梨|梨園弟子|玉嬌梨|梨糕|梨子|梨園行|杏雨梨雲|楓梨|梨渦|梨花帶雨|紅梨記|鴨兒梨|鳳梨|花梨|訶梨勒|雪梨|酪梨|鵝梨|鳥梨|雨打梨花|讓棗推梨|阿闍梨|鴨兒廣梨|賣查梨}}
+
+{{zh-cat|Fruits}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木07}}
+
+# [[pear]]
+
+====Readings====
+{{ja-readings
+|goon=[[り]] (ri)
+|kanon=[[り]] (ri)
+|kanyoon=[[りん]] (rin)
+|kun=[[なし]] (nashi)
+|nanori=[[か]] (ka)
+}}
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja|ナシ}}
+{{wikipedia|Pyrus pyrifolia}}
+[[File:Pear-tree,katori-city,japan.JPG|thumb|250px|{{lang|ja|梨}} (''nashi'', ''ri'', ''rin'': the {{l|en|tree}} and the {{l|en|fruit}}.]]
+</div>
+{{ja-kanjitab|なし|yomi=kun}}
+From {{etyl|ojp|ja|sort=なし}}. Derivation unclear, with numerous theories. Two of the more common are given below.
+
+* May be originally a compound of {{compound|lang=ja|sort=なし|中|tr1=na</i>, hypothesized root of modern <i>naka|t1=middle, center|白|tr2=shiro|t2=white}} in reference to the pale flesh of the fruit.
+
+: {{IPAchar|*/na ɕiro/}} → {{IPAchar|/naɕi/}}
+
+* Alternatively, may be originally a compound of {{compound|lang=ja|sort=なし|中|tr1=na</i>, hypothesized root of modern <i>naka|t1=middle, center|酢|tr2=su|t2=sour, acidic}} in reference to the way the flavor of the fruit becomes more astringent closer to the core.
+
+: {{IPAchar|*/na su/}} → {{IPAchar|/naɕi/}}
+
+====Pronunciation====
+{{ja-pron|yomi=kun|acc=2|acc_ref=DJR|acc2=0|acc2_ref=DJR|なし}}
+
+====Alternative forms====
+* {{ja-l|ナシ}}
+
+====Noun====
+{{ja-noun|なし|ナシ}}
+
+# {{vern|Japanese pear}} {{qual|[[Pyrus pyrifolia]]}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|梨%河%豚|なし%ふ%ぐ}}: the {{vern|pear puffer}}: {{taxlink|Gastrophysus vermicularis|species|noshow=1|ver=161102}}, syn. {{taxlink|Takifugu vermicularis|species|noshow=1|ver=161102}}
+* {{ja-r|梨子%地|なし%じ}}, {{ja-r|梨%地|なし%じ}}: {{l|en|nashiji}}, a {{l|en|lacquer}}ing technique using gold or silver powder or flakes
+{{der-mid}}
+* {{ja-r|青梨|あお なし}}: a {{vern|Harbin pear}}, {{vern|Ussurian pear}}, {{vern|Chinese pear}}: {{taxlink|Pyrus ussuriensis var. hondoensis|variety|noshow=1|ver=161102}}
+* {{ja-r|玄%圃梨|けん%ぽ なし}}: the {{vern|Japanese raisin tree}}: {{taxlink|Hovenia dulcis|species|noshow=1|ver=161102}}
+* {{ja-r|猿梨|さる なし}}: the {{vern|hardy kiwi}}, {{vern|kiwi berry}}, or {{vern|tara vine}}: {{taxlink|Actinidia arguta|species|noshow=1|ver=161102}}
+* {{ja-r|西洋梨|せいよう なし}}: the European or Western pear: ''[[Pyrus communis]]''
+* {{ja-r|浜梨|はま なし}}: the {{vern|rugosa rose}}, {{vern|Japanese rose}}, or {{vern|Ramanas rose}}: {{taxlink|Rosa rugosa|species|noshow=1|ver=161102}}
+* {{ja-r|山梨|やま なし}}: the {{vern|wild nashi}} or {{vern|wild Japanese pear}}: {{taxlink|Pyrus pyrifolia var. pyrifolia|variety|noshow=1|ver=161102}}
+* {{ja-r|山梨県|^やまなし-けん}}: {{w|Yamanashi prefecture}}
+* {{ja-r|洋梨|ようなし}}: the European or Western pear: ''[[Pyrus communis]]''
+* {{ja-r|鰐梨|わに なし}}: the {{l|en|avocado}} or {{l|en|alligator pear}}: {{taxlink|Persea americana|species|noshow=1|ver=161102}}
+{{der-bottom}}
+
+=====Usage notes=====
+{{U:ja:biology|ナシ}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=on|り}}
+From {{etyl|ltc|ja|sort=り}} {{m|zh|梨|tr=*li}}. Compare modern {{etyl|cmn|-}} reading ''lí''.
+
+====Pronunciation====
+{{ja-pron|yomi=on|り}}
+
+====Affix====
+{{ja-pos|affix|り}}
+
+# {{vern|Japanese pear}} {{qual|[[Pyrus pyrifolia]]}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|梨%園|り%えん}}: the {{l|en|theatrical}} {{l|en|world}}, the world of the {{l|en|theater}}
+* {{ja-r|梨%果|り%か}}: a [[pome]]
+* {{ja-r|梨%花|り%か}}, {{ja-r|梨%華|り%か}}, {{ja-r|梨%英|り%か}}: {{l|en|pear}} {{l|en|flower}}, pear {{l|en|blossom}}
+* {{ja-r|梨%状%筋|り%じょう%きん}}: the {{l|en|piriformis}} muscle
+{{der-mid}}
+* {{ja-r|阿%闍%梨|あ%じゃ%り}}, {{ja-r|阿%闍%梨|あ%ざ%り}}: a high {{l|en|monk}} or high {{l|en|priest}}; a {{l|en|monk}} who conducts religious {{l|en|service}}s; an {{l|en|initiate}}
+* {{ja-r|頗%梨|は%り}}: {{l|en|quartz}}; {{l|en|glass}}
+* {{ja-r|鳳%梨|ほう%り}}: {{l|en|pineapple}} {{qualifier|obsolete}}
+{{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=kanyo|りん}}
+Alteration of ''ri'' reading.
+
+{{IPAchar|/ri/}} → {{IPAchar|/rin/}}
+
+====Pronunciation====
+{{ja-pron|yomi=kanyo|りん}}
+
+====Affix====
+{{ja-pos|affix|りん}}
+
+# {{l|en|pear}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|花%梨|か%りん}} the {{l|en|Burmese rosewood}}, {{vern|angsana}}, [[amboyna]]: {{taxlink|Pterocarpus indicus|species|noshow=1|ver=161102}}; the {{vern|flowering quince}}: {{taxlink|Pseudocydonia sinensis|species|noshow=1|ver=161102}}; the {{vern|Chinese quince}}: {{taxlink|Chaenomeles sinensis|species|noshow=1|ver=161102}}; the {{l|en|quince}}: ''[[Cydonia oblonga]]''
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|なし]]
+[[Category:ja:Fruits|なし]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[리]]>[[이]]|eumhun=|rv=ri>i|mr=ri>i|y=li>i}}
+
+# pear
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lê]], [[lệ]]|rs=木07}}
+
+# pear
+
+[[da:梨]]
+[[fr:梨]]
+[[ko:梨]]
+[[ky:梨]]
+[[lo:梨]]
+[[hu:梨]]
+[[mg:梨]]
+[[ja:梨]]
+[[no:梨]]
+[[pl:梨]]
+[[th:梨]]
+[[chr:梨]]
+[[tr:梨]]
+[[zh:梨]]

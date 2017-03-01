@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms|alt=憳忒}}
+
+===Glyph origin===
+Ideogrammatic, from {{zh-l|*上|up}}, {{zh-l|*下|down}} and {{zh-l|*心|heart}}.
+
+===Etymology 1===
+Word etymology unknown. Earliest attestation was in {{w|Song Dynasty}}, when the word was pronounced like *''tam tik''. Likely reduplicative in origin, of a type akin to Vietnamese {{m|vi|từ láy}}, from an onomatopoeic root ''*tik'' meaning “to palpitate”. Compare {{zh-l|忒忒|tètè < *tik tik|to throb (abnormally)}} as well as Vietnamese {{m|vi|thấp thỏm}} ~ {{m|vi|nhấp nhỏm||uneasy, fidgety}}.
+
+====Pronunciation====
+{{zh-pron
+|m=tǎntè
+|c=taan2 tik1
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# [[perturbed]]; [[nervous]]; [[uneasy]]; [[fidgety]]
+
+=====Synonyms=====
+* {{zh-l|不安}}
+* {{zh-l|糾結}}
+* {{zh-l|心神不定}}
+* {{zh-l|坐立不安}}
+* {{zh-l|緊張}}
+
+=====Derived terms=====
+{{zh-der|忐忑不定|忐忑不安|忐忐忑忑}}
+
+===Etymology 2===
+
+====Pronunciation====
+{{zh-pron
+|m=kěngdǎo
+|cat=a
+}}
+
+====Adjective====
+{{zh-adj}}
+
+# {{lb|zh|archaic}} [[sincere]]
+
+[[hu:忐忑]]
+[[mg:忐忑]]
+[[ja:忐忑]]
+[[zh:忐忑]]

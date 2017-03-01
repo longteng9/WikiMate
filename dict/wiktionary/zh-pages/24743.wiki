@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+{{ja-forms|艹|艹|艹}}
+
+===Alternative forms===
+The non-radical form of this character is [[艸]], with six strokes, and that appears as a radical in a few characters ([[芔]], [[茻]], and stacked vertically in [[芻]]).
+
+In almost all other characters, however, the radical is a simplified top form. This top form is traditionally written as two separated crosses, [[艹]], with four strokes (like 十&nbsp;十, separation may not be visible at small font size). In its modern form, it is a single unit of 艹 (or in some character styles [[䒑]]), with three strokes. Traditional Chinese characters today use either the traditional or modern radical form, while simplified Chinese characters, Japanese [[shinjitai]], and Korean [[Hanja]] use the modern radical. Additionally, in a few characters ([[茍]], [[蘷]], [[虁]]), the radical frequently appears as two separated parts like sideways "T" shapes, [[艹]], both in traditional and simplified characters. All this can lead to the grass radical being counted as three, four, or six strokes.
+
+The Unicode encodings for the different forms are:
+
+* normal character ([[艸]]) U+8278 in the CKJ Unified Ideographs block
+* full radical form ([[⾋]]) U+2F8B in the Kangxi Radicals block
+* modern 3-stroke top radical ([[艹]]) U+8279 in the CKJ Unified Ideographs block
+* alternate 3-stroke top radical ([[䒑]]) U+4491 in the CKJ Unified Ideographs block
+* traditional 4-stroke double-cross top radical ([[艹]]) U+FA5E in the CJK Compatibility Ideographs block
+* 4-stroke T-shape top radical ([[艹]]) U+FA5D in the CJK Compatibility Ideographs block
+
+In Hong Kong, the stroke order for the traditional top radical of two crosses, is vertical, horizontal, vertical, horizontal, rather than the usual order of vertical, horizontal, horizontal, vertical.
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=00|sn=3|four=|canj=JJ,XJJ}}
+
+# [[grass]]
+# radical number 140
+
+====References====
+* {{Han ref|kx=1017.011|dkj=30639|dj=1475.070|hdz=53172.011|uh=8279|ud=33401}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=cǎo
+|c=
+|mc=
+|oc=
+|ma=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thảo]]|rs=艸00}}
+
+# {{defn|lang=vi|sort=艸00}}
+
+[[Category:CJKV radicals| ]]
+
+[[fr:艹]]
+[[ko:艹]]
+[[li:艹]]
+[[pl:艹]]
+[[ru:艹]]
+[[th:艹]]
+[[zh:艹]]

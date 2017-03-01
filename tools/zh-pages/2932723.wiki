@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|待|避}}
+
+===Noun===
+{{ja-noun|たいひ}}
+# taking [[shelter]]
+# {{lb|ja|railroads|sort=たいひ}} [[shunt]]ing
+
+===Verb===
+{{ja-verb-suru|k|hira=たいひ|rom=taihi}}
+# take [[shelter]]
+# {{lb|ja|railroads|sort=たいひする}} [[shunt]] to allow another train to pass
+
+====Conjugation====
+{{ja-suru|待避|たいひ|taihi}}
+
+[[ko:待避]]
+[[ja:待避]]
+[[zh:待避]]

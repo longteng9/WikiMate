@@ -1,0 +1,42 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xīnxíng
+|c=san1 jing4
+|mn=sin-hêng
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[new]]-style; new-[[type]]; new
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|かた|k2=がた|r=y|yomi=ok}}
+
+===Pronunciation===
+* {{ja-pron|しんがた|y=j|acc=0|acc_ref=NHK}}
+
+===Alternative forms===
+* {{l|ja|新形}}
+
+===Etymology===
+{{prefix|新|型|lang=ja|t1=new|t2=model|sort=かた'}}
+
+===Noun===
+{{ja-noun|しんがた}}
+
+# new style, new model
+
+===References===
+<references/>
+
+[[zh-min-nan:新型]]
+[[ko:新型]]
+[[ja:新型]]
+[[zh:新型]]

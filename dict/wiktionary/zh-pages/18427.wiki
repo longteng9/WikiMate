@@ -1,0 +1,92 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=78|rad=歹|as=06|sn=10|four=15290|canj=MNHJD|ids=⿰歹朱}}
+
+# {{lb|zh|classical}} to [[decapitate]]; to [[behead]], to [[cut off]]
+# [[special]], [[exceptional]], [[different]], [[uncommon]]
+
+====Synonyms====
+* {{sense|decapitate}} {{l|mul|刎}}
+* {{sense|special, different}} {{l|mul|特}}, {{l|mul|異}}
+
+====Antonyms====
+* {{sense|special, different}} {{l|mul|常}} ([[common]])
+
+====References====
+* {{Han ref|kx=0580.250|dkj=16451|dj=0972.330|hdz=21385.130|uh=6B8A|ud=27530|bh=AEED|bd=44781}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shū
+|c=syu4
+|h=pfs=
+|md=
+|mn=sû
+|w=
+|mc=y
+|oc=y
+|cat=a,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=歹06}}
+
+# {{defn|lang=ja|sort=歹06}}
+
+====Readings====
+* {{ja-readings|goon=[[じゅ]] (ju), [[ず]] (zu)|kanon=[[しゅ]] (shu)|kun=[[こと]] (koto), [[ことなる]] (kotonaru), [[ころす]] (korosu), [[たつ]] (tatsu)}}
+
+====Definitions====
+# {{sense|ころす、たつ}} [[decapitate]]
+# {{sense|ことなる}} [[special]], [[exceptional]], [[uncommon]]
+
+====Compounds====
+* {{sense|decapitate}} [[殊死]]
+* {{sense|special}} [[特殊]], [[殊勲]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=수|eumhun=|rv=su|mr=su|y=swu}}
+
+# {{defn|lang=ko|sort=歹06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thùa]], [[thù]], [[thò]]|rs=歹06}}
+
+# {{defn|lang=vi|sort=歹06}}
+
+[[fr:殊]]
+[[ko:殊]]
+[[hu:殊]]
+[[mg:殊]]
+[[ja:殊]]
+[[no:殊]]
+[[pl:殊]]
+[[th:殊]]
+[[zh:殊]]

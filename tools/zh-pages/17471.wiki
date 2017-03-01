@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|奈}}
+==Translingual==
+{{rfi|mul}}
+{{wikipedia|Malus asiatica}}
+{{wikispecies|Malus asiatica}}
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=40901|canj=DMMF,XDMMF|ids=⿱木示}}
+
+====References====
+* {{Han ref|kx=0520.230|dkj=14659|dj=0908.180|hdz=21176.090|uh=67F0|ud=26608|bh=CF55|bd=53077}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|t1=tree|示}} – a kind of tree. Meaning of “endure, bear” later becoming [[奈]].
+
+===Pronunciation===
+{{zh-pron
+|m=nài
+|c=noi6
+|mn=nāi
+|mc=y
+|oc=y
+|ma=
+|cat=pn,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# The {{vern|Chinese apple}} or [[crabapple]], {{taxlink|Malus asiatica|species|noshow=1}}.
+# [[bear]], [[stand]], [[endure]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=木05}}
+
+# To [[bear]] or [[endure]].
+# A [[crabapple]] [[tree]].
+
+====Readings====
+{{ja-readings
+|on=[[な]] (na), [[だい]] (dai)
+|kun=[[いかん]] (ikan), [[からなし]] (karanashi)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=내|eumhun=|rv=nae|mr=nae|y=nay}}
+
+# {{defn|lang=ko|sort=木05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木05|hanviet=nại}}
+
+# {{defn|lang=vi|sort=木05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=67f0 Nom Foundation]
+
+[[fr:柰]]
+[[hu:柰]]
+[[mg:柰]]
+[[pl:柰]]
+[[th:柰]]
+[[zh:柰]]

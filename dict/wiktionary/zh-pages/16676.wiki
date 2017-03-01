@@ -1,0 +1,89 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=15|sn=19|four=44502|canj=DDKQ|ids=⿱樊手}}
+
+# [[climb]]
+# [[pull]]
+# [[hang on]] to
+
+====References====
+* {{Han ref|kx=0461.340|dkj=12926|dj=0811.030|hdz=31978.040|uh=6500|ud=25856|bh=C36B|bd=50027}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|扳}}
+
+===Pronunciation===
+{{zh-pron
+|m=pān
+|c=paan1
+|h=pfs=
+|md=
+|mn=phan
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+* {{zh-l|攀附}}
+* {{zh-l|攀登}}
+* {{zh-l|攀比}}
+* {{zh-l|攀緣}}, {{zh-l|攀援}}
+* {{zh-l|攀談}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手15}}
+
+# {{defn|lang=ja|sort=手15}}
+
+====Readings====
+* {{ja-readings|on=[[はん]] (han) [[へん]] (hen)|kun=[[よじる]] (yojiru)　[[そる]] (soru) [[そらす]] (sorasu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=반|eumhun=|rv=ban|mr=pan|y=pan}}
+
+# {{defn|lang=ko|sort=手15}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|phan, phàn|rs=手15}}
+
+# {{defn|lang=vi|sort=手15}}
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+
+[[fr:攀]]
+[[ko:攀]]
+[[hu:攀]]
+[[mg:攀]]
+[[ja:攀]]
+[[no:攀]]
+[[pl:攀]]
+[[th:攀]]
+[[zh:攀]]

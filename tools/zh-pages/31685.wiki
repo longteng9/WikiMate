@@ -1,0 +1,87 @@
+{{character info/new}}
+{{also|骗}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=09|sn=19|four=73327|canj=SFHSB,SFISB|ids=⿰馬扁}}
+
+====References====
+* {{Han ref|kx=1441.210|dkj=44849|dj=1965.240|hdz=74566.150|uh=9A19|ud=39449|bh=C446|bd=50246}}
+
+----
+
+==Chinese==
+{{zh-forms|s=骗}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=piàn
+|c=pin3
+|h=pfs=phien
+|md=
+|mn=phiàn
+|w=
+|mc=
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[swindle]], to [[cheat]] out of, to [[defraud]]
+
+====See also====
+* (''Cantonese'') {{zh-l|呃}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=馬09|grade=9}}
+
+====Readings====
+* {{ja-readings
+|on=<!--
+--> [[へん]] (hen)
+|kun=<!--
+--> [[かたる]] ([[騙る]], ''kataru''), <!--
+--> [[だまる]] ([[騙る]], ''damaru''), <!--
+--> [[だます]] ([[騙す]], ''damasu''), <!--
+--> [[だまかす]] ([[騙かす]], ''damakasu''), <!--
+--> [[だまくらかす]] ([[騙くらかす]], ''damakurakasu'')
+}}
+
+====Compounds====
+* [[欺騙]] ([[ぎへん]], ''[[gihen]]'')
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=편|eumhun=|rv=pyeon|mr=p'yŏn|y=phyen}}
+
+# {{defn|lang=ko|sort=馬09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phiến]], [[biền]], [[biển]]|rs=馬09}}
+
+# {{defn|lang=vi|sort=馬09}}
+
+[[zh-min-nan:騙]]
+[[fr:騙]]
+[[hu:騙]]
+[[mg:騙]]
+[[ja:騙]]
+[[pl:騙]]
+[[th:騙]]
+[[zh:騙]]

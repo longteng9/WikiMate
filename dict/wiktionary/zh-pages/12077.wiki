@@ -1,0 +1,154 @@
+{{character info/new}}
+{{also|臺|檯|颱|枱}}
+==Translingual==
+{{stroke order|strokes=5}}
+Simplified from [[臺]], [[颱]] and [[檯]]
+* {{Han simp|臺|t=台}}
+* {{Han simp|檯|f=木|t=&nbsp;|f2=臺|t2=台}}
+* {{Han simp|颱|f=風|t=&nbsp;}}
+
+===Han character===
+{{Han char|rn=30|rad=口|as=02|sn=5|four=23600|canj=IR|ids=⿱厶口}}
+
+====Derived characters====
+* [[颱]],[[胎]], [[殆]], [[怡]], [[怠]], [[治]], [[冶]], [[始]], [[笞]], [[枲]], [[枱]], [[眙]], [[詒]], [[咍]], [[齝]], [[飴]], [[貽]], [[瓵]], [[紿]], [[鮐]], [[邰]], [[佁]], [[駘]], [[炱]]
+
+====References====
+* {{Han ref|kx=0172.130|dkj=03246|dj=0384.010|hdz=10575.020|uh=53F0|ud=21488|bh=A578|bd=42360}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|㠯|口|c1=p|c2=s|t2=mouth|ls=psc}}.
+
+===Etymology 1===
+{{zh-see|臺}}
+
+===Etymology 2===
+{{zh-see|颱}}
+
+===Etymology 3===
+{{zh-see|檯}}
+
+===Etymology 4===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=yí
+|c=ji4
+|h=
+|mn=î
+|w=
+|mc=1
+|oc=1,4
+|ma=
+|cat=a,pron,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{zh-original|怡|[[happy]], [[pleased]]}}
+# {{†}} [[I]], [[me]]
+# {{†}} [[what]]
+# {{surname|lang=zh}}
+
+===Etymology 5===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=tāi
+|c=toi1
+|h=
+|mn=thai
+|w=
+|mc=2
+|oc=n,1
+|ma=
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|Used in place names.}}
+
+====Compounds====
+{{zh-der|天台山|台州}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=口02|style=s|kyu=臺}}
+
+# [[pedestal]]
+# [[a]] [[stand]]
+# [[counter]] [[for]] [[machines]] [[and]] [[vehicles]]
+# [[Taiwan]]
+
+====Readings====
+* {{ja-readings|goon=[[だい]] (dai), [[たい]] (tai), [[い]] (i)|kanon=[[たい]] (tai), [[い]] (i)|kun=[[うてな]] (utena), [[よろこぶ]] (yorokobu)}}
+
+====Compounds====
+* [[仙台]] (せんだい, sendai)
+* [[台所]] (だいどころ, daidokoro)
+
+===Counter===
+{{ja-pos|だい|counter}}
+
+# machines, especially [[vehicles]] or [[computer]]s
+
+===Suffix===
+{{ja-pos|だい|suffix}}
+
+# [[table]]s, [[bed]]s
+# [[level]], especially of price
+# [[period]] of time in a person's life
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[태]], [[이]], [[대]]|rv=tae, i, dae|mr=t'ae, i, dae}}
+
+# {{defn|lang=ko|sort=口02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thai]], [[đài]], [[di]], [[đày]], [[thay]], [[thơi]], [[hai]], [[hay]], [[thài]]|rs=口02}}
+
+# {{defn|lang=vi|sort=口02}}
+
+====References====
+* Thiều Chửu : Hán Việt Tự Điển Hà Nội 1942
+* Trần Văn Chánh: Từ Điển Hán Việt NXB Trẻ, Ho Chi Minh Ville, 1999
+* Vũ Văn Kính: Đại Tự Điển Chữ Nôm , NXB Văn Nghệ, Ho Chi Minh Ville, 1999
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+[[fr:台]]
+[[ko:台]]
+[[lo:台]]
+[[hu:台]]
+[[mg:台]]
+[[ja:台]]
+[[no:台]]
+[[pl:台]]
+[[pt:台]]
+[[fi:台]]
+[[ta:台]]
+[[th:台]]
+[[chr:台]]
+[[uk:台]]
+[[zh:台]]

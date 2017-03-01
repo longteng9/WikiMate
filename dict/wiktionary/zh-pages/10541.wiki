@@ -1,0 +1,194 @@
+{{character info/new}}
+{{also|亰}}<!-- may be replaced by zh-forms -->
+==Translingual==
+{{stroke order|strokes=8}}
+
+===Han character===
+{{Han char|rn=8|rad=亠|as=06|sn=8|four=00906|canj=YRF|ids=⿳亠口小}}
+
+====References====
+* {{Han ref|kx=0088.190|dkj=00299|dj=0187.110|hdz=10284.060|uh=4EAC|ud=20140|bh=A8CA|bd=43210}}
+
+====See also====
+* ''Chinese Numeral'' '''京'''
+** '''Last:''' [[兆]]
+** '''Next:''' Larger numeral exists but not used anymore. ([[垓]])
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Chinese==
+{{zh-forms|alt=亰}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīng
+|c=ging1
+|h=pfs=kîn
+|md=gĭng
+|mn=kiaⁿ/keng
+|mn_note=kiaⁿ - vernacular; keng - literary
+|mn-t=gian1
+|w=1jin
+|mc=y
+|oc=y
+|ma=y
+|cat=n,num
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} [[artificial]] [[mound]]
+# [[capital]] (city)
+# {{zh-short|北京|Beijing}}
+# {{lb|zh|obsolete}} [[ten]] [[million]], 10<sup>7</sup>
+# {{lb|zh|obsolete}} [[ten]] [[quadrillion]], 10<sup>16</sup>
+# {{lb|zh|obsolete}} [[septillion]], 10<sup>24</sup>
+# {{lb|zh|obsolete}} A [[hundred]] [[nonillion]], 10<sup>32</sup>
+
+===Compounds===
+{{zh-der|京白|京白梨|京菜|京城|東京|京都|京二胡|京官|京胡|京華|京劇|京派|京腔|京師|京味|京味兒|京戲|京韻大鼓|京族|京津大鼓|北京時間|京債|京花子|京兆|五日京兆|北京鴨|京報|京闕|京室|京倉|京畿|中京|京府|北京|京京|京油子|京調|上京|京語|二京|京洛|北京條約|京兆尹|京堂|京畿令|京尹|京江|京斯敦|帝京|京話|京滬鐵路|京東大鼓|北京狗|京口|京邑|京觀|四京|兩京|南京|京八寸|京片子|京縣|南京條約|北京大學|北京人|北京之春|京繡|光復舊京|京察|東京灣|玉京|東京股市|汴京|研京練都|神京|洛京|海京|放京債|盛京|燕京|灤京|東京影展|莫之與京|鎬京|進京|西京雜記|西京|維京人|陪京|西京賦}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=亠06}}
+
+# [[capital]] [[city]]
+# ten [[quadrillion]]
+
+====Readings====
+* {{ja-readings
+|goon=[[きょう]] (kyō) < [[きやう]] (kyau)
+|kanon=[[けい]] (kei)
+|toon=[[きん]] (kin) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kun=[[みやこ]] (miyako)
+|nanori=[[あつ]] (atsu), [[たか]] (taka)}}
+
+====Compounds====
+{{top2}}
+* [[京華]]
+* [[京響]]
+* [[京形]]
+* [[京劇]]
+* [[京菜]]
+* [[京阪]] ([[けいはん]], keihan)
+* [[京師]]
+* [[京滋地方]]
+* [[京女]]
+* [[京人]]
+* [[京人形]]
+* [[京成]]
+* [[京大]]
+* [[京地]]
+* [[京都]] ([[きょうと]], kyōto; [[きやうと]])
+* [[京表]]
+* [[京風]]
+* [[京物]]
+* [[京方]]
+* [[京浜]] ([[けいひん]], Keihin)
+{{mid2}}
+* [[京葉]]
+* [[京洛]]
+* [[東京]] ([[とうきょう]], tōkyō; [[とうきゃう]]; [[とうけい]], tōkei; [[トンキン]], tonkin)
+* [[上京]] ([[じょうきょう]], Jōkyō)
+* [[英京]]
+* [[帰京]]
+* [[在京]]
+* [[出京]]
+* [[退京]]
+* [[滞京]]
+* [[中京]] ([[ちゅうきょう]], Chūkyō)
+* [[帝京]]
+* [[南京]]
+* [[入京]] ([[にゅうきょう]], nyūkyō)
+* [[平安京]]
+* [[平城京]] ([[へいじょうきょう]], Heijōkyō)
+* [[北京]] ([[ぺきん]], pekin, [[ペキン]])
+* [[離京]]
+{{bottom}}
+
+===Etymology 1===
+/kyau/ > /kyoː/.
+
+====Noun====
+{{ja-noun|きょう|hhira=きやう}}
+
+# [[capital]] (city)
+# ''(abbreviation)'' [[Tokyo]] ([[東京]], [[Tokyo|Tōkyō]])
+# ''(abbreviation)'' [[Kyoto]] ([[京都]], [[Kyoto|Kyōto]])
+
+===Etymology 2===
+{{compound|宮|tr1=miya|t1=imperial palace|処|tr2=ko|t2=place|lang=ja}}.
+
+====Noun====
+{{ja-noun|みやこ}}
+
+# the place where the emperor resides
+# a city that acts as an economic and political center; [[capital]]
+# [[metropolis]]
+
+===Etymology 3===
+
+====Number====
+'''京''' ([[けい]], kei)
+
+# 10,000,000,000,000,000, 10<sup>16</sup>, ''(US)'' ten [[quadrillion]], ''(UK)'' ten thousand [[billion]]
+
+[[Category:Japanese nouns|きょう]]
+[[Category:Japanese numeral symbols| g]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|mr=kyŏng|y=kyeng}}
+
+# {{defn|lang=ko|sort=亠06}}
+
+====Compounds====
+* [[京釜]] ([[경부]], Gyeongbu)
+* [[京仁]] ([[경인]], Gyeongin)
+
+====See also====
+* {{l|ko|서울}} (seoul)
+* {{l|ko|首都}} ([[수도]], sudo)
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|kinh|rs=亠06}}
+
+# {{defn|lang=vi|sort=亠06}}
+
+[[de:京]]
+[[fr:京]]
+[[ko:京]]
+[[hr:京]]
+[[id:京]]
+[[it:京]]
+[[li:京]]
+[[hu:京]]
+[[mg:京]]
+[[ms:京]]
+[[ja:京]]
+[[no:京]]
+[[pl:京]]
+[[pt:京]]
+[[ru:京]]
+[[fi:京]]
+[[ta:京]]
+[[th:京]]
+[[uk:京]]
+[[zh:京]]

@@ -1,0 +1,123 @@
+{{character info/new}}
+{{also|疋}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+
+{{liushu|p}} Two pieces of cloth hanging.
+
+===Han character===
+{{Han char|rn=23|rad=匸|as=02|sn=4|four=71711|canj=SC|ids=⿷匚儿}}
+
+# [[bolt]] of [[cloth]]
+# [[counter]] for [[horse]]s
+# counter for [[small]] [[animal]]s (Japanese)
+
+====Derived characters====
+* [[甚]]
+
+====See also====
+* {{l|mul|四}}
+
+====References====
+* {{Han ref|kx=0154.360|dkj=02673|dj=0347.110|hdz=10081.060|uh=5339|ud=21305|bh=A4C7|bd=42183}}
+* {{cite-web
+|url=http://www.kanjinetworks.com/eng/kanji-dictionary/online-kanji-etymology-dictionary.cfm?kanji_id=PAT08
+|title=匹
+|work=An Etymological Dictionary of Chinese Character Interpretations
+|author=Lawrence J. Howell, Hikaru Morimoto
+|language=Japanese/English
+|accessdate=2014-03-16}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=pǐ
+|c=pat1
+|mn=phit/zz:phek
+|mc=y
+|oc=y
+|ma=Zh-pi.ogg
+|cat=n,cls
+}}
+
+====Counter====
+{{zh-cls}}
+
+# {{n-g|Measure word for [[horses]] and [[mules]]}}
+# {{n-g|Measure word for rolls of [[cloth]]}}
+# {{label|zh|Sichuanese}} {{n-g|Measure word for [[tile]]s and [[rib]] bones}}
+
+====Verb====
+{{zh-verb}}
+
+# to [[match]], to be [[equal]]
+#: {{zh-x|匹配|to match}}
+#: {{zh-x|匹敌|to be equal}}
+
+====References====
+* http://www.dreams-travel.com/sc/sc_msfq/sc-shehxs/dfmzyy.htm
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=7|rs=匸02}}
+
+====Readings====
+* {{ja-readings|goon=[[ひち]] (hichi)|kanon=[[ひつ]] (hitsu)|on=[[ひき]] (hiki)|kun=[[たぐい]] (tagui), [[たぐう]] (taguu)}}
+
+===Counter===
+{{ja-pos|ひき|counter}}
+
+# small animals
+#: {{ja-usex|犬が'''一匹'''います。|いぬ が '''いっぴき''' います。|There is one dog.}}
+# rolls of cloth
+# in the past, numbers of {{ja-r|銭|せん}}
+
+====Alternative forms====
+* {{l|ja|疋}}
+
+====See also====
+* {{ja-r|頭|とう}}: counter for large animals
+
+===References===
+* {{R:Meikyo}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[필]], [[목]]|rv=pil, mok|mr=p'il, mok}}
+
+# {{defn|lang=ko|sort=匸02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thất]], [[sất]], [[sơ]], [[sớt]], [[sứt]], [[thớt]]|rs=匸02}}
+
+# {{defn|lang=vi|sort=匸02}}
+
+[[zh-min-nan:匹]]
+[[de:匹]]
+[[fr:匹]]
+[[ko:匹]]
+[[lo:匹]]
+[[hu:匹]]
+[[mg:匹]]
+[[ms:匹]]
+[[ja:匹]]
+[[no:匹]]
+[[pl:匹]]
+[[th:匹]]
+[[uk:匹]]
+[[zh:匹]]

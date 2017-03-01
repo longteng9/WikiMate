@@ -1,0 +1,92 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=62|rad=戈|as=04|sn=8|four=23250|canj=VMI,XVMI|ids=⿰爿戈}}
+
+# [[kill]], [[slay]]
+# [[wound]], [[injure]], [[hurt]]
+# an [[ancient]] [[axe]]
+
+====Derived characters====
+* [[臧]], [[𡸤]]
+
+====References====
+* {{Han ref|kx=0412.170|dkj=11562|dj=0754.140|hdz=21403.070|uh=6215|ud=25109|bh=A9CF|bd=43471}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|爿|戈|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=戕
+|c=coeng4
+|mn=chhiâng
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# an ancient axe
+#* [http://ctext.org/shuo-wen-jie-zi/ge-bu1#n34958 Shuo Wen Jie Zi] (a dictionary in East Han Dynasty]
+#* {{zh-x|戕：搶 也。他 國 臣 來 弑 君 曰 戕。从 戈 爿{qiáng} 聲。|[The character] 戕 [means] [a kind of] axe indeed. Other country's officer comes [to] kill [the] king is said to be 戕. [Its] radical [is] 戈 [and is pronounced] with 爿's sound.|CL}}
+
+===Verb===
+{{zh-verb}}
+# a person from another [[country]] coming to [[kill]] the king
+#* [http://ctext.org/shuo-wen-jie-zi/ge-bu1#n34958 Shuo Wen Jie Zi] (a dictionary in East Han Dynasty)
+#* {{zh-x|戕：搶 也。他 國 臣 來 弑 君 曰 戕。从 戈 爿{qiáng} 聲。|[The character] 戕 [means] [a kind of] axe indeed. Other country's officer comes [to] kill [the] king is said to be 戕. [Its] radical [is] 戈 [and is pronounced] with 爿's sound.|CL}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=戈04}}
+
+# [[kill]]
+# [[slay]]
+# [[wound]]
+# [[injure]]
+# [[hurt]]
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō), [[ぞう]] (zō), [[さん]] (san), [[そう]] (sō)|kun=[[ころす]] (korosu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=장|eumhun=|rv=jang|mr=chang|y=cang}}
+
+# [[kill]]
+# [[slay]]
+# [[wound]]
+# [[injure]]
+# [[hurt]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|tường}}
+
+# {{defn|lang=vi}}
+
+[[fr:戕]]
+[[hu:戕]]
+[[mg:戕]]
+[[pl:戕]]
+[[th:戕]]
+[[zh:戕]]

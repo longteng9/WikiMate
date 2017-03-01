@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|のう|どう|たい|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|のうどうたい|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|のうどうたい}}
+
+# {{lb|ja|grammar}} [[active voice]]
+
+===See also===
+* {{ja-r|態|たい}}: (''grammar'') [[voice]]
+* {{ja-r|受動態|じゅどうたい}}: (''grammar'') [[passive voice]]
+
+===References===
+<references/>
+* {{R:Shogakukan}}
+
+[[Category:ja:Grammar|のうどうたい]]
+
+[[ko:能動態]]
+[[it:能動態]]
+[[ja:能動態]]

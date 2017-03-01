@@ -1,0 +1,130 @@
+{{character info/new}}
+==Translingual==
+{{stroke order}}
+
+===Han character===
+{{Han char|rn=85|rad=水|as=03|sn=6|four=34112|canj=EPD|ids=⿰氵也}}
+
+====See also====
+* {{l|mul|罁}}
+
+====References====
+* {{Han ref|kx=0606.050|dkj=17141|dj=1000.010|hdz=31555.030|uh=6C60|ud=27744|bh=A6C0|bd=42688}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|水|alt1=氵|也|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=chí
+|ma=y
+|c=ci4
+|h=pfs=chhṳ̀
+|md=diè/dò̤
+|mn=tî
+|w=3zr
+|mc=y
+|oc=y
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[pool]]; [[pond]]
+# [[moat]]
+# [[cistern]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|弄兵潢池|伏打電池|乾電池|城池|化糞池|劍池|噴水池|太液池|印池|他瑪羅池|天池|巴油池|差池|太陽電池|咸池|呼倫池|尹霍夫池|堅城深池|光電池|池魚之禍|清水池|殃及池魚|滇池|暈池|洿池|東門之池|游泳池|樂池|澠池|池湯|曲江池|瑤池|池堂|瑤池玉液|窮池之魚|瑤池金母|昆池劫灰|昆明池|池中蛟龍|池坊流|池魚之殃|池榭|水池|浴池|池魚籠鳥|池沼|硯池|石城湯池|澠池之功|池塘|泳池|泮池|湯池鐵城|揮翰臨池|潢池|濾水池|瑤池閬苑|池中物|池座|池鹽|澠池會|湯池|池魚林木|池魚堂燕|池魚|池隍|池子|潢池弄兵|配水池|血汙池|蓄水池|龍池|難越雷池|陂池|跳水池|駕返瑤池|墨水池|魚池|解池|舞池|魚池鄉|翰池|蓄電池|華池|墨池筆塚|茅池|鹼性電池|鵝池|鳳池|跪池|臨池|蓮池|電池|黃池|金城湯池|雷池|酒池|酒池肉林|高城深池|鹽池|臨池學書|鳳凰池|裝池|非池中物}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=水03}}
+
+====Readings====
+* {{ja-readings
+|goon=[[じ]] (ji)|kanon=[[ち]] (chi)|on=[[た]] (ta) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kun=[[いけ]] (ike)}}
+{{attention|ja|check and expand on readings}}
+
+====Compounds====
+{{der-top|Compounds of 池}}
+* {{l|ja|池袋|tr=ikebukuro}}
+* {{l|ja|池水|tr=chisui}}
+* {{l|ja|池沼|tr=chishō}}
+* {{l|ja|池泉|tr=chisen}}
+* {{l|ja|池亭|tr=chitei}}
+* {{l|ja|池畔|tr=chinan}}
+* {{l|ja|印池|tr=inchi}}
+* {{l|ja|園池|tr=enchi}}
+* {{l|ja|苑池|tr=enchi}}
+* {{l|ja|内池|tr=uchiike}}
+* {{l|ja|城池|tr=jōchi}}
+* {{l|ja|溜池|tr=temeike}}
+{{der-mid}}
+* {{l|ja|電池|tr=denchi}}
+* {{l|ja|肉池|tr=nikuchi}}
+* {{l|ja|墨池|tr=bokuchi}}
+* {{l|ja|古池|tr=furuike}}
+* {{l|ja|瑶池|tr=yōchi}}
+* {{l|ja|人工池|tr=jinkōke}}
+* {{l|ja|貯水池|tr=chosuichi}}
+* {{l|ja|養魚池|tr=yōgyochi}}
+* {{l|ja|養殖池|tr=yōshokuchi}}
+* {{l|ja|用水池|tr=yōsuiike}}
+* {{l|ja|金城湯池|tr=kinjōtōchi}}
+* {{l|ja|酒池肉林|tr=shuchinikurin}}
+{{der-bottom}}
+
+===Noun===
+{{ja-noun|いけ}}
+
+# {{l|en|pond}}, small {{l|en|lake}}, {{l|en|pool}}
+#: {{ja-usex|池を乾す|いけ を ほす|drain a pond}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[지]], [[타]]|eumhun=|rv=ji, ta|mr=chi, t'a|y=ci, tha}}
+
+# {{defn|lang=ko|sort=水03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trì]], [[đìa]], [[trầy]], [[trề]], [[tri]], [[bǎng]]|rs=水03}}
+
+# {{defn|lang=vi|sort=水03}}
+
+[[fr:池]]
+[[ko:池]]
+[[it:池]]
+[[kn:池]]
+[[lo:池]]
+[[hu:池]]
+[[mg:池]]
+[[ja:池]]
+[[no:池]]
+[[pl:池]]
+[[pt:池]]
+[[ru:池]]
+[[sv:池]]
+[[th:池]]
+[[chr:池]]
+[[uk:池]]
+[[zh:池]]

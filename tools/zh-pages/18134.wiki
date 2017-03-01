@@ -1,0 +1,96 @@
+{{character info/new}}
+{{also|横}}
+==Translingual==
+{{ja-forms|[[横]]|[[横]]|橫}}
+
+===Han character===
+{{Han char|rn=75|rad=木|as=12|sn=16|four=44986|canj=DTMC,XDTMC|ids=⿰木黃}}
+
+====References====
+* {{Han ref|kx=0555.100|dkj=15594|dj=0944.030|hdz=21288.041|uh=6A6B|ud=27243|bh=BEEE|bd=48878}}
+
+----
+
+==Chinese==
+{{zh-forms|s=横}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|黃|c1=s|t1=wood|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=héng,hèng
+|m-s=huan3/huan2/hun2
+|m-s_note=huan3 - vernacular; hun2 - literary
+|c=waang4,waang6
+|h=pfs=vàng/vang
+|mn=xm,kh:hoâiⁿ/qz,tp:hûiⁿ/zz:hôaⁿ/xm,zz,tw:hêng/qz:hn̂g
+|mn_note=hoâiⁿ/hûiⁿ/hôaⁿ - vernacular; hêng/hn̂g - literary
+|mc=y
+|oc=y
+|cat=n,v,adv,prep,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[across]], [[horizontal]], [[lateral]] (horizontal character stroke)
+# to move crosswise; transverse
+# unrestrainedly; turbulently
+# {{surname|lang=zh}}
+# {{lb|zh|Chinese calligraphy}} a horizontal stroke ({{m|mul|㇐}})
+
+====Antonyms====
+* {{sense|lateral}} {{zh-l|縱|vertical}}
+
+====Coordinate terms====
+* {{list:basic character strokes/zh}}
+
+===Compounds===
+{{zh-der|口沫橫飛|七橫八縱|專橫|屍橫遍野|七橫八豎|人欲橫流|南橫|交橫|怒目橫眉|妙語橫生|天才橫溢|專橫跋扈|凶橫|強橫|倒橫直豎|妙趣橫生|橫勁|橫渠學派|橫行無忌|橫政|橫秋|橫批|橫衝直撞|橫看|新中橫|橫征暴斂|橫行直撞|橫膈膜|橫豎|橫流|橫幅|橫陳|橫逸|橫目|橫禍飛災|橫無際涯|橫災飛禍|橫紋肌|橫心|橫亙|橫羅十字|橫骨|橫貫公路|橫越|橫行霸道|橫說豎說|橫死|橫議|橫笛|橫渡|橫波|橫吹|橫厲|捭闔縱橫|橫眉|橫亡|橫夭|橫加|橫濱|橫拖倒拽|橫三豎四|橫行|橫禍|橫身|橫空|橫恣|橫眉瞪眼|橫塘|橫貫|月落參橫|橫眉怒目|排奡縱橫|橫撐船兒|歹徒橫行|橫賦暴斂|打橫|橫死眼|橫生|斗轉參橫|橫列|橫了心|橫生枝節|橫掃千軍|眉橫丹鳳|橫躺豎臥|橫話|橫斷面|橫舍|發橫|涕泗縱橫|田橫客|橫行介士|橫向|橫痃|暴橫|橫眉豎目|橫槊賦詩|挺撅挺橫|橫直|橫剖面|橫肉|橫頭|橫切|滄海橫流|橫匾|涕泗橫流|橫財|涕淚縱橫|橫行天下|橫飛|擋橫兒|橫殃飛禍|橫枝兒|橫行文字|橫膈|橫蠻無理|橫幀|橫斷|橫掃|橫難|橫隊|橫逆|橫軸|橫蠻|橫草之功|橫臥|橫線|橫禍非災|橫梗|橫暴|橫攔豎擋|橫披|橫寫|橫坐標|橫刀奪愛|橫事|橫七豎八|橫梁|橫跨|橫科暴斂|橫渠|暴斂橫徵|橫溢|推橫車|鬢亂釵橫|縱橫四海|鐵馬橫行|縱橫交錯|縱橫交貫|肝橫膽乍|逸趣橫生|老氣橫秋|辭喻橫生|飛來橫禍|縱橫天下|驕橫|飛災橫禍|飛來橫財|風趣橫生|縱橫馳騁|豺狼橫道|血肉橫飛|縱橫家|鐵鎖橫江|逸態橫生|連橫|縱橫|趣味橫生|豪橫|蠻橫|縱橫捭闔|老淚縱橫}}
+
+{{zh-cat|Calligraphy}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木12|style=ky|shin=横}}
+
+# [[sideways]], [[horizontal]]
+
+====Readings====
+{{ja-readings
+|goon=[[おう]] (ō), {{qualifier|historical}} [[わう]] (wau)
+|kanon=[[こう]] (kō), {{qualifier|historical}} [[くわう]] (kwau)
+|kun=[[よこ]] (yoko), [[よこたわる]] ([[横たわる]], yokotawaru), [[よこたえる]] ([[横たえる]], yokotaeru)
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=횡}}
+
+# {{defn|lang=ko|sort=木12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hoành]], [[hoàng]]|rs=木12}}
+
+# {{defn|lang=vi|sort=木12}}
+
+[[fr:橫]]
+[[ko:橫]]
+[[hu:橫]]
+[[ja:橫]]
+[[pl:橫]]
+[[th:橫]]
+[[vi:橫]]
+[[zh:橫]]

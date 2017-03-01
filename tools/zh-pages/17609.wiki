@@ -1,0 +1,167 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=07|sn=11|four=47927|canj=DNIB|ids=⿰木甬}}
+
+====References====
+* {{Han ref|kx=0527.100|dkj=14811|dj=0916.040|hdz=21222.060|uh=6876|ud=26742|bh=B1ED|bd=45549}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Compare Khmer {{m|km|ថាំង|tr=tung}}, Thai {{m|th|ถัง|tr=tăng}}.
+
+===Pronunciation===
+{{zh-pron
+|m=tǒng
+|c=tung2
+|h=pfs=thúng
+|mn=qz,xm,zz:thóng/tháng
+|mn_note=thóng - literary; tháng - vernacular
+|mc=y
+|oc=y
+|ma=Zh-tong.ogg
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[pail]], [[bucket]], [[tub]]
+# [[cask]], [[keg]]
+
+====Synonyms====
+* {{qualifier|Min Nan}} {{zh-l|桶仔}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=木07}}
+
+# a [[tub]], a [[bucket]]
+
+====Readings====
+{{ja-readings
+|goon=[[つう]] (tsū)
+|kanon=[[とう]] (tō)
+|kanyoon=[[よう]] (yō)
+|kun=[[おけ]] (oke), [[こが]] (koga)
+|nanori=[[おけ]] (oke), [[あきら]] (akira), [[おけざき]] (okezaki), [[とうず]] (tōzu)
+}}
+
+===Etymology 1===
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+[[File:Oke_neko.jpg|thumb|250px|{{lang|ja|桶}} (''oke''): A small '''''oke''''' holding a cat.]]
+[[File:Fujimi_Fuji_view_field_in_the_Owari_province.jpg|thumb|250px|{{lang|ja|桶}} (''oke''): A workman building a large '''''oke'''''.]]
+</div>
+{{ja-kanjitab|おけ|yomi=kun}}
+From {{etyl|ojp|ja|sort=おけ}}. Originally a compound of {{compound|lang=ja|sort=おけ|麻|tr1=o|t1=flax, ramie|笥|tr2=ke|t2=a container, especially for foodstuffs or tableware}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{ja-accent-common|a|お|け}}<ref>{{R:NHK Hatsuon}}</ref>
+* {{IPA|lang=ja|[o̞ke̞]}}
+
+====Alternative forms====
+* {{ja-l|麻笥}}
+
+====Noun====
+{{ja-noun|おけ|hhira=をけ}}
+
+# A tube-shaped container for holding split [[flax]] or [[hemp]], usually made of thin [[cypress]] wood bent to shape.
+# By extension, a [[pail]], [[bucket]], [[tub]], or [[basin]] similar to a [[barrel]] in construction, made of long thin pieces of [[cedar]] or cypress extending up from a base and held in place with [[hoop]]s. Can be small enough to carry in one hand, or large enough to bathe in.
+# {{lb|ja|sort=おけ|Noh theater}} A stool on stage, on which an actor sits.
+
+=====Synonyms=====
+* {{sense|bucket}} {{ja-l|バケツ||baketsu}}
+* {{sense|stool}} {{ja-l|床几|しょうぎ|shōgi}}, {{ja-l|鬘桶|かつらおけ|katsura oke}}
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-l|桶な物打ち明ける|おけなものうちあける|oke na mono uchiakeru}}, {{ja-l|桶の物打ち明ける|おけのものうちあける|oke no mono uchiakeru}}: "open up what's in your bucket" → to [[come clean]] to someone, with [[no hard feelings]] and no [[subterfuge]]
+* {{ja-l|桶が腐れば菜が腐る|おけがくさればながくさる|oke ga kusareba na ga kusaru}}: "if the bucket rots, the greens rot" → if the surrounding is bad, it affects the inside
+{{der-bottom}}
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|桶越し|おけごし|okegoshi}}: using an ''oke'' to cross a river
+* {{ja-l|桶屋|おけや|okeya}}: a person or store that makes, fixes, and/or sells ''oke'' and well walls
+* {{ja-l|桶火|おけび|okebi}}: the fire in a ''hioke''
+* {{ja-l|火桶|ひおけ|hioke}}: a type of wooden [[hibachi]]
+* {{ja-l|桶狭間|おけはざま|Okehazama}}: a place in the south of Midori-ku, Nagoya
+* {{ja-l|桶狭間焼き|おけはざまやき|Okehazama-yaki}}: a style of [[pottery]] originating near Okehazama
+* {{ja-l|桶結い|おけゆい|okeyui}}: tying cord bands around an ''oke''; an ''oke'' maker, an ''okeya''
+* {{ja-l|桶絞り|おけしぼり|okeshibori}}: a cloth [[dying]] process whereby the sections to leave undyed are put into ''oke'' and closed in with lids
+* {{ja-l|桶酸い|おけすい|okesui}}: alternate name for {{ja-l|酢の木}}, {{ja-l|酢木|すのき|sunoki}}: {{taxlink|Vaccinium smallii|species|noshow=1}}, var. ''glabrum'', a bush with edible (though sour) berries
+* {{ja-l|桶取り|おけとり|oketori}}: a scene in a ''[[狂言#Japanese|kyōgen]]'' farce presented between Noh plays; a woman working as a water carrier
+* {{ja-l|桶尻|おけじり|okejiri}}: the [[aft]] edge of the [[hull]] of a ship in traditional Japanese [[shipbuilding]]
+* {{ja-l|桶据え|おけすえ|okesue}}: the [[hipbone]]
+* {{ja-l|桶川|おけがわ|Okegawa}}: a river in southeast Saitama Prefecture
+* {{ja-l|桶側|おけがわ|okegawa}}: the sides of an ''oke'', the [[stave]]s; a bowl-shaped container for holding trawling lines on a fishing boat
+* {{ja-l|桶側胴|おけがわどう|okegawa dō}}: a type of [[breastplate]] made of steel strips bound together, somewhat similar to how ''okegawa'' are bound together to make an ''oke''
+* {{ja-l|桶大工|おけだいく|oke daiku}}: a [[cooper]], a [[woodworker]] who specializes in making [[barrel]]s, ''oke'', and well walls
+* {{ja-l|桶胴|おけどう|oke dō}}: alternate name for {{ja-l|桶側胴|tr=''okegawa dō''}}; a type of ''[[taiko]]'' drum
+* {{ja-l|桶風呂|おけぶろ|okeburo}}: an ''oke'' fitted with a [[firebox]] for heating bathwater: a traditional Japanese wooden ''ofuro'' hottub
+* {{ja-l|桶伏せ|おけぶせ|okebuse}}: wearing an ''oke'' on one's head: a mob punishment in the pleasure districts of early Edo-period Japan, where non-paying customers would be forced to wear an ''oke'' on their heads, were sat down on the side of the street, and forced to pay up
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|こが|yomi=kun}}
+{{unk.|lang=ja|sort=こが}}.
+
+====Pronunciation====
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ko̞ɡa̠]|[ko̞ŋa̠]}}
+
+====Alternative forms====
+* {{ja-l|榼}} {{qualifier|rare}}
+
+====Noun====
+{{ja-noun|こが}}
+
+# An ''oke'' (tub, bucket, basin) or ''taru'' ({{ja-l|樽}}, “barrel”).
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[통]], [[용]]|eumhun=|rv=tong, yong|mr=t'ong, yong|y=thong, yong}}
+
+# ([[통]] 통, ''tong-''): [[barrel]], [[bucket]], [[can]], [[cask]], [[pail]], [[tub]], [[vat]], compare [[ton]], ''Dut.'' [[ton]] ("vat")
+
+[[Category:Hanja readings|통]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木07|hanviet=thùng}}
+
+# {{defn|lang=vi|sort=木07}}
+
+[[zh-min-nan:桶]]
+[[fr:桶]]
+[[ko:桶]]
+[[hu:桶]]
+[[mg:桶]]
+[[fj:桶]]
+[[ja:桶]]
+[[no:桶]]
+[[pl:桶]]
+[[ru:桶]]
+[[th:桶]]
+[[chr:桶]]
+[[vi:桶]]
+[[zh:桶]]

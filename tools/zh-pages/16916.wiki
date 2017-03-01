@@ -1,0 +1,94 @@
+{{character info/new}}
+{{also|句}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|勹|日|ls=ic}} – a bag/period of days 日.
+
+===Han character===
+{{Han char|rn=72|rad=日|as=02|sn=6|four=27620|canj=PA|ids=⿹勹日}}
+
+===See also===
+* {{l|mul|复}} [[傷]] <!-- Graphically similar -->
+
+===References===
+* {{Han ref|kx=0489.160|dkj=13746|dj=0850.130|hdz=21485.030|uh=65EC|ud=26092|bh=A6AF|bd=42671}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xún
+|c=ceon4
+|mn=sûn
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[ten]]-[[day]] [[period]]
+# period of [[time]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=日02}}
+
+# {{defn|lang=ja|sort=日02}}
+
+====Readings====
+* {{ja-readings|goon=[[じゅん]] (jun)|kanon=[[しゅん]] (shun)}}
+
+===Proper noun===
+{{ja-pos|proper|ひとし}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|ひとし]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=순|eumhun=|rv=sun|mr=sun|y=swun}}
+
+# {{defn|lang=ko|sort=日02}}
+
+----
+
+==Vietnamese==
+{{attention|vi|check definition}}
+
+===Han character===
+{{vi-readings|rs=日02|hanviet=tuần}}
+
+# {{han tu form of|tuần}}
+
+===References===
+* [http://nomfoundation.org/common/nom_details.php?codepoint=65ec Nom Foundation]
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:旬]]
+[[ko:旬]]
+[[lo:旬]]
+[[lt:旬]]
+[[li:旬]]
+[[hu:旬]]
+[[mg:旬]]
+[[ja:旬]]
+[[no:旬]]
+[[pl:旬]]
+[[pt:旬]]
+[[th:旬]]
+[[zh:旬]]

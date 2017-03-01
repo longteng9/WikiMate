@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=102|rad=田|as=10|sn=15|four=22653|canj=VIW}}
+
+# [[imperial]] [[domain]]
+# [[area]] near [[capital]]
+
+====References====
+* {{Han ref|kx=0766.080|dkj=21925|dj=1176.190|hdz=42551.090|uh=757F|ud=30079|bh=BD42|bd=48450}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|田|幾|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jī
+|c=gei1,kei4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=田10}}
+
+# {{defn|lang=ja|sort=田10}}
+
+====Readings====
+* {{ja-readings|on=[[き]] (ki)|kun=[[みやこ]] (miyako)|nanori=}}
+
+====Compounds====
+* {{ja-r|近畿|きんき}}: [[w:Kinki|Kinki]] region
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|eumhun='경기 - 왕도 주위로 오백리 이내의 땅'|rv=gi|mr=ki|y=ki}}
+
+# {{defn|lang=ko|sort=田10}}
+
+[[fr:畿]]
+[[ko:畿]]
+[[hu:畿]]
+[[mg:畿]]
+[[ja:畿]]
+[[pl:畿]]
+[[th:畿]]
+[[zh:畿]]

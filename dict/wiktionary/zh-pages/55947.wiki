@@ -1,0 +1,39 @@
+==Chinese==
+{{zh-forms}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=shéyīn
+|c=sit6 jam1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|phonetics}} [[lingual]] [[sound]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぜつ|おん|yomi=on}}
+
+===Etymology===
+''From'' [[舌]] ([[した]] (ゼツ), ''[[tongue]]'') + [[音]] ([[おと]] (オン), ''[[sound]]'')
+
+===Noun===
+{{ja-noun|ぜつおん}}
+
+# {{lb|ja|phonetics}} a [[lingual]] [[sound]]
+
+====Related terms====
+* {{ja-r|舌端歯茎音|ぜったん しけいおん}}
+* {{ja-r|舌先歯茎音|ぜっせん しけいおん}}
+* {{ja-r|舌端裏後部歯茎音|ぜったんり こうぶ しけいおん}}
+* {{ja-r|唇音|しんおん}}
+* {{ja-r|鼻音|びおん}}
+
+[[Category:ja:Phonetics|せつおん']]
+
+[[zh:舌音]]

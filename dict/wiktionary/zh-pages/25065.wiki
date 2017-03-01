@@ -1,0 +1,90 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=07|sn=13|four=44732|canj=TIAV}}
+
+# [[herb]]
+# [[marsh grass]]
+# {{vern|false gambier|pedia=1}} used as a dyestuff.
+# {{taxlink|Scopolia japonica|species|noshow=1}}
+
+====References====
+* {{Han ref|kx=1035.100|dkj=31075|dj=1494.100|hdz=53225.110|uh=83A8|ud=33704|bh=D75B|bd=55131}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=|y=long4}}
+
+# {{defn|lang=yue|sort=艸07}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸07}}
+
+# [[tobacco]]
+
+====Readings====
+{{ja-readings
+| goon=[[ろう]] (rō)
+| kanon=[[ろう]] (rō)
+| kun=[[タバコ]] (tabako)
+| nanori=}}
+
+===Etymology===
+{{ja-kanjitab|たばこ|yomi=kun|sort=たばこ}}
+From {{etyl|pt|ja|sort=たばこ}} ''[[tabaco]]''. Typically an unusual [[gairaigo]] reading.
+
+====Noun====
+{{ja-noun|たばこ|タバコ}}
+
+# {{alternative spelling of|煙草|lang=ja}}: [[tobacco]], [[cigar]], [[cigarette]]
+
+[[Category:ja:Tobacco]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[랑]]>[[낭]]|eumhun=|rv=rang>nang|mr=rang>nang|y=lang>nang}}
+
+# {{defn|lang=ko|sort=艸07}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[láng]] ([[lang2]]), [[làng]] ([[lang4]]), [[liáng]] ([[liang2]])|wg=lang<sup>2</sup>, lang<sup>4</sup>, liang<sup>2</sup>}}
+
+# {{defn|lang=cmn|sort=艸07}}
+
+====Compounds====
+* [[莨苕]] (''[[Acanthus]]'')
+* [[毛莨]] (''[[Ranunculus acris]]'')
+* [[莨菪]] ({{taxlink|Hyoscyamus niger|species|noshow=1}}, {{taxlink|Scopolia japonica|species|noshow=1}} Maxim)
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lang]], [[lương]]|rs=艸07}}
+
+# {{defn|lang=vi|sort=艸07}}
+
+[[fr:莨]]
+[[ko:莨]]
+[[hu:莨]]
+[[mg:莨]]
+[[ja:莨]]
+[[pl:莨]]
+[[th:莨]]
+[[zh:莨]]

@@ -1,0 +1,105 @@
+{{character info/new}}
+{{also|买}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=05|sn=12|four=60806|canj=WLBUC|ids=⿱罒貝}}
+
+====Descendants====
+* [[賣]], [[䁲]], [[㵋]], [[蕒]], [[鷶]], [[嘪]]
+
+====References====
+* {{Han ref|kx=1206.210|dkj=36708|dj=1669.090|hdz=63633.070|uh=8CB7|ud=36023|bh=B652|bd=46674}}
+
+----
+
+==Chinese==
+{{zh-forms|s=买}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|网|貝|t1=net|t2=money cowrie|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=mǎi
+|c=maai5
+|h=pfs=mâi
+|mn=mái/bé/bóe
+|mn_note=mái - literary, bé/bóe - vernacular
+|mn-t=bhoi2
+|w=3ma
+|mc=y
+|oc=y
+|ma=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[buy]]; to [[purchase]]
+#: {{zh-x|我 買 了 輛 新 車。|I '''bought''' a new car.}}
+
+====Derived terms====
+* {{zh-l|賣|to sell}}
+
+====Compounds====
+{{zh-der|買辦|買不到|買不了|買不起|買不著|買單|買櫝還珠|買方|買關節|買好|買好兒|買價|買價兒|買進|買空賣空|買賣|買賣婚姻|買賣人|買面子|買通|買賬|買主|買醉|買家|大買家|做買賣|千萬買鄰|千金買笑|千金買骨|博士買驢|和買|問天買卦|回買|均買均賣|好買賣|季雅買鄰|小本買賣|小買賣|投機買賣|拉買賣|招兵買馬|招軍買馬|採買|撲買|支遁買山|收買|朱買臣|炒買|照價收買|牙買加|現買現賣|私房買賣|科買|置買|苦買賣|要買|買上告下|買人事|買休|買休賣休|買俏金|買卦|買取|買名|買告|買命錢|買嘴|買囑|買妻恥樵|買官|買官鬻爵|買定|買客|買山|買市|買帳|買得|買快|買手|買撲|買放|買斷|買春|買書|買服|買服錢|買東西|買樂|買水|買求|買爵|買牛賣劍|買物栽贓|買物歷|買票|買空倉|買笑|買笑追歡|買臉|買臣覆水|買臣負薪|買舟|買船|買菜|買菜求益|買虛|買賣三兒|買賣人口|買賣場|買賣業|買賣經|買賦|買路錢|買轉|買進對沖|買鄰|買閒錢|買陳貨|買青苗|買頭|買馬招軍|買骨|賣刀買牛|賣刀買犢|賣劍買牛|賣空買空|賣買|賤買貴賣|購買|購買力|迎歡買俏|追歡買笑|過路買賣|邀買人心|鄭人買履|鋪買|難買難賣|馬店買豬}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=貝05}}
+
+# to [[buy]]
+
+====Readings====
+* {{ja-readings|goon=[[め]] (me) {{non-joyo-reading}}|kanon=[[ばい]] (bai)|kun=[[かう]] (kau)}}
+
+====Compounds====
+* {{ja-r|買収|ばいしゅう}}
+* {{ja-r|買い物|かいもの}}
+
+====Antonyms====
+* {{l|ja|売}}
+
+====Derived terms====
+* {{ja-r|買う|かう}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=매|eumhun=|rv=mae|mr=mae|y=may}}
+
+# {{defn|lang=ko|sort=貝05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mãi]], [[mạy]], [[mảy]], [[mấy]], [[mới]], [[mái]], [[mải]], [[với]]|rs=貝05}}
+
+# {{defn|lang=vi|sort=貝05}}
+
+[[zh-min-nan:買]]
+[[fr:買]]
+[[ko:買]]
+[[hu:買]]
+[[mg:買]]
+[[fj:買]]
+[[ja:買]]
+[[pl:買]]
+[[ru:買]]
+[[fi:買]]
+[[th:買]]
+[[chr:買]]
+[[uk:買]]
+[[zh:買]]

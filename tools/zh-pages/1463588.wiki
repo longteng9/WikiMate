@@ -1,0 +1,50 @@
+==Japanese==
+{{ja-kanjitab|ひめ|きみ|k2=ぎみ|yomi=k|r=y}}
+
+===Etymology===
+Compound of {{compound|姫|tr1=hime|t1=princess|君|tr2=kimi|t2=lord|lang=ja}}. The medial /k/ voices to /g/ due to the compounding in a phenomenon known as [[w:Rendaku|rendaku]].
+
+===Noun===
+{{ja-noun|ひめぎみ}}
+
+# title for a daughter of a high-ranking aristocrat or noble
+#* {{RQ:Utsubo Monogatari|Tadakoso}}
+#*: '''姫君'''きこえ給ふ。
+#* {{RQ:Utsubo Monogatari|Fujiwara no Kimi}}
+#*: まめやかには、仲の大殿の'''姫君'''をなん、ちひさく聞え給ひし時より、うけ給はりおきたるを、かくなんとだに聞えでは止みなんや。
+#* c. 11th century: [[w:Tsutsumi Chūnagon Monogatari|Tsutsumi Chūnagon Monogatari]] (Mushi mezuru himegimi)
+#*: 蝶めづる'''姫君の'''すみ給かたはらに、按察使の大納言の御むすめ、心にくくなべてならぬさまに、親たちかしづき給事かぎりなそ。この'''姫君'''のの給事、[...]
+#* c. 12th century: [[w:Torikaebaya Monogatari|Torikaebaya Monogatari]] (volume 1)
+#*: いま一所は、藤中納言と聞こえしが御むすめにものし給ふが御腹にも、姫君のいとうつくしげなる生まれ給ひしかば、さまざまめづらしく、思ふさまにおぼしかしづく事かぎりなし。
+#* c. 12th century: [[w:Torikaebaya Monogatari|Torikaebaya Monogatari]] (volume 1)
+#*: おほかたは、ただ同じ物と見ゆる御かたちの、若君は、あてにかほりけだかく、なまめかしき方添ひて見え給、'''姫君'''は、はなばなとほこりかに、見ても飽く世なく、あたりにもこぼれちる愛敬などぞ、今より似るものなく物し給ふける。
+#* c. 14-16th century: [[w:Kazashi no Himegimi|Kazashi no Himegimi]]
+#*: 北の御方は大臣殿の御娘なり。'''姫君'''一人おはします。御名をばかざしの'''姫君'''とぞ申ける。
+
+===See also===
+* {{l|ja|若君}} (wakagimi)
+
+===References===
+* {{cite-book
+|last=Ichiko
+|first=Teiji
+|coauthors=Osamu Akiya, Taizō Sawai, Kazuo Tajima, Kazuo Tokuda
+|title=Shin Nihon Koten Bungaku Taikei: Muromachi Monogatari Shū (Jō)
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|date=1989
+|pages=291-309
+|language=Japanese
+|isbn=4-00-240054-9
+}}
+* {{R:Utsubo Monogatari 1}}
+* {{cite-book
+|last=Ōtsuki
+|first=Osamu
+|coauthors=Gen'e Imai, Sumiaki Morishita, Masao Karashima
+|title=Shin Nihon Koten Bungaku Taikei 26: Tsutsumi Chūnagon Monogatari, Torikaebaya Monogatari
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|year=1992
+|location=[[w:Tōkyō|Tōkyō]]
+|language=Japanese
+|isbn=4-00-240026-3
+}}

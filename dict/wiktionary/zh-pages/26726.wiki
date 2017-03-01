@@ -1,0 +1,69 @@
+{{character info/new}}
+{{also|衬}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=16|sn=22|four=36210|canj=LYDU|ids=⿰衤親}}
+
+# [[underwear]]
+# [[inner]] [[garment]]s
+
+====References====
+* {{Han ref|kx=1127.010|dkj=34712|dj=1594.130|hdz=53122.010|uh=896F|ud=35183|bh=C5A8|bd=50600}}
+
+----
+
+==Chinese==
+{{zh-forms|s=衬}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chèn
+|c=can3
+|mn=qz,xm,zz:chhìn/qz,xm,zz:chhàn
+|mn_note=chhàn - vernacular; chhìn - literary
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+* {{zh-l|老襯}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=衣16}}
+
+# {{defn|lang=ja|sort=衣16}}
+
+====Readings====
+* {{ja-readings|on=[[しん]] (shin)|kun=[[はだぎ]] (hadagi)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=친|eumhun=|rv=chin|mr=ch'in|y=chin}}
+
+# {{defn|lang=ko|sort=衣16}}
+
+[[fr:襯]]
+[[hu:襯]]
+[[ja:襯]]
+[[pl:襯]]
+[[th:襯]]
+[[vi:襯]]
+[[zh:襯]]

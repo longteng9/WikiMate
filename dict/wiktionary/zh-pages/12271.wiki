@@ -1,0 +1,55 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=05|sn=8|four=|canj=RKM|ids=⿰口左}}
+
+====References====
+* {{Han ref|kx=0185.211|hdz=10599.040|uh=5497}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|alt=唨,左-nonstandard,o左-internet}}
+May be derived from {{zh-l|*著}} or {{zh-l|*徂}}.
+
+====Pronunciation====
+{{zh-pron
+|c=zo2
+|cat=part
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{lb|zh|Cantonese}} {{non-gloss definition|Used to emphasise an action which has been completed and whose result still applies to the present situation. It roughly translates to the past tense in English.}}
+#: {{zh-x|佢哋 啱啱 走 咗。|They left just now.|C}}
+#: {{zh-x|阿媽 尋日 煲 咗 湯{tong1}。佢 而家 去 咗 超級市場 買 餸。|My mum made soup yesterday. Now, she has gone grocery shopping in the supermarket.|C}}
+#: {{zh-x|食 咗 就 冇|if you eat it there will not be any more|C}}
+
+=====Synonyms=====
+{{zh-dial|了}}
+
+===Etymology 2===
+{{zh-forms}}
+
+====Pronunciation====
+{{zh-pron
+|m=zuo
+|cat=interjection
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{n-g|A chant sound made while working.}}
+
+=====Compounds=====
+* {{zh-l|嘿咗}}
+
+[[fr:咗]]
+[[pl:咗]]
+[[th:咗]]
+[[zh:咗]]

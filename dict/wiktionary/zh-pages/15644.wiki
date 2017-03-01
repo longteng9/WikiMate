@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|癒|瘉}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=09|sn=13|four=80332|canj=OMBP|ids=⿱俞心}}
+
+# [[more and more]], [[even more]]
+
+====References====
+* {{Han ref|kx=0394.030|dkj=10904|dj=0730.140|hdz=42322.150|uh=6108|ud=24840|bh=B755|bd=46933}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yù
+|c=jyu6
+|mn=qz,xm:ú/zz:jí/qz,tw,xm:lú/kh,zz:jú
+|mn_note=ú/jí - literary; lú/jú - vernacular
+|mc=y
+|oc=y
+|ma=Zh-yù.ogg
+|cat=adv,det
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+* [[愈发]]
+* [[愈合]]
+* [[愈加]]
+* [[愈演愈烈]]
+* [[愈…愈…]]
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|9454}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=心09}}
+
+# {{defn|lang=ja|sort=心09}}
+
+====Readings====
+* {{ja-readings|on=[[ゆ]] (yu)|kun=[[まさる]] (masaru), [[いよいよ]] (iyoiyo)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[유]]|eumhun=|rv=yu|mr=yu|y=yu}}
+
+# {{defn|lang=ko|sort=心09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[rủ]]|rs=心09}}
+
+# {{defn|lang=vi|sort=心09}}
+
+[[zh-min-nan:愈]]
+[[fr:愈]]
+[[ko:愈]]
+[[li:愈]]
+[[hu:愈]]
+[[mg:愈]]
+[[ja:愈]]
+[[no:愈]]
+[[pl:愈]]
+[[th:愈]]
+[[zh:愈]]

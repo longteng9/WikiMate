@@ -1,0 +1,69 @@
+{{also|页岩}}
+==Chinese==
+{{zh-forms|s=页岩}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=yèyán
+|c=jip6 ngaam4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[schist]]; [[shale]]
+
+====Synonyms====
+* {{zh-l|泥板岩}}
+* {{zh-l|片岩}}
+
+====Derived terms====
+{{zh-der|頁岩氣}}
+
+{{zh-cat|Geology}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|けつ|がん|yomi=o}}
+
+===Etymology===
+From {{der|sort=けつがん|ja|ltc|頁岩|tr=ɦet̚  ŋˠam}}.
+
+===Pronunciation===
+{{ja-pron|yomi=kanon|けつがん|acc=2|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|けつがん}}
+
+# [[shale]]
+
+====Synonyms====
+* {{ja-r|泥板岩|でいばんがん}}
+
+====Derived terms====
+* {{ja-r|含油頁岩|がんゆ けつがん|[[oil shale]]}}
+* {{ja-r|頁岩油|けつがんゆ|[[shale oil]]}}
+* {{ja-r|石油頁岩|せきゆ けつがん|[[oil shale]]}}
+* {{ja-r|油頁岩|ゆけつがん|[[oil shale]]}}
+* {{ja-r|油母頁岩|ゆぼ けつがん|[[oil shale]]}}
+
+===References===
+<references/>
+
+[[Category:ja:Geology|けつがん]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=혈암}}
+
+# {{hanja form of|혈암|[[shale]]}}
+
+[[hu:頁岩]]

@@ -1,0 +1,116 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=128|rad=耳|as=08|sn=14|four=17232|canj=SEHHO,SEOHO|ids=⿱取乑,⿱取⿲人亻人}}
+
+# [[assemble]], [[meet]] [[together]], [[collect]]
+
+====References====
+* {{Han ref|kx=0967.410|dkj=29093|dj=1417.160|hdz=42791.180|uh=805A|ud=32858|bh=BB45|bd=47941}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|取|乑|c1=p|c2=s|t2=three men|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jù
+|c=zeoi6
+|h=pfs=chhi
+|mn=chū
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[congregate]]
+# to [[pile up]]
+# {{lb|zh|chemistry}} [[poly-]]
+# {{surname|lang=zh}}
+
+====Compounds====
+{{der3|title=Compounds
+|{{zh-l|聚寶盆}}
+|{{zh-l|聚苯乙烯}}
+|{{zh-l|聚變}}
+|{{zh-l|聚丙烯}}
+|{{zh-l|聚餐}}
+|{{zh-l|聚賭}}
+|{{zh-l|聚光燈}}
+|{{zh-l|聚光鏡}}
+|{{zh-l|聚合}}
+|{{zh-l|聚合物}}
+|{{zh-l|聚彙}}
+|{{zh-l|聚會}}
+|{{zh-l|聚伙}}
+|{{zh-l|聚積}}
+|{{zh-l|聚集}}
+|{{zh-l|聚殲}}
+|{{zh-l|聚焦}}
+|{{zh-l|聚精會神}}
+|{{zh-l|聚居}}
+|{{zh-l|聚斂}}
+|{{zh-l|聚攏}}
+|{{zh-l|聚氯乙烯}}
+|{{zh-l|聚落}}
+|{{zh-l|聚齊}}
+|{{zh-l|聚醛樹脂}}
+|{{zh-l|聚沙成塔}}
+|{{zh-l|聚首}}
+|{{zh-l|聚蚊成雷}}
+|{{zh-l|聚星}}
+|{{zh-l|聚乙烯}}
+|{{zh-l|聚議}}
+|{{zh-l|聚珍版}}
+|{{zh-l|聚酯}}
+|{{zh-l|聚眾}}
+}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=耳08}}
+
+# {{defn|lang=ja|sort=耳08}}
+
+====Readings====
+* {{ja-readings|goon=[[ず]] (zu)|kanon=[[しゅ]] (shu)|kanyoon=[[しゅう]] (shū), [[じゅ]] (ju)|kun=[[あつまる]] (atsumaru), [[あつめる]] (atsumeru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=취|eumhun=|rv=chwi|mr=ch'wi|y=chwi}}
+
+# {{defn|lang=ko|sort=耳08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tụ]], [[sụ]], [[tọ]], [[xụ]], [[xủ]]|rs=耳08}}
+
+# {{defn|lang=vi|sort=耳08}}
+
+[[fr:聚]]
+[[ko:聚]]
+[[hu:聚]]
+[[mg:聚]]
+[[ja:聚]]
+[[no:聚]]
+[[pl:聚]]
+[[th:聚]]
+[[zh:聚]]

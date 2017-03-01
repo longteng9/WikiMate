@@ -1,0 +1,44 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=ànsuàn
+|c=am3 syun3
+|mn=qz,tw,xm,zz:àm-soàn/qz,tw,xm:àm-sǹg/zz:àm-sùiⁿ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+# [[machination]], [[plot]], [[scheme]]
+
+===Verb===
+{{zh-verb}}
+# to [[plot]] against, to [[scheme]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|あん|さん|k2=ざん|yomi=o}}
+
+===Noun===
+{{ja-noun|あんざん}}
+# [[mental]] [[arithmetic]] {{gloss|doing calculations in one's head}}
+#* '''1933''', 大阪圭吉, 死の快走船:
+#*: {{ja-usex|東屋氏は眼をつぶって'''暗算'''を始める。|あづまや-し は め を つぶって '''あんざん''' を はじめる。|Azumaya closed his eyes and started to calculate in his head.}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|あんざん}}
+# to perform mental arithmetic
+
+====Conjugation====
+{{ja-suru|あんざん}}
+
+[[ko:暗算]]
+[[ky:暗算]]
+[[lo:暗算]]
+[[hu:暗算]]
+[[ja:暗算]]
+[[sv:暗算]]
+[[zh:暗算]]

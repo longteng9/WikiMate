@@ -1,0 +1,56 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=184|rad=食|as=13|sn=22|four=84786|canj=OIJTC}}
+
+# {{defn|Han|sort=食13}}
+
+====References====
+* {{Han ref|kx=1426.190|dkj=44435|dj=1952.220|hdz=74472.070|uh=9959|ud=39257|bh=F556|bd=62806}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēn
+|c=fan1,pan3
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|饙餾}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=食13}}
+
+# {{defn|lang=ja|sort=食13}}
+
+====Readings====
+* {{ja-readings|on=[[ふん]] (fun)|kun=[[むす]] (musu)}}
+
+[[fr:饙]]
+[[hu:饙]]
+[[pl:饙]]
+[[th:饙]]
+[[zh:饙]]

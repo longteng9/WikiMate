@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|てん|そう|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|てんそう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|てんそう|kyu=轉送}}
+
+# [[transfer]], [[send on|sending on]]
+# [[forwarding]]
+
+===Verb===
+{{ja-verb-suru|てんそう|kyu=轉送}}
+
+# to [[transfer]], to [[send on]]
+# to [[forward]] a telephone call
+
+====Conjugation====
+{{ja-suru|てんそう}}
+
+===References===
+<references/>
+
+[[hu:転送]]
+[[mg:転送]]
+[[chr:転送]]
+[[zh:転送]]

@@ -1,0 +1,138 @@
+{{character info/new}}
+{{also|煽|搧}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=63|rad=戶|as=06|sn=10|four=30227|canj=HSSMM,ISSMM|ids=⿸戶羽, ⿸户羽, ⿸戸羽}}
+
+====Derived characters====
+* [[煽]]
+
+====References====
+* {{Han ref|kx=0416.140|dkj=11743|dj=0761.160|hdz=32263.060|uh=6247|ud=25159|bh=AEB0|bd=44720}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|戶|羽|ls=ic|t1=door|t2=feather}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=shàn
+|c=sin3
+|h=pfs=san
+|mn=siàn/sìⁿ
+|mn_note=sìⁿ - vernacular; siàn - literary
+|mc=2
+|oc=1,2
+|cat=n,cls
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[leaf]] of [[door]]
+# [[fan]]
+# {{zh-classifier|[[door]]s, [[window]]s}}
+
+====Compounds====
+{{zh-der|合歡扇|兩扇皮|團香扇|團扇|丟紙扇|卻扇|宮扇|吊扇|六扇門|寶扇|冬扇夏爐|團扇妾|夏鑪冬扇|扇子生|搖鵝毛扇|扇形|折扇|檀香扇|沖積扇|扇墜兒|扇對|扇子|白團扇|打扇|桃花扇|扇形角|撒扇|秋風團扇|磨扇墜手|格扇|秋扇見捐|扇牌|歌扇|秋扇|掌扇|扇葉蒲葵|扇形理論|班姬詠扇|扇面|扇車|扇馬|扇面對|扇舞|波扇|油紙扇|摺疊扇|油搭扇|扇骨子|海扇|摺扇|扇貝|雉尾扇|紙扇|羅扇|聚頭扇|肋巴扇兒|芭蕉扇|羽扇綸巾|蒲葵扇|闔扇|門扇|香扇|羽扇|舞衫歌扇|葵扇|鵰翎扇|鵝翎扇|鵝毛扇|電風扇|紈扇|蕉扇|走扇|篋扇|鞋扇|風扇|鐵扇公主|骨扇|電扇|隔扇|蒲扇價增|羽扇豆|舉扇一撝|竹扇|蒲扇|落地扇}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=shān
+|c=sin3
+|h=pfs=san
+|mn=siàn/sìⁿ
+|mn_note=sìⁿ - vernacular; siàn - literary
+|dial=n
+|mc=1
+|oc=n,1
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[fan]]
+#* {{zh-x|因為 大廳 裡 很 熱，她 扇 個 不停。|As the hall was very hot, she kept '''fanning''' herself all the time.}}
+# to [[slap]] {{qualifier|somebody on the face}}
+#* {{zh-x|我 真 想 扇{shān} 你 一 個 耳光。|I could '''give you a slap''' in the face.}}
+# {{zh-original|煽|to [[agitate]]}}
+
+====Compounds====
+{{zh-der|來扇館|扇枕溫衾|扇枕溫席|扇火止沸|扇動|扇涼翅兒|溫席扇枕|扇誘|扇揚|扇風耳朵|扇枕溫被}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=7|rs=戶06}}
+
+====Readings====
+{{ja-readings|goon=[[せん]] (sen)|kanon=[[せん]] (sen)|kun=[[おうぎ]] (ōgi)}}
+
+====Compounds====
+* {{ja-r|扇子|せんす}}
+* {{ja-r|団扇|うちわ}}
+* {{ja-r|鉄扇|てっせん}}
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|おうぎ|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|おうぎ|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|おうぎ|hhira=あふぎ}}
+
+# [[fan]] (folding fan)
+
+====Derived terms====
+* {{ja-r|蝙蝠扇|かわほりおうぎ}}: [[bat]] [[fan]], a folded paper fan
+
+====Related terms====
+* {{ja-r|扇ぐ|あおぐ|gloss=to [[fan]]}}
+
+===References===
+<references/>
+
+[[Category:ja:Fans|おうぎ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=선|eumhun=|rv=seon|mr=sŏn|y=sen}}
+
+# {{defn|lang=ko|sort=戶06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''扇''' ([[phiến]], [[thiên]], [[võ]], [[vũ]], [[xuân]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:扇]]
+[[ko:扇]]
+[[hu:扇]]
+[[mg:扇]]
+[[ms:扇]]
+[[ja:扇]]
+[[no:扇]]
+[[pl:扇]]
+[[ru:扇]]
+[[th:扇]]
+[[chr:扇]]
+[[zh:扇]]

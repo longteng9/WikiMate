@@ -1,0 +1,24 @@
+{{also|当机}}
+==Chinese==
+{{zh-forms|s=当机|alt=宕機}}
+
+===Etymology===
+The first syllable is borrowed from {{bor|zh|en|down|notext=1}}.
+
+===Pronunciation===
+{{zh-pron
+|m=dàngjī
+|c=daang1 gei1,dong1 gei1
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|originally|Cantonese|colloquial|of a computer}} to [[crash]]
+# {{lb|zh|figurative}} to [[go]] [[haywire]]
+
+====Synonyms====
+* {{zh-l|死機}}
+
+[[zh:當機]]

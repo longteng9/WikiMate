@@ -1,0 +1,32 @@
+==Japanese==
+{{ja-kanjitab|げん|ご|ろう|ふな|k4=ぶな|yomi=j|r=y}}
+[[File:Carassius_cuvieri_by_OpenCage.jpg|thumb|250px|{{lang|ja|ゲンゴロウブナ}}]]
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=けんごろうぶな'|源五郎|tr1=Gengorō|t1=male given name|鮒|tr2=funa|t2=[[crucian carp]]}}. The ''funa'' changes to ''buna'' due to {{rendaku|けんごろうぶな'}}.
+
+According to one theory, the ''Gengorō'' portion was the name of a fisherman who fished in [[w:Lake Biwa|Lake Biwa]], and every morning, presented the best of his catch of ''funa'' to the local lord. In another theory, this term arose from a tale about a Lake Biwa fisherman named ''Gengorō'', who fell in love with a noblewoman and arranged a secret meeting with her by hiding a note inside a ''gengorōbuna'' fish that he had caught and presented to her.
+
+Like many [[biology]] terms, this word is often spelled in katakana, as {{l|ja|ゲンゴロウブナ}}.
+
+===Pronunciation===
+* Mixed:
+** {{l|ja|sc=Latn|音読み|On'yomi}} for ''Gengorō''
+** {{l|ja|sc=Latn|訓読み|Kun'yomi}} for ''buna''
+* {{ja-pron|げんごろうぶな|acc=6|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|げんごろうぶな|ゲンゴロウブナ|hhira=げんごらうぶな}}
+
+# ''[[Carassius cuvieri]]'' the [[Japanese crucian carp]] or {{vern|white crucian carp}}, a type of {{m|ja|鮒|tr=funa||[[crucian carp]]}}, an [[edible]] freshwater ray-finned fish related to [[carp]] and [[goldfish]] and endemic to [[Lake Biwa]] in Japan
+
+===References===
+<references/>
+
+===External links===
+* {{pedia|lang=ja}}
+* {{pedia|Carassius cuvieri}}
+
+[[Category:ja:Cyprinids|けんごろうぶな']]
+
+[[ja:源五郎鮒]]

@@ -1,0 +1,68 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàidài
+|c=doi6 doi6
+|h=pfs=thoi-thoi
+|mn=tāi-tāi
+|cat=adv
+}}
+
+===Adverb===
+{{zh-adv}}
+
+# [[generation]] after [[generation]]
+
+====Derived terms====
+{{zh-der|代代相傳}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|よ|よ|yomi=k|sort=よよ}}
+{{ja-kanjitab|だい|だい|yomi=o|sort=だいだい}}
+
+===Alternative forms===
+* {{ja-r|代%々|だい%だい}}
+* {{ja-r|世%世|よ%よ}}; {{ja-r|世%々|よ%よ}}
+
+===Etymology===
+Duplication of {{m|ja|代|tr=dai, yo||[[generation]]}}. Compare {{cog|zh|代代}}, {{cog|vi|đời đời}}.
+{{rfe|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|acc=a|y=go|だいだい}}
+{{ja-pron|acc=a|y=k|よよ}}
+
+===Noun===
+{{ja-noun|だいだい|よよ}}
+
+# [[generation]] after generation
+#* {{quote-book
+|language=Japanese
+|genre=fiction
+||{{w|Hideaki Sorachi}}
+|{{w|lang=ja|銀魂|{{ruby|{{lang|ja|[銀](ぎん)[魂](たま)}}}}}}
+|trans-title={{w|Gin Tama|Silver Soul}}
+|location=Tokyo
+|publisher=Shueisha
+|date=Dec 8 2010
+|isbn=978-4-08-870145-5
+|volume=37
+|chapter={{ruby|{{lang|ja|[二](に)[度](ど)あることは[三](さん)[度](ど)ある}}}}
+|trans-chapter=Twice, Thrice That There Are
+|||{{ja-usex|将%軍%家は'''代%々'''水%練の時も　もっさりブリーフ派だ|^しょう%ぐん%け は '''だい%だい''' すい%れん の とき も　もっさり ブリーフ-は だ|'''For generations''' of the shogun clan, when it comes time for swimming, we have been fans of the humble briefs}}}}
+
+====Usage notes====
+* ''daidai'' is a more common pronunciation than ''yoyo''.
+* {{lang|ja|代代}} and {{ja-l|代々}} are both commonly used, and more so than {{ja-l|世世}} and {{ja-l|世々}}.
+
+====Derived terms====
+* {{ja-r|代%代%伝わる|だい%だい% つたわる|be transmitted from generation to generation}}
+* {{ja-r|親%代%代|おや%だい%だい|inheritance}}
+* {{ja-r|先%祖%代%代|せん%ぞ% だい%だい|ancestral; hereditary}}
+
+[[ko:代代]]
+[[zh:代代]]

@@ -1,0 +1,50 @@
+{{also|起重机}}
+==Chinese==
+{{zh-forms|s=起重机|type=21}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+{{zh-compound|起重|機|to lift and move a heavy object|machine}}
+
+===Pronunciation===
+{{zh-pron
+|m=qǐzhòngjī
+|c=hei2 cung5 gei1
+|mn=khí-tiōng-ki
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[crane]], [[hoist]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|き|じゅう|き|yomi=on}}
+
+===Pronunciation===
+{{ja-pron|きじゅうき|y=on}}
+
+===Noun===
+{{ja-noun|きじゅうき}}
+
+# [[crane]] {{gloss|machine for lifting large objects}}
+
+====Synonyms====
+* {{l|ja|クレーン}}
+
+----
+
+==Korean==
+{{ko-hanjatab|起|重|機}}
+
+===Noun===
+{{ko-noun|rv=gijunggi|hangeul=기중기}}
+
+# {{hanja form of|기중기|[[crane]], [[hoist]]}}
+
+[[ko:起重機]]
+[[ja:起重機]]
+[[zh:起重機]]

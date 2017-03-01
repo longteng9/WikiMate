@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=05|sn=8|four=34160|canj=EJR|ids=⿰氵古}}
+
+# [[buy]] and [[sell]]
+# [[cheap]], [[shoddy]], [[inferior]] in [[quality]]
+
+====References====
+* {{Han ref|kx=0614.100|dkj=17258|dj=1008.020|hdz=31581.020|uh=6CBD|ud=27837|bh=AA66|bd=43622}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gū
+|c=gu2,gu1
+|mn=ko͘/kó͘
+|mc=y
+|oc=y
+|cat=v,a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|功沽|吊譽沽名|善賈而沽|塘沽|塘沽新港|大沽|大沽口|屠沽|屠沽兒|屠沽子|平沽|待價而沽|沽取|沽名|沽名吊譽|沽名干譽|沽名邀譽|沽名釣譽|沽河|沽泊|沽激|沽直|沽酒|沽酒當爐|沽飲|直沽|釣名沽譽|釣譽沽名}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水05}}
+
+# {{defn|lang=ja|sort=水05}}
+
+====Readings====
+* {{ja-readings|on=[[こ]] (ko)|kun=[[かう]] (kau), [[あたい]] (atai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|eumhun=|rv=go|mr=ko|y=ko}}
+
+# {{defn|lang=ko|sort=水05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=水05| hanviet = cô}}
+
+# {{defn|lang=vi|sort=水05}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6cbd Nom Foundation]
+
+[[fr:沽]]
+[[ko:沽]]
+[[hu:沽]]
+[[mg:沽]]
+[[ja:沽]]
+[[no:沽]]
+[[pl:沽]]
+[[th:沽]]
+[[zh:沽]]

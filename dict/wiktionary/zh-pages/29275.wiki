@@ -1,0 +1,54 @@
+{{character info/new}}
+{{also|鉤|钩}}
+==Translingual==
+
+===Alternative forms===
+* {{l|mul|鉤}}
+
+===Etymology===
+Variant of [[鉤]], via variation/corruption of phonetic [[句]] → [[勾]].
+
+{{Han compound|金|t1=metal|勾|ls=psc|c1=s|c2=p}} – a metal hook. 勾 also has meaning of “hook”, from its semantic [[勹]], hence a metal (金) hook (勾, 勹).
+
+===Han character===
+{{Han char|rn=167|rad=金|as=04|sn=12|four=|canj=CPI,XXCPI}}
+
+# [[hook]], [[barb]]
+# [[sickle]]
+# stroke with
+
+====Descendants====
+* [[钩]]
+
+====See also====
+* {{l|mul|鉱}} <!-- visually similar -->
+
+====References====
+* {{Han ref|kx=1298.140|dkj=40220|dj=1801.070|hdz=64179.060|uh=920E|ud=37390}}
+
+----
+
+==Chinese==
+{{zh-see|鉤|v}}<ref>{{R:twedu|A04285-001}}</ref>
+
+===References===
+<references />
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金04}}
+
+# {{defn|lang=ja|sort=金04}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[く]] (ku)|kun=[[かぎ]] (kagi), [[かける]] (kakeru)|nanori=}}
+
+[[fr:鈎]]
+[[hu:鈎]]
+[[ja:鈎]]
+[[pl:鈎]]
+[[th:鈎]]
+[[zh:鈎]]

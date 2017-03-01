@@ -1,0 +1,60 @@
+{{character info/new}}
+{{also|鹾}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=197|rad=鹵|as=10|sn=21|four=28610|canj=YWTQM}}
+
+# [[salty]]
+# [[salt]]
+
+====References====
+* {{Han ref|kx=1507.290|dkj=47563|dj=2035.310|hdz=74611.020|uh=9E7A|ud=40570|bh=F6C9|bd=63177}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鹾}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cuó
+|c=co4,co1
+|mc=y
+|oc=y
+|cat=a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[salted]]
+# [[salt]]
+
+====Compounds====
+{{zh-der|鹺使|鹺務}}
+
+===References===
+* {{R:twedu|B06212}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=鹵10}}
+
+# {{defn|lang=ja|sort=鹵10}}
+
+====Readings====
+* {{ja-readings|on=[[さ]] (sa), [[ざ]] (za), [[し]] (shi), [[じ]] (ji)|kun=[[しお]] (shio)}}
+
+[[fr:鹺]]
+[[hu:鹺]]
+[[pl:鹺]]
+[[th:鹺]]
+[[zh:鹺]]

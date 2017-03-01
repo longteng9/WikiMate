@@ -1,0 +1,42 @@
+{{also|堆积岩}}
+==Chinese==
+{{zh-forms|s=堆积岩|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=duījīyán
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[sedimentary rock]]
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Sedimentary rock}}
+[[File:Lower_antelope_3_md.jpg|thumb|250px|{{lang|ja|堆積岩}} (''taisekigan''): a sandstone formation showing the [[striations]] common in '''[[sedimentary rock]]'''.]]
+</div>
+{{ja-kanjitab|たい|せき|がん|yomi=on}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=たいせきがん|堆積|tr1=taiseki|t1=accumulation, sedimentation|岩|tr2=gan|t2=rock}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=o|たいせきがん|acc=4|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|たいせきがん}}
+
+# [[sedimentary rock]]
+
+====Coordinate terms====
+* {{ja-r|火成岩|かせいがん}}: [[igneous rock]]
+* {{ja-r|変成岩|へんせいがん}}: [[metamorphic rock]]
+
+===References===
+<references/>

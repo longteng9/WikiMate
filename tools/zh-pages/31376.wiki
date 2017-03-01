@@ -1,0 +1,120 @@
+{{character info/new}}
+{{also|饼|餠}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=184|rad=食|as=08|sn=17|four=88741|canj=OITT|ids=⿰飠并}}
+
+====References====
+* {{Han ref|kx=1419.140|dkj=44133|dj=1943.200|hdz=74453.010|uh=9905|ud=39173|bh=BBE6|bd=48102}}
+
+----
+
+==Chinese==
+{{zh-forms|s=饼|alt=餠}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|食|alt1=飠|t1=food|幷|ls=psc|c1=s|c2=p}} (as in {{zh-l|*餠}}); phonetic component now simplified to {{zh-l|*并}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bǐng
+|c=beng2,bing2
+|h=pfs=piáng
+|md=biāng/piāng
+|md_note=biāng - noun; piāng - classifier
+|mn=piáⁿ/péng
+|mn_note=piáⁿ - vernacular; péng - literary
+|w=2pin
+|mc=y
+|oc=y
+|cat=n,cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[pastry]]; [[biscuit]]; [[cookie]]
+#: {{zh-x|月餅|moon'''cake'''}}
+#: {{zh-x|曲奇餅|cookie}}
+# any [[round]] and [[flat]] [[pancake]]-like object
+#: {{zh-x|肉餅|meat patty}}
+# {{lb|zh|Cantonese}} {{zh-classifier|video cassettes}}
+# {{lb|zh|Min Dong}} {{zh-classifier|pastry or flat objects}}
+
+===Compounds===
+{{zh-der|潤餅|雞仔餅|餅乾|一漿十餅|充饑畫餅|光餅|吃燒餅|合子餅|喜餅|大餅|太陽餅|夾心餅乾|奶餅|威化餅|寶珠市餅|尖餅|春餅|月餅|松花餅|柿餅|椪餅|橘餅|油餅|湯餅|湯餅會|炊餅|烙燒餅|烙餅|煎餅|蒸餅|燒餅|燒餅歌|爐餅|牛舌餅|狀元餅|番薯椪餅|畫餅|畫餅充饑|疤瘌餅|石頭餅|福壽餅|禮餅|粉餅|糕餅|翻餅|老婆餅|耿餅|聖餅子|肉餅|胡餅|脆餅|茶餅|蔥油餅|薄餅|藥餅|蘇打餅乾|蛋餅|讖語餅|豆餅|貼餅子|鍋餅|鐵餅|雞蛋餅|雪餅|餅子|餅師|餅金|餅銀|餅錠|餅鐺|餅餌|餡餅|香餅|麵餅|麻餅|黃串餅|龍鳳餅}}
+
+===Descendants===
+* Khmer: {{l|km|បាញ់||cake, pastry}}
+* Lao: {{l|lo|ແປ້ງ||flour; starch; powder}}
+* Thai: {{l|th|แป้ง||powder; flour; starch}}
+* Vietnamese: {{l|vi|bánh||pastry; cake; bread}}
+
+{{zh-cat|Foods}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=食08}}
+
+====Readings====
+* {{ja-readings|on=[[へい]] (hei), [[ひょう]] (hyō)|kun=[[もち]] (mochi)}}
+
+===Etymology===
+{{wikipedia|mochi}}
+[[File:Mochi 002.jpg|thumb]]
+{{ja-kanjitab|もち|yomi=kun}}
+{{rfe|ja}}
+
+====Noun====
+{{ja-noun|もち}}
+
+# [[mochi]]; [[rice cake]]
+
+[[Category:Japanese basic words|もち]]
+[[Category:ja:Foods|もち]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=병|rv=byeong|mr=|y=|eumhun=떡|ehrv=tteok|ehmr=|ehy=}}
+
+# [[cake]]
+
+----
+
+==Vietnamese==
+
+===Character===
+{{rfc-header|Nom character|lang=vi}}
+
+====Readings====
+{{vi-readings|hanviet=bính|nom=bính, bánh|rs=食08}}
+
+===Etymology 1===
+
+====Noun====
+{{vi-noun|sc=Hani|bánh|rs=食08}}
+# [[pastry]], [[cake]], [[bread]], [[dumpling]], [[noodle]], [[wafer]], or [[pudding]]
+#* '''13th century:''' [[w:Trần Nhân Tông|Trần Nhân Tông]], "[[s:vi:Cư trần lạc đạo phú/Đệ cửu hội|Đệ cửu hội]]", ''[[s:vi:Cư trần lạc đạo phú|Cư trần lạc đạo phú]]''
+#*: {{vi-ruby|茶趙老餅韶陽/排禪子矣群肁渴|trà Triệu lão, bánh Thiều Dương / bầy thiền tử hãy còn đói khát}}
+#*:: Old man Trieu’s tea, Thieu Duong cakes, / the novices still hungry and thirsty.
+
+===References===
+* {{R:Taberd 1838|p=A4}}
+* {{R:WinVNKey:Lê Sơn Thanh}}
+
+[[fr:餅]]
+[[li:餅]]
+[[hu:餅]]
+[[mg:餅]]
+[[ja:餅]]
+[[pl:餅]]
+[[th:餅]]
+[[zh:餅]]

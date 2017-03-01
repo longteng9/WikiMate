@@ -1,0 +1,55 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=115|rad=禾|as=05|sn=10|four=22994|canj=HDHD|ids=⿰禾禾}}
+
+# {{lb|zh|Cantonese}} [[excessively]] [[thin]]
+
+====Descendants====
+* [[厤]]
+
+====References====
+* {{Han ref|kx=0851.180|dkj=24983|hdz=42600.050|uh=79DD|ud=31197|bh=D2F5|bd=54005}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|禾|禾|ls=ic}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lì
+|c=lik6
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=禾05}}
+
+# {{defn|lang=ja|sort=禾05}}
+
+====Readings====
+* {{ja-readings|on=[[れき]] (reki), [[りゃく]] (ryaku)|kun=[[ならぶ]] (narabu)|nanori=}}
+
+[[fr:秝]]
+[[hu:秝]]
+[[pl:秝]]
+[[th:秝]]
+[[zh:秝]]

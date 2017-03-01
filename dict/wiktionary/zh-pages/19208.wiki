@@ -1,0 +1,89 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=09|sn=12|four=38117|canj=ECST}}
+
+# an affluent of the River Yangtze near Kiukiang
+
+====References====
+* {{Han ref|kx=0636.320|dkj=17832|dj=1044.020|hdz=31682.060|uh=6E53|ud=28243|bh=DA4B|bd=55883}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation 1===
+{{zh-pron
+|m=pén
+|m-s=pen2
+|c=pun4
+|h=pfs=phùn;gd=pun1
+|x=ben2
+|mc=1
+|oc=2
+|cat=v,n,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{lb|zh|Southwestern Mandarin|dialectal|_|Gan|Hakka|dialectal|_|Jin|Xiang|of water|etc.}} to [[overflow]]
+# {{†}} [[rainstorm]]; [[shower]]
+# {{lb|zh|historical}} {{zh-altname|龍開河}}
+
+=====Synonyms=====
+* {{sense|to overflow}} {{qualifier|Standard Mandarin}} {{zh-l|溢出}}
+
+====Compounds====
+{{zh-der|湓出|湓溢|湓涌}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=pèn
+|mc=3+2
+|oc=1+3
+|cat=adv,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{lb|zh|onomatopoeia}} {{n-g|The sound of water.}}
+# {{†}} to [[squirt]] water
+
+====Compounds====
+{{zh-der|湓流}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水09}}
+
+# {{defn|lang=ja|sort=水09}}
+
+====Readings====
+* {{ja-readings|on=[[ほん]] (hon), [[ふん]] (fun), [[ぼん]] (bon)|kun=[[あふれる]] (afureru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=분|eumhun=|rv=bun|mr=pun|y=pun}}
+
+# {{defn|lang=ko|sort=水09}}
+
+----
+
+
+
+[[fr:湓]]
+[[hu:湓]]
+[[mg:湓]]
+[[pl:湓]]
+[[th:湓]]
+[[zh:湓]]

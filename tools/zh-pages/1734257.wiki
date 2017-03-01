@@ -1,0 +1,19 @@
+==Japanese==
+{{ja-kanjitab|閉|鎖|音}}
+
+===Etymology===
+Compound of {{compound|閉鎖|tr1=heisa|t1=closing|音|tr2=on|t2=sound|lang=ja}}.
+
+===Pronunciation===
+* {{IPA|/heisaon/|lang=ja}}, {{IPA|/heːsaon/|lang=ja}}
+
+===Noun===
+{{ja-noun|へいさおん}}
+
+# {{lb|ja|phonetics|sort=へいさおん}} a [[stop]], a [[plosive]]
+
+====Synonyms====
+* {{ja-r|閉塞音|へいそくおん}}
+
+[[ko:閉鎖音]]
+[[mg:閉鎖音]]

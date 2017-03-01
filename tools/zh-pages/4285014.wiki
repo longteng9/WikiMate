@@ -1,0 +1,60 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=guǎnzhì
+|mn=koán-chè
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[control]], [[supervision]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[control]], to put under surveillance
+----
+
+==Japanese==
+{{ja-kanjitab|かん|せい|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|かんせい|y=o}}
+
+===Noun===
+{{ja-noun|かんせい|tr=trans}}
+
+# [[control]] by the state in response to emergency, such as through censorship or the imposition of blackouts or brownouts
+# control of aircraft etc. in an airport
+
+===Verb===
+{{ja-verb-suru|かんせい|tr=trans}}
+
+#for the state impose control
+
+====Conjugation====
+{{ja-suru|かんせい}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=관제}}
+
+# {{hanja form of|관제|}}
+
+[[zh-min-nan:管制]]
+[[ko:管制]]
+[[mg:管制]]
+[[th:管制]]
+[[chr:管制]]
+[[zh:管制]]

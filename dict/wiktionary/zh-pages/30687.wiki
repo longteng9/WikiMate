@@ -1,0 +1,90 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+
+===Han character===
+{{Han char|rn=170|rad=阜|as=08|sn=11|four=77220|canj=NLPOU|ids=⿰[[阜|⻖]][[匋]]}}
+
+# [[pottery]], [[ceramics]]
+# make pottery
+# [[cultivate]], [[educate]], [[mould#Verb|mould]]
+# [[contented]], [[happy]]
+# used as a [[surname]]
+
+====References====
+* {{Han ref|kx=1354.100|dkj=41705|dj=1858.010|hdz=64139.050|uh=9676|ud=38518|bh=B3B3|bd=46003}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=táo
+|c=tou4,jiu4
+|h=pfs=
+|md=
+|mn=tô/qz:tô͘
+|w=
+|mc=y
+|oc=y
+|cat=n,v,a,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+* {{zh-l|陶土}}: [[potter's clay]]
+* {{zh-l|陶工}}: a [[potter]]
+* {{zh-l|陶瓷工}}
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=阜08}}
+
+# {{defn|lang=ja|sort=阜08}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō), [[よう]] (yō)|kun=[[すえ]] (sue)}}
+
+====Compounds====
+* {{ja-r|陶工|とうこう}}: a [[potter]]
+* {{ja-r|陶土|とうど}}: [[potter's clay]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[도]], [[요]]|eumhun=|rv=do, yo|mr=to, yo|y=to, yo}}
+
+# {{defn|lang=ko|sort=阜08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[đào]]|rs=阜08}}
+
+# {{defn|lang=vi|sort=阜08}}
+
+[[fr:陶]]
+[[ko:陶]]
+[[hu:陶]]
+[[mg:陶]]
+[[ms:陶]]
+[[ja:陶]]
+[[no:陶]]
+[[pl:陶]]
+[[th:陶]]
+[[vi:陶]]
+[[zh:陶]]

@@ -1,0 +1,91 @@
+{{character info/new}}
+{{also|复|覆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=60|rad=彳|as=09|sn=12|four=28247|canj=HOOAE|ids=⿰彳复}}
+
+# [[return]]
+# [[repeat]], [[repeatedly]]
+
+====Derived characters====
+* [[履]] [[覆]]
+
+====References====
+* {{Han ref|kx=0369.220|dkj=10183|dj=0695.150|hdz=20834.020|uh=5FA9|ud=24489|bh=B45F|bd=46175}}
+
+----
+
+==Chinese==
+{{zh-forms|s=复}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|彳|复|c1=s|c2=p|t1=walk|t2=repeat|ls=psc}}.
+
+Walk [[back and forth]].
+
+===Pronunciation===
+{{zh-pron
+|m=fù
+|c=fau6,fuk6
+|mn=ho̍k
+|mc=y
+|oc=y
+|ma=
+|cat=v,adv,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[return]]
+# to [[repeat]]
+# [[repeatedly]]
+# 24th [[hexagram]] of the [[I Ching]]
+
+====Compounds====
+{{zh-der|復交|復仇|復任|復位|復元|復出|復刊|復原|復古|復名數|復命|復員|復圓|復學|復工|復市|復明|復會|復業|復歸|復活|復活節|復現|復生|復甦|復發|復種|復職|復興|復舊|復課|復辟|復電|復議|復婚|復核|復信|復函|復蹈前轍|復聰}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=彳09}}
+
+# [[restore]]
+# [[return]] [[to]]
+# [[revert]]
+# [[resume]]
+
+====Readings====
+{{ja-readings|goon=[[ぶく]] (buku)|kanon=[[ふく]] (fuku)|kun=[[かえる]] (kaeru), [[かえす]] (kaesu), [[また]] (mata)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[복]], [[부]]|eumhun=|rv=bok, bu|mr=pok, pu|y=pok, pu}}
+
+# [[return]]
+# [[repeat]]
+# [[repeatedly]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phục]], [[phức]]|rs=彳09}}
+
+# {{defn|lang=vi|sort=彳09}}
+
+[[fr:復]]
+[[ko:復]]
+[[hu:復]]
+[[ja:復]]
+[[pl:復]]
+[[th:復]]
+[[zh:復]]

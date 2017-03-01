@@ -1,0 +1,47 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+From {{der|zh|sa|निर्वाण||blown or put out, extinguished}} or {{der|zh|pi|nibbāna}}.
+
+===Pronunciation===
+{{zh-pron
+|m=nièpán
+|c=nip6 pun4
+|h=pfs=net-phàn
+|mn=xm:lia̍t-phoân/tw:liap-phoân/tw:lia̍p-phoân
+|mc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Buddhism}} [[nirvana]]
+
+====Synonyms====
+* {{zh-l|圓寂}}
+* {{zh-l|寂滅}}
+* {{zh-l|果果}}
+* {{qualifier|abbreviation}} {{zh-l|涅}}
+
+====Descendants====
+{{CJKV||ねはん|열반|niết bàn}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ね|はん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|acc=h|acc2=a|acc3=2|y=o|ねはん}}
+
+===Noun===
+{{ja-noun|ねはん}}
+
+# {{lb|ja|Buddhism|sort=ねはん}} [[nirvana]]
+
+[[ko:涅槃]]
+[[ja:涅槃]]
+[[pl:涅槃]]
+[[zh:涅槃]]

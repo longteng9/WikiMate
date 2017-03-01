@@ -1,0 +1,83 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=06|sn=9|four=52064|canj=QHJR|ids=⿰扌舌}}
+
+====References====
+* {{Han ref|kx=0427.190|dkj=11988|dj=0776.160|hdz=31870.010|uh=62EC|ud=25324|bh=AC41|bd=44097}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|栝|ls=psc|c1=s|c2=p|t1=hand}}.
+
+===Pronunciation===
+{{zh-pron
+|m=括
+|c=kut3,gwaat3
+|h=pfs=
+|md=
+|mn=koah
+|w=4kuaq
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{†}} to [[tie]]; to tie up; to tie together
+# {{†}} to [[seek]]; to [[search]] for
+# to [[embrace]]; to [[enclose]]
+# to [[include]]; to [[encompass]]
+# to [[enclose]] in [[brackets]]
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|包括|刷括|含括|囊括|大括弧|帖括|帖括業|扎括|括刷|括剌剌|括囊|括囊守祿|括囊拱手|括地皮|括帖|括弧|括括叫|括搭|括毒|括約肌|括號|括髮|搜括|概括|概括承受|機括|檢括|沈括|瘦括括|盆成括|盤成括|簡括|籠括|統括|綜括|總括|罵罵括括|賅括|隱括|頂括括}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=手06}}
+
+# {{defn|lang=ja|sort=手06}}
+
+====Readings====
+* {{ja-readings|goon=[[かち]] (kachi)|kanon=[[かつ]] (katsu)|kun=[[くくる]] (kukuru), [[くくり]] (kukuri)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[괄]]|eumhun=|rv=gwal|mr=kwal|y=kwal}}
+
+# {{defn|lang=ko|sort=手06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[quát]], [[khoát]], [[quất]], [[quét]]|rs=手06}}
+
+# {{defn|lang=vi}}
+
+[[fr:括]]
+[[ko:括]]
+[[hu:括]]
+[[mg:括]]
+[[ja:括]]
+[[no:括]]
+[[pl:括]]
+[[th:括]]
+[[zh:括]]

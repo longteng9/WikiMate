@@ -1,0 +1,13 @@
+==Japanese==
+{{ja-kanjitab|しん|り|ち|yomi=on}}
+
+===Etymology===
+{{compound|lang=ja|sort=しんりち|真理|tr1=shinri|t1=truth|値|tr2=chi|t2=value}}
+
+===Noun===
+{{ja-noun|しんりち}}
+
+# {{lb|ja|logic|sort=しんりち}} [[truth value]]
+
+[[sv:真理値]]
+[[zh:真理値]]

@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|鳆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=09|sn=20|four=28347|canj=NFOAE}}
+
+# [[abalone]]
+
+====References====
+* {{Han ref|kx=1475.040|dkj=46340|dj=2006.300|hdz=74702.100|uh=9C12|ud=39954|bh=F56E|bd=62830}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鳆}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fù
+|c=fuk1,fuk6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚09}}
+
+# {{defn|lang=ja|sort=魚09}}
+
+====Readings====
+* {{ja-readings|on=[[ふく]] (fuku)|kun=[[あわび]] (awabi), [[ふぐ]] (fugu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=복|eumhun=|rv=bok|mr=pok|y=pok}}
+
+# {{defn|lang=ko|sort=魚09}}
+
+[[fr:鰒]]
+[[hu:鰒]]
+[[ja:鰒]]
+[[pl:鰒]]
+[[th:鰒]]
+[[vi:鰒]]
+[[zh:鰒]]

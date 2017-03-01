@@ -1,0 +1,68 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=10|sn=13|four=33142|canj=EIBI|ids=⿰氵尃}}
+
+====Derived characters====
+* [[薄]]
+
+====References====
+* {{Han ref|kx=0640.120|dkj=17957|dj=1047.070|hdz=31695.040|uh=6EA5|ud=28325|bh=B7C1|bd=47041}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|alt1=氵|尃|c1=s|c2=p|t1=water|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=pǔ
+|c=pou2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[big]]; [[great]]; [[vast]]; [[wide]]
+# [[widespread]]; [[universal]]
+
+====Compounds====
+{{zh-der|溥博|溥原|溥被|溥天同慶}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水10}}
+
+# {{defn|lang=ja|sort=水10}}
+
+====Readings====
+* {{ja-readings|on=[[ほ]] (ho), [[ふ]] (fu), [[はく]] (haku)|kun=[[あまねし]] (amaneshi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[부]], [[박]]|eumhun=|rv=bu, bak|mr=pu, pak|y=pu, pak}}
+
+# {{defn|lang=ko|sort=水10}}
+
+[[fr:溥]]
+[[hu:溥]]
+[[mg:溥]]
+[[ja:溥]]
+[[pl:溥]]
+[[th:溥]]
+[[vi:溥]]
+[[zh:溥]]

@@ -1,0 +1,48 @@
+{{also|军团}}
+==Chinese==
+{{zh-forms|s=军团}}
+
+===Etymology===
+An {{zh-compound|軍|團}}, the basic [[subdivision]] of an army.
+
+===Pronunciation===
+{{zh-pron
+|m=jūntuán
+|c=gwan1 tyun4
+|mn=kun-thoân
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|military}} [[corps]]
+# [[legion]]
+
+====Usage notes====
+{{sense|military}} Under the [[w:National Revolutionary Army|National Revolutionary Army]] (NRA), a corps was composed of two or three [[division]]s ([[整編師]] / [[編制師]]), and some independent [[companies]] ([[連]]), [[regiment]]s ([[團]]) and [[brigade]]s ([[旅]]). The corps was the basic tactical unit of the NRA. In turn, it could be combined with other corps to make an [[army]] ([[軍]]), route army ([[路軍]]), army group ([[集團軍]]), army corps ([[兵團]]) (front), military region ([[軍區]]) (theatre).
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぐん|だん|yomi=o}}
+
+===Noun===
+{{ja-noun|ぐんだん}}
+
+# {{kyujitai of|軍団||[[corps]]}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=군단|mr=kundan|y=kuntan}}
+
+# {{hanja form of|군단|[[corps]]}}
+
+[[ko:軍團]]
+[[li:軍團]]
+[[mg:軍團]]
+[[ja:軍團]]

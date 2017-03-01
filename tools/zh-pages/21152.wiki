@@ -1,0 +1,94 @@
+{{character info/new}}
+{{also|亩}}
+==Translingual==
+
+===Alternative forms===
+* {{l|mul|畞}} (original character)
+* {{l|mul|亩}} (Simplified Chinese)
+* {{l|mul|畒}}, {{l|mul|畆}}, {{l|mul|畮}} (variants)
+
+===Etymology===
+The original character is [[畞]]. [[田]] + [[十]] (measure ten paces) + [[久]] (huncing walk)
+
+===Han character===
+{{Han char|rn=102|rad=田|as=05|sn=10|four=07680|canj=YWNO|ids=⿰亩久}}
+
+# Chinese land measure, [[mu]]. Eg, In Zhou (周) period, 100 [[步]] = 1.8 are. and 1 acre equaling approximately 6.07 mu
+# [[field]]s
+# [[ridge]], [[furrow]]
+
+====References====
+* {{Han ref|kx=0761.140|dkj=21815|dj=1171.060|hdz=42538.030|uh=755D|ud=30045|bh=AF61|bd=44897}}
+
+----
+
+==Chinese==
+{{zh-forms|s=亩}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=mǔ
+|m-s=mong3
+|c=mau5
+|h=pfs=méu
+|mn=bó͘
+|mc=
+|oc=y
+|ma=
+|cat=cls,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Derived terms====
+{{zh-der|畝把兩畝|畝把二畝|壟畝之臣|南畝|市畝|十畝之間|一畝之宮|地畝|公畝|畎畝下才|畎畝|畎畝之中|畝鍾|畝丘|英畝|隴畝}}
+
+====References====
+* {{q|Min Nan}} {{thcwdq|畝}}
+
+----
+
+==Japanese==
+[[File:Une(Japanese)(ridge)- between plowed furrows-1.JPG|thumb|畝]]
+===Kanji===
+{{ja-kanji|grade=c|rs=田05}}
+
+# {{defn|lang=ja|sort=田05}}
+
+====Readings====
+* {{ja-readings|goon=[[む]] (mu), [[も]] (mo)|kanon=[[ぼう]] (bō)|kanyoon=[[ほ]] (ho)|kun=[[せ]] (se), [[うね]] (une)}}
+===Noun===
+{{ja-noun|うね}}
+# a raised [[ridge]] of earth in a field
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[무]]|eumhun=|rv=mu|mr=mu|y=mu}}
+
+# {{defn|lang=ko|sort=田05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[mẫu]], [[mẩu]]|rs=田05}}
+
+# {{defn|lang=vi}}
+
+[[fr:畝]]
+[[hu:畝]]
+[[mg:畝]]
+[[ja:畝]]
+[[pl:畝]]
+[[th:畝]]
+[[chr:畝]]
+[[zh:畝]]

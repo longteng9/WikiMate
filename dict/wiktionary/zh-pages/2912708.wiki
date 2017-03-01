@@ -1,0 +1,32 @@
+{{also|线形动物}}
+==Chinese==
+{{zh-forms|s=线形动物|type=22}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=xiànxíng dòngwù
+|c=sin3 jing4 dung6 mat6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[roundworm]]; [[nematode]]; member of the [[phylum]] ''Nematoda''
+
+{{zh-cat|Nematodes}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|線|形|動|物}}
+
+===Etymology===
+{{compound|線形|動物|t1=line|t2=animal|lang=ja|sort=せんけいどうぶつ}}
+
+===Noun===
+{{ja-noun|せんけいどうぶつ}}
+# [[roundworm]], [[nematode]], member of the [[phylum]] ''Nematoda''.
+
+{{wikispecies|Nematoda}}

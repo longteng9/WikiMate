@@ -1,0 +1,108 @@
+{{character info/new}}
+{{also|鳗}}
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|魚|t1=fish|曼|ls=psc|c1=s|c2=p}} – a kind of fish. Note that 曼 has meaning of “long”, hence connotations of “a long fish, an eel”.
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=11|sn=22|four=26347|canj=NFAWE|ids=⿰魚曼}}
+
+# [[eel]]
+
+====Descendants====
+* [[鳗]]
+
+====References====
+* {{Han ref|kx=1477.070|dkj=46443|dj=2008.340|hdz=74710.080|uh=9C3B}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鳗}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=mán
+|c=maan4,maan6
+|h=pfs=màn
+|mn=môa
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[eel]]
+
+====Derived terms====
+* {{zh-l|鰻魚|[[eel]]}}
+
+{{zh-cat|Eels}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚11}}
+
+# [[eel]]
+
+====Readings====
+{{ja-readings|goon=[[まん]] (man)|kanon=[[ばん]] (ban)|kun=[[うなぎ]] (unagi)}}
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|うなぎ|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|うなぎ|acc=0|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|うなぎ|ウナギ}}
+
+# [[eel]]
+
+====Derived terms====
+{{der-top}}
+* {{ja-r|鰻の寝床|うなぎ の ねどこ}}
+* {{ja-r|鰻上り|うなぎのぼり}}
+* {{ja-r|日本鰻|にほんうなぎ|gloss=[[Japanese eel]]}}
+* {{ja-r|ヨーロッパ鰻|ヨーロッパうなぎ|gloss=[[European eel]]}}
+{{der-bottom}}
+
+===References===
+<references/>
+
+[[Category:ja:Eels|うなぎ]]
+[[Category:Japanese basic words|うなぎ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=만|eumhun=|rv=man|mr=man|y=man}}
+
+# {{defn|lang=ko|sort=魚11}}
+
+[[cs:鰻]]
+[[de:鰻]]
+[[fr:鰻]]
+[[it:鰻]]
+[[lo:鰻]]
+[[la:鰻]]
+[[lt:鰻]]
+[[hu:鰻]]
+[[mg:鰻]]
+[[ja:鰻]]
+[[pl:鰻]]
+[[ru:鰻]]
+[[sv:鰻]]
+[[th:鰻]]
+[[chr:鰻]]
+[[zh:鰻]]

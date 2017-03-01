@@ -1,0 +1,67 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=86|rad=火|as=05|sn=9|four=91817|canj=FSS}}
+
+# [[torch]]
+
+====References====
+* {{Han ref|kx=0668.200|dkj=18949|dj=1077.210|hdz=32191.110|uh=70AC|ud=28844|bh=ACB2|bd=44210}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jù
+|c=geoi6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一炬|付之一炬|付諸一炬|火炬|炬火|目光如炬|蠟炬|麻炬}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=火05}}
+
+# {{defn|lang=ja|sort=火05}}
+
+====Readings====
+* {{ja-readings|kanyoon=[[こ]] (ko)|goon=[[ご]] (go)|kanon=[[きょ]] (kyo)|kun=[[たいまつ]] (taimatsu), [[ともしび]] (tomoshibi), [[やく]] (yaku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=거|eumhun=|rv=geo|mr=kŏ|y=ke}}
+
+# {{defn|lang=ko|sort=火05}}
+
+[[fr:炬]]
+[[ko:炬]]
+[[hu:炬]]
+[[mg:炬]]
+[[nl:炬]]
+[[ja:炬]]
+[[no:炬]]
+[[pl:炬]]
+[[th:炬]]
+[[zh:炬]]

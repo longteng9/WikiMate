@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=140|rad=艸|as=12|sn=15|four=44113|canj=TNMU}}
+
+# [[vegetables]], [[greens]]
+
+====References====
+* {{Han ref|kx=1055.250|dkj=31839|dj=1518.130|hdz=53298.020|uh=852C|ud=34092|bh=BDAD|bd=48557}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=shū
+|c=so1
+|mn=so͘/qz,twvt,xm:soe/tw,zz:se
+|mn_note=so͘ - literary; soe/se - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|亞蔬中心|冷凍蔬菜|嘉蔬|布衣蔬食|惡衣蔬食|有機蔬菜|水耕蔬菜|菜蔬|蔬圃|蔬果|蔬糲|蔬茹氣|蔬菜|蔬食|飯蔬飲水|齋居蔬食|時蔬}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=艸11}}
+
+# '''[[greens]]''' ('''[[vegetables]]''')
+
+====Readings====
+* {{ja-readings|on=[[そ]] (so), [[しょ]] (sho)|kun=[[あおもの]] (aomono)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=소|eumhun=|rv=so|mr=so|y=so}}
+
+# {{defn|lang=ko|sort=艸11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''蔬''' ([[sơ]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:蔬]]
+[[ko:蔬]]
+[[hu:蔬]]
+[[mg:蔬]]
+[[ja:蔬]]
+[[no:蔬]]
+[[pl:蔬]]
+[[th:蔬]]
+[[zh:蔬]]

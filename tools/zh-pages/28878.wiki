@@ -1,0 +1,78 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=163|rad=邑|as=05|sn=8|four=47727|canj=TMNL|ids=⿰甘[[邑|⻏]]}}
+
+# [[Handan]] ([[邯鄲]]), a city in the southwestern part of [[Hebei]] province, in northern China
+# [[various]]
+
+====References====
+* {{Han ref|kx=1269.220|dkj=39330|dj=1768.050|hdz=63761.120|uh=90AF|ud=37039|bh=CDD5|bd=52693}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hán
+|c=hon4,ham4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=邑05}}
+
+# {{defn|lang=ja|sort=邑05}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[한]], [[함]]|eumhun=|rv=han, ham|mr=han, ham|y=han, ham}}
+
+# {{defn|lang=ko|sort=邑05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''邯''' ([[hàm]])
+
+# {{defn|lang=vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:邯]]
+[[ko:邯]]
+[[hu:邯]]
+[[mg:邯]]
+[[ja:邯]]
+[[pl:邯]]
+[[th:邯]]
+[[zh:邯]]

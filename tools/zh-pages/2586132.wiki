@@ -1,0 +1,61 @@
+{{also|看护}}
+==Chinese==
+{{zh-forms|s=看护}}
+
+===Pronunciation===
+{{zh-pron
+|m=kānhù
+|c=hon1 wu6
+|mn=khan-hō͘
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[nurse]]; to [[look after]] {{gloss|the sick}}; to [[watch over]]
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|dated}} [[nurse]] {{gloss|person trained to provide care for the sick}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|ご|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|かんご|y=o}}
+
+===Noun===
+{{ja-noun|かんご}}
+
+# [[nursing]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|かんご}}
+
+# to [[nurse]], [[care for]]
+#: {{ja-usex|患者を看護する|かんじゃ を かんご する|care for patients}}
+
+====Conjugation====
+{{ja-suru|かんご}}
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=간호}}
+
+# {{hanja form of|간호|nursing; nursery}}
+
+[[fr:看護]]
+[[ko:看護]]
+[[hu:看護]]
+[[mg:看護]]
+[[ja:看護]]
+[[chr:看護]]
+[[zh:看護]]

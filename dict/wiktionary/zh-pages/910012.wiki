@@ -1,0 +1,54 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+Reborrowing from {{etym|ja|zh}} {{ja-r|保障|ほしょう}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bǎozhàng
+|c=bou2 zoeng3
+|h=pfs=pó-chông
+|mn=xm,twv:pó-chiòng/qz,tw:pó-chiong/zz:pó-chiàng
+|ma=Zh-baozhàng.ogg
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+# [[guarantee]], [[assurance]]
+# [[protection]]
+
+===Verb===
+{{zh-verb}}
+
+# to [[assure]], to provide [[guarantee]]
+# to [[defend]], to [[protect]]
+
+====Derived terms====
+{{zh-der|保質保量|社會保障}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ほ|しょう|yomi=on}}
+
+===Noun===
+{{ja-noun|ほしょう}}
+
+# [[guarantee]]
+# [[warranty]]
+
+===Verb===
+{{ja-verb-suru|ほしょう}}
+
+# [[guarantee]], [[endorse]], [[assure]]
+
+====Conjugation====
+{{ja-suru|ほしょう}}
+
+[[ko:保障]]
+[[hu:保障]]
+[[mg:保障]]
+[[ja:保障]]
+[[zh:保障]]

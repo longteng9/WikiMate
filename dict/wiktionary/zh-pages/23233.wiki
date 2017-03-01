@@ -1,0 +1,150 @@
+{{character info/new}}
+{{also|纯}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=04|sn=10|four=25917|canj=VFPU|ids=⿰糸屯}}
+
+# [[pure]], [[clean]], [[simple]]
+
+====References====
+* {{Han ref|kx=0917.060|dkj=27277|dj=1346.110|hdz=53371.040|uh=7D14|ud=32020|bh=AFC2|bd=44994}}
+
+----
+
+==Chinese==
+{{zh-forms|s=纯}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chún
+|c=seon4,zeon2,tyun4
+|h=pfs=sùn
+|md=
+|mn=sûn
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* [[纯粹]]
+* [[纯度]]
+* [[纯厚]]
+* [[纯化]]
+* [[纯碱]]
+* [[纯洁]]
+* [[纯金]]
+* [[纯净]]
+* [[纯净水]]
+* [[纯利]]
+* [[纯良]]
+* [[纯林]]
+* [[纯毛]]
+* [[纯美]]
+* [[纯棉]]
+* [[纯朴]]
+* [[纯情]]
+* [[纯然]]
+* [[纯收入]]
+* [[纯熟]]
+* [[纯属]]
+* [[纯损]]
+* [[纯一]]
+* [[纯音]]
+* [[纯贞]]
+* [[纯真]]
+* [[纯正]]
+* [[纯挚]]
+* [[纯种]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=糸04}}
+
+====Readings====
+* {{ja-readings|kanon=[[しゅん]] (shun)|goon=[[じゅん]] (jun), [[しゅん]] (shun)|on=[[とん]] (ton)|kun=[[きいと]] (kiito), [[きよ]] (kiyo), [[すみ]] (sumi)}}
+
+====Compounds====
+{{top2}}
+* [[純益]]
+* [[純金]] (じゅんきん, junkin)
+* [[純潔]]
+* [[純情]]
+* [[純真]]
+* [[純粋]]
+{{mid2}}
+* [[純正]]
+* [[純度]]
+* [[純白]]
+* [[純米酒]] (じゅんまいしゅ, junmaishu)
+* [[至純]]
+* [[清純]]
+* [[単純]]
+{{bottom}}
+
+===Adjectival noun===
+{{ja-adj|decl=な|じゅん}}
+
+# [[innocent]]
+
+====Inflection====
+{{ja-na|純|じゅん|jun}}
+
+===Prefix===
+{{ja-pos|prefix|じゅん}}
+
+# [[pure]]
+
+===Proper noun===
+{{ja-kanjitab|あつし}}
+{{ja-pos|proper|あつし}}
+
+# {{given name|male|lang=ja|sort=あつし}}
+
+{{ja-kanjitab|じゅん|yomi=o}}
+{{ja-pos|proper|じゅん}}
+
+# {{given name|male|lang=ja|sort=しゅん'}}
+[[Category:Japanese words with multiple readings]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[순]], [[준]], [[전]], [[돈]], [[치]]|eumhun=|rv=sun, jun, jeon, don, chi|mr=sun, chun, chŏn, ton, ch'i|y=swun, cwun, cen, ton, chi}}
+
+# {{defn|lang=ko|sort=糸04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thuần]], [[chuẩn]], [[đồn]], [[truy]], [[luồn]], [[thuận]], [[nguyên]]|rs=糸04}}
+
+# {{defn|lang=vi|sort=糸04}}
+
+[[zh-min-nan:純]]
+[[fr:純]]
+[[ko:純]]
+[[hu:純]]
+[[mg:純]]
+[[ja:純]]
+[[pl:純]]
+[[th:純]]
+[[chr:純]]
+[[zh:純]]

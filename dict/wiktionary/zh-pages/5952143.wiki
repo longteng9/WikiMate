@@ -1,0 +1,25 @@
+==Chinese==
+{{zh-forms|s=类比}}
+
+===Pronunciation===
+{{zh-pron
+|m=lèibǐ
+|mn=lūi-pí
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to make an [[analogy]]; to [[compare]]
+
+===Noun===
+{{zh-noun}}
+
+# [[analogy]]
+# {{lb|zh|Taiwan|electronics}} [[analog]]
+
+====Derived terms====
+{{zh-der|類比信號|類比唱片|類比電腦}}
+
+[[hu:類比]]

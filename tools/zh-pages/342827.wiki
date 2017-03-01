@@ -1,0 +1,28 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Tram}}
+[[File:Hiroden-5100-2.jpg|thumb|250px|{{lang|ja|路面電車}} (''romen densha''): a '''[[streetcar]]'''.]]
+</div>
+{{ja-kanjitab|ろ|めん|でん|しゃ|yomi=o}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=ろめんでんしゃ|路面|tr1=romen|t1=road surface; on the road|電車|tr2=densha|t2=electric train}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+* {{ja-pron|ろめんでんしゃ|acc=4|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|ろめん でんしゃ}}
+
+# a [[tram]] {{qualifier|UK}}, a [[streetcar]] {{qualifier|US}}
+
+====Synonyms====
+* {{ja-r|市内電車|しない でんしゃ}}, {{ja-r|市電|しでん}}, {{ja-r|都電|とでん}}
+
+===References===
+<references/>
+
+[[Category:ja:Rail transportation|ろめんでんしゃ]]
+[[hu:路面電車]]
+[[ja:路面電車]]

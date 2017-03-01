@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|りん|さん|ひ|りょう|yomi=o}}
+
+===Etymology===
+Compound of {{compound|燐酸|tr1=rinsan|t1=phosphoric acid|肥料|tr2=hiryō|t2=fertiliser|lang=ja|sort=りんさんひりょう}}.
+
+===Pronunciation===
+{{ja-pron|yomi=o|りんさんひりょう|acc=5|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|りんさんひりょう|hhira=りんさんひれう}}
+
+# [[phosphate]] [[fertiliser]]
+
+====Derived terms====
+* {{ja-r|燐肥|りんぴ}}
+
+===References===
+<references/>
+
+[[ko:燐酸肥料]]

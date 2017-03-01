@@ -1,0 +1,52 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhèngzhìjiā
+|c=zing3 zi6 gaa1
+|mn=chèng-tī-ka
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[politician]]
+#: {{zh-x|政治家 可信 嗎？|''Can '''politicians''' be trusted?''}}
+
+====Synonyms====
+* {{zh-l|從政者}}
+* {{zh-l|政客}} {{qualifier|derogatory}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|せい|じ|か|yomi=on}}
+
+===Etymology===
+{{suffix|政治|家|t1=politics|t2=-er, -person|lang=ja}}
+
+===Noun===
+{{ja-noun|せいじか}}
+
+# [[politician]], [[statesman]]
+# a natural political leader
+
+===References===
+* {{R:Meikyo}}
+
+[[Category:ja:Politics|せいじか]]
+
+[[ko:政治家]]
+[[ky:政治家]]
+[[lo:政治家]]
+[[hu:政治家]]
+[[mg:政治家]]
+[[ja:政治家]]
+[[km:政治家]]
+[[ru:政治家]]
+[[sv:政治家]]
+[[th:政治家]]
+[[uk:政治家]]
+[[zh:政治家]]

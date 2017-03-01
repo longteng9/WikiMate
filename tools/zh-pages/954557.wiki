@@ -1,0 +1,83 @@
+{{also|东方}}
+==Chinese==
+{{zh-forms|s=东方}}
+
+===Pronunciation===
+{{zh-pron
+|m=dōngfāng
+|c=dung1 fong1
+|h=pfs=tûng-fông
+|mn=tang-hng/tong-hong
+|cat=a,n,pn
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[eastern]]
+
+===Noun===
+{{zh-noun}}
+
+# [[east]]
+
+===Proper noun===
+{{zh-proper noun}}
+
+# the [[East]]; the [[Orient]]
+# {{surname|lang=zh}}
+#: {{zh-x|^東方 @^朔|{{w|Dongfang Shuo}}}}
+
+====Derived terms====
+{{zh-der|東方人}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|ほう|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|とうほう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうほう}}
+
+# [[east]], [[east]] [[area]]
+
+====Related terms====
+* {{ja-r|北方|ほっぽう}}: [[north]], [[northern]] [[area]]
+* {{ja-r|西方|せいほう}}: [[west]], [[western]] [[area]]
+* {{ja-r|南方|なんぽう}}: [[south]], [[southern]] [[area]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=동방}}
+
+# {{hanja form of|동방|[[east]]", "[[eastward]]", "[[orient]]}}
+
+====Derived terms====
+* [[동방종개]] (Dongbangjonggae), literally means "[[:w:eastern spine loach|eastern spine loach]]"
+
+====Related terms====
+* [[西方]] ([[서방]], [[seobang]]): [[west]], [[westward]], [[occident]]
+* [[北方]] ([[북방]], [[bukbang]]): [[north]], [[northward]]
+* [[南方]] ([[남방]], [[nambang]]): [[south]], [[southward]]
+
+[[fr:東方]]
+[[ko:東方]]
+[[kn:東方]]
+[[hu:東方]]
+[[mg:東方]]
+[[ja:東方]]
+[[chr:東方]]
+[[uk:東方]]
+[[zh:東方]]

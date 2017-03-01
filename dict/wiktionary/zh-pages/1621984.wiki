@@ -1,0 +1,62 @@
+{{also|组成}}
+==Chinese==
+{{zh-forms|s=组成}}
+
+===Pronunciation===
+{{zh-pron
+|m=zǔchéng
+|c=zou2 sing4
+|h=pfs=chû-sṳ̀n
+|mn=qz,twv,xm,zz:chó͘-sêng/tw:cho͘-sêng
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[composition]]; [[constitution]]
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|Intermediate Mandarin}} to [[make up]]; to [[consist]] of; to [[constitute]]
+#: [[整個]][[世界]][[都]][[是]][[由]][[物質]][[組成]][[的]]。
+#:: ''The entire world is '''made up''' of matter.''
+#: [[我們]][[的]][[隊伍]][[由]][[12]][[名]][[成員]][[組成]]。
+#:: ''Our procession '''consists of''' 12 members.''
+#* '''2001:''' ''anon.'', [http://big5.cast.org.cn/gate/big5/anima.cpst.net.cn/zwjs/2001_06/991472355.html 植物的葉]
+#*: [[一]][[片]][[完全]][[的]][[葉]][[有]][[三]][[個]][[部分]]'''組成'''，[[即]][[葉片]]、[[葉柄]]、[[托葉]]。
+#*:: ''A complete leaf '''consists of''' a [[lamina]], a [[petiole]] and [[stipules]].''
+
+====Derived terms====
+{{zh-der|組成部分}}
+
+===References===
+* {{cite-web|url=http://www.nciku.com/|title=組成|work=nciku|language=Mandarin/English|accessdate=2009-06-18}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|そ|せい|yomi=o}}
+
+===Noun===
+{{ja-noun|そせい}}
+
+# [[composition]]
+
+===Verb===
+{{ja-verb-suru|そせい}}
+
+# [[make up]], [[compose]]
+
+====Conjugation====
+{{ja-suru|そせい}}
+
+[[zh-min-nan:組成]]
+[[ko:組成]]
+[[hu:組成]]
+[[mg:組成]]
+[[ja:組成]]
+[[sh:組成]]
+[[chr:組成]]
+[[zh:組成]]

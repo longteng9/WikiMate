@@ -1,0 +1,25 @@
+==Japanese==
+{{ja-kanjitab|もく|どく|yomi=on}}
+
+===Noun===
+{{ja-noun|もくどく}}
+
+# [[read]]ing to oneself, reading [[silently]]
+
+====Antonyms====
+* {{ja-r|音読|おんどく}}
+
+===Verb===
+{{ja-verb-suru|もくどく|tr=trans}}
+
+# to [[read]] to oneself, to read [[silently]]
+
+====Conjugation====
+{{ja-suru|もくどく}}
+
+====Antonyms====
+* {{ja-r|音読|おんどく}}
+
+[[ja:黙読]]
+[[pt:黙読]]
+[[zh:黙読]]

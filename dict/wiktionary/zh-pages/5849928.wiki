@@ -1,0 +1,22 @@
+==Chinese==
+{{zh-forms|alt=筷菜}}
+
+===Etymology===
+Sailors' euphemism for {{zh-l|*韭菜}}. Due to homophony of {{zh-l|*韭}} and {{zh-l|*久|long (time)}}, {{lang|zh|韭}} is replaced with {{zh-l|*快|fast; quick}}. Compare {{zh-l|筷子|chopsticks}}.
+
+===Pronunciation===
+{{zh-pron
+|g='kuai3 cai3
+|h=pfs=khuai-chhoi;gd=kuai4 coi4
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|Hakka|dated|_|in|_|Gan|euphemistic}} Chinese [[leek]]; Chinese [[chive]] {{gloss|{{taxlink|Allium tuberosum|species|noshow=1}}}}
+
+====Synonyms====
+* {{zh-l|韭菜}}
+
+{{zh-cat|Vegetables}}

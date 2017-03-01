@@ -1,0 +1,63 @@
+{{character info/new}}
+{{also|刽}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=13|sn=15|four=82600|canj=OALN|ids=⿰會刂}}
+
+# [[amputate]], [[cut off]]
+
+====References====
+* {{Han ref|kx=0144.420|dkj=02225|dj=0326.010|hdz=10359.010|uh=528A|ud=21130|bh=BC44|bd=48196}}
+
+----
+
+==Chinese==
+{{zh-forms|s=刽}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=劊
+|c=kui2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|劊子手}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=刀13}}
+
+# {{defn|lang=ja|sort=刀13}}
+
+====Readings====
+* {{ja-readings|on=[[かい]] (kai), [[け]] (ke), [[かつ]] (katsu)|kun=[[たつ]] (tatsu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[회]], [[괴]]|rv=hoe, goe|mr=hoe, koe}}
+
+# {{defn|lang=ko|sort=刀13}}
+
+[[fr:劊]]
+[[hu:劊]]
+[[pl:劊]]
+[[th:劊]]
+[[zh:劊]]

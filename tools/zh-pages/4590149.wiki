@@ -1,0 +1,21 @@
+==Japanese==
+{{ja-kanjitab|はた|ねずみ|yomi=k}}
+
+===Etymology===
+{{compound|lang=ja|sort=はたねずみ|畑|tr1=hata|t1=field|鼠|tr2=nezumi|t2=mouse}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|はたねずみ|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|はたねずみ|ハタネズミ}}
+
+# [[vole]], specifically [[Japanese grass vole]]
+
+====Derived terms====
+* {{ja-r|水畑鼠|みずはたねずみ}}: [[water vole]]
+
+===References===
+<references/>
+
+[[Category:ja:Rodents|はたねずみ]]

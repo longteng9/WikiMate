@@ -1,0 +1,52 @@
+{{also|损害}}
+==Chinese==
+{{zh-forms|s=损害}}
+
+===Pronunciation===
+{{zh-pron
+|m=sǔnhài
+|c=syun2 hoi6
+|h=pfs=sún-hoi
+|mn=sún-hāi/zz:súiⁿ-hāi
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to cause [[damage]] or [[destruction]]
+# to [[mar]], to [[sully]], to [[damage]] {{gloss|e.g., one's reputation}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|そん|がい|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|そんがい|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|そんがい}}
+
+# [[damage]]
+# [[loss]]
+
+===Verb===
+{{ja-verb-suru|そんがい}}
+
+# {{lb|ja|rare|sort=そんがい}} to suffer damage or loss
+
+====Conjugation====
+{{ja-suru|そんがい}}
+
+===References===
+<references/>
+
+[[zh-min-nan:損害]]
+[[ko:損害]]
+[[hu:損害]]
+[[mg:損害]]
+[[ja:損害]]
+[[ru:損害]]
+[[chr:損害]]
+[[zh:損害]]

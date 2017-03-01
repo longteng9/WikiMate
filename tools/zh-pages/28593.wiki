@@ -1,0 +1,74 @@
+{{character info/new}}
+{{also|⻌}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Etymology===
+Combining form of [[辵]].
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=00|sn=4|four=|canj=INNO}}
+
+# [[walk]]
+# [[walking]]
+# radical number 162
+
+====Usage notes====
+Within a character, it may become either ⻌, ⻍, or ⻎. <!--glyphs from CJK Radicals Supplement-->
+This may also depend on computer fonts.
+The form ⻌ (one dot) is usually seen in simplified characters.
+Do not confuse with [[廴]].
+
+====References====
+* {{Han ref|kx=1253.111|dkj=38702|dj=1735.020|hdz=63815.011|uh=8FB6|ud=36790}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=chuò
+|c=coek3
+|mc=
+|oc=
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=辵00}}
+
+# {{defn|lang=ja|sort=辵00}}
+
+====Readings====
+* {{ja-readings|on=[[ちゃく]] (chaku)|kun=[[しんにょう]] (shinnyou)|nanori=}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=辵00|hanviet=[[xước]], [[sước]], [[xích]]}}
+
+# {{defn|lang=vi|sort=辵00}}
+
+[[Category:Vietnamese Han tu]]
+[[Category:CJKV radicals| ]]
+
+[[fr:辶]]
+[[ko:辶]]
+[[li:辶]]
+[[hu:辶]]
+[[pl:辶]]
+[[th:辶]]
+[[zh:辶]]

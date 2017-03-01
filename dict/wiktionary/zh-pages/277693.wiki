@@ -1,0 +1,36 @@
+{{also|电子邮件}}
+==Chinese==
+{{zh-forms|s=电子邮件|type=22}}
+
+===Etymology===
+{{calque|zh|en|electronic mail}}.
+
+===Pronunciation===
+{{zh-pron
+|m=diànzǐ yóujiàn
+|c=din6 zi2 jau4 gin6-2
+|h=pfs=thien-chṳ́ yù-khien
+|mn=tiān-chú iû-kiāⁿ
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[e-mail]]
+
+====Synonyms====
+* {{zh-l|電郵}}
+* {{zh-l|電子函件}}
+* {{zh-l|伊妹兒}}
+
+{{zh-cat|Computing}}
+
+[[ko:電子郵件]]
+[[lt:電子郵件]]
+[[hu:電子郵件]]
+[[ja:電子郵件]]
+[[pt:電子郵件]]
+[[ru:電子郵件]]
+[[fi:電子郵件]]
+[[zh:電子郵件]]

@@ -1,0 +1,71 @@
+{{character info/new}}
+{{also|噓}}
+==Translingual==
+
+===Etymology===
+{{Han simp|噓|f=虛|t=虚}}. In current form {{Han compound|口|t1=mouth|虚}}.
+
+===Han character===
+{{Han char|rn=30|rad=口|as=11|sn=14|four=|canj=RYPC|ids=⿰口虚}}
+
+# [[exhale]]
+# [[blow]] [[out]]
+# [[deep]] [[sigh]]
+# [[hiss]]
+# [[praise]]
+
+====References====
+* {{Han ref|kx=0206.100|hdz=10675.120|uh=5618|ud=22040}}
+
+----
+
+==Chinese==
+{{zh-see|噓}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=口11}}
+
+# [[lie]]; [[falsehood]]
+
+====Readings====
+* {{ja-readings|goon=[[こ]] (ko)|kanon=[[きょ]] (kyo)|kun=[[うそ]] (uso), [[はく]] (haku), [[ふく]] (fuku)}}
+
+===Pronunciation===
+{{ja-kanjitab|yomi=k|うそ}}
+{{ja-pron|acc=a|y=k|うそ}}
+* {{homophone|lang=ja|sort=うそ|鷽|獺}}
+
+===Noun===
+{{ja-noun|うそ}}
+
+# a [[lie]], a [[falsehood]]; something incorrect
+
+===Interjection===
+{{ja-pos|interjection|うそ}}
+
+# {{lb|ja|slang|sort=うそ}} [[really]]?; [[no way]]!; [[unbelievable]]!
+
+====Usage notes====
+* In Japanese, saying that something like ''uso'' is less inflammatory than calling something a lie in English; it is used similar to "No way!" or "Really!" "Yeah, Right!"
+
+====Derived terms====
+* {{ja-r|嘘つき|うそつき|gloss=a [[liar]]}}
+* {{ja-r|大%嘘|おお%うそ|gloss=a big [[lie]]}}
+
+[[fr:嘘]]
+[[lo:嘘]]
+[[li:嘘]]
+[[hu:嘘]]
+[[mg:嘘]]
+[[nl:嘘]]
+[[ja:嘘]]
+[[pl:嘘]]
+[[ru:嘘]]
+[[sv:嘘]]
+[[th:嘘]]
+[[chr:嘘]]
+[[zh:嘘]]

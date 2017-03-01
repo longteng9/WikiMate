@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|あつ|k1=あっ|はく|k2=ぱく|yomi=on}}
+
+===Noun===
+{{ja-noun|あっぱく}}
+
+# [[pressure]], [[oppression]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|あっぱく}}
+
+# [[oppress]]
+#* '''1938''', 戸坂潤, 読書法:
+#*: {{ja-usex|個人は社会によって'''圧迫'''されるからだ。|こじん は しゃかい に よって '''あっぱく''' される から だ。|It's because the individual is oppressed by society.}}
+
+====Conjugation====
+{{ja-suru|あっぱく}}
+
+[[hi:圧迫]]
+[[mg:圧迫]]
+[[ja:圧迫]]
+[[zh:圧迫]]

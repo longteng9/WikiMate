@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wǔdà
+|c=ng5 daai6
+|h=pfs=ńg-thai
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# the five elements
+
+----
+
+==Japanese==
+{{ja-kanjitab|ご|だい|yomi=on}}
+
+===Noun===
+{{ja-noun|ごだい}}
+
+# {{lb|ja|Buddhism|sort=こだい'}} the five elements
+
+====Synonyms====
+* {{l|ja|五行}} [[Wu Xing]] (the [[Chinese]] [[five]] [[element]]s)
+
+===Proper noun===
+{{ja-pos|ごだい|proper}}
+
+# {{given name|male|lang=ja|sort=こだい'}}
+
+====See also====
+* {{pedialite|lang=ja}}
+* {{pedialite|Five elements (Japanese philosophy)}}
+
+[[li:五大]]
+[[zh:五大]]

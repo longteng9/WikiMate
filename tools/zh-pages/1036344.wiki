@@ -1,0 +1,93 @@
+==Chinese==
+{{zh-forms|lit=plum rain|alt=霉雨}}
+
+===Etymology===
+Refers to the [[plum]]s ripening during this rainy season.
+
+===Pronunciation===
+{{zh-pron
+|m=méiyǔ
+|c=mui4 jyu5
+|h=pfs=mòi-yí
+|mn=qz,tw,xm:mûi-ú/zz:bôe-í
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{w|East Asian rainy season}}
+
+===References===
+* {{pedialite|East Asian rainy season}}
+
+[[Category:zh:Meteorology|mei2yu3]]
+[[Category:zh:Rain|mei2yu3]]
+[[Category:zh:Seasons|mei2yu3]]
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|East Asian rainy season}}
+</div>
+{{ja-kanjitab|yomi=irr|sort=つゆ}}
+
+===Etymology 1===
+Unclear.  Likely theories include:
+* May be cognate with {{etyl|ojp|-}}-derived noun {{m|ja|露|tr=tsuyu||dew, dewdrop}}, from the way the rainy season causes everything to be covered in drops that may look like dew.  However, the pitch accent differs, as {{m|ja|露}} has patterns 1 or 2, while {{lang|ja|梅雨}} has pattern 0.
+* Alternatively, may be cognate with {{etyl|ojp|-}}-derived verb {{m|ja|熟ゆ|tr=tsuyu||to become ripe|pos=obsolete, replaced by modern form {{m|ja|熟える}} ''tsueru''}}, as plums ripen during the rainy season.  In light of the pitch accent, this derivation appears more likely.
+
+====Pronunciation====
+{{ja-pron|つゆ|acc=0|acc_ref=NHK,DJR}}
+
+====Noun====
+{{ja-noun|つゆ}}
+
+# [[w:East Asian rainy season|East Asian rainy season]]
+
+===Etymology 2===
+{{ja-kanjitab|ばい|う|yomi=on}}
+From {{etyl|ltc|ja|sort=はいう'}} compound {{m|zh|梅雨|tr=|lit=plum + rain}}, in poetic reference to the season when plums grow.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+Alternatively, the {{m|ja|黴雨}} spelling may have been the original spelling.  This is [[homophonous]] in {{etyl|ltc|-}}, and literally means ''mold + rain'', in reference to how moldy things get during this season of constant [[humidity]].<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=kanon|ばいう|acc=1|acc_ref=NHK,DJR}}
+
+====Alternative forms====
+* {{ja-l|黴雨}}
+
+====Noun====
+{{ja-noun|ばいう}}
+
+# [[w:East Asian rainy season|East Asian rainy season]]
+
+===References===
+<references/>
+
+[[Category:ja:Meteorology|つゆ]]
+[[Category:ja:Rain|つゆ]]
+[[Category:ja:Seasons|つゆ]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|rv=|hangeul=매우}}
+
+# {{hanja form of|매우|[[w:East Asian rainy season|East Asian rainy season]]}}
+
+====Synonyms====
+* [[장마]]
+[[Category:ko:Seasons]]
+
+[[zh-min-nan:梅雨]]
+[[fr:梅雨]]
+[[li:梅雨]]
+[[mg:梅雨]]
+[[ja:梅雨]]
+[[zh:梅雨]]

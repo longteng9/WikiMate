@@ -1,0 +1,16 @@
+==Japanese==
+{{ja-kanjitab|うん|きゅう|yomi=on}}
+
+===Noun===
+{{ja-noun|うんきゅう}}
+
+# [[suspension]] of transportation [[service]], such as train or ferry service
+
+===Verb===
+{{ja-verb-suru|tr=intrans|うんきゅう}}
+
+# [[suspend]] transportation service
+#: {{ja-usex|運休している区間がございます。|うんきゅう している くかん が ございます。|Service has been suspended in an area.}}
+
+====Conjugation====
+{{ja-suru|運休|うんきゅう}}

@@ -1,0 +1,100 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|type=animate}}
+
+===Alternative forms===
+* {{l|mul|𠎤}}
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|亼|冊|品|t1=assemblage|t2=of bamboos|t3=with holes|ls=ic}}.
+
+===Han character===
+{{Han char|rn=214|rad=龠|as=00|sn=17|canj=OMRB|four=80227|ids=⿳亼𠱠𠕁}}
+
+# [[flute]]
+# [[pipe]], [[ancient]] [[measure]]
+# {{mul-kangxi radical-def}}
+
+====Descendants====
+* [[Index:Chinese radical/龠]]
+* [[籥]], [[鑰]], [[瀹]], [[爚]], [[䟑]], [[蘥]], [[龢]] (original of [[和]])
+
+====References====
+* {{Han ref|kx=1538.250|dkj=48882|dj=2080.010|hdz=74807.010|uh=9FA0|ud=40864|bh=EFB6|bd=61366}}
+* [http://www.zdic.net/z/29/js/9FA0.htm zdic.net (Han Dian)]
+* [http://chardb.iis.sinica.edu.tw/char/27696 International Encoded Han Character and Variants Database]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuè
+|c=joek6
+|h=pfs=yok
+|mn=qz,xm:io̍k/zz:ia̍k
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====References====
+* [http://cn.voicedic.com/ VoiceDic (汉语方言发音字典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=龠00}}
+
+# [[flute]]
+# Last in the list of traditional Japanese [[radical|radicals]]
+
+====Readings====
+* {{ja-readings|on=[[やく]] (yaku)|kun=[[ふえ]] (fue)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=약|eumhun=|rv=yak|mr=yak|y=yak}}
+
+# {{defn|lang=ko|sort=龠00}}
+
+[[Category:Uncommon kanji]]
+
+----
+
+==Vietnamese==
+
+===Character===
+====Readings====
+{{vi-readings|hanviet=dược, thược|nom=dược, thược|rs=龠00}}
+
+[[Category:CJKV radicals| ]]
+
+[[cs:龠]]
+[[fr:龠]]
+[[ko:龠]]
+[[la:龠]]
+[[li:龠]]
+[[hu:龠]]
+[[mg:龠]]
+[[ja:龠]]
+[[pl:龠]]
+[[ru:龠]]
+[[sr:龠]]
+[[th:龠]]
+[[zh:龠]]

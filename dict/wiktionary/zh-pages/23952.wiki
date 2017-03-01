@@ -1,0 +1,60 @@
+{{character info/new}}
+{{also|幸|㚔}}
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|大|羊|ls=psc}}.
+
+===Han character===
+{{Han char|rn=123|rad=羊|as=03|sn=9|four=40501|canj=KTQ,XKTQ|ids=⿱大羊}}
+
+====Descendants====
+* [[達]]
+
+====References====
+* {{Han ref|kx=0951.090|dkj=28434|dj=1393.160|hdz=53127.010|uh=7F8D|ud=32653|bh=D04F|bd=53327}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Alternative forms===
+* {{zh-l|𦍒}}
+
+===Pronunciation===
+{{zh-pron
+|m=dá
+|c=taat3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[small]] [[lamb]]
+
+====References====
+* [http://www.zdic.net/zd/zi/ZdicE7ZdicBEZdic8D.htm zdic.net (Han Dian)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=羊03}}
+
+# {{defn|lang=ja|sort=羊03}}
+
+====Readings====
+* {{ja-readings|on=[[たつ]] (tatsu), [[たち]] (tachi)|kun=|nanori=}}
+
+[[fr:羍]]
+[[hu:羍]]
+[[pl:羍]]
+[[th:羍]]
+[[zh:羍]]

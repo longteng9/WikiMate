@@ -1,0 +1,42 @@
+{{also|充电器}}
+==Chinese==
+{{zh-forms|s=充电器|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=chōngdiànqì
+|c=cung1 din6 hei3
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[charger]] {{gloss|for batteries or devices}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|じゅう|でん|き|yomi=on}}
+
+===Etymology===
+{{suffix|充電|器|lang=ja|t1=charging|t2=device|sort=しゅうでんき'}}
+
+===Noun===
+{{ja-noun|じゅうでんき}}
+
+# electrical [[charger]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=충전기}}
+
+# {{hanja form of|충전기|electrical [[charger]]}}
+
+[[ko:充電器]]
+[[ja:充電器]]
+[[zh:充電器]]

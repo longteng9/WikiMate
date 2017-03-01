@@ -1,0 +1,239 @@
+{{character info/new}}
+==Translingual==
+{{stroke order}}
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=02|sn=4|four=47720|canj=PSH|ids=⿰七刀}}
+
+====References====
+* {{Han ref|kx=0136.090|dkj=01858|dj=0307.050|hdz=10320.050|uh=5207|ud=20999|bh=A4C1|bd=42177}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|七|刀|ls=psc|c1=p|c2=s}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=qiē
+|c=cit3
+|h=pfs=chhiet
+|md=chiék/chiák
+|mn=chhiat
+|w=4qiq
+|mc=y
+|oc=y
+|cat=n,v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to [[cut]]; to [[slice]]; to [[carve]]; to [[mince]] with a knife
+# to [[cut off]]; to [[disconnect]]
+# {{lb|zh|mathematics}} [[tangent]]
+#: {{zh-x|正切{qiē}|tangent}}
+#: {{zh-x|餘切{qiē}|cotangent}}
+
+====Compounds====
+{{zh-der|fold=1|一刀切|互切互磋|公切線|公切面|刀切斧砍|刀切豆腐|切入|切分法|切分音|切削|切割|切口|切接法|切換|切斷|切片|切片檢查|切球|切碎|切磋|切磋琢磨|切線|切腹自殺|切除|切麵|割切|外公切線|外切多邊形|如切如磋|如砍瓜切菜一般|弦切角|橫切|熟切店|病理切片|白切肉|砍瓜切菜|縱切面|薄批細切|餘切|馬蹄刀瓢裡切菜}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=qiè
+|c=cit3,cai3
+|h=pfs=chhiet
+|md=chiék
+|mn=chhiat/qz,xm:chhoeh/zz:chheh/chhè
+|mn_note=chhiat - literary; chhoeh/chheh - vernacular
+|w=4qiq
+|cat=a,v,adv,n
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# to be [[close]] to
+# to [[bite]] [[tightly]]; to [[clench]]
+# to [[correspond]] to; to [[match]]
+# {{lb|zh|TCM}} to [[feel]] the [[pulse]]
+# [[eager]]; [[ardent]]
+# [[urgent]]; [[pressing]]
+# [[all]]; [[entire]]
+# [[must]]; [[by all means]]
+# [[main]] [[point]]
+# {{lb|zh|phonetics}} {{zh-short|反切|[[fanqie]]}}
+
+====Compounds====
+{{zh-der|一切|一切從簡|一切現成|一切眾生|一切經音義|不切實際|不真切|不顧一切|仁波切|令人切齒|倍感親切|切中|切中時弊|切切|切切實實|切切私語|切勿|切口|切合|切囑|切圓|切實|切對|切峻|切己|切心|切忌|切意|切愛|切末|切當|切盼|切結|切結書|切肩|切脈|切腳|切膚|切膚之痛|切至|切莫|切要|切角|切記|切診|切諫|切責|切身|切近|切鄰|切雲|切面|切音|切韻|切題|切骨|切骨之仇|切點|切齒|切齒咬牙|切齒拊心|切齒腐心|剛切|剴切|反切|咬牙切齒|嚴切|妥切|密切|密切追隨|密密切切|峻切|律切|心切|怒目切齒|急切|恨之切骨|悲切|悲喜交切|悲悲切切|悽切|情切|情詞懇切|意切言盡|意切辭盡|慘切|憤切|懇切|拊膺切齒|操切|攘袂切齒|明義理，切世用|會文切理|望聞問切|極切瞻韓|正切|殷切|求好心切|浮聲切響|淒切|深切|清切|激切|熱切|痛切|痛切心骨|痛心切齒|目空一切|相切|真切|瞋目切齒|確切|私言切語|種切|端切|精切|緊切|義切中抱|苛切|要切|親切|診切|貼切|較切|迫切|迫切性|適切|關切|關切補詞|飢凍交切|飢寒交切}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=刀02}}
+
+# [[cut]]
+
+====Readings====
+* {{ja-readings
+|goon=[[せち]] (sechi) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}, [[さい]] (sai)
+|kanon=[[せつ]] (setsu), [[せい]] (sei) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kun=[[きる]] ([[切る]], kiru), [[きり]] ([[切り]], kiri), [[きれる]] ([[切れる]], kireru), [[きれ]] ([[切れ]], kire)
+|nanori=[[きつ]] (kitsu), [[きり]] (kiri), [[ぎり]] (giri)}}
+
+====Compounds====
+{{rel-top3|compounds containing "切"}}
+* [[切る]] (kiru): cut, sever, turn off
+* [[切り]] (kiri): limits, end
+* [[切り口]] (kirikuchi): cut end, section
+* [[切り札]] (kirifuda): trump card
+* [[切り紙]], (kirigami): wallpaper
+* [[切り下げ]] (kirisage): devaluation, markdown
+* [[切り替え]] (kirikae): exchange, conversion
+* [[切り替える]] (kirikaeru): change, exchange
+* [[切り捨て]] (kirisute): omission, rounding down
+* [[切り捨てる]] (kirisuteru): cut down, truncate
+* [[切り上げ]] (kiriage): end, conclusion
+* [[切り抜き]] (kirinuki): scraps, cuts
+* [[切り崩す]] (kirikuzusu): level, cut through
+* [[切り離す]] (kirihanasu): detach, decapitate
+* [[切り上げ]] (kiriage): end, conclusion
+* [[切り倒す]] (kiritaosu): fell a tree
+* [[切りがない]], [[切りが無い]] (kiri ga nai): endless, innumerable
+* [[切れる]] (kireru): be cut off, be injured
+* [[切れ]] (kire): piece, slice
+* [[切れ味]] (kireaji): the feel of a cutting edge
+* [[切れ目]] (kireme): break, pause
+* [[切れ端]] (kirehashi): scraps, cut end
+* [[切れ切れの]] (kiregire no): scrap, disconnected
+* [[切れた縄]] (kireta nawa): broken rope
+* [[切れの帽子]] (kire no bōshi): cloth hat
+* [[切らす]] (kirasu): be out of, run out of
+* [[切ない]] (setsunai): painful, oppressive
+* [[切っ掛け]], [[切掛]], (kikkake): chance, start
+* [[切実]] (setsujitsu): compelling, serious
+* [[切手]] (kitte): postage stamp
+* [[切断]] (setsudan): cutting, severance
+* [[切迫]] (seppaku): pressure, urgency
+* [[切符]] (kippu): ticket
+* [[切腹]] (seppuku): ritual suicide
+* [[切開]] (sekkai): incision, operation
+* [[切除]] (setsujo): cut off, cut out
+{{rel-mid3}}
+* [[切支丹]], [[切死丹]] (kirishitan): early Japanese Christianity
+* [[切符を切る]] (kippu o kiru): rip off a coupon
+* [[みじん切り]] (mijingiri): finely chopped
+* [[ブチ切れ]] (fuchikire): livid
+* [[やり切れない]] (yarikirenai): unbearable, intolerable
+* [[ケーキ一切れ]] (kēki hitokire): a piece of cake
+* [[一切]] (issai): all, everything
+* [[懇切]] (konsetsu): kindness, cordiality
+* [[大切]] (taisetsu): important, valuable
+* [[適切]] (tekisetsu): pertinent, appropriate
+* [[親切]] (shinsetsu): kindness, gentleness
+* [[半切]] (hansetsu): half size
+* [[痛切]] (tsūsetsu): keen, acute
+* [[踏切]], [[踏切り]] (fumikiri): railway crossing
+* [[締切]], [[締切り]], [[締め切り]] (shimekiri): closing, cut off
+* [[不親切]] (fushinsetsu): unkindness, unfriendliness
+* [[小切手]] (kogitte): check
+* [[裏切る]] (uragiru): betray, turn traitor
+* [[区切る]] (kugiru): punctuate, cut off
+* [[千切る]] (chigiru): cut up fine
+* [[値切る]] (negiru): drive a bargain
+* [[横切る]] (yokogiru): cross, traverse
+* [[仕切る]] (shikiru): partition, divide
+* [[言い切る]] (iikiru): declare, assert
+* [[打ち切る]] (uchikiru): stop, abort
+* [[締め切る]] (shimekiru): close up, shut up
+* [[澄み切る]] (sumikiru): to be serene
+* [[逃げ切る]] (nigekiru): manage to hold on
+* [[張り切る]] (harikiru): be in high spirits
+* [[踏み切る]] (fumikiru): make a bold start
+* [[振り切る]] (furikiru): shake free from
+* [[割り切る]] (warikiru): give a clear explanation
+* [[押し切る]] (oshikiru): face down the opposition
+* [[思い切る]] (omoikiru): give up all thoughts of
+* [[打ち切る]] (uchikiru): stop, abort
+* [[読み切る]] (yomikiru): finish reading
+{{rel-mid3}}
+* [[疲れ切る]] (tsukarekiru): be exhausted
+* [[爪切り]] (tsumekiri): nail clippers
+* [[裏切り]] (uragiri): treachery, betrayal
+* [[皮切り]] (kawakiri): beginning, start
+* [[仕切り]] (shikiri): partition, division
+* [[見切り]] (mikiri): abandon, forsake
+* [[指切り]] (yubikiri): pinky promise
+* [[輪切り]] (wagiri): round slices
+* [[区切り]] (kugiri): punctuation, end
+* [[腹切り]] (harakiri): ritual suicide
+* [[縁切り]] (enkiri): separation, divorce
+* [[缶切り]] (kankiri): can opener
+* [[紋切り型]] (monkirigata): fixed formula
+* [[裏切り者]] (uragirimono): betrayer, traitor
+* [[見切り発車]] (mikiri hassha): making a snap decision
+* [[打ち切り]] (uchikiri): end, close
+* [[貸し切り]], [[貸切り]] (kashikiri): reserved, reservation
+* [[思い切り]] (omoikiri): with all one's strength
+* [[貸し切り]], [[貸切り]] (kashikiri): reserved, reservation
+* [[飛び切り]] (yubikiri): extraordinary, superior
+* [[試し切り]] (tameshigiri): trying out a new sword or blade
+* [[四つ切り]] (yotsugiri): cutting into four
+* [[千切れる]] (chigireru): be torn to pieces
+* [[途切れる]] (togireru): pause, be interrupted
+* [[売り切れる]] (urikireru): be sold out
+* [[息切れ]] (ikigire): shortness of breath
+* [[品切れ]] (shinagire): out of stock
+* [[歯切れ]] (hagire): the feel when biting
+* [[幕切れ]] (makugire): fall of the curtain
+* [[手切れ]] (tegire): severing of connections
+* [[二切れのパン]] (futakire no pan): two slices of bread
+* [[売り切れ]] (urikire): sold-out
+* [[時間切れ]] (jikangire): being out of time
+* [[電池切れ]] (denchigire): flat battery
+* [[思い切って]] (omoikitte): resolutely, boldly
+* [[電話を切る]] (denwa o kiru): hang up the phone
+{{rel-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[절]], [[체]]|eumhun=끊을 절, 온통 체|rv=jeol, che|mr=chŏl, ch'e}}
+
+# {{defn|lang=ko|sort=刀02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thiết]], [[siết]], [[thiếc]], [[thướt]]|rs=刀02}}
+
+# {{defn|lang=vi|sort=刀02}}
+
+[[zh-min-nan:切]]
+[[de:切]]
+[[fr:切]]
+[[ko:切]]
+[[it:切]]
+[[lt:切]]
+[[li:切]]
+[[hu:切]]
+[[mg:切]]
+[[ms:切]]
+[[ja:切]]
+[[no:切]]
+[[pl:切]]
+[[ru:切]]
+[[th:切]]
+[[chr:切]]
+[[uk:切]]
+[[zh:切]]

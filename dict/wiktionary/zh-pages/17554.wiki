@@ -1,0 +1,72 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=06|sn=10|four=25904|canj=NQD|ids=⿱舛木}}
+
+====References====
+* {{Han ref|kx=0524.150|dkj=14753|dj=0913.030|hdz=21203.050|uh=6840|ud=26688|bh=AEE5|bd=44773}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|舛|木|c1=p|c2=s|t2=wood|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=jié
+|c=git6
+|mc=y
+|oc=y
+|ma=
+|cat=n,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[chicken]] [[roost]]
+# [[w:Jie of Xia|Jie of Xia]], an [[ancient]] [[emperor]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木06}}
+
+# {{defn|lang=ja|sort=木06}}
+
+====Readings====
+* {{ja-readings|on=[[けつ]] (ketsu)|kun=[[はりつけ]] (haritsuke)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=걸|eumhun=|rv=geol|mr=kŏl|y=kel}}
+
+# {{defn|lang=ko|sort=木06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木06|hanviet=kiệt}}
+
+# {{defn|lang=vi|sort=木06}}
+
+[[fr:桀]]
+[[ko:桀]]
+[[hu:桀]]
+[[mg:桀]]
+[[ja:桀]]
+[[pl:桀]]
+[[th:桀]]
+[[zh:桀]]

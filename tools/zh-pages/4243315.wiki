@@ -1,0 +1,50 @@
+{{also|亲身}}
+==Chinese==
+{{zh-forms|s=亲身}}
+
+===Pronunciation===
+{{zh-pron
+|m=qīnshēn
+|c=can1 san1
+|h=pfs=chhîn-sṳ̂n
+|mn=chhin-sin
+|cat=a,adv
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[personal]]
+
+===Adverb===
+{{zh-adv}}
+
+# [[in person]]; [[personally]]
+
+====Derived terms====
+{{zh-der|親身經歷}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しん|み|yomi=j}}
+
+===Adjectival noun===
+{{ja-adj|infl=na|しんみ}}
+
+# [[kind]], [[warm]], [[affectionate]]
+
+====Inflection====
+{{ja-na|しんみ}}
+
+===Noun===
+{{ja-noun|しんみ}}
+
+# [[relation]], [[relative]], [[kin]]
+#* {{RQ:Botchan}}:
+#*: {{ja-usex|親身の甥よりも他人のおれの方が好きなのだろう。|しんみ の おい より も たにん の おれ の ほう が すき な の だろう。|I believe she liked me more than she did her own kin.}}
+
+[[hu:親身]]
+[[mg:親身]]
+[[ja:親身]]
+[[zh:親身]]

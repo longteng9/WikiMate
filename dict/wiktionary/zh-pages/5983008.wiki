@@ -1,0 +1,20 @@
+==Japanese==
+{{wp|lang=ja}}
+{{ja-kanjitab|ひ|か|すい|そ|yomi=o}}
+
+===Etymology===
+{{affix|ja|砒化|tr1=hika|t1=arsenication|水素|tr2=suiso|t2=hydrogen|sort=ひかすいそ}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|ひか すいそ|acc=3|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ひか すいそ|hhira=ひくわすいそ}}
+
+# {{lb|ja|chemistry|sort=ひかすいそ}} [[arsine]]
+
+====Synonyms====
+* {{ja-r|アルシン}}
+
+===References===
+<references/>

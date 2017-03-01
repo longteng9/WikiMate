@@ -1,0 +1,63 @@
+{{character info/new}}
+{{also|闬}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=169|rad=門|as=03|sn=11|four=77401|canj=ANMJ}}
+
+# [[village]]
+
+====References====
+* {{Han ref|kx=1330.130|dkj=41221|dj=1835.040|hdz=74283.060|uh=9588|ud=38280|bh=D846|bd=55366}}
+
+----
+
+==Chinese==
+{{zh-forms|s=闬}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hàn
+|c=hon6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|廛閈|里閈|閈閎}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=門03}}
+
+# {{defn|lang=ja|sort=門03}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan), [[がん]] (gan)|kun=[[さと]] (sato)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=한|eumhun=|rv=han|mr=han|y=han}}
+
+# {{defn|lang=ko|sort=門03}}
+
+[[fr:閈]]
+[[hu:閈]]
+[[pl:閈]]
+[[th:閈]]
+[[zh:閈]]

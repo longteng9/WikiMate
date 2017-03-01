@@ -1,0 +1,103 @@
+{{character info/new}}
+{{also|壷|壶}}
+==Translingual==
+{{Han simplified forms|壺|壷|壶|ex=y}}
+
+===Han character===
+{{Han char|rn=33|rad=士|as=09|sn=12|four=40107|canj=GBLM}}
+
+====References====
+* {{Han ref|kx=0243.150|dkj=05657|dj=0484.010|hdz=10468.010|uh=58FA|ud=22778|bh=B3FD|bd=46077}}
+
+----
+
+==Chinese==
+{{zh-forms|s=壶}}
+
+===Pronunciation===
+{{zh-pron
+|m=hú
+|c=wu4
+|h=pfs=fù
+|md=
+|mn=ô͘
+|w=
+|mc=y
+|oc=y
+|cat=n,cls,propn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[vase]], [[jar]], [[pot]], [[jug]]
+# A [[kettle]] {{gloss|vessel used when boiling liquid}}.
+# {{zh-classifier|[[pot]]s of [[liquid]]}}
+#: {{zh-x|一 壺 水|a '''pot''' of water|C}}
+# {{surname|lang=zh}}
+
+===References===
+* Unihan Database
+* {{R:twedu|A00835}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=uc|rs=士09|style=ky|shin=壷}}
+
+====Readings====
+{{ja-readings
+|on=[[こ]] (ko)
+|kun=[[つぼ]] (tsubo)
+}}
+
+===Etymology===
+Cognate with {{m|ja|坪|tr=tsubo}}. Likely shares its origin with {{m|ja|粒|tr=tsubu}}, in expressing the idea of something round and bulging outward.
+
+===Noun===
+{{ja-noun|つぼ}}
+
+# [[container]] or depression:
+## A [[pot]] or [[jar]]; a [[vessel]] or [[bottle]].
+## A [[basin]], as at the base of a waterfall.
+## A [[pressure point]] in [[acupressure]] or [[acupuncture]].
+# The [[core]] or [[heart]] of an issue.
+
+====Usage notes====
+In acupuncture and acupressure contexts, this word is most often spelled either in [[hiragana]] as {{l|ja|つぼ}} or in [[katakana]] as {{l|ja|ツボ}}.
+
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 壺]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=호|rv=ho|mr=ho}}
+
+# {{defn|lang=ko|sort=士09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''壺''' ([[hồ]])<!--Nom Foundation does not include this character-->
+
+# {{defn|lang=vi|sort=士09}}
+
+[[zh-min-nan:壺]]
+[[fr:壺]]
+[[ko:壺]]
+[[li:壺]]
+[[hu:壺]]
+[[mg:壺]]
+[[ms:壺]]
+[[ja:壺]]
+[[pl:壺]]
+[[th:壺]]
+[[chr:壺]]
+[[zh:壺]]

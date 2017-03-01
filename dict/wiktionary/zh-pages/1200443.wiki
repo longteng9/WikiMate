@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=tòuxī
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[dissect]]; to [[deconstruct]]; to [[undertake]] an [[in-depth]] [[analysis]]
+# {{lb|zh|chemistry}} to [[perform]] [[dialysis]] {{qualifier|separation of particles in a liquid}}
+# {{lb|zh|medicine}} to [[perform]] [[dialysis]] {{qualifier|purification of blood}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|chemistry}} [[dialysis]] {{qualifier|separation of particles in a liquid}}
+# {{lb|zh|medicine}} [[dialysis]] {{qualifier|purification of blood}}
+
+====Synonyms====
+* {{sense|dialysis, in chemistry}} {{zh-l|滲析}}
+
+====Derived terms====
+{{zh-der|腹膜透析}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|とう|せき|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|とうせき|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とうせき}}
+
+# {{lb|ja|medicine}} [[dialysis]]
+
+===References===
+<references/>
+
+[[hu:透析]]
+[[zh:透析]]

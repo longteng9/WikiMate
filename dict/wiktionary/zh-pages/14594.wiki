@@ -1,0 +1,85 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=08|sn=11|four=22214|canj=UOG|ids=⿱山隹}}
+
+# [[high]], [[lofty]], [[towering]]
+# {{surname|lang=zh|dot=,}} #163 on the ''{{w|Baijiaxing}}''
+
+====Derived characters====
+* {{l|zh|催}}
+
+====References====
+* {{Han ref|kx=0314.060|dkj=08178|dj=0614.230|hdz=10780.170|uh=5D14|ud=23828|bh=B15A|bd=45402}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cuī,Cuī
+|c=ceoi1
+|h=
+|mn=chhui
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=a,pn
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|崔嵬}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山08}}
+
+# {{defn|lang=ja|sort=山08}}
+
+====Readings====
+* {{ja-readings|on=[[さい]] (sai), [[すい]] (sui), [[せ]] (se)|kun=[[まじわる]] (majiwaru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=최|rv=choe|mr=ch'oe|y=choy}}
+
+# {{defn|lang=ko|sort=山08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thôi]], [[thoi]], [[thòi]]|rs=山08}}
+
+# {{defn|lang=vi|sort=山08}}
+
+[[zh-min-nan:崔]]
+[[fr:崔]]
+[[ko:崔]]
+[[li:崔]]
+[[hu:崔]]
+[[mg:崔]]
+[[ja:崔]]
+[[no:崔]]
+[[pl:崔]]
+[[th:崔]]
+[[zh:崔]]

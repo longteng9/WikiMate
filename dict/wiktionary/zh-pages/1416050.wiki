@@ -1,0 +1,18 @@
+==Japanese==
+{{ja-kanjitab|どう|とく|てつ|がく|yomi=on}}
+
+===Etymology===
+{{ja-r|道徳|gloss=[[moral]]|どうとく}}+{{ja-r|哲学|gloss=[[philosophy]]|てつがく}}
+
+===Noun===
+{{ja-noun|どうとく てつがく}}
+
+# {{lb|ja|philosophy|sort=とうとくてつがく’}} [[moral philosophy]]
+
+====Synonyms====
+* {{ja-r|倫理学|gloss=[[ethics]]|りんりがく}}
+
+===References===
+* {{R:Kojien}}
+
+[[ko:道徳哲学]]

@@ -1,0 +1,69 @@
+{{character info/new}}
+{{also|點|点}}
+==Translingual==
+
+===Etymology===
+{{Han simp|点|f=灬|t=大}}.
+
+Current form is {{Han compound|占|大}}.
+
+===Han character===
+{{Han char|rn=37|rad=大|as=05|sn=8|four=|canj=YRK|ids=⿱占大}}
+
+# [[dot]], [[speck]], [[spot]]
+# [[point]], [[degree]]
+
+====References====
+* {{Han ref|kx=0251.091|dkj=05909|hdz=10534.011|uh=594C|ud=22860}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=[[dim2]]|y=dim2}}
+
+# {{defn|lang=yue|sort=大05}}
+
+====References====
+* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 1), p. 91]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=大05}}
+
+# {{alternative form of|点|lang=ja}}
+
+====Readings====
+* {{ja-readings|on=[[てん]] (ten)|kun=[[ぼち]] (bochi), [[ちょぼ]] (chobo), [[てん]] (ten)}}
+
+====Usage notes====
+Ryakuji form.
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=점|rv=jeom|mr=chŏm}}
+
+# {{defn|lang=ko|sort=大05}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[diǎn]] ([[dian3]])|wg=tien<sup>3</sup>}}
+
+# {{defn|lang=cmn|sort=大05}}
+
+[[fr:奌]]
+[[li:奌]]
+[[hu:奌]]
+[[pl:奌]]
+[[th:奌]]
+[[zh:奌]]

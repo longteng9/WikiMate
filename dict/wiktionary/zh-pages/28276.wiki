@@ -1,0 +1,64 @@
+{{character info/new}}
+{{also|躏}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=157|rad=足|as=20|sn=27|four=67120|canj=RMTAG}}
+
+# trample down, oppress, overrun
+
+====References====
+* {{Han ref|kx=1236.430|dkj=38026|dj=1709.280|hdz=63751.100|uh=8EAA|ud=36522|bh=C66E|bd=50798}}
+
+----
+
+==Chinese==
+{{zh-forms|s=躏}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lìn
+|c=leon6
+|mc=
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|蹂躪|躪藉}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=足20}}
+
+# {{defn|lang=ja|sort=足20}}
+
+====Readings====
+* {{ja-readings|on=[[りん]] (rin)|kun=[[ふむ]] (fumu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[린]]>[[인]]|eumhun=|rv=rin>in|mr=rin>in|y=lin>in}}
+
+# {{defn|lang=ko|sort=足20}}
+
+[[fr:躪]]
+[[hu:躪]]
+[[ja:躪]]
+[[pl:躪]]
+[[th:躪]]
+[[zh:躪]]

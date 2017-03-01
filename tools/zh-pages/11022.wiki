@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|侯}}
+==Translingual==
+
+===Alternative forms===
+* {{l|mul|𠊱}}
+
+===Han character===
+{{Han char|rn=9|rad=人|as=08|sn=10|four=27234|canj=OLNK|ids=⿰⿰亻丨⿱⿱𠃍一矢,⿰⿰亻丨⿱⿱乛一矢}}
+
+====References====
+* {{Han ref|kx=0108.040|dkj=00775|dj=0229.150|hdz=10178.050|uh=5019|ud=20505|bh=ADD4|bd=44500}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=hòu
+|c=hau6
+|mn=hāu
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[wait]]
+# [[expect]]
+# [[visit]]
+# [[greet]]
+
+====Compounds====
+{{zh-der|季候|候光|候選人|候蟲|久候|兆候|候教|候選|候溫|候機室|候場|候鳥|候賬|候用|候問|候旨|候補|恭候|三部九候|佇候|徵候|候車室|回候|堂候官|小時候|全天候|候診室|存候|候人|問候|寒帶氣候|候審|候館|候診|守候|季風氣候|侍候|不候|失候|天候|候脈|夏候鳥|少候|大氣候|候缺|伺候|官員祇候|乾燥氣候|候鴈|候車|俟候|占候|症候群|病候|成氣候|拱候|有時候|望候|承顏候色|氣候順化|沙漠氣候|海洋氣候|時候|稍候|烽候|拜候|祗候人|祗候|火候|症候|物候|摸氣候|斬監候|測候|癥候|斥候|氣候|氣候學|極地氣候|探候|聽候發落|風候|風雲氣候|虞候|等候|立候|節候|聽候|黃梅時候|鵠候|麥候|順候|靜候|迎候|苔原氣候|高地氣候|警候|聽候官身|過時不候|這時候|診候|證候|臺候|覘候|草原氣候}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=人08}}
+
+# [[climate]]
+# [[season]]
+# [[weather]]
+
+====Readings====
+* {{ja-readings|goon=[[ぐ]] (gu) {{non-joyo-reading}}|kanon=[[こう]] (kō)|kun=[[そうろう]] (sōrō), [[うかがう]] (ukagau), [[さぶらう]] (saburau)}}
+
+===Noun===
+{{ja-noun|こう}}
+
+# {{lb|ja|literary|sort=こう}} the [[season]], the [[weather]] of the current season
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=후}}
+
+# {{defn|lang=ko|sort=人08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hầu]], [[hậu]], [[thoắng]]|rs=人08}}
+
+# {{defn|lang=vi|sort=人08}}
+
+[[fr:候]]
+[[ko:候]]
+[[hu:候]]
+[[mg:候]]
+[[ja:候]]
+[[no:候]]
+[[pl:候]]
+[[th:候]]
+[[chr:候]]
+[[zh:候]]

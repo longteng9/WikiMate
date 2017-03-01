@@ -1,0 +1,41 @@
+{{also|月给}}
+==Chinese==
+{{zh-forms|s=月给}}
+
+===Etymology===
+Re{{bor|zh|ja|-|nocap=1}} {{ja-r|月給|げっきゅう}} into Taiwanese {{etyl|nan|-}} and {{etyl|hak|-}}.
+
+===Pronunciation===
+{{zh-pron
+|m=yuèjǐ
+|c=jyut6 kap1
+|h=pfs=ngie̍t-kip
+|mn=zz,kh:goe̍h-kip/tp:ge̍h-kip
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|literary|or|Taiwanese Min Nan and Hakka}} [[monthly]] [[income]]
+
+====Synonyms====
+* {{zh-l|月薪}}
+* {{zh-l|月俸}}
+* {{zh-l|薪水}}
+----
+
+==Japanese==
+{{ja-kanjitab|げつ|きゅう|k1=げっ|yomi=on}}
+
+===Noun===
+{{ja-noun|げっきゅう}}
+
+# [[monthly]] [[income]]
+
+[[zh-min-nan:月給]]
+[[ko:月給]]
+[[hu:月給]]
+[[mg:月給]]
+[[chr:月給]]
+[[zh:月給]]

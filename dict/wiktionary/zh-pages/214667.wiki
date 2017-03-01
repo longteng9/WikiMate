@@ -1,0 +1,49 @@
+{{wikipedia|Hiragana}}
+==Japanese==
+{{ja-kanjitab|ひら|か|k2=が|な|r=y}}
+
+===Etymology===
+Compound of {{compound|平|tr1=hira|t1=flat, smooth|仮名|tr2=kana|lang=ja}}, which voices to -''gana'' due to [[w:Rendaku|suffixation]].
+
+===Pronunciation===
+{{ja-pron|ひらがな|acc=3|acc2=h|acc3=o|acc_ref=NHK,DJR,SMK5|acc2_ref=NHK|acc3_ref=NHK}}
+
+===Noun===
+{{ja-noun|ひらがな|kyu=平假名}}
+
+# a Japanese syllabary script
+#* {{RQ:Nippo Jisho|242}}
+#*: '''Firagana'''. ヒラガナ (平仮名) 日本の文字の一種.
+# (as opposed to complex kanji) simple
+
+====Synonyms====
+* {{ja-r|女手|おんなで}}
+* {{ja-r|女文字|おんなもじ}}
+* {{ja-r|草仮名|そうがな}}
+
+===See also===
+* {{ja-r|漢字|かんじ}}
+* {{ja-r|片仮名|かたかな}}
+* {{ja-r|万葉仮名|まんようがな}}
+* {{ja-r|ローマ字|ローマじ}}
+
+===References===
+<references/>
+* {{R:Nippo Jisho}}
+
+[[Category:Japanese basic words|ひらがな]]
+[[Category:ja:Writing systems|ひらがな]]
+
+[[ar:平仮名]]
+[[fr:平仮名]]
+[[ko:平仮名]]
+[[ky:平仮名]]
+[[li:平仮名]]
+[[hu:平仮名]]
+[[ja:平仮名]]
+[[pl:平仮名]]
+[[ru:平仮名]]
+[[fi:平仮名]]
+[[sv:平仮名]]
+[[th:平仮名]]
+[[zh:平仮名]]

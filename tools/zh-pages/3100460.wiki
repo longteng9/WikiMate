@@ -1,0 +1,41 @@
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja}}
+{{wikipedia|Fisherman}}
+[[File:Seining salmon.jpg|thumb|250px|{{lang|ja|漁師}} (''ryōshi''): salmon '''[[fishermen]]''' in Oregon, 1914.]]
+</div>
+{{ja-kanjitab|りょう|し|yomi=o}}
+
+===Etymology===
+The spelling is likely from {{etyl|ltc|ja|sort=りょうし}} compound {{m|zh|漁師|tr=ngjo srij|lit=fishing + master}}. Compare modern simplified {{etyl|cmn|-}} {{m|zh|渔师|tr=yúshī||fisherman}}.
+
+The expected reading would be ''gyoshi''. The [[慣用読み#Japanese|kan'yōyomi]] (irregular but customary reading) of ''ryō'' for the {{ja-l|漁}} character is from confusion with the {{ja-l|猟}} character, usually read ''ryō'' in [[音読み#Japanese|on'yomi]] contexts and meaning “{{m|en|hunt}}, {{m|en|hunting}}”, as used in the [[homophonic]] term {{m|ja|猟師|tr=ryōshi||hunter}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>
+
+===Pronunciation===
+{{ja-pron|yomi=on|りょうし|acc=1|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|りょうし|hhira=れふし}}
+
+# a [[fisherman]], someone who [[fishes]] as a [[livelihood]]
+
+====Synonyms====
+* {{ja-r|漁民|ぎょみん}}
+* {{ja-r|漁夫|ぎょふ}} {{qualifier|archaic}}
+* {{ja-r|海人|かいじん}}, {{ja-r|海人|あま}}, {{ja-r|海人|あまびと}}, {{ja-r|海人|あまんど}} {{qualifier|obsolete}}
+* {{ja-r|釣り人|つりびと}} {{qualifier|overtones of someone who fishes as a hobby}}
+
+===References===
+<references/>
+
+[[fr:漁師]]
+[[kn:漁師]]
+[[lt:漁師]]
+[[hu:漁師]]
+[[mg:漁師]]
+[[fj:漁師]]
+[[ja:漁師]]
+[[ru:漁師]]
+[[sv:漁師]]
+[[chr:漁師]]
+[[zh:漁師]]

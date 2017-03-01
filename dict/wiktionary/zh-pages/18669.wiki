@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+===Glyph origin===
+{{Han etym}}
+{{Han compound|水|气|ls=psc|c1=s|c2=p|alt1=氵|t1=water}}.
+
+===Han character===
+{{Han char|rn=85|rad=水|as=04|sn=7|four=38117|canj=EOMN|ids=⿰氵气}}
+
+====References====
+* {{Han ref|kx=0609.060|dkj=17177|dj=1002.030|hdz=31566.040|uh=6C7D|ud=27773|bh=A854|bd=43092}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=qì
+|c=hei3
+|h=pfs=hi
+|md=ké
+|mn=khì
+|w=2qi
+|mc=
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[steam]], [[vapor]], [[gas]]
+
+====Derived terms====
+* {{zh-l|汽車}}
+
+===References===
+* {{thcwdq|汽}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=2|rs=水04}}
+
+# [[steam]]
+
+====Readings====
+* {{ja-readings|goon=[[け]] (ke)|kanon=[[き]] (ki)|on=[[いつ]] (itsu)|kun=[[ゆげ]] (yuge), [[みずけ]] (mizuke)}}
+
+{{attention|ja|check and expand on readings; two different Chinese words? (cmn: qí, ja: ki, ko: gi vs. cmn: yǐ, ko: heul, ja: itsu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[기]], [[흘]]}}
+
+# {{defn|lang=ko|sort=水04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khí]]|rs=水04}}
+
+# {{defn|lang=vi|sort=水04}}
+
+[[fr:汽]]
+[[ko:汽]]
+[[hu:汽]]
+[[mg:汽]]
+[[ja:汽]]
+[[no:汽]]
+[[pl:汽]]
+[[pt:汽]]
+[[th:汽]]
+[[vi:汽]]
+[[zh:汽]]

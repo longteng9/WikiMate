@@ -1,0 +1,59 @@
+{{also|延长}}
+==Chinese==
+{{zh-forms|s=延长}}
+
+===Pronunciation===
+{{zh-pron
+|m=yáncháng
+|c=jin4 coeng4
+|h=pfs=yèn-chhòng
+|mn=qz,tw,xm,zz:iân-tn̂g/qz,tw,xm:iân-tiông/zz:iân-tiâng
+|cat=n
+}}
+
+===Verb===
+{{zh-noun}}
+
+# to [[lengthen]]; to [[extend]]; to [[prolong]]
+
+[[Category:Elementary Mandarin|廴04延長]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|えん|ちょう|yomi=on}}
+
+===Etymology===
+[[延]] (えん, ''en'': “extend”) + [[長]] (ちょう, ''chō'': “long”)
+
+===Noun===
+{{ja-noun|えんちょう}}
+
+# An [[extension]] of [[length]] or [[period]]; [[lengthening]]
+#* '''1949''', 永井隆, この子を残して:
+#*: {{ja-usex|来世はこの世の時間の'''延長'''ではない。|らいせ は この よ の じかん の '''えんちょう''' で は ない。|The next world is not an extension of our time in this one.}}
+# An extension of a rail line, road, etc.
+
+====Antonyms====
+* {{sense|an act of extending a length or period}} {{ja-r|短縮|たんしゅく|gloss=[[shortening]]}}
+
+====Compounds====
+* {{ja-r|延長コード|えんちょう コード}}: [[extension cord]]
+* {{ja-r|延長戦|えんちょうせん}}: [[extra time]], [[extra innings]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|えんちょう}}
+
+# To [[extend]] a [[length]] or [[period]]; to [[lengthen]]
+#* '''1907''', 夏目漱石, 野分:
+#*: {{ja-usex|しかし拘泥の苦痛は一日で済む苦痛を五日、七日に'''延長'''する苦痛である。|しかし こうでい の くつう は いちにち で すむ くつう を いつか、 なのか に '''えんちょう''' する くつう で ある。|Being so particular, however, turns agonies ending in one day into ones extending into five or seven.}}
+
+====Conjugation====
+{{ja-suru|えんちょう}}
+
+[[ko:延長]]
+[[hu:延長]]
+[[mg:延長]]
+[[ja:延長]]
+[[chr:延長]]
+[[zh:延長]]

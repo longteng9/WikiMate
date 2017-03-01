@@ -1,0 +1,78 @@
+{{character info/new}}
+{{also|屉}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=44|rad=尸|as=08|sn=11|four=77217|canj=SHOT|ids=⿸尸⿰彳世}}
+
+====References====
+* {{Han ref|kx=0302.260|dkj=07735|dj=0600.070|hdz=20977.140|uh=5C5C|ud=23644|bh=B150|bd=45392}}
+
+----
+
+==Chinese==
+{{zh-forms|s=屉}}
+
+===Pronunciation===
+{{zh-pron
+|m=tì
+|c=tai3
+|c-t=
+|g=
+|h=pfs=
+|j=
+|md=
+|mn=qz,xm,zz:thè/thoah
+|mn_note=thè - literary; thoah - vernacular
+|mn-t=
+|w=
+|x=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[drawer]]
+# [[tray]]
+# [[pad]]
+# [[screen]]
+
+====Synonyms====
+{{zh-dial|抽屜}}
+
+====Compounds====
+{{zh-der|屜子|屜兒|抽屜|拉抽屜|窗屜|籠屜}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=尸08}}
+
+# {{defn|lang=ja|sort=尸08}}
+
+====Readings====
+* {{ja-readings|on=[[てい]] (tei), [[たい]] (tai)|kun=[[くつしき]] (kutsushiki), [[しきわら]] (shikiwara)}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=尸08|hanviet=thế}}
+
+# {{defn|lang=vi|sort=尸08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5c5c Nom Foundation]
+
+[[zh-min-nan:屜]]
+[[fr:屜]]
+[[hu:屜]]
+[[pl:屜]]
+[[th:屜]]
+[[zh:屜]]

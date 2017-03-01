@@ -1,0 +1,62 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=03|sn=7|four=61040|canj=AMJ,XAMJ|ids=⿰日干}}
+
+# [[sunset]], [[dusk]]
+# [[evening]]
+
+====References====
+* {{Han ref|kx=0490.050|dkj=13751|dj=0851.060|hdz=21486.070|uh=65F0|ud=26096|bh=CAF8|bd=51960}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=gàn,hàn
+|c=gon3,hon6
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日03}}
+
+# {{defn|lang=ja|sort=日03}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[くれる]] (kureru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=간|eumhun=|rv=gan|mr=kan|y=kan}}
+
+# {{defn|lang=ko|sort=日03}}
+
+[[fr:旰]]
+[[hu:旰]]
+[[mg:旰]]
+[[pl:旰]]
+[[th:旰]]
+[[zh:旰]]

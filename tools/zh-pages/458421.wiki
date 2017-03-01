@@ -1,0 +1,76 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=dàolǐ,tl=y
+|c=dou6 lei5
+|h=pfs=tho-lî
+|mn=tō-lí
+|w=3dau li
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[reason]]; [[argument]]; [[logic]]
+#: {{zh-x|其實 這 種 '''道理'''，到 了 現在，他們 也 該 早已 懂得|Actually, they should already understand this kind of '''argument''' by now|tr=Qíshí zhèi zhǒng '''dàolǐ''' dào le xiànzài, tāmén yě gāi zǎoyǐ dǒngde|ref='''1918:''' [[w:Lu Xun|Lu Xun]], ''[[s:A Madman's Diary#8|A Madman's Diary]]'' ([[:zh:s:狂人日記|狂人日記]])}}
+# [[principle]]; [[rule]]; [[truth]]
+# the [[right]] [[way]] {{gloss|to do something}}
+
+====Derived terms====
+{{zh-der|講道理}}
+
+===Descendants===
+{{CJKV|道理|どうり|도리|đạo lí}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|どう|り|yomi=o}}
+
+===Pronunciation===
+* {{ja-pron|どうり|y=o|acc=3|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|どうり}}
+
+# [[reason]], [[logic]], [[sense]], [[principle]]
+#: {{ja-usex|彼の意見は道理に適っていない。|^かれ の いけん は '''どうり''' に かなって いない。|His opinion doesn't make '''sense'''.}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=도리}}
+
+# {{hanja form of|도리|[[duty]]; way, method, means}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu|pos=noun}}
+
+# {{han tu form of|đạo lí|moral code, principles, standards; moral philosophy}}
+
+[[zh-min-nan:道理]]
+[[fr:道理]]
+[[ko:道理]]
+[[hu:道理]]
+[[mg:道理]]
+[[ja:道理]]
+[[ta:道理]]
+[[uk:道理]]
+[[zh:道理]]

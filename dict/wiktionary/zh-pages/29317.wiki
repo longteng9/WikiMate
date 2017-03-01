@@ -1,0 +1,90 @@
+{{character info/new}}
+{{also|钹}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=05|sn=13|four=84140|canj=CIKE,CIKK}}
+
+# [[cymbals]]
+
+====References====
+* {{Han ref|kx=1299.320|dkj=40271|dj=1802.130|hdz=64184.070|uh=9238|ud=37432|bh=B959|bd=47449}}
+
+----
+
+==Chinese==
+{{zh-forms|s=钹}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bó
+|c=bat6,but6
+|h=pfs=
+|md=
+|mn=poa̍h
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[cymbals]]
+
+====Compounds====
+* {{zh-l|小鈸}}
+
+{{zh-cat|Musical instruments}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金05}}
+
+# {{defn|lang=ja|sort=金05}}
+
+====Readings====
+* {{ja-readings|on=[[はつ]] (hatsu), [[ばち]] (bachi)|kun=[[すず]] (suzu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=발|eumhun=|rv=bal|mr=pal|y=pal}}
+
+# ([[동발]] 발, ''dongbal-''): [[cymbal]]
+
+====Synonyms====
+* {{l|ko|哱囉}} ([[바라]], ''bara'')
+
+====Compounds====
+* {{l|ko|銅鈸}} ([[동발]], ''dongbal''): [[cymbal]]
+
+====See also====
+* {{l|ko|鉢}} ([[발]], ''bal''): [[bowl]]
+
+[[Category:Hanja readings|발]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''鈸''' ([[bạt]])
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:鈸]]
+[[hu:鈸]]
+[[mg:鈸]]
+[[pl:鈸]]
+[[th:鈸]]
+[[zh:鈸]]

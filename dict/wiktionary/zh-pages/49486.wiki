@@ -1,0 +1,88 @@
+==Chinese==
+{{zh-forms|s=国语}}
+
+===Etymology===
+{{rfe|zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=guóyǔ
+|c=gwok3 jyu5
+|h=pfs=koet-ngî
+|md=guók-ngṳ̄
+|mn=kh,zz:kok-gí/tp:kok-gú
+|w=4koq nyy
+|cat=n,pn
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[national]] [[language]]
+# {{lb|zh|chiefly|Taiwan|colloquial|_|in|_|Hong Kong|dated|_|in|_|mainland China}} [[Mandarin]] [[Chinese]], standard Chinese
+#: {{zh-x|你 會 說 國語 嗎？|Do you speak '''Mandarin'''?}}
+# {{lb|zh|usually in contrast with {{zh-l|*普通話}}}} {{w|Taiwanese Mandarin}}; [[Guoyu]]
+# {{lb|zh|Malaysia}} [[Malay#Proper noun|Malay]]
+
+====Synonyms====
+{{zh-dial|普通話}}
+
+====See also====
+* {{zh-l|中文}}
+* {{zh-l|中國話}}
+* {{zh-l|華文}}
+
+{{zh-cat|Languages}}
+
+===Proper noun===
+{{zh-proper noun}}
+
+# ''{{w|Guoyu (book)|Discourses of the States}}'', a text from the {{w|Spring and Autumn period}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こく|ご|yomi=on}}
+
+===Noun===
+{{ja-noun|こくご|shin=国語}}
+
+# national language
+# [[Japanese]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|sc=Kore|hangeul=국어}}
+
+# {{hanja form of|국어|[[national]] [[language]]; [[Korean]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|quốc ngữ|national language, the modern [[Vietnamese]] writing system based on the Roman alphabet}}
+
+===See also===
+* {{l|vi|字儒}}, {{l|vi|chữ Nho}}
+* {{l|vi|字喃}}, {{l|vi|chữ Nôm}}
+
+[[zh-min-nan:國語]]
+[[el:國語]]
+[[fr:國語]]
+[[ko:國語]]
+[[it:國語]]
+[[lt:國語]]
+[[li:國語]]
+[[hu:國語]]
+[[mg:國語]]
+[[ja:國語]]
+[[pt:國語]]
+[[zh:國語]]

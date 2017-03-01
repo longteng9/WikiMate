@@ -1,0 +1,24 @@
+==Japanese==
+{{ja-kanjitab|か|たん|yomi=on}}
+
+===Alternative forms===
+* {{l|ja|荷担}}
+
+===Noun===
+{{ja-noun|かたん}}
+
+# [[participation]], usually in a bad thing; [[complicity]], [[conspiracy]]
+
+====Derived terms====
+* {{ja-r|荷担者|かたんしゃ|gloss=accomplice}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|かたん}}
+
+# [[support]], [[participate]] in, have a hand in, be [[complicit]] in
+#: {{ja-usex|いじめに加担する子ども|いじめ に かたん する こども|children involved in bullying}}
+
+====Conjugation====
+{{ja-suru|かたん}}
+
+[[mg:加担]]

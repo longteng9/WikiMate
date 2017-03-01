@@ -1,0 +1,50 @@
+{{also|算术}}
+==Chinese==
+{{zh-forms|s=算术}}
+
+===Pronunciation===
+{{zh-pron
+|m=suànshù
+|c=syun3 seot6
+|h=pfs=son-su̍t
+|mn=qz,xm,zz:soàn-su̍t
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[arithmetic]]
+
+====Derived terms====
+{{zh-der|算術平均值}}
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|yomi=o|さん|じゅつ}}
+
+===Pronunciation===
+{{ja-pron|さんじゅつ|acc=h|acc_ref=DJR,NHK,SMK5|y=go}}
+
+===Noun===
+{{ja-noun|さんじゅつ}}
+
+# [[arithmetic]]
+
+===References===
+<references/>
+[[Category:ja:Arithmetic|さんじゅつ]]
+
+[[cs:算術]]
+[[fr:算術]]
+[[io:算術]]
+[[lt:算術]]
+[[li:算術]]
+[[hu:算術]]
+[[mg:算術]]
+[[ja:算術]]
+[[zh:算術]]

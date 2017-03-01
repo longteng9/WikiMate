@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|祟}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=08|sn=11|four=22901|canj=UJMF|ids=⿱山宗}}
+
+# [[esteem]], [[honor]], [[revere]], [[venerate]]
+
+====References====
+* {{Han ref|kx=0313.010|dkj=08152|dj=0613.170|hdz=10782.140|uh=5D07|ud=23815|bh=B152|bd=45394}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chóng
+|c=sung4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|崇山峻嶺|崇拜}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=山08}}
+
+# adore
+
+====Readings====
+{{ja-readings|goon=[[ずう]] (zū)|kanon=[[しゅう]] (shū), [[そう]] (sō)|kanyoon=[[すう]] (sū), [[す]] (su)|kun=[[たかい]] (takai), [[あがめる]] (agameru), [[たっとぶ]] (tattobu)}}
+
+===Proper noun===
+{{ja-pos|たかし|proper}}
+
+# {{given name|male|lang=ja|sort=たかし}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=숭|rv=sung|mr=sung}}
+
+# {{defn|lang=ko|sort=山08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[sùng]], [[sồng]], [[sung]], [[xùng]]|rs=山08}}
+
+# {{defn|lang=vi|sort=山08}}
+
+[[fr:崇]]
+[[ko:崇]]
+[[li:崇]]
+[[hu:崇]]
+[[mg:崇]]
+[[ms:崇]]
+[[ja:崇]]
+[[no:崇]]
+[[pl:崇]]
+[[th:崇]]
+[[vi:崇]]
+[[zh:崇]]

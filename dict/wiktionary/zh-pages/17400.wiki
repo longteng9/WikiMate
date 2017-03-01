@@ -1,0 +1,71 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=05|sn=9|four=23904|canj=IRD|ids=⿱台木}}
+
+====References====
+* {{Han ref|kx=0517.060|dkj=14582|dj=0905.030|hdz=21191.070|uh=67B2|ud=26546|bh=CF56|bd=53078}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xǐ
+|c=saai2
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[ramie]] (''Boehmeria nivea'')
+# [[male]] [[nettle]]-[[hemp]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木05}}
+
+# {{defn|lang=ja|sort=木05}}
+
+====Readings====
+* {{ja-readings|on=[[し]] (shi)|kun=[[からむし]] (karamushi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=시|eumhun=|rv=si|mr=si|y=si}}
+
+# {{defn|lang=ko|sort=木05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木05|hanviet=tí}}
+
+# {{defn|lang=vi|sort=木05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=67b2 Nom Foundation]
+
+[[fr:枲]]
+[[hu:枲]]
+[[pl:枲]]
+[[th:枲]]
+[[zh:枲]]

@@ -1,0 +1,49 @@
+{{character info/new}}
+{{also|錢}}
+==Translingual==
+{{Han simplified forms|錢|銭|钱}}
+
+===Etymology===
+Japanese shinjitai {{Han simp|錢|f=戔|t=㦮}}; simplified component is approximately [[戋]] with an extra 一; compare {{l|ja|残}}.
+
+===Han character===
+{{Han char|rn=167|rad=金|as=06|sn=14|four=|canj=CIQ|ids=⿰金㦮}}
+
+====Related characters====
+* {{l|ja|残}}
+
+====References====
+* {{Han ref|kx=1305.211|dkj=40413|dj=1808.080|hdz=64193.030|uh=92AD|ud=37549}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=金06|style=s|kyu=錢}}
+
+# money
+# [[sen]] (a hundredth of [[yen]])
+
+====Readings====
+* {{ja-readings|goon=[[せん]] (sen), [[ぜん]] (zen)|kun=[[ぜに]] (zeni), [[すき]] (suki)|kanon=[[せん]] (sen)}}
+
+====Compounds====
+* {{ja-r|銭湯|せんとう}}: [[bath house]]
+* {{ja-r|小銭|こぜに}}: [[small change]]
+* {{ja-r|銭亀|ぜにがめ}}: [[pond turtle]]
+
+===Noun===
+{{ja-noun|せん}}
+
+# hundredth of a [[yen]]
+# {{lb|ja|obsolete|archaic}} one-thousandth of a [[kan]]
+
+[[fr:銭]]
+[[lo:銭]]
+[[hu:銭]]
+[[mg:銭]]
+[[ja:銭]]
+[[pl:銭]]
+[[th:銭]]
+[[zh:銭]]

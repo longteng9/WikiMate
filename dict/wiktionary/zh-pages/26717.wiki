@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=14|sn=20|four=31227|canj=LMBB|ids=⿰衤需}}
+
+# short coat, jacket
+# fine silk fab
+
+====References====
+* {{Han ref|kx=1126.240|dkj=34678|dj=1593.280|hdz=53119.150|uh=8966|ud=35174|bh=F4CB|bd=62667}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=rú
+|c=jyu4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|綺襦紈褲|繡襦記|羅襦|腰襦|袾襦|複襦|襦褲|襦褲歌|雪中贈襦}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=衣14}}
+
+# {{defn|lang=ja|sort=衣14}}
+
+====Readings====
+{{ja-readings|goon=[[にゅう]] (nyū)|kanon=[[じゅ]] (ju)|kun=[[はだぎ]] (hadagi)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|襦袢|じゅばん}}: a type of [[undershirt]] worn under a kimono
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=유|eumhun=|rv=yu|mr=yu|y=yu}}
+
+# {{defn|lang=ko|sort=衣14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[nhu]]|rs=衣14}}
+
+# {{defn|lang=vi|sort=衣14}}
+
+[[fr:襦]]
+[[hu:襦]]
+[[mg:襦]]
+[[ja:襦]]
+[[pl:襦]]
+[[th:襦]]
+[[zh:襦]]

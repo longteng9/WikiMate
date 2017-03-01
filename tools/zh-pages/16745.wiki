@@ -1,0 +1,117 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=9}}
+
+===Han character===
+{{Han char|rn=66|rad=攴|as=05|sn=9|four=48640|canj=JROK|ids=⿰古攵}}
+
+====References====
+* {{Han ref|kx=0469.250|dkj=13161|dj=0820.050|hdz=21453.050|uh=6545|ud=25925|bh=AC47|bd=44103}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etyl}}
+{{Han compound|古|攴|alt2=攵|c1=p|c2=s|ls=psc}}.<!--The gloss should actually say what the actual semantic meaning is (not just a listing of the character with no further explanation), otherwise the etymology is incomplete and our users are left wondering.-->
+
+===Etymology===
+Derivative of {{och-l|古|old}}. The sense “cause, reason” may be related too (“thing or person of former times”), or the same word as {{och-l|固|solid, secure, sure}} ({{zh-ref|Schuessler 2007, ''apud'' Pulleyblank 1989}}).
+
+===Pronunciation===
+{{zh-pron
+|m=gù
+|c=gu3
+|h=pfs=ku
+|md=gó
+|mn=kò͘
+|w=2ku
+|mc=y
+|oc=y
+|ma=y
+|cat=a,n,v,adv,con
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[old]]; of the [[past]]
+# [[cause]]; [[reason]]
+#: {{zh-x|緣故|reason}}
+# [[accident]]; [[misfortune]]; [[unexpected]] [[event]]
+# [[past]] things; [[antiquity]]
+# [[old]] [[friend]]; [[good]] friend; [[close]] friend
+# to [[die]]; to [[pass away]]
+#: {{zh-x|已故|deceased [lit. has passed away]}}
+# [[deceased]]; [[dead]]
+# [[formerly]]; [[originally]]
+# [[intentionally]]; [[deliberately]]
+# [[still]]; [[as]] [[before]]
+# [[therefore]]; [[so]]
+#: {{zh-x|我.思.故.我.在|I think, '''therefore''' I am}}
+
+===Compounds===
+{{zh-der|故事|故意|故鄉|故人|已故|一見如故|不主故常|不知何故|不解其故|世故|九故十親|事故|亡故|交通事故|人情世故|他故|何故|依然如故|依然故我|借故|傳奇故事|典故|出故典|則故|北平故宮|十親九故|原故|吐故納新|喜新厭故|國故|多故|大故|天下多故|奉行故事|如故|姻故|安堵如故|小故|巧故|平白無故|并州故鄉|循常習故|意故|慈故能勇|扮故事|持之有故|指親托故|按堵如故|掌故|推故|故且|故世|故主|故事書|故事片|故事詩|故交|故以|故伎重演|故侯|故侯瓜|故入|故典|故出|故劍|故劍情深|故去|故友|故吏|故吾|故國|故園|故園心眼|故土|故土難移|故地|故址|故城|故壘|故夫|故失|故套|故宅|故宇|故宮|故宮禾黍|故家|故家喬木|故家子|故家子弟|故家遺俗|故實|故將軍|故居|故山|故常|故弄玄虛|故態|故態復萌|故我|故所|故技|故技重施|故故|故故由兒|故智|故書|故有|故林|故歇|故此|故步|故步自封|故殺|故淹珠玉|故物|故犯|故生枝節|故當|故疏|故知|故紙|故紙堆|故絮|故縱|故老|故而|故自|故自傷殘|故舊|故舊不棄|故舍|故記|故轍|故退|故道|故都|故里|故障|敷衍故事|明知故問|明知故犯|是故|更故|有故|欲擒故縱|毛舉細故|江山如故|沒緣沒故|沾親帶故|溫故知新|滌故更新|漢武故事|無故|無緣無故|物故|特故|狂奴故態|班荊道故|病故|白憑無故|皮故|確定故意|細故|緣故|羌無故實|義故|習故守常|老於世故|自我作故|舊故|蒙故業|薄物細故|藉故|虛應故事|衣錦故鄉|襲人故智|親故|解故|託故|詐故|詭故|變故|變故易常|責任事故|蹈常襲故|蹈襲故常|身故|迎新送故|退故|送故|送故迎新|道故|鄉故|鑽故紙|門生故吏|雅故|雖故|非親非故|革故鼎新|風月故事|飽經世故|高朋故戚|鬼故事|鼎新革故}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=攴05}}
+
+# [[dead|late]] ([[deceased]])
+
+====Readings====
+* {{ja-readings|goon=[[く]] (ku) {{non-joyo-reading}}|kanon=[[こ]] (ko)|kun=[[ゆえ]] (yue), [[こと]] (koto), [[ことさらに]] (kotosarani)}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|故意|こい}}
+* {{ja-r|故人|こじん}}
+* {{ja-r|故事|こじ}}
+* {{ja-r|温故知新|おんこちしん}}
+{{mid3}}
+* {{ja-r|故事成語|こじせいご}}
+* {{ja-r|故意犯|こいはん}}
+* {{ja-r|物故|ぶっこ}}
+* {{ja-r|病故|びょうこ}}
+{{mid3}}
+* {{ja-r|吐故納新|とこのうしん}}
+* {{ja-r|故障|こしょう}}
+* {{ja-r|故郷|こきょう}}
+* {{ja-r|縁故|えんこ}}
+{{bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=고|eumhun=|rv=go|mr=ko|y=ko}}
+
+# {{defn|lang=ko|sort=攴05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cố]], [[cớ]]|rs=攴05}}
+
+# {{defn|lang=vi|sort=攴05}}
+
+[[zh-min-nan:故]]
+[[fr:故]]
+[[ko:故]]
+[[lo:故]]
+[[hu:故]]
+[[mg:故]]
+[[ja:故]]
+[[no:故]]
+[[pl:故]]
+[[ta:故]]
+[[th:故]]
+[[zh:故]]

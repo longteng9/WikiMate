@@ -1,0 +1,83 @@
+{{character info/new}}
+{{also|輌|辆}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=159|rad=車|as=08|sn=15|four=51027|canj=JJMLB}}
+
+====References====
+* {{Han ref|kx=1244.190|dkj=38361|dj=1721.100|hdz=53537.080|uh=8F1B|ud=36635|bh=BDF8|bd=48632}}
+
+----
+
+==Chinese==
+{{zh-forms|s=辆}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=liàng
+|c=loeng6
+|h=pfs=liòng
+|md=
+|mn=
+|w=3lian
+|oc=y
+|cat=cls
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{zh-classifier|[[vehicles]]|cat=y}}
+#: {{zh-x|一 輛 車|a car}}
+#: {{zh-x|一 輛 跑車|a race car}}
+
+====Synonyms====
+* {{qualifier|Cantonese}} {{zh-l|架|gaa3}}
+
+===Compounds===
+{{zh-der|輛起|車輛}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=車08}}
+
+====Readings====
+* {{ja-readings|goon=[[ろう]] (rō), {{qualifier|historical}} [[らう]] (rau)|kanon=[[りょう]] (ryō), {{qualifier|historical}} [[りやう]] (ryau)|kun=[[ならぶ]] (narabu), [[くるま]] (kuruma)|nanori=}}
+
+===Counter===
+{{ja-pos|りょう|counter|shin=両|hhira=りやう}}
+
+# cars of a train
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[량]]>[[양]]|eumhun=|rv=ryang>yang|mr=ryang>yang|y=lyang>yang}}
+
+# {{defn|lang=ko|sort=車08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[lượng]], [[lưỡng]]|rs=車08}}
+
+# {{defn|lang=vi|sort=車08}}
+
+[[fr:輛]]
+[[ko:輛]]
+[[hu:輛]]
+[[ja:輛]]
+[[pl:輛]]
+[[th:輛]]
+[[zh:輛]]

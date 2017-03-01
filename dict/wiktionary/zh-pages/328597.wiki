@@ -1,0 +1,34 @@
+==Japanese==
+{{ja-kanjitab|おと|ひめ|yomi=k}}
+
+===Etymology===
+{{compound|乙|tr1=oto|t1=[[young]] [[girl]]; [[youngest]] girl|姫|tr2=[[hime]]|t2=[[daughter]] or [[young lady]] of [[noble]] or [[gentle]] birth; [[princess]]|lang=ja|sort=おとひめ}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|おとひめ|acc=2|acc_ref=DJR,NHK}}
+
+===Proper noun===
+{{ja-pos|proper|おとひめ}}
+
+# A beautiful young [[princess]], who is believed to live in the [[paradise]] [[castle]] of deep [[sea]], tha name [[竜宮城]] (ryūgūjō) of the story of [[浦島太郎]] ([[Urashima Taro]])
+
+====Related terms====
+* {{ja-r|浦島太郎|^うらしま ^たろう}}: Urashima Taro
+
+===Noun===
+{{ja-noun|おとひめ}}
+
+# {{lb|ja|obsolete|sort=おとひめ}} [[younger]] [[princess]]
+
+====Antonyms====
+* {{ja-r|兄姫|えひめ}}: (''obsolete'') [[elder]] [[princess]]
+
+===Alternative forms===
+* {{ja-l|弟姫}}
+
+===References===
+<references/>
+
+{{catlangcode|ja|Female|Mythological figures|Nobility|Monarchy|sort=おとひめ}}
+
+[[sv:乙姫]]

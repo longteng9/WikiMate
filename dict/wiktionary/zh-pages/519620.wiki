@@ -1,0 +1,41 @@
+{{also|選舉}}
+==Japanese==
+{{ja-kanjitab|せん|きょ|yomi=on}}
+
+===Noun===
+{{ja-noun|せんきょ|kyu=選舉}}
+
+# {{lb|ja|politics|sort=せんきょ}} [[election]]
+#: {{ja-usex|選挙に行く|せんきょ に いく|to go to an official voting place (and cast a [[vote]])}}
+
+====Compounds====
+* {{ja-r|選挙権|せんきょけん|gloss=suffrage}}
+
+===Verb===
+{{ja-verb-suru|せんきょ|kyu=選舉}}
+
+# [[elect]]
+
+====Conjugation====
+{{ja-suru|せんきょ}}
+
+===See also===
+* {{ja-r|投票|とうひょう}}: (''noun'') [[vote]], [[voting]]
+* {{ja-r|投票所|とうひょうじょ}}: (''noun'') [[polling station]], [[voting station]]
+
+[[Category:ja:Democracy|せんきょ]]
+
+[[cs:選挙]]
+[[fr:選挙]]
+[[ko:選挙]]
+[[lo:選挙]]
+[[lt:選挙]]
+[[hu:選挙]]
+[[mg:選挙]]
+[[ja:選挙]]
+[[km:選挙]]
+[[pl:選挙]]
+[[ru:選挙]]
+[[chr:選挙]]
+[[tr:選挙]]
+[[zh:選挙]]

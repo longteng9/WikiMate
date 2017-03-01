@@ -1,0 +1,46 @@
+==Chinese==
+{{zh-forms|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=zǐshíyīng
+|c=zi2 sek6 jing1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[amethyst]]
+# {{lb|zh|TCM}} [[fluorite]]
+
+====Synonyms====
+* {{sense|amethyst}} {{zh-l|紫水晶}}
+
+{{zh-cat|Gems}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|し|せき|えい|yomi=on}}
+
+===Etymology===
+{{compound|ja|紫|alt1={{furigana|紫|し}}|tr1=shi|gloss1=purple|石英|alt2={{furigana|石%英|せき%えい}}|tr2=sekiei|gloss2=quartz|sort=しせきえい}}.
+
+===Pronunciation===
+{{ja-pron|しせきえい|acc=2|yomi=on}}
+
+===Noun===
+{{ja-noun|しせきえい}}
+
+# a purple quartz; [[amethyst]]
+
+===See also===
+* {{ja-r|アメシスト}}, {{ja-r|アメジスト}}
+* {{ja-r|紫%水%晶|むらさき%ずい%しょう}}
+
+[[Category:ja:Birthstones|しせきえい]]
+[[Category:ja:Gems|しせきえい]]
+
+[[ko:紫石英]]
+[[zh:紫石英]]

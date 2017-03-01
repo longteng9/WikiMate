@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|娈}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=38|rad=女|as=19|sn=22|canj=VFV|four=22401|ids=⿱䜌女}}
+
+# [[lovely]], [[beautiful]]
+# [[docile]], [[obedient]]
+
+====References====
+* {{Han ref|kx=0274.230|dkj=06912|dj=0542.410|hdz=21091.080|uh=5B4C|ud=23372|bh=F6DC|bd=63196}}
+
+----
+
+==Chinese==
+{{zh-forms|s=娈}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=孌
+|c=lyun5,lyun2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|婉孌|孌童|蕃孌}}
+
+===References===
+* {{R:twedu|B00729}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=女19}}
+
+# {{defn|lang=ja|sort=女19}}
+
+====Readings====
+* {{ja-readings|on=[[れん]] (ren), [[らん]] (ran), [[ばん]] (ban), [[まん]] (man)|kun=[[したう]] (shitau), [[すなお]] (sunao), [[みめよい]] (mimeyoi)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=련|rv=ryeon|mr=ryŏn}}
+
+# {{defn|lang=ko|sort=女19}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=女19|hanviet=luyến}}
+
+# {{defn|lang=vi|sort=女19}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5b4c Nom Foundation]
+
+[[fr:孌]]
+[[li:孌]]
+[[hu:孌]]
+[[pl:孌]]
+[[th:孌]]
+[[vi:孌]]
+[[zh:孌]]

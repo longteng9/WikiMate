@@ -1,0 +1,79 @@
+{{character info/new}}
+{{also|倂|并}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=06|sn=8|four=28241|canj=OTT|ids=⿰亻并}}
+
+====References====
+* {{Han ref|kx=0100.220|dkj=00561|dj=0212.170|hdz=10153.030|uh=4F75|ud=20341|bh=A8D6|bd=43222}}
+
+----
+
+==Chinese==
+{{zh-forms|s=并|t2=并}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|人|并|c1=s|c2=p|ls=psc|t1=man}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bìng
+|c=bing3,ping3
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[combine]]; to [[amalgamate]]
+
+===Compounds===
+{{zh-der|併除|併疊|兼併|併兼|併力|一併|合併症|併入|併立|併攏|併骨|吞併|併當|忙併|併購|併案|併發症|併科|併贓治罪|併火|併贓拿賊|併肩子|併吞|催併|合併|併名|併發|相併|數罪併罰|撤併|打併|歸併|火併|裁併|連三併四|齊心併力|逼併}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=人06}}
+
+# join
+
+====Readings====
+* {{ja-readings|on=[[へい]] (hei)|kun=[[あわせる]] (awaseru), [[ならぶ]] (narabu), [[しかし]] (shikashi)}}
+
+====Compounds====
+* {{ja-r|併記|へいき}}
+* {{ja-r|併合|へいごう}}
+* {{ja-r|併称|へいしょう}}
+* {{ja-r|併呑|へいどん}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=병|rv=byeong|mr=pyŏng}}
+
+# {{defn|lang=ko|sort=人06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tính]]|rs=人06}}
+
+# {{defn|lang=vi|sort=人06}}
+
+[[fr:併]]
+[[hu:併]]
+[[mg:併]]
+[[ja:併]]
+[[pl:併]]
+[[th:併]]
+[[zh:併]]

@@ -1,0 +1,73 @@
+{{character info/new}}
+{{also|谔}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=09|sn=16|four=06627|canj=YRRRS}}
+
+# honest speech, straightforward
+
+====References====
+* {{Han ref|kx=1170.050|dkj=35713|dj=1635.250|hdz=63998.050|uh=8AE4|ud=35556|bh=EBA7|bd=60327}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谔}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=è
+|c=ngok6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|侃侃諤諤|蹇諤之風|謇諤之風|謇諤自負|謇諤|諤諤}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言09}}
+
+# {{defn|lang=ja|sort=言09}}
+
+====Readings====
+* {{ja-readings|on=[[がく]] (gaku)|kun=[[いいあらそう]] (iiarasou), [[わめく]] (wameku), [[かきならす]] (kakinarasu)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=악|eumhun=|rv=ak|mr=ak|y=ak}}
+
+# {{defn|lang=ko|sort=言09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngạc]]|rs=言09}}
+
+# {{defn|lang=vi|sort=言09}}
+
+[[fr:諤]]
+[[hu:諤]]
+[[ja:諤]]
+[[pl:諤]]
+[[th:諤]]
+[[zh:諤]]

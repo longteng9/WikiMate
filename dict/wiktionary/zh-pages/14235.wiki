@@ -1,0 +1,88 @@
+{{character info/new}}
+{{also|宽|寛}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=40|rad=宀|as=12|sn=14|four=30216|canj=JTBI|ids=⿱宀萈}}
+
+====References====
+* {{Han ref|kx=0292.060|dkj=07322|dj=0578.050|hdz=20947.010|uh=5BEC|ud=23532|bh=BC65|bd=48229}}
+
+----
+
+==Chinese==
+{{zh-forms|s=宽}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|宀|萈|c1=s|c2=p|t1=house|t2=goat|ls=psc}}.
+
+House is spacious. See also [[家]].
+
+===Pronunciation===
+{{zh-pron
+|m=kuān
+|ma=y
+|c=fun1
+|h=pfs=khôn
+|md=kuăng
+|mn=khoan/khoaⁿ
+|w=1khuoe
+|mc=y
+|oc=y
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[wide]], [[broad]]
+# [[spacious]], [[vast]]
+# [[loose]]
+
+====Derived terms====
+{{zh-der|寬頻|寬帶}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=宀12}}
+
+# {{defn|lang=ja|sort=宀12}}
+
+====Readings====
+* {{ja-readings|on=[[かん]] (kan)|kun=[[ひろい]] (hiroi), [[ゆるやか]] (yuruyaka), [[くつろぐ]] (kutsurogu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=관|mr=kwan}}
+
+# {{defn|lang=ko|sort=宀12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[khoan]], [[khoăn]]|rs=宀12}}
+
+# {{defn|lang=vi|sort=宀12}}
+
+[[fr:寬]]
+[[ko:寬]]
+[[li:寬]]
+[[hu:寬]]
+[[mg:寬]]
+[[fj:寬]]
+[[ja:寬]]
+[[pl:寬]]
+[[th:寬]]
+[[chr:寬]]
+[[zh:寬]]

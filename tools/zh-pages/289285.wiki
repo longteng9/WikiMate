@@ -1,0 +1,13 @@
+==Japanese==
+{{ja-kanjitab|きょう|どう|つう|しん|しゃ|yomi=o}}
+
+===Etymology===
+From {{compound|ja|共同|通信社|tr1=kyōdō|tr2=tsūshinsha|t1=partnership|t2=press agency}}.
+
+===Proper noun===
+{{ja-pos|proper|きょうどう つうしんしゃ|rom=Kyōdō Tsūshinsha}}
+# [[w:Kyodo News Agency|Kyodo News Agency]]
+
+====Synonyms====
+* {{ja-r|共同通信|^きょうどう ^つうしん}}
+* {{qualifier|abbreviation}} {{ja-r|共同|^きょうどう}}

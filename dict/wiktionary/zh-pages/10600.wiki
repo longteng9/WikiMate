@@ -1,0 +1,129 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=03|sn=5|four=25200|canj=OJK|ids=⿰亻丈}}
+
+# [[rely]] [[upon]]
+# [[protector]]
+# [[fight]], [[battle]], [[war]]
+# [[weaponry]], [[arms]]
+
+====References====
+* {{Han ref|kx=0092.100|dkj=00371|dj=0195.130|hdz=10113.020|uh=4ED7|ud=20183|bh=A54D|bd=42317}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhàng
+|c=zoeng3,zoeng6
+|h=pfs=
+|md=
+|mn=qz:tiǒng/tw,xm:tiōng/twv,zz:tiāng
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人03}}
+
+====Readings====
+{{ja-readings
+|on=[[じょう]] (jō)
+|kun=[[つえ]] (tsue), [[つわもの]] (tsuwamono), [[よる|よ.る]] ({{ja-l|仗る}}, yo.ru) {{qualifier|rare}}
+}}
+
+====Usage notes====
+This character is not used much in modern Japanese.
+
+===Etymology 1===
+Alternative spelling of {{ja-l|杖||tsue}}. See that entry for details.
+
+====Noun====
+{{ja-noun|つえ|hhira=つゑ}}
+
+# {{alternative spelling of|lang=ja|sort=つえ|杖|dot=:}} a [[cane]], a [[crook]], a [[walking stick]]
+
+===Etymology 2===
+Alternative spelling of {{ja-l|兵||tsuwamono}}. See that entry for details.
+
+====Noun====
+{{ja-noun|つわもの|hhira=つはもの}}
+
+# {{alternative spelling of|lang=ja|sort=つわもの|兵|dot=:}} [[weaponry]]; a [[soldier]], a [[warrior]]; a [[courageous]] person, a [[brave]]; someone who is very [[confident]], even [[obstinate]]
+
+===Etymology 3===
+Alternative spelling of {{ja-l|回り}}, {{ja-l|周り}}, {{ja-l|廻り||mawari}}. See those entries for details.
+
+====Noun====
+{{ja-noun|まわり|hhira=まはり}}
+
+# {{alternative spelling of|lang=ja|sort=まわり|回り|dot=, etc.:}} [[surroundings]]; [[around]]; [[turning]]
+
+===Etymology 4===
+From {{etyl|ltc|ja|sort=しょう'}} {{m|ltc|仗}}. Compare modern {{cog|cmn|仗|tr=zhàng}}.
+
+====Affix====
+{{ja-pos|affix|じょう|hhira=ぢやう}}
+
+# [[military]] [[strength]]
+# [[reliable]], [[dependable]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-l|仗旗|じょうき|jōki}}: in [[medieval]] times, a special [[imperial]] [[flag]] marking occasions of special [[dignity]], such as the first day of a new emperor's [[reign]]
+* {{ja-l|仗議}}, {{ja-l|仗儀|じょうぎ|jōgi}}: in the [[w:Nara period|Nara period]], a kind of [[codify|codified]] [[conference]] before the [[imperial]] [[court]], whereby [[公家#Japanese|noble]]s below the rank of [[minister]] would discuss the business of [[government]]
+* {{ja-l|仗座|じょうざ|jōza}}: the [[seat]]s of the [[imperial|Imperial]] [[guard|Guard]]; where [[公家#Japanese|noble]]s would sit to offer [[counsel]] to the [[court]]
+* {{ja-l|仗身|じょうしん|jōshin}}: in the [[w:Nara period|Nara period]], the [[court]]-appointed [[bodyguard]] of officials of fifth or higher rank
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=장|rv=jang|mr=chang|y=cang}}
+
+# {{defn|lang=ko|sort=人03}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trượng]], [[dượng]]|rs=人03}}
+
+# {{defn|lang=vi|sort=人03}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=4ed7 Nom Foundation]
+
+[[fr:仗]]
+[[ko:仗]]
+[[li:仗]]
+[[hu:仗]]
+[[mg:仗]]
+[[ja:仗]]
+[[no:仗]]
+[[pl:仗]]
+[[th:仗]]
+[[vi:仗]]
+[[zh:仗]]

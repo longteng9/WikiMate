@@ -1,0 +1,32 @@
+==Japanese==
+{{slim-wikipedia|lang=ja}}
+
+===Etymology 1===
+<div style="clear:both;">{{ja-kanjitab|yomi=k|も|おんな}}</div>
+From {{m|ja|モテる|モテない|tr=motenai|unpopular}} + {{m|ja|女|tr=onna||woman; female}}. {{m|ja|モテる|モテない|tr=motenai}} was shortened to {{m|ja|モ|tr=mo}} and was assigned the kanji {{m|ja|喪|tr=mo||mourning}} as [[phonetic]] [[ateji]].
+
+====Pronunciation====
+{{ja-pron|yomi=kun|も.おんな}}
+
+====Noun====
+{{ja-noun|も.おんな}}
+
+# {{lb|ja|sort=もおんな|Internet slang}} [[unpopular]] woman, unpopular [[girl]]
+
+====See also====
+* {{m|ja|喪男|tr=moo</i>, <i>mootoko||unpopular guy}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=y|も|じょ}}
+Same derivation as above, using the [[音読み#Japanese|on'yomi]] of ''jo'' for the {{m|ja|女}} character.
+
+====Pronunciation====
+{{ja-pron|yomi=y|もじょ}}
+
+====Noun====
+{{ja-noun|もじょ}}
+
+# {{lb|ja|sort=もじょ|Internet slang}} [[unpopular]] woman, unpopular [[girl]]
+
+====See also====
+* {{m|ja|喪男|tr=modan||unpopular guy}}

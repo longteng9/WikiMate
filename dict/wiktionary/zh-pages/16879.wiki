@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han compound|㫃|𣎵|c1=s|c2=p|ls=psc}}
+
+===Han character===
+{{Han char|rn=70|rad=方|as=06|sn=10|four=08227|canj=YSOJB|ids=⿸⿰方𠂉巿}}
+
+# [[flag]] [[ornament]]
+# flags, [[banner]]s
+
+====References====
+* {{Han ref|kx=0483.080|dkj=13646|dj=0845.040|hdz=32177.030|uh=65C6|ud=26054|bh=D1CF|bd=53711}}
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=[[pui3]]|y=pui3}}
+
+# {{defn|lang=yue|sort=方06}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=方06}}
+
+# {{defn|lang=ja|sort=方06}}
+
+====Readings====
+* {{ja-readings|on=[[はい]] (hai)|kun=[[はた]] (hata)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=패|eumhun=|rv=pae|mr=p'ae|y=phay}}
+
+# {{defn|lang=ko|sort=方06}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|pin=[[pèi]] ([[pei4]])|wg=p'ei<sup>4</sup>}}
+
+# {{defn|lang=cmn|sort=方06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=方06|hanviet=bái}}
+
+# {{defn|lang=vi|sort=方06}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=65c6 Nom Foundation]
+
+[[fr:旆]]
+[[hu:旆]]
+[[mg:旆]]
+[[ja:旆]]
+[[pl:旆]]
+[[th:旆]]
+[[zh:旆]]

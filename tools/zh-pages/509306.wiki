@@ -1,0 +1,11 @@
+==Japanese==
+{{ja-kanjitab|たん|い|ぎょう|れつ}}
+
+===Noun===
+{{ja-noun|たんい ぎょうれつ}}
+
+# {{lb|ja|linear algebra}} [[identity matrix]]
+
+[[Category:ja:Linear algebra|たんいぎょうれつ]]
+
+[[zh:単位行列]]

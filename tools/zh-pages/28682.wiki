@@ -1,0 +1,98 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=162|rad=辵|as=07|sn=10|four=32302|canj=YHDS|ids=⿺辶秀}}
+
+# penetrate, pass through
+
+====References====
+* {{Han ref|kx=1257.130|dkj=38876|dj=1742.160|hdz=63842.010|uh=900F|ud=36879|bh=B37A|bd=45946}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=tòu
+|ma=y
+|c=tau3
+|h=pfs=theu/théu
+|md=táu
+|mn=qz:thiò/tw,xm,zz:tò͘/xm,zz:thò͘/thàu
+|mn_note=thiò/tò͘/thò͘ - literary; thàu - vernacular
+|w=2theu
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|透明}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=辵07}}
+
+# {{defn|lang=ja|sort=辵07}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō)|kun=[[すく]] (suku), [[すかす]] (sukasu), [[すける]] (sukeru), [[とおる]] (tooru)}}
+
+====Compounds====
+{{top2}}
+* [[透過]]
+* [[透明]]
+* [[浸透]]
+{{bottom}}
+
+===Proper noun===
+{{ja-pos|proper|とおる}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|とおる]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=투|eumhun=|rv=tu|mr=t'u|y=thwu}}
+
+# {{defn|lang=ko|sort=辵07}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[thấu]]|rs=辵07}}
+
+# {{defn|lang=vi|sort=辵07}}
+
+[[zh-min-nan:透]]
+[[fr:透]]
+[[ko:透]]
+[[li:透]]
+[[hu:透]]
+[[mg:透]]
+[[ms:透]]
+[[ja:透]]
+[[no:透]]
+[[pl:透]]
+[[th:透]]
+[[zh:透]]

@@ -1,0 +1,64 @@
+{{character info/new}}
+{{also|鲮}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=08|sn=19|four=24347|canj=NFGCE}}
+
+# [[carp]]
+
+====References====
+* {{Han ref|kx=1473.140|dkj=46259|dj=2005.110|hdz=74694.060|uh=9BEA|ud=39914|bh=F3C7|bd=62407}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鲮}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=líng
+|c=ling4,leng4
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚08}}
+
+# {{defn|lang=ja|sort=魚08}}
+
+====Readings====
+* {{ja-readings|on=[[りょう]] (ryō)|kun=[[せんざんこう]] (senzankou)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[릉]]>[[능]]|eumhun=|rv=reung>neung|mr=rŭng>nŭng|y=lung>nung}}
+
+# {{defn|lang=ko|sort=魚08}}
+
+[[fr:鯪]]
+[[hu:鯪]]
+[[pl:鯪]]
+[[th:鯪]]
+[[zh:鯪]]

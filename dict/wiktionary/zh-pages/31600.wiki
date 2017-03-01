@@ -1,0 +1,48 @@
+{{character info/new}}
+{{also|馱|驮|䭾}}
+==Translingual==
+{{ja-forms|駄|[[驮]]|[[馱]]}}
+
+===Han character===
+{{Han char|rn=187|rad=馬|as=04|sn=14|four=|canj=SFKI|ids=⿰馬太}}
+
+====References====
+* {{Han ref|kx=1435.211|dkj=44633|dj=1960.050|hdz=74543.090|uh=99C4|ud=39364}}
+
+----
+
+==Chinese==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|馬|太|ls=psc|c1=s|c2=p}}.
+
+===Etymology===
+{{zh-see|馱|av|to [[carry]] on one's [[back]]; [[load]] carried by a [[pack animal]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=馬04|style=s|kyu=馱}}
+
+# {{defn|lang=ja|sort=馬04}}
+
+====Readings====
+{{ja-readings|goon=[[だ]] (da)|kanon=[[た]] (ta) {{non-joyo-reading}}|kun=[[のせる]] (noseru), [[においうま]] (inoiuma)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|韋駄天|いだてん}}: [[w:Skanda (Buddhism)|Skanda (Buddhism)]]; [[fast]]-[[footed]] [[person]]
+* {{ja-r|下駄|げた}}: [[geta]]
+* {{ja-r|駄目|だめ}}: no good; forbidden
+* {{ja-r|無駄|むだ}}: no good; waste
+{{der-bottom}}
+
+[[fr:駄]]
+[[hu:駄]]
+[[ja:駄]]
+[[pl:駄]]
+[[th:駄]]
+[[zh:駄]]

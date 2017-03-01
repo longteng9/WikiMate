@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|获}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=14|sn=17|four=44247|canj=KHTOE|ids=⿰犭蒦}}
+
+# [[obtain]], [[get]], [[receive]]
+# [[seize]]
+
+====References====
+* {{Han ref|kx=0720.190|dkj=20758|dj=1132.060|hdz=21370.060|uh=7372|ud=29554|bh=C0F2|bd=49394}}
+
+----
+
+==Chinese==
+{{zh-forms|s=获}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|犬|alt1=犭|蒦|c1=s|c2=p|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=huò
+|c=wok6
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|獲得|獲得性|獲得性免疫|獲獎|獲救|獲利|獲取|獲勝|獲釋|獲悉|獲知|獲致|獲准}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=犬14}}
+
+# [[seize]]
+# [[get]]
+# [[find]]
+# [[earn]]
+# [[acquire]]
+# [[can]]
+# [[may]]
+# [[able]] [[to]]
+
+====Readings====
+* {{ja-readings|goon=[[わく]] (waku)|kanon=[[かく]] (kaku)|kun=[[える]] (eru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[획]], [[확]]|eumhun=|rv=hoek, hwak|mr=hoek, hwak|y=hoyk, hwak}}
+
+# {{defn|lang=ko|sort=犬14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[hoạch]], [[oách]]|rs=犬14}}
+
+# {{defn|lang=vi|sort=犬14}}
+
+[[fr:獲]]
+[[ko:獲]]
+[[hu:獲]]
+[[ja:獲]]
+[[pl:獲]]
+[[th:獲]]
+[[vi:獲]]
+[[zh:獲]]

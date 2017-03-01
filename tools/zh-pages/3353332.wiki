@@ -1,0 +1,38 @@
+==Japanese==
+{{ja-kanjitab|はい|ふ|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|はいふ|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|はいふ}}
+
+# [[distribution]]
+#: {{ja-usex|商品券の'''配布'''を始めました。|しょうひんけん の '''はいふ''' を はじめました。|They began distribution of gift certificates.}}
+
+===Verb===
+{{ja-verb-suru|はいふ}}
+
+# {{l|en|distribute|id=to deliver or pass out}}
+
+====Conjugation====
+{{ja-suru|はいふ}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=배포}}
+
+# {{hanja form of|배포|distribution}}
+
+[[ko:配布]]
+[[hu:配布]]
+[[mg:配布]]
+[[chr:配布]]
+[[zh:配布]]

@@ -1,0 +1,27 @@
+==Japanese==
+{{ja-kanjitab|にゅう|りょく|yomi=on}}
+
+===Pronunciation===
+* Common Accent: {{ja-accent-common|heiban|にゅう|りょく|nyùúryókú}} or {{ja-accent-common|atamadaka|にゅう|りょく|nyúùryòkù}}
+
+===Noun===
+{{ja-noun|にゅうりょく}}
+
+# [[input]]
+
+====Antonyms====
+* {{ja-r|出力|しゅつりょく}}
+
+===Verb===
+{{ja-verb-suru|にゅうりょく}}
+
+# input
+
+====Conjugation====
+{{ja-suru|にゅうりょく}}
+
+[[hu:入力]]
+[[mg:入力]]
+[[ja:入力]]
+[[chr:入力]]
+[[zh:入力]]

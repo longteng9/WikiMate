@@ -1,0 +1,28 @@
+==Japanese==
+{{ja-kanjitab|すい|けい|yomi=on}}
+
+===Noun===
+{{ja-noun|すいけい}}
+
+# [[estimation]], an estimate
+#: {{ja-usex|政府の'''推計'''では近いうちに１０００兆円を超える。|せいふ の '''すいけい''' で は ちかい うち に ちょう えん を こえる。|By the government's estimate, it will soon exceed a thousand trillion yen.}}
+
+====Compounds====
+* {{l/ja|推計学}}
+
+===Verb===
+{{ja-verb-suru|すいけい}}
+
+# to [[estimate]]
+
+====Conjugation====
+{{ja-suru|すいけい}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:推計]]
+[[hu:推計]]
+[[mg:推計]]
+[[ja:推計]]
+[[zh:推計]]

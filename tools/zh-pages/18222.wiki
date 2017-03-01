@@ -1,0 +1,90 @@
+{{character info/new}}
+{{also|柜}}
+==Translingual==
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|木|匱|c1=s|c2=p|t1=wooden|t2=box|ls=psc}}.
+
+===Han character===
+{{Han char|rn=75|rad=木|as=14|sn=18|four=41918|canj=DSLC|ids=⿰木匱}}
+
+====References====
+* {{Han ref|kx=0559.120|dkj=15757|dj=0948.270|hdz=21307.070|uh=6AC3}}
+
+----
+
+==Chinese==
+{{zh-forms|s=柜}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=guì
+|c=gwai6
+|h=pfs=khui
+|mn=kūi
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[cabinet]], [[cupboard]]
+# [[wardrobe]]
+# [[counter]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木14}}
+
+====Readings====
+{{ja-readings|goon=[[ぎ]] (gi)|kanon=[[き]] (ki)|kun=[[ひつ]] (hitsu)}}
+
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ひつ|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|ひつ|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|ひつ}}
+
+# [[chest]] {{gloss|container}}
+# {{ja-def|御櫃}} a round container for cooked rice
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=궤|eumhun=|rv=gwe|mr=kwe|y=kwey}}
+
+# {{defn|lang=ko|sort=木14}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cũi]], [[quĩ]], [[quầy]], [[quỹ]]|rs=木14}}
+
+# {{defn|lang=vi|sort=木14}}
+
+[[zh-min-nan:櫃]]
+[[fr:櫃]]
+[[ko:櫃]]
+[[hu:櫃]]
+[[mg:櫃]]
+[[ja:櫃]]
+[[pl:櫃]]
+[[th:櫃]]
+[[zh:櫃]]

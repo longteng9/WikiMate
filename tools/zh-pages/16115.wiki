@@ -1,0 +1,84 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=05|sn=8|four=54027|canj=QVIS|ids=⿰扌幼}}
+
+# to [[pull]], [[drag]], [[break off]], to [[pluck]] (a [[flower]])
+# [[bent]], [[warped]]
+# [[perverse]], [[obstinate]]
+
+====References====
+* {{Han ref|kx=0426.040|dkj=11962|dj=0774.060|hdz=31862.060|uh=62D7|ud=25303|bh=A9ED|bd=43501}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=āo,āo,niū,yū
+|c=aau3,ngaau3,aau2,ngaau2,juk6
+|h=pfs=au/áu
+|mn=áu
+|mc=y
+|oc=y
+|cat=
+}}
+{{zh-attn-split}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|一不拗眾|四不拗六|執拗|憋拗|拗不登|拗不過|拗口|拗口令|拗口風|拗句|拗強|拗彆|拗彆攪炒|拗怒|拗性|拗曲作直|拗甜|拗相公|拗花|拗處|拗蠻|拗體|拗體詩|曲拗|違拗|點拗}}
+
+===References===
+* {{R:twedu|A01549}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=手05}}
+
+# {{defn|lang=ja|sort=手05}}
+
+====Readings====
+* {{ja-readings|kanon=[[おう]] (ō)|goon=[[よう]] (yō)|on=[[いく]] (iku)|kun=[[ねじける]] (nejikeru), [[すねる]] (suneru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=요|eumhun=|rv=yo|mr=yo|y=yo}}
+
+# {{defn|lang=ko|sort=手05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|húc|rs=手05}}
+
+# {{defn|lang=vi|sort=手05}}
+
+[[zh-min-nan:拗]]
+[[fr:拗]]
+[[hu:拗]]
+[[mg:拗]]
+[[ja:拗]]
+[[no:拗]]
+[[pl:拗]]
+[[th:拗]]
+[[zh:拗]]

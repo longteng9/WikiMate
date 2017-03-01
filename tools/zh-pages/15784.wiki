@@ -1,0 +1,79 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=61|rad=心|as=12|sn=15|four=90031|canj=POGF|ids=⿰忄焦}}
+
+# be [[worn out]], [[emaciate]]d, [[haggard]]
+
+====References====
+* {{Han ref|kx=0402.190|dkj=11213|dj=0742.210|hdz=42355.050|uh=6194|ud=24980|bh=BCAC|bd=48300}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qiáo
+|c=ciu4
+|mn=chiâu/qz,xm,zz:tâ
+|mn_note=chiâu - literary; tâ - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|憔慮|憔悴}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=心12}}
+
+# {{defn|lang=ja|sort=心12}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō)|kun=[[やつれる]] (yatsureru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=초|eumhun=|rv=cho|mr=ch'o|y=cho}}
+
+# {{defn|lang=ko|sort=心12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=心12|hanviet=tiều}}
+
+# {{defn|lang=vi|sort=心12}}
+
+[[fr:憔]]
+[[ko:憔]]
+[[li:憔]]
+[[hu:憔]]
+[[mg:憔]]
+[[ja:憔]]
+[[no:憔]]
+[[pl:憔]]
+[[th:憔]]
+[[vi:憔]]
+[[zh:憔]]

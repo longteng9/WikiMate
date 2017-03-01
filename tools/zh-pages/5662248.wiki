@@ -1,0 +1,55 @@
+{{also|领空}}
+==Chinese==
+{{zh-forms|s=领空}}
+
+===Etymology===
+{{bor|zh|ja|-}} {{ja-r|領空|りょうくう}}.
+
+===Pronunciation===
+{{zh-pron
+|m=lǐngkōng
+|c=ling5 hung1
+|mn=niá-khong/léng-khong
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|politics|aviation}} [[airspace]]
+
+====Synonyms====
+* {{zh-l|空域}}
+* {{zh-l|上空}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|りょう|くう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|りょうくう|y=o}}
+
+===Noun===
+{{ja-noun|りょうくう}}
+
+# [[airspace]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=영공}}
+
+# {{hanja form of|영공|[[airspace]]}}
+
+===Noun===
+{{ko-noun|hangeul=령공}}
+
+# {{hanja form of|령공|[[airspace]] (''North Korea'')}}
+
+[[lo:領空]]
+[[ja:領空]]
+[[zh:領空]]

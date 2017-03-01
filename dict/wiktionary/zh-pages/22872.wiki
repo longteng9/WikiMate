@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|筑}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=10|sn=16|four=88904|canj=HMND|ids=⿱筑木}}
+
+# [[build]], [[erect]]
+# [[building]]
+
+====References====
+* {{Han ref|kx=0892.180|dkj=26298|dj=1320.280|hdz=52998.040|uh=7BC9|ud=31689|bh=BF76|bd=49014}}
+
+----
+
+==Chinese==
+{{zh-forms|s=筑}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|筑|木|t2=wood|ls=psc|c1=p|c2=s}} – built from wood.
+
+===Pronunciation===
+{{zh-pron
+|m=筑
+|c=zuk1
+|h=pfs=
+|md=
+|mn=qz,twv,xm,zz:tiok/tw:tio̍k
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[build]]; to [[construct]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=竹10}}
+
+# fabricate
+
+====Readings====
+* {{ja-readings|goon=[[ちく]] (chiku)|kanon=[[ちく]] (chiku)|kun=[[きずく]] (kizuku), [[つく]] (tsuku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[축]]|eumhun=|rv=chuk|mr=ch'uk|y=chwuk}}
+
+# {{defn|lang=ko|sort=竹10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+'''築''' ([[trốc]], [[trúc]])
+
+# {{defn|vi}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:築]]
+[[ko:築]]
+[[hu:築]]
+[[mg:築]]
+[[ja:築]]
+[[pl:築]]
+[[th:築]]
+[[uk:築]]
+[[zh:築]]

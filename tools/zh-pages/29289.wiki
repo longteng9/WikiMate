@@ -1,0 +1,60 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=04|sn=12|four=84132|canj=CKI|ids=⿰金厷}}
+
+# [[sound]]s of [[bell]]s and [[drum]]s
+# [[metallic]] sound
+
+====References====
+* {{Han ref|kx=1299.080|dkj=40236|dj=1801.220|hdz=64174.160|uh=921C|ud=37404|bh=DC72|bd=56434}}
+* [http://yedict.com/htm/92/921C.htm yedict.com (叶典)]
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=hóng
+|c=wang4
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=金04}}
+
+# {{defn|lang=ja|sort=金04}}
+
+====Readings====
+* {{ja-readings|on=[[こう]] (kō), [[おう]] (ō)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=횡|eumhun=|rv=hoeng|mr=hoeng|y=hoyng}}
+
+# {{defn|lang=ko|sort=金04}}
+
+[[fr:鈜]]
+[[ko:鈜]]
+[[hu:鈜]]
+[[pl:鈜]]
+[[th:鈜]]
+[[zh:鈜]]

@@ -1,0 +1,72 @@
+{{character info/new}}
+{{also|蟬}}
+==Translingual==
+{{Han simplified forms|蟬|蝉|蝉}}
+
+===Han character===
+{{Han char|rn=142|rad=虫|as=08|sn=14|four=|canj=LICWJ}}
+
+====Usage notes====
+Due to {{w|Han unification}}, this Unicode character appears as {{lang|zh|蝉}} ({{lang|zh|虫单}}) in PRC-style fonts and {{lang|ja|蝉}} ({{lang|ja|虫単}}) in Japan-style fonts.
+
+====References====
+* {{Han ref|kx=1088.341|hdz=42866.010|uh=8749|ud=34633}}
+
+----
+
+==Chinese==
+{{zh-see|蟬}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=虫08|style=s|kyu=蟬}}
+
+# {{defn|lang=ja|sort=虫08}}
+
+====Readings====
+* {{ja-readings|goon=[[ぜん]] (zen)|kanon=[[せん]] (sen)|kun=[[せみ]] (semi)}}
+
+===Etymology 1===
+{{wikipedia|lang=ja|セミ}}
+{{ja-kanjitab|せみ|yomi=k}}
+Ultimately from {{etyl|zh|ja}} {{zh-l|*蟬|cicada}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|せみ|acc=0|acc_ref=DJR,NHK,SMK5}}
+
+====Noun====
+{{ja-noun|せみ|セミ}}
+
+# [[cicada]] {{gloss|any of several insects of the order Hemiptera}}
+
+===Etymology 2===
+{{ja-kanjitab|せび|yomi=irr}}
+
+====Pronunciation====
+{{ja-pron|y=i|せび}}
+
+====Noun====
+{{ja-noun|せび}}
+
+# [[cicada]] {{gloss|any of several insects of the order Hemiptera}}
+
+===References===
+<references/>
+
+[[Category:ja:Hemipterans|せみ]]
+
+[[fr:蝉]]
+[[lo:蝉]]
+[[hu:蝉]]
+[[mg:蝉]]
+[[ja:蝉]]
+[[no:蝉]]
+[[pl:蝉]]
+[[sv:蝉]]
+[[th:蝉]]
+[[uk:蝉]]
+[[vi:蝉]]
+[[zh:蝉]]

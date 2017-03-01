@@ -1,0 +1,75 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=85|rad=水|as=15|sn=18|four=36132|canj=EATE}}
+
+# [[waterfall]], [[cascade]]
+# heavy rain
+
+====References====
+* {{Han ref|kx=0659.130|dkj=18609|dj=1069.080|hdz=31778.010|uh=7011|ud=28689|bh=C272|bd=49778}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=pù,bào
+|c=buk6,bou6
+|h=pfs=phuk/phau/phu
+|md=
+|mn=qz:po̍k/tw,xm,zz:pho̍k
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[waterfall]]
+
+====Compounds====
+* {{zh-l|瀑布}}
+
+===References===
+* {{R:twedu|A02368}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=水15}}
+
+# [[waterfall]], [[cascade]]
+
+====Readings====
+* {{ja-readings|kanyoon=[[ばく]] (baku)|kanon=[[ほく]] (hoku), [[ほう]] (hō)|goon=[[ぼう]] (bō), [[ぼく]] (boku)|kun=[[にわかうめ]] (niwakaume), [[たき]] (taki)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[폭]], [[포]]|eumhun=|rv=pok, po|mr=p'ok, p'o|y=phok, pho}}
+
+# {{defn|lang=ko|sort=水15}}
+
+[[fr:瀑]]
+[[hu:瀑]]
+[[mg:瀑]]
+[[ja:瀑]]
+[[no:瀑]]
+[[pl:瀑]]
+[[th:瀑]]
+[[vi:瀑]]
+[[zh:瀑]]

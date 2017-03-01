@@ -1,0 +1,112 @@
+{{character info/new}}
+{{also|执}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=32|rad=土|as=08|sn=11|four=45417|canj=GJKNI|ids=⿰幸丸}}
+
+====Derived terms====
+* {{l|mul|蓻}}, {{l|mul|𢄢}}, {{l|mul|摯}}, {{l|mul|𡠗}}, {{l|mul|蟄}}, {{l|mul|鷙}}, {{l|mul|騺}}, {{l|mul|墊}}, {{l|mul|慹}}, {{l|mul|𩅀}}, {{l|mul|䙝}}, {{l|mul|𡪐}}, {{l|mul|謺}}, {{l|mul|𣊓}}, {{l|mul|䠟}}, {{l|mul|𦎷}}
+
+====References====
+* {{Han ref|kx=0231.090|dkj=05193|dj=0467.150|hdz=10457.050|uh=57F7|ud=22519|bh=B0F5|bd=45301}}
+
+----
+
+==Chinese==
+{{zh-forms|s=执}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|幸|丮|c1=p|c2=s|ls=psc}}; in present form 丮 has been replaced by [[丸]].
+
+also {{liushu|p}}: [[arrest]]
+
+===Pronunciation===
+{{zh-pron
+|m=zhí
+|c=zap1
+|mn=chip
+|mc=y
+|oc=y
+|ma=
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[hold]] in the [[hand]]
+# to [[keep]]
+# to [[carry out]]
+# {{lb|zh|Cantonese}} to [[pick up]]
+#: {{zh-l|執手尾}}
+#: {{zh-x|我 想 攀登 火山，執 塊 石頭 用嚟 煎蛋|I want to climb a volcano, '''get''' a rock, and use it to fry an egg|C|ref={{w|zh:許冠傑|許冠傑}}, {{lang|zh|最緊要好玩}}}}
+# {{lb|zh|Cantonese}} to [[clean up]], to [[tidy up]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=土08}}
+
+# {{defn|lang=ja|sort=土08}}
+
+====Readings====
+* {{ja-readings|goon=[[しゅう]] (shū)|kanon=[[しゅう]] (shū)|kanyoon=[[しつ]] (shitsu)|kun=[[とる]] (toru), [[とらえる]] (toraeru)}}
+
+====Compounds====
+* [[確執]] ([[かくしつ]], [[kakushitsu]])
+* [[我執]] ([[がしゅう]], [[gashū]])
+* [[固執]] ([[こしゅう]], [[koshū]])
+* [[執意]] ([[しつい]], [[shitsui]])
+* [[執権]] ([[しっけん]], [[shikken]])
+* [[執行]] ([[しっこう]], [[shikkō]])
+* [[執政]] ([[しっせい]], [[shissei]])
+* [[執事]] ([[しつじ]], [[shitsuji]])
+* [[執刀]] ([[しっとう]], [[shittō]])
+* [[執務]] ([[しつむ]], [[shitsumu]])
+* [[執拗]] ([[しつよう]], [[shitsuyō]])
+* [[執心]] ([[しゅうしん]], [[shūshin]])
+* [[執着]] ([[しゅうちゃく]], [[shūchaku]])
+* [[執念]] ([[しゅうねん]], [[shūnen]])
+* [[偏執]] ([[へんしつ]], [[henshitsu]])
+* [[妄執]] ([[もうしゅう]], [[mōshū]])
+
+===Proper noun===
+{{ja-pos|proper|まもる}}
+
+# {{given name|male|lang=ja}}
+
+[[Category:Japanese male given names|まもる]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=집|rv=jip|mr=chip}}
+
+# {{defn|lang=ko|sort=土08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chấp]], [[chắp]], [[chặp]], [[chập]], [[chợp]], [[chuụp]], [[giập]], [[giộp]], [[giúp]], [[xắp]], [[xấp]], [[xúp]], [[chộp]], [[chụp]], [[xóp]], [[xụp]]|rs=土08}}
+
+# {{defn|lang=vi|sort=土08}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=57f7 Nom Foundation]
+
+[[fr:執]]
+[[ko:執]]
+[[li:執]]
+[[hu:執]]
+[[ja:執]]
+[[pl:執]]
+[[th:執]]
+[[zh:執]]

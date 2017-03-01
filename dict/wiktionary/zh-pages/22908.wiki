@@ -1,0 +1,67 @@
+{{character info/new}}
+{{also|簒}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=118|rad=竹|as=10|sn=16|four=88732|canj=HBUI}}
+
+# [[usurp]]
+
+====References====
+* {{Han ref|kx=0894.150|dkj=26330|dj=1321.150|hdz=53000.050|uh=7BE1|ud=31713|bh=BF79|bd=49017}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=cuàn
+|c=saan3
+|h=pfs=chhon
+|mn=chhoàn
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|弋人何篡|弋者何篡|篡位|篡奪|篡弒|篡改|篡竊|篡逆}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=竹10}}
+
+# {{defn|lang=ja|sort=竹10}}
+
+====Readings====
+* {{ja-readings|on=[[さん]] (san), [[せん]] (sen)|kun=[[うばう]] (ubau)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=찬|eumhun=|rv=chan|mr=ch'an|y=chan}}
+
+# {{defn|lang=ko|sort=竹10}}
+
+[[fr:篡]]
+[[hu:篡]]
+[[mg:篡]]
+[[no:篡]]
+[[pl:篡]]
+[[th:篡]]
+[[zh:篡]]

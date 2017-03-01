@@ -1,0 +1,70 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{rfe|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=mǔyīn
+|c=mou5 jam1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[vowel]]
+
+====Synonyms====
+* {{zh-l|元音}}
+
+{{zh-cat|Phonetics}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ぼ|おん|yomi=o}}
+{{ja-kanjitab|ぼ|いん|yomi=o}}
+{{rfe|lang=ja}}
+
+===Pronunciation===
+{{ja-pron|ぼいん|acc=h|acc_ref=NHK,DJR|y=o}}
+* {{homophone|拇印|戊寅|lang=ja|sort=ぼいん}}
+{{ja-pron|ぼ.おん|acc=h|acc_ref=DJR|y=o}}
+
+===Noun===
+{{ja-noun|ぼいん|ぼ.おん}}
+
+# {{lb|ja|phonetics|phonology|sort=ほいん'}} [[vowel]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=모음}}
+
+# {{hanja form of|모음|vowel}}
+
+[[be:母音]]
+[[fr:母音]]
+[[ko:母音]]
+[[it:母音]]
+[[lt:母音]]
+[[li:母音]]
+[[hu:母音]]
+[[mg:母音]]
+[[nl:母音]]
+[[ja:母音]]
+[[pl:母音]]
+[[fi:母音]]
+[[uk:母音]]
+[[zh:母音]]

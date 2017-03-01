@@ -1,0 +1,25 @@
+{{also|笔画|笔划|筆画}}
+==Chinese==
+{{zh-forms|s=笔画|alt=筆劃}}
+{{wikipedia|lang=zh}}
+{{wikipedia|Stroke_(CJKV_character)|Chinese characters strokes|lang=en}}
+
+===Pronunciation===
+{{zh-pron
+|m=bǐhuà,er=y
+|c=bat1 waak6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[stroke]] {{gloss|of a Chinese character}}
+# [[number]] of strokes
+
+====Hyponyms====
+* {{list:basic character strokes/zh}}
+
+[[hu:筆畫]]
+[[mg:筆畫]]
+[[ja:筆畫]]

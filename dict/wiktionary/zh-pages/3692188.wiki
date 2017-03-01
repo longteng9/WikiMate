@@ -1,0 +1,30 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xùliè
+|c=zeoi6 lit6
+|mn=qz:sǐr-lia̍t/xm:sū-lia̍t/zz:sī-lia̍t
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[alignment]]; [[array]]; [[sequence]]
+# sequence-class; [[rank]]; [[order]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|じょ|れつ|yomi=o}}
+
+===Noun===
+{{ja-noun|じょれつ}}
+
+# [[ranking]], [[hierarchy]]
+
+[[ko:序列]]
+[[mg:序列]]
+[[zh:序列]]

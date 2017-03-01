@@ -1,0 +1,44 @@
+{{also|将棋}}
+==Chinese==
+{{zh-forms|s=将棋}}
+
+===Etymology===
+{{bor|zh|ja|将棋|tr=shōgi}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiàngqí
+|c=zoeng3 kei4-2
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[shogi]] (Japanese chess)
+# [[janggi]] (Korean chess)
+
+===See also===
+* {{zh-l|象棋}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しょう|ぎ|yomi=o}}
+
+===Noun===
+{{ja-noun|しょうぎ|shin=将棋}}
+
+# [[shogi]] (Japanese chess)
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=장기}}
+
+# {{hanja form of|장기|Korean chess}}
+
+[[ko:將棋]]

@@ -1,0 +1,79 @@
+==Chinese==
+{{zh-forms}}
+
+===Etymology===
+{{borrowing|zh|ja|-}} {{ja-r|理想|りそう}} for sense of "ideal".
+
+===Pronunciation===
+{{zh-pron
+|m=lǐxiǎng
+|c=lei5 soeng2
+|h=pfs=lî-sióng
+|md=lī-siōng
+|mn=lí-sióng
+|ma=Zh-lixiang.ogg
+|cat=n,a
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[ideal]]; [[dream]]
+#: {{zh-x|為 理想 而 奮鬥|to fight for one's '''dreams'''}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[ideal#Adjective|ideal]]
+#: {{zh-x|理想 社會|'''ideal''' society}}
+
+====Derived terms====
+{{zh-der|理想化|理想家|理想主義}}
+
+===Descendants===
+{{CJKV|理想|りそう|이상|lý tưởng}}
+
+{{zh-cat|Elementary}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|り|そう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|りそう}}
+
+===Noun===
+{{ja-noun|りそう}}
+
+# [[ideal#Noun|ideal]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=이상}}
+
+# {{hanja form of|이상|[[ideal]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|lý tưởng|[[ideal]]}}
+
+[[zh-min-nan:理想]]
+[[ko:理想]]
+[[lt:理想]]
+[[hu:理想]]
+[[ja:理想]]
+[[ru:理想]]
+[[chr:理想]]
+[[uk:理想]]
+[[zh:理想]]

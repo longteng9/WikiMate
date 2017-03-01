@@ -1,0 +1,60 @@
+{{also|社会学}}
+==Chinese==
+{{zh-forms|s=社会学|type=21}}
+
+===Etymology===
+{{wasei kango|社会学|しゃかいがく|sociology}}, a calque of {{etyl|fr|zh}} {{m|fr|sociologie}}.
+
+===Pronunciation===
+{{zh-pron
+|m=shèhuìxué
+|c=se5 wui6-2 hok6
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[sociology]]
+
+====Derived terms====
+{{zh-der|社會學家:sociologist}}
+
+{{zh-cat|Sociology}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|しゃ|かい|がく|yomi=o}}
+
+===Noun===
+{{ja-noun|しゃかいがく|shin=社会学|hhira=しやくわいがく}}
+
+# [[sociology]]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=사회학}}
+
+# {{hanja form of|사회학|[[sociology]]}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab|社|會|學}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|xã hội học|[[sociology]]}}
+
+[[ko:社會學]]
+[[lo:社會學]]
+[[hu:社會學]]
+[[mg:社會學]]
+[[ru:社會學]]
+[[zh:社會學]]

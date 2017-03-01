@@ -1,0 +1,40 @@
+==Chinese==
+{{zh-forms|s=国营}}
+
+===Pronunciation===
+{{zh-pron
+|m=guóyíng
+|c=gwok3 jing4
+|mn=kok-êng
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|attributive}} [[state]]-[[owned]]; [[state]]-[[run]]
+#: {{zh-x|國營 新聞 媒體|'''state-run''' news media}}
+
+====Derived terms====
+{{zh-der|國企|國營企業}}
+
+====Descendants====
+{{CJKV||こくえい|s=国営|국영|quốc doanh}}
+
+{{zh-cat|Intermediate}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|こく|えい|yomi=o}}
+
+===Noun===
+{{ja-noun|こくえい|shin=国営}}
+
+# [[state]] management, being [[nationalize]]d
+#: {{ja-usex|國營メディア|こくえい メディア|the government-run media}}
+
+[[zh-min-nan:國營]]
+[[ko:國營]]
+[[hu:國營]]
+[[ja:國營]]

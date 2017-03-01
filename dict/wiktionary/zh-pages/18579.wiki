@@ -1,0 +1,58 @@
+{{character info/new}}
+{{also|氭}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=84|rad=气|as=05|sn=9|four=80317|canj=ONHEY|ids=⿹气冬}}
+
+# [[radon]]
+
+====References====
+* {{Han ref|kx=0599.111|hdz=32011.050|uh=6C21|ud=27681|bh=CF6C|bd=53100}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|气|c1=s|t1=gas|冬|c2=p|ls=psc}}.
+
+===Etymology===
+{{bor|zh|en|radon|ra'''don'''}}.
+
+===Pronunciation===
+{{zh-pron
+|m=dōng
+|c=dung1
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{lb|zh|chemistry}} [[radon]]
+
+====Compounds====
+{{zh-der|氡氣}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=气05| hanviet = đông}}
+
+# {{defn|lang=vi|sort=气05}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:氡]]
+[[lt:氡]]
+[[mg:氡]]
+[[ja:氡]]
+[[pl:氡]]
+[[ro:氡]]
+[[th:氡]]
+[[zh:氡]]

@@ -1,0 +1,50 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=不míng
+|c=bat1 ming4
+|h=pfs=put-mìn
+|mn=put-bêng
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{label|zh|literary}} to not [[understand]]
+# {{label|zh|literary}} to not be [[clear]]
+# {{label|zh|literary}} to [[not]] [[shine]]
+# {{label|zh|literary}} to be [[unenlightened]]; to lack [[wisdom]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふ|めい|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|infl=な|ふめい}}
+# [[unknown]]
+#* '''1916''', 穂積陳重, 法窓夜話:
+#*: {{ja-usex|第一に、氏の生死の年月が'''不明'''である。|だい.いち に、 し の せいし の ねんがつ が '''ふめい''' で ある。|To start with, the dates of his birth and death are unknown.}}
+# [[unclear]]
+#* '''1915''', 夏目漱石, 硝子戸の中:
+#*: {{ja-usex|多分この辺だろうと推測した私の見当は、当っているのか、外れているのか、それさえ'''不明'''であった。|たぶん この へん だろう と すいそく した わたし の けんとう は、 あたっている の か、 はずれている の か、 それ さえ '''ふめい''' で あった。|I thought it would be around there, but it was unclear if I was even right about that.}}
+# [[indistinct]]
+
+====Inflection====
+{{ja-na|ふめい}}
+
+===Noun===
+{{ja-noun|ふめい}}
+
+# [[uncertainty]]
+# [[ignorance]]
+
+[[zh-min-nan:不明]]
+[[hu:不明]]
+[[mg:不明]]
+[[ja:不明]]
+[[pl:不明]]
+[[zh:不明]]

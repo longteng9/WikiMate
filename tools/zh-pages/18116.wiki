@@ -1,0 +1,100 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=12|sn=16|four=42918|canj=DNOT|ids=⿰木登}}
+
+====References====
+* {{Han ref|kx=0553.280|dkj=15552|dj=0942.110|hdz=21297.050|uh=6A59|ud=27225|bh=BEED|bd=48877}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chéng
+|c=caang2,caang4,dang3
+|h=
+|md=
+|mn=chhiâng/tèng/têng
+|w=
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[orange]] {{gloss|the tree}}
+# [[orange]] {{gloss|the fruit}}
+# [[orange]] {{gloss|the color}}
+
+{{zh-cat|Colors|Fruits}}
+
+----
+
+==Japanese==
+[[File:Citrus_aurantium.jpg|thumb]]
+
+===Kanji===
+{{ja-kanji|grade=|rs=木12}}
+
+# {{defn|lang=ja|sort=木12}}
+
+====Readings====
+* {{ja-readings|on=[[とう]] (tō)|kun=[[だいだい]] (daidai)}}
+
+===Pronunciation===
+* {{homophones|lang=ja|代々|大題}}
+
+===Noun===
+{{ja-noun|だいだい}}
+
+# [[orange]]; [[bitter orange]]
+
+[[Category:ja:Colors|たいたい']]
+[[Category:ja:Fruits|たいたい']]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[등]], [[증]]|eumhun=|rv=deung, jeung|mr=tŭng, chŭng|y=tung, cung}}
+
+# {{defn|lang=ko|sort=木12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chanh]], [[tranh]], [[vân]]|rs=木12}}
+
+# {{defn|lang=vi|sort=木12}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=6a59&img=1 Nom Foundation]
+
+[[ca:橙]]
+[[fr:橙]]
+[[ko:橙]]
+[[hr:橙]]
+[[lo:橙]]
+[[lt:橙]]
+[[hu:橙]]
+[[mg:橙]]
+[[ms:橙]]
+[[ja:橙]]
+[[pl:橙]]
+[[ru:橙]]
+[[sm:橙]]
+[[th:橙]]
+[[chr:橙]]
+[[zh:橙]]

@@ -1,0 +1,126 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zúxià
+|c=zuk1 haa6
+|mn=chiok-hā
+|cat=pron
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[underfoot]]
+
+===Pronoun===
+{{zh-pronoun}}
+
+# {{lb|zh|archaic}} [[you]]
+
+====Usage notes====
+Used in instances where a subordinate is addressing a senior or when someone addresses a person of the same rank.
+
+----
+
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|yomi=k|あし|もと}}
+Compound of {{compound|lang=ja|sort=あしもと|足|tr1=ashi|t1=foot, feet|元|tr2=moto|t2=base; foundation; origin}}. Note that the ''moto'' portion can be spelled variously as {{m|ja|元}}, {{m|ja|下}}, or {{m|ja|許}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|あしもと|acc=3|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|足元}}, {{ja-l|足許}}
+
+====Noun====
+{{ja-noun|あしもと}}
+
+# at one's [[feet]], [[underfoot]], the [[ground]]
+#: {{ja-usex|地震で'''足下'''が揺れた。|^じしん で '''あしもと''' が ゆれた。|'''The ground underfoot''' shook from the earthquake.}}
+# the [[bottom]] of the [[foot]]
+# a [[foothold]], one's [[footing]]
+#: {{ja-usex|この事業では、'''足下'''を固めてから、やっと発動できるようになります。|^この じぎょう で は、 '''あしもと''' を かためて から、 やっと はつどう できる よう に なります。|We will finally be able to get moving once we have established a firm '''footing''' on this project.}}
+# [[gait]], [[pace]], [[step]]
+# someone's [[surroundings]], the [[nearby]]
+# [[recent]] [[event]]s
+#: {{ja-usex|'''足下'''の業績は好調に推移している。|^'''あしもと''' の ぎょうせき は こうちょう に すい.い して いる。|Recent earnings have been trending favourably.}}
+# a [[post]] in the [[structure]] of a [[house]]: a vertical support running from the [[foundation]] to the [[roof]] [[joist]]
+# {{lb|ja|sort=あしもと|theatre}} [[hakama]], [[trousers]], [[leg]] [[covering]]s in general
+# {{lb|ja|sort=あしもと|theatre}} [[footlight]]s in the [[backstage]] area to illuminate [[walkway]]s
+# during the [[rice]] [[harvest]], any [[grain]] that falls at one's feet
+# a [[fin]], as of a fish, a seal, or similar marine animal
+
+=====Synonyms=====
+{{der-top|Synonyms}}
+* {{sense|the ground}} {{ja-r|地面|じめん}}
+* {{sense|where one stands}} {{ja-r|立場|たちば}}
+* {{sense|foothold, footing}} {{ja-r|足場|あしば}}
+* {{sense|gait, how one walks}} {{ja-r|歩き方|あるきかた}}
+* {{sense|step, how one places their feet}} {{ja-r|足付き|あしつき}}
+* {{sense|recent events}} {{ja-r|最近|さいきん}} {{qualifier|more immediate}}, {{ja-r|近頃|ちかごろ}} {{qualifier|less formal}}
+* {{sense|structural post}} {{ja-r|柱|はしら}}, {{ja-r|通し柱|とおしばしら}}
+* {{sense|leg coverings in general}} {{ja-r|履物|はきもの}}
+* {{sense|fin}} {{ja-r|鰭|ひれ}}
+{{der-bottom}}
+
+===Etymology 2===
+{{ja-kanjitab|yomi=k|あ|もと}}
+Compound of {{compound|lang=ja|sort=あもと|足|tr1=a|t1=foot, feet|pos1=older combining form of modern ''ashi''|元|tr2=moto|t2=base; foundation; origin}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|あもと}}
+
+====Alternative forms====
+* {{ja-l|足元}}
+
+====Noun====
+{{ja-noun|あもと}}
+
+# at one's feet, [[underfoot]]
+# one's [[family]] and [[status]], where one stands in the world
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|足下正し|あもと ただし}}: to be of proper [[breeding]], to have a solid [[pedigree]]
+{{der-bottom}}
+
+=====Synonyms=====
+{{der-top|Synonyms}}
+* {{sense|family status}} {{ja-r|家柄|いえがら}}
+* {{sense|personal status, identity}} {{ja-r|身分|みぶん}}
+{{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=o|そく|k1=そっ|か}}
+From {{etyl|ltc|ja|sort=そっか}} {{m|zh|足下|tr=tsjowk hæ<sup>X</sup>|lit=foot + down, beneath}}. Compare modern {{etyl|yue|-}} reading ''zuk<sup>1</sup> haa<sup>6</sup>''.
+
+====Pronunciation====
+{{ja-pron|yomi=o|そっか|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|そっか}}
+
+# at one's feet, [[underfoot]]
+# an [[epithet]] used in written [[correspondence]] to show respect to the [[addressee]]
+# a [[pair]] of high [[clogs]], worn in rainy weather
+
+=====Synonyms=====
+{{der-top|Synonyms}}
+* {{sense|rain clogs}} {{ja-r|足駄|あしだ}}
+{{der-bottom}}
+
+====Pronoun====
+{{ja-pos|pronoun|そっか}}
+
+# {{lb|ja|sort=そっか|formal|archaic}} second-person pronoun: [[you]]
+#: Used to refer to someone of similar or lower status than the speaker. From the sense of being {{m|en|nearby}} in status.
+
+===References===
+<references/>
+
+[[mg:足下]]
+[[zh:足下]]

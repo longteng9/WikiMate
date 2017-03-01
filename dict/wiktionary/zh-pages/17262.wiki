@@ -1,0 +1,102 @@
+{{character info/new}}
+{{also|箚}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=01|sn=5|four=42910|canj=DU|ids=⿰木乚}}
+
+====References====
+* {{Han ref|kx=0509.110|dkj=14422|dj=0893.010|hdz=21153.010|uh=672D|ud=26413|bh=A5BE|bd=42430}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=zhá
+|c=zaat3
+|mn=qz,tw,xm,zz:chat
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[letter]], [[note]]
+# [[correspondence]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=木01}}
+
+====Readings====
+* {{ja-readings
+|goon=[[せち]] (sechi) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[さつ]] (satsu)
+|kun=[[ふだ]] (fuda), [[わかじに]] (wakajini)}}
+
+===Etymology 1===
+
+====Noun====
+{{ja-noun|さつ}}
+
+# [[paper money]]; a [[bill]]; a (bank) [[note]]
+
+=====Synonyms=====
+* {{ja-r|紙幣|しへい}}
+
+===Etymology 2===
+
+====Noun====
+{{ja-noun|ふだ}}
+
+# a [[card]]; a [[plate]]; a [[tag]]
+
+=====Derived terms=====
+* {{ja-r|御札|おふだ}}
+
+[[Category:Japanese basic words|さつ]]
+[[Category:Japanese basic words|ふだ]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[찰]]|eumhun=|rv=chal|mr=ch'al|y=chal}}
+
+# {{defn|lang=ko|sort=木01}}
+
+====Compounds====
+* [[鄕札]] ([[향찰]], hyangchal)
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trát]], [[trớt]]|rs=木01}}
+
+# {{defn|lang=vi}}
+
+[[fr:札]]
+[[ko:札]]
+[[it:札]]
+[[hu:札]]
+[[mg:札]]
+[[ja:札]]
+[[pl:札]]
+[[fi:札]]
+[[th:札]]
+[[zh:札]]

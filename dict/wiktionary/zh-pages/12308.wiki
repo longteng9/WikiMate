@@ -1,0 +1,96 @@
+{{character info/new}}
+{{also|呙}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=30|rad=口|as=06|sn=9|four=77227|canj=BBR|ids=⿵冎口}}
+
+# [[chat]], [[jaw]], [[gossip]], [[talk]]
+# [[mouth]]
+
+====Derived characters====
+* [[堝]] ([[埚]]), [[喎]] ([[㖞]]), [[猧]], [[渦]] ([[涡]]), [[媧]] ([[娲]]), [[楇]], [[腡]] ([[脶]]), [[煱]] ([[㶽]]), [[禍]] ([[祸]]), [[碢]], [[蝸]] ([[蜗]]), [[緺]], [[踻]], [[諣]] ([[𫍩]]), [[鍋]] ([[锅]]), [[騧]] ([[䯄]]), [[剮]] ([[剐]]), [[旤]], [[歄]], [[卨]], [[萵]] ([[莴]]), [[窩]] ([[窝]]), [[瘑]], [[過]] ([[过]])
+
+====References====
+* {{Han ref|kx=0188.040|dkj=03573|dj=0407.040|hdz=10616.010|uh=54BC|ud=21692|bh=CE4A|bd=52810}}
+
+----
+
+==Chinese==
+{{zh-forms|s=呙}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|冎|口|c1=p|c2=s|ls=psc}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=hé,guǎ,wō,wǒ,guō,wāi
+|c=gwaa3,waa1
+|mc=
+|oc=
+|cat=v,n
+}}
+{{attention|zh|distribute mc/oc}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=
+|c=gwo1
+|mc=
+|oc=
+|cat=pn
+}}
+{{rfp|cmn|Mandarin}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{surname|lang=zh}}
+
+===References===
+* {{R:twedu|B00327}}
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=口06}}
+
+# {{defn|lang=ja|sort=口06}}
+
+====Readings====
+* {{ja-readings|goon=[[け]] (ke)|kanon=[[か]] (ka), [[かい]] (kai)|kun=[[よこしま]] (yokoshima)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=괘|rv=gwae|mr=kwae|y=kway}}
+
+# {{defn|lang=ko|sort=口06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[oà]], [[oa]], [[ùa]], [[ua]], [[uả]]|rs=口06}}
+
+# {{defn|lang=vi}}
+
+[[fr:咼]]
+[[li:咼]]
+[[hu:咼]]
+[[ja:咼]]
+[[pl:咼]]
+[[th:咼]]
+[[zh:咼]]

@@ -1,0 +1,100 @@
+{{character info/new}}
+{{also|诸}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=09|sn=16|four=04660|canj=YRJKA|ids=⿰言者}}
+
+====References====
+* {{Han ref|kx=1172.040|dkj=35691|dj=1637.020|hdz=63982.030|uh=8AF8|ud=35576|bh=BDD1|bd=48593}}
+
+----
+
+==Chinese==
+{{zh-forms|s=诸}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|者|c1=s|c2=p|ls=psc}}.
+
+===Etymology===
+{{lang|zh|諸}} (''*ta'', "many, all") is considered a dependent (non-adjunctive) pronoun, gradually replacing {{zh-l|多|tr=*tlai|many, all}}. The two may be cognate, and it may be conceivable that {{lang|zh|諸}} had branched off from {{lang|zh|多}} in the sense "all" as the pre-nominal proclitic with the loss of the final ''*-i'' in {{lang|zh|多}}.
+
+Probably also cognate with {{zh-l|都|all}}.
+
+===Pronunciation===
+{{zh-pron
+|m=zhū
+|c=zyu1
+|h=pfs=chû
+|md=cṳ̆
+|mn=qz:chir/tw,xm,zz:chu
+|mn-t=zu1
+|w=1tsr
+|mc=y
+|oc=y
+|ma=
+|cat=a,pn,prep,part
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[many]]; [[each]]; [[every]]; [[all]] {{gloss|forming plurals; especially for persons to whom respect is due}}
+#: {{zh-x|諸侯|all the feudal lords}}
+#: {{zh-x|諸位|all those present}}
+#: {{zh-x|諸子百家|Hundred Schools of Thought}}
+# {{contraction of|lang=zh|[[之]][[乎]]}}
+# {{contraction of|lang=zh|[[之]][[於]]}} [[it]] + [[into]]/[[onto]]/[[unto]]
+#: {{zh-x|置 諸 死 地|to kill someone (''lit.'' to put '''someone into''' the territory of death)}}
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|諸事|諸位|諸侯|諸侯國|諸公|諸凡百事|諸君|諸城|諸城市|諸多|諸如|諸如此類|諸子|諸子十家|諸子百家|諸將|諸廣山|諸暨|諸暨市|諸柘|諸生|諸般|諸色|諸葛|付諸|訴諸}}
+
+===References===
+* {{qualifier|Min Nan}} {{thcwdq|諸}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=6|rs=言09}}
+
+# [[various]]
+# [[many]]
+# [[several]]
+# [[together]]
+
+====Readings====
+{{ja-readings|goon=[[しょ]] (sho)|kanon=[[しょ]] (sho)|kun=[[もろ]] (moro)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[제]], [[저]]|eumhun=[[모두]], [[김치]]|rv=je, jeo|mr=che, chŏ|y=cey, ce}}
+
+# {{defn|lang=ko|sort=言09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chư]], [[chơ]], [[chưa]], [[chã]], [[chở]], [[chứa]], [[đã]]|rs=言09}}
+
+# {{defn|lang=vi|sort=言09}}
+
+[[zh-min-nan:諸]]
+[[fr:諸]]
+[[ko:諸]]
+[[hu:諸]]
+[[mg:諸]]
+[[ja:諸]]
+[[pl:諸]]
+[[sv:諸]]
+[[th:諸]]
+[[zh:諸]]

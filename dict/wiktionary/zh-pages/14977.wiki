@@ -1,0 +1,211 @@
+{{character info/new}}
+{{also|几}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=52|rad=幺|as=09|sn=12|four=22253|canj=VIHI|ids=⿱𢆶戍}}
+
+====Descendants====
+* [[き]]
+* [[キ]]
+
+====Derived characters====
+* [[機]] [[畿]] [[璣]] [[嘰]] [[䟇]] [[譏]] [[饑]] [[穖]] [[僟]] [[磯]] [[蟣]] [[𦠄]] [[𧰙]] [[𧗓]] [[𢇒]] [[𢇓]]
+
+====References====
+* {{Han ref|kx=0342.140|dkj=09208|dj=0652.030|hdz=21095.080|uh=5E7E|ud=24190|bh=B458|bd=46168}}
+
+[[Category:Han characters from which hiragana were derived|き]]
+[[Category:Han characters from which katakana were derived|キ]]
+
+----
+
+==Chinese==
+{{zh-forms|s=几|alt=㡬,𢆻,𢆼}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|𢆶|戍|ls=ic|t1=silk threads; little things|t2=to guard against}} – watching over the fine details.
+
+Note that the simplified form {{och-l|几|small table}} is also a traditional character on its own.
+
+===Pronunciation 1===
+{{zh-pron
+|m=jǐ
+|ma=y
+|c=gei2
+|h=pfs=kí
+|md=gūi/gī
+|md_note=gūi - vernacular; gī - literary
+|mn=kúi/kí
+|mn_note=kúi - vernacular; kí - literary
+|w=2ji
+|mc=3
+|oc=2,2
+|cat=det,pron,adv
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[how much]]; [[how many]]
+#: {{zh-x|幾位？|'''How many''' people [e.g. when entering restaurants]?}}
+#* {{zh-x|你 要 幾 瓶？|'''How many''' bottles do you want?}}
+#* {{zh-x|你 會 說 幾 種 語言？|'''How many''' languages do you speak?}}
+# {{lb|zh|of number, time, date}} [[what]]; [[which]]
+#* {{zh-x|幾 點鐘 了？|'''What''' time is it?}}
+#* {{zh-x|今天 幾 號？|'''What's''' the date today?}}
+#* {{zh-x|你 幾 號？|'''What's''' your number?}}
+# [[a few]]; [[some]]; [[several]]
+#* {{zh-x|我 邊 等 邊 瀏覽 幾 本 雜誌。|I browsed through '''some''' magazines while I waited.}}
+#* {{zh-x|幾 天 后 他 將 回來。|He will be back in a '''few''' days.}}
+# {{lb|zh|of numeral amounts}} some; [[something]]; [[odd]]
+#* {{zh-x|八十 幾 年|eighty-'''something''' years; eighty-'''odd''' years}}
+# {{lb|zh|Cantonese}} [[quite]]; [[rather]]; [[really]]; [[very]]; [[pretty]]
+#* {{zh-x|幾 好睇|'''quite''' good-looking|C}}
+#* {{zh-x|嗰時 我 媽{maa1-4}媽 就 要 一支支 噉 呢{ni1}啲 長 竹 呢，就 掛住 啲 衫 要 用 佢 插 落去。幾 辛苦 嘅，有事 會{wui6} 跌 啲 竹 落 街 喎{wo3}。|My mother used to stick sticks like those up there and hang clothes on them. It was '''rather''' difficult, and sometimes they would fall into the street.|C|ref=[https://www.youtube.com/watch?v=Xmrq1y9u50k&feature=youtu.be&t=7m42s]}}
+#* {{zh-x|你 冇 女朋友？梗係 唔 信 啦！冇 理由 㗎。你…幾 好 呀！|You don't have a girlfriend? Of course I don't believe you! Impossible. You're… not bad!|C|ref={{w2|zh|陳慧嫻}}, {{w2|zh|紅茶館_(歌曲)|紅茶館}}}}
+
+=====Synonyms=====
+* {{qualifier|how many}} {{zh-l|多少}}
+* {{qualifier|Cantonese: quite}} {{zh-l|挺}}
+
+=====Descendants=====
+* → Thai: {{l|th|กี่||how many; how much}}
+
+====Compounds====
+{{zh-der|fold=1|不多幾日|不消幾日|不知凡幾|吃幾碗乾飯|寥寥無幾|年幾|幾位|幾何|幾何圖形|幾何圖案|幾何學|幾何級數|幾個|幾兒|幾兒個|幾化|幾回|幾回價|幾多|幾家|幾家歡樂幾家愁|幾度春風|幾斤幾兩|幾時|幾曾|幾樣|幾次|幾次三番|幾歲|幾番|幾番家|幾眾|幾能勾|幾般|幾許|所剩無幾|春秋幾何|曾幾何時|未幾|無幾|相交滿天下，知心能幾人|相去無幾|相差無幾|立體幾何|老幾|解析幾何|幾內亞|幾內亞比索|新幾內亞|赤道幾內亞|巴布亞紐幾內亞|歐幾里得}}
+
+===Pronunciation 2===
+{{zh-pron
+|m=jī
+|c=gei1
+|md=gĭ
+|w=1ji
+|mc=2
+|oc=1,1
+|cat=a,n,adv
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} [[fine]]; [[slight]]; [[minute]]
+# {{†}} [[dangerous]]
+# {{†}} {{zh-alt-form|機|[[governmental]] [[affairs]]}}
+# {{†}} [[symptom]] of a [[trend]]; [[omen]]
+# [[almost]]; [[nearly]]
+#* {{zh-x|我 被 煙 嗆 得 幾{jī} 窒息。|I was '''almost''' choked by the smoke.}}
+#* {{zh-x|幾{jī} 沒 有 人 相信 他 病 了。|'''Almost''' no one believed that he was sick.}}
+
+====Compounds====
+{{zh-der|fold=1|幾乎|幾事|幾希|幾微|幾殆|幾社|幾諫|幾頓|庶幾|幾內亞|幾內亞比索|新幾內亞|赤道幾內亞|巴布亞紐幾內亞|極深研幾|歐幾里得|知幾其神|研幾探賾|研幾析理|萬幾|見幾|見幾而作}}
+
+===Pronunciation 3===
+{{zh-pron
+|m=jī
+|c=gei1
+|md=gĭ
+|mc=1
+|oc=n,3
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} to be [[near]]; to [[reach]]; to [[attain]]; to [[achieve]]
+
+====Compounds====
+{{zh-der|fold=1|一蹴可幾}}
+
+===Pronunciation 4===
+{{zh-pron
+|m=jì
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{†}} {{zh-alt-form|冀|to [[hope]]; to [[look forward]] to}}
+# {{†}} {{zh-alt-form|紀|[[age]]; [[year]]}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=幺09}}
+
+====Readings====
+* {{ja-readings|goon=[[け]] (ke) {{non-joyo-reading}}|kanon=[[き]] (ki)|kun=[[いく]] (iku), [[いくつ]] ([[幾つ]], ikutsu), [[いくら]] ([[幾ら]], ikura)|nanori=[[い]] (i), [[く]] (ku)}}
+
+====Compounds====
+{{top3}}
+* [[幾程]] (''ikuhodo''): how many, how much
+* [[幾つ]] (''ikutsu''): how old
+* [[幾ら]] (''ikura''): how many
+* [[幾人]] (''ikunin'', ''ikutari''): number of people
+* [[幾何]] (''kika'', ''ikubaku''): geometry
+* [[幾何学]] (''kikagaku''): geometry (study of)
+{{mid3}}
+* [[幾夜]] (''ikuyo'') number of nights
+* [[幾夜も]] (''ikuyo mo''): for several nights
+* [[幾分]] (''ikubun''): partially
+* [[幾千]] (''ikusen''): thousands
+* [[幾日]] (''ikunichi''): how many days
+{{mid3}}
+* [[幾日も]] (''ikunichi mo''): for some days
+* [[幾度]] (''ikudo'', ''ikutabi''): how often
+* [[幾度も]] (''ikudo mo''): frequently
+* [[幾許]] (''ikubaku''): how much
+* [[幾許も無く]] (''ikubaku mo naku''): before long
+{{bottom}}
+
+===Noun===
+{{ja-noun|いく}}
+
+# [[some]], [[several]]
+
+===Prefix===
+{{ja-pos|いく|prefix}}
+
+# [[how many]], [[how much]]
+#: {{ja-usex|幾箱要りますか|いく はこ いります か|How many boxes do you want?}}
+# [[some]], [[several]], having an [[indefinite]] number or quantity
+#: {{ja-usex|幾千と云う人|いく せん と いう ひと|Several thousands of people}}
+# [[some]], [[many]], having a considerable number
+#: {{ja-usex|幾日も行っていた|いく にち も いって いた|I was gone for many days}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=기|mr=ki}}
+
+# {{defn|lang=ko|sort=幺09}}
+
+[[Category:CJKV simplified characters which already existed as traditional characters]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[cơ]], [[kỉ]], [[ki]]|rs=幺09}}
+
+# {{defn|lang=vi|sort=幺09}}
+
+[[zh-min-nan:幾]]
+[[fr:幾]]
+[[ko:幾]]
+[[it:幾]]
+[[li:幾]]
+[[hu:幾]]
+[[mg:幾]]
+[[ja:幾]]
+[[pl:幾]]
+[[th:幾]]
+[[zh:幾]]

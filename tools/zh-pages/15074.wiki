@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=53|rad=广|as=11|sn=14|four=00222|canj=ISMH|ids=⿸广翏}}
+
+# a [[surname]]
+# [[name]] of the [[ancient]] [[state]] of [[w:Liao (state)|Liao]]
+
+====References====
+* {{Han ref|kx=0350.050|dkj=09464|dj=0661.070|hdz=20900.070|uh=5ED6|ud=24278|bh=B9F9|bd=47609}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=liào
+|c=liu6
+|mn=liāu
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=广11}}
+
+# {{defn|lang=ja|sort=广11}}
+
+====Readings====
+* {{ja-readings|on=[[りょう]] (ryō)|kun=[[むなしい]] (munashii)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=료|rv=ryo|mr=ryo|y=lyo}}
+
+# {{defn|lang=ko|sort=广11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=广11|hanviet=liêu}}
+
+# {{defn|lang=vi|sort=广11}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=5ed6 Nom Foundation]
+
+[[zh-min-nan:廖]]
+[[fr:廖]]
+[[hu:廖]]
+[[mg:廖]]
+[[ja:廖]]
+[[pl:廖]]
+[[th:廖]]
+[[zh:廖]]

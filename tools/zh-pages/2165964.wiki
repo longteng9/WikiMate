@@ -1,0 +1,50 @@
+{{also|诱导}}
+==Chinese==
+{{zh-forms|s=诱导}}
+
+===Pronunciation===
+{{zh-pron
+|m=yòudǎo
+|c=jau5 dou6
+|mn=qz:iù-tō͘/xm,zz:iù-tō
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[guide]]; to [[lead]]
+# {{lb|zh|physics}} to [[induce]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ゆう|どう|yomi=on}}
+
+===Noun===
+{{ja-noun|ゆうどう}}
+
+# [[guidance]]; [[leading]]
+# {{lb|ja|medicine|physics|chemistry|sort=ゆうどう}} [[induction]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|ゆうどう}}
+
+# [[guide]], [[lead]], [[coax]]
+# {{lb|ja|medicine|physics|chemistry|sort=ゆうどう}} [[induce]]
+
+====Conjugation====
+{{ja-suru|ゆうどう}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=유도}}
+
+# {{hanja form of|유도}}
+
+[[ko:誘導]]
+[[hu:誘導]]
+[[mg:誘導]]
+[[zh:誘導]]

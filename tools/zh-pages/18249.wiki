@@ -1,0 +1,81 @@
+{{character info/new}}
+{{also|橼}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=75|rad=木|as=15|sn=19|four=47932|canj=DVFO|ids=⿰木緣}}
+
+# [[citron]] {{gloss|''[[Citrus medica]]''}}
+
+====References====
+* {{Han ref|kx=0560.290|dkj=15822|dj=0949.260|hdz=21315.150|uh=6ADE|ud=27358|bh=F258|bd=62040}}
+
+----
+
+==Chinese==
+{{zh-forms|s=橼}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yuán
+|c=jyun4
+|h=pfs=yèn
+|mn=iân
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|枸櫞}}
+* {{zh-l|香櫞}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=木15}}
+
+# {{defn|lang=ja|sort=木15}}
+
+====Readings====
+* {{ja-readings|on=[[えん]] (en)|kun=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=연|eumhun=|rv=yeon|mr=yŏn|y=yen}}
+
+# {{defn|lang=ko|sort=木15}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=木15| hanviet = duyên}}
+
+# {{defn|lang=vi|sort=木15}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=6ade Nom Foundation]
+
+[[fr:櫞]]
+[[hu:櫞]]
+[[ja:櫞]]
+[[pl:櫞]]
+[[th:櫞]]
+[[vi:櫞]]
+[[zh:櫞]]

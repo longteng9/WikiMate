@@ -1,0 +1,65 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=72|rad=日|as=07|sn=11|four=60253|canj=AIHS|ids=⿱日成}}
+
+# [[clear]], [[bright]]
+# [[splendor]], [[brightness]]
+
+====References====
+* {{Han ref|kx=0495.450|dkj=13950|dj=0862.060|hdz=21506.140|uh=665F|ud=26207|bh=D1D4|bd=53716}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chéng,shèng
+|c=sing4
+|mn=sēng
+|mc=y
+|oc=y
+|ma=
+|cat=a,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=日07}}
+
+# {{defn|lang=ja|sort=日07}}
+
+====Readings====
+* {{ja-readings|on=[[せい]] (sei), [[じょう]] (jō)|kun=[[あきらか]] (akiraka), [[さかん]] (sakan), [[めしびつ]] (meshibitsu)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=성|eumhun=|rv=seong|mr=sŏng|y=seng}}
+
+# {{defn|lang=ko|sort=日07}}
+
+[[zh-min-nan:晟]]
+[[fr:晟]]
+[[mg:晟]]
+[[ja:晟]]
+[[pl:晟]]
+[[th:晟]]
+[[vi:晟]]
+[[zh:晟]]

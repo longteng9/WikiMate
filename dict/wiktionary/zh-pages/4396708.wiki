@@ -1,0 +1,54 @@
+{{also|金银花}}
+==Chinese==
+{{zh-forms|s=金银花|type=12}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīnyínhuā
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# flower of the {{vern|Japanese honeysuckle}} or ''[[Lonicera japonica]]'' (A flower used in [[traditional Chinese medicine]] to "detoxify" and to treat influenza.)
+
+===References===
+* {{pedialite|金银花|lang=zh}}
+
+----
+
+==Japanese==
+<div style="float:right;">
+{{wikipedia|lang=ja|スイカズラ|スイカズラ (Suikazura)}}
+{{wikipedia|Lonicera japonica|Japanese honeysuckle}}
+[[File:Honeysuckle_2.jpg|thumb|250px|{{lang|ja|金銀花}} (''kinginka''): the '''Japanese honeysuckle'''.]]
+</div>
+{{ja-kanjitab|きん|ぎん|か|yomi=on}}
+
+===Etymology===
+Probably from {{etyl|ltc|ja|sort=きんぎんか}}. Literally “gold silver flower”. Compare modern {{etyl|zh|-}} simplified {{m|zh|金银花}} and traditional {{m|zh|金銀花|tr=jīnyínhuā}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+===Pronunciation===
+* {{l|ja|sc=Latn|音読み|On'yomi}}
+* {{ja-accent-common|n|き|んぎ|んか}}<ref name="DJR">{{R:Daijirin}}</ref>
+* {{IPA|lang=ja|[kĩŋɡĩŋka̠]}}
+
+===Noun===
+{{ja-noun|きんぎんか}}
+
+# {{lb|ja|sort=きんぎんか|rare}} the {{vern|Japanese honeysuckle}} [[plant]], ''[[Lonicera japonica]]''.
+# the [[flower]] of the {{vern|Japanese honeysuckle}}
+
+====Usage notes====
+More commonly called {{ja-l|スイカズラ||suikazura}} in Japanese.<ref name="KDJ"/><ref name="DJR"/>
+
+====Synonyms====
+* {{ja-l|忍冬}} ({{ja-l|スイカズラ}}, {{ja-l|||suikazura}}; {{ja-l|にんどう}}, {{ja-l|||nindō}})
+* {{ja-l|吸い葛|すいかずら|suikazura}}
+
+===References===
+<references/>
+
+[[mg:金銀花]]
+[[zh:金銀花]]

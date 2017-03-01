@@ -1,0 +1,126 @@
+{{character info/new}}
+{{also|齐|斉}}
+==Translingual==
+{{stroke order|type=animate}}
+{{Han simplified forms|齊|斉|齐}}
+
+===Alternative forms===
+* {{l|mul|𠄷}} (based on the small seal script form of the character)
+
+===Etymology===
+{{Han etyl}}
+{{liushu|i}}: a field of grain, hence of ''uniform'' height.
+
+===Han character===
+{{Han char|rn=210|rad=齊|as=00|sn=14|four=00223|canj=YX}}
+
+# [[even|Even]]; [[uniform]]; of [[equal]] [[length]]
+# [[Qi]], an [[ancient]] [[Chinese]] [[duchy]], [[viscounty]], and [[kingdom]] during the [[Zhou]] [[dynasty]]
+# The [[realm]] of [[this]] [[state]] under [[later]] [[imperial]] [[Chinese]] [[dynasties]]
+# {{surname|lang=zh}}
+# {{mul-kangxi radical-def}}
+
+====Derived characters====
+* [[Index:Chinese radical/齊]]
+* [[濟]] [[劑]]
+
+====References====
+* {{Han ref|kx=1531.060|dkj=48560|dj=2068.110|hdz=74783.010|uh=9F4A|ud=40778|bh=BBF4|bd=48116}}
+
+----
+
+==Chinese==
+
+===Etymology 1===
+{{zh-forms|s=齐|alt=亝}}
+
+====Pronunciation====
+{{zh-pron
+|m=qí
+|c=cai4
+|h=pfs=chhè/chhì
+|mn=xm,qz,zz,kh,tn,yl,tc:chê/xm,qz,tp,lk,km,mg,tc:chôe/sx:cherê
+|mn_note=Xiamen and Quanzhou: chê - literary; chôe - vernacular
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=a,adv,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+=====Compounds=====
+* {{zh-l|齊國}}
+* {{zh-l|齊全}}
+
+===Etymology 2===
+{{zh-forms|s=齐|alt=褿}}
+
+====Pronunciation====
+{{zh-pron
+|mn=xm,zz,tp,yl,tn,kh,tc:chiâu/qz,lk,sx,km,mg,hc:châu
+|cat=a,adv
+}}
+
+====Definitions====
+{{zh-hanzi}} {{tlb|zh|Min Nan}}
+
+# [[uniform]]; generally [[consistent]]
+# [[completely]]; [[entirely]]
+
+====Compounds====
+{{zh-der|齊勻}}
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|10973}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=齊00|style=ky|shin=斉}}
+
+# {{defn|lang=ja|sort=齊00}}
+
+====Readings====
+* {{ja-readings|on=[[せい]] (sei), [[ざい]] (zai), [[さい]] (sai)|kun=[[そろう]] (sorou), [[ひとしい]] (hitoshii), [[ひとしく]] (hitoshiku)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[자]], [[제]]|eumhun=|rv=ja, je|mr=cha, che|y=ca, cey}}
+
+# {{defn|lang=ko|sort=齊00}}
+
+[[Category:Uncommon kanji]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tày]], [[tề]], [[tè]], [[chai]]|rs=齊00}}
+
+# {{defn|lang=vi|sort=齊00}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=9f4a&img=1 Nom Foundation]
+
+[[Category:CJKV radicals| ]]
+
+[[fr:齊]]
+[[ko:齊]]
+[[hu:齊]]
+[[mg:齊]]
+[[ja:齊]]
+[[pl:齊]]
+[[ru:齊]]
+[[th:齊]]
+[[zh:齊]]

@@ -1,0 +1,103 @@
+{{character info/new}}
+{{also|划}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=12|sn=14|four=52100|canj=LMLN|ids=⿰畫刂}}
+
+# [[divide]], [[mark off]], lay [[boundary]]
+
+====References====
+* {{Han ref|kx=0144.100|dkj=02193|dj=0325.060|hdz=10356.080|uh=5283|ud=21123|bh=B9BA|bd=47546}}
+
+----
+
+==Chinese==
+{{zh-forms|s=划}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|畫|刀|c1=p|c2=s|t2=knife|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=huà,huá,huai
+|c=waak6
+|h=pfs=va̍k
+|mn=oe̍h/u̍ih
+|w=
+|mc=y
+|oc=y
+|ma=|ma2=
+|cat=v
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+{{zh-der|企劃|佈劃|出謀劃策|刻劃|㓦劃|劃一|劃一不二|劃下道來|劃分|劃地為王|劃定|劃座位|劃拉|劃掉|劃撥|劃時代|劃歸|劃清|劃清界線|劃然|劃界|劃策|劃線|劃線支票|劈劃|區劃|國土規劃|土地重劃|市地重劃|擘劃|擺劃|支劃|教學計劃|整齊劃一|比劃|百劃|程式規劃|策劃|籌劃|線性規劃|裁劃|規劃|計劃|謀劃|農地重劃|重劃}}
+
+====References====
+* {{qualifier|Min Nan}} {{thcwd|10409}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=刀12}}
+
+====Readings====
+* {{ja-readings|on=[[かく]] (kaku)|kun=[[わかつ]] (wakatsu)}}
+
+====Compounds====
+* {{ja-r|劃然|かくぜん}}
+* {{ja-r|劃期|かっき}}
+* {{ja-r|企劃|きかく}}
+* {{ja-r|区劃|くかく}}
+
+===Noun===
+{{ja-noun|かく}}
+
+# {{alternative form of|画|lang=ja}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=획|rv=hoek|mr=hoek|y=hoyk}}
+Eumheun: 그을 획
+====Definition====
+# To carve/To set in stone
+# To plan
+
+====Compounds====
+# 計劃 (계획)
+# 企劃 (기획)
+# 劃策 (획책)
+
+# {{defn|lang=ko|sort=刀12}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[vạch]], [[hoạch]], [[đạch]], [[gạch]], [[hoa]]|rs=刀12}}
+
+# {{defn|lang=vi|sort=刀12}}
+
+[[fr:劃]]
+[[ko:劃]]
+[[hu:劃]]
+[[mg:劃]]
+[[ja:劃]]
+[[pl:劃]]
+[[th:劃]]
+[[chr:劃]]
+[[vi:劃]]
+[[zh:劃]]

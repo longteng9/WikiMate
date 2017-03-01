@@ -1,0 +1,55 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=xīrù
+|c=kap1 jap6
+|mn=khip-ji̍p
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[breathe in]] {{gloss|something}}; to [[inhale]]
+
+===Derived terms===
+{{zh-der|吸入器}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|きゅう|にゅう|yomi=on}}
+
+===Etymology===
+[[吸]] ([[きゅう]], ''[[kyū]]'', "[[suck]], or [[intake]]") + [[入]] ([[にゅう]], ''[[nyū]]'', "to [[enter]]")
+
+===Noun===
+{{ja-noun|きゅうにゅう}}
+
+# [[inhalation]]
+
+===Verb===
+{{ja-verb-suru|tr=trans|きゅうにゅう}}
+
+# [[inhale]]
+
+====Conjugation====
+{{ja-suru|きゅうにゅう}}
+----
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hj|hangeul=흡입}}
+
+# {{hanja form of|흡입|[[inhalation]]}}
+
+[[ko:吸入]]
+[[lt:吸入]]
+[[hu:吸入]]
+[[mg:吸入]]
+[[ja:吸入]]
+[[chr:吸入]]
+[[zh:吸入]]

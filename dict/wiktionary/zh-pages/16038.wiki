@@ -1,0 +1,138 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=64|rad=手|as=04|sn=7|four=57017|canj=QAU|ids=⿰扌巴}}
+
+====References====
+* {{Han ref|kx=0420.210|dkj=11874|dj=0768.010|hdz=31845.040|uh=628A|ud=25226|bh=A7E2|bd=42978}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|手|巴|alt1=扌|ls=psc|c1=s|c2=p}}.
+
+===Pronunciation===
+{{zh-pron
+|m=bǎ,bà,er=y,2er=y
+|m_note=bà - variant pronunciation for “handle”
+|c=baa2,baa3
+|h=pfs=pá
+|md=bā/bá
+|md_note=bā - “to hold; handle; classifier”; bá - variant pronunciation for “handle”
+|mn=pé/pá/pà
+|mn_note=pé - vernacular; pá - literary
+|w=2po,2pa
+|w_note=2po - vernacular; 2pa - literary
+|mc=y
+|oc=y
+|ma=y
+|cat=v,n,cls,adv
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[hold]]; to [[grasp]]; to [[take]]
+# to [[guard]]; to have [[control]] over
+#: {{zh-x|把守|to guard; to defend}}
+#: {{zh-x|把握|to grasp; to control; to master}}
+# {{lb|zh|TCM}} to [[feel]] (for the [[pulse]])
+# {{non-gloss definition|A special type of helping verb which, when placed in front of the [[object]] of a sentence, allows for the object of the sentence to be placed before the verb. This allows for greater flexibility in complex sentence construction.}}
+#: {{zh-x|他 把 刀 放 在 桌子{zi} 上。|He put the knife on the table.}}
+# {{non-gloss definition|used to introduce a “subject + verb + complement” structure}}; to [[cause]] to; to [[make]]
+# [[bundle]]; [[bunch]]
+# [[handle]]; [[knob]]; [[grip]] (a part of an object which is held in the hand)
+# {{zh-classifier|[[object]]s that can be held using [[handle]]s or [[knob]]s, such as [[gun]]s, [[chair]]s, [[broom]]s, [[umbrella]]s}}
+#: {{zh-x|三 把 刀|three knives}}
+#: {{zh-x|四 把 鉸{gaau3}剪|four pairs of scissors|C}}
+#: {{zh-x|兩 '''把''' 掃把|two brooms}}
+# {{zh-classifier|[[handful]]s of something, such as [[grain]]s, [[soil]]}}
+# {{zh-classifier|[[bundle]]s or [[bunch]]es}}
+# {{zh-classifier|some [[abstract]] [[idea]]s, such as [[force]], [[effort]] or [[age]]}}
+# {{zh-classifier|something done with the [[hand]]}}
+# {{non-gloss definition|placed after numerals or classifiers to express uncertainty}}; [[approximately]]
+
+====Synonyms====
+* {{sense|helping verb}}
+** {{qualifier|formal Mandarin; Hokkien}} {{zh-l|將|tr=-}}
+** {{qualifier|Hokkien}} {{zh-l|共|tr=-}}
+
+===Compounds===
+{{zh-der|劣把頭|吊拷絣把|倒把|年把|出把戲|兩把刷子|嘴把式|一把子|兩把頭|二把刀|嘴把子|力把兒頭|大把|帶把子|印把子|力把|加把勁|一把手|尿尿把把|一把罩|小把戲|劣把|守把|倒把鋤頭|個把|刀把兒|一把抓|好把式|一把|把杯|把卷|把定|拜把兄弟|拿印把兒|把臂入林|滿把|拿把|把關|把話|拿把不住|把袂|把臉一板|把素持齋|武把子|把總|把風|掌把|把盞|拱把|拿一把|把勢|把如|把錢|把猾|把住|把兒缸子|把守|把持|把頭|把式|萬把|把薪助火|把玩|把鼻|把似|把臂而談|把斷|火把|沒把鼻|把柄|把舵|捏把汗|把子|抓一把|把滑|把場|把突兒|把上了|把下|把牢|拉一把|有把握|把攬|把持不住|把定了心|把來|持齋把素|把權|把麼|掗把|把賣|撈一把|把手|毛團把戲|拖把|把戲|把腳不住|揣奸把猾|打把式|打把攔|把門|把不住|看把戲|把兄弟|槍把|盲人把燭|把弦兒|把街|把口|手把子|把捉|把都兒|把穩|把斂|把細|把作|把素|盈把|把梢的|手把|把家|瓢把子|把持不定|把位|把把|把手言歡|把麻|打把勢|把定物|手巾把子|為頭把腦|把式匠|把弄|滿有把握|把兒|把色|放刁把濫|把飯叫饑|把齋|有把傢伙|把兒鏡子|沒把柄|把門人|把握|掃把|投機倒把|拜把|把筆|把晤|把脈|玩把戲|拜把子|把酒|把臂|把做|把不到|練把式|第二把手|籠驢把馬|老把戲|話把|靠把|第一把手|老把式|翻把|耍把戲|腰把子|點把|車把|鎗把|頭把兒|順把|老把勢|隨驢把馬|草把|鬼把戲|花把戲|都把勢|變把戲|車把式}}
+
+{{zh-cat|Beginning|Intermediate}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c}}
+
+# {{defn|lang=ja|sort=手04}}
+
+====Readings====
+{{ja-readings|goon=[[へ]] (he)|kanon=[[は]] (ha)|kun=[[たば]] (taba), [[つか]] (tsuka)}}
+
+====Compounds====
+* {{ja-r|把捉|はそく|[[grasping]]}}
+
+{{ja-kanjitab|たば|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|たば|acc=1|acc_ref=DJR,NHK}}
+
+===Alternative forms===
+* {{ja-l|束}}
+
+===Counter===
+{{ja-pos|counter|たば}}
+
+# counter for [[bundle]]s
+
+===Noun===
+{{ja-noun|たば}}
+
+# [[bundle]], [[bunch]], [[batch]], [[sheaf]], [[coil]]
+
+===References===
+<references/>
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=파|eumhun=|mr=p'a|y=pha}}
+
+# {{defn|lang=ko|sort=手04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bã]], [[bả]], [[bạ]], [[bỡ]], [[bữa]], [[vả]], [[vã]], [[vỗ]], [[bá]], [[bẻ]], [[bửa]], [[lả]], [[sấp]], [[trả]]}}
+
+# {{defn|lang=vi|sort=手04}}
+
+[[zh-min-nan:把]]
+[[fr:把]]
+[[ko:把]]
+[[hu:把]]
+[[mg:把]]
+[[fj:把]]
+[[ja:把]]
+[[no:把]]
+[[pl:把]]
+[[sr:把]]
+[[ta:把]]
+[[th:把]]
+[[chr:把]]
+[[uk:把]]
+[[zh:把]]

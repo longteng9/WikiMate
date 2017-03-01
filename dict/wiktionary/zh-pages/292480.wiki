@@ -1,0 +1,132 @@
+{{also|银行}}
+==Chinese==
+{{zh-forms|s=银行}}
+{{wikipedia|lang=zh}}
+
+===Etymology===
+{{wasei kango||ぎんこう|bank||jewellery dealer}}
+
+===Pronunciation===
+{{zh-pron
+|m=yínháng
+|c=ngan4 hong4,ngan4 hong4-2
+|c_note=ngan4 hong4-2 - dated
+|h=pfs=ngiùn-hòng
+|md=ngṳ̀ng-òng
+|mn=zz,kh,yl,tn,tc:gîn-hâng/xm,qz,tp,lk,km,mg,hc:gûn-hâng/sx:gîrn-hâng
+|w=3nyin hhaan
+|ma=y
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[bank]] {{gloss|financial institution}} {{zh-mw|家|間|個}}
+#: {{zh-x|銀行{háng} 出納員|'''bank''' teller}}
+#: {{zh-x|銀行{háng} 業務|'''banking''' business}}
+#: {{zh-x|銀行{háng} 集團|'''banking''' group}}
+# {{lb|zh|literary|archaic}} [[jewellery]] [[dealer]]
+
+====Derived terms====
+{{zh-der|儲蓄銀行|花旗銀行|日本銀行|世界銀行|投資銀行|英格蘭銀行|英倫銀行|銀行對帳單|銀行家|銀行卡|銀行業|銀行賬戶}}
+
+{{zh-cat|Beginning|Banking}}
+
+----
+
+==Japanese==
+
+===Etymology===
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ぎん|こう|yomi=o}}
+{{compound|lang=ja|sort=きんこう'|銀|t1=medium of [[exchange]]; [[money]]|tr1=[[gin]]|行|t2=[[business]] [[establishment]]; [[firm]]|tr2=kō}}
+
+===Pronunciation===
+{{ja-pron|ぎんこう|y=ko|acc=h|acc_ref=NHK,DJR,SMK5}}
+
+===Noun===
+{{ja-noun|count=行|ぎんこう|hhira=ぎんかう}}
+
+# a [[bank]] {{gloss|financial institution}}
+
+====Derived terms====
+{{rel-top3|Terms containing "銀行"}}
+* [[大銀行]] (''daiginkō''): big bank
+* [[一六銀行]] (''ichirokuginkō''): pawnshop
+* [[角膜銀行]] (''kakumakuginkō''): eye bank
+* [[仮想銀行]] (''kasōginkō''): virtual bank
+* [[為替銀行]] (''kawaseginkō''): exchange bank
+* [[眼球銀行]] (''gankyūginkō''): eye bank
+* [[巨大銀行]] (''kyodaiginkō''): megabank
+* [[血液銀行]] (''ketsuekiginkō''): blood bank
+* [[興業銀行]] (''kōgyōginkō''): industrial bank
+{{rel-mid3}}
+* [[国立銀行]] (''kokuritsuginkō''): a national bank
+* [[市中銀行]] (''shichūginkō''): city bank
+* [[正金銀行]] (''shōkinginkō''): specie bank
+* [[商業銀行]] (''shōgyōginkō''): commercial bank
+* [[信託銀行]] (''shintakuginkō''): trust bank
+* [[準備銀行]] (''junbiginkō''): reserve bank
+* [[人材銀行]] (''jinzaiginkō''): job bank
+* [[住友銀行]] (''sumitomoginkō''): Sumitomo Bank
+* [[世界銀行]] (''sekaiginkō''): World Bank
+{{rel-mid3}}
+* [[善意銀行]] (''zen'iginkō''): charity distribution center
+* [[相互銀行]] (''sōgoginkō''): mutual savings bank
+* [[兌換銀行]] (''dakanginkō''): bank of issue
+* [[地方銀行]] (''chihōginkō''): regional bank
+* [[中央銀行]] (''chūōginkō''): a central bank
+* [[中国銀行]] (''chūgokuginkō''): Bank of China
+* [[都市銀行]] (''toshiginkō''): city bank
+* [[日本銀行]] (''nipponginkō''): Bank of Japan
+{{rel-bottom}}
+
+===Descendants===
+* Chinese: {{zh-l|銀行}}
+* Korean: {{ko-l|은행}}
+* Vietnamese: {{vi-l|ngân hàng}}
+
+===References===
+<references/>
+
+[[Category:Japanese basic words|きんこう']]
+[[Category:ja:Banking|きんこう']]
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|rv=|hangeul=은행}}
+
+# {{hanja form of|은행|[[bank]], financial institution}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|ngân hàng|[[bank]], financial institution}}
+
+[[cs:銀行]]
+[[fr:銀行]]
+[[ko:銀行]]
+[[io:銀行]]
+[[lo:銀行]]
+[[lt:銀行]]
+[[hu:銀行]]
+[[mg:銀行]]
+[[fj:銀行]]
+[[ja:銀行]]
+[[pl:銀行]]
+[[pt:銀行]]
+[[tl:銀行]]
+[[th:銀行]]
+[[chr:銀行]]
+[[uk:銀行]]
+[[zh:銀行]]

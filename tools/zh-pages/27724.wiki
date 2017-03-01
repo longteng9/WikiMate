@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|赙}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=10|sn=17|four=63842|canj=BCIBI}}
+
+====References====
+* {{Han ref|kx=1211.180|dkj=36881|dj=1677.140|hdz=63654.080|uh=8CFB|ud=36091|bh=C1CC|bd=49612}}
+
+----
+
+==Chinese==
+{{zh-forms|s=赙}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|貝|尃|c1=s|c2=p|t1=money|ls=psc}}.
+
+===Pronunciation===
+{{zh-pron
+|m=fù
+|c=fu6
+|mn=poa̍h
+|mc=y
+|oc=y
+|cat=v,n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[contribute]] to [[funeral]] [[expense]]s
+# [[gift]] of [[money]] for [[cover]]ing [[funeral]] [[cost]]s
+
+====Compounds====
+{{zh-der|賻金|賻贈|賻儀|贈賻}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=貝10}}
+
+# {{defn|lang=ja|sort=貝10}}
+
+====Readings====
+* {{ja-readings|on=[[ふ]] (fu)|kun=[[たすける]] (tasukeru), [[おくる]] (okuru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=부|eumhun=|rv=bu|mr=pu|y=pu}}
+
+# {{defn|lang=ko|sort=貝10}}
+
+[[fr:賻]]
+[[hu:賻]]
+[[ja:賻]]
+[[pl:賻]]
+[[th:賻]]
+[[zh:賻]]

@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|贻}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=154|rad=貝|as=05|sn=12|four=63860|canj=BCIR|ids=⿰貝台}}
+# [[give]] to, [[hand down]], [[bequeath]]
+
+====References====
+* {{Han ref|kx=1207.060|dkj=36719|dj=1670.110|hdz=63636.080|uh=8CBD|ud=36029|bh=B64D|bd=46669}}
+
+----
+
+==Chinese==
+{{zh-forms|s=贻}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yí
+|c=ji4
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|彤管貽|自貽伊戚|貽人口實|貽厥|貽厥孫謀|貽害|貽燕|貽笑|貽笑千古|貽笑千秋|貽笑大方|貽笑萬世|貽範古今|貽羞|貽羞萬年|貽訓|貽誚多方|貽誤|貽貝|養癰貽害|養癰貽患|養虎貽患}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=貝05}}
+
+# {{defn|lang=ja|sort=貝05}}
+
+====Readings====
+* {{ja-readings|on=[[い]] (i)|kun=[[おくる]] (okuru)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=이|eumhun=|rv=i|mr=i|y=i}}
+
+# {{defn|lang=ko|sort=貝05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=貝05|hanviet=di}}
+
+# {{defn|lang=vi|sort=貝05}}
+
+====References====
+* [http://nomfoundation.org/common/nom_details.php?codepoint=8cbd Nom Foundation]
+
+[[fr:貽]]
+[[ko:貽]]
+[[hu:貽]]
+[[mg:貽]]
+[[ja:貽]]
+[[pl:貽]]
+[[th:貽]]
+[[zh:貽]]

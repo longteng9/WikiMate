@@ -1,0 +1,55 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=9|rad=人|as=05|sn=7|four=|canj=OBM|ids=⿰亻且}}
+
+# [[dull]], [[slow]], [[unskilful]]
+
+====References====
+* {{Han ref|kx=0097.070|dkj=00482|dj=0205.130|hdz=10133.010|uh=4F39|ud=20281}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=qū
+|c=ceoi1
+|mc=y
+|oc=y
+|ma=
+|cat=a
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====References====
+* (''Cantonese'') [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 113]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=人05}}
+
+# {{defn|lang=ja|sort=人05}}
+
+====Readings====
+* {{ja-readings|on=[[しょ]] (sho)|kun=[[つたない]] (tsutanai)}}
+
+[[fr:伹]]
+[[hu:伹]]
+[[pl:伹]]
+[[th:伹]]
+[[vi:伹]]
+[[zh:伹]]

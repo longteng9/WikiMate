@@ -1,0 +1,106 @@
+{{character info/new}}
+{{also|胫}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=130|rad=肉|as=07|sn=11|four=71211|canj=BMVM}}
+
+# [[shinbone]]
+# calf of leg
+
+===References===
+* {{Han ref|kx=0983.020|dkj=29504|dj=1435.240|hdz=32077.090|uh=811B|ud=33051|bh=D748|bd=55112}}
+
+----
+
+==Chinese==
+{{zh-forms|s=胫}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìng
+|c=ging3,hing5
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|不脛而走|無脛而行|脛脛|脛衣|脛骨|腳脛|蝨脛蟣肝}}
+
+===References===
+* {{R:yue:Hanzi}}
+
+----
+
+==Japanese==
+
+===Etymology 1===
+
+====Pronunciation====
+* {{IPA|[sune]|lang=ja}}
+
+====Alternative forms====
+* {{l|ja|臑}}
+* {{l|ja|髄}}
+
+====Noun====
+{{ja-noun|すね}}
+
+# the area between the knee and the ankle; the [[shin]]
+#* {{RQ:Shin'yaku Kegonkyō Ongi Shiki|68}}
+#*: 髄脳 上'''須年''' 下奈豆技
+
+===Etymology 2===
+pagi → ɸagi → hagi.
+
+====Pronunciation====
+* {{IPA|[haɡi]|lang=ja}}
+
+====Noun====
+{{ja-noun|はぎ}}
+
+# the shin
+
+====Kanji====
+{{ja-kanji|grade=|rs=肉07}}
+
+# [[shin]]
+
+=====Readings=====
+* {{ja-readings|on=[[けい]] (kei)|kun=[[すね]] (sune), [[はぎ]] (hagi)|nanori=}}
+
+===References===
+* {{Shin'yaku Kegonkyō Ongi Shiki}}
+
+[[Category:Japanese basic words|すね]]
+[[Category:ja:Anatomy|すね]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=경|eumhun=|rv=gyeong|mr=kyŏng|y=kyeng}}
+
+# {{defn|lang=ko|sort=肉07}}
+
+[[fr:脛]]
+[[ko:脛]]
+[[lt:脛]]
+[[hu:脛]]
+[[mg:脛]]
+[[ja:脛]]
+[[pl:脛]]
+[[sv:脛]]
+[[th:脛]]
+[[chr:脛]]
+[[zh:脛]]

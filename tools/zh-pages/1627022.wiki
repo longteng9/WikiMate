@@ -1,0 +1,34 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jíshǐ
+|ma=Zh-jíshi.ogg
+|c=zik1 si2
+|mn=chek-sú
+|cat=con
+}}
+
+===Conjunction===
+{{zh-con}}
+
+# [[even though]]; [[even if]]
+#: {{zh-x|'''即使{si2}''' 聽{ting1}日 落雨，我 也 會{wui6} 出去。|I will go out tomorrow, '''even if''' it rains.|C-GZ}}
+#: {{zh-x|即使{si2} 你 離開，我 熱情 未改|'''Even though''' you have left, my passion remains unchanged|C-LIT|ref={{w2|zh|張學友}} (lyricist {{w2|zh|劉卓輝}}, {{lang|zh|還是覺得你最好}}}}
+
+====Synonyms====
+* {{zh-l|即便}}
+
+====See also====
+* {{zh-l|雖然}}
+* {{zh-l|儘管}}
+
+{{zh-cat|Intermediate}}
+
+[[ko:即使]]
+[[hu:即使]]
+[[mg:即使]]
+[[ja:即使]]
+[[uk:即使]]
+[[zh:即使]]

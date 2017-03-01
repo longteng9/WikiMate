@@ -1,0 +1,53 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=11|sn=14|four=20715|canj=UYHM,UYKM|ids=⿰山產}}
+
+# [[towering]], [[steep]]
+
+====References====
+* {{Han ref|kx=0318.070|dkj=08389|dj=0618.290|hdz=10795.070|uh=5D7C|ud=23932|bh=E1AE|bd=57774}}
+* [http://www.zdic.net/z/18/js/5D7C.htm zdic.net (Han Dian)]
+
+----
+
+==Cantonese==
+
+===Hanzi===
+{{yue-hanzi|jyut=[[caan2]]|y=chaan2|sim=𡶴}}
+
+# {{defn|lang=yue|sort=山11}}
+
+====References====
+* [http://www.iso10646hk.net/jp/document/download.jsp Jyutping Database (iso10646hk.net) - Cantonese Pronunciation List (Part 2), p. 100]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=山11}}
+
+# {{defn|lang=ja|sort=山11}}
+
+====Readings====
+{{ja-readings
+|goon = [[せん]] (sen)
+|kanon=[[さん]] (san)
+|kun=}}
+
+----
+
+==Mandarin==
+
+===Hanzi===
+{{cmn-hanzi|sim=𡶴|pin=[[chǎn]] ([[chan3]])|wg=ch'an<sup>3</sup>}}
+
+# {{defn|lang=cmn|sort=山11}}
+
+[[fr:嵼]]
+[[hu:嵼]]
+[[pl:嵼]]
+[[th:嵼]]
+[[zh:嵼]]

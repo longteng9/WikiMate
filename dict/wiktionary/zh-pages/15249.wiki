@@ -1,0 +1,90 @@
+{{character info/new}}
+{{also|伇}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=60|rad=彳|as=04|sn=7|four=27247|canj=HOHNE|ids=⿰彳殳}}
+
+# [[service]]
+# [[servant]], [[laborer]]
+# to [[serve]]
+
+====References====
+* {{Han ref|kx=0365.180|dkj=10057|dj=0685.120|hdz=20814.230|uh=5F79|ud=24441|bh=A7D0|bd=42960}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=yì
+|c=jik6
+|h=pfs=yi̍t
+|mn=ia̍h/xm,zz,tw:e̍k/qz:ia̍k
+|mn_note=ia̍h - vernacular, e̍k/ia̍k - literary
+|w=
+|mc=y
+|oc=y
+|ma=y
+|cat=n,v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* (''Min Nan'') [http://twblg.dict.edu.tw/holodict_new/index.html Taiwan Min Nan Common Words Dictionary (臺灣閩南語常用詞辭典)]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=彳04}}
+
+# service
+
+====Readings====
+* {{ja-readings|goon=[[やく]] (yaku)|kanon=[[えき]] (eki)|kun=[[つとめ]] (tsutome), [[えだち]] (edachi)}}
+
+===Noun===
+{{ja-noun|やく}}
+
+# [[role]], [[service]], [[use]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=역|eumhun=|rv=yeok|mr=yŏk|y=yek}}
+
+# {{defn|lang=ko|sort=彳04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[dịch]], [[việc]]|rs=彳04}}
+
+# {{defn|lang=vi}}
+
+[[fr:役]]
+[[ko:役]]
+[[li:役]]
+[[hu:役]]
+[[mg:役]]
+[[ja:役]]
+[[no:役]]
+[[pl:役]]
+[[th:役]]
+[[chr:役]]
+[[zh:役]]

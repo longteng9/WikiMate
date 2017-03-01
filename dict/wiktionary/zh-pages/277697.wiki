@@ -1,0 +1,24 @@
+{{also|编码}}
+==Chinese==
+{{zh-forms|s=编码}}
+
+===Pronunciation===
+{{zh-pron
+|m=biānmǎ
+|c=pin1 maa5
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|computing}} [[encoding]]; [[character encoding]]
+# any unique identifier from an encoding method used for filing purposes such as a library [[call number]] or a [[postcode]]
+
+====Derived terms====
+{{zh-der|郵政編碼}}
+
+[[ko:編碼]]
+[[hu:編碼]]
+[[chr:編碼]]
+[[zh:編碼]]

@@ -1,0 +1,127 @@
+{{character info/new}}
+{{also|獸}}
+==Translingual==
+{{Han simplified forms|獸|獣|兽}}
+
+===Han character===
+{{Han char|rn=94|rad=犬|as=12|sn=15|four=|canj=FRIK|ids=⿰⿱畄𠮛犬}}
+
+# [[beast]], [[animal]]
+# [[bestial]]
+
+====References====
+* {{Han ref|kx=0719.131|dkj=20714|dj=1130.130|hdz=21369.071|uh=7363|ud=29539}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=犬12|style=s|kyu=獸}}
+
+====Readings====
+{{ja-readings
+|goon=[[しゅ]] (shu) {{non-joyo-reading}}
+|kanon=[[しゅう]] (shū) {{non-joyo-reading}}
+|kanyoon=[[じゅう]] (jū)
+|kun=[[けもの]] (kemono), [[けだもの]] (kedamono)
+}}
+
+===Etymology 1===
+{{ja-kanjitab|けだもの|yomi=k}}
+Literally "thing of hair". Compound of {{compound|lang=ja|sort=けだもの|毛|tr1=ke|t1=hair|だ|tr2=da|pos2=genitive marker|物|tr3=mono|t3=thing}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> Medial ''-da-'' is a very rare genitive marker found in compounds, also seen in {{m|ja|果物||tr=kudamono|fruit}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|けだもの|acc=0|acc_ref=NHK,DJR}}
+
+====Noun====
+{{ja-noun|kyu=獸|けだもの}}
+
+# an animal covered in fur, a beast
+#* {{RQ:Konkōmyō Saishōōkyō Ongi|6 (back)}}
+#*: 獸 '''ケタモノ'''
+
+===Etymology 2===
+{{ja-kanjitab|けもの|yomi=k}}
+Literally "hair thing". Compound of {{compound|lang=ja|sort=けもの|毛|tr1=ke|t1=hair|物|tr2=mono|t2=thing}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=k|けもの|acc=0|acc_ref=NHK,DJR}}
+
+====Noun====
+{{ja-noun|kyu=獸|けもの}}
+
+# an animal covered in fur, a beast
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|獣耳|けものみみ}}: [[kemonomimi]]
+{{der-bottom}}
+
+===Etymology 3===
+{{ja-kanjitab|しし|yomi=irr}}
+From {{m|ja|肉|tr=shishi||meat, flesh}}.<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref>
+
+====Pronunciation====
+{{ja-pron|yomi=irr|しし|acc=1|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|鹿}}, {{ja-l|猪}}
+
+====Noun====
+{{ja-noun|しし}}
+
+# {{lb|ja|archaic|sort=しし}} a [[beast]] {{qualifier|used for its meat, such as a [[boar]] or a [[deer]]}}
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|獣食った報い|ししくったむくい}}
+{{der-bottom}}
+
+===Etymology 4===
+{{ja-kanjitab|じゅう|yomi=kanyoon}}
+{{IPAchar|/siu/}} → {{IPAchar|/ɕiu/}} → {{IPAchar|/d͡ʑiu/}} → {{IPAchar|/d͡ʑuː/}}
+
+From {{etyl|ltc|ja|sort=じゅう}} {{m|zh|獸|tr=syuw<sup>H</sup>||(wild) animal}}. Compare modern {{etyl|cmn|-}} reading ''shòu'', {{etyl|nan|-}} ''siù''.
+
+====Pronunciation====
+{{ja-pron|yomi=kanyoon|じゅう|acc=1|acc_ref=DJR}}
+
+====Noun====
+{{ja-noun|kyu=獸|じゅう|hhira=じう}}
+
+# [[beast]]
+
+=====Derived terms=====
+{{der-top}}
+* {{ja-r|一角獣|いっかくじゅう}}: a [[unicorn]]
+* {{ja-r|益獣|えきじゅう}}: [[beneficial]] [[animal]]
+* {{ja-r|怪獣|かいじゅう}}: a [[monster]] {{qualifier|generally a big animal monster, like [[Godzilla]] or [[Mothra]]}}
+* {{ja-r|害獣|がいじゅう}}: [[harmful]] [[animal]]
+* {{ja-r|麝香獣|じゃこうじゅう}}: [[moschiferous]] [[animal]] ([[musk deer]], [[civet]], etc)
+* {{ja-r|獣医|じゅうい}}: a [[veterinarian]]
+* {{ja-r|獣姦|じゅうかん}}: [[bestiality]] {{gloss|sexual activity}}
+* {{ja-r|尾獣|びじゅう}}: [[tailed]] [[beast]]
+* {{ja-r|雷獣|らいじゅう}}: a [[thunder]] [[beast]]
+{{der-bottom}}
+
+=====Idioms=====
+{{der-top|Idioms}}
+* {{ja-r|獣を逐う者は目に太山を見ず|じゅう を お.う もの は め に たいざん を みず}}
+{{der-bottom}}
+
+===References===
+<references/>
+:* {{R:Konkōmyō Saishōōkyō Ongi}}
+
+[[fr:獣]]
+[[lo:獣]]
+[[li:獣]]
+[[hu:獣]]
+[[mg:獣]]
+[[ja:獣]]
+[[pl:獣]]
+[[sv:獣]]
+[[th:獣]]
+[[chr:獣]]
+[[zh:獣]]

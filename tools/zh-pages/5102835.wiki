@@ -1,0 +1,36 @@
+==Japanese==
+
+===Etymology 1===
+{{ja-kanjitab|かぶ|な|yomi=k}}
+Compound of {{compound|蕪|tr1=kabu|t1=turnip|菜|tr2=na|t2=greens|lang=ja|sort=かぶな}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|かぶな|acc=0|acc_ref=DJR,NHK}}
+
+====Noun====
+{{ja-noun|かぶな}}
+
+# [[turnip]]
+
+=====Synonyms=====
+* {{ja-r|蕪|かぶ}}, {{ja-r|菘|すずな}}
+
+===Etymology 2===
+{{ja-kanjitab|かぶら|な|yomi=k}}
+Compound of {{compound|蕪|tr1=kabura|t1=turnip|菜|tr2=na|t2=greens|lang=ja|sort=かぶらな}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|かぶらな|acc=3|acc_ref=DJR|acc2=0|acc2_ref=DJR}}
+
+====Noun====
+{{ja-noun|かぶらな}}
+
+# [[turnip]]
+
+===References===
+<references/>
+
+[[Category:ja:Vegetables|かぶな]]
+[[Category:ja:Brassicas|かぶな]]
+
+[[mg:蕪菜]]

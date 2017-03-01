@@ -1,0 +1,73 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=177|rad=革|as=04|sn=13|four=42521|canj=TJHML|ids=⿰革斤}}
+
+# [[strap]] on a [[horse]]'s [[breast]]
+
+====References====
+* {{Han ref|kx=1385.180|dkj=42728|dj=1900.090|hdz=74327.220|uh=9773|ud=38771|bh=E0DA|bd=57562}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jìn
+|c=gan3
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=革04}}
+
+# ornamental trappings under collar
+
+====Readings====
+* {{ja-readings|on=[[きん]] (kin), [[こん]] (kon)|kun=[[むながい]] (munagai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=근|eumhun=|rv=geun|mr=kŭn|y=kun}}
+
+# [[martingale]]
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=革04| hanviet = [[ngẩn]], [[cận]]}}
+
+# {{defn|lang=vi|sort=革04}}
+
+====References====
+*[http://nomfoundation.org/common/nom_details.php?codepoint=9773 Nom Foundation]
+
+[[fr:靳]]
+[[hu:靳]]
+[[mg:靳]]
+[[pl:靳]]
+[[th:靳]]
+[[zh:靳]]

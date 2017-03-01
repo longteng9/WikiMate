@@ -1,0 +1,103 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=05|sn=16|four=|canj=NFHQM|ids=⿰魚生}}
+
+# {{defn|Han|sort=魚05}}
+
+====References====
+* {{Han ref|kx=1468.110|dkj=46071|dj=2001.170|hdz=74681.120|uh=9B8F|ud=39823}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=鯹}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xīng
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+===References===
+* {{R:twedu|C17218}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|rs=魚05}}
+
+====Readings====
+{{ja-readings
+|goon=[[しょう]] (shō)
+|kanon=[[せい]] (sei)
+|kun=[[なまぐさい]] ([[鮏い]], namagusai) {{qualifier|rare}}, [[なまぐさ]] (namagusa) {{qualifier|rare}}, [[さけ]] (sake), [[しゃけ]] (sake)
+}}
+
+===Etymology===
+{{ja-kanjitab|さけ|yomi=k}}
+Originally a {{bor|nocap=1|ja|ain|サㇰイベ|tr=sak ibe||salmon|pos=literally “summer + eat”, in reference to how the fish would be caught and eaten in the summer}}, or possible alternative unattested compound {{m|ain|サㇰ}}{{m|ain|エㇷ゚|tr=sak ep|lit=summer + food}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|さけ|acc=1|acc_ref=DJR,SMK5}}
+
+====Alternative forms====
+* {{ja-l|鮭}} {{qualifier|most common}}
+
+====Noun====
+{{ja-noun|さけ}}
+
+# {{alternative spelling of|lang=ja|鮭}}: {{l|en|salmon}}
+
+===Etymology 2===
+{{ja-kanjitab|しゃけ|yomi=k}}
+Originally a {{bor|nocap=1|ja|ain|シャケンベ|tr=shakembe}}<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref>, apparently as a dialectal variation or corruption of {{cog|ain|サㇰイベ|tr=sak ibe||salmon|lit=summer + eat}}, or of possible alternative unattested compound {{m|ain|サㇰ}}{{m|ain|エㇷ゚|tr=sak ep|lit=summer + food}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|しゃけ|acc=1|acc_ref=DJR,SMK5}}
+
+====Alternative forms====
+* {{ja-l|鮭}} {{qualifier|most common}}
+
+====Noun====
+{{ja-noun|しゃけ}}
+
+# {{alternative spelling of|lang=ja|鮭}}: {{l|en|salmon}}
+
+===Etymology 3===
+{{ja-kanjitab|yomi=k|なまぐさ}}
+Root stem of adjective {{m|ja|生臭い}}, {{m|ja|腥い|tr=namagusai||smelling of fish, meat, or blood; stinky, bad-smelling}},<ref name="KDJ">{{R:Kokugo Dai Jiten}}</ref><ref name="DJR">{{R:Daijirin}}</ref> itself a compound of {{compound|ja|sort=なまぐさ|生|tr1=nama|t1=raw, uncooked|臭い|tr2=kusa|t2=stink, bad smell|pos2=root stem of {{m|ja|臭い}} ''kusai'', “stinky, bad-smelling”}}.  {{rendaku2|sort=なまぐさ|kusa|gusa}}.
+
+====Pronunciation====
+{{ja-pron|yomi=k|なまぐさ|acc=0|acc_ref=DJR}}
+
+====Alternative forms====
+* {{ja-l|生臭}} {{qualifier|most common}}, {{ja-l|腥}} {{qualifier|rare}}
+
+====Noun====
+{{ja-noun|なまぐさ}}
+
+# a {{l|en|smell}} of {{l|en|fish}}, {{l|en|meat}}, or {{l|en|blood}}
+# a {{l|en|stink}}, a bad {{l|en|smell}}
+
+===References===
+<references/>
+
+[[fr:鮏]]
+[[hu:鮏]]
+[[pl:鮏]]
+[[th:鮏]]
+[[zh:鮏]]

@@ -1,0 +1,101 @@
+{{character info/new}}
+{{also|緐}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=120|rad=糸|as=11|sn=17|four=88903|canj=OKVIF|ids=⿱敏糸}}
+
+# [[complicated]], [[complex]], [[difficult]]
+
+====Derived terms====
+* {{l|mul|瀿}}, {{l|mul|蘩}}
+
+====References====
+* {{Han ref|kx=0937.010|dkj=27803|dj=1376.050|hdz=53444.030|uh=7E41|ud=32321|bh=C163|bd=49507}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=fán
+|ma=y
+|c=faan4
+|h=pfs=fàn
+|md=
+|mn=hoân
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+====Compounds====
+* {{zh-l|繁體字}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=c|rs=糸11}}
+
+# [[rich]], [[prosperous]]
+# [[flourishing]], [[luxuriant]], [[heavy]] [[or]] [[dense]] ([[foliage]])
+# [[rhythm]] [[or]] [[regularity]]
+# [[difficulty]]
+# [[intricacy]]
+# [[complication]]
+
+====Readings====
+{{ja-readings|goon=[[ぼん]] (bon)|kanon=[[はん]] (han)|kun=[[しげし]] (shigeshi), [[しげる]] (shigeru)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|繁縷|はこべ}}, {{ja-r|繁縷|はこべら}}: [[chickweed]]
+{{der-bottom}}
+
+===Proper noun===
+{{ja-pos|しげる|proper}}
+
+# {{given name|male|lang=ja|sort=しげる}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[번]], [[반]]|eumhun=|rv=beon, ban|mr=pŏn, pan|y=pen, pan}}
+
+# {{defn|lang=ko|sort=糸11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[phồn]], [[phiền]]|rs=糸11}}
+
+# {{defn|lang=vi|sort=糸11}}
+
+[[zh-min-nan:繁]]
+[[fr:繁]]
+[[ko:繁]]
+[[li:繁]]
+[[hu:繁]]
+[[mg:繁]]
+[[ja:繁]]
+[[no:繁]]
+[[pl:繁]]
+[[th:繁]]
+[[zh:繁]]

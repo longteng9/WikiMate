@@ -1,0 +1,41 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēnhuà
+|c=fan1 faa3
+|mn=hun-hòa
+|cat=v
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{label|zh|transitive|intransitive}} to [[split up]]; to [[break up]]; to [[divide]]; to [[diverge]]; to [[differentiate]]
+
+{{zh-cat|Advanced}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|ぶん|か|yomi=on}}
+
+===Noun===
+{{ja-noun|ぶんか}}
+
+# [[specialization]]
+
+===Verb===
+{{ja-verb-suru|ぶんか}}
+
+# become [[differentiated]]
+
+====Conjugation====
+{{ja-suru|ぶんか}}
+
+[[zh-min-nan:分化]]
+[[ko:分化]]
+[[hu:分化]]
+[[ja:分化]]
+[[zh:分化]]

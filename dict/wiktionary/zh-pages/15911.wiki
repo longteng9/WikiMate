@@ -1,0 +1,115 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{liushu|p}} - an axe.
+
+===Han character===
+{{Han char|rn=62|rad=戈|as=02|sn=6|four=53200|canj=IHM|ids=⿵戊一}}
+
+# [[eleventh]] of [[twelve]] [[earthly branch]]es ([[十二支]]): [[dog|Dog]] ([[狗]]) of [[W:Chinese zodiac|Chinese zodiac]]
+
+====Descendants====
+* [[威]], [[咸]], [[歲]], [[𤇳]], [[烕]]
+
+====References====
+* {{Han ref|kx=0411.040|dkj=11535|dj=0752.080|hdz=21398.010|uh=620C|ud=25100|bh=A6A6|bd=42662}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=xū,qu
+|c=seot1
+|mn=sut
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|屈戌|戌時|戌削|戌月|戊戌政變|戊戌變法}}
+
+===References===
+* {{qualifier|Min Nan}} {{thcwd|2434}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=戈02}}
+
+====Readings====
+{{ja-readings|goon=[[しゅち]] (shuchi)|kanon=[[しゅつ]] (shutsu)|kanyoon=[[じゅつ]] (jutsu)|kun=[[いぬ]] (inu)}}
+
+{{ja-kanjitab|いぬ|yomi=k}}
+
+===Pronunciation===
+{{ja-pron|yomi=k|いぬ|acc=2|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|いぬ}}
+
+# the hour of the dog; a historical duel-hour equivalent to 7PM - 9PM
+#* {{circa|935}}: [[w:Tosa Nikki|Tosa Nikki]] (page 3)
+#*: それの年の十二月の二十日あまり一日の日の'''戌'''の刻に、門出す。
+#*:: I departed on the twenty and one day of the twelfth month of that year at the hour of the dog.
+
+===References===
+<references/>
+:* {{cite-book
+|last=Hasegawa
+|first=Masaharu
+|coauthors=Yūichirō Imanishi, Hiroshi Itō, Hiroshi Yoshioka
+|title=Shin Nihon Koten Bungaku Taikei 24: Tosa Nikki, Kagerō Nikki, Murasaki Shikibu Nikki, Sarashina Nikki
+|publisher=[[w:Iwanami Shoten Publishing|Iwanami Shoten]]
+|year=1989
+|location=[[w:Tokyo|Tōkyō]]
+|isbn=4-00-240024-7
+}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=술|eumhun=|rv=sul|mr=sul|y=swul}}
+
+# {{defn|lang=ko|sort=戈02}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=戈02|hanviet=[[tuất]]}}
+
+# {{defn|lang=vi|sort=戈02}}
+
+[[Category:Vietnamese Han tu]]
+
+[[zh-min-nan:戌]]
+[[fr:戌]]
+[[ko:戌]]
+[[li:戌]]
+[[hu:戌]]
+[[mg:戌]]
+[[ms:戌]]
+[[ja:戌]]
+[[no:戌]]
+[[pl:戌]]
+[[th:戌]]
+[[zh:戌]]

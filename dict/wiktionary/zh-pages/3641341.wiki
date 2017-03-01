@@ -1,0 +1,18 @@
+==Japanese==
+{{ja-kanjitab|つう|ちょう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|つうちょう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|つうちょう}}
+
+# {{lb|ja|banking|sort=つうちょう}} [[bankbook]], [[passbook]]
+#: {{ja-usex|通帳 に 記入 する|つうちょう に きにゅう する|enter in a bankbook}}
+
+===References===
+<references/>
+
+[[ko:通帳]]
+[[hu:通帳]]
+[[zh:通帳]]

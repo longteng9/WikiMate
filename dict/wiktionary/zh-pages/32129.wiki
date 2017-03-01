@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|鲒}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=195|rad=魚|as=06|sn=17|four=24361|canj=NFGR}}
+
+# [[clam]]
+# [[oyster]]
+
+====References====
+* {{Han ref|kx=1468.240|dkj=46093|dj=2001.330|hdz=74684.130|uh=9B9A|ud=39834|bh=EF6A|bd=61290}}
+
+----
+
+==Chinese==
+{{zh-forms|s=鲒}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=jié
+|c=git3,git6
+|h=pfs=
+|md=
+|mn=
+|w=
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|lang=zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=魚06}}
+
+# {{defn|lang=ja|sort=魚06}}
+
+====Readings====
+* {{ja-readings|on=[[きつ]] (kitsu), [[ぎち]] (gichi), [[けつ]] (ketsu), [[けち]] (kechi)|kun=[[はまぐり]] (hamaguri)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=길|eumhun=|rv=gil|mr=kil|y=kil}}
+
+# {{defn|lang=ko|sort=魚06}}
+
+[[fr:鮚]]
+[[hu:鮚]]
+[[pl:鮚]]
+[[th:鮚]]
+[[zh:鮚]]

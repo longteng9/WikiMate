@@ -1,0 +1,65 @@
+{{character info/new}}
+{{also|褴}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=145|rad=衣|as=14|sn=20|four=38217|canj=LSIT,LSMT|ids=⿰衤監}}
+
+# [[ragged]], [[tattered]], [[threadbare]]
+
+====References====
+* {{Han ref|kx=1126.190|dkj=34674|dj=1593.240|hdz=53119.120|uh=8964|ud=35172|bh=C4B0|bd=50352}}
+
+----
+
+==Chinese==
+{{zh-forms|s=褴}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=lán
+|c=laam4
+|mn=lam
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|篳路襤褸|衣衫襤褸|褸襤簞瓢|襤褸}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=衣14}}
+
+# {{defn|lang=ja|sort=衣14}}
+
+====Readings====
+* {{ja-readings|on=[[らん]] (ran)|kun=[[ぼろ]] (boro)|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[람]]>[[남]]|eumhun=|rv=ram>nam|mr=ram>nam|y=lam>nam}}
+
+# {{defn|lang=ko|sort=衣14}}
+
+[[fr:襤]]
+[[hu:襤]]
+[[ja:襤]]
+[[pl:襤]]
+[[th:襤]]
+[[zh:襤]]

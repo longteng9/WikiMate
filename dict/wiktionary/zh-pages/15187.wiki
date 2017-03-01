@@ -1,0 +1,76 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=57|rad=弓|as=09|sn=12|four=17227|canj=NMAN|ids=⿲弓百弓}}
+
+# [[assistant]]
+# [[aid]], [[assist]], [[help]]
+# [[correct]]
+
+====References====
+* {{Han ref|kx=0360.080|dkj=09826|dj=0677.030|hdz=20999.130|uh=5F3C|ud=24380|bh=B45D|bd=46173}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=bì
+|c=bat6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|宥弼|弼馬溫|弼針|弼違|弼教|弼亮|左輔右弼|弼士|方弼|明刑弼教|良弼|輔弼之勛|輔弼}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=弓09}}
+
+# {{defn|lang=ja|sort=弓09}}
+
+====Readings====
+* {{ja-readings|on=[[ひつ]] (hitsu)|kun=[[たすける]] (tasukeru), [[ゆだめ]] (yudame), [[すけ]] (suke)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=필|eumhun=|rv=pil|mr=p'il|y=phil}}
+
+# {{defn|lang=ko|sort=弓09}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[bặt]], [[bậc]], [[bật]], [[bằn]]|rs=弓09}}
+
+# {{defn|lang=vi|sort=弓09}}
+
+[[fr:弼]]
+[[li:弼]]
+[[hu:弼]]
+[[mg:弼]]
+[[ja:弼]]
+[[pl:弼]]
+[[th:弼]]
+[[zh:弼]]

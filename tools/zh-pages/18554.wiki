@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|毡|氊}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=82|rad=毛|as=13|sn=17|four=02114|canj=YMHQU|ids=⿰亶毛}}
+
+# [[felt]]
+# [[rug]], [[carpet]]
+# [[coarse]] [[fabric]]s used for rugs, carpets, [[wrapper]]s, etc.
+
+====Related characters====
+* [[氊]]
+
+====References====
+* {{Han ref|kx=0596.270|dkj=16982|dj=0988.010|hdz=32007.110|uh=6C08|ud=27656|bh=C0D6|bd=49366}}
+
+----
+
+==Chinese==
+{{zh-forms|s=毡|alt=氊}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|亶|毛|t2=hair, fur|ls=psc|c1=p|c2=s}}.
+
+In some fonts, the lower left is 且 (instead of 旦).
+
+===Pronunciation===
+{{zh-pron
+|m=zhān
+|c=zin1
+|h=pfs=chân
+|mn=qz,xm,zz:chiam/qz,tw,xm,zz:chiⁿ/qz,tw,xm,zz:chian
+|mn_note=chiam - literary, chiⁿ - vernacular, chian - vernacular (俗)
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# felt
+# felt underlay (used in Chinese calligraphy)
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=毛13}}
+
+# {{defn|lang=ja|sort=毛13}}
+
+====Readings====
+* {{ja-readings|goon=[[せん]] (sen)|kanon=[[せん]] (sen)|kun=[[もうせん]] (mousen)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=전|eumhun=모전(솜털로 만든 모직물)|rv=jeon|mr=chŏn|y=cen}}
+
+# {{defn|lang=ko|sort=毛13}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[chen]], [[chiên]]|rs=毛13}}
+
+# {{defn|lang=vi|sort=毛13}}
+
+[[fr:氈]]
+[[hu:氈]]
+[[ja:氈]]
+[[pl:氈]]
+[[th:氈]]
+[[zh:氈]]

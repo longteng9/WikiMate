@@ -1,0 +1,66 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=132|rad=自|as=04|sn=10|four=26904|canj=HUD|ids=⿱自木}}
+
+# [[law]], [[rule]]
+# [[door]] [[post]]
+
+====References====
+* {{Han ref|kx=1000.190|dkj=30107|dj=1456.080|hdz=53047.030|uh=81EC|ud=33260|bh=AFE5|bd=45029}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=niè
+|c=jit6,nip6
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|兀臬|奉為圭臬|圭臬}}
+
+===References===
+* {{R:yue:mfccd}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=얼|eumhun=|rv=eol|mr=ŏl|y=el}}
+
+# {{defn|lang=ko|sort=自04}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=自04|hanviet=[[nghiệt]], [[nghệt]], [[niết]]}}
+
+# {{defn|lang=vi|sort=自04}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:臬]]
+[[it:臬]]
+[[mg:臬]]
+[[pl:臬]]
+[[th:臬]]
+[[zh:臬]]

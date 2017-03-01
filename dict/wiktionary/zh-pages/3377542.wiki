@@ -1,0 +1,42 @@
+==Japanese==
+{{ja-kanjitab}}
+
+===Etymology 1===
+Compound of {{compound|汝|tr1=namu|t1=you|達|tr2=tachi|pos2=plural suffix|lang=ja}}.
+
+====Pronunciation====
+* {{IPA|[namutatɕi]|lang=ja}}
+
+====Pronoun====
+{{ja-pos|pronoun|なむたち}}
+
+# second person plural pronoun; [[you]], [[ye]], [[you guys]]
+
+===Etymology 2===
+/namutati/ > /namtati/ > /namdati/. From earlier {{m|ja|汝達|tr=namutachi}}. See {{m|ja|汝達|tr=nandachi}}. The medial /m/ was written as /mu/ before the /n/ character evolved, but the effects are visible in the voiced /d/.
+
+====Pronunciation====
+* {{IPA|[namdatɕi]|lang=ja}}
+
+====Pronoun====
+{{ja-pos|pronoun|なむだち}}
+
+# second person plural pronoun; [[you]], [[ye]], [[you guys]]
+#* {{RQ:Konkōmyō Saishōōkyō Ongi|6 (back)}}
+#*: 汝等 '''なむたち'''
+#* {{RQ:Konkōmyō Saishōōkyō Ongi|10 (front)}}
+#*: 仁等 '''なむたち'''
+
+===Etymology 3===
+/namdati/ > /nandati/. From earlier {{m|ja|汝達|tr=namdachi}}.
+
+====Pronunciation====
+* {{IPA|[nandatɕi]|lang=ja}}
+
+====Pronoun====
+{{ja-pos|pronoun|なんだち}}
+
+# second person plural pronoun; [[you]], [[ye]], [[you guys]]
+
+===References===
+* {{R:Konkōmyō Saishōōkyō Ongi}}

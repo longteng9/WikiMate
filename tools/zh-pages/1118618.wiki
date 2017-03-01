@@ -1,0 +1,36 @@
+==Japanese==
+{{ja-kanjitab|とつ|にゅう|yomi=on}}
+
+===Pronunciation===
+* {{ja-pron|とつにゅう|y=o|acc=0|acc_ref=NHK}}
+
+===Noun===
+{{ja-noun|とつにゅう}}
+
+# the action of [[rush]]ing in
+
+===Verb===
+{{ja-verb-suru|とつにゅう}}
+
+# [[rush]] in
+#: {{ja-usex|スワット が 銀行 に '''突入''' し、 人質 を 解放 した。|スワット が ぎんこう に '''とつにゅう''' し、 ひとじち を かいほう した。|The SWAT team '''rushed into''' the bank and set the hostages free.}}
+
+====Conjugation====
+{{ja-suru|とつにゅう}}
+
+===References===
+<references/>
+
+----
+
+==Korean==
+{{ko-hanjatab}}
+
+===Noun===
+{{ko-noun|hangeul=돌입}}
+
+# {{hanja form of|돌입|rushing in}}
+
+[[ko:突入]]
+[[ja:突入]]
+[[zh:突入]]

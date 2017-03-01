@@ -1,0 +1,52 @@
+{{also|会意}}
+==Chinese==
+{{zh-forms|s=会意}}
+
+===Pronunciation===
+{{zh-pron
+|m=huìyì
+|c=wui6 ji3
+|mn=hōe-ì
+|cat=n,v
+}}
+
+===Noun===
+{{zh-noun}}
+
+# (''{{w|Chinese character classification}}'') [[w:Chinese_character_classification#Compound indicatives (會意)|compound indicatives]], one of the six classifications of Chinese characters ({{zh-l|六書}})
+
+====See also====
+* [[:Category:Han ideogrammic compounds]]
+* {{zh-l|六書}}
+
+===Verb===
+{{zh-verb}}
+
+# to [[comprehend]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|かい|い|yomi=o}}
+
+===Noun===
+{{ja-noun|かい.い|shin=会意}}
+
+# {{kyujitai spelling of|会意}}: (''[[w:Chinese character classification|Chinese character classification]]'') [[w:Chinese_character_classification#Compound indicatives (會意)|compound indicatives]], as in {{m|ja|六書|sc=Jpan}}.
+
+====See also====
+* [[:Category:Han ideogrammic compounds]]
+* {{m|ja|六書|sc=Jpan}}
+
+----
+
+==Vietnamese==
+{{vi-hantutab}}
+
+===Noun===
+{{vi-hantu}}
+
+# {{han tu form of|hội ý|(''{{w|Chinese character classification}}'') [[w:Chinese_character_classification#Compound indicatives (會意)|compound indicatives]], one of the six classifications of Chinese characters 六書 (lục thư) }}
+
+[[ko:會意]]
+[[li:會意]]

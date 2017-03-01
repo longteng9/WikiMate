@@ -1,0 +1,89 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=wánquán
+|ma=y
+|c=jyun4 cyun4
+|h=pfs=vàn-chhiòn
+|md=uòng-ciòng
+|mn=oân-choân
+|w=3hhuoe xxi
+|cat=adv,a
+}}
+
+===Adverb===
+{{zh-adv}}
+
+# [[completely]]
+#: {{zh-x|完全 正確|'''absolutely''' correct}}
+#: {{zh-x|我 完全 清醒。|I'm '''wide''' awake.}}
+#: {{zh-x|他 完全 不 知情。|He is '''completely''' unaware of this.}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[complete]]
+#: {{zh-x|設施 完全。|The facilities are '''complete'''.}}
+
+===Descendants===
+{{CJKV||かんぜん|완전|hoàn toàn}}
+
+{{zh-cat|Beginning}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|かん|ぜん|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|かんぜん|yomi=k|acc=h}}
+
+===Adjectival noun===
+{{ja-adj|decl=na|かんぜん}}
+
+# [[perfect]], [[completed]]
+
+====Inflection====
+{{ja-na|かんぜん}}
+
+===Noun===
+{{ja-noun|かんぜん}}
+
+# [[completeness]]
+#: {{ja-usex|'''完全'''な説明が必要だ。|'''かんぜん''' な せつめい が ひつよう だ。|A complete explanation is necessary.}}
+#: {{ja-usex|これは'''完全'''な密室だ。|これ は '''かんぜん''' な みっしつ だ。|This is a completely locked room.}}
+#: {{ja-usex|'''完全'''に負けた。|'''かんぜん''' に まけた。|I've completely lost.}}
+# [[perfection]]
+#: {{ja-usex|完全主義者は'''完全'''を目指す。|かんぜんしゅぎしゃ は '''かんぜん''' を めざす。|Perfectionists seek perfection.}}
+
+====Synonyms====
+* {{ja-r|完璧|かんぺき}}
+* {{ja-r|全く|まったく}}
+
+====Antonyms====
+* {{ja-r|不完全|ふかんぜん}}
+
+====Derived terms====
+* {{l|ja|完全無欠}}
+* {{l|ja|完全性}}
+* {{l|ja|完全主義}}
+
+====See also====
+* {{ja-r|万全|ばんぜん}}
+* {{ja-r|完成|かんせい}}
+
+[[zh-min-nan:完全]]
+[[ko:完全]]
+[[ku:完全]]
+[[lo:完全]]
+[[hu:完全]]
+[[mg:完全]]
+[[fj:完全]]
+[[ja:完全]]
+[[sv:完全]]
+[[ta:完全]]
+[[chr:完全]]
+[[uk:完全]]
+[[zh:完全]]

@@ -1,0 +1,63 @@
+{{character info/new}}
+{{also|參|叁|薓}}
+==Translingual==
+{{stroke order|strokes=8}}
+
+===Etymology===
+{{Han simp|參}}, which in its turn is {{Han simp|曑|nocap=yes}}.
+{{ja-forms|参|参|[[參]]}}
+===Han character===
+{{Han char|rn=28|rad=厶|as=06|sn=8|four=|canj=IKHHH|ids=⿱⿱厶大彡}}
+
+# [[take part]] in, [[intervene]]
+# second syllable of [[ginseng]] (''renshen'') and ''[[Codonopsis pilosula]]'' (''dangshen'')
+
+====References====
+* {{Han ref|kx=0164.211|dkj=03090|hdz=10386.150|uh=53C2|ud=21442}}
+
+[[Category:Chinese numeral symbols]]
+[[Category:Chinese numerals]]
+
+----
+
+==Chinese==
+{{zh-see|參}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=4|rs=厶06|style=s|kyu=參}}
+
+====Readings====
+{{ja-kanjitab|さん|yomi=o}}
+* {{ja-readings|goon=[[さん]] (san), [[そん]] (son), [[しん]] (shin)|kanon=[[さん]] (san), [[しん]] (shin)|kun=[[まいる]] (mairu), [[まじわる]] (majiwaru), [[みつ]] (mitsu)}}
+
+===Noun===
+{{ja-noun|さん|kyu=參}}
+
+# {{lb|ja|legal|sort=さん}} [[3]], [[three]]
+
+{{ja-noun|しん|kyu=參}}
+# {{lb|ja|astronomy|sort=しん}} Chinese [[w:Three Stars (Chinese constellation)|Three Stars]] constellation
+
+====Usage notes====
+This form of [[3]] is only used in legal documents.
+
+[[Category:Japanese numeral symbols|さん]]
+
+[[fr:参]]
+[[ko:参]]
+[[it:参]]
+[[la:参]]
+[[li:参]]
+[[hu:参]]
+[[mg:参]]
+[[ms:参]]
+[[ja:参]]
+[[no:参]]
+[[pl:参]]
+[[ru:参]]
+[[th:参]]
+[[zh:参]]

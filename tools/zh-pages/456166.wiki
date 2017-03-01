@@ -1,0 +1,62 @@
+{{also|水准}}
+==Chinese==
+{{zh-forms|s=水准}}
+
+===Pronunciation===
+{{zh-pron
+|m=shuǐzhǔn
+|c=seoi2 zeon2
+|h=pfs=súi-chún
+|mn=chúi-chún
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[standard]], [[level]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|すい|じゅん|yomi=on}}
+
+===Etymology===
+{{rfe|lang=ja}}
+
+===Noun===
+{{ja-noun|すいじゅん}}
+
+# the sufficient [[level]]; level, [[standard]]
+#: {{ja-usex|君の知識は水準を越えている。|きみ の ちしき は すいじゅん を こえている。|Your knowldge is beyond the sufficient level.}}
+
+====Synonyms====
+* {{ja-r|レベル}}
+
+====Derived terms====
+{{top2}}
+* {{l|ja|水準器}} (''suijunki''): leveling instrument
+* {{l|ja|水準儀}} (''suijungi''): surveyor's level
+* {{l|ja|水準測量}} (''suijun sokuryō''): leveling
+* {{l|ja|給与水準}} (''kyūyo suijun''): pay level
+* {{l|ja|教育水準}} (''kyōiku suijun''): educational standards
+* {{l|ja|居住水準}} (''kyojū suijun''): housing standards
+* {{l|ja|技術水準}} (''gijutsu suijun''): state-of-the-art
+{{mid2}}
+* {{l|ja|高水準}} (''kōsuijun''): high level
+* {{l|ja|所得水準}} (''shotoku suijun''): income level
+* {{l|ja|生活水準}} (''seikatsu suijun''): standard of living
+* {{l|ja|賃金水準}} (''chingin suijun''): wage level
+* {{l|ja|低水準}} (''teisuijun''): nonstandard
+* {{l|ja|物価水準}} (''bukka suijun''): price level
+{{bottom}}
+
+===References===
+* {{R:Shogakukan}}
+
+[[ko:水準]]
+[[sw:水準]]
+[[hu:水準]]
+[[mg:水準]]
+[[chr:水準]]
+[[zh:水準]]

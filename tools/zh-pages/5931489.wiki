@@ -1,0 +1,31 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jīngpǐ
+|c=zing1 pik1
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|crystallography}} [[crystal habit]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|しょう|へき|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|しょうへき|acc=0|acc_ref=DJR}}
+
+===Noun===
+{{ja-noun|しょうへき|hhira=しやうへき}}
+
+# {{lb|sort=しょうへき|ja|crystallography}} [[crystal habit]]
+
+===References===
+<references/>

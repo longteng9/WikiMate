@@ -1,0 +1,91 @@
+{{character info/new}}
+==Translingual==
+{{stroke order|strokes=7}}
+
+===Han character===
+{{Han char|rn=19|rad=力|as=05|sn=7|four=74127|canj=BMKS|ids=⿰且力}}
+
+====References====
+* {{Han ref|kx=0146.270|dkj=02313|dj=0330.160|hdz=10368.080|uh=52A9|ud=21161|bh=A755|bd=42837}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|且|力|t2=strong arm|ls=psc|c1=p|c2=s}} – to help with one’s strength.
+
+===Pronunciation===
+{{zh-pron
+|m=zhù
+|c=zo6
+|h=pfs=chhu
+|md=
+|mn=chō͘
+|w=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[help]]; to [[aid]]; to [[assist]]
+
+===Compounds===
+{{zh-der|助興|助奏|助聽器|助動詞|助理|助賑|助燃|助攻|助勢|失道寡助|匡助|孤立無助|助益|助學|助學金|將伯之助|助跑|愛莫能助|助辯|助惡|愛莫之助|助手|互助|助教|助陣|助人|公共救助|得道多助|內助|助選員|幫助|助選|助力|助詞|助威|佐助器|守望相助|如有神助|互助合作|助我張目|失業救助|天助自助|助戰|大有助益|堯夫助麥|助人為樂|助產士|助長|同惡相助|助桀為虐|助講|互助會|助學貸款|助紂為虐|助產婆|借助|協助|助產|援助|拔刀相助|推波助瀾|指南之助|有助|施助|求助|把薪助火|拔苗助長|支助|摩旗相助|救助|捐助|江山之助|祐助|現金救助|社會救助|援助交際|相助|獎助|特別助理|按彊助弱|濟助|無助|救助金|揠苗助長|扶助|貧民救助|資怨助禍|醫務扶助|藉助|補助費|贊助人|贊助|談助|語助詞|資助|臂助|襄助|隨緣樂助|輔助|鼎力相助|線上求助|齎助|自助|賢內助|補助商業|自助旅遊|輔助車道|補助金|自助餐|自助旅行|自助人助|補助貨幣|補助教育|補助|補助翼}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=力05}}
+
+====Readings====
+* {{ja-readings|goon=[[じょ]] (jo)|kanon=[[そ]] (so) {{non-joyo-reading}}|kun=[[たすける]] (tasukeru), [[すけ]] (suke)}}
+
+===Noun===
+{{ja-noun|すけ}}
+
+# [[assistance]]
+
+===Prefix===
+{{ja-pos|prefix|じょ}}
+
+# [[help]]
+# assistant
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=조|rv=jo|mr=cho|y=co}}
+
+# {{defn|lang=ko|sort=力05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[trợ]], [[rợ]], [[chợ]], [[chữa]], [[đợ]], [[liên]]|rs=力05}}
+
+# {{defn|lang=vi|sort=力05}}
+
+[[zh-min-nan:助]]
+[[fr:助]]
+[[ko:助]]
+[[hu:助]]
+[[mg:助]]
+[[ms:助]]
+[[ja:助]]
+[[no:助]]
+[[pl:助]]
+[[th:助]]
+[[chr:助]]
+[[zh:助]]

@@ -1,0 +1,46 @@
+{{also|飞鼠}}
+==Chinese==
+{{zh-forms|s=飞鼠}}
+
+===Pronunciation===
+{{zh-pron
+|m=fēishǔ
+|c=fei1 syu2
+|h=pfs=fî-chhú
+|mn=zz,kh:poe-chhí/tp:poe-chhú/xm,tp:pe-chhú/qz:per-chhír/twvk:hui-chhí/twvt:hui-chhú
+|cat=n
+}}
+
+====Noun====
+{{zh-noun}}
+
+# [[flying squirrel]]
+# {{lb|zh|dialectal|Cantonese}} [[bat]]
+# {{lb|zh|Taiwanese Min Nan}} [[pickpocket]]
+{{attention|zh|is the third sense used in Xiamen/Quanzhou/Zhangzhou?}}
+
+=====Synonyms=====
+* {{sense|flying squirrel}} {{zh-l|鼯鼠}}
+* {{sense|bat}}
+{{zh-dial|蝙蝠}}
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|ひ|そ|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|yomi=o|ひそ}}
+
+===Noun===
+{{ja-noun|ひそ}}
+
+# [[bat]] {{gloss|small flying mammal}}
+
+====Synonyms====
+* {{sense|bat}} {{ja-r|蝙蝠|こうもり}}, {{ja-r|天鼠|てんそ}}
+
+[[Category:ja:Bats|ひそ]]
+
+[[mg:飛鼠]]

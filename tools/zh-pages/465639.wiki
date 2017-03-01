@@ -1,0 +1,54 @@
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=zuòqǔ
+|c=zok3 kuk1
+|mn=chok-khek
+|cat=v,n
+}}
+
+===Verb===
+{{zh-verb}}
+
+# {{lb|zh|music}} to [[compose]]; to [[write]] [[music]]
+
+===Noun===
+{{zh-noun}}
+
+# {{lb|zh|music}} [[composition]]
+
+===Derived terms===
+{{zh-der|作曲家|作曲者}}
+
+----
+
+==Japanese==
+{{ja-kanjitab|さく|k1=さっ|きょく|yomi=o}}
+
+===Noun===
+{{ja-noun|さっきょく}}
+
+# {{lb|ja|music|sort=さっきょく}} [[composition]]
+
+====Synonyms====
+* {{ja-r|曲譜|きょくふ}}
+* {{ja-r|楽曲|がっきょく}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|さっきょく}}
+
+# {{lb|ja|music|sort=さっきょく}} to [[compose]]
+
+====Conjugation====
+{{ja-suru|さっきょく}}
+
+====See also====
+* {{ja-r|作詞|さくし}}: lyric making
+
+[[ko:作曲]]
+[[lo:作曲]]
+[[hu:作曲]]
+[[mg:作曲]]
+[[zh:作曲]]

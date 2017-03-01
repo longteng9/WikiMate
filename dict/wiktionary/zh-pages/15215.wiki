@@ -1,0 +1,86 @@
+{{character info/new}}
+{{also|篲}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=58|rad=彐|as=08|sn=11|four=55174|canj=QJSM|ids=⿱⿰丰丰彐}}
+
+====Derived terms====
+* {{l|mul|慧}}, {{l|mul|嘒}}, {{l|mul|𦄑}}, {{l|mul|槥}}, {{l|mul|熭}}, {{l|mul|䨮}}, {{l|mul|鏏}}
+
+====References====
+* {{Han ref|kx=0362.160|dkj=09927|dj=0680.310|hdz=20961.100|uh=5F57|ud=24407|bh=B16B|bd=45419}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|甡|又|t1=broom|t2=hand|ls=psc}} – to hold a broom which is made of bamboo.
+
+===Pronunciation===
+{{zh-pron
+|m=huì
+|c=seoi6,wai6
+|mn=hūi
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[broomstick]]
+# [[comet]]
+
+===Compounds===
+{{zh-der|周期彗星|哈雷彗星|彗尾|彗星|彗氾畫塗|擁彗先驅|擁彗迎門|日中必彗|畢拉彗星|百武彗星}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=彐08}}
+
+# {{defn|lang=ja|sort=彐08}}
+
+====Readings====
+{{ja-readings|goon=[[ずい]] (zui), [[ぜい]] (zei)|kanon=[[すい]] (sui), [[せい]] (sei)|kun=[[ほうき]] (hōki)}}
+
+====Compounds====
+{{der-top|Compounds}}
+* {{ja-r|彗星|すいせい}}: [[comet]]
+{{der-bottom}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[혜]], [[세]]|eumhun=|rv=hye, se|mr=hye, se|y=hyey, sey}}
+
+# {{defn|lang=ko|sort=彐08}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-readings|rs=彐08| hanviet = tuệ}}
+
+# {{defn|vi|sort=彐08}}
+
+[[Category:Vietnamese Han tu]]
+
+[[fr:彗]]
+[[hu:彗]]
+[[mg:彗]]
+[[ja:彗]]
+[[pl:彗]]
+[[th:彗]]
+[[zh:彗]]

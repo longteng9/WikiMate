@@ -1,0 +1,105 @@
+{{character info/new}}
+{{also|铣}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=167|rad=金|as=06|sn=14|four=84111|canj=CHGU}}
+
+# [[mill]]
+# [[pig iron]]
+
+====References====
+* {{Han ref|kx=1304.190|dkj=40376|dj=1807.080|hdz=64197.090|uh=9291|ud=37521|bh=BBD1|bd=48081}}
+
+----
+
+==Chinese==
+{{zh-forms|s=铣}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=銑
+|c=sin2
+|mn=sián
+|mc=y
+|oc=y
+|cat=n
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# [[lustrous]] [[metal]]
+
+====Compounds====
+{{zh-der|銑刀|銑削|銑工|銑床|銑鋧|銑鐵}}
+
+===References===
+* {{R:twedu|B05336}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=n|rs=金06}}
+
+# [[pig iron]]
+
+====Readings====
+* {{ja-readings|on=[[せん]] (sen)|kun=[[ずく]] (zuku)|nanori=[[さね]] (sane)}}
+
+====Compounds====
+* {{ja-r|銑鉄|せんてつ}}: [[pig iron]]
+
+====Synonyms====
+* {{l|ja|鉄}}
+
+====References====
+{{ja-kref
+|jis=412D
+|ku=3313
+|shift=914C
+|euc=C1AD
+|freq=''not ranked''
+|nelson=4850
+|newnelson=6263
+|halpern=1726
+|kld=1137
+|heisig=270
+|tuttle=8a6.6
+}}
+
+====Usage notes====
+銑 was removed from the general use [[w:Jōyō kanji|Jōyō kanji]] by the Japanese government in 2010.
+* The Japan Times (October 21, 2009). ''[http://www.kanjiclinic.com/kc99final.htm Get set for next year's overhaul of joyo kanji].'' Accessed February 23, 2010.
+
+===Noun===
+{{ja-noun|ずく}}
+
+# [[pig iron]]
+
+[[Category:ja:Metals|ずく]]
+[[Category:Japanese terms written with one Han script character]]
+[[Category:Japanese terms spelled with 銑]]
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=선|eumhun=|rv=seon|mr=sŏn|y=sen}}
+
+# {{defn|lang=ko|sort=金06}}
+
+[[cs:銑]]
+[[fr:銑]]
+[[hu:銑]]
+[[mg:銑]]
+[[ja:銑]]
+[[pl:銑]]
+[[th:銑]]
+[[zh:銑]]

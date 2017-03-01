@@ -1,0 +1,108 @@
+{{character info/new}}
+{{also|谢}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=10|sn=17|four=04600|canj=YRHHI|ids=⿰言射}}
+
+====References====
+* {{Han ref|kx=1176.020|dkj=35827|dj=1640.050|hdz=64005.210|uh=8B1D|ud=35613|bh=C1C2|bd=49602}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谢}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|言|c1=s|t1=word; speech|射|c2=p|ls=psc}}.
+
+===Pronunciation 1===
+{{zh-pron
+|m=xiè
+|c=ze6
+|h=pfs=chhia
+|md=
+|mn=siā/zz:chiā
+|mn_note=siā - literary; chiā - vernacular
+|mn-t=sia7
+|w=3xxia
+|mc=y
+|oc=y
+|cat=n,v,pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# [[thank]], [[thanks]]
+# [[decline]], [[renounce]]
+# a [[region]] of [[ancient]] [[China]] in present-day [[Henan]]
+# {{lb|zh|of flowers|leaves|etc.}} to [[wither]]
+
+===Pronunciation 2===
+{{zh-pron
+|m=Xiè
+|c=ze6
+|h=pfs=Chhia
+|md=
+|mn=xm,qz,tp,lk,sx,yl,km,mg,hc:Siā/zz,kh,tn,sx:Chiā
+|mn-t=zia7
+|w=3xxia
+|dial=n
+|mc=y
+|oc=y
+|cat=pn
+}}
+
+====Definitions====
+{{zh-hanzi}}
+
+# {{surname|lang=zh}}
+
+===Compounds===
+{{zh-der|謝忱|謝詞|謝辭|謝頂|謝恩|謝絕|謝客|謝禮|謝落|謝媒|謝幕|謝世|謝天謝地|謝謝|謝儀|謝意|謝罪|二謝|人事代謝|代謝|代謝作用|凋謝|千恩萬謝|叩謝|基礎代謝|報謝|多謝|多謝費心|多謝關照|大恩不謝|婉謝|小謝|尺波電謝|彫謝|徂謝|感謝|拜謝|持謝|敬謝|敬謝不敏|新陳代謝|杜門謝客|杯水之謝|檀郎謝女|殂謝|水流花謝|溘然謝世|溘謝|王謝|璧謝|申謝|秦樓謝館|稱謝|答謝|老成凋謝|致謝|萎謝|衰謝|謙謝|謝乏|謝公屐|謝函|謝別|謝勒|謝卻|謝土|謝媒錢|謝孝|謝安折屐|謝屐|謝帖|謝師宴|謝啟|謝步|謝病|謝神|謝票|謝表|踵謝|辭謝|道謝|遜謝|避賢謝拙|酬謝|重謝|銘謝|銘謝惠顧|閉門謝客|領謝|餘珍璧謝|鳴謝|鳴謝啟事}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=言10}}
+
+apologize, thank, refuse
+
+====Readings====
+{{ja-readings|goon=[[じゃ]] (ja) {{non-joyo-reading}}|kanon=[[しゃ]] (sha)|kun=[[あやまる]] (ayamaru), [[わび]] (wabi), [[ことわる]] (kotowaru)|nanori=}}
+
+JLPT level '''N1.  1028''' of 2500 most used kanji in newspapers
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=사|eumhun=|rv=sa|mr=sa|y=sa}}
+
+# {{defn|lang=ko|sort=言10}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tạ]]|rs=言10}}
+
+# {{defn|lang=vi|sort=言10}}
+
+[[zh-min-nan:謝]]
+[[fr:謝]]
+[[ko:謝]]
+[[hu:謝]]
+[[mg:謝]]
+[[ja:謝]]
+[[pl:謝]]
+[[pt:謝]]
+[[fi:謝]]
+[[th:謝]]
+[[zh:謝]]

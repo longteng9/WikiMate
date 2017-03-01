@@ -1,0 +1,53 @@
+{{character info/new}}
+{{also|窯}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=116|rad=穴|as=10|sn=15|four=|canj=JCBOU}}
+
+# brick kiln
+# [[furnace]]
+# coal mine pit
+
+====References====
+* {{Han ref|kx=0867.120|dkj=25595|dj=1296.020|hdz=42739.020|uh=7AB0|ud=31408}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=yáo
+|c=jiu4
+|mn=qz,xm,zz:iâu/qz,tw,xm,zz:iô
+|mn_note=iâu - literary; iô - vernacular
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=穴10}}
+
+# {{defn|lang=ja|sort=穴10}}
+
+====Readings====
+* {{ja-readings|on=[[よう]] (yō)|kun=[[かま]] (kama)|nanori=}}
+
+[[fr:窰]]
+[[hu:窰]]
+[[ja:窰]]
+[[pl:窰]]
+[[th:窰]]
+[[zh:窰]]

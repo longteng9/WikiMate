@@ -1,0 +1,102 @@
+{{character info/new}}
+{{also|㟁|𡶜|崖}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=46|rad=山|as=05|sn=8|four=22241|canj=UMMJ|ids=⿱山厈}}
+
+====References====
+* {{Han ref|kx=0310.030|dkj=08009|dj=0610.070|hdz=10766.040|uh=5CB8|ud=23736|bh=A9A4|bd=43428}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+{{Han compound|屵|t1=cliff|干|ls=psc|c1=s|c2=p}} – the edge of the land.
+
+===Pronunciation===
+{{zh-pron
+|m=àn
+|c=ngon6
+|h=pfs=ngan
+|mn=hōaⁿ/gān
+|mn_note=hōaⁿ - vernacular; gān - literary
+|w=
+|mc=y
+|oc=y
+|ma=
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[bank]], [[shore]]
+#: {{zh-l|兩岸}}
+# [[beach]], [[coast]]
+#: {{zh-l|海岸}}
+
+===References===
+* {{qualifier|Min Nan}} {{thcwd|3830}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=山05}}
+
+# [[beach]]
+
+====Readings====
+* {{ja-readings|goon=[[がん]] (gan)|kanon=[[がん]] (gan)|kun=[[きし]] (kishi)}}
+
+===Noun===
+{{ja-kanjitab|きし|yomi=k}}
+{{ja-noun|きし}}
+# [[bank]], [[coast]], [[shore]]
+
+===Proper noun===
+{{ja-pos|きし|proper}}
+
+# {{surname|lang=ja|sort=きし}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=안|rv=an|mr=an|y=an}}
+
+# {{defn|lang=ko|sort=山05}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[ngàn]], [[ngan]], [[ngạn]]|rs=山05}}
+
+# {{defn|lang=vi|sort=山05}}
+
+[[zh-min-nan:岸]]
+[[fr:岸]]
+[[ko:岸]]
+[[lt:岸]]
+[[li:岸]]
+[[hu:岸]]
+[[mg:岸]]
+[[fj:岸]]
+[[ja:岸]]
+[[no:岸]]
+[[pl:岸]]
+[[ru:岸]]
+[[fi:岸]]
+[[tl:岸]]
+[[th:岸]]
+[[chr:岸]]
+[[uk:岸]]
+[[zh:岸]]

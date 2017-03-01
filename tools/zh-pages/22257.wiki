@@ -1,0 +1,95 @@
+{{character info/new}}
+==Translingual==
+
+===Etymology===
+{{Han etyl}}
+{{Han compound|⺼|t1=meat|又|t2=hand|示|t3=altar, ceremony|ls=ic}} – the hand offers a piece of meat at the altar during a ceremony.
+
+Note that the top is not [[癶]]. The left part is ⺼ twisted to the left (compare [[將]], [[然]]). The right part (which looks like 又 without the tail to the left) actually a simplified form of hand, which was written originally like [[屮]] (three fingers on the arm), with the tail tilted to the right and the leftmost fingers disappearing).
+
+In Japanese handwriting, the diagonals of the upper right component cross: the short upper-right to lower-left stroke crosses the long upper-left to lower-right stroke, rather than abutting there.
+
+===Han character===
+{{Han char|rn=113|rad=示|as=06|sn=11|four=27901|canj=BOMMF}}
+
+====Derived characters====
+* [[傺]] [[㡜]] [[際]] ([[际]]) [[摖]] [[漈]] [[憏]] [[暩]] [[磜]] [[穄]] [[縩]] [[鰶]] [[蔡]] [[察]] [[瘵]]
+
+====References====
+* {{Han ref|kx=0843.070|dkj=24700|dj=1263.080|hdz=42397.070|uh=796D|ud=31085|bh=B2BD|bd=45757}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Pronunciation===
+{{zh-pron
+|m=jì
+|c=zai3
+|h=pfs=chi
+|mn=chè
+|mc=y
+|oc=y
+|ma=
+|cat=v,n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# a [[ceremony]] where one [[offer]]s [[sacrifice]]s to one's [[ancestors]]
+
+===Verb===
+{{zh-verb}}
+
+# to make [[offering]]s to, to [[sacrifice]] to, to [[worship]]
+
+====References====
+* {{R:twedu|A02896}}
+* (''Min Nan'') {{thcwd|7709}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=示06}}
+
+# [[festival]]
+
+====Readings====
+* {{ja-readings|goon=[[さい]] (sai)|kanon=[[せい]] (sei)|kun=[[まつる]] (matsuru), [[まつり]] (matsuri)}}
+
+====Derived terms====
+* {{ja-r|祭り|まつり}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=[[제]], [[채]]|eumhun=|rv=je, chae|mr=che, ch'ae|y=cey, chay}}
+
+# {{defn|lang=ko|sort=示06}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tế]], [[sái]]|rs=示06}}
+
+# {{defn|lang=vi|sort=示06}}
+
+[[zh-min-nan:祭]]
+[[fr:祭]]
+[[ko:祭]]
+[[hu:祭]]
+[[mg:祭]]
+[[ja:祭]]
+[[no:祭]]
+[[pl:祭]]
+[[ru:祭]]
+[[th:祭]]
+[[zh:祭]]

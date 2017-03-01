@@ -1,0 +1,66 @@
+{{character info/new}}
+{{also|谄}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=149|rad=言|as=08|sn=15|four=07677|canj=YRNHX}}
+
+# [[flatter]], [[truckle]], [[toady]]
+
+====References====
+* {{Han ref|kx=1166.150|dkj=35616|dj=1632.080|hdz=63990.060|uh=8AC2|ud=35522|bh=BDD4|bd=48596}}
+
+----
+
+==Chinese==
+{{zh-forms|s=谄}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=chǎn
+|c=cim2
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|媚諂|脅肩諂笑|諂上抑下|諂佞|諂媚|諂淚|諂笑|諂詞令色|諂諛|諂諛取容|讒諂|貧而無諂|阿諂}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=言08}}
+
+# flatter
+
+====Readings====
+{{ja-readings|goon=[[てん]] (ten)|kanon=[[てん]] (ten)|kun=[[へつらう]] (hetsurau), [[へつらい]] (hetsurai)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=첨|eumhun=|rv=cheom|mr=ch'ŏm|y=chem}}
+
+# {{defn|lang=ko|sort=言08}}
+
+[[fr:諂]]
+[[ko:諂]]
+[[hu:諂]]
+[[mg:諂]]
+[[ja:諂]]
+[[pl:諂]]
+[[th:諂]]
+[[zh:諂]]

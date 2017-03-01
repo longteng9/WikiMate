@@ -1,0 +1,39 @@
+{{also|洗练}}
+==Chinese==
+{{zh-forms|s=洗练}}
+
+===Pronunciation===
+{{zh-pron
+|m=xǐliàn
+|c=sai2 lin6
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# {{lb|zh|of writing}} [[succinct]]; [[terse]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|せん|れん|yomi=on}}
+
+===Noun===
+{{ja-noun|せんれん}}
+
+# [[refinement]], [[polish]] {{gloss|cleanliness in performance or presentation}}
+
+===Verb===
+{{ja-verb-suru|tr=trans|せんれん}}
+
+# be [[refined]], be [[polished]]
+#: {{ja-usex|やり方を洗練させる|やりかた を せんれん させる|to improve one's method}}
+
+====Conjugation====
+{{ja-suru|せんれん}}
+
+[[ko:洗練]]
+[[mg:洗練]]
+[[ja:洗練]]
+[[zh:洗練]]

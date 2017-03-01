@@ -1,0 +1,14 @@
+==Japanese==
+{{ja-kanjitab|ぬ|ま|yomi=k}}
+
+===Etymology===
+Compound of {{etyl|ojp|ja|sort=ぬま}} elements {{compound|lang=ja|sort=ぬま|沼|tr1=nu|t1=swamp, marsh, bog|間|tr2=ma|t2=space, area}}.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[nɯᵝma̠]}}
+
+===Proper noun===
+{{ja-pos|proper|ぬま}}
+
+# {{surname|lang=ja|sort=ぬま}}

@@ -1,0 +1,64 @@
+{{character info/new}}
+==Translingual==
+
+===Han character===
+{{Han char|rn=127|rad=耒|as=09|sn=15|four=56927|canj=QDWLB|ids=⿰耒禺}}
+
+# [[plow]] [[side by side]]
+# [[team]] of [[two]]
+
+====References====
+* {{Han ref|kx=0964.060|dkj=28952|dj=1412.130|hdz=42774.080|uh=8026|ud=32806|bh=BDA2|bd=48546}}
+
+----
+
+==Chinese==
+{{zh-forms}}
+
+===Glyph origin===
+{{Han etym}}
+
+===Pronunciation===
+{{zh-pron
+|m=ǒu
+|c=ngau5
+|mc=y
+|oc=y
+|cat=
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# {{rfdef|zh}}
+
+====Compounds====
+{{zh-der|二五耦|佳耦|對耦|嘉耦|妃耦|怨耦|睠以佳耦|耦語|耦耕|耦合|齊大非耦}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=耒09}}
+
+# {{defn|lang=ja|sort=耒09}}
+
+====Readings====
+* {{ja-readings|on=[[ごう]] (gō), [[ぐ]] (gu), [[ぐう]] (gū)|kun=|nanori=}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=우|eumhun=|rv=u|mr=u|y=wu}}
+
+# {{defn|lang=ko|sort=耒09}}
+
+[[fr:耦]]
+[[hu:耦]]
+[[mg:耦]]
+[[pl:耦]]
+[[th:耦]]
+[[zh:耦]]

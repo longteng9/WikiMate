@@ -1,0 +1,29 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|すな|とき|k2=ど|けい}}
+
+===Etymology===
+Compound of {{affix|sort=すなどけい|ja|砂|t1=sand|tr1=suna|時計|t2=clock|tr2=tokei}}. {{rendaku2|sort=すなどけい|tokei|dokei}}
+
+===Pronunciation===
+{{ja-pron|すなどけい|acc=3|acc_ref=DJR,NHK}}
+
+===Noun===
+{{ja-noun|すなどけい}}
+
+# [[hourglass]]
+
+====Synonyms====
+* {{ja-r|砂漏|さろう}}
+
+===References===
+<references/>
+
+[[Category:ja:Clocks|すなどけい]]
+[[Category:ja:Timekeeping|すなどけい]]
+
+[[fr:砂時計]]
+[[hu:砂時計]]
+[[pl:砂時計]]
+[[sv:砂時計]]
+[[zh:砂時計]]

@@ -1,0 +1,32 @@
+==Japanese==
+{{wikipedia|lang=ja}}
+{{ja-kanjitab|枕|詞}}
+{{wikipedia|Makurakotoba}}
+
+===Etymology===
+Compound of {{compound|lang=ja|sort=まくらことば|枕|tr1=makura|t1=pillow|詞|tr2=kotoba|t2=word}}. The ''pillow'' meaning is in reference to the way that ''makura kotoba'' in poetry are used as introductions to something else.
+
+===Pronunciation===
+* {{l|ja|sc=Latn|訓読み|Kun'yomi}}
+* {{IPA|lang=ja|[ma̠kɯᵝɺ̠a̠ ko̞to̞ba̠]}}
+
+===Noun===
+{{ja-noun|まくら ことば}}
+
+# an [[epithet]], specifically a poetic device where a certain introductory phrase is commonly used to allude to something else, traditionally used in {{m|ja|和歌|tr=waka||traditional Japanese poetry}}
+#: Over time, certain ''makura kotoba'' may become full [[metonym]]s to replace the term they originally only alluded to, such as the {{etyl|ojp|-}} phrase ''niwa tsu tori'' or “garden bird” replacing the older term ''kake'' to mean “chicken”, as in the modern Japanese term {{m|ja|鶏|tr=niwatori}}. An example of such a ''makura kotoba'':
+#:: {{RQ:Kojiki|Kami tsu maki}}
+#::: {{lang|ja|'''爾波都登理'''　迦祁波那久}}
+#::: {{lang|ja|'''庭つ鳥'''　鶏は鳴く}}
+#:::: {{lang|ja|'''にわつとり'''　かけはなく}}
+#:::: '''''niwa tsu tori''', kake wa naku''
+#::::: the '''garden bird''', the chicken clucks
+
+====Related terms====
+* {{l|ja|掛詞|tr={{l|ja|かけことば}}, ''{{l|ja|sc=Latn|kake kotoba}}''}}: a [[pun]] or [[play]] on words
+
+[[Category:Makurakotoba]]
+[[Category:ja:Poetry]]
+
+[[ja:枕詞]]
+[[zh:枕詞]]

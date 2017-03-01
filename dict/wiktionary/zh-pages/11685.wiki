@@ -1,0 +1,82 @@
+{{character info/new}}
+{{also|勦}}
+==Translingual==
+
+===Etymology===
+{{Han etym}}
+
+===Han character===
+{{Han char|rn=18|rad=刀|as=11|sn=13|four=22900|canj=VDLN|ids=⿰巢刂}}
+
+====References====
+* {{Han ref|kx=0143.381|dkj=02165|hdz=10354.180|uh=527F|ud=21119|bh=B6CF|bd=46799}}
+
+----
+
+==Chinese==
+{{zh-forms|alt=勦}}
+
+===Pronunciation===
+{{zh-pron
+|m=jiǎo,chāo
+|c=ziu2,caau1
+|c-t=
+|g=
+|h=pfs=
+|j=
+|md=
+|mn=
+|mn-t=
+|w=
+|x=
+|mc=y
+|oc=y
+|cat=v
+}}
+
+===Definitions===
+{{zh-hanzi}}
+
+# to [[destroy]], to [[exterminate]], to [[annihilate]]
+# to [[plagiarize]]
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=|rs=刀11}}
+
+# {{defn|lang=ja|sort=刀11}}
+
+====Readings====
+* {{ja-readings|on=[[しょう]] (shō), [[そう]] (sō)|kun=[[たつ]] (tatsu), [[とる]] (toru)}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=초}}
+
+# {{defn|lang=ko|sort=刀11}}
+
+----
+
+==Vietnamese==
+
+===Han character===
+{{vi-hantu|[[tiễu]], [[thẹo]], [[tĩu]]|rs=刀11}}
+
+# {{defn|lang=vi}}
+
+[[zh-min-nan:剿]]
+[[fr:剿]]
+[[ko:剿]]
+[[hu:剿]]
+[[mg:剿]]
+[[ja:剿]]
+[[no:剿]]
+[[pl:剿]]
+[[th:剿]]
+[[zh:剿]]

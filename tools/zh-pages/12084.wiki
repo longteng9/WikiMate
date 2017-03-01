@@ -1,0 +1,77 @@
+{{character info/new}}
+{{also|號}}
+==Translingual==
+{{stroke order|strokes=5}}
+{{ja-forms|[[号]]|[[号]]|[[號]]}}
+
+===Etymology===
+{{Han simp|號|f=虎|t=&nbsp;}}.
+
+===Han character===
+{{Han char|rn=30|rad=口|as=02|sn=5|four=|canj=RMVS|ids=⿱口丂}}
+
+# [[mark]], [[sign]]
+# [[symbol]]
+# [[number]]
+
+====References====
+* {{Han ref|kx=0174.020|dkj=03256|dj=0385.070|hdz=10570.010|uh=53F7|ud=21495}}
+
+----
+
+==Chinese==
+{{zh-see|號}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=3|rs=口02|style=s|kyu=號}}
+
+====Readings====
+* {{ja-readings|goon=[[ごう]] (gō)|kanon=[[こう]] (kō) {{non-joyo-reading}}|kun=[[さけぶ]] (sakebu), [[よびな]] (yobina)}}
+
+====Compounds====
+* {{ja-l|号外}}
+* {{ja-l|号泣}}
+* {{ja-l|号数}}
+* {{ja-l|号令}}
+* {{ja-l|番号}}
+* {{ja-l|暗号}}
+
+===Noun===
+{{ja-noun|ごう}}
+
+# [[number]]
+
+===Suffix===
+{{ja-pos|ごう|suffix|kyu=號}}
+
+# ordinal marker, often with prefix [[第]]. It's used like [[-st]], [[-nd]], [[-rd]], [[-th]] in English.
+#: {{ja-usex|（第）六号|（だい）-ろく ごう|(The) 6th}}
+
+----
+
+==Korean==
+
+===Hanja===
+{{ko-hanja|hangeul=호|rv=ho|mr=ho}}
+
+# {{defn|lang=ko|sort=口02}}
+
+[[fr:号]]
+[[ko:号]]
+[[ky:号]]
+[[li:号]]
+[[hu:号]]
+[[mg:号]]
+[[ja:号]]
+[[no:号]]
+[[pl:号]]
+[[ru:号]]
+[[ta:号]]
+[[th:号]]
+[[chr:号]]
+[[uk:号]]
+[[zh:号]]

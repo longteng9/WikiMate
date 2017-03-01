@@ -1,0 +1,22 @@
+==Japanese==
+{{ja-kanjitab|り|だつ|yomi=on}}
+
+===Noun===
+{{ja-noun|りだつ}}
+
+# [[exit]], [[secession]]
+#: {{ja-usex|ギリシャのユーロ圏'''離脱'''が危惧されている。|^ギリシャ の ^ユーロ けん '''りだつ''' が きぐ されている。|They are concerned about Greece's exit from the euro zone.}}
+
+===Verb===
+{{ja-verb-suru|tr=intrans|りだつ}}
+
+# [[leave]], [[secede]], [[quit]]
+
+====Conjugation====
+{{ja-suru|離脱|りだつ}}
+
+[[ko:離脱]]
+[[lo:離脱]]
+[[mg:離脱]]
+[[ja:離脱]]
+[[zh:離脱]]

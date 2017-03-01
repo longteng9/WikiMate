@@ -1,0 +1,48 @@
+==Chinese==
+{{zh-forms|type=21}}
+{{wikipedia|lang=zh}}
+
+===Pronunciation===
+{{zh-pron
+|m=wǔshìdào
+|c=mou5 si6 dou6
+|mn=Bú-sū-tō
+|cat=n
+}}
+
+===Noun===
+{{zh-noun}}
+
+# [[bushido]], a code of conduct for Japanese [[samurai]]
+
+----
+
+==Japanese==
+{{wikipedia|lang=ja}}
+{{wikipedia|Bushidō}}
+{{ja-kanjitab|ぶ|し|どう|yomi=o}}
+
+===Pronunciation===
+{{ja-pron|ぶしどう|acc=2|acc_ref=NHK,DJR|y=o}}
+
+===Etymology===
+{{compound|sort=ふしとう''|武士|t1=[[warrior]]; [[samurai]]|tr1=[[bushi]]|lang=ja|道|t2=way; path|tr2=dō}}
+
+===Noun===
+{{ja-noun|ぶしどう|head=[[武士]][[道]]|hhira=ぶしだう}}
+
+# [[bushido]], a code of conduct for Japanese [[samurai]]
+
+====Descendants====
+* English: {{l|en|bushido}}
+
+===References===
+<references/>
+
+[[Category:ja:Feudalism|ふしとう'']]
+[[cs:武士道]]
+[[fr:武士道]]
+[[ko:武士道]]
+[[li:武士道]]
+[[hu:武士道]]
+[[zh:武士道]]

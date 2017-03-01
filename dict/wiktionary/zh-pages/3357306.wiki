@@ -1,0 +1,20 @@
+==Japanese==
+{{ja-kanjitab|さい|たく|yomi=on}}
+
+===Noun===
+{{ja-noun|さいたく}}
+
+# [[adoption]] of a goal, resolution, guideline, or plan
+
+===Verb===
+{{ja-verb-suru|tr=trans|さいたく}}
+
+# [[adopt]] a resolution, goal, plan
+#: {{ja-usex|決議を採択する|けつぎ を さいたく する|adopt a resolution}}
+
+====Conjugation====
+{{ja-suru|さいたく}}
+
+[[hu:採択]]
+[[ja:採択]]
+[[zh:採択]]

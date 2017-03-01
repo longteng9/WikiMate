@@ -1,0 +1,85 @@
+{{character info/new}}
+{{also|價}}
+==Translingual==
+{{Han simplified forms|價|価|价}}
+
+===Etymology===
+{{Han simp|價|f=貝|t=&nbsp;}}; shinjitai.
+
+===Han character===
+{{Han char|rn=9|rad=人|as=06|sn=8|four=21260|canj=OMLW|ids=⿰亻覀}}
+
+# [[price]], [[value]]
+
+====References====
+* {{Han ref|kx=0102.291|dkj=00628|dj=0218.110|hdz=10146.010|uh=4FA1|ud=20385}}
+
+----
+
+==Japanese==
+
+===Kanji===
+{{ja-kanji|grade=5|rs=人06|style=s|kyu=價}}
+
+====Readings====
+{{ja-readings
+|goon=[[け]] (ke) {{qualifier|non-[[w:Jōyō kanji|Jōyō]] reading}}
+|kanon=[[か]] (ka)
+|kun=[[あたい]] (atai)
+}}
+
+====Compounds====
+{{top3}}
+* {{ja-r|評価|ひょうか}}
+* {{ja-r|価格|かかく}}
+* {{ja-r|対価|たいか}}
+* {{ja-r|高価|こうか}}
+* {{ja-r|原価|げんか}}
+* {{ja-r|代価|だいか}}
+* {{ja-r|物価|ぶっか}}
+* {{ja-r|安価|あんか}}
+* {{ja-r|減価|げんか}}
+* {{ja-r|廉価|れんか}}
+* {{ja-r|減価償却|げんかしょうきゃく}}
+{{mid3}}
+* {{ja-r|評価勘定|ひょうかかんじょう}}
+* {{ja-r|等価|とうか}}
+* {{ja-r|紙価|しか}}
+* {{ja-r|年金終価率|ねんきんしゅうかりつ}}
+* {{ja-r|真価|しんか}}
+* {{ja-r|原価管理|げんかかんり}}
+* {{ja-r|減価償却費|げんかしょうきゃくひ}}
+* {{ja-r|評価性引当金|ひょうかせいひきあてきん}}
+* {{ja-r|行為無価値論|こういむかちろん}}
+* {{ja-r|結果無価値論|けっかむかちろん}}
+* {{ja-r|複利終価率|ふくりしゅうかりつ}}
+{{mid3}}
+* {{ja-r|薬価|やっか}}
+* {{ja-r|現価|げんか}}
+* {{ja-r|増価|ぞうか}}
+* {{ja-r|地価|ちか}}
+* {{ja-r|予価|よか}}
+* {{ja-r|複利年金現価率|ふくりねんきんげんかりつ}}
+* {{ja-r|複利現価率|ふくりげんかりつ}}
+* {{ja-r|米価|べいか}}
+* {{ja-r|無価値|むかち}}
+{{bottom}}
+
+===Noun===
+{{ja-noun|あたい}}
+
+# [[price]]
+# [[value]]
+# {{lb|ja|computers|sort=あたい}} [[variable]]
+# {{lb|ja|mathematics|sort=あたい}} [[value]]
+
+[[fr:価]]
+[[hi:価]]
+[[hu:価]]
+[[mg:価]]
+[[ja:価]]
+[[km:価]]
+[[pl:価]]
+[[th:価]]
+[[vi:価]]
+[[zh:価]]

@@ -1,0 +1,36 @@
+==Chinese==
+{{zh-forms|type=21}}
+
+===Pronunciation===
+{{zh-pron
+|m=不kěbì
+|cat=a
+}}
+
+===Adjective===
+{{zh-adj}}
+
+# [[inevitable]], [[unavoidable]]
+
+----
+
+==Japanese==
+{{ja-kanjitab|ふ|か|ひ|yomi=on}}
+
+===Adjectival noun===
+{{ja-adj|ふかひ|decl=な}}
+
+# [[inevitable]], [[unavoidable]]
+
+====Synonyms====
+* {{sense|inevitable}} {{l|ja|当然|当然の}}, {{l|ja|必至|必至な}}, {{l|ja|必然的|必然的な}}
+* {{sense|unavoidable}} {{l|ja|やむを得ない}}
+
+===Noun===
+{{ja-noun|ふかひ}}
+
+# [[inevitability]], [[unavoidability]]
+
+[[ko:不可避]]
+[[hu:不可避]]
+[[zh:不可避]]
