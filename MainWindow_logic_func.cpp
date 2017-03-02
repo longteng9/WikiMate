@@ -9,6 +9,7 @@
 #include "DictEngine.h"
 #include "Helper.h"
 #include "FragmentManager.h"
+#include <QStandardPaths>
 
 void MainWindow::restoreHistory(){
     QString path = "";
@@ -21,21 +22,23 @@ void MainWindow::restoreHistory(){
     if(file.open(QIODevice::ReadOnly)){
         QJsonParseError error;
         QByteArray data = file.readAll();
-        if (data.isEmpty()){
-            return;
-        }
-        QJsonDocument jsonDocument = QJsonDocument::fromJson(data, &error);
-        if (error.error == QJsonParseError::NoError) {
-            if (jsonDocument.isObject()) {
-                QVariantMap result = jsonDocument.toVariant().toMap();
-                for(auto iter = result.begin(); iter != result.end(); iter++){
-                    Helper::instance()->mWorkingStatusQuo[iter.key()] = iter.value().toString();
+        if (!data.isEmpty()){
+            QJsonDocument jsonDocument = QJsonDocument::fromJson(data, &error);
+            if (error.error == QJsonParseError::NoError) {
+                if (jsonDocument.isObject()) {
+                    QVariantMap result = jsonDocument.toVariant().toMap();
+                    for(auto iter = result.begin(); iter != result.end(); iter++){
+                        Helper::instance()->mWorkingStatusQuo[iter.key()] = iter.value().toString();
+                    }
                 }
+            } else {
+                qDebug() << "failed to parse JSON:" << error.errorString().toUtf8().constData();
+                return;
             }
-        } else {
-            qDebug() << "failed to parse JSON:" << error.errorString().toUtf8().constData();
-            return;
-        }
+        }//if (!data.isEmpty())
+    }//if(file.open(QIODevice::ReadOnly))
+    if(!Helper::instance()->mWorkingStatusQuo.contains("projectDirectory")){
+        Helper::instance()->mWorkingStatusQuo["projectDirectory"] = QStandardPaths::writableLocation(QStandardPaths::DocumentsLocation);;
     }
 }
 

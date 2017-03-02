@@ -43,14 +43,53 @@ void MainWindow::setCurrentFragment(int index){
 }
 
 void MainWindow::showEntriesTableAsync(const QStringList &header){
+    if(!ui->btnNextFrag->isEnabled()){
+        qDebug() << "wait for querying finished";
+        ui->statusLabel->setText("Please wait for querying process finished");
+        return;
+    }
     ui->tableEntries->clear();
     ui->tableEntries->setRowCount(1);
     ui->tableEntries->setColumnCount(header.size());
     ui->tableEntries->setHorizontalHeaderLabels(header);
 
-    qDebug() << "show entries table asynchronously";
-    DictEngine::instance()->fetchEntryPatchAsync(header, "zh", "en");
+    qDebug() << "load entry table asynchronously";
+    DictEngine::instance()->stopQueryAndFetch();
+    mReceivedEntryCount = 0;
+    this->ui->btnNextFrag->setEnabled(false);
+    this->ui->btnPrevFrag->setEnabled(false);
+
+    ui->statusLabel->setText("Loading entry table asynchronously");
     DictEngine::instance()->queryDumpEntryPatchAsync(header, "zh", "en");
+    if(mEnableOnlineDict){
+        DictEngine::instance()->fetchEntryPatchAsync(header, "zh", "en");
+    }
 }
 
+void MainWindow::showTransMemTable(){
+    ui->tabCenter->setCurrentIndex(2);
+    ui->tabLeftSide->setCurrentIndex(2);
+    ui->tabTopTools->setCurrentIndex(2);
+    ui->transMemTable->clear();
+    QMap<QString, QStringList> result = DictEngine::instance()->getAllTransMem();
 
+    int maxCol = 1;
+    for(QString key : result.keys()){
+        if(result[key].length() > maxCol){
+            maxCol = result[key].length();
+        }
+    }
+    maxCol += 1;
+
+    ui->transMemTable->setColumnCount(maxCol);
+    ui->transMemTable->setRowCount(result.keys().length());
+    int row = 0;
+    for(QString key : result.keys()){
+        ui->transMemTable->setItem(row, 0, new QTableWidgetItem(key));
+        QStringList transList = result[key];
+        for(int j = 0; j < transList.size(); j++){
+            ui->transMemTable->setItem(row, 1 + j, new QTableWidgetItem(transList[j]));
+        }
+        row += 1;
+    }
+}

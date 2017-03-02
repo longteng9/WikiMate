@@ -6,9 +6,13 @@
 #include <QTime>
 #include <QApplication>
 #include <QJsonDocument>
+#include <QFileInfo>
+#include <QFile>
 
 static QString wiktionaryDumpDir = "dict/wiktionary/pages_zh/";
 static QString wiktionaryDumpDB = "dict/wiktionary/pages_zh.db";
+
+static QString transMemFilePath = "dict/user_trans_mem.json";
 
 static QString wiktionaryUrl = "https://en.wiktionary.org/wiki/";
 static QString baiduDictUrl = "http://api.fanyi.baidu.com/api/trans/vip/translate";
@@ -31,16 +35,26 @@ void FetchEntryPatchAsync::start(){
 
 void QueryDumpEntryPatchAsync::start(){
     if(obj){
+        qDebug() << words;
         for(QString word : words){
+            bool isDefined = false;
+
             QMap<QString, QString> result = DictEngine::instance()->queryWikiDumpEntry(word);
             if(result["en_entries"] != ""){
                 QString en_entries = result["en_entries"];
                 if(en_entries.contains("|")){
                     QStringList trans = en_entries.split("|", QString::SkipEmptyParts);
                     emit finishOne(word, trans);
+                    isDefined = true;
                 }else if(en_entries.contains(";")){
                     QStringList trans = en_entries.split(";", QString::SkipEmptyParts);
                     emit finishOne(word, trans);
+                    isDefined = true;
+                }else{
+                    QStringList trans;
+                    trans.append(en_entries);
+                    emit finishOne(word, trans);
+                    isDefined = true;
                 }
             }else if(result["en_entries"] == "" && result["redirection"] != ""){
                 QStringList directs = result["redirection"].split("|", QString::SkipEmptyParts);
@@ -56,11 +70,21 @@ void QueryDumpEntryPatchAsync::start(){
                     if(en_entries.contains("|")){
                         QStringList trans = en_entries.split("|", QString::SkipEmptyParts);
                         emit finishOne(word, trans);
+                        isDefined = true;
                     }else if(en_entries.contains(";")){
                         QStringList trans = en_entries.split(";", QString::SkipEmptyParts);
                         emit finishOne(word, trans);
+                        isDefined = true;
+                    }else{
+                        QStringList trans;
+                        trans.append(en_entries);
+                        emit finishOne(word, trans);
+                        isDefined = true;
                     }
                 }
+            }
+            if(!isDefined){
+                emit finishOne(word, QStringList());
             }
         }
     }
@@ -116,8 +140,53 @@ QMap<QString, QString> DictEngine::queryWikiDumpEntry(QString word){
     return result;
 }
 
+QVector<QMap<QString, QString> > DictEngine::queryWikiDumpEntryFuzzy(QString word){
+    QVector<QMap<QString, QString> > result;
+    if(!mDB.isOpen()){
+        if(!mDB.open()){
+            qDebug() <<"failed to open database: " << wiktionaryDumpDB;
+            return result;
+        }
+    }
+
+    QSqlQuery query;
+    if(query.exec(QString("SELECT * from pages_zh WHERE page_title LIKE \"%" + word + "%\""))){
+        while(query.next()){
+            QMap<QString, QString> item;
+            item["page_id"] = query.value("page_id").toString();
+            item["page_title"] = query.value("page_title").toString();
+            item["redirection"] = query.value("redirection").toString();
+            item["en_entries"] = query.value("en_entries").toString();
+            item["tag"] = query.value("tag").toString();
+            result.append(item);
+        }
+    }
+
+    return result;
+}
+
+
+void DictEngine::stopQueryAndFetch(){
+    mLauncher.stopTasks();
+}
+
 QString DictEngine::fetchWikiPage(QString word){
     return QString();
+}
+
+QString DictEngine::queryWikiPageById(QString pageId){
+    QString path = wiktionaryDumpDir + pageId + ".wiki";
+    QFileInfo info(path);
+    if(!info.exists()){
+        return "";
+    }
+    QFile file(path);
+    if(!file.open(QIODevice::ReadOnly | QIODevice::Text)){
+        return "";
+    }
+    QByteArray bytes = file.readAll();
+    QString result = bytes;
+    return result;
 }
 
 QStringList DictEngine::fetchEntry(QString word,
@@ -216,3 +285,111 @@ void DictEngine::parseResponseMessage(const QString &message, QString *word, QSt
     }
 }
 
+/*
+Trans-Mem file JSON format:
+{
+    "trans-mems":[
+        {
+            "word": "something",
+            "defines": "abcd/#/abcd/#/abcd"
+        },{...}
+    ]
+}
+*/
+void DictEngine::insertTransMem(const QString& word, const QString& define){
+    if(word.isEmpty() || define.isEmpty()){
+        return;
+    }
+    QFile transMemFile(transMemFilePath);
+    if(!transMemFile.open(QIODevice::ReadWrite | QIODevice::Text)){
+        qDebug() << "failed to open file: " << transMemFilePath;
+        return;
+    }
+    QJsonParseError error;
+    QByteArray data = transMemFile.readAll();
+    transMemFile.close();
+    if(data.isEmpty()){
+        data = QString("{\"trans-mems\":[]}").toUtf8();
+    }
+
+    QJsonDocument jsonDocument = QJsonDocument::fromJson(data, &error);
+    QJsonObject root = jsonDocument.object();
+    if (root.contains("trans-mems")){
+        QJsonArray transMems = root.take("trans-mems").toArray();
+        int size = transMems.size();
+        bool updated = false;
+        for(int i = 0; i < size; i++){
+            if(transMems.at(i).toObject().value("word").toString() == word){
+                updated = true;
+                QJsonObject item = transMems.at(i).toObject();
+                item["defines"] = item["defines"].toString() + "/#/" + define;
+                transMems.removeAt(i);
+                transMems.append(item);
+                break;
+            }
+        }
+        if(!updated){
+            QJsonObject item{{"word", word}, {"defines", define}};
+            transMems.append(item);
+        }
+        root["trans-mems"] = transMems;
+    }
+
+    QFile file2(transMemFilePath);
+    if(!file2.open(QIODevice::WriteOnly | QIODevice::Text)){
+        qDebug() << "Failed to open file: " << transMemFilePath;
+        return;
+    }
+
+    jsonDocument.setObject(root);
+    QByteArray bytes = jsonDocument.toJson(QJsonDocument::Indented);
+    file2.write(bytes);
+    file2.close();
+}
+
+QMap<QString, QStringList> DictEngine::getAllTransMem(){
+    QMap<QString, QStringList> result;
+    QFile transMemFile(transMemFilePath);
+    if(!transMemFile.open(QIODevice::ReadWrite | QIODevice::Text)){
+        qDebug() << "failed to open file: " << transMemFilePath;
+        return result;
+    }
+    QJsonParseError error;
+    QByteArray data = transMemFile.readAll();
+    transMemFile.close();
+    if(data.isEmpty()){
+        return result;
+    }
+
+    QJsonDocument jsonDocument = QJsonDocument::fromJson(data, &error);
+    QJsonObject root = jsonDocument.object();
+    if (root.contains("trans-mems")){
+        QJsonArray transMems = root.take("trans-mems").toArray();
+        QJsonObject item;
+        int size = transMems.size();
+        for(int i = 0; i < size; i++){
+            item = transMems.at(i).toObject();
+            result.insert(item["word"].toString(), item["defines"].toString().split("/#/", QString::KeepEmptyParts));
+        }
+    }
+    return result;
+}
+
+void DictEngine::eraseTransMem(const QString& word){
+
+}
+
+void DictEngine::eraseTransMemAll(){
+    QFileInfo info(transMemFilePath);
+    if(!info.exists()){
+        return;
+    }
+    QFile file(transMemFilePath);
+    if(!file.open(QIODevice::WriteOnly | QIODevice::Text)){
+        qDebug() << "failed to open user trans-mem file:" << transMemFilePath;
+        return;
+    }
+    file.write(QString("{\"trans-mems\": []}").toUtf8());
+    file.close();
+    qDebug() << "erase all items in trans-mem:"<<transMemFilePath;
+}

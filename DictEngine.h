@@ -6,6 +6,7 @@
 #include <QMap>
 #include <QStringList>
 #include <QString>
+#include <QVector>
 #include <QThread>
 #include "Request.h"
 #include "Launcher.h"
@@ -71,7 +72,15 @@ public:
                          QString from,
                          QString to);
     QMap<QString, QString> queryWikiDumpEntry(QString word);
+    QVector<QMap<QString, QString> > queryWikiDumpEntryFuzzy(QString word);
     QString fetchWikiPage(QString word);
+    QString queryWikiPageById(QString pageId);
+
+    void eraseTransMem(const QString& word);
+    void eraseTransMemAll();
+    void insertTransMem(const QString& word, const QString& define);
+    QMap<QString, QStringList> getAllTransMem();
+    void stopQueryAndFetch();
 
 public slots:
     void on_requestFinished(QString word, QStringList trans_list);

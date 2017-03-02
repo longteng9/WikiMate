@@ -51,7 +51,7 @@ void Helper::scanFolder(const QString& path, QStringList *result, bool recur){
                     path = path.append('/');
                 }
                 result->append(path);
-                qDebug() << path;
+                //qDebug() << path;
             }
         }else{
             result->append(info.absoluteFilePath());
@@ -99,7 +99,7 @@ QVector<QStringList> Helper::getWorkingFiles(const QString& dirPath){
             QStringList data;
             for (int i = 0; i < size; i++) {
                 data.clear();
-                data.append(":/static/question.png");
+                data.append(":/static/file-icon-green.png");
                 QJsonObject item = tasks.at(i).toObject();
                 data.append(item.take("filename").toString());
                 data.append(item.take("words").toString());
@@ -166,7 +166,9 @@ void Helper::refreshWorkingDir(QString dirPath){
             for(auto iter = list.begin(); iter != list.end(); iter++){
                 QFileInfo info(*iter);
                 if (info.fileName() == "project.meta"
-                        || info.fileName().endsWith(".wmtmp")){
+                        || info.fileName().endsWith(".wmtmp")
+                        || info.fileName().startsWith("[EN]")
+                        || !info.fileName().endsWith(".txt")){
                     continue;
                 }
                 bool existing = false;

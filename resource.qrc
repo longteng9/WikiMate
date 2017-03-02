@@ -26,5 +26,12 @@
         <file>static/loading_steps.gif</file>
         <file>static/reload.gif</file>
         <file>static/loading_squares.gif</file>
+        <file>static/dictionary-icon.png</file>
+        <file>static/editor-icon.png</file>
+        <file>static/file-icon-green.jpg</file>
+        <file>static/folder-icon.png</file>
+        <file>static/folder-icon2.png</file>
+        <file>static/shield-ok-icon.png</file>
+        <file>static/task-icon.ico</file>
     </qresource>
 </RCC>

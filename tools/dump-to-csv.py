@@ -9,11 +9,11 @@ class ImportData:
         self.page_dir = page_dir
         self.total_count = 0
         self.zh_count = 0
-        self.start_import()
+        self.start_convert()
         print("total count:", self.total_count)
         print("chinese count:", self.zh_count)
         
-    def start_import(self):
+    def start_convert(self):
         try:
             file_index = codecs.open(self.index_filename, 'r', 'utf-8')
             file_csv = codecs.open("import.csv", 'a', 'utf-8')
@@ -70,9 +70,9 @@ class ImportData:
                 pos = zh_section.index("{{zh-see|") + 9
                 end = zh_section.index("}}", pos)
                 if redirection:
-                    redirection += zh_section[pos: end]
-                else:
                     redirection += "|" + zh_section[pos: end]
+                else:
+                    redirection += zh_section[pos: end]
             
             if redirection:
                 tmp = list(set(redirection.split("|")))

@@ -6,6 +6,18 @@ Launcher::Launcher(QObject *parent)
 
 }
 
+Launcher::~Launcher(){
+    if(isRunning()){
+        stopTasks();
+    }
+}
+
+void Launcher::stopTasks(){
+    mQuenedTasks.clear();
+    terminate();
+    wait();
+}
+
 void Launcher::asyncRun(QObject* worker, const char* funcName,
                      QGenericArgument val0,
                      QGenericArgument val1,

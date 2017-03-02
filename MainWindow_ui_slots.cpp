@@ -8,6 +8,8 @@
 #include "FragmentManager.h"
 #include "FileTableModel.h"
 #include "FileTableView.h"
+#include "DictEngine.h"
+#include <QDesktopServices>
 
 void MainWindow::on_lstMenu_currentItemChanged(QListWidgetItem *current, QListWidgetItem *previous)
 {
@@ -25,9 +27,7 @@ void MainWindow::on_lstMenu_currentItemChanged(QListWidgetItem *current, QListWi
         ui->tabTopTools->setCurrentIndex(1);
         ui->tabWidget->setCurrentIndex(0);
     }else if(current->text() == "Trans-Mem"){
-        ui->tabCenter->setCurrentIndex(2);
-        ui->tabLeftSide->setCurrentIndex(2);
-        ui->tabTopTools->setCurrentIndex(2);
+        showTransMemTable();
     }
 }
 
@@ -74,13 +74,16 @@ void MainWindow::on_btnRefreshTasks_clicked()
 void MainWindow::on_btnStartTask_clicked()
 {
     if(ui->tbvFiles->currentIndex().row() >= 0){
-        ui->statusLabel->setText("Building fragment map, please wait...");
-        this->mMessageForm->show();
         QString fileName = ui->tbvFiles->tableModel()->index(ui->tbvFiles->currentIndex().row(), 1).data().toString();
         QString path = Helper::instance()->pathJoin(Helper::instance()->mProjectDirectory, fileName);
-        qDebug() << "start task:" << path;
-
+        QFileInfo info(path);
+        if(!info.isFile() || !info.exists()){
+            return;
+        }
         if(FragmentManager::instance()->mSourceFilePath != path){
+            qDebug() << "start task:" << path;
+            this->mMessageForm->show();
+            ui->statusLabel->setText("Building fragment map, please wait...");
             FragmentManager::instance()->mSourceFilePath = path;
             qDebug() << "start async build fragments";
             ui->lstMenu->setCurrentRow(1);
@@ -93,7 +96,7 @@ void MainWindow::on_btnStartTask_clicked()
             connect(worker, &AsyncBuildFragment::finished, worker, &AsyncBuildFragment::deleteLater, Qt::QueuedConnection);
             connect(worker, &AsyncBuildFragment::finished, this, &MainWindow::on_buildFragmentFinished, Qt::QueuedConnection);
             mLauncher->asyncRun(worker, "start");
-            mMessageForm->setText("Processing source file, just a moment... ");
+            mMessageForm->setTitle("Processing source file, just a moment... ");
             mMessageForm->show();
         }
     }
@@ -104,7 +107,11 @@ void MainWindow::on_btnExportTask_clicked()
     if(ui->tbvFiles->currentIndex().row() >= 0){
         QString fileName = ui->tbvFiles->tableModel()->index(ui->tbvFiles->currentIndex().row(), 1).data().toString();
         QString path = Helper::instance()->pathJoin(Helper::instance()->mProjectDirectory, fileName);
-        qDebug() << path;
+        QFileInfo info(path);
+        if(!info.isFile() || !info.exists()){
+            return;
+        }
+        //FragmentManager::instance()->exportTrans();
     }
 }
 
@@ -134,22 +141,7 @@ void MainWindow::on_txtOriginal_cursorPositionChanged()
 
 void MainWindow::on_txtOriginal_selectionChanged()
 {
-    QString selected = ui->txtOriginal->textCursor().selectedText();
-    if(selected.isEmpty()){
-        return;
-    }
-
-    qDebug() << "select:" << selected;
-    qDebug() << FragmentManager::instance()->retrieveWord(selected);
-}
-
-
-void MainWindow::on_btnSaveTransMem_clicked()
-{
-    QStringList headers;
-    QStringList rows;
-    QStringList prev_list;
-
+    mOriginSelection = ui->txtOriginal->textCursor().selectedText();
 }
 
 void MainWindow::on_btnNextFrag_clicked()
@@ -175,25 +167,125 @@ void MainWindow::on_btnSaveFrag_clicked()
     FragmentManager::instance()->updateFragmentTrans(ui->txtTrans->toPlainText());
 }
 
-void MainWindow::on_btnCommitTMs_clicked()
+void MainWindow::on_btnToggleOD_clicked()
+{
+    mEnableOnlineDict = !mEnableOnlineDict;
+    if(mEnableOnlineDict){
+        ui->btnToggleOD->setText("Disable OD");
+    }else{
+        ui->btnToggleOD->setText("Enable OD");
+    }
+}
+
+void MainWindow::on_btnRefreshEntries_clicked()
 {
     FragmentManager::instance()->reloadJiebaDict();
     FragmentManager::instance()->rebuildCurrentFragment();
     showEntriesTableAsync(FragmentManager::instance()->currentFragmentWords());
 }
 
-void MainWindow::on_txtOriginal_customContextMenuRequested(const QPoint &pos)
-{
-    QMenu* menu = ui->txtOriginal->createStandardContextMenu();
-    menu->addAction("Add Trans-Mem");
-    menu->exec(pos);
-    connect(menu, &QMenu::triggered, [this](QAction* action){
-        qDebug() << "clicked on:" << action->text();
-    });
-}
-
 void MainWindow::on_tableEntries_itemChanged(QTableWidgetItem *item)
 {
-
+    if(ui->btnNextFrag->isEnabled() && ui->tableEntries->editTriggers() != QAbstractItemView::NoEditTriggers){
+        QString word = ui->tableEntries->horizontalHeaderItem(item->column())->text();
+        qDebug() << "edit entry " << word<< ": "<< item->text();
+        DictEngine::instance()->insertTransMem(word, item->text());
+    }
 }
 
+void MainWindow::on_editKeyword_returnPressed()
+{
+    QVector<QMap<QString, QString> > result = DictEngine::instance()->queryWikiDumpEntryFuzzy(ui->editKeyword->text());
+    if(result.isEmpty()){
+        ui->lstIndex->insertItem(0, "No Wiki Entry");
+        return;
+    }
+    ui->lstIndex->clear();
+
+    for(int i = 0; i < result.length(); i++){
+        QListWidgetItem * item = new QListWidgetItem;
+        item->setSizeHint(QSize(60, 30));  //每次改变Item的高度
+        item->setText(result[i]["page_title"] + "/" + result[i]["page_id"]);
+        ui->lstIndex->addItem(item);
+    }
+    ui->lstIndex->setFocus();
+}
+
+void MainWindow::on_lstIndex_itemPressed(QListWidgetItem *item)
+{
+    QStringList tmp = item->text().split("/", QString::KeepEmptyParts);
+    if(tmp.size() > 1){
+        QString page_id = tmp[tmp.size()-1];
+        QString wikiPage = DictEngine::instance()->queryWikiPageById(page_id);
+        if(wikiPage != ""){
+            ui->txtWikiPage->setText(wikiPage);
+            ui->tabWidget->setCurrentIndex(1);
+        }
+    }
+}
+
+void MainWindow::on_lstIndex_itemClicked(QListWidgetItem *item)
+{
+    on_lstIndex_itemPressed(item);
+}
+
+void MainWindow::on_btnExport_clicked()
+{
+    QString content = FragmentManager::instance()->getExportContent();
+    ui->txtExportPreview->setText(content);
+    ui->tabWidget->setCurrentIndex(2);
+}
+
+void MainWindow::on_btnWikiOnline_clicked()
+{
+    QDesktopServices::openUrl(QUrl("https://en.wiktionary.org/"));
+}
+
+void MainWindow::on_btnEraseTransMem_clicked()
+{
+    DictEngine::instance()->eraseTransMemAll();
+}
+
+void MainWindow::on_btnEntryTableEditToggle_clicked()
+{
+    if(ui->tableEntries->editTriggers() != QAbstractItemView::NoEditTriggers){
+        ui->tableEntries->setEditTriggers(QAbstractItemView::NoEditTriggers);
+        ui->btnEntryTableEditToggle->setText("Enable Edit Entries");
+    }else{
+        ui->tableEntries->setEditTriggers(QAbstractItemView::DoubleClicked | QAbstractItemView::EditKeyPressed);
+        ui->btnEntryTableEditToggle->setText("Disable Edit Entries");
+    }
+}
+
+void MainWindow::on_btnConfirmExport_clicked()
+{
+    QString confirmedContent = ui->txtExportPreview->toPlainText();
+
+    QStringList tmp = FragmentManager::instance()->mSourceFilePath.replace("\\", "/").split("/");
+    tmp[tmp.length() - 1] = "[EN]" + tmp[tmp.length()-1];
+    QString newPath = "";
+    for(int i = 0; i < tmp.size(); i++){
+        newPath += tmp[i] + "/";
+
+    }
+    newPath = newPath.mid(0, newPath.length() - 1);
+
+    QFile file(newPath);
+    if(!file.open(QIODevice::WriteOnly | QIODevice::Text)){
+        qDebug() << "failed to open file: " << newPath;
+        return;
+    }
+    file.write(confirmedContent.toUtf8());
+    file.close();
+    qDebug() << "exported task: " << FragmentManager::instance()->mSourceFilePath;
+    qDebug() << "to dest path: " << newPath;
+    ui->statusLabel->setText(QString("succeed to export: ") + newPath);
+}
+
+void MainWindow::on_tableEntries_currentItemChanged(QTableWidgetItem *current, QTableWidgetItem *previous)
+{
+    if(current != NULL){
+        QString entryContent = current->text();
+        ui->txtEntryEnlargeView->setText(entryContent);
+    }
+}

@@ -59,6 +59,7 @@ public:
     void updateFragmentTrans(const QString& trans);
     void reloadJiebaDict();
     void rebuildCurrentFragment();
+    QString getExportContent();
 
 signals:
 

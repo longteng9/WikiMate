@@ -18,7 +18,7 @@ void FileItemDelegate::paint(QPainter *painter,
         painter->save();
         QPixmap pic(index.model()->data(index).toString());
         if(pic.isNull()){
-            pic = QPixmap(":/static/question.png");
+            pic = QPixmap(":/static/file-icon-green.jpg");
         }
         pic = pic.scaled(option.rect.height() - 4, option.rect.height() - 4,  Qt::KeepAspectRatioByExpanding);
         int width = pic.width();
