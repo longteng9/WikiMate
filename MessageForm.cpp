@@ -49,10 +49,9 @@ void MessageForm::playAnimation(){
 
 void MessageForm::createAndShowAs(Role role, const QString &word){
     if(role == Role::AddTransMem){
-        MessageForm *form = new MessageForm;
+        static MessageForm *form = new MessageForm;
 
         form->ui->tabWidget->setCurrentIndex(1);
-        form->setWindowOpacity(1);
         form->ui->labTitle->setText("Add Translation Memory");
         form->ui->labTransMemForWord->setText(word);
         form->ui->transMemEdit->clear();
@@ -63,19 +62,16 @@ void MessageForm::createAndShowAs(Role role, const QString &word){
 
 void MessageForm::createAndShowAs(Role role, QObject *caller){
     if(role == Role::LoadingForm){
-        MessageForm *form = new MessageForm;
+        static MessageForm *form = new MessageForm;
         form->ui->tabWidget->setCurrentIndex(0);
-        form->setWindowOpacity(0.85);
         QMovie *movie = new QMovie(":/static/loading_line.gif");
         movie->setScaledSize(QSize(418,216));
         movie->start();
         form->ui->label->setMovie(movie);
         form->ui->labTitle->setText("Processing, just a moment...");
-
         connect((MainWindow*)caller, &MainWindow::closeLoadingForm, [form](){
-            form->deleteLater();
+            form->hide();
         });
-
         form->show();
     }
 }
@@ -85,23 +81,22 @@ void MessageForm::createAndShowAs(Role role,
                     const QString &message,
                     std::function<void(bool)> callback){
     if(role == Role::QueryDialogForm){
-        MessageForm *form = new MessageForm;
+        static MessageForm *form = new MessageForm;
         form->ui->tabWidget->setCurrentIndex(2);
-        form->setWindowOpacity(1);
         form->setTitle(title);
         form->ui->labDialogMain->setText(message);
-        connect(form->ui->btnDialogNO, &QPushButton::clicked, [form, callback](){
-            callback(false);
-            form->deleteLater();
-        });
-        connect(form->ui->btnDialogOK, &QPushButton::clicked, [form, callback](){
-            callback(true);
-            form->deleteLater();
-        });
         QMovie *movie = new QMovie(":/static/loading_cube.gif");
         movie->setScaledSize(QSize(71, 71));
         movie->start();
         form->ui->labDialogLeft->setMovie(movie);
+        connect(form->ui->btnDialogNO, &QPushButton::clicked, [form, callback](){
+            callback(false);
+            form->hide();
+        });
+        connect(form->ui->btnDialogOK, &QPushButton::clicked, [form, callback](){
+            callback(true);
+            form->hide();
+        });
         form->show();
     }
 }
@@ -132,10 +127,10 @@ void MessageForm::on_btnExport_clicked()
             DictEngine::instance()->insertTransMem(ui->labTransMemForWord->text(), line.trimmed());
         }
     }
-    this->deleteLater();
+    this->hide();
 }
 
 void MessageForm::on_btnClose_clicked()
 {
-    this->deleteLater();
+    this->hide();
 }

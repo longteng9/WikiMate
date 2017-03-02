@@ -13,6 +13,9 @@
   <property name="windowTitle">
    <string>Form</string>
   </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(255, 255, 255);</string>
+  </property>
   <layout class="QVBoxLayout" name="verticalLayout">
    <property name="spacing">
     <number>0</number>
@@ -105,6 +108,9 @@ QPushButton:pressed{
    </item>
    <item>
     <widget class="QTabWidget" name="tabWidget">
+     <property name="styleSheet">
+      <string notr="true">background-color: rgb(255, 255, 255);</string>
+     </property>
      <property name="currentIndex">
       <number>2</number>
      </property>
@@ -358,7 +364,7 @@ QPushButton:pressed{
            <property name="minimumSize">
             <size>
              <width>80</width>
-             <height>40</height>
+             <height>30</height>
             </size>
            </property>
            <property name="styleSheet">
@@ -411,7 +417,7 @@ QPushButton:pressed{
            <property name="minimumSize">
             <size>
              <width>80</width>
-             <height>40</height>
+             <height>30</height>
             </size>
            </property>
            <property name="styleSheet">
