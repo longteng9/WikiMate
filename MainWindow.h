@@ -32,7 +32,7 @@ public:
     bool eventFilter(QObject *watched, QEvent *event);
 
 signals:
-
+    void closeLoadingForm();
 
 public slots:
     void on_btnRefreshTasks_clicked();
@@ -98,7 +98,6 @@ private:
     QString mOriginSelection = "";
     Ui::MainWindow *ui;
     Launcher *mLauncher;
-    MessageForm *mMessageForm;
     bool mEnableOnlineDict = false;
     int mReceivedEntryCount = 0;
 };

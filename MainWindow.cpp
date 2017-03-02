@@ -31,7 +31,6 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     ui->setupUi(this);
     mLauncher = new Launcher;
-    mMessageForm = new MessageForm;
 
     qDebug() << "ui thread:" << QThread::currentThreadId();
     restoreHistory();
@@ -66,9 +65,6 @@ MainWindow::~MainWindow()
     delete ui;
     if(mLauncher!=NULL){
         delete mLauncher;
-    }
-    if(mMessageForm != NULL){
-        delete mMessageForm;
     }
 }
 
@@ -140,7 +136,7 @@ bool MainWindow::eventFilter(QObject *watched, QEvent *event){
             if(key == Qt::Key_A){
                 if(mOriginSelection != ""){
                     qDebug() << "show form";
-                    mMessageForm->showAs(MessageForm::Role::AddTransMem, mOriginSelection);
+                    MessageForm::createAndShowAs(MessageForm::Role::AddTransMem, mOriginSelection);
                 }
                 return true;
             }

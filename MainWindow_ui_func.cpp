@@ -39,7 +39,7 @@ void MainWindow::setCurrentFragment(int index){
         ui->tableEntries->setFocus(Qt::MouseFocusReason);
     }
 
-    this->mMessageForm->hide();
+    emit closeLoadingForm();
 }
 
 void MainWindow::showEntriesTableAsync(const QStringList &header){

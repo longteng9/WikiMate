@@ -6,6 +6,7 @@
 #include <QMouseEvent>
 #include <QDebug>
 #include <QThread>
+#include <functional>
 
 namespace Ui {
 class MessageForm;
@@ -62,11 +63,17 @@ class MessageForm : public QWidget
 public:
     enum class Role{
         LoadingForm,
-        AddTransMem
+        AddTransMem,
+        QueryDialogForm
     };
     explicit MessageForm(QWidget *parent = 0);
     void setTitle(const QString &text);
-    void showAs(Role role, const QString &word);
+    static void createAndShowAs(Role role, const QString &word);
+    static void createAndShowAs(Role role, QObject* caller);
+    static void createAndShowAs(Role role,
+                                const QString &title,
+                                const QString &message,
+                                std::function<void(bool)> callback);
 
     bool eventFilter(QObject *watched, QEvent *event);
 
@@ -75,7 +82,7 @@ signals:
 public slots:
 
 protected:
-    void initWaitingForm();
+    void playAnimation();
 
 private slots:
     void on_btnExport_clicked();

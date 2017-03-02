@@ -8,6 +8,7 @@
 #include <QMessageBox>
 #include "MainWindow.h"
 #include "Helper.h"
+#include "MessageForm.h"
 
 FileTableView::FileTableView(QWidget *parent) :
     QTableView(parent),
@@ -88,16 +89,26 @@ void FileTableView::onCreateContextMenu(const QPoint &point){
 void FileTableView::onDoubleClicked(const QModelIndex &index){
     QString format = mModel->index(index.row(), 6).data().toString();
     if(format != "UTF-8"){
-        int result = QMessageBox::warning(NULL,
+        /*int result = QMessageBox::warning(NULL,
                              "Warning",
                              "This file isn't encoded in UTF-8,\nthere might be a problem to decode this file as UTF-8,\ndo you wanna try?",
                              QMessageBox::Yes,
                              QMessageBox::No);
         if(result == QMessageBox::No){
             return;
-        }
+        }*/
+        MessageForm::createAndShowAs(MessageForm::Role::QueryDialogForm,
+                                     "Notice", "Current file:\n"
+                                     + mModel->index(index.row(), 1).data().toString()
+                                     + "\n\ndoes not encoded in UTF-8, there might not be able to decode this file correctly.\nDo you want to try, anyway?",
+                                     [this](bool positive){
+            if(positive){
+                emit this->startTransEditing();
+            }
+        });
+    }else{
+        emit startTransEditing();
     }
-    emit startTransEditing();
 }
 
 void FileTableView::act_startTask(){

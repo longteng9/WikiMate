@@ -82,8 +82,6 @@ void MainWindow::on_btnStartTask_clicked()
         }
         if(FragmentManager::instance()->mSourceFilePath != path){
             qDebug() << "start task:" << path;
-            this->mMessageForm->show();
-            ui->statusLabel->setText("Building fragment map, please wait...");
             FragmentManager::instance()->mSourceFilePath = path;
             qDebug() << "start async build fragments";
             ui->lstMenu->setCurrentRow(1);
@@ -96,8 +94,8 @@ void MainWindow::on_btnStartTask_clicked()
             connect(worker, &AsyncBuildFragment::finished, worker, &AsyncBuildFragment::deleteLater, Qt::QueuedConnection);
             connect(worker, &AsyncBuildFragment::finished, this, &MainWindow::on_buildFragmentFinished, Qt::QueuedConnection);
             mLauncher->asyncRun(worker, "start");
-            mMessageForm->setTitle("Processing source file, just a moment... ");
-            mMessageForm->show();
+
+            MessageForm::createAndShowAs(MessageForm::Role::LoadingForm, this);
         }
     }
 }
