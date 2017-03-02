@@ -6,6 +6,7 @@
 #include <QThread>
 #include <QMessageBox>
 #include <QProcess>
+#include <QMap>
 
 /*
 记录文件的格式：
@@ -77,6 +78,7 @@ private:
 public:
     QVector<QStringList> mFragmentWordList;
     QStringList mFragmentList;
+    QMap<int, int> mFragmentIdToParagraphIdMap;
     QStringList mFragmentTransList;
     int mCurrentIndex = 0;
     QString mSourceFilePath = "";

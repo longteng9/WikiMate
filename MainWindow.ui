@@ -59,7 +59,7 @@
          <string notr="true">border-color: rgba(255, 255, 255, 0);</string>
         </property>
         <property name="currentIndex">
-         <number>1</number>
+         <number>0</number>
         </property>
         <property name="tabBarAutoHide">
          <bool>true</bool>
@@ -448,14 +448,31 @@ QPushButton:pressed{
            </layout>
           </item>
           <item>
-           <widget class="QTextEdit" name="txtEntryEnlargeView">
-            <property name="styleSheet">
-             <string notr="true">font: 11pt &quot;Microsoft YaHei&quot;;</string>
+           <layout class="QVBoxLayout" name="verticalLayout_16">
+            <property name="spacing">
+             <number>0</number>
             </property>
-            <property name="readOnly">
-             <bool>true</bool>
-            </property>
-           </widget>
+            <item>
+             <widget class="QTextEdit" name="txtEntryEnlargeView">
+              <property name="styleSheet">
+               <string notr="true">font: 11pt &quot;Microsoft YaHei&quot;;</string>
+              </property>
+              <property name="readOnly">
+               <bool>true</bool>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QLabel" name="labEditorTopNotice">
+              <property name="styleSheet">
+               <string notr="true">font: 10pt &quot;Microsoft YaHei&quot;;</string>
+              </property>
+              <property name="text">
+               <string>Press 'Enter' to insert...</string>
+              </property>
+             </widget>
+            </item>
+           </layout>
           </item>
           <item>
            <layout class="QVBoxLayout" name="verticalLayout_14">
@@ -866,7 +883,7 @@ QListView::item {
             <item>
              <widget class="FileTableView" name="tbvFiles">
               <property name="styleSheet">
-               <string notr="true">font: 10pt &quot;Verdana&quot;;
+               <string notr="true">font: 11pt &quot;Microsoft YaHei&quot;;
 selection-background-color:rgb(37, 156, 247);
 </string>
               </property>

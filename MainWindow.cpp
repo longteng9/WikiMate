@@ -40,6 +40,7 @@ MainWindow::MainWindow(QWidget *parent) :
     if(Helper::instance()->mWorkingStatusQuo.contains("projectDirectory")){
         Helper::instance()->mProjectDirectory = Helper::instance()->mWorkingStatusQuo["projectDirectory"];
         this->setWindowTitle("WikiMate @ " + Helper::instance()->mProjectDirectory);
+        ui->statusLabel->setText("Project folder: " + Helper::instance()->mProjectDirectory);
         Helper::instance()->refreshWorkingDir(Helper::instance()->mWorkingStatusQuo["projectDirectory"]);
         QVector<QStringList> files = Helper::instance()->getWorkingFiles(Helper::instance()->mWorkingStatusQuo["projectDirectory"]);
         updateFileList(files);

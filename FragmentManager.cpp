@@ -74,21 +74,29 @@ void FragmentManager::buildFragments(const QString &path){
     QString content = in.readAll();
     file.close();
 
-    int pre = 0;
-    int pos = content.indexOf(QRegExp("\u3002|\uff01|\uff1f"), pre);
+
 
     // 构建mFragmentList
-    while (pos >= 0){
-        QString frag = content.mid(pre, pos - pre + 1).trimmed();
-        // frag = frag.replace("\n", "");
-        mFragmentList.append(frag);
-        pre = pos + 1;
-        pos = content.indexOf(QRegExp("\u3002|\uff01|\uff1f"), pre);
-    }
-    if(!content.endsWith("\u3002") // 。
-            && !content.endsWith("\uff01") //！
-            && !content.endsWith("\uff1f")){ // ？
-        mFragmentList.append(content.mid(pre));
+
+    QStringList paragraphList = content.split("\n", QString::SkipEmptyParts);
+    for(int paragraphId = 0; paragraphId < paragraphList.length(); paragraphId++){
+        QString paragraph = paragraphList[paragraphId];
+        int pre = 0;
+        int pos = paragraph.indexOf(QRegExp("\u3002|\uff01|\uff1f"), pre);
+        while (pos >= 0){
+            QString frag = paragraph.mid(pre, pos - pre + 1).trimmed();
+            // frag = frag.replace("\n", "");
+            mFragmentList.append(frag);
+            mFragmentIdToParagraphIdMap[mFragmentList.length() - 1] = paragraphId;
+            pre = pos + 1;
+            pos = paragraph.indexOf(QRegExp("\u3002|\uff01|\uff1f"), pre);
+        }
+        if(!paragraph.endsWith("\u3002") // 。
+                && !paragraph.endsWith("\uff01") //！
+                && !paragraph.endsWith("\uff1f")){ // ？
+            mFragmentList.append(paragraph.mid(pre));
+            mFragmentIdToParagraphIdMap[mFragmentList.length() - 1] = paragraphId;
+        }
     }
 
     // 构建mFragmentTransList
@@ -161,9 +169,11 @@ void FragmentManager::loadRecords(const QString &path){
     mFragmentList.clear();
     mFragmentTransList.clear();
     mFragmentWordList.clear();
+    mFragmentIdToParagraphIdMap.clear();
     QFile file(path);
     if(!file.open(QIODevice::ReadOnly | QFile::Text)){
         qDebug() << "failed to open .wmtmp file";
+        buildFragments(path.mid(0, path.length() - 6));
         return;
     }
     QString error;
@@ -186,6 +196,8 @@ void FragmentManager::loadRecords(const QString &path){
             QDomElement fragment = node.toElement();
             QDomNodeList list = fragment.childNodes();
             int id = fragment.attribute("id").toInt();
+            int paragraphId = fragment.attribute("paragraphId").toInt();
+            mFragmentIdToParagraphIdMap[id] = paragraphId;
 
             bool hasTrans = false;
             for(int i = 0; i < list.count(); i++){
@@ -221,11 +233,13 @@ void FragmentManager::flushRecords(){
     for(int i = 0; i < mFragmentList.length(); i++){
         QDomElement fragment = doc.createElement("fragment");
         QDomAttr attr_id = doc.createAttribute("id");
+        QDomAttr attr_paragraphId = doc.createAttribute("paragraphId");
         QDomElement text = doc.createElement("text");
         QDomElement trans = doc.createElement("trans");
         QDomElement words = doc.createElement("words");
 
         attr_id.setValue(QString::number(i));
+        attr_paragraphId.setValue(QString::number(mFragmentIdToParagraphIdMap[i]));
         text.appendChild(doc.createTextNode(mFragmentList[i]));
         if(mFragmentTransList[i] != ""){
             trans.appendChild(doc.createTextNode(mFragmentTransList[i]));
@@ -235,6 +249,7 @@ void FragmentManager::flushRecords(){
         fragment.appendChild(text);
         fragment.appendChild(words);
         fragment.setAttributeNode(attr_id);
+        fragment.setAttributeNode(attr_paragraphId);
         root.appendChild(fragment);
     }
     doc.appendChild(root);
@@ -304,35 +319,20 @@ void FragmentManager::rebuildCurrentFragment(){
 }
 
 QString FragmentManager::getExportContent(){
-    /*QStringList tmp = mSourceFilePath.replace("\\", "/").split("/");
-    tmp[tmp.length() - 1] = "[EN]" + tmp[tmp.length()-1];
-
-    QString newPath = "";
-    for(int i = 0; i < tmp.size(); i++){
-        newPath += tmp[i] + "/";
-
-    }
-
-    newPath = newPath.mid(0, newPath.length() - 1);*/
     QString content = "";
 
+    int prevParagraphId = 0;
     for(int i = 0; i < mFragmentTransList.length(); i++){
         if(mFragmentTransList[i].isEmpty()){
-            content += mFragmentList[i] + "\n";
+            content += mFragmentList[i];
         }else{
-            content += mFragmentTransList[i] + "\n";
+            content += mFragmentTransList[i];
+        }
+        if(mFragmentIdToParagraphIdMap.size() <= i
+                || mFragmentIdToParagraphIdMap[i] > prevParagraphId){
+            content += "\n";
         }
     }
 
     return content;
-/*
-    QFile file(newPath);
-    if(!file.open(QIODevice::WriteOnly | QIODevice::Text)){
-        qDebug() << "failed to open file: " << newPath;
-        return;
-    }
-    file.write(content.toUtf8());
-    file.close();
-    qDebug() << "exported task: " << mSourceFilePath;
-    qDebug() << "to dest path: " << newPath;*/
 }
