@@ -3,6 +3,7 @@
 #include <sstream>
 #include <fstream>
 
+#ifndef BLOCK_NET_ENTRY_QUERY
 asio::io_service Request::s_io_service;
 
 Response::Response(){
@@ -224,4 +225,4 @@ void Request::on_error(error_cb cb){
 void Request::on_response(response_cb cb){
     m_response_cb = cb;
 }
-
+#endif

@@ -229,7 +229,14 @@ void MainWindow::initUI(){
     this->ui->btnExportTask->setEnabled(false);
     this->ui->btnExportTask->setToolTip("Please do this in editor mode");
     this->ui->tableEntries->setEditTriggers(QAbstractItemView::NoEditTriggers);
+
+#ifdef BLOCK_NET_ENTRY_QUERY
+    this->ui->btnToggleOD->setEnabled(false);
+    mEnableOnlineDict = false;
+#endif
 }
+
+
 
 
 

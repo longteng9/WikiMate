@@ -6,7 +6,6 @@
 
  void MainWindow::on_buildFragmentFinished(){
     setCurrentFragment(0);
-    //this->mMessageForm->hide();
 }
 
 void MainWindow::on_receivedEntryResponse(QString word, QStringList trans){

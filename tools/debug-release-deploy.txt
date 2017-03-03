@@ -1,0 +1,28 @@
+﻿15:05:19: Running steps for project WikiMate...
+15:05:19: Starting: "D:\Qt\Qt5.8.0-MinGW32\5.8\mingw53_32\bin\qmake.exe" D:\WikiMate\WikiMate.pro -spec win32-g++ "CONFIG+=debug"
+Info: creating stash file D:\build-WikiMate-Qt5.8.0-MinGW32\.qmake.stash
+15:05:22: The process "D:\Qt\Qt5.8.0-MinGW32\5.8\mingw53_32\bin\qmake.exe" exited normally.
+15:05:22: Starting: "D:\Qt\Qt5.8.0-MinGW32\Tools\mingw530_32\bin\mingw32-make.exe" qmake_all
+mingw32-make: Nothing to be done for 'qmake_all'.
+15:05:23: The process "D:\Qt\Qt5.8.0-MinGW32\Tools\mingw530_32\bin\mingw32-make.exe" exited normally.
+15:05:23: Starting: "D:\Qt\Qt5.8.0-MinGW32\Tools\mingw530_32\bin\mingw32-make.exe" 
+D:/Qt/Qt5.8.0-MinGW32/Tools/mingw530_32/bin/mingw32-make -f Makefile.Debug
+mingw32-make[1]: Entering directory 'D:/build-WikiMate-Qt5.8.0-MinGW32'
+'D:\Qt\Qt5.8.0-MinGW32\5.8\mingw53_32\bin\uic.exe' ../WikiMate/MainWindow.ui -o tmp/debug_ui/ui_MainWindow.h
+'D:\Qt\Qt5.8.0-MinGW32\5.8\mingw53_32\bin\uic.exe' ../WikiMate/MessageForm.ui -o tmp/debug_ui/ui_MessageForm.h
+g++ -c -pipe -fno-keep-inline-dllexport -g -std=gnu++11 -frtti -Wall -Wextra -fexceptions -mthreads -DUNICODE -DQT_DEPRECATED_WARNINGS -DASIO_STANDALONE -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_XML_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_CORE_LIB -DQT_NEEDS_QMAIN -I../WikiMate -I. -I../WikiMate/include -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/include -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/include/QtWidgets -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/include/QtGui -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/include/QtANGLE -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/include/QtXml -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/include/QtNetwork -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/include/QtSql -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/include/QtCore -Itmp/debug_moc -Itmp/debug_ui -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/mkspecs/win32-g++  -o tmp/debug_obj/main.o ../WikiMate/main.cpp
+
+
+15:11:01: Running steps for project WikiMate...
+15:11:01: Starting: "D:\Qt\Qt5.8.0-MinGW32\5.8\mingw53_32\bin\qmake.exe" D:\WikiMate\WikiMate.pro -spec win32-g++
+Info: creating stash file D:\build-WikiMate-Qt5.8.0-MinGW32\.qmake.stash
+15:11:04: The process "D:\Qt\Qt5.8.0-MinGW32\5.8\mingw53_32\bin\qmake.exe" exited normally.
+15:11:04: Starting: "D:\Qt\Qt5.8.0-MinGW32\Tools\mingw530_32\bin\mingw32-make.exe" qmake_all
+mingw32-make: Nothing to be done for 'qmake_all'.
+15:11:05: The process "D:\Qt\Qt5.8.0-MinGW32\Tools\mingw530_32\bin\mingw32-make.exe" exited normally.
+15:11:05: Starting: "D:\Qt\Qt5.8.0-MinGW32\Tools\mingw530_32\bin\mingw32-make.exe" 
+D:/Qt/Qt5.8.0-MinGW32/Tools/mingw530_32/bin/mingw32-make -f Makefile.Release
+mingw32-make[1]: Entering directory 'D:/build-WikiMate-Qt5.8.0-MinGW32'
+'D:\Qt\Qt5.8.0-MinGW32\5.8\mingw53_32\bin\uic.exe' ../WikiMate/MainWindow.ui -o tmp/release_ui/ui_MainWindow.h
+'D:\Qt\Qt5.8.0-MinGW32\5.8\mingw53_32\bin\uic.exe' ../WikiMate/MessageForm.ui -o tmp/release_ui/ui_MessageForm.h
+g++ -c -pipe -fno-keep-inline-dllexport -O2 -std=gnu++11 -frtti -Wall -Wextra -fexceptions -mthreads -DUNICODE -DQT_DEPRECATED_WARNINGS -DASIO_STANDALONE -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_XML_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_CORE_LIB -DQT_NEEDS_QMAIN -I../WikiMate -I. -I../WikiMate/include -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/include -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/include/QtWidgets -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/include/QtGui -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/include/QtANGLE -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/include/QtXml -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/include/QtNetwork -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/include/QtSql -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/include/QtCore -Itmp/release_moc -Itmp/release_ui -I../Qt/Qt5.8.0-MinGW32/5.8/mingw53_32/mkspecs/win32-g++  -o tmp/release_obj/main.o ../WikiMate/main.cpp

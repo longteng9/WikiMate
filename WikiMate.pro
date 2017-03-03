@@ -11,9 +11,11 @@ greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 TARGET = WikiMate
 TEMPLATE = app
 
-DEFINES += QT_DEPRECATED_WARNINGS    # emit warnings if you use any deprecated feature
-#DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
-
+# disables all the APIs deprecated before Qt 6.0.0
+#DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000
+# emit warnings if you use any deprecated feature
+DEFINES += QT_DEPRECATED_WARNINGS \
+    BLOCK_NET_ENTRY_QUERY
 
 INCLUDEPATH += $$PWD/include
 DEPENDPATH += $$INCLUDEPATH

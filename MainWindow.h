@@ -84,6 +84,8 @@ private slots:
 
     void on_tableEntries_currentItemChanged(QTableWidgetItem *current, QTableWidgetItem *previous);
 
+    void on_editKeyword_textChanged(const QString &arg1);
+
 private:
     void initUI();
     void updateFileList(const QVector<QStringList> &data);
@@ -93,6 +95,7 @@ private:
     void showEntriesTableAsync(const QStringList &header);
     void setCurrentFragment(int index = 0);
     void showTransMemTable();
+    void autoScrollOriginBrowser(int curFragId);
 
 private:
     QString mOriginSelection = "";

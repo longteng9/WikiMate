@@ -29,11 +29,12 @@ namespace cppjieba{
 }
 
 struct JiebaPaths{
-    static const char* jieba_dict;
-    static const char* user_dict;
-    static const char* hmm_model;
-    static const char* idf;
-    static const char* stop_words;
+    static QString jieba_dict;
+    static QString user_dict;
+    static QString hmm_model;
+    static QString idf;
+    static QString stop_words;
+    static bool allFileValid();
 };
 
 class FragmentManager : public QObject
@@ -61,6 +62,7 @@ public:
     void reloadJiebaDict();
     void rebuildCurrentFragment();
     QString getExportContent();
+    bool jiebaValid();
 
 signals:
 

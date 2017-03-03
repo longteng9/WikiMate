@@ -94,7 +94,7 @@
             </property>
             <property name="styleSheet">
              <string notr="true">QPushButton{
-font: 10pt &quot;Verdana&quot;;
+font: 11pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -134,7 +134,7 @@ Directory</string>
               </property>
               <property name="styleSheet">
                <string notr="true">QPushButton{
-font: 10pt &quot;Verdana&quot;;
+font: 11pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -168,7 +168,7 @@ QPushButton:pressed{
               </property>
               <property name="styleSheet">
                <string notr="true">QPushButton{
-font: 10pt &quot;Verdana&quot;;
+font: 11pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -209,7 +209,7 @@ QPushButton:pressed{
               </property>
               <property name="styleSheet">
                <string notr="true">QPushButton{
-font: 10pt &quot;Verdana&quot;;
+font: 11pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -243,7 +243,7 @@ QPushButton:pressed{
               </property>
               <property name="styleSheet">
                <string notr="true">QPushButton{
-font: 10pt &quot;Verdana&quot;;
+font: 11pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -292,7 +292,7 @@ QPushButton:pressed{
             </property>
             <property name="styleSheet">
              <string notr="true">QPushButton{
-font: 10pt &quot;Verdana&quot;;
+font: 11pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -348,7 +348,7 @@ QPushButton:pressed{
             </property>
             <property name="styleSheet">
              <string notr="true">QPushButton{
-font: 10pt &quot;Verdana&quot;;
+font: 11pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -387,7 +387,7 @@ QPushButton:pressed{
               </property>
               <property name="styleSheet">
                <string notr="true">QPushButton{
-font: 10pt &quot;Verdana&quot;;
+font: 11pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -421,7 +421,7 @@ QPushButton:pressed{
               </property>
               <property name="styleSheet">
                <string notr="true">QPushButton{
-font: 10pt &quot;Verdana&quot;;
+font: 11pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -465,7 +465,7 @@ QPushButton:pressed{
             <item>
              <widget class="QLabel" name="labEditorTopNotice">
               <property name="styleSheet">
-               <string notr="true">font: 10pt &quot;Microsoft YaHei&quot;;</string>
+               <string notr="true">font: 11pt &quot;Microsoft YaHei&quot;;</string>
               </property>
               <property name="text">
                <string>Press 'Enter' to insert...</string>
@@ -495,7 +495,7 @@ QPushButton:pressed{
               </property>
               <property name="styleSheet">
                <string notr="true">QPushButton{
-font: 10pt &quot;Verdana&quot;;
+font: 11pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -535,7 +535,7 @@ QPushButton:pressed{
               </property>
               <property name="styleSheet">
                <string notr="true">QPushButton{
-font: 10pt &quot;Verdana&quot;;
+font: 11pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -571,7 +571,7 @@ QPushButton:pressed{
             </property>
             <property name="styleSheet">
              <string notr="true">QPushButton{
-font: 10pt &quot;Verdana&quot;;
+font: 11pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -665,7 +665,7 @@ QPushButton:pressed{
                 </property>
                 <property name="styleSheet">
                  <string notr="true">QListView{
-	font: 75 10pt &quot;Verdana&quot;;
+	font: 75 11pt &quot;Verdana&quot;;
 	background-color: rgb(240, 240, 240);
 	border-color: rgba(255, 255, 255, 0);
 	selection-background-color:rgb(37, 156, 247);
@@ -855,7 +855,7 @@ QListView::item {
            <string notr="true">border-color: rgba(255, 255, 255, 0);</string>
           </property>
           <property name="currentIndex">
-           <number>0</number>
+           <number>1</number>
           </property>
           <property name="tabBarAutoHide">
            <bool>true</bool>
@@ -985,7 +985,7 @@ selection-background-color:rgb(37, 156, 247);
                    </property>
                    <widget class="QTableWidget" name="tableEntries">
                     <property name="styleSheet">
-                     <string notr="true">font: 10pt &quot;Microsoft YaHei&quot;;</string>
+                     <string notr="true">font: 11pt &quot;Microsoft YaHei&quot;;</string>
                     </property>
                     <property name="editTriggers">
                      <set>QAbstractItemView::DoubleClicked|QAbstractItemView::EditKeyPressed</set>
@@ -1066,7 +1066,7 @@ selection-background-color:rgb(37, 156, 247);
                           </property>
                           <property name="styleSheet">
                            <string notr="true">QPushButton{
-font: 10pt &quot;Verdana&quot;;
+font: 11pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -1106,7 +1106,7 @@ QPushButton:pressed{
                           </property>
                           <property name="styleSheet">
                            <string notr="true">QPushButton{
-font: 10pt &quot;Verdana&quot;;
+font: 11pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -1146,7 +1146,7 @@ QPushButton:pressed{
                           </property>
                           <property name="styleSheet">
                            <string notr="true">QPushButton{
-font: 10pt &quot;Verdana&quot;;
+font: 11pt &quot;Verdana&quot;;
 border-style: none;
 border: 0px;
 color: #F0F0F0;
@@ -1355,7 +1355,7 @@ QPushButton:pressed{
             <item>
              <widget class="QTableWidget" name="transMemTable">
               <property name="styleSheet">
-               <string notr="true">font: 10pt &quot;Microsoft YaHei&quot;;</string>
+               <string notr="true">font: 11pt &quot;Microsoft YaHei&quot;;</string>
               </property>
               <property name="editTriggers">
                <set>QAbstractItemView::DoubleClicked|QAbstractItemView::EditKeyPressed</set>
@@ -1434,7 +1434,7 @@ QPushButton:pressed{
        <item>
         <widget class="QLabel" name="statusLabel">
          <property name="styleSheet">
-          <string notr="true">font: 11pt &quot;Microsoft YaHei&quot;;
+          <string notr="true">font: 12pt &quot;Microsoft YaHei&quot;;
 border-color: rgba(255, 255, 255, 0);
 color: rgb(170, 0, 0);</string>
          </property>

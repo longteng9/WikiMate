@@ -7,6 +7,7 @@
 #include <vector>
 #include <functional>
 
+#ifndef BLOCK_NET_ENTRY_QUERY
 typedef std::vector<std::pair<std::string, std::string> > HeaderList;
 typedef std::vector<std::pair<std::string, std::string> > PairList;
 
@@ -60,6 +61,6 @@ private:
     response_cb m_response_cb;
     static asio::io_service s_io_service;
 };
-
+#endif
 
 #endif //REQUEST_H

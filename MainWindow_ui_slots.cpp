@@ -9,6 +9,7 @@
 #include "FileTableModel.h"
 #include "FileTableView.h"
 #include "DictEngine.h"
+#include <QScrollBar>
 #include <QDesktopServices>
 
 void MainWindow::on_lstMenu_currentItemChanged(QListWidgetItem *current, QListWidgetItem *previous)
@@ -76,10 +77,16 @@ void MainWindow::on_btnStartTask_clicked()
     if(ui->tbvFiles->currentIndex().row() >= 0){
         QString fileName = ui->tbvFiles->tableModel()->index(ui->tbvFiles->currentIndex().row(), 1).data().toString();
         QString path = Helper::instance()->pathJoin(Helper::instance()->mProjectDirectory, fileName);
+        if(!FragmentManager::instance()->jiebaValid()){
+            qDebug() << "JiebaPath is invalid, quit starting task: " << path;
+            return;
+        }
+
         QFileInfo info(path);
         if(!info.isFile() || !info.exists()){
             return;
         }
+
         if(FragmentManager::instance()->mSourceFilePath != path){
             qDebug() << "start task:" << path;
             FragmentManager::instance()->mSourceFilePath = path;
@@ -109,7 +116,6 @@ void MainWindow::on_btnExportTask_clicked()
         if(!info.isFile() || !info.exists()){
             return;
         }
-        //FragmentManager::instance()->exportTrans();
     }
 }
 
@@ -149,6 +155,8 @@ void MainWindow::on_btnNextFrag_clicked()
         FragmentManager::instance()->updateFragmentTrans(ui->txtTrans->toPlainText());
     }
     setCurrentFragment(FragmentManager::instance()->mCurrentIndex + 1);
+
+    autoScrollOriginBrowser(FragmentManager::instance()->mCurrentIndex);
 }
 
 void MainWindow::on_btnPrevFrag_clicked()
@@ -158,6 +166,8 @@ void MainWindow::on_btnPrevFrag_clicked()
         FragmentManager::instance()->updateFragmentTrans(ui->txtTrans->toPlainText());
     }
     setCurrentFragment(FragmentManager::instance()->mCurrentIndex - 1);
+
+    autoScrollOriginBrowser(FragmentManager::instance()->mCurrentIndex);
 }
 
 void MainWindow::on_btnSaveFrag_clicked()
@@ -199,12 +209,21 @@ void MainWindow::on_tableEntries_itemChanged(QTableWidgetItem *item)
 
 void MainWindow::on_editKeyword_returnPressed()
 {
-    QVector<QMap<QString, QString> > result = DictEngine::instance()->queryWikiDumpEntryFuzzy(ui->editKeyword->text());
+    on_editKeyword_textChanged(ui->editKeyword->text());
+}
+
+void MainWindow::on_editKeyword_textChanged(const QString &arg1)
+{
+    if(arg1.isEmpty()){
+        return;
+    }
+    ui->lstIndex->clear();
+    QVector<QMap<QString, QString> > result = DictEngine::instance()->queryWikiDumpEntryFuzzy(arg1);
     if(result.isEmpty()){
         ui->lstIndex->insertItem(0, "No Wiki Entry");
         return;
     }
-    ui->lstIndex->clear();
+
 
     for(int i = 0; i < result.length(); i++){
         QListWidgetItem * item = new QListWidgetItem;
@@ -212,7 +231,6 @@ void MainWindow::on_editKeyword_returnPressed()
         item->setText(result[i]["page_title"] + "/" + result[i]["page_id"]);
         ui->lstIndex->addItem(item);
     }
-    ui->lstIndex->setFocus();
 }
 
 void MainWindow::on_lstIndex_itemPressed(QListWidgetItem *item)

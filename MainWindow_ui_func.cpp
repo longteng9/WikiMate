@@ -39,7 +39,9 @@ void MainWindow::setCurrentFragment(int index){
         ui->tableEntries->setFocus(Qt::MouseFocusReason);
     }
 
-    emit closeLoadingForm();
+    if(FragmentManager::instance()->jiebaValid()){
+        emit closeLoadingForm();
+    }
 }
 
 void MainWindow::showEntriesTableAsync(const QStringList &header){
@@ -61,9 +63,11 @@ void MainWindow::showEntriesTableAsync(const QStringList &header){
 
     ui->statusLabel->setText("Loading entry table asynchronously");
     DictEngine::instance()->queryDumpEntryPatchAsync(header, "zh", "en");
+#ifndef BLOCK_NET_ENTRY_QUERY
     if(mEnableOnlineDict){
         DictEngine::instance()->fetchEntryPatchAsync(header, "zh", "en");
     }
+#endif
 }
 
 void MainWindow::showTransMemTable(){
@@ -92,4 +96,28 @@ void MainWindow::showTransMemTable(){
         }
         row += 1;
     }
+}
+
+
+void MainWindow::autoScrollOriginBrowser(int curFragId){
+    double rate = 0;
+    int curBlockLen = 0;
+    int allBlocksLen = 0;
+    for(int i = 0; i < FragmentManager::instance()->mFragmentList.length(); i++){
+        allBlocksLen += FragmentManager::instance()->mFragmentList[i].length();
+        allBlocksLen += FragmentManager::instance()->mFragmentTransList.length();
+        if(i <= curFragId){
+            curBlockLen += FragmentManager::instance()->mFragmentList[i].length();
+            curBlockLen += FragmentManager::instance()->mFragmentTransList.length();
+        }
+    }
+    rate = (double)curBlockLen / allBlocksLen;
+    qDebug() <<"origin browser current block length:"<<curBlockLen;
+    qDebug() <<"origin browser all blocks length:" <<allBlocksLen;
+    qDebug() << "rate:"<<rate;
+    if(rate == 0){
+        return;
+    }
+    QScrollBar *scrollbar = ui->txtOriginal->verticalScrollBar();
+    scrollbar->setSliderPosition((scrollbar->maximum() - scrollbar->minimum()) * rate);
 }

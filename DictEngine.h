@@ -16,6 +16,8 @@
 #include <QtSql/QSqlField>
 
 class DictEngine;
+
+#ifndef BLOCK_NET_ENTRY_QUERY
 class FetchEntryPatchAsync : public QObject{
     Q_OBJECT
 signals:
@@ -30,6 +32,7 @@ public:
     QString from;
     QString to;
 };
+#endif
 
 class QueryDumpEntryPatchAsync : public QObject{
     Q_OBJECT
@@ -62,18 +65,21 @@ class DictEngine : public QObject
     };
 public:
     static DictEngine* instance();
+    bool dataFileValid();
+#ifndef BLOCK_NET_ENTRY_QUERY
     QStringList fetchEntry(QString word,
                            QString from,
                            QString to);
     void fetchEntryPatchAsync(QStringList words,
                          QString from,
                          QString to);
+    QString fetchWikiPage(QString word);
+#endif
     void queryDumpEntryPatchAsync(QStringList words,
                          QString from,
                          QString to);
     QMap<QString, QString> queryWikiDumpEntry(QString word);
     QVector<QMap<QString, QString> > queryWikiDumpEntryFuzzy(QString word);
-    QString fetchWikiPage(QString word);
     QString queryWikiPageById(QString pageId);
 
     void eraseTransMem(const QString& word);
@@ -83,7 +89,9 @@ public:
     void stopQueryAndFetch();
 
 public slots:
+#ifndef BLOCK_NET_ENTRY_QUERY
     void on_requestFinished(QString word, QStringList trans_list);
+#endif
     void on_queryFinished(QString word, QStringList trans_list);
 
 signals:
@@ -95,12 +103,12 @@ private:
     DictEngine(const DictEngine&) = default;
     virtual ~DictEngine();
     DictEngine& operator=(const DictEngine&) = default;
-
+#ifndef BLOCK_NET_ENTRY_QUERY
     QString buildURL(const QString &word,
                      const QString &from,
                      const QString &to);
     void parseResponseMessage(const QString &message, QString* word, QStringList *trans);
-
+#endif
 
 private:
     static DictEngine *mInstance;

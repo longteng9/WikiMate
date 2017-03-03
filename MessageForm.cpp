@@ -90,12 +90,12 @@ void MessageForm::createAndShowAs(Role role,
         movie->start();
         form->ui->labDialogLeft->setMovie(movie);
         connect(form->ui->btnDialogNO, &QPushButton::clicked, [form, callback](){
-            callback(false);
             form->hide();
+            callback(false);
         });
         connect(form->ui->btnDialogOK, &QPushButton::clicked, [form, callback](){
-            callback(true);
             form->hide();
+            callback(true);
         });
         form->show();
     }
