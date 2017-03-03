@@ -51,7 +51,6 @@ SOURCES += main.cpp\
     FileItemDelegate.cpp \
     Helper.cpp \
     FragmentManager.cpp \
-    TransMemory.cpp \
     DictEngine.cpp \
     Request.cpp \
     MessageForm.cpp \
@@ -67,7 +66,6 @@ HEADERS  += MainWindow.h \
     FileItemDelegate.h \
     Helper.h \
     FragmentManager.h \
-    TransMemory.h \
     DictEngine.h \
     Request.h \
     MessageForm.h \

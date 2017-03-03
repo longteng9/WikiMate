@@ -40,7 +40,7 @@ private:
 private:
     static TransMemory *mInstance;
     static GC gc;
-    QString mTransMemPath = "user.tm.utf8";
+    QString mTransMemPath;
     QMap<QString, QString> mTransMem;
 };
 

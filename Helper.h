@@ -46,7 +46,6 @@ private:
 public:
     QMap<QString, QString> mWorkingStatusQuo;
     QString mProjectDirectory;
-    QString mExecutableDirectory;
     QVector<QStringList> mTaskListBackup;
 
 private:

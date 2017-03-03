@@ -9,10 +9,9 @@
 #include <QFileInfo>
 #include <QFile>
 
-static QString wiktionaryDumpDir = "dict/wiktionary/pages_zh/";
-static QString wiktionaryDumpDB = "dict/wiktionary/pages_zh.db";
-
-static QString transMemFilePath = "dict/user_trans_mem.json";
+static QString wiktionaryDumpDir = "";
+static QString wiktionaryDumpDB = "";
+static QString transMemFilePath = "";
 
 static QString wiktionaryUrl = "https://en.wiktionary.org/wiki/";
 static QString baiduDictUrl = "http://api.fanyi.baidu.com/api/trans/vip/translate";
@@ -93,6 +92,10 @@ void QueryDumpEntryPatchAsync::start(){
 
 DictEngine::DictEngine(QObject *parent)
     : QObject(parent){
+    wiktionaryDumpDir = QCoreApplication::applicationDirPath() + "/dict/wiktionary/pages_zh/";
+    wiktionaryDumpDB = QCoreApplication::applicationDirPath() + "/dict/wiktionary/pages_zh.db";
+    transMemFilePath = QCoreApplication::applicationDirPath() + "/dict/user_trans_mem.json";
+
     mDB = QSqlDatabase::addDatabase("QSQLITE");
     mDB.setDatabaseName(wiktionaryDumpDB);
     if(!mDB.open()){

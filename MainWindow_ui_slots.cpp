@@ -167,12 +167,18 @@ void MainWindow::on_btnSaveFrag_clicked()
 
 void MainWindow::on_btnToggleOD_clicked()
 {
+    mEnableOnlineDict = false;
+    /*
     mEnableOnlineDict = !mEnableOnlineDict;
     if(mEnableOnlineDict){
         ui->btnToggleOD->setText("Disable OD");
     }else{
+        DictEngine::instance()->stopQueryAndFetch();
+        ui->btnPrevFrag->setEnabled(true);
+        ui->btnNextFrag->setEnabled(true);
         ui->btnToggleOD->setText("Enable OD");
     }
+    */
 }
 
 void MainWindow::on_btnRefreshEntries_clicked()
@@ -186,7 +192,7 @@ void MainWindow::on_tableEntries_itemChanged(QTableWidgetItem *item)
 {
     if(ui->btnNextFrag->isEnabled() && ui->tableEntries->editTriggers() != QAbstractItemView::NoEditTriggers){
         QString word = ui->tableEntries->horizontalHeaderItem(item->column())->text();
-        qDebug() << "edit entry " << word<< ": "<< item->text();
+        qDebug() << "insert trans-mem " << word<< ": "<< item->text();
         DictEngine::instance()->insertTransMem(word, item->text());
     }
 }

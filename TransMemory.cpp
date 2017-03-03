@@ -6,12 +6,15 @@
 #include <QFileInfo>
 #include <QByteArray>
 #include <QDebug>
+#include <QCoreApplication>
 #include "FragmentManager.h"
 
 TransMemory* TransMemory::mInstance = NULL;
 TransMemory::GC TransMemory::gc;
 
-TransMemory::TransMemory(QObject *parent) : QObject(parent){
+TransMemory::TransMemory(QObject *parent)
+    : QObject(parent){
+    mTransMemPath = QCoreApplication::applicationDirPath() + "/user.tm.utf8";
     loadDict(mTransMemPath);
 }
 
