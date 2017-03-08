@@ -92,7 +92,7 @@ void FileTableView::onDoubleClicked(const QModelIndex &index){
         MessageForm::createAndShowAs(MessageForm::Role::QueryDialogForm,
                                      "Notice", "Current file:\n"
                                      + mModel->index(index.row(), 1).data().toString()
-                                     + "\n\ndoes not encoded in UTF-8, there might not be able to decode this file correctly.\nDo you want to try, anyway?",
+                                     + "\n\ndoes not encoded in UTF-8, there might not be able to decode this file correctly.\nDo you want to try anyway?",
                                      [this](bool positive){
             if(positive){
                 emit this->startTransEditing();

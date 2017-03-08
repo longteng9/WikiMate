@@ -12,11 +12,14 @@
 #include "FragmentManager.h"
 
 void MainWindow::setCurrentFragment(int index){
+
     if(FragmentManager::instance()->mFragmentList.isEmpty()){
+        emit closeLoadingForm();
         return;
     }
     if(index >= FragmentManager::instance()->mFragmentList.length()
             || index < 0){
+        emit closeLoadingForm();
         return;
     }
     FragmentManager::instance()->mCurrentIndex = index;
@@ -37,11 +40,12 @@ void MainWindow::setCurrentFragment(int index){
     if(ui->tableEntries->itemAt(0, 0) != NULL){
         ui->tableEntries->itemAt(0, 0)->setSelected(true);
         ui->tableEntries->setFocus(Qt::MouseFocusReason);
-    }
+    }    
 
-    if(FragmentManager::instance()->jiebaValid()){
+    /*if(FragmentManager::instance()->jiebaValid()){
         emit closeLoadingForm();
-    }
+    }*/
+    emit closeLoadingForm();
 }
 
 void MainWindow::showEntriesTableAsync(const QStringList &header){

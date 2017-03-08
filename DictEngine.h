@@ -58,8 +58,8 @@ class DictEngine : public QObject
     public:
         ~GC(){
             if(mInstance != NULL){
-                delete mInstance;
-                mInstance = NULL;
+                //delete mInstance;
+                //mInstance = NULL;
             }
         }
     };

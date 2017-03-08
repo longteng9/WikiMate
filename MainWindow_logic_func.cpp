@@ -10,13 +10,14 @@
 #include "Helper.h"
 #include "FragmentManager.h"
 #include <QStandardPaths>
+#include <QCoreApplication>
 
 void MainWindow::restoreHistory(){
     QString path = "";
     if(QDir::currentPath().endsWith(QDir::separator())){
-        path = QDir::currentPath() + "history.meta";
+        path = QCoreApplication::applicationDirPath() + "/history.meta";
     }else{
-        path = QDir::currentPath() + QDir::separator() + "history.meta";
+        path = QCoreApplication::applicationDirPath() + "/history.meta";
     }
     QFile file(path);
     if(file.open(QIODevice::ReadOnly)){
@@ -54,9 +55,9 @@ void MainWindow::saveHistory(){
 
     QString path = "";
     if(QDir::currentPath().endsWith(QDir::separator())){
-        path = QDir::currentPath() + "history.meta";
+        path = QCoreApplication::applicationDirPath() + "/history.meta";
     }else{
-        path = QDir::currentPath() + QDir::separator() + "history.meta";
+        path = QCoreApplication::applicationDirPath() + "/history.meta";
     }
     QFile file(path);
     if(file.open(QIODevice::WriteOnly)){

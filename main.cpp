@@ -1,15 +1,10 @@
 #include "MainWindow.h"
 #include <QApplication>
 #include <QDebug>
-#include "Helper.h"
-#include <QTextBrowser>
-#include "Request.h"
-#include "DictEngine.h"
 #include <QDir>
 #include <QStandardPaths>
 
-int main(int argc, char *argv[])
-{
+int main(int argc, char *argv[]){
     QApplication a(argc, argv);
 
     qDebug() << "qApp->applicationFilePath():" << qApp->applicationFilePath();

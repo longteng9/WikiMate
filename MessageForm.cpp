@@ -69,8 +69,9 @@ void MessageForm::createAndShowAs(Role role, QObject *caller){
         movie->start();
         form->ui->label->setMovie(movie);
         form->ui->labTitle->setText("Processing, just a moment...");
-        connect((MainWindow*)caller, &MainWindow::closeLoadingForm, [form](){
-            form->hide();
+        MessageForm *form_dup = form; //否者在macos上编译时，会报'form' cannot be captured because it does not have automatic storage duration
+        connect((MainWindow*)caller, &MainWindow::closeLoadingForm, [form_dup](){
+            form_dup->hide();
         });
         form->show();
     }
@@ -89,12 +90,13 @@ void MessageForm::createAndShowAs(Role role,
         movie->setScaledSize(QSize(71, 71));
         movie->start();
         form->ui->labDialogLeft->setMovie(movie);
-        connect(form->ui->btnDialogNO, &QPushButton::clicked, [form, callback](){
-            form->hide();
+        MessageForm *form_dup = form; //否者在macos上编译时，会报'form' cannot be captured because it does not have automatic storage duration
+        connect(form->ui->btnDialogNO, &QPushButton::clicked, [form_dup, callback](){
+            form_dup->hide();
             callback(false);
         });
-        connect(form->ui->btnDialogOK, &QPushButton::clicked, [form, callback](){
-            form->hide();
+        connect(form->ui->btnDialogOK, &QPushButton::clicked, [form_dup, callback](){
+            form_dup->hide();
             callback(true);
         });
         form->show();

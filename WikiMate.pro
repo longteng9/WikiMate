@@ -17,7 +17,9 @@ TEMPLATE = app
 DEFINES += QT_DEPRECATED_WARNINGS \
     BLOCK_NET_ENTRY_QUERY
 
-INCLUDEPATH += $$PWD/include
+INCLUDEPATH += $$PWD/include \
+    $$PWD/deps/zlib-src
+
 DEPENDPATH += $$INCLUDEPATH
 # message($$DEPENDPATH)
 
@@ -60,7 +62,29 @@ SOURCES += main.cpp\
     MainWindow_logic_func.cpp \
     MainWindow_logic_slots.cpp \
     MainWindow_ui_func.cpp \
-    MainWindow_ui_slots.cpp
+    MainWindow_ui_slots.cpp \
+    DocxManager.cpp \
+    Archive.cpp \
+    deps/zlib-src/adler32.c \
+    deps/zlib-src/compress.c \
+    deps/zlib-src/crc32.c \
+    deps/zlib-src/deflate.c \
+    deps/zlib-src/gzclose.c \
+    deps/zlib-src/gzlib.c \
+    deps/zlib-src/gzread.c \
+    deps/zlib-src/gzwrite.c \
+    deps/zlib-src/infback.c \
+    deps/zlib-src/inffast.c \
+    deps/zlib-src/inflate.c \
+    deps/zlib-src/inftrees.c \
+    deps/zlib-src/ioapi.c \
+    deps/zlib-src/iowin32.c \
+    deps/zlib-src/mztools.c \
+    deps/zlib-src/trees.c \
+    deps/zlib-src/uncompr.c \
+    deps/zlib-src/unzip.c \
+    deps/zlib-src/zip.c \
+    deps/zlib-src/zutil.c
 
 HEADERS  += MainWindow.h \
     FileTableModel.h \
@@ -71,7 +95,9 @@ HEADERS  += MainWindow.h \
     DictEngine.h \
     Request.h \
     MessageForm.h \
-    Launcher.h
+    Launcher.h \
+    DocxManager.h \
+    Archive.h
 
 
 FORMS    += MainWindow.ui \

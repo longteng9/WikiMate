@@ -17,6 +17,7 @@
 #include <QEvent>
 #include "TransMemory.h"
 #include "DictEngine.h"
+#include <QCoreApplication>
 
 void AsyncBuildFragment::start(){
     qDebug() << "building fragment thread:" << QThread::currentThreadId();

@@ -14,6 +14,7 @@
 #include <string>
 #include <QDir>
 #include <QCoreApplication>
+#include "DocxManager.h"
 
 QString JiebaPaths::jieba_dict = "";
 QString JiebaPaths::user_dict = "";
@@ -104,21 +105,53 @@ void FragmentManager::buildOrLoadFragments(const QString &path){
     for(QStringList line : Helper::instance()->mTaskListBackup){
         if(line[1] == name){
             if(line[5] != "0"){
-                loadRecords(path + ".wmtmp");
+                std::string dup = path.toStdString();
+                dup.insert(dup.find_last_of("\\/")+1, ".");
+                loadRecords(QString(dup.c_str()) + ".wmtmp");
                 return;
             }
         }
     }
-    buildFragments(path);
+    if(path.endsWith(".txt")){
+        buildTxtFragments(path);
+    }else if(path.endsWith(".docx")){
+        buildDocxFragments(path);
+    }
 }
 
-void FragmentManager::buildFragments(const QString &path){
+void FragmentManager::buildDocxFragments(const QString &path){
+    mFragmentList.clear();
+    mFragmentTransList.clear();
+    mFragmentWordList.clear();
+    mFragmentIdToParagraphIdMap.clear();
+
+    DocxManager docxMgr;
+    mFragmentList = docxMgr.getFragmentList(path);
+
+    for(int i = 0; i < mFragmentList.size(); i++){
+        mFragmentIdToParagraphIdMap[i] = i;
+    }
+
+    // 构建mFragmentTransList
+    for(int i = 0; i < mFragmentList.length(); i++){
+        mFragmentTransList.append("");
+    }
+
+
+    // 构建mFragmentWordList
+    for(int i = 0; i < mFragmentList.length(); i++){
+        mFragmentWordList.append(cutWords(mFragmentList.at(i)));
+    }
+}
+
+void FragmentManager::buildTxtFragments(const QString &path){
     if(mJieba == NULL){
         return;
     }
     mFragmentList.clear();
     mFragmentTransList.clear();
     mFragmentWordList.clear();
+    mFragmentIdToParagraphIdMap.clear();
     QFile file(path);
     if (!file.open(QIODevice::ReadOnly | QIODevice::Text)){
         qDebug() << "failed to open source file for building fragments";
@@ -132,23 +165,24 @@ void FragmentManager::buildFragments(const QString &path){
     file.close();
 
     // 构建mFragmentList
-
     QStringList paragraphList = content.split("\n", QString::SkipEmptyParts);
     for(int paragraphId = 0; paragraphId < paragraphList.length(); paragraphId++){
         QString paragraph = paragraphList[paragraphId];
         int pre = 0;
-        int pos = paragraph.indexOf(QRegExp("\u3002|\uff01|\uff1f"), pre);
+        int pos = paragraph.indexOf(QRegExp("\u3002|\uff01|\uff1f|,|\uff0c"), pre);
         while (pos >= 0){
             QString frag = paragraph.mid(pre, pos - pre + 1).trimmed();
             // frag = frag.replace("\n", "");
             mFragmentList.append(frag);
             mFragmentIdToParagraphIdMap[mFragmentList.length() - 1] = paragraphId;
             pre = pos + 1;
-            pos = paragraph.indexOf(QRegExp("\u3002|\uff01|\uff1f"), pre);
+            pos = paragraph.indexOf(QRegExp("\u3002|\uff01|\uff1f|,|\uff0c"), pre);
         }
         if(!paragraph.endsWith("\u3002") // 。
                 && !paragraph.endsWith("\uff01") //！
-                && !paragraph.endsWith("\uff1f")){ // ？
+                && !paragraph.endsWith("\uff1f")
+                && !paragraph.endsWith("\uff0c")
+                && !paragraph.endsWith(",")){ // ？
             mFragmentList.append(paragraph.mid(pre));
             mFragmentIdToParagraphIdMap[mFragmentList.length() - 1] = paragraphId;
         }
@@ -240,7 +274,9 @@ void FragmentManager::loadRecords(const QString &path){
     QFile file(path);
     if(!file.open(QIODevice::ReadOnly | QFile::Text)){
         qDebug() << "failed to open .wmtmp file";
-        buildFragments(path.mid(0, path.length() - 6));
+        std::string dup = path.mid(0, path.length() - 6).toStdString();
+        dup.erase(dup.find_last_of("\\/")+1, 1);
+        buildTxtFragments(QString(dup.c_str()));
         return;
     }
     QString error;
@@ -324,7 +360,9 @@ void FragmentManager::flushRecords(){
     }
     doc.appendChild(root);
 
-    QString path = mSourceFilePath + ".wmtmp";
+    std::string dup = mSourceFilePath.toStdString();
+    dup.insert(dup.find_last_of("\\/")+1, ".");
+    QString path = QString(dup.c_str()) + ".wmtmp";
     QFile file(path);
     if (!file.open(QIODevice::WriteOnly | QIODevice::Text)){
         qDebug() << "failed to open file for writing fragments";
@@ -403,15 +441,13 @@ QString FragmentManager::getExportContent(){
     }
     QString content = "";
 
-    int prevParagraphId = 0;
     for(int i = 0; i < mFragmentTransList.length(); i++){
         if(mFragmentTransList[i].isEmpty()){
             content += mFragmentList[i];
         }else{
             content += mFragmentTransList[i];
         }
-        if(mFragmentIdToParagraphIdMap.size() <= i
-                || mFragmentIdToParagraphIdMap[i] > prevParagraphId){
+        if(i < (mFragmentList.length() - 1) && mFragmentIdToParagraphIdMap[i + 1] > mFragmentIdToParagraphIdMap[i]){
             content += "\n";
         }
     }

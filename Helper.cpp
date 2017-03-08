@@ -12,6 +12,7 @@
 #include <QRegExp>
 #include <QDataStream>
 #include "FragmentManager.h"
+#include "DocxManager.h"
 
 Helper *Helper::mInstance = NULL;
 Helper::GC Helper::gc;
@@ -77,7 +78,7 @@ Project file JSON format:
 */
 QVector<QStringList> Helper::getWorkingFiles(const QString& dirPath){
     QVector<QStringList> result;
-    QString projFilename = Helper::instance()->pathJoin(dirPath, "project.meta");
+    QString projFilename = Helper::instance()->pathJoin(dirPath, ".project.meta");
     QFile file(projFilename);
     if(!file.open(QIODevice::ReadOnly)){
         qDebug() << "Failed to open file: " << projFilename;
@@ -119,7 +120,7 @@ QVector<QStringList> Helper::getWorkingFiles(const QString& dirPath){
 
 void Helper::refreshWorkingDir(QString dirPath){
     // find project file in working directory, if doesn't exist, create one
-    QString projFilename = Helper::instance()->pathJoin(dirPath, "project.meta");
+    QString projFilename = Helper::instance()->pathJoin(dirPath, ".project.meta");
     QFileInfo projFile = QFileInfo(projFilename);
     if (!projFile.exists()){
         QFile file(projFilename);
@@ -165,10 +166,10 @@ void Helper::refreshWorkingDir(QString dirPath){
 
             for(auto iter = list.begin(); iter != list.end(); iter++){
                 QFileInfo info(*iter);
-                if (info.fileName() == "project.meta"
+                if (info.fileName() == ".project.meta"
                         || info.fileName().endsWith(".wmtmp")
                         || info.fileName().startsWith("[EN]")
-                        || !info.fileName().endsWith(".txt")){
+                        || !(info.fileName().endsWith(".txt") || info.fileName().endsWith(".docx"))){
                     continue;
                 }
                 bool existing = false;
@@ -186,11 +187,21 @@ void Helper::refreshWorkingDir(QString dirPath){
 
                     QJsonObject item;
                     item.insert("filename", info.fileName());
-                    item.insert("words", QString::number(info.size() / 2));
+                    if(info.absoluteFilePath().endsWith(".txt")){
+                        item.insert("words", QString::number(info.size() / 2));
+                    }else if(info.absoluteFilePath().endsWith(".docx")){
+                        DocxManager docxMgr;
+                        item.insert("words", QString::number(docxMgr.getWordCount(info.absoluteFilePath())));
+                    }
                     item.insert("size", Helper::instance()->sciSize(info.size()));
                     item.insert("status", "DOING");
                     item.insert("progress", "0");
-                    item.insert("tags", isUTF8File(info.absoluteFilePath()) ? "UTF-8" : "ANSI");
+                    if(info.absoluteFilePath().endsWith(".txt")){
+                        item.insert("tags", isUTF8File(info.absoluteFilePath()) ? "UTF-8" : "ANSI");
+                    }else if(info.absoluteFilePath().endsWith(".docx")){
+                        item.insert("tags", "DOCX");
+                    }
+
                     item.insert("date", QDateTime::currentDateTime().toString("yyyy-MM-dd hh:mm:ss"));
                     tasks.push_back(item);
                 }
@@ -356,7 +367,7 @@ void Helper::updateProjectFile(const QString& taskname, const QString& attr, con
     QString sourceFilePath = FragmentManager::instance()->mSourceFilePath;
     QString projFilename = Helper::instance()->pathJoin(
                 sourceFilePath.mid(0, sourceFilePath.lastIndexOf("/")),
-                "project.meta");
+                ".project.meta");
     QFileInfo projFile = QFileInfo(projFilename);
     if (!projFile.exists()){
         return;

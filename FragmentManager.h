@@ -44,8 +44,8 @@ class FragmentManager : public QObject
     public:
         ~GC(){
             if(mInstance != NULL){
-                delete mInstance;
-                mInstance = NULL;
+                //delete mInstance;
+                //mInstance = NULL;
             }
         }
     };
@@ -53,7 +53,8 @@ public:
     static FragmentManager* instance();
     void flushRecords();
     void buildOrLoadFragments(const QString &path);
-    void buildFragments(const QString &path);
+    void buildTxtFragments(const QString &path);
+    void buildDocxFragments(const QString &path);
     void loadRecords(const QString &path);
     bool retrieveWord(QString word);
     QStringList currentFragmentWords();
