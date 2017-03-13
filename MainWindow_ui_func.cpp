@@ -39,13 +39,14 @@ void MainWindow::setCurrentFragment(int index){
 
     if(ui->tableEntries->itemAt(0, 0) != NULL){
         ui->tableEntries->itemAt(0, 0)->setSelected(true);
-        ui->tableEntries->setFocus(Qt::MouseFocusReason);
     }    
 
     /*if(FragmentManager::instance()->jiebaValid()){
         emit closeLoadingForm();
     }*/
     emit closeLoadingForm();
+
+    ui->txtTrans->setFocus();
 }
 
 void MainWindow::showEntriesTableAsync(const QStringList &header){

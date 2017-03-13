@@ -64,7 +64,8 @@ public:
     enum class Role{
         LoadingForm,
         AddTransMem,
-        QueryDialogForm
+        QueryDialogForm,
+        SplitWordForm
     };
     explicit MessageForm(QWidget *parent = 0);
     void setTitle(const QString &text);
@@ -74,6 +75,7 @@ public:
                                 const QString &title,
                                 const QString &message,
                                 std::function<void(bool)> callback);
+    static void createAndShowAs(Role role, const QString& word, std::function<void(QString, QStringList)> callback);
 
     bool eventFilter(QObject *watched, QEvent *event);
 

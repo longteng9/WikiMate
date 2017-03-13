@@ -985,7 +985,12 @@ selection-background-color:rgb(37, 156, 247);
                    </property>
                    <widget class="QTableWidget" name="tableEntries">
                     <property name="styleSheet">
-                     <string notr="true">font: 11pt &quot;Microsoft YaHei&quot;;</string>
+                     <string notr="true">QTableWidget { 
+font: 11pt &quot;Microsoft YaHei&quot;;
+} 
+QTableWidget::item:selected {
+background: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 #3FADEE, stop:1 #45B2EE); 
+}  </string>
                     </property>
                     <property name="editTriggers">
                      <set>QAbstractItemView::DoubleClicked|QAbstractItemView::EditKeyPressed</set>

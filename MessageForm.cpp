@@ -90,6 +90,7 @@ void MessageForm::createAndShowAs(Role role,
         movie->setScaledSize(QSize(71, 71));
         movie->start();
         form->ui->labDialogLeft->setMovie(movie);
+
         MessageForm *form_dup = form; //否者在macos上编译时，会报'form' cannot be captured because it does not have automatic storage duration
         connect(form->ui->btnDialogNO, &QPushButton::clicked, [form_dup, callback](){
             form_dup->hide();
@@ -99,6 +100,30 @@ void MessageForm::createAndShowAs(Role role,
             form_dup->hide();
             callback(true);
         });
+        form->show();
+    }
+}
+
+void MessageForm::createAndShowAs(Role role,
+                                  const QString& word,
+                                  std::function<void(QString, QStringList)> callback){
+    if(role == Role::SplitWordForm){
+        static MessageForm *form = new MessageForm;
+
+        form->ui->tabWidget->setCurrentIndex(3);
+        form->ui->labTitle->setText("Split Entry Dialog");
+        form->ui->labWordForSplitting->setText(word);
+        form->ui->SplitWordEdit->clear();
+
+        MessageForm *form_dup = form; //否者在macos上编译时，会报'form' cannot be captured because it does not have automatic storage duration
+        connect(form->ui->btnCommitWordSplit, &QPushButton::clicked, [form_dup, callback](){
+            if(!form_dup->ui->SplitWordEdit->toPlainText().isEmpty()){
+                form_dup->hide();
+                QStringList newWords = form_dup->ui->SplitWordEdit->toPlainText().split("\n");
+                callback(form_dup->ui->labWordForSplitting->text(), newWords);
+            }
+        });
+
         form->show();
     }
 }
@@ -132,7 +157,7 @@ void MessageForm::on_btnExport_clicked()
     this->hide();
 }
 
-void MessageForm::on_btnClose_clicked()
-{
+void MessageForm::on_btnClose_clicked(){
     this->hide();
 }
+

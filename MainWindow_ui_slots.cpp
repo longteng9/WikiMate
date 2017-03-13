@@ -288,9 +288,11 @@ void MainWindow::on_btnConfirmExport_clicked()
     QString newPath = "";
     for(int i = 0; i < tmp.size(); i++){
         newPath += tmp[i] + "/";
-
     }
     newPath = newPath.mid(0, newPath.length() - 1);
+    if(newPath.endsWith(".docx")){
+        newPath += ".txt";
+    }
 
     QFile file(newPath);
     if(!file.open(QIODevice::WriteOnly | QIODevice::Text)){

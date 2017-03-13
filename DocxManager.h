@@ -9,10 +9,10 @@ class DocxManager : public QObject
 public:
     explicit DocxManager(QObject *parent = 0);
     int getWordCount(const QString& path);
-    QStringList getFragmentList(const QString& path);
-
+    QStringList getFragmentList(const QString& path, QMap<int, int>* fragParaMap);
 
 protected:
+    QString getDocument(const QString& path);
 
 };
 

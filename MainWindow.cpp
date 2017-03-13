@@ -72,7 +72,7 @@ MainWindow::~MainWindow()
 
 bool MainWindow::eventFilter(QObject *watched, QEvent *event){
     int key;
-    if(watched == ui->tableEntries){
+    if(watched == ui->tableEntries){/*
         switch(event->type())  {
             case QEvent::KeyPress:
                 key = (static_cast<QKeyEvent *>(event))->key();
@@ -103,12 +103,81 @@ bool MainWindow::eventFilter(QObject *watched, QEvent *event){
                 }
             default:
                 return false;
-        }
+        }*/
         return false;
     }else if(watched == ui->txtTrans){
         switch(event->type())  {
-            case QEvent::KeyPress:
-                key = (static_cast<QKeyEvent *>(event))->key();
+            case QEvent::KeyPress:{
+                QKeyEvent* keyEvent = static_cast<QKeyEvent *>(event);
+                key = keyEvent->key();
+                if(keyEvent->modifiers() & Qt::ShiftModifier){
+
+                }else if(keyEvent->modifiers() & Qt::ControlModifier){
+                    if(key == Qt::Key_Up){
+                        on_btnPrevFrag_clicked();
+                    }else if(key == Qt::Key_Down){
+                        on_btnNextFrag_clicked();
+                    }
+                }else if(keyEvent->modifiers() & Qt::AltModifier){
+                    if(key == Qt::Key_Up){
+                        if(ui->tableEntries->currentItem() == NULL){
+                            ui->tableEntries->setCurrentCell(0, 0);
+                        }else{
+                            auto curItem = ui->tableEntries->currentItem();
+                            if(curItem->row() > 0){
+                                ui->tableEntries->setCurrentCell(curItem->row() - 1, curItem->column());
+                            }
+                        }
+                    }else if(key == Qt::Key_Down){
+                        if(ui->tableEntries->currentItem() == NULL){
+                            ui->tableEntries->setCurrentCell(0, 0);
+                        }else{
+                            auto curItem = ui->tableEntries->currentItem();
+                            if(curItem->row() < ui->tableEntries->rowCount()-1){
+                                ui->tableEntries->setCurrentCell(curItem->row() + 1, curItem->column());
+                            }
+                        }
+                    }else if(key == Qt::Key_Left){
+                        if(ui->tableEntries->currentItem() == NULL){
+                            ui->tableEntries->setCurrentCell(0, 0);
+                        }else{
+                            auto curItem = ui->tableEntries->currentItem();
+                            if(curItem->column() > 0){
+                                ui->tableEntries->setCurrentCell(curItem->row(), curItem->column() - 1);
+                            }
+                        }
+                    }else if(key == Qt::Key_Right){
+                        if(ui->tableEntries->currentItem() == NULL){
+                            ui->tableEntries->setCurrentCell(0, 0);
+                        }else{
+                            auto curItem = ui->tableEntries->currentItem();
+                            if(curItem->column() < ui->tableEntries->columnCount() - 1){
+                                ui->tableEntries->setCurrentCell(curItem->row(), curItem->column() + 1);
+                            }
+                        }
+                    }else if(key == Qt::Key_Enter || key == Qt::Key_Return){
+                        QString word = ui->tableEntries->currentItem()->text();
+                        if(!word.isEmpty()){
+                            QString content = ui->txtTrans->toPlainText() + " "+word;
+                            ui->txtTrans->setText(content);
+                        }
+                    }else if(key == Qt::Key_S){
+                        int col = ui->tableEntries->currentItem()->column();
+                        if(col < 0){
+                            return false;
+                        }
+                        QString word = ui->tableEntries->horizontalHeaderItem(col)->text();
+
+                        MessageForm::createAndShowAs(MessageForm::Role::SplitWordForm, word, [this, col](QString oldWord, QStringList newWords){
+                            int wordIndex = col;
+                            //todo
+                            FragmentManager::instance()->mFragmentWordList[FragmentManager::instance()->mCurrentIndex].insert(wordIndex, );
+                        });
+                        return true;
+                    }
+                }
+                }break;
+                /*
                 if(key == Qt::Key_Up
                          && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::AltModifier)){
                     ui->tableEntries->setFocus();
@@ -125,7 +194,7 @@ bool MainWindow::eventFilter(QObject *watched, QEvent *event){
                          && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::ControlModifier)){
                     on_btnSaveFrag_clicked();
                     return true;
-                }
+                }*/
             default:
                 return false;
         }

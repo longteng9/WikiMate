@@ -126,7 +126,7 @@ void FragmentManager::buildDocxFragments(const QString &path){
     mFragmentIdToParagraphIdMap.clear();
 
     DocxManager docxMgr;
-    mFragmentList = docxMgr.getFragmentList(path);
+    mFragmentList = docxMgr.getFragmentList(path, &mFragmentIdToParagraphIdMap);
 
     for(int i = 0; i < mFragmentList.size(); i++){
         mFragmentIdToParagraphIdMap[i] = i;
