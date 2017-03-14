@@ -313,3 +313,15 @@ void MainWindow::on_tableEntries_currentItemChanged(QTableWidgetItem *current, Q
         ui->txtEntryEnlargeView->setText(entryContent);
     }
 }
+
+void MainWindow::on_transMemTable_itemDoubleClicked(QTableWidgetItem *item){
+    mTransMemTableEditing = true;
+}
+
+void MainWindow::on_transMemTable_itemChanged(QTableWidgetItem *item){
+    if(mTransMemTableEditing){
+        qDebug() << "edit TM entry: " << item->text();
+        mTransMemTableEditing = false;
+        DictEngine::instance()->insertTransMem(ui->transMemTable->item(item->row(), 0)->text(), item->text());
+    }
+}

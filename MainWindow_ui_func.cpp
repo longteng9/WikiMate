@@ -80,6 +80,8 @@ void MainWindow::showTransMemTable(){
     ui->tabLeftSide->setCurrentIndex(2);
     ui->tabTopTools->setCurrentIndex(2);
     ui->transMemTable->clear();
+    mTransMemTableEditing = false;
+
     QMap<QString, QStringList> result = DictEngine::instance()->getAllTransMem();
 
     int maxCol = 1;

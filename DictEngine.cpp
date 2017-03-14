@@ -10,10 +10,12 @@
 #include <QFile>
 #include "MessageForm.h"
 #include <QDir>
+#include "FragmentManager.h"
 
 static QString wiktionaryDumpDir = "";
 static QString wiktionaryDumpDB = "";
 static QString transMemFilePath = "";
+static QString jiebaUserDictFilePath = "";
 
 static QString wiktionaryUrl = "https://en.wiktionary.org/wiki/";
 
@@ -185,6 +187,7 @@ DictEngine::DictEngine(QObject *parent)
     wiktionaryDumpDir = QCoreApplication::applicationDirPath() + "/dict/wiktionary/pages_zh/";
     wiktionaryDumpDB = QCoreApplication::applicationDirPath() + "/dict/wiktionary/pages_zh.db";
     transMemFilePath = QCoreApplication::applicationDirPath() + "/dict/user_trans_mem.json";
+    jiebaUserDictFilePath = QCoreApplication::applicationDirPath()  + "/dict/jieba/user.dict.utf8";
 
     if(!dataFileValid()){
         qDebug() << "Data files are invalid:";
@@ -318,8 +321,67 @@ Trans-Mem file JSON format:
     ]
 }
 */
+
+void DictEngine::exposeTMForJieba(){
+    QFile transMemFile(transMemFilePath);
+    if(!transMemFile.open(QIODevice::ReadWrite | QIODevice::Text)){
+        qDebug() << "failed to open file: " << transMemFilePath;
+        return;
+    }
+    QJsonParseError error;
+    QByteArray data = transMemFile.readAll();
+    transMemFile.close();
+    if(data.isEmpty()){
+        data = QString("{\"trans-mems\":[]}").toUtf8();
+    }
+
+    QJsonDocument jsonDocument = QJsonDocument::fromJson(data, &error);
+    QJsonObject root = jsonDocument.object();
+    QStringList wordList;
+    if (root.contains("trans-mems")){
+        QJsonArray transMems = root.take("trans-mems").toArray();
+        int size = transMems.size();
+        for(int i = 0; i < size; i++){
+            if(!transMems.at(i).toObject().value("word").toString().isEmpty()){
+                QJsonObject item = transMems.at(i).toObject();
+                QString word = item["word"].toString();
+                if(!wordList.contains(word)){
+                    wordList.append(word);
+                }
+            }
+        }
+    }
+    if(!wordList.empty()){
+        QFile jiebaUserDict(jiebaUserDictFilePath);
+        if(!jiebaUserDict.open(QIODevice::ReadOnly | QIODevice::Text)){
+            qDebug() << "failed to open file: " << jiebaUserDictFilePath;
+            return;
+        }
+        QString content = jiebaUserDict.readAll();
+        QStringList oldUserTM = content.split("\n", QString::SkipEmptyParts);
+        jiebaUserDict.close();
+
+        if(!jiebaUserDict.open(QIODevice::Append | QIODevice::Text)){
+            qDebug() << "failed to open file: " << jiebaUserDictFilePath;
+            return;
+        }
+        bool updated = false;
+        for(QString word : wordList){
+            if(!oldUserTM.contains(word)){
+                updated = true;
+                jiebaUserDict.write(word.toUtf8()+"\n");
+            }
+        }
+        jiebaUserDict.close();
+
+        if(updated){
+            FragmentManager::instance()->reloadJiebaDict();
+        }
+    }
+}
+
 void DictEngine::insertTransMem(const QString& word, const QString& define){
-    if(word.isEmpty() || define.isEmpty()){
+    if(word.isEmpty()){
         return;
     }
     QFile transMemFile(transMemFilePath);
@@ -341,7 +403,7 @@ void DictEngine::insertTransMem(const QString& word, const QString& define){
         int size = transMems.size();
         bool updated = false;
         for(int i = 0; i < size; i++){
-            if(transMems.at(i).toObject().value("word").toString() == word){
+            if(transMems.at(i).toObject().value("word").toString() == word && !define.isEmpty()){
                 updated = true;
                 QJsonObject item = transMems.at(i).toObject();
                 item["defines"] = item["defines"].toString() + "/#/" + define;
@@ -367,6 +429,8 @@ void DictEngine::insertTransMem(const QString& word, const QString& define){
     QByteArray bytes = jsonDocument.toJson(QJsonDocument::Indented);
     file2.write(bytes);
     file2.close();
+
+    exposeTMForJieba();
 }
 
 QMap<QString, QStringList> DictEngine::getAllTransMem(){

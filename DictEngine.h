@@ -87,6 +87,7 @@ public:
     void insertTransMem(const QString& word, const QString& define);
     QMap<QString, QStringList> getAllTransMem();
     void stopQueryAndFetch();
+    void exposeTMForJieba();
 
 public slots:
 #ifndef BLOCK_NET_ENTRY_QUERY

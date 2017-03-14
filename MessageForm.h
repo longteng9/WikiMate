@@ -7,6 +7,7 @@
 #include <QDebug>
 #include <QThread>
 #include <functional>
+#include <QStringList>
 
 namespace Ui {
 class MessageForm;
@@ -75,7 +76,10 @@ public:
                                 const QString &title,
                                 const QString &message,
                                 std::function<void(bool)> callback);
-    static void createAndShowAs(Role role, const QString& word, std::function<void(QString, QStringList)> callback);
+    static void createAndShowAs(Role role,
+                                int col,
+                                const QString& word,
+                                std::function<void(int, QStringList)> callback);
 
     bool eventFilter(QObject *watched, QEvent *event);
 
@@ -87,12 +91,16 @@ protected:
     void playAnimation();
 
 private slots:
-    void on_btnExport_clicked();
+    void on_btnExportTM_clicked();
 
     void on_btnClose_clicked();
 
+    void on_btnCommitWordSplit_clicked();
+
 private:
     Ui::MessageForm *ui;
+    std::function<void(int, QStringList)> cb_splitWord;
+    static MessageForm *sharedForm;
 };
 
 #endif // MESSAGEFORM_H

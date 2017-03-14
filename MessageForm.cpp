@@ -7,6 +7,8 @@
 #include "DictEngine.h"
 #include "MainWindow.h"
 
+MessageForm *MessageForm::sharedForm = NULL;
+
 MessageForm::MessageForm(QWidget *parent)
     : QWidget(parent),
       ui(new Ui::MessageForm)
@@ -26,6 +28,7 @@ MessageForm::MessageForm(QWidget *parent)
     this->setAttribute(Qt::WA_TranslucentBackground);
 
     ui->transMemEdit->installEventFilter(this);
+    ui->SplitWordEdit->installEventFilter(this);
 
     playAnimation();
 }
@@ -49,31 +52,35 @@ void MessageForm::playAnimation(){
 
 void MessageForm::createAndShowAs(Role role, const QString &word){
     if(role == Role::AddTransMem){
-        static MessageForm *form = new MessageForm;
+        if(sharedForm == NULL){
+            sharedForm = new MessageForm;
+        }
 
-        form->ui->tabWidget->setCurrentIndex(1);
-        form->ui->labTitle->setText("Add Translation Memory");
-        form->ui->labTransMemForWord->setText(word);
-        form->ui->transMemEdit->clear();
+        sharedForm->ui->tabWidget->setCurrentIndex(1);
+        sharedForm->ui->labTitle->setText("Add Translation Memory");
+        sharedForm->ui->labTransMemForWord->setText(word);
+        sharedForm->ui->transMemEdit->clear();
 
-        form->show();
+        sharedForm->show();
     }
 }
 
 void MessageForm::createAndShowAs(Role role, QObject *caller){
     if(role == Role::LoadingForm){
-        static MessageForm *form = new MessageForm;
-        form->ui->tabWidget->setCurrentIndex(0);
+        if(sharedForm == NULL){
+            sharedForm = new MessageForm;
+        }
+        sharedForm->ui->tabWidget->setCurrentIndex(0);
         QMovie *movie = new QMovie(":/static/loading_line.gif");
         movie->setScaledSize(QSize(418,216));
         movie->start();
-        form->ui->label->setMovie(movie);
-        form->ui->labTitle->setText("Processing, just a moment...");
-        MessageForm *form_dup = form; //否者在macos上编译时，会报'form' cannot be captured because it does not have automatic storage duration
+        sharedForm->ui->label->setMovie(movie);
+        sharedForm->ui->labTitle->setText("Processing, just a moment...");
+        MessageForm *form_dup = sharedForm; //否者在macos上编译时，会报'form' cannot be captured because it does not have automatic storage duration
         connect((MainWindow*)caller, &MainWindow::closeLoadingForm, [form_dup](){
             form_dup->hide();
         });
-        form->show();
+        sharedForm->show();
     }
 }
 
@@ -82,49 +89,46 @@ void MessageForm::createAndShowAs(Role role,
                     const QString &message,
                     std::function<void(bool)> callback){
     if(role == Role::QueryDialogForm){
-        static MessageForm *form = new MessageForm;
-        form->ui->tabWidget->setCurrentIndex(2);
-        form->setTitle(title);
-        form->ui->labDialogMain->setText(message);
+        if(sharedForm == NULL){
+            sharedForm = new MessageForm;
+        }
+        sharedForm->ui->tabWidget->setCurrentIndex(2);
+        sharedForm->setTitle(title);
+        sharedForm->ui->labDialogMain->setText(message);
         QMovie *movie = new QMovie(":/static/loading_cube.gif");
         movie->setScaledSize(QSize(71, 71));
         movie->start();
-        form->ui->labDialogLeft->setMovie(movie);
+        sharedForm->ui->labDialogLeft->setMovie(movie);
 
-        MessageForm *form_dup = form; //否者在macos上编译时，会报'form' cannot be captured because it does not have automatic storage duration
-        connect(form->ui->btnDialogNO, &QPushButton::clicked, [form_dup, callback](){
+        MessageForm *form_dup = sharedForm; //否者在macos上编译时，会报'form' cannot be captured because it does not have automatic storage duration
+        connect(sharedForm->ui->btnDialogNO, &QPushButton::clicked, [form_dup, callback](){
             form_dup->hide();
             callback(false);
         });
-        connect(form->ui->btnDialogOK, &QPushButton::clicked, [form_dup, callback](){
+        connect(sharedForm->ui->btnDialogOK, &QPushButton::clicked, [form_dup, callback](){
             form_dup->hide();
             callback(true);
         });
-        form->show();
+        sharedForm->show();
     }
 }
 
 void MessageForm::createAndShowAs(Role role,
+                                  int col,
                                   const QString& word,
-                                  std::function<void(QString, QStringList)> callback){
+                                  std::function<void(int, QStringList)> callback){
     if(role == Role::SplitWordForm){
-        static MessageForm *form = new MessageForm;
+        if(sharedForm == NULL){
+            sharedForm = new MessageForm;
+        }
+        sharedForm->cb_splitWord = callback;
+        sharedForm->ui->tabWidget->setCurrentIndex(3);
+        sharedForm->ui->labTitle->setText("Split Word at [" + QString::number(col) + "]");
+        sharedForm->ui->labWordForSplitting->setText(word);
+        sharedForm->ui->SplitWordEdit->clear();
 
-        form->ui->tabWidget->setCurrentIndex(3);
-        form->ui->labTitle->setText("Split Entry Dialog");
-        form->ui->labWordForSplitting->setText(word);
-        form->ui->SplitWordEdit->clear();
-
-        MessageForm *form_dup = form; //否者在macos上编译时，会报'form' cannot be captured because it does not have automatic storage duration
-        connect(form->ui->btnCommitWordSplit, &QPushButton::clicked, [form_dup, callback](){
-            if(!form_dup->ui->SplitWordEdit->toPlainText().isEmpty()){
-                form_dup->hide();
-                QStringList newWords = form_dup->ui->SplitWordEdit->toPlainText().split("\n");
-                callback(form_dup->ui->labWordForSplitting->text(), newWords);
-            }
-        });
-
-        form->show();
+        sharedForm->show();
+        sharedForm->ui->SplitWordEdit->setFocus();
     }
 }
 
@@ -135,7 +139,19 @@ bool MessageForm::eventFilter(QObject *watched, QEvent *event){
             case QEvent::KeyPress:
                 key = (static_cast<QKeyEvent *>(event))->key();
                 if(key == Qt::Key_S && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::ControlModifier)){
-                    on_btnExport_clicked();
+                    on_btnExportTM_clicked();
+                    return true;
+                }
+            default:
+                return false;
+        }
+        return false;
+    }else if(watched == ui->SplitWordEdit){
+        switch(event->type())  {
+            case QEvent::KeyPress:
+                key = (static_cast<QKeyEvent *>(event))->key();
+                if(key == Qt::Key_S && ((static_cast<QKeyEvent *>(event))->modifiers() & Qt::ControlModifier)){
+                    on_btnCommitWordSplit_clicked();
                     return true;
                 }
             default:
@@ -146,7 +162,7 @@ bool MessageForm::eventFilter(QObject *watched, QEvent *event){
     return false;
 }
 
-void MessageForm::on_btnExport_clicked()
+void MessageForm::on_btnExportTM_clicked()
 {
     if(!ui->transMemEdit->toPlainText().isEmpty()){
         QStringList transList = ui->transMemEdit->toPlainText().split("\n", QString::SkipEmptyParts);
@@ -161,3 +177,21 @@ void MessageForm::on_btnClose_clicked(){
     this->hide();
 }
 
+
+void MessageForm::on_btnCommitWordSplit_clicked()
+{
+    if(!sharedForm){
+        return;
+    }
+    if(!sharedForm->ui->SplitWordEdit->toPlainText().isEmpty()){
+        sharedForm->hide();
+        QString colStr= sharedForm->ui->labTitle->text().mid(sharedForm->ui->labTitle->text().lastIndexOf("["));
+        colStr = colStr.mid(1, colStr.lastIndexOf("]")-1);
+        int col = colStr.toInt();
+        QStringList newWords = sharedForm->ui->SplitWordEdit->toPlainText().split("\n", QString::SkipEmptyParts);
+        for(QString word : newWords){
+            DictEngine::instance()->insertTransMem(word, "");
+        }
+        cb_splitWord(col, newWords);
+    }
+}

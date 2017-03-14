@@ -111,7 +111,9 @@ bool MainWindow::eventFilter(QObject *watched, QEvent *event){
                 QKeyEvent* keyEvent = static_cast<QKeyEvent *>(event);
                 key = keyEvent->key();
                 if(keyEvent->modifiers() & Qt::ShiftModifier){
-
+                    ui->tableEntries->horizontalHeaderItem(ui->tableEntries->currentColumn())->setSelected(true);
+                    ui->tableEntries->horizontalHeaderItem(ui->tableEntries->currentColumn()+1)->setSelected(true);
+                    ui->tableEntries->horizontalHeaderItem(ui->tableEntries->currentColumn()-1)->setSelected(true);
                 }else if(keyEvent->modifiers() & Qt::ControlModifier){
                     if(key == Qt::Key_Up){
                         on_btnPrevFrag_clicked();
@@ -168,10 +170,18 @@ bool MainWindow::eventFilter(QObject *watched, QEvent *event){
                         }
                         QString word = ui->tableEntries->horizontalHeaderItem(col)->text();
 
-                        MessageForm::createAndShowAs(MessageForm::Role::SplitWordForm, word, [this, col](QString oldWord, QStringList newWords){
-                            int wordIndex = col;
-                            //todo
-                            FragmentManager::instance()->mFragmentWordList[FragmentManager::instance()->mCurrentIndex].insert(wordIndex, );
+                        MessageForm::createAndShowAs(MessageForm::Role::SplitWordForm, col, word, [this](int wordIndex, QStringList newWords){
+                            //int wordIndex = this->ui->tableEntries->currentItem()->column();
+                            qDebug() << "col:" << wordIndex;
+                            for(int i = 0; i < newWords.length(); i++){
+                                FragmentManager::instance()->mFragmentWordList[FragmentManager::instance()->mCurrentIndex].insert(wordIndex+i, newWords[i]);
+                            }
+                            if(wordIndex + newWords.length() < FragmentManager::instance()->mFragmentWordList[FragmentManager::instance()->mCurrentIndex].length()){
+                                FragmentManager::instance()->mFragmentWordList[FragmentManager::instance()->mCurrentIndex].removeAt(wordIndex + newWords.length());
+                            }
+                            showEntriesTableAsync(FragmentManager::instance()->currentFragmentWords());
+                            this->ui->tableEntries->setCurrentCell(0, wordIndex + newWords.length());
+
                         });
                         return true;
                     }
@@ -305,10 +315,6 @@ void MainWindow::initUI(){
     mEnableOnlineDict = false;
 #endif
 }
-
-
-
-
 
 
 

@@ -86,6 +86,10 @@ private slots:
 
     void on_editKeyword_textChanged(const QString &arg1);
 
+    void on_transMemTable_itemDoubleClicked(QTableWidgetItem *item);
+
+    void on_transMemTable_itemChanged(QTableWidgetItem *item);
+
 private:
     void initUI();
     void updateFileList(const QVector<QStringList> &data);
@@ -103,6 +107,7 @@ private:
     Launcher *mLauncher;
     bool mEnableOnlineDict = false;
     int mReceivedEntryCount = 0;
+    bool mTransMemTableEditing = false;
 };
 
 #endif // MAINWINDOW_H
