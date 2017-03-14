@@ -17,6 +17,7 @@
 #include "ioapi.h"
 #include "iowin32.h"
 
+#ifdef _WIN32
 #ifndef INVALID_HANDLE_VALUE
 #define INVALID_HANDLE_VALUE (0xFFFFFFFF)
 #endif
@@ -460,3 +461,5 @@ void fill_win32_filefunc64W(zlib_filefunc64_def* pzlib_filefunc_def)
     pzlib_filefunc_def->zerror_file = win32_error_file_func;
     pzlib_filefunc_def->opaque = NULL;
 }
+
+#endif//#ifdef _WIN32

@@ -596,7 +596,7 @@ namespace zip{
         fill_win32_filefunc64A(&ffunc);
         zfile = zipOpen2_64(dst.c_str(), (optOverwrite == 2) ? 2 : 0, NULL, &ffunc);
 #else
-        zfile = zipOpen64(filename_try, (opt_overwrite == 2) ? 2 : 0);
+        zfile = zipOpen64(dst.c_str(), (optOverwrite == 2) ? 2 : 0);
 #endif
 
         if (zfile == NULL){
